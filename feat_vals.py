@@ -55,36 +55,15 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, stratify=y)
 
 # Классификация
-clf = tree.DecisionTreeClassifier(max_depth=30)
+clf = tree.DecisionTreeClassifier(min_samples_leaf=30)
 clf = clf.fit(X_train, y_train)
-
-"""
-# Статистика построения дерева
-print "Общее количество узлов: ", clf.tree_.node_count
-
-int_nodes = 0
-for node_id in range(clf.tree_.node_count):
-    if (clf.tree_.children_left[node_id] != clf.tree_.children_right[node_id]):
-        int_nodes = int_nodes + 1
-
-print "Количество внутренних узлов: ", int_nodes
-"""
-
-"""
-# Оценка классификации без вероятностей
-y_pred = clf.predict(X_test)
-
-print "\nConfusion matrix:\n\n", confusion_matrix(y_test, y_pred)
-print "\n", classification_report(y_test, y_pred)
-print "Accuracy:", clf.score(X_test, y_test)
-"""
 
 # Вероятностная классификация
 pred_prob = clf.predict_proba(X_test)
 
 # Таблица вероятностей принадлежности к категориям
-# for i in range(len(pred_prob)):
-#   print pred_prob[i]
+# for item in pred_prob:
+#    print item
 
 class_labels = ['adult', 'alcohol', 'ecommerce',
                 'medical', 'religion', 'Unknown']
