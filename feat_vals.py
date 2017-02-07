@@ -17,17 +17,9 @@ cursor = connect.cursor()
 # Выбираем названия признаков
 cursor.execute("SELECT feature_val FROM aml_files;")
 
-"""
-feature_vals = []
-
-for row in cursor:
-    feature_vals.append(row[0])"""
 # Сохраняем названия признаков в список (длиной 250)
 feature_vals = [row[0] for row in cursor]
-
 # print(feature_vals)
-
-###############################################################
 
 # Выбираем id сайтов и значения свойств (0 или 1) из таблицы dat
 cursor.execute("SELECT website_id,features FROM dat_files;")
@@ -37,37 +29,32 @@ cursor.execute("SELECT website_id,features FROM dat_files;")
 sites_features = cursor.fetchall()
 
 X = []
-
 # Преобразуем в список кортежей с массивом чисел
 # вместо строки (3241859L, [0, 0, 0, ... , 1])
-for cur in range(len(sites_features)):
+for site in sites_features:
     to_int = []
-    for i in sites_features[cur][1]:
+    for i in site[1]:
         if i.isdigit():
             to_int.append(int(i))
-    sites_features[cur] = (sites_features[cur][0], to_int)
+    site = (site[0], to_int)
     X.append(to_int)
 # print(sites_features)
 
-################################################################
 # Выбираем категории сайтов из таблицы dat
 cursor.execute("SELECT categ_basis FROM dat_files;")
 
 # Сохраняем категорию каждого сайта в список (длиной 5000)
 categ_vals = [row[0][20:] for row in cursor]
 y = categ_vals
-
 # print(categ_vals)
 
 ###############################################################
 
 # Разбиение на обучающую и тестовую выборки
-
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, stratify=y)
 
-# Классификация                            min_impurity_split=0.1,
-
+# Классификация
 clf = tree.DecisionTreeClassifier(max_depth=30)
 clf = clf.fit(X_train, y_train)
 
@@ -84,7 +71,7 @@ print "Количество внутренних узлов: ", int_nodes
 """
 
 """
-# Оценка классификации
+# Оценка классификации без вероятностей
 y_pred = clf.predict(X_test)
 
 print "\nConfusion matrix:\n\n", confusion_matrix(y_test, y_pred)
@@ -96,10 +83,8 @@ print "Accuracy:", clf.score(X_test, y_test)
 pred_prob = clf.predict_proba(X_test)
 
 # Таблица вероятностей принадлежности к категориям
-
 # for i in range(len(pred_prob)):
 #   print pred_prob[i]
-
 
 class_labels = ['adult', 'alcohol', 'ecommerce',
                 'medical', 'religion', 'Unknown']
