@@ -1,4 +1,5 @@
 # This Python file uses the following encoding: utf-8
+# Author: Aliaksei Antonau (alant4741@mail.ru)
 import psycopg2
 from sklearn import tree
 from sklearn.model_selection import train_test_split
