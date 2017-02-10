@@ -63,46 +63,62 @@ clf = clf.fit(X_train, y_train)
 pred_prob = clf.predict_proba(X_test)
 
 # Таблица вероятностей принадлежности к категориям
-# for item in pred_prob:
-#    print item
+"""for item in pred_prob:
+    print item"""
 
+# Категории с учётом неизвестной
 class_labels = ['adult', 'alcohol', 'ecommerce',
                 'medical', 'religion', 'Unknown']
 y_pred_with_prob = []
 
-for i in range(len(pred_prob)):
+# Цикл по таблице вероятностей (размером 1000)
+# По умолчанию устанавливается категория Unknown
+# Если одна из вероятностей cur_prob > x, записываем соответствующую ей
+# категорию в результат
+for probs in pred_prob:
     y_pred_with_prob.append(class_labels[5])
-    for k in range(len(pred_prob[i])):
-        if pred_prob[i][k] > 0.8:
-            y_pred_with_prob[i] = class_labels[k]
+    for i, cur_prob in enumerate(probs):
+        if cur_prob > 0.8:
+            y_pred_with_prob[-1] = class_labels[i]
 
-print "\nConfusion matrix (with probability):\n\n", confusion_matrix(y_test, y_pred_with_prob)
-print "\n", classification_report(y_test, y_pred_with_prob,labels=class_labels)
-conf_mat = map(list, zip(*confusion_matrix(y_test, y_pred_with_prob, labels=class_labels)))
-corr_pred = 0
-unknown = 0
-total_sites = len(y_pred_with_prob)
-for i in range(len(conf_mat)):
-    corr_pred += conf_mat[i][i]
+# Формирование матрицы и отчёта
+orig_conf_mat = confusion_matrix(y_test, y_pred_with_prob, labels=class_labels)
+report = classification_report(y_test, y_pred_with_prob, labels=class_labels)
+print "\nConfusion matrix (with probability):\n\n", orig_conf_mat
+print "\n", report
+
+# Преобразование (транспонирование) матрицы для отображения в отчёте excel
+conf_mat = map(list, zip(*orig_conf_mat))
+
+corr_pred = 0  # Количество верно классифицированных сайтов
+unknown = 0  # Количество сайтов, отнесенных к категории неизвестно
+total_sites = len(y_pred_with_prob)  # Всего сайтов изначально
+
+# Цикл подсчёта верно распознанных и неизвестных сайтов
+for i, cur_row in enumerate(conf_mat):
+    corr_pred += cur_row[i]
     unknown += conf_mat[5][i]
-print 'Total correct predicted:', corr_pred, ' (', corr_pred/float(total_sites), ')'
-print 'Total Unknowns:', unknown, ' (', unknown/float(total_sites), ')'
 
-print '\nAccuracy without unknowns:', corr_pred/float(total_sites-unknown)
-print 'Errors without unknowns', (total_sites-corr_pred-unknown)/float(total_sites-unknown)
+errors = total_sites - corr_pred - unknown  # Количество ошибок
+
+# Вывод результатов в консоль
+print 'Total correct predicted:', corr_pred, ' (', corr_pred / float(
+    total_sites), ')'
+print 'Total Unknowns:', unknown, ' (', unknown / float(total_sites), ')'
+print '\nAccuracy without unknowns:', corr_pred / float(total_sites - unknown)
+print 'Errors without unknowns', (errors) / float(total_sites - unknown)
 
 # Создание отчёта в Excel
-workbook = xlsxwriter.Workbook('Example1.xlsx')
+workbook = xlsxwriter.Workbook('Example1.xlsx')  # Имя файла
 worksheet = workbook.add_worksheet()
-worksheet.add_table('B2:G8',{'data': conf_mat, 'autofilter': False})
-
-class_labels_true = ['true adult', 'true alcohol', 'true ecommerce',
-                'true medical', 'true religion', 'true Unknown']
+# Добавление таблицы в отчёт
+worksheet.add_table('B2:G8', {'data': conf_mat, 'autofilter': False})
+# Задание имён столбцов
+class_labels_true = ['true adult', 'true alcohol', 'true ecommerce', 'true medical', 'true religion', 'true Unknown']
 
 worksheet.write_row('B2', class_labels_true)
 
-class_labels_pred = ['pred. adult', 'pred. alcohol', 'pred. ecommerce',
-                'pred. medical', 'pred. religion', 'pred. Unknown']
+class_labels_pred = ['pred. adult', 'pred. alcohol', 'pred. ecommerce', 'pred. medical', 'pred. religion', 'pred. Unknown']
 
 worksheet.write_column('A3', class_labels_pred)
 
