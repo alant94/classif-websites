@@ -49,7 +49,7 @@ categ_vals = [row[0][20:] for row in cursor]
 y = categ_vals
 # print(categ_vals)
 
-###############################################################
+################################################################
 
 # Разбиение на обучающую и тестовую выборки
 X_train, X_test, y_train, y_test = train_test_split(
@@ -81,7 +81,7 @@ for probs in pred_prob:
         if cur_prob > 0.8:
             y_pred_with_prob[-1] = class_labels[i]
 
-# Формирование матрицы и отчёта
+# Формирование матрицы и вывод в консоль
 orig_conf_mat = confusion_matrix(y_test, y_pred_with_prob, labels=class_labels)
 report = classification_report(y_test, y_pred_with_prob, labels=class_labels)
 print "\nConfusion matrix (with probability):\n\n", orig_conf_mat
@@ -100,53 +100,66 @@ for i, cur_row in enumerate(conf_mat):
     unknown += conf_mat[5][i]
 
 errors = total_sites - corr_pred - unknown  # Количество ошибок
+accur = corr_pred / float(total_sites)  # Общая точность
 
 # Вывод результатов в консоль
-print 'Total correct predicted:', corr_pred, ' (', corr_pred / float(
-    total_sites), ')'
+print 'Total correct predicted:', corr_pred, ' (', accur, ')'
 print 'Total Unknowns:', unknown, ' (', unknown / float(total_sites), ')'
 print '\nAccuracy without unknowns:', corr_pred / float(total_sites - unknown)
 print 'Errors without unknowns', (errors) / float(total_sites - unknown)
 
+################################################################
+
 # Создание отчёта в Excel
 workbook = xlsxwriter.Workbook('Example1.xlsx')  # Имя файла
 worksheet = workbook.add_worksheet()
-# Добавление таблицы в отчёт
+# Добавление таблицы conf_mat в отчёт
 worksheet.add_table('B2:G8', {'data': conf_mat, 'autofilter': False})
 # Задание имён столбцов
-class_labels_true = ['true adult', 'true alcohol', 'true ecommerce', 'true medical', 'true religion', 'true Unknown']
-
+class_labels_true = ['true adult', 'true alcohol', 'true ecommerce',
+                     'true medical', 'true religion', 'true Unknown']
 worksheet.write_row('B2', class_labels_true)
-
-class_labels_pred = ['pred. adult', 'pred. alcohol', 'pred. ecommerce', 'pred. medical', 'pred. religion', 'pred. Unknown']
-
+# Задание имён строк
+class_labels_pred = ['pred. adult', 'pred. alcohol', 'pred. ecommerce',
+                     'pred. medical', 'pred. religion', 'pred. Unknown']
 worksheet.write_column('A3', class_labels_pred)
 
-worksheet.write_row('A10', ['category','precision','recall','F-measure', 'allSites'])
+# Задание имён строк и столбцов таблицы метрик
+worksheet.write_row('A10', ['category', 'precision',
+                            'recall', 'F-measure', 'allSites'])
 worksheet.write_column('A11', class_labels)
-#worksheet.write_row('B11',['=B3/SUM(B3:F3)','=B3/SUM(B3:B8)','=2*B11*C11/(B11+C11)','=SUM(B3:B8)'])
-
+# Вычисление метрик
 precision, recall, fscore, support = score(y_test, y_pred_with_prob)
-for i,j in zip(range(1,6),['B11','B12','B13','B14','B15','B16']):
-    worksheet.write_row(j,[precision[i], recall[i], fscore[i], support[i]])
+# Запись вычисленных метрик в таблицу (на 0-ой позиции Unknown)
+for i, j in zip(range(1, 6), ['B11', 'B12', 'B13', 'B14', 'B15', 'B16']):
+    worksheet.write_row(j, [precision[i], recall[i], fscore[i], support[i]])
+worksheet.write_row('B16', [precision[0], recall[0], fscore[0], support[0]])
 
-worksheet.write_row('B16',[precision[0], recall[0], fscore[0], support[0]])
+# Количество ошибок; всего сайтов; верно распознанных сайтов
+worksheet.write_row('A18', ['totalErrPredSites',
+                            'totalSitesCount', 'totalCorrPred'])
+worksheet.write_row('A19', [errors, total_sites, corr_pred])
 
-worksheet.write_row('A18',['totalErrPredSites', 'totalSitesCount', 'totalCorrPred'])
-worksheet.write_row('A19',[total_sites-corr_pred-unknown, total_sites, corr_pred])
+# Средние показатели точности и полноты
+worksheet.write_row('A21', ['accuracy', 'averPrecision', 'averRecall'])
+worksheet.write_row('A22', [accur, sum(
+    precision) / float(len(precision) - 1), sum(recall) / float(len(recall) - 1)])
 
-worksheet.write_row('A21',['accuracy', 'averPrecision', 'averRecall'])
-worksheet.write_row('A22',[corr_pred/float(total_sites), sum(precision) / float(len(precision)-1), sum(recall) / float(len(recall)-1)])
+# Общее количество нераспознанных сайтов и ошибок
+worksheet.write_row(
+    'A24', ['totalUnknowns', 'totalUnrecognized', 'totalErrWithoutUnknown'])
+worksheet.write_row('A25', [unknown, total_sites - corr_pred, errors])
 
-worksheet.write_row('A24',['totalUnknowns', 'totalUnrecognized', 'totalErrWithoutUnknown'])
-worksheet.write_row('A25',[unknown, total_sites-corr_pred, total_sites-corr_pred-unknown])
+# Подведение итогов: показатели в виде части от общего количества сайтов
+worksheet.write('A28', 'SUMMARY')
+worksheet.write_row('A29', ['Accuracy', 'Errors', 'Unknowns'])
+worksheet.write_row(
+    'A30', [accur, errors / float(total_sites), unknown / float(total_sites)])
 
-worksheet.write('A28','SUMMARY')
-worksheet.write_row('A29',['Accuracy', 'Errors', 'Unknowns'])
-worksheet.write_row('A30',[corr_pred/float(total_sites), (total_sites-corr_pred-unknown)/float(total_sites), unknown/float(total_sites)])
-
-worksheet.write_column('A32', ['Accuracy without unknowns', corr_pred/float(total_sites-unknown)])
-worksheet.write_column('A35', ['Errors without unknowns', (total_sites-corr_pred-unknown)/float(total_sites-unknown)])
+worksheet.write_column(
+    'A32', ['Accuracy without unknowns', corr_pred / float(total_sites - unknown)])
+worksheet.write_column('A35', ['Errors without unknowns',
+                               errors / float(total_sites - unknown)])
 
 workbook.close()
 
@@ -154,5 +167,5 @@ workbook.close()
 
 dot_data = tree.export_graphviz(clf, out_file=None)
 graph = pydotplus.graph_from_dot_data(dot_data)
-graph.write_pdf("tree_"+datetime.datetime.now().strftime("%H:%M:%S")+".pdf")
-
+graph.write_pdf(
+    "tree_" + datetime.datetime.now().strftime("%H:%M:%S") + ".pdf")
