@@ -164,7 +164,6 @@ worksheet.write_column('A35', ['Errors without unknowns',
 workbook.close()
 
 # Графическое представление построенного дерева
-
 dot_data = tree.export_graphviz(clf, out_file=None)
 graph = pydotplus.graph_from_dot_data(dot_data)
 graph.write_pdf(
