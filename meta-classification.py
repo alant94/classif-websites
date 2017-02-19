@@ -31,19 +31,16 @@ for site in sites_features:
 
 # Формируем таблицы 5000х50 признаков для каждой категории
 # То есть для категории есть только её признаки у каждого из 5К сайтов
-adult_features = []
-alcohol_features = []
-ecommerce_features = []
-medical_features = []
-religion_features = []
-for cur in all_features:
-    adult_features.append(cur[:50])
-    alcohol_features.append(cur[50:100])
-    ecommerce_features.append(cur[100:150])
-    medical_features.append(cur[150:200])
-    religion_features.append(cur[200:])
+adult_feat, alco_feat, ecomrc_feat, med_feat, relig_feat = [], [], [], [], []
 
-# print ecommerce_features
+for cur in all_features:
+    adult_feat.append(cur[:50])
+    alco_feat.append(cur[50:100])
+    ecomrc_feat.append(cur[100:150])
+    med_feat.append(cur[150:200])
+    relig_feat.append(cur[200:])
+
+# print ecomrc_feat
 
 # Выбираем категории сайтов из таблицы dat
 cursor.execute("SELECT categ_basis FROM dat_files;")
@@ -51,11 +48,11 @@ cursor.execute("SELECT categ_basis FROM dat_files;")
 # Сохраняем категорию каждого сайта в список (длиной 5000)
 categ_vals = [row[0][20:] for row in cursor]
 
-adult_categ = []
-alcohol_categ = []
-ecommerce_categ = []
-medical_categ = []
-religion_categ = []
+# Инициализация списков для хранения категорий
+adult_categ, alco_categ, ecomrc_categ = [], [], []
+med_categ, relig_categ = [], []
+
+# Для каждой категории определяем 2 класса
 for cat in categ_vals:
     if cat == "adult":
         adult_categ.append(cat)
@@ -63,27 +60,23 @@ for cat in categ_vals:
         adult_categ.append("Not_adult")
 
     if cat == "alcohol":
-        alcohol_categ.append(cat)
+        alco_categ.append(cat)
     else:
-        alcohol_categ.append("Not_alcohol")
+        alco_categ.append("Not_alcohol")
 
     if cat == "ecommerce":
-        ecommerce_categ.append(cat)
+        ecomrc_categ.append(cat)
     else:
-        ecommerce_categ.append("Not_ecommerce")
+        ecomrc_categ.append("Not_ecommerce")
 
     if cat == "medical":
-        medical_categ.append(cat)
+        med_categ.append(cat)
     else:
-        medical_categ.append("Not_medical")
+        med_categ.append("Not_medical")
 
     if cat == "religion":
-        religion_categ.append(cat)
+        relig_categ.append(cat)
     else:
-        religion_categ.append("Not_religion")
+        relig_categ.append("Not_religion")
 
-print adult_categ
-print alcohol_categ
-print ecommerce_categ
-print medical_categ
-print religion_categ
+# print adult_categ, alco_categ, ecomrc_categ, med_categ, relig_categ
