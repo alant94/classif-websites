@@ -32,6 +32,7 @@ for site in sites_features:
 # Формируем таблицы 5000х50 признаков для каждой категории
 # То есть для категории есть только её признаки у каждого из 5К сайтов
 adult_feat, alco_feat, ecomrc_feat, med_feat, relig_feat = [], [], [], [], []
+feat_list = [adult_feat, alco_feat, ecomrc_feat, med_feat, relig_feat]
 
 for cur in all_features:
     adult_feat.append(cur[:50])
@@ -51,6 +52,7 @@ categ_vals = [row[0][20:] for row in cursor]
 # Инициализация списков для хранения категорий
 adult_categ, alco_categ, ecomrc_categ = [], [], []
 med_categ, relig_categ = [], []
+categ_list = [adult_categ, alco_categ, ecomrc_categ, med_categ, relig_categ]
 
 # Для каждой категории определяем 2 класса
 for cat in categ_vals:
@@ -80,3 +82,27 @@ for cat in categ_vals:
         relig_categ.append("Not_religion")
 
 # print adult_categ, alco_categ, ecomrc_categ, med_categ, relig_categ
+
+###############################################
+adult_pred, alco_pred, ecomrc_pred = [], [], []
+med_pred, relig_pred = [], []
+pred_list = [adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred]
+
+for feat, categ, pred in zip(feat_list, categ_list, pred_list):
+    # Разбиение на обучающие и тестовые выборки
+    X_train, X_test, y_train, y_test = train_test_split(
+        feat, categ, test_size=0.2, stratify=categ)
+
+    # В качестве классификатора выбрано Дерево решений
+    clf = tree.DecisionTreeClassifier(min_samples_leaf=30)
+    # Обучение классификатора
+    clf = clf.fit(X_train, y_train)
+    # Вероятностная классификация
+    predicted = clf.predict(X_test)
+    print predicted
+    # НЕ СОХРАНЯЕТ!!!
+    pred = predicted
+    # report = classification_report(y_test, pred)
+
+    # print report
+print adult_pred
