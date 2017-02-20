@@ -55,8 +55,9 @@ y = categ_vals
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, stratify=y)
 
-# Классификация
+# В качестве классификатора выбрано Дерево решений
 clf = tree.DecisionTreeClassifier(min_samples_leaf=30)
+# Обучение классификатор
 clf = clf.fit(X_train, y_train)
 
 # Вероятностная классификация
