@@ -129,3 +129,25 @@ for itree, test, pred in zip(tree_list, test_list, pred_list):
 
 print y_test[:3]
 print y_test[-3:]
+
+class_labels = ['adult', 'alcohol', 'ecommerce',
+                'medical', 'religion', 'Unknown']
+y_pred = []
+
+bad = 0
+for ad, al, ec, med, rel in zip(adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred):
+    is_cat = [ad[1], al[1], ec[1], med[1], rel[1]]
+    maxi = max(is_cat)
+    if (is_cat.count(maxi) != 1):
+        bad += 1
+        # print bad, "FUCKFUCKFUCK", maxi, is_cat.count(maxi)
+        y_pred.append(class_labels[5])
+    else:
+        y_pred.append(class_labels[is_cat.index(maxi)])
+
+# print y_pred
+
+orig_conf_mat = confusion_matrix(y_test, y_pred, labels=class_labels)
+report = classification_report(y_test, y_pred, labels=class_labels)
+print "\nConfusion matrix (with probability):\n\n", orig_conf_mat
+print "\n", report
