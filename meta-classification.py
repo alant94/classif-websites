@@ -100,14 +100,32 @@ alco_tree = clf.fit(alco_feat, alco_categ)
 ecomrc_tree = clf.fit(ecomrc_feat, ecomrc_categ)
 med_tree = clf.fit(med_feat, med_categ)
 relig_tree = clf.fit(relig_feat, relig_categ)
+# Список всех деревьев
+tree_list = [adult_tree, alco_tree, ecomrc_tree, med_tree, relig_tree]
 
-"""
+# Подготовка тестовой выборки X_test для эксперимента
+# Все списки хранят свои признаки для подачи на вход деревьям
+adult_test, alco_test, ecomrc_test, med_test, relig_test = [], [], [], [], []
+test_list = [adult_test, alco_test, ecomrc_test, med_test, relig_test]
+
+for cur in X_test:
+    adult_test.append(cur[:50])
+    alco_test.append(cur[50:100])
+    ecomrc_test.append(cur[100:150])
+    med_test.append(cur[150:200])
+    relig_test.append(cur[200:])
+
+# Эти переменные хранят двумерные списки вероятностей
 adult_pred, alco_pred, ecomrc_pred = [], [], []
 med_pred, relig_pred = [], []
 pred_list = [adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred]
-"""
-# Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
-# predicted = clf.predict_proba(X_test)
-# print predicted
-# Заменяем содержимое списка на предсказанные значения
-# pred[0:-1] = predicted
+
+for itree, test, pred in zip(tree_list, test_list, pred_list):
+    # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
+    predicted = itree.predict_proba(test)
+    print predicted
+    # Заменяем содержимое списка на предсказанные значения
+    pred[0:-1] = predicted
+
+print y_test[:3]
+print y_test[-3:]
