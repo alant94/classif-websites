@@ -6,6 +6,8 @@ from sklearn import tree
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
+import xlsxwriter
+from sklearn.metrics import precision_recall_fscore_support as score
 
 # Соединение с базой данных
 connect = psycopg2.connect(
@@ -120,34 +122,122 @@ adult_pred, alco_pred, ecomrc_pred = [], [], []
 med_pred, relig_pred = [], []
 pred_list = [adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred]
 
+# Подготовленные тестовые данные подаём на вход нужным
+# деревьям и сохраняем результат работы каждого из деревьев
 for itree, test, pred in zip(tree_list, test_list, pred_list):
     # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
     predicted = itree.predict_proba(test)
-    print predicted
+    # print predicted
     # Заменяем содержимое списка на предсказанные значения
     pred[0:-1] = predicted
 
-print y_test[:3]
-print y_test[-3:]
+# print y_test[:3]
+# print y_test[-3:]
 
+# Категории с учётом неизвестной
 class_labels = ['adult', 'alcohol', 'ecommerce',
                 'medical', 'religion', 'Unknown']
 y_pred = []
 
+# Минимальное значение вероятности для отнесения к одной из категорий
+probab = 0.3
+# Количество спорных/непонятных ситуаций (Unknown)
 bad = 0
+# Цикл для определения окончательной категории каждого из тестовых экземпляров
 for ad, al, ec, med, rel in zip(adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred):
+    # Среди вероятностий принадлежности к категориям ищем максимум
     is_cat = [ad[1], al[1], ec[1], med[1], rel[1]]
     maxi = max(is_cat)
-    if (is_cat.count(maxi) != 1):
+    # Если максимумов несколько или он меньше порогового значения,
+    # итоговая категория данного экземпляра - Unknown
+    if (is_cat.count(maxi) != 1)or(maxi < probab):
         bad += 1
-        # print bad, "FUCKFUCKFUCK", maxi, is_cat.count(maxi)
+        # print bad, "Problems...", maxi, is_cat.count(maxi)
         y_pred.append(class_labels[5])
     else:
         y_pred.append(class_labels[is_cat.index(maxi)])
 
 # print y_pred
 
+# Формирование матрицы и вывод в консоль
 orig_conf_mat = confusion_matrix(y_test, y_pred, labels=class_labels)
 report = classification_report(y_test, y_pred, labels=class_labels)
 print "\nConfusion matrix (with probability):\n\n", orig_conf_mat
 print "\n", report
+
+# Преобразование (транспонирование) матрицы для отображения в отчёте excel
+conf_mat = map(list, zip(*orig_conf_mat))
+
+corr_pred = 0  # Количество верно классифицированных сайтов
+unknown = 0  # Количество сайтов, отнесенных к категории неизвестно
+total_sites = len(y_pred)  # Всего сайтов изначально
+
+# Цикл подсчёта верно распознанных и неизвестных сайтов
+for i, cur_row in enumerate(conf_mat):
+    corr_pred += cur_row[i]
+    unknown += conf_mat[5][i]
+
+errors = total_sites - corr_pred - unknown  # Количество ошибок
+accur = corr_pred / float(total_sites)  # Общая точность
+
+# Вывод результатов в консоль
+print 'Total correct predicted:', corr_pred, ' (', accur, ')'
+print 'Total Unknowns:', unknown, ' (', unknown / float(total_sites), ')'
+print '\nAccuracy without unknowns:', corr_pred / float(total_sites - unknown)
+print 'Errors without unknowns', (errors) / float(total_sites - unknown)
+
+################################################################
+
+# Создание отчёта в Excel
+workbook = xlsxwriter.Workbook('report (min_leaf = ' + str(
+    clf.min_samples_leaf) + '; prob = ' + str(probab) + ')' + '.xlsx')  # Имя файла
+worksheet = workbook.add_worksheet()
+# Добавление таблицы conf_mat в отчёт
+worksheet.add_table('B2:G8', {'data': conf_mat, 'autofilter': False})
+# Задание имён столбцов
+class_labels_true = ['true adult', 'true alcohol', 'true ecommerce',
+                     'true medical', 'true religion', 'true Unknown']
+worksheet.write_row('B2', class_labels_true)
+# Задание имён строк
+class_labels_pred = ['pred. adult', 'pred. alcohol', 'pred. ecommerce',
+                     'pred. medical', 'pred. religion', 'pred. Unknown']
+worksheet.write_column('A3', class_labels_pred)
+
+# Задание имён строк и столбцов таблицы метрик
+worksheet.write_row('A10', ['category', 'precision',
+                            'recall', 'F-measure', 'allSites'])
+worksheet.write_column('A11', class_labels)
+# Вычисление метрик
+precision, recall, fscore, support = score(y_test, y_pred)
+# Запись вычисленных метрик в таблицу (на 0-ой позиции Unknown)
+for i, j in zip(range(1, 6), ['B11', 'B12', 'B13', 'B14', 'B15', 'B16']):
+    worksheet.write_row(j, [precision[i], recall[i], fscore[i], support[i]])
+worksheet.write_row('B16', [precision[0], recall[0], fscore[0], support[0]])
+
+# Количество ошибок; всего сайтов; верно распознанных сайтов
+worksheet.write_row('A18', ['totalErrPredSites',
+                            'totalSitesCount', 'totalCorrPred'])
+worksheet.write_row('A19', [errors, total_sites, corr_pred])
+
+# Средние показатели точности и полноты
+worksheet.write_row('A21', ['accuracy', 'averPrecision', 'averRecall'])
+worksheet.write_row('A22', [accur, sum(
+    precision) / float(len(precision) - 1), sum(recall) / float(len(recall) - 1)])
+
+# Общее количество нераспознанных сайтов и ошибок
+worksheet.write_row(
+    'A24', ['totalUnknowns', 'totalUnrecognized', 'totalErrWithoutUnknown'])
+worksheet.write_row('A25', [unknown, total_sites - corr_pred, errors])
+
+# Подведение итогов: показатели в виде части от общего количества сайтов
+worksheet.write('A28', 'SUMMARY')
+worksheet.write_row('A29', ['Accuracy', 'Errors', 'Unknowns'])
+worksheet.write_row(
+    'A30', [accur, errors / float(total_sites), unknown / float(total_sites)])
+
+worksheet.write_column(
+    'A32', ['Accuracy without unknowns', corr_pred / float(total_sites - unknown)])
+worksheet.write_column('A35', ['Errors without unknowns',
+                               errors / float(total_sites - unknown)])
+
+workbook.close()
