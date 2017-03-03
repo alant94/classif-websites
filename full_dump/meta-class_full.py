@@ -11,18 +11,18 @@ from sklearn.metrics import precision_recall_fscore_support as score
 
 # Соединение с базой данных
 connect = psycopg2.connect(
-    database='Classy', user='postgres', host='localhost', password='postgres')
+    database='Full_Dump', user='postgres', host='localhost', password='postgres')
 cursor = connect.cursor()
 
 # Выбираем значения свойств (0 или 1) из таблицы dat
-cursor.execute("SELECT features FROM dat_files;")
+cursor.execute("SELECT features FROM dat_files WHERE entry_id < 10001;")
 
 # Cохраняем результат в список, хранящий кортежи вида
 # (["0" "0" "0" ... "0" "0" "1"],)
 sites_features = cursor.fetchall()
 # print (sites_features)
 
-all_features = []  # хранит таблицу 5000 строк по 250 признаков
+all_features = []  # хранит таблицу 10000 строк по 500 признаков
 for site in sites_features:
     to_int = []
     for i in site[0]:
@@ -33,10 +33,11 @@ for site in sites_features:
 # print all_features
 
 # Выбираем категории сайтов из таблицы dat
-cursor.execute("SELECT categ_basis FROM dat_files;")
+cursor.execute("SELECT categ_basis FROM dat_files WHERE entry_id < 10001;")
 
-# Сохраняем категорию каждого сайта в список (длиной 5000)
-categ_vals = [row[0][20:] for row in cursor]
+# Сохраняем категорию каждого сайта в список (длиной 10000)
+categ_vals = [row[0][40:] for row in cursor]
+# print categ_vals
 
 #################################################
 # Разбиваем всю выборку на тренировочный и тестовый наборы
@@ -45,25 +46,52 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 # Формируем таблицы 4000х50 признаков для каждой категории
 # То есть для категории есть только её признаки у каждого из 4К сайтов
-adult_feat, alco_feat, ecomrc_feat, med_feat, relig_feat = [], [], [], [], []
-feat_list = [adult_feat, alco_feat, ecomrc_feat, med_feat, relig_feat]
+mus_feat, gam_feat, chat_feat, ecomrc_feat, adult_feat = [], [], [], [], []
+alco_feat, hunt_feat, news_feat, med_feat, relig_feat = [], [], [], [], []
+feat_list = [mus_feat, gam_feat, chat_feat, ecomrc_feat,
+             adult_feat, alco_feat, hunt_feat, news_feat, med_feat, relig_feat]
 
 for cur in X_train:
-    adult_feat.append(cur[:50])
-    alco_feat.append(cur[50:100])
-    ecomrc_feat.append(cur[100:150])
-    med_feat.append(cur[150:200])
-    relig_feat.append(cur[200:])
-
+    mus_feat.append(cur[:50])
+    gam_feat.append(cur[50:100])
+    chat_feat.append(cur[100:150])
+    ecomrc_feat.append(cur[150:200])
+    adult_feat.append(cur[200:250])
+    alco_feat.append(cur[250:300])
+    hunt_feat.append(cur[300:350])
+    news_feat.append(cur[350:400])
+    med_feat.append(cur[400:450])
+    relig_feat.append(cur[450:])
 # print ecomrc_feat
 
 # Инициализация списков для хранения категорий
-adult_categ, alco_categ, ecomrc_categ = [], [], []
-med_categ, relig_categ = [], []
-categ_list = [adult_categ, alco_categ, ecomrc_categ, med_categ, relig_categ]
+mus_categ, gam_categ, chat_categ, ecomrc_categ, adult_categ = [], [], [], [], []
+alco_categ, hunt_categ, news_categ, med_categ, relig_categ = [], [], [], [], []
+categ_list = [mus_categ, gam_categ, chat_categ, ecomrc_categ, adult_categ,
+              alco_categ, hunt_categ, news_categ, med_categ, relig_categ]
 
 # Для каждой категории определяем 2 класса
 for cat in y_train:
+    if cat == "music":
+        mus_categ.append(cat)
+    else:
+        mus_categ.append("Not_music")
+
+    if cat == "gamesonline":
+        gam_categ.append(cat)
+    else:
+        gam_categ.append("Not_gamesonline")
+
+    if cat == "chat":
+        chat_categ.append(cat)
+    else:
+        chat_categ.append("Not_chat")
+
+    if cat == "ecommerce":
+        ecomrc_categ.append(cat)
+    else:
+        ecomrc_categ.append("Not_ecommerce")
+
     if cat == "adult":
         adult_categ.append(cat)
     else:
@@ -74,10 +102,15 @@ for cat in y_train:
     else:
         alco_categ.append("Not_alcohol")
 
-    if cat == "ecommerce":
-        ecomrc_categ.append(cat)
+    if cat == "hunting":
+        hunt_categ.append(cat)
     else:
-        ecomrc_categ.append("Not_ecommerce")
+        hunt_categ.append("Not_hunting")
+
+    if cat == "news":
+        news_categ.append(cat)
+    else:
+        news_categ.append("Not_news")
 
     if cat == "medical":
         med_categ.append(cat)
@@ -89,7 +122,10 @@ for cat in y_train:
     else:
         relig_categ.append("Not_religion")
 
-# print adult_categ, alco_categ, ecomrc_categ, med_categ, relig_categ
+# print mus_categ, news_categ, hunt_categ, chat_categ, gam_categ
+
+'''
+
 
 ###############################################
 # Обучение деревьев решений для каждой категории
@@ -241,3 +277,4 @@ worksheet.write_column('A35', ['Errors without unknowns',
                                errors / float(total_sites - unknown)])
 
 workbook.close()
+'''
