@@ -70,62 +70,23 @@ alco_categ, hunt_categ, news_categ, med_categ, relig_categ = [], [], [], [], []
 categ_list = [mus_categ, gam_categ, chat_categ, ecomrc_categ, adult_categ,
               alco_categ, hunt_categ, news_categ, med_categ, relig_categ]
 
-# Для каждой категории определяем 2 класса
-for cat in y_train:
-    if cat == "music":
-        mus_categ.append(cat)
-    else:
-        mus_categ.append("Not_music")
+classes_list = ['music', 'gamesonline', 'chat', 'ecommerce',
+                'adult', 'alcohol', 'hunting', 'news', 'medical', 'religion']
 
-    if cat == "gamesonline":
-        gam_categ.append(cat)
-    else:
-        gam_categ.append("Not_gamesonline")
+# Для каждой категории (из 8000) определяем по 2 класса
+# В итоге получаем 10 списков длиной 8000 ('chat', ..., 'Not_chat')
+for unit in y_train:
+    for clas, cat in izip(classes_list, categ_list):
+        if unit == clas:
+            cat.append(unit)
+        else:
+            cat.append('Not_' + clas)
 
-    if cat == "chat":
-        chat_categ.append(cat)
-    else:
-        chat_categ.append("Not_chat")
-
-    if cat == "ecommerce":
-        ecomrc_categ.append(cat)
-    else:
-        ecomrc_categ.append("Not_ecommerce")
-
-    if cat == "adult":
-        adult_categ.append(cat)
-    else:
-        adult_categ.append("Not_adult")
-
-    if cat == "alcohol":
-        alco_categ.append(cat)
-    else:
-        alco_categ.append("Not_alcohol")
-
-    if cat == "hunting":
-        hunt_categ.append(cat)
-    else:
-        hunt_categ.append("Not_hunting")
-
-    if cat == "news":
-        news_categ.append(cat)
-    else:
-        news_categ.append("Not_news")
-
-    if cat == "medical":
-        med_categ.append(cat)
-    else:
-        med_categ.append("Not_medical")
-
-    if cat == "religion":
-        relig_categ.append(cat)
-    else:
-        relig_categ.append("Not_religion")
-
+# print len(alco_categ)
 # print mus_categ, news_categ, hunt_categ, chat_categ, gam_categ
 
-'''
 
+'''
 
 ###############################################
 # Обучение деревьев решений для каждой категории
