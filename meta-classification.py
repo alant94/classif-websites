@@ -124,7 +124,7 @@ pred_list = [adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred]
 
 # Подготовленные тестовые данные подаём на вход нужным
 # деревьям и сохраняем результат работы каждого из деревьев
-for itree, test, pred in zip(tree_list, test_list, pred_list):
+for itree, test, pred in izip(tree_list, test_list, pred_list):
     # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
     predicted = itree.predict_proba(test)
     # print predicted
@@ -144,7 +144,7 @@ probab = 0.3
 # Количество спорных/непонятных ситуаций (Unknown)
 bad = 0
 # Цикл для определения окончательной категории каждого из тестовых экземпляров
-for ad, al, ec, med, rel in zip(adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred):
+for ad, al, ec, med, rel in izip(adult_pred, alco_pred, ecomrc_pred, med_pred, relig_pred):
     # Среди вероятностий принадлежности к категориям ищем максимум
     is_cat = [ad[1], al[1], ec[1], med[1], rel[1]]
     maxi = max(is_cat)
