@@ -88,7 +88,7 @@ for unit in y_train:
 ###############################################
 # Обучение деревьев решений для каждой категории
 # В качестве классификатора выбрано Дерево решений
-clf = tree.DecisionTreeClassifier(min_samples_leaf=40)
+clf = tree.DecisionTreeClassifier(min_samples_leaf=1)
 
 # Инициализация списков для хранения моделей деревьев
 mus_tree, gam_tree, chat_tree, ecomrc_tree, adult_tree = clf, clf, clf, clf, clf
@@ -97,8 +97,77 @@ tree_list = [mus_tree, gam_tree, chat_tree, ecomrc_tree,
              adult_tree, alco_tree, hunt_tree, news_tree, med_tree, relig_tree]
 
 # Обучение классификатора для каждой из категорий
-for tree, feat, cat in izip(tree_list, feat_list, categ_list):
-    tree = clf.fit(feat, cat)
+for ex_tree, feat, cat in izip(tree_list, feat_list, categ_list):
+    ex_tree = clf.fit(feat, cat)
+
+
+#############################################
+# Второй уровень: проводим вероятностную классификацию
+# для 8000 тысяч сайтов из обучающей выборки
+
+mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred = [], [], [], [], []
+alco_pred, hunt_pred, news_pred, med_pred, relig_pred = [], [], [], [], []
+midpred_list = [mus_pred, gam_pred, chat_pred, ecomrc_pred,
+                adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred]
+
+#########################
+
+# Подготовленные данные подаём на вход нужным
+# деревьям и сохраняем результат работы каждого из деревьев
+for some_tree, train, midpred in izip(tree_list, feat_list, midpred_list):
+    # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
+    predicted = some_tree.predict_proba(train)
+    # print predicted
+    # Заменяем содержимое списка на предсказанные значения
+    midpred[0:-1] = predicted
+
+# УЖЕ ТУТ (на втором уровне ПЛОХИЕ ВЕРОЯТНОСТИ)
+# for n, m in zip (midpred_list, categ_list):
+#    print n[5915], m[5915]
+
+# Преобразование данных в таблицу 8000х10, в которой хранятся вероятности
+# принадлежности каждого сайта к каждой категории
+mas, X_mas = [], []
+for a, b, c, d, e, f, g, h, i, j in zip(mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred):
+    mas.append(a[1])
+    mas.append(b[1])
+    mas.append(c[1])
+    mas.append(d[1])
+    mas.append(e[1])
+    mas.append(f[1])
+    mas.append(g[1])
+    mas.append(h[1])
+    mas.append(i[1])
+    mas.append(j[1])
+    X_mas.append(mas)
+    mas = []
+
+arr, X_arr = [], []
+for count in range(len(mus_pred)):
+    for item in midpred_list:
+        arr.append(item[count][1])
+    X_arr.append(arr)
+    arr = []
+
+# for tes, kes in zip(X_mas, X_arr):
+#    print tes==kes
+#    print tes, "\n", kes, "\n", "\n"
+
+
+# В качестве классификатора второго уровня выбрано Дерево решений
+newclf = tree.DecisionTreeClassifier(min_samples_leaf=20)
+
+# Обучение верхнеуровнего классификатора:
+high_tree = newclf.fit(X_mas, y_train)
+
+# print mus_pred[7564], gam_pred[7564], chat_pred[7564], ecomrc_pred[7564], adult_pred[7564], alco_pred[7564], hunt_pred[7564], news_pred[7564], med_pred[7564], relig_pred[7564]
+# print X_mas [7564]
+
+# print mus_pred[5555]
+# print mus_pred[5555][1]
+# print len(mus_pred)
+##############################################
+
 
 # Подготовка тестовой выборки X_test для эксперимента
 # Все списки хранят свои признаки для подачи на вход деревьям
@@ -120,15 +189,15 @@ for cur in X_test:
     relig_test.append(cur[450:])
 
 # Эти переменные будут хранить двумерные списки вероятностей
-mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred = [], [], [], [], []
-alco_pred, hunt_pred, news_pred, med_pred, relig_pred = [], [], [], [], []
-pred_list = [mus_pred, gam_pred, chat_pred, ecomrc_pred,
-             adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred]
+newmus_pred, newgam_pred, newchat_pred, newecomrc_pred, newadult_pred = [], [], [], [], []
+newalco_pred, newhunt_pred, newnews_pred, newmed_pred, newrelig_pred = [], [], [], [], []
+newpred_list = [newmus_pred, newgam_pred, newchat_pred, newecomrc_pred,
+                newadult_pred, newalco_pred, newhunt_pred, newnews_pred, newmed_pred, newrelig_pred]
 
 
 # Подготовленные тестовые данные подаём на вход нужным
 # деревьям и сохраняем результат работы каждого из деревьев
-for itree, test, pred in izip(tree_list, test_list, pred_list):
+for itree, test, pred in izip(tree_list, test_list, newpred_list):
     # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
     predicted = itree.predict_proba(test)
     # print predicted
@@ -138,34 +207,59 @@ for itree, test, pred in izip(tree_list, test_list, pred_list):
 # print y_test[:3]
 # print y_test[-3:]
 
+newmas = []
+X_newmas = []
+for a, b, c, d, e, f, g, h, i, j in zip(mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred):
+    newmas.append(a[1])
+    newmas.append(b[1])
+    newmas.append(c[1])
+    newmas.append(d[1])
+    newmas.append(e[1])
+    newmas.append(f[1])
+    newmas.append(g[1])
+    newmas.append(h[1])
+    newmas.append(i[1])
+    newmas.append(j[1])
+    X_newmas.append(newmas)
+    newmas = []
+
+
+prob_pred = high_tree.predict_proba(X_newmas)
+
+"""
+for a in prob_pred:
+    print a
+    print max(a)
+print len(prob_pred)
+"""
 
 # Категории с учётом неизвестной
 class_labels = ['music', 'gamesonline', 'chat', 'ecommerce', 'adult',
                 'alcohol', 'hunting', 'news', 'medical', 'religion', 'Unknown']
+
 y_pred = []
 
 # Минимальное значение вероятности для отнесения к одной из категорий
-probab = 0.6
+probab = 0.3
 # Количество спорных/непонятных ситуаций (Unknown)
 bad = 0
 # Цикл для определения окончательной категории каждого из тестовых экземпляров
-for mus, gam, ch, ec, ad, al, hn, nw, med, rel in izip(mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred):
+for cur in prob_pred:
     # Среди вероятностий принадлежности к категориям ищем максимум
-    is_cat = [mus[1], gam[1], ch[1], ec[1], ad[
-        1], al[1], hn[1], nw[1], med[1], rel[1]]
-    maxi = max(is_cat)
+    maxi = max(cur)
     # Если максимумов несколько или он меньше порогового значения,
     # итоговая категория данного экземпляра - Unknown
-    if (is_cat.count(maxi) != 1)or(maxi < probab):
+
+    if (cur.tolist().count(maxi) != 1)or(maxi < probab):
         bad += 1
         # print bad, "Problems...", maxi, is_cat.count(maxi)
         y_pred.append(class_labels[10])
     else:
-        y_pred.append(class_labels[is_cat.index(maxi)])
+        y_pred.append(class_labels[cur.tolist().index(maxi)])
 
 # print y_pred
 
-
+"""
 # Формирование матрицы и вывод в консоль
 orig_conf_mat = confusion_matrix(y_test, y_pred, labels=class_labels)
 report = classification_report(y_test, y_pred, labels=class_labels)
@@ -249,3 +343,4 @@ worksheet.write_column('A45', ['Errors without unknowns',
                                errors / float(total_sites - unknown)])
 
 workbook.close()
+"""
