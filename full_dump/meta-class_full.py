@@ -88,7 +88,7 @@ for unit in y_train:
 ###############################################
 # Обучение деревьев решений для каждой категории
 # В качестве классификатора выбрано Дерево решений
-clf = tree.DecisionTreeClassifier(min_samples_leaf=1)
+clf = tree.DecisionTreeClassifier()  # min_samples_leaf=1
 
 # Инициализация списков для хранения моделей деревьев
 mus_tree, gam_tree, chat_tree, ecomrc_tree, adult_tree = clf, clf, clf, clf, clf
@@ -110,8 +110,6 @@ alco_pred, hunt_pred, news_pred, med_pred, relig_pred = [], [], [], [], []
 midpred_list = [mus_pred, gam_pred, chat_pred, ecomrc_pred,
                 adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred]
 
-#########################
-
 # Подготовленные данные подаём на вход нужным
 # деревьям и сохраняем результат работы каждого из деревьев
 for some_tree, train, midpred in izip(tree_list, feat_list, midpred_list):
@@ -121,27 +119,12 @@ for some_tree, train, midpred in izip(tree_list, feat_list, midpred_list):
     # Заменяем содержимое списка на предсказанные значения
     midpred[0:-1] = predicted
 
-# УЖЕ ТУТ (на втором уровне ПЛОХИЕ ВЕРОЯТНОСТИ)
+# УЖЕ ТУТ (на втором уровне) ПЛОХИЕ ВЕРОЯТНОСТИ
 # for n, m in zip (midpred_list, categ_list):
 #    print n[5915], m[5915]
 
 # Преобразование данных в таблицу 8000х10, в которой хранятся вероятности
 # принадлежности каждого сайта к каждой категории
-mas, X_mas = [], []
-for a, b, c, d, e, f, g, h, i, j in zip(mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred):
-    mas.append(a[1])
-    mas.append(b[1])
-    mas.append(c[1])
-    mas.append(d[1])
-    mas.append(e[1])
-    mas.append(f[1])
-    mas.append(g[1])
-    mas.append(h[1])
-    mas.append(i[1])
-    mas.append(j[1])
-    X_mas.append(mas)
-    mas = []
-
 arr, X_arr = [], []
 for count in range(len(mus_pred)):
     for item in midpred_list:
@@ -149,16 +132,16 @@ for count in range(len(mus_pred)):
     X_arr.append(arr)
     arr = []
 
-# for tes, kes in zip(X_mas, X_arr):
-#    print tes==kes
-#    print tes, "\n", kes, "\n", "\n"
+# for tes in X_arr:
+#    print tes
+# print len(X_arr)
 
 
 # В качестве классификатора второго уровня выбрано Дерево решений
-newclf = tree.DecisionTreeClassifier(min_samples_leaf=20)
+newclf = tree.DecisionTreeClassifier()  # (min_samples_leaf=20)
 
 # Обучение верхнеуровнего классификатора:
-high_tree = newclf.fit(X_mas, y_train)
+high_tree = newclf.fit(X_arr, y_train)
 
 # print mus_pred[7564], gam_pred[7564], chat_pred[7564], ecomrc_pred[7564], adult_pred[7564], alco_pred[7564], hunt_pred[7564], news_pred[7564], med_pred[7564], relig_pred[7564]
 # print X_mas [7564]
@@ -191,47 +174,43 @@ for cur in X_test:
 # Эти переменные будут хранить двумерные списки вероятностей
 newmus_pred, newgam_pred, newchat_pred, newecomrc_pred, newadult_pred = [], [], [], [], []
 newalco_pred, newhunt_pred, newnews_pred, newmed_pred, newrelig_pred = [], [], [], [], []
-newpred_list = [newmus_pred, newgam_pred, newchat_pred, newecomrc_pred,
-                newadult_pred, newalco_pred, newhunt_pred, newnews_pred, newmed_pred, newrelig_pred]
-
+newpred_list = [newmus_pred, newgam_pred, newchat_pred, newecomrc_pred, newadult_pred, newalco_pred, newhunt_pred, newnews_pred, newmed_pred, newrelig_pred]
 
 # Подготовленные тестовые данные подаём на вход нужным
 # деревьям и сохраняем результат работы каждого из деревьев
-for itree, test, pred in izip(tree_list, test_list, newpred_list):
+for xtree, xtest, xpred in izip(tree_list, test_list, newpred_list):
     # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
-    predicted = itree.predict_proba(test)
+    xpredicted = xtree.predict_proba(xtest)
     # print predicted
     # Заменяем содержимое списка на предсказанные значения
-    pred[0:-1] = predicted
+    xpred[0:-1] = xpredicted
 
-# print y_test[:3]
-# print y_test[-3:]
-
-newmas = []
-X_newmas = []
-for a, b, c, d, e, f, g, h, i, j in zip(mus_pred, gam_pred, chat_pred, ecomrc_pred, adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred):
-    newmas.append(a[1])
-    newmas.append(b[1])
-    newmas.append(c[1])
-    newmas.append(d[1])
-    newmas.append(e[1])
-    newmas.append(f[1])
-    newmas.append(g[1])
-    newmas.append(h[1])
-    newmas.append(i[1])
-    newmas.append(j[1])
-    X_newmas.append(newmas)
-    newmas = []
+# print newgam_pred[:3]
+# print newgam_pred[-3:]
 
 
-prob_pred = high_tree.predict_proba(X_newmas)
+newarr, X_newarr = [], []
+for count in range(len(newmus_pred)):
+    for item in newpred_list:
+        newarr.append(item[count][1])
+    X_newarr.append(newarr)
+    newarr = []
 
-"""
-for a in prob_pred:
-    print a
-    print max(a)
-print len(prob_pred)
-"""
+# for les in X_newarr:
+#    print les
+# print len(X_newarr)
+
+
+# Собственно окончательная классификация на 2ом уровне
+# В результате массив prob_pred хранит 2000х10 вероятностей принадлежности
+# к каждой из категорий для каждого сайта
+prob_pred = high_tree.predict_proba(X_newarr)
+
+# for a in prob_pred:
+#    print a
+#    print max(a)
+# print len(prob_pred)
+
 
 # Категории с учётом неизвестной
 class_labels = ['music', 'gamesonline', 'chat', 'ecommerce', 'adult',
@@ -240,7 +219,7 @@ class_labels = ['music', 'gamesonline', 'chat', 'ecommerce', 'adult',
 y_pred = []
 
 # Минимальное значение вероятности для отнесения к одной из категорий
-probab = 0.3
+probab = 0.5
 # Количество спорных/непонятных ситуаций (Unknown)
 bad = 0
 # Цикл для определения окончательной категории каждого из тестовых экземпляров
@@ -259,7 +238,9 @@ for cur in prob_pred:
 
 # print y_pred
 
-"""
+
+
+
 # Формирование матрицы и вывод в консоль
 orig_conf_mat = confusion_matrix(y_test, y_pred, labels=class_labels)
 report = classification_report(y_test, y_pred, labels=class_labels)
@@ -287,7 +268,7 @@ print 'Total Unknowns:', unknown, ' (', unknown / float(total_sites), ')'
 print '\nAccuracy without unknowns:', corr_pred / float(total_sites - unknown)
 print 'Errors without unknowns', (errors) / float(total_sites - unknown)
 
-
+"""
 ################################################################
 
 # Создание отчёта в Excel
