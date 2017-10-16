@@ -9,9 +9,13 @@ from sklearn.metrics import confusion_matrix
 import xlsxwriter
 from sklearn.metrics import precision_recall_fscore_support as score
 
+import pydotplus
+import datetime
+
+
 # Соединение с базой данных
 connect = psycopg2.connect(
-    database='Full_Dump', user='postgres', host='localhost', password='postgres')
+    database='Classification', user='postgres', host='localhost', password='postgres')
 cursor = connect.cursor()
 
 # Выбираем значения свойств (0 или 1) из таблицы dat
@@ -88,20 +92,32 @@ for unit in y_train:
 ###############################################
 # Обучение деревьев решений для каждой категории
 # В качестве классификатора выбрано Дерево решений
-clf = tree.DecisionTreeClassifier()  # min_samples_leaf=1
 
+# clf = tree.DecisionTreeClassifier()  # min_samples_leaf=1
+msl = 30
 # Инициализация списков для хранения моделей деревьев
-mus_tree, gam_tree, chat_tree, ecomrc_tree, adult_tree = clf, clf, clf, clf, clf
-alco_tree, hunt_tree, news_tree, med_tree, relig_tree = clf, clf, clf, clf, clf
+mus_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+gam_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+chat_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+ecomrc_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+adult_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+alco_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+hunt_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+news_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+med_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+relig_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 tree_list = [mus_tree, gam_tree, chat_tree, ecomrc_tree,
              adult_tree, alco_tree, hunt_tree, news_tree, med_tree, relig_tree]
 
 # Обучение классификатора для каждой из категорий
 for ex_tree, feat, cat in izip(tree_list, feat_list, categ_list):
-    ex_tree = clf.fit(feat, cat)
+    ex_tree = ex_tree.fit(feat, cat)
+
+# for i in tree_list:
+#    print i.classes_
 
 
-#############################################
+##############ШАГ 4 из блокнота##################
 # Второй уровень: проводим вероятностную классификацию
 # для 8000 тысяч сайтов из обучающей выборки
 
@@ -110,16 +126,16 @@ alco_pred, hunt_pred, news_pred, med_pred, relig_pred = [], [], [], [], []
 midpred_list = [mus_pred, gam_pred, chat_pred, ecomrc_pred,
                 adult_pred, alco_pred, hunt_pred, news_pred, med_pred, relig_pred]
 
+
 # Подготовленные данные подаём на вход нужным
 # деревьям и сохраняем результат работы каждого из деревьев
 for some_tree, train, midpred in izip(tree_list, feat_list, midpred_list):
     # Вероятностная классификация (причём внутри вер-сти [Not_cat, cat])
     predicted = some_tree.predict_proba(train)
-    # print predicted
+#    print predicted
     # Заменяем содержимое списка на предсказанные значения
     midpred[0:-1] = predicted
 
-# УЖЕ ТУТ (на втором уровне) ПЛОХИЕ ВЕРОЯТНОСТИ
 # for n, m in zip (midpred_list, categ_list):
 #    print n[5915], m[5915]
 
@@ -132,26 +148,24 @@ for count in range(len(mus_pred)):
     X_arr.append(arr)
     arr = []
 
-# for tes in X_arr:
-#    print tes
+# for tes, tr_cat in izip(X_arr, y_train):
+#    print tes, tr_cat
 # print len(X_arr)
+
+# print mus_pred[7564], gam_pred[7564], chat_pred[7564], ecomrc_pred[7564], adult_pred[7564], alco_pred[7564], hunt_pred[7564], news_pred[7564], med_pred[7564], relig_pred[7564]
+# print X_arr [7564]
 
 
 # В качестве классификатора второго уровня выбрано Дерево решений
-newclf = tree.DecisionTreeClassifier()  # (min_samples_leaf=20)
+high_tree = tree.DecisionTreeClassifier(min_samples_leaf=50)  # (min_samples_leaf=20)
 
 # Обучение верхнеуровнего классификатора:
-high_tree = newclf.fit(X_arr, y_train)
+high_tree = high_tree.fit(X_arr, y_train)
 
-# print mus_pred[7564], gam_pred[7564], chat_pred[7564], ecomrc_pred[7564], adult_pred[7564], alco_pred[7564], hunt_pred[7564], news_pred[7564], med_pred[7564], relig_pred[7564]
-# print X_mas [7564]
+# print high_tree.classes_
 
-# print mus_pred[5555]
-# print mus_pred[5555][1]
-# print len(mus_pred)
+
 ##############################################
-
-
 # Подготовка тестовой выборки X_test для эксперимента
 # Все списки хранят свои признаки для подачи на вход деревьям
 mus_test, gam_test, chat_test, ecomrc_test, adult_test = [], [], [], [], []
@@ -196,8 +210,8 @@ for count in range(len(newmus_pred)):
     X_newarr.append(newarr)
     newarr = []
 
-# for les in X_newarr:
-#    print les
+# for les, hes in izip(X_newarr, y_test):
+#    print les, hes
 # print len(X_newarr)
 
 
@@ -213,31 +227,39 @@ prob_pred = high_tree.predict_proba(X_newarr)
 
 
 # Категории с учётом неизвестной
-class_labels = ['music', 'gamesonline', 'chat', 'ecommerce', 'adult',
-                'alcohol', 'hunting', 'news', 'medical', 'religion', 'Unknown']
+class_labels = ['adult', 'alcohol', 'chat', 'ecommerce', 'gamesonline',
+                'hunting', 'medical', 'music', 'news', 'religion', 'Unknown']
 
 y_pred = []
 
 # Минимальное значение вероятности для отнесения к одной из категорий
-probab = 0.5
+probab = 0.8
 # Количество спорных/непонятных ситуаций (Unknown)
 bad = 0
 # Цикл для определения окончательной категории каждого из тестовых экземпляров
-for cur in prob_pred:
+for mid in prob_pred:
     # Среди вероятностий принадлежности к категориям ищем максимум
+    cur = mid.tolist()
     maxi = max(cur)
     # Если максимумов несколько или он меньше порогового значения,
     # итоговая категория данного экземпляра - Unknown
 
-    if (cur.tolist().count(maxi) != 1)or(maxi < probab):
+    if (cur.count(maxi) != 1)or(maxi < probab):
         bad += 1
         # print bad, "Problems...", maxi, is_cat.count(maxi)
         y_pred.append(class_labels[10])
     else:
-        y_pred.append(class_labels[cur.tolist().index(maxi)])
+        y_pred.append(class_labels[cur.index(maxi)])
 
-# print y_pred
+# for i in range(0, 8000):
+#    print y_pred[i], y_train[i]
 
+
+# График:
+#dot_data = tree.export_graphviz(high_tree, out_file=None)
+#graph = pydotplus.graph_from_dot_data(dot_data)
+#graph.write_pdf(
+#    "tree_" + datetime.datetime.now().strftime("%H:%M:%S") + ".pdf")
 
 
 
@@ -268,12 +290,12 @@ print 'Total Unknowns:', unknown, ' (', unknown / float(total_sites), ')'
 print '\nAccuracy without unknowns:', corr_pred / float(total_sites - unknown)
 print 'Errors without unknowns', (errors) / float(total_sites - unknown)
 
-"""
+#"""
 ################################################################
 
 # Создание отчёта в Excel
 workbook = xlsxwriter.Workbook('report (min_leaf = ' + str(
-    clf.min_samples_leaf) + '; prob = ' + str(probab) + ')' + '.xlsx')  # Имя файла
+    high_tree.min_samples_leaf) + '; prob = ' + str(probab) + ')' + '.xlsx')  # Имя файла
 worksheet = workbook.add_worksheet()
 # Добавление таблицы conf_mat в отчёт
 worksheet.add_table('B2:L13', {'data': conf_mat, 'autofilter': False})
@@ -324,4 +346,4 @@ worksheet.write_column('A45', ['Errors without unknowns',
                                errors / float(total_sites - unknown)])
 
 workbook.close()
-"""
+#"""
