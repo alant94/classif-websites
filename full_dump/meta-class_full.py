@@ -95,7 +95,7 @@ for unit in y_train:
 
 # clf = tree.DecisionTreeClassifier()  # min_samples_leaf=1
 msl = 30
-# Инициализация списков для хранения моделей деревьев
+# Инициализация переменных для хранения моделей деревьев
 mus_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 gam_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 chat_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
@@ -106,6 +106,7 @@ hunt_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 news_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 med_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
 relig_tree = tree.DecisionTreeClassifier(min_samples_leaf=msl)
+# Список моделей деревьев
 tree_list = [mus_tree, gam_tree, chat_tree, ecomrc_tree,
              adult_tree, alco_tree, hunt_tree, news_tree, med_tree, relig_tree]
 
