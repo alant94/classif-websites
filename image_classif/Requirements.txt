@@ -1,21 +1,27 @@
 1. Install pip: https://pip.pypa.io/en/stable/installing/
 
-2. Install psycopg2:
+2. sudo pip install virtualenv
+
+3. sudo pip install virtualenvwrapper
+
+vim ~/.bashrc (add line "source /usr/local/bin/virtualenvwrapper.sh")
+
+4. Install psycopg2:
 sudo pip install psycopg2
 
-3. Install sklearn:
+5. Install sklearn:
 sudo pip install -U scikit-learn
 
-4. Install numpy:
+6. Install numpy:
 sudo pip install numpy
 
-5. Install Scipy:
+7. Install Scipy:
 sudo pip install Scipy
 
-6. Install xlsxwriter:
+8. Install xlsxwriter:
 sudo pip install xlsxwriter
 
-7. Install pydotplus:
+9. Install pydotplus:
 sudo pip install pydotplus
 
 
@@ -24,10 +30,23 @@ Don't forget to run postgresql connection
 
 ##########################################
 FOR IMAGES:
-??
-8. sudo pip install opencv-python
 
-9. sudo pip install imutils
+INSTALL KERAS + TensorFlow (https://www.pyimagesearch.com/2016/11/14/installing-keras-with-tensorflow-backend/):
+
+mkvirtualenv keras_tf
+export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.4.0-cp27-none-linux_x86_64.whl
+pip install --upgrade $TF_BINARY_URL
+
+pip install numpy scipy
+pip install scikit-learn
+pip install pillow
+pip install h5py
+
+pip install keras
+
+??
+10. sudo pip install opencv-python
+
+11. sudo pip install imutils
 ??
 
-10. sudo pip install virtualenv
