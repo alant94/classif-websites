@@ -1,0 +1,7 @@
+['78-2014433078.png', u'sunscreen']
+['bartabClearButton.png', u'cleaver']
+['featured.png', u'paintbrush']
+['bartabTitleClear.png', u'cleaver']
+['bartabReadMoreClear.png', u'cleaver']
+['facebook-login-button.png', u'screwdriver']
+['recentlyReviewed.png', u'quill']

@@ -1,0 +1,7 @@
+['female-stars.gif', u'perfume']
+['a.gif', u'hourglass']
+['musique.gif', u'whistle']
+['male-stars.gif', u'perfume']
+['musica.gif', u'whistle']
+['music-stars.jpg', u'sweatshirt']
+['music-bands.gif', u'perfume']

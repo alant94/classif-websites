@@ -1,0 +1,6 @@
+['Banner_4.jpg', u'book_jacket']
+['Banner_1.jpg', u'theater_curtain']
+['Hightower_Banner.jpg', u'book_jacket']
+['Banner_2.jpg', u'book_jacket']
+['Anniverary_Banner.jpg', u'French_horn']
+['Bethel_AME_logo_low_res.jpg', u'magnetic_compass']

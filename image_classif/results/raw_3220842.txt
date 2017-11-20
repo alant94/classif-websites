@@ -1,0 +1,5 @@
+['logo-mapquest.gif', u'safety_pin']
+['banner.jpg', u'picket_fence']
+['baltpres.gif', u'jersey']
+['seal.gif', u'menu']
+['Bethel_Church2.jpg', u'church']

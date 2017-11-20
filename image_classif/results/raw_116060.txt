@@ -1,0 +1,2 @@
+['freecell-title.png', u'safety_pin']
+['close.png', u'digital_clock']

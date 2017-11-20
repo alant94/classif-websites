@@ -1,0 +1,6 @@
+['panel-logo.png', u'cleaver']
+['poa-box.gif', u'web_site']
+['pd-box.gif', u'web_site']
+['pcp-box.gif', u'web_site']
+['pdfwl-box.gif', u'web_site']
+['parallels-logo.png', u'switch']

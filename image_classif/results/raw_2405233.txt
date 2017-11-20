@@ -1,0 +1,3 @@
+['home-logo-01a.gif', u'digital_clock']
+['usa-flag.gif', u'web_site']
+['poweredby_000000.gif', u'digital_clock']

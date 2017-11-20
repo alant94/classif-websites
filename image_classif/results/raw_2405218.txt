@@ -1,0 +1,6 @@
+['price.jpg', u'theater_curtain']
+['size.jpg', u'theater_curtain']
+['world.gif', u'nail']
+['logo7.gif', u'book_jacket']
+['list.gif', u'oscilloscope']
+['locate.jpg', u'theater_curtain']

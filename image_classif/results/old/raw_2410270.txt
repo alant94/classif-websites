@@ -1,0 +1,6 @@
+['details_attachment_Basket.jpg', u'can_opener']
+['details_attachment_DogJogger.jpg', u'bow']
+['Homepage_bg2.jpg', u'mountain_bike']
+['details_attachment_Training.jpg', u'tricycle']
+['details_attachment_Surfboard.jpg', u'mountain_bike']
+['btn_cart_SM.gif', u'rubber_eraser']

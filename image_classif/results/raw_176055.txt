@@ -1,0 +1,2 @@
+['landing-002.png', u'coffee_mug']
+['landing-local.png', u'street_sign']

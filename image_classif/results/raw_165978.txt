@@ -1,0 +1,5 @@
+['identite4.jpg', u'coffee_mug']
+['identite2.jpg', u'lotion']
+['identite1.jpg', u'iPod']
+['emarketing1.png', u'window_screen']
+['identite.jpg', u'cash_machine']

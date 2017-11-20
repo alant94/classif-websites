@@ -1,0 +1,2 @@
+['cron.php?cron_type=cron.task.text_reparser.post_text&sid=8fa6b2d5ac9b225d0f3ad0fd90451960', u'cleaver']
+['site_logo.png', u'web_site']

@@ -10,7 +10,7 @@ import cv2
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
-	help="path to the input image")
+	help="Path to the source image")
 args = vars(ap.parse_args())
 
 # load the original image via OpenCV so we can draw on it and display
@@ -48,4 +48,4 @@ print("ImageNet ID: {}, Label: {}".format(imagenetID, label))
 cv2.putText(orig, "Label: {}".format(label), (10, 30),
 	cv2.FONT_HERSHEY_SIMPLEX, 0.9, (0, 255, 0), 2)
 cv2.imshow("Classification", orig)
-cv2.waitKey(0)
+# cv2.waitKey(0)

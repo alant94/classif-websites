@@ -1,0 +1,7 @@
+['hd_2.jpg', u'dalmatian']
+['navcol.jpg', u'geyser']
+['news-story-dog-recovered2.jpg', u'Weimaraner']
+['hd_3.jpg', u'dalmatian']
+['hd_1.jpg', u'packet']
+['article05.jpg', u'web_site']
+['hd_4.jpg', u'book_jacket']

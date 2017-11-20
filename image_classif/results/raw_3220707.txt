@@ -1,0 +1,6 @@
+['BethanyBaptistChurch.jpg', u'organ']
+['PulpitBibleSmall.jpg', u'upright']
+['HBC-small.jpg', u'stage']
+['Bethany_BC_Logo11.png', u'street_sign']
+['BethanyBaptistChurch1.jpg', u'vault']
+['calendar-1858022_1280.jpg', u'screen']
