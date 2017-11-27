@@ -1,0 +1,6 @@
+['plas.gif', u"carpenter's_kit"]
+['site-logo-5.jpg', u'picket_fence']
+['cron.php?cron_type=tidy_warnings&sid=7eeade5f8e3f36f82363aee304db06d2', u'cleaver']
+['pixel.gif', u'envelope']
+['icon_cat.gif', u'wall_clock']
+['icon_mrgreen.gif', u'switch']

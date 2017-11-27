@@ -1,0 +1,5 @@
+['ama-logo.png', u'scoreboard']
+['googleplus.jpg', u'pick']
+['spa-hot-tubs-slide3.jpg', u'tub']
+['fb.jpg', u'digital_clock']
+['header-phone-icon.jpg', u'nematode']

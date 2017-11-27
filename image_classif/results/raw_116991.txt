@@ -1,0 +1,3 @@
+['star.gif', u'hatchet']
+['logo-millionaire.gif', u'comic_book']
+['arrow.gif', u'screw']

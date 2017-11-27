@@ -1,0 +1,6 @@
+['en.bmp', u'scoreboard']
+['counter?id=854470;t=502;l=1', u'scoreboard']
+['ru.bmp', u'web_site']
+['snap.jpg', u'scoreboard']
+['snap1.jpg', u'scoreboard']
+['counter?id=854470;js=na', u'envelope']

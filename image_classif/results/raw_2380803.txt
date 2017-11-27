@@ -1,0 +1,3 @@
+['outdoors1.jpg', u'Afghan_hound']
+['sidebar.gif', u'bicycle-built-for-two']
+['outdoors2.jpg', u'grocery_store']

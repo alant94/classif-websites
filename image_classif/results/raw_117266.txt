@@ -1,0 +1,3 @@
+['logo-50.png', u'pill_bottle']
+['twitter.png', u'envelope']
+['facebook.png', u'switch']

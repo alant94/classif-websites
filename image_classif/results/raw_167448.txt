@@ -1,0 +1,5 @@
+['logo.png', u'web_site']
+['page1_img2.jpg', u'web_site']
+['page1_img1.jpg', u'screen']
+['f_logo.png', u'web_site']
+['page1_img3.jpg', u'cellular_telephone']

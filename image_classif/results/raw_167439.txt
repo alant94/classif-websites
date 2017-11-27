@@ -1,0 +1,6 @@
+['navcontact.gif', u'sunscreen']
+['navsearch.gif', u'lipstick']
+['ruth_elaine_schram.jpg', u'jersey']
+['chorlogo.gif', u'web_site']
+['navhome.gif', u'digital_watch']
+['hdrmus.gif', u'quill']

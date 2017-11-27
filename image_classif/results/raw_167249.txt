@@ -1,0 +1,7 @@
+['youtube.png', u'pick']
+['google.png', u'pick']
+['newLogo.png', u'book_jacket']
+['production-music.jpg', u'whistle']
+['fb.png', u'puck']
+['twitter.png', u'pill_bottle']
+['CapeDigitalMusicv4.jpg', u'web_site']

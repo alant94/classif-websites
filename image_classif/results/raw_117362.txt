@@ -1,0 +1,6 @@
+['zod_big.jpg', u"carpenter's_kit"]
+['b1x1.gif', u'matchstick']
+['pent_big.jpg', u'cassette']
+['buts.gif', u'stove']
+['w1x1.gif', u'cleaver']
+['title2.gif', u'oscilloscope']

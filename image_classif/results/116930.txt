@@ -1,0 +1,12 @@
+hook
+pick
+scoreboard
+nematode
+nail
+swing
+Band_Aid
+lighter
+shopping_basket
+plate_rack
+hook
+swing

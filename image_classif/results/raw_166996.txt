@@ -1,0 +1,8 @@
+['blog_header.gif', u'web_site']
+['polltour.gif', u'book_jacket']
+['126X32-b-logo.gif', u'spotlight']
+['logo_small.gif', u'web_site']
+['menuhead.gif', u'web_site']
+['Logo_25wht.gif', u'matchstick']
+['poll_gld.gif', u'plate_rack']
+['feed-icon32x32.png', u"jack-o'-lantern"]

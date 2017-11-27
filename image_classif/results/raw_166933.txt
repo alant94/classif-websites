@@ -1,0 +1,6 @@
+['f5.png', u'combination_lock']
+['newlogo.png', u'web_site']
+['f1.png', u'digital_clock']
+['03.jpeg', u'steel_drum']
+['01.jpeg', u'flute']
+['02.jpeg', u'sax']

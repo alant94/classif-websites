@@ -11,7 +11,10 @@ connect = psycopg2.connect(
 cursor = connect.cursor()
 
 # Выбираем website_id для сайтов, изображения с которых будут классифицированы
-cursor.execute("SELECT dat_files.website_id FROM dat_files join websites on dat_files.website_id=websites.website_id WHERE ((entry_id > 0) and (entry_id < 11)) or ((entry_id > 1000) and (entry_id < 1011)) or ((entry_id > 2000) and (entry_id < 2011)) or ((entry_id > 3000) and (entry_id < 3011)) or ((entry_id > 4000) and (entry_id < 4011)) or ((entry_id > 5000) and (entry_id < 5011)) or ((entry_id > 6000) and (entry_id < 6011)) or ((entry_id > 7000) and (entry_id < 7011)) or ((entry_id > 8000) and (entry_id < 8011)) or ((entry_id > 9000) and (entry_id < 9011));")
+#cursor.execute("SELECT dat_files.website_id FROM dat_files join websites on dat_files.website_id=websites.website_id WHERE ((entry_id > 100) and (entry_id < 201)) or ((entry_id > 1100) and (entry_id < 1201)) or ((entry_id > 2100) and (entry_id < 2201)) or ((entry_id > 3100) and (entry_id < 3201)) or ((entry_id > 4100) and (entry_id < 4201)) or ((entry_id > 5100) and (entry_id < 5201)) or ((entry_id > 6100) and (entry_id < 6201)) or ((entry_id > 7100) and (entry_id < 7201)) or ((entry_id > 8100) and (entry_id < 8201)) or ((entry_id > 9100) and (entry_id < 9201));")
+
+# Only for alcohoL
+cursor.execute("SELECT dat_files.website_id FROM dat_files join websites on dat_files.website_id=websites.website_id WHERE ((entry_id > 5100) and (entry_id < 5201));")
 
 websites = cursor.fetchall()
 

@@ -1,0 +1,5 @@
+['spacer.gif', u'matchstick']
+['logo_ehr.gif', u'puck']
+['index2.jpg', u'shield']
+['index1.jpg', u'maypole']
+['logo_ehl.gif', u'puck']

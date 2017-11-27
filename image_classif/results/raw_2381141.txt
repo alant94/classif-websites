@@ -1,0 +1,2 @@
+['enter.gif', u'digital_clock']
+['entry.gif', u'oscilloscope']

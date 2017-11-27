@@ -1,0 +1,2 @@
+['earthduck.jpg', u'isopod']
+['marsduck2.jpg', u'electric_ray']

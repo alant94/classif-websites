@@ -1,0 +1,4 @@
+['hr.gif', u'lycaenid']
+['new.gif', u'nematode']
+['cool.gif', u'nematode']
+['018.jpg', u'coffee_mug']

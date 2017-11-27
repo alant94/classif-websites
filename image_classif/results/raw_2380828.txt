@@ -1,0 +1,3 @@
+['logo.gif', u'envelope']
+['footer.gif', u'lampshade']
+['header_welcome.png', u'matchstick']

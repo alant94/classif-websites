@@ -1,0 +1,3 @@
+['soldier-img.jpg', u'plane']
+['bantu_logo.jpg', u'Band_Aid']
+['nav_bottom.gif', u'matchstick']

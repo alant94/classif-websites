@@ -1,0 +1,2 @@
+['img_logo.gif', u'digital_clock']
+['logo_blue.png', u'chime']

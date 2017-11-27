@@ -1,0 +1,8 @@
+['back.gif', u'chain']
+['blank.gif', u'envelope']
+['folder.gif', u'panpipe']
+['unknown.gif', u'whistle']
+['image2.gif', u'can_opener']
+['text.gif', u'spatula']
+['ai?auid=538771292&cs=112cbf23dd&cb=1509361034', u'cleaver']
+['100X22.gif', u'cash_machine']

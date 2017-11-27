@@ -1,0 +1,4 @@
+['icon-raster.gif', u'syringe']
+['icon-question.gif', u'pick']
+['icon-stop.gif', u'digital_clock']
+['icon-vector.gif', u'space_shuttle']

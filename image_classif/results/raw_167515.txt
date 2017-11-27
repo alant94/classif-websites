@@ -1,0 +1,8 @@
+['chamber_soloists.jpg', u'cornet']
+['popova-tit.jpg', u'miniskirt']
+['titl_l.jpg', u'palace']
+['photi1-l.jpg', u'abaya']
+['logo_l.gif', u'shield']
+['foto1_l.jpg', u'acoustic_guitar']
+['andrushchenko.jpg', u'harp']
+['11.jpg', u'sax']

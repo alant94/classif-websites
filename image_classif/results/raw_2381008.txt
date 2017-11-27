@@ -1,0 +1,6 @@
+['webpos2015.gif', u'tobacco_shop']
+['liquor-glasses.gif', u'beer_glass']
+['web2015beer2.gif', u'beer_glass']
+['logowebgris2015t.png', u"carpenter's_kit"]
+['logoweb2015t.png', u'picket_fence']
+['self-serve.gif', u'screwdriver']

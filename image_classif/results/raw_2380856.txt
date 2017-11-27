@@ -1,0 +1,8 @@
+['chardonnayunoaked.png', u'wine_bottle']
+['logo.png', u'paper_towel']
+['icon-snooth.png', u'ant']
+['icon-twitter.png', u'jellyfish']
+['2016roseofcabernet.png', u'ballpoint']
+['skinfermentchardonnary.png', u'wine_bottle']
+['icon-facebook.png', u'bell_cote']
+['pinotgris.png', u'hair_spray']

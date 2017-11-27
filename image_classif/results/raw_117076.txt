@@ -1,0 +1,6 @@
+['spacer.gif', u'cleaver']
+['fadedblue_curve.gif', u'golf_ball']
+['moonjet.jpg', u'tick']
+['ameircan.jpg', u'envelope']
+['fadedblue_gradient.gif', u'cocktail_shaker']
+['freeAd2.jpg', u'book_jacket']

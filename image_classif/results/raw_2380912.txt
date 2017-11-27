@@ -1,0 +1,8 @@
+['top_printLogo.gif', u'nail']
+['top_logo.png', u'book_jacket']
+['hm_img2.jpg', u'red_wine']
+['hm_img4.jpg?v2', u'wine_bottle']
+['product_availability.png', u'lotion']
+['hm_img1.jpg', u'guacamole']
+['ft_logo.png', u'binder']
+['hm_img3.jpg', u'red_wine']

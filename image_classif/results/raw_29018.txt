@@ -1,0 +1,3 @@
+['titre_suite.jpg', u'envelope']
+['logo.jpg', u'balance_beam']
+['titre.jpg', u'matchstick']

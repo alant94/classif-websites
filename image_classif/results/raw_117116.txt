@@ -1,0 +1,6 @@
+['smile_logo1.gif', u'street_sign']
+['blank66.gif', u'jellyfish']
+['hotarticles.gif', u'lipstick']
+['hor_line.gif', u'rubber_eraser']
+['smileplanet1.gif', u'bubble']
+['search_front.gif', u'matchstick']

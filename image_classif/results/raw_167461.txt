@@ -1,0 +1,5 @@
+['blank.gif', u'cleaver']
+['cathedral_purple.gif', u'chime']
+['acm_title2.gif', u'nail']
+['dummy_sponsor.gif', u'web_site']
+['default_180x180.gif', u'web_site']

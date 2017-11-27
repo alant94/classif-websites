@@ -1,0 +1,7 @@
+['ACB-ZeroFlocs-SecondaryFeat-476x248.jpg', u'hair_spray']
+['logo.png', u'comic_book']
+['ACB-IPA-Fade-2.jpg', u'wine_bottle']
+['Saaz_Berry_edit_3-850x425.jpg', u'lotion']
+['findbeer-glass.png', u'beer_glass']
+['header-title-la.png', u'book_jacket']
+['header-title-craft.png', u'book_jacket']

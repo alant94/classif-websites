@@ -1,0 +1,4 @@
+['AWGtitlebanner.png', u'book_jacket']
+['ad5.png', u'golf_ball']
+['AWGflag.png', u'web_site']
+['Logo_25wht.gif', u'matchstick']

@@ -1,0 +1,4 @@
+['clublogo.jpg', u'web_site']
+['LearnToPlayBridge.png', u'scoreboard']
+['acbllogo2color1inch.gif', u'puck']
+['handful.gif', u'envelope']

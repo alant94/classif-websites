@@ -1,0 +1,3 @@
+['ip-wind-badge.png', u'analog_clock']
+['ipw-phone-USD.png', u'studio_couch']
+['USD-flag.gif', u'rubber_eraser']

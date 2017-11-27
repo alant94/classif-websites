@@ -1,0 +1,8 @@
+['news2.jpg', u'comic_book']
+['Dog.png', u'nematode']
+['news0.jpg', u'stage']
+['news1.jpg', u'volcano']
+['amazon2.png', u"jack-o'-lantern"]
+['RHR2.png', u'barn']
+['news3.jpg', u'stage']
+['iTunes2.png', u'nematode']

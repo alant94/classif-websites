@@ -1,0 +1,6 @@
+['header-img.png', u'prayer_rug']
+['logo_black.png', u'book_jacket']
+['Angullong-FH-Riesling-2016-300x300.png', u'wine_bottle']
+['Angullong-2017-Rosato-300x300.png', u'hair_spray']
+['Angullong-CrossingReserve-2015-CabSav-300x300.png', u'wine_bottle']
+['TN-Angullong-Sparkling-Rose-2016-300x300.png', u'red_wine']

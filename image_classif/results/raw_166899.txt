@@ -1,0 +1,8 @@
+['duets_score_xs.png', u'slide_rule']
+['BHLogo.png', u'matchstick']
+['euphonium.jpg', u'cornet']
+['duets_score_lg.png', u'screwdriver']
+['BHLogoWhite.png', u'fountain']
+['duets_score_sm.png', u'oboe']
+['duets_score_md.png', u'screwdriver']
+['sound-board.jpg', u"carpenter's_kit"]

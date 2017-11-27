@@ -1,0 +1,4 @@
+['gazbf-logo-300.png', u'beer_bottle']
+['tucson_beer_logo_tall_0.png', u'bottlecap']
+['flag-logo.png', u'bottlecap']
+['sunsounds-logo.png', u'neck_brace']

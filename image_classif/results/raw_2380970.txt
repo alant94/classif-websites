@@ -1,0 +1,6 @@
+['logo.gif', u'puck']
+['malttopright.gif', u'corn']
+['maltbotleft.gif', u'stinkhorn']
+['maltbotright.gif', u'corn']
+['greyArrowBox2.gif', u'letter_opener']
+['malttopleft.gif', u'honeycomb']

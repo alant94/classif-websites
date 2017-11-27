@@ -1,0 +1,3 @@
+['coolbuddyc.gif', u'candle']
+['logo.gif', u'ballpoint']
+['b.gif', u'envelope']

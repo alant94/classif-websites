@@ -1,0 +1,5 @@
+['logo.png', u'book_jacket']
+['house.jpg', u'patio']
+['vines.jpg', u'valley']
+['wine_200h.jpg', u'wine_bottle']
+['agfg-rr1-240x90.jpg', u'web_site']

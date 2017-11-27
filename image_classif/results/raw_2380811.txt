@@ -1,0 +1,8 @@
+['twitter.jpg', u'pencil_sharpener']
+['20160928-_DSC9811.jpg', u'plunger']
+['plat%20sponsor%201.jpg', u'book_jacket']
+['winequip_logo.gif', u'book_jacket']
+['universityofadelaide.gif', u'comic_book']
+['AWRI Full 3.jpg', u'book_jacket']
+['beerandwineglass.jpg', u'hourglass']
+['facebook.jpg', u'digital_clock']

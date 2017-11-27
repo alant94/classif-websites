@@ -1,0 +1,6 @@
+['ankeny-slider1-1.png', u'book_jacket']
+['ankeny-slider2-1.png', u'picket_fence']
+['the-estate.jpg', u'worm_fence']
+['menu.jpg', u'frying_pan']
+['wines.jpg', u'barrel']
+['ankeny-slider3-1.png', u'fire_screen']

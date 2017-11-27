@@ -1,0 +1,2 @@
+['insignia.jpg', u'electric_fan']
+['top.jpg', u'safety_pin']

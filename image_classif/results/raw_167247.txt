@@ -1,0 +1,8 @@
+['home_but.gif', u'nail']
+['about_but.gif', u'nail']
+['store_but.gif', u'nail']
+['book_but.gif', u'nail']
+['sched_but.gif', u'nail']
+['index_photo_fill.jpg', u'mousetrap']
+['main_pic.jpg', u'swimming_trunks']
+['logo.jpg', u'electric_fan']

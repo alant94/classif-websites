@@ -1,0 +1,4 @@
+['bminc.jpg', u'street_sign']
+['bmcministries_small.JPG', u'modem']
+['bmcchatster.jpg', u'screwdriver']
+['eversible_small.JPG', u'book_jacket']

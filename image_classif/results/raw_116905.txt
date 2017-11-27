@@ -1,0 +1,5 @@
+['stripe.horiz.bg.gif', u'shopping_basket']
+['spacer.gif', u'cleaver']
+['chip.gif', u'oscilloscope']
+['ps2.jpg', u'remote_control']
+['freeAd2.jpg', u'book_jacket']

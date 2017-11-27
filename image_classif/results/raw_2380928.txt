@@ -1,0 +1,5 @@
+['Berrichon.jpg', u'wine_bottle']
+['AHV_map-revised.png', u'bow']
+['logo.png ', u'picket_fence']
+['Cabernet-sauvignon-estate-ProductImage111111.jpg', u'red_wine']
+['primitivo-estate-ProductImage111.jpg', u'red_wine']

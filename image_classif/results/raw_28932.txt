@@ -1,0 +1,2 @@
+['img02.jpg', u'espresso']
+['poweredby_FFFFFF.gif', u'digital_clock']

@@ -1,0 +1,8 @@
+['buttons_02.gif', u'hook']
+['slide1.jpg', u'shower_curtain']
+['slide3.jpg', u'monitor']
+['slide4.jpg', u'toyshop']
+['slide2.jpg', u'shower_curtain']
+['buttons_01.gif', u'cleaver']
+['banner1.png', u'envelope']
+['slide5.jpg', u'web_site']

@@ -1,0 +1,3 @@
+['content-bottom-bg.png', u'envelope']
+['horz-shadow.jpg', u'wardrobe']
+['content-top-bg.png', u'envelope']

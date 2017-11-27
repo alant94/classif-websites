@@ -1,0 +1,4 @@
+['Barrels.jpg', u'minibus']
+['title.gif', u'envelope']
+['Banquet.jpg', u'wine_bottle']
+['facebook.gif', u'book_jacket']
