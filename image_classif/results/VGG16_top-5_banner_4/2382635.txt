@@ -1,0 +1,2 @@
+[u'sweatshirt', 0.40416205, u'jersey', 0.11225069, u'abaya', 0.031214546, u'stole', 0.029268982, u'academic_gown', 0.024982391]
+[u'screwdriver', 0.18741435, u'digital_clock', 0.082779571, u'power_drill', 0.069886409, u'traffic_light', 0.06043224, u'scoreboard', 0.057859384]

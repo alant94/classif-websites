@@ -1,0 +1,5 @@
+[u'chime', 0.1590302, u'slide_rule', 0.15277021, u'screwdriver', 0.09740559]
+[u'web_site', 0.34930125, u'hair_slide', 0.050388779, u'cleaver', 0.039798792]
+[u'web_site', 0.92454207, u'rule', 0.0074324752, u'monitor', 0.0057699759]
+[u'medicine_chest', 0.14911948, u'shoji', 0.039068002, u'barometer', 0.032859422]
+[u'scale', 0.17862205, u'modem', 0.089885533, u'notebook', 0.083660848]

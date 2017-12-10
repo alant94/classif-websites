@@ -1,0 +1,2 @@
+[u'stage', 0.52984363, u'sax', 0.13643557, u'jellyfish', 0.070648976, u'cornet', 0.045410585, u'microphone', 0.03908195]
+[u'mask', 0.15346523, u'triceratops', 0.10354917, u'hammerhead', 0.079985857, u'conch', 0.072676279, u'Band_Aid', 0.024753969]

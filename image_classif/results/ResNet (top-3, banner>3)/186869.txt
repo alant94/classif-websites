@@ -1,0 +1,7 @@
+[u'web_site', 0.97141457, u'comic_book', 0.024032058, u'menu', 0.0027459962]
+[u'web_site', 0.79188228, u'comic_book', 0.10901863, u'menu', 0.046220332]
+[u'web_site', 0.78124034, u'menu', 0.17887878, u'comic_book', 0.024598049]
+[u'web_site', 0.98393387, u'menu', 0.014464366, u'comic_book', 0.0013770709]
+[u'web_site', 0.95872378, u'comic_book', 0.037631467, u'menu', 0.0030200856]
+[u'web_site', 0.71996093, u'menu', 0.27941126, u'refrigerator', 8.2775754e-05]
+[u'web_site', 0.95622236, u'menu', 0.04251099, u'comic_book', 0.00034448778]

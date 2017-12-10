@@ -1,0 +1,1 @@
+[u'barbershop', 0.25080141, u'cinema', 0.13163248, u'scoreboard', 0.034337077, u'window_shade', 0.031085597, u'carton', 0.028760899]

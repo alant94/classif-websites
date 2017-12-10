@@ -1,0 +1,2 @@
+[u'Weimaraner', 0.2818408, u'artichoke', 0.12652478, u'pedestal', 0.094388552, u'Great_Dane', 0.065377735, u'bloodhound', 0.036684617]
+[u'shower_curtain', 0.086851642, u'wardrobe', 0.040220175, u'window_shade', 0.035286095, u'washbasin', 0.02867038, u'fire_screen', 0.027037555]

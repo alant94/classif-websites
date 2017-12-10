@@ -1,0 +1,2 @@
+[u'stage', 0.31373736, u'scuba_diver', 0.12699918, u'spotlight', 0.081068479, u'snorkel', 0.039896667, u'book_jacket', 0.022495626]
+[u"carpenter's_kit", 0.84231693, u'screwdriver', 0.14535421, u'cinema', 0.0022989963, u'slot', 0.0020832648, u'pencil_box', 0.0012738045]

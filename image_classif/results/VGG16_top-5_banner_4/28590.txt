@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.13607533, u'nipple', 0.11133473, u'torch', 0.077914901, u'picket_fence', 0.066830754, u'candle', 0.055108063]
+[u'volcano', 0.43676099, u'valley', 0.20310497, u'geyser', 0.07702595, u'missile', 0.068698488, u'alp', 0.0600214]

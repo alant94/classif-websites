@@ -1,0 +1,7 @@
+[u'patio', 0.32076725, u'viaduct', 0.070836075, u'sliding_door', 0.048050042]
+[u'wine_bottle', 0.33033323, u'beer_bottle', 0.26446551, u'red_wine', 0.19363551]
+[u'perfume', 0.11109437, u'toaster', 0.10221501, u'screwdriver', 0.081371911]
+[u'Gila_monster', 0.38336369, u'leatherback_turtle', 0.096950129, u'sea_cucumber', 0.084180743]
+[u'nail', 0.090145998, u'ski', 0.046819761, u'web_site', 0.046533827]
+[u'Polaroid_camera', 0.44163591, u'loudspeaker', 0.33125806, u'projector', 0.13270751]
+[u'medicine_chest', 0.26714626, u'binder', 0.10378394, u'web_site', 0.069844857]

@@ -1,0 +1,5 @@
+[u'beacon', 0.053560872, u'flagpole', 0.034409918, u'wardrobe', 0.02734234, u'analog_clock', 0.024017232, u'web_site', 0.020870881]
+[u'digital_clock', 0.22066694, u'analog_clock', 0.12290619, u'wall_clock', 0.058502182, u'crossword_puzzle', 0.056449428, u'scoreboard', 0.055323634]
+[u'bottlecap', 0.19254827, u'combination_lock', 0.12300792, u'analog_clock', 0.099994816, u'wall_clock', 0.074445561, u'bolo_tie', 0.055113837]
+[u'moving_van', 0.19562081, u'cash_machine', 0.18762223, u'gas_pump', 0.074344799, u'mailbox', 0.058459647, u'web_site', 0.032640986]
+[u'stupa', 0.83486241, u'bell_cote', 0.059668768, u'airship', 0.010218753, u'dome', 0.0096100587, u'monastery', 0.0063311416]

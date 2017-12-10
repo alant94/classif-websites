@@ -1,0 +1,4 @@
+[u'envelope', 0.14920856, u'web_site', 0.033662111, u'wardrobe', 0.026235074, u'Band_Aid', 0.02464026, u'wall_clock', 0.022291157]
+[u'envelope', 0.073679328, u'web_site', 0.054330498, u'Windsor_tie', 0.018796692, u'Band_Aid', 0.018082241, u'bulletproof_vest', 0.017502628]
+[u'envelope', 0.29527763, u'Band_Aid', 0.06373509, u'web_site', 0.036858682, u'wall_clock', 0.019761844, u'carton', 0.015604886]
+[u'envelope', 0.08763095, u'web_site', 0.072554097, u'Band_Aid', 0.041364174, u'crane', 0.015837528, u'wardrobe', 0.012086976]

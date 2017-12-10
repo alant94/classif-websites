@@ -1,0 +1,7 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'water_bottle', 0.27661458, u'stage', 0.21222432, u'vending_machine', 0.089637093, u'theater_curtain', 0.081844188, u'pop_bottle', 0.035476763]
+[u'book_jacket', 0.4533878, u'street_sign', 0.12259596, u'comic_book', 0.035581607, u'barbershop', 0.023742514, u'scoreboard', 0.020820303]
+[u'envelope', 0.24913521, u'web_site', 0.095471233, u'binder', 0.047145568, u'lighter', 0.015584826, u'Band_Aid', 0.013117796]
+[u'slot', 0.255173, u'barbershop', 0.18708351, u'cash_machine', 0.17320821, u'vending_machine', 0.093956374, u'Band_Aid', 0.073306985]
+[u'envelope', 0.41772124, u'web_site', 0.036349993, u'scale', 0.027563831, u'binder', 0.020616014, u'cleaver', 0.014906992]
+[u'Band_Aid', 0.4524065, u'oil_filter', 0.04447699, u'book_jacket', 0.03757111, u'street_sign', 0.031429645, u'hair_spray', 0.025246661]

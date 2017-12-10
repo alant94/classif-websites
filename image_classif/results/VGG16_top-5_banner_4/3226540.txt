@@ -1,0 +1,1 @@
+[u'church', 0.14714335, u'flagpole', 0.086572833, u'picket_fence', 0.084930956, u'bannister', 0.072611146, u'brass', 0.041752066]

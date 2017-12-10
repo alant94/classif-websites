@@ -1,0 +1,1 @@
+[u'letter_opener', 0.86954325, u'spatula', 0.083203569, u'can_opener', 0.012645663]

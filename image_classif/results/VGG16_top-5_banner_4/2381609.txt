@@ -1,0 +1,2 @@
+[u'envelope', 0.19454207, u'velvet', 0.024605945, u'shower_curtain', 0.022942536, u'binder', 0.022682332, u'handkerchief', 0.02230257]
+[u'prison', 0.49161249, u'turnstile', 0.24860899, u'forklift', 0.054187827, u'barbershop', 0.030892611, u'lumbermill', 0.017539157]

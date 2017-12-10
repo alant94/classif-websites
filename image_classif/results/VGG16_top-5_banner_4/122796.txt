@@ -1,0 +1,5 @@
+[u'bow', 0.26166439, u'swing', 0.23701711, u'hook', 0.084406585, u'oboe', 0.064308807, u'microphone', 0.059212364]
+[u'spatula', 0.26807472, u'can_opener', 0.10438805, u'digital_watch', 0.084022105, u"carpenter's_kit", 0.080395877, u'shovel', 0.069689132]
+[u'bow', 0.31324467, u'swing', 0.25604105, u'hook', 0.091040373, u'bolo_tie', 0.050063442, u'chain', 0.042272162]
+[u'candle', 0.10515251, u'picket_fence', 0.087368995, u'ice_lolly', 0.05657668, u'chime', 0.051340058, u'matchstick', 0.045567572]
+[u'swing', 0.27594072, u'bow', 0.23717152, u'oboe', 0.075309038, u'hook', 0.069474995, u'microphone', 0.052929912]

@@ -1,0 +1,1 @@
+[u'patio', 0.30898508, u'sliding_door', 0.27988663, u'greenhouse', 0.21152191, u'window_screen', 0.08526963, u'mobile_home', 0.036724865]

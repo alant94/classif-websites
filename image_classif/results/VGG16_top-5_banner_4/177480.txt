@@ -1,0 +1,5 @@
+[u'suit', 0.45401439, u'Windsor_tie', 0.27828559, u'bow_tie', 0.10206584, u'bolo_tie', 0.044764422, u'wig', 0.012100453]
+[u'lighter', 0.4742986, u'espresso_maker', 0.11303072, u'corkscrew', 0.062440902, u'can_opener', 0.055688459, u'binder', 0.051387034]
+[u'wig', 0.48090684, u'crash_helmet', 0.13385029, u'feather_boa', 0.041884959, u'fur_coat', 0.027845494, u'breastplate', 0.026637388]
+[u'butcher_shop', 0.34499782, u'cleaver', 0.14714068, u'suit', 0.10468262, u'military_uniform', 0.0783967, u'kimono', 0.044618472]
+[u'gown', 0.09412095, u'pajama', 0.057087433, u'fur_coat', 0.056214593, u'punching_bag', 0.044994604, u'cardigan', 0.042609625]

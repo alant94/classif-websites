@@ -1,0 +1,1 @@
+[u'coil', 0.36035091, u'Petri_dish', 0.18524259, u'basketball', 0.0644693, u'nematode', 0.053275842, u'tennis_ball', 0.047553688]

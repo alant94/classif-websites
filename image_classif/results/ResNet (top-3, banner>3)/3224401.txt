@@ -1,0 +1,6 @@
+[u'web_site', 0.15156336, u'digital_watch', 0.078398556, u'digital_clock', 0.059597272]
+[u'web_site', 0.10404252, u'crossword_puzzle', 0.089573756, u'remote_control', 0.072072238]
+[u'web_site', 0.12124982, u'remote_control', 0.076588817, u'digital_clock', 0.052960325]
+[u'web_site', 0.12296743, u'digital_clock', 0.091011614, u'remote_control', 0.083278947]
+[u'crossword_puzzle', 0.13807653, u'web_site', 0.090095736, u'digital_clock', 0.075521104]
+[u'crossword_puzzle', 0.30900311, u'remote_control', 0.079849549, u'web_site', 0.075554013]

@@ -1,0 +1,6 @@
+[u'refrigerator', 0.43932581, u'slot', 0.130879, u'packet', 0.12597619, u'envelope', 0.057082117, u'file', 0.053795889]
+[u'crossword_puzzle', 0.22402662, u'envelope', 0.16946839, u'comic_book', 0.14572102, u'book_jacket', 0.06063747, u'handkerchief', 0.049426217]
+[u'comic_book', 0.34497648, u'puck', 0.093122825, u'pick', 0.079690389, u'crossword_puzzle', 0.059616167, u'envelope', 0.05717342]
+[u'web_site', 0.51456869, u'comic_book', 0.3730818, u'book_jacket', 0.076192088, u'envelope', 0.010479266, u'analog_clock', 0.0026019115]
+[u'web_site', 0.28506136, u'menu', 0.18996643, u'comic_book', 0.14061882, u'packet', 0.080148779, u'envelope', 0.069483943]
+[u'swab', 0.33550739, u'wardrobe', 0.045384925, u'stole', 0.03881114, u'shower_curtain', 0.03776649, u'poncho', 0.032993559]

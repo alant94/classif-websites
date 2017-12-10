@@ -1,0 +1,1 @@
+[u'spotlight', 0.48490217, u'electric_fan', 0.090828031, u'magnetic_compass', 0.066559091, u'shield', 0.0407492, u'tray', 0.023425773]

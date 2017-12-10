@@ -1,0 +1,6 @@
+[u'envelope', 0.63689739, u'cash_machine', 0.071516603, u'carton', 0.037697747, u'binder', 0.026811056, u'photocopier', 0.015307791]
+[u'candle', 0.48442, u'radiator', 0.14357868, u'wine_bottle', 0.059007287, u'matchstick', 0.057676401, u'picket_fence', 0.054225285]
+[u'bearskin', 0.67630678, u'military_uniform', 0.086316571, u'candle', 0.040518276, u'picket_fence', 0.02631505, u'theater_curtain', 0.018778829]
+[u'envelope', 0.12220616, u'carton', 0.057807472, u'binder', 0.023464901, u'digital_clock', 0.016232703, u'book_jacket', 0.015175616]
+[u'envelope', 0.40724209, u'cash_machine', 0.19245984, u'web_site', 0.032689087, u'monitor', 0.025989536, u'digital_clock', 0.019655114]
+[u'matchstick', 0.24511077, u'candle', 0.18926302, u'butcher_shop', 0.15022595, u'picket_fence', 0.13089114, u'theater_curtain', 0.068548091]

@@ -1,0 +1,7 @@
+[u'suit', 0.56489712, u'Windsor_tie', 0.19483134, u'academic_gown', 0.090248652, u'mortarboard', 0.018287014, u'prison', 0.018004574]
+[u'marimba', 0.23751026, u'steel_drum', 0.13224569, u'drum', 0.10670862, u'drumstick', 0.10385905, u'pajama', 0.041103955]
+[u'suit', 0.17128991, u'shower_curtain', 0.12960751, u'cardigan', 0.10607968, u'abaya', 0.06797868, u'Windsor_tie', 0.05117587]
+[u'suit', 0.25947616, u'Windsor_tie', 0.04220517, u'shower_cap', 0.029894372, u'groom', 0.028084584, u'bow_tie', 0.026487069]
+[u'cardigan', 0.079964057, u'shopping_basket', 0.032636147, u'wooden_spoon', 0.025509661, u'toyshop', 0.022475366, u'confectionery', 0.021898078]
+[u'apron', 0.14953142, u'pajama', 0.13479003, u'kimono', 0.075620234, u'refrigerator', 0.043006562, u'carton', 0.032858975]
+[u'envelope', 0.53818178, u'wallet', 0.063379362, u'Band_Aid', 0.05657791, u'packet', 0.049290888, u'Windsor_tie', 0.044823017]

@@ -1,0 +1,3 @@
+[u'bolo_tie', 0.13579328, u'necklace', 0.12916464, u'whistle', 0.11493324, u'chain', 0.10505638, u'knot', 0.054112803]
+[u"jack-o'-lantern", 0.20508331, u'whistle', 0.15706344, u'coil', 0.12876473, u'necklace', 0.067743748, u'knot', 0.045891095]
+[u'lens_cap', 0.13021763, u'chain', 0.12837423, u'necklace', 0.10414629, u'coil', 0.080852881, u'spotlight', 0.054883696]

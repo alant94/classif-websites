@@ -1,0 +1,4 @@
+[u'web_site', 0.20043969, u'safety_pin', 0.15488498, u'nipple', 0.079744689]
+[u'screw', 0.89871579, u'oil_filter', 0.062027238, u'saltshaker', 0.028327513]
+[u'iron', 0.554425, u'web_site', 0.20496948, u'hook', 0.023004714]
+[u'digital_clock', 0.8976928, u'scoreboard', 0.017307745, u'analog_clock', 0.014430635]

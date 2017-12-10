@@ -1,0 +1,8 @@
+[u'analog_clock', 0.25824809, u'whistle', 0.14766166, u'rule', 0.070586689]
+[u'web_site', 0.15717004, u'safety_pin', 0.054505028, u'hair_spray', 0.029039478]
+[u'analog_clock', 0.48525932, u'forklift', 0.14199218, u'thresher', 0.030629579]
+[u'daisy', 0.71459728, u'lakeside', 0.066390552, u'hare', 0.01555875]
+[u'Band_Aid', 0.12851736, u'web_site', 0.065243438, u'hair_spray', 0.045482717]
+[u'analog_clock', 0.25824809, u'whistle', 0.14766166, u'rule', 0.070586689]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'analog_clock', 0.62615561, u'forklift', 0.055038173, u'harp', 0.028413262]

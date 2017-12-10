@@ -1,0 +1,1 @@
+[u'syringe', 0.15814923, u'paintbrush', 0.1115578, u'stage', 0.098029688, u'theater_curtain', 0.075069778, u'ballpoint', 0.058273919]

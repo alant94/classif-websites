@@ -1,0 +1,5 @@
+[u'hair_spray', 0.096604109, u'book_jacket', 0.063951209, u'coffee_mug', 0.052023359]
+[u'tennis_ball', 0.19342633, u'pick', 0.19229041, u'nematode', 0.14743291]
+[u'fountain', 0.17864382, u'trailer_truck', 0.097221717, u'geyser', 0.054806862]
+[u'book_jacket', 0.1900899, u'hair_spray', 0.16916768, u'coffee_mug', 0.12388664]
+[u'analog_clock', 0.17790125, u'shield', 0.1659627, u'digital_clock', 0.072459906]

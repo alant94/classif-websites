@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.22788686, u'sunscreen', 0.058644604, u'pill_bottle', 0.051360581, u'packet', 0.044228762, u'oil_filter', 0.035333674]
+[u'analog_clock', 0.12661107, u'web_site', 0.065061167, u'balance_beam', 0.055664815, u'rule', 0.04218192, u'digital_clock', 0.036164939]
+[u'stage', 0.20489529, u'balance_beam', 0.182557, u'gown', 0.085379839, u'web_site', 0.081806973, u'maillot', 0.053171925]

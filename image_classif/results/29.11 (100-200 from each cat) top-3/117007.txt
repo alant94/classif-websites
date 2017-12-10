@@ -1,0 +1,4 @@
+[u'book_jacket', 0.85687995, u'comic_book', 0.088191397, u'web_site', 0.010627321]
+[u'thimble', 0.19294797, u'Persian_cat', 0.096173368, u'toilet_seat', 0.064744711]
+[u'wok', 0.12745759, u'tray', 0.092865333, u'planetarium', 0.092489973]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

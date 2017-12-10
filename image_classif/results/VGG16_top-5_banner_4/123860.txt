@@ -1,0 +1,5 @@
+[u'picket_fence', 0.15930596, u'library', 0.11665471, u'lab_coat', 0.092031777, u'shower_curtain', 0.072590843, u'medicine_chest', 0.051090941]
+[u'container_ship', 0.15062946, u'crane', 0.11723484, u'jigsaw_puzzle', 0.11157498, u'castle', 0.095434405, u'dock', 0.04431301]
+[u'stage', 0.17072621, u'container_ship', 0.11869602, u'spotlight', 0.10352353, u'fountain', 0.043559309, u'monitor', 0.041030951]
+[u'medicine_chest', 0.12185689, u'bookcase', 0.099551633, u'altar', 0.092881657, u'crib', 0.074645713, u'dining_table', 0.061070826]
+[u'container_ship', 0.99722075, u'library', 0.00068946159, u'scoreboard', 0.00024674577, u'medicine_chest', 0.00021359869, u'liner', 0.00010352478]

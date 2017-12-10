@@ -1,0 +1,3 @@
+[u'pill_bottle', 0.45384192, u'sunscreen', 0.40475014, u'lotion', 0.09012036, u'nipple', 0.031330831, u'face_powder', 0.010899776]
+[u'web_site', 0.81216359, u'sunscreen', 0.023854975, u'lotion', 0.013336125, u'cash_machine', 0.012981778, u'hand-held_computer', 0.0092106927]
+[u'bottlecap', 0.2960718, u'pick', 0.18754591, u'puck', 0.098839186, u'digital_clock', 0.079455651, u'stopwatch', 0.064989544]

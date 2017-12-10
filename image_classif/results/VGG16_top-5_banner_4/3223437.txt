@@ -1,0 +1,1 @@
+[u'balance_beam', 0.1471227, u'miniskirt', 0.08167503, u'maillot', 0.0727387, u'pole', 0.072516747, u'bikini', 0.070370145]

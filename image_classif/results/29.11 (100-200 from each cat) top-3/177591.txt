@@ -1,0 +1,4 @@
+[u'hair_spray', 0.76046288, u'book_jacket', 0.032340992, u'perfume', 0.02987737]
+[u'scoreboard', 0.38576525, u'digital_clock', 0.093334094, u'web_site', 0.05232184]
+[u'red_wine', 0.36224213, u'web_site', 0.18480638, u'comic_book', 0.040096302]
+[u'web_site', 0.95046562, u'menu', 0.010512977, u'starfish', 0.0029989781]

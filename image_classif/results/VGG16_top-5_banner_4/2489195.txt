@@ -1,0 +1,6 @@
+[u'switch', 0.29292998, u'wall_clock', 0.11126456, u'envelope', 0.023709493, u'hook', 0.019169776, u'cleaver', 0.015633954]
+[u'picket_fence', 0.21339837, u'medicine_chest', 0.20324209, u'cinema', 0.050635703, u'bell_cote', 0.028744891, u'window_shade', 0.027136225]
+[u'vulture', 0.32233939, u'black_grouse', 0.19472589, u'king_penguin', 0.12771556, u'bald_eagle', 0.082180828, u'plow', 0.062715746]
+[u'switch', 0.2906422, u'wall_clock', 0.11689764, u'envelope', 0.024592681, u'hook', 0.018480536, u'cleaver', 0.014758205]
+[u'switch', 0.29069227, u'wall_clock', 0.1122885, u'envelope', 0.02340398, u'hook', 0.019322587, u'cleaver', 0.015712965]
+[u'medicine_chest', 0.16365097, u'window_screen', 0.15991306, u'screen', 0.12144691, u'monitor', 0.11264312, u'solar_dish', 0.092222996]

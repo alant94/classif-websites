@@ -1,0 +1,3 @@
+[u'Saint_Bernard', 0.0974079, u'hen', 0.097205132, u'cock', 0.06211083, u'Welsh_springer_spaniel', 0.041292232, u'hen-of-the-woods', 0.04069148]
+[u'screwdriver', 0.58093119, u"carpenter's_kit", 0.33040094, u'power_drill', 0.046443589, u'ski', 0.0022846092, u'rule', 0.0022790546]
+[u'picket_fence', 0.36813501, u'worm_fence', 0.059744719, u'mobile_home', 0.031168452, u'Great_Pyrenees', 0.027567895, u'kuvasz', 0.025593985]

@@ -1,0 +1,3 @@
+[u'container_ship', 0.48624527, u'airship', 0.051913295, u'parachute', 0.032526966, u'crane', 0.030394923, u'balloon', 0.027738772]
+[u'wall_clock', 0.032514166, u'envelope', 0.032292537, u'spotlight', 0.029913245, u'analog_clock', 0.022546897, u'parachute', 0.022386536]
+[u'container_ship', 0.99914718, u'crane', 0.00011849424, u'scoreboard', 0.00010489291, u'liner', 7.9931073e-05, u'balloon', 5.5942244e-05]

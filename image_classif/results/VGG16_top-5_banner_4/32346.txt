@@ -1,0 +1,1 @@
+[u'matchstick', 0.093332961, u'digital_clock', 0.040503018, u'jersey', 0.038103055, u"jack-o'-lantern", 0.029261136, u'accordion', 0.026061134]

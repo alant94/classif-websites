@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.31732175, u'jigsaw_puzzle', 0.2618615, u'prayer_rug', 0.0890138]
+[u'coffee_mug', 0.27402061, u'bottlecap', 0.084951282, u'football_helmet', 0.079742879]

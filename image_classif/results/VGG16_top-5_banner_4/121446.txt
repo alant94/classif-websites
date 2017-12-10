@@ -1,0 +1,2 @@
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'perfume', 0.48323461, u'saltshaker', 0.11816632, u'vase', 0.066574953, u'soap_dispenser', 0.058505163, u'wig', 0.048012678]

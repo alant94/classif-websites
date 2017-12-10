@@ -1,0 +1,2 @@
+[u'cheetah', 0.91413724, u'dalmatian', 0.030629326, u'leopard', 0.023688652]
+[u'crossword_puzzle', 0.69999874, u'comic_book', 0.060492638, u'rifle', 0.033147991]

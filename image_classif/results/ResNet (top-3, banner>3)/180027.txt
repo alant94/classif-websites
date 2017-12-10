@@ -1,0 +1,7 @@
+[u'packet', 0.82210845, u'rubber_eraser', 0.034641877, u'saltshaker', 0.017675798]
+[u'tile_roof', 0.17290807, u'bannister', 0.14098328, u'web_site', 0.1295045]
+[u'web_site', 0.97676295, u'hand-held_computer', 0.00099716301, u'mouse', 0.00095248019]
+[u'cinema', 0.14967556, u'scoreboard', 0.1471753, u'web_site', 0.1051331]
+[u'cornet', 0.18658303, u'web_site', 0.13496496, u'slot', 0.078201503]
+[u'tripod', 0.57672262, u'web_site', 0.17802168, u'can_opener', 0.041519731]
+[u'cloak', 0.23863967, u'book_jacket', 0.11697539, u'academic_gown', 0.10184333]

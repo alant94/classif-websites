@@ -1,0 +1,1 @@
+[u'street_sign', 0.13076873, u'coffee_mug', 0.073333241, u'hair_spray', 0.062319372]

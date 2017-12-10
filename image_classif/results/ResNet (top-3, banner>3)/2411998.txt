@@ -1,0 +1,3 @@
+[u'Rhodesian_ridgeback', 0.8804099, u'bull_mastiff', 0.071259938, u'Great_Dane', 0.021880813]
+[u'Italian_greyhound', 0.47489753, u'kelpie', 0.069692604, u'whippet', 0.047117379]
+[u'whippet', 0.61484826, u'Italian_greyhound', 0.38286981, u'Ibizan_hound', 0.00088443822]

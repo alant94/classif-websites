@@ -1,0 +1,8 @@
+[u'web_site', 0.16623145, u'envelope', 0.12119168, u'digital_clock', 0.073674843]
+[u'cash_machine', 0.18557277, u'ambulance', 0.12523535, u'digital_clock', 0.09087956]
+[u'electric_guitar', 0.76363868, u'Christmas_stocking', 0.079713337, u'parking_meter', 0.026173962]
+[u'joystick', 0.36237833, u'switch', 0.17663352, u'monitor', 0.13381723]
+[u'prayer_rug', 0.43500334, u'ambulance', 0.12395667, u'crossword_puzzle', 0.10338297]
+[u'fountain', 0.32555282, u'stage', 0.13713183, u'web_site', 0.097943619]
+[u'harmonica', 0.54620087, u'lipstick', 0.090709448, u'digital_clock', 0.017389474]
+[u'web_site', 0.25075722, u'remote_control', 0.16391557, u'oscilloscope', 0.10666738]

@@ -1,0 +1,1 @@
+[u'tennis_ball', 0.42248523, u'oil_filter', 0.1115378, u'knee_pad', 0.075093687, u'rubber_eraser', 0.030022282, u'Band_Aid', 0.023908451]

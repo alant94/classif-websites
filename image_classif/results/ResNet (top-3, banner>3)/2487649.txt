@@ -1,0 +1,7 @@
+[u'book_jacket', 0.74063152, u'ibex', 0.10819358, u'comic_book', 0.056198977]
+[u'ruffed_grouse', 0.55861467, u'partridge', 0.27988982, u'prairie_chicken', 0.068221368]
+[u'sweatshirt', 0.15438269, u'jersey', 0.12975745, u'puck', 0.099398248]
+[u'book_jacket', 0.87953877, u'ibex', 0.01874364, u'coyote', 0.014392671]
+[u'rule', 0.5881719, u'slide_rule', 0.3059715, u'picket_fence', 0.0077421716]
+[u'rule', 0.46354997, u'slide_rule', 0.40721229, u'scoreboard', 0.023732591]
+[u'book_jacket', 0.18266813, u'Bedlington_terrier', 0.12655768, u'llama', 0.060328562]

@@ -1,0 +1,1 @@
+[u'triumphal_arch', 0.25222442, u'bell_cote', 0.17682144, u'obelisk', 0.11621143, u'church', 0.073449738, u'monastery', 0.066411257]

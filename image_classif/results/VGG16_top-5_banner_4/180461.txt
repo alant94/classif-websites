@@ -1,0 +1,2 @@
+[u'packet', 0.53715193, u'plastic_bag', 0.10426918, u'book_jacket', 0.076673426, u'beer_glass', 0.040882565, u'geyser', 0.036947653]
+[u'Windsor_tie', 0.41246676, u'suit', 0.35192144, u'bow_tie', 0.037792489, u'book_jacket', 0.034464549, u'academic_gown', 0.026846239]

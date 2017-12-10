@@ -1,0 +1,2 @@
+[u'web_site', 0.88501328, u'vending_machine', 0.061161261, u'switch', 0.020499161, u'computer_keyboard', 0.0059643099, u'safety_pin', 0.0026834353]
+[u'window_shade', 0.79935879, u'studio_couch', 0.1353872, u'sliding_door', 0.014759044, u'patio', 0.011352524, u'shoji', 0.0065514287]

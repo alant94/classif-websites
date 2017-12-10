@@ -1,0 +1,5 @@
+[u'hook', 0.13526154, u'guillotine', 0.060966596, u'television', 0.046391405]
+[u'steel_drum', 0.77150273, u'solar_dish', 0.038190279, u'bicycle-built-for-two', 0.02027433]
+[u'binder', 0.83205968, u'book_jacket', 0.03289184, u'safe', 0.026273629]
+[u'altar', 0.95647597, u'throne', 0.007300925, u'church', 0.0057346509]
+[u'television', 0.091161624, u'folding_chair', 0.077818736, u'hook', 0.048212629]

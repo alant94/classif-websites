@@ -1,0 +1,4 @@
+[u'necklace', 0.3414591, u'chain', 0.17995587, u'hair_slide', 0.071053952, u'handkerchief', 0.069663599, u'envelope', 0.029850522]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'altar', 0.97543246, u'vestment', 0.010952417, u'fountain', 0.0032834008, u'church', 0.0023741943, u'throne', 0.0021831444]
+[u'bottlecap', 0.99991369, u'bolo_tie', 7.5868797e-05, u'buckeye', 1.6604489e-06, u'stopwatch', 1.5864828e-06, u'buckle', 8.2354876e-07]

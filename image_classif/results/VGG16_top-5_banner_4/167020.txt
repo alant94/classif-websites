@@ -1,0 +1,1 @@
+[u'parachute', 0.12888737, u'airship', 0.074421868, u'crane', 0.06813819, u'warplane', 0.06335213, u'cannon', 0.042860169]

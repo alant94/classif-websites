@@ -1,0 +1,1 @@
+[u'carton', 0.21066272, u'Band_Aid', 0.076739639, u'bonnet', 0.072565295, u'muzzle', 0.053319961, u'mousetrap', 0.047562599]

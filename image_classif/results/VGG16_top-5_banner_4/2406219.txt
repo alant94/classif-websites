@@ -1,0 +1,1 @@
+[u'safety_pin', 0.081747577, u'nail', 0.066980414, u'bathing_cap', 0.043348808, u'syringe', 0.040413603, u'screwdriver', 0.035017412]

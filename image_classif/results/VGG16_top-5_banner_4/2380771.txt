@@ -1,0 +1,2 @@
+[u'envelope', 0.13133197, u'binder', 0.095119908, u'book_jacket', 0.076084495, u'brass', 0.074339792, u'scoreboard', 0.068705879]
+[u'web_site', 0.36271429, u'hair_spray', 0.021942521, u'book_jacket', 0.020555494, u'digital_clock', 0.018377014, u'stopwatch', 0.01467566]

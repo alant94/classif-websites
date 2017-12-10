@@ -1,0 +1,2 @@
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'totem_pole', 0.33966035, u'pole', 0.1049801, u'mask', 0.064246804, u'comic_book', 0.026213745, u'lampshade', 0.017373202]

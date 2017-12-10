@@ -1,0 +1,2 @@
+[u'stage', 0.43144894, u'military_uniform', 0.24102104, u'academic_gown', 0.038609844]
+[u'fire_screen', 0.90508372, u'shower_curtain', 0.036609393, u'volcano', 0.010746331]

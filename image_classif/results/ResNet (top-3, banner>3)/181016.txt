@@ -1,0 +1,2 @@
+[u'military_uniform', 0.15366864, u'bulletproof_vest', 0.13046429, u'bassoon', 0.11754731]
+[u'table_lamp', 0.16409941, u'mortar', 0.11174514, u'spotlight', 0.086650893]

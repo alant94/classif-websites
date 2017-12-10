@@ -1,0 +1,3 @@
+[u'restaurant', 0.46663985, u'butcher_shop', 0.18616271, u'vestment', 0.14046778]
+[u'obelisk', 0.42690286, u'church', 0.19965875, u'triumphal_arch', 0.064775094]
+[u'corn', 0.41267043, u'banana', 0.055869352, u'wall_clock', 0.048453603]

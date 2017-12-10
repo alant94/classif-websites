@@ -1,0 +1,1 @@
+[u'chime', 0.22391413, u'binder', 0.11937873, u'ballpoint', 0.087494656, u'book_jacket', 0.076176412, u'rubber_eraser', 0.037387058]

@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.20631391, u'palace', 0.15700459, u'shower_curtain', 0.13551833]
+[u'paintbrush', 0.48246863, u'gong', 0.10097085, u'loudspeaker', 0.052569706]

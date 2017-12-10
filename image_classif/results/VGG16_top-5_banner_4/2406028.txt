@@ -1,0 +1,5 @@
+[u'magnetic_compass', 0.14165938, u'container_ship', 0.071766689, u'whistle', 0.059873194, u'spotlight', 0.04698262, u'crane', 0.039139584]
+[u'screen', 0.27986619, u'medicine_chest', 0.25208926, u'microwave', 0.13165, u'television', 0.086274475, u'monitor', 0.052753568]
+[u'tray', 0.17000304, u'laptop', 0.11915588, u'screen', 0.098730944, u'iPod', 0.075026706, u'monitor', 0.071881779]
+[u'tray', 0.34806463, u'digital_clock', 0.12578565, u'laptop', 0.10398234, u'screen', 0.062062036, u'digital_watch', 0.057180177]
+[u'tray', 0.35387424, u'lighter', 0.11008027, u'digital_watch', 0.052537698, u'screen', 0.032957174, u'laptop', 0.031582046]

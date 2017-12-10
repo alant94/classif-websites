@@ -1,0 +1,2 @@
+[u'dam', 0.2823613, u'aircraft_carrier', 0.21375571, u'container_ship', 0.043892585, u'boathouse', 0.03936414, u'dock', 0.037276063]
+[u'lab_coat', 0.14535908, u'wig', 0.10304505, u'Windsor_tie', 0.077167712, u'suit', 0.054515921, u'maillot', 0.043105558]

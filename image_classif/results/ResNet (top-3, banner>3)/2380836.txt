@@ -1,0 +1,4 @@
+[u'hair_spray', 0.76242959, u'red_wine', 0.041691862, u'barbershop', 0.024816649]
+[u'comic_book', 0.62876177, u'book_jacket', 0.22721416, u'web_site', 0.013057837]
+[u'pop_bottle', 0.25674266, u'hair_spray', 0.14452839, u'soap_dispenser', 0.078279607]
+[u'beer_glass', 0.99943537, u'coffee_mug', 0.00038337562, u'cup', 7.6890406e-05]

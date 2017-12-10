@@ -1,0 +1,2 @@
+[u'book_jacket', 0.68407881, u'oscilloscope', 0.11289976, u'comic_book', 0.057198662]
+[u'wine_bottle', 0.41828388, u'red_wine', 0.19398098, u'corkscrew', 0.080057926]

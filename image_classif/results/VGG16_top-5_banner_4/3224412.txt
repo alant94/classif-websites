@@ -1,0 +1,1 @@
+[u'stage', 0.48731011, u'maraca', 0.14882201, u'electric_guitar', 0.069842204, u'microphone', 0.052479282, u'steel_drum', 0.026105493]

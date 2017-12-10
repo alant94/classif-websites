@@ -1,0 +1,5 @@
+[u'hook', 0.24867973, u'can_opener', 0.073965341, u'street_sign', 0.063273206, u'whistle', 0.056923598, u'traffic_light', 0.054665208]
+[u'tobacco_shop', 0.65342557, u'toyshop', 0.14642069, u'confectionery', 0.035457507, u'barbershop', 0.034166366, u'bakery', 0.034025867]
+[u'pencil_sharpener', 0.33237606, u'sandal', 0.062321372, u'snorkel', 0.048603773, u'oxygen_mask', 0.045565974, u'pencil_box', 0.034003608]
+[u'chain', 0.22557992, u'nematode', 0.16917098, u'hook', 0.13535345, u'sidewinder', 0.083128162, u'night_snake', 0.067952581]
+[u'book_jacket', 0.26993772, u'comic_book', 0.14357367, u'toilet_seat', 0.043165371, u'pick', 0.038728703, u'jersey', 0.034273103]

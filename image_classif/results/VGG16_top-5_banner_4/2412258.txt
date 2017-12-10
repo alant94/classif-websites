@@ -1,0 +1,5 @@
+[u'parallel_bars', 0.30219203, u'pole', 0.11423728, u'brassiere', 0.10079155, u'dumbbell', 0.088289537, u'prison', 0.064771168]
+[u'monitor', 0.24683034, u'television', 0.24218158, u'screen', 0.22067967, u'lakeside', 0.021416053, u'castle', 0.02016609]
+[u'cliff', 0.72044301, u'seashore', 0.075224608, u'promontory', 0.072001331, u'breakwater', 0.037680533, u'lakeside', 0.029451245]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'spotlight', 0.4322286, u'hook', 0.062229373, u'mouse', 0.047864493, u'toilet_seat', 0.042333506, u'loupe', 0.035819463]

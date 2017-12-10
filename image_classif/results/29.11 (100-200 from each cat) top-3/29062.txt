@@ -1,0 +1,6 @@
+[u'picket_fence', 0.3284598, u'boathouse', 0.25234854, u'church', 0.12392746]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'picket_fence', 0.25478017, u'boathouse', 0.18351425, u'church', 0.099826738]
+[u'academic_gown', 0.085570537, u'Windsor_tie', 0.082425393, u'bulletproof_vest', 0.082051955]
+[u'comic_book', 0.41732043, u'web_site', 0.14463364, u'book_jacket', 0.08104682]
+[u"potter's_wheel", 0.21034896, u'Sussex_spaniel', 0.04588598, u'Scottish_deerhound', 0.028626807]

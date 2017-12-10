@@ -1,0 +1,1 @@
+[u'pool_table', 0.67554832, u'desk', 0.040960301, u'grand_piano', 0.033644542, u'chest', 0.022293361, u'printer', 0.016915506]

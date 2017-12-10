@@ -1,0 +1,6 @@
+[u'iPod', 0.24387535, u'traffic_light', 0.17303647, u'switch', 0.12706318, u'street_sign', 0.063286379, u'loudspeaker', 0.060125899]
+[u'envelope', 0.14109528, u'hair_slide', 0.1206952, u'bib', 0.082763582, u'rubber_eraser', 0.044832461, u'wall_clock', 0.043803439]
+[u'perfume', 0.191221, u'cocktail_shaker', 0.079900227, u'pencil_sharpener', 0.053022631, u'bottlecap', 0.051654022, u'saltshaker', 0.051362384]
+[u'hair_slide', 0.34523481, u'letter_opener', 0.34486693, u'bolo_tie', 0.1132214, u'necklace', 0.067806333, u'wall_clock', 0.024986554]
+[u'piggy_bank', 0.38080072, u'toyshop', 0.22676887, u'confectionery', 0.16129546, u'maraca', 0.071965247, u'soccer_ball', 0.054819901]
+[u'coral_reef', 0.41551489, u'confectionery', 0.18871924, u'custard_apple', 0.18559472, u'strawberry', 0.043786261, u'brain_coral', 0.036826115]

@@ -1,0 +1,4 @@
+[u'space_shuttle', 0.25798249, u'book_jacket', 0.24580126, u'comic_book', 0.10862882]
+[u'ping-pong_ball', 0.68229973, u'tennis_ball', 0.12711316, u'baseball', 0.0284965]
+[u'custard_apple', 0.39559197, u'web_site', 0.16807689, u'dial_telephone', 0.016051788]
+[u'web_site', 0.58182782, u'comic_book', 0.066459909, u'book_jacket', 0.063012749]

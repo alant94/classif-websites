@@ -1,0 +1,3 @@
+[u'accordion', 0.3715944, u'drum', 0.17278634, u'panpipe', 0.13158564, u'oil_filter', 0.029919462, u'barrel', 0.02594205]
+[u'spotlight', 0.14319278, u'plate_rack', 0.10126957, u'switch', 0.0846247, u'loupe', 0.07498198, u'cassette', 0.047076575]
+[u'combination_lock', 0.33065075, u'lighter', 0.12136047, u'oil_filter', 0.046093564, u'gas_pump', 0.044714797, u'coffee_mug', 0.038265783]

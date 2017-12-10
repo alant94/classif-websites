@@ -1,0 +1,1 @@
+[u'dining_table', 0.064270794, u'desk', 0.048766743, u'binder', 0.048447635, u'switch', 0.034718342, u'wardrobe', 0.028240893]

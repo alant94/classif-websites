@@ -1,0 +1,7 @@
+[u'web_site', 0.79896665, u'nail', 0.0050054351, u'seashore', 0.0043411972]
+[u'Band_Aid', 0.33529326, u'nail', 0.057839382, u'oil_filter', 0.043909263]
+[u'web_site', 0.68182009, u'rock_beauty', 0.012399323, u'analog_clock', 0.011595882]
+[u'panpipe', 0.15441544, u'screwdriver', 0.084819548, u'forklift', 0.066899553]
+[u'ski', 0.058816329, u'punching_bag', 0.05747018, u'web_site', 0.036440879]
+[u'web_site', 0.83976525, u'digital_clock', 0.048112102, u'analog_clock', 0.010515902]
+[u'web_site', 0.13447003, u'whistle', 0.071154281, u'Band_Aid', 0.061761193]

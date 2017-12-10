@@ -1,0 +1,8 @@
+[u'binder', 0.27627811, u'jersey', 0.11383492, u'laptop', 0.094260573]
+[u'book_jacket', 0.253874, u'web_site', 0.20818758, u'binder', 0.12632912]
+[u'binder', 0.38740668, u'paintbrush', 0.034949228, u'vending_machine', 0.026000064]
+[u'web_site', 0.55384654, u'vending_machine', 0.072069548, u'candle', 0.067850962]
+[u'web_site', 0.9153533, u'can_opener', 0.0092463447, u'Band_Aid', 0.0054509151]
+[u'web_site', 0.77379441, u'book_jacket', 0.14919424, u'envelope', 0.024443807]
+[u'packet', 0.4241966, u'envelope', 0.08182095, u'pinwheel', 0.051254567]
+[u'carton', 0.17703539, u'crate', 0.07914187, u'library', 0.03490914]

@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.85026652, u'web_site', 0.061116863, u'shoji', 0.014436097]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'book_jacket', 0.10787977, u'packet', 0.096080773, u'web_site', 0.087393694]
+[u"jack-o'-lantern", 0.21012227, u'cassette_player', 0.071442455, u'stopwatch', 0.058162067]
+[u'web_site', 0.1345333, u'face_powder', 0.11559935, u'paintbrush', 0.051690079]
+[u'web_site', 0.13377132, u'medicine_chest', 0.089114949, u'oxygen_mask', 0.050930604]
+[u'stopwatch', 0.22101559, u'piggy_bank', 0.14068985, u'spotlight', 0.12686206]
+[u'loupe', 0.14443271, u'spotlight', 0.062803298, u'projector', 0.05479316]

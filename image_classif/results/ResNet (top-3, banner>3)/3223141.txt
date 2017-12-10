@@ -1,0 +1,4 @@
+[u'banded_gecko', 0.36641258, u'partridge', 0.062693365, u'badger', 0.053781398]
+[u'Yorkshire_terrier', 0.49894157, u'silky_terrier', 0.16267787, u'Australian_terrier', 0.11979429]
+[u'container_ship', 0.38492706, u'crossword_puzzle', 0.36405742, u'sea_snake', 0.029681101]
+[u'binder', 0.21246794, u'safe', 0.052034721, u'envelope', 0.051128916]

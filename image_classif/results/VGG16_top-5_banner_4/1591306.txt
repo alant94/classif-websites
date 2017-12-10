@@ -1,0 +1,6 @@
+[u'bathtub', 0.29025629, u'tub', 0.24912058, u'hog', 0.061096042, u'diaper', 0.05608245, u'sunscreen', 0.053345107]
+[u'diaper', 0.7809673, u'bath_towel', 0.053821463, u'pajama', 0.018072085, u'crib', 0.017013263, u'bassinet', 0.014990988]
+[u'brassiere', 0.28381509, u'hoopskirt', 0.10840858, u'tub', 0.069386587, u'diaper', 0.05297802, u'butcher_shop', 0.046822011]
+[u'seat_belt', 0.37865257, u'maillot', 0.080979563, u'miniskirt', 0.056516323, u'bathtub', 0.050456751, u'maillot', 0.044108387]
+[u'bathtub', 0.61344522, u'tub', 0.31111261, u'bikini', 0.012710783, u'brassiere', 0.011142476, u'diaper', 0.0069261719]
+[u'syringe', 0.21651813, u'Band_Aid', 0.09605369, u'ice_lolly', 0.095879704, u'beaker', 0.036140531, u'paintbrush', 0.035652284]

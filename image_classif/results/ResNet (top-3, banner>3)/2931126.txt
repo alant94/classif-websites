@@ -1,0 +1,3 @@
+[u'perfume', 0.25298968, u'wardrobe', 0.055525716, u'bannister', 0.050473258]
+[u'web_site', 0.065844238, u'lighter', 0.048515901, u'comic_book', 0.03588431]
+[u'web_site', 0.63635582, u'menu', 0.061802782, u'envelope', 0.017136661]

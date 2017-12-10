@@ -1,0 +1,8 @@
+[u'book_jacket', 0.82812923, u'street_sign', 0.052090943, u'comic_book', 0.024806837, u'prison', 0.014382584, u'abaya', 0.011906384]
+[u'web_site', 0.15793382, u'envelope', 0.081466667, u'maze', 0.045845482, u'jersey', 0.027265402, u'Windsor_tie', 0.01847136]
+[u'horned_viper', 0.19295202, u'wool', 0.13244942, u'sidewinder', 0.12092076, u'mitten', 0.050561532, u'diamondback', 0.049350914]
+[u'doormat', 0.37969291, u'dishrag', 0.35328919, u'maze', 0.031916913, u'wool', 0.021639707, u'prayer_rug', 0.018254464]
+[u'beaker', 0.69606203, u'water_bottle', 0.096513525, u'measuring_cup', 0.087667547, u'rubber_eraser', 0.027273638, u'Petri_dish', 0.024879841]
+[u'packet', 0.71259749, u'mailbag', 0.044212967, u'sleeping_bag', 0.025863443, u'pillow', 0.014749564, u'plastic_bag', 0.014535033]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'beer_glass', 0.39134112, u'goblet', 0.34235585, u'vase', 0.060937509, u'cocktail_shaker', 0.057941668, u'perfume', 0.021275762]

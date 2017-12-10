@@ -1,0 +1,1 @@
+[u'aircraft_carrier', 0.60381997, u'wing', 0.11225288, u'warplane', 0.09010651, u'radio_telescope', 0.023846788, u'crane', 0.019160721]

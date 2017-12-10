@@ -1,0 +1,1 @@
+[u'plastic_bag', 0.7244609, u'shower_cap', 0.079633072, u'mosquito_net', 0.068475582, u'swab', 0.040233493, u'gown', 0.010310564]

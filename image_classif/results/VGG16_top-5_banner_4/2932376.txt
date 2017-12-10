@@ -1,0 +1,5 @@
+[u'toilet_seat', 0.50409347, u'face_powder', 0.12339483, u'mortar', 0.045612875, u'Petri_dish', 0.042228285, u'soap_dispenser', 0.04134021]
+[u'scoreboard', 0.17292541, u'stage', 0.1683498, u'cash_machine', 0.066524044, u'screen', 0.064309321, u'oil_filter', 0.031252556]
+[u'envelope', 0.084591761, u'bathing_cap', 0.051283237, u'web_site', 0.03884545, u'book_jacket', 0.027212875, u'rule', 0.023435809]
+[u'cloak', 0.22896272, u'wig', 0.20541435, u'sweatshirt', 0.10678496, u'abaya', 0.040698912, u'brassiere', 0.030639606]
+[u'stethoscope', 0.82457894, u'spotlight', 0.058037706, u'loupe', 0.019667681, u'combination_lock', 0.018877374, u'can_opener', 0.008349753]

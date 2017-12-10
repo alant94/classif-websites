@@ -1,0 +1,7 @@
+[u'necklace', 0.14902127, u'loupe', 0.080536865, u'bib', 0.037126657, u'Petri_dish', 0.030157272, u'screw', 0.02473915]
+[u'envelope', 0.8989808, u'web_site', 0.063107826, u'jigsaw_puzzle', 0.0034463441, u'menu', 0.0032200969, u'whistle', 0.0019812982]
+[u'window_shade', 0.084217899, u'digital_clock', 0.059650846, u'shower_curtain', 0.0538106, u'wall_clock', 0.04765898, u'sliding_door', 0.038168002]
+[u'envelope', 0.03568982, u'wing', 0.032710601, u'parachute', 0.027429063, u'beacon', 0.02213119, u'space_shuttle', 0.020428427]
+[u'digital_clock', 0.15536292, u'crossword_puzzle', 0.033330165, u'wall_clock', 0.03197033, u'analog_clock', 0.027822858, u'digital_watch', 0.025965692]
+[u'washbasin', 0.066567361, u'sliding_door', 0.060833339, u'shower_curtain', 0.041182745, u'wall_clock', 0.035216767, u'window_shade', 0.033173352]
+[u'necklace', 0.31748015, u'chain', 0.084896244, u'shield', 0.056633748, u'analog_clock', 0.051066007, u'pick', 0.043422025]

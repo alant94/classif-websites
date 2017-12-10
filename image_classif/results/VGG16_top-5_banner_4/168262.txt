@@ -1,0 +1,2 @@
+[u'digital_clock', 0.37763557, u'street_sign', 0.11529806, u'binder', 0.10746172, u'lighter', 0.086903736, u'hard_disc', 0.069381513]
+[u'aircraft_carrier', 0.10921136, u'dock', 0.063697711, u'drilling_platform', 0.059489693, u'crane', 0.058861502, u'toyshop', 0.030667752]

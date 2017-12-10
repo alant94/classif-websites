@@ -1,0 +1,8 @@
+[u'book_jacket', 0.12518074, u'menu', 0.11791755, u'perfume', 0.097382225, u'envelope', 0.060085233, u'carton', 0.034951128]
+[u'hair_spray', 0.1443788, u'sunscreen', 0.12139915, u'book_jacket', 0.070855707, u'oil_filter', 0.065427564, u'Band_Aid', 0.061483353]
+[u'cash_machine', 0.11661786, u'digital_clock', 0.051945556, u'web_site', 0.051254343, u'pill_bottle', 0.047197521, u'screen', 0.040446151]
+[u'hook', 0.14486478, u'street_sign', 0.11351725, u'Band_Aid', 0.029515797, u'knee_pad', 0.01834573, u'traffic_light', 0.017037764]
+[u'electric_guitar', 0.15678605, u"jack-o'-lantern", 0.12857337, u'projector', 0.099282585, u'spotlight', 0.082862057, u'traffic_light', 0.064304315]
+[u'racket', 0.098154031, u'microphone', 0.080849104, u'pay-phone', 0.072842479, u'cleaver', 0.0626553, u'syringe', 0.046087038]
+[u'web_site', 0.029255383, u'nail', 0.020066744, u'hook', 0.017162211, u'balance_beam', 0.016735753, u'envelope', 0.016182734]
+[u'toyshop', 0.15113376, u'altar', 0.11588684, u'jigsaw_puzzle', 0.046293061, u'feather_boa', 0.044616979, u'pajama', 0.023530887]

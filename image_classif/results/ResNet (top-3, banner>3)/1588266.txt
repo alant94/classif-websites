@@ -1,0 +1,3 @@
+[u'bikini', 0.6245839, u'maillot', 0.26052377, u'brassiere', 0.029732311]
+[u'ice_lolly', 0.20493446, u'tick', 0.13882954, u'platypus', 0.075384773]
+[u'maillot', 0.54856783, u'maillot', 0.1722414, u'gown', 0.08289437]

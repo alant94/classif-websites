@@ -1,0 +1,4 @@
+[u'book_jacket', 0.85669637, u'barbershop', 0.056720994, u'scoreboard', 0.035267904]
+[u'web_site', 0.52968377, u'envelope', 0.15504685, u'analog_clock', 0.030464413]
+[u'bakery', 0.24585466, u'prison', 0.22291416, u'restaurant', 0.1664134]
+[u'prayer_rug', 0.22674344, u'shield', 0.11479166, u'envelope', 0.099148266]

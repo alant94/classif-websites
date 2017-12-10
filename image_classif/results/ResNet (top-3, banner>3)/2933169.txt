@@ -1,0 +1,4 @@
+[u'spotlight', 0.22200626, u'tennis_ball', 0.18485777, u'loupe', 0.12997949]
+[u'book_jacket', 0.1401545, u'screen', 0.087940119, u'hard_disc', 0.060158495]
+[u'digital_clock', 0.58655965, u'analog_clock', 0.073935792, u'oxygen_mask', 0.067250326]
+[u'Band_Aid', 0.65697378, u'lighter', 0.08539255, u'nipple', 0.023235479]

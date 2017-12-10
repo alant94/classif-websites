@@ -1,0 +1,5 @@
+[u'gazelle', 0.56753892, u'impala', 0.42593703, u'hartebeest', 0.0042247525, u'bustard', 0.00097606191, u'zebra', 0.00026632033]
+[u'gazelle', 0.64663768, u'hartebeest', 0.061673094, u'kit_fox', 0.023071259, u'impala', 0.022458695, u'hyena', 0.021075686]
+[u'screen', 0.40396935, u'monitor', 0.26643613, u'television', 0.17651632, u'desktop_computer', 0.025674144, u'digital_clock', 0.014688414]
+[u'bighorn', 0.64384681, u'ram', 0.19213641, u'Arabian_camel', 0.072078712, u'lion', 0.02390074, u'ibex', 0.01263342]
+[u'screen', 0.27363238, u'digital_clock', 0.22048144, u'monitor', 0.12110653, u'television', 0.089465171, u'cash_machine', 0.02786647]

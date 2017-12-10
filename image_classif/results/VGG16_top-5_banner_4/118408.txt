@@ -1,0 +1,5 @@
+[u'tow_truck', 0.10454922, u'crane', 0.10338756, u'half_track', 0.051732402, u'projector', 0.050973535, u'hook', 0.029639784]
+[u'turnstile', 0.11411275, u'garbage_truck', 0.077783369, u'ambulance', 0.068530098, u'police_van', 0.049849555, u'passenger_car', 0.039640341]
+[u'totem_pole', 0.098686285, u'military_uniform', 0.042575978, u'cloak', 0.034621436, u'banjo', 0.030276494, u'vestment', 0.029470813]
+[u'chain_saw', 0.2437567, u'tank', 0.089618869, u'crane', 0.072288223, u'stage', 0.052699696, u'steam_locomotive', 0.040949434]
+[u'school_bus', 0.65939206, u'cab', 0.08299496, u'traffic_light', 0.04174893, u'garbage_truck', 0.021015294, u'crane', 0.02090274]

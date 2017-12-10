@@ -1,0 +1,6 @@
+[u'picket_fence', 0.25657386, u'boathouse', 0.087126017, u'flagpole', 0.064451039, u'worm_fence', 0.04974262, u'lakeside', 0.0412522]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'boathouse', 0.35949221, u'patio', 0.10642949, u'mobile_home', 0.093546093, u'lakeside', 0.073458791, u'picket_fence', 0.072568156]
+[u'sweatshirt', 0.17249337, u'lab_coat', 0.074085355, u'jersey', 0.057530344, u'bolo_tie', 0.034613736, u'Windsor_tie', 0.03012933]
+[u'packet', 0.19529188, u'comic_book', 0.15055323, u'web_site', 0.14184466, u'book_jacket', 0.13020265, u'scoreboard', 0.069743082]
+[u'pajama', 0.065209433, u"potter's_wheel", 0.04491879, u'stethoscope', 0.031844463, u'sweatshirt', 0.025650976, u'neck_brace', 0.016966375]

@@ -1,0 +1,7 @@
+[u'book_jacket', 0.65569133, u'comic_book', 0.053360146, u'street_sign', 0.020048974, u'cinema', 0.019036274, u'torch', 0.012470734]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'rapeseed', 0.33051842, u'barn', 0.2738362, u'alp', 0.027802756, u'stone_wall', 0.023028113, u'beacon', 0.01984412]
+[u'vestment', 0.16580036, u'marimba', 0.15416029, u'flute', 0.092957728, u'panpipe', 0.091045611, u'mortarboard', 0.047963776]
+[u'book_jacket', 0.2034172, u'web_site', 0.053756785, u'syringe', 0.047308501, u'cinema', 0.042836521, u'hair_spray', 0.039342735]
+[u'crossword_puzzle', 0.1601838, u"potter's_wheel", 0.080029443, u'menu', 0.063417964, u'dough', 0.047006365, u'packet', 0.031117346]
+[u'microphone', 0.17477374, u'screwdriver', 0.16902649, u'modem', 0.071695745, u'hook', 0.069238126, u'screw', 0.064809091]

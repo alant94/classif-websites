@@ -1,0 +1,6 @@
+[u'coil', 0.31356934, u'nail', 0.26194501, u'hook', 0.19733672]
+[u'hog', 0.4528366, u'caldron', 0.2327489, u'Boston_bull', 0.039629225]
+[u'hog', 0.87505507, u'diaper', 0.018540239, u'barrel', 0.012604673]
+[u'hog', 0.9889214, u'piggy_bank', 0.0074469368, u'water_buffalo', 0.00094563118]
+[u'hog', 0.97955179, u'piggy_bank', 0.019588595, u'wild_boar', 0.00062844995]
+[u'hog', 0.51233214, u'ox', 0.24911159, u'water_buffalo', 0.090433717]

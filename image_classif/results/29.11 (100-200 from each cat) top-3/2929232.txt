@@ -1,0 +1,2 @@
+[u'screwdriver', 0.39745414, u"carpenter's_kit", 0.12956506, u'whistle', 0.049789771]
+[u'book_jacket', 0.19936687, u'street_sign', 0.053495388, u'analog_clock', 0.050427165]

@@ -1,0 +1,1 @@
+[u'candle', 0.98389661, u'matchstick', 0.0052619455, u'space_shuttle', 0.0034453273, u'nipple', 0.0020178207, u'lighter', 0.00069580233]

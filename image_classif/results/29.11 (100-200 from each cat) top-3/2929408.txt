@@ -1,0 +1,2 @@
+[u'cellular_telephone', 0.17859681, u'iPod', 0.11382648, u'lighter', 0.066577129]
+[u'paintbrush', 0.36493146, u'safety_pin', 0.17346241, u'nail', 0.16925503]

@@ -1,0 +1,4 @@
+[u'grand_piano', 0.48180529, u'upright', 0.47241515, u'organ', 0.04415182, u'bassoon', 0.00042653532, u'cello', 0.00030012228]
+[u'grand_piano', 0.99973518, u'upright', 0.00026198069, u'pool_table', 9.5254109e-07, u'violin', 9.4949638e-07, u'dining_table', 2.0572051e-07]
+[u'perfume', 0.14870858, u'lipstick', 0.11711296, u'ballpoint', 0.041971732, u'rubber_eraser', 0.036697756, u'binder', 0.036408197]
+[u'grand_piano', 0.94896996, u'throne', 0.0087473076, u'guillotine', 0.006187934, u'upright', 0.0051206271, u'oboe', 0.0021883708]

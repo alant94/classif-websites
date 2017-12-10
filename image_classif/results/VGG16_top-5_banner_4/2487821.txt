@@ -1,0 +1,4 @@
+[u'web_site', 0.098353043, u'book_jacket', 0.079699785, u'pill_bottle', 0.019580994, u'digital_clock', 0.019236298, u'lotion', 0.016517438]
+[u'American_black_bear', 0.99741971, u'brown_bear', 0.0019962343, u'wombat', 0.00029431767, u'sloth_bear', 0.00011934089, u'wild_boar', 0.0001095658]
+[u'chain_saw', 0.73737007, u'assault_rifle', 0.06166086, u'hatchet', 0.014781003, u'military_uniform', 0.014691356, u'bow', 0.014256505]
+[u'web_site', 0.9591195, u'comic_book', 0.0082342187, u'slot', 0.003513044, u'television', 0.0032717295, u'scoreboard', 0.002903386]

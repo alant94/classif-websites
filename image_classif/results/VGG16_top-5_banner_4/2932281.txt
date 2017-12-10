@@ -1,0 +1,1 @@
+[u'syringe', 0.21339124, u'picket_fence', 0.16025519, u'organ', 0.10636306, u'chime', 0.049871735, u'matchstick', 0.032011312]

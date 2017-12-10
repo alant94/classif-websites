@@ -1,0 +1,6 @@
+[u'confectionery', 0.16657148, u'ladybug', 0.062677637, u'hip', 0.043248288]
+[u'barbershop', 0.55216044, u'confectionery', 0.16588211, u'bubble', 0.13976936]
+[u'packet', 0.17544945, u'prayer_rug', 0.095896438, u'Band_Aid', 0.054171957]
+[u'restaurant', 0.72272229, u'patio', 0.12191787, u'barbershop', 0.021586854]
+[u'web_site', 0.045775559, u'theater_curtain', 0.026986804, u'book_jacket', 0.02667517]
+[u'packet', 0.18658517, u'tray', 0.1825235, u'menu', 0.085060641]

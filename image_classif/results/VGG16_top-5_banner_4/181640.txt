@@ -1,0 +1,7 @@
+[u'stage', 0.33671263, u'fur_coat', 0.18351339, u'groom', 0.11101221, u'wig', 0.067014948, u'Afghan_hound', 0.021545157]
+[u'book_jacket', 0.093194909, u'cash_machine', 0.086370043, u'web_site', 0.069877386, u'envelope', 0.031269066, u'packet', 0.028465131]
+[u'backpack', 0.095755786, u'digital_clock', 0.057835676, u'remote_control', 0.042480856, u'analog_clock', 0.033413559, u'digital_watch', 0.027739912]
+[u'magnetic_compass', 0.57194948, u'analog_clock', 0.12896463, u'stopwatch', 0.079760201, u'scale', 0.059164826, u'barometer', 0.011355416]
+[u'poncho', 0.052224666, u'sweatshirt', 0.050192274, u'butcher_shop', 0.04944301, u'stole', 0.047406681, u'banana', 0.043030366]
+[u'stage', 0.20991558, u'toyshop', 0.11921352, u'confectionery', 0.082723796, u'grocery_store', 0.076756142, u'unicycle', 0.01540937]
+[u'envelope', 0.17288092, u'jersey', 0.083584003, u'comic_book', 0.060560986, u'book_jacket', 0.052003399, u'web_site', 0.04321551]

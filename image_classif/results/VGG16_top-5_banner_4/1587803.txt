@@ -1,0 +1,1 @@
+[u'face_powder', 0.16858757, u'perfume', 0.12669162, u'wall_clock', 0.11085694, u'matchstick', 0.052741982, u'honeycomb', 0.040267389]

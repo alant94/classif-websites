@@ -1,0 +1,7 @@
+[u'ear', 0.17410682, u'coral_fungus', 0.064601384, u'tree_frog', 0.037607286]
+[u'switch', 0.18756682, u'iron', 0.18365149, u'bow_tie', 0.09234339]
+[u'container_ship', 0.63872135, u'steam_locomotive', 0.096789435, u'harvester', 0.063313611]
+[u'swing', 0.58859301, u'unicycle', 0.041920371, u'chain', 0.027323699]
+[u'analog_clock', 0.35766524, u'wall_clock', 0.15051585, u'shield', 0.098926947]
+[u'stretcher', 0.18880178, u'breakwater', 0.17881207, u'horse_cart', 0.077701941]
+[u'totem_pole', 0.28170162, u'worm_fence', 0.22790191, u'plow', 0.061894264]

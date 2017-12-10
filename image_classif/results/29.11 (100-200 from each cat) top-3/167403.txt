@@ -1,0 +1,2 @@
+[u'digital_clock', 0.76230603, u'digital_watch', 0.21872118, u'crossword_puzzle', 0.012059068]
+[u'digital_clock', 0.16986246, u'syringe', 0.12786028, u'traffic_light', 0.075340867]

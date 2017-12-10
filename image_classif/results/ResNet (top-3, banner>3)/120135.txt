@@ -1,0 +1,5 @@
+[u'forklift', 0.21772008, u'barbershop', 0.19883166, u'comic_book', 0.055832762]
+[u'tank', 0.2640301, u'tow_truck', 0.17602493, u'half_track', 0.089641556]
+[u'jigsaw_puzzle', 0.46171555, u'church', 0.080934823, u'comic_book', 0.065466359]
+[u'tow_truck', 0.21396574, u'fire_engine', 0.17163995, u'fireboat', 0.065177314]
+[u'book_jacket', 0.1978476, u'comic_book', 0.11497462, u'tobacco_shop', 0.099570781]

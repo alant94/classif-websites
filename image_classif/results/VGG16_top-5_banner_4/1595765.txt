@@ -1,0 +1,7 @@
+[u'nematode', 0.051817335, u'web_site', 0.045869149, u'tick', 0.038342655, u'Band_Aid', 0.034384511, u'velvet', 0.021527836]
+[u'four-poster', 0.22880784, u'groom', 0.16188215, u'mosquito_net', 0.12618712, u'vestment', 0.10078655, u'lab_coat', 0.071721546]
+[u'limousine', 0.73059964, u'bullet_train', 0.048255824, u'suit', 0.020249322, u'breakwater', 0.011275395, u'Loafer', 0.0110944]
+[u'stole', 0.11697929, u'pajama', 0.10553393, u'sweatshirt', 0.088284679, u'velvet', 0.084512129, u'bath_towel', 0.051891796]
+[u'torch', 0.18586285, u'horizontal_bar', 0.047726568, u'crutch', 0.046069149, u'ice_lolly', 0.03537333, u'lab_coat', 0.03060565]
+[u'web_site', 0.073285714, u'analog_clock', 0.038966149, u'tick', 0.028768413, u'Band_Aid', 0.027764518, u'lipstick', 0.025366884]
+[u'cup', 0.48609537, u'teapot', 0.11833359, u'espresso', 0.1144647, u'coffeepot', 0.10036016, u'coffee_mug', 0.03910584]

@@ -1,0 +1,7 @@
+[u'binder', 0.25348014, u'solar_dish', 0.22502008, u'screen', 0.14614937]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'chambered_nautilus', 0.30225527, u'bathing_cap', 0.088389739, u'planetarium', 0.070814602]
+[u'web_site', 0.091344193, u'oil_filter', 0.087499753, u'pill_bottle', 0.073212914]
+[u'oboe', 0.40758669, u'bolo_tie', 0.20235392, u'bassoon', 0.081619084]
+[u'picket_fence', 0.67780316, u'crossword_puzzle', 0.26709297, u'worm_fence', 0.016925674]
+[u'airliner', 0.11786716, u'binder', 0.09616974, u'screen', 0.08470317]

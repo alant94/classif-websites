@@ -1,0 +1,6 @@
+[u'barn', 0.93790215, u'mobile_home', 0.04042175, u'boathouse', 0.0088382605]
+[u'quilt', 0.42440948, u'prayer_rug', 0.1364622, u'shower_curtain', 0.10108989]
+[u'mobile_home', 0.82885182, u'trailer_truck', 0.029649844, u'recreational_vehicle', 0.027860571]
+[u'shoji', 0.26839745, u'window_shade', 0.24990377, u'sliding_door', 0.23535377]
+[u'Arabian_camel', 0.12247083, u'cowboy_hat', 0.11835114, u'plow', 0.11435193]
+[u'prison', 0.98879832, u'library', 0.0079411948, u'vault', 0.0011448222]

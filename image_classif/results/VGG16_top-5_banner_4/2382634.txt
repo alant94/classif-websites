@@ -1,0 +1,6 @@
+[u'window_screen', 0.10943154, u'tobacco_shop', 0.086669527, u'scoreboard', 0.061866421, u'bookshop', 0.052556824, u'web_site', 0.051372994]
+[u'church', 0.42161, u'monastery', 0.17730251, u'dam', 0.16521747, u'castle', 0.067182176, u'prison', 0.033525113]
+[u'web_site', 0.057706345, u'matchstick', 0.022673754, u'nematode', 0.020660667, u'ant', 0.01306537, u'analog_clock', 0.012658148]
+[u'web_site', 0.52596688, u'menu', 0.46358725, u'envelope', 0.0037071561, u'comic_book', 0.0017598539, u'binder', 0.0011505863]
+[u'pot', 0.61403066, u'vase', 0.1889852, u'daisy', 0.023884362, u'strawberry', 0.011781272, u'cabbage_butterfly', 0.011060661]
+[u'pot', 0.61403066, u'vase', 0.1889852, u'daisy', 0.023884362, u'strawberry', 0.011781272, u'cabbage_butterfly', 0.011060661]

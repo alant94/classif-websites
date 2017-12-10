@@ -1,0 +1,2 @@
+[u'scoreboard', 0.35883832, u'comic_book', 0.11251318, u'slot', 0.096275456, u'screwdriver', 0.073432602, u'cinema', 0.056778304]
+[u'traffic_light', 0.15477781, u'digital_clock', 0.12120887, u'candle', 0.047530714, u'lighter', 0.045940109, u'matchstick', 0.043160383]

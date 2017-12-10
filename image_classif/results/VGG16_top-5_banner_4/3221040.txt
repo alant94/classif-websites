@@ -1,0 +1,5 @@
+[u'menu', 0.37541485, u'envelope', 0.36937401, u'web_site', 0.20269307, u'binder', 0.024006952, u'carton', 0.003337038]
+[u'airship', 0.2799843, u'cash_machine', 0.06544558, u'street_sign', 0.060318209, u'can_opener', 0.036684237, u'Band_Aid', 0.029628113]
+[u'book_jacket', 0.11028431, u'barrel', 0.098269366, u'brass', 0.050183661, u'caldron', 0.036873352, u'perfume', 0.034216296]
+[u'candle', 0.12382826, u'coral_fungus', 0.061399981, u'book_jacket', 0.058507644, u'space_shuttle', 0.056244794, u'picket_fence', 0.054835986]
+[u'sunscreen', 0.30764267, u'book_jacket', 0.072044984, u'pick', 0.054630801, u'face_powder', 0.052941706, u'pill_bottle', 0.047729149]

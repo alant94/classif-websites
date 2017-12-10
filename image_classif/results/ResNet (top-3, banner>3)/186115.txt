@@ -1,0 +1,2 @@
+[u'slug', 0.4469803, u'snail', 0.16137348, u'buckle', 0.046093702]
+[u'paper_towel', 0.096732274, u'plate_rack', 0.083065666, u'switch', 0.065064393]

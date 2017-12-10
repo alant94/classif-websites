@@ -1,0 +1,3 @@
+[u'rugby_ball', 0.14154023, u'puck', 0.11703291, u'Band_Aid', 0.087469846, u'volleyball', 0.06441056, u'nipple', 0.045779463]
+[u'web_site', 0.96853662, u'book_jacket', 0.0041380282, u'envelope', 0.0026675365, u'comic_book', 0.0019290014, u'cash_machine', 0.0014005767]
+[u'mobile_home', 0.65352386, u'gas_pump', 0.091113158, u'cinema', 0.068655305, u'pay-phone', 0.029162673, u'moving_van', 0.022653962]

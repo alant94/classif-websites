@@ -1,0 +1,2 @@
+[u'horned_viper', 0.37560248, u'book_jacket', 0.30987251, u'sidewinder', 0.10842873, u'trilobite', 0.054719742, u'web_site', 0.032453753]
+[u'pelican', 0.16554159, u'dalmatian', 0.097376622, u'American_egret', 0.086989336, u'crane', 0.072372548, u'spoonbill', 0.045233831]

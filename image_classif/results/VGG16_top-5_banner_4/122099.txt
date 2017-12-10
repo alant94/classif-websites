@@ -1,0 +1,3 @@
+[u'comic_book', 0.50799835, u'gasmask', 0.17511557, u'oxygen_mask', 0.047418728, u'freight_car', 0.028671881, u'toilet_seat', 0.024147278]
+[u'oscilloscope', 0.91748786, u'screen', 0.01718309, u'monitor', 0.01336245, u'stage', 0.012481356, u'spotlight', 0.007344902]
+[u'cinema', 0.47649327, u'church', 0.11186235, u'mosque', 0.08193928, u'bell_cote', 0.065681763, u'altar', 0.038526654]

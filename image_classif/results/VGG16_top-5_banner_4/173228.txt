@@ -1,0 +1,8 @@
+[u'slot', 0.87715703, u'scoreboard', 0.062596031, u'cinema', 0.0088560358, u'theater_curtain', 0.0062189661, u'puck', 0.0051551876]
+[u'web_site', 0.75663781, u'television', 0.1553833, u'Windsor_tie', 0.015943086, u'screen', 0.013885212, u'notebook', 0.013119466]
+[u'lighter', 0.14455354, u'can_opener', 0.12846869, u'switch', 0.057247188, u'screw', 0.051190086, u'hard_disc', 0.047978789]
+[u'racer', 0.42165327, u'sports_car', 0.25174201, u'cassette_player', 0.047146179, u'passenger_car', 0.039594099, u'pickup', 0.02268439]
+[u'cassette_player', 0.45727861, u'tape_player', 0.18522814, u'radio', 0.1065804, u'cassette', 0.07738176, u'digital_clock', 0.027259884]
+[u'joystick', 0.43042192, u'remote_control', 0.27714962, u'hand-held_computer', 0.052849952, u'can_opener', 0.02538304, u'mouse', 0.015817545]
+[u'digital_clock', 0.50721169, u'stopwatch', 0.13050695, u'web_site', 0.04681522, u'remote_control', 0.029128799, u'sunscreen', 0.028707407]
+[u'digital_clock', 0.58454823, u'book_jacket', 0.043696899, u'binder', 0.026467049, u'street_sign', 0.025904784, u'Band_Aid', 0.025168311]

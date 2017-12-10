@@ -1,0 +1,6 @@
+[u'picket_fence', 0.29990092, u'lakeside', 0.16218002, u'worm_fence', 0.14819105, u'boathouse', 0.01988708, u'chainlink_fence', 0.016774016]
+[u'steel_drum', 0.23505555, u'barrel', 0.2239829, u'ladle', 0.065470442, u'wok', 0.035241406, u'cleaver', 0.033363346]
+[u'nail', 0.55456036, u'screw', 0.096270733, u'sea_urchin', 0.039688185, u'screwdriver', 0.028574865, u'centipede', 0.01327062]
+[u'geyser', 0.46547449, u'alp', 0.44878888, u'valley', 0.022447897, u'cliff', 0.020622404, u'dogsled', 0.0039784573]
+[u'brassiere', 0.28428927, u'abaya', 0.12179275, u'lampshade', 0.045372769, u'holster', 0.039068699, u'cloak', 0.03006593]
+[u'promontory', 0.60941601, u'cliff', 0.19119883, u'seashore', 0.073018655, u'alp', 0.050116979, u'lakeside', 0.021139624]

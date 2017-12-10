@@ -1,0 +1,4 @@
+[u'spaghetti_squash', 0.32768968, u'jackfruit', 0.1273753, u'orange', 0.074834466]
+[u'lampshade', 0.20152305, u'bonnet', 0.13670014, u'jellyfish', 0.10205438]
+[u'pick', 0.12646665, u'shield', 0.10335451, u'stopwatch', 0.09901832]
+[u'hatchet', 0.15862866, u'wooden_spoon', 0.15316293, u'barrel', 0.071417898]

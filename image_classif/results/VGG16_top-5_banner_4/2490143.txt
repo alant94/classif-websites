@@ -1,0 +1,3 @@
+[u'window_shade', 0.4819237, u'shoji', 0.23026523, u'window_screen', 0.050823119, u'sliding_door', 0.041377064, u'wardrobe', 0.019461026]
+[u'lakeside', 0.53488505, u'promontory', 0.24961202, u'seashore', 0.11111624, u'sandbar', 0.036712695, u'valley', 0.015013358]
+[u'book_jacket', 0.1664404, u'carton', 0.073649213, u'lampshade', 0.042137619, u'envelope', 0.032678649, u'jersey', 0.029030822]

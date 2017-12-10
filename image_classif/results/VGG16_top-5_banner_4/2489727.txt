@@ -1,0 +1,5 @@
+[u'envelope', 0.25605717, u'web_site', 0.1106847, u'book_jacket', 0.03428993, u'wall_clock', 0.029158503, u'analog_clock', 0.023316162]
+[u'assault_rifle', 0.26923898, u'tank', 0.097210601, u'military_uniform', 0.084521398, u'rifle', 0.065338209, u'projectile', 0.053064048]
+[u'cliff_dwelling', 0.13179517, u'vault', 0.035491407, u'volcano', 0.024585456, u'barn', 0.023104856, u'cliff', 0.020135479]
+[u'barrow', 0.55373663, u'crate', 0.083913244, u'oxcart', 0.028124364, u'tractor', 0.023502942, u'horse_cart', 0.022867061]
+[u'crate', 0.075854868, u'hook', 0.038608856, u'packet', 0.026561039, u'knot', 0.025383266, u'stethoscope', 0.025223913]

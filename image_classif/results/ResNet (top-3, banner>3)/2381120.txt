@@ -1,0 +1,8 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'barrel', 0.42597327, u'scale', 0.38442212, u'projectile', 0.11304986]
+[u'book_jacket', 0.26645216, u'comic_book', 0.1947958, u'oscilloscope', 0.14401856]
+[u'barrel', 0.99809438, u'gong', 0.00054504885, u'rain_barrel', 0.00045559736]
+[u'abaya', 0.1215501, u'analog_clock', 0.0578559, u'electric_guitar', 0.041516069]
+[u'abaya', 0.1215501, u'analog_clock', 0.0578559, u'electric_guitar', 0.041516069]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

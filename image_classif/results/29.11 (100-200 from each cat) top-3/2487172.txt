@@ -1,0 +1,5 @@
+[u'tray', 0.23023291, u'face_powder', 0.18152387, u'toilet_seat', 0.067419924]
+[u'scoreboard', 0.62137043, u'book_jacket', 0.035008781, u'remote_control', 0.028566048]
+[u'web_site', 0.16558583, u'hook', 0.088810027, u'envelope', 0.050901979]
+[u'bannister', 0.64624262, u'swab', 0.10772518, u'sea_lion', 0.057336293]
+[u'prayer_rug', 0.23798588, u'altar', 0.10654721, u'window_screen', 0.086433381]

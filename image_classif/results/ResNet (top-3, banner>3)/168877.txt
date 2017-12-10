@@ -1,0 +1,3 @@
+[u'carousel', 0.099121913, u'swing', 0.092426546, u'neck_brace', 0.045159604]
+[u'tobacco_shop', 0.97841197, u'confectionery', 0.0075590312, u'bookshop', 0.0054772822]
+[u'web_site', 0.096344098, u'brassiere', 0.077619769, u'fur_coat', 0.051442623]

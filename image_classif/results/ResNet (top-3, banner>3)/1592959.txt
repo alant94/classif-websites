@@ -1,0 +1,2 @@
+[u'bikini', 0.46003672, u'neck_brace', 0.12141089, u'brassiere', 0.10919913]
+[u'bikini', 0.32221398, u'maillot', 0.13837992, u'swimming_trunks', 0.083256826]

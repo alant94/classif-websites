@@ -1,0 +1,1 @@
+[u'bib', 0.2399656, u'pillow', 0.12851442, u'handkerchief', 0.12695384, u'envelope', 0.086864874, u'jigsaw_puzzle', 0.073746078]

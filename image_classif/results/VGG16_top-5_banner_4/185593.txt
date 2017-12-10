@@ -1,0 +1,4 @@
+[u'racer', 0.47464037, u'go-kart', 0.35109708, u'trailer_truck', 0.065477036, u'sports_car', 0.014818634, u'tow_truck', 0.0097875809]
+[u'racer', 0.70927542, u'cab', 0.08481992, u'tow_truck', 0.064705253, u'pickup', 0.051845126, u'sports_car', 0.028159091]
+[u'racer', 0.5500263, u'go-kart', 0.060919445, u'sports_car', 0.058041167, u'bobsled', 0.049213115, u'minibus', 0.043617871]
+[u'racer', 0.94711202, u'sports_car', 0.039032973, u'car_wheel', 0.0043857186, u'speedboat', 0.0021149074, u'tow_truck', 0.0016293918]

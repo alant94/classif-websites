@@ -1,0 +1,1 @@
+[u'radiator', 0.38718396, u'plate_rack', 0.36951235, u'spatula', 0.093000211, u'space_heater', 0.054333266, u'cleaver', 0.011604551]

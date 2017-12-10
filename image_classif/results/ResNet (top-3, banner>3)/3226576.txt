@@ -1,0 +1,5 @@
+[u'jersey', 0.23990199, u'pick', 0.12921318, u'envelope', 0.12733166]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'envelope', 0.44558191, u'web_site', 0.17425808, u'jersey', 0.071477525]

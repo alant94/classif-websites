@@ -1,0 +1,5 @@
+[u'picket_fence', 0.32232773, u'cleaver', 0.059128087, u'punching_bag', 0.050342243, u'chime', 0.04208808, u'fountain', 0.035862859]
+[u'toyshop', 0.14950219, u'whistle', 0.087679259, u'ice_lolly', 0.083179481, u'paintbrush', 0.072166756, u'pinwheel', 0.050358515]
+[u'jersey', 0.19513395, u'swimming_trunks', 0.035511006, u'academic_gown', 0.025075572, u'sarong', 0.02484297, u'torch', 0.022166764]
+[u'turnstile', 0.059411149, u'prison', 0.049834799, u'sweatshirt', 0.045719732, u'crutch', 0.030811768, u'cliff_dwelling', 0.030192958]
+[u'web_site', 0.23216526, u'envelope', 0.050459087, u'Band_Aid', 0.048374221, u'digital_clock', 0.014754155, u'stopwatch', 0.014112381]

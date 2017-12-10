@@ -1,0 +1,3 @@
+[u'cocktail_shaker', 0.17205276, u'loupe', 0.10787281, u'whistle', 0.062845305, u'milk_can', 0.050940491, u'lighter', 0.049324695]
+[u'necklace', 0.86337036, u'chain', 0.088277012, u'chain_mail', 0.0094558364, u'bottlecap', 0.0075135124, u'safety_pin', 0.0034278806]
+[u'wall_clock', 0.15932082, u'hair_slide', 0.15117358, u'analog_clock', 0.034404699, u'abacus', 0.032162655, u'safety_pin', 0.029302059]

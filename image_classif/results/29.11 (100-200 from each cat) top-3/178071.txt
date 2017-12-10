@@ -1,0 +1,4 @@
+[u'web_site', 0.091103628, u'book_jacket', 0.04679092, u'analog_clock', 0.045603212]
+[u'digital_clock', 0.10661503, u'web_site', 0.07036002, u'analog_clock', 0.056996208]
+[u'web_site', 0.15474977, u'analog_clock', 0.032243472, u'street_sign', 0.018531926]
+[u'web_site', 0.091376752, u'book_jacket', 0.034668449, u'analog_clock', 0.028260548]

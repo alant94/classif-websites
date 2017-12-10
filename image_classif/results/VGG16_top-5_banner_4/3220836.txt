@@ -1,0 +1,2 @@
+[u'church', 0.82983607, u'barn', 0.12735492, u'greenhouse', 0.0055366945, u'boathouse', 0.0044849282, u'bell_cote', 0.0034989899]
+[u'brassiere', 0.27096891, u'apron', 0.095816255, u'measuring_cup', 0.042664636, u'envelope', 0.034715757, u'crutch', 0.028034961]

@@ -1,0 +1,2 @@
+[u'coil', 0.16905409, u'hard_disc', 0.1112414, u'stove', 0.09797658, u'loudspeaker', 0.087439612, u'spotlight', 0.046310153]
+[u'coil', 0.36423478, u'hook', 0.064836323, u'panpipe', 0.050995674, u'comic_book', 0.044742439, u'chime', 0.039255656]

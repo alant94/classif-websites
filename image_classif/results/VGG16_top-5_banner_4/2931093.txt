@@ -1,0 +1,4 @@
+[u'bearskin', 0.30310154, u'Irish_water_spaniel', 0.086588725, u'cash_machine', 0.040539976, u'fur_coat', 0.039298162, u'wig', 0.03378246]
+[u'web_site', 0.27855107, u'envelope', 0.069628701, u'matchstick', 0.031067993, u'binder', 0.028979884, u'Windsor_tie', 0.028200714]
+[u'Airedale', 0.54633337, u'Lakeland_terrier', 0.33924037, u'Irish_terrier', 0.034769494, u'miniature_poodle', 0.025409272, u'wire-haired_fox_terrier', 0.024804575]
+[u'Saint_Bernard', 0.98914856, u'boxer', 0.0060117054, u'Greater_Swiss_Mountain_dog', 0.0023376842, u'bull_mastiff', 0.00063204969, u'Leonberg', 0.00046751319]

@@ -1,0 +1,2 @@
+[u'geyser', 0.85124463, u'volcano', 0.048361279, u'cliff', 0.041945584, u'valley', 0.027066356, u'promontory', 0.0044812262]
+[u'hook', 0.074787438, u'safety_pin', 0.041209362, u'envelope', 0.028938744, u'corkscrew', 0.028320078, u'microphone', 0.020539664]

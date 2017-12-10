@@ -1,0 +1,4 @@
+[u'shield', 0.1113648, u'loupe', 0.092549682, u'spotlight', 0.07030046, u'toilet_seat', 0.054642655, u'chime', 0.030657921]
+[u'plate_rack', 0.30111149, u'crate', 0.1287384, u'spotlight', 0.056548152, u'barrel', 0.0255934, u'printer', 0.024290239]
+[u'stupa', 0.14064664, u'bell_cote', 0.12636216, u'obelisk', 0.08595679, u'castle', 0.077134252, u'picket_fence', 0.061713461]
+[u'spaghetti_squash', 0.28023601, u'orange', 0.23005509, u'butternut_squash', 0.13982067, u'acorn_squash', 0.10045945, u'plate', 0.040496219]

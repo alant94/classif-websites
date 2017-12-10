@@ -1,0 +1,2 @@
+[u'bikini', 0.14430815, u'maillot', 0.074334919, u'wig', 0.072050519, u'Band_Aid', 0.039815851, u'paintbrush', 0.033151235]
+[u'binder', 0.22774169, u'window_shade', 0.14824566, u'book_jacket', 0.11734524, u'envelope', 0.087594494, u'fire_screen', 0.07486932]

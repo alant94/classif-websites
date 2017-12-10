@@ -1,0 +1,5 @@
+[u'sarong', 0.60289568, u'miniskirt', 0.080093548, u'maillot', 0.063951209]
+[u'miniskirt', 0.65522486, u'brassiere', 0.075385317, u'maillot', 0.071125641]
+[u'brassiere', 0.71457767, u'bikini', 0.17986311, u'miniskirt', 0.065663911]
+[u'bathing_cap', 0.25055569, u'moped', 0.22757033, u'crash_helmet', 0.18394667]
+[u'refrigerator', 0.42670444, u'microwave', 0.24534628, u'toaster', 0.14731736]

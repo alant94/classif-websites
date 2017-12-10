@@ -1,0 +1,2 @@
+[u'Gordon_setter', 0.14068159, u'Labrador_retriever', 0.10182504, u'hog', 0.096775018]
+[u'hog', 0.52603197, u'wild_boar', 0.26214665, u'American_black_bear', 0.089582525]

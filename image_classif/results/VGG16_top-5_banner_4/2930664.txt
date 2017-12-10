@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.33656323, u'cleaver', 0.17019342, u'handkerchief', 0.10018227, u'ocarina', 0.080607414, u'mortarboard', 0.069185153]
+[u'stole', 0.14182012, u'fur_coat', 0.140338, u'swab', 0.095025286, u'bookshop', 0.065986954, u'poncho', 0.062392138]
+[u'bow_tie', 0.15042558, u'groom', 0.1073403, u'restaurant', 0.10653514, u'goblet', 0.059431951, u'cocktail_shaker', 0.058228511]
+[u'analog_clock', 0.071552679, u'beacon', 0.059521899, u'digital_clock', 0.049424578, u'water_tower', 0.043087881, u'bell_cote', 0.043073319]

@@ -1,0 +1,1 @@
+[u'puck', 0.69271266, u'face_powder', 0.14501089, u'street_sign', 0.018909043, u'bottlecap', 0.01648012, u'wall_clock', 0.015213881]

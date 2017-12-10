@@ -1,0 +1,1 @@
+[u'binder', 0.54791218, u'envelope', 0.21248539, u'packet', 0.041248109, u'wallet', 0.039108757, u'mousetrap', 0.023885624]

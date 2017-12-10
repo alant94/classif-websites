@@ -1,0 +1,3 @@
+[u'book_jacket', 0.13458261, u'web_site', 0.12767509, u'scoreboard', 0.038300168, u'cash_machine', 0.033635307, u'analog_clock', 0.028158696]
+[u'missile', 0.32906258, u'quill', 0.26291537, u'projectile', 0.16136813, u'flagpole', 0.075768523, u'pole', 0.013882705]
+[u'book_jacket', 0.27659243, u'comic_book', 0.053253986, u'web_site', 0.047588203, u'jersey', 0.033377498, u'lionfish', 0.021248445]

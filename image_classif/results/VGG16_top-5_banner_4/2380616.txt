@@ -1,0 +1,8 @@
+[u'book_jacket', 0.31746164, u'bookshop', 0.1419289, u'packet', 0.082839943, u'carton', 0.041567013, u'wine_bottle', 0.03895364]
+[u'web_site', 0.35460615, u'menu', 0.12616356, u'book_jacket', 0.021577699, u'envelope', 0.013506147, u'hand_blower', 0.012872087]
+[u'mobile_home', 0.40889728, u'picket_fence', 0.087503202, u'boathouse', 0.057957117, u'web_site', 0.051204909, u'window_screen', 0.028580988]
+[u'birdhouse', 0.21905524, u'pole', 0.17178616, u'gas_pump', 0.072128259, u'mailbox', 0.069560885, u'worm_fence', 0.050096951]
+[u'book_jacket', 0.42182562, u'web_site', 0.092139751, u'barbershop', 0.03922841, u'academic_gown', 0.027363863, u'television', 0.025513442]
+[u'wine_bottle', 0.92594868, u'beer_bottle', 0.030869842, u'red_wine', 0.027578363, u"carpenter's_kit", 0.0029763959, u'screwdriver', 0.0024691054]
+[u'pole', 0.26727185, u'gas_pump', 0.17195109, u'birdhouse', 0.12986569, u'worm_fence', 0.048574541, u'flagpole', 0.026064675]
+[u'book_jacket', 0.47326294, u'comic_book', 0.17142916, u'jersey', 0.10845454, u'menu', 0.075919248, u'packet', 0.0075421352]

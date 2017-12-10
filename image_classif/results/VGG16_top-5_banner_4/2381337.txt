@@ -1,0 +1,6 @@
+[u'coho', 0.75037295, u'barracouta', 0.09857697, u'sturgeon', 0.039233204, u'gar', 0.028980082, u'hammerhead', 0.01368203]
+[u'puffer', 0.53799462, u'spotlight', 0.06385652, u'ear', 0.025405409, u'hair_slide', 0.015287108, u'perfume', 0.015103771]
+[u'kimono', 0.24141496, u'pajama', 0.064320773, u'sarong', 0.055686675, u'shower_curtain', 0.047026228, u'web_site', 0.039414402]
+[u'web_site', 0.68044215, u'fur_coat', 0.030575687, u'book_jacket', 0.024152992, u'sleeping_bag', 0.023930887, u'megalith', 0.020503774]
+[u'gar', 0.29259604, u'barracouta', 0.21047807, u'coho', 0.089760475, u'tusker', 0.073090434, u'bow', 0.069042824]
+[u'bow', 0.09867017, u'barracouta', 0.081197038, u'punching_bag', 0.07889542, u'gar', 0.047982272, u'coho', 0.027673736]

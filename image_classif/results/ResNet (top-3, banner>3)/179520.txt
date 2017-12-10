@@ -1,0 +1,7 @@
+[u'maraca', 0.079644546, u'altar', 0.069114961, u'stage', 0.065013938]
+[u'cello', 0.37016362, u'harp', 0.18778381, u'violin', 0.11390544]
+[u'soccer_ball', 0.88036174, u'volleyball', 0.055287607, u'balance_beam', 0.016226027]
+[u'theater_curtain', 0.74014944, u'stage', 0.031856738, u'suit', 0.029162912]
+[u'bulletproof_vest', 0.33402386, u'police_van', 0.21244974, u'stretcher', 0.13062212]
+[u'wardrobe', 0.2161687, u'jean', 0.13230281, u'plunger', 0.075959027]
+[u'web_site', 0.99984133, u'comic_book', 0.00013724041, u'menu', 1.0345129e-05]

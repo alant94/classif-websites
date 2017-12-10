@@ -1,0 +1,4 @@
+[u'television', 0.46132898, u'lab_coat', 0.15170406, u'screen', 0.074237756, u'neck_brace', 0.055716112, u'oxygen_mask', 0.051780712]
+[u'web_site', 0.22570075, u'brassiere', 0.19299483, u'Band_Aid', 0.10136678, u'television', 0.059781484, u'book_jacket', 0.033228915]
+[u'pay-phone', 0.60184014, u'cash_machine', 0.1059477, u'vending_machine', 0.062804155, u'microwave', 0.038862556, u'web_site', 0.015682751]
+[u'television', 0.42704371, u'web_site', 0.099296689, u'monitor', 0.097868338, u'stage', 0.044723094, u'home_theater', 0.039719701]

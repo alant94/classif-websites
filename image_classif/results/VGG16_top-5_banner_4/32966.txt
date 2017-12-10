@@ -1,0 +1,4 @@
+[u'cash_machine', 0.93586928, u'safe', 0.025448734, u'vending_machine', 0.0047526066, u'oscilloscope', 0.0040643681, u'monitor', 0.0040243445]
+[u'Windsor_tie', 0.27144992, u'web_site', 0.064122848, u'maze', 0.048933428, u'envelope', 0.043865941, u'crossword_puzzle', 0.027860561]
+[u'envelope', 0.072496474, u'washbasin', 0.048157848, u'crossword_puzzle', 0.031265654, u'web_site', 0.027347922, u'book_jacket', 0.025962504]
+[u'abaya', 0.14726177, u'jean', 0.14176229, u'miniskirt', 0.10258082, u'suit', 0.056258425, u'balance_beam', 0.046123631]

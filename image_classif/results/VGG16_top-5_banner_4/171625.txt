@@ -1,0 +1,5 @@
+[u'projector', 0.29373926, u'binoculars', 0.071047358, u'oil_filter', 0.051155191, u'cassette', 0.05053309, u'loudspeaker', 0.041947939]
+[u'cash_machine', 0.1772736, u'street_sign', 0.067877218, u'book_jacket', 0.046293251, u'web_site', 0.028233854, u'laptop', 0.026485262]
+[u'picket_fence', 0.40050885, u'syringe', 0.10252698, u'book_jacket', 0.025719332, u'lighter', 0.025095718, u'digital_clock', 0.023584185]
+[u'container_ship', 0.23978235, u'digital_clock', 0.18758444, u'scoreboard', 0.063474074, u'space_shuttle', 0.034849916, u'book_jacket', 0.028572608]
+[u'screwdriver', 0.38809153, u'syringe', 0.09425427, u'ballpoint', 0.070723377, u'nail', 0.04557652, u'matchstick', 0.041414239]

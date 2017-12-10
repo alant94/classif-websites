@@ -1,0 +1,1 @@
+[u'stole', 0.16135728, u'sarong', 0.11796001, u'poncho', 0.090054058, u'picket_fence', 0.072077297, u'theater_curtain', 0.068910569]

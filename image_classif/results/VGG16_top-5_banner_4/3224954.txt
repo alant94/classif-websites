@@ -1,0 +1,2 @@
+[u'digital_clock', 0.11026911, u'matchstick', 0.03290008, u'stopwatch', 0.027151279, u'nematode', 0.024591463, u'analog_clock', 0.02131113]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

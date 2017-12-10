@@ -1,0 +1,2 @@
+[u'comic_book', 0.49942505, u'book_jacket', 0.28364477, u'ski', 0.1451274, u'puck', 0.025514523, u'radio_telescope', 0.0098358896]
+[u'envelope', 0.20961517, u'jersey', 0.11305151, u'nail', 0.093735516, u'book_jacket', 0.073514298, u'binder', 0.036006898]

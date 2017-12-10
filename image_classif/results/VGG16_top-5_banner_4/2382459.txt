@@ -1,0 +1,3 @@
+[u'balloon', 0.78829193, u'traffic_light', 0.039771564, u'hay', 0.010143243, u'volleyball', 0.0093944222, u'alp', 0.0051553017]
+[u'iron', 0.23816162, u'hook', 0.14618282, u'paper_towel', 0.037384097, u'safety_pin', 0.02593595, u'picket_fence', 0.023565976]
+[u'acorn', 0.10398462, u'birdhouse', 0.050012462, u'picket_fence', 0.045427363, u'pot', 0.036692739, u'honeycomb', 0.030613231]

@@ -1,0 +1,5 @@
+[u'binder', 0.18207084, u'wallet', 0.11867738, u'iPod', 0.098434493, u'envelope', 0.068243042, u'slide_rule', 0.041074671]
+[u'vault', 0.31050617, u'brassiere', 0.13675614, u'Loafer', 0.066146024, u'clog', 0.056160744, u'sandal', 0.04030316]
+[u'crossword_puzzle', 0.20746762, u'ballpoint', 0.11695233, u'fountain_pen', 0.11617652, u'quill', 0.10502052, u'menu', 0.059543155]
+[u'rubber_eraser', 0.92724425, u'pencil_sharpener', 0.034228869, u'rule', 0.011451204, u'ballpoint', 0.0047723567, u'pencil_box', 0.0044394848]
+[u'spatula', 0.1209251, u'padlock', 0.074110404, u'picket_fence', 0.072482437, u'folding_chair', 0.071498282, u'park_bench', 0.057006717]

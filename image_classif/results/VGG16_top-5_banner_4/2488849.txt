@@ -1,0 +1,1 @@
+[u'promontory', 0.66873866, u'cliff', 0.16679752, u'seashore', 0.11675779, u'beacon', 0.01051576, u'volcano', 0.010217576]

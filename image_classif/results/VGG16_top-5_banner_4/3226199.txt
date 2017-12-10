@@ -1,0 +1,2 @@
+[u'suit', 0.42590457, u'bow_tie', 0.34550819, u'Windsor_tie', 0.16263412, u'neck_brace', 0.016810477, u'military_uniform', 0.0080404188]
+[u'restaurant', 0.77161729, u'dining_table', 0.10788442, u'library', 0.078903593, u'bookshop', 0.01004007, u'rocking_chair', 0.008359435]

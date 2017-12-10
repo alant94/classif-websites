@@ -1,0 +1,4 @@
+[u'envelope', 0.47613406, u'binder', 0.28896788, u'menu', 0.023930019, u'rule', 0.018217025, u'packet', 0.01355883]
+[u'mailbox', 0.16494225, u'carton', 0.15483397, u'vending_machine', 0.11928163, u'pop_bottle', 0.11375649, u'hair_spray', 0.093300328]
+[u'spotlight', 0.82342941, u'loupe', 0.1451817, u'cassette', 0.0044248556, u'screw', 0.002410966, u'cocktail_shaker', 0.0022947509]
+[u'bannister', 0.32269895, u'upright', 0.070625737, u'street_sign', 0.069643207, u'cinema', 0.051694036, u'coil', 0.041346509]

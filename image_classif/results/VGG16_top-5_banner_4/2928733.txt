@@ -1,0 +1,5 @@
+[u'ski', 0.76152211, u'paintbrush', 0.052512765, u'butcher_shop', 0.048134223, u'flagpole', 0.023700731, u'cleaver', 0.014261298]
+[u'stole', 0.61764246, u'sarong', 0.090540409, u'pajama', 0.070270598, u'swab', 0.046878971, u'wool', 0.032923985]
+[u'fountain', 0.7694146, u'shower_curtain', 0.12260359, u'butcher_shop', 0.0067029512, u'paintbrush', 0.0058506904, u'window_shade', 0.0046948828]
+[u'torch', 0.5440973, u'pole', 0.10763079, u'volcano', 0.05149661, u'cliff', 0.029296784, u'flagpole', 0.023637744]
+[u'stole', 0.070535809, u'sarong', 0.070007823, u'ear', 0.068079963, u'corn', 0.060664803, u'candle', 0.046630796]

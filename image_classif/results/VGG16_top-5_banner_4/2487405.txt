@@ -1,0 +1,4 @@
+[u'barn', 0.70171875, u'worm_fence', 0.11078782, u'picket_fence', 0.028643599, u'chainlink_fence', 0.015197703, u'scoreboard', 0.012090106]
+[u'gazelle', 0.35348859, u'hartebeest', 0.28990126, u'impala', 0.19261429, u'warthog', 0.058260549, u'ibex', 0.02457737]
+[u'gazelle', 0.39627576, u'impala', 0.14620204, u'hartebeest', 0.13919519, u'hare', 0.055365849, u'coyote', 0.04473174]
+[u'worm_fence', 0.22414978, u'chainlink_fence', 0.14081237, u'prison', 0.030558692, u'barn', 0.028730202, u'turnstile', 0.023988778]

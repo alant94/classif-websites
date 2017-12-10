@@ -1,0 +1,1 @@
+[u'doormat', 0.64629847, u'hamper', 0.093801424, u'prayer_rug', 0.065560371, u'bath_towel', 0.020412998, u'mortarboard', 0.01813391]

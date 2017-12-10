@@ -1,0 +1,3 @@
+[u'Rhodesian_ridgeback', 0.57895452, u'bloodhound', 0.2094516, u'redbone', 0.071510538, u'Great_Dane', 0.063645139, u'vizsla', 0.022397844]
+[u'whippet', 0.561261, u'Italian_greyhound', 0.18751149, u'dalmatian', 0.064955436, u'curly-coated_retriever', 0.054166608, u'African_grey', 0.024995904]
+[u'whippet', 0.69974047, u'Italian_greyhound', 0.24879873, u'Saluki', 0.024165865, u'Scottish_deerhound', 0.016234703, u'borzoi', 0.0036039925]

@@ -1,0 +1,2 @@
+[u'candle', 0.66534799, u'beaker', 0.052040033, u'matchstick', 0.035645843, u'jellyfish', 0.017829441, u'goldfish', 0.016621299]
+[u'library', 0.13778451, u'bookshop', 0.13031112, u'boathouse', 0.07780917, u'gondola', 0.059610166, u'tobacco_shop', 0.048824839]

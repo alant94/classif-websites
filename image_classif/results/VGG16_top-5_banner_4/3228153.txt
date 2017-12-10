@@ -1,0 +1,1 @@
+[u'book_jacket', 0.81703287, u'brassiere', 0.082845412, u'bikini', 0.016852444, u'perfume', 0.0077145519, u'packet', 0.0062247696]

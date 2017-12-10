@@ -1,0 +1,4 @@
+[u'piggy_bank', 0.18138832, u'Band_Aid', 0.15654287, u'bathtub', 0.060322501, u'tub', 0.048669156, u'mask', 0.038124137]
+[u'shower_curtain', 0.81324673, u'washbasin', 0.015762221, u'toilet_seat', 0.010109582, u'tub', 0.0098244762, u'bathtub', 0.007704854]
+[u'brassiere', 0.50303429, u'book_jacket', 0.063436218, u'neck_brace', 0.062642775, u'maillot', 0.026981095, u'maillot', 0.025784243]
+[u'envelope', 0.23302989, u'window_screen', 0.13612334, u'fire_screen', 0.056636281, u'window_shade', 0.04039285, u'binder', 0.038834628]

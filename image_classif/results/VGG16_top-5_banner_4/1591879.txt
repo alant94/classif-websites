@@ -1,0 +1,1 @@
+[u'boathouse', 0.22902898, u'fireboat', 0.070971116, u'container_ship', 0.060462963, u'drilling_platform', 0.052031219, u'crane', 0.041736532]

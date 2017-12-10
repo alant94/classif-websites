@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.096511886, u'cradle', 0.0560706, u'iron', 0.050685018, u'pitcher', 0.046059538, u'mosquito_net', 0.04482276]
+[u'bikini', 0.70430231, u'maillot', 0.10827206, u'maillot', 0.050766956, u'sarong', 0.023815539, u'miniskirt', 0.021803509]

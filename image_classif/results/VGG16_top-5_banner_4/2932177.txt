@@ -1,0 +1,5 @@
+[u'cliff', 0.80683464, u'breakwater', 0.14226884, u'wreck', 0.013566141, u'promontory', 0.01181503, u'sarong', 0.0055781142]
+[u'hay', 0.28428978, u'golf_ball', 0.057487704, u'briard', 0.039550588, u'running_shoe', 0.035398979, u'cowboy_hat', 0.031416148]
+[u'hay', 0.14842929, u'running_shoe', 0.052592419, u'golf_ball', 0.048243344, u'cowboy_hat', 0.046801142, u'piggy_bank', 0.034674637]
+[u'garden_spider', 0.12556812, u'tarantula', 0.11742719, u'wolf_spider', 0.10555831, u'impala', 0.087369733, u'barn_spider', 0.074975781]
+[u'bath_towel', 0.11393233, u'lab_coat', 0.1126885, u'toilet_tissue', 0.098672368, u'paper_towel', 0.040104203, u'shower_curtain', 0.036853366]

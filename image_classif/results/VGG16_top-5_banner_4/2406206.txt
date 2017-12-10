@@ -1,0 +1,4 @@
+[u'wooden_spoon', 0.71408451, u'balloon', 0.19717588, u'vault', 0.018779309, u'mosque', 0.0055102552, u'monastery', 0.0039195842]
+[u'viaduct', 0.17256798, u'megalith', 0.13048345, u'dome', 0.10661963, u'hay', 0.098026194, u'fountain', 0.047524288]
+[u'brain_coral', 0.45841232, u'chiton', 0.16189979, u'trilobite', 0.082675017, u'chain_mail', 0.048615534, u'breastplate', 0.027217425]
+[u'fountain', 0.90586531, u'picket_fence', 0.023163669, u'birdhouse', 0.0050268983, u'swing', 0.0038939829, u'hay', 0.003644068]

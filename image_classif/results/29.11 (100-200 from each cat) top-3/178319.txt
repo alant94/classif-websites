@@ -1,0 +1,5 @@
+[u'hook', 0.11230788, u'crane', 0.072912954, u'flagpole', 0.07163845]
+[u'hard_disc', 0.24011554, u'book_jacket', 0.14934015, u'coffee_mug', 0.091461435]
+[u'chime', 0.97009307, u'panpipe', 0.0036198045, u'parallel_bars', 0.0023649144]
+[u'file', 0.8138575, u'chiffonier', 0.061582204, u"carpenter's_kit", 0.030231552]
+[u'web_site', 0.20313063, u'beacon', 0.056193218, u'pier', 0.055032395]

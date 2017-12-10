@@ -1,0 +1,1 @@
+[u'beer_glass', 0.97570723, u'beer_bottle', 0.004069983, u'screwdriver', 0.0021859577]

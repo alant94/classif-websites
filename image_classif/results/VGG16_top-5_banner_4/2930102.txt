@@ -1,0 +1,4 @@
+[u'beacon', 0.1020228, u'wing', 0.040000945, u'trailer_truck', 0.030456536, u'seashore', 0.025066892, u'space_shuttle', 0.023025103]
+[u'screen', 0.0988243, u'monitor', 0.096475169, u'television', 0.082082331, u'home_theater', 0.079421714, u'envelope', 0.033778686]
+[u'beacon', 0.063139401, u'wing', 0.02847307, u'screen', 0.02504788, u'notebook', 0.022523526, u'television', 0.021168493]
+[u'cinema', 0.44856665, u'scoreboard', 0.16748656, u'book_jacket', 0.11138437, u'street_sign', 0.072560184, u'barbershop', 0.037100393]

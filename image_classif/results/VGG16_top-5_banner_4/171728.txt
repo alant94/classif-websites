@@ -1,0 +1,6 @@
+[u'acoustic_guitar', 0.73459196, u'electric_guitar', 0.26472586, u'pick', 0.00055614638, u'stage', 4.4885219e-05, u'banjo', 2.7995682e-05]
+[u'envelope', 0.28518465, u'menu', 0.20160577, u'book_jacket', 0.18406831, u'binder', 0.16835237, u'web_site', 0.045392174]
+[u'web_site', 0.68136406, u'half_track', 0.051411483, u'book_jacket', 0.041631509, u'snowmobile', 0.024200264, u'grand_piano', 0.023675514]
+[u'comic_book', 0.20886849, u'analog_clock', 0.17750341, u'wall_clock', 0.15194534, u'book_jacket', 0.10619783, u'jigsaw_puzzle', 0.069199905]
+[u'menu', 0.26267654, u'envelope', 0.22055104, u'book_jacket', 0.20355023, u'binder', 0.099189498, u'web_site', 0.031431865]
+[u'web_site', 0.64715809, u'half_track', 0.068429403, u'book_jacket', 0.048930366, u'grand_piano', 0.041995615, u'snowmobile', 0.02843116]

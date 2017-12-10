@@ -1,0 +1,1 @@
+[u'pajama', 0.20364729, u'kimono', 0.076373488, u'trench_coat', 0.048074327, u'notebook', 0.035542924, u'jean', 0.025095586]

@@ -1,0 +1,7 @@
+[u'picket_fence', 0.083311059, u'screw', 0.062721297, u'bell_cote', 0.056242231, u'stupa', 0.051851798, u'envelope', 0.026545158]
+[u'boathouse', 0.27639386, u'fireboat', 0.27165011, u'container_ship', 0.10987072, u'lakeside', 0.028473504, u'desk', 0.02337572]
+[u'digital_clock', 0.187005, u'Band_Aid', 0.10598693, u'traffic_light', 0.097735733, u'street_sign', 0.067122363, u'wall_clock', 0.037783667]
+[u'Bouvier_des_Flandres', 0.11549804, u'American_black_bear', 0.088674627, u'sloth_bear', 0.058308344, u'Kerry_blue_terrier', 0.045700733, u'giant_schnauzer', 0.034958258]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'window_screen', 0.13048308, u'goldfish', 0.054455463, u'black_stork', 0.05268329, u'spoonbill', 0.025013108, u'American_egret', 0.023082148]
+[u'fireboat', 0.25692081, u'geyser', 0.045312062, u'window_screen', 0.042887259, u'missile', 0.031293973, u'Angora', 0.027933076]

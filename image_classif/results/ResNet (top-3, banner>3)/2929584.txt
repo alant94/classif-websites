@@ -1,0 +1,2 @@
+[u'restaurant', 0.65334624, u'dining_table', 0.20947443, u'library', 0.12458883]
+[u'corkscrew', 0.39757329, u'Egyptian_cat', 0.044597659, u'skunk', 0.035791799]

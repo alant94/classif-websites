@@ -1,0 +1,5 @@
+[u'sliding_door', 0.10409483, u'shower_curtain', 0.042598587, u'wardrobe', 0.037729442, u'window_shade', 0.035770334, u'wall_clock', 0.034069542]
+[u'monitor', 0.13127565, u'crane', 0.097032562, u'container_ship', 0.079726502, u'oscilloscope', 0.045353483, u'digital_clock', 0.043086752]
+[u'digital_clock', 0.17476715, u'spotlight', 0.11553221, u'digital_watch', 0.034577508, u'window_screen', 0.02492235, u'oscilloscope', 0.021993382]
+[u'cash_machine', 0.056728859, u'toilet_seat', 0.046694022, u'library', 0.045682229, u'washbasin', 0.043345045, u'container_ship', 0.040446244]
+[u'container_ship', 0.39527091, u'shower_curtain', 0.09010423, u'quilt', 0.057864971, u'prayer_rug', 0.044994254, u'maze', 0.025227914]

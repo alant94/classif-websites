@@ -1,0 +1,4 @@
+[u'nail', 0.2069943, u'picket_fence', 0.1501347, u'matchstick', 0.048130643, u'screwdriver', 0.039183766, u'candle', 0.034600813]
+[u'barbershop', 0.40211987, u'street_sign', 0.10165767, u'barrel', 0.096173048, u'crate', 0.070415333, u'barn', 0.056242518]
+[u'book_jacket', 0.82916367, u'comic_book', 0.08064957, u'stage', 0.026889123, u'electric_guitar', 0.011536063, u'bow', 0.0041882843]
+[u'book_jacket', 0.34306252, u'street_sign', 0.22737651, u'flagpole', 0.083128721, u'traffic_light', 0.033763416, u'chainlink_fence', 0.029588874]

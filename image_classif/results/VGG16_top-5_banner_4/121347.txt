@@ -1,0 +1,2 @@
+[u'iron', 0.25828782, u'projector', 0.10138232, u'Polaroid_camera', 0.091238469, u'lighter', 0.081945449, u'joystick', 0.060881704]
+[u'street_sign', 0.23283327, u'Band_Aid', 0.13953751, u'picket_fence', 0.042316586, u'nipple', 0.026288088, u'hair_spray', 0.026181031]

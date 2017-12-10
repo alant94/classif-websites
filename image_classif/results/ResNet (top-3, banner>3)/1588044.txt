@@ -1,0 +1,4 @@
+[u'sunglasses', 0.40565002, u'sunglass', 0.38019738, u'mask', 0.023261987]
+[u'hair_spray', 0.4141297, u'bikini', 0.33633205, u'brassiere', 0.086749032]
+[u'butternut_squash', 0.11165009, u'clog', 0.093328692, u'sea_lion', 0.053207703]
+[u'comic_book', 0.6981287, u'jigsaw_puzzle', 0.14513685, u'web_site', 0.050023906]

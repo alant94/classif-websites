@@ -1,0 +1,3 @@
+[u'book_jacket', 0.27897581, u'CD_player', 0.11552275, u'cassette_player', 0.094778977]
+[u'book_jacket', 0.54504406, u'cassette', 0.12243491, u'comic_book', 0.094625257]
+[u'neck_brace', 0.42756778, u"potter's_wheel", 0.075139701, u'can_opener', 0.029492173]

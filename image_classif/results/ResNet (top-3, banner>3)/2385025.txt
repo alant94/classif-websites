@@ -1,0 +1,2 @@
+[u'coil', 0.21600576, u'traffic_light', 0.15174355, u'container_ship', 0.063520595]
+[u'web_site', 0.57205045, u'nematode', 0.016187627, u'theater_curtain', 0.014112697]

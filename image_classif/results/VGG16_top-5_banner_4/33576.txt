@@ -1,0 +1,2 @@
+[u'crane', 0.14275438, u'horizontal_bar', 0.11528201, u'street_sign', 0.090060897, u'hook', 0.074358329, u'pole', 0.037517998]
+[u'screwdriver', 0.58032006, u'coral_fungus', 0.11750876, u'picket_fence', 0.088674977, u'nail', 0.040158529, u'matchstick', 0.03997039]

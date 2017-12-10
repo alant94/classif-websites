@@ -1,0 +1,7 @@
+[u'envelope', 0.023829879, u'cleaver', 0.019332336, u'face_powder', 0.0093873236, u'puck', 0.0086056385, u'can_opener', 0.0085334396]
+[u'envelope', 0.023829879, u'cleaver', 0.019332336, u'face_powder', 0.0093873236, u'puck', 0.0086056385, u'can_opener', 0.0085334396]
+[u'envelope', 0.023829879, u'cleaver', 0.019332336, u'face_powder', 0.0093873236, u'puck', 0.0086056385, u'can_opener', 0.0085334396]
+[u'envelope', 0.023829879, u'cleaver', 0.019332336, u'face_powder', 0.0093873236, u'puck', 0.0086056385, u'can_opener', 0.0085334396]
+[u'envelope', 0.22415188, u'tray', 0.095165789, u'wall_clock', 0.064421147, u'screen', 0.048501678, u'television', 0.047014751]
+[u'digital_clock', 0.090102665, u'wall_clock', 0.057614964, u'jersey', 0.01838558, u'analog_clock', 0.014126101, u'digital_watch', 0.014048208]
+[u'candle', 0.30416816, u'poncho', 0.14528561, u'whistle', 0.065219164, u'matchstick', 0.035823792, u'swab', 0.034306619]

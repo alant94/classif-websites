@@ -1,0 +1,2 @@
+[u'altar', 0.2415399, u'umbrella', 0.18895021, u'church', 0.1789047]
+[u'shopping_basket', 0.19075888, u'shopping_cart', 0.15009093, u'vending_machine', 0.10291396]

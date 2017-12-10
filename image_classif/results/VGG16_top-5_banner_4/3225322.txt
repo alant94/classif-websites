@@ -1,0 +1,2 @@
+[u'packet', 0.22782439, u'jersey', 0.15702412, u'comic_book', 0.074333906, u'web_site', 0.044594727, u'menu', 0.029859001]
+[u'microphone', 0.363787, u'punching_bag', 0.20838536, u'wine_bottle', 0.051544767, u'red_wine', 0.020150429, u'vase', 0.01928428]

@@ -1,0 +1,6 @@
+[u'fountain', 0.33504552, u'mask', 0.065714128, u'chain', 0.031378526, u'microphone', 0.03026145, u'cleaver', 0.030033788]
+[u'packet', 0.060381718, u'matchstick', 0.060188141, u'iPod', 0.058852848, u'coffee_mug', 0.054286383, u'rubber_eraser', 0.040068012]
+[u'book_jacket', 0.62784153, u'comic_book', 0.10886548, u'theater_curtain', 0.018769769, u'cinema', 0.011006663, u'web_site', 0.010462109]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'beer_glass', 0.68100137, u'goblet', 0.26681066, u'red_wine', 0.035468616, u'wine_bottle', 0.005038538, u'eggnog', 0.002961854]
+[u'beer_glass', 0.58860064, u'goblet', 0.15863439, u'restaurant', 0.10543692, u'cocktail_shaker', 0.041890781, u'red_wine', 0.028168995]

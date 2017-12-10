@@ -1,0 +1,1 @@
+[u'tray', 0.3230904, u'shoji', 0.18120722, u'doormat', 0.1018488, u'crate', 0.083688863, u'window_screen', 0.070888244]

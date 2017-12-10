@@ -1,0 +1,5 @@
+[u'window_screen', 0.58893621, u'book_jacket', 0.077881873, u'shoji', 0.070388995]
+[u'park_bench', 0.89001024, u'studio_couch', 0.023503071, u'stretcher', 0.011558885]
+[u'toilet_seat', 0.27887127, u'web_site', 0.2205826, u'face_powder', 0.05460503]
+[u'web_site', 0.43631238, u'book_jacket', 0.047043741, u'barn', 0.045495566]
+[u'web_site', 0.39211583, u'book_jacket', 0.10415214, u'ballplayer', 0.064506918]

@@ -1,0 +1,3 @@
+[u'fire_screen', 0.089066394, u'hoopskirt', 0.055583239, u'Gordon_setter', 0.040564954]
+[u'web_site', 0.1586684, u'nematode', 0.10121175, u'bubble', 0.068761788]
+[u'bikini', 0.80566728, u'maillot', 0.081732631, u'bathing_cap', 0.06858138]

@@ -1,0 +1,4 @@
+[u'boathouse', 0.73331136, u'barn', 0.22701073, u'mobile_home', 0.0073284078]
+[u'gar', 0.65877831, u'barracouta', 0.18217461, u'tench', 0.099065609]
+[u'barracouta', 0.7516169, u'tench', 0.18469752, u'coho', 0.045895208]
+[u'barracouta', 0.86573917, u'gar', 0.13051972, u'coho', 0.0022939737]

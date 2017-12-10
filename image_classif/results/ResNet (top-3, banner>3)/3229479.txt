@@ -1,0 +1,4 @@
+[u'church', 0.15252361, u'altar', 0.10965776, u'wardrobe', 0.066402577]
+[u'jean', 0.2730048, u'envelope', 0.1825534, u'chainlink_fence', 0.15282142]
+[u'grand_piano', 0.20425664, u'rocking_chair', 0.11644999, u'dining_table', 0.11268339]
+[u'crossword_puzzle', 0.2083904, u'menu', 0.097151823, u'handkerchief', 0.079825491]

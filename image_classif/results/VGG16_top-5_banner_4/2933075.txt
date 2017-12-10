@@ -1,0 +1,2 @@
+[u'lab_coat', 0.45073381, u'maillot', 0.036022853, u'web_site', 0.03472472, u'bikini', 0.02626542, u'mortarboard', 0.017786611]
+[u'balloon', 0.094447799, u'goblet', 0.076862112, u'bubble', 0.069671698, u'throne', 0.062446222, u'picket_fence', 0.042790536]

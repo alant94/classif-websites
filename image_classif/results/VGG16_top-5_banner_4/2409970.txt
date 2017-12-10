@@ -1,0 +1,3 @@
+[u'web_site', 0.062895291, u'digital_clock', 0.058708053, u'lighter', 0.046245437, u'scoreboard', 0.043483939, u'sunscreen', 0.033668168]
+[u'hip', 0.10967961, u'handkerchief', 0.0587097, u'necklace', 0.057797395, u'pot', 0.031349592, u'vase', 0.027235944]
+[u'digital_clock', 0.071980484, u'lighter', 0.071967609, u'digital_watch', 0.056795117, u'can_opener', 0.055261083, u'remote_control', 0.037908811]

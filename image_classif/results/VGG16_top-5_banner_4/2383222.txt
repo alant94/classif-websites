@@ -1,0 +1,2 @@
+[u'carousel', 0.18324982, u'restaurant', 0.16500956, u'streetcar', 0.13419136, u'butcher_shop', 0.091625653, u'greenhouse', 0.038508501]
+[u'shopping_basket', 0.21870212, u'hamper', 0.14768209, u'cradle', 0.11357559, u'French_loaf', 0.088561907, u'honeycomb', 0.077102803]

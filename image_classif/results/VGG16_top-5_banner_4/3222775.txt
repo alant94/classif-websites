@@ -1,0 +1,2 @@
+[u'binder', 0.44906572, u'safety_pin', 0.053263195, u'laptop', 0.049703937, u'buckle', 0.042452529, u'tray', 0.036908381]
+[u'book_jacket', 0.54741514, u'envelope', 0.1389029, u'packet', 0.081867881, u'web_site', 0.061794288, u'comic_book', 0.045161232]

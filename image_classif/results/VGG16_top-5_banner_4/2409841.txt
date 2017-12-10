@@ -1,0 +1,6 @@
+[u'knot', 0.3288058, u'swab', 0.14627366, u'whistle', 0.13508533, u'hair_slide', 0.091563575, u'bubble', 0.051482316]
+[u'cash_machine', 0.865955, u'jersey', 0.024587916, u'pay-phone', 0.014743882, u'vending_machine', 0.0062098363, u'bookshop', 0.0046667499]
+[u'crate', 0.24426439, u'guillotine', 0.11831956, u'lumbermill', 0.081608817, u'mousetrap', 0.053928174, u'folding_chair', 0.028196394]
+[u'window_screen', 0.16043139, u'fire_screen', 0.15893883, u'tray', 0.14515568, u'purse', 0.043532066, u'backpack', 0.035115551]
+[u'racket', 0.08395683, u'backpack', 0.078466631, u'apron', 0.062338512, u'bookshop', 0.029580958, u'bulletproof_vest', 0.027663484]
+[u'oil_filter', 0.31438354, u'Band_Aid', 0.20875739, u'puck', 0.15099947, u'bottlecap', 0.029686425, u'sunscreen', 0.019237004]

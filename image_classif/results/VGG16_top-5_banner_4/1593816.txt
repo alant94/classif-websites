@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.50668079, u'bikini', 0.25096372, u'maillot', 0.079333976, u'maillot', 0.065704852, u'sarong', 0.045085087]
+[u'bikini', 0.34305319, u'maillot', 0.28119737, u'maillot', 0.2196133, u'swimming_trunks', 0.064913727, u'volleyball', 0.033565599]
+[u'tub', 0.77028686, u'bathtub', 0.16899733, u'canoe', 0.031338826, u'bikini', 0.014966317, u'barrow', 0.0046046749]
+[u'swimming_trunks', 0.58720106, u'maillot', 0.11581955, u'maillot', 0.092721932, u'bikini', 0.076161809, u'bathing_cap', 0.06487149]
+[u'swimming_trunks', 0.23918134, u'bikini', 0.20800817, u'maillot', 0.16294798, u'sarong', 0.13204566, u'maillot', 0.083834849]
+[u'swimming_trunks', 0.85248107, u'sarong', 0.027057888, u'bathing_cap', 0.020548996, u'bikini', 0.018470803, u'brassiere', 0.013529479]
+[u'swimming_trunks', 0.58858633, u'bikini', 0.2013061, u'bathing_cap', 0.1226893, u'maillot', 0.039105926, u'maillot', 0.028257048]
+[u'swimming_trunks', 0.88389915, u'Indian_elephant', 0.019492079, u'bathing_cap', 0.014336212, u'tub', 0.012275364, u'tusker', 0.011312435]

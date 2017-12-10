@@ -1,0 +1,8 @@
+[u'rifle', 0.65453577, u'assault_rifle', 0.13303295, u'web_site', 0.051079702]
+[u'sombrero', 0.32936841, u'steel_drum', 0.16917881, u'cowboy_hat', 0.076157629]
+[u'nematode', 0.063023791, u'envelope', 0.056139182, u'dishwasher', 0.038394034]
+[u'sorrel', 0.4575457, u'cowboy_hat', 0.28223136, u'horse_cart', 0.20815796]
+[u'ibex', 0.24776095, u'vulture', 0.10701941, u'triceratops', 0.051474456]
+[u'gazelle', 0.38151798, u'ram', 0.083604895, u'ibex', 0.068391055]
+[u'ox', 0.45427611, u'Indian_elephant', 0.18374941, u'water_buffalo', 0.11076389]
+[u'hartebeest', 0.57486433, u'impala', 0.24679165, u'ibex', 0.12156486]

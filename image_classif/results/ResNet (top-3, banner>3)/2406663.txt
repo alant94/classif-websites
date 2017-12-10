@@ -1,0 +1,5 @@
+[u'printer', 0.30543676, u'scale', 0.1165384, u'cassette_player', 0.067024752]
+[u'radio', 0.34603065, u'safe', 0.088926859, u'projector', 0.059250318]
+[u'dugong', 0.082752764, u'web_site', 0.068019629, u'airship', 0.059365045]
+[u'printer', 0.19799863, u'modem', 0.17149936, u'lighter', 0.16340956]
+[u'carton', 0.44737467, u'web_site', 0.20463873, u'envelope', 0.18461159]

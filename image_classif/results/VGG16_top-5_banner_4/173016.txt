@@ -1,0 +1,1 @@
+[u'shower_cap', 0.15066254, u'pajama', 0.093370557, u'plunger', 0.067138128, u'cowboy_hat', 0.051264744, u'steel_drum', 0.036402836]

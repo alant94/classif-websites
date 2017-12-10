@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.83285147, u'menu', 0.1005959, u'web_site', 0.0088913934]
+[u'digital_clock', 0.92183065, u'digital_watch', 0.042182006, u'stopwatch', 0.01370871]
+[u'crossword_puzzle', 0.30136946, u'screwdriver', 0.09151575, u'ballpoint', 0.077133395]
+[u'crossword_puzzle', 0.99068063, u'digital_clock', 0.001969517, u'web_site', 0.0017322198]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

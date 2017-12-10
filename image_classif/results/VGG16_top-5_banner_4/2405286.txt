@@ -1,0 +1,5 @@
+[u'curly-coated_retriever', 0.42642045, u'Labrador_retriever', 0.39708719, u'flat-coated_retriever', 0.068769068, u'German_short-haired_pointer', 0.033013135, u'Chesapeake_Bay_retriever', 0.031320091]
+[u'bottlecap', 0.1672111, u'hair_slide', 0.15615857, u'chain', 0.14859402, u'buckle', 0.11785366, u'stopwatch', 0.075293519]
+[u'neck_brace', 0.17769293, u'seat_belt', 0.08296939, u'wool', 0.050766103, u'buckle', 0.025955521, u'bassinet', 0.023856848]
+[u'syringe', 0.13335556, u'seat_belt', 0.1289403, u'hammer', 0.082660809, u'microphone', 0.078956768, u'drumstick', 0.068701357]
+[u'soccer_ball', 0.07387922, u'quilt', 0.040149529, u'swimming_trunks', 0.03894981, u'sunglasses', 0.037570447, u'miniskirt', 0.02872587]

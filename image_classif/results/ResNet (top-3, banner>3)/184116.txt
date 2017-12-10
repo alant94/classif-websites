@@ -1,0 +1,2 @@
+[u'spider_web', 0.84118265, u'jellyfish', 0.12018244, u'fountain', 0.017940899]
+[u'crossword_puzzle', 0.96676242, u'digital_clock', 0.015842907, u'digital_watch', 0.0096584726]

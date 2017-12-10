@@ -1,0 +1,4 @@
+[u'chainlink_fence', 0.19402529, u'picket_fence', 0.095731251, u'chain', 0.090526514, u'padlock', 0.077423491, u'lampshade', 0.055859059]
+[u'hook', 0.14335504, u'microphone', 0.094766453, u'hatchet', 0.088707916, u'sunglass', 0.064977236, u'loupe', 0.022831712]
+[u'wine_bottle', 0.97133452, u'red_wine', 0.028122501, u'lotion', 0.0001116632, u'hair_spray', 8.7992004e-05, u'perfume', 7.0262948e-05]
+[u'daisy', 0.33467716, u'anemone_fish', 0.31677622, u'sea_anemone', 0.060550008, u'coral_fungus', 0.03822206, u'broccoli', 0.022046076]

@@ -1,0 +1,7 @@
+[u'web_site', 0.98214734, u'menu', 0.0046117692, u'book_jacket', 0.0040957024, u'comic_book', 0.001213663, u'packet', 0.00055410992]
+[u'jersey', 0.27669233, u'sweatshirt', 0.1079125, u'cardigan', 0.062197737, u'ping-pong_ball', 0.020825099, u'poncho', 0.018502524]
+[u'shield', 0.16919436, u'puck', 0.14736453, u'bottlecap', 0.086559035, u'buckle', 0.068711519, u'pick', 0.047992215]
+[u'mask', 0.1632722, u'breastplate', 0.03980324, u'corkscrew', 0.039478429, u'hourglass', 0.029069342, u'toilet_tissue', 0.02516848]
+[u'web_site', 0.16839617, u'hand-held_computer', 0.14537883, u'iPod', 0.11070824, u'stopwatch', 0.067188099, u'lotion', 0.045446742]
+[u'envelope', 0.31839776, u'wall_clock', 0.048503861, u'Band_Aid', 0.047422081, u'web_site', 0.043529753, u'street_sign', 0.033626024]
+[u'comic_book', 0.68612623, u'book_jacket', 0.30642623, u'breastplate', 0.0006077608, u'shield', 0.00053867319, u'corkscrew', 0.00039844433]

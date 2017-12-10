@@ -1,0 +1,5 @@
+[u'web_site', 0.13412353, u'stopwatch', 0.039651833, u'hand-held_computer', 0.037377588, u'digital_clock', 0.022113411, u'cash_machine', 0.020322811]
+[u'digital_watch', 0.36476621, u'digital_clock', 0.29622409, u'bottlecap', 0.11034704, u'stopwatch', 0.04198439, u'wall_clock', 0.033052661]
+[u'bell_cote', 0.35674167, u'traffic_light', 0.10445452, u'beacon', 0.037606318, u'street_sign', 0.035117757, u'airship', 0.027453456]
+[u'spotlight', 0.076547287, u'toilet_seat', 0.075187132, u'pill_bottle', 0.057997253, u'bell_cote', 0.050526366, u'Petri_dish', 0.043699972]
+[u'shoe_shop', 0.10550684, u'clog', 0.067816302, u'sandal', 0.060120407, u'tray', 0.043989915, u'buckle', 0.025401434]

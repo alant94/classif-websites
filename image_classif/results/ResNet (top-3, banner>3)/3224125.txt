@@ -1,0 +1,5 @@
+[u'barbershop', 0.92401916, u'book_jacket', 0.011191578, u'bookshop', 0.0081723612]
+[u'web_site', 0.41942659, u'street_sign', 0.15261732, u'envelope', 0.038386658]
+[u'oboe', 0.62505007, u'bassoon', 0.095100701, u'flute', 0.02974287]
+[u'perfume', 0.86769921, u'book_jacket', 0.040504497, u'iPod', 0.018251114]
+[u'menu', 0.29587775, u'brass', 0.20209116, u'spider_web', 0.10108466]

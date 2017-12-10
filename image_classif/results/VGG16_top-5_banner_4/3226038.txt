@@ -1,0 +1,2 @@
+[u'plane', 0.033749893, u'barbershop', 0.021634813, u'Angora', 0.018872054, u'poncho', 0.018235182, u'shower_cap', 0.017907057]
+[u'spaghetti_squash', 0.20459139, u'lacewing', 0.034099557, u'sombrero', 0.032526154, u'acorn', 0.026902575, u'clog', 0.026795926]

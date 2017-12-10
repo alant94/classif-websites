@@ -1,0 +1,1 @@
+[u'car_wheel', 0.12761204, u'spotlight', 0.11966442, u'unicycle', 0.053309228, u"jack-o'-lantern", 0.027522422, u'projector', 0.024356695]

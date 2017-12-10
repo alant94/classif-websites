@@ -1,0 +1,3 @@
+[u'screwdriver', 0.41468024, u'syringe', 0.34041348, u"carpenter's_kit", 0.083825208, u'screw', 0.063295834, u'nail', 0.03167139]
+[u'matchstick', 0.077995382, u'digital_clock', 0.069878884, u'pick', 0.064671725, u"jack-o'-lantern", 0.043376353, u'jellyfish', 0.037505895]
+[u'digital_clock', 0.1189519, u'jellyfish', 0.086871713, u'pick', 0.069031976, u"jack-o'-lantern", 0.06877137, u'oscilloscope', 0.065963052]

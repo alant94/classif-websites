@@ -1,0 +1,3 @@
+[u'stole', 0.044951551, u'honeycomb', 0.032080632, u'matchstick', 0.021124434, u'coral_fungus', 0.018664226, u'handkerchief', 0.018498885]
+[u'street_sign', 0.067897633, u'traffic_light', 0.04255864, u'web_site', 0.037321769, u'envelope', 0.028421281, u'digital_clock', 0.026822641]
+[u'pencil_sharpener', 0.52477205, u'grand_piano', 0.20662916, u'upright', 0.19515142, u'organ', 0.03657528, u'coil', 0.0066102031]

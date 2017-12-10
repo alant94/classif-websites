@@ -1,0 +1,1 @@
+[u'plate_rack', 0.24029824, u'coffee_mug', 0.068929836, u'gong', 0.050858986, u'dining_table', 0.036075152, u'analog_clock', 0.032708198]

@@ -1,0 +1,5 @@
+[u'papillon', 0.35489115, u'Shih-Tzu', 0.15172116, u'axolotl', 0.13390481]
+[u'cliff_dwelling', 0.11045457, u'flagpole', 0.050261047, u'window_screen', 0.048344564]
+[u'shield', 0.42685568, u'gong', 0.14542964, u'space_shuttle', 0.081491776]
+[u'lumbermill', 0.080881357, u'Angora', 0.032699037, u'medicine_chest', 0.032513831]
+[u'fire_screen', 0.23713616, u'Shih-Tzu', 0.07838355, u'prayer_rug', 0.04139917]

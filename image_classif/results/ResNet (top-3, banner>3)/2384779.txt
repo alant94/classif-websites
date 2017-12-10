@@ -1,0 +1,4 @@
+[u'cucumber', 0.70167661, u'zucchini', 0.23392263, u'spaghetti_squash', 0.027000248]
+[u'rapeseed', 0.23890015, u'head_cabbage', 0.20353732, u'maze', 0.16387641]
+[u'red_wine', 0.60789526, u'wine_bottle', 0.3891457, u'corkscrew', 0.0024417718]
+[u'perfume', 0.071850859, u'confectionery', 0.066043966, u'bubble', 0.034848839]

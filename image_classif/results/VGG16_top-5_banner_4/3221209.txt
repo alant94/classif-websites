@@ -1,0 +1,5 @@
+[u'notebook', 0.29180714, u'laptop', 0.11680376, u'file', 0.042866189, u'envelope', 0.028277617, u'desktop_computer', 0.026844706]
+[u'picket_fence', 0.14673232, u'book_jacket', 0.11865883, u'flagpole', 0.054564871, u'rifle', 0.033395387, u'comic_book', 0.028932473]
+[u'notebook', 0.3823981, u'laptop', 0.23509151, u'iPod', 0.04662158, u'monitor', 0.041488577, u'web_site', 0.038184199]
+[u'web_site', 0.10616902, u'monitor', 0.057639841, u'digital_clock', 0.021734251, u'microphone', 0.020499833, u'spotlight', 0.018838994]
+[u'envelope', 0.089166932, u'menu', 0.068911836, u'monitor', 0.063604087, u'cash_machine', 0.044505641, u'laptop', 0.036972694]

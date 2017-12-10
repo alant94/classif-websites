@@ -1,0 +1,3 @@
+[u'diaper', 0.48585802, u'brassiere', 0.15724148, u'maillot', 0.078319192, u'bikini', 0.059070352, u'miniskirt', 0.045291327]
+[u'diaper', 0.46884581, u'swimming_trunks', 0.070341222, u'tub', 0.065233305, u'sunscreen', 0.040277991, u'bathtub', 0.027994405]
+[u'Mexican_hairless', 0.37283459, u'diaper', 0.11854429, u'brassiere', 0.10615059, u'bath_towel', 0.058860935, u'Band_Aid', 0.029686747]

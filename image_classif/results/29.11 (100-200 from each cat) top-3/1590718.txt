@@ -1,0 +1,3 @@
+[u'television', 0.59902602, u'screen', 0.27125987, u'monitor', 0.081938423]
+[u'panpipe', 0.87796539, u'marimba', 0.025080172, u'picket_fence', 0.020095447]
+[u'ambulance', 0.7227875, u'Band_Aid', 0.053940795, u'whistle', 0.036943756]

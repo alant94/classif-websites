@@ -1,0 +1,4 @@
+[u'fountain', 0.60580105, u'chainlink_fence', 0.065189309, u'dam', 0.045864221, u'fireboat', 0.031955879, u'bannister', 0.019179443]
+[u'bathtub', 0.37597644, u'tub', 0.11592874, u'lipstick', 0.063271828, u'tick', 0.053535957, u'bubble', 0.041322064]
+[u'hog', 0.4626646, u'Mexican_hairless', 0.070688143, u'earthstar', 0.043850388, u'Band_Aid', 0.027940083, u'barbershop', 0.01764207]
+[u'diaper', 0.69805384, u'bikini', 0.071004704, u'brassiere', 0.062621459, u'bath_towel', 0.04933615, u'maillot', 0.020514829]

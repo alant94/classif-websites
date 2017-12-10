@@ -1,0 +1,1 @@
+[u'stethoscope', 0.97700673, u'microphone', 0.0091884537, u'lab_coat', 0.0053198831]

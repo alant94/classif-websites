@@ -1,0 +1,2 @@
+[u'maypole', 0.45280963, u'obelisk', 0.32702267, u'fountain', 0.044137914]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

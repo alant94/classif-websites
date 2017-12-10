@@ -1,0 +1,3 @@
+[u'picket_fence', 0.48570067, u'patio', 0.24384931, u'monitor', 0.053036761]
+[u'church', 0.78171539, u'picket_fence', 0.071914896, u'flagpole', 0.040946651]
+[u'library', 0.54130906, u'bookcase', 0.15888086, u'Windsor_tie', 0.10845278]

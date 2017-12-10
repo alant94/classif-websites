@@ -1,0 +1,4 @@
+[u'Arabian_camel', 0.56466997, u'mountain_bike', 0.13241643, u'cliff', 0.096252628]
+[u'mountain_bike', 0.68593287, u'bicycle-built-for-two', 0.16247027, u'unicycle', 0.021921715]
+[u'sorrel', 0.23145606, u'oxcart', 0.20311821, u'Arabian_camel', 0.18985768]
+[u'Arabian_camel', 0.098537259, u'tusker', 0.093376964, u'oxcart', 0.072350159]

@@ -1,0 +1,8 @@
+[u'picket_fence', 0.43362504, u'padlock', 0.13325554, u'worm_fence', 0.1201134, u'king_penguin', 0.053412504, u'ski', 0.024698505]
+[u'mailbox', 0.20409285, u'solar_dish', 0.076780014, u'apiary', 0.073104665, u'picket_fence', 0.035057005, u'park_bench', 0.032732457]
+[u'stage', 0.19994992, u'water_bottle', 0.16208862, u'dome', 0.13414674, u'chain_mail', 0.060101215, u'safety_pin', 0.048528556]
+[u'jigsaw_puzzle', 0.42568067, u'scoreboard', 0.36246076, u'maze', 0.094027132, u'fountain', 0.016335461, u'monitor', 0.012305372]
+[u'ski', 0.85115045, u'rifle', 0.084646553, u'paintbrush', 0.019132355, u'picket_fence', 0.011623489, u'padlock', 0.0065754685]
+[u'king_penguin', 0.44087446, u'picket_fence', 0.27204287, u'worm_fence', 0.038725, u'wine_bottle', 0.031567592, u'military_uniform', 0.024279865]
+[u'paintbrush', 0.19887212, u'picket_fence', 0.14041741, u'chime', 0.072922833, u'bittern', 0.063450001, u'crane', 0.047022954]
+[u'shoe_shop', 0.26575348, u'padlock', 0.10322542, u'thatch', 0.050137497, u'ear', 0.049040068, u'picket_fence', 0.04694045]

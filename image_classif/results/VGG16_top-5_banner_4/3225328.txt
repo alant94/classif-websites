@@ -1,0 +1,3 @@
+[u'sunscreen', 0.24573746, u'corn', 0.18020953, u'packet', 0.048367102, u'web_site', 0.036824938, u'pill_bottle', 0.031542692]
+[u'tray', 0.39652634, u'packet', 0.25513139, u'mailbox', 0.059393331, u'cash_machine', 0.038787052, u'book_jacket', 0.028947819]
+[u'mobile_home', 0.36632538, u'boathouse', 0.094017625, u'passenger_car', 0.068132348, u'cinema', 0.02787441, u'barn', 0.02582684]

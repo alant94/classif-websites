@@ -1,0 +1,6 @@
+[u'jersey', 0.16186495, u'comic_book', 0.052305739, u'corkscrew', 0.049574032, u'sunglass', 0.03427802, u'hatchet', 0.029307971]
+[u'ibex', 0.44675896, u'bighorn', 0.14308719, u'hartebeest', 0.1307687, u'impala', 0.10721683, u'wallaby', 0.056141209]
+[u'water_buffalo', 0.59513527, u'triceratops', 0.13014869, u'shower_cap', 0.056860954, u'ox', 0.045235861, u'warthog', 0.042843077]
+[u'ox', 0.1236655, u'wild_boar', 0.079678774, u'water_buffalo', 0.063272007, u'American_black_bear', 0.047921449, u'dingo', 0.044508394]
+[u'screwdriver', 0.42027432, u"carpenter's_kit", 0.13327223, u'nail', 0.10899178, u'hammer', 0.057947848, u'rifle', 0.049450498]
+[u'screwdriver', 0.16151306, u'nail', 0.10602549, u"carpenter's_kit", 0.099488705, u'safety_pin', 0.040487409, u'screw', 0.040487289]

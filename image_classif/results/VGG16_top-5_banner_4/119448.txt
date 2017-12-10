@@ -1,0 +1,8 @@
+[u'oscilloscope', 0.77336752, u'screen', 0.053321712, u'monitor', 0.03229228, u'laptop', 0.021957586, u'switch', 0.015637597]
+[u'container_ship', 0.26758575, u'library', 0.091426864, u'monitor', 0.059137467, u'desk', 0.038561609, u'tobacco_shop', 0.037523102]
+[u'window_screen', 0.1805169, u'dragonfly', 0.051489823, u'jay', 0.04150952, u'indigo_bunting', 0.033215173, u'Petri_dish', 0.031979416]
+[u'missile', 0.36337337, u'projectile', 0.26717257, u'amphibian', 0.038442716, u'crane', 0.036407493, u'assault_rifle', 0.03579843]
+[u'fireboat', 0.79932994, u'fountain', 0.13668899, u'beaker', 0.012264161, u'airship', 0.0091129681, u'missile', 0.0052667321]
+[u'fountain', 0.421543, u'carousel', 0.18888201, u'goldfish', 0.026599443, u'terrapin', 0.019702971, u'bubble', 0.019661311]
+[u'Petri_dish', 0.2532472, u'maze', 0.20248206, u'tray', 0.1101984, u'vault', 0.10243066, u'gong', 0.081886329]
+[u'traffic_light', 0.15932657, u'balloon', 0.15699457, u'parachute', 0.11503743, u'jersey', 0.060165528, u'laptop', 0.036041901]

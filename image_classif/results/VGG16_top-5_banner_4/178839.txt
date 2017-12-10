@@ -1,0 +1,8 @@
+[u'comic_book', 0.37392661, u'book_jacket', 0.32785726, u'web_site', 0.2161916, u'menu', 0.061141063, u'packet', 0.010113643]
+[u'ballpoint', 0.10453125, u'screwdriver', 0.088759586, u"carpenter's_kit", 0.067275912, u'paintbrush', 0.057748973, u'quill', 0.047276657]
+[u'sweatshirt', 0.36532801, u'jersey', 0.29760414, u'bulletproof_vest', 0.05318962, u'cardigan', 0.018458327, u'plunger', 0.016383469]
+[u'matchstick', 0.25426397, u'safety_pin', 0.10232575, u'syringe', 0.055568621, u'screwdriver', 0.050493397, u'jersey', 0.044504672]
+[u'menu', 0.61046779, u'web_site', 0.1181069, u'comic_book', 0.1167248, u'packet', 0.086002812, u'book_jacket', 0.056669395]
+[u'menu', 0.63765705, u'web_site', 0.19960658, u'book_jacket', 0.088330336, u'packet', 0.051035989, u'comic_book', 0.017772188]
+[u'book_jacket', 0.17153634, u'space_shuttle', 0.068978898, u'hook', 0.062427014, u'safety_pin', 0.049885254, u'combination_lock', 0.032798693]
+[u'web_site', 0.82830286, u'book_jacket', 0.10351539, u'comic_book', 0.026874173, u'menu', 0.012197646, u'Band_Aid', 0.007106605]

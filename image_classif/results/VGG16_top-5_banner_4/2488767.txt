@@ -1,0 +1,5 @@
+[u'whistle', 0.20684379, u'loupe', 0.060042929, u'combination_lock', 0.058406487, u'power_drill', 0.055010777, u'digital_clock', 0.040592473]
+[u'comic_book', 0.95673406, u'book_jacket', 0.01687922, u'triceratops', 0.0062621185, u'cowboy_boot', 0.0031907028, u'totem_pole', 0.0018147095]
+[u'bow', 0.13034888, u'panpipe', 0.096202649, u'flute', 0.093370758, u'whistle', 0.071384564, u"carpenter's_kit", 0.055806838]
+[u'carousel', 0.097697333, u'four-poster', 0.056908932, u'lampshade', 0.054855131, u'sombrero', 0.05347741, u'cup', 0.051176805]
+[u'book_jacket', 0.29689065, u'traffic_light', 0.074768357, u'digital_clock', 0.06374488, u'switch', 0.05228002, u'wall_clock', 0.051863007]

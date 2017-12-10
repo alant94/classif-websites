@@ -1,0 +1,2 @@
+[u'bow_tie', 0.58579689, u'suit', 0.26857206, u'Windsor_tie', 0.062312309, u'mortarboard', 0.0092229648, u'beer_glass', 0.0075635985]
+[u'crane', 0.1294414, u'American_alligator', 0.054355733, u'grocery_store', 0.042861626, u'boathouse', 0.0413449, u'tobacco_shop', 0.039294396]

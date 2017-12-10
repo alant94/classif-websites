@@ -1,0 +1,8 @@
+[u'stole', 0.48050883, u'poncho', 0.13578628, u'cardigan', 0.072755709, u'wig', 0.031104147, u'gown', 0.027205264]
+[u'torch', 0.29991621, u'stage', 0.050120812, u'jean', 0.04926547, u'miniskirt', 0.042711165, u'pajama', 0.040223841]
+[u'fur_coat', 0.66744632, u'cloak', 0.11804903, u'stole', 0.036169659, u'swab', 0.018058108, u'matchstick', 0.010727677]
+[u'stole', 0.14936312, u'swab', 0.12725678, u'candle', 0.086092614, u'book_jacket', 0.057520501, u'fur_coat', 0.042948835]
+[u'paintbrush', 0.24311034, u'wardrobe', 0.059793048, u'book_jacket', 0.048489075, u'chime', 0.047229491, u'picket_fence', 0.042524446]
+[u'trench_coat', 0.11817069, u'suit', 0.10675572, u'fur_coat', 0.044722918, u'jean', 0.044406191, u'paintbrush', 0.034953266]
+[u'suit', 0.10045985, u'book_jacket', 0.086914308, u'abaya', 0.049571943, u'cowboy_boot', 0.041669901, u'harp', 0.030731801]
+[u'groom', 0.37934795, u'gong', 0.036995899, u'wig', 0.03532435, u'harp', 0.03058975, u'conch', 0.022123024]

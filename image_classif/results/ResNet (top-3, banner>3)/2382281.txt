@@ -1,0 +1,7 @@
+[u'wine_bottle', 0.47810671, u'red_wine', 0.19916487, u'beer_bottle', 0.094631866]
+[u'television', 0.43624848, u'monitor', 0.13559066, u'book_jacket', 0.10343091]
+[u'meerkat', 0.33798686, u'space_shuttle', 0.093810685, u'web_site', 0.073400438]
+[u'ballpoint', 0.074487247, u'lipstick', 0.055658385, u"carpenter's_kit", 0.050612286]
+[u'Border_terrier', 0.10348676, u'Sussex_spaniel', 0.056253936, u'Scotch_terrier', 0.049193118]
+[u'kite', 0.19763653, u'warplane', 0.10666695, u'screw', 0.10494705]
+[u'analog_clock', 0.2988826, u'digital_clock', 0.2537249, u'wall_clock', 0.16462491]

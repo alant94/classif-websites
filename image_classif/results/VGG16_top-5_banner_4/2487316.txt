@@ -1,0 +1,3 @@
+[u'rifle', 0.28398067, u'assault_rifle', 0.2793794, u'flute', 0.15318644, u'oboe', 0.037432916, u'bassoon', 0.029307971]
+[u'borzoi', 0.76547295, u'triceratops', 0.028625328, u'isopod', 0.017376376, u'English_setter', 0.0102284, u'whippet', 0.0097150328]
+[u'wild_boar', 0.11152945, u'military_uniform', 0.10490575, u'hog', 0.065355986, u'stretcher', 0.051390879, u'American_black_bear', 0.045700826]

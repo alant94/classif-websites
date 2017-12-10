@@ -1,0 +1,3 @@
+[u'dishwasher', 0.19798151, u'binder', 0.046866063, u'pedestal', 0.033931926]
+[u'digital_watch', 0.44840011, u'screwdriver', 0.22939022, u'digital_clock', 0.08474312]
+[u'envelope', 0.060137093, u'beaker', 0.056065831, u'scale', 0.05397594]

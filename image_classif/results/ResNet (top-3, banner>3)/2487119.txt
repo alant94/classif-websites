@@ -1,0 +1,6 @@
+[u'digital_clock', 0.31989911, u'book_jacket', 0.17987858, u'digital_watch', 0.14306022]
+[u'pier', 0.94946468, u'boathouse', 0.015962103, u'palace', 0.0080329422]
+[u'pier', 0.49071065, u'seashore', 0.075753346, u'church', 0.072016418]
+[u'pier', 0.93502939, u'palace', 0.045612976, u'viaduct', 0.0038966113]
+[u'dock', 0.52108878, u'flagpole', 0.31963888, u'seashore', 0.060809854]
+[u'palace', 0.34075022, u'drilling_platform', 0.26160583, u'dock', 0.079029351]

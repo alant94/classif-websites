@@ -1,0 +1,3 @@
+[u'web_site', 0.49887067, u'nematode', 0.13235041, u'envelope', 0.023728816, u'hook', 0.0098469211, u'isopod', 0.0085570784]
+[u'face_powder', 0.083495125, u'book_jacket', 0.079070747, u'web_site', 0.062155683, u'sunscreen', 0.053146299, u'lotion', 0.046383549]
+[u'web_site', 0.19492492, u'envelope', 0.095551617, u'analog_clock', 0.031164959, u'honeycomb', 0.014892004, u'Band_Aid', 0.013171016]

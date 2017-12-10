@@ -1,0 +1,4 @@
+[u'web_site', 0.30602616, u'gown', 0.16483231, u'menu', 0.16469952, u'book_jacket', 0.083232202, u'pajama', 0.062863044]
+[u'fountain', 0.73376328, u'vase', 0.11589589, u'throne', 0.056682527, u'gown', 0.024506873, u'vestment', 0.0090408018]
+[u'web_site', 0.29726502, u'monitor', 0.14427193, u'vending_machine', 0.057768151, u'iPod', 0.052175514, u'cellular_telephone', 0.039696425]
+[u'electric_guitar', 0.40358874, u'stage', 0.21605206, u'microphone', 0.084893487, u'sax', 0.060429208, u'spotlight', 0.023408789]

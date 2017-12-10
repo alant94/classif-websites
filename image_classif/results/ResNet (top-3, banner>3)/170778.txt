@@ -1,0 +1,3 @@
+[u'prison', 0.44918898, u'folding_chair', 0.17865884, u'ocarina', 0.066326752]
+[u'web_site', 0.98376828, u'menu', 0.010545228, u'abacus', 0.0026525555]
+[u'picket_fence', 0.17687401, u'theater_curtain', 0.10027406, u'umbrella', 0.069556944]

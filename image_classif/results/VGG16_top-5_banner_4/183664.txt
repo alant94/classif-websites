@@ -1,0 +1,2 @@
+[u'mobile_home', 0.15317175, u'flagpole', 0.14714734, u'lakeside', 0.05449244, u'patio', 0.043011822, u'dock', 0.027183505]
+[u'American_egret', 0.39882973, u'sulphur-crested_cockatoo', 0.18932517, u'bald_eagle', 0.12709793, u'kite', 0.068482086, u'hammerhead', 0.021805517]

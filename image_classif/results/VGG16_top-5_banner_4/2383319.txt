@@ -1,0 +1,2 @@
+[u'cocktail_shaker', 0.082729355, u'forklift', 0.06235753, u'power_drill', 0.062052637, u'vacuum', 0.05921172, u'espresso_maker', 0.057933211]
+[u'tow_truck', 0.29468355, u'garbage_truck', 0.13264428, u'tractor', 0.080226339, u'forklift', 0.077587217, u'fire_engine', 0.063042358]

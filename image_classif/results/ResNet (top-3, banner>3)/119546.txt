@@ -1,0 +1,5 @@
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]
+[u'cornet', 0.49738577, u'maze', 0.037218116, u'combination_lock', 0.024410225]
+[u'comic_book', 0.16466975, u'scoreboard', 0.13328668, u'binder', 0.10925975]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]

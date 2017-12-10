@@ -1,0 +1,2 @@
+[u'dumbbell', 0.043286428, u'barbell', 0.041603703, u'hook', 0.035536256, u'Band_Aid', 0.02832949, u'digital_clock', 0.026167108]
+[u'jersey', 0.28379819, u'digital_clock', 0.10735844, u'envelope', 0.026916856, u'book_jacket', 0.026484806, u'laptop', 0.021958936]

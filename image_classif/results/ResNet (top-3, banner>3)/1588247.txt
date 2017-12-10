@@ -1,0 +1,7 @@
+[u'chain_mail', 0.4315871, u'bow', 0.11536323, u'pay-phone', 0.062876776]
+[u'drumstick', 0.095304884, u'slot', 0.067352869, u'candle', 0.045788769]
+[u'toy_terrier', 0.37781975, u'Chihuahua', 0.21286033, u'seat_belt', 0.10905164]
+[u'web_site', 0.32709837, u'envelope', 0.068342268, u'can_opener', 0.015893737]
+[u'bath_towel', 0.2615009, u'hand_blower', 0.068871573, u'hamper', 0.061830293]
+[u'mailbag', 0.13909023, u'buckle', 0.12750643, u'purse', 0.10963298]
+[u'Great_Dane', 0.9161675, u'Weimaraner', 0.037799895, u'Doberman', 0.0063626803]

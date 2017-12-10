@@ -1,0 +1,6 @@
+[u'street_sign', 0.9300136, u'scoreboard', 0.0099765994, u'laptop', 0.0054347925, u'packet', 0.0052383807, u'gas_pump', 0.0037299832]
+[u'hair_spray', 0.45774329, u'lipstick', 0.10419589, u'perfume', 0.065119363, u'lotion', 0.062585808, u'web_site', 0.053129062]
+[u'iron', 0.80537421, u'soap_dispenser', 0.021752404, u'can_opener', 0.019380616, u'teapot', 0.016616151, u'spotlight', 0.013494413]
+[u'microphone', 0.98748976, u'spotlight', 0.0049446835, u'plate_rack', 0.0023179643, u'trilobite', 0.0010463319, u'strainer', 0.00076880434]
+[u'nail', 0.47682324, u'ballpoint', 0.2560882, u'screwdriver', 0.085364722, u'screw', 0.070321374, u'letter_opener', 0.037040822]
+[u'conch', 0.56742322, u'chambered_nautilus', 0.1319118, u'ice_cream', 0.053002335, u'coil', 0.049374077, u'diaper', 0.013231718]

@@ -1,0 +1,6 @@
+[u'overskirt', 0.10148431, u'rock_python', 0.09756957, u'diamondback', 0.088976182, u'hognose_snake', 0.059972096, u'hoopskirt', 0.049878567]
+[u'altar', 0.88977951, u'vestment', 0.070809998, u'throne', 0.01782063, u'kimono', 0.0019605283, u'gong', 0.0014591316]
+[u'feather_boa', 0.28956634, u'wig', 0.19867866, u'shower_cap', 0.17991126, u'hair_spray', 0.0336871, u'stage', 0.020879647]
+[u'church', 0.99248463, u'monastery', 0.0022914521, u'beacon', 0.0015985521, u'bell_cote', 0.0014785741, u'barn', 0.0009060133]
+[u'apiary', 0.40612561, u'maze', 0.23611397, u'crate', 0.16601685, u'balance_beam', 0.031300053, u'lumbermill', 0.030114405]
+[u'torch', 0.050923109, u'bearskin', 0.047439583, u'street_sign', 0.040867187, u'chain_saw', 0.036075678, u'swimming_trunks', 0.031026598]

@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.076249436, u'digital_clock', 0.045208748, u'washbasin', 0.037275974, u'traffic_light', 0.021355622, u'window_shade', 0.020781849]
+[u'shower_curtain', 0.7548905, u'wardrobe', 0.024887605, u'sliding_door', 0.017718023, u'washbasin', 0.017316872, u'window_shade', 0.013990969]
+[u'shower_curtain', 0.17909883, u'wool', 0.06659925, u'Windsor_tie', 0.063402772, u'parachute', 0.045622203, u'prayer_rug', 0.042203743]
+[u'safe', 0.14334448, u'envelope', 0.11918422, u'monitor', 0.11173137, u'carton', 0.090107843, u'binder', 0.038359668]

@@ -1,0 +1,2 @@
+[u'combination_lock', 0.12298155, u'lens_cap', 0.094031639, u'spatula', 0.079589508, u'remote_control', 0.075934984, u'accordion', 0.066826805]
+[u'sombrero', 0.11763943, u'kimono', 0.11288717, u'book_jacket', 0.088500038, u'comic_book', 0.048050947, u'totem_pole', 0.038313612]

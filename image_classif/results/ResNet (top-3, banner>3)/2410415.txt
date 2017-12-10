@@ -1,0 +1,3 @@
+[u'birdhouse', 0.99455309, u'crate', 0.0021003336, u'ashcan', 0.00094113051]
+[u'bucket', 0.16830373, u'packet', 0.070571229, u'cassette', 0.069895104]
+[u'thresher', 0.23340361, u'harvester', 0.13281091, u'birdhouse', 0.11147851]

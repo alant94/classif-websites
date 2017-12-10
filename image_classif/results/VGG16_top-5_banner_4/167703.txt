@@ -1,0 +1,5 @@
+[u'acoustic_guitar', 0.68108565, u'electric_guitar', 0.091906764, u'pick', 0.080941916, u'microphone', 0.028343515, u'cowboy_hat', 0.014332057]
+[u'acoustic_guitar', 0.55621892, u'electric_guitar', 0.39811495, u'cello', 0.036473535, u'violin', 0.0076367934, u'banjo', 0.00081062957]
+[u'table_lamp', 0.27365595, u'lampshade', 0.21195231, u'grand_piano', 0.12826535, u'acoustic_guitar', 0.10960428, u'upright', 0.0185945]
+[u'walking_stick', 0.073405288, u'nail', 0.052364822, u'book_jacket', 0.029404007, u'bow', 0.026766833, u'rifle', 0.023840221]
+[u'acoustic_guitar', 0.78921145, u'electric_guitar', 0.1157029, u'banjo', 0.081008226, u'table_lamp', 0.0017236834, u'birdhouse', 0.00121403]

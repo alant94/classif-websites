@@ -1,0 +1,1 @@
+[u'desktop_computer', 0.81531507, u'CD_player', 0.034647007, u'modem', 0.025707917]

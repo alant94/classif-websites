@@ -1,0 +1,8 @@
+[u'book_jacket', 0.60913092, u'comic_book', 0.35969141, u'jersey', 0.0097813886, u'sweatshirt', 0.0035878348, u'packet', 0.0014083983]
+[u'pole', 0.38167343, u'hook', 0.08555416, u'totem_pole', 0.061937507, u'nail', 0.038555514, u'cliff', 0.035968516]
+[u'syringe', 0.73445803, u'screwdriver', 0.048229467, u'pill_bottle', 0.02118165, u'nail', 0.019862996, u'ballpoint', 0.016187698]
+[u'cinema', 0.68055403, u'hair_slide', 0.042382456, u'theater_curtain', 0.032424066, u'carousel', 0.027037427, u"jack-o'-lantern", 0.02279765]
+[u'traffic_light', 0.070921667, u'digital_clock', 0.054243948, u'analog_clock', 0.047775939, u"jack-o'-lantern", 0.043555673, u'matchstick', 0.037951156]
+[u'spider_web', 0.25271559, u'barn_spider', 0.17291112, u'spotlight', 0.071557961, u'matchstick', 0.017357279, u'garden_spider', 0.014740186]
+[u'tusker', 0.17293192, u'water_buffalo', 0.13396536, u'baboon', 0.094133519, u'Indian_elephant', 0.092077173, u'cloak', 0.062172662]
+[u'ibex', 0.40844423, u'hartebeest', 0.26333696, u'water_buffalo', 0.17602201, u'impala', 0.06537582, u'warthog', 0.048105448]

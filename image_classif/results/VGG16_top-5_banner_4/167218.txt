@@ -1,0 +1,1 @@
+[u'barn_spider', 0.58345401, u'black_widow', 0.12113146, u'harvestman', 0.098635115, u'spider_web', 0.090740666, u'ant', 0.037408762]

@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.41932666, u'red_wine', 0.22107671, u'cocktail_shaker', 0.1250429, u'pop_bottle', 0.028230401, u'dining_table', 0.026528938]
+[u'ski', 0.76656622, u'wine_bottle', 0.13038318, u'screwdriver', 0.019939629, u'paintbrush', 0.01927116, u'fountain_pen', 0.015534747]
+[u'ski', 0.44816351, u'picket_fence', 0.086070858, u'wine_bottle', 0.079848424, u'paddle', 0.045675393, u'vase', 0.039223727]
+[u'lakeside', 0.32871667, u'maze', 0.1233906, u'chainlink_fence', 0.095784418, u'worm_fence', 0.069257222, u'swing', 0.056673132]
+[u'worm_fence', 0.61015069, u'chainlink_fence', 0.047573015, u'picket_fence', 0.04132222, u'mailbox', 0.022272212, u'lakeside', 0.019779207]

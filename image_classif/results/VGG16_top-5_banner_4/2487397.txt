@@ -1,0 +1,4 @@
+[u'scale', 0.23434843, u'gong', 0.098929271, u'plane', 0.079105385, u'hourglass', 0.05100647, u'chime', 0.038679995]
+[u'cash_machine', 0.085027218, u'scoreboard', 0.06979236, u'digital_clock', 0.06229721, u'wall_clock', 0.03929529, u'analog_clock', 0.026194047]
+[u'parachute', 0.12785423, u'balloon', 0.10181667, u'space_shuttle', 0.056279525, u'container_ship', 0.054894973, u'airship', 0.050773811]
+[u'web_site', 0.20878406, u'book_jacket', 0.11450722, u'street_sign', 0.10432252, u'comic_book', 0.038621794, u'envelope', 0.030766251]

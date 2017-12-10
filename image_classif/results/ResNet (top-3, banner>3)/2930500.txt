@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.52257979, u'oxygen_mask', 0.13650835, u'clog', 0.035796955]
+[u'window_shade', 0.59931284, u'book_jacket', 0.15880285, u'window_screen', 0.058151271]

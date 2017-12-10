@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.25161201, u'stupa', 0.22488932, u'bell_cote', 0.12804596, u'castle', 0.089610018, u'church', 0.057756681]

@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.5533343, u'red_wine', 0.18346226, u'ski', 0.052992858]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867]

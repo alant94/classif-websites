@@ -1,0 +1,7 @@
+[u'web_site', 0.83405215, u'envelope', 0.067375749, u'nematode', 0.0040489151]
+[u'web_site', 0.78867936, u'envelope', 0.10956001, u'dishwasher', 0.002468264]
+[u'web_site', 0.93307185, u'envelope', 0.023767058, u'hook', 0.0013164546]
+[u'web_site', 0.77983588, u'comic_book', 0.025509646, u'book_jacket', 0.02086716]
+[u'shovel', 0.16414742, u'hook', 0.15267776, u'hammer', 0.12075202]
+[u'sundial', 0.13473062, u'street_sign', 0.085445054, u'cinema', 0.071164809]
+[u'book_jacket', 0.24901789, u'picket_fence', 0.24383377, u'hair_spray', 0.10180511]

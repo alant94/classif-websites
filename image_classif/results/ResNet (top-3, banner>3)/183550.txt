@@ -1,0 +1,2 @@
+[u'web_site', 0.61365479, u'frying_pan', 0.05483076, u'magnetic_compass', 0.027045202]
+[u'comic_book', 0.077477574, u'book_jacket', 0.076486215, u'tripod', 0.075876527]

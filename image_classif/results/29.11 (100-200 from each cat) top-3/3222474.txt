@@ -1,0 +1,2 @@
+[u'stethoscope', 0.18481165, u'perfume', 0.1140476, u'padlock', 0.09593939]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]

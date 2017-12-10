@@ -1,0 +1,1 @@
+[u'candle', 0.69875056, u'bonnet', 0.091292351, u'brassiere', 0.067171752, u'shower_cap', 0.025627352, u'sandal', 0.014713254]

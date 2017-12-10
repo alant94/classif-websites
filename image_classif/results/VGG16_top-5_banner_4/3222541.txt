@@ -1,0 +1,2 @@
+[u'church', 0.5547989, u'missile', 0.11059477, u'flagpole', 0.063543342, u'obelisk', 0.048128016, u'bell_cote', 0.041567005]
+[u'maypole', 0.32527465, u'bell_cote', 0.26350588, u'gondola', 0.047296297, u'safety_pin', 0.021539791, u'triumphal_arch', 0.021080079]

@@ -1,0 +1,4 @@
+[u'television', 0.26072526, u'tray', 0.12778054, u'cash_machine', 0.055836551]
+[u'toilet_seat', 0.16815765, u'oil_filter', 0.067872405, u'frying_pan', 0.056219421]
+[u'jellyfish', 0.21920383, u'bubble', 0.1162217, u'matchstick', 0.09651994]
+[u'analog_clock', 0.41489944, u'Band_Aid', 0.12496426, u'web_site', 0.052570812]

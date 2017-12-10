@@ -1,0 +1,2 @@
+[u'crate', 0.48339584, u'carton', 0.41880172, u'kimono', 0.069192588]
+[u'moving_van', 0.14979756, u'minivan', 0.14164786, u'recreational_vehicle', 0.1064802]

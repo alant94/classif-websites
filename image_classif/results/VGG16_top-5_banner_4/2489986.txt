@@ -1,0 +1,1 @@
+[u'flat-coated_retriever', 0.24834296, u'Great_Dane', 0.20178686, u'Afghan_hound', 0.10144623, u'black-and-tan_coonhound', 0.081882715, u'Irish_wolfhound', 0.055598021]

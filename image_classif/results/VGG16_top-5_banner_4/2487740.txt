@@ -1,0 +1,1 @@
+[u'monitor', 0.17355013, u'envelope', 0.17164816, u'screen', 0.038661629, u'whistle', 0.038323905, u'web_site', 0.028810261]

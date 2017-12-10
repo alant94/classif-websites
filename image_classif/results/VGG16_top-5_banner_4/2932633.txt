@@ -1,0 +1,2 @@
+[u'abaya', 0.20284323, u'lab_coat', 0.090883799, u'wardrobe', 0.070612833, u'jean', 0.062872641, u'washer', 0.04848028]
+[u'airliner', 0.77654678, u'space_shuttle', 0.060299423, u'warplane', 0.059883311, u'wing', 0.037048846, u'airship', 0.031526029]

@@ -1,0 +1,2 @@
+[u'face_powder', 0.061794039, u'hair_spray', 0.051932063, u'puck', 0.040288664]
+[u'fountain', 0.40913287, u'solar_dish', 0.13848516, u'table_lamp', 0.091761746]

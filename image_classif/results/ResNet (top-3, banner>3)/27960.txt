@@ -1,0 +1,2 @@
+[u'window_screen', 0.54596019, u'window_shade', 0.17966945, u'sliding_door', 0.05025531]
+[u'plate_rack', 0.8528899, u'folding_chair', 0.014402464, u'radiator', 0.011918049]

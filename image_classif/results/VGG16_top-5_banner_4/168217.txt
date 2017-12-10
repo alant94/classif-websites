@@ -1,0 +1,4 @@
+[u'electric_guitar', 0.20168121, u'switch', 0.17831774, u'pick', 0.11352405, u'screw', 0.082054831, u'binder', 0.034716398]
+[u'cab', 0.24471012, u'viaduct', 0.092848226, u'traffic_light', 0.052697152, u'electric_locomotive', 0.051713169, u'streetcar', 0.049908295]
+[u'shower_curtain', 0.21569686, u'carousel', 0.11081897, u'umbrella', 0.094516918, u'theater_curtain', 0.038118005, u'shower_cap', 0.031041499]
+[u'fireboat', 0.32403767, u'lighter', 0.047292724, u'cinema', 0.043602079, u'whistle', 0.031363301, u'red_wine', 0.028648783]

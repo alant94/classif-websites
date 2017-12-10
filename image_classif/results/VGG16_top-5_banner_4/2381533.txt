@@ -1,0 +1,3 @@
+[u'rubber_eraser', 0.16699614, u'street_sign', 0.097128451, u'binder', 0.041300278, u'packet', 0.035166841, u'wallet', 0.02657941]
+[u'barrel', 0.97620457, u'crate', 0.0035715944, u'binoculars', 0.0017549549, u'rain_barrel', 0.001616704, u'barometer', 0.0010855912]
+[u'envelope', 0.087277792, u'digital_clock', 0.073732592, u'analog_clock', 0.061300199, u'traffic_light', 0.049833573, u'web_site', 0.0396582]

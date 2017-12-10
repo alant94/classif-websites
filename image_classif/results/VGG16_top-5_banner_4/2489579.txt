@@ -1,0 +1,1 @@
+[u'greenhouse', 0.1506384, u'boathouse', 0.099660903, u'window_screen', 0.068259649, u'tobacco_shop', 0.040594287, u'library', 0.039162684]

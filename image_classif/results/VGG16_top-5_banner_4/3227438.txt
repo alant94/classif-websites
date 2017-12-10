@@ -1,0 +1,3 @@
+[u'mobile_home', 0.18953457, u'flagpole', 0.13506392, u'cinema', 0.10487358, u'planetarium', 0.044096209, u'unicycle', 0.043999739]
+[u'web_site', 0.22735347, u'academic_gown', 0.13943201, u'book_jacket', 0.13799314, u'refrigerator', 0.044562452, u'bow_tie', 0.033003666]
+[u'bolo_tie', 0.49125993, u'bottlecap', 0.14097026, u'traffic_light', 0.10790767, u'spotlight', 0.074107789, u'coil', 0.043509625]

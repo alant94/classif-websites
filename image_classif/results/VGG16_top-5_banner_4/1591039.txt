@@ -1,0 +1,5 @@
+[u'bathtub', 0.15077519, u'tub', 0.14282039, u'hand_blower', 0.075093545, u'brassiere', 0.050103605, u'diaper', 0.04398733]
+[u'bikini', 0.21648434, u'miniskirt', 0.19912152, u'brassiere', 0.14098127, u'maillot', 0.11602378, u'maillot', 0.056300428]
+[u'Christmas_stocking', 0.45365867, u'punching_bag', 0.087868787, u'brassiere', 0.068657801, u'knee_pad', 0.034568511, u'bath_towel', 0.028166976]
+[u'brassiere', 0.30926511, u'bikini', 0.20171475, u'tub', 0.10765693, u'bathtub', 0.09240301, u'maillot', 0.064627714]
+[u'sliding_door', 0.41357017, u'pay-phone', 0.096896358, u'cash_machine', 0.069191799, u'doormat', 0.052688118, u'tobacco_shop', 0.0359882]

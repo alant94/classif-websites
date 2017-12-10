@@ -1,0 +1,8 @@
+[u'carton', 0.073833115, u'balance_beam', 0.054849356, u'envelope', 0.050546318]
+[u'puck', 0.91477269, u'wall_clock', 0.02824416, u'analog_clock', 0.018539229]
+[u'book_jacket', 0.6143865, u'crate', 0.086454645, u'jean', 0.040094677]
+[u'boathouse', 0.69192511, u'thatch', 0.098912612, u'worm_fence', 0.031613287]
+[u'puck', 0.91477269, u'wall_clock', 0.02824416, u'analog_clock', 0.018539229]
+[u'menu', 0.32444373, u'book_jacket', 0.28034037, u'carton', 0.14289315]
+[u'web_site', 0.44254169, u'digital_clock', 0.16207483, u'bannister', 0.037254144]
+[u'web_site', 0.69341612, u'jean', 0.12458128, u'wardrobe', 0.044047698]

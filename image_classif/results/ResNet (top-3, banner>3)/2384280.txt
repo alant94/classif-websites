@@ -1,0 +1,3 @@
+[u'hair_spray', 0.075138636, u'crutch', 0.06330099, u'chain_mail', 0.061015431]
+[u'barrel', 0.45317701, u'gong', 0.13373254, u'stage', 0.080936022]
+[u'barrel', 0.87104869, u'reel', 0.026946347, u'pop_bottle', 0.015136722]

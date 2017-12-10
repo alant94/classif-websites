@@ -1,0 +1,2 @@
+[u'maze', 0.22916305, u'container_ship', 0.17006531, u'traffic_light', 0.044997185, u'digital_clock', 0.041965373, u'scoreboard', 0.037551403]
+[u'lighter', 0.22106229, u'web_site', 0.030247459, u'envelope', 0.029729711, u'whistle', 0.02455765, u'book_jacket', 0.022520801]

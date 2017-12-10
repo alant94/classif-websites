@@ -1,0 +1,3 @@
+[u'flagpole', 0.99780887, u'pole', 0.0020062886, u'parachute', 2.9338684e-05, u'geyser', 2.2960263e-05, u'crutch', 1.711139e-05]
+[u'matchstick', 0.44667485, u'picket_fence', 0.1560245, u'candle', 0.088747352, u'fountain', 0.079247907, u'nail', 0.010441113]
+[u'torch', 0.22437119, u'fountain', 0.091293007, u'geyser', 0.079108164, u'stage', 0.061692405, u'spotlight', 0.029805765]

@@ -1,0 +1,2 @@
+[u'military_uniform', 0.56033081, u'trench_coat', 0.05093899, u'sax', 0.048075382]
+[u'laptop', 0.15154509, u'television', 0.13696991, u'grand_piano', 0.1114469]

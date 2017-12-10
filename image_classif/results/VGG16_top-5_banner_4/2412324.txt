@@ -1,0 +1,1 @@
+[u'monitor', 0.29677585, u'screen', 0.19433211, u'television', 0.09988308, u'window_screen', 0.080690421, u'medicine_chest', 0.037190035]

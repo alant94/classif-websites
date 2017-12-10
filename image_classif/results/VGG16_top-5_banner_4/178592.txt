@@ -1,0 +1,2 @@
+[u'web_site', 0.17559993, u'envelope', 0.048711423, u'Band_Aid', 0.017572967, u'can_opener', 0.016391961, u'nail', 0.013990832]
+[u'book_jacket', 0.075920813, u'medicine_chest', 0.07528381, u'barbershop', 0.05905525, u'doormat', 0.049666211, u'cinema', 0.043952461]

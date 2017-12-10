@@ -1,0 +1,4 @@
+[u'cassette', 0.46051106, u'quill', 0.075344607, u'harmonica', 0.068516649]
+[u'spotted_salamander', 0.88527524, u'common_newt', 0.050153729, u'European_fire_salamander', 0.030283701]
+[u'jigsaw_puzzle', 0.26934406, u'parachute', 0.2090546, u'pinwheel', 0.19539234]
+[u'digital_clock', 0.21852604, u'scoreboard', 0.12651201, u'hair_spray', 0.051297553]

@@ -1,0 +1,3 @@
+[u'microwave', 0.58873093, u'oscilloscope', 0.12266479, u'scoreboard', 0.042712852]
+[u'book_jacket', 0.34546167, u'cliff', 0.19532514, u'jigsaw_puzzle', 0.13730945]
+[u'indigo_bunting', 0.19016553, u'ringlet', 0.087508805, u'ladybug', 0.062562242]

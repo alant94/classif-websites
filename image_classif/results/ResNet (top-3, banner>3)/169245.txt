@@ -1,0 +1,4 @@
+[u'nipple', 0.11479276, u'combination_lock', 0.095253706, u'hook', 0.086878873]
+[u'laptop', 0.46773291, u'jersey', 0.14789952, u'envelope', 0.12311967]
+[u'stole', 0.082364403, u'wig', 0.080468521, u'miniskirt', 0.072213352]
+[u'spotlight', 0.73534322, u'microphone', 0.067492373, u'muzzle', 0.044331055]

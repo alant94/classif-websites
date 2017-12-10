@@ -1,0 +1,2 @@
+[u'jean', 0.48617432, u'gown', 0.08064267, u'feather_boa', 0.072490104]
+[u'crossword_puzzle', 0.69112176, u'quilt', 0.031797845, u'Sussex_spaniel', 0.020028025]

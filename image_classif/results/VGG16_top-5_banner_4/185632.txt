@@ -1,0 +1,3 @@
+[u'swab', 0.481363, u'poncho', 0.18340552, u'wool', 0.11258317, u'stole', 0.091164276, u'hook', 0.025677012]
+[u'wig', 0.22524099, u'abaya', 0.059193227, u'brassiere', 0.05152487, u'maillot', 0.050596982, u'miniskirt', 0.039697498]
+[u'digital_clock', 0.80540872, u'digital_watch', 0.16708003, u'scoreboard', 0.0092920773, u'odometer', 0.0034775273, u'analog_clock', 0.0027165194]

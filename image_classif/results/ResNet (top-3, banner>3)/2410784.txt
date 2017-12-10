@@ -1,0 +1,7 @@
+[u'book_jacket', 0.17792308, u'comic_book', 0.13005839, u'hook', 0.11936468]
+[u'web_site', 0.19754754, u'crossword_puzzle', 0.03551577, u'remote_control', 0.023926014]
+[u'doormat', 0.24347992, u'bath_towel', 0.14898312, u'perfume', 0.094695866]
+[u'doormat', 0.99624652, u'dishrag', 0.00084600307, u'scale', 0.00064946205]
+[u'freight_car', 0.26721245, u'beaker', 0.26456723, u'gas_pump', 0.14131352]
+[u'packet', 0.35850814, u'mailbag', 0.16420181, u'backpack', 0.12107748]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

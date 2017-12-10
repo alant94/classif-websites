@@ -1,0 +1,5 @@
+[u'megalith', 0.082609415, u'abaya', 0.059501983, u'cleaver', 0.059155937, u'hook', 0.052760523, u'nail', 0.03759395]
+[u'web_site', 0.20464285, u'bulletproof_vest', 0.041162316, u'brassiere', 0.040690444, u'muzzle', 0.031365089, u'abaya', 0.030751763]
+[u'web_site', 0.20464285, u'bulletproof_vest', 0.041162316, u'brassiere', 0.040690444, u'muzzle', 0.031365089, u'abaya', 0.030751763]
+[u'envelope', 0.019152585, u'cleaver', 0.013927598, u'face_powder', 0.0091718184, u'can_opener', 0.0081354305, u'corkscrew', 0.0078058001]
+[u'envelope', 0.019152585, u'cleaver', 0.013927598, u'face_powder', 0.0091718184, u'can_opener', 0.0081354305, u'corkscrew', 0.0078058001]

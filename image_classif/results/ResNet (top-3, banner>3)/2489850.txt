@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.57138413, u'book_jacket', 0.19759846, u'street_sign', 0.024963101]

@@ -1,0 +1,5 @@
+[u'book_jacket', 0.21892877, u'barbershop', 0.18551967, u'comic_book', 0.11445722]
+[u'cornet', 0.35507357, u'oboe', 0.088907249, u'spotlight', 0.064794138]
+[u'vault', 0.21921977, u'church', 0.1092921, u'organ', 0.090692952]
+[u'analog_clock', 0.30890712, u'digital_clock', 0.042795762, u'television', 0.038163841]
+[u'screen', 0.16692896, u'monitor', 0.15045881, u'scoreboard', 0.087611154]

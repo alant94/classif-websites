@@ -1,0 +1,3 @@
+[u'iron', 0.060573522, u'neck_brace', 0.055613916, u'muzzle', 0.051238533, u"potter's_wheel", 0.035178401, u'pajama', 0.031294256]
+[u'torch', 0.15491547, u'plunger', 0.061171088, u'pelican', 0.052722815, u'balloon', 0.05001555, u'spoonbill', 0.046934299]
+[u'tub', 0.20866022, u'bathtub', 0.15617415, u'toilet_seat', 0.055697456, u'hand_blower', 0.043890383, u'dumbbell', 0.029764282]

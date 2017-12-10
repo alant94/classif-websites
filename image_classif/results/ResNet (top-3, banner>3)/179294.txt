@@ -1,0 +1,5 @@
+[u'web_site', 0.71791255, u'monitor', 0.11889555, u'screen', 0.063873142]
+[u'web_site', 0.79746389, u'menu', 0.04739188, u'envelope', 0.012955224]
+[u'web_site', 0.67544824, u'envelope', 0.24240215, u'screen', 0.016445599]
+[u'Windsor_tie', 0.28369445, u'suit', 0.19688955, u'stethoscope', 0.02345198]
+[u'digital_clock', 0.628829, u'screw', 0.087597035, u'analog_clock', 0.075943358]

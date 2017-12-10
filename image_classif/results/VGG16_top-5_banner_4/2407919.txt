@@ -1,0 +1,4 @@
+[u'book_jacket', 0.51705003, u'jigsaw_puzzle', 0.12114842, u'comic_book', 0.096863754, u'toyshop', 0.060897734, u'altar', 0.020837821]
+[u'toyshop', 0.93253899, u'altar', 0.027373709, u'confectionery', 0.017597355, u'grocery_store', 0.0038973973, u'china_cabinet', 0.00291332]
+[u'cliff', 0.052724481, u'plow', 0.035083916, u'stone_wall', 0.033654161, u'mountain_bike', 0.029136848, u'suspension_bridge', 0.028751964]
+[u'pedestal', 0.29375875, u'candle', 0.087054029, u'goblet', 0.061576206, u'fountain', 0.034735955, u'bathtub', 0.026893536]

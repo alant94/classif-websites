@@ -1,0 +1,5 @@
+[u'barn', 0.9270404, u'picket_fence', 0.018616507, u'padlock', 0.0058995853]
+[u'web_site', 0.26444203, u'book_jacket', 0.081443392, u'envelope', 0.078826606]
+[u'picket_fence', 0.1965697, u'barn', 0.12098856, u'worm_fence', 0.093539089]
+[u'rapeseed', 0.35325965, u'chainlink_fence', 0.16100705, u'park_bench', 0.073694512]
+[u'lakeside', 0.19862518, u'fountain', 0.17190428, u'American_alligator', 0.15803193]

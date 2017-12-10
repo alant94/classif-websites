@@ -1,0 +1,4 @@
+[u'envelope', 0.57033998, u'bow', 0.045980494, u'slide_rule', 0.030361412]
+[u'bearskin', 0.14547032, u'knee_pad', 0.10252563, u'balloon', 0.083900206]
+[u'handkerchief', 0.3656204, u'bib', 0.17513439, u'safety_pin', 0.14713937]
+[u'groom', 0.3202776, u'cellular_telephone', 0.1723754, u'sunglasses', 0.16524681]

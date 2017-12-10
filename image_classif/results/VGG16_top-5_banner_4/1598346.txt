@@ -1,0 +1,6 @@
+[u'jersey', 0.50138742, u'envelope', 0.21919101, u'web_site', 0.030625487, u'comic_book', 0.025726261, u'sweatshirt', 0.018565565]
+[u'stage', 0.55761564, u'electric_guitar', 0.3790392, u'banjo', 0.032193944, u'acoustic_guitar', 0.017677927, u'sax', 0.0050994256]
+[u'stage', 0.57641864, u'electric_guitar', 0.33844018, u'acoustic_guitar', 0.030798683, u'banjo', 0.015478075, u'microphone', 0.013612122]
+[u'red_fox', 0.65439677, u'Pembroke', 0.15894443, u'kit_fox', 0.10368834, u'lesser_panda', 0.021095216, u'grey_fox', 0.015484526]
+[u'miniskirt', 0.57210982, u'maillot', 0.20476797, u'brassiere', 0.084956206, u'bikini', 0.077049136, u'wig', 0.017735198]
+[u'ice_lolly', 0.25116023, u'whistle', 0.130732, u'barbell', 0.054071739, u'harmonica', 0.053406961, u'pay-phone', 0.039168637]

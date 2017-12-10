@@ -1,0 +1,2 @@
+[u'scorpion', 0.49251765, u'banded_gecko', 0.035473209, u'web_site', 0.033888083, u'ant', 0.033404004, u'jersey', 0.026074264]
+[u'fur_coat', 0.19820702, u'book_jacket', 0.10262907, u'unicycle', 0.031852018, u'mountain_bike', 0.031242888, u'marimba', 0.023807557]

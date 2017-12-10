@@ -1,0 +1,3 @@
+[u'motor_scooter', 0.28099486, u'moped', 0.21917444, u'lawn_mower', 0.11339098, u'go-kart', 0.077345625, u'horse_cart', 0.074379578]
+[u'traffic_light', 0.74670249, u'balloon', 0.15234567, u'snowmobile', 0.02046475, u'spotlight', 0.01072917, u'steam_locomotive', 0.0099124471]
+[u'analog_clock', 0.30960137, u'rule', 0.29754516, u'wall_clock', 0.094257087, u'web_site', 0.031651821, u'switch', 0.030389687]

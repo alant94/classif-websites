@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.32503587, u'book_jacket', 0.24555641, u'barn', 0.036035415, u'solar_dish', 0.031769406, u'picket_fence', 0.031642679]
+[u'container_ship', 0.12130346, u'rule', 0.03757935, u'organ', 0.036631729, u'liner', 0.030989841, u'stage', 0.030731406]
+[u'puck', 0.28583354, u'Petri_dish', 0.060278296, u'shield', 0.047730103, u'lens_cap', 0.041079715, u'maze', 0.039147411]
+[u'picket_fence', 0.16435611, u'organ', 0.13201462, u'library', 0.050690707, u'bookcase', 0.04911758, u'church', 0.031146105]

@@ -1,0 +1,6 @@
+[u'web_site', 0.076745369, u'iPod', 0.049804065, u'envelope', 0.049147867]
+[u'beer_bottle', 0.77473319, u'pop_bottle', 0.057018425, u'wine_bottle', 0.040859047]
+[u'web_site', 0.090138137, u'punching_bag', 0.061553046, u'tennis_ball', 0.059229717]
+[u'digital_clock', 0.69185632, u'digital_watch', 0.07515987, u'analog_clock', 0.037782233]
+[u'lighter', 0.16805562, u'Band_Aid', 0.15552272, u'iPod', 0.11089931]
+[u'lighter', 0.92046118, u'lipstick', 0.038719501, u'hair_spray', 0.023486625]

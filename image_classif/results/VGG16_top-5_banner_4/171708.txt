@@ -1,0 +1,2 @@
+[u'spider_web', 0.2819061, u'necklace', 0.064988241, u'chain', 0.055857237, u'barn_spider', 0.051053997, u'safety_pin', 0.035651803]
+[u'safety_pin', 0.631006, u'hook', 0.14327976, u'nail', 0.033586815, u'hair_slide', 0.019972738, u"carpenter's_kit", 0.013091741]

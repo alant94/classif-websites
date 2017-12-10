@@ -1,0 +1,8 @@
+[u'ocarina', 0.1047045, u'digital_clock', 0.059133902, u'cassette', 0.056717649]
+[u'analog_clock', 0.2403108, u'stopwatch', 0.21948449, u'web_site', 0.13240325]
+[u'chain_saw', 0.37109053, u'screw', 0.12709063, u'corkscrew', 0.068053447]
+[u'envelope', 0.63250685, u'carton', 0.15344155, u'comic_book', 0.05572851]
+[u'digital_clock', 0.54510224, u'stopwatch', 0.10365865, u'web_site', 0.02322036]
+[u'digital_clock', 0.88416803, u'web_site', 0.024512323, u'stopwatch', 0.016906656]
+[u'envelope', 0.33353695, u'web_site', 0.30284464, u'jigsaw_puzzle', 0.050602183]
+[u'digital_clock', 0.29005995, u'stopwatch', 0.11638787, u'scoreboard', 0.061488114]

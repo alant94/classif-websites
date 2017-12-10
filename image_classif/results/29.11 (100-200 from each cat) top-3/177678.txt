@@ -1,0 +1,4 @@
+[u'web_site', 0.57332826, u'carton', 0.058065183, u'book_jacket', 0.047105003]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'punching_bag', 0.20822747, u'cleaver', 0.20588654, u'ski', 0.10565727]
+[u'digital_clock', 0.58510721, u'web_site', 0.065040059, u'stopwatch', 0.052561007]

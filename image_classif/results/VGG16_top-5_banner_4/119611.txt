@@ -1,0 +1,1 @@
+[u'hair_spray', 0.14174943, u'comic_book', 0.03079259, u'water_bottle', 0.023764348, u'stage', 0.022408122, u'scoreboard', 0.021860218]

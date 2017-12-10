@@ -1,0 +1,2 @@
+[u'broom', 0.14630215, u'swab', 0.11283036, u'miniskirt', 0.062410254]
+[u'web_site', 0.22621936, u'hair_spray', 0.068895102, u'screwdriver', 0.059728403]

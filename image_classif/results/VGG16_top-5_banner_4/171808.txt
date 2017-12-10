@@ -1,0 +1,5 @@
+[u'chain', 0.38159767, u'necklace', 0.14344577, u'shower_curtain', 0.060672101, u'hook', 0.037890509, u'safety_pin', 0.024852354]
+[u'groom', 0.069522865, u'stole', 0.066848837, u'pajama', 0.056418985, u'jean', 0.050815485, u'candle', 0.049546733]
+[u'grille', 0.95514393, u'radiator', 0.005672473, u'trailer_truck', 0.0054433201, u'pickup', 0.0044559641, u'toaster', 0.0041284966]
+[u'tape_player', 0.37967989, u'cassette_player', 0.21359234, u"carpenter's_kit", 0.090337075, u'screwdriver', 0.075274728, u'radio', 0.071373627]
+[u'candle', 0.11805422, u'web_site', 0.10716528, u'matchstick', 0.070202164, u'lipstick', 0.052656092, u'lighter', 0.032420386]

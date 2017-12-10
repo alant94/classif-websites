@@ -1,0 +1,5 @@
+[u'notebook', 0.39134511, u'laptop', 0.25906944, u'desktop_computer', 0.053752076, u'desk', 0.044849351, u'mouse', 0.044685148]
+[u'sliding_door', 0.10191075, u'barber_chair', 0.065745085, u'vacuum', 0.053446122, u'forklift', 0.045157846, u'barbershop', 0.039292436]
+[u'lighter', 0.3572244, u'slide_rule', 0.14111955, u'binder', 0.093789987, u'hard_disc', 0.042835522, u'modem', 0.034083389]
+[u'scabbard', 0.17683871, u'mailbag', 0.15621552, u'pencil_sharpener', 0.082066685, u'buckle', 0.081089385, u'toilet_tissue', 0.072354421]
+[u'syringe', 0.50359762, u'whistle', 0.073050134, u'oxygen_mask', 0.056773938, u'corkscrew', 0.032584954, u'hook', 0.027292883]

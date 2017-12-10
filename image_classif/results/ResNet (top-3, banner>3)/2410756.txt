@@ -1,0 +1,2 @@
+[u'web_site', 0.29300249, u'book_jacket', 0.28809124, u'envelope', 0.13993765]
+[u'Christmas_stocking', 0.50744838, u'jigsaw_puzzle', 0.10805425, u'sock', 0.094453827]

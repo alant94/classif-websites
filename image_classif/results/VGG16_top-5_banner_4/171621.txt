@@ -1,0 +1,2 @@
+[u'matchstick', 0.056440469, u'digital_clock', 0.051568653, u'candle', 0.029979538, u'spotlight', 0.027972504, u'lighter', 0.027344061]
+[u'upright', 0.63328433, u'lumbermill', 0.19303475, u'organ', 0.042467766, u'marimba', 0.034721889, u'grand_piano', 0.019712275]

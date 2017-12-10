@@ -1,0 +1,1 @@
+[u'barn', 0.22685029, u'water_tower', 0.20323619, u'worm_fence', 0.10895841, u'mobile_home', 0.077785566, u'picket_fence', 0.060220309]

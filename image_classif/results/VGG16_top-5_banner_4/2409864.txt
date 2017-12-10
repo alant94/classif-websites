@@ -1,0 +1,4 @@
+[u'web_site', 0.47656679, u'neck_brace', 0.024514705, u'power_drill', 0.017376143, u'stopwatch', 0.012122582, u'envelope', 0.011659414]
+[u'hook', 0.1066622, u'chain_saw', 0.058894183, u'tricycle', 0.054347523, u'cleaver', 0.032228321, u'plunger', 0.023226133]
+[u'web_site', 0.39399731, u'menu', 0.17225038, u'envelope', 0.100156, u'binder', 0.018407704, u'crossword_puzzle', 0.0083315698]
+[u'otterhound', 0.16343927, u'Lakeland_terrier', 0.094659209, u'Sealyham_terrier', 0.091614127, u'wire-haired_fox_terrier', 0.053249136, u'Old_English_sheepdog', 0.050576229]

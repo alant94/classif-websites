@@ -1,0 +1,8 @@
+[u'maypole', 0.15730454, u'flagpole', 0.10162719, u'paddlewheel', 0.089505143, u'cinema', 0.069654375, u'suspension_bridge', 0.062243845]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'stage', 0.29290473, u'grand_piano', 0.11936639, u'theater_curtain', 0.078677863, u'spotlight', 0.073134966, u'restaurant', 0.063282117]
+[u'violin', 0.46931621, u'flute', 0.22941963, u'cello', 0.1440374, u'banjo', 0.048572097, u'bassoon', 0.013096912]
+[u'cello', 0.7087453, u'violin', 0.28690895, u'trombone', 0.0012068927, u'drumstick', 0.00074468256, u'stage', 0.00068007916]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'barbershop', 0.18936673, u'comic_book', 0.11050926, u'cinema', 0.053917143, u'book_jacket', 0.03588561, u'bakery', 0.033547569]

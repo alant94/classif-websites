@@ -1,0 +1,8 @@
+[u'harvester', 0.15657067, u'amphibian', 0.13116674, u'parachute', 0.10285022, u'freight_car', 0.10032274, u'balloon', 0.081307933]
+[u'freight_car', 0.15012766, u'whistle', 0.11481765, u'thresher', 0.096814595, u'jigsaw_puzzle', 0.052815586, u'garbage_truck', 0.048669133]
+[u'crane', 0.21082555, u'missile', 0.16316058, u'drilling_platform', 0.12211321, u'projectile', 0.11346415, u'garbage_truck', 0.081628107]
+[u'analog_clock', 0.089594923, u'castle', 0.060575888, u'lakeside', 0.04156857, u'church', 0.039364457, u'alp', 0.038984716]
+[u'can_opener', 0.24511825, u'screw', 0.080078565, u'dial_telephone', 0.073135979, u'skunk', 0.041416701, u'banjo', 0.026903609]
+[u'tray', 0.19656962, u'rubber_eraser', 0.11745883, u'whistle', 0.086852796, u'sandal', 0.074874356, u'pencil_sharpener', 0.060167082]
+[u'whistle', 0.370444, u'hook', 0.072349697, u'ambulance', 0.064076878, u'iron', 0.04798812, u'nipple', 0.028528331]
+[u'sliding_door', 0.078715242, u'window_shade', 0.076531976, u'flagpole', 0.051718879, u'bannister', 0.042707749, u'boathouse', 0.040387057]

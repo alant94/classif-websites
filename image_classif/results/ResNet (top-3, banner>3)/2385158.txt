@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.1198803, u'switch', 0.11419766, u'sunscreen', 0.074028879]
+[u'web_site', 0.55568194, u'scoreboard', 0.11099637, u'oscilloscope', 0.093209624]
+[u'nematode', 0.31681645, u'French_horn', 0.17619471, u'maze', 0.10933034]
+[u'web_site', 0.98178375, u'menu', 0.009412583, u'monitor', 0.0043315953]
+[u'castle', 0.35404071, u'viaduct', 0.14663142, u'worm_fence', 0.10332554]

@@ -1,0 +1,2 @@
+[u'torch', 0.1445605, u'bow_tie', 0.079272434, u'suit', 0.072284661, u'groom', 0.062035333, u'military_uniform', 0.047412086]
+[u'shower_curtain', 0.14238442, u'toilet_seat', 0.08714354, u'bathtub', 0.066792078, u'washbasin', 0.06656272, u'tub', 0.066229053]

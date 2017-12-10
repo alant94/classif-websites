@@ -1,0 +1,4 @@
+[u'monitor', 0.5880037, u'screen', 0.19745117, u'television', 0.040686831, u'binder', 0.020857697, u'desktop_computer', 0.020088514]
+[u'plow', 0.31316763, u'bow', 0.11518344, u'oxcart', 0.10162315, u'ibex', 0.10079703, u'hog', 0.07847213]
+[u'book_jacket', 0.17913561, u'mousetrap', 0.15484749, u'binder', 0.12372521, u'jigsaw_puzzle', 0.063415818, u'envelope', 0.042380817]
+[u'honeycomb', 0.20854124, u'monitor', 0.16696191, u'screen', 0.073977768, u'binder', 0.062938035, u'solar_dish', 0.043007061]

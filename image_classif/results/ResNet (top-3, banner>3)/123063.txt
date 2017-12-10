@@ -1,0 +1,7 @@
+[u'monitor', 0.43218976, u'container_ship', 0.23067997, u'rule', 0.11430176]
+[u'scoreboard', 0.3592096, u'television', 0.11377145, u'screen', 0.090889253]
+[u'screen', 0.090222098, u'television', 0.069223695, u'monitor', 0.054690279]
+[u'medicine_chest', 0.11498979, u'tobacco_shop', 0.10317738, u'container_ship', 0.067765474]
+[u'prison', 0.21275555, u'siamang', 0.03731269, u'horizontal_bar', 0.029879587]
+[u'worm_fence', 0.17372556, u'plow', 0.12254307, u'tractor', 0.11755352]
+[u'container_ship', 0.70632434, u'tobacco_shop', 0.068993434, u'quilt', 0.019751564]

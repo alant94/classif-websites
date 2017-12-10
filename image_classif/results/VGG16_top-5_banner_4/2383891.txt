@@ -1,0 +1,8 @@
+[u'church', 0.39399943, u'bell_cote', 0.23116441, u'castle', 0.15078218, u'monastery', 0.075896829, u'barn', 0.020510942]
+[u'envelope', 0.022793481, u'wall_clock', 0.0090117343, u'cleaver', 0.0069025997, u'modem', 0.0068312814, u'rule', 0.0066734576]
+[u'wine_bottle', 0.85204983, u'red_wine', 0.12529202, u'beer_bottle', 0.0079091135, u'pop_bottle', 0.0012851164, u'hamper', 0.0012138159]
+[u'envelope', 0.022793481, u'wall_clock', 0.0090117343, u'cleaver', 0.0069025997, u'modem', 0.0068312814, u'rule', 0.0066734576]
+[u'envelope', 0.022793481, u'wall_clock', 0.0090117343, u'cleaver', 0.0069025997, u'modem', 0.0068312814, u'rule', 0.0066734576]
+[u'envelope', 0.022793481, u'wall_clock', 0.0090117343, u'cleaver', 0.0069025997, u'modem', 0.0068312814, u'rule', 0.0066734576]
+[u'black_stork', 0.35447583, u'cloak', 0.093803659, u'overskirt', 0.066824555, u'crane', 0.046838157, u'little_blue_heron', 0.034784947]
+[u'envelope', 0.022793481, u'wall_clock', 0.0090117343, u'cleaver', 0.0069025997, u'modem', 0.0068312814, u'rule', 0.0066734576]

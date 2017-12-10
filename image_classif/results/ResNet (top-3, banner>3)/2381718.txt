@@ -1,0 +1,7 @@
+[u'pick', 0.17156455, u'iron', 0.12197964, u'thimble', 0.059753239]
+[u'chain_mail', 0.69015813, u'starfish', 0.066304699, u'sea_urchin', 0.016839612]
+[u'digital_clock', 0.32705313, u'digital_watch', 0.19192937, u'analog_clock', 0.068573676]
+[u'shoe_shop', 0.25333577, u'miniskirt', 0.098012596, u'confectionery', 0.036867324]
+[u'gong', 0.56735933, u'chime', 0.10038986, u'loudspeaker', 0.023540242]
+[u'pick', 0.17156455, u'iron', 0.12197964, u'thimble', 0.059753239]
+[u'cornet', 0.20220424, u'web_site', 0.17134432, u'oscilloscope', 0.038645256]

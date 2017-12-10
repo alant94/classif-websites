@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.31774333, u'ballpoint', 0.13079493, u'rule', 0.083629906]
+[u'web_site', 0.1220879, u'digital_clock', 0.12111592, u'folding_chair', 0.096656047]
+[u'digital_clock', 0.26035264, u'web_site', 0.15799923, u'analog_clock', 0.070597231]
+[u'prayer_rug', 0.2192414, u'puck', 0.16199932, u'buckle', 0.069470912]
+[u'chime', 0.53409338, u'slide_rule', 0.3133097, u'rule', 0.087665513]

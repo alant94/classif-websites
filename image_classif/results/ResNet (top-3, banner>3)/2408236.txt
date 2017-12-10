@@ -1,0 +1,5 @@
+[u'wig', 0.84175515, u'hair_spray', 0.074182577, u'perfume', 0.048445296]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'jean', 0.13711214, u'fur_coat', 0.081548758, u'miniskirt', 0.077196188]
+[u'kimono', 0.3164061, u'suit', 0.18515727, u'trench_coat', 0.072952747]
+[u'bikini', 0.73338872, u'maillot', 0.11044165, u'maillot', 0.047157332]

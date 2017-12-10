@@ -1,0 +1,1 @@
+[u'shower_cap', 0.076122373, u'tub', 0.067160428, u"potter's_wheel", 0.060261011, u'soap_dispenser', 0.057424106, u'Mexican_hairless', 0.042123202]

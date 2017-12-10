@@ -1,0 +1,6 @@
+[u'web_site', 0.30982178, u'nematode', 0.08062987, u'analog_clock', 0.072436243]
+[u'handkerchief', 0.43471339, u'freight_car', 0.19937147, u'carton', 0.086002484]
+[u'street_sign', 0.10046155, u'grocery_store', 0.060706191, u'scoreboard', 0.039050084]
+[u'picket_fence', 0.35308191, u'worm_fence', 0.08535786, u'cinema', 0.052125867]
+[u'web_site', 0.081224665, u'book_jacket', 0.036317639, u'street_sign', 0.030067593]
+[u'web_site', 0.52785391, u'envelope', 0.10223033, u'rapeseed', 0.031955026]

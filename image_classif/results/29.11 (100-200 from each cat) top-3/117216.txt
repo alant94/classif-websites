@@ -1,0 +1,6 @@
+[u'oboe', 0.14548466, u'hair_spray', 0.10515888, u'beaker', 0.060035489]
+[u'pot', 0.066805027, u'swab', 0.058071166, u'chime', 0.057843585]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'digital_watch', 0.54586649, u'digital_clock', 0.41361961, u'scoreboard', 0.0096209059]
+[u'crossword_puzzle', 0.9758637, u'scoreboard', 0.010854936, u'digital_clock', 0.0083639771]

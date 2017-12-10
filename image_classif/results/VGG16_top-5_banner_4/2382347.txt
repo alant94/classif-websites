@@ -1,0 +1,7 @@
+[u'street_sign', 0.81793797, u'book_jacket', 0.036641251, u'traffic_light', 0.020552311, u'cinema', 0.014154484, u'picket_fence', 0.013751049]
+[u'cardigan', 0.83971018, u'stole', 0.024566678, u'jean', 0.024378568, u'poncho', 0.016663581, u'miniskirt', 0.011157639]
+[u'tailed_frog', 0.18114838, u'buckeye', 0.135428, u'dung_beetle', 0.12006703, u'honeycomb', 0.087655626, u'bolete', 0.050043844]
+[u'birdhouse', 0.16544965, u'swing', 0.053944208, u'chainlink_fence', 0.051350884, u'chime', 0.036488574, u'spider_web', 0.034100927]
+[u'crate', 0.15343863, u'prison', 0.07786154, u'forklift', 0.072567359, u'mobile_home', 0.065491624, u'unicycle', 0.044995897]
+[u'shovel', 0.098922379, u'croquet_ball', 0.071037531, u'chain_saw', 0.048413597, u'stone_wall', 0.03938489, u'unicycle', 0.033661604]
+[u'dam', 0.20647332, u'breakwater', 0.18676859, u'lakeside', 0.12222481, u'stone_wall', 0.098894142, u'valley', 0.056913637]

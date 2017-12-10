@@ -1,0 +1,5 @@
+[u'ski', 0.88731718, u'alp', 0.075011, u'snowmobile', 0.028560491, u'parachute', 0.0027906564, u'bobsled', 0.0011879577]
+[u'impala', 0.27750295, u'fountain', 0.10552782, u'gazelle', 0.082151845, u'hartebeest', 0.062527157, u'ear', 0.032798167]
+[u'boathouse', 0.89312971, u'lakeside', 0.043714218, u'dam', 0.016483931, u'pier', 0.010134663, u'dock', 0.0055869627]
+[u'digital_clock', 0.26006338, u'envelope', 0.031531416, u'scoreboard', 0.03083482, u'parachute', 0.028573314, u'analog_clock', 0.027876284]
+[u'lakeside', 0.60344219, u'valley', 0.20235369, u'alp', 0.083490156, u'volcano', 0.020329768, u'seashore', 0.019239672]

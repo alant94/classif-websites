@@ -1,0 +1,2 @@
+[u'plunger', 0.48978898, u'dumbbell', 0.10576864, u'oxygen_mask', 0.090039812]
+[u'vacuum', 0.2216035, u'racer', 0.15149519, u'cassette_player', 0.072335064]

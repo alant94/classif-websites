@@ -1,0 +1,1 @@
+[u'puck', 0.051194131, u'car_wheel', 0.050744172, u'racer', 0.050046936, u'rugby_ball', 0.049731091, u'street_sign', 0.04515129]

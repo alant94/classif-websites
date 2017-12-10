@@ -1,0 +1,6 @@
+[u'guillotine', 0.4110575, u'stretcher', 0.09121, u'crane', 0.069145158, u'missile', 0.044959426, u"carpenter's_kit", 0.02378053]
+[u'necklace', 0.12101959, u'chain', 0.11181772, u'envelope', 0.045067221, u'screw', 0.041560754, u'safety_pin', 0.032635212]
+[u'envelope', 0.61386544, u'notebook', 0.099053964, u'mortarboard', 0.064216115, u'binder', 0.036920585, u'academic_gown', 0.029369872]
+[u'monitor', 0.44680649, u'screen', 0.20478114, u'oscilloscope', 0.075239062, u'traffic_light', 0.046193384, u'laptop', 0.030497709]
+[u'necklace', 0.15342562, u'chain', 0.15078029, u'scorpion', 0.14447187, u'perfume', 0.040030561, u'matchstick', 0.037616603]
+[u'umbrella', 0.16521353, u'kimono', 0.14322248, u'envelope', 0.090848774, u'mortarboard', 0.057358917, u'sweatshirt', 0.053275432]

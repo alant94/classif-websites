@@ -1,0 +1,6 @@
+[u'dining_table', 0.24097688, u'washbasin', 0.16706425, u'desk', 0.12582129, u'plate_rack', 0.088653907, u"potter's_wheel", 0.078267023]
+[u'binder', 0.17825547, u'hook', 0.067899667, u'envelope', 0.038964789, u'shopping_basket', 0.034339115, u'rule', 0.030013129]
+[u'lumbermill', 0.07799805, u'bell_cote', 0.04391811, u'mobile_home', 0.039313011, u'picket_fence', 0.037875127, u'boathouse', 0.034945019]
+[u'envelope', 0.37810349, u'web_site', 0.076242112, u'monitor', 0.033473074, u'whistle', 0.022427842, u'digital_clock', 0.021789998]
+[u'golf_ball', 0.78848934, u'ping-pong_ball', 0.092990912, u'tennis_ball', 0.032384899, u'baseball', 0.027394999, u'volleyball', 0.0059939814]
+[u'lighter', 0.20549002, u'pencil_sharpener', 0.18617702, u'whistle', 0.18370396, u'ballpoint', 0.10482139, u'rubber_eraser', 0.056845963]

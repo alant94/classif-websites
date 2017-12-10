@@ -1,0 +1,4 @@
+[u'digital_clock', 0.25101686, u'washbasin', 0.12974894, u'prayer_rug', 0.080518782]
+[u'panpipe', 0.17517573, u'space_shuttle', 0.10837206, u'theater_curtain', 0.07771863]
+[u'coil', 0.29713494, u'organ', 0.2529406, u'solar_dish', 0.055621408]
+[u'jigsaw_puzzle', 0.85201931, u'screen', 0.047911577, u'monitor', 0.018955894]

@@ -1,0 +1,3 @@
+[u'Old_English_sheepdog', 0.69266891, u'submarine', 0.032116257, u'airship', 0.016486773]
+[u'coil', 0.26625353, u'organ', 0.16159877, u'bannister', 0.060066942]
+[u'brass', 0.69314641, u'perfume', 0.036182236, u'mailbox', 0.032086086]

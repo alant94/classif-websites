@@ -1,0 +1,6 @@
+[u'cup', 0.12331337, u'espresso', 0.065050066, u'coffee_mug', 0.060145985, u'wok', 0.048648629, u'teapot', 0.044933904]
+[u'mortarboard', 0.080865733, u'bonnet', 0.074529015, u'suit', 0.065897666, u'Band_Aid', 0.055577781, u'ice_lolly', 0.041989353]
+[u'cinema', 0.1339992, u'spotlight', 0.083914272, u'suspension_bridge', 0.063694157, u'crane', 0.045302041, u'planetarium', 0.042425547]
+[u'cannon', 0.32193577, u'spotlight', 0.10173212, u'shield', 0.059160918, u'barrel', 0.050105374, u'car_wheel', 0.028350525]
+[u'volcano', 0.48434564, u'beacon', 0.03276445, u'balloon', 0.030683676, u'radio_telescope', 0.024676031, u'seashore', 0.017529219]
+[u'stage', 0.29052627, u'volcano', 0.2748906, u'feather_boa', 0.044656228, u'space_shuttle', 0.030679442, u'cornet', 0.029234715]

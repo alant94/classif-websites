@@ -1,0 +1,3 @@
+[u'tripod', 0.48243806, u'horizontal_bar', 0.047945924, u'caldron', 0.038085129]
+[u'gazelle', 0.87759393, u'impala', 0.10383447, u'hartebeest', 0.009194281]
+[u'gazelle', 0.80709499, u'impala', 0.12402347, u'hartebeest', 0.056173287]

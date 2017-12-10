@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.4566187, u'web_site', 0.049931351, u'book_jacket', 0.041317713]
+[u'sombrero', 0.76268059, u'cowboy_hat', 0.082949452, u'hair_slide', 0.02434529]
+[u'book_jacket', 0.26278451, u'web_site', 0.21048319, u'jersey', 0.09288308]
+[u'harp', 0.36075759, u'accordion', 0.14515568, u'banjo', 0.097018011]
+[u'toilet_tissue', 0.46271324, u'iron', 0.26518884, u'paper_towel', 0.039144795]
+[u'envelope', 0.16811886, u'analog_clock', 0.075473763, u'digital_clock', 0.035344135]

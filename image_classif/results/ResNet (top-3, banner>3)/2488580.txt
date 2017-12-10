@@ -1,0 +1,5 @@
+[u'ibex', 0.077947617, u'half_track', 0.047827043, u'bighorn', 0.044602141]
+[u'bow', 0.39584485, u'tusker', 0.11621203, u'warthog', 0.093913049]
+[u'bighorn', 0.30057099, u'ox', 0.26903188, u'ibex', 0.16525078]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hartebeest', 0.7301802, u'ibex', 0.16625513, u'impala', 0.063010782]

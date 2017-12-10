@@ -1,0 +1,6 @@
+[u'cinema', 0.15999146, u'picket_fence', 0.077540033, u'street_sign', 0.077451266, u'traffic_light', 0.060427524, u'analog_clock', 0.043252334]
+[u'restaurant', 0.44617337, u'vestment', 0.094040148, u'vault', 0.034882404, u'umbrella', 0.03375506, u'academic_gown', 0.030899117]
+[u'park_bench', 0.17814118, u'gong', 0.13288189, u'brass', 0.11949276, u'chime', 0.11679631, u'church', 0.067813016]
+[u'traffic_light', 0.16582283, u'bell_cote', 0.063767269, u'parachute', 0.051216409, u'beacon', 0.045525413, u'crane', 0.04182652]
+[u'bell_cote', 0.31353074, u'church', 0.25251955, u'cinema', 0.086463615, u'library', 0.035616655, u'flagpole', 0.035046116]
+[u'mobile_home', 0.72736627, u'boathouse', 0.051140577, u'water_tower', 0.031822421, u'barn', 0.025986714, u'beacon', 0.020038716]

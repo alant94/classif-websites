@@ -1,0 +1,5 @@
+[u'missile', 0.224865, u'projectile', 0.17363532, u'cannon', 0.17123982, u'solar_dish', 0.056685887, u'crane', 0.039840166]
+[u'pirate', 0.27847794, u'crane', 0.27022842, u'drilling_platform', 0.21821284, u'solar_dish', 0.057356678, u'wreck', 0.046476193]
+[u'volcano', 0.48769173, u'snowplow', 0.15806554, u'fountain', 0.049757171, u'fire_engine', 0.032181852, u'torch', 0.023844365]
+[u'corn', 0.3808853, u'ear', 0.18049613, u'pot', 0.018568655, u'golf_ball', 0.017242206, u'hay', 0.014853409]
+[u'submarine', 0.28750232, u'liner', 0.086379685, u'dam', 0.077477597, u'prison', 0.074468128, u'coil', 0.060129426]

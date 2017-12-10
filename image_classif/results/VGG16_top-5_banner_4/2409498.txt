@@ -1,0 +1,6 @@
+[u'lighter', 0.33381602, u'digital_watch', 0.15419364, u'tray', 0.044858485, u'buckle', 0.043310277, u'perfume', 0.03771783]
+[u'envelope', 0.51716632, u'web_site', 0.12551068, u'analog_clock', 0.047932189, u'matchstick', 0.027282562, u'stupa', 0.021653142]
+[u'pop_bottle', 0.28694826, u'vending_machine', 0.1075102, u'grocery_store', 0.10021751, u'beer_bottle', 0.049244132, u'confectionery', 0.045392178]
+[u'matchstick', 0.10968054, u'envelope', 0.10860072, u'wall_clock', 0.067922689, u'maze', 0.05614385, u'digital_clock', 0.050613333]
+[u'street_sign', 0.062445793, u'lighter', 0.056143414, u'Band_Aid', 0.042015664, u'modem', 0.032719366, u'rubber_eraser', 0.03224374]
+[u'picket_fence', 0.62180257, u'church', 0.11666901, u'flagpole', 0.029934218, u'worm_fence', 0.022704, u'cinema', 0.01149206]

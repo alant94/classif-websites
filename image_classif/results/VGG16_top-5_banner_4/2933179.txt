@@ -1,0 +1,1 @@
+[u'library', 0.10735361, u'sliding_door', 0.096670747, u'prison', 0.092612498, u'bannister', 0.073825255, u'shower_curtain', 0.06016814]

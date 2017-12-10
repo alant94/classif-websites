@@ -1,0 +1,2 @@
+[u'web_site', 0.18607101, u'iron', 0.077612296, u'folding_chair', 0.058545679]
+[u'television', 0.13016519, u'ballplayer', 0.12671994, u'balance_beam', 0.12413214]

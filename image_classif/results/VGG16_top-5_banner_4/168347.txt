@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.7194733, u'clog', 0.088055126, u'sandal', 0.033796288, u'running_shoe', 0.027284294, u'soccer_ball', 0.021354688]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]

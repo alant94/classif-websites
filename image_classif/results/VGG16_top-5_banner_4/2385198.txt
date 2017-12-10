@@ -1,0 +1,2 @@
+[u'barrel', 0.99968922, u'rain_barrel', 8.9157627e-05, u'lumbermill', 2.687065e-05, u'forklift', 2.2413336e-05, u'drum', 1.4986665e-05]
+[u'sliding_door', 0.086897328, u'medicine_chest', 0.08509472, u'refrigerator', 0.081896476, u'wardrobe', 0.045687288, u'screwdriver', 0.031058853]

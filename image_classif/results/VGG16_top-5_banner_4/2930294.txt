@@ -1,0 +1,1 @@
+[u'lab_coat', 0.28323606, u'suit', 0.20308734, u'coho', 0.098140158, u'academic_gown', 0.063072667, u'Windsor_tie', 0.047498249]

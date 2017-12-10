@@ -1,0 +1,6 @@
+[u'wine_bottle', 0.28303018, u'pay-phone', 0.12870584, u'beer_bottle', 0.12455104]
+[u'plate_rack', 0.2230323, u'window_shade', 0.097319052, u'quill', 0.09670224]
+[u'alp', 0.16773754, u'valley', 0.15441982, u'cliff', 0.067751251]
+[u'valley', 0.2162192, u'hay', 0.15431947, u'volcano', 0.1435201]
+[u'castle', 0.74917865, u'patio', 0.073903061, u'church', 0.066231944]
+[u'castle', 0.83759952, u'monastery', 0.076856919, u'church', 0.026027709]

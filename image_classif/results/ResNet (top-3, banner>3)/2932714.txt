@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.65088415, u'washbasin', 0.027706413, u'soap_dispenser', 0.021632636]
+[u'Windsor_tie', 0.37434101, u'bow_tie', 0.082628481, u'gar', 0.03174061]
+[u'crossword_puzzle', 0.85625327, u'digital_watch', 0.041327372, u'digital_clock', 0.032342315]
+[u'web_site', 0.28923044, u'book_jacket', 0.048777465, u'envelope', 0.043370441]

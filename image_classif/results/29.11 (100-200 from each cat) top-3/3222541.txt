@@ -1,0 +1,4 @@
+[u'church', 0.86771679, u'monastery', 0.040949885, u'bell_cote', 0.028225267]
+[u'picket_fence', 0.20279001, u'bicycle-built-for-two', 0.048223037, u'kimono', 0.037615586]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'bow', 0.14335504, u'hook', 0.085594796, u'analog_clock', 0.079682522]

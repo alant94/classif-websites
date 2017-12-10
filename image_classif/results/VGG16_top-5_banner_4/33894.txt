@@ -1,0 +1,2 @@
+[u'stole', 0.15108868, u'pajama', 0.080293812, u'hair_spray', 0.068959765, u'Christmas_stocking', 0.04821977, u'poncho', 0.042822424]
+[u'ski_mask', 0.55860096, u'mask', 0.15133771, u'traffic_light', 0.031849939, u'book_jacket', 0.028352017, u'balloon', 0.016643401]

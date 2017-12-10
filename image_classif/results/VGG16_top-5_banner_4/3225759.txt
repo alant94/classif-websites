@@ -1,0 +1,5 @@
+[u'chain', 0.18107225, u'lampshade', 0.17097533, u'spider_web', 0.11685486, u'chime', 0.078708634, u'necklace', 0.056448177]
+[u'shower_cap', 0.11973084, u'kimono', 0.10662825, u'jean', 0.067331932, u'stole', 0.030631702, u'bonnet', 0.028832711]
+[u'book_jacket', 0.46605226, u'television', 0.1958546, u'cash_machine', 0.092946731, u'screen', 0.080689617, u'window_screen', 0.046399649]
+[u'book_jacket', 0.1435546, u'binder', 0.079789303, u'packet', 0.070515081, u'lotion', 0.061480887, u'vending_machine', 0.046892002]
+[u'pill_bottle', 0.51581031, u'microphone', 0.071445934, u'hand_blower', 0.041243948, u'piggy_bank', 0.025917098, u'remote_control', 0.020467767]

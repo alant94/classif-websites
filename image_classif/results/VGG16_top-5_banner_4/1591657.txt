@@ -1,0 +1,2 @@
+[u'tusker', 0.12480015, u'bikini', 0.10426379, u'swimming_trunks', 0.074438326, u'proboscis_monkey', 0.056388799, u'macaque', 0.053367302]
+[u'lumbermill', 0.52004957, u'snowplow', 0.14032336, u'forklift', 0.075037375, u'dam', 0.06620907, u'patio', 0.02411747]

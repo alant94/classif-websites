@@ -1,0 +1,8 @@
+[u'bell_cote', 0.20849583, u'spotlight', 0.12527233, u'lampshade', 0.11377657, u'traffic_light', 0.091230951, u'stupa', 0.06910836]
+[u'bell_cote', 0.57465369, u'stupa', 0.058071293, u'matchstick', 0.046223033, u'panpipe', 0.036303058, u'traffic_light', 0.029463386]
+[u'shield', 0.56019187, u'book_jacket', 0.083389692, u'theater_curtain', 0.071496561, u'beer_bottle', 0.029496241, u'barrel', 0.021025244]
+[u'shield', 0.54732829, u'bib', 0.23180223, u'tray', 0.047973108, u'wall_clock', 0.03593016, u'mailbag', 0.017997226]
+[u'envelope', 0.35542226, u'handkerchief', 0.12576784, u'tray', 0.049096026, u'abacus', 0.031964261, u'lampshade', 0.027927957]
+[u'bell_cote', 0.27331597, u'panpipe', 0.17708628, u'balloon', 0.063385203, u'matchstick', 0.04672702, u'wall_clock', 0.038478848]
+[u'beer_bottle', 0.98632598, u'beer_glass', 0.0053052483, u'refrigerator', 0.0026210938, u'hamper', 0.0013642584, u'wine_bottle', 0.001305178]
+[u'bell_cote', 0.28691348, u'stupa', 0.28485152, u'panpipe', 0.12266357, u'matchstick', 0.054915443, u'balloon', 0.018439932]

@@ -1,0 +1,5 @@
+[u'comic_book', 0.63823891, u'book_jacket', 0.15702443, u'web_site', 0.13735102]
+[u'mask', 0.67679465, u'ski_mask', 0.30343071, u'abaya', 0.010139119]
+[u'comic_book', 0.56438112, u'book_jacket', 0.13590564, u'web_site', 0.062462535]
+[u'comic_book', 0.93071938, u'book_jacket', 0.038270902, u'electric_guitar', 0.0050798347]
+[u'comic_book', 0.50407147, u'book_jacket', 0.11792018, u'web_site', 0.074333847]

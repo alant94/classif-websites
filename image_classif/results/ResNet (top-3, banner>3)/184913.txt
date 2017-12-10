@@ -1,0 +1,3 @@
+[u'web_site', 0.15635686, u'spotlight', 0.049767978, u'washer', 0.038048871]
+[u'crossword_puzzle', 0.97721511, u'container_ship', 0.014729735, u'flagpole', 0.0010902132]
+[u'comic_book', 0.32021788, u'menu', 0.151657, u'book_jacket', 0.13033254]

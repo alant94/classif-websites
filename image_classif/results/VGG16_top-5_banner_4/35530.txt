@@ -1,0 +1,3 @@
+[u'traffic_light', 0.56135917, u'envelope', 0.068195648, u'street_sign', 0.034129556, u'binder', 0.025584344, u'hook', 0.021360787]
+[u'quill', 0.52065498, u'web_site', 0.34248051, u'nematode', 0.013454234, u'envelope', 0.011013781, u'rule', 0.0096167661]
+[u'envelope', 0.069573037, u'web_site', 0.037204318, u'notebook', 0.026480548, u'hook', 0.022643467, u'remote_control', 0.018950557]

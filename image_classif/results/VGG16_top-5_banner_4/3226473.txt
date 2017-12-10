@@ -1,0 +1,5 @@
+[u'street_sign', 0.084859602, u'pole', 0.054536358, u'flagpole', 0.047466356, u'parachute', 0.046559155, u'crane', 0.040793039]
+[u'prayer_rug', 0.52318454, u'book_jacket', 0.23474386, u'throne', 0.04930979, u'envelope', 0.039740771, u'packet', 0.027609261]
+[u'street_sign', 0.090011008, u'traffic_light', 0.07130789, u'digital_clock', 0.033356905, u'hook', 0.029516935, u'envelope', 0.027553979]
+[u'envelope', 0.053106971, u'flagpole', 0.04074803, u'street_sign', 0.037906077, u'parachute', 0.037094694, u'hook', 0.036956348]
+[u'flagpole', 0.044428781, u'binder', 0.044087112, u'envelope', 0.041777637, u'web_site', 0.040039077, u'parachute', 0.036107615]

@@ -1,0 +1,5 @@
+[u'web_site', 0.084905542, u'nail', 0.044955567, u'screwdriver', 0.04193604, u'safety_pin', 0.036433481, u'screw', 0.033498093]
+[u'matchstick', 0.11621149, u'jersey', 0.049531009, u'picket_fence', 0.030843075, u'flagpole', 0.022127528, u'maillot', 0.021259662]
+[u'acoustic_guitar', 0.731821, u'electric_guitar', 0.14416362, u'pick', 0.046791513, u'banjo', 0.041599657, u'stage', 0.013668226]
+[u'kimono', 0.21594313, u'groom', 0.10221524, u'poncho', 0.077015765, u'maypole', 0.042390034, u'sarong', 0.039998543]
+[u'wall_clock', 0.14736633, u'analog_clock', 0.070834629, u'shield', 0.06257645, u'gong', 0.053399708, u'maze', 0.0398525]

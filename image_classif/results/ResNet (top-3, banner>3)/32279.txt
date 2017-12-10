@@ -1,0 +1,1 @@
+[u'bow_tie', 0.086824194, u'ping-pong_ball', 0.051357862, u'military_uniform', 0.049528431]

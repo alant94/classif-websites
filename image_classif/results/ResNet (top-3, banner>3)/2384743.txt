@@ -1,0 +1,2 @@
+[u'loupe', 0.2197686, u'seat_belt', 0.13502634, u'sunglass', 0.12550241]
+[u'stone_wall', 0.95883977, u'megalith', 0.037551906, u'worm_fence', 0.0014480124]

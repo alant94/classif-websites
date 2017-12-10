@@ -1,0 +1,5 @@
+[u'book_jacket', 0.9729892, u'comic_book', 0.02611937, u'web_site', 0.00022108843, u'kite', 0.00016430306, u'bald_eagle', 5.3378793e-05]
+[u'kite', 0.96637636, u'leafhopper', 0.0089390799, u'hummingbird', 0.0075560426, u'frilled_lizard', 0.0040214048, u'bittern', 0.0021502355]
+[u'redshank', 0.26984271, u'red-backed_sandpiper', 0.17371686, u'kite', 0.11356962, u'dowitcher', 0.092703611, u'jay', 0.034068789]
+[u'prairie_chicken', 0.13362981, u'American_egret', 0.12030566, u'bald_eagle', 0.090991884, u'limpkin', 0.082822271, u'kite', 0.076818936]
+[u'bell_cote', 0.22130275, u'table_lamp', 0.084188521, u'torch', 0.081047207, u'chime', 0.077947386, u'lampshade', 0.06906803]

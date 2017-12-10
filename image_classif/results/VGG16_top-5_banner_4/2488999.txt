@@ -1,0 +1,5 @@
+[u'valley', 0.36181244, u'geyser', 0.076043986, u'lakeside', 0.049717505, u'promontory', 0.040049274, u'cliff', 0.038703512]
+[u'stone_wall', 0.11420877, u'doormat', 0.090577431, u'brass', 0.087008834, u'jackfruit', 0.082709476, u'megalith', 0.055603184]
+[u'gazelle', 0.39148766, u'ostrich', 0.20983982, u'impala', 0.10486633, u'ox', 0.088727467, u'llama', 0.063310288]
+[u'web_site', 0.69002002, u'cliff', 0.1610018, u'book_jacket', 0.048748218, u'rapeseed', 0.01222776, u'valley', 0.010479164]
+[u'valley', 0.64219046, u'cliff', 0.19223703, u'alp', 0.078571655, u'promontory', 0.050901514, u'lakeside', 0.01196779]

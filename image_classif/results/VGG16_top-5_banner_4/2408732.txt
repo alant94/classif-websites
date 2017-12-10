@@ -1,0 +1,8 @@
+[u'hair_slide', 0.2492459, u'wall_clock', 0.11572134, u'nail', 0.09431085, u'screw', 0.084296651, u'matchstick', 0.073762923]
+[u'jean', 0.10546858, u'quill', 0.083097845, u'ski', 0.050928392, u'stole', 0.047525857, u'wardrobe', 0.032972891]
+[u'paintbrush', 0.057019241, u'stethoscope', 0.044336535, u'jigsaw_puzzle', 0.036043439, u'Band_Aid', 0.02880409, u'ocarina', 0.02858036]
+[u'candle', 0.24071462, u'tricycle', 0.23020685, u'bucket', 0.14393178, u'cup', 0.067441128, u'diaper', 0.017240644]
+[u'envelope', 0.32221192, u'web_site', 0.31984839, u'menu', 0.022407914, u'analog_clock', 0.016460922, u'whistle', 0.016454298]
+[u'sarong', 0.11979256, u'sandal', 0.076023176, u'wig', 0.061828688, u'stole', 0.057213362, u'knot', 0.045117948]
+[u'stole', 0.3606846, u'sarong', 0.17895961, u'velvet', 0.091747895, u'wool', 0.047057196, u'wig', 0.03145887]
+[u'stole', 0.30103034, u'sarong', 0.24357101, u'kimono', 0.046315931, u'wardrobe', 0.044565052, u'abaya', 0.043677501]

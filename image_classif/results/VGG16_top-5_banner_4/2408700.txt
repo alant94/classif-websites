@@ -1,0 +1,1 @@
+[u'coffee_mug', 0.19438016, u'beer_glass', 0.071285367, u'comic_book', 0.041536316, u'street_sign', 0.035302486, u'lighter', 0.029025311]

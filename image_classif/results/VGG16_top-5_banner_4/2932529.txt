@@ -1,0 +1,4 @@
+[u'wall_clock', 0.14428452, u'digital_clock', 0.099565379, u'analog_clock', 0.0922684, u'matchstick', 0.053577766, u'bottlecap', 0.046805263]
+[u'perfume', 0.16411498, u'screwdriver', 0.04783389, u'shopping_basket', 0.029638078, u'toaster', 0.028030893, u'combination_lock', 0.026481865]
+[u'street_sign', 0.56011045, u'traffic_light', 0.065310255, u'digital_clock', 0.055552088, u'laptop', 0.041655105, u'rubber_eraser', 0.031739287]
+[u'lab_coat', 0.85164565, u'pajama', 0.058073834, u'stethoscope', 0.057710942, u'kimono', 0.017156675, u'trench_coat', 0.0017406994]

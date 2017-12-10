@@ -1,0 +1,1 @@
+[u'web_site', 0.19078369, u'book_jacket', 0.11681814, u'sunglass', 0.066294678, u'viaduct', 0.033184297, u'sunglasses', 0.029445114]

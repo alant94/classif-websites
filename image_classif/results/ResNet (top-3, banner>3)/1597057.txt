@@ -1,0 +1,5 @@
+[u'bathing_cap', 0.27766842, u'knee_pad', 0.21061943, u'bearskin', 0.083273083]
+[u'harmonica', 0.69149166, u'Band_Aid', 0.035252437, u'crossword_puzzle', 0.026115891]
+[u'swimming_trunks', 0.17672585, u'bathtub', 0.098733515, u'bathing_cap', 0.063131653]
+[u'dumbbell', 0.067611314, u'oxygen_mask', 0.062800162, u'loupe', 0.059262123]
+[u'face_powder', 0.68554527, u'gong', 0.051873393, u'drum', 0.043745019]

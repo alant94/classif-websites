@@ -1,0 +1,2 @@
+[u'web_site', 0.41157266, u'jersey', 0.089725241, u'abaya', 0.060384575]
+[u'seashore', 0.47647104, u'sandbar', 0.3709709, u'promontory', 0.056311693]

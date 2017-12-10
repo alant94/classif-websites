@@ -1,0 +1,2 @@
+[u'gazelle', 0.36332452, u'ibex', 0.096447393, u'hare', 0.069221973, u'hartebeest', 0.053269099, u'triceratops', 0.049732469]
+[u'buckle', 0.25747445, u'comic_book', 0.10969768, u"jack-o'-lantern", 0.061468661, u'mask', 0.056796435, u'book_jacket', 0.053184517]

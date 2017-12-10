@@ -1,0 +1,1 @@
+[u'cleaver', 0.017509099, u'envelope', 0.01577506, u'can_opener', 0.011306672, u'corkscrew', 0.010474719, u'face_powder', 0.010269442]

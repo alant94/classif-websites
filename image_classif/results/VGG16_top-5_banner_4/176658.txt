@@ -1,0 +1,3 @@
+[u'unicycle', 0.078628421, u'bicycle-built-for-two', 0.067054123, u'barrow', 0.051057279, u'Dutch_oven', 0.039711665, u'sarong', 0.035822392]
+[u'web_site', 0.46636224, u'spotlight', 0.046426702, u'rubber_eraser', 0.044719737, u'envelope', 0.033088204, u'whistle', 0.020086415]
+[u'buckle', 0.38399148, u'plate_rack', 0.06306763, u'safety_pin', 0.052001979, u'combination_lock', 0.039823476, u'switch', 0.035342496]

@@ -1,0 +1,6 @@
+[u'harp', 0.64551365, u'carousel', 0.15037991, u'bow', 0.046020661, u'butcher_shop', 0.015113076, u'gong', 0.012862337]
+[u'whistle', 0.23289095, u'knot', 0.06505736, u'stethoscope', 0.058254614, u'microphone', 0.053340439, u'hand_blower', 0.035791941]
+[u'sandal', 0.15680675, u'miniskirt', 0.065521404, u'sarong', 0.048682529, u'clog', 0.036042944, u'swimming_trunks', 0.026344433]
+[u'sandal', 0.15687346, u'clog', 0.14538881, u'pencil_sharpener', 0.095135458, u'crash_helmet', 0.09044908, u'fountain_pen', 0.041762508]
+[u'dock', 0.21490382, u'pier', 0.090989143, u'boathouse', 0.07056468, u'paddlewheel', 0.065144047, u'palace', 0.043158427]
+[u'envelope', 0.085357152, u'wall_clock', 0.052217707, u'maze', 0.051614642, u'street_sign', 0.047868401, u'digital_clock', 0.039140094]

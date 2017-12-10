@@ -1,0 +1,1 @@
+[u'rifle', 0.15699339, u'assault_rifle', 0.12239946, u'umbrella', 0.12152595, u'bow', 0.10467623, u'cannon', 0.052752733]

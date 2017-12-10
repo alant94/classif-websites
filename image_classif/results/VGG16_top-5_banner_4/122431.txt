@@ -1,0 +1,4 @@
+[u'comic_book', 0.50607622, u'toyshop', 0.25657728, u'carousel', 0.091090895, u'totem_pole', 0.0091822706, u'school_bus', 0.0078843758]
+[u'jigsaw_puzzle', 0.93161911, u'comic_book', 0.025697425, u'shower_curtain', 0.012069586, u'toyshop', 0.0092618419, u'tray', 0.0078546163]
+[u'apron', 0.20042011, u'bib', 0.07478372, u'safety_pin', 0.073946446, u'chime', 0.063953891, u'shower_curtain', 0.060700763]
+[u'comic_book', 0.35044339, u'book_jacket', 0.10249361, u'reel', 0.051070437, u'can_opener', 0.047824778, u'digital_watch', 0.043623783]

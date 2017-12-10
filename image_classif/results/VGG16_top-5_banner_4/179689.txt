@@ -1,0 +1,5 @@
+[u'buckle', 0.10824084, u'pick', 0.090705425, u'hair_slide', 0.086022109, u'velvet', 0.062368102, u'puck', 0.044046592]
+[u'Polaroid_camera', 0.89808172, u'safe', 0.017984061, u'washer', 0.016096182, u'projector', 0.012466096, u'loudspeaker', 0.010202963]
+[u'pick', 0.10129982, u'sunglass', 0.049176294, u'envelope', 0.033914316, u'hatchet', 0.033703804, u'electric_ray', 0.031919647]
+[u'scale', 0.16098803, u'tray', 0.1357913, u'lighter', 0.098129697, u'cellular_telephone', 0.092903525, u'switch', 0.078311212]
+[u'screwdriver', 0.24115562, u"carpenter's_kit", 0.2118956, u'toaster', 0.056189116, u'digital_clock', 0.051658794, u'power_drill', 0.030981831]

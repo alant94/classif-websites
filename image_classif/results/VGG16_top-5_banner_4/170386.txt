@@ -1,0 +1,4 @@
+[u'macaw', 0.16234069, u'pinwheel', 0.14624777, u'tray', 0.093648031, u'flagpole', 0.079108723, u'parachute', 0.042343426]
+[u'shoe_shop', 0.33077267, u'book_jacket', 0.15520193, u'toyshop', 0.033059053, u'jinrikisha', 0.024023969, u'monitor', 0.02183664]
+[u'streetcar', 0.14237002, u'triumphal_arch', 0.079260461, u'palace', 0.062244058, u'jinrikisha', 0.042298697, u'cab', 0.037799403]
+[u'electric_fan', 0.2989769, u'radio_telescope', 0.13792136, u'analog_clock', 0.12890723, u'magnetic_compass', 0.11749837, u'barometer', 0.074228227]

@@ -1,0 +1,4 @@
+[u'sarong', 0.74356431, u'umbrella', 0.090587609, u'poncho', 0.042739578, u'handkerchief', 0.013434671, u'vestment', 0.007291073]
+[u'cello', 0.27241337, u'electric_guitar', 0.058616329, u'acoustic_guitar', 0.03543504, u'harp', 0.031435035, u'violin', 0.025156459]
+[u'rock_beauty', 0.065045319, u'maypole', 0.064991221, u'mask', 0.053591177, u'feather_boa', 0.033026345, u'macaw', 0.03066461]
+[u'sarong', 0.20688672, u'gown', 0.16828869, u'jersey', 0.080742642, u'poncho', 0.06852062, u'theater_curtain', 0.050939482]

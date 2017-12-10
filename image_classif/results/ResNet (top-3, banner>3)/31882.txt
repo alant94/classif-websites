@@ -1,0 +1,2 @@
+[u'barracouta', 0.25332448, u'tench', 0.20665234, u'coho', 0.057131283]
+[u'wine_bottle', 0.38959286, u'beer_glass', 0.23041661, u'red_wine', 0.17688048]

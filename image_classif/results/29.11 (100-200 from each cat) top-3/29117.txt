@@ -1,0 +1,6 @@
+[u'rule', 0.27034581, u'nail', 0.2031047, u'paintbrush', 0.092955664]
+[u'speedboat', 0.97316587, u'submarine', 0.0050071455, u'trimaran', 0.0044360342]
+[u'nail', 0.16973877, u'screwdriver', 0.13118935, u'rule', 0.12505312]
+[u'web_site', 0.47170928, u'paddlewheel', 0.090194613, u'ski', 0.04465238]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'rugby_ball', 0.20197383, u'packet', 0.1360745, u'carton', 0.07463339]

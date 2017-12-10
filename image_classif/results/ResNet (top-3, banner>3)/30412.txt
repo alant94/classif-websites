@@ -1,0 +1,5 @@
+[u'lakeside', 0.36210287, u'barn', 0.060180642, u'church', 0.029653862]
+[u'web_site', 0.86862528, u'menu', 0.025658254, u'corn', 0.017528264]
+[u'cornet', 0.24410693, u'iron', 0.06560275, u'microphone', 0.042402156]
+[u'crossword_puzzle', 0.77765065, u'menu', 0.098384298, u'screw', 0.011056544]
+[u'streetcar', 0.4700107, u'web_site', 0.21941924, u'monitor', 0.071138598]

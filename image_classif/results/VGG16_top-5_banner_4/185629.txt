@@ -1,0 +1,4 @@
+[u'volleyball', 0.52377343, u'swimming_trunks', 0.10715085, u'maypole', 0.028784251, u'miniskirt', 0.027713332, u'crutch', 0.020948568]
+[u'space_shuttle', 0.36883703, u'forklift', 0.17868771, u'racer', 0.042687312, u'shopping_cart', 0.037226219, u'lumbermill', 0.037161574]
+[u'suit', 0.29911673, u'bow_tie', 0.14161366, u'groom', 0.11918995, u'limousine', 0.053037252, u'mortarboard', 0.049693156]
+[u'coffee_mug', 0.047491059, u'Band_Aid', 0.046020254, u'lighter', 0.038449693, u'hair_spray', 0.036356598, u'street_sign', 0.033822715]

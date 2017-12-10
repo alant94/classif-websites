@@ -1,0 +1,8 @@
+[u'cliff', 0.62238437, u'castle', 0.24021935, u'cliff_dwelling', 0.04555079, u'promontory', 0.032972205, u'monastery', 0.026224257]
+[u'king_penguin', 0.3180261, u'wine_bottle', 0.14280772, u'beer_bottle', 0.095204599, u'screwdriver', 0.069291361, u'rifle', 0.035387591]
+[u'traffic_light', 0.1233561, u'freight_car', 0.12157042, u'flagpole', 0.061608888, u'pole', 0.049104508, u'obelisk', 0.041671515]
+[u'puck', 0.43809322, u'face_powder', 0.27794287, u'bottlecap', 0.031844463, u'buckle', 0.031094257, u'tray', 0.018194653]
+[u'lakeside', 0.15947109, u'worm_fence', 0.065689899, u'freight_car', 0.056212194, u'dock', 0.052434769, u'palace', 0.048188418]
+[u'palace', 0.3702825, u'castle', 0.2201539, u'church', 0.15632777, u'monastery', 0.054061662, u'dam', 0.025573576]
+[u'shoe_shop', 0.4702239, u'wardrobe', 0.062905475, u'paintbrush', 0.040440172, u'stole', 0.038223591, u'wool', 0.027448811]
+[u'suit', 0.64864665, u'Windsor_tie', 0.11385227, u'oboe', 0.073880188, u'groom', 0.028221024, u'bassoon', 0.026470751]

@@ -1,0 +1,1 @@
+[u'drilling_platform', 0.42417818, u'space_shuttle', 0.13740589, u'fireboat', 0.11806128, u'seashore', 0.035869908, u'lakeside', 0.035821397]

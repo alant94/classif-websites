@@ -1,0 +1,4 @@
+[u'home_theater', 0.43255526, u'cinema', 0.15162413, u'restaurant', 0.077631541, u'table_lamp', 0.074877001, u'desk', 0.019351101]
+[u'home_theater', 0.39218181, u'cinema', 0.26636475, u'stage', 0.10087558, u'slot', 0.049153596, u'theater_curtain', 0.030826135]
+[u'lighter', 0.16782452, u'oil_filter', 0.15114604, u'space_heater', 0.10924759, u'screwdriver', 0.0465107, u'radiator', 0.034288757]
+[u'hair_slide', 0.26346445, u'rule', 0.15873817, u'rubber_eraser', 0.13124312, u'nail', 0.083439194, u'ski', 0.075456768]

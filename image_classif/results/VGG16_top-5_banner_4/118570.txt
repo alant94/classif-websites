@@ -1,0 +1,1 @@
+[u'barbershop', 0.20741172, u'balloon', 0.077147476, u'bakery', 0.052185364, u'book_jacket', 0.037121091, u'comic_book', 0.031582806]

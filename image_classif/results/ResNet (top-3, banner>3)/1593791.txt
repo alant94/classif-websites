@@ -1,0 +1,2 @@
+[u'oxygen_mask', 0.089710891, u'sunglass', 0.077799924, u'toilet_seat', 0.047122788]
+[u'crossword_puzzle', 0.12611447, u'typewriter_keyboard', 0.069566369, u'container_ship', 0.067995355]

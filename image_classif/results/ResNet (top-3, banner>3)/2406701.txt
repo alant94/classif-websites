@@ -1,0 +1,2 @@
+[u'velvet', 0.16565973, u'cloak', 0.14366847, u'kimono', 0.1295525]
+[u'web_site', 0.34318432, u'book_jacket', 0.237606, u'hoopskirt', 0.10402837]

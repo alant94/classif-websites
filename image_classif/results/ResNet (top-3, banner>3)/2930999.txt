@@ -1,0 +1,7 @@
+[u'suit', 0.21864173, u'abaya', 0.12156132, u'web_site', 0.075200185]
+[u'book_jacket', 0.075682946, u'web_site', 0.05890207, u'nematode', 0.054021843]
+[u'maillot', 0.29292718, u'apron', 0.11547036, u'maillot', 0.0741712]
+[u'web_site', 0.87199706, u'monitor', 0.021082416, u'book_jacket', 0.019490471]
+[u'crossword_puzzle', 0.74961787, u'picket_fence', 0.068596624, u'book_jacket', 0.025616009]
+[u'oxygen_mask', 0.47758645, u'Saint_Bernard', 0.056524616, u'Blenheim_spaniel', 0.041290492]
+[u'web_site', 0.94200319, u'refrigerator', 0.020934541, u'medicine_chest', 0.011771873]

@@ -1,0 +1,1 @@
+[u'scoreboard', 0.70575249, u'gas_pump', 0.097357854, u'street_sign', 0.094876446, u'digital_clock', 0.028293706, u'cash_machine', 0.012458471]

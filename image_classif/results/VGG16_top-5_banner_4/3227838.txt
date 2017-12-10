@@ -1,0 +1,4 @@
+[u'street_sign', 0.27454221, u'cash_machine', 0.077057205, u'scoreboard', 0.062440541, u'plunger', 0.045169402, u'traffic_light', 0.026580021]
+[u'volcano', 0.35375434, u'alp', 0.20838353, u'geyser', 0.090796366, u'lakeside', 0.077005714, u'fountain', 0.059524026]
+[u'artichoke', 0.5711723, u'wooden_spoon', 0.1357822, u'French_loaf', 0.035104338, u'coral_fungus', 0.024876693, u'ear', 0.024468174]
+[u'street_sign', 0.44167772, u'book_jacket', 0.12221798, u'traffic_light', 0.025164669, u'cash_machine', 0.013745124, u'microphone', 0.010837872]

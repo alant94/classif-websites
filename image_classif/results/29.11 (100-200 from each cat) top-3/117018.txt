@@ -1,0 +1,6 @@
+[u'web_site', 0.4198963, u'bannister', 0.077577956, u'stopwatch', 0.074010223]
+[u'digital_clock', 0.55355871, u'digital_watch', 0.071089827, u'book_jacket', 0.069054]
+[u'web_site', 0.91836959, u'bannister', 0.011334446, u'television', 0.0076361983]
+[u'scoreboard', 0.32773632, u'castle', 0.13329713, u'jigsaw_puzzle', 0.088880695]
+[u'window_shade', 0.42850947, u'file', 0.14785507, u'bookcase', 0.11869561]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]

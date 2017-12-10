@@ -1,0 +1,1 @@
+[u'switch', 0.22679929, u'cash_machine', 0.11169773, u'washer', 0.074906178, u'photocopier', 0.064365536, u'toilet_seat', 0.064004809]

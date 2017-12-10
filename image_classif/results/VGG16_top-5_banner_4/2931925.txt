@@ -1,0 +1,2 @@
+[u'bow_tie', 0.28918627, u'television', 0.19088142, u'neck_brace', 0.12274895, u'Windsor_tie', 0.042209242, u'wig', 0.031183366]
+[u'reel', 0.32059178, u'pencil_sharpener', 0.30516165, u'car_wheel', 0.20623435, u'spotlight', 0.02841574, u'projector', 0.022541126]

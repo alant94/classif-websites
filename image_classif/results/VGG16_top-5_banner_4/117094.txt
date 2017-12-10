@@ -1,0 +1,2 @@
+[u'plate_rack', 0.17317687, u'ski', 0.10709057, u'rocking_chair', 0.039665706, u'hook', 0.037718195, u'nail', 0.032305352]
+[u'slot', 0.23445217, u'scoreboard', 0.12618156, u'vending_machine', 0.070547931, u'cinema', 0.064740062, u'monitor', 0.060004923]

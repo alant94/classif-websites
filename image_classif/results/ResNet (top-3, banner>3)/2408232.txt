@@ -1,0 +1,2 @@
+[u'library', 0.70608002, u'container_ship', 0.11457995, u'bookcase', 0.05781449]
+[u'web_site', 0.37989593, u'cleaver', 0.05293519, u'envelope', 0.036489576]

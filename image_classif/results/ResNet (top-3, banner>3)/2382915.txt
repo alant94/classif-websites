@@ -1,0 +1,4 @@
+[u'lakeside', 0.31497008, u'park_bench', 0.19026482, u'picket_fence', 0.14391352]
+[u'clog', 0.026452888, u'toyshop', 0.023878658, u'jersey', 0.021746192]
+[u'restaurant', 0.59777927, u'dining_table', 0.37245676, u'patio', 0.012205807]
+[u'wine_bottle', 0.94625133, u'beer_bottle', 0.043811962, u'red_wine', 0.0055564414]

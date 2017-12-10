@@ -1,0 +1,1 @@
+[u'thatch', 0.31493655, u'boathouse', 0.21790004, u'barn', 0.075863376, u'mobile_home', 0.062164821, u'lakeside', 0.035859425]

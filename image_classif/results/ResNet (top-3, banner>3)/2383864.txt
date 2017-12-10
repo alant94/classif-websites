@@ -1,0 +1,6 @@
+[u'ashcan', 0.57172096, u'book_jacket', 0.27879164, u'mailbox', 0.033460565]
+[u'book_jacket', 0.32746485, u'analog_clock', 0.19334544, u'web_site', 0.092161693]
+[u'picket_fence', 0.50754476, u'zebra', 0.065125175, u'worm_fence', 0.042278256]
+[u'book_jacket', 0.15610798, u'barbershop', 0.089690171, u'scoreboard', 0.082108125]
+[u'picket_fence', 0.50792074, u'zebra', 0.066114046, u'worm_fence', 0.046937931]
+[u'radio_telescope', 0.36175224, u'suspension_bridge', 0.14208893, u'greenhouse', 0.092298515]

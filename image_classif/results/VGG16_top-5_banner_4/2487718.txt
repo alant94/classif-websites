@@ -1,0 +1,8 @@
+[u'street_sign', 0.18107748, u'Band_Aid', 0.17518507, u'packet', 0.087203003, u'barbershop', 0.059169158, u'envelope', 0.059066519]
+[u'swab', 0.54781246, u'macaw', 0.17016432, u'knot', 0.036589559, u'hook', 0.03647925, u'butcher_shop', 0.017980253]
+[u'analog_clock', 0.20192578, u'loupe', 0.11261049, u'lampshade', 0.081043951, u'spotlight', 0.07506185, u'dome', 0.052981451]
+[u'Indian_elephant', 0.5026294, u'tusker', 0.21495317, u'Arabian_camel', 0.087558649, u'hartebeest', 0.075629786, u'ox', 0.025061917]
+[u'matchstick', 0.14710057, u'picket_fence', 0.13176513, u'candle', 0.08208137, u'digital_clock', 0.057410248, u'traffic_light', 0.03843968]
+[u'ox', 0.84530556, u'hartebeest', 0.04319727, u'oxcart', 0.031485781, u'bison', 0.021188285, u'sorrel', 0.015962837]
+[u'comic_book', 0.33952743, u'book_jacket', 0.082260743, u'totem_pole', 0.070011444, u'shield', 0.057249401, u'mask', 0.038864136]
+[u'monitor', 0.14217696, u'vending_machine', 0.10116808, u'web_site', 0.091635711, u'picket_fence', 0.050716225, u'prison', 0.034352921]

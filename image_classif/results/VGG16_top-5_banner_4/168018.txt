@@ -1,0 +1,2 @@
+[u'envelope', 0.27563068, u'web_site', 0.22371633, u'rule', 0.11718415, u'whistle', 0.012660421, u'crossword_puzzle', 0.010418117]
+[u'wooden_spoon', 0.091266707, u'coil', 0.064614244, u'bannister', 0.052020777, u'mortar', 0.039644618, u'rocking_chair', 0.038381208]

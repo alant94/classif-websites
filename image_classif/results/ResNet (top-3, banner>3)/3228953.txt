@@ -1,0 +1,8 @@
+[u'ballpoint', 0.329079, u'whistle', 0.10659938, u'screwdriver', 0.075296298]
+[u'poncho', 0.8156237, u'wardrobe', 0.098817848, u'umbrella', 0.010958483]
+[u'minibus', 0.30074826, u'bullet_train', 0.25229332, u'limousine', 0.089539334]
+[u'Windsor_tie', 0.17917463, u'academic_gown', 0.064735197, u'web_site', 0.039873298]
+[u'church', 0.99771607, u'window_screen', 0.001882911, u'organ', 0.00014842338]
+[u'suit', 0.15236241, u'bassoon', 0.10170647, u'bulletproof_vest', 0.10108326]
+[u'shower_curtain', 0.24697359, u'vestment', 0.081784464, u'apron', 0.044220783]
+[u'vestment', 0.42464998, u'altar', 0.21419515, u'wardrobe', 0.049797758]

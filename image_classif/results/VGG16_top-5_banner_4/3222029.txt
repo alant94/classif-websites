@@ -1,0 +1,2 @@
+[u'cleaver', 0.068483502, u'obelisk', 0.058168966, u'picket_fence', 0.041425526, u'envelope', 0.039855074, u'space_shuttle', 0.030023767]
+[u'gown', 0.71941113, u'pajama', 0.053843316, u'hoopskirt', 0.051727653, u'overskirt', 0.050719649, u'apron', 0.025881553]

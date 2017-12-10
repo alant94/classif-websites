@@ -1,0 +1,1 @@
+[u'crutch', 0.055417955, u'plunger', 0.046194822, u'drumstick', 0.038719673, u'screwdriver', 0.03127186, u'spatula', 0.028335579]

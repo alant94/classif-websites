@@ -1,0 +1,4 @@
+[u'abaya', 0.13073201, u'wig', 0.092276186, u'mask', 0.059298813, u'toyshop', 0.051709086, u'trench_coat', 0.045109663]
+[u'football_helmet', 1.0, u'crash_helmet', 2.0325229e-08, u'muzzle', 1.815648e-09, u'bobsled', 5.1191412e-10, u'go-kart', 2.1058781e-10]
+[u'football_helmet', 0.9460485, u'toyshop', 0.018116631, u'puck', 0.0043493225, u'basketball', 0.0042471085, u'ballplayer', 0.0041245497]
+[u'restaurant', 0.90548247, u'bakery', 0.027394673, u'confectionery', 0.02149724, u'library', 0.0089566149, u'grocery_store', 0.0076608239]

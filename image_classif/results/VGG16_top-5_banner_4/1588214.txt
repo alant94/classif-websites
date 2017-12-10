@@ -1,0 +1,2 @@
+[u'bikini', 0.34471342, u'swimming_trunks', 0.25711793, u'bathing_cap', 0.1706854, u'sunscreen', 0.062617332, u'maillot', 0.057205882]
+[u'bath_towel', 0.15870588, u'seat_belt', 0.062253807, u'Band_Aid', 0.062149819, u'sweatshirt', 0.035144869, u'shower_cap', 0.025922615]

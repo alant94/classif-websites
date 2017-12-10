@@ -1,0 +1,3 @@
+[u'desktop_computer', 0.15659636, u'web_site', 0.15107642, u'iron', 0.061184634, u'airship', 0.059762165, u'radio_telescope', 0.051808108]
+[u'web_site', 0.80006951, u'monitor', 0.1553608, u'notebook', 0.010229443, u'screen', 0.010213846, u'television', 0.0096014747]
+[u'traffic_light', 0.31845719, u"jack-o'-lantern", 0.22282328, u'buckeye', 0.13528751, u'orange', 0.13445699, u'pomegranate', 0.075458288]

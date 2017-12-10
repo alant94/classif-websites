@@ -1,0 +1,8 @@
+[u'web_site', 0.51658326, u'book_jacket', 0.2407583, u'comic_book', 0.045012377]
+[u'restaurant', 0.47218907, u'cinema', 0.11502571, u'dining_table', 0.044832658]
+[u'web_site', 0.37720942, u'comic_book', 0.27026209, u'envelope', 0.020184722]
+[u'monitor', 0.31957498, u'television', 0.26948383, u'web_site', 0.20909427]
+[u'vault', 0.63355386, u'altar', 0.076226003, u'church', 0.059205879]
+[u'web_site', 0.35842159, u'monitor', 0.051678706, u'desktop_computer', 0.047163349]
+[u'tripod', 0.62880862, u'sax', 0.10010318, u'web_site', 0.098630019]
+[u'lampshade', 0.83836097, u'table_lamp', 0.054646313, u'window_shade', 0.047375005]

@@ -1,0 +1,7 @@
+[u'pot', 0.20707487, u'upright', 0.081201337, u'file', 0.077832684]
+[u'medicine_chest', 0.14151257, u'screen', 0.13076346, u'window_screen', 0.059997734]
+[u'grand_piano', 0.38204184, u'dining_table', 0.15868278, u'pot', 0.050319105]
+[u'pot', 0.90276927, u'vase', 0.048695568, u'altar', 0.0071824114]
+[u'book_jacket', 0.10193851, u'pot', 0.073171005, u'vase', 0.061167069]
+[u'pot', 0.97692198, u'vase', 0.0099158157, u'pineapple', 0.001947647]
+[u'pineapple', 0.59820604, u'corn', 0.19260384, u'ear', 0.095030814]

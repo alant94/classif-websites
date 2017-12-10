@@ -1,0 +1,5 @@
+[u'pelican', 0.38766304, u'spoonbill', 0.15458836, u'vulture', 0.032341149, u'fur_coat', 0.028064812, u'American_egret', 0.025488842]
+[u'hen-of-the-woods', 0.10580568, u'ant', 0.078122087, u'bighorn', 0.047156308, u'apiary', 0.045774993, u'conch', 0.045134135]
+[u'coral_fungus', 0.17717578, u'coral_reef', 0.13426164, u'picket_fence', 0.072823897, u'lionfish', 0.034262683, u'sea_anemone', 0.029508971]
+[u'fountain', 0.47997805, u'book_jacket', 0.031675577, u'picket_fence', 0.027999982, u'ski', 0.024395352, u'comic_book', 0.014419638]
+[u'fountain', 0.26998904, u'butcher_shop', 0.040736426, u'shower_curtain', 0.035523571, u'book_jacket', 0.026978994, u'hook', 0.025336215]

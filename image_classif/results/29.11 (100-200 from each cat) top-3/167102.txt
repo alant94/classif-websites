@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.76146543, u'candle', 0.14096378, u'screw', 0.020333415]
+[u'bow', 0.20942532, u'velvet', 0.094874024, u'panpipe', 0.069391303]

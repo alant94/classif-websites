@@ -1,0 +1,6 @@
+[u'web_site', 0.38335353, u'digital_clock', 0.018849241, u'nematode', 0.017304748]
+[u'lampshade', 0.35493061, u'table_lamp', 0.22120664, u'comic_book', 0.15224986]
+[u'web_site', 0.20065033, u'menu', 0.14444441, u'slide_rule', 0.088218942]
+[u'vestment', 0.6524657, u'kimono', 0.09655945, u'paintbrush', 0.06571959]
+[u'vestment', 0.98187411, u'groom', 0.0054351906, u'abaya', 0.0020048316]
+[u'butcher_shop', 0.63693422, u'vestment', 0.19463931, u'cleaver', 0.052607697]

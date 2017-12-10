@@ -1,0 +1,8 @@
+[u'goldfinch', 0.15930107, u'indigo_bunting', 0.06963212, u'ear', 0.061526511, u'bee', 0.040766627, u'banana', 0.029167913]
+[u'patio', 0.4882921, u'worm_fence', 0.089622639, u'rain_barrel', 0.075567052, u'picket_fence', 0.0666437, u'boathouse', 0.039774511]
+[u'file', 0.33685848, u'mailbox', 0.11216088, u'web_site', 0.069802158, u'envelope', 0.04893985, u'book_jacket', 0.035525434]
+[u'picket_fence', 0.31474563, u'mobile_home', 0.19266804, u'worm_fence', 0.15431829, u'boathouse', 0.14866851, u'barn', 0.060496025]
+[u'web_site', 0.37760726, u'book_jacket', 0.16076095, u'comic_book', 0.05246073, u'envelope', 0.035032459, u'wardrobe', 0.022320181]
+[u'ballpoint', 0.41443506, u'lipstick', 0.049591187, u'fountain_pen', 0.03685322, u'measuring_cup', 0.02823844, u'syringe', 0.023816928]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'totem_pole', 0.14274289, u'altar', 0.081188187, u'academic_gown', 0.035599958, u'mortarboard', 0.030501936, u'picket_fence', 0.029943885]

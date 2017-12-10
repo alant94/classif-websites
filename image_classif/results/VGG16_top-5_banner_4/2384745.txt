@@ -1,0 +1,8 @@
+[u'wine_bottle', 0.99512392, u'red_wine', 0.0035601852, u'beer_bottle', 0.00065628457, u'hamper', 0.00040287263, u'paintbrush', 6.3500825e-05]
+[u'wall_clock', 0.18677627, u'traffic_light', 0.11306588, u'street_sign', 0.084685385, u'wardrobe', 0.050424278, u'digital_clock', 0.044640791]
+[u'envelope', 0.1264948, u'Band_Aid', 0.12080467, u'book_jacket', 0.082397021, u'carton', 0.049365073, u'picket_fence', 0.04256798]
+[u'fountain', 0.13674653, u'matchstick', 0.12091051, u'jellyfish', 0.12015381, u'spider_web', 0.090878367, u'bubble', 0.071292587]
+[u'menu', 0.28248939, u'book_jacket', 0.18530701, u'envelope', 0.04619614, u'jersey', 0.038171962, u'comic_book', 0.016871171]
+[u'wine_bottle', 0.41014645, u'red_wine', 0.37346467, u'beer_glass', 0.053331479, u'goblet', 0.039578725, u'cocktail_shaker', 0.028393017]
+[u'bell_cote', 0.33876246, u'church', 0.19807233, u'coil', 0.052343085, u'stupa', 0.051343895, u'traffic_light', 0.048313785]
+[u'bull_mastiff', 0.055448327, u'hog', 0.05334603, u'swimming_trunks', 0.04777807, u'American_Staffordshire_terrier', 0.037255883, u'Labrador_retriever', 0.032439597]

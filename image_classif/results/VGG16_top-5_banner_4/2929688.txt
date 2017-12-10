@@ -1,0 +1,2 @@
+[u'harp', 0.19790825, u'panpipe', 0.13403778, u'bassoon', 0.11328091, u'folding_chair', 0.071803778, u'marimba', 0.06492959]
+[u'laptop', 0.079173386, u'desk', 0.058917236, u'folding_chair', 0.053511601, u'mosquito_net', 0.038947061, u'studio_couch', 0.035077788]

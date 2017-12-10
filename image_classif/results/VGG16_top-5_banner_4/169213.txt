@@ -1,0 +1,2 @@
+[u'web_site', 0.29218212, u'menu', 0.27883112, u'envelope', 0.12538058, u'binder', 0.065329269, u'book_jacket', 0.039823145]
+[u'web_site', 0.34754917, u'book_jacket', 0.084094234, u'triumphal_arch', 0.073453501, u'envelope', 0.072497249, u'seashore', 0.066175014]

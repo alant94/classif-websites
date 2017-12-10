@@ -1,0 +1,4 @@
+[u'buckeye', 0.78823549, u'fig', 0.12712841, u'pomegranate', 0.053669978]
+[u'gong', 0.16914643, u'bow', 0.15731578, u'hair_spray', 0.10379717]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'window_shade', 0.31373069, u'sliding_door', 0.19386075, u'home_theater', 0.15294971]

@@ -1,0 +1,1 @@
+[u'nipple', 0.16967581, u'candle', 0.14942525, u'lotion', 0.069041699, u'soap_dispenser', 0.066828288, u'perfume', 0.031609006]

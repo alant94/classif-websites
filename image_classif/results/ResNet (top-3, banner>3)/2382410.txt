@@ -1,0 +1,2 @@
+[u'sunglass', 0.56199634, u'sunglasses', 0.38534454, u'coho', 0.0049585025]
+[u'Dungeness_crab', 0.2117461, u'plate', 0.20856389, u'tray', 0.11202816]

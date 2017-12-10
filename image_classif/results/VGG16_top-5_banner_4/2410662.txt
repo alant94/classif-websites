@@ -1,0 +1,5 @@
+[u'hook', 0.13574719, u'safety_pin', 0.086790837, u'jersey', 0.069459617, u'envelope', 0.049734987, u'web_site', 0.04057524]
+[u'abaya', 0.28853664, u'prayer_rug', 0.14752027, u'throne', 0.12836821, u'vestment', 0.0782988, u'necklace', 0.045849383]
+[u'hook', 0.10343082, u'safety_pin', 0.060355354, u'jersey', 0.041707534, u'envelope', 0.035921924, u'web_site', 0.027063454]
+[u'safety_pin', 0.13775545, u'hook', 0.12294807, u'pretzel', 0.025881754, u'hair_slide', 0.025653698, u'fire_screen', 0.025331838]
+[u'hook', 0.38617608, u'safety_pin', 0.094897658, u'corkscrew', 0.025023589, u'chain', 0.022191606, u'hair_slide', 0.019096412]

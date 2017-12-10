@@ -1,0 +1,1 @@
+[u'street_sign', 0.40245837, u'scoreboard', 0.32688537, u'moving_van', 0.017517801, u'traffic_light', 0.013220267, u'brass', 0.013039526]

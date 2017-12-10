@@ -1,0 +1,2 @@
+[u'envelope', 0.1548875, u'digital_clock', 0.10453924, u'cash_machine', 0.10163133, u'wall_clock', 0.059992231, u'analog_clock', 0.056762166]
+[u'envelope', 0.51532358, u'web_site', 0.06155901, u'book_jacket', 0.025247533, u'cash_machine', 0.021175193, u'wall_clock', 0.018814964]

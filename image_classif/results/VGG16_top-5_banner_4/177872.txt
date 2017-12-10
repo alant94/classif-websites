@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.52539092, u'grocery_store', 0.054444276, u'sarong', 0.035193294, u'cleaver', 0.022717275, u'plastic_bag', 0.02220998]
+[u'lumbermill', 0.26477316, u'steam_locomotive', 0.22375993, u'tractor', 0.15236898, u'lawn_mower', 0.091280811, u'chain_saw', 0.045521282]
+[u'web_site', 0.16348681, u'comic_book', 0.040259808, u'academic_gown', 0.030304365, u'book_jacket', 0.024990806, u'Sussex_spaniel', 0.013674223]
+[u'lumbermill', 0.60537815, u'mountain_bike', 0.093500413, u'chain_saw', 0.088663988, u'harvester', 0.034508951, u'tractor', 0.016279971]
+[u'web_site', 0.87909645, u'book_jacket', 0.050754014, u'scoreboard', 0.032297816, u'comic_book', 0.029481433, u'ballplayer', 0.0013486356]

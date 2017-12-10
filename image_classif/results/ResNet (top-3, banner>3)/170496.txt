@@ -1,0 +1,1 @@
+[u'notebook', 0.1880181, u'laptop', 0.14788352, u'desktop_computer', 0.092966594]

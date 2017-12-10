@@ -1,0 +1,4 @@
+[u'alp', 0.31604749, u'valley', 0.14790234, u'rapeseed', 0.077453353]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'goblet', 0.70065171, u'hourglass', 0.06769304, u'red_wine', 0.064922631]
+[u'padlock', 0.29860333, u'abacus', 0.23572387, u'chain', 0.15739612]

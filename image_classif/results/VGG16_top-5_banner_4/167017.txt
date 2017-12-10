@@ -1,0 +1,2 @@
+[u'cinema', 0.93028027, u'barbershop', 0.015658131, u'bakery', 0.01284938, u'restaurant', 0.0075997966, u'street_sign', 0.0032268837]
+[u'web_site', 0.99934512, u'monitor', 0.00018026197, u'screen', 9.4306459e-05, u'envelope', 4.7310274e-05, u'analog_clock', 4.1062463e-05]

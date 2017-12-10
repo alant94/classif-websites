@@ -1,0 +1,6 @@
+[u'conch', 0.47221652, u'bikini', 0.35271689, u'maillot', 0.038718186]
+[u'brassiere', 0.6219002, u'maillot', 0.13080955, u'bikini', 0.093652233]
+[u'bikini', 0.17954817, u'butternut_squash', 0.15684114, u'bathtub', 0.089302182]
+[u'maillot', 0.36226082, u'maillot', 0.15838823, u'comic_book', 0.10312879]
+[u'bikini', 0.38145846, u'maillot', 0.28744116, u'maillot', 0.25334004]
+[u'Bedlington_terrier', 0.090880588, u'Weimaraner', 0.063297078, u'borzoi', 0.058051024]

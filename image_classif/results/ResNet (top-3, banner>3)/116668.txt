@@ -1,0 +1,2 @@
+[u'comic_book', 0.55631566, u'mousetrap', 0.061663065, u'web_site', 0.056060266]
+[u'puck', 0.35615045, u'football_helmet', 0.10393243, u'jersey', 0.047816418]

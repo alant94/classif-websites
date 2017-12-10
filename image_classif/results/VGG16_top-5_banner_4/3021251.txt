@@ -1,0 +1,2 @@
+[u'garbage_truck', 0.63541788, u'ambulance', 0.1367927, u'police_van', 0.086472176, u'trailer_truck', 0.047284752, u'minibus', 0.031621598]
+[u'trailer_truck', 0.60087585, u'garbage_truck', 0.16945751, u'tow_truck', 0.14624165, u'moving_van', 0.047331598, u'police_van', 0.010237642]

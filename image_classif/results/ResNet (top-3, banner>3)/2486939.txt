@@ -1,0 +1,2 @@
+[u'web_site', 0.44682264, u'book_jacket', 0.16512412, u'packet', 0.058478948]
+[u'jaguar', 0.84631914, u'cheetah', 0.11492198, u'leopard', 0.0085380329]

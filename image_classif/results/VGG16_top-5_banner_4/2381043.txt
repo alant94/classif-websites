@@ -1,0 +1,5 @@
+[u'web_site', 0.12404477, u'mouse', 0.11181456, u'monitor', 0.099719167, u'bannister', 0.082664728, u'bubble', 0.070362486]
+[u'shower_curtain', 0.16634712, u'window_shade', 0.12364191, u'wardrobe', 0.10127107, u'sliding_door', 0.088435732, u'plate_rack', 0.044002861]
+[u'hair_slide', 0.10823487, u'digital_clock', 0.067960575, u'whistle', 0.066396557, u'web_site', 0.066055313, u'hook', 0.064336538]
+[u'remote_control', 0.16192544, u'joystick', 0.092766374, u'switch', 0.065320492, u'electric_guitar', 0.064358585, u'hair_slide', 0.059565797]
+[u'vase', 0.31100494, u'pitcher', 0.11872472, u'lampshade', 0.09134046, u'tray', 0.064143948, u'table_lamp', 0.052139111]

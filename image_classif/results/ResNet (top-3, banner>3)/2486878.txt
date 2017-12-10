@@ -1,0 +1,2 @@
+[u'half_track', 0.14592299, u'space_bar', 0.041785832, u'military_uniform', 0.036195677]
+[u'book_jacket', 0.22995095, u'hair_spray', 0.11367135, u'whistle', 0.052259684]

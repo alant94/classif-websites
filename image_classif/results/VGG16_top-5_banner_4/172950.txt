@@ -1,0 +1,2 @@
+[u'cleaver', 0.021227835, u'envelope', 0.013411843, u'face_powder', 0.011858254, u'can_opener', 0.011376034, u'corkscrew', 0.010872648]
+[u'crossword_puzzle', 0.14153516, u'jigsaw_puzzle', 0.050620377, u'digital_clock', 0.047632672, u'quilt', 0.046511669, u'Windsor_tie', 0.043063816]

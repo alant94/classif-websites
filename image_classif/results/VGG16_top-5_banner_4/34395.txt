@@ -1,0 +1,2 @@
+[u'rule', 0.34544832, u'web_site', 0.14917803, u'syringe', 0.047853041, u'digital_clock', 0.041978877, u'matchstick', 0.021173012]
+[u'syringe', 0.30806097, u'rule', 0.17717738, u'matchstick', 0.087404303, u'digital_clock', 0.042971861, u'nail', 0.027388094]

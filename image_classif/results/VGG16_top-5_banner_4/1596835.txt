@@ -1,0 +1,4 @@
+[u'cocktail_shaker', 0.062333491, u'washer', 0.055523865, u'bannister', 0.046746932, u'soap_dispenser', 0.043280665, u'coffeepot', 0.031867221]
+[u'confectionery', 0.085183293, u'bakery', 0.074883737, u'space_shuttle', 0.067863025, u'fireboat', 0.059276003, u'candle', 0.043632373]
+[u'swimming_trunks', 0.29982597, u'dumbbell', 0.1885186, u'brassiere', 0.047277667, u'fur_coat', 0.039483588, u'pedestal', 0.035778586]
+[u'shower_curtain', 0.20617807, u'wall_clock', 0.028511515, u'cash_machine', 0.020939413, u'washbasin', 0.017475, u'space_shuttle', 0.014200917]

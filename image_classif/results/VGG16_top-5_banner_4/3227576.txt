@@ -1,0 +1,2 @@
+[u'grocery_store', 0.1515052, u'bakery', 0.12534693, u'shoe_shop', 0.049354684, u'barbershop', 0.046636388, u'restaurant', 0.044812407]
+[u'shower_curtain', 0.14238442, u'toilet_seat', 0.08714354, u'bathtub', 0.066792078, u'washbasin', 0.06656272, u'tub', 0.066229053]

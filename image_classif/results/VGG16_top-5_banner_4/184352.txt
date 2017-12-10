@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.22320613, u'envelope', 0.14122859, u'whistle', 0.089565285, u'refrigerator', 0.086745098, u'cash_machine', 0.057100154]

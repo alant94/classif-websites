@@ -1,0 +1,5 @@
+[u'loupe', 0.23247254, u'gong', 0.17073384, u'drum', 0.070715897]
+[u'loupe', 0.26392353, u'gong', 0.22236101, u'chime', 0.068741955]
+[u'book_jacket', 0.37243962, u'scoreboard', 0.095742486, u'slot', 0.053584497]
+[u'street_sign', 0.43308675, u'web_site', 0.31733233, u'laptop', 0.058286667]
+[u'church', 0.68562621, u'bell_cote', 0.17389508, u'viaduct', 0.034049481]

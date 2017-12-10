@@ -1,0 +1,2 @@
+[u'digital_clock', 0.44822949, u'web_site', 0.11909111, u'wall_clock', 0.088939525]
+[u'nipple', 0.39787877, u'plunger', 0.083242275, u'hand_blower', 0.06943965]

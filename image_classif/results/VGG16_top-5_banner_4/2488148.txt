@@ -1,0 +1,7 @@
+[u'switch', 0.26134187, u'saltshaker', 0.030456021, u'candle', 0.028883677, u'rubber_eraser', 0.026910571, u'whistle', 0.026329188]
+[u'vault', 0.28188396, u'shower_curtain', 0.044723589, u'throne', 0.039614573, u'vestment', 0.022818072, u'altar', 0.021267422]
+[u'throne', 0.30936572, u'meerkat', 0.10299035, u'vase', 0.08717759, u'cheetah', 0.061159648, u'starfish', 0.044046454]
+[u'terrapin', 0.082825489, u'Kerry_blue_terrier', 0.056999765, u'Bouvier_des_Flandres', 0.039531298, u'affenpinscher', 0.032709636, u'barn_spider', 0.017893283]
+[u'lakeside', 0.64798033, u'boathouse', 0.23958658, u'breakwater', 0.041432846, u'canoe', 0.015006199, u'alp', 0.012650689]
+[u'castle', 0.50188315, u'palace', 0.093585268, u'space_shuttle', 0.065422513, u'fountain', 0.032228436, u'monastery', 0.028562356]
+[u'space_shuttle', 0.049933039, u'starfish', 0.048682932, u'shower_curtain', 0.042693213, u'washbasin', 0.030859774, u'wall_clock', 0.028331839]

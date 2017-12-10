@@ -1,0 +1,6 @@
+[u'bullet_train', 0.15814571, u'digital_clock', 0.090004273, u'web_site', 0.054593917]
+[u'oxygen_mask', 0.063931987, u'binder', 0.038344909, u'theater_curtain', 0.034273498]
+[u'loudspeaker', 0.1301, u'binder', 0.085328579, u'digital_clock', 0.081592567]
+[u'web_site', 0.093787499, u'corn', 0.087280281, u'barn', 0.054038111]
+[u'envelope', 0.15374964, u'binder', 0.12984206, u'screen', 0.035259455]
+[u'book_jacket', 0.76716727, u'comic_book', 0.15520507, u'scoreboard', 0.0048000384]

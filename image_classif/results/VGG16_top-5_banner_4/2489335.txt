@@ -1,0 +1,4 @@
+[u'hook', 0.73254532, u'howler_monkey', 0.025108058, u'swing', 0.017487461, u'capuchin', 0.012590695, u'electric_guitar', 0.009610232]
+[u'hook', 0.24272104, u'knot', 0.18235084, u'nail', 0.061745942, u'chain', 0.060079616, u'picket_fence', 0.052367631]
+[u'television', 0.29349023, u'barn', 0.19108942, u'trailer_truck', 0.071333632, u'car_mirror', 0.049062908, u'monitor', 0.038778022]
+[u'digital_watch', 0.085267395, u'bulletproof_vest', 0.043613877, u'apron', 0.03644501, u'binder', 0.028321147, u'scale', 0.024333406]

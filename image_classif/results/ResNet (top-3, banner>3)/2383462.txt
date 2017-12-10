@@ -1,0 +1,2 @@
+[u'plate', 0.53619254, u'dining_table', 0.20762475, u'restaurant', 0.20306788]
+[u'wine_bottle', 0.62144661, u'typewriter_keyboard', 0.20626561, u'red_wine', 0.037739888]

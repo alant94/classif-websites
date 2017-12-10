@@ -1,0 +1,3 @@
+[u'comic_book', 0.99807489, u'book_jacket', 0.0018926508, u'jigsaw_puzzle', 4.8197944e-06, u'shoe_shop', 3.6681715e-06, u'toyshop', 2.6025773e-06]
+[u'golf_ball', 0.70099485, u'ping-pong_ball', 0.04189733, u'balloon', 0.01717467, u'tennis_ball', 0.015340878, u'pedestal', 0.011946718]
+[u'slot', 0.99431109, u'vending_machine', 0.0043565268, u'toyshop', 0.00058439962, u'school_bus', 0.00018242087, u'confectionery', 0.0001140454]

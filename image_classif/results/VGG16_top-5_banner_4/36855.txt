@@ -1,0 +1,6 @@
+[u'fireboat', 0.95160908, u'lifeboat', 0.042528223, u'amphibian', 0.0020717815, u'dock', 0.0016855564, u'paddlewheel', 0.00089064328]
+[u'killer_whale', 0.8831284, u'grey_whale', 0.11675425, u'great_white_shark', 0.00010136381, u'gar', 8.1897488e-06, u'paddle', 2.4218803e-06]
+[u'coho', 0.40174207, u'sturgeon', 0.29084772, u'gar', 0.12861846, u'barracouta', 0.067480937, u'great_white_shark', 0.020520063]
+[u'amphibian', 0.3959533, u'fireboat', 0.31247807, u'lifeboat', 0.061711401, u'sandbar', 0.029290151, u'breakwater', 0.021829955]
+[u'swing', 0.43726414, u'reel', 0.29045933, u'coho', 0.10418264, u'parachute', 0.10361656, u'barracouta', 0.023442693]
+[u'American_coot', 0.17085117, u'dalmatian', 0.1542764, u'bluetick', 0.10074443, u'leatherback_turtle', 0.091912389, u'English_setter', 0.085736498]

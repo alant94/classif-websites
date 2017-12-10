@@ -1,0 +1,2 @@
+[u'digital_clock', 0.12209356, u'matchstick', 0.065807968, u'web_site', 0.024653863, u'lighter', 0.020504126, u'candle', 0.018276425]
+[u'abaya', 0.29048342, u'sweatshirt', 0.19487631, u'academic_gown', 0.17572027, u'jersey', 0.084272765, u'jean', 0.039265145]

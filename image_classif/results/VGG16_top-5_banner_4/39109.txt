@@ -1,0 +1,2 @@
+[u'street_sign', 0.10970175, u'book_jacket', 0.10881374, u'coral_fungus', 0.052798562, u'picket_fence', 0.035121884, u'beaver', 0.031097235]
+[u'ski_mask', 0.18524271, u'mask', 0.14212562, u'jersey', 0.076626949, u'comic_book', 0.059443671, u'pick', 0.04242165]

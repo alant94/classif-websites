@@ -1,0 +1,4 @@
+[u'hartebeest', 0.57684726, u'ox', 0.13221145, u'ibex', 0.1303295]
+[u'boathouse', 0.14390449, u'patio', 0.12318309, u'lumbermill', 0.098109074]
+[u'book_jacket', 0.62558746, u'comic_book', 0.21584785, u'web_site', 0.026672415]
+[u'carton', 0.28139544, u'menu', 0.15346257, u'packet', 0.082791589]

@@ -1,0 +1,7 @@
+[u'vending_machine', 0.28433371, u'traffic_light', 0.26006395, u'turnstile', 0.20453788, u'barbershop', 0.043363877, u'espresso_maker', 0.042738266]
+[u'CD_player', 0.52595621, u'tape_player', 0.24345902, u'cassette_player', 0.077425107, u'cassette', 0.044365898, u'loudspeaker', 0.03321176]
+[u'pick', 0.10023683, u'sandal', 0.050388325, u'tennis_ball', 0.046583012, u'acoustic_guitar', 0.045225218, u'analog_clock', 0.032621086]
+[u'vending_machine', 0.43646076, u'web_site', 0.21892944, u'safe', 0.157325, u'cash_machine', 0.10622, u'remote_control', 0.011375768]
+[u'vending_machine', 0.53859776, u'web_site', 0.22465825, u'scoreboard', 0.037630871, u'barbershop', 0.036661617, u'cash_machine', 0.013375476]
+[u'vending_machine', 0.28683019, u'web_site', 0.24801053, u'cash_machine', 0.090853505, u'scoreboard', 0.061844721, u'gas_pump', 0.039812498]
+[u'desk', 0.22628856, u'microwave', 0.10053827, u'monitor', 0.086002156, u'projector', 0.056735199, u'web_site', 0.050115667]

@@ -1,0 +1,5 @@
+[u'nematode', 0.16440976, u'matchstick', 0.072733529, u'jellyfish', 0.044241741, u'spotlight', 0.040815026, u'scorpion', 0.040551297]
+[u'picket_fence', 0.1517569, u'ski', 0.12731582, u'lab_coat', 0.047585633, u'paddle', 0.040606286, u'fountain', 0.035987906]
+[u'nematode', 0.16440976, u'matchstick', 0.072733529, u'jellyfish', 0.044241741, u'spotlight', 0.040815026, u'scorpion', 0.040551297]
+[u'safety_pin', 0.14753813, u'hair_slide', 0.078825533, u'screwdriver', 0.061026543, u'ballpoint', 0.05523904, u'rubber_eraser', 0.04686242]
+[u'web_site', 0.048180796, u'envelope', 0.033201326, u'power_drill', 0.029440394, u'nail', 0.028875841, u'hand_blower', 0.028811693]

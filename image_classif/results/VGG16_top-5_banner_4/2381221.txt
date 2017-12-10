@@ -1,0 +1,2 @@
+[u'vestment', 0.044951644, u'kimono', 0.04208333, u'pedestal', 0.030518821, u'obelisk', 0.029392239, u'flagpole', 0.027051641]
+[u'hook', 0.19883898, u'nail', 0.078723498, u'envelope', 0.034158394, u'web_site', 0.026620692, u'ibex', 0.015784629]

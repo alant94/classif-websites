@@ -1,0 +1,2 @@
+[u'military_uniform', 0.047953796, u'seat_belt', 0.03358832, u'king_crab', 0.030694293]
+[u'lighter', 0.12404379, u'hair_spray', 0.090522364, u'ashcan', 0.053224359]

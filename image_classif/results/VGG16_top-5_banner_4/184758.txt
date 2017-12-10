@@ -1,0 +1,6 @@
+[u'book_jacket', 0.85697246, u'comic_book', 0.047068041, u'coral_fungus', 0.010389748, u'Indian_elephant', 0.0071449215, u'Great_Dane', 0.005602337]
+[u'street_sign', 0.46271139, u'moving_van', 0.20549403, u'carton', 0.031473853, u'trailer_truck', 0.024726078, u'book_jacket', 0.024458716]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'street_sign', 0.96501434, u'traffic_light', 0.017885366, u'moving_van', 0.0039532105, u'barbershop', 0.0023703403, u'pay-phone', 0.0017470376]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'street_sign', 0.31744677, u'ashcan', 0.10212288, u'moving_van', 0.094422109, u'binder', 0.064473294, u'pay-phone', 0.054172285]

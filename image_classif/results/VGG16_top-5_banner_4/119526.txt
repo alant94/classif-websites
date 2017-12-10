@@ -1,0 +1,4 @@
+[u'coffee_mug', 0.85665023, u'cup', 0.039005991, u'measuring_cup', 0.033800457, u'whiskey_jug', 0.021458277, u'water_jug', 0.015570579]
+[u'jersey', 0.70815712, u'sweatshirt', 0.28569189, u'wool', 0.0013361535, u'gasmask', 0.0011301342, u'bulletproof_vest', 0.00066031329]
+[u'coffee_mug', 0.98688161, u'cup', 0.0091513665, u'whiskey_jug', 0.0035545358, u'espresso', 8.6182969e-05, u'pitcher', 5.4317501e-05]
+[u'envelope', 0.77480692, u'binder', 0.21041609, u'web_site', 0.002105291, u'wallet', 0.0019490042, u'rule', 0.0016529629]

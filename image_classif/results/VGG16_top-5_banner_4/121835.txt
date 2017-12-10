@@ -1,0 +1,2 @@
+[u'digital_clock', 0.20168573, u'jigsaw_puzzle', 0.15656227, u'daisy', 0.023971122, u'picket_fence', 0.021329721, u'syringe', 0.018330529]
+[u'digital_watch', 0.40079772, u'digital_clock', 0.37453991, u'lens_cap', 0.043227494, u'stopwatch', 0.038865231, u'tennis_ball', 0.030608099]

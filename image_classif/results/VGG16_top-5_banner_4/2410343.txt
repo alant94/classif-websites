@@ -1,0 +1,3 @@
+[u'screwdriver', 0.46678945, u'ballpoint', 0.090143204, u'fountain_pen', 0.055023823, u"carpenter's_kit", 0.037146095, u'nail', 0.032004867]
+[u'apiary', 0.20842364, u'park_bench', 0.052237365, u'diaper', 0.045690816, u'swing', 0.03944134, u'head_cabbage', 0.038528949]
+[u'lighter', 0.17948866, u'water_bottle', 0.17232472, u'lotion', 0.16195914, u'sunscreen', 0.090091847, u'water_jug', 0.05671367]

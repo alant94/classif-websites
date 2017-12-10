@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.14607738, u'volcano', 0.10665068, u'jellyfish', 0.092890739, u'wreck', 0.046532579, u'geyser', 0.035175383]

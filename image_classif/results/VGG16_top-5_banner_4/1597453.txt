@@ -1,0 +1,5 @@
+[u'seat_belt', 0.31537539, u'bathtub', 0.029073434, u'photocopier', 0.024200197, u'washer', 0.022002507, u'bassinet', 0.018976621]
+[u'swimming_trunks', 0.29968709, u'bath_towel', 0.29702979, u'cardigan', 0.049361888, u'sunscreen', 0.029217878, u'Weimaraner', 0.027512178]
+[u'swimming_trunks', 0.45903677, u'bikini', 0.1219224, u'miniskirt', 0.090797409, u'chain_mail', 0.039218567, u'sarong', 0.033343617]
+[u'Band_Aid', 0.1783936, u'swimming_trunks', 0.080950424, u'Windsor_tie', 0.078010164, u'syringe', 0.051468525, u'barbershop', 0.050271701]
+[u'restaurant', 0.050114006, u'West_Highland_white_terrier', 0.049901329, u'candle', 0.0483968, u'altar', 0.03059065, u'church', 0.025521241]

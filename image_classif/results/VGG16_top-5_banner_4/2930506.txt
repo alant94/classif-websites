@@ -1,0 +1,5 @@
+[u'shoji', 0.096504413, u'lampshade', 0.091023177, u'window_shade', 0.062544279, u'wall_clock', 0.029700683, u'spotlight', 0.024955077]
+[u'cash_machine', 0.16386423, u'water_bottle', 0.15947773, u'lighter', 0.092177317, u'refrigerator', 0.065909341, u'water_jug', 0.03612991]
+[u'window_shade', 0.035008814, u'hourglass', 0.030128842, u'television', 0.027487304, u'lampshade', 0.026823074, u'switch', 0.024930626]
+[u'pill_bottle', 0.62871814, u'face_powder', 0.06856405, u'Petri_dish', 0.046371788, u'rubber_eraser', 0.029918956, u'soap_dispenser', 0.020531841]
+[u'screen', 0.22167332, u'cash_machine', 0.19653182, u'monitor', 0.15715694, u'television', 0.092500962, u'window_shade', 0.034077689]

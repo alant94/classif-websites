@@ -1,0 +1,3 @@
+[u'picket_fence', 0.18713467, u'safety_pin', 0.066590339, u'fountain', 0.032462969, u'chime', 0.027358964, u'worm_fence', 0.024092929]
+[u'alp', 0.19732934, u'picket_fence', 0.1700571, u'lakeside', 0.16165797, u'ski', 0.12129928, u'geyser', 0.058824558]
+[u'church', 0.80367309, u'vault', 0.083085105, u'bell_cote', 0.063201182, u'monastery', 0.032649737, u'dome', 0.0045136735]

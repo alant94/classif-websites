@@ -1,0 +1,5 @@
+[u'gas_pump', 0.4008705, u'switch', 0.14936498, u'packet', 0.12390435]
+[u'traffic_light', 0.85397428, u'street_sign', 0.099393152, u'digital_clock', 0.007584698]
+[u'monitor', 0.13252445, u'scoreboard', 0.089568563, u'laptop', 0.086021617]
+[u'web_site', 0.72997802, u'monitor', 0.024417819, u'bookcase', 0.0065543288]
+[u'lakeside', 0.24027553, u'drilling_platform', 0.079257742, u'cliff', 0.076401614]

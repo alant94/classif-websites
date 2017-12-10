@@ -1,0 +1,2 @@
+[u'slot', 0.34399176, u'tray', 0.29070041, u'lighter', 0.06536036]
+[u'maze', 0.16660097, u'handkerchief', 0.066649415, u'matchstick', 0.05753706]

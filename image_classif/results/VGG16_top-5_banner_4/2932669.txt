@@ -1,0 +1,3 @@
+[u'suit', 0.082211956, u'drumstick', 0.038756371, u'bassoon', 0.036357149, u'bow_tie', 0.032422535, u'jersey', 0.03092327]
+[u'racket', 0.14759053, u'jean', 0.14100705, u'ping-pong_ball', 0.10692356, u'horizontal_bar', 0.060430191, u'parallel_bars', 0.054808695]
+[u'racket', 0.10892943, u'ping-pong_ball', 0.074344829, u'ballplayer', 0.034783576, u'pajama', 0.023576813, u'crutch', 0.020531904]

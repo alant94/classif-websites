@@ -1,0 +1,8 @@
+[u'acorn', 0.53291178, u'Granny_Smith', 0.12410562, u'lemon', 0.090172075, u'custard_apple', 0.061412953, u'jackfruit', 0.051779885]
+[u'book_jacket', 0.21789172, u'web_site', 0.12322071, u'flagpole', 0.084849752, u'pole', 0.046560097, u'theater_curtain', 0.031099683]
+[u'digital_watch', 0.11647829, u'screen', 0.10644729, u'digital_clock', 0.089527309, u'monitor', 0.078170292, u'scoreboard', 0.058887616]
+[u'envelope', 0.11719652, u'toilet_seat', 0.051501252, u'Band_Aid', 0.044686403, u'whistle', 0.030924805, u'wall_clock', 0.030013252]
+[u'shield', 0.36246294, u'bolo_tie', 0.31729329, u'brass', 0.070416979, u'buckle', 0.044680387, u'sundial', 0.018417429]
+[u'lotion', 0.6515035, u'face_powder', 0.063088849, u'perfume', 0.055749141, u'sunscreen', 0.050918616, u'candle', 0.027264964]
+[u'valley', 0.34432575, u'cliff', 0.10056744, u'lakeside', 0.09112411, u'castle', 0.070109874, u'stone_wall', 0.069672883]
+[u'envelope', 0.070327513, u'wall_clock', 0.052304182, u'analog_clock', 0.042079747, u'digital_clock', 0.029001759, u'switch', 0.027091326]

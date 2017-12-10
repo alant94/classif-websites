@@ -1,0 +1,3 @@
+[u'web_site', 0.54945838, u'binder', 0.11794558, u'menu', 0.11400748]
+[u'brass', 0.99775726, u'book_jacket', 0.00094628637, u'binder', 0.00041577616]
+[u'hair_slide', 0.36113256, u"carpenter's_kit", 0.24624188, u'hook', 0.075344153]

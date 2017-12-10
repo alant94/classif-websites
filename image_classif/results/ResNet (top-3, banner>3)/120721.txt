@@ -1,0 +1,2 @@
+[u'container_ship', 0.57723576, u'tobacco_shop', 0.29672319, u'medicine_chest', 0.080802195]
+[u'guenon', 0.076693296, u'timber_wolf', 0.06111509, u'white_wolf', 0.044608466]

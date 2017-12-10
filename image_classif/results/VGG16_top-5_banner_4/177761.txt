@@ -1,0 +1,1 @@
+[u'packet', 0.24221396, u'book_jacket', 0.16296422, u'binder', 0.083247319, u'sunscreen', 0.070486672, u'envelope', 0.043092545]

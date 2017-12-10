@@ -1,0 +1,2 @@
+[u'stupa', 0.62757164, u'lampshade', 0.098187529, u'table_lamp', 0.075260527, u'beacon', 0.026586298, u'bell_cote', 0.025884233]
+[u'bikini', 0.27047849, u'brassiere', 0.18869714, u'diaper', 0.15240438, u'miniskirt', 0.1271857, u'bath_towel', 0.092345938]

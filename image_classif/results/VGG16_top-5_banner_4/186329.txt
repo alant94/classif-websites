@@ -1,0 +1,6 @@
+[u'school_bus', 0.15551688, u'cellular_telephone', 0.1012683, u'vending_machine', 0.051687926, u'gas_pump', 0.045083374, u'cassette', 0.030096887]
+[u'castle', 0.2760407, u'alp', 0.17361237, u'cliff', 0.12560816, u'valley', 0.12192497, u'lakeside', 0.051125202]
+[u'tray', 0.45589155, u'buckle', 0.12869366, u'digital_clock', 0.08595293, u'switch', 0.073509134, u'microwave', 0.071011089]
+[u'suit', 0.07821843, u'cellular_telephone', 0.026101757, u'burrito', 0.025039291, u'notebook', 0.024986524, u'harmonica', 0.024011038]
+[u'digital_clock', 0.25201222, u'cassette', 0.17434531, u'digital_watch', 0.083347373, u'cassette_player', 0.07517308, u'cash_machine', 0.031124504]
+[u'palace', 0.95967132, u'monastery', 0.0055752462, u'lakeside', 0.0051996205, u'fountain', 0.0047534727, u'horse_cart', 0.0030263951]

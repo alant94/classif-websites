@@ -1,0 +1,6 @@
+[u'street_sign', 0.16126986, u'book_jacket', 0.12977988, u'fire_engine', 0.10387856]
+[u'web_site', 0.19931483, u'iPod', 0.15720841, u'laptop', 0.045687731]
+[u'banjo', 0.2764267, u'drum', 0.14179675, u'cowboy_hat', 0.089941733]
+[u'acoustic_guitar', 0.57374126, u'electric_guitar', 0.12259632, u'panpipe', 0.10012768]
+[u'banjo', 0.45153096, u'electric_guitar', 0.38455001, u'acoustic_guitar', 0.041861445]
+[u'Band_Aid', 0.29881212, u'ambulance', 0.1686306, u'lighter', 0.067232244]

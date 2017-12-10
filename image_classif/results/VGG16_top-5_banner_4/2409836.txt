@@ -1,0 +1,5 @@
+[u'digital_clock', 0.41471389, u'digital_watch', 0.11388487, u'wall_clock', 0.053197805, u'bottlecap', 0.036704246, u'pill_bottle', 0.021365594]
+[u'coil', 0.081773564, u'bolo_tie', 0.07802546, u'balloon', 0.06078779, u'spotlight', 0.060509007, u'wall_clock', 0.045930035]
+[u'container_ship', 0.72480685, u'switch', 0.030592797, u'modem', 0.023840912, u'shopping_basket', 0.019350784, u'combination_lock', 0.019060018]
+[u'cradle', 0.16836517, u'switch', 0.08056514, u'teapot', 0.063073628, u'chest', 0.061179772, u'coffeepot', 0.037694443]
+[u'barrel', 0.11794257, u'vase', 0.049676541, u'totem_pole', 0.043270055, u'wardrobe', 0.039675795, u'corn', 0.02756579]

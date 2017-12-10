@@ -1,0 +1,1 @@
+[u'sunscreen', 0.15827622, u'sunglasses', 0.14553678, u'puffer', 0.095047221, u'sunglass', 0.086887412, u'sturgeon', 0.073474549]

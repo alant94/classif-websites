@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.15220566, u'Band_Aid', 0.060879536, u'envelope', 0.038617738, u'remote_control', 0.022980418, u'stole', 0.019074369]
+[u'envelope', 0.10607328, u'book_jacket', 0.056542397, u'crossword_puzzle', 0.047818769, u'web_site', 0.017473042, u'velvet', 0.017362108]
+[u'screwdriver', 0.46076694, u"carpenter's_kit", 0.33097875, u'ballpoint', 0.03627269, u'quill', 0.030201308, u'paintbrush', 0.013505174]
+[u'hook', 0.056778893, u'chime', 0.039216179, u'crane', 0.037307244, u'bell_cote', 0.03543831, u'academic_gown', 0.03409927]
+[u'crossword_puzzle', 0.14153516, u'jigsaw_puzzle', 0.050620377, u'digital_clock', 0.047632672, u'quilt', 0.046511669, u'Windsor_tie', 0.043063816]

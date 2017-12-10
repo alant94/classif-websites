@@ -1,0 +1,8 @@
+[u'rule', 0.067855164, u'nail', 0.06384749, u'whistle', 0.055978402, u'screwdriver', 0.040380765, u'screw', 0.039215252]
+[u'cardigan', 0.63018829, u'stole', 0.15446521, u'fur_coat', 0.10686888, u'jean', 0.033156577, u'wool', 0.021764657]
+[u'envelope', 0.086731188, u'web_site', 0.052032512, u'whistle', 0.045101058, u'hook', 0.028257377, u'can_opener', 0.027736397]
+[u'wig', 0.19987485, u'web_site', 0.078314081, u'hair_spray', 0.069644548, u'throne', 0.058329269, u'gown', 0.047621287]
+[u'book_jacket', 0.047205985, u'matchstick', 0.043441165, u'puck', 0.034662798, u'pill_bottle', 0.033861287, u'nematode', 0.032628138]
+[u'envelope', 0.137815, u'syringe', 0.11652081, u'pill_bottle', 0.091467425, u'whistle', 0.058370739, u'rule', 0.055193305]
+[u'stole', 0.21359406, u'wool', 0.20033851, u'cardigan', 0.18128063, u'sweatshirt', 0.15186252, u'poncho', 0.13492912]
+[u'syringe', 0.36323673, u'rule', 0.059953097, u'pill_bottle', 0.05013128, u'screwdriver', 0.033849411, u'whistle', 0.033012435]

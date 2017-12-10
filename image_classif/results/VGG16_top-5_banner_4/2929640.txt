@@ -1,0 +1,2 @@
+[u'gazelle', 0.46077278, u'impala', 0.2158497, u'hartebeest', 0.10439034, u'bustard', 0.088242382, u'African_hunting_dog', 0.023534723]
+[u'nail', 0.18736367, u'rule', 0.057032607, u'envelope', 0.042175386, u'screwdriver', 0.032158986, u'screw', 0.028809017]

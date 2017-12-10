@@ -1,0 +1,2 @@
+[u'drum', 0.25672388, u'hard_disc', 0.24401329, u'CD_player', 0.10763892, u'loudspeaker', 0.090773501, u'tape_player', 0.030604972]
+[u'can_opener', 0.13671084, u'dumbbell', 0.13405818, u'switch', 0.1174809, u'soap_dispenser', 0.08335761, u'pencil_sharpener', 0.082770146]

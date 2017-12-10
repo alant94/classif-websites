@@ -1,0 +1,1 @@
+[u'barber_chair', 0.39660805, u'table_lamp', 0.064102449, u'spotlight', 0.043058358, u'dumbbell', 0.042987663, u'waffle_iron', 0.042768583]

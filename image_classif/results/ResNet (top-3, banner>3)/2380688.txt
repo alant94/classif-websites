@@ -1,0 +1,8 @@
+[u'beer_glass', 0.99750465, u'beer_bottle', 0.0024316809, u'pop_bottle', 3.3915796e-05]
+[u'butcher_shop', 0.28190219, u'stage', 0.1657453, u'wreck', 0.077092618]
+[u'beer_glass', 0.81487316, u'pop_bottle', 0.11599982, u'water_bottle', 0.042370778]
+[u'plate', 0.39124918, u'king_crab', 0.066988356, u'cucumber', 0.066538081]
+[u'binder', 0.20716423, u'packet', 0.20221192, u'puck', 0.072049841]
+[u'forklift', 0.82786387, u'turnstile', 0.049778908, u'drum', 0.039123856]
+[u'beer_bottle', 0.91712546, u'wine_bottle', 0.029939067, u'red_wine', 0.027492689]
+[u'web_site', 0.4506216, u'book_jacket', 0.063752115, u'stopwatch', 0.01446686]

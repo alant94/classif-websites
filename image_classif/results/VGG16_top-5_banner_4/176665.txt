@@ -1,0 +1,3 @@
+[u'hair_slide', 0.18460771, u'whistle', 0.10917761, u'sandal', 0.086716123, u'corkscrew', 0.078380644, u'sunglass', 0.054782417]
+[u'projectile', 0.62386751, u'missile', 0.18568817, u'pickelhaube', 0.086898342, u'book_jacket', 0.026718667, u'space_shuttle', 0.02172848]
+[u'coffee_mug', 0.41998678, u'lotion', 0.070399508, u'oil_filter', 0.064971887, u'hair_spray', 0.057279006, u'sunscreen', 0.046813786]

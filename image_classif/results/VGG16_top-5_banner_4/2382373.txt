@@ -1,0 +1,3 @@
+[u'megalith', 0.38600221, u'alp', 0.065884173, u'yurt', 0.056425329, u'cliff_dwelling', 0.039127439, u'mobile_home', 0.038912855]
+[u'stone_wall', 0.33496121, u'corn', 0.12784541, u'ear', 0.11367401, u'megalith', 0.09462668, u'rapeseed', 0.080344126]
+[u'picket_fence', 0.093954735, u'mobile_home', 0.081477389, u'worm_fence', 0.06127518, u'barn', 0.053077292, u'apiary', 0.039805803]

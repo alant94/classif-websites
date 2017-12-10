@@ -1,0 +1,5 @@
+[u'whistle', 0.14741097, u'abacus', 0.092083946, u'hair_slide', 0.055438183, u'digital_watch', 0.043882154, u'combination_lock', 0.040050056]
+[u'street_sign', 0.45888713, u'traffic_light', 0.089049555, u'scoreboard', 0.048560258, u'worm_fence', 0.040496204, u'totem_pole', 0.019886931]
+[u'ballpoint', 0.1751169, u'screw', 0.15491167, u'hair_slide', 0.15140745, u'screwdriver', 0.14286588, u'nail', 0.054770134]
+[u'lotion', 0.16811863, u'whistle', 0.10980201, u'safety_pin', 0.08655557, u'jersey', 0.059206344, u'hair_slide', 0.049163803]
+[u'whistle', 0.17503774, u'lotion', 0.099573739, u'perfume', 0.095736846, u'lighter', 0.081167705, u'hair_spray', 0.061455809]

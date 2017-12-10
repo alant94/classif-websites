@@ -1,0 +1,4 @@
+[u'half_track', 0.22012773, u'garbage_truck', 0.14043586, u'golfcart', 0.090815686, u'tow_truck', 0.089697577, u'snowplow', 0.064259805]
+[u'tow_truck', 0.28919074, u'garbage_truck', 0.17022987, u'jeep', 0.086403824, u'police_van', 0.06606634, u'ambulance', 0.064321414]
+[u'snowplow', 0.43702281, u'school_bus', 0.26091594, u'jeep', 0.17624561, u'minibus', 0.024218744, u'pickup', 0.017648671]
+[u'pickup', 0.69159085, u'beach_wagon', 0.091050938, u'jeep', 0.036702886, u'car_wheel', 0.020738952, u'tow_truck', 0.018273247]

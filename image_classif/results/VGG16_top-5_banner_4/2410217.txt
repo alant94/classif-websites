@@ -1,0 +1,6 @@
+[u'web_site', 0.35306063, u'book_jacket', 0.038205277, u'Band_Aid', 0.035139985, u'hair_spray', 0.032927096, u'digital_clock', 0.024889555]
+[u'screen', 0.27752417, u'television', 0.2704789, u'monitor', 0.15920998, u'digital_clock', 0.050218906, u'home_theater', 0.040109277]
+[u'digital_clock', 0.28652215, u'scoreboard', 0.092806928, u'cinema', 0.065203555, u'street_sign', 0.062855922, u'book_jacket', 0.059412464]
+[u'mortar', 0.2706365, u'vase', 0.17243306, u'toilet_tissue', 0.07506343, u'bath_towel', 0.042160895, u'candle', 0.035074372]
+[u'digital_clock', 0.39092049, u'screen', 0.25946075, u'monitor', 0.087408014, u'television', 0.04664113, u'scoreboard', 0.043658581]
+[u'jersey', 0.14123838, u'web_site', 0.067911707, u'book_jacket', 0.046767417, u'menu', 0.03850593, u'sunscreen', 0.027836083]

@@ -1,0 +1,8 @@
+[u'beacon', 0.20464024, u'bell_cote', 0.20301074, u'obelisk', 0.19563311, u'mosque', 0.05819745, u'space_shuttle', 0.041209318]
+[u'envelope', 0.084773198, u'Band_Aid', 0.034704708, u'web_site', 0.030382821, u'plunger', 0.019641671, u'hand_blower', 0.019400023]
+[u'handkerchief', 0.91127211, u'brassiere', 0.019532945, u'diaper', 0.014918282, u'running_shoe', 0.014211603, u'purse', 0.010043208]
+[u'web_site', 0.33506778, u'envelope', 0.17913981, u'analog_clock', 0.065619133, u'wall_clock', 0.034113981, u'Band_Aid', 0.026318213]
+[u'sax', 0.13269646, u'Arabian_camel', 0.12758045, u'torch', 0.092955388, u'cliff', 0.090964854, u'pedestal', 0.077028632]
+[u'balloon', 0.42718264, u'torch', 0.10510004, u'vase', 0.069159977, u'parachute', 0.032802586, u'lampshade', 0.027145004]
+[u'web_site', 0.23199816, u'oboe', 0.098695971, u'Windsor_tie', 0.0612095, u'book_jacket', 0.045797523, u'bathing_cap', 0.032031104]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

@@ -1,0 +1,5 @@
+[u'cinema', 0.086857513, u'library', 0.025515418, u'bannister', 0.024043789, u'crib', 0.022766849, u'grand_piano', 0.021374863]
+[u'patio', 0.62166268, u'lumbermill', 0.1863022, u'thatch', 0.053591359, u'boathouse', 0.039234947, u'sliding_door', 0.034331519]
+[u'beacon', 0.13758028, u'bell_cote', 0.047595218, u'traffic_light', 0.044834971, u'crane', 0.040149163, u'wall_clock', 0.03522804]
+[u'park_bench', 0.34719837, u'swing', 0.20171311, u'lakeside', 0.15981904, u'mountain_tent', 0.021162236, u'yurt', 0.020063527]
+[u'throne', 0.42902705, u'candle', 0.040402573, u'lampshade', 0.037249126, u'brassiere', 0.028444616, u'vestment', 0.023609599]

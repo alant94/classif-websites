@@ -1,0 +1,2 @@
+[u'siamang', 0.046260115, u'balance_beam', 0.043852843, u'parallel_bars', 0.039559714]
+[u'jigsaw_puzzle', 0.59192032, u'container_ship', 0.076504216, u'comic_book', 0.063354455]

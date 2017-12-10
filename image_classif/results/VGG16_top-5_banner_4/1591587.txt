@@ -1,0 +1,8 @@
+[u'dugong', 0.036002982, u'lighter', 0.025280846, u'platypus', 0.024419453, u'candle', 0.021323698, u"potter's_wheel", 0.021218253]
+[u'Granny_Smith', 0.31837991, u'Band_Aid', 0.14526357, u'dugong', 0.13468345, u'butternut_squash', 0.061045628, u'axolotl', 0.042660147]
+[u'miniskirt', 0.43318489, u'sarong', 0.1382497, u'brassiere', 0.11467687, u'swimming_trunks', 0.059418842, u'bikini', 0.037567783]
+[u'miniskirt', 0.37003595, u'knee_pad', 0.076446488, u'brassiere', 0.034551837, u'Band_Aid', 0.031007443, u'diaper', 0.025346689]
+[u'butcher_shop', 0.069012962, u'Chesapeake_Bay_retriever', 0.066922903, u'Weimaraner', 0.048108429, u'teddy', 0.022231771, u'mosquito_net', 0.02014216]
+[u'fig', 0.12510289, u'spaghetti_squash', 0.10406347, u'butternut_squash', 0.08023937, u'dough', 0.056846704, u'bolete', 0.052986119]
+[u'swimming_trunks', 0.52925861, u'bathtub', 0.26354569, u'tub', 0.11199068, u'diaper', 0.021820875, u'shower_cap', 0.02068427]
+[u'web_site', 0.97903615, u'menu', 0.0085890852, u'packet', 0.003428922, u'book_jacket', 0.0016308011, u'comic_book', 0.00078587933]

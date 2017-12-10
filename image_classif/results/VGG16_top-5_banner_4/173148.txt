@@ -1,0 +1,1 @@
+[u'web_site', 0.35001418, u'maze', 0.06601575, u'envelope', 0.047929883, u'power_drill', 0.024446815, u'oscilloscope', 0.016759872]

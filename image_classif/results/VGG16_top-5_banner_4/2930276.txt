@@ -1,0 +1,4 @@
+[u'digital_watch', 0.23374084, u'printer', 0.21051617, u'photocopier', 0.12578313, u'cash_machine', 0.081097461, u'combination_lock', 0.038764834]
+[u'menu', 0.54675245, u'binder', 0.20192449, u'envelope', 0.084464461, u'jersey', 0.035050116, u'web_site', 0.028227262]
+[u'Windsor_tie', 0.058193073, u'jigsaw_puzzle', 0.048564345, u'prayer_rug', 0.039201099, u'pillow', 0.038482755, u'digital_clock', 0.030123932]
+[u'microphone', 0.27468801, u'stage', 0.057489343, u'maraca', 0.045792226, u'joystick', 0.035691381, u'drumstick', 0.032400019]

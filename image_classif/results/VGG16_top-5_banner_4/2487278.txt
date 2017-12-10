@@ -1,0 +1,6 @@
+[u'timber_wolf', 0.47983095, u'coyote', 0.11411884, u'dogsled', 0.08236032, u'Siberian_husky', 0.058556698, u'malamute', 0.046746507]
+[u'red_wolf', 0.1101265, u'grey_fox', 0.064928822, u'red_fox', 0.062628105, u'timber_wolf', 0.050538562, u'dhole', 0.038648728]
+[u'organ', 0.161024, u'medicine_chest', 0.097971141, u'crate', 0.083436474, u'screwdriver', 0.063991033, u'rule', 0.0451499]
+[u'plow', 0.188059, u'wallaby', 0.11184734, u'impala', 0.098339893, u'hen-of-the-woods', 0.063485079, u'cougar', 0.055048697]
+[u'crate', 0.50178522, u'brass', 0.1666245, u'barrel', 0.046001825, u'menu', 0.019719426, u'street_sign', 0.013355332]
+[u'medicine_chest', 0.27539515, u'combination_lock', 0.04129082, u'mailbox', 0.041017734, u'wine_bottle', 0.03777108, u'padlock', 0.033123113]

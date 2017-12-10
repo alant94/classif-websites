@@ -1,0 +1,1 @@
+[u'street_sign', 0.19140947, u'ice_cream', 0.098492704, u'book_jacket', 0.084945336, u'mosque', 0.038955785, u'torch', 0.026887259]

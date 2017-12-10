@@ -1,0 +1,1 @@
+[u'iPod', 0.81444979, u'switch', 0.084950447, u'cellular_telephone', 0.012549517, u'digital_clock', 0.0086543001, u'remote_control', 0.0085790772]

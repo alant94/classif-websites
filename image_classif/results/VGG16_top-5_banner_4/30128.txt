@@ -1,0 +1,6 @@
+[u'nail', 0.23075345, u'ballpoint', 0.075713366, u'screw', 0.066029809, u"carpenter's_kit", 0.044579364, u'safety_pin', 0.029978245]
+[u'Band_Aid', 0.24048375, u'packet', 0.093116015, u'web_site', 0.0870509, u'lighter', 0.086825758, u'mousetrap', 0.069287091]
+[u'container_ship', 0.78428751, u'scoreboard', 0.031542044, u'liner', 0.014051626, u'digital_clock', 0.012824886, u'airship', 0.010763517]
+[u'container_ship', 0.28604308, u'crane', 0.07005994, u'drilling_platform', 0.067506164, u'traffic_light', 0.042531841, u'aircraft_carrier', 0.03140809]
+[u'web_site', 0.90827864, u'menu', 0.014321895, u'crossword_puzzle', 0.0047585196, u'analog_clock', 0.0031237267, u'stopwatch', 0.0022405703]
+[u'nail', 0.58241212, u'screw', 0.11776368, u'hook', 0.018882852, u'power_drill', 0.018552978, u'dumbbell', 0.017913407]

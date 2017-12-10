@@ -1,0 +1,1 @@
+[u'tank', 0.76582277, u'half_track', 0.11755052, u'switch', 0.036316264, u'joystick', 0.011956718, u'lawn_mower', 0.010430804]

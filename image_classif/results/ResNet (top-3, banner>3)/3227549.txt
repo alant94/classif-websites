@@ -1,0 +1,2 @@
+[u'stole', 0.22318499, u'picket_fence', 0.090588577, u'jean', 0.063489355]
+[u'ski', 0.47018605, u'crutch', 0.051672619, u'military_uniform', 0.025569398]

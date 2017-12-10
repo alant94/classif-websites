@@ -1,0 +1,4 @@
+[u'comic_book', 0.21972105, u'book_jacket', 0.1576577, u'web_site', 0.057231523]
+[u'crossword_puzzle', 0.62531275, u'digital_clock', 0.14565317, u'web_site', 0.028712967]
+[u'comic_book', 0.35910779, u'book_jacket', 0.17580725, u'web_site', 0.10902106]
+[u'crossword_puzzle', 0.41148949, u'digital_clock', 0.1843518, u'digital_watch', 0.16102208]

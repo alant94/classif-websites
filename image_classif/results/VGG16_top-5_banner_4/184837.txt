@@ -1,0 +1,2 @@
+[u'tray', 0.141201, u'book_jacket', 0.078690507, u'envelope', 0.042978328, u'lighter', 0.038185563, u'binder', 0.027962558]
+[u'switch', 0.21944927, u'digital_clock', 0.082402557, u'iPod', 0.071988925, u'hook', 0.044726487, u'cash_machine', 0.042316396]

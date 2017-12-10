@@ -1,0 +1,5 @@
+[u'vestment', 0.39300603, u'theater_curtain', 0.10544698, u'altar', 0.076392941]
+[u'mosque', 0.57975739, u'obelisk', 0.18695612, u'monastery', 0.076177992]
+[u'suit', 0.24653071, u'chain', 0.059587594, u'trench_coat', 0.055689298]
+[u'barbershop', 0.47228014, u'street_sign', 0.15575053, u'bakery', 0.10711705]
+[u'web_site', 0.11787037, u'bolo_tie', 0.051480148, u'shield', 0.039086498]

@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.19731145, u'envelope', 0.14190865, u'jersey', 0.11429196, u'digital_clock', 0.059701145, u'book_jacket', 0.045884073]
+[u'stupa', 0.71534979, u'bell_cote', 0.10654417, u'pencil_sharpener', 0.033374753, u'church', 0.013350118, u'dome', 0.0087143239]
+[u'envelope', 0.17550793, u'Band_Aid', 0.038762461, u'Windsor_tie', 0.038137037, u'web_site', 0.035741899, u'sock', 0.017885996]
+[u'coho', 0.22240342, u'golfcart', 0.1784291, u'barracouta', 0.10311253, u'sturgeon', 0.088484615, u'gar', 0.056717604]
+[u'electric_guitar', 0.44460326, u'banjo', 0.20846364, u'stage', 0.19967462, u'acoustic_guitar', 0.073631883, u'microphone', 0.033571824]
+[u'parachute', 0.0848189, u'bell_cote', 0.068752795, u'beacon', 0.066166103, u'flagpole', 0.059106138, u'airship', 0.049043413]

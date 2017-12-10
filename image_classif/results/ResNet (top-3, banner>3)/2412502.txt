@@ -1,0 +1,3 @@
+[u'web_site', 0.1206094, u'remote_control', 0.0226536, u'power_drill', 0.020308513]
+[u'web_site', 0.82635206, u'hand-held_computer', 0.033616818, u'moving_van', 0.016717836]
+[u'Band_Aid', 0.82655227, u'hair_spray', 0.024950482, u'lipstick', 0.016729003]

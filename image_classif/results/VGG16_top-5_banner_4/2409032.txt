@@ -1,0 +1,1 @@
+[u'digital_watch', 0.19347638, u'soccer_ball', 0.15487087, u'bottlecap', 0.040512893, u'tractor', 0.039360285, u'whistle', 0.037321016]

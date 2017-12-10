@@ -1,0 +1,4 @@
+[u'pomegranate', 0.58217442, u'bell_pepper', 0.16401811, u'fig', 0.10142341, u'buckeye', 0.069213524, u'hip', 0.028040288]
+[u'bow', 0.31526166, u'gong', 0.16394632, u'mosquito_net', 0.051204357, u'swing', 0.049714614, u'carousel', 0.048793186]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'home_theater', 0.35852215, u'quilt', 0.23728256, u'window_shade', 0.16817382, u'studio_couch', 0.060701679, u'sliding_door', 0.033046644]

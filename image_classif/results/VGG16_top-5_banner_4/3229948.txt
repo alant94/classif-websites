@@ -1,0 +1,4 @@
+[u'picket_fence', 0.061894383, u'solar_dish', 0.049763113, u'balloon', 0.045652814, u'swimming_trunks', 0.044274904, u'lampshade', 0.041998044]
+[u'ski', 0.63948178, u'picket_fence', 0.049995311, u'paintbrush', 0.032204464, u'wardrobe', 0.021709817, u'chime', 0.02064432]
+[u'picket_fence', 0.45889208, u'worm_fence', 0.10881274, u'megalith', 0.034955259, u'ski', 0.026731096, u'breakwater', 0.015257989]
+[u'quill', 0.48514885, u'picket_fence', 0.14427051, u'toilet_tissue', 0.064986058, u'paper_towel', 0.050812621, u'crossword_puzzle', 0.036864221]

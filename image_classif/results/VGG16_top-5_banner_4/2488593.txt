@@ -1,0 +1,4 @@
+[u'ibex', 0.37928897, u'gazelle', 0.14738522, u'wallaby', 0.14193499, u'bighorn', 0.13135193, u'ram', 0.048007492]
+[u'book_jacket', 0.37281823, u'prison', 0.30225131, u'web_site', 0.035830777, u'scoreboard', 0.027319493, u'picket_fence', 0.020952465]
+[u'window_shade', 0.22708257, u'sliding_door', 0.211303, u'shoji', 0.12111255, u'washbasin', 0.10058361, u'wardrobe', 0.084237427]
+[u'book_jacket', 0.25173008, u'magpie', 0.082138211, u'window_screen', 0.081619255, u'black_grouse', 0.056630682, u'television', 0.02988857]

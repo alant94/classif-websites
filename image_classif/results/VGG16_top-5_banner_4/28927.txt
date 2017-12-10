@@ -1,0 +1,4 @@
+[u'pinwheel', 0.15604223, u'toyshop', 0.13532461, u'kimono', 0.11626426, u'bubble', 0.095925935, u'picket_fence', 0.079599366]
+[u'black-and-tan_coonhound', 0.38080299, u'Gordon_setter', 0.2910549, u'bloodhound', 0.090926468, u'basset', 0.090203911, u'Greater_Swiss_Mountain_dog', 0.036942866]
+[u'sulphur_butterfly', 0.0771503, u'spoonbill', 0.072327584, u'ice_lolly', 0.060732044, u'lorikeet', 0.056018334, u'mantis', 0.042120304]
+[u'coral_fungus', 0.38981229, u'bee', 0.087288626, u'pot', 0.087178394, u'admiral', 0.043435659, u'sulphur_butterfly', 0.032014895]

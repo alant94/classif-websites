@@ -1,0 +1,3 @@
+[u'admiral', 0.32920504, u'bottlecap', 0.13422894, u'ringneck_snake', 0.096343882]
+[u'prison', 0.96499622, u'library', 0.010837344, u'bookshop', 0.0055768685]
+[u'valley', 0.45647669, u'alp', 0.4336102, u'cliff', 0.070628688]

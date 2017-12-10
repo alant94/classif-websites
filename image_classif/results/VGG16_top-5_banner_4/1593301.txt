@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.91150999, u'gyromitra', 0.043512214, u'vizsla', 0.0091307946, u'Rhodesian_ridgeback', 0.0036167535, u'bathing_cap', 0.0029287979]
+[u'hay', 0.23941772, u'hog', 0.12007651, u'swimming_trunks', 0.111129, u'cowboy_hat', 0.073330499, u'vizsla', 0.059903797]

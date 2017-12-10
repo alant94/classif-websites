@@ -1,0 +1,8 @@
+[u'candle', 0.47463319, u'organ', 0.10201026, u'matchstick', 0.058492813, u'lighter', 0.028681481, u'lipstick', 0.026211908]
+[u'altar', 0.43205976, u'restaurant', 0.28945634, u'vault', 0.04293875, u'church', 0.03772971, u'grand_piano', 0.022110542]
+[u'wardrobe', 0.51172662, u'handkerchief', 0.15949999, u'butcher_shop', 0.074668571, u'shower_curtain', 0.032703448, u'picket_fence', 0.025930854]
+[u'wardrobe', 0.4919745, u'crib', 0.025904475, u'bobsled', 0.023535613, u'picket_fence', 0.01813088, u'refrigerator', 0.017854469]
+[u'letter_opener', 0.28584546, u'can_opener', 0.15883256, u'corkscrew', 0.12121768, u'bow', 0.063499257, u'iron', 0.061124612]
+[u'fire_engine', 0.40778378, u'pole', 0.072489046, u'flagpole', 0.063809223, u'Indian_elephant', 0.060033899, u'torch', 0.046642173]
+[u'street_sign', 0.99947649, u'traffic_light', 0.00047596529, u'mailbox', 1.4141576e-05, u'scoreboard', 1.0004172e-05, u'chainlink_fence', 4.7062917e-06]
+[u'crossword_puzzle', 0.45094287, u'toilet_tissue', 0.1085108, u'slide_rule', 0.034956768, u'rule', 0.030797534, u'purse', 0.025179027]

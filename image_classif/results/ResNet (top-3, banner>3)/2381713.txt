@@ -1,0 +1,8 @@
+[u'suit', 0.92199433, u'Windsor_tie', 0.042487036, u'Kerry_blue_terrier', 0.0055178683]
+[u'pick', 0.084932871, u'hair_spray', 0.041033857, u'stopwatch', 0.03047505]
+[u'web_site', 0.46290785, u'envelope', 0.06607914, u'hook', 0.025630586]
+[u'fire_screen', 0.33555442, u'stove', 0.32344517, u'rotisserie', 0.081282273]
+[u'scoreboard', 0.92084843, u'street_sign', 0.015583786, u'book_jacket', 0.011962295]
+[u'mask', 0.60160524, u'tractor', 0.053481728, u'web_site', 0.042216804]
+[u'bakery', 0.34646332, u'toyshop', 0.24898168, u'tobacco_shop', 0.093007147]
+[u'lighter', 0.097221613, u'remote_control', 0.068736896, u'oil_filter', 0.048536018]

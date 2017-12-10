@@ -1,0 +1,6 @@
+[u'wine_bottle', 0.4999488, u'beer_bottle', 0.44588494, u'pop_bottle', 0.026454151, u'screwdriver', 0.015902316, u'red_wine', 0.0088188527]
+[u'stage', 0.46926519, u'bubble', 0.23130037, u'red_wine', 0.079531498, u'fountain', 0.07831984, u'torch', 0.04401657]
+[u'envelope', 0.21342643, u'binder', 0.11229184, u'whistle', 0.068566248, u'switch', 0.05992363, u'tray', 0.049217664]
+[u'abacus', 0.12556863, u'computer_keyboard', 0.12536271, u'padlock', 0.083153293, u'wine_bottle', 0.074816667, u'typewriter_keyboard', 0.044309318]
+[u'wine_bottle', 0.20602994, u'French_horn', 0.10937463, u'barrel', 0.077763148, u'cornet', 0.067703053, u'sax', 0.064948298]
+[u'radiator', 0.42143118, u'mouse', 0.11055131, u'banana', 0.090597101, u'computer_keyboard', 0.071586303, u'velvet', 0.037540011]

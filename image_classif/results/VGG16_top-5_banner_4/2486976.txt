@@ -1,0 +1,3 @@
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]

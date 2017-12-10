@@ -1,0 +1,2 @@
+[u'military_uniform', 0.28033429, u'bearskin', 0.24558856, u'academic_gown', 0.044636983, u'bow', 0.044097327, u'mortarboard', 0.039946262]
+[u'sarong', 0.048653521, u'poncho', 0.04859164, u'leatherback_turtle', 0.040230751, u'rock_python', 0.035944972, u'barrow', 0.034794025]

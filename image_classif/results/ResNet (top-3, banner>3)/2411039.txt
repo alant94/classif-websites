@@ -1,0 +1,3 @@
+[u'web_site', 0.99996376, u'monitor', 1.4323947e-05, u'screen', 8.1346298e-06]
+[u'crossword_puzzle', 0.61548275, u'digital_clock', 0.053113945, u'tripod', 0.033116452]
+[u'grocery_store', 0.092267223, u'street_sign', 0.091294087, u'library', 0.087354228]

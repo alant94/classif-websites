@@ -1,0 +1,5 @@
+[u'bow', 0.5049594, u'web_site', 0.035204325, u'hook', 0.031131979, u'rule', 0.030351585, u'tiger_beetle', 0.024597941]
+[u'hook', 0.08262977, u'cornet', 0.049882267, u'totem_pole', 0.044881281, u'balloon', 0.031805404, u'horizontal_bar', 0.031781752]
+[u'oxygen_mask', 0.13210781, u'brassiere', 0.11241683, u'whistle', 0.096766822, u'gasmask', 0.088499077, u'mask', 0.029672695]
+[u'paddle', 0.25166509, u'bow', 0.19064301, u'scabbard', 0.11033276, u'letter_opener', 0.10352474, u'quill', 0.066362835]
+[u'ocarina', 0.23164599, u'groom', 0.2176615, u'cellular_telephone', 0.096154191, u'kimono', 0.091349177, u'hair_spray', 0.042833365]

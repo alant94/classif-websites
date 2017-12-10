@@ -1,0 +1,5 @@
+[u'analog_clock', 0.47861487, u'stopwatch', 0.34864965, u'wall_clock', 0.094783954, u'barometer', 0.027676931, u'magnetic_compass', 0.010321343]
+[u'bulbul', 0.23401721, u'mantis', 0.085716471, u'fig', 0.035175402, u'corn', 0.032385588, u'chickadee', 0.031411856]
+[u'jersey', 0.081191413, u'web_site', 0.039329659, u'book_jacket', 0.034117397, u'matchstick', 0.032975461, u'nematode', 0.030942237]
+[u'alp', 0.4004547, u'maze', 0.13644835, u'mountain_bike', 0.086922973, u'unicycle', 0.043686692, u'valley', 0.034278587]
+[u'matchstick', 0.14110498, u'necklace', 0.072268173, u"jack-o'-lantern", 0.063409887, u'sombrero', 0.055063572, u'lampshade', 0.039117407]

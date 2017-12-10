@@ -1,0 +1,4 @@
+[u'ballpoint', 0.16056278, u'screwdriver', 0.13721186, u'nail', 0.12056844, u'letter_opener', 0.089106485, u"carpenter's_kit", 0.056004222]
+[u'pill_bottle', 0.45027095, u'water_bottle', 0.22530891, u'perfume', 0.084489234, u'chocolate_sauce', 0.034991655, u'pop_bottle', 0.027564505]
+[u'analog_clock', 0.39750361, u'wall_clock', 0.26955143, u'barometer', 0.066413745, u'combination_lock', 0.060250107, u'spotlight', 0.030300424]
+[u'beaker', 0.27957755, u'trifle', 0.14654328, u'beer_glass', 0.069777109, u'perfume', 0.057141203, u'espresso', 0.047706578]

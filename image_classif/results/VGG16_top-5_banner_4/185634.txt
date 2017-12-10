@@ -1,0 +1,2 @@
+[u'suit', 0.22842401, u'Band_Aid', 0.069116093, u'Windsor_tie', 0.061173495, u'matchstick', 0.050706118, u'ski', 0.034574661]
+[u'lab_coat', 0.17709102, u'shower_cap', 0.040094964, u'bonnet', 0.031795848, u'toilet_tissue', 0.025951609, u'gasmask', 0.023804205]

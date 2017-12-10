@@ -1,0 +1,3 @@
+[u'knee_pad', 0.29612648, u'miniskirt', 0.21485636, u'Loafer', 0.063201159, u'motor_scooter', 0.037010498, u'unicycle', 0.032529444]
+[u'bolo_tie', 0.11569632, u'crutch', 0.10814506, u'accordion', 0.068958983, u'bassoon', 0.041891802, u'cardigan', 0.039492436]
+[u'cloak', 0.14448182, u'fur_coat', 0.13595527, u'stole', 0.11699446, u'trench_coat', 0.054308981, u'sweatshirt', 0.050384596]

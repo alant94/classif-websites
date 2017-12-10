@@ -1,0 +1,3 @@
+[u'chocolate_sauce', 0.8230986, u'ice_cream', 0.13562018, u'trifle', 0.025679613]
+[u'church', 0.4029071, u'beacon', 0.11832305, u'picket_fence', 0.054157592]
+[u'trifle', 0.16654113, u'meat_loaf', 0.16528608, u'ice_cream', 0.14349474]

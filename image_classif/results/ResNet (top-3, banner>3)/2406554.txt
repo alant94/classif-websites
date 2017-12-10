@@ -1,0 +1,4 @@
+[u'Mexican_hairless', 0.44401333, u'oxcart', 0.19347198, u'ox', 0.11276902]
+[u'comic_book', 0.3720395, u'cuirass', 0.28209522, u'oxygen_mask', 0.15135483]
+[u'book_jacket', 0.68928522, u'comic_book', 0.066897072, u'sorrel', 0.020602161]
+[u'jigsaw_puzzle', 0.54038244, u'book_jacket', 0.11700139, u'tray', 0.069215007]

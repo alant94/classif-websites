@@ -1,0 +1,5 @@
+[u'book_jacket', 0.80184412, u'scoreboard', 0.11633371, u'street_sign', 0.022241142]
+[u'scoreboard', 0.99597734, u'digital_watch', 0.0023368152, u'digital_clock', 0.00089360384]
+[u'crossword_puzzle', 0.42774725, u'container_ship', 0.048256379, u'cash_machine', 0.039397147]
+[u'Band_Aid', 0.85164654, u'candle', 0.030354708, u'lipstick', 0.012622894]
+[u'digital_clock', 0.072153531, u'sunscreen', 0.067645617, u'whistle', 0.05940346]

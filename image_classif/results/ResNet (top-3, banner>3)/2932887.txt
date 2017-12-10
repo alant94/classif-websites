@@ -1,0 +1,7 @@
+[u'bolo_tie', 0.53385955, u'knot', 0.16584095, u'stopwatch', 0.10874673]
+[u'chain', 0.24072424, u'bolo_tie', 0.1869809, u'oscilloscope', 0.088246487]
+[u'book_jacket', 0.16093646, u'street_sign', 0.14075883, u'traffic_light', 0.068333641]
+[u'digital_clock', 0.20236523, u'stopwatch', 0.19589011, u'puck', 0.084603868]
+[u'digital_clock', 0.36764389, u'book_jacket', 0.12208504, u'Band_Aid', 0.060056668]
+[u'crossword_puzzle', 0.33151838, u'tray', 0.15332873, u'quilt', 0.11790311]
+[u'oscilloscope', 0.17372625, u'chain', 0.15517437, u'stopwatch', 0.14328104]

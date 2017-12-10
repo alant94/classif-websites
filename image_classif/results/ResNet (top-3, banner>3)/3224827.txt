@@ -1,0 +1,4 @@
+[u'groom', 0.6654377, u'suit', 0.20688882, u'gown', 0.037370004]
+[u'hair_slide', 0.13534158, u'necklace', 0.10996333, u'pencil_sharpener', 0.10446465]
+[u'wooden_spoon', 0.37415215, u'totem_pole', 0.2525686, u'pelican', 0.16295877]
+[u'television', 0.35867608, u'cellular_telephone', 0.34146637, u'iPod', 0.068184398]

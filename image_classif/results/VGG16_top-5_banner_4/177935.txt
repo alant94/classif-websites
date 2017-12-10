@@ -1,0 +1,4 @@
+[u'screw', 0.29275724, u'nail', 0.10318946, u'screwdriver', 0.076178402, u'matchstick', 0.060065791, u'candle', 0.036672372]
+[u'cash_machine', 0.36455715, u'monitor', 0.13564752, u'screen', 0.12403728, u'television', 0.077800192, u'vending_machine', 0.031700045]
+[u'web_site', 0.99330294, u'book_jacket', 0.0010201142, u'envelope', 0.00096698129, u'rule', 0.00046464903, u'analog_clock', 0.0004478984]
+[u'envelope', 0.14035967, u'rubber_eraser', 0.12827636, u'whistle', 0.1195128, u'digital_clock', 0.097557738, u'Band_Aid', 0.069202483]

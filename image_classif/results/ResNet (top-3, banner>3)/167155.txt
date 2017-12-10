@@ -1,0 +1,7 @@
+[u'barbershop', 0.35324591, u'web_site', 0.18488571, u'comic_book', 0.16504547]
+[u'analog_clock', 0.094572224, u'web_site', 0.082149357, u'digital_clock', 0.043874893]
+[u'jellyfish', 0.14757527, u'web_site', 0.11413563, u'binder', 0.095411338]
+[u'web_site', 0.3427805, u'envelope', 0.1074065, u'moving_van', 0.025807176]
+[u'shield', 0.18869747, u'bolo_tie', 0.1694507, u'buckle', 0.1199163]
+[u'digital_clock', 0.68485737, u'analog_clock', 0.060206238, u'envelope', 0.048631482]
+[u'puck', 0.61874473, u'bottlecap', 0.052246682, u'face_powder', 0.04213804]

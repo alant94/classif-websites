@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.24440779, u'envelope', 0.16884518, u'scoreboard', 0.058643464, u'digital_clock', 0.044840757, u'book_jacket', 0.030966775]
+[u'nail', 0.09403649, u'apron', 0.046785451, u'bib', 0.030958189, u'swab', 0.027693292, u"carpenter's_kit", 0.026996238]

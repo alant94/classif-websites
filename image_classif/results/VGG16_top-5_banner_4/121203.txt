@@ -1,0 +1,2 @@
+[u'hook', 0.12006059, u'electric_fan', 0.059771027, u'oboe', 0.038114276, u'joystick', 0.036037762, u'maze', 0.034727417]
+[u'ping-pong_ball', 0.17727283, u'face_powder', 0.04500661, u'soccer_ball', 0.037427329, u'maraca', 0.033682846, u'balloon', 0.028324105]

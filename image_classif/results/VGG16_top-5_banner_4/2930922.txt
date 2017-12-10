@@ -1,0 +1,6 @@
+[u'stage', 0.063190833, u'beaker', 0.055141181, u'measuring_cup', 0.052081082, u'water_jug', 0.0410733, u'maillot', 0.037945461]
+[u'Petri_dish', 0.1057347, u'screen', 0.064443864, u'beaker', 0.060245957, u'analog_clock', 0.040443115, u'pill_bottle', 0.032483913]
+[u'web_site', 0.31692201, u'envelope', 0.13964258, u'jersey', 0.06580013, u'menu', 0.044010229, u'comic_book', 0.015211327]
+[u'barbershop', 0.27923074, u'Band_Aid', 0.062066484, u'neck_brace', 0.050352544, u'sunscreen', 0.041656394, u'nipple', 0.039992407]
+[u'bathing_cap', 0.18593007, u'swimming_trunks', 0.16335684, u'shower_cap', 0.11233927, u'dumbbell', 0.061646935, u'sunscreen', 0.031619914]
+[u'seashore', 0.18673077, u'cliff', 0.15133683, u'promontory', 0.082369834, u'lakeside', 0.026963389, u'geyser', 0.024675369]

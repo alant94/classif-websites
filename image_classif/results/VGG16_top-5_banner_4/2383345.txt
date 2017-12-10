@@ -1,0 +1,5 @@
+[u'web_site', 0.12533849, u'envelope', 0.056990653, u'menu', 0.037835989, u'hand_blower', 0.022276448, u'sunglasses', 0.016653234]
+[u'envelope', 0.38015151, u'carton', 0.090412982, u'cash_machine', 0.066732317, u'monitor', 0.047561508, u'binder', 0.031791363]
+[u'rifle', 0.2453119, u'maypole', 0.17886093, u'bow', 0.11753413, u'military_uniform', 0.087025009, u'bassoon', 0.059838966]
+[u'red_wine', 0.54813409, u'wine_bottle', 0.43728492, u'corkscrew', 0.0025623972, u'goblet', 0.0022535208, u'perfume', 0.0019462872]
+[u'rapeseed', 0.91251171, u'ant', 0.024208581, u'bee', 0.015665917, u'ladybug', 0.0152282, u'fly', 0.011898343]

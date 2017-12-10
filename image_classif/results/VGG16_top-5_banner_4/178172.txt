@@ -1,0 +1,2 @@
+[u'hair_slide', 0.16411901, u'web_site', 0.062319588, u'hook', 0.061295513, u'ballpoint', 0.056646034, u'safety_pin', 0.053716153]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

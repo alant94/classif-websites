@@ -1,0 +1,1 @@
+[u'street_sign', 0.47078568, u'book_jacket', 0.16056347, u'cinema', 0.019898431, u'barbershop', 0.019799044, u'hook', 0.019758461]

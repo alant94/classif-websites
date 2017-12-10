@@ -1,0 +1,5 @@
+[u'theater_curtain', 0.24635331, u'stage', 0.24571861, u'sax', 0.099206798]
+[u'upright', 0.97737783, u'grand_piano', 0.021674501, u'organ', 0.00094263203]
+[u'plunger', 0.15255176, u'gas_pump', 0.065645017, u'oboe', 0.026885748]
+[u'monitor', 0.71455705, u'screen', 0.11062543, u'television', 0.032145269]
+[u'chain_saw', 0.63843715, u'puck', 0.096971385, u'drum', 0.058169544]

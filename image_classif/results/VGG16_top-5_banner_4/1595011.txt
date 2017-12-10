@@ -1,0 +1,5 @@
+[u'washbasin', 0.057462215, u'shower_curtain', 0.041465346, u'bathtub', 0.037282918, u'grand_piano', 0.034865215, u'tub', 0.028022734]
+[u'brassiere', 0.2654542, u'maillot', 0.20641306, u'maillot', 0.12295502, u'miniskirt', 0.083806142, u'bikini', 0.076856449]
+[u'brassiere', 0.68011498, u'bikini', 0.13105953, u'diaper', 0.080212787, u'bath_towel', 0.048559546, u'miniskirt', 0.016466483]
+[u'miniskirt', 0.44000652, u'brassiere', 0.14951107, u'maillot', 0.076031126, u'pole', 0.064385399, u'bikini', 0.021590237]
+[u'spotlight', 0.077643849, u'screw', 0.06864237, u'lighter', 0.065467313, u'nail', 0.062408727, u'matchstick', 0.049634587]

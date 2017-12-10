@@ -1,0 +1,4 @@
+[u'cassette_player', 0.34815136, u'cassette', 0.13002694, u'analog_clock', 0.12736554]
+[u'digital_clock', 0.41210815, u'prayer_rug', 0.08429461, u'street_sign', 0.059715342]
+[u'television', 0.80964428, u'home_theater', 0.024344612, u'screen', 0.022565044]
+[u'digital_clock', 0.97824484, u'digital_watch', 0.013815884, u'analog_clock', 0.0047322605]

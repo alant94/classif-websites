@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.16100118, u'envelope', 0.12937734, u'digital_clock', 0.065222889]
+[u'envelope', 0.08321517, u'web_site', 0.047859382, u'traffic_light', 0.029402403]
+[u'digital_clock', 0.42839831, u'crossword_puzzle', 0.23817912, u'prayer_rug', 0.02964953]
+[u'digital_clock', 0.91199285, u'digital_watch', 0.067619346, u'crossword_puzzle', 0.0055745123]
+[u'digital_clock', 0.73399091, u'perfume', 0.019577924, u'wall_clock', 0.018826783]

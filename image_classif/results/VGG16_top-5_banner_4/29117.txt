@@ -1,0 +1,1 @@
+[u'speedboat', 0.85283303, u'catamaran', 0.071620233, u'trimaran', 0.05972885, u'submarine', 0.0062316512, u'liner', 0.0024436614]

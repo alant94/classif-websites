@@ -1,0 +1,1 @@
+[u'pencil_sharpener', 0.55851722, u'birdhouse', 0.11462625, u'mask', 0.05680361, u'jigsaw_puzzle', 0.05514244, u'can_opener', 0.016364971]

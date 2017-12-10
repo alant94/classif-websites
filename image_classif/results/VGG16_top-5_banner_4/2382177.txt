@@ -1,0 +1,3 @@
+[u'barrel', 0.68259013, u'lumbermill', 0.16436481, u'totem_pole', 0.018101478, u'church', 0.01451946, u'gong', 0.010022995]
+[u'scoreboard', 0.19069456, u'flagpole', 0.063691184, u'ski', 0.043581452, u'street_sign', 0.04083566, u'alp', 0.026016131]
+[u'analog_clock', 0.1929678, u'Petri_dish', 0.1120422, u'digital_clock', 0.09304326, u'tray', 0.084830441, u'wall_clock', 0.03990702]

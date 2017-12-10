@@ -1,0 +1,4 @@
+[u'airship', 0.47161344, u'container_ship', 0.25448188, u'submarine', 0.026705472]
+[u'siamang', 0.37603641, u'gibbon', 0.19572076, u'window_screen', 0.042237256]
+[u'maillot', 0.070127361, u'sarong', 0.060036793, u'maillot', 0.055056036]
+[u'cash_machine', 0.19811825, u'prison', 0.11811795, u'screen', 0.087811835]

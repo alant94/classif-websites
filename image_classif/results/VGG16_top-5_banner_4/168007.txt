@@ -1,0 +1,1 @@
+[u'stage', 0.27472901, u'electric_guitar', 0.22180188, u'sax', 0.17731902, u'harp', 0.098079629, u'microphone', 0.040602721]

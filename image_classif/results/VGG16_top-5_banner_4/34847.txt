@@ -1,0 +1,2 @@
+[u'pick', 0.14824784, u'face_powder', 0.080688246, u'sunglass', 0.078945525, u'toilet_seat', 0.050428472, u'sunglasses', 0.03670492]
+[u"carpenter's_kit", 0.7932148, u'screwdriver', 0.19198234, u'power_drill', 0.0023867853, u'cleaver', 0.0014199859, u'hammer', 0.0013777631]

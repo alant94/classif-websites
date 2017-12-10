@@ -1,0 +1,2 @@
+[u'book_jacket', 0.22268736, u'web_site', 0.046466436, u'sunscreen', 0.022817574]
+[u'envelope', 0.18627243, u'Band_Aid', 0.11731473, u'jersey', 0.088232085]

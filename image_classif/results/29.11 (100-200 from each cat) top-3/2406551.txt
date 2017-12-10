@@ -1,0 +1,4 @@
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'cardoon', 0.39231727, u'sulphur_butterfly', 0.18906942, u'bee', 0.12207542]
+[u'rubber_eraser', 0.25253409, u'rule', 0.15181066, u'crossword_puzzle', 0.10656054]
+[u'tiger', 0.94480753, u'tiger_cat', 0.05372547, u'zebra', 0.00069232675]

@@ -1,0 +1,3 @@
+[u'cash_machine', 0.10896809, u'prison', 0.10111687, u'guillotine', 0.10008161, u'vault', 0.087048903, u'bookshop', 0.054999314]
+[u'beer_glass', 0.39790207, u'bottlecap', 0.1279539, u'stopwatch', 0.076329827, u'balloon', 0.059731856, u'digital_watch', 0.045542557]
+[u'West_Highland_white_terrier', 0.15648828, u'steel_drum', 0.10428602, u'stage', 0.091156229, u'electric_guitar', 0.075604334, u'gondola', 0.063002534]

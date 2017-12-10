@@ -1,0 +1,3 @@
+[u'coffee_mug', 0.7996645, u'cup', 0.064652137, u'espresso', 0.033222385]
+[u'web_site', 0.51306343, u'envelope', 0.2363787, u'rule', 0.03295153]
+[u'envelope', 0.37770551, u'sunscreen', 0.12781262, u'web_site', 0.081742525]

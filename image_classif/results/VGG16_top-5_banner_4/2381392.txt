@@ -1,0 +1,1 @@
+[u'web_site', 0.15724897, u'envelope', 0.10185103, u'window_shade', 0.010207642, u'brassiere', 0.0098448824, u'muzzle', 0.0086155729]

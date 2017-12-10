@@ -1,0 +1,4 @@
+[u'malamute', 0.34713444, u'assault_rifle', 0.14346853, u'military_uniform', 0.060051311]
+[u'chain_saw', 0.91566277, u'snowmobile', 0.052580807, u'snowplow', 0.0097182197]
+[u'cougar', 0.7093361, u'wild_boar', 0.17472647, u'ibex', 0.069784917]
+[u'oil_filter', 0.35244685, u'tennis_ball', 0.10539458, u'paper_towel', 0.036658689]

@@ -1,0 +1,2 @@
+[u'cleaver', 0.21493393, u'paintbrush', 0.079453237, u'oscilloscope', 0.068071231]
+[u'confectionery', 0.28393111, u'honeycomb', 0.18868829, u'restaurant', 0.073721983]

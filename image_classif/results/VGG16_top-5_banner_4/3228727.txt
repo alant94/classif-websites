@@ -1,0 +1,4 @@
+[u'maypole', 0.24599905, u'bow', 0.075062186, u'shield', 0.073510453, u'cloak', 0.072511367, u'macaw', 0.043559734]
+[u'bow', 0.22269534, u'swing', 0.14136572, u'macaque', 0.092795968, u'maypole', 0.087878145, u'orangutan', 0.06702251]
+[u'warplane', 0.78008085, u'wing', 0.17427151, u'pinwheel', 0.01090985, u'projectile', 0.00478335, u'airliner', 0.0042638187]
+[u"potter's_wheel", 0.26727259, u'lumbermill', 0.23991725, u'butcher_shop', 0.067633674, u'restaurant', 0.050282195, u'grocery_store', 0.025311146]

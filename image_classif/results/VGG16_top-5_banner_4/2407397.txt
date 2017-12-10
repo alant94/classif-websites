@@ -1,0 +1,6 @@
+[u'Irish_setter', 0.32868502, u'vizsla', 0.24861583, u'redbone', 0.115422, u'standard_poodle', 0.043181662, u'Irish_terrier', 0.040121499]
+[u'tray', 0.3149215, u'folding_chair', 0.15572478, u'sleeping_bag', 0.046300504, u'pencil_box', 0.036801465, u'Greater_Swiss_Mountain_dog', 0.033572584]
+[u'Airedale', 0.48603323, u'Doberman', 0.087586455, u'Rottweiler', 0.056879073, u'tray', 0.035053276, u'black-and-tan_coonhound', 0.025438115]
+[u'redbone', 0.86139321, u'Irish_setter', 0.066286571, u'vizsla', 0.045078199, u'Rhodesian_ridgeback', 0.0070210183, u'bloodhound', 0.0065793525]
+[u'redbone', 0.94204223, u'vizsla', 0.018050514, u'bath_towel', 0.0093572699, u'black-and-tan_coonhound', 0.0057974304, u'bloodhound', 0.0041682408]
+[u'black-and-tan_coonhound', 0.65939391, u'Airedale', 0.11751968, u'Doberman', 0.097695671, u'Gordon_setter', 0.062403582, u'Irish_setter', 0.014486253]

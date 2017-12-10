@@ -1,0 +1,7 @@
+[u'spotlight', 0.62405884, u'strainer', 0.2378473, u'washbasin', 0.067922495]
+[u'toilet_seat', 0.12609345, u'loudspeaker', 0.10215703, u'washer', 0.053440154]
+[u'spotlight', 0.26686269, u'toilet_seat', 0.19182667, u'loupe', 0.15030925]
+[u'digital_watch', 0.36855999, u'coil', 0.18638831, u'panpipe', 0.083825484]
+[u'strainer', 0.62609535, u'spotlight', 0.10857372, u'lampshade', 0.037789542]
+[u'vacuum', 0.30859575, u'espresso_maker', 0.28662941, u'reflex_camera', 0.021502793]
+[u'soap_dispenser', 0.50029993, u'spotlight', 0.18764628, u'can_opener', 0.15838048]

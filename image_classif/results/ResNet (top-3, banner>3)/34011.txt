@@ -1,0 +1,5 @@
+[u'book_jacket', 0.48208767, u'web_site', 0.14990187, u'packet', 0.044270735]
+[u'sliding_door', 0.19862862, u'medicine_chest', 0.18245725, u'tobacco_shop', 0.13161068]
+[u'Welsh_springer_spaniel', 0.32748485, u'English_setter', 0.17550345, u'oxygen_mask', 0.14039914]
+[u'CD_player', 0.18484932, u'joystick', 0.16027229, u'tape_player', 0.14945333]
+[u'book_jacket', 0.259404, u'web_site', 0.13506787, u'binder', 0.054024026]

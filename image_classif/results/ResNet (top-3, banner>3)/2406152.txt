@@ -1,0 +1,7 @@
+[u'pole', 0.68310755, u'bassoon', 0.089583881, u'totem_pole', 0.065394871]
+[u'flute', 0.99433362, u'oboe', 0.0054137693, u'ocarina', 0.0002330756]
+[u'oboe', 0.63213927, u'fountain_pen', 0.11695777, u'wine_bottle', 0.066274129]
+[u'bassoon', 0.27381802, u'oboe', 0.22824217, u'flute', 0.17990731]
+[u'strainer', 0.17215939, u'church', 0.16263172, u'spotlight', 0.10993965]
+[u'clog', 0.70735651, u'Loafer', 0.12613884, u'sandal', 0.03388489]
+[u'bassoon', 0.18304688, u'rifle', 0.12466474, u'flute', 0.12128511]

@@ -1,0 +1,6 @@
+[u'monitor', 0.36519885, u'envelope', 0.18578094, u'web_site', 0.083937436, u'screen', 0.079130806, u'notebook', 0.048728485]
+[u'envelope', 0.25396344, u'binder', 0.24857441, u'book_jacket', 0.18539368, u'web_site', 0.037021462, u'packet', 0.03500348]
+[u'web_site', 0.41586322, u'window_shade', 0.41315183, u'television', 0.028812747, u'menu', 0.026353566, u'monitor', 0.019938469]
+[u'refrigerator', 0.27714467, u'switch', 0.23470613, u'file', 0.08497972, u'cash_machine', 0.063291691, u'web_site', 0.045444913]
+[u'tobacco_shop', 0.30094641, u'comic_book', 0.14211053, u'bookshop', 0.13344805, u'book_jacket', 0.12307969, u'toyshop', 0.10824662]
+[u'Band_Aid', 0.34160084, u'rule', 0.11018322, u'medicine_chest', 0.056345515, u'carton', 0.049245033, u'switch', 0.041509312]

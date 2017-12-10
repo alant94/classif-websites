@@ -1,0 +1,5 @@
+[u'book_jacket', 0.88331711, u'platypus', 0.049414281, u'comic_book', 0.010900995]
+[u'kite', 0.7387554, u'great_grey_owl', 0.048081428, u'fountain', 0.036975939]
+[u'bustard', 0.22133084, u'prairie_chicken', 0.21477216, u'dowitcher', 0.15806174]
+[u'fountain', 0.69019669, u'red-backed_sandpiper', 0.022963459, u'great_grey_owl', 0.020084383]
+[u'web_site', 0.21268427, u'abaya', 0.10503087, u'hook', 0.055756398]

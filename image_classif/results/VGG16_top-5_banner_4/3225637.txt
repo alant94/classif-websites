@@ -1,0 +1,1 @@
+[u'rule', 0.2498569, u'slide_rule', 0.18134154, u'analog_clock', 0.16793807, u'sundial', 0.079916202, u'magnetic_compass', 0.074763596]

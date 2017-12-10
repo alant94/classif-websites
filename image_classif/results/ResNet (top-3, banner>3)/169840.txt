@@ -1,0 +1,3 @@
+[u'chainlink_fence', 0.23570013, u'steel_arch_bridge', 0.094401106, u'bannister', 0.08667025]
+[u'book_jacket', 0.1603843, u'maze', 0.054371886, u'comic_book', 0.032452974]
+[u'web_site', 0.54877293, u'menu', 0.14479442, u'comic_book', 0.12668845]

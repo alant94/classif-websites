@@ -1,0 +1,1 @@
+[u'picket_fence', 0.16772963, u'maze', 0.042370532, u'cash_machine', 0.041244723, u'street_sign', 0.040925767, u'envelope', 0.037098985]

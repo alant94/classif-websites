@@ -1,0 +1,3 @@
+[u'eft', 0.20606886, u'ladybug', 0.12654978, u'admiral', 0.11756408, u'leafhopper', 0.076586977, u'European_fire_salamander', 0.044126429]
+[u'prison', 0.879623, u'library', 0.035999317, u'bookshop', 0.010811398, u'streetcar', 0.01031869, u'passenger_car', 0.0088497773]
+[u'valley', 0.46895441, u'alp', 0.255943, u'cliff', 0.10630728, u'castle', 0.068143077, u'monastery', 0.033394489]

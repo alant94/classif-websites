@@ -1,0 +1,2 @@
+[u'pool_table', 0.8938477, u'laptop', 0.0078062806, u'joystick', 0.0063859397, u'projector', 0.0053008217, u'maraca', 0.0047836229]
+[u'ski', 0.14840689, u'comic_book', 0.12231462, u'electric_guitar', 0.11519799, u'military_uniform', 0.058864176, u'loudspeaker', 0.031504717]

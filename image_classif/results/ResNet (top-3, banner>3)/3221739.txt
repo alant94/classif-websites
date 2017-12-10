@@ -1,0 +1,8 @@
+[u'pole', 0.064292721, u'flagpole', 0.052351076, u'beacon', 0.04047342]
+[u'hand-held_computer', 0.15585653, u'comic_book', 0.12350803, u'toyshop', 0.094627917]
+[u'web_site', 0.29794848, u'television', 0.10944904, u'screen', 0.032388948]
+[u'envelope', 0.15555675, u'rifle', 0.038025182, u'book_jacket', 0.031812843]
+[u'microwave', 0.14080636, u'cassette', 0.1372859, u'abaya', 0.11739505]
+[u'seashore', 0.17522328, u'beacon', 0.058192533, u'promontory', 0.033382423]
+[u'shower_curtain', 0.31197393, u'trailer_truck', 0.12395603, u'monitor', 0.072969407]
+[u'hare', 0.23573788, u'television', 0.057698116, u'wood_rabbit', 0.055376112]

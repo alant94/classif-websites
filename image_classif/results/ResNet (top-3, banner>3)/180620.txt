@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.55941987, u'envelope', 0.17104417, u'shovel', 0.087494716]
+[u'hamper', 0.22776558, u'binder', 0.088691622, u'lighter', 0.072600171]
+[u'bow', 0.20471711, u'corn', 0.20336415, u'consomme', 0.10840938]
+[u'mortarboard', 0.24880512, u'vestment', 0.10802856, u'envelope', 0.095128618]

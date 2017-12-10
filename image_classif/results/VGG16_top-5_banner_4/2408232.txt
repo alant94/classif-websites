@@ -1,0 +1,2 @@
+[u'window_shade', 0.57313627, u'organ', 0.10276522, u'library', 0.052830387, u'theater_curtain', 0.040817849, u'bannister', 0.025323022]
+[u'web_site', 0.082527094, u'envelope', 0.068934016, u'sunscreen', 0.026149271, u'nail', 0.024484603, u'can_opener', 0.014910858]

@@ -1,0 +1,6 @@
+[u'snowplow', 0.10419305, u'cinema', 0.084706657, u'fire_engine', 0.067912996]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'beer_bottle', 0.57555121, u'pop_bottle', 0.41550866, u'wine_bottle', 0.0024495777]
+[u'boathouse', 0.1483192, u'window_shade', 0.041472692, u'picket_fence', 0.034278121]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

@@ -1,0 +1,1 @@
+[u'bikini', 0.29401734, u'bearskin', 0.089732327, u'miniskirt', 0.077812053, u'maillot', 0.066275403, u'fur_coat', 0.064482041]

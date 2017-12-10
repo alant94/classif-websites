@@ -1,0 +1,2 @@
+[u'organ', 0.43612009, u'chime', 0.16389056, u'ballpoint', 0.068922997, u'space_shuttle', 0.051621482, u"carpenter's_kit", 0.029793706]
+[u'screwdriver', 0.40443072, u'ballpoint', 0.19357333, u"carpenter's_kit", 0.10203274, u'book_jacket', 0.031732038, u'paintbrush', 0.028521938]

@@ -1,0 +1,2 @@
+[u'pill_bottle', 0.51435977, u'whiskey_jug', 0.057716612, u'lotion', 0.047261879, u'candle', 0.045812022, u'nipple', 0.033878647]
+[u'scoreboard', 0.13498941, u'cash_machine', 0.11364706, u'envelope', 0.088451043, u'ambulance', 0.07172212, u'digital_clock', 0.048213433]

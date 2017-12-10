@@ -1,0 +1,5 @@
+[u'hook', 0.19626303, u'punching_bag', 0.13448, u'drum', 0.08761736, u'puck', 0.032846469, u'crutch', 0.031356715]
+[u'letter_opener', 0.37989452, u'ballpoint', 0.11211223, u'vase', 0.097220026, u'chime', 0.068816811, u'wine_bottle', 0.032777246]
+[u'banjo', 0.1187237, u'moped', 0.033294518, u'ballplayer', 0.029276676, u'stage', 0.026146615, u'accordion', 0.026128421]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]
+[u'beer_glass', 0.35363093, u'eggnog', 0.34005371, u'goblet', 0.24950427, u'red_wine', 0.023533309, u'cocktail_shaker', 0.011092287]

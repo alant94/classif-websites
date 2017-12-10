@@ -1,0 +1,6 @@
+[u'analog_clock', 0.32593229, u'wall_clock', 0.28089646, u'book_jacket', 0.057916336, u'stopwatch', 0.055107635, u'barometer', 0.039151914]
+[u'restaurant', 0.30613902, u'patio', 0.19637363, u'sliding_door', 0.10484382, u'entertainment_center', 0.06354019, u'china_cabinet', 0.016690124]
+[u'wardrobe', 0.28429502, u'book_jacket', 0.21412042, u'sliding_door', 0.0857502, u'window_shade', 0.02011364, u'wallet', 0.016750643]
+[u'barn', 0.18761642, u'church', 0.15169838, u'greenhouse', 0.078167662, u'barbershop', 0.038008489, u'prison', 0.033602342]
+[u'bakery', 0.22906861, u'confectionery', 0.10040352, u'rotisserie', 0.086075522, u'restaurant', 0.059035022, u'toyshop', 0.052454855]
+[u'nail', 0.062480181, u'hook', 0.05365409, u"carpenter's_kit", 0.049191918, u'ballpoint', 0.041740701, u'can_opener', 0.036890794]

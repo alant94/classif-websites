@@ -1,0 +1,5 @@
+[u'hook', 0.28711456, u'crane', 0.12911472, u'guillotine', 0.088407196]
+[u'web_site', 0.13139731, u'Band_Aid', 0.034418065, u'comic_book', 0.032449365]
+[u'comic_book', 0.2284237, u'barbershop', 0.13908465, u'toyshop', 0.085305251]
+[u'church', 0.65438128, u'monastery', 0.10587529, u'bell_cote', 0.10204732]
+[u'analog_clock', 0.95117456, u'wall_clock', 0.04104251, u'digital_watch', 0.0017663403]

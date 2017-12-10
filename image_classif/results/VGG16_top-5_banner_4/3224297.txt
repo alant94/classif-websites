@@ -1,0 +1,4 @@
+[u'library', 0.19278483, u'dining_table', 0.19276221, u'restaurant', 0.17883682, u'desk', 0.033380285, u'lab_coat', 0.022887718]
+[u'stole', 0.19524884, u'groom', 0.17472874, u'cloak', 0.14554758, u'fur_coat', 0.10156887, u'harp', 0.038965583]
+[u'Windsor_tie', 0.82397884, u'lab_coat', 0.059262063, u'vestment', 0.034436662, u'suit', 0.020699242, u'bow_tie', 0.010987269]
+[u'bow_tie', 0.1453542, u'wool', 0.057643652, u'stole', 0.04979388, u'Windsor_tie', 0.047442969, u'burrito', 0.039285515]

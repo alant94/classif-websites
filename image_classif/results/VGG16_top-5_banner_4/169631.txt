@@ -1,0 +1,3 @@
+[u'window_screen', 0.30827782, u'screen', 0.13414516, u'window_shade', 0.13294518, u'monitor', 0.089326963, u'medicine_chest', 0.054490943]
+[u'hook', 0.19215824, u'padlock', 0.080054902, u'barrel', 0.048618633, u'chain', 0.047455776, u'tractor', 0.044666432]
+[u'book_jacket', 0.20518324, u'Band_Aid', 0.103948, u'binder', 0.09242937, u'envelope', 0.078878433, u'digital_clock', 0.074359588]

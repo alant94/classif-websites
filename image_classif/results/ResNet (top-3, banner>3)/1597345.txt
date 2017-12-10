@@ -1,0 +1,6 @@
+[u'orangutan', 0.24269556, u'bikini', 0.17226556, u'chimpanzee', 0.11432966]
+[u'knot', 0.24442855, u'wing', 0.10402498, u'fountain', 0.059333012]
+[u'bikini', 0.5664587, u'loupe', 0.30058414, u'maillot', 0.011896997]
+[u'fur_coat', 0.99141085, u'cloak', 0.00099976652, u'trench_coat', 0.00076625007]
+[u'cradle', 0.26969841, u'swing', 0.170398, u'diaper', 0.053838693]
+[u'pedestal', 0.21445592, u'hair_spray', 0.11834179, u'washbasin', 0.048851218]

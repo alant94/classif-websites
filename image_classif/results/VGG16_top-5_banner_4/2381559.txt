@@ -1,0 +1,8 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'switch', 0.1566337, u'pool_table', 0.098242208, u'ping-pong_ball', 0.033103444, u'traffic_light', 0.027325753, u'hook', 0.026856055]
+[u'barrel', 0.99955755, u'rain_barrel', 0.00017638199, u'dumbbell', 0.00015113434, u'bucket', 4.0320039e-05, u'cannon', 1.5425556e-05]
+[u'abaya', 0.16263053, u'pitcher', 0.073262647, u'cup', 0.066590115, u'shower_curtain', 0.066540472, u'coffee_mug', 0.03122692]
+[u'ear', 0.064037248, u'crane', 0.055775769, u'ostrich', 0.049154393, u'rapeseed', 0.042090315, u'limpkin', 0.036543339]
+[u'envelope', 0.019152585, u'cleaver', 0.013927598, u'face_powder', 0.0091718184, u'can_opener', 0.0081354305, u'corkscrew', 0.0078058001]
+[u'envelope', 0.04113834, u'cleaver', 0.024716264, u'web_site', 0.022736181, u'can_opener', 0.013676365, u'nail', 0.012845149]
+[u'spider_web', 0.54599786, u'barn_spider', 0.10295741, u'garden_spider', 0.094333984, u'black_and_gold_garden_spider', 0.048084434, u'spotlight', 0.018261118]

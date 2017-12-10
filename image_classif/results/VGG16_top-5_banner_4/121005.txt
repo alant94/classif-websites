@@ -1,0 +1,6 @@
+[u'pool_table', 0.13943624, u'home_theater', 0.10183337, u'traffic_light', 0.092168845, u'ping-pong_ball', 0.039114159, u'projector', 0.034213789]
+[u'container_ship', 0.13473655, u'web_site', 0.086075075, u'switch', 0.063103788, u'analog_clock', 0.045665741, u'remote_control', 0.041421257]
+[u'cab', 0.1683628, u'gas_pump', 0.093452103, u'ambulance', 0.0819778, u'traffic_light', 0.051572423, u'police_van', 0.033467695]
+[u'bow', 0.31034568, u'tripod', 0.088150114, u'book_jacket', 0.05224286, u'swing', 0.035990532, u'theater_curtain', 0.033577658]
+[u'hook', 0.16401896, u'parallel_bars', 0.13760519, u'horizontal_bar', 0.063363947, u'safety_pin', 0.057884105, u'chain', 0.032580514]
+[u'hook', 0.23146376, u'wall_clock', 0.049525745, u'bolo_tie', 0.044153921, u'safety_pin', 0.043730665, u'stethoscope', 0.032602172]

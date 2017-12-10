@@ -1,0 +1,1 @@
+[u'church', 0.24128985, u'monastery', 0.16686395, u'mobile_home', 0.11964061, u'patio', 0.080428913, u'boathouse', 0.044166159]

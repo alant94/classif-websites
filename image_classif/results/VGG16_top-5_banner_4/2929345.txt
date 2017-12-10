@@ -1,0 +1,4 @@
+[u'street_sign', 0.63411075, u'scoreboard', 0.0447166, u'cash_machine', 0.025550509, u'book_jacket', 0.02253641, u'web_site', 0.021687154]
+[u'nail', 0.44281054, u'screw', 0.099354267, u'chime', 0.045351427, u'screwdriver', 0.039112922, u'rule', 0.025542678]
+[u'web_site', 0.371546, u'book_jacket', 0.032615636, u'fountain', 0.031303484, u'accordion', 0.029539501, u'plate_rack', 0.016264236]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

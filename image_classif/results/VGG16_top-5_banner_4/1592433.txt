@@ -1,0 +1,8 @@
+[u'parachute', 0.089876913, u'container_ship', 0.088664442, u'jigsaw_puzzle', 0.079594187, u'balloon', 0.065469928, u'maze', 0.064532928]
+[u'switch', 0.19871004, u'refrigerator', 0.13802296, u'combination_lock', 0.035745963, u'dumbbell', 0.031260375, u'safe', 0.030357827]
+[u'candle', 0.2269697, u'bakery', 0.10874195, u'mosquito_net', 0.083015531, u'confectionery', 0.071101442, u'toyshop', 0.054090869]
+[u'wig', 0.68463141, u'bonnet', 0.12709829, u'quill', 0.083683878, u'feather_boa', 0.021310477, u'stole', 0.014445541]
+[u'bathtub', 0.35505652, u'tub', 0.2912713, u'diaper', 0.061997972, u'sunscreen', 0.029756187, u'bath_towel', 0.016313024]
+[u'brassiere', 0.33236155, u'maillot', 0.11043375, u'bikini', 0.059177514, u'diaper', 0.047424592, u'miniskirt', 0.047357429]
+[u'wig', 0.13856664, u'window_shade', 0.065221392, u'throne', 0.039106756, u'maillot', 0.037596639, u'bikini', 0.037422325]
+[u'bell_cote', 0.17570817, u'dam', 0.10244443, u'church', 0.065765917, u'fountain', 0.061683312, u'monastery', 0.047013067]

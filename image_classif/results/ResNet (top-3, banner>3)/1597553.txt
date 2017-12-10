@@ -1,0 +1,4 @@
+[u'miniskirt', 0.28608862, u'brassiere', 0.26176116, u'maillot', 0.17442542]
+[u'diaper', 0.87626833, u'swimming_trunks', 0.028660603, u'bikini', 0.024230449]
+[u'diaper', 0.20940416, u'bucket', 0.077430896, u'sunscreen', 0.071203418]
+[u'diaper', 0.17116274, u'cockroach', 0.077421539, u'miniskirt', 0.05062544]

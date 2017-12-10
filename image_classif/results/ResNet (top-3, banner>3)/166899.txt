@@ -1,0 +1,6 @@
+[u'menu', 0.62456822, u'envelope', 0.076260149, u'carton', 0.032403916]
+[u'French_horn', 0.62850082, u'cornet', 0.32515302, u'trombone', 0.036904357]
+[u'menu', 0.68312311, u'envelope', 0.085925497, u'binder', 0.031725001]
+[u'menu', 0.65010834, u'envelope', 0.17323256, u'carton', 0.024223948]
+[u'menu', 0.50235838, u'envelope', 0.10034288, u'oscilloscope', 0.09499725]
+[u'syringe', 0.40490922, u'screw', 0.19343048, u'screwdriver', 0.12561159]

@@ -1,0 +1,5 @@
+[u'bow', 0.22995175, u'hair_slide', 0.091294147, u'loupe', 0.071332164]
+[u'vacuum', 0.40455195, u'bow', 0.094692655, u'swab', 0.078445122]
+[u'scabbard', 0.2071905, u'hair_slide', 0.13369291, u'bow', 0.10356557]
+[u'chain_saw', 0.83121687, u'violin', 0.049468853, u'rifle', 0.019762712]
+[u'electric_guitar', 0.6776008, u'acoustic_guitar', 0.2053372, u'banjo', 0.044137821]

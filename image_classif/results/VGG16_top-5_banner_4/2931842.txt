@@ -1,0 +1,5 @@
+[u'panpipe', 0.29251438, u'magnetic_compass', 0.23328197, u'bottlecap', 0.034862988, u'balloon', 0.028109739, u'wall_clock', 0.023115749]
+[u'ballpoint', 0.68769699, u'binder', 0.077213183, u'chime', 0.034126114, u'rubber_eraser', 0.029456561, u'pencil_box', 0.027829107]
+[u'velvet', 0.046684332, u'envelope', 0.036590502, u'Windsor_tie', 0.022625169, u'handkerchief', 0.021527922, u'shower_curtain', 0.017044801]
+[u'plate_rack', 0.35884172, u'safe', 0.13701011, u'medicine_chest', 0.10423367, u'screen', 0.035963636, u'spotlight', 0.030119607]
+[u'lotion', 0.51707786, u'sunscreen', 0.25015938, u'hair_spray', 0.179471, u'pill_bottle', 0.013775835, u'medicine_chest', 0.013438481]

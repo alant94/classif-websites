@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.28232372, u'pencil_sharpener', 0.19202085, u'sandal', 0.048041187, u'running_shoe', 0.036415651, u'matchstick', 0.027187275]

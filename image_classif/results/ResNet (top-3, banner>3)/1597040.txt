@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.81772631, u'diaper', 0.046269152, u'bath_towel', 0.020980138]
+[u'bikini', 0.14348572, u'black-footed_ferret', 0.10528199, u'bathing_cap', 0.066255726]
+[u'syringe', 0.25715134, u'barbershop', 0.1487398, u'nipple', 0.090238832]
+[u'book_jacket', 0.45471063, u'web_site', 0.098688595, u'brassiere', 0.07140743]
+[u'bulletproof_vest', 0.42814067, u'tobacco_shop', 0.12723815, u'ski_mask', 0.062909499]
+[u'brassiere', 0.093527406, u'nipple', 0.084610887, u'cradle', 0.047994886]

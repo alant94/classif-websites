@@ -1,0 +1,3 @@
+[u'hammer', 0.56691688, u'nail', 0.19107288, u'hook', 0.04772282, u'strainer', 0.026190056, u'beaker', 0.020863675]
+[u'stone_wall', 0.85717905, u'trilobite', 0.066788591, u'megalith', 0.0072015212, u'brass', 0.0058191498, u'nail', 0.0052821203]
+[u'web_site', 0.099264875, u'envelope', 0.044371035, u'microphone', 0.042012516, u'hook', 0.038045384, u'cassette', 0.024976818]

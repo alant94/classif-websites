@@ -1,0 +1,2 @@
+[u'nematode', 0.14077592, u'envelope', 0.045596089, u'dugong', 0.043937448]
+[u'street_sign', 0.30007797, u'dugong', 0.04210221, u'pool_table', 0.028444605]

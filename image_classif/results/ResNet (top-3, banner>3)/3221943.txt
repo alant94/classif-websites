@@ -1,0 +1,2 @@
+[u'loupe', 0.8922801, u'cassette', 0.053090498, u'gong', 0.012919275]
+[u'sunglass', 0.26170555, u'web_site', 0.13700514, u'wall_clock', 0.12861118]

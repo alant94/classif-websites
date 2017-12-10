@@ -1,0 +1,3 @@
+[u'web_site', 0.5861786, u'book_jacket', 0.044143859, u'Band_Aid', 0.026514748]
+[u'stage', 0.12476925, u'lampshade', 0.077043623, u'fountain', 0.073869564]
+[u'web_site', 0.24187383, u'menu', 0.064795159, u'moving_van', 0.031624626]

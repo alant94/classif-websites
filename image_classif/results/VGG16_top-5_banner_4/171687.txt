@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.14238442, u'toilet_seat', 0.08714354, u'bathtub', 0.066792078, u'washbasin', 0.06656272, u'tub', 0.066229053]
+[u'hook', 0.029013848, u'Band_Aid', 0.028784698, u'bathing_cap', 0.028319776, u'web_site', 0.027792398, u'rubber_eraser', 0.025204556]

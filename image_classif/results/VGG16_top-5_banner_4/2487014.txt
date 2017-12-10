@@ -1,0 +1,5 @@
+[u'hook', 0.17836404, u'pole', 0.10833172, u'nail', 0.10378419, u'crane', 0.083366379, u'balance_beam', 0.027940797]
+[u'palace', 0.47198275, u'dome', 0.10434306, u'obelisk', 0.080564119, u'triumphal_arch', 0.080056868, u'mosque', 0.065542407]
+[u'palace', 0.49425414, u'church', 0.17915659, u'dome', 0.044740524, u'monastery', 0.043489903, u'obelisk', 0.032107685]
+[u'pier', 0.43512139, u'suspension_bridge', 0.42225972, u'steel_arch_bridge', 0.0361146, u'dock', 0.023627231, u'schooner', 0.021602146]
+[u'palace', 0.65971422, u'castle', 0.06762854, u'streetcar', 0.04375495, u'bell_cote', 0.026439717, u'monastery', 0.017675117]

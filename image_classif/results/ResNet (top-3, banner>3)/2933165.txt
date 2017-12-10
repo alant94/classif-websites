@@ -1,0 +1,1 @@
+[u'book_jacket', 0.38490406, u'envelope', 0.30446908, u'toilet_tissue', 0.046446379]

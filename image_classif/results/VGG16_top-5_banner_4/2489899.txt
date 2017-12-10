@@ -1,0 +1,1 @@
+[u'sliding_door', 0.092544533, u'window_screen', 0.075436115, u'shower_curtain', 0.020625068, u'tobacco_shop', 0.018394662, u'medicine_chest', 0.01811946]

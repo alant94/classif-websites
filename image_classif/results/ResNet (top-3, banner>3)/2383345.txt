@@ -1,0 +1,5 @@
+[u'web_site', 0.18135595, u'hook', 0.071143016, u'envelope', 0.069793999]
+[u'analog_clock', 0.15867969, u'envelope', 0.086969115, u'medicine_chest', 0.073326752]
+[u'maypole', 0.56284809, u'bow', 0.33294642, u'rifle', 0.021736812]
+[u'red_wine', 0.50611997, u'wine_bottle', 0.39832905, u'beer_bottle', 0.032825254]
+[u'rapeseed', 0.86602032, u'bee', 0.06347204, u'ladybug', 0.020173401]

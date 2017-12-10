@@ -1,0 +1,1 @@
+[u'folding_chair', 0.73103464, u'rocking_chair', 0.10750428, u'barber_chair', 0.018712727, u'plate_rack', 0.016491221, u'dishwasher', 0.01301151]

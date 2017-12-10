@@ -1,0 +1,1 @@
+[u'carton', 0.090699986, u'bell_cote', 0.065804221, u'envelope', 0.06064323, u'maze', 0.027409039, u'wall_clock', 0.026097031]

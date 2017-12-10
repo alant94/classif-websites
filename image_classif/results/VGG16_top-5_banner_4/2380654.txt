@@ -1,0 +1,4 @@
+[u'restaurant', 0.51245916, u'barbershop', 0.17673603, u'dining_table', 0.10925775, u'barber_chair', 0.052437291, u'china_cabinet', 0.025265869]
+[u'envelope', 0.27714702, u'web_site', 0.061505318, u'book_jacket', 0.034273192, u'nail', 0.022106446, u'rule', 0.01821623]
+[u'wine_bottle', 0.36704782, u'red_wine', 0.31775916, u'corkscrew', 0.15755667, u'syringe', 0.017175408, u'beaker', 0.0095062284]
+[u'red_wine', 0.41447702, u'wine_bottle', 0.27642396, u'beer_bottle', 0.12101235, u'pop_bottle', 0.043552443, u'pill_bottle', 0.02800663]

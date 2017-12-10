@@ -1,0 +1,2 @@
+[u'iPod', 0.51472098, u'notebook', 0.090804622, u'digital_clock', 0.031761978, u'remote_control', 0.02687481, u'cup', 0.024106881]
+[u'digital_clock', 0.22212975, u'dumbbell', 0.042690314, u'corkscrew', 0.039001349, u'hook', 0.038448956, u'knee_pad', 0.028178239]

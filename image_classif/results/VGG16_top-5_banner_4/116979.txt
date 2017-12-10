@@ -1,0 +1,6 @@
+[u'scoreboard', 0.73049021, u'menu', 0.17009929, u'barbershop', 0.044780221, u'cinema', 0.019659424, u'comic_book', 0.0080929715]
+[u'totem_pole', 0.16117935, u'mask', 0.12987414, u'stupa', 0.096923061, u'banana', 0.052891154, u'church', 0.042500652]
+[u'brass', 0.55302829, u'menu', 0.1308873, u'scoreboard', 0.10485874, u'book_jacket', 0.048250224, u'barbershop', 0.035310447]
+[u'altar', 0.093491815, u'mask', 0.092484854, u'toyshop', 0.071283691, u'shield', 0.040440459, u'breastplate', 0.032930218]
+[u'menu', 0.7156868, u'scoreboard', 0.056272566, u'screen', 0.028166445, u'book_jacket', 0.021660471, u'monitor', 0.019314295]
+[u'menu', 0.41189849, u'scoreboard', 0.28676414, u'barbershop', 0.22021659, u'cinema', 0.032425154, u'brass', 0.01146467]

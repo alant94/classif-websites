@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.89170235, u'stage', 0.043151438, u'acoustic_guitar', 0.017923092, u'sax', 0.012432509, u'microphone', 0.011233561]
+[u'acoustic_guitar', 0.39417672, u'cello', 0.22430745, u'electric_guitar', 0.086908221, u"jack-o'-lantern", 0.038798656, u'book_jacket', 0.034465335]

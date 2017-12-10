@@ -1,0 +1,3 @@
+[u'toilet_seat', 0.39095438, u'soap_dispenser', 0.12788893, u'candle', 0.12676439, u'swab', 0.074733309, u'sewing_machine', 0.054560836]
+[u'bathtub', 0.64066428, u'tub', 0.19787037, u'chain', 0.025690043, u'shower_curtain', 0.021706633, u'chimpanzee', 0.013848539]
+[u'medicine_chest', 0.19729337, u'bathing_cap', 0.14666116, u'washbasin', 0.12562431, u'swimming_trunks', 0.11605515, u'bathtub', 0.057123609]

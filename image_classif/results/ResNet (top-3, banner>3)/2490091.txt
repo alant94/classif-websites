@@ -1,0 +1,2 @@
+[u'brown_bear', 0.40599757, u'otterhound', 0.16138151, u'bloodhound', 0.13238345]
+[u'Newfoundland', 0.15707082, u'bloodhound', 0.10587084, u'tusker', 0.10017199]

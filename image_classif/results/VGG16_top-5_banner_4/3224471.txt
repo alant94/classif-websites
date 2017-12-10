@@ -1,0 +1,3 @@
+[u'bottlecap', 0.68040097, u'analog_clock', 0.034346528, u'wall_clock', 0.027534358, u'bolo_tie', 0.013691649, u'throne', 0.013577309]
+[u'street_sign', 0.19034155, u'traffic_light', 0.091164455, u'analog_clock', 0.054353055, u'bottlecap', 0.036683168, u'wall_clock', 0.034756973]
+[u'book_jacket', 0.28444928, u'space_shuttle', 0.027553065, u'scoreboard', 0.026842026, u'cash_machine', 0.023729043, u'red_fox', 0.022204276]

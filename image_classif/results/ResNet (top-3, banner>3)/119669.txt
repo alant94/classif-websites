@@ -1,0 +1,5 @@
+[u'binder', 0.25858, u'jersey', 0.08735352, u'laptop', 0.056926947]
+[u'pick', 0.2978965, u'tennis_ball', 0.095813803, u'nematode', 0.093673669]
+[u'digital_clock', 0.6866309, u'street_sign', 0.031335428, u'scoreboard', 0.022263799]
+[u'nipple', 0.45461458, u'combination_lock', 0.17825031, u'spotlight', 0.083114229]
+[u'coffee_mug', 0.076219946, u'lighter', 0.072546974, u'Band_Aid', 0.07019899]

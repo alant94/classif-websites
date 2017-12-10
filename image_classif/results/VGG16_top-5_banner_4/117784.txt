@@ -1,0 +1,4 @@
+[u'tub', 0.11232396, u'bathtub', 0.105845, u'washbasin', 0.088917665, u'envelope', 0.077021644, u'toilet_seat', 0.036094431]
+[u'wall_clock', 0.050241049, u'washbasin', 0.045238275, u'envelope', 0.028250875, u'toilet_seat', 0.026003288, u'crossword_puzzle', 0.025955671]
+[u'washbasin', 0.039526157, u'envelope', 0.020957388, u'crossword_puzzle', 0.020350596, u'toilet_seat', 0.019778768, u'bathtub', 0.018485269]
+[u'envelope', 0.099451609, u'washbasin', 0.065069273, u'tub', 0.047419518, u'bathtub', 0.045708794, u'wall_clock', 0.028624352]

@@ -1,0 +1,7 @@
+[u'prison', 0.54032123, u'harp', 0.23020728, u'crutch', 0.044239055]
+[u'television', 0.20134445, u'web_site', 0.1684847, u'digital_clock', 0.035133887]
+[u'cloak', 0.20332244, u'lipstick', 0.19855794, u'wig', 0.085768193]
+[u'iron', 0.21087046, u'tub', 0.14729106, u'shower_curtain', 0.12535971]
+[u'iron', 0.20738715, u'Band_Aid', 0.056369506, u'microphone', 0.04735823]
+[u'digital_clock', 0.21914352, u'web_site', 0.13278386, u'toaster', 0.12190673]
+[u'web_site', 0.25834551, u'television', 0.10667022, u'monitor', 0.033068556]

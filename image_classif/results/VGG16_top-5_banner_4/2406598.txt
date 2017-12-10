@@ -1,0 +1,1 @@
+[u'viaduct', 0.21337304, u'lakeside', 0.12505546, u'park_bench', 0.073842637, u'boathouse', 0.070289381, u'greenhouse', 0.064673081]

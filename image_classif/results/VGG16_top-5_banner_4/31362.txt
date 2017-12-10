@@ -1,0 +1,4 @@
+[u'tricycle', 0.056770973, u'television', 0.056599256, u'dumbbell', 0.055241041, u'toyshop', 0.048302934, u'desk', 0.044418085]
+[u'monitor', 0.2829445, u'jigsaw_puzzle', 0.15968278, u'television', 0.10672751, u'screen', 0.10188266, u'entertainment_center', 0.064751416]
+[u'container_ship', 0.35277912, u'space_shuttle', 0.12783985, u'jigsaw_puzzle', 0.05768396, u'balloon', 0.05127123, u'wreck', 0.034377113]
+[u'book_jacket', 0.15857095, u'cliff', 0.1341383, u'Irish_setter', 0.11726347, u'parachute', 0.10747665, u'Arabian_camel', 0.055604264]

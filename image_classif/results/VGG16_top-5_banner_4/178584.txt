@@ -1,0 +1,1 @@
+[u'mortarboard', 0.23283556, u'academic_gown', 0.12485845, u'umbrella', 0.08477962, u'cowboy_hat', 0.060592756, u'bow_tie', 0.057326287]

@@ -1,0 +1,7 @@
+[u'envelope', 0.08998502, u'web_site', 0.068855844, u'perfume', 0.059126597, u'whistle', 0.059070237, u'packet', 0.043936092]
+[u'beer_bottle', 0.24573666, u'water_bottle', 0.17179251, u'wine_bottle', 0.15780976, u'pill_bottle', 0.1206354, u'red_wine', 0.082472786]
+[u'wine_bottle', 0.5163089, u'red_wine', 0.27165228, u'pill_bottle', 0.049774051, u'chocolate_sauce', 0.049480192, u'lotion', 0.034445994]
+[u'wine_bottle', 0.25839877, u'red_wine', 0.2564373, u'beer_bottle', 0.22072971, u'pop_bottle', 0.040405758, u'refrigerator', 0.022453682]
+[u'prison', 0.42313796, u'scoreboard', 0.17014748, u'planetarium', 0.043250553, u'boathouse', 0.035122585, u'chainlink_fence', 0.033197228]
+[u'beer_bottle', 0.42732993, u'pill_bottle', 0.098460563, u'pop_bottle', 0.075656876, u'water_bottle', 0.063681841, u'wine_bottle', 0.056428615]
+[u'wine_bottle', 0.73243695, u'red_wine', 0.20921448, u'beer_bottle', 0.031427797, u'chocolate_sauce', 0.006374917, u'lotion', 0.0054193954]

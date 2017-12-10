@@ -1,0 +1,8 @@
+[u'bow_tie', 0.4325363, u'bolo_tie', 0.27460822, u'loupe', 0.06603431, u'bonnet', 0.064401366, u'sombrero', 0.039196298]
+[u'bonnet', 0.76624006, u'wig', 0.12315772, u'necklace', 0.026938563, u'bow_tie', 0.0092515349, u'spotlight', 0.0076966975]
+[u'digital_clock', 0.35414127, u'puck', 0.092671245, u'traffic_light', 0.06841623, u'street_sign', 0.067629695, u'analog_clock', 0.032432545]
+[u'street_sign', 0.80521488, u'swing', 0.029717242, u'hook', 0.021710582, u'crane', 0.020513102, u'traffic_light', 0.0088849142]
+[u'street_sign', 0.40380165, u'digital_clock', 0.17548266, u'puck', 0.078846417, u'analog_clock', 0.066351727, u'traffic_light', 0.032684721]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'digital_clock', 0.24837102, u'analog_clock', 0.14491968, u'traffic_light', 0.14394243, u'street_sign', 0.11844853, u'puck', 0.087819472]
+[u'sandbar', 0.33747181, u'seashore', 0.12227631, u'planetarium', 0.10225721, u'lakeside', 0.084281825, u'recreational_vehicle', 0.029378919]

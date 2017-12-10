@@ -1,0 +1,2 @@
+[u'projectile', 0.32310846, u'missile', 0.26048654, u'solar_dish', 0.15306978]
+[u'book_jacket', 0.49080676, u'beacon', 0.14411621, u'cliff', 0.027029973]

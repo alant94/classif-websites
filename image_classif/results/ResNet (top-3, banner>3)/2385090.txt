@@ -1,0 +1,8 @@
+[u'web_site', 0.73038042, u'menu', 0.14922363, u'envelope', 0.042799626]
+[u'digital_clock', 0.093918972, u'crossword_puzzle', 0.075171404, u'web_site', 0.043691147]
+[u'web_site', 0.88613653, u'nematode', 0.0048581054, u'isopod', 0.0046850559]
+[u'goblet', 0.77617174, u'red_wine', 0.071310788, u'ladle', 0.065049693]
+[u'menu', 0.92069685, u'brass', 0.040528629, u'web_site', 0.018641133]
+[u'notebook', 0.22495513, u'iPod', 0.11680656, u'envelope', 0.062149841]
+[u'notebook', 0.20360829, u'iPod', 0.17375244, u'envelope', 0.045007646]
+[u'notebook', 0.24958783, u'envelope', 0.0737819, u'web_site', 0.05443408]

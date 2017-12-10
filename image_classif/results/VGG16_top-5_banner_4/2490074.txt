@@ -1,0 +1,1 @@
+[u'mountain_bike', 0.10709153, u'plow', 0.054514892, u'tractor', 0.0413527, u'volcano', 0.040645365, u'parachute', 0.035732754]

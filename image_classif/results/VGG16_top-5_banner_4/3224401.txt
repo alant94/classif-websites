@@ -1,0 +1,6 @@
+[u'odometer', 0.02713133, u'monitor', 0.02705285, u'digital_clock', 0.022536077, u'microphone', 0.022494925, u'loudspeaker', 0.015276151]
+[u'traffic_light', 0.083440043, u'street_sign', 0.071637735, u'jigsaw_puzzle', 0.048181955, u'picket_fence', 0.041372128, u'coral_fungus', 0.033240743]
+[u'envelope', 0.045153435, u'web_site', 0.039604973, u'digital_clock', 0.034014467, u'microphone', 0.028365199, u'jersey', 0.028160945]
+[u'scoreboard', 0.078044973, u'computer_keyboard', 0.040841237, u'digital_clock', 0.026030786, u'book_jacket', 0.018664595, u'Windsor_tie', 0.017753961]
+[u'digital_clock', 0.064031534, u'scoreboard', 0.063562118, u'odometer', 0.041848402, u'book_jacket', 0.027368141, u'street_sign', 0.026266437]
+[u'street_sign', 0.085167058, u'scoreboard', 0.072529651, u'book_jacket', 0.065528862, u'web_site', 0.037427325, u'traffic_light', 0.03264958]

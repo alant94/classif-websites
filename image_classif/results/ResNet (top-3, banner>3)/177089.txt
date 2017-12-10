@@ -1,0 +1,7 @@
+[u'ocarina', 0.32402685, u'jersey', 0.051104158, u'book_jacket', 0.047856491]
+[u"carpenter's_kit", 0.45963755, u'bow', 0.071179904, u'corkscrew', 0.062158268]
+[u'web_site', 0.94301605, u'envelope', 0.039394051, u'menu', 0.0027019484]
+[u'monitor', 0.12403408, u'web_site', 0.12070171, u'oscilloscope', 0.040216349]
+[u'apiary', 0.89539045, u'rotisserie', 0.0056433612, u'chain_saw', 0.0054801046]
+[u'panpipe', 0.2511394, u'analog_clock', 0.068962999, u'pencil_sharpener', 0.05760286]
+[u'reel', 0.18282072, u'bow', 0.079478554, u'marimba', 0.057564329]

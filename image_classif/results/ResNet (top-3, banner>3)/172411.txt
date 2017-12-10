@@ -1,0 +1,4 @@
+[u'web_site', 0.35327202, u'spotlight', 0.10568044, u'stage', 0.096257634]
+[u'bassoon', 0.78806311, u'sax', 0.12959558, u'oboe', 0.032149795]
+[u'web_site', 0.97227794, u'envelope', 0.0043323264, u'Windsor_tie', 0.0027637077]
+[u'stage', 0.25484633, u'spotlight', 0.25208154, u'cloak', 0.11416841]

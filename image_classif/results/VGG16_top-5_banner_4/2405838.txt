@@ -1,0 +1,1 @@
+[u'microphone', 0.363787, u'punching_bag', 0.20838536, u'wine_bottle', 0.051544767, u'red_wine', 0.020150429, u'vase', 0.01928428]

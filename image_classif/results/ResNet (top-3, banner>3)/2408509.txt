@@ -1,0 +1,4 @@
+[u'shield', 0.49771699, u'book_jacket', 0.1180218, u'theater_curtain', 0.09386941]
+[u'book_jacket', 0.31487837, u'barbershop', 0.2492989, u'comic_book', 0.1696655]
+[u'book_jacket', 0.89541465, u'comic_book', 0.056892816, u'street_sign', 0.0099629993]
+[u'packet', 0.18122213, u'jersey', 0.08818119, u'sweatshirt', 0.074852861]

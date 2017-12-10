@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.1997627, u'jellyfish', 0.066209882, u'book_jacket', 0.048394077, u'stage', 0.042795993, u'mosquito_net', 0.04242086]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]
+[u'bookshop', 0.12204872, u'book_jacket', 0.079745039, u'web_site', 0.050270543, u'cinema', 0.033532251, u'school_bus', 0.032136347]
+[u'accordion', 0.99415272, u'grand_piano', 0.0033489373, u'violin', 0.00051545794, u'upright', 0.00033378712, u'bassoon', 0.0002494042]

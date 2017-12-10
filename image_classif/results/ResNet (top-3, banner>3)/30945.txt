@@ -1,0 +1,5 @@
+[u'German_shepherd', 0.19117667, u'book_jacket', 0.13138704, u'comic_book', 0.065396845]
+[u'web_site', 0.16176383, u'screen', 0.04045222, u'binder', 0.035049066]
+[u'suit', 0.18963629, u'coho', 0.089447573, u'abaya', 0.085357249]
+[u'Band_Aid', 0.37285766, u'apron', 0.27949461, u'can_opener', 0.058652896]
+[u'bikini', 0.3874138, u'wig', 0.2783922, u'maillot', 0.051414348]

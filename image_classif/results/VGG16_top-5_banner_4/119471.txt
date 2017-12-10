@@ -1,0 +1,2 @@
+[u'restaurant', 0.28145936, u'lumbermill', 0.16046999, u'barbershop', 0.1408111, u'shoe_shop', 0.10379779, u'tank', 0.056757562]
+[u'slide_rule', 0.2409461, u'shield', 0.1267536, u'rule', 0.11175388, u'maze', 0.11131936, u'sundial', 0.042227473]

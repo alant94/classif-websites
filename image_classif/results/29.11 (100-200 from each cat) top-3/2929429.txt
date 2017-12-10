@@ -1,0 +1,8 @@
+[u'picket_fence', 0.080623448, u'triumphal_arch', 0.080403462, u'bookshop', 0.063045606]
+[u'prayer_rug', 0.21976864, u'tray', 0.13555549, u'folding_chair', 0.12973821]
+[u'digital_clock', 0.39128911, u'pick', 0.13911785, u'stopwatch', 0.068190664]
+[u'prayer_rug', 0.3280628, u'shield', 0.21205176, u'puck', 0.060987707]
+[u'remote_control', 0.33153701, u'oxygen_mask', 0.072476968, u'hourglass', 0.05881102]
+[u'gasmask', 0.39291757, u'envelope', 0.074550636, u'oxygen_mask', 0.070699871]
+[u'oil_filter', 0.182923, u'prayer_rug', 0.15141916, u'shield', 0.063576564]
+[u'pier', 0.29986048, u'envelope', 0.140194, u'forklift', 0.078746475]

@@ -1,0 +1,8 @@
+[u'sax', 0.10623209, u'crane', 0.095729366, u'assault_rifle', 0.069324762, u'chain_saw', 0.064402118, u'plow', 0.056750152]
+[u'jellyfish', 0.23105355, u'chambered_nautilus', 0.11646568, u'ice_cream', 0.041322045, u'coil', 0.028778726, u'Petri_dish', 0.027694091]
+[u'jellyfish', 0.57777882, u'chambered_nautilus', 0.060702786, u'nematode', 0.049839031, u'Petri_dish', 0.049614765, u'bolo_tie', 0.014729987]
+[u'bolo_tie', 0.075339764, u'pick', 0.074285351, u'puck', 0.055922788, u'shield', 0.050722547, u'iPod', 0.038432147]
+[u'chambered_nautilus', 0.28995785, u'coil', 0.12365719, u'baseball', 0.050380535, u'spotlight', 0.036242224, u'rugby_ball', 0.034846477]
+[u'bell_cote', 0.33893579, u'stupa', 0.32438967, u'dome', 0.026430313, u'mosque', 0.017277129, u'space_shuttle', 0.015564587]
+[u'chambered_nautilus', 0.12493066, u'jellyfish', 0.10929695, u'bolo_tie', 0.097280227, u'conch', 0.043306779, u'bib', 0.028790213]
+[u'coil', 0.46165234, u'maze', 0.20892392, u'spotlight', 0.032368939, u'chambered_nautilus', 0.022500306, u'matchstick', 0.02203005]

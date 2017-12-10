@@ -1,0 +1,2 @@
+[u'street_sign', 0.84343469, u'traffic_light', 0.017399142, u'cab', 0.015995994]
+[u'corkscrew', 0.22243728, u'ski', 0.16297016, u'tripod', 0.15822069]

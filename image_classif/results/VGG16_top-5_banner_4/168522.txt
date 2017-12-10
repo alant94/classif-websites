@@ -1,0 +1,5 @@
+[u'stage', 0.54823869, u'torch', 0.16498737, u'electric_guitar', 0.080115952, u'banjo', 0.048143085, u'chain_saw', 0.018746909]
+[u'grand_piano', 0.62149864, u'upright', 0.32657951, u'organ', 0.018239565, u'accordion', 0.010884499, u'cello', 0.0042682723]
+[u'bulletproof_vest', 0.073047839, u'book_jacket', 0.070431486, u'jersey', 0.059774648, u'sweatshirt', 0.059244327, u'laptop', 0.052354559]
+[u'television', 0.16997124, u'toilet_seat', 0.088130236, u'screen', 0.077493019, u'analog_clock', 0.055231705, u'monitor', 0.049784467]
+[u'bottlecap', 0.48523971, u'beer_bottle', 0.32378727, u'puck', 0.035172071, u'pill_bottle', 0.022763634, u'coffee_mug', 0.019534303]

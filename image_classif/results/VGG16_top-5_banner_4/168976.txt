@@ -1,0 +1,2 @@
+[u'giant_schnauzer', 0.15184836, u'Kerry_blue_terrier', 0.12223627, u'Bouvier_des_Flandres', 0.080822222, u'snowplow', 0.046025626, u'standard_schnauzer', 0.042724829]
+[u'book_jacket', 0.062711313, u'fountain', 0.047919922, u'vase', 0.035233255, u'perfume', 0.022048777, u'bubble', 0.020658826]

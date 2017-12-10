@@ -1,0 +1,1 @@
+[u'envelope', 0.032734357, u'notebook', 0.011927719, u'face_powder', 0.011077322, u'cleaver', 0.010591784, u'hook', 0.010119619]

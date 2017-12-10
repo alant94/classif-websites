@@ -1,0 +1,5 @@
+[u'jigsaw_puzzle', 0.51722711, u'bell_cote', 0.066226505, u'pencil_sharpener', 0.03595918, u'necklace', 0.025619656, u'church', 0.024478629]
+[u'strainer', 0.21198668, u'whistle', 0.15394248, u'Petri_dish', 0.11087997, u'ping-pong_ball', 0.065144628, u'pill_bottle', 0.046083312]
+[u'balloon', 0.14793703, u'cup', 0.054946538, u'piggy_bank', 0.044353776, u'rain_barrel', 0.042544149, u'water_tower', 0.042456053]
+[u'envelope', 0.2885111, u'web_site', 0.24735685, u'Band_Aid', 0.026371758, u'rule', 0.025622474, u'street_sign', 0.017993446]
+[u'stupa', 0.5098536, u'candle', 0.090683304, u'cup', 0.086352959, u'pill_bottle', 0.065433323, u'torch', 0.020793486]

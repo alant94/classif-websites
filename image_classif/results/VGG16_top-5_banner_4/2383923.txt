@@ -1,0 +1,2 @@
+[u'palace', 0.38408414, u'mosque', 0.21637703, u'dome', 0.052199606, u'airship', 0.037546799, u'prison', 0.024126152]
+[u'wine_bottle', 0.46230578, u'red_wine', 0.19566393, u'goblet', 0.19376282, u'cocktail_shaker', 0.041326232, u'beer_glass', 0.038433243]

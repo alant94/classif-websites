@@ -1,0 +1,6 @@
+[u'web_site', 0.91720307, u'menu', 0.024189338, u'envelope', 0.0061961678]
+[u'web_site', 0.55048382, u'crossword_puzzle', 0.27446723, u'menu', 0.084383927]
+[u'screen', 0.16915007, u'digital_clock', 0.15482831, u'laptop', 0.13707794]
+[u'web_site', 0.67057902, u'menu', 0.20234008, u'monitor', 0.044413518]
+[u'web_site', 0.85982865, u'envelope', 0.011185376, u'menu', 0.0094434414]
+[u'gasmask', 0.15543707, u'oil_filter', 0.13238075, u'puck', 0.1016149]

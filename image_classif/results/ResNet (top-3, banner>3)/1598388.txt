@@ -1,0 +1,4 @@
+[u'lumbermill', 0.14419238, u'trailer_truck', 0.062188629, u'moving_van', 0.046374381]
+[u'lumbermill', 0.16628008, u'carousel', 0.081174806, u'container_ship', 0.034787849]
+[u'brassiere', 0.16274089, u'loudspeaker', 0.14976716, u'dumbbell', 0.079734638]
+[u'steam_locomotive', 0.24708153, u'electric_guitar', 0.20284058, u'buckle', 0.090579674]

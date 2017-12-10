@@ -1,0 +1,4 @@
+[u'web_site', 0.84732085, u'cash_machine', 0.022277884, u'monitor', 0.021353081]
+[u'barn', 0.2467971, u'web_site', 0.20996276, u'corn', 0.16561559]
+[u'web_site', 0.14913242, u'valley', 0.11771609, u'cliff', 0.05850216]
+[u'wine_bottle', 0.52516717, u'hair_spray', 0.11454313, u'barrel', 0.071426444]

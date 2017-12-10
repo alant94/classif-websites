@@ -1,0 +1,1 @@
+[u'flat-coated_retriever', 0.59606493, u'Gordon_setter', 0.27357435, u'curly-coated_retriever', 0.038657524, u'Saluki', 0.022926684, u'English_setter', 0.018923167]

@@ -1,0 +1,2 @@
+[u'pickup', 0.15906784, u'minibus', 0.095030136, u'tow_truck', 0.088698961, u'snowplow', 0.065560848, u'Greater_Swiss_Mountain_dog', 0.064057283]
+[u'dogsled', 0.89354306, u'snowmobile', 0.069832295, u'bobsled', 0.025251163, u'ski', 0.0060469373, u'alp', 0.00070674386]

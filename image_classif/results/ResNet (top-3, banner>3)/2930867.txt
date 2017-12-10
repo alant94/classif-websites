@@ -1,0 +1,4 @@
+[u'jersey', 0.15163824, u'screen', 0.078980699, u'web_site', 0.075870946]
+[u'web_site', 0.11834495, u'jersey', 0.066801384, u'screen', 0.044513345]
+[u'web_site', 0.081717841, u'screen', 0.075198084, u'jersey', 0.070314601]
+[u'web_site', 0.099242046, u'envelope', 0.063413009, u'screen', 0.059827838]

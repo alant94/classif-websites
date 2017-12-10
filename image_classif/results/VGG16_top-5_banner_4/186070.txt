@@ -1,0 +1,1 @@
+[u'mountain_bike', 0.097699136, u'toyshop', 0.060323235, u'football_helmet', 0.055238269, u'scuba_diver', 0.030956723, u'crash_helmet', 0.029801641]

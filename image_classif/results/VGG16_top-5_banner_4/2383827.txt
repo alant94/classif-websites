@@ -1,0 +1,8 @@
+[u'drum', 0.13803156, u'red_wine', 0.076829687, u'barrel', 0.052234642, u'pencil_sharpener', 0.043776758, u'violin', 0.038903393]
+[u'mask', 0.3291418, u'eel', 0.054577008, u'rock_crab', 0.044362415, u'ocarina', 0.02917413, u'starfish', 0.019852033]
+[u'church', 0.26679724, u'suspension_bridge', 0.11275756, u'fountain', 0.074141413, u'bell_cote', 0.03805818, u'castle', 0.035704225]
+[u'digital_watch', 0.11849156, u'book_jacket', 0.093442105, u'analog_clock', 0.038748961, u'wall_clock', 0.037693616, u'jersey', 0.035031501]
+[u'castle', 0.25883532, u'church', 0.061982591, u'wreck', 0.030431459, u'analog_clock', 0.029501088, u'steam_locomotive', 0.025093688]
+[u'drum', 0.45829004, u'gong', 0.12302238, u'throne', 0.066163942, u'barrel', 0.032545112, u'shield', 0.029235957]
+[u'groom', 0.48648801, u'gong', 0.044523474, u'goblet', 0.043041073, u'beer_glass', 0.039281465, u'red_wine', 0.030166252]
+[u'envelope', 0.29299888, u'web_site', 0.17165843, u'binder', 0.079651393, u'bell_cote', 0.075408109, u'abaya', 0.030608762]

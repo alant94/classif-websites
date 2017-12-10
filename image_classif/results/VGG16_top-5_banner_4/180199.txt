@@ -1,0 +1,2 @@
+[u'bathing_cap', 0.13964035, u'Band_Aid', 0.085915133, u'envelope', 0.083688058, u'web_site', 0.066277437, u'hand_blower', 0.061104644]
+[u'bikini', 0.43317214, u'sarong', 0.20268071, u'maillot', 0.14675233, u'maillot', 0.14663692, u'brassiere', 0.018496972]

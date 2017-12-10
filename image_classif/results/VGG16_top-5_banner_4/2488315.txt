@@ -1,0 +1,5 @@
+[u'fountain', 0.97012782, u'geyser', 0.0055336449, u'umbrella', 0.0029563785, u'castle', 0.002940587, u'breakwater', 0.0027864082]
+[u'Walker_hound', 0.29399195, u'English_foxhound', 0.14514861, u'basset', 0.12132467, u'hartebeest', 0.11341817, u'redbone', 0.05694095]
+[u'cock', 0.64584315, u'hen', 0.049066313, u'drake', 0.036773879, u'black_stork', 0.026660079, u'peacock', 0.024505517]
+[u'plow', 0.15587397, u'hook', 0.14253239, u'worm_fence', 0.12826747, u'picket_fence', 0.10392648, u'shovel', 0.079102241]
+[u'hook', 0.50873399, u'pole', 0.18293564, u'ski', 0.081709154, u'chime', 0.072203383, u'maypole', 0.032717388]

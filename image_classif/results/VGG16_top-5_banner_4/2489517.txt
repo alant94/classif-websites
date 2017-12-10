@@ -1,0 +1,5 @@
+[u'solar_dish', 0.23450071, u'garbage_truck', 0.22274952, u'shopping_basket', 0.069744185, u'oscilloscope', 0.068901472, u'stretcher', 0.047989227]
+[u'syringe', 0.78308916, u'candle', 0.041697551, u'bell_cote', 0.031167334, u'screwdriver', 0.026032168, u'palace', 0.016700756]
+[u'solar_dish', 0.77411896, u'oscilloscope', 0.050811626, u'handkerchief', 0.048021715, u'screen', 0.013241485, u'binder', 0.012562734]
+[u'corkscrew', 0.11968857, u'jersey', 0.059946157, u'letter_opener', 0.048787359, u'beer_glass', 0.040118244, u'goblet', 0.036698997]
+[u'stretcher', 0.087809905, u'oscilloscope', 0.063316263, u'crane', 0.051028382, u'handkerchief', 0.047301412, u'birdhouse', 0.04695569]

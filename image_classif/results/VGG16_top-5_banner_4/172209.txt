@@ -1,0 +1,2 @@
+[u'sliding_door', 0.12634255, u'window_shade', 0.1125307, u'church', 0.092192836, u'picket_fence', 0.064368673, u'organ', 0.060485639]
+[u'book_jacket', 0.35477346, u'picket_fence', 0.045049142, u'comic_book', 0.043396819, u'cash_machine', 0.029399959, u'web_site', 0.026371527]

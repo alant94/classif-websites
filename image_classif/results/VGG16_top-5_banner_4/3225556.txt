@@ -1,0 +1,6 @@
+[u'dining_table', 0.36984035, u'restaurant', 0.34836817, u'jigsaw_puzzle', 0.055579394, u'library', 0.027365316, u'china_cabinet', 0.01982801]
+[u'mountain_bike', 0.57787716, u'unicycle', 0.10360124, u'mountain_tent', 0.053798385, u'maypole', 0.029883603, u'dogsled', 0.023163268]
+[u'maypole', 0.6448344, u'horizontal_bar', 0.041301664, u'swing', 0.036645409, u'parallel_bars', 0.019368827, u'volleyball', 0.01356353]
+[u'bicycle-built-for-two', 0.22014788, u'snorkel', 0.16575991, u'mountain_bike', 0.15753588, u'alp', 0.053653736, u'sunglass', 0.026122509]
+[u'maypole', 0.60218233, u'alp', 0.068645671, u'ski', 0.065151282, u'mountain_bike', 0.029553881, u'unicycle', 0.026980758]
+[u'swing', 0.62137216, u'bow', 0.095340781, u'suspension_bridge', 0.063996501, u'maypole', 0.063821517, u'unicycle', 0.015542728]

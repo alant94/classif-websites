@@ -1,0 +1,2 @@
+[u'maze', 0.4649826, u'hay', 0.10277179, u'worm_fence', 0.091379061, u'greenhouse', 0.081458129, u'barn', 0.071898408]
+[u'rapeseed', 0.15695086, u'valley', 0.10631804, u'alp', 0.095560759, u'lakeside', 0.067319632, u'greenhouse', 0.041620832]

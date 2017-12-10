@@ -1,0 +1,3 @@
+[u'book_jacket', 0.30452994, u'velvet', 0.049648877, u'comic_book', 0.040109687, u'volcano', 0.039316282, u'nematode', 0.031172801]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'bulletproof_vest', 0.048106644, u'digital_watch', 0.028356487, u'packet', 0.025140455, u'lighter', 0.022480829, u'half_track', 0.022220392]

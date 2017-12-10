@@ -1,0 +1,3 @@
+[u'perfume', 0.32238856, u'lipstick', 0.14813258, u'wine_bottle', 0.090710662, u'lighter', 0.04893114, u'fountain_pen', 0.035403084]
+[u'fire_screen', 0.68559426, u'fountain', 0.057314143, u'caldron', 0.020577461, u'altar', 0.016483726, u'restaurant', 0.014117806]
+[u'planetarium', 0.42527393, u'dome', 0.075842448, u'street_sign', 0.048727933, u'barbershop', 0.038629275, u'solar_dish', 0.035034329]

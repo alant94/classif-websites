@@ -1,0 +1,6 @@
+[u'Arabian_camel', 0.69317484, u'llama', 0.12290344, u'dhole', 0.10881531, u'Irish_setter', 0.023619996, u'bighorn', 0.011523891]
+[u'cliff', 0.11789029, u'mountain_bike', 0.053640947, u'cliff_dwelling', 0.049851809, u'castle', 0.042733863, u'valley', 0.042599015]
+[u'wreck', 0.50591761, u'cliff', 0.078932792, u'geyser', 0.05910648, u'seashore', 0.048274003, u'lakeside', 0.040606946]
+[u'volcano', 0.57706147, u'geyser', 0.12522964, u'valley', 0.069904163, u'cliff', 0.064462021, u'alp', 0.064459562]
+[u'yawl', 0.20371613, u'valley', 0.19046177, u'lakeside', 0.17029384, u'pirate', 0.075189024, u'cliff', 0.072154209]
+[u'yawl', 0.82378167, u'geyser', 0.052916232, u'fireboat', 0.031486005, u'drilling_platform', 0.013775486, u'missile', 0.010712544]

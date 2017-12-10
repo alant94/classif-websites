@@ -1,0 +1,3 @@
+[u'dumbbell', 0.21367623, u'barbell', 0.18909824, u'printer', 0.084227405]
+[u"potter's_wheel", 0.52387846, u'king_crab', 0.084153995, u'rotisserie', 0.044253156]
+[u'teddy', 0.22444235, u'toyshop', 0.12749951, u'television', 0.030674836]

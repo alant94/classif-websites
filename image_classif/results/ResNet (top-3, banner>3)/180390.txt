@@ -1,0 +1,3 @@
+[u'binoculars', 0.29439026, u'teapot', 0.058268122, u'iron', 0.044963703]
+[u'comic_book', 0.98484105, u'jigsaw_puzzle', 0.009303919, u'book_jacket', 0.0029716869]
+[u'comic_book', 0.99113655, u'book_jacket', 0.0074003604, u'web_site', 0.00042576995]

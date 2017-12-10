@@ -1,0 +1,4 @@
+[u'envelope', 0.7223044, u'web_site', 0.053947736, u'jigsaw_puzzle', 0.029704891, u'brassiere', 0.026399011, u'binder', 0.014475407]
+[u'book_jacket', 0.22984321, u'jigsaw_puzzle', 0.17055999, u'comic_book', 0.12288409, u'fountain', 0.021204257, u'alp', 0.01935412]
+[u'jigsaw_puzzle', 0.28959259, u'parachute', 0.20270608, u'pirate', 0.10360641, u'balloon', 0.073644578, u'book_jacket', 0.066056453]
+[u'balloon', 0.30404657, u'shield', 0.18443502, u'mask', 0.10129218, u'radio_telescope', 0.063840568, u'lampshade', 0.040614069]

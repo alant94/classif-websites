@@ -1,0 +1,3 @@
+[u'web_site', 0.44203183, u'nematode', 0.09038008, u'envelope', 0.058561098, u'matchstick', 0.020160185, u'candle', 0.019230308]
+[u'mortarboard', 0.20887132, u'bow', 0.17059453, u'siamang', 0.064789541, u'academic_gown', 0.040701509, u'broom', 0.040156737]
+[u'ski', 0.62265754, u'parachute', 0.1330214, u'pole', 0.046028659, u'swing', 0.024669902, u'bow', 0.0179675]

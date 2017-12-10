@@ -1,0 +1,2 @@
+[u'hand-held_computer', 0.17779565, u'remote_control', 0.11493722, u'joystick', 0.11463094, u'cellular_telephone', 0.1066872, u'can_opener', 0.056846414]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

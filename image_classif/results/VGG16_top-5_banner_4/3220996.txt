@@ -1,0 +1,5 @@
+[u'book_jacket', 0.43415466, u'brass', 0.12573613, u'street_sign', 0.039072357, u'barn', 0.024914149, u'menu', 0.013056252]
+[u'street_sign', 0.29177338, u'gas_pump', 0.17837723, u'barrel', 0.17780434, u'ashcan', 0.045104437, u'pay-phone', 0.044741739]
+[u'doormat', 0.9500019, u'book_jacket', 0.015129158, u'lens_cap', 0.0073547941, u'mailbag', 0.0031446272, u'cellular_telephone', 0.0018690953]
+[u'jersey', 0.31524143, u'bulletproof_vest', 0.26275206, u'book_jacket', 0.13223776, u'sweatshirt', 0.077201389, u'doormat', 0.01526751]
+[u'barrel', 0.66615665, u'barn', 0.20181859, u'crate', 0.016007226, u'freight_car', 0.014187791, u'ashcan', 0.013724206]

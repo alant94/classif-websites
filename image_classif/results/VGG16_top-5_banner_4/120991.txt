@@ -1,0 +1,7 @@
+[u'umbrella', 0.44544071, u'pinwheel', 0.24317779, u'birdhouse', 0.089190744, u'mortarboard', 0.034771528, u'airship', 0.014758813]
+[u'can_opener', 0.7064237, u'pencil_sharpener', 0.057867244, u'hair_slide', 0.046385359, u'mask', 0.020159019, u'chain_saw', 0.013151871]
+[u'kite', 0.22370915, u'lycaenid', 0.13208941, u'parachute', 0.070027418, u'black_grouse', 0.043154247, u'radio_telescope', 0.039913453]
+[u'can_opener', 0.36158654, u'electric_fan', 0.10994563, u'space_shuttle', 0.076750979, u'warplane', 0.053362988, u'hair_slide', 0.029811224]
+[u'whistle', 0.16679937, u'laptop', 0.12286798, u'pencil_sharpener', 0.11261062, u'balance_beam', 0.095221855, u'pool_table', 0.042246185]
+[u'parachute', 0.1708948, u'tricycle', 0.10995163, u'hook', 0.071410492, u'bow', 0.059625994, u'bucket', 0.047187816]
+[u'tricycle', 0.069583625, u'bow', 0.068304494, u'bucket', 0.059308071, u'parachute', 0.051233351, u'wall_clock', 0.046630949]

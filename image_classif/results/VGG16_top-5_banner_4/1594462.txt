@@ -1,0 +1,3 @@
+[u'boa_constrictor', 0.12946135, u'rock_python', 0.073216081, u'miniskirt', 0.064712837, u'bikini', 0.034484789, u'frilled_lizard', 0.027315339]
+[u'brassiere', 0.20081456, u'bathtub', 0.09354388, u'pajama', 0.084537581, u'shower_curtain', 0.054516748, u'shower_cap', 0.053218227]
+[u'brassiere', 0.56181306, u'diaper', 0.19986722, u'bikini', 0.09991879, u'miniskirt', 0.038149074, u'maillot', 0.034979325]

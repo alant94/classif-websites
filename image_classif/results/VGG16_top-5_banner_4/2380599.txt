@@ -1,0 +1,5 @@
+[u'red_wine', 0.65490931, u'wine_bottle', 0.30146044, u'corkscrew', 0.032205805, u'perfume', 0.002942208, u'lotion', 0.0026427389]
+[u'screwdriver', 0.16472349, u'wine_bottle', 0.14926028, u'lipstick', 0.11141615, u'rubber_eraser', 0.046239518, u'lighter', 0.043088052]
+[u'miniskirt', 0.14083768, u'cloak', 0.051677238, u'wig', 0.028290849, u'Sussex_spaniel', 0.028030187, u'orangutan', 0.025975445]
+[u'chainlink_fence', 0.3073183, u'stone_wall', 0.072601065, u'coral_reef', 0.029877746, u'worm_fence', 0.025965022, u'picket_fence', 0.019391112]
+[u'street_sign', 0.10372937, u'traffic_light', 0.054032497, u'scoreboard', 0.038605891, u'picket_fence', 0.033574086, u'binder', 0.026683718]

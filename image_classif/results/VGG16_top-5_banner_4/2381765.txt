@@ -1,0 +1,2 @@
+[u'barn', 0.43881497, u'boathouse', 0.33178848, u'thatch', 0.096003026, u'church', 0.054348223, u'bell_cote', 0.018036747]
+[u'envelope', 0.099324666, u'stethoscope', 0.072728693, u'web_site', 0.059528962, u'pick', 0.050416652, u'cassette', 0.039996568]

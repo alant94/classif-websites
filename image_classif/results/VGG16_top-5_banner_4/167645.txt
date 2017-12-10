@@ -1,0 +1,8 @@
+[u'nail', 0.3136324, u'screwdriver', 0.15638795, u'hook', 0.082292065, u'screw', 0.031475648, u'hammer', 0.026918275]
+[u'nail', 0.17727348, u'hook', 0.13457893, u'screwdriver', 0.04476146, u'chime', 0.041956767, u'safety_pin', 0.037291206]
+[u'nail', 0.22586241, u'hook', 0.10024673, u'screwdriver', 0.061712936, u'pole', 0.055389278, u'chime', 0.031520337]
+[u'nail', 0.11491032, u'hook', 0.11144683, u'chime', 0.045382079, u'pole', 0.029548528, u'screwdriver', 0.020241041]
+[u'nail', 0.33855721, u'hook', 0.087460108, u'screwdriver', 0.058577746, u'hammer', 0.027034551, u'safety_pin', 0.025470989]
+[u'hook', 0.40842336, u'safety_pin', 0.11336587, u'coil', 0.08946503, u'hair_slide', 0.060053442, u'corkscrew', 0.053807996]
+[u'nail', 0.31158134, u'hook', 0.12565568, u'screwdriver', 0.094152249, u'letter_opener', 0.035718344, u'screw', 0.030772848]
+[u'nail', 0.3298575, u'hook', 0.12542333, u'screwdriver', 0.07459338, u'hammer', 0.047558449, u"carpenter's_kit", 0.034166403]

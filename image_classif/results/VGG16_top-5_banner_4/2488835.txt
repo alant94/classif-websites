@@ -1,0 +1,1 @@
+[u'curly-coated_retriever', 0.43409431, u'Mexican_hairless', 0.11143001, u'Chesapeake_Bay_retriever', 0.076017439, u'Doberman', 0.050966531, u'European_fire_salamander', 0.023829624]

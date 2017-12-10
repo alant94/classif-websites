@@ -1,0 +1,7 @@
+[u'hartebeest', 0.6181919, u'impala', 0.12928592, u'mountain_bike', 0.036661271, u'ibex', 0.034363929, u'ox', 0.017533803]
+[u'mountain_bike', 0.079540551, u'diamondback', 0.058154549, u'half_track', 0.057772852, u'Scottish_deerhound', 0.054634556, u'rock_python', 0.04022231]
+[u'vizsla', 0.14681742, u'Chesapeake_Bay_retriever', 0.11413365, u'red_fox', 0.07802283, u'redbone', 0.073839083, u'swimming_trunks', 0.03450907]
+[u'warthog', 0.24228281, u'wild_boar', 0.094890893, u'coho', 0.09260793, u'hartebeest', 0.076124258, u'tench', 0.072622903]
+[u'tripod', 0.33438265, u'solar_dish', 0.13702022, u'rifle', 0.13376409, u'bow', 0.088985421, u'assault_rifle', 0.063504346]
+[u'ibex', 0.16757935, u'ox', 0.093380719, u'Irish_wolfhound', 0.071860708, u'Great_Dane', 0.0670202, u'bighorn', 0.046706613]
+[u'Great_Dane', 0.28254718, u'chain_saw', 0.1336007, u'warthog', 0.064997807, u'ox', 0.047931775, u'sturgeon', 0.037315279]

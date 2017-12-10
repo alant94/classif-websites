@@ -1,0 +1,4 @@
+[u'rule', 0.22622316, u'bannister', 0.092481345, u'umbrella', 0.066203892]
+[u'ibex', 0.91436237, u'gazelle', 0.037077263, u'hare', 0.023594638]
+[u'book_jacket', 0.21055102, u'comic_book', 0.18734941, u'doormat', 0.17096403]
+[u'web_site', 0.37782058, u'punching_bag', 0.049110215, u'ski', 0.044516742]

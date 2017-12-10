@@ -1,0 +1,5 @@
+[u'toy_terrier', 0.16534761, u'kelpie', 0.13840894, u'Boston_bull', 0.081814133, u'basenji', 0.076627389, u'miniature_pinscher', 0.071215332]
+[u'car_mirror', 0.082722209, u'bubble', 0.078441806, u'window_screen', 0.038946237, u'loupe', 0.033367634, u'sunglasses', 0.031075059]
+[u'abaya', 0.14401023, u'shower_curtain', 0.14243825, u'hair_spray', 0.049458694, u'window_shade', 0.029019209, u'suit', 0.025564844]
+[u'abaya', 0.42121387, u'wig', 0.13078335, u'academic_gown', 0.12217978, u'cloak', 0.05933746, u'mortarboard', 0.042283278]
+[u'brassiere', 0.22740023, u'maillot', 0.15063773, u'wig', 0.1143112, u'bikini', 0.089820802, u'maillot', 0.047719438]

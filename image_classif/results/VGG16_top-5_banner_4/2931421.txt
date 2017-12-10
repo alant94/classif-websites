@@ -1,0 +1,8 @@
+[u'motor_scooter', 0.4357793, u'seat_belt', 0.071097098, u'minivan', 0.067293227, u'moped', 0.041286506, u'vacuum', 0.026582176]
+[u'Polaroid_camera', 0.29082388, u'jeep', 0.08546, u'lighter', 0.06603881, u'cellular_telephone', 0.056895062, u'jersey', 0.037117649]
+[u'passenger_car', 0.14005321, u'forklift', 0.095973462, u'desktop_computer', 0.082997695, u'pay-phone', 0.071598925, u'tape_player', 0.068122655]
+[u'ambulance', 0.29539707, u'jeep', 0.24521902, u'tow_truck', 0.13486487, u'minivan', 0.080817237, u'pickup', 0.056926433]
+[u'container_ship', 0.24814913, u'liner', 0.22412997, u'dock', 0.15424734, u'coil', 0.064188592, u'submarine', 0.045449991]
+[u'thresher', 0.39249992, u'harvester', 0.099528693, u'paddlewheel', 0.05824618, u'fire_engine', 0.03956268, u'steam_locomotive', 0.037115294]
+[u'projector', 0.080795936, u'loudspeaker', 0.077095434, u'trailer_truck', 0.051187199, u'grille', 0.044010006, u'car_wheel', 0.03690464]
+[u'jeep', 0.53467196, u'ambulance', 0.10093629, u'tow_truck', 0.061296668, u'golfcart', 0.049391925, u'harvester', 0.043221842]

@@ -1,0 +1,6 @@
+[u'stupa', 0.32028663, u'space_shuttle', 0.10550626, u'wing', 0.085306257, u'aircraft_carrier', 0.07407847, u'upright', 0.051735237]
+[u'bell_cote', 0.42743149, u'church', 0.2537699, u'monastery', 0.06671942, u'tile_roof', 0.04646777, u'beacon', 0.044419166]
+[u'digital_clock', 0.20168573, u'jigsaw_puzzle', 0.15656227, u'daisy', 0.023971122, u'picket_fence', 0.021329721, u'syringe', 0.018330529]
+[u'syringe', 0.15355456, u'pill_bottle', 0.080159709, u'container_ship', 0.078540228, u'airship', 0.062867217, u'digital_clock', 0.049707618]
+[u'digital_clock', 0.69921017, u'scoreboard', 0.16673684, u'radio', 0.016027791, u'vending_machine', 0.0081741577, u'CD_player', 0.0077943821]
+[u'candle', 0.48694092, u'lampshade', 0.11016852, u'matchstick', 0.10589731, u'torch', 0.066565596, u'stupa', 0.031317368]

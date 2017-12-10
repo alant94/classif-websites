@@ -1,0 +1,1 @@
+[u"jack-o'-lantern", 0.13558628, u'digital_clock', 0.13171573, u'odometer', 0.069027632, u'pick', 0.057902217, u'red_wine', 0.035776433]

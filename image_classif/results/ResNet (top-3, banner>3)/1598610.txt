@@ -1,0 +1,7 @@
+[u'butcher_shop', 0.92882246, u'hog', 0.031127816, u'cleaver', 0.0039145704]
+[u'comic_book', 0.88097614, u'motor_scooter', 0.05122754, u'carousel', 0.0096143335]
+[u'bikini', 0.46524823, u'miniskirt', 0.10415452, u'maillot', 0.090682976]
+[u'bikini', 0.47245237, u'swimming_trunks', 0.26266336, u'maillot', 0.068578273]
+[u'comic_book', 0.82199711, u'bikini', 0.11527179, u'swimming_trunks', 0.054462846]
+[u'comic_book', 0.22163303, u'swimming_trunks', 0.13680184, u'diaper', 0.055210825]
+[u'comic_book', 0.22642842, u'crossword_puzzle', 0.061065454, u'ladle', 0.056002222]

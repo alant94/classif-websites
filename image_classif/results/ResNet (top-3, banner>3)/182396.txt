@@ -1,0 +1,8 @@
+[u'Saint_Bernard', 0.73491293, u'English_springer', 0.063829549, u'Japanese_spaniel', 0.033085354]
+[u'stage', 0.26016706, u'loudspeaker', 0.073518924, u'space_shuttle', 0.037822384]
+[u'balloon', 0.28438768, u'maraca', 0.065935686, u'shower_curtain', 0.04597624]
+[u'comic_book', 0.25560638, u'book_jacket', 0.19172499, u'papillon', 0.04932059]
+[u'container_ship', 0.19610073, u'tobacco_shop', 0.14764562, u'silky_terrier', 0.11918227]
+[u'crossword_puzzle', 0.96469182, u'digital_watch', 0.012955189, u'digital_clock', 0.0053517115]
+[u'wig', 0.19166219, u'academic_gown', 0.17212057, u'book_jacket', 0.095822275]
+[u'black-footed_ferret', 0.51974851, u'briard', 0.11661037, u'polecat', 0.074353009]

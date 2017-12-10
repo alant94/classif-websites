@@ -1,0 +1,6 @@
+[u'racer', 0.26895025, u'sports_car', 0.10532594, u'tow_truck', 0.088484921]
+[u'abaya', 0.27309307, u'book_jacket', 0.20610137, u'lipstick', 0.10400447]
+[u'lipstick', 0.64577824, u'wig', 0.15334161, u'mask', 0.078359723]
+[u'Windsor_tie', 0.078666575, u'seat_belt', 0.067429759, u'bow_tie', 0.062526397]
+[u'wig', 0.95699626, u'wool', 0.012361924, u'jersey', 0.0026778528]
+[u'military_uniform', 0.18943281, u'prison', 0.029651145, u'bulletproof_vest', 0.025137592]

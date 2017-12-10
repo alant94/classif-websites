@@ -1,0 +1,1 @@
+[u'balloon', 0.15264724, u'castle', 0.12183384, u'pelican', 0.041297931, u'umbrella', 0.034313232, u'groenendael', 0.033716742]

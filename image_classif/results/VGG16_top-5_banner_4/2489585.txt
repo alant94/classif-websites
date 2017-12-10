@@ -1,0 +1,6 @@
+[u'coho', 0.19249655, u'Chesapeake_Bay_retriever', 0.048277859, u'valley', 0.038693272, u'snowmobile', 0.034713328, u'maze', 0.027120112]
+[u'lighter', 0.13800775, u'Band_Aid', 0.12762803, u'hair_spray', 0.11916144, u'oil_filter', 0.1050204, u'sunscreen', 0.050701164]
+[u'picket_fence', 0.31738815, u'nail', 0.071371242, u'chime', 0.060823128, u'worm_fence', 0.037628051, u'screw', 0.035358176]
+[u'street_sign', 0.38997808, u'cash_machine', 0.050275099, u'digital_clock', 0.035288963, u'modem', 0.025958156, u'digital_watch', 0.024965938]
+[u'book_jacket', 0.14985113, u'jersey', 0.05365257, u'perfume', 0.031230807, u'street_sign', 0.017702073, u'coffee_mug', 0.01359805]
+[u'stone_wall', 0.3517167, u'volcano', 0.12809588, u'cliff', 0.098461546, u'plow', 0.046305977, u'military_uniform', 0.022426695]

@@ -1,0 +1,1 @@
+[u'baseball', 0.11279982, u'pick', 0.07971663, u'barometer', 0.053637732, u'puck', 0.046569414, u'bottlecap', 0.040133845]

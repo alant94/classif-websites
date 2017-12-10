@@ -1,0 +1,7 @@
+[u'fountain', 0.59500259, u'fireboat', 0.19581269, u'geyser', 0.093856044]
+[u'drilling_platform', 0.82920152, u'seashore', 0.046899129, u'liner', 0.014884078]
+[u'wreck', 0.10135029, u'alp', 0.085960992, u'airship', 0.069281392]
+[u'volcano', 0.42921966, u'space_shuttle', 0.24406151, u'cliff', 0.071662933]
+[u'chainlink_fence', 0.32737729, u'fountain', 0.11128195, u'worm_fence', 0.033896815]
+[u'volcano', 0.96514302, u'fire_screen', 0.011844886, u'traffic_light', 0.0068968884]
+[u'warplane', 0.71084452, u'airliner', 0.20995498, u'wing', 0.073187858]

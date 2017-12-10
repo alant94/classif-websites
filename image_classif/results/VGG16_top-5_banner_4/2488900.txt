@@ -1,0 +1,8 @@
+[u'worm_fence', 0.096097574, u'pole', 0.095024392, u'stone_wall', 0.065950215, u'swing', 0.049593098, u'thatch', 0.037544668]
+[u'mountain_tent', 0.10814615, u'megalith', 0.064892799, u'stone_wall', 0.049075555, u'birdhouse', 0.047034219, u'worm_fence', 0.043750245]
+[u'lakeside', 0.097642094, u'mountain_tent', 0.097526789, u'yurt', 0.042913157, u'worm_fence', 0.035435952, u'radio_telescope', 0.020292034]
+[u'barn', 0.052875299, u'radio_telescope', 0.051832132, u'megalith', 0.044945717, u'viaduct', 0.042684261, u'stupa', 0.039996065]
+[u'military_uniform', 0.34199435, u'shower_cap', 0.29904729, u'cowboy_hat', 0.050813824, u'jinrikisha', 0.031871222, u'pajama', 0.022537287]
+[u'barn', 0.10443464, u'park_bench', 0.080463834, u'worm_fence', 0.063977383, u'water_tower', 0.055148747, u'car_mirror', 0.051882926]
+[u'greenhouse', 0.29678804, u'suspension_bridge', 0.11109864, u'steel_arch_bridge', 0.10302193, u'water_tower', 0.040646408, u'chainlink_fence', 0.036629666]
+[u'picket_fence', 0.24382418, u'pot', 0.15416256, u'daisy', 0.14389029, u'pinwheel', 0.088070013, u'barrow', 0.043574333]

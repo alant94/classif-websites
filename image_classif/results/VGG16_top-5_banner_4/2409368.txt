@@ -1,0 +1,7 @@
+[u'lawn_mower', 0.57311046, u'chain_saw', 0.117317, u'go-kart', 0.061125718, u'web_site', 0.048737202, u'stopwatch', 0.019843252]
+[u'cassette', 0.13176008, u'analog_clock', 0.07108628, u'puck', 0.063697174, u'bottlecap', 0.062081546, u'car_wheel', 0.049928114]
+[u'switch', 0.14747994, u'mousetrap', 0.13427651, u'chest', 0.07893528, u'printer', 0.057813212, u'crate', 0.047285549]
+[u'neck_brace', 0.17813191, u'academic_gown', 0.080802158, u'web_site', 0.066127092, u'wig', 0.043255001, u'stole', 0.042315222]
+[u'switch', 0.50717849, u'joystick', 0.055335604, u'printer', 0.040323753, u'safe', 0.039135411, u'radio', 0.036687262]
+[u'web_site', 0.5032596, u'envelope', 0.16687424, u'menu', 0.04610128, u'hand_blower', 0.015814908, u'rule', 0.011818128]
+[u'file', 0.10494823, u'chest', 0.091295712, u'crate', 0.080846965, u'space_heater', 0.071598165, u'hard_disc', 0.05675371]

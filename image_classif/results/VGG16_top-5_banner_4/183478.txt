@@ -1,0 +1,4 @@
+[u'grand_piano', 0.44559109, u'bassoon', 0.070774838, u'upright', 0.060949672, u'accordion', 0.045768201, u'sax', 0.042408753]
+[u"carpenter's_kit", 0.17149837, u'pick', 0.12413974, u'face_powder', 0.061292466, u'screwdriver', 0.059922125, u'tennis_ball', 0.034005448]
+[u'suit', 0.17427136, u'bow_tie', 0.11965804, u'military_uniform', 0.051762789, u'ski', 0.035985794, u'parachute', 0.031122504]
+[u'cello', 0.32196334, u'stage', 0.19489737, u'violin', 0.057850331, u'grand_piano', 0.05039544, u'sax', 0.043593239]

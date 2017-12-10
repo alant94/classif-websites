@@ -1,0 +1,5 @@
+[u'megalith', 0.23914964, u'picket_fence', 0.097683378, u'hare', 0.060593527, u'hartebeest', 0.055502951, u'impala', 0.046988714]
+[u'hartebeest', 0.41146106, u'Arabian_camel', 0.39772117, u'ibex', 0.044094454, u'gazelle', 0.03784927, u'llama', 0.023473999]
+[u'cliff', 0.42845502, u'hartebeest', 0.14349407, u'Gila_monster', 0.043788474, u'agama', 0.040586356, u'vizsla', 0.03066808]
+[u'palace', 0.1350811, u'steel_arch_bridge', 0.10068091, u'mosque', 0.085915893, u'worm_fence', 0.052718751, u'cinema', 0.042833682]
+[u'loupe', 0.23697811, u'spotlight', 0.11984901, u'gasmask', 0.10955589, u'iron', 0.061658639, u'toilet_seat', 0.047182668]

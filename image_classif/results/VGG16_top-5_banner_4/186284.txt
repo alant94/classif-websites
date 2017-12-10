@@ -1,0 +1,7 @@
+[u'bathing_cap', 0.086397797, u'maraca', 0.039798722, u'pencil_sharpener', 0.036287241, u'nipple', 0.029456927, u'safety_pin', 0.026443107]
+[u'accordion', 0.26006421, u'vending_machine', 0.15310171, u'slot', 0.096178807, u'shopping_cart', 0.081918336, u'shopping_basket', 0.074417397]
+[u'jersey', 0.30217642, u'book_jacket', 0.17136177, u'binder', 0.022841753, u'comic_book', 0.021197315, u'envelope', 0.019284083]
+[u'soup_bowl', 0.49695086, u'consomme', 0.093525358, u'burrito', 0.080546506, u'plate', 0.048044208, u'meat_loaf', 0.03727334]
+[u'hotdog', 0.70439124, u'burrito', 0.11101987, u'pizza', 0.035510961, u'French_loaf', 0.029165953, u'acorn_squash', 0.025703248]
+[u'corkscrew', 0.22268492, u'buckle', 0.077538468, u'coffee_mug', 0.035782289, u'ocarina', 0.03125507, u'pick', 0.030934773]
+[u'web_site', 0.13342696, u'ski', 0.12322102, u'book_jacket', 0.088810347, u'street_sign', 0.040254947, u'comic_book', 0.022472961]

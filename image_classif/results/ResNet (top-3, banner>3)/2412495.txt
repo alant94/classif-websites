@@ -1,0 +1,3 @@
+[u'comic_book', 0.15355864, u'packet', 0.065184541, u'binder', 0.063428111]
+[u'electric_fan', 0.47436178, u'knee_pad', 0.14256866, u'loudspeaker', 0.10649577]
+[u'pencil_sharpener', 0.75812382, u'loudspeaker', 0.19792974, u'panpipe', 0.029488476]

@@ -1,0 +1,4 @@
+[u'traffic_light', 0.19906729, u'monitor', 0.0852222, u'castle', 0.048008695, u'cinema', 0.037306257, u'screen', 0.031979222]
+[u'airship', 0.21382177, u'cab', 0.14402734, u'scoreboard', 0.073318444, u'obelisk', 0.073315717, u'dock', 0.058322925]
+[u'tape_player', 0.19294448, u'radio', 0.13836305, u'cassette_player', 0.12445308, u'modem', 0.10566488, u'hard_disc', 0.074445628]
+[u'solar_dish', 0.1796611, u'airship', 0.15309098, u'spotlight', 0.08717896, u'dome', 0.046867084, u'radio_telescope', 0.045303527]

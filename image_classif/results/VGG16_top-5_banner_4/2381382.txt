@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.26348382, u'wardrobe', 0.15983821, u'gown', 0.027622296, u'restaurant', 0.027283231, u'wig', 0.023967937]
+[u'plate', 0.18087886, u'wok', 0.087776653, u'Crock_Pot', 0.080899738, u'hot_pot', 0.063732445, u'restaurant', 0.041536227]
+[u'trifle', 0.25508243, u'beer_glass', 0.17236975, u'ice_cream', 0.1468886, u'cup', 0.10601836, u'cocktail_shaker', 0.07047765]
+[u'thimble', 0.20284136, u'prayer_rug', 0.073319457, u'doormat', 0.060854409, u'throne', 0.054266568, u'vestment', 0.053315029]

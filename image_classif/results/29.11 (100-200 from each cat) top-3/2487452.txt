@@ -1,0 +1,4 @@
+[u'American_black_bear', 0.92882288, u'brown_bear', 0.05878279, u'wombat', 0.0077613452]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'ibex', 0.83657962, u'impala', 0.029802946, u'ram', 0.026562292]
+[u'digital_clock', 0.50385153, u'traffic_light', 0.088136293, u'whistle', 0.043610808]

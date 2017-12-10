@@ -1,0 +1,2 @@
+[u'web_site', 0.59830862, u'nematode', 0.22153069, u'can_opener', 0.019549876]
+[u'lab_coat', 0.4806726, u'beaker', 0.34098381, u'pajama', 0.042578228]

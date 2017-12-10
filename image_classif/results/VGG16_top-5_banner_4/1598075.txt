@@ -1,0 +1,1 @@
+[u'web_site', 0.26165432, u'bookshop', 0.17792891, u'book_jacket', 0.13954976, u'cassette', 0.079774641, u'gas_pump', 0.036835726]

@@ -1,0 +1,3 @@
+[u'picket_fence', 0.076152124, u'envelope', 0.068743475, u'bell_cote', 0.027022807, u'beacon', 0.022256268, u'analog_clock', 0.022101946]
+[u'traffic_light', 0.092154428, u'street_sign', 0.074894339, u'analog_clock', 0.060257189, u'bell_cote', 0.037975729, u'digital_clock', 0.037435923]
+[u'envelope', 0.21974382, u'bell_cote', 0.049455632, u'traffic_light', 0.048250988, u'hook', 0.033413783, u'web_site', 0.030392263]

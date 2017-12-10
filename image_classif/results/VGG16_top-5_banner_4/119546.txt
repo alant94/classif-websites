@@ -1,0 +1,5 @@
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]
+[u'combination_lock', 0.22198638, u'mousetrap', 0.072229333, u'safety_pin', 0.051977821, u'pay-phone', 0.049694527, u'buckle', 0.046753034]
+[u'book_jacket', 0.33319336, u'scoreboard', 0.23309521, u'safe', 0.038147889, u'jersey', 0.022295851, u'stage', 0.018996956]
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]

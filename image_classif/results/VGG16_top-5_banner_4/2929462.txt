@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.69870764, u'washbasin', 0.027438974, u'medicine_chest', 0.024801333, u'window_shade', 0.021799129, u'wall_clock', 0.016340001]

@@ -1,0 +1,2 @@
+[u'candle', 0.36724123, u'altar', 0.10023792, u'spotlight', 0.10018994]
+[u'theater_curtain', 0.83667767, u'volleyball', 0.039305255, u'vestment', 0.025964996]

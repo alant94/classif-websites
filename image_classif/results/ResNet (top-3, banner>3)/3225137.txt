@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.80231345, u'whistle', 0.055949721, u'web_site', 0.013269658]
+[u'digital_clock', 0.39191329, u'analog_clock', 0.29295817, u'traffic_light', 0.079971008]
+[u'web_site', 0.12675905, u'digital_clock', 0.05884904, u'jersey', 0.04947792]

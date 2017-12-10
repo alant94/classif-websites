@@ -1,0 +1,4 @@
+[u'perfume', 0.25424153, u'pill_bottle', 0.23127374, u'espresso_maker', 0.069910422, u'red_wine', 0.060870163, u'table_lamp', 0.036389548]
+[u'stupa', 0.85534799, u'bell_cote', 0.055386573, u'pill_bottle', 0.036213309, u'lotion', 0.010431063, u'beacon', 0.0074840146]
+[u'web_site', 0.79587257, u'envelope', 0.042989064, u'book_jacket', 0.015059154, u'perfume', 0.0073867417, u'lotion', 0.0028417357]
+[u'stupa', 0.53387755, u'beacon', 0.17287795, u'pill_bottle', 0.099112459, u'dome', 0.027332585, u'church', 0.022585701]

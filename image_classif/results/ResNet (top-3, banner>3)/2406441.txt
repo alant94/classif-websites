@@ -1,0 +1,4 @@
+[u'hook', 0.22403876, u'punching_bag', 0.044128913, u'hair_spray', 0.039269924]
+[u'trench_coat', 0.41344497, u'military_uniform', 0.069532372, u'vending_machine', 0.063775644]
+[u'oxygen_mask', 0.74978524, u'nematode', 0.08717487, u'nipple', 0.017537365]
+[u'crossword_puzzle', 0.33151838, u'tray', 0.15332873, u'quilt', 0.11790311]

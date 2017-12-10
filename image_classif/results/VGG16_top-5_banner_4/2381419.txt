@@ -1,0 +1,4 @@
+[u'book_jacket', 0.36828941, u'web_site', 0.20784672, u'comic_book', 0.16598237, u'packet', 0.10014348, u'cassette', 0.050472274]
+[u'bulletproof_vest', 0.61856496, u'military_uniform', 0.083276115, u'assault_rifle', 0.078518212, u'pickelhaube', 0.051008742, u'gasmask', 0.030447327]
+[u"potter's_wheel", 0.17142609, u'book_jacket', 0.16886222, u'milk_can', 0.12754282, u'whiskey_jug', 0.091920853, u'perfume', 0.041018303]
+[u'web_site', 0.33255178, u'book_jacket', 0.15132079, u'lab_coat', 0.06206442, u'menu', 0.041978788, u'barbershop', 0.041267198]

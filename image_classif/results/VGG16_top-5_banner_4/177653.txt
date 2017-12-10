@@ -1,0 +1,8 @@
+[u'bookshop', 0.5455302, u'library', 0.19131985, u'tobacco_shop', 0.079401016, u'comic_book', 0.059302952, u'packet', 0.01910284]
+[u'window_shade', 0.17691725, u'wall_clock', 0.10629962, u'shower_curtain', 0.10219659, u'digital_clock', 0.048904959, u'prayer_rug', 0.03407013]
+[u'packet', 0.12702189, u'Band_Aid', 0.12098226, u'crate', 0.048473291, u'grocery_store', 0.048132941, u'moving_van', 0.043363478]
+[u'envelope', 0.6926204, u'web_site', 0.091103204, u'binder', 0.073539697, u'book_jacket', 0.019639473, u'photocopier', 0.013435698]
+[u'Windsor_tie', 0.16409577, u'maze', 0.040676713, u'envelope', 0.039232306, u'digital_clock', 0.038653564, u'stole', 0.025663622]
+[u'web_site', 0.22745496, u'airship', 0.10788629, u'projectile', 0.093085967, u'can_opener', 0.05766372, u'dugong', 0.052864011]
+[u'cassette', 0.3659994, u'harmonica', 0.32792866, u'digital_clock', 0.08021345, u'tape_player', 0.024534537, u'scale', 0.023861105]
+[u'rubber_eraser', 0.1164199, u'spatula', 0.097219981, u"carpenter's_kit", 0.069540903, u'Band_Aid', 0.045924734, u'street_sign', 0.044555418]

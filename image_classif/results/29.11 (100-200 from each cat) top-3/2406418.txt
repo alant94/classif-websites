@@ -1,0 +1,3 @@
+[u'assault_rifle', 0.29239726, u'rifle', 0.11180276, u'bow', 0.076618746]
+[u'fountain', 0.30473512, u'traffic_light', 0.17849787, u'castle', 0.09652444]
+[u'fountain', 0.14031965, u'padlock', 0.12231453, u'picket_fence', 0.057476427]

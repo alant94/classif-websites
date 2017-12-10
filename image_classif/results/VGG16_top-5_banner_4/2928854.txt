@@ -1,0 +1,3 @@
+[u'ski', 0.87353408, u'bow', 0.017129524, u'knee_pad', 0.014761842, u'assault_rifle', 0.012974164, u'ski_mask', 0.01194369]
+[u'mountain_bike', 0.6193651, u'bicycle-built-for-two', 0.32732636, u'unicycle', 0.012850737, u'moped', 0.010830853, u'tricycle', 0.0077861045]
+[u'envelope', 0.31709623, u'digital_clock', 0.14455953, u'tray', 0.062205777, u'safe', 0.050606031, u'medicine_chest', 0.033544619]

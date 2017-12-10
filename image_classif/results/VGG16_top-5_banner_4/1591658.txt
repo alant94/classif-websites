@@ -1,0 +1,1 @@
+[u'diaper', 0.26096129, u'conch', 0.1548259, u'chambered_nautilus', 0.083807155, u'shower_cap', 0.03294006, u'hamster', 0.029495038]

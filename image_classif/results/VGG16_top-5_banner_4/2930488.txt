@@ -1,0 +1,2 @@
+[u'dining_table', 0.73617482, u'desk', 0.055478394, u'window_shade', 0.03390165, u'washbasin', 0.022591705, u'sliding_door', 0.010997562]
+[u'medicine_chest', 0.84980381, u'wardrobe', 0.046298414, u'sliding_door', 0.034512732, u'shower_curtain', 0.014772594, u'washbasin', 0.011365321]

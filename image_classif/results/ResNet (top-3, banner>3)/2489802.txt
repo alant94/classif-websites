@@ -1,0 +1,2 @@
+[u'swing', 0.32153821, u'parachute', 0.037115525, u'bicycle-built-for-two', 0.026688185]
+[u'plow', 0.3321588, u'hartebeest', 0.27145377, u'impala', 0.056840308]

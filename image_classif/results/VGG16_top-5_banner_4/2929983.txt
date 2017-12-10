@@ -1,0 +1,5 @@
+[u'bell_cote', 0.47985363, u'wall_clock', 0.044785131, u'jigsaw_puzzle', 0.034409039, u'picket_fence', 0.030510923, u'church', 0.022830769]
+[u'torch', 0.82924682, u'scoreboard', 0.0313861, u'lab_coat', 0.027310602, u'jersey', 0.010329058, u'marimba', 0.0051239748]
+[u'traffic_light', 0.40084767, u'street_sign', 0.32860103, u'hook', 0.03460943, u'maze', 0.034592949, u'binder', 0.0097976197]
+[u'web_site', 0.5327245, u'book_jacket', 0.12134939, u'gown', 0.023511475, u'groom', 0.017672874, u'comic_book', 0.0091365548]
+[u'picket_fence', 0.32087913, u'safety_pin', 0.11864866, u'spatula', 0.094619222, u'matchstick', 0.082592294, u'screwdriver', 0.059185315]

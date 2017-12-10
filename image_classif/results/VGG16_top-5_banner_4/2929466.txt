@@ -1,0 +1,3 @@
+[u'wardrobe', 0.14234155, u'envelope', 0.057970818, u'picket_fence', 0.029085094, u'pedestal', 0.0270976, u'sliding_door', 0.025272703]
+[u'nail', 0.23166658, u"carpenter's_kit", 0.061141081, u'screwdriver', 0.060292941, u'cleaver', 0.052292872, u'hook', 0.039869793]
+[u'wardrobe', 0.2108635, u'envelope', 0.05006456, u'picket_fence', 0.044877667, u'sliding_door', 0.03293905, u'candle', 0.02593434]

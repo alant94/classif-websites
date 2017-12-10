@@ -1,0 +1,3 @@
+[u'tennis_ball', 0.1540249, u'chain_saw', 0.09169358, u'envelope', 0.076351978, u'gong', 0.047889836, u'hook', 0.029844142]
+[u'brassiere', 0.065118775, u'paintbrush', 0.056984376, u'gown', 0.054364089, u'shower_curtain', 0.049225442, u'bow', 0.046069525]
+[u'envelope', 0.12810957, u'street_sign', 0.053251822, u'whistle', 0.042978745, u'tray', 0.041796222, u'digital_clock', 0.041269451]

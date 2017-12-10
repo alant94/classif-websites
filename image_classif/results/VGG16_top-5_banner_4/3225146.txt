@@ -1,0 +1,6 @@
+[u'spotlight', 0.040905636, u'typewriter_keyboard', 0.035123996, u'hard_disc', 0.035050746, u'accordion', 0.032203954, u'pill_bottle', 0.030625543]
+[u'book_jacket', 0.071663186, u'matchstick', 0.055560973, u'picket_fence', 0.053407583, u'jersey', 0.031670585, u'sea_urchin', 0.027492628]
+[u'nail', 0.16925514, u'coral_fungus', 0.091488294, u'matchstick', 0.083365731, u'sea_urchin', 0.059019871, u'screwdriver', 0.044130825]
+[u'Band_Aid', 0.26100767, u'envelope', 0.14461398, u'web_site', 0.050421931, u'jersey', 0.023417514, u'book_jacket', 0.019834526]
+[u'church', 0.27885145, u'web_site', 0.074618816, u'book_jacket', 0.060501169, u'library', 0.058389597, u'picket_fence', 0.057016015]
+[u'syringe', 0.55455971, u'picket_fence', 0.15724921, u'pill_bottle', 0.077608727, u'beacon', 0.029688014, u'nail', 0.023544848]

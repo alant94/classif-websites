@@ -1,0 +1,1 @@
+[u'burrito', 0.050423101, u'suit', 0.026947375, u'rotisserie', 0.025382755, u'Windsor_tie', 0.021979034, u'ocarina', 0.02068614]

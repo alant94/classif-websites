@@ -1,0 +1,2 @@
+[u'window_screen', 0.33726755, u'screen', 0.20119968, u'monitor', 0.1892042, u'television', 0.062749885, u'medicine_chest', 0.057029519]
+[u'hartebeest', 0.63799399, u'warthog', 0.2796964, u'military_uniform', 0.01267396, u'assault_rifle', 0.011165099, u'wild_boar', 0.010870947]

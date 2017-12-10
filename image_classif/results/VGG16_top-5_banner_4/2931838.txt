@@ -1,0 +1,4 @@
+[u'nematode', 0.51148003, u'magnetic_compass', 0.11083337, u'hook', 0.060741317, u'loupe', 0.036616493, u'rule', 0.034796413]
+[u'gong', 0.3885743, u'puck', 0.12766652, u'shield', 0.11618993, u'analog_clock', 0.046215441, u'wall_clock', 0.033485427]
+[u'suit', 0.76012051, u'Windsor_tie', 0.12209773, u'oboe', 0.045684103, u'bow_tie', 0.015467627, u'bassoon', 0.010945108]
+[u'magnetic_compass', 0.2654148, u'doormat', 0.11845991, u'gong', 0.067508526, u'prayer_rug', 0.038032133, u'rule', 0.02779635]

@@ -1,0 +1,1 @@
+[u'scoreboard', 0.10234604, u'barbershop', 0.060858488, u'tobacco_shop', 0.057421848, u'packet', 0.042912338, u'book_jacket', 0.041712366]

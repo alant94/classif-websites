@@ -1,0 +1,1 @@
+[u'fireboat', 0.20655699, u'space_shuttle', 0.054040004, u'pier', 0.045217052, u'water_tower', 0.039580066, u'spotlight', 0.034780022]

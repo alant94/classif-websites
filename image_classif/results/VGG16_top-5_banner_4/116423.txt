@@ -1,0 +1,1 @@
+[u'cinema', 0.10706693, u'book_jacket', 0.088710867, u'safety_pin', 0.080012426, u'beer_bottle', 0.054783639, u'comic_book', 0.036335379]

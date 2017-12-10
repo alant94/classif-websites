@@ -1,0 +1,2 @@
+[u'cassette', 0.25656494, u'wall_clock', 0.1211779, u'comic_book', 0.11174776, u'book_jacket', 0.096793778, u'analog_clock', 0.038359188]
+[u'hamper', 0.14006625, u"carpenter's_kit", 0.055912726, u'tobacco_shop', 0.054118641, u'chest', 0.047252033, u'desk', 0.046754561]

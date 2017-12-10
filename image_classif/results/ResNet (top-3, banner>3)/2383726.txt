@@ -1,0 +1,4 @@
+[u'beer_glass', 0.99680173, u'beer_bottle', 0.002074471, u'espresso', 0.00051894283]
+[u'beer_glass', 0.86049646, u'pill_bottle', 0.10160038, u'beaker', 0.010526264]
+[u'sunglass', 0.112278, u'sombrero', 0.090658337, u'paddle', 0.065267868]
+[u'panpipe', 0.38493571, u'harmonica', 0.110324, u'hair_spray', 0.084151849]

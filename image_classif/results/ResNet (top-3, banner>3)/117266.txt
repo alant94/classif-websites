@@ -1,0 +1,3 @@
+[u'cassette', 0.086164437, u'space_shuttle', 0.055950623, u'iPod', 0.053756177]
+[u'envelope', 0.15329352, u'web_site', 0.12452333, u'television', 0.08018551]
+[u'digital_clock', 0.33479908, u'analog_clock', 0.049695767, u'digital_watch', 0.043984108]

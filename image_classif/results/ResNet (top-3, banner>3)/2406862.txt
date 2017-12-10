@@ -1,0 +1,3 @@
+[u'plate_rack', 0.11890983, u'screwdriver', 0.092317224, u'theater_curtain', 0.090976775]
+[u'binder', 0.50450611, u'abaya', 0.15318529, u'sarong', 0.13208142]
+[u'assault_rifle', 0.81389815, u'rifle', 0.062636063, u'bow', 0.049498901]

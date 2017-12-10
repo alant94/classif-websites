@@ -1,0 +1,4 @@
+[u'web_site', 0.24774243, u'ski', 0.24545163, u'kimono', 0.11335327]
+[u'envelope', 0.38171771, u'binder', 0.090927884, u'web_site', 0.090509705]
+[u'loupe', 0.61626703, u'puck', 0.11478744, u'digital_clock', 0.098920032]
+[u'printer', 0.33435348, u'photocopier', 0.14709006, u'switch', 0.040606536]

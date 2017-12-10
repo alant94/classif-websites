@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.14835629, u'stretcher', 0.10376409, u'kimono', 0.04117649, u'toyshop', 0.031375546, u'restaurant', 0.026034942]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

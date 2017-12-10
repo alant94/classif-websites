@@ -1,0 +1,3 @@
+[u'bolo_tie', 0.14723088, u'bottlecap', 0.078973815, u'pinwheel', 0.078823991, u'hair_slide', 0.07125105, u'wall_clock', 0.048542634]
+[u'mortarboard', 0.30305755, u'web_site', 0.093668886, u'academic_gown', 0.072410181, u'envelope', 0.072031647, u'umbrella', 0.069731988]
+[u'matchstick', 0.14562933, u'rubber_eraser', 0.054288529, u'ballpoint', 0.023365267, u'paintbrush', 0.022961434, u'hammer', 0.020688994]

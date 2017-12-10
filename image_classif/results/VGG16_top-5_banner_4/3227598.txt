@@ -1,0 +1,5 @@
+[u"carpenter's_kit", 0.43034485, u'tobacco_shop', 0.17234811, u'organ', 0.088256955, u'plane', 0.05715932, u'hammer', 0.030167501]
+[u'Band_Aid', 0.34456033, u'envelope', 0.10391854, u'nipple', 0.090051837, u'rubber_eraser', 0.043237869, u'binder', 0.033123627]
+[u'book_jacket', 0.12925883, u'pick', 0.071708836, u'comic_book', 0.070814453, u'web_site', 0.038861778, u'jersey', 0.03012589]
+[u'coffee_mug', 0.17632444, u'whiskey_jug', 0.08938773, u'punching_bag', 0.075057469, u'barrel', 0.065488644, u'hair_spray', 0.051804893]
+[u'jersey', 0.35338923, u'pajama', 0.17897046, u'torch', 0.088348068, u'apron', 0.050149508, u'sarong', 0.040719386]

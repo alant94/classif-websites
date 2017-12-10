@@ -1,0 +1,3 @@
+[u'tank', 0.35705528, u'half_track', 0.17895541, u'web_site', 0.13699923, u'book_jacket', 0.091602452, u'amphibian', 0.062982425]
+[u'solar_dish', 0.23502839, u'garbage_truck', 0.17483792, u'handkerchief', 0.020643746, u'moving_van', 0.018694222, u'harvester', 0.018561246]
+[u'barn', 0.28576952, u'church', 0.17520528, u'prison', 0.059744053, u'monastery', 0.052223671, u'street_sign', 0.03376307]

@@ -1,0 +1,4 @@
+[u'buckle', 0.63555825, u'shield', 0.17463224, u'waffle_iron', 0.069512412, u'manhole_cover', 0.032228418, u'bolo_tie', 0.022725858]
+[u'bell_cote', 0.43814936, u'palace', 0.1664927, u'stupa', 0.10385861, u'throne', 0.097611643, u'monastery', 0.046920281]
+[u'shield', 0.48573717, u'book_jacket', 0.1799912, u'comic_book', 0.15275946, u'wall_clock', 0.063165084, u'mousetrap', 0.02384115]
+[u'buckle', 0.35918662, u'shield', 0.16884002, u'bolo_tie', 0.070746593, u'thimble', 0.069603883, u'combination_lock', 0.058924131]

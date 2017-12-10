@@ -1,0 +1,1 @@
+[u'street_sign', 0.17804465, u'tobacco_shop', 0.071908861, u'tow_truck', 0.061543375, u'hook', 0.047101159, u'guillotine', 0.039522503]

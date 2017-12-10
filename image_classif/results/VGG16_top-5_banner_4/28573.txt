@@ -1,0 +1,1 @@
+[u'ice_cream', 0.41426551, u'trifle', 0.19239137, u'banana', 0.062628359, u'acorn_squash', 0.055434559, u'chocolate_sauce', 0.046560533]

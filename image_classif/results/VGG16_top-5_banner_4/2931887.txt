@@ -1,0 +1,8 @@
+[u'toilet_seat', 0.059103101, u'cocktail_shaker', 0.032202624, u'cleaver', 0.028629223, u'vase', 0.027678724, u'face_powder', 0.026455252]
+[u'envelope', 0.04614738, u'table_lamp', 0.033534233, u'vase', 0.023478154, u'washer', 0.023461021, u'toilet_seat', 0.021960314]
+[u'paper_towel', 0.11694232, u'cleaver', 0.078509755, u'soap_dispenser', 0.077993117, u'toilet_tissue', 0.040354393, u'pencil_sharpener', 0.02444043]
+[u'plastic_bag', 0.071374625, u'Band_Aid', 0.044535756, u'oil_filter', 0.035175052, u'sunscreen', 0.028589655, u'cash_machine', 0.025815168]
+[u'paper_towel', 0.1219115, u'cleaver', 0.11606358, u'envelope', 0.04001151, u'toilet_tissue', 0.036615502, u'soap_dispenser', 0.027330756]
+[u'lighter', 0.048185509, u'modem', 0.030636489, u'perfume', 0.028799852, u'cleaver', 0.025559302, u'dishwasher', 0.023538293]
+[u'geyser', 0.63458359, u'fountain', 0.17985629, u'balloon', 0.027099641, u'volcano', 0.02289396, u'poncho', 0.020262102]
+[u'envelope', 0.07736259, u'cleaver', 0.031312283, u'table_lamp', 0.028341798, u'paper_towel', 0.024206944, u'toilet_seat', 0.017504716]

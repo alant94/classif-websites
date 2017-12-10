@@ -1,0 +1,2 @@
+[u'throne', 0.1738169, u'carousel', 0.11410823, u'fountain', 0.090304069, u'theater_curtain', 0.051778149, u'feather_boa', 0.031295575]
+[u'studio_couch', 0.098136917, u'sleeping_bag', 0.066407599, u'stretcher', 0.062414519, u'toilet_tissue', 0.051779885, u'television', 0.038194805]

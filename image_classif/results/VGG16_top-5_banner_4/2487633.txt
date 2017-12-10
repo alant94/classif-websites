@@ -1,0 +1,5 @@
+[u'book_jacket', 0.39915842, u'comic_book', 0.17803252, u'cinema', 0.17476115, u'barbershop', 0.055747975, u'scoreboard', 0.030457309]
+[u'four-poster', 0.31917486, u'dining_table', 0.23082957, u'china_cabinet', 0.093927123, u'throne', 0.065626688, u'altar', 0.034314629]
+[u'ox', 0.20012872, u'hartebeest', 0.14819492, u'water_buffalo', 0.099618509, u'bison', 0.095755875, u'impala', 0.083543584]
+[u'nail', 0.71466964, u'screw', 0.1860425, u'hook', 0.029465212, u'chime', 0.010610927, u'microphone', 0.0090150516]
+[u'vulture', 0.15671277, u'ear', 0.14371736, u'hook', 0.1230306, u'pole', 0.088530049, u'totem_pole', 0.053677887]

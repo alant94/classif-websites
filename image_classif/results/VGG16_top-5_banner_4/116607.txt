@@ -1,0 +1,7 @@
+[u'slot', 0.18422531, u'scale', 0.12579452, u'mousetrap', 0.11770275, u"carpenter's_kit", 0.11709481, u'digital_clock', 0.052901469]
+[u'cash_machine', 0.34358221, u'vending_machine', 0.31093663, u'gas_pump', 0.028446939, u'tobacco_shop', 0.020204369, u'bookshop', 0.015881406]
+[u'scoreboard', 0.66767955, u'book_jacket', 0.054161243, u'cinema', 0.049992319, u'street_sign', 0.049243271, u'barbershop', 0.024204487]
+[u'fire_engine', 0.30992767, u'scoreboard', 0.28013867, u'ambulance', 0.11609604, u'cinema', 0.05615826, u'vending_machine', 0.029089378]
+[u'cinema', 0.51729316, u'scoreboard', 0.19740765, u'paddlewheel', 0.027266322, u'cash_machine', 0.024755342, u'book_jacket', 0.014505659]
+[u'chest', 0.33949044, u'crate', 0.049068507, u'apiary', 0.047814317, u'guillotine', 0.037714705, u'stove', 0.036057256]
+[u'comic_book', 0.035471059, u'spotlight', 0.035050388, u'maze', 0.033447865, u'unicycle', 0.031978529, u'stage', 0.026350666]

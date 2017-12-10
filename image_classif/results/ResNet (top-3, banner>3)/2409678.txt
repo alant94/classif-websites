@@ -1,0 +1,2 @@
+[u'butcher_shop', 0.42297816, u'coral_fungus', 0.073470764, u'corn', 0.041015122]
+[u'pretzel', 0.54347408, u'coral_fungus', 0.18893577, u'ocarina', 0.05316123]

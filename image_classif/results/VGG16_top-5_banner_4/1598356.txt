@@ -1,0 +1,5 @@
+[u'barbell', 0.25422576, u'dumbbell', 0.069501124, u'parallel_bars', 0.0453161, u'desk', 0.028000394, u'printer', 0.025533823]
+[u'gasmask', 0.13265595, u'totem_pole', 0.097345345, u'cuirass', 0.090904646, u'pole', 0.064147368, u'cello', 0.062024638]
+[u'punching_bag', 0.069746338, u'pedestal', 0.066373803, u'vizsla', 0.053601902, u'swimming_trunks', 0.044641845, u'fountain', 0.036249012]
+[u'vizsla', 0.25746137, u'swimming_trunks', 0.20159654, u'balance_beam', 0.052242938, u'bathtub', 0.033597071, u'Weimaraner', 0.032604847]
+[u'totem_pole', 0.57915372, u'comic_book', 0.089844704, u'lampshade', 0.065084487, u'vault', 0.054252233, u'book_jacket', 0.023180842]

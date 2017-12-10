@@ -1,0 +1,1 @@
+[u'fiddler_crab', 0.87013721, u'king_crab', 0.10867058, u'rock_crab', 0.013846462, u'isopod', 0.0040592025, u'scorpion', 0.0017764557]

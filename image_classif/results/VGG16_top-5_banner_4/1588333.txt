@@ -1,0 +1,4 @@
+[u'feather_boa', 0.67213887, u'wig', 0.091853529, u'cowboy_hat', 0.073736034, u'fur_coat', 0.043875501, u'tub', 0.0082212379]
+[u"potter's_wheel", 0.43952394, u'iron', 0.097292311, u'scale', 0.040690821, u'quill', 0.039083291, u'teapot', 0.032405913]
+[u'miniskirt', 0.20870064, u'maillot', 0.088042863, u'maillot', 0.087835796, u'gown', 0.044419382, u'hair_spray', 0.040117167]
+[u'miniskirt', 0.13730906, u'bikini', 0.081633568, u'racket', 0.066696763, u'maillot', 0.053378761, u'diaper', 0.050572541]

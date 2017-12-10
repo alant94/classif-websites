@@ -1,0 +1,1 @@
+[u'bow_tie', 0.38690147, u'wig', 0.13986301, u'suit', 0.13093247, u'military_uniform', 0.099615857, u'pickelhaube', 0.056802832]

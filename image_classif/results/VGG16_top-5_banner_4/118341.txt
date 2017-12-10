@@ -1,0 +1,5 @@
+[u'puck', 0.65307045, u'pick', 0.21532507, u'beer_bottle', 0.028812455, u'shield', 0.014049731, u'scoreboard', 0.010066144]
+[u'tank', 0.72113919, u'half_track', 0.13530138, u'cannon', 0.077750489, u'military_uniform', 0.020482386, u'amphibian', 0.011403318]
+[u'half_track', 0.18408817, u'stretcher', 0.16341676, u'tank', 0.15273385, u'military_uniform', 0.14209828, u'pickelhaube', 0.059666272]
+[u'book_jacket', 0.49149716, u'envelope', 0.10733078, u'web_site', 0.083108395, u'jigsaw_puzzle', 0.072038621, u'packet', 0.058381625]
+[u'screen', 0.35453635, u'television', 0.21430425, u'monitor', 0.079422072, u'iPod', 0.060702685, u'desktop_computer', 0.046161894]

@@ -1,0 +1,7 @@
+[u'corkscrew', 0.31936955, u'hair_slide', 0.11454511, u'hook', 0.089399539, u'screw', 0.066229865, u'can_opener', 0.065328114]
+[u'leafhopper', 0.39654619, u'macaw', 0.16203651, u'quill', 0.054700021, u'barracouta', 0.039909225, u'bee_eater', 0.032332189]
+[u'hammerhead', 0.62497443, u'great_white_shark', 0.1466936, u'starfish', 0.053044453, u'tiger_shark', 0.047307704, u'triceratops', 0.034776423]
+[u'coho', 0.56650531, u'barracouta', 0.1095503, u'reel', 0.036124617, u'sturgeon', 0.032957587, u'tench', 0.031814788]
+[u'bee_eater', 0.18949053, u'crayfish', 0.15837389, u'slug', 0.067698501, u'little_blue_heron', 0.042285405, u'gar', 0.037755843]
+[u'prairie_chicken', 0.43638173, u'rhinoceros_beetle', 0.073560737, u'slug', 0.053595077, u'triceratops', 0.036364399, u'sturgeon', 0.030549904]
+[u'coho', 0.79198438, u'barracouta', 0.077536315, u'triceratops', 0.043553073, u'tench', 0.024477471, u'reel', 0.016263379]

@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.62416804, u'spider_web', 0.11289722, u'stopwatch', 0.063797385]
+[u'screwdriver', 0.22825712, u"carpenter's_kit", 0.1365447, u'modem', 0.11697245]
+[u'remote_control', 0.58156973, u'loudspeaker', 0.09302675, u'modem', 0.062995009]
+[u'web_site', 0.15197791, u'knot', 0.10098648, u'stopwatch', 0.052596316]
+[u'web_site', 0.63906467, u'envelope', 0.23693272, u'maze', 0.037428774]
+[u'web_site', 0.45884335, u'screen', 0.19451973, u'envelope', 0.0565967]

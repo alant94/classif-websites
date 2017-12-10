@@ -1,0 +1,3 @@
+[u'mailbox', 0.25105828, u'perfume', 0.16645165, u'book_jacket', 0.13419496, u'packet', 0.088426173, u'rubber_eraser', 0.068296641]
+[u'envelope', 0.57278514, u'spider_web', 0.19645618, u'handkerchief', 0.022786088, u'analog_clock', 0.013775932, u'binder', 0.013326546]
+[u'alp', 0.91208363, u'geyser', 0.044739265, u'valley', 0.024517175, u'cliff', 0.0042790347, u'fountain', 0.0033889161]

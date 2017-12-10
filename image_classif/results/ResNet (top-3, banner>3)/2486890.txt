@@ -1,0 +1,5 @@
+[u'ox', 0.66157478, u'triceratops', 0.10775971, u'oxcart', 0.10266355]
+[u'stretcher', 0.30533585, u'tusker', 0.084887981, u'assault_rifle', 0.065206461]
+[u'hog', 0.22484228, u'king_crab', 0.069624797, u'sturgeon', 0.066055648]
+[u'warthog', 0.25546762, u'water_buffalo', 0.19264571, u'wild_boar', 0.1787782]
+[u'impala', 0.29246271, u'hartebeest', 0.26376235, u'stretcher', 0.14490387]

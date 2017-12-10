@@ -1,0 +1,5 @@
+[u'web_site', 0.16685061, u'digital_clock', 0.087848954, u'monitor', 0.029697455, u'matchstick', 0.027162181, u'cash_machine', 0.026870847]
+[u'monitor', 0.38754979, u'web_site', 0.062715113, u'oscilloscope', 0.031034082, u'envelope', 0.027298508, u'screen', 0.024521139]
+[u'monitor', 0.11452322, u'laptop', 0.11417834, u'notebook', 0.095245764, u'web_site', 0.093236312, u'digital_clock', 0.063578494]
+[u'digital_clock', 0.15966968, u'web_site', 0.070101365, u'cash_machine', 0.030022955, u'rubber_eraser', 0.026643904, u'monitor', 0.025377968]
+[u'digital_clock', 0.16752256, u'monitor', 0.095516905, u'oscilloscope', 0.064495988, u'screen', 0.048095882, u'odometer', 0.046745542]

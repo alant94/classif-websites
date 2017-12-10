@@ -1,0 +1,6 @@
+[u'brassiere', 0.93395382, u'bikini', 0.02754302, u'maillot', 0.0024012064]
+[u'brassiere', 0.15999526, u'bikini', 0.14379628, u'miniskirt', 0.072434783]
+[u'oxygen_mask', 0.99958426, u'gasmask', 0.00022988539, u'snorkel', 5.0680763e-05]
+[u'mailbag', 0.087648265, u'neck_brace', 0.087494351, u'nipple', 0.047987409]
+[u'web_site', 0.21042745, u'candle', 0.097944915, u'theater_curtain', 0.062846571]
+[u'harmonica', 0.941872, u'lipstick', 0.014404011, u'remote_control', 0.010315486]

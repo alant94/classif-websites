@@ -1,0 +1,1 @@
+[u'nipple', 0.15035045, u'gasmask', 0.099058978, u'oxygen_mask', 0.084570356]

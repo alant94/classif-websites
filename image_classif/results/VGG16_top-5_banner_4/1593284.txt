@@ -1,0 +1,5 @@
+[u'window_screen', 0.13480571, u'shower_curtain', 0.033445925, u'umbrella', 0.025901731, u'wall_clock', 0.025435872, u'prison', 0.023186719]
+[u'swimming_trunks', 0.068974189, u'maillot', 0.068784676, u'miniskirt', 0.055871919, u'bikini', 0.051450938, u'maillot', 0.041381869]
+[u'bell_cote', 0.058344681, u'boathouse', 0.050597042, u'stupa', 0.047949016, u'beacon', 0.035478499, u'fountain', 0.032092359]
+[u'timber_wolf', 0.59138417, u'white_wolf', 0.19277537, u'dingo', 0.045991141, u'Eskimo_dog', 0.043420833, u'red_wolf', 0.039104719]
+[u'wig', 0.069068588, u'bubble', 0.042078946, u'harp', 0.037487745, u'poncho', 0.036345445, u'vestment', 0.026651483]

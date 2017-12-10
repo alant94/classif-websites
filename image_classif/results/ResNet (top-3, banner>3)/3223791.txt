@@ -1,0 +1,3 @@
+[u'hamper', 0.84382135, u'pot', 0.090030611, u'shopping_basket', 0.016333038]
+[u'wardrobe', 0.16636944, u'shoe_shop', 0.091670066, u'toyshop', 0.08372812]
+[u'moped', 0.83095026, u'motor_scooter', 0.10479775, u'jinrikisha', 0.042782526]

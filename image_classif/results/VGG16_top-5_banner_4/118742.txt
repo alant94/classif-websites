@@ -1,0 +1,5 @@
+[u'scale', 0.67137545, u'wall_clock', 0.087951154, u'analog_clock', 0.070038304, u'shield', 0.027210085, u'rule', 0.02553607]
+[u'cardigan', 0.77216452, u'suit', 0.097603619, u'stole', 0.051824335, u'jean', 0.012207767, u'wool', 0.010012994]
+[u'scale', 0.54268461, u'wall_clock', 0.13068001, u'analog_clock', 0.11186025, u'sundial', 0.038537648, u'rule', 0.027902512]
+[u'library', 0.55868566, u'restaurant', 0.16653913, u'laptop', 0.0612172, u'jigsaw_puzzle', 0.028712345, u'menu', 0.024667885]
+[u'digital_clock', 0.34919822, u'laptop', 0.032038972, u"jack-o'-lantern", 0.0292594, u'television', 0.017202495, u'projector', 0.015265673]

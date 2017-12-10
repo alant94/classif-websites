@@ -1,0 +1,3 @@
+[u'web_site', 0.28560469, u'street_sign', 0.15223549, u'menu', 0.047477238, u'cash_machine', 0.029236156, u'scoreboard', 0.019707754]
+[u'web_site', 0.918823, u'envelope', 0.0080449143, u'menu', 0.0030397899, u'analog_clock', 0.0028891789, u'hook', 0.0024906229]
+[u'nipple', 0.33072233, u'rubber_eraser', 0.151246, u'Band_Aid', 0.13745506, u'hair_slide', 0.040452816, u'lipstick', 0.039635975]

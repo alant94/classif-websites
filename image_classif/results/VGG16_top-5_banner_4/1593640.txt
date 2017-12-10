@@ -1,0 +1,2 @@
+[u'library', 0.11950652, u'bookshop', 0.078724749, u'restaurant', 0.057803325, u'tobacco_shop', 0.043787017, u'traffic_light', 0.026192717]
+[u'digital_clock', 0.40929645, u'whistle', 0.084066071, u'binder', 0.052419301, u'perfume', 0.036042739, u'monitor', 0.026776556]

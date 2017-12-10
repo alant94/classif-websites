@@ -1,0 +1,7 @@
+[u'cash_machine', 0.35979393, u'vending_machine', 0.20382869, u'slot', 0.095171571]
+[u'paddlewheel', 0.80618632, u'crane', 0.075421348, u'fireboat', 0.021333136]
+[u'jersey', 0.052250177, u'envelope', 0.051981837, u'binder', 0.041590881]
+[u'oil_filter', 0.23561107, u'vending_machine', 0.18741374, u'coffee_mug', 0.077644289]
+[u'digital_clock', 0.5400762, u'soap_dispenser', 0.11956482, u'analog_clock', 0.052061431]
+[u'paddlewheel', 0.6700837, u'crane', 0.082958534, u'fireboat', 0.059771486]
+[u'paddlewheel', 0.81952316, u'crane', 0.061531331, u'fireboat', 0.028676603]

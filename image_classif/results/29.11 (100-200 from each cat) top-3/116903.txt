@@ -1,0 +1,2 @@
+[u'shield', 0.27333173, u'gong', 0.13935252, u'banjo', 0.076635011]
+[u'sweatshirt', 0.17631616, u'chime', 0.17572258, u'paintbrush', 0.1323496]

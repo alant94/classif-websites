@@ -1,0 +1,8 @@
+[u'tennis_ball', 0.11623637, u'pick', 0.11149107, u'face_powder', 0.087149478, u'rugby_ball', 0.084800027, u'baseball', 0.056923654]
+[u'necklace', 0.80985326, u'hair_slide', 0.14679527, u'bottlecap', 0.017257206, u'thimble', 0.0045702546, u'chain', 0.0026717307]
+[u'necklace', 0.33164632, u'chain', 0.20008911, u'hair_slide', 0.14951336, u'whistle', 0.076092072, u'hook', 0.033373732]
+[u'hook', 0.096803963, u'safety_pin', 0.091109574, u'whistle', 0.044787019, u'brassiere', 0.034488268, u'stethoscope', 0.030451104]
+[u'hair_slide', 0.56009531, u'necklace', 0.064125739, u'buckle', 0.049950749, u'digital_watch', 0.049109455, u'bottlecap', 0.047141615]
+[u'cash_machine', 0.58339417, u'screen', 0.17996243, u'web_site', 0.039460402, u'television', 0.028248047, u'hand-held_computer', 0.014241964]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'necklace', 0.73596871, u'hair_slide', 0.18757816, u'bottlecap', 0.041907746, u'coil', 0.0095425434, u'chain', 0.0091608064]

@@ -1,0 +1,3 @@
+[u'wallet', 0.49243629, u'mailbag', 0.37170261, u'holster', 0.055287346]
+[u'lighter', 0.46192268, u'binder', 0.20442605, u'monitor', 0.0722211]
+[u'lighter', 0.41166529, u'binder', 0.21076417, u'wallet', 0.062461626]

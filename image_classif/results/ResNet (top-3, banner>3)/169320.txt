@@ -1,0 +1,2 @@
+[u'book_jacket', 0.075582877, u'matchstick', 0.05483396, u'punching_bag', 0.043642219]
+[u'analog_clock', 0.48756379, u'digital_clock', 0.33602348, u'wall_clock', 0.031768721]

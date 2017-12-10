@@ -1,0 +1,3 @@
+[u'shoe_shop', 0.10948619, u'cowboy_boot', 0.06257569, u'iron', 0.058370724]
+[u'iron', 0.31389204, u'bobsled', 0.23265667, u'shower_curtain', 0.16588213]
+[u'carton', 0.82345909, u'crate', 0.17244007, u'hay', 0.00037094072]

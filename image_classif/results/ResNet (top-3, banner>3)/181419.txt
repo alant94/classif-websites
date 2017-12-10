@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'fountain', 0.82798326, u'chain', 0.03889047, u'shower_curtain', 0.035029657]
+[u'web_site', 0.13486904, u'laptop', 0.088102087, u'envelope', 0.086739168]
+[u'envelope', 0.1590192, u'web_site', 0.12007343, u'jersey', 0.043222107]
+[u'web_site', 0.25227991, u'nematode', 0.14005028, u'stopwatch', 0.0532648]

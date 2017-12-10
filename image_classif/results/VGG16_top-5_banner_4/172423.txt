@@ -1,0 +1,4 @@
+[u'envelope', 0.39129314, u'street_sign', 0.039101448, u'wall_clock', 0.030832306, u'digital_clock', 0.030219635, u'Band_Aid', 0.022928983]
+[u'digital_clock', 0.33043963, u'envelope', 0.07142701, u'scoreboard', 0.058440391, u'traffic_light', 0.035865374, u'street_sign', 0.034926653]
+[u'envelope', 0.6510644, u'web_site', 0.05538585, u'monitor', 0.03089132, u'screen', 0.025491903, u'picket_fence', 0.018454423]
+[u'envelope', 0.26438355, u'digital_clock', 0.13839337, u'wall_clock', 0.057593998, u'traffic_light', 0.045232784, u'Band_Aid', 0.039190609]

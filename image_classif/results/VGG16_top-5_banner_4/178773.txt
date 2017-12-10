@@ -1,0 +1,1 @@
+[u'container_ship', 0.3597143, u'solar_dish', 0.034603812, u'shower_curtain', 0.022091646, u'scoreboard', 0.020270394, u'library', 0.019040357]

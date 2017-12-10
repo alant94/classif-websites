@@ -1,0 +1,1 @@
+[u'envelope', 0.11587568, u'web_site', 0.045713346, u'crossword_puzzle', 0.03902483, u'velvet', 0.017912623, u'wall_clock', 0.017315676]

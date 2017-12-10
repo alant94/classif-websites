@@ -1,0 +1,3 @@
+[u'cello', 0.99387699, u'bassoon', 0.0035276629, u'violin', 0.0011241953]
+[u'ambulance', 0.25522801, u'monitor', 0.086232662, u'laptop', 0.059446342]
+[u'theater_curtain', 0.37973568, u'vestment', 0.27370122, u'stage', 0.13575721]

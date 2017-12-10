@@ -1,0 +1,5 @@
+[u'slot', 0.6710673, u'comic_book', 0.2519199, u'vending_machine', 0.0084304288, u'web_site', 0.0077058524, u'scoreboard', 0.0055508092]
+[u'parachute', 0.54978776, u'balloon', 0.19535448, u'comic_book', 0.087030292, u'umbrella', 0.02955169, u'shower_curtain', 0.010780291]
+[u'shield', 0.26861548, u'torch', 0.13488093, u'comic_book', 0.1161371, u'balloon', 0.052755442, u'pencil_box', 0.03824776]
+[u'candle', 0.18261787, u'groom', 0.043027367, u'torch', 0.04138878, u'suit', 0.040308643, u'hourglass', 0.031374849]
+[u'marimba', 0.15586694, u'grand_piano', 0.13437237, u'television', 0.04825867, u'accordion', 0.041642714, u'turnstile', 0.032399677]

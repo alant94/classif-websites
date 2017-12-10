@@ -1,0 +1,6 @@
+[u'brown_bear', 0.92955196, u'hyena', 0.039658289, u'American_black_bear', 0.015769638, u'bison', 0.0022048766, u'beaver', 0.0018592366]
+[u'bald_eagle', 0.99995446, u'kite', 3.5364388e-05, u'vulture', 8.6687642e-06, u'pelican', 6.0020977e-07, u'albatross', 3.841771e-07]
+[u'pitcher', 0.2159092, u'caldron', 0.2156312, u'coffee_mug', 0.07590989, u'fire_screen', 0.057343248, u'cup', 0.044858266]
+[u'brown_bear', 0.93689013, u'beaver', 0.010303433, u'chow', 0.0091119315, u'otter', 0.0059079845, u'marmoset', 0.0040358016]
+[u'stole', 0.34947351, u'poncho', 0.10447873, u'Windsor_tie', 0.061902903, u'web_site', 0.054170117, u'wool', 0.036567289]
+[u'wardrobe', 0.25786087, u'medicine_chest', 0.091022782, u'binder', 0.051887907, u'envelope', 0.042457689, u'hamper', 0.028106006]

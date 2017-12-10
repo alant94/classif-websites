@@ -1,0 +1,6 @@
+[u'web_site', 0.99878103, u'comic_book', 0.00054695574, u'book_jacket', 0.00019087853]
+[u'church', 0.88977462, u'bell_cote', 0.068590134, u'monastery', 0.017531155]
+[u'web_site', 0.99974757, u'refrigerator', 5.5286171e-05, u'comic_book', 3.1728956e-05]
+[u'web_site', 0.47160876, u'medicine_chest', 0.11131118, u'bookcase', 0.084103145]
+[u'web_site', 0.91806072, u'book_jacket', 0.010197343, u'bell_cote', 0.0095393443]
+[u'web_site', 0.99050963, u'menu', 0.0081883324, u'envelope', 0.00035216787]

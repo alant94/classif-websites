@@ -1,0 +1,2 @@
+[u'doormat', 0.36201334, u'ptarmigan', 0.21538731, u'megalith', 0.04666581]
+[u'oscilloscope', 0.17594339, u'monitor', 0.1280916, u'cash_machine', 0.083935969]

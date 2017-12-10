@@ -1,0 +1,8 @@
+[u'shoji', 0.11308874, u'web_site', 0.1037863, u'digital_clock', 0.061220549]
+[u'swing', 0.083030403, u'bearskin', 0.056681972, u'candle', 0.048467938]
+[u'banana', 0.25881949, u'can_opener', 0.18622538, u'corkscrew', 0.18260555]
+[u'gong', 0.53467214, u'cassette', 0.27856898, u'cassette_player', 0.088687018]
+[u'jellyfish', 0.56032485, u'scorpion', 0.042839453, u'stage', 0.040207684]
+[u'abaya', 0.24035873, u'sombrero', 0.036620893, u'theater_curtain', 0.033409003]
+[u'web_site', 0.8436563, u'rule', 0.039136931, u'envelope', 0.0099430513]
+[u'digital_clock', 0.90521967, u'digital_watch', 0.018862521, u'stopwatch', 0.017279517]

@@ -1,0 +1,3 @@
+[u'lab_coat', 0.27366418, u'stethoscope', 0.076289989, u'stole', 0.075975537, u'trench_coat', 0.075027689, u'jean', 0.06210234]
+[u'butcher_shop', 0.18538645, u'swab', 0.086301796, u'garbage_truck', 0.036574468, u'stole', 0.02476085, u'corn', 0.023438362]
+[u'swab', 0.25318614, u'crutch', 0.074257769, u'prison', 0.062085293, u'ski', 0.061980259, u'butcher_shop', 0.03212785]

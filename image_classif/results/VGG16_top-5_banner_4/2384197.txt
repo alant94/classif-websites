@@ -1,0 +1,5 @@
+[u'iron', 0.14726433, u'sweatshirt', 0.084443562, u'swab', 0.042785391, u'pajama', 0.042155862, u'jersey', 0.027900934]
+[u'alp', 0.18179126, u'geyser', 0.150068, u'valley', 0.087218083, u'castle', 0.073650427, u'fountain', 0.071203046]
+[u'book_jacket', 0.041756362, u'vase', 0.022123426, u'beer_glass', 0.018121481, u'coffee_mug', 0.016964605, u'dishwasher', 0.016767729]
+[u'fountain', 0.13350385, u'alp', 0.11824425, u'geyser', 0.0976872, u'church', 0.086624101, u'suspension_bridge', 0.055611409]
+[u'swab', 0.091108024, u'book_jacket', 0.077637337, u'poncho', 0.05610222, u'shower_curtain', 0.038039651, u'fountain', 0.029912939]

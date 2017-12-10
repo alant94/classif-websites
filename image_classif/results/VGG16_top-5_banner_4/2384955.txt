@@ -1,0 +1,5 @@
+[u'cash_machine', 0.13988176, u'book_jacket', 0.083257377, u'street_sign', 0.041308906, u'binder', 0.039291631, u'modem', 0.038315233]
+[u'nipple', 0.099318489, u"carpenter's_kit", 0.074280702, u'safety_pin', 0.060255509, u'screwdriver', 0.058472417, u'sunscreen', 0.048688695]
+[u'cleaver', 0.43292975, u'butcher_shop', 0.34274289, u'wardrobe', 0.071810618, u'swab', 0.020974534, u'paintbrush', 0.012619976]
+[u'radiator', 0.27043754, u'candle', 0.24243297, u'picket_fence', 0.11132954, u'vestment', 0.040156987, u'organ', 0.029588142]
+[u'wardrobe', 0.29351494, u'ski', 0.176057, u'paddle', 0.088350534, u'shovel', 0.036715601, u'wooden_spoon', 0.029608089]

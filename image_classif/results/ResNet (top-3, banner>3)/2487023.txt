@@ -1,0 +1,6 @@
+[u'Arabian_camel', 0.59879804, u'brown_bear', 0.22040801, u'marmot', 0.09988156]
+[u'bald_eagle', 0.99996722, u'kite', 2.2966957e-05, u'cock', 2.458283e-06]
+[u'fire_screen', 0.73721951, u'pot', 0.023665924, u'candle', 0.023129039]
+[u'brown_bear', 0.91516799, u'American_black_bear', 0.027198302, u'chow', 0.0094764968]
+[u'chain_mail', 0.28182513, u'web_site', 0.12621747, u'envelope', 0.036606938]
+[u'Band_Aid', 0.36459824, u'prayer_rug', 0.33311757, u'lighter', 0.025834883]

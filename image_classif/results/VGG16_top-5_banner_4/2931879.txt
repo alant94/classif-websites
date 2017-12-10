@@ -1,0 +1,2 @@
+[u'pencil_sharpener', 0.17886682, u'corkscrew', 0.13372138, u'can_opener', 0.1275111, u'hook', 0.11517284, u'safety_pin', 0.071532227]
+[u'screwdriver', 0.56752366, u"carpenter's_kit", 0.093353882, u'ballpoint', 0.086263008, u'rubber_eraser', 0.021396702, u'wine_bottle', 0.020667534]

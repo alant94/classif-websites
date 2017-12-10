@@ -1,0 +1,2 @@
+[u'sports_car', 0.66078091, u'convertible', 0.13766807, u'car_wheel', 0.090221919]
+[u'crossword_puzzle', 0.98375863, u'quilt', 0.0070411735, u'digital_clock', 0.0021469698]

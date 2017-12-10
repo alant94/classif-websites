@@ -1,0 +1,5 @@
+[u'combination_lock', 0.29179043, u'lens_cap', 0.25296754, u'switch', 0.069601379]
+[u'web_site', 0.21292429, u'envelope', 0.1947576, u'cleaver', 0.033623219]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14418676, u'envelope', 0.058261778, u'dishwasher', 0.025775895]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

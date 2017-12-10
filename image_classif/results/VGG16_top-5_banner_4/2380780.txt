@@ -1,0 +1,6 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'pick', 0.19780691, u'puck', 0.10344922, u'racket', 0.070572816, u'rugby_ball', 0.05991568, u'tennis_ball', 0.050312076]
+[u'space_shuttle', 0.066188417, u'bell_cote', 0.059602365, u'missile', 0.047996003, u'beacon', 0.047556754, u'flagpole', 0.044319674]
+[u'palace', 0.17088987, u'monastery', 0.096051015, u'castle', 0.074890152, u'stupa', 0.045590255, u'triumphal_arch', 0.03941967]
+[u'comic_book', 0.13326181, u'oil_filter', 0.06165373, u'puck', 0.048637878, u'book_jacket', 0.042842232, u'lens_cap', 0.03777653]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

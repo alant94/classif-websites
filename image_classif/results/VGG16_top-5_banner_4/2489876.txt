@@ -1,0 +1,2 @@
+[u'syringe', 0.22440678, u'analog_clock', 0.049649812, u'picket_fence', 0.049468134, u'digital_clock', 0.045618597, u'spotlight', 0.039790727]
+[u'syringe', 0.29891115, u'wine_bottle', 0.11888583, u'book_jacket', 0.10407678, u'screwdriver', 0.082639948, u'picket_fence', 0.058720104]

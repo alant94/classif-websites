@@ -1,0 +1,7 @@
+[u'paper_towel', 0.70591199, u'toilet_tissue', 0.28899321, u'Band_Aid', 0.0013753731]
+[u'book_jacket', 0.34427193, u'cash_machine', 0.10224725, u'barbershop', 0.10019319]
+[u'web_site', 0.60350579, u'church', 0.053528309, u'comic_book', 0.022730578]
+[u'punching_bag', 0.14332347, u'muzzle', 0.084944971, u'bucket', 0.082197338]
+[u'digital_clock', 0.31823963, u'web_site', 0.31615871, u'analog_clock', 0.024661627]
+[u'vending_machine', 0.35774294, u'iPod', 0.23103766, u'cellular_telephone', 0.075461119]
+[u'web_site', 0.75871128, u'dishwasher', 0.01796075, u'envelope', 0.012318704]

@@ -1,0 +1,4 @@
+[u'quilt', 0.17487904, u'dining_table', 0.10309155, u'studio_couch', 0.089140907]
+[u'sundial', 0.52135164, u'tripod', 0.093544982, u'hammer', 0.023754312]
+[u'radio', 0.24345449, u'hamper', 0.12805912, u'binder', 0.064453304]
+[u'web_site', 0.13218227, u'packet', 0.082193293, u'plate_rack', 0.075617649]

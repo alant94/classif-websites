@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.35385874, u'wardrobe', 0.035647921, u'prayer_rug', 0.022001626, u'washbasin', 0.019954931, u'sock', 0.018432718]

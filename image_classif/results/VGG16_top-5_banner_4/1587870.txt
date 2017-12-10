@@ -1,0 +1,5 @@
+[u'fur_coat', 0.22814609, u'feather_boa', 0.10009525, u'overskirt', 0.06845022, u'stole', 0.047680415, u'breastplate', 0.043788593]
+[u'brassiere', 0.31545964, u'gown', 0.1719043, u'bikini', 0.13226533, u'bath_towel', 0.098192029, u'bathtub', 0.057367619]
+[u'fireboat', 0.973355, u'fountain', 0.0071603609, u'lab_coat', 0.0055746604, u'hourglass', 0.0013902573, u'mosquito_net', 0.0010704418]
+[u'shoji', 0.11653145, u'digital_clock', 0.096319795, u'window_screen', 0.08775644, u'window_shade', 0.056519363, u'sliding_door', 0.036500953]
+[u'toyshop', 0.15793031, u'teddy', 0.13953805, u'dough', 0.1026391, u'earthstar', 0.056903735, u'butcher_shop', 0.040054381]

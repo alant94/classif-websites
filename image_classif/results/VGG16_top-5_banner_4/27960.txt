@@ -1,0 +1,2 @@
+[u'window_shade', 0.59597051, u'window_screen', 0.089385308, u'sliding_door', 0.077362441, u'bannister', 0.03637455, u'shoji', 0.035063993]
+[u'container_ship', 0.4235892, u'crib', 0.086797193, u'abacus', 0.06480822, u'scoreboard', 0.032590088, u'safe', 0.029639151]

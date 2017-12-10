@@ -1,0 +1,6 @@
+[u'theater_curtain', 0.10275428, u'suspension_bridge', 0.063152485, u'panpipe', 0.041679967, u'fountain', 0.035389051, u'matchstick', 0.025493849]
+[u'digital_watch', 0.36857149, u'digital_clock', 0.10632903, u'stopwatch', 0.08429829, u'screen', 0.076741286, u'wall_clock', 0.047652476]
+[u'digital_watch', 0.17881674, u'wall_clock', 0.17435074, u'stopwatch', 0.089075975, u'analog_clock', 0.08066415, u'digital_clock', 0.061540637]
+[u'toilet_seat', 0.24411783, u'tray', 0.15155828, u'bucket', 0.04377564, u'whistle', 0.036262698, u'magnetic_compass', 0.033474565]
+[u'tray', 0.20268796, u'wall_clock', 0.080054358, u'toilet_seat', 0.053353697, u'bolo_tie', 0.048504606, u'Petri_dish', 0.043143153]
+[u'digital_watch', 0.19353724, u'wall_clock', 0.17793237, u'digital_clock', 0.090366893, u'analog_clock', 0.056413502, u'stopwatch', 0.050995886]

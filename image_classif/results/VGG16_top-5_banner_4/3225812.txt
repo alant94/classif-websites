@@ -1,0 +1,7 @@
+[u'book_jacket', 0.36377439, u'envelope', 0.19594589, u'menu', 0.12355878, u'packet', 0.043152541, u'jersey', 0.042036675]
+[u'cinema', 0.46012259, u'beacon', 0.34146383, u'church', 0.03006517, u'stupa', 0.029046273, u'bell_cote', 0.01511384]
+[u'volcano', 0.09109766, u'drilling_platform', 0.077106044, u'lakeside', 0.068849199, u'geyser', 0.049935352, u'trailer_truck', 0.03359941]
+[u'moving_van', 0.072001055, u'cinema', 0.048506528, u'bookshop', 0.047256161, u'barbershop', 0.042567551, u'medicine_chest', 0.038711913]
+[u'bell_cote', 0.40999863, u'stupa', 0.15182686, u'airship', 0.039895788, u'obelisk', 0.034770392, u'traffic_light', 0.0301023]
+[u'cash_machine', 0.30302376, u'ashcan', 0.066834778, u'street_sign', 0.054966934, u'book_jacket', 0.025310241, u'oil_filter', 0.024456603]
+[u'stupa', 0.37628558, u'pencil_sharpener', 0.14280652, u'bell_cote', 0.13426027, u'panpipe', 0.12254652, u'matchstick', 0.027354755]

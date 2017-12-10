@@ -1,0 +1,4 @@
+[u'envelope', 0.40405482, u'book_jacket', 0.070939161, u'web_site', 0.043479234, u'binder', 0.034865718, u'wall_clock', 0.021589043]
+[u'torch', 0.065291278, u'pill_bottle', 0.062888384, u'traffic_light', 0.056336503, u'airship', 0.041394994, u'daisy', 0.036427855]
+[u'matchstick', 0.32032222, u'bubble', 0.18852676, u'jellyfish', 0.14927967, u'nematode', 0.040335406, u'chambered_nautilus', 0.034878202]
+[u'maraca', 0.072945103, u'volleyball', 0.062028825, u'bathing_cap', 0.058571629, u'baseball', 0.04829032, u'sunscreen', 0.045662139]

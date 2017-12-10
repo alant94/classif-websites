@@ -1,0 +1,6 @@
+[u'bucket', 0.27504858, u'torch', 0.2000294, u'bolo_tie', 0.071436569, u'spotlight', 0.054342758, u'tray', 0.051891323]
+[u'envelope', 0.14063142, u'web_site', 0.088768199, u'wardrobe', 0.083901174, u'washbasin', 0.061678395, u'sliding_door', 0.033213332]
+[u'Windsor_tie', 0.16631454, u'envelope', 0.07681939, u'web_site', 0.026823087, u'crossword_puzzle', 0.025823042, u'sock', 0.025728831]
+[u'maze', 0.11993524, u'crossword_puzzle', 0.085481443, u'digital_clock', 0.074752428, u'scoreboard', 0.047437843, u'envelope', 0.046909235]
+[u'crossword_puzzle', 0.3664341, u'digital_clock', 0.13359867, u'picket_fence', 0.031542085, u'wall_clock', 0.030586872, u'traffic_light', 0.029625833]
+[u'pedestal', 0.15853906, u'washbasin', 0.11798499, u'wardrobe', 0.10685866, u'sliding_door', 0.07006485, u'obelisk', 0.06371554]

@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'abaya', 0.20669016, u'suit', 0.12712602, u'organ', 0.089767598]
+[u'analog_clock', 0.26991075, u'web_site', 0.13574345, u'wall_clock', 0.085117109]
+[u'envelope', 0.1590192, u'web_site', 0.12007343, u'jersey', 0.043222107]
+[u'suit', 0.24367258, u'abaya', 0.12296072, u'lumbermill', 0.043057941]

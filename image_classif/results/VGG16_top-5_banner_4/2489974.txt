@@ -1,0 +1,4 @@
+[u'pelican', 0.13985322, u'sea_lion', 0.095849946, u'dowitcher', 0.039999437, u'lakeside', 0.039815217, u'American_coot', 0.036163785]
+[u'modem', 0.14156285, u'switch', 0.10260928, u'lighter', 0.058055129, u'rubber_eraser', 0.045076169, u'digital_clock', 0.043409418]
+[u'sliding_door', 0.084506094, u'worm_fence', 0.063085295, u'window_screen', 0.060332328, u'guillotine', 0.060292728, u'prison', 0.028246712]
+[u'wreck', 0.097418435, u'chain_saw', 0.059491832, u'sliding_door', 0.043926977, u'lumbermill', 0.043448139, u'guillotine', 0.040505573]

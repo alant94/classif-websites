@@ -1,0 +1,8 @@
+[u'window_shade', 0.097452611, u'bannister', 0.089236669, u'panpipe', 0.082679279, u'library', 0.037938785, u'picket_fence', 0.026127381]
+[u'hair_spray', 0.0510033, u'sunscreen', 0.048663348, u'street_sign', 0.030350603, u'hook', 0.028963607, u'web_site', 0.024334077]
+[u'panpipe', 0.24332178, u'harp', 0.064247638, u'pier', 0.039712381, u'crane', 0.028838973, u'binder', 0.025224978]
+[u'daisy', 0.04129358, u'bittern', 0.028843693, u'limpkin', 0.028479245, u"yellow_lady's_slipper", 0.026957152, u'ear', 0.024246588]
+[u'puck', 0.21349041, u'ski', 0.17555749, u'pick', 0.091694459, u'Band_Aid', 0.020751495, u'racer', 0.020500522]
+[u'window_shade', 0.097452611, u'bannister', 0.089236669, u'panpipe', 0.082679279, u'library', 0.037938785, u'picket_fence', 0.026127381]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'harp', 0.39003456, u'panpipe', 0.2379318, u'pier', 0.15523398, u'steel_arch_bridge', 0.079035796, u'crane', 0.014631171]

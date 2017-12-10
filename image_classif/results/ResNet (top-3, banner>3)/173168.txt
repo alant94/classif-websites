@@ -1,0 +1,6 @@
+[u'vault', 0.19459954, u'altar', 0.10682625, u'monastery', 0.10500401]
+[u'bookshop', 0.62199217, u'barbershop', 0.16037443, u'web_site', 0.036179263]
+[u'book_jacket', 0.76600999, u'brass', 0.15365501, u'jersey', 0.015286827]
+[u'organ', 0.40692928, u'comic_book', 0.19423686, u'book_jacket', 0.11274388]
+[u'book_jacket', 0.14691782, u'banjo', 0.088174276, u'sax', 0.073617905]
+[u'web_site', 0.54545826, u'nematode', 0.01218156, u'nail', 0.011341767]

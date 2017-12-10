@@ -1,0 +1,5 @@
+[u'gown', 0.09498556, u'vacuum', 0.09221518, u'jean', 0.073881373]
+[u'vacuum', 0.31886181, u'gas_pump', 0.12364706, u'lab_coat', 0.07932739]
+[u'mantis', 0.89454299, u'American_chameleon', 0.038849242, u'walking_stick', 0.01423225]
+[u'reflex_camera', 0.14749818, u'coffee_mug', 0.13469405, u'triumphal_arch', 0.074673697]
+[u'stole', 0.17498785, u'cardigan', 0.063341051, u'wool', 0.052590188]

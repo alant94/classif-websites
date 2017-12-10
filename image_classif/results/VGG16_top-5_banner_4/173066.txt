@@ -1,0 +1,2 @@
+[u'stage', 0.56866795, u'theater_curtain', 0.2695559, u'loudspeaker', 0.021221671, u'spotlight', 0.020978732, u'wardrobe', 0.014509124]
+[u'stage', 0.6637544, u'cello', 0.13526179, u'oboe', 0.033490784, u'grand_piano', 0.018197792, u'groom', 0.014826749]

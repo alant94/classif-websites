@@ -1,0 +1,4 @@
+[u"carpenter's_kit", 0.3367568, u'book_jacket', 0.068641633, u'ballpoint', 0.060971916, u'jersey', 0.058462132, u'web_site', 0.030178912]
+[u"carpenter's_kit", 0.23798501, u'book_jacket', 0.14044745, u'ballpoint', 0.065055624, u'jersey', 0.037393104, u'web_site', 0.036715455]
+[u"carpenter's_kit", 0.2431559, u'ballpoint', 0.08592853, u'book_jacket', 0.065098859, u'jersey', 0.04121282, u'screwdriver', 0.032854449]
+[u'cellular_telephone', 0.25978675, u'radio', 0.1245084, u'hand-held_computer', 0.10578345, u'iPod', 0.096071437, u'remote_control', 0.093418315]

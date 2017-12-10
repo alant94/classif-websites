@@ -1,0 +1,7 @@
+[u'web_site', 0.38758817, u'comic_book', 0.13519534, u'scoreboard', 0.11582059]
+[u'digital_clock', 0.8714059, u'digital_watch', 0.019090552, u'street_sign', 0.01301497]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'digital_clock', 0.71483541, u'digital_watch', 0.060217768, u'analog_clock', 0.030709187]
+[u'web_site', 0.31893378, u'garbage_truck', 0.080817938, u'screen', 0.070514388]
+[u'picket_fence', 0.82606345, u'pot', 0.090525113, u'daisy', 0.021682847]
+[u'book_jacket', 0.36330536, u'scoreboard', 0.078076564, u'cash_machine', 0.062147167]

@@ -1,0 +1,1 @@
+[u'honeycomb', 0.04712962, u'envelope', 0.031457495, u'lab_coat', 0.030225702, u'picket_fence', 0.029920578, u'pill_bottle', 0.028275197]

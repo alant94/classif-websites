@@ -1,0 +1,2 @@
+[u'balloon', 0.34479502, u'web_site', 0.1329229, u'seashore', 0.073286653, u'parachute', 0.061662365, u'volleyball', 0.02524361]
+[u'web_site', 0.85362208, u'envelope', 0.015545606, u'Band_Aid', 0.0074311122, u'hand-held_computer', 0.0067520426, u'stopwatch', 0.005995837]

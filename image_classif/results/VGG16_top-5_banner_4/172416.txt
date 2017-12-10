@@ -1,0 +1,2 @@
+[u'book_jacket', 0.052774824, u'Band_Aid', 0.051654071, u'puck', 0.038177926, u'tennis_ball', 0.034361396, u'hair_spray', 0.032279205]
+[u'theater_curtain', 0.35550112, u'altar', 0.1206832, u'cinema', 0.11703879, u'monastery', 0.073616631, u'palace', 0.060833458]

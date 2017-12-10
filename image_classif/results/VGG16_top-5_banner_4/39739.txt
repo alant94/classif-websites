@@ -1,0 +1,5 @@
+[u'spider_monkey', 0.096027717, u'jackfruit', 0.090054408, u'howler_monkey', 0.070850842, u'buckeye', 0.043794252, u'orangutan', 0.023708453]
+[u'prayer_rug', 0.30055833, u'doormat', 0.088362217, u'dishwasher', 0.06743329, u'radiator', 0.043676317, u'fire_screen', 0.038871735]
+[u'parallel_bars', 0.76244092, u'horizontal_bar', 0.074208163, u'brassiere', 0.021767179, u'paddle', 0.012371624, u'punching_bag', 0.011275972]
+[u'sewing_machine', 0.99291021, u'joystick', 0.0039119176, u'quill', 0.00040487616, u'desk', 0.00027473859, u'scale', 0.00020936799]
+[u'prison', 0.98640919, u'vault', 0.0038839518, u'dam', 0.002137491, u'greenhouse', 0.0018168596, u'bannister', 0.0010443042]

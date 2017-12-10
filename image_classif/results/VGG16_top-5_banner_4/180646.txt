@@ -1,0 +1,1 @@
+[u'matchstick', 0.25641692, u'picket_fence', 0.13257091, u'paddlewheel', 0.074346043, u'tray', 0.070228353, u'shopping_basket', 0.04647392]

@@ -1,0 +1,8 @@
+[u'vending_machine', 0.208272, u'medicine_chest', 0.14193209, u'gas_pump', 0.1122847, u'pill_bottle', 0.05918026, u'cassette', 0.053021275]
+[u'monitor', 0.28333893, u'television', 0.25284052, u'screen', 0.18323541, u'window_screen', 0.15145862, u'medicine_chest', 0.019994702]
+[u'screwdriver', 0.41362557, u"carpenter's_kit", 0.11119667, u'rubber_eraser', 0.046945829, u'ballpoint', 0.034487426, u'rule', 0.028707126]
+[u'window_screen', 0.18425079, u'screen', 0.16083626, u'monitor', 0.1208738, u'entertainment_center', 0.11407425, u'medicine_chest', 0.10937966]
+[u'oscilloscope', 0.30871433, u'screen', 0.12950212, u'monitor', 0.10716882, u'tray', 0.1061971, u'window_screen', 0.08941754]
+[u'tray', 0.37247244, u'binder', 0.080107793, u'monitor', 0.050839696, u'wall_clock', 0.048161168, u'iPod', 0.0473001]
+[u'entertainment_center', 0.32280433, u'medicine_chest', 0.15093334, u'rotisserie', 0.066009365, u'television', 0.045138583, u'bookshop', 0.042320266]
+[u'cash_machine', 0.26426038, u'medicine_chest', 0.11781342, u'vending_machine', 0.069029853, u'slot', 0.046883393, u'wall_clock', 0.045529068]

@@ -1,0 +1,1 @@
+[u'book_jacket', 0.083450399, u'moving_van', 0.043966424, u'sunscreen', 0.039171766, u'chain_saw', 0.039104078, u'oil_filter', 0.037349332]

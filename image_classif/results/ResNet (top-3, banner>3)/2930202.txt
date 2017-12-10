@@ -1,0 +1,4 @@
+[u'computer_keyboard', 0.76473826, u'space_bar', 0.12733744, u'typewriter_keyboard', 0.081501707]
+[u'umbrella', 0.62074912, u'mountain_tent', 0.12949724, u'parachute', 0.048979644]
+[u'library', 0.0716701, u'restaurant', 0.071037121, u'prison', 0.070078701]
+[u'oboe', 0.80207515, u'sax', 0.041273646, u'flute', 0.022665]

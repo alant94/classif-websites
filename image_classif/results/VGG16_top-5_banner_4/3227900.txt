@@ -1,0 +1,8 @@
+[u'wall_clock', 0.27248111, u'shield', 0.13079342, u'magnetic_compass', 0.041784018, u'bottlecap', 0.038254801, u'analog_clock', 0.037226543]
+[u'wall_clock', 0.40422499, u'analog_clock', 0.32007521, u'barometer', 0.062338803, u'stopwatch', 0.046184968, u'stethoscope', 0.021895062]
+[u'ice_bear', 0.24507585, u'geyser', 0.097448513, u'web_site', 0.07247182, u'fountain', 0.055401456, u'book_jacket', 0.036424771]
+[u'traffic_light', 0.12836282, u'street_sign', 0.097127222, u'digital_clock', 0.093204655, u'maze', 0.067358315, u'Band_Aid', 0.049020011]
+[u'obelisk', 0.2490616, u'bell_cote', 0.1981519, u'church', 0.11592187, u'mosque', 0.094823048, u'flagpole', 0.04394377]
+[u'book_jacket', 0.3045246, u'hook', 0.064847328, u'comic_book', 0.063815087, u'candle', 0.054569855, u'safety_pin', 0.045036428]
+[u'web_site', 0.082926176, u'envelope', 0.048597347, u'menu', 0.030189876, u'Band_Aid', 0.017457806, u'hand_blower', 0.016017633]
+[u'menu', 0.52389765, u'envelope', 0.15167932, u'book_jacket', 0.059082329, u'packet', 0.046052895, u'bath_towel', 0.028894089]

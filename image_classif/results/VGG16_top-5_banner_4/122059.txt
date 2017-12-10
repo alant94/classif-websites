@@ -1,0 +1,5 @@
+[u'digital_clock', 0.13360474, u'traffic_light', 0.10726012, u'honeycomb', 0.10592197, u'prayer_rug', 0.058610588, u'stole', 0.050988726]
+[u'Christmas_stocking', 0.16653551, u'mitten', 0.11604485, u'hair_slide', 0.059759099, u'balloon', 0.056848209, u'jigsaw_puzzle', 0.03586302]
+[u'shower_curtain', 0.21729811, u'handkerchief', 0.14846012, u'wool', 0.1197551, u'sock', 0.1039991, u'tray', 0.062393926]
+[u'pool_table', 0.17802371, u'analog_clock', 0.053328585, u'digital_clock', 0.045635957, u'wall_clock', 0.04202237, u'switch', 0.038482137]
+[u'syringe', 0.11863365, u'picket_fence', 0.068000264, u'candle', 0.066549383, u'traffic_light', 0.047536664, u'bell_cote', 0.042249653]

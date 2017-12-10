@@ -1,0 +1,2 @@
+[u"carpenter's_kit", 0.12798694, u'rule', 0.097884461, u'racket', 0.096950278]
+[u'Windsor_tie', 0.33980757, u'mortarboard', 0.09693376, u'suit', 0.073396228]

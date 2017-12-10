@@ -1,0 +1,1 @@
+[u'punching_bag', 0.11812569, u'beacon', 0.080486998, u'flagpole', 0.061339755, u'street_sign', 0.032106768, u'bell_cote', 0.030334713]

@@ -1,0 +1,4 @@
+[u'barber_chair', 0.40633804, u'toilet_tissue', 0.12889606, u'barbershop', 0.054767061]
+[u'radio_telescope', 0.869838, u'puck', 0.036037348, u'balloon', 0.011918076]
+[u'bikini', 0.82548553, u'maillot', 0.10070685, u'brassiere', 0.015002852]
+[u'wallet', 0.35210657, u'letter_opener', 0.083030969, u'rule', 0.077438116]

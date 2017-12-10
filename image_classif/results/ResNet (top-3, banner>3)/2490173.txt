@@ -1,0 +1,6 @@
+[u'chain_saw', 0.22390856, u'comic_book', 0.2070559, u'traffic_light', 0.085519984]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'shield', 0.1468125, u'analog_clock', 0.12083206, u'church', 0.061317191]
+[u'analog_clock', 0.1620456, u'church', 0.13417216, u'oxygen_mask', 0.08261741]
+[u'matchstick', 0.14561668, u'bottlecap', 0.077668592, u'analog_clock', 0.074424103]
+[u'face_powder', 0.73332953, u'Petri_dish', 0.10465518, u'switch', 0.031323463]

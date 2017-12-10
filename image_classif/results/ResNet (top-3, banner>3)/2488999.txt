@@ -1,0 +1,5 @@
+[u'valley', 0.41816241, u'lakeside', 0.284794, u'recreational_vehicle', 0.054177772]
+[u'brass', 0.22099635, u'park_bench', 0.075551048, u'greenhouse', 0.068931967]
+[u'ostrich', 0.41364574, u'ox', 0.40639979, u'gazelle', 0.0808357]
+[u'web_site', 0.79749066, u'brass', 0.11062219, u'scoreboard', 0.036809012]
+[u'valley', 0.73183322, u'alp', 0.095431246, u'cliff', 0.088572383]

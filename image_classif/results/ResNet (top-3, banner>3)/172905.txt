@@ -1,0 +1,5 @@
+[u'ambulance', 0.36204121, u'scoreboard', 0.058005225, u'cassette', 0.048061132]
+[u'tray', 0.27164084, u'screen', 0.20114051, u'monitor', 0.075244628]
+[u'digital_clock', 0.76863253, u'digital_watch', 0.044838704, u'crossword_puzzle', 0.041440599]
+[u'digital_clock', 0.27031535, u'analog_clock', 0.069994308, u'web_site', 0.057812694]
+[u'wall_clock', 0.3622219, u'tray', 0.2335816, u'shower_curtain', 0.082964785]

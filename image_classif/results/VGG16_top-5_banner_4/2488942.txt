@@ -1,0 +1,3 @@
+[u'cougar', 0.99732459, u'lynx', 0.0012268138, u'wallaby', 0.00079787063, u'platypus', 0.00013487726, u'ibex', 0.00013471555]
+[u'hook', 0.1017719, u'envelope', 0.091559164, u'nematode', 0.067053512, u'whistle', 0.054149427, u'web_site', 0.049558174]
+[u'hook', 0.1017719, u'envelope', 0.091559164, u'nematode', 0.067053512, u'whistle', 0.054149427, u'web_site', 0.049558174]

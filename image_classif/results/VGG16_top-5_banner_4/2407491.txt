@@ -1,0 +1,7 @@
+[u'chime', 0.54496491, u'scale', 0.28899866, u'caldron', 0.10719182, u'gong', 0.025023002, u'bell_cote', 0.015146362]
+[u'table_lamp', 0.20083819, u'hook', 0.1229152, u'chime', 0.08648362, u'guillotine', 0.050610006, u'iron', 0.040587436]
+[u'hourglass', 0.24137381, u'pedestal', 0.21196862, u'caldron', 0.16487835, u'cup', 0.049889836, u'drum', 0.044912439]
+[u'walking_stick', 0.93717539, u'American_chameleon', 0.027943822, u'mantis', 0.0084479377, u'wolf_spider', 0.0050283843, u'green_lizard', 0.0031499162]
+[u'hook', 0.6932162, u'swing', 0.12842584, u'chime', 0.043193623, u'necklace', 0.031005103, u'chain', 0.015396608]
+[u'binder', 0.43890789, u'envelope', 0.25938573, u'screen', 0.10629486, u'monitor', 0.035453536, u'safe', 0.015690548]
+[u'nematode', 0.11017822, u'sea_anemone', 0.1060799, u'jellyfish', 0.091261066, u'coil', 0.048926618, u'hook', 0.040892392]

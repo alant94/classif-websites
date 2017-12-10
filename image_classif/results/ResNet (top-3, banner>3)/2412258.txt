@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.80979437, u'cleaver', 0.048484161, u'dumbbell', 0.023329673]
+[u'lakeside', 0.2267023, u'monitor', 0.11179545, u'screen', 0.042749707]
+[u'cliff', 0.40248382, u'promontory', 0.30282807, u'lakeside', 0.057262804]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'analog_clock', 0.37289536, u'digital_clock', 0.1222738, u'spotlight', 0.044861145]

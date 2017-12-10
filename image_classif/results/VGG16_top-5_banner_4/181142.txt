@@ -1,0 +1,8 @@
+[u'packet', 0.068883531, u'web_site', 0.063275136, u'jersey', 0.055501517, u'envelope', 0.043864194, u'pick', 0.017039459]
+[u'screwdriver', 0.42496216, u'ballpoint', 0.25508031, u"carpenter's_kit", 0.072206542, u'ski', 0.030004211, u'chime', 0.019672643]
+[u'plastic_bag', 0.4815723, u'packet', 0.31213829, u'book_jacket', 0.075669922, u'envelope', 0.030688537, u'menu', 0.014021778]
+[u'projectile', 0.18806337, u'flute', 0.15423694, u'missile', 0.12536804, u'fountain_pen', 0.058643945, u'wine_bottle', 0.051650077]
+[u'boathouse', 0.14269561, u'beacon', 0.11054448, u'monastery', 0.099700563, u'lakeside', 0.086020805, u'fireboat', 0.051077995]
+[u'nail', 0.254747, u'hook', 0.15601388, u'hatchet', 0.078666344, u'cleaver', 0.037317276, u'academic_gown', 0.025609624]
+[u'scoreboard', 0.15978123, u'book_jacket', 0.12509693, u'cinema', 0.10490708, u'paddlewheel', 0.098867945, u'palace', 0.07456065]
+[u'jigsaw_puzzle', 0.89279312, u'book_jacket', 0.059601475, u'envelope', 0.032651875, u'prayer_rug', 0.0031964146, u'menu', 0.0030520651]

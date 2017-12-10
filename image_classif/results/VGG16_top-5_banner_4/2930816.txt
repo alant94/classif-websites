@@ -1,0 +1,6 @@
+[u'pencil_box', 0.07472866, u'bow_tie', 0.051295154, u'pick', 0.041945413, u'sock', 0.04083826, u'bib', 0.04062888]
+[u'hook', 0.2756688, u'safety_pin', 0.060724977, u'digital_clock', 0.059651513, u'street_sign', 0.052666679, u'nematode', 0.049719501]
+[u'diaper', 0.90228093, u'cradle', 0.027987007, u'groom', 0.014825876, u'bath_towel', 0.007957059, u'nipple', 0.0076286574]
+[u'digital_clock', 0.27235168, u'Band_Aid', 0.12112758, u'beaker', 0.028350454, u'measuring_cup', 0.023491653, u'toilet_seat', 0.02250411]
+[u'face_powder', 0.18738882, u'sunscreen', 0.16514106, u'puck', 0.11418463, u'bathing_cap', 0.10005209, u'pick', 0.035198387]
+[u'lab_coat', 0.3068392, u'stethoscope', 0.065150894, u'Windsor_tie', 0.043832257, u'banjo', 0.030627334, u'notebook', 0.027521312]

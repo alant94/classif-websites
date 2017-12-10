@@ -1,0 +1,7 @@
+[u'jean', 0.54559177, u'dumbbell', 0.062515929, u'backpack', 0.014679439]
+[u'modem', 0.19960691, u'lighter', 0.11326975, u'radio', 0.1078523]
+[u'swimming_trunks', 0.9329133, u'sweatshirt', 0.025387039, u'knee_pad', 0.008872062]
+[u'bow', 0.73378462, u'swing', 0.089419097, u'broom', 0.029971963]
+[u'suit', 0.36877126, u'abaya', 0.24591784, u'web_site', 0.02719168]
+[u'scabbard', 0.77872753, u'corkscrew', 0.078711271, u'letter_opener', 0.047073182]
+[u'wallet', 0.83924848, u'binder', 0.056206144, u'handkerchief', 0.017436579]

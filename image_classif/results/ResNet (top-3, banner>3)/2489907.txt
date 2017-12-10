@@ -1,0 +1,7 @@
+[u'bittern', 0.11276976, u'corn', 0.054175291, u'kite', 0.052384324]
+[u'English_setter', 0.53073364, u'English_springer', 0.19832143, u'Brittany_spaniel', 0.058141977]
+[u'English_springer', 0.110044, u'ruffed_grouse', 0.096152626, u'German_short-haired_pointer', 0.072322287]
+[u'analog_clock', 0.44714174, u'web_site', 0.28910416, u'wall_clock', 0.025201315]
+[u'chain_saw', 0.10909516, u'Indian_elephant', 0.10013723, u'cowboy_boot', 0.076998405]
+[u'quail', 0.56817418, u'partridge', 0.22547664, u'coucal', 0.043807246]
+[u'Ibizan_hound', 0.52374083, u'whippet', 0.25499323, u'dalmatian', 0.024314795]

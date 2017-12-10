@@ -1,0 +1,3 @@
+[u'scoreboard', 0.69358122, u'web_site', 0.14150803, u'digital_clock', 0.073791601, u'oscilloscope', 0.026931021, u'screen', 0.011931174]
+[u'web_site', 0.53027332, u'monitor', 0.119574, u'notebook', 0.090369269, u'desktop_computer', 0.06636788, u'laptop', 0.063851304]
+[u'web_site', 0.9836964, u'monitor', 0.0043671331, u'notebook', 0.0029930456, u'screen', 0.0025432699, u'iPod', 0.0015061148]

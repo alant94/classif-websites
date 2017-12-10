@@ -1,0 +1,3 @@
+[u'flagpole', 0.17259359, u'lakeside', 0.080702856, u'palace', 0.075499058, u'seashore', 0.057773307, u'greenhouse', 0.049762212]
+[u'cliff', 0.54970133, u'valley', 0.20792899, u'promontory', 0.10244238, u'seashore', 0.073433511, u'lakeside', 0.035219975]
+[u'plow', 0.18892793, u'safety_pin', 0.15464647, u'picket_fence', 0.051310699, u'matchstick', 0.039916117, u'worm_fence', 0.032067414]

@@ -1,0 +1,4 @@
+[u'guillotine', 0.11781901, u'library', 0.085262589, u'sliding_door', 0.0764625, u'gondola', 0.071023099, u'vault', 0.070253752]
+[u'drumstick', 0.028728446, u'burrito', 0.028701635, u'stretcher', 0.026725441, u'drum', 0.024754394, u'dough', 0.023845138]
+[u'bulletproof_vest', 0.10564879, u'dumbbell', 0.08161065, u'knee_pad', 0.075599112, u'military_uniform', 0.054290451, u'miniskirt', 0.044844292]
+[u'comic_book', 0.20099491, u'go-kart', 0.15647812, u'shoe_shop', 0.059752136, u'sleeping_bag', 0.049866177, u'knee_pad', 0.045799069]

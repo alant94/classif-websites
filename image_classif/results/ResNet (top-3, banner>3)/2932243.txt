@@ -1,0 +1,6 @@
+[u'web_site', 0.21197554, u'hard_disc', 0.033630107, u'remote_control', 0.030676037]
+[u'groom', 0.18314481, u'cardigan', 0.12186899, u'hoopskirt', 0.093575157]
+[u'ice_lolly', 0.37493554, u'candle', 0.21098353, u'lipstick', 0.066889733]
+[u'web_site', 0.21907945, u'mortarboard', 0.088005058, u'academic_gown', 0.067588165]
+[u'miniskirt', 0.11369228, u'jean', 0.076910548, u'iron', 0.048320528]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

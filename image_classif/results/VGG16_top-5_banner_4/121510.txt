@@ -1,0 +1,4 @@
+[u'racer', 0.077462904, u'pencil_box', 0.072710313, u'laptop', 0.066669822, u'vacuum', 0.032748815, u'can_opener', 0.027590657]
+[u'tractor', 0.30359122, u'thresher', 0.13974342, u'amphibian', 0.084956452, u'tow_truck', 0.082984082, u'harvester', 0.074146494]
+[u'cash_machine', 0.195952, u'traffic_light', 0.11312445, u'projector', 0.093266405, u'turnstile', 0.058958326, u'pay-phone', 0.042956833]
+[u'bolo_tie', 0.2449826, u'necklace', 0.1716208, u'chain', 0.083143286, u'analog_clock', 0.077792183, u'wall_clock', 0.071727395]

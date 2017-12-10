@@ -1,0 +1,1 @@
+[u'web_site', 0.39096862, u'microphone', 0.028952144, u'abaya', 0.028577819, u'lab_coat', 0.026231449, u'hair_spray', 0.021705329]

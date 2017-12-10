@@ -1,0 +1,1 @@
+[u'corkscrew', 0.42657447, u'hatchet', 0.20368388, u'bow', 0.063275911, u'can_opener', 0.029375982, u'rhinoceros_beetle', 0.022288758]

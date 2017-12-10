@@ -1,0 +1,1 @@
+[u'turnstile', 0.13869634, u'sliding_door', 0.12356537, u'picket_fence', 0.10221098, u'chime', 0.076796316, u'window_shade', 0.052210711]

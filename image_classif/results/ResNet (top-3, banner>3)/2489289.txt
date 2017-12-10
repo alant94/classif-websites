@@ -1,0 +1,5 @@
+[u'water_buffalo', 0.4686611, u'bison', 0.27366024, u'bighorn', 0.18132365]
+[u'ibex', 0.95193118, u'hartebeest', 0.027104551, u'bighorn', 0.0095340107]
+[u'horse_cart', 0.78519726, u'dogsled', 0.090691775, u'plow', 0.037662122]
+[u'chain_saw', 0.31560001, u'wild_boar', 0.20044674, u'tusker', 0.12006824]
+[u'web_site', 0.099717304, u'toilet_seat', 0.066515841, u'drum', 0.065637857]

@@ -1,0 +1,1 @@
+[u'guillotine', 0.25543198, u'cash_machine', 0.17826448, u'sliding_door', 0.062995143]

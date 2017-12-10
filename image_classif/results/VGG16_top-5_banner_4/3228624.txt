@@ -1,0 +1,5 @@
+[u'street_sign', 0.4603264, u'digital_clock', 0.036799148, u'traffic_light', 0.033621702, u'lighter', 0.026457146, u'scoreboard', 0.024038684]
+[u'wall_clock', 0.30523181, u'analog_clock', 0.10055642, u'digital_clock', 0.099819757, u'puck', 0.085944623, u'barometer', 0.082522579]
+[u'hook', 0.50009882, u'safety_pin', 0.16873436, u'coil', 0.062302765, u'nipple', 0.051932987, u'coffee_mug', 0.035602793]
+[u'vase', 0.29504499, u'pot', 0.23335773, u'fountain', 0.067841709, u'candle', 0.051640939, u'fireboat', 0.021500094]
+[u'web_site', 0.62889051, u'comic_book', 0.1744114, u'book_jacket', 0.11816841, u'television', 0.008129511, u'dugong', 0.0064351386]

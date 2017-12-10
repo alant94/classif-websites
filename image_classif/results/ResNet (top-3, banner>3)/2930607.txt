@@ -1,0 +1,8 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'Walker_hound', 0.31590107, u'German_short-haired_pointer', 0.15225711, u'bluetick', 0.15038012]
+[u'groenendael', 0.21403524, u'Afghan_hound', 0.19325559, u'borzoi', 0.094704233]
+[u'face_powder', 0.12249854, u'tennis_ball', 0.11678129, u'honeycomb', 0.11314751]
+[u'Saluki', 0.349139, u'borzoi', 0.2856043, u'Bedlington_terrier', 0.19109648]
+[u'collie', 0.40460169, u'borzoi', 0.31264836, u'Border_collie', 0.24101396]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867]
+[u'golden_retriever', 0.66145933, u'borzoi', 0.13508016, u'collie', 0.10195024]

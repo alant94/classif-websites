@@ -1,0 +1,3 @@
+[u'park_bench', 0.078933649, u'brass', 0.039429262, u'bow_tie', 0.036176216, u'stupa', 0.029914539, u'groom', 0.029509164]
+[u'bathing_cap', 0.77002561, u'swimming_trunks', 0.14155667, u'maillot', 0.014959857, u'bikini', 0.012284196, u'knee_pad', 0.009526954]
+[u'maillot', 0.20288235, u'miniskirt', 0.14083934, u'maillot', 0.12933627, u'swimming_trunks', 0.11179966, u'bikini', 0.089150876]

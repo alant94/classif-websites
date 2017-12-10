@@ -1,0 +1,6 @@
+[u'diaper', 0.47061116, u'dough', 0.045891877, u'miniskirt', 0.038781438, u'bath_towel', 0.035117917, u'wooden_spoon', 0.024784794]
+[u'fireboat', 0.54235178, u'space_shuttle', 0.10252573, u'fountain', 0.083077841, u'candle', 0.03577058, u'torch', 0.029751277]
+[u'bell_cote', 0.21978574, u'espresso_maker', 0.095060147, u'scale', 0.055566587, u'beacon', 0.042256728, u'crane', 0.041526008]
+[u'perfume', 0.40085003, u'switch', 0.12374275, u'toilet_seat', 0.11186947, u'soap_dispenser', 0.078672178, u'face_powder', 0.030206842]
+[u'fountain', 0.26661977, u'poncho', 0.066746227, u'feather_boa', 0.060945623, u'panpipe', 0.034664836, u'marimba', 0.029819118]
+[u'pick', 0.19621721, u'corkscrew', 0.086811088, u'can_opener', 0.059180181, u'mask', 0.051880468, u'hair_slide', 0.033002514]

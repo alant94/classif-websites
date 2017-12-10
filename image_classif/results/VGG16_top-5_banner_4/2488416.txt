@@ -1,0 +1,3 @@
+[u'book_jacket', 0.62103099, u'jersey', 0.03117769, u'comic_book', 0.019306196, u'theater_curtain', 0.015571341, u'menu', 0.010310256]
+[u'borzoi', 0.38296959, u'English_setter', 0.27152804, u'Saluki', 0.067363635, u'clumber', 0.043552257, u'Great_Pyrenees', 0.03250058]
+[u'puck', 0.76175237, u'sweatshirt', 0.062345758, u'jersey', 0.036909729, u'scoreboard', 0.015706904, u'packet', 0.013713498]

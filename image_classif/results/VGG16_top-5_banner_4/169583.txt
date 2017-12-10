@@ -1,0 +1,1 @@
+[u'lab_coat', 0.23092461, u'harp', 0.053540789, u'vestment', 0.030380286, u'library', 0.030158153, u'bookshop', 0.030018127]

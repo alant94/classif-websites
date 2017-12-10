@@ -1,0 +1,1 @@
+[u'television', 0.44650912, u'window_screen', 0.11078278, u'window_shade', 0.060598422]

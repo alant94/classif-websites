@@ -1,0 +1,8 @@
+[u'nail', 0.18273123, u'safety_pin', 0.15421522, u'letter_opener', 0.089046068, u"carpenter's_kit", 0.085216671, u'hook', 0.084328912]
+[u'spotlight', 0.066324048, u'window_shade', 0.066308744, u'window_screen', 0.047327232, u'matchstick', 0.035520345, u'greenhouse', 0.033602323]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'analog_clock', 0.30602309, u'Petri_dish', 0.11778645, u'spotlight', 0.10938741, u'stopwatch', 0.099525549, u'magnetic_compass', 0.052988693]
+[u'pill_bottle', 0.993393, u'conch', 0.0015562043, u'candle', 0.0010878717, u'nipple', 0.00096640561, u'water_bottle', 0.00044336173]
+[u'coil', 0.38681534, u'spotlight', 0.37350464, u'maze', 0.088404834, u'analog_clock', 0.011620268, u'jellyfish', 0.010099562]
+[u'traffic_light', 0.069589883, u'digital_clock', 0.064369388, u'picket_fence', 0.064039879, u'fountain', 0.029123459, u'window_screen', 0.024364026]
+[u'monitor', 0.27553475, u'screen', 0.1808513, u'oscilloscope', 0.14237779, u'projector', 0.050441146, u'television', 0.049337849]

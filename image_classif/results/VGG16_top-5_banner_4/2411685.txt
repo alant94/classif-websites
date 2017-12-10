@@ -1,0 +1,1 @@
+[u'macaw', 0.55024081, u'black_stork', 0.077782914, u'bee_eater', 0.046460476, u'little_blue_heron', 0.042508956, u'European_gallinule', 0.036790576]

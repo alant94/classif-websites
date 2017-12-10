@@ -1,0 +1,5 @@
+[u'loudspeaker', 0.641325, u'gong', 0.069358014, u'tape_player', 0.049889289]
+[u'container_ship', 0.85753202, u'switch', 0.017154714, u'envelope', 0.010165284]
+[u'strainer', 0.43441427, u'oil_filter', 0.14066695, u'gong', 0.038629111]
+[u'jersey', 0.18138155, u'envelope', 0.17255419, u'laptop', 0.10111321]
+[u'hamper', 0.14093655, u'jigsaw_puzzle', 0.12344607, u'web_site', 0.087017454]

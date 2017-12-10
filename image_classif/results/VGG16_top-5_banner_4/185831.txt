@@ -1,0 +1,2 @@
+[u'book_jacket', 0.074653074, u'hair_spray', 0.061728653, u'prison', 0.057147957, u'broom', 0.052342206, u'lipstick', 0.042163964]
+[u'screwdriver', 0.21354601, u'rule', 0.063465305, u'ballpoint', 0.063112378, u'syringe', 0.055294167, u'rubber_eraser', 0.049222514]

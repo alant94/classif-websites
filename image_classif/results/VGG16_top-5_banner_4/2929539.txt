@@ -1,0 +1,3 @@
+[u'web_site', 0.32176521, u'envelope', 0.29798886, u'Band_Aid', 0.036790185, u'rule', 0.02944693, u'hook', 0.012970903]
+[u'church', 0.24675907, u'palace', 0.21394254, u'mosque', 0.1677148, u'picket_fence', 0.10968711, u'obelisk', 0.047011416]
+[u'wardrobe', 0.82944846, u'handkerchief', 0.060643684, u'stole', 0.025960946, u'swab', 0.016702957, u'poncho', 0.013521282]

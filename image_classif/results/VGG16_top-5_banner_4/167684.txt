@@ -1,0 +1,4 @@
+[u'monastery', 0.65467548, u'castle', 0.20691162, u'palace', 0.10240594, u'church', 0.0099665038, u'mosque', 0.0052158558]
+[u'minibus', 0.44046, u'recreational_vehicle', 0.2436119, u'passenger_car', 0.20214982, u'trolleybus', 0.062101867, u'moving_van', 0.02543035]
+[u'stage', 0.42103302, u'cinema', 0.22148407, u'scoreboard', 0.087954365, u'theater_curtain', 0.059253525, u'shoe_shop', 0.044146337]
+[u'bow', 0.62029117, u'ski', 0.11268538, u'swab', 0.059349149, u"carpenter's_kit", 0.054013025, u'screwdriver', 0.032139383]

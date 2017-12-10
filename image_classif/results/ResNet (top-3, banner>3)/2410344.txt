@@ -1,0 +1,2 @@
+[u'guillotine', 0.19763114, u'swab', 0.16535021, u'broom', 0.10580879]
+[u'stinkhorn', 0.18152189, u'earthstar', 0.16591859, u'coral_fungus', 0.12971696]

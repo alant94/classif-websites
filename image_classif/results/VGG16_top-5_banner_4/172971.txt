@@ -1,0 +1,2 @@
+[u'perfume', 0.37279022, u'lotion', 0.15212175, u'candle', 0.059333824, u'sunscreen', 0.050826717, u'lipstick', 0.038693409]
+[u'nail', 0.10201991, u'syringe', 0.094995342, u'matchstick', 0.08663781, u'radiator', 0.081327237, u'rule', 0.074584678]

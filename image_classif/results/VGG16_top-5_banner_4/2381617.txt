@@ -1,0 +1,5 @@
+[u'switch', 0.12446348, u'wall_clock', 0.09740328, u'screw', 0.07540594, u'combination_lock', 0.062202994, u'analog_clock', 0.054914266]
+[u'envelope', 0.052285727, u'nipple', 0.047256202, u'lotion', 0.026144508, u'hook', 0.02400795, u'wardrobe', 0.022871708]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.018102989, u'envelope', 0.015095337, u'can_opener', 0.011853605, u'corkscrew', 0.010939832, u'face_powder', 0.010443694]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

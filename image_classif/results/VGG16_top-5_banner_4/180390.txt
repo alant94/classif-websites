@@ -1,0 +1,3 @@
+[u'pick', 0.14058468, u'jersey', 0.10798767, u'book_jacket', 0.057647295, u'comic_book', 0.040947586, u'vase', 0.034861568]
+[u'bulletproof_vest', 0.26623723, u'military_uniform', 0.25360671, u'comic_book', 0.13922289, u'book_jacket', 0.10225464, u'jigsaw_puzzle', 0.016582694]
+[u'comic_book', 0.88773185, u'book_jacket', 0.06731154, u'jigsaw_puzzle', 0.0092847273, u'corkscrew', 0.0051437789, u'tray', 0.0045552189]

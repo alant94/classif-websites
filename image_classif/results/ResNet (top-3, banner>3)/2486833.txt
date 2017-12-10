@@ -1,0 +1,6 @@
+[u'pick', 0.53719717, u'envelope', 0.11504176, u'shield', 0.031457208]
+[u'ibex', 0.56584865, u'lion', 0.056813128, u'cougar', 0.054520216]
+[u'rifle', 0.23024467, u'bow', 0.11266899, u'assault_rifle', 0.076274164]
+[u'impala', 0.81495303, u'hartebeest', 0.094848618, u'gazelle', 0.087189935]
+[u'cliff', 0.24370158, u'megalith', 0.11771519, u'coho', 0.061046835]
+[u'web_site', 0.83555615, u'nematode', 0.039376371, u'can_opener', 0.019326346]

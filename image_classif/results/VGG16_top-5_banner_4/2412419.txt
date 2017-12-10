@@ -1,0 +1,3 @@
+[u'space_shuttle', 0.085280418, u'matchstick', 0.057087753, u'picket_fence', 0.046627957, u'bell_cote', 0.037736226, u'hammerhead', 0.0290388]
+[u'spotlight', 0.037755821, u'matchstick', 0.032937352, u'beacon', 0.024767073, u'flagpole', 0.021551294, u'digital_clock', 0.021134587]
+[u'envelope', 0.16210756, u'digital_clock', 0.062619738, u'wall_clock', 0.043523252, u'web_site', 0.037792657, u'analog_clock', 0.017790105]

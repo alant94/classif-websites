@@ -1,0 +1,2 @@
+[u'sombrero', 0.97563553, u'cowboy_hat', 0.012292629, u'book_jacket', 0.0074581108, u'maraca', 0.0010598793, u'bath_towel', 0.00085955579]
+[u'sombrero', 0.97563553, u'cowboy_hat', 0.012292629, u'book_jacket', 0.0074581108, u'maraca', 0.0010598793, u'bath_towel', 0.00085955579]

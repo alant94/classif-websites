@@ -1,0 +1,1 @@
+[u'television', 0.16371354, u'park_bench', 0.04313929, u'neck_brace', 0.034819182]

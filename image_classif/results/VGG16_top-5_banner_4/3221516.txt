@@ -1,0 +1,7 @@
+[u'rule', 0.15595251, u'envelope', 0.10193257, u'rubber_eraser', 0.051644128, u'nail', 0.044562608, u'Band_Aid', 0.035541184]
+[u'envelope', 0.065354466, u'rubber_eraser', 0.042162023, u'Band_Aid', 0.041053053, u'street_sign', 0.038201552, u'nail', 0.023124915]
+[u'web_site', 0.92243069, u'book_jacket', 0.022987658, u'menu', 0.022639902, u'packet', 0.0076844445, u'envelope', 0.0040891254]
+[u'rubber_eraser', 0.056986414, u'envelope', 0.047819369, u'nail', 0.040548064, u'Band_Aid', 0.035612244, u'rule', 0.033332717]
+[u'lab_coat', 0.49362722, u'web_site', 0.16716458, u'notebook', 0.062891684, u'stethoscope', 0.027279915, u'monitor', 0.022677399]
+[u'velvet', 0.11170936, u'theater_curtain', 0.067231439, u'binder', 0.02211472, u'letter_opener', 0.017374946, u'cleaver', 0.016165799]
+[u'digital_clock', 0.20196091, u'whistle', 0.0541633, u'rubber_eraser', 0.043036696, u'envelope', 0.042434759, u'pill_bottle', 0.03629281]

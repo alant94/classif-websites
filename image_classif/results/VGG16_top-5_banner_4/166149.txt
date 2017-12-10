@@ -1,0 +1,5 @@
+[u'rubber_eraser', 0.45356512, u'toaster', 0.098919839, u'digital_clock', 0.080061905, u'lighter', 0.03531225, u'mailbox', 0.017426319]
+[u'prison', 0.18033059, u'book_jacket', 0.14011799, u'bookshop', 0.1247165, u'comic_book', 0.08880005, u'barbershop', 0.046649173]
+[u'tray', 0.82498115, u'digital_clock', 0.042035796, u'buckle', 0.021043479, u'iPod', 0.016415035, u'pencil_box', 0.014814651]
+[u'mailbox', 0.084455214, u'file', 0.08398363, u'digital_clock', 0.079806589, u'switch', 0.058275376, u'cash_machine', 0.058187023]
+[u'tray', 0.60725105, u'digital_clock', 0.21153191, u'medicine_chest', 0.024938757, u'street_sign', 0.016642708, u'wall_clock', 0.010393721]

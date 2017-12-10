@@ -1,0 +1,3 @@
+[u'switch', 0.2606065, u'beaker', 0.17863731, u'oxygen_mask', 0.11552659]
+[u'digital_clock', 0.26796716, u'Band_Aid', 0.041793317, u'digital_watch', 0.033478618]
+[u'web_site', 0.45871964, u'barbershop', 0.18297473, u'bookshop', 0.11658099]

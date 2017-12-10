@@ -1,0 +1,5 @@
+[u'acoustic_guitar', 0.39829648, u'electric_guitar', 0.24041378, u'banjo', 0.20134927, u'stage', 0.10616231, u'harmonica', 0.030683814]
+[u'academic_gown', 0.19163185, u'abaya', 0.16403338, u'stole', 0.12073259, u'suit', 0.091766469, u'jean', 0.06547755]
+[u'abaya', 0.5028041, u'cloak', 0.072053626, u'academic_gown', 0.068350933, u'bloodhound', 0.02199991, u'broom', 0.0211266]
+[u'pajama', 0.19873574, u'kimono', 0.19489668, u'ski', 0.12255657, u'snowmobile', 0.066627264, u'parachute', 0.048427179]
+[u'window_screen', 0.5400337, u'window_shade', 0.27004144, u'sliding_door', 0.09445677, u'monitor', 0.016810603, u'television', 0.0073831026]

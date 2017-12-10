@@ -1,0 +1,1 @@
+[u'geyser', 0.70729077, u'fountain', 0.25642624, u'volcano', 0.0052048601, u'cliff', 0.0049924692, u'breakwater', 0.0031762039]

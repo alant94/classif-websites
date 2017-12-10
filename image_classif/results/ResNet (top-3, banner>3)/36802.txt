@@ -1,0 +1,1 @@
+[u'sports_car', 0.89844608, u'racer', 0.050710794, u'convertible', 0.040066827]

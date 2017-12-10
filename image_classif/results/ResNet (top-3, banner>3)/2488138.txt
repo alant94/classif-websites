@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'wall_clock', 0.3242197, u'bell_cote', 0.18826075, u'altar', 0.053052638]
+[u'clumber', 0.1826665, u'kuvasz', 0.12917687, u'black_grouse', 0.044257514]
+[u'altar', 0.093637563, u'balloon', 0.058090117, u'throne', 0.038642406]
+[u'jersey', 0.12680328, u'web_site', 0.10155127, u'laptop', 0.085565239]

@@ -1,0 +1,5 @@
+[u'whiskey_jug', 0.25929251, u'beer_bottle', 0.12821639, u'chocolate_sauce', 0.052100111, u'oil_filter', 0.049956158, u'barrel', 0.041387986]
+[u'iron', 0.24277303, u'pick', 0.19502971, u'paddle', 0.1427916, u'ski', 0.068142623, u'mitten', 0.058698934]
+[u'water_bottle', 0.15535472, u'oil_filter', 0.095022105, u'beer_bottle', 0.094249599, u'pill_bottle', 0.076006413, u'water_jug', 0.051073737]
+[u'water_bottle', 0.1542711, u'oil_filter', 0.096639313, u'beer_bottle', 0.084870711, u'water_jug', 0.0410209, u'packet', 0.037374984]
+[u'pencil_sharpener', 0.57133168, u'upright', 0.12344418, u'organ', 0.08201234, u'coil', 0.063119933, u'screw', 0.036486033]

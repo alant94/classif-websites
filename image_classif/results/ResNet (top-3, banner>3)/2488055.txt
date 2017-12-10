@@ -1,0 +1,2 @@
+[u'binder', 0.3342784, u'web_site', 0.24529956, u'envelope', 0.10722837]
+[u'wall_clock', 0.21562272, u'digital_clock', 0.15165587, u'Band_Aid', 0.096370898]

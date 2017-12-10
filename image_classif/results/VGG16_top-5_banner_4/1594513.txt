@@ -1,0 +1,2 @@
+[u'television', 0.18876866, u'monitor', 0.11437339, u'cash_machine', 0.039379176, u'notebook', 0.032253452, u'barbell', 0.02623046]
+[u'television', 0.11065068, u'crib', 0.074007928, u'notebook', 0.063806586, u'monitor', 0.054821633, u'screen', 0.034948807]

@@ -1,0 +1,8 @@
+[u'picket_fence', 0.93102318, u'worm_fence', 0.046051182, u'mobile_home', 0.0070678708]
+[u'butcher_shop', 0.98902369, u'dumbbell', 0.0050051445, u'swimming_trunks', 0.0011654573]
+[u'theater_curtain', 0.6744206, u'stage', 0.088809624, u'altar', 0.040064119]
+[u'kimono', 0.69205409, u'prison', 0.034772985, u'sarong', 0.030796964]
+[u'shoe_shop', 0.23640873, u'carton', 0.19274427, u'toyshop', 0.076554179]
+[u'picket_fence', 0.060695477, u'snorkel', 0.05020158, u'sweatshirt', 0.046074938]
+[u'shoe_shop', 0.22039592, u'ski', 0.18592751, u'paintbrush', 0.050663196]
+[u'marimba', 0.31219336, u'grand_piano', 0.1106093, u'miniskirt', 0.064438753]

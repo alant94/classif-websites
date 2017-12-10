@@ -1,0 +1,2 @@
+[u'groom', 0.14326428, u'plate', 0.1393379, u'menu', 0.095315889, u'restaurant', 0.08445558, u'dining_table', 0.074686192]
+[u'book_jacket', 0.40727162, u'comic_book', 0.2927942, u'street_sign', 0.033972915, u'Band_Aid', 0.020801943, u'packet', 0.017058242]

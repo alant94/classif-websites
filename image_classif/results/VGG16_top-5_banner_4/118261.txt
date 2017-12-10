@@ -1,0 +1,3 @@
+[u'table_lamp', 0.42336196, u'lampshade', 0.08775489, u'stupa', 0.045896549, u'spotlight', 0.044710264, u'torch', 0.040856585]
+[u'flagpole', 0.27936584, u'brassiere', 0.064984582, u'torch', 0.046790887, u'candle', 0.040158398, u'picket_fence', 0.039969973]
+[u'web_site', 0.23589635, u'comic_book', 0.19016202, u'umbrella', 0.032705456, u'pinwheel', 0.027662763, u'street_sign', 0.023144403]

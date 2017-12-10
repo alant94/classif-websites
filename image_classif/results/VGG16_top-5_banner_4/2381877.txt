@@ -1,0 +1,7 @@
+[u'digital_watch', 0.60601234, u'digital_clock', 0.10832095, u'Polaroid_camera', 0.049434476, u'printer', 0.012618409, u'pencil_sharpener', 0.01248037]
+[u'digital_watch', 0.4047015, u'digital_clock', 0.23321488, u'oscilloscope', 0.099753194, u'screen', 0.027922232, u'analog_clock', 0.021803055]
+[u'digital_watch', 0.34927353, u'iPod', 0.071912982, u'Polaroid_camera', 0.042687561, u'face_powder', 0.037225422, u'digital_clock', 0.032307666]
+[u'digital_watch', 0.67315269, u'digital_clock', 0.074927747, u'Polaroid_camera', 0.047654916, u'paper_towel', 0.016512536, u'printer', 0.016216226]
+[u'digital_watch', 0.34960622, u'Polaroid_camera', 0.095799319, u'digital_clock', 0.094387963, u'paper_towel', 0.050197862, u'iPod', 0.034433134]
+[u'paper_towel', 0.17138411, u'digital_watch', 0.13556151, u'pencil_sharpener', 0.087385558, u'Polaroid_camera', 0.051520862, u'printer', 0.035324521]
+[u'coffee_mug', 0.3818014, u'nipple', 0.17649612, u'cup', 0.085887007, u'pitcher', 0.02977141, u'coffeepot', 0.023127839]

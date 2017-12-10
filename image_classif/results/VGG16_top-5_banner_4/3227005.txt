@@ -1,0 +1,5 @@
+[u'organ', 0.35009724, u'altar', 0.18373749, u'vestment', 0.15055455, u'throne', 0.083071209, u'library', 0.044988178]
+[u'church', 0.81335986, u'altar', 0.17666197, u'vault', 0.0050107203, u'organ', 0.0044425982, u'monastery', 0.00019984723]
+[u'cash_machine', 0.11978595, u'web_site', 0.083928548, u'screen', 0.05653169, u'washbasin', 0.050458588, u'can_opener', 0.049541865]
+[u'slot', 0.38857758, u'vending_machine', 0.26195416, u'barbershop', 0.033162791, u'book_jacket', 0.028787447, u'cinema', 0.025676796]
+[u'monitor', 0.23359241, u'screen', 0.17030616, u'desktop_computer', 0.082418799, u'switch', 0.049993102, u'medicine_chest', 0.03290711]

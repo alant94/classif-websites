@@ -1,0 +1,4 @@
+[u'table_lamp', 0.28016439, u'dining_table', 0.23520587, u'yurt', 0.079281256]
+[u'monastery', 0.71101338, u'church', 0.1677202, u'castle', 0.095332973]
+[u'padlock', 0.70464545, u'hook', 0.090120673, u'chain', 0.077089585]
+[u'comic_book', 0.43403336, u'book_jacket', 0.41081735, u'web_site', 0.017971996]

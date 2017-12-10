@@ -1,0 +1,1 @@
+[u'television', 0.94582587, u'screen', 0.044395648, u'monitor', 0.0059652883]

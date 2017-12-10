@@ -1,0 +1,2 @@
+[u'screen', 0.46637842, u'monitor', 0.37409392, u'television', 0.027070731, u'digital_clock', 0.02440227, u'cash_machine', 0.023678504]
+[u'screen', 0.3345286, u'monitor', 0.22861175, u'cash_machine', 0.12849003, u'television', 0.055325519, u'home_theater', 0.045037877]

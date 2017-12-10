@@ -1,0 +1,4 @@
+[u'switch', 0.059361823, u'spotlight', 0.05275942, u'wall_clock', 0.050033666, u'toilet_seat', 0.043750256, u'pill_bottle', 0.039091527]
+[u'street_sign', 0.14542732, u'face_powder', 0.02797902, u'sunscreen', 0.024062812, u'loupe', 0.021845127, u'nail', 0.020666314]
+[u'tray', 0.20305081, u'lighter', 0.18603355, u'switch', 0.067868493, u'digital_clock', 0.059671212, u'binder', 0.035165515]
+[u'binder', 0.27845699, u'lighter', 0.16615219, u'medicine_chest', 0.078481823, u'digital_clock', 0.033206981, u'tray', 0.031618133]

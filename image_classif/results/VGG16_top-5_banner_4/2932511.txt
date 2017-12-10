@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.17137334, u'toyshop', 0.15291063, u'stage', 0.082342006, u'comic_book', 0.071147427, u'web_site', 0.040230185]
+[u'envelope', 0.17761098, u'rubber_eraser', 0.09711834, u'whistle', 0.092815049, u'quill', 0.031660043, u'matchstick', 0.025496539]

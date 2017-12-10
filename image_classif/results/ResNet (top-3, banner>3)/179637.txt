@@ -1,0 +1,2 @@
+[u'lab_coat', 0.58453691, u'suit', 0.067812249, u'Windsor_tie', 0.046037868]
+[u'mobile_home', 0.95319134, u'trailer_truck', 0.018201876, u'moving_van', 0.0064282943]

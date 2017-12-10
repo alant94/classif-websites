@@ -1,0 +1,8 @@
+[u'barracouta', 0.56240344, u'gar', 0.11644176, u'sturgeon', 0.047398765, u'bow_tie', 0.028204892, u'coho', 0.02641147]
+[u'kimono', 0.81242144, u'groom', 0.072817586, u'pajama', 0.021377811, u'military_uniform', 0.019056261, u'suit', 0.0090895379]
+[u'wardrobe', 0.41051346, u'comic_book', 0.17264539, u'shoe_shop', 0.11461584, u'web_site', 0.049655721, u'brassiere', 0.046390895]
+[u'kimono', 0.07266625, u'poncho', 0.054535277, u'butcher_shop', 0.044184465, u'sarong', 0.039634623, u'stole', 0.034843527]
+[u'face_powder', 0.19691877, u'stopwatch', 0.17706935, u'sunscreen', 0.070672721, u'pick', 0.063366361, u'whistle', 0.034388714]
+[u'web_site', 0.1919443, u'scoreboard', 0.18610357, u'slot', 0.13951734, u'comic_book', 0.099955887, u'vending_machine', 0.046739649]
+[u'suit', 0.16632557, u'Windsor_tie', 0.12801242, u'sunglasses', 0.10231046, u'sunglass', 0.074852571, u'lab_coat', 0.06031061]
+[u'stethoscope', 0.1413703, u'wall_clock', 0.086160846, u'analog_clock', 0.072201721, u'safety_pin', 0.058683094, u'hook', 0.054654859]

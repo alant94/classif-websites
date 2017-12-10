@@ -1,0 +1,5 @@
+[u'web_site', 0.99935287, u'envelope', 0.00010108098, u'oscilloscope', 6.4244668e-05]
+[u'web_site', 0.99935371, u'analog_clock', 7.680124e-05, u'envelope', 6.8556365e-05]
+[u'harp', 0.74816257, u'rule', 0.18025628, u'slide_rule', 0.02921054]
+[u'web_site', 0.97898543, u'mousetrap', 0.0069500939, u'centipede', 0.0018658319]
+[u'whistle', 0.15856719, u'picket_fence', 0.10727597, u'wall_clock', 0.048701108]

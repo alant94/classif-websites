@@ -1,0 +1,2 @@
+[u'web_site', 0.79013848, u'television', 0.032158993, u'screen', 0.028609263]
+[u'web_site', 0.41322231, u'binder', 0.083534479, u'cash_machine', 0.072677411]

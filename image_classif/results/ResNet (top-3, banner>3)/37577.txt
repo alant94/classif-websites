@@ -1,0 +1,3 @@
+[u'breakwater', 0.58462387, u'promontory', 0.068611175, u'beacon', 0.056783374]
+[u'beacon', 0.32686055, u'seashore', 0.17540409, u'geyser', 0.07834851]
+[u'barn', 0.26902121, u'picket_fence', 0.10853157, u'alp', 0.07262101]

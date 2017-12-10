@@ -1,0 +1,4 @@
+[u'web_site', 0.32338643, u'envelope', 0.10987853, u'lipstick', 0.023011032]
+[u'book_jacket', 0.71230489, u'comic_book', 0.10043103, u'scoreboard', 0.081491925]
+[u'turnstile', 0.56513232, u'cocktail_shaker', 0.059809156, u'ashcan', 0.057790954]
+[u'web_site', 0.89334512, u'comic_book', 0.0056439396, u'tripod', 0.0039661061]

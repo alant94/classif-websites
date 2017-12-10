@@ -1,0 +1,4 @@
+[u'buckle', 0.26129639, u'screw', 0.19727975, u'nail', 0.10300236, u"carpenter's_kit", 0.099626161, u'hammer', 0.055645894]
+[u'screw', 0.35308057, u'corkscrew', 0.26984686, u'safety_pin', 0.13711293, u'hair_slide', 0.097040042, u'nail', 0.044870239]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]
+[u'safety_pin', 0.33332554, u'screwdriver', 0.11455864, u"carpenter's_kit", 0.059457868, u'hook', 0.056255016, u'screw', 0.046181686]

@@ -1,0 +1,2 @@
+[u'albatross', 0.49665982, u'television', 0.11754087, u'screen', 0.064941153, u'hammerhead', 0.044776756, u'sea_lion', 0.025447901]
+[u'mortarboard', 0.20324709, u'suit', 0.20184146, u'academic_gown', 0.16613795, u'bow_tie', 0.046154737, u'oboe', 0.043848585]

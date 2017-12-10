@@ -1,0 +1,2 @@
+[u'church', 0.92859584, u'bell_cote', 0.03071123, u'monastery', 0.007644644, u'barn', 0.0062891706, u'castle', 0.0053039179]
+[u'cinema', 0.07057526, u"carpenter's_kit", 0.069031179, u'hook', 0.067052729, u'screwdriver', 0.05868962, u'picket_fence', 0.036233068]

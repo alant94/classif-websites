@@ -1,0 +1,7 @@
+[u'swimming_trunks', 0.22220795, u'tricycle', 0.15137391, u'diaper', 0.13726898]
+[u'diaper', 0.18621998, u'pajama', 0.08052513, u'miniskirt', 0.06737157]
+[u'bikini', 0.59540671, u'miniskirt', 0.13177471, u'maillot', 0.077154331]
+[u'hair_slide', 0.34637788, u'loupe', 0.079870477, u'Band_Aid', 0.066898368]
+[u'swimming_trunks', 0.18375261, u'cellular_telephone', 0.17137365, u'barbell', 0.064637661]
+[u'park_bench', 0.093600407, u'swimming_trunks', 0.066618554, u'barbell', 0.06556084]
+[u'bannister', 0.76800525, u'prison', 0.078456305, u'cradle', 0.018021131]

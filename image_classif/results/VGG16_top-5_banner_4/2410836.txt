@@ -1,0 +1,1 @@
+[u'sunscreen', 0.048527922, u'hair_spray', 0.033262778, u'web_site', 0.026203066, u'jersey', 0.023663944, u'coffee_mug', 0.02260562]

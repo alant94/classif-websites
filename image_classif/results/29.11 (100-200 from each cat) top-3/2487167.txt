@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.99266171, u'picket_fence', 0.0040311739, u'digital_watch', 0.00049337797]
+[u'hair_slide', 0.22730722, u'broom', 0.19638416, u'maraca', 0.13958524]
+[u'ibex', 0.4502247, u'warthog', 0.15935986, u'bighorn', 0.13138571]
+[u'centipede', 0.09448415, u'book_jacket', 0.09054701, u'fire_screen', 0.055218726]

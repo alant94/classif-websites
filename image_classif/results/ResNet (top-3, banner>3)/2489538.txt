@@ -1,0 +1,5 @@
+[u'ski', 0.96808749, u'alp', 0.016949583, u'shovel', 0.010432411]
+[u'hartebeest', 0.66461444, u'fountain', 0.08597637, u'gazelle', 0.041416924]
+[u'boathouse', 0.70833915, u'lakeside', 0.14212698, u'pier', 0.030236896]
+[u'digital_clock', 0.20842595, u'street_sign', 0.091768667, u'shield', 0.057562988]
+[u'lakeside', 0.76342475, u'valley', 0.059432473, u'alp', 0.042848002]

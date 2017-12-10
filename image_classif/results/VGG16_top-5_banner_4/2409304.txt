@@ -1,0 +1,2 @@
+[u'mobile_home', 0.11107615, u'lakeside', 0.10861903, u'boathouse', 0.074713379, u'triumphal_arch', 0.039657962, u'obelisk', 0.03740396]
+[u'hook', 0.13310915, u'Christmas_stocking', 0.086684652, u'nematode', 0.071869209, u'starfish', 0.039737932, u'necklace', 0.03198427]

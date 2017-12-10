@@ -1,0 +1,2 @@
+[u'swab', 0.070168152, u'nail', 0.058058299, u'safety_pin', 0.047767863, u'hook', 0.044097949, u'hammer', 0.028633464]
+[u'electric_fan', 0.40117198, u'spotlight', 0.23139757, u'analog_clock', 0.10957395, u'magnetic_compass', 0.042556081, u'scale', 0.021717742]

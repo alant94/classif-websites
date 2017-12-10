@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.056671854, u'sarong', 0.046942089, u'ski', 0.042094044, u'punching_bag', 0.026506603, u'coffee_mug', 0.020494018]
+[u'pillow', 0.55691862, u'pencil_box', 0.27317017, u'purse', 0.057180677, u'wallet', 0.05149081, u'backpack', 0.0070872083]

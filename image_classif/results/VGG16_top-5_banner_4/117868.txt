@@ -1,0 +1,5 @@
+[u'traffic_light', 0.10050494, u'monitor', 0.087142594, u'fountain', 0.070340894, u'space_shuttle', 0.061885148, u'television', 0.047296219]
+[u'book_jacket', 0.09237837, u'window_screen', 0.082413837, u'rotisserie', 0.070504926, u'web_site', 0.051859267, u'dam', 0.046243135]
+[u'tank', 0.22147471, u'aircraft_carrier', 0.20801596, u'crane', 0.1747897, u'missile', 0.09686888, u'projectile', 0.067356013]
+[u'binder', 0.10793493, u'digital_clock', 0.045835871, u'analog_clock', 0.039812416, u'envelope', 0.039718915, u'screen', 0.033948191]
+[u'coffee_mug', 0.45961937, u'combination_lock', 0.067771941, u'cup', 0.06407401, u'buckle', 0.031258438, u'digital_clock', 0.027968703]

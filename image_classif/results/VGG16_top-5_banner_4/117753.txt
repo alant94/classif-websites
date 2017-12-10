@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.43472761, u'oscilloscope', 0.11841246, u'television', 0.085389316, u'monitor', 0.048882656, u'home_theater', 0.037354421]
+[u'schipperke', 0.073944911, u'llama', 0.040906947, u'cliff', 0.036981057, u'tripod', 0.033181887, u'prison', 0.030378696]

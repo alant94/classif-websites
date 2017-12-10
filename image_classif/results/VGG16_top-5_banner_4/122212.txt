@@ -1,0 +1,1 @@
+[u'web_site', 0.2315139, u'cash_machine', 0.15631823, u'vending_machine', 0.12273457, u'pay-phone', 0.081764072, u'modem', 0.052890733]

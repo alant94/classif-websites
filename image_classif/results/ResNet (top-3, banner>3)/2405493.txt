@@ -1,0 +1,3 @@
+[u'digital_clock', 0.43482009, u'traffic_light', 0.23025236, u'street_sign', 0.089057468]
+[u'cash_machine', 0.12850872, u'digital_clock', 0.07854224, u'street_sign', 0.045080654]
+[u'web_site', 0.065497123, u'street_sign', 0.051482115, u'lighter', 0.047955338]

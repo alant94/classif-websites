@@ -1,0 +1,1 @@
+[u'face_powder', 0.12276691, u'pick', 0.061562911, u'Band_Aid', 0.04904386, u'drum', 0.045292348, u'analog_clock', 0.041923281]

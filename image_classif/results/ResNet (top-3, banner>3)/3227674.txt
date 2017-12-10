@@ -1,0 +1,4 @@
+[u'web_site', 0.22903179, u'joystick', 0.058941521, u'digital_clock', 0.047433909]
+[u'book_jacket', 0.79486746, u'bookshop', 0.08614412, u'barbershop', 0.029262308]
+[u'whistle', 0.217593, u'bell_cote', 0.086386554, u'digital_clock', 0.075056985]
+[u'barbershop', 0.17030498, u'book_jacket', 0.13800691, u'web_site', 0.10937081]

@@ -1,0 +1,3 @@
+[u'altar', 0.20550357, u'cinema', 0.10123318, u'scoreboard', 0.063138396]
+[u'beer_bottle', 0.52799141, u'saltshaker', 0.075403981, u'wine_bottle', 0.052067935]
+[u'wine_bottle', 0.32350755, u'beer_bottle', 0.1939466, u'red_wine', 0.14723657]

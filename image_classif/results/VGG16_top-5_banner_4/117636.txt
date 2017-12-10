@@ -1,0 +1,1 @@
+[u'throne', 0.28304732, u'shield', 0.24308461, u'perfume', 0.11683355, u'table_lamp', 0.036212988, u'pitcher', 0.030840145]

@@ -1,0 +1,7 @@
+[u'forklift', 0.54451579, u'gas_pump', 0.16476662, u'lumbermill', 0.045371231]
+[u'web_site', 0.13302195, u'guillotine', 0.071708515, u'lumbermill', 0.070078358]
+[u'barber_chair', 0.165886, u'barbershop', 0.045056917, u'bulletproof_vest', 0.034104142]
+[u'shoe_shop', 0.32381997, u'electric_guitar', 0.11381827, u'lab_coat', 0.1057642]
+[u'trombone', 0.15406553, u'vault', 0.093825251, u'cornet', 0.082748003]
+[u'bassoon', 0.43868572, u'harp', 0.21378835, u'oboe', 0.18463238]
+[u'lampshade', 0.49625847, u'table_lamp', 0.1445199, u'butternut_squash', 0.060297787]

@@ -1,0 +1,1 @@
+[u'beaker', 0.048388846, u'dumbbell', 0.044249337, u'medicine_chest', 0.035462588]

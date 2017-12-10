@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.39415732, u'electric_guitar', 0.083729953, u'sewing_machine', 0.052283362]
+[u'triceratops', 0.1630358, u'butcher_shop', 0.12565361, u'Indian_elephant', 0.12342659]
+[u'prayer_rug', 0.34431687, u'digital_clock', 0.19610053, u'hamper', 0.12714891]
+[u'window_screen', 0.24459036, u'fire_screen', 0.22678453, u'prayer_rug', 0.17482735]
+[u'fire_screen', 0.20636393, u'binder', 0.11186228, u'window_screen', 0.092566319]

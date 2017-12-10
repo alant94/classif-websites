@@ -1,0 +1,2 @@
+[u'envelope', 0.12207209, u'switch', 0.12037959, u'sewing_machine', 0.091618128, u'carton', 0.089382611, u'shower_curtain', 0.076094687]
+[u'lakeside', 0.26139817, u'valley', 0.21907431, u'alp', 0.12466595, u'greenhouse', 0.060180001, u'maze', 0.050613806]

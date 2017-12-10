@@ -1,0 +1,4 @@
+[u'bakery', 0.14174362, u'hotdog', 0.10657301, u'plate', 0.087687053, u'guacamole', 0.04395204, u'menu', 0.039559323]
+[u'solar_dish', 0.48623082, u'worm_fence', 0.12448879, u'birdhouse', 0.041090138, u'greenhouse', 0.027757872, u'patio', 0.025597211]
+[u'mobile_home', 0.78624821, u'patio', 0.084128335, u'yurt', 0.027437627, u'thatch', 0.01409072, u'recreational_vehicle', 0.011476969]
+[u'bell_cote', 0.36073524, u'beacon', 0.059135467, u'mosque', 0.047761563, u'analog_clock', 0.030092778, u'church', 0.028543023]

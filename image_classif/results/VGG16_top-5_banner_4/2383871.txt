@@ -1,0 +1,4 @@
+[u'picket_fence', 0.36895338, u'umbrella', 0.079040945, u'fountain', 0.078853734, u'brassiere', 0.027146902, u'ski', 0.026526781]
+[u'hatchet', 0.30276474, u'totem_pole', 0.10420132, u'flute', 0.069229819, u'pole', 0.035549644, u'ear', 0.026537793]
+[u'worm_fence', 0.071936555, u'picket_fence', 0.055424083, u'crane', 0.047601786, u'black_stork', 0.043643024, u'lakeside', 0.040728312]
+[u'vulture', 0.45185328, u'kite', 0.14410688, u'African_grey', 0.056848075, u'crane', 0.054886065, u'great_grey_owl', 0.040537849]

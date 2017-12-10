@@ -1,0 +1,3 @@
+[u'digital_clock', 0.14923698, u'modem', 0.14512767, u'rule', 0.10194475, u'scale', 0.081288762, u'envelope', 0.0537103]
+[u'bell_cote', 0.75413221, u'hook', 0.016560281, u'jersey', 0.013594387, u'wall_clock', 0.013331894, u'analog_clock', 0.013049809]
+[u'analog_clock', 0.34520108, u'stage', 0.096085958, u'web_site', 0.082912438, u'wall_clock', 0.038404685, u'scoreboard', 0.033116017]

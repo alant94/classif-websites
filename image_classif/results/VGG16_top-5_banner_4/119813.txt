@@ -1,0 +1,5 @@
+[u'cliff', 0.33682045, u'greenhouse', 0.056724545, u'altar', 0.028477378, u'fountain', 0.026569365, u'triceratops', 0.024031376]
+[u'cliff', 0.17006086, u'altar', 0.092217788, u'vault', 0.074895635, u'stupa', 0.055760939, u'castle', 0.048643861]
+[u'hook', 0.025432868, u'microphone', 0.023032615, u'hatchet', 0.022349281, u'can_opener', 0.019905142, u'web_site', 0.019533679]
+[u'poncho', 0.089850314, u'stupa', 0.065773398, u'oxcart', 0.045306038, u'mask', 0.042670146, u'shower_curtain', 0.038935769]
+[u'cliff', 0.36343369, u'comic_book', 0.082987979, u'mountain_bike', 0.079331793, u'fire_screen', 0.055562284, u'scuba_diver', 0.025114991]

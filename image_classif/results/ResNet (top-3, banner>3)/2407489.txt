@@ -1,0 +1,8 @@
+[u'candle', 0.078491069, u'doormat', 0.073318318, u'pot', 0.067476273]
+[u'vase', 0.37697765, u'pedestal', 0.14528544, u'milk_can', 0.10262117]
+[u'balance_beam', 0.086411245, u'hammer', 0.080368273, u'dumbbell', 0.064541429]
+[u'bookcase', 0.28371918, u'entertainment_center', 0.21103089, u'sliding_door', 0.13222244]
+[u'book_jacket', 0.089785919, u'vending_machine', 0.068286508, u'bookcase', 0.064536057]
+[u'web_site', 0.66542464, u'comic_book', 0.06637004, u'Windsor_tie', 0.047380175]
+[u'monitor', 0.1230131, u'abaya', 0.083706081, u'fire_screen', 0.083193168]
+[u'bookshop', 0.35966551, u'comic_book', 0.11475282, u'library', 0.10718153]

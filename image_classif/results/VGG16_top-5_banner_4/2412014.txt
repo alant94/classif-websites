@@ -1,0 +1,5 @@
+[u'hook', 0.22784759, u'rule', 0.15916462, u'corkscrew', 0.096217349, u'file', 0.036826748, u'mousetrap', 0.033290334]
+[u'plate_rack', 0.38531798, u'fire_screen', 0.10891614, u'dining_table', 0.076183282, u'table_lamp', 0.067675509, u'tray', 0.067511261]
+[u"carpenter's_kit", 0.17810364, u'corkscrew', 0.15003037, u'letter_opener', 0.14073487, u'spatula', 0.061195813, u'hook', 0.039058525]
+[u'web_site', 0.094058774, u'window_shade', 0.075555541, u'prison', 0.051583841, u'window_screen', 0.048770133, u'monitor', 0.032412156]
+[u'web_site', 0.39730835, u'menu', 0.073921651, u'cash_machine', 0.072339214, u'packet', 0.060584571, u'book_jacket', 0.044066608]

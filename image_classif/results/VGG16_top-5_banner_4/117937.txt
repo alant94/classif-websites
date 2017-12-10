@@ -1,0 +1,2 @@
+[u'web_site', 0.97862452, u'scoreboard', 0.0040741251, u'military_uniform', 0.0022377737, u'book_jacket', 0.0014196265, u'bathing_cap', 0.001295743]
+[u'web_site', 0.99865305, u'book_jacket', 0.00036342125, u'television', 0.0001564878, u'scoreboard', 0.00012558112, u'comic_book', 7.4439988e-05]

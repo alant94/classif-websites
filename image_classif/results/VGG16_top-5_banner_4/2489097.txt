@@ -1,0 +1,6 @@
+[u'web_site', 0.16448715, u'envelope', 0.12622839, u'wardrobe', 0.072921045, u'wall_clock', 0.067104317, u'picket_fence', 0.034467269]
+[u'envelope', 0.54061663, u'web_site', 0.22709802, u'rule', 0.028301779, u'screw', 0.0093703493, u'panpipe', 0.0077266283]
+[u'picket_fence', 0.30490786, u'palace', 0.1812382, u'mobile_home', 0.034503583, u'flagpole', 0.033978209, u'library', 0.028292259]
+[u'scoreboard', 0.17547172, u'container_ship', 0.076094225, u'Windsor_tie', 0.074726544, u'maze', 0.065048866, u'envelope', 0.056202754]
+[u'Bedlington_terrier', 0.21191233, u'wire-haired_fox_terrier', 0.12383367, u'Lakeland_terrier', 0.09445022, u'megalith', 0.040526338, u'llama', 0.040494002]
+[u'ox', 0.22529978, u'horse_cart', 0.20573494, u'oxcart', 0.11957334, u'cowboy_hat', 0.054759383, u'trench_coat', 0.042222284]

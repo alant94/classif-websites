@@ -1,0 +1,7 @@
+[u'oscilloscope', 0.11930063, u'prayer_rug', 0.066446088, u'nail', 0.059189361]
+[u'sarong', 0.4357307, u'cocktail_shaker', 0.095133811, u'perfume', 0.08833237]
+[u'bow', 0.27007997, u'paintbrush', 0.21619774, u'chime', 0.074118026]
+[u'ski', 0.24757057, u'quill', 0.12110852, u'flagpole', 0.090587735]
+[u'picket_fence', 0.92398685, u'perfume', 0.013503511, u'pole', 0.010139487]
+[u'ballpoint', 0.56187987, u'cocktail_shaker', 0.056241516, u'chime', 0.02981355]
+[u'candle', 0.40010622, u'shower_curtain', 0.14151238, u'wardrobe', 0.13234316]

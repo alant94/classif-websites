@@ -1,0 +1,2 @@
+[u'whistle', 0.30288664, u'necklace', 0.16598101, u'bib', 0.13987349, u'screw', 0.044342235, u'toilet_seat', 0.040358085]
+[u'web_site', 0.28433251, u'oil_filter', 0.094766885, u'Band_Aid', 0.04368753, u'pill_bottle', 0.024064135, u'book_jacket', 0.022457967]

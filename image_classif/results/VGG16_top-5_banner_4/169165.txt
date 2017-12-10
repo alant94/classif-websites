@@ -1,0 +1,1 @@
+[u'web_site', 0.09395647, u'stage', 0.085410044, u'television', 0.080666229, u'laptop', 0.051371071, u'electric_guitar', 0.045774288]

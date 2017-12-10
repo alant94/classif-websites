@@ -1,0 +1,1 @@
+[u'bell_cote', 0.33562917, u'church', 0.23836334, u'monastery', 0.1962388, u'beacon', 0.031113265, u'mosque', 0.01433086]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.17762758, u'picket_fence', 0.13691239, u'cleaver', 0.022444049, u'hook', 0.021306112, u'street_sign', 0.017323539]
+[u'chime', 0.29719958, u'spatula', 0.27474937, u'picket_fence', 0.16151358, u'cleaver', 0.074690782, u'safety_pin', 0.042131647]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]

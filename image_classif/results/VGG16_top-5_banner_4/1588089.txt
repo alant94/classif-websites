@@ -1,0 +1,1 @@
+[u'diaper', 0.12712747, u'butternut_squash', 0.11657903, u'brassiere', 0.064735286, u'Band_Aid', 0.035766438, u'miniskirt', 0.026960587]

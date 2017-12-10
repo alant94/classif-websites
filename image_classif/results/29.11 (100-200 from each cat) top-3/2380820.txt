@@ -1,0 +1,4 @@
+[u'tractor', 0.15514098, u'barrel', 0.11219453, u'gas_pump', 0.052899614]
+[u'envelope', 0.1435003, u'web_site', 0.081134327, u'binder', 0.033350676]
+[u'altar', 0.20632726, u'wine_bottle', 0.20613766, u'red_wine', 0.20127897]
+[u'screwdriver', 0.09175384, u'book_jacket', 0.072795942, u'prayer_rug', 0.051861096]

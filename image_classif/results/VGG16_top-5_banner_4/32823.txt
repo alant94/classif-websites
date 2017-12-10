@@ -1,0 +1,4 @@
+[u'grocery_store', 0.38421768, u'orange', 0.15102348, u'corn', 0.092197113, u'lemon', 0.079473123, u'confectionery', 0.068261437]
+[u'ear', 0.52130336, u'corn', 0.30414984, u'pill_bottle', 0.041957688, u'Band_Aid', 0.019138644, u'mitten', 0.018765425]
+[u'seashore', 0.53678679, u'promontory', 0.20983039, u'cliff', 0.10666167, u'sandbar', 0.067596652, u'breakwater', 0.039118472]
+[u'plate', 0.77416992, u'meat_loaf', 0.16107528, u'ice_cream', 0.036593113, u'chocolate_sauce', 0.01166654, u'burrito', 0.0070855413]

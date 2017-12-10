@@ -1,0 +1,3 @@
+[u'perfume', 0.52077013, u'lotion', 0.12627047, u'hair_spray', 0.080757163]
+[u'church', 0.79489136, u'bell_cote', 0.048125613, u'yawl', 0.025055207]
+[u'library', 0.37027961, u'bannister', 0.13721412, u'cinema', 0.062472705]

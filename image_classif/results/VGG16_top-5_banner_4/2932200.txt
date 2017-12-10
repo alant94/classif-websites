@@ -1,0 +1,1 @@
+[u'cradle', 0.17467, u'diaper', 0.1574607, u'iron', 0.10611279, u'rocking_chair', 0.08125063, u'envelope', 0.059698578]

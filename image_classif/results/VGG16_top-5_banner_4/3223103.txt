@@ -1,0 +1,4 @@
+[u'spotlight', 0.22868773, u'strainer', 0.16521521, u'car_wheel', 0.11504296, u'bolo_tie', 0.067263767, u'maze', 0.065225802]
+[u'nematode', 0.4724257, u'coil', 0.14691211, u'bib', 0.080720134, u'hook', 0.069393255, u'necklace', 0.030311735]
+[u'picket_fence', 0.18395679, u'space_shuttle', 0.11760464, u'chime', 0.026910715, u'ballpoint', 0.026239414, u'airship', 0.023711789]
+[u'buckle', 0.17666279, u'bolo_tie', 0.11594892, u'analog_clock', 0.044938453, u'loupe', 0.041512609, u'puck', 0.041448265]

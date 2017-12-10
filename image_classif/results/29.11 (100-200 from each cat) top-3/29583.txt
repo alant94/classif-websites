@@ -1,0 +1,6 @@
+[u'tripod', 0.68585753, u'binoculars', 0.1716442, u'book_jacket', 0.018358944]
+[u'chime', 0.20990428, u'rule', 0.12639239, u'picket_fence', 0.084995836]
+[u'window_shade', 0.3820188, u'measuring_cup', 0.17806403, u'space_heater', 0.1423237]
+[u'coffee_mug', 0.3262955, u'oil_filter', 0.15442872, u'sunscreen', 0.082263]
+[u'pencil_sharpener', 0.10751048, u'packet', 0.083287485, u'puck', 0.073618278]
+[u'analog_clock', 0.66935146, u'magnetic_compass', 0.16769269, u'stopwatch', 0.054754466]

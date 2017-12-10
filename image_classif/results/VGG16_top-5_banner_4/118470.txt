@@ -1,0 +1,5 @@
+[u'ski', 0.35378316, u'knee_pad', 0.13378206, u'dumbbell', 0.12884542, u'necklace', 0.02125841, u'bow', 0.017414099]
+[u'cliff', 0.14913958, u'wreck', 0.13353266, u'seashore', 0.080688782, u'cliff_dwelling', 0.053222865, u'lakeside', 0.052153189]
+[u'refrigerator', 0.15238962, u'envelope', 0.13561739, u'carton', 0.064439051, u'lighter', 0.055389147, u'traffic_light', 0.040883947]
+[u'safety_pin', 0.14955436, u'wine_bottle', 0.1335914, u'beer_bottle', 0.12742361, u"carpenter's_kit", 0.099290811, u'screwdriver', 0.072302453]
+[u'chime', 0.10515721, u'altar', 0.051229984, u'church', 0.040543359, u'medicine_chest', 0.03777574, u'traffic_light', 0.03488471]

@@ -1,0 +1,7 @@
+[u'rubber_eraser', 0.13712229, u'syringe', 0.1125806, u'perfume', 0.11057655, u'screwdriver', 0.076123565, u'lighter', 0.062024094]
+[u'digital_clock', 0.11389215, u'digital_watch', 0.1111178, u'rubber_eraser', 0.091936372, u'screwdriver', 0.072945215, u'syringe', 0.058997445]
+[u'rubber_eraser', 0.10766254, u'perfume', 0.098617852, u'digital_watch', 0.090041593, u'digital_clock', 0.079304866, u'lighter', 0.072222576]
+[u'rule', 0.31425014, u'obelisk', 0.28465557, u'matchstick', 0.044567343, u'Band_Aid', 0.031449597, u'catamaran', 0.030231012]
+[u'rubber_eraser', 0.1743954, u'syringe', 0.15288495, u'perfume', 0.13084152, u'lighter', 0.06233941, u'screwdriver', 0.060669247]
+[u'rubber_eraser', 0.16797629, u'screwdriver', 0.15309329, u'syringe', 0.10762095, u'digital_watch', 0.066050768, u'perfume', 0.063912332]
+[u'screwdriver', 0.12320592, u'syringe', 0.10372347, u'rubber_eraser', 0.090498209, u'digital_clock', 0.076518022, u'digital_watch', 0.061711885]

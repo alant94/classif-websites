@@ -1,0 +1,3 @@
+[u'street_sign', 0.15516488, u'traffic_light', 0.083816886, u'digital_clock', 0.056755386, u'Band_Aid', 0.015857456, u'airship', 0.014522521]
+[u'bathing_cap', 0.10267641, u'jersey', 0.070124477, u'tray', 0.051075134, u'packet', 0.040416665, u'toilet_seat', 0.034821231]
+[u'digital_clock', 0.12118503, u'whistle', 0.080787286, u'digital_watch', 0.062566623, u'tray', 0.060066935, u'envelope', 0.052264579]

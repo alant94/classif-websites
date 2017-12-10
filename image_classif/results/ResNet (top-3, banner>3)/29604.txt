@@ -1,0 +1,8 @@
+[u'scoreboard', 0.21350525, u'tape_player', 0.14503278, u'modem', 0.073998325]
+[u'monitor', 0.33309054, u'screen', 0.25031218, u'desktop_computer', 0.13752387]
+[u'screen', 0.21044271, u'modem', 0.17738248, u'web_site', 0.14866188]
+[u'perfume', 0.091850102, u'buckle', 0.076692127, u'shield', 0.05672669]
+[u'digital_clock', 0.05127861, u'web_site', 0.049011, u'theater_curtain', 0.021764403]
+[u'street_sign', 0.43916056, u'oscilloscope', 0.29119456, u'ashcan', 0.041519348]
+[u'hook', 0.13633923, u'nipple', 0.11356625, u'oxygen_mask', 0.087815672]
+[u'web_site', 0.044907164, u'nematode', 0.04231701, u'abaya', 0.027697138]

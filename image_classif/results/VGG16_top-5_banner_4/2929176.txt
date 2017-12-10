@@ -1,0 +1,7 @@
+[u'nipple', 0.1371754, u'Band_Aid', 0.088860244, u'hook', 0.06849733, u'toilet_seat', 0.053728238, u'can_opener', 0.052630659]
+[u'parallel_bars', 0.1111132, u'whistle', 0.066195615, u'throne', 0.049441155, u'nipple', 0.034385338, u'candle', 0.030058183]
+[u'whistle', 0.094869874, u'chain', 0.092535727, u'parallel_bars', 0.07264252, u'picket_fence', 0.048333522, u'candle', 0.040964361]
+[u'rule', 0.21123025, u'screw', 0.19016153, u'syringe', 0.070732154, u'screwdriver', 0.053802717, u'nail', 0.031926997]
+[u'envelope', 0.45303294, u'web_site', 0.12775517, u'analog_clock', 0.076195426, u'book_jacket', 0.050803781, u'wall_clock', 0.032150209]
+[u'oil_filter', 0.13282181, u'street_sign', 0.11543447, u'Band_Aid', 0.084352642, u'sunscreen', 0.081559382, u'book_jacket', 0.051265884]
+[u'corkscrew', 0.9985227, u'can_opener', 0.0012532314, u'hook', 8.0429207e-05, u'pencil_sharpener', 1.0280711e-05, u'jigsaw_puzzle', 9.6929898e-06]

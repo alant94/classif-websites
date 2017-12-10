@@ -1,0 +1,4 @@
+[u'web_site', 0.16879864, u'pinwheel', 0.084830917, u'warplane', 0.063048229]
+[u'water_bottle', 0.37230572, u'lotion', 0.12700401, u'whiskey_jug', 0.095715649]
+[u'cleaver', 0.2089141, u'packet', 0.1746815, u'tray', 0.14811359]
+[u'analog_clock', 0.13169929, u'ping-pong_ball', 0.093811631, u'face_powder', 0.082747266]

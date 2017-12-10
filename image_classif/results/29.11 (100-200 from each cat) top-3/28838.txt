@@ -1,0 +1,3 @@
+[u'fountain', 0.29561806, u'hair_spray', 0.096432135, u'whistle', 0.054940086]
+[u'nail', 0.31995592, u'hook', 0.30020151, u'safety_pin', 0.057723124]
+[u'nematode', 0.090213493, u'dishwasher', 0.061908908, u'cleaver', 0.038290326]

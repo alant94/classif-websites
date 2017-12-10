@@ -1,0 +1,3 @@
+[u'coral_reef', 0.11246461, u'king_crab', 0.093428738, u'volcano', 0.03501926, u'European_gallinule', 0.034765132, u'killer_whale', 0.03327702]
+[u'bow', 0.29613137, u'broom', 0.040054746, u'suit', 0.02829757, u'bulletproof_vest', 0.025923971, u'barracouta', 0.024173329]
+[u'sunglasses', 0.37704656, u'shower_curtain', 0.087282248, u'tray', 0.044684183, u'toilet_seat', 0.038897801, u'sunglass', 0.034395397]

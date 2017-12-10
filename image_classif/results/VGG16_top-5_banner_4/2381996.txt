@@ -1,0 +1,6 @@
+[u'barrel', 0.19289531, u'oil_filter', 0.15799925, u'milk_can', 0.075500213, u'rain_barrel', 0.066767372, u'saltshaker', 0.06230256]
+[u'water_bottle', 0.13914394, u'saltshaker', 0.054238025, u'pop_bottle', 0.053026717, u'vending_machine', 0.040381745, u'bottlecap', 0.028320737]
+[u'beer_bottle', 0.36204329, u'refrigerator', 0.16935728, u'pop_bottle', 0.13830265, u'bottlecap', 0.055611115, u'wine_bottle', 0.054706201]
+[u'wine_bottle', 0.56314522, u'corkscrew', 0.17426004, u'red_wine', 0.069303758, u'espresso_maker', 0.04975456, u'beer_bottle', 0.034544758]
+[u'web_site', 0.2390454, u'book_jacket', 0.21924494, u'comic_book', 0.10240668, u'menu', 0.029915761, u'lighter', 0.018115146]
+[u'slot', 0.11888966, u'comic_book', 0.055201657, u'tobacco_shop', 0.038705122, u'bookshop', 0.031104637, u'bow_tie', 0.022966454]

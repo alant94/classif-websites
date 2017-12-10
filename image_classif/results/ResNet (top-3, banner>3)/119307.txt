@@ -1,0 +1,2 @@
+[u'street_sign', 0.11476956, u'Band_Aid', 0.10175911, u'puck', 0.090964779]
+[u'comic_book', 0.26435408, u'jigsaw_puzzle', 0.22054312, u'packet', 0.21059729]

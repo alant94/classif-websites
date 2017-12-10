@@ -1,0 +1,6 @@
+[u'wall_clock', 0.26921284, u'analog_clock', 0.10756109, u'iPod', 0.079193085, u'laptop', 0.046295721, u'traffic_light', 0.038154017]
+[u'cash_machine', 0.097926863, u'scoreboard', 0.062945284, u'digital_clock', 0.036522169, u'flagpole', 0.034604903, u'street_sign', 0.031356655]
+[u'envelope', 0.16098903, u'wall_clock', 0.042112224, u'rule', 0.038389131, u'syringe', 0.034456078, u'matchstick', 0.033214316]
+[u'toilet_tissue', 0.049850561, u'torch', 0.04136534, u'spotlight', 0.034221474, u'notebook', 0.028465834, u'envelope', 0.028310597]
+[u'wall_clock', 0.33179766, u'analog_clock', 0.062895738, u'switch', 0.038528495, u'trench_coat', 0.022047522, u'table_lamp', 0.019028958]
+[u'jersey', 0.2713255, u'spider_web', 0.10963587, u'chain', 0.081292421, u'abaya', 0.041722361, u'electric_guitar', 0.039969441]

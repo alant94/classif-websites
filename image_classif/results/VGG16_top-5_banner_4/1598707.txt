@@ -1,0 +1,4 @@
+[u'bikini', 0.39887908, u'maillot', 0.34233379, u'maillot', 0.10794634, u'bathing_cap', 0.023588929, u'maraca', 0.01728791]
+[u'lipstick', 0.42562234, u'ice_lolly', 0.36402458, u'bikini', 0.018512143, u'bubble', 0.017815461, u'whistle', 0.017759956]
+[u'maillot', 0.23210587, u'brassiere', 0.21521279, u'bikini', 0.13299882, u'maillot', 0.10140873, u'bathtub', 0.049798612]
+[u'wardrobe', 0.17817035, u'shoe_shop', 0.16851899, u'wooden_spoon', 0.15027921, u'spatula', 0.057929788, u'brassiere', 0.051114909]

@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.25967181, u'sewing_machine', 0.21783365, u'washer', 0.14599882, u'bathtub', 0.13493519, u'washbasin', 0.035985716]
+[u'digital_clock', 0.053897046, u'envelope', 0.039101224, u'honeycomb', 0.032367244, u'web_site', 0.028310655, u'matchstick', 0.026955962]
+[u'church', 0.23878641, u'palace', 0.20194137, u'prison', 0.11111867, u'monastery', 0.079696991, u'castle', 0.06829156]
+[u'vestment', 0.27931434, u'iron', 0.088093229, u'wardrobe', 0.063524373, u'lab_coat', 0.0603306, u'toilet_seat', 0.059077553]
+[u'bow', 0.19701406, u'iron', 0.17665078, u'stethoscope', 0.10538968, u'vacuum', 0.04190813, u'bolo_tie', 0.040188834]
+[u'fountain', 0.72456473, u'lakeside', 0.14944042, u'seashore', 0.021035772, u'dock', 0.017992247, u'boathouse', 0.015458353]

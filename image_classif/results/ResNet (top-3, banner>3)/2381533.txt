@@ -1,0 +1,3 @@
+[u'packet', 0.14524749, u'binder', 0.14366898, u'doormat', 0.098062448]
+[u'barrel', 0.99921095, u'rain_barrel', 0.0001902144, u'acoustic_guitar', 8.20723e-05]
+[u'screen', 0.1323382, u'television', 0.11662483, u'wall_clock', 0.091648236]

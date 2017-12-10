@@ -1,0 +1,2 @@
+[u'bison', 0.049896341, u'ostrich', 0.046896033, u'hay', 0.03434151, u'mobile_home', 0.031724576, u'megalith', 0.022704046]
+[u'geyser', 0.36500683, u'fountain', 0.27192113, u'fireboat', 0.17940317, u'window_screen', 0.009943042, u'missile', 0.0080876192]

@@ -1,0 +1,2 @@
+[u'boathouse', 0.15045141, u'steel_arch_bridge', 0.071045309, u'suspension_bridge', 0.049355749, u'planetarium', 0.045815017, u'space_shuttle', 0.039761979]
+[u'container_ship', 0.095035955, u'prison', 0.043752763, u'pier', 0.041185021, u'library', 0.034258965, u'bullet_train', 0.030077657]

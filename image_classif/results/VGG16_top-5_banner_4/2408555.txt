@@ -1,0 +1,2 @@
+[u'screw', 0.43759087, u'screwdriver', 0.19549568, u'nail', 0.10216855, u'hammer', 0.052805107, u'letter_opener', 0.036139622]
+[u'street_sign', 0.58749384, u'puck', 0.030419206, u'mountain_bike', 0.018618444, u'laptop', 0.015681891, u'tricycle', 0.015017883]

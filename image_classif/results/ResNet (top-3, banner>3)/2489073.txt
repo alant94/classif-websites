@@ -1,0 +1,2 @@
+[u'megalith', 0.541076, u'castle', 0.16286831, u'cliff', 0.057947621]
+[u'web_site', 0.25155222, u'corkscrew', 0.085155442, u'book_jacket', 0.0655412]

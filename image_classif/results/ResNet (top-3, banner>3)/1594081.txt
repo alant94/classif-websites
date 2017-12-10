@@ -1,0 +1,3 @@
+[u'sleeping_bag', 0.14819646, u'park_bench', 0.13122581, u'suit', 0.076421492]
+[u'bannister', 0.33023608, u'gondola', 0.07683558, u'bookcase', 0.042361863]
+[u'Polaroid_camera', 0.15136379, u'jeep', 0.086098291, u'miniskirt', 0.06791652]

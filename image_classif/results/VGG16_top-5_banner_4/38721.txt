@@ -1,0 +1,4 @@
+[u'container_ship', 0.29791132, u'lumbermill', 0.25858042, u'electric_locomotive', 0.17684291, u'crane', 0.061208021, u'passenger_car', 0.042388096]
+[u'cash_machine', 0.31760398, u'photocopier', 0.25624576, u'printer', 0.19631611, u'Polaroid_camera', 0.044863958, u'forklift', 0.014287539]
+[u'picket_fence', 0.36246598, u'nail', 0.35199788, u'matchstick', 0.033942997, u'worm_fence', 0.027676269, u'shopping_basket', 0.020337326]
+[u'lumbermill', 0.38955861, u'grocery_store', 0.19497696, u'bakery', 0.070035107, u'forklift', 0.038478922, u'tobacco_shop', 0.030232841]

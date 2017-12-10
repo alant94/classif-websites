@@ -1,0 +1,7 @@
+[u'web_site', 0.066129066, u'brass', 0.064675659, u'street_sign', 0.044457246, u'barn', 0.03172541, u'prison', 0.031539176]
+[u'triumphal_arch', 0.13914201, u'palace', 0.087991625, u'church', 0.085935108, u'monastery', 0.062121574, u'obelisk', 0.050770905]
+[u'pinwheel', 0.1600786, u'hair_slide', 0.059425332, u'face_powder', 0.042432386, u'pick', 0.037021957, u'jersey', 0.03670552]
+[u'obelisk', 0.83076185, u'picket_fence', 0.070712335, u'megalith', 0.021829978, u'bell_cote', 0.012217068, u'worm_fence', 0.008249688]
+[u'book_jacket', 0.081703782, u'web_site', 0.037324935, u'street_sign', 0.031145966, u'menu', 0.016414981, u'envelope', 0.016193561]
+[u'sunscreen', 0.29821002, u'lotion', 0.25955901, u'coffee_mug', 0.11040381, u'hair_spray', 0.10693952, u'perfume', 0.036292467]
+[u'bell_cote', 0.60460573, u'church', 0.12169022, u'monastery', 0.076290123, u'triumphal_arch', 0.066579513, u'obelisk', 0.025898771]

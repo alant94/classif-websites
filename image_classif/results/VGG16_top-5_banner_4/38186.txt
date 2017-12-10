@@ -1,0 +1,1 @@
+[u'stethoscope', 0.20443672, u'torch', 0.13498878, u'vacuum', 0.12693632, u'microphone', 0.048176832, u'maraca', 0.036260247]

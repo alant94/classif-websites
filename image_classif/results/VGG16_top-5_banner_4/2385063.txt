@@ -1,0 +1,3 @@
+[u'Windsor_tie', 0.38869563, u'lab_coat', 0.21544093, u'bow_tie', 0.16071646, u'stethoscope', 0.044695795, u'suit', 0.036869165]
+[u'prison', 0.35279253, u'library', 0.30235025, u'bannister', 0.13074642, u'picket_fence', 0.037138306, u'sliding_door', 0.030917645]
+[u'bookshop', 0.10906568, u'forklift', 0.10275294, u'turnstile', 0.057322875, u'cash_machine', 0.044898901, u'library', 0.039166354]

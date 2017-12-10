@@ -1,0 +1,4 @@
+[u'book_jacket', 0.19718337, u'street_sign', 0.15873681, u'scoreboard', 0.091130458, u'pop_bottle', 0.058108024, u'digital_clock', 0.047345065]
+[u'Band_Aid', 0.25301167, u'picket_fence', 0.11955836, u'envelope', 0.095558256, u'matchstick', 0.069412358, u'whistle', 0.042472463]
+[u'monitor', 0.54881001, u'screen', 0.13097623, u'envelope', 0.050988752, u'container_ship', 0.021009095, u'television', 0.020519581]
+[u'envelope', 0.069986604, u'cash_machine', 0.062421165, u'web_site', 0.05751574, u'binder', 0.054770768, u'scoreboard', 0.047702484]

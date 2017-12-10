@@ -1,0 +1,6 @@
+[u'overskirt', 0.17451254, u'hoopskirt', 0.13316384, u'poncho', 0.12512138, u'miniskirt', 0.054239314, u'gown', 0.030718118]
+[u'bath_towel', 0.43329877, u'shower_cap', 0.065813184, u'diaper', 0.044635557, u'cowboy_hat', 0.033139009, u'stethoscope', 0.030979788]
+[u'fireboat', 0.31234229, u'fountain', 0.15392636, u'torch', 0.05079129, u'balloon', 0.043217558, u'container_ship', 0.029317353]
+[u"potter's_wheel", 0.079335943, u'leatherback_turtle', 0.054818049, u'Gila_monster', 0.035523295, u'tarantula', 0.034507841, u'night_snake', 0.033311509]
+[u'diaper', 0.87709403, u'cradle', 0.013502409, u'bikini', 0.00944544, u'stethoscope', 0.0077947588, u'nipple', 0.0070178756]
+[u'face_powder', 0.12276691, u'pick', 0.061562911, u'Band_Aid', 0.04904386, u'drum', 0.045292348, u'analog_clock', 0.041923281]

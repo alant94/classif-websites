@@ -1,0 +1,3 @@
+[u'military_uniform', 0.11128727, u'half_track', 0.079857193, u'cash_machine', 0.047602512, u'projectile', 0.045731019, u'tank', 0.041024759]
+[u'Band_Aid', 0.12727487, u'soccer_ball', 0.11168036, u'pick', 0.088129126, u'buckle', 0.047084633, u'baseball', 0.033403326]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

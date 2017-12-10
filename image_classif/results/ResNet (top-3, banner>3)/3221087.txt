@@ -1,0 +1,2 @@
+[u'hook', 0.18833107, u'shovel', 0.10345937, u'web_site', 0.083924346]
+[u'bell_cote', 0.17373848, u'traffic_light', 0.14297308, u'tripod', 0.052243143]

@@ -1,0 +1,5 @@
+[u'lotion', 0.24784952, u'sunscreen', 0.14331153, u'tennis_ball', 0.12075547]
+[u'digital_clock', 0.52721184, u'analog_clock', 0.10714483, u'traffic_light', 0.070560277]
+[u'groom', 0.64946425, u'gown', 0.28816834, u'fountain', 0.012654872]
+[u'tennis_ball', 0.78051186, u'lotion', 0.034783412, u'sunscreen', 0.021261882]
+[u'digital_clock', 0.53839391, u'scoreboard', 0.059876222, u'digital_watch', 0.054987628]

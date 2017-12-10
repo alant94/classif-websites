@@ -1,0 +1,5 @@
+[u'web_site', 0.77200222, u'analog_clock', 0.039329458, u'envelope', 0.018048426]
+[u'screwdriver', 0.058266614, u'web_site', 0.05075549, u'oscilloscope', 0.049779009]
+[u'coho', 0.43193713, u'butcher_shop', 0.11706217, u'brassiere', 0.031873047]
+[u'analog_clock', 0.052783079, u'oscilloscope', 0.038991913, u'web_site', 0.037031472]
+[u'Model_T', 0.67455119, u'golfcart', 0.11429381, u'snowplow', 0.080769286]

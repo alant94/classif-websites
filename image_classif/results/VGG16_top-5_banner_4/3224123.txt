@@ -1,0 +1,4 @@
+[u'envelope', 0.18820685, u'web_site', 0.17544807, u'candle', 0.073360331, u'binder', 0.049160175, u'Windsor_tie', 0.038116306]
+[u'Band_Aid', 0.10023004, u'digital_clock', 0.059400048, u'cash_machine', 0.045505956, u'safety_pin', 0.031827532, u'whistle', 0.031719353]
+[u'book_jacket', 0.20958869, u'street_sign', 0.16687079, u'packet', 0.07553494, u'ashcan', 0.066201881, u'perfume', 0.046455178]
+[u'picket_fence', 0.15971854, u'mobile_home', 0.10486877, u'boathouse', 0.10370129, u'prison', 0.091973789, u'passenger_car', 0.042125303]

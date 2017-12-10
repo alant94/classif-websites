@@ -1,0 +1,6 @@
+[u'abaya', 0.2838437, u'crutch', 0.11715914, u'groom', 0.070471011]
+[u'cleaver', 0.2208083, u'book_jacket', 0.17654271, u'screwdriver', 0.074830636]
+[u'microphone', 0.34395006, u'barbershop', 0.066737369, u'bubble', 0.043480374]
+[u'punching_bag', 0.67802292, u'pole', 0.077429138, u'dumbbell', 0.030748997]
+[u'punching_bag', 0.92474002, u'ballplayer', 0.01293195, u'bannister', 0.010971112]
+[u'jean', 0.22375295, u'cleaver', 0.10832912, u'maillot', 0.063071258]

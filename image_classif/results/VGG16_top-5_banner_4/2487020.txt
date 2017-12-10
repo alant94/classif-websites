@@ -1,0 +1,6 @@
+[u'shoe_shop', 0.37407985, u'butcher_shop', 0.31576717, u'cowboy_boot', 0.088993542, u'restaurant', 0.023171138, u'wardrobe', 0.019301439]
+[u'web_site', 0.76875144, u'book_jacket', 0.031964239, u'comic_book', 0.031293511, u'menu', 0.022861756, u'football_helmet', 0.0082306955]
+[u'nail', 0.34394354, u'safety_pin', 0.34329993, u'matchstick', 0.085642241, u'syringe', 0.037571903, u'screw', 0.020541724]
+[u'digital_clock', 0.1638985, u'organ', 0.054505982, u'picket_fence', 0.053880084, u'analog_clock', 0.042989202, u'traffic_light', 0.031594582]
+[u'gazelle', 0.36447737, u'hartebeest', 0.216181, u'ibex', 0.21121627, u'impala', 0.19213073, u'weevil', 0.0050443136]
+[u'digital_clock', 0.2834273, u'wall_clock', 0.06570676, u'envelope', 0.047343753, u'web_site', 0.041687086, u'scoreboard', 0.040335804]

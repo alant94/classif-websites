@@ -1,0 +1,5 @@
+[u'spatula', 0.12580693, u'shield', 0.10189457, u'wooden_spoon', 0.044203047, u'pick', 0.043784354, u'book_jacket', 0.039650876]
+[u'prison', 0.18706159, u'cash_machine', 0.15215413, u'turnstile', 0.1294072, u'barbershop', 0.046518486, u'combination_lock', 0.033853538]
+[u'book_jacket', 0.17817405, u'oil_filter', 0.12260698, u'envelope', 0.09106712, u'packet', 0.075615935, u'lighter', 0.041115768]
+[u'German_short-haired_pointer', 0.35745013, u'Brittany_spaniel', 0.14493203, u'English_setter', 0.14097312, u'Ibizan_hound', 0.13856812, u'English_foxhound', 0.059050158]
+[u'wire-haired_fox_terrier', 0.46791458, u'maze', 0.22676469, u'Lakeland_terrier', 0.038924534, u'West_Highland_white_terrier', 0.035607468, u'soft-coated_wheaten_terrier', 0.030666502]

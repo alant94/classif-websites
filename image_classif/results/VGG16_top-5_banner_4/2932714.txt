@@ -1,0 +1,4 @@
+[u'envelope', 0.094819456, u'web_site', 0.082522698, u'velvet', 0.019302135, u'crossword_puzzle', 0.019187486, u'book_jacket', 0.01572014]
+[u'lab_coat', 0.19963685, u'bow_tie', 0.12395108, u'cradle', 0.074158736, u'hoopskirt', 0.057326529, u'notebook', 0.056649741]
+[u'crossword_puzzle', 0.87179768, u'quilt', 0.026302245, u'digital_clock', 0.023143657, u'maze', 0.0099824583, u'envelope', 0.006897599]
+[u'web_site', 0.057449739, u'envelope', 0.05613666, u'nipple', 0.016443552, u'Band_Aid', 0.016067104, u'sunscreen', 0.015342665]

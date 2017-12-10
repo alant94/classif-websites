@@ -1,0 +1,7 @@
+[u'slot', 0.14445297, u'notebook', 0.092997, u'scale', 0.084852248]
+[u'television', 0.31615233, u'slot', 0.14565624, u'cash_machine', 0.095090963]
+[u'scoreboard', 0.89141953, u'digital_watch', 0.010698743, u'book_jacket', 0.0062445994]
+[u'scoreboard', 0.64487356, u'vending_machine', 0.076263629, u'street_sign', 0.032588214]
+[u'scoreboard', 0.88851899, u'digital_watch', 0.018069278, u'slot', 0.016780676]
+[u'space_heater', 0.20040229, u'cassette_player', 0.052837424, u'stove', 0.029713996]
+[u'comic_book', 0.28761899, u'book_jacket', 0.28308806, u'kimono', 0.089594588]

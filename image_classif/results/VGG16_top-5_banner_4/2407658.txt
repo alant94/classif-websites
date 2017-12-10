@@ -1,0 +1,4 @@
+[u'doormat', 0.34980249, u'mitten', 0.093048103, u'nematode', 0.084144287, u'chiton', 0.071329087, u'tick', 0.032454763]
+[u'screw', 0.21710323, u'nail', 0.16407053, u'picket_fence', 0.068479329, u'radiator', 0.057577509, u'switch', 0.050139762]
+[u'sea_cucumber', 0.82635725, u'ice_lolly', 0.036343668, u'mitten', 0.017725516, u'ear', 0.012358083, u'chiton', 0.011397586]
+[u'packet', 0.68901604, u'paintbrush', 0.063783117, u'face_powder', 0.021053217, u'sunscreen', 0.015854949, u'honeycomb', 0.013417599]

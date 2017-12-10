@@ -1,0 +1,5 @@
+[u'valley', 0.34029588, u'alp', 0.24666061, u'worm_fence', 0.13211772, u'lakeside', 0.11899527, u'cliff', 0.030142549]
+[u'restaurant', 0.078681804, u'confectionery', 0.062125541, u'toyshop', 0.048806749, u'altar', 0.046189714, u'carousel', 0.041782469]
+[u'jersey', 0.12417823, u'nail', 0.075310364, u'hook', 0.050861262, u'street_sign', 0.045974109, u'book_jacket', 0.039667949]
+[u'street_sign', 0.58551037, u'book_jacket', 0.17196056, u'traffic_light', 0.080032483, u'matchstick', 0.061056107, u'mortarboard', 0.0061257817]
+[u'wine_bottle', 0.70558047, u'red_wine', 0.28937253, u'beer_bottle', 0.0038994662, u'corkscrew', 0.00043730528, u'fountain_pen', 9.411692e-05]

@@ -1,0 +1,4 @@
+[u'hook', 0.093121558, u'hammer', 0.081661671, u'paintbrush', 0.07416068, u'can_opener', 0.073249236, u'electric_guitar', 0.043197189]
+[u'Band_Aid', 0.10728816, u'digital_clock', 0.05410492, u'envelope', 0.044390976, u'street_sign', 0.035828058, u'whistle', 0.025302349]
+[u'vase', 0.46140262, u'conch', 0.19967276, u'tray', 0.040802039, u'shower_cap', 0.02237656, u'clog', 0.019835427]
+[u'home_theater', 0.85340619, u'cinema', 0.052967947, u'theater_curtain', 0.038617451, u'studio_couch', 0.019320097, u'passenger_car', 0.017574012]

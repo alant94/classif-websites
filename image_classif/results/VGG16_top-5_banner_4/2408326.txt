@@ -1,0 +1,2 @@
+[u'bell_cote', 0.083761953, u'torch', 0.052537404, u'traffic_light', 0.048389383, u'loudspeaker', 0.04624429, u'street_sign', 0.044431217]
+[u'digital_clock', 0.15643008, u'pick', 0.10010694, u'binder', 0.075014152, u'iPod', 0.072946995, u'digital_watch', 0.070115082]

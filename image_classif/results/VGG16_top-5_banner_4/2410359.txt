@@ -1,0 +1,3 @@
+[u'alp', 0.27156985, u'valley', 0.062916227, u'cliff', 0.054303687, u'geyser', 0.035303544, u'volcano', 0.027444797]
+[u'volcano', 0.26470879, u'alp', 0.073159784, u'radio_telescope', 0.055762619, u'bathtub', 0.041160695, u'sunglass', 0.032768086]
+[u'cliff', 0.44824132, u'promontory', 0.38044068, u'seashore', 0.052144311, u'dam', 0.020587198, u'valley', 0.019053461]

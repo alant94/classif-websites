@@ -1,0 +1,3 @@
+[u'picket_fence', 0.63505596, u'coral_fungus', 0.32453617, u'worm_fence', 0.015123145, u'radiator', 0.0032071939, u'nail', 0.0028920888]
+[u'cash_machine', 0.16127951, u'pay-phone', 0.054287359, u'vending_machine', 0.0521827, u'web_site', 0.046094749, u'book_jacket', 0.032511711]
+[u'whistle', 0.1055269, u'web_site', 0.079036035, u'switch', 0.035151858, u'combination_lock', 0.030179346, u'microphone', 0.029471258]

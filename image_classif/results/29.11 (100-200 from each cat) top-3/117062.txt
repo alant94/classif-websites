@@ -1,0 +1,1 @@
+[u'screwdriver', 0.25237697, u'power_drill', 0.10405906, u'syringe', 0.092348896]

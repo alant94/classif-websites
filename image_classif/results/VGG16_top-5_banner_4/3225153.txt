@@ -1,0 +1,8 @@
+[u'quill', 0.58467174, u'crossword_puzzle', 0.14775671, u'envelope', 0.05105561, u'packet', 0.04911904, u'menu', 0.045895327]
+[u'perfume', 0.49559176, u'red_wine', 0.18776308, u'wine_bottle', 0.06686502, u'lipstick', 0.030082202, u'hourglass', 0.022242188]
+[u'book_jacket', 0.6929388, u'table_lamp', 0.04994867, u'lampshade', 0.036141708, u'street_sign', 0.022479571, u'comic_book', 0.017477296]
+[u'pill_bottle', 0.22109155, u'lotion', 0.15918964, u'wine_bottle', 0.094531871, u'thimble', 0.074571773, u'crossword_puzzle', 0.05816352]
+[u'hard_disc', 0.39587563, u'modem', 0.15381424, u'hand-held_computer', 0.096592523, u'iPod', 0.066098109, u'cellular_telephone', 0.057656419]
+[u'flagpole', 0.25541693, u'pole', 0.1232949, u'horizontal_bar', 0.064649798, u'crane', 0.032997519, u'traffic_light', 0.03174274]
+[u'flagpole', 0.22859979, u'pole', 0.098586291, u'horizontal_bar', 0.064518034, u'crane', 0.064504497, u'traffic_light', 0.043160379]
+[u'street_sign', 0.32273331, u'web_site', 0.12385509, u'scoreboard', 0.051688273, u'cash_machine', 0.036111392, u'analog_clock', 0.029300425]

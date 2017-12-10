@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.16259062, u'toaster', 0.095599964, u'mask', 0.062169887, u'balloon', 0.058360167, u'car_mirror', 0.037238985]

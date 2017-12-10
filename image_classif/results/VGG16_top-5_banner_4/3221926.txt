@@ -1,0 +1,8 @@
+[u'hamper', 0.21137749, u'jersey', 0.082439438, u'perfume', 0.05661631, u'sombrero', 0.05223275, u'stupa', 0.051225506]
+[u'altar', 0.58845633, u'castle', 0.079356417, u'fountain', 0.06936577, u'throne', 0.063094378, u'church', 0.041958708]
+[u'matchstick', 0.31439522, u'rule', 0.085546896, u'screwdriver', 0.052785505, u'carton', 0.041839182, u'crate', 0.041207895]
+[u'toyshop', 0.31641158, u'chainlink_fence', 0.1734267, u'shoe_shop', 0.052295517, u'butcher_shop', 0.025346972, u'bubble', 0.024685932]
+[u'lipstick', 0.020284027, u'matchstick', 0.018119074, u'ballpoint', 0.017681753, u'wall_clock', 0.017604826, u'letter_opener', 0.015392412]
+[u'broccoli', 0.1694392, u'pot', 0.08483772, u'maze', 0.081589118, u'patio', 0.037437242, u'lakeside', 0.032587502]
+[u'screwdriver', 0.23809238, u'rule', 0.14481717, u'carton', 0.065560386, u'crate', 0.057089493, u'syringe', 0.039885994]
+[u'matchstick', 0.057672765, u'nematode', 0.040793512, u'lighter', 0.027991939, u'digital_clock', 0.023037376, u'spotlight', 0.020491697]

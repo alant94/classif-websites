@@ -1,0 +1,7 @@
+[u'harp', 0.44343331, u'candle', 0.072636969, u'vault', 0.068246722, u'crane', 0.045117065, u'dam', 0.033052385]
+[u'drum', 0.20805539, u'face_powder', 0.12827159, u'pick', 0.10074262, u'sunglass', 0.036118902, u'bucket', 0.016859069]
+[u'bell_cote', 0.11829519, u'altar', 0.096013755, u'gown', 0.056105871, u'throne', 0.032304347, u'vestment', 0.03151704]
+[u'perfume', 0.16542661, u'wall_clock', 0.070184417, u'medicine_chest', 0.040791593, u'bell_cote', 0.035339423, u'switch', 0.02992869]
+[u'china_cabinet', 0.28098977, u'bookshop', 0.21198025, u'bookcase', 0.15466417, u'medicine_chest', 0.13155365, u'tobacco_shop', 0.036269162]
+[u'bell_cote', 0.34550858, u'starfish', 0.31645897, u'stupa', 0.12589188, u'wing', 0.039129581, u'church', 0.018523792]
+[u'fountain', 0.51098168, u'harp', 0.034197256, u'jellyfish', 0.034075502, u"jack-o'-lantern", 0.033868961, u'matchstick', 0.031880606]

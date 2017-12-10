@@ -1,0 +1,2 @@
+[u'envelope', 0.036844414, u'flagpole', 0.028196529, u'bell_cote', 0.024919813, u'birdhouse', 0.02436037, u'mortarboard', 0.023475425]
+[u'web_site', 0.99462694, u'book_jacket', 0.002676476, u'comic_book', 0.0012517204, u'envelope', 0.00015947536, u'scoreboard', 9.417117e-05]

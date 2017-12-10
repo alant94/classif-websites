@@ -1,0 +1,5 @@
+[u'book_jacket', 0.18121912, u'Band_Aid', 0.17536892, u'scoreboard', 0.10918879, u'street_sign', 0.090929933, u'comic_book', 0.04780424]
+[u'digital_clock', 0.40309289, u'scoreboard', 0.096460201, u'wall_clock', 0.041628525, u'digital_watch', 0.03526786, u'prayer_rug', 0.020512339]
+[u'tub', 0.79817313, u'bathtub', 0.1515881, u'radiator', 0.0061606201, u'fountain', 0.0054345536, u'butcher_shop', 0.0030683009]
+[u'scoreboard', 0.072054453, u'street_sign', 0.045723811, u'flagpole', 0.039786726, u'digital_clock', 0.039709587, u'wall_clock', 0.035730142]
+[u'pill_bottle', 0.20690346, u'digital_clock', 0.063293986, u'digital_watch', 0.052957103, u'toilet_seat', 0.031071041, u'Petri_dish', 0.022606302]

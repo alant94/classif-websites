@@ -1,0 +1,2 @@
+[u'valley', 0.20273198, u'tile_roof', 0.17639126, u'alp', 0.096904285, u'worm_fence', 0.079360552, u'thatch', 0.042813238]
+[u'book_jacket', 0.16194572, u'analog_clock', 0.084216833, u'digital_clock', 0.079876848, u'theater_curtain', 0.06829001, u'microphone', 0.028725911]

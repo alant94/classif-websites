@@ -1,0 +1,3 @@
+[u'envelope', 0.055218965, u'dishwasher', 0.046332791, u'web_site', 0.038437985]
+[u'golf_ball', 0.087739915, u'hammer', 0.058529966, u'can_opener', 0.053037994]
+[u'wild_boar', 0.80651754, u'warthog', 0.1180734, u'hog', 0.072295032]

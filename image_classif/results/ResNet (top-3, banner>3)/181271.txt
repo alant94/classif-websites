@@ -1,0 +1,3 @@
+[u'medicine_chest', 0.33927268, u'beaker', 0.079939373, u'digital_clock', 0.076921828]
+[u'suspension_bridge', 0.49870765, u'pier', 0.090097405, u'fountain', 0.055468056]
+[u'digital_watch', 0.043995563, u'screwdriver', 0.036293797, u'scoreboard', 0.029400472]

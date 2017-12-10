@@ -1,0 +1,2 @@
+[u'magnetic_compass', 0.74745047, u'analog_clock', 0.14644206, u'wall_clock', 0.042436995, u'web_site', 0.011134961, u'stopwatch', 0.0060254675]
+[u'envelope', 0.198855, u'flagpole', 0.11679246, u'web_site', 0.076634333, u'traffic_light', 0.04724896, u'street_sign', 0.042921208]

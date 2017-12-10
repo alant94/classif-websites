@@ -1,0 +1,7 @@
+[u'necklace', 0.58229244, u'coil', 0.2403886, u'chain', 0.15019093]
+[u'necklace', 0.73761749, u'scorpion', 0.093242027, u'tick', 0.033386972]
+[u'necklace', 0.81189954, u'coil', 0.054412298, u'chain', 0.022512365]
+[u'necklace', 0.58566797, u'chain', 0.35988966, u'coil', 0.038016286]
+[u'web_site', 0.35474679, u'menu', 0.01994063, u'book_jacket', 0.017513381]
+[u'ice_lolly', 0.23524766, u'maraca', 0.081971683, u'bib', 0.076013468]
+[u'pill_bottle', 0.34815565, u'necklace', 0.33848703, u'chain', 0.066328652]

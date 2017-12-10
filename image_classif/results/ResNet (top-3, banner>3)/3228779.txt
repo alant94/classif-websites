@@ -1,0 +1,3 @@
+[u'monastery', 0.35420391, u'triumphal_arch', 0.24550505, u'palace', 0.101712]
+[u'tripod', 0.36589378, u'analog_clock', 0.31758738, u'loupe', 0.042095382]
+[u'web_site', 0.11151274, u'rule', 0.08778093, u'plunger', 0.081907324]

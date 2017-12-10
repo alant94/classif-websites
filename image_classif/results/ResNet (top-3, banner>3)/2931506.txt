@@ -1,0 +1,1 @@
+[u'envelope', 0.089648806, u'binder', 0.079511598, u'toilet_seat', 0.064953297]

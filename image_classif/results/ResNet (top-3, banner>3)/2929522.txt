@@ -1,0 +1,7 @@
+[u'digital_clock', 0.27797589, u'web_site', 0.2118922, u'analog_clock', 0.12991084]
+[u'digital_clock', 0.12701753, u'web_site', 0.087914117, u'screen', 0.067875311]
+[u'digital_clock', 0.27397466, u'analog_clock', 0.10246109, u'web_site', 0.073580347]
+[u'beaker', 0.33564237, u'digital_clock', 0.31934834, u'whistle', 0.032870691]
+[u'digital_clock', 0.77790666, u'analog_clock', 0.097771578, u'envelope', 0.021658424]
+[u'hand-held_computer', 0.17131612, u'web_site', 0.15231912, u'oscilloscope', 0.13035715]
+[u'digital_clock', 0.8109833, u'stopwatch', 0.04912189, u'scoreboard', 0.046828471]

@@ -1,0 +1,4 @@
+[u'web_site', 0.77861768, u'monitor', 0.018378234, u'container_ship', 0.014469606, u'lifeboat', 0.012334432, u'screen', 0.011353333]
+[u'safe', 0.10287496, u'sliding_door', 0.06373477, u'file', 0.057090081, u'forklift', 0.05555582, u'crane', 0.046282589]
+[u'crane', 0.39359933, u'lakeside', 0.12693352, u'alp', 0.085853122, u'drilling_platform', 0.057941958, u'wreck', 0.035114329]
+[u'tobacco_shop', 0.25496703, u'organ', 0.070765406, u'radio', 0.052785803, u'crate', 0.046203647, u'tape_player', 0.04068353]

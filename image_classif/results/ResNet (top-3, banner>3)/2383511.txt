@@ -1,0 +1,6 @@
+[u'panpipe', 0.20387888, u'analog_clock', 0.11007444, u'whistle', 0.10508992]
+[u'lakeside', 0.36473769, u'patio', 0.18804654, u'boathouse', 0.14483462]
+[u'digital_clock', 0.4157646, u'beaker', 0.084408268, u'prayer_rug', 0.06905809]
+[u'lakeside', 0.26468325, u'valley', 0.1530028, u'mountain_bike', 0.071563199]
+[u'volcano', 0.39699337, u'wing', 0.15514374, u'valley', 0.062518187]
+[u'switch', 0.19498919, u'web_site', 0.083996713, u'cassette', 0.06605152]

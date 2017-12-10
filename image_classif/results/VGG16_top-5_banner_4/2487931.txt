@@ -1,0 +1,3 @@
+[u'piggy_bank', 0.87500006, u'nipple', 0.015739774, u'pencil_sharpener', 0.012164356, u'perfume', 0.010597017, u'saltshaker', 0.0068065734]
+[u'diaper', 0.27679694, u'pillow', 0.20316046, u'thimble', 0.12823646, u'teddy', 0.05195858, u'saltshaker', 0.032251973]
+[u'golf_ball', 0.70099485, u'ping-pong_ball', 0.04189733, u'balloon', 0.01717467, u'tennis_ball', 0.015340878, u'pedestal', 0.011946718]

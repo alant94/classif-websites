@@ -1,0 +1,2 @@
+[u'screwdriver', 0.13414039, u'picket_fence', 0.11269348, u'matchstick', 0.1016091, u'container_ship', 0.06153401, u'syringe', 0.042269409]
+[u'butcher_shop', 0.95328492, u'shoe_shop', 0.023220506, u'stage', 0.0061956043, u'wig', 0.00207642, u'web_site', 0.00159471]

@@ -1,0 +1,7 @@
+[u'miniskirt', 0.28283226, u'fur_coat', 0.12914449, u'cuirass', 0.091897883, u'chain_mail', 0.038215872, u'cowboy_boot', 0.036319152]
+[u'sandal', 0.80494279, u'clog', 0.077413507, u'brassiere', 0.031482458, u'Band_Aid', 0.014635553, u'Loafer', 0.013638934]
+[u'mouse', 0.11867397, u'Band_Aid', 0.067431279, u'miniskirt', 0.05383997, u'notebook', 0.045343269, u'maillot', 0.036812242]
+[u'maillot', 0.36740246, u'bikini', 0.33385319, u'tub', 0.082449473, u'brassiere', 0.064595647, u'maillot', 0.059843052]
+[u'sandal', 0.68407488, u'Loafer', 0.22814578, u'clog', 0.037427325, u'shoe_shop', 0.008760998, u'brassiere', 0.0038797099]
+[u'Mexican_hairless', 0.57354248, u'Italian_greyhound', 0.03052227, u'standard_poodle', 0.029657561, u'feather_boa', 0.018934241, u'toy_poodle', 0.017991103]
+[u'maillot', 0.33106387, u'bikini', 0.148194, u'maillot', 0.070453219, u'motor_scooter', 0.06670218, u'wig', 0.061025355]

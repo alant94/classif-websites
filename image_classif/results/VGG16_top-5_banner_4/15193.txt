@@ -1,0 +1,5 @@
+[u'street_sign', 0.42605928, u'cinema', 0.073765114, u'guillotine', 0.058695443, u'scoreboard', 0.058299717, u'traffic_light', 0.04583833]
+[u'rubber_eraser', 0.061386332, u'ballpoint', 0.055210173, u'ski', 0.051971558, u'hair_spray', 0.050970569, u'fountain_pen', 0.040176906]
+[u'cinema', 0.44467846, u'traffic_light', 0.10089235, u'street_sign', 0.079160959, u'scoreboard', 0.032731872, u'pier', 0.025532058]
+[u'wine_bottle', 0.92827034, u'red_wine', 0.051996436, u'beer_bottle', 0.0055528278, u'cocktail_shaker', 0.0051606093, u'corkscrew', 0.0024211335]
+[u'menu', 0.059181444, u'crossword_puzzle', 0.056252349, u'hard_disc', 0.027116502, u'envelope', 0.019705873, u'brass', 0.017795647]

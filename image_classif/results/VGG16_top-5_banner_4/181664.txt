@@ -1,0 +1,3 @@
+[u'buckle', 0.30485085, u'loupe', 0.19691812, u'digital_clock', 0.096470706, u'face_powder', 0.090886272, u'wall_clock', 0.04731388]
+[u'shovel', 0.25505191, u'crutch', 0.11111069, u'stretcher', 0.057399817, u'paddle', 0.046440564, u'bow', 0.043081693]
+[u'analog_clock', 0.14359392, u'rule', 0.13157518, u'digital_clock', 0.096919246, u'wall_clock', 0.075402647, u'crossword_puzzle', 0.067720056]

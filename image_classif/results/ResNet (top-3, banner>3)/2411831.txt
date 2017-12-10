@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.7232846, u'binder', 0.067214318, u'monitor', 0.032486204]
+[u'cinema', 0.1107132, u'digital_watch', 0.10890802, u'gas_pump', 0.09041898]
+[u'pill_bottle', 0.23599562, u'guillotine', 0.22456002, u'medicine_chest', 0.033376034]
+[u'digital_clock', 0.35971758, u'digital_watch', 0.19676264, u'crossword_puzzle', 0.079070278]
+[u'toaster', 0.51436085, u'gown', 0.042680763, u'red_wine', 0.039010789]

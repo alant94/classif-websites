@@ -1,0 +1,3 @@
+[u'electric_guitar', 0.22621404, u'hammer', 0.21740045, u'hatchet', 0.11087644]
+[u'window_shade', 0.20272739, u'conch', 0.10295194, u'fountain', 0.076090515]
+[u'home_theater', 0.6991241, u'studio_couch', 0.11890103, u'cinema', 0.060656928]

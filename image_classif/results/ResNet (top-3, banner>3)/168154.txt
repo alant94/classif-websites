@@ -1,0 +1,6 @@
+[u'envelope', 0.48022303, u'prayer_rug', 0.2097417, u'book_jacket', 0.029897567]
+[u'envelope', 0.17234479, u'web_site', 0.10704684, u'laptop', 0.049372144]
+[u'web_site', 0.38833901, u'envelope', 0.21297108, u'dishwasher', 0.035800349]
+[u'digital_clock', 0.41989884, u'beaker', 0.13583857, u'whistle', 0.030498628]
+[u'envelope', 0.30197215, u'panpipe', 0.090699703, u'nipple', 0.079796746]
+[u'digital_clock', 0.32881647, u'oscilloscope', 0.17115124, u'screen', 0.087925635]

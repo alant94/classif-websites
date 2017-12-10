@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.72518563, u'digital_watch', 0.19903314, u'digital_clock', 0.073147401]
+[u'digital_watch', 0.65770239, u'digital_clock', 0.12280955, u'cash_machine', 0.089320377]
+[u'toaster', 0.35341498, u'crossword_puzzle', 0.22557078, u'accordion', 0.046923157]
+[u'crossword_puzzle', 0.98298126, u'digital_watch', 0.0073458827, u'digital_clock', 0.0018415271]
+[u'shoe_shop', 0.21842621, u'shovel', 0.14359701, u'cinema', 0.061897166]
+[u'grocery_store', 0.34354973, u'pool_table', 0.1150087, u'bakery', 0.042434078]

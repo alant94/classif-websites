@@ -1,0 +1,5 @@
+[u'web_site', 0.73183429, u'envelope', 0.05242883, u'book_jacket', 0.040723447, u'abaya', 0.021729738, u'perfume', 0.0082060173]
+[u'perfume', 0.26092675, u'hourglass', 0.16959989, u'corkscrew', 0.054794241, u'lipstick', 0.053432468, u'hook', 0.040438399]
+[u'web_site', 0.6628387, u'menu', 0.052166536, u'envelope', 0.049299836, u'muzzle', 0.0084411567, u'hand_blower', 0.0056134127]
+[u'shower_curtain', 0.26151013, u'web_site', 0.19036138, u'sarong', 0.083096296, u'envelope', 0.063033916, u'gown', 0.037561584]
+[u'acorn', 0.49155712, u'necklace', 0.3001529, u'croquet_ball', 0.046074647, u'mushroom', 0.023224929, u'golf_ball', 0.01731131]

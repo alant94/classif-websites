@@ -1,0 +1,8 @@
+[u'lotion', 0.26942459, u'toilet_tissue', 0.10114393, u'sunscreen', 0.086891025, u'perfume', 0.056558758, u'paper_towel', 0.044992186]
+[u'hook', 0.043775264, u'nail', 0.032261204, u'swab', 0.026289655, u'flagpole', 0.0220218, u'pole', 0.020029815]
+[u'envelope', 0.042553693, u'web_site', 0.039908569, u'power_drill', 0.022972377, u'chain_saw', 0.016244536, u'nail', 0.015292132]
+[u'mosquito_net', 0.029220402, u'envelope', 0.02713472, u'shower_curtain', 0.016613506, u'photocopier', 0.011505528, u'wall_clock', 0.010872982]
+[u'book_jacket', 0.31864542, u'jersey', 0.09685979, u'mailbox', 0.025479613, u'picket_fence', 0.025220115, u'poncho', 0.019901516]
+[u'web_site', 0.13269643, u'nipple', 0.072091401, u'bell_cote', 0.051125817, u'envelope', 0.046653006, u'space_shuttle', 0.041628763]
+[u'binder', 0.27699041, u'envelope', 0.086845264, u'whistle', 0.07612545, u'tray', 0.040676977, u'switch', 0.03928953]
+[u'medicine_chest', 0.21253468, u'binder', 0.19000301, u'safe', 0.065520912, u'envelope', 0.034469783, u'photocopier', 0.026173607]

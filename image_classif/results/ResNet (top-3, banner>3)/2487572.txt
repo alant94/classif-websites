@@ -1,0 +1,4 @@
+[u'digital_clock', 0.86173284, u'digital_watch', 0.09240976, u'crossword_puzzle', 0.0095748957]
+[u'street_sign', 0.10885934, u'packet', 0.082049765, u'comic_book', 0.077952325]
+[u'web_site', 0.59215564, u'crossword_puzzle', 0.028617207, u'container_ship', 0.018625559]
+[u'Scottish_deerhound', 0.13036755, u'Irish_wolfhound', 0.065855756, u'Afghan_hound', 0.060971126]

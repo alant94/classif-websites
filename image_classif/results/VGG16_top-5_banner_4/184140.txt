@@ -1,0 +1,1 @@
+[u'wall_clock', 0.14428452, u'digital_clock', 0.099565379, u'analog_clock', 0.0922684, u'matchstick', 0.053577766, u'bottlecap', 0.046805263]

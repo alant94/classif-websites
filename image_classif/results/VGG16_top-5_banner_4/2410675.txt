@@ -1,0 +1,4 @@
+[u'web_site', 0.1430942, u'microphone', 0.027314238, u'hook', 0.026847657, u'power_drill', 0.019488046, u'sunglass', 0.019481689]
+[u'bathing_cap', 0.38621771, u'gasmask', 0.090951271, u'lab_coat', 0.088669166, u'brassiere', 0.037671279, u'lens_cap', 0.033334602]
+[u'chime', 0.053911142, u'water_tower', 0.046804205, u'tripod', 0.042594992, u'nail', 0.038357124, u'microphone', 0.036369812]
+[u'hair_slide', 0.1898109, u'safety_pin', 0.15495808, u'bow', 0.099329434, u'hook', 0.049313765, u'chain', 0.03629512]

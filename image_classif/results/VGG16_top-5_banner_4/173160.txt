@@ -1,0 +1,1 @@
+[u'chest', 0.088399194, u'marimba', 0.047662828, u'traffic_light', 0.047376595, u'pool_table', 0.037216224, u'rotisserie', 0.036641389]

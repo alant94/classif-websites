@@ -1,0 +1,3 @@
+[u'sandbar', 0.2206181, u'bikini', 0.18765391, u'swimming_trunks', 0.17042696]
+[u'snorkel', 0.78781527, u'bikini', 0.06989485, u'sunglass', 0.027485892]
+[u'swimming_trunks', 0.24157815, u'seashore', 0.24051839, u'bikini', 0.16540837]

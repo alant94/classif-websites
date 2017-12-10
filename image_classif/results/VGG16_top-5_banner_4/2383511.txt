@@ -1,0 +1,6 @@
+[u'digital_clock', 0.27545759, u'wall_clock', 0.14226316, u'analog_clock', 0.094523348, u'digital_watch', 0.085662231, u'maze', 0.04541558]
+[u'tub', 0.24068056, u'planetarium', 0.22030637, u'patio', 0.10539151, u'boathouse', 0.06116946, u'bathtub', 0.043918595]
+[u'binder', 0.11181756, u'screen', 0.10712529, u'picket_fence', 0.070449986, u'monitor', 0.070334323, u'digital_clock', 0.066887699]
+[u'geyser', 0.22915332, u'sandbar', 0.079594977, u'mountain_bike', 0.064782687, u'seashore', 0.05059519, u'valley', 0.047443446]
+[u'volcano', 0.54868376, u'wing', 0.14223109, u'mountain_tent', 0.057634942, u'balloon', 0.020266121, u'seashore', 0.020025548]
+[u'envelope', 0.40726227, u'switch', 0.10836366, u'wall_clock', 0.05120714, u'carton', 0.02891423, u'binder', 0.021351147]

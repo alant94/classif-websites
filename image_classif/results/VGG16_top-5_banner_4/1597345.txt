@@ -1,0 +1,6 @@
+[u'tub', 0.35126543, u'bathtub', 0.30842274, u'book_jacket', 0.03286517, u'conch', 0.01719214, u'Band_Aid', 0.014949366]
+[u'tennis_ball', 0.13763058, u'dugong', 0.099563152, u'ice_bear', 0.086840771, u'king_penguin', 0.049949635, u'web_site', 0.032555137]
+[u'bikini', 0.097489744, u'crib', 0.094659053, u'rocking_chair', 0.047887843, u'drumstick', 0.043304607, u'bathtub', 0.031004123]
+[u'fur_coat', 0.65987408, u'trench_coat', 0.025319969, u'stole', 0.01987228, u'cloak', 0.013398083, u'hair_spray', 0.0080471141]
+[u'tub', 0.098307073, u'bathtub', 0.097576648, u'diaper', 0.09504915, u'feather_boa', 0.067100175, u'cradle', 0.042385325]
+[u'pedestal', 0.33228952, u'bikini', 0.25052956, u'maillot', 0.024985038, u'fountain', 0.023846177, u'balance_beam', 0.020889312]

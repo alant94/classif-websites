@@ -1,0 +1,4 @@
+[u'pool_table', 0.10737246, u'analog_clock', 0.054482073, u'envelope', 0.042018894]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'chain_saw', 0.28739282, u'collie', 0.092612989, u'web_site', 0.071310021]
+[u'web_site', 0.42441162, u'jigsaw_puzzle', 0.32329747, u'laptop', 0.019256007]

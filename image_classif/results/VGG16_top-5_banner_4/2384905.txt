@@ -1,0 +1,6 @@
+[u'lakeside', 0.48801631, u'castle', 0.12836339, u'fountain', 0.10801017, u'valley', 0.045214154, u'palace', 0.04070805]
+[u'lakeside', 0.49591818, u'promontory', 0.15033148, u'valley', 0.08792372, u'castle', 0.044828951, u'boathouse', 0.031721767]
+[u'barn', 0.72561532, u'church', 0.15932435, u'picket_fence', 0.053285751, u'worm_fence', 0.022656381, u'boathouse', 0.0097961565]
+[u'sandbar', 0.23249651, u'schipperke', 0.18286212, u'dogsled', 0.075137414, u'French_bulldog', 0.050959878, u'seashore', 0.039706752]
+[u'magnetic_compass', 0.7265079, u'wall_clock', 0.18035609, u'analog_clock', 0.046162017, u'bolo_tie', 0.028130976, u'combination_lock', 0.0052127969]
+[u'bittern', 0.32271844, u'marmoset', 0.056321241, u'ruffed_grouse', 0.025949435, u'hook', 0.022481397, u'knot', 0.019419963]

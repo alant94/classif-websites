@@ -1,0 +1,3 @@
+[u'matchstick', 0.081624776, u'hook', 0.077475563, u'mousetrap', 0.070757203, u'rule', 0.067506686, u'wall_clock', 0.054342251]
+[u'crane', 0.091514304, u'nail', 0.053273153, u'wall_clock', 0.049083631, u'rule', 0.047403749, u'screw', 0.046941057]
+[u'brassiere', 0.42511746, u'bikini', 0.40525666, u'maillot', 0.12622829, u'maillot', 0.0258689, u'bow_tie', 0.0042116879]

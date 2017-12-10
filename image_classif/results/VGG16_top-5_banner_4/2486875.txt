@@ -1,0 +1,7 @@
+[u'vase', 0.15639895, u'torch', 0.049888264, u'bow', 0.041739907, u'water_jug', 0.033431772, u'gondola', 0.028882667]
+[u'magnetic_compass', 0.43015581, u'wall_clock', 0.16519471, u'analog_clock', 0.080591127, u'plate_rack', 0.019846857, u'thresher', 0.015935775]
+[u'cheetah', 0.98730707, u'hyena', 0.011031098, u'leopard', 0.00079877465, u'German_short-haired_pointer', 0.00022704044, u'English_setter', 0.00014804662]
+[u'hartebeest', 0.31377631, u'warthog', 0.20396639, u'tusker', 0.078045532, u'impala', 0.074931994, u'plow', 0.044219833]
+[u'hartebeest', 0.6892342, u'impala', 0.16820213, u'gazelle', 0.061579697, u'ox', 0.028556142, u'ibex', 0.021328898]
+[u'envelope', 0.43997383, u'menu', 0.26410404, u'web_site', 0.084631078, u'binder', 0.064277917, u'jersey', 0.033268388]
+[u'grocery_store', 0.065220125, u'Arabian_camel', 0.046406891, u'Dungeness_crab', 0.041146312, u'horse_cart', 0.038977712, u'spiny_lobster', 0.019254694]

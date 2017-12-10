@@ -1,0 +1,2 @@
+[u'Windsor_tie', 0.51024818, u'suit', 0.31932127, u'bulletproof_vest', 0.027073165]
+[u'otterhound', 0.13911095, u'apiary', 0.078306876, u'common_newt', 0.076785184]

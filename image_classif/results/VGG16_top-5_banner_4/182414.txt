@@ -1,0 +1,7 @@
+[u'picket_fence', 0.42658776, u'worm_fence', 0.34259379, u'ski', 0.026146973, u'academic_gown', 0.024975445, u'cleaver', 0.016205912]
+[u'book_jacket', 0.11558875, u'street_sign', 0.10485744, u'cash_machine', 0.023509037, u'jersey', 0.023410641, u'binder', 0.020045249]
+[u'stage', 0.20923592, u'lumbermill', 0.039126836, u'unicycle', 0.037506849, u'tractor', 0.032107446, u'oxcart', 0.031509925]
+[u'butcher_shop', 0.36127627, u'shower_curtain', 0.17382795, u'book_jacket', 0.036425777, u'wardrobe', 0.035908032, u'lotion', 0.034260042]
+[u'book_jacket', 0.66631699, u'comic_book', 0.04857409, u'hair_spray', 0.043890819, u'menu', 0.029453248, u'coffee_mug', 0.023780772]
+[u'web_site', 0.34149665, u'stopwatch', 0.12257843, u'digital_clock', 0.058188926, u'Band_Aid', 0.023811281, u'digital_watch', 0.019994596]
+[u'hair_spray', 0.12276562, u'sarong', 0.12040702, u'kimono', 0.11500708, u'grocery_store', 0.030569082, u'wig', 0.026918719]

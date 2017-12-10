@@ -1,0 +1,6 @@
+[u'bathtub', 0.51757485, u'binder', 0.10350046, u'tub', 0.068642147, u'medicine_chest', 0.060881056, u'refrigerator', 0.029916862]
+[u'switch', 0.22856699, u'binder', 0.12989356, u'envelope', 0.087525681, u'shower_curtain', 0.07665357, u'soap_dispenser', 0.055258013]
+[u'bathtub', 0.22895707, u'shower_curtain', 0.19708951, u'hook', 0.085799314, u'washbasin', 0.079527609, u'plate_rack', 0.030890875]
+[u'rain_barrel', 0.083299063, u'crutch', 0.063335486, u'shovel', 0.059219893, u'pay-phone', 0.058668997, u'picket_fence', 0.054286685]
+[u'bathtub', 0.37887773, u'medicine_chest', 0.2420003, u'tub', 0.18844108, u'washbasin', 0.047725767, u'shower_curtain', 0.02121572]
+[u'switch', 0.38969472, u'bathtub', 0.26769102, u'washbasin', 0.14309309, u'tub', 0.035300437, u'hook', 0.020545937]

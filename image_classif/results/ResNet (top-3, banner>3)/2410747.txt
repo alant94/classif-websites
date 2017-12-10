@@ -1,0 +1,1 @@
+[u'loudspeaker', 0.48339725, u'electric_fan', 0.10561745, u'microphone', 0.049929705]

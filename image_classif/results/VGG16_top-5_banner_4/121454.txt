@@ -1,0 +1,4 @@
+[u'cassette', 0.4708862, u'cassette_player', 0.35625669, u'tape_player', 0.13348292, u'switch', 0.013027823, u'radio', 0.0060881432]
+[u'envelope', 0.21761976, u'web_site', 0.087234221, u'analog_clock', 0.038275536, u'scale', 0.02110569, u'binder', 0.016662238]
+[u'scale', 0.11122984, u'binder', 0.052057829, u'web_site', 0.051656161, u'scoreboard', 0.04554249, u'spotlight', 0.031348411]
+[u'envelope', 0.26865903, u'electric_fan', 0.085230015, u'web_site', 0.04312443, u'plate_rack', 0.042979211, u'scale', 0.041995913]

@@ -1,0 +1,5 @@
+[u'abaya', 0.49886373, u'cloak', 0.051857665, u'hair_spray', 0.050425511, u'academic_gown', 0.027309796, u'sunglasses', 0.02536745]
+[u'lakeside', 0.44094795, u'castle', 0.14423223, u'steel_arch_bridge', 0.064523339, u'promontory', 0.059726771, u'valley', 0.043163043]
+[u'acoustic_guitar', 0.25519297, u'harmonica', 0.12019233, u'electric_guitar', 0.048118234, u'abaya', 0.047246847, u'sunglass', 0.029885355]
+[u'bath_towel', 0.14386462, u'quill', 0.089733653, u'wool', 0.087221272, u'packet', 0.084291421, u'book_jacket', 0.060607545]
+[u'screwdriver', 0.088706762, u'tripod', 0.052534092, u'fountain_pen', 0.042379096, u'screw', 0.04101098, u'lipstick', 0.03485569]

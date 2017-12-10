@@ -1,0 +1,7 @@
+[u'comic_book', 0.46873391, u'book_jacket', 0.18407632, u'scoreboard', 0.13969441]
+[u'alligator_lizard', 0.11855142, u'common_newt', 0.10184593, u'barracouta', 0.08151938]
+[u'fountain', 0.43074733, u'starfish', 0.10529173, u'loggerhead', 0.10328417]
+[u'wall_clock', 0.16202326, u'lighter', 0.099225111, u'toilet_seat', 0.063930914]
+[u'goose', 0.44569901, u'peacock', 0.28649244, u'prairie_chicken', 0.085618205]
+[u'book_jacket', 0.52468336, u'comic_book', 0.28156254, u'web_site', 0.13877715]
+[u'frilled_lizard', 0.099642888, u'puffer', 0.08808478, u'chain_mail', 0.083011314]

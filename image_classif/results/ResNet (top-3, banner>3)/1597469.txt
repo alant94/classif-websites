@@ -1,0 +1,2 @@
+[u'prayer_rug', 0.15558523, u'picket_fence', 0.15415819, u'crossword_puzzle', 0.064678505]
+[u'analog_clock', 0.053525954, u'matchstick', 0.052619755, u'table_lamp', 0.045614514]

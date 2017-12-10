@@ -1,0 +1,6 @@
+[u'envelope', 0.14966008, u'web_site', 0.090168953, u'cleaver', 0.029908817]
+[u'web_site', 0.77955157, u'comic_book', 0.032421786, u'envelope', 0.021180356]
+[u'web_site', 0.35119691, u'screen', 0.21513346, u'notebook', 0.029876258]
+[u'comic_book', 0.21761228, u'book_jacket', 0.21200968, u'web_site', 0.1237432]
+[u'ashcan', 0.15052439, u'street_sign', 0.11570712, u'laptop', 0.085134946]
+[u'web_site', 0.094776869, u'plunger', 0.076865375, u'envelope', 0.06011368]

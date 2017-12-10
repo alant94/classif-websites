@@ -1,0 +1,2 @@
+[u'cliff', 0.60359025, u'cliff_dwelling', 0.28567624, u'seashore', 0.036222771, u'valley', 0.026218265, u'promontory', 0.025170518]
+[u'envelope', 0.40724209, u'cash_machine', 0.19245984, u'web_site', 0.032689087, u'monitor', 0.025989536, u'digital_clock', 0.019655114]

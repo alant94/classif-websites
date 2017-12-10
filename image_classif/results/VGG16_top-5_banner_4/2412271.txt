@@ -1,0 +1,1 @@
+[u'scoreboard', 0.21564399, u'street_sign', 0.1577695, u'mountain_bike', 0.033980086, u'gas_pump', 0.02711688, u'pay-phone', 0.026544845]

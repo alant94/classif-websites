@@ -1,0 +1,8 @@
+[u'street_sign', 0.32848331, u'Band_Aid', 0.057724722, u'oil_filter', 0.035976473, u'hair_spray', 0.031292126, u'digital_clock', 0.029240035]
+[u'screwdriver', 0.45213279, u'whistle', 0.10178, u'safety_pin', 0.10067561, u'rubber_eraser', 0.067272604, u'ballpoint', 0.064378157]
+[u'moving_van', 0.61689454, u'garbage_truck', 0.2410804, u'trailer_truck', 0.1077691, u'tow_truck', 0.013449475, u'crane', 0.010058485]
+[u'envelope', 0.39026994, u'web_site', 0.16650929, u'binder', 0.040706441, u'Band_Aid', 0.036038794, u'Windsor_tie', 0.014299045]
+[u'moving_van', 0.95507956, u'garbage_truck', 0.035181429, u'mobile_home', 0.0027475168, u'trailer_truck', 0.0023366555, u'carton', 0.0010964058]
+[u'web_site', 0.13145496, u'envelope', 0.11661612, u'Band_Aid', 0.046456903, u'dishwasher', 0.044802479, u'screwdriver', 0.044730436]
+[u'digital_clock', 0.43057683, u'digital_watch', 0.22458869, u'crossword_puzzle', 0.071046904, u'scoreboard', 0.021672225, u'wall_clock', 0.020684466]
+[u'barbershop', 0.19144483, u'cinema', 0.081135467, u'bakery', 0.068838589, u'restaurant', 0.049892601, u'bookshop', 0.043383315]

@@ -1,0 +1,8 @@
+[u'feather_boa', 0.55569935, u'bakery', 0.27713159, u'candle', 0.038412903]
+[u'window_screen', 0.42620024, u'electric_fan', 0.18405758, u'chainlink_fence', 0.091969088]
+[u'barber_chair', 0.31074074, u'web_site', 0.20861509, u'neck_brace', 0.054184537]
+[u'bakery', 0.9656961, u'candle', 0.014996842, u'pot', 0.0030754288]
+[u'altar', 0.75676239, u'four-poster', 0.040838107, u'trifle', 0.027861658]
+[u'chainlink_fence', 0.24063455, u'electric_fan', 0.16025269, u'window_screen', 0.097291924]
+[u'chainlink_fence', 0.32801861, u'electric_fan', 0.21965726, u'window_screen', 0.09674561]
+[u'window_screen', 0.32791185, u'electric_fan', 0.1915504, u'chainlink_fence', 0.14296038]

@@ -1,0 +1,3 @@
+[u'analog_clock', 0.28217, u'book_jacket', 0.19425136, u'digital_clock', 0.15921806]
+[u'Persian_cat', 0.25317207, u'quill', 0.095193245, u'shower_curtain', 0.070600115]
+[u'analog_clock', 0.32403046, u'traffic_light', 0.13819525, u'digital_clock', 0.13395825]

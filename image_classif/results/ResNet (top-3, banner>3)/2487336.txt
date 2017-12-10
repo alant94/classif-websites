@@ -1,0 +1,3 @@
+[u'solar_dish', 0.13749079, u'window_shade', 0.089127041, u'desktop_computer', 0.083791897]
+[u'wardrobe', 0.16247797, u'envelope', 0.049275674, u'web_site', 0.043664217]
+[u'bib', 0.74897778, u'doormat', 0.04123269, u'bulletproof_vest', 0.023530362]

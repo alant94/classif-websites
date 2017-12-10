@@ -1,0 +1,3 @@
+[u'Petri_dish', 0.13138211, u'binder', 0.093729764, u'magnetic_compass', 0.091915108, u'spotlight', 0.087538965, u'grille', 0.083425656]
+[u'street_sign', 0.86454779, u'scoreboard', 0.09838447, u'barbershop', 0.0080760811, u'traffic_light', 0.0070529296, u'chainlink_fence', 0.0044900505]
+[u'digital_clock', 0.1923842, u'analog_clock', 0.1133107, u'wall_clock', 0.10662747, u'digital_watch', 0.085351862, u'crossword_puzzle', 0.040724862]

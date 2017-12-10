@@ -1,0 +1,2 @@
+[u'tub', 0.055275626, u'spatula', 0.039591473, u'bathtub', 0.034620356, u'shower_cap', 0.031913798, u'hand_blower', 0.031326395]
+[u'bath_towel', 0.12833546, u'diaper', 0.11627955, u'hand_blower', 0.05137077, u'shower_cap', 0.051122881, u'tub', 0.050937854]

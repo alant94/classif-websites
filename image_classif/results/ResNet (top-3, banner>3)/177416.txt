@@ -1,0 +1,2 @@
+[u'fountain', 0.59931272, u'traffic_light', 0.074263684, u'obelisk', 0.048304718]
+[u'geyser', 0.69856095, u'alp', 0.03324572, u'planetarium', 0.02552071]

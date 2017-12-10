@@ -1,0 +1,1 @@
+[u'street_sign', 0.18487531, u'modem', 0.07370387, u'Band_Aid', 0.061096013, u'airship', 0.060050886, u'rubber_eraser', 0.049800433]

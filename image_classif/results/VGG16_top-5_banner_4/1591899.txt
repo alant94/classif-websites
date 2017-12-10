@@ -1,0 +1,2 @@
+[u'maze', 0.3750954, u'prayer_rug', 0.056983076, u'digital_clock', 0.036656797, u'balloon', 0.031928703, u'analog_clock', 0.018324876]
+[u'Band_Aid', 0.24156156, u'rubber_eraser', 0.14223224, u'parachute', 0.090156041, u'whistle', 0.054275777, u'face_powder', 0.029376039]

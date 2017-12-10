@@ -1,0 +1,1 @@
+[u'fountain', 0.33606941, u'oscilloscope', 0.16775267, u'stove', 0.11025435, u'theater_curtain', 0.062556311, u'digital_clock', 0.049960647]

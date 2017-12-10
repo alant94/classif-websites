@@ -1,0 +1,3 @@
+[u'digital_clock', 0.17081204, u'neck_brace', 0.082625739, u'digital_watch', 0.060603242, u'mouse', 0.043263957, u'knee_pad', 0.03971995]
+[u'envelope', 0.13228238, u'velvet', 0.05119095, u'wall_clock', 0.024118582, u'book_jacket', 0.02251723, u'nematode', 0.01674697]
+[u'stone_wall', 0.064057477, u'cliff', 0.063223213, u'head_cabbage', 0.053292852, u'suit', 0.049613584, u'lakeside', 0.045853436]

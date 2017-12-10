@@ -1,0 +1,3 @@
+[u'megalith', 0.6792028, u'worm_fence', 0.037859756, u'promontory', 0.032659411, u'cliff', 0.025392832, u'stone_wall', 0.015391129]
+[u'binder', 0.17548853, u'fire_screen', 0.057486005, u'traffic_light', 0.053829364, u'sewing_machine', 0.030984843, u'rifle', 0.030314485]
+[u'whistle', 0.12511128, u'hook', 0.082491353, u'ocarina', 0.067450389, u'stethoscope', 0.032999355, u'hair_slide', 0.031892378]

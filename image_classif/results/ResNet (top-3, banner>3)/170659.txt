@@ -1,0 +1,7 @@
+[u'marimba', 0.15692817, u'sax', 0.11945686, u'grand_piano', 0.074975595]
+[u'slide_rule', 0.096026435, u'hard_disc', 0.068598695, u'cassette', 0.05584643]
+[u'prayer_rug', 0.56087494, u"carpenter's_kit", 0.056255136, u'jigsaw_puzzle', 0.045224134]
+[u'trombone', 0.98820347, u'cornet', 0.0081165778, u'French_horn', 0.00065018405]
+[u'web_site', 0.42959633, u'oscilloscope', 0.20864139, u'screen', 0.069822028]
+[u'radio', 0.26991668, u'cassette_player', 0.090709887, u'tape_player', 0.065271422]
+[u'drumstick', 0.40051824, u'drum', 0.22188418, u'maraca', 0.15403642]

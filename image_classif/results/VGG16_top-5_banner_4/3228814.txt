@@ -1,0 +1,7 @@
+[u'church', 0.79228932, u'monastery', 0.066376045, u'bell_cote', 0.034671377, u'beacon', 0.027420519, u'barn', 0.019355623]
+[u'parachute', 0.090097174, u'flagpole', 0.042462766, u'airship', 0.038938593, u'wing', 0.031210823, u'kite', 0.025379991]
+[u'plate', 0.24062382, u'hotdog', 0.1971896, u'menu', 0.097933434, u'guacamole', 0.050496787, u'mortar', 0.037006918]
+[u'container_ship', 0.51968318, u'scoreboard', 0.13635619, u'apiary', 0.03639397, u'maze', 0.022083448, u'library', 0.01989807]
+[u'lakeside', 0.22669934, u'seashore', 0.2058797, u'web_site', 0.10391046, u'fountain', 0.06701903, u'sea_urchin', 0.033538338]
+[u'theater_curtain', 0.12017107, u'home_theater', 0.11088075, u'sliding_door', 0.066496231, u'window_shade', 0.055181012, u'television', 0.043472528]
+[u'container_ship', 0.99375349, u'crane', 0.00094378437, u'liner', 0.00081006484, u'library', 0.00066273194, u'dock', 0.00053143693]

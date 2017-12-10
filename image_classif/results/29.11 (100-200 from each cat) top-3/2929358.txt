@@ -1,0 +1,5 @@
+[u'web_site', 0.26338047, u'shower_curtain', 0.10236273, u'medicine_chest', 0.094197422]
+[u'web_site', 0.29631892, u'hard_disc', 0.060215022, u'printer', 0.046662364]
+[u'digital_clock', 0.13780452, u'web_site', 0.10482395, u'quilt', 0.10364561]
+[u'rule', 0.39868051, u'crossword_puzzle', 0.12014409, u'syringe', 0.065391265]
+[u'nail', 0.15854426, u'bow', 0.14318712, u'chime', 0.088236138]

@@ -1,0 +1,1 @@
+[u'dam', 0.17226996, u'beacon', 0.069666177, u'fireboat', 0.059842661, u'spotlight', 0.052031688, u'fountain', 0.044450153]

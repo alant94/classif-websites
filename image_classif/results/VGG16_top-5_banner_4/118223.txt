@@ -1,0 +1,2 @@
+[u'toyshop', 0.47377461, u'confectionery', 0.18891464, u'fountain', 0.06093033, u'altar', 0.052926637, u'church', 0.026529791]
+[u'slot', 0.33648536, u'mousetrap', 0.13162939, u'hamper', 0.061115239, u'pencil_sharpener', 0.034545787, u'packet', 0.03360872]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.40164891, u'cassette', 0.07511282, u'television', 0.047959141, u'gasmask', 0.03606648, u'bulletproof_vest', 0.033045307]
+[u'book_jacket', 0.55893743, u'plane', 0.055213038, u'mousetrap', 0.045470744, u'wreck', 0.028999241, u'street_sign', 0.026766269]
+[u'web_site', 0.55811977, u'comic_book', 0.27904245, u'book_jacket', 0.11765308, u'envelope', 0.014487904, u'packet', 0.010869428]
+[u'streetcar', 0.42109111, u'gondola', 0.26861894, u'palace', 0.10127614, u'prison', 0.063778929, u'book_jacket', 0.012828519]
+[u'book_jacket', 0.32928088, u'comic_book', 0.32526687, u'packet', 0.10368499, u'web_site', 0.030184498, u'carton', 0.023705691]
+[u'web_site', 0.3353498, u'book_jacket', 0.24234682, u'cash_machine', 0.15165807, u'comic_book', 0.043843035, u'cassette', 0.038203064]
+[u'book_jacket', 0.46113893, u'comic_book', 0.11983183, u'web_site', 0.069916993, u'street_sign', 0.028704658, u'bookshop', 0.02734106]
+[u'ski', 0.3041085, u'wardrobe', 0.083342254, u'book_jacket', 0.079507686, u'comic_book', 0.071804553, u'packet', 0.053516407]

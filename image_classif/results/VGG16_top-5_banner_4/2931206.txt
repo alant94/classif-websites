@@ -1,0 +1,4 @@
+[u'nail', 0.43271962, u'trilobite', 0.079895757, u'hook', 0.076379038, u'screw', 0.073378019, u'centipede', 0.070816331]
+[u'whistle', 0.14315565, u'lighter', 0.11612396, u'pinwheel', 0.092280179, u'hair_slide', 0.079939872, u'safety_pin', 0.067194894]
+[u'nematode', 0.074241914, u'web_site', 0.061416458, u'matchstick', 0.030266991, u'envelope', 0.022760648, u'lighter', 0.016656147]
+[u'suit', 0.80773103, u'Windsor_tie', 0.17515334, u'groom', 0.0030760483, u'bow_tie', 0.0024024353, u'cardigan', 0.00090403919]

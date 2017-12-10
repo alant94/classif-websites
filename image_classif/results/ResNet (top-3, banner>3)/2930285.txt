@@ -1,0 +1,7 @@
+[u'slot', 0.66215611, u'maraca', 0.040860891, u'web_site', 0.031889196]
+[u'Airedale', 0.26562241, u'bloodhound', 0.2051336, u'Great_Dane', 0.087441318]
+[u'lighter', 0.32790667, u'Band_Aid', 0.075255543, u'sunscreen', 0.053539451]
+[u'medicine_chest', 0.11806517, u'lighter', 0.093758442, u'shield', 0.052348796]
+[u'lab_coat', 0.96758658, u'stethoscope', 0.0043798503, u'Windsor_tie', 0.0023010946]
+[u'book_jacket', 0.10599943, u'jersey', 0.064690657, u'street_sign', 0.055958971]
+[u'digital_clock', 0.59314609, u'street_sign', 0.067446202, u'traffic_light', 0.063033968]

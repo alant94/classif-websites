@@ -1,0 +1,3 @@
+[u'sunglasses', 0.54227722, u'sunglass', 0.20279776, u'seat_belt', 0.098912016, u'neck_brace', 0.089015499, u'wig', 0.01691775]
+[u'diaper', 0.78499681, u'bath_towel', 0.029413063, u'tub', 0.023318809, u'shower_cap', 0.021302171, u'miniskirt', 0.020657506]
+[u'fireboat', 0.93066627, u'fountain', 0.032581236, u'paddlewheel', 0.010004465, u'mosquito_net', 0.0014092949, u'pier', 0.0012666641]

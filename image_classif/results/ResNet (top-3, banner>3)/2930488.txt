@@ -1,0 +1,2 @@
+[u'stretcher', 0.52247745, u'dining_table', 0.13534538, u'studio_couch', 0.094030015]
+[u'medicine_chest', 0.93669003, u'sliding_door', 0.008826022, u'toilet_seat', 0.0080678444]

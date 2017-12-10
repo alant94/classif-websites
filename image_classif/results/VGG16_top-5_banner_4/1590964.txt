@@ -1,0 +1,4 @@
+[u'window_shade', 0.18446353, u'sliding_door', 0.086094089, u'bannister', 0.048900232, u'gown', 0.04404521, u'abaya', 0.040055458]
+[u'swimming_trunks', 0.32172558, u'sarong', 0.070665337, u'poncho', 0.061224349, u'fur_coat', 0.059927382, u'bathing_cap', 0.049997151]
+[u'swimming_trunks', 0.12918805, u'Band_Aid', 0.086150706, u'sunscreen', 0.057968698, u'bikini', 0.042504359, u'lotion', 0.036182389]
+[u'bathtub', 0.13365228, u'brassiere', 0.11766371, u'Band_Aid', 0.090063997, u'bikini', 0.08456967, u'tub', 0.067798764]

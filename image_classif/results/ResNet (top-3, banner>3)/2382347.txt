@@ -1,0 +1,6 @@
+[u'cardigan', 0.62202585, u'sarong', 0.034601938, u'jean', 0.032708477]
+[u'dung_beetle', 0.35236606, u'tailed_frog', 0.1934897, u'sea_cucumber', 0.066405043]
+[u'fountain', 0.11944962, u'birdhouse', 0.053126071, u'spider_web', 0.051712785]
+[u'prison', 0.70437372, u'palace', 0.062494487, u'mobile_home', 0.055751987]
+[u'cardigan', 0.26229423, u'jackfruit', 0.24894981, u'swab', 0.043331288]
+[u'fountain', 0.15878229, u'rapeseed', 0.13678023, u'chainlink_fence', 0.051732685]

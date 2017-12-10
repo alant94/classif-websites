@@ -1,0 +1,2 @@
+[u'book_jacket', 0.12234027, u'web_site', 0.066001937, u'perfume', 0.042662524, u'drumstick', 0.041312333, u'hair_spray', 0.041115496]
+[u'military_uniform', 0.21069756, u'pickelhaube', 0.11527116, u'bow_tie', 0.1092727, u'suit', 0.091689147, u'mortarboard', 0.065030448]

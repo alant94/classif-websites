@@ -1,0 +1,8 @@
+[u'dining_table', 0.75804102, u'restaurant', 0.078344867, u'rocking_chair', 0.04319169, u'china_cabinet', 0.026144147, u'barber_chair', 0.0088196574]
+[u'gas_pump', 0.1429006, u'mobile_home', 0.099667549, u'boathouse', 0.065849535, u'mailbox', 0.048319992, u'sliding_door', 0.042116176]
+[u'envelope', 0.076762795, u'harvestman', 0.040276583, u'book_jacket', 0.036223385, u'cassette', 0.030931011, u'web_site', 0.029986328]
+[u'seashore', 0.30165052, u'rapeseed', 0.10001504, u'lakeside', 0.068645187, u'sandbar', 0.056575768, u'pole', 0.044377998]
+[u'garbage_truck', 0.50391424, u'moving_van', 0.13836974, u'police_van', 0.091793239, u'minibus', 0.08929538, u'forklift', 0.042067911]
+[u'pinwheel', 0.92885619, u'book_jacket', 0.015892984, u'comic_book', 0.0079540368, u'web_site', 0.0057823705, u'hair_slide', 0.0049019335]
+[u'binder', 0.14578654, u'hair_spray', 0.065569073, u'web_site', 0.030053167, u'digital_clock', 0.02420784, u'ballpoint', 0.022174783]
+[u'mosque', 0.25654358, u'church', 0.13617535, u'monastery', 0.1066911, u'palace', 0.071534976, u'picket_fence', 0.034699239]

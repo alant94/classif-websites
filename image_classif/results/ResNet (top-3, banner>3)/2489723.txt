@@ -1,0 +1,5 @@
+[u'book_jacket', 0.24132776, u'comic_book', 0.18703702, u'street_sign', 0.099798463]
+[u'web_site', 0.49043477, u'chain_saw', 0.058949824, u'television', 0.028740099]
+[u'nematode', 0.095118828, u'isopod', 0.0949426, u'chambered_nautilus', 0.067628734]
+[u'ibex', 0.90133184, u'hartebeest', 0.052482873, u'window_screen', 0.01121226]
+[u'water_buffalo', 0.15712994, u'Indian_elephant', 0.14717683, u'American_black_bear', 0.10156592]

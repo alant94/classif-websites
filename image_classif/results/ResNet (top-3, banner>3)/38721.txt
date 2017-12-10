@@ -1,0 +1,4 @@
+[u'lumbermill', 0.31192678, u'steam_locomotive', 0.22913451, u'passenger_car', 0.10099273]
+[u'photocopier', 0.27473214, u'printer', 0.19837396, u'file', 0.055030908]
+[u'picket_fence', 0.87158281, u'worm_fence', 0.1051992, u'crib', 0.007376147]
+[u'tobacco_shop', 0.23051597, u'library', 0.1998011, u'lumbermill', 0.087796822]

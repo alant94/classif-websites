@@ -1,0 +1,2 @@
+[u'web_site', 0.44047076, u'menu', 0.42519206, u'hand-held_computer', 0.020897521, u'crossword_puzzle', 0.011485704, u'screen', 0.010677584]
+[u'plane', 0.11332657, u'marimba', 0.10527813, u'ping-pong_ball', 0.065814458, u'maraca', 0.05927271, u'candle', 0.03450755]

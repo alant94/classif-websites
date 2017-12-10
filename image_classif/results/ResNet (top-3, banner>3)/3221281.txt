@@ -1,0 +1,3 @@
+[u'web_site', 0.16845483, u'jersey', 0.1206319, u'packet', 0.084711716]
+[u'macaw', 0.14182304, u'shower_curtain', 0.09296672, u'sulphur-crested_cockatoo', 0.087329693]
+[u'candle', 0.16841045, u'paintbrush', 0.081675701, u'combination_lock', 0.056359887]

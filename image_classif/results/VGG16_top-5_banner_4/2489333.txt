@@ -1,0 +1,7 @@
+[u'bison', 0.80960178, u'cliff', 0.07155481, u'water_buffalo', 0.023055622, u'bighorn', 0.021283956, u'Arabian_camel', 0.010211658]
+[u'book_jacket', 0.36213216, u'shield', 0.097284019, u'comic_book', 0.043697767, u'jersey', 0.031819936, u'pick', 0.02562727]
+[u'torch', 0.10648772, u'fountain', 0.10438754, u'obelisk', 0.092335366, u'picket_fence', 0.084069744, u'lampshade', 0.044964626]
+[u'street_sign', 0.27482161, u'scoreboard', 0.22909512, u'traffic_light', 0.10590155, u'digital_clock', 0.10049254, u'book_jacket', 0.041986778]
+[u'impala', 0.12400139, u'bison', 0.10809942, u'crane', 0.10004316, u'lakeside', 0.038087014, u'coyote', 0.037814751]
+[u'bison', 0.1006957, u'barn', 0.085528351, u'cliff', 0.062780038, u'worm_fence', 0.060683597, u'stone_wall', 0.050893359]
+[u'book_jacket', 0.053639375, u'pitcher', 0.04068308, u'coucal', 0.038413361, u'coffee_mug', 0.037881184, u'pineapple', 0.036218632]

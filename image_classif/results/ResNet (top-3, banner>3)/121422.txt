@@ -1,0 +1,4 @@
+[u'ocarina', 0.8364017, u'joystick', 0.047782678, u'switch', 0.025877412]
+[u'digital_clock', 0.76051015, u'analog_clock', 0.10392953, u'oscilloscope', 0.04263657]
+[u'analog_clock', 0.47462824, u'ping-pong_ball', 0.080786467, u'rock_beauty', 0.038029108]
+[u'cassette', 0.80541009, u'tape_player', 0.13137217, u'switch', 0.027684428]

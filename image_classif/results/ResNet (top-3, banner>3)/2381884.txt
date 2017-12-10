@@ -1,0 +1,3 @@
+[u'neck_brace', 0.066804133, u'vestment', 0.064188927, u'paintbrush', 0.054917868]
+[u'web_site', 0.86789292, u'menu', 0.029094473, u'hand-held_computer', 0.01847079]
+[u'vestment', 0.1711383, u'wig', 0.1007021, u'breastplate', 0.076328941]

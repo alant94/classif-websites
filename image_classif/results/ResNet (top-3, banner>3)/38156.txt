@@ -1,0 +1,8 @@
+[u'ambulance', 0.33644, u'digital_clock', 0.13886292, u'prayer_rug', 0.098238572]
+[u'digital_clock', 0.2019266, u'street_sign', 0.090032674, u'traffic_light', 0.058392078]
+[u'tennis_ball', 0.57292622, u'web_site', 0.17519549, u'book_jacket', 0.024402434]
+[u'street_sign', 0.23220253, u'scoreboard', 0.17235704, u'book_jacket', 0.039371639]
+[u'medicine_chest', 0.14639625, u'tobacco_shop', 0.098197624, u'library', 0.075462036]
+[u'seashore', 0.21177034, u'torch', 0.15718701, u'volleyball', 0.090021148]
+[u'web_site', 0.14016795, u'Band_Aid', 0.080144808, u'envelope', 0.045864705]
+[u'airship', 0.14508899, u'solar_dish', 0.078114234, u'moving_van', 0.056070633]

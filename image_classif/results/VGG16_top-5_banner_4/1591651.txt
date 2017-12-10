@@ -1,0 +1,4 @@
+[u'web_site', 0.24133828, u'monitor', 0.19389303, u'desktop_computer', 0.066800907, u'screen', 0.053366039, u'notebook', 0.052329004]
+[u'container_ship', 0.24890676, u'picket_fence', 0.10764355, u'switch', 0.057468865, u'maze', 0.055528201, u'matchstick', 0.034613565]
+[u'scoreboard', 0.60670865, u'book_jacket', 0.054506719, u'crossword_puzzle', 0.051731527, u'street_sign', 0.037337031, u'comic_book', 0.0080443928]
+[u'crossword_puzzle', 0.14153516, u'jigsaw_puzzle', 0.050620377, u'digital_clock', 0.047632672, u'quilt', 0.046511669, u'Windsor_tie', 0.043063816]

@@ -1,0 +1,8 @@
+[u'window_shade', 0.38552481, u'sliding_door', 0.21691585, u'shoji', 0.13112319, u'wardrobe', 0.11553034, u'window_screen', 0.067439102]
+[u'window_shade', 0.75192165, u'sliding_door', 0.074769236, u'shoji', 0.065140791, u'window_screen', 0.050595738, u'wardrobe', 0.014207243]
+[u'window_shade', 0.54777086, u'sliding_door', 0.069836117, u'wardrobe', 0.068393335, u'window_screen', 0.041553549, u'shoji', 0.027729999]
+[u'window_shade', 0.18568037, u'sock', 0.1133768, u'mitten', 0.046983272, u'picket_fence', 0.039190833, u'digital_watch', 0.03462217]
+[u'monitor', 0.32774869, u'screen', 0.25411448, u'television', 0.23834766, u'desktop_computer', 0.082374208, u'home_theater', 0.020563133]
+[u'digital_watch', 0.081639454, u'bannister', 0.053873025, u'Windsor_tie', 0.035169881, u'killer_whale', 0.034061253, u'picket_fence', 0.032549538]
+[u'window_shade', 0.45613927, u'upright', 0.10192121, u'bannister', 0.045599941, u'passenger_car', 0.034870651, u'bullet_train', 0.034216546]
+[u'window_shade', 0.6985482, u'radiator', 0.068077937, u'window_screen', 0.037343692, u'sliding_door', 0.035841689, u'passenger_car', 0.017615426]

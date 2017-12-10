@@ -1,0 +1,2 @@
+[u'tripod', 0.17885141, u'crossword_puzzle', 0.12863757, u'menu', 0.076498762]
+[u'conch', 0.19631127, u'pencil_sharpener', 0.14051023, u'mortar', 0.13736774]

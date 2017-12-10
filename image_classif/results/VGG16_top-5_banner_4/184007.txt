@@ -1,0 +1,6 @@
+[u'digital_clock', 0.61271596, u'Windsor_tie', 0.047349595, u'maze', 0.034205168, u'scoreboard', 0.027335808, u'Band_Aid', 0.016357355]
+[u'crossword_puzzle', 0.055571135, u'envelope', 0.050635334, u'matchstick', 0.045589667, u'digital_clock', 0.028621081, u'Windsor_tie', 0.024120349]
+[u'digital_clock', 0.66955924, u'digital_watch', 0.028264992, u'Band_Aid', 0.026692677, u'web_site', 0.02499692, u'analog_clock', 0.022721166]
+[u'abaya', 0.18434195, u'cloak', 0.13929406, u'book_jacket', 0.066241756, u'stole', 0.047952775, u'bell_cote', 0.026911952]
+[u'lab_coat', 0.16419801, u'Windsor_tie', 0.040562846, u'barracouta', 0.037821386, u'gar', 0.033012461, u'sturgeon', 0.027707439]
+[u'paper_towel', 0.21134682, u'envelope', 0.11444564, u'pencil_sharpener', 0.10991991, u'toilet_tissue', 0.090182379, u'binder', 0.088225633]

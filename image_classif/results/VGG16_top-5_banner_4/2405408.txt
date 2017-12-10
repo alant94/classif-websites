@@ -1,0 +1,6 @@
+[u'totem_pole', 0.4808065, u'hook', 0.057215873, u'clog', 0.046574239, u'throne', 0.041738667, u'pole', 0.037847076]
+[u'pill_bottle', 0.85829026, u'balloon', 0.093469955, u'hair_slide', 0.011912975, u'maraca', 0.0039853151, u'bubble', 0.003836286]
+[u'sunscreen', 0.21942854, u'lotion', 0.20263846, u'hair_spray', 0.14820908, u'binder', 0.14560619, u'ballpoint', 0.081170298]
+[u'abacus', 0.43029934, u'croquet_ball', 0.42183658, u'slot', 0.064133584, u'rubber_eraser', 0.011815995, u'lipstick', 0.010305426]
+[u'shield', 0.47267753, u'ocarina', 0.26038244, u'clog', 0.076537617, u'buckle', 0.02945623, u'mask', 0.019410055]
+[u'pill_bottle', 0.68714285, u'ladybug', 0.042410199, u'lemon', 0.027545489, u'acorn_squash', 0.025956968, u'parachute', 0.021600567]

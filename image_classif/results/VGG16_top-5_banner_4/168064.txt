@@ -1,0 +1,2 @@
+[u'iPod', 0.34716403, u'loudspeaker', 0.25195616, u'radio', 0.066545099, u'screen', 0.050202765, u'monitor', 0.039152768]
+[u'paintbrush', 0.23391445, u'wreck', 0.15486063, u'fountain', 0.11184445, u'scuba_diver', 0.04547945, u'beer_bottle', 0.036318075]

@@ -1,0 +1,2 @@
+[u'Granny_Smith', 0.53242332, u'crash_helmet', 0.096873216, u'television', 0.04557471]
+[u'projectile', 0.45000756, u'missile', 0.40942055, u'trailer_truck', 0.053880353]

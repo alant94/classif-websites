@@ -1,0 +1,4 @@
+[u'book_jacket', 0.37948704, u'carton', 0.20394664, u'menu', 0.19114718, u'packet', 0.020995403, u'ashcan', 0.017705861]
+[u'parachute', 0.038404539, u'space_shuttle', 0.030374104, u'kite', 0.027495019, u'airship', 0.024333941, u'wing', 0.024194054]
+[u'Gordon_setter', 0.29157266, u'Scottish_deerhound', 0.20749612, u'English_setter', 0.087508507, u'standard_schnauzer', 0.03471956, u'Irish_wolfhound', 0.029874612]
+[u'packet', 0.83415198, u'matchstick', 0.029682545, u'book_jacket', 0.026176849, u'panpipe', 0.022142375, u'crate', 0.020000745]

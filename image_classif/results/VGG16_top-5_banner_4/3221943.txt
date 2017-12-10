@@ -1,0 +1,3 @@
+[u'bell_cote', 0.35905349, u'aircraft_carrier', 0.13483538, u'drilling_platform', 0.068703465, u'crane', 0.036857314, u'analog_clock', 0.028009139]
+[u'hook', 0.11955729, u'pick', 0.092709437, u'punching_bag', 0.084380589, u"jack-o'-lantern", 0.059058968, u'mask', 0.054226365]
+[u'French_horn', 0.23846678, u'cornet', 0.12863018, u'gong', 0.057335768, u'wall_clock', 0.051744238, u'analog_clock', 0.042932842]

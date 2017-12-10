@@ -1,0 +1,7 @@
+[u'castle', 0.09743882, u'cab', 0.083181933, u'traffic_light', 0.057743996, u'street_sign', 0.055224646, u'chainlink_fence', 0.052905984]
+[u'stage', 0.4342947, u'fountain', 0.058891091, u'dock', 0.039515596, u'wreck', 0.035608478, u'spotlight', 0.032002445]
+[u'scoreboard', 0.67218143, u'street_sign', 0.21828614, u'container_ship', 0.043986123, u'traffic_light', 0.0072915177, u'chainlink_fence', 0.0065762112]
+[u'hatchet', 0.054783493, u'envelope', 0.029262381, u'web_site', 0.026995111, u'hook', 0.023441046, u'cleaver', 0.02147473]
+[u'envelope', 0.3694748, u'analog_clock', 0.065334082, u'binder', 0.058994677, u'jersey', 0.037529066, u'wall_clock', 0.023809357]
+[u'stage', 0.27178115, u'steel_arch_bridge', 0.12600845, u'picket_fence', 0.059088919, u'crane', 0.052027017, u'barn', 0.050288748]
+[u'digital_clock', 0.19990337, u'analog_clock', 0.07487756, u'stopwatch', 0.04182465, u'matchstick', 0.041479126, u'syringe', 0.028910106]

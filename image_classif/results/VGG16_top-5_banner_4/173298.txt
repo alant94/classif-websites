@@ -1,0 +1,3 @@
+[u'coral_reef', 0.32243529, u'jigsaw_puzzle', 0.30348486, u'altar', 0.073235758, u'comic_book', 0.041484684, u'goldfish', 0.040050663]
+[u'cleaver', 0.13060683, u'screwdriver', 0.10522785, u"carpenter's_kit", 0.098864578, u'hook', 0.077540547, u'plate_rack', 0.053607579]
+[u'suspension_bridge', 0.25648063, u'harp', 0.20397954, u'torch', 0.091679342, u'ballplayer', 0.065945886, u'abaya', 0.026341602]

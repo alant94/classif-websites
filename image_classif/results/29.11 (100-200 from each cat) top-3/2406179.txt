@@ -1,0 +1,4 @@
+[u'scoreboard', 0.95250654, u'abacus', 0.015713211, u'jigsaw_puzzle', 0.012507657]
+[u'crossword_puzzle', 0.36832893, u'menu', 0.30993196, u'comic_book', 0.075485677]
+[u'modem', 0.51271349, u'guillotine', 0.12473217, u'switch', 0.082408808]
+[u'flagpole', 0.40524793, u'pole', 0.1741167, u'chime', 0.15775217]

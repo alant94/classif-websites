@@ -1,0 +1,5 @@
+[u'wooden_spoon', 0.40732923, u'vault', 0.27775216, u'mosque', 0.049446274]
+[u'fountain', 0.19502914, u'viaduct', 0.16512933, u'barn', 0.14321451]
+[u'shower_curtain', 0.87758964, u'brain_coral', 0.048844356, u'chain_mail', 0.012432886]
+[u'window_screen', 0.73788875, u'fountain', 0.13153003, u'spider_web', 0.073750705]
+[u'oscilloscope', 0.96557051, u'digital_clock', 0.0034732535, u'crutch', 0.003330589]

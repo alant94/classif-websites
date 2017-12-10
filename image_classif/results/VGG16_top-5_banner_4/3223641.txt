@@ -1,0 +1,1 @@
+[u'menu', 0.67801642, u'spider_web', 0.094484963, u'book_jacket', 0.013239585, u'shower_curtain', 0.011690575, u'comic_book', 0.010890627]

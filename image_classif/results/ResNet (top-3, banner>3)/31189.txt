@@ -1,0 +1,2 @@
+[u'fountain', 0.25815573, u'paintbrush', 0.2302863, u'picket_fence', 0.12026407]
+[u'wine_bottle', 0.6929332, u'picket_fence', 0.091942638, u'beer_bottle', 0.083236277]

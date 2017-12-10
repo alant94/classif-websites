@@ -1,0 +1,4 @@
+[u'racer', 0.40492386, u'sports_car', 0.19073349, u'pickup', 0.061575662]
+[u'thresher', 0.3759948, u'tractor', 0.27838653, u'harvester', 0.095694646]
+[u'washbasin', 0.1560898, u'pay-phone', 0.14866762, u'safe', 0.063855037]
+[u'bow', 0.36746985, u'bolo_tie', 0.13083361, u'hook', 0.066844881]

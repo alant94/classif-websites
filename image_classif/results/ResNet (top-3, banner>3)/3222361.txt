@@ -1,0 +1,5 @@
+[u'paddle', 0.085475355, u'wooden_spoon', 0.060712948, u'cowboy_hat', 0.059860561]
+[u'barn', 0.53434169, u'web_site', 0.20674455, u'mobile_home', 0.084296755]
+[u'Band_Aid', 0.22145799, u'shield', 0.14337032, u'web_site', 0.063711382]
+[u'plunger', 0.2241659, u'web_site', 0.2239283, u'shower_curtain', 0.10106295]
+[u'oscilloscope', 0.20085512, u'web_site', 0.19305606, u'menu', 0.1222662]

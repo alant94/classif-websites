@@ -1,0 +1,7 @@
+[u'suit', 0.90428501, u'bow_tie', 0.031348668, u'Windsor_tie', 0.015637463, u'groom', 0.0065799109, u'jean', 0.006522377]
+[u'geyser', 0.23830552, u'sandbar', 0.13024734, u'fireboat', 0.12488061, u'dam', 0.080544822, u'lakeside', 0.047832083]
+[u'cinema', 0.7873559, u'bell_cote', 0.12571578, u'scoreboard', 0.018498426, u'library', 0.0094781416, u'flagpole', 0.0092311092]
+[u'Windsor_tie', 0.40911746, u'suit', 0.36940947, u'bow_tie', 0.095306031, u'lab_coat', 0.017213091, u'bassoon', 0.012937197]
+[u'poncho', 0.41550386, u'window_screen', 0.048170891, u'bookshop', 0.041090615, u'fur_coat', 0.034875464, u'window_shade', 0.033945214]
+[u'palace', 0.46500695, u'library', 0.13412561, u'boathouse', 0.054086085, u'prison', 0.038378518, u'patio', 0.035712224]
+[u'hook', 0.12749447, u'vacuum', 0.068348937, u'electric_guitar', 0.057287518, u'microphone', 0.036402531, u'analog_clock', 0.034953628]

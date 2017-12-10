@@ -1,0 +1,1 @@
+[u'web_site', 0.41675526, u'tripod', 0.028852724, u'comic_book', 0.020808075, u'microphone', 0.018336076, u'book_jacket', 0.012774486]

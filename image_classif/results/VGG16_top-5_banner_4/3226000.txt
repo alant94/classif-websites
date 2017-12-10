@@ -1,0 +1,2 @@
+[u'monastery', 0.60968667, u'church', 0.1438344, u'patio', 0.042930108, u'mosque', 0.039507147, u'flagpole', 0.020587131]
+[u'jigsaw_puzzle', 0.66477686, u'table_lamp', 0.066465169, u'umbrella', 0.029952083, u'yurt', 0.029730873, u'prayer_rug', 0.027821081]

@@ -1,0 +1,7 @@
+[u'jersey', 0.080044687, u'buckle', 0.07491605, u'comic_book', 0.071377516, u'coffee_mug', 0.045406498, u'pick', 0.044659801]
+[u'lumbermill', 0.4614611, u'bakery', 0.18503818, u"potter's_wheel", 0.078246385, u'grocery_store', 0.07254532, u'tobacco_shop', 0.04524504]
+[u'revolver', 0.028180279, u'crossword_puzzle', 0.028011167, u'Italian_greyhound', 0.021453857, u'screwdriver', 0.020686084, u'miniature_pinscher', 0.017685328]
+[u'whistle', 0.22098818, u'pencil_sharpener', 0.078447819, u'plane', 0.065893427, u'cradle', 0.059777331, u'violin', 0.041120008]
+[u'violin', 0.79298264, u'cello', 0.16061942, u'electric_guitar', 0.013001312, u'acoustic_guitar', 0.009047729, u'holster', 0.0025727588]
+[u'electric_guitar', 0.17066568, u'jigsaw_puzzle', 0.075343281, u'holster', 0.072584085, u'hook', 0.051067404, u'violin', 0.050526489]
+[u'chest', 0.52507639, u'crate', 0.15629424, u'cradle', 0.032917466, u'medicine_chest', 0.029696638, u'mousetrap', 0.027184352]

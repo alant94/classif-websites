@@ -1,0 +1,1 @@
+[u'sandal', 0.082878739, u'oxygen_mask', 0.045042302, u'loupe', 0.034548145, u'stethoscope', 0.032864332, u'toilet_tissue', 0.028486906]

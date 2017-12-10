@@ -1,0 +1,1 @@
+[u'syringe', 0.17554617, u'switch', 0.089092202, u'screwdriver', 0.083907835, u'medicine_chest', 0.060813513, u'wine_bottle', 0.053900864]

@@ -1,0 +1,3 @@
+[u'container_ship', 0.2307802, u'crane', 0.13138829, u'boathouse', 0.059089079, u'solar_dish', 0.046287287, u'radio_telescope', 0.035706662]
+[u'envelope', 0.42074159, u'web_site', 0.11407051, u'quill', 0.047665313, u'binder', 0.027067356, u'book_jacket', 0.0249824]
+[u'switch', 0.25391436, u'lighter', 0.062034134, u'analog_clock', 0.036236111, u'digital_clock', 0.025889816, u'hook', 0.025142869]

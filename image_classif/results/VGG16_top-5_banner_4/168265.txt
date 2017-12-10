@@ -1,0 +1,7 @@
+[u'book_jacket', 0.20438883, u'web_site', 0.10086866, u'seashore', 0.088223457, u'jigsaw_puzzle', 0.064293437, u'ice_bear', 0.038342338]
+[u'web_site', 0.59099507, u'television', 0.054115683, u'home_theater', 0.034787614, u'screen', 0.033554263, u'beacon', 0.028382253]
+[u'screen', 0.22521219, u'television', 0.20701566, u'scoreboard', 0.11001682, u'monitor', 0.062304556, u'home_theater', 0.047545083]
+[u'traffic_light', 0.69639462, u'spotlight', 0.028606905, u'joystick', 0.026841169, u'bubble', 0.024856931, u'loupe', 0.019525645]
+[u'stage', 0.19479752, u'spotlight', 0.11779643, u'bubble', 0.041156851, u'scuba_diver', 0.028739184, u'jellyfish', 0.02828978]
+[u'menu', 0.1249278, u'web_site', 0.092437059, u'crossword_puzzle', 0.06121349, u'book_jacket', 0.02483009, u'brass', 0.018445114]
+[u'bubble', 0.23421054, u'megalith', 0.19095336, u'fur_coat', 0.16972475, u'sturgeon', 0.11278278, u'barracouta', 0.056192249]

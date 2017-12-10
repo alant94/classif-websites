@@ -1,0 +1,5 @@
+[u'web_site', 0.10876007, u'book_jacket', 0.043934196, u'stretcher', 0.026166582, u'comic_book', 0.024392761, u'paddle', 0.022035468]
+[u'jigsaw_puzzle', 0.15268362, u'handkerchief', 0.13146119, u'jersey', 0.085710585, u'apron', 0.067022756, u'bib', 0.042780872]
+[u'neck_brace', 0.19345398, u'Band_Aid', 0.11255719, u'sunscreen', 0.092046708, u'knee_pad', 0.088366613, u'remote_control', 0.034605354]
+[u'envelope', 0.16882358, u'menu', 0.16796, u'web_site', 0.13158593, u'binder', 0.027649306, u'book_jacket', 0.010044768]
+[u'neck_brace', 0.15003419, u'knee_pad', 0.11809406, u'Band_Aid', 0.10838088, u'iPod', 0.043127652, u'sunscreen', 0.042989492]

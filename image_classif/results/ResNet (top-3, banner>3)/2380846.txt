@@ -1,0 +1,6 @@
+[u'book_jacket', 0.54932803, u'binder', 0.075694099, u'sliding_door', 0.060771473]
+[u'book_jacket', 0.24300249, u'binder', 0.24280189, u'monitor', 0.10397107]
+[u'worm_fence', 0.13364753, u'lakeside', 0.12114312, u'valley', 0.10587474]
+[u'agaric', 0.39747176, u'strawberry', 0.18402699, u'hip', 0.12145197]
+[u'barrel', 0.85056078, u'lumbermill', 0.091086864, u'barn', 0.012382952]
+[u'fire_screen', 0.18173884, u'book_jacket', 0.16208397, u'cleaver', 0.11570436]

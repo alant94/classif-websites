@@ -1,0 +1,3 @@
+[u'envelope', 0.16408175, u'bath_towel', 0.15447401, u'shower_cap', 0.10013562, u'handkerchief', 0.067604959, u'tray', 0.059634715]
+[u'book_jacket', 0.64340287, u'comic_book', 0.048008859, u'packet', 0.018873286, u'cassette', 0.016226804, u'web_site', 0.013190167]
+[u'brass', 0.37580749, u'book_jacket', 0.24763244, u'doormat', 0.05723938, u"carpenter's_kit", 0.032563977, u'jersey', 0.026583659]

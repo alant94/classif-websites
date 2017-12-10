@@ -1,0 +1,4 @@
+[u'window_shade', 0.19818582, u'wall_clock', 0.06985604, u'envelope', 0.057031207, u'shower_curtain', 0.049721897, u'web_site', 0.043758839]
+[u'envelope', 0.19085589, u'cash_machine', 0.092985265, u'screen', 0.076569997, u'digital_clock', 0.068129264, u'Band_Aid', 0.05398738]
+[u'envelope', 0.47586149, u'Band_Aid', 0.036564793, u'web_site', 0.034243766, u'binder', 0.025407331, u'analog_clock', 0.020113543]
+[u'wig', 0.17910773, u'hair_spray', 0.09698002, u'microphone', 0.07033129, u'suit', 0.047302343, u'hand_blower', 0.033717338]

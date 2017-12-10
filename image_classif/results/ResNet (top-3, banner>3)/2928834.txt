@@ -1,0 +1,5 @@
+[u'borzoi', 0.48931819, u'Bedlington_terrier', 0.10588426, u'whippet', 0.086689562]
+[u'Saluki', 0.30741295, u'whippet', 0.1268272, u'borzoi', 0.10639938]
+[u'Maltese_dog', 0.93550146, u'Lhasa', 0.03284622, u'Tibetan_terrier', 0.018976968]
+[u'French_bulldog', 0.19520687, u'Staffordshire_bullterrier', 0.17898606, u'Mexican_hairless', 0.080841303]
+[u'bull_mastiff', 0.46974224, u'pug', 0.46630719, u'Brabancon_griffon', 0.0049440023]

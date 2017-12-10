@@ -1,0 +1,3 @@
+[u'tobacco_shop', 0.14115314, u'organ', 0.07739535, u'bookcase', 0.05732619, u'crate', 0.056100648, u"carpenter's_kit", 0.053832512]
+[u'alp', 0.52159345, u'lakeside', 0.1908451, u'valley', 0.13910863, u'ski', 0.031031132, u'mountain_tent', 0.019586064]
+[u'envelope', 0.16934802, u'binder', 0.082233898, u'hand_blower', 0.067030452, u'web_site', 0.053929023, u'jersey', 0.044652507]

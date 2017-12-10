@@ -1,0 +1,5 @@
+[u'moving_van', 0.99950016, u'trailer_truck', 0.00041687043, u'minibus', 4.0968494e-05]
+[u'web_site', 0.77333623, u'book_jacket', 0.021673098, u'sunscreen', 0.017733837]
+[u'web_site', 0.087462477, u'oil_filter', 0.070323326, u'envelope', 0.045139257]
+[u'moving_van', 0.99955159, u'trailer_truck', 0.00036913058, u'minibus', 4.202636e-05]
+[u'fountain', 0.84592181, u'picket_fence', 0.016215548, u'chainlink_fence', 0.014804241]

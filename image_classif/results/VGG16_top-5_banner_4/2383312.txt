@@ -1,0 +1,1 @@
+[u'fountain', 0.66337961, u'paintbrush', 0.043994028, u'beer_glass', 0.03230137, u'snowplow', 0.016711025, u'pop_bottle', 0.015698938]

@@ -1,0 +1,8 @@
+[u'patio', 0.46278769, u'mobile_home', 0.19394723, u'boathouse', 0.028532317, u'picket_fence', 0.025406878, u'greenhouse', 0.025230689]
+[u'wine_bottle', 0.60034746, u'red_wine', 0.32113573, u'whiskey_jug', 0.03683253, u'beer_bottle', 0.02078864, u'chocolate_sauce', 0.010393483]
+[u'miniature_pinscher', 0.86260182, u'Doberman', 0.097381368, u'kelpie', 0.019050835, u'toy_terrier', 0.011711933, u'Rottweiler', 0.0038501858]
+[u'stone_wall', 0.48164314, u'megalith', 0.26368141, u'ostrich', 0.038892679, u'cliff', 0.034857985, u'bison', 0.018119371]
+[u'swing', 0.1611739, u'park_bench', 0.08248625, u'suspension_bridge', 0.049681306, u'lakeside', 0.044973087, u'valley', 0.036736816]
+[u'wine_bottle', 0.48137343, u'red_wine', 0.39676079, u'lotion', 0.036226925, u'whiskey_jug', 0.033965096, u'chocolate_sauce', 0.015102839]
+[u'four-poster', 0.27868727, u'restaurant', 0.21977796, u'dining_table', 0.18004458, u'china_cabinet', 0.086871862, u'sliding_door', 0.055133399]
+[u'wine_bottle', 0.60940742, u'red_wine', 0.30433619, u'whiskey_jug', 0.059452146, u'corkscrew', 0.0056759748, u'beer_bottle', 0.0054937461]

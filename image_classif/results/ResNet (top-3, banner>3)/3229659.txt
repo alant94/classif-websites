@@ -1,0 +1,5 @@
+[u'alp', 0.25694942, u'stage', 0.10870952, u'theater_curtain', 0.075626604]
+[u'web_site', 0.30941367, u'perfume', 0.1120232, u'lipstick', 0.09843199]
+[u'envelope', 0.22857073, u'binder', 0.091405667, u'jersey', 0.075606234]
+[u'book_jacket', 0.88949567, u'cash_machine', 0.029059909, u'Band_Aid', 0.015323618]
+[u'book_jacket', 0.26545781, u'tobacco_shop', 0.18824226, u'barbershop', 0.15025634]

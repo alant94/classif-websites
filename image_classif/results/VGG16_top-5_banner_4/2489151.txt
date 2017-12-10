@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.30665186, u'menu', 0.10879656, u'web_site', 0.058738876, u'picket_fence', 0.044328306, u'crossword_puzzle', 0.033872835]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

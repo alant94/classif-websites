@@ -1,0 +1,4 @@
+[u'modem', 0.27938613, u'digital_clock', 0.16848265, u'printer', 0.082859501, u'safe', 0.079634309, u'scale', 0.047611125]
+[u'cash_machine', 0.51409662, u'printer', 0.079241715, u'digital_clock', 0.077398114, u'safe', 0.039706893, u'switch', 0.038056467]
+[u'book_jacket', 0.15505008, u'shower_curtain', 0.11802194, u'cash_machine', 0.070639879, u'beer_glass', 0.06382411, u'comic_book', 0.052805632]
+[u'Band_Aid', 0.27498537, u'web_site', 0.22798152, u'packet', 0.044147689, u'sunscreen', 0.023069795, u'rubber_eraser', 0.016803162]

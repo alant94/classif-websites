@@ -1,0 +1,2 @@
+[u'bow', 0.13027799, u'carousel', 0.086925492, u'pole', 0.06256102, u'brassiere', 0.044993293, u'flagpole', 0.04314122]
+[u'flagpole', 0.80063808, u'picket_fence', 0.021598186, u'fountain', 0.016388467, u'maypole', 0.013069284, u'wardrobe', 0.0076611554]

@@ -1,0 +1,2 @@
+[u'pickup', 0.25781754, u'tow_truck', 0.15746383, u'amphibian', 0.089171104, u'snowplow', 0.066471979, u'beach_wagon', 0.04998178]
+[u'dock', 0.5199365, u'catamaran', 0.25853881, u'trimaran', 0.11196434, u'yawl', 0.025514431, u'seashore', 0.021519551]

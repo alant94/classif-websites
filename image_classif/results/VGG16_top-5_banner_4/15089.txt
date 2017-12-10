@@ -1,0 +1,5 @@
+[u'rubber_eraser', 0.076190993, u'balance_beam', 0.07024166, u'hair_spray', 0.056158185, u'tennis_ball', 0.055559289, u'chime', 0.049939808]
+[u'container_ship', 0.28251669, u'parachute', 0.071201116, u'airship', 0.056377303, u'balloon', 0.03667238, u'seashore', 0.016921273]
+[u'sliding_door', 0.082440376, u'wardrobe', 0.047125779, u'wall_clock', 0.040852357, u'cash_machine', 0.030546796, u'washbasin', 0.030447286]
+[u'Christmas_stocking', 0.27670601, u'feather_boa', 0.25865561, u'bearskin', 0.026595207, u'quill', 0.023431776, u'maraca', 0.019648554]
+[u'nail', 0.1324437, u'hook', 0.11626431, u'screw', 0.094658516, u'power_drill', 0.071379982, u'crane', 0.049473938]

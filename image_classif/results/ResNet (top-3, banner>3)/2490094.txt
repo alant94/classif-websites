@@ -1,0 +1,6 @@
+[u'cliff', 0.16045119, u'Arabian_camel', 0.10485431, u'tusker', 0.10104014]
+[u'koala', 0.14920716, u'brown_bear', 0.092261381, u'chain_saw', 0.075121224]
+[u'briard', 0.20956112, u'Scotch_terrier', 0.17448911, u'groenendael', 0.12655924]
+[u'timber_wolf', 0.79618126, u'malamute', 0.078666642, u'cougar', 0.028877396]
+[u'water_buffalo', 0.4055495, u'wild_boar', 0.19505538, u'ox', 0.17125975]
+[u'hartebeest', 0.29529348, u'plow', 0.20998716, u'ibex', 0.039694812]

@@ -1,0 +1,5 @@
+[u'barn', 0.24839409, u'picket_fence', 0.14853366, u'worm_fence', 0.1088888]
+[u'nematode', 0.094342537, u'binder', 0.035022348, u'theater_curtain', 0.020635409]
+[u'impala', 0.6558398, u'ibex', 0.13811751, u'hartebeest', 0.09847194]
+[u'screwdriver', 0.51420134, u'syringe', 0.39285114, u'rule', 0.03359697]
+[u'paintbrush', 0.14214052, u'padlock', 0.10011155, u'envelope', 0.056362931]

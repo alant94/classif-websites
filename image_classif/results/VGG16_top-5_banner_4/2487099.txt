@@ -1,0 +1,6 @@
+[u'worm_fence', 0.44993958, u'picket_fence', 0.19055511, u'fountain', 0.047047634, u'paintbrush', 0.030953899, u'cliff', 0.016852222]
+[u'bighorn', 0.4519971, u'ram', 0.436252, u'ibex', 0.094192825, u'Afghan_hound', 0.0051410445, u'baboon', 0.0033426054]
+[u'cinema', 0.27778789, u'vending_machine', 0.10397662, u'rule', 0.067786694, u'cassette', 0.046732843, u'baseball', 0.046219345]
+[u'cowboy_hat', 0.44606313, u'worm_fence', 0.25548795, u'cowboy_boot', 0.1105564, u'turnstile', 0.035946224, u'shovel', 0.014659486]
+[u'hartebeest', 0.35429645, u'ibex', 0.19396318, u'impala', 0.18186972, u'warthog', 0.15147819, u'water_buffalo', 0.034191832]
+[u'water_buffalo', 0.15864426, u'hog', 0.14713448, u'warthog', 0.12525998, u'wild_boar', 0.072092421, u'hippopotamus', 0.06763678]

@@ -1,0 +1,8 @@
+[u'mushroom', 0.11825413, u'African_chameleon', 0.11605915, u'space_shuttle', 0.097320236, u'lycaenid', 0.041169446, u'chambered_nautilus', 0.0378053]
+[u'kite', 0.69506156, u'bald_eagle', 0.089186028, u'goose', 0.049905121, u'vulture', 0.043848585, u'black_stork', 0.037911072]
+[u'jersey', 0.22215068, u'puck', 0.12085371, u'book_jacket', 0.090496816, u'sweatshirt', 0.090194136, u'scoreboard', 0.020999493]
+[u'freight_car', 0.4051812, u'mobile_home', 0.13645521, u'boathouse', 0.061960686, u'lakeside', 0.056328885, u'passenger_car', 0.051908467]
+[u"potter's_wheel", 0.099313356, u'cliff_dwelling', 0.075789124, u'jersey', 0.046855815, u'book_jacket', 0.021668926, u'crutch', 0.020690905]
+[u'mobile_home', 0.63876498, u'pole', 0.056720816, u'traffic_light', 0.032864735, u'trolleybus', 0.025476605, u'gas_pump', 0.016112354]
+[u'microwave', 0.40305424, u'patio', 0.1243092, u'dining_table', 0.12267796, u'home_theater', 0.078905791, u'restaurant', 0.065443717]
+[u'mosquito_net', 0.2142867, u'studio_couch', 0.19156343, u'four-poster', 0.14329594, u'dining_table', 0.13422206, u'desk', 0.044055555]

@@ -1,0 +1,3 @@
+[u'web_site', 0.24569911, u'analog_clock', 0.053689167, u'matchstick', 0.016262868, u'envelope', 0.016111653, u'packet', 0.013093716]
+[u'groom', 0.28700322, u'gown', 0.22099181, u'pajama', 0.051888473, u'wig', 0.044544525, u'bikini', 0.030357745]
+[u'medicine_chest', 0.11656079, u'monitor', 0.046954226, u'cash_machine', 0.038672384, u'sliding_door', 0.034603111, u'safe', 0.03446985]

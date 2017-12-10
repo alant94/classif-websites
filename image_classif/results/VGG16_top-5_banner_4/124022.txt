@@ -1,0 +1,1 @@
+[u'cradle', 0.29479706, u'bassinet', 0.17463, u'sewing_machine', 0.15186304, u'diaper', 0.093347095, u'bib', 0.047644034]

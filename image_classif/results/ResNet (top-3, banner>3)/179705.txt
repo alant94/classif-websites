@@ -1,0 +1,4 @@
+[u'web_site', 0.39921656, u'slide_rule', 0.10393202, u'container_ship', 0.075345926]
+[u'web_site', 0.93226314, u'menu', 0.0045893788, u'hand_blower', 0.004427046]
+[u'web_site', 0.84278262, u'comic_book', 0.11915094, u'menu', 0.014537237]
+[u'barbershop', 0.24641676, u'binoculars', 0.1039258, u'cellular_telephone', 0.090496615]

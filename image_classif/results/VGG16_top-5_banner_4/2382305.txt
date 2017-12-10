@@ -1,0 +1,6 @@
+[u'digital_clock', 0.10975002, u'web_site', 0.087855294, u'street_sign', 0.057029154, u'Band_Aid', 0.033939995, u'envelope', 0.023824332]
+[u'parachute', 0.042539176, u'kite', 0.035055969, u'space_shuttle', 0.031399883, u'airship', 0.027139448, u'wing', 0.022494521]
+[u'safety_pin', 0.12233125, u'jersey', 0.077549115, u'web_site', 0.063338548, u'hook', 0.049183197, u'hand_blower', 0.037634041]
+[u'jean', 0.13237409, u'prison', 0.084411584, u'stole', 0.056454565, u'miniskirt', 0.0456145, u'picket_fence', 0.035823107]
+[u'red_wine', 0.2983619, u'wine_bottle', 0.23742814, u'hair_spray', 0.15742551, u'corkscrew', 0.030826725, u'lipstick', 0.025151895]
+[u'picket_fence', 0.34911755, u'church', 0.085729472, u'dome', 0.06936112, u'planetarium', 0.039765988, u'lakeside', 0.03518755]

@@ -1,0 +1,1 @@
+[u'digital_clock', 0.54542679, u'spatula', 0.15077399, u'Band_Aid', 0.10839304, u'rubber_eraser', 0.057461798, u'ice_lolly', 0.019129006]

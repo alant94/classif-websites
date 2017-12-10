@@ -1,0 +1,4 @@
+[u'digital_clock', 0.22613281, u'whistle', 0.10664424, u'ski', 0.041703679]
+[u'screen', 0.53749329, u'digital_watch', 0.10375874, u'cash_machine', 0.070883617]
+[u'web_site', 0.99662626, u'nematode', 0.000263469, u'stopwatch', 0.00017246368]
+[u'sunscreen', 0.78005719, u'maraca', 0.054394614, u'envelope', 0.024970686]

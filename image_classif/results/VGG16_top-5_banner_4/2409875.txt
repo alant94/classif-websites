@@ -1,0 +1,7 @@
+[u'Dutch_oven', 0.18131796, u'caldron', 0.16002779, u'washbasin', 0.11793995, u"potter's_wheel", 0.092391849, u'mixing_bowl', 0.054549962]
+[u'mixing_bowl', 0.2849988, u'Dutch_oven', 0.1053807, u'caldron', 0.068868428, u'pot', 0.065032445, u'Crock_Pot', 0.039303228]
+[u'pot', 0.22442386, u"potter's_wheel", 0.11439706, u'tray', 0.045468286, u'sombrero', 0.044839717, u'sundial', 0.044639844]
+[u'bucket', 0.55029356, u'ashcan', 0.031628877, u'strainer', 0.026741182, u'bathtub', 0.023864985, u'cuirass', 0.022336233]
+[u'throne', 0.92765838, u'vestment', 0.017486434, u'scale', 0.0086092381, u'shield', 0.0079272017, u'altar', 0.0065712356]
+[u'pot', 0.50223815, u'cup', 0.088655628, u'pitcher', 0.088406056, u'vase', 0.056047387, u'coffee_mug', 0.054566041]
+[u'pot', 0.73201972, u'bucket', 0.078121275, u'mortar', 0.02739881, u'milk_can', 0.018794129, u'vase', 0.014304299]

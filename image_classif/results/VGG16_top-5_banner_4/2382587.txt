@@ -1,0 +1,1 @@
+[u'turnstile', 0.61669594, u'vault', 0.27989253, u'prison', 0.061135054, u'bannister', 0.015081964, u'patio', 0.0051279017]

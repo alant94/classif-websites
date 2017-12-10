@@ -1,0 +1,4 @@
+[u'web_site', 0.12040742, u'nematode', 0.067454837, u'book_jacket', 0.058247745]
+[u'American_black_bear', 0.63149589, u'giant_schnauzer', 0.069374017, u'Labrador_retriever', 0.051351044]
+[u'king_penguin', 0.72051507, u'coho', 0.1734475, u'abaya', 0.006287111]
+[u'stone_wall', 0.56922942, u'megalith', 0.083018072, u'thatch', 0.050063558]

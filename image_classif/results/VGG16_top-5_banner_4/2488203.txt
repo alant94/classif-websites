@@ -1,0 +1,1 @@
+[u'great_grey_owl', 0.40152979, u'kite', 0.15853459, u'vulture', 0.079231516, u'hornbill', 0.07565625, u'ruffed_grouse', 0.043840963]

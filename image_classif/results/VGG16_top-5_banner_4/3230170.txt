@@ -1,0 +1,5 @@
+[u'red_wine', 0.049065795, u'espresso', 0.045276858, u'spatula', 0.037072159, u'coffeepot', 0.032622892, u'ice_cream', 0.031002035]
+[u'tricycle', 0.21234004, u'spindle', 0.14698815, u'corkscrew', 0.10214932, u'power_drill', 0.074674547, u'knot', 0.041676201]
+[u'espresso', 0.9906081, u'cup', 0.0071267374, u'coffee_mug', 0.0014140342, u'eggnog', 0.00023397797, u'espresso_maker', 0.00019284259]
+[u'notebook', 0.26089293, u'computer_keyboard', 0.18495473, u'space_bar', 0.12484814, u'laptop', 0.093820557, u'mouse', 0.078841284]
+[u'abaya', 0.055381868, u'balloon', 0.027875267, u'bow_tie', 0.021750841, u'academic_gown', 0.019051703, u'traffic_light', 0.017743818]

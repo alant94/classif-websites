@@ -1,0 +1,4 @@
+[u'envelope', 0.93243408, u'carton', 0.031033685, u'binder', 0.0086322939, u'umbrella', 0.003472141, u'packet', 0.0027167536]
+[u'switch', 0.22563997, u'mousetrap', 0.13616249, u'envelope', 0.082296692, u'binder', 0.049249884, u'whistle', 0.048673876]
+[u'street_sign', 0.13429332, u'hook', 0.0584982, u'traffic_light', 0.05799466, u'analog_clock', 0.027315039, u'flagpole', 0.013156229]
+[u'bald_eagle', 0.43631727, u'sulphur-crested_cockatoo', 0.29789203, u'vulture', 0.10011437, u'American_egret', 0.031641431, u'kite', 0.017991258]

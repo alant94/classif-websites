@@ -1,0 +1,3 @@
+[u'envelope', 0.11833044, u'web_site', 0.075326167, u'liner', 0.047961228, u'cinema', 0.037285227, u'flagpole', 0.03347788]
+[u'Band_Aid', 0.21011701, u'digital_clock', 0.17548066, u'envelope', 0.11272986, u'scoreboard', 0.036556501, u'web_site', 0.032764617]
+[u'monitor', 0.3751601, u'desktop_computer', 0.12060117, u'screen', 0.083640583, u'laptop', 0.065264896, u'screwdriver', 0.048154127]

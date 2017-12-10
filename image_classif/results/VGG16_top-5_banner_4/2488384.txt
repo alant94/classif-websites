@@ -1,0 +1,5 @@
+[u'nail', 0.12713897, u'screwdriver', 0.11639883, u'spatula', 0.073914602, u'picket_fence', 0.062397782, u'syringe', 0.060453612]
+[u'spotlight', 0.12543923, u'iron', 0.12345467, u'car_wheel', 0.11453342, u'leafhopper', 0.060575407, u'airship', 0.059300102]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'sunscreen', 0.38724962, u'lotion', 0.20746787, u'hair_spray', 0.11398905, u'Band_Aid', 0.074373126, u'pill_bottle', 0.035561636]

@@ -1,0 +1,3 @@
+[u'web_site', 0.3762213, u'lab_coat', 0.16777635, u'Windsor_tie', 0.083357371]
+[u'bannister', 0.22838081, u'prison', 0.21253657, u'bookcase', 0.067619041]
+[u'dishwasher', 0.37864614, u'barrel', 0.06996005, u'turnstile', 0.038074274]

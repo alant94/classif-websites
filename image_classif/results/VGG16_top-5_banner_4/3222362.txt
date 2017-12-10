@@ -1,0 +1,1 @@
+[u'jersey', 0.04368994, u'envelope', 0.036812957, u'face_powder', 0.031880766, u'sunscreen', 0.02719973, u'tennis_ball', 0.023973927]

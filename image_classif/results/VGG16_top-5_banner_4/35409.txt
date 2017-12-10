@@ -1,0 +1,1 @@
+[u'honeycomb', 0.22386107, u'envelope', 0.043263581, u'wall_clock', 0.027838539, u'digital_clock', 0.024913857, u'bell_cote', 0.023731448]

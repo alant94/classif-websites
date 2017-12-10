@@ -1,0 +1,3 @@
+[u'ballpoint', 0.65073663, u'rubber_eraser', 0.08528313, u'screwdriver', 0.050540581, u'lipstick', 0.045168132, u'syringe', 0.021602079]
+[u'shower_cap', 0.16482286, u'stethoscope', 0.088732883, u'wig', 0.060650554, u'jersey', 0.042791545, u'abaya', 0.039774109]
+[u'pill_bottle', 0.11345433, u'crossword_puzzle', 0.0630242, u'menu', 0.056189038, u'packet', 0.045386944, u'water_bottle', 0.032517985]

@@ -1,0 +1,4 @@
+[u'web_site', 0.48688179, u'comic_book', 0.15716563, u'book_jacket', 0.047922894]
+[u'web_site', 0.57921338, u'comic_book', 0.11974067, u'book_jacket', 0.037079662]
+[u'refrigerator', 0.77945185, u'vending_machine', 0.056443654, u'medicine_chest', 0.040499814]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]

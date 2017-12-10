@@ -1,0 +1,3 @@
+[u'miniskirt', 0.66172296, u'jean', 0.0491345, u'umbrella', 0.034770377, u'cowboy_boot', 0.034155659, u'sunglasses', 0.018870382]
+[u'fur_coat', 0.64307278, u'miniskirt', 0.091052592, u'cloak', 0.034837499, u'wig', 0.031867534, u'trench_coat', 0.019037705]
+[u'miniskirt', 0.3313354, u'sunglasses', 0.054473251, u'fur_coat', 0.038669817, u'sunglass', 0.032017782, u'maillot', 0.02129907]

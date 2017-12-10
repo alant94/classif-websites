@@ -1,0 +1,6 @@
+[u'triumphal_arch', 0.83116758, u'monastery', 0.049177676, u'altar', 0.022781648, u'vault', 0.021738671, u'bell_cote', 0.013940533]
+[u'window_shade', 0.12922847, u'barbershop', 0.10019261, u'web_site', 0.050802823, u'upright', 0.038504589, u'bannister', 0.03117281]
+[u'shower_cap', 0.31645238, u'book_jacket', 0.10675059, u'spotlight', 0.034884453, u'electric_fan', 0.032274816, u'radio_telescope', 0.031642959]
+[u'book_jacket', 0.32428518, u'accordion', 0.24160823, u'picket_fence', 0.096052602, u'scoreboard', 0.044191718, u'radiator', 0.024031457]
+[u'sax', 0.093796521, u'microphone', 0.059124012, u'stage', 0.046354886, u'book_jacket', 0.044944551, u'accordion', 0.03482917]
+[u'web_site', 0.31766212, u'Band_Aid', 0.16648155, u'sunscreen', 0.12083006, u'lotion', 0.0565909, u'pill_bottle', 0.016760295]

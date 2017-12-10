@@ -1,0 +1,1 @@
+[u'traffic_light', 0.053426258, u'parachute', 0.042130087, u'airship', 0.034156121, u'puck', 0.030347895, u'warplane', 0.030137066]

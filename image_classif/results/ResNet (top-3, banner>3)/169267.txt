@@ -1,0 +1,2 @@
+[u'book_jacket', 0.32187137, u'screwdriver', 0.060218737, u"carpenter's_kit", 0.045707285]
+[u'Bouvier_des_Flandres', 0.094162323, u'nipple', 0.040637702, u'Old_English_sheepdog', 0.03382026]

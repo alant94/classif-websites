@@ -1,0 +1,8 @@
+[u'scoreboard', 0.30693516, u'slot', 0.090982184, u'cinema', 0.07886672]
+[u'chain_saw', 0.18323751, u'stage', 0.074747495, u'racket', 0.053088799]
+[u'comic_book', 0.49920982, u'book_jacket', 0.33361623, u'tennis_ball', 0.014157414]
+[u'book_jacket', 0.81419122, u'comic_book', 0.033999871, u'street_sign', 0.019294091]
+[u'container_ship', 0.41586056, u'oil_filter', 0.11018083, u'crossword_puzzle', 0.087674841]
+[u'comic_book', 0.67906451, u'book_jacket', 0.1332126, u'Bouvier_des_Flandres', 0.0073317215]
+[u'container_ship', 0.72656018, u'tobacco_shop', 0.040609382, u'web_site', 0.023855694]
+[u'book_jacket', 0.42320734, u'comic_book', 0.037067242, u'web_site', 0.036848135]

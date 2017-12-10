@@ -1,0 +1,2 @@
+[u'digital_watch', 0.47739515, u'digital_clock', 0.25380296, u'stopwatch', 0.059106845]
+[u'prayer_rug', 0.57951212, u'digital_clock', 0.18439308, u'ambulance', 0.033978432]

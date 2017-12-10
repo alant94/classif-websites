@@ -1,0 +1,7 @@
+[u'screwdriver', 0.30119443, u'book_jacket', 0.13409315, u'slide_rule', 0.073834449]
+[u'slide_rule', 0.25793532, u'screwdriver', 0.21977726, u'rule', 0.20683528]
+[u'digital_clock', 0.56550479, u'digital_watch', 0.080857053, u'screwdriver', 0.045751117]
+[u'scoreboard', 0.49580956, u'crossword_puzzle', 0.077923536, u'digital_clock', 0.075284958]
+[u'screwdriver', 0.52102363, u'rule', 0.16309792, u'slide_rule', 0.052593324]
+[u'screwdriver', 0.48073912, u'rule', 0.1673236, u'slide_rule', 0.15625826]
+[u'slide_rule', 0.44805092, u'rule', 0.28225493, u'screwdriver', 0.12954184]

@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.95332986, u'shower_curtain', 0.012238196, u'chainlink_fence', 0.0083574159, u'handkerchief', 0.0029094487, u'plastic_bag', 0.0022447393]
+[u'plastic_bag', 0.37496287, u'handkerchief', 0.11656801, u'shower_cap', 0.11189525, u'apron', 0.09573099, u'sleeping_bag', 0.043022372]

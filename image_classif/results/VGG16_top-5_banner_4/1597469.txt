@@ -1,0 +1,2 @@
+[u'matchstick', 0.54888529, u'Band_Aid', 0.058372088, u'candle', 0.038038395, u'envelope', 0.029223628, u'picket_fence', 0.028938154]
+[u'mousetrap', 0.092896476, u'hook', 0.083968848, u'matchstick', 0.075833343, u'wall_clock', 0.07536871, u'rule', 0.044062745]

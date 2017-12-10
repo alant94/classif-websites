@@ -1,0 +1,6 @@
+[u'iPod', 0.27160248, u'lighter', 0.046749912, u'beaker', 0.045958672, u'coffee_mug', 0.030367181, u'candle', 0.029999543]
+[u'coffee_mug', 0.31702384, u'oil_filter', 0.090840973, u'beer_bottle', 0.086737379, u'packet', 0.056649327, u'scoreboard', 0.033636738]
+[u'face_powder', 0.15693969, u'maraca', 0.065207481, u'sunscreen', 0.050022352, u'hair_spray', 0.036668822, u'nipple', 0.032130852]
+[u'iPod', 0.25160691, u'street_sign', 0.23770694, u'laptop', 0.12425844, u'digital_clock', 0.078321069, u'coffee_mug', 0.041145913]
+[u'switch', 0.40482324, u'iPod', 0.17708455, u'remote_control', 0.091838978, u'lighter', 0.039838266, u'hook', 0.030202128]
+[u'lighter', 0.439033, u'ballpoint', 0.33652711, u'pencil_sharpener', 0.13945435, u'hair_spray', 0.029082403, u'rubber_eraser', 0.023625072]

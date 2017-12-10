@@ -1,0 +1,7 @@
+[u'binder', 0.45100015, u'envelope', 0.25463799, u'carton', 0.036196243, u'picket_fence', 0.026999379, u'cinema', 0.024997935]
+[u'cash_machine', 0.1618973, u'envelope', 0.14042145, u'scoreboard', 0.045262225, u'traffic_light', 0.040852562, u'carton', 0.036133543]
+[u'safe', 0.36695302, u'envelope', 0.17351264, u'binder', 0.089963615, u'monitor', 0.075558253, u'switch', 0.035842434]
+[u'traffic_light', 0.11405428, u'combination_lock', 0.1100696, u'shield', 0.098229274, u'wall_clock', 0.070664696, u'digital_watch', 0.055238426]
+[u'web_site', 0.3731319, u'book_jacket', 0.12205831, u'cash_machine', 0.044589184, u'television', 0.029484974, u'scoreboard', 0.018232072]
+[u'crate', 0.3047255, u'barrel', 0.28991634, u'book_jacket', 0.105327, u'carton', 0.037390176, u'ashcan', 0.028245773]
+[u'picket_fence', 0.096692629, u'fountain', 0.076910727, u'suspension_bridge', 0.072115667, u'sliding_door', 0.040889286, u'gondola', 0.038665064]

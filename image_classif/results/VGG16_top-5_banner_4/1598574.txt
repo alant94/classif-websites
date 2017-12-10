@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.54266953, u'bikini', 0.11926746, u'brassiere', 0.069463611, u'tub', 0.044050757, u'maillot', 0.038915645]
+[u'menu', 0.28374019, u'packet', 0.1859414, u'book_jacket', 0.07900504, u'drumstick', 0.052096386, u'comic_book', 0.023984993]
+[u'paintbrush', 0.24025711, u'prayer_rug', 0.15202619, u'quill', 0.076712459, u'ski', 0.065554224, u'iron', 0.064438522]

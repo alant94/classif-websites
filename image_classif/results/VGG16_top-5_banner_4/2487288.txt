@@ -1,0 +1,3 @@
+[u'wardrobe', 0.27258447, u'binder', 0.13192768, u'refrigerator', 0.080077276, u'comic_book', 0.047860347, u'carton', 0.043629777]
+[u'book_jacket', 0.18761401, u'rule', 0.10685561, u'picket_fence', 0.09968657, u'screwdriver', 0.034379274, u'organ', 0.026592594]
+[u'analog_clock', 0.081743687, u'wall_clock', 0.033365197, u'combination_lock', 0.027229205, u'pill_bottle', 0.026528902, u'bib', 0.026128396]

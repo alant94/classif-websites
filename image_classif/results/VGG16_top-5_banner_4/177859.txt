@@ -1,0 +1,1 @@
+[u'envelope', 0.082027838, u'balance_beam', 0.060612708, u'street_sign', 0.031726349, u'Band_Aid', 0.029592944, u'hook', 0.025405405]

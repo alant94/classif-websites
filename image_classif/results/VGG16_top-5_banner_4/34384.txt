@@ -1,0 +1,1 @@
+[u'nipple', 0.056105014, u'pill_bottle', 0.038268503, u'lotion', 0.028351773, u'can_opener', 0.028104682, u'envelope', 0.026010264]

@@ -1,0 +1,4 @@
+[u'web_site', 0.43298304, u'envelope', 0.087447256, u'chain_saw', 0.035695899]
+[u'web_site', 0.59264827, u'guillotine', 0.069682911, u'sunglass', 0.02479827]
+[u'scuba_diver', 0.52210826, u'coral_reef', 0.12251643, u'snorkel', 0.072462775]
+[u'picket_fence', 0.61467558, u'worm_fence', 0.097915068, u'lakeside', 0.057917513]

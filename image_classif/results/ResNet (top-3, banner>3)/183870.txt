@@ -1,0 +1,4 @@
+[u'oil_filter', 0.067352749, u'face_powder', 0.031389248, u'power_drill', 0.028450249]
+[u'espresso_maker', 0.23154363, u'joystick', 0.22212845, u'can_opener', 0.094013132]
+[u'web_site', 0.46855527, u'ping-pong_ball', 0.080334693, u'monitor', 0.051950201]
+[u'nipple', 0.11390299, u'web_site', 0.0959436, u'maraca', 0.093067504]

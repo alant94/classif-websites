@@ -1,0 +1,4 @@
+[u'nail', 0.14655776, u"carpenter's_kit", 0.11334858, u'screwdriver', 0.083101802, u'screw', 0.078205742, u'safety_pin', 0.065629348]
+[u'digital_clock', 0.52874315, u'maze', 0.13435322, u'scoreboard', 0.047878899, u'street_sign', 0.030943368, u'traffic_light', 0.027578641]
+[u'suit', 0.31714737, u'abaya', 0.25681761, u'cloak', 0.090434238, u'academic_gown', 0.081777394, u'mortarboard', 0.040298451]
+[u'magnetic_compass', 0.9999063, u'barometer', 3.5315163e-05, u'analog_clock', 2.3152168e-05, u'stopwatch', 2.2405253e-05, u'sundial', 1.1400837e-05]

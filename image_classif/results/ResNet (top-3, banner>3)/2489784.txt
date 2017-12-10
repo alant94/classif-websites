@@ -1,0 +1,7 @@
+[u'mobile_home', 0.41952094, u'lakeside', 0.12537459, u'boathouse', 0.053595994]
+[u'church', 0.51754379, u'patio', 0.092167221, u'tile_roof', 0.091849841]
+[u'window_screen', 0.19191192, u'window_shade', 0.12987038, u'picket_fence', 0.11106756]
+[u'barn', 0.25499982, u'church', 0.22290021, u'tile_roof', 0.055318557]
+[u'mobile_home', 0.27192736, u'picket_fence', 0.099609993, u'palace', 0.085121065]
+[u'thatch', 0.58499503, u'bell_cote', 0.1537002, u'church', 0.14143696]
+[u'church', 0.45903468, u'tile_roof', 0.07078632, u'library', 0.061302058]

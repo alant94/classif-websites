@@ -1,0 +1,3 @@
+[u'toilet_seat', 0.82047713, u'toilet_tissue', 0.12722355, u'plunger', 0.013796026]
+[u'military_uniform', 0.60922658, u'pickelhaube', 0.17229824, u'bow_tie', 0.04191054]
+[u'street_sign', 0.25121918, u'web_site', 0.094961919, u'analog_clock', 0.067016892]

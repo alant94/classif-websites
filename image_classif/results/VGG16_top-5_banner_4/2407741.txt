@@ -1,0 +1,3 @@
+[u'window_shade', 0.59624696, u'turnstile', 0.10706984, u'shower_curtain', 0.052341215, u'web_site', 0.028624834, u'sliding_door', 0.017977165]
+[u'prayer_rug', 0.55083728, u'magnetic_compass', 0.1431123, u'bottlecap', 0.054300658, u'tray', 0.034764253, u'cassette', 0.031983688]
+[u'prayer_rug', 0.31326127, u'brass', 0.19105481, u'book_jacket', 0.11336735, u'tray', 0.10284424, u'fire_screen', 0.044990204]

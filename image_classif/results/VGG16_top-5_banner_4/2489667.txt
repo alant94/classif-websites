@@ -1,0 +1,4 @@
+[u'iPod', 0.50460589, u'laptop', 0.11296202, u'notebook', 0.059169438, u'lighter', 0.058445137, u'television', 0.047708988]
+[u'web_site', 0.55803227, u'jigsaw_puzzle', 0.33756655, u'book_jacket', 0.068984948, u'comic_book', 0.011752088, u'airship', 0.007271979]
+[u'screen', 0.1634665, u'laptop', 0.15695389, u'monitor', 0.096719995, u'iPod', 0.090714134, u'television', 0.049847428]
+[u'binder', 0.23236291, u'Band_Aid', 0.12674889, u'envelope', 0.09927699, u'lighter', 0.078030117, u'book_jacket', 0.068824828]

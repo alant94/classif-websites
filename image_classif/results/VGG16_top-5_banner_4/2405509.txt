@@ -1,0 +1,4 @@
+[u'barrel', 0.11631376, u'hamper', 0.077642031, u'toilet_seat', 0.051402327, u'bassoon', 0.045606978, u'flute', 0.045547232]
+[u'candle', 0.22198409, u'lighter', 0.055358745, u'lampshade', 0.0500049, u'bell_cote', 0.036653738, u'beacon', 0.033237457]
+[u'shower_cap', 0.43930933, u'jersey', 0.0706264, u'Christmas_stocking', 0.054422032, u'bolo_tie', 0.045163684, u'vestment', 0.026166832]
+[u'nail', 0.27813205, u'matchstick', 0.10667855, u'tarantula', 0.091912687, u'wolf_spider', 0.055630706, u'rule', 0.051977862]

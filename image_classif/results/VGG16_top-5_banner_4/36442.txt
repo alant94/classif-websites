@@ -1,0 +1,8 @@
+[u'seat_belt', 0.10240633, u'bassoon', 0.063129053, u'drumstick', 0.061266679, u'Band_Aid', 0.049533859, u'paintbrush', 0.031154968]
+[u'groom', 0.4517329, u'television', 0.37463263, u'monitor', 0.032980952, u'web_site', 0.019360937, u'screen', 0.019148471]
+[u'iPod', 0.23226975, u'cellular_telephone', 0.16671501, u'hand-held_computer', 0.11755747, u'screen', 0.06969694, u'desktop_computer', 0.064439647]
+[u'web_site', 0.44037077, u'stage', 0.13237658, u'television', 0.035179265, u'spotlight', 0.023248915, u'groom', 0.020954346]
+[u'desktop_computer', 0.53906143, u'hand-held_computer', 0.24192244, u'cellular_telephone', 0.055363581, u'iPod', 0.044799961, u'notebook', 0.038970388]
+[u'web_site', 0.31937855, u'television', 0.15801643, u'hair_spray', 0.056577954, u'screen', 0.030342722, u'groom', 0.029993897]
+[u'trench_coat', 0.054831661, u'apron', 0.046708651, u'pajama', 0.046080116, u'wig', 0.03708557, u'stole', 0.035717569]
+[u'stage', 0.50774652, u'theater_curtain', 0.087557331, u'television', 0.068662696, u'web_site', 0.067424923, u'home_theater', 0.065358825]

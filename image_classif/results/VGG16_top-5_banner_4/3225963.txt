@@ -1,0 +1,4 @@
+[u'fountain', 0.73472005, u'castle', 0.19050419, u'church', 0.010896197, u'palace', 0.0086001242, u'megalith', 0.006023847]
+[u'wardrobe', 0.31035671, u'picket_fence', 0.27808261, u'paintbrush', 0.058341224, u'shower_curtain', 0.042486057, u'butcher_shop', 0.027382994]
+[u'shield', 0.11270924, u'bearskin', 0.09341763, u'pencil_sharpener', 0.082247905, u'wall_clock', 0.062486529, u'quill', 0.051224511]
+[u'castle', 0.43571508, u'stone_wall', 0.22794104, u'megalith', 0.060045443, u'cliff', 0.049354836, u'picket_fence', 0.04384334]

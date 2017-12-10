@@ -1,0 +1,2 @@
+[u'web_site', 0.42541194, u'liner', 0.09319362, u'hard_disc', 0.01964863, u'tape_player', 0.018821552, u'notebook', 0.016070418]
+[u'crutch', 0.48344299, u'library', 0.070337661, u'bookshop', 0.044056077, u'photocopier', 0.027679985, u'laptop', 0.016403971]

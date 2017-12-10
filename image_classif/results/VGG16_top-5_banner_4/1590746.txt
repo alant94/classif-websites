@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.22224592, u'crossword_puzzle', 0.063306682, u'container_ship', 0.061399244, u'balloon', 0.051679906, u'parachute', 0.044786759]
+[u'wall_clock', 0.25444025, u'spotlight', 0.15929389, u'analog_clock', 0.10014542, u'loupe', 0.081115395, u'Petri_dish', 0.070931166]

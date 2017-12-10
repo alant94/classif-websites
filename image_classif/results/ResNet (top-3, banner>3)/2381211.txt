@@ -1,0 +1,2 @@
+[u'screen', 0.59451598, u'monitor', 0.13086489, u'oscilloscope', 0.08930774]
+[u'cash_machine', 0.34792048, u'monitor', 0.093248352, u'screen', 0.088870578]

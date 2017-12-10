@@ -1,0 +1,2 @@
+[u'book_jacket', 0.68629766, u'rule', 0.04223188, u'matchstick', 0.031668521, u'nail', 0.019824242, u'picket_fence', 0.015380433]
+[u'chainlink_fence', 0.14302564, u'stone_wall', 0.09509524, u'barn', 0.079422511, u'fountain', 0.059704434, u'castle', 0.052122228]

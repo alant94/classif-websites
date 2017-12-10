@@ -1,0 +1,1 @@
+[u'bubble', 0.37232336, u'stethoscope', 0.076053955, u'brassiere', 0.057830054, u'reflex_camera', 0.031398743, u'neck_brace', 0.02959789]

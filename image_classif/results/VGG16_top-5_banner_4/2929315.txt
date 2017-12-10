@@ -1,0 +1,8 @@
+[u'albatross', 0.87072408, u'pelican', 0.064494818, u'lakeside', 0.015248389, u'snorkel', 0.0036827675, u'American_egret', 0.0033873999]
+[u'web_site', 0.43060106, u'book_jacket', 0.027332768, u'envelope', 0.017947709, u'muzzle', 0.01446317, u'hair_spray', 0.010542706]
+[u'stone_wall', 0.70323318, u'maze', 0.07799653, u'worm_fence', 0.063963801, u'castle', 0.059031222, u'picket_fence', 0.013156719]
+[u'volcano', 0.33657852, u'beacon', 0.27557829, u'breakwater', 0.075641423, u'seashore', 0.040922593, u'church', 0.023161268]
+[u'snowmobile', 0.26438281, u'dogsled', 0.22580995, u'ski', 0.11644537, u'alp', 0.11417515, u'lakeside', 0.069203921]
+[u'cliff', 0.51340193, u'promontory', 0.13193591, u'lakeside', 0.10213717, u'breakwater', 0.061352212, u'beacon', 0.061187029]
+[u'shield', 0.24916825, u'loupe', 0.092211694, u'face_powder', 0.066451296, u'buckle', 0.054208044, u'barrel', 0.053739537]
+[u'barn', 0.24539529, u'picket_fence', 0.10773627, u'greenhouse', 0.073958054, u'worm_fence', 0.043980338, u'viaduct', 0.039458361]

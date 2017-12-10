@@ -1,0 +1,4 @@
+[u'envelope', 0.086506493, u'book_jacket', 0.069155216, u'matchstick', 0.065188892, u'carton', 0.046919309, u'candle', 0.03437845]
+[u'flagpole', 0.11211163, u'pinwheel', 0.10620307, u'picket_fence', 0.093804099, u'balloon', 0.070757627, u'liner', 0.037461247]
+[u'handkerchief', 0.15943278, u'whistle', 0.15467234, u'screw', 0.094732076, u'bath_towel', 0.071151882, u'hand_blower', 0.069085471]
+[u'digital_clock', 0.098864287, u'picket_fence', 0.06362813, u'scoreboard', 0.063536629, u'envelope', 0.043283861, u'cash_machine', 0.03981008]

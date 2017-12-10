@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.24516329, u'eel', 0.12328549, u'coral_reef', 0.11063652, u'lionfish', 0.05464847, u'starfish', 0.032235678]
+[u'rubber_eraser', 0.24711525, u'mousetrap', 0.19249228, u'matchstick', 0.10488115, u'pencil_sharpener', 0.065159582, u'plane', 0.052464213]

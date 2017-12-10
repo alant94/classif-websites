@@ -1,0 +1,3 @@
+[u'kite', 0.11145353, u'vulture', 0.059183635, u'bald_eagle', 0.053825881, u'white_stork', 0.042917196, u'black_stork', 0.041092005]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'shower_curtain', 0.43027341, u'theater_curtain', 0.086522341, u'stage', 0.079727277, u'vending_machine', 0.078331858, u'water_bottle', 0.067631401]

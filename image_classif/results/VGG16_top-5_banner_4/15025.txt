@@ -1,0 +1,7 @@
+[u'cassette', 0.15975304, u'paintbrush', 0.13835867, u"carpenter's_kit", 0.11436618, u'screwdriver', 0.087056324, u'vending_machine', 0.064715505]
+[u'web_site', 0.72081935, u'paddlewheel', 0.067593895, u'fireboat', 0.031201212, u'book_jacket', 0.021315437, u'container_ship', 0.012666116]
+[u'binder', 0.042833958, u'digital_clock', 0.040730655, u'envelope', 0.033749837, u'lighter', 0.026386907, u'jersey', 0.023597397]
+[u'can_opener', 0.26497278, u'Crock_Pot', 0.16575645, u'stove', 0.12337041, u'espresso_maker', 0.072616734, u'microwave', 0.063677274]
+[u'digital_clock', 0.18325655, u'rubber_eraser', 0.11741456, u'oil_filter', 0.092828281, u'remote_control', 0.090682417, u'modem', 0.082143635]
+[u'web_site', 0.85707432, u'book_jacket', 0.017844403, u'paddlewheel', 0.01309632, u'comic_book', 0.010624046, u'envelope', 0.0086810067]
+[u'web_site', 0.77222246, u'paddlewheel', 0.036626521, u'book_jacket', 0.026233424, u'comic_book', 0.016932961, u'fireboat', 0.016079195]

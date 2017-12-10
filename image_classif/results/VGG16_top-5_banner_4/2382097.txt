@@ -1,0 +1,2 @@
+[u'picket_fence', 0.29763204, u'worm_fence', 0.2847442, u'barn', 0.14822219, u'suspension_bridge', 0.036494158, u'fountain', 0.023631496]
+[u'web_site', 0.13491704, u'menu', 0.086257555, u'envelope', 0.079718962, u'crossword_puzzle', 0.029220376, u'washer', 0.023128903]

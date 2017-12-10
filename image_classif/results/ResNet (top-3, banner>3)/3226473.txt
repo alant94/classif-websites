@@ -1,0 +1,5 @@
+[u'web_site', 0.24891782, u'digital_clock', 0.10512504, u'jersey', 0.069310308]
+[u'prayer_rug', 0.96576345, u'book_jacket', 0.016170116, u'throne', 0.0053663244]
+[u'digital_clock', 0.61027533, u'web_site', 0.059354186, u'jersey', 0.055463199]
+[u'jersey', 0.16760384, u'web_site', 0.1533732, u'digital_clock', 0.084624141]
+[u'web_site', 0.25344872, u'digital_clock', 0.072016962, u'jersey', 0.070587575]

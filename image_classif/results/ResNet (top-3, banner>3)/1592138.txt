@@ -1,0 +1,2 @@
+[u'prison', 0.22266021, u'gibbon', 0.13008307, u'mortarboard', 0.12004666]
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]

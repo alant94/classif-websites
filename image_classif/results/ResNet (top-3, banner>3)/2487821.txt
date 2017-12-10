@@ -1,0 +1,4 @@
+[u'web_site', 0.19219184, u'book_jacket', 0.063278101, u'crossword_puzzle', 0.02351811]
+[u'American_black_bear', 0.99204248, u'Labrador_retriever', 0.0020499656, u'Rottweiler', 0.0017973257]
+[u'chain_saw', 0.54484493, u'assault_rifle', 0.16439459, u'rifle', 0.10163567]
+[u'web_site', 0.75178337, u'television', 0.091339543, u'monitor', 0.028441736]

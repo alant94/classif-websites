@@ -1,0 +1,8 @@
+[u'lab_coat', 0.16370124, u'paper_towel', 0.076134898, u'groom', 0.04542036, u'toilet_tissue', 0.044566412, u'plastic_bag', 0.037516747]
+[u'traffic_light', 0.46175608, u'street_sign', 0.30617759, u'birdhouse', 0.03681149, u'pole', 0.034231368, u'hook', 0.021975622]
+[u'gown', 0.14163752, u'jean', 0.091785446, u'wig', 0.048887759, u'fur_coat', 0.048007011, u'shower_curtain', 0.028107325]
+[u'shower_curtain', 0.31663683, u'wardrobe', 0.084702395, u'cleaver', 0.076174453, u'handkerchief', 0.025975473, u'paintbrush', 0.021166099]
+[u'bonnet', 0.092752673, u'ice_lolly', 0.077949576, u'lipstick', 0.039286558, u'panpipe', 0.027790066, u'diaper', 0.026079115]
+[u'sarong', 0.17843784, u'jean', 0.098549739, u'gown', 0.081479579, u'swimming_trunks', 0.06814646, u'kimono', 0.063498378]
+[u'sarong', 0.39405033, u'frilled_lizard', 0.082681015, u'stole', 0.042440161, u'cowboy_boot', 0.028120646, u'gown', 0.016255971]
+[u'hook', 0.087121136, u'envelope', 0.065366596, u'Band_Aid', 0.063606925, u'nail', 0.031422589, u'crane', 0.027305419]

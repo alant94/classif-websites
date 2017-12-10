@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.10982383, u'maze', 0.05411895, u'jigsaw_puzzle', 0.049041949, u'picket_fence', 0.046959266, u'airship', 0.046373371]
+[u'restaurant', 0.61397284, u'altar', 0.20745461, u'vestment', 0.050215457, u'dining_table', 0.029651091, u'church', 0.017324118]
+[u'bell_cote', 0.30261323, u'crane', 0.13915955, u'beacon', 0.11105447, u'church', 0.080491215, u'analog_clock', 0.037373964]
+[u'abaya', 0.081301376, u'sweatshirt', 0.064210989, u'umbrella', 0.045915831, u'jersey', 0.041715957, u'hammer', 0.036454909]

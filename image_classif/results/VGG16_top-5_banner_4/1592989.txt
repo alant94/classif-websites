@@ -1,0 +1,2 @@
+[u'web_site', 0.41804507, u'monitor', 0.14038537, u'screen', 0.10360879, u'television', 0.039315823, u'scoreboard', 0.031157471]
+[u'menu', 0.29460645, u'book_jacket', 0.081437908, u'brass', 0.03389008, u'web_site', 0.030083489, u'cash_machine', 0.028847337]

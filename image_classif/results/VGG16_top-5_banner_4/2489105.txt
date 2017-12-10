@@ -1,0 +1,8 @@
+[u'fountain', 0.40715635, u'steel_arch_bridge', 0.16571692, u'bubble', 0.098009363, u'planetarium', 0.060902368, u'fireboat', 0.041506108]
+[u'analog_clock', 0.27660194, u'wall_clock', 0.17341708, u'television', 0.070996724, u'screen', 0.058341186, u'digital_watch', 0.047543116]
+[u'screw', 0.24744336, u'nail', 0.12039271, u'bell_cote', 0.053130798, u'upright', 0.035680145, u'necklace', 0.034192428]
+[u'organ', 0.21185845, u'chime', 0.17633535, u'bookcase', 0.087039456, u'window_shade', 0.053284194, u'radiator', 0.0457265]
+[u'ibex', 0.32873994, u'hare', 0.18895057, u'impala', 0.18351324, u'gazelle', 0.058597438, u'malinois', 0.057301641]
+[u'greenhouse', 0.31129658, u'patio', 0.23699841, u'mobile_home', 0.19105406, u'picket_fence', 0.10338923, u'sliding_door', 0.07599315]
+[u'whippet', 0.282278, u'hartebeest', 0.12550774, u'Weimaraner', 0.049968924, u'warthog', 0.040301275, u'ox', 0.039806418]
+[u'analog_clock', 0.058140978, u'bell_cote', 0.056607615, u'spotlight', 0.050256923, u'digital_watch', 0.049263347, u'loupe', 0.042517036]

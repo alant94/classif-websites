@@ -1,0 +1,5 @@
+[u'volcano', 0.5121423, u'ibex', 0.14188597, u'alp', 0.047001142]
+[u'church', 0.73275048, u'mosque', 0.1506636, u'dome', 0.049357109]
+[u'book_jacket', 0.38180786, u'pillow', 0.13993102, u'paper_towel', 0.12894665]
+[u'cleaver', 0.63358188, u'spatula', 0.30249524, u'butcher_shop', 0.027602604]
+[u'wine_bottle', 0.3439129, u'combination_lock', 0.25248605, u'red_wine', 0.09032388]

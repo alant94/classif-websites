@@ -1,0 +1,5 @@
+[u'web_site', 0.4954814, u'menu', 0.16210636, u'shower_curtain', 0.10349291]
+[u'chain', 0.14566463, u'web_site', 0.1055088, u'perfume', 0.10143943]
+[u'web_site', 0.69207227, u'menu', 0.10833246, u'envelope', 0.10037593]
+[u'web_site', 0.75395584, u'shower_curtain', 0.065830439, u'hook', 0.015824132]
+[u'acorn', 0.8409639, u'mosque', 0.039949477, u'perfume', 0.01366457]

@@ -1,0 +1,7 @@
+[u'microphone', 0.085426614, u'drumstick', 0.084855318, u'cello', 0.073605761, u'grand_piano', 0.061044313, u'sax', 0.056505721]
+[u'CD_player', 0.17403133, u'hard_disc', 0.16267686, u'loupe', 0.14967898, u'face_powder', 0.051699903, u'scale', 0.045790605]
+[u'shower_curtain', 0.45290175, u'water_bottle', 0.11318301, u'screwdriver', 0.082626291, u'syringe', 0.060323007, u'whistle', 0.045776669]
+[u'trombone', 0.61037832, u'French_horn', 0.042587727, u'crutch', 0.030880501, u'stethoscope', 0.025280351, u'banjo', 0.020948466]
+[u'screen', 0.22029838, u'monitor', 0.21136808, u'web_site', 0.15132745, u'oscilloscope', 0.077480823, u'desktop_computer', 0.053227369]
+[u'stage', 0.11476796, u'monitor', 0.051177181, u'television', 0.046265848, u'cash_machine', 0.043699726, u'screen', 0.036200821]
+[u'drumstick', 0.63336104, u'drum', 0.2973856, u'steel_drum', 0.033983026, u'marimba', 0.0080069983, u'accordion', 0.0078304578]

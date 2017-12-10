@@ -1,0 +1,2 @@
+[u'flagpole', 0.077194348, u'traffic_light', 0.038043324, u'street_sign', 0.027329121, u'beacon', 0.02647863, u'analog_clock', 0.025343006]
+[u'microwave', 0.7147522, u'dishwasher', 0.030354712, u'home_theater', 0.02613171, u'entertainment_center', 0.022678541, u'sliding_door', 0.021090278]

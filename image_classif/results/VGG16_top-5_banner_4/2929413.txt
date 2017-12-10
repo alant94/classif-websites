@@ -1,0 +1,1 @@
+[u'volcano', 0.13908683, u'book_jacket', 0.1036396, u'lakeside', 0.054807596, u'parachute', 0.050988901, u'geyser', 0.04780709]

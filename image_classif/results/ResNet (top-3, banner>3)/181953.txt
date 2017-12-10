@@ -1,0 +1,2 @@
+[u'groom', 0.73987466, u'abaya', 0.047652163, u'military_uniform', 0.042636532]
+[u'butcher_shop', 0.8576929, u'grocery_store', 0.03422102, u'lab_coat', 0.023117702]

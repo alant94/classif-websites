@@ -1,0 +1,4 @@
+[u'lipstick', 0.11059, u'screwdriver', 0.10884058, u'ballpoint', 0.1075866]
+[u'lipstick', 0.11059, u'screwdriver', 0.10884058, u'ballpoint', 0.1075866]
+[u'chimpanzee', 0.43909574, u'abaya', 0.25601214, u'wig', 0.17639829]
+[u'carousel', 0.26531658, u'horizontal_bar', 0.18310571, u'parallel_bars', 0.13895531]

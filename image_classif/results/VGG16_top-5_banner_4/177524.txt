@@ -1,0 +1,5 @@
+[u'web_site', 0.64878684, u'book_jacket', 0.19453509, u'comic_book', 0.08418227, u'barbershop', 0.02122285, u'toyshop', 0.011397916]
+[u'web_site', 0.67809266, u'book_jacket', 0.11066138, u'comic_book', 0.012106468, u'barbershop', 0.010743497, u'envelope', 0.0066915443]
+[u'barbershop', 0.21672891, u'bakery', 0.14488664, u'flagpole', 0.096835509, u'cinema', 0.085280858, u'library', 0.075524755]
+[u'web_site', 0.86467969, u'menu', 0.12653144, u'comic_book', 0.00094169501, u'monitor', 0.00050056895, u'packet', 0.0003897805]
+[u'liner', 0.10653333, u'water_tower', 0.10630898, u'beacon', 0.060675044, u'airship', 0.060496509, u'schooner', 0.056649532]

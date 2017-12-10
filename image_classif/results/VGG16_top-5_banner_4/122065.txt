@@ -1,0 +1,8 @@
+[u'wig', 0.91258389, u'fur_coat', 0.010835527, u'hair_spray', 0.0094076162, u'feather_boa', 0.0073463046, u'mask', 0.0055698748]
+[u'packet', 0.50930029, u'toyshop', 0.17881447, u'bottlecap', 0.049763072, u'tray', 0.048823655, u'jigsaw_puzzle', 0.045429945]
+[u'shower_curtain', 0.29315659, u'toyshop', 0.14093441, u'soap_dispenser', 0.058813967, u'balloon', 0.047329731, u'comic_book', 0.04259105]
+[u'jigsaw_puzzle', 0.092156097, u'library', 0.036640108, u'tobacco_shop', 0.028409636, u'restaurant', 0.023778897, u'container_ship', 0.022823062]
+[u'carousel', 0.1499777, u'toyshop', 0.11320284, u'drilling_platform', 0.090109073, u'king_crab', 0.046710983, u'starfish', 0.038731802]
+[u'traffic_light', 0.18037926, u'envelope', 0.16405512, u'hook', 0.060042985, u'street_sign', 0.04590952, u'wall_clock', 0.023117935]
+[u'toyshop', 0.76482427, u'drilling_platform', 0.063748576, u'altar', 0.03030676, u'confectionery', 0.024414813, u'carousel', 0.015383024]
+[u'stupa', 0.958601, u'monastery', 0.0062584593, u'vault', 0.0034799539, u'alp', 0.0031993049, u'honeycomb', 0.0023469042]

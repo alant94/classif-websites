@@ -1,0 +1,7 @@
+[u'pot', 0.11296469, u'caldron', 0.088053748, u'patio', 0.086454131, u'grocery_store', 0.059416588, u'rain_barrel', 0.048750274]
+[u'window_screen', 0.12412547, u'medicine_chest', 0.092404395, u'book_jacket', 0.071102194, u'sliding_door', 0.064971603, u'guillotine', 0.062557347]
+[u'home_theater', 0.72229689, u'theater_curtain', 0.076459646, u'entertainment_center', 0.018218331, u'restaurant', 0.018184137, u'microwave', 0.016642503]
+[u'pool_table', 0.99999797, u'ping-pong_ball', 1.9667316e-06, u'marimba', 2.265155e-09, u'racket', 9.5660768e-10, u'croquet_ball', 7.4753614e-10]
+[u'barbershop', 0.41254866, u'theater_curtain', 0.15411642, u'tobacco_shop', 0.056279037, u'comic_book', 0.054422494, u'cinema', 0.038417857]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'patio', 0.4603121, u'mobile_home', 0.15905108, u'restaurant', 0.05477326, u'cinema', 0.042143498, u'flagpole', 0.027023409]

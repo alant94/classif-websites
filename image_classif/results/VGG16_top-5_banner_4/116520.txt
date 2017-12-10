@@ -1,0 +1,2 @@
+[u'cash_machine', 0.3201519, u'monitor', 0.17018892, u'screen', 0.11053396, u'television', 0.084406845, u'barbershop', 0.037204098]
+[u'monitor', 0.26847667, u'desktop_computer', 0.14345598, u'screen', 0.13867272, u'projector', 0.05352255, u'television', 0.047549747]

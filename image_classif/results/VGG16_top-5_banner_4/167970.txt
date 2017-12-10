@@ -1,0 +1,7 @@
+[u'cash_machine', 0.10618149, u'iron', 0.096680276, u'bannister', 0.063108154, u'plate_rack', 0.037562594, u'screen', 0.036072161]
+[u'sunscreen', 0.10005775, u'coffee_mug', 0.065128319, u'safety_pin', 0.061600655, u'hair_spray', 0.050747097, u'screwdriver', 0.039781876]
+[u'web_site', 0.99973577, u'comic_book', 0.00010771079, u'book_jacket', 6.8976718e-05, u'menu', 3.1852247e-05, u'monitor', 1.5494956e-05]
+[u'airship', 0.34172156, u'dock', 0.076119132, u'gondola', 0.071446165, u'liner', 0.052473713, u'drilling_platform', 0.048682988]
+[u'face_powder', 0.094360903, u'web_site', 0.066404328, u'pick', 0.066114977, u'book_jacket', 0.055918954, u'loupe', 0.047340948]
+[u'book_jacket', 0.07993874, u'pill_bottle', 0.074415475, u'sunscreen', 0.067466393, u'web_site', 0.065908529, u'hair_spray', 0.058926944]
+[u'oboe', 0.81000531, u'bassoon', 0.060007662, u'flute', 0.043883327, u'sax', 0.040055804, u'cornet', 0.014226288]

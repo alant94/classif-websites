@@ -1,0 +1,8 @@
+[u'vestment', 0.36488977, u'maypole', 0.041533113, u'bearskin', 0.036168505, u'theater_curtain', 0.032572474, u'lab_coat', 0.026737219]
+[u'moving_van', 0.13502267, u'garbage_truck', 0.062344123, u'carton', 0.060925163, u'ashcan', 0.052702632, u'torch', 0.044836704]
+[u'web_site', 0.66564143, u'menu', 0.14731461, u'envelope', 0.11452629, u'binder', 0.015001304, u'jigsaw_puzzle', 0.0018377221]
+[u'vestment', 0.12804915, u'stage', 0.035767693, u'maypole', 0.035181478, u'theater_curtain', 0.034829516, u'lab_coat', 0.029840939]
+[u'drum', 0.19143094, u'perfume', 0.17475674, u'face_powder', 0.050954789, u'pick', 0.035343889, u'bolo_tie', 0.031351842]
+[u'bearskin', 0.17153063, u'Newfoundland', 0.08855994, u'kimono', 0.077202924, u'torch', 0.057440143, u'Tibetan_mastiff', 0.044638287]
+[u'gondola', 0.073205695, u'crutch', 0.038631693, u'library', 0.0350588, u'streetcar', 0.033457998, u'bookshop', 0.027163804]
+[u'swing', 0.041354142, u'altar', 0.034770768, u'comic_book', 0.033963457, u'jigsaw_puzzle', 0.033937894, u'toyshop', 0.033253334]

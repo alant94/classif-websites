@@ -1,0 +1,2 @@
+[u'megalith', 0.1352566, u'parachute', 0.10957577, u'hay', 0.085951984, u'maze', 0.065709859, u'soccer_ball', 0.027932536]
+[u'lakeside', 0.60923153, u'dam', 0.15159044, u'sandbar', 0.047266863, u'boathouse', 0.043263838, u'canoe', 0.040866915]

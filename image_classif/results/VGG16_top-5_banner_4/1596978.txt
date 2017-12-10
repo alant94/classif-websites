@@ -1,0 +1,8 @@
+[u'Mexican_hairless', 0.46858779, u'hair_spray', 0.055995688, u'sunscreen', 0.046215042, u'ice_lolly', 0.030900173, u'Italian_greyhound', 0.026446126]
+[u'bikini', 0.25898051, u'brassiere', 0.23204216, u'diaper', 0.14862145, u'maillot', 0.074847758, u'swimming_trunks', 0.061452929]
+[u'bathtub', 0.37254289, u'tub', 0.31604341, u'bikini', 0.12154917, u'diaper', 0.079219393, u'bath_towel', 0.019731965]
+[u'swimming_trunks', 0.7991659, u'barbell', 0.03457756, u'bathtub', 0.03246434, u'tub', 0.020491723, u'diaper', 0.020281265]
+[u'swimming_trunks', 0.27794707, u'bikini', 0.21242195, u'maillot', 0.079300396, u'bathtub', 0.069381677, u'brassiere', 0.068897314]
+[u'bikini', 0.07571394, u'wig', 0.068180636, u'groom', 0.062119778, u'hair_spray', 0.061419453, u'gown', 0.060007658]
+[u'sunscreen', 0.34398067, u'bikini', 0.25992152, u'snorkel', 0.093823284, u'swimming_trunks', 0.068135366, u'ice_lolly', 0.062877618]
+[u'bathtub', 0.26290318, u'tub', 0.15244021, u'candle', 0.067095727, u'swimming_trunks', 0.03514415, u'ice_lolly', 0.034595512]

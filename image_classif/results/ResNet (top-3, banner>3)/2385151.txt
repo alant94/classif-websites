@@ -1,0 +1,2 @@
+[u'comic_book', 0.47442439, u'thimble', 0.10131391, u'beer_bottle', 0.090684615]
+[u'hair_spray', 0.2086838, u'beer_bottle', 0.17739925, u'perfume', 0.078846283]

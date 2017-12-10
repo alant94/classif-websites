@@ -1,0 +1,8 @@
+[u'web_site', 0.33477142, u'envelope', 0.21275796, u'analog_clock', 0.018008089]
+[u'lipstick', 0.9901129, u'microphone', 0.0049645612, u'face_powder', 0.0012603403]
+[u'neck_brace', 0.10336122, u'jersey', 0.034661215, u'Sussex_spaniel', 0.032957196]
+[u'sewing_machine', 0.26525784, u'microwave', 0.22104461, u'desk', 0.16789636]
+[u'convertible', 0.29775476, u'oxygen_mask', 0.16476765, u'vacuum', 0.033777863]
+[u'theater_curtain', 0.19257209, u'pajama', 0.08882603, u'miniskirt', 0.048695095]
+[u'wig', 0.31337112, u'stole', 0.059066035, u'academic_gown', 0.039076246]
+[u'apron', 0.3575857, u'brassiere', 0.21880591, u'miniskirt', 0.066578075]

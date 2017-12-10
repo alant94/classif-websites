@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.80553448, u'barbershop', 0.065513566, u'web_site', 0.023414785]
+[u'web_site', 0.3162955, u'television', 0.17469062, u'envelope', 0.07933069]

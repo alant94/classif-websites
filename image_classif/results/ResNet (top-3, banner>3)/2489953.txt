@@ -1,0 +1,4 @@
+[u'military_uniform', 0.93083191, u'assault_rifle', 0.032171343, u'rifle', 0.0087045189]
+[u'African_elephant', 0.12399571, u'tusker', 0.10129537, u'Arabian_camel', 0.075185359]
+[u'Chesapeake_Bay_retriever', 0.2657851, u'bison', 0.16475515, u'hartebeest', 0.09096995]
+[u'Indian_elephant', 0.38881776, u'Arabian_camel', 0.27899954, u'tusker', 0.1079187]

@@ -1,0 +1,2 @@
+[u'screwdriver', 0.3652387, u"carpenter's_kit", 0.12410928, u'spatula', 0.10637317, u'letter_opener', 0.099512093, u'cleaver', 0.051257957]
+[u'monitor', 0.17065842, u'sliding_door', 0.14825463, u'wardrobe', 0.13986224, u'screen', 0.064728133, u'medicine_chest', 0.062765323]

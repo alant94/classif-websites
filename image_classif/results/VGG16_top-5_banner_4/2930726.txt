@@ -1,0 +1,2 @@
+[u'container_ship', 0.18506145, u'scoreboard', 0.096198708, u'envelope', 0.061709806, u'web_site', 0.034899592, u'Windsor_tie', 0.02687436]
+[u'envelope', 0.17975557, u'handkerchief', 0.052826948, u'tray', 0.04245301, u'cash_machine', 0.035867605, u'web_site', 0.031815931]

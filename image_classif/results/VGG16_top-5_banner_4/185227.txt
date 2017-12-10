@@ -1,0 +1,7 @@
+[u'street_sign', 0.42947057, u'hook', 0.17931771, u'nail', 0.048406757, u'web_site', 0.028548498, u'envelope', 0.020190114]
+[u'moving_van', 0.15021345, u'garbage_truck', 0.14799395, u'pickup', 0.14285663, u'tow_truck', 0.11832777, u'minibus', 0.10597966]
+[u'paddlewheel', 0.18256631, u'matchstick', 0.087887175, u'coil', 0.077769808, u'fountain', 0.055795431, u'picket_fence', 0.04888862]
+[u'pinwheel', 0.44332618, u'wall_clock', 0.19763099, u'hair_slide', 0.16638371, u'analog_clock', 0.025826786, u'rule', 0.022118753]
+[u'web_site', 0.97321725, u'book_jacket', 0.011852272, u'comic_book', 0.011482392, u'scoreboard', 0.0023635356, u'packet', 9.5949945e-05]
+[u'street_sign', 0.22994366, u'scoreboard', 0.15829228, u'book_jacket', 0.063828029, u'moving_van', 0.052876826, u'minivan', 0.034961417]
+[u'envelope', 0.12335991, u'web_site', 0.059188563, u'swab', 0.042658724, u'pajama', 0.027130306, u'broom', 0.026889129]

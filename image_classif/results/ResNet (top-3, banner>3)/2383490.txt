@@ -1,0 +1,8 @@
+[u'worm_fence', 0.21135966, u'plow', 0.033932958, u'picket_fence', 0.02436883]
+[u'clog', 0.40468672, u'sandal', 0.32377559, u'miniskirt', 0.053158168]
+[u'picket_fence', 0.21615636, u'fountain', 0.10797799, u'padlock', 0.059688918]
+[u'pick', 0.14155488, u'stopwatch', 0.052837241, u'spotlight', 0.046506394]
+[u'rapeseed', 0.22186743, u'lakeside', 0.093751349, u'geyser', 0.086449943]
+[u'shower_curtain', 0.3335942, u'window_shade', 0.18104731, u'banana', 0.079148605]
+[u'barrel', 0.81122631, u'paintbrush', 0.027464926, u'wooden_spoon', 0.023271943]
+[u'Ibizan_hound', 0.47881964, u'Welsh_springer_spaniel', 0.25233707, u'sorrel', 0.059877262]

@@ -1,0 +1,3 @@
+[u'pay-phone', 0.65312886, u'cash_machine', 0.19507, u'gas_pump', 0.031386022]
+[u'packet', 0.39459184, u'thimble', 0.071747795, u'golf_ball', 0.07077267]
+[u'gondola', 0.27753741, u'restaurant', 0.13985407, u'electric_guitar', 0.071705118]

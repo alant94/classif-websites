@@ -1,0 +1,7 @@
+[u'guillotine', 0.54891157, u'gong', 0.12530182, u'caldron', 0.05324078]
+[u'lumbermill', 0.21309924, u'Arabian_camel', 0.19895168, u'upright', 0.071943112]
+[u'bikini', 0.17439595, u'swimming_trunks', 0.10385189, u'bow', 0.075053491]
+[u'breastplate', 0.65122151, u'cuirass', 0.10258669, u'carousel', 0.047026455]
+[u'microphone', 0.60671568, u'harmonica', 0.051720951, u'bow', 0.051127989]
+[u'horizontal_bar', 0.43182316, u'parallel_bars', 0.25175342, u'balance_beam', 0.13335186]
+[u'swimming_trunks', 0.51197791, u'volleyball', 0.16309065, u'knee_pad', 0.085522324]

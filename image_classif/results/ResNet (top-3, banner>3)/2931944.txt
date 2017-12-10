@@ -1,0 +1,4 @@
+[u'hook', 0.12679921, u'corkscrew', 0.12511656, u'sunglass', 0.056474831]
+[u'analog_clock', 0.47209719, u'wall_clock', 0.16221751, u'screw', 0.057729777]
+[u'book_jacket', 0.23066802, u'packet', 0.18513216, u'envelope', 0.10037442]
+[u'nail', 0.18212661, u'bow', 0.059308432, u'power_drill', 0.056245483]

@@ -1,0 +1,1 @@
+[u'coffee_mug', 0.17771062, u'whiskey_jug', 0.1691324, u'toilet_tissue', 0.1118044, u'hair_spray', 0.11143981, u'oil_filter', 0.087417647]

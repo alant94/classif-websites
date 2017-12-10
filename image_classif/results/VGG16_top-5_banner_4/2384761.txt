@@ -1,0 +1,2 @@
+[u'hook', 0.10382622, u"carpenter's_kit", 0.09622772, u'screwdriver', 0.090651169, u'book_jacket', 0.035851948, u'bow', 0.035013191]
+[u'valley', 0.79611975, u'alp', 0.075325631, u'seashore', 0.034254186, u'promontory', 0.023823615, u'lakeside', 0.021068605]

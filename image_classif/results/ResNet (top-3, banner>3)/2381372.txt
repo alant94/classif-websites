@@ -1,0 +1,7 @@
+[u'screw', 0.080863543, u'nematode', 0.04529424, u'cornet', 0.040469386]
+[u'web_site', 0.69483531, u'analog_clock', 0.022802966, u'digital_clock', 0.017192697]
+[u'web_site', 0.59010983, u'digital_clock', 0.079564109, u'analog_clock', 0.041847605]
+[u'web_site', 0.53707755, u'envelope', 0.096492082, u'comic_book', 0.096488595]
+[u'hair_spray', 0.41361555, u'beer_bottle', 0.27208063, u'perfume', 0.11099089]
+[u'beer_bottle', 0.65383035, u'pop_bottle', 0.20948596, u'hair_spray', 0.060650684]
+[u'book_jacket', 0.84168029, u'web_site', 0.025154244, u'comic_book', 0.016569907]

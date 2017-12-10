@@ -1,0 +1,4 @@
+[u'envelope', 0.042869668, u'matchstick', 0.020226039, u'candle', 0.017474018, u'wall_clock', 0.015262167, u'lipstick', 0.014487061]
+[u'candle', 0.65604657, u'matchstick', 0.14281522, u'wardrobe', 0.019558577, u'vase', 0.010763282, u'picket_fence', 0.0064572887]
+[u'shower_curtain', 0.1841328, u'library', 0.041671515, u'container_ship', 0.035962429, u'prayer_rug', 0.02520526, u'washbasin', 0.020185217]
+[u'shower_curtain', 0.31134924, u'library', 0.053526577, u'bookshop', 0.053036083, u'tobacco_shop', 0.032508112, u'sliding_door', 0.023758108]

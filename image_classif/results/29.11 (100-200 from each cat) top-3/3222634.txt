@@ -1,0 +1,6 @@
+[u'nematode', 0.16769548, u'oscilloscope', 0.12427723, u'digital_clock', 0.10360456]
+[u'notebook', 0.19351482, u'screen', 0.1558152, u'monitor', 0.15129618]
+[u'refrigerator', 0.15213332, u'web_site', 0.098625124, u'pedestal', 0.079695083]
+[u'window_screen', 0.21734679, u'screen', 0.11712039, u'monitor', 0.11205064]
+[u'swab', 0.47070357, u'pole', 0.14854972, u'toaster', 0.096931033]
+[u'coral_reef', 0.1795406, u'wreck', 0.086167976, u'killer_whale', 0.081880771]

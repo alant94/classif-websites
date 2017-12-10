@@ -1,0 +1,3 @@
+[u'wardrobe', 0.55907923, u'crutch', 0.030462964, u'iron', 0.023473797, u'shower_curtain', 0.020033706, u'crib', 0.019917641]
+[u'menu', 0.4751853, u'envelope', 0.46996912, u'comic_book', 0.015918665, u'packet', 0.014085493, u'jigsaw_puzzle', 0.0096703535]
+[u'comic_book', 0.07669916, u'balloon', 0.029577676, u'wooden_spoon', 0.029233519, u'ocarina', 0.026567321, u'maraca', 0.020902228]

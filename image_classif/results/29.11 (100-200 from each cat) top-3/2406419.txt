@@ -1,0 +1,2 @@
+[u'tricycle', 0.68380308, u'barbershop', 0.020692836, u'sunglasses', 0.019953107]
+[u'picket_fence', 0.39093646, u'paddlewheel', 0.20504782, u'bannister', 0.058478434]

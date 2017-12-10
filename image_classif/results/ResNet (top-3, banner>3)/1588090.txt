@@ -1,0 +1,7 @@
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]
+[u'bikini', 0.93146157, u'maillot', 0.040157385, u'sarong', 0.016664762]
+[u'sliding_door', 0.81185603, u'dumbbell', 0.033216044, u'bikini', 0.010281169]
+[u'crutch', 0.22918442, u'drumstick', 0.2052968, u'bolo_tie', 0.097230464]
+[u'Yorkshire_terrier', 0.24200031, u'otterhound', 0.17610364, u'Greater_Swiss_Mountain_dog', 0.091650568]
+[u'crossword_puzzle', 0.47249365, u'swimming_trunks', 0.047423277, u'rule', 0.03601585]
+[u'brassiere', 0.14493006, u'titi', 0.089145966, u'bikini', 0.061782535]

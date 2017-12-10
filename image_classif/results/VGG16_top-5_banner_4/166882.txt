@@ -1,0 +1,2 @@
+[u'digital_clock', 0.60979426, u'monitor', 0.045288909, u'digital_watch', 0.038112506, u'oscilloscope', 0.029623242, u'safe', 0.027098995]
+[u'trench_coat', 0.66139388, u'suit', 0.096258722, u'overskirt', 0.094384938, u'velvet', 0.019725472, u'Windsor_tie', 0.01703638]

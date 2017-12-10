@@ -1,0 +1,8 @@
+[u'cliff', 0.51788265, u'cliff_dwelling', 0.18804224, u'alp', 0.02236212, u'volcano', 0.016128702, u'bighorn', 0.01221882]
+[u'crate', 0.32307079, u'turnstile', 0.21744998, u'forklift', 0.13078734, u'window_shade', 0.071013175, u'lumbermill', 0.025431171]
+[u'coyote', 0.14482372, u'American_black_bear', 0.088758565, u'bustard', 0.060950793, u'crane', 0.051125124, u'little_blue_heron', 0.035295501]
+[u'picket_fence', 0.13753258, u'candle', 0.10541368, u'bell_cote', 0.079639278, u'torch', 0.063635789, u'space_shuttle', 0.034608986]
+[u'sea_cucumber', 0.068783477, u'centipede', 0.056700606, u'acorn', 0.042743288, u'stinkhorn', 0.041192487, u'thunder_snake', 0.038910672]
+[u'water_buffalo', 0.13696977, u'hartebeest', 0.10995591, u'bison', 0.094908766, u'tusker', 0.062024809, u'ostrich', 0.059778459]
+[u'lakeside', 0.27660087, u'sandbar', 0.23140001, u'valley', 0.22225292, u'seashore', 0.055792671, u'maze', 0.020970622]
+[u'lampshade', 0.10499643, u'loudspeaker', 0.045508783, u'binder', 0.035066947, u'fire_screen', 0.032181911, u'window_screen', 0.029782169]

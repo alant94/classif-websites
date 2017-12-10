@@ -1,0 +1,8 @@
+[u'plow', 0.32371959, u'ox', 0.21168388, u'water_buffalo', 0.11352946]
+[u'butcher_shop', 0.99745864, u'cliff', 0.00040953324, u'barn', 0.0002534526]
+[u'analog_clock', 0.052826263, u'loupe', 0.049713053, u'nematode', 0.048738848]
+[u'web_site', 0.99732661, u'seashore', 0.00033247704, u'menu', 0.00019178558]
+[u'prayer_rug', 0.16818376, u'stretcher', 0.082874097, u'sliding_door', 0.070839144]
+[u'Welsh_springer_spaniel', 0.48059341, u'Brittany_spaniel', 0.15051566, u'borzoi', 0.082576439]
+[u'medicine_chest', 0.1638933, u'envelope', 0.1091392, u'screen', 0.093330704]
+[u'web_site', 0.69246602, u'envelope', 0.03887571, u'wall_clock', 0.019495612]

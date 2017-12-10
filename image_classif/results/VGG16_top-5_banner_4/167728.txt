@@ -1,0 +1,6 @@
+[u'barn', 0.97877574, u'volcano', 0.013309406, u'boathouse', 0.0032107558, u'church', 0.0016990203, u'alp', 0.00056196901]
+[u'traffic_light', 0.73264039, u'street_sign', 0.11806335, u'cinema', 0.071510762, u'cab', 0.011121682, u'bakery', 0.0059217992]
+[u'book_jacket', 0.59910637, u'comic_book', 0.13191192, u'packet', 0.057301402, u'menu', 0.037676353, u'web_site', 0.03195991]
+[u'torch', 0.1263548, u'motor_scooter', 0.087286137, u'moped', 0.077792652, u'stretcher', 0.073886491, u'football_helmet', 0.057699218]
+[u'stage', 0.89054143, u'toyshop', 0.036619354, u'jigsaw_puzzle', 0.01048125, u'loudspeaker', 0.007939727, u'scoreboard', 0.0064907805]
+[u'screwdriver', 0.42598891, u"carpenter's_kit", 0.20360127, u'ballpoint', 0.08466959, u'picket_fence', 0.022374919, u'safety_pin', 0.015427354]

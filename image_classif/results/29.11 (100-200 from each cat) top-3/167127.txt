@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.98451841, u'digital_clock', 0.0033208693, u'screen', 0.0017961552]
+[u'bow_tie', 0.91405618, u'Windsor_tie', 0.026151946, u'suit', 0.018702649]

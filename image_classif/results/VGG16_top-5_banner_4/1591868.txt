@@ -1,0 +1,7 @@
+[u'sliding_door', 0.53578687, u'wardrobe', 0.29547313, u'shower_curtain', 0.048373088, u'medicine_chest', 0.04555852, u'window_shade', 0.037310056]
+[u'matchstick', 0.14048648, u'wall_clock', 0.051595662, u'rule', 0.043227632, u'mousetrap', 0.041968722, u'hook', 0.038074959]
+[u'cliff', 0.39309418, u'cliff_dwelling', 0.28865945, u'vault', 0.035052493, u'castle', 0.034123998, u'megalith', 0.023877569]
+[u'fountain', 0.49541363, u'dam', 0.041246373, u'fireboat', 0.035087548, u'bell_cote', 0.019488575, u'pier', 0.018816544]
+[u'banded_gecko', 0.49452338, u'balance_beam', 0.082926422, u'parachute', 0.077994898, u'hook', 0.0158531, u'jigsaw_puzzle', 0.015149468]
+[u'whiskey_jug', 0.084444329, u'butternut_squash', 0.068084948, u'ping-pong_ball', 0.05778107, u'spaghetti_squash', 0.056728289, u'water_jug', 0.055579569]
+[u'aircraft_carrier', 0.31661701, u'container_ship', 0.17423147, u'bell_cote', 0.086658299, u'stupa', 0.033085104, u'dome', 0.026750151]

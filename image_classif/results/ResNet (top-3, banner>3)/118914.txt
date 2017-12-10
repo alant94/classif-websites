@@ -1,0 +1,8 @@
+[u'guillotine', 0.53850204, u'bannister', 0.094182134, u'loupe', 0.028489146]
+[u'organ', 0.25476733, u'bannister', 0.072526604, u'digital_clock', 0.071135379]
+[u'toaster', 0.17821224, u'soap_dispenser', 0.10819019, u'hair_slide', 0.10733709]
+[u'web_site', 0.16163081, u'coffeepot', 0.071752451, u'lighter', 0.050561223]
+[u'bow', 0.22132416, u'microphone', 0.091182493, u'iPod', 0.076189607]
+[u'file', 0.37222955, u'toaster', 0.078417495, u'analog_clock', 0.061950579]
+[u'remote_control', 0.23899601, u'screw', 0.12762766, u'web_site', 0.1072389]
+[u'soap_dispenser', 0.10887945, u'can_opener', 0.086340785, u'remote_control', 0.067330882]

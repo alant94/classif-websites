@@ -1,0 +1,2 @@
+[u'printer', 0.14316526, u'car_wheel', 0.076628946, u'sports_car', 0.066468216, u'minivan', 0.064025998, u'grille', 0.046153728]
+[u'scoreboard', 0.78988028, u'screen', 0.037735078, u'menu', 0.02242009, u'street_sign', 0.018933682, u'monitor', 0.012022918]

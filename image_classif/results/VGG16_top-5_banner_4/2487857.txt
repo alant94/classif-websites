@@ -1,0 +1,6 @@
+[u'butcher_shop', 0.5700627, u'cleaver', 0.058162641, u'hatchet', 0.024061853, u'vestment', 0.022335336, u'cloak', 0.01748638]
+[u'king_penguin', 0.6500954, u'megalith', 0.065214612, u'military_uniform', 0.064174965, u'stone_wall', 0.026566586, u'dogsled', 0.026365675]
+[u'hook', 0.15308495, u'nail', 0.061735932, u'web_site', 0.058817532, u'comic_book', 0.035326734, u'book_jacket', 0.033384141]
+[u'military_uniform', 0.20790349, u'poncho', 0.11576781, u'megalith', 0.099741772, u'fur_coat', 0.072413944, u'assault_rifle', 0.043589935]
+[u'tank', 0.15506692, u'tow_truck', 0.1328596, u'horse_cart', 0.10679631, u'cannon', 0.10396612, u'military_uniform', 0.090706207]
+[u'abacus', 0.10897049, u'binder', 0.088133954, u'envelope', 0.07769528, u'nail', 0.061527774, u'matchstick', 0.060358834]

@@ -1,0 +1,2 @@
+[u'screw', 0.23112577, u'nail', 0.22936672, u'ballpoint', 0.21206705, u'quill', 0.11492243, u'hair_slide', 0.088247783]
+[u'poncho', 0.65233529, u'stole', 0.10424432, u'bearskin', 0.068012051, u'wool', 0.028164536, u'feather_boa', 0.023286309]

@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.34783086, u'sock', 0.15512729, u'knee_pad', 0.059531707]
+[u'maillot', 0.43826336, u'swimming_trunks', 0.1246888, u'maillot', 0.090514101]
+[u'chain_mail', 0.24475038, u'miniskirt', 0.085410103, u'Windsor_tie', 0.06571386]
+[u'sandal', 0.34873074, u'maillot', 0.34726948, u'bikini', 0.11048348]

@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.38617429, u'wardrobe', 0.016974516, u'binder', 0.015867056, u'window_shade', 0.013799605, u'lampshade', 0.012401726]

@@ -1,0 +1,1 @@
+[u'safety_pin', 0.33726254, u'theater_curtain', 0.21491404, u'sea_urchin', 0.10088508, u'matchstick', 0.07990209, u'organ', 0.063645512]

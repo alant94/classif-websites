@@ -1,0 +1,1 @@
+[u'dining_table', 0.3393321, u'grand_piano', 0.23686059, u'restaurant', 0.21007511]

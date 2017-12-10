@@ -1,0 +1,5 @@
+[u'measuring_cup', 0.38269135, u'strainer', 0.21702363, u'mixing_bowl', 0.067263104, u'bucket', 0.054503694, u'cocktail_shaker', 0.038761526]
+[u'barrel', 0.74667937, u'shield', 0.033857659, u'mailbox', 0.021993266, u'sundial', 0.021539358, u'brass', 0.014192772]
+[u'wine_bottle', 0.54776722, u'red_wine', 0.28981516, u'perfume', 0.076946802, u'beaker', 0.026539532, u'pop_bottle', 0.016374547]
+[u'missile', 0.20299867, u'projectile', 0.11095989, u'space_shuttle', 0.054171111, u'shower_curtain', 0.052058876, u'fountain_pen', 0.03464086]
+[u'spotlight', 0.047590408, u'lampshade', 0.046202898, u'window_shade', 0.039044622, u'quill', 0.028366463, u'crane', 0.027745305]

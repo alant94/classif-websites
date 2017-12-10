@@ -1,0 +1,3 @@
+[u'screw', 0.14320427, u'web_site', 0.11931209, u'digital_clock', 0.065513313]
+[u'digital_clock', 0.46208543, u'analog_clock', 0.08775194, u'digital_watch', 0.050722454]
+[u'prayer_rug', 0.12115152, u'binder', 0.10284948, u'screen', 0.072076678]

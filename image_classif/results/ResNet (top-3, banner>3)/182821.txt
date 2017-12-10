@@ -1,0 +1,3 @@
+[u'upright', 0.99502051, u'grand_piano', 0.0043580178, u'organ', 0.00052659423]
+[u'hook', 0.15375574, u'oscilloscope', 0.078995332, u'digital_clock', 0.039759528]
+[u'seashore', 0.6864292, u'sandbar', 0.074127637, u'lakeside', 0.066864014]

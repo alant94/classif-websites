@@ -1,0 +1,2 @@
+[u'espresso_maker', 0.3917805, u'drum', 0.27825123, u'stove', 0.035023369, u'rotisserie', 0.027009739, u'fire_screen', 0.024547515]
+[u'gong', 0.13076247, u'thimble', 0.12468592, u'oil_filter', 0.099065877, u'honeycomb', 0.062604815, u'strainer', 0.058721773]

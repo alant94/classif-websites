@@ -1,0 +1,8 @@
+[u'book_jacket', 0.43323436, u'comic_book', 0.39672989, u'packet', 0.03006587]
+[u'monitor', 0.077545911, u'screen', 0.047401391, u'window_shade', 0.044844512]
+[u'whistle', 0.085107878, u'web_site', 0.065437876, u'spotlight', 0.03584462]
+[u'envelope', 0.14263254, u'web_site', 0.12377419, u'laptop', 0.078526981]
+[u'vestment', 0.22751823, u'palace', 0.12427074, u'dining_table', 0.10612413]
+[u'washer', 0.36250111, u'joystick', 0.1255174, u'Polaroid_camera', 0.10409709]
+[u'shield', 0.26876178, u'pill_bottle', 0.030057538, u'Band_Aid', 0.027606413]
+[u'triumphal_arch', 0.086301155, u'croquet_ball', 0.063631631, u'lawn_mower', 0.060646195]

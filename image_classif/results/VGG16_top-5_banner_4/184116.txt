@@ -1,0 +1,2 @@
+[u'fountain', 0.1209363, u'mitten', 0.099760555, u'jellyfish', 0.082357183, u'picket_fence', 0.057160266, u'stage', 0.044016108]
+[u'envelope', 0.065256387, u'digital_clock', 0.054560009, u'book_jacket', 0.048614196, u'web_site', 0.046708498, u'crossword_puzzle', 0.038929153]

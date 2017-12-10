@@ -1,0 +1,8 @@
+[u'book_jacket', 0.50274897, u'comic_book', 0.43222034, u'cinema', 0.010517242, u'scoreboard', 0.01021136, u'tobacco_shop', 0.0043645129]
+[u'toaster', 0.070307195, u"carpenter's_kit", 0.065713786, u'power_drill', 0.059579354, u'digital_clock', 0.052121211, u'gas_pump', 0.042300764]
+[u'guillotine', 0.040444363, u'monitor', 0.037288029, u'flagpole', 0.026981017, u'street_sign', 0.026975486, u'screen', 0.025709521]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'coffee_mug', 0.28572416, u'lighter', 0.082738988, u'comic_book', 0.072284907, u'bookcase', 0.056018766, u'beer_bottle', 0.041115586]
+[u'comic_book', 0.74452215, u'vending_machine', 0.089391105, u'slot', 0.032886092, u'web_site', 0.01368006, u'book_jacket', 0.010427229]
+[u'tray', 0.18938294, u'buckle', 0.13137503, u'purse', 0.10605837, u'wallet', 0.095850848, u'mailbag', 0.076794036]
+[u'bell_cote', 0.11748872, u'analog_clock', 0.03899293, u'beacon', 0.037604239, u'street_sign', 0.033711694, u'church', 0.031030824]

@@ -1,0 +1,1 @@
+[u'lighter', 0.21348387, u'freight_car', 0.063338533, u'beer_bottle', 0.06278228, u'book_jacket', 0.061932221, u'comic_book', 0.046799168]

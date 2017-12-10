@@ -1,0 +1,5 @@
+[u'screwdriver', 0.38834143, u"carpenter's_kit", 0.17793714, u'organ', 0.061546519, u'accordion', 0.0564829, u'cinema', 0.055549648]
+[u'African_hunting_dog', 0.70783764, u'impala', 0.069203399, u'hartebeest', 0.062489837, u'bighorn', 0.058622818, u'ibex', 0.021961764]
+[u'screwdriver', 0.17776541, u'nail', 0.083179109, u"carpenter's_kit", 0.080206342, u'book_jacket', 0.058879297, u'hook', 0.052904245]
+[u'Indian_cobra', 0.3874805, u'prairie_chicken', 0.26252294, u'bustard', 0.076812327, u'partridge', 0.073371343, u'quail', 0.058431666]
+[u'whistle', 0.31952402, u'muzzle', 0.30939102, u'sandal', 0.16744824, u'hook', 0.037783455, u'buckle', 0.032137182]

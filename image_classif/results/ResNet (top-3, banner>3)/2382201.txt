@@ -1,0 +1,2 @@
+[u'desk', 0.28685394, u'web_site', 0.18872647, u'bookcase', 0.071204551]
+[u'airship', 0.14174996, u'church', 0.10769154, u'monitor', 0.092778295]

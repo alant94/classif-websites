@@ -1,0 +1,3 @@
+[u'candle', 0.27858272, u'fire_screen', 0.045130078, u'four-poster', 0.040399343, u'stove', 0.021918539, u'china_cabinet', 0.020602709]
+[u'vault', 0.14926885, u'altar', 0.098138794, u'monastery', 0.070473917, u'throne', 0.046749037, u'punching_bag', 0.043658294]
+[u'wig', 0.14355406, u'lipstick', 0.089542255, u'eggnog', 0.085203074, u'brassiere', 0.064465657, u'perfume', 0.054696791]

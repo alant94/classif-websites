@@ -1,0 +1,5 @@
+[u'wallaby', 0.37678328, u'ibex', 0.17905065, u'hare', 0.13626069, u'gazelle', 0.095153868, u'impala', 0.091952637]
+[u'whistle', 0.42849985, u'quill', 0.053438064, u'digital_watch', 0.035099823, u'swab', 0.03422137, u'maraca', 0.029004771]
+[u'quill', 0.11239308, u'book_jacket', 0.065376654, u'swab', 0.045929484, u'wall_clock', 0.041252594, u'analog_clock', 0.039002907]
+[u'wallaby', 0.67147076, u'impala', 0.12991284, u'hare', 0.066374816, u'ibex', 0.059784673, u'gazelle', 0.034435228]
+[u'bow', 0.34153149, u'assault_rifle', 0.12094592, u'oboe', 0.095704563, u'microphone', 0.073674582, u'bassoon', 0.062067259]

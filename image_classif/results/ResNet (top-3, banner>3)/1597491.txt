@@ -1,0 +1,8 @@
+[u'Pembroke', 0.20711103, u'toy_poodle', 0.10710506, u'gibbon', 0.10293525]
+[u'beer_glass', 0.23498723, u'lighter', 0.12853773, u'buckle', 0.12280524]
+[u'tub', 0.57997841, u'bathtub', 0.34133172, u'bikini', 0.049145836]
+[u'ringneck_snake', 0.28426865, u'swimming_trunks', 0.14681302, u'thunder_snake', 0.11113705]
+[u'Band_Aid', 0.64372736, u'syringe', 0.05660839, u'sandal', 0.032092746]
+[u'sandal', 0.53922725, u'miniskirt', 0.27525383, u'maillot', 0.025685992]
+[u'cornet', 0.2389871, u'padlock', 0.19379309, u'isopod', 0.042398576]
+[u'buckle', 0.38639385, u'sandal', 0.25917268, u'Band_Aid', 0.060282186]

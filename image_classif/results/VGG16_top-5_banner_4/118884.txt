@@ -1,0 +1,4 @@
+[u'paintbrush', 0.093423456, u'poncho', 0.086025916, u'stole', 0.076147899, u'sarong', 0.066594556, u'brassiere', 0.046375647]
+[u'radiator', 0.40904316, u'confectionery', 0.10555097, u'shoe_shop', 0.077153333, u'theater_curtain', 0.039861903, u'butcher_shop', 0.033099256]
+[u'wine_bottle', 0.4565424, u'beer_bottle', 0.15538436, u'screwdriver', 0.064490184, u'red_wine', 0.039788488, u'corkscrew', 0.03264115]
+[u'candle', 0.20729262, u'paintbrush', 0.12099334, u'picket_fence', 0.058025371, u'matchstick', 0.047498353, u'kimono', 0.03116804]

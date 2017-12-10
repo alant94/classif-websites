@@ -1,0 +1,1 @@
+[u'digital_clock', 0.47445396, u"jack-o'-lantern", 0.25627428, u'jersey', 0.071790569, u'traffic_light', 0.014406441, u'digital_watch', 0.011053094]

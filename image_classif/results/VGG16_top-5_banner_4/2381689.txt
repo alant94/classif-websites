@@ -1,0 +1,4 @@
+[u'chain', 0.27298769, u'mask', 0.15572301, u'hook', 0.048774645, u'worm_fence', 0.043475579, u'goblet', 0.037014395]
+[u'forklift', 0.15572669, u'trailer_truck', 0.085985102, u'reel', 0.046982039, u'vacuum', 0.044371393, u'garbage_truck', 0.042798508]
+[u'pick', 0.11365361, u'safety_pin', 0.10818763, u'jersey', 0.10208316, u'toilet_seat', 0.041832145, u'coffee_mug', 0.038133688]
+[u'red_wine', 0.71841335, u'chain', 0.088022634, u'wine_bottle', 0.032324947, u'hook', 0.015407705, u'punching_bag', 0.011163976]

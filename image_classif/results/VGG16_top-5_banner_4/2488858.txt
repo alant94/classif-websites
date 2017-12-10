@@ -1,0 +1,3 @@
+[u'quill', 0.11153347, u'upright', 0.09877003, u'grand_piano', 0.090942629, u'bannister', 0.061753087, u'plane', 0.054564536]
+[u'street_sign', 0.3057237, u'traffic_light', 0.061631005, u'web_site', 0.043456405, u'book_jacket', 0.02874136, u'digital_clock', 0.027501635]
+[u'library', 0.93208146, u'bookcase', 0.046935737, u'entertainment_center', 0.0054557617, u'bookshop', 0.0029764359, u'wardrobe', 0.0026623916]

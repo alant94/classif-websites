@@ -1,0 +1,7 @@
+[u'shield', 0.77291125, u'throne', 0.068690449, u'lighter', 0.034597714, u'vestment', 0.026204465, u'breastplate', 0.014732409]
+[u'altar', 0.21808466, u'chime', 0.16958521, u'wall_clock', 0.089852236, u'jersey', 0.073261932, u'necklace', 0.046518937]
+[u'web_site', 0.073930316, u'nematode', 0.029117096, u'matchstick', 0.017409597, u'nail', 0.015155098, u'tick', 0.011390476]
+[u'hook', 0.3883146, u'nail', 0.10050731, u'bolo_tie', 0.084415816, u'stethoscope', 0.043583151, u'coil', 0.043310184]
+[u'web_site', 0.084727041, u'envelope', 0.077986538, u'hand_blower', 0.052651029, u'hook', 0.031358577, u'jersey', 0.026349954]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'shield', 0.31959626, u'wall_clock', 0.093968652, u'electric_fan', 0.053940047, u'bolo_tie', 0.051734809, u'comic_book', 0.040262032]

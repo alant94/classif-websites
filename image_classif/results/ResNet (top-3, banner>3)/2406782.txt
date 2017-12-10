@@ -1,0 +1,8 @@
+[u'Welsh_springer_spaniel', 0.39973909, u'Blenheim_spaniel', 0.2148464, u'Brittany_spaniel', 0.15211532]
+[u'jigsaw_puzzle', 0.093236551, u'toyshop', 0.082028136, u'soap_dispenser', 0.047382265]
+[u'tray', 0.34523323, u'quilt', 0.16492467, u'slot', 0.10030374]
+[u'carousel', 0.87039953, u'lumbermill', 0.022272812, u'restaurant', 0.017857717]
+[u'tobacco_shop', 0.85073608, u'toyshop', 0.068336107, u'bookshop', 0.031579755]
+[u'bathing_cap', 0.2486659, u'jigsaw_puzzle', 0.17098626, u'coral_reef', 0.075658932]
+[u'jigsaw_puzzle', 0.86402178, u'prayer_rug', 0.095326386, u'doormat', 0.011621019]
+[u'indri', 0.85461408, u'Madagascar_cat', 0.043885518, u'miniature_pinscher', 0.04012632]

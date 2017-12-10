@@ -1,0 +1,2 @@
+[u'shower_cap', 0.42952874, u'mask', 0.18460733, u'bubble', 0.12665983, u'bathing_cap', 0.034548346, u'wig', 0.024241447]
+[u'caldron', 0.30163243, u'bubble', 0.16936383, u'bucket', 0.040822405, u'hourglass', 0.038470767, u'pickelhaube', 0.030244906]

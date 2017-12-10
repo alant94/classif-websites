@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.64925092, u'dumbbell', 0.16031115, u'power_drill', 0.040638093, u'diaper', 0.019230615, u'balance_beam', 0.01217288]
+[u'Band_Aid', 0.66167068, u'conch', 0.020981217, u'butternut_squash', 0.014428404, u'thimble', 0.012984753, u'mortar', 0.011668125]
+[u'limousine', 0.23117685, u'car_mirror', 0.1765271, u'microwave', 0.080721781, u'fountain', 0.065328673, u'dam', 0.026845604]
+[u'safe', 0.089850836, u'switch', 0.061170831, u'spotlight', 0.059009213, u'refrigerator', 0.05266076, u'combination_lock', 0.034344532]
+[u'digital_clock', 0.07042376, u'wall_clock', 0.041000653, u'traffic_light', 0.026379032, u'shower_curtain', 0.023573522, u'window_screen', 0.02059962]
+[u'fireboat', 0.93066627, u'fountain', 0.032581236, u'paddlewheel', 0.010004465, u'mosquito_net', 0.0014092949, u'pier', 0.0012666641]

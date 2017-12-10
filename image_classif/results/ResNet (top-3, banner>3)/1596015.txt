@@ -1,0 +1,6 @@
+[u'chain_mail', 0.10427412, u'chain', 0.050429758, u'oboe', 0.028937798]
+[u'wig', 0.33221725, u'brassiere', 0.30492133, u'lipstick', 0.040181484]
+[u'knee_pad', 0.60302347, u'brassiere', 0.19396687, u'swimming_trunks', 0.049820703]
+[u'pick', 0.91687924, u'drum', 0.027497839, u'shield', 0.021318892]
+[u'Blenheim_spaniel', 0.24138373, u'Boston_bull', 0.14669454, u'Maltese_dog', 0.059623264]
+[u'paintbrush', 0.33849043, u'Windsor_tie', 0.067336023, u'bikini', 0.031755731]

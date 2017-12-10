@@ -1,0 +1,6 @@
+[u'barracouta', 0.77856153, u'gar', 0.10816933, u'sturgeon', 0.044995163, u'tench', 0.021049608, u'armadillo', 0.0091834478]
+[u'web_site', 0.1794741, u'pick', 0.054179382, u'Band_Aid', 0.019132661, u'stopwatch', 0.01903737, u'analog_clock', 0.018947784]
+[u'cash_machine', 0.15205595, u'brass', 0.12878007, u'street_sign', 0.072503589, u'volcano', 0.056153551, u'book_jacket', 0.040952712]
+[u'book_jacket', 0.075103208, u'web_site', 0.041363016, u'street_sign', 0.038871009, u'pick', 0.029369973, u'sax', 0.020105667]
+[u'palace', 0.17002766, u'stupa', 0.16123846, u'mosque', 0.14197999, u'liner', 0.13809316, u'airship', 0.038567431]
+[u'shield', 0.80089033, u'barrow', 0.04720607, u'chain_mail', 0.033254728, u'great_grey_owl', 0.010462536, u'chain_saw', 0.0068415701]

@@ -1,0 +1,1 @@
+[u'patio', 0.89986604, u'mobile_home', 0.01729867, u'planetarium', 0.013937317, u'tile_roof', 0.0062743113, u'flagpole', 0.0052131852]

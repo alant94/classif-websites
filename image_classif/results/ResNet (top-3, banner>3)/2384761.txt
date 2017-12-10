@@ -1,0 +1,2 @@
+[u'plate_rack', 0.20931426, u'oscilloscope', 0.095937125, u'book_jacket', 0.080339544]
+[u'valley', 0.85025263, u'lakeside', 0.054285623, u'alp', 0.048761982]

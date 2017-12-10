@@ -1,0 +1,2 @@
+[u'fountain', 0.75867885, u'isopod', 0.19614002, u'jellyfish', 0.020286439, u'bubble', 0.0044835536, u'solar_dish', 0.0033197163]
+[u'fountain', 0.62629819, u'solar_dish', 0.090475269, u'jellyfish', 0.044172827, u'geyser', 0.014393741, u'balloon', 0.013926379]

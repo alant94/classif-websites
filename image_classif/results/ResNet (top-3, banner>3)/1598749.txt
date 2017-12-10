@@ -1,0 +1,6 @@
+[u'totem_pole', 0.27029318, u'Indian_elephant', 0.1189117, u'lumbermill', 0.0645089]
+[u'bikini', 0.49521124, u'web_site', 0.11289394, u'maillot', 0.083152793]
+[u'television', 0.22403881, u'scoreboard', 0.20801021, u'monitor', 0.10702221]
+[u'digital_clock', 0.28046608, u'screen', 0.13998725, u'monitor', 0.1158222]
+[u'balance_beam', 0.22707534, u'maillot', 0.20366824, u'maillot', 0.068940595]
+[u'maillot', 0.37123603, u'bikini', 0.2611421, u'swimming_trunks', 0.10494496]

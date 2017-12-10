@@ -1,0 +1,3 @@
+[u'tray', 0.30684879, u'shield', 0.10615177, u'quilt', 0.057825662]
+[u'restaurant', 0.48953986, u'dining_table', 0.21843337, u'plate', 0.10882477]
+[u'tray', 0.24721363, u'wall_clock', 0.21380259, u'whistle', 0.051075563]

@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.17223063, u'envelope', 0.12289865, u'packet', 0.07256116, u'laptop', 0.063842982, u'web_site', 0.058709975]
+[u'wardrobe', 0.54540044, u'jean', 0.033603117, u'carton', 0.022790074, u'sliding_door', 0.017985089, u'shoe_shop', 0.016798537]
+[u'wardrobe', 0.23761794, u'toyshop', 0.1252438, u'refrigerator', 0.11873472, u'washer', 0.064033523, u'shower_curtain', 0.061041396]
+[u'wardrobe', 0.13691562, u'shower_curtain', 0.079880692, u'pajama', 0.069874756, u'carton', 0.065004006, u'apron', 0.039590884]
+[u'web_site', 0.03230333, u'parachute', 0.024465976, u'envelope', 0.020572662, u'bee_eater', 0.016694769, u'bald_eagle', 0.014212439]

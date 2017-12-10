@@ -1,0 +1,8 @@
+[u'jersey', 0.09689638, u'sunscreen', 0.087532617, u'hair_spray', 0.078515157, u'tennis_ball', 0.042242054, u'book_jacket', 0.041047528]
+[u'gown', 0.057437193, u'sarong', 0.041918959, u'theater_curtain', 0.039038315, u'groom', 0.03813874, u'ocarina', 0.03097984]
+[u'book_jacket', 0.25906402, u'sunscreen', 0.12785424, u'oil_filter', 0.06043379, u'packet', 0.057498831, u'lotion', 0.041949224]
+[u'container_ship', 0.24688862, u'magnetic_compass', 0.082931623, u'vase', 0.04364327, u'fountain', 0.027767673, u'broom', 0.024370553]
+[u'ballpoint', 0.57097954, u'shower_curtain', 0.097644992, u'chime', 0.041504141, u'rubber_eraser', 0.036931772, u'panpipe', 0.020889604]
+[u'jersey', 0.51443261, u'magnetic_compass', 0.061556809, u'stopwatch', 0.039902125, u'whistle', 0.035774551, u'sweatshirt', 0.029192353]
+[u'ping-pong_ball', 0.23373586, u'tennis_ball', 0.054877196, u'dough', 0.024530631, u'sunscreen', 0.022195315, u'hair_spray', 0.021240246]
+[u'beacon', 0.55184162, u'water_tower', 0.15535672, u'stupa', 0.086070098, u'mosque', 0.042229187, u'monastery', 0.029163091]

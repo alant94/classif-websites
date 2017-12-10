@@ -1,0 +1,2 @@
+[u'Polaroid_camera', 0.19299977, u'vending_machine', 0.14689076, u'cassette_player', 0.10750366, u'slot', 0.10501014, u'tape_player', 0.064700112]
+[u'vending_machine', 0.94811183, u'cash_machine', 0.016653819, u'slot', 0.015163547, u'pay-phone', 0.0038131096, u'gas_pump', 0.0032925084]

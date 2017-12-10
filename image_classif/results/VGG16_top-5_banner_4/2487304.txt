@@ -1,0 +1,1 @@
+[u'spider_web', 0.64838171, u'necklace', 0.22961962, u'chain', 0.025814082, u'electric_fan', 0.025728406, u'bib', 0.011712102]

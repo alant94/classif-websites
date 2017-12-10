@@ -1,0 +1,2 @@
+[u'traffic_light', 0.061031345, u'printer', 0.056245681, u'sewing_machine', 0.055033732, u'power_drill', 0.053747445, u'guillotine', 0.036737192]
+[u'tripod', 0.066720031, u'analog_clock', 0.063161187, u'digital_clock', 0.037728861, u'crane', 0.031254992, u'modem', 0.029676121]

@@ -1,0 +1,4 @@
+[u'book_jacket', 0.96979952, u'picket_fence', 0.012448529, u'brass', 0.0011768274]
+[u'book_jacket', 0.82959759, u'street_sign', 0.049788103, u'ashcan', 0.036965903]
+[u'crossword_puzzle', 0.23738022, u'book_jacket', 0.13888149, u'comic_book', 0.078605406]
+[u'book_jacket', 0.25816685, u'traffic_light', 0.17667143, u'digital_clock', 0.09795405]

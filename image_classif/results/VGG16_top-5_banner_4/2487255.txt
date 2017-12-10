@@ -1,0 +1,4 @@
+[u'book_jacket', 0.11892686, u'tennis_ball', 0.055991847, u'comic_book', 0.045936722, u'jersey', 0.042239275, u'scoreboard', 0.039718404]
+[u'water_buffalo', 0.70687783, u'wild_boar', 0.14740181, u'warthog', 0.073314324, u'hog', 0.051014207, u'ox', 0.0063655144]
+[u'king_penguin', 0.28464541, u'military_uniform', 0.069443427, u'stone_wall', 0.063636325, u'black_swan', 0.052887693, u'vulture', 0.03523653]
+[u'stone_wall', 0.29250005, u'black_swan', 0.25499952, u'plow', 0.045861121, u'black_grouse', 0.033706609, u'prairie_chicken', 0.032292895]

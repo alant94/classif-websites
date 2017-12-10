@@ -1,0 +1,6 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193]
+[u'fire_engine', 0.24404374, u'sliding_door', 0.12870422, u'vending_machine', 0.049198408]
+[u'digital_clock', 0.98365343, u'digital_watch', 0.0027437618, u'screen', 0.0014888069]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'prayer_rug', 0.33532313, u'binder', 0.063448958, u'moving_van', 0.047748577]
+[u'cardigan', 0.061891861, u'sarong', 0.054967839, u'stole', 0.046466578]

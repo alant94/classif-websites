@@ -1,0 +1,3 @@
+[u'apiary', 0.23442055, u'birdhouse', 0.086322017, u'park_bench', 0.061191313, u"potter's_wheel", 0.060632519, u'flute', 0.048898343]
+[u'letter_opener', 0.43855238, u'hammer', 0.075814195, u'slide_rule', 0.073694207, u"carpenter's_kit", 0.06318301, u'screwdriver', 0.052102409]
+[u'paintbrush', 0.43968847, u'screwdriver', 0.1084716, u"carpenter's_kit", 0.10711375, u'ballpoint', 0.056215055, u'plate_rack', 0.053532537]

@@ -1,0 +1,1 @@
+[u'viaduct', 0.18090847, u'snowplow', 0.10237508, u'park_bench', 0.041685104, u'stone_wall', 0.035357855, u'church', 0.032767072]

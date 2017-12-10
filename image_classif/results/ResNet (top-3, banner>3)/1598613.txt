@@ -1,0 +1,8 @@
+[u'maillot', 0.16445956, u'bikini', 0.051313661, u'paddle', 0.03414296]
+[u'bikini', 0.50181985, u'maillot', 0.20533144, u'maillot', 0.13979372]
+[u'bikini', 0.82995439, u'swimming_trunks', 0.095268376, u'maillot', 0.020814409]
+[u'prayer_rug', 0.2852293, u'throne', 0.089967251, u'vestment', 0.049686413]
+[u'toyshop', 0.16753025, u'horizontal_bar', 0.081935637, u'crane', 0.072615251]
+[u'comic_book', 0.37697196, u'bikini', 0.10602413, u'bathing_cap', 0.087401569]
+[u'comic_book', 0.37511373, u'drum', 0.17537804, u'waffle_iron', 0.092536703]
+[u'bikini', 0.2709184, u'maillot', 0.19414805, u'maillot', 0.094604686]

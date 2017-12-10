@@ -1,0 +1,8 @@
+[u'croquet_ball', 0.20987727, u'pajama', 0.14078216, u'Cardigan', 0.075064205]
+[u'bannister', 0.087413795, u'mask', 0.067877002, u'sorrel', 0.055730253]
+[u'groom', 0.27349618, u'lab_coat', 0.1152183, u'barbershop', 0.083313361]
+[u'sunglasses', 0.6751864, u'Weimaraner', 0.082240179, u'sunglass', 0.077700548]
+[u'web_site', 0.23935091, u'sunglasses', 0.16785027, u'carton', 0.061092276]
+[u'bikini', 0.18110453, u'groom', 0.085239559, u'miniskirt', 0.064606473]
+[u'military_uniform', 0.075394399, u'bulletproof_vest', 0.058775902, u'assault_rifle', 0.026602227]
+[u'plow', 0.080148391, u'Gordon_setter', 0.063149028, u'kelpie', 0.057234589]

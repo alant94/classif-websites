@@ -1,0 +1,3 @@
+[u'abaya', 0.07660377, u'coffee_mug', 0.04693684, u'purse', 0.04152647, u'mailbag', 0.032405961, u'notebook', 0.031516429]
+[u'breakwater', 0.40492237, u'pole', 0.23497614, u'seashore', 0.080637977, u'flagpole', 0.072441101, u'beacon', 0.030129999]
+[u'mortarboard', 0.24961181, u'cleaver', 0.056103155, u'bow_tie', 0.047267482, u'academic_gown', 0.044088315, u'hammer', 0.026578592]

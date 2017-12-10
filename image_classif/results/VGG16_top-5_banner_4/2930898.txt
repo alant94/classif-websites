@@ -1,0 +1,8 @@
+[u'strainer', 0.17176671, u'wolf_spider', 0.092479862, u'wooden_spoon', 0.091772474, u'dough', 0.040111411, u'conch', 0.020987405]
+[u'web_site', 0.64660382, u'lab_coat', 0.084733099, u'monitor', 0.022918237, u'book_jacket', 0.010065077, u'turnstile', 0.0093976585]
+[u'web_site', 0.99712485, u'menu', 0.0010666064, u'monitor', 0.00030412895, u'screen', 0.00026916311, u'envelope', 0.00022772599]
+[u'lakeside', 0.23512971, u'swimming_trunks', 0.080029309, u'groom', 0.078266285, u'canoe', 0.055773847, u'sarong', 0.050826564]
+[u'fountain', 0.079235055, u'isopod', 0.070297584, u'conch', 0.047977366, u'goldfish', 0.039912701, u'piggy_bank', 0.036047548]
+[u'pretzel', 0.12111093, u'corn', 0.087869368, u'ear', 0.050344277, u'hamper', 0.03374359, u'mortar', 0.03058701]
+[u'coffee_mug', 0.55489612, u'espresso', 0.15161787, u'cup', 0.1217473, u'measuring_cup', 0.064329706, u'Crock_Pot', 0.016180979]
+[u'lumbermill', 0.4592329, u'snowplow', 0.064976171, u'drilling_platform', 0.048557676, u'dogsled', 0.024446692, u'breakwater', 0.017185984]

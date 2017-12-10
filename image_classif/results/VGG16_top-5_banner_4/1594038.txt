@@ -1,0 +1,1 @@
+[u'beacon', 0.18890819, u'bell_cote', 0.12113194, u'church', 0.085646868, u'birdhouse', 0.046437696, u'water_tower', 0.034588706]

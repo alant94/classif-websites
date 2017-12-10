@@ -1,0 +1,2 @@
+[u'book_jacket', 0.063008033, u'hook', 0.060624577, u'oscilloscope', 0.05785577, u'coral_reef', 0.054525942, u'lionfish', 0.046811119]
+[u'trailer_truck', 0.3920022, u'moving_van', 0.093332984, u'freight_car', 0.03736899, u'street_sign', 0.031671789, u'space_shuttle', 0.028223347]

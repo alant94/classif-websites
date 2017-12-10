@@ -1,0 +1,4 @@
+[u'lumbermill', 0.32217374, u'tank', 0.10490843, u'snowplow', 0.096570678, u'forklift', 0.032472536, u'cannon', 0.024981847]
+[u'violin', 0.1208738, u'cello', 0.076530769, u'cornet', 0.069332264, u'paddlewheel', 0.052788179, u'banjo', 0.043162882]
+[u'loudspeaker', 0.3261551, u'dumbbell', 0.25134978, u'barbell', 0.071116947, u'iPod', 0.017041057, u'maillot', 0.015701802]
+[u'buckle', 0.50676453, u'cinema', 0.061990067, u'grille', 0.053399093, u'chest', 0.040235352, u'holster', 0.039265238]

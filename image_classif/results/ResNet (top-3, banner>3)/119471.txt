@@ -1,0 +1,2 @@
+[u'lumbermill', 0.89093012, u'balance_beam', 0.019743577, u'plane', 0.015803028]
+[u'gong', 0.34188768, u'magnetic_compass', 0.27829221, u'slide_rule', 0.1203529]

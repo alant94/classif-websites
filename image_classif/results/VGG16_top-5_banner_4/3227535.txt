@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.36639476, u'sleeping_bag', 0.11109354, u'quilt', 0.071907707, u'pajama', 0.071713179, u'studio_couch', 0.05445528]

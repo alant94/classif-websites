@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.39129439, u'traffic_light', 0.1277083, u'warplane', 0.041165736, u'maze', 0.018786618, u'necklace', 0.015141197]
+[u'envelope', 0.25477508, u'crib', 0.039528374, u'shower_curtain', 0.034858495, u'wall_clock', 0.028664082, u'Band_Aid', 0.027741026]

@@ -1,0 +1,4 @@
+[u'ballpoint', 0.13946779, u'nail', 0.069502115, u'can_opener', 0.064137928, u'web_site', 0.051533155, u'paintbrush', 0.046818461]
+[u'envelope', 0.064154536, u'web_site', 0.044262998, u'Windsor_tie', 0.0088150967, u'book_jacket', 0.0087954346, u'velvet', 0.0073494776]
+[u'tray', 0.26370671, u'switch', 0.078574404, u'iPod', 0.078303158, u'lighter', 0.071295492, u'modem', 0.041907545]
+[u'panpipe', 0.41153961, u'rule', 0.067558438, u'organ', 0.057688545, u'chime', 0.044299413, u'rubber_eraser', 0.044280007]

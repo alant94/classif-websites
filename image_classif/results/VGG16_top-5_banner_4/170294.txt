@@ -1,0 +1,1 @@
+[u'muzzle', 0.43575016, u'mortarboard', 0.35002992, u'llama', 0.10935588, u'Siamese_cat', 0.030973351, u'academic_gown', 0.020521648]

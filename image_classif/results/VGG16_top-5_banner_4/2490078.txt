@@ -1,0 +1,2 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u"carpenter's_kit", 0.28695288, u'buckle', 0.23842332, u'hook', 0.048592381, u'crutch', 0.04737078, u'hammer', 0.035467912]

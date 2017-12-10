@@ -1,0 +1,4 @@
+[u'analog_clock', 0.43880299, u'wall_clock', 0.11052003, u'face_powder', 0.094161101, u'digital_clock', 0.05820559, u'soccer_ball', 0.028259309]
+[u'fountain', 0.48528123, u'dam', 0.17273408, u'volcano', 0.096546926, u'breakwater', 0.053394757, u'greenhouse', 0.038765501]
+[u'sorrel', 0.95080638, u'horse_cart', 0.03258029, u'Arabian_camel', 0.0079677515, u'ox', 0.0032506287, u'oxcart', 0.0012607259]
+[u'tray', 0.33874911, u'book_jacket', 0.32785881, u'binder', 0.043243632, u'packet', 0.027922945, u'envelope', 0.024594652]

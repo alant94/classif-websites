@@ -1,0 +1,3 @@
+[u'book_jacket', 0.45057872, u'street_sign', 0.082252547, u'shopping_basket', 0.042987529, u'scoreboard', 0.037432346, u'mailbox', 0.034551878]
+[u'monitor', 0.35393423, u'television', 0.23326322, u'screen', 0.091141924, u'bobsled', 0.050538059, u'scoreboard', 0.040428866]
+[u'iPod', 0.11656329, u'buckle', 0.10709565, u'lighter', 0.057601959, u'cellular_telephone', 0.040998731, u'dumbbell', 0.035473175]

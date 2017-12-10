@@ -1,0 +1,3 @@
+[u'submarine', 0.27809542, u'electric_ray', 0.12623082, u'nematode', 0.025909554]
+[u'measuring_cup', 0.21671964, u'electric_fan', 0.12899004, u'spotlight', 0.062525474]
+[u'street_sign', 0.17784016, u'book_jacket', 0.073463976, u'paper_towel', 0.051798139]

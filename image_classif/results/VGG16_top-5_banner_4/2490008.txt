@@ -1,0 +1,4 @@
+[u'Border_terrier', 0.092993446, u'koala', 0.05475989, u'meerkat', 0.053951446, u'bath_towel', 0.049593382, u'Weimaraner', 0.025481477]
+[u'book_jacket', 0.2835373, u'web_site', 0.037931152, u'comic_book', 0.035013851, u'hair_spray', 0.029375985, u'shield', 0.022049572]
+[u'coffee_mug', 0.11443014, u'coffeepot', 0.034949996, u'vacuum', 0.031218175, u'desk', 0.026326247, u'medicine_chest', 0.025890343]
+[u'Windsor_tie', 0.13404438, u'suit', 0.11248145, u'bow_tie', 0.070498735, u'barbershop', 0.065745294, u'lab_coat', 0.033022292]

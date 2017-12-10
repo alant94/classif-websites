@@ -1,0 +1,6 @@
+[u'library', 0.20600383, u'bookcase', 0.098445669, u'tobacco_shop', 0.050476622, u'bookshop', 0.044929061, u'bannister', 0.042728133]
+[u'plate_rack', 0.085197292, u'window_shade', 0.051237587, u'web_site', 0.04376483, u'throne', 0.041924939, u'coil', 0.038667385]
+[u'alp', 0.43334386, u'valley', 0.29264829, u'volcano', 0.050652083, u'lakeside', 0.049611315, u'mountain_tent', 0.02731033]
+[u'alp', 0.31843835, u'valley', 0.19691859, u'volcano', 0.18757625, u'cliff', 0.082112469, u'stone_wall', 0.052038938]
+[u'castle', 0.16234581, u'stupa', 0.15789512, u'picket_fence', 0.13796926, u'crib', 0.096446939, u'cradle', 0.040282704]
+[u'castle', 0.65414274, u'monastery', 0.23506954, u'palace', 0.051322587, u'church', 0.005425876, u'cliff_dwelling', 0.0049742036]

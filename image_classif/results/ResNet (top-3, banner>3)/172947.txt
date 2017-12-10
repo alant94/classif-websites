@@ -1,0 +1,2 @@
+[u'web_site', 0.46220985, u'theater_curtain', 0.045208871, u'comic_book', 0.038077075]
+[u'digital_clock', 0.9270891, u'digital_watch', 0.031701379, u'Band_Aid', 0.012288577]

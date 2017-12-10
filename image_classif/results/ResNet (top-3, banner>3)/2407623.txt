@@ -1,0 +1,7 @@
+[u'web_site', 0.12142696, u'Band_Aid', 0.082491584, u'book_jacket', 0.07609307]
+[u'snorkel', 0.47165975, u'web_site', 0.055366695, u'Lakeland_terrier', 0.053702611]
+[u'analog_clock', 0.10199015, u'sunscreen', 0.052773312, u'pick', 0.032093056]
+[u'sunglass', 0.34543669, u'sunglasses', 0.30691999, u'web_site', 0.13240092]
+[u'packet', 0.15641461, u'book_jacket', 0.11260332, u'web_site', 0.10656595]
+[u'swimming_trunks', 0.30058834, u'bathing_cap', 0.25383607, u'web_site', 0.19839105]
+[u'web_site', 0.30799386, u'envelope', 0.11556771, u'bow', 0.053789437]

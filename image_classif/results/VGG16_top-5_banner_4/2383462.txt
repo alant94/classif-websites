@@ -1,0 +1,2 @@
+[u'dining_table', 0.29403171, u'plate', 0.2784107, u'restaurant', 0.11875458, u'carbonara', 0.11014628, u'consomme', 0.037403729]
+[u'dumbbell', 0.35427484, u'wine_bottle', 0.11266742, u'combination_lock', 0.091931477, u'reflex_camera', 0.09036123, u'typewriter_keyboard', 0.075463787]

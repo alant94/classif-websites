@@ -1,0 +1,2 @@
+[u'tray', 0.15533791, u'analog_clock', 0.13180491, u'lighter', 0.11327899, u'digital_clock', 0.063276462, u'stopwatch', 0.055041801]
+[u'barbell', 0.17978767, u'dumbbell', 0.15600289, u'vacuum', 0.070647925, u'notebook', 0.048023801, u'punching_bag', 0.04668434]

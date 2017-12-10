@@ -1,0 +1,2 @@
+[u'scoreboard', 0.56947434, u'menu', 0.36745313, u'comic_book', 0.046954043, u'slot', 0.0042958674, u'book_jacket', 0.0031277789]
+[u'nail', 0.15768217, u'picket_fence', 0.10004939, u'rule', 0.061649814, u'worm_fence', 0.056988947, u'chime', 0.032802459]

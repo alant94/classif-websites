@@ -1,0 +1,5 @@
+[u'assault_rifle', 0.48461786, u'rifle', 0.21835753, u'bow', 0.03830063, u'revolver', 0.03647941, u'sax', 0.027943073]
+[u'mask', 0.29870436, u'toyshop', 0.20048229, u'saltshaker', 0.084378392, u'carousel', 0.067158535, u'bakery', 0.029587798]
+[u'stage', 0.31932396, u'electric_guitar', 0.27689505, u'go-kart', 0.069688484, u'cab', 0.047592811, u'comic_book', 0.029980421]
+[u'comic_book', 0.62884527, u'totem_pole', 0.10268573, u'mask', 0.097366489, u'balloon', 0.038888823, u'book_jacket', 0.024774678]
+[u'slot', 0.35056007, u'comic_book', 0.16880269, u'scoreboard', 0.12335249, u'packet', 0.0882039, u'beer_bottle', 0.03826369]

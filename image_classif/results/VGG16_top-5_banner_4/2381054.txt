@@ -1,0 +1,4 @@
+[u'puck', 0.55512786, u'beer_bottle', 0.35683873, u'beer_glass', 0.025084015, u'coffee_mug', 0.010482593, u'chocolate_sauce', 0.0092623401]
+[u'bottlecap', 0.99827075, u'stopwatch', 0.00036174917, u'packet', 0.00025414783, u'chocolate_sauce', 0.0001955606, u'balloon', 0.00014596111]
+[u'bottlecap', 0.9999733, u'packet', 8.4821513e-06, u'bolo_tie', 5.7906109e-06, u'analog_clock', 2.0130492e-06, u'wall_clock', 1.9402739e-06]
+[u'mask', 0.10034616, u'toilet_seat', 0.046458282, u'web_site', 0.041514277, u'coil', 0.038840234, u'neck_brace', 0.02858709]

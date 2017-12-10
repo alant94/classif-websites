@@ -1,0 +1,3 @@
+[u'stopwatch', 0.097405784, u'magnetic_compass', 0.071773224, u'analog_clock', 0.04917331]
+[u'envelope', 0.34541005, u'binder', 0.22776996, u'packet', 0.063827865]
+[u'dishwasher', 0.18174416, u'envelope', 0.080502711, u'refrigerator', 0.041317999]

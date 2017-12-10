@@ -1,0 +1,1 @@
+[u'matchstick', 0.13989291, u'paintbrush', 0.084892511, u'nail', 0.068636887, u'face_powder', 0.038410004, u'pencil_sharpener', 0.037281245]

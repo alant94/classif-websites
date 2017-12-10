@@ -1,0 +1,5 @@
+[u'swimming_trunks', 0.26762837, u'tub', 0.17155223, u'bathtub', 0.10422657, u'diaper', 0.096876085, u'fur_coat', 0.040550407]
+[u'screw', 0.096386999, u'analog_clock', 0.065014526, u'matchstick', 0.06491629, u'wall_clock', 0.05756991, u'nail', 0.053165499]
+[u'tub', 0.25802097, u'snorkel', 0.1789297, u'stingray', 0.1636987, u'swimming_trunks', 0.073865749, u'bathing_cap', 0.069163971]
+[u'tub', 0.5596537, u'bathtub', 0.27788273, u'bath_towel', 0.043502174, u'fur_coat', 0.023282595, u'hand_blower', 0.010739444]
+[u'Mexican_hairless', 0.096927159, u'vizsla', 0.036458377, u'axolotl', 0.029963601, u'Chesapeake_Bay_retriever', 0.020448811, u'Great_Dane', 0.019923406]

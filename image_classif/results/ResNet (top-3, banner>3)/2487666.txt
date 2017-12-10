@@ -1,0 +1,8 @@
+[u'web_site', 0.20192957, u'Band_Aid', 0.035750911, u'oil_filter', 0.025668656]
+[u'oil_filter', 0.18482055, u'Band_Aid', 0.096700564, u'whistle', 0.039509628]
+[u'moving_van', 0.79955852, u'trailer_truck', 0.13268593, u'garbage_truck', 0.020083403]
+[u'web_site', 0.19879234, u'Band_Aid', 0.072834067, u'wall_clock', 0.058759063]
+[u'moving_van', 0.84698749, u'trailer_truck', 0.046311319, u'carton', 0.021183867]
+[u'web_site', 0.26031244, u'envelope', 0.068154395, u'Band_Aid', 0.051217437]
+[u'digital_clock', 0.74606258, u'digital_watch', 0.15711825, u'maze', 0.057320692]
+[u'barbershop', 0.93597758, u'bookshop', 0.018279923, u'sliding_door', 0.0077701374]

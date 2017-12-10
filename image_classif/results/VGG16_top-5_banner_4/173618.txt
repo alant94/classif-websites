@@ -1,0 +1,2 @@
+[u'screen', 0.48281592, u'monitor', 0.12037177, u'oscilloscope', 0.10691424, u'television', 0.042165741, u'desktop_computer', 0.023962205]
+[u'envelope', 0.059129991, u'web_site', 0.04489452, u'chain_saw', 0.039450493, u'jersey', 0.035158757, u'pick', 0.03196552]

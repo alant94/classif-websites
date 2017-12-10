@@ -1,0 +1,2 @@
+[u'moving_van', 0.058046505, u'gas_pump', 0.055202026, u'library', 0.051923968]
+[u'solar_dish', 0.059600756, u'amphibian', 0.05768729, u'alp', 0.049224745]

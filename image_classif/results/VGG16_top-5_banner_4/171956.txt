@@ -1,0 +1,2 @@
+[u'stage', 0.47154811, u'accordion', 0.15699671, u'microphone', 0.13514926, u'electric_guitar', 0.076174729, u'harmonica', 0.048682276]
+[u'hook', 0.035374854, u'spotlight', 0.032205176, u'obelisk', 0.024965318, u'nematode', 0.022297293, u'conch', 0.021465287]

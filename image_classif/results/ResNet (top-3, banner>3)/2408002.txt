@@ -1,0 +1,6 @@
+[u'Arabian_camel', 0.79812181, u'llama', 0.09361852, u'ibex', 0.029134838]
+[u'African_hunting_dog', 0.81135505, u'dhole', 0.062199403, u'dogsled', 0.029587192]
+[u'wreck', 0.16022722, u'lakeside', 0.15539451, u'fountain', 0.083765037]
+[u'geyser', 0.18928461, u'volcano', 0.14867997, u'alp', 0.056490224]
+[u'boathouse', 0.36165932, u'gondola', 0.2877779, u'lakeside', 0.096360788]
+[u'yawl', 0.57174987, u'gondola', 0.096853763, u'schooner', 0.052729186]

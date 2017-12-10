@@ -1,0 +1,2 @@
+[u'analog_clock', 0.55712146, u'wall_clock', 0.18306871, u'book_jacket', 0.045600969]
+[u'web_site', 0.50800169, u'digital_clock', 0.038136169, u'stopwatch', 0.020910222]

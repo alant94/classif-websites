@@ -1,0 +1,7 @@
+[u'restaurant', 0.78488612, u'patio', 0.085828938, u'dining_table', 0.070565887]
+[u'cornet', 0.079916626, u'slide_rule', 0.059468988, u'rule', 0.044036422]
+[u'altar', 0.42092985, u'dining_table', 0.1152733, u'library', 0.07865718]
+[u'miniskirt', 0.14268245, u'upright', 0.13684002, u'grand_piano', 0.06193633]
+[u'folding_chair', 0.13672577, u'trombone', 0.11343669, u'plate_rack', 0.087075315]
+[u'pedestal', 0.42655212, u'table_lamp', 0.095091447, u'throne', 0.091394238]
+[u'throne', 0.35105377, u'cuirass', 0.15131226, u'harp', 0.11431402]

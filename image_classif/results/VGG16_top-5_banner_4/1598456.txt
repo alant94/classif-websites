@@ -1,0 +1,4 @@
+[u'envelope', 0.098253511, u'jersey', 0.080005564, u'web_site', 0.07290218, u'jean', 0.05976072, u'maillot', 0.043474421]
+[u'web_site', 0.039913997, u'envelope', 0.036897782, u'screw', 0.03043784, u'coil', 0.025435019, u'chain', 0.021576943]
+[u'loupe', 0.77194893, u'binoculars', 0.036217816, u'puck', 0.028754095, u'spotlight', 0.018602345, u'traffic_light', 0.01834817]
+[u'crane', 0.27003813, u'switch', 0.15492174, u'traffic_light', 0.079090372, u'container_ship', 0.079031408, u'guillotine', 0.055555608]

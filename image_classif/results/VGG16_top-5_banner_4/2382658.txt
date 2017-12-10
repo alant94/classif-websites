@@ -1,0 +1,5 @@
+[u'patio', 0.74862087, u'restaurant', 0.2147598, u'dining_table', 0.022080209, u'sliding_door', 0.0075049154, u'bannister', 0.0017847867]
+[u'wall_clock', 0.23871477, u'analog_clock', 0.20453027, u'stopwatch', 0.065175027, u'shield', 0.028636143, u'barometer', 0.022513226]
+[u'coral_fungus', 0.2013033, u'daisy', 0.10062958, u'picket_fence', 0.091269501, u'ear', 0.049222093, u'knot', 0.045880277]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'totem_pole', 0.59989125, u'megalith', 0.11094237, u'beer_bottle', 0.089885868, u'pole', 0.066789858, u'wine_bottle', 0.034199864]

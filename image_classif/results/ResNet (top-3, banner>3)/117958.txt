@@ -1,0 +1,2 @@
+[u'book_jacket', 0.47171596, u'fire_screen', 0.043412644, u'volcano', 0.040841155]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

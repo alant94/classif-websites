@@ -1,0 +1,3 @@
+[u'wall_clock', 0.10520652, u'screw', 0.077835493, u'analog_clock', 0.046465509, u'magnetic_compass', 0.02080898, u'whistle', 0.016935499]
+[u'wall_clock', 0.18658431, u'analog_clock', 0.16731979, u'washer', 0.11932436, u'cassette', 0.07423687, u'cassette_player', 0.022292821]
+[u'screw', 0.042039935, u'wall_clock', 0.028135817, u'switch', 0.026862113, u'envelope', 0.019246275, u'tripod', 0.013966052]

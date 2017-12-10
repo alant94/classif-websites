@@ -1,0 +1,1 @@
+[u'ballpoint', 0.19024166, u'screwdriver', 0.17488252, u'cocktail_shaker', 0.13624644, u'spatula', 0.091055766, u'safety_pin', 0.059060376]

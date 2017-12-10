@@ -1,0 +1,3 @@
+[u'television', 0.15539335, u'oxygen_mask', 0.07812193, u'academic_gown', 0.077288471, u'neck_brace', 0.070061944, u'feather_boa', 0.043307461]
+[u'kimono', 0.79766417, u'stole', 0.13093859, u'sarong', 0.032096975, u'poncho', 0.012452631, u'velvet', 0.0055846381]
+[u'swing', 0.082447417, u'goblet', 0.081356309, u'drum', 0.055524778, u'coffee_mug', 0.055263251, u'bib', 0.050585181]

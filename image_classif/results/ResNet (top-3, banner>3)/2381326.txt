@@ -1,0 +1,4 @@
+[u'fire_screen', 0.1672805, u'American_lobster', 0.097035438, u'Dungeness_crab', 0.066493154]
+[u'fire_screen', 0.10619146, u'window_screen', 0.070047878, u'loudspeaker', 0.020997304]
+[u'beer_glass', 0.97407371, u'beaker', 0.0039290204, u'pill_bottle', 0.0026165869]
+[u'parallel_bars', 0.15750951, u'sturgeon', 0.083186164, u'barracouta', 0.076472417]

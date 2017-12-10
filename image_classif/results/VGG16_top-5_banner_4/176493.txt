@@ -1,0 +1,2 @@
+[u'scale', 0.095480733, u'turnstile', 0.075140454, u'espresso_maker', 0.059990808, u'mousetrap', 0.057315737, u'web_site', 0.056222484]
+[u'volleyball', 0.23180918, u'torch', 0.22658816, u'balance_beam', 0.077027261, u'king_crab', 0.047552384, u'stage', 0.042419534]

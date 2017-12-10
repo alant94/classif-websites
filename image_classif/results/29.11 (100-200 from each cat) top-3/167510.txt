@@ -1,0 +1,7 @@
+[u'geyser', 0.30638841, u'balloon', 0.0700721, u'lakeside', 0.033387329]
+[u'web_site', 0.99198443, u'tractor', 0.00052304997, u'book_jacket', 0.00045186622]
+[u'web_site', 0.88621527, u'slot', 0.011825565, u'screw', 0.010997795]
+[u'web_site', 0.78875118, u'book_jacket', 0.056354932, u'menu', 0.031889692]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'web_site', 0.95633739, u'bannister', 0.0035513779, u'television', 0.0029068368]
+[u'barbershop', 0.59432709, u'prison', 0.043336984, u'cash_machine', 0.034295898]

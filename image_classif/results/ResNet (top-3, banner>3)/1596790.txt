@@ -1,0 +1,2 @@
+[u'wallet', 0.4505522, u'envelope', 0.23150343, u'carton', 0.15766849]
+[u'diaper', 0.87879694, u'bath_towel', 0.024152825, u'swab', 0.012888241]

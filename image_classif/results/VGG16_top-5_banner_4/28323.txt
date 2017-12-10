@@ -1,0 +1,5 @@
+[u'ski', 0.81647891, u'snowmobile', 0.087502681, u'dogsled', 0.070312522, u'alp', 0.022710357, u'bobsled', 0.0026873027]
+[u'speedboat', 0.67019945, u'bobsled', 0.17350882, u'paddle', 0.038096514, u'ski', 0.034359381, u'snowmobile', 0.029030599]
+[u'snowmobile', 0.62676311, u'ski', 0.19356887, u'bobsled', 0.15398136, u'dogsled', 0.020109758, u'puck', 0.000910801]
+[u'plow', 0.64415979, u'tractor', 0.11282785, u'jeep', 0.031253096, u'car_wheel', 0.023046743, u'stone_wall', 0.016233195]
+[u'mountain_bike', 0.86498374, u'crash_helmet', 0.036914542, u'unicycle', 0.012562774, u'shield', 0.0067251828, u'giant_schnauzer', 0.0062174173]

@@ -1,0 +1,4 @@
+[u'fountain', 0.90216607, u'bubble', 0.028550392, u'umbrella', 0.017322173, u'bannister', 0.0084244274, u'sax', 0.006653354]
+[u'solar_dish', 0.098729126, u'monitor', 0.096353993, u'spotlight', 0.080757923, u'pedestal', 0.054172173, u'crane', 0.047370031]
+[u'envelope', 0.37993035, u'candle', 0.10043801, u'chain', 0.048028335, u'spotlight', 0.025638439, u'crane', 0.021729851]
+[u'pedestal', 0.48294541, u'crate', 0.063727796, u'lumbermill', 0.050341729, u'panpipe', 0.042238194, u'crane', 0.025887914]

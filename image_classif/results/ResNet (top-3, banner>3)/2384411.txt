@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.7412979, u'lotion', 0.092437737, u'red_wine', 0.072239205]
+[u'wine_bottle', 0.86827177, u'red_wine', 0.062457699, u'beer_bottle', 0.02074411]

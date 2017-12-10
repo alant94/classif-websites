@@ -1,0 +1,2 @@
+[u'oxygen_mask', 0.27331987, u'toilet_seat', 0.25645828, u'gasmask', 0.082157753]
+[u'web_site', 0.46065274, u'comic_book', 0.0673538, u'menu', 0.032745812]

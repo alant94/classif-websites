@@ -1,0 +1,5 @@
+[u'web_site', 0.40607622, u'power_drill', 0.020899564, u'whistle', 0.018353891]
+[u'vase', 0.15248722, u'goblet', 0.13523914, u'bassoon', 0.12111492]
+[u'web_site', 0.092496909, u'electric_guitar', 0.084248677, u'power_drill', 0.074900314]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.59824455, u'Band_Aid', 0.027353764, u'screw', 0.01667659]

@@ -1,0 +1,3 @@
+[u'catamaran', 0.62957126, u'trimaran', 0.3465184, u'yawl', 0.016869213]
+[u'wreck', 0.78180879, u'scuba_diver', 0.15768674, u'coral_reef', 0.013627902]
+[u'seashore', 0.39747733, u'swimming_trunks', 0.29681796, u'maillot', 0.1632442]

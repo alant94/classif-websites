@@ -1,0 +1,3 @@
+[u'brassiere', 0.88093394, u'knee_pad', 0.039017815, u'soccer_ball', 0.014434528]
+[u'window_screen', 0.30664226, u'mosquito_net', 0.29872501, u'window_shade', 0.069384836]
+[u'gown', 0.52931845, u'toilet_tissue', 0.16193445, u'groom', 0.14693514]

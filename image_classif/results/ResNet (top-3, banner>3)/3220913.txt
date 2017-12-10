@@ -1,0 +1,5 @@
+[u'altar', 0.21927764, u'stage', 0.17640504, u'restaurant', 0.15435953]
+[u'picket_fence', 0.15418862, u'church', 0.14194311, u'park_bench', 0.12045291]
+[u'web_site', 0.1705493, u'digital_clock', 0.0530347, u'bell_cote', 0.03903864]
+[u'cab', 0.11770654, u'traffic_light', 0.11492527, u'cinema', 0.084153965]
+[u'mobile_home', 0.317788, u'barn', 0.11867002, u'boathouse', 0.10985707]

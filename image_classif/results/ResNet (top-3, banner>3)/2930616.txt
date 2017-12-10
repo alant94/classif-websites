@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.62836921, u'digital_clock', 0.31635195, u'digital_watch', 0.024282726]
+[u'sandbar', 0.77648985, u'sarong', 0.092914745, u'seashore', 0.087462641]
+[u'suit', 0.70595753, u'Windsor_tie', 0.043172326, u'cash_machine', 0.0283993]
+[u'hook', 0.14522354, u'nail', 0.077438042, u'remote_control', 0.067506537]
+[u'web_site', 0.2542924, u'envelope', 0.066005968, u'loudspeaker', 0.032188315]
+[u'sunscreen', 0.22893868, u'wig', 0.13041149, u'Band_Aid', 0.061950717]
+[u'lab_coat', 0.35355905, u'barbershop', 0.22272761, u'vestment', 0.086204067]
+[u'crossword_puzzle', 0.75010347, u'web_site', 0.029308312, u'loudspeaker', 0.019597694]

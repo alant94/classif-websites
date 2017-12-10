@@ -1,0 +1,1 @@
+[u'quill', 0.098720208, u'ballpoint', 0.05511456, u'jersey', 0.037487764, u'envelope', 0.036365531, u'pajama', 0.030725032]

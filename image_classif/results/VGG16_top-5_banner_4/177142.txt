@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.14539438, u'wardrobe', 0.10870496, u'ski', 0.081913263, u'book_jacket', 0.049556717, u'padlock', 0.049240518]
+[u'bubble', 0.49508175, u'ice_bear', 0.092523664, u'alp', 0.058415968, u'jellyfish', 0.04665022, u'fountain', 0.028257696]
+[u'wardrobe', 0.44787911, u'shower_curtain', 0.15907939, u'cleaver', 0.061300218, u'lab_coat', 0.03721771, u'handkerchief', 0.026722476]
+[u'bikini', 0.070855625, u'volleyball', 0.053890776, u'bathing_cap', 0.04289344, u'television', 0.042514812, u'maillot', 0.042512074]
+[u'lighter', 0.14647907, u'iPod', 0.10456833, u'matchstick', 0.092932872, u'pick', 0.044206973, u'remote_control', 0.028672701]

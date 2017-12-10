@@ -1,0 +1,7 @@
+[u'drum', 0.26236805, u'hair_slide', 0.15281799, u'mortarboard', 0.053741608, u'pool_table', 0.034131765, u'hamper', 0.02123847]
+[u"jack-o'-lantern", 0.19718672, u'beer_bottle', 0.053384423, u'comic_book', 0.048545923, u'tow_truck', 0.043795709, u'slot', 0.034863297]
+[u'pretzel', 0.44283658, u'comic_book', 0.1241307, u'cinema', 0.062905952, u'coffee_mug', 0.04570565, u'buckle', 0.028561061]
+[u'hair_slide', 0.25461036, u'buckle', 0.22544108, u"carpenter's_kit", 0.12128706, u'pencil_sharpener', 0.098506987, u'bottlecap', 0.036476657]
+[u'corkscrew', 0.082073323, u'nail', 0.045499511, u'hook', 0.044339735, u'Band_Aid', 0.034099732, u'jersey', 0.023876296]
+[u'packet', 0.22095263, u'digital_clock', 0.19441532, u'Band_Aid', 0.092270024, u'hair_spray', 0.059124265, u'scoreboard', 0.047547478]
+[u'web_site', 0.31939378, u'hair_slide', 0.071447164, u'packet', 0.041008625, u'mortarboard', 0.039947834, u'whistle', 0.038708784]

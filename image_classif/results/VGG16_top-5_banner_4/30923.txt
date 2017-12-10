@@ -1,0 +1,1 @@
+[u'washbasin', 0.10686238, u'window_shade', 0.074042164, u'window_screen', 0.038217757, u'bannister', 0.029245045, u'bathtub', 0.0279433]

@@ -1,0 +1,2 @@
+[u'boathouse', 0.21593933, u'stupa', 0.10495227, u'lifeboat', 0.063339397, u'safe', 0.039881762, u'whistle', 0.03468876]
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]

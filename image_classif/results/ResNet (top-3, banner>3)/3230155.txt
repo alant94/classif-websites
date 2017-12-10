@@ -1,0 +1,7 @@
+[u'oscilloscope', 0.83189434, u'prayer_rug', 0.028781308, u'shower_curtain', 0.014845372]
+[u'envelope', 0.081755288, u'dishwasher', 0.063386418, u'web_site', 0.051601175]
+[u'hand_blower', 0.18906386, u'ear', 0.1601748, u'sunglass', 0.15050517]
+[u'digital_clock', 0.56123555, u'analog_clock', 0.14745305, u'digital_watch', 0.08574146]
+[u'brassiere', 0.31288734, u'maillot', 0.14741871, u'bikini', 0.051009305]
+[u'envelope', 0.29003784, u'traffic_light', 0.11336391, u'laptop', 0.039832409]
+[u'street_sign', 0.53132451, u'barn', 0.29145572, u'barbershop', 0.084296063]

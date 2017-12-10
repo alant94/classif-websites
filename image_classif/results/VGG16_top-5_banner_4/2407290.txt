@@ -1,0 +1,3 @@
+[u'web_site', 0.24024333, u'safety_pin', 0.060380604, u'hook', 0.057066657, u'can_opener', 0.030661769, u'lotion', 0.027526043]
+[u'envelope', 0.20275122, u'letter_opener', 0.12447344, u'necklace', 0.084052831, u'packet', 0.053915016, u'hook', 0.049695753]
+[u'container_ship', 0.41418672, u'envelope', 0.051905632, u'balloon', 0.046308853, u'airship', 0.040494297, u'parachute', 0.037590906]

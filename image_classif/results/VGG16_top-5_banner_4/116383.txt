@@ -1,0 +1,1 @@
+[u'digital_clock', 0.53605276, u'wall_clock', 0.022682764, u'pop_bottle', 0.022342443, u'beer_bottle', 0.020403238, u'cassette', 0.020374412]

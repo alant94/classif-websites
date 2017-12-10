@@ -1,0 +1,3 @@
+[u'cab', 0.53888804, u'ambulance', 0.27254957, u'moving_van', 0.054183334, u'pickup', 0.039748695, u'minibus', 0.02728105]
+[u'bassoon', 0.22833438, u'organ', 0.12504858, u'lipstick', 0.046545397, u'beaker', 0.037726425, u'sax', 0.037448764]
+[u'oil_filter', 0.46293396, u'Band_Aid', 0.20412312, u'pill_bottle', 0.14943184, u'carton', 0.057495791, u'sunscreen', 0.017010432]

@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.80916995, u'diaper', 0.049023181, u'maillot', 0.020571331]
+[u'prayer_rug', 0.18936765, u'fire_screen', 0.059379496, u'theater_curtain', 0.031632286]
+[u'hook', 0.97035319, u'washbasin', 0.0032578541, u'bathtub', 0.0024577645]
+[u'harmonica', 0.15064991, u'cellular_telephone', 0.098084703, u'notebook', 0.058116145]
+[u'oxygen_mask', 0.30956805, u'hoopskirt', 0.14975558, u'gasmask', 0.066131212]
+[u'overskirt', 0.188343, u'hoopskirt', 0.13119639, u'miniskirt', 0.10220626]
+[u'seat_belt', 0.11310744, u'bath_towel', 0.09931954, u'Band_Aid', 0.066006735]
+[u'bath_towel', 0.23363748, u'Band_Aid', 0.1581309, u'walking_stick', 0.082512647]

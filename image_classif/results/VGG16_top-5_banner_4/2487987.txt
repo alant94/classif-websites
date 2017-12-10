@@ -1,0 +1,2 @@
+[u'pencil_sharpener', 0.15367171, u'coffee_mug', 0.069077954, u'envelope', 0.054123145, u'wall_clock', 0.032309532, u'table_lamp', 0.029605478]
+[u'jersey', 0.20957324, u'screw', 0.14422913, u'pick', 0.094016917, u'nail', 0.042344287, u'envelope', 0.029312601]

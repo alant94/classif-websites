@@ -1,0 +1,2 @@
+[u'vestment', 0.2104394, u'overskirt', 0.18738389, u'groom', 0.16906087, u'gown', 0.15420747, u'hoopskirt', 0.08506567]
+[u'monastery', 0.14868942, u'panpipe', 0.14506757, u'bell_cote', 0.059889842, u'palace', 0.044652961, u'picket_fence', 0.041616771]

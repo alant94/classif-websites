@@ -1,0 +1,2 @@
+[u'scoreboard', 0.48206568, u'traffic_light', 0.072347827, u'web_site', 0.042364549, u'ping-pong_ball', 0.036185455, u'tennis_ball', 0.033293504]
+[u'slot', 0.36797574, u'hand-held_computer', 0.35620496, u'iPod', 0.039567158, u'web_site', 0.033012461, u'screen', 0.031927887]

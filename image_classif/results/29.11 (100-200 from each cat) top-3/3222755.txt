@@ -1,0 +1,6 @@
+[u'bow', 0.20239379, u"carpenter's_kit", 0.1889921, u'paintbrush', 0.082477644]
+[u'envelope', 0.050356034, u'lighter', 0.039772648, u'washer', 0.039231796]
+[u'scabbard', 0.51651734, u'cleaver', 0.15051006, u'hammer', 0.090483487]
+[u'rock_beauty', 0.099245608, u'lighter', 0.064553998, u'digital_clock', 0.049815405]
+[u'web_site', 0.60294974, u'book_jacket', 0.0274207, u'envelope', 0.026479652]
+[u'chime', 0.71147203, u'screwdriver', 0.068564288, u'pole', 0.032202404]

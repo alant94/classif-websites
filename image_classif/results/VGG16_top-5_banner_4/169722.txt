@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.38506073, u'Petri_dish', 0.12654012, u'loupe', 0.069361083, u'scale', 0.057062164, u'tray', 0.041371956]
+[u'Petri_dish', 0.26584417, u'toilet_seat', 0.1550892, u'loupe', 0.08769729, u'tray', 0.054529037, u'scale', 0.033784468]
+[u'sax', 0.65425807, u'bassoon', 0.10055816, u'oboe', 0.065231636, u'trombone', 0.032380261, u'cornet', 0.0248612]
+[u'turnstile', 0.083046108, u'window_screen', 0.08175189, u'library', 0.050710823, u'bookshop', 0.028568821, u'abaya', 0.027405728]
+[u'web_site', 0.88544613, u'streetcar', 0.015248694, u'sliding_door', 0.014154327, u'vending_machine', 0.0064087329, u'monitor', 0.0057850415]
+[u'rapeseed', 0.10750758, u'golf_ball', 0.058408063, u'stone_wall', 0.057851482, u'park_bench', 0.052210081, u'barn', 0.044891346]

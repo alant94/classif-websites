@@ -1,0 +1,2 @@
+[u'suit', 0.52566701, u'Windsor_tie', 0.10858672, u'bulletproof_vest', 0.055046625, u'bow_tie', 0.045932427, u'military_uniform', 0.03048371]
+[u'pill_bottle', 0.30800775, u'spindle', 0.147938, u'hourglass', 0.10345037, u'mortar', 0.045635454, u'soap_dispenser', 0.034550264]

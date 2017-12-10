@@ -1,0 +1,5 @@
+[u'Petri_dish', 0.057556119, u'tray', 0.048262618, u'confectionery', 0.043998506, u'loupe', 0.03616396, u'grocery_store', 0.034383673]
+[u'boathouse', 0.30247656, u'library', 0.12446853, u'turnstile', 0.035472188, u'organ', 0.032976519, u'entertainment_center', 0.028972784]
+[u'butcher_shop', 0.38304409, u'cleaver', 0.065181084, u'shoe_shop', 0.041312169, u'grocery_store', 0.029389588, u'paintbrush', 0.02701222]
+[u'boathouse', 0.15872258, u'beaker', 0.15359555, u'bakery', 0.077853695, u'china_cabinet', 0.042250887, u'perfume', 0.03408074]
+[u'tobacco_shop', 0.18659072, u'toyshop', 0.095008053, u'shoe_shop', 0.088004865, u'confectionery', 0.055689577, u'bakery', 0.045706097]

@@ -1,0 +1,4 @@
+[u'cloak', 0.33026481, u'wig', 0.032885142, u'bow_tie', 0.023365462, u'overskirt', 0.023079902, u'mortarboard', 0.022357246]
+[u'refrigerator', 0.18929245, u'neck_brace', 0.091849163, u'cellular_telephone', 0.06949801, u'spatula', 0.040764231, u'toaster', 0.032456763]
+[u'wig', 0.57774508, u'hair_spray', 0.11472713, u'miniskirt', 0.06002653, u'shower_curtain', 0.037062868, u'brassiere', 0.024408374]
+[u'iron', 0.27160534, u'mosquito_net', 0.082499653, u'totem_pole', 0.061445799, u'poncho', 0.060855683, u'shower_curtain', 0.054289736]

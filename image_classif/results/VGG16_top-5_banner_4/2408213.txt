@@ -1,0 +1,5 @@
+[u'wall_clock', 0.14428452, u'digital_clock', 0.099565379, u'analog_clock', 0.0922684, u'matchstick', 0.053577766, u'bottlecap', 0.046805263]
+[u'wool', 0.83455509, u'mitten', 0.071214475, u'sock', 0.048485756, u'stole', 0.0072141215, u'hamper', 0.0060723973]
+[u'wool', 0.98170173, u'sock', 0.0094891163, u'teddy', 0.0020408377, u'clog', 0.0019521634, u'spaghetti_squash', 0.001283152]
+[u'wool', 0.96696121, u'mitten', 0.013091234, u'stole', 0.012028679, u'sock', 0.0026311248, u'ski_mask', 0.0014910881]
+[u'bath_towel', 0.27433088, u'kuvasz', 0.083729573, u'diaper', 0.07595022, u'bassinet', 0.07303483, u'teddy', 0.048639897]

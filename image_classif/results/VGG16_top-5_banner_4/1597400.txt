@@ -1,0 +1,2 @@
+[u'volcano', 0.089195497, u'grand_piano', 0.034086559, u'toilet_seat', 0.026584743, u'bakery', 0.025375918, u'projector', 0.024286788]
+[u'shower_curtain', 0.4164001, u'bathtub', 0.16657886, u'tub', 0.073475927, u'cleaver', 0.037572455, u'swimming_trunks', 0.02998984]

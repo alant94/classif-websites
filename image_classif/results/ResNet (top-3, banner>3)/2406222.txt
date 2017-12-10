@@ -1,0 +1,7 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'panpipe', 0.78915024, u'church', 0.020401023, u'plunger', 0.019073229]
+[u'window_screen', 0.16657369, u'sliding_door', 0.079055749, u'window_shade', 0.074848972]
+[u'analog_clock', 0.49558881, u'matchstick', 0.068337165, u'web_site', 0.055502441]
+[u'iPod', 0.39685056, u'traffic_light', 0.25332418, u'digital_clock', 0.048893705]
+[u'church', 0.12751587, u'digital_clock', 0.046041694, u'television', 0.043559276]
+[u'street_sign', 0.43096152, u'shield', 0.12344888, u'folding_chair', 0.091182925]

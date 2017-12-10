@@ -1,0 +1,2 @@
+[u'thresher', 0.15530431, u'fire_engine', 0.070931502, u'tow_truck', 0.048306424, u'nail', 0.047454752, u'oxcart', 0.040013343]
+[u'handkerchief', 0.30608046, u'jigsaw_puzzle', 0.2123071, u'shower_curtain', 0.067457706, u'Windsor_tie', 0.055246614, u'shower_cap', 0.049934488]

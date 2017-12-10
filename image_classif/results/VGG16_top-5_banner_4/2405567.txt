@@ -1,0 +1,1 @@
+[u'drilling_platform', 0.27201921, u'space_shuttle', 0.09357512, u'liner', 0.093270421, u'lampshade', 0.074411243, u'table_lamp', 0.065849431]

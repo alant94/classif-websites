@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.58065528, u'window_screen', 0.14337973, u'envelope', 0.035940982]
+[u'switch', 0.99999464, u'combination_lock', 1.3277332e-06, u'medicine_chest', 7.3766262e-07]

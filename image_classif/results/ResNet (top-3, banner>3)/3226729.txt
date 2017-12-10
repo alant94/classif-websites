@@ -1,0 +1,3 @@
+[u'envelope', 0.38806507, u'web_site', 0.075499155, u'binder', 0.030222813]
+[u'envelope', 0.13416551, u'folding_chair', 0.10067702, u'binder', 0.061138812]
+[u'envelope', 0.3355732, u'binder', 0.2937192, u'stretcher', 0.047496144]

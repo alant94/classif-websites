@@ -1,0 +1,1 @@
+[u'oil_filter', 0.26036927, u'modem', 0.18808109, u'binder', 0.066887684, u'Band_Aid', 0.050790004, u'chain_saw', 0.048776869]

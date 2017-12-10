@@ -1,0 +1,5 @@
+[u'turnstile', 0.46522155, u'ping-pong_ball', 0.17637505, u'library', 0.076718263]
+[u'beer_bottle', 0.88500971, u'wall_clock', 0.019018542, u'cockroach', 0.018561386]
+[u'marimba', 0.1827185, u'bow_tie', 0.1648138, u'abaya', 0.071358629]
+[u'web_site', 0.54031748, u'paper_towel', 0.04625167, u'toilet_tissue', 0.045527875]
+[u'bow_tie', 0.097675465, u'cello', 0.051350325, u'prison', 0.048264198]

@@ -1,0 +1,2 @@
+[u'crane', 0.77536184, u'worm_fence', 0.064341851, u'flamingo', 0.019121626, u'white_stork', 0.015758269, u'lakeside', 0.014439392]
+[u'fountain', 0.36933029, u'spotlight', 0.21898338, u'bubble', 0.1757917, u'spider_web', 0.024307584, u'stage', 0.023821082]

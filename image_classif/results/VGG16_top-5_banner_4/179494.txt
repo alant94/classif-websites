@@ -1,0 +1,6 @@
+[u'picket_fence', 0.16359805, u'candle', 0.16171674, u'space_shuttle', 0.14303869, u'monitor', 0.053510878, u'rubber_eraser', 0.03943339]
+[u'tench', 0.98740047, u'barracouta', 0.012224471, u'gar', 0.00028235279, u'coho', 5.6630837e-05, u'reel', 1.7301649e-05]
+[u'whistle', 0.22997117, u'can_opener', 0.2113339, u'magnetic_compass', 0.20020393, u'combination_lock', 0.059698209, u'hair_slide', 0.057778228]
+[u'projectile', 0.27851284, u'missile', 0.1314573, u'fountain_pen', 0.077312119, u'wine_bottle', 0.068624862, u'ballpoint', 0.04508929]
+[u"jack-o'-lantern", 0.40409639, u'torch', 0.056607157, u'analog_clock', 0.054371689, u'stove', 0.047969878, u'digital_clock', 0.046051193]
+[u'knee_pad', 0.14753251, u'buckle', 0.078343652, u'holster', 0.065518871, u'mailbag', 0.055806458, u"carpenter's_kit", 0.046876524]

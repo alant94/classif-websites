@@ -1,0 +1,6 @@
+[u'prayer_rug', 0.60970533, u'binder', 0.090582877, u'doormat', 0.06858132]
+[u'digital_clock', 0.2927843, u'oscilloscope', 0.11517644, u'web_site', 0.063107893]
+[u'wine_bottle', 0.93975234, u'red_wine', 0.041250832, u'beer_bottle', 0.0074107214]
+[u'lotion', 0.54458296, u'wine_bottle', 0.18084037, u'hair_spray', 0.14261462]
+[u'red_wine', 0.50051713, u'wine_bottle', 0.4991976, u'corkscrew', 0.00023022006]
+[u'pop_bottle', 0.8257879, u'wine_bottle', 0.080647506, u'water_bottle', 0.067421503]

@@ -1,0 +1,2 @@
+[u'combination_lock', 0.47852683, u'whistle', 0.071355693, u'safe', 0.068959236, u'digital_watch', 0.048362873, u'switch', 0.047449801]
+[u'envelope', 0.091261864, u'jersey', 0.061434235, u'web_site', 0.050672252, u'book_jacket', 0.040293474, u'street_sign', 0.027486896]

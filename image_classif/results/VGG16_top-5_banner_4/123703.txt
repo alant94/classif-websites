@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.74577379, u'wall_clock', 0.021786276, u'window_shade', 0.020596147, u'book_jacket', 0.016823253, u'lampshade', 0.016429469]
+[u'chime', 0.43477947, u'organ', 0.13703519, u'lipstick', 0.060537044, u'upright', 0.060469478, u'marimba', 0.034835022]

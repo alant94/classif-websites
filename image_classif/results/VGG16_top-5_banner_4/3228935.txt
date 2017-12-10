@@ -1,0 +1,5 @@
+[u'refrigerator', 0.13453245, u'broom', 0.12401964, u'swab', 0.12380585, u'ladle', 0.040618829, u'wall_clock', 0.036438551]
+[u'web_site', 0.5793584, u'monitor', 0.11690505, u'screen', 0.063458599, u'television', 0.039845441, u'envelope', 0.021960938]
+[u'altar', 0.14087179, u'balance_beam', 0.12780386, u'vestment', 0.070113331, u'groom', 0.069049962, u'restaurant', 0.039617416]
+[u'groom', 0.13680167, u'vestment', 0.085467339, u'hair_spray', 0.067816645, u'academic_gown', 0.058824539, u'barbershop', 0.043823842]
+[u'web_site', 0.57552445, u'menu', 0.14762756, u'iPod', 0.038745593, u'screen', 0.020573029, u'television', 0.016635716]

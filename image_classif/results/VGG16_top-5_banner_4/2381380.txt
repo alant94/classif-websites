@@ -1,0 +1,3 @@
+[u'wall_clock', 0.019690702, u'envelope', 0.010722077, u'parachute', 0.010110247, u'hourglass', 0.0099397702, u'rule', 0.009271156]
+[u'wall_clock', 0.023015786, u'syringe', 0.017620848, u'envelope', 0.013949427, u'rule', 0.013372503, u'hourglass', 0.010225571]
+[u'comic_book', 0.41149804, u'book_jacket', 0.14566676, u'packet', 0.1307589, u'puck', 0.02024853, u'jersey', 0.019334702]

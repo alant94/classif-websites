@@ -1,0 +1,4 @@
+[u'croquet_ball', 0.29702431, u'boathouse', 0.16728264, u'lawn_mower', 0.097838156, u'mobile_home', 0.061411276, u'apiary', 0.044396564]
+[u'barracouta', 0.65770316, u'gar', 0.22903143, u'sturgeon', 0.046000037, u'tench', 0.040587306, u'coho', 0.010890203]
+[u'barracouta', 0.97724611, u'tench', 0.022053454, u'gar', 0.00038620026, u'coho', 0.00011437405, u'reel', 9.5393007e-05]
+[u'barracouta', 0.99954814, u'gar', 0.00040076862, u'tench', 3.1410389e-05, u'sturgeon', 1.4039747e-05, u'coho', 5.5032892e-06]

@@ -1,0 +1,6 @@
+[u'gazelle', 0.47930762, u'impala', 0.1075694, u'Weimaraner', 0.10104737, u'hartebeest', 0.049607016, u'Arabian_camel', 0.038446311]
+[u'hartebeest', 0.65221888, u'ibex', 0.32615903, u'gazelle', 0.012356523, u'impala', 0.0056055216, u'bighorn', 0.001810951]
+[u'rule', 0.63104403, u'slide_rule', 0.068396173, u'envelope', 0.054847389, u'web_site', 0.050063506, u'nematode', 0.021976408]
+[u'monastery', 0.1187497, u'pedestal', 0.094659083, u'church', 0.082237944, u'stupa', 0.059437625, u'obelisk', 0.054826446]
+[u'impala', 0.74109703, u'gazelle', 0.15593594, u'hartebeest', 0.067845419, u'dhole', 0.014892921, u'ibex', 0.0061527989]
+[u'African_hunting_dog', 0.14126644, u'ibex', 0.12718375, u'hartebeest', 0.10885151, u'zebra', 0.072756916, u'tusker', 0.044793025]

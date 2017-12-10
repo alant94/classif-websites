@@ -1,0 +1,1 @@
+[u'chime', 0.18102838, u'matchstick', 0.13598023, u'nail', 0.086792164, u'syringe', 0.065471187, u'drumstick', 0.048121747]

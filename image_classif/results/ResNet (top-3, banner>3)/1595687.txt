@@ -1,0 +1,5 @@
+[u'espresso_maker', 0.61170721, u'power_drill', 0.094228402, u'switch', 0.035407033]
+[u'loudspeaker', 0.48672664, u'cassette_player', 0.096341141, u'loupe', 0.067653291]
+[u'spotlight', 0.66465968, u'soap_dispenser', 0.066652998, u'binoculars', 0.04070827]
+[u'screen', 0.32033849, u'desktop_computer', 0.14148527, u'loupe', 0.073710039]
+[u'espresso_maker', 0.28299239, u'power_drill', 0.1542792, u'joystick', 0.10404872]

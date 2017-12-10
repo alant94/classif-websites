@@ -1,0 +1,7 @@
+[u'Chihuahua', 0.27691928, u'swing', 0.24836546, u'kelpie', 0.075611144]
+[u'purse', 0.29883918, u'handkerchief', 0.29406166, u'bonnet', 0.13590395]
+[u'table_lamp', 0.83080953, u'mountain_tent', 0.037205439, u'lampshade', 0.029491941]
+[u'packet', 0.38080803, u'carton', 0.11016654, u'comic_book', 0.091100752]
+[u'bib', 0.42676517, u'diaper', 0.37630659, u'jersey', 0.039966106]
+[u'sleeping_bag', 0.35036603, u'bath_towel', 0.28963959, u'bassinet', 0.097679794]
+[u'velvet', 0.25272557, u'quilt', 0.20008165, u'backpack', 0.14876564]

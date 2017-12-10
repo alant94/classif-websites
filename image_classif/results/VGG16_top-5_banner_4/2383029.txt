@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.13000864, u'vending_machine', 0.03590475, u'syringe', 0.03307163, u'container_ship', 0.029808709, u'refrigerator', 0.029071826]
+[u'wine_bottle', 0.46304998, u'beer_bottle', 0.15241441, u'pop_bottle', 0.092505924, u'red_wine', 0.08764936, u'perfume', 0.03865134]
+[u'matchstick', 0.054693162, u'nematode', 0.036968444, u'lighter', 0.023152299, u'digital_clock', 0.021632979, u'spotlight', 0.018090088]
+[u'wine_bottle', 0.51266539, u'red_wine', 0.48057592, u'beer_bottle', 0.00501781, u'corkscrew', 0.0010670755, u'pop_bottle', 0.00030197119]
+[u'apiary', 0.11433028, u'crate', 0.10387973, u'mailbox', 0.094121248, u'brass', 0.081621401, u'ashcan', 0.036598459]
+[u'wine_bottle', 0.79742926, u'red_wine', 0.1211905, u'beer_bottle', 0.053168923, u'eggnog', 0.0061748973, u'corkscrew', 0.0033732804]
+[u'wine_bottle', 0.66846728, u'red_wine', 0.32264352, u'beer_bottle', 0.0037795317, u'corkscrew', 0.0028163565, u'eggnog', 0.00040251497]

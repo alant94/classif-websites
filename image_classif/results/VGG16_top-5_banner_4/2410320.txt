@@ -1,0 +1,2 @@
+[u'streetcar', 0.13539892, u'barbershop', 0.12042676, u'golfcart', 0.095063746, u'restaurant', 0.079968527, u'gas_pump', 0.048371479]
+[u'chocolate_sauce', 0.72441685, u'consomme', 0.16328995, u'soup_bowl', 0.022889078, u'Crock_Pot', 0.016857641, u'espresso', 0.0098341573]

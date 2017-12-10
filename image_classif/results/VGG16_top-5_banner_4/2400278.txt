@@ -1,0 +1,6 @@
+[u'coil', 0.2270291, u'grand_piano', 0.10318751, u'analog_clock', 0.051826347, u'spotlight', 0.050515883, u'bolo_tie', 0.043010361]
+[u'screwdriver', 0.23550794, u'syringe', 0.21820426, u'whistle', 0.043770414, u'candle', 0.043625642, u'screw', 0.030946249]
+[u'ballpoint', 0.17081162, u"carpenter's_kit", 0.12297867, u'letter_opener', 0.10381563, u'screwdriver', 0.081518233, u'nail', 0.078673556]
+[u'joystick', 0.28131124, u'candle', 0.18299198, u'plunger', 0.16604456, u'spotlight', 0.036201756, u'toilet_seat', 0.034445204]
+[u'rule', 0.15587105, u'book_jacket', 0.083752431, u'envelope', 0.076854967, u'scoreboard', 0.061272603, u'digital_clock', 0.060641833]
+[u'digital_watch', 0.29620892, u'binder', 0.12775436, u'carton', 0.058283541, u'safe', 0.038378865, u'printer', 0.037202094]

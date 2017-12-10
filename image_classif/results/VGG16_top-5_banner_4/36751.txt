@@ -1,0 +1,8 @@
+[u'Persian_cat', 0.9197914, u'Angora', 0.023571393, u'Pekinese', 0.018517762, u'Pomeranian', 0.0056454986, u'Newfoundland', 0.0044192001]
+[u'digital_clock', 0.29278988, u'analog_clock', 0.12993735, u'wall_clock', 0.032961532, u'Band_Aid', 0.028726347, u'web_site', 0.027561411]
+[u'Persian_cat', 0.86264467, u'Pomeranian', 0.11123382, u'Pekinese', 0.0085835839, u'chow', 0.0076903282, u'marmoset', 0.0016234757]
+[u'Persian_cat', 0.99212569, u'Angora', 0.0044097793, u'Pekinese', 0.0026423964, u'Japanese_spaniel', 0.00038630315, u'Shih-Tzu', 0.00024951028]
+[u'Persian_cat', 0.84727335, u'lynx', 0.045161609, u'tiger_cat', 0.020645536, u'tabby', 0.0088177882, u'Angora', 0.0057602986]
+[u'Persian_cat', 0.99277449, u'Pomeranian', 0.0017577891, u'lynx', 0.0010031917, u'Pekinese', 0.00088344957, u'Japanese_spaniel', 0.00083038729]
+[u'Pekinese', 0.45841902, u'Persian_cat', 0.42451045, u'Pomeranian', 0.075834483, u'Lhasa', 0.011282437, u'Japanese_spaniel', 0.0086859502]
+[u'Persian_cat', 0.99423158, u'lynx', 0.0012277617, u'Japanese_spaniel', 0.00071458885, u'marmoset', 0.00065489556, u'Pekinese', 0.00063035911]

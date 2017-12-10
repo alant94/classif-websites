@@ -1,0 +1,5 @@
+[u'candle', 0.79539913, u'radiator', 0.069380939, u'picket_fence', 0.054364786, u'matchstick', 0.039363414, u'worm_fence', 0.0096861329]
+[u'Saluki', 0.18263616, u'Irish_setter', 0.10887943, u'web_site', 0.10110077, u'Afghan_hound', 0.069393158, u'cocker_spaniel', 0.05930566]
+[u'digital_clock', 0.12131413, u'jersey', 0.073244646, u'book_jacket', 0.032993648, u'web_site', 0.030856915, u'tennis_ball', 0.026581965]
+[u'harp', 0.2062535, u'window_shade', 0.10937808, u'tripod', 0.10171442, u'binoculars', 0.068402357, u'window_screen', 0.067234136]
+[u'web_site', 0.4825739, u'book_jacket', 0.015717957, u'candle', 0.014262347, u'menu', 0.012652012, u'television', 0.011960916]

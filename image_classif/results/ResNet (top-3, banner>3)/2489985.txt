@@ -1,0 +1,5 @@
+[u'fountain', 0.20424043, u'barn', 0.066489369, u'gazelle', 0.055267982]
+[u'ibex', 0.7736674, u'hartebeest', 0.098699793, u'butcher_shop', 0.026783027]
+[u'hartebeest', 0.69562209, u'gazelle', 0.093407631, u'impala', 0.05505671]
+[u'prison', 0.18086886, u'traffic_light', 0.095288657, u'fire_screen', 0.093740419]
+[u'can_opener', 0.6152184, u'spotlight', 0.14269233, u'corkscrew', 0.02878337]

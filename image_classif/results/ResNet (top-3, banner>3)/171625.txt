@@ -1,0 +1,3 @@
+[u'electric_fan', 0.30796686, u'gong', 0.20181327, u'spotlight', 0.151774]
+[u'book_jacket', 0.24800435, u'picket_fence', 0.13597529, u'scoreboard', 0.10240062]
+[u'scoreboard', 0.50340271, u'book_jacket', 0.042534962, u'jersey', 0.029661287]

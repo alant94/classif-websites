@@ -1,0 +1,2 @@
+[u'sunglass', 0.078791246, u'sunglasses', 0.052711487, u'golfcart', 0.04150736, u'coho', 0.026305899, u'Bernese_mountain_dog', 0.024344401]
+[u'Dungeness_crab', 0.54219741, u'king_crab', 0.098094419, u'hot_pot', 0.053664185, u'plate', 0.038859285, u'soup_bowl', 0.034956601]

@@ -1,0 +1,8 @@
+[u'container_ship', 0.53585881, u'library', 0.09298262, u'safe', 0.057622064, u'bookcase', 0.029848693, u'combination_lock', 0.02981892]
+[u'confectionery', 0.10792291, u'paintbrush', 0.074201889, u'toyshop', 0.073566549, u'packet', 0.060826976, u'shower_curtain', 0.048063155]
+[u'dam', 0.10154361, u'bell_cote', 0.068771072, u'beacon', 0.046534743, u'binoculars', 0.044746391, u'monitor', 0.039902184]
+[u'container_ship', 0.22502184, u'Windsor_tie', 0.16340449, u'scoreboard', 0.045152921, u'wool', 0.029053235, u'stole', 0.016307523]
+[u'scale', 0.13067424, u'medicine_chest', 0.10997097, u'cash_machine', 0.065816417, u'gas_pump', 0.06372834, u'guillotine', 0.045435637]
+[u'boathouse', 0.20779489, u'barn', 0.077570267, u'Windsor_tie', 0.040006954, u'container_ship', 0.036587179, u'solar_dish', 0.024116263]
+[u'container_ship', 0.30274504, u'liner', 0.054262321, u'paddlewheel', 0.043501444, u'crane', 0.02831831, u'drilling_platform', 0.023376171]
+[u'switch', 0.18891706, u'lighter', 0.085439511, u'perfume', 0.06727048, u'container_ship', 0.046986375, u'gas_pump', 0.033510372]

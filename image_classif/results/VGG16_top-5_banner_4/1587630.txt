@@ -1,0 +1,8 @@
+[u'butternut_squash', 0.26918897, u'spaghetti_squash', 0.25426701, u'banana', 0.16302864, u'axolotl', 0.044886719, u'zucchini', 0.030268239]
+[u'cleaver', 0.21087153, u'hand_blower', 0.09375491, u'spatula', 0.076545127, u'hair_spray', 0.073597781, u'quill', 0.036890373]
+[u'theater_curtain', 0.27744403, u'projector', 0.22715764, u'spotlight', 0.1060624, u'lampshade', 0.056903202, u'stage', 0.048414815]
+[u'envelope', 0.12465907, u'prayer_rug', 0.063038997, u'traffic_light', 0.051931474, u'maze', 0.022515511, u'book_jacket', 0.021204725]
+[u'bathtub', 0.26456723, u'tub', 0.22108075, u'diaper', 0.15866382, u'bath_towel', 0.11854553, u'shower_cap', 0.039753776]
+[u'sleeping_bag', 0.23153087, u'diaper', 0.14367157, u'bath_towel', 0.10636427, u'swimming_trunks', 0.062221684, u'oxygen_mask', 0.036470611]
+[u'wig', 0.36169505, u'sunglass', 0.037803944, u'groom', 0.03770829, u'sunscreen', 0.033578597, u'sunglasses', 0.033050992]
+[u'tub', 0.21724278, u'bathtub', 0.18333584, u'Band_Aid', 0.11441232, u'bath_towel', 0.04231894, u'sunscreen', 0.035175595]

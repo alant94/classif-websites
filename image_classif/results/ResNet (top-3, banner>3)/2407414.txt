@@ -1,0 +1,4 @@
+[u'gyromitra', 0.20080873, u'bakery', 0.055292279, u'terrapin', 0.041045144]
+[u'street_sign', 0.16243783, u'book_jacket', 0.13471553, u'packet', 0.12001403]
+[u'screen', 0.33035666, u'television', 0.28989711, u'web_site', 0.25647825]
+[u'lotion', 0.44448391, u'perfume', 0.10809676, u'candle', 0.089332759]

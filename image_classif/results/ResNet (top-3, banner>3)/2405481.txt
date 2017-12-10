@@ -1,0 +1,4 @@
+[u'vacuum', 0.15786681, u'can_opener', 0.073892526, u'pencil_sharpener', 0.058782112]
+[u'street_sign', 0.40466663, u'plate_rack', 0.099515945, u'safety_pin', 0.079290159]
+[u'oil_filter', 0.31414518, u'spotlight', 0.14969437, u'cassette_player', 0.065599568]
+[u'chain_saw', 0.20407248, u'space_heater', 0.12174109, u'cassette_player', 0.079583041]

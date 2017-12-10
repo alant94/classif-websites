@@ -1,0 +1,4 @@
+[u'altar', 0.206218, u'toyshop', 0.19109626, u'mask', 0.065218933, u'throne', 0.042869136, u'panpipe', 0.041427951]
+[u'scoreboard', 0.1634606, u'book_jacket', 0.15311889, u'digital_clock', 0.10614827, u'carton', 0.090709567, u'envelope', 0.066273369]
+[u'vestment', 0.36450934, u'hoopskirt', 0.063774064, u'torch', 0.044899449, u'lab_coat', 0.035771586, u'breastplate', 0.031827077]
+[u'scale', 0.2198796, u'monitor', 0.08280465, u'safe', 0.041932289, u'desk', 0.037108734, u'screen', 0.023307318]

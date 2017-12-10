@@ -1,0 +1,2 @@
+[u'envelope', 0.45293587, u'web_site', 0.075250067, u'Band_Aid', 0.058014806, u'lighter', 0.027243529, u'binder', 0.024793359]
+[u'stage', 0.037891172, u'cleaver', 0.032991484, u'beer_glass', 0.030153925, u'lab_coat', 0.026688883, u'microphone', 0.023194041]

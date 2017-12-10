@@ -1,0 +1,4 @@
+[u'packet', 0.39806202, u'envelope', 0.23709443, u'wallet', 0.075554706, u'carton', 0.071613073, u'Band_Aid', 0.067139536]
+[u'bell_cote', 0.5369122, u'envelope', 0.14005871, u'obelisk', 0.049805395, u'beacon', 0.045991525, u'candle', 0.019423669]
+[u'carton', 0.2478639, u'oil_filter', 0.19971126, u'modem', 0.18403599, u'packet', 0.049177244, u'screen', 0.027476029]
+[u'hand-held_computer', 0.3738794, u'packet', 0.20257473, u'slot', 0.055069223, u'vending_machine', 0.051290426, u'screen', 0.034050822]

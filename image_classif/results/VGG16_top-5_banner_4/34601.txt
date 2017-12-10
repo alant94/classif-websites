@@ -1,0 +1,1 @@
+[u'cash_machine', 0.060891386, u'digital_watch', 0.046572492, u'envelope', 0.044123754, u'digital_clock', 0.035236005, u'Band_Aid', 0.029061625]

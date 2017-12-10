@@ -1,0 +1,3 @@
+[u'envelope', 0.29630798, u'web_site', 0.14628196, u'Band_Aid', 0.023364186, u'wardrobe', 0.013480051, u'hook', 0.01322177]
+[u'rocking_chair', 0.097773425, u'crib', 0.077801414, u'window_shade', 0.062103957, u'sliding_door', 0.049379315, u'picket_fence', 0.033936772]
+[u'book_jacket', 0.21765831, u'Band_Aid', 0.11427218, u'comic_book', 0.050391797, u'web_site', 0.035409726, u'envelope', 0.033288587]

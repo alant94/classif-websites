@@ -1,0 +1,5 @@
+[u'grille', 0.14561059, u'ski', 0.13653721, u'letter_opener', 0.09737023, u'trombone', 0.041849889, u'shield', 0.03885312]
+[u'screwdriver', 0.37462798, u'letter_opener', 0.098065332, u"carpenter's_kit", 0.087684982, u'hair_slide', 0.075867951, u'nail', 0.053787455]
+[u'picket_fence', 0.092723414, u'street_sign', 0.067878284, u'ski', 0.027775364, u'viaduct', 0.027415721, u'barrel', 0.017744729]
+[u'toilet_seat', 0.45120919, u'goose', 0.15506442, u'gong', 0.028731273, u'chambered_nautilus', 0.025500687, u'face_powder', 0.024147341]
+[u'book_jacket', 0.18671454, u'web_site', 0.090045817, u'comic_book', 0.065082788, u'Band_Aid', 0.045595393, u'hair_spray', 0.032114509]

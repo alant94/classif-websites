@@ -1,0 +1,2 @@
+[u'digital_clock', 0.2780526, u'lighter', 0.06145874, u'tray', 0.060351007, u'perfume', 0.048659008, u'screen', 0.044923544]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

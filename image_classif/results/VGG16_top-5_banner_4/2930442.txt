@@ -1,0 +1,3 @@
+[u'suit', 0.72324753, u'Windsor_tie', 0.14003007, u'bow_tie', 0.087385066, u'oboe', 0.010417635, u'bolo_tie', 0.0083467625]
+[u'wig', 0.70611751, u'feather_boa', 0.046531674, u'groom', 0.019338533, u'bow_tie', 0.012017364, u'hair_spray', 0.010723066]
+[u'magnetic_compass', 0.32665661, u'airship', 0.11249294, u'modem', 0.092766374, u'scale', 0.074685313, u'iron', 0.059962597]

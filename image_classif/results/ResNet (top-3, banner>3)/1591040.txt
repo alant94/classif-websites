@@ -1,0 +1,4 @@
+[u'swimming_trunks', 0.71808445, u'bikini', 0.11068311, u'tub', 0.049453314]
+[u'pick', 0.90644646, u'drum', 0.028316364, u'shield', 0.018624863]
+[u'vizsla', 0.60516417, u'studio_couch', 0.077711917, u'swimming_trunks', 0.060818572]
+[u'packet', 0.28918144, u'web_site', 0.25804159, u'screwdriver', 0.062042829]

@@ -1,0 +1,2 @@
+[u'web_site', 0.92939305, u'book_jacket', 0.022851959, u'comic_book', 0.011067455, u'bow_tie', 0.0062194443, u'prison', 0.0026887348]
+[u'horizontal_bar', 0.34229106, u'balance_beam', 0.27888027, u'parallel_bars', 0.094687, u'stage', 0.043893572, u'spotlight', 0.029399753]

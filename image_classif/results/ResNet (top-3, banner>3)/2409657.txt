@@ -1,0 +1,6 @@
+[u'pajama', 0.060526635, u'cloak', 0.057833929, u'miniskirt', 0.042645831]
+[u'golden_retriever', 0.45872116, u'kuvasz', 0.093322217, u'dogsled', 0.07140436]
+[u'traffic_light', 0.94382125, u'bell_cote', 0.022179218, u'crane', 0.0090719061]
+[u'cassette', 0.2862207, u'comic_book', 0.2182935, u'book_jacket', 0.18038686]
+[u'shovel', 0.39963198, u'ski', 0.12249059, u'coho', 0.11194987]
+[u'necklace', 0.49463728, u'earthstar', 0.21836047, u'pot', 0.03829306]

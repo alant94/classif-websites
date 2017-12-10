@@ -1,0 +1,4 @@
+[u'home_theater', 0.65488988, u'table_lamp', 0.15731573, u'lampshade', 0.074228808]
+[u'stage', 0.37683094, u'slot', 0.19592735, u'home_theater', 0.095970035]
+[u'soap_dispenser', 0.48988473, u'modem', 0.11537714, u'toaster', 0.095185831]
+[u'ballpoint', 0.46773753, u'hair_slide', 0.10010067, u'academic_gown', 0.092641048]

@@ -1,0 +1,4 @@
+[u'abaya', 0.31914005, u'comic_book', 0.13317345, u'kimono', 0.04245298]
+[u'pencil_sharpener', 0.1878258, u'mask', 0.063084453, u'maraca', 0.054946572]
+[u'oscilloscope', 0.086862229, u'comic_book', 0.07240542, u'stage', 0.071362868]
+[u'shopping_basket', 0.11139187, u'combination_lock', 0.066744767, u'bolo_tie', 0.06419345]

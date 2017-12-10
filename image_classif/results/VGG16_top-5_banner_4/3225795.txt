@@ -1,0 +1,2 @@
+[u'cash_machine', 0.17410894, u'binder', 0.059626967, u'medicine_chest', 0.049888611, u'lighter', 0.036103088, u'oil_filter', 0.029719422]
+[u'binder', 0.090859495, u'ballpoint', 0.081363864, u'ski', 0.072363965, u'web_site', 0.063310489, u'letter_opener', 0.054131601]

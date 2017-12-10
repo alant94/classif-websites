@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.44987893, u'book_jacket', 0.22638232, u'plate_rack', 0.024466503]
+[u'rifle', 0.10335385, u'book_jacket', 0.095390029, u'corkscrew', 0.051887371]
+[u'wine_bottle', 0.59458482, u'red_wine', 0.39032891, u'beer_bottle', 0.012111821]
+[u'wine_bottle', 0.58081818, u'red_wine', 0.40393415, u'beer_bottle', 0.012626644]
+[u'red_wine', 0.62603092, u'wine_bottle', 0.36154157, u'beer_bottle', 0.0086593106]

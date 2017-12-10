@@ -1,0 +1,2 @@
+[u'prairie_chicken', 0.69403476, u'limpkin', 0.098325662, u'cock', 0.05438558, u'hen', 0.052796282, u'ruffed_grouse', 0.034971505]
+[u'wallaby', 0.1941826, u'hartebeest', 0.14613943, u'impala', 0.14159955, u'whippet', 0.09179949, u'cougar', 0.083076015]

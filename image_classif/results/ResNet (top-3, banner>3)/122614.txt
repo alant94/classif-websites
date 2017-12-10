@@ -1,0 +1,2 @@
+[u'lighter', 0.13600518, u'beer_glass', 0.1210494, u'comic_book', 0.084775224]
+[u'comic_book', 0.19425878, u'envelope', 0.15171222, u'pencil_box', 0.099090308]

@@ -1,0 +1,3 @@
+[u'binder', 0.10642591, u'book_jacket', 0.085199691, u'envelope', 0.045321751, u'ski', 0.035923183, u'web_site', 0.031499352]
+[u'restaurant', 0.26740065, u'medicine_chest', 0.2100606, u'washbasin', 0.12315049, u'dining_table', 0.080962099, u'altar', 0.041037343]
+[u'web_site', 0.039155617, u'book_jacket', 0.038669523, u'menu', 0.028159438, u'brass', 0.01524803, u'cash_machine', 0.013499718]

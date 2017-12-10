@@ -1,0 +1,6 @@
+[u'wig', 0.25907683, u'feather_boa', 0.076337017, u'skunk', 0.062671967, u'bow_tie', 0.046258722, u'fur_coat', 0.037695363]
+[u'book_jacket', 0.29986489, u'comic_book', 0.29214546, u'sleeping_bag', 0.091461651, u'sweatshirt', 0.031456228, u'cloak', 0.022775637]
+[u'chocolate_sauce', 0.098697677, u'bakery', 0.088753358, u'plate', 0.073544249, u'dough', 0.055733778, u'restaurant', 0.044705559]
+[u'wig', 0.1649455, u'jean', 0.044277254, u'miniskirt', 0.029172726, u'suit', 0.028603768, u'sweatshirt', 0.020525135]
+[u'drumstick', 0.45900047, u'ladle', 0.045388725, u'bow_tie', 0.041918322, u'steel_drum', 0.034847137, u'spatula', 0.02020127]
+[u'hay', 0.084849879, u'radio_telescope', 0.067543879, u'golfcart', 0.058098756, u'parachute', 0.054618146, u'harvester', 0.049639765]

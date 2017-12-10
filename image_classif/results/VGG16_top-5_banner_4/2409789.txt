@@ -1,0 +1,2 @@
+[u'torch', 0.11778653, u'jersey', 0.1170178, u'kimono', 0.031125953, u'pajama', 0.030586092, u'sarong', 0.027343858]
+[u'torch', 0.68005371, u'lab_coat', 0.088161603, u'racket', 0.026098499, u'jersey', 0.021711407, u'balance_beam', 0.01221569]

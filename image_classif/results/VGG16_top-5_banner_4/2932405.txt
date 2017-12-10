@@ -1,0 +1,1 @@
+[u'perfume', 0.55870724, u'binder', 0.050835736, u'lotion', 0.02906134, u'medicine_chest', 0.028762896, u'modem', 0.027104687]

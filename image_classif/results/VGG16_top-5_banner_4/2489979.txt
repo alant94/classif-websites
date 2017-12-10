@@ -1,0 +1,1 @@
+[u'zebra', 0.35263288, u'maze', 0.12526302, u'African_crocodile', 0.034245055, u'hartebeest', 0.033996318, u'impala', 0.021576429]

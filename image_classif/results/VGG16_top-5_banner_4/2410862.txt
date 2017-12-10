@@ -1,0 +1,5 @@
+[u'tow_truck', 0.26168573, u'trailer_truck', 0.26141185, u'crane', 0.22765115, u'moving_van', 0.12936901, u'garbage_truck', 0.053564236]
+[u'trailer_truck', 0.082299992, u'freight_car', 0.079855956, u'motor_scooter', 0.079228729, u'football_helmet', 0.071802676, u'tow_truck', 0.033355046]
+[u'minibus', 0.28865004, u'recreational_vehicle', 0.11496858, u'jeep', 0.1023998, u'pickup', 0.097738259, u'tow_truck', 0.097428814]
+[u'pajama', 0.22774802, u'bikini', 0.19048542, u'maillot', 0.099272437, u'gown', 0.07729812, u'maillot', 0.035657208]
+[u'swing', 0.079816721, u'lakeside', 0.0540407, u'maze', 0.049828943, u'umbrella', 0.042507291, u'stone_wall', 0.039641131]

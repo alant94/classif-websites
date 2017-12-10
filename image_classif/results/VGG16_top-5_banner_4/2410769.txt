@@ -1,0 +1,3 @@
+[u'fireboat', 0.85747451, u'geyser', 0.12235727, u'fountain', 0.018035483, u'paddlewheel', 0.00080033677, u'plastic_bag', 0.00018558295]
+[u'pill_bottle', 0.99447376, u'nipple', 0.0010369346, u'water_bottle', 0.0009244993, u'milk_can', 0.00064230309, u'toilet_tissue', 0.00059570966]
+[u'pill_bottle', 0.40137213, u'oil_filter', 0.38913304, u'toilet_tissue', 0.078373, u'nipple', 0.038336597, u'sunscreen', 0.034995764]

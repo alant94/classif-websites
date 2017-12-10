@@ -1,0 +1,1 @@
+[u'altar', 0.74318975, u'candle', 0.051037367, u'table_lamp', 0.050297406, u'dining_table', 0.042902503, u'stove', 0.017159635]

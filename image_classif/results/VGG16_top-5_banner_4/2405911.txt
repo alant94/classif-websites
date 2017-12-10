@@ -1,0 +1,2 @@
+[u'tripod', 0.16883974, u'binoculars', 0.053212792, u'centipede', 0.050063573, u'gasmask', 0.048040133, u'stopwatch', 0.03287299]
+[u'entertainment_center', 0.66034323, u'home_theater', 0.20549533, u'television', 0.11261589, u'chest', 0.0036842315, u'upright', 0.0024949615]

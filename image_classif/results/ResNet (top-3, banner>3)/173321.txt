@@ -1,0 +1,2 @@
+[u'analog_clock', 0.46826026, u'crossword_puzzle', 0.34274697, u'web_site', 0.052515805]
+[u'vacuum', 0.19911598, u'electric_fan', 0.13319109, u'washer', 0.088227004]

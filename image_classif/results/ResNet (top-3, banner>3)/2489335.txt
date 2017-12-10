@@ -1,0 +1,4 @@
+[u'hook', 0.34084165, u'Arabian_camel', 0.20670527, u'binoculars', 0.027837155]
+[u'chain', 0.13482243, u'hook', 0.10067146, u'nail', 0.061662193]
+[u'barn', 0.3927941, u'church', 0.090650573, u'hay', 0.08088012]
+[u'digital_watch', 0.82605147, u'digital_clock', 0.093496345, u'analog_clock', 0.020665027]

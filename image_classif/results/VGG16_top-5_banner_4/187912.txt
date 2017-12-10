@@ -1,0 +1,1 @@
+[u'football_helmet', 0.99289286, u'ballplayer', 0.0019774288, u'knee_pad', 0.0014986594, u'crash_helmet', 0.00067762728, u'breastplate', 0.00046389567]

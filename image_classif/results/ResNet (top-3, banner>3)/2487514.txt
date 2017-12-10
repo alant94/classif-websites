@@ -1,0 +1,5 @@
+[u'mongoose', 0.29258141, u'baboon', 0.17508997, u'meerkat', 0.039947394]
+[u'ibex', 0.93647397, u'gazelle', 0.031211304, u'hartebeest', 0.009092072]
+[u'Great_Dane', 0.13334221, u'Scottish_deerhound', 0.077871673, u'Staffordshire_bullterrier', 0.063770354]
+[u'hartebeest', 0.63684452, u'gazelle', 0.17846128, u'impala', 0.15107642]
+[u'bighorn', 0.32568243, u'Arabian_camel', 0.19238569, u'ram', 0.1641008]

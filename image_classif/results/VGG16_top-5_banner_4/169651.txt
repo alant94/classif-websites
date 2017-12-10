@@ -1,0 +1,2 @@
+[u"jack-o'-lantern", 0.51693165, u'book_jacket', 0.095501989, u'lampshade', 0.074818954, u'traffic_light', 0.061971098, u'comic_book', 0.043665487]
+[u'fur_coat', 0.097329803, u'stole', 0.08340022, u'Chihuahua', 0.053359855, u'muzzle', 0.052982084, u'pajama', 0.043457072]

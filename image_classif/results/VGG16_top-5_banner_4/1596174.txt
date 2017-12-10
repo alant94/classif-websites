@@ -1,0 +1,6 @@
+[u'brassiere', 0.36830598, u'maillot', 0.11987025, u'maillot', 0.11512229, u'miniskirt', 0.10678219, u'gown', 0.071574174]
+[u'stethoscope', 0.20832361, u'knot', 0.087970339, u'sandal', 0.06338533, u'necklace', 0.059988271, u'oxygen_mask', 0.049443103]
+[u'Band_Aid', 0.64673328, u'mask', 0.051453289, u'wig', 0.041551162, u'sunscreen', 0.035490226, u'bubble', 0.022362668]
+[u'maillot', 0.39609361, u'brassiere', 0.28822687, u'bikini', 0.11248721, u'maillot', 0.097531244, u'lipstick', 0.018959206]
+[u'miniskirt', 0.091474243, u'wig', 0.081654914, u'stole', 0.051943377, u'trench_coat', 0.039643038, u'hand_blower', 0.037270784]
+[u'pajama', 0.27239171, u'sunglasses', 0.040730156, u'miniskirt', 0.034372646, u'stole', 0.029603461, u'cleaver', 0.023483951]

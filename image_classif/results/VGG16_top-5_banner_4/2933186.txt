@@ -1,0 +1,5 @@
+[u'web_site', 0.88064384, u'book_jacket', 0.10161182, u'television', 0.0044298656, u'comic_book', 0.0033542821, u'screen', 0.0031349098]
+[u'buckle', 0.28788349, u'hook', 0.14546865, u'crash_helmet', 0.087234795, u'muzzle', 0.074370705, u'triceratops', 0.064498708]
+[u'book_jacket', 0.74862689, u'comic_book', 0.034872867, u'web_site', 0.027968913, u'torch', 0.023865722, u'balance_beam', 0.019498885]
+[u'wig', 0.31785068, u'miniskirt', 0.0334897, u'breastplate', 0.031186404, u'maillot', 0.028033081, u'hoopskirt', 0.027026312]
+[u'envelope', 0.70983368, u'menu', 0.14235298, u'binder', 0.098936595, u'web_site', 0.016524222, u'carton', 0.0065454519]

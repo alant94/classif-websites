@@ -1,0 +1,2 @@
+[u'rubber_eraser', 0.19549257, u'binder', 0.13612783, u'sunscreen', 0.13198, u'book_jacket', 0.10059112, u'packet', 0.043603316]
+[u'Band_Aid', 0.36053902, u'web_site', 0.19941832, u'oil_filter', 0.035147648, u'envelope', 0.034257147, u'chain_saw', 0.013184736]

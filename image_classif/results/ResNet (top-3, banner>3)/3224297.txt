@@ -1,0 +1,4 @@
+[u'dining_table', 0.24753883, u'vestment', 0.076323092, u'lab_coat', 0.049293499]
+[u'groom', 0.33587438, u'stole', 0.2068672, u'sarong', 0.10770836]
+[u'Windsor_tie', 0.3143312, u'suit', 0.17004442, u'shower_curtain', 0.065140508]
+[u'bow_tie', 0.11769396, u'coffee_mug', 0.094782382, u'beer_glass', 0.036339849]

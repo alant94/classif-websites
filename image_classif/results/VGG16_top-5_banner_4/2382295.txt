@@ -1,0 +1,2 @@
+[u'whistle', 0.22346742, u'pill_bottle', 0.084256016, u'beaker', 0.080026798, u'syringe', 0.074285358, u'measuring_cup', 0.06690795]
+[u'picket_fence', 0.22678126, u'rule', 0.082102388, u'nail', 0.048941489, u'switch', 0.03135686, u'web_site', 0.026157996]

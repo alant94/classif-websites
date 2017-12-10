@@ -1,0 +1,1 @@
+[u'spotlight', 0.089958712, u'necklace', 0.07856904, u'solar_dish', 0.058238126, u'jigsaw_puzzle', 0.045743264, u'dome', 0.034377143]

@@ -1,0 +1,4 @@
+[u'toilet_seat', 0.16066319, u'barrel', 0.086226836, u'plate_rack', 0.084992081, u'clog', 0.07356742, u'shield', 0.037671652]
+[u'gong', 0.25029603, u'shield', 0.14794362, u'washer', 0.066324055, u'slot', 0.064065419, u'toilet_seat', 0.062180258]
+[u'shield', 0.10928627, u'book_jacket', 0.071004219, u'plate_rack', 0.058050357, u'comic_book', 0.058013719, u'slot', 0.038079597]
+[u'Windsor_tie', 0.53578609, u'wardrobe', 0.047423109, u'wallet', 0.045937717, u'envelope', 0.040310889, u'cassette', 0.031106289]

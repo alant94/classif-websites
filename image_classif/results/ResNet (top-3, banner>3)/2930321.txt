@@ -1,0 +1,7 @@
+[u'traffic_light', 0.87339431, u'digital_clock', 0.030711509, u'church', 0.022817653]
+[u'web_site', 0.15293096, u'analog_clock', 0.041426849, u'street_sign', 0.040824667]
+[u'bow_tie', 0.44554883, u'suit', 0.23072571, u'Windsor_tie', 0.14879237]
+[u'grand_piano', 0.10315233, u'crutch', 0.062966697, u'military_uniform', 0.035173416]
+[u'analog_clock', 0.98529381, u'wall_clock', 0.012962056, u'stopwatch', 0.00053721003]
+[u'lab_coat', 0.2456937, u'vestment', 0.063534789, u'Windsor_tie', 0.061013523]
+[u'web_site', 0.1653997, u'oil_filter', 0.13712542, u'pill_bottle', 0.04867962]

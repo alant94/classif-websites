@@ -1,0 +1,4 @@
+[u'vacuum', 0.65680313, u'revolver', 0.12567398, u'corkscrew', 0.082138494]
+[u'revolver', 0.98368466, u'assault_rifle', 0.0070137167, u'rifle', 0.0068479651]
+[u'revolver', 0.66555631, u'corkscrew', 0.16895066, u'screw', 0.04830543]
+[u'revolver', 0.51540363, u'corkscrew', 0.31545767, u'rifle', 0.064432241]

@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.19935147, u'washbasin', 0.19532925, u'medicine_chest', 0.06464047]
+[u'unicycle', 0.33270872, u'vacuum', 0.10373506, u'trombone', 0.09509819]
+[u'crossword_puzzle', 0.49274001, u'prayer_rug', 0.093150631, u'shower_curtain', 0.048377555]
+[u'washbasin', 0.1064783, u'web_site', 0.10198027, u'television', 0.088611163]

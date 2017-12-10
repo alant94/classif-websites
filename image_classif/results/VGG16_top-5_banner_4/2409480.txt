@@ -1,0 +1,5 @@
+[u'folding_chair', 0.83406001, u'plate_rack', 0.071975626, u'shopping_cart', 0.017534902, u'rocking_chair', 0.014199317, u'stretcher', 0.013657382]
+[u'jersey', 0.96755254, u'sweatshirt', 0.013067696, u'maillot', 0.0048104371, u'bulletproof_vest', 0.0029282647, u'dumbbell', 0.0016175702]
+[u'seashore', 0.47044167, u'carton', 0.15735102, u'sandbar', 0.10928603, u'swimming_trunks', 0.076411247, u'water_bottle', 0.023472089]
+[u'picket_fence', 0.69009483, u'mailbox', 0.029763773, u'space_shuttle', 0.028630147, u'sunscreen', 0.015366264, u'worm_fence', 0.01177271]
+[u'Indian_elephant', 0.077056497, u'broom', 0.053746235, u'bow', 0.042272191, u'quill', 0.039713621, u'hog', 0.038141657]

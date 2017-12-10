@@ -1,0 +1,2 @@
+[u'Windsor_tie', 0.059498839, u'suit', 0.056478038, u'military_uniform', 0.054260734, u'bow_tie', 0.043983568, u'bulletproof_vest', 0.026580943]
+[u'shower_curtain', 0.1204389, u'paintbrush', 0.10516626, u'wig', 0.069008626, u'gown', 0.061575446, u'groom', 0.019339439]

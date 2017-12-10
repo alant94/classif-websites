@@ -1,0 +1,6 @@
+[u'medicine_chest', 0.22320613, u'envelope', 0.14122859, u'whistle', 0.089565285, u'refrigerator', 0.086745098, u'cash_machine', 0.057100154]
+[u'monitor', 0.10104068, u'desk', 0.062548392, u'wardrobe', 0.052570485, u'screen', 0.049965795, u'safe', 0.048444033]
+[u'envelope', 0.065965682, u'analog_clock', 0.057796083, u'wall_clock', 0.035525188, u'web_site', 0.028026393, u'carton', 0.019291718]
+[u'mailbox', 0.18017106, u'cinema', 0.11991637, u'picket_fence', 0.043154806, u'birdhouse', 0.034280587, u'shopping_basket', 0.03110517]
+[u'wardrobe', 0.22669786, u'cleaver', 0.09144932, u'quill', 0.081824839, u'abaya', 0.069917046, u'suit', 0.067506559]
+[u'maze', 0.48356935, u'coil', 0.30128103, u'electric_fan', 0.031252071, u'strainer', 0.017663738, u'bottlecap', 0.013781627]

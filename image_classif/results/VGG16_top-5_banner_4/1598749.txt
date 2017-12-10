@@ -1,0 +1,6 @@
+[u'fountain', 0.37428358, u'pedestal', 0.094710097, u'chimpanzee', 0.075214297, u'totem_pole', 0.056085307, u'hippopotamus', 0.047092419]
+[u'bikini', 0.21229108, u'web_site', 0.10960373, u'diaper', 0.096717745, u'swimming_trunks', 0.079900011, u'bathing_cap', 0.079303473]
+[u'cash_machine', 0.18054122, u'borzoi', 0.094663031, u'feather_boa', 0.092301704, u'bathing_cap', 0.069148019, u'balance_beam', 0.046351034]
+[u'digital_clock', 0.073111646, u'cash_machine', 0.051018961, u'wall_clock', 0.030486293, u'analog_clock', 0.02388552, u'television', 0.022979846]
+[u'bikini', 0.12816986, u'hoopskirt', 0.12736408, u'unicycle', 0.091395296, u'balance_beam', 0.084428221, u'parallel_bars', 0.069465451]
+[u'swimming_trunks', 0.62780535, u'bikini', 0.068637297, u'tub', 0.047337398, u'bathtub', 0.046058845, u'maillot', 0.042098422]

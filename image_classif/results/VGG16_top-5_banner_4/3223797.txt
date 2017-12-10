@@ -1,0 +1,2 @@
+[u'hook', 0.6110636, u"carpenter's_kit", 0.030604534, u'vacuum', 0.026942652, u'combination_lock', 0.023688244, u'whistle', 0.022317845]
+[u'flagpole', 0.35869524, u'library', 0.076221205, u'picket_fence', 0.070018232, u'church', 0.061207913, u'cinema', 0.055369724]

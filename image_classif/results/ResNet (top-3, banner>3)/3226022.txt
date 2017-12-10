@@ -1,0 +1,5 @@
+[u'web_site', 0.22031356, u'chambered_nautilus', 0.14591405, u'nematode', 0.12078083]
+[u'television', 0.93391472, u'screen', 0.029701775, u'home_theater', 0.015601231]
+[u'analog_clock', 0.2584928, u'digital_clock', 0.15855706, u'web_site', 0.10664211]
+[u'web_site', 0.70094299, u'comic_book', 0.12860651, u'cash_machine', 0.021888733]
+[u'scorpion', 0.97692865, u'web_site', 0.01661157, u'ant', 0.0048888349]

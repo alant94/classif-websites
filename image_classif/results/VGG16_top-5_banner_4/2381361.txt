@@ -1,0 +1,2 @@
+[u'lotion', 0.28003293, u'candle', 0.092360474, u'sunscreen', 0.067967318, u'bucket', 0.051952124, u'soap_dispenser', 0.035630926]
+[u'hair_spray', 0.66023088, u'vending_machine', 0.1830987, u'lotion', 0.027521769, u'sunscreen', 0.024342485, u'candle', 0.020741461]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.54818541, u'theater_curtain', 0.060228586, u'traffic_light', 0.040061831]
+[u'vestment', 0.99011385, u'throne', 0.0012529425, u'handkerchief', 0.0012326989]
+[u'laptop', 0.042408433, u'web_site', 0.040783249, u'water_bottle', 0.036605678]

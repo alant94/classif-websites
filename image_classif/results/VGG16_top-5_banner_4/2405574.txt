@@ -1,0 +1,1 @@
+[u'window_shade', 0.13318241, u'space_shuttle', 0.06302435, u'cash_machine', 0.042155724, u'solar_dish', 0.038002618, u'television', 0.036559172]

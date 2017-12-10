@@ -1,0 +1,5 @@
+[u'puck', 0.94870639, u'football_helmet', 0.013498413, u'pick', 0.0048930412]
+[u'tank', 0.95140851, u'half_track', 0.021652872, u'cannon', 0.018572668]
+[u'half_track', 0.1630927, u'pickelhaube', 0.13898879, u'bulletproof_vest', 0.10642076]
+[u'web_site', 0.64404643, u'cassette', 0.064416036, u'packet', 0.058956821]
+[u'web_site', 0.64236748, u'digital_clock', 0.055336285, u'analog_clock', 0.027652264]

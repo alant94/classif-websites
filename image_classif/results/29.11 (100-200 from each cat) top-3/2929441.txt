@@ -1,0 +1,4 @@
+[u'book_jacket', 0.41431206, u'web_site', 0.073008478, u'slide_rule', 0.057191201]
+[u'web_site', 0.43662742, u'book_jacket', 0.16387251, u'comic_book', 0.031234333]
+[u'ashcan', 0.25287113, u'sliding_door', 0.12189777, u'crate', 0.070574686]
+[u'book_jacket', 0.31891802, u'packet', 0.20287581, u'web_site', 0.080934726]

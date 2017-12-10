@@ -1,0 +1,5 @@
+[u'cinema', 0.064792812, u'tray', 0.044730473, u'limousine', 0.032678921, u'barbershop', 0.031606253, u'monitor', 0.029155305]
+[u'ski', 0.53648341, u'bow', 0.084831886, u"carpenter's_kit", 0.050452821, u'hook', 0.026539382, u'screwdriver', 0.017319961]
+[u'running_shoe', 0.24474885, u'whistle', 0.13540429, u'hair_slide', 0.066719264, u'swab', 0.062016308, u'tennis_ball', 0.045427218]
+[u'web_site', 0.1452281, u'hand-held_computer', 0.1376808, u"carpenter's_kit", 0.092923112, u'scoreboard', 0.05318268, u'nail', 0.051919226]
+[u'nail', 0.29526341, u'screwdriver', 0.26195237, u'letter_opener', 0.096741475, u"carpenter's_kit", 0.079446182, u'screw', 0.068410195]

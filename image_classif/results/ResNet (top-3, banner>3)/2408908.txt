@@ -1,0 +1,4 @@
+[u'sports_car', 0.13606788, u'geyser', 0.060796678, u'planetarium', 0.054327119]
+[u'punching_bag', 0.067277409, u'brassiere', 0.054400224, u'television', 0.052456293]
+[u'studio_couch', 0.81225425, u'maillot', 0.022215761, u'Band_Aid', 0.020603396]
+[u'maillot', 0.11277609, u'pajama', 0.11052679, u'studio_couch', 0.10784984]

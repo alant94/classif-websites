@@ -1,0 +1,4 @@
+[u'breastplate', 0.28351176, u'cuirass', 0.2533105, u'military_uniform', 0.16940098, u'chain_mail', 0.088683821, u'kimono', 0.069542512]
+[u'wardrobe', 0.77077127, u'vestment', 0.052525327, u'bookcase', 0.029095678, u'cloak', 0.023203513, u'sweatshirt', 0.011109304]
+[u'ski', 0.17587011, u'picket_fence', 0.16814515, u'paintbrush', 0.091019891, u'fountain', 0.069448374, u'swab', 0.067243919]
+[u'wardrobe', 0.7186147, u'vestment', 0.023035014, u'swab', 0.019227816, u'ski', 0.015486228, u'punching_bag', 0.012223301]

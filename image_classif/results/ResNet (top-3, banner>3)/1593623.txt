@@ -1,0 +1,8 @@
+[u'cello', 0.40871185, u'violin', 0.097541489, u'Windsor_tie', 0.072912514]
+[u'barbell', 0.40705231, u'dumbbell', 0.16940396, u'basenji', 0.066619448]
+[u'soap_dispenser', 0.21114387, u'hair_spray', 0.12813216, u'radiator', 0.076251097]
+[u'knee_pad', 0.71974039, u'bathing_cap', 0.025989313, u'rock_beauty', 0.02563213]
+[u'washbasin', 0.17118429, u'carton', 0.13241917, u'shower_cap', 0.073049143]
+[u'diaper', 0.58162159, u'brassiere', 0.10605115, u'dumbbell', 0.039847802]
+[u'menu', 0.54195458, u'web_site', 0.4232783, u'mushroom', 0.015681526]
+[u'bikini', 0.32916677, u'maillot', 0.14780684, u'miniskirt', 0.10355943]

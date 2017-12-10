@@ -1,0 +1,8 @@
+[u'knee_pad', 0.086241961, u'traffic_light', 0.063300282, u'sunscreen', 0.048900444, u'ski_mask', 0.041278109, u'digital_watch', 0.035229828]
+[u'picket_fence', 0.35113469, u'church', 0.30291158, u'palace', 0.078388803, u'greenhouse', 0.041824706, u'castle', 0.034665171]
+[u'church', 0.22498111, u'picket_fence', 0.17048267, u'castle', 0.064417362, u'thatch', 0.052853573, u'monastery', 0.051553503]
+[u'restaurant', 0.26067021, u'dining_table', 0.11998647, u'quilt', 0.054977942, u'four-poster', 0.053851265, u'studio_couch', 0.052442811]
+[u'church', 0.14269575, u'picket_fence', 0.11204891, u'palace', 0.073596731, u'mobile_home', 0.072128274, u'boathouse', 0.060971547]
+[u'four-poster', 0.27067846, u'barber_chair', 0.098931298, u'barbershop', 0.061493136, u'sliding_door', 0.060344022, u'china_cabinet', 0.059782844]
+[u'street_sign', 0.35429043, u'traffic_light', 0.039573003, u'web_site', 0.024658268, u'scoreboard', 0.020036278, u'envelope', 0.018719159]
+[u'restaurant', 0.39076671, u'dining_table', 0.30581933, u'patio', 0.043374982, u'china_cabinet', 0.030780738, u'vestment', 0.02370164]

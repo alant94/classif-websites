@@ -1,0 +1,8 @@
+[u'Dungeness_crab', 0.22487533, u'swimming_trunks', 0.042454801, u'pier', 0.036280248]
+[u'book_jacket', 0.42427227, u'chain_saw', 0.097519681, u'comic_book', 0.084639795]
+[u'vulture', 0.1581727, u'hog', 0.090800799, u'cloak', 0.065831453]
+[u'barracouta', 0.50590897, u'sturgeon', 0.18256319, u'gar', 0.090234183]
+[u'hartebeest', 0.87247235, u'ibex', 0.035904758, u'warthog', 0.02274972]
+[u'book_jacket', 0.43811244, u'doormat', 0.07769458, u'brass', 0.070196696]
+[u'valley', 0.76643026, u'lakeside', 0.17502677, u'cliff', 0.008590146]
+[u'shield', 0.11266933, u'analog_clock', 0.095769882, u'triumphal_arch', 0.063471943]

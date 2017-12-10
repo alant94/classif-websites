@@ -1,0 +1,3 @@
+[u'menu', 0.44421276, u'comic_book', 0.28054702, u'web_site', 0.2460735]
+[u'web_site', 0.17737328, u'comic_book', 0.12771198, u'hook', 0.10288663]
+[u'panpipe', 0.31479692, u'drum', 0.082659237, u'toyshop', 0.077348955]

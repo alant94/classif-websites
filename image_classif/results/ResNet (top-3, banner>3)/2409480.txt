@@ -1,0 +1,5 @@
+[u'folding_chair', 0.93731183, u'rocking_chair', 0.025591966, u'park_bench', 0.014253532]
+[u'jersey', 0.98773777, u'sweatshirt', 0.004157946, u'dumbbell', 0.0016109019]
+[u'seashore', 0.12508772, u'water_bottle', 0.074552596, u'carton', 0.070072234]
+[u'picket_fence', 0.66484451, u'minivan', 0.03502113, u'web_site', 0.034485675]
+[u'Boston_bull', 0.06479007, u'whistle', 0.047682986, u'quill', 0.046900302]

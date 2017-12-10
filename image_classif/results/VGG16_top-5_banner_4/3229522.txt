@@ -1,0 +1,6 @@
+[u'menu', 0.13494179, u'packet', 0.092153206, u'crossword_puzzle', 0.087007351, u'envelope', 0.048476461, u'carton', 0.034047749]
+[u'loupe', 0.069122985, u'analog_clock', 0.053815942, u'sunglass', 0.044660572, u'street_sign', 0.039697737, u'hook', 0.036730673]
+[u'bow_tie', 0.21833189, u'prison', 0.084610656, u'bathing_cap', 0.04405988, u'brassiere', 0.041934274, u'barbershop', 0.033737499]
+[u'worm_fence', 0.18816812, u'barn', 0.17301844, u'birdhouse', 0.10466962, u'picket_fence', 0.09588971, u'feather_boa', 0.066380717]
+[u'menu', 0.2504839, u'rule', 0.082282089, u'cinema', 0.075448312, u'web_site', 0.057831924, u'envelope', 0.038546678]
+[u'barn', 0.19293828, u'snowmobile', 0.13449343, u'boathouse', 0.12835361, u'snowplow', 0.10385048, u'church', 0.063765161]

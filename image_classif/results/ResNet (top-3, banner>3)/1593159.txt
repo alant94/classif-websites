@@ -1,0 +1,3 @@
+[u'sunscreen', 0.11452354, u'bikini', 0.076039404, u'tub', 0.071946464]
+[u'hog', 0.11174891, u'Italian_greyhound', 0.10228905, u'butcher_shop', 0.052728385]
+[u'cloak', 0.060953811, u'wig', 0.038036104, u'plastic_bag', 0.03664279]

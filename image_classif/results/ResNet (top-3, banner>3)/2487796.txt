@@ -1,0 +1,4 @@
+[u'restaurant', 0.17375092, u'four-poster', 0.11758369, u'throne', 0.10176273]
+[u'rain_barrel', 0.27946585, u'gas_pump', 0.11601342, u'patio', 0.079162277]
+[u'mobile_home', 0.55202931, u'recreational_vehicle', 0.31566611, u'boathouse', 0.023263898]
+[u'binder', 0.061818279, u'web_site', 0.06009135, u'handkerchief', 0.04893611]

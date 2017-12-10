@@ -1,0 +1,4 @@
+[u'bikini', 0.057235919, u'fur_coat', 0.054408383, u'hair_spray', 0.044883512, u'sunglass', 0.044666421, u'trench_coat', 0.043460481]
+[u'parachute', 0.10335273, u'kite', 0.077465504, u'flagpole', 0.059447374, u'birdhouse', 0.048595477, u'traffic_light', 0.040843107]
+[u'pick', 0.24956965, u'bottlecap', 0.072631747, u'spotlight', 0.051081963, u'shield', 0.043844532, u'street_sign', 0.036858544]
+[u'suit', 0.45547852, u'Windsor_tie', 0.084784545, u'mortarboard', 0.060392939, u'notebook', 0.049552538, u'bow_tie', 0.041190356]

@@ -1,0 +1,4 @@
+[u'sandal', 0.13240592, u'dam', 0.04176591, u'bobsled', 0.04084434, u'whistle', 0.040601112, u'screw', 0.037650384]
+[u'bathing_cap', 0.25409517, u'maillot', 0.22055085, u'king_penguin', 0.055338845, u'balance_beam', 0.052282553, u'American_Staffordshire_terrier', 0.040780887]
+[u'dam', 0.81260097, u'dumbbell', 0.0088541843, u'sandal', 0.0085984608, u'hand_blower', 0.0070429817, u'clog', 0.0060531176]
+[u'screw', 0.1467097, u'hand_blower', 0.046272133, u'centipede', 0.040074419, u'safe', 0.026565958, u'whistle', 0.024198284]

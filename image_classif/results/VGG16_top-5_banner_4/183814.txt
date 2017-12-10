@@ -1,0 +1,5 @@
+[u'cardigan', 0.21554075, u'stole', 0.15656267, u'jean', 0.092664205, u'suit', 0.08855287, u'apron', 0.035624918]
+[u'park_bench', 0.057759035, u'accordion', 0.046088621, u'kimono', 0.042229775, u'cellular_telephone', 0.03790525, u'marimba', 0.031289]
+[u'book_jacket', 0.088610806, u'street_sign', 0.083865829, u'Band_Aid', 0.035417542, u'web_site', 0.03538562, u'envelope', 0.034143046]
+[u'suit', 0.88721657, u'Windsor_tie', 0.039790127, u'bow_tie', 0.025906527, u'groom', 0.011802176, u'oboe', 0.0039099227]
+[u'palace', 0.2842454, u'castle', 0.072423086, u'monastery', 0.051638909, u'triumphal_arch', 0.044351611, u'streetcar', 0.040603824]

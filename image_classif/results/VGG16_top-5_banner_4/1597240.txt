@@ -1,0 +1,5 @@
+[u'sarong', 0.40133566, u'overskirt', 0.10212547, u'gown', 0.076675847, u'miniskirt', 0.072792046, u'hoopskirt', 0.063328527]
+[u'miniskirt', 0.25693879, u'pajama', 0.1768589, u'diaper', 0.083899535, u'maillot', 0.045652721, u'studio_couch', 0.036593702]
+[u'brassiere', 0.38369665, u'bikini', 0.31443954, u'miniskirt', 0.085793704, u'diaper', 0.044321496, u'maillot', 0.033627234]
+[u'maillot', 0.15240458, u'mountain_bike', 0.12048402, u'maillot', 0.077801749, u'swimming_trunks', 0.070671283, u'sarong', 0.068588533]
+[u'refrigerator', 0.49313611, u'washer', 0.12130013, u'microwave', 0.06307207, u'tub', 0.0598149, u'dishwasher', 0.030980818]

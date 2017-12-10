@@ -1,0 +1,2 @@
+[u'spotlight', 0.65974319, u'combination_lock', 0.12653232, u'digital_watch', 0.040455006, u'magnetic_compass', 0.037655097, u'whistle', 0.017390175]
+[u'container_ship', 0.5654847, u'crane', 0.20014618, u'forklift', 0.020144122, u'power_drill', 0.012178859, u'switch', 0.011527946]

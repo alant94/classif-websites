@@ -1,0 +1,1 @@
+[u'web_site', 0.4683632, u'television', 0.17255425, u'book_jacket', 0.10933168]

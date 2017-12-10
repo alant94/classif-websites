@@ -1,0 +1,5 @@
+[u'book_jacket', 0.65246356, u'web_site', 0.045905735, u'sunscreen', 0.039597113]
+[u'tobacco_shop', 0.45190978, u'book_jacket', 0.24334617, u'scoreboard', 0.084572949]
+[u'book_jacket', 0.62039173, u'web_site', 0.054325953, u'comic_book', 0.051796608]
+[u'web_site', 0.2399873, u'comic_book', 0.065059051, u'envelope', 0.058184225]
+[u'beacon', 0.57088685, u'monastery', 0.16432042, u'church', 0.10099486]

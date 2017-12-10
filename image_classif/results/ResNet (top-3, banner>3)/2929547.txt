@@ -1,0 +1,2 @@
+[u'envelope', 0.53994673, u'wallet', 0.14535351, u'packet', 0.095150329]
+[u'barn', 0.27483398, u'church', 0.11975514, u'picket_fence', 0.065207362]

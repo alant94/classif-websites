@@ -1,0 +1,3 @@
+[u'wardrobe', 0.55546051, u'cleaver', 0.23554672, u'jean', 0.03359988]
+[u'bow', 0.99999988, u'maypole', 5.7340461e-08, u'flute', 2.9107325e-08]
+[u'lab_coat', 0.92462271, u'vestment', 0.027220968, u'cleaver', 0.0090922229]

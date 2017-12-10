@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.36163181, u'confectionery', 0.31737614, u'bookshop', 0.058196504, u'vending_machine', 0.052082054, u'grocery_store', 0.027127819]
+[u'mortar', 0.48714605, u'hourglass', 0.073833242, u'syringe', 0.039050147, u'reel', 0.037726495, u'pill_bottle', 0.023183433]

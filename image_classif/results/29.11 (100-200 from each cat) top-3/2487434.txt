@@ -1,0 +1,3 @@
+[u'American_black_bear', 0.90726817, u'wild_boar', 0.02507397, u'ox', 0.023480736]
+[u'triceratops', 0.5511598, u'hartebeest', 0.061983008, u'tusker', 0.051397387]
+[u'panpipe', 0.83251679, u'marimba', 0.035404392, u'matchstick', 0.026402909]

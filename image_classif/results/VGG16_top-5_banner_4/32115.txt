@@ -1,0 +1,1 @@
+[u'sweatshirt', 0.066417672, u'suit', 0.053072758, u'Windsor_tie', 0.033260468, u'drumstick', 0.032168541, u'lab_coat', 0.022416607]

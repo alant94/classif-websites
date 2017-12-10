@@ -1,0 +1,7 @@
+[u'barbershop', 0.20717585, u'street_sign', 0.19571814, u'book_jacket', 0.10318968]
+[u'web_site', 0.41695428, u'book_jacket', 0.12604937, u'comic_book', 0.087087274]
+[u'street_sign', 0.34318772, u'book_jacket', 0.073151432, u'scoreboard', 0.061800569]
+[u'digital_watch', 0.18574984, u'digital_clock', 0.1624203, u'analog_clock', 0.10054252]
+[u'television', 0.48847166, u'screen', 0.35147712, u'cash_machine', 0.1034243]
+[u'football_helmet', 0.92484057, u'crash_helmet', 0.00969938, u'running_shoe', 0.0043086605]
+[u'rugby_ball', 0.39260724, u'punching_bag', 0.064854868, u'Band_Aid', 0.031847335]

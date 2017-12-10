@@ -1,0 +1,6 @@
+[u'digital_clock', 0.88605648, u'screen', 0.016556049, u'digital_watch', 0.013796004]
+[u'file', 0.097236373, u'stretcher', 0.090588383, u'binder', 0.087674126]
+[u'laptop', 0.044053599, u'tench', 0.032608435, u'maraca', 0.023802252]
+[u'church', 0.58742243, u'stupa', 0.26910987, u'mobile_home', 0.077356845]
+[u'street_sign', 0.22883208, u'digital_clock', 0.049149457, u'gas_pump', 0.0360571]
+[u'barbershop', 0.10726419, u'Band_Aid', 0.086450651, u'neck_brace', 0.069213368]

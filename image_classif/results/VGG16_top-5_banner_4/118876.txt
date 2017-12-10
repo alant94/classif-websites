@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.17849864, u'jersey', 0.10850822, u'sweatshirt', 0.046988454, u'beer_glass', 0.044609491, u'abaya', 0.03795857]
+[u'fire_engine', 0.23742954, u'toyshop', 0.15738967, u'slot', 0.11449567, u'wall_clock', 0.037343595, u'carousel', 0.030801253]
+[u'pencil_sharpener', 0.33165574, u'quill', 0.047171332, u'notebook', 0.046937488, u'harmonica', 0.035509549, u'lipstick', 0.028058734]
+[u'altar', 0.20847273, u'saltshaker', 0.15626921, u'thimble', 0.15139358, u'hourglass', 0.056660146, u'fountain', 0.050238431]

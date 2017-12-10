@@ -1,0 +1,2 @@
+[u'pickup', 0.128168, u'bobsled', 0.12251572, u'snowplow', 0.093496069]
+[u'seashore', 0.21704739, u'dock', 0.2119451, u'yawl', 0.16984043]

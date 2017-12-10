@@ -1,0 +1,3 @@
+[u'envelope', 0.61714965, u'packet', 0.040690001, u'web_site', 0.022875253, u'Band_Aid', 0.016514402, u'book_jacket', 0.013503107]
+[u'restaurant', 0.62165183, u'dining_table', 0.27724066, u'bakery', 0.046905078, u'plate', 0.028789826, u'altar', 0.004754439]
+[u'envelope', 0.17472443, u'web_site', 0.095821887, u'book_jacket', 0.062211834, u'street_sign', 0.031673707, u'cash_machine', 0.027720397]

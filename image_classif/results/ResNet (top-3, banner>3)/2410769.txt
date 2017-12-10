@@ -1,0 +1,2 @@
+[u'pill_bottle', 0.9896192, u'milk_can', 0.0073100603, u'face_powder', 0.0014042679]
+[u'pill_bottle', 0.36723667, u'oil_filter', 0.33671036, u'sunscreen', 0.057970501]

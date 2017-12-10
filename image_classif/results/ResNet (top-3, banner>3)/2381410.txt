@@ -1,0 +1,4 @@
+[u'puck', 0.15761518, u'jersey', 0.06558615, u'drum', 0.061908986]
+[u'tobacco_shop', 0.79425526, u'container_ship', 0.14783138, u'bookshop', 0.010634291]
+[u'library', 0.373988, u'palace', 0.058640204, u'boathouse', 0.058303531]
+[u'tobacco_shop', 0.96042889, u'container_ship', 0.034257118, u'bookshop', 0.003454719]

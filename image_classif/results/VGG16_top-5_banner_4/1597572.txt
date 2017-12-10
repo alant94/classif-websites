@@ -1,0 +1,4 @@
+[u'corkscrew', 0.064677909, u'bell_cote', 0.04785385, u'sewing_machine', 0.035340413, u'guillotine', 0.034320544, u'spotlight', 0.033936311]
+[u'sliding_door', 0.3276011, u'cash_machine', 0.11375716, u'turnstile', 0.11126642, u'china_cabinet', 0.049657598, u'bookshop', 0.044318847]
+[u'Weimaraner', 0.72742152, u'Italian_greyhound', 0.057838701, u'Mexican_hairless', 0.031211343, u'American_Staffordshire_terrier', 0.030070007, u'French_bulldog', 0.013079938]
+[u'brassiere', 0.78234863, u'wig', 0.15209916, u'bikini', 0.013209457, u'bow_tie', 0.0059663597, u'maillot', 0.005648755]

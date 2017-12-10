@@ -1,0 +1,1 @@
+[u'web_site', 0.16021931, u'menu', 0.061136197, u'pill_bottle', 0.045728326, u'power_drill', 0.033057414, u'screwdriver', 0.029673142]

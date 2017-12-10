@@ -1,0 +1,4 @@
+[u'bikini', 0.89527428, u'maillot', 0.046361845, u'maillot', 0.028801635]
+[u'lipstick', 0.38917428, u'whistle', 0.34770235, u'ice_lolly', 0.15414977]
+[u'bathtub', 0.3512705, u'tub', 0.10428034, u'maillot', 0.033142436]
+[u'butcher_shop', 0.7014153, u'wooden_spoon', 0.14640535, u'coral_fungus', 0.042603176]

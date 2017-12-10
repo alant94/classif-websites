@@ -1,0 +1,8 @@
+[u'crash_helmet', 0.48462322, u'maraca', 0.26030764, u'bathing_cap', 0.096443422]
+[u'iPod', 0.51135647, u'digital_clock', 0.10145567, u'dial_telephone', 0.055389747]
+[u'whistle', 0.66637743, u'syringe', 0.09310928, u'rifle', 0.079083309]
+[u'digital_clock', 0.72984356, u'digital_watch', 0.17399302, u'stopwatch', 0.06391824]
+[u'web_site', 0.39707109, u'dishwasher', 0.071179897, u'nematode', 0.039290417]
+[u'analog_clock', 0.41402283, u'prayer_rug', 0.15971901, u'digital_clock', 0.14729418]
+[u'stopwatch', 0.33934474, u'digital_clock', 0.15319905, u'analog_clock', 0.098341331]
+[u'analog_clock', 0.60505652, u'loupe', 0.099173449, u'digital_clock', 0.0938062]

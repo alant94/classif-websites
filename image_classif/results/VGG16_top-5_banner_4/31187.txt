@@ -1,0 +1,1 @@
+[u'combination_lock', 0.11431995, u'bolo_tie', 0.10465477, u'stopwatch', 0.058228936, u'scale', 0.049473803, u'analog_clock', 0.046810713]

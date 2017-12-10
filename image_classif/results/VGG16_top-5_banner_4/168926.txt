@@ -1,0 +1,3 @@
+[u'fireboat', 0.080793358, u'container_ship', 0.033981018, u'scoreboard', 0.031955734, u'airship', 0.030105326, u'fountain', 0.029722953]
+[u'vault', 0.20452841, u'prison', 0.16936202, u'library', 0.042399362, u'shower_curtain', 0.03338185, u'sliding_door', 0.030714948]
+[u'sarong', 0.54484153, u'swimming_trunks', 0.091027416, u'stole', 0.047165707, u'poncho', 0.044296339, u'gown', 0.033236466]

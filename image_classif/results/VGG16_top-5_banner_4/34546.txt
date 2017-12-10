@@ -1,0 +1,1 @@
+[u'breakwater', 0.34422234, u'seashore', 0.15853953, u'lakeside', 0.15608501, u'fireboat', 0.10814303, u'dock', 0.077344805]

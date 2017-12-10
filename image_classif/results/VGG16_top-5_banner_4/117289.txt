@@ -1,0 +1,3 @@
+[u'fireboat', 0.20655699, u'space_shuttle', 0.054040004, u'pier', 0.045217052, u'water_tower', 0.039580066, u'spotlight', 0.034780022]
+[u'fountain', 0.29281101, u'scuba_diver', 0.076179236, u'lionfish', 0.050066285, u'jellyfish', 0.048902534, u'bubble', 0.041089933]
+[u'book_jacket', 0.099451385, u'bottlecap', 0.049024709, u'throne', 0.047571622, u'altar', 0.036216117, u'rock_beauty', 0.027750507]

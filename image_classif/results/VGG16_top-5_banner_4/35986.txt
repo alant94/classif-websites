@@ -1,0 +1,7 @@
+[u'pick', 0.36437696, u'buckle', 0.16759413, u'cellular_telephone', 0.047412284, u'coffee_mug', 0.044682965, u'running_shoe', 0.042592201]
+[u'spatula', 0.50511044, u'pick', 0.19845653, u'spotlight', 0.081470795, u'hair_slide', 0.046578798, u'microphone', 0.029660132]
+[u'safety_pin', 0.82467175, u'hair_slide', 0.080340728, u'spatula', 0.023486998, u'screwdriver', 0.01160608, u'matchstick', 0.010356157]
+[u'remote_control', 0.33307233, u'lighter', 0.057711512, u'harmonica', 0.056048639, u'hair_slide', 0.042769659, u'cellular_telephone', 0.040294934]
+[u'hard_disc', 0.4740214, u'web_site', 0.076837182, u'oscilloscope', 0.066658303, u'modem', 0.059631724, u'brass', 0.039307479]
+[u'football_helmet', 0.49520439, u'ocarina', 0.096525967, u'buckle', 0.068475105, u'muzzle', 0.043796115, u'French_horn', 0.028852707]
+[u'web_site', 0.96793914, u'envelope', 0.0058480874, u'monitor', 0.0055968966, u'laptop', 0.0041295029, u'rule', 0.0036149551]

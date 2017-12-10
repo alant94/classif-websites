@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.089066096, u'book_jacket', 0.088212609, u'theater_curtain', 0.073406339, u"jack-o'-lantern", 0.058415458, u'jellyfish', 0.037426736]
+[u'patio', 0.41778347, u'greenhouse', 0.1117335, u'valley', 0.067473985, u'tile_roof', 0.047526449, u'lakeside', 0.034618016]
+[u'valley', 0.1341403, u'cliff', 0.13190494, u'alp', 0.11042017, u'bison', 0.072834685, u'megalith', 0.050778046]
+[u'wine_bottle', 0.32282865, u'pop_bottle', 0.23550408, u'beer_bottle', 0.17505717, u'hamper', 0.106465, u'red_wine', 0.037032239]
+[u'web_site', 0.63657576, u'book_jacket', 0.012309957, u'comic_book', 0.0098703066, u'sunglass', 0.0092680547, u'muzzle', 0.0084335152]

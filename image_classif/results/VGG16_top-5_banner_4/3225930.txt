@@ -1,0 +1,3 @@
+[u'bow_tie', 0.056571864, u'pajama', 0.051422369, u'bath_towel', 0.048875805, u'harmonica', 0.046866324, u'hair_spray', 0.043912023]
+[u"carpenter's_kit", 0.17355387, u'screwdriver', 0.14927971, u'book_jacket', 0.033431329, u'ballpoint', 0.029412275, u'power_drill', 0.027013462]
+[u'iron', 0.48134306, u'vacuum', 0.076415405, u'corkscrew', 0.055311866, u'hook', 0.048339106, u'can_opener', 0.038546003]

@@ -1,0 +1,2 @@
+[u'web_site', 0.51277572, u'envelope', 0.037821576, u'dishwasher', 0.035157729]
+[u'library', 0.12963711, u'moving_van', 0.12311649, u'cinema', 0.11462331]

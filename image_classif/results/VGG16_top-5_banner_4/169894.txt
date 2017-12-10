@@ -1,0 +1,7 @@
+[u'bell_cote', 0.43114266, u'beacon', 0.070542775, u'analog_clock', 0.065749332, u'obelisk', 0.03859986, u'picket_fence', 0.030576149]
+[u'oboe', 0.91304177, u'sax', 0.049678467, u'bassoon', 0.026540551, u'flute', 0.0089834211, u'electric_guitar', 0.00039594396]
+[u'bell_cote', 0.66013777, u'beacon', 0.090899706, u'analog_clock', 0.060095824, u'obelisk', 0.027364925, u'church', 0.014694349]
+[u'sax', 0.48682889, u'cornet', 0.1021328, u'cello', 0.064597055, u'trombone', 0.059931964, u'stage', 0.03885036]
+[u'shower_curtain', 0.36740115, u'cup', 0.086517803, u'bubble', 0.024524087, u'lampshade', 0.024433635, u'vase', 0.024167754]
+[u'digital_watch', 0.36099386, u'digital_clock', 0.29440287, u'analog_clock', 0.039276298, u'maze', 0.035906885, u'wall_clock', 0.022374595]
+[u'web_site', 0.21236816, u'radio', 0.076340884, u'monitor', 0.072771378, u'digital_clock', 0.053623334, u'microphone', 0.046374369]

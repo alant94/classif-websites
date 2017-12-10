@@ -1,0 +1,7 @@
+[u'screwdriver', 0.40603122, u'tape_player', 0.097800158, u'radio', 0.084052026]
+[u'fountain', 0.96055317, u'oscilloscope', 0.0089209685, u'fire_screen', 0.0065650498]
+[u'microphone', 0.69076777, u'radio', 0.30792508, u'joystick', 0.00061133323]
+[u'packet', 0.51280057, u'slot', 0.22347161, u'comic_book', 0.080480017]
+[u'binoculars', 0.46245489, u'tripod', 0.38593078, u'turnstile', 0.021862067]
+[u'whistle', 0.69698209, u'web_site', 0.047442574, u'analog_clock', 0.032195393]
+[u'packet', 0.41964057, u'comic_book', 0.14339201, u'corn', 0.058966894]

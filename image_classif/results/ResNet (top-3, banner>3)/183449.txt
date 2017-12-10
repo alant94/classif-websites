@@ -1,0 +1,5 @@
+[u'digital_clock', 0.61070293, u'ambulance', 0.16197874, u'digital_watch', 0.068723805]
+[u'photocopier', 0.37030533, u'library', 0.28422013, u'refrigerator', 0.086246699]
+[u'web_site', 0.23962604, u'digital_clock', 0.12871793, u'Band_Aid', 0.062951066]
+[u'library', 0.21218637, u'washbasin', 0.16818909, u'barber_chair', 0.12970619]
+[u'balance_beam', 0.35263762, u'park_bench', 0.19979434, u'guillotine', 0.104953]

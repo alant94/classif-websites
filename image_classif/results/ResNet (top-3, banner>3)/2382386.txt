@@ -1,0 +1,6 @@
+[u'golfcart', 0.26606965, u'tractor', 0.21614978, u'horse_cart', 0.10218921]
+[u'whistle', 0.32251915, u'Band_Aid', 0.11114369, u'digital_clock', 0.061489437]
+[u'whistle', 0.17686309, u'Band_Aid', 0.11576179, u'prayer_rug', 0.053858109]
+[u'barrel', 0.477557, u'Italian_greyhound', 0.1453335, u'bucket', 0.074440628]
+[u'web_site', 0.080965646, u'lipstick', 0.068001755, u'hair_spray', 0.051057771]
+[u'barometer', 0.18982521, u'loupe', 0.072795205, u'face_powder', 0.047873117]

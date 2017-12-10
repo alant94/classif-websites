@@ -1,0 +1,3 @@
+[u'bakery', 0.31280431, u'grocery_store', 0.29186195, u'streetcar', 0.070845664]
+[u'red_wine', 0.62407625, u'wine_bottle', 0.37255985, u'corkscrew', 0.0012544269]
+[u'starfish', 0.65038472, u'screw', 0.093066029, u'corn', 0.038868759]

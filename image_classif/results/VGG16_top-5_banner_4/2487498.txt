@@ -1,0 +1,8 @@
+[u'fountain', 0.92575401, u'paintbrush', 0.010479048, u'picket_fence', 0.0099018058, u'shower_curtain', 0.00974386, u'cliff', 0.0049802796]
+[u'nail', 0.82733774, u'screw', 0.17000274, u'hammer', 0.00039607062, u'hook', 0.00031774369, u'coil', 0.00020705219]
+[u'assault_rifle', 0.28279054, u'reel', 0.12339567, u'gar', 0.08852607, u'barracouta', 0.073709495, u'revolver', 0.064847715]
+[u'book_jacket', 0.92150658, u'comic_book', 0.068622716, u'theater_curtain', 0.0028626819, u'electric_guitar', 0.00097876741, u'coffee_mug', 0.00035214494]
+[u'panpipe', 0.071464226, u'bell_cote', 0.06277892, u'stupa', 0.038506277, u'envelope', 0.023380117, u'swab', 0.021303]
+[u'feather_boa', 0.12826599, u'macaw', 0.12491883, u'banana', 0.086443126, u'swab', 0.054602277, u'quill', 0.046333387]
+[u'book_jacket', 0.29024693, u'cinema', 0.15756917, u'brass', 0.14181341, u'barbershop', 0.10024689, u'web_site', 0.063543297]
+[u'bikini', 0.14116873, u'pole', 0.045103889, u'wooden_spoon', 0.040832616, u'sarong', 0.034485243, u'maraca', 0.033867378]

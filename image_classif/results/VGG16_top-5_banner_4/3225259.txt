@@ -1,0 +1,6 @@
+[u'drumstick', 0.11519039, u'ear', 0.088789083, u'wooden_spoon', 0.070394635, u'mantis', 0.061582807, u'corn', 0.040852364]
+[u'abacus', 0.25570899, u'ice_lolly', 0.045233503, u'shoe_shop', 0.038696982, u'drum', 0.02765464, u'drumstick', 0.02683761]
+[u'nail', 0.73491776, u'pole', 0.045335539, u'screw', 0.044076312, u'padlock', 0.021239404, u'shovel', 0.016737269]
+[u'swing', 0.24289778, u'pole', 0.20343314, u'horizontal_bar', 0.14068991, u'parallel_bars', 0.048033189, u'maypole', 0.046861071]
+[u'church', 0.50121868, u'fountain', 0.12525819, u'mosque', 0.10427576, u'monastery', 0.085138731, u'dome', 0.05083672]
+[u'shower_cap', 0.99911302, u'plastic_bag', 0.00015911134, u'bonnet', 0.00013464178, u'dough', 6.7502733e-05, u'wig', 4.9545786e-05]

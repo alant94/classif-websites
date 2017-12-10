@@ -1,0 +1,1 @@
+[u'African_grey', 0.13589944, u'vulture', 0.12912028, u'hummingbird', 0.094730072, u'kite', 0.057830315, u'macaw', 0.052778956]

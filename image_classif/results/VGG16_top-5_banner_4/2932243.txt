@@ -1,0 +1,6 @@
+[u'web_site', 0.37284783, u'face_powder', 0.039801471, u'binder', 0.033945218, u'book_jacket', 0.030334104, u'loupe', 0.026291339]
+[u'lab_coat', 0.2219243, u'racket', 0.1334576, u'jersey', 0.040718127, u'torch', 0.038864218, u'stethoscope', 0.024261013]
+[u'candle', 0.10737366, u'tray', 0.071075089, u'safety_pin', 0.044272382, u'lampshade', 0.038093999, u'toaster', 0.033375818]
+[u'mortarboard', 0.22506207, u'academic_gown', 0.14429936, u'sunscreen', 0.035163853, u'iPod', 0.033464376, u'brassiere', 0.033163719]
+[u'miniskirt', 0.23565221, u'gown', 0.15299372, u'maillot', 0.12378849, u'maillot', 0.079713076, u'racket', 0.05692533]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

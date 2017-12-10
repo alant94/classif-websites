@@ -1,0 +1,4 @@
+[u'web_site', 0.28611532, u'rifle', 0.12191519, u'book_jacket', 0.07105691, u'envelope', 0.03571387, u'assault_rifle', 0.023454452]
+[u'bannister', 0.25913668, u'chime', 0.12886819, u'panpipe', 0.088933006, u'crib', 0.058314454, u'hook', 0.036387667]
+[u'window_screen', 0.16286355, u'medicine_chest', 0.16137484, u'binder', 0.093231954, u'fire_screen', 0.065424256, u'greenhouse', 0.056274585]
+[u'impala', 0.85370338, u'gazelle', 0.12210272, u'hartebeest', 0.010467675, u'Saluki', 0.0090219444, u'ostrich', 0.00083455059]

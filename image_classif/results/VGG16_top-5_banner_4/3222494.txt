@@ -1,0 +1,3 @@
+[u'worm_fence', 0.10511789, u'picket_fence', 0.096086957, u'greenhouse', 0.090264566, u'park_bench', 0.077479921, u'turnstile', 0.050260212]
+[u'mobile_home', 0.49423459, u'picket_fence', 0.16747005, u'worm_fence', 0.077659488, u'boathouse', 0.077071384, u'barn', 0.037948869]
+[u'web_site', 0.059920032, u'wall_clock', 0.02924981, u'envelope', 0.024467897, u'analog_clock', 0.017105887, u'bee_eater', 0.016518567]

@@ -1,0 +1,3 @@
+[u'binder', 0.17001897, u'envelope', 0.14166722, u'plate_rack', 0.11428662, u'picket_fence', 0.057996538, u'book_jacket', 0.053673338]
+[u'abaya', 0.18965794, u'apron', 0.097836137, u'backpack', 0.058954284, u'velvet', 0.043029349, u'lighter', 0.042285386]
+[u'assault_rifle', 0.68837911, u'rifle', 0.11901914, u'bow', 0.10184024, u'plow', 0.043549698, u'stretcher', 0.0091455998]

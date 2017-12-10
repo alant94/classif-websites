@@ -1,0 +1,5 @@
+[u'barracouta', 0.39613891, u'coho', 0.28661132, u'sturgeon', 0.061671183, u'gar', 0.051309451, u'butcher_shop', 0.029834324]
+[u'thatch', 0.10111143, u'oxcart', 0.085811749, u'king_penguin', 0.068752922, u'cliff', 0.060594324, u'picket_fence', 0.047978576]
+[u'worm_fence', 0.12778649, u'picket_fence', 0.091285482, u'dogsled', 0.071683906, u'prairie_chicken', 0.066900752, u'poncho', 0.065055043]
+[u'castle', 0.15627749, u'barn', 0.11833334, u'wreck', 0.086645558, u'picket_fence', 0.066210181, u'fountain', 0.064808369]
+[u'medicine_chest', 0.19867717, u'photocopier', 0.099645719, u'bookcase', 0.085506111, u'wardrobe', 0.04605335, u'crib', 0.038524583]

@@ -1,0 +1,6 @@
+[u'puck', 0.10559067, u'ski_mask', 0.060770713, u'football_helmet', 0.048507687]
+[u'leopard', 0.38300258, u'cheetah', 0.28371304, u'jaguar', 0.093547925]
+[u'spotted_salamander', 0.30464128, u'Gordon_setter', 0.24945372, u'common_newt', 0.1658446]
+[u'leopard', 0.43658149, u'cheetah', 0.39526424, u'jaguar', 0.085150085]
+[u'digital_clock', 0.96435523, u'digital_watch', 0.0131582, u'analog_clock', 0.0066536032]
+[u'leopard', 0.42152962, u'cheetah', 0.33808666, u'jaguar', 0.07198555]

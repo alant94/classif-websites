@@ -1,0 +1,2 @@
+[u'plate_rack', 0.15116276, u'cowboy_boot', 0.055895325, u'eggnog', 0.038825493]
+[u'hook', 0.14196604, u'stopwatch', 0.056796409, u'shovel', 0.053802691]

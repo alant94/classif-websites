@@ -1,0 +1,6 @@
+[u'shower_curtain', 0.2523798, u'vending_machine', 0.15125737, u'refrigerator', 0.047766417, u'comic_book', 0.044615392, u'wine_bottle', 0.041861489]
+[u'Band_Aid', 0.04752747, u'punching_bag', 0.043649379, u'can_opener', 0.028296832, u'digital_clock', 0.0200634, u'rubber_eraser', 0.018272264]
+[u'bell_cote', 0.50530452, u'space_shuttle', 0.047410488, u'whistle', 0.037752014, u'church', 0.037590098, u'cinema', 0.02357759]
+[u'menu', 0.31899315, u'fountain_pen', 0.13251317, u'binder', 0.087453023, u'web_site', 0.07571616, u'envelope', 0.053391326]
+[u'envelope', 0.41951942, u'Band_Aid', 0.080629036, u'wall_clock', 0.051845547, u'rubber_eraser', 0.026245408, u'digital_clock', 0.020666815]
+[u'syringe', 0.12026156, u'drumstick', 0.065593556, u'bassoon', 0.064269245, u'hammer', 0.050540369, u'cleaver', 0.049001433]

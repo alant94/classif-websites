@@ -1,0 +1,2 @@
+[u'web_site', 0.69038075, u'menu', 0.20600635, u'loupe', 0.0041474011]
+[u'guinea_pig', 0.16222121, u'jigsaw_puzzle', 0.064882442, u'abacus', 0.039063144]

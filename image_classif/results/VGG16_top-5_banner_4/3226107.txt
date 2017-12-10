@@ -1,0 +1,2 @@
+[u'spaghetti_squash', 0.52874601, u'acorn_squash', 0.10721023, u'butternut_squash', 0.053645492, u'zucchini', 0.042229768, u'daisy', 0.028610872]
+[u'book_jacket', 0.1206179, u'envelope', 0.075277492, u'carton', 0.039564569, u'binder', 0.025936367, u'web_site', 0.024614885]

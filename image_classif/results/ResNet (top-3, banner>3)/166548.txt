@@ -1,0 +1,3 @@
+[u'medicine_chest', 0.2149343, u'screen', 0.12163667, u'digital_clock', 0.11663352]
+[u'abaya', 0.10585937, u'digital_clock', 0.048881534, u'jersey', 0.043450069]
+[u'shower_curtain', 0.18018329, u'crossword_puzzle', 0.086927563, u'washbasin', 0.060726326]

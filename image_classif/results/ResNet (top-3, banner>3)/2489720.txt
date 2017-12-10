@@ -1,0 +1,7 @@
+[u'American_black_bear', 0.99859256, u'sloth_bear', 0.0012852083, u'brown_bear', 0.00010464879]
+[u'digital_clock', 0.91233546, u'digital_watch', 0.079813085, u'oscilloscope', 0.0055212118]
+[u'comic_book', 0.36574805, u'book_jacket', 0.16068286, u'street_sign', 0.042047147]
+[u'barrel', 0.90468055, u'rain_barrel', 0.041287631, u'Petri_dish', 0.03504413]
+[u'gazelle', 0.24955465, u'hartebeest', 0.12138174, u'zebra', 0.11017291]
+[u'fountain', 0.16990131, u'barn', 0.10408486, u'Indian_elephant', 0.072500311]
+[u'picket_fence', 0.13830836, u'bannister', 0.11211089, u'steel_arch_bridge', 0.051983565]

@@ -1,0 +1,2 @@
+[u'puck', 0.26178813, u'shield', 0.19638838, u'comic_book', 0.1186461, u'buckle', 0.10672504, u'toilet_seat', 0.059241381]
+[u'vulture', 0.15655206, u'screw', 0.095457941, u'oystercatcher', 0.068825483, u'white_stork', 0.060026016, u'pelican', 0.050932467]

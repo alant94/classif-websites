@@ -1,0 +1,5 @@
+[u'book_jacket', 0.78150034, u'packet', 0.082146503, u'perfume', 0.067166276]
+[u'prayer_rug', 0.45396748, u'crossword_puzzle', 0.33525634, u'maze', 0.047587022]
+[u'wig', 0.13196476, u'web_site', 0.085650928, u'television', 0.063937284]
+[u'envelope', 0.088825174, u'iron', 0.06623435, u'swab', 0.047008302]
+[u'book_jacket', 0.49216363, u'doormat', 0.04604109, u'tree_frog', 0.03490071]

@@ -1,0 +1,3 @@
+[u'beacon', 0.18890819, u'bell_cote', 0.12113194, u'church', 0.085646868, u'birdhouse', 0.046437696, u'water_tower', 0.034588706]
+[u'face_powder', 0.069075942, u'drum', 0.063279472, u'analog_clock', 0.058181118, u'Band_Aid', 0.036446456, u'wall_clock', 0.028915806]
+[u'church', 0.21393158, u'mosque', 0.081311159, u'dome', 0.075401537, u'castle', 0.074535988, u'monastery', 0.060254104]

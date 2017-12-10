@@ -1,0 +1,4 @@
+[u'cornet', 0.24103993, u'French_horn', 0.14626366, u'bassinet', 0.095781729]
+[u'swimming_trunks', 0.81468433, u'dumbbell', 0.028596377, u'bathing_cap', 0.016011577]
+[u'bikini', 0.38597164, u'swimming_trunks', 0.10366029, u'bathing_cap', 0.080169328]
+[u'geyser', 0.077771559, u'fireboat', 0.074967422, u'window_screen', 0.053950861]

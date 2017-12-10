@@ -1,0 +1,7 @@
+[u'analog_clock', 0.64640939, u'stethoscope', 0.05806781, u'bolo_tie', 0.039996106]
+[u'nematode', 0.063848674, u'plunger', 0.042870305, u'pedestal', 0.031465039]
+[u'nematode', 0.063848674, u'plunger', 0.042870305, u'pedestal', 0.031465039]
+[u'loupe', 0.23661873, u'stethoscope', 0.21474268, u'binder', 0.14440423]
+[u'sarong', 0.38752916, u'bikini', 0.18894716, u'gown', 0.087545894]
+[u'Windsor_tie', 0.48670897, u'lab_coat', 0.31965429, u'suit', 0.032659642]
+[u'lab_coat', 0.93045199, u'stethoscope', 0.035913795, u'Windsor_tie', 0.0087539842]

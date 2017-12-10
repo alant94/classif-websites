@@ -1,0 +1,5 @@
+[u'vault', 0.21284176, u'toilet_seat', 0.039189894, u'starfish', 0.036526836]
+[u'maillot', 0.53480792, u'bikini', 0.19455028, u'maillot', 0.12388417]
+[u'brassiere', 0.98647237, u'bikini', 0.0065331054, u'miniskirt', 0.0042537926]
+[u'brassiere', 0.15477489, u'miniskirt', 0.12252356, u'lipstick', 0.054819398]
+[u'hook', 0.18313569, u'corkscrew', 0.15050288, u'nematode', 0.081867345]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.078502595, u'web_site', 0.045325037, u'matchstick', 0.024637111, u'digital_clock', 0.020285975, u'safety_pin', 0.016521303]
+[u'matchstick', 0.04256174, u'nematode', 0.031304728, u'lighter', 0.020049265, u'digital_clock', 0.016429791, u'spotlight', 0.013648248]
+[u'crate', 0.23958531, u'ashcan', 0.069545791, u'chest', 0.060057539, u'stove', 0.038742576, u'entertainment_center', 0.031770136]
+[u'digital_clock', 0.21120951, u'book_jacket', 0.044500735, u'web_site', 0.037130214, u'traffic_light', 0.028180288, u'scoreboard', 0.024732416]
+[u'book_jacket', 0.2498031, u'brown_bear', 0.12560661, u'web_site', 0.12404443, u'lion', 0.083214074, u'comic_book', 0.063929923]
+[u'screwdriver', 0.12490637, u'book_jacket', 0.069888435, u'digital_clock', 0.039866202, u"carpenter's_kit", 0.037800238, u'matchstick', 0.026160721]
+[u'digital_clock', 0.17716643, u'book_jacket', 0.075573996, u'scoreboard', 0.045658436, u'traffic_light', 0.044169579, u'odometer', 0.030150708]
+[u'screw', 0.60319185, u'nail', 0.25145617, u'screwdriver', 0.086803108, u'syringe', 0.020372601, u'rule', 0.0093790004]

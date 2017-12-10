@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.70368654, u'stage', 0.18818854, u'church', 0.021589331]
+[u'loudspeaker', 0.19531612, u'stage', 0.19439015, u'spotlight', 0.13523115]

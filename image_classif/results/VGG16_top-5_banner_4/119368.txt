@@ -1,0 +1,2 @@
+[u'monitor', 0.35886282, u'envelope', 0.22429386, u'safe', 0.14930411, u'digital_clock', 0.029481424, u'measuring_cup', 0.022490786]
+[u'envelope', 0.32859161, u'picket_fence', 0.17847881, u'syringe', 0.058926322, u'web_site', 0.056823399, u'pill_bottle', 0.048653252]

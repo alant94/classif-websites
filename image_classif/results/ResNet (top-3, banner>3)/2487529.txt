@@ -1,0 +1,8 @@
+[u'chain', 0.17794172, u'cuirass', 0.14293766, u'cowboy_hat', 0.098273352]
+[u'borzoi', 0.54194808, u'Ibizan_hound', 0.24510145, u'kuvasz', 0.051749181]
+[u'Arabian_camel', 0.43680885, u'vulture', 0.23092459, u'bighorn', 0.13564913]
+[u'standard_poodle', 0.3289122, u'Bedlington_terrier', 0.26029643, u'ram', 0.2212162]
+[u'English_foxhound', 0.35835528, u'Arabian_camel', 0.22533585, u'impala', 0.071261175]
+[u'punching_bag', 0.34808108, u'shovel', 0.19368902, u"carpenter's_kit", 0.054482542]
+[u'shovel', 0.65742326, u'radiator', 0.047402322, u'hook', 0.037705705]
+[u'vestment', 0.18543491, u'fountain', 0.1439805, u'lab_coat', 0.12946294]

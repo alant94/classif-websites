@@ -1,0 +1,5 @@
+[u'barn', 0.9955973, u'boathouse', 0.0013463732, u'brass', 0.00048205521]
+[u'barbershop', 0.35348177, u'book_jacket', 0.098685004, u'comic_book', 0.098571189]
+[u'comic_book', 0.6059466, u'book_jacket', 0.29500461, u'web_site', 0.041643936]
+[u'sunglass', 0.239081, u'jersey', 0.12471287, u'wig', 0.077255636]
+[u'stage', 0.29405558, u'church', 0.29091674, u'altar', 0.2512731]

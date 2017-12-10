@@ -1,0 +1,7 @@
+[u'dining_table', 0.76205724, u'restaurant', 0.093786366, u'barbershop', 0.089368165]
+[u'sliding_door', 0.12745111, u'beacon', 0.071000338, u'gas_pump', 0.060259473]
+[u'envelope', 0.46074018, u'web_site', 0.10340572, u'fountain_pen', 0.045846425]
+[u'lakeside', 0.16112867, u'pole', 0.10913538, u'seashore', 0.10851988]
+[u'police_van', 0.41284502, u'minibus', 0.26730856, u'ambulance', 0.18624096]
+[u'jersey', 0.11617453, u'laptop', 0.10795569, u'book_jacket', 0.056621]
+[u'church', 0.60261953, u'bell_cote', 0.14997783, u'monastery', 0.0439777]

@@ -1,0 +1,4 @@
+[u'grand_piano', 0.38661641, u'kimono', 0.11393112, u'theater_curtain', 0.062970489]
+[u'pick', 0.85465699, u'golf_ball', 0.033236638, u'bathing_cap', 0.029821981]
+[u'suit', 0.66864127, u'bow_tie', 0.23994076, u'military_uniform', 0.036156263]
+[u'microphone', 0.22833505, u'harmonica', 0.12869056, u'harp', 0.10575645]

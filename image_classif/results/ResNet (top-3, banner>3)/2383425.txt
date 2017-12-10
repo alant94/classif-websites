@@ -1,0 +1,2 @@
+[u'book_jacket', 0.15609382, u'web_site', 0.1425247, u'digital_clock', 0.045558888]
+[u'scoreboard', 0.4487845, u'fire_screen', 0.12770832, u'book_jacket', 0.11391059]

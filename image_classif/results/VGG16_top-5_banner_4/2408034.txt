@@ -1,0 +1,1 @@
+[u'meat_loaf', 0.47708613, u'mashed_potato', 0.10520086, u'ice_cream', 0.058448769, u'plate', 0.054239023, u'chocolate_sauce', 0.045573916]

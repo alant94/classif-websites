@@ -1,0 +1,2 @@
+[u'traffic_light', 0.10774808, u'cash_machine', 0.10263251, u'tobacco_shop', 0.067844167, u'slot', 0.066937916, u'cab', 0.037904706]
+[u'fire_screen', 0.30775404, u'television', 0.16366078, u'home_theater', 0.066215768, u'torch', 0.039226945, u'comic_book', 0.032664113]

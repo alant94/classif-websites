@@ -1,0 +1,3 @@
+[u'cowboy_hat', 0.12594496, u'marimba', 0.060441904, u'panpipe', 0.04802807, u'sombrero', 0.047514312, u'harmonica', 0.040435955]
+[u'sombrero', 0.48326975, u'cowboy_hat', 0.24777105, u'torch', 0.091799706, u'maraca', 0.045604397, u'mask', 0.012014734]
+[u'teddy', 0.12353303, u'French_bulldog', 0.06565024, u'Christmas_stocking', 0.034186132, u'pajama', 0.030578056, u'Great_Pyrenees', 0.030491263]

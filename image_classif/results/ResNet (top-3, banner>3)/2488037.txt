@@ -1,0 +1,2 @@
+[u'toilet_seat', 0.94118071, u'drum', 0.030629871, u'bib', 0.0050434014]
+[u'fire_screen', 0.55117553, u'window_screen', 0.189521, u'book_jacket', 0.060921974]

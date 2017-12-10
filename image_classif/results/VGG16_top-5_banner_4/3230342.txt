@@ -1,0 +1,2 @@
+[u'web_site', 0.12073429, u'cash_machine', 0.04397497, u'envelope', 0.038952157, u'street_sign', 0.02506469, u'nail', 0.018733472]
+[u'traffic_light', 0.1109369, u'water_tower', 0.096067235, u'car_mirror', 0.078974985, u'Model_T', 0.064012304, u'mailbox', 0.060240436]

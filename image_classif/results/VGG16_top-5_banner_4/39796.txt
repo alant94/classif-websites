@@ -1,0 +1,4 @@
+[u'bow_tie', 0.46974596, u'barbershop', 0.17025083, u'lab_coat', 0.034196801, u'neck_brace', 0.023641899, u'vestment', 0.022423398]
+[u'conch', 0.049177352, u'Egyptian_cat', 0.044116464, u'letter_opener', 0.038533319, u'nipple', 0.038499564, u'triceratops', 0.037364628]
+[u'pick', 0.083118066, u'hook', 0.057553533, u'jersey', 0.031272609, u'corkscrew', 0.02875497, u'web_site', 0.026509488]
+[u'wardrobe', 0.46411383, u'book_jacket', 0.21386945, u'comic_book', 0.14434674, u'ski', 0.01318612, u'Afghan_hound', 0.011329381]

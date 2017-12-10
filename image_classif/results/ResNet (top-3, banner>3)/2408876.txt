@@ -1,0 +1,2 @@
+[u'handkerchief', 0.3995873, u'packet', 0.07346525, u'bath_towel', 0.050968178]
+[u'handkerchief', 0.26742595, u'wool', 0.10945809, u'Christmas_stocking', 0.10820454]

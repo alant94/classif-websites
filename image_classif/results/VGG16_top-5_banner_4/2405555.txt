@@ -1,0 +1,4 @@
+[u'ballplayer', 0.34031168, u'knee_pad', 0.053480417, u'bulletproof_vest', 0.053171139, u'holster', 0.029653694, u'backpack', 0.028320277]
+[u'spotlight', 0.80753374, u'washbasin', 0.030403227, u'toilet_seat', 0.027075304, u'pencil_sharpener', 0.014619647, u'wall_clock', 0.013220301]
+[u'knee_pad', 0.26197672, u'holster', 0.17845576, u'scabbard', 0.072958894, u'power_drill', 0.031579498, u'hammer', 0.029112715]
+[u'parallel_bars', 0.16074976, u'chime', 0.12384153, u'bannister', 0.10603137, u'horizontal_bar', 0.050277103, u'hook', 0.047073353]

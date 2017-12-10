@@ -1,0 +1,1 @@
+[u'menu', 0.60931832, u'web_site', 0.21563751, u'book_jacket', 0.048243102, u'oscilloscope', 0.01026977, u'screen', 0.0093070501]

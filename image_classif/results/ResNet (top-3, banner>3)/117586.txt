@@ -1,0 +1,8 @@
+[u'perfume', 0.45071608, u'bucket', 0.12353402, u'wine_bottle', 0.11886316]
+[u'cash_machine', 0.99999833, u'photocopier', 1.0705203e-06, u'printer', 2.8426408e-07]
+[u'slot', 0.87601155, u'chest', 0.026323477, u'pool_table', 0.01331152]
+[u'monitor', 0.20811959, u'screen', 0.15165561, u'slot', 0.12231757]
+[u'slot', 0.66513664, u'lampshade', 0.045877621, u"jack-o'-lantern", 0.03464663]
+[u'toyshop', 0.74125135, u'slot', 0.17471865, u'confectionery', 0.040128153]
+[u'slot', 0.93325174, u'reel', 0.020109063, u'cinema', 0.011227144]
+[u'tripod', 0.12063424, u'loudspeaker', 0.10396223, u'digital_clock', 0.06330543]

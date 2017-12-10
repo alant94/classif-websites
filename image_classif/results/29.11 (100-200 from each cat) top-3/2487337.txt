@@ -1,0 +1,6 @@
+[u'digital_clock', 0.18342108, u'book_jacket', 0.18102501, u'web_site', 0.16900136]
+[u'book_jacket', 0.31173879, u'comic_book', 0.060023643, u'web_site', 0.055820387]
+[u'dogsled', 0.49302545, u'lakeside', 0.094051778, u'Arabian_camel', 0.060919922]
+[u'Arabian_camel', 0.33554658, u'llama', 0.28065526, u'ox', 0.16796148]
+[u'web_site', 0.28314421, u'dishwasher', 0.074668244, u'television', 0.054336887]
+[u'web_site', 0.56446004, u'nematode', 0.018587405, u'matchstick', 0.015416445]

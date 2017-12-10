@@ -1,0 +1,5 @@
+[u'modem', 0.16762631, u'Polaroid_camera', 0.09534236, u'cash_machine', 0.04029407, u'tractor', 0.03886364, u'joystick', 0.031780563]
+[u'iPod', 0.42876306, u'cellular_telephone', 0.38132828, u'hand-held_computer', 0.06300579, u'remote_control', 0.04541466, u'modem', 0.017714152]
+[u'iPod', 0.18622418, u'television', 0.16362274, u'laptop', 0.11474843, u'screen', 0.10358237, u'monitor', 0.079925083]
+[u'computer_keyboard', 0.64318413, u'typewriter_keyboard', 0.091581166, u'space_bar', 0.07161916, u'iPod', 0.03508126, u'mouse', 0.023486344]
+[u'toyshop', 0.40598059, u'slot', 0.079249583, u'laptop', 0.032992974, u'racer', 0.032658577, u'tobacco_shop', 0.030541373]

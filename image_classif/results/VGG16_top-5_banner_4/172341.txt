@@ -1,0 +1,2 @@
+[u'safety_pin', 0.068577714, u'web_site', 0.051795814, u'bathing_cap', 0.040648412, u'hair_slide', 0.033993218, u'ballpoint', 0.027618363]
+[u'pop_bottle', 0.064391948, u'medicine_chest', 0.048939954, u'digital_watch', 0.042997062, u'paintbrush', 0.034414712, u'pill_bottle', 0.032419305]

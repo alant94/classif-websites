@@ -1,0 +1,2 @@
+[u'vine_snake', 0.090305597, u'corkscrew', 0.069430634, u'green_mamba', 0.059697006, u'hook', 0.057262879, u'can_opener', 0.04651498]
+[u'geyser', 0.33160418, u'fireboat', 0.17374328, u'bathing_cap', 0.11459049, u'fountain', 0.048318181, u'caldron', 0.021361344]

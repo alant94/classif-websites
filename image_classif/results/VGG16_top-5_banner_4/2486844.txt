@@ -1,0 +1,1 @@
+[u'rule', 0.24819148, u'plate_rack', 0.094296515, u'spatula', 0.049193703, u'screwdriver', 0.047160737, u'hair_slide', 0.04001417]

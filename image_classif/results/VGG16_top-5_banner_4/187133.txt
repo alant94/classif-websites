@@ -1,0 +1,6 @@
+[u'mailbox', 0.30535462, u'gas_pump', 0.17986465, u'cash_machine', 0.10615193, u'street_sign', 0.0730602, u'ashcan', 0.042083111]
+[u'cash_machine', 0.2742438, u'envelope', 0.052388333, u'Band_Aid', 0.044445187, u'water_bottle', 0.035753161, u'switch', 0.024370564]
+[u'swab', 0.048383377, u'cloak', 0.038946845, u'wardrobe', 0.034270138, u'iron', 0.032237705, u'stole', 0.027281785]
+[u'electric_guitar', 0.42430556, u'acoustic_guitar', 0.37160665, u'pick', 0.072765552, u'matchstick', 0.042663481, u'abacus', 0.014428155]
+[u'electric_guitar', 0.19734885, u'accordion', 0.18691066, u'theater_curtain', 0.1358697, u'stage', 0.067200944, u'microphone', 0.059865132]
+[u'beacon', 0.069906421, u'bell_cote', 0.053113502, u'cash_machine', 0.050144475, u'street_sign', 0.036959764, u'traffic_light', 0.034998991]

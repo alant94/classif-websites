@@ -1,0 +1,6 @@
+[u'restaurant', 0.37406203, u'palace', 0.096232489, u'cinema', 0.068979137, u'bookshop', 0.049687125, u'tobacco_shop', 0.043421261]
+[u'barrel', 0.50916034, u'theater_curtain', 0.11897917, u'crate', 0.050068464, u'book_jacket', 0.017132657, u'tobacco_shop', 0.016528644]
+[u'doormat', 0.05021517, u'pick', 0.045290451, u'microphone', 0.030962376, u'hook', 0.027515026, u'street_sign', 0.026293686]
+[u'violin', 0.30405721, u'cello', 0.30073071, u'chime', 0.11580786, u'wardrobe', 0.10434469, u'banjo', 0.024227953]
+[u'hook', 0.19936576, u'envelope', 0.051315211, u'nail', 0.030828485, u'safety_pin', 0.02787347, u'whistle', 0.027144024]
+[u'book_jacket', 0.21130131, u'comic_book', 0.05886519, u'wardrobe', 0.051372033, u'hair_slide', 0.043717664, u'ski', 0.040465228]

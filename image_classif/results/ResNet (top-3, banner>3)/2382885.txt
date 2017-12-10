@@ -1,0 +1,6 @@
+[u'birdhouse', 0.14167963, u'spider_web', 0.12764502, u'canoe', 0.065715581]
+[u'book_jacket', 0.41196066, u'menu', 0.25980645, u'brass', 0.080798678]
+[u'envelope', 0.53525919, u'hair_slide', 0.041830387, u'web_site', 0.037842397]
+[u'web_site', 0.27415016, u'hook', 0.061251435, u'jersey', 0.042778015]
+[u'web_site', 0.57440609, u'perfume', 0.14206962, u'water_bottle', 0.053323001]
+[u'red_wine', 0.54240292, u'goblet', 0.21979734, u'wine_bottle', 0.059755944]

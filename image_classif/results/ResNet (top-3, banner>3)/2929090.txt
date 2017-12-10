@@ -1,0 +1,6 @@
+[u'beaker', 0.065370359, u'soap_dispenser', 0.064438872, u'web_site', 0.058629781]
+[u'book_jacket', 0.13740276, u'web_site', 0.074542217, u'whistle', 0.064283714]
+[u'wall_clock', 0.45097482, u'analog_clock', 0.32737386, u'web_site', 0.062830485]
+[u'wall_clock', 0.59395665, u'analog_clock', 0.3139483, u'web_site', 0.015205404]
+[u'cash_machine', 0.25691342, u'web_site', 0.13821584, u'street_sign', 0.13047861]
+[u'monitor', 0.2610237, u'screen', 0.22706418, u'television', 0.21980567]

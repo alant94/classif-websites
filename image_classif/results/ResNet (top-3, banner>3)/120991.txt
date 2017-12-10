@@ -1,0 +1,7 @@
+[u'pool_table', 0.30525696, u'umbrella', 0.091321468, u'violin', 0.063978806]
+[u'chain_saw', 0.25352457, u'corkscrew', 0.21758397, u'can_opener', 0.21454614]
+[u'kite', 0.54781508, u'bald_eagle', 0.2767503, u'quill', 0.043901607]
+[u'electric_fan', 0.4957819, u'can_opener', 0.14344974, u'radio_telescope', 0.068419628]
+[u'slot', 0.36744016, u'ambulance', 0.14343759, u'whistle', 0.076561719]
+[u'bow', 0.36231822, u'parachute', 0.33075356, u'swing', 0.16402511]
+[u'bow', 0.33834648, u'balance_beam', 0.093809038, u'power_drill', 0.0758885]

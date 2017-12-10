@@ -1,0 +1,8 @@
+[u'picket_fence', 0.16146728, u'greenhouse', 0.10739005, u'chainlink_fence', 0.10658655]
+[u'mask', 0.46528363, u'ocarina', 0.20674756, u'piggy_bank', 0.060187574]
+[u'bubble', 0.28970301, u'bolo_tie', 0.19069874, u'barrel', 0.11444341]
+[u'bow_tie', 0.17473762, u'Band_Aid', 0.05386192, u'microphone', 0.044902232]
+[u'Rhodesian_ridgeback', 0.84470326, u'redbone', 0.055185992, u'malinois', 0.013976577]
+[u'American_Staffordshire_terrier', 0.71627605, u'Weimaraner', 0.16889314, u'Staffordshire_bullterrier', 0.011673448]
+[u'tub', 0.58143467, u'bathtub', 0.15737402, u'Indian_elephant', 0.079829291]
+[u'wig', 0.24182382, u'trench_coat', 0.088134952, u'mask', 0.072048061]

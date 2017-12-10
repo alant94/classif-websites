@@ -1,0 +1,3 @@
+[u'jersey', 0.96642983, u'sweatshirt', 0.030422524, u'lab_coat', 0.0015907914, u'kimono', 0.00050172798, u'pajama', 0.00035143466]
+[u'bottlecap', 0.64601249, u'traffic_light', 0.051863506, u'spotlight', 0.035303272, u'balloon', 0.035058517, u'digital_watch', 0.033957206]
+[u'zebra', 0.2288001, u'mountain_bike', 0.080125511, u'crash_helmet', 0.046584677, u'tiger', 0.034237895, u'bee', 0.030672099]

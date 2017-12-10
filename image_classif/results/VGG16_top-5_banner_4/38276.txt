@@ -1,0 +1,2 @@
+[u'chain_saw', 0.34710342, u'lifeboat', 0.19328651, u'snowmobile', 0.1911799, u'snowplow', 0.038228977, u'ambulance', 0.03617594]
+[u'oil_filter', 0.04336267, u'Band_Aid', 0.038909748, u'spotlight', 0.025840268, u'sunscreen', 0.02533442, u'tennis_ball', 0.023730269]

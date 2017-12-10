@@ -1,0 +1,3 @@
+[u'lakeside', 0.085127339, u'volcano', 0.062934726, u'seashore', 0.05591248, u'park_bench', 0.041266557, u'valley', 0.038769115]
+[u'altar', 0.2959455, u'comic_book', 0.25054011, u'fire_screen', 0.07050053, u'book_jacket', 0.062298734, u'jigsaw_puzzle', 0.051405746]
+[u'comic_book', 0.19155023, u'bakery', 0.17179804, u'jigsaw_puzzle', 0.06831269, u'confectionery', 0.068121232, u'grocery_store', 0.046506193]

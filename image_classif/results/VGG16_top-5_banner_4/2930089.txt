@@ -1,0 +1,3 @@
+[u'stupa', 0.56406075, u'spotlight', 0.18549466, u'lampshade', 0.057108566, u'bell_cote', 0.030497488, u'bolo_tie', 0.022589643]
+[u'web_site', 0.20316739, u'screwdriver', 0.051421184, u'book_jacket', 0.041225351, u'oil_filter', 0.036691964, u'syringe', 0.035802841]
+[u'stupa', 0.46150422, u'spotlight', 0.2788209, u'lampshade', 0.067741722, u'bell_cote', 0.02711671, u'coil', 0.020231031]

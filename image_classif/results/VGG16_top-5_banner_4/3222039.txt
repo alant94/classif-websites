@@ -1,0 +1,1 @@
+[u'puck', 0.55305141, u'analog_clock', 0.12950657, u'street_sign', 0.055649698, u'wall_clock', 0.054074746, u'magnetic_compass', 0.026915031]

@@ -1,0 +1,4 @@
+[u'cardoon', 0.31117085, u'hair_spray', 0.27519089, u'limousine', 0.10440088]
+[u'ski', 0.33585578, u"carpenter's_kit", 0.16930413, u'Band_Aid', 0.092044756]
+[u'whistle', 0.46692926, u'hair_slide', 0.17597032, u'Band_Aid', 0.023984121]
+[u'analog_clock', 0.58754206, u'scoreboard', 0.040878743, u'magnetic_compass', 0.032156553]

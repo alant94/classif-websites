@@ -1,0 +1,4 @@
+[u'slide_rule', 0.27672866, u'carton', 0.092207834, u'rule', 0.077252217, u'envelope', 0.05987623, u'sundial', 0.048619132]
+[u'book_jacket', 0.57245034, u'web_site', 0.41648117, u'comic_book', 0.0039841435, u'brass', 0.0016146301, u'menu', 0.00073262525]
+[u'parallel_bars', 0.25398862, u'plow', 0.15713389, u'barrow', 0.11437874, u'lawn_mower', 0.10094003, u'swing', 0.077830777]
+[u'swing', 0.9746353, u'balance_beam', 0.0027726656, u'guillotine', 0.0019916659, u'lumbermill', 0.0018823493, u'barrow', 0.0014333124]

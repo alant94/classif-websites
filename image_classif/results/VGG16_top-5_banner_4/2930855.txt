@@ -1,0 +1,3 @@
+[u'pick', 0.62037879, u'rugby_ball', 0.09036307, u'digital_clock', 0.084195435, u'stopwatch', 0.061375402, u'volleyball', 0.018158216]
+[u'lab_coat', 0.16468391, u'Band_Aid', 0.047526244, u'sunscreen', 0.034556415, u'hair_spray', 0.029156642, u'shower_cap', 0.02575721]
+[u'pick', 0.93307143, u'Band_Aid', 0.018879684, u'rubber_eraser', 0.013670796, u'pinwheel', 0.0081092855, u'spatula', 0.0043096608]

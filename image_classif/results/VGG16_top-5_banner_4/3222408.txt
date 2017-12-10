@@ -1,0 +1,1 @@
+[u'plate_rack', 0.67006564, u'Petri_dish', 0.22990362, u'hourglass', 0.015242429, u'nipple', 0.012879506, u'face_powder', 0.0085608512]

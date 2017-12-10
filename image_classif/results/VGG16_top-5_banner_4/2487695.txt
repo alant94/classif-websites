@@ -1,0 +1,2 @@
+[u'worm_fence', 0.17753695, u'plow', 0.12003561, u'bow', 0.083428569, u'hartebeest', 0.055402551, u'rifle', 0.04003061]
+[u'menu', 0.7206881, u'envelope', 0.13247451, u'binder', 0.01703915, u'fountain_pen', 0.014023591, u'handkerchief', 0.013208387]

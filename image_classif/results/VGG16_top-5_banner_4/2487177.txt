@@ -1,0 +1,5 @@
+[u'warthog', 0.088968307, u'water_buffalo', 0.06594985, u'Weimaraner', 0.055027623, u'Chesapeake_Bay_retriever', 0.032867864, u'Mexican_hairless', 0.03032588]
+[u'spotlight', 0.20244214, u'pick', 0.078330003, u'golf_ball', 0.073773026, u'nematode', 0.064985923, u'rugby_ball', 0.06231356]
+[u'military_uniform', 0.2517713, u'king_penguin', 0.14314869, u'megalith', 0.061236113, u'Arabian_camel', 0.050309356, u'vulture', 0.048991788]
+[u'impala', 0.6017887, u'gazelle', 0.1652454, u'ibex', 0.12114691, u'hartebeest', 0.098932222, u'bighorn', 0.0016544549]
+[u'patio', 0.51153231, u'church', 0.24489766, u'monastery', 0.036819998, u'mobile_home', 0.024882149, u'alp', 0.020192672]

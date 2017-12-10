@@ -1,0 +1,6 @@
+[u'monitor', 0.6452136, u'screen', 0.15770242, u'television', 0.10556877, u'home_theater', 0.018532606, u'desktop_computer', 0.014331859]
+[u'warplane', 0.50627881, u'projectile', 0.22796673, u'missile', 0.20506452, u'wing', 0.020560196, u'airliner', 0.015222128]
+[u'web_site', 0.29244664, u'scoreboard', 0.079929918, u'book_jacket', 0.070772022, u'comic_book', 0.054877613, u'steel_arch_bridge', 0.036018062]
+[u'monitor', 0.20787945, u'radio', 0.074260175, u'scoreboard', 0.062175348, u'oscilloscope', 0.036474813, u'screen', 0.036375083]
+[u'gong', 0.13811512, u'carousel', 0.087841399, u'magnetic_compass', 0.086596236, u'analog_clock', 0.078124627, u'book_jacket', 0.055077367]
+[u'envelope', 0.1061241, u'matchstick', 0.071376137, u'candle', 0.038770117, u'wall_clock', 0.030988226, u'pill_bottle', 0.027368134]

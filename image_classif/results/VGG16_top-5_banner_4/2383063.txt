@@ -1,0 +1,8 @@
+[u'monastery', 0.32263193, u'altar', 0.19870047, u'church', 0.11858081, u'palace', 0.055150665, u'picket_fence', 0.04981165]
+[u'vestment', 0.7361629, u'altar', 0.19439612, u'throne', 0.036777791, u'Christmas_stocking', 0.010223231, u'restaurant', 0.0038201243]
+[u'garbage_truck', 0.28105393, u'mobile_home', 0.1118928, u'streetcar', 0.10316849, u'fire_engine', 0.085383162, u'recreational_vehicle', 0.069977738]
+[u'picket_fence', 0.40683222, u'vase', 0.29253936, u'pot', 0.091133222, u'birdhouse', 0.021278327, u'shower_curtain', 0.019072715]
+[u'throne', 0.2230552, u'four-poster', 0.21544498, u'cradle', 0.11114467, u'vestment', 0.067144901, u'Christmas_stocking', 0.062227882]
+[u'lifeboat', 0.17647456, u'dock', 0.16148381, u'fireboat', 0.044456966, u'crane', 0.032921258, u'canoe', 0.030658975]
+[u'necklace', 0.71950805, u'bow', 0.069057912, u'chain', 0.068092845, u'bolo_tie', 0.022704316, u'hook', 0.018019937]
+[u'web_site', 0.28144369, u'envelope', 0.15786497, u'analog_clock', 0.014909221, u'matchstick', 0.014499497, u'nail', 0.014307447]

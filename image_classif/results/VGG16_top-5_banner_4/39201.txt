@@ -1,0 +1,3 @@
+[u'combination_lock', 0.085899465, u'switch', 0.056077436, u'buckle', 0.054366708, u'matchstick', 0.038348477, u'hair_slide', 0.02314963]
+[u'matchstick', 0.060783569, u'buckle', 0.050381809, u'cinema', 0.030488279, u'street_sign', 0.029713208, u'switch', 0.028609488]
+[u'Chesapeake_Bay_retriever', 0.31852692, u'English_setter', 0.1882807, u'Brittany_spaniel', 0.12781109, u'Labrador_retriever', 0.086402252, u'vizsla', 0.068165846]

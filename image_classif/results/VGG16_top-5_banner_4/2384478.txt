@@ -1,0 +1,1 @@
+[u'book_jacket', 0.75448489, u'prayer_rug', 0.03461758, u'shield', 0.023123968, u'comic_book', 0.02263337, u'buckle', 0.019439695]

@@ -1,0 +1,4 @@
+[u'jersey', 0.14974385, u'scoreboard', 0.051913757, u'sweatshirt', 0.043595321]
+[u'book_jacket', 0.1702071, u'analog_clock', 0.13470809, u'theater_curtain', 0.056524504]
+[u'ambulance', 0.080913775, u'book_jacket', 0.06776423, u'analog_clock', 0.054211542]
+[u'bottlecap', 0.081368223, u'analog_clock', 0.064384878, u'barometer', 0.058024414]

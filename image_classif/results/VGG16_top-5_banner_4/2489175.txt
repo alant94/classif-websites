@@ -1,0 +1,1 @@
+[u'hartebeest', 0.92718482, u'impala', 0.069371544, u'gazelle', 0.0033997407, u'sorrel', 1.5794407e-05, u'Arabian_camel', 1.4022606e-05]

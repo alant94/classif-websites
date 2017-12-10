@@ -1,0 +1,3 @@
+[u'screw', 0.030820832, u'binder', 0.027771797, u'web_site', 0.024982153]
+[u'guillotine', 0.45521149, u'bell_cote', 0.057129424, u'beacon', 0.037998017]
+[u'bannister', 0.64772642, u'suspension_bridge', 0.088220544, u'sliding_door', 0.040638126]

@@ -1,0 +1,7 @@
+[u'stage', 0.21576488, u'electric_guitar', 0.079314016, u'spotlight', 0.031804886, u'jersey', 0.03154495, u'digital_clock', 0.027901994]
+[u'jersey', 0.47041711, u'buckle', 0.050211091, u'sweatshirt', 0.031376787, u'hair_slide', 0.025639018, u'puck', 0.019791128]
+[u'web_site', 0.18228002, u'comic_book', 0.095005848, u'Band_Aid', 0.026745342, u'jersey', 0.024333792, u'cellular_telephone', 0.022274101]
+[u'bolo_tie', 0.29194945, u'buckle', 0.20831542, u'necklace', 0.18783922, u'perfume', 0.11289345, u'shield', 0.039377149]
+[u'analog_clock', 0.15180244, u'throne', 0.084112629, u'barometer', 0.04647864, u'gong', 0.042987786, u'magnetic_compass', 0.039661091]
+[u'cinema', 0.19436312, u'theater_curtain', 0.1460088, u'tow_truck', 0.13530058, u'freight_car', 0.083008885, u'forklift', 0.076250277]
+[u'spatula', 0.37952062, u'ladle', 0.28104663, u'wooden_spoon', 0.17979524, u'letter_opener', 0.027636779, u'can_opener', 0.019838499]

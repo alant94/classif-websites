@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.077513076, u'scoreboard', 0.064341299, u'gas_pump', 0.063428141, u'crate', 0.060344912, u'cassette', 0.060203131]

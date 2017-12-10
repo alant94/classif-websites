@@ -1,0 +1,7 @@
+[u'wardrobe', 0.90219867, u'jean', 0.022343434, u'handkerchief', 0.022271698]
+[u'television', 0.18504161, u'monitor', 0.10513181, u'microwave', 0.071573466]
+[u'coffeepot', 0.14547071, u'plate_rack', 0.10625827, u'barbell', 0.10049768]
+[u'web_site', 0.239195, u'moving_van', 0.20824337, u'cash_machine', 0.053418849]
+[u'digital_clock', 0.89308739, u'traffic_light', 0.081799194, u'digital_watch', 0.012352257]
+[u'web_site', 0.78981727, u'envelope', 0.058668405, u'hook', 0.0085353889]
+[u'web_site', 0.91333318, u'envelope', 0.006361152, u'menu', 0.0059290729]

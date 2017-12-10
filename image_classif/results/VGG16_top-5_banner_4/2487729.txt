@@ -1,0 +1,2 @@
+[u'bell_cote', 0.064311281, u'envelope', 0.058204107, u'traffic_light', 0.035462249, u'picket_fence', 0.034601245, u'digital_clock', 0.024289822]
+[u'tobacco_shop', 0.11054683, u'book_jacket', 0.10375115, u'cinema', 0.090819336, u'web_site', 0.072192743, u'doormat', 0.038780782]

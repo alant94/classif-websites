@@ -1,0 +1,4 @@
+[u'cucumber', 0.45725614, u'bell_pepper', 0.23318528, u'zucchini', 0.03701428, u'strawberry', 0.029218532, u'grocery_store', 0.024827095]
+[u'sombrero', 0.19105755, u'sweatshirt', 0.10993601, u'cowboy_hat', 0.078427508, u'book_jacket', 0.049037233, u'poncho', 0.047773931]
+[u'milk_can', 0.06126317, u'butcher_shop', 0.05395101, u"potter's_wheel", 0.042428434, u'caldron', 0.039875563, u'lumbermill', 0.034115184]
+[u'bell_pepper', 0.66955173, u'Granny_Smith', 0.032421034, u'cucumber', 0.0263853, u'knot', 0.022695011, u'chain', 0.020993669]

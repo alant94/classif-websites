@@ -1,0 +1,1 @@
+[u'prison', 0.079414688, u'dumbbell', 0.05894497, u'punching_bag', 0.049900681]

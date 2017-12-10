@@ -1,0 +1,6 @@
+[u'hook', 0.085236207, u'web_site', 0.081391193, u'nail', 0.064394139, u'abaya', 0.056011837, u'matchstick', 0.028795972]
+[u'analog_clock', 0.11152626, u'bell_cote', 0.11002293, u'church', 0.095528707, u'cinema', 0.045412797, u'suspension_bridge', 0.043793574]
+[u'traffic_light', 0.044157129, u'scoreboard', 0.036913544, u'digital_clock', 0.035126455, u'spotlight', 0.027503446, u'analog_clock', 0.025869705]
+[u'nail', 0.12932783, u'ballpoint', 0.058946636, u'envelope', 0.049358942, u'screwdriver', 0.043025386, u'rubber_eraser', 0.034465801]
+[u'airship', 0.17043079, u'street_sign', 0.1208794, u'flagpole', 0.070336707, u'crane', 0.050298858, u'envelope', 0.033558499]
+[u'web_site', 0.29769179, u'envelope', 0.10925041, u'analog_clock', 0.029574424, u'matchstick', 0.018783521, u'bee_eater', 0.012176801]

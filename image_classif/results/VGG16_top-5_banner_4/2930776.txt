@@ -1,0 +1,3 @@
+[u'web_site', 0.23631553, u'comic_book', 0.11100869, u'envelope', 0.057660069, u'binder', 0.032057345, u'toilet_seat', 0.030810131]
+[u'quill', 0.30830839, u'long-horned_beetle', 0.062012061, u'ibex', 0.049969137, u'vase', 0.022627648, u'bow', 0.018328546]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

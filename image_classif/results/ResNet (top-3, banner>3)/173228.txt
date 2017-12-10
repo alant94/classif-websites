@@ -1,0 +1,8 @@
+[u'slot', 0.44625488, u'web_site', 0.06430646, u'pretzel', 0.063980967]
+[u'web_site', 0.58573604, u'television', 0.12782194, u'Windsor_tie', 0.088691868]
+[u'rifle', 0.12919286, u'book_jacket', 0.099948347, u'screw', 0.065079823]
+[u'racer', 0.32653826, u'web_site', 0.20659977, u'cassette_player', 0.063771412]
+[u'radio', 0.2155423, u'safe', 0.19938548, u'digital_clock', 0.063874736]
+[u'joystick', 0.61348647, u'binoculars', 0.31538495, u'remote_control', 0.023781985]
+[u'web_site', 0.30639905, u'digital_clock', 0.11831102, u'stopwatch', 0.088376276]
+[u'book_jacket', 0.85988444, u'web_site', 0.030946851, u'traffic_light', 0.028175922]

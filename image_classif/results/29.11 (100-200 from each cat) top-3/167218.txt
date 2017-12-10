@@ -1,0 +1,8 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'maze', 0.1098367, u'crossword_puzzle', 0.08883851, u'remote_control', 0.065605097]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'analog_clock', 0.11661194, u'honeycomb', 0.094328113, u'oscilloscope', 0.088274583]
+[u'crossword_puzzle', 0.2580575, u'maze', 0.15310325, u'toaster', 0.086936779]
+[u'crossword_puzzle', 0.10634404, u'digital_watch', 0.066083655, u'maze', 0.059257403]
+[u'digital_clock', 0.13699177, u'digital_watch', 0.09469828, u'crossword_puzzle', 0.066819042]
+[u'folding_chair', 0.15805893, u'ballpoint', 0.090473548, u'web_site', 0.0726723]

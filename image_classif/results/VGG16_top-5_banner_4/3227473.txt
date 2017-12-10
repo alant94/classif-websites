@@ -1,0 +1,1 @@
+[u'iPod', 0.18212615, u'digital_clock', 0.14379074, u'web_site', 0.081509665, u'screen', 0.071288578, u'cellular_telephone', 0.050358243]

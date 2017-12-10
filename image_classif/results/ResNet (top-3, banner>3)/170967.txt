@@ -1,0 +1,4 @@
+[u'sliding_door', 0.089739032, u'radiator', 0.086820513, u'ping-pong_ball', 0.084695838]
+[u'cash_machine', 0.65315092, u'tape_player', 0.11377599, u'vending_machine', 0.050022181]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]
+[u'radio', 0.31729361, u'tape_player', 0.28727129, u'loudspeaker', 0.17988434]

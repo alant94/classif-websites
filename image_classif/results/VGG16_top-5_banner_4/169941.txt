@@ -1,0 +1,1 @@
+[u'modem', 0.34842777, u'hard_disc', 0.1425695, u'remote_control', 0.13745847, u'lighter', 0.063243777, u'oil_filter', 0.034016322]

@@ -1,0 +1,7 @@
+[u'maze', 0.80810153, u'coil', 0.055791926, u'puck', 0.020761751, u'sombrero', 0.017357949, u'shield', 0.015783761]
+[u'puck', 0.45106658, u'face_powder', 0.41742826, u'brass', 0.024383565, u'shield', 0.014497963, u'tray', 0.014259615]
+[u'coil', 0.34528813, u'chambered_nautilus', 0.1462198, u'matchstick', 0.09603551, u'tray', 0.068148814, u'maze', 0.063844539]
+[u'envelope', 0.17624737, u'web_site', 0.061481599, u'Band_Aid', 0.023216944, u'jersey', 0.018567853, u'face_powder', 0.018335795]
+[u'web_site', 0.03191556, u'envelope', 0.031332035, u'hook', 0.023602126, u'plunger', 0.020667264, u'microphone', 0.020640034]
+[u'maze', 0.58068281, u'coil', 0.28509021, u'plate_rack', 0.078649856, u'sombrero', 0.010954543, u'chambered_nautilus', 0.0097207027]
+[u'maze', 0.3224338, u'doormat', 0.030049419, u'prayer_rug', 0.027799308, u'pick', 0.016204549, u'book_jacket', 0.015974345]

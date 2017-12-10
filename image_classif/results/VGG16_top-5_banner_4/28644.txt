@@ -1,0 +1,7 @@
+[u'torch', 0.17362672, u'parallel_bars', 0.097471125, u'racket', 0.085740484, u'volleyball', 0.066428088, u'soccer_ball', 0.054292746]
+[u'bannister', 0.23790488, u'coil', 0.20031536, u'traffic_light', 0.11853361, u'prison', 0.035573836, u'chainlink_fence', 0.022670029]
+[u'web_site', 0.075602397, u'analog_clock', 0.029351214, u'chain', 0.028416581, u'digital_clock', 0.026869021, u'traffic_light', 0.026395114]
+[u'web_site', 0.4915567, u'washer', 0.018368263, u'envelope', 0.017010262, u'iPod', 0.011501149, u'face_powder', 0.01046616]
+[u'gyromitra', 0.52891469, u'mask', 0.21230552, u'trilobite', 0.043594949, u'vase', 0.036378633, u'cuirass', 0.027017474]
+[u'typewriter_keyboard', 0.243304, u'space_bar', 0.11284815, u'combination_lock', 0.066380188, u'matchstick', 0.061473895, u'remote_control', 0.061014585]
+[u'web_site', 0.080219299, u'chain', 0.03855402, u'matchstick', 0.034351323, u'traffic_light', 0.032379333, u'crane', 0.030608578]

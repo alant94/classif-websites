@@ -1,0 +1,5 @@
+[u'envelope', 0.4665257, u'web_site', 0.1677634, u'analog_clock', 0.03378059]
+[u'crossword_puzzle', 0.87357712, u'book_jacket', 0.022461336, u'digital_watch', 0.013356643]
+[u'web_site', 0.53881109, u'cassette', 0.22403014, u'sewing_machine', 0.044905525]
+[u'web_site', 0.9998908, u'envelope', 2.570443e-05, u'stethoscope', 5.7300867e-06]
+[u'screwdriver', 0.41198289, u"carpenter's_kit", 0.17831571, u'ballpoint', 0.099348404]

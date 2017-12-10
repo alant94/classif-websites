@@ -1,0 +1,1 @@
+[u'cliff_dwelling', 0.72896951, u'cliff', 0.24954207, u'castle', 0.0071793068, u'dam', 0.0061377189, u'monastery', 0.0023167497]

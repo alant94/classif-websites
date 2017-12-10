@@ -1,0 +1,4 @@
+[u'stole', 0.14874844, u'hoopskirt', 0.13336942, u'overskirt', 0.08633808, u'jean', 0.063633606, u'cloak', 0.062311176]
+[u'church', 0.33798671, u'barn', 0.19633143, u'thatch', 0.1486982, u'beacon', 0.079242274, u'bell_cote', 0.062503546]
+[u'photocopier', 0.34453908, u'military_uniform', 0.12764552, u'carton', 0.053205092, u'shoe_shop', 0.03446199, u'bookshop', 0.033096418]
+[u'thatch', 0.88542235, u'monastery', 0.047870453, u'patio', 0.01188555, u'prison', 0.010995943, u'castle', 0.0096750371]

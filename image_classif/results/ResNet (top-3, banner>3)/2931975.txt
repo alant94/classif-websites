@@ -1,0 +1,5 @@
+[u'barbershop', 0.31353512, u'barber_chair', 0.15034759, u'lab_coat', 0.12503637]
+[u'digital_watch', 0.28494516, u'digital_clock', 0.17026621, u'scoreboard', 0.10495516]
+[u'shower_curtain', 0.23118773, u'harp', 0.17805204, u'oboe', 0.088600747]
+[u'web_site', 0.71474105, u'nematode', 0.0073544807, u'bannister', 0.0072912443]
+[u'gown', 0.59275383, u'maillot', 0.074328452, u'bikini', 0.038006511]

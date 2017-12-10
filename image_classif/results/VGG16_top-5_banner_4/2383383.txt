@@ -1,0 +1,7 @@
+[u'coil', 0.22168094, u'lampshade', 0.1005347, u'spotlight', 0.08870367, u'chambered_nautilus', 0.073088855, u'slide_rule', 0.071468882]
+[u'wine_bottle', 0.61028421, u'red_wine', 0.34073657, u'hamper', 0.024549976, u'beer_bottle', 0.014198548, u'corkscrew', 0.0040061525]
+[u'library', 0.36565015, u'bookshop', 0.22950776, u'restaurant', 0.08992514, u'bookcase', 0.032646939, u'dining_table', 0.022686429]
+[u'electric_guitar', 0.66395843, u'acoustic_guitar', 0.20744744, u'microphone', 0.025247796, u'banjo', 0.017490188, u'stage', 0.012078275]
+[u'red_wine', 0.22763662, u'ballpoint', 0.13866648, u'goblet', 0.13403818, u'wine_bottle', 0.13118903, u'cocktail_shaker', 0.094718195]
+[u'screwdriver', 0.18741435, u'digital_clock', 0.082779571, u'power_drill', 0.069886409, u'traffic_light', 0.06043224, u'scoreboard', 0.057859384]
+[u'breakwater', 0.15418568, u'dam', 0.14830947, u'lakeside', 0.085948467, u'stone_wall', 0.06931068, u'hay', 0.051299274]

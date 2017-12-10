@@ -1,0 +1,4 @@
+[u'impala', 0.56644905, u'gazelle', 0.30353567, u'hartebeest', 0.10038442, u'dhole', 0.008904052, u'llama', 0.0086773504]
+[u'gazelle', 0.3973164, u'wallaby', 0.2645123, u'hare', 0.11160343, u'impala', 0.11159715, u'coyote', 0.022167038]
+[u'gazelle', 0.53167272, u'impala', 0.39347067, u'llama', 0.018838633, u'hartebeest', 0.0091447243, u'bighorn', 0.0083081312]
+[u'hippopotamus', 0.23714967, u'armadillo', 0.21607308, u'hoopskirt', 0.041352496, u'hen', 0.030861935, u'cock', 0.029825035]

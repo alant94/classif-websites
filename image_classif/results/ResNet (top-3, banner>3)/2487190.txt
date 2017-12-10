@@ -1,0 +1,6 @@
+[u'Irish_water_spaniel', 0.12379417, u'amphibian', 0.07538797, u'Scottish_deerhound', 0.067412332]
+[u'pickup', 0.42284989, u'garbage_truck', 0.077340677, u'jeep', 0.069765948]
+[u'book_jacket', 0.80302042, u'web_site', 0.063434936, u'moving_van', 0.024843706]
+[u'thresher', 0.0983271, u'Arabian_camel', 0.085298464, u'milk_can', 0.046139471]
+[u'book_jacket', 0.59887296, u'manhole_cover', 0.093535759, u'face_powder', 0.087796681]
+[u'pelican', 0.48934805, u'parachute', 0.15054758, u'goose', 0.1217612]

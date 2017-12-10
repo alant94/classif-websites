@@ -1,0 +1,6 @@
+[u'book_jacket', 0.10799496, u'crutch', 0.072019741, u'web_site', 0.062277656]
+[u'web_site', 0.17444885, u'envelope', 0.14709249, u'book_jacket', 0.14600462]
+[u'web_site', 0.21966088, u'envelope', 0.21702763, u'book_jacket', 0.12594169]
+[u'analog_clock', 0.14222805, u'television', 0.13316122, u'digital_clock', 0.12934904]
+[u'web_site', 0.28801095, u'envelope', 0.2231659, u'book_jacket', 0.03514909]
+[u'web_site', 0.22722226, u'plow', 0.17478834, u'comic_book', 0.142583]

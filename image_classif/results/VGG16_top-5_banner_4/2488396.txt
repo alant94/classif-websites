@@ -1,0 +1,1 @@
+[u'tray', 0.19252603, u'perfume', 0.12528183, u'vase', 0.11444284, u'book_jacket', 0.097826645, u'bathing_cap', 0.079790197]

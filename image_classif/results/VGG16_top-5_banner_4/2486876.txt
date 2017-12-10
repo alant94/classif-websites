@@ -1,0 +1,2 @@
+[u'African_elephant', 0.80547297, u'Indian_elephant', 0.10044508, u'tusker', 0.08762496, u'water_buffalo', 0.0025745444, u'bighorn', 0.0013549788]
+[u'nematode', 0.056596488, u'leatherback_turtle', 0.050512668, u'volcano', 0.034789812, u'isopod', 0.032940909, u'wreck', 0.029524423]

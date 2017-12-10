@@ -1,0 +1,3 @@
+[u'studio_couch', 0.54502994, u'four-poster', 0.14048156, u'quilt', 0.10629367]
+[u'window_shade', 0.39659107, u'shower_curtain', 0.22757331, u'crib', 0.052305032]
+[u'studio_couch', 0.83516401, u'four-poster', 0.088945866, u'quilt', 0.05068012]

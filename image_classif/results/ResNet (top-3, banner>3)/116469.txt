@@ -1,0 +1,1 @@
+[u'wall_clock', 0.44360277, u'crossword_puzzle', 0.2250472, u'analog_clock', 0.10758238]

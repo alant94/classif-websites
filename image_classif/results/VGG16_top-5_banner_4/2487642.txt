@@ -1,0 +1,1 @@
+[u'patio', 0.62595832, u'mobile_home', 0.15784198, u'boathouse', 0.034711991, u'tile_roof', 0.025125472, u'cinema', 0.023526922]

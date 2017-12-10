@@ -1,0 +1,3 @@
+[u'vestment', 0.089917488, u'cloak', 0.072226755, u'kimono', 0.055047061, u'abaya', 0.0424398, u'steel_drum', 0.031885754]
+[u'puck', 0.20357829, u'paper_towel', 0.19276316, u'ocarina', 0.17278834, u'pencil_sharpener', 0.094018139, u'toilet_tissue', 0.084521189]
+[u'shower_cap', 0.16472545, u'jersey', 0.080811754, u'bathing_cap', 0.050137527, u'wig', 0.049334712, u'sweatshirt', 0.029542506]

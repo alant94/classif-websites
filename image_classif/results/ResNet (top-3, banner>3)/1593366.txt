@@ -1,0 +1,3 @@
+[u'digital_clock', 0.7776581, u'digital_watch', 0.21981721, u'stopwatch', 0.00093826593]
+[u'digital_clock', 0.25718769, u'soap_dispenser', 0.052483678, u'window_screen', 0.044265371]
+[u'web_site', 0.40483066, u'dishwasher', 0.084239483, u'envelope', 0.046964359]

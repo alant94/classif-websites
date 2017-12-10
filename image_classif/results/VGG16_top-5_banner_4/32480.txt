@@ -1,0 +1,4 @@
+[u'Irish_setter', 0.22147495, u'vizsla', 0.087970719, u'Gordon_setter', 0.085389614, u'Saluki', 0.080269083, u'Doberman', 0.047385819]
+[u'window_shade', 0.15071368, u'medicine_chest', 0.082390338, u'television', 0.049327958, u'home_theater', 0.030300332, u'shower_curtain', 0.028478932]
+[u'water_bottle', 0.36770627, u'nipple', 0.34560403, u'lotion', 0.08690767, u'pop_bottle', 0.039260995, u'pill_bottle', 0.03509466]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

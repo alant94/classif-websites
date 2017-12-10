@@ -1,0 +1,2 @@
+[u'cinema', 0.86532372, u'church', 0.026706846, u'theater_curtain', 0.015669944, u'street_sign', 0.0078472542, u'barbershop', 0.0064364229]
+[u'picket_fence', 0.26285481, u"carpenter's_kit", 0.088598728, u'book_jacket', 0.084943354, u'street_sign', 0.056337997, u'cinema', 0.022681739]

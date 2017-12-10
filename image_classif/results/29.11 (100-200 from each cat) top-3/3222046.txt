@@ -1,0 +1,3 @@
+[u'panpipe', 0.43576524, u'bell_cote', 0.03500447, u'traffic_light', 0.028309969]
+[u'chime', 0.94952607, u'bow', 0.034047835, u'pole', 0.0040904204]
+[u'rapeseed', 0.19925785, u'chainlink_fence', 0.13899764, u'park_bench', 0.088816419]

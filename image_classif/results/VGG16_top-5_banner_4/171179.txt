@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.98203903, u'stage', 0.0075416276, u'digital_clock', 0.0025951331, u'analog_clock', 0.0020299428, u'monitor', 0.0016793162]
+[u'whistle', 0.24620222, u'plate_rack', 0.096760519, u'nipple', 0.067471631, u'magnetic_compass', 0.051413339, u'hook', 0.046371575]
+[u'Band_Aid', 0.25749055, u'envelope', 0.14083211, u'packet', 0.11878064, u'menu', 0.093995221, u'pill_bottle', 0.032304633]

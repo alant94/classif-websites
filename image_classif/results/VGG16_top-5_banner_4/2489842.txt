@@ -1,0 +1,3 @@
+[u'chain_saw', 0.39701569, u'mountain_bike', 0.237997, u'bicycle-built-for-two', 0.049770501, u'plow', 0.040790405, u'hartebeest', 0.032195538]
+[u'chain_saw', 0.057409134, u'ski', 0.048567437, u'power_drill', 0.032510411, u'hook', 0.030371327, u'hair_slide', 0.028972453]
+[u'screwdriver', 0.067514524, u'flagpole', 0.057699457, u'airship', 0.039304033, u'swimming_trunks', 0.030221675, u'paintbrush', 0.029076945]

@@ -1,0 +1,4 @@
+[u'lakeside', 0.44830722, u'boathouse', 0.053319093, u'dam', 0.041007623]
+[u'water_buffalo', 0.23677565, u'warthog', 0.22324726, u'zebra', 0.19928889]
+[u'hartebeest', 0.63879484, u'wallaby', 0.31160474, u'gazelle', 0.023253616]
+[u'hartebeest', 0.36312252, u'gazelle', 0.17597596, u'impala', 0.119286]

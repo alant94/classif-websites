@@ -1,0 +1,1 @@
+[u'volcano', 0.37749901, u'lakeside', 0.32137594, u'promontory', 0.089610018, u'seashore', 0.076225959, u'alp', 0.02246834]

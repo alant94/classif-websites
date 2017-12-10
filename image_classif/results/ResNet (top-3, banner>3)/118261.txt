@@ -1,0 +1,2 @@
+[u'table_lamp', 0.80376136, u'lampshade', 0.071665734, u'joystick', 0.046220422]
+[u'television', 0.46560308, u'comic_book', 0.1799887, u'web_site', 0.085022673]

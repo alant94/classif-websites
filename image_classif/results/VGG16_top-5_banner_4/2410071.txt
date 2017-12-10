@@ -1,0 +1,3 @@
+[u'jersey', 0.20869271, u'hatchet', 0.16377698, u'shovel', 0.045438755, u'barrow', 0.042369977, u'ice_lolly', 0.039641291]
+[u'bearskin', 0.14112033, u'feather_boa', 0.12192238, u'miniskirt', 0.045948319, u'stole', 0.040374644, u'king_crab', 0.01898556]
+[u'miniskirt', 0.19769257, u'jean', 0.16030777, u'unicycle', 0.10829478, u'sunglasses', 0.072195619, u'sunglass', 0.05959795]

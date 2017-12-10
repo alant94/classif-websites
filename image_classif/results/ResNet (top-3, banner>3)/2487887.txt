@@ -1,0 +1,5 @@
+[u'shield', 0.12607643, u'jersey', 0.11818837, u'prayer_rug', 0.051287599]
+[u'electric_fan', 0.57863313, u'web_site', 0.16476439, u'coil', 0.08602418]
+[u'groom', 0.31003135, u'kimono', 0.058463041, u'oboe', 0.042405024]
+[u'hook', 0.14701322, u'stopwatch', 0.081455268, u'pick', 0.076472253]
+[u'puck', 0.14023753, u'bottlecap', 0.088434212, u'shield', 0.039626397]

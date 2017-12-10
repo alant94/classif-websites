@@ -1,0 +1,6 @@
+[u'ibex', 0.36414585, u'wallaby', 0.092343524, u'Siamese_cat', 0.067555651]
+[u'gazelle', 0.39832878, u'hartebeest', 0.38719332, u'impala', 0.080648653]
+[u'warthog', 0.28507501, u'hartebeest', 0.23511413, u'impala', 0.23110904]
+[u'military_uniform', 0.18653093, u'hartebeest', 0.080005758, u'warthog', 0.063381694]
+[u'digital_clock', 0.091284141, u'screen', 0.067309536, u'oil_filter', 0.06566982]
+[u'comic_book', 0.87057227, u'book_jacket', 0.095720351, u'web_site', 0.032550599]

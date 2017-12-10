@@ -1,0 +1,2 @@
+[u'picket_fence', 0.23551878, u'ski', 0.21376358, u'paintbrush', 0.14018355, u'fountain', 0.10941365, u'swab', 0.044297807]
+[u'fountain', 0.77828783, u'castle', 0.076132573, u'chime', 0.038589027, u'dock', 0.014958546, u'beer_bottle', 0.0079305777]

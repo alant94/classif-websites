@@ -1,0 +1,6 @@
+[u'steam_locomotive', 0.27834928, u'tractor', 0.17317565, u'thresher', 0.089318059]
+[u'racer', 0.57788616, u'beach_wagon', 0.12584159, u'web_site', 0.064125001]
+[u'snowplow', 0.73489028, u'plow', 0.055943847, u'tractor', 0.044302817]
+[u'racer', 0.78898644, u'sports_car', 0.064956501, u'tow_truck', 0.042646181]
+[u'paddlewheel', 0.1273115, u'fireboat', 0.12193729, u'snowplow', 0.10335783]
+[u'car_wheel', 0.33908254, u'sports_car', 0.28779098, u'racer', 0.18765658]

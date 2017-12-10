@@ -1,0 +1,2 @@
+[u'envelope', 0.10923325, u'laptop', 0.091979675, u'jersey', 0.066911153]
+[u'Band_Aid', 0.61251789, u'web_site', 0.24863617, u'cash_machine', 0.019978963]

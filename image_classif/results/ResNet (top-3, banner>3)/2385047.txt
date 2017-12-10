@@ -1,0 +1,3 @@
+[u'bottlecap', 0.94952703, u'pick', 0.01416988, u'hair_slide', 0.0079085529]
+[u'bottlecap', 0.70823622, u'gong', 0.25992015, u'chime', 0.0093337689]
+[u'loupe', 0.30407271, u'barometer', 0.095328055, u'puck', 0.078034706]

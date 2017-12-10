@@ -1,0 +1,5 @@
+[u'web_site', 0.95873868, u'comic_book', 0.015034951, u'book_jacket', 0.007065231, u'packet', 0.0040729488, u'rule', 0.0031569204]
+[u'web_site', 0.96777391, u'book_jacket', 0.022284616, u'comic_book', 0.0045116451, u'envelope', 0.00078951439, u'packet', 0.00071252062]
+[u'plate_rack', 0.53370869, u'nail', 0.042770721, u'matchstick', 0.038028043, u'rule', 0.027335525, u'hook', 0.020693935]
+[u'web_site', 0.44845486, u'seashore', 0.20996918, u'book_jacket', 0.079007573, u'lakeside', 0.066354774, u'screen', 0.020124368]
+[u'packet', 0.27901924, u'menu', 0.24890719, u'corn', 0.086702377, u'lotion', 0.060826838, u'ear', 0.053026795]

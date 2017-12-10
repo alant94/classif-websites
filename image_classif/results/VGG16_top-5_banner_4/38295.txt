@@ -1,0 +1,4 @@
+[u'joystick', 0.68033952, u'switch', 0.078558259, u'iron', 0.05577185, u'remote_control', 0.033958435, u'spotlight', 0.024943236]
+[u'mouse', 0.22771315, u'dumbbell', 0.095759563, u'spotlight', 0.093324505, u'electric_fan', 0.061718773, u'coil', 0.033849899]
+[u'digital_clock', 0.3939501, u'television', 0.13200648, u'buckle', 0.097300939, u'tray', 0.094148159, u'digital_watch', 0.042444605]
+[u'digital_clock', 0.92111486, u'analog_clock', 0.017137155, u'scoreboard', 0.008396781, u'odometer', 0.0074511147, u'stopwatch', 0.0061132237]

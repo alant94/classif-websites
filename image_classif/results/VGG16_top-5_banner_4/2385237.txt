@@ -1,0 +1,8 @@
+[u'lighter', 0.2334674, u'Polaroid_camera', 0.032084782, u'buckle', 0.031229161, u'sewing_machine', 0.030613031, u'packet', 0.030483827]
+[u'plate', 0.32540828, u'hotdog', 0.21349102, u'meat_loaf', 0.076963559, u'butcher_shop', 0.064378172, u'burrito', 0.043705802]
+[u'picket_fence', 0.22370479, u'mosquito_net', 0.13541946, u'four-poster', 0.0903363, u'mountain_tent', 0.060639065, u'patio', 0.059658818]
+[u'plate', 0.42341158, u'guacamole', 0.2786893, u'burrito', 0.025028104, u'restaurant', 0.023780122, u'trifle', 0.018431632]
+[u'acoustic_guitar', 0.84758663, u'electric_guitar', 0.079191923, u'banjo', 0.047619291, u'stage', 0.012921355, u'cello', 0.0028462298]
+[u'altar', 0.20406441, u'restaurant', 0.18752739, u'dining_table', 0.18420622, u'patio', 0.12115312, u'washbasin', 0.044638038]
+[u'organ', 0.15552033, u'groom', 0.1530139, u'marimba', 0.13666616, u'bookshop', 0.077922776, u'confectionery', 0.021394398]
+[u'sunglasses', 0.4893564, u'sunglass', 0.1136398, u'jersey', 0.035408165, u'seat_belt', 0.033853225, u'wig', 0.032873578]

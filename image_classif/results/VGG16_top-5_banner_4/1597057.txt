@@ -1,0 +1,5 @@
+[u'beacon', 0.18890819, u'bell_cote', 0.12113194, u'church', 0.085646868, u'birdhouse', 0.046437696, u'water_tower', 0.034588706]
+[u'harmonica', 0.25364718, u'bath_towel', 0.14251961, u'Band_Aid', 0.14103502, u'shower_cap', 0.06177862, u'diaper', 0.054028351]
+[u'swimming_trunks', 0.16120329, u'Band_Aid', 0.062514961, u'bathtub', 0.044336215, u'diaper', 0.042064346, u'bathing_cap', 0.037014946]
+[u'bathing_cap', 0.22643429, u'conch', 0.086749613, u'sunscreen', 0.080129422, u'sea_cucumber', 0.071750879, u'puffer', 0.062499676]
+[u'face_powder', 0.85781646, u'Petri_dish', 0.020833401, u'puck', 0.010259323, u'pill_bottle', 0.0092882719, u'rubber_eraser', 0.0086568501]

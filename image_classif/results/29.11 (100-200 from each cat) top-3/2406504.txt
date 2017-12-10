@@ -1,0 +1,5 @@
+[u'panpipe', 0.47893292, u'envelope', 0.051115319, u'church', 0.045700099]
+[u'shield', 0.11156182, u'web_site', 0.052282266, u'whistle', 0.047910515]
+[u'cinema', 0.15133016, u'folding_chair', 0.1313702, u'paddlewheel', 0.10288605]
+[u'web_site', 0.38104284, u'sunscreen', 0.082379572, u'Band_Aid', 0.071623452]
+[u'paintbrush', 0.65854335, u'barn', 0.086223073, u'fountain', 0.04025393]

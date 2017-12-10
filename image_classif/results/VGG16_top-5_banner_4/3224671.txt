@@ -1,0 +1,1 @@
+[u'radio', 0.20770799, u'tape_player', 0.086025804, u'desk', 0.070662886, u'projector', 0.061281189, u'desktop_computer', 0.058832075]

@@ -1,0 +1,2 @@
+[u'greenhouse', 0.91010123, u'cock', 0.0077834646, u'stupa', 0.0071243108, u'barn', 0.0065251528, u'dome', 0.0046915123]
+[u'barrel', 0.14093558, u'beer_bottle', 0.07595516, u'vestment', 0.054988686, u'book_jacket', 0.053353287, u'crate', 0.044769976]

@@ -1,0 +1,6 @@
+[u'digital_watch', 0.25199801, u'stopwatch', 0.19678682, u'digital_clock', 0.05447771]
+[u'barrel', 0.31477109, u'ashcan', 0.143714, u'book_jacket', 0.082042262]
+[u'hook', 0.11871213, u'knot', 0.098541193, u'book_jacket', 0.04017261]
+[u'web_site', 0.76826113, u'screen', 0.044290639, u'television', 0.023678454]
+[u'web_site', 0.14785287, u'street_sign', 0.038985521, u'book_jacket', 0.027434828]
+[u'web_site', 0.18666433, u'nail', 0.131032, u'screw', 0.063088767]

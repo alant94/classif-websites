@@ -1,0 +1,5 @@
+[u'jersey', 0.24356493, u'book_jacket', 0.16869593, u'comic_book', 0.098248541]
+[u'loudspeaker', 0.34615088, u'hard_disc', 0.081870519, u'television', 0.037281755]
+[u'jersey', 0.1285888, u'sweatshirt', 0.05676759, u'scoreboard', 0.050072215]
+[u'jersey', 0.24356493, u'book_jacket', 0.16869593, u'comic_book', 0.098248541]
+[u'barbershop', 0.58226901, u'bakery', 0.12792802, u'tobacco_shop', 0.073798038]

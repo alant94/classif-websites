@@ -1,0 +1,4 @@
+[u'whistle', 0.77153087, u'pencil_sharpener', 0.016942732, u'maraca', 0.0096115628]
+[u'digital_clock', 0.2779642, u'combination_lock', 0.083707973, u'padlock', 0.052650657]
+[u'switch', 0.14610277, u'packet', 0.089731, u'web_site', 0.083491936]
+[u'digital_clock', 0.61627257, u'scoreboard', 0.096383408, u'digital_watch', 0.059861686]

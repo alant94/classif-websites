@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'maraca', 0.11343297, u'stethoscope', 0.07758759, u'nipple', 0.069081873]
+[u'chain_mail', 0.6039837, u'military_uniform', 0.058854617, u'cuirass', 0.042780418]
+[u'oboe', 0.10005294, u'neck_brace', 0.095670924, u'wig', 0.087607153]
+[u'lab_coat', 0.23505028, u'candle', 0.045909572, u'neck_brace', 0.042196929]
+[u'street_sign', 0.20967914, u'traffic_light', 0.047022074, u'book_jacket', 0.037298393]
+[u'neck_brace', 0.20775118, u'seat_belt', 0.097696111, u'stole', 0.034592837]

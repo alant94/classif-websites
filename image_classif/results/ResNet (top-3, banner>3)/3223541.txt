@@ -1,0 +1,3 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'barbershop', 0.12566441, u'menu', 0.10540367, u'police_van', 0.077401072]
+[u'crossword_puzzle', 0.6864779, u'slide_rule', 0.30205387, u'menu', 0.0025148122]

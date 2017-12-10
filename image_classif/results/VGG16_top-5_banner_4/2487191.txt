@@ -1,0 +1,2 @@
+[u'barn', 0.56757677, u'boathouse', 0.27137044, u'church', 0.05511548, u'lakeside', 0.017756127, u'picket_fence', 0.014369602]
+[u'Irish_water_spaniel', 0.22813237, u'Sussex_spaniel', 0.11660676, u'curly-coated_retriever', 0.09741541, u'Irish_setter', 0.093197912, u'Afghan_hound', 0.092614464]

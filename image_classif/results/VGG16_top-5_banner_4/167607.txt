@@ -1,0 +1,8 @@
+[u'scoreboard', 0.22929558, u'cinema', 0.21330264, u'book_jacket', 0.067171477, u'ocarina', 0.049697965, u'container_ship', 0.0426565]
+[u'stage', 0.20605278, u'electric_guitar', 0.066732682, u'microphone', 0.060563896, u'cloak', 0.045834746, u'banjo', 0.033443194]
+[u'book_jacket', 0.52653408, u'comic_book', 0.19688298, u'jersey', 0.052170638, u'pick', 0.030107299, u'football_helmet', 0.028966915]
+[u'book_jacket', 0.29761484, u'street_sign', 0.12376197, u'Band_Aid', 0.046541564, u'packet', 0.018698743, u'scoreboard', 0.018562809]
+[u'container_ship', 0.66195047, u'drilling_platform', 0.033994749, u'crane', 0.02879704, u'scoreboard', 0.015253039, u'airship', 0.013064489]
+[u'comic_book', 0.12220785, u'beer_glass', 0.11571102, u'jersey', 0.085800312, u'bucket', 0.054648764, u'ashcan', 0.024929104]
+[u'container_ship', 0.79338408, u'liner', 0.037451155, u'dock', 0.01812789, u'fireboat', 0.016847886, u'scoreboard', 0.015270171]
+[u'envelope', 0.094949782, u'nail', 0.075735152, u'book_jacket', 0.0397075, u'rule', 0.03613925, u'hook', 0.0294457]

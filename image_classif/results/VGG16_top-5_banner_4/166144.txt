@@ -1,0 +1,1 @@
+[u'washbasin', 0.31981403, u'microwave', 0.25031969, u'washer', 0.1421919, u'bathtub', 0.097196706, u'tub', 0.064201027]

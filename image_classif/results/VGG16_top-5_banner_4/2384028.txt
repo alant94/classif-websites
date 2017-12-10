@@ -1,0 +1,5 @@
+[u'cliff', 0.11522793, u'volcano', 0.10830925, u'balloon', 0.073319711, u'megalith', 0.056420002, u'torch', 0.047777846]
+[u'mosque', 0.52778375, u'church', 0.21426296, u'bell_cote', 0.1591631, u'palace', 0.040827256, u'monastery', 0.023589626]
+[u'pillow', 0.53189415, u'Christmas_stocking', 0.26651543, u'handkerchief', 0.090040661, u'velvet', 0.012153936, u'paper_towel', 0.011002022]
+[u'cleaver', 0.11021104, u'whistle', 0.053908583, u'kimono', 0.053381816, u'maraca', 0.039246269, u'toyshop', 0.035592053]
+[u'padlock', 0.1341887, u'wine_bottle', 0.072780095, u'paintbrush', 0.040759586, u'switch', 0.039917205, u'combination_lock', 0.033616737]

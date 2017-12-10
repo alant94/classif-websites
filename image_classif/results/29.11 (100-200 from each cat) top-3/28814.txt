@@ -1,0 +1,8 @@
+[u'hair_slide', 0.14443348, u'hook', 0.098242342, u'nail', 0.087102003]
+[u'shower_curtain', 0.10687427, u'toyshop', 0.065935761, u'cab', 0.056622524]
+[u'iPod', 0.21024719, u'web_site', 0.20295295, u'monitor', 0.16376738]
+[u'toyshop', 0.27043843, u'television', 0.095285289, u'web_site', 0.081356376]
+[u'jellyfish', 0.91165328, u'shower_curtain', 0.024842519, u'scuba_diver', 0.010476246]
+[u'chime', 0.97554713, u'nail', 0.012167852, u'crutch', 0.0044101165]
+[u'picket_fence', 0.61169088, u'rule', 0.082771361, u'envelope', 0.026873747]
+[u'web_site', 0.93212885, u'monitor', 0.034777287, u'desk', 0.0037128653]

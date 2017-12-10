@@ -1,0 +1,1 @@
+[u'garbage_truck', 0.35891199, u'crane', 0.17527308, u'moving_van', 0.10460345]

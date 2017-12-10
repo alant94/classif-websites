@@ -1,0 +1,5 @@
+[u'envelope', 0.88208479, u'printer', 0.015101165, u'toilet_seat', 0.009005432]
+[u'sarong', 0.41488603, u'shower_curtain', 0.099745721, u'snorkel', 0.046002068]
+[u'spotlight', 0.091630869, u'stethoscope', 0.086189061, u'hard_disc', 0.06770853]
+[u'safety_pin', 0.16338788, u'screwdriver', 0.10536647, u'can_opener', 0.081606455]
+[u'picket_fence', 0.16425058, u'pinwheel', 0.092923708, u'web_site', 0.061083671]

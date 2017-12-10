@@ -1,0 +1,5 @@
+[u'traffic_light', 0.4201138, u'street_sign', 0.16130945, u'lighter', 0.093586244]
+[u'patio', 0.59589314, u'sliding_door', 0.17463811, u'restaurant', 0.037173737]
+[u'traffic_light', 0.8520931, u'digital_clock', 0.012188239, u'bell_cote', 0.0093169408]
+[u'chainlink_fence', 0.23717773, u'worm_fence', 0.13783766, u'swing', 0.072786435]
+[u'castle', 0.122207, u'church', 0.09822844, u'jigsaw_puzzle', 0.045214955]

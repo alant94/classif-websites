@@ -1,0 +1,3 @@
+[u'alp', 0.68782139, u'valley', 0.16809796, u'lakeside', 0.01888586, u'cliff', 0.011971765, u'television', 0.01055344]
+[u'sundial', 0.2507917, u'book_jacket', 0.21012233, u'jigsaw_puzzle', 0.16627531, u'tray', 0.024506973, u'maze', 0.022959869]
+[u'flagpole', 0.30978227, u'cinema', 0.11706741, u'planetarium', 0.072048075, u'barbershop', 0.051346954, u'mobile_home', 0.034927867]

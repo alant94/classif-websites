@@ -1,0 +1,6 @@
+[u'church', 0.38900083, u'monastery', 0.33626679, u'palace', 0.094841979]
+[u'paintbrush', 0.075275376, u'bathing_cap', 0.072587542, u'jersey', 0.068591386]
+[u'obelisk', 0.86114651, u'viaduct', 0.030510936, u'church', 0.027524432]
+[u'web_site', 0.089022629, u'envelope', 0.026161637, u'power_drill', 0.013394346]
+[u'perfume', 0.37933341, u'coffee_mug', 0.075857781, u'hair_spray', 0.06250003]
+[u'bell_cote', 0.84258848, u'monastery', 0.073406801, u'church', 0.041217912]

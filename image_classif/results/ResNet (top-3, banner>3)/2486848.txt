@@ -1,0 +1,4 @@
+[u'cleaver', 0.20941159, u'oil_filter', 0.048496615, u'hair_spray', 0.042128641]
+[u'folding_chair', 0.35854286, u'scale', 0.071472272, u'cellular_telephone', 0.052087761]
+[u'folding_chair', 0.33162341, u'scale', 0.096896172, u'lighter', 0.058336835]
+[u'coho', 0.65947741, u'sturgeon', 0.2225852, u'gar', 0.078841202]

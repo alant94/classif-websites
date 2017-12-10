@@ -1,0 +1,6 @@
+[u'envelope', 0.60052073, u'book_jacket', 0.12598372, u'web_site', 0.035225473]
+[u'bow', 0.36100215, u'dumbbell', 0.13393497, u'balloon', 0.064285971]
+[u'comic_book', 0.39555779, u'book_jacket', 0.30260023, u'crossword_puzzle', 0.07256078]
+[u'basketball', 0.36057106, u'football_helmet', 0.23737884, u'soccer_ball', 0.07665807]
+[u'tow_truck', 0.038597342, u'beer_bottle', 0.03757285, u'crash_helmet', 0.025252959]
+[u'web_site', 0.18997195, u'envelope', 0.17910287, u'iPod', 0.12887964]

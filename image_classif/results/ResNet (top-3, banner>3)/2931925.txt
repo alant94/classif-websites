@@ -1,0 +1,2 @@
+[u'bow_tie', 0.13875638, u'Windsor_tie', 0.12834336, u'neck_brace', 0.10564911]
+[u'pencil_sharpener', 0.236876, u'reel', 0.22676426, u'car_wheel', 0.17334153]

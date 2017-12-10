@@ -1,0 +1,2 @@
+[u'book_jacket', 0.096416667, u'oil_filter', 0.046473652, u'hair_spray', 0.039658725]
+[u'electric_guitar', 0.98293751, u'acoustic_guitar', 0.012729415, u'banjo', 0.0038555025]

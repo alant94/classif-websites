@@ -1,0 +1,1 @@
+[u'greenhouse', 0.61531603, u'window_screen', 0.083447948, u'patio', 0.041451089, u'pot', 0.024829028, u'rain_barrel', 0.016628899]

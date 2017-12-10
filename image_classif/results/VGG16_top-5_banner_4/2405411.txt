@@ -1,0 +1,7 @@
+[u'letter_opener', 0.19041494, u'book_jacket', 0.12182534, u'envelope', 0.078374363, u'cleaver', 0.050335411, u'binder', 0.034820594]
+[u'suit', 0.44424763, u'bow_tie', 0.1948961, u'trench_coat', 0.074498892, u'Windsor_tie', 0.037565328, u'bearskin', 0.027089177]
+[u'web_site', 0.3479237, u'envelope', 0.025242668, u'book_jacket', 0.024979807, u'monitor', 0.02159122, u'candle', 0.01974725]
+[u'web_site', 0.10901302, u'envelope', 0.10745694, u'analog_clock', 0.049579661, u'wall_clock', 0.030103263, u'hook', 0.024836661]
+[u'jersey', 0.71026224, u'sweatshirt', 0.11349867, u'abaya', 0.040130217, u'miniskirt', 0.01640423, u'jean', 0.014557966]
+[u'military_uniform', 0.10586391, u'bulletproof_vest', 0.079564847, u'binoculars', 0.044508591, u'oxygen_mask', 0.035925262, u'holster', 0.034856338]
+[u'web_site', 0.1141139, u'envelope', 0.062142789, u'Band_Aid', 0.050223362, u'wardrobe', 0.038111225, u'Windsor_tie', 0.035414528]

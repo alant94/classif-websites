@@ -1,0 +1,4 @@
+[u'barn', 0.66171998, u'thatch', 0.057652622, u'worm_fence', 0.050439924, u'bell_cote', 0.027036706, u'church', 0.024252944]
+[u'hartebeest', 0.65241677, u'water_buffalo', 0.20309624, u'gazelle', 0.095506817, u'impala', 0.022313299, u'ox', 0.016295003]
+[u'hartebeest', 0.98185664, u'impala', 0.0098949224, u'gazelle', 0.0044434592, u'water_buffalo', 0.0016790587, u'ibex', 0.0011082691]
+[u'hartebeest', 0.49927187, u'water_buffalo', 0.21967427, u'gazelle', 0.14649409, u'impala', 0.063567862, u'ox', 0.046391092]

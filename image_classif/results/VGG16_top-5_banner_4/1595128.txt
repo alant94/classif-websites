@@ -1,0 +1,3 @@
+[u'tripod', 0.13327852, u'rifle', 0.078833535, u'sandal', 0.07544177, u'backpack', 0.053358555, u'binoculars', 0.050319273]
+[u'dough', 0.4319185, u'wooden_spoon', 0.15120843, u'mortar', 0.11521325, u'drumstick', 0.059191942, u'quill', 0.036150746]
+[u'hair_spray', 0.10153255, u'vestment', 0.072976939, u'candle', 0.066190392, u'shower_cap', 0.058860093, u'wig', 0.029725887]

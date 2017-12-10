@@ -1,0 +1,2 @@
+[u'book_jacket', 0.15024675, u'sunscreen', 0.052741874, u'hair_spray', 0.050013714, u'Band_Aid', 0.040006634, u'rubber_eraser', 0.032910287]
+[u'suspension_bridge', 0.29547203, u'bannister', 0.12494368, u'pier', 0.075708926, u'window_shade', 0.05555065, u'organ', 0.050324075]

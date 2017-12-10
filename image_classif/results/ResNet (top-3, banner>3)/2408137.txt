@@ -1,0 +1,6 @@
+[u'digital_clock', 0.36467862, u'prayer_rug', 0.11110058, u'digital_watch', 0.087843217]
+[u'joystick', 0.18700962, u'loudspeaker', 0.12445972, u'mousetrap', 0.093681939]
+[u'menu', 0.48399645, u'envelope', 0.16228031, u'shoji', 0.036690757]
+[u'web_site', 0.38389897, u'medicine_chest', 0.059161831, u'entertainment_center', 0.051849697]
+[u'binder', 0.29014713, u'prayer_rug', 0.10443603, u'book_jacket', 0.08314155]
+[u'cassette_player', 0.19918892, u'screwdriver', 0.14456007, u'ballpoint', 0.12279083]

@@ -1,0 +1,4 @@
+[u'barn', 0.95345265, u'church', 0.0081140017, u'boathouse', 0.0049669007, u'worm_fence', 0.0047168145, u'picket_fence', 0.0042379829]
+[u'fountain', 0.21471007, u'beaker', 0.095225781, u'vase', 0.079631753, u'window_shade', 0.063156836, u'pitcher', 0.046392348]
+[u'wild_boar', 0.29523456, u'skunk', 0.16029108, u'book_jacket', 0.084932648, u'hog', 0.083971262, u'badger', 0.057025272]
+[u'street_sign', 0.31334636, u'book_jacket', 0.26432371, u'tobacco_shop', 0.12375933, u'bookshop', 0.088776976, u'doormat', 0.019902155]

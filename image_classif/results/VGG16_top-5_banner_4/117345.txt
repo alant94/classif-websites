@@ -1,0 +1,3 @@
+[u'book_jacket', 0.37366176, u'scoreboard', 0.056652896, u'street_sign', 0.049320273, u'digital_clock', 0.03091421, u'picket_fence', 0.028513215]
+[u'half_track', 0.13644433, u'Dungeness_crab', 0.088321671, u'isopod', 0.076127537, u'wok', 0.047274888, u'banana', 0.030864824]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

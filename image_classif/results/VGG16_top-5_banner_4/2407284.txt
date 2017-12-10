@@ -1,0 +1,4 @@
+[u'web_site', 0.4996253, u'envelope', 0.053348254, u'digital_clock', 0.037373893, u'scoreboard', 0.030212907, u'analog_clock', 0.020986939]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'digital_clock', 0.22787534, u'wall_clock', 0.053461179, u'digital_watch', 0.03640151, u'Band_Aid', 0.032379091, u'scoreboard', 0.031697623]
+[u'pick', 0.14740747, u'loupe', 0.1336247, u'spotlight', 0.11262967, u'golf_ball', 0.089395046, u'rugby_ball', 0.053932298]

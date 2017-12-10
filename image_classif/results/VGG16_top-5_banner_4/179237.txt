@@ -1,0 +1,7 @@
+[u'container_ship', 0.968036, u'drilling_platform', 0.010576528, u'aircraft_carrier', 0.0058045085, u'dock', 0.0034374769, u'crane', 0.0030891697]
+[u'web_site', 0.5893417, u'book_jacket', 0.21446952, u'comic_book', 0.17756237, u'cassette', 0.0046933615, u'packet', 0.0019475225]
+[u'web_site', 0.55018437, u'theater_curtain', 0.068008512, u'home_theater', 0.043361899, u'scoreboard', 0.034786284, u'cinema', 0.034411274]
+[u'rubber_eraser', 0.081007473, u'rule', 0.077694304, u'toyshop', 0.074632637, u'whistle', 0.072981402, u'confectionery', 0.064229824]
+[u'container_ship', 0.44768515, u'monitor', 0.07520435, u'airship', 0.043708563, u'solar_dish', 0.039238639, u'crane', 0.037224341]
+[u'book_jacket', 0.81079906, u'comic_book', 0.092544205, u'tray', 0.019921653, u'candle', 0.0085437177, u'envelope', 0.0065026996]
+[u'screwdriver', 0.34899387, u"carpenter's_kit", 0.1046671, u'whistle', 0.10388072, u'ballpoint', 0.053514224, u'snorkel', 0.042506993]

@@ -1,0 +1,8 @@
+[u'unicycle', 0.083715886, u'tricycle', 0.072277673, u'pole', 0.048250705, u'mobile_home', 0.038278848, u'flagpole', 0.037800662]
+[u'sarong', 0.16295166, u'swimming_trunks', 0.10691015, u'gar', 0.10082928, u'lakeside', 0.040841643, u'reel', 0.036237251]
+[u'tractor', 0.11158437, u'horse_cart', 0.081764646, u'steam_locomotive', 0.056841902, u'snowplow', 0.038309403, u'streetcar', 0.036296289]
+[u'sleeping_bag', 0.22281347, u'stretcher', 0.065076284, u'mountain_tent', 0.053345855, u'sarong', 0.046709519, u'academic_gown', 0.020842588]
+[u'chime', 0.14158233, u'wardrobe', 0.10392819, u'altar', 0.089920133, u'vestment', 0.087027632, u'butcher_shop', 0.050834198]
+[u'church', 0.75275904, u'picket_fence', 0.075105779, u'monastery', 0.050646819, u'castle', 0.011625273, u'beacon', 0.0097026462]
+[u'sarong', 0.28777629, u'poncho', 0.055232842, u'feather_boa', 0.049922299, u'mortarboard', 0.02685846, u'cloak', 0.026507655]
+[u'bannister', 0.11293197, u'stupa', 0.10236567, u'bell_cote', 0.09045998, u'window_shade', 0.088222928, u'picket_fence', 0.076851606]

@@ -1,0 +1,4 @@
+[u'gazelle', 0.52576637, u'impala', 0.21643461, u'hartebeest', 0.15777521, u'red_wolf', 0.018081762, u'hare', 0.013564588]
+[u'boathouse', 0.224529, u'mobile_home', 0.08563114, u'freight_car', 0.068943769, u'greenhouse', 0.062687807, u'barn', 0.052183822]
+[u'Arabian_camel', 0.81056947, u'impala', 0.030305598, u'hartebeest', 0.015521482, u'lion', 0.013133221, u'oxcart', 0.010742858]
+[u'bustard', 0.33088487, u'prairie_chicken', 0.2031344, u'ruffed_grouse', 0.091445535, u'hornbill', 0.053559911, u'black_grouse', 0.044175617]

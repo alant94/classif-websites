@@ -1,0 +1,4 @@
+[u'maypole', 0.1487283, u'Indian_elephant', 0.067251191, u'macaw', 0.049649011]
+[u'bow', 0.49453771, u'Gordon_setter', 0.036928326, u'orangutan', 0.034924809]
+[u'wall_clock', 0.20135927, u'electric_guitar', 0.19895643, u'church', 0.099095352]
+[u'sliding_door', 0.11369842, u'minibus', 0.096908629, u'lumbermill', 0.048593257]

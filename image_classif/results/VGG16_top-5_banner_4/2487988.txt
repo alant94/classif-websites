@@ -1,0 +1,8 @@
+[u'suit', 0.74254072, u'Windsor_tie', 0.22930187, u'groom', 0.0029382519, u'cardigan', 0.0029245971, u'bow_tie', 0.0028452361]
+[u'notebook', 0.17184187, u'grand_piano', 0.080392674, u'laptop', 0.065422699, u'ping-pong_ball', 0.049647097, u'jigsaw_puzzle', 0.033871572]
+[u'suit', 0.79478514, u'Windsor_tie', 0.15715967, u'bow_tie', 0.0062216204, u'military_uniform', 0.0043887408, u'groom', 0.0020283794]
+[u'missile', 0.30028611, u'projectile', 0.26431757, u'pole', 0.095066883, u'flagpole', 0.059587296, u'bannister', 0.029687753]
+[u'tripod', 0.093976811, u'pier', 0.053310107, u'grand_piano', 0.050912827, u'bannister', 0.038841836, u'safety_pin', 0.037770543]
+[u'container_ship', 0.37031806, u'drilling_platform', 0.19573903, u'bookcase', 0.055903666, u'jersey', 0.024389965, u'library', 0.023223601]
+[u'upright', 0.22643444, u'pencil_sharpener', 0.19513614, u'grand_piano', 0.10049156, u'screw', 0.096307442, u'coil', 0.045814991]
+[u'analog_clock', 0.20846787, u'digital_watch', 0.10549299, u'stopwatch', 0.10374423, u'wall_clock', 0.10325371, u'combination_lock', 0.062887155]

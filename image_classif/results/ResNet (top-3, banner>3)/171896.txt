@@ -1,0 +1,3 @@
+[u'wool', 0.4085255, u'knee_pad', 0.15000305, u'mailbag', 0.051613387]
+[u'minibus', 0.67528689, u'moving_van', 0.15422595, u'minivan', 0.069852807]
+[u'rule', 0.48308146, u'slide_rule', 0.13827902, u'file', 0.042610694]

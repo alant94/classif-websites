@@ -1,0 +1,2 @@
+[u'lab_coat', 0.5452798, u'pedestal', 0.056847669, u'lampshade', 0.01943884, u'solar_dish', 0.015007877, u'radio_telescope', 0.014612782]
+[u'bell_cote', 0.1679451, u'stupa', 0.15199049, u'beacon', 0.1235178, u'airship', 0.064610682, u'aircraft_carrier', 0.049292538]

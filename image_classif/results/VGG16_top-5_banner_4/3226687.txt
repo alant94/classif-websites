@@ -1,0 +1,3 @@
+[u'church', 0.071734183, u'wall_clock', 0.061271481, u'window_shade', 0.057930179, u'window_screen', 0.052559908, u'birdhouse', 0.041060966]
+[u'bell_cote', 0.59820873, u'castle', 0.090366587, u'church', 0.084046043, u'tile_roof', 0.035660241, u'monastery', 0.028113345]
+[u'church', 0.15519585, u'vault', 0.14700985, u'monastery', 0.10388464, u'bell_cote', 0.067899011, u'dome', 0.037440419]

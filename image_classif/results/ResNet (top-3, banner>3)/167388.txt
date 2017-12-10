@@ -1,0 +1,8 @@
+[u'comic_book', 0.72368968, u'jigsaw_puzzle', 0.051361371, u'book_jacket', 0.035282247]
+[u'digital_clock', 0.17730208, u'nematode', 0.11896995, u'stopwatch', 0.086055189]
+[u'electric_guitar', 0.33841214, u'American_alligator', 0.14123432, u'stage', 0.091910906]
+[u'book_jacket', 0.36250708, u'barn', 0.1936122, u'fountain', 0.094926238]
+[u'screwdriver', 0.069536969, u'theater_curtain', 0.068917833, u'cleaver', 0.044465709]
+[u'barn', 0.16427888, u'book_jacket', 0.15274845, u'web_site', 0.075576857]
+[u'sax', 0.28011358, u'microphone', 0.23667379, u'stage', 0.11252113]
+[u'pay-phone', 0.77254719, u'dial_telephone', 0.17992288, u'whistle', 0.0080341306]

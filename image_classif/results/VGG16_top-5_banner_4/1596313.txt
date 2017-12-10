@@ -1,0 +1,4 @@
+[u'crutch', 0.10995397, u'barber_chair', 0.10187751, u'plunger', 0.079554096, u'vacuum', 0.058389708, u'toilet_tissue', 0.051951408]
+[u'face_powder', 0.13154423, u'hay', 0.12982659, u'puck', 0.075615682, u'viaduct', 0.066658027, u'barn', 0.05407368]
+[u'bikini', 0.098386765, u'sarong', 0.083016448, u'maillot', 0.082050882, u'maillot', 0.077627562, u'brassiere', 0.030766189]
+[u'wallet', 0.15582967, u'purse', 0.13582699, u"carpenter's_kit", 0.085625403, u'buckle', 0.065888926, u'lighter', 0.037370257]

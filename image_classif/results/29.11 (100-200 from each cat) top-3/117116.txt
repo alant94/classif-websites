@@ -1,0 +1,6 @@
+[u'whistle', 0.12683092, u'iron', 0.051744472, u'web_site', 0.048660565]
+[u'web_site', 0.36573642, u'nematode', 0.043553784, u'analog_clock', 0.026642054]
+[u'whistle', 0.70029616, u'ballpoint', 0.029158184, u'screwdriver', 0.023566393]
+[u'web_site', 0.7674796, u'envelope', 0.045250863, u'dishwasher', 0.0064005535]
+[u'bubble', 0.93633235, u'balloon', 0.030217597, u'maraca', 0.011794589]
+[u'web_site', 0.59559923, u'analog_clock', 0.037712809, u'television', 0.016280448]

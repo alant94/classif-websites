@@ -1,0 +1,1 @@
+[u'throne', 0.1458956, u'carousel', 0.097413927, u'altar', 0.086184613, u'analog_clock', 0.082324177, u'wall_clock', 0.07552956]

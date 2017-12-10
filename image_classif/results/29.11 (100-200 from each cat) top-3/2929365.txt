@@ -1,0 +1,5 @@
+[u'packet', 0.26135546, u'comic_book', 0.17724346, u'binder', 0.1408461]
+[u'ski', 0.97713143, u'wallet', 0.0091420049, u'lighter', 0.0031913887]
+[u'ski', 0.86432868, u'wallet', 0.039109275, u'lighter', 0.033809286]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'drilling_platform', 0.49303496, u'container_ship', 0.30163494, u'dining_table', 0.060250003]

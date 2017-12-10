@@ -1,0 +1,3 @@
+[u'pill_bottle', 0.065121949, u'bucket', 0.054562405, u'gas_pump', 0.042093635, u'sunscreen', 0.039324176, u'Petri_dish', 0.037333976]
+[u'book_jacket', 0.48753119, u'packet', 0.091233648, u'perfume', 0.045444228, u'lotion', 0.028328372, u'sunscreen', 0.022973176]
+[u'broom', 0.12503152, u'plastic_bag', 0.10208255, u'oil_filter', 0.089215577, u'wool', 0.07759168, u'packet', 0.045578681]

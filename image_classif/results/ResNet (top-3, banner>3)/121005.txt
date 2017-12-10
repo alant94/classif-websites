@@ -1,0 +1,6 @@
+[u'web_site', 0.13051507, u'washbasin', 0.093240939, u'digital_clock', 0.067572854]
+[u'web_site', 0.70504653, u'crossword_puzzle', 0.10952478, u'hard_disc', 0.014541994]
+[u'container_ship', 0.28492218, u'scoreboard', 0.26795411, u'gas_pump', 0.057502668]
+[u'chain', 0.21262851, u'crate', 0.088618115, u'oscilloscope', 0.069416568]
+[u'cornet', 0.4792006, u'trombone', 0.113283, u'file', 0.068940654]
+[u'hook', 0.64174324, u'unicycle', 0.098019518, u'analog_clock', 0.061098687]

@@ -1,0 +1,6 @@
+[u'canoe', 0.52578914, u'paddle', 0.20545515, u'bucket', 0.031619608, u'submarine', 0.018364413, u'bathtub', 0.015674148]
+[u'ibex', 0.57055944, u'gazelle', 0.18348205, u'hartebeest', 0.085349537, u'impala', 0.071022741, u'wallaby', 0.041374058]
+[u'web_site', 0.45276788, u'book_jacket', 0.36526275, u'comic_book', 0.092591159, u'menu', 0.023837775, u'packet', 0.011539635]
+[u'fountain', 0.16691455, u'book_jacket', 0.16406621, u'web_site', 0.12959732, u'church', 0.059047304, u'window_screen', 0.058092818]
+[u'book_jacket', 0.69925117, u'web_site', 0.024500489, u'comic_book', 0.021227282, u'lighter', 0.020902766, u'hair_spray', 0.012944719]
+[u'comic_book', 0.25792941, u'fountain', 0.23729753, u'book_jacket', 0.1485575, u'web_site', 0.1233085, u'television', 0.013870579]

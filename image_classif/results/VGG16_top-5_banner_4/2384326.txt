@@ -1,0 +1,7 @@
+[u'analog_clock', 0.075024098, u'bell_cote', 0.063464127, u'picket_fence', 0.044367574, u'window_screen', 0.038973078, u'screen', 0.037460804]
+[u'book_jacket', 0.33367169, u'jersey', 0.087167814, u'pick', 0.020375058, u'microphone', 0.01945591, u'sax', 0.01700015]
+[u'patio', 0.20486054, u'greenhouse', 0.19692999, u'tile_roof', 0.1430153, u'boathouse', 0.088141948, u'barn', 0.031983983]
+[u'chain', 0.26354071, u'envelope', 0.1127039, u'scale', 0.080350548, u'handkerchief', 0.072736472, u'crane', 0.035522327]
+[u'paddlewheel', 0.14784217, u'fire_engine', 0.085582964, u'refrigerator', 0.070160396, u'bell_cote', 0.05449954, u'abacus', 0.044418812]
+[u'table_lamp', 0.206025, u'grand_piano', 0.14846219, u'electric_fan', 0.069357373, u'spotlight', 0.065887548, u'lampshade', 0.053963728]
+[u'traffic_light', 0.10325866, u'police_van', 0.0921546, u'ambulance', 0.065871857, u'moving_van', 0.055922046, u'garbage_truck', 0.042602792]

@@ -1,0 +1,2 @@
+[u'web_site', 0.24935484, u'nematode', 0.046590552, u'matchstick', 0.044421177]
+[u'trailer_truck', 0.43433091, u'pickup', 0.24081953, u'cab', 0.13030125]

@@ -1,0 +1,1 @@
+[u'cinema', 0.63524759, u'library', 0.081975609, u'palace', 0.069356762, u'monastery', 0.046229593, u'flagpole', 0.029789515]

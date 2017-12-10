@@ -1,0 +1,5 @@
+[u'restaurant', 0.46529624, u'dining_table', 0.11733035, u'groom', 0.028326601]
+[u'cash_machine', 0.070745856, u'groom', 0.053901356, u'barbershop', 0.053886116]
+[u'jigsaw_puzzle', 0.18340345, u'plane', 0.13150406, u'nipple', 0.089660741]
+[u'valley', 0.61207879, u'alp', 0.35054493, u'lakeside', 0.014499563]
+[u'bassoon', 0.42526111, u'oboe', 0.2187988, u'cello', 0.11531173]

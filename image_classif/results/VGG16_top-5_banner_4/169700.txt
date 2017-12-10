@@ -1,0 +1,3 @@
+[u'ping-pong_ball', 0.21247694, u'marimba', 0.21246256, u'scoreboard', 0.13429168, u'panpipe', 0.074164607, u'basketball', 0.061414234]
+[u'medicine_chest', 0.10397444, u'window_screen', 0.089171641, u'screen', 0.052279934, u'laptop', 0.043740697, u'binder', 0.042319153]
+[u'shower_cap', 0.36931229, u'bonnet', 0.097276613, u'bathing_cap', 0.072570078, u'neck_brace', 0.069135994, u'bow_tie', 0.055547532]

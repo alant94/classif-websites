@@ -1,0 +1,6 @@
+[u'web_site', 0.53539175, u'stopwatch', 0.055746235, u'book_jacket', 0.03071104, u'cash_machine', 0.025975348, u'digital_clock', 0.025234064]
+[u'jellyfish', 0.10673574, u'parachute', 0.054963026, u'matchstick', 0.023065927, u'bald_eagle', 0.021385875, u'flagpole', 0.019829297]
+[u'jellyfish', 0.10673574, u'parachute', 0.054963026, u'matchstick', 0.023065927, u'bald_eagle', 0.021385875, u'flagpole', 0.019829297]
+[u'digital_clock', 0.17702416, u'maze', 0.12479329, u'nail', 0.075777158, u'Band_Aid', 0.06636703, u'hook', 0.052383039]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'jellyfish', 0.10673574, u'parachute', 0.054963026, u'matchstick', 0.023065927, u'bald_eagle', 0.021385875, u'flagpole', 0.019829297]

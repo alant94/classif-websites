@@ -1,0 +1,5 @@
+[u'refrigerator', 0.34500602, u'tub', 0.054429434, u'binder', 0.050401736]
+[u'face_powder', 0.46980691, u'wallet', 0.12877363, u'buckle', 0.098795384]
+[u'quill', 0.28202787, u'bonnet', 0.078350894, u'hair_slide', 0.076529838]
+[u'puck', 0.1289684, u'face_powder', 0.077556908, u'tobacco_shop', 0.077527262]
+[u"carpenter's_kit", 0.70420259, u'chest', 0.056684807, u'croquet_ball', 0.041847408]

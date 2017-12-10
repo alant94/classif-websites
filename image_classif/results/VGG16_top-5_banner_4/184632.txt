@@ -1,0 +1,3 @@
+[u'book_jacket', 0.74260169, u'packet', 0.070245616, u'menu', 0.03214889, u'comic_book', 0.027507136, u'jersey', 0.0093640676]
+[u'book_jacket', 0.27536851, u'comic_book', 0.22883628, u'jersey', 0.14930135, u'triceratops', 0.050477106, u'pick', 0.032675896]
+[u'street_sign', 0.79133797, u'traffic_light', 0.084721081, u'scoreboard', 0.019668009, u'tobacco_shop', 0.018466767, u'barbershop', 0.017256739]

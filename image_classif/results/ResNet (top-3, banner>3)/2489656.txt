@@ -1,0 +1,4 @@
+[u'jersey', 0.18781808, u'book_jacket', 0.15056272, u'comic_book', 0.080827907]
+[u'warthog', 0.30732715, u'ibex', 0.23669332, u'ram', 0.10906354]
+[u'comic_book', 0.38424614, u'book_jacket', 0.32832229, u'scoreboard', 0.03037723]
+[u'lighter', 0.67941988, u'perfume', 0.10397473, u'digital_clock', 0.049010877]

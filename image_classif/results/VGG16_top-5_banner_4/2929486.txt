@@ -1,0 +1,6 @@
+[u'sombrero', 0.14733545, u'racket', 0.07268092, u'rugby_ball', 0.050650142, u'jersey', 0.04389669, u'tennis_ball', 0.036906052]
+[u'web_site', 0.034670662, u'street_sign', 0.029344939, u'stretcher', 0.0155624, u'rule', 0.015413038, u'hook', 0.015258962]
+[u'flagpole', 0.40154845, u'pinwheel', 0.17081097, u'castle', 0.087130003, u'stupa', 0.04003894, u'candle', 0.014183966]
+[u'web_site', 0.16913965, u'microphone', 0.089486994, u'envelope', 0.040488005, u'Band_Aid', 0.02110054, u'whistle', 0.018826284]
+[u'nematode', 0.15277447, u'jellyfish', 0.053598765, u'jersey', 0.047316153, u'oscilloscope', 0.044683684, u'vine_snake', 0.04048682]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

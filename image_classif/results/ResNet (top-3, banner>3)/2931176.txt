@@ -1,0 +1,3 @@
+[u'sewing_machine', 0.78401595, u'lumbermill', 0.082561255, u'crate', 0.019498834]
+[u'lumbermill', 0.21256536, u'dishwasher', 0.064734958, u'refrigerator', 0.051494788]
+[u'cash_machine', 0.23496532, u'monitor', 0.14788356, u'screen', 0.086419545]

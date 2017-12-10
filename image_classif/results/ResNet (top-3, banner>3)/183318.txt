@@ -1,0 +1,7 @@
+[u'book_jacket', 0.79590148, u'comic_book', 0.091576643, u'jersey', 0.0086082257]
+[u'street_sign', 0.27009287, u'coffee_mug', 0.25158, u'chainlink_fence', 0.19768842]
+[u'candle', 0.060988769, u'vestment', 0.047718052, u'academic_gown', 0.047110718]
+[u'cassette', 0.21040989, u'coil', 0.12879443, u'web_site', 0.0845121]
+[u'web_site', 0.96986556, u'comic_book', 0.010668643, u'electric_fan', 0.0032835088]
+[u'chain_mail', 0.10288475, u'poncho', 0.10211755, u'cloak', 0.057680793]
+[u'envelope', 0.28459153, u'prayer_rug', 0.11195128, u'medicine_chest', 0.052845545]

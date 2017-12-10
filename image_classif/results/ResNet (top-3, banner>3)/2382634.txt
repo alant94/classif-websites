@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.54557711, u'window_screen', 0.16967955, u'titi', 0.025624927]
+[u'church', 0.3476347, u'fountain', 0.12435133, u'analog_clock', 0.02886698]
+[u'web_site', 0.67761439, u'television', 0.029560393, u'nematode', 0.008550304]
+[u'web_site', 0.99508661, u'menu', 0.0026275422, u'envelope', 0.0005319388]
+[u'vase', 0.52239436, u'pot', 0.25355059, u'spaghetti_squash', 0.071084969]
+[u'vase', 0.52239436, u'pot', 0.25355059, u'spaghetti_squash', 0.071084969]

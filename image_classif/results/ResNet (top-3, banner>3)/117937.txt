@@ -1,0 +1,2 @@
+[u'web_site', 0.99145222, u'military_uniform', 0.0014603641, u'mortarboard', 0.0012152687]
+[u'web_site', 0.97895229, u'television', 0.019199427, u'screen', 0.00065276644]

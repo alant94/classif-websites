@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.34971535, u'envelope', 0.18154781, u'packet', 0.077782549, u'binder', 0.047206979, u'safety_pin', 0.027696371]
+[u'envelope', 0.5406642, u'comic_book', 0.14718089, u'web_site', 0.06116116, u'jigsaw_puzzle', 0.04812485, u'bib', 0.045406405]

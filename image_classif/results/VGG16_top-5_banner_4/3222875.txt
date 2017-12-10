@@ -1,0 +1,7 @@
+[u'valley', 0.48324314, u'alp', 0.44235274, u'lakeside', 0.031935532, u'dam', 0.018733654, u'cliff', 0.007388005]
+[u'totem_pole', 0.37555572, u'pole', 0.12715124, u'swing', 0.11035507, u'hook', 0.06364201, u'chain', 0.043369915]
+[u'unicycle', 0.046604764, u'vacuum', 0.030253835, u'hoopskirt', 0.027813626, u'spotlight', 0.027305476, u'black_grouse', 0.024121817]
+[u'alp', 0.7206533, u'valley', 0.069891922, u'barn', 0.046999488, u'dam', 0.020381592, u'suspension_bridge', 0.017576013]
+[u'lakeside', 0.71423799, u'boathouse', 0.073329397, u'alp', 0.065501705, u'valley', 0.050840843, u'volcano', 0.020145593]
+[u'cliff', 0.25393146, u'brass', 0.10881363, u'barn', 0.081969105, u'geyser', 0.071828745, u'alp', 0.06850908]
+[u'flute', 0.15620688, u'ear', 0.073958941, u'bikini', 0.066346399, u'maypole', 0.062772781, u'panpipe', 0.057293694]

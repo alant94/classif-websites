@@ -1,0 +1,7 @@
+[u'digital_clock', 0.61583877, u'digital_watch', 0.19108786, u'crossword_puzzle', 0.043686651, u'analog_clock', 0.01451976, u'scoreboard', 0.013683485]
+[u'matchstick', 0.078607127, u'nematode', 0.043004502, u'lighter', 0.032492675, u'digital_clock', 0.030934582, u'spotlight', 0.030593418]
+[u'picket_fence', 0.1461447, u'analog_clock', 0.13672513, u'crossword_puzzle', 0.087392502, u'digital_clock', 0.069548741, u'digital_watch', 0.055293839]
+[u'organ', 0.20133866, u'rule', 0.10162821, u'book_jacket', 0.089109063, u'analog_clock', 0.085691668, u'crossword_puzzle', 0.084715061]
+[u'chime', 0.46543843, u'organ', 0.22398014, u'matchstick', 0.029442042, u'picket_fence', 0.029079916, u'paintbrush', 0.018667618]
+[u'chime', 0.72028041, u'organ', 0.048821948, u'matchstick', 0.047130384, u'syringe', 0.038589384, u'wine_bottle', 0.038144968]
+[u'matchstick', 0.07772857, u'nematode', 0.045603957, u'lighter', 0.032142408, u'digital_clock', 0.030546965, u'spotlight', 0.026579795]

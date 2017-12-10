@@ -1,0 +1,2 @@
+[u'fountain_pen', 0.066977255, u'ballpoint', 0.055821646, u'hourglass', 0.055053204, u'chime', 0.040418368, u'rubber_eraser', 0.033302236]
+[u'abacus', 0.70383668, u'joystick', 0.11064402, u'monitor', 0.024682203, u'birdhouse', 0.021406163, u'oscilloscope', 0.017084492]

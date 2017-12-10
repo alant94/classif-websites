@@ -1,0 +1,2 @@
+[u'rapeseed', 0.95766336, u'shower_cap', 0.013433438, u'Leonberg', 0.0040395972]
+[u'carton', 0.82798588, u'doormat', 0.10570752, u'book_jacket', 0.021865757]

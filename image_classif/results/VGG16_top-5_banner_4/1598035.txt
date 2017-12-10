@@ -1,0 +1,8 @@
+[u'bath_towel', 0.16931728, u'diaper', 0.12668392, u'bathtub', 0.063015006, u'Band_Aid', 0.05688877, u'remote_control', 0.049197927]
+[u'bikini', 0.19215666, u'maillot', 0.15338045, u'maillot', 0.14694756, u'tub', 0.12356854, u'sarong', 0.065664597]
+[u'tub', 0.14809321, u'maillot', 0.14125291, u'bathtub', 0.088535294, u'bikini', 0.087406501, u'miniskirt', 0.069870271]
+[u'tub', 0.23786607, u'bath_towel', 0.21278076, u'bathtub', 0.12011238, u'diaper', 0.11950521, u'bikini', 0.03784826]
+[u'bikini', 0.16125798, u'miniskirt', 0.11830667, u'maillot', 0.10963168, u'diaper', 0.1012603, u'maillot', 0.088764288]
+[u'carton', 0.077484578, u'swimming_trunks', 0.055961143, u'bathing_cap', 0.043682929, u'diaper', 0.03654908, u'laptop', 0.022288078]
+[u'matchstick', 0.081624776, u'hook', 0.077475563, u'mousetrap', 0.070757203, u'rule', 0.067506686, u'wall_clock', 0.054342251]
+[u'swimming_trunks', 0.33389008, u'diaper', 0.19128053, u'bikini', 0.075597703, u'sarong', 0.052898757, u'tub', 0.043340009]

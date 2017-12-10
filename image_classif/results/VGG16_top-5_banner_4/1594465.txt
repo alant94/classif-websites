@@ -1,0 +1,8 @@
+[u'iPod', 0.077569582, u'lens_cap', 0.058587279, u'perfume', 0.054541297, u'matchstick', 0.047037452, u'brassiere', 0.044742949]
+[u'television', 0.51306009, u'monitor', 0.23796405, u'screen', 0.11129658, u'home_theater', 0.018745797, u'fountain', 0.0093868393]
+[u'ping-pong_ball', 0.56149274, u'baseball', 0.37158194, u'balloon', 0.0043956637, u'planetarium', 0.0040834779, u'missile', 0.0037095346]
+[u'theater_curtain', 0.79763556, u'spotlight', 0.019629011, u'projector', 0.016351355, u'lampshade', 0.013799405, u'stage', 0.012721424]
+[u'wig', 0.17640759, u'bow_tie', 0.16636805, u'feather_boa', 0.10029063, u'candle', 0.072209701, u'seat_belt', 0.038628973]
+[u'maillot', 0.35114601, u'brassiere', 0.20458466, u'bikini', 0.19028278, u'maillot', 0.13247342, u'sock', 0.025344724]
+[u'shower_curtain', 0.20163535, u'cash_machine', 0.02111857, u'washbasin', 0.016306993, u'space_shuttle', 0.016002465, u'wall_clock', 0.01497256]
+[u'lipstick', 0.46030492, u'shower_cap', 0.11444888, u'bottlecap', 0.079485521, u'packet', 0.067570515, u'sunscreen', 0.028619645]

@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.28822327, u'castle', 0.097983845, u'prison', 0.063518398, u'palace', 0.051340722, u'shower_curtain', 0.048358206]

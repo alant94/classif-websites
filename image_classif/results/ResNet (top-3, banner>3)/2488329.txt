@@ -1,0 +1,2 @@
+[u'Walker_hound', 0.21255738, u'Greater_Swiss_Mountain_dog', 0.13373838, u'Airedale', 0.091796592]
+[u'coho', 0.73937005, u'poncho', 0.073347315, u'sturgeon', 0.018426795]

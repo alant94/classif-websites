@@ -1,0 +1,4 @@
+[u'wardrobe', 0.5033955, u'jean', 0.090448923, u'sweatshirt', 0.046912335]
+[u'notebook', 0.484732, u'lab_coat', 0.085052624, u'laptop', 0.063069008]
+[u'street_sign', 0.58544129, u'cash_machine', 0.13464867, u'web_site', 0.037829816]
+[u'crash_helmet', 0.15776366, u'ballplayer', 0.11977568, u'sarong', 0.048770562]

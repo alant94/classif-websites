@@ -1,0 +1,2 @@
+[u'library', 0.5254119, u'turnstile', 0.37313071, u'tobacco_shop', 0.078220882]
+[u'envelope', 0.14210261, u'web_site', 0.081773944, u'oil_filter', 0.036521934]

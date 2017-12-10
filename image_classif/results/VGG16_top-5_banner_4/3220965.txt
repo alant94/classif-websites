@@ -1,0 +1,4 @@
+[u'traffic_light', 0.33963668, u'street_sign', 0.11912981, u'hook', 0.10413116, u'birdhouse', 0.023880454, u'chime', 0.022564249]
+[u'bell_cote', 0.14952271, u'book_jacket', 0.13614847, u'envelope', 0.059543446, u'lighter', 0.051149588, u'analog_clock', 0.040415987]
+[u'vault', 0.24276015, u'monastery', 0.077195898, u'church', 0.060003545, u'prison', 0.052841481, u'suit', 0.046692275]
+[u'hook', 0.2394271, u'scale', 0.10470055, u'bib', 0.095371224, u'tray', 0.063592583, u'folding_chair', 0.051031575]

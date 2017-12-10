@@ -1,0 +1,3 @@
+[u'racer', 0.51050442, u'sports_car', 0.1876836, u'crash_helmet', 0.16264407, u'snowmobile', 0.029508684, u'neck_brace', 0.020662224]
+[u'crash_helmet', 0.4333539, u'sports_car', 0.19953442, u'racer', 0.15265648, u'motor_scooter', 0.03985234, u'neck_brace', 0.027025688]
+[u'racer', 0.56920987, u'sports_car', 0.34327599, u'go-kart', 0.07365375, u'cab', 0.0095233936, u'crash_helmet', 0.00082505663]

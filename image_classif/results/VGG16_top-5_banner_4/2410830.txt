@@ -1,0 +1,3 @@
+[u'torch', 0.13741896, u'mortarboard', 0.08290641, u'academic_gown', 0.063350581, u'theater_curtain', 0.031730637, u'jinrikisha', 0.028071774]
+[u'web_site', 0.43046245, u'menu', 0.39670962, u'monitor', 0.032524742, u'comic_book', 0.016205104, u'screen', 0.012385359]
+[u'abacus', 0.34647092, u'scoreboard', 0.075826898, u'book_jacket', 0.065590933, u'cinema', 0.04485818, u'barbershop', 0.04352691]

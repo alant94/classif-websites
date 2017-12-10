@@ -1,0 +1,4 @@
+[u'envelope', 0.64631623, u'web_site', 0.0853386, u'digital_clock', 0.022203883, u'Band_Aid', 0.020882092, u'wall_clock', 0.017861972]
+[u'ski', 0.47325775, u'can_opener', 0.059198558, u'clog', 0.051640548, u'paddle', 0.048359603, u'toilet_seat', 0.04407965]
+[u'web_site', 0.74122739, u'scoreboard', 0.047633056, u'street_sign', 0.021814855, u'cash_machine', 0.020694317, u'traffic_light', 0.019030919]
+[u'cash_machine', 0.49378818, u'web_site', 0.1498179, u'photocopier', 0.053438123, u'printer', 0.039323818, u'ambulance', 0.038361959]

@@ -1,0 +1,2 @@
+[u'perfume', 0.22378755, u'book_jacket', 0.21481884, u'candle', 0.1079804, u'lipstick', 0.085813902, u'red_wine', 0.058426373]
+[u'red_wine', 0.47208259, u'wine_bottle', 0.28710529, u'goblet', 0.14083162, u'cocktail_shaker', 0.024582265, u'beer_glass', 0.020900136]

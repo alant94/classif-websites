@@ -1,0 +1,2 @@
+[u'tabby', 0.57609278, u'Egyptian_cat', 0.27446797, u'tiger_cat', 0.10622603]
+[u'cinema', 0.9834584, u'barbershop', 0.0065335128, u'cash_machine', 0.0029069697]

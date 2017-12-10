@@ -1,0 +1,2 @@
+[u'book_jacket', 0.30688372, u'comic_book', 0.11790051, u'web_site', 0.10602063]
+[u'stopwatch', 0.17443223, u'whistle', 0.11806954, u'pill_bottle', 0.049597919]

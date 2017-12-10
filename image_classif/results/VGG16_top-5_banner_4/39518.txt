@@ -1,0 +1,1 @@
+[u'fountain', 0.31801566, u'theater_curtain', 0.077920608, u'butcher_shop', 0.0520887, u'beer_glass', 0.027793268, u'wardrobe', 0.027142538]

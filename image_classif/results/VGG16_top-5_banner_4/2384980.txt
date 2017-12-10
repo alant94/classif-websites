@@ -1,0 +1,4 @@
+[u'digital_clock', 0.17790869, u'crossword_puzzle', 0.15683281, u'Windsor_tie', 0.1498705, u'doormat', 0.0684788, u'maze', 0.044672247]
+[u'bottlecap', 0.71301836, u'rugby_ball', 0.074542649, u'loupe', 0.052211698, u'drum', 0.051733747, u'puck', 0.031256281]
+[u'paintbrush', 0.12346748, u'cocktail_shaker', 0.076930687, u'water_bottle', 0.058448777, u'pop_bottle', 0.04875581, u'spotlight', 0.041952249]
+[u'medicine_chest', 0.76332444, u'window_shade', 0.07311479, u'window_screen', 0.07042332, u'television', 0.015017144, u'wall_clock', 0.014847725]

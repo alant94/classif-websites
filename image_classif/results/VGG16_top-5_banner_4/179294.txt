@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.72437948, u'web_site', 0.10875567, u'screen', 0.093143761, u'monitor', 0.054995399, u'rule', 0.0034632492]
+[u'menu', 0.47917685, u'web_site', 0.13031073, u'slide_rule', 0.10866677, u'rule', 0.035523396, u'binder', 0.032230414]
+[u'binder', 0.30362037, u'envelope', 0.27273905, u'menu', 0.14958528, u'web_site', 0.083582044, u'rule', 0.039707582]
+[u'suit', 0.56766546, u'Windsor_tie', 0.074131817, u'groom', 0.069012769, u'bow_tie', 0.049704008, u'bassoon', 0.034423888]
+[u'scoreboard', 0.48672521, u'street_sign', 0.3283591, u'book_jacket', 0.03593193, u'digital_clock', 0.0089714341, u'comic_book', 0.0088500343]

@@ -1,0 +1,1 @@
+[u'safety_pin', 0.097516693, u'paintbrush', 0.094541252, u'broom', 0.051893983, u'matchstick', 0.050037555, u'bow', 0.042885154]

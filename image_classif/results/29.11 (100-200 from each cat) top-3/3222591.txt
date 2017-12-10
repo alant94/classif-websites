@@ -1,0 +1,4 @@
+[u'fountain', 0.23674764, u'seashore', 0.075124063, u'jellyfish', 0.054110244]
+[u'book_jacket', 0.49106541, u'picket_fence', 0.050518841, u'crossword_puzzle', 0.038016751]
+[u'nail', 0.29727456, u'paintbrush', 0.059329398, u'oscilloscope', 0.051686116]
+[u'orangutan', 0.10746158, u'book_jacket', 0.050121475, u'hog', 0.035518318]

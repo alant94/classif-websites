@@ -1,0 +1,5 @@
+[u'pill_bottle', 0.13366942, u'web_site', 0.065783851, u'soap_dispenser', 0.028997088]
+[u'digital_clock', 0.70849437, u'digital_watch', 0.27350393, u'traffic_light', 0.013265683]
+[u'web_site', 0.24616499, u'analog_clock', 0.062789313, u'pill_bottle', 0.044776201]
+[u'envelope', 0.16199814, u'binder', 0.14163159, u'web_site', 0.081708312]
+[u'barrel', 0.16389257, u'thimble', 0.11582819, u'clog', 0.10011312]

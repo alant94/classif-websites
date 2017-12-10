@@ -1,0 +1,6 @@
+[u'quill', 0.073030338, u'corkscrew', 0.057997782, u'book_jacket', 0.050591413, u'jersey', 0.049943075, u'envelope', 0.049449213]
+[u'pool_table', 0.16921049, u'maraca', 0.13699034, u'miniskirt', 0.065113977, u'dumbbell', 0.064977564, u'gong', 0.032985479]
+[u'home_theater', 0.27200207, u'television', 0.1031801, u'cinema', 0.069126792, u'moving_van', 0.042057052, u'groom', 0.033674352]
+[u'mortarboard', 0.18988904, u'hair_spray', 0.14704376, u'plunger', 0.068014815, u'wig', 0.037680678, u'cloak', 0.036653087]
+[u'web_site', 0.23293851, u'notebook', 0.052414265, u'cellular_telephone', 0.052301571, u'ice_lolly', 0.040750645, u'hair_spray', 0.038865037]
+[u'groom', 0.089153878, u'miniskirt', 0.08128313, u'bow_tie', 0.070451804, u'wig', 0.046887491, u'feather_boa', 0.035482328]

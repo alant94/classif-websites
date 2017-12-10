@@ -1,0 +1,2 @@
+[u'English_foxhound', 0.41564241, u'Old_English_sheepdog', 0.19009997, u'wire-haired_fox_terrier', 0.094912075]
+[u'kelpie', 0.23314989, u'German_shepherd', 0.17658406, u'Appenzeller', 0.061360385]

@@ -1,0 +1,5 @@
+[u'breastplate', 0.44488701, u'barber_chair', 0.12500717, u'neck_brace', 0.099198908]
+[u'comic_book', 0.97978848, u'book_jacket', 0.019207766, u'laptop', 9.7214594e-05]
+[u'espresso_maker', 0.90240008, u'frying_pan', 0.014974116, u'coffeepot', 0.011472965]
+[u'analog_clock', 0.12552646, u'stopwatch', 0.0686277, u'tripod', 0.062781632]
+[u'clumber', 0.2937921, u'oboe', 0.11048722, u'oxygen_mask', 0.053172171]

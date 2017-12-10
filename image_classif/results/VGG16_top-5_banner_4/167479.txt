@@ -1,0 +1,5 @@
+[u'stage', 0.3235206, u'altar', 0.088306971, u'mask', 0.086947754, u'comic_book', 0.065029792, u'electric_guitar', 0.037113898]
+[u'gown', 0.23785798, u'wardrobe', 0.12063199, u'shoe_shop', 0.069797263, u'bikini', 0.04494454, u'sarong', 0.043931525]
+[u'washbasin', 0.086927243, u'toilet_seat', 0.070001848, u'bathtub', 0.046347246, u'shower_curtain', 0.041415196, u'envelope', 0.034761]
+[u'digital_clock', 0.15787727, u'washbasin', 0.057537403, u'wall_clock', 0.044363469, u'shower_curtain', 0.031558443, u'cash_machine', 0.029506989]
+[u'digital_clock', 0.14422794, u'wall_clock', 0.084976248, u'analog_clock', 0.065208875, u'television', 0.048664536, u'traffic_light', 0.045311909]

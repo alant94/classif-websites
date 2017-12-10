@@ -1,0 +1,2 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'iPod', 0.48945028, u'cellular_telephone', 0.47652397, u'hand-held_computer', 0.010555049, u'desktop_computer', 0.0043772729, u'modem', 0.0023565744]

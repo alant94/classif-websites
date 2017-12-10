@@ -1,0 +1,3 @@
+[u'pick', 0.14275603, u'book_jacket', 0.095886797, u'sunscreen', 0.068959169, u'puck', 0.050427314, u'pill_bottle', 0.046329901]
+[u'pick', 0.36951825, u'book_jacket', 0.051165592, u'jersey', 0.048427992, u'envelope', 0.037398458, u'packet', 0.021326613]
+[u'bearskin', 0.14179005, u'palace', 0.11466542, u'maypole', 0.065856077, u'bell_cote', 0.061687604, u'obelisk', 0.058660422]

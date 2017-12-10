@@ -1,0 +1,1 @@
+[u'crash_helmet', 0.39041317, u'balloon', 0.10876271, u'croquet_ball', 0.096816957, u'racket', 0.054355193, u'volleyball', 0.042620976]

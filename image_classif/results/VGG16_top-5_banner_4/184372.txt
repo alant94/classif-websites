@@ -1,0 +1,1 @@
+[u'seashore', 0.22417738, u'geyser', 0.11780135, u'lakeside', 0.03815563, u'volcano', 0.038035084, u'wreck', 0.037706461]

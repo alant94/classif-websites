@@ -1,0 +1,3 @@
+[u'screen', 0.23027164, u'modem', 0.1030938, u'oscilloscope', 0.057782777]
+[u'alp', 0.21160616, u'geyser', 0.14795572, u'castle', 0.08646182]
+[u'screen', 0.11806557, u"carpenter's_kit", 0.099288054, u'oscilloscope', 0.075463489]

@@ -1,0 +1,2 @@
+[u'Windsor_tie', 0.091626637, u'jigsaw_puzzle', 0.059001803, u'stole', 0.018396357, u'wall_clock', 0.017756375, u'Petri_dish', 0.016841816]
+[u'nail', 0.14050633, u'screw', 0.10225923, u'screwdriver', 0.051031165, u'chime', 0.032364752, u"carpenter's_kit", 0.030826475]

@@ -1,0 +1,2 @@
+[u'Egyptian_cat', 0.79564404, u'tabby', 0.10905807, u'tiger_cat', 0.047429923, u'lynx', 0.020451715, u'wombat', 0.011091455]
+[u'cinema', 0.93757081, u'library', 0.013514699, u'bookshop', 0.0093158316, u'picket_fence', 0.0068722148, u'restaurant', 0.0049312264]

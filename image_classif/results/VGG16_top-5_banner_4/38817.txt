@@ -1,0 +1,7 @@
+[u'lynx', 0.14986572, u'Angora', 0.1426596, u'feather_boa', 0.068876088, u'remote_control', 0.045340978, u'Egyptian_cat', 0.041547742]
+[u'Persian_cat', 0.48381796, u'groenendael', 0.055116829, u'plastic_bag', 0.035667609, u'laptop', 0.031043572, u'computer_keyboard', 0.028306391]
+[u'lynx', 0.48593357, u'Egyptian_cat', 0.1100582, u'tabby', 0.059897214, u'Persian_cat', 0.037327439, u'Siamese_cat', 0.032031849]
+[u'lynx', 0.53211516, u'Persian_cat', 0.30262649, u'Siamese_cat', 0.023187613, u'lion', 0.016240973, u'tabby', 0.011314576]
+[u'tiger_cat', 0.44948941, u'tabby', 0.10072714, u'plastic_bag', 0.094231762, u'Egyptian_cat', 0.039834518, u'lynx', 0.025735071]
+[u'plastic_bag', 0.40213224, u'tabby', 0.1377584, u'tub', 0.045223963, u'hamper', 0.038174972, u'bathtub', 0.037723094]
+[u'menu', 0.27738857, u'envelope', 0.10014877, u'web_site', 0.05807298, u'crossword_puzzle', 0.057513889, u'lynx', 0.045776382]

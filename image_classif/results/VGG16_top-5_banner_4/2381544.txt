@@ -1,0 +1,2 @@
+[u'goldfinch', 0.31756341, u'black_and_gold_garden_spider', 0.11270788, u'bulbul', 0.098525368, u'jacamar', 0.057935383, u'macaw', 0.05387399]
+[u'oil_filter', 0.73648632, u'whistle', 0.052350231, u'screwdriver', 0.020536829, u'Band_Aid', 0.020513261, u'matchstick', 0.012237689]

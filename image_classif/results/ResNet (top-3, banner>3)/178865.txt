@@ -1,0 +1,7 @@
+[u'tennis_ball', 0.95238066, u'coil', 0.025909407, u'green_mamba', 0.0048304913]
+[u'prayer_rug', 0.26673791, u'digital_clock', 0.090312332, u'street_sign', 0.066469014]
+[u'prayer_rug', 0.15295331, u'shield', 0.058194242, u'digital_clock', 0.054806612]
+[u'breastplate', 0.2696459, u'comic_book', 0.10828551, u'cuirass', 0.091272891]
+[u'prayer_rug', 0.79439306, u'tray', 0.068782136, u'crossword_puzzle', 0.046533313]
+[u'book_jacket', 0.59984487, u'comic_book', 0.38332632, u'barbershop', 0.0047094217]
+[u'rock_beauty', 0.46344107, u'tennis_ball', 0.24087416, u'ski', 0.032183714]

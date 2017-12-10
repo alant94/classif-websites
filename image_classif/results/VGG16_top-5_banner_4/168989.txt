@@ -1,0 +1,3 @@
+[u'stage', 0.22193496, u'electric_guitar', 0.19079059, u'chain_saw', 0.064171933, u'sax', 0.04956359, u'comic_book', 0.02984965]
+[u'electric_guitar', 0.26513562, u'stage', 0.093730502, u'acoustic_guitar', 0.054868601, u'wardrobe', 0.050300058, u'cleaver', 0.041726146]
+[u'harp', 0.28010246, u'panpipe', 0.21883996, u'accordion', 0.044791739, u'sarong', 0.031660996, u'chain_mail', 0.031373832]

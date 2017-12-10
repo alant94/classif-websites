@@ -1,0 +1,6 @@
+[u'swab', 0.14332601, u'quill', 0.13834441, u'whistle', 0.056707274, u'broom', 0.051026057, u'hair_slide', 0.045045819]
+[u'pick', 0.38453141, u'plate_rack', 0.24124943, u'tray', 0.043032199, u'toilet_seat', 0.036752779, u'plate', 0.02546077]
+[u'beer_bottle', 0.27071819, u'wine_bottle', 0.10594159, u'pop_bottle', 0.08576712, u'picket_fence', 0.036858633, u'water_bottle', 0.034585733]
+[u'wall_clock', 0.11525417, u'toilet_seat', 0.10884109, u'digital_watch', 0.098724753, u'scale', 0.072073065, u'analog_clock', 0.049427498]
+[u'rugby_ball', 0.19179696, u'airship', 0.10693357, u'pick', 0.066646039, u'odometer', 0.051722374, u'digital_clock', 0.049725838]
+[u"carpenter's_kit", 0.2312443, u'bolo_tie', 0.14881979, u'jersey', 0.080543056, u'screwdriver', 0.069847941, u'comic_book', 0.047874983]

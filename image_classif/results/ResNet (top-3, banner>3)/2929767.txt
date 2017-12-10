@@ -1,0 +1,5 @@
+[u'coral_fungus', 0.14044638, u'jellyfish', 0.097685017, u'jersey', 0.075583346]
+[u'book_jacket', 0.23709352, u'tennis_ball', 0.21921335, u'web_site', 0.026920972]
+[u'hook', 0.18109575, u'tripod', 0.098535478, u'beacon', 0.051348127]
+[u'book_jacket', 0.086297207, u'screen', 0.06597469, u'spider_web', 0.056750096]
+[u'sea_lion', 0.3562513, u'scuba_diver', 0.17041235, u'nematode', 0.082253709]

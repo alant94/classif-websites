@@ -1,0 +1,3 @@
+[u'hartebeest', 0.16501233, u'impala', 0.15814874, u'ox', 0.10416431, u'plow', 0.084979467, u'oxcart', 0.076392189]
+[u'ibex', 0.30912334, u'hartebeest', 0.21317948, u'impala', 0.1959236, u'wallaby', 0.061067156, u'ox', 0.060661141]
+[u'puffer', 0.050351623, u'hare', 0.040809598, u'rock_beauty', 0.036514357, u'stingray', 0.035754193, u'wood_rabbit', 0.031988427]

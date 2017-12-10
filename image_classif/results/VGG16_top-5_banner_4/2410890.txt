@@ -1,0 +1,3 @@
+[u'waffle_iron', 0.77580577, u'microphone', 0.084738791, u'computer_keyboard', 0.029004106, u'honeycomb', 0.022817751, u'space_bar', 0.011719524]
+[u'web_site', 0.22828667, u'book_jacket', 0.081156477, u'Windsor_tie', 0.06661237, u'hand-held_computer', 0.059234463, u'television', 0.050009977]
+[u'corkscrew', 0.23433599, u'can_opener', 0.12928186, u'letter_opener', 0.087629206, u'mortarboard', 0.036846839, u'whistle', 0.035839628]

@@ -1,0 +1,8 @@
+[u'brassiere', 0.30571929, u'swimming_trunks', 0.28435472, u'bath_towel', 0.13059108]
+[u'bikini', 0.79116631, u'chain', 0.11911483, u'sandal', 0.023774169]
+[u'microphone', 0.26305565, u'pick', 0.10509665, u'fur_coat', 0.050176878]
+[u'dumbbell', 0.16021073, u'radiator', 0.12533371, u'lighter', 0.1223041]
+[u'iron', 0.47013876, u'notebook', 0.045248065, u'laptop', 0.031474814]
+[u'Indian_elephant', 0.58625692, u'tusker', 0.16388559, u'bathing_cap', 0.029212102]
+[u'gown', 0.28264236, u'studio_couch', 0.061552439, u'oboe', 0.060210355]
+[u'miniskirt', 0.22560591, u'violin', 0.076039597, u'toilet_tissue', 0.056938678]

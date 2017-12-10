@@ -1,0 +1,2 @@
+[u'jersey', 0.23714235, u'puck', 0.20492567, u'packet', 0.11714246, u'beer_bottle', 0.064736374, u'book_jacket', 0.033368554]
+[u'jersey', 0.37423855, u'book_jacket', 0.059406921, u'pick', 0.058680523, u'sweatshirt', 0.054061919, u'puck', 0.032798655]

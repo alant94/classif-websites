@@ -1,0 +1,2 @@
+[u'traffic_light', 0.36783534, u'beacon', 0.10503891, u'envelope', 0.053265717, u'airship', 0.049400296, u'flagpole', 0.047680549]
+[u'scoreboard', 0.49250573, u'barbershop', 0.18522587, u'pop_bottle', 0.076327749, u'book_jacket', 0.042078044, u'vending_machine', 0.020303465]

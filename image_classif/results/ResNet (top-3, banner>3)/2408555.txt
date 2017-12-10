@@ -1,0 +1,2 @@
+[u'screw', 0.76052666, u'nail', 0.12408782, u'scabbard', 0.064748853]
+[u'street_sign', 0.22553793, u'puck', 0.12989224, u'paddlewheel', 0.039947841]

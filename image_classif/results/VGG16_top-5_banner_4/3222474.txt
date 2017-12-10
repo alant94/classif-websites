@@ -1,0 +1,1 @@
+[u'perfume', 0.30780232, u'lighter', 0.14229913, u'candle', 0.060453024, u'safety_pin', 0.045827542, u'corkscrew', 0.040147115]

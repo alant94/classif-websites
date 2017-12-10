@@ -1,0 +1,8 @@
+[u'chain', 0.17387001, u'hook', 0.15056354, u'nail', 0.040689137]
+[u'toilet_seat', 0.16952156, u"jack-o'-lantern", 0.10825359, u'face_powder', 0.093876094]
+[u'hartebeest', 0.23634696, u'Indian_elephant', 0.11402091, u'vizsla', 0.059516553]
+[u"jack-o'-lantern", 0.27538893, u'nematode', 0.14386649, u'toilet_seat', 0.068639539]
+[u'shield', 0.45451126, u'face_powder', 0.088149689, u"jack-o'-lantern", 0.065606505]
+[u'picket_fence', 0.17739561, u'cliff', 0.068694323, u'web_site', 0.046663586]
+[u'jeep', 0.77688396, u'lawn_mower', 0.10512237, u'chain_saw', 0.050035391]
+[u'face_powder', 0.15451144, u'shield', 0.153207, u'drum', 0.082240596]

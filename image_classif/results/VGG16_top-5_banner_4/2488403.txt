@@ -1,0 +1,1 @@
+[u'chain', 0.35289809, u'street_sign', 0.14806509, u'hook', 0.12388632, u'cinema', 0.093871616, u'scoreboard', 0.030646985]

@@ -1,0 +1,7 @@
+[u'face_powder', 0.2242194, u'scale', 0.2003624, u'perfume', 0.056656785, u'mousetrap', 0.047243491, u'loupe', 0.036289159]
+[u'binder', 0.1938383, u'envelope', 0.065174483, u'carton', 0.040076569, u'combination_lock', 0.035309903, u'book_jacket', 0.035146624]
+[u'lighter', 0.14739294, u'pencil_sharpener', 0.078354195, u'perfume', 0.071617499, u'red_wine', 0.065977946, u'lipstick', 0.053483691]
+[u'analog_clock', 0.52710325, u'barometer', 0.39551356, u'wall_clock', 0.025568379, u'magnetic_compass', 0.021316007, u'scale', 0.015513775]
+[u'matchstick', 0.057214562, u'nematode', 0.038676534, u'lighter', 0.024194313, u'digital_clock', 0.02253814, u'spotlight', 0.018174075]
+[u'bottlecap', 0.90036666, u'bolo_tie', 0.030879302, u'pencil_sharpener', 0.0076594427, u'corkscrew', 0.0073043709, u'baseball', 0.0068969671]
+[u'quill', 0.13955306, u'conch', 0.12228009, u'candle', 0.050334536, u'space_shuttle', 0.04728467, u'balance_beam', 0.031651635]

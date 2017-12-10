@@ -1,0 +1,4 @@
+[u'macaw', 0.77870417, u'African_grey', 0.064013571, u'vulture', 0.023595542, u'cock', 0.02285783, u'bow', 0.014145077]
+[u'croquet_ball', 0.3466188, u'ballplayer', 0.081727609, u'Leonberg', 0.033816762, u'maze', 0.031727519, u'golf_ball', 0.025939412]
+[u'picket_fence', 0.26036137, u'worm_fence', 0.19828378, u'patio', 0.19200847, u'greenhouse', 0.060388707, u'stone_wall', 0.049286276]
+[u'ashcan', 0.30041012, u'cash_machine', 0.12277368, u'plastic_bag', 0.10871536, u'book_jacket', 0.078401648, u'mailbox', 0.060881104]

@@ -1,0 +1,1 @@
+[u'digital_clock', 0.10402589, u'nematode', 0.071378462, u'oscilloscope', 0.043258637, u'mantis', 0.035737403, u'hook', 0.033450723]

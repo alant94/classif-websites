@@ -1,0 +1,5 @@
+[u'crib', 0.67326885, u'picket_fence', 0.15434465, u'studio_couch', 0.026805047, u'rocking_chair', 0.013605385, u'patio', 0.011466142]
+[u'street_sign', 0.20982149, u'book_jacket', 0.15774101, u'web_site', 0.15378438, u'cash_machine', 0.035139777, u'menu', 0.029912665]
+[u'book_jacket', 0.16907856, u'scoreboard', 0.1072869, u'cash_machine', 0.081237428, u'street_sign', 0.07517606, u'hair_spray', 0.039628942]
+[u'worm_fence', 0.49119997, u'chainlink_fence', 0.050121248, u'ostrich', 0.035526831, u'pole', 0.02780435, u'turnstile', 0.017341297]
+[u'envelope', 0.02694913, u'sea_snake', 0.014542724, u'dugong', 0.014453479, u'snorkel', 0.014039911, u'parachute', 0.013688925]

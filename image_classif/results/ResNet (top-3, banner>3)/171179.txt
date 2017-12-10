@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.52840847, u'hair_spray', 0.23422304, u'perfume', 0.044634305]
+[u'plate_rack', 0.32371041, u'swab', 0.035177596, u'pill_bottle', 0.025049049]
+[u'Band_Aid', 0.5873, u'barbershop', 0.068979822, u'vending_machine', 0.022675656]

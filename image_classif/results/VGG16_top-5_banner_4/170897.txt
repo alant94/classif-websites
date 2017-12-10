@@ -1,0 +1,4 @@
+[u'beaker', 0.39737189, u'measuring_cup', 0.12838636, u'swab', 0.085711136, u'broom', 0.078172132, u'apron', 0.050748039]
+[u'web_site', 0.15810822, u'book_jacket', 0.067486823, u'ski', 0.045874473, u'throne', 0.035471279, u'comic_book', 0.029583201]
+[u'web_site', 0.60070908, u'envelope', 0.09071435, u'whistle', 0.020714285, u'rule', 0.020538753, u'analog_clock', 0.018183056]
+[u'television', 0.17085804, u'web_site', 0.1396198, u'tray', 0.066968627, u'monitor', 0.064651616, u'envelope', 0.06288781]

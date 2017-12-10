@@ -1,0 +1,2 @@
+[u'television', 0.42224386, u'screen', 0.31724077, u'iPod', 0.061078448, u'monitor', 0.054897022, u'web_site', 0.036519289]
+[u'alp', 0.38821593, u'stupa', 0.090716012, u'book_jacket', 0.024403917, u'envelope', 0.023756741, u'picket_fence', 0.018300459]

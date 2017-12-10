@@ -1,0 +1,3 @@
+[u'miniskirt', 0.82103187, u'brassiere', 0.085431181, u'bikini', 0.038481336]
+[u'Windsor_tie', 0.11485908, u'barbershop', 0.094700433, u'lab_coat', 0.080032535]
+[u'bikini', 0.33392996, u'comic_book', 0.14506494, u'maillot', 0.07514216]

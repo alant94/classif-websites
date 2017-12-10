@@ -1,0 +1,6 @@
+[u'ambulance', 0.32169315, u'fire_engine', 0.15450986, u'book_jacket', 0.1025328]
+[u'web_site', 0.58162719, u'envelope', 0.018231723, u'book_jacket', 0.011455993]
+[u'Band_Aid', 0.68342328, u'ambulance', 0.18872234, u'stretcher', 0.022651097]
+[u'drum', 0.76706386, u'steel_drum', 0.10387181, u'marimba', 0.10134947]
+[u'flute', 0.56248283, u'panpipe', 0.26033893, u'harmonica', 0.10765047]
+[u'kimono', 0.12753579, u'stretcher', 0.11609033, u'flute', 0.053782079]

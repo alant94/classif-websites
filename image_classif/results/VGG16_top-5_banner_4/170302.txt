@@ -1,0 +1,1 @@
+[u'digital_clock', 0.055630915, u'matchstick', 0.053265061, u'lighter', 0.032488365, u'nematode', 0.028401218, u'web_site', 0.020142669]

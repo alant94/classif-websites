@@ -1,0 +1,2 @@
+[u'triumphal_arch', 0.20540017, u'space_shuttle', 0.18941651, u'rifle', 0.16270415]
+[u'red_wine', 0.16674963, u'book_jacket', 0.15444897, u'doormat', 0.069040366]

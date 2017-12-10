@@ -1,0 +1,4 @@
+[u'book_jacket', 0.14131035, u'space_shuttle', 0.050512943, u'perfume', 0.022875668, u'matchstick', 0.019133307, u'street_sign', 0.018894117]
+[u'hammerhead', 0.071527317, u'cash_machine', 0.033164464, u'web_site', 0.028021976, u'envelope', 0.024088174, u'sea_anemone', 0.02266584]
+[u'cleaver', 0.058850963, u'safety_pin', 0.038380735, u'hook', 0.030133933, u'lighter', 0.029961482, u'space_shuttle', 0.028607406]
+[u'cash_machine', 0.084854029, u'switch', 0.074184805, u'cellular_telephone', 0.065882608, u'hook', 0.059193105, u'modem', 0.056741059]

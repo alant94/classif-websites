@@ -1,0 +1,4 @@
+[u'beer_glass', 0.99217635, u'theater_curtain', 0.0026778607, u'perfume', 0.0010351796, u'goblet', 0.00043411014, u'beer_bottle', 0.00034475213]
+[u'bow_tie', 0.17917109, u'neck_brace', 0.058973674, u'chain_mail', 0.048313193, u'drumstick', 0.047631208, u'Windsor_tie', 0.04109579]
+[u'window_screen', 0.18480408, u'West_Highland_white_terrier', 0.028549938, u'sliding_door', 0.024967557, u'Border_terrier', 0.023203833, u'Lhasa', 0.019125698]
+[u'matchstick', 0.59222579, u'picket_fence', 0.17107417, u'envelope', 0.039424472, u'syringe', 0.024826329, u'Band_Aid', 0.018257083]

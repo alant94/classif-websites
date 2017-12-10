@@ -1,0 +1,5 @@
+[u'binder', 0.24687883, u'book_jacket', 0.18669875, u'envelope', 0.089693844]
+[u'television', 0.34851357, u'screen', 0.15640333, u'monitor', 0.14811501]
+[u'cardoon', 0.57394391, u'fire_screen', 0.13263641, u'television', 0.049063399]
+[u'Afghan_hound', 0.2870506, u'book_jacket', 0.23069893, u'television', 0.033030801]
+[u'barn_spider', 0.19762963, u'steel_arch_bridge', 0.044429004, u'web_site', 0.043875244]

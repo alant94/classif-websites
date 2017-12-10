@@ -1,0 +1,2 @@
+[u'night_snake', 0.13374114, u'prairie_chicken', 0.095129833, u'king_snake', 0.08525794]
+[u'impala', 0.31642738, u'bighorn', 0.22923815, u'ibex', 0.15082745]

@@ -1,0 +1,4 @@
+[u'nail', 0.38408527, u'hammer', 0.060604777, u'hook', 0.034358721, u'cleaver', 0.03121217, u'corkscrew', 0.0216542]
+[u'puck', 0.34350896, u'bottlecap', 0.22068702, u'face_powder', 0.065519489, u'buckle', 0.054533873, u'chocolate_sauce', 0.027812194]
+[u'jersey', 0.16193472, u'bolo_tie', 0.070021875, u'buckle', 0.04939818, u'wall_clock', 0.046560604, u'digital_clock', 0.042957604]
+[u"carpenter's_kit", 0.53106415, u'screwdriver', 0.30237055, u'paintbrush', 0.02028225, u'broom', 0.014662941, u'safety_pin', 0.01454843]

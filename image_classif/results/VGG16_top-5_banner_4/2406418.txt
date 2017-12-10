@@ -1,0 +1,3 @@
+[u'chain_saw', 0.15164995, u'ski', 0.14374986, u'assault_rifle', 0.076789849, u'rifle', 0.060828123, u'screwdriver', 0.051231474]
+[u'ski', 0.093360417, u'chain_saw', 0.090491854, u'traffic_light', 0.087794669, u'hatchet', 0.071124703, u'snowplow', 0.049587976]
+[u'military_uniform', 0.12339927, u'fountain', 0.083406948, u'rifle', 0.058714148, u'bow', 0.035409432, u'cliff', 0.029070115]

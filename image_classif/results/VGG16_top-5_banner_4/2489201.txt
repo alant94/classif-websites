@@ -1,0 +1,3 @@
+[u'ibex', 0.40987864, u'impala', 0.26133776, u'hartebeest', 0.071001269, u'dhole', 0.065184012, u'bighorn', 0.051249072]
+[u'flagpole', 0.54702568, u'pole', 0.19792393, u'swing', 0.024319485, u'maypole', 0.019047713, u'mobile_home', 0.017859453]
+[u'impala', 0.082586892, u'book_jacket', 0.068781532, u'fountain', 0.057628665, u'coffee_mug', 0.039902568, u'tray', 0.024701066]

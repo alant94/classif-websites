@@ -1,0 +1,2 @@
+[u'garbage_truck', 0.18868494, u'container_ship', 0.16446787, u'envelope', 0.10246097, u'binder', 0.087382719, u'monitor', 0.082214288]
+[u'pot', 0.85410279, u'daisy', 0.012637009, u'mantis', 0.0086365817, u'white_stork', 0.0080005005, u'greenhouse', 0.0062808176]

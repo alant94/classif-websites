@@ -1,0 +1,4 @@
+[u'ibex', 0.21407804, u'parachute', 0.13965693, u'balloon', 0.062361754, u'corkscrew', 0.035135757, u'bald_eagle', 0.033811178]
+[u'bison', 0.17273453, u'worm_fence', 0.15239336, u'alp', 0.15082748, u'lakeside', 0.119817, u'valley', 0.099706858]
+[u'chain', 0.18023843, u'hook', 0.13520016, u'analog_clock', 0.12724856, u'wall_clock', 0.063963264, u'stopwatch', 0.052032273]
+[u'shoe_shop', 0.17279804, u'butcher_shop', 0.099294506, u'barrel', 0.099180654, u'vault', 0.048647698, u'restaurant', 0.039792947]

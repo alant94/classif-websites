@@ -1,0 +1,7 @@
+[u'crossword_puzzle', 0.52412158, u'digital_clock', 0.087021254, u'web_site', 0.081716359]
+[u'vestment', 0.38399103, u'gown', 0.20155266, u'cloak', 0.098246917]
+[u'kimono', 0.13664715, u'abaya', 0.09197735, u'jean', 0.058115341]
+[u'trench_coat', 0.40797362, u'cardigan', 0.20203748, u'sweatshirt', 0.052959774]
+[u'suit', 0.37846619, u'trench_coat', 0.14089638, u'lab_coat', 0.098856375]
+[u'digital_clock', 0.36321777, u'crossword_puzzle', 0.20047124, u'tripod', 0.049279954]
+[u'espresso', 0.7413947, u'cup', 0.21691474, u'coffee_mug', 0.028744141]

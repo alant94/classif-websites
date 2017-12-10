@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.25965926, u'washbasin', 0.086208738, u'toilet_seat', 0.043547284, u'crossword_puzzle', 0.038048089, u'cash_machine', 0.037249599]

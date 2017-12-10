@@ -1,0 +1,3 @@
+[u'milk_can', 0.88406199, u'stove', 0.028281216, u'rotisserie', 0.026609151, u'barrel', 0.024734072, u'rain_barrel', 0.0065979953]
+[u'perfume', 0.42872289, u'cocktail_shaker', 0.19346607, u'fountain_pen', 0.030184178, u'paintbrush', 0.027434718, u'red_wine', 0.027216507]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

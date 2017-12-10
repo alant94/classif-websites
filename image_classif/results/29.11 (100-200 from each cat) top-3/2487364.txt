@@ -1,0 +1,3 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'hartebeest', 0.62708688, u'gazelle', 0.3209506, u'ibex', 0.037181295]
+[u'web_site', 0.39335459, u'matchstick', 0.040368821, u'nematode', 0.039273329]

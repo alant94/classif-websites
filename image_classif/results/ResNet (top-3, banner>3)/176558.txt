@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'barbershop', 0.31150046, u'comic_book', 0.19163443, u'web_site', 0.16663817]
+[u'fountain', 0.98130578, u'stage', 0.0037659127, u'web_site', 0.0026532284]
+[u'bakery', 0.46590042, u'barbershop', 0.42002538, u'tobacco_shop', 0.032280579]
+[u'book_jacket', 0.24414818, u'comic_book', 0.1549837, u'web_site', 0.087909855]

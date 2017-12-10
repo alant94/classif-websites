@@ -1,0 +1,1 @@
+[u'screwdriver', 0.34378347, u"carpenter's_kit", 0.12136792, u'digital_clock', 0.064481072, u'digital_watch', 0.062703885, u'maze', 0.050502568]

@@ -1,0 +1,4 @@
+[u'candle', 0.15124556, u'theater_curtain', 0.11175651, u'binder', 0.071111083]
+[u'web_site', 0.34015635, u'screen', 0.20977201, u'digital_clock', 0.1178637]
+[u'paintbrush', 0.088812441, u'fountain', 0.080030315, u'jigsaw_puzzle', 0.053971007]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

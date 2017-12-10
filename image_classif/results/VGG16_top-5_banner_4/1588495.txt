@@ -1,0 +1,1 @@
+[u'neck_brace', 0.10144536, u'washer', 0.097378395, u'jersey', 0.07967779, u'hair_spray', 0.054480586, u'gasmask', 0.050416391]

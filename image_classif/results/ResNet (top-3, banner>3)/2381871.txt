@@ -1,0 +1,3 @@
+[u'alp', 0.67204499, u'valley', 0.082174167, u'book_jacket', 0.037942145]
+[u'book_jacket', 0.37742373, u'rule', 0.12056085, u'jigsaw_puzzle', 0.057079032]
+[u'picket_fence', 0.44657439, u'barbershop', 0.20369665, u'flagpole', 0.11205523]

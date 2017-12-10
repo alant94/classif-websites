@@ -1,0 +1,1 @@
+[u'paddlewheel', 0.093955725, u'street_sign', 0.065987535, u'book_jacket', 0.06099556, u'lampshade', 0.05829528, u'cinema', 0.045862846]

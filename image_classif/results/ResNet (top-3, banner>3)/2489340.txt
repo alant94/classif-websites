@@ -1,0 +1,4 @@
+[u'book_jacket', 0.83414817, u'rule', 0.023939267, u'prayer_rug', 0.016042646]
+[u'digital_clock', 0.70290232, u'digital_watch', 0.14468528, u'book_jacket', 0.049481276]
+[u'web_site', 0.66890627, u'envelope', 0.011400963, u'theater_curtain', 0.010610147]
+[u'web_site', 0.20371881, u'envelope', 0.086805947, u'pinwheel', 0.040773708]

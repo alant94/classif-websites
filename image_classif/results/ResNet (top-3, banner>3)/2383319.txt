@@ -1,0 +1,2 @@
+[u'knee_pad', 0.17808473, u'maillot', 0.063539349, u'neck_brace', 0.046875402]
+[u'television', 0.19377643, u'wallet', 0.16383992, u'web_site', 0.075886868]

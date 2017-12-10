@@ -1,0 +1,3 @@
+[u'envelope', 0.10726598, u'web_site', 0.055030409, u'Band_Aid', 0.023326911, u'wardrobe', 0.017469732, u'hook', 0.0162018]
+[u'envelope', 0.088823706, u'web_site', 0.058354035, u'abaya', 0.023081407, u'knee_pad', 0.022821967, u'wardrobe', 0.020376205]
+[u'envelope', 0.20754671, u'binder', 0.10620171, u'lighter', 0.040906116, u'hook', 0.039253093, u'notebook', 0.035368241]

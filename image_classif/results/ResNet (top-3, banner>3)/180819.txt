@@ -1,0 +1,4 @@
+[u'gown', 0.52240604, u'jean', 0.068147495, u'kimono', 0.05465949]
+[u'fountain', 0.69350791, u'throne', 0.28724015, u'gown', 0.0043395506]
+[u'web_site', 0.95013875, u'iPod', 0.0087347338, u'vending_machine', 0.0086333826]
+[u'banjo', 0.88413805, u'electric_guitar', 0.04313498, u'sax', 0.012133143]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.32150576, u'menu', 0.05918787, u'scoreboard', 0.051325567]
+[u'swing', 0.15785988, u'carousel', 0.12331798, u'bathing_cap', 0.11999889]
+[u'analog_clock', 0.11677318, u'rule', 0.067668073, u'hook', 0.055849589]

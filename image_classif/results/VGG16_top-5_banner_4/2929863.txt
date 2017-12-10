@@ -1,0 +1,6 @@
+[u'wig', 0.37253371, u'hair_spray', 0.11029849, u'bikini', 0.050918106, u'brassiere', 0.042774647, u'hair_slide', 0.028720222]
+[u'rapeseed', 0.53514725, u'lakeside', 0.13111134, u'alp', 0.056183293, u'lemon', 0.028739439, u'valley', 0.023678528]
+[u'packet', 0.20114316, u'book_jacket', 0.11632189, u'web_site', 0.097066455, u'rubber_eraser', 0.045512967, u'sunscreen', 0.040835768]
+[u'face_powder', 0.23833932, u'puck', 0.18489307, u'bottlecap', 0.08590319, u'loupe', 0.050998911, u'book_jacket', 0.050385483]
+[u'sliding_door', 0.244921, u'medicine_chest', 0.085690491, u'dining_table', 0.076045431, u'bookcase', 0.051822584, u'window_shade', 0.036843829]
+[u'pinwheel', 0.31220415, u'pick', 0.056416642, u'sunscreen', 0.040010788, u'envelope', 0.039188985, u'face_powder', 0.036333814]

@@ -1,0 +1,2 @@
+[u'barrel', 0.20758595, u'gong', 0.19188678, u'puck', 0.1587068, u'barbell', 0.064445078, u'traffic_light', 0.03741077]
+[u'organ', 0.36481148, u'rubber_eraser', 0.098960415, u'paintbrush', 0.051363934, u'chime', 0.049525507, u'ballpoint', 0.038632277]

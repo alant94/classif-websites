@@ -1,0 +1,4 @@
+[u'web_site', 0.17664169, u'tennis_ball', 0.11754137, u'laptop', 0.046402786]
+[u'web_site', 0.86662692, u'envelope', 0.058887761, u'rule', 0.0057549742]
+[u'scoreboard', 0.38555425, u'web_site', 0.2365053, u'street_sign', 0.11257375]
+[u'web_site', 0.7001422, u'envelope', 0.04591671, u'menu', 0.040287461]

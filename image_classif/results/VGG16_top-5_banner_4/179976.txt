@@ -1,0 +1,1 @@
+[u'envelope', 0.71528828, u'handkerchief', 0.040910866, u'binder', 0.030294795, u'picket_fence', 0.02512818, u'wardrobe', 0.022601595]

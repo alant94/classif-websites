@@ -1,0 +1,3 @@
+[u'digital_clock', 0.44678807, u'digital_watch', 0.10463854, u'container_ship', 0.056071721, u'scoreboard', 0.048580416, u'Windsor_tie', 0.040443931]
+[u'digital_clock', 0.56903809, u'envelope', 0.053825755, u'web_site', 0.035169803, u'analog_clock', 0.031057566, u'cash_machine', 0.028114006]
+[u'fountain', 0.3437947, u'stage', 0.17987642, u'theater_curtain', 0.085221037, u'cinema', 0.043301083, u'spotlight', 0.033525918]

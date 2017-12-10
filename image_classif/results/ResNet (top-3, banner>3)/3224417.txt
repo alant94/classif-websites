@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.10352775, u'jersey', 0.05029894, u'lighter', 0.033108853]
+[u'envelope', 0.19546123, u'scuba_diver', 0.10118572, u'hammerhead', 0.036149003]
+[u'web_site', 0.45547867, u'book_jacket', 0.35441333, u'menu', 0.13305871]
+[u'pinwheel', 0.2316699, u'cabbage_butterfly', 0.12713303, u'vase', 0.079187214]
+[u'web_site', 0.46583223, u'menu', 0.13854502, u'book_jacket', 0.062731013]

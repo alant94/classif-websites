@@ -1,0 +1,6 @@
+[u'vault', 0.48161271, u'church', 0.12176739, u'altar', 0.056260739]
+[u'window_shade', 0.35648248, u'upright', 0.277569, u'grand_piano', 0.1392426]
+[u'kimono', 0.6531322, u'electric_guitar', 0.042265508, u'drum', 0.02161793]
+[u'tripod', 0.21191822, u'screw', 0.063031077, u'analog_clock', 0.049559627]
+[u'church', 0.69506907, u'altar', 0.061510004, u'vault', 0.047051694]
+[u'screen', 0.72799146, u'oscilloscope', 0.07098195, u'laptop', 0.039170768]

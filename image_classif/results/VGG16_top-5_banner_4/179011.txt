@@ -1,0 +1,2 @@
+[u'hair_slide', 0.34067547, u'safety_pin', 0.14124815, u'hook', 0.078056201, u'screwdriver', 0.066044904, u'can_opener', 0.044680718]
+[u'starfish', 0.44960353, u'triceratops', 0.17849709, u'conch', 0.070004672, u'sarong', 0.067924529, u'African_chameleon', 0.021215245]

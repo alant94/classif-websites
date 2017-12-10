@@ -1,0 +1,4 @@
+[u'guillotine', 0.051655315, u'punching_bag', 0.0376237, u'whiskey_jug', 0.037623521, u'vase', 0.036215309, u'water_jug', 0.033013545]
+[u'chimpanzee', 0.12107898, u'barbershop', 0.069002368, u'siamang', 0.049640104, u'dumbbell', 0.038462639, u'barbell', 0.030836618]
+[u'megalith', 0.99923563, u'hay', 0.00018911068, u'totem_pole', 0.00015381453, u'stone_wall', 6.6739631e-05, u'brass', 2.9993365e-05]
+[u'sturgeon', 0.30809498, u'gar', 0.23494914, u'barracouta', 0.12243197, u'coho', 0.10362998, u'lakeside', 0.057311509]

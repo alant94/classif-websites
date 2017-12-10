@@ -1,0 +1,7 @@
+[u'screwdriver', 0.26998183, u'comic_book', 0.1964909, u'rifle', 0.10006071]
+[u'fire_screen', 0.19445165, u'television', 0.1706997, u'window_screen', 0.15048215]
+[u'plate_rack', 0.19709913, u'cradle', 0.14356153, u'chime', 0.1290371]
+[u'crate', 0.27295905, u'hamper', 0.13533804, u'sliding_door', 0.053477455]
+[u'slide_rule', 0.28475615, u'syringe', 0.070959091, u'rule', 0.057762522]
+[u'fire_screen', 0.5307104, u'entertainment_center', 0.1382719, u'television', 0.10426356]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

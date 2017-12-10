@@ -1,0 +1,1 @@
+[u'reel', 0.14683002, u'buckle', 0.13904624, u'chain_saw', 0.063109681, u'pencil_sharpener', 0.04591671, u'electric_guitar', 0.045232821]

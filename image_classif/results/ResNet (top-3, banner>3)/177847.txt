@@ -1,0 +1,5 @@
+[u'book_jacket', 0.22249614, u'doormat', 0.058339596, u'loupe', 0.025012]
+[u'screen', 0.068489268, u'cash_machine', 0.067490004, u'fire_screen', 0.06539169]
+[u'promontory', 0.53214055, u'megalith', 0.14929183, u'alp', 0.063783854]
+[u'television', 0.18389279, u'proboscis_monkey', 0.098634437, u'book_jacket', 0.070941925]
+[u'racer', 0.51185119, u'sports_car', 0.20879444, u'car_wheel', 0.097778358]

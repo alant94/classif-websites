@@ -1,0 +1,7 @@
+[u'barn', 0.90784574, u'rain_barrel', 0.010909421, u'worm_fence', 0.0078307325, u'hay', 0.0075669033, u'barrel', 0.0072377422]
+[u'balloon', 0.14814563, u'parachute', 0.13028501, u'radio_telescope', 0.067721367, u'lakeside', 0.058166068, u'airship', 0.053785179]
+[u'picket_fence', 0.39950612, u'pot', 0.20323753, u'mailbox', 0.053937595, u'greenhouse', 0.048963942, u'birdhouse', 0.0428055]
+[u'thatch', 0.17105654, u'barn', 0.1514574, u'umbrella', 0.10364582, u'volcano', 0.058966827, u'mountain_tent', 0.055529449]
+[u'stone_wall', 0.13895571, u'cliff', 0.10902286, u'thatch', 0.097824678, u'megalith', 0.063900337, u'maypole', 0.046057913]
+[u'coral_reef', 0.12333068, u'jigsaw_puzzle', 0.07271377, u'jellyfish', 0.069958597, u'tray', 0.062938124, u'fountain', 0.062614299]
+[u'viaduct', 0.06692715, u'stupa', 0.064907558, u'maypole', 0.061896816, u'mountain_tent', 0.061141722, u'alp', 0.060237911]

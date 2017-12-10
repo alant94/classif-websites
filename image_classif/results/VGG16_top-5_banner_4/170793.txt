@@ -1,0 +1,2 @@
+[u'torch', 0.18032824, u'lighter', 0.09310016, u'admiral', 0.085224293, u'fire_screen', 0.068426706, u'jersey', 0.066099301]
+[u'barrel', 0.90456778, u'book_jacket', 0.021922015, u'barbershop', 0.0092659406, u'crate', 0.005836681, u'toilet_seat', 0.0046253041]

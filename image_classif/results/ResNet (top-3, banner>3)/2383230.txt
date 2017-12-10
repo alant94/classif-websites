@@ -1,0 +1,4 @@
+[u'strainer', 0.32561263, u'washbasin', 0.30001819, u'bucket', 0.077462241]
+[u'barrel', 0.79231894, u'analog_clock', 0.052220639, u'mailbox', 0.029048508]
+[u'wine_bottle', 0.43540573, u'red_wine', 0.30523628, u'whiskey_jug', 0.063045196]
+[u'window_shade', 0.099548161, u'ashcan', 0.049217165, u'television', 0.045168497]

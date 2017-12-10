@@ -1,0 +1,6 @@
+[u'fountain', 0.58078963, u'paddle', 0.34545061, u'ski', 0.034234334, u'canoe', 0.012110202, u'snowmobile', 0.0052188803]
+[u'macaw', 0.14926484, u'goldfish', 0.11715882, u'cliff', 0.1012299, u'eft', 0.07696832, u'agama', 0.076509021]
+[u'bow', 0.25770333, u'swing', 0.14326905, u'flagpole', 0.09398865, u'maypole', 0.054565579, u'pole', 0.030343711]
+[u'cliff', 0.45504397, u'mountain_bike', 0.12829904, u'alp', 0.038728897, u'vizsla', 0.02702474, u'valley', 0.023993714]
+[u'tusker', 0.56535906, u'African_elephant', 0.089572988, u'bison', 0.063150674, u'warthog', 0.06275887, u'Indian_elephant', 0.046767194]
+[u'shield', 0.57972932, u'bolo_tie', 0.14467601, u'spotlight', 0.045940883, u'magnetic_compass', 0.034900621, u'electric_fan', 0.032969713]

@@ -1,0 +1,8 @@
+[u'candle', 0.29448858, u'pedestal', 0.1297885, u'bakery', 0.071565226, u'soap_dispenser', 0.066701293, u'stove', 0.058499087]
+[u'vase', 0.26584083, u'pedestal', 0.19331425, u'saltshaker', 0.061777283, u'perfume', 0.042229109, u'hoopskirt', 0.032689516]
+[u'teapot', 0.47084942, u'soap_dispenser', 0.042796776, u'candle', 0.028395161, u'black_grouse', 0.025301959, u'vase', 0.021666003]
+[u'bookcase', 0.28735909, u'entertainment_center', 0.13527735, u'window_screen', 0.044221312, u'china_cabinet', 0.040731315, u'window_shade', 0.039592501]
+[u'vending_machine', 0.13799889, u'cassette', 0.12287034, u'comic_book', 0.1022075, u'book_jacket', 0.076814801, u'slot', 0.065786853]
+[u'web_site', 0.86488402, u'cash_machine', 0.030008823, u'pay-phone', 0.0095681939, u'hair_spray', 0.0070019029, u'jean', 0.0064251698]
+[u'monitor', 0.15048593, u'desktop_computer', 0.13403746, u'prayer_rug', 0.099549159, u'screen', 0.082715817, u'laptop', 0.033608627]
+[u'bookshop', 0.38083547, u'tobacco_shop', 0.055404786, u'toyshop', 0.045690604, u'comic_book', 0.041509625, u'book_jacket', 0.038517732]

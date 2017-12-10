@@ -1,0 +1,1 @@
+[u'fur_coat', 0.20515333, u'overskirt', 0.09126094, u'miniskirt', 0.087202556, u'hoopskirt', 0.076950915, u'poncho', 0.066757932]

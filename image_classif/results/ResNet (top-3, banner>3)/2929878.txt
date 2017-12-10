@@ -1,0 +1,3 @@
+[u'abaya', 0.20287518, u'cloak', 0.12336162, u'iron', 0.11522597]
+[u'wig', 0.10994577, u'jersey', 0.064678483, u'lab_coat', 0.042490613]
+[u'digital_watch', 0.43699789, u'digital_clock', 0.2751371, u'stopwatch', 0.055551585]

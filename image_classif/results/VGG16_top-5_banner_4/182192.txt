@@ -1,0 +1,8 @@
+[u'web_site', 0.16205104, u'envelope', 0.14565572, u'analog_clock', 0.10561272, u'wall_clock', 0.057088848, u'Band_Aid', 0.035013773]
+[u'digital_clock', 0.34386411, u'scoreboard', 0.15504883, u'envelope', 0.069197953, u'web_site', 0.040703397, u'Band_Aid', 0.029789012]
+[u'theater_curtain', 0.49228615, u'stage', 0.14930721, u'groom', 0.054661904, u'vestment', 0.029798456, u'violin', 0.025288103]
+[u'envelope', 0.10649449, u'Windsor_tie', 0.087517343, u'web_site', 0.040291261, u'jigsaw_puzzle', 0.03961264, u'traffic_light', 0.027426969]
+[u'traffic_light', 0.34007949, u'envelope', 0.12047376, u'wall_clock', 0.067154251, u'hook', 0.048358854, u'switch', 0.044598002]
+[u'clog', 0.1205165, u'teddy', 0.095361903, u'mask', 0.036032874, u'chiton', 0.032027844, u'shield', 0.029518478]
+[u'freight_car', 0.14542525, u'mobile_home', 0.13502058, u'trailer_truck', 0.091079727, u'passenger_car', 0.081240237, u'moving_van', 0.04641138]
+[u'traffic_light', 0.10527395, u'web_site', 0.08207728, u'envelope', 0.067994185, u'analog_clock', 0.055823728, u'hook', 0.046685033]

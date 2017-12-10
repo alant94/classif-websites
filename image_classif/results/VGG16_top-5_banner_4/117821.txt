@@ -1,0 +1,1 @@
+[u'cash_machine', 0.17073436, u'screen', 0.056021377, u'digital_clock', 0.037736848, u'window_shade', 0.033726994, u'monitor', 0.027297458]

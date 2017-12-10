@@ -1,0 +1,3 @@
+[u'screwdriver', 0.14574696, u'hook', 0.10435569, u'comic_book', 0.039297711]
+[u'menu', 0.40993339, u'web_site', 0.19743823, u'tray', 0.16073489]
+[u'pick', 0.98840195, u'spatula', 0.0027210568, u'envelope', 0.0018182656]

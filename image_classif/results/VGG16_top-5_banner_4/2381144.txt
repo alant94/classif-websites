@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.19643779, u'vacuum', 0.075994842, u'swab', 0.059137113, u'altar', 0.053453803, u'hair_spray', 0.050661102]
+[u'web_site', 0.21238242, u'envelope', 0.16942917, u'binder', 0.026941542, u'wall_clock', 0.02097854, u'analog_clock', 0.020671083]
+[u'shoji', 0.074170887, u'china_cabinet', 0.054470208, u'broom', 0.049309492, u'dining_table', 0.041625366, u'sliding_door', 0.033711128]
+[u'window_shade', 0.20540437, u'web_site', 0.056844268, u'sliding_door', 0.052186027, u'desk', 0.041446313, u'television', 0.039361905]
+[u'web_site', 0.088149078, u'wall_clock', 0.051517326, u'analog_clock', 0.046490435, u'envelope', 0.027429907, u'Windsor_tie', 0.02535549]

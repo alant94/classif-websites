@@ -1,0 +1,7 @@
+[u'rapeseed', 0.11583746, u'greenhouse', 0.085514829, u'grocery_store', 0.069925785, u'lakeside', 0.057572037, u'head_cabbage', 0.042129662]
+[u'menu', 0.95883089, u'packet', 0.026705204, u'envelope', 0.0051954687, u'plastic_bag', 0.0014838098, u'handkerchief', 0.0010880866]
+[u'book_jacket', 0.23018013, u'tray', 0.089083306, u'menu', 0.068896793, u'jigsaw_puzzle', 0.053536091, u'prayer_rug', 0.050780188]
+[u'envelope', 0.20792617, u'web_site', 0.1428999, u'Band_Aid', 0.062146574, u'carton', 0.030296545, u'jersey', 0.027394714]
+[u'paddlewheel', 0.68713248, u'cinema', 0.18545969, u'vending_machine', 0.028443906, u'medicine_chest', 0.01654757, u'library', 0.0096559608]
+[u'bell_cote', 0.43388152, u'stupa', 0.3909474, u'candle', 0.057093736, u'throne', 0.038568497, u'mosque', 0.025579059]
+[u'bottlecap', 0.61184055, u'beer_bottle', 0.09853863, u'puck', 0.085072242, u'buckle', 0.034106348, u'pop_bottle', 0.012461207]

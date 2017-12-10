@@ -1,0 +1,7 @@
+[u'notebook', 0.12016032, u'file', 0.059528247, u'nail', 0.051466212, u'cash_machine', 0.043049943, u'analog_clock', 0.041562073]
+[u'scoreboard', 0.049808986, u'gas_pump', 0.040726036, u'safe', 0.039088752, u'binder', 0.03744093, u'envelope', 0.03457132]
+[u'gas_pump', 0.32737678, u'scoreboard', 0.10143589, u'cash_machine', 0.073447518, u'safe', 0.061364274, u'combination_lock', 0.035300057]
+[u'Band_Aid', 0.3846477, u'envelope', 0.13066502, u'binder', 0.062164154, u'digital_clock', 0.045804787, u'scoreboard', 0.033761933]
+[u'nail', 0.074185364, u'street_sign', 0.054027155, u'cash_machine', 0.037502676, u'notebook', 0.036036212, u'hook', 0.031701103]
+[u'web_site', 0.16231491, u'monitor', 0.12935135, u'safe', 0.11863417, u'medicine_chest', 0.086794615, u'vending_machine', 0.070515156]
+[u'wall_clock', 0.13526057, u'medicine_chest', 0.091360986, u'refrigerator', 0.051381711, u'safe', 0.038357776, u'switch', 0.036613025]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.10122161, u'web_site', 0.026966864, u'rifle', 0.025837503, u'tractor', 0.024070388, u'tub', 0.023244618]
+[u'bell_cote', 0.51782978, u'necklace', 0.068190329, u'bib', 0.051874291, u'abaya', 0.041835491, u'stupa', 0.028317405]
+[u'analog_clock', 0.24594712, u'cassette', 0.17905393, u'digital_watch', 0.085926004, u'rule', 0.078113131, u'wall_clock', 0.059403352]

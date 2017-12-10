@@ -1,0 +1,2 @@
+[u'web_site', 0.76493031, u'envelope', 0.019497296, u'menu', 0.0083959978, u'crossword_puzzle', 0.0055748397, u'notebook', 0.0045462106]
+[u'Band_Aid', 0.056643251, u'digital_clock', 0.051852569, u'scoreboard', 0.022045411, u'book_jacket', 0.020377629, u'analog_clock', 0.020294722]

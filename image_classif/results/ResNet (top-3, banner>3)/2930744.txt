@@ -1,0 +1,5 @@
+[u'matchstick', 0.22451971, u'cloak', 0.10785032, u'spotlight', 0.088064834]
+[u'lakeside', 0.11098152, u'beacon', 0.05705826, u'castle', 0.054549057]
+[u'cloak', 0.12615883, u'mask', 0.063414745, u'wig', 0.06135089]
+[u'acoustic_guitar', 0.68720299, u'electric_guitar', 0.29943272, u'pick', 0.010608493]
+[u'church', 0.76604074, u'altar', 0.099466898, u'castle', 0.065554589]

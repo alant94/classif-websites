@@ -1,0 +1,3 @@
+[u'lampshade', 0.53499401, u'table_lamp', 0.45177892, u'chime', 0.0037555222]
+[u'lampshade', 0.37197033, u'table_lamp', 0.25275856, u'hamper', 0.086757183]
+[u'table_lamp', 0.77188945, u'lampshade', 0.2231738, u'hoopskirt', 0.00040235673]

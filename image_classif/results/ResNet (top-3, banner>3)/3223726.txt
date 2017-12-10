@@ -1,0 +1,7 @@
+[u'oboe', 0.90243614, u'bassoon', 0.083307065, u'flute', 0.010965708]
+[u'plate_rack', 0.7706151, u'chime', 0.187736, u'gong', 0.0062337248]
+[u'web_site', 0.94559985, u'flagpole', 0.0073825726, u'comic_book', 0.0036067921]
+[u'groom', 0.4942036, u'bow_tie', 0.13812231, u'television', 0.072182506]
+[u'book_jacket', 0.68622905, u'web_site', 0.203242, u'packet', 0.03856368]
+[u'doormat', 0.39960268, u'pot', 0.071044534, u'hamper', 0.052325215]
+[u'bald_eagle', 0.95512599, u'vulture', 0.023550598, u'kite', 0.018640347]

@@ -1,0 +1,1 @@
+[u'television', 0.49746317, u'notebook', 0.084508069, u'hand-held_computer', 0.081020422, u'monitor', 0.074229136, u'laptop', 0.072181426]

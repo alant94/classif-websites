@@ -1,0 +1,1 @@
+[u'pretzel', 0.41008049, u'mask', 0.32907712, u"jack-o'-lantern", 0.081440032, u'ski_mask', 0.015928145, u'bagel', 0.015426564]

@@ -1,0 +1,2 @@
+[u'brass', 0.20051757, u'mailbox', 0.089129835, u'library', 0.048237592, u'book_jacket', 0.040253714, u'bookshop', 0.035569154]
+[u'sliding_door', 0.24790877, u'window_shade', 0.24321026, u'shoji', 0.14431639, u'window_screen', 0.078463234, u'wardrobe', 0.060803808]

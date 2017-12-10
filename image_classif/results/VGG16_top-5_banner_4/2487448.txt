@@ -1,0 +1,4 @@
+[u'digital_clock', 0.17655794, u'digital_watch', 0.083263054, u'crossword_puzzle', 0.069288947, u'wall_clock', 0.053555217, u'cash_machine', 0.031914294]
+[u'wall_clock', 0.092349693, u'rule', 0.077219248, u'library', 0.048141088, u'picket_fence', 0.03163914, u'photocopier', 0.03122114]
+[u'rule', 0.10989263, u'matchstick', 0.069240429, u'screwdriver', 0.067260891, u'wall_clock', 0.059747644, u'picket_fence', 0.058930945]
+[u'rule', 0.14125764, u'wall_clock', 0.059300847, u'digital_watch', 0.038143855, u'switch', 0.03665898, u'safe', 0.033980701]

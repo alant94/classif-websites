@@ -1,0 +1,5 @@
+[u'web_site', 0.71719885, u'nail', 0.078779437, u'hook', 0.059955899]
+[u'Band_Aid', 0.61172134, u'analog_clock', 0.061548959, u'wall_clock', 0.048710365]
+[u'pencil_sharpener', 0.78218162, u'electric_guitar', 0.043053564, u'pick', 0.035166986]
+[u'pencil_sharpener', 0.51361382, u'Band_Aid', 0.19383962, u'clog', 0.14915076]
+[u'can_opener', 0.17003401, u'screw', 0.16673921, u'hook', 0.11692888]

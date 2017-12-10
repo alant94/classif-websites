@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.34321839, u'toyshop', 0.32260561, u'slot', 0.029278915, u'tobacco_shop', 0.026383679, u'vending_machine', 0.018440148]
+[u'hook', 0.21090519, u'nail', 0.14162435, u'safety_pin', 0.066697404, u'corkscrew', 0.037800834, u'hammer', 0.037360474]

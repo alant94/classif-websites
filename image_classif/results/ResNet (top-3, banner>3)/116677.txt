@@ -1,0 +1,1 @@
+[u'bicycle-built-for-two', 0.41577968, u'mountain_bike', 0.360284, u'disk_brake', 0.035395186]

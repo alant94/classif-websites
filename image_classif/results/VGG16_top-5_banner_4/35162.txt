@@ -1,0 +1,4 @@
+[u'picket_fence', 0.43298501, u'prison', 0.088929258, u'sliding_door', 0.068904035, u'window_shade', 0.066333473, u'bannister', 0.030970862]
+[u'book_jacket', 0.94278312, u'scoreboard', 0.019377334, u'television', 0.010992155, u'screen', 0.0059235943, u'cash_machine', 0.0055971844]
+[u'picket_fence', 0.092301585, u'safe', 0.049600665, u'chime', 0.048809867, u'abacus', 0.043578919, u'coil', 0.030059246]
+[u'ballpoint', 0.15495899, u'screwdriver', 0.069320723, u'cocktail_shaker', 0.057051476, u'hair_spray', 0.04931521, u'plate_rack', 0.042592756]

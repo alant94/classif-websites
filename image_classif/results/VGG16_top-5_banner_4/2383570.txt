@@ -1,0 +1,8 @@
+[u'stone_wall', 0.23250666, u'maze', 0.20445703, u'worm_fence', 0.14537883, u'castle', 0.10072432, u'valley', 0.059985474]
+[u'sarong', 0.30280727, u'fur_coat', 0.1821838, u'stole', 0.085182786, u'cloak', 0.065614313, u'macaw', 0.036409803]
+[u'wig', 0.41347757, u'jean', 0.081132859, u'miniskirt', 0.071091034, u'shoe_shop', 0.058515545, u'stole', 0.046612144]
+[u'red_wine', 0.89359075, u'goblet', 0.036501482, u'bubble', 0.017302087, u'wine_bottle', 0.0091050202, u'ladle', 0.0080605485]
+[u'web_site', 0.29160109, u'Windsor_tie', 0.053646639, u'lipstick', 0.034287419, u'lighter', 0.029629471, u'analog_clock', 0.018801576]
+[u'golfcart', 0.25272962, u'patio', 0.08915396, u'mobile_home', 0.070296898, u'unicycle', 0.0505949, u'tractor', 0.022910194]
+[u'wine_bottle', 0.29731423, u'fountain_pen', 0.23928519, u'screwdriver', 0.10739078, u'ballpoint', 0.054468896, u'paintbrush', 0.05358471]
+[u'bookshop', 0.16700119, u'vestment', 0.09972173, u'barbershop', 0.08068952, u'restaurant', 0.067533486, u'barber_chair', 0.058193635]

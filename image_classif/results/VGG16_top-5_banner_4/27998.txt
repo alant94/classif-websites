@@ -1,0 +1,2 @@
+[u'sports_car', 0.32070014, u'convertible', 0.18439545, u'golfcart', 0.17836106, u'car_wheel', 0.10094734, u'beach_wagon', 0.036133274]
+[u'sports_car', 0.44424555, u'convertible', 0.31245759, u'car_wheel', 0.068740085, u'grille', 0.057986286, u'minivan', 0.050937638]

@@ -1,0 +1,5 @@
+[u'hook', 0.47409764, u'corkscrew', 0.16245247, u'hatchet', 0.023422344, u'nail', 0.022729054, u'pick', 0.01912461]
+[u'studio_couch', 0.12503284, u'crate', 0.06324514, u'switch', 0.059292972, u'forklift', 0.050706368, u'pedestal', 0.042558666]
+[u'cocktail_shaker', 0.19125435, u'perfume', 0.18274748, u'lighter', 0.14733382, u'water_bottle', 0.098065205, u'pill_bottle', 0.085332341]
+[u'mask', 0.43295613, u'wig', 0.12041921, u'ski_mask', 0.094433606, u'crash_helmet', 0.047148656, u'sombrero', 0.032049295]
+[u'lotion', 0.47753277, u'face_powder', 0.21224265, u'hamper', 0.15605259, u'perfume', 0.032399811, u'candle', 0.012579597]

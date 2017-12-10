@@ -1,0 +1,2 @@
+[u"carpenter's_kit", 0.34894893, u'paintbrush', 0.098157048, u'screwdriver', 0.046029754, u'spatula', 0.02649112, u'cleaver', 0.02213149]
+[u'gas_pump', 0.093519844, u'punching_bag', 0.070868805, u'bulletproof_vest', 0.065952942, u'pay-phone', 0.053799123, u'cash_machine', 0.04616018]

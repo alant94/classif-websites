@@ -1,0 +1,2 @@
+[u'book_jacket', 0.13953349, u'corn', 0.11488236, u'gong', 0.053623259]
+[u'Irish_water_spaniel', 0.081733383, u'wardrobe', 0.060524281, u'gong', 0.052148178]

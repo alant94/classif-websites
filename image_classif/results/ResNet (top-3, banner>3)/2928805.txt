@@ -1,0 +1,7 @@
+[u'television', 0.13411552, u'marimba', 0.0508825, u'umbrella', 0.038722657]
+[u'web_site', 0.18039884, u'butcher_shop', 0.056203421, u'cash_machine', 0.049903885]
+[u'web_site', 0.17731349, u'screw', 0.09280812, u'iron', 0.054447666]
+[u'web_site', 0.2903353, u'analog_clock', 0.11928367, u'digital_clock', 0.064875513]
+[u'digital_clock', 0.33677104, u'web_site', 0.093121283, u'envelope', 0.054658122]
+[u'comic_book', 0.31427857, u'crossword_puzzle', 0.2949703, u'book_jacket', 0.12486066]
+[u'ice_lolly', 0.79053611, u'pajama', 0.081525981, u'matchstick', 0.01273385]

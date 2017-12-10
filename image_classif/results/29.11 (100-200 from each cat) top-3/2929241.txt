@@ -1,0 +1,5 @@
+[u'envelope', 0.4418712, u'jigsaw_puzzle', 0.33913448, u'web_site', 0.050157499]
+[u'cash_machine', 0.14332213, u'web_site', 0.10646114, u'television', 0.090383984]
+[u'screen', 0.39672923, u'television', 0.21498655, u'scoreboard', 0.12085126]
+[u'street_sign', 0.40134406, u'scoreboard', 0.095758416, u'digital_clock', 0.066802733]
+[u'digital_watch', 0.23088978, u'picket_fence', 0.1970685, u'tray', 0.18372414]

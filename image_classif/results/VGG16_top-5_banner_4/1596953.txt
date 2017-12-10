@@ -1,0 +1,7 @@
+[u'fire_screen', 0.03321017, u'window_shade', 0.029848121, u'space_shuttle', 0.029393777, u'candle', 0.028612129, u'altar', 0.026520252]
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]
+[u'shower_cap', 0.046124909, u'cowboy_hat', 0.034405783, u'book_jacket', 0.03282949, u'wig', 0.032095093, u'brassiere', 0.026338903]
+[u'nipple', 0.39278483, u'bathtub', 0.17152856, u'tub', 0.075733244, u'stethoscope', 0.054667924, u'teddy', 0.027259756]
+[u'swimming_trunks', 0.39401427, u'butcher_shop', 0.31699663, u'bikini', 0.1136818, u'bathing_cap', 0.056970902, u'maillot', 0.022480626]
+[u'fountain', 0.15234119, u'altar', 0.094247721, u'bubble', 0.046896987, u'candle', 0.027350076, u'shower_curtain', 0.025583297]
+[u'book_jacket', 0.63866311, u'hair_spray', 0.10886173, u'fountain', 0.01883677, u'sax', 0.017123424, u'gorilla', 0.016682932]

@@ -1,0 +1,6 @@
+[u'pick', 0.16696259, u'web_site', 0.048116025, u'hair_spray', 0.035130467]
+[u'German_shepherd', 0.095296256, u'cowboy_boot', 0.04595948, u'golf_ball', 0.041450012]
+[u'plow', 0.10745698, u'chain_saw', 0.10307792, u'hatchet', 0.048901759]
+[u'street_sign', 0.96050686, u'traffic_light', 0.018911779, u'comic_book', 0.0015739659]
+[u'racer', 0.14178756, u'lawn_mower', 0.066565461, u'terrapin', 0.055893861]
+[u'paintbrush', 0.63944954, u'padlock', 0.12664741, u'birdhouse', 0.046518922]

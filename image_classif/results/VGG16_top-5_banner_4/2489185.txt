@@ -1,0 +1,1 @@
+[u'volcano', 0.43937641, u'barn', 0.13185731, u'viaduct', 0.038459677, u'suspension_bridge', 0.026058631, u'tripod', 0.021709273]

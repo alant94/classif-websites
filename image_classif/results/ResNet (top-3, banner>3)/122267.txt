@@ -1,0 +1,4 @@
+[u'scoreboard', 0.59552979, u'street_sign', 0.12742779, u'monitor', 0.029988701]
+[u'digital_clock', 0.29666039, u'crossword_puzzle', 0.25725704, u'whistle', 0.11159246]
+[u'web_site', 0.32571974, u'envelope', 0.059253406, u'digital_clock', 0.050813179]
+[u'picket_fence', 0.26380631, u'perfume', 0.15674847, u'dining_table', 0.078503914]

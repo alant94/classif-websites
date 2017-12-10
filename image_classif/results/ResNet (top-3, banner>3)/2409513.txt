@@ -1,0 +1,3 @@
+[u'corkscrew', 0.076675981, u'loupe', 0.075956076, u'milk_can', 0.062451735]
+[u'necklace', 0.85757965, u'chain', 0.13717428, u'pick', 0.001183703]
+[u'necklace', 0.28053609, u'hook', 0.12849416, u'strainer', 0.10566819]

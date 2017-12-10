@@ -1,0 +1,4 @@
+[u'book_jacket', 0.69042617, u'street_sign', 0.045377057, u'comic_book', 0.023585407, u'barbershop', 0.016090585, u'bookshop', 0.011933561]
+[u'envelope', 0.15066098, u'street_sign', 0.054819725, u'traffic_light', 0.042848665, u'web_site', 0.035945021, u'bell_cote', 0.032845914]
+[u'barn', 0.62294024, u'barbershop', 0.056967609, u'water_tower', 0.037246782, u'bakery', 0.030425098, u'cinema', 0.023804624]
+[u'bell_cote', 0.49499184, u'picket_fence', 0.067460366, u'stupa', 0.061410889, u'envelope', 0.027728513, u'church', 0.014030312]

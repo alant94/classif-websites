@@ -1,0 +1,2 @@
+[u'comic_book', 0.17710568, u'binder', 0.12318697, u'laptop', 0.1101956]
+[u'cash_machine', 0.26023456, u'web_site', 0.20622031, u'television', 0.11136757]

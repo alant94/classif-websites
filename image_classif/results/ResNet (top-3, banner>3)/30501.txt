@@ -1,0 +1,4 @@
+[u'harp', 0.12262597, u'academic_gown', 0.11730806, u'guillotine', 0.060854878]
+[u"potter's_wheel", 0.2918185, u'toaster', 0.095583506, u'washer', 0.044018064]
+[u'miniskirt', 0.49894574, u'pajama', 0.046761714, u'wig', 0.04118083]
+[u'iron', 0.097011574, u'table_lamp', 0.086019076, u'altar', 0.076649949]

@@ -1,0 +1,4 @@
+[u'ibex', 0.35773742, u'bighorn', 0.26832801, u'warthog', 0.14866678]
+[u'comic_book', 0.58398688, u'web_site', 0.31319228, u'menu', 0.072099514]
+[u'Bedlington_terrier', 0.81049377, u'wire-haired_fox_terrier', 0.089864746, u'whippet', 0.020268558]
+[u'envelope', 0.15092254, u'carton', 0.13149683, u'book_jacket', 0.12811586]

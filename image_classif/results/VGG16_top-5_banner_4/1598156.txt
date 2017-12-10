@@ -1,0 +1,1 @@
+[u'Mexican_hairless', 0.83492672, u'sea_lion', 0.038927305, u'dugong', 0.033762682, u'bathtub', 0.017121963, u'hippopotamus', 0.0092622936]

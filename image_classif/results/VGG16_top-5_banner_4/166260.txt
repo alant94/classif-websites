@@ -1,0 +1,5 @@
+[u'freight_car', 0.4178963, u'moving_van', 0.11843003, u'carton', 0.10927196, u'crate', 0.057119321, u'trailer_truck', 0.047738045]
+[u'book_jacket', 0.4369278, u'scoreboard', 0.097555339, u'comic_book', 0.071294606, u'street_sign', 0.057116214, u'digital_clock', 0.042132672]
+[u'scoreboard', 0.32886568, u'web_site', 0.14155233, u'digital_clock', 0.058974233, u'analog_clock', 0.028171318, u'hand-held_computer', 0.022033153]
+[u'stage', 0.19990776, u'cinema', 0.11241595, u'book_jacket', 0.086110137, u'theater_curtain', 0.074206874, u'fountain', 0.058151737]
+[u'head_cabbage', 0.22256279, u'book_jacket', 0.13969766, u'jersey', 0.040099066, u'comic_book', 0.034756687, u'sea_anemone', 0.024346702]

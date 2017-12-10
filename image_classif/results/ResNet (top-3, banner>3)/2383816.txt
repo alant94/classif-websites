@@ -1,0 +1,3 @@
+[u'lycaenid', 0.23367622, u'birdhouse', 0.074813016, u'web_site', 0.0539915]
+[u'stone_wall', 0.56919545, u'worm_fence', 0.16308562, u'picket_fence', 0.032095585]
+[u'envelope', 0.76954621, u'web_site', 0.062174514, u'hook', 0.0071456106]

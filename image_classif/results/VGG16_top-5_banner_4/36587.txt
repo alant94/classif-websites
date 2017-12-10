@@ -1,0 +1,3 @@
+[u'digital_clock', 0.16661735, u'container_ship', 0.12717165, u'envelope', 0.050098334, u'Windsor_tie', 0.049364757, u'jigsaw_puzzle', 0.049169395]
+[u'book_jacket', 0.15991741, u'jersey', 0.15021762, u'comic_book', 0.10258963, u'triceratops', 0.03605099, u'coffee_mug', 0.026527811]
+[u'web_site', 0.91898477, u'screen', 0.020009229, u'hand-held_computer', 0.019597249, u'monitor', 0.0096995756, u'desktop_computer', 0.0047878055]

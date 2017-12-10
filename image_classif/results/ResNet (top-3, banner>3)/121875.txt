@@ -1,0 +1,5 @@
+[u'web_site', 0.18535313, u'neck_brace', 0.057027917, u'knee_pad', 0.03008548]
+[u'tobacco_shop', 0.73816961, u'cinema', 0.18533112, u'restaurant', 0.028351685]
+[u'freight_car', 0.10633931, u'comic_book', 0.086450286, u'sandal', 0.065779701]
+[u'ski', 0.83725458, u'harmonica', 0.010217859, u'web_site', 0.0086595574]
+[u'comic_book', 0.30226684, u'combination_lock', 0.17329821, u'book_jacket', 0.058748204]

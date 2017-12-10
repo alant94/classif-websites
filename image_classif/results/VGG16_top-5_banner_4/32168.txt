@@ -1,0 +1,3 @@
+[u'web_site', 0.091818266, u'hand_blower', 0.034605615, u'hook', 0.025769126, u'microphone', 0.02344648, u'envelope', 0.018729424]
+[u'nematode', 0.37172437, u'nipple', 0.12469359, u'hook', 0.061540175, u'parachute', 0.054398093, u'jellyfish', 0.015676044]
+[u'wall_clock', 0.034437411, u'window_screen', 0.033207178, u'shower_curtain', 0.030427534, u'Windsor_tie', 0.024252471, u'picket_fence', 0.019766653]

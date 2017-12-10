@@ -1,0 +1,2 @@
+[u'coffee_mug', 0.23470153, u'book_jacket', 0.14997566, u'lighter', 0.050447728, u'refrigerator', 0.033373661, u'pill_bottle', 0.030733911]
+[u'tobacco_shop', 0.27555439, u'barbershop', 0.20532882, u'slot', 0.08820907, u'scoreboard', 0.086742431, u'vending_machine', 0.046601646]

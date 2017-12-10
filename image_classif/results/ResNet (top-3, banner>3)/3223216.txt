@@ -1,0 +1,3 @@
+[u'fountain', 0.26060694, u'mosque', 0.19807316, u'monastery', 0.12851186]
+[u'Band_Aid', 0.17096892, u'prayer_rug', 0.08264789, u'digital_clock', 0.078139529]
+[u'barn', 0.090074688, u'church', 0.047645599, u'marimba', 0.038807645]

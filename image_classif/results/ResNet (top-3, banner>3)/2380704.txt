@@ -1,0 +1,1 @@
+[u'water_tower', 0.2292842, u'cinema', 0.11569721, u'space_shuttle', 0.096112676]

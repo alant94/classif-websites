@@ -1,0 +1,4 @@
+[u'stethoscope', 0.11603639, u'banjo', 0.08965724, u'whistle', 0.066704795]
+[u'envelope', 0.19374667, u'matchstick', 0.13610217, u'bath_towel', 0.093895227]
+[u'boa_constrictor', 0.16245286, u'banded_gecko', 0.10241944, u'gong', 0.061967902]
+[u'bikini', 0.81156254, u'tub', 0.084359817, u'maillot', 0.055470441]

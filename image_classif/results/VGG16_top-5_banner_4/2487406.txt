@@ -1,0 +1,6 @@
+[u'Gila_monster', 0.23174348, u'sea_snake', 0.12243941, u'saltshaker', 0.034470078, u'sea_lion', 0.033595767, u'thimble', 0.019458486]
+[u'impala', 0.80589318, u'gazelle', 0.16046055, u'hartebeest', 0.031330284, u'zebra', 0.00093869696, u'ibex', 0.00071593141]
+[u'picket_fence', 0.12331557, u'book_jacket', 0.11110575, u'chime', 0.08038272, u'hook', 0.05209627, u'pole', 0.049767341]
+[u'monastery', 0.42142627, u'boathouse', 0.11590561, u'castle', 0.09540683, u'thatch', 0.065020062, u'sandbar', 0.035696246]
+[u'impala', 0.35422477, u'gazelle', 0.11644967, u'wallaby', 0.10979799, u'hartebeest', 0.073398866, u'warthog', 0.071441323]
+[u'impala', 0.96476173, u'gazelle', 0.029502792, u'hartebeest', 0.0028229416, u'crane', 0.0019175025, u'red_wolf', 0.00039377835]

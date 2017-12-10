@@ -1,0 +1,2 @@
+[u'comic_book', 0.69273055, u'slot', 0.032305874, u'scoreboard', 0.026886886]
+[u'nipple', 0.15904692, u'lotion', 0.10820188, u'soap_dispenser', 0.07611987]

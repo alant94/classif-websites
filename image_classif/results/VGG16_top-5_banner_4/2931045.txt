@@ -1,0 +1,1 @@
+[u'missile', 0.11365329, u'fountain', 0.065620065, u'pole', 0.060960222, u'projectile', 0.043102581, u'crane', 0.024724232]

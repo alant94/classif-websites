@@ -1,0 +1,4 @@
+[u'rule', 0.054578528, u'envelope', 0.053318895, u'web_site', 0.051495876, u'syringe', 0.023770951, u'jigsaw_puzzle', 0.021541301]
+[u'envelope', 0.050166745, u'web_site', 0.042043857, u'jigsaw_puzzle', 0.035036128, u'rule', 0.034141358, u'monitor', 0.022563487]
+[u'stethoscope', 0.45407873, u'whistle', 0.11841015, u'vine_snake', 0.11639839, u'oxygen_mask', 0.070031017, u'mouse', 0.058598265]
+[u'web_site', 0.041857336, u'jigsaw_puzzle', 0.028114082, u'syringe', 0.027327593, u'hair_slide', 0.024182189, u'envelope', 0.021954829]

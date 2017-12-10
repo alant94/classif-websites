@@ -1,0 +1,4 @@
+[u'cup', 0.078477032, u'spotlight', 0.055151705, u'lampshade', 0.045035154, u'syringe', 0.034925729, u'wall_clock', 0.034571379]
+[u'envelope', 0.042988099, u'digital_clock', 0.037587486, u'Band_Aid', 0.029652566, u'hook', 0.029059228, u'switch', 0.022958383]
+[u'digital_clock', 0.085848749, u'web_site', 0.064047284, u'analog_clock', 0.046624772, u'Band_Aid', 0.044754915, u'scoreboard', 0.044125959]
+[u'Band_Aid', 0.25220656, u'envelope', 0.15466249, u'beacon', 0.054782435, u'picket_fence', 0.047908071, u'matchstick', 0.030095864]

@@ -1,0 +1,3 @@
+[u'web_site', 0.97893298, u'book_jacket', 0.011791834, u'comic_book', 0.0079634814, u'cash_machine', 0.00015189, u'television', 0.00011790877]
+[u'window_shade', 0.55545115, u'sliding_door', 0.22977965, u'window_screen', 0.042854592, u'shoji', 0.031930644, u'monitor', 0.017236389]
+[u'packet', 0.36272144, u'mousetrap', 0.17756553, u'lighter', 0.14244828, u'gas_pump', 0.12895274, u'book_jacket', 0.01955328]

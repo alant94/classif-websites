@@ -1,0 +1,1 @@
+[u'snail', 0.24313153, u'trilobite', 0.21785443, u'chiton', 0.12153742, u'isopod', 0.058035452, u'chambered_nautilus', 0.028632082]

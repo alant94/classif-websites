@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.99785382, u'menu', 0.0012611774, u'laptop', 9.3068753e-05, u'shower_curtain', 6.9932728e-05, u'book_jacket', 5.5843993e-05]
+[u'picket_fence', 0.19909668, u'syringe', 0.087287441, u'space_shuttle', 0.06500867, u'airship', 0.063375331, u'bell_cote', 0.059163053]
+[u'airship', 0.11512783, u'drilling_platform', 0.098643944, u'space_shuttle', 0.08750657, u'parachute', 0.051590241, u'crane', 0.043613125]

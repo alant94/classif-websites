@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.4404822, u'prayer_rug', 0.040605407, u'wool', 0.03375151, u'Windsor_tie', 0.023089115, u'stole', 0.023067888]
+[u"potter's_wheel", 0.68104607, u'dough', 0.036019947, u'bathtub', 0.033842079, u'tub', 0.027244452, u'hog', 0.015762955]
+[u'shower_curtain', 0.12026637, u'gown', 0.080619223, u'pajama', 0.064751349, u'suit', 0.052084975, u'window_shade', 0.044126194]

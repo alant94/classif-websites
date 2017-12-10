@@ -1,0 +1,2 @@
+[u'nematode', 0.16769548, u'oscilloscope', 0.12427723, u'digital_clock', 0.10360456]
+[u'notebook', 0.19351482, u'screen', 0.1558152, u'monitor', 0.15129618]

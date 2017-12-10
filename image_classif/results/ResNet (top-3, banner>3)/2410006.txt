@@ -1,0 +1,2 @@
+[u'pretzel', 0.92848176, u'bagel', 0.068080775, u'French_loaf', 0.0011877845]
+[u'pretzel', 0.85947692, u'bakery', 0.037349358, u'bagel', 0.015586226]

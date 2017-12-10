@@ -1,0 +1,5 @@
+[u'cleaver', 0.016954394, u'envelope', 0.014279005, u'corkscrew', 0.0097231101, u'can_opener', 0.0090813842, u'hatchet', 0.0083956933]
+[u'fountain_pen', 0.74191606, u'screw', 0.11430922, u'pencil_sharpener', 0.041905526, u'nail', 0.036150705, u'thimble', 0.011658371]
+[u'church', 0.85428232, u'castle', 0.059826132, u'monastery', 0.021797705, u'bell_cote', 0.018921837, u'picket_fence', 0.0071421466]
+[u'perfume', 0.11461766, u'digital_watch', 0.10420731, u'digital_clock', 0.061726775, u'modem', 0.056071863, u'face_powder', 0.046893157]
+[u'web_site', 0.90736496, u'book_jacket', 0.03554704, u'menu', 0.016171195, u'comic_book', 0.0091437381, u'jigsaw_puzzle', 0.0042597577]

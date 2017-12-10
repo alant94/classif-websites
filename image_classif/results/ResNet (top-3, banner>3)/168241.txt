@@ -1,0 +1,6 @@
+[u'groom', 0.86466676, u'suit', 0.041743126, u'theater_curtain', 0.023557374]
+[u'stage', 0.6557911, u'theater_curtain', 0.21620148, u'spotlight', 0.025212701]
+[u'wardrobe', 0.27678061, u'groom', 0.18482843, u'academic_gown', 0.16461493]
+[u'umbrella', 0.21548648, u'magnetic_compass', 0.16403419, u'lampshade', 0.075088717]
+[u'stage', 0.77037078, u'theater_curtain', 0.12678957, u'home_theater', 0.028167518]
+[u'digital_clock', 0.23564839, u'lighter', 0.11044861, u'digital_watch', 0.10054781]

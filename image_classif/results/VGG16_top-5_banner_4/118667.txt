@@ -1,0 +1,4 @@
+[u'envelope', 0.55035508, u'jigsaw_puzzle', 0.083729148, u'binder', 0.052893851, u'web_site', 0.047465272, u'comic_book', 0.045798648]
+[u'hamper', 0.2437748, u'binder', 0.12840627, u'carton', 0.077288561, u'book_jacket', 0.055343345, u'packet', 0.055327911]
+[u'book_jacket', 0.6024918, u'web_site', 0.2102906, u'envelope', 0.071860276, u'binder', 0.049194608, u'packet', 0.022865489]
+[u'envelope', 0.5598951, u'binder', 0.21856141, u'packet', 0.054098103, u'web_site', 0.03558467, u'menu', 0.0339652]

@@ -1,0 +1,7 @@
+[u'hook', 0.13299568, u'racket', 0.049390424, u'chain_saw', 0.047436379, u'swab', 0.040728144, u'hatchet', 0.035096999]
+[u'English_springer', 0.25409275, u'Bernese_mountain_dog', 0.21307321, u'Greater_Swiss_Mountain_dog', 0.11496268, u'English_setter', 0.056804486, u'Brittany_spaniel', 0.046347529]
+[u'German_short-haired_pointer', 0.90997428, u'English_setter', 0.020433262, u'Brittany_spaniel', 0.015247429, u'prairie_chicken', 0.005450177, u'bluetick', 0.0047962973]
+[u'envelope', 0.29870203, u'web_site', 0.25660518, u'Band_Aid', 0.045891918, u'jersey', 0.025566131, u'rule', 0.023958204]
+[u'picket_fence', 0.14686389, u'Gordon_setter', 0.12246154, u'ski', 0.062331464, u'bluetick', 0.051270459, u'fountain', 0.048560485]
+[u'quail', 0.63589269, u'partridge', 0.092884451, u'bustard', 0.063723646, u'ptarmigan', 0.045221832, u'black_grouse', 0.037996367]
+[u'bow', 0.18847229, u'gazelle', 0.085603923, u'Ibizan_hound', 0.083750039, u'Walker_hound', 0.041164402, u'hook', 0.038129859]

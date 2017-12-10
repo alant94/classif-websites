@@ -1,0 +1,5 @@
+[u'projectile', 0.32617596, u'missile', 0.26884136, u'cannon', 0.1982758]
+[u'drilling_platform', 0.69265205, u'crane', 0.20944196, u'pirate', 0.03757007]
+[u'caldron', 0.43023911, u'matchstick', 0.17820258, u'rotisserie', 0.078719586]
+[u'corn', 0.27504539, u'ear', 0.12210135, u'lakeside', 0.036012445]
+[u'dam', 0.35143843, u'submarine', 0.20194098, u'prison', 0.11203408]

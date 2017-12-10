@@ -1,0 +1,3 @@
+[u'stopwatch', 0.22613432, u'web_site', 0.10405428, u'analog_clock', 0.084924437]
+[u"jack-o'-lantern", 0.78045326, u'chain_saw', 0.018792473, u'gasmask', 0.018113747]
+[u'digital_clock', 0.53510106, u'analog_clock', 0.22164616, u'traffic_light', 0.061887763]

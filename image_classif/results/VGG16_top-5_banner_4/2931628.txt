@@ -1,0 +1,2 @@
+[u'groom', 0.25314131, u'gown', 0.15914589, u'pajama', 0.15017533, u'lab_coat', 0.038821664, u'miniskirt', 0.028720429]
+[u'French_horn', 0.32001618, u'cornet', 0.087125242, u'perfume', 0.076683007, u'trombone', 0.037952427, u'sax', 0.03170678]

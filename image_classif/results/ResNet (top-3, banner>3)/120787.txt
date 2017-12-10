@@ -1,0 +1,2 @@
+[u'scale', 0.23966214, u'table_lamp', 0.17268755, u'spatula', 0.10199492]
+[u'television', 0.39812452, u'home_theater', 0.11327509, u'comic_book', 0.056776714]

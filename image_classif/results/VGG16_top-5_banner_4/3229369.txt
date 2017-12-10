@@ -1,0 +1,5 @@
+[u'book_jacket', 0.24612854, u'web_site', 0.18124962, u'packet', 0.035336383, u'muzzle', 0.029343108, u'envelope', 0.026724644]
+[u'whistle', 0.20738032, u'spatula', 0.084705383, u"carpenter's_kit", 0.052229688, u'screwdriver', 0.042063579, u'rubber_eraser', 0.040302258]
+[u'picket_fence', 0.31754151, u'matchstick', 0.11827174, u'chime', 0.053772088, u'rule', 0.033634119, u'spatula', 0.023313152]
+[u'book_jacket', 0.11525536, u'cash_machine', 0.093587771, u'binder', 0.058273233, u'street_sign', 0.035861816, u'digital_clock', 0.030108349]
+[u'toyshop', 0.35693216, u'wardrobe', 0.18915604, u'web_site', 0.10203336, u'shoe_shop', 0.077526785, u'academic_gown', 0.023572309]

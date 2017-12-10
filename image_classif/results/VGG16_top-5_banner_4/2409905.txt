@@ -1,0 +1,1 @@
+[u'pitcher', 0.35108283, u'water_jug', 0.23026705, u'vase', 0.13520548, u'coffeepot', 0.035045978, u'cocktail_shaker', 0.023553429]

@@ -1,0 +1,2 @@
+[u'hair_slide', 0.075655781, u'nail', 0.032681599, u'plate_rack', 0.032310922]
+[u'jersey', 0.16318761, u'book_jacket', 0.055445511, u'oil_filter', 0.049189109]

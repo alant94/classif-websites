@@ -1,0 +1,4 @@
+[u'cliff', 0.92932087, u'cliff_dwelling', 0.051144294, u'valley', 0.0049252599]
+[u'shower_curtain', 0.10951198, u'shoe_shop', 0.046003904, u'shower_cap', 0.04498297]
+[u'carton', 0.66436327, u'oil_filter', 0.068347618, u'toilet_tissue', 0.03826265]
+[u'can_opener', 0.084348977, u'holster', 0.053495012, u'drumstick', 0.039724234]

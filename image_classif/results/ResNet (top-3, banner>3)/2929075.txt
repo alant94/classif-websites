@@ -1,0 +1,8 @@
+[u'barbershop', 0.2330579, u'toilet_seat', 0.061780497, u'web_site', 0.046912689]
+[u'web_site', 0.16334867, u'hand_blower', 0.08335375, u'cash_machine', 0.067530096]
+[u'lab_coat', 0.18569095, u'crutch', 0.1477091, u'groom', 0.12826118]
+[u'lab_coat', 0.12767285, u'jean', 0.10720279, u'bobsled', 0.084397189]
+[u'web_site', 0.1015023, u'paintbrush', 0.10005443, u'envelope', 0.054220557]
+[u'piggy_bank', 0.41680959, u'mask', 0.12754609, u'web_site', 0.035972942]
+[u'shield', 0.39309007, u'gong', 0.088037163, u'iPod', 0.059735555]
+[u'library', 0.23970728, u'web_site', 0.11030778, u'bookshop', 0.10992531]

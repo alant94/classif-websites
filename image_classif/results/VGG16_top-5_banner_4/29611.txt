@@ -1,0 +1,1 @@
+[u'wall_clock', 0.038685806, u'Windsor_tie', 0.028217895, u'table_lamp', 0.025760153, u'poncho', 0.022713829, u'sarong', 0.022514941]

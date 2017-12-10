@@ -1,0 +1,4 @@
+[u'bighorn', 0.44265044, u'ram', 0.20762324, u'ibex', 0.17009978, u'impala', 0.08103627, u'hartebeest', 0.023742827]
+[u'jigsaw_puzzle', 0.1364297, u'laptop', 0.086880878, u'binder', 0.050218623, u'book_jacket', 0.028822828, u'lighter', 0.026978929]
+[u'plow', 0.27894896, u'tusker', 0.1186645, u'langur', 0.09133558, u'barrow', 0.05719113, u'baboon', 0.056587074]
+[u'impala', 0.23673476, u'bighorn', 0.18020071, u'hartebeest', 0.1607203, u'hog', 0.12042585, u'wild_boar', 0.088426404]

@@ -1,0 +1,1 @@
+[u'pick', 0.28606087, u'letter_opener', 0.12174235, u'puck', 0.11345796, u'buckle', 0.075533971, u'face_powder', 0.073813371]

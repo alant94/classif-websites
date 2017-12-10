@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.420017, u'bookshop', 0.32411578, u'shoe_shop', 0.099390998, u'grocery_store', 0.02701059, u'restaurant', 0.022746997]
+[u'drilling_platform', 0.15573604, u'vending_machine', 0.12090158, u'toyshop', 0.096794255, u'confectionery', 0.070555136, u'tobacco_shop', 0.047124356]

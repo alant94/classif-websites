@@ -1,0 +1,4 @@
+[u'tow_truck', 0.5604375, u'garbage_truck', 0.19982538, u'trailer_truck', 0.10686655]
+[u'mailbox', 0.16289397, u'barbershop', 0.072261944, u'toyshop', 0.061801933]
+[u'minibus', 0.20396227, u'pickup', 0.18180372, u'minivan', 0.13960527]
+[u'pajama', 0.34078294, u'lab_coat', 0.12851346, u'jean', 0.11393873]

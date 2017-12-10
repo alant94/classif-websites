@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.35415491, u'panpipe', 0.14572711, u'quill', 0.085036017]
+[u'oscilloscope', 0.24003047, u'slide_rule', 0.22623691, u'radio', 0.04021715]
+[u'web_site', 0.64163905, u'book_jacket', 0.31383744, u'comic_book', 0.0043235733]
+[u'library', 0.26957074, u'tobacco_shop', 0.066413, u'bookshop', 0.048214968]

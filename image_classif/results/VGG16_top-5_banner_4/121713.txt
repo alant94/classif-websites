@@ -1,0 +1,3 @@
+[u'digital_clock', 0.28977069, u'CD_player', 0.14987655, u'home_theater', 0.069568112, u'slot', 0.051695675, u'cinema', 0.043353021]
+[u'restaurant', 0.12856492, u'tobacco_shop', 0.11634628, u'cinema', 0.10462756, u'bakery', 0.0834466, u'grocery_store', 0.079032555]
+[u'web_site', 0.31358179, u'comic_book', 0.10731596, u'traffic_light', 0.039155077, u'book_jacket', 0.029688887, u'stage', 0.028396728]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.34387091, u'church', 0.17261554, u'analog_clock', 0.065198153, u'wall_clock', 0.035637829, u'street_sign', 0.027585149]
+[u'crash_helmet', 0.68600309, u'football_helmet', 0.11128002, u'bobsled', 0.036323216, u'clog', 0.021925064, u'rugby_ball', 0.015475558]

@@ -1,0 +1,2 @@
+[u'diaper', 0.33113873, u'bathtub', 0.22833028, u'tub', 0.19911449, u'bath_towel', 0.031708758, u'teddy', 0.02855769]
+[u'wig', 0.3136524, u'sunglasses', 0.065707698, u'lipstick', 0.062500484, u'fur_coat', 0.05327465, u'feather_boa', 0.03958343]

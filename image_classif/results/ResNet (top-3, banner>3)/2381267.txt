@@ -1,0 +1,8 @@
+[u'barrel', 0.88211757, u'oxygen_mask', 0.018911684, u'plate_rack', 0.016903391]
+[u'groenendael', 0.61190891, u'schipperke', 0.16082732, u'Labrador_retriever', 0.047943268]
+[u'lotion', 0.32118645, u'perfume', 0.30543599, u'pill_bottle', 0.13588507]
+[u'wine_bottle', 0.87920231, u'beer_bottle', 0.077184051, u'red_wine', 0.032289233]
+[u'shopping_cart', 0.31068197, u'rapeseed', 0.071584843, u'harvester', 0.03037139]
+[u'whippet', 0.31063703, u'Saluki', 0.14573893, u'borzoi', 0.12583013]
+[u'wine_bottle', 0.88800347, u'red_wine', 0.10459501, u'beer_bottle', 0.0045878114]
+[u'red_wine', 0.50176269, u'wine_bottle', 0.41366988, u'pill_bottle', 0.045115121]

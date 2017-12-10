@@ -1,0 +1,1 @@
+[u'cellular_telephone', 0.20092915, u'tray', 0.14667355, u'buckle', 0.099572115, u'digital_watch', 0.088182524, u'lighter', 0.04657134]

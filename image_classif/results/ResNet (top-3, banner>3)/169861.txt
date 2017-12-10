@@ -1,0 +1,2 @@
+[u'comic_book', 0.3832756, u'cinema', 0.18666023, u'book_jacket', 0.16386922]
+[u'upright', 0.92307687, u'organ', 0.061385911, u'grand_piano', 0.0066338899]

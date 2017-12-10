@@ -1,0 +1,2 @@
+[u'drumstick', 0.075240381, u'wig', 0.056222674, u'oboe', 0.035631161, u'jersey', 0.033225898, u'feather_boa', 0.027827304]
+[u'pop_bottle', 0.12551394, u'pitcher', 0.10726157, u'cocktail_shaker', 0.097046927, u'vase', 0.073427029, u'water_bottle', 0.070487157]

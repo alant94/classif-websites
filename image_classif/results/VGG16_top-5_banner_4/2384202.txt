@@ -1,0 +1,1 @@
+[u'digital_clock', 0.11185317, u'bell_cote', 0.10070352, u'stopwatch', 0.090485014, u'analog_clock', 0.07973282, u'jersey', 0.063841239]

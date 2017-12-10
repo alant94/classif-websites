@@ -1,0 +1,3 @@
+[u'pinwheel', 0.66558099, u'envelope', 0.033324338, u'pick', 0.027481884, u'Band_Aid', 0.026739281, u'hair_slide', 0.023030717]
+[u'digital_clock', 0.8483392, u'scoreboard', 0.027280249, u'digital_watch', 0.021133199, u'maze', 0.013975095, u'Band_Aid', 0.0086579947]
+[u'basketball', 0.94032782, u'volleyball', 0.052743156, u'knee_pad', 0.0032325033, u'soccer_ball', 0.0019102587, u'dumbbell', 0.00082736724]

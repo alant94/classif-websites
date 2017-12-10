@@ -1,0 +1,7 @@
+[u'bell_cote', 0.59722829, u'church', 0.13409621, u'monastery', 0.046488881, u'guillotine', 0.025562473, u'altar', 0.011980221]
+[u'comic_book', 0.076417685, u'book_jacket', 0.031237163, u'web_site', 0.029570436, u'screwdriver', 0.020339459, u'jersey', 0.015584097]
+[u'nipple', 0.10902572, u'ski', 0.092268489, u'sunscreen', 0.072701909, u'iron', 0.048504118, u'safety_pin', 0.026575884]
+[u'stage', 0.27153331, u'confectionery', 0.079958007, u'grocery_store', 0.043651488, u'toyshop', 0.039429761, u'shoe_shop', 0.033111863]
+[u'hourglass', 0.27477637, u'red_wine', 0.15675588, u'wine_bottle', 0.071509585, u'cocktail_shaker', 0.039025299, u'crutch', 0.036484115]
+[u'wool', 0.40207916, u'sock', 0.36713004, u'mitten', 0.089879729, u'teddy', 0.079193868, u'Christmas_stocking', 0.015779026]
+[u'suit', 0.095148176, u'lab_coat', 0.085301258, u'wardrobe', 0.084930502, u'trench_coat', 0.083369642, u'academic_gown', 0.082096577]

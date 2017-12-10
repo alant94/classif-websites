@@ -1,0 +1,1 @@
+[u'jersey', 0.061203361, u'suit', 0.052223153, u'academic_gown', 0.034722093, u'wig', 0.032415733, u'mortarboard', 0.030877097]

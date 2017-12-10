@@ -1,0 +1,5 @@
+[u'swimming_trunks', 0.80661118, u'diaper', 0.019727131, u'sarong', 0.019105317]
+[u'pajama', 0.49861139, u'cardigan', 0.067815475, u'sweatshirt', 0.063123353]
+[u'web_site', 0.37070081, u'sunglasses', 0.26919028, u'book_jacket', 0.18222718]
+[u'web_site', 0.21492924, u'envelope', 0.1605704, u'binder', 0.11470678]
+[u'miniskirt', 0.19093752, u'safe', 0.14746068, u'padlock', 0.086787254]

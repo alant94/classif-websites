@@ -1,0 +1,3 @@
+[u'beer_bottle', 0.87133962, u'wine_bottle', 0.10905282, u'pop_bottle', 0.004475743]
+[u'puck', 0.81075031, u'drum', 0.019510621, u'coffee_mug', 0.0096857967]
+[u'puck', 0.72679687, u'drum', 0.021518985, u'analog_clock', 0.013993052]

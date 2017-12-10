@@ -1,0 +1,4 @@
+[u'monitor', 0.39756316, u'screen', 0.12373631, u'television', 0.1016534]
+[u'web_site', 0.18697317, u'jigsaw_puzzle', 0.095034428, u'envelope', 0.066737853]
+[u'book_jacket', 0.1219621, u'malamute', 0.11808831, u'envelope', 0.049157523]
+[u'monitor', 0.21569273, u'honeycomb', 0.21112886, u'screen', 0.11670946]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.57194465, u'tobacco_shop', 0.13789994, u'comic_book', 0.096837804]
+[u'book_jacket', 0.50552237, u'comic_book', 0.35116869, u'wig', 0.054297071]
+[u'book_jacket', 0.20013249, u'comic_book', 0.091031492, u'ocarina', 0.050306536]

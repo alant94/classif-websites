@@ -1,0 +1,2 @@
+[u'web_site', 0.9245742, u'book_jacket', 0.048793498, u'envelope', 0.0039105276, u'wig', 0.0032867067, u'lab_coat', 0.0029047853]
+[u'stage', 0.31205636, u'unicycle', 0.11520025, u'altar', 0.05632595, u'gong', 0.049193367, u'theater_curtain', 0.047728639]

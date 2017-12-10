@@ -1,0 +1,2 @@
+[u'web_site', 0.70802069, u'monitor', 0.18499863, u'notebook', 0.034921393]
+[u'digital_clock', 0.19187336, u'scale', 0.1194519, u'street_sign', 0.070120566]

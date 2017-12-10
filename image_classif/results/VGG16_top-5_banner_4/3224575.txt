@@ -1,0 +1,5 @@
+[u'ski', 0.15397024, u'iron', 0.13082154, u'can_opener', 0.10771348, u'corkscrew', 0.04696219, u'space_shuttle', 0.043225326]
+[u'wardrobe', 0.5455426, u'jean', 0.099695221, u'stole', 0.050880697, u'cleaver', 0.038867198, u'butcher_shop', 0.035717536]
+[u'kimono', 0.37345201, u'apron', 0.068740398, u'stole', 0.051152728, u'carton', 0.046733148, u'pajama', 0.040082943]
+[u'street_sign', 0.19934338, u'cash_machine', 0.090105787, u'Band_Aid', 0.061572369, u'envelope', 0.054125559, u'book_jacket', 0.045001898]
+[u'ballplayer', 0.36123109, u'torch', 0.087881513, u'baseball', 0.059491996, u'bow', 0.046134707, u'paddle', 0.03492083]

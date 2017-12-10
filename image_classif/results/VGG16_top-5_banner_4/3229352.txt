@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.12068751, u'bow_tie', 0.088311732, u'suit', 0.055579819, u'cloak', 0.040510368, u'knot', 0.03468788]
+[u'torch', 0.078870311, u'candle', 0.03206525, u'ballplayer', 0.029777324, u'barbell', 0.024631193, u'jersey', 0.018638395]
+[u'academic_gown', 0.27020204, u'abaya', 0.087077007, u'barbershop', 0.062361356, u'suit', 0.041944444, u'panpipe', 0.030500337]
+[u'Band_Aid', 0.18857676, u'toilet_tissue', 0.059019383, u'bath_towel', 0.056602623, u'paper_towel', 0.04215496, u'carton', 0.037558783]

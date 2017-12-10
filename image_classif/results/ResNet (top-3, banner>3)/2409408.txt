@@ -1,0 +1,5 @@
+[u'mailbox', 0.22508393, u'backpack', 0.20596953, u'modem', 0.097385205]
+[u'modem', 0.38021019, u'folding_chair', 0.24847935, u'shovel', 0.050104074]
+[u'iron', 0.15480736, u'mailbox', 0.13718861, u'cradle', 0.13431272]
+[u'modem', 0.38021019, u'folding_chair', 0.24847935, u'shovel', 0.050104074]
+[u'fire_screen', 0.17572898, u'vacuum', 0.094884507, u'rotisserie', 0.060597073]

@@ -1,0 +1,3 @@
+[u'stole', 0.20356722, u'cloak', 0.043986142, u'sarong', 0.03050823]
+[u'lotion', 0.24869324, u'sunscreen', 0.23311935, u'soap_dispenser', 0.067311212]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

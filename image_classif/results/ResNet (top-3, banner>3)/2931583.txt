@@ -1,0 +1,2 @@
+[u'nematode', 0.095295183, u'dishwasher', 0.087305494, u'abaya', 0.031107163]
+[u'book_jacket', 0.98124617, u'comic_book', 0.0046510058, u'web_site', 0.0013719564]

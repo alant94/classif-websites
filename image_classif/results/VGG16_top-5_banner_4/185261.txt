@@ -1,0 +1,7 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'orange', 0.41493323, u'grocery_store', 0.29880279, u'barrow', 0.13076004, u'pomegranate', 0.031926535, u"jack-o'-lantern", 0.028678022]
+[u'crutch', 0.096252829, u'unicycle', 0.0732591, u'maze', 0.072054639, u'vestment', 0.05481118, u'cinema', 0.046957105]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'puck', 0.67243832, u'pick', 0.0718069, u'face_powder', 0.033098161, u'bottlecap', 0.031004135, u'rugby_ball', 0.016324675]

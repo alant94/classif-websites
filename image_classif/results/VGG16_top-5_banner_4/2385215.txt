@@ -1,0 +1,6 @@
+[u'snowplow', 0.78403842, u'tow_truck', 0.039466303, u'trolleybus', 0.027609313, u'school_bus', 0.025255928, u'streetcar', 0.013597797]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'beer_bottle', 0.50304508, u'wine_bottle', 0.13977626, u'pop_bottle', 0.11564278, u'paintbrush', 0.072419457, u'fountain_pen', 0.051886965]
+[u'boathouse', 0.24944025, u'mobile_home', 0.20026942, u'picket_fence', 0.056891304, u'palace', 0.02608436, u'patio', 0.022020815]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

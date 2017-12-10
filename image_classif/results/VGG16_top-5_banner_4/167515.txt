@@ -1,0 +1,4 @@
+[u'vestment', 0.15457585, u'lab_coat', 0.1427823, u'cornet', 0.13609812, u'violin', 0.097349942, u'oboe', 0.062113997]
+[u'overskirt', 0.27042297, u'miniskirt', 0.17487147, u'hoopskirt', 0.092257544, u'hand_blower', 0.086048037, u'breastplate', 0.039618675]
+[u'palace', 0.97722727, u'carousel', 0.0094276331, u'fountain', 0.0064391256, u'mosque', 0.0013076327, u'monastery', 0.0011659344]
+[u'abaya', 0.38226923, u'broom', 0.14996514, u'cloak', 0.044866826, u'academic_gown', 0.041979276, u'vacuum', 0.026732402]

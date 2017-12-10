@@ -1,0 +1,2 @@
+[u'streetcar', 0.14897259, u'electric_locomotive', 0.070708543, u'trailer_truck', 0.038442545]
+[u'drum', 0.1559657, u'crutch', 0.062842339, u'marimba', 0.060238097]

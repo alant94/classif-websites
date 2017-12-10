@@ -1,0 +1,7 @@
+[u'minivan', 0.14796989, u'car_wheel', 0.13975106, u'convertible', 0.089423113, u'odometer', 0.085473984, u'disk_brake', 0.075975828]
+[u'cannon', 0.17745814, u'projectile', 0.15431702, u'missile', 0.10139398, u'space_shuttle', 0.078181088, u'warplane', 0.067933328]
+[u'convertible', 0.29247668, u'minivan', 0.12081532, u'cassette_player', 0.12062673, u'tape_player', 0.055805355, u'CD_player', 0.053223848]
+[u'pencil_sharpener', 0.32449117, u'Polaroid_camera', 0.098212525, u'mousetrap', 0.07433597, u'cassette', 0.056531336, u'projector', 0.055057932]
+[u'pencil_sharpener', 0.37316138, u'projector', 0.10448222, u'loupe', 0.088664703, u'scale', 0.040846195, u'waffle_iron', 0.035407938]
+[u'loupe', 0.44551834, u'can_opener', 0.07835307, u'waffle_iron', 0.073494017, u'espresso_maker', 0.053423438, u'Crock_Pot', 0.050733052]
+[u'electric_fan', 0.19324672, u'car_mirror', 0.13396485, u'car_wheel', 0.057552107, u'Model_T', 0.038776569, u'jeep', 0.037602935]

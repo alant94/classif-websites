@@ -1,0 +1,2 @@
+[u'chime', 0.17900798, u"carpenter's_kit", 0.09371689, u'nail', 0.084835403, u'cleaver', 0.07817968, u'hook', 0.065228842]
+[u'nail', 0.18420295, u'screwdriver', 0.10110208, u'picket_fence', 0.085739814, u'coral_fungus', 0.073536813, u'matchstick', 0.059728958]

@@ -1,0 +1,2 @@
+[u'toyshop', 0.73928517, u'mortarboard', 0.021966498, u'shoe_shop', 0.019937031]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867]

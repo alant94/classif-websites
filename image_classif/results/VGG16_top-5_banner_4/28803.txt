@@ -1,0 +1,1 @@
+[u'hand_blower', 0.052160766, u'microphone', 0.033455841, u'power_drill', 0.028159764, u'hook', 0.02778193, u'web_site', 0.026080769]

@@ -1,0 +1,2 @@
+[u'moving_van', 0.11993016, u'lakeside', 0.0734552, u'mobile_home', 0.046629265]
+[u'sulphur-crested_cockatoo', 0.1528732, u'chambered_nautilus', 0.1022668, u'bald_eagle', 0.076678485]

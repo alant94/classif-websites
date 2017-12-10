@@ -1,0 +1,4 @@
+[u'stage', 0.78493196, u'theater_curtain', 0.12968118, u'spotlight', 0.024506969, u'fountain', 0.01254594, u'cinema', 0.006944296]
+[u'web_site', 0.068058789, u'nematode', 0.042149566, u'matchstick', 0.030616686, u'envelope', 0.01860927, u'nail', 0.017984929]
+[u'paddlewheel', 0.92681384, u'fire_engine', 0.024505587, u'fireboat', 0.0082181264, u'garbage_truck', 0.0027932862, u'theater_curtain', 0.0027640497]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

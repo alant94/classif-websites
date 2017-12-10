@@ -1,0 +1,5 @@
+[u'web_site', 0.25098282, u'envelope', 0.096925825, u'jersey', 0.071166009]
+[u'wardrobe', 0.31567907, u'iron', 0.19679327, u'carton', 0.046480276]
+[u'hair_spray', 0.11390701, u'toyshop', 0.10104015, u'medicine_chest', 0.093976021]
+[u'carton', 0.35485351, u'paintbrush', 0.21239324, u'toyshop', 0.03704248]
+[u'web_site', 0.13272491, u'nematode', 0.093511485, u'sea_snake', 0.064126998]

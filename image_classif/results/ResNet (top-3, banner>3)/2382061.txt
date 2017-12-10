@@ -1,0 +1,2 @@
+[u'iron', 0.57112986, u'can_opener', 0.077475786, u'ski', 0.04664759]
+[u'coil', 0.1412278, u'stopwatch', 0.12608792, u'analog_clock', 0.10275638]

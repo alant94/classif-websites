@@ -1,0 +1,7 @@
+[u'bathing_cap', 0.91860569, u'shower_cap', 0.026611654, u'mortarboard', 0.018662473]
+[u'necklace', 0.21942741, u'web_site', 0.15127839, u'paintbrush', 0.10492838]
+[u'restaurant', 0.19898559, u'Crock_Pot', 0.094264656, u'plate', 0.080416426]
+[u'bakery', 0.20793375, u'grocery_store', 0.18401155, u'barbershop', 0.13807021]
+[u'jersey', 0.2097822, u'paintbrush', 0.055852283, u'plastic_bag', 0.047157578]
+[u'ice_cream', 0.18122958, u'corn', 0.14203143, u'plate', 0.11350644]
+[u'comic_book', 0.32268214, u'book_jacket', 0.1627617, u'sweatshirt', 0.09235093]

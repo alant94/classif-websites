@@ -1,0 +1,5 @@
+[u'paper_towel', 0.22168928, u'toilet_tissue', 0.14656819, u'prison', 0.10380672]
+[u'barrel', 0.5934968, u'vault', 0.20500551, u'lumbermill', 0.032635257]
+[u'pole', 0.1348483, u'bookshop', 0.081644364, u'moving_van', 0.049085595]
+[u'book_jacket', 0.15284406, u'lakeside', 0.062684797, u'pole', 0.06058209]
+[u'slide_rule', 0.19818507, u'bow', 0.10615136, u'pole', 0.048855476]

@@ -1,0 +1,6 @@
+[u'cassette_player', 0.14663853, u'mousetrap', 0.068062171, u'jean', 0.067117512]
+[u'web_site', 0.045299791, u'hook', 0.044338856, u'jersey', 0.039055333]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'binder', 0.27915606, u'envelope', 0.1967175, u'lipstick', 0.067234851]
+[u'rugby_ball', 0.19456941, u'soccer_ball', 0.18381818, u'jersey', 0.11616664]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

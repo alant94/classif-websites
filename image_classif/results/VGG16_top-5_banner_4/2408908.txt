@@ -1,0 +1,4 @@
+[u'submarine', 0.33241948, u'volcano', 0.16210954, u'airship', 0.14975448, u'wing', 0.11948957, u'bullet_train', 0.044331349]
+[u'seat_belt', 0.094202742, u'ping-pong_ball', 0.046943698, u'shower_curtain', 0.042167634, u'neck_brace', 0.039922241, u'hand_blower', 0.038224548]
+[u'bikini', 0.26976922, u'diaper', 0.1762062, u'tub', 0.14172116, u'maillot', 0.1198749, u'bathtub', 0.044048905]
+[u'sleeping_bag', 0.22615796, u'tub', 0.19446771, u'bassinet', 0.10923453, u'diaper', 0.09745466, u'bathtub', 0.04934068]

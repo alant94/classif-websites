@@ -1,0 +1,6 @@
+[u'ambulance', 0.10737132, u'whistle', 0.059003755, u'hatchet', 0.058192872]
+[u'sliding_door', 0.66829449, u'bannister', 0.15617369, u'picket_fence', 0.024512406]
+[u'whistle', 0.2469705, u'power_drill', 0.057832867, u'ambulance', 0.055649184]
+[u'digital_clock', 0.12668523, u'rule', 0.087812446, u'web_site', 0.077455305]
+[u'oscilloscope', 0.80033493, u'web_site', 0.176907, u'envelope', 0.0015002122]
+[u'prayer_rug', 0.57924718, u'picket_fence', 0.055289999, u'quilt', 0.035713263]

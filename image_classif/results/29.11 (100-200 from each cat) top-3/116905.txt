@@ -1,0 +1,5 @@
+[u'digital_clock', 0.4799847, u'ashcan', 0.04924741, u'traffic_light', 0.049093697]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'oscilloscope', 0.88390237, u'scoreboard', 0.050185289, u'modem', 0.020964621]
+[u'joystick', 0.30449226, u'radio', 0.22224103, u'binoculars', 0.071194515]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

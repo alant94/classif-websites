@@ -1,0 +1,7 @@
+[u'birdhouse', 0.25526863, u'gas_pump', 0.05381177, u'shopping_cart', 0.043845125]
+[u'web_site', 0.087406695, u'pillow', 0.068141088, u'jersey', 0.057696205]
+[u'barn', 0.48070896, u'picket_fence', 0.055085465, u'croquet_ball', 0.042544242]
+[u'rapeseed', 0.51291919, u'valley', 0.13447277, u'lakeside', 0.10398229]
+[u'water_tower', 0.91108102, u'birdhouse', 0.029245093, u'pole', 0.0058321222]
+[u'ibex', 0.74760169, u'hartebeest', 0.12810391, u'gazelle', 0.038613174]
+[u'gazelle', 0.58415544, u'impala', 0.34041461, u'hartebeest', 0.063143261]

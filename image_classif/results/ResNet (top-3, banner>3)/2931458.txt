@@ -1,0 +1,3 @@
+[u'tennis_ball', 0.31572866, u'pill_bottle', 0.31212619, u'ping-pong_ball', 0.14464779]
+[u'binder', 0.38590255, u'envelope', 0.12882601, u'book_jacket', 0.095358483]
+[u'quill', 0.29339209, u'fountain', 0.052701525, u'broom', 0.045259546]

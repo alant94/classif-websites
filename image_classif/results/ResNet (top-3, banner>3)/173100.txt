@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.92119902, u'red_wine', 0.01304182, u'book_jacket', 0.011565845]
+[u'accordion', 0.99999261, u'oil_filter', 1.5089934e-06, u'upright', 1.3615871e-06]
+[u'gong', 0.87862885, u'barrel', 0.041562643, u'drum', 0.024341432]

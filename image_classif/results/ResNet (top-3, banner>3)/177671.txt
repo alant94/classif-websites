@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.69050187, u'web_site', 0.052712299, u'pill_bottle', 0.033565626]
+[u'analog_clock', 0.74551016, u'wall_clock', 0.10722684, u'web_site', 0.018698649]
+[u'web_site', 0.63207179, u'maillot', 0.056712151, u'menu', 0.046420474]

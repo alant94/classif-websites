@@ -1,0 +1,8 @@
+[u'parachute', 0.039198305, u'promontory', 0.037550535, u'seashore', 0.028940337, u'breakwater', 0.028610442, u'sandbar', 0.026328346]
+[u'laptop', 0.11549753, u'Christmas_stocking', 0.068652757, u'library', 0.037130091, u'abacus', 0.034851678, u'crib', 0.032861292]
+[u'web_site', 0.22013579, u'notebook', 0.093631037, u'packet', 0.057314266, u'laptop', 0.049485181, u'carton', 0.038120829]
+[u'jigsaw_puzzle', 0.85596502, u'wall_clock', 0.021576341, u'tray', 0.0065253684, u'castle', 0.0039800662, u'pencil_sharpener', 0.0026411845]
+[u'refrigerator', 0.78331339, u'microwave', 0.025110997, u'medicine_chest', 0.01172418, u'bakery', 0.0089003965, u'face_powder', 0.0082209855]
+[u'promontory', 0.085031703, u'breakwater', 0.064662062, u'cliff', 0.046007261, u'parachute', 0.043358326, u'seashore', 0.042514615]
+[u'airliner', 0.29615089, u'wing', 0.055064283, u'airship', 0.035767425, u'street_sign', 0.034089375, u'warplane', 0.031745352]
+[u'triumphal_arch', 0.11510761, u'space_shuttle', 0.056936283, u'throne', 0.05326198, u'horse_cart', 0.045755193, u'fountain', 0.038651589]

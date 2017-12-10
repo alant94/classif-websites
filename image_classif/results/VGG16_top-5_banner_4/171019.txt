@@ -1,0 +1,4 @@
+[u'plow', 0.15201186, u'totem_pole', 0.12436686, u'hay', 0.07755141, u'tractor', 0.070136733, u'mailbox', 0.065182999]
+[u'crane', 0.91852415, u'hook', 0.013681701, u'drilling_platform', 0.010247199, u'pole', 0.008737687, u'swing', 0.0065770098]
+[u'suit', 0.13844863, u'academic_gown', 0.060217448, u'gondola', 0.027048435, u'coho', 0.027047649, u'paddlewheel', 0.02682736]
+[u'shower_curtain', 0.13470317, u'Windsor_tie', 0.026684815, u'stole', 0.025980419, u'window_shade', 0.02491107, u'crossword_puzzle', 0.02440574]

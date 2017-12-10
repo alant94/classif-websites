@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.84607059, u'diaper', 0.028001966, u'bath_towel', 0.016187526]
+[u"potter's_wheel", 0.5693931, u'Band_Aid', 0.16104688, u'dugong', 0.022857865]
+[u'skunk', 0.19254677, u'axolotl', 0.13369857, u"potter's_wheel", 0.05914066]
+[u'carton', 0.61816108, u'safe', 0.15156305, u'binder', 0.025905393]
+[u'soap_dispenser', 0.1062908, u'washbasin', 0.052018389, u'paper_towel', 0.041480705]
+[u'axolotl', 0.09941408, u'nipple', 0.038948808, u'plunger', 0.035084479]

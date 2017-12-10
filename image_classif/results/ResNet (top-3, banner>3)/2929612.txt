@@ -1,0 +1,3 @@
+[u'digital_clock', 0.52241546, u'oscilloscope', 0.24365623, u'analog_clock', 0.060160596]
+[u'dragonfly', 0.28506964, u'bubble', 0.23881942, u'nematode', 0.088059254]
+[u'lorikeet', 0.49254137, u'sarong', 0.28767544, u'jersey', 0.038886555]

@@ -1,0 +1,2 @@
+[u'quilt', 0.5055021, u'studio_couch', 0.055097867, u'washer', 0.048123304]
+[u'studio_couch', 0.98593533, u'throne', 0.0037422667, u'four-poster', 0.0026248526]

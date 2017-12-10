@@ -1,0 +1,4 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'envelope', 0.019152585, u'cleaver', 0.013927598, u'face_powder', 0.0091718184, u'can_opener', 0.0081354305, u'corkscrew', 0.0078058001]
+[u'binder', 0.2658723, u'fire_screen', 0.20088933, u'book_jacket', 0.10392424, u'hook', 0.042662382, u'rule', 0.029862322]
+[u'envelope', 0.019152585, u'cleaver', 0.013927598, u'face_powder', 0.0091718184, u'can_opener', 0.0081354305, u'corkscrew', 0.0078058001]

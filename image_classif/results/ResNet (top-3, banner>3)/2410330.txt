@@ -1,0 +1,7 @@
+[u'plunger', 0.9891423, u'spindle', 0.0062483437, u'hammer', 0.0016992982]
+[u'honeycomb', 0.14723459, u'thimble', 0.12637328, u'bolo_tie', 0.059718534]
+[u'jigsaw_puzzle', 0.61061925, u'tobacco_shop', 0.070938222, u'prayer_rug', 0.051885113]
+[u'buckle', 0.42829695, u'racket', 0.2082801, u'bottlecap', 0.097458646]
+[u'buckle', 0.39378735, u'pick', 0.16457321, u'thimble', 0.12216986]
+[u'buckle', 0.19115859, u'face_powder', 0.06463211, u'bottlecap', 0.047319129]
+[u'lab_coat', 0.43804619, u'vestment', 0.21627671, u'kimono', 0.023501141]

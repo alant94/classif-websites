@@ -1,0 +1,6 @@
+[u'book_jacket', 0.62282217, u'jersey', 0.023242852, u'comic_book', 0.019234166, u'packet', 0.018647647, u'web_site', 0.017906828]
+[u'French_loaf', 0.47425354, u'wooden_spoon', 0.18818682, u'butternut_squash', 0.083730124, u'clog', 0.044948958, u'matchstick', 0.020595703]
+[u'web_site', 0.53134829, u'packet', 0.19109793, u'menu', 0.15240684, u'scoreboard', 0.014959877, u'comic_book', 0.011128285]
+[u'beer_bottle', 0.31507125, u'traffic_light', 0.14863139, u'puck', 0.091369644, u'bottlecap', 0.058889363, u'pop_bottle', 0.03708135]
+[u'book_jacket', 0.42973745, u'comic_book', 0.27240956, u'envelope', 0.042503253, u'binder', 0.040781956, u'safety_pin', 0.015864948]
+[u'crutch', 0.18386047, u'swab', 0.043495849, u'prison', 0.037042707, u'bow', 0.029147435, u'vacuum', 0.026661864]

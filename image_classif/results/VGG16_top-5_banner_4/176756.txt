@@ -1,0 +1,4 @@
+[u'pay-phone', 0.30783716, u'parking_meter', 0.15638383, u'slot', 0.041177668, u'loupe', 0.036024407, u'stopwatch', 0.035223477]
+[u'web_site', 0.99567598, u'monitor', 0.00086135411, u'screen', 0.00047267028, u'cash_machine', 0.00021267374, u'laptop', 0.00019179931]
+[u'web_site', 0.9240045, u'menu', 0.036576498, u'envelope', 0.016053153, u'monitor', 0.0013719019, u'binder', 0.00096421572]
+[u'web_site', 0.57437211, u'rule', 0.069153547, u'crossword_puzzle', 0.029364508, u'plate_rack', 0.028184727, u'envelope', 0.019025462]

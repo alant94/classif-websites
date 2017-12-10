@@ -1,0 +1,2 @@
+[u'web_site', 0.30818611, u'comic_book', 0.19177383, u'coffee_mug', 0.054061323]
+[u'book_jacket', 0.48091787, u'screen', 0.19932018, u'monitor', 0.061191488]

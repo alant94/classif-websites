@@ -1,0 +1,1 @@
+[u'water_bottle', 0.23061125, u'perfume', 0.1759911, u'pop_bottle', 0.1565481, u'beer_bottle', 0.13361515, u'bubble', 0.057939593]

@@ -1,0 +1,4 @@
+[u'clog', 0.15428837, u'ski', 0.13520135, u'pick', 0.13501182, u'paddle', 0.065317132, u'can_opener', 0.053053349]
+[u'packet', 0.7164818, u'web_site', 0.081022538, u'stopwatch', 0.01858042, u'scoreboard', 0.01751137, u'comic_book', 0.014995283]
+[u'dining_table', 0.17495136, u'gong', 0.083687074, u'maraca', 0.074629217, u'patio', 0.030224964, u'upright', 0.023366692]
+[u'Band_Aid', 0.30921069, u'web_site', 0.054443505, u'envelope', 0.054074977, u'rubber_eraser', 0.042379864, u'digital_clock', 0.037389901]

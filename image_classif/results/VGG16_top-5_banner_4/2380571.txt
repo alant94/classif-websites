@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.22857611, u'book_jacket', 0.044543855, u'crossword_puzzle', 0.038835354, u'picket_fence', 0.029005509, u'digital_clock', 0.023133412]
+[u'web_site', 0.14705236, u'tripod', 0.041049559, u'rule', 0.036000714, u'hook', 0.034290407, u'crane', 0.030218598]
+[u'bell_cote', 0.21026324, u'airship', 0.093183033, u'container_ship', 0.056207653, u'balloon', 0.043208521, u'analog_clock', 0.029395524]
+[u'envelope', 0.10122575, u'wall_clock', 0.03308446, u'street_sign', 0.029491078, u'flagpole', 0.026332667, u'warplane', 0.024901532]

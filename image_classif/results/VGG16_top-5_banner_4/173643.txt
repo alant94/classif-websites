@@ -1,0 +1,1 @@
+[u'basset', 0.82357275, u'beagle', 0.081246354, u'bloodhound', 0.025059994, u'Labrador_retriever', 0.0079167401, u'Pembroke', 0.0049910997]

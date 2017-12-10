@@ -1,0 +1,2 @@
+[u'web_site', 0.086897247, u'barbershop', 0.043666787, u'book_jacket', 0.022469517]
+[u'warplane', 0.65841186, u'wing', 0.14811194, u'projectile', 0.14210585]

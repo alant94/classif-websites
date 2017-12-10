@@ -1,0 +1,2 @@
+[u'shopping_cart', 0.10654078, u'drum', 0.052892342, u'grand_piano', 0.050203606, u'stage', 0.048086375, u'sewing_machine', 0.037322707]
+[u'switch', 0.2567364, u'power_drill', 0.15624091, u'joystick', 0.14014043, u'mousetrap', 0.046793357, u"carpenter's_kit", 0.030193396]

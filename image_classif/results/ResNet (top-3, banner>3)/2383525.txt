@@ -1,0 +1,6 @@
+[u'space_shuttle', 0.3788732, u'nipple', 0.12456935, u'screw', 0.063768096]
+[u'book_jacket', 0.1650527, u'theater_curtain', 0.045127761, u'web_site', 0.039896004]
+[u'crutch', 0.1884516, u'washer', 0.11955078, u'projector', 0.078945778]
+[u'envelope', 0.34880233, u'street_sign', 0.059210528, u'digital_clock', 0.044401925]
+[u'envelope', 0.13358812, u'web_site', 0.12154414, u'screw', 0.068603121]
+[u'web_site', 0.1211252, u'jersey', 0.054631967, u'digital_clock', 0.038175557]

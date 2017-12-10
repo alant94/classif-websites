@@ -1,0 +1,8 @@
+[u'screw', 0.094691932, u'nail', 0.054000009, u'necklace', 0.05173168, u'hair_slide', 0.035081491, u'cleaver', 0.028900871]
+[u'street_sign', 0.38310352, u'Band_Aid', 0.054438099, u'oil_filter', 0.021641005, u'hook', 0.01834733, u'mousetrap', 0.016171716]
+[u'hair_slide', 0.67221665, u'bolo_tie', 0.10630596, u'whistle', 0.049821086, u'pinwheel', 0.026785189, u'buckle', 0.019796982]
+[u'lampshade', 0.11159107, u'banana', 0.098255508, u'quill', 0.086626701, u'goblet', 0.06372153, u'red_wine', 0.056818414]
+[u'panpipe', 0.12095109, u'bell_cote', 0.07121677, u'matchstick', 0.067117266, u'pencil_sharpener', 0.053650044, u'stupa', 0.048814043]
+[u'envelope', 0.083363503, u'binder', 0.082659565, u'toilet_seat', 0.058021959, u'modem', 0.047584195, u'lighter', 0.034189254]
+[u'envelope', 0.069080405, u'stole', 0.0519557, u'bell_cote', 0.031892095, u'matchstick', 0.024509205, u'Windsor_tie', 0.023248294]
+[u'mantis', 0.27718586, u'purse', 0.12299978, u'carton', 0.070515513, u'matchstick', 0.060298871, u'mousetrap', 0.039223511]

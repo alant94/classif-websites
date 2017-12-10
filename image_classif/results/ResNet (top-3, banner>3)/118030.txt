@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.39554527, u'prayer_rug', 0.26466808, u'rain_barrel', 0.025514878]
+[u'can_opener', 0.40753406, u'jersey', 0.12059478, u'cocktail_shaker', 0.069401041]

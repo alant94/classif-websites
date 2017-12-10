@@ -1,0 +1,1 @@
+[u'jellyfish', 0.18619403, u'nematode', 0.090590768, u'jersey', 0.069917917, u'vine_snake', 0.057202373, u'volcano', 0.048403203]

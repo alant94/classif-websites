@@ -1,0 +1,4 @@
+[u'bubble', 0.34125242, u'water_bottle', 0.23985665, u'saltshaker', 0.17909811, u'spotlight', 0.061738841, u'jellyfish', 0.032892041]
+[u'envelope', 0.42217568, u'Windsor_tie', 0.060921617, u'Band_Aid', 0.053904813, u'web_site', 0.049201332, u'digital_clock', 0.034397155]
+[u'binder', 0.11184789, u'measuring_cup', 0.089078657, u'hamper', 0.08710473, u'refrigerator', 0.075939618, u'perfume', 0.073087685]
+[u'envelope', 0.32986426, u'Band_Aid', 0.044773359, u'honeycomb', 0.043402679, u'matchstick', 0.035058323, u'web_site', 0.028789951]

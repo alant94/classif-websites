@@ -1,0 +1,4 @@
+[u'pill_bottle', 0.4227567, u'medicine_chest', 0.2783238, u'beer_bottle', 0.051527508, u'hamper', 0.034655895, u'lotion', 0.027414208]
+[u'menu', 0.54554766, u'book_jacket', 0.18376912, u'packet', 0.074482627, u'binder', 0.02724161, u'lotion', 0.021743091]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'red_wine', 0.18864597, u'acorn_squash', 0.16235754, u'goblet', 0.08224491, u'wine_bottle', 0.065529279, u'plate', 0.059649218]

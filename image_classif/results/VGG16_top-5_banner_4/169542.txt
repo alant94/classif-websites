@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.47547606, u'pencil_sharpener', 0.11194198, u'harp', 0.10422853, u'sundial', 0.058150329, u'rule', 0.039339915]

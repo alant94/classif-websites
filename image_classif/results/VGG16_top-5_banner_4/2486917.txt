@@ -1,0 +1,7 @@
+[u'gas_pump', 0.10059049, u'pole', 0.062892355, u'mailbox', 0.059693597, u'traffic_light', 0.039303899, u'pay-phone', 0.037841525]
+[u'rocking_chair', 0.28962758, u'bow', 0.079152144, u'balance_beam', 0.071885638, u'Christmas_stocking', 0.059266161, u'muzzle', 0.053303521]
+[u'barn', 0.29157698, u'mobile_home', 0.11701449, u'yurt', 0.10726738, u'patio', 0.046407145, u'worm_fence', 0.024088206]
+[u'cliff', 0.40076452, u'valley', 0.17893973, u'stone_wall', 0.12000495, u'alp', 0.043087438, u'lakeside', 0.031383239]
+[u'water_tower', 0.49944583, u'missile', 0.11982362, u'beacon', 0.064812124, u'projectile', 0.058857966, u'chime', 0.013764487]
+[u'impala', 0.53758699, u'gazelle', 0.19996126, u'hartebeest', 0.16749042, u'ibex', 0.064954638, u'coyote', 0.0088110492]
+[u'impala', 0.34166574, u'hartebeest', 0.33830088, u'gazelle', 0.2991651, u'bighorn', 0.010002038, u'coyote', 0.002232874]

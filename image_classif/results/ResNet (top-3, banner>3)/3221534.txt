@@ -1,0 +1,7 @@
+[u'shield', 0.70617336, u'throne', 0.022533232, u'analog_clock', 0.019698692]
+[u'Old_English_sheepdog', 0.11150949, u'fire_screen', 0.10584161, u'candle', 0.065634958]
+[u'prayer_rug', 0.15289126, u'shower_curtain', 0.10473122, u'tray', 0.05596254]
+[u'altar', 0.98014188, u'vault', 0.010354425, u'church', 0.003310041]
+[u'web_site', 0.32990706, u'street_sign', 0.062411528, u'comic_book', 0.057426628]
+[u'street_sign', 0.4412649, u'book_jacket', 0.081159711, u'carton', 0.054592475]
+[u'web_site', 0.45039853, u'envelope', 0.26761407, u'digital_clock', 0.010917273]

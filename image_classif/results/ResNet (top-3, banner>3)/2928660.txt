@@ -1,0 +1,7 @@
+[u'web_site', 0.35280833, u'stove', 0.33735624, u'wok', 0.041169129]
+[u'jersey', 0.22758728, u'cardigan', 0.11402743, u'poncho', 0.057068136]
+[u'street_sign', 0.1077292, u'cup', 0.09000124, u'coffee_mug', 0.083377808]
+[u'loupe', 0.46247223, u'rubber_eraser', 0.041478004, u'envelope', 0.029705282]
+[u'book_jacket', 0.20976172, u'cellular_telephone', 0.16850939, u'stopwatch', 0.088552363]
+[u'prayer_rug', 0.18728685, u'maze', 0.076700985, u'shield', 0.053852081]
+[u'electric_guitar', 0.61522818, u'street_sign', 0.070185684, u'book_jacket', 0.056416113]

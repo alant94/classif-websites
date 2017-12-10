@@ -1,0 +1,5 @@
+[u'hook', 0.25508657, u'chain', 0.16203715, u'cleaver', 0.066031761]
+[u'teapot', 0.57143438, u'coffeepot', 0.40788284, u'water_jug', 0.0078364937]
+[u'jigsaw_puzzle', 0.99998295, u'pencil_sharpener', 3.3591341e-06, u'book_jacket', 1.4439507e-06]
+[u'jigsaw_puzzle', 0.99262083, u'face_powder', 0.0011966299, u'book_jacket', 0.0011312698]
+[u'jigsaw_puzzle', 0.99756598, u'freight_car', 0.00018551122, u'padlock', 0.00016728038]

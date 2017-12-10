@@ -1,0 +1,6 @@
+[u'packet', 0.37811956, u'book_jacket', 0.11488932, u'jersey', 0.10490112]
+[u'bannister', 0.97183704, u'vault', 0.0097757513, u'chainlink_fence', 0.0031100903]
+[u'web_site', 0.59484154, u'menu', 0.058736585, u'freight_car', 0.03208464]
+[u'turnstile', 0.49368265, u'dining_table', 0.10654421, u'rocking_chair', 0.10155251]
+[u'mailbox', 0.25033712, u'envelope', 0.043349173, u'digital_clock', 0.041422293]
+[u'folding_chair', 0.99727172, u'cinema', 0.00057237124, u'shopping_cart', 0.00015166169]

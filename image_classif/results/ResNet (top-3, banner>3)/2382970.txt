@@ -1,0 +1,6 @@
+[u'fire_screen', 0.66725492, u'caldron', 0.0944442, u'stove', 0.072282478]
+[u'fire_screen', 0.6064344, u'book_jacket', 0.12996791, u'space_heater', 0.076480888]
+[u'comic_book', 0.56405109, u'book_jacket', 0.14396648, u'web_site', 0.10533857]
+[u'web_site', 0.28096342, u'book_jacket', 0.092176862, u'comic_book', 0.06032126]
+[u'spaghetti_squash', 0.30993053, u'maraca', 0.12682906, u'acorn', 0.094861485]
+[u'toaster', 0.2664265, u'hamper', 0.074362837, u'red_wine', 0.0618283]

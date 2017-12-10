@@ -1,0 +1,5 @@
+[u'cowboy_hat', 0.24093384, u'sweatshirt', 0.1044231, u'sombrero', 0.10297298, u'ski_mask', 0.07293234, u'bathing_cap', 0.071690306]
+[u'church', 0.22731899, u'monastery', 0.13663621, u'castle', 0.085585482, u'altar', 0.080229737, u'guillotine', 0.039234258]
+[u'shower_curtain', 0.36902285, u'scuba_diver', 0.17021908, u'jellyfish', 0.11442516, u'stage', 0.057862069, u'oxygen_mask', 0.013555519]
+[u'sliding_door', 0.1814376, u'picket_fence', 0.063374221, u'bookcase', 0.038301662, u'window_shade', 0.035117894, u'cash_machine', 0.035003558]
+[u'birdhouse', 0.43685949, u'chime', 0.22204383, u'swing', 0.048562303, u'cloak', 0.025158629, u'vestment', 0.021716604]

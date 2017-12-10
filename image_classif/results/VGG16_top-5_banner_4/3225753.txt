@@ -1,0 +1,5 @@
+[u'beer_glass', 0.2232516, u'coral_fungus', 0.10741635, u'book_jacket', 0.10664947, u'picket_fence', 0.053002253, u'fountain', 0.051061876]
+[u'ashcan', 0.5253579, u'beer_glass', 0.056768555, u'barrel', 0.037373032, u'book_jacket', 0.02390001, u'pop_bottle', 0.023827115]
+[u'picket_fence', 0.78418696, u'rule', 0.091566496, u'worm_fence', 0.075107791, u'book_jacket', 0.019406073, u'scoreboard', 0.0044335555]
+[u'rule', 0.27663845, u'nail', 0.2747981, u'book_jacket', 0.037438907, u'screwdriver', 0.025042148, u'slide_rule', 0.021640943]
+[u'book_jacket', 0.60728335, u'street_sign', 0.054448158, u'cliff', 0.01411492, u'cliff_dwelling', 0.013355851, u'pole', 0.011321454]

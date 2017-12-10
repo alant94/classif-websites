@@ -1,0 +1,4 @@
+[u'cloak', 0.73057634, u'velvet', 0.050994638, u'overskirt', 0.049987525, u'trench_coat', 0.045490727, u'hoopskirt', 0.022831326]
+[u'abaya', 0.25574413, u'trench_coat', 0.13337135, u'velvet', 0.10571402, u'overskirt', 0.096731484, u'cloak', 0.052558653]
+[u'trench_coat', 0.26248884, u'lab_coat', 0.20907865, u'pajama', 0.12905641, u'fur_coat', 0.113877, u'stole', 0.068997934]
+[u'abaya', 0.24246377, u'cloak', 0.2316014, u'overskirt', 0.14873436, u'hoopskirt', 0.14099665, u'velvet', 0.036025655]

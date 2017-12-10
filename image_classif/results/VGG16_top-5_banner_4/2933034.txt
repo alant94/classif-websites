@@ -1,0 +1,3 @@
+[u'stupa', 0.34989476, u'necklace', 0.094269045, u'jigsaw_puzzle', 0.051365878, u'balloon', 0.049520768, u'coil', 0.047201049]
+[u'maze', 0.50030231, u'peacock', 0.10770062, u'worm_fence', 0.07995864, u'greenhouse', 0.073067695, u'fountain', 0.058529347]
+[u'park_bench', 0.27430457, u'rocking_chair', 0.09686505, u'birdhouse', 0.096415848, u'mailbox', 0.066765726, u'picket_fence', 0.049949929]

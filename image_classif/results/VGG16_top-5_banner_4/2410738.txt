@@ -1,0 +1,2 @@
+[u'web_site', 0.23294695, u'book_jacket', 0.083904974, u'envelope', 0.049067151, u'puck', 0.037413426, u'ski', 0.020307049]
+[u'wine_bottle', 0.22515285, u'candle', 0.14172843, u'red_wine', 0.096954025, u'vase', 0.06441842, u'lipstick', 0.06280949]

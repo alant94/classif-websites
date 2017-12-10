@@ -1,0 +1,2 @@
+[u'wig', 0.25052452, u'puffer', 0.13378598, u'beer_glass', 0.061144672, u'shower_cap', 0.056581028, u'bow_tie', 0.054746598]
+[u'bathing_cap', 0.20446369, u'fountain', 0.10362753, u'fireboat', 0.08086013, u'wig', 0.07129477, u'car_mirror', 0.051564217]

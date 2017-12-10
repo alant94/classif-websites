@@ -1,0 +1,6 @@
+[u'bison', 0.14327234, u'ostrich', 0.080303915, u'geyser', 0.055252846, u'crane', 0.054179613, u'hartebeest', 0.052092545]
+[u'lighter', 0.056249749, u'syringe', 0.055925071, u'rule', 0.049315874, u'matchstick', 0.045700729, u'rubber_eraser', 0.040755186]
+[u'bell_cote', 0.10027871, u'beacon', 0.081171118, u'church', 0.04263436, u'dome', 0.040852863, u'analog_clock', 0.033411335]
+[u'washbasin', 0.065039754, u'toilet_seat', 0.027917696, u'digital_clock', 0.027168445, u'oscilloscope', 0.02708845, u'bathtub', 0.026777828]
+[u'fur_coat', 0.17490868, u'Arabian_camel', 0.077545673, u'poncho', 0.037792619, u'conch', 0.029571572, u'Italian_greyhound', 0.023460722]
+[u'fountain', 0.26852164, u'geyser', 0.12242138, u'fireboat', 0.050915722, u'book_jacket', 0.045269292, u'killer_whale', 0.018203119]

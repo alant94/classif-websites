@@ -1,0 +1,6 @@
+[u'digital_clock', 0.1138282, u'loudspeaker', 0.045103058, u'web_site', 0.037509933]
+[u'envelope', 0.19250394, u'scale', 0.15806502, u'broom', 0.066235326]
+[u'web_site', 0.17431338, u'envelope', 0.078869298, u'digital_clock', 0.042584933]
+[u'web_site', 0.085963316, u'envelope', 0.041739065, u'cleaver', 0.032312453]
+[u'sunscreen', 0.16194952, u'web_site', 0.053000595, u'book_jacket', 0.05270965]
+[u'street_sign', 0.91807336, u'digital_clock', 0.020968143, u'rule', 0.013255396]

@@ -1,0 +1,2 @@
+[u'frying_pan', 0.084004089, u'web_site', 0.078636609, u'toilet_seat', 0.066003859]
+[u'ambulance', 0.39758644, u'drilling_platform', 0.10740409, u'king_crab', 0.070846222]

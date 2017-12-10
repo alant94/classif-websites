@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.90855479, u'diaper', 0.067890964, u'brassiere', 0.00791205]
+[u'swimming_trunks', 0.83527607, u'punching_bag', 0.02234168, u'bathing_cap', 0.015822012]
+[u'lighter', 0.1314498, u'medicine_chest', 0.097741671, u'shower_cap', 0.083516255]

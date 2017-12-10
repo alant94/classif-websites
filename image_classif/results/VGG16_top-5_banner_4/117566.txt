@@ -1,0 +1,3 @@
+[u'bonnet', 0.17264797, u'sombrero', 0.041163292, u'bolete', 0.028623745, u'cloak', 0.027201219, u'conch', 0.019472009]
+[u'corkscrew', 0.65680438, u'bow', 0.15561022, u'warplane', 0.028794741, u'chain_saw', 0.018443279, u'wing', 0.016951336]
+[u'jersey', 0.091479734, u'tench', 0.058946345, u'ice_lolly', 0.042448267, u'sweatshirt', 0.036224056, u'croquet_ball', 0.029065587]

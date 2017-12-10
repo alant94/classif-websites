@@ -1,0 +1,4 @@
+[u'street_sign', 0.21211618, u'flagpole', 0.089174457, u'pole', 0.058936842, u'traffic_light', 0.056369424, u'parachute', 0.0438786]
+[u'street_sign', 0.079299569, u'airship', 0.070485711, u'parachute', 0.057925556, u'flagpole', 0.05689878, u'crane', 0.032714959]
+[u'street_sign', 0.27669841, u'parachute', 0.086680114, u'flagpole', 0.061128747, u'airship', 0.058757573, u'traffic_light', 0.05571574]
+[u'street_sign', 0.18571845, u'parachute', 0.067626588, u'traffic_light', 0.065793321, u'airship', 0.057477366, u'flagpole', 0.053977557]

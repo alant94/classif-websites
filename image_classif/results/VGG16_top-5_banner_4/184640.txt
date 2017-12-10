@@ -1,0 +1,2 @@
+[u'web_site', 0.065548338, u'sunscreen', 0.047055434, u'bathing_cap', 0.029898508, u'tennis_ball', 0.026423059, u'nipple', 0.022451954]
+[u'warplane', 0.90397745, u'wing', 0.032970455, u'projectile', 0.023248419, u'missile', 0.016051624, u'aircraft_carrier', 0.0099729365]

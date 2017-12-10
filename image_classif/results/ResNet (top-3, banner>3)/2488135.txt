@@ -1,0 +1,5 @@
+[u'wardrobe', 0.13719968, u'desk', 0.081820421, u'prayer_rug', 0.077323198]
+[u'impala', 0.60459387, u'hartebeest', 0.1129481, u'ibex', 0.073846474]
+[u'wild_boar', 0.69658136, u'hog', 0.3026751, u'warthog', 0.00073338306]
+[u'flagpole', 0.39441535, u'obelisk', 0.22694038, u'water_tower', 0.13480721]
+[u'drake', 0.99848831, u'goose', 0.0011242725, u'red-breasted_merganser', 0.00025955931]

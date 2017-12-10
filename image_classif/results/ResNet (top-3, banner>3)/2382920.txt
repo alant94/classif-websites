@@ -1,0 +1,8 @@
+[u'electric_fan', 0.19438381, u'pinwheel', 0.14777847, u'comic_book', 0.12892455]
+[u'church', 0.67302012, u'vault', 0.10217259, u'altar', 0.060172237]
+[u'church', 0.59323889, u'altar', 0.25080034, u'mosque', 0.046733461]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'panpipe', 0.52756512, u'church', 0.34261581, u'bannister', 0.019995669]
+[u'patio', 0.7613169, u'restaurant', 0.21780914, u'dining_table', 0.01639751]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.25044397, u'shoji', 0.15241927, u'bannister', 0.069728538]

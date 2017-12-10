@@ -1,0 +1,1 @@
+[u'water_buffalo', 0.20184347, u'ibex', 0.17207679, u'wallaby', 0.14218944]

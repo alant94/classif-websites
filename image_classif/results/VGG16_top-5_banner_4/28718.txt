@@ -1,0 +1,2 @@
+[u'hair_spray', 0.16372614, u'menu', 0.069868006, u'crossword_puzzle', 0.064342588, u'lab_coat', 0.061877403, u'sunscreen', 0.042972118]
+[u'nail', 0.046602201, u'rule', 0.028334498, u'envelope', 0.023298489, u'web_site', 0.019920496, u'power_drill', 0.01732436]

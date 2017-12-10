@@ -1,0 +1,5 @@
+[u'abaya', 0.33423582, u'altar', 0.17845011, u'wardrobe', 0.078308627]
+[u'geyser', 0.78597945, u'volcano', 0.080704108, u'fountain', 0.042363688]
+[u'maze', 0.99328303, u'bolo_tie', 0.0021037157, u'stopwatch', 0.0011080296]
+[u'wardrobe', 0.54219264, u'ski', 0.12802197, u'jean', 0.072239764]
+[u'wardrobe', 0.53001028, u'Indian_elephant', 0.056187365, u'altar', 0.034938302]

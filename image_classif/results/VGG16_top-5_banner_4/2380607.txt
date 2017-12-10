@@ -1,0 +1,5 @@
+[u'CD_player', 0.22110419, u'cassette_player', 0.18083572, u'tape_player', 0.085260011, u'radio', 0.048037533, u'hard_disc', 0.021672023]
+[u'lotion', 0.18513589, u'perfume', 0.14370295, u'whiskey_jug', 0.11282484, u'pill_bottle', 0.068145566, u'chocolate_sauce', 0.06353689]
+[u'beer_bottle', 0.936014, u'pop_bottle', 0.019094119, u'paintbrush', 0.016175415, u'wine_bottle', 0.014042768, u'grocery_store', 0.00283509]
+[u'puck', 0.99731618, u'shield', 0.0011235975, u'bottlecap', 0.00045866345, u'face_powder', 0.00024601605, u'buckle', 0.00021514227]
+[u'puck', 0.99832505, u'shield', 0.00061580818, u'bottlecap', 0.00028335105, u'face_powder', 0.00021754907, u'buckle', 0.00015222884]

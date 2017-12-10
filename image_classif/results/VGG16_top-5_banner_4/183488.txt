@@ -1,0 +1,2 @@
+[u'syringe', 0.36477461, u'hair_spray', 0.17645876, u'pill_bottle', 0.16626212, u'medicine_chest', 0.047658563, u'oil_filter', 0.042984251]
+[u'chain_saw', 0.13208945, u'lighter', 0.10604494, u'ski', 0.054128192, u'web_site', 0.038891379, u'abaya', 0.033975668]

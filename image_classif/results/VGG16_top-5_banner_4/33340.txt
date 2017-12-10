@@ -1,0 +1,3 @@
+[u'toyshop', 0.44533622, u'bookshop', 0.058823049, u'confectionery', 0.056499917, u'library', 0.055848349, u'shoe_shop', 0.043156158]
+[u'envelope', 0.40724209, u'cash_machine', 0.19245984, u'web_site', 0.032689087, u'monitor', 0.025989536, u'digital_clock', 0.019655114]
+[u'plate_rack', 0.41458687, u'chime', 0.088799782, u'screwdriver', 0.079938367, u'ski', 0.072378255, u"carpenter's_kit", 0.059645671]

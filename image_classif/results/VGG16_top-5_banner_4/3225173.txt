@@ -1,0 +1,1 @@
+[u'streetcar', 0.14062744, u'traffic_light', 0.13192722, u'flagpole', 0.1202427, u'passenger_car', 0.084034085, u'pole', 0.075385734]

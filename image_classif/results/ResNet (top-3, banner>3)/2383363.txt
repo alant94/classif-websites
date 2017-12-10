@@ -1,0 +1,5 @@
+[u'web_site', 0.26999766, u'digital_watch', 0.062521629, u'digital_clock', 0.054666158]
+[u'maze', 0.15578622, u'rapeseed', 0.096290603, u'scoreboard', 0.078000784]
+[u'cornet', 0.17742971, u'hook', 0.12725346, u'nail', 0.10285054]
+[u'web_site', 0.28895766, u'lotion', 0.041328989, u'digital_watch', 0.037757259]
+[u'digital_clock', 0.15599431, u'web_site', 0.12321568, u'digital_watch', 0.037096728]

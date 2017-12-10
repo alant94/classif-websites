@@ -1,0 +1,2 @@
+[u'web_site', 0.085588031, u'street_sign', 0.085094132, u'book_jacket', 0.058156855, u'envelope', 0.043107204, u'hair_spray', 0.030649213]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

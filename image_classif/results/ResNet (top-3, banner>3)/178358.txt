@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.15797058, u'screen', 0.13210773, u'analog_clock', 0.072378226]
+[u'scoreboard', 0.28634918, u'digital_clock', 0.20584852, u'digital_watch', 0.10526284]
+[u'balance_beam', 0.18833114, u'rule', 0.1335853, u'parallel_bars', 0.046283219]
+[u'web_site', 0.84919542, u'envelope', 0.016561838, u'dishwasher', 0.0093509629]

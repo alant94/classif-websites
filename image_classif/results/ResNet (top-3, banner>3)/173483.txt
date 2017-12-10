@@ -1,0 +1,2 @@
+[u'ballpoint', 0.11043447, u'paintbrush', 0.070267886, u'shovel', 0.069797032]
+[u'French_horn', 0.27142212, u'oboe', 0.25208312, u'cornet', 0.16886817]

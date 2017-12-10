@@ -1,0 +1,6 @@
+[u'barn', 0.59005159, u'greenhouse', 0.25157893, u'mobile_home', 0.056650866, u'picket_fence', 0.026716139, u'church', 0.019346528]
+[u'shower_curtain', 0.1957511, u'envelope', 0.082749911, u'velvet', 0.05425917, u'web_site', 0.044821676, u'prayer_rug', 0.041005604]
+[u'recreational_vehicle', 0.33413249, u'mobile_home', 0.2910836, u'passenger_car', 0.25350416, u'bullet_train', 0.028932549, u'trailer_truck', 0.019380836]
+[u'sliding_door', 0.28794798, u'window_shade', 0.18533768, u'greenhouse', 0.10735088, u'lumbermill', 0.060239635, u'shoji', 0.050046492]
+[u'Saluki', 0.42047504, u'borzoi', 0.094771005, u'whippet', 0.077599794, u'Irish_wolfhound', 0.049147353, u'Ibizan_hound', 0.04077201]
+[u'prison', 0.59551251, u'library', 0.14510824, u'passenger_car', 0.088904701, u'streetcar', 0.044687167, u'bullet_train', 0.033943884]

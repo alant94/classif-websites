@@ -1,0 +1,6 @@
+[u'church', 0.91644561, u'monastery', 0.038239133, u'castle', 0.010469181]
+[u'screwdriver', 0.65217304, u"carpenter's_kit", 0.22285989, u'nail', 0.029149033]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'Band_Aid', 0.14216819, u'tennis_ball', 0.060036242, u'golf_ball', 0.043636117]
+[u'lighter', 0.26080737, u'web_site', 0.071752161, u'hair_spray', 0.037745003]
+[u'street_sign', 0.7376852, u'Band_Aid', 0.070348635, u'hair_spray', 0.06484814]

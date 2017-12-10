@@ -1,0 +1,6 @@
+[u'analog_clock', 0.18564978, u'bottlecap', 0.14089966, u'buckle', 0.11936709]
+[u'web_site', 0.52635086, u'envelope', 0.25289705, u'jersey', 0.010710562]
+[u'Band_Aid', 0.11688836, u'web_site', 0.063950136, u'digital_clock', 0.051528554]
+[u'digital_clock', 0.095490992, u'book_jacket', 0.054811265, u'web_site', 0.054688588]
+[u'web_site', 0.49123552, u'envelope', 0.044520017, u'ballpoint', 0.037716743]
+[u'binder', 0.33002526, u'book_jacket', 0.13987215, u'chain', 0.049591962]

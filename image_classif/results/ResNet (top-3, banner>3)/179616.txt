@@ -1,0 +1,4 @@
+[u'street_sign', 0.12859379, u'sweatshirt', 0.063336775, u'scuba_diver', 0.041025694]
+[u'comic_book', 0.75453782, u'book_jacket', 0.063454792, u'screwdriver', 0.04734946]
+[u'digital_clock', 0.14854601, u'laptop', 0.10487316, u'street_sign', 0.077895962]
+[u'rubber_eraser', 0.22997867, u'packet', 0.1813395, u'matchstick', 0.076406613]

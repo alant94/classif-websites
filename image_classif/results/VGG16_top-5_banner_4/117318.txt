@@ -1,0 +1,8 @@
+[u'oscilloscope', 0.27360421, u'scoreboard', 0.23549365, u'monitor', 0.10985646, u'screen', 0.074458957, u'stage', 0.046509985]
+[u'digital_clock', 0.26372945, u'traffic_light', 0.071625613, u'space_shuttle', 0.039730143, u'street_sign', 0.039523326, u'fountain', 0.038549606]
+[u'safety_pin', 0.49588394, u'hair_slide', 0.093347795, u'screwdriver', 0.076820888, u'hook', 0.055264875, u'swab', 0.033787027]
+[u'jellyfish', 0.34941953, u'monitor', 0.0707414, u'stage', 0.065852456, u'axolotl', 0.057492115, u'maraca', 0.030236321]
+[u'vending_machine', 0.74309492, u'refrigerator', 0.12630257, u'perfume', 0.020391103, u'lotion', 0.018136587, u'packet', 0.012060459]
+[u'maze', 0.10679871, u'toyshop', 0.049504172, u'palace', 0.045924526, u'jigsaw_puzzle', 0.041340631, u'street_sign', 0.033954527]
+[u'nail', 0.39512861, u'pick', 0.035578687, u'screw', 0.029223461, u'safety_pin', 0.024994971, u'toilet_tissue', 0.022173543]
+[u'tray', 0.33706814, u'jersey', 0.20208712, u'apron', 0.076706834, u'monitor', 0.033736512, u'wall_clock', 0.02480948]

@@ -1,0 +1,6 @@
+[u'bearskin', 0.16348009, u'oboe', 0.16167352, u'pickelhaube', 0.14936393]
+[u'panpipe', 0.97684801, u'church', 0.0052177962, u'bell_cote', 0.0038305207]
+[u'projectile', 0.10717653, u'missile', 0.08289171, u'broom', 0.029025169]
+[u'wine_bottle', 0.79249299, u'red_wine', 0.06521111, u'carton', 0.062659048]
+[u'sundial', 0.50964409, u'crate', 0.27885926, u'brass', 0.063638382]
+[u'chest', 0.43463022, u'fountain_pen', 0.15085305, u'ballpoint', 0.086492814]

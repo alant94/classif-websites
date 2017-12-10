@@ -1,0 +1,7 @@
+[u'fountain', 0.40182492, u'volcano', 0.096572213, u'geyser', 0.048469774, u'shower_curtain', 0.023517422, u'jellyfish', 0.018728664]
+[u'beacon', 0.098877542, u'promontory', 0.07899344, u'breakwater', 0.062338598, u'seashore', 0.061016168, u'killer_whale', 0.05564199]
+[u'alp', 0.38073999, u'aircraft_carrier', 0.062131837, u'breakwater', 0.053912241, u'wing', 0.046660516, u'cliff', 0.037354052]
+[u'volcano', 0.44007543, u'gyromitra', 0.10170298, u'cliff', 0.085719556, u'Arabian_camel', 0.038200591, u'cauliflower', 0.022804318]
+[u'totem_pole', 0.13319118, u'pole', 0.13267116, u'crane', 0.065917537, u'flagpole', 0.063821808, u'fountain', 0.055961069]
+[u'volcano', 0.97132403, u'torch', 0.012632898, u'matchstick', 0.004899757, u'fire_screen', 0.0024776284, u'caldron', 0.001263391]
+[u'airliner', 0.65352881, u'warplane', 0.18886106, u'wing', 0.14561048, u'space_shuttle', 0.0092993742, u'kite', 0.00089366623]

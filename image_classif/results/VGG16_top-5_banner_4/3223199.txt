@@ -1,0 +1,4 @@
+[u'street_sign', 0.48015919, u'traffic_light', 0.30552256, u'car_mirror', 0.017988462, u'scoreboard', 0.013952636, u'mailbox', 0.010897451]
+[u'book_jacket', 0.10811581, u'face_powder', 0.075545013, u'binder', 0.055721436, u'perfume', 0.053613491, u'fire_screen', 0.046580076]
+[u'obelisk', 0.7365582, u'missile', 0.077183455, u'beacon', 0.074207708, u'church', 0.027878491, u'projectile', 0.027205769]
+[u'web_site', 0.27004257, u'book_jacket', 0.062959947, u'Band_Aid', 0.029980231, u'scoreboard', 0.018642277, u'digital_clock', 0.017285153]

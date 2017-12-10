@@ -1,0 +1,2 @@
+[u'academic_gown', 0.29524156, u'web_site', 0.13370205, u'abaya', 0.071414061, u'theater_curtain', 0.066193253, u'mortarboard', 0.031345941]
+[u'book_jacket', 0.68252599, u'sleeping_bag', 0.033176932, u'throne', 0.022811405, u'gong', 0.011773157, u'comic_book', 0.011251062]

@@ -1,0 +1,1 @@
+[u'matchstick', 0.29856598, u'whistle', 0.15640748, u'candle', 0.11940503, u'ballpoint', 0.1018291, u'rubber_eraser', 0.059398767]

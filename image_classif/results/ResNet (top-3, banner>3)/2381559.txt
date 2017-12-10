@@ -1,0 +1,7 @@
+[u'envelope', 0.51403666, u'pool_table', 0.1102726, u'dumbbell', 0.077678494]
+[u'barrel', 0.99967027, u'rain_barrel', 0.00022758257, u'dumbbell', 4.5408771e-05]
+[u'abaya', 0.097560972, u'theater_curtain', 0.088213496, u'shower_curtain', 0.085172296]
+[u'rapeseed', 0.54997945, u'picket_fence', 0.035138343, u'lakeside', 0.03164003]
+[u'dishwasher', 0.18174416, u'envelope', 0.080502711, u'refrigerator', 0.041317999]
+[u'web_site', 0.30561775, u'dishwasher', 0.20560583, u'envelope', 0.053689886]
+[u'spider_web', 0.67159647, u'garden_spider', 0.028749982, u'swing', 0.022273788]

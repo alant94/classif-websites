@@ -1,0 +1,4 @@
+[u'web_site', 0.24487348, u'lighter', 0.05853476, u'buckle', 0.037432801]
+[u'space_shuttle', 0.14519447, u'container_ship', 0.14410001, u'crossword_puzzle', 0.14365132]
+[u'envelope', 0.46228558, u'web_site', 0.17606826, u'analog_clock', 0.045597628]
+[u'Band_Aid', 0.2347967, u'lighter', 0.13651925, u'street_sign', 0.12881267]

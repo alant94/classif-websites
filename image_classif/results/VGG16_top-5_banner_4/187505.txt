@@ -1,0 +1,5 @@
+[u'snowplow', 0.29764375, u'crane', 0.16805458, u'lumbermill', 0.15677679, u'harvester', 0.12082004, u'forklift', 0.047839627]
+[u'racer', 0.6288029, u'tow_truck', 0.15933508, u'fire_engine', 0.087848805, u'go-kart', 0.049197804, u'trailer_truck', 0.029987523]
+[u'fire_engine', 0.62788349, u'tow_truck', 0.2561833, u'racer', 0.049994707, u'trailer_truck', 0.013202695, u'snowplow', 0.013000472]
+[u'racer', 0.92024004, u'fire_engine', 0.017535951, u'tow_truck', 0.016610384, u'go-kart', 0.012298093, u'trailer_truck', 0.010927151]
+[u'balance_beam', 0.1208014, u'horizontal_bar', 0.069968283, u'syringe', 0.024990059, u'bookshop', 0.023517041, u'volleyball', 0.022818422]

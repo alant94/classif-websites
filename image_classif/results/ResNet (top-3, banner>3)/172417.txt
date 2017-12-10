@@ -1,0 +1,2 @@
+[u'television', 0.18914939, u'web_site', 0.10292576, u'stage', 0.077490218]
+[u"carpenter's_kit", 0.47449085, u'street_sign', 0.12009095, u'shopping_basket', 0.041821927]

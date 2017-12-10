@@ -1,0 +1,7 @@
+[u'plate_rack', 0.29946682, u'radio_telescope', 0.16034074, u'dishwasher', 0.052529726, u'solar_dish', 0.040347595, u'cassette', 0.037620563]
+[u'chime', 0.096716546, u'space_heater', 0.06352403, u'envelope', 0.060536709, u'picket_fence', 0.050902016, u'rubber_eraser', 0.050879471]
+[u'rule', 0.26127571, u'envelope', 0.057855207, u'book_jacket', 0.053514414, u'chime', 0.032783628, u'matchstick', 0.031672847]
+[u'skunk', 0.85233068, u'fur_coat', 0.030059032, u'bulletproof_vest', 0.023202423, u'African_hunting_dog', 0.014731714, u'keeshond', 0.014048871]
+[u'rule', 0.2340025, u'book_jacket', 0.083200246, u'nail', 0.07627286, u'envelope', 0.058482274, u'chime', 0.031113479]
+[u'medicine_chest', 0.066218823, u'carton', 0.058125898, u'punching_bag', 0.040261578, u'envelope', 0.035503093, u'digital_clock', 0.023465408]
+[u'book_jacket', 0.20945847, u'envelope', 0.14329506, u'space_heater', 0.076874979, u'rule', 0.055463824, u'modem', 0.048862986]

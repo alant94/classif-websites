@@ -1,0 +1,4 @@
+[u'iron', 0.21641591, u'cleaver', 0.15744172, u'pick', 0.076271988]
+[u'web_site', 0.49880773, u'jersey', 0.029073548, u'packet', 0.028860545]
+[u'marimba', 0.054619409, u'throne', 0.049090244, u'gong', 0.041015904]
+[u'envelope', 0.34534875, u'web_site', 0.14009592, u'Band_Aid', 0.11517527]

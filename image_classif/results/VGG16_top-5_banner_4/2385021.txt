@@ -1,0 +1,2 @@
+[u'tile_roof', 0.85323578, u'palace', 0.057731692, u'picket_fence', 0.012757031, u'beacon', 0.012672249, u'church', 0.0083750943]
+[u'bell_cote', 0.22152482, u'traffic_light', 0.18310298, u'wall_clock', 0.046487562, u'analog_clock', 0.044950895, u'airship', 0.031145718]

@@ -1,0 +1,5 @@
+[u'stethoscope', 0.99250436, u'mailbag', 0.00074677082, u'miniskirt', 0.00069326395]
+[u'web_site', 0.089724138, u'sunscreen', 0.067507893, u'street_sign', 0.050072726]
+[u'lighter', 0.19035676, u'shield', 0.1718194, u'wall_clock', 0.10949815]
+[u'stethoscope', 0.75154459, u'Band_Aid', 0.031581726, u'binder', 0.025805388]
+[u'wall_clock', 0.77325398, u'analog_clock', 0.22603978, u'barometer', 0.00031660474]

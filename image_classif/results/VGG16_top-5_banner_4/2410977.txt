@@ -1,0 +1,6 @@
+[u'solar_dish', 0.24843295, u'abacus', 0.20712225, u'waffle_iron', 0.054471772, u'throne', 0.039111935, u'prayer_rug', 0.038045704]
+[u'birdhouse', 0.44178653, u'bell_cote', 0.15063561, u'throne', 0.064356878, u'altar', 0.060593795, u'thatch', 0.04081108]
+[u'sundial', 0.11413809, u'bell_cote', 0.088960126, u'iron', 0.071389593, u'king_crab', 0.065541454, u'scale', 0.044848014]
+[u'aircraft_carrier', 0.29956704, u'dam', 0.16065036, u'crane', 0.063629918, u'solar_dish', 0.061610334, u'fireboat', 0.043372888]
+[u'fireboat', 0.69292665, u'missile', 0.058508441, u'drilling_platform', 0.050138552, u'crane', 0.046513595, u'aircraft_carrier', 0.04304985]
+[u'soccer_ball', 0.99426585, u'volleyball', 0.0035872543, u'golf_ball', 0.00080401881, u'maraca', 0.00041099897, u'whistle', 0.00017596816]

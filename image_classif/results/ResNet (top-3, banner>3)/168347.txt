@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.57226098, u'soccer_ball', 0.14519282, u'sandal', 0.12107448]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]

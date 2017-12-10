@@ -1,0 +1,7 @@
+[u'web_site', 0.54328525, u'bow_tie', 0.161834, u'Windsor_tie', 0.14051977]
+[u'altar', 0.19354869, u'brass', 0.14150195, u'book_jacket', 0.11346083]
+[u'mailbox', 0.16196351, u'boxer', 0.044812925, u'ashcan', 0.043418914]
+[u'great_grey_owl', 0.68323237, u'kite', 0.098733097, u'house_finch', 0.035949759]
+[u'panpipe', 0.73393404, u'marimba', 0.14222439, u'church', 0.0274217]
+[u'web_site', 0.83583724, u'jigsaw_puzzle', 0.024003625, u'monitor', 0.014626465]
+[u'web_site', 0.84679538, u'envelope', 0.02908832, u'book_jacket', 0.019857652]

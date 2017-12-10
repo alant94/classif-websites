@@ -1,0 +1,8 @@
+[u'bannister', 0.22623605, u'web_site', 0.17162041, u'prison', 0.14274572]
+[u'jellyfish', 0.33867472, u'coral_reef', 0.16546887, u'comic_book', 0.12158141]
+[u'kimono', 0.1807856, u'maillot', 0.13196759, u'toyshop', 0.074532822]
+[u'torch', 0.26736885, u'bearskin', 0.21106489, u'military_uniform', 0.095722221]
+[u'jean', 0.24285579, u'stole', 0.10989043, u'suspension_bridge', 0.07772886]
+[u'banjo', 0.28792775, u'electric_guitar', 0.13001309, u'panpipe', 0.1095526]
+[u'pajama', 0.13040218, u'comic_book', 0.12186065, u'gown', 0.04701237]
+[u'chain_mail', 0.95957428, u'stole', 0.0073902071, u'sunglasses', 0.0054055848]

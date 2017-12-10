@@ -1,0 +1,5 @@
+[u'web_site', 0.24827099, u'envelope', 0.10488167, u'wall_clock', 0.019706935, u'analog_clock', 0.018472899, u'monitor', 0.016875681]
+[u'book_jacket', 0.26015311, u'web_site', 0.11693227, u'comic_book', 0.052167557, u'theater_curtain', 0.051197566, u'cash_machine', 0.041073129]
+[u'envelope', 0.25628462, u'web_site', 0.084266298, u'switch', 0.045951385, u'rule', 0.041625012, u'wall_clock', 0.030551732]
+[u'scoreboard', 0.60552055, u'flagpole', 0.092190959, u'web_site', 0.040516194, u'street_sign', 0.023029162, u'pole', 0.022383504]
+[u'web_site', 0.080770113, u'envelope', 0.033173919, u'wall_clock', 0.020957511, u'analog_clock', 0.020163821, u'tripod', 0.010092598]

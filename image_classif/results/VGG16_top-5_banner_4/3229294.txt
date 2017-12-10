@@ -1,0 +1,3 @@
+[u'web_site', 0.14776415, u'gown', 0.1148292, u'miniskirt', 0.079815321, u'jersey', 0.064513311, u'abaya', 0.064379573]
+[u'web_site', 0.40644768, u'packet', 0.16857821, u'face_powder', 0.067478143, u'lotion', 0.057359677, u'sunscreen', 0.04389032]
+[u'notebook', 0.21268249, u'mouse', 0.10665701, u'laptop', 0.090395398, u'web_site', 0.065721639, u'computer_keyboard', 0.025837202]

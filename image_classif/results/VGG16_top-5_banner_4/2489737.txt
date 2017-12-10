@@ -1,0 +1,6 @@
+[u'pick', 0.36068437, u'sunscreen', 0.035477344, u'web_site', 0.030553704, u'book_jacket', 0.029023983, u'hatchet', 0.020548265]
+[u'German_shepherd', 0.14214222, u'croquet_ball', 0.050729275, u'Rhodesian_ridgeback', 0.050064538, u'soccer_ball', 0.048331834, u'Scottish_deerhound', 0.040886]
+[u'coucal', 0.13724567, u'tusker', 0.049099408, u'vizsla', 0.048728932, u'African_elephant', 0.037066776, u'vulture', 0.03378132]
+[u'street_sign', 0.30009016, u'barbershop', 0.15804338, u'mailbox', 0.073582351, u'tobacco_shop', 0.061204351, u'scoreboard', 0.042996284]
+[u'mountain_tent', 0.4835079, u'racer', 0.31799343, u'yurt', 0.036629923, u'sports_car', 0.015341981, u'go-kart', 0.014637383]
+[u'paintbrush', 0.33229521, u'birdhouse', 0.13959929, u'padlock', 0.12582384, u'pencil_sharpener', 0.059308201, u'macaw', 0.041877113]

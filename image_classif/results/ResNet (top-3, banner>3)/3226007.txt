@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.97836953, u'digital_clock', 0.016063884, u'digital_watch', 0.0037068552]
+[u'suit', 0.24742663, u'cloak', 0.21092254, u'academic_gown', 0.13411324]
+[u'digital_clock', 0.11980587, u'toilet_seat', 0.084567361, u'crossword_puzzle', 0.053272396]
+[u'bassoon', 0.23149295, u'rocking_chair', 0.14276633, u'barber_chair', 0.13189593]

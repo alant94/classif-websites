@@ -1,0 +1,6 @@
+[u'hook', 0.097465053, u'chain_saw', 0.093742132, u'coffee_mug', 0.060775526, u'digital_clock', 0.052732568, u'Band_Aid', 0.022240942]
+[u'envelope', 0.061197966, u'nail', 0.031667124, u'scale', 0.029470623, u'hook', 0.026933976, u'web_site', 0.025160678]
+[u'envelope', 0.056032915, u'cleaver', 0.029732956, u'web_site', 0.029417695, u'hook', 0.019754779, u'microphone', 0.018039471]
+[u'combination_lock', 0.055598646, u'whistle', 0.027737025, u'barbell', 0.022423783, u'hook', 0.02106859, u'dumbbell', 0.017361218]
+[u'Band_Aid', 0.12436606, u'coffee_mug', 0.086553894, u'pill_bottle', 0.076982297, u'packet', 0.046260308, u'pop_bottle', 0.042358376]
+[u'web_site', 0.34531623, u'envelope', 0.09692204, u'rule', 0.059564039, u'street_sign', 0.036763821, u'hook', 0.022869797]

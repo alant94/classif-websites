@@ -1,0 +1,1 @@
+[u'mask', 0.30540743, u'pinwheel', 0.17295539, u'jigsaw_puzzle', 0.14542569, u'pencil_sharpener', 0.096235625, u'wall_clock', 0.087219678]

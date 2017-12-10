@@ -1,0 +1,6 @@
+[u'web_site', 0.33273613, u'envelope', 0.2708768, u'paintbrush', 0.051626921]
+[u'web_site', 0.22175212, u'menu', 0.043503977, u'cornet', 0.022368889]
+[u'yurt', 0.33515823, u'recreational_vehicle', 0.29026476, u'mobile_home', 0.077444054]
+[u'lakeside', 0.31903535, u'church', 0.11219484, u'boathouse', 0.09783195]
+[u'suit', 0.072566308, u'Scottish_deerhound', 0.047719218, u'wool', 0.045507446]
+[u'gar', 0.81599247, u'barracouta', 0.10032243, u'sturgeon', 0.052630272]

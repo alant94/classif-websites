@@ -1,0 +1,8 @@
+[u'puck', 0.36028692, u'sombrero', 0.076570861, u'tray', 0.050401811, u'coffee_mug', 0.048764158, u'drum', 0.028028578]
+[u'digital_clock', 0.086975187, u'traffic_light', 0.08141946, u'crossword_puzzle', 0.033824872, u'scoreboard', 0.031327762, u'picket_fence', 0.029274311]
+[u'organ', 0.61573768, u'syringe', 0.23948272, u'screwdriver', 0.041073006, u'wine_bottle', 0.01659482, u'chime', 0.013514299]
+[u'bee_eater', 0.023373431, u'fly', 0.014836102, u'web_site', 0.014266266, u'hourglass', 0.014249742, u'lycaenid', 0.014037362]
+[u'paddlewheel', 0.23376291, u'fireboat', 0.19707896, u'coil', 0.10753457, u'bell_cote', 0.044835631, u'cinema', 0.039372925]
+[u'chime', 0.11952659, u'picket_fence', 0.088068523, u'window_shade', 0.050101653, u'chain', 0.033755623, u'birdhouse', 0.028999958]
+[u'wardrobe', 0.072705813, u'dishwasher', 0.059799355, u'theater_curtain', 0.04591465, u'shoji', 0.02939849, u'medicine_chest', 0.027971519]
+[u'organ', 0.88724697, u'syringe', 0.041594919, u'screwdriver', 0.022446308, u'picket_fence', 0.0071866107, u'wine_bottle', 0.0034839353]

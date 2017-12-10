@@ -1,0 +1,2 @@
+[u'pill_bottle', 0.81327266, u'beer_bottle', 0.082500942, u'chocolate_sauce', 0.032624915, u'pop_bottle', 0.013147246, u'beer_glass', 0.010637374]
+[u'pick', 0.40303332, u'tick', 0.17575413, u'maraca', 0.10518747, u'bottlecap', 0.094204314, u'pop_bottle', 0.045368843]

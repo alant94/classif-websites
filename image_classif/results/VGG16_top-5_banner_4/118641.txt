@@ -1,0 +1,7 @@
+[u'tray', 0.20673332, u'packet', 0.10055871, u'book_jacket', 0.07100033, u'buckle', 0.052177358, u'wallet', 0.046840578]
+[u'fountain', 0.30380294, u'theater_curtain', 0.15414348, u'organ', 0.11419609, u'stage', 0.046285003, u'cinema', 0.043767758]
+[u'fountain', 0.23401839, u'theater_curtain', 0.10647089, u'perfume', 0.089529663, u'spotlight', 0.06406761, u'stove', 0.052708071]
+[u'theater_curtain', 0.2900385, u'perfume', 0.12902616, u'fountain', 0.094585173, u'stage', 0.092422225, u'oscilloscope', 0.030286353]
+[u'perfume', 0.35137525, u'fountain', 0.056207441, u'spotlight', 0.039146159, u'microphone', 0.038059231, u'lampshade', 0.034391306]
+[u'theater_curtain', 0.71962076, u'cinema', 0.040804997, u'stage', 0.036154501, u'fountain', 0.032019813, u'stove', 0.018950731]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

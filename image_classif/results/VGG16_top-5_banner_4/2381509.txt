@@ -1,0 +1,4 @@
+[u'hotdog', 0.68540293, u'burrito', 0.065953381, u'trifle', 0.036140677, u'cheeseburger', 0.025293065, u'ice_cream', 0.023917915]
+[u'bittern', 0.63823009, u'ear', 0.24516274, u'corn', 0.038473096, u'limpkin', 0.011578398, u'crane', 0.0052915215]
+[u'whistle', 0.085921496, u'combination_lock', 0.081758678, u'hook', 0.071544148, u'lighter', 0.050247546, u'punching_bag', 0.046705622]
+[u'syringe', 0.44082397, u'beer_bottle', 0.14886035, u'pop_bottle', 0.090063818, u'nipple', 0.048693031, u'screwdriver', 0.027160086]

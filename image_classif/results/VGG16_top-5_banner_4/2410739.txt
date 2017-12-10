@@ -1,0 +1,3 @@
+[u'jean', 0.12073404, u'suit', 0.11614645, u'pole', 0.082412094, u'miniskirt', 0.079367794, u'trench_coat', 0.062395554]
+[u'wardrobe', 0.57972527, u'ski', 0.12461576, u'quill', 0.066091478, u'stole', 0.044043843, u'letter_opener', 0.03368374]
+[u'abaya', 0.16448075, u'hair_spray', 0.07579641, u'sunglass', 0.036879323, u'reflex_camera', 0.036569931, u'pole', 0.032049946]

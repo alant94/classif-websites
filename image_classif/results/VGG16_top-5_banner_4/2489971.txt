@@ -1,0 +1,2 @@
+[u'harp', 0.83805507, u'throne', 0.039435275, u'organ', 0.034236189, u'rocking_chair', 0.025464386, u'poncho', 0.015117971]
+[u'zebra', 0.19917543, u'gazelle', 0.12062509, u'impala', 0.11751799, u'hartebeest', 0.089120395, u'rugby_ball', 0.047371291]

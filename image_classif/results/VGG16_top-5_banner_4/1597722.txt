@@ -1,0 +1,1 @@
+[u'dam', 0.60960549, u'fountain', 0.25982091, u'fireboat', 0.011898786, u'container_ship', 0.0085606864, u'breakwater', 0.0057597789]

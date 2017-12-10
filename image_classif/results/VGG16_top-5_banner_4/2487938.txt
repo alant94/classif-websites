@@ -1,0 +1,4 @@
+[u'Indian_elephant', 0.24057004, u'tusker', 0.1751363, u'African_elephant', 0.15146077, u'proboscis_monkey', 0.087805524, u'cougar', 0.082939215]
+[u'digital_clock', 0.22897892, u'digital_watch', 0.12031099, u'scoreboard', 0.11226138, u'screen', 0.048211075, u'wall_clock', 0.044021174]
+[u'digital_clock', 0.3035416, u'digital_watch', 0.17764401, u'screen', 0.17533512, u'monitor', 0.045264155, u'cash_machine', 0.033650283]
+[u'fireboat', 0.97140563, u'aircraft_carrier', 0.0084642209, u'crane', 0.0052862121, u'drilling_platform', 0.0028805726, u'liner', 0.0020846045]

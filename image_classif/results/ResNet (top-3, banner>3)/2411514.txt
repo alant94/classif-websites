@@ -1,0 +1,7 @@
+[u'scabbard', 0.90340495, u'holster', 0.050643403, u'letter_opener', 0.010502933]
+[u'electric_guitar', 0.60373002, u'acoustic_guitar', 0.3365103, u'banjo', 0.031763084]
+[u'scabbard', 0.46671346, u'shoe_shop', 0.11869167, u'sandal', 0.10152304]
+[u'holster', 0.58556873, u'scabbard', 0.25830182, u'sandal', 0.099678956]
+[u'drum', 0.18865626, u'holster', 0.15023254, u'chest', 0.083973259]
+[u'buckle', 0.69581234, u'holster', 0.27804917, u'scabbard', 0.0060275909]
+[u'scabbard', 0.7983349, u'holster', 0.089268304, u'starfish', 0.031025231]

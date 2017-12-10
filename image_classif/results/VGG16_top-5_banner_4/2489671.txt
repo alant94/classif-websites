@@ -1,0 +1,3 @@
+[u'lumbermill', 0.34725717, u'chain_saw', 0.23966606, u'cannon', 0.033337083, u'barrel', 0.022950359, u'assault_rifle', 0.019726418]
+[u'book_jacket', 0.62812078, u'comic_book', 0.10792589, u'fountain', 0.086985037, u'web_site', 0.029747147, u'Indian_elephant', 0.028046608]
+[u'web_site', 0.3970947, u'book_jacket', 0.29566672, u'alp', 0.02822811, u'fountain', 0.022483453, u'tripod', 0.021646276]

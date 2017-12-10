@@ -1,0 +1,7 @@
+[u'television', 0.11291884, u'gas_pump', 0.072842881, u'digital_watch', 0.066203587]
+[u'puck', 0.30211627, u'rugby_ball', 0.16480428, u'ping-pong_ball', 0.069510996]
+[u'barbershop', 0.12450596, u'street_sign', 0.10232911, u'web_site', 0.10060751]
+[u'comic_book', 0.90041333, u'binder', 0.016476301, u'refrigerator', 0.012996554]
+[u'screen', 0.38744131, u'monitor', 0.15761271, u'television', 0.14918898]
+[u'boathouse', 0.63997155, u'barn', 0.16668914, u'alp', 0.046076454]
+[u'screen', 0.5086869, u'digital_clock', 0.22200494, u'oscilloscope', 0.1101178]

@@ -1,0 +1,6 @@
+[u'abaya', 0.17804605, u'suit', 0.15133588, u'stole', 0.10469124, u'crutch', 0.072221793, u'jean', 0.041669175]
+[u'book_jacket', 0.28220385, u'cleaver', 0.10660195, u'jersey', 0.032437492, u'comic_book', 0.030236205, u'Windsor_tie', 0.025126064]
+[u'butcher_shop', 0.21887238, u'horizontal_bar', 0.088185847, u'stage', 0.086353756, u'volleyball', 0.062319223, u'parallel_bars', 0.061509829]
+[u'punching_bag', 0.26288441, u'knee_pad', 0.24014987, u'stage', 0.10853284, u'dumbbell', 0.069556266, u'maillot', 0.054093245]
+[u'ballplayer', 0.30836672, u'punching_bag', 0.24478363, u'shield', 0.053736683, u'chain_saw', 0.038895942, u'baseball', 0.035665363]
+[u'maillot', 0.21179742, u'unicycle', 0.148533, u'bathing_cap', 0.11191209, u'brassiere', 0.042592768, u'bikini', 0.02546664]

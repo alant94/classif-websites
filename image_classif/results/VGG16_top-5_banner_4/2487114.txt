@@ -1,0 +1,4 @@
+[u'digital_watch', 0.14082991, u'cash_machine', 0.10443825, u'boathouse', 0.032671861, u'book_jacket', 0.029760085, u'prison', 0.027270209]
+[u'padlock', 0.12434886, u'nail', 0.12389579, u'fountain', 0.095362768, u'hook', 0.079494745, u'chain', 0.058145981]
+[u'jigsaw_puzzle', 0.34613118, u'book_jacket', 0.08490815, u'lakeside', 0.07602115, u'monitor', 0.062131509, u'packet', 0.033048261]
+[u'screwdriver', 0.10347358, u'boathouse', 0.08730451, u'digital_watch', 0.061238199, u"carpenter's_kit", 0.037592717, u'syringe', 0.037012346]

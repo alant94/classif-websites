@@ -1,0 +1,7 @@
+[u'safe', 0.29505402, u'turnstile', 0.27404296, u'cash_machine', 0.086816564]
+[u'switch', 0.33850464, u'whistle', 0.1971872, u'medicine_chest', 0.099386543]
+[u'forklift', 0.11926568, u'turnstile', 0.078883797, u'prison', 0.07835947]
+[u'modem', 0.26951897, u'freight_car', 0.04907383, u'radio', 0.040952444]
+[u'lighter', 0.21726093, u'medicine_chest', 0.2114394, u'Band_Aid', 0.20845774]
+[u'switch', 0.24428838, u'vending_machine', 0.15421143, u'cassette_player', 0.11783715]
+[u'book_jacket', 0.81128907, u'comic_book', 0.095701806, u'Band_Aid', 0.0070261885]

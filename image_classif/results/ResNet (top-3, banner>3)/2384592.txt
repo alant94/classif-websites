@@ -1,0 +1,4 @@
+[u'traffic_light', 0.58645988, u'digital_clock', 0.31854999, u'digital_watch', 0.014595099]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'book_jacket', 0.27690145, u'chain', 0.17627552, u'hook', 0.079121768]
+[u'panpipe', 0.99466974, u'marimba', 0.0010224736, u'bannister', 0.00097254547]

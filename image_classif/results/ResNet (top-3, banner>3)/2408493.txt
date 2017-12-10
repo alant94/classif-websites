@@ -1,0 +1,2 @@
+[u'combination_lock', 0.99909437, u'padlock', 0.00058042171, u'spotlight', 0.00013557456]
+[u'power_drill', 0.42345595, u'screwdriver', 0.26147172, u'chain_saw', 0.16426601]

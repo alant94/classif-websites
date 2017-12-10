@@ -1,0 +1,6 @@
+[u'envelope', 0.075317532, u'book_jacket', 0.04395058, u'menu', 0.029196955, u'web_site', 0.026088787, u'nail', 0.013661274]
+[u'tabby', 0.74368548, u'tiger_cat', 0.17726451, u'Egyptian_cat', 0.060739677, u'Persian_cat', 0.0042370725, u'doormat', 0.0022664303]
+[u'envelope', 0.46763548, u'Windsor_tie', 0.10725788, u'handkerchief', 0.082898982, u'wall_clock', 0.027199226, u'tray', 0.026893437]
+[u'candle', 0.18090574, u'book_jacket', 0.13216169, u'envelope', 0.088087037, u'lighter', 0.03133386, u'web_site', 0.025152314]
+[u'Band_Aid', 0.12813282, u'flagpole', 0.048512831, u'traffic_light', 0.041042306, u'parachute', 0.040397104, u'matchstick', 0.036693498]
+[u'boathouse', 0.35947788, u'picket_fence', 0.06293232, u'monastery', 0.027249161, u'cinema', 0.026256181, u'barn', 0.026051145]

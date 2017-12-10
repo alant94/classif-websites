@@ -1,0 +1,4 @@
+[u'dumbbell', 0.34407923, u'swimming_trunks', 0.16103815, u'barbell', 0.14579266]
+[u'academic_gown', 0.15499265, u'mortarboard', 0.15101218, u'suit', 0.138109]
+[u'military_uniform', 0.28053394, u'suit', 0.12285015, u'academic_gown', 0.065314077]
+[u'chiton', 0.24168283, u'horned_viper', 0.09909188, u'isopod', 0.086323217]

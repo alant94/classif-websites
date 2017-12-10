@@ -1,0 +1,4 @@
+[u'beacon', 0.4899213, u'bell_cote', 0.2250544, u'picket_fence', 0.054987833, u'traffic_light', 0.032136947, u'crane', 0.018191295]
+[u'book_jacket', 0.20045571, u'web_site', 0.14269188, u'cash_machine', 0.1134775, u'television', 0.094572157, u'bathing_cap', 0.070594095]
+[u'screwdriver', 0.14104524, u"carpenter's_kit", 0.11304136, u'comic_book', 0.095264398, u'spatula', 0.083723962, u'book_jacket', 0.076572202]
+[u'envelope', 0.12489411, u'hook', 0.033059023, u'binder', 0.030068668, u'bell_cote', 0.028752299, u'carton', 0.024201822]

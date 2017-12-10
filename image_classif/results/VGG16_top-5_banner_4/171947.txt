@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.81806654, u'wall_clock', 0.031508174, u'toyshop', 0.026443977, u'electric_guitar', 0.018033758, u'acoustic_guitar', 0.0082398467]

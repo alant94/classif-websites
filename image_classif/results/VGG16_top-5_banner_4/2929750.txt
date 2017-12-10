@@ -1,0 +1,5 @@
+[u'web_site', 0.083922572, u'envelope', 0.072255455, u'cleaver', 0.027693657, u'can_opener', 0.022106098, u'Windsor_tie', 0.018186633]
+[u'Band_Aid', 0.2448085, u'envelope', 0.13404635, u'whistle', 0.021093449, u'web_site', 0.020495491, u'rubber_eraser', 0.013468031]
+[u'envelope', 0.086256072, u'abaya', 0.058894139, u'lighter', 0.038855176, u'binder', 0.035548937, u'pedestal', 0.028161671]
+[u'jersey', 0.064885646, u'web_site', 0.06220844, u'envelope', 0.02230173, u'abaya', 0.018982558, u'binder', 0.016341558]
+[u'envelope', 0.46685663, u'web_site', 0.092789181, u'whistle', 0.01607655, u'rule', 0.01405949, u'Band_Aid', 0.011039099]

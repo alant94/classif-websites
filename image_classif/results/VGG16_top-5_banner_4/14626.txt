@@ -1,0 +1,2 @@
+[u'web_site', 0.94045782, u'book_jacket', 0.053214949, u'comic_book', 0.0047787745, u'television', 0.00030363124, u'menu', 0.00020155456]
+[u'stage', 0.23441666, u'packet', 0.1842038, u'book_jacket', 0.12034248, u'tray', 0.04820532, u'web_site', 0.041418925]

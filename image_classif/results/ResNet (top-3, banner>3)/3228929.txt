@@ -1,0 +1,2 @@
+[u'rubber_eraser', 0.21338335, u'spider_web', 0.077743456, u'plastic_bag', 0.060349248]
+[u'bathtub', 0.75702512, u'tub', 0.23280919, u'shower_curtain', 0.0016094384]

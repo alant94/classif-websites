@@ -1,0 +1,4 @@
+[u'envelope', 0.41468704, u'hair_slide', 0.11888565, u'web_site', 0.1163708, u'packet', 0.10105766, u'jigsaw_puzzle', 0.056570262]
+[u'web_site', 0.85734606, u'book_jacket', 0.048485275, u'castle', 0.020499339, u'lakeside', 0.010504608, u'monitor', 0.0094709108]
+[u'book_jacket', 0.85699707, u'comic_book', 0.029011223, u'binder', 0.026321048, u'menu', 0.021320172, u'packet', 0.018561712]
+[u'web_site', 0.27165586, u'menu', 0.087863818, u'book_jacket', 0.0636274, u'packet', 0.032093029, u'envelope', 0.029724171]

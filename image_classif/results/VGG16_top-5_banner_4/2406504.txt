@@ -1,0 +1,1 @@
+[u'web_site', 0.22142109, u'knee_pad', 0.042959534, u'Band_Aid', 0.021817077, u'envelope', 0.019126147, u'sunscreen', 0.018701114]

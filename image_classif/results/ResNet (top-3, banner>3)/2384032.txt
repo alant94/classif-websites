@@ -1,0 +1,8 @@
+[u'wine_bottle', 0.58280969, u'red_wine', 0.41526988, u'corkscrew', 0.0013721901]
+[u'barrel', 1.0, u'rain_barrel', 3.3713995e-08, u'lumbermill', 1.288269e-08]
+[u'red_wine', 0.99105877, u'mouse', 0.0017011086, u'bucket', 0.00089273317]
+[u'red_wine', 0.36073759, u'goblet', 0.14180984, u'wine_bottle', 0.066735759]
+[u'wine_bottle', 0.68396461, u'red_wine', 0.30933014, u'corkscrew', 0.0055738231]
+[u'chain', 0.51139694, u'coil', 0.18104497, u'knot', 0.15350588]
+[u'dumbbell', 0.17907105, u'strainer', 0.12784238, u'tricycle', 0.12233184]
+[u'wine_bottle', 0.42137218, u'beer_bottle', 0.38022959, u'red_wine', 0.19684294]

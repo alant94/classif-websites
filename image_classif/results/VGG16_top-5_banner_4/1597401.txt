@@ -1,0 +1,3 @@
+[u'matchstick', 0.095643692, u'lighter', 0.050972618, u'microphone', 0.04503458, u'mousetrap', 0.034315404, u'nail', 0.033596579]
+[u'wig', 0.13564402, u'maillot', 0.1247135, u'boa_constrictor', 0.082407244, u'bikini', 0.058322743, u'night_snake', 0.053121291]
+[u'coral_fungus', 0.76170623, u'chime', 0.078586325, u'picket_fence', 0.072327487, u'screwdriver', 0.022918023, u'matchstick', 0.011188126]

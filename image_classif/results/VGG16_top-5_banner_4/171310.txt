@@ -1,0 +1,2 @@
+[u'electric_fan', 0.45639592, u'wall_clock', 0.15520671, u'gong', 0.11274119, u'analog_clock', 0.054889996, u'shield', 0.049198054]
+[u'flagpole', 0.77712947, u'poncho', 0.038722005, u'handkerchief', 0.030196788, u'umbrella', 0.018571457, u'swimming_trunks', 0.018006254]

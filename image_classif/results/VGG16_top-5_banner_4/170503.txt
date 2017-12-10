@@ -1,0 +1,2 @@
+[u'spider_web', 0.99767131, u'barn_spider', 0.001380538, u'garden_spider', 0.00059781823, u'black_and_gold_garden_spider', 0.00012337818, u'oscilloscope', 3.8950537e-05]
+[u'acoustic_guitar', 0.53795499, u'electric_guitar', 0.25522113, u'banjo', 0.068791091, u'violin', 0.058917455, u'cello', 0.050265942]

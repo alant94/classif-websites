@@ -1,0 +1,2 @@
+[u'maillot', 0.22711693, u'maillot', 0.1430904, u'bikini', 0.13080694, u'swab', 0.086577408, u'bow', 0.058768831]
+[u'tub', 0.6513471, u'bathtub', 0.20674582, u'ice_lolly', 0.022916071, u'bikini', 0.012944001, u'shower_cap', 0.0075827488]

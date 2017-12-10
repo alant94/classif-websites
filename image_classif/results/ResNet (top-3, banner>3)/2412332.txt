@@ -1,0 +1,2 @@
+[u'pickelhaube', 0.30841944, u'bearskin', 0.23733553, u'chime', 0.12612431]
+[u'buckle', 0.43150148, u'shield', 0.126293, u'bolo_tie', 0.058154009]

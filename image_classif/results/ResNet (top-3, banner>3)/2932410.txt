@@ -1,0 +1,2 @@
+[u'web_site', 0.40368381, u'jigsaw_puzzle', 0.11906736, u'bib', 0.05960032]
+[u'ballplayer', 0.17830314, u'gar', 0.17441361, u'assault_rifle', 0.14773816]

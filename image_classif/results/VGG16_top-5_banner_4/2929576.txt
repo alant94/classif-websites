@@ -1,0 +1,4 @@
+[u'golf_ball', 0.85374367, u'ping-pong_ball', 0.030388564, u'web_site', 0.01621658, u'bathing_cap', 0.015000932, u'lotion', 0.00694235]
+[u'jigsaw_puzzle', 0.98627663, u'prayer_rug', 0.0022100525, u'handkerchief', 0.0021044691, u'binder', 0.0020001989, u'envelope', 0.0015489984]
+[u'street_sign', 0.11046199, u'cleaver', 0.072150573, u'hook', 0.063966475, u'hatchet', 0.04157427, u'coffee_mug', 0.038734671]
+[u'web_site', 0.10131609, u'street_sign', 0.094730906, u'cash_machine', 0.047585994, u'book_jacket', 0.046526998, u'binder', 0.03914823]

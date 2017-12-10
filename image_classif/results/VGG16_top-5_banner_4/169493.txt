@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.43449935, u'stupa', 0.11728647, u'palace', 0.089036942, u'castle', 0.071915396, u'monastery', 0.06369929]

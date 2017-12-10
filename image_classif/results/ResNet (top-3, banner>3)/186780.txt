@@ -1,0 +1,7 @@
+[u'restaurant', 0.19877882, u'groom', 0.12564245, u'plunger', 0.053510748]
+[u'groom', 0.37838233, u'kimono', 0.20417802, u'gown', 0.16985491]
+[u'web_site', 0.43174478, u'menu', 0.14917237, u'comic_book', 0.12331098]
+[u'bow_tie', 0.32666522, u'sax', 0.30959794, u'Windsor_tie', 0.056090757]
+[u'lab_coat', 0.28843635, u'stethoscope', 0.1464821, u'groom', 0.13623093]
+[u'shopping_cart', 0.16613327, u'lab_coat', 0.12321593, u'tub', 0.080490291]
+[u'suit', 0.30222803, u'groom', 0.087349594, u'Loafer', 0.055237055]

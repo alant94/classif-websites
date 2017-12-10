@@ -1,0 +1,1 @@
+[u'clog', 0.50266975, u'mask', 0.089592919, u'beer_bottle', 0.085185215, u'wooden_spoon', 0.045889601, u'whiskey_jug', 0.034434948]

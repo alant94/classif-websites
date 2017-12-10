@@ -1,0 +1,2 @@
+[u'dam', 0.18443103, u'recreational_vehicle', 0.12039157, u'car_mirror', 0.099565126, u'bullet_train', 0.09464822, u'passenger_car', 0.064799383]
+[u'spotlight', 0.10669722, u'window_shade', 0.078415543, u'turnstile', 0.069850728, u'window_screen', 0.060405556, u'television', 0.059939999]

@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.974783, u'Band_Aid', 0.0042717713, u'quilt', 0.0031740719]
+[u'digital_clock', 0.79829502, u'digital_watch', 0.13046843, u'Band_Aid', 0.01040104]
+[u'screw', 0.30349484, u'panpipe', 0.21677968, u'marimba', 0.1466051]

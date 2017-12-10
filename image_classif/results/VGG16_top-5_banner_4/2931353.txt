@@ -1,0 +1,2 @@
+[u'hair_slide', 0.39154446, u'toyshop', 0.13822795, u'rubber_eraser', 0.065538563, u'jigsaw_puzzle', 0.056191973, u'pencil_sharpener', 0.05019293]
+[u'lighter', 0.10865487, u'book_jacket', 0.077056289, u'coffee_mug', 0.065967686, u'cup', 0.030129192, u'street_sign', 0.026531041]

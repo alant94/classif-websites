@@ -1,0 +1,3 @@
+[u'tow_truck', 0.35056007, u'crane', 0.24590386, u'trailer_truck', 0.16830005]
+[u'crane', 0.9962256, u'harvester', 0.0010738047, u'drilling_platform', 0.00062950782]
+[u'screw', 0.10520858, u'picket_fence', 0.092700124, u'crossword_puzzle', 0.078122623]

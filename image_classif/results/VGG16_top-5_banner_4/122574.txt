@@ -1,0 +1,2 @@
+[u'lipstick', 0.15834785, u'screwdriver', 0.10528763, u'ballpoint', 0.10293254, u'web_site', 0.081401885, u'syringe', 0.0724089]
+[u'book_jacket', 0.30846483, u'web_site', 0.073128179, u'paddlewheel', 0.055124033, u'picket_fence', 0.054394495, u'screwdriver', 0.052438144]

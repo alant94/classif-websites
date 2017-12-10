@@ -1,0 +1,2 @@
+[u'English_setter', 0.52354598, u'Bedlington_terrier', 0.16776134, u'Saluki', 0.12118039, u'Ibizan_hound', 0.039876614, u'borzoi', 0.028394356]
+[u'screwdriver', 0.29852116, u"carpenter's_kit", 0.10041282, u'paintbrush', 0.096934855, u'rubber_eraser', 0.071938179, u'rule', 0.069139466]

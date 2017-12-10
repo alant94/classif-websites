@@ -1,0 +1,3 @@
+[u'menu', 0.81244069, u'web_site', 0.10886126, u'packet', 0.031370465, u'jigsaw_puzzle', 0.0044911904, u'book_jacket', 0.0040750736]
+[u'hair_slide', 0.45845821, u'rubber_eraser', 0.27828437, u'rule', 0.088451289, u'tray', 0.043869823, u'envelope', 0.030096389]
+[u'hook', 0.17577855, u'crane', 0.097788811, u'scale', 0.037734035, u'bow', 0.035958372, u'swing', 0.034548789]

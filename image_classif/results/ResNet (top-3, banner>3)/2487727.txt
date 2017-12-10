@@ -1,0 +1,2 @@
+[u'boathouse', 0.21240966, u'lakeside', 0.18977085, u'palace', 0.13350061]
+[u'candle', 0.26072937, u'picket_fence', 0.14665775, u'matchstick', 0.10760801]

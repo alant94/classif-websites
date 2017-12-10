@@ -1,0 +1,2 @@
+[u'bakery', 0.30391341, u'cinema', 0.10683209, u'restaurant', 0.10513289, u'butcher_shop', 0.075349353, u'tobacco_shop', 0.061455842]
+[u'monitor', 0.22173601, u'television', 0.17149323, u'breastplate', 0.072002523, u'sea_lion', 0.066903807, u'screen', 0.062861726]

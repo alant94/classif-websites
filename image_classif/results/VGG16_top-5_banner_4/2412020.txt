@@ -1,0 +1,4 @@
+[u'modem', 0.86358833, u'switch', 0.04837032, u'joystick', 0.023903884, u'hard_disc', 0.010486656, u"carpenter's_kit", 0.0092521822]
+[u'switch', 0.42083898, u'cassette', 0.18447883, u'modem', 0.17071936, u'radio', 0.041923285, u'mousetrap', 0.037859909]
+[u'screwdriver', 0.4383606, u'lipstick', 0.21841919, u'switch', 0.090509236, u'lighter', 0.088288732, u'whistle', 0.042733803]
+[u'modem', 0.82291323, u'switch', 0.04251606, u'hard_disc', 0.042249095, u'space_bar', 0.012163295, u"carpenter's_kit", 0.010315031]

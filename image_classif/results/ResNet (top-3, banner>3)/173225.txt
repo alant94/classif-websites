@@ -1,0 +1,7 @@
+[u'comic_book', 0.57632524, u'book_jacket', 0.39792293, u'Band_Aid', 0.0039315424]
+[u'digital_clock', 0.093605936, u'street_sign', 0.0907095, u'scoreboard', 0.064665228]
+[u'binder', 0.21561587, u'web_site', 0.17520455, u'envelope', 0.067305975]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'comic_book', 0.53738582, u'lighter', 0.089032136, u'vending_machine', 0.027353093]
+[u'pill_bottle', 0.67598021, u'nipple', 0.050553668, u'spotlight', 0.025867907]
+[u'shield', 0.06389761, u'analog_clock', 0.051896963, u'bell_cote', 0.046536468]

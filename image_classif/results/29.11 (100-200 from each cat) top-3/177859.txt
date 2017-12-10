@@ -1,0 +1,3 @@
+[u'digital_clock', 0.36551917, u'web_site', 0.081020027, u'stopwatch', 0.037765536]
+[u'web_site', 0.60129082, u'digital_clock', 0.095419705, u'analog_clock', 0.05835012]
+[u'web_site', 0.58149868, u'digital_clock', 0.16047801, u'bannister', 0.022727707]

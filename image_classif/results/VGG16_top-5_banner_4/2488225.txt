@@ -1,0 +1,7 @@
+[u'ibex', 0.30052987, u'cougar', 0.17080846, u'hartebeest', 0.14742792, u'bighorn', 0.10506007, u'impala', 0.045582272]
+[u'ibex', 0.63845927, u'hartebeest', 0.1890658, u'rock_python', 0.044827517, u'bow', 0.022372657, u'impala', 0.020552855]
+[u'oxcart', 0.43941867, u'ox', 0.21968849, u'ibex', 0.05729698, u'impala', 0.055390902, u'gazelle', 0.045502953]
+[u'impala', 0.1640618, u'ibex', 0.15515234, u'wallaby', 0.099805519, u'bighorn', 0.092917427, u'Scottish_deerhound', 0.075785875]
+[u'ibex', 0.17727438, u'ox', 0.10839553, u'chain_saw', 0.081144556, u'wild_boar', 0.046412278, u'rock_python', 0.043217786]
+[u'whippet', 0.55965579, u'Great_Dane', 0.14919293, u'Weimaraner', 0.12754822, u'Italian_greyhound', 0.069268763, u'Mexican_hairless', 0.032903399]
+[u'Ibizan_hound', 0.057119861, u'English_foxhound', 0.056942496, u'hartebeest', 0.046290722, u'Great_Dane', 0.043599579, u'ox', 0.027832583]

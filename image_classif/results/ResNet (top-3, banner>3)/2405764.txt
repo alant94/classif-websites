@@ -1,0 +1,2 @@
+[u'slot', 0.32957926, u'scoreboard', 0.17117859, u'cellular_telephone', 0.14809047]
+[u'projector', 0.37919679, u'radio', 0.26201046, u'hard_disc', 0.22428134]

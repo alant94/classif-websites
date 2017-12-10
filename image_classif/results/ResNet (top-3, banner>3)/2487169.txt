@@ -1,0 +1,2 @@
+[u'notebook', 0.79810739, u'laptop', 0.18644652, u'web_site', 0.0049870173]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

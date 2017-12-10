@@ -1,0 +1,5 @@
+[u'mongoose', 0.25601143, u'wild_boar', 0.08861959, u'baboon', 0.076985218, u'ibex', 0.075652584, u'coyote', 0.054762874]
+[u'tusker', 0.32163429, u'Indian_elephant', 0.15414459, u'warthog', 0.15376709, u'ox', 0.12222107, u'bison', 0.11482878]
+[u'American_black_bear', 0.82461482, u'sloth_bear', 0.086893208, u'hog', 0.023763327, u'wild_boar', 0.023258807, u'wombat', 0.02218518]
+[u'matchstick', 0.13425308, u'candle', 0.083430819, u'space_shuttle', 0.064128019, u'jersey', 0.043495029, u'book_jacket', 0.036556192]
+[u'volcano', 0.17529628, u'car_mirror', 0.096076608, u'suspension_bridge', 0.090275154, u'fountain', 0.050172716, u'spotlight', 0.040813323]

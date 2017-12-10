@@ -1,0 +1,1 @@
+[u'plastic_bag', 0.073186539, u'envelope', 0.069919154, u'clumber', 0.049994964]

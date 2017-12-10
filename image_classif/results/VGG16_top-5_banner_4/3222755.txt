@@ -1,0 +1,4 @@
+[u'wall_clock', 0.022271551, u'hourglass', 0.015927548, u'ladybug', 0.013751385, u'switch', 0.013742884, u'nematode', 0.013685709]
+[u'packet', 0.26649842, u'hammer', 0.080129974, u'scabbard', 0.058556285, u'book_jacket', 0.043671988, u'hatchet', 0.042058017]
+[u'book_jacket', 0.55302119, u'jersey', 0.12723054, u'comic_book', 0.11990838, u'panpipe', 0.061894957, u'rock_beauty', 0.03155195]
+[u'web_site', 0.28810659, u'envelope', 0.075550728, u'rule', 0.019858379, u'nail', 0.01593196, u'hook', 0.013648938]

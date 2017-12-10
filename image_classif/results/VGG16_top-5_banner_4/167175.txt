@@ -1,0 +1,1 @@
+[u'radio_telescope', 0.22110915, u'crane', 0.13795364, u'stretcher', 0.065947227, u'espresso_maker', 0.064224862, u'plate_rack', 0.060195792]

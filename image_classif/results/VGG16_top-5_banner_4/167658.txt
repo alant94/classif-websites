@@ -1,0 +1,5 @@
+[u'monitor', 0.24114786, u'spotlight', 0.097640254, u'stage', 0.072039299, u'analog_clock', 0.068550922, u'fountain', 0.048473179]
+[u'fountain', 0.50922734, u'stage', 0.17583629, u'fireboat', 0.061787952, u'spotlight', 0.048845582, u'fire_engine', 0.019091636]
+[u'envelope', 0.078931615, u'analog_clock', 0.069504283, u'wall_clock', 0.066647537, u'digital_clock', 0.063214459, u'traffic_light', 0.059419952]
+[u'bookcase', 0.12533146, u'medicine_chest', 0.10977729, u'hair_spray', 0.088373981, u'comic_book', 0.071536593, u"carpenter's_kit", 0.066538922]
+[u'Band_Aid', 0.13009848, u'digital_clock', 0.06355013, u'analog_clock', 0.044909794, u'web_site', 0.033849388, u'envelope', 0.026778158]

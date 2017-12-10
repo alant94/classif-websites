@@ -1,0 +1,4 @@
+[u'envelope', 0.16945869, u'analog_clock', 0.057967525, u'pill_bottle', 0.055490151]
+[u'medicine_chest', 0.14360866, u'window_shade', 0.065861546, u'web_site', 0.044449445]
+[u'digital_clock', 0.43924835, u'traffic_light', 0.18485808, u'digital_watch', 0.13962126]
+[u'wall_clock', 0.15841752, u'medicine_chest', 0.12642413, u'wardrobe', 0.055844124]

@@ -1,0 +1,8 @@
+[u'picket_fence', 0.91658831, u'radiator', 0.027536631, u'iron', 0.0060247974, u'wardrobe', 0.0050387243, u'plate_rack', 0.0044700112]
+[u'paintbrush', 0.17632724, u'harp', 0.11307857, u'sax', 0.10302473, u'hook', 0.058803752, u'electric_guitar', 0.052501131]
+[u'puck', 0.27254775, u'face_powder', 0.13958757, u'tennis_ball', 0.12759019, u'ping-pong_ball', 0.09169466, u'pill_bottle', 0.055433411]
+[u'fountain', 0.50325185, u'picket_fence', 0.26260063, u'radiator', 0.18863687, u'worm_fence', 0.0080493148, u'paintbrush', 0.007007807]
+[u'paintbrush', 0.21119645, u'picket_fence', 0.17246956, u'fountain', 0.14353162, u'hook', 0.091846749, u'chime', 0.073478863]
+[u'paintbrush', 0.25957865, u'butcher_shop', 0.12186319, u'cleaver', 0.091665685, u'picket_fence', 0.063805483, u'wardrobe', 0.036270991]
+[u'water_tower', 0.1264821, u'park_bench', 0.065753795, u'church', 0.051511906, u'motor_scooter', 0.05097688, u'pole', 0.049832676]
+[u'fountain', 0.68335456, u'picket_fence', 0.13857105, u'paintbrush', 0.09442509, u'shower_curtain', 0.02126554, u'radiator', 0.0079684351]

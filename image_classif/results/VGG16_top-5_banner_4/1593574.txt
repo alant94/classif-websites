@@ -1,0 +1,1 @@
+[u'comic_book', 0.23070532, u'abaya', 0.13505404, u'brassiere', 0.083823942, u'pajama', 0.074892193, u'maillot', 0.052017447]

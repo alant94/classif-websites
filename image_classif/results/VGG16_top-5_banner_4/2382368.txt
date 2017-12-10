@@ -1,0 +1,4 @@
+[u'web_site', 0.10732345, u'tennis_ball', 0.044266298, u'Granny_Smith', 0.040203441, u'trombone', 0.037209667, u'cornet', 0.03707565]
+[u'comic_book', 0.45002922, u'pick', 0.12855516, u'hair_slide', 0.049503002, u'hatchet', 0.026191557, u'electric_guitar', 0.020126658]
+[u'flagpole', 0.072109781, u'envelope', 0.066786274, u'matchstick', 0.049280677, u'baseball', 0.039710432, u'nail', 0.037313219]
+[u'vending_machine', 0.97950661, u'slot', 0.01201516, u'web_site', 0.0029056035, u'pop_bottle', 0.0011816326, u'monitor', 0.0010185736]

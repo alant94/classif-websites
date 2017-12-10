@@ -1,0 +1,2 @@
+[u'refrigerator', 0.44991827, u'desk', 0.12022819, u'envelope', 0.043837301, u'apron', 0.025102921, u'binder', 0.018545646]
+[u'pot', 0.24113001, u'vase', 0.19719423, u'altar', 0.056115624, u'hamper', 0.031390596, u'refrigerator', 0.025351807]

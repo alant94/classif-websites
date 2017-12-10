@@ -1,0 +1,5 @@
+[u'vending_machine', 0.21054865, u'medicine_chest', 0.16228363, u'china_cabinet', 0.12811139, u'confectionery', 0.099420011, u'water_bottle', 0.059432056]
+[u'Kerry_blue_terrier', 0.13921456, u'Australian_terrier', 0.05758255, u'Yorkshire_terrier', 0.054097284, u'Brabancon_griffon', 0.051849976, u'Gordon_setter', 0.049660947]
+[u'dingo', 0.071173467, u'red_fox', 0.054032795, u'red_wolf', 0.036209695, u'grey_fox', 0.035822924, u'geyser', 0.033931538]
+[u'broom', 0.050527077, u'vase', 0.040885169, u'dining_table', 0.03685594, u'crane', 0.030349283, u'barn_spider', 0.02949998]
+[u'nematode', 0.2881076, u'ringneck_snake', 0.17089535, u'night_snake', 0.14262933, u'green_mamba', 0.066441104, u'sea_snake', 0.060550783]

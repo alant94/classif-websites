@@ -1,0 +1,7 @@
+[u'nail', 0.13938849, u'palace', 0.086914867, u'castle', 0.061118487, u'rule', 0.055874735, u'bell_cote', 0.048597384]
+[u'banjo', 0.20779637, u'rule', 0.076523513, u'barometer', 0.063971885, u'wall_clock', 0.048134118, u'bottlecap', 0.044911761]
+[u'banjo', 0.91205853, u'drum', 0.027409665, u'hoopskirt', 0.019407729, u'harp', 0.0055477847, u'panpipe', 0.0047792112]
+[u'comic_book', 0.56929898, u'book_jacket', 0.14619455, u'coffee_mug', 0.097169667, u'puck', 0.035310522, u'lighter', 0.019439567]
+[u'buckle', 0.27463159, u'bolo_tie', 0.065929532, u'puck', 0.056841526, u'thimble', 0.055949848, u'tray', 0.049488191]
+[u'carousel', 0.14169537, u'mosque', 0.088184319, u'restaurant', 0.067744836, u'window_shade', 0.065348692, u'sliding_door', 0.062641539]
+[u'chime', 0.15640603, u'spatula', 0.12232111, u'screwdriver', 0.070909508, u'shovel', 0.069091596, u'hook', 0.066704154]

@@ -1,0 +1,7 @@
+[u'acoustic_guitar', 0.97854644, u'electric_guitar', 0.015338758, u'pick', 0.0012366959]
+[u'acoustic_guitar', 0.7962746, u'banjo', 0.12227092, u'electric_guitar', 0.051366288]
+[u'electric_guitar', 0.9901002, u'acoustic_guitar', 0.0068543917, u'pick', 0.0010258693]
+[u'acoustic_guitar', 0.98746079, u'electric_guitar', 0.0047055259, u'banjo', 0.0041048392]
+[u'acoustic_guitar', 0.9999212, u'pick', 4.1984364e-05, u'electric_guitar', 3.4824556e-05]
+[u'street_sign', 0.83081114, u'traffic_light', 0.072379857, u'school_bus', 0.028676283]
+[u'crossword_puzzle', 0.96040428, u'shoji', 0.0092968903, u'slot', 0.0024040854]

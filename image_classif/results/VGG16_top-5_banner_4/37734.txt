@@ -1,0 +1,2 @@
+[u'desktop_computer', 0.14457239, u'screen', 0.14264993, u'web_site', 0.14103818, u'television', 0.12174948, u'cassette_player', 0.058609504]
+[u'web_site', 0.38973096, u'desktop_computer', 0.26933876, u'screen', 0.20248538, u'monitor', 0.034717463, u'binder', 0.010049199]

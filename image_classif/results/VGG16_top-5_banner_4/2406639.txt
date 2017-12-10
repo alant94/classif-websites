@@ -1,0 +1,1 @@
+[u'seashore', 0.31794956, u'breakwater', 0.1007909, u'drilling_platform', 0.097414136, u'beacon', 0.084480122, u'lakeside', 0.075689442]

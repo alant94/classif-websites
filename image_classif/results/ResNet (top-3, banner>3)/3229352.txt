@@ -1,0 +1,4 @@
+[u'bath_towel', 0.053663362, u'swimming_trunks', 0.028557641, u'bow_tie', 0.026263358]
+[u'cleaver', 0.20190586, u"potter's_wheel", 0.13936268, u'paintbrush', 0.040602751]
+[u'pajama', 0.22702797, u'barbershop', 0.17684732, u'suit', 0.053469695]
+[u'notebook', 0.26697302, u'paper_towel', 0.089849278, u'toilet_tissue', 0.067987636]

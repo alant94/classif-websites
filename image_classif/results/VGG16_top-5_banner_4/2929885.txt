@@ -1,0 +1,1 @@
+[u'cardigan', 0.47702354, u'kimono', 0.062421914, u'poncho', 0.058657579, u'stole', 0.046726715, u'overskirt', 0.043607537]

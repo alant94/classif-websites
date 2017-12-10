@@ -1,0 +1,4 @@
+[u'flagpole', 0.12239898, u'sliding_door', 0.062409457, u'barn', 0.037768401]
+[u'quilt', 0.33389759, u'vestment', 0.26260313, u'apron', 0.14817506]
+[u'chime', 0.31726858, u'binder', 0.25748801, u'pencil_box', 0.043273199]
+[u'shoe_shop', 0.46084735, u'tobacco_shop', 0.045671053, u'restaurant', 0.034093194]

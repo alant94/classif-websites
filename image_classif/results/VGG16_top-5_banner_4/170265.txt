@@ -1,0 +1,1 @@
+[u'desk', 0.11285857, u'table_lamp', 0.094099499, u'coil', 0.0629519, u'spotlight', 0.056861751, u'dining_table', 0.053057596]

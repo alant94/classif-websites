@@ -1,0 +1,3 @@
+[u'picket_fence', 0.53530121, u'monitor', 0.091127768, u'web_site', 0.066902474, u'screen', 0.049980208, u'envelope', 0.030633207]
+[u'picket_fence', 0.10972205, u'boathouse', 0.074847028, u'church', 0.071872056, u'lakeside', 0.0669645, u'mobile_home', 0.05950921]
+[u'suit', 0.66571075, u'Windsor_tie', 0.21416968, u'academic_gown', 0.032615378, u'library', 0.027853495, u'tobacco_shop', 0.008002704]

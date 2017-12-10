@@ -1,0 +1,6 @@
+[u'stage', 0.13877174, u'alp', 0.091087833, u'theater_curtain', 0.081550993, u'mortarboard', 0.035302427, u'torch', 0.028750662]
+[u'web_site', 0.1915307, u'pill_bottle', 0.094971269, u'nipple', 0.04061712, u'lighter', 0.030876014, u'lotion', 0.030513737]
+[u'envelope', 0.48521283, u'carton', 0.077908725, u'modem', 0.027393525, u'Band_Aid', 0.024796313, u'wall_clock', 0.016311359]
+[u'car_wheel', 0.18344414, u'racer', 0.083942764, u'ski', 0.069278516, u'book_jacket', 0.062298123, u'racket', 0.049953055]
+[u'book_jacket', 0.83433181, u'pop_bottle', 0.022749284, u'packet', 0.022348262, u'Band_Aid', 0.012486252, u'barbershop', 0.0095837861]
+[u'book_jacket', 0.5677942, u'barbershop', 0.1685655, u'tobacco_shop', 0.017271381, u'comic_book', 0.012589751, u'doormat', 0.012084057]

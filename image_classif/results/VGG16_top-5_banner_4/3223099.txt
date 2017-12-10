@@ -1,0 +1,2 @@
+[u'kite', 0.13892058, u'bald_eagle', 0.055435345, u'black_stork', 0.051198415, u'vulture', 0.049272805, u'white_stork', 0.047025409]
+[u'alp', 0.66515756, u'cliff', 0.15548806, u'volcano', 0.065905511, u'geyser', 0.049620531, u'breakwater', 0.0093121985]

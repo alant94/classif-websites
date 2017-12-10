@@ -1,0 +1,5 @@
+[u'sweatshirt', 0.079421334, u'jersey', 0.040708497, u'bulletproof_vest', 0.031667367, u'coho', 0.031556152, u'cardigan', 0.020061534]
+[u'wall_clock', 0.076918125, u'safe', 0.053732209, u'medicine_chest', 0.046905283, u'plate_rack', 0.040427148, u'traffic_light', 0.038393501]
+[u'nail', 0.13394573, u'screwdriver', 0.095752724, u'quill', 0.063702054, u'matchstick', 0.052705802, u"carpenter's_kit", 0.048480067]
+[u'neck_brace', 0.16670881, u'torch', 0.095450483, u'vestment', 0.086963706, u'book_jacket', 0.075499773, u'pickelhaube', 0.066439867]
+[u'matchstick', 0.12281261, u'Band_Aid', 0.037327442, u'knee_pad', 0.031208301, u'candle', 0.024091758, u'jersey', 0.022946034]

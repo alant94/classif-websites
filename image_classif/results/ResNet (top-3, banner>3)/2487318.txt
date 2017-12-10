@@ -1,0 +1,6 @@
+[u'balloon', 0.16361496, u'valley', 0.045213401, u'bison', 0.034626815]
+[u'web_site', 0.38607848, u'street_sign', 0.063158341, u'book_jacket', 0.062995568]
+[u'digital_clock', 0.15196936, u'web_site', 0.065596811, u'analog_clock', 0.055994231]
+[u'crossword_puzzle', 0.94437158, u'digital_clock', 0.022281496, u'digital_watch', 0.012504675]
+[u'redbone', 0.38402575, u'bloodhound', 0.053411275, u'muzzle', 0.047945365]
+[u'airship', 0.45871443, u'book_jacket', 0.065240465, u'submarine', 0.055558331]

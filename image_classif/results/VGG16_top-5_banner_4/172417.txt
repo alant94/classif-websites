@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.26674473, u'stage', 0.22817998, u'spotlight', 0.14465103, u'torch', 0.046266634, u'suit', 0.032436434]
+[u'ashcan', 0.088966474, u'cash_machine', 0.076010928, u'scoreboard', 0.056347847, u'street_sign', 0.052477911, u'oil_filter', 0.049497869]

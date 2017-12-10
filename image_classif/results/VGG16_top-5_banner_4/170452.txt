@@ -1,0 +1,1 @@
+[u'cinema', 0.079591587, u'palace', 0.072556026, u'bell_cote', 0.071304083, u'traffic_light', 0.057013839, u'boathouse', 0.041742004]

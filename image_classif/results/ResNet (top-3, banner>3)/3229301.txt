@@ -1,0 +1,4 @@
+[u'Polaroid_camera', 0.94542283, u'reflex_camera', 0.023493441, u'reel', 0.010306387]
+[u'oil_filter', 0.61988586, u'sunscreen', 0.045983221, u'Band_Aid', 0.036645677]
+[u'book_jacket', 0.57016271, u'street_sign', 0.19199447, u'Band_Aid', 0.051520098]
+[u'suit', 0.25384182, u'stage', 0.19924881, u'Windsor_tie', 0.072879717]

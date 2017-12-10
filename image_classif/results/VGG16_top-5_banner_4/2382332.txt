@@ -1,0 +1,8 @@
+[u'doormat', 0.10004643, u'prison', 0.068371408, u'scoreboard', 0.063601047, u'container_ship', 0.055990092, u'tobacco_shop', 0.051009882]
+[u'altar', 0.31696388, u'palace', 0.18021294, u'church', 0.088704638, u'castle', 0.079217397, u'monastery', 0.069714502]
+[u'toyshop', 0.38351798, u'confectionery', 0.38054541, u'bakery', 0.090831004, u'grocery_store', 0.036769178, u'restaurant', 0.014652336]
+[u'seashore', 0.39303842, u'container_ship', 0.054338578, u'airship', 0.052540809, u'aircraft_carrier', 0.044717859, u'drilling_platform', 0.040512998]
+[u'airship', 0.25719041, u'airliner', 0.11305607, u'seashore', 0.082109205, u'dome', 0.045958698, u'monitor', 0.040095143]
+[u'wine_bottle', 0.96026015, u'red_wine', 0.018744925, u'beer_bottle', 0.012424367, u'hamper', 0.0040154853, u'corkscrew', 0.0032198015]
+[u'aircraft_carrier', 0.88975656, u'container_ship', 0.094804779, u'drilling_platform', 0.013143091, u'dock', 0.0011296837, u'seashore', 0.000348384]
+[u'wine_bottle', 0.90397173, u'red_wine', 0.088629752, u'hamper', 0.0048464946, u'beer_bottle', 0.0012311336, u'corkscrew', 0.00042336652]

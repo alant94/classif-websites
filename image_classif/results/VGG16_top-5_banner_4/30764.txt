@@ -1,0 +1,1 @@
+[u'tennis_ball', 0.87198162, u'ping-pong_ball', 0.03554868, u'digital_clock', 0.012472752, u'golf_ball', 0.0064462395, u'Granny_Smith', 0.0062783123]

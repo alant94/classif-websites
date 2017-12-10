@@ -1,0 +1,2 @@
+[u'thunder_snake', 0.83329445, u'common_newt', 0.05601513, u'eft', 0.025961785, u'slug', 0.015911797, u'flatworm', 0.013406412]
+[u'corkscrew', 0.80141777, u'jigsaw_puzzle', 0.032690123, u'pencil_sharpener', 0.020900449, u'can_opener', 0.020139638, u'hair_slide', 0.010262902]

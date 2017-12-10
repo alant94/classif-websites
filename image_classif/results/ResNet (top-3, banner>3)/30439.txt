@@ -1,0 +1,3 @@
+[u'library', 0.53446549, u'palace', 0.148463, u'flagpole', 0.06091439]
+[u'cliff', 0.58859724, u'lakeside', 0.14097358, u'seashore', 0.10704441]
+[u'picket_fence', 0.19331191, u'flagpole', 0.18690602, u'military_uniform', 0.099722199]

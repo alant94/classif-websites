@@ -1,0 +1,2 @@
+[u'ballplayer', 0.14107795, u'bicycle-built-for-two', 0.13797006, u'knee_pad', 0.07687708, u'mountain_bike', 0.066797823, u'crash_helmet', 0.047874667]
+[u'Band_Aid', 0.19613743, u'web_site', 0.09317904, u'ambulance', 0.053467952, u'scoreboard', 0.052021004, u'flagpole', 0.046241444]

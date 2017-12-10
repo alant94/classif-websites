@@ -1,0 +1,4 @@
+[u'studio_couch', 0.39351639, u'rocking_chair', 0.057685606, u'bath_towel', 0.036234885, u'suit', 0.026107199, u'pillow', 0.021709086]
+[u'bath_towel', 0.61193079, u'bikini', 0.06636896, u'brassiere', 0.048763677, u'sarong', 0.040162314, u'maillot', 0.038288552]
+[u'brassiere', 0.094733946, u'hair_spray', 0.055376042, u'shower_cap', 0.052305281, u'wig', 0.034090545, u'bikini', 0.032008771]
+[u'groom', 0.21508892, u'gown', 0.1501451, u'brassiere', 0.10738904, u'lab_coat', 0.055979948, u'wig', 0.044580765]

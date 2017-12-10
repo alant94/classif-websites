@@ -1,0 +1,1 @@
+[u'parachute', 0.054384116, u'envelope', 0.05388926, u'balloon', 0.025383268, u'flagpole', 0.02471667, u'airship', 0.021473758]

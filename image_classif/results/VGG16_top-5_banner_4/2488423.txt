@@ -1,0 +1,3 @@
+[u'shield', 0.21136761, u'gong', 0.084842905, u'toilet_seat', 0.057909474, u'barrel', 0.029186273, u'mushroom', 0.025625495]
+[u'starfish', 0.81006986, u'letter_opener', 0.064929523, u'nail', 0.012311105, u'walking_stick', 0.0091350572, u'conch', 0.008947257]
+[u'kimono', 0.22650698, u'cowboy_hat', 0.14070739, u'book_jacket', 0.11297545, u'web_site', 0.046738677, u'stole', 0.024170259]

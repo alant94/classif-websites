@@ -1,0 +1,6 @@
+[u'digital_clock', 0.93322301, u'digital_watch', 0.031753629, u'stopwatch', 0.0099429302]
+[u'nematode', 0.15523243, u'dishwasher', 0.087953888, u'envelope', 0.019927885]
+[u'hook', 0.51236331, u'web_site', 0.076802075, u'menu', 0.0383908]
+[u'prison', 0.42141035, u'crutch', 0.038476404, u'sarong', 0.037540488]
+[u'red_wine', 0.59908128, u'wine_bottle', 0.36900231, u'corkscrew', 0.013757158]
+[u'solar_dish', 0.47291777, u'picket_fence', 0.41476581, u'obelisk', 0.018139875]

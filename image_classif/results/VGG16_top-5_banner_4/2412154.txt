@@ -1,0 +1,4 @@
+[u'safety_pin', 0.24162666, u'hook', 0.10685044, u'nail', 0.098587334, u'wall_clock', 0.04032797, u'book_jacket', 0.038522802]
+[u'digital_clock', 0.080320269, u'street_sign', 0.058881789, u'spatula', 0.027294973, u'pick', 0.024565699, u'stopwatch', 0.018745672]
+[u'whistle', 0.30360767, u'binder', 0.17010768, u'envelope', 0.054484081, u'throne', 0.03699711, u'lighter', 0.036486622]
+[u'bottlecap', 0.78174978, u'spotlight', 0.14018875, u'coil', 0.011019266, u'magnetic_compass', 0.0086260652, u'hair_slide', 0.007776014]

@@ -1,0 +1,4 @@
+[u'gazelle', 0.67207462, u'impala', 0.27553281, u'hartebeest', 0.040825147]
+[u'impala', 0.43560022, u'gazelle', 0.29774415, u'hartebeest', 0.076433629]
+[u'ibex', 0.31931964, u'gazelle', 0.31610429, u'impala', 0.18593627]
+[u'triceratops', 0.068610296, u'chain_saw', 0.048901968, u'banjo', 0.048514679]

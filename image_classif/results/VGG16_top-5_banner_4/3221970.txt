@@ -1,0 +1,4 @@
+[u'torch', 0.51400936, u'hook', 0.064844675, u'jersey', 0.039259307, u'candle', 0.020488773, u'matchstick', 0.017864831]
+[u'shovel', 0.36207813, u'pole', 0.31563944, u'paddle', 0.12984638, u'hatchet', 0.033893909, u'flamingo', 0.016246136]
+[u'balance_beam', 0.82338953, u'parallel_bars', 0.053312179, u'horizontal_bar', 0.022357257, u'volleyball', 0.018690415, u'maillot', 0.018129976]
+[u'conch', 0.1356273, u'torch', 0.10781719, u'matchstick', 0.053039778, u'candle', 0.051190477, u'picket_fence', 0.040961873]

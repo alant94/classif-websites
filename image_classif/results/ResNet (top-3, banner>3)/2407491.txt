@@ -1,0 +1,7 @@
+[u'chain', 0.45652616, u'caldron', 0.26413319, u'bearskin', 0.045726273]
+[u'hook', 0.2287886, u'plate_rack', 0.12417804, u'guillotine', 0.050364126]
+[u'scale', 0.67469454, u'fountain', 0.036899108, u'drum', 0.03151441]
+[u'walking_stick', 0.20324875, u'hook', 0.08684431, u'bow', 0.064191565]
+[u'hook', 0.62532794, u'table_lamp', 0.082121998, u'scabbard', 0.053269032]
+[u'laptop', 0.36732611, u'web_site', 0.15080483, u'envelope', 0.12858796]
+[u'nematode', 0.17631499, u'pretzel', 0.1329055, u'sea_anemone', 0.085835859]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.56756628, u'comic_book', 0.24440049, u'street_sign', 0.033212543, u'scoreboard', 0.015137705, u'moving_van', 0.0078179995]
+[u'comic_book', 0.4625428, u'book_jacket', 0.35399103, u'scoreboard', 0.084458686, u'web_site', 0.017296214, u'packet', 0.0079008946]

@@ -1,0 +1,4 @@
+[u'hair_spray', 0.49785006, u'syringe', 0.16703089, u'lighter', 0.085891455]
+[u'combination_lock', 0.30047405, u'abacus', 0.15514056, u'switch', 0.074505292]
+[u'packet', 0.33128563, u'syringe', 0.30059916, u'modem', 0.048806272]
+[u'cash_machine', 0.35100237, u'web_site', 0.21021865, u'modem', 0.060613971]

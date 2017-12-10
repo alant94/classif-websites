@@ -1,0 +1,2 @@
+[u'puck', 0.21711606, u'analog_clock', 0.13164699, u'power_drill', 0.10445864]
+[u'mongoose', 0.14701888, u'meerkat', 0.13204244, u'Band_Aid', 0.10540064]

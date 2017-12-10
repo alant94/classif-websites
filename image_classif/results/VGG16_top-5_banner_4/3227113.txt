@@ -1,0 +1,3 @@
+[u'web_site', 0.83324409, u'analog_clock', 0.067186221, u'wall_clock', 0.028568929, u'envelope', 0.017612629, u'magnetic_compass', 0.0045578307]
+[u'mask', 0.67830563, u'vestment', 0.118495, u'cloak', 0.049513742, u'book_jacket', 0.03285066, u'sweatshirt', 0.026388446]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]

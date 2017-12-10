@@ -1,0 +1,2 @@
+[u'wardrobe', 0.075976983, u'crate', 0.068625115, u'sliding_door', 0.05982944, u'menu', 0.058105599, u'shoji', 0.040402036]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

@@ -1,0 +1,6 @@
+[u'whistle', 0.66159356, u'envelope', 0.097335219, u'digital_clock', 0.064317532, u'Band_Aid', 0.022630781, u'muzzle', 0.0098124165]
+[u'analog_clock', 0.45384467, u'magnetic_compass', 0.091747403, u'digital_clock', 0.083627827, u'web_site', 0.078934997, u'wall_clock', 0.072363786]
+[u'digital_clock', 0.23848385, u'tray', 0.1234649, u'envelope', 0.055274632, u'wall_clock', 0.03263028, u'analog_clock', 0.02848547]
+[u'Band_Aid', 0.59678787, u'envelope', 0.081906222, u'matchstick', 0.077244774, u'rubber_eraser', 0.032597139, u'pill_bottle', 0.023641501]
+[u'carton', 0.71752143, u'envelope', 0.10732518, u'crate', 0.030223474, u'matchstick', 0.027486578, u'container_ship', 0.022070086]
+[u'container_ship', 0.12117767, u'envelope', 0.057670984, u'matchstick', 0.054341171, u'digital_clock', 0.045590408, u'carton', 0.03496775]

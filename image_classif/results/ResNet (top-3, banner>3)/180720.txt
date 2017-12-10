@@ -1,0 +1,3 @@
+[u'web_site', 0.14371933, u'comic_book', 0.1198662, u'iPod', 0.09954264]
+[u'book_jacket', 0.33065304, u'chain_saw', 0.1604249, u'theater_curtain', 0.11361073]
+[u'comic_book', 0.17298099, u'web_site', 0.16981539, u'puck', 0.10254206]

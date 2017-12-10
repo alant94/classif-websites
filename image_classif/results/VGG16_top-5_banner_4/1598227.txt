@@ -1,0 +1,4 @@
+[u'web_site', 0.34423444, u'television', 0.23868585, u'notebook', 0.10557704, u'monitor', 0.082713075, u'laptop', 0.044562817]
+[u'bikini', 0.45888874, u'brassiere', 0.24866755, u'maillot', 0.1379776, u'maillot', 0.027107183, u'sarong', 0.021281602]
+[u'brassiere', 0.63575959, u'bikini', 0.16472517, u'maillot', 0.052978221, u'maillot', 0.034623336, u'web_site', 0.013472546]
+[u'bikini', 0.40826842, u'web_site', 0.18326284, u'brassiere', 0.080864944, u'maillot', 0.063858017, u'maillot', 0.043849058]

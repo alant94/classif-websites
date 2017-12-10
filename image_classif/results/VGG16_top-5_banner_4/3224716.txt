@@ -1,0 +1,6 @@
+[u'maze', 0.14478572, u'traffic_light', 0.078151412, u'wall_clock', 0.049702216, u'digital_clock', 0.0391769, u'analog_clock', 0.036016032]
+[u'menu', 0.63314438, u'brass', 0.11299215, u'book_jacket', 0.10216025, u'crate', 0.020962883, u'barrel', 0.010543745]
+[u'packet', 0.13532306, u'hair_spray', 0.10842557, u'book_jacket', 0.091425344, u'jersey', 0.062163949, u'theater_curtain', 0.029710889]
+[u'book_jacket', 0.30525044, u'barbershop', 0.23867726, u'brass', 0.18501666, u'menu', 0.029297907, u'bookshop', 0.015141711]
+[u'Loafer', 0.39712599, u'plate_rack', 0.16987516, u'shoe_shop', 0.14993905, u'lipstick', 0.064533442, u'clog', 0.059480425]
+[u'traffic_light', 0.082427055, u'hook', 0.080844142, u'Band_Aid', 0.073162012, u'wall_clock', 0.038191531, u'envelope', 0.035831869]

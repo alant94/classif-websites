@@ -1,0 +1,2 @@
+[u'carousel', 0.65576237, u'slot', 0.053496581, u'cinema', 0.027057616, u'greenhouse', 0.025336018, u'church', 0.023042122]
+[u'church', 0.54390121, u'bell_cote', 0.24182056, u'monastery', 0.13108243, u'altar', 0.016550055, u'mosque', 0.014025196]

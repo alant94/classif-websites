@@ -1,0 +1,5 @@
+[u'abacus', 0.79197365, u'carton', 0.048126213, u'monitor', 0.019355331]
+[u'street_sign', 0.39047897, u'cash_machine', 0.04469711, u'book_jacket', 0.037169456]
+[u'cash_machine', 0.1952638, u'street_sign', 0.12572025, u'scoreboard', 0.12145071]
+[u'worm_fence', 0.11079341, u'mailbox', 0.096815608, u'birdhouse', 0.068235025]
+[u'nematode', 0.14945993, u'dugong', 0.03274912, u'envelope', 0.030903909]

@@ -1,0 +1,2 @@
+[u'mouse', 0.10197674, u'espresso_maker', 0.058898773, u'planetarium', 0.047133625]
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]

@@ -1,0 +1,7 @@
+[u'vending_machine', 0.36348498, u'espresso_maker', 0.1544708, u'turnstile', 0.054717798]
+[u'CD_player', 0.42594278, u'cassette_player', 0.39021006, u'tape_player', 0.12184382]
+[u'tennis_ball', 0.22211184, u'scoreboard', 0.03616612, u'banjo', 0.033303324]
+[u'safe', 0.61496305, u'web_site', 0.12916031, u'vending_machine', 0.093143873]
+[u'web_site', 0.45593655, u'barbershop', 0.25607106, u'vending_machine', 0.045113962]
+[u'cash_machine', 0.36197287, u'web_site', 0.24509366, u'file', 0.12068921]
+[u'web_site', 0.7953704, u'desk', 0.031117536, u'file', 0.019963026]

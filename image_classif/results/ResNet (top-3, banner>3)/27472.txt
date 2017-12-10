@@ -1,0 +1,2 @@
+[u'street_sign', 0.23097873, u'comic_book', 0.12570319, u'bannister', 0.074873619]
+[u'digital_clock', 0.44993597, u'digital_watch', 0.096866615, u'stopwatch', 0.092334777]

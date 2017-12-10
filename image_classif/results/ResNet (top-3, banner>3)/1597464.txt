@@ -1,0 +1,6 @@
+[u'sunglass', 0.13798381, u'comic_book', 0.11247849, u'mask', 0.09298642]
+[u'diaper', 0.48036131, u'swimming_trunks', 0.12215319, u'window_screen', 0.034371462]
+[u'bikini', 0.63442701, u'brassiere', 0.11432724, u'miniskirt', 0.060348928]
+[u'brassiere', 0.35948363, u'pole', 0.12721893, u'comic_book', 0.096824504]
+[u'oxygen_mask', 0.52598685, u'face_powder', 0.42923, u'nipple', 0.0095942868]
+[u'brassiere', 0.47086105, u'miniskirt', 0.28232688, u'hoopskirt', 0.079863258]

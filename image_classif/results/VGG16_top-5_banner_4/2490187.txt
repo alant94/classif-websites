@@ -1,0 +1,2 @@
+[u'envelope', 0.27683371, u'binder', 0.04101672, u'abaya', 0.03515425, u'carton', 0.030040171, u'bulletproof_vest', 0.028735872]
+[u'bow', 0.15867181, u'cornet', 0.11011954, u'mountain_bike', 0.077180386, u'oxygen_mask', 0.072078921, u'trombone', 0.050177231]

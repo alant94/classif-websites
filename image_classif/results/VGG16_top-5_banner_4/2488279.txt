@@ -1,0 +1,1 @@
+[u'digital_clock', 0.64283413, u'bullet_train', 0.1822343, u'modem', 0.051634725, u'rule', 0.033712208, u'scale', 0.010135803]

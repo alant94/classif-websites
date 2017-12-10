@@ -1,0 +1,8 @@
+[u'lab_coat', 0.8999207, u'stethoscope', 0.030776504, u'notebook', 0.028461281, u'pajama', 0.014222005, u'web_site', 0.0066106557]
+[u'nail', 0.33293861, u'oboe', 0.15581974, u'screw', 0.11236705, u'hook', 0.047678769, u'bassoon', 0.038028024]
+[u'matchstick', 0.051501133, u'mousetrap', 0.038628574, u'lighter', 0.038324367, u'web_site', 0.037171386, u'puck', 0.027280664]
+[u'organ', 0.38180873, u'screwdriver', 0.17410086, u'rule', 0.080655307, u'chime', 0.062081125, u'bookcase', 0.047146656]
+[u'lab_coat', 0.25483546, u'bathtub', 0.235709, u'tub', 0.15661584, u'notebook', 0.080729865, u'toilet_seat', 0.026920173]
+[u'web_site', 0.20590885, u'envelope', 0.03736018, u'analog_clock', 0.029786702, u'crane', 0.025517637, u'lighter', 0.025353611]
+[u'syringe', 0.17298108, u'lighter', 0.072188094, u'hair_spray', 0.065757856, u'chime', 0.0613137, u'ballpoint', 0.042976391]
+[u'brassiere', 0.27981678, u'bikini', 0.18804239, u'wig', 0.17242596, u'maillot', 0.071548328, u'feather_boa', 0.033710476]

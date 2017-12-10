@@ -1,0 +1,2 @@
+[u'hook', 0.373505, u'plate_rack', 0.033354804, u'corkscrew', 0.026225604, u'tray', 0.022460751, u'scale', 0.020099999]
+[u'hartebeest', 0.1317423, u'vulture', 0.11863237, u'white_stork', 0.088981956, u'kite', 0.083723374, u'bustard', 0.053722717]

@@ -1,0 +1,2 @@
+[u'cinema', 0.23168491, u'palace', 0.12876198, u'balloon', 0.075413197, u'traffic_light', 0.039948612, u'school_bus', 0.034207206]
+[u'screwdriver', 0.29835549, u"carpenter's_kit", 0.13002056, u'safety_pin', 0.080349475, u'cleaver', 0.036506973, u'comic_book', 0.027966119]

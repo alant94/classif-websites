@@ -1,0 +1,2 @@
+[u'shield', 0.079494394, u'comic_book', 0.065275848, u'lighter', 0.064744771]
+[u'sunglass', 0.23025534, u'brassiere', 0.12556621, u'analog_clock', 0.093411714]

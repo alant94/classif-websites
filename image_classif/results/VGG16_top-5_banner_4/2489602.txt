@@ -1,0 +1,8 @@
+[u'wardrobe', 0.43755499, u'shoe_shop', 0.077002622, u'theater_curtain', 0.054372996, u'cleaver', 0.045535523, u'academic_gown', 0.034650024]
+[u'balance_beam', 0.21392232, u'marimba', 0.040444575, u'briard', 0.024278494, u'suit', 0.023158804, u'parallel_bars', 0.02068519]
+[u'church', 0.28482085, u'thatch', 0.095187105, u'boathouse', 0.068262115, u'bell_cote', 0.066056691, u'patio', 0.043993905]
+[u'altar', 0.65196401, u'vestment', 0.049589038, u'totem_pole', 0.028360929, u'suit', 0.01850787, u'throne', 0.01622968]
+[u'butcher_shop', 0.60449505, u'barbershop', 0.037148107, u'street_sign', 0.032678925, u'parking_meter', 0.028438294, u'grocery_store', 0.027896333]
+[u'kimono', 0.22172798, u'abaya', 0.076657951, u'wardrobe', 0.06100291, u'suit', 0.038534809, u'groom', 0.036591697]
+[u'wardrobe', 0.13104203, u'iron', 0.046793729, u'pajama', 0.042362351, u'gown', 0.03832978, u'vestment', 0.037078381]
+[u'shoe_shop', 0.28446302, u'wardrobe', 0.17039508, u'cleaver', 0.07251396, u'ski', 0.043506615, u'brassiere', 0.036089618]

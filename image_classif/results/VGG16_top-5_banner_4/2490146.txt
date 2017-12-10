@@ -1,0 +1,3 @@
+[u'wallaby', 0.76176465, u'hare', 0.083500512, u'ibex', 0.036825977, u'impala', 0.029428879, u'wild_boar', 0.02569093]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'envelope', 0.29281721, u'web_site', 0.20201641, u'candle', 0.043180492, u'lighter', 0.02849176, u'book_jacket', 0.026976356]

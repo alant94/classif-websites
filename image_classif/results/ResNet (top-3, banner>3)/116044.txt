@@ -1,0 +1,6 @@
+[u'mountain_bike', 0.24589819, u'harvester', 0.23121509, u'thresher', 0.13525426]
+[u'four-poster', 0.11789419, u'prison', 0.063369229, u'boathouse', 0.058827281]
+[u'mountain_tent', 0.29338494, u'umbrella', 0.14220071, u'envelope', 0.099783219]
+[u'web_site', 0.17621616, u'screen', 0.12081362, u'slot', 0.070551455]
+[u'altar', 0.27302998, u'bearskin', 0.17040785, u'church', 0.092044383]
+[u'crib', 0.15995002, u'envelope', 0.14456676, u'toilet_seat', 0.10163125]

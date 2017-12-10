@@ -1,0 +1,4 @@
+[u'bell_cote', 0.17975768, u'warplane', 0.074021913, u'parachute', 0.064347282, u'crane', 0.048193678, u'stupa', 0.045985654]
+[u'bell_cote', 0.12356047, u'traffic_light', 0.12177508, u'crane', 0.087792136, u'flagpole', 0.049970049, u'street_sign', 0.039637033]
+[u'screw', 0.16787963, u'cleaver', 0.15691844, u'screwdriver', 0.11077599, u'conch', 0.052893676, u'nail', 0.034548372]
+[u'traffic_light', 0.49287418, u'bell_cote', 0.053267758, u'crane', 0.048205562, u'street_sign', 0.035157092, u'analog_clock', 0.024795197]

@@ -1,0 +1,3 @@
+[u'stage', 0.30817929, u'electric_guitar', 0.27011162, u'jellyfish', 0.14036453, u'torch', 0.11686239, u'volcano', 0.027265351]
+[u'American_Staffordshire_terrier', 0.30308643, u'Staffordshire_bullterrier', 0.17735834, u'Great_Dane', 0.12643297, u'bull_mastiff', 0.11484395, u'Mexican_hairless', 0.046167124]
+[u'dumbbell', 0.13468905, u'ocarina', 0.092041723, u'pretzel', 0.056694362, u'ice_lolly', 0.023738097, u'violin', 0.022554999]

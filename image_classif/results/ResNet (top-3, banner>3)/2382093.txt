@@ -1,0 +1,4 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.48805901, u'pill_bottle', 0.21371555, u'envelope', 0.022858432]
+[u'panpipe', 0.93805903, u'envelope', 0.017741015, u'stupa', 0.0093751522]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

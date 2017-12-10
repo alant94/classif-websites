@@ -1,0 +1,5 @@
+[u'tractor', 0.15660343, u'mountain_bike', 0.076425657, u'plow', 0.071985759, u'military_uniform', 0.071598105, u'hartebeest', 0.071086295]
+[u'restaurant', 0.30433127, u'china_cabinet', 0.18461476, u'dining_table', 0.18346655, u'barber_chair', 0.074235857, u'barbershop', 0.044972979]
+[u'bison', 0.60319763, u'water_buffalo', 0.27630785, u'ox', 0.10112526, u'oxcart', 0.007107723, u'tusker', 0.003882373]
+[u'wild_boar', 0.16610199, u'baboon', 0.15351905, u'chimpanzee', 0.1183546, u'American_black_bear', 0.10538951, u'warthog', 0.05557102]
+[u'bighorn', 0.26095405, u'oxcart', 0.075036742, u'prairie_chicken', 0.050322685, u'ram', 0.047494538, u'plow', 0.042380802]

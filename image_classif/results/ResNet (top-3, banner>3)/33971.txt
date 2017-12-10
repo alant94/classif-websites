@@ -1,0 +1,4 @@
+[u'bucket', 0.40425622, u'buckle', 0.27555236, u'mixing_bowl', 0.054591924]
+[u'picket_fence', 0.22671649, u'paintbrush', 0.16317976, u'worm_fence', 0.1388111]
+[u'web_site', 0.36877236, u'shoji', 0.035538178, u'matchstick', 0.025621356]
+[u'buckle', 0.68890619, u'drum', 0.23509035, u'bathtub', 0.013397234]

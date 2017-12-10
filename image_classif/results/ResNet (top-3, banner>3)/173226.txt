@@ -1,0 +1,4 @@
+[u'vestment', 0.082347408, u'chain_mail', 0.054942477, u'wig', 0.049169939]
+[u'comic_book', 0.21147217, u'brassiere', 0.15572874, u'book_jacket', 0.086412393]
+[u'monitor', 0.086465277, u'comic_book', 0.066112891, u'book_jacket', 0.047572803]
+[u'television', 0.36936808, u'book_jacket', 0.041488986, u'barbershop', 0.035969611]

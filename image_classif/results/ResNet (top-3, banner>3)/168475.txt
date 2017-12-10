@@ -1,0 +1,2 @@
+[u'abaya', 0.9476822, u'academic_gown', 0.0075427294, u'theater_curtain', 0.0063564326]
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613]

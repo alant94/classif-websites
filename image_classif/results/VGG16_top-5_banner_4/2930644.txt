@@ -1,0 +1,4 @@
+[u'book_jacket', 0.46527997, u'scoreboard', 0.062150136, u'street_sign', 0.046491288, u'web_site', 0.026156429, u'comic_book', 0.016016481]
+[u'iPod', 0.32889301, u'hard_disc', 0.17081468, u'hand-held_computer', 0.15688026, u'menu', 0.13851462, u'cellular_telephone', 0.042721961]
+[u'collie', 0.54688722, u'Airedale', 0.078182772, u'golden_retriever', 0.057502579, u'timber_wolf', 0.041097865, u'Irish_terrier', 0.035411891]
+[u'tray', 0.37482041, u'buckle', 0.085816391, u'folding_chair', 0.05247039, u'street_sign', 0.047144968, u'digital_watch', 0.02978497]

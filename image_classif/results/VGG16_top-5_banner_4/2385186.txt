@@ -1,0 +1,2 @@
+[u'cliff', 0.060058583, u'swing', 0.057368834, u'valley', 0.046284832, u'picket_fence', 0.044616152, u'bearskin', 0.036538236]
+[u'picket_fence', 0.40546054, u'pill_bottle', 0.1705893, u'syringe', 0.1263437, u'screwdriver', 0.029961705, u'lab_coat', 0.026963618]

@@ -1,0 +1,2 @@
+[u'swab', 0.051733043, u'comic_book', 0.045749962, u'coral_fungus', 0.040159557, u'packet', 0.037208594, u'paintbrush', 0.033886019]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

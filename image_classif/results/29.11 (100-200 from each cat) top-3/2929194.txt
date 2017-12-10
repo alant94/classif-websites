@@ -1,0 +1,8 @@
+[u'rule', 0.28092417, u'prayer_rug', 0.26723987, u'screwdriver', 0.047645949]
+[u'prayer_rug', 0.46685803, u'chime', 0.20123117, u'vestment', 0.053776167]
+[u'chime', 0.57010955, u'vestment', 0.17674397, u'paintbrush', 0.044778015]
+[u'chime', 0.75592506, u'croquet_ball', 0.058477987, u'matchstick', 0.042659551]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'paintbrush', 0.66687065, u'rubber_eraser', 0.080453798, u'prayer_rug', 0.055483032]
+[u'paintbrush', 0.24909876, u'prayer_rug', 0.15494783, u'rubber_eraser', 0.11542813]
+[u'paintbrush', 0.67923528, u'prayer_rug', 0.096960962, u'shower_curtain', 0.026215725]

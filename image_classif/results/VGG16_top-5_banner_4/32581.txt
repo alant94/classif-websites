@@ -1,0 +1,1 @@
+[u'hoopskirt', 0.23294191, u'perfume', 0.13506532, u'water_bottle', 0.095082991, u'miniskirt', 0.065600723, u'overskirt', 0.063135564]

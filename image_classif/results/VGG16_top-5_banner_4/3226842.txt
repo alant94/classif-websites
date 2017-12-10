@@ -1,0 +1,2 @@
+[u'church', 0.12953188, u'alp', 0.11561622, u'solar_dish', 0.059983388, u'picket_fence', 0.051584348, u'patio', 0.049561676]
+[u'bathing_cap', 0.11070289, u'nail', 0.093701147, u'jersey', 0.076640561, u'modem', 0.038640156, u'sweatshirt', 0.028542494]

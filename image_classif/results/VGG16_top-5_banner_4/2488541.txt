@@ -1,0 +1,1 @@
+[u'brown_bear', 0.97895038, u'Chesapeake_Bay_retriever', 0.0084008817, u'bison', 0.0047842907, u'bighorn', 0.0020201916, u'ice_bear', 0.00153343]

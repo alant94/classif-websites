@@ -1,0 +1,2 @@
+[u'jersey', 0.23955849, u'mask', 0.16844472, u'maillot', 0.11583728, u'swimming_trunks', 0.075948745, u'Band_Aid', 0.073448166]
+[u'sea_lion', 0.18989883, u'dugong', 0.17808577, u'cougar', 0.15705377, u'hog', 0.064376168, u'sleeping_bag', 0.041896284]

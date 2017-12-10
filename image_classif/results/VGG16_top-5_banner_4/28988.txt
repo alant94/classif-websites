@@ -1,0 +1,1 @@
+[u'cowboy_hat', 0.042264391, u'bikini', 0.032522913, u'window_screen', 0.029874913, u'cellular_telephone', 0.02259602, u'hair_spray', 0.021273568]

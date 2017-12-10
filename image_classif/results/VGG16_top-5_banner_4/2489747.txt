@@ -1,0 +1,1 @@
+[u'packet', 0.24463767, u'book_jacket', 0.16241969, u'mortarboard', 0.062701613, u'English_foxhound', 0.057772849, u'web_site', 0.050972454]

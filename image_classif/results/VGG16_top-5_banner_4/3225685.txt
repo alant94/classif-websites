@@ -1,0 +1,4 @@
+[u'altar', 0.64807874, u'confectionery', 0.14767094, u'vestment', 0.072408706, u'groom', 0.055426579, u'candle', 0.010992139]
+[u'vestment', 0.78652668, u'throne', 0.13760644, u'altar', 0.026587991, u'mask', 0.018568845, u'sax', 0.0040545729]
+[u'vestment', 0.99878651, u'altar', 0.00080574886, u'academic_gown', 0.00022546711, u'throne', 0.0001247575, u'mortarboard', 2.7800123e-05]
+[u'vestment', 0.47928509, u'throne', 0.12187893, u'altar', 0.057025146, u'abaya', 0.047080152, u'chest', 0.016181881]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.39427096, u'lighter', 0.063125841, u'tub', 0.057465713, u'bathtub', 0.052577581, u'syringe', 0.04763189]
+[u'swimming_trunks', 0.089472808, u'groom', 0.086653098, u'bathtub', 0.063705526, u'Great_Dane', 0.038784165, u'jean', 0.038140144]

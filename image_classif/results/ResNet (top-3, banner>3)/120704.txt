@@ -1,0 +1,2 @@
+[u'espresso_maker', 0.62644112, u'sewing_machine', 0.035558131, u'hook', 0.027452676]
+[u'shovel', 0.32377252, u'corkscrew', 0.11694268, u'hook', 0.10483204]

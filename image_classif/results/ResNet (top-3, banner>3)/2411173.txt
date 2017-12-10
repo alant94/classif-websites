@@ -1,0 +1,8 @@
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'whiskey_jug', 0.38926104, u'perfume', 0.26075917, u'pill_bottle', 0.16412878]
+[u'whiskey_jug', 0.46656546, u'pill_bottle', 0.28190288, u'perfume', 0.1309171]
+[u'pill_bottle', 0.5948385, u'lotion', 0.13109556, u'whiskey_jug', 0.12996513]
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524]
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524]
+[u'packet', 0.19859201, u'vending_machine', 0.13254438, u'Band_Aid', 0.1127694]

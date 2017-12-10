@@ -1,0 +1,2 @@
+[u'iron', 0.51813602, u'space_shuttle', 0.05936769, u'bow', 0.059187863, u'fireboat', 0.049131956, u'chime', 0.035595007]
+[u"jack-o'-lantern", 0.56892443, u'coral_fungus', 0.18681562, u'candle', 0.059284016, u'vase', 0.033181254, u'radiator', 0.030887241]

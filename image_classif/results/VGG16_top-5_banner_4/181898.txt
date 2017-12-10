@@ -1,0 +1,8 @@
+[u'desktop_computer', 0.11766858, u'radio', 0.11562873, u'notebook', 0.090470783, u'Polaroid_camera', 0.073013254, u'screen', 0.06960956]
+[u'airliner', 0.70377761, u'warplane', 0.16810057, u'wing', 0.077435665, u'airship', 0.014694433, u'space_shuttle', 0.011727282]
+[u'fur_coat', 0.26135883, u'tub', 0.14284426, u'gown', 0.079676047, u'hoopskirt', 0.073384419, u'lab_coat', 0.052152909]
+[u'desktop_computer', 0.11070165, u'binder', 0.083151557, u'moving_van', 0.042089555, u'forklift', 0.040479332, u'television', 0.025441669]
+[u'lotion', 0.15442911, u'web_site', 0.11428893, u'perfume', 0.1066343, u'face_powder', 0.077892587, u'sunscreen', 0.055264834]
+[u'mobile_home', 0.14496289, u'patio', 0.091868326, u'recreational_vehicle', 0.053571504, u'solar_dish', 0.039105862, u'restaurant', 0.036407541]
+[u'toaster', 0.99967813, u'waffle_iron', 0.00024902864, u'rotisserie', 3.8990569e-05, u'espresso_maker', 2.5184025e-05, u'stove', 4.5271304e-06]
+[u'lab_coat', 0.15040401, u'stethoscope', 0.11774841, u'notebook', 0.10533616, u'pajama', 0.036275946, u'gown', 0.030613758]

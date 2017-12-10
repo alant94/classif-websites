@@ -1,0 +1,5 @@
+[u'brass', 0.99979252, u'menu', 0.00020283143, u'book_jacket', 2.2973927e-06, u'sundial', 4.1107535e-07, u'packet', 3.4576487e-07]
+[u'book_jacket', 0.20629869, u'web_site', 0.20585513, u'analog_clock', 0.093952097, u'wall_clock', 0.078896262, u'bow', 0.072361454]
+[u'street_sign', 0.55893779, u'digital_clock', 0.047786489, u'traffic_light', 0.035469338, u'laptop', 0.01696982, u'hook', 0.013281217]
+[u'barn', 0.6259883, u'picket_fence', 0.057955466, u'worm_fence', 0.046094377, u'swing', 0.045961682, u'pole', 0.033619519]
+[u'web_site', 0.076933831, u'envelope', 0.021604449, u'hourglass', 0.016757265, u'analog_clock', 0.0151461, u'syringe', 0.014127334]

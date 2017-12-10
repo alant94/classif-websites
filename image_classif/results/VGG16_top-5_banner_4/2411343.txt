@@ -1,0 +1,1 @@
+[u'Scottish_deerhound', 0.071946099, u'book_jacket', 0.040606909, u'dogsled', 0.032424644, u'Bouvier_des_Flandres', 0.030343449, u'thresher', 0.026469383]

@@ -1,0 +1,1 @@
+[u'maze', 0.080546334, u'projector', 0.056233916, u'tray', 0.050290167, u'web_site', 0.038912535, u'chambered_nautilus', 0.035417952]

@@ -1,0 +1,6 @@
+[u'screw', 0.458978, u'prayer_rug', 0.13976815, u'analog_clock', 0.068417363]
+[u'shield', 0.24764474, u'lighter', 0.19075845, u'book_jacket', 0.084326573]
+[u'nematode', 0.25932822, u'web_site', 0.10322262, u'screw', 0.059915576]
+[u'binder', 0.21561587, u'web_site', 0.17520455, u'envelope', 0.067305975]
+[u'web_site', 0.1522955, u'nematode', 0.094221801, u'matchstick', 0.026497303]
+[u'shield', 0.06389761, u'analog_clock', 0.051896963, u'bell_cote', 0.046536468]

@@ -1,0 +1,6 @@
+[u'vulture', 0.18306516, u'projectile', 0.14575379, u'missile', 0.11531305]
+[u'paintbrush', 0.15682687, u'barrow', 0.10701474, u'fountain', 0.10396641]
+[u'space_shuttle', 0.22426574, u'airship', 0.17650695, u'seashore', 0.12792067]
+[u'crossword_puzzle', 0.44075084, u'digital_clock', 0.23150086, u'digital_watch', 0.035819497]
+[u'envelope', 0.31632781, u'carton', 0.054318238, u'flagpole', 0.045775671]
+[u'digital_clock', 0.19176118, u'web_site', 0.18830746, u'crossword_puzzle', 0.067292847]

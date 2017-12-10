@@ -1,0 +1,8 @@
+[u'conch', 0.10314717, u'barn_spider', 0.072463728, u'handkerchief', 0.071830824]
+[u'kite', 0.47435448, u'goose', 0.25487041, u'black_stork', 0.15319762]
+[u'web_site', 0.10301141, u'sweatshirt', 0.099473797, u'jersey', 0.081697859]
+[u'lakeside', 0.53969067, u'pier', 0.048405826, u'seashore', 0.037238244]
+[u'knee_pad', 0.038270202, u'soccer_ball', 0.037115965, u'sarong', 0.027847741]
+[u'lumbermill', 0.095242679, u'gas_pump', 0.078637473, u'freight_car', 0.067901023]
+[u'dining_table', 0.42963988, u'shoji', 0.1150293, u'patio', 0.057046771]
+[u'studio_couch', 0.38633248, u'dining_table', 0.25583062, u'quilt', 0.12336405]

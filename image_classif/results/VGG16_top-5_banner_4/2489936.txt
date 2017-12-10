@@ -1,0 +1,1 @@
+[u'lakeside', 0.17907904, u'water_tower', 0.050543241, u'geyser', 0.036768489, u'obelisk', 0.030976892, u'beacon', 0.023294067]

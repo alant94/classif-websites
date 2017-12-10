@@ -1,0 +1,4 @@
+[u'bikini', 0.34549263, u'swimming_trunks', 0.15651767, u'maillot', 0.095941573, u'volleyball', 0.074675702, u'maillot', 0.057949554]
+[u'bikini', 0.30180904, u'snorkel', 0.23722565, u'swimming_trunks', 0.16464548, u'sunscreen', 0.039801329, u'maillot', 0.032601066]
+[u'wreck', 0.51262397, u'cliff', 0.0395712, u'llama', 0.023422701, u'stupa', 0.018251302, u'dogsled', 0.015713459]
+[u'swimming_trunks', 0.52208322, u'bikini', 0.15452279, u'maillot', 0.070616536, u'maillot', 0.066147946, u'sarong', 0.061460346]

@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.22901113, u'web_site', 0.096025817, u'jean', 0.054509338]
+[u'pick', 0.20114841, u'oil_filter', 0.091186486, u'stopwatch', 0.0702179]
+[u'oscilloscope', 0.99939466, u'traffic_light', 0.00046699666, u'cinema', 2.6159301e-05]
+[u'crossword_puzzle', 0.20739661, u'espresso_maker', 0.072197653, u'typewriter_keyboard', 0.046134923]
+[u'puck', 0.57640076, u'web_site', 0.049532697, u'jersey', 0.029336683]
+[u'puck', 0.22738369, u'web_site', 0.040324558, u'stopwatch', 0.039430734]

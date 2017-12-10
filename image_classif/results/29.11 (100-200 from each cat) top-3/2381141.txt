@@ -1,0 +1,2 @@
+[u'digital_clock', 0.97328407, u'digital_watch', 0.02643751, u'oscilloscope', 0.00019476812]
+[u'oscilloscope', 0.99194676, u'nematode', 0.00089434168, u'jellyfish', 0.00038962188]

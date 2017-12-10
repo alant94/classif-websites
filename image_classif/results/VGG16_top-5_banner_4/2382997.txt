@@ -1,0 +1,3 @@
+[u'bee_eater', 0.068279043, u'acorn', 0.067782655, u'pot', 0.047324546, u'hummingbird', 0.043275859, u'coral_fungus', 0.036872778]
+[u'wall_clock', 0.22750112, u'scale', 0.17819257, u'analog_clock', 0.1095567, u'bolo_tie', 0.055815119, u'stopwatch', 0.044380348]
+[u'red_wine', 0.99200386, u'goblet', 0.0037383474, u'hourglass', 0.00099797093, u'wine_bottle', 0.00067356095, u'bubble', 0.00052678015]

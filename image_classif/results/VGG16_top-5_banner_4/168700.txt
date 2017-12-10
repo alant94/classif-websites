@@ -1,0 +1,2 @@
+[u'scoreboard', 0.24282761, u'street_sign', 0.18465212, u'barbershop', 0.065407135, u'freight_car', 0.063761175, u'cinema', 0.062873065]
+[u'web_site', 0.10308088, u'microphone', 0.097759567, u'envelope', 0.054736704, u'hook', 0.035162527, u'power_drill', 0.033551216]

@@ -1,0 +1,2 @@
+[u'cash_machine', 0.25537384, u'vending_machine', 0.085646778, u'lighter', 0.060733531, u'combination_lock', 0.049637049, u'gas_pump', 0.047873437]
+[u'sliding_door', 0.14039735, u'monitor', 0.11758308, u'window_shade', 0.060458396, u'screen', 0.052552145, u'moving_van', 0.034529857]

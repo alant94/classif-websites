@@ -1,0 +1,1 @@
+[u'book_jacket', 0.17369086, u'hair_spray', 0.13676059, u'barbershop', 0.054086458]

@@ -1,0 +1,7 @@
+[u'slot', 0.34399176, u'tray', 0.29070041, u'lighter', 0.06536036]
+[u'maze', 0.16660097, u'handkerchief', 0.066649415, u'matchstick', 0.05753706]
+[u'jigsaw_puzzle', 0.27320778, u'tray', 0.1252, u'loupe', 0.05128387]
+[u'book_jacket', 0.53868836, u'picket_fence', 0.058692403, u'comic_book', 0.055115908]
+[u'book_jacket', 0.28441083, u'comic_book', 0.18866603, u'tray', 0.059721276]
+[u'castle', 0.088050075, u'joystick', 0.082071729, u'spotlight', 0.065489508]
+[u'web_site', 0.7487545, u'comic_book', 0.03595072, u'slot', 0.024683086]

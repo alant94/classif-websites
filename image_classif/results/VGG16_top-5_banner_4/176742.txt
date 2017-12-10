@@ -1,0 +1,4 @@
+[u'analog_clock', 0.20246033, u'street_sign', 0.14988203, u'wall_clock', 0.055943914, u'cash_machine', 0.052090615, u'web_site', 0.050699435]
+[u'analog_clock', 0.2007917, u'street_sign', 0.15964921, u'web_site', 0.10999194, u'envelope', 0.043602154, u'book_jacket', 0.042943645]
+[u'toyshop', 0.29114708, u'web_site', 0.21628828, u'comic_book', 0.11504261, u'shoe_shop', 0.072543807, u'bow_tie', 0.047028836]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]

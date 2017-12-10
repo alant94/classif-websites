@@ -1,0 +1,6 @@
+[u'monitor', 0.2442982, u'screen', 0.23213331, u'laptop', 0.217251]
+[u'projectile', 0.40637207, u'warplane', 0.30586761, u'missile', 0.26411554]
+[u'paddlewheel', 0.1775234, u'bannister', 0.17167771, u'bell_cote', 0.1274142]
+[u'projectile', 0.25748599, u'missile', 0.16059804, u'web_site', 0.052802242]
+[u'bell_cote', 0.13890956, u'altar', 0.086921409, u'vault', 0.059581332]
+[u'laptop', 0.10327597, u'cinema', 0.058498912, u'medicine_chest', 0.045976419]

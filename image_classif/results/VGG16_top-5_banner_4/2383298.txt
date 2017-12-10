@@ -1,0 +1,7 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'web_site', 0.8923974, u'envelope', 0.08040344, u'hair_slide', 0.0019177565, u'perfume', 0.001511971, u'rule', 0.0014521837]
+[u'wine_bottle', 0.75135118, u'beer_bottle', 0.12128575, u'red_wine', 0.090790674, u'pop_bottle', 0.015969226, u'hamper', 0.0097551849]
+[u'syringe', 0.18832855, u'bassoon', 0.15552917, u'fountain_pen', 0.11406223, u'binder', 0.092940174, u'ballpoint', 0.068281688]
+[u'envelope', 0.27371082, u'web_site', 0.22769377, u'hook', 0.1210884, u'street_sign', 0.042048052, u'traffic_light', 0.015739866]
+[u'vase', 0.21188691, u'picket_fence', 0.12446618, u'handkerchief', 0.063437924, u'web_site', 0.058406707, u'wardrobe', 0.054767814]
+[u'wine_bottle', 0.53084701, u'red_wine', 0.35944504, u'corkscrew', 0.084338382, u'beaker', 0.0049106046, u'perfume', 0.003935867]

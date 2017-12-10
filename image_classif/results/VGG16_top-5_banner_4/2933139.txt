@@ -1,0 +1,5 @@
+[u'jersey', 0.48269841, u'book_jacket', 0.21241292, u'sweatshirt', 0.027995488, u'broom', 0.018560257, u'carton', 0.01746613]
+[u'jersey', 0.34282887, u'book_jacket', 0.15715501, u'carton', 0.063749045, u'sweatshirt', 0.044428542, u'safe', 0.025690082]
+[u'book_jacket', 0.50250983, u'scoreboard', 0.11039666, u'jersey', 0.072389193, u'racket', 0.037154447, u'carton', 0.029728105]
+[u'book_jacket', 0.34829846, u'ashcan', 0.13226615, u'mailbox', 0.086223893, u'carton', 0.027626585, u'barrel', 0.02248518]
+[u'book_jacket', 0.5741064, u'scoreboard', 0.032209057, u'jersey', 0.028441379, u'carton', 0.028339874, u'racket', 0.018617772]

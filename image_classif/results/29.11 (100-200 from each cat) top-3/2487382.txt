@@ -1,0 +1,3 @@
+[u'web_site', 0.30831635, u'hornbill', 0.087219432, u'pinwheel', 0.052729733]
+[u'lakeside', 0.90288228, u'dock', 0.066287212, u'boathouse', 0.010037379]
+[u'park_bench', 0.11296699, u'picket_fence', 0.050605774, u'streetcar', 0.041219257]

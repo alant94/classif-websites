@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'digital_clock', 0.56252849, u'digital_watch', 0.16748023, u'analog_clock', 0.025987621]

@@ -1,0 +1,4 @@
+[u'coffee_mug', 0.76209831, u'oil_filter', 0.061534446, u'cup', 0.053017832, u'packet', 0.017979689, u'puck', 0.011475964]
+[u'oil_filter', 0.9981541, u'can_opener', 0.00079337781, u'pencil_sharpener', 0.00043086565, u'lighter', 9.198855e-05, u'puck', 6.4049796e-05]
+[u'coffee_mug', 0.62987226, u'candle', 0.1059011, u'cup', 0.036253281, u'can_opener', 0.029482285, u'whiskey_jug', 0.028123476]
+[u'milk_can', 0.6495021, u'water_bottle', 0.18195726, u'can_opener', 0.032838833, u'water_jug', 0.026122091, u'cocktail_shaker', 0.015134103]

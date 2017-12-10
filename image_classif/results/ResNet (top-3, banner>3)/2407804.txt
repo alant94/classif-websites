@@ -1,0 +1,4 @@
+[u'water_jug', 0.23709822, u'vase', 0.12715752, u'lotion', 0.064830914]
+[u'thimble', 0.44841409, u'altar', 0.11886846, u'lotion', 0.092082024]
+[u'lotion', 0.54105592, u'soap_dispenser', 0.10213611, u'hair_spray', 0.078185029]
+[u'wine_bottle', 0.25453693, u'beer_bottle', 0.10554443, u'whiskey_jug', 0.080186114]

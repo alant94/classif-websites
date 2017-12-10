@@ -1,0 +1,8 @@
+[u'fountain', 0.73601502, u'umbrella', 0.016318668, u'broom', 0.014149025]
+[u'plow', 0.36132988, u'barrow', 0.35771745, u'apiary', 0.045342859]
+[u'candle', 0.20755985, u'web_site', 0.097267479, u'honeycomb', 0.067141667]
+[u'plow', 0.14490069, u'oxcart', 0.12858589, u'coral_fungus', 0.12111699]
+[u'butcher_shop', 0.24658379, u'water_buffalo', 0.071083717, u'fountain', 0.064497218]
+[u'canoe', 0.38524672, u'sarong', 0.081787787, u'lakeside', 0.066752546]
+[u'barn', 0.34852493, u'boathouse', 0.32261303, u'greenhouse', 0.05811486]
+[u'butcher_shop', 0.96765268, u'hog', 0.012552786, u'vestment', 0.0048290687]

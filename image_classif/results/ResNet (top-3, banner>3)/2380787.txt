@@ -1,0 +1,6 @@
+[u'tub', 0.31576744, u'bathtub', 0.087129779, u'window_shade', 0.075521708]
+[u'monitor', 0.68278176, u'screen', 0.097932912, u'web_site', 0.052208617]
+[u'barrel', 0.99988914, u'rain_barrel', 8.717661e-05, u'plate_rack', 6.3773596e-06]
+[u'desktop_computer', 0.45852202, u'screen', 0.11484245, u'analog_clock', 0.075937144]
+[u'barrel', 0.99863321, u'freight_car', 0.00070741773, u'electric_locomotive', 0.00032578458]
+[u'barrel', 0.64982146, u'forklift', 0.066406995, u'drum', 0.049055561]

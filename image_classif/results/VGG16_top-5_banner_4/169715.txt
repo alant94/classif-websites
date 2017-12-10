@@ -1,0 +1,4 @@
+[u'cowboy_hat', 0.24606067, u'sombrero', 0.058075413, u'drumstick', 0.055684458, u'banjo', 0.039873827, u'torch', 0.022498405]
+[u'megalith', 0.6493817, u'stone_wall', 0.11430873, u'viaduct', 0.065817997, u'promontory', 0.028824976, u'cliff', 0.02193583]
+[u'promontory', 0.66727382, u'cliff', 0.19310905, u'seashore', 0.10553708, u'beacon', 0.009717539, u'lakeside', 0.0079850033]
+[u'web_site', 0.81802344, u'monitor', 0.077545978, u'television', 0.020537117, u'book_jacket', 0.016526103, u'home_theater', 0.014549255]

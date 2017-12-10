@@ -1,0 +1,3 @@
+[u'book_jacket', 0.11232944, u'hair_spray', 0.042154886, u'web_site', 0.035287321, u'comic_book', 0.027511306, u'menu', 0.023087155]
+[u'fountain', 0.79317081, u'picket_fence', 0.038479161, u'umbrella', 0.032890346, u'fur_coat', 0.01167902, u'cloak', 0.008221277]
+[u'street_sign', 0.082178563, u'envelope', 0.046857815, u'web_site', 0.036007483, u'hook', 0.028159354, u'book_jacket', 0.02671271]

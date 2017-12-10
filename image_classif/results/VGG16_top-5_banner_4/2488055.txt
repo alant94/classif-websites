@@ -1,0 +1,2 @@
+[u'binder', 0.68282157, u'envelope', 0.18174925, u'digital_clock', 0.024153909, u'analog_clock', 0.021969495, u'wall_clock', 0.020856313]
+[u'binder', 0.12132134, u'lighter', 0.10403295, u'switch', 0.10354122, u'buckle', 0.070672475, u'perfume', 0.053676303]

@@ -1,0 +1,3 @@
+[u'switch', 0.15156005, u'panpipe', 0.14180943, u'coil', 0.070826292, u'necklace', 0.045879308, u'traffic_light', 0.045650087]
+[u'nail', 0.088333242, u'rule', 0.077066675, u'traffic_light', 0.047525473, u'hook', 0.046473116, u'Band_Aid', 0.038094871]
+[u'envelope', 0.26451412, u'web_site', 0.23832087, u'Band_Aid', 0.05180943, u'whistle', 0.026019573, u'hook', 0.02283046]

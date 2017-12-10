@@ -1,0 +1,8 @@
+[u'tripod', 0.46561104, u'crane', 0.14952055, u'solar_dish', 0.044145033, u'microphone', 0.032963578, u'radio_telescope', 0.030283082]
+[u'espresso_maker', 0.13052741, u'safe', 0.1083773, u'refrigerator', 0.073938973, u'medicine_chest', 0.067987926, u'rotisserie', 0.06149403]
+[u'espresso_maker', 0.56178844, u'hourglass', 0.15162829, u'spotlight', 0.10552582, u'scale', 0.075327128, u'water_jug', 0.025319144]
+[u'drilling_platform', 0.20467022, u'crane', 0.12757941, u'aircraft_carrier', 0.10360734, u'lakeside', 0.073104613, u'boathouse', 0.064779758]
+[u'fire_screen', 0.53179908, u'china_cabinet', 0.087716438, u'vault', 0.076299243, u'altar', 0.033560961, u'church', 0.020394107]
+[u'web_site', 0.78522295, u'cash_machine', 0.032531537, u'vending_machine', 0.031462129, u'toilet_seat', 0.021206053, u'scale', 0.016486745]
+[u'safe', 0.27744213, u'power_drill', 0.171211, u'barbell', 0.087513685, u'refrigerator', 0.054173734, u'dumbbell', 0.04103018]
+[u'tobacco_shop', 0.067334458, u'confectionery', 0.056340262, u'bookshop', 0.024347512, u'grocery_store', 0.02412224, u'window_screen', 0.017694924]

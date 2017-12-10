@@ -1,0 +1,2 @@
+[u'sunglasses', 0.27573851, u'abaya', 0.17555678, u'megalith', 0.062042851]
+[u'maraca', 0.092317663, u'web_site', 0.086924754, u'tennis_ball', 0.038071126]

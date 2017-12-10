@@ -1,0 +1,1 @@
+[u'web_site', 0.11786968, u'book_jacket', 0.050856225, u'sunscreen', 0.050109878, u'face_powder', 0.029680131, u'Brabancon_griffon', 0.016002206]

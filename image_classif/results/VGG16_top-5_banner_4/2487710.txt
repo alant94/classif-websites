@@ -1,0 +1,5 @@
+[u'dishwasher', 0.053848222, u'monitor', 0.051393751, u'binder', 0.04560487, u'television', 0.045457821, u'lighter', 0.031703092]
+[u'fountain', 0.18531618, u'picket_fence', 0.17178282, u'lakeside', 0.05776158, u'castle', 0.057440747, u'worm_fence', 0.052611381]
+[u'poncho', 0.53881508, u'stole', 0.082143739, u'stupa', 0.062114455, u'birdhouse', 0.0337268, u'picket_fence', 0.031374644]
+[u'fountain', 0.86976385, u'lakeside', 0.061605331, u'castle', 0.023066336, u'palace', 0.012403759, u'boathouse', 0.0084389681]
+[u'crane', 0.14008051, u'ear', 0.13940351, u'lakeside', 0.046517026, u'corn', 0.043250047, u'flamingo', 0.024977732]

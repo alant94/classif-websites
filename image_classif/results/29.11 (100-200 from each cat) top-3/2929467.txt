@@ -1,0 +1,1 @@
+[u'television', 0.3694534, u'screen', 0.15255077, u'cash_machine', 0.089261785]

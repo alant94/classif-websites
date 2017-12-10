@@ -1,0 +1,4 @@
+[u'puck', 0.99988675, u'face_powder', 1.9569241e-05, u'jersey', 1.4104259e-05, u'tray', 1.0220536e-05, u'buckle', 9.5853029e-06]
+[u'oxcart', 0.2529223, u'gazelle', 0.184926, u'ox', 0.16999389, u'bighorn', 0.13136262, u'ram', 0.10412251]
+[u'sorrel', 0.11211544, u'llama', 0.091097668, u'Arabian_camel', 0.088994011, u'maze', 0.074843124, u'bloodhound', 0.06470564]
+[u'picket_fence', 0.10329357, u'marimba', 0.055926606, u'greenhouse', 0.035020161, u'Shetland_sheepdog', 0.033541199, u'Samoyed', 0.032708988]

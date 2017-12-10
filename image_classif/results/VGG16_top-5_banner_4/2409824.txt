@@ -1,0 +1,3 @@
+[u'jersey', 0.085953608, u'broccoli', 0.055824153, u'hatchet', 0.033022098, u'jigsaw_puzzle', 0.023604715, u'wall_clock', 0.023123136]
+[u'hook', 0.28342482, u'safety_pin', 0.15787241, u'nipple', 0.035069425, u'can_opener', 0.03366546, u'hair_slide', 0.025687845]
+[u'maillot', 0.17163302, u'sarong', 0.14279568, u'bikini', 0.099884018, u'maillot', 0.038577106, u'whistle', 0.023780983]

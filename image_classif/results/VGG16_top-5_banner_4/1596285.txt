@@ -1,0 +1,5 @@
+[u'scorpion', 0.15426883, u'sandal', 0.14919487, u'Gila_monster', 0.075101994, u'bathing_cap', 0.054077871, u'sea_cucumber', 0.034514464]
+[u'tub', 0.41352758, u'bathtub', 0.31372124, u'hoopskirt', 0.13483644, u'gown', 0.031010514, u'mosquito_net', 0.029428454]
+[u'harp', 0.18142468, u'pretzel', 0.10224339, u'panpipe', 0.093888968, u'banana', 0.053145278, u'wig', 0.026631726]
+[u'web_site', 0.77736974, u'comic_book', 0.052582186, u'television', 0.018746441, u'Band_Aid', 0.015291202, u'screen', 0.014122063]
+[u'neck_brace', 0.30808845, u'brassiere', 0.099083379, u'bikini', 0.078918979, u'diaper', 0.05524138, u'panpipe', 0.028315794]

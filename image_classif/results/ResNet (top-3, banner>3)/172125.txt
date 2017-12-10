@@ -1,0 +1,4 @@
+[u'digital_clock', 0.78000337, u'web_site', 0.027418347, u'lighter', 0.018904833]
+[u'crossword_puzzle', 0.29361573, u'scoreboard', 0.14867833, u'digital_clock', 0.14630464]
+[u'screen', 0.27898303, u'digital_clock', 0.17451321, u'monitor', 0.10321084]
+[u'digital_clock', 0.62258846, u'web_site', 0.074545532, u'lighter', 0.027095512]

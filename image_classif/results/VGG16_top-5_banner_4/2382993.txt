@@ -1,0 +1,6 @@
+[u'web_site', 0.10181271, u'envelope', 0.033522885, u'nematode', 0.027069701, u'matchstick', 0.011319743, u'nail', 0.010559954]
+[u'perfume', 0.11001732, u'red_wine', 0.080076024, u'wine_bottle', 0.064391211, u'paintbrush', 0.043949638, u'syringe', 0.041559421]
+[u'lakeside', 0.13855888, u'mountain_tent', 0.066748537, u'dogsled', 0.060036201, u'alp', 0.045317877, u'briard', 0.020468343]
+[u'mosque', 0.22515179, u'monastery', 0.1312037, u'bell_cote', 0.098298892, u'church', 0.093350641, u'academic_gown', 0.077474877]
+[u'wall_clock', 0.58456355, u'analog_clock', 0.10877019, u'bottlecap', 0.044207197, u'stopwatch', 0.038692839, u'digital_watch', 0.037755851]
+[u'web_site', 0.61127859, u'bow_tie', 0.10181915, u'groom', 0.02924828, u'military_uniform', 0.019666944, u'sunglasses', 0.01687181]

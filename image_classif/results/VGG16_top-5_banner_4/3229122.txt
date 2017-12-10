@@ -1,0 +1,2 @@
+[u'church', 0.51632261, u'bell_cote', 0.092928275, u'cinema', 0.063993774, u'monastery', 0.061713539, u'palace', 0.055527989]
+[u'altar', 0.19270512, u'church', 0.17991048, u'restaurant', 0.16737914, u'vestment', 0.10333055, u'vault', 0.048832104]

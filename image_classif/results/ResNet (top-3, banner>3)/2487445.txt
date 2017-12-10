@@ -1,0 +1,2 @@
+[u'rifle', 0.95619392, u'king_penguin', 0.033337705, u'military_uniform', 0.0011989418]
+[u'spotlight', 0.41600031, u'bubble', 0.3804056, u'spider_web', 0.092464656]

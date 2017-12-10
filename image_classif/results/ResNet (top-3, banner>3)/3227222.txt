@@ -1,0 +1,4 @@
+[u'web_site', 0.48362768, u'Band_Aid', 0.052344911, u'pick', 0.0233995]
+[u'scoreboard', 0.13571963, u'computer_keyboard', 0.10083701, u'slot', 0.06894248]
+[u'chime', 0.14735471, u'panpipe', 0.14479844, u'web_site', 0.12902465]
+[u'jigsaw_puzzle', 0.18278626, u'prayer_rug', 0.15169621, u'jean', 0.10469279]

@@ -1,0 +1,4 @@
+[u'lipstick', 0.10977596, u'hair_spray', 0.10289711, u'feather_boa', 0.035448194, u'sunglasses', 0.033567246, u'sunglass', 0.03265493]
+[u'web_site', 0.35549757, u'book_jacket', 0.14540794, u'comic_book', 0.11640447, u'menu', 0.11305659, u'scoreboard', 0.062928349]
+[u"carpenter's_kit", 0.57689601, u'screwdriver', 0.37613377, u'screw', 0.0068367119, u'rifle', 0.0060318005, u'bow', 0.0059446548]
+[u'gas_pump', 0.21754852, u'hair_spray', 0.14912003, u'pay-phone', 0.080169544, u'wig', 0.047458474, u'lab_coat', 0.026951943]

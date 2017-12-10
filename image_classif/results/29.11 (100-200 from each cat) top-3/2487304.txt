@@ -1,0 +1,3 @@
+[u'spider_web', 0.94515032, u'garden_spider', 0.031437628, u'bib', 0.012627514]
+[u'barn', 0.15646495, u'bookcase', 0.10579449, u'church', 0.10311812]
+[u'web_site', 0.10588641, u'jersey', 0.061544888, u'analog_clock', 0.05876559]

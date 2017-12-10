@@ -1,0 +1,1 @@
+[u'rocking_chair', 0.84042728, u'cradle', 0.032875828, u'shopping_cart', 0.019791853, u'shoe_shop', 0.018783871, u'abacus', 0.016381927]

@@ -1,0 +1,6 @@
+[u'cinema', 0.27524137, u'barbershop', 0.1758619, u'scoreboard', 0.095398642, u'book_jacket', 0.06564007, u'tobacco_shop', 0.059184164]
+[u'bighorn', 0.3893446, u'ram', 0.19410881, u'gazelle', 0.13944116, u'ibex', 0.085731328, u'ox', 0.0805986]
+[u'shower_curtain', 0.2784878, u'maze', 0.043496855, u'prayer_rug', 0.028172432, u'tray', 0.026180338, u'digital_clock', 0.023310704]
+[u'gazelle', 0.57551146, u'impala', 0.17223899, u'hartebeest', 0.16723263, u'fountain', 0.028903738, u'Arabian_camel', 0.020322826]
+[u'boathouse', 0.47900265, u'lumbermill', 0.21481816, u'patio', 0.10616801, u'lakeside', 0.045962088, u'yurt', 0.030495891]
+[u'gazelle', 0.41635463, u'impala', 0.37783629, u'ibex', 0.1334562, u'hartebeest', 0.024328807, u'wallaby', 0.01682869]

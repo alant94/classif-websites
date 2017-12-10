@@ -1,0 +1,1 @@
+[u'sarong', 0.17495178, u'mosquito_net', 0.14068741, u'kimono', 0.13390616, u'yurt', 0.050062466, u'oxcart', 0.048906989]

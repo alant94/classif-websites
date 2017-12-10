@@ -1,0 +1,8 @@
+[u'web_site', 0.083953239, u'nail', 0.07805112, u'ballpoint', 0.071742684]
+[u'screwdriver', 0.40895671, u'prayer_rug', 0.17412812, u'rule', 0.1651638]
+[u'organ', 0.12372129, u'bannister', 0.11171351, u'shoji', 0.10331219]
+[u'web_site', 0.073737875, u'Band_Aid', 0.042756848, u'book_jacket', 0.033195924]
+[u'web_site', 0.072352186, u'screw', 0.020388652, u'power_drill', 0.019008247]
+[u'whistle', 0.58133024, u'chime', 0.068990208, u'digital_watch', 0.058597542]
+[u'ballpoint', 0.38528398, u'bow', 0.11219613, u'whistle', 0.045812853]
+[u'traffic_light', 0.10553382, u'pill_bottle', 0.0781404, u'oil_filter', 0.064653464]

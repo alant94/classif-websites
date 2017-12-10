@@ -1,0 +1,1 @@
+[u'wooden_spoon', 0.29918739, u'mitten', 0.21991797, u'sock', 0.14165036, u'picket_fence', 0.051733982, u'iron', 0.017128468]

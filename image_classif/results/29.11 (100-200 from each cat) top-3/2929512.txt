@@ -1,0 +1,4 @@
+[u'web_site', 0.51558799, u'notebook', 0.044915926, u'lab_coat', 0.044467747]
+[u'jean', 0.30629998, u'lab_coat', 0.21364208, u'suit', 0.057135761]
+[u'digital_clock', 0.21894144, u'web_site', 0.16428997, u'street_sign', 0.12123782]
+[u'seashore', 0.11553187, u'loggerhead', 0.078232542, u'lakeside', 0.076769747]

@@ -1,0 +1,2 @@
+[u'breakwater', 0.51878422, u'pier', 0.049242094, u'worm_fence', 0.043130733, u'picket_fence', 0.028217416, u'lakeside', 0.027115019]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

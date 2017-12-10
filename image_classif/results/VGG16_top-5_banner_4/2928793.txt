@@ -1,0 +1,4 @@
+[u'fire_engine', 0.27233896, u'geyser', 0.23982815, u'steam_locomotive', 0.1506324, u'cannon', 0.064508259, u'missile', 0.040971268]
+[u'lumbermill', 0.90805209, u'chain_saw', 0.01712247, u'hammer', 0.013269255, u'apiary', 0.011674962, u'plow', 0.0088533694]
+[u'cannon', 0.43438721, u'geyser', 0.15882051, u'steam_locomotive', 0.15237159, u'lifeboat', 0.052519441, u'snowplow', 0.039863568]
+[u'carton', 0.25122288, u'sunscreen', 0.13459258, u'oil_filter', 0.1277391, u'matchstick', 0.057580039, u'packet', 0.056245662]

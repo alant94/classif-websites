@@ -1,0 +1,4 @@
+[u'vine_snake', 0.74226278, u'green_snake', 0.086715236, u'bubble', 0.071011409]
+[u'web_site', 0.27426821, u'vending_machine', 0.076849848, u"carpenter's_kit", 0.060256545]
+[u'web_site', 0.25241169, u'comic_book', 0.16390005, u'slot', 0.10443886]
+[u'web_site', 0.38518545, u'Polaroid_camera', 0.10242438, u'joystick', 0.052047562]

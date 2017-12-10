@@ -1,0 +1,3 @@
+[u'toilet_seat', 0.21221246, u'rubber_eraser', 0.086565174, u'switch', 0.075494021]
+[u'combination_lock', 0.13273402, u'oil_filter', 0.079070963, u'dial_telephone', 0.076169178]
+[u'oil_filter', 0.19740494, u'whistle', 0.16892767, u'radiator', 0.098018311]

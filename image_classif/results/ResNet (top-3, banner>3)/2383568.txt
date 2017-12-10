@@ -1,0 +1,2 @@
+[u'web_site', 0.36519861, u'screen', 0.11301797, u'television', 0.10343751]
+[u'binder', 0.35419762, u'lighter', 0.34236762, u'laptop', 0.049820535]

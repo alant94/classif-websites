@@ -1,0 +1,6 @@
+[u'tub', 0.44154277, u'carton', 0.17926221, u'bathtub', 0.086364709]
+[u'bikini', 0.20004006, u'brassiere', 0.18985598, u'bathtub', 0.13265947]
+[u'brassiere', 0.2503086, u'bikini', 0.21713202, u'maillot', 0.062586702]
+[u'oboe', 0.23815358, u'chain_saw', 0.21936701, u'maillot', 0.079367608]
+[u'wig', 0.16847825, u'maillot', 0.13724801, u'miniskirt', 0.11365528]
+[u'maillot', 0.39096349, u'bikini', 0.36721, u'maillot', 0.10274189]

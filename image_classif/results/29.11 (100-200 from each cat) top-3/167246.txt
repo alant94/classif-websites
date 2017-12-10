@@ -1,0 +1,7 @@
+[u'paintbrush', 0.28314614, u'nail', 0.16520983, u'screwdriver', 0.16439287]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'screw', 0.06809292, u'web_site', 0.053663373, u'cornet', 0.040929634]
+[u'stage', 0.99615175, u'theater_curtain', 0.0021298863, u'electric_guitar', 0.00046660623]
+[u'stage', 0.1736498, u'plunger', 0.067971826, u'abaya', 0.053015377]
+[u'jersey', 0.44968402, u'stage', 0.083003372, u'basketball', 0.078396559]
+[u'menu', 0.22956499, u'web_site', 0.048053034, u'cornet', 0.03697734]

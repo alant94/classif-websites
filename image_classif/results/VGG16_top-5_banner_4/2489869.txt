@@ -1,0 +1,5 @@
+[u'mobile_home', 0.43534577, u'patio', 0.22315054, u'lakeside', 0.039057761, u'picket_fence', 0.026045028, u'flagpole', 0.018592348]
+[u'monastery', 0.12152164, u'castle', 0.1180553, u'broccoli', 0.095218927, u'fountain', 0.081137873, u'church', 0.046018504]
+[u'church', 0.13563877, u'picket_fence', 0.1305698, u'castle', 0.083765775, u'beacon', 0.06012471, u'palace', 0.048662163]
+[u'cinema', 0.062545314, u'hook', 0.058305509, u'panpipe', 0.051871002, u'street_sign', 0.041596927, u'coil', 0.03986815]
+[u'barn', 0.696473, u'church', 0.12702066, u'hay', 0.032299165, u'beacon', 0.021629447, u'worm_fence', 0.021290336]

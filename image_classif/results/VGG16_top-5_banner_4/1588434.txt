@@ -1,0 +1,8 @@
+[u'remote_control', 0.27135718, u'lens_cap', 0.17569764, u'laptop', 0.11470279, u'cellular_telephone', 0.083067015, u'notebook', 0.059320208]
+[u'mask', 0.36113536, u'sunscreen', 0.21871905, u'Band_Aid', 0.07464762, u'sunglass', 0.039912175, u'sunglasses', 0.030683625]
+[u'toilet_seat', 0.28638756, u'soap_dispenser', 0.058734339, u'parking_meter', 0.048238825, u'bell_cote', 0.038585003, u'wall_clock', 0.032917578]
+[u'loupe', 0.12466488, u'sunglasses', 0.091890737, u'wig', 0.091111973, u'bonnet', 0.089583442, u'fur_coat', 0.04489423]
+[u'screw', 0.096386999, u'analog_clock', 0.065014526, u'matchstick', 0.06491629, u'wall_clock', 0.05756991, u'nail', 0.053165499]
+[u'vault', 0.12402613, u'prison', 0.091853119, u'soap_dispenser', 0.063227721, u'wall_clock', 0.044571999, u'washbasin', 0.041239109]
+[u'axolotl', 0.18043977, u'West_Highland_white_terrier', 0.022887819, u'feather_boa', 0.021565415, u'fountain', 0.02049059, u'stage', 0.018922688]
+[u'lampshade', 0.17633799, u'coil', 0.081309445, u'stupa', 0.060729738, u'grand_piano', 0.052224401, u'baseball', 0.047102835]

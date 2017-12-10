@@ -1,0 +1,2 @@
+[u'hook', 0.12484372, u'web_site', 0.081289828, u'whistle', 0.04345037, u'nail', 0.024358995, u'nematode', 0.021836117]
+[u'binder', 0.58627522, u'book_jacket', 0.056370996, u'packet', 0.035499278, u'comic_book', 0.029140055, u'web_site', 0.020724267]

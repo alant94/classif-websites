@@ -1,0 +1,7 @@
+[u'web_site', 0.15270218, u'envelope', 0.1405898, u'digital_clock', 0.084265359, u'binder', 0.032826126, u'scoreboard', 0.023304252]
+[u'lighter', 0.54300326, u'hair_spray', 0.088307701, u'perfume', 0.084422819, u'pill_bottle', 0.028330779, u'lipstick', 0.023368036]
+[u'hair_spray', 0.53555095, u'perfume', 0.062740907, u'rubber_eraser', 0.057733968, u'lotion', 0.057412926, u'lipstick', 0.0536655]
+[u'book_jacket', 0.78746384, u'street_sign', 0.062197022, u'menu', 0.017304465, u'scoreboard', 0.014626341, u'barbershop', 0.0085404031]
+[u'Windsor_tie', 0.22478588, u'web_site', 0.034222756, u'stole', 0.021461301, u'wall_clock', 0.021309087, u'crossword_puzzle', 0.0201347]
+[u'hair_spray', 0.27249771, u'rubber_eraser', 0.17719865, u'lighter', 0.11413461, u'lotion', 0.071886383, u'sunscreen', 0.057383209]
+[u'web_site', 0.14146447, u'Windsor_tie', 0.070806071, u'envelope', 0.039885469, u'analog_clock', 0.016339101, u'Band_Aid', 0.015605323]

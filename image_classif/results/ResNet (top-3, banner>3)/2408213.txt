@@ -1,0 +1,5 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193]
+[u'wool', 0.92676151, u'swab', 0.0072621661, u'hair_spray', 0.0071153217]
+[u'wool', 0.78851098, u'spaghetti_squash', 0.099220894, u'teddy', 0.012573768]
+[u'wool', 0.99362367, u'swab', 0.0051833545, u'cardigan', 0.00073113712]
+[u'jigsaw_puzzle', 0.08925958, u'polecat', 0.050296672, u'platypus', 0.035724964]

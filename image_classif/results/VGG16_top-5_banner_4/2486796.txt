@@ -1,0 +1,1 @@
+[u'hyena', 0.56615013, u'wild_boar', 0.23941325, u'hog', 0.13849701, u'African_hunting_dog', 0.019624686, u'dhole', 0.0091507379]

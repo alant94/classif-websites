@@ -1,0 +1,2 @@
+[u'analog_clock', 0.34867257, u'digital_clock', 0.055669382, u'web_site', 0.040823806]
+[u'web_site', 0.37023151, u'binder', 0.22380079, u'comic_book', 0.056168564]

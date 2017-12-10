@@ -1,0 +1,1 @@
+[u'toilet_seat', 0.33080721, u'wall_clock', 0.049205776, u'oxygen_mask', 0.04558596, u'harvester', 0.022923294, u'switch', 0.020907769]

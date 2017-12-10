@@ -1,0 +1,2 @@
+[u'television', 0.34893468, u'digital_clock', 0.22780962, u'web_site', 0.078387611]
+[u'digital_clock', 0.22680902, u'crossword_puzzle', 0.099092513, u'prayer_rug', 0.08196684]

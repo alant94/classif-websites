@@ -1,0 +1,3 @@
+[u'diaper', 0.42535609, u'bathtub', 0.14955288, u'maillot', 0.063389748]
+[u'brassiere', 0.39387453, u'bikini', 0.22143108, u'maillot', 0.065904193]
+[u'hippopotamus', 0.35068297, u'bathtub', 0.073544167, u'tub', 0.046527181]

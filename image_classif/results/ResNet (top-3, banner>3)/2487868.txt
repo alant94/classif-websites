@@ -1,0 +1,3 @@
+[u'folding_chair', 0.23555171, u'rocking_chair', 0.14186613, u'clog', 0.13145395]
+[u'web_site', 0.73372889, u'envelope', 0.015884694, u'sunscreen', 0.011523509]
+[u'golfcart', 0.35596666, u'cowboy_hat', 0.1327946, u'comic_book', 0.057226565]

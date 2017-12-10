@@ -1,0 +1,7 @@
+[u'jean', 0.24055812, u'balance_beam', 0.19235089, u'dumbbell', 0.078459024, u'punching_bag', 0.028370485, u'vacuum', 0.015044349]
+[u'switch', 0.56983352, u'modem', 0.10971678, u'lighter', 0.04931058, u'syringe', 0.044646479, u'radio', 0.029911803]
+[u'swimming_trunks', 0.42125449, u'sleeping_bag', 0.40304247, u'sweatshirt', 0.025752401, u'wool', 0.020976746, u'knee_pad', 0.018105363]
+[u'bow', 0.30376232, u'candle', 0.094515167, u'matchstick', 0.081331067, u'torch', 0.048486557, u'gong', 0.043518063]
+[u'curly-coated_retriever', 0.34882617, u'ski', 0.085174583, u'parachute', 0.070642255, u'standard_poodle', 0.038031448, u'balance_beam', 0.022722732]
+[u'letter_opener', 0.2194899, u'scabbard', 0.17040358, u'screwdriver', 0.14652139, u'corkscrew', 0.11916151, u'fountain_pen', 0.048069395]
+[u'wallet', 0.51472998, u'purse', 0.071642548, u'shovel', 0.041730184, u'mailbag', 0.037572302, u'velvet', 0.033968646]

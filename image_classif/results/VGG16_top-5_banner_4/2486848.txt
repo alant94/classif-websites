@@ -1,0 +1,4 @@
+[u'monitor', 0.069585435, u'television', 0.06417796, u'screen', 0.062953755, u'notebook', 0.043439087, u'spotlight', 0.043231022]
+[u'television', 0.06940563, u'iPod', 0.058847446, u'buckle', 0.041614197, u'scale', 0.038256101, u'hook', 0.03613741]
+[u'television', 0.088590056, u'iPod', 0.062575854, u'scale', 0.052350145, u'hook', 0.048454169, u'beaker', 0.028703891]
+[u'coho', 0.58744043, u'speedboat', 0.07107646, u'sturgeon', 0.062407032, u'submarine', 0.04348262, u'canoe', 0.040007401]

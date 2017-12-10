@@ -1,0 +1,6 @@
+[u'paintbrush', 0.29117098, u'ski', 0.16888189, u'shovel', 0.093702376, u'butcher_shop', 0.070166849, u'rifle', 0.055705305]
+[u'bow', 0.081050456, u'carton', 0.075629868, u'chainlink_fence', 0.054324146, u'matchstick', 0.051908664, u'swab', 0.042174023]
+[u'tennis_ball', 0.46851188, u'ping-pong_ball', 0.19561014, u'envelope', 0.01894776, u'golf_ball', 0.015939826, u'web_site', 0.011514085]
+[u'shoe_shop', 0.43173388, u'brassiere', 0.07920029, u'wardrobe', 0.035131026, u'butcher_shop', 0.033236273, u'umbrella', 0.022905696]
+[u'butcher_shop', 0.41732222, u'wardrobe', 0.17694396, u'picket_fence', 0.044700954, u'handkerchief', 0.0248609, u'bow', 0.023868682]
+[u'patio', 0.19046259, u'picket_fence', 0.11334391, u'greenhouse', 0.0480556, u'streetcar', 0.026251357, u'sliding_door', 0.025495086]

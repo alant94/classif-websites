@@ -1,0 +1,6 @@
+[u'web_site', 0.46883485, u'book_jacket', 0.31321302, u'menu', 0.05887153, u'envelope', 0.03603372, u'binder', 0.014242964]
+[u'wine_bottle', 0.49059376, u'red_wine', 0.25211129, u'chocolate_sauce', 0.14157951, u'lotion', 0.020360159, u'perfume', 0.019104814]
+[u'book_jacket', 0.61827028, u'web_site', 0.23591003, u'brass', 0.037724763, u'menu', 0.031324957, u'envelope', 0.015810044]
+[u'book_jacket', 0.52909857, u'web_site', 0.2504952, u'menu', 0.04995124, u'envelope', 0.045883141, u'brass', 0.025213538]
+[u'red_wine', 0.51109743, u'wine_bottle', 0.40517595, u'chocolate_sauce', 0.036163155, u'beer_bottle', 0.021501901, u'whiskey_jug', 0.011289202]
+[u'web_site', 0.56632531, u'book_jacket', 0.32867637, u'menu', 0.027184572, u'envelope', 0.01896356, u'brass', 0.0081448471]

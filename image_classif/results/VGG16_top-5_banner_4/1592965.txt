@@ -1,0 +1,5 @@
+[u'sock', 0.48104942, u'clog', 0.24291255, u'Band_Aid', 0.092109203, u'pillow', 0.023171196, u'sandal', 0.020741269]
+[u'dumbbell', 0.24015422, u'bulletproof_vest', 0.084020659, u'power_drill', 0.048579037, u'reflex_camera', 0.047919802, u'Polaroid_camera', 0.03371986]
+[u'banded_gecko', 0.06990286, u'boathouse', 0.049807899, u'hair_slide', 0.031916507, u'conch', 0.025783701, u'matchstick', 0.024821034]
+[u'miniskirt', 0.12243243, u'diaper', 0.077484645, u'bikini', 0.057591587, u'maillot', 0.056618795, u'Band_Aid', 0.052726932]
+[u'bathtub', 0.25736511, u'tub', 0.14803624, u'diaper', 0.11052121, u"potter's_wheel", 0.043462764, u'scale', 0.038620934]

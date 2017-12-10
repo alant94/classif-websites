@@ -1,0 +1,3 @@
+[u'tennis_ball', 0.22610857, u'plate', 0.22570051, u'Granny_Smith', 0.097404756]
+[u'scoreboard', 0.18427832, u'paddlewheel', 0.11587808, u'cinema', 0.074646965]
+[u'web_site', 0.089084916, u'sunscreen', 0.069948629, u'safety_pin', 0.025466409]

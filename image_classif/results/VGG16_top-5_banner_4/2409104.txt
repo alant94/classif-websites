@@ -1,0 +1,2 @@
+[u'abaya', 0.34323269, u'wardrobe', 0.15513511, u'shoe_shop', 0.053709265, u'cowboy_boot', 0.043832671, u'butcher_shop', 0.035700545]
+[u'envelope', 0.40182263, u'rule', 0.061784815, u'Band_Aid', 0.061292168, u'matchstick', 0.037740991, u'oil_filter', 0.031881113]

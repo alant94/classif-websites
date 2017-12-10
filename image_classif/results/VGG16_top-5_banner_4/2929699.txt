@@ -1,0 +1,8 @@
+[u'candle', 0.18296324, u'torch', 0.057667084, u'Band_Aid', 0.057167586, u'book_jacket', 0.038029563, u'envelope', 0.023297198]
+[u'puck', 0.55559003, u'bottlecap', 0.14326096, u'beer_bottle', 0.054474395, u'pop_bottle', 0.033660192, u'wall_clock', 0.026926728]
+[u'web_site', 0.12554693, u'street_sign', 0.10240038, u'book_jacket', 0.10199546, u'cash_machine', 0.025453446, u'analog_clock', 0.021350682]
+[u'puck', 0.15928872, u'book_jacket', 0.092129387, u'rugby_ball', 0.050640102, u'stopwatch', 0.041417677, u'pick', 0.032940738]
+[u'stopwatch', 0.83873421, u'puck', 0.020979887, u'digital_watch', 0.02055333, u'bottlecap', 0.017912203, u'digital_clock', 0.015018092]
+[u'web_site', 0.28014439, u'sunscreen', 0.12333897, u'Band_Aid', 0.09357781, u'envelope', 0.071399592, u'pill_bottle', 0.053543441]
+[u'puck', 0.20611545, u'face_powder', 0.18959565, u'combination_lock', 0.093531318, u'lens_cap', 0.087728567, u'loupe', 0.065598525]
+[u'pay-phone', 0.20156175, u'electric_guitar', 0.12465224, u'dial_telephone', 0.11652112, u'combination_lock', 0.096871831, u'remote_control', 0.043775458]

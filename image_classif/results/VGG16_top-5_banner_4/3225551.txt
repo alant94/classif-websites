@@ -1,0 +1,2 @@
+[u'book_jacket', 0.12207583, u'cinema', 0.10224165, u'safety_pin', 0.055491343, u'hook', 0.052822024, u'street_sign', 0.048880208]
+[u'jersey', 0.42429259, u'book_jacket', 0.17276947, u'brassiere', 0.073740415, u'street_sign', 0.038109895, u'shield', 0.037363343]

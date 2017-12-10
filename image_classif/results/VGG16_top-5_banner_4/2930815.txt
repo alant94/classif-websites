@@ -1,0 +1,4 @@
+[u'dumbbell', 0.069415182, u'notebook', 0.043595765, u'jersey', 0.04158622, u'diaper', 0.039215673, u'Band_Aid', 0.028290214]
+[u'matchstick', 0.56340748, u'drumstick', 0.085141994, u'rubber_eraser', 0.064538673, u'Band_Aid', 0.037656851, u'nail', 0.013000823]
+[u'snorkel', 0.16163497, u'web_site', 0.08959657, u'microphone', 0.050808363, u'mouse', 0.04849967, u'hook', 0.036921892]
+[u'scale', 0.17910841, u'Petri_dish', 0.081173934, u'pill_bottle', 0.066718005, u'face_powder', 0.060904291, u'measuring_cup', 0.059885483]

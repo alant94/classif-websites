@@ -1,0 +1,5 @@
+[u'hair_spray', 0.20468251, u"carpenter's_kit", 0.19276008, u'nipple', 0.15283373]
+[u'envelope', 0.23442744, u'prayer_rug', 0.16061273, u'apron', 0.026105199]
+[u'plate_rack', 0.23473859, u'fire_screen', 0.15967193, u'prayer_rug', 0.13519518]
+[u'guillotine', 0.12949726, u'photocopier', 0.05108786, u'projector', 0.041848917]
+[u'street_sign', 0.10581504, u'goblet', 0.057280064, u'analog_clock', 0.036252629]

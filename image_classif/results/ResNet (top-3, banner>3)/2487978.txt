@@ -1,0 +1,2 @@
+[u'rule', 0.17403471, u'web_site', 0.051460683, u'whistle', 0.043546826]
+[u'digital_clock', 0.61073411, u'digital_watch', 0.082754672, u'Band_Aid', 0.060753237]

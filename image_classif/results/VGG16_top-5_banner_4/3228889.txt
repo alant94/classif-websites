@@ -1,0 +1,2 @@
+[u'church', 0.19855821, u'monastery', 0.12571228, u'castle', 0.089758717, u'palace', 0.046679053, u'prison', 0.024935473]
+[u'flagpole', 0.12966497, u'rule', 0.0538246, u'envelope', 0.052934721, u'slide_rule', 0.037001241, u'missile', 0.036876481]

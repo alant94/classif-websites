@@ -1,0 +1,2 @@
+[u'analog_clock', 0.19094323, u'bow', 0.089795157, u'toilet_seat', 0.052358549]
+[u'maze', 0.45574889, u'prayer_rug', 0.077846065, u'slot', 0.044143576]

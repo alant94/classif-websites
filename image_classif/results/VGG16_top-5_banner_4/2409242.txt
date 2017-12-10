@@ -1,0 +1,3 @@
+[u'envelope', 0.076954737, u'hook', 0.013241015, u'rule', 0.01225487, u'letter_opener', 0.010490705, u'nail', 0.010050277]
+[u'notebook', 0.35529354, u'desktop_computer', 0.30526882, u'laptop', 0.1173781, u'monitor', 0.090835646, u'screen', 0.060667329]
+[u'oboe', 0.27187625, u'bassoon', 0.039927542, u'tripod', 0.037135765, u'electric_guitar', 0.035424851, u'microphone', 0.028611949]

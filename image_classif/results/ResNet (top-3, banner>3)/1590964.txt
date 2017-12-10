@@ -1,0 +1,4 @@
+[u'sliding_door', 0.83505887, u'paintbrush', 0.033717826, u'window_screen', 0.026987385]
+[u'swimming_trunks', 0.66786087, u'fountain', 0.098242566, u'bath_towel', 0.088727765]
+[u'hog', 0.19025439, u'swimming_trunks', 0.089746304, u'shower_cap', 0.061620764]
+[u'diaper', 0.45070288, u'bath_towel', 0.16579814, u'tub', 0.062458679]

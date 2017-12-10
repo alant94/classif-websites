@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.11180209, u'envelope', 0.067958422, u'wall_clock', 0.041808076, u'menu', 0.040649794, u'hair_slide', 0.039178893]
+[u'analog_clock', 0.8292225, u'wall_clock', 0.14245406, u'barometer', 0.025393428, u'magnetic_compass', 0.00080991269, u'scale', 0.00047819136]
+[u'menu', 0.28343806, u'barbershop', 0.25792688, u'doormat', 0.14974758, u'prayer_rug', 0.12357954, u'cinema', 0.046699066]

@@ -1,0 +1,5 @@
+[u'lighter', 0.079967938, u'envelope', 0.060287602, u'Band_Aid', 0.032009605]
+[u'analog_clock', 0.2055877, u'switch', 0.15918829, u'beaker', 0.095663346]
+[u'Band_Aid', 0.45274666, u'hook', 0.019704387, u'nail', 0.017501535]
+[u'pill_bottle', 0.38186678, u'switch', 0.1250194, u'beaker', 0.080123439]
+[u'screen', 0.12403984, u'digital_clock', 0.11970493, u'ambulance', 0.084597662]

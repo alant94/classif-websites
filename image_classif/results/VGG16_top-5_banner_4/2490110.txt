@@ -1,0 +1,6 @@
+[u'rapeseed', 0.15253548, u'lakeside', 0.11637025, u'castle', 0.07262221, u'seashore', 0.059630819, u'beacon', 0.047290795]
+[u'digital_clock', 0.11894796, u'lighter', 0.085148074, u'analog_clock', 0.080057137, u'laptop', 0.05980064, u'scale', 0.058189172]
+[u'Irish_wolfhound', 0.16203551, u'water_buffalo', 0.1053796, u'oxcart', 0.10001633, u'warthog', 0.053754978, u'ox', 0.047566805]
+[u'mobile_home', 0.58242756, u'patio', 0.36859506, u'rain_barrel', 0.022652516, u'lawn_mower', 0.0055672489, u'sliding_door', 0.0049277293]
+[u'mountain_bike', 0.27888629, u'chain_saw', 0.08885733, u'ram', 0.057062522, u'bighorn', 0.05239838, u'stretcher', 0.0464775]
+[u'digital_clock', 0.25298268, u'lighter', 0.16525696, u'switch', 0.068032175, u'Band_Aid', 0.040027808, u'remote_control', 0.037460655]

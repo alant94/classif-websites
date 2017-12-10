@@ -1,0 +1,1 @@
+[u'stupa', 0.33286256, u'monastery', 0.068780109, u'aircraft_carrier', 0.064732887, u'seashore', 0.048084281, u'drilling_platform', 0.042895917]

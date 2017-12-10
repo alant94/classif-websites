@@ -1,0 +1,2 @@
+[u'velvet', 0.26926845, u'cardigan', 0.10417194, u'stole', 0.085992239, u'wool', 0.057926971, u'sarong', 0.031208262]
+[u'abaya', 0.43124601, u'jersey', 0.1032575, u'brassiere', 0.04388544, u'theater_curtain', 0.038742967, u'sweatshirt', 0.037090667]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.36095726, u'packet', 0.32713994, u'envelope', 0.19644716, u'menu', 0.04963572, u'carton', 0.011751418]
+[u'book_jacket', 0.51299936, u'envelope', 0.14046788, u'packet', 0.11992189, u'face_powder', 0.024876833, u'menu', 0.020084841]
+[u'book_jacket', 0.48532975, u'packet', 0.097045027, u'face_powder', 0.083076388, u'envelope', 0.079621777, u'carton', 0.038839471]

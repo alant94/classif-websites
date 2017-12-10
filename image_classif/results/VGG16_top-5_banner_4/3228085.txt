@@ -1,0 +1,1 @@
+[u'flagpole', 0.2602236, u'wing', 0.15789667, u'parachute', 0.12164467, u'spoonbill', 0.089411274, u'warplane', 0.039852004]

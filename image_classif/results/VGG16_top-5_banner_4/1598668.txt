@@ -1,0 +1,2 @@
+[u'comic_book', 0.66272789, u'spatula', 0.14920801, u'jersey', 0.052773744, u'stethoscope', 0.028609931, u'refrigerator', 0.014082241]
+[u'swimming_trunks', 0.38441175, u'comic_book', 0.2332456, u'sunscreen', 0.046370257, u'bikini', 0.044972707, u'bow_tie', 0.015631191]

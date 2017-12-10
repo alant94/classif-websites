@@ -1,0 +1,2 @@
+[u'nail', 0.074840531, u'screw', 0.070342183, u'envelope', 0.064572707, u'screwdriver', 0.050974496, u'power_drill', 0.037998062]
+[u'bell_cote', 0.22639023, u'hook', 0.10012759, u'crane', 0.052930728, u'analog_clock', 0.048667856, u'chain_saw', 0.03202717]

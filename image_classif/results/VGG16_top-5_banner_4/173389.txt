@@ -1,0 +1,2 @@
+[u'megalith', 0.67398041, u'cloak', 0.019921729, u'castle', 0.017845899, u'triumphal_arch', 0.01563726, u'abaya', 0.014259861]
+[u'lighter', 0.16051178, u'ashcan', 0.068273865, u'water_jug', 0.039489582, u'bucket', 0.03732153, u'pencil_sharpener', 0.031729545]

@@ -1,0 +1,1 @@
+[u'hook', 0.13687804, u'safety_pin', 0.070631377, u'street_sign', 0.067752309, u'nail', 0.054451078, u'flagpole', 0.038887162]

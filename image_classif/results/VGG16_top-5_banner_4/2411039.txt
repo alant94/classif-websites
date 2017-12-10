@@ -1,0 +1,6 @@
+[u'ski', 0.17240398, u'can_opener', 0.12907697, u'airship', 0.057195704, u'hair_slide', 0.044973429, u'iron', 0.037992228]
+[u'ballpoint', 0.39901811, u'quill', 0.057307046, u"carpenter's_kit", 0.054116245, u'screwdriver', 0.052944783, u'can_opener', 0.032800931]
+[u'mailbox', 0.17099324, u'packet', 0.12177709, u'digital_clock', 0.098385595, u'rubber_eraser', 0.074851453, u'book_jacket', 0.071233496]
+[u'web_site', 0.9810673, u'monitor', 0.0024983583, u'cash_machine', 0.0024188238, u'screen', 0.0018549728, u'desktop_computer', 0.0014610116]
+[u'Band_Aid', 0.25151211, u'envelope', 0.066873305, u'lipstick', 0.035142314, u'web_site', 0.031191824, u'face_powder', 0.028254436]
+[u'greenhouse', 0.36314577, u'patio', 0.25549254, u'pot', 0.058972631, u'library', 0.039596353, u'obelisk', 0.026238242]

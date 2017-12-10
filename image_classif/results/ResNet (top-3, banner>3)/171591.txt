@@ -1,0 +1,2 @@
+[u'hook', 0.071274653, u'web_site', 0.050831083, u'digital_clock', 0.026912898]
+[u'web_site', 0.57941777, u'envelope', 0.02547908, u'dishwasher', 0.0088044358]

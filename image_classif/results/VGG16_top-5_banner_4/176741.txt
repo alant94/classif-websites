@@ -1,0 +1,1 @@
+[u'balloon', 0.27842748, u'bottlecap', 0.26957282, u'bathing_cap', 0.070696279, u'wall_clock', 0.033875201, u'pencil_sharpener', 0.020512497]

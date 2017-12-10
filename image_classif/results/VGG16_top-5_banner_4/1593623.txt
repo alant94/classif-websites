@@ -1,0 +1,8 @@
+[u'candle', 0.085713029, u'punching_bag', 0.069939792, u'stove', 0.045550138, u'table_lamp', 0.044482518, u'plunger', 0.032587275]
+[u'harp', 0.04488517, u'wig', 0.037942089, u'window_shade', 0.033186562, u'mosquito_net', 0.028389316, u'hand_blower', 0.0272536]
+[u'stole', 0.089757651, u'lampshade', 0.045750823, u'wall_clock', 0.044952907, u'poncho', 0.033518128, u'window_shade', 0.028745946]
+[u'space_shuttle', 0.4083958, u'container_ship', 0.10065841, u'beacon', 0.058098324, u'monitor', 0.036041882, u'missile', 0.035700921]
+[u'tub', 0.23967391, u'bathtub', 0.13028856, u'punching_bag', 0.11062921, u'power_drill', 0.1076031, u'shower_cap', 0.033528894]
+[u'diaper', 0.20866407, u'Band_Aid', 0.10845173, u'syringe', 0.032492653, u'mosquito_net', 0.032195456, u'dumbbell', 0.03019483]
+[u'menu', 0.92483872, u'web_site', 0.075114422, u'packet', 1.4724047e-05, u'slot', 7.1904715e-06, u'plate', 6.0228308e-06]
+[u'sandal', 0.49029902, u'Band_Aid', 0.068148047, u'brassiere', 0.050224237, u'dough', 0.044764865, u'bikini', 0.02811433]

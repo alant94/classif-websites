@@ -1,0 +1,5 @@
+[u'ocarina', 0.34525278, u'joystick', 0.22691603, u'sandal', 0.070364662, u'clog', 0.062331904, u'rule', 0.027874054]
+[u"carpenter's_kit", 0.13943879, u'hook', 0.13489421, u'digital_clock', 0.061254822, u'swab', 0.029164864, u'broom', 0.025266686]
+[u'screwdriver', 0.18335991, u'wine_bottle', 0.15815373, u'fountain_pen', 0.1560041, u'organ', 0.084030941, u'syringe', 0.077190809]
+[u'ping-pong_ball', 0.78783137, u'digital_clock', 0.035577815, u'joystick', 0.02093184, u'switch', 0.016479285, u'electric_fan', 0.013115286]
+[u'joystick', 0.19938244, u'switch', 0.19319096, u'cassette', 0.17429213, u'modem', 0.12953502, u'remote_control', 0.06798017]

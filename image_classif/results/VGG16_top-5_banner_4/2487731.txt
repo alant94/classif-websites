@@ -1,0 +1,5 @@
+[u'web_site', 0.52228189, u'envelope', 0.30164811, u'jigsaw_puzzle', 0.043538745, u'binder', 0.014322552, u'analog_clock', 0.0091518667]
+[u'binder', 0.16564243, u'letter_opener', 0.096500866, u'ballpoint', 0.057734635, u'screwdriver', 0.056077808, u'hair_slide', 0.051289313]
+[u'coho', 0.3591432, u'poncho', 0.3305876, u'butcher_shop', 0.020914262, u'fur_coat', 0.020523205, u'worm_fence', 0.017893404]
+[u'binder', 0.19203271, u'letter_opener', 0.15809849, u'wall_clock', 0.048764568, u'corkscrew', 0.04127726, u"carpenter's_kit", 0.033884134]
+[u'golfcart', 0.92895132, u'Model_T', 0.04775558, u'tractor', 0.0063286838, u'snowplow', 0.0055407831, u'half_track', 0.0039763218]

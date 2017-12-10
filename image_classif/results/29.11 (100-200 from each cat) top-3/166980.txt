@@ -1,0 +1,2 @@
+[u'fountain', 0.52775431, u'sea_lion', 0.04700708, u'washer', 0.042273302]
+[u'digital_clock', 0.30862129, u'web_site', 0.073109649, u'analog_clock', 0.042135842]

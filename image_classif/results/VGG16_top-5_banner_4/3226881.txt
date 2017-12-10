@@ -1,0 +1,7 @@
+[u'digital_clock', 0.24299404, u"jack-o'-lantern", 0.205718, u'pick', 0.066263862, u'buckle', 0.040216081, u'maze', 0.033622984]
+[u'book_jacket', 0.49259073, u'street_sign', 0.14249215, u'traffic_light', 0.08081276, u'scoreboard', 0.063323319, u'comic_book', 0.037043441]
+[u'maillot', 0.22546868, u'bikini', 0.13783321, u'book_jacket', 0.12488917, u'maillot', 0.12314118, u'gown', 0.082875706]
+[u'book_jacket', 0.2068806, u'pick', 0.069375739, u'street_sign', 0.030566923, u'comic_book', 0.029360788, u'barbershop', 0.025142899]
+[u'bannister', 0.069870152, u'window_shade', 0.053216539, u'hoopskirt', 0.049216248, u'gown', 0.040999558, u'window_screen', 0.040140886]
+[u'book_jacket', 0.18586342, u'comic_book', 0.05571432, u'web_site', 0.043307509, u'scoreboard', 0.030583495, u'ski', 0.026435582]
+[u'puck', 0.92283207, u'bottlecap', 0.01539532, u'book_jacket', 0.0067332834, u'street_sign', 0.0062907916, u'shield', 0.0039619203]

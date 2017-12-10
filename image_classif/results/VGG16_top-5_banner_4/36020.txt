@@ -1,0 +1,7 @@
+[u'street_sign', 0.1831426, u'book_jacket', 0.046311356, u'web_site', 0.033263076, u'cash_machine', 0.026874173, u'packet', 0.026540471]
+[u'web_site', 0.57157511, u'book_jacket', 0.11343721, u'scoreboard', 0.034861568, u'monitor', 0.025891297, u'cash_machine', 0.011535359]
+[u'loudspeaker', 0.16927518, u'desktop_computer', 0.13784988, u'radio', 0.077844419, u'home_theater', 0.07333611, u'monitor', 0.063820727]
+[u'sombrero', 0.27815074, u'lampshade', 0.20940287, u'cowboy_hat', 0.10306399, u'chain_mail', 0.097069845, u'bonnet', 0.069927514]
+[u'barbershop', 0.23555475, u'cinema', 0.10928801, u'mobile_home', 0.09020669, u'birdhouse', 0.058412082, u'mailbox', 0.05378649]
+[u'envelope', 0.4616788, u'Band_Aid', 0.28835768, u'web_site', 0.037230518, u'matchstick', 0.028650708, u'carton', 0.015762076]
+[u'home_theater', 0.42565557, u'entertainment_center', 0.16931054, u'television', 0.097359262, u'microwave', 0.032060239, u'wardrobe', 0.026662882]

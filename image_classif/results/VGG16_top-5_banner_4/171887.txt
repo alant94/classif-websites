@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.24374512, u'envelope', 0.041729927, u'jersey', 0.03576497, u'cash_machine', 0.033319786, u'book_jacket', 0.031443398]
+[u'chainlink_fence', 0.18770351, u'book_jacket', 0.041291818, u'jigsaw_puzzle', 0.039437827, u'stole', 0.034650832, u'plastic_bag', 0.03254848]

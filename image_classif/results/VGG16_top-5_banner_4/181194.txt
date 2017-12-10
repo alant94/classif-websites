@@ -1,0 +1,5 @@
+[u'book_jacket', 0.80545783, u'comic_book', 0.055023052, u'packet', 0.047490455, u'jersey', 0.008589006, u'web_site', 0.0076114293]
+[u'loudspeaker', 0.82300961, u'iPod', 0.098467022, u'remote_control', 0.0078427196, u'lighter', 0.0072047189, u'radio', 0.0068525355]
+[u'book_jacket', 0.11602429, u'scoreboard', 0.087822445, u'jersey', 0.072198242, u'digital_clock', 0.047480959, u'lighter', 0.035392731]
+[u'book_jacket', 0.80545783, u'comic_book', 0.055023052, u'packet', 0.047490455, u'jersey', 0.008589006, u'web_site', 0.0076114293]
+[u'beer_bottle', 0.16788289, u'scoreboard', 0.065836936, u'crate', 0.065800525, u'puck', 0.064926222, u'barbershop', 0.060149472]

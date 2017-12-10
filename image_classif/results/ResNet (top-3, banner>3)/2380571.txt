@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.99623692, u'digital_watch', 0.0016572213, u'digital_clock', 0.00092516473]
+[u'binder', 0.44790655, u'doormat', 0.074033074, u'cassette', 0.044917185]
+[u'envelope', 0.11034863, u'dishwasher', 0.060832504, u'binder', 0.02777297]

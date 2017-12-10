@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.056894865, u'Loafer', 0.025491603, u'seat_belt', 0.025196407, u'sleeping_bag', 0.02292968, u'jean', 0.01990585]

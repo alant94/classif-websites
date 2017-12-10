@@ -1,0 +1,8 @@
+[u'picket_fence', 0.54667431, u'church', 0.26084363, u'castle', 0.025040798, u'worm_fence', 0.013426977, u'carton', 0.0089212554]
+[u'digital_clock', 0.37858194, u'ping-pong_ball', 0.060090721, u'football_helmet', 0.05322494, u'rugby_ball', 0.050317399, u'mouse', 0.0461355]
+[u'sarong', 0.16841802, u'hair_spray', 0.10822219, u'pole', 0.10239854, u'maillot', 0.069561005, u'wig', 0.065777875]
+[u'web_site', 0.26767218, u'book_jacket', 0.20795318, u'comic_book', 0.082553282, u'street_sign', 0.07081674, u'hair_spray', 0.029044153]
+[u'tobacco_shop', 0.47608629, u'bookshop', 0.11922492, u'organ', 0.097408921, u'throne', 0.085693605, u'library', 0.02852807]
+[u'bannister', 0.25100437, u'altar', 0.18023992, u'vault', 0.11787955, u'church', 0.096607774, u'library', 0.080946922]
+[u'breakwater', 0.50815654, u'geyser', 0.085531637, u'seashore', 0.065261312, u'volcano', 0.054506708, u'promontory', 0.042561386]
+[u'beacon', 0.21908517, u'traffic_light', 0.13275458, u'water_tower', 0.090092026, u'pole', 0.078669786, u'nail', 0.060687959]

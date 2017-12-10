@@ -1,0 +1,7 @@
+[u'iPod', 0.207737, u'bib', 0.12876855, u'ping-pong_ball', 0.12549914, u'jersey', 0.073382318, u'lens_cap', 0.025837019]
+[u'jersey', 0.036568165, u'crutch', 0.029563207, u'ping-pong_ball', 0.027304823, u'sweatshirt', 0.0272869, u'banjo', 0.019889314]
+[u'abaya', 0.063717932, u'gown', 0.040186033, u'cleaver', 0.032980885, u'cloak', 0.030052112, u'hammer', 0.029429244]
+[u'nail', 0.13646783, u'screwdriver', 0.092887759, u'screw', 0.085949466, u'hook', 0.049893059, u"carpenter's_kit", 0.049180359]
+[u'matchstick', 0.62154138, u'candle', 0.13761824, u'spatula', 0.030515186, u'ice_lolly', 0.026394667, u'nail', 0.018744854]
+[u'refrigerator', 0.7935921, u'kimono', 0.032393858, u'comic_book', 0.031740986, u'wardrobe', 0.021133373, u'apron', 0.018013243]
+[u'knot', 0.11181416, u'bolo_tie', 0.074760944, u'hook', 0.05700339, u'whistle', 0.051587682, u'maraca', 0.032081094]

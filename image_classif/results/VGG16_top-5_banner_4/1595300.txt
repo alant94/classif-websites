@@ -1,0 +1,5 @@
+[u'sliding_door', 0.1864894, u'crutch', 0.094438128, u'pole', 0.077109449, u'cash_machine', 0.0629315, u'vacuum', 0.036178246]
+[u'hourglass', 0.075761378, u'china_cabinet', 0.037769314, u'sliding_door', 0.033531621, u'shower_curtain', 0.031977061, u'parallel_bars', 0.029541278]
+[u'quill', 0.13355301, u'letter_opener', 0.090577446, u'hook', 0.084571429, u"carpenter's_kit", 0.083732821, u'bow', 0.041509833]
+[u'sliding_door', 0.31457177, u'prison', 0.050629236, u'swab', 0.047502343, u'parking_meter', 0.034389369, u'turnstile', 0.032327045]
+[u'restaurant', 0.12401079, u'altar', 0.077872157, u'toyshop', 0.064172462, u'tobacco_shop', 0.058647308, u'vault', 0.053962134]

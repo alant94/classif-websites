@@ -1,0 +1,1 @@
+[u'vault', 0.1346966, u'bell_cote', 0.10871974, u'guillotine', 0.075374752, u'cash_machine', 0.060964439, u'window_shade', 0.049846873]

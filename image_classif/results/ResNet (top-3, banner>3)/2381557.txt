@@ -1,0 +1,2 @@
+[u'Polaroid_camera', 0.7808063, u'projector', 0.060595669, u'reflex_camera', 0.036463603]
+[u'digital_clock', 0.20951867, u'nail', 0.063848756, u'screw', 0.040304229]

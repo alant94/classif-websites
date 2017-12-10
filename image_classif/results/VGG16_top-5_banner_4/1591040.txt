@@ -1,0 +1,4 @@
+[u'swimming_trunks', 0.87785065, u'tub', 0.047646571, u'bikini', 0.02558342, u'bathtub', 0.022198683, u'maillot', 0.0047541833]
+[u'drum', 0.12702161, u'pick', 0.077421151, u'face_powder', 0.049483683, u'sunglass', 0.034742504, u'analog_clock', 0.030430969]
+[u'maillot', 0.31064638, u'quilt', 0.096579731, u'maillot', 0.083451219, u'studio_couch', 0.073749878, u'swimming_trunks', 0.036355097]
+[u'web_site', 0.11719827, u'toyshop', 0.081165582, u'butcher_shop', 0.031331848, u'shower_curtain', 0.031062791, u'packet', 0.02975101]

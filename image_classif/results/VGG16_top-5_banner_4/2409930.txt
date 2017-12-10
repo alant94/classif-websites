@@ -1,0 +1,4 @@
+[u'book_jacket', 0.080893137, u'digital_clock', 0.076689199, u'Windsor_tie', 0.066343024, u'scoreboard', 0.065776788, u'shield', 0.051684238]
+[u'scoreboard', 0.15596126, u'cinema', 0.079000577, u'traffic_light', 0.069448777, u'street_sign', 0.06640891, u'digital_clock', 0.060286008]
+[u'puck', 0.44576135, u'buckle', 0.12890299, u'bolo_tie', 0.069172449, u'bottlecap', 0.054497894, u'tray', 0.050535012]
+[u'street_sign', 0.33885425, u'cinema', 0.16852993, u'barbershop', 0.16350253, u'book_jacket', 0.083340093, u'scoreboard', 0.04411098]

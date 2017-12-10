@@ -1,0 +1,1 @@
+[u'quill', 0.21469393, u'letter_opener', 0.10050557, u'bow', 0.058122527, u'speedboat', 0.031235758, u'ballpoint', 0.026358677]

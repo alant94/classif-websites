@@ -1,0 +1,7 @@
+[u'suit', 0.37933344, u'mortarboard', 0.1517579, u'academic_gown', 0.14946924]
+[u'binder', 0.1497082, u'book_jacket', 0.097867906, u'ashcan', 0.040326204]
+[u'stage', 0.21992193, u'balance_beam', 0.11719643, u'forklift', 0.096287653]
+[u'barbershop', 0.17598179, u'butcher_shop', 0.16142514, u'shoe_shop', 0.066254206]
+[u'rule', 0.29526183, u'comic_book', 0.12934221, u'book_jacket', 0.095695488]
+[u'web_site', 0.67567354, u'rugby_ball', 0.040043004, u'stopwatch', 0.017619325]
+[u'kimono', 0.58005649, u'sarong', 0.24575265, u'maypole', 0.017699987]

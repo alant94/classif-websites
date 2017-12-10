@@ -1,0 +1,8 @@
+[u'bassoon', 0.17570132, u'ballpoint', 0.14186588, u'screwdriver', 0.12264595, u'letter_opener', 0.065206259, u'hair_slide', 0.061936431]
+[u'screwdriver', 0.88272732, u'safety_pin', 0.076420896, u"carpenter's_kit", 0.031078639, u'screw', 0.003136198, u'ballpoint', 0.0018792934]
+[u'cellular_telephone', 0.33433253, u'digital_watch', 0.28332683, u'iPod', 0.082798019, u'digital_clock', 0.050232898, u'Polaroid_camera', 0.037775215]
+[u'digital_clock', 0.15144794, u'packet', 0.1455254, u'book_jacket', 0.12775436, u'mailbox', 0.066260889, u'binder', 0.065349743]
+[u'whistle', 0.20188177, u'hair_slide', 0.11275534, u'screwdriver', 0.10623204, u'can_opener', 0.047788534, u"carpenter's_kit", 0.039351374]
+[u'slot', 0.28822011, u'abacus', 0.11094689, u'vending_machine', 0.083663851, u'monitor', 0.075093262, u'tray', 0.063509852]
+[u'library', 0.61663628, u'bookshop', 0.14761226, u'bookcase', 0.12035153, u'pencil_box', 0.019033752, u'binder', 0.01837242]
+[u'web_site', 0.24946572, u'envelope', 0.10610668, u'refrigerator', 0.072445363, u'binder', 0.026550651, u'sock', 0.021663709]

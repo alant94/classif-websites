@@ -1,0 +1,1 @@
+[u'mosquito_net', 0.22454871, u'fountain', 0.17859679, u'window_shade', 0.13421415, u'fireboat', 0.059473049, u'bannister', 0.042552728]

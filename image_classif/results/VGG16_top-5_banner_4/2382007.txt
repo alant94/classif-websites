@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.2343951, u'rubber_eraser', 0.17125472, u'envelope', 0.087773561, u'packet', 0.037809923, u'book_jacket', 0.036400549]
+[u'oil_filter', 0.7588774, u'milk_can', 0.063503861, u'book_jacket', 0.019544471, u'hair_spray', 0.018820552, u'water_bottle', 0.017533701]

@@ -1,0 +1,1 @@
+[u'syringe', 0.13397519, u'web_site', 0.058283761, u'matchstick', 0.039694346, u'analog_clock', 0.031776167, u'rule', 0.027499206]

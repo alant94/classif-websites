@@ -1,0 +1,3 @@
+[u'pickelhaube', 0.17381191, u'hoopskirt', 0.10776328, u'shield', 0.099769145, u'bulletproof_vest', 0.05219014, u'bonnet', 0.044245426]
+[u'church', 0.91550636, u'monastery', 0.053675372, u'dome', 0.0077978903, u'castle', 0.0072401036, u'mosque', 0.0070207561]
+[u'screwdriver', 0.46097115, u'ballpoint', 0.093447931, u"carpenter's_kit", 0.076142646, u'rule', 0.043656297, u'rubber_eraser', 0.040655952]

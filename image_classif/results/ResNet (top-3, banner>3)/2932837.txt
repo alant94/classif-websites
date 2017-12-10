@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.99014461, u'book_jacket', 0.0023625877, u'cash_machine', 0.0012852885]
+[u'panpipe', 0.86793363, u'marimba', 0.03902676, u'digital_watch', 0.011828439]
+[u'vestment', 0.66499168, u'lab_coat', 0.31191915, u'kimono', 0.0097540151]
+[u'medicine_chest', 0.26520011, u'bookshop', 0.19849579, u'tobacco_shop', 0.15848529]
+[u'remote_control', 0.1358262, u'switch', 0.11575776, u'digital_clock', 0.068242587]
+[u"potter's_wheel", 0.2757386, u'iron', 0.10996413, u'marimba', 0.090001501]

@@ -1,0 +1,8 @@
+[u'comic_book', 0.75413346, u'book_jacket', 0.096450299, u'web_site', 0.01647809]
+[u'fountain', 0.32501331, u'gas_pump', 0.046084072, u'picket_fence', 0.032856908]
+[u'screw', 0.13978797, u'nail', 0.095005155, u'jersey', 0.09250702]
+[u'pretzel', 0.88093996, u'starfish', 0.032445159, u'nematode', 0.023897631]
+[u'red_wine', 0.55650699, u'lipstick', 0.078268796, u'digital_clock', 0.049901593]
+[u'barn_spider', 0.078226864, u'spotlight', 0.044583078, u'nematode', 0.042121902]
+[u'water_buffalo', 0.63314629, u'ox', 0.20379908, u'oxcart', 0.071715973]
+[u'water_buffalo', 0.36308232, u'ibex', 0.28434235, u'warthog', 0.055860303]

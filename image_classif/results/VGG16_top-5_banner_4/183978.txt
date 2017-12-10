@@ -1,0 +1,5 @@
+[u'stage', 0.43150988, u'theater_curtain', 0.10964867, u'torch', 0.033038311, u'kimono', 0.025102064, u'accordion', 0.023970027]
+[u'matchstick', 0.097631976, u'digital_clock', 0.071012795, u'lighter', 0.041026916, u'spotlight', 0.03768358, u'traffic_light', 0.022440143]
+[u'restaurant', 0.46999705, u'shoe_shop', 0.22151811, u'barbershop', 0.09320388, u'hair_spray', 0.021389188, u'oboe', 0.016660735]
+[u'horizontal_bar', 0.66287744, u'parallel_bars', 0.2121757, u'volleyball', 0.10537209, u'balance_beam', 0.016968818, u'pole', 0.0022945469]
+[u'liner', 0.41415194, u'picket_fence', 0.097101443, u'palace', 0.079638824, u'dock', 0.042205844, u'submarine', 0.035565365]

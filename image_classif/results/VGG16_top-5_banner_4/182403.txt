@@ -1,0 +1,4 @@
+[u'web_site', 0.078483693, u'street_sign', 0.064672314, u'book_jacket', 0.0593183, u'analog_clock', 0.048062693, u'packet', 0.042242184]
+[u'rugby_ball', 0.26329914, u'volleyball', 0.25256091, u'tennis_ball', 0.24152702, u'ping-pong_ball', 0.060383484, u'soccer_ball', 0.032240756]
+[u'comic_book', 0.10713679, u'book_jacket', 0.083365075, u'packet', 0.054110259, u'jersey', 0.036303613, u'binder', 0.032922309]
+[u'jersey', 0.089848526, u'comic_book', 0.085577302, u'bathing_cap', 0.060846291, u'sweatshirt', 0.054172989, u'pick', 0.044566456]

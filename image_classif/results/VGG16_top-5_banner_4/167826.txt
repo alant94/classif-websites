@@ -1,0 +1,4 @@
+[u'trench_coat', 0.08377555, u'golf_ball', 0.057749752, u'suit', 0.049833987, u'abaya', 0.037602913, u'cloak', 0.029011341]
+[u'stage', 0.57615757, u'electric_guitar', 0.20959605, u'panpipe', 0.037023611, u'marimba', 0.023239842, u'feather_boa', 0.021552268]
+[u'suit', 0.38602623, u'golf_ball', 0.045159303, u'Loafer', 0.029804002, u'groom', 0.029549247, u'assault_rifle', 0.012990582]
+[u'book_jacket', 0.28709006, u'flagpole', 0.038290322, u'airship', 0.038077768, u'water_tower', 0.03472225, u'volcano', 0.032868173]

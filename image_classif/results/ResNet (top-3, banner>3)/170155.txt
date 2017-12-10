@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.7613247, u'knot', 0.035047945, u'chain', 0.028237479]
+[u'web_site', 0.10095158, u'binder', 0.05229244, u'red_wine', 0.043950196]

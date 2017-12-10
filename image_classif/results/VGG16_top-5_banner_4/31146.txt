@@ -1,0 +1,1 @@
+[u'lab_coat', 0.40493542, u'barbershop', 0.13120653, u'syringe', 0.036855005, u'spatula', 0.036371514, u'plate', 0.031783849]

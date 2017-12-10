@@ -1,0 +1,6 @@
+[u'cliff', 0.6544584, u'fountain', 0.13369088, u'valley', 0.032485273]
+[u'monitor', 0.44297558, u'screen', 0.12484754, u'television', 0.10640928]
+[u'umbrella', 0.33934104, u'shower_curtain', 0.092604406, u'paintbrush', 0.041691761]
+[u'rifle', 0.38347131, u'assault_rifle', 0.37264881, u'corkscrew', 0.022651503]
+[u'harp', 0.37520733, u'electric_fan', 0.16753334, u'spatula', 0.03707524]
+[u'fountain', 0.30056423, u'killer_whale', 0.11995981, u'scuba_diver', 0.1171843]

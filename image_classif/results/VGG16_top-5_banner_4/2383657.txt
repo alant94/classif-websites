@@ -1,0 +1,2 @@
+[u'barn', 0.41608581, u'worm_fence', 0.2069039, u'stone_wall', 0.06154345, u'dam', 0.051712956, u'maze', 0.021795338]
+[u'cleaver', 0.066018648, u'sunscreen', 0.056363776, u'face_powder', 0.042430449, u'pick', 0.032405414, u'iron', 0.032077935]

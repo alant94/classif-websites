@@ -1,0 +1,2 @@
+[u'toyshop', 0.95577514, u'mask', 0.015177207, u'confectionery', 0.01176312]
+[u'cannon', 0.42114478, u'punching_bag', 0.070058115, u'warplane', 0.046098497]

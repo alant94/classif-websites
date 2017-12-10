@@ -1,0 +1,4 @@
+[u'book_jacket', 0.66847777, u'comic_book', 0.211208, u'hook', 0.027800988]
+[u'pole', 0.9930287, u'paddle', 0.0032587755, u'plunger', 0.00060751068]
+[u'balance_beam', 0.49894598, u'bathing_cap', 0.10254733, u'ping-pong_ball', 0.080917321]
+[u'flute', 0.12610278, u'rifle', 0.12006091, u'hatchet', 0.10203216]

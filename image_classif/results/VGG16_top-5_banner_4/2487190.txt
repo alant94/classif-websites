@@ -1,0 +1,6 @@
+[u'Irish_water_spaniel', 0.80780387, u'curly-coated_retriever', 0.052858699, u'standard_poodle', 0.036108434, u'Bouvier_des_Flandres', 0.015783003, u'mink', 0.010273742]
+[u'tow_truck', 0.12700988, u'tractor', 0.082219057, u'pickup', 0.044072736, u'fire_engine', 0.036898959, u'garbage_truck', 0.03473125]
+[u'book_jacket', 0.3381483, u'web_site', 0.15645984, u'binder', 0.11271346, u'minibus', 0.047778662, u'ambulance', 0.046039924]
+[u'barrow', 0.1190479, u'shield', 0.10772681, u'canoe', 0.040117539, u'baseball', 0.036076892, u'oxcart', 0.03119153]
+[u'brass', 0.58476818, u'manhole_cover', 0.20090005, u'gong', 0.015230698, u'padlock', 0.014117758, u'megalith', 0.013607163]
+[u'crane', 0.19756739, u'pelican', 0.15279321, u'seashore', 0.1137815, u'mosque', 0.059510365, u'American_egret', 0.058659583]

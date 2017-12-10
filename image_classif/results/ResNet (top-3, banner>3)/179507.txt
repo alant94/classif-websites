@@ -1,0 +1,8 @@
+[u'web_site', 0.71745646, u'screen', 0.048713017, u'street_sign', 0.048302229]
+[u'shield', 0.47744569, u'web_site', 0.092054069, u'scabbard', 0.048557453]
+[u'street_sign', 0.2859596, u'book_jacket', 0.22960217, u'comic_book', 0.087374218]
+[u'baseball', 0.31354243, u'puck', 0.13844243, u'drum', 0.080041893]
+[u'digital_clock', 0.48361596, u'web_site', 0.06697724, u'analog_clock', 0.017370868]
+[u'web_site', 0.42494202, u'digital_clock', 0.21802269, u'digital_watch', 0.047976974]
+[u'web_site', 0.13333698, u'paintbrush', 0.033001643, u'Band_Aid', 0.027893867]
+[u'web_site', 0.21946768, u'Band_Aid', 0.17121428, u'street_sign', 0.10824714]

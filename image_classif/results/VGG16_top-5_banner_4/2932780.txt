@@ -1,0 +1,6 @@
+[u'bubble', 0.16516918, u'sunscreen', 0.13045576, u'ice_lolly', 0.088506378, u'Band_Aid', 0.077435166, u'ping-pong_ball', 0.059008751]
+[u'sandal', 0.19314755, u'clog', 0.12130423, u'spatula', 0.10926834, u'knee_pad', 0.056719813, u'brassiere', 0.04032905]
+[u'web_site', 0.73393846, u'book_jacket', 0.18253742, u'comic_book', 0.032243963, u'television', 0.011448588, u'screen', 0.0024558478]
+[u'book_jacket', 0.33407074, u'comic_book', 0.046570584, u'hair_spray', 0.035038453, u'whiskey_jug', 0.033119496, u'pill_bottle', 0.027145751]
+[u'iPod', 0.18034218, u'laptop', 0.096917912, u'screen', 0.084210128, u'desktop_computer', 0.055062242, u'notebook', 0.047014076]
+[u'lab_coat', 0.57078946, u'suit', 0.20078716, u'stethoscope', 0.086773477, u'Windsor_tie', 0.064502284, u'trench_coat', 0.038658634]

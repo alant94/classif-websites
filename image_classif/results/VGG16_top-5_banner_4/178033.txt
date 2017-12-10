@@ -1,0 +1,8 @@
+[u'microphone', 0.42976373, u'hair_spray', 0.25212541, u'stage', 0.21234632, u'cellular_telephone', 0.010924466, u'ping-pong_ball', 0.0074352808]
+[u'maypole', 0.73459059, u'unicycle', 0.1153399, u'military_uniform', 0.019302916, u'pole', 0.017883616, u'totem_pole', 0.016012419]
+[u'soccer_ball', 0.38179231, u'volleyball', 0.28792986, u'basketball', 0.17211583, u'rugby_ball', 0.046747644, u'torch', 0.030960632]
+[u'Windsor_tie', 0.17755985, u'book_jacket', 0.1485825, u'lab_coat', 0.14210397, u'suit', 0.13899097, u'bow_tie', 0.11677433]
+[u'kimono', 0.7063908, u'umbrella', 0.065760873, u'panpipe', 0.033576541, u'bow', 0.028389873, u'harp', 0.015413875]
+[u'altar', 0.20974731, u'comic_book', 0.085519053, u'vestment', 0.064738244, u'throne', 0.045923453, u'mask', 0.043432664]
+[u'swab', 0.33162302, u'grocery_store', 0.11035188, u'sarong', 0.093698375, u'butcher_shop', 0.073395394, u'stole', 0.042683877]
+[u'lab_coat', 0.63508707, u'restaurant', 0.096542798, u'groom', 0.066230178, u'plate', 0.021619961, u'candle', 0.019742051]

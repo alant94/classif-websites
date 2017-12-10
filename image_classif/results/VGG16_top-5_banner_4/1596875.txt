@@ -1,0 +1,4 @@
+[u'banjo', 0.28942075, u'gong', 0.24293768, u'drum', 0.054490499, u'chime', 0.039239183, u'shield', 0.024936188]
+[u'hog', 0.43580842, u'swimming_trunks', 0.10137059, u'bull_mastiff', 0.068124332, u'triceratops', 0.062254824, u'piggy_bank', 0.040695425]
+[u'swimming_trunks', 0.37309837, u'fur_coat', 0.22402635, u'bathing_cap', 0.083522342, u'chain_saw', 0.017748056, u'bikini', 0.016732154]
+[u'cash_machine', 0.096072741, u'space_shuttle', 0.073170163, u'shower_curtain', 0.058382787, u'monitor', 0.039862532, u'screen', 0.033550784]

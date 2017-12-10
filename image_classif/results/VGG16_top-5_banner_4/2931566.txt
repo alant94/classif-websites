@@ -1,0 +1,7 @@
+[u'Labrador_retriever', 0.65046179, u'golden_retriever', 0.097481884, u'Chesapeake_Bay_retriever', 0.060755391, u'kuvasz', 0.018556917, u'tennis_ball', 0.012284179]
+[u'web_site', 0.34196842, u'nail', 0.05467204, u'envelope', 0.038070083, u'hook', 0.033319626, u'book_jacket', 0.017246196]
+[u'stupa', 0.47268343, u'bell_cote', 0.30405033, u'monastery', 0.05731206, u'church', 0.032132171, u'chime', 0.014612728]
+[u'book_jacket', 0.077035971, u'sunscreen', 0.055718444, u'lotion', 0.036571831, u'hair_spray', 0.024825549, u'perfume', 0.024139587]
+[u'book_jacket', 0.085283823, u'envelope', 0.029678285, u'carton', 0.024697667, u'web_site', 0.022131333, u'sunscreen', 0.016334962]
+[u'tabby', 0.42636138, u'Egyptian_cat', 0.15872966, u'doormat', 0.043766122, u'dumbbell', 0.042068921, u'tiger_cat', 0.039750855]
+[u'Band_Aid', 0.14411868, u'lotion', 0.090126634, u'modem', 0.071943469, u'pill_bottle', 0.06555739, u'medicine_chest', 0.058178753]

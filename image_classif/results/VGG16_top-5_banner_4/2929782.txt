@@ -1,0 +1,2 @@
+[u'sunglasses', 0.5119409, u'sunglass', 0.39339039, u'lipstick', 0.006943434, u'wig', 0.0062646768, u'web_site', 0.0039629261]
+[u'tobacco_shop', 0.60666329, u'bookshop', 0.14876142, u'barbershop', 0.068057746, u'cinema', 0.064945124, u'pay-phone', 0.039901633]

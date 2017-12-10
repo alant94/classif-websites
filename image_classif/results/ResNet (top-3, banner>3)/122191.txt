@@ -1,0 +1,7 @@
+[u'airliner', 0.36984792, u'trailer_truck', 0.086632825, u'hand-held_computer', 0.061889187]
+[u'can_opener', 0.87271172, u'power_drill', 0.056181744, u'sewing_machine', 0.032667678]
+[u'container_ship', 0.33391204, u'whistle', 0.11722002, u'hair_spray', 0.054119963]
+[u'digital_watch', 0.10319901, u'packet', 0.080356292, u'switch', 0.066647254]
+[u'safe', 0.062740855, u'iPod', 0.05911541, u'beaker', 0.053335778]
+[u'skunk', 0.12292764, u'king_snake', 0.063470826, u'chain_saw', 0.055100203]
+[u'pole', 0.11295093, u'tripod', 0.074071571, u'spotlight', 0.073333681]

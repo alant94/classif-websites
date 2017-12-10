@@ -1,0 +1,4 @@
+[u'street_sign', 0.091475934, u'safety_pin', 0.075026214, u'hook', 0.049972773, u'envelope', 0.032608539, u'web_site', 0.031859178]
+[u'hook', 0.057791121, u'swab', 0.044172741, u'microphone', 0.044025294, u'vacuum', 0.034319811, u'envelope', 0.031354766]
+[u'nematode', 0.088883534, u'wall_clock', 0.077883966, u'rule', 0.032933611, u'envelope', 0.023732629, u'hook', 0.023325427]
+[u'nipple', 0.3199448, u'pill_bottle', 0.26656702, u'spotlight', 0.085941985, u'measuring_cup', 0.024902014, u'face_powder', 0.020328639]

@@ -1,0 +1,4 @@
+[u'geyser', 0.4581672, u'volcano', 0.24319713, u'steam_locomotive', 0.15574937]
+[u'apiary', 0.83400738, u'jigsaw_puzzle', 0.059809916, u'honeycomb', 0.044133421]
+[u'geyser', 0.45135871, u'cannon', 0.44664595, u'volcano', 0.07630121]
+[u'shield', 0.59836441, u'coffee_mug', 0.10806256, u'bucket', 0.078618683]

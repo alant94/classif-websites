@@ -1,0 +1,3 @@
+[u'comic_book', 0.68515849, u'electric_guitar', 0.025493423, u'pay-phone', 0.022880275]
+[u'toyshop', 0.32905626, u'lifeboat', 0.18316084, u'carousel', 0.11952902]
+[u'traffic_light', 0.66579247, u'harvester', 0.094835572, u'panpipe', 0.045124654]

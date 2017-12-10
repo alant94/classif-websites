@@ -1,0 +1,2 @@
+[u'comic_book', 0.28885508, u'tobacco_shop', 0.15617628, u'toyshop', 0.10405041, u'confectionery', 0.092315085, u'jigsaw_puzzle', 0.088682346]
+[u'screwdriver', 0.40893471, u'nail', 0.16453569, u'safety_pin', 0.097503878, u'screw', 0.047946543, u'rule', 0.0345456]

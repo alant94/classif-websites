@@ -1,0 +1,4 @@
+[u'accordion', 0.14025705, u'grand_piano', 0.10581535, u'lab_coat', 0.10433193]
+[u'miniskirt', 0.47368464, u'overskirt', 0.31549296, u'brassiere', 0.030585317]
+[u'palace', 0.97690839, u'mosque', 0.0040097972, u'church', 0.0037308219]
+[u'academic_gown', 0.13618581, u'abaya', 0.1194051, u'Sussex_spaniel', 0.087823577]

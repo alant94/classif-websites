@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.847709, u'red_wine', 0.11505737, u'corkscrew', 0.015271689]
+[u'patio', 0.35818425, u'sliding_door', 0.24252096, u'mobile_home', 0.23607212]
+[u'bubble', 0.21344176, u'pole', 0.059053104, u'beer_glass', 0.038290177]
+[u'web_site', 0.48450086, u'envelope', 0.21682553, u'guillotine', 0.0084094275]
+[u'lighter', 0.097221613, u'remote_control', 0.068736896, u'oil_filter', 0.048536018]

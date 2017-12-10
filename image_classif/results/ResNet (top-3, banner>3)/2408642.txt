@@ -1,0 +1,3 @@
+[u'wall_clock', 0.48473525, u'barometer', 0.30227396, u'chiffonier', 0.055814527]
+[u'can_opener', 0.35028815, u'space_shuttle', 0.10567074, u'plane', 0.064111553]
+[u'screwdriver', 0.10818943, u'web_site', 0.09429419, u'screen', 0.064285576]

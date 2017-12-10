@@ -1,0 +1,2 @@
+[u'quail', 0.50139707, u'partridge', 0.23898345, u'ruffed_grouse', 0.13154116]
+[u'window_screen', 0.091976583, u'beacon', 0.064375095, u'water_tower', 0.063333631]

@@ -1,0 +1,4 @@
+[u'wardrobe', 0.067768991, u'studio_couch', 0.044169169, u'Band_Aid', 0.03914284, u'face_powder', 0.035195913, u'envelope', 0.032262661]
+[u'geyser', 0.20334868, u'lakeside', 0.16757455, u'fountain', 0.15757236, u'valley', 0.038946144, u'bison', 0.028035114]
+[u'candle', 0.36354199, u'obelisk', 0.19239378, u'missile', 0.068173319, u'projectile', 0.043976229, u'matchstick', 0.043541141]
+[u'web_site', 0.99506736, u'screen', 0.00093832368, u'monitor', 0.0008957322, u'menu', 0.00056786538, u'hand-held_computer', 0.00034247644]

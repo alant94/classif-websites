@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.064041242, u'diaper', 0.062166341, u'desk', 0.052135643, u'wig', 0.040019747, u'medicine_chest', 0.03864954]
+[u'limousine', 0.35511312, u'tub', 0.28422382, u'bathtub', 0.13204469, u'toaster', 0.082857698, u'groom', 0.050163507]

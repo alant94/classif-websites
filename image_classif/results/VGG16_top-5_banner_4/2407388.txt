@@ -1,0 +1,1 @@
+[u'matchstick', 0.098105177, u'analog_clock', 0.081753105, u'lighter', 0.078925781, u'Band_Aid', 0.058892615, u'perfume', 0.030671919]

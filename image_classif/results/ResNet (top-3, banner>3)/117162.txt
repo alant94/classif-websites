@@ -1,0 +1,2 @@
+[u'racer', 0.4258579, u'stretcher', 0.22554377, u'sports_car', 0.14153756]
+[u'suit', 0.069676436, u'Windsor_tie', 0.03734171, u'lab_coat', 0.028853802]

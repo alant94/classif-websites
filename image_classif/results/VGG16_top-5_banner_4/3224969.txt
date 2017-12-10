@@ -1,0 +1,6 @@
+[u'envelope', 0.17301297, u'web_site', 0.142959, u'Band_Aid', 0.054518152, u'rule', 0.014330576, u'lighter', 0.013846099]
+[u'menu', 0.11530595, u'crossword_puzzle', 0.069340348, u'brass', 0.046765178, u'iPod', 0.038449556, u'web_site', 0.035684839]
+[u'jellyfish', 0.36549515, u'oscilloscope', 0.35605192, u'sea_anemone', 0.025139082, u"jack-o'-lantern", 0.024901021, u'nematode', 0.017758533]
+[u'file', 0.19899651, u'envelope', 0.084562019, u'web_site', 0.078993924, u'mousetrap', 0.064797282, u'whistle', 0.055756405]
+[u'street_sign', 0.17964149, u'book_jacket', 0.14927754, u'lighter', 0.083729289, u'binder', 0.070933037, u'modem', 0.054845847]
+[u'African_chameleon', 0.78916353, u'sock', 0.064577833, u'American_chameleon', 0.012655941, u'mitten', 0.012638115, u'jigsaw_puzzle', 0.010843012]

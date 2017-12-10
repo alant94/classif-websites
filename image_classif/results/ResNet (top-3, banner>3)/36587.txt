@@ -1,0 +1,3 @@
+[u'switch', 0.31020671, u'picket_fence', 0.24590465, u'lighter', 0.11324496]
+[u'comic_book', 0.46443129, u'book_jacket', 0.13982069, u'jersey', 0.053787313]
+[u'web_site', 0.97685337, u'hand-held_computer', 0.0073309811, u'menu', 0.0029875992]

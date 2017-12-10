@@ -1,0 +1,2 @@
+[u'barn', 0.77582937, u'church', 0.10126749, u'boathouse', 0.083567083, u'birdhouse', 0.0087122675, u'dome', 0.0048278212]
+[u'Saluki', 0.047403108, u'whippet', 0.04376683, u'Ibizan_hound', 0.040163025, u'window_shade', 0.040106282, u'book_jacket', 0.036332749]

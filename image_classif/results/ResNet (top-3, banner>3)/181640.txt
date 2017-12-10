@@ -1,0 +1,7 @@
+[u'hair_spray', 0.18660814, u'lab_coat', 0.11146829, u'wig', 0.097483128]
+[u'book_jacket', 0.2311434, u'barbershop', 0.13830228, u'comic_book', 0.050876141]
+[u'passenger_car', 0.13417451, u'digital_watch', 0.06609603, u'perfume', 0.064009249]
+[u'wall_clock', 0.46847239, u'analog_clock', 0.41791797, u'stopwatch', 0.038583826]
+[u'wig', 0.2835218, u'fountain', 0.08096122, u'suit', 0.0805865]
+[u'stage', 0.3011018, u'butcher_shop', 0.089002468, u'grocery_store', 0.0832996]
+[u'book_jacket', 0.60091859, u'comic_book', 0.23052387, u'Band_Aid', 0.015906882]

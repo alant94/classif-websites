@@ -1,0 +1,6 @@
+[u'mosque', 0.34355912, u'monastery', 0.33344364, u'church', 0.087206908, u'palace', 0.061643772, u'dome', 0.055362295]
+[u'wall_clock', 0.18568714, u'bell_cote', 0.076132484, u'safe', 0.060839862, u'analog_clock', 0.053061325, u'vault', 0.04522112]
+[u'altar', 0.19353046, u'theater_curtain', 0.16396342, u'cinema', 0.14594088, u'organ', 0.063404739, u'palace', 0.058009766]
+[u'altar', 0.77515244, u'throne', 0.14682555, u'bookcase', 0.027544722, u'organ', 0.012646276, u'chest', 0.0041154646]
+[u'throne', 0.30597711, u'buckle', 0.092905723, u'shield', 0.076639146, u'trombone', 0.059209269, u'fire_screen', 0.054316174]
+[u'vestment', 0.55025065, u'prayer_rug', 0.28103274, u'analog_clock', 0.035938449, u'wall_clock', 0.028167659, u'altar', 0.022382211]

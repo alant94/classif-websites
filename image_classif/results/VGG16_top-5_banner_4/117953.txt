@@ -1,0 +1,2 @@
+[u'chain_saw', 0.3689453, u'sandal', 0.071574077, u'lycaenid', 0.064459659, u'admiral', 0.046741825, u'rule', 0.021409571]
+[u'safety_pin', 0.23414372, u'shower_curtain', 0.19439782, u'perfume', 0.066212408, u'fountain', 0.06419608, u'ballpoint', 0.04154795]

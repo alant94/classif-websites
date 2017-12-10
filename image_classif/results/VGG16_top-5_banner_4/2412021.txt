@@ -1,0 +1,2 @@
+[u'envelope', 0.25556239, u'rule', 0.21133429, u'web_site', 0.06762936, u'whistle', 0.025520278, u'Band_Aid', 0.024293097]
+[u'tractor', 0.83107215, u'plow', 0.092229135, u'thresher', 0.044294834, u'harvester', 0.031232968, u'lawn_mower', 0.00042786551]

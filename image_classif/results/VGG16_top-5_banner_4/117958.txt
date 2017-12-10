@@ -1,0 +1,2 @@
+[u'volcano', 0.55180967, u'parachute', 0.14877202, u'alp', 0.050987206, u'balloon', 0.02885776, u'torch', 0.019052781]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

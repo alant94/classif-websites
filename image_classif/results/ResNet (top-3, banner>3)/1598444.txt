@@ -1,0 +1,6 @@
+[u'sarong', 0.21917684, u'maillot', 0.21787101, u'swimming_trunks', 0.18117641]
+[u'diaper', 0.19811516, u'piggy_bank', 0.12639578, u'swimming_trunks', 0.094951369]
+[u'flute', 0.099681824, u'maillot', 0.098164387, u"potter's_wheel", 0.064356782]
+[u'armadillo', 0.40020677, u'common_iguana', 0.2127291, u'triceratops', 0.092769846]
+[u'Italian_greyhound', 0.44092539, u'Weimaraner', 0.21334633, u'bikini', 0.17902195]
+[u'Indian_elephant', 0.33297479, u'tusker', 0.089688078, u'plunger', 0.039586633]

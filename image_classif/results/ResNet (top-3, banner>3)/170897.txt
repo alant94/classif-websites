@@ -1,0 +1,3 @@
+[u'throne', 0.36055547, u'vestment', 0.13750659, u'wall_clock', 0.087501414]
+[u'web_site', 0.77190328, u'television', 0.062470105, u'stopwatch', 0.020640159]
+[u'crossword_puzzle', 0.46664035, u'web_site', 0.087937757, u'quilt', 0.055158768]

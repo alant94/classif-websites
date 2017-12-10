@@ -1,0 +1,3 @@
+[u'sombrero', 0.27214158, u'cowboy_hat', 0.08968664, u'ear', 0.048563335]
+[u'corkscrew', 0.34344324, u'bow', 0.21730731, u'analog_clock', 0.16771434]
+[u'jersey', 0.2397273, u'tench', 0.035190817, u'bolete', 0.022701578]

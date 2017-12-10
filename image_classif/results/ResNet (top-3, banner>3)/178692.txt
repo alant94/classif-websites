@@ -1,0 +1,5 @@
+[u'electric_guitar', 0.37324303, u'acoustic_guitar', 0.22949399, u'stage', 0.17579444]
+[u'mortarboard', 0.25179371, u'poncho', 0.16008662, u'stole', 0.095528923]
+[u'abaya', 0.18833904, u'prayer_rug', 0.1204802, u'shovel', 0.033324711]
+[u'jigsaw_puzzle', 0.099221617, u'hook', 0.064861, u'wall_clock', 0.058035601]
+[u'window_shade', 0.60389137, u'window_screen', 0.20632195, u'monitor', 0.017960401]

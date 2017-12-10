@@ -1,0 +1,5 @@
+[u'loudspeaker', 0.25498945, u'feather_boa', 0.16261345, u'golf_ball', 0.080298834]
+[u'admiral', 0.43030879, u'indri', 0.24202608, u'goldfinch', 0.078034453]
+[u'tray', 0.29486263, u'television', 0.20372227, u'slot', 0.12814853]
+[u'screen', 0.24624452, u'pool_table', 0.07593894, u'binder', 0.051569752]
+[u'loudspeaker', 0.30368987, u'tripod', 0.13212152, u'book_jacket', 0.12142191]

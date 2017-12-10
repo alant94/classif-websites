@@ -1,0 +1,2 @@
+[u'school_bus', 0.32821879, u'bakery', 0.22711149, u'cab', 0.14837497, u'crane', 0.04263556, u'traffic_light', 0.028987657]
+[u'shoji', 0.60652345, u'window_screen', 0.091019914, u'sliding_door', 0.023338601, u'crossword_puzzle', 0.019587986, u'window_shade', 0.0079217264]

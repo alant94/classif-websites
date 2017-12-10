@@ -1,0 +1,5 @@
+[u'flagpole', 0.33667159, u'pinwheel', 0.046374489, u'space_shuttle', 0.043918483, u'parachute', 0.039059278, u'envelope', 0.035243213]
+[u'lotion', 0.42737791, u'perfume', 0.2165505, u'eggnog', 0.12286858, u'pill_bottle', 0.10605416, u'whiskey_jug', 0.082007192]
+[u'packet', 0.46102083, u'tray', 0.22125255, u'safety_pin', 0.067211226, u'pencil_box', 0.047251813, u'envelope', 0.038440663]
+[u'pick', 0.37701935, u'nematode', 0.034639545, u'abaya', 0.028378472, u'matchstick', 0.028033827, u'spotlight', 0.025592756]
+[u'loupe', 0.085912153, u'baseball', 0.082917035, u'jellyfish', 0.065955557, u'rugby_ball', 0.062970527, u'nematode', 0.056912769]

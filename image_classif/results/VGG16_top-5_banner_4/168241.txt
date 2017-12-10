@@ -1,0 +1,7 @@
+[u'theater_curtain', 0.5933938, u'stage', 0.12647465, u'bow_tie', 0.058167432, u'spotlight', 0.047143307, u'suit', 0.025712606]
+[u'scoreboard', 0.13228314, u'digital_clock', 0.11743232, u'book_jacket', 0.076888435, u'analog_clock', 0.038984228, u'comic_book', 0.032840457]
+[u'stage', 0.85327178, u'theater_curtain', 0.071846209, u'spotlight', 0.031871591, u'loudspeaker', 0.005007613, u'grand_piano', 0.0048288908]
+[u'academic_gown', 0.63271743, u'mortarboard', 0.35137865, u'suit', 0.0047391327, u'theater_curtain', 0.0036343501, u'wardrobe', 0.0015131223]
+[u'banjo', 0.23401925, u'slide_rule', 0.06502758, u'barometer', 0.062265281, u'sundial', 0.046243217, u'stupa', 0.036744121]
+[u'stage', 0.64863151, u'theater_curtain', 0.26769271, u'cinema', 0.0533465, u'marimba', 0.0076956628, u'home_theater', 0.0050785877]
+[u'envelope', 0.18854496, u'analog_clock', 0.094252206, u'digital_clock', 0.080470823, u'lighter', 0.042197485, u'perfume', 0.042144295]

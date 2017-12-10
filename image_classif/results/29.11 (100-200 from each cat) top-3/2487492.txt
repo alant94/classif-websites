@@ -1,0 +1,3 @@
+[u'theater_curtain', 0.48300663, u'broom', 0.10637958, u'corn', 0.078331217]
+[u'screen', 0.57348621, u'oscilloscope', 0.29721162, u'monitor', 0.044319231]
+[u'fountain', 0.64481932, u'lakeside', 0.16295564, u'geyser', 0.080326125]

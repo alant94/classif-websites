@@ -1,0 +1,4 @@
+[u'lab_coat', 0.97789681, u'Windsor_tie', 0.0029391537, u'stethoscope', 0.0023745243]
+[u'web_site', 0.45886406, u'envelope', 0.20582409, u'laptop', 0.039428744]
+[u'groom', 0.69103032, u'gown', 0.090657368, u'hair_spray', 0.013020363]
+[u'brassiere', 0.35457596, u'refrigerator', 0.05554894, u'bikini', 0.04357006]

@@ -1,0 +1,4 @@
+[u'guillotine', 0.28009328, u'neck_brace', 0.10611997, u'bubble', 0.10233565]
+[u'recreational_vehicle', 0.17094733, u'book_jacket', 0.12123975, u'cliff', 0.10363393]
+[u'fountain_pen', 0.84541482, u'ballpoint', 0.13422485, u'scabbard', 0.0085388795]
+[u'gondola', 0.28854942, u'lakeside', 0.10906053, u'castle', 0.10544714]

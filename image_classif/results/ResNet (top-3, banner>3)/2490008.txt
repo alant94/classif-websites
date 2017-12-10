@@ -1,0 +1,4 @@
+[u'wombat', 0.20031664, u'koala', 0.10689739, u'barbershop', 0.040569771]
+[u'web_site', 0.079115584, u'oscilloscope', 0.070259735, u'cleaver', 0.039543517]
+[u'ashcan', 0.22133203, u'coffee_mug', 0.15934545, u'water_bottle', 0.034376446]
+[u'barbershop', 0.92440528, u'syringe', 0.013013124, u'lab_coat', 0.010031215]

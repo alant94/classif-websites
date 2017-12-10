@@ -1,0 +1,8 @@
+[u'web_site', 0.23381935, u'flagpole', 0.095519595, u'street_sign', 0.073402569, u'hair_spray', 0.032934181, u'book_jacket', 0.024924703]
+[u'gasmask', 0.27852714, u'electric_fan', 0.18325458, u'vacuum', 0.094269052, u'oxygen_mask', 0.062870875, u'spotlight', 0.034119479]
+[u'forklift', 0.90601236, u'crane', 0.059198596, u'harvester', 0.024794558, u'thresher', 0.0054061683, u'garbage_truck', 0.0012582795]
+[u'gas_pump', 0.15227772, u'street_sign', 0.11888663, u'scoreboard', 0.1068529, u'iPod', 0.10186286, u'digital_clock', 0.067319945]
+[u'crutch', 0.37439844, u'swab', 0.33053532, u'umbrella', 0.014917593, u'fur_coat', 0.014672235, u'vestment', 0.010897242]
+[u'ski', 0.32103443, u'macaw', 0.31557956, u'swab', 0.10755091, u'shovel', 0.034269579, u'jean', 0.032197896]
+[u'pole', 0.24831003, u'horizontal_bar', 0.15160082, u'swing', 0.083660387, u'parallel_bars', 0.072743125, u'bow', 0.054027978]
+[u'stretcher', 0.087651998, u'torch', 0.087081678, u'maypole', 0.086306207, u'sleeping_bag', 0.057642922, u'mortarboard', 0.048652221]

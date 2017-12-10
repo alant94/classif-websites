@@ -1,0 +1,5 @@
+[u'triumphal_arch', 0.34627298, u'vestment', 0.21820842, u'monastery', 0.056051619]
+[u'tripod', 0.21414596, u'lighter', 0.11252395, u'can_opener', 0.097956806]
+[u'web_site', 0.77276641, u'bannister', 0.011963745, u'sax', 0.0067291153]
+[u'grand_piano', 0.94766498, u'marimba', 0.014694935, u'panpipe', 0.0098203076]
+[u'web_site', 0.63594055, u'television', 0.022260409, u'digital_clock', 0.010661346]

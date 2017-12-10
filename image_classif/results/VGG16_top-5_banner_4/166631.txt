@@ -1,0 +1,2 @@
+[u'torch', 0.28750652, u'electric_guitar', 0.099345386, u'stage', 0.046176527, u'jellyfish', 0.042523138, u'triceratops', 0.035735134]
+[u'teapot', 0.28749779, u'table_lamp', 0.1836611, u'caldron', 0.17290013, u'lampshade', 0.081707835, u'candle', 0.043953359]

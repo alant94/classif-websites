@@ -1,0 +1,1 @@
+[u'sports_car', 0.37343493, u'racer', 0.30190533, u'car_wheel', 0.082182959, u'forklift', 0.050480299, u'lifeboat', 0.019308023]

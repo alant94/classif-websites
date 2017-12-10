@@ -1,0 +1,6 @@
+[u'Petri_dish', 0.30407137, u'daisy', 0.17932975, u'hourglass', 0.16745047, u'safety_pin', 0.076131597, u'plate_rack', 0.059852023]
+[u'nematode', 0.35861069, u'buckle', 0.099034615, u'Petri_dish', 0.035399139, u'hair_slide', 0.035155665, u'thimble', 0.020976586]
+[u'oscilloscope', 0.44260788, u'monitor', 0.12082296, u'freight_car', 0.076590851, u'mosque', 0.043807525, u'spotlight', 0.035285402]
+[u'matchstick', 0.40380034, u'candle', 0.13207221, u'balloon', 0.088485435, u'honeycomb', 0.02260532, u'torch', 0.022545081]
+[u'fountain', 0.19815697, u'dome', 0.17114991, u'water_bottle', 0.13624105, u'vase', 0.096321322, u'bubble', 0.054378696]
+[u'brass', 0.3264159, u'book_jacket', 0.27535906, u'cliff', 0.13353798, u'cliff_dwelling', 0.053246357, u'monastery', 0.043688498]

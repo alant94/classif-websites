@@ -1,0 +1,5 @@
+[u'wall_clock', 0.15280099, u'envelope', 0.028872579, u'parachute', 0.026410747, u'Windsor_tie', 0.018140497, u'hook', 0.01643697]
+[u'Arabian_camel', 0.22774227, u'llama', 0.13067865, u'triceratops', 0.089441448, u'hog', 0.068016537, u'Angora', 0.053065788]
+[u'Yorkshire_terrier', 0.1352672, u'Shih-Tzu', 0.11827105, u'Pekinese', 0.071273431, u'wig', 0.066139176, u'Lhasa', 0.050832558]
+[u'stage', 0.14150991, u'groom', 0.084120154, u'television', 0.076983474, u'spotlight', 0.073957086, u'cinema', 0.066241927]
+[u'menu', 0.57584316, u'web_site', 0.28386855, u'hand-held_computer', 0.033314865, u'slot', 0.031435996, u'television', 0.012735192]

@@ -1,0 +1,2 @@
+[u'panpipe', 0.21166019, u'traffic_light', 0.071769401, u'analog_clock', 0.07060492]
+[u'digital_clock', 0.14352806, u'pole', 0.1249647, u'tripod', 0.12163099]

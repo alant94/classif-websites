@@ -1,0 +1,3 @@
+[u'hamper', 0.89396262, u'shopping_basket', 0.02911263, u'pot', 0.013906718, u'crate', 0.01076276, u'carton', 0.0081294943]
+[u'wardrobe', 0.61283815, u'yurt', 0.043968584, u'vestment', 0.033082135, u'restaurant', 0.020660901, u'abaya', 0.019907556]
+[u'moped', 0.50595933, u'motor_scooter', 0.11695263, u'unicycle', 0.077047423, u'crash_helmet', 0.058219709, u'mountain_bike', 0.031258322]

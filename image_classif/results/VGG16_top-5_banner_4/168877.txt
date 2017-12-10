@@ -1,0 +1,4 @@
+[u'envelope', 0.15163356, u'web_site', 0.070596062, u'cleaver', 0.013585556, u'Windsor_tie', 0.013182949, u'nail', 0.012741292]
+[u'wig', 0.081111155, u'neck_brace', 0.067317165, u'carousel', 0.053911239, u'swing', 0.038614754, u'tripod', 0.024727704]
+[u'tobacco_shop', 0.31459576, u'vending_machine', 0.086907499, u'slot', 0.045183025, u'shoe_shop', 0.040763058, u'scoreboard', 0.039618839]
+[u'web_site', 0.24373302, u'fur_coat', 0.044704743, u'hair_spray', 0.033961035, u'comic_book', 0.027918981, u'gown', 0.025648072]

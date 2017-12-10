@@ -1,0 +1,3 @@
+[u'joystick', 0.65745348, u'remote_control', 0.11996102, u'gasmask', 0.039561585]
+[u'balance_beam', 0.30736282, u'rule', 0.19241484, u'wardrobe', 0.060421079]
+[u'web_site', 0.79836547, u'menu', 0.16232947, u'Band_Aid', 0.0051715383]

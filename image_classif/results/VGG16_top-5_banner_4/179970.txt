@@ -1,0 +1,1 @@
+[u'timber_wolf', 0.26957095, u'coyote', 0.22308652, u'ibex', 0.107163, u'red_wolf', 0.075568907, u'white_wolf', 0.070159346]

@@ -1,0 +1,2 @@
+[u'guillotine', 0.69086504, u'park_bench', 0.095103852, u'digital_clock', 0.051025327]
+[u'book_jacket', 0.21380347, u'hair_spray', 0.087952457, u'web_site', 0.047560796]

@@ -1,0 +1,7 @@
+[u'web_site', 0.39048064, u'home_theater', 0.035718713, u'television', 0.031471975]
+[u'web_site', 0.48330039, u'stopwatch', 0.079194725, u'television', 0.040856577]
+[u'iPod', 0.96495181, u'screen', 0.010598063, u'hand-held_computer', 0.0067769405]
+[u'digital_clock', 0.20200287, u'analog_clock', 0.11657885, u'traffic_light', 0.094090775]
+[u'iPod', 0.44337383, u'screen', 0.15418485, u'monitor', 0.12709853]
+[u'hand-held_computer', 0.44846046, u'iPod', 0.23439489, u'radio', 0.10337496]
+[u'cellular_telephone', 0.27005291, u'web_site', 0.20033997, u'stopwatch', 0.088278092]

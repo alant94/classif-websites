@@ -1,0 +1,4 @@
+[u'ballpoint', 0.36140564, u'rubber_eraser', 0.15722111, u'chime', 0.10363405]
+[u'digital_clock', 0.52620941, u'picket_fence', 0.16606906, u'web_site', 0.11259235]
+[u'ballplayer', 0.93394041, u'scoreboard', 0.05855225, u'baseball', 0.0057816175]
+[u'book_jacket', 0.26993456, u'comic_book', 0.14469448, u'analog_clock', 0.10440739]

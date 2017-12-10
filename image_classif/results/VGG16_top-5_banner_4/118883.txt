@@ -1,0 +1,1 @@
+[u'candle', 0.49464995, u'torch', 0.048189044, u'matchstick', 0.035551067, u'paintbrush', 0.027361408, u'perfume', 0.023392821]

@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'ballpoint', 0.49262455, u'fountain_pen', 0.17282066, u'rubber_eraser', 0.15673973]
+[u'book_jacket', 0.41684911, u'picket_fence', 0.088778198, u'oscilloscope', 0.069985829]
+[u'book_jacket', 0.22393142, u'comic_book', 0.12625946, u'web_site', 0.082364015]
+[u'web_site', 0.64721364, u'envelope', 0.043296047, u'cash_machine', 0.023197392]

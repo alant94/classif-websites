@@ -1,0 +1,2 @@
+[u'book_jacket', 0.14580807, u'jersey', 0.1437289, u"jack-o'-lantern", 0.084970698, u'analog_clock', 0.033419449, u'shield', 0.025827568]
+[u'screwdriver', 0.59183633, u"carpenter's_kit", 0.12563066, u'ballpoint', 0.076710984, u'lipstick', 0.020063309, u'rubber_eraser', 0.019739771]

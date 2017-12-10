@@ -1,0 +1,5 @@
+[u'picket_fence', 0.23230362, u'bannister', 0.20821337, u'web_site', 0.1117143]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'bannister', 0.16764836, u'web_site', 0.11860464, u'picket_fence', 0.1017101]
+[u'picket_fence', 0.21420826, u'web_site', 0.1215173, u'bannister', 0.092079885]
+[u'whistle', 0.62193519, u'web_site', 0.070198834, u'digital_watch', 0.051791541]

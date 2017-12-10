@@ -1,0 +1,4 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'traffic_light', 0.17941931, u'book_jacket', 0.16718823, u'analog_clock', 0.14005877]
+[u'laptop', 0.37012109, u'iPod', 0.17671396, u'envelope', 0.11384413]
+[u'binder', 0.10286488, u'web_site', 0.094728157, u'digital_clock', 0.051502191]

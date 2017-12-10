@@ -1,0 +1,3 @@
+[u'web_site', 0.34265408, u'cash_machine', 0.13222945, u'refrigerator', 0.131046, u'monitor', 0.05214693, u'screen', 0.044613887]
+[u'wardrobe', 0.11082628, u'binder', 0.057427801, u'lighter', 0.046230294, u'envelope', 0.040050864, u'sliding_door', 0.03481422]
+[u'envelope', 0.47342414, u'web_site', 0.1887207, u'cash_machine', 0.03165374, u'Band_Aid', 0.022758037, u'analog_clock', 0.014190071]

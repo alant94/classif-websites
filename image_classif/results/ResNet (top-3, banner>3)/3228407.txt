@@ -1,0 +1,6 @@
+[u'honeycomb', 0.076548308, u'drum', 0.074396513, u'bubble', 0.074182339]
+[u'flagpole', 0.96411306, u'palace', 0.018750267, u'maypole', 0.0020707608]
+[u'digital_clock', 0.13308814, u'suspension_bridge', 0.1163906, u'fountain', 0.10745405]
+[u'loupe', 0.43437526, u'hook', 0.070208788, u'toilet_seat', 0.062207293]
+[u'book_jacket', 0.50310028, u'brass', 0.15599327, u'street_sign', 0.11420768]
+[u'hook', 0.044854037, u'soap_dispenser', 0.039610397, u'jersey', 0.033856552]

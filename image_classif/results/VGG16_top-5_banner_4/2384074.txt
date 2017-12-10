@@ -1,0 +1,3 @@
+[u'wall_clock', 0.033915978, u'envelope', 0.029509893, u'dishwasher', 0.025660399, u'washer', 0.018289277, u'refrigerator', 0.013035723]
+[u'oscilloscope', 0.18965384, u'ballpoint', 0.089055568, u'lighter', 0.057193872, u'digital_watch', 0.028017061, u'shower_curtain', 0.026890736]
+[u'envelope', 0.15200926, u'magnetic_compass', 0.070770673, u'nematode', 0.038603876, u'tricycle', 0.038409244, u'hook', 0.037744965]

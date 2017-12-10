@@ -1,0 +1,6 @@
+[u'stole', 0.26360157, u'shower_curtain', 0.051921993, u'totem_pole', 0.04587863, u'harp', 0.043153826, u'jean', 0.040937826]
+[u'groom', 0.13329199, u'bow_tie', 0.12827688, u'suit', 0.11971313, u'abaya', 0.10111456, u'wardrobe', 0.07733766]
+[u'book_jacket', 0.15863353, u'catamaran', 0.11048423, u'schooner', 0.10109078, u'umbrella', 0.074182466, u'sarong', 0.056205641]
+[u'patio', 0.26545385, u'pot', 0.070851073, u'fountain', 0.057214472, u'picket_fence', 0.035388544, u'stupa', 0.028860312]
+[u'doormat', 0.48642796, u'packet', 0.13634153, u'mitten', 0.062041216, u'wool', 0.039582249, u'matchstick', 0.032628354]
+[u'sax', 0.18477322, u'shower_curtain', 0.11633369, u'lab_coat', 0.10390977, u'oboe', 0.055671744, u'flute', 0.050321713]

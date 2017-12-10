@@ -1,0 +1,2 @@
+[u'bow', 0.066973679, u'cliff', 0.063352495, u'swing', 0.050446477, u'wild_boar', 0.029331341, u'Walker_hound', 0.02669717]
+[u'whippet', 0.13801879, u'English_setter', 0.12350751, u'Ibizan_hound', 0.097887807, u'Great_Dane', 0.089096338, u'English_foxhound', 0.086955175]

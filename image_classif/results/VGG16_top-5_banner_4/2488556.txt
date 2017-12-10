@@ -1,0 +1,4 @@
+[u'tusker', 0.39133275, u'American_black_bear', 0.094456919, u'water_buffalo', 0.0784408, u'wild_boar', 0.04529893, u'Indian_elephant', 0.031674065]
+[u'dogsled', 0.50852603, u'bighorn', 0.13717671, u'ram', 0.08688686, u'Eskimo_dog', 0.056043774, u'wild_boar', 0.049133793]
+[u'hornbill', 0.1726869, u'toucan', 0.12456214, u'chimpanzee', 0.027764363, u'black_stork', 0.026142683, u'black-and-tan_coonhound', 0.025110943]
+[u'plow', 0.63162458, u'ox', 0.045305375, u'mountain_bike', 0.045227021, u'horse_cart', 0.034763511, u'oxcart', 0.024784701]

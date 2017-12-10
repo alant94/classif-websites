@@ -1,0 +1,2 @@
+[u'solar_dish', 0.25206998, u'isopod', 0.10467038, u'space_shuttle', 0.044193611]
+[u'solar_dish', 0.087083519, u'isopod', 0.083681777, u'electric_ray', 0.071207456]

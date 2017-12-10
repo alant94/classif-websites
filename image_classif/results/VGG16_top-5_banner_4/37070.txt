@@ -1,0 +1,4 @@
+[u'envelope', 0.070237793, u'shower_curtain', 0.040680882, u'toilet_seat', 0.036625784, u'washbasin', 0.03056521, u'tray', 0.020624535]
+[u'traffic_light', 0.22724235, u'crane', 0.07258787, u'bell_cote', 0.053448599, u'street_sign', 0.052701212, u'cinema', 0.052597504]
+[u'Band_Aid', 0.21971804, u'digital_clock', 0.13579188, u'street_sign', 0.11249594, u'scoreboard', 0.10085485, u'envelope', 0.026918491]
+[u'envelope', 0.094829455, u'velvet', 0.031657364, u'wall_clock', 0.030501841, u'shower_curtain', 0.024493564, u'washbasin', 0.017662266]

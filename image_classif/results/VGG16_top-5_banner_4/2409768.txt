@@ -1,0 +1,5 @@
+[u'bell_pepper', 0.087552272, u'hotdog', 0.057476278, u'packet', 0.054997925, u'cockroach', 0.051704656, u'refrigerator', 0.047933299]
+[u'padlock', 0.42782304, u'chain_saw', 0.098652236, u'packet', 0.048488617, u'hamper', 0.045067798, u'spatula', 0.042040028]
+[u'ice_cream', 0.24096698, u'ice_lolly', 0.20287468, u'cucumber', 0.19017172, u'plate', 0.059661143, u'bell_pepper', 0.05785]
+[u'coffee_mug', 0.1118466, u'jersey', 0.040690422, u'water_tower', 0.03301302, u'comic_book', 0.027314063, u'bucket', 0.024611404]
+[u'conch', 0.24861921, u'chambered_nautilus', 0.081717074, u'plate', 0.047876924, u'king_crab', 0.03751808, u'Dungeness_crab', 0.030596292]

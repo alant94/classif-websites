@@ -1,0 +1,3 @@
+[u'screw', 0.080863543, u'nematode', 0.04529424, u'cornet', 0.040469386]
+[u'comic_book', 0.24797378, u'web_site', 0.096006386, u'hatchet', 0.058868021]
+[u'vending_machine', 0.90098333, u'slot', 0.092357606, u'web_site', 0.0021360957]

@@ -1,0 +1,2 @@
+[u'streetcar', 0.10116752, u'forklift', 0.067590371, u'garbage_truck', 0.066364303, u'trolleybus', 0.056039684, u'fire_engine', 0.05339165]
+[u'freight_car', 0.10209756, u'horse_cart', 0.090252697, u'barrel', 0.081496485, u'steam_locomotive', 0.047407791, u'rain_barrel', 0.040694226]

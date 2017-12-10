@@ -1,0 +1,3 @@
+[u'container_ship', 0.7540071, u'seashore', 0.049931254, u'jigsaw_puzzle', 0.019649182, u'wreck', 0.010797963, u'lifeboat', 0.0097842216]
+[u'pencil_sharpener', 0.80550778, u'saltshaker', 0.047689974, u'piggy_bank', 0.017053364, u'toilet_tissue', 0.016821718, u'maraca', 0.01117891]
+[u'traffic_light', 0.89072466, u'crane', 0.017199369, u'bell_cote', 0.010977529, u'street_sign', 0.010276414, u'airship', 0.0087358225]

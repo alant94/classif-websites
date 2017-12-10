@@ -1,0 +1,4 @@
+[u'bell_cote', 0.073481239, u'monastery', 0.067104869, u'maze', 0.038287669, u'cloak', 0.029606756, u'trench_coat', 0.027872903]
+[u'brass', 0.31480402, u'book_jacket', 0.12917221, u'menu', 0.12825881, u'scoreboard', 0.071322776, u'packet', 0.045451902]
+[u'switch', 0.39400792, u'modem', 0.083450466, u'projector', 0.05444685, u'mousetrap', 0.050532643, u'pencil_sharpener', 0.038031276]
+[u'guillotine', 0.28933844, u'binder', 0.11809861, u'table_lamp', 0.067882903, u'wallet', 0.04497084, u'loupe', 0.042624239]

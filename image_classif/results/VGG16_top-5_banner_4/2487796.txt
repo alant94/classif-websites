@@ -1,0 +1,4 @@
+[u'restaurant', 0.57316428, u'throne', 0.12235372, u'pool_table', 0.047364719, u'barber_chair', 0.028360095, u'grand_piano', 0.024089132]
+[u'boathouse', 0.4003599, u'patio', 0.083537593, u'birdhouse', 0.077491716, u'barn', 0.067268848, u'rain_barrel', 0.059027299]
+[u'brass', 0.21058454, u'geyser', 0.20962615, u'mobile_home', 0.092637278, u'alp', 0.061596043, u'lakeside', 0.048614502]
+[u'cockroach', 0.28370756, u'tick', 0.21285141, u'crayfish', 0.20643845, u'American_lobster', 0.057294786, u'scorpion', 0.040645916]

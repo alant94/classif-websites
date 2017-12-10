@@ -1,0 +1,6 @@
+[u'wall_clock', 0.11971448, u'screw', 0.057766274, u'nail', 0.038825642, u'mortarboard', 0.038337339, u'jersey', 0.037623268]
+[u'gas_pump', 0.18102464, u'shield', 0.09960568, u'fire_engine', 0.073682621, u'lighter', 0.052330889, u'throne', 0.037377145]
+[u'toilet_tissue', 0.41428816, u'paper_towel', 0.14253099, u'golf_ball', 0.042443842, u'tennis_ball', 0.01832311, u'soccer_ball', 0.013243087]
+[u'guillotine', 0.040444363, u'monitor', 0.037288029, u'flagpole', 0.026981017, u'street_sign', 0.026975486, u'screen', 0.025709521]
+[u'matchstick', 0.054145493, u'nematode', 0.036993947, u'lighter', 0.022844641, u'digital_clock', 0.021288399, u'spotlight', 0.017851666]
+[u'bell_cote', 0.11748872, u'analog_clock', 0.03899293, u'beacon', 0.037604239, u'street_sign', 0.033711694, u'church', 0.031030824]

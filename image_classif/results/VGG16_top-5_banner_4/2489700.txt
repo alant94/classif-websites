@@ -1,0 +1,2 @@
+[u'web_site', 0.71925968, u'menu', 0.043812256, u'envelope', 0.0075883474, u'proboscis_monkey', 0.0069193719, u'book_jacket', 0.0054421257]
+[u'syringe', 0.081716307, u'picket_fence', 0.075378112, u'prison', 0.069015928, u'window_screen', 0.056408074, u'palace', 0.053836923]

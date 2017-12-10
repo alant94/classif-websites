@@ -1,0 +1,7 @@
+[u'web_site', 0.41428563, u'book_jacket', 0.093346901, u'envelope', 0.06233795, u'cash_machine', 0.04226128, u'Band_Aid', 0.027526626]
+[u'cuirass', 0.094574414, u'breastplate', 0.091604672, u'Kerry_blue_terrier', 0.075496167, u'whiskey_jug', 0.050677367, u'bulletproof_vest', 0.048821263]
+[u'bakery', 0.86803037, u'rotisserie', 0.077255219, u'bagel', 0.016642826, u'pretzel', 0.013670966, u'fountain', 0.0027691931]
+[u'monastery', 0.065448925, u'altar', 0.05274434, u'dam', 0.052335676, u'snowplow', 0.051099584, u'lumbermill', 0.050153609]
+[u'rubber_eraser', 0.61912358, u'balloon', 0.12296191, u'whistle', 0.026929868, u'pill_bottle', 0.019115031, u'pop_bottle', 0.01757466]
+[u'envelope', 0.029426573, u'wall_clock', 0.015489714, u'cleaver', 0.012914839, u'hourglass', 0.0095196292, u'switch', 0.009050291]
+[u'parachute', 0.055784754, u'puck', 0.037209775, u'balloon', 0.028116986, u'matchstick', 0.025029525, u'hook', 0.022831006]

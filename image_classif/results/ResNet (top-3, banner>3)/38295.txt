@@ -1,0 +1,4 @@
+[u'can_opener', 0.25934634, u'spotlight', 0.23053062, u'iPod', 0.10109966]
+[u'soccer_ball', 0.24876209, u'volleyball', 0.10921909, u'analog_clock', 0.10731824]
+[u'Band_Aid', 0.35330439, u'iPod', 0.23161276, u'beaker', 0.1547849]
+[u'digital_clock', 0.99267137, u'oscilloscope', 0.0015158177, u'digital_watch', 0.0011363165]

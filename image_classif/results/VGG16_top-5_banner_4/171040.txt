@@ -1,0 +1,4 @@
+[u'marimba', 0.60506433, u'bow', 0.069501117, u'steel_drum', 0.054003261, u'broom', 0.027713714, u'bearskin', 0.018493271]
+[u'electric_guitar', 0.12756035, u"carpenter's_kit", 0.1034204, u'book_jacket', 0.075663038, u'letter_opener', 0.039620996, u'ski', 0.039298303]
+[u'syringe', 0.17671543, u'fountain_pen', 0.13111091, u'crossword_puzzle', 0.076501191, u'quill', 0.062304195, u'binder', 0.040119223]
+[u'measuring_cup', 0.18929012, u'envelope', 0.1674047, u'tray', 0.063151099, u'binder', 0.055258811, u'monitor', 0.048150152]

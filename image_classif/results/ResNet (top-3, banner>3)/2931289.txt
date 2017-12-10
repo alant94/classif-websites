@@ -1,0 +1,5 @@
+[u'coil', 0.83403128, u'buckle', 0.032935996, u'lighter', 0.029894451]
+[u'broccoli', 0.20068997, u'jigsaw_puzzle', 0.072701275, u'custard_apple', 0.055660971]
+[u'web_site', 0.48084664, u'book_jacket', 0.10936975, u'loupe', 0.035206776]
+[u'marimba', 0.20802744, u"potter's_wheel", 0.13997944, u'jean', 0.11637187]
+[u'desk', 0.20162101, u'television', 0.071161345, u'web_site', 0.067794114]

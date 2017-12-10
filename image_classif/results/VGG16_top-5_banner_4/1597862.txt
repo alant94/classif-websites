@@ -1,0 +1,6 @@
+[u'diaper', 0.073503569, u'crossword_puzzle', 0.060548421, u'bow_tie', 0.031857215, u'seat_belt', 0.031589366, u'hair_spray', 0.028464342]
+[u'diaper', 0.090410665, u'remote_control', 0.082782522, u'sleeping_bag', 0.073400274, u'bath_towel', 0.038872261, u'shower_cap', 0.032252431]
+[u'neck_brace', 0.33749977, u'knee_pad', 0.21914141, u'bulletproof_vest', 0.084071964, u'crash_helmet', 0.058247447, u'dumbbell', 0.033534359]
+[u'gown', 0.15236524, u'miniskirt', 0.13782483, u'maillot', 0.10934548, u'pajama', 0.10337015, u'four-poster', 0.078991935]
+[u'dumbbell', 0.27203226, u'swimming_trunks', 0.16436064, u'diaper', 0.1191627, u'maillot', 0.074506134, u'brassiere', 0.058640596]
+[u'maillot', 0.38607627, u'maillot', 0.31278771, u'shower_curtain', 0.067016393, u'swimming_trunks', 0.033606458, u'bathing_cap', 0.025126595]

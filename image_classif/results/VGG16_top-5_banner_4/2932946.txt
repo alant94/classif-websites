@@ -1,0 +1,5 @@
+[u'lab_coat', 0.19903125, u'pajama', 0.19595172, u'groom', 0.13193583, u'kimono', 0.11313701, u'gown', 0.039217204]
+[u'butcher_shop', 0.27583417, u'web_site', 0.1802077, u'lab_coat', 0.06867516, u'stole', 0.066717252, u'cleaver', 0.059919249]
+[u'bell_cote', 0.089110024, u'abaya', 0.049197342, u'analog_clock', 0.038840637, u'sax', 0.021222413, u'crane', 0.017856702]
+[u'cash_machine', 0.077569574, u'street_sign', 0.060147524, u'scale', 0.027398407, u'binder', 0.021228854, u'vacuum', 0.018495917]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

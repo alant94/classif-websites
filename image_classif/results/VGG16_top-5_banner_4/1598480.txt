@@ -1,0 +1,2 @@
+[u'iPod', 0.14115141, u'wallet', 0.13067675, u'envelope', 0.094693929, u'screen', 0.065990925, u'television', 0.0496681]
+[u'toyshop', 0.35915506, u'monitor', 0.18369125, u'screen', 0.072297037, u'television', 0.069466732, u'home_theater', 0.056315567]

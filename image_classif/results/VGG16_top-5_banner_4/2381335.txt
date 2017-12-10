@@ -1,0 +1,2 @@
+[u'digital_clock', 0.57882774, u'digital_watch', 0.048620891, u'scoreboard', 0.016208526, u'wall_clock', 0.013797718, u'Band_Aid', 0.012853039]
+[u'digital_clock', 0.53095394, u'maze', 0.081154175, u'street_sign', 0.067777954, u'traffic_light', 0.034811944, u'scoreboard', 0.030253664]

@@ -1,0 +1,8 @@
+[u'ski', 0.65313923, u'wardrobe', 0.27677369, u'bow', 0.0090985531, u'quill', 0.0076796059, u'letter_opener', 0.0076268665]
+[u'book_jacket', 0.77062643, u'cash_machine', 0.039217308, u'comic_book', 0.016939422, u'vending_machine', 0.010800379, u'scoreboard', 0.010308551]
+[u'gown', 0.31523615, u'pajama', 0.11854366, u'miniskirt', 0.084941894, u'brassiere', 0.063205317, u'bikini', 0.058072742]
+[u'envelope', 0.12551865, u'web_site', 0.066208147, u'wardrobe', 0.063849404, u'hook', 0.029766671, u'abaya', 0.02391476]
+[u'brassiere', 0.15539885, u'bulletproof_vest', 0.15348034, u'maillot', 0.15248081, u'cuirass', 0.074594468, u'breastplate', 0.036914106]
+[u'maillot', 0.32123652, u'bikini', 0.18209662, u'brassiere', 0.1818592, u'fur_coat', 0.057458915, u'crutch', 0.037838515]
+[u'pajama', 0.29334146, u'wardrobe', 0.13898396, u'jean', 0.10166277, u'miniskirt', 0.083430111, u'bath_towel', 0.0550186]
+[u'brass', 0.53049022, u'shield', 0.10016587, u'barrel', 0.095926858, u'binoculars', 0.029741647, u'gong', 0.023153873]

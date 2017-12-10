@@ -1,0 +1,4 @@
+[u'beer_glass', 0.80710465, u'espresso', 0.14978981, u'goblet', 0.010706613, u'cup', 0.010247302, u'beer_bottle', 0.0088972645]
+[u'hair_spray', 0.34193367, u'pill_bottle', 0.17604409, u'beer_glass', 0.035233472, u'sunscreen', 0.034665171, u'eggnog', 0.032653794]
+[u'paddle', 0.17294718, u'pole', 0.095155701, u'sarong', 0.049585465, u'maillot', 0.034980562, u'Band_Aid', 0.028332418]
+[u'hair_spray', 0.418075, u'panpipe', 0.10325576, u'comic_book', 0.085922323, u'stage', 0.059184175, u'microphone', 0.058730375]

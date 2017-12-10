@@ -1,0 +1,2 @@
+[u'thunder_snake', 0.80840808, u'scorpion', 0.022889815, u'tick', 0.017923774]
+[u'comic_book', 0.28135261, u'book_jacket', 0.13399886, u'can_opener', 0.083846226]

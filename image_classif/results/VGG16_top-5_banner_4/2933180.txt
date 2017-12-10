@@ -1,0 +1,1 @@
+[u'sweatshirt', 0.30834255, u'mortarboard', 0.10864028, u'cardigan', 0.037670463, u'bow_tie', 0.036030952, u'jersey', 0.030177139]

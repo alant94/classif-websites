@@ -1,0 +1,7 @@
+[u'iron', 0.14103687, u'plate_rack', 0.08824271, u'cleaver', 0.068401396]
+[u'Band_Aid', 0.14999615, u'book_jacket', 0.098792188, u'oil_filter', 0.087200597]
+[u'web_site', 0.9997924, u'menu', 0.00010993007, u'comic_book', 2.1030703e-05]
+[u'lakeside', 0.26649684, u'breakwater', 0.26309106, u'airship', 0.051231794]
+[u'web_site', 0.47288388, u'envelope', 0.046073765, u'menu', 0.038468327]
+[u'web_site', 0.18957928, u'sunscreen', 0.10136634, u'oscilloscope', 0.041018028]
+[u'sax', 0.33816791, u'oboe', 0.30577859, u'abaya', 0.25019619]

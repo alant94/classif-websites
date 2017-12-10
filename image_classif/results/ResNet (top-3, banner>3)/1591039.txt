@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.11872036, u'bathtub', 0.098345511, u'tub', 0.082007289]
+[u'brassiere', 0.20180804, u'miniskirt', 0.17430387, u'jean', 0.099763028]
+[u'brassiere', 0.3417708, u'neck_brace', 0.28693414, u'miniskirt', 0.056408562]
+[u'brassiere', 0.32282829, u'bikini', 0.28271458, u'Band_Aid', 0.19351669]
+[u'bathing_cap', 0.23977774, u'maillot', 0.16753158, u'maillot', 0.14778492]

@@ -1,0 +1,7 @@
+[u'web_site', 0.4746024, u'Windsor_tie', 0.30715954, u'bow_tie', 0.041949134, u'lab_coat', 0.022713058, u'suit', 0.01844999]
+[u'throne', 0.58286953, u'altar', 0.26137713, u'vestment', 0.019769201, u'church', 0.0070127812, u'monastery', 0.0066268495]
+[u'Ibizan_hound', 0.66471612, u'ox', 0.078023486, u'Italian_greyhound', 0.026211359, u'oxcart', 0.024743015, u'English_foxhound', 0.020223714]
+[u'great_grey_owl', 0.84335834, u'kite', 0.055426143, u'quail', 0.021531576, u'ruffed_grouse', 0.018191854, u'prairie_chicken', 0.018083571]
+[u'stupa', 0.42683631, u'bell_cote', 0.16097753, u'upright', 0.040547453, u'panpipe', 0.038073082, u'grand_piano', 0.035315327]
+[u'web_site', 0.90868962, u'book_jacket', 0.025368026, u'menu', 0.015454205, u'jigsaw_puzzle', 0.014510256, u'screen', 0.0043666773]
+[u'web_site', 0.92136014, u'envelope', 0.020417867, u'safety_pin', 0.0065163276, u'cassette', 0.0064872843, u'nipple', 0.0059453109]

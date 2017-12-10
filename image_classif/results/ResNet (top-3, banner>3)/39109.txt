@@ -1,0 +1,2 @@
+[u'cliff', 0.071113274, u'book_jacket', 0.055999368, u'mountain_bike', 0.054116331]
+[u'whistle', 0.18991126, u'oil_filter', 0.07133051, u'gasmask', 0.064405248]

@@ -1,0 +1,2 @@
+[u'hourglass', 0.64698946, u'window_screen', 0.055597905, u'bannister', 0.04350039, u'chainlink_fence', 0.037545804, u'window_shade', 0.015013195]
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]

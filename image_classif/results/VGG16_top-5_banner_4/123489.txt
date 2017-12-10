@@ -1,0 +1,7 @@
+[u'ballplayer', 0.54364151, u'scoreboard', 0.41416165, u'pool_table', 0.017759668, u'tennis_ball', 0.012996386, u'racket', 0.0066329432]
+[u'comic_book', 0.9290424, u'shield', 0.023544695, u'book_jacket', 0.017659388, u'jersey', 0.011576384, u'tray', 0.0033969979]
+[u'jigsaw_puzzle', 0.64282221, u'envelope', 0.27660152, u'wall_clock', 0.012012305, u'laptop', 0.011929219, u'bottlecap', 0.0081191165]
+[u"carpenter's_kit", 0.25209635, u'screwdriver', 0.1686797, u'ballpoint', 0.07259544, u'nipple', 0.068578176, u'whistle', 0.063619517]
+[u'laptop', 0.16875738, u'web_site', 0.079822987, u'menu', 0.079488054, u'slot', 0.067746118, u'jigsaw_puzzle', 0.061162028]
+[u'monitor', 0.13159102, u'screen', 0.059789691, u'crane', 0.034946214, u'traffic_light', 0.030433372, u'cash_machine', 0.026600732]
+[u'monitor', 0.24542332, u'screen', 0.18089737, u'oscilloscope', 0.11775618, u'laptop', 0.05821301, u'tray', 0.043843534]

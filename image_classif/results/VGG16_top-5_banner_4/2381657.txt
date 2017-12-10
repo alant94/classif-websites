@@ -1,0 +1,6 @@
+[u'theater_curtain', 0.30878058, u'binder', 0.019588327, u'lighter', 0.019382738, u'velvet', 0.0134009, u'lipstick', 0.011823997]
+[u'red_wine', 0.61203223, u'wine_bottle', 0.38240582, u'hamper', 0.0023534254, u'corkscrew', 0.0022043709, u'beer_bottle', 0.0008986973]
+[u'digital_clock', 0.4854019, u'puck', 0.13455287, u'bottlecap', 0.039040107, u'traffic_light', 0.031294134, u'analog_clock', 0.0311707]
+[u'picket_fence', 0.13867369, u'beacon', 0.10034315, u'street_sign', 0.046893291, u'cash_machine', 0.03823607, u'paddlewheel', 0.033606354]
+[u'book_jacket', 0.23419212, u'theater_curtain', 0.083272159, u'street_sign', 0.040980056, u'web_site', 0.032461498, u'coffee_mug', 0.020327529]
+[u'tray', 0.21893986, u'magnetic_compass', 0.058280546, u'analog_clock', 0.055229109, u'book_jacket', 0.054284394, u'oxygen_mask', 0.05326483]

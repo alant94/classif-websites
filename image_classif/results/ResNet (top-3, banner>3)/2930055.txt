@@ -1,0 +1,3 @@
+[u'digital_clock', 0.51115859, u'web_site', 0.2451815, u'stopwatch', 0.090466961]
+[u'military_uniform', 0.19934919, u'stretcher', 0.14239591, u'fire_engine', 0.13296843]
+[u'web_site', 0.97594815, u'hand-held_computer', 0.0080289412, u'notebook', 0.0011519361]

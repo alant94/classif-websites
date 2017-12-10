@@ -1,0 +1,8 @@
+[u'web_site', 0.066363178, u'street_sign', 0.055465039, u'scoreboard', 0.049255379, u'digital_clock', 0.034708276, u'beacon', 0.021672625]
+[u'drilling_platform', 0.087617606, u'web_site', 0.086587869, u'beacon', 0.074244276, u'street_sign', 0.031180628, u'book_jacket', 0.030557731]
+[u'web_site', 0.64824313, u'book_jacket', 0.20646489, u'comic_book', 0.1087394, u'jigsaw_puzzle', 0.027046734, u'menu', 0.001554981]
+[u'envelope', 0.229976, u'binder', 0.11238678, u'cleaver', 0.041662753, u'switch', 0.029894644, u'hatchet', 0.028675672]
+[u'comic_book', 0.20217395, u'book_jacket', 0.14072359, u'hatchet', 0.1128618, u'panpipe', 0.044173952, u'ski', 0.027414827]
+[u'hook', 0.13504095, u'parallel_bars', 0.089832701, u'letter_opener', 0.060929548, u'nail', 0.053148262, u'matchstick', 0.035979114]
+[u'book_jacket', 0.099734291, u'comic_book', 0.055731427, u'banana', 0.044361174, u'packet', 0.037640013, u'screwdriver', 0.032840487]
+[u'menu', 0.22897232, u'web_site', 0.22305065, u'comic_book', 0.18400951, u'packet', 0.048458856, u'carton', 0.035026181]

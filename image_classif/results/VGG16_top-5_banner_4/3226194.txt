@@ -1,0 +1,3 @@
+[u'hook', 0.064057589, u'nipple', 0.03900769, u'nematode', 0.028621072, u'can_opener', 0.026304867, u'rule', 0.023265649]
+[u'container_ship', 0.12495369, u'crane', 0.061187033, u'lakeside', 0.051671114, u'fireboat', 0.042377364, u'drilling_platform', 0.033195507]
+[u'wardrobe', 0.66584021, u'butcher_shop', 0.13959271, u'cleaver', 0.08190611, u'kimono', 0.078458928, u'shower_curtain', 0.0046127825]

@@ -1,0 +1,8 @@
+[u'web_site', 0.65989238, u'envelope', 0.090401456, u'menu', 0.018893093]
+[u'digital_clock', 0.928406, u'screen', 0.025702579, u'digital_watch', 0.024483485]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'television', 0.15201326, u'photocopier', 0.099996671, u'suit', 0.059237789]
+[u'digital_clock', 0.95220196, u'oscilloscope', 0.027660294, u'screen', 0.010460425]
+[u'web_site', 0.91659611, u'screen', 0.027997917, u'monitor', 0.017237209]
+[u'digital_clock', 0.50633621, u'screen', 0.18573551, u'oscilloscope', 0.17932776]
+[u'screwdriver', 0.3495658, u"carpenter's_kit", 0.33572048, u'ballpoint', 0.077676579]

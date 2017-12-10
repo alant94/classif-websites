@@ -1,0 +1,3 @@
+[u'cougar', 0.97245097, u'wallaby', 0.015694736, u'lynx', 0.0033059197]
+[u'web_site', 0.089476839, u'whistle', 0.081686527, u'gas_pump', 0.065795496]
+[u'web_site', 0.089476839, u'whistle', 0.081686527, u'gas_pump', 0.065795496]

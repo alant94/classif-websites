@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.52455932, u'diaper', 0.12020005, u'tub', 0.072975904]
+[u'boxer', 0.85108072, u'basenji', 0.030706754, u'Brabancon_griffon', 0.019495649]
+[u'swimming_trunks', 0.38334313, u'bikini', 0.24962366, u'maillot', 0.11867785]

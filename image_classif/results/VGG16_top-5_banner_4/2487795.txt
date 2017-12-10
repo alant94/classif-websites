@@ -1,0 +1,2 @@
+[u'web_site', 0.15343183, u'book_jacket', 0.12852921, u'scoreboard', 0.1125507, u'shopping_basket', 0.086426981, u'bannister', 0.081898466]
+[u'shower_curtain', 0.33694553, u'fountain', 0.29430142, u'picket_fence', 0.032575343, u'padlock', 0.023013007, u'book_jacket', 0.019062268]

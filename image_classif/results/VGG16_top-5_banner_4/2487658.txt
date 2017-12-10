@@ -1,0 +1,1 @@
+[u'envelope', 0.045388907, u'jersey', 0.031238716, u'matchstick', 0.02426365, u'pill_bottle', 0.023076046, u'digital_clock', 0.018055063]

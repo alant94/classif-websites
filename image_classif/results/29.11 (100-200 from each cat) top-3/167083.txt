@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.79286057, u'cornet', 0.044519432, u'book_jacket', 0.032265443]
+[u'bow', 0.1539959, u'screwdriver', 0.15282489, u'ski', 0.092287414]

@@ -1,0 +1,5 @@
+[u'wooden_spoon', 0.29700667, u'paddle', 0.12080313, u'corn', 0.050513767, u'sombrero', 0.034111723, u'drumstick', 0.032744769]
+[u'church', 0.28048578, u'web_site', 0.16450693, u'barn', 0.1193582, u'monastery', 0.051557627, u'mobile_home', 0.042583834]
+[u'wardrobe', 0.12800249, u'sliding_door', 0.076023474, u'web_site', 0.066312999, u'desk', 0.05946501, u'medicine_chest', 0.042169418]
+[u'oscilloscope', 0.38055524, u'swab', 0.090114795, u'measuring_cup', 0.060783476, u'broom', 0.050892677, u'rubber_eraser', 0.050526105]
+[u'web_site', 0.086831085, u'book_jacket', 0.028907903, u'matchstick', 0.020712297, u'menu', 0.019032968, u'digital_clock', 0.014630071]

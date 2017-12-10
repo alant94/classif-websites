@@ -1,0 +1,2 @@
+[u'toyshop', 0.41606757, u'wall_clock', 0.083306417, u'refrigerator', 0.046004612, u'laptop', 0.01561955, u'desk', 0.014388238]
+[u"carpenter's_kit", 0.25149781, u'book_jacket', 0.13904361, u'military_uniform', 0.06613896, u'rifle', 0.05594071, u'screwdriver', 0.049816541]

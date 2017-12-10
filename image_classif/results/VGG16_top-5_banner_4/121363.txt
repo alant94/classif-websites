@@ -1,0 +1,3 @@
+[u'stopwatch', 0.21807057, u'digital_watch', 0.20690738, u'bottlecap', 0.15883668, u'barometer', 0.10018411, u'loupe', 0.088029526]
+[u'monitor', 0.54407239, u'screen', 0.088554256, u'television', 0.080888346, u'home_theater', 0.054812077, u'cinema', 0.05211335]
+[u'face_powder', 0.12066295, u'cassette', 0.088234544, u'switch', 0.081341378, u'web_site', 0.072585225, u'sunscreen', 0.069213241]

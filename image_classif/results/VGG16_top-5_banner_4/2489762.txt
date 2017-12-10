@@ -1,0 +1,1 @@
+[u'digital_watch', 0.87754411, u'barrel', 0.034633111, u'digital_clock', 0.030897476, u'analog_clock', 0.010081771, u'acoustic_guitar', 0.0067859413]

@@ -1,0 +1,6 @@
+[u'mask', 0.20087589, u"jack-o'-lantern", 0.11087889, u'pick', 0.037986595, u'jersey', 0.036716342, u'balloon', 0.031958375]
+[u'impala', 0.427701, u'cougar', 0.24913675, u'dhole', 0.11505753, u'ibex', 0.089202657, u'gazelle', 0.029103337]
+[u'traffic_light', 0.39696929, u'parachute', 0.098030001, u'street_sign', 0.070609033, u'jigsaw_puzzle', 0.042622939, u'wing', 0.03837724]
+[u'impala', 0.83834457, u'hartebeest', 0.082027927, u'gazelle', 0.075907432, u'ibex', 0.0032801095, u'bighorn', 0.000182344]
+[u'military_uniform', 0.060503416, u'vulture', 0.038234666, u'English_setter', 0.03457886, u'stone_wall', 0.033157185, u'rifle', 0.030245621]
+[u'web_site', 0.20617205, u'envelope', 0.15290168, u'Band_Aid', 0.084797181, u'iPod', 0.05097165, u'hook', 0.039779361]

@@ -1,0 +1,6 @@
+[u'gorilla', 0.29377091, u'Indian_elephant', 0.25703481, u'orangutan', 0.079754099, u'chimpanzee', 0.067119539, u'fountain', 0.026441624]
+[u'alp', 0.89283615, u'valley', 0.052991215, u'ski', 0.014283245, u'web_site', 0.0093714874, u'mountain_tent', 0.0046795341]
+[u'chain_saw', 0.71360373, u'lawn_mower', 0.13023157, u'power_drill', 0.027361879, u'iron', 0.026687924, u'can_opener', 0.022424845]
+[u'book_jacket', 0.30548364, u'street_sign', 0.098484121, u'moving_van', 0.0653935, u'crane', 0.056033917, u'web_site', 0.043545511]
+[u'book_jacket', 0.56328207, u'street_sign', 0.10831499, u'comic_book', 0.090891689, u'brass', 0.066286497, u'shield', 0.021568162]
+[u'tow_truck', 0.19025224, u'cab', 0.13692604, u'moving_van', 0.098306164, u'chain_saw', 0.094395705, u'racer', 0.054572418]

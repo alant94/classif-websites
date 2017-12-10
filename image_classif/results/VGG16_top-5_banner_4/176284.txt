@@ -1,0 +1,1 @@
+[u'turnstile', 0.32058731, u'police_van', 0.045293692, u'scoreboard', 0.038499378, u'digital_clock', 0.037154108, u'library', 0.034589369]

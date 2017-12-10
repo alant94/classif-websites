@@ -1,0 +1,7 @@
+[u'fireboat', 0.47030413, u'brassiere', 0.08947622, u'lab_coat', 0.042046189]
+[u'web_site', 0.063917607, u'hair_spray', 0.057621054, u'sunscreen', 0.051950175]
+[u'Band_Aid', 0.30114132, u'hair_slide', 0.11418481, u'wig', 0.079205073]
+[u'snorkel', 0.94537157, u'scuba_diver', 0.036712464, u'coral_reef', 0.0021122454]
+[u'torch', 0.92806101, u'ambulance', 0.015045194, u'street_sign', 0.010978711]
+[u'wig', 0.85387158, u'hair_spray', 0.040915109, u'hand_blower', 0.027818888]
+[u'book_jacket', 0.044498604, u'pill_bottle', 0.036585633, u'dishwasher', 0.030119902]

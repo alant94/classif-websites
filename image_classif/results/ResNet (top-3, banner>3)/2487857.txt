@@ -1,0 +1,6 @@
+[u'guillotine', 0.14936425, u'gar', 0.033554867, u'vestment', 0.033011198]
+[u'king_penguin', 0.30985671, u'dogsled', 0.1862925, u'alp', 0.037690163]
+[u'hook', 0.68197238, u'plow', 0.10964736, u'crane', 0.066359662]
+[u'Newfoundland', 0.23154759, u'flat-coated_retriever', 0.13211088, u'Labrador_retriever', 0.085428096]
+[u'horse_cart', 0.13928258, u'half_track', 0.11880738, u'tow_truck', 0.093170308]
+[u'street_sign', 0.15033631, u'Band_Aid', 0.055916969, u'shovel', 0.050755881]

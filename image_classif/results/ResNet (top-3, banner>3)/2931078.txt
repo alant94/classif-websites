@@ -1,0 +1,8 @@
+[u'comic_book', 0.26321009, u'book_jacket', 0.13331856, u'web_site', 0.13309745]
+[u'maze', 0.36388066, u'suit', 0.091366902, u'radiator', 0.037769463]
+[u'forklift', 0.93189019, u'crane', 0.021881206, u'trailer_truck', 0.005576252]
+[u'street_sign', 0.67025453, u'traffic_light', 0.11371361, u'scoreboard', 0.068975791]
+[u'swab', 0.3267923, u'palace', 0.052781302, u'broom', 0.039901722]
+[u'paintbrush', 0.076161459, u'ski', 0.062979735, u'crane', 0.046903193]
+[u'pole', 0.90195876, u'plunger', 0.028724637, u'broom', 0.014490979]
+[u'stretcher', 0.23971322, u'bearskin', 0.054143291, u'kimono', 0.05200091]

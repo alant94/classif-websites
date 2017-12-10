@@ -1,0 +1,1 @@
+[u'chime', 0.20416303, u'syringe', 0.1550951, u'nail', 0.10005711, u'organ', 0.097446769, u'screwdriver', 0.06070403]

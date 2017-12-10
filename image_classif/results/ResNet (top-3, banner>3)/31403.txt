@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.2554656, u'hook', 0.15082674, u'analog_clock', 0.060858548]
+[u'web_site', 0.40235594, u'file', 0.20581751, u'spatula', 0.12855238]
+[u'street_sign', 0.13178508, u'web_site', 0.073584363, u'pill_bottle', 0.042469889]
+[u'web_site', 0.37062269, u'screw', 0.055449091, u'analog_clock', 0.045819245]
+[u'book_jacket', 0.32118726, u'comic_book', 0.28061271, u'web_site', 0.16353498]
+[u'web_site', 0.12732939, u'screw', 0.10714661, u'analog_clock', 0.085920215]

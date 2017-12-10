@@ -1,0 +1,6 @@
+[u'book_jacket', 0.60879147, u'comic_book', 0.17836361, u'menu', 0.14178218]
+[u'jersey', 0.30368778, u'panpipe', 0.069977097, u'coffee_mug', 0.038574681]
+[u'web_site', 0.30125347, u'book_jacket', 0.20349567, u'menu', 0.19938983]
+[u'book_jacket', 0.48466653, u'web_site', 0.30919421, u'comic_book', 0.18437651]
+[u"carpenter's_kit", 0.19132075, u'loudspeaker', 0.051606897, u'modem', 0.045900866]
+[u'web_site', 0.42322537, u'book_jacket', 0.15957643, u'menu', 0.14672689]

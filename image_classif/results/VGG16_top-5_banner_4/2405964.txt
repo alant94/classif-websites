@@ -1,0 +1,1 @@
+[u"potter's_wheel", 0.5904845, u'plunger', 0.082175523, u'power_drill', 0.045729104, u'mosquito_net', 0.033217747, u'rain_barrel', 0.032694582]

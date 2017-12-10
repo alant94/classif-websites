@@ -1,0 +1,5 @@
+[u'cash_machine', 0.27730718, u'street_sign', 0.073628746, u'scoreboard', 0.069218419]
+[u'modem', 0.15733582, u'medicine_chest', 0.13634276, u'switch', 0.065781452]
+[u'television', 0.387665, u'monitor', 0.1586235, u'screen', 0.15044346]
+[u'dishwasher', 0.94775736, u'plate_rack', 0.024978295, u'computer_keyboard', 0.010327275]
+[u'toyshop', 0.18703863, u'slot', 0.10967378, u'shoe_shop', 0.057241652]

@@ -1,0 +1,1 @@
+[u'mountain_bike', 0.75365317, u'bicycle-built-for-two', 0.16791131, u'moped', 0.024107518, u'crash_helmet', 0.0080415076, u'horse_cart', 0.0063954699]

@@ -1,0 +1,2 @@
+[u'nail', 0.10925735, u'envelope', 0.03981654, u'rule', 0.037933126, u'hook', 0.036845285, u'safety_pin', 0.031976711]
+[u'menu', 0.8080048, u'binder', 0.066617116, u'envelope', 0.053630196, u'web_site', 0.048374847, u'fountain_pen', 0.0025735986]

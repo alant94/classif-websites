@@ -1,0 +1,3 @@
+[u'sandal', 0.20882781, u'tripod', 0.171949, u'binoculars', 0.14580797]
+[u'dough', 0.26999745, u'quill', 0.081148259, u'Band_Aid', 0.073296145]
+[u'Old_English_sheepdog', 0.34775126, u'wig', 0.074924931, u'Afghan_hound', 0.073455922]

@@ -1,0 +1,7 @@
+[u'stage', 0.31904751, u'unicycle', 0.10102462, u'pajama', 0.04171823, u'kimono', 0.034070179, u'crutch', 0.030736357]
+[u'cash_machine', 0.11993422, u'punching_bag', 0.071497083, u'web_site', 0.059749898, u'gas_pump', 0.036555238, u'spotlight', 0.028518677]
+[u'prison', 0.088884741, u'cash_machine', 0.065015852, u'guillotine', 0.050837278, u'butcher_shop', 0.036964647, u'gasmask', 0.027524365]
+[u'envelope', 0.39537612, u'jigsaw_puzzle', 0.13106288, u'handkerchief', 0.064799763, u'pillow', 0.039244052, u'sundial', 0.030914709]
+[u'switch', 0.5691734, u'gas_pump', 0.10408766, u'scoreboard', 0.0572915, u'monitor', 0.02459095, u'mailbox', 0.021982536]
+[u'library', 0.066435218, u'suit', 0.052234665, u'bookshop', 0.051452659, u'laptop', 0.031683635, u'shoe_shop', 0.03146591]
+[u'suit', 0.53828138, u'Windsor_tie', 0.16261721, u'groom', 0.058600906, u'academic_gown', 0.034467474, u'stole', 0.020152161]

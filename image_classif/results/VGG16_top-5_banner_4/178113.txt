@@ -1,0 +1,6 @@
+[u'sarong', 0.17868359, u'kimono', 0.11400653, u'poncho', 0.10895482, u'torch', 0.10680854, u'pajama', 0.084108211]
+[u'web_site', 0.3850601, u'rifle', 0.054886211, u'book_jacket', 0.038141567, u'comic_book', 0.029405029, u'aircraft_carrier', 0.024721466]
+[u'web_site', 0.89761662, u'menu', 0.092206366, u'envelope', 0.0067176204, u'crossword_puzzle', 0.00033739361, u'book_jacket', 0.00029398612]
+[u'bell_cote', 0.24969158, u'envelope', 0.084406555, u'stupa', 0.078336783, u'church', 0.066104293, u'airship', 0.034213439]
+[u'restaurant', 0.09414874, u'stage', 0.070118032, u'theater_curtain', 0.067770965, u'library', 0.064738154, u'marimba', 0.062482141]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

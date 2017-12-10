@@ -1,0 +1,4 @@
+[u'web_site', 0.76360959, u'envelope', 0.097657695, u'menu', 0.096258424]
+[u'airship', 0.54812515, u'street_sign', 0.079270154, u'web_site', 0.062048908]
+[u'street_sign', 0.26452732, u'barbershop', 0.090270072, u'book_jacket', 0.086830713]
+[u'book_jacket', 0.52320528, u'sunscreen', 0.058208369, u'hair_spray', 0.044808812]

@@ -1,0 +1,2 @@
+[u'handkerchief', 0.069518119, u'cleaver', 0.064134344, u'web_site', 0.050759923]
+[u'menu', 0.41733557, u'packet', 0.11352738, u'book_jacket', 0.068043686]

@@ -1,0 +1,4 @@
+[u'face_powder', 0.091900811, u'lotion', 0.068542011, u'screen', 0.061211839, u'beacon', 0.060650341, u'monitor', 0.053949963]
+[u'nail', 0.5894168, u'screwdriver', 0.048481584, u'fountain_pen', 0.040072467, u'screw', 0.033957642, u'rule', 0.029593281]
+[u'nail', 0.76693714, u'screwdriver', 0.053992756, u'rule', 0.021826243, u'bow', 0.018256152, u'hammer', 0.012178653]
+[u'picket_fence', 0.16250175, u'greenhouse', 0.060623899, u'suspension_bridge', 0.054509971, u'coho', 0.052077256, u'worm_fence', 0.046358842]

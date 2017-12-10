@@ -1,0 +1,4 @@
+[u'chime', 0.6036635, u'nail', 0.077861138, u'screwdriver', 0.035070505, u'syringe', 0.032984503, u'rule', 0.026949115]
+[u'church', 0.74185008, u'monastery', 0.096460976, u'mosque', 0.074612029, u'castle', 0.028041512, u'bell_cote', 0.024006801]
+[u'chime', 0.7342912, u'matchstick', 0.037200622, u'rubber_eraser', 0.031589739, u'paintbrush', 0.029230084, u'organ', 0.022587452]
+[u'web_site', 0.10836563, u'book_jacket', 0.10089432, u'comic_book', 0.086880386, u'crane', 0.081027813, u'scoreboard', 0.021469045]

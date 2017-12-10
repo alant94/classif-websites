@@ -1,0 +1,5 @@
+[u'swimming_trunks', 0.25637144, u'miniskirt', 0.078097619, u'cardigan', 0.048763603, u'sarong', 0.028180908, u'punching_bag', 0.027085606]
+[u'cardigan', 0.28377289, u'wig', 0.15209591, u'sweatshirt', 0.13016513, u'jean', 0.098082937, u'wool', 0.031979177]
+[u'comic_book', 0.23333243, u'sunglasses', 0.097182676, u'book_jacket', 0.097000085, u'sunglass', 0.072723739, u'web_site', 0.064072065]
+[u'jersey', 0.10747441, u'web_site', 0.10591579, u'envelope', 0.092070617, u'binder', 0.0546639, u'sweatshirt', 0.024204619]
+[u'cardigan', 0.27818182, u'stole', 0.19462864, u'fur_coat', 0.12234335, u'cloak', 0.09259706, u'jean', 0.040109117]

@@ -1,0 +1,5 @@
+[u'park_bench', 0.12944309, u'lakeside', 0.11709034, u'obelisk', 0.087688133, u'church', 0.078039385, u'barn', 0.058811512]
+[u'web_site', 0.89054936, u'menu', 0.01527865, u'remote_control', 0.0077795857, u'screwdriver', 0.0051213051, u'stopwatch', 0.0041067163]
+[u'scoreboard', 0.18068896, u'odometer', 0.060258351, u'puck', 0.042709302, u'sweatshirt', 0.039883375, u'jersey', 0.034119591]
+[u'menu', 0.70989454, u'hard_disc', 0.23997851, u'crossword_puzzle', 0.042386077, u'projector', 0.00074956741, u'carton', 0.00060554728]
+[u'web_site', 0.88485456, u'monitor', 0.043102473, u'iPod', 0.042069566, u'comic_book', 0.0056690397, u'television', 0.0037470704]

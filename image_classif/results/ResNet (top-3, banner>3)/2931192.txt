@@ -1,0 +1,2 @@
+[u'volleyball', 0.27858502, u'swimming_trunks', 0.12866679, u'stupa', 0.10628773]
+[u'wall_clock', 0.16604258, u'shield', 0.10717959, u'chime', 0.088672407]

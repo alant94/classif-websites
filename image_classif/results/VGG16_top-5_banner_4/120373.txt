@@ -1,0 +1,1 @@
+[u'washbasin', 0.066537783, u'table_lamp', 0.048007045, u'beacon', 0.047492016, u'monitor', 0.034351029, u'spotlight', 0.033824641]

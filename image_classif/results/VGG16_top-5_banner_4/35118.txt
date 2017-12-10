@@ -1,0 +1,6 @@
+[u'hook', 0.34612337, u'safety_pin', 0.13244604, u'can_opener', 0.12808898, u'web_site', 0.10576835, u'screwdriver', 0.035238281]
+[u'pencil_sharpener', 0.12446387, u'mouse', 0.10510121, u'paper_towel', 0.062258266, u'Band_Aid', 0.061554737, u'iron', 0.039553836]
+[u'electric_guitar', 0.17881484, u'mouse', 0.17002174, u'pick', 0.1221955, u'acoustic_guitar', 0.093921155, u'toilet_seat', 0.070773616]
+[u'microphone', 0.089430682, u'oil_filter', 0.047484886, u'hook', 0.044567928, u'stethoscope', 0.034251027, u'sunscreen', 0.032423582]
+[u'face_powder', 0.35972634, u'pencil_sharpener', 0.22539583, u'sunglass', 0.20578106, u'sunglasses', 0.061104942, u'mousetrap', 0.019583281]
+[u'pencil_sharpener', 0.63146287, u'switch', 0.080206342, u'combination_lock', 0.046673559, u'lighter', 0.021681618, u'mouse', 0.020210184]

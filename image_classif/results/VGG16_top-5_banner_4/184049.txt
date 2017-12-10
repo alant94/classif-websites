@@ -1,0 +1,1 @@
+[u'lab_coat', 0.56419438, u'sweatshirt', 0.089835636, u'stethoscope', 0.035573229, u'fur_coat', 0.026000828, u'quill', 0.019024281]

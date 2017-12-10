@@ -1,0 +1,3 @@
+[u'hog', 0.56322849, u'water_buffalo', 0.15416442, u'wild_boar', 0.061156098, u'warthog', 0.034814071, u'ram', 0.028309606]
+[u'screwdriver', 0.38896054, u'ballpoint', 0.13537407, u'nail', 0.11952621, u'screw', 0.071893945, u"carpenter's_kit", 0.042624403]
+[u'brown_bear', 0.80376107, u'American_black_bear', 0.11507346, u'Newfoundland', 0.014067793, u'wild_boar', 0.014042943, u'beaver', 0.00823138]

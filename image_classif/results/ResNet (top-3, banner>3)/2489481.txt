@@ -1,0 +1,5 @@
+[u'gazelle', 0.31217024, u'Arabian_camel', 0.06944102, u'crane', 0.052234273]
+[u'bow', 0.24645449, u'fountain', 0.19282806, u'gazelle', 0.087917298]
+[u'mobile_home', 0.71257466, u'greenhouse', 0.21045958, u'lawn_mower', 0.037497066]
+[u'barn', 0.27220026, u'mobile_home', 0.057611879, u'apiary', 0.041971974]
+[u'bison', 0.8071596, u'hog', 0.080053344, u'wild_boar', 0.071317472]

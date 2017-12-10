@@ -1,0 +1,8 @@
+[u'prayer_rug', 0.50786877, u'handkerchief', 0.13600951, u'doormat', 0.047303844]
+[u'digital_watch', 0.29903525, u'safe', 0.14423241, u'digital_clock', 0.068958655]
+[u'nematode', 0.15523243, u'dishwasher', 0.087953888, u'envelope', 0.019927885]
+[u'consomme', 0.88852292, u'pill_bottle', 0.075434394, u'soup_bowl', 0.0081833489]
+[u'joystick', 0.47902763, u'loudspeaker', 0.11595432, u'switch', 0.10554922]
+[u'web_site', 0.21324725, u'envelope', 0.14801553, u'binder', 0.078344755]
+[u'stove', 0.39219761, u'fire_screen', 0.30131349, u'jellyfish', 0.053855862]
+[u'crane', 0.21856818, u'analog_clock', 0.1461236, u'drilling_platform', 0.12668082]

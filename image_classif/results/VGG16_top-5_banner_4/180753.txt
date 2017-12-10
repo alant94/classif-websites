@@ -1,0 +1,3 @@
+[u'sunglasses', 0.15950035, u'sunglass', 0.12552992, u'crash_helmet', 0.080019981, u'analog_clock', 0.063328244, u'puck', 0.050832663]
+[u'sunglasses', 0.15950035, u'sunglass', 0.12552992, u'crash_helmet', 0.080019981, u'analog_clock', 0.063328244, u'puck', 0.050832663]
+[u'cardigan', 0.85256267, u'sweatshirt', 0.0114048, u'wool', 0.0069472441, u'stole', 0.0066503505, u'jean', 0.0058889491]

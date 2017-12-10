@@ -1,0 +1,5 @@
+[u'prison', 0.24102552, u'book_jacket', 0.090504289, u'perfume', 0.070586793]
+[u'lakeside', 0.26821807, u'palace', 0.18549517, u'seashore', 0.14421655]
+[u'harp', 0.18718465, u'electric_guitar', 0.18497831, u'acoustic_guitar', 0.13917042]
+[u'brassiere', 0.21825185, u'jean', 0.11936004, u'bath_towel', 0.088700689]
+[u'harmonica', 0.23011079, u'fountain_pen', 0.083999619, u'ballpoint', 0.06020477]

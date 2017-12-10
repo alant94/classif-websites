@@ -1,0 +1,5 @@
+[u'menu', 0.10023077, u'web_site', 0.051925447, u'envelope', 0.039853763, u'hand_blower', 0.03524486, u'Band_Aid', 0.026391869]
+[u'cash_machine', 0.19568944, u'screen', 0.14053722, u'monitor', 0.12726688, u'television', 0.12312154, u'digital_clock', 0.077273913]
+[u'matchstick', 0.3092514, u'rubber_eraser', 0.072585143, u'wine_bottle', 0.071064495, u'lighter', 0.063203357, u'drumstick', 0.047791868]
+[u'butcher_shop', 0.26551297, u'sarong', 0.071094505, u'swimming_trunks', 0.061282266, u'cleaver', 0.053041551, u'grocery_store', 0.043814261]
+[u'iron', 0.60311127, u'vacuum', 0.075548723, u'mousetrap', 0.035824656, u'table_lamp', 0.021277817, u'knot', 0.018449247]

@@ -1,0 +1,4 @@
+[u'web_site', 0.79191303, u'television', 0.023692228, u'screen', 0.021591613]
+[u'Band_Aid', 0.63836086, u'web_site', 0.0596154, u'cash_machine', 0.046037782]
+[u'toyshop', 0.91864234, u'shoe_shop', 0.0080782883, u'kimono', 0.0077093337]
+[u'tobacco_shop', 0.32675463, u'sliding_door', 0.075982071, u'library', 0.032501824]

@@ -1,0 +1,2 @@
+[u'screw', 0.2206845, u'hair_slide', 0.17135486, u'rubber_eraser', 0.10783969, u'safety_pin', 0.078679599, u'thimble', 0.051190324]
+[u'reflex_camera', 0.62372935, u'binoculars', 0.17370063, u'tripod', 0.061963692, u'bulletproof_vest', 0.034126103, u'assault_rifle', 0.023104908]

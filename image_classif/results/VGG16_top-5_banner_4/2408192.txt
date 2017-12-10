@@ -1,0 +1,1 @@
+[u'perfume', 0.76509869, u'magnetic_compass', 0.091405116, u'analog_clock', 0.029610271, u'stopwatch', 0.017061267, u'whistle', 0.015415261]

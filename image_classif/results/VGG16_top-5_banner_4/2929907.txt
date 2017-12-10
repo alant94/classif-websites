@@ -1,0 +1,3 @@
+[u'vestment', 0.50836128, u'Windsor_tie', 0.13359036, u'lab_coat', 0.065357283, u'bow_tie', 0.039282028, u'marimba', 0.015599939]
+[u'lab_coat', 0.22600219, u'stage', 0.0431895, u'stethoscope', 0.03365108, u'oboe', 0.027131643, u'miniskirt', 0.025213387]
+[u'suit', 0.73612857, u'Windsor_tie', 0.18046592, u'groom', 0.023653246, u'bow_tie', 0.0077553536, u'bolo_tie', 0.0075234985]

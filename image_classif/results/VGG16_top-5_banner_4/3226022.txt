@@ -1,0 +1,6 @@
+[u'sombrero', 0.24152128, u'necklace', 0.054030243, u'bubble', 0.050685614, u'jellyfish', 0.048845924, u'tray', 0.047832094]
+[u'suit', 0.42211369, u'Windsor_tie', 0.19145575, u'television', 0.17213108, u'groom', 0.066657513, u'bow_tie', 0.043160383]
+[u'puck', 0.16266008, u'loupe', 0.097670488, u'bottlecap', 0.045027915, u'drum', 0.044133969, u'ping-pong_ball', 0.034577101]
+[u'coffee_mug', 0.052947745, u'hair_spray', 0.047613587, u'sunscreen', 0.043571532, u'street_sign', 0.042371955, u'pop_bottle', 0.033954795]
+[u'web_site', 0.46548709, u'book_jacket', 0.14066786, u'comic_book', 0.057964649, u'packet', 0.041152414, u'water_bottle', 0.016633002]
+[u'web_site', 0.97708547, u'menu', 0.0033899539, u'ant', 0.0024699499, u'book_jacket', 0.0012470414, u'screen', 0.00093450182]

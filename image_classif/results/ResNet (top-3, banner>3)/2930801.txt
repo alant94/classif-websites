@@ -1,0 +1,5 @@
+[u'laptop', 0.45506167, u'notebook', 0.28182733, u'desktop_computer', 0.10435889]
+[u'vacuum', 0.14417779, u'barber_chair', 0.074178405, u'patio', 0.068609208]
+[u'binder', 0.34613091, u'slide_rule', 0.20100208, u'oscilloscope', 0.071332648]
+[u'pencil_sharpener', 0.67863888, u'hook', 0.044122931, u'screw', 0.032830995]
+[u'screwdriver', 0.20723161, u'loupe', 0.069365188, u'nail', 0.062597506]

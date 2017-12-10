@@ -1,0 +1,2 @@
+[u'American_black_bear', 0.97321361, u'wild_boar', 0.015735049, u'brown_bear', 0.0035567502, u'Bouvier_des_Flandres', 0.0031035843, u'hog', 0.0010492969]
+[u'tusker', 0.17303284, u'bow', 0.16272581, u'hartebeest', 0.099156231, u'bloodhound', 0.052161798, u'Chesapeake_Bay_retriever', 0.038642921]

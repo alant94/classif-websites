@@ -1,0 +1,2 @@
+[u'puck', 0.27115643, u'ballpoint', 0.20863178, u'red-backed_sandpiper', 0.034353599, u'sandbar', 0.0291947, u'seashore', 0.026798062]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

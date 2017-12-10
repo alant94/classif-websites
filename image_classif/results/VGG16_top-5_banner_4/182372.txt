@@ -1,0 +1,2 @@
+[u'spotlight', 0.45788264, u'crash_helmet', 0.12708396, u"jack-o'-lantern", 0.062598713, u'mouse', 0.032648008, u'loupe', 0.028103439]
+[u'missile', 0.40692961, u'projectile', 0.40101522, u'crane', 0.052845158, u'cannon', 0.045020733, u'tow_truck', 0.026001442]

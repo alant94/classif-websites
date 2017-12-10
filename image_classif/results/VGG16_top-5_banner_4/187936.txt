@@ -1,0 +1,4 @@
+[u'brass', 0.040142134, u'menu', 0.035741784, u'crossword_puzzle', 0.024585301, u'web_site', 0.022937469, u'envelope', 0.015698982]
+[u'web_site', 0.57544285, u'envelope', 0.16416237, u'menu', 0.033203863, u'cash_machine', 0.0104263, u'binder', 0.010216624]
+[u'web_site', 0.055073727, u'power_drill', 0.038428523, u'hand_blower', 0.021510879, u'chain_saw', 0.017423898, u'rifle', 0.016700352]
+[u'plastic_bag', 0.94009608, u'spider_web', 0.0056798547, u'black_and_gold_garden_spider', 0.0051022987, u'packet', 0.0044823624, u'mosquito_net', 0.0038916615]

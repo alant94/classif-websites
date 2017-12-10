@@ -1,0 +1,8 @@
+[u'book_jacket', 0.20789224, u'perfume', 0.13188349, u'screwdriver', 0.085550196, u'rule', 0.048119094, u'modem', 0.037441786]
+[u'rule', 0.26058516, u'screwdriver', 0.16152765, u'syringe', 0.1350773, u'modem', 0.071272574, u'book_jacket', 0.060768206]
+[u'book_jacket', 0.28690332, u'perfume', 0.19524214, u'modem', 0.056096736, u'sunscreen', 0.051261213, u'rule', 0.038270451]
+[u'wall_clock', 0.31686205, u'Christmas_stocking', 0.31487599, u'hair_slide', 0.10221932, u'pencil_sharpener', 0.036472354, u'birdhouse', 0.021822797]
+[u'book_jacket', 0.44348663, u'perfume', 0.17749237, u'binder', 0.03775965, u'lighter', 0.020971013, u'lotion', 0.020965314]
+[u'perfume', 0.32659626, u'book_jacket', 0.23670211, u'sunscreen', 0.075097583, u'lotion', 0.052164979, u'binder', 0.038325451]
+[u'perfume', 0.37138867, u'book_jacket', 0.23000285, u'sunscreen', 0.043994378, u'lotion', 0.03524103, u'lighter', 0.034808293]
+[u'book_jacket', 0.28720662, u'perfume', 0.15227209, u'rule', 0.097382128, u'syringe', 0.054136228, u'lighter', 0.036288992]

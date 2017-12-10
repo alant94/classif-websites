@@ -1,0 +1,5 @@
+[u'bathtub', 0.39543548, u'tub', 0.23469968, u'bikini', 0.15980984, u'maillot', 0.07332582, u'maillot', 0.040343381]
+[u'bikini', 0.89311332, u'swimming_trunks', 0.069952704, u'maillot', 0.017965838, u'fountain', 0.0073887561, u'maillot', 0.0050374689]
+[u'bathtub', 0.42628914, u'tub', 0.30825043, u'candle', 0.040352028, u'pool_table', 0.032335449, u'bikini', 0.029773274]
+[u'knee_pad', 0.35422343, u'balance_beam', 0.20069243, u'neck_brace', 0.15043932, u'racket', 0.062507458, u'miniskirt', 0.043762553]
+[u'sliding_door', 0.077527419, u'carton', 0.068023607, u'library', 0.06298767, u'prison', 0.046259996, u'boathouse', 0.043889109]

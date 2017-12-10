@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.45240843, u'sea_lion', 0.076835781, u'barbell', 0.045096774, u'oboe', 0.028003145, u'dumbbell', 0.016235435]
+[u'web_site', 0.17578225, u'envelope', 0.061108947, u'matchstick', 0.021663453, u'chain', 0.018028911, u'ant', 0.014921896]

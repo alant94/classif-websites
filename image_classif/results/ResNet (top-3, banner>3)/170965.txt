@@ -1,0 +1,8 @@
+[u'television', 0.30157799, u'web_site', 0.14197977, u'home_theater', 0.062174812]
+[u'television', 0.30669725, u'web_site', 0.1519087, u'screen', 0.076226801]
+[u'tape_player', 0.69775808, u'cassette', 0.059927117, u'cassette_player', 0.054766536]
+[u'loudspeaker', 0.64009613, u'desktop_computer', 0.13118279, u'radio', 0.11253182]
+[u'web_site', 0.71233892, u'screen', 0.056042459, u'radio', 0.048489146]
+[u'television', 0.35132194, u'web_site', 0.30695257, u'screen', 0.079537369]
+[u'web_site', 0.63059115, u'nematode', 0.020985313, u'nail', 0.011421977]
+[u'television', 0.45355174, u'web_site', 0.16815121, u'screen', 0.1266381]

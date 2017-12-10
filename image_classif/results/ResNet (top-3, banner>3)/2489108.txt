@@ -1,0 +1,7 @@
+[u'impala', 0.40960497, u'gazelle', 0.29829848, u'ibex', 0.11507113]
+[u'ibex', 0.48406816, u'ox', 0.24484052, u'bighorn', 0.067083292]
+[u'hartebeest', 0.70633012, u'impala', 0.26459607, u'gazelle', 0.02777902]
+[u'ibex', 0.34516019, u'dingo', 0.19859669, u'cougar', 0.051597193]
+[u'gazelle', 0.44775057, u'ostrich', 0.2055966, u'impala', 0.10698587]
+[u'toilet_seat', 0.94118071, u'drum', 0.030629871, u'bib', 0.0050434014]
+[u'worm_fence', 0.76859361, u'scoreboard', 0.069645651, u'street_sign', 0.024416722]

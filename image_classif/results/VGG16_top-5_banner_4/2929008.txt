@@ -1,0 +1,5 @@
+[u'forklift', 0.20602496, u'turnstile', 0.10501703, u'library', 0.07423009, u'streetcar', 0.059492394, u'bookshop', 0.048497524]
+[u'toyshop', 0.10289272, u'altar', 0.088036254, u'wall_clock', 0.065000527, u'library', 0.058786292, u'confectionery', 0.046274975]
+[u'envelope', 0.21838884, u'web_site', 0.15076025, u'rule', 0.034706548, u'Band_Aid', 0.015294405, u'hook', 0.0092437752]
+[u'streetcar', 0.13287961, u'picket_fence', 0.073995821, u'greenhouse', 0.073611453, u'castle', 0.070080258, u'church', 0.057526808]
+[u'library', 0.1096057, u'wardrobe', 0.10914903, u'vestment', 0.10521886, u'shower_curtain', 0.077100545, u'chime', 0.065383174]

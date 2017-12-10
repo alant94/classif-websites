@@ -1,0 +1,3 @@
+[u'lakeside', 0.47214761, u'umbrella', 0.06248134, u'fountain', 0.048261765]
+[u'king_penguin', 0.40500766, u'hornbill', 0.36286548, u'magpie', 0.069870383]
+[u'lakeside', 0.74646068, u'sandbar', 0.071653217, u'boathouse', 0.043210872]

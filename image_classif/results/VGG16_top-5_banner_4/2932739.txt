@@ -1,0 +1,2 @@
+[u'menu', 0.093439199, u'screwdriver', 0.083012514, u'comic_book', 0.072920643, u'web_site', 0.047206409, u'power_drill', 0.041693874]
+[u'street_sign', 0.09287113, u'lighter', 0.084765933, u'envelope', 0.068920299, u'web_site', 0.059779994, u'iPod', 0.049597517]

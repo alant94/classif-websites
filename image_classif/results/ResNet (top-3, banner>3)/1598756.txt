@@ -1,0 +1,2 @@
+[u'maillot', 0.27932847, u'bikini', 0.24725427, u'swimming_trunks', 0.23113854]
+[u'Weimaraner', 0.2186493, u'Italian_greyhound', 0.080105372, u'oxygen_mask', 0.027552092]

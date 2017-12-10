@@ -1,0 +1,1 @@
+[u'abaya', 0.2704865, u'groom', 0.20394956, u'bow_tie', 0.077724457, u'web_site', 0.055643715, u'curly-coated_retriever', 0.038303263]

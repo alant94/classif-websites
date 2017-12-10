@@ -1,0 +1,2 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'web_site', 0.15483604, u'book_jacket', 0.030491205, u'syringe', 0.024889959, u'matchstick', 0.022037238, u'microphone', 0.021601893]

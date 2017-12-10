@@ -1,0 +1,4 @@
+[u'tennis_ball', 0.042123556, u'spotlight', 0.037535042, u'lens_cap', 0.027471466, u'golf_ball', 0.026608221, u'leatherback_turtle', 0.024651026]
+[u'rule', 0.19191894, u'nail', 0.13497055, u'cleaver', 0.04546706, u'spatula', 0.036744069, u'hook', 0.03015109]
+[u'wine_bottle', 0.60333443, u'red_wine', 0.29341397, u'beer_bottle', 0.040094435, u'perfume', 0.020932358, u'refrigerator', 0.0075974097]
+[u'scuba_diver', 0.23306386, u'fountain', 0.093048297, u'jellyfish', 0.086734019, u'snorkel', 0.082501695, u'dugong', 0.056338992]

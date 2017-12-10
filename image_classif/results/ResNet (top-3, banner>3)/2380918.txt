@@ -1,0 +1,7 @@
+[u'window_screen', 0.43375409, u'digital_clock', 0.17143834, u'fire_screen', 0.085978329]
+[u'Gordon_setter', 0.11637838, u'silky_terrier', 0.098882057, u'Border_terrier', 0.056104973]
+[u'seashore', 0.3481673, u'valley', 0.089389138, u'suspension_bridge', 0.082378425]
+[u'crossword_puzzle', 0.98662078, u'web_site', 0.003649578, u'picket_fence', 0.0010451147]
+[u'web_site', 0.51713866, u'envelope', 0.046372037, u'menu', 0.042478647]
+[u'plunger', 0.2602424, u'wine_bottle', 0.10212088, u'red_wine', 0.073651358]
+[u'window_screen', 0.40674397, u'common_newt', 0.084680207, u'alligator_lizard', 0.02849962]

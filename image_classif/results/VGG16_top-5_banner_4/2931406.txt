@@ -1,0 +1,2 @@
+[u'nipple', 0.070427507, u'nail', 0.037299611, u'hook', 0.034621641, u'safety_pin', 0.032929379, u'megalith', 0.031616289]
+[u'web_site', 0.83186144, u'ibex', 0.019410243, u'envelope', 0.011272605, u'alp', 0.010319886, u'book_jacket', 0.010021382]

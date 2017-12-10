@@ -1,0 +1,2 @@
+[u'web_site', 0.25325182, u'cheetah', 0.062592082, u'window_screen', 0.038664714]
+[u'web_site', 0.73508883, u'monitor', 0.057038881, u'shower_cap', 0.049860578]

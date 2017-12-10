@@ -1,0 +1,6 @@
+[u'book_jacket', 0.27041176, u'nail', 0.05402866, u"carpenter's_kit", 0.045679599, u'carton', 0.029108234, u'candle', 0.027483113]
+[u'book_jacket', 0.30339646, u'street_sign', 0.10699312, u'perfume', 0.068961494, u'comic_book', 0.051776227, u'traffic_light', 0.044387016]
+[u'wine_bottle', 0.48943514, u'red_wine', 0.31264335, u'hair_spray', 0.039968193, u'beer_bottle', 0.024528813, u'perfume', 0.023453508]
+[u'red_wine', 0.57648665, u'wine_bottle', 0.34904614, u'beer_bottle', 0.039211035, u'chocolate_sauce', 0.0090998868, u'hamper', 0.0076666959]
+[u'red_wine', 0.5658983, u'wine_bottle', 0.35764933, u'beer_bottle', 0.041381061, u'chocolate_sauce', 0.0082743261, u'corkscrew', 0.0077023986]
+[u'red_wine', 0.57752687, u'wine_bottle', 0.33503008, u'beer_bottle', 0.049551714, u'corkscrew', 0.011072469, u'chocolate_sauce', 0.0074330228]

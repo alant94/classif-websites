@@ -1,0 +1,2 @@
+[u'book_jacket', 0.30630314, u'envelope', 0.092154615, u'ski', 0.065203302, u'wallet', 0.02908258, u'scabbard', 0.0213513]
+[u'street_sign', 0.26653901, u'book_jacket', 0.14765792, u'barbershop', 0.095441364, u'cinema', 0.032641381, u'traffic_light', 0.032380089]

@@ -1,0 +1,2 @@
+[u'hair_spray', 0.52355433, u'lotion', 0.1695547, u'perfume', 0.067620665]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

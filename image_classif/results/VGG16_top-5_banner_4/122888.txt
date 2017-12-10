@@ -1,0 +1,5 @@
+[u'birdhouse', 0.47904906, u'Christmas_stocking', 0.04513257, u'shield', 0.033227168, u'packet', 0.028025443, u'drum', 0.022130532]
+[u'monitor', 0.19361779, u'screen', 0.13664864, u'television', 0.078749254, u'web_site', 0.077810831, u'home_theater', 0.051363576]
+[u'Christmas_stocking', 0.28316295, u'packet', 0.12786363, u'envelope', 0.068586305, u'quill', 0.035966586, u'pinwheel', 0.030681506]
+[u'web_site', 0.085885458, u'envelope', 0.071597122, u'Windsor_tie', 0.014401365, u'velvet', 0.013853311, u'wardrobe', 0.013375009]
+[u'web_site', 0.20177355, u'envelope', 0.13003027, u'ice_bear', 0.021096881, u'monitor', 0.020741902, u'binder', 0.016609522]

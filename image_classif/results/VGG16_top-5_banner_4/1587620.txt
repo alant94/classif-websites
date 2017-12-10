@@ -1,0 +1,3 @@
+[u'bathtub', 0.10226288, u'face_powder', 0.099996716, u'perfume', 0.074066587, u'tub', 0.057574354, u'lipstick', 0.053466074]
+[u'bath_towel', 0.053663924, u'Band_Aid', 0.042658959, u'shower_cap', 0.03989438, u'diaper', 0.039334521, u'sunscreen', 0.036707014]
+[u'jersey', 0.38052863, u'bulletproof_vest', 0.12450849, u'dumbbell', 0.12168285, u'apron', 0.036686473, u'maillot', 0.014491851]

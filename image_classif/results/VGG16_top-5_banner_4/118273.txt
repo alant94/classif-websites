@@ -1,0 +1,1 @@
+[u'digital_clock', 0.4074342, u'scoreboard', 0.089054845, u'digital_watch', 0.050165303, u'Band_Aid', 0.035001509, u'street_sign', 0.03122435]

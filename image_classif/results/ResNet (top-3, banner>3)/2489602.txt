@@ -1,0 +1,8 @@
+[u'bathing_cap', 0.22183096, u'mortarboard', 0.14437859, u'wine_bottle', 0.099273212]
+[u'suit', 0.17338867, u'paintbrush', 0.14098403, u'mortarboard', 0.061254308]
+[u'church', 0.29692921, u'thatch', 0.18945454, u'tile_roof', 0.085978009]
+[u'altar', 0.12795886, u'suit', 0.12681623, u'dining_table', 0.053952619]
+[u'butcher_shop', 0.9552266, u'grocery_store', 0.014561063, u'street_sign', 0.0092833675]
+[u'electric_guitar', 0.28142068, u'bassoon', 0.17286065, u'oboe', 0.079008654]
+[u'jean', 0.1611478, u'gown', 0.12186205, u'overskirt', 0.048548136]
+[u'cowboy_boot', 0.16100988, u'wardrobe', 0.14722885, u'shoe_shop', 0.091218516]

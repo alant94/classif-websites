@@ -1,0 +1,2 @@
+[u'throne', 0.098744489, u'altar', 0.063558094, u'wall_clock', 0.039909851, u'vault', 0.034947418, u'gown', 0.034313351]
+[u'digital_clock', 0.057541963, u'maze', 0.046754234, u'jigsaw_puzzle', 0.045971207, u'envelope', 0.04351607, u'velvet', 0.037923317]

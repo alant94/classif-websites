@@ -1,0 +1,1 @@
+[u'lampshade', 0.14566521, u'candle', 0.12805179, u'brassiere', 0.095523387, u'ping-pong_ball', 0.046172004, u'matchstick', 0.042696036]

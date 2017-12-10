@@ -1,0 +1,4 @@
+[u'mobile_home', 0.29354668, u'patio', 0.16678973, u'maze', 0.045322146, u'brass', 0.036684848, u'lakeside', 0.024364959]
+[u'packet', 0.24728049, u'quill', 0.2344317, u'paper_towel', 0.054235369, u'envelope', 0.044700403, u'plastic_bag', 0.038363028]
+[u'mobile_home', 0.61764514, u'boathouse', 0.043056883, u'stone_wall', 0.041802343, u'worm_fence', 0.035061561, u'lakeside', 0.02962232]
+[u'street_sign', 0.36517891, u'brass', 0.12123035, u'park_bench', 0.052177679, u'ashcan', 0.038544029, u'mailbox', 0.030231003]

@@ -1,0 +1,6 @@
+[u'television', 0.32188302, u'web_site', 0.24199903, u'stethoscope', 0.032200705]
+[u'web_site', 0.19278987, u'Band_Aid', 0.18542136, u'book_jacket', 0.16516821]
+[u'book_jacket', 0.19004038, u'screwdriver', 0.084641241, u'web_site', 0.069430269]
+[u'web_site', 0.74410802, u'monitor', 0.055307664, u'television', 0.055285309]
+[u'loudspeaker', 0.46393636, u'gong', 0.20796816, u'Polaroid_camera', 0.10474233]
+[u'Band_Aid', 0.10142628, u'nipple', 0.098116808, u'binder', 0.089578658]

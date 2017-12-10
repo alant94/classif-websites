@@ -1,0 +1,1 @@
+[u'restaurant', 0.14849241, u'water_jug', 0.097945899, u'perfume', 0.08885777, u'beer_glass', 0.08784768, u'wine_bottle', 0.086681701]

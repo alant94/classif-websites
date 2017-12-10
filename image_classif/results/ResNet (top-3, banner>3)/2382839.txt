@@ -1,0 +1,7 @@
+[u'chain', 0.09801767, u'breastplate', 0.097672693, u'cowboy_boot', 0.084815897]
+[u'palace', 0.30918285, u'church', 0.16159542, u'totem_pole', 0.10823787]
+[u'monitor', 0.34336323, u'television', 0.19887868, u'Windsor_tie', 0.051561885]
+[u'restaurant', 0.4199976, u'folding_chair', 0.13110825, u'dining_table', 0.11350695]
+[u'church', 0.70771515, u'palace', 0.16470248, u'boathouse', 0.058839157]
+[u'web_site', 0.33673403, u'buckle', 0.15243576, u'lighter', 0.064995542]
+[u'barrel', 0.94342548, u'dishwasher', 0.019375509, u'folding_chair', 0.0082468353]

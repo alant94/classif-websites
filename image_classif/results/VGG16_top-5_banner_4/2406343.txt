@@ -1,0 +1,7 @@
+[u'spotlight', 0.7570284, u'strainer', 0.16306069, u'washbasin', 0.041748568, u'microphone', 0.01416818, u'toilet_seat', 0.010080623]
+[u'washer', 0.3620978, u'loudspeaker', 0.1042776, u'nipple', 0.087881833, u'cassette_player', 0.026508611, u'paper_towel', 0.026394624]
+[u'spotlight', 0.44502831, u'loupe', 0.076688901, u'toilet_seat', 0.067202881, u'gasmask', 0.052983992, u'can_opener', 0.027707826]
+[u'spotlight', 0.27492931, u'coil', 0.14764374, u'bottlecap', 0.10704692, u'digital_watch', 0.075436026, u'bolo_tie', 0.056065332]
+[u'spotlight', 0.84205914, u'strainer', 0.019862762, u'microphone', 0.014385059, u'gasmask', 0.007762352, u'table_lamp', 0.0072824848]
+[u'spotlight', 0.17408849, u'espresso_maker', 0.066046678, u'breastplate', 0.053710803, u'vacuum', 0.049849775, u'cuirass', 0.039135635]
+[u'spotlight', 0.72533894, u'hand_blower', 0.064961351, u'soap_dispenser', 0.033558913, u'table_lamp', 0.015551134, u'maraca', 0.0155328]

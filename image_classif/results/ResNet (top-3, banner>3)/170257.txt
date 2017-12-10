@@ -1,0 +1,7 @@
+[u'hair_slide', 0.2111382, u'hair_spray', 0.08883699, u'groom', 0.059536722]
+[u'comic_book', 0.70464993, u'book_jacket', 0.25304601, u'web_site', 0.012500328]
+[u'book_jacket', 0.20808075, u'comic_book', 0.14939204, u'binder', 0.099364534]
+[u'digital_clock', 0.59934938, u'crossword_puzzle', 0.041362144, u'analog_clock', 0.039746832]
+[u'dial_telephone', 0.99967241, u'pay-phone', 0.00032610993, u'cellular_telephone', 4.9076317e-07]
+[u'violin', 0.73988879, u'cello', 0.087855041, u'banjo', 0.044211566]
+[u'violin', 0.21629089, u'assault_rifle', 0.20523192, u'cello', 0.14814125]

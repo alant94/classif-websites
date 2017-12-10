@@ -1,0 +1,3 @@
+[u'breakwater', 0.31087834, u'triumphal_arch', 0.11289223, u'obelisk', 0.050743107, u'palace', 0.04910963, u'fountain', 0.041118227]
+[u'soccer_ball', 0.73848492, u'torch', 0.076139338, u'volleyball', 0.060208779, u'racket', 0.016928528, u'basketball', 0.015594801]
+[u'poncho', 0.20952818, u'lampshade', 0.089495674, u'jersey', 0.082198091, u'abaya', 0.072787859, u'throne', 0.038076963]

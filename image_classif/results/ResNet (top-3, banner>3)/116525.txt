@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.16622876, u'soap_dispenser', 0.065363392, u'nipple', 0.046593092]
+[u'combination_lock', 0.38884091, u'revolver', 0.13053887, u'switch', 0.10041603]
+[u'web_site', 0.40350604, u'container_ship', 0.13284434, u'television', 0.098030373]
+[u'web_site', 0.03437544, u'bow', 0.033582658, u'bolo_tie', 0.031536978]
+[u'web_site', 0.30941665, u'tripod', 0.14374192, u'rifle', 0.094363414]

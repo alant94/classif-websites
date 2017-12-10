@@ -1,0 +1,4 @@
+[u'menu', 0.860982, u'scoreboard', 0.032037813, u'brass', 0.023742318]
+[u'sandal', 0.30140129, u'sombrero', 0.044167425, u'scuba_diver', 0.031073013]
+[u'mask', 0.29278675, u'castle', 0.027835913, u'fountain', 0.026711253]
+[u'menu', 0.43715146, u'handkerchief', 0.087735407, u'scoreboard', 0.084751256]

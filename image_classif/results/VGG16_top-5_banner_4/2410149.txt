@@ -1,0 +1,1 @@
+[u'bell_cote', 0.53847337, u'suspension_bridge', 0.21844672, u'viaduct', 0.06777937, u'chime', 0.035515729, u'beacon', 0.023765471]

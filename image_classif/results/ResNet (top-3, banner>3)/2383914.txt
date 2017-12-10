@@ -1,0 +1,5 @@
+[u'nematode', 0.15523243, u'dishwasher', 0.087953888, u'envelope', 0.019927885]
+[u'puck', 0.21029894, u'shield', 0.094318815, u'toilet_seat', 0.083957799]
+[u'toilet_seat', 0.52230155, u'racket', 0.19053987, u'bolo_tie', 0.07451465]
+[u'racket', 0.77463484, u'toilet_seat', 0.094275929, u'tennis_ball', 0.031233596]
+[u'web_site', 0.17179069, u'puck', 0.13255525, u"jack-o'-lantern", 0.06282302]

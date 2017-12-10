@@ -1,0 +1,4 @@
+[u'hair_spray', 0.21704811, u'lotion', 0.15701477, u'sunscreen', 0.11170644]
+[u'traffic_light', 0.39911732, u'digital_clock', 0.14358456, u'oscilloscope', 0.12141586]
+[u'hook', 0.25912014, u'bulletproof_vest', 0.16472107, u'muzzle', 0.077102564]
+[u'lighter', 0.20311472, u'digital_watch', 0.12531413, u'analog_clock', 0.073894873]

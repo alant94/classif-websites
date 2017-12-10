@@ -1,0 +1,4 @@
+[u'shield', 0.97378767, u'chambered_nautilus', 0.01503844, u'mask', 0.0016448973, u'bubble', 0.00099647872, u'steel_drum', 0.00083309266]
+[u'half_track', 0.38747713, u'tank', 0.1579404, u'military_uniform', 0.12988578, u'bulletproof_vest', 0.11840872, u'amphibian', 0.010443929]
+[u'envelope', 0.11997935, u'jersey', 0.077553891, u'web_site', 0.042897005, u'menu', 0.042179279, u'carton', 0.034708403]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

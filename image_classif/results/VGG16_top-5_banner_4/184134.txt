@@ -1,0 +1,1 @@
+[u'envelope', 0.436551, u'web_site', 0.089726843, u'Band_Aid', 0.027671557, u'nipple', 0.017757472, u'binder', 0.016567916]

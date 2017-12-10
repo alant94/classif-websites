@@ -1,0 +1,8 @@
+[u'French_loaf', 0.32770965, u'meat_loaf', 0.19846024, u'hotdog', 0.14766975, u'butcher_shop', 0.084353313, u'American_lobster', 0.081043772]
+[u'mortarboard', 0.90758198, u'academic_gown', 0.068468198, u'wall_clock', 0.0044513079, u'analog_clock', 0.0036830562, u'warplane', 0.0035926709]
+[u'barrel', 0.065179609, u'hippopotamus', 0.040991973, u'quilt', 0.036802974, u'mosquito_net', 0.023972431, u'dam', 0.022994841]
+[u'clog', 0.8007977, u'wooden_spoon', 0.036078863, u'panpipe', 0.03117539, u'ocarina', 0.024580382, u'pick', 0.017639497]
+[u'tray', 0.059329402, u'butcher_shop', 0.048303235, u'ice_cream', 0.044093277, u'plate', 0.041101117, u'banana', 0.040487446]
+[u'buckle', 0.51085424, u'lighter', 0.11348739, u'hair_slide', 0.055909291, u'bottlecap', 0.044475794, u'bolo_tie', 0.024085533]
+[u'burrito', 0.31829959, u'ice_cream', 0.11364875, u'plate', 0.076470405, u'American_lobster', 0.043055192, u'Dungeness_crab', 0.032095257]
+[u'ear', 0.16107054, u'stole', 0.093919814, u'bittern', 0.08096575, u'corn', 0.052612763, u'handkerchief', 0.048237432]

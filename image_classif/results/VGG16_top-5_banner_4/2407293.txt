@@ -1,0 +1,6 @@
+[u'web_site', 0.28302231, u'wardrobe', 0.10799962, u'bow_tie', 0.068242922, u'Windsor_tie', 0.051506177, u'prison', 0.022863608]
+[u'wardrobe', 0.31491023, u'ski', 0.10657406, u'comic_book', 0.09840025, u'web_site', 0.038341533, u'sarong', 0.030536223]
+[u'shower_curtain', 0.5371424, u'window_shade', 0.14442411, u'prison', 0.043731734, u'sliding_door', 0.040324461, u'totem_pole', 0.020619186]
+[u'wardrobe', 0.68458116, u'jean', 0.041198641, u'shower_curtain', 0.039284397, u'abaya', 0.026338704, u'bow_tie', 0.017914135]
+[u'sliding_door', 0.43133193, u'wardrobe', 0.11548397, u'window_shade', 0.073443614, u'shower_curtain', 0.06535507, u'kimono', 0.046951089]
+[u'cinema', 0.90074331, u'bell_cote', 0.016952548, u'totem_pole', 0.015063838, u'church', 0.014227933, u'analog_clock', 0.013425926]

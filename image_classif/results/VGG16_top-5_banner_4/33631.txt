@@ -1,0 +1,3 @@
+[u'envelope', 0.41823009, u'laptop', 0.06485416, u'notebook', 0.0570109, u'iPod', 0.028443687, u'web_site', 0.025721367]
+[u'web_site', 0.079314038, u'pill_bottle', 0.06359189, u'digital_clock', 0.059952106, u'envelope', 0.054242671, u'stopwatch', 0.040224999]
+[u'switch', 0.34556362, u'iPod', 0.12129417, u'digital_clock', 0.076029725, u'street_sign', 0.070472486, u'notebook', 0.033857647]

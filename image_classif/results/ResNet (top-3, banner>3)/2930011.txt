@@ -1,0 +1,8 @@
+[u'envelope', 0.29062754, u'web_site', 0.25453609, u'washer', 0.1948745]
+[u'book_jacket', 0.2541644, u'unicycle', 0.074088402, u'tripod', 0.057365689]
+[u'web_site', 0.42854014, u'cardoon', 0.068380043, u'hair_spray', 0.023892635]
+[u'web_site', 0.27916923, u'oscilloscope', 0.25226516, u'nematode', 0.031686373]
+[u'hair_spray', 0.17590724, u'iron', 0.099902071, u'apron', 0.060550693]
+[u'ping-pong_ball', 0.59336329, u'balloon', 0.17213039, u'candle', 0.087403305]
+[u'web_site', 0.64552087, u'envelope', 0.043415263, u'dishwasher', 0.016140783]
+[u'jigsaw_puzzle', 0.31472847, u'menu', 0.094836995, u'bookshop', 0.088162407]

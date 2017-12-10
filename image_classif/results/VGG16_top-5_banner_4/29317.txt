@@ -1,0 +1,3 @@
+[u'web_site', 0.20809089, u'cash_machine', 0.071927391, u'binder', 0.057976406, u'Tibetan_mastiff', 0.054097496, u'printer', 0.04423051]
+[u'acoustic_guitar', 0.094984286, u'cello', 0.093071118, u"jack-o'-lantern", 0.091004387, u'ski_mask', 0.07382305, u'mask', 0.062273506]
+[u'brassiere', 0.30602795, u'bikini', 0.15224375, u'maillot', 0.1430869, u'maillot', 0.1283762, u'web_site', 0.075080819]

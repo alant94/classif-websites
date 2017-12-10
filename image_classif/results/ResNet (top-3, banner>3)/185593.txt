@@ -1,0 +1,4 @@
+[u'snowmobile', 0.46496132, u'racer', 0.18806122, u'bobsled', 0.11178958]
+[u'racer', 0.70244485, u'sports_car', 0.071113758, u'grille', 0.066801436]
+[u'bobsled', 0.47163343, u'racer', 0.34520352, u'cab', 0.054115213]
+[u'racer', 0.89743429, u'sports_car', 0.086687706, u'tow_truck', 0.0077263685]

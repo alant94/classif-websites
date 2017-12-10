@@ -1,0 +1,7 @@
+[u'space_shuttle', 0.18889521, u'window_screen', 0.17083123, u'cowboy_hat', 0.11049597]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'analog_clock', 0.71934164, u'stopwatch', 0.23403636, u'barometer', 0.028734012]
+[u'plunger', 0.87326509, u'switch', 0.017584188, u'pencil_sharpener', 0.014897257]
+[u'electric_fan', 0.67132843, u'nipple', 0.091790915, u'gasmask', 0.056009565]
+[u'analog_clock', 0.88262105, u'projectile', 0.01454175, u'screwdriver', 0.008114052]
+[u'loudspeaker', 0.24818484, u'CD_player', 0.24461874, u'radio', 0.18002857]

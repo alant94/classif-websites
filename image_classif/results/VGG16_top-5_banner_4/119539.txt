@@ -1,0 +1,2 @@
+[u'screwdriver', 0.18856964, u'syringe', 0.17813481, u'picket_fence', 0.16193068, u'book_jacket', 0.020850662, u'whistle', 0.019907465]
+[u'street_sign', 0.16205555, u'nail', 0.0558457, u'hook', 0.040229268, u'shopping_basket', 0.035729162, u'web_site', 0.033608548]

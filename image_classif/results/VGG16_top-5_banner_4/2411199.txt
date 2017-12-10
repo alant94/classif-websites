@@ -1,0 +1,3 @@
+[u'screw', 0.63225186, u'hair_slide', 0.098099545, u'rubber_eraser', 0.034796342, u'nail', 0.034712125, u'space_shuttle', 0.018618375]
+[u'web_site', 0.075303718, u'envelope', 0.039071005, u'matchstick', 0.021743344, u'wall_clock', 0.015969537, u'analog_clock', 0.015280863]
+[u'diaper', 0.44366044, u'tub', 0.1328055, u'bathtub', 0.082979023, u'crib', 0.065601066, u'bucket', 0.029240793]

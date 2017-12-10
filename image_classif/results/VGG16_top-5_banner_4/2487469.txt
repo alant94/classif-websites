@@ -1,0 +1,3 @@
+[u'freight_car', 0.57611161, u'shower_curtain', 0.22380248, u'binder', 0.080223635, u'wallet', 0.055633344, u'fire_screen', 0.020636132]
+[u'volcano', 0.55567163, u'theater_curtain', 0.089895099, u'traffic_light', 0.027200025, u'stage', 0.024068739, u"jack-o'-lantern", 0.023397895]
+[u'book_jacket', 0.50290662, u'comic_book', 0.41205868, u'coffee_mug', 0.0079871956, u'street_sign', 0.0070254249, u'barbershop', 0.0035388723]

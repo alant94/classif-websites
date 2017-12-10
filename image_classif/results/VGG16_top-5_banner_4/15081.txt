@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.13293479, u'prison', 0.11689363, u'monastery', 0.11250978, u'vault', 0.080259174, u'fountain', 0.058148228]

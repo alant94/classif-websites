@@ -1,0 +1,6 @@
+[u'pencil_sharpener', 0.30001116, u'lighter', 0.13695408, u'espresso_maker', 0.077743866, u'switch', 0.072607063, u'buckle', 0.05417468]
+[u'letter_opener', 0.16813587, u'cleaver', 0.066117711, u'corkscrew', 0.05930892, u'iron', 0.051159628, u'ski', 0.037617054]
+[u'gas_pump', 0.26548806, u'cash_machine', 0.13938074, u'spotlight', 0.040856231, u'medicine_chest', 0.038397372, u'vending_machine', 0.036355078]
+[u'water_jug', 0.090384372, u'washer', 0.085652426, u'soap_dispenser', 0.081250995, u'nipple', 0.074551076, u'cocktail_shaker', 0.063116334]
+[u'Polaroid_camera', 0.33934426, u'microwave', 0.31216872, u'oscilloscope', 0.098741256, u'stove', 0.036692336, u'screen', 0.035936583]
+[u'switch', 0.34463078, u'joystick', 0.27677101, u'power_drill', 0.074700639, u"carpenter's_kit", 0.047173433, u'binoculars', 0.042495891]

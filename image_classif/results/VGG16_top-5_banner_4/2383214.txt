@@ -1,0 +1,4 @@
+[u'street_sign', 0.36967599, u'traffic_light', 0.12657733, u'book_jacket', 0.06992384, u'oil_filter', 0.047067702, u'Band_Aid', 0.042049415]
+[u'tray', 0.18752643, u'digital_watch', 0.14904146, u'folding_chair', 0.088507071, u'modem', 0.053490207, u'street_sign', 0.052381873]
+[u'boathouse', 0.19564943, u'church', 0.14689158, u'monastery', 0.093547247, u'bell_cote', 0.092230529, u'barn', 0.067888595]
+[u'iPod', 0.70661336, u'switch', 0.11906283, u'digital_clock', 0.038130254, u'television', 0.015093435, u'lighter', 0.010622464]

@@ -1,0 +1,6 @@
+[u'seat_belt', 0.22432068, u'brassiere', 0.088554576, u'miniskirt', 0.081626289, u'maillot', 0.064229429, u'bath_towel', 0.04092633]
+[u'bath_towel', 0.43677363, u'bikini', 0.073413789, u'tub', 0.067844033, u'brassiere', 0.063060112, u'swimming_trunks', 0.045546897]
+[u'sleeping_bag', 0.21036653, u'bath_towel', 0.086985573, u'velvet', 0.083055027, u'miniskirt', 0.080412835, u'cloak', 0.079673305]
+[u'brassiere', 0.16284193, u'flute', 0.15700223, u'oboe', 0.13211435, u'maillot', 0.071298696, u'miniskirt', 0.051304739]
+[u'maillot', 0.262312, u'brassiere', 0.14195302, u'maillot', 0.10767192, u'harp', 0.10204747, u'miniskirt', 0.089614496]
+[u'bikini', 0.22030658, u'maillot', 0.15818107, u'maillot', 0.085412152, u'sunscreen', 0.072719447, u'swimming_trunks', 0.049686283]

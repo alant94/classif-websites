@@ -1,0 +1,1 @@
+[u'picket_fence', 0.15797806, u"carpenter's_kit", 0.13292649, u'ballpoint', 0.077201203, u'ski', 0.05450651, u'screwdriver', 0.05132623]

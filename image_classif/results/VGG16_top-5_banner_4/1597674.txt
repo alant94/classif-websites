@@ -1,0 +1,2 @@
+[u'bolo_tie', 0.061521642, u'vacuum', 0.061359249, u'mailbag', 0.057604257, u'drum', 0.047474954, u'whistle', 0.045713246]
+[u'drum', 0.20805539, u'face_powder', 0.12827159, u'pick', 0.10074262, u'sunglass', 0.036118902, u'bucket', 0.016859069]

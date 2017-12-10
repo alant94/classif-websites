@@ -1,0 +1,1 @@
+[u'picket_fence', 0.11322287, u'coil', 0.10720626, u'vase', 0.086534493, u'maze', 0.056103237, u'water_bottle', 0.027799958]

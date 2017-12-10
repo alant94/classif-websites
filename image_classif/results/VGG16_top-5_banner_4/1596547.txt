@@ -1,0 +1,7 @@
+[u'jersey', 0.064248383, u'digital_clock', 0.058712322, u'book_jacket', 0.031422094, u'abaya', 0.024383634, u'street_sign', 0.023352111]
+[u'web_site', 0.17165439, u'hand_blower', 0.16418037, u'monitor', 0.12929897, u'can_opener', 0.071875319, u'whistle', 0.03978936]
+[u'fountain', 0.19264206, u'altar', 0.075472169, u'mosque', 0.071252018, u'space_shuttle', 0.068148091, u'fireboat', 0.048442174]
+[u'shower_curtain', 0.19876447, u'prayer_rug', 0.028760329, u'wall_clock', 0.028612135, u'doormat', 0.025319941, u'digital_clock', 0.024496747]
+[u'wig', 0.10891304, u'brassiere', 0.094312042, u'maillot', 0.08707349, u'shower_cap', 0.053165544, u'shower_curtain', 0.045832548]
+[u'fountain', 0.22952083, u'bald_eagle', 0.095474705, u'vulture', 0.082292251, u'white_stork', 0.056107577, u'picket_fence', 0.051003724]
+[u'web_site', 0.73156786, u'envelope', 0.032065768, u'stethoscope', 0.014633694, u'monitor', 0.012277919, u'screen', 0.0093782777]

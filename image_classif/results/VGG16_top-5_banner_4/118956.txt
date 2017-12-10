@@ -1,0 +1,5 @@
+[u'backpack', 0.066752568, u'mailbag', 0.056301482, u'diaper', 0.050687771, u'cloak', 0.04166916, u'gasmask', 0.035269901]
+[u'web_site', 0.1129128, u'digital_clock', 0.10835913, u'safe', 0.055621605, u'cash_machine', 0.053346835, u'monitor', 0.047296133]
+[u'medicine_chest', 0.32055035, u'bookcase', 0.14838143, u'perfume', 0.12725842, u'washbasin', 0.031011065, u'wardrobe', 0.029468857]
+[u'washbasin', 0.13021806, u'bookcase', 0.06903217, u'file', 0.055927496, u'wardrobe', 0.05217512, u'medicine_chest', 0.048597489]
+[u'medicine_chest', 0.71094608, u'perfume', 0.12592618, u'bookcase', 0.027848816, u'lotion', 0.013282581, u'soap_dispenser', 0.011511615]

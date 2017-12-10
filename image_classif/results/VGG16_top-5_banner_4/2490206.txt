@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.33491242, u'Windsor_tie', 0.063648798, u'shower_curtain', 0.031732149, u'pill_bottle', 0.024617238, u'quilt', 0.017654486]
+[u'boathouse', 0.16585381, u'mosque', 0.051170971, u'planetarium', 0.047874, u'dome', 0.032712214, u'lakeside', 0.0300999]

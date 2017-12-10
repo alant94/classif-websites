@@ -1,0 +1,1 @@
+[u'wardrobe', 0.42289135, u'entertainment_center', 0.13184777, u'refrigerator', 0.087116063, u'file', 0.072762653, u'chiffonier', 0.051017415]

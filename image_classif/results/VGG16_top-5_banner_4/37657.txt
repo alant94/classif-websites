@@ -1,0 +1,2 @@
+[u'binder', 0.36332145, u'street_sign', 0.12971574, u'ski', 0.042061985, u'hook', 0.040937662, u'plate_rack', 0.024595695]
+[u'crossword_puzzle', 0.75317585, u'shower_curtain', 0.039538197, u'Windsor_tie', 0.025173279, u'quilt', 0.021858746, u'stole', 0.0066676252]

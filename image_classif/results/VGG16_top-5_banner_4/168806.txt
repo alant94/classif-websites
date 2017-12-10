@@ -1,0 +1,1 @@
+[u'thresher', 0.90423405, u'tractor', 0.065311491, u'plow', 0.01868367, u'horse_cart', 0.0051241075, u'harvester', 0.0035686437]

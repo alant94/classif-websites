@@ -1,0 +1,6 @@
+[u'envelope', 0.25801378, u'web_site', 0.079474673, u'switch', 0.057851788, u'spotlight', 0.037276287, u'whistle', 0.036841862]
+[u'castle', 0.77167445, u'jigsaw_puzzle', 0.043049533, u'water_bottle', 0.029028162, u'seashore', 0.026428929, u'palace', 0.013149427]
+[u'picket_fence', 0.53531122, u'paddlewheel', 0.045362197, u'paintbrush', 0.044701681, u'cleaver', 0.029023057, u'rocking_chair', 0.021576479]
+[u'whistle', 0.36539128, u'nipple', 0.34437734, u'rubber_eraser', 0.057429899, u'ballpoint', 0.040550236, u'candle', 0.039400849]
+[u'cash_machine', 0.21249926, u'vending_machine', 0.17908198, u'turnstile', 0.11999123, u'sliding_door', 0.042875808, u'prison', 0.041107815]
+[u'mailbox', 0.34683126, u'candle', 0.090636283, u'cinema', 0.062681168, u'lighter', 0.054825727, u'hair_spray', 0.038128868]

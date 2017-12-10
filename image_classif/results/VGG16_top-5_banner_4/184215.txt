@@ -1,0 +1,1 @@
+[u'oil_filter', 0.26524854, u'lotion', 0.11133634, u'book_jacket', 0.088710986, u'cash_machine', 0.087108649, u'hair_spray', 0.073826842]

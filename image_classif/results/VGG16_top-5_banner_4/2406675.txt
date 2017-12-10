@@ -1,0 +1,7 @@
+[u'ski_mask', 0.10825691, u'bubble', 0.061234992, u'mask', 0.052341759, u'electric_guitar', 0.051863085, u'volleyball', 0.044531159]
+[u'oscilloscope', 0.40289044, u'microwave', 0.15149266, u'loudspeaker', 0.087438077, u'switch', 0.056142703, u'tape_player', 0.042708021]
+[u'parachute', 0.37711337, u'piggy_bank', 0.16428202, u'balloon', 0.1037314, u'airship', 0.049245, u'sulphur-crested_cockatoo', 0.046239652]
+[u'Band_Aid', 0.10165603, u'lighter', 0.053146888, u'street_sign', 0.046910264, u'water_bottle', 0.04168988, u'oil_filter', 0.034267168]
+[u'picket_fence', 0.49744743, u'paintbrush', 0.060647987, u'wine_bottle', 0.049951226, u'barbershop', 0.047757383, u'crate', 0.039525714]
+[u'tape_player', 0.61571532, u'cassette', 0.077048026, u'projector', 0.040053725, u'switch', 0.0323603, u'hard_disc', 0.022229439]
+[u'vending_machine', 0.60396188, u'cash_machine', 0.078327961, u'television', 0.05647178, u'cellular_telephone', 0.041535966, u'pay-phone', 0.040416453]

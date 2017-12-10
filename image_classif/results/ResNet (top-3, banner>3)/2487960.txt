@@ -1,0 +1,4 @@
+[u'barn', 0.18533583, u'picket_fence', 0.11278577, u'patio', 0.11252867]
+[u'hartebeest', 0.45572019, u'gazelle', 0.11626667, u'water_buffalo', 0.086045511]
+[u'hartebeest', 0.43131185, u'bison', 0.22896032, u'water_buffalo', 0.13308589]
+[u'hartebeest', 0.90077358, u'ibex', 0.055984333, u'gazelle', 0.029876741]

@@ -1,0 +1,7 @@
+[u'coil', 0.26658595, u'necklace', 0.048933994, u'iPod', 0.043989286, u'buckle', 0.035308916, u'maze', 0.031841762]
+[u'sunglass', 0.067826279, u'envelope', 0.045129932, u'sunglasses', 0.035353724, u'can_opener', 0.025838794, u'Band_Aid', 0.025204699]
+[u'sarong', 0.14467414, u'stole', 0.085616544, u'maillot', 0.071596459, u'pajama', 0.054392733, u'bikini', 0.035717238]
+[u'spotlight', 0.085878022, u'loupe', 0.064405046, u'street_sign', 0.052649178, u'hook', 0.048229724, u'electric_fan', 0.036228221]
+[u'digital_clock', 0.32192069, u'analog_clock', 0.061307594, u'lens_cap', 0.047518481, u'buckle', 0.044379424, u'bolo_tie', 0.038417485]
+[u'fountain', 0.68308914, u'shower_curtain', 0.027621269, u'gown', 0.02616425, u'paintbrush', 0.023427384, u'chain', 0.019515757]
+[u'lighter', 0.13106529, u'digital_clock', 0.092845269, u'binder', 0.051663972, u'modem', 0.046577174, u'sunscreen', 0.044755533]

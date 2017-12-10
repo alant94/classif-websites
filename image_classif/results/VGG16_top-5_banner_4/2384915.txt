@@ -1,0 +1,1 @@
+[u'monitor', 0.24542332, u'screen', 0.18089737, u'oscilloscope', 0.11775618, u'laptop', 0.05821301, u'tray', 0.043843534]

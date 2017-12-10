@@ -1,0 +1,6 @@
+[u'street_sign', 0.44204926, u'menu', 0.061035674, u'moving_van', 0.052222934, u'web_site', 0.026292671, u'traffic_light', 0.024308514]
+[u'ski', 0.26307869, u'shovel', 0.20930761, u'gondola', 0.080492362, u'paintbrush', 0.057286549, u'swab', 0.034652032]
+[u'poncho', 0.23461129, u'swab', 0.063451514, u'crutch', 0.047411386, u'prison', 0.04454669, u'sarong', 0.041382514]
+[u'prison', 0.21398741, u'gondola', 0.13058876, u'church', 0.06861072, u'restaurant', 0.036842048, u'altar', 0.034068681]
+[u'ski', 0.87267637, u'dock', 0.041149627, u'gondola', 0.038707592, u'bobsled', 0.014987187, u'picket_fence', 0.008067105]
+[u'electric_guitar', 0.36658087, u'freight_car', 0.12594239, u'hook', 0.045362417, u'analog_clock', 0.038083043, u'unicycle', 0.02421568]

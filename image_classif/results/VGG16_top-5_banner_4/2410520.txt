@@ -1,0 +1,1 @@
+[u'liner', 0.68914914, u'catamaran', 0.14133754, u'speedboat', 0.067521393, u'lifeboat', 0.028497174, u'container_ship', 0.015123856]

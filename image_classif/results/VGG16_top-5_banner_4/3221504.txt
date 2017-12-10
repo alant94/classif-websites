@@ -1,0 +1,1 @@
+[u'steel_arch_bridge', 0.51665604, u'pier', 0.11075284, u'totem_pole', 0.045908034, u'triumphal_arch', 0.045114428, u'church', 0.029438917]

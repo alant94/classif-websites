@@ -1,0 +1,6 @@
+[u'indigo_bunting', 0.038033336, u'birdhouse', 0.036326166, u'picket_fence', 0.034177665, u'cardoon', 0.027147083, u'monarch', 0.025196597]
+[u'shoe_shop', 0.18260832, u'toyshop', 0.12942128, u'wardrobe', 0.10263239, u'confectionery', 0.079999506, u'brassiere', 0.053158473]
+[u'envelope', 0.19629273, u'book_jacket', 0.13006788, u'oil_filter', 0.096938878, u'mousetrap', 0.05293766, u'packet', 0.050331485]
+[u'restaurant', 0.73620164, u'patio', 0.060996275, u'cinema', 0.02947782, u'library', 0.025474774, u'monastery', 0.020138334]
+[u'corkscrew', 0.18281978, u'comic_book', 0.12001775, u'hook', 0.11109465, u'binder', 0.039880589, u'jersey', 0.037366491]
+[u'envelope', 0.25440866, u'pencil_box', 0.17121957, u'tray', 0.082313515, u'binder', 0.043367572, u'packet', 0.042821225]

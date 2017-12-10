@@ -1,0 +1,1 @@
+[u'screw', 0.51819289, u'syringe', 0.11539258, u'oil_filter', 0.052403949, u'hand_blower', 0.044472955, u'oxygen_mask', 0.026328631]

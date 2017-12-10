@@ -1,0 +1,1 @@
+[u'web_site', 0.14818732, u'street_sign', 0.060832545, u'lighter', 0.05563046, u'hair_spray', 0.054778513, u'envelope', 0.032972183]

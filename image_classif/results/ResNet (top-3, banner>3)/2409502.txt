@@ -1,0 +1,8 @@
+[u'pick', 0.11741949, u'buckle', 0.033652686, u'jersey', 0.031126734]
+[u'necklace', 0.91133529, u'hair_slide', 0.053547081, u'teapot', 0.0064902017]
+[u'necklace', 0.44348952, u'bolo_tie', 0.38889351, u'chain', 0.057987392]
+[u'mailbag', 0.047998395, u'shovel', 0.035045501, u'paintbrush', 0.033015501]
+[u'poncho', 0.91671675, u'breastplate', 0.015501545, u'mask', 0.013802502]
+[u'web_site', 0.57500499, u'television', 0.017598389, u'iron', 0.010376077]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]
+[u'necklace', 0.98104376, u'hair_slide', 0.014369847, u'safety_pin', 0.0012919093]

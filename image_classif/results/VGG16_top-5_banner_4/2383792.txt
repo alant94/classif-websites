@@ -1,0 +1,2 @@
+[u'barrel', 0.2705985, u'theater_curtain', 0.14819488, u'crate', 0.074371241, u'freight_car', 0.073385015, u'barn', 0.053984307]
+[u'binder', 0.25577945, u'tray', 0.15592971, u'birdhouse', 0.064124033, u'chest', 0.06381014, u'cassette', 0.032689366]

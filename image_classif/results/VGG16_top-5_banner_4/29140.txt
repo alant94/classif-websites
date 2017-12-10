@@ -1,0 +1,3 @@
+[u'entertainment_center', 0.77592719, u'television', 0.051243633, u'vending_machine', 0.02729545, u'home_theater', 0.026155345, u'refrigerator', 0.025398327]
+[u'restaurant', 0.084293701, u'altar', 0.079973005, u'lab_coat', 0.069065616, u'vestment', 0.055704162, u'torch', 0.030029943]
+[u'menu', 0.76765662, u'web_site', 0.20301069, u'vending_machine', 0.0060867178, u'binder', 0.0053663533, u'book_jacket', 0.0037332117]

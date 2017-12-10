@@ -1,0 +1,1 @@
+[u'digital_clock', 0.10063306, u'traffic_light', 0.097722612, u'triumphal_arch', 0.065718539]

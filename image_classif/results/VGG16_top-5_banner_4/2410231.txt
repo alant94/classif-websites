@@ -1,0 +1,7 @@
+[u'ibex', 0.047678877, u'otterhound', 0.041899573, u'bib', 0.02715504, u'Bedlington_terrier', 0.023488482, u'white_stork', 0.023050481]
+[u'toilet_tissue', 0.091385953, u'paper_towel', 0.085025854, u'toilet_seat', 0.077435791, u'Christmas_stocking', 0.036263291, u'bib', 0.033809531]
+[u'paper_towel', 0.079238839, u'toilet_tissue', 0.068896174, u'Christmas_stocking', 0.050040431, u'toilet_seat', 0.041268498, u'bib', 0.023405774]
+[u'bib', 0.34102634, u'Christmas_stocking', 0.034059063, u'bonnet', 0.031865351, u'envelope', 0.01764339, u'paper_towel', 0.016241288]
+[u'bathing_cap', 0.13377078, u'Christmas_stocking', 0.055624932, u'jersey', 0.045812033, u'bearskin', 0.029079551, u'mitten', 0.028828539]
+[u'teddy', 0.040907364, u'bell_cote', 0.033143263, u'face_powder', 0.031497959, u'birdhouse', 0.030389192, u'space_shuttle', 0.024309753]
+[u'envelope', 0.30203819, u'book_jacket', 0.21702112, u'jersey', 0.061978351, u'safety_pin', 0.035976827, u'web_site', 0.032698505]

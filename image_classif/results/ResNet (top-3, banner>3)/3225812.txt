@@ -1,0 +1,7 @@
+[u'envelope', 0.61210084, u'menu', 0.098175243, u'packet', 0.0692598]
+[u'comic_book', 0.4204554, u'book_jacket', 0.13321918, u'coil', 0.11479526]
+[u'book_jacket', 0.49215576, u'web_site', 0.079161756, u'street_sign', 0.057553846]
+[u'pier', 0.1223388, u'cab', 0.039581392, u'triumphal_arch', 0.034092233]
+[u'panpipe', 0.88559407, u'church', 0.060855687, u'traffic_light', 0.014786254]
+[u'book_jacket', 0.15862814, u'binder', 0.12482371, u'screen', 0.10054489]
+[u'panpipe', 0.971623, u'marimba', 0.026958631, u'coil', 0.00060647202]

@@ -1,0 +1,6 @@
+[u'lighter', 0.13785981, u'binder', 0.10132199, u'lipstick', 0.05490775]
+[u'web_site', 0.6498515, u'lighter', 0.092854321, u'comic_book', 0.054082576]
+[u'loupe', 0.23876016, u'toilet_seat', 0.19820055, u'skunk', 0.1657034]
+[u'submarine', 0.14241527, u'forklift', 0.12006037, u'guillotine', 0.078834027]
+[u'web_site', 0.95205826, u'envelope', 0.0071959766, u'menu', 0.0055546281]
+[u'digital_clock', 0.0466576, u'web_site', 0.03909101, u'lipstick', 0.030772572]

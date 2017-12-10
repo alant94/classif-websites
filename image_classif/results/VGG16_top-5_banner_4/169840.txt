@@ -1,0 +1,3 @@
+[u'airship', 0.070049748, u'prison', 0.059234545, u'sundial', 0.031343397, u'dam', 0.03038406, u'bannister', 0.027697524]
+[u'tusker', 0.37934983, u'Indian_elephant', 0.29335359, u'African_elephant', 0.055329066, u'water_buffalo', 0.035977259, u'warthog', 0.016897023]
+[u'web_site', 0.47230679, u'comic_book', 0.20572233, u'book_jacket', 0.0658167, u'menu', 0.03690106, u'rifle', 0.0078339633]

@@ -1,0 +1,3 @@
+[u'ballpoint', 0.81616217, u'crossword_puzzle', 0.15885299, u'whistle', 0.0063451449]
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552]
+[u'digital_clock', 0.75639594, u'digital_watch', 0.1248129, u'screen', 0.048429444]

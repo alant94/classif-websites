@@ -1,0 +1,8 @@
+[u"carpenter's_kit", 0.42253783, u'chain_saw', 0.10223398, u'power_drill', 0.075399004, u'screw', 0.032510545, u'buckle', 0.030331032]
+[u'computer_keyboard', 0.21665147, u'remote_control', 0.140165, u'notebook', 0.13664649, u'space_bar', 0.064577401, u'tape_player', 0.063128233]
+[u'swab', 0.26361617, u'crutch', 0.15036693, u'vacuum', 0.095754206, u'broom', 0.047160264, u'shoe_shop', 0.028301813]
+[u'ski', 0.17667989, u'airship', 0.12698328, u'shoe_shop', 0.099681824, u'toyshop', 0.073324934, u'parachute', 0.059271429]
+[u'washbasin', 0.079172812, u'saltshaker', 0.067295313, u'toilet_tissue', 0.065395176, u'sulphur-crested_cockatoo', 0.04919019, u'piggy_bank', 0.047894713]
+[u'perfume', 0.25077578, u'loudspeaker', 0.064339593, u'washbasin', 0.049152758, u'switch', 0.047960773, u'wardrobe', 0.047783226]
+[u'spotlight', 0.16938968, u'joystick', 0.13774988, u'table_lamp', 0.12060253, u'microphone', 0.09334562, u'pencil_sharpener', 0.034065127]
+[u'lighter', 0.40951306, u'perfume', 0.10356047, u'lipstick', 0.034785476, u'can_opener', 0.033040654, u'switch', 0.032630567]

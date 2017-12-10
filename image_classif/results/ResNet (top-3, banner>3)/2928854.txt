@@ -1,0 +1,3 @@
+[u'ski', 0.48812553, u'bulletproof_vest', 0.19345833, u'assault_rifle', 0.096972324]
+[u'tricycle', 0.69457912, u'jinrikisha', 0.06659878, u'bicycle-built-for-two', 0.038594078]
+[u'medicine_chest', 0.46602368, u'digital_clock', 0.061571736, u'web_site', 0.050719015]

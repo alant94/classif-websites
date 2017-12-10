@@ -1,0 +1,2 @@
+[u'packet', 0.28366446, u'strawberry', 0.089116007, u'eggnog', 0.081836268, u'bakery', 0.041510172, u'pretzel', 0.039962146]
+[u'web_site', 0.085429452, u'envelope', 0.05210403, u'sunscreen', 0.049940672, u'book_jacket', 0.04488783, u'binder', 0.039032359]

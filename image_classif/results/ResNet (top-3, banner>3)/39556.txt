@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.43893179, u'window_screen', 0.08073172, u'prayer_rug', 0.073083714]
+[u'puffer', 0.38077319, u'steel_drum', 0.30282906, u'golf_ball', 0.10731867]
+[u'comic_book', 0.17003776, u'web_site', 0.10859712, u'streetcar', 0.099113263]
+[u'washbasin', 0.21898255, u'lab_coat', 0.085267462, u'sea_snake', 0.072212122]

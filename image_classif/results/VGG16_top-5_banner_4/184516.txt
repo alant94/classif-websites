@@ -1,0 +1,5 @@
+[u'web_site', 0.39421111, u'comic_book', 0.097685732, u'book_jacket', 0.076823026, u'oboe', 0.06795866, u'sax', 0.027980799]
+[u'maypole', 0.44277707, u'theater_curtain', 0.06203739, u'stage', 0.046830732, u'horizontal_bar', 0.03522069, u'English_foxhound', 0.017755577]
+[u'groom', 0.19267322, u'hoopskirt', 0.084104292, u'gong', 0.051603891, u'caldron', 0.040773716, u'grand_piano', 0.024602961]
+[u'caldron', 0.1232311, u'rotisserie', 0.10751965, u'bakery', 0.086165965, u"potter's_wheel", 0.054661702, u'shoe_shop', 0.045996852]
+[u'vacuum', 0.10408938, u'crutch', 0.076388247, u'bookshop', 0.064229235, u'jinrikisha', 0.04128531, u'marimba', 0.033787444]

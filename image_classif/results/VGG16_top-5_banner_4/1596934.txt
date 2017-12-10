@@ -1,0 +1,2 @@
+[u'bathtub', 0.16654272, u'diaper', 0.14199716, u'bikini', 0.11431063, u'tub', 0.10593644, u'brassiere', 0.090214655]
+[u'gown', 0.36604723, u'groom', 0.19247013, u'hoopskirt', 0.10558258, u'overskirt', 0.058417667, u'cardigan', 0.035740342]

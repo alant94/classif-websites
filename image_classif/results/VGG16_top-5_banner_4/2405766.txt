@@ -1,0 +1,7 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'racket', 0.16859591, u'digital_clock', 0.095175333, u'analog_clock', 0.061894272, u'lens_cap', 0.054561216, u'bolo_tie', 0.04721218]
+[u'ballpoint', 0.14288233, u'candle', 0.09672232, u'rubber_eraser', 0.078459069, u'lighter', 0.059490152, u'lipstick', 0.040615693]
+[u'envelope', 0.18739279, u'monitor', 0.093756728, u'binder', 0.064024277, u'safe', 0.033704013, u'web_site', 0.030158365]
+[u'velvet', 0.1575494, u'cleaver', 0.14787839, u'scabbard', 0.11352945, u'envelope', 0.081133291, u'letter_opener', 0.074844703]
+[u'swab', 0.12702899, u'fountain', 0.07451959, u'garbage_truck', 0.03424447, u'pay-phone', 0.02762037, u'shovel', 0.02227713]
+[u'digital_clock', 0.063867107, u'beacon', 0.057885632, u'balloon', 0.042158723, u'wall_clock', 0.040839642, u'scoreboard', 0.032430772]

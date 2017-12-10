@@ -1,0 +1,4 @@
+[u'kimono', 0.09182959, u'wig', 0.068492621, u'stole', 0.052111577, u'hair_spray', 0.048728086, u'cardigan', 0.043774199]
+[u'suit', 0.73603362, u'Windsor_tie', 0.13516954, u'bow_tie', 0.051002886, u'groom', 0.024332428, u'Loafer', 0.011445315]
+[u'book_jacket', 0.81753379, u'brass', 0.13704079, u'ashcan', 0.0075812512, u'menu', 0.0053591272, u'perfume', 0.0025077357]
+[u'ski', 0.33869189, u'bow', 0.18622077, u'tripod', 0.060417842, u'horizontal_bar', 0.030902557, u'balance_beam', 0.02676598]

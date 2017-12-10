@@ -1,0 +1,2 @@
+[u'thresher', 0.23708194, u'lumbermill', 0.12504616, u'plow', 0.064538516]
+[u'screwdriver', 0.53971428, u"carpenter's_kit", 0.33006927, u'marimba', 0.021793922]

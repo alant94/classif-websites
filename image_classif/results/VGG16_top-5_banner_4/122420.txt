@@ -1,0 +1,2 @@
+[u'book_jacket', 0.061685935, u'hatchet', 0.051801104, u'abaya', 0.047861792, u'wardrobe', 0.047323294, u'crutch', 0.04576502]
+[u'book_jacket', 0.061685935, u'hatchet', 0.051801104, u'abaya', 0.047861792, u'wardrobe', 0.047323294, u'crutch', 0.04576502]

@@ -1,0 +1,3 @@
+[u'miniskirt', 0.13070029, u'tricycle', 0.076584317, u'ice_lolly', 0.030814087, u'maillot', 0.030240707, u'sunscreen', 0.02883213]
+[u'Band_Aid', 0.074542612, u'pajama', 0.040134296, u'shoe_shop', 0.03802808, u'miniskirt', 0.037694972, u'balance_beam', 0.036231685]
+[u'brassiere', 0.086317919, u'sandal', 0.080313832, u'diaper', 0.075980566, u'miniskirt', 0.068312049, u'bikini', 0.039805882]

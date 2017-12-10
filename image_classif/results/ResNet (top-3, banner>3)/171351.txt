@@ -1,0 +1,8 @@
+[u'digital_clock', 0.81073517, u'digital_watch', 0.039511494, u'microwave', 0.029574769]
+[u'oscilloscope', 0.45986226, u'book_jacket', 0.14978343, u'microwave', 0.074642189]
+[u'book_jacket', 0.41844162, u'oscilloscope', 0.28906178, u'street_sign', 0.057278275]
+[u'digital_clock', 0.78471828, u'digital_watch', 0.046899982, u'microwave', 0.032280121]
+[u'digital_clock', 0.39668855, u'oscilloscope', 0.27525678, u'scoreboard', 0.06399335]
+[u'swing', 0.22200508, u'bonnet', 0.19302379, u'bow_tie', 0.18309927]
+[u'digital_clock', 0.69309008, u'oscilloscope', 0.11760388, u'book_jacket', 0.039580043]
+[u'digital_clock', 0.3246657, u'book_jacket', 0.16265666, u'oscilloscope', 0.096352406]

@@ -1,0 +1,2 @@
+[u'web_site', 0.26864925, u'menu', 0.24361596, u'hard_disc', 0.099946372, u'crossword_puzzle', 0.078152694, u'envelope', 0.02813706]
+[u'envelope', 0.4678815, u'book_jacket', 0.1698648, u'web_site', 0.089169182, u'cassette', 0.066354074, u'packet', 0.04743012]

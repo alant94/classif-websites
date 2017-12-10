@@ -1,0 +1,4 @@
+[u'coffee_mug', 0.97088099, u'cup', 0.024584038, u'whiskey_jug', 0.0016976192]
+[u'jersey', 0.99907482, u'sweatshirt', 0.00058696035, u'maillot', 9.5850082e-05]
+[u'coffee_mug', 0.98967057, u'cup', 0.0099413255, u'whiskey_jug', 0.00015070781]
+[u'envelope', 0.83511466, u'binder', 0.067260221, u'packet', 0.056572814]

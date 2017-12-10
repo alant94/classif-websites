@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.10174634, u'safety_pin', 0.046953149, u'hook', 0.046052504]
+[u'digital_clock', 0.30174375, u'screen', 0.21813774, u'digital_watch', 0.095268518]

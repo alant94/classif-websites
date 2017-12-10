@@ -1,0 +1,1 @@
+[u'racket', 0.19053887, u'ballpoint', 0.055546936, u'solar_dish', 0.041381437, u'bow', 0.03777292, u'steel_arch_bridge', 0.032630339]

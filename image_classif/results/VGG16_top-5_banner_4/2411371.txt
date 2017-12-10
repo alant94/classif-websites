@@ -1,0 +1,4 @@
+[u'digital_clock', 0.056709077, u'spotlight', 0.055115335, u'wall_clock', 0.037872106, u'pool_table', 0.033884116, u'monitor', 0.025280586]
+[u'refrigerator', 0.33496591, u'tray', 0.2317806, u'thimble', 0.16703497, u'envelope', 0.061812904, u'toyshop', 0.023008887]
+[u'digital_clock', 0.16403951, u'scoreboard', 0.044584543, u'digital_watch', 0.040579282, u'lighter', 0.028332241, u'web_site', 0.025385452]
+[u'spotlight', 0.043830354, u'digital_clock', 0.041767411, u'wall_clock', 0.034707502, u'pool_table', 0.016112819, u'lycaenid', 0.014037127]

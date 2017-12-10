@@ -1,0 +1,3 @@
+[u'coral_reef', 0.67994291, u'scuba_diver', 0.083778776, u'book_jacket', 0.06859953]
+[u'stethoscope', 0.085142471, u'suit', 0.079914913, u'Windsor_tie', 0.06550429]
+[u'sunglass', 0.97716081, u'sunglasses', 0.021841686, u'Bernese_mountain_dog', 0.00035422543]

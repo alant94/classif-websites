@@ -1,0 +1,4 @@
+[u'shield', 0.16031446, u'bolo_tie', 0.062677093, u'slot', 0.031600635]
+[u'packet', 0.080161296, u'pick', 0.068848751, u'cowboy_boot', 0.065106779]
+[u'web_site', 0.11011025, u'shower_curtain', 0.096181341, u'dishwasher', 0.047912456]
+[u'screen', 0.32602632, u'monitor', 0.15898454, u'television', 0.13905813]

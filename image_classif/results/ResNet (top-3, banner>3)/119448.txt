@@ -1,0 +1,8 @@
+[u'screen', 0.67824453, u'monitor', 0.16987367, u'analog_clock', 0.048499763]
+[u'hard_disc', 0.16075179, u'modem', 0.09982758, u'joystick', 0.063624233]
+[u'EntleBucher', 0.69094539, u'Appenzeller', 0.1752039, u'Greater_Swiss_Mountain_dog', 0.089597523]
+[u'parachute', 0.20643133, u'comic_book', 0.076447189, u'book_jacket', 0.054601941]
+[u'puck', 0.16206528, u'steel_drum', 0.14783369, u'beaker', 0.10604728]
+[u'coral_reef', 0.18835381, u'papillon', 0.08318112, u'Sussex_spaniel', 0.055907108]
+[u'gong', 0.61546063, u'shield', 0.047255225, u'plate_rack', 0.045016233]
+[u'analog_clock', 0.64857352, u'stopwatch', 0.04791601, u'jersey', 0.030853989]

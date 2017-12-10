@@ -1,0 +1,6 @@
+[u'bathtub', 0.44731528, u'washer', 0.35731715, u'medicine_chest', 0.061388798]
+[u'digital_clock', 0.89052343, u'digital_watch', 0.092048034, u'analog_clock', 0.0074134595]
+[u'palace', 0.30105063, u'organ', 0.19115132, u'church', 0.092382297]
+[u'plate_rack', 0.18128406, u'space_shuttle', 0.17212838, u'iron', 0.13069262]
+[u'iron', 0.42946634, u'bow', 0.12728581, u'ballpoint', 0.062456094]
+[u'lakeside', 0.88883698, u'fountain', 0.027078915, u'pole', 0.011124997]

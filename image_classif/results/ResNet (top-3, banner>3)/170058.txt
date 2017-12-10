@@ -1,0 +1,4 @@
+[u'web_site', 0.93110108, u'slot', 0.0095224837, u'comic_book', 0.0094927978]
+[u'crane', 0.38520274, u'oboe', 0.26673993, u'bassoon', 0.14607964]
+[u'sax', 0.7698372, u'electric_guitar', 0.16571026, u'banjo', 0.025455229]
+[u'mortar', 0.93516463, u'wooden_spoon', 0.021207627, u'drumstick', 0.0096550714]

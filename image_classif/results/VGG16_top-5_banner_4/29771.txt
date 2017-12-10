@@ -1,0 +1,6 @@
+[u'mask', 0.44247946, u'chiton', 0.074778728, u'sandal', 0.059245903, u'comic_book', 0.054945465, u'shoe_shop', 0.04718687]
+[u'ice_cream', 0.89428246, u'guacamole', 0.024223952, u'hotdog', 0.018465802, u'burrito', 0.012241917, u'pretzel', 0.0060562305]
+[u'pretzel', 0.66557127, u'chocolate_sauce', 0.084386036, u'mask', 0.051379371, u'buckle', 0.021701744, u'hair_slide', 0.017916853]
+[u'nail', 0.087006547, u'book_jacket', 0.058866635, u'safety_pin', 0.058573477, u'hook', 0.058137774, u'jersey', 0.055556271]
+[u'bagel', 0.46393934, u'chocolate_sauce', 0.12186283, u'bakery', 0.11261605, u'ice_cream', 0.082639858, u'French_loaf', 0.078752391]
+[u'spider_web', 0.18574974, u'safety_pin', 0.091931701, u'lionfish', 0.041307412, u'lampshade', 0.041255578, u'shower_curtain', 0.03683744]

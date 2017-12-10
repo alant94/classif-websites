@@ -1,0 +1,6 @@
+[u'digital_clock', 0.12927815, u'digital_watch', 0.1144031, u'shield', 0.062201932, u'pick', 0.059297994, u'toilet_seat', 0.054440644]
+[u'jigsaw_puzzle', 0.23246861, u'balloon', 0.06683182, u'traffic_light', 0.03742383, u'tray', 0.033322539, u'television', 0.033272132]
+[u'digital_clock', 0.38981697, u'traffic_light', 0.13305372, u'screen', 0.060038701, u'digital_watch', 0.050576363, u'television', 0.041044071]
+[u'toilet_seat', 0.075447932, u'digital_clock', 0.061884116, u'balloon', 0.046184305, u'screen', 0.046084385, u'jigsaw_puzzle', 0.036976505]
+[u'scoreboard', 0.2425883, u'traffic_light', 0.16864172, u'digital_clock', 0.13589995, u'odometer', 0.075988933, u'stopwatch', 0.06912744]
+[u'digital_clock', 0.14818196, u'tennis_ball', 0.032393444, u"jack-o'-lantern", 0.028218439, u'spotlight', 0.027025795, u'stopwatch', 0.026888629]

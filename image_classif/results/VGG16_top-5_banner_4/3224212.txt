@@ -1,0 +1,4 @@
+[u'book_jacket', 0.70326304, u'comic_book', 0.10748284, u'web_site', 0.037127189, u'brass', 0.0063248477, u'sleeping_bag', 0.0052166809]
+[u'book_jacket', 0.21873748, u'iPod', 0.16777952, u'perfume', 0.069758415, u'cash_machine', 0.039809722, u'lotion', 0.03276189]
+[u'iPod', 0.1790543, u'book_jacket', 0.10388734, u'cash_machine', 0.075879112, u'cellular_telephone', 0.053233091, u'street_sign', 0.041592978]
+[u'groom', 0.30120814, u'suit', 0.26003531, u'bow_tie', 0.17907418, u'Windsor_tie', 0.10847341, u'bolo_tie', 0.032918613]

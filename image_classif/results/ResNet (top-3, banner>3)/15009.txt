@@ -1,0 +1,5 @@
+[u'flagpole', 0.2771478, u'web_site', 0.19928254, u'lipstick', 0.083354414]
+[u'shield', 0.25867477, u'comic_book', 0.11973292, u'barrel', 0.041008696]
+[u'buckle', 0.14712848, u'web_site', 0.11914077, u'cinema', 0.055906281]
+[u'jersey', 0.47080702, u'book_jacket', 0.14505769, u'sweatshirt', 0.10431617]
+[u'water_jug', 0.70184219, u'water_bottle', 0.1451544, u'ice_lolly', 0.067035325]

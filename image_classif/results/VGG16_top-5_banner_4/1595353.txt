@@ -1,0 +1,2 @@
+[u'face_powder', 0.069075942, u'drum', 0.063279472, u'analog_clock', 0.058181118, u'Band_Aid', 0.036446456, u'wall_clock', 0.028915806]
+[u'web_site', 0.82791549, u'iPod', 0.019605178, u'monitor', 0.018715458, u'screen', 0.016646732, u'hand-held_computer', 0.015958609]

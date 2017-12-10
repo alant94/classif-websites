@@ -1,0 +1,2 @@
+[u'stupa', 0.080793932, u'container_ship', 0.075038843, u'dome', 0.06369251, u'crane', 0.058105122, u'fountain', 0.032215256]
+[u'matchstick', 0.15903807, u'crutch', 0.074074306, u'chime', 0.042050306, u'table_lamp', 0.035400588, u'paintbrush', 0.030074805]

@@ -1,0 +1,8 @@
+[u'remote_control', 0.50037503, u'Band_Aid', 0.30837443, u'spatula', 0.061946161, u'ice_lolly', 0.058287397, u'shower_curtain', 0.0088980412]
+[u'spotlight', 0.8301478, u'stage', 0.077070259, u'fountain', 0.028292438, u'microphone', 0.0077179368, u'sax', 0.0049265889]
+[u'electric_guitar', 0.6204887, u'acoustic_guitar', 0.15402205, u'microphone', 0.038080834, u'banjo', 0.027443092, u'stage', 0.027186818]
+[u'stage', 0.16915216, u'balance_beam', 0.10741716, u'horizontal_bar', 0.093116999, u'theater_curtain', 0.073413447, u'spotlight', 0.057285056]
+[u'crane', 0.47451165, u'aircraft_carrier', 0.22884214, u'sax', 0.11251084, u'triumphal_arch', 0.041588023, u'rifle', 0.0292495]
+[u'sax', 0.55249834, u'stage', 0.18129885, u'chain_saw', 0.051954437, u'accordion', 0.032500569, u'bassoon', 0.024105454]
+[u'abaya', 0.38155481, u'letter_opener', 0.13604756, u'Windsor_tie', 0.056385603, u'suit', 0.042136505, u'gown', 0.039869849]
+[u'sax', 0.61219203, u'stage', 0.12676212, u'television', 0.11265482, u'harp', 0.027935423, u'cornet', 0.021018237]

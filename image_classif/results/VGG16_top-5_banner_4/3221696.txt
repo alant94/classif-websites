@@ -1,0 +1,1 @@
+[u'binder', 0.069826864, u'cassette', 0.066248812, u'combination_lock', 0.055898499, u'switch', 0.049123455, u'shopping_basket', 0.037254471]

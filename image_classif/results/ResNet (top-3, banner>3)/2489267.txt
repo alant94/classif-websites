@@ -1,0 +1,5 @@
+[u'ibex', 0.67316568, u'hartebeest', 0.21639526, u'television', 0.034612708]
+[u'ibex', 0.30135962, u'web_site', 0.15043207, u'television', 0.10526478]
+[u'web_site', 0.92083138, u'envelope', 0.021727145, u'book_jacket', 0.0096230172]
+[u'web_site', 0.34767494, u'book_jacket', 0.31404719, u'pretzel', 0.1092745]
+[u'web_site', 0.37152728, u'book_jacket', 0.17302902, u'cheetah', 0.07589376]

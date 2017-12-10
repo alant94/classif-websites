@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.24208455, u'traffic_light', 0.17413895, u'fountain', 0.065863758, u'suspension_bridge', 0.063420646, u'stage', 0.05485753]
+[u'nematode', 0.13934235, u'letter_opener', 0.076465674, u'hook', 0.062538423, u'matchstick', 0.04500901, u'hammer', 0.03902984]
+[u'sarong', 0.3055771, u'jersey', 0.23845418, u'maillot', 0.14100847, u'maillot', 0.056230206, u'Christmas_stocking', 0.027778212]

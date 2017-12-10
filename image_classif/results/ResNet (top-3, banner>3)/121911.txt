@@ -1,0 +1,5 @@
+[u'picket_fence', 0.15150444, u'book_jacket', 0.12220327, u'jersey', 0.050485324]
+[u'picket_fence', 0.15441822, u'book_jacket', 0.14972515, u'coral_fungus', 0.07107693]
+[u'book_jacket', 0.1681096, u'picket_fence', 0.15529081, u'worm_fence', 0.075050659]
+[u'hook', 0.064528361, u'book_jacket', 0.059013713, u'balloon', 0.027294066]
+[u'book_jacket', 0.1599945, u'crossword_puzzle', 0.083799347, u'jersey', 0.059076205]

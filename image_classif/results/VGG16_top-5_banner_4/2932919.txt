@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.25190884, u'ocarina', 0.088139661, u'clog', 0.063611701, u'jean', 0.037287418, u'buckle', 0.030825583]
+[u'scabbard', 0.46538988, u'letter_opener', 0.16610041, u'ocarina', 0.051382151, u'nematode', 0.044440664, u'hair_slide', 0.021222645]
+[u'pick', 0.075852655, u'dough', 0.069668673, u'nail', 0.048508096, u'rubber_eraser', 0.035753302, u'matchstick', 0.033881471]
+[u'mouse', 0.24057049, u'Band_Aid', 0.20626006, u'rubber_eraser', 0.092847213, u'pill_bottle', 0.046491679, u'pool_table', 0.032987006]

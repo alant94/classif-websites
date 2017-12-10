@@ -1,0 +1,4 @@
+[u'worm_fence', 0.75331944, u'sea_urchin', 0.060833201, u'obelisk', 0.059063148, u'maypole', 0.03541493, u'fountain', 0.01731314]
+[u'church', 0.35482749, u'castle', 0.25305399, u'flagpole', 0.069873743, u'pole', 0.046346087, u'totem_pole', 0.028920723]
+[u'wardrobe', 0.57204562, u'sliding_door', 0.029965186, u'refrigerator', 0.015906781, u'radiator', 0.01580653, u'shower_curtain', 0.015260544]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

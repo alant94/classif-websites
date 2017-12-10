@@ -1,0 +1,3 @@
+[u'spindle', 0.47388512, u'plunger', 0.14922553, u'knot', 0.12254173, u'necklace', 0.046417341, u'pill_bottle', 0.03715888]
+[u'tripod', 0.22447559, u'matchstick', 0.14051424, u'chime', 0.050979581, u'panpipe', 0.040446799, u'bow', 0.025190243]
+[u'lumbermill', 0.29305789, u'hog', 0.19114029, u'butcher_shop', 0.054194696, u'thresher', 0.03017438, u'tobacco_shop', 0.027784903]

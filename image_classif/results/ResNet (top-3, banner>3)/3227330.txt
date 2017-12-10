@@ -1,0 +1,8 @@
+[u'book_jacket', 0.76506907, u'binder', 0.055833988, u'ashcan', 0.02496355]
+[u'cellular_telephone', 0.48412108, u'iPod', 0.34810191, u'hand-held_computer', 0.073657237]
+[u'coffee_mug', 0.14143607, u'space_heater', 0.12415314, u'electric_fan', 0.12270812]
+[u'web_site', 0.1252522, u'envelope', 0.035002194, u'hook', 0.028238431]
+[u'cash_machine', 0.14029494, u'book_jacket', 0.1278225, u'traffic_light', 0.12752272]
+[u'oscilloscope', 0.28287479, u'barbershop', 0.1265022, u'book_jacket', 0.067027822]
+[u'crate', 0.98556107, u'barbershop', 0.0086346846, u'barrel', 0.0044868579]
+[u'sunscreen', 0.076418854, u'tray', 0.069410093, u'plunger', 0.061595183]

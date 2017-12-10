@@ -1,0 +1,2 @@
+[u'puck', 0.23476179, u'scoreboard', 0.21105753, u'web_site', 0.16065373, u'ping-pong_ball', 0.084487893, u'golf_ball', 0.06338191]
+[u'sea_urchin', 0.21641439, u'coral_reef', 0.19089089, u'nail', 0.067116834, u'jellyfish', 0.057427179, u'screwdriver', 0.051716585]

@@ -1,0 +1,6 @@
+[u'comic_book', 0.12663731, u'bannister', 0.11625759, u'spider_web', 0.10438869]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'theater_curtain', 0.24082187, u'stage', 0.22770439, u'prison', 0.097730391]
+[u'flute', 0.54711753, u'violin', 0.18066607, u'oboe', 0.12621994]
+[u'cello', 0.98179215, u'violin', 0.016744239, u'acoustic_guitar', 0.00095773867]
+[u'comic_book', 0.34774858, u'book_jacket', 0.26863086, u'barbershop', 0.10339067]

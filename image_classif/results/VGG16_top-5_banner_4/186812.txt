@@ -1,0 +1,3 @@
+[u'Windsor_tie', 0.21602917, u'binder', 0.038306311, u'handkerchief', 0.038166195, u'window_screen', 0.033106785, u'doormat', 0.029543897]
+[u'football_helmet', 0.35442179, u'buckle', 0.33344957, u'digital_clock', 0.064266577, u'whistle', 0.031566322, u'bottlecap', 0.026941255]
+[u'envelope', 0.021582091, u'abaya', 0.012610345, u'web_site', 0.011116787, u'pill_bottle', 0.010334157, u'table_lamp', 0.010116473]

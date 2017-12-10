@@ -1,0 +1,7 @@
+[u'cardigan', 0.58130306, u'bath_towel', 0.24434766, u'stole', 0.12488213]
+[u'digital_clock', 0.25438836, u'web_site', 0.1353016, u'envelope', 0.070990354]
+[u'hair_spray', 0.29911473, u'lipstick', 0.079543889, u'bookshop', 0.036841016]
+[u'digital_clock', 0.12364373, u'book_jacket', 0.096123002, u'pick', 0.085852608]
+[u'laptop', 0.31844646, u'web_site', 0.23539266, u'digital_clock', 0.066420689]
+[u'cardigan', 0.90645331, u'miniskirt', 0.031440534, u'stole', 0.020961454]
+[u'digital_clock', 0.45165157, u'web_site', 0.079549484, u'digital_watch', 0.074580953]

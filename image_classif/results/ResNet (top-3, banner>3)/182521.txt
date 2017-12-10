@@ -1,0 +1,2 @@
+[u'web_site', 0.54693025, u'comic_book', 0.28971225, u'cinema', 0.062928386]
+[u'golfcart', 0.43799114, u'sundial', 0.30074656, u'park_bench', 0.032421488]

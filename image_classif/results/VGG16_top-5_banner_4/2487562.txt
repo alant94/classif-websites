@@ -1,0 +1,3 @@
+[u'sliding_door', 0.16131674, u'Great_Dane', 0.13485642, u'Bouvier_des_Flandres', 0.12618908, u'wallaby', 0.071628459, u'standard_schnauzer', 0.056802098]
+[u'jersey', 0.23331733, u'puck', 0.15084721, u'book_jacket', 0.12673968, u'lens_cap', 0.022229372, u'face_powder', 0.021946674]
+[u'water_tower', 0.33936203, u'planetarium', 0.19012752, u'bannister', 0.041964065, u'worm_fence', 0.039746296, u'yurt', 0.038919996]

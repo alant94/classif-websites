@@ -1,0 +1,5 @@
+[u'web_site', 0.94985348, u'comic_book', 0.0070018964, u'neck_brace', 0.0061591486]
+[u'web_site', 0.97539937, u'Band_Aid', 0.0030614571, u'menu', 0.0029784704]
+[u'Saint_Bernard', 0.82070684, u'boxer', 0.15952608, u'bull_mastiff', 0.003875447]
+[u'web_site', 0.31510803, u'book_jacket', 0.08008948, u'street_sign', 0.026828934]
+[u'street_sign', 0.16033976, u'web_site', 0.05245604, u'comic_book', 0.028802466]

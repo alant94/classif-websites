@@ -1,0 +1,8 @@
+[u'refrigerator', 0.19499293, u'switch', 0.16507617, u'file', 0.13955238, u'web_site', 0.11516976, u'safe', 0.059077635]
+[u'envelope', 0.28854325, u'web_site', 0.037318055, u'Windsor_tie', 0.026681958, u'crossword_puzzle', 0.024806954, u'velvet', 0.023332819]
+[u'web_site', 0.57615161, u'laptop', 0.14632389, u'monitor', 0.12064787, u'notebook', 0.047506448, u'screen', 0.034392774]
+[u'forklift', 0.15501578, u'picket_fence', 0.10682138, u'prison', 0.098539762, u'moving_van', 0.070466653, u'container_ship', 0.047833722]
+[u'picket_fence', 0.16439788, u'sliding_door', 0.081885226, u'book_jacket', 0.042460114, u'prison', 0.03861282, u'crate', 0.03524607]
+[u'screwdriver', 0.17406781, u'power_drill', 0.10295194, u'combination_lock', 0.098750941, u'dumbbell', 0.085211322, u'whistle', 0.046474069]
+[u'web_site', 0.34286469, u'monitor', 0.14913851, u'window_shade', 0.11301265, u'menu', 0.069960266, u'screen', 0.02306762]
+[u'web_site', 0.10606809, u'envelope', 0.064417347, u'nematode', 0.019679805, u'velvet', 0.016414337, u'crossword_puzzle', 0.012886391]

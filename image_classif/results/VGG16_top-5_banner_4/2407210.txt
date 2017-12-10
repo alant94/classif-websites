@@ -1,0 +1,3 @@
+[u'web_site', 0.32686979, u'jigsaw_puzzle', 0.13525054, u'airship', 0.10009949, u'monitor', 0.094480813, u'space_shuttle', 0.072045207]
+[u'prayer_rug', 0.53960592, u'fire_screen', 0.18955684, u'throne', 0.052320279, u'book_jacket', 0.030516634, u'vestment', 0.019309873]
+[u'book_jacket', 0.42695892, u'jigsaw_puzzle', 0.27454305, u'web_site', 0.083193228, u'comic_book', 0.039079364, u'envelope', 0.020210991]

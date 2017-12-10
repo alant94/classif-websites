@@ -1,0 +1,8 @@
+[u'street_sign', 0.21594486, u'nail', 0.047859363, u'hook', 0.046408299, u'screwdriver', 0.042167742, u'hammer', 0.035823118]
+[u'mortarboard', 0.16747583, u'groom', 0.091470368, u'academic_gown', 0.070975333, u'restaurant', 0.040758248, u'miniskirt', 0.03778556]
+[u'fur_coat', 0.88976526, u'wig', 0.045880821, u'stole', 0.020166673, u'cloak', 0.0059458027, u'Lhasa', 0.0034211914]
+[u'soccer_ball', 0.80792451, u'volleyball', 0.037813194, u'ping-pong_ball', 0.026932407, u'rugby_ball', 0.02271395, u'horizontal_bar', 0.017055564]
+[u'theater_curtain', 0.51072013, u'stage', 0.18201415, u'mortarboard', 0.035059109, u'balance_beam', 0.012926321, u'academic_gown', 0.012354555]
+[u'Leonberg', 0.26242641, u'stretcher', 0.10664837, u'bulletproof_vest', 0.086373933, u'sweatshirt', 0.059732869, u'police_van', 0.0417949]
+[u'stole', 0.33534643, u'cardigan', 0.2013285, u'crutch', 0.12168202, u'wool', 0.10786661, u'poncho', 0.062471166]
+[u'web_site', 0.9988482, u'comic_book', 0.00064902537, u'book_jacket', 0.00018165975, u'scoreboard', 9.2240567e-05, u'menu', 4.7036454e-05]

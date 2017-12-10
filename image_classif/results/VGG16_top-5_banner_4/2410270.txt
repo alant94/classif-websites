@@ -1,0 +1,5 @@
+[u'can_opener', 0.75779474, u'corkscrew', 0.04119809, u'hair_slide', 0.021179834, u'hammer', 0.0191893, u'screwdriver', 0.01164876]
+[u'bow', 0.37666562, u'tripod', 0.06753996, u'malinois', 0.065405153, u'mountain_bike', 0.053266697, u'muzzle', 0.043220215]
+[u'mountain_bike', 0.58715415, u'unicycle', 0.20292142, u'tricycle', 0.036258999, u'crash_helmet', 0.020592619, u'maillot', 0.017879989]
+[u'mountain_bike', 0.58296758, u'bicycle-built-for-two', 0.1430704, u'tricycle', 0.1302205, u'moped', 0.076813988, u'unicycle', 0.035903346]
+[u'mountain_bike', 0.88130045, u'bicycle-built-for-two', 0.047029208, u'tricycle', 0.011585812, u'moped', 0.0088456152, u'disk_brake', 0.0059708706]

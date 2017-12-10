@@ -1,0 +1,4 @@
+[u'web_site', 0.73376536, u'academic_gown', 0.05426991, u'suit', 0.018688189]
+[u'Windsor_tie', 0.10072328, u'barbell', 0.05898663, u'suit', 0.056017578]
+[u'plane', 0.27323866, u'maraca', 0.16662444, u'snail', 0.16483799]
+[u'barbell', 0.34209928, u'barrow', 0.078300998, u'snorkel', 0.065991685]

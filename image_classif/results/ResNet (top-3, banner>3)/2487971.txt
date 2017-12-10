@@ -1,0 +1,7 @@
+[u'partridge', 0.43692255, u'ruffed_grouse', 0.29232526, u'black_grouse', 0.15357155]
+[u'German_short-haired_pointer', 0.93966001, u'Weimaraner', 0.027471431, u'vizsla', 0.0093941446]
+[u'partridge', 0.48877439, u'ruffed_grouse', 0.27322277, u'quail', 0.14788613]
+[u'microwave', 0.70794368, u'switch', 0.063223504, u'safe', 0.041257989]
+[u'book_jacket', 0.14663225, u'hair_spray', 0.051419333, u'soap_dispenser', 0.050775271]
+[u'brass', 0.25461495, u'barbershop', 0.15304245, u'street_sign', 0.069092445]
+[u'digital_clock', 0.16444625, u'traffic_light', 0.11090901, u'web_site', 0.094762146]

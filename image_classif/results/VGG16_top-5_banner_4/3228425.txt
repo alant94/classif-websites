@@ -1,0 +1,1 @@
+[u'book_jacket', 0.061212637, u'picket_fence', 0.029625816, u'abaya', 0.026559068, u'hook', 0.017919056, u'matchstick', 0.013647904]

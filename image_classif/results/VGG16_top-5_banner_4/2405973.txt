@@ -1,0 +1,6 @@
+[u'safe', 0.47112539, u'monitor', 0.13458598, u'printer', 0.057572987, u'switch', 0.038315795, u'desktop_computer', 0.028368877]
+[u'parachute', 0.042539176, u'kite', 0.035055969, u'space_shuttle', 0.031399883, u'airship', 0.027139448, u'wing', 0.022494521]
+[u'traffic_light', 0.87873703, u'matchstick', 0.025115266, u'lighter', 0.019667324, u'torch', 0.013640057, u'street_sign', 0.0049553746]
+[u'radio', 0.50326431, u'microphone', 0.35941955, u'modem', 0.027207948, u'digital_clock', 0.023563318, u'CD_player', 0.014756043]
+[u'stopwatch', 0.077118993, u'balloon', 0.064156152, u'hook', 0.052531257, u'analog_clock', 0.030206425, u'wall_clock', 0.027626513]
+[u'cash_machine', 0.14320599, u'stage', 0.10044743, u'electric_fan', 0.079851829, u'theater_curtain', 0.06045638, u'scoreboard', 0.055929545]

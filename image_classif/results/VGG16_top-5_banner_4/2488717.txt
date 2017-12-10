@@ -1,0 +1,3 @@
+[u'chocolate_sauce', 0.51569945, u'ice_cream', 0.22765285, u'bakery', 0.063095063, u'meat_loaf', 0.026451001, u'trifle', 0.024970116]
+[u'church', 0.40905362, u'bell_cote', 0.091449335, u'picket_fence', 0.061104815, u'flagpole', 0.051089223, u'monastery', 0.045418508]
+[u'ice_cream', 0.35894871, u'bakery', 0.28626865, u'dough', 0.077710025, u'trifle', 0.063214444, u'bagel', 0.033765983]

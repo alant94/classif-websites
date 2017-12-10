@@ -1,0 +1,4 @@
+[u'oxygen_mask', 0.29260507, u'jellyfish', 0.18409967, u'Petri_dish', 0.138862]
+[u'digital_clock', 0.52056468, u'crossword_puzzle', 0.12717775, u'prayer_rug', 0.1104577]
+[u'space_heater', 0.50392318, u'refrigerator', 0.11729942, u'binder', 0.11552988]
+[u'crossword_puzzle', 0.25097424, u'whistle', 0.11546361, u'Band_Aid', 0.06488511]

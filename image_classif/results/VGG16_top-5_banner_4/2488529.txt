@@ -1,0 +1,1 @@
+[u'pick', 0.69353867, u'lacewing', 0.04588614, u'bolo_tie', 0.01725374, u'acoustic_guitar', 0.01046372, u'racket', 0.0096357707]

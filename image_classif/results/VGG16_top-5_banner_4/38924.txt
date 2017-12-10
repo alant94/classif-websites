@@ -1,0 +1,1 @@
+[u'hook', 0.18038476, u'traffic_light', 0.13957611, u'street_sign', 0.055422015, u'digital_clock', 0.043686535, u'power_drill', 0.037631229]

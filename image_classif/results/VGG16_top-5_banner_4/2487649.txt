@@ -1,0 +1,7 @@
+[u'wild_boar', 0.27658153, u'hog', 0.25088659, u'ibex', 0.12366542, u'Airedale', 0.10214367, u'Irish_terrier', 0.03694424]
+[u'quail', 0.51364052, u'partridge', 0.23453847, u'ruffed_grouse', 0.13640538, u'prairie_chicken', 0.074021213, u'black_grouse', 0.0079342807]
+[u'book_jacket', 0.38714114, u'brass', 0.38270453, u'jersey', 0.047639046, u'menu', 0.037911516, u'comic_book', 0.023399981]
+[u'hartebeest', 0.32016671, u'warthog', 0.18512641, u'wild_boar', 0.14299281, u'impala', 0.048648745, u'book_jacket', 0.021067176]
+[u'slide_rule', 0.5943014, u'rule', 0.21456027, u'typewriter_keyboard', 0.082083426, u'space_bar', 0.035530042, u'computer_keyboard', 0.0089291977]
+[u'rule', 0.4335677, u'slide_rule', 0.13469577, u'typewriter_keyboard', 0.027739428, u'combination_lock', 0.026652755, u'abacus', 0.022966055]
+[u'Great_Dane', 0.24197474, u'book_jacket', 0.16546786, u'Afghan_hound', 0.13468643, u'borzoi', 0.039475456, u'comic_book', 0.02749785]

@@ -1,0 +1,5 @@
+[u'packet', 0.23323582, u'envelope', 0.13675556, u'book_jacket', 0.048780371, u'digital_clock', 0.035238471, u'web_site', 0.032036178]
+[u'jeep', 0.75835317, u'garbage_truck', 0.054879364, u'tow_truck', 0.04565445, u'trailer_truck', 0.024174696, u'moving_van', 0.017237116]
+[u'moving_van', 0.23840924, u'trailer_truck', 0.12773632, u'forklift', 0.083053917, u'toaster', 0.03813291, u'garbage_truck', 0.03055737]
+[u'web_site', 0.6064865, u'jersey', 0.016836142, u'neck_brace', 0.015943209, u'power_drill', 0.01489272, u'hand_blower', 0.013767354]
+[u'garbage_truck', 0.15211459, u'tow_truck', 0.13720617, u'pickup', 0.13562733, u'minibus', 0.07750944, u'recreational_vehicle', 0.071976811]

@@ -1,0 +1,4 @@
+[u'brassiere', 0.33884662, u'bikini', 0.18582231, u'maillot', 0.14770861, u'maillot', 0.10277234, u'tub', 0.079503834]
+[u'maillot', 0.39977399, u'jean', 0.047327258, u'balance_beam', 0.039195061, u'miniskirt', 0.03530024, u'electric_guitar', 0.034952804]
+[u'grand_piano', 0.11100607, u'upright', 0.10425118, u'throne', 0.10015636, u'china_cabinet', 0.046595652, u'library', 0.03682474]
+[u'brassiere', 0.43461561, u'bikini', 0.13585547, u'maillot', 0.1130074, u'maillot', 0.073529638, u'miniskirt', 0.070961431]

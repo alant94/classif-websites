@@ -1,0 +1,8 @@
+[u'window_screen', 0.23053259, u'hamper', 0.17421921, u'radiator', 0.10058035, u'buckle', 0.039320648, u'window_shade', 0.030571554]
+[u'window_screen', 0.058659691, u'spider_web', 0.050640419, u'barn_spider', 0.049010485, u'wolf_spider', 0.043106161, u'fire_screen', 0.035659272]
+[u'hartebeest', 0.15940486, u'water_buffalo', 0.13156629, u'plow', 0.088501178, u'Arabian_camel', 0.067609034, u'gazelle', 0.065746829]
+[u'worm_fence', 0.13923375, u'mountain_bike', 0.056496195, u'plow', 0.05134245, u'tractor', 0.048544224, u'tow_truck', 0.045251168]
+[u'window_screen', 0.21165457, u'mosquito_net', 0.18134706, u'fire_screen', 0.095517352, u'loggerhead', 0.019602189, u'water_snake', 0.018577084]
+[u'fountain', 0.42327356, u'stage', 0.052343827, u'web_site', 0.037067492, u'geyser', 0.031598497, u'torch', 0.027041044]
+[u'book_jacket', 0.22902294, u'comic_book', 0.14417657, u'street_sign', 0.039989267, u'traffic_light', 0.036594305, u'chime', 0.031957775]
+[u'half_track', 0.12175759, u'tank', 0.087586239, u'go-kart', 0.069097795, u'racer', 0.06783393, u'lawn_mower', 0.053748332]

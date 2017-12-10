@@ -1,0 +1,8 @@
+[u'corn', 0.12091111, u'acorn', 0.099496715, u'chain', 0.07070034, u'buckeye', 0.051048189, u'hip', 0.050884873]
+[u'web_site', 0.14584234, u'envelope', 0.035784457, u'face_powder', 0.029883653, u'sunscreen', 0.028727539, u'hand_blower', 0.027708562]
+[u'tennis_ball', 0.1465984, u'spotlight', 0.14349644, u'traffic_light', 0.083193325, u'bottlecap', 0.0696702, u'ping-pong_ball', 0.066937663]
+[u'paper_towel', 0.1566707, u'nipple', 0.15555218, u'toilet_seat', 0.044070568, u'Band_Aid', 0.03461178, u'toilet_tissue', 0.029111026]
+[u'bath_towel', 0.23636177, u'Band_Aid', 0.094948702, u'harmonica', 0.027134892, u'sunscreen', 0.02321557, u'ice_lolly', 0.022057008]
+[u'fur_coat', 0.64360577, u'wool', 0.12800673, u'stole', 0.062102284, u'wig', 0.054847009, u'Windsor_tie', 0.009775023]
+[u'walking_stick', 0.24023567, u'mantis', 0.20285009, u'Band_Aid', 0.16295747, u'lipstick', 0.024774376, u'paintbrush', 0.016213249]
+[u'butcher_shop', 0.099089466, u'wool', 0.06991563, u'Windsor_tie', 0.038978051, u'mask', 0.038322221, u'handkerchief', 0.0349476]

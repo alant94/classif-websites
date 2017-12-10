@@ -1,0 +1,3 @@
+[u'marimba', 0.14233598, u'electric_guitar', 0.13048822, u'stage', 0.086821079]
+[u'ballpoint', 0.41475978, u'rubber_eraser', 0.27686721, u'quill', 0.10321323]
+[u'tray', 0.099749856, u'carton', 0.054675743, u'binder', 0.05455244]

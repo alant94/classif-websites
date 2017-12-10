@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.12827519, u'lighter', 0.097588383, u'scale', 0.073005468]
+[u'chambered_nautilus', 0.40356058, u'hen-of-the-woods', 0.28156793, u'mushroom', 0.14638008]
+[u'Band_Aid', 0.29597712, u'digital_watch', 0.088519871, u'digital_clock', 0.086789772]
+[u'book_jacket', 0.24736458, u'comic_book', 0.17278023, u'wardrobe', 0.14602754]

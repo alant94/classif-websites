@@ -1,0 +1,1 @@
+[u'web_site', 0.12147098, u'chain_saw', 0.034543358, u'street_sign', 0.033605039, u'moving_van', 0.020600183, u'hand_blower', 0.019988481]

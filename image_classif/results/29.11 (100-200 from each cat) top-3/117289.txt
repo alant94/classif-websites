@@ -1,0 +1,4 @@
+[u'golf_ball', 0.22629632, u'hourglass', 0.066233426, u'spotlight', 0.041025396]
+[u'fountain', 0.6230889, u'scuba_diver', 0.1634582, u'jellyfish', 0.036415212]
+[u'throne', 0.11896837, u'book_jacket', 0.11343058, u'steam_locomotive', 0.063220389]
+[u'matchstick', 0.14399135, u'dragonfly', 0.084655493, u'bolo_tie', 0.082819]

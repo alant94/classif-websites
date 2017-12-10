@@ -1,0 +1,1 @@
+[u'bubble', 0.15786403, u'fountain', 0.073359393, u'spotlight', 0.048013069, u'torch', 0.044490796, u'matchstick', 0.031232107]

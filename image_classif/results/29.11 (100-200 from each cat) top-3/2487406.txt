@@ -1,0 +1,6 @@
+[u'web_site', 0.82986176, u'comic_book', 0.056673452, u'binder', 0.051027488]
+[u'impala', 0.56582856, u'gazelle', 0.37246642, u'hartebeest', 0.059800096]
+[u'orangutan', 0.70224792, u'mantis', 0.081898361, u'crane', 0.045304071]
+[u'monastery', 0.33060986, u'castle', 0.11067729, u'birdhouse', 0.098950543]
+[u'wallaby', 0.39224365, u'bighorn', 0.22248571, u'ibex', 0.11543507]
+[u'impala', 0.75328982, u'gazelle', 0.15011655, u'hartebeest', 0.039290458]

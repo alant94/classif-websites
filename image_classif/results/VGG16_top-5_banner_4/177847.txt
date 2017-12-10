@@ -1,0 +1,5 @@
+[u'brass', 0.24039991, u'book_jacket', 0.15351517, u'window_screen', 0.14104214, u'web_site', 0.067772865, u'television', 0.030987045]
+[u'sliding_door', 0.17779222, u'window_shade', 0.13240746, u'window_screen', 0.079392321, u'solar_dish', 0.045886874, u'planetarium', 0.021320339]
+[u'promontory', 0.29503834, u'megalith', 0.19008113, u'castle', 0.11486794, u'hay', 0.083801568, u'beacon', 0.078266077]
+[u'window_screen', 0.27971122, u'television', 0.12062425, u'monitor', 0.071648799, u'screen', 0.067066282, u'microwave', 0.047680136]
+[u'sports_car', 0.23399784, u'convertible', 0.21006098, u'racer', 0.19198693, u'tow_truck', 0.10677359, u'limousine', 0.030260481]

@@ -1,0 +1,5 @@
+[u'menu', 0.36650676, u'comic_book', 0.24597067, u'packet', 0.14345987, u'web_site', 0.11884692, u'slot', 0.034631811]
+[u'fountain', 0.69495106, u'lakeside', 0.031987172, u'park_bench', 0.028374016, u'throne', 0.015870485, u'book_jacket', 0.013159164]
+[u"jack-o'-lantern", 0.2708438, u'jersey', 0.039742474, u'traffic_light', 0.03917126, u'lampshade', 0.036265813, u'book_jacket', 0.030930048]
+[u'hook', 0.44680932, u'sea_anemone', 0.092622764, u'oscilloscope', 0.06011419, u'coral_fungus', 0.054286063, u'jellyfish', 0.048409496]
+[u'sea_slug', 0.11614592, u'matchstick', 0.10834382, u'starfish', 0.095258765, u'mask', 0.05169886, u'conch', 0.04750846]

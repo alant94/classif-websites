@@ -1,0 +1,4 @@
+[u'iPod', 0.69383335, u'cellular_telephone', 0.13773209, u'switch', 0.026385987, u'remote_control', 0.022208404, u'hand-held_computer', 0.015371595]
+[u'Loafer', 0.077757999, u'jean', 0.069752954, u'suit', 0.06044931, u'groom', 0.049937911, u'motor_scooter', 0.045151189]
+[u'whistle', 0.10097592, u'toyshop', 0.072924003, u'perfume', 0.068253979, u'cocktail_shaker', 0.063293882, u'paintbrush', 0.056455869]
+[u'lighter', 0.11887013, u'wallet', 0.0828311, u'coffee_mug', 0.070505947, u'buckle', 0.060765631, u'packet', 0.053674012]

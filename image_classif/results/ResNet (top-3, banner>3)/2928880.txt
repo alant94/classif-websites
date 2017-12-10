@@ -1,0 +1,5 @@
+[u'shield', 0.26527604, u'digital_clock', 0.07765469, u'analog_clock', 0.059690382]
+[u'Norfolk_terrier', 0.33790636, u'West_Highland_white_terrier', 0.2376319, u'Lakeland_terrier', 0.14860842]
+[u'church', 0.3340978, u'boathouse', 0.16958176, u'sliding_door', 0.15383624]
+[u'oil_filter', 0.38931799, u'puck', 0.26616335, u'pill_bottle', 0.040462073]
+[u'Band_Aid', 0.33156285, u'comic_book', 0.099376693, u'book_jacket', 0.097496644]

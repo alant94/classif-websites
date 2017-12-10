@@ -1,0 +1,2 @@
+[u'candle', 0.21139972, u'mosquito_net', 0.078519396, u'theater_curtain', 0.067805439, u'torch', 0.058062952, u'matchstick', 0.056725688]
+[u'brassiere', 0.20392174, u'wig', 0.14788018, u'ice_lolly', 0.063355237, u'lipstick', 0.05261087, u'maillot', 0.041641809]

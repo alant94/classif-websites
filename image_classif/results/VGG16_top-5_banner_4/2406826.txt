@@ -1,0 +1,2 @@
+[u'jersey', 0.94616628, u'pajama', 0.023077281, u'kimono', 0.011678369, u'envelope', 0.011245876, u'Windsor_tie', 0.0022389814]
+[u'wall_clock', 0.051966161, u'web_site', 0.040848773, u'Windsor_tie', 0.040209159, u'window_shade', 0.033115081, u'shower_curtain', 0.031160271]

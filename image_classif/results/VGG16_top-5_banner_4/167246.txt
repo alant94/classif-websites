@@ -1,0 +1,4 @@
+[u'envelope', 0.019800691, u'cleaver', 0.011827029, u'kite', 0.0092134932, u'face_powder', 0.0080057299, u'parachute', 0.007205423]
+[u'stage', 0.90554827, u'spotlight', 0.050485365, u'theater_curtain', 0.025999391, u'restaurant', 0.0063745547, u'cinema', 0.0022666659]
+[u'bookshop', 0.19329947, u'bow_tie', 0.07127694, u'abaya', 0.059267081, u'groom', 0.038307603, u'altar', 0.02950066]
+[u'jersey', 0.23797937, u'sweatshirt', 0.094693162, u'stage', 0.089619316, u'basketball', 0.063921638, u'marimba', 0.03074888]

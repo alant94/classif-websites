@@ -1,0 +1,2 @@
+[u'envelope', 0.38824818, u'stretcher', 0.066008918, u'swab', 0.047861252, u'hair_slide', 0.035259861, u'scale', 0.031965431]
+[u'kite', 0.46629283, u'ptarmigan', 0.133416, u'ruffed_grouse', 0.12293682, u'black_grouse', 0.11035961, u'bald_eagle', 0.056355689]

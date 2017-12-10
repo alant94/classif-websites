@@ -1,0 +1,3 @@
+[u'comic_book', 0.45002922, u'pick', 0.12855516, u'hair_slide', 0.049503002, u'hatchet', 0.026191557, u'electric_guitar', 0.020126658]
+[u'puck', 0.63352299, u'loupe', 0.052658897, u'ocarina', 0.04369612, u'face_powder', 0.02688753, u'spotlight', 0.019379018]
+[u'digital_clock', 0.34633192, u'Band_Aid', 0.096179508, u'binder', 0.046369065, u'street_sign', 0.036014177, u'switch', 0.03056963]

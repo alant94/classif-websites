@@ -1,0 +1,6 @@
+[u'restaurant', 0.39636648, u'notebook', 0.13852841, u'laptop', 0.053263661]
+[u'web_site', 0.15153775, u'crossword_puzzle', 0.12888928, u'comic_book', 0.088241138]
+[u'laptop', 0.52296275, u'notebook', 0.32184035, u'lab_coat', 0.025613472]
+[u'golf_ball', 0.13814841, u'soccer_ball', 0.07131438, u'whistle', 0.056543615]
+[u'altar', 0.30063674, u'vestment', 0.19233504, u'jean', 0.041321691]
+[u'lab_coat', 0.64600402, u'vestment', 0.083760366, u'marimba', 0.053401463]

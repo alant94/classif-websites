@@ -1,0 +1,1 @@
+[u'moped', 0.32765901, u'motor_scooter', 0.13619499, u'crash_helmet', 0.11577871, u'chain_saw', 0.051268864, u'mountain_bike', 0.045403421]

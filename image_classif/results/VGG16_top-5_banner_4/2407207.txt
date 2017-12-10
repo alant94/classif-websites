@@ -1,0 +1,4 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'binder', 0.17541569, u'cassette', 0.072061144, u'menu', 0.064325862, u'laptop', 0.051983543, u'hard_disc', 0.041417729]
+[u'menu', 0.92859215, u'web_site', 0.056378894, u'packet', 0.0046160752, u'Band_Aid', 0.0037212484, u'envelope', 0.0022708671]
+[u'packet', 0.42867818, u'web_site', 0.15080027, u'Band_Aid', 0.11438303, u'binder', 0.082176559, u'carton', 0.051958561]

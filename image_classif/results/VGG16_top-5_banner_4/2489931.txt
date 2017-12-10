@@ -1,0 +1,5 @@
+[u'geyser', 0.14025377, u'lakeside', 0.12944748, u'seashore', 0.11603153, u'volcano', 0.078324012, u'sandbar', 0.056286149]
+[u'gazelle', 0.29319727, u'impala', 0.20899382, u'ibex', 0.13482772, u'llama', 0.13232513, u'bighorn', 0.032383412]
+[u'pole', 0.13658436, u'plow', 0.066346832, u'binoculars', 0.064102277, u'nail', 0.052831903, u'traffic_light', 0.051856358]
+[u'red_fox', 0.29566541, u'kit_fox', 0.29273376, u'grey_fox', 0.089404516, u'dingo', 0.053616852, u'red_wolf', 0.031547718]
+[u'Arabian_camel', 0.20177977, u'water_buffalo', 0.092975363, u'African_elephant', 0.087056287, u'ox', 0.055021137, u'ostrich', 0.051727615]

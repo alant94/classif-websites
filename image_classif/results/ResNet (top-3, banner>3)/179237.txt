@@ -1,0 +1,7 @@
+[u'neck_brace', 0.18667252, u'oxygen_mask', 0.045165017, u'bearskin', 0.044920575]
+[u'web_site', 0.64525121, u'book_jacket', 0.28730717, u'comic_book', 0.031097667]
+[u'web_site', 0.40747797, u'comic_book', 0.32654709, u'theater_curtain', 0.058809515]
+[u'comic_book', 0.37248784, u'theater_curtain', 0.056576904, u'book_jacket', 0.056003317]
+[u'oil_filter', 0.14399311, u'three-toed_sloth', 0.080263905, u'badger', 0.058016993]
+[u'panpipe', 0.15860437, u'comic_book', 0.15379134, u'book_jacket', 0.10186132]
+[u'screwdriver', 0.75070918, u'oxygen_mask', 0.087605186, u'nipple', 0.063479483]

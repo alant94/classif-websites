@@ -1,0 +1,2 @@
+[u'computer_keyboard', 0.7998938, u'waffle_iron', 0.073939532, u'space_bar', 0.072320469, u'typewriter_keyboard', 0.029796453, u'mouse', 0.0078999586]
+[u'chime', 0.69503248, u'turnstile', 0.057384051, u'web_site', 0.019980524, u'hook', 0.0150281, u'matchstick', 0.014942831]

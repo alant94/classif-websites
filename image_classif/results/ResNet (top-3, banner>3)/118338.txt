@@ -1,0 +1,7 @@
+[u'oboe', 0.36584869, u'whistle', 0.18438955, u'ballpoint', 0.060271759]
+[u'packet', 0.24652933, u'comic_book', 0.2048239, u'cinema', 0.076765388]
+[u'digital_watch', 0.29092476, u"carpenter's_kit", 0.18732941, u'cellular_telephone', 0.11813208]
+[u'book_jacket', 0.2310798, u'binder', 0.15393497, u'analog_clock', 0.090238526]
+[u'candle', 0.21297753, u'sliding_door', 0.094085269, u'crib', 0.079543523]
+[u'library', 0.75952423, u'bookcase', 0.080536298, u'bookshop', 0.078063071]
+[u'web_site', 0.21980497, u'slot', 0.13475856, u'quilt', 0.076058835]

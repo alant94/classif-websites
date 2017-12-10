@@ -1,0 +1,8 @@
+[u'ski', 0.18451765, u'fountain', 0.095938802, u'bearskin', 0.083898254, u'stage', 0.041874763, u'lakeside', 0.034039054]
+[u'poncho', 0.46765614, u'theater_curtain', 0.26355752, u'stage', 0.090960741, u'wool', 0.026085777, u'mortarboard', 0.022869173]
+[u'church', 0.38775349, u'picket_fence', 0.36236992, u'worm_fence', 0.15937109, u'barn', 0.023084024, u'water_tower', 0.01449398]
+[u'swab', 0.28535086, u'hook', 0.044239607, u'stole', 0.042309955, u'table_lamp', 0.039954215, u'cloak', 0.03836263]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'cornet', 0.18695579, u'perfume', 0.11218423, u'trombone', 0.07567025, u'combination_lock', 0.055658281, u'French_horn', 0.042870276]
+[u'plastic_bag', 0.86132193, u'toilet_tissue', 0.026430324, u'packet', 0.014496413, u'shower_cap', 0.010499083, u'lab_coat', 0.0089856368]
+[u'theater_curtain', 0.22412932, u'candle', 0.079405099, u'stage', 0.063015394, u'shoe_shop', 0.060557954, u'butcher_shop', 0.051504556]

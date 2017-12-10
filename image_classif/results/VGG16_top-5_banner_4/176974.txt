@@ -1,0 +1,1 @@
+[u'digital_clock', 0.087628566, u'analog_clock', 0.02559251, u'matchstick', 0.022725087, u'wall_clock', 0.022633329, u'Band_Aid', 0.02233642]

@@ -1,0 +1,8 @@
+[u'comic_book', 0.73624992, u'book_jacket', 0.13873217, u'web_site', 0.061168402]
+[u'banjo', 0.45042786, u'electric_guitar', 0.16144992, u'oboe', 0.13716041]
+[u'gas_pump', 0.12417842, u'altar', 0.058082625, u'picket_fence', 0.035453867]
+[u'accordion', 0.94243658, u'alp', 0.017003201, u'French_horn', 0.011389387]
+[u'picket_fence', 0.20549004, u'groom', 0.038316179, u'jean', 0.032465436]
+[u'accordion', 0.96832711, u'vestment', 0.018166594, u'bassoon', 0.0091362968]
+[u'book_jacket', 0.44840059, u'web_site', 0.19403853, u'banjo', 0.12312263]
+[u'comic_book', 0.16665226, u'mousetrap', 0.15907, u'coffee_mug', 0.15646052]

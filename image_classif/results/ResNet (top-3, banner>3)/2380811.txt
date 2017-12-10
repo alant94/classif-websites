@@ -1,0 +1,3 @@
+[u'hook', 0.099134542, u'web_site', 0.097998001, u'Band_Aid', 0.073374435]
+[u'syringe', 0.15659718, u'pop_bottle', 0.11224171, u'lab_coat', 0.10132847]
+[u'tobacco_shop', 0.13009216, u'pretzel', 0.044011012, u'book_jacket', 0.040311106]

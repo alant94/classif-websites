@@ -1,0 +1,4 @@
+[u'beacon', 0.18890819, u'bell_cote', 0.12113194, u'church', 0.085646868, u'birdhouse', 0.046437696, u'water_tower', 0.034588706]
+[u'neck_brace', 0.04287748, u'sarong', 0.041672502, u'whiskey_jug', 0.034335319, u'Band_Aid', 0.028974321, u'wig', 0.024362378]
+[u'sleeping_bag', 0.16791321, u'suit', 0.10093469, u'Loafer', 0.045626372, u'jean', 0.034865234, u'sturgeon', 0.031056408]
+[u'swimming_trunks', 0.27173427, u'sunscreen', 0.097536303, u'diaper', 0.079941899, u'bikini', 0.043914862, u'stretcher', 0.04276548]

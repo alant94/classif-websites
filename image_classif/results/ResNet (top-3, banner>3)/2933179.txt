@@ -1,0 +1,1 @@
+[u'prayer_rug', 0.068482123, u'church', 0.067619763, u'library', 0.065715]

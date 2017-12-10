@@ -1,0 +1,2 @@
+[u'quill', 0.14500614, u'beer_glass', 0.11597725, u'letter_opener', 0.08108788, u'hourglass', 0.058619019, u'ear', 0.058156021]
+[u'Kerry_blue_terrier', 0.12183423, u'shower_curtain', 0.092662372, u'Bouvier_des_Flandres', 0.079686321, u'butcher_shop', 0.069310822, u'Irish_water_spaniel', 0.065929666]

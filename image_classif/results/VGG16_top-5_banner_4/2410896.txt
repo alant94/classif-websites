@@ -1,0 +1,4 @@
+[u"carpenter's_kit", 0.15815888, u'can_opener', 0.1018949, u'lighter', 0.095478252, u'remote_control', 0.065610796, u'screwdriver', 0.055816848]
+[u'web_site', 0.15982699, u'hand_blower', 0.13989168, u'whistle', 0.086113364, u'menu', 0.061798055, u'microphone', 0.04110416]
+[u'remote_control', 0.18396318, u'space_heater', 0.17621872, u'vending_machine', 0.11177347, u'cassette_player', 0.083816953, u'CD_player', 0.071735248]
+[u'bookshop', 0.31730983, u'comic_book', 0.29551718, u'library', 0.085763864, u'packet', 0.037332419, u'bookcase', 0.03118128]

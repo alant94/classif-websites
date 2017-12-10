@@ -1,0 +1,3 @@
+[u'book_jacket', 0.38855234, u'school_bus', 0.25200963, u'street_sign', 0.068195827, u'moving_van', 0.033691097, u'cab', 0.022572683]
+[u'jersey', 0.45191109, u'French_horn', 0.11411053, u'bubble', 0.063083664, u'web_site', 0.035760343, u'cornet', 0.035606779]
+[u'magnetic_compass', 0.15800014, u'hair_slide', 0.14634268, u'neck_brace', 0.12613098, u'rule', 0.12454292, u'buckle', 0.11701699]

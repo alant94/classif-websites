@@ -1,0 +1,8 @@
+[u'chain_saw', 0.10957614, u'lifeboat', 0.1046811, u'paddle', 0.093947724]
+[u'ambulance', 0.78687811, u'police_van', 0.11625484, u'jeep', 0.048967969]
+[u'scoreboard', 0.35633585, u'digital_watch', 0.21998253, u'crossword_puzzle', 0.10726871]
+[u'beacon', 0.24699816, u'church', 0.097477064, u'lakeside', 0.082790613]
+[u'minivan', 0.94594181, u'minibus', 0.038565926, u'jeep', 0.006795051]
+[u'trailer_truck', 0.65239465, u'garbage_truck', 0.086647563, u'moving_van', 0.082300819]
+[u'web_site', 0.71930134, u'envelope', 0.042235468, u'hard_disc', 0.025036516]
+[u'envelope', 0.22722872, u'web_site', 0.10846194, u'prayer_rug', 0.042259052]

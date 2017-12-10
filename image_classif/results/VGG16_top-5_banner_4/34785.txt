@@ -1,0 +1,2 @@
+[u'cowboy_hat', 0.23148094, u'harmonica', 0.22679877, u'sombrero', 0.14669941, u'ocarina', 0.020391149, u'knot', 0.019573981]
+[u'cowboy_hat', 0.79700798, u'sombrero', 0.14461288, u'cloak', 0.0048855976, u'maraca', 0.0042557404, u'sweatshirt', 0.003537283]

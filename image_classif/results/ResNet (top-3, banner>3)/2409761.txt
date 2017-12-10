@@ -1,0 +1,2 @@
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552]
+[u'web_site', 0.085686594, u'jersey', 0.066585176, u'digital_clock', 0.05541176]

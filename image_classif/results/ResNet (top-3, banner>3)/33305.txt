@@ -1,0 +1,4 @@
+[u'pick', 0.23442458, u'ashcan', 0.075958408, u'hair_spray', 0.053090241]
+[u'web_site', 0.45721436, u'comic_book', 0.10483986, u'Band_Aid', 0.10331778]
+[u'pencil_sharpener', 0.52284664, u'hornbill', 0.047116078, u'envelope', 0.038243651]
+[u'tench', 0.1971685, u'bolete', 0.079806499, u'hen-of-the-woods', 0.031575553]

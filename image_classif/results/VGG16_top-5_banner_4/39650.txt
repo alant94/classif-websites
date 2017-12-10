@@ -1,0 +1,1 @@
+[u'gorilla', 0.25422674, u'dumbbell', 0.12659939, u'chain', 0.11696967, u'bull_mastiff', 0.11015248, u'teddy', 0.065041803]

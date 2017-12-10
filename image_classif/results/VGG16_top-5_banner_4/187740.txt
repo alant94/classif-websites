@@ -1,0 +1,4 @@
+[u'nipple', 0.088484935, u'coffee_mug', 0.056244366, u'sunscreen', 0.054122653, u'Band_Aid', 0.046126798, u'hair_spray', 0.033403948]
+[u'dock', 0.32848352, u'lifeboat', 0.24998979, u'catamaran', 0.17780672, u'liner', 0.1112617, u'container_ship', 0.027521089]
+[u'speedboat', 0.9905591, u'catamaran', 0.0062114177, u'lifeboat', 0.0015112326, u'submarine', 0.00049307861, u'amphibian', 0.00047021091]
+[u'speedboat', 0.59953099, u'aircraft_carrier', 0.13249111, u'fireboat', 0.11803079, u'lifeboat', 0.037884187, u'dock', 0.025835734]

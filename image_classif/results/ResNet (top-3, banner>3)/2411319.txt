@@ -1,0 +1,4 @@
+[u'church', 0.56995279, u'beacon', 0.15229625, u'castle', 0.032915268]
+[u'web_site', 0.52863401, u'book_jacket', 0.067991547, u'comic_book', 0.049501996]
+[u'screwdriver', 0.45730206, u"carpenter's_kit", 0.12890717, u'corn', 0.075586751]
+[u'envelope', 0.050121091, u'web_site', 0.047226157, u'lighter', 0.023980308]

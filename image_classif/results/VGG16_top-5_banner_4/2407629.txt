@@ -1,0 +1,6 @@
+[u'bucket', 0.31130603, u'scale', 0.1316714, u'toilet_seat', 0.076436952, u'whistle', 0.047846343, u'pill_bottle', 0.043647096]
+[u'bucket', 0.17532772, u'pencil_sharpener', 0.1596878, u'water_bottle', 0.081419259, u'water_jug', 0.080077052, u'scale', 0.037202973]
+[u'envelope', 0.16239308, u'rule', 0.13793693, u'web_site', 0.11387489, u'whistle', 0.034031745, u'rubber_eraser', 0.026943158]
+[u'web_site', 0.090917729, u'envelope', 0.086421482, u'whistle', 0.065660588, u'can_opener', 0.043360051, u'power_drill', 0.026861764]
+[u'web_site', 0.60409814, u'street_sign', 0.094599411, u'Band_Aid', 0.035869025, u'cash_machine', 0.035638016, u'book_jacket', 0.021010637]
+[u'oxygen_mask', 0.9077456, u'nipple', 0.052787669, u'Petri_dish', 0.0045634038, u'toilet_seat', 0.0041620103, u'lab_coat', 0.0035255856]

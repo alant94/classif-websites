@@ -1,0 +1,2 @@
+[u'screen', 0.29877847, u'monitor', 0.27439922, u'desktop_computer', 0.12235118]
+[u'fountain', 0.33369401, u'paintbrush', 0.088273384, u'mailbox', 0.086553305]

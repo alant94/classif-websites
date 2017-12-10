@@ -1,0 +1,2 @@
+[u'ear', 0.26820597, u'corn', 0.10728366, u'butcher_shop', 0.097164497, u'coral_fungus', 0.086353734, u'nail', 0.037575606]
+[u'radiator', 0.25587472, u'clog', 0.085323423, u'conch', 0.078571469, u'coral_fungus', 0.055465549, u'wooden_spoon', 0.050796703]

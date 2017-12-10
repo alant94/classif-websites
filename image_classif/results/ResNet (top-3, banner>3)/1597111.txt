@@ -1,0 +1,3 @@
+[u'book_jacket', 0.20568897, u'Band_Aid', 0.055848721, u'rule', 0.04271435]
+[u'prison', 0.57388258, u'polecat', 0.096006982, u'black-footed_ferret', 0.061017834]
+[u'capuchin', 0.12817508, u'Angora', 0.11340845, u'giant_panda', 0.079234585]

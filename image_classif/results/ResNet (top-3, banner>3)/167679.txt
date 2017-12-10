@@ -1,0 +1,4 @@
+[u'digital_clock', 0.1346494, u'oscilloscope', 0.094980761, u'candle', 0.057181254]
+[u'digital_clock', 0.66119963, u'screen', 0.090841934, u'monitor', 0.06171101]
+[u'web_site', 0.93175274, u'comic_book', 0.032358941, u'cinema', 0.0091383029]
+[u'candle', 0.27469426, u'spotlight', 0.16675705, u'bubble', 0.060662724]

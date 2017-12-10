@@ -1,0 +1,2 @@
+[u'safety_pin', 0.073797688, u'punching_bag', 0.066720717, u'can_opener', 0.048174251]
+[u'jersey', 0.10219262, u'shield', 0.075701013, u'Band_Aid', 0.04525423]

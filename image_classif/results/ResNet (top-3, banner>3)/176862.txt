@@ -1,0 +1,6 @@
+[u'web_site', 0.92584467, u'comic_book', 0.023043381, u'book_jacket', 0.017888961]
+[u'scoreboard', 0.40278488, u'street_sign', 0.38899997, u'web_site', 0.047191139]
+[u'cowboy_hat', 0.72333485, u'sombrero', 0.135242, u'bolo_tie', 0.020912429]
+[u'kimono', 0.36428708, u'sarong', 0.31113189, u'gown', 0.10412682]
+[u'television', 0.61653626, u'web_site', 0.2524251, u'scoreboard', 0.035055399]
+[u'comic_book', 0.5181455, u'web_site', 0.27258247, u'bobsled', 0.059794478]

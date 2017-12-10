@@ -1,0 +1,6 @@
+[u'web_site', 0.39394432, u'tripod', 0.15072861, u'envelope', 0.028670404]
+[u'television', 0.16068573, u'drumstick', 0.0722287, u'bow', 0.068161562]
+[u'scoreboard', 0.25972271, u'web_site', 0.18137759, u'brassiere', 0.091729239]
+[u'sarong', 0.20764731, u'miniskirt', 0.080107331, u'bikini', 0.069356516]
+[u'comic_book', 0.96066552, u'brassiere', 0.024127577, u'bikini', 0.0035736393]
+[u'web_site', 0.15211453, u'spotlight', 0.092073582, u'cup', 0.071264558]

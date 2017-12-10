@@ -1,0 +1,2 @@
+[u'web_site', 0.69135153, u'vending_machine', 0.11839333, u'menu', 0.023110371]
+[u'window_shade', 0.78186888, u'studio_couch', 0.15758671, u'restaurant', 0.0095413271]

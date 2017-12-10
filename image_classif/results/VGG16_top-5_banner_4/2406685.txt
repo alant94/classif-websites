@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.53712124, u'safety_pin', 0.15064605, u'nipple', 0.12091724, u'web_site', 0.072551072, u'sunscreen', 0.027603829]
+[u'comic_book', 0.78481567, u'menu', 0.11986033, u'book_jacket', 0.020248123, u'web_site', 0.018467711, u'packet', 0.011116217]

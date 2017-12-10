@@ -1,0 +1,2 @@
+[u'butcher_shop', 0.53930992, u'meat_loaf', 0.038089015, u'screwdriver', 0.028536512, u'lighter', 0.022437872, u'nail', 0.019396197]
+[u'stole', 0.67240095, u'meat_loaf', 0.095751032, u'plate', 0.059865888, u'sarong', 0.024979364, u'strawberry', 0.01693094]

@@ -1,0 +1,7 @@
+[u'wall_clock', 0.028453985, u'swab', 0.016333731, u'crane', 0.013763897, u'window_shade', 0.013262204, u'spotlight', 0.012423438]
+[u'lampshade', 0.16198261, u'shower_curtain', 0.0411296, u'fountain', 0.033923186, u'theater_curtain', 0.032667462, u'lakeside', 0.028721632]
+[u'wall_clock', 0.047275744, u'switch', 0.044202548, u'envelope', 0.025660466, u'safe', 0.022166783, u'broom', 0.016496141]
+[u'envelope', 0.029117225, u'broom', 0.027894016, u'swab', 0.026828725, u'wall_clock', 0.020744359, u'safe', 0.016858714]
+[u'envelope', 0.14573847, u'binder', 0.082709029, u'jersey', 0.06291604, u'digital_clock', 0.033658646, u'tray', 0.031422444]
+[u'envelope', 0.15046988, u'safe', 0.04589827, u'jersey', 0.042513885, u'digital_clock', 0.03128437, u'monitor', 0.030637596]
+[u'wild_boar', 0.72536373, u'wombat', 0.13505243, u'hog', 0.093738027, u'Bouvier_des_Flandres', 0.015178162, u'American_black_bear', 0.012449699]

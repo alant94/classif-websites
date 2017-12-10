@@ -1,0 +1,1 @@
+[u'web_site', 0.13634594, u'tripod', 0.053194653, u'combination_lock', 0.048793305, u'switch', 0.045044951, u'lighter', 0.031284034]

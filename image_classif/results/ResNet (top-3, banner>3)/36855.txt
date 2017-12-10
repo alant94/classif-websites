@@ -1,0 +1,6 @@
+[u'lifeboat', 0.49415353, u'fireboat', 0.46261975, u'catamaran', 0.0115715]
+[u'killer_whale', 0.56741554, u'grey_whale', 0.40518114, u'great_white_shark', 0.026137182]
+[u'gar', 0.56899887, u'barracouta', 0.17398608, u'coho', 0.15437144]
+[u'fireboat', 0.53702062, u'lifeboat', 0.082394376, u'dock', 0.064491376]
+[u'coho', 0.34615168, u'barracouta', 0.33032766, u'sturgeon', 0.22994441]
+[u'English_setter', 0.30915874, u'grey_whale', 0.070147388, u'Great_Dane', 0.067528635]

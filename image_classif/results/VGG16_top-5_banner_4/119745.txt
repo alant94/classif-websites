@@ -1,0 +1,1 @@
+[u'window_shade', 0.24839874, u'screen', 0.10908213, u'television', 0.049580067, u'web_site', 0.037282612, u'monitor', 0.035415996]

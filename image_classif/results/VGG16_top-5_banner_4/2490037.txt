@@ -1,0 +1,2 @@
+[u'book_jacket', 0.22230236, u'packet', 0.079212666, u'buckle', 0.062415279, u'comic_book', 0.058782153, u'hair_slide', 0.055526271]
+[u'maillot', 0.058501855, u'sarong', 0.058225725, u'flute', 0.050231542, u'cowboy_boot', 0.0445913, u'swing', 0.042763557]

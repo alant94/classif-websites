@@ -1,0 +1,3 @@
+[u'street_sign', 0.52045012, u'plastic_bag', 0.12642355, u'packet', 0.066427864]
+[u'bakery', 0.76069576, u'restaurant', 0.030787574, u'grocery_store', 0.016121706]
+[u'lakeside', 0.09022329, u'barrel', 0.089977667, u'pot', 0.045016646]

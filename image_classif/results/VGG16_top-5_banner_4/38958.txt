@@ -1,0 +1,5 @@
+[u'window_shade', 0.13857742, u'coffee_mug', 0.08150214, u'book_jacket', 0.04282346, u'screen', 0.033516854, u'hair_spray', 0.032946818]
+[u'cash_machine', 0.2206278, u'screen', 0.057378769, u'television', 0.05616501, u'book_jacket', 0.050157316, u'window_shade', 0.045725562]
+[u'window_shade', 0.28253382, u'coffee_mug', 0.085866235, u'microwave', 0.046770021, u'theater_curtain', 0.039465085, u'lampshade', 0.03695666]
+[u'window_shade', 0.18031766, u'screen', 0.083166353, u'theater_curtain', 0.054617565, u'cash_machine', 0.038262978, u'television', 0.038090624]
+[u'window_shade', 0.15797502, u'coffee_mug', 0.066162996, u'screen', 0.055516992, u'microwave', 0.049708642, u'television', 0.045681931]

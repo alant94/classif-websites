@@ -1,0 +1,4 @@
+[u'daisy', 0.37183282, u'web_site', 0.19931687, u'menu', 0.077817097]
+[u'web_site', 0.63779789, u'palace', 0.025091765, u'castle', 0.019508732]
+[u'book_jacket', 0.39349329, u'menu', 0.17561477, u'web_site', 0.093492359]
+[u'web_site', 0.24060631, u'mushroom', 0.046436988, u'fire_screen', 0.027574969]

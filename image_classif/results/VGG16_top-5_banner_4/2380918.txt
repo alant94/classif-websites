@@ -1,0 +1,7 @@
+[u'window_shade', 0.10333781, u'shower_curtain', 0.060478404, u'sliding_door', 0.043002166, u'window_screen', 0.036203872, u'digital_clock', 0.030271821]
+[u'shower_curtain', 0.084796794, u'prayer_rug', 0.078633383, u'wool', 0.06635505, u'stole', 0.056932233, u'quilt', 0.027593637]
+[u'lakeside', 0.4651987, u'valley', 0.32955894, u'seashore', 0.083357506, u'promontory', 0.039962389, u'breakwater', 0.012393319]
+[u'digital_clock', 0.62455338, u'digital_watch', 0.23660426, u'doormat', 0.015878225, u'scoreboard', 0.013287418, u'prayer_rug', 0.01091246]
+[u'web_site', 0.094139509, u'envelope', 0.058323476, u'hook', 0.022205602, u'chain_saw', 0.018205214, u'can_opener', 0.01786753]
+[u'matchstick', 0.25066757, u'candle', 0.094637722, u'flagpole', 0.072355442, u'beacon', 0.0509478, u'lipstick', 0.040906135]
+[u'shower_curtain', 0.038141184, u'wool', 0.033421814, u'sea_snake', 0.027812349, u'prayer_rug', 0.022590535, u'Christmas_stocking', 0.017746773]

@@ -1,0 +1,4 @@
+[u'abaya', 0.60733694, u'book_jacket', 0.14029776, u'cloak', 0.13805836, u'comic_book', 0.043470711, u'stage', 0.014078112]
+[u'bassoon', 0.73593295, u'oboe', 0.16363589, u'sax', 0.076386124, u'flute', 0.011276274, u'cornet', 0.0017935896]
+[u'web_site', 0.71830326, u'refrigerator', 0.021431303, u'iPod', 0.020387756, u'book_jacket', 0.016570561, u'envelope', 0.014888706]
+[u'spotlight', 0.30058265, u'stage', 0.2070545, u'torch', 0.063702956, u'swing', 0.05078315, u'banjo', 0.046530891]

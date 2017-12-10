@@ -1,0 +1,5 @@
+[u'hook', 0.85312068, u'web_site', 0.023324922, u'bannister', 0.016761934]
+[u'hook', 0.17670757, u'plate_rack', 0.14995146, u'web_site', 0.086615287]
+[u'web_site', 0.46170509, u'television', 0.10031785, u'vase', 0.042644437]
+[u'window_screen', 0.47841838, u'web_site', 0.12377453, u'gong', 0.079987541]
+[u'web_site', 0.85091597, u'book_jacket', 0.028913913, u'perfume', 0.0073700212]

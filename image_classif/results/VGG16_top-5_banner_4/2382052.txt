@@ -1,0 +1,4 @@
+[u'combination_lock', 0.27973363, u'beer_glass', 0.10731905, u'perfume', 0.094811656, u'water_bottle', 0.037110988, u'beaker', 0.034039602]
+[u'plate', 0.08480303, u'fig', 0.054320253, u'tray', 0.045444917, u'burrito', 0.030850906, u'grocery_store', 0.030621026]
+[u'patio', 0.43935737, u'greenhouse', 0.10718477, u'stone_wall', 0.068468645, u'ear', 0.061330657, u'picket_fence', 0.044026691]
+[u'groom', 0.27245435, u'kimono', 0.080769263, u'jackfruit', 0.054853626, u'pajama', 0.043398976, u'jean', 0.037174929]

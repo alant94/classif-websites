@@ -1,0 +1,1 @@
+[u'safety_pin', 0.22764924, u'shower_curtain', 0.11887987, u'pajama', 0.065523975, u'apron', 0.038295612, u'bath_towel', 0.033690561]

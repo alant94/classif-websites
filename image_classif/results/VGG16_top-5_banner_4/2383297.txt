@@ -1,0 +1,8 @@
+[u'book_jacket', 0.5606603, u'comic_book', 0.044225063, u'jersey', 0.031624258, u'matchstick', 0.030251557, u"jack-o'-lantern", 0.027297938]
+[u'organ', 0.54750341, u'prison', 0.3234697, u'turnstile', 0.019124694, u'chime', 0.016124394, u'vault', 0.0071638552]
+[u'prison', 0.33028924, u'organ', 0.26865518, u'turnstile', 0.048742995, u'window_shade', 0.037348054, u'vault', 0.020699458]
+[u'red_wine', 0.7189824, u'goblet', 0.1653527, u'wine_bottle', 0.03881729, u'hummingbird', 0.033927605, u'beer_glass', 0.014237331]
+[u'organ', 0.61238611, u'chime', 0.048314542, u'prison', 0.036939953, u'turnstile', 0.031926744, u'window_shade', 0.020211641]
+[u'pizza', 0.93745404, u'bakery', 0.011299467, u'cleaver', 0.010497295, u'dough', 0.0081462096, u'spatula', 0.0074955057]
+[u'street_sign', 0.19854777, u'birdhouse', 0.11004978, u'mailbox', 0.063224718, u'boathouse', 0.046212763, u'barn', 0.027702574]
+[u'boathouse', 0.66973972, u'barn', 0.13794143, u'lakeside', 0.042164672, u'picket_fence', 0.020304356, u'beacon', 0.019991729]

@@ -1,0 +1,1 @@
+[u'face_powder', 0.27357656, u'coffee_mug', 0.12670317, u'puck', 0.06447082, u'comic_book', 0.061441384, u'jersey', 0.041855078]

@@ -1,0 +1,4 @@
+[u'tub', 0.18133877, u'bathtub', 0.12652402, u'lab_coat', 0.079142094, u'stethoscope', 0.059299454, u'Windsor_tie', 0.05531425]
+[u'cinema', 0.059612852, u'library', 0.047162123, u'altar', 0.037145585, u'dining_table', 0.031434953, u'medicine_chest', 0.030301575]
+[u'bathtub', 0.45160535, u'tub', 0.39815474, u'washbasin', 0.010867188, u'printer', 0.010618476, u'photocopier', 0.010574018]
+[u'medicine_chest', 0.68018746, u'washbasin', 0.17183749, u'soap_dispenser', 0.071759708, u'bathtub', 0.020809624, u'toilet_seat', 0.015637456]

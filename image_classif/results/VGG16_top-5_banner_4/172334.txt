@@ -1,0 +1,6 @@
+[u'marimba', 0.14737917, u'electric_guitar', 0.14378101, u'stage', 0.13094456, u'grand_piano', 0.11326235, u'panpipe', 0.073149711]
+[u'cello', 0.37894377, u'violin', 0.22281331, u'electric_guitar', 0.078567177, u'stage', 0.060537346, u'cornet', 0.031752121]
+[u'poncho', 0.19467135, u'wardrobe', 0.16571818, u'academic_gown', 0.0978337, u'sweatshirt', 0.096351936, u'mortarboard', 0.076951616]
+[u'chain', 0.39128661, u'padlock', 0.092358567, u'king_penguin', 0.070801951, u'shoe_shop', 0.039996926, u'wine_bottle', 0.017457655]
+[u'panpipe', 0.70408612, u'butcher_shop', 0.12110492, u'mortarboard', 0.03182064, u'paintbrush', 0.020718234, u'cleaver', 0.018630937]
+[u'theater_curtain', 0.95711625, u'stage', 0.030829217, u'organ', 0.0042829094, u'altar', 0.002151591, u'cinema', 0.0017428419]

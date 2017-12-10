@@ -1,0 +1,5 @@
+[u'stopwatch', 0.21997762, u'digital_watch', 0.13790445, u'analog_clock', 0.13108446]
+[u'suit', 0.54869264, u'Loafer', 0.10965379, u'Windsor_tie', 0.081987992]
+[u'stopwatch', 0.38321459, u'scale', 0.1510753, u'digital_watch', 0.12149853]
+[u'abacus', 0.17641532, u'grocery_store', 0.1254348, u'confectionery', 0.063898884]
+[u'digital_clock', 0.72354388, u'digital_watch', 0.10483853, u'laptop', 0.021215687]

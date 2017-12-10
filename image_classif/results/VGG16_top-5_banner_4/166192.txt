@@ -1,0 +1,2 @@
+[u'beacon', 0.039859217, u'parachute', 0.039413668, u'breakwater', 0.03768722, u'promontory', 0.030841334, u'seashore', 0.026476584]
+[u'parachute', 0.063273035, u'seashore', 0.044393282, u'beacon', 0.036584318, u'breakwater', 0.027225556, u'crane', 0.021874366]

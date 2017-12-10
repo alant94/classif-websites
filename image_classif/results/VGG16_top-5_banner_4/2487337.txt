@@ -1,0 +1,6 @@
+[u'lighter', 0.16757147, u'binder', 0.070306979, u'turnstile', 0.05788051, u'hook', 0.043095507, u'accordion', 0.036506273]
+[u'binder', 0.25366133, u'accordion', 0.084558778, u'buckle', 0.067229584, u'wallet', 0.050956234, u'corkscrew', 0.048481718]
+[u'Arabian_camel', 0.42148891, u'ox', 0.097493999, u'dogsled', 0.080222696, u'oxcart', 0.072048582, u'seashore', 0.048883706]
+[u'llama', 0.30725318, u'English_foxhound', 0.097542241, u'Arabian_camel', 0.09031073, u'ox', 0.076257482, u'Irish_setter', 0.056959677]
+[u'web_site', 0.13651997, u'envelope', 0.02419761, u'matchstick', 0.024008514, u'lighter', 0.021771261, u'crane', 0.012024778]
+[u'web_site', 0.057391293, u'matchstick', 0.028937828, u'chain', 0.016214147, u'analog_clock', 0.014175792, u'nematode', 0.01408657]

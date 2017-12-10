@@ -1,0 +1,6 @@
+[u'bison', 0.19887356, u'brown_bear', 0.1123431, u'timber_wolf', 0.056393739, u'wallaby', 0.055085123, u'American_black_bear', 0.040517561]
+[u'hook', 0.11260574, u'swing', 0.08661595, u'chime', 0.031191068, u'pole', 0.02823885, u'flagpole', 0.022668991]
+[u'ibex', 0.54045588, u'bighorn', 0.30031514, u'Arabian_camel', 0.060434718, u'three-toed_sloth', 0.033227637, u'hartebeest', 0.020528508]
+[u'German_shepherd', 0.16635004, u'Greater_Swiss_Mountain_dog', 0.057400364, u'EntleBucher', 0.041629273, u'bulletproof_vest', 0.037108541, u'Bernese_mountain_dog', 0.033673599]
+[u'impala', 0.56787997, u'gazelle', 0.38366607, u'dhole', 0.019656902, u'hartebeest', 0.017213767, u'cheetah', 0.0031534957]
+[u'hyena', 0.53131825, u'African_hunting_dog', 0.33027792, u'baboon', 0.069565631, u'warthog', 0.019390639, u'Irish_wolfhound', 0.01421339]

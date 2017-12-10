@@ -1,0 +1,7 @@
+[u"potter's_wheel", 0.11396993, u'barrel', 0.10826636, u'greenhouse', 0.081440032]
+[u'window_screen', 0.52553225, u'book_jacket', 0.1430252, u'sliding_door', 0.059176024]
+[u'home_theater', 0.87237126, u'entertainment_center', 0.057717904, u'fire_screen', 0.020779395]
+[u'pool_table', 0.99998641, u'croquet_ball', 7.8778949e-06, u'ping-pong_ball', 1.0815493e-06]
+[u'theater_curtain', 0.34039775, u'comic_book', 0.3083263, u'book_jacket', 0.1080816]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'patio', 0.57472581, u'barbershop', 0.13654672, u'cinema', 0.11523657]

@@ -1,0 +1,1 @@
+[u'neck_brace', 0.3655988, u'Windsor_tie', 0.11028472, u'suit', 0.068487927, u'academic_gown', 0.042888355, u'bulletproof_vest', 0.041713152]

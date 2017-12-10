@@ -1,0 +1,4 @@
+[u'book_jacket', 0.12522396, u'binder', 0.058155049, u'organ', 0.049781255, u'screwdriver', 0.04182161, u'ballpoint', 0.03580796]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'alp', 0.28222698, u'cliff', 0.20427138, u'valley', 0.16860114, u'book_jacket', 0.051401764, u'volcano', 0.0454669]
+[u'ox', 0.11553981, u'oxcart', 0.091585539, u'Indian_elephant', 0.071716122, u'sorrel', 0.070771649, u'tusker', 0.053397842]

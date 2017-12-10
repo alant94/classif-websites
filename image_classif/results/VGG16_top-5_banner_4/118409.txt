@@ -1,0 +1,1 @@
+[u'monitor', 0.54881001, u'screen', 0.13097623, u'envelope', 0.050988752, u'container_ship', 0.021009095, u'television', 0.020519581]

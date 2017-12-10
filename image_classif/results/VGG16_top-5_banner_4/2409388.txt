@@ -1,0 +1,8 @@
+[u'candle', 0.19045644, u'altar', 0.18260363, u'bakery', 0.065056413, u'dining_table', 0.027300676, u'chest', 0.023964094]
+[u'window_screen', 0.26442924, u'solar_dish', 0.076743945, u'Windsor_tie', 0.037590411, u'jean', 0.018623497, u'doormat', 0.017123155]
+[u'snowmobile', 0.58268982, u'web_site', 0.095599584, u'comic_book', 0.080208726, u'book_jacket', 0.043621667, u'rhinoceros_beetle', 0.020093722]
+[u'candle', 0.394178, u'bakery', 0.25454634, u'tray', 0.078683347, u'sombrero', 0.053308912, u'cup', 0.027907522]
+[u'altar', 0.24768393, u'four-poster', 0.18974346, u'bassinet', 0.14709198, u'cradle', 0.12676857, u'gown', 0.093013905]
+[u'solar_dish', 0.57203001, u'window_screen', 0.047529694, u'Windsor_tie', 0.016176308, u'chain', 0.0082710367, u'chainlink_fence', 0.0078828949]
+[u'window_screen', 0.30797014, u'solar_dish', 0.11809362, u'Windsor_tie', 0.028879263, u'doormat', 0.018241232, u'chainlink_fence', 0.017817885]
+[u'window_screen', 0.25801224, u'solar_dish', 0.098929971, u'Windsor_tie', 0.031523388, u'doormat', 0.018020611, u'jean', 0.016524967]

@@ -1,0 +1,2 @@
+[u'lab_coat', 0.70621544, u'wig', 0.049908657, u'hoopskirt', 0.031057511]
+[u'reflex_camera', 0.82085997, u'oxygen_mask', 0.084604375, u'triceratops', 0.027329529]

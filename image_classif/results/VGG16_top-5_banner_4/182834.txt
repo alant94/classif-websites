@@ -1,0 +1,1 @@
+[u'hair_slide', 0.14659199, u'rubber_eraser', 0.061970934, u'letter_opener', 0.061599631, u'screwdriver', 0.055840049, u'can_opener', 0.052841581]

@@ -1,0 +1,6 @@
+[u'modem', 0.23860215, u'jigsaw_puzzle', 0.16437106, u'joystick', 0.1062511]
+[u'tray', 0.10842222, u'table_lamp', 0.072493277, u'ocarina', 0.055239774]
+[u'toyshop', 0.35157549, u'barber_chair', 0.12761851, u'scale', 0.063817985]
+[u'coral_reef', 0.19141102, u'stupa', 0.094244465, u'paintbrush', 0.0935404]
+[u'comic_book', 0.51445723, u'jigsaw_puzzle', 0.38026929, u'toyshop', 0.03153209]
+[u'comic_book', 0.896029, u'book_jacket', 0.0094696991, u'tripod', 0.0086408742]

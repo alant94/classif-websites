@@ -1,0 +1,8 @@
+[u'castle', 0.89990604, u'palace', 0.048858244, u'pedestal', 0.017033314]
+[u'breastplate', 0.10239256, u'vault', 0.037885975, u'cuirass', 0.035387021]
+[u'altar', 0.24173787, u'butcher_shop', 0.06882216, u'vestment', 0.046803016]
+[u'horse_cart', 0.098887429, u'triceratops', 0.060427982, u'cowboy_hat', 0.048345793]
+[u'vestment', 0.75064552, u'mosque', 0.044999916, u'altar', 0.038069803]
+[u'pirate', 0.16710402, u'throne', 0.12850073, u'totem_pole', 0.074354917]
+[u'picket_fence', 0.10945798, u'dock', 0.10171693, u'suspension_bridge', 0.094065197]
+[u'shield', 0.10791954, u'padlock', 0.097782493, u'throne', 0.096232094]

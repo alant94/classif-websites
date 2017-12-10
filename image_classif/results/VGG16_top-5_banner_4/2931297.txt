@@ -1,0 +1,1 @@
+[u'mountain_bike', 0.1410441, u'ski', 0.084841408, u'picket_fence', 0.055611759, u'fountain', 0.044741377, u'cliff', 0.042164326]

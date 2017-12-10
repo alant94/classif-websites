@@ -1,0 +1,4 @@
+[u'puck', 0.64344859, u'face_powder', 0.11927772, u'loupe', 0.032029934, u'pick', 0.018772902, u'analog_clock', 0.016207688]
+[u'washer', 0.24552841, u'projector', 0.087161727, u'digital_watch', 0.073166415, u'microwave', 0.047873825, u'toilet_seat', 0.042092338]
+[u'tray', 0.53579605, u'switch', 0.062319823, u'digital_clock', 0.046251494, u'lighter', 0.032629751, u'binder', 0.02358357]
+[u'monitor', 0.068514951, u'binder', 0.060279299, u'screen', 0.050553665, u'safe', 0.047499578, u'recreational_vehicle', 0.041651722]

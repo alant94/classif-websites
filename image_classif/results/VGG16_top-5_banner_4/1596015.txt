@@ -1,0 +1,6 @@
+[u'book_jacket', 0.25248083, u'chain_mail', 0.11984989, u'chain', 0.082295537, u'oboe', 0.069004118, u'packet', 0.026832268]
+[u'vault', 0.23292367, u'monastery', 0.079831921, u'altar', 0.030793402, u'theater_curtain', 0.025784045, u'wall_clock', 0.024505518]
+[u'lighter', 0.18302172, u'lipstick', 0.068822831, u'matchstick', 0.067340657, u'red_wine', 0.05898837, u'sock', 0.027919699]
+[u'drum', 0.20805539, u'face_powder', 0.12827159, u'pick', 0.10074262, u'sunglass', 0.036118902, u'bucket', 0.016859069]
+[u'shower_curtain', 0.16272575, u'prayer_rug', 0.045816641, u'velvet', 0.032778326, u'pillow', 0.024413634, u'quilt', 0.021088472]
+[u'pinwheel', 0.29280117, u'pencil_box', 0.13544548, u'envelope', 0.076660953, u'Band_Aid', 0.030426128, u'rubber_eraser', 0.02707844]

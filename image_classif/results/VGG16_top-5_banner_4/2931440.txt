@@ -1,0 +1,1 @@
+[u'book_jacket', 0.24852696, u'barn', 0.19596979, u'crane', 0.12640423, u'prayer_rug', 0.095979467, u'drilling_platform', 0.068324059]

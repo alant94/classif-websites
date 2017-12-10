@@ -1,0 +1,1 @@
+[u'church', 0.047300037, u'spotlight', 0.04580998, u'bell_cote', 0.044487465, u'traffic_light', 0.037882365, u'maze', 0.034802251]

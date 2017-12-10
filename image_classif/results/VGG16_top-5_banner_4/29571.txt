@@ -1,0 +1,6 @@
+[u'sunscreen', 0.16873455, u'whistle', 0.14634559, u'pencil_sharpener', 0.099521115, u'puck', 0.087048486, u'tennis_ball', 0.083863944]
+[u'analog_clock', 0.21697061, u'lens_cap', 0.092178307, u'dial_telephone', 0.053363722, u'tripod', 0.032179803, u'lampshade', 0.02995174]
+[u'jersey', 0.069702409, u'lens_cap', 0.055256926, u'digital_clock', 0.053720519, u'tray', 0.046259794, u'lampshade', 0.04612235]
+[u'lampshade', 0.26528528, u'shield', 0.052626066, u"jack-o'-lantern", 0.04787435, u'matchstick', 0.042848695, u'jersey', 0.033704296]
+[u'baseball', 0.13362785, u'lampshade', 0.10313471, u'upright', 0.056235179, u'coil', 0.047596857, u'grand_piano', 0.046699028]
+[u'analog_clock', 0.50851262, u'shield', 0.12264016, u'bolo_tie', 0.077970445, u'gong', 0.053609312, u'loupe', 0.02485309]

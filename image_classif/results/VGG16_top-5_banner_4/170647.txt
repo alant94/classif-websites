@@ -1,0 +1,2 @@
+[u'organ', 0.48749658, u'upright', 0.10562497, u'marimba', 0.050245333, u'grand_piano', 0.050094955, u'typewriter_keyboard', 0.034988459]
+[u'wig', 0.076162189, u'quill', 0.056408715, u'spotlight', 0.052177567, u'Japanese_spaniel', 0.045649488, u'perfume', 0.043853231]

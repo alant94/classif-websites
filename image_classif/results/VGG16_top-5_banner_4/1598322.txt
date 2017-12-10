@@ -1,0 +1,7 @@
+[u'swing', 0.14331421, u'power_drill', 0.07476297, u'hammer', 0.051172066, u'tub', 0.041075349, u'scale', 0.039500851]
+[u'cougar', 0.27545592, u'Arabian_camel', 0.20550382, u'triceratops', 0.095479414, u'lion', 0.034885839, u'dingo', 0.029307676]
+[u'bikini', 0.47849512, u'maillot', 0.11026219, u'maillot', 0.094588339, u'tub', 0.093965001, u'swimming_trunks', 0.075739466]
+[u'moped', 0.34344724, u'motor_scooter', 0.24210066, u'carousel', 0.22663206, u'barber_chair', 0.085654482, u'throne', 0.032639232]
+[u'microphone', 0.28829673, u'gasmask', 0.12646446, u'oxygen_mask', 0.089917883, u'stethoscope', 0.06274958, u'spotlight', 0.061550912]
+[u'horizontal_bar', 0.4453994, u'balance_beam', 0.3297624, u'parallel_bars', 0.056173779, u'punching_bag', 0.037137561, u'pole', 0.01324687]
+[u'swimming_trunks', 0.54292291, u'bikini', 0.12778367, u'bathing_cap', 0.090393998, u'tub', 0.034332801, u'dumbbell', 0.030218685]

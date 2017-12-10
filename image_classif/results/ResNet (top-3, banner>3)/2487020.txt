@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.35871655, u'shoe_shop', 0.17935152, u'toyshop', 0.076297335]
+[u'web_site', 0.72442347, u'menu', 0.087547012, u'brass', 0.016285187]
+[u'digital_clock', 0.85101455, u'digital_watch', 0.062073223, u'scoreboard', 0.018591128]
+[u'gazelle', 0.66534662, u'hartebeest', 0.2359879, u'impala', 0.054467466]
+[u'web_site', 0.3107582, u'screen', 0.13945271, u'prayer_rug', 0.075227089]

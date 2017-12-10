@@ -1,0 +1,5 @@
+[u'screwdriver', 0.33436745, u'scoreboard', 0.092383072, u'power_drill', 0.052528966, u'packet', 0.045510691, u"carpenter's_kit", 0.042366963]
+[u'packet', 0.83735472, u'lotion', 0.037972279, u'sunscreen', 0.032577373, u'book_jacket', 0.015866153, u'hamper', 0.012683085]
+[u'packet', 0.29478106, u"carpenter's_kit", 0.1335317, u'hamper', 0.12700775, u'mailbag', 0.079775661, u'paintbrush', 0.058733027]
+[u'hamper', 0.74812716, u'paintbrush', 0.070734486, u"carpenter's_kit", 0.052903064, u'shopping_basket', 0.035044037, u'packet', 0.020181447]
+[u'puck', 0.11811928, u'rugby_ball', 0.040965203, u'buckle', 0.031138215, u'pick', 0.028283019, u'packet', 0.02453479]

@@ -1,0 +1,5 @@
+[u'geyser', 0.56364471, u'missile', 0.071994893, u'projectile', 0.053515483]
+[u'impala', 0.44966197, u'gazelle', 0.4392623, u'hartebeest', 0.10129419]
+[u'street_sign', 0.24365452, u'totem_pole', 0.23532668, u'pole', 0.15937234]
+[u'quail', 0.1478097, u'cheetah', 0.093615569, u'wallaby', 0.092105806]
+[u'gazelle', 0.1180684, u'Arabian_camel', 0.084210053, u'African_elephant', 0.081703104]

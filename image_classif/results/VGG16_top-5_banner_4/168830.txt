@@ -1,0 +1,1 @@
+[u'beacon', 0.053560872, u'flagpole', 0.034409918, u'wardrobe', 0.02734234, u'analog_clock', 0.024017232, u'web_site', 0.020870881]

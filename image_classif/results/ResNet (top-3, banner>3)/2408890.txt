@@ -1,0 +1,6 @@
+[u'puck', 0.42829594, u'pick', 0.066163599, u'face_powder', 0.060200922]
+[u'web_site', 0.1654308, u'ski', 0.078055568, u'jersey', 0.075233437]
+[u'golf_ball', 0.41824555, u'ping-pong_ball', 0.066166684, u'spotlight', 0.042861927]
+[u'folding_chair', 0.23420237, u'hook', 0.076673269, u'web_site', 0.051247738]
+[u'web_site', 0.58045483, u'book_jacket', 0.071726277, u'envelope', 0.041752547]
+[u'web_site', 0.11622009, u'chime', 0.047846083, u'hair_spray', 0.037412886]

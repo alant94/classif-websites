@@ -1,0 +1,5 @@
+[u'digital_clock', 0.15964191, u'home_theater', 0.12524499, u'shoji', 0.10349049]
+[u'book_jacket', 0.09363579, u'thimble', 0.044372458, u'pedestal', 0.041382384]
+[u'oscilloscope', 0.42963937, u'screwdriver', 0.054462202, u'screen', 0.050336961]
+[u'Old_English_sheepdog', 0.15945224, u'airship', 0.052354626, u'siamang', 0.049222335]
+[u'stopwatch', 0.20199656, u'digital_clock', 0.1559504, u'street_sign', 0.1417371]

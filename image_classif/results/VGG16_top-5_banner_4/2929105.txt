@@ -1,0 +1,3 @@
+[u'wardrobe', 0.47057235, u'butcher_shop', 0.23728572, u'shoe_shop', 0.077104189, u'vestment', 0.026586918, u'cowboy_boot', 0.021977773]
+[u'butcher_shop', 0.12652689, u'shoe_shop', 0.12492562, u'shower_curtain', 0.082153872, u'sarong', 0.060078349, u'mosquito_net', 0.055320725]
+[u'sarong', 0.32424119, u'butcher_shop', 0.1846206, u'theater_curtain', 0.15271948, u'brassiere', 0.0625934, u'groom', 0.023055589]

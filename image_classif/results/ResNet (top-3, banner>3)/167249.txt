@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.19784898, u'cash_machine', 0.097752631, u'shield', 0.086176276]
+[u'shield', 0.30030423, u'digital_clock', 0.25924432, u'jersey', 0.1389913]
+[u'whistle', 0.40868768, u'hook', 0.082525223, u'maraca', 0.063561164]
+[u'shield', 0.11991337, u'Band_Aid', 0.089209408, u'jersey', 0.081546962]
+[u'traffic_light', 0.23455285, u'digital_clock', 0.1064033, u'street_sign', 0.082578152]
+[u'web_site', 0.98971808, u'shower_curtain', 0.00093901332, u'menu', 0.00092744705]

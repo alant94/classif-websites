@@ -1,0 +1,2 @@
+[u'notebook', 0.63363665, u'laptop', 0.093955696, u'bassoon', 0.045559879, u'vacuum', 0.037836909, u'grand_piano', 0.032127697]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

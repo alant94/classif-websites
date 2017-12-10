@@ -1,0 +1,6 @@
+[u'gas_pump', 0.67000407, u'space_heater', 0.14245918, u'mousetrap', 0.033166166]
+[u'castle', 0.26319486, u'palace', 0.24944468, u'dome', 0.16863807]
+[u'cassette_player', 0.43448243, u'cassette', 0.095898218, u'loudspeaker', 0.071042322]
+[u"potter's_wheel", 0.22362071, u'crossword_puzzle', 0.20023966, u'notebook', 0.18976542]
+[u'cassette', 0.4844586, u'cassette_player', 0.30037719, u'tape_player', 0.068094969]
+[u'palace', 0.99496835, u'obelisk', 0.00076271553, u'fountain', 0.00075816986]

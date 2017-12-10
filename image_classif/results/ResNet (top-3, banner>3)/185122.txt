@@ -1,0 +1,4 @@
+[u'suit', 0.099050812, u'microphone', 0.08777228, u'lab_coat', 0.082752317]
+[u'horizontal_bar', 0.039442915, u'cornet', 0.033489551, u'barbershop', 0.031533979]
+[u'megalith', 0.99954993, u'hay', 8.902049e-05, u'stone_wall', 4.6839872e-05]
+[u'coho', 0.62708384, u'sturgeon', 0.12243592, u'barracouta', 0.11280186]

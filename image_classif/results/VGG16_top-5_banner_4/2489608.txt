@@ -1,0 +1,8 @@
+[u'abaya', 0.1335585, u'hook', 0.048254166, u'iron', 0.043419413, u'zebra', 0.032245252, u'sweatshirt', 0.029190252]
+[u'binder', 0.13122164, u'folding_chair', 0.096945703, u'rocking_chair', 0.068007946, u'envelope', 0.057012882, u'wallet', 0.043947935]
+[u'wardrobe', 0.1771917, u'quill', 0.14585543, u'theater_curtain', 0.055607159, u'ballpoint', 0.045000236, u'hair_slide', 0.043174814]
+[u'nail', 0.070777796, u'hook', 0.049172956, u'screw', 0.048266586, u'web_site', 0.045030698, u'parallel_bars', 0.040107336]
+[u'library', 0.15174048, u'church', 0.14239834, u'palace', 0.099788286, u'bell_cote', 0.07733994, u'picket_fence', 0.057987344]
+[u'carton', 0.51620424, u'packet', 0.19402035, u'envelope', 0.077065863, u'matchstick', 0.019054374, u'quill', 0.017984886]
+[u'prison', 0.31432959, u'triumphal_arch', 0.19486444, u'bookshop', 0.078889064, u'library', 0.072785109, u'vault', 0.041023586]
+[u'church', 0.33439934, u'monastery', 0.27972263, u'picket_fence', 0.10898225, u'boathouse', 0.063624211, u'palace', 0.032927696]

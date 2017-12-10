@@ -1,0 +1,4 @@
+[u'web_site', 0.11070013, u'neck_brace', 0.06152292, u'brassiere', 0.060851693, u'diaper', 0.059405569, u'lab_coat', 0.03837508]
+[u'web_site', 0.16621894, u'jean', 0.12909478, u'lab_coat', 0.097762324, u'pajama', 0.061224531, u'gown', 0.060128558]
+[u'street_sign', 0.46480915, u'scoreboard', 0.063253082, u'traffic_light', 0.052410901, u'digital_clock', 0.044724863, u'cinema', 0.020852707]
+[u'sandbar', 0.34714177, u'seashore', 0.28007472, u'wreck', 0.15614738, u'stingray', 0.037655678, u'coral_reef', 0.03645556]

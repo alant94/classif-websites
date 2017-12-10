@@ -1,0 +1,7 @@
+[u'screwdriver', 0.68930972, u'rule', 0.061208893, u'toaster', 0.030239113, u"carpenter's_kit", 0.029219558, u'ballpoint', 0.0264461]
+[u'screwdriver', 0.55700928, u"carpenter's_kit", 0.26536641, u'ballpoint', 0.027783215, u'pencil_box', 0.015286592, u'fountain_pen', 0.011711071]
+[u'screwdriver', 0.64930654, u"carpenter's_kit", 0.053834461, u'toaster', 0.046652753, u'chime', 0.039993517, u'syringe', 0.023409735]
+[u'screwdriver', 0.62485397, u"carpenter's_kit", 0.14427298, u'ballpoint', 0.031725012, u'rule', 0.025285453, u'oscilloscope', 0.013724813]
+[u'book_jacket', 0.51666874, u'comic_book', 0.18388163, u'fire_screen', 0.05108656, u'binder', 0.037045594, u'jigsaw_puzzle', 0.015686113]
+[u'screwdriver', 0.48553497, u"carpenter's_kit", 0.09484864, u'oscilloscope', 0.09150292, u'digital_watch', 0.039029401, u'digital_clock', 0.028494187]
+[u'screwdriver', 0.50838423, u"carpenter's_kit", 0.10089906, u'toaster', 0.067773379, u'oscilloscope', 0.052549567, u'rule', 0.031605169]

@@ -1,0 +1,5 @@
+[u'cliff', 0.6014142, u'breakwater', 0.10606858, u'swimming_trunks', 0.060845733]
+[u'sock', 0.053925149, u'pillow', 0.052537154, u'cardigan', 0.051048126]
+[u'sock', 0.054631375, u'sombrero', 0.048187517, u'cardigan', 0.046455912]
+[u'matchstick', 0.49205166, u'tile_roof', 0.37540996, u'ear', 0.063780054]
+[u'shower_curtain', 0.17409039, u'lab_coat', 0.10243132, u'toilet_tissue', 0.07515578]

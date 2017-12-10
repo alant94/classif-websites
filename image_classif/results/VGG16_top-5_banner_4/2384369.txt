@@ -1,0 +1,1 @@
+[u'book_jacket', 0.6210919, u'menu', 0.051890038, u'brass', 0.048003484, u'web_site', 0.036337014, u'television', 0.034740943]

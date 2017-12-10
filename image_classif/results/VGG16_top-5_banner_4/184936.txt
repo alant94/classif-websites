@@ -1,0 +1,1 @@
+[u'table_lamp', 0.24911125, u'lampshade', 0.23178394, u'spotlight', 0.038224712, u'pedestal', 0.038184438, u'bannister', 0.024689028]

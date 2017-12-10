@@ -1,0 +1,6 @@
+[u'coral_fungus', 0.28719696, u'stinkhorn', 0.23930754, u'bolete', 0.20378079, u'mushroom', 0.087805152, u'earthstar', 0.074415088]
+[u'acorn', 0.45248127, u'honeycomb', 0.33674264, u'pineapple', 0.058704238, u'custard_apple', 0.058614731, u'buckeye', 0.04714819]
+[u'paintbrush', 0.38720825, u'cocktail_shaker', 0.081266277, u'wooden_spoon', 0.081215911, u'saltshaker', 0.074918844, u'eggnog', 0.043968618]
+[u'fur_coat', 0.22299564, u'Sussex_spaniel', 0.10762113, u'acorn', 0.082441375, u'hen-of-the-woods', 0.079984486, u'knot', 0.048627313]
+[u'hourglass', 0.18806322, u'perfume', 0.18279606, u'oxygen_mask', 0.079432711, u'table_lamp', 0.076899737, u'hamper', 0.027370134]
+[u'buckeye', 0.34623432, u'pot', 0.29379791, u'hip', 0.12201316, u'orange', 0.087317124, u'pomegranate', 0.071907148]

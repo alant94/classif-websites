@@ -1,0 +1,2 @@
+[u'envelope', 0.2122063, u'web_site', 0.038751315, u'Band_Aid', 0.038316038, u'balance_beam', 0.034337938, u'hook', 0.031356946]
+[u'web_site', 0.062761955, u'book_jacket', 0.023789614, u'hair_spray', 0.019528966, u'jersey', 0.018305913, u'hand_blower', 0.016511112]

@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.40058777, u'book_jacket', 0.080706351, u'brassiere', 0.052779265]
+[u'volcano', 0.32332465, u'missile', 0.2165253, u'valley', 0.090800263]

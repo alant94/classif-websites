@@ -1,0 +1,3 @@
+[u'tub', 0.28834665, u'maillot', 0.27828312, u'bathtub', 0.12159377, u'bikini', 0.092312239, u'maillot', 0.06776315]
+[u'tub', 0.42359778, u'bathtub', 0.38038075, u'studio_couch', 0.024806565, u'cradle', 0.019234493, u'miniskirt', 0.014182233]
+[u'fountain', 0.99355894, u'chain_saw', 0.00047045053, u'tub', 0.00041946198, u'umbrella', 0.00040428343, u'gown', 0.00039586073]

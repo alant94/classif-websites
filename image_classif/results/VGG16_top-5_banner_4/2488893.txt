@@ -1,0 +1,3 @@
+[u'book_jacket', 0.20316531, u'menu', 0.1108269, u'isopod', 0.098574676, u'tray', 0.076005675, u'centipede', 0.071397148]
+[u'space_shuttle', 0.15757979, u'lumbermill', 0.11557197, u'steam_locomotive', 0.095656447, u'fountain', 0.058611512, u'carousel', 0.02666563]
+[u'conch', 0.52374703, u'mask', 0.13926373, u'dough', 0.12760207, u'custard_apple', 0.043045025, u'piggy_bank', 0.032026991]

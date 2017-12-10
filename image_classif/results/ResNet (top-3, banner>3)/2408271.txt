@@ -1,0 +1,7 @@
+[u'buckle', 0.097812496, u'puck', 0.070064791, u'oil_filter', 0.062791832]
+[u'face_powder', 0.35751945, u'loupe', 0.11374841, u'pencil_sharpener', 0.062285248]
+[u'envelope', 0.19916075, u'digital_clock', 0.09872923, u'web_site', 0.060993712]
+[u'vacuum', 0.17996013, u'radio', 0.16710518, u'plunger', 0.095328324]
+[u'oil_filter', 0.30050626, u'face_powder', 0.22305803, u'loupe', 0.15220118]
+[u'digital_clock', 0.80648464, u'traffic_light', 0.032888021, u'jersey', 0.012568749]
+[u'iron', 0.42860246, u'can_opener', 0.36196804, u'corkscrew', 0.05595905]

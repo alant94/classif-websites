@@ -1,0 +1,2 @@
+[u'combination_lock', 0.14845625, u'lighter', 0.097619057, u'street_sign', 0.07628198, u'modem', 0.030308604, u'switch', 0.029004641]
+[u'web_site', 0.052237637, u'power_drill', 0.03558474, u'envelope', 0.022575978, u'oil_filter', 0.021185579, u'nail', 0.017583251]

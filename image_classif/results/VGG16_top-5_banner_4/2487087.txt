@@ -1,0 +1,4 @@
+[u'thimble', 0.1531931, u'eel', 0.097540244, u'mortar', 0.050239354, u'Indian_cobra', 0.040195599, u'horned_viper', 0.033083871]
+[u'drilling_platform', 0.32168007, u'altar', 0.29515392, u'fireboat', 0.113483, u'stupa', 0.031771567, u'birdhouse', 0.022081787]
+[u'pedestal', 0.18801284, u'table_lamp', 0.071354717, u'vase', 0.040433895, u'kite', 0.034787271, u'frilled_lizard', 0.027880462]
+[u'tree_frog', 0.2386746, u'American_chameleon', 0.11720809, u'bullfrog', 0.094967671, u'green_lizard', 0.06253054, u'tailed_frog', 0.037351441]

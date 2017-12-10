@@ -1,0 +1,2 @@
+[u'diaper', 0.15916021, u'pajama', 0.14329563, u'bath_towel', 0.046198115, u'hand_blower', 0.044362962, u'shower_cap', 0.040836018]
+[u'picket_fence', 0.36403933, u'torch', 0.15350127, u'punching_bag', 0.041783091, u'spatula', 0.036941029, u'worm_fence', 0.034944043]

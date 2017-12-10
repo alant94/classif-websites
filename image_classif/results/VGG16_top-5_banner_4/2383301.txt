@@ -1,0 +1,1 @@
+[u'corkscrew', 0.85637188, u'lipstick', 0.035373293, u'whistle', 0.029557638, u'rubber_eraser', 0.017913496, u'screw', 0.007030651]

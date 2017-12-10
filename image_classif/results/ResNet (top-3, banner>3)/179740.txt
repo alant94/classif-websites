@@ -1,0 +1,4 @@
+[u'web_site', 0.96983731, u'rifle', 0.0039714319, u'menu', 0.0023498249]
+[u'web_site', 0.59924006, u'book_jacket', 0.19926523, u'envelope', 0.039258685]
+[u'lakeside', 0.59754831, u'boathouse', 0.15341321, u'valley', 0.12023053]
+[u'web_site', 0.66684562, u'fountain', 0.13755941, u'mountain_bike', 0.037857223]

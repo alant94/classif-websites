@@ -1,0 +1,5 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'envelope', 0.060655326, u'web_site', 0.049890596, u'Windsor_tie', 0.028251054, u'Band_Aid', 0.016359877, u'wall_clock', 0.013121888]
+[u'pill_bottle', 0.52027577, u'face_powder', 0.26418191, u'oil_filter', 0.13332728, u'sunscreen', 0.062307436, u'pencil_sharpener', 0.0040526651]
+[u'envelope', 0.08763095, u'web_site', 0.072554097, u'Band_Aid', 0.041364174, u'crane', 0.015837528, u'wardrobe', 0.012086976]
+[u'book_jacket', 0.70423514, u'web_site', 0.078513481, u'panpipe', 0.026010981, u'comic_book', 0.02247517, u'binoculars', 0.015914112]

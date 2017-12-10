@@ -1,0 +1,4 @@
+[u'paper_towel', 0.53861088, u'toilet_tissue', 0.172737, u'book_jacket', 0.027124463, u'plastic_bag', 0.020104308, u'brassiere', 0.01653349]
+[u'barrel', 0.95139611, u'vault', 0.023243023, u'prison', 0.0079897819, u'church', 0.0030729882, u'lumbermill', 0.002636814]
+[u'moving_van', 0.071740709, u'street_sign', 0.062710881, u'carton', 0.055898689, u'book_jacket', 0.051371478, u'menu', 0.050158702]
+[u'lakeside', 0.19427244, u'book_jacket', 0.15145096, u'web_site', 0.034951568, u'water_bottle', 0.030273255, u'menu', 0.030041464]

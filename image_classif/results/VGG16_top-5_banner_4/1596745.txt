@@ -1,0 +1,3 @@
+[u'envelope', 0.23302989, u'window_screen', 0.13612334, u'fire_screen', 0.056636281, u'window_shade', 0.04039285, u'binder', 0.038834628]
+[u'pinwheel', 0.1682981, u'bonnet', 0.056283195, u'maillot', 0.046836667, u'candle', 0.041311443, u'umbrella', 0.033895303]
+[u'bikini', 0.24459094, u'wig', 0.12043063, u'maillot', 0.099097461, u'brassiere', 0.081057198, u'maillot', 0.069070488]

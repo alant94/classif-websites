@@ -1,0 +1,4 @@
+[u'web_site', 0.4312596, u'sunscreen', 0.048217967, u'envelope', 0.046386842]
+[u'jigsaw_puzzle', 0.98613769, u'binder', 0.011949644, u'prayer_rug', 0.0012036378]
+[u'web_site', 0.12250298, u'comic_book', 0.090142325, u'book_jacket', 0.047778241]
+[u'web_site', 0.42232752, u'analog_clock', 0.047398701, u'gas_pump', 0.035328101]

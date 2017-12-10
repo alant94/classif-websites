@@ -1,0 +1,8 @@
+[u'plow', 0.67937762, u'harvester', 0.14390691, u'tractor', 0.11414412, u'thresher', 0.01237822, u'chain_saw', 0.0051309261]
+[u'ambulance', 0.40431368, u'police_van', 0.16909024, u'minibus', 0.11268576, u'moving_van', 0.062456805, u'trailer_truck', 0.040501393]
+[u'digital_clock', 0.22008526, u'scoreboard', 0.19468483, u'cash_machine', 0.18066604, u'street_sign', 0.045370925, u'gas_pump', 0.033557713]
+[u'fountain', 0.18275824, u'breakwater', 0.11861508, u'seashore', 0.11337084, u'beacon', 0.095933191, u'promontory', 0.03666256]
+[u'poncho', 0.14833912, u'minivan', 0.11772567, u'golfcart', 0.11745921, u'minibus', 0.072899468, u'recreational_vehicle', 0.040317271]
+[u'mobile_home', 0.25893807, u'moving_van', 0.18833834, u'freight_car', 0.049874648, u'barn', 0.043624289, u'gas_pump', 0.036739431]
+[u'web_site', 0.31773317, u'remote_control', 0.16521345, u'envelope', 0.063863344, u'hand_blower', 0.038838368, u'washer', 0.033505522]
+[u'stupa', 0.69648737, u'pencil_sharpener', 0.033610862, u'conch', 0.026033999, u'panpipe', 0.02028079, u'hair_slide', 0.015352144]

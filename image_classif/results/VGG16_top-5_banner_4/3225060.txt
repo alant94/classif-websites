@@ -1,0 +1,2 @@
+[u'fountain', 0.24485986, u'web_site', 0.24137768, u'stage', 0.13425559, u'monitor', 0.050086617, u'television', 0.030577447]
+[u'crossword_puzzle', 0.19511795, u'wool', 0.077833854, u'paper_towel', 0.069130071, u'Indian_elephant', 0.043216456, u'chainlink_fence', 0.040855166]

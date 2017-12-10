@@ -1,0 +1,8 @@
+[u'picket_fence', 0.1705492, u'unicycle', 0.13457666, u'alp', 0.099360049]
+[u'paddle', 0.17609045, u'fountain', 0.13672099, u'swimming_trunks', 0.12706782]
+[u'fire_engine', 0.12258674, u'church', 0.10529319, u'fountain', 0.10278603]
+[u'parachute', 0.087345779, u'ski', 0.072154999, u'sleeping_bag', 0.049551316]
+[u'butcher_shop', 0.28416374, u'wardrobe', 0.15745136, u'shoe_shop', 0.077696934]
+[u'church', 0.57084852, u'picket_fence', 0.069009237, u'beacon', 0.033103779]
+[u'picket_fence', 0.10720449, u'fountain', 0.097499624, u'jean', 0.055641335]
+[u'envelope', 0.14668167, u'church', 0.14090426, u'vault', 0.077118434]

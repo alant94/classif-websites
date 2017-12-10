@@ -1,0 +1,1 @@
+[u'flagpole', 0.63125134, u'street_sign', 0.07629402, u'pole', 0.028373413, u'mobile_home', 0.023121536, u'pinwheel', 0.021844534]

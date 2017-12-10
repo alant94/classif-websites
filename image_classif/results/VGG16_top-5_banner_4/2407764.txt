@@ -1,0 +1,3 @@
+[u'crate', 0.97484982, u'chest', 0.011119721, u'carton', 0.0029139172, u'plane', 0.0026699803, u'cradle', 0.002654369]
+[u'candle', 0.11409024, u'shoe_shop', 0.083762497, u'wall_clock', 0.042479444, u'shower_curtain', 0.033579707, u'theater_curtain', 0.03231236]
+[u'lipstick', 0.38505372, u'whistle', 0.14443426, u'lighter', 0.12086386, u'revolver', 0.06654118, u'rubber_eraser', 0.030856175]

@@ -1,0 +1,7 @@
+[u'wine_bottle', 0.92964518, u'red_wine', 0.04219044, u'beer_bottle', 0.025480961]
+[u'can_opener', 0.12622988, u'oxygen_mask', 0.082482979, u'whistle', 0.072801039]
+[u'web_site', 0.1860624, u'envelope', 0.13937616, u'laptop', 0.092741705]
+[u'hair_spray', 0.13280137, u'red_wine', 0.1216616, u'lotion', 0.094065934]
+[u'beer_bottle', 0.62114292, u'wine_bottle', 0.26140407, u'red_wine', 0.093526065]
+[u'web_site', 0.13794978, u'jersey', 0.075191528, u'binder', 0.026465764]
+[u'projectile', 0.54113972, u'missile', 0.24577904, u'wine_bottle', 0.17675975]

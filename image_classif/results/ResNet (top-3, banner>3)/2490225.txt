@@ -1,0 +1,1 @@
+[u'gazelle', 0.629143, u'impala', 0.35837847, u'hartebeest', 0.011457758]

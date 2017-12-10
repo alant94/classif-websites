@@ -1,0 +1,3 @@
+[u'matchstick', 0.040871065, u'lycaenid', 0.036371019, u'chain', 0.031607043, u'ladybug', 0.030770471, u'ant', 0.024071688]
+[u'wine_bottle', 0.74750775, u'red_wine', 0.2001693, u'hamper', 0.010019218, u'corkscrew', 0.0093465652, u'lotion', 0.0080439067]
+[u'worm_fence', 0.25093919, u'chainlink_fence', 0.16719821, u'stone_wall', 0.14473745, u'barn', 0.029691784, u'suspension_bridge', 0.029256333]

@@ -1,0 +1,4 @@
+[u'web_site', 0.4314619, u'Band_Aid', 0.079926416, u'maraca', 0.060276672, u'jellyfish', 0.051948559, u'airship', 0.037166897]
+[u'scoreboard', 0.83747327, u'slot', 0.054247748, u'cinema', 0.026424931, u'tobacco_shop', 0.012823945, u'vending_machine', 0.0089521632]
+[u'chime', 0.1654373, u'rubber_eraser', 0.07359454, u'matchstick', 0.056500502, u'croquet_ball', 0.046511583, u'ballpoint', 0.046372689]
+[u'kimono', 0.20163128, u'comic_book', 0.19348592, u'carton', 0.11026273, u'bookshop', 0.065369882, u'toyshop', 0.054507069]

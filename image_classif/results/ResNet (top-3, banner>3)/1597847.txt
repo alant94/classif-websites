@@ -1,0 +1,5 @@
+[u'wig', 0.21914817, u'bikini', 0.2079687, u'swimming_trunks', 0.13340151]
+[u'geyser', 0.12259033, u'Blenheim_spaniel', 0.054989606, u'Old_English_sheepdog', 0.052974679]
+[u'brassiere', 0.88690019, u'bikini', 0.013917919, u'maillot', 0.0096561192]
+[u'swimming_trunks', 0.760804, u'bikini', 0.15574424, u'bathing_cap', 0.040793002]
+[u'analog_clock', 0.87784261, u'wall_clock', 0.026091401, u'tripod', 0.019405836]

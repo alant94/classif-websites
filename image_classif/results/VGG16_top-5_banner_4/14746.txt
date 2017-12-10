@@ -1,0 +1,4 @@
+[u'screwdriver', 0.42404681, u'chime', 0.16108283, u'nail', 0.05072502, u'ballpoint', 0.040039908, u"carpenter's_kit", 0.036935315]
+[u'organ', 0.50892949, u'paintbrush', 0.11391448, u'screwdriver', 0.070418544, u"carpenter's_kit", 0.065016232, u'bow', 0.037422877]
+[u'traffic_light', 0.93470562, u'spotlight', 0.011583137, u'digital_clock', 0.010517689, u'projector', 0.0083327554, u'Polaroid_camera', 0.0061977184]
+[u'digital_watch', 0.21791244, u'spotlight', 0.1070622, u'analog_clock', 0.082910828, u'loupe', 0.075356625, u'wall_clock', 0.042110447]

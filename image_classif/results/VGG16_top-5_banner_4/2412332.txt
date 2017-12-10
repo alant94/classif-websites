@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.34245569, u'hoopskirt', 0.054667849, u'pickelhaube', 0.043284569, u'nipple', 0.024450209, u'cloak', 0.022141755]
+[u'shield', 0.62672454, u'gong', 0.1182645, u'sundial', 0.027555218, u'brass', 0.026973588, u'chime', 0.022778966]

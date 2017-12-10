@@ -1,0 +1,6 @@
+[u'castle', 0.59885192, u'stupa', 0.10058552, u'lakeside', 0.072710112]
+[u'lakeside', 0.85126865, u'promontory', 0.082460232, u'valley', 0.013701508]
+[u'picket_fence', 0.40133986, u'barn', 0.30294317, u'church', 0.18393841]
+[u'Cardigan', 0.18020898, u'EntleBucher', 0.11948574, u'seashore', 0.094322629]
+[u'analog_clock', 0.44104919, u'street_sign', 0.18860391, u'shield', 0.035248552]
+[u'dragonfly', 0.36427838, u'window_screen', 0.079938389, u'wolf_spider', 0.054702651]

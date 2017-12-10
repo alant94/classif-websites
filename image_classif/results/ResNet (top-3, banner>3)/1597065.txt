@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.10111653, u'stretcher', 0.091133587, u'grocery_store', 0.052037176]
+[u'diaper', 0.057202511, u'theater_curtain', 0.056226879, u'candle', 0.055723436]

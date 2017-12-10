@@ -1,0 +1,3 @@
+[u'envelope', 0.074744433, u'web_site', 0.039371137, u'binder', 0.022000059, u'sunscreen', 0.019049207, u'nail', 0.018470954]
+[u'sunscreen', 0.14681531, u'face_powder', 0.12445091, u'Band_Aid', 0.10267323, u'maraca', 0.062277429, u'hatchet', 0.05781569]
+[u'book_jacket', 0.09022598, u'screwdriver', 0.086967349, u"carpenter's_kit", 0.078127317, u'comic_book', 0.052281279, u'nail', 0.052194666]

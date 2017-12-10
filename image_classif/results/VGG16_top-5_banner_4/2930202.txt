@@ -1,0 +1,4 @@
+[u'computer_keyboard', 0.8562752, u'space_bar', 0.042369802, u'typewriter_keyboard', 0.030110003, u'crossword_puzzle', 0.025899941, u'mouse', 0.016651982]
+[u'mountain_tent', 0.91128433, u'sulphur_butterfly', 0.043907903, u'quill', 0.0073163505, u'umbrella', 0.0066762413, u'parachute', 0.0046480638]
+[u'centipede', 0.092859499, u'tray', 0.059407469, u'washbasin', 0.053841427, u'American_alligator', 0.045005314, u'scorpion', 0.042310603]
+[u'shower_curtain', 0.49778327, u'lab_coat', 0.079604238, u'mosquito_net', 0.050758351, u'fountain', 0.024705285, u'suit', 0.024241228]

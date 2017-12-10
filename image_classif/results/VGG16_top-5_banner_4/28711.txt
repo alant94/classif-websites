@@ -1,0 +1,2 @@
+[u'ballpoint', 0.33279848, u'rubber_eraser', 0.18699753, u'pencil_box', 0.14258605, u'screwdriver', 0.086088404, u'rule', 0.032556094]
+[u'whistle', 0.23647881, u'digital_clock', 0.12964433, u'magnetic_compass', 0.10525566, u'tennis_ball', 0.056206468, u'combination_lock', 0.05084436]

@@ -1,0 +1,2 @@
+[u'web_site', 0.99676514, u'screen', 0.00062695355, u'menu', 0.00059907744, u'book_jacket', 0.00057322846, u'comic_book', 0.00037441892]
+[u'pomegranate', 0.57599008, u'butcher_shop', 0.068360113, u'macaw', 0.049138006, u'cock', 0.036093675, u'scale', 0.027824307]

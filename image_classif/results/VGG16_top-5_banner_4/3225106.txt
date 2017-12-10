@@ -1,0 +1,2 @@
+[u'face_powder', 0.23951395, u'puck', 0.10807271, u'wall_clock', 0.087551378, u'pick', 0.065253399, u'magnetic_compass', 0.06252598]
+[u'altar', 0.48042783, u'church', 0.36637104, u'organ', 0.088507116, u'vault', 0.050058242, u'monastery', 0.0070706252]

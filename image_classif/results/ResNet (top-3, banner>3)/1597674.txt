@@ -1,0 +1,2 @@
+[u'oxygen_mask', 0.28585637, u'oscilloscope', 0.14534749, u'knot', 0.12493631]
+[u'pick', 0.91687924, u'drum', 0.027497839, u'shield', 0.021318892]

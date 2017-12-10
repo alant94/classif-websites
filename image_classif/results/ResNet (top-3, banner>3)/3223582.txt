@@ -1,0 +1,6 @@
+[u'web_site', 0.84993452, u'orange', 0.016827034, u'pick', 0.012983005]
+[u'church', 0.83141202, u'bell_cote', 0.12028117, u'monastery', 0.023751901]
+[u'web_site', 0.13184257, u'crossword_puzzle', 0.11884143, u'digital_watch', 0.060593668]
+[u'church', 0.98718959, u'bell_cote', 0.0058056633, u'monastery', 0.0022422585]
+[u'web_site', 0.068911672, u'binder', 0.062030442, u'combination_lock', 0.057834722]
+[u'loudspeaker', 0.15968986, u'ladle', 0.10168856, u'strainer', 0.067648612]

@@ -1,0 +1,3 @@
+[u'table_lamp', 0.58800709, u'lampshade', 0.36841491, u'chime', 0.0055420776, u'velvet', 0.0051503484, u'hatchet', 0.0049064606]
+[u'saltshaker', 0.10994013, u'lampshade', 0.10821328, u'table_lamp', 0.087796979, u'oil_filter', 0.086439528, u'candle', 0.081166267]
+[u'table_lamp', 0.65411204, u'lampshade', 0.34144303, u'hoopskirt', 0.00073326228, u'vase', 0.00046199677, u'saltshaker', 0.00030574997]

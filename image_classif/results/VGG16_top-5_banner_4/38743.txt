@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.066220291, u'suit', 0.063792422, u'hoopskirt', 0.049220078, u'overskirt', 0.045678996, u'brassiere', 0.038574193]

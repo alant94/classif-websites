@@ -1,0 +1,2 @@
+[u'chocolate_sauce', 0.43562114, u'plate', 0.20185001, u'ice_cream', 0.089100033, u'consomme', 0.056805223, u'restaurant', 0.036678728]
+[u'bubble', 0.31649777, u'pinwheel', 0.066537194, u'hourglass', 0.064708889, u'sunglasses', 0.059495684, u'goblet', 0.039840698]

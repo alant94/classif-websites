@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.72724712, u'prayer_rug', 0.21017529, u'book_jacket', 0.0060558943, u'comic_book', 0.0038044075, u'doormat', 0.00269558]
+[u'wall_clock', 0.12007362, u'safe', 0.057646822, u'dumbbell', 0.053014971, u'lab_coat', 0.052332159, u'jersey', 0.051840894]

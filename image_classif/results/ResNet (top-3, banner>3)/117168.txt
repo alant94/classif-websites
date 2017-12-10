@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.81192988, u'container_ship', 0.16299744, u'library', 0.0044690757]
+[u'container_ship', 0.71278489, u'window_screen', 0.039253451, u'book_jacket', 0.026610032]
+[u'container_ship', 0.97011232, u'jigsaw_puzzle', 0.0062826173, u'seashore', 0.001786644]
+[u'container_ship', 0.99953675, u'monitor', 0.0001065562, u'scoreboard', 4.3548247e-05]
+[u'container_ship', 0.26009187, u'jigsaw_puzzle', 0.22923036, u'tray', 0.12658621]

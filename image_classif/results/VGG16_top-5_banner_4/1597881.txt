@@ -1,0 +1,1 @@
+[u'candle', 0.13123889, u'nail', 0.13112342, u'hook', 0.1194459, u'coral_fungus', 0.077744864, u'matchstick', 0.065212384]

@@ -1,0 +1,5 @@
+[u'web_site', 0.04764159, u'envelope', 0.026407721, u'abaya', 0.019395836, u'lighter', 0.018793445, u'nematode', 0.017627684]
+[u'harvester', 0.96723658, u'thresher', 0.027502943, u'plow', 0.0041035712, u'tractor', 0.001011834, u'steam_locomotive', 3.054335e-05]
+[u'web_site', 0.46202821, u'nail', 0.013391208, u'sunglass', 0.012164361, u'stopwatch', 0.011836112, u'hand_blower', 0.0084906835]
+[u'Band_Aid', 0.13040181, u'ballpoint', 0.10480208, u'maraca', 0.1002277, u'hand_blower', 0.05132262, u'spatula', 0.048444375]
+[u'street_sign', 0.66656387, u'scoreboard', 0.14906634, u'web_site', 0.030812107, u'traffic_light', 0.021622695, u'pole', 0.0063147163]

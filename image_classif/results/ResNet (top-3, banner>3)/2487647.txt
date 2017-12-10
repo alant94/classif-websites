@@ -1,0 +1,7 @@
+[u'hippopotamus', 0.23660962, u'platypus', 0.14521414, u'goose', 0.11810061]
+[u'digital_clock', 0.55349499, u'oscilloscope', 0.034983557, u'book_jacket', 0.02585003]
+[u'lakeside', 0.71099025, u'balloon', 0.053429432, u'seashore', 0.045696389]
+[u'bighorn', 0.92624056, u'ram', 0.073066048, u'tusker', 9.4008486e-05]
+[u'lynx', 0.93377727, u'tiger', 0.027385652, u'lion', 0.019097073]
+[u'lakeside', 0.24697317, u'balloon', 0.13688801, u'canoe', 0.079185732]
+[u'gazelle', 0.73729908, u'impala', 0.20633572, u'hartebeest', 0.039581753]

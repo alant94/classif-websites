@@ -1,0 +1,4 @@
+[u'cleaver', 0.01770303, u'envelope', 0.015577207, u'can_opener', 0.011520139, u'corkscrew', 0.010666923, u'face_powder', 0.01036308]
+[u'web_site', 0.17347872, u'street_sign', 0.048683058, u'digital_clock', 0.040797587, u'lab_coat', 0.023616021, u'tennis_ball', 0.018754087]
+[u'rubber_eraser', 0.51282907, u'pencil_sharpener', 0.1654046, u'rocking_chair', 0.037131358, u'Band_Aid', 0.030874651, u'hair_slide', 0.02746496]
+[u'swab', 0.36763704, u'shovel', 0.32337841, u'broom', 0.043863159, u'crutch', 0.026886167, u'hammer', 0.02034924]

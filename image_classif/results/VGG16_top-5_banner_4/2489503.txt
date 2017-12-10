@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.27020583, u'wool', 0.033321779, u'jigsaw_puzzle', 0.02565773, u'stole', 0.025154097, u'prayer_rug', 0.019970944]
+[u'shower_cap', 0.32692051, u'lampshade', 0.15521668, u'bib', 0.085573316, u'vase', 0.050915748, u'bonnet', 0.040370431]
+[u'digital_clock', 0.34537116, u'crossword_puzzle', 0.15753767, u'digital_watch', 0.044708736, u'scoreboard', 0.042628188, u'maze', 0.022593567]
+[u'lipstick', 0.078765683, u'bookcase', 0.056184508, u'screwdriver', 0.045358431, u'rubber_eraser', 0.043408118, u'safe', 0.040344585]

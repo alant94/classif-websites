@@ -1,0 +1,8 @@
+[u'punching_bag', 0.085183293, u'knee_pad', 0.074111819, u'miniskirt', 0.072183415]
+[u'window_shade', 0.24648413, u'punching_bag', 0.086358868, u'shoji', 0.063123129]
+[u'miniskirt', 0.48296636, u'swimming_trunks', 0.095281191, u'bikini', 0.058512349]
+[u'comic_book', 0.92981201, u'slot', 0.040828202, u'brassiere', 0.0059080916]
+[u'lumbermill', 0.14519113, u'turnstile', 0.11967513, u'steel_arch_bridge', 0.10278568]
+[u'swimming_trunks', 0.5711903, u'bathing_cap', 0.12322053, u'bikini', 0.094414309]
+[u'hammer', 0.37678197, u'barbell', 0.097772643, u'bow', 0.085668772]
+[u'maillot', 0.33312652, u'maillot', 0.25098437, u'studio_couch', 0.090993419]

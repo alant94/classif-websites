@@ -1,0 +1,4 @@
+[u'American_black_bear', 0.99174809, u'sloth_bear', 0.0061557256, u'brown_bear', 0.0016497463, u'wild_boar', 0.0001235283, u'wombat', 0.00010954286]
+[u'lakeside', 0.7668891, u'boathouse', 0.16488214, u'palace', 0.014930042, u'fountain', 0.0084428703, u'castle', 0.0041067172]
+[u'vulture', 0.83206612, u'kite', 0.020094132, u'great_grey_owl', 0.019834647, u'bald_eagle', 0.015965335, u'black_grouse', 0.015527572]
+[u'tray', 0.20173411, u'book_jacket', 0.18630952, u'jigsaw_puzzle', 0.16654092, u'theater_curtain', 0.082405135, u'wall_clock', 0.075265512]

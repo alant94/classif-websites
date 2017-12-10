@@ -1,0 +1,4 @@
+[u'hair_spray', 0.34511319, u'wig', 0.30719808, u'lipstick', 0.048717633]
+[u'web_site', 0.084138215, u'wig', 0.07417842, u'pajama', 0.050475009]
+[u'Band_Aid', 0.92310929, u'book_jacket', 0.010404459, u'sunscreen', 0.0089513408]
+[u'dishwasher', 0.12700343, u'envelope', 0.066213138, u'fire_screen', 0.053296659]

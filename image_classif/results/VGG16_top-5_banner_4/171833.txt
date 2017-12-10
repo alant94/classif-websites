@@ -1,0 +1,4 @@
+[u'envelope', 0.31709126, u'Band_Aid', 0.11254535, u'web_site', 0.083056159, u'lipstick', 0.034534547, u'wardrobe', 0.029595798]
+[u'web_site', 0.15364154, u'hook', 0.14317149, u'comic_book', 0.095445253, u'safety_pin', 0.077185266, u'nail', 0.04631374]
+[u'military_uniform', 0.42135742, u'bow_tie', 0.2023242, u'fur_coat', 0.077896096, u'bearskin', 0.062796712, u'trench_coat', 0.055510946]
+[u'guillotine', 0.30883768, u'gas_pump', 0.075334534, u'pay-phone', 0.075233944, u'hourglass', 0.068019815, u'cash_machine', 0.031085618]

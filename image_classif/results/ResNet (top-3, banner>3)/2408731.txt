@@ -1,0 +1,5 @@
+[u'swimming_trunks', 0.16273339, u'maillot', 0.084534422, u'maillot', 0.072850712]
+[u'abaya', 0.15267433, u'maillot', 0.10202983, u'tub', 0.094867565]
+[u'chain_mail', 0.27739802, u'bonnet', 0.11804783, u'sweatshirt', 0.068806246]
+[u'maillot', 0.7437247, u'maillot', 0.24135791, u'balance_beam', 0.0022528525]
+[u'swimming_trunks', 0.18942629, u'sweatshirt', 0.15573506, u'knee_pad', 0.099872343]

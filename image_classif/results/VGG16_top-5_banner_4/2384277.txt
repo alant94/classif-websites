@@ -1,0 +1,2 @@
+[u'book_jacket', 0.33286846, u'scoreboard', 0.089291923, u'street_sign', 0.057051506, u'cinema', 0.026981508, u'menu', 0.02382376]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

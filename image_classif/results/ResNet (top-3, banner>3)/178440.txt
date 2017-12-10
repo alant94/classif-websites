@@ -1,0 +1,4 @@
+[u'umbrella', 0.28415763, u'stage', 0.24443133, u'mosque', 0.050366893]
+[u'stage', 0.32656768, u'theater_curtain', 0.072120033, u'groom', 0.069352195]
+[u'electric_guitar', 0.61650515, u'acoustic_guitar', 0.25042492, u'banjo', 0.030775819]
+[u'cash_machine', 0.14775893, u'medicine_chest', 0.13922189, u'binder', 0.067118771]

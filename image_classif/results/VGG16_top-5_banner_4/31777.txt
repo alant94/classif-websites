@@ -1,0 +1,1 @@
+[u'printer', 0.25597268, u'photocopier', 0.23385572, u'desktop_computer', 0.073672265, u'file', 0.064332098, u'hard_disc', 0.05614775]

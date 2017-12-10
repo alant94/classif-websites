@@ -1,0 +1,3 @@
+[u'gorilla', 0.16761385, u'stage', 0.10746259, u'basketball', 0.085720129]
+[u'maillot', 0.20623118, u'bikini', 0.18855801, u'swimming_trunks', 0.1441043]
+[u'shoji', 0.56712967, u'muzzle', 0.033462692, u'Italian_greyhound', 0.028034659]

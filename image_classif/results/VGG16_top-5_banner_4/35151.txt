@@ -1,0 +1,6 @@
+[u'quill', 0.19394787, u'swab', 0.17984623, u'whistle', 0.062257845, u'screwdriver', 0.035426103, u'hair_slide', 0.02430621]
+[u'organ', 0.51774687, u'theater_curtain', 0.13163452, u'candle', 0.063734166, u'altar', 0.033615828, u'grand_piano', 0.032345138]
+[u'book_jacket', 0.92035228, u'comic_book', 0.066574477, u'jigsaw_puzzle', 0.0097617423, u'web_site', 0.0016781397, u'rifle', 0.00051546079]
+[u'web_site', 0.74796468, u'menu', 0.052788291, u'book_jacket', 0.049592424, u'comic_book', 0.026479868, u'packet', 0.010680332]
+[u'scoreboard', 0.26415968, u'binder', 0.10649723, u'moving_van', 0.079819694, u'screen', 0.062837735, u'cash_machine', 0.037545498]
+[u'plate_rack', 0.17630602, u"carpenter's_kit", 0.087627009, u'ballpoint', 0.069027223, u'rubber_eraser', 0.052265078, u'modem', 0.047707725]

@@ -1,0 +1,2 @@
+[u'mountain_tent', 0.3519797, u'volcano', 0.11468048, u'sleeping_bag', 0.050528441, u'Gordon_setter', 0.048292208, u'schipperke', 0.039183483]
+[u'warthog', 0.48600614, u'ibex', 0.092528217, u'hartebeest', 0.091737092, u'wild_boar', 0.067177124, u'Irish_wolfhound', 0.033609279]

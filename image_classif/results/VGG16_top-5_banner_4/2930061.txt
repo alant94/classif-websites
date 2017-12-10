@@ -1,0 +1,2 @@
+[u'crib', 0.077674359, u'pajama', 0.05595405, u'rocking_chair', 0.045709107, u'cradle', 0.040470097, u'miniskirt', 0.027477063]
+[u'tub', 0.066924788, u'bow_tie', 0.06475018, u'pajama', 0.051457331, u'military_uniform', 0.047419574, u'swimming_trunks', 0.046645369]

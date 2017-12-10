@@ -1,0 +1,7 @@
+[u'book_jacket', 0.27417716, u'sombrero', 0.14889094, u'puck', 0.14068359, u'jersey', 0.10020117, u'comic_book', 0.053044517]
+[u'solar_dish', 0.49093476, u'boathouse', 0.12449016, u'patio', 0.11744056, u'tile_roof', 0.10284145, u'lumbermill', 0.026999326]
+[u'shield', 0.5184986, u'wall_clock', 0.17118894, u'puck', 0.089694314, u'analog_clock', 0.058962703, u'tray', 0.053097695]
+[u'boathouse', 0.60511911, u'lakeside', 0.1846766, u'mobile_home', 0.018847048, u'scoreboard', 0.018077038, u'freight_car', 0.012499527]
+[u'boathouse', 0.4414095, u'alp', 0.14259619, u'lumbermill', 0.10734652, u'barn', 0.098043345, u'church', 0.027991092]
+[u'boathouse', 0.45038408, u'lumbermill', 0.095408119, u'barn', 0.080060296, u'alp', 0.040875904, u'tractor', 0.029646378]
+[u'alp', 0.19671981, u'barn', 0.072799906, u'worm_fence', 0.046809927, u'yurt', 0.02788871, u'pirate', 0.026266016]

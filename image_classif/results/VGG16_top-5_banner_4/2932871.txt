@@ -1,0 +1,1 @@
+[u'coral_fungus', 0.14308307, u'lab_coat', 0.076994643, u'mushroom', 0.036115706, u'stole', 0.031594861, u'fur_coat', 0.02285287]

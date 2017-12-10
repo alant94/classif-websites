@@ -1,0 +1,5 @@
+[u'buckle', 0.28866333, u'street_sign', 0.12524998, u'lighter', 0.11645292, u'coffee_mug', 0.036901627, u'combination_lock', 0.035342075]
+[u'street_sign', 0.20830613, u'book_jacket', 0.12875527, u'digital_clock', 0.048760239, u'lighter', 0.04523465, u'matchstick', 0.03079973]
+[u'street_sign', 0.2008895, u'digital_clock', 0.071345232, u'cash_machine', 0.069641665, u'scoreboard', 0.047518991, u'book_jacket', 0.036644842]
+[u'television', 0.10989384, u'web_site', 0.10850871, u'screen', 0.096315727, u'cash_machine', 0.083383732, u'menu', 0.07182046]
+[u'street_sign', 0.80704427, u'cash_machine', 0.050652463, u'traffic_light', 0.029072424, u'scoreboard', 0.018703569, u'cellular_telephone', 0.0083780698]

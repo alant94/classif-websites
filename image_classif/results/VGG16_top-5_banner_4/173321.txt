@@ -1,0 +1,2 @@
+[u'lighter', 0.15103632, u'can_opener', 0.14657998, u'analog_clock', 0.096777797, u'envelope', 0.080804452, u'whistle', 0.065462783]
+[u'bow', 0.68027407, u'stethoscope', 0.10670238, u'racket', 0.033254843, u'knot', 0.017893272, u'bolo_tie', 0.016763004]

@@ -1,0 +1,1 @@
+[u'street_sign', 0.21932322, u'scoreboard', 0.20051973, u'analog_clock', 0.057804029]

@@ -1,0 +1,5 @@
+[u'crutch', 0.21495388, u'book_jacket', 0.17996709, u'abaya', 0.16057885]
+[u'academic_gown', 0.18642089, u'mortarboard', 0.10690407, u'suit', 0.096937262]
+[u'sarong', 0.35136354, u'bikini', 0.05164345, u'shoe_shop', 0.048905898]
+[u'book_jacket', 0.99008232, u'packet', 0.0049186861, u'cash_machine', 0.0012855252]
+[u'library', 0.71280861, u'passenger_car', 0.085870951, u'bookshop', 0.042324219]

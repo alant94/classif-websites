@@ -1,0 +1,1 @@
+[u'organ', 0.2426035, u'theater_curtain', 0.24055077, u'oscilloscope', 0.17510341, u'harp', 0.040578391, u'cinema', 0.036599439]

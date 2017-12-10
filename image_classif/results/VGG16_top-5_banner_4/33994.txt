@@ -1,0 +1,4 @@
+[u'scabbard', 0.49227887, u'cleaver', 0.18837182, u'letter_opener', 0.12101204, u'hatchet', 0.096095741, u'can_opener', 0.046032637]
+[u'projector', 0.14006643, u'dumbbell', 0.12343891, u'space_shuttle', 0.081135467, u'barbell', 0.071435511, u'toilet_seat', 0.063092381]
+[u'Great_Dane', 0.24537317, u'web_site', 0.12826428, u'muzzle', 0.10647354, u'Afghan_hound', 0.047163885, u'Saint_Bernard', 0.031682685]
+[u'menu', 0.13696158, u'book_jacket', 0.12041021, u'street_sign', 0.062579736, u'web_site', 0.02541261, u'envelope', 0.019871106]

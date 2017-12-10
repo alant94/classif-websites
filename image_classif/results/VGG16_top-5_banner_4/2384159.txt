@@ -1,0 +1,2 @@
+[u'picket_fence', 0.59192497, u'boathouse', 0.14466979, u'mobile_home', 0.10414482, u'patio', 0.053714991, u'worm_fence', 0.01830524]
+[u'Band_Aid', 0.066431642, u'digital_clock', 0.065332547, u'switch', 0.060474269, u'envelope', 0.044201408, u'maze', 0.034474194]

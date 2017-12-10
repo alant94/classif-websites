@@ -1,0 +1,7 @@
+[u'perfume', 0.16542661, u'wall_clock', 0.070184417, u'medicine_chest', 0.040791593, u'bell_cote', 0.035339423, u'switch', 0.02992869]
+[u'prison', 0.20060827, u'church', 0.061666861, u'organ', 0.059500542, u'vault', 0.057094395, u'castle', 0.033890795]
+[u'vault', 0.43156666, u'cash_machine', 0.10720775, u'prison', 0.074262194, u'fire_screen', 0.035144959, u'window_screen', 0.020549728]
+[u'perfume', 0.15677947, u'face_powder', 0.14360107, u'wall_clock', 0.1185356, u'switch', 0.050269954, u'analog_clock', 0.03863607]
+[u'water_jug', 0.12348215, u'nipple', 0.087624982, u'vase', 0.075066477, u'pill_bottle', 0.059693053, u'lotion', 0.04786149]
+[u'fountain', 0.35956195, u'window_shade', 0.038374037, u'fireboat', 0.034784161, u'candle', 0.023785535, u'window_screen', 0.020319436]
+[u'stove', 0.11899775, u"potter's_wheel", 0.079675145, u'caldron', 0.058445577, u'throne', 0.052082289, u'barrel', 0.031246645]

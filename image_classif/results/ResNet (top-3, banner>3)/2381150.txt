@@ -1,0 +1,5 @@
+[u'red_wine', 0.4582496, u'tray', 0.12704906, u'French_loaf', 0.039129239]
+[u'red_wine', 0.60533631, u'sunglass', 0.056182057, u'sunglasses', 0.053309109]
+[u'marimba', 0.28693828, u'steel_drum', 0.16869149, u'fountain', 0.1028062]
+[u'digital_clock', 0.66702634, u'digital_watch', 0.089265853, u'wall_clock', 0.051449772]
+[u'restaurant', 0.99328411, u'dining_table', 0.0053090709, u'orange', 0.00050970603]

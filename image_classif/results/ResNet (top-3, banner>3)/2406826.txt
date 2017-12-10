@@ -1,0 +1,2 @@
+[u'jersey', 0.96431059, u'kimono', 0.015793642, u'sweatshirt', 0.0084233647]
+[u'oxygen_mask', 0.050278269, u'isopod', 0.046252191, u'hook', 0.044252619]

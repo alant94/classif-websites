@@ -1,0 +1,8 @@
+[u'web_site', 0.99840242, u'menu', 0.00069213752, u'comic_book', 0.00032085695]
+[u'castle', 0.27326792, u'monastery', 0.18244863, u'palace', 0.11989855]
+[u'binder', 0.1635783, u'candle', 0.070500806, u'lipstick', 0.042986844]
+[u'picket_fence', 0.27767718, u'castle', 0.14201175, u'fountain', 0.12518434]
+[u'hartebeest', 0.56816244, u'gazelle', 0.15536252, u'wallaby', 0.074717984]
+[u'crate', 0.40427279, u'carton', 0.12571833, u'mailbag', 0.044876099]
+[u'binder', 0.41796926, u'lipstick', 0.043144539, u'ballpoint', 0.033714417]
+[u'triceratops', 0.32187575, u'vulture', 0.086230308, u'cowboy_boot', 0.045829512]

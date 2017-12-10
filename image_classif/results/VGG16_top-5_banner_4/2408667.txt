@@ -1,0 +1,5 @@
+[u'altar', 0.24466546, u'candle', 0.08203008, u'bookcase', 0.081279315, u'table_lamp', 0.049609624, u'container_ship', 0.038764898]
+[u'tobacco_shop', 0.7170645, u'confectionery', 0.055875532, u'bookshop', 0.033504389, u'vending_machine', 0.028298028, u'comic_book', 0.024547001]
+[u'digital_clock', 0.17573194, u'traffic_light', 0.088200867, u'wing', 0.057507966, u'analog_clock', 0.056826163, u'street_sign', 0.049777444]
+[u'altar', 0.18393227, u'packet', 0.11507981, u'slot', 0.11120207, u'web_site', 0.10174691, u'wall_clock', 0.077247962]
+[u'web_site', 0.033425499, u'jellyfish', 0.017470228, u'parachute', 0.016674079, u'crane', 0.014566547, u'beacon', 0.014084529]

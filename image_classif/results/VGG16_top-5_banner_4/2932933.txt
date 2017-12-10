@@ -1,0 +1,1 @@
+[u'stretcher', 0.2309829, u'valley', 0.21443602, u'chain_saw', 0.098483458, u'cliff', 0.096328594, u'mountain_bike', 0.06778235]

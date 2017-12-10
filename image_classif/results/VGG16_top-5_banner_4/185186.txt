@@ -1,0 +1,5 @@
+[u'flagpole', 0.27719858, u'vestment', 0.10756242, u'triumphal_arch', 0.10278635, u'poncho', 0.062927499, u'cloak', 0.057351083]
+[u'envelope', 0.1564443, u'traffic_light', 0.069735564, u'crane', 0.059310369, u'bell_cote', 0.035792839, u'abaya', 0.035024218]
+[u'web_site', 0.1017667, u'envelope', 0.062413871, u'nematode', 0.019380108, u'rule', 0.013079611, u'nail', 0.01084599]
+[u'panpipe', 0.50851423, u'grand_piano', 0.23377615, u'vulture', 0.040759169, u'bearskin', 0.016709106, u'broom', 0.010939452]
+[u'web_site', 0.096692912, u'envelope', 0.019933425, u'nematode', 0.019633671, u'matchstick', 0.015205026, u'lipstick', 0.013245087]

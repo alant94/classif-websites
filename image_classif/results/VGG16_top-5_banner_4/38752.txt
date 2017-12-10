@@ -1,0 +1,2 @@
+[u'book_jacket', 0.35575882, u"carpenter's_kit", 0.12479785, u'screwdriver', 0.076126881, u'web_site', 0.037053615, u'safety_pin', 0.03641228]
+[u'syringe', 0.12315475, u'lipstick', 0.11677016, u'bathing_cap', 0.06924361, u'screwdriver', 0.058638502, u'hair_spray', 0.055713292]

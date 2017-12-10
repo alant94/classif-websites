@@ -1,0 +1,1 @@
+[u'paintbrush', 0.37934157, u'screwdriver', 0.19397353, u'rubber_eraser', 0.1132069, u"carpenter's_kit", 0.077133134, u'Band_Aid', 0.028511187]

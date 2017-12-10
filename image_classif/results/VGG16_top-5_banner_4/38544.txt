@@ -1,0 +1,3 @@
+[u'nail', 0.21206126, u'screwdriver', 0.16801372, u'syringe', 0.05376377, u'screw', 0.045657601, u'rule', 0.036009058]
+[u'nail', 0.42643672, u'screwdriver', 0.34554127, u"carpenter's_kit", 0.10160135, u'hammer', 0.045947991, u'screw', 0.044603687]
+[u'Band_Aid', 0.18395054, u'envelope', 0.13766134, u'web_site', 0.031128203, u'book_jacket', 0.018646657, u'nipple', 0.018401327]

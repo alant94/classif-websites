@@ -1,0 +1,5 @@
+[u'stage', 0.095227607, u'aircraft_carrier', 0.045178767, u'balloon', 0.044115476, u'restaurant', 0.038080707, u'container_ship', 0.037259247]
+[u'cocktail_shaker', 0.56741649, u'beer_glass', 0.17940679, u'cup', 0.049859963, u'beer_bottle', 0.045812931, u'pop_bottle', 0.023294887]
+[u'bathtub', 0.35572925, u'tub', 0.26839462, u'bikini', 0.13271618, u'swimming_trunks', 0.033432208, u'maillot', 0.021333864]
+[u'mosquito_net', 0.12649728, u'shower_curtain', 0.064724833, u'candle', 0.048054248, u'pajama', 0.043007679, u'handkerchief', 0.035337988]
+[u'shower_curtain', 0.080526046, u'prayer_rug', 0.045596316, u'Windsor_tie', 0.043756269, u'digital_clock', 0.03335882, u'balloon', 0.030977106]

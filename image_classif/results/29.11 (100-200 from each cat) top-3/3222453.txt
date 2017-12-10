@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.12561007, u'perfume', 0.072277568, u'cleaver', 0.056246687]
+[u'Band_Aid', 0.78333819, u'comic_book', 0.050143324, u'book_jacket', 0.02731532]
+[u'screwdriver', 0.20738947, u'hook', 0.13622262, u'chime', 0.091912657]
+[u'web_site', 0.3012726, u'pill_bottle', 0.087800123, u'envelope', 0.06514135]
+[u'chime', 0.35307065, u'dining_table', 0.10045129, u'candle', 0.069066823]

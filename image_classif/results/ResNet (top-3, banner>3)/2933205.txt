@@ -1,0 +1,8 @@
+[u'web_site', 0.092511088, u'dishwasher', 0.026146412, u'nematode', 0.023501089]
+[u'prison', 0.65862173, u'library', 0.045415089, u'palace', 0.04347463]
+[u'analog_clock', 0.16899918, u'screw', 0.063530788, u'remote_control', 0.043428726]
+[u'book_jacket', 0.18887229, u'hair_spray', 0.051501166, u'soap_dispenser', 0.044013679]
+[u'envelope', 0.51564956, u'comic_book', 0.2000366, u'jersey', 0.05883887]
+[u'shovel', 0.23458023, u'beaker', 0.075817071, u'table_lamp', 0.052603971]
+[u'hair_spray', 0.1671458, u'digital_clock', 0.16598423, u'theater_curtain', 0.058389325]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

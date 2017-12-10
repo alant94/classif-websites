@@ -1,0 +1,6 @@
+[u'cinema', 0.28885955, u'bassoon', 0.091920048, u'pole', 0.048695423, u'book_jacket', 0.043693095, u'flagpole', 0.041305088]
+[u'sunscreen', 0.095603645, u'nipple', 0.086758621, u'lotion', 0.084586032, u'Band_Aid', 0.059519667, u'hair_spray', 0.047429737]
+[u'puck', 0.3736614, u'book_jacket', 0.058338095, u'pick', 0.034773048, u'coffee_mug', 0.026346998, u'jersey', 0.025731664]
+[u'hummingbird', 0.25597492, u'feather_boa', 0.10342697, u'vase', 0.051118046, u'lorikeet', 0.033709832, u'pot', 0.033091243]
+[u'street_sign', 0.36829537, u'book_jacket', 0.13143365, u'moving_van', 0.065821223, u'oil_filter', 0.030716754, u'Band_Aid', 0.021233911]
+[u'envelope', 0.17616247, u'can_opener', 0.14059128, u'web_site', 0.12292974, u'whistle', 0.088267617, u'hook', 0.027322425]

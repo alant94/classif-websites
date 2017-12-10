@@ -1,0 +1,3 @@
+[u'web_site', 0.22583298, u'stopwatch', 0.15121955, u'digital_clock', 0.070356391, u'hook', 0.059105694, u'whistle', 0.057042453]
+[u'puck', 0.12280596, u'stopwatch', 0.059766885, u'neck_brace', 0.044978507, u'hook', 0.04216082, u'combination_lock', 0.040263373]
+[u'envelope', 0.087232761, u'jersey', 0.041201517, u'web_site', 0.037724484, u'sleeping_bag', 0.019494573, u'nail', 0.014619181]

@@ -1,0 +1,3 @@
+[u'comic_book', 0.52639306, u'book_jacket', 0.21068728, u'packet', 0.038904618]
+[u'comic_book', 0.092009552, u'tobacco_shop', 0.083300151, u'Band_Aid', 0.073351935]
+[u'tractor', 0.71156877, u'hay', 0.046787452, u'milk_can', 0.04546478]

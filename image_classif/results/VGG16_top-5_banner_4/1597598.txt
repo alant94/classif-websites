@@ -1,0 +1,8 @@
+[u'diaper', 0.30958423, u'harmonica', 0.29808789, u'bath_towel', 0.066434808, u'toilet_tissue', 0.056872681, u'hoopskirt', 0.056708034]
+[u'perfume', 0.16542661, u'wall_clock', 0.070184417, u'medicine_chest', 0.040791593, u'bell_cote', 0.035339423, u'switch', 0.02992869]
+[u'maillot', 0.21232136, u'maillot', 0.12056611, u'miniskirt', 0.10860822, u'brassiere', 0.093277305, u'bikini', 0.080028698]
+[u'television', 0.25973833, u'digital_clock', 0.17302006, u'spotlight', 0.088762924, u'window_shade', 0.064407229, u'screen', 0.050143544]
+[u'punching_bag', 0.21042565, u'brassiere', 0.1577215, u'bikini', 0.13989405, u'bath_towel', 0.04796103, u'hair_spray', 0.043647945]
+[u'perfume', 0.15677947, u'face_powder', 0.14360107, u'wall_clock', 0.1185356, u'switch', 0.050269954, u'analog_clock', 0.03863607]
+[u'window_screen', 0.25899205, u'window_shade', 0.12719205, u'digital_clock', 0.080462024, u'oscilloscope', 0.05337818, u'spotlight', 0.034835387]
+[u'pug', 0.40923768, u'bull_mastiff', 0.36969465, u'boxer', 0.06679488, u'Great_Dane', 0.040205147, u'French_bulldog', 0.01317662]

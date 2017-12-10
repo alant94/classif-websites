@@ -1,0 +1,4 @@
+[u'web_site', 0.93383384, u'envelope', 0.017795738, u'menu', 0.0083705084, u'packet', 0.0042764121, u'comic_book', 0.0028575666]
+[u'vending_machine', 0.36358488, u'tobacco_shop', 0.1789473, u'cash_machine', 0.14569847, u'pay-phone', 0.072191276, u'entertainment_center', 0.037763655]
+[u'analog_clock', 0.073352121, u'crane', 0.066539094, u'rule', 0.046197262, u'spotlight', 0.030835148, u'digital_clock', 0.02919388]
+[u'web_site', 0.99272364, u'book_jacket', 0.0018313224, u'comic_book', 0.00090670609, u'jean', 0.00036023479, u'brassiere', 0.00030027324]

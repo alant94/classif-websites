@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.84444594, u'quilt', 0.018793814, u'prayer_rug', 0.018115768]
+[u'fire_screen', 0.24368343, u'binder', 0.10390374, u'fountain', 0.064385757]
+[u'street_sign', 0.37038717, u'envelope', 0.069193698, u'digital_clock', 0.059385389]
+[u'prayer_rug', 0.14330304, u'tray', 0.034757409, u'shower_curtain', 0.031994279]
+[u'envelope', 0.49260142, u'ambulance', 0.10187581, u'digital_clock', 0.044590853]
+[u'tripod', 0.15305018, u'bannister', 0.13804598, u'rifle', 0.10491645]
+[u'barn', 0.12358078, u'digital_clock', 0.10046989, u'theater_curtain', 0.070086464]
+[u'comic_book', 0.67374671, u'book_jacket', 0.30315509, u'hair_spray', 0.0019171686]

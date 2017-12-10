@@ -1,0 +1,4 @@
+[u'oil_filter', 0.29788995, u'coffee_mug', 0.145569, u'can_opener', 0.13014978]
+[u'oil_filter', 0.98394716, u'can_opener', 0.011120941, u'lighter', 0.0033628114]
+[u'coffee_mug', 0.16017616, u'can_opener', 0.069752216, u'candle', 0.068331458]
+[u'hair_spray', 0.34910455, u'oil_filter', 0.26099864, u'milk_can', 0.13799289]

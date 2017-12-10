@@ -1,0 +1,5 @@
+[u'throne', 0.31464484, u'triceratops', 0.10872669, u'revolver', 0.031013962, u'corkscrew', 0.025927633, u'dumbbell', 0.019310173]
+[u'swimming_trunks', 0.2678155, u'pole', 0.14445248, u'bathing_cap', 0.11944222, u'bikini', 0.076961942, u'maillot', 0.061817542]
+[u'swimming_trunks', 0.19336815, u'bikini', 0.13970621, u'gasmask', 0.06758564, u'cowboy_hat', 0.058038305, u'bathing_cap', 0.049857534]
+[u'comic_book', 0.25568068, u'bikini', 0.18072127, u'Band_Aid', 0.098856486, u'maillot', 0.067648947, u'totem_pole', 0.05124471]
+[u'bikini', 0.66400862, u'comic_book', 0.13080205, u'maillot', 0.058505107, u'brassiere', 0.053909305, u'maillot', 0.044118278]

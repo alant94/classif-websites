@@ -1,0 +1,8 @@
+[u'altar', 0.32808739, u'carton', 0.15751161, u'sewing_machine', 0.10096261]
+[u'chambered_nautilus', 0.20611709, u'pitcher', 0.086953789, u'toilet_seat', 0.068803102]
+[u'bell_cote', 0.14250554, u'suit', 0.11335503, u'obelisk', 0.069849804]
+[u'missile', 0.59904826, u'projectile', 0.16599043, u'submarine', 0.16054717]
+[u'carton', 0.28678662, u'refrigerator', 0.21139988, u'binder', 0.16606992]
+[u'pedestal', 0.97239435, u'pole', 0.0038509422, u'sundial', 0.0034702651]
+[u'fountain', 0.31202173, u'church', 0.097358026, u'obelisk', 0.082677998]
+[u'web_site', 0.99990451, u'television', 2.7870658e-05, u'notebook', 2.1124606e-05]

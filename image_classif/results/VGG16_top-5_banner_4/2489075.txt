@@ -1,0 +1,4 @@
+[u'ski', 0.72494036, u'alp', 0.13438559, u'lakeside', 0.014712467, u'drilling_platform', 0.010114797, u'wreck', 0.009069181]
+[u'chime', 0.69796616, u'picket_fence', 0.20547485, u'nail', 0.023388628, u'pier', 0.013490935, u'worm_fence', 0.010187688]
+[u'binoculars', 0.06792713, u'assault_rifle', 0.05541154, u'abaya', 0.051687077, u'cloak', 0.047883924, u'trench_coat', 0.033870459]
+[u'gar', 0.45691538, u'barracouta', 0.19449669, u'coho', 0.19201124, u'tench', 0.065033019, u'sturgeon', 0.049190629]

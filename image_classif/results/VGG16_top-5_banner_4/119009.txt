@@ -1,0 +1,8 @@
+[u'bottlecap', 0.51848638, u'pick', 0.32367176, u'puck', 0.026373304, u'hair_slide', 0.017382404, u'bolo_tie', 0.016802467]
+[u'web_site', 0.19400305, u'envelope', 0.092777476, u'binder', 0.071486525, u'packet', 0.070297599, u'comic_book', 0.063888989]
+[u'binder', 0.32243037, u'wallet', 0.050000701, u'lighter', 0.039131343, u'perfume', 0.027352322, u'mailbag', 0.025583969]
+[u'safety_pin', 0.71082419, u'nipple', 0.074020147, u'screwdriver', 0.053938229, u'vending_machine', 0.022579692, u'ballpoint', 0.020468719]
+[u'web_site', 0.43250459, u'mousetrap', 0.054818768, u'can_opener', 0.04491147, u'combination_lock', 0.036248043, u'safety_pin', 0.021166246]
+[u'web_site', 0.91259295, u'envelope', 0.025863837, u'comic_book', 0.012443926, u'book_jacket', 0.0078481622, u'packet', 0.0071685007]
+[u'packet', 0.56213236, u'envelope', 0.074715964, u'refrigerator', 0.040638972, u'Christmas_stocking', 0.028825825, u'web_site', 0.025927661]
+[u'carton', 0.3936806, u'crate', 0.33196157, u'apiary', 0.023809455, u'gas_pump', 0.022429245, u'moving_van', 0.019160796]

@@ -1,0 +1,3 @@
+[u'hammerhead', 0.065827794, u'neck_brace', 0.061911274, u'web_site', 0.061038274]
+[u'ping-pong_ball', 0.25030783, u'crash_helmet', 0.086828142, u'tennis_ball', 0.082744524]
+[u'crash_helmet', 0.24174744, u'football_helmet', 0.1809417, u'tennis_ball', 0.10061044]

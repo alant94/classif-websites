@@ -1,0 +1,6 @@
+[u'brassiere', 0.36569542, u'maillot', 0.20633318, u'bikini', 0.1600078]
+[u'nematode', 0.15523243, u'dishwasher', 0.087953888, u'envelope', 0.019927885]
+[u'brassiere', 0.56874245, u'bikini', 0.36366969, u'maillot', 0.049774803]
+[u'face_powder', 0.27713192, u'lipstick', 0.19936293, u'hair_slide', 0.068729721]
+[u'swimming_trunks', 0.32904929, u'sunscreen', 0.19786301, u'brassiere', 0.18882145]
+[u'rifle', 0.16338547, u'web_site', 0.15617001, u'bannister', 0.0492584]

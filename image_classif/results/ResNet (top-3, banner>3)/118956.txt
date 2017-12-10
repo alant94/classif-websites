@@ -1,0 +1,5 @@
+[u'banana', 0.34412566, u'comic_book', 0.073255025, u'cuirass', 0.052351408]
+[u'digital_clock', 0.78715008, u'oscilloscope', 0.065329798, u'scoreboard', 0.041792329]
+[u'crossword_puzzle', 0.98050147, u'medicine_chest', 0.0091807023, u'shower_curtain', 0.0023664068]
+[u'crossword_puzzle', 0.98678708, u'shower_curtain', 0.0063807652, u'medicine_chest', 0.0016172196]
+[u'crossword_puzzle', 0.99235743, u'medicine_chest', 0.0015972456, u'shower_curtain', 0.0015911323]

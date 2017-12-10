@@ -1,0 +1,3 @@
+[u'abaya', 0.40584114, u'cloak', 0.22504133, u'stole', 0.056419585, u'vestment', 0.026717527, u'bath_towel', 0.021416796]
+[u'brassiere', 0.22056846, u'bikini', 0.17345487, u'maillot', 0.087848261, u'stethoscope', 0.074935578, u'lab_coat', 0.05036347]
+[u'book_jacket', 0.81460422, u'comic_book', 0.063633949, u'street_sign', 0.021344045, u'scoreboard', 0.0062842015, u'cinema', 0.0049964436]

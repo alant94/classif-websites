@@ -1,0 +1,3 @@
+[u'safe', 0.10599875, u'carton', 0.092826627, u'monitor', 0.083793715]
+[u'analog_clock', 0.39344013, u'corkscrew', 0.26278615, u'can_opener', 0.12233634]
+[u'web_site', 0.086491227, u'analog_clock', 0.059690442, u'oscilloscope', 0.046658918]

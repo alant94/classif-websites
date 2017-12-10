@@ -1,0 +1,6 @@
+[u'comic_book', 0.13429935, u'street_sign', 0.1305894, u'carton', 0.075217374, u'ashcan', 0.06318029, u'barbershop', 0.040090881]
+[u'panpipe', 0.25253728, u'comic_book', 0.13243602, u'book_jacket', 0.13090135, u'marimba', 0.056030698, u'screwdriver', 0.054306068]
+[u'totem_pole', 0.21486625, u'cleaver', 0.12572183, u'scabbard', 0.073051035, u'ski', 0.072411418, u'letter_opener', 0.044679593]
+[u'monitor', 0.12652595, u'aircraft_carrier', 0.095257968, u'jigsaw_puzzle', 0.083332986, u'drilling_platform', 0.042755976, u'Petri_dish', 0.035650048]
+[u'theater_curtain', 0.13427661, u'restaurant', 0.091924369, u'church', 0.069854312, u'throne', 0.0564394, u'organ', 0.05616577]
+[u'picket_fence', 0.069311179, u'chain_saw', 0.06342268, u'beer_bottle', 0.053794954, u'padlock', 0.048308823, u'screwdriver', 0.048156913]

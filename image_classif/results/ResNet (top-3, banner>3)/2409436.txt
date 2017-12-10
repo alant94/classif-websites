@@ -1,0 +1,4 @@
+[u'spatula', 0.16770215, u'bakery', 0.11473993, u'waffle_iron', 0.099913642]
+[u'book_jacket', 0.46256444, u'barbershop', 0.19881146, u'comic_book', 0.17645209]
+[u'jersey', 0.17066848, u'sweatshirt', 0.14477029, u'web_site', 0.06268733]
+[u'confectionery', 0.77069074, u'packet', 0.21616897, u'vending_machine', 0.0037545317]

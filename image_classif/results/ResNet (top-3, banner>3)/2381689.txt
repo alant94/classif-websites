@@ -1,0 +1,4 @@
+[u'running_shoe', 0.48744315, u'thimble', 0.039449584, u'swab', 0.033640217]
+[u'trailer_truck', 0.2416189, u'forklift', 0.11329776, u'shower_curtain', 0.083495922]
+[u'hook', 0.17667866, u'shovel', 0.12947387, u'shield', 0.07175833]
+[u'red_wine', 0.92889833, u'wine_bottle', 0.06256257, u'beer_bottle', 0.0016362196]

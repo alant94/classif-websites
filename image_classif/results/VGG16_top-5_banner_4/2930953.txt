@@ -1,0 +1,7 @@
+[u'patio', 0.30776766, u'lumbermill', 0.11776362, u'crate', 0.058116313, u'cannon', 0.048438992, u'maze', 0.043881003]
+[u'alp', 0.29913262, u'valley', 0.1104321, u'volcano', 0.077456906, u'cliff', 0.063796028, u'torch', 0.038624585]
+[u'African_crocodile', 0.13464893, u'American_alligator', 0.081566587, u'alp', 0.073056988, u'castle', 0.072123542, u'megalith', 0.045363497]
+[u'picket_fence', 0.043002475, u'matchstick', 0.036024988, u'web_site', 0.034511682, u'analog_clock', 0.021512846, u'Windsor_tie', 0.020930888]
+[u'hair_slide', 0.17043898, u'pick', 0.16249649, u'pomegranate', 0.12159172, u'maraca', 0.041785058, u'rubber_eraser', 0.037017956]
+[u'theater_curtain', 0.73950303, u'mortarboard', 0.052150927, u'academic_gown', 0.030930037, u'cloak', 0.029366387, u'maypole', 0.020303091]
+[u'digital_clock', 0.031696469, u'web_site', 0.024529271, u'analog_clock', 0.024164381, u'spotlight', 0.019995173, u'matchstick', 0.016113095]

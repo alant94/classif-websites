@@ -1,0 +1,4 @@
+[u'pill_bottle', 0.74046612, u'medicine_chest', 0.12472828, u'sunscreen', 0.023846935]
+[u'menu', 0.41480497, u'web_site', 0.18431714, u'envelope', 0.08522515]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]
+[u'tray', 0.18306842, u'acorn_squash', 0.14315642, u'plate', 0.0862244]

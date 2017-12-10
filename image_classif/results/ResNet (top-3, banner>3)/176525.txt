@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hair_spray', 0.39863884, u'theater_curtain', 0.25447324, u'stage', 0.10333837]
+[u'book_jacket', 0.47674856, u'comic_book', 0.34622595, u'Band_Aid', 0.070832148]
+[u'web_site', 0.36566135, u'envelope', 0.22515692, u'binder', 0.020067003]
+[u'lighter', 0.19086249, u'web_site', 0.1647523, u'Band_Aid', 0.083923571]
+[u'envelope', 0.28467163, u'web_site', 0.23296857, u'cleaver', 0.018103899]
+[u'web_site', 0.27918413, u'comic_book', 0.23692851, u'Band_Aid', 0.12248376]

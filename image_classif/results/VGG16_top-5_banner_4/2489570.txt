@@ -1,0 +1,2 @@
+[u'American_black_bear', 0.2635771, u'Doberman', 0.22495611, u'Great_Dane', 0.16674298, u'black-and-tan_coonhound', 0.13367544, u'giant_schnauzer', 0.11314913]
+[u'black-and-tan_coonhound', 0.1944534, u'book_jacket', 0.11853563, u'Great_Dane', 0.065798678, u'Doberman', 0.055820886, u'comic_book', 0.055155035]

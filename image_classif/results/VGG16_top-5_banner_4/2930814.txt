@@ -1,0 +1,5 @@
+[u'restaurant', 0.22042401, u'vault', 0.15020894, u'altar', 0.14922689, u'church', 0.061579518, u'monastery', 0.05085383]
+[u'palace', 0.63636172, u'boathouse', 0.099665113, u'gondola', 0.028151998, u'streetcar', 0.026536699, u'fountain', 0.021350125]
+[u'restaurant', 0.33503625, u'gondola', 0.049889889, u'barber_chair', 0.043344319, u'grand_piano', 0.041763566, u'barbershop', 0.032752242]
+[u'vestment', 0.17224465, u'gondola', 0.056706462, u'butcher_shop', 0.050165411, u'bearskin', 0.048670206, u'prison', 0.035974164]
+[u'butcher_shop', 0.38106185, u'barber_chair', 0.28169268, u'barbershop', 0.26300576, u'lab_coat', 0.016831862, u'shoe_shop', 0.0064193374]

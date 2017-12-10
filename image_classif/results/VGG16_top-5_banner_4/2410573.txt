@@ -1,0 +1,2 @@
+[u'wig', 0.18550132, u'mitten', 0.048352879, u'bow_tie', 0.045347232, u'stole', 0.044029824, u'cardigan', 0.029070996]
+[u'puck', 0.16226701, u'face_powder', 0.12710105, u'remote_control', 0.060490217, u'pill_bottle', 0.057974879, u'nipple', 0.044719562]

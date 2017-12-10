@@ -1,0 +1,2 @@
+[u'crate', 0.52352762, u'barrel', 0.071264312, u'barbershop', 0.03971364, u'brass', 0.031736419, u'book_jacket', 0.030241918]
+[u'street_sign', 0.27259317, u'cash_machine', 0.21464406, u'gas_pump', 0.046907481, u'moving_van', 0.036268089, u'book_jacket', 0.021399532]

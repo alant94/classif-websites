@@ -1,0 +1,3 @@
+[u'web_site', 0.7082321, u'rule', 0.057774208, u'cinema', 0.030987246, u'book_jacket', 0.027498141, u'envelope', 0.027211053]
+[u'lab_coat', 0.71376681, u'bulletproof_vest', 0.061676741, u'Windsor_tie', 0.041301988, u'sweatshirt', 0.03934484, u'stethoscope', 0.014370658]
+[u'web_site', 0.34410906, u'book_jacket', 0.17536201, u'menu', 0.035126328, u'envelope', 0.031180777, u'binder', 0.029075544]

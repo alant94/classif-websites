@@ -1,0 +1,2 @@
+[u'fountain', 0.4359698, u'sarong', 0.10579931, u'swimming_trunks', 0.039601669, u'unicycle', 0.031470347, u'torch', 0.031197822]
+[u'nail', 0.36480311, u'mortarboard', 0.15232962, u'academic_gown', 0.092853241, u'hook', 0.045726676, u'breastplate', 0.02463028]

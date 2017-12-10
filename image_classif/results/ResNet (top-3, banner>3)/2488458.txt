@@ -1,0 +1,2 @@
+[u'steam_locomotive', 0.6781444, u'tractor', 0.051611885, u'thresher', 0.038314845]
+[u'thresher', 0.18860801, u'harvester', 0.10140463, u'flagpole', 0.087143734]

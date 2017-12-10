@@ -1,0 +1,3 @@
+[u'envelope', 0.04669803, u'toilet_seat', 0.039053608, u'crossword_puzzle', 0.038884122, u'washbasin', 0.035434663, u'doormat', 0.035377126]
+[u'web_site', 0.13032861, u"carpenter's_kit", 0.089160793, u'switch', 0.08793994, u'abacus', 0.082932815, u'safe', 0.066865146]
+[u'digital_clock', 0.056933034, u'spotlight', 0.040814705, u'oscilloscope', 0.025816286, u'washbasin', 0.019255202, u'maze', 0.016820883]

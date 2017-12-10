@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.34779298, u'harmonica', 0.0539122, u'power_drill', 0.045086954]
+[u'crossword_puzzle', 0.26182622, u'book_jacket', 0.19117892, u'otterhound', 0.026053734]

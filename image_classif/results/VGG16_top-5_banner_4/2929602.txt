@@ -1,0 +1,3 @@
+[u'lab_coat', 0.62285542, u'plate', 0.095384613, u'envelope', 0.027869809, u'menu', 0.02414453, u'stethoscope', 0.019198557]
+[u'cinema', 0.49490383, u'scoreboard', 0.091037728, u'cash_machine', 0.034334939, u'streetcar', 0.033659171, u'passenger_car', 0.030385248]
+[u'web_site', 0.076911315, u'sunscreen', 0.070573613, u'lipstick', 0.066557832, u'lotion', 0.066317603, u'nail', 0.061724909]

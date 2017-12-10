@@ -1,0 +1,1 @@
+[u'organ', 0.67522275, u'matchstick', 0.054343473, u'picket_fence', 0.036558148, u'window_shade', 0.023251925, u'analog_clock', 0.020593101]

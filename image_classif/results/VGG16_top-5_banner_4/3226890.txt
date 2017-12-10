@@ -1,0 +1,7 @@
+[u'toilet_tissue', 0.79236549, u'paper_towel', 0.13229968, u'plastic_bag', 0.031615492, u'jersey', 0.010263638, u'bath_towel', 0.0064271335]
+[u'book_jacket', 0.75572538, u'cash_machine', 0.048873607, u'barbershop', 0.034806922, u'street_sign', 0.025411457, u'ashcan', 0.023912616]
+[u'web_site', 0.80007732, u'book_jacket', 0.0098710889, u'comic_book', 0.0066616125, u'menu', 0.0066538351, u'envelope', 0.0051715183]
+[u'punching_bag', 0.18122301, u'hook', 0.17247441, u'whistle', 0.097197354, u'chain', 0.06874682, u'crane', 0.049111441]
+[u'web_site', 0.19007561, u'book_jacket', 0.070458449, u'envelope', 0.029931163, u'Band_Aid', 0.014455423, u'muzzle', 0.013538733]
+[u'iPod', 0.51616669, u'vending_machine', 0.26890257, u'cellular_telephone', 0.12197699, u'hand-held_computer', 0.014690428, u'web_site', 0.013633917]
+[u'web_site', 0.16953813, u'book_jacket', 0.057240922, u'envelope', 0.031289089, u'Band_Aid', 0.029543253, u'street_sign', 0.017707324]

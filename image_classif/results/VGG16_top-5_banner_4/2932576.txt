@@ -1,0 +1,3 @@
+[u'electric_fan', 0.34138641, u'solar_dish', 0.28022715, u'tennis_ball', 0.021584537, u'toilet_seat', 0.018016195, u'spotlight', 0.012785177]
+[u'tennis_ball', 0.23854624, u'Band_Aid', 0.028568031, u'sunscreen', 0.026452599, u'rugby_ball', 0.024195433, u'maraca', 0.021365758]
+[u'book_jacket', 0.096023135, u'sunscreen', 0.039267883, u'perfume', 0.026732976, u'jersey', 0.025557326, u'lotion', 0.024661722]

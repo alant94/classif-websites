@@ -1,0 +1,6 @@
+[u'screwdriver', 0.18916699, u'stage', 0.081325106, u'beaker', 0.05006488]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'toilet_seat', 0.16079736, u'slot', 0.089524224, u'jigsaw_puzzle', 0.085523568]
+[u'chime', 0.4316881, u'paintbrush', 0.087534383, u'rubber_eraser', 0.081992656]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'oscilloscope', 0.95422727, u'screen', 0.010910897, u'rule', 0.004206128]

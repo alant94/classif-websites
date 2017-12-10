@@ -1,0 +1,4 @@
+[u'screw', 0.67163157, u'nail', 0.22813292, u'hook', 0.014884087]
+[u'screw', 0.44402155, u'nail', 0.22255102, u'hair_slide', 0.053273767]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]
+[u'oscilloscope', 0.32221478, u'bannister', 0.197807, u'nail', 0.086862817]

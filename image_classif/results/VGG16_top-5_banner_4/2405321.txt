@@ -1,0 +1,2 @@
+[u'web_site', 0.57512563, u'matchstick', 0.046900161, u'banana', 0.028756279, u'Band_Aid', 0.026045794, u'envelope', 0.020529639]
+[u'safety_pin', 0.23811163, u'necklace', 0.14835902, u'stethoscope', 0.14670108, u'hook', 0.083975673, u'whistle', 0.044926651]

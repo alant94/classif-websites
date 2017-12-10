@@ -1,0 +1,2 @@
+[u'snowmobile', 0.56573886, u'chain_saw', 0.16893797, u'racer', 0.12653545]
+[u'street_sign', 0.15407127, u'laptop', 0.062382147, u'remote_control', 0.037956763]

@@ -1,0 +1,4 @@
+[u'nematode', 0.097942784, u'nail', 0.076658078, u'hook', 0.049350917, u'starfish', 0.044525962, u'seashore', 0.041462451]
+[u'cello', 0.46929151, u'bassoon', 0.40363505, u'oboe', 0.038572375, u'violin', 0.022860285, u'harp', 0.02102294]
+[u'maze', 0.26515979, u'web_site', 0.0892184, u'scoreboard', 0.077476449, u'envelope', 0.04703733, u'monitor', 0.039903484]
+[u'vestment', 0.7059443, u'altar', 0.22932538, u'throne', 0.024224188, u'theater_curtain', 0.011694606, u'groom', 0.0038625782]

@@ -1,0 +1,1 @@
+[u'coffee_mug', 0.11643006, u'book_jacket', 0.039813455, u'beer_glass', 0.037939522, u'iron', 0.030458976, u'microphone', 0.026834605]

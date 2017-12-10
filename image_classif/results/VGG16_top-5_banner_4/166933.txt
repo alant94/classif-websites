@@ -1,0 +1,6 @@
+[u'street_sign', 0.31127876, u'cash_machine', 0.24073632, u'scoreboard', 0.10515556, u'book_jacket', 0.090557396, u'gas_pump', 0.052729152]
+[u'web_site', 0.15113141, u'envelope', 0.024442229, u'menu', 0.018254027, u'hand_blower', 0.015962437, u'crossword_puzzle', 0.012037585]
+[u'wardrobe', 0.071372621, u'wall_clock', 0.056229975, u'envelope', 0.049216915, u'carton', 0.035899617, u'cash_machine', 0.033204459]
+[u'steel_drum', 0.9052431, u'drum', 0.052758545, u'marimba', 0.017473411, u'banjo', 0.0088792965, u'accordion', 0.0072517856]
+[u'electric_guitar', 0.27264515, u'microphone', 0.17877316, u'harmonica', 0.087265536, u'stage', 0.075108312, u'flute', 0.064241461]
+[u'sax', 0.16827008, u'drum', 0.092418365, u'cornet', 0.084704354, u'violin', 0.049799774, u'stage', 0.04734781]

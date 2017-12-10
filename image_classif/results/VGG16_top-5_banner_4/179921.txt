@@ -1,0 +1,1 @@
+[u'Model_T', 0.30926815, u'pickup', 0.2935423, u'convertible', 0.28823745, u'tow_truck', 0.034545291, u'car_wheel', 0.022909515]

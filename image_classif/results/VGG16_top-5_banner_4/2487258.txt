@@ -1,0 +1,1 @@
+[u'snowplow', 0.21986279, u'thresher', 0.17582399, u'garbage_truck', 0.11390688, u'plow', 0.06027355, u'harvester', 0.050561059]

@@ -1,0 +1,3 @@
+[u'screen', 0.20463467, u'monitor', 0.19016635, u'cash_machine', 0.1007446, u'television', 0.089741826, u'oscilloscope', 0.043102622]
+[u'traffic_light', 0.076819837, u'Band_Aid', 0.070277095, u'envelope', 0.054432757, u'street_sign', 0.036939178, u'wall_clock', 0.02189387]
+[u'web_site', 0.3074612, u'book_jacket', 0.06048923, u'cash_machine', 0.058873583, u'television', 0.055297326, u'screen', 0.047369339]

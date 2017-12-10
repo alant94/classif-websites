@@ -1,0 +1,4 @@
+[u'restaurant', 0.41043735, u'library', 0.3223545, u'barber_chair', 0.024599645, u'prison', 0.02332068, u'barbershop', 0.020620368]
+[u'envelope', 0.67132241, u'web_site', 0.10607362, u'rule', 0.014957416, u'book_jacket', 0.010264808, u'Band_Aid', 0.0072912402]
+[u'envelope', 0.084111437, u'beacon', 0.054373227, u'obelisk', 0.035439298, u'bell_cote', 0.033997547, u'matchstick', 0.023475537]
+[u'picket_fence', 0.44681597, u'chime', 0.15877551, u'organ', 0.08416868, u'nail', 0.083384432, u'radiator', 0.045633025]

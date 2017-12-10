@@ -1,0 +1,5 @@
+[u'bikini', 0.46448323, u'sunscreen', 0.08483775, u'tub', 0.074831225]
+[u'brassiere', 0.21337889, u'bikini', 0.19327798, u'iPod', 0.15378562]
+[u'mortarboard', 0.66475999, u'maillot', 0.19305514, u'bikini', 0.070294753]
+[u'jean', 0.19287056, u'lipstick', 0.092554867, u'bikini', 0.086027682]
+[u'maillot', 0.38822126, u'brassiere', 0.30186704, u'bikini', 0.2054234]

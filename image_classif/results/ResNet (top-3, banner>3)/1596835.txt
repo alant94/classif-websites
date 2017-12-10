@@ -1,0 +1,4 @@
+[u'thimble', 0.17584862, u'papillon', 0.15243457, u'English_springer', 0.11168955]
+[u'hog', 0.23755224, u'Welsh_springer_spaniel', 0.18691052, u'Blenheim_spaniel', 0.13758582]
+[u'dumbbell', 0.2092493, u'swimming_trunks', 0.1000239, u'parallel_bars', 0.094214104]
+[u'Yorkshire_terrier', 0.12375534, u'fire_screen', 0.072278976, u'Australian_terrier', 0.0684001]

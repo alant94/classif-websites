@@ -1,0 +1,2 @@
+[u'beer_bottle', 0.89470917, u'pop_bottle', 0.058563061, u'beer_glass', 0.01832843, u'whiskey_jug', 0.015588624, u'bottlecap', 0.0037203312]
+[u'whiskey_jug', 0.24066871, u'face_powder', 0.17622615, u'coffee_mug', 0.12482037, u'milk_can', 0.06828773, u'eggnog', 0.058137611]

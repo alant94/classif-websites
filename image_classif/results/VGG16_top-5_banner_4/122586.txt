@@ -1,0 +1,3 @@
+[u'switch', 0.10215323, u'hammer', 0.090000696, u'pencil_sharpener', 0.084022827, u'nail', 0.0567673, u'iPod', 0.038066503]
+[u'switch', 0.39573708, u'buckle', 0.14246073, u'television', 0.10545247, u'iPod', 0.035529252, u'toilet_tissue', 0.019088684]
+[u'table_lamp', 0.16622688, u'comic_book', 0.16323796, u'lampshade', 0.16173363, u'triceratops', 0.029923035, u'wall_clock', 0.02826478]

@@ -1,0 +1,4 @@
+[u'wall_clock', 0.19215602, u'jersey', 0.17380109, u'cassette', 0.08182542, u'envelope', 0.076875925, u'analog_clock', 0.06327635]
+[u'packet', 0.10551179, u'plastic_bag', 0.057954747, u'carton', 0.05277751, u'street_sign', 0.044549271, u'book_jacket', 0.042799409]
+[u'whistle', 0.19459873, u'Band_Aid', 0.080994852, u'hook', 0.078469336, u'rubber_eraser', 0.061894946, u'digital_clock', 0.050417434]
+[u'parachute', 0.051081982, u'jellyfish', 0.029838767, u'bald_eagle', 0.023480741, u'hammerhead', 0.023240328, u'kite', 0.022676347]

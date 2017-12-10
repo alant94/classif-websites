@@ -1,0 +1,8 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'picket_fence', 0.53113526, u'matchstick', 0.065293938, u'worm_fence', 0.036733393, u'digital_clock', 0.014731809, u'maze', 0.013419146]
+[u'computer_keyboard', 0.05865971, u'spotlight', 0.045350738, u'typewriter_keyboard', 0.039628889, u'analog_clock', 0.03713204, u'abaya', 0.029727139]
+[u'picket_fence', 0.35241437, u'sliding_door', 0.11297653, u'prison', 0.052898441, u'window_shade', 0.04707149, u'bannister', 0.041013356]
+[u'picket_fence', 0.36304885, u'prison', 0.10980668, u'turnstile', 0.1076321, u'bannister', 0.049293432, u'sliding_door', 0.031926293]

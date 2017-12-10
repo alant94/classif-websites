@@ -1,0 +1,5 @@
+[u'binder', 0.16569223, u'menu', 0.14945145, u'envelope', 0.076492943, u'book_jacket', 0.067816734, u'cassette', 0.02431277]
+[u'home_theater', 0.48268673, u'monitor', 0.25540495, u'television', 0.1268917, u'entertainment_center', 0.036515687, u'screen', 0.03307265]
+[u'fire_screen', 0.31482852, u'theater_curtain', 0.11017278, u'book_jacket', 0.064575732, u'binder', 0.055940829, u'home_theater', 0.041944459]
+[u'book_jacket', 0.071851239, u'cash_machine', 0.037028626, u'cinema', 0.027559804, u'isopod', 0.027223879, u'comic_book', 0.025573589]
+[u'book_jacket', 0.075822145, u'cinema', 0.041384853, u'crane', 0.033567958, u'television', 0.030891314, u'street_sign', 0.024817878]

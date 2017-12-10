@@ -1,0 +1,5 @@
+[u'carton', 0.45371419, u'Band_Aid', 0.41214931, u'crate', 0.03588834]
+[u'switch', 0.0925771, u'web_site', 0.038040936, u'Band_Aid', 0.037265364]
+[u'face_powder', 0.68854618, u'binder', 0.21282193, u'hamper', 0.01512422]
+[u'web_site', 0.87773973, u'envelope', 0.015696103, u'book_jacket', 0.005747742]
+[u'rifle', 0.23331481, u'hook', 0.11351126, u'chain_saw', 0.081283063]

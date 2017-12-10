@@ -1,0 +1,5 @@
+[u'container_ship', 0.99942136, u'shopping_basket', 0.00013770707, u'crane', 3.7390044e-05, u'liner', 3.4556138e-05, u'puck', 3.1100481e-05]
+[u'container_ship', 0.96382284, u'scoreboard', 0.0035726344, u'crossword_puzzle', 0.0029719118, u'Gila_monster', 0.0013874646, u'balloon', 0.0013357607]
+[u'comic_book', 0.90533876, u'laptop', 0.019205963, u'jigsaw_puzzle', 0.0075267963, u'jersey', 0.0069600134, u'pinwheel', 0.006931616]
+[u'desktop_computer', 0.23196539, u'notebook', 0.19123964, u'laptop', 0.10950229, u'desk', 0.10650476, u'mouse', 0.076531433]
+[u'container_ship', 0.99732, u'shopping_basket', 0.00092120405, u'carton', 0.00020537146, u'rubber_eraser', 0.00011607228, u'crane', 9.8611155e-05]

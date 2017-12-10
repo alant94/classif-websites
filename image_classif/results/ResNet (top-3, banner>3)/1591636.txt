@@ -1,0 +1,5 @@
+[u'gong', 0.66581023, u'face_powder', 0.055307653, u'piggy_bank', 0.044434845]
+[u'harp', 0.7553097, u'Band_Aid', 0.023111824, u'Siamese_cat', 0.017095502]
+[u'brassiere', 0.77664834, u'bikini', 0.1273369, u'wig', 0.01321645]
+[u'television', 0.13003024, u'screen', 0.087256476, u'brassiere', 0.077262312]
+[u'binder', 0.26509133, u'lighter', 0.16607957, u'oil_filter', 0.076874897]

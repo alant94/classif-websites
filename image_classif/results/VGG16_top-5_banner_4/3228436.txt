@@ -1,0 +1,3 @@
+[u'web_site', 0.34055641, u'file', 0.22965142, u'binder', 0.20415124, u'monitor', 0.071822487, u'desktop_computer', 0.018197622]
+[u'brass', 0.80230159, u'menu', 0.051458649, u'jersey', 0.042020198, u'book_jacket', 0.031111427, u'packet', 0.013150549]
+[u'Windsor_tie', 0.082980789, u'container_ship', 0.069823869, u'whistle', 0.066515647, u'electric_guitar', 0.029354112, u'vase', 0.022597393]

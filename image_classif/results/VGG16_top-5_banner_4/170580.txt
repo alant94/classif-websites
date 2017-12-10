@@ -1,0 +1,1 @@
+[u'microphone', 0.3459096, u'coil', 0.14421432, u'screw', 0.048454728, u'hand_blower', 0.029531652, u'trilobite', 0.027918294]

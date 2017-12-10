@@ -1,0 +1,5 @@
+[u'hartebeest', 0.30927303, u'water_buffalo', 0.15543531, u'hog', 0.076380387, u'ox', 0.056244329, u'gazelle', 0.051625054]
+[u'hog', 0.99982268, u'wild_boar', 6.0212173e-05, u'hippopotamus', 4.1953572e-05, u'ox', 3.1930689e-05, u'vizsla', 8.1400003e-06]
+[u'hermit_crab', 0.7781415, u'bonnet', 0.023721067, u'isopod', 0.012645621, u'ice_cream', 0.012273246, u'crayfish', 0.0090384427]
+[u'hog', 0.59607595, u'wombat', 0.17297107, u'wild_boar', 0.14886758, u'warthog', 0.030981498, u'Angora', 0.012262311]
+[u'web_site', 0.78813517, u'power_drill', 0.017301915, u'hook', 0.012149624, u'envelope', 0.0083283242, u'whistle', 0.0083281854]

@@ -1,0 +1,8 @@
+[u'jellyfish', 0.60077769, u'hammerhead', 0.065315157, u'electric_ray', 0.023675511, u'parachute', 0.018651417, u'web_site', 0.011546889]
+[u'television', 0.066498175, u'web_site', 0.064378433, u'screen', 0.053600546, u'monitor', 0.050899271, u'analog_clock', 0.041751731]
+[u'fountain_pen', 0.37725401, u'crossword_puzzle', 0.30072924, u'ballpoint', 0.053013418, u'syringe', 0.051355369, u'quill', 0.030510329]
+[u'candle', 0.16326575, u'groom', 0.13824046, u'ice_lolly', 0.13821936, u'torch', 0.077861913, u'whistle', 0.069949567]
+[u'lighter', 0.098007776, u'safe', 0.05777093, u'binder', 0.042802099, u'abaya', 0.038145434, u'wardrobe', 0.031099984]
+[u'hatchet', 0.10725523, u'bow', 0.088484302, u'jersey', 0.043241091, u'swimming_trunks', 0.040906336, u'academic_gown', 0.027926467]
+[u'harp', 0.50271994, u'carousel', 0.10626785, u'flute', 0.072819136, u'groom', 0.049043953, u'oboe', 0.026652178]
+[u'envelope', 0.34061772, u'binder', 0.17058949, u'book_jacket', 0.062478062, u'web_site', 0.047473248, u'packet', 0.015656726]

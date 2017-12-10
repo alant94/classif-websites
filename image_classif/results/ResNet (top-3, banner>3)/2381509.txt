@@ -1,0 +1,4 @@
+[u'chocolate_sauce', 0.21993394, u'trifle', 0.20312399, u'lighter', 0.11426237]
+[u'bittern', 0.50303578, u'ear', 0.2007854, u'European_gallinule', 0.034463603]
+[u'gas_pump', 0.20597918, u'bow', 0.083363071, u'hook', 0.051047791]
+[u'candle', 0.24498993, u'paintbrush', 0.1342904, u'nipple', 0.077553689]

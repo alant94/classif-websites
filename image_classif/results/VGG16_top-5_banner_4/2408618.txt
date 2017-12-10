@@ -1,0 +1,2 @@
+[u'wall_clock', 0.26725754, u'crate', 0.08248426, u'tobacco_shop', 0.07059937, u'analog_clock', 0.052979585, u'plate_rack', 0.04729563]
+[u'matchstick', 0.075494952, u'nematode', 0.047321271, u'lighter', 0.0305136, u'digital_clock', 0.028821902, u'spotlight', 0.023491535]

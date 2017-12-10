@@ -1,0 +1,5 @@
+[u'web_site', 0.44754905, u'menu', 0.14348042, u'washbasin', 0.029244527]
+[u'book_jacket', 0.14650977, u'tray', 0.10703979, u'goldfish', 0.095150612]
+[u'sweatshirt', 0.12735808, u'jersey', 0.11981311, u'web_site', 0.11855759]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]
+[u'web_site', 0.53706074, u'menu', 0.4587923, u'envelope', 0.0020821295]

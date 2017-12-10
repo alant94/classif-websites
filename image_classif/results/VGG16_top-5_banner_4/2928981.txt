@@ -1,0 +1,4 @@
+[u'scoreboard', 0.16373958, u'street_sign', 0.087577976, u'gas_pump', 0.039252829, u'book_jacket', 0.039164715, u'digital_clock', 0.035021871]
+[u'bottlecap', 0.99994981, u'bolo_tie', 1.0907235e-05, u'bakery', 7.6702408e-06, u'face_powder', 4.2244601e-06, u'shield', 4.0190544e-06]
+[u'bell_cote', 0.19445039, u'picket_fence', 0.064826868, u'throne', 0.057667702, u'organ', 0.049623426, u'birdhouse', 0.04642915]
+[u'bottlecap', 0.99997854, u'bolo_tie', 5.3946715e-06, u'buckle', 3.6562658e-06, u'bakery', 2.3432324e-06, u'shield', 1.1691333e-06]

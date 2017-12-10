@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.9924044, u'picket_fence', 0.0029767614, u'strainer', 0.00095419161]
+[u'crossword_puzzle', 0.99419183, u'picket_fence', 0.0038239071, u'strainer', 0.00037705636]

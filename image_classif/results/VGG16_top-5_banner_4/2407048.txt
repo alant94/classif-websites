@@ -1,0 +1,1 @@
+[u'washer', 0.14184079, u'ashcan', 0.10420205, u'sunscreen', 0.08862222, u'photocopier', 0.082668744, u'bucket', 0.063959785]

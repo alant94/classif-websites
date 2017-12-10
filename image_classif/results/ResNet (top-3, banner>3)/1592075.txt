@@ -1,0 +1,5 @@
+[u'football_helmet', 0.28155261, u'bulletproof_vest', 0.045529645, u'Band_Aid', 0.023873398]
+[u'seat_belt', 0.25092787, u'brassiere', 0.18864144, u'tub', 0.10440875]
+[u'book_jacket', 0.12894984, u'Band_Aid', 0.10415603, u'web_site', 0.071519643]
+[u'web_site', 0.95187384, u'television', 0.034049895, u'monitor', 0.0023987305]
+[u'dingo', 0.62865049, u'Pembroke', 0.11675036, u'Cardigan', 0.071606539]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.14894645, u'swab', 0.11689458, u'coral_fungus', 0.080840386]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

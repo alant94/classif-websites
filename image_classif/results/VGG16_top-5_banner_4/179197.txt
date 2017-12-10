@@ -1,0 +1,7 @@
+[u'picket_fence', 0.2564413, u'flagpole', 0.17784153, u'pole', 0.046348732, u'mobile_home', 0.045978267, u'worm_fence', 0.037419427]
+[u'cassette', 0.54169106, u'iPod', 0.13911167, u'Polaroid_camera', 0.034334604, u'toilet_tissue', 0.014819986, u'tape_player', 0.014203387]
+[u'hard_disc', 0.75131017, u'web_site', 0.047558498, u'loupe', 0.033757456, u'menu', 0.02040612, u'washer', 0.0097040003]
+[u'street_sign', 0.10829993, u'envelope', 0.09656208, u'web_site', 0.059094608, u'chain_saw', 0.038325053, u'Band_Aid', 0.027497642]
+[u'perfume', 0.02241018, u'iron', 0.020767946, u'hourglass', 0.019957248, u'nipple', 0.019654466, u'knee_pad', 0.017667051]
+[u'coil', 0.26892626, u'bannister', 0.12906349, u'analog_clock', 0.070355348, u'wall_clock', 0.038830277, u'spotlight', 0.022963455]
+[u'dogsled', 0.64027506, u'ski', 0.19428316, u'alp', 0.11866769, u'shovel', 0.020416085, u'snowmobile', 0.012360482]

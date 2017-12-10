@@ -1,0 +1,2 @@
+[u'digital_clock', 0.13580447, u'packet', 0.072329305, u'hair_spray', 0.058630951, u'matchstick', 0.048507713, u'lighter', 0.042285744]
+[u'Band_Aid', 0.40311876, u'envelope', 0.14241399, u'binder', 0.050732415, u'rule', 0.047059268, u'packet', 0.038092423]

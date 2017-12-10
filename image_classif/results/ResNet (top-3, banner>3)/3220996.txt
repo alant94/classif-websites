@@ -1,0 +1,5 @@
+[u'book_jacket', 0.4619253, u'jean', 0.052039374, u'brass', 0.033474412]
+[u'barrel', 0.50639933, u'street_sign', 0.13976128, u'barbershop', 0.063019618]
+[u'doormat', 0.24825968, u'jean', 0.05522906, u'wool', 0.046270076]
+[u'book_jacket', 0.86887372, u'binder', 0.090163723, u'menu', 0.0059202472]
+[u'barrel', 0.80280626, u'ashcan', 0.037686944, u'theater_curtain', 0.019279297]

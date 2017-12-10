@@ -1,0 +1,2 @@
+[u'restaurant', 0.60378277, u'library', 0.11601931, u'dining_table', 0.086761452, u'crutch', 0.018520119, u'cello', 0.017588357]
+[u'fountain', 0.13433559, u'table_lamp', 0.051834442, u'barn_spider', 0.038336407, u'throne', 0.024594123, u'goblet', 0.024119398]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.65589821, u'menu', 0.076548919, u'web_site', 0.022669332, u'tray', 0.020887135, u'bakery', 0.018999642]
+[u'picket_fence', 0.98504448, u'worm_fence', 0.010638941, u'mobile_home', 0.00043389533, u'park_bench', 0.00031814852, u'patio', 0.00029822256]
+[u'puck', 0.46020204, u'bottlecap', 0.14329797, u'frying_pan', 0.072514132, u'gong', 0.06068214, u'loupe', 0.031286784]

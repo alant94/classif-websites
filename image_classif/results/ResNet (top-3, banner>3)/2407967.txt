@@ -1,0 +1,3 @@
+[u'pick', 0.090531871, u'shovel', 0.06534259, u'nail', 0.064737767]
+[u'toyshop', 0.2925871, u'restaurant', 0.22156157, u'barbershop', 0.1887469]
+[u'restaurant', 0.42573494, u'tobacco_shop', 0.29876336, u'barbershop', 0.13536842]

@@ -1,0 +1,2 @@
+[u'wig', 0.064340316, u'spatula', 0.061497562, u'bow_tie', 0.0445024]
+[u'toilet_tissue', 0.093759276, u'paper_towel', 0.085307427, u'toilet_seat', 0.068607002]

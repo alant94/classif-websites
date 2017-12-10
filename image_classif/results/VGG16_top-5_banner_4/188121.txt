@@ -1,0 +1,3 @@
+[u'running_shoe', 0.55760187, u'sandal', 0.27585056, u'clog', 0.047944419, u'Loafer', 0.023815719, u'wallet', 0.017153181]
+[u'scoreboard', 0.47467083, u'container_ship', 0.18044347, u'monitor', 0.12484716, u'screen', 0.0400341, u'tobacco_shop', 0.014621252]
+[u'running_shoe', 0.24585041, u'snowmobile', 0.18092485, u'tennis_ball', 0.07544969, u'hair_slide', 0.037889853, u'crash_helmet', 0.035676703]

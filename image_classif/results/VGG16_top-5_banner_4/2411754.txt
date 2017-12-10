@@ -1,0 +1,7 @@
+[u'barn_spider', 0.13407813, u'abaya', 0.10415883, u'jersey', 0.090222493, u'black_and_gold_garden_spider', 0.022593223, u'spider_web', 0.0217408]
+[u'packet', 0.14519136, u'lighter', 0.083912104, u'remote_control', 0.058282025, u'cellular_telephone', 0.054552373, u'coffee_mug', 0.048694134]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'burrito', 0.48641595, u'hotdog', 0.42541221, u'cheeseburger', 0.049712371, u'meat_loaf', 0.0054406221, u'guacamole', 0.004841662]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

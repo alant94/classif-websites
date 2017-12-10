@@ -1,0 +1,2 @@
+[u'ambulance', 0.54783469, u'Band_Aid', 0.11922792, u'digital_clock', 0.076545879]
+[u'shoe_shop', 0.11183792, u'aircraft_carrier', 0.10892293, u'grocery_store', 0.061611246]

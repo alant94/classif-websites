@@ -1,0 +1,2 @@
+[u'sunscreen', 0.35084215, u'street_sign', 0.34934938, u'book_jacket', 0.056319688]
+[u'crossword_puzzle', 0.86978549, u'turnstile', 0.024441941, u'picket_fence', 0.013057898]

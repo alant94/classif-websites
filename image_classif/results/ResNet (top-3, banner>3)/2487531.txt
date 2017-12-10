@@ -1,0 +1,3 @@
+[u'water_buffalo', 0.34810176, u'wild_boar', 0.26585454, u'bighorn', 0.11821832]
+[u'syringe', 0.33666107, u'ballpoint', 0.188379, u'paintbrush', 0.044194404]
+[u'brown_bear', 0.75785887, u'American_black_bear', 0.20156972, u'wild_boar', 0.022847846]

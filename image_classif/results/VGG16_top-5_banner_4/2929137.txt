@@ -1,0 +1,1 @@
+[u'guillotine', 0.71323705, u'pay-phone', 0.042451963, u'barbershop', 0.030396448, u'fur_coat', 0.014625778, u'sliding_door', 0.012921416]

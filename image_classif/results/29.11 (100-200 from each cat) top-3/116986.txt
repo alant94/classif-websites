@@ -1,0 +1,2 @@
+[u'scoreboard', 0.33298036, u'digital_clock', 0.22948807, u'oscilloscope', 0.17919399]
+[u'web_site', 0.46198788, u'envelope', 0.11488541, u'slot', 0.070515275]

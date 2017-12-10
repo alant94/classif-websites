@@ -1,0 +1,2 @@
+[u'picket_fence', 0.3495304, u'monitor', 0.12147525, u'web_site', 0.063673675, u'screen', 0.047202379, u'digital_clock', 0.039259706]
+[u'web_site', 0.15624, u'book_jacket', 0.093599103, u'envelope', 0.080242738, u'screwdriver', 0.059144214, u'rule', 0.05711706]

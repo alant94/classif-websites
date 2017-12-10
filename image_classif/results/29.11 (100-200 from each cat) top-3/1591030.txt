@@ -1,0 +1,5 @@
+[u'picket_fence', 0.66188037, u'hair_spray', 0.077251986, u'panpipe', 0.017937224]
+[u'barbershop', 0.48617887, u'sliding_door', 0.16858679, u'ballpoint', 0.085192196]
+[u'brassiere', 0.15201934, u'bathtub', 0.14615402, u'hand_blower', 0.042934101]
+[u'web_site', 0.48879769, u'digital_clock', 0.2517502, u'digital_watch', 0.028013051]
+[u'swimming_trunks', 0.6982435, u'bath_towel', 0.073303774, u'bathtub', 0.040672809]

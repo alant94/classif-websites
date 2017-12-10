@@ -1,0 +1,3 @@
+[u'bell_cote', 0.47985363, u'wall_clock', 0.044785131, u'jigsaw_puzzle', 0.034409039, u'picket_fence', 0.030510923, u'church', 0.022830769]
+[u'traffic_light', 0.40084767, u'street_sign', 0.32860103, u'hook', 0.03460943, u'maze', 0.034592949, u'binder', 0.0097976197]
+[u'fur_coat', 0.042073678, u'snowplow', 0.024624621, u'tub', 0.018647082, u'poncho', 0.016290765, u'armadillo', 0.015670419]

@@ -1,0 +1,4 @@
+[u'swimming_trunks', 0.055985641, u'bow_tie', 0.04812168, u'diaper', 0.040538616, u'saltshaker', 0.035027821, u'nipple', 0.032770321]
+[u'combination_lock', 0.4285523, u'mailbox', 0.078552112, u'buckle', 0.072229981, u'dial_telephone', 0.036681037, u'typewriter_keyboard', 0.030750072]
+[u'Windsor_tie', 0.43809533, u'bow_tie', 0.18085951, u'seat_belt', 0.089974813, u'suit', 0.020975597, u'lab_coat', 0.020207144]
+[u'lighter', 0.12875646, u'buckle', 0.10425291, u'bolo_tie', 0.054336105, u'letter_opener', 0.045555715, u'shield', 0.044826433]

@@ -1,0 +1,3 @@
+[u'safe', 0.17890903, u'china_cabinet', 0.16998398, u'crib', 0.16015156, u'fire_screen', 0.15863089, u'binder', 0.056571081]
+[u'hair_spray', 0.25003871, u'baseball', 0.034944721, u'packet', 0.028355466, u'pop_bottle', 0.02756284, u'lighter', 0.02661591]
+[u'web_site', 0.519391, u'menu', 0.17645378, u'hand_blower', 0.024331748, u'envelope', 0.021836512, u'power_drill', 0.0088391965]

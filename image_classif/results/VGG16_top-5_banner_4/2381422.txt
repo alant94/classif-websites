@@ -1,0 +1,2 @@
+[u'beer_glass', 0.8163802, u'beer_bottle', 0.035824526, u'pill_bottle', 0.022559561, u'perfume', 0.017425347, u'espresso', 0.016730439]
+[u'web_site', 0.3003388, u'comic_book', 0.049308196, u'eggnog', 0.037851091, u'pill_bottle', 0.03401842, u'sunscreen', 0.030759765]

@@ -1,0 +1,7 @@
+[u'custard_apple', 0.42695361, u'pineapple', 0.10221296, u'lemon', 0.08179298, u'acorn_squash', 0.054742385, u'cucumber', 0.027852716]
+[u'yurt', 0.34926826, u'mobile_home', 0.1489853, u'boathouse', 0.087294251, u'church', 0.075693205, u'greenhouse', 0.034153197]
+[u'torch', 0.69267952, u'volcano', 0.12554073, u'stage', 0.046027273, u'caldron', 0.02049177, u'candle', 0.015940692]
+[u'restaurant', 0.48568243, u'barbershop', 0.10647001, u'barber_chair', 0.095301308, u'dining_table', 0.025208963, u'library', 0.023502726]
+[u'red_wine', 0.94362956, u'goblet', 0.041092373, u'wine_bottle', 0.011618713, u'beer_glass', 0.0012614682, u'hummingbird', 0.00039703248]
+[u'patio', 0.28340229, u'pot', 0.12931162, u'greenhouse', 0.087555051, u'picket_fence', 0.064933479, u'restaurant', 0.059314229]
+[u'barrel', 0.61795938, u'milk_can', 0.043267626, u'tractor', 0.032273289, u'gong', 0.026143085, u'rain_barrel', 0.022700621]

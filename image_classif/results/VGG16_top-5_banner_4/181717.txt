@@ -1,0 +1,1 @@
+[u'street_sign', 0.15823063, u'cinema', 0.12218898, u'beacon', 0.087269619, u'lighter', 0.071628027, u'traffic_light', 0.069211036]

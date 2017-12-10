@@ -1,0 +1,4 @@
+[u'shower_cap', 0.24192999, u'lab_coat', 0.16162048, u'oxygen_mask', 0.12797955, u'stethoscope', 0.03884998, u"potter's_wheel", 0.036210798]
+[u'lab_coat', 0.30880034, u'cash_machine', 0.058722913, u'library', 0.053875796, u'barbershop', 0.0350524, u'web_site', 0.030786203]
+[u'lab_coat', 0.81161213, u'barbershop', 0.049250782, u'barber_chair', 0.029359747, u'plastic_bag', 0.029243974, u'shower_cap', 0.010194945]
+[u'lab_coat', 0.92413723, u'barbershop', 0.044167027, u'oxygen_mask', 0.0074747819, u'barber_chair', 0.0052683428, u'cash_machine', 0.0042390614]

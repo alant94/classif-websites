@@ -1,0 +1,4 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'digital_clock', 0.18276326, u'digital_watch', 0.072536498, u"carpenter's_kit", 0.056163855, u'modem', 0.04357142, u'rubber_eraser', 0.042668123]
+[u'web_site', 0.9429158, u'CD_player', 0.0079296539, u'digital_clock', 0.0052729547, u'radio', 0.003989344, u'stopwatch', 0.0038850771]
+[u'web_site', 0.88656247, u'screen', 0.031851437, u'monitor', 0.021667413, u'cash_machine', 0.016586259, u'television', 0.011184948]

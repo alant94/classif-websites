@@ -1,0 +1,1 @@
+[u'bannister', 0.68520677, u'prison', 0.067744963, u'steel_arch_bridge', 0.06072405, u'shoji', 0.037599567, u'sliding_door', 0.019502986]

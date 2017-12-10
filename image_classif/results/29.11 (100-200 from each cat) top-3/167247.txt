@@ -1,0 +1,8 @@
+[u'chime', 0.39442596, u'pole', 0.14394607, u'drumstick', 0.093974121]
+[u'chime', 0.70347875, u'drumstick', 0.098709196, u'panpipe', 0.021867545]
+[u'chime', 0.1771829, u'panpipe', 0.12677419, u'nail', 0.096669771]
+[u'pole', 0.19625494, u'ballpoint', 0.11772271, u'nail', 0.10670044]
+[u'pole', 0.31906128, u'nail', 0.27166271, u'screw', 0.21050805]
+[u'web_site', 0.23328154, u'Windsor_tie', 0.21451341, u'nail', 0.063842319]
+[u'harp', 0.92663276, u'panpipe', 0.020559186, u'cello', 0.016113393]
+[u'web_site', 0.29124874, u'electric_fan', 0.1726637, u'envelope', 0.028052811]

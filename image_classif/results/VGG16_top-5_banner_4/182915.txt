@@ -1,0 +1,4 @@
+[u'whistle', 0.15496942, u'pencil_sharpener', 0.093602441, u'wall_clock', 0.0911844, u'bubble', 0.060128439, u'church', 0.043518197]
+[u'combination_lock', 0.19295456, u'muzzle', 0.13753302, u'shopping_basket', 0.094845712, u'gasmask', 0.076307692, u"carpenter's_kit", 0.06388016]
+[u'switch', 0.24650243, u'whistle', 0.067163721, u'web_site', 0.045541782, u'scale', 0.042547729, u'hair_slide', 0.042174447]
+[u'power_drill', 0.074571885, u'digital_clock', 0.052564062, u'abacus', 0.041842509, u'screwdriver', 0.040128298, u'turnstile', 0.039451122]

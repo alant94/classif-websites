@@ -1,0 +1,3 @@
+[u'wardrobe', 0.48887521, u'butcher_shop', 0.15514989, u'stole', 0.028421152, u'lab_coat', 0.02463834, u'abaya', 0.0200528]
+[u'brass', 0.12832126, u'cleaver', 0.081548378, u'book_jacket', 0.046665546, u'mailbox', 0.036523666, u'butcher_shop', 0.033476308]
+[u'sunscreen', 0.065831624, u'coffee_mug', 0.042771854, u'pick', 0.040972829, u'web_site', 0.040344473, u'neck_brace', 0.025118679]

@@ -1,0 +1,5 @@
+[u'hook', 0.82047123, u'whistle', 0.017213477, u'web_site', 0.017159535]
+[u'suit', 0.76624459, u'groom', 0.17980957, u'academic_gown', 0.012485888]
+[u'web_site', 0.30642211, u'envelope', 0.032964472, u'dishwasher', 0.021264799]
+[u'shield', 0.3069348, u'traffic_light', 0.17164133, u'lighter', 0.14118549]
+[u'television', 0.28009999, u'monitor', 0.14764787, u'screen', 0.12464557]

@@ -1,0 +1,6 @@
+[u'unicycle', 0.63985133, u'bannister', 0.13311765, u'ski', 0.051117785]
+[u'rifle', 0.43026686, u'assault_rifle', 0.38182145, u'cannon', 0.020834591]
+[u'poncho', 0.19470435, u'cardigan', 0.068256103, u'book_jacket', 0.066964038]
+[u'maillot', 0.3074007, u'sunglass', 0.12067628, u'sunglasses', 0.070824444]
+[u'fur_coat', 0.79561198, u'fountain', 0.027574509, u'megalith', 0.019345257]
+[u'groom', 0.50264806, u'gown', 0.050086532, u'bow_tie', 0.040950768]

@@ -1,0 +1,1 @@
+[u'barbershop', 0.48566398, u'tobacco_shop', 0.19871634, u'restaurant', 0.066567793, u'bakery', 0.065014221, u'bookshop', 0.064940348]

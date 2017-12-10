@@ -1,0 +1,2 @@
+[u'matchstick', 0.30413437, u'oscilloscope', 0.12781738, u"jack-o'-lantern", 0.084732346, u'volcano', 0.081979662, u'digital_clock', 0.052694768]
+[u'oscilloscope', 0.9813363, u'digital_clock', 0.016817473, u'digital_watch', 0.0006858214, u'screen', 0.00034832556, u'analog_clock', 0.00034036822]

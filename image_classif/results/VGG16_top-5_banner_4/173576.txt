@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.22606854, u'envelope', 0.19824827, u'Windsor_tie', 0.13010705, u'crossword_puzzle', 0.037600376, u'web_site', 0.023607507]
+[u'totem_pole', 0.087772436, u'wardrobe', 0.05452732, u'cleaver', 0.043541227, u'vestment', 0.030939566, u'academic_gown', 0.03012915]
+[u'Windsor_tie', 0.31215262, u'Band_Aid', 0.085105211, u'envelope', 0.045118418, u'web_site', 0.029004345, u'velvet', 0.015415869]
+[u'fountain_pen', 0.090439156, u'theater_curtain', 0.087718271, u'mask', 0.064403892, u'vestment', 0.04997481, u'chime', 0.041901957]
+[u'crossword_puzzle', 0.13966501, u'envelope', 0.13934876, u'rule', 0.059595823, u'Band_Aid', 0.049010385, u'digital_clock', 0.03079878]
+[u'stole', 0.17625934, u'cloak', 0.13580194, u'cardigan', 0.049045254, u'gown', 0.038572006, u'swab', 0.035762057]
+[u'crossword_puzzle', 0.38358641, u'Windsor_tie', 0.16647184, u'digital_clock', 0.12283553, u'prayer_rug', 0.032345913, u'scoreboard', 0.032213338]
+[u'hook', 0.15791106, u'chain', 0.10268818, u'picket_fence', 0.095734157, u'nail', 0.061575867, u'schooner', 0.049292415]

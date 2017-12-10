@@ -1,0 +1,3 @@
+[u'web_site', 0.31071222, u'nematode', 0.092197739, u'matchstick', 0.028259054]
+[u'wine_bottle', 0.56825328, u'lotion', 0.14828283, u'red_wine', 0.10485657]
+[u'geyser', 0.3425999, u'valley', 0.18824703, u'worm_fence', 0.05505614]

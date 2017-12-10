@@ -1,0 +1,6 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'ping-pong_ball', 0.97918898, u'golf_ball', 0.012630287, u'lotion', 0.0024775253]
+[u'panpipe', 0.10947934, u'harmonica', 0.075044006, u'bookshop', 0.064907551]
+[u'bannister', 0.5176748, u'picket_fence', 0.24997762, u'comic_book', 0.05708345]
+[u'grand_piano', 0.1252441, u'barbell', 0.11060071, u'accordion', 0.058310162]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

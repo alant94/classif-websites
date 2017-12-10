@@ -1,0 +1,7 @@
+[u'thresher', 0.66071159, u'ambulance', 0.049911931, u'paddlewheel', 0.03390247]
+[u'envelope', 0.15465462, u'web_site', 0.059701566, u'screw', 0.052400824]
+[u'lighter', 0.21069781, u'loudspeaker', 0.15067446, u'web_site', 0.066846021]
+[u'book_jacket', 0.29257455, u'comic_book', 0.24089995, u'jersey', 0.028489305]
+[u'pill_bottle', 0.098957121, u'analog_clock', 0.053475287, u'soap_dispenser', 0.045485362]
+[u'digital_clock', 0.35985249, u'scoreboard', 0.11062035, u'street_sign', 0.058937173]
+[u'traffic_light', 0.27713668, u'street_sign', 0.17414716, u'digital_clock', 0.075506434]

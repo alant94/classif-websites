@@ -1,0 +1,2 @@
+[u'goblet', 0.78806001, u'eggnog', 0.051803451, u'beer_glass', 0.029543556, u'cup', 0.029492294, u'candle', 0.011339809]
+[u'perfume', 0.075351544, u'candle', 0.061201859, u'rotisserie', 0.0552947, u'space_heater', 0.051221509, u'beaker', 0.047370072]

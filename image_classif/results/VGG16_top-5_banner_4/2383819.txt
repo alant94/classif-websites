@@ -1,0 +1,5 @@
+[u'web_site', 0.96436203, u'monitor', 0.012562139, u'lakeside', 0.0033254689, u'screen', 0.0031365419, u'television', 0.0022620899]
+[u'rapeseed', 0.28451797, u'lakeside', 0.27838153, u'web_site', 0.075443737, u'barn', 0.064696394, u'park_bench', 0.017666593]
+[u'lakeside', 0.29164693, u'castle', 0.13924204, u'valley', 0.13445146, u'dam', 0.047727592, u'rapeseed', 0.042824969]
+[u'rubber_eraser', 0.27976358, u'croquet_ball', 0.13899621, u'hair_spray', 0.12302762, u'thimble', 0.085399754, u'medicine_chest', 0.04735345]
+[u'book_jacket', 0.099810101, u'scoreboard', 0.046942972, u'digital_clock', 0.03449947, u'street_sign', 0.033982359, u'analog_clock', 0.027876614]

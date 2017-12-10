@@ -1,0 +1,3 @@
+[u'web_site', 0.2950539, u'refrigerator', 0.17295061, u'dishwasher', 0.096288688]
+[u'refrigerator', 0.27674356, u'binder', 0.12267931, u'pedestal', 0.095260799]
+[u'envelope', 0.26701683, u'entertainment_center', 0.10075174, u'cash_machine', 0.091699809]

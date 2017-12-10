@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.90703243, u'china_cabinet', 0.049630392, u'cocktail_shaker', 0.01103541, u'bookcase', 0.0057514557, u'wine_bottle', 0.0053476752]

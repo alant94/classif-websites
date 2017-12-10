@@ -1,0 +1,2 @@
+[u'airliner', 0.20209275, u'aircraft_carrier', 0.076734878, u'ambulance', 0.074370161, u'warplane', 0.063558385, u'bullet_train', 0.048889983]
+[u'digital_clock', 0.32425249, u'balloon', 0.23117192, u'bubble', 0.053462259, u'spotlight', 0.04905327, u'bottlecap', 0.045553111]

@@ -1,0 +1,1 @@
+[u'street_sign', 0.19214852, u'balloon', 0.11271922, u'traffic_light', 0.098132044, u'cinema', 0.042963054, u'airship', 0.034371771]

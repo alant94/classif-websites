@@ -1,0 +1,3 @@
+[u'book_jacket', 0.23691507, u'black_stork', 0.082128882, u'mortarboard', 0.073324412, u'academic_gown', 0.066959374, u'cash_machine', 0.041066751]
+[u'whistle', 0.19509487, u'digital_clock', 0.093704052, u'envelope', 0.068957202, u'container_ship', 0.04387318, u'crane', 0.03594555]
+[u'envelope', 0.81731361, u'web_site', 0.058601953, u'binder', 0.0092181237, u'whistle', 0.0077807084, u'monitor', 0.0053518191]

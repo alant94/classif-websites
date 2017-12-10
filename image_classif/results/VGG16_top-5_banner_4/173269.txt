@@ -1,0 +1,6 @@
+[u'banjo', 0.13416919, u'acoustic_guitar', 0.10051338, u'violin', 0.063497312, u'drum', 0.062303137, u'mouse', 0.034534924]
+[u'pedestal', 0.05768694, u'pill_bottle', 0.054800369, u'nipple', 0.028310051, u'candle', 0.024496779, u'envelope', 0.02087489]
+[u'acoustic_guitar', 0.99947029, u'electric_guitar', 0.00026375309, u'pick', 0.00018960751, u'banjo', 5.670033e-05, u'violin', 7.3883389e-06]
+[u'barbershop', 0.14031623, u'plane', 0.064591743, u'marimba', 0.058805194, u'lumbermill', 0.05869633, u'barber_chair', 0.032384109]
+[u'mouse', 0.43776038, u'iPod', 0.038050786, u'ocarina', 0.03276762, u'mousetrap', 0.029639436, u'piggy_bank', 0.028618325]
+[u'barbershop', 0.13343109, u'burrito', 0.091261588, u"potter's_wheel", 0.059829101, u'coffee_mug', 0.032375552, u'crossword_puzzle', 0.029246936]

@@ -1,0 +1,7 @@
+[u'abaya', 0.19811481, u'bookshop', 0.062392198, u'mortarboard', 0.053987037, u'book_jacket', 0.043888263, u'crutch', 0.036360525]
+[u'butcher_shop', 0.4990668, u'grocery_store', 0.12362728, u'pop_bottle', 0.044309188, u'comic_book', 0.027016345, u'ski', 0.023577653]
+[u'web_site', 0.12584485, u'envelope', 0.099115096, u'pill_bottle', 0.085626252, u'Band_Aid', 0.062344287, u'perfume', 0.045738526]
+[u'comic_book', 0.18353331, u'beer_bottle', 0.055327728, u'pop_bottle', 0.053139117, u'wine_bottle', 0.049471758, u'book_jacket', 0.038719635]
+[u'web_site', 0.21111192, u'cash_machine', 0.067070179, u'screen', 0.051089257, u'street_sign', 0.038396321, u'menu', 0.0340234]
+[u'comic_book', 0.15982085, u'rifle', 0.066265546, u'book_jacket', 0.05445677, u'butcher_shop', 0.042606436, u'bookshop', 0.039023772]
+[u'web_site', 0.64948881, u'book_jacket', 0.053237993, u'vending_machine', 0.034709208, u'cash_machine', 0.029796014, u'comic_book', 0.025213188]

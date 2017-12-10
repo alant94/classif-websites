@@ -1,0 +1,2 @@
+[u'spotlight', 0.30792379, u'microphone', 0.21393898, u'gasmask', 0.16936706, u'oxygen_mask', 0.041061927, u'reflex_camera', 0.016814826]
+[u'rule', 0.20008698, u'modem', 0.19326517, u'switch', 0.080915108, u'radio', 0.039119333, u'nail', 0.031849079]

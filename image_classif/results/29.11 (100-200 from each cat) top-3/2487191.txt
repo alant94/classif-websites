@@ -1,0 +1,4 @@
+[u'picket_fence', 0.28088006, u'church', 0.1873191, u'barn', 0.16936125]
+[u'Irish_wolfhound', 0.3955186, u'Scottish_deerhound', 0.11654826, u'Bouvier_des_Flandres', 0.067759983]
+[u'crossword_puzzle', 0.32670575, u'jersey', 0.072270691, u'slide_rule', 0.062332194]
+[u'pick', 0.9162423, u'puck', 0.01474831, u'bottlecap', 0.01126887]

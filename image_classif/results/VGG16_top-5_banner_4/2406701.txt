@@ -1,0 +1,2 @@
+[u'gown', 0.27896065, u'velvet', 0.26746887, u'overskirt', 0.22238158, u'kimono', 0.066434227, u'hoopskirt', 0.045926496]
+[u'hoopskirt', 0.35200858, u'overskirt', 0.2739099, u'gown', 0.17357372, u'web_site', 0.11637683, u'pedestal', 0.033465076]

@@ -1,0 +1,2 @@
+[u'sunscreen', 0.34746379, u'oil_filter', 0.12189789, u'lotion', 0.068923824, u'pill_bottle', 0.046255529, u'nipple', 0.04451054]
+[u'bottlecap', 0.99999678, u'buckeye', 2.830832e-06, u'packet', 6.4209502e-08, u'bolo_tie', 5.5084325e-08, u'potpie', 4.717079e-08]

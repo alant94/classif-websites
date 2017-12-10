@@ -1,0 +1,3 @@
+[u'refrigerator', 0.33093432, u'vending_machine', 0.13589537, u'Petri_dish', 0.076147266, u'pill_bottle', 0.053732511, u'microwave', 0.047144622]
+[u'switch', 0.26749012, u'screw', 0.15413903, u'wall_clock', 0.10538892, u'plate_rack', 0.064716935, u'pencil_sharpener', 0.03994501]
+[u'oil_filter', 0.3307856, u'sunscreen', 0.13197291, u'measuring_cup', 0.12023652, u'pill_bottle', 0.1026887, u'lotion', 0.051019248]

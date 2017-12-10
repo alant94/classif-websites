@@ -1,0 +1,8 @@
+[u'confectionery', 0.12664409, u'toyshop', 0.066717431, u'bookshop', 0.062802672, u'tobacco_shop', 0.062508896, u'library', 0.045561533]
+[u'electric_guitar', 0.21346521, u'shoe_shop', 0.11634361, u'cleaver', 0.098487116, u'rifle', 0.07882975, u'paintbrush', 0.0778483]
+[u'web_site', 0.21535566, u'book_jacket', 0.20588465, u'envelope', 0.022726966, u'comic_book', 0.01565079, u'Windsor_tie', 0.010980278]
+[u'church', 0.2165609, u'picket_fence', 0.10171682, u'alp', 0.095315829, u'worm_fence', 0.070235252, u'maze', 0.070164092]
+[u'pajama', 0.16632998, u'maraca', 0.113013, u'school_bus', 0.075872473, u"jack-o'-lantern", 0.057547349, u'altar', 0.031982321]
+[u'matchstick', 0.1251545, u'beer_glass', 0.040235091, u'ice_lolly', 0.030950477, u'paintbrush', 0.03005814, u'spatula', 0.026880652]
+[u'wine_bottle', 0.27162892, u'perfume', 0.21971475, u'lotion', 0.20695895, u'red_wine', 0.059664119, u'face_powder', 0.028472371]
+[u'church', 0.17745633, u'picket_fence', 0.11470912, u'beacon', 0.10817786, u'barn', 0.10430006, u'water_tower', 0.087418318]

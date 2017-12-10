@@ -1,0 +1,3 @@
+[u'pretzel', 0.26175886, u'coral_fungus', 0.065051198, u'mushroom', 0.047297981, u'dough', 0.045799755, u'gyromitra', 0.034591451]
+[u'fountain', 0.35227016, u'butcher_shop', 0.083402701, u'cleaver', 0.076972343, u'microphone', 0.065518059, u'mask', 0.05569908]
+[u'tow_truck', 0.38946635, u'pickup', 0.24202357, u'garbage_truck', 0.068187028, u'trailer_truck', 0.064551033, u'moving_van', 0.051234804]

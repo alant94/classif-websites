@@ -1,0 +1,1 @@
+[u'mask', 0.81002557, u'ski_mask', 0.18734978, u'saltshaker', 0.00088499789, u'comic_book', 0.00028018156, u'toyshop', 0.00018834356]

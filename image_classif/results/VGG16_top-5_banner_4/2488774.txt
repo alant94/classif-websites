@@ -1,0 +1,3 @@
+[u'bookshop', 0.19783095, u'tobacco_shop', 0.10734162, u'book_jacket', 0.071136393, u'cash_machine', 0.042693701, u'comic_book', 0.035165299]
+[u'sweatshirt', 0.11349484, u'shower_cap', 0.085613601, u'poncho', 0.046536054, u'cardigan', 0.032930452, u'plunger', 0.027990069]
+[u'drumstick', 0.068821177, u'plunger', 0.046007171, u'hammer', 0.044321716, u'hatchet', 0.03865853, u'ballplayer', 0.037748531]

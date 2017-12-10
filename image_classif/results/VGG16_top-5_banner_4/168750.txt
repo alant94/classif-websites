@@ -1,0 +1,2 @@
+[u'palace', 0.19811299, u'theater_curtain', 0.15356508, u'church', 0.10237955, u'cinema', 0.044678248, u'throne', 0.031653352]
+[u'web_site', 0.33868018, u'envelope', 0.1628986, u'lighter', 0.012631264, u'analog_clock', 0.012606249, u'velvet', 0.010654096]

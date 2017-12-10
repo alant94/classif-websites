@@ -1,0 +1,1 @@
+[u'trolleybus', 0.20281801, u'cinema', 0.1634526, u'streetcar', 0.1144216, u'minibus', 0.090517178, u'fire_engine', 0.046063974]

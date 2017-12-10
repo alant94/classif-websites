@@ -1,0 +1,3 @@
+[u'menu', 0.86667734, u'book_jacket', 0.035930313, u'packet', 0.016368033, u'web_site', 0.011382148, u'theater_curtain', 0.0085998075]
+[u'pill_bottle', 0.14088225, u'perfume', 0.13415338, u'lighter', 0.12724641, u'beer_glass', 0.11121845, u'red_wine', 0.031204598]
+[u'nail', 0.11935291, u'hammer', 0.077730224, u'dumbbell', 0.058849897, u'barbell', 0.058723111, u'fur_coat', 0.041494641]

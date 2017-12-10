@@ -1,0 +1,2 @@
+[u'laptop', 0.11305997, u'library', 0.063560702, u'comic_book', 0.037843376, u'refrigerator', 0.032138947, u'shopping_cart', 0.031658415]
+[u'torch', 0.090378068, u'triceratops', 0.067653619, u'candle', 0.057908248, u'conch', 0.051744081, u'rotisserie', 0.026988894]

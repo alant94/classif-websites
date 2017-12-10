@@ -1,0 +1,1 @@
+[u'volcano', 0.22537565, u'geyser', 0.1068639, u'sandbar', 0.029609041, u'seashore', 0.022233991, u'car_mirror', 0.021055648]

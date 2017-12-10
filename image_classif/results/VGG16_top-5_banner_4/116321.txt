@@ -1,0 +1,2 @@
+[u'swab', 0.53448117, u'broom', 0.084150948, u'hatchet', 0.053604394, u'matchstick', 0.03189094, u'torch', 0.018179283]
+[u'sandbar', 0.36920834, u'seashore', 0.30348736, u'lakeside', 0.11269876, u'promontory', 0.10476557, u'breakwater', 0.025489541]

@@ -1,0 +1,6 @@
+[u'bow_tie', 0.79005104, u'perfume', 0.036273789, u'lab_coat', 0.027211243]
+[u'beer_glass', 0.49876443, u'beer_bottle', 0.1692085, u'red_wine', 0.1362271]
+[u'beer_glass', 0.82768917, u'beer_bottle', 0.10443049, u'pill_bottle', 0.063872762]
+[u'book_jacket', 0.10333288, u'bow', 0.091227047, u'rifle', 0.089531772]
+[u'book_jacket', 0.68062001, u'envelope', 0.067721851, u'tray', 0.033736102]
+[u'African_grey', 0.1967818, u'parking_meter', 0.11835469, u'breastplate', 0.078847989]

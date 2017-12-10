@@ -1,0 +1,2 @@
+[u'Arabian_camel', 0.40364149, u'baboon', 0.17002006, u'Indian_elephant', 0.12173786, u'tusker', 0.066071868, u'lion', 0.024142228]
+[u'tub', 0.3511351, u'bathtub', 0.23941727, u'bath_towel', 0.13283186, u'cowboy_hat', 0.027109886, u'shower_cap', 0.023583449]

@@ -1,0 +1,7 @@
+[u'digital_clock', 0.33818069, u'maze', 0.11894359, u'wall_clock', 0.056336604, u'prayer_rug', 0.054857474, u'scoreboard', 0.048655797]
+[u'envelope', 0.13651328, u'web_site', 0.12714478, u'nematode', 0.031184684, u'washbasin', 0.022314219, u'matchstick', 0.014959186]
+[u'web_site', 0.1292664, u'matchstick', 0.038669221, u'bubble', 0.02431168, u'analog_clock', 0.020976486, u'envelope', 0.019925047]
+[u'web_site', 0.13939106, u'envelope', 0.077670209, u'candle', 0.06451004, u'matchstick', 0.036932915, u'wardrobe', 0.033961967]
+[u'digital_clock', 0.64323932, u'envelope', 0.049695656, u'digital_watch', 0.034139238, u'Band_Aid', 0.030658651, u'web_site', 0.025936613]
+[u'envelope', 0.66737419, u'ambulance', 0.084907167, u'shield', 0.021365304, u'puck', 0.019048663, u'police_van', 0.018464711]
+[u'envelope', 0.12919253, u'web_site', 0.076005757, u'lighter', 0.063804314, u'wardrobe', 0.060368687, u'candle', 0.049905632]

@@ -1,0 +1,7 @@
+[u'bassoon', 0.1617903, u'suit', 0.1388437, u'racket', 0.10080673, u'oboe', 0.09654557, u'Windsor_tie', 0.040119894]
+[u'suit', 0.24871914, u'racket', 0.10351336, u'Windsor_tie', 0.04672109, u'stage', 0.037874013, u'oboe', 0.03510353]
+[u'digital_clock', 0.15353875, u'spotlight', 0.081405506, u'analog_clock', 0.042831525, u'web_site', 0.02568577, u'beacon', 0.02332706]
+[u'comic_book', 0.24349788, u'cash_machine', 0.19024715, u'barbershop', 0.061766505, u'vending_machine', 0.047495611, u'slot', 0.037644602]
+[u'lampshade', 0.10224039, u'monitor', 0.099826097, u'vase', 0.077715032, u'matchstick', 0.069805056, u'spotlight', 0.052306581]
+[u'abaya', 0.31214836, u'suit', 0.13699386, u'prison', 0.057682365, u'torch', 0.037795715, u'groom', 0.033264559]
+[u'picket_fence', 0.36712414, u'paintbrush', 0.19523941, u'matchstick', 0.10222016, u'fountain', 0.053688429, u'red_wine', 0.030228758]

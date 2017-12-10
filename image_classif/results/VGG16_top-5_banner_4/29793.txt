@@ -1,0 +1,2 @@
+[u'catamaran', 0.28277716, u'sarong', 0.17540894, u'trimaran', 0.067274511, u'conch', 0.065998092, u'gar', 0.063375935]
+[u'reel', 0.75977635, u'gar', 0.15031017, u'barracouta', 0.025618521, u'coho', 0.02345039, u'schooner', 0.010122687]

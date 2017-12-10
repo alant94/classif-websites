@@ -1,0 +1,5 @@
+[u'tub', 0.54934472, u'bathtub', 0.35116476, u'Band_Aid', 0.0065281414]
+[u'analog_clock', 0.87784261, u'wall_clock', 0.026091401, u'tripod', 0.019405836]
+[u'swimming_trunks', 0.73092759, u'bathing_cap', 0.032235984, u'bikini', 0.023036119]
+[u'tub', 0.47294742, u'bathtub', 0.23031773, u'swimming_trunks', 0.043729242]
+[u"potter's_wheel", 0.11623307, u'hog', 0.10024624, u'harmonica', 0.098627008]

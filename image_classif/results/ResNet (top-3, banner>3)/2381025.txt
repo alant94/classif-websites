@@ -1,0 +1,8 @@
+[u'digital_watch', 0.34071791, u'digital_clock', 0.23958419, u'Band_Aid', 0.026906956]
+[u'fig', 0.89211148, u'pomegranate', 0.015566402, u'lemon', 0.014850052]
+[u'Polaroid_camera', 0.96026677, u'projector', 0.016123656, u'loudspeaker', 0.0087303882]
+[u'web_site', 0.11152167, u'binder', 0.10794578, u'envelope', 0.059885971]
+[u'comic_book', 0.2805678, u'wine_bottle', 0.11798593, u'Crock_Pot', 0.083137624]
+[u'beer_bottle', 0.83085334, u'wine_bottle', 0.14746691, u'beer_glass', 0.013489271]
+[u'lighter', 0.1164668, u'book_jacket', 0.064302601, u'binder', 0.059930589]
+[u'digital_clock', 0.11996995, u'web_site', 0.068807587, u'Band_Aid', 0.068399988]

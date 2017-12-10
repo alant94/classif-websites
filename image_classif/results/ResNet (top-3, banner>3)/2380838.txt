@@ -1,0 +1,4 @@
+[u'street_sign', 0.20617431, u'book_jacket', 0.12905215, u'puck', 0.076972604]
+[u'web_site', 0.8477211, u'envelope', 0.0095873363, u'bannister', 0.0039348244]
+[u'caldron', 0.85752678, u'punching_bag', 0.076958969, u'dome', 0.018689459]
+[u'comic_book', 0.21922904, u'web_site', 0.13081305, u'book_jacket', 0.059192237]

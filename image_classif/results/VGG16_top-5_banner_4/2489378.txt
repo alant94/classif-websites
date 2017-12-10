@@ -1,0 +1,2 @@
+[u'bow', 0.073226281, u'panpipe', 0.056050967, u'sunscreen', 0.049401589, u'gong', 0.03209167, u'tennis_ball', 0.032084052]
+[u'dogsled', 0.21635474, u'EntleBucher', 0.14530329, u'bluetick', 0.10396111, u'abaya', 0.068100534, u'king_penguin', 0.041688874]

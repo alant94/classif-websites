@@ -1,0 +1,1 @@
+[u'street_sign', 0.67692912, u'cash_machine', 0.12119622, u'gas_pump', 0.040443357, u'Band_Aid', 0.021218983, u'moving_van', 0.0173108]

@@ -1,0 +1,2 @@
+[u'bow_tie', 0.44679859, u'jersey', 0.045841228, u'lab_coat', 0.042278867, u'maraca', 0.040441718, u'Windsor_tie', 0.031852495]
+[u'Arabian_camel', 0.52813798, u'dogsled', 0.1258411, u'sorrel', 0.10063832, u'Great_Dane', 0.035501644, u'horse_cart', 0.024887694]

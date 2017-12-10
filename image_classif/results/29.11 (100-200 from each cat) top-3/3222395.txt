@@ -1,0 +1,8 @@
+[u'shield', 0.82822591, u'wall_clock', 0.04052154, u'analog_clock', 0.020986784]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.097773336, u'shower_curtain', 0.033488885, u'moving_van', 0.031085785]
+[u'nail', 0.59826303, u'admiral', 0.056513365, u'lacewing', 0.048187383]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'chime', 0.73784441, u'rubber_eraser', 0.07019458, u'screwdriver', 0.047805954]
+[u'vestment', 0.87254041, u'toyshop', 0.022647325, u'candle', 0.020811709]
+[u'web_site', 0.31637979, u'envelope', 0.072372511, u'plunger', 0.022546079]

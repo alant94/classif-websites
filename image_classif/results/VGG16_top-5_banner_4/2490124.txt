@@ -1,0 +1,2 @@
+[u'rubber_eraser', 0.15891561, u'screwdriver', 0.12447856, u'organ', 0.11007511, u'paintbrush', 0.10426742, u"carpenter's_kit", 0.098954327]
+[u'screwdriver', 0.29963377, u'nail', 0.1954414, u'screw', 0.11757575, u'swab', 0.048395485, u'broom', 0.045343064]

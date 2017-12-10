@@ -1,0 +1,5 @@
+[u'theater_curtain', 0.22021297, u'guillotine', 0.10527923, u'stopwatch', 0.080450021]
+[u'web_site', 0.74300671, u'monitor', 0.041678958, u'desktop_computer', 0.028571222]
+[u'loupe', 0.44304112, u'analog_clock', 0.040127799, u'gasmask', 0.034779884]
+[u'web_site', 0.59116429, u'monitor', 0.065144233, u'desktop_computer', 0.060083095]
+[u'envelope', 0.47722763, u'menu', 0.45972112, u'paper_towel', 0.019689424]

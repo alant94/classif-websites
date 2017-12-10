@@ -1,0 +1,4 @@
+[u'buckle', 0.3693566, u'brass', 0.19208898, u'chest', 0.17425886, u'tray', 0.095201015, u'shield', 0.086705647]
+[u'revolver', 0.46392733, u'whistle', 0.11708807, u'scabbard', 0.077169903, u'can_opener', 0.069748193, u'buckle', 0.056461778]
+[u'revolver', 0.70048171, u'rifle', 0.097182393, u'hammer', 0.043457102, u'padlock', 0.042419337, u'switch', 0.017745515]
+[u'revolver', 0.99587774, u'holster', 0.002833683, u'rifle', 0.0011792829, u'assault_rifle', 7.0651236e-05, u'violin', 2.2356369e-05]

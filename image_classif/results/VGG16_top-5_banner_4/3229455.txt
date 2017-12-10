@@ -1,0 +1,6 @@
+[u'diaper', 0.19031574, u'packet', 0.16189329, u'Band_Aid', 0.083189346, u'sweatshirt', 0.03937605, u'plastic_bag', 0.032541227]
+[u'bannister', 0.51983917, u'maze', 0.14818256, u'prison', 0.13499731, u'vault', 0.051117174, u'coil', 0.033758018]
+[u'menu', 0.48470062, u'slide_rule', 0.36881322, u'web_site', 0.044781867, u'rule', 0.041366044, u'crate', 0.0058628754]
+[u'turnstile', 0.10590655, u'cash_machine', 0.09289965, u'sliding_door', 0.069430977, u'desk', 0.068033636, u'library', 0.04854539]
+[u'cash_machine', 0.12488303, u'street_sign', 0.056151696, u'microphone', 0.048648614, u'book_jacket', 0.027970059, u'hand_blower', 0.02460485]
+[u'folding_chair', 0.53097045, u'computer_keyboard', 0.20199141, u'typewriter_keyboard', 0.053982265, u'space_bar', 0.051991381, u'golfcart', 0.035380598]

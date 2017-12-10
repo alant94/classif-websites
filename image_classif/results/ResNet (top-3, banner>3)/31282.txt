@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.27097505, u'broccoli', 0.095329791, u'mixing_bowl', 0.085925907]
+[u'rain_barrel', 0.48402828, u'barrel', 0.15436018, u'vase', 0.042681608]
+[u'packet', 0.20081827, u'handkerchief', 0.17776163, u'bolo_tie', 0.065717012]
+[u'corn', 0.21196812, u'plate', 0.17172873, u'spaghetti_squash', 0.083504714]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'potpie', 0.68482906, u'bottlecap', 0.018813366, u'toilet_seat', 0.015705535]

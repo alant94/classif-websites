@@ -1,0 +1,5 @@
+[u'web_site', 0.072748452, u'television', 0.050591573, u'dishwasher', 0.026979998]
+[u'web_site', 0.19542986, u'dishwasher', 0.060150497, u'abaya', 0.050365984]
+[u'television', 0.74352533, u'monitor', 0.10740323, u'screen', 0.067529261]
+[u'dishwasher', 0.16101113, u'abaya', 0.08605542, u'web_site', 0.050667614]
+[u'dishwasher', 0.10186016, u'web_site', 0.082863271, u'abaya', 0.055463996]

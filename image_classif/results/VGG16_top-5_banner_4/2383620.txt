@@ -1,0 +1,8 @@
+[u'lampshade', 0.050024189, u'window_shade', 0.046114735, u'cleaver', 0.041580871, u'suit', 0.035508357, u'microphone', 0.034078155]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'monitor', 0.36352363, u'television', 0.21087605, u'screen', 0.086510189, u'home_theater', 0.072878271, u'jigsaw_puzzle', 0.027435126]
+[u'cowboy_hat', 0.63445425, u'bonnet', 0.058925677, u'cloak', 0.021783454, u'poncho', 0.021040725, u'cowboy_boot', 0.018900875]
+[u'red_wine', 0.70658344, u'wine_bottle', 0.25357148, u'cocktail_shaker', 0.0079681249, u'chocolate_sauce', 0.0057695014, u'lotion', 0.0048174323]
+[u'digital_clock', 0.084730364, u'analog_clock', 0.082332388, u'screen', 0.065813862, u'traffic_light', 0.047341783, u'monitor', 0.044130526]
+[u'beer_glass', 0.2381483, u'beer_bottle', 0.21092413, u'wine_bottle', 0.081693783, u'perfume', 0.07977654, u'pop_bottle', 0.060344961]
+[u'microphone', 0.045617126, u'book_jacket', 0.027191617, u'cinema', 0.024973152, u'safety_pin', 0.024769938, u'street_sign', 0.024696831]

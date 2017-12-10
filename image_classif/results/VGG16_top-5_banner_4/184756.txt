@@ -1,0 +1,2 @@
+[u'web_site', 0.74558944, u'envelope', 0.036499564, u'modem', 0.010379736, u'screen', 0.009531064, u'book_jacket', 0.0089748167]
+[u'jersey', 0.091513999, u'sweatshirt', 0.050263558, u'wig', 0.038223457, u'Band_Aid', 0.037048277, u'oboe', 0.028161064]

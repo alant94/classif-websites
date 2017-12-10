@@ -1,0 +1,6 @@
+[u'lab_coat', 0.33033869, u'notebook', 0.13391246, u'web_site', 0.13254483]
+[u'web_site', 0.21508007, u'barbershop', 0.098460972, u'lipstick', 0.075327307]
+[u'groom', 0.11033107, u'lab_coat', 0.066651419, u'web_site', 0.05740552]
+[u'web_site', 0.66458726, u'abaya', 0.014278413, u'crane', 0.0076718791]
+[u'crossword_puzzle', 0.32058379, u'picket_fence', 0.28933647, u'shopping_basket', 0.056941766]
+[u'brassiere', 0.23098494, u'bikini', 0.12410703, u'hair_slide', 0.082020819]

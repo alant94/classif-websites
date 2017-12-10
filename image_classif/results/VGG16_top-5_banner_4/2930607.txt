@@ -1,0 +1,8 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'German_short-haired_pointer', 0.40442735, u'English_foxhound', 0.12872075, u'Walker_hound', 0.11354019, u'bluetick', 0.066736341, u'Great_Dane', 0.05824928]
+[u'Afghan_hound', 0.41433328, u'Saluki', 0.3274425, u'borzoi', 0.07158979, u'standard_poodle', 0.01936008, u'Doberman', 0.018106569]
+[u'mask', 0.42430547, u'abaya', 0.16079052, u'bib', 0.1559763, u'ski_mask', 0.071228333, u'golf_ball', 0.019282565]
+[u'English_foxhound', 0.34309939, u'bloodhound', 0.13334063, u'Weimaraner', 0.12777649, u'Saluki', 0.091136687, u'redbone', 0.078719229]
+[u'Border_collie', 0.494416, u'collie', 0.39899936, u'borzoi', 0.049580581, u'Shetland_sheepdog', 0.031571738, u'groenendael', 0.0078876223]
+[u'envelope', 0.40724209, u'cash_machine', 0.19245984, u'web_site', 0.032689087, u'monitor', 0.025989536, u'digital_clock', 0.019655114]
+[u'golden_retriever', 0.14999332, u'Saluki', 0.13034317, u'collie', 0.1286449, u'kelpie', 0.12364027, u'borzoi', 0.10339067]

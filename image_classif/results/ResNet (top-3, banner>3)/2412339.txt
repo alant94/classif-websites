@@ -1,0 +1,3 @@
+[u'face_powder', 0.66121131, u'perfume', 0.10760892, u'lotion', 0.057340711]
+[u'coffee_mug', 0.22282052, u'face_powder', 0.13433677, u'lotion', 0.10333961]
+[u'nail', 0.25804779, u'screw', 0.25650549, u'beaker', 0.034122422]

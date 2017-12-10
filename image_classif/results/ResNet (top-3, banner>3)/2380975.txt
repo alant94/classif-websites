@@ -1,0 +1,3 @@
+[u'window_screen', 0.10710236, u'stethoscope', 0.070097707, u'cleaver', 0.065654933]
+[u'Band_Aid', 0.55741924, u'ambulance', 0.15162583, u'digital_clock', 0.041482486]
+[u'digital_clock', 0.19085294, u'Band_Aid', 0.14480199, u'jersey', 0.12250296]

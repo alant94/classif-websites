@@ -1,0 +1,2 @@
+[u'bell_cote', 0.099290423, u'pinwheel', 0.070956789, u'wall_clock', 0.070507273, u'analog_clock', 0.050643157, u'umbrella', 0.031532653]
+[u'window_shade', 0.41090485, u'sliding_door', 0.14986284, u'patio', 0.078798756, u'window_screen', 0.063691944, u'china_cabinet', 0.063575245]

@@ -1,0 +1,7 @@
+[u'lab_coat', 0.25593063, u'butcher_shop', 0.095333338, u'cleaver', 0.0911512, u'pajama', 0.036455054, u'stethoscope', 0.028462308]
+[u'fountain', 0.32904053, u'palace', 0.30109024, u'mosque', 0.055245329, u'church', 0.035723314, u'picket_fence', 0.030601406]
+[u'Band_Aid', 0.088731393, u'lipstick', 0.067611359, u'switch', 0.049491502, u'drumstick', 0.030276323, u'paintbrush', 0.029156717]
+[u'oboe', 0.13829811, u'lab_coat', 0.11665955, u'pajama', 0.099952921, u'groom', 0.05030835, u'French_horn', 0.048765175]
+[u'four-poster', 0.42766988, u'mosquito_net', 0.18207805, u'crib', 0.046038166, u'wardrobe', 0.042913023, u'restaurant', 0.042695083]
+[u'binder', 0.1277293, u'cash_machine', 0.099145286, u'book_jacket', 0.039978929, u'modem', 0.032081969, u'street_sign', 0.024892671]
+[u'crane', 0.17587559, u'cinema', 0.12994312, u'bell_cote', 0.0586477, u'beacon', 0.041663788, u'hook', 0.026789272]

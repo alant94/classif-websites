@@ -1,0 +1,1 @@
+[u'digital_clock', 0.1092842, u'spotlight', 0.10728033, u'cinema', 0.063037239, u'traffic_light', 0.036790006, u'analog_clock', 0.036207251]

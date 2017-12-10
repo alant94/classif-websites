@@ -1,0 +1,5 @@
+[u'Persian_cat', 0.99359703, u'Angora', 0.0007991431, u'Pomeranian', 0.00078484486]
+[u'Persian_cat', 0.94636142, u'lynx', 0.014545282, u'Egyptian_cat', 0.0063535455]
+[u'Persian_cat', 0.99822682, u'bow_tie', 0.00076062744, u'Japanese_spaniel', 0.00011292]
+[u'ground_beetle', 0.69595969, u'rhinoceros_beetle', 0.22068849, u'iron', 0.012663136]
+[u'Persian_cat', 0.97164357, u'Angora', 0.020492723, u'Pekinese', 0.0036608416]

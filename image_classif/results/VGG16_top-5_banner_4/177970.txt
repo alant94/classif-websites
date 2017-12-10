@@ -1,0 +1,1 @@
+[u'cassette', 0.49763599, u'tape_player', 0.091720499, u'cassette_player', 0.066031411, u'rule', 0.058522522, u'vending_machine', 0.028961966]

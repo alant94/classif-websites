@@ -1,0 +1,2 @@
+[u'library', 0.16895305, u'bannister', 0.076486968, u'pool_table', 0.076107584]
+[u'medicine_chest', 0.35038623, u'library', 0.12529619, u'container_ship', 0.10704924]

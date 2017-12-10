@@ -1,0 +1,8 @@
+[u'chime', 0.40933502, u'television', 0.21107405, u'slide_rule', 0.051439911]
+[u'web_site', 0.34111553, u'remote_control', 0.027974164, u'menu', 0.022589546]
+[u'web_site', 0.80904317, u'comic_book', 0.067901142, u'book_jacket', 0.047186952]
+[u'chime', 0.17502567, u'nail', 0.070268832, u'slide_rule', 0.067291722]
+[u'web_site', 0.62302035, u'barbershop', 0.072093636, u'book_jacket', 0.060440511]
+[u'picket_fence', 0.56352651, u'barbershop', 0.17008062, u'bakery', 0.13873054]
+[u'web_site', 0.96449196, u'rifle', 0.0045736749, u'menu', 0.0028858641]
+[u'beacon', 0.23294894, u'water_tower', 0.15903336, u'airship', 0.12402492]

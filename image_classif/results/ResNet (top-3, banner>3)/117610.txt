@@ -1,0 +1,1 @@
+[u'Egyptian_cat', 0.77317566, u'Siamese_cat', 0.11162121, u'tiger_cat', 0.03944939]

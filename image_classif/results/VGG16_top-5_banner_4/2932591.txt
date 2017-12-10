@@ -1,0 +1,2 @@
+[u'black_stork', 0.10528638, u'white_stork', 0.090753362, u'red_wine', 0.072723053, u'flamingo', 0.054518942, u'hook', 0.042346306]
+[u'restaurant', 0.45667559, u'confectionery', 0.25270292, u'altar', 0.048348702, u'vault', 0.025950123, u'quilt', 0.020408463]

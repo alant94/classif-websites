@@ -1,0 +1,7 @@
+[u'coral_fungus', 0.66488779, u'hen-of-the-woods', 0.070452511, u'ear', 0.025322033, u'bolete', 0.020344023, u'mushroom', 0.019384688]
+[u'suit', 0.25211999, u'bow_tie', 0.064830743, u'Windsor_tie', 0.043013707, u'trench_coat', 0.034102365, u'shower_curtain', 0.025327697]
+[u'trailer_truck', 0.25865051, u'harvester', 0.13607182, u'container_ship', 0.071299016, u'forklift', 0.050199009, u'crane', 0.049932346]
+[u'swing', 0.20512041, u'totem_pole', 0.098493762, u'suspension_bridge', 0.079643577, u'horizontal_bar', 0.063502781, u'pole', 0.050143011]
+[u'wall_clock', 0.63019675, u'analog_clock', 0.13169517, u'bolo_tie', 0.053814285, u'puck', 0.043534733, u'buckle', 0.032096338]
+[u'breakwater', 0.72856271, u'dam', 0.18646073, u'thatch', 0.0088518262, u'park_bench', 0.0070606098, u'bannister', 0.0059022051]
+[u'worm_fence', 0.52362442, u'picket_fence', 0.28773636, u'stone_wall', 0.04193382, u'megalith', 0.036828246, u'totem_pole', 0.025615569]

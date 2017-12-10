@@ -1,0 +1,5 @@
+[u'face_powder', 0.26249418, u'barrel', 0.04139721, u'puck', 0.035282373, u'Petri_dish', 0.029669892, u'rubber_eraser', 0.023295028]
+[u'sliding_door', 0.5458712, u'medicine_chest', 0.11519656, u'guillotine', 0.077566668, u'china_cabinet', 0.074338123, u'harp', 0.034742285]
+[u'fountain', 0.28964496, u'gown', 0.1354045, u'hoopskirt', 0.062519558, u'dam', 0.041378863, u'groom', 0.035502683]
+[u'window_shade', 0.059259448, u'mosquito_net', 0.053091895, u'table_lamp', 0.052884806, u'panpipe', 0.03945018, u'shower_curtain', 0.038938455]
+[u'perfume', 0.16542661, u'wall_clock', 0.070184417, u'medicine_chest', 0.040791593, u'bell_cote', 0.035339423, u'switch', 0.02992869]

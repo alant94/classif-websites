@@ -1,0 +1,1 @@
+[u'Indian_cobra', 0.8347789, u'power_drill', 0.040012792, u'maraca', 0.0077617397, u'candle', 0.0069588725, u'plane', 0.004874147]

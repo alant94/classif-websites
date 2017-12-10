@@ -1,0 +1,4 @@
+[u'sweatshirt', 0.4740544, u'racket', 0.15405366, u'tennis_ball', 0.067345172, u'jersey', 0.02419693, u'ping-pong_ball', 0.013534361]
+[u'steel_drum', 0.12733959, u'marimba', 0.12722719, u'grand_piano', 0.097554184, u'stage', 0.042003214, u'notebook', 0.041074801]
+[u'miniskirt', 0.089384682, u'gown', 0.067677349, u'overskirt', 0.066089936, u'hoopskirt', 0.0658051, u'velvet', 0.061484389]
+[u'switch', 0.15016021, u'fountain', 0.083198681, u'lampshade', 0.040579695, u'padlock', 0.040048487, u'shower_curtain', 0.035158325]

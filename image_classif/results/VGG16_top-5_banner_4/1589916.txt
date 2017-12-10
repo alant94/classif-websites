@@ -1,0 +1,4 @@
+[u'red_wine', 0.17818733, u'lampshade', 0.13557173, u'goblet', 0.058181614, u'spotlight', 0.042236269, u'fountain', 0.037564799]
+[u'maze', 0.89234984, u'digital_clock', 0.022042796, u'tray', 0.015807936, u'traffic_light', 0.0083965482, u'shield', 0.0067840116]
+[u'fountain', 0.14746666, u'candle', 0.13519917, u'bubble', 0.079746634, u'perfume', 0.055710044, u'web_site', 0.033890657]
+[u'sea_urchin', 0.22827816, u'bell_cote', 0.052672386, u'sea_anemone', 0.048844665, u"jack-o'-lantern", 0.030404622, u'obelisk', 0.021824842]

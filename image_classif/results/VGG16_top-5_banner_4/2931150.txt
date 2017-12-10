@@ -1,0 +1,8 @@
+[u'candle', 0.12864088, u'gown', 0.11513426, u'perfume', 0.080128536, u'quill', 0.063791685, u'bikini', 0.057196733]
+[u'envelope', 0.046941288, u'web_site', 0.04244164, u'menu', 0.041336924, u'Band_Aid', 0.040384881, u'rule', 0.03132214]
+[u'sunscreen', 0.24891794, u'swimming_trunks', 0.13634714, u'bathing_cap', 0.098477162, u'conch', 0.052567232, u'oxygen_mask', 0.034491792]
+[u'book_jacket', 0.57593566, u'jersey', 0.067505628, u'sax', 0.03257028, u'comic_book', 0.029940588, u'street_sign', 0.019595914]
+[u'candle', 0.2567488, u'vase', 0.23971821, u'lipstick', 0.068577729, u'maillot', 0.065149091, u'conch', 0.055753086]
+[u'book_jacket', 0.65606529, u'comic_book', 0.031018579, u'jersey', 0.022246255, u'hair_spray', 0.018871583, u'street_sign', 0.017491302]
+[u'candle', 0.59162122, u'lipstick', 0.048721179, u'pajama', 0.023023697, u'gown', 0.021280792, u'lotion', 0.020984637]
+[u'swab', 0.47739542, u'hatchet', 0.046448704, u'jean', 0.037582334, u'hammer', 0.037214551, u'plunger', 0.022627726]

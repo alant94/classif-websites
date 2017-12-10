@@ -1,0 +1,4 @@
+[u'altar', 0.64333832, u'vestment', 0.22859094, u'throne', 0.022145178]
+[u'vestment', 0.41432667, u'throne', 0.23645271, u'wall_clock', 0.13068089]
+[u'vestment', 0.97441101, u'altar', 0.019795708, u'throne', 0.00559721]
+[u'vestment', 0.75961965, u'throne', 0.04116267, u'suit', 0.017088069]

@@ -1,0 +1,6 @@
+[u'diaper', 0.44555232, u'bath_towel', 0.16210797, u'bathtub', 0.060719106]
+[u'titi', 0.64158344, u'banded_gecko', 0.090240397, u'bikini', 0.060802288]
+[u'barber_chair', 0.33744022, u'breastplate', 0.071954332, u'Japanese_spaniel', 0.051024944]
+[u'clumber', 0.15910465, u'nipple', 0.11833016, u'Maltese_dog', 0.11525156]
+[u'bikini', 0.6901558, u'maillot', 0.11956132, u'maillot', 0.042226877]
+[u'can_opener', 0.13774922, u'neck_brace', 0.10723777, u'knee_pad', 0.075984791]

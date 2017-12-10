@@ -1,0 +1,5 @@
+[u'hook', 0.17086034, u'orange', 0.14776918, u'street_sign', 0.070260137]
+[u'hard_disc', 0.44746864, u'modem', 0.075694479, u'laptop', 0.073709175]
+[u'modem', 0.16059859, u'hard_disc', 0.12217522, u'street_sign', 0.07355734]
+[u'book_jacket', 0.11056449, u'street_sign', 0.070819125, u'hard_disc', 0.04877422]
+[u'kimono', 0.52332294, u'pajama', 0.19823886, u'stole', 0.028808039]

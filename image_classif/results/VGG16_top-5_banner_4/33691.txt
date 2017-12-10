@@ -1,0 +1,2 @@
+[u'street_sign', 0.18013108, u'book_jacket', 0.076429613, u'digital_clock', 0.059030268, u'scoreboard', 0.051610041, u'web_site', 0.04903068]
+[u'suit', 0.57434124, u'bow_tie', 0.17463244, u'Windsor_tie', 0.10634189, u'oboe', 0.042677648, u'groom', 0.017570348]

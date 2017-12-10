@@ -1,0 +1,3 @@
+[u'bikini', 0.18295078, u'bathtub', 0.1232487, u'tub', 0.0687548, u'cowboy_hat', 0.058185231, u'Band_Aid', 0.053112015]
+[u'bathtub', 0.26474288, u'dough', 0.12079961, u'tub', 0.10203584, u"potter's_wheel", 0.051356263, u'ice_lolly', 0.034776159]
+[u'bikini', 0.14186728, u'miniskirt', 0.10615239, u'bathtub', 0.065290324, u'seat_belt', 0.061671693, u'maillot', 0.046333041]

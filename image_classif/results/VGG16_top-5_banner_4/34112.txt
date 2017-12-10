@@ -1,0 +1,1 @@
+[u'Egyptian_cat', 0.62876135, u'tabby', 0.11675836, u'tiger_cat', 0.089722514, u'sleeping_bag', 0.035404153, u'plastic_bag', 0.029569235]

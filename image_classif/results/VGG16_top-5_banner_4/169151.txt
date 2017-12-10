@@ -1,0 +1,8 @@
+[u'comic_book', 0.64566183, u'web_site', 0.20571885, u'book_jacket', 0.030059213, u'vending_machine', 0.0081822397, u'toyshop', 0.005598194]
+[u'sax', 0.35031718, u'accordion', 0.14885299, u'electric_guitar', 0.13494021, u'oboe', 0.069325335, u'banjo', 0.056349277]
+[u'stupa', 0.089616403, u'cliff', 0.058104247, u'pole', 0.05510788, u'monastery', 0.052527469, u'totem_pole', 0.034851212]
+[u'accordion', 0.54250091, u'rugby_ball', 0.04423859, u'bearskin', 0.043621637, u'television', 0.039713025, u'French_horn', 0.018757675]
+[u'unicycle', 0.82058668, u'mountain_bike', 0.041701492, u'crutch', 0.039616339, u'bicycle-built-for-two', 0.013671293, u'alp', 0.0091345049]
+[u'accordion', 0.97360206, u'vestment', 0.0086890766, u'bearskin', 0.0054680882, u'drum', 0.0041341321, u'marimba', 0.0012926583]
+[u'web_site', 0.35321245, u'accordion', 0.090448938, u'book_jacket', 0.079554088, u'brass', 0.054026607, u'comic_book', 0.045855746]
+[u'comic_book', 0.19486743, u'packet', 0.15761279, u'mousetrap', 0.13665247, u'coffee_mug', 0.08193025, u'corkscrew', 0.065028235]

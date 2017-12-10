@@ -1,0 +1,6 @@
+[u'web_site', 0.35662889, u'digital_clock', 0.088787533, u'digital_watch', 0.041812781]
+[u'nematode', 0.1100123, u'hook', 0.10236725, u'chain', 0.10128257]
+[u'web_site', 0.35211939, u'digital_clock', 0.17211927, u'digital_watch', 0.030025003]
+[u'web_site', 0.40118369, u'digital_clock', 0.04917112, u'church', 0.030718148]
+[u'cornet', 0.39461985, u'French_horn', 0.2070165, u'pick', 0.19976841]
+[u'web_site', 0.36353067, u'television', 0.097402915, u'nematode', 0.028065244]

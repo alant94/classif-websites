@@ -1,0 +1,2 @@
+[u'balance_beam', 0.20060201, u'stage', 0.1514661, u'horizontal_bar', 0.14374508, u'flute', 0.08130268, u'banjo', 0.074002795]
+[u'book_jacket', 0.42620268, u'comic_book', 0.046674453, u'web_site', 0.039796155, u'hair_spray', 0.027357966, u'menu', 0.021116145]

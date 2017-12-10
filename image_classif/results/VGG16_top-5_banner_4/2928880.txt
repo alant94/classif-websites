@@ -1,0 +1,5 @@
+[u'necklace', 0.14319423, u'coil', 0.091193348, u'switch', 0.077149324, u'spotlight', 0.061013665, u'screw', 0.054359805]
+[u'wire-haired_fox_terrier', 0.44979554, u'Norfolk_terrier', 0.2120906, u'book_jacket', 0.085566022, u'Norwich_terrier', 0.076528966, u'Lakeland_terrier', 0.035676163]
+[u'mobile_home', 0.1751188, u'boathouse', 0.15168659, u'birdhouse', 0.12952441, u'patio', 0.084889889, u'picket_fence', 0.072320022]
+[u'oil_filter', 0.47030672, u'scale', 0.31165698, u'racket', 0.051209223, u'puck', 0.020491496, u'tennis_ball', 0.020344967]
+[u'book_jacket', 0.18469094, u'envelope', 0.10806869, u'Band_Aid', 0.067738712, u'syringe', 0.058172196, u'lipstick', 0.035971913]

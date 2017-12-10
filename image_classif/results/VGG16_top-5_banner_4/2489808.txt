@@ -1,0 +1,2 @@
+[u'menu', 0.31830209, u'plate_rack', 0.14414564, u'fire_screen', 0.034347821, u'vending_machine', 0.02642422, u'web_site', 0.025369486]
+[u'turnstile', 0.080763303, u'ambulance', 0.062459532, u'stretcher', 0.049191751, u'king_crab', 0.037326947, u'drilling_platform', 0.027029766]

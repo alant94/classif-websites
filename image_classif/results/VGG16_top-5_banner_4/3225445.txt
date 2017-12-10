@@ -1,0 +1,6 @@
+[u'envelope', 0.22896472, u'Band_Aid', 0.14494738, u'digital_clock', 0.066272542, u'wall_clock', 0.023248678, u'scoreboard', 0.020495707]
+[u"carpenter's_kit", 0.15329897, u'matchstick', 0.05328704, u'binder', 0.04765236, u'hammer', 0.04234105, u'screwdriver', 0.04174136]
+[u'chain_mail', 0.074659303, u'shower_cap', 0.036373165, u'poncho', 0.024942782, u'pajama', 0.02374123, u'bow_tie', 0.023702342]
+[u'church', 0.56976587, u'stupa', 0.10254998, u'monastery', 0.065650076, u'thatch', 0.030170865, u'brass', 0.02302957]
+[u'digital_clock', 0.26306915, u'street_sign', 0.099232793, u'traffic_light', 0.047254823, u'lighter', 0.039171737, u'tray', 0.028100476]
+[u'bathing_cap', 0.056097031, u'shower_cap', 0.041696146, u'bow_tie', 0.03875168, u'barbershop', 0.037782982, u'sunglasses', 0.031384476]

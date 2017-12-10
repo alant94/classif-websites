@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.34843776, u'switch', 0.036240328, u'book_jacket', 0.033104394, u'refrigerator', 0.02973837, u'binder', 0.028788077]
+[u'cash_machine', 0.22686154, u'slot', 0.091377914, u'lighter', 0.089157693, u'oil_filter', 0.061550405, u'Band_Aid', 0.053683378]

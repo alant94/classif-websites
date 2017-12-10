@@ -1,0 +1,5 @@
+[u'altar', 0.19526032, u'bookcase', 0.11952871, u'chiffonier', 0.10552336]
+[u'tobacco_shop', 0.44549316, u'slot', 0.38744965, u'toyshop', 0.061136398]
+[u'digital_clock', 0.78333825, u'digital_watch', 0.064844877, u'analog_clock', 0.023011351]
+[u'slot', 0.68573374, u'web_site', 0.13798757, u'monitor', 0.027363325]
+[u'web_site', 0.49754119, u'television', 0.062045343, u'screen', 0.038303047]

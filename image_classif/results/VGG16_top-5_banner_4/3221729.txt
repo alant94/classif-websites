@@ -1,0 +1,2 @@
+[u'lakeside', 0.7476176, u'castle', 0.16474228, u'jigsaw_puzzle', 0.010097318, u'boathouse', 0.0090438006, u'web_site', 0.007845806]
+[u'safety_pin', 0.35193422, u'hair_slide', 0.18425891, u'nail', 0.069432989, u'jersey', 0.063468285, u'swab', 0.028352009]

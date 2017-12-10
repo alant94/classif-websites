@@ -1,0 +1,1 @@
+[u'binder', 0.19958264, u'book_jacket', 0.10306597, u'lighter', 0.066433139, u'combination_lock', 0.044017274, u'coffee_mug', 0.042778872]

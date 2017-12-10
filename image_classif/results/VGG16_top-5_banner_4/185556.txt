@@ -1,0 +1,1 @@
+[u'worm_fence', 0.18598105, u'park_bench', 0.15096566, u'chainlink_fence', 0.10385746, u'nail', 0.060968831, u'barn', 0.060699057]

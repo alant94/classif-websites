@@ -1,0 +1,3 @@
+[u'digital_clock', 0.37340316, u'web_site', 0.070529886, u'CD_player', 0.047833219]
+[u'rotisserie', 0.16622345, u'comic_book', 0.089341722, u'tape_player', 0.063101053]
+[u'grand_piano', 0.21491157, u'harmonica', 0.085580945, u'comic_book', 0.070712067]

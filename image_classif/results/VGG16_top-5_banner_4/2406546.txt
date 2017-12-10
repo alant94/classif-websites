@@ -1,0 +1,2 @@
+[u'mask', 0.16755225, u'hourglass', 0.16507655, u'web_site', 0.083856098, u'cocktail_shaker', 0.041201167, u'bolo_tie', 0.032305196]
+[u'china_cabinet', 0.10970661, u'altar', 0.10641702, u'bookcase', 0.095587477, u'prayer_rug', 0.077690467, u'book_jacket', 0.058951631]

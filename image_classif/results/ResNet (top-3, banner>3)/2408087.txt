@@ -1,0 +1,2 @@
+[u'lighter', 0.90202081, u'punching_bag', 0.027906775, u'ski', 0.012633317]
+[u'altar', 0.4877345, u'book_jacket', 0.12212367, u'comic_book', 0.064253524]

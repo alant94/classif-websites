@@ -1,0 +1,1 @@
+[u'paper_towel', 0.2761271, u'toilet_tissue', 0.13292374, u'puck', 0.112594, u'wool', 0.032498028, u'knee_pad', 0.022388563]

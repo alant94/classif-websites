@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.67294484, u'digital_watch', 0.080444269, u'digital_clock', 0.01657889]
+[u'book_jacket', 0.36791387, u'oscilloscope', 0.26481476, u'packet', 0.052875947]
+[u'fountain', 0.15269503, u'book_jacket', 0.14425845, u'comic_book', 0.07331147]

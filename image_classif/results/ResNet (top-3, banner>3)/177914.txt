@@ -1,0 +1,3 @@
+[u'web_site', 0.3369447, u'meat_loaf', 0.12143748, u'eggnog', 0.081018403]
+[u'acorn', 0.32289481, u'web_site', 0.26241726, u'ice_cream', 0.16141976]
+[u'web_site', 0.98149788, u'comic_book', 0.0022859836, u'menu', 0.0013591847]

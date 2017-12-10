@@ -1,0 +1,6 @@
+[u'airliner', 0.30492342, u'warplane', 0.2459507, u'missile', 0.1809296]
+[u'airliner', 0.71304214, u'airship', 0.26297632, u'space_shuttle', 0.01090205]
+[u'dam', 0.78301811, u'space_shuttle', 0.044056259, u'crane', 0.037746906]
+[u'web_site', 0.57525307, u'book_jacket', 0.029587341, u'plastic_bag', 0.018797068]
+[u'missile', 0.33581588, u'projectile', 0.28301463, u'balloon', 0.066042557]
+[u'space_shuttle', 0.83870453, u'warplane', 0.13811353, u'airliner', 0.017781623]

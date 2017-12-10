@@ -1,0 +1,5 @@
+[u'ibex', 0.98744804, u'bighorn', 0.0043145935, u'ram', 0.0027035724]
+[u'sombrero', 0.084063165, u'scoreboard', 0.072158471, u'street_sign', 0.070757367]
+[u'cowboy_hat', 0.93804699, u'cowboy_boot', 0.029511146, u'worm_fence', 0.0054505905]
+[u'ibex', 0.79716384, u'hartebeest', 0.083658494, u'impala', 0.049772166]
+[u'warthog', 0.82684118, u'hartebeest', 0.046377625, u'impala', 0.027126672]

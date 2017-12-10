@@ -1,0 +1,5 @@
+[u'rule', 0.20744295, u'matchstick', 0.082339257, u'syringe', 0.080447175, u'picket_fence', 0.021333329, u'book_jacket', 0.021116866]
+[u'rule', 0.10549806, u'lens_cap', 0.10509633, u'odometer', 0.077885933, u'digital_clock', 0.050524477, u'matchstick', 0.047722157]
+[u'book_jacket', 0.14308777, u'safe', 0.12704819, u'carton', 0.083088182, u'shower_curtain', 0.056642037, u'hair_spray', 0.045197945]
+[u'syringe', 0.10973274, u'rule', 0.083856642, u'jersey', 0.049873997, u'book_jacket', 0.042982657, u'digital_clock', 0.037597194]
+[u'envelope', 0.13956501, u'airship', 0.056583855, u'baseball', 0.041936737, u'Band_Aid', 0.033305835, u'book_jacket', 0.032311074]

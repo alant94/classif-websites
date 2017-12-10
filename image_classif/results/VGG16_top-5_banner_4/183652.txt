@@ -1,0 +1,4 @@
+[u'ibex', 0.67225772, u'bighorn', 0.20774989, u'ram', 0.087081239, u'hartebeest', 0.01086875, u'bison', 0.0086359698]
+[u'scoreboard', 0.56455719, u'menu', 0.12879933, u'comic_book', 0.1156089, u'slot', 0.043691859, u'Band_Aid', 0.02586261]
+[u'Irish_wolfhound', 0.5516426, u'Bedlington_terrier', 0.16104685, u'Great_Dane', 0.080749482, u'Weimaraner', 0.06676852, u'Old_English_sheepdog', 0.058491077]
+[u'paintbrush', 0.1008775, u'envelope', 0.058134481, u'binder', 0.05751276, u'grille', 0.056690801, u'doormat', 0.047894083]

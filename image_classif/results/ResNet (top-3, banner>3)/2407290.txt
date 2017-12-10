@@ -1,0 +1,3 @@
+[u'padlock', 0.46012419, u'combination_lock', 0.13179825, u'pick', 0.072902404]
+[u'necklace', 0.27862638, u'envelope', 0.14337233, u'chain', 0.071444802]
+[u'street_sign', 0.58467793, u'garbage_truck', 0.14849073, u'laptop', 0.022263499]

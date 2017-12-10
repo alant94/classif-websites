@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.21882775, u'remote_control', 0.07061401, u'sunscreen', 0.030289372, u'jigsaw_puzzle', 0.029928438, u'ocarina', 0.028048294]
+[u'boxer', 0.2391462, u'beagle', 0.06717471, u'Brabancon_griffon', 0.067053549, u'Chihuahua', 0.047338463, u'papillon', 0.045513887]
+[u'swimming_trunks', 0.43669197, u'bikini', 0.05597923, u'tub', 0.043659013, u'diaper', 0.038438808, u'miniskirt', 0.036802549]

@@ -1,0 +1,3 @@
+[u'web_site', 0.18758625, u'envelope', 0.11781532, u'binder', 0.068558112]
+[u'digital_clock', 0.42383, u'traffic_light', 0.11232605, u'scoreboard', 0.098443523]
+[u'cassette', 0.63266903, u'cassette_player', 0.18176091, u'iPod', 0.1638272]

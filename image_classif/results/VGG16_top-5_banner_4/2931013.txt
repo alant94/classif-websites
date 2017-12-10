@@ -1,0 +1,2 @@
+[u'book_jacket', 0.30280495, u'street_sign', 0.067780502, u'envelope', 0.066146597, u'packet', 0.052824125, u'jersey', 0.028736578]
+[u'puck', 0.084868766, u'tennis_ball', 0.070671216, u'pill_bottle', 0.047568262, u'rugby_ball', 0.043395553, u'sunscreen', 0.03551368]

@@ -1,0 +1,2 @@
+[u'web_site', 0.92678839, u'envelope', 0.007266704, u'switch', 0.0041930964, u'refrigerator', 0.0035861621, u'monitor', 0.0035698481]
+[u'diaper', 0.14836006, u'swimming_trunks', 0.13171917, u'book_jacket', 0.088717833, u'packet', 0.055642158, u'Band_Aid', 0.051305637]

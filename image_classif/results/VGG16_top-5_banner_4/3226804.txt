@@ -1,0 +1,7 @@
+[u'book_jacket', 0.43261057, u'scoreboard', 0.20748313, u'comic_book', 0.12788042, u'street_sign', 0.034020025, u'web_site', 0.019009223]
+[u'bell_cote', 0.093762964, u'mosque', 0.057884552, u'web_site', 0.034901429, u'boathouse', 0.027790295, u'palace', 0.02532107]
+[u'scoreboard', 0.18452328, u'digital_clock', 0.11674158, u'monitor', 0.05208477, u'screen', 0.047696248, u'traffic_light', 0.044925321]
+[u"carpenter's_kit", 0.33359161, u'hook', 0.28802076, u'cleaver', 0.069227301, u'shovel', 0.063482761, u'screwdriver', 0.058710445]
+[u'traffic_light', 0.2975527, u'crane', 0.099379994, u'street_sign', 0.096574321, u'beacon', 0.046464399, u'bell_cote', 0.044360701]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'hook', 0.087790743, u'nipple', 0.042067379, u'coffee_mug', 0.031304263, u'hair_slide', 0.028496549, u'Band_Aid', 0.022428449]

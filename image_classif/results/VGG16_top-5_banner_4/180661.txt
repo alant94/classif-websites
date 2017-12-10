@@ -1,0 +1,3 @@
+[u'jersey', 0.86878747, u'miniskirt', 0.027508713, u'maillot', 0.025979163, u'sweatshirt', 0.022434749, u'maillot', 0.0099175787]
+[u'sunscreen', 0.23031393, u'neck_brace', 0.169322, u'shower_cap', 0.072601125, u'wig', 0.060131531, u'bow_tie', 0.045297254]
+[u'sunscreen', 0.13123931, u'stethoscope', 0.033517927, u'bikini', 0.028528394, u'hair_spray', 0.027031695, u'maillot', 0.023010809]

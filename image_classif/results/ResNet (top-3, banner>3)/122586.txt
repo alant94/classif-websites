@@ -1,0 +1,3 @@
+[u'television', 0.1506983, u'guillotine', 0.11018533, u'rocking_chair', 0.072161928]
+[u'microwave', 0.39134851, u'stove', 0.053156514, u'buckle', 0.049088039]
+[u'comic_book', 0.35251933, u'rock_crab', 0.1140319, u'book_jacket', 0.067695193]

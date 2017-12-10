@@ -1,0 +1,7 @@
+[u'monastery', 0.12410505, u'bell_cote', 0.10616503, u'suspension_bridge', 0.10538607, u'obelisk', 0.10032732, u'pole', 0.078851297]
+[u'vestment', 0.72233641, u'gong', 0.19700515, u'altar', 0.036492474, u'drum', 0.0073622642, u'chime', 0.0067817885]
+[u'suit', 0.12166383, u'oboe', 0.11723098, u'sunglasses', 0.080077082, u'bow_tie', 0.062803917, u'Windsor_tie', 0.052404441]
+[u'church', 0.24144337, u'altar', 0.18748583, u'stage', 0.10785984, u'vault', 0.073329054, u'obelisk', 0.041815121]
+[u'jigsaw_puzzle', 0.53075087, u'hair_spray', 0.082949355, u'water_bottle', 0.028233783, u'confectionery', 0.024576873, u'packet', 0.014407889]
+[u'lab_coat', 0.26365852, u'chain_mail', 0.20357035, u'pajama', 0.068535402, u'wig', 0.028019514, u'crutch', 0.026141305]
+[u'groom', 0.095023386, u'oboe', 0.074152999, u'stage', 0.058614109, u'drum', 0.053353406, u'bassoon', 0.052816175]

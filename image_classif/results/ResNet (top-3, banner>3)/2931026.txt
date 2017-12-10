@@ -1,0 +1,4 @@
+[u'window_screen', 0.17468153, u'alligator_lizard', 0.09294685, u'Welsh_springer_spaniel', 0.052231126]
+[u'lab_coat', 0.15360814, u'container_ship', 0.13266549, u'oxygen_mask', 0.068710983]
+[u'fireboat', 0.1520306, u'liner', 0.067132995, u'airship', 0.038491886]
+[u'paintbrush', 0.34031159, u'nail', 0.22675109, u'black_widow', 0.054536432]

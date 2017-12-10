@@ -1,0 +1,6 @@
+[u'Afghan_hound', 0.56745279, u'jeep', 0.06366419, u'minibus', 0.033878285, u'pickup', 0.031518031, u'limousine', 0.026129726]
+[u'wreck', 0.28484231, u'boathouse', 0.13788649, u'dock', 0.13243847, u'lakeside', 0.080946274, u'dam', 0.058739625]
+[u'book_jacket', 0.1436128, u'jersey', 0.11584132, u'tennis_ball', 0.092777483, u'digital_clock', 0.055605471, u'pick', 0.046931755]
+[u'harvester', 0.81097502, u'plow', 0.058141537, u'tractor', 0.042306736, u'hay', 0.032679208, u'trailer_truck', 0.018896202]
+[u'Sussex_spaniel', 0.42168015, u'Irish_setter', 0.34296283, u'book_jacket', 0.049357101, u'Irish_water_spaniel', 0.040370315, u'flat-coated_retriever', 0.021589022]
+[u'nail', 0.16869862, u'Madagascar_cat', 0.11226226, u'kite', 0.093895458, u'albatross', 0.073023692, u'goose', 0.070229545]

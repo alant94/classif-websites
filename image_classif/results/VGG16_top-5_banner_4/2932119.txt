@@ -1,0 +1,2 @@
+[u'web_site', 0.34832817, u'rule', 0.044834141, u'envelope', 0.041842192, u'analog_clock', 0.015886657, u'stopwatch', 0.015180109]
+[u'digital_clock', 0.10556418, u'maze', 0.10346845, u'scoreboard', 0.064015061, u'cash_machine', 0.03289425, u'crossword_puzzle', 0.031264782]

@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.091348648, u'binder', 0.073759519, u'monitor', 0.070408076, u'oscilloscope', 0.061354674, u'abacus', 0.054306865]
+[u'monitor', 0.19560114, u'web_site', 0.087661847, u'scoreboard', 0.060557809, u'container_ship', 0.056702066, u'library', 0.054714561]

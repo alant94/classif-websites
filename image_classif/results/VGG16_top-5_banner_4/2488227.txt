@@ -1,0 +1,2 @@
+[u'jeep', 0.20851119, u'recreational_vehicle', 0.15995906, u'tow_truck', 0.13552938, u'half_track', 0.095264934, u'mobile_home', 0.094676316]
+[u'web_site', 0.95097256, u'book_jacket', 0.0097692301, u'cash_machine', 0.0022699826, u'moving_van', 0.0019364835, u'beacon', 0.0014122992]

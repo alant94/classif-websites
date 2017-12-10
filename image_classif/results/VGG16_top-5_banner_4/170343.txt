@@ -1,0 +1,2 @@
+[u'coil', 0.15717094, u'plate_rack', 0.094564274, u'drum', 0.057495642, u'panpipe', 0.05525462, u'water_tower', 0.052887041]
+[u'nail', 0.048093613, u'drilling_platform', 0.046891481, u'airship', 0.044820484, u'crane', 0.034089707, u'water_tower', 0.032705992]

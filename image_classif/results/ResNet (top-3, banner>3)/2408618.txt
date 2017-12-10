@@ -1,0 +1,2 @@
+[u'plate_rack', 0.46178496, u'wall_clock', 0.052867617, u'doormat', 0.033270225]
+[u'web_site', 0.24935484, u'nematode', 0.046590552, u'matchstick', 0.044421177]

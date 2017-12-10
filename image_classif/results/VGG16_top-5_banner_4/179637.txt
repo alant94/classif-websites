@@ -1,0 +1,2 @@
+[u'lab_coat', 0.072931893, u'suit', 0.065451361, u'bakery', 0.043991446, u'library', 0.040713187, u'plane', 0.03180477]
+[u'mobile_home', 0.46034968, u'patio', 0.042066008, u'picket_fence', 0.033822056, u'water_tower', 0.02827738, u'soccer_ball', 0.018342433]

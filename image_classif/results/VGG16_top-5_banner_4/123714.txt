@@ -1,0 +1,1 @@
+[u'analog_clock', 0.20557246, u'wall_clock', 0.15722139, u'cassette', 0.12378024, u'puck', 0.034879655, u'hair_slide', 0.032940984]

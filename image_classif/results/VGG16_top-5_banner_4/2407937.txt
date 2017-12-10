@@ -1,0 +1,1 @@
+[u'brass', 0.23530452, u'park_bench', 0.22355612, u'crate', 0.20416062, u'rocking_chair', 0.025437389, u'freight_car', 0.023648277]

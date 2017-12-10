@@ -1,0 +1,3 @@
+[u'web_site', 0.90120053, u'comic_book', 0.02441116, u'rule', 0.0058404859]
+[u'book_jacket', 0.25113073, u'comic_book', 0.15946528, u'menu', 0.1391007]
+[u'scoreboard', 0.26862803, u'street_sign', 0.13934591, u'screen', 0.073950849]

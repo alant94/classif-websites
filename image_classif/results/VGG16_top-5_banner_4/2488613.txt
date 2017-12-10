@@ -1,0 +1,2 @@
+[u'vending_machine', 0.17889565, u'web_site', 0.12376929, u'switch', 0.051141355, u'cash_machine', 0.043743875, u'library', 0.04104463]
+[u'container_ship', 0.67412865, u'scoreboard', 0.11293239, u'safe', 0.02241616, u'digital_clock', 0.017803201, u'crossword_puzzle', 0.013152651]

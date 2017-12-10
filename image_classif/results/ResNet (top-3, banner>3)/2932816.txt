@@ -1,0 +1,1 @@
+[u'envelope', 0.093117312, u'plastic_bag', 0.051190034, u'cash_machine', 0.042617597]

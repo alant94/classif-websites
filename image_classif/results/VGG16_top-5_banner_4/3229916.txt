@@ -1,0 +1,3 @@
+[u'web_site', 0.051288925, u'matchstick', 0.032264441, u'analog_clock', 0.016946984, u'nematode', 0.016655412, u'hourglass', 0.015662439]
+[u'envelope', 0.19292049, u'web_site', 0.10846154, u'cash_machine', 0.061910961, u'monitor', 0.033663616, u'tennis_ball', 0.032995582]
+[u'rapeseed', 0.88394982, u'picket_fence', 0.012222064, u'lakeside', 0.012149517, u'megalith', 0.0086810719, u'castle', 0.0058360691]

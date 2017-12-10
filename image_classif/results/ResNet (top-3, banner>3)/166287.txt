@@ -1,0 +1,2 @@
+[u'digital_clock', 0.40643457, u'web_site', 0.31979182, u'harmonica', 0.07377699]
+[u'web_site', 0.99953282, u'monitor', 6.1573141e-05, u'television', 5.3719337e-05]

@@ -1,0 +1,6 @@
+[u'television', 0.71628821, u'book_jacket', 0.099597529, u'screen', 0.032442939, u'web_site', 0.023618393, u'bow_tie', 0.01527012]
+[u'Band_Aid', 0.10527983, u'envelope', 0.081528239, u'face_powder', 0.055996038, u'web_site', 0.041564509, u'lipstick', 0.035671726]
+[u'horse_cart', 0.097193047, u'alp', 0.08412087, u'castle', 0.083434604, u'mountain_bike', 0.078131936, u'bicycle-built-for-two', 0.042986274]
+[u'cash_machine', 0.29317087, u'slot', 0.11093784, u'pay-phone', 0.06848377, u'parking_meter', 0.062308345, u'gas_pump', 0.044385314]
+[u'envelope', 0.063602813, u'scoreboard', 0.037775442, u'digital_clock', 0.037200093, u'balloon', 0.03556253, u'binder', 0.035078198]
+[u'candle', 0.16930424, u'theater_curtain', 0.10745624, u'beer_glass', 0.076422028, u'tray', 0.062596053, u'restaurant', 0.047826417]

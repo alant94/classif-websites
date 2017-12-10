@@ -1,0 +1,3 @@
+[u'toyshop', 0.56117696, u'mask', 0.24992318, u'altar', 0.025920609, u'comic_book', 0.023466771, u'carousel', 0.016284002]
+[u'cannon', 0.15767561, u'pole', 0.081150167, u'reel', 0.078637689, u'mountain_bike', 0.055025771, u'projectile', 0.042393092]
+[u'envelope', 0.49520591, u'rule', 0.25698319, u'web_site', 0.1062036, u'matchstick', 0.013526592, u'hook', 0.0085201263]

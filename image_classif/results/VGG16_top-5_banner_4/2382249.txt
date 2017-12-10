@@ -1,0 +1,4 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'envelope', 0.17463149, u'web_site', 0.086942248, u'binder', 0.015021181, u'Band_Aid', 0.0147485, u'analog_clock', 0.013101875]
+[u'ski', 0.29356134, u'banana', 0.14061244, u'racket', 0.097544864, u'airship', 0.061075322, u'rugby_ball', 0.040382221]
+[u'envelope', 0.11859827, u'web_site', 0.033377513, u'wardrobe', 0.020187976, u'Band_Aid', 0.018779274, u'lighter', 0.0161105]

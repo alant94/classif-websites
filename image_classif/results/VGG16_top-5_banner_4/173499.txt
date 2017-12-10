@@ -1,0 +1,4 @@
+[u'flagpole', 0.079460345, u'pole', 0.074623592, u'torch', 0.047189478, u'syringe', 0.045916535, u'street_sign', 0.042918943]
+[u'web_site', 0.22711161, u'nematode', 0.094762228, u'hook', 0.058799382, u'book_jacket', 0.053405266, u'envelope', 0.033315532]
+[u'oscilloscope', 0.38797116, u'digital_clock', 0.11826276, u'analog_clock', 0.098775439, u'screen', 0.037396438, u'web_site', 0.031568628]
+[u'book_jacket', 0.53769076, u'menu', 0.24059451, u'carton', 0.057019908, u'envelope', 0.021067671, u'perfume', 0.015932003]

@@ -1,0 +1,2 @@
+[u'switch', 0.43930572, u'bottlecap', 0.31178814, u'puck', 0.031689581, u'stopwatch', 0.019910993, u'strainer', 0.018742127]
+[u'chime', 0.25095335, u'water_tower', 0.11873799, u'nail', 0.088819735, u'airship', 0.031874329, u'balloon', 0.031322222]

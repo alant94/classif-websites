@@ -1,0 +1,4 @@
+[u'bell_cote', 0.47985363, u'wall_clock', 0.044785131, u'jigsaw_puzzle', 0.034409039, u'picket_fence', 0.030510923, u'church', 0.022830769]
+[u'traffic_light', 0.40084767, u'street_sign', 0.32860103, u'hook', 0.03460943, u'maze', 0.034592949, u'binder', 0.0097976197]
+[u'web_site', 0.27518606, u'television', 0.051934272, u'diaper', 0.044232249, u'jean', 0.041840762, u'cellular_telephone', 0.026109012]
+[u'picket_fence', 0.46220583, u'spatula', 0.14763872, u'rule', 0.071503602, u'screwdriver', 0.034135502, u'safety_pin', 0.033670504]

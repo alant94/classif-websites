@@ -1,0 +1,3 @@
+[u'cowboy_hat', 0.31943876, u'toilet_seat', 0.21852536, u'sombrero', 0.18831311, u'bib', 0.058615513, u'neck_brace', 0.016651919]
+[u'pickelhaube', 0.74844444, u'military_uniform', 0.10944175, u'bow_tie', 0.03520545, u'book_jacket', 0.032231957, u'suit', 0.010792375]
+[u'puck', 0.42678884, u'face_powder', 0.12642483, u'pick', 0.054738481, u'matchstick', 0.043355878, u'analog_clock', 0.022641512]

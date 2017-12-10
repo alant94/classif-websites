@@ -1,0 +1,2 @@
+[u'clog', 0.70963758, u'lighter', 0.12701206, u'ballpoint', 0.042869084, u'saltshaker', 0.025575191, u'thimble', 0.011300527]
+[u'thimble', 0.39595127, u'book_jacket', 0.21007167, u'altar', 0.064178407, u'tray', 0.033025656, u'soap_dispenser', 0.019489691]

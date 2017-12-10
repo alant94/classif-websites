@@ -1,0 +1,4 @@
+[u'scoreboard', 0.14731267, u'comic_book', 0.1446186, u'jersey', 0.067795336, u'coffee_mug', 0.048089821, u'web_site', 0.03794786]
+[u'perfume', 0.54332262, u'lotion', 0.15377514, u'soap_dispenser', 0.12529391, u'water_bottle', 0.053686801, u'cocktail_shaker', 0.033731438]
+[u'cocktail_shaker', 0.82572722, u'hair_spray', 0.047343712, u'lotion', 0.03305855, u'water_bottle', 0.031724226, u'perfume', 0.016636588]
+[u'medicine_chest', 0.26287133, u'lotion', 0.16986303, u'hair_spray', 0.16200408, u'perfume', 0.096063457, u'water_bottle', 0.04618644]

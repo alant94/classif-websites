@@ -1,0 +1,4 @@
+[u'web_site', 0.15927327, u'digital_clock', 0.11146889, u'nematode', 0.095662117]
+[u'analog_clock', 0.44706073, u'stopwatch', 0.17817597, u'web_site', 0.08183375]
+[u'suit', 0.39632842, u'oboe', 0.14793716, u'notebook', 0.072438531]
+[u'prayer_rug', 0.41765943, u'tray', 0.032533586, u'purse', 0.031438585]

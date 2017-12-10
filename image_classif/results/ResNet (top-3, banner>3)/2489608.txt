@@ -1,0 +1,7 @@
+[u'abaya', 0.35166493, u'iron', 0.08355312, u'hook', 0.027852964]
+[u'folding_chair', 0.26651189, u'rocking_chair', 0.18272743, u'comic_book', 0.10688291]
+[u'jean', 0.21253723, u'ski', 0.14908594, u'pajama', 0.093643427]
+[u'church', 0.71805078, u'bell_cote', 0.15746865, u'picket_fence', 0.022181058]
+[u'paper_towel', 0.2898829, u'packet', 0.18364449, u'plastic_bag', 0.17973766]
+[u'library', 0.27746016, u'cinema', 0.1076017, u'window_screen', 0.091512449]
+[u'boathouse', 0.51790959, u'picket_fence', 0.19063753, u'barn', 0.063216686]

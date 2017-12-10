@@ -1,0 +1,2 @@
+[u'container_ship', 0.30893993, u'stupa', 0.23411928, u'airship', 0.078525133, u'crane', 0.073158935, u'balloon', 0.046622988]
+[u'web_site', 0.12159083, u'matchstick', 0.050394773, u'red_wine', 0.043606162, u'lighter', 0.031939574, u'envelope', 0.026483696]

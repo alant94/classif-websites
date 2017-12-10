@@ -1,0 +1,1 @@
+[u'street_sign', 0.073338449, u'hatchet', 0.053521734, u'web_site', 0.046963491, u'digital_clock', 0.04065555, u'hook', 0.030162577]

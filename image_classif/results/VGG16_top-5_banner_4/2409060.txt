@@ -1,0 +1,6 @@
+[u'pick', 0.13324447, u'digital_clock', 0.10018785, u'digital_watch', 0.068482623, u'perfume', 0.042387184, u'buckle', 0.035106882]
+[u'nematode', 0.73426455, u'hook', 0.074816309, u'jellyfish', 0.033399858, u'chain', 0.018977897, u'coil', 0.018687218]
+[u'loupe', 0.11882976, u'bubble', 0.1118938, u'ski_mask', 0.075783528, u'mouse', 0.067357115, u'traffic_light', 0.064310446]
+[u'digital_clock', 0.34787777, u'jersey', 0.10452683, u'digital_watch', 0.051695757, u'pick', 0.022266829, u'traffic_light', 0.02212489]
+[u'jersey', 0.58174241, u'pick', 0.062784813, u'hair_slide', 0.048077628, u'necklace', 0.03906988, u'spider_web', 0.030320372]
+[u'digital_clock', 0.33548707, u'digital_watch', 0.1310709, u'stopwatch', 0.058962442, u'pick', 0.041334521, u'jersey', 0.032928128]

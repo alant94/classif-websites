@@ -1,0 +1,6 @@
+[u'aircraft_carrier', 0.81607455, u'space_shuttle', 0.074688613, u'warplane', 0.046526358, u'projectile', 0.022701427, u'missile', 0.016593788]
+[u'web_site', 0.96457779, u'Band_Aid', 0.0028614565, u'ballpoint', 0.0022623672, u'rifle', 0.0018369076, u'cash_machine', 0.0016535092]
+[u'boathouse', 0.30778137, u'dock', 0.27254841, u'trimaran', 0.058622349, u'mobile_home', 0.05576409, u'liner', 0.052976131]
+[u'monitor', 0.28475931, u'projector', 0.16915059, u'screen', 0.12864862, u'television', 0.10106985, u'home_theater', 0.035422768]
+[u'space_heater', 0.34825957, u'packet', 0.21383195, u'crate', 0.10149904, u'book_jacket', 0.094325349, u'mousetrap', 0.084770769]
+[u'airship', 0.22740223, u'airliner', 0.14971143, u'container_ship', 0.14881931, u'space_shuttle', 0.099882461, u'web_site', 0.087380469]

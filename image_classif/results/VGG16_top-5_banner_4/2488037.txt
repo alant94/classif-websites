@@ -1,0 +1,2 @@
+[u'Petri_dish', 0.2279359, u'barrel', 0.0904264, u'toilet_seat', 0.082621358, u'spotlight', 0.075168155, u'planetarium', 0.059142742]
+[u'window_shade', 0.14627631, u'fire_screen', 0.08667887, u'book_jacket', 0.07131274, u'envelope', 0.062171429, u'window_screen', 0.049238458]

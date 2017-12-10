@@ -1,0 +1,2 @@
+[u'sweatshirt', 0.49210748, u'jersey', 0.32860962, u'ballplayer', 0.06763868, u'book_jacket', 0.031047119, u'football_helmet', 0.024468763]
+[u'fire_engine', 0.24494411, u'cab', 0.22901346, u'traffic_light', 0.045320459, u'tow_truck', 0.036694501, u'restaurant', 0.033555489]

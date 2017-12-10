@@ -1,0 +1,6 @@
+[u'llama', 0.27505046, u'horse_cart', 0.13767529, u'Arabian_camel', 0.13289122, u'triumphal_arch', 0.064410172, u'obelisk', 0.044902083]
+[u'minibus', 0.10776285, u'recreational_vehicle', 0.095437825, u'minivan', 0.089490838, u'ambulance', 0.072731018, u'aircraft_carrier', 0.046815228]
+[u'flagpole', 0.14526883, u'palace', 0.093814351, u'fountain', 0.093750127, u'bell_cote', 0.054287009, u'obelisk', 0.050542913]
+[u'scoreboard', 0.32013485, u'street_sign', 0.19194897, u'sundial', 0.10987731, u'bannister', 0.088180766, u'park_bench', 0.055349406]
+[u'fountain', 0.2279297, u'stage', 0.21890435, u'volcano', 0.16386393, u'theater_curtain', 0.05012536, u'barn', 0.022949215]
+[u'wig', 0.17611498, u'trench_coat', 0.10482082, u'suit', 0.056726668, u'miniskirt', 0.039188217, u'notebook', 0.038820691]

@@ -1,0 +1,1 @@
+[u'switch', 0.052447051, u'wall_clock', 0.03314558, u'lighter', 0.029034257, u'binder', 0.028894736, u'theater_curtain', 0.025975382]

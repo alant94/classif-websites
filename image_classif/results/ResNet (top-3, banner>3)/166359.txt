@@ -1,0 +1,4 @@
+[u'street_sign', 0.95904464, u'traffic_light', 0.01609041, u'cab', 0.0047075385]
+[u'microphone', 0.79578793, u'spotlight', 0.18149483, u'stage', 0.017713392]
+[u'beaker', 0.14218429, u'lab_coat', 0.13631804, u'oxygen_mask', 0.12797482]
+[u'gong', 0.44403952, u'chime', 0.17718565, u'drum', 0.14641444]

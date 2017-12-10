@@ -1,0 +1,2 @@
+[u'book_jacket', 0.096963547, u'comic_book', 0.070050046, u'sunglasses', 0.06198876, u'sunglass', 0.04987083, u'bubble', 0.032238308]
+[u'letter_opener', 0.17436333, u'matchstick', 0.1082179, u'scabbard', 0.058423758, u'web_site', 0.053884454, u'ballpoint', 0.053545669]

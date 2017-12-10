@@ -1,0 +1,4 @@
+[u'upright', 0.92124176, u'grand_piano', 0.066986389, u'organ', 0.0039446643, u'accordion', 0.0033791347, u'computer_keyboard', 0.0006688885]
+[u'nail', 0.1061027, u'hook', 0.10548991, u'balance_beam', 0.083454005, u'parallel_bars', 0.024673805, u'barbell', 0.022148198]
+[u'seashore', 0.39805934, u'sandbar', 0.25185189, u'lakeside', 0.060077056, u'killer_whale', 0.025077134, u'promontory', 0.020295875]
+[u'plate_rack', 0.18811303, u'hook', 0.12425002, u'corkscrew', 0.07321693, u'shield', 0.057431892, u'street_sign', 0.040357389]

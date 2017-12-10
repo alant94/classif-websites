@@ -1,0 +1,6 @@
+[u'coho', 0.24787249, u'vestment', 0.22280194, u'wardrobe', 0.087014578]
+[u'shoe_shop', 0.27931458, u'wardrobe', 0.093991682, u'brassiere', 0.07387539]
+[u'wardrobe', 0.2589038, u'handkerchief', 0.20586938, u'picket_fence', 0.086458161]
+[u'butcher_shop', 0.9516871, u'fountain', 0.013499834, u'brassiere', 0.0037035057]
+[u'altar', 0.14074963, u'groom', 0.069319017, u'vestment', 0.064017326]
+[u'paintbrush', 0.34706905, u"potter's_wheel", 0.044279814, u'vestment', 0.038718626]

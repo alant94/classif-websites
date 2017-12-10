@@ -1,0 +1,5 @@
+[u'plunger', 0.1041147, u'stage', 0.087082677, u'maillot', 0.047534421, u'bathing_cap', 0.033798851, u'maillot', 0.031924441]
+[u'unicycle', 0.65829235, u'crutch', 0.10358975, u'racket', 0.041627266, u'bicycle-built-for-two', 0.027279602, u'stethoscope', 0.02168644]
+[u'mantis', 0.72331297, u'vine_snake', 0.039094191, u"yellow_lady's_slipper", 0.028878115, u'green_mamba', 0.013433791, u'volleyball', 0.0092987595]
+[u'cinema', 0.35931069, u'analog_clock', 0.1203097, u'bell_cote', 0.050942626, u'suspension_bridge', 0.032411087, u'church', 0.029203201]
+[u'stole', 0.39519817, u'wool', 0.068528861, u'barracouta', 0.066625997, u'coho', 0.053561896, u'poncho', 0.044338398]

@@ -1,0 +1,7 @@
+[u'book_jacket', 0.85290742, u'comic_book', 0.029243965, u'street_sign', 0.011375238, u'barbershop', 0.0072617801, u'jersey', 0.0048681134]
+[u'perfume', 0.18306784, u'syringe', 0.12204242, u'lampshade', 0.075464584, u'wine_bottle', 0.040280014, u'brassiere', 0.036676474]
+[u'perfume', 0.15463388, u'syringe', 0.13238966, u'lampshade', 0.065492965, u'pill_bottle', 0.056111872, u'wine_bottle', 0.04282479]
+[u'perfume', 0.26014474, u'syringe', 0.11339981, u'wine_bottle', 0.032751214, u'pill_bottle', 0.032545704, u'lampshade', 0.025975429]
+[u'perfume', 0.33422813, u'wine_bottle', 0.078348801, u'syringe', 0.061454352, u'brassiere', 0.04728258, u'lampshade', 0.036274739]
+[u'bulletproof_vest', 0.79273272, u'wine_bottle', 0.043433383, u'holster', 0.032911733, u'perfume', 0.01911819, u'red_wine', 0.014224067]
+[u'cuirass', 0.1811168, u'breastplate', 0.087242164, u'gasmask', 0.063731469, u'lampshade', 0.055493958, u'pickelhaube', 0.038704097]

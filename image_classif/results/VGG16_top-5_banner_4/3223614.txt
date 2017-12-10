@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.77775776, u'tray', 0.10961089, u'wall_clock', 0.019420473, u'toilet_seat', 0.015536688, u'slot', 0.012932716]
+[u'television', 0.15162846, u'spotlight', 0.094651595, u'screen', 0.077432021, u'monitor', 0.039031964, u'beacon', 0.034144234]

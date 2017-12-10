@@ -1,0 +1,2 @@
+[u'candle', 0.053683762, u'web_site', 0.047768779, u'envelope', 0.043782789, u'matchstick', 0.039549395, u'pedestal', 0.026353594]
+[u'restaurant', 0.31447589, u'patio', 0.21960761, u'barbershop', 0.073808089, u'barber_chair', 0.029227545, u'grocery_store', 0.017372664]

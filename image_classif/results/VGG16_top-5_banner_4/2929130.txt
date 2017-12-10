@@ -1,0 +1,7 @@
+[u'diaper', 0.24352066, u'Band_Aid', 0.10410646, u'face_powder', 0.055242274, u'sunscreen', 0.035272475, u'swimming_trunks', 0.035082527]
+[u'bikini', 0.34967995, u'maillot', 0.22076829, u'brassiere', 0.1919089, u'maillot', 0.045262627, u'diaper', 0.035992444]
+[u'diaper', 0.17259291, u'brassiere', 0.14878269, u'maillot', 0.11379943, u'bikini', 0.10649174, u'maillot', 0.031375382]
+[u'lab_coat', 0.23868266, u'wig', 0.1131737, u'hair_spray', 0.062486626, u'sunscreen', 0.054584149, u'lipstick', 0.04690421]
+[u'brassiere', 0.36243132, u'bikini', 0.28361931, u'maillot', 0.15070638, u'miniskirt', 0.044214312, u'gown', 0.035433367]
+[u'bikini', 0.42642614, u'maillot', 0.23728147, u'brassiere', 0.17493334, u'maillot', 0.07940501, u'sarong', 0.032797173]
+[u'swimming_trunks', 0.49522111, u'miniskirt', 0.13695581, u'sarong', 0.0755198, u'brassiere', 0.067151852, u'bikini', 0.03263342]

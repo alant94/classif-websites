@@ -1,0 +1,7 @@
+[u'nematode', 0.039590292, u'envelope', 0.032576401, u'plunger', 0.020753535]
+[u'lakeside', 0.26970634, u'balloon', 0.039859686, u'bittern', 0.031936701]
+[u'envelope', 0.036113668, u'Granny_Smith', 0.026495067, u'loupe', 0.019559046]
+[u'envelope', 0.047488652, u'nematode', 0.032551061, u'hook', 0.028663436]
+[u'web_site', 0.24386796, u'envelope', 0.11487303, u'analog_clock', 0.098395832]
+[u'web_site', 0.24135503, u'digital_clock', 0.13480093, u'envelope', 0.065861106]
+[u'wild_boar', 0.76763564, u'hog', 0.11685187, u'warthog', 0.058600232]

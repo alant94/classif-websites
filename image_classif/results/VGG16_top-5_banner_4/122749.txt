@@ -1,0 +1,6 @@
+[u'toyshop', 0.17288579, u'ski_mask', 0.04052832, u'confectionery', 0.038249817, u'restaurant', 0.035398245, u'bakery', 0.034928121]
+[u'comic_book', 0.2290211, u'pretzel', 0.10876411, u'packet', 0.074381419, u'jersey', 0.063803501, u'book_jacket', 0.038343299]
+[u'mask', 0.32653973, u'feather_boa', 0.19992161, u'wig', 0.1771028, u'toyshop', 0.11313768, u'maraca', 0.031310391]
+[u'bubble', 0.26716134, u'fountain', 0.26091781, u'fireboat', 0.089383699, u'stage', 0.052413885, u'perfume', 0.039818447]
+[u'brassiere', 0.13134146, u'bikini', 0.09603256, u'wig', 0.069855772, u'maillot', 0.046692505, u'guillotine', 0.034359846]
+[u'comic_book', 0.66419524, u'book_jacket', 0.066078573, u'toyshop', 0.039940897, u'jigsaw_puzzle', 0.028725212, u'altar', 0.020433646]

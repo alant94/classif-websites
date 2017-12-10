@@ -1,0 +1,4 @@
+[u'puck', 0.87283295, u'beer_glass', 0.063382961, u'shield', 0.013549083]
+[u'bottlecap', 0.75483537, u'shield', 0.050163299, u'stopwatch', 0.031532802]
+[u'bottlecap', 0.30797398, u'slot', 0.22209118, u'packet', 0.076477498]
+[u'web_site', 0.54838914, u'nematode', 0.030637983, u'digital_clock', 0.024981227]

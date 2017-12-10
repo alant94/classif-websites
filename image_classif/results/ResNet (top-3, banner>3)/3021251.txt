@@ -1,0 +1,2 @@
+[u'container_ship', 0.23646492, u'garbage_truck', 0.16677624, u'shopping_basket', 0.12583457]
+[u'trailer_truck', 0.65348887, u'tow_truck', 0.14032701, u'moving_van', 0.067198642]

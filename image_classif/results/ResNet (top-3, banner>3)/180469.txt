@@ -1,0 +1,4 @@
+[u'web_site', 0.10525033, u'hook', 0.052074872, u'stopwatch', 0.027318036]
+[u'web_site', 0.61838883, u'envelope', 0.030306892, u'digital_clock', 0.015503681]
+[u'analog_clock', 0.066298351, u'guillotine', 0.052973341, u'digital_watch', 0.052101783]
+[u'digital_clock', 0.32297757, u'web_site', 0.088217534, u'analog_clock', 0.06609907]

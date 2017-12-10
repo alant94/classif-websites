@@ -1,0 +1,1 @@
+[u'four-poster', 0.97823447, u'studio_couch', 0.010200559, u'crib', 0.003147423, u'bannister', 0.0030062525, u'dining_table', 0.002140271]

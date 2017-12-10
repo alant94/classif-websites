@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.30193409, u'scoreboard', 0.088752076, u'screen', 0.07294409]
+[u'oscilloscope', 0.0686552, u'limousine', 0.061678879, u'street_sign', 0.050857689]
+[u'oscilloscope', 0.21265092, u'screwdriver', 0.065192334, u'solar_dish', 0.051081847]
+[u'screwdriver', 0.2123974, u'oscilloscope', 0.063162334, u'web_site', 0.047467239]

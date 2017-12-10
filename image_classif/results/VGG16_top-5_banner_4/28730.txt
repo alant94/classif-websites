@@ -1,0 +1,6 @@
+[u'envelope', 0.31207749, u'digital_clock', 0.16542491, u'web_site', 0.054929432, u'Band_Aid', 0.033816688, u'digital_watch', 0.017203659]
+[u'digital_clock', 0.084343933, u'envelope', 0.052034993, u'airship', 0.032357659, u'wing', 0.030620471, u'wall_clock', 0.025900461]
+[u'digital_clock', 0.16083409, u'envelope', 0.073929578, u'wall_clock', 0.046121001, u'scoreboard', 0.023096748, u'street_sign', 0.016284117]
+[u'digital_clock', 0.16956763, u'wall_clock', 0.06727457, u'envelope', 0.042417221, u'digital_watch', 0.027117625, u'doormat', 0.024087159]
+[u'Band_Aid', 0.25517431, u'envelope', 0.15540628, u'Windsor_tie', 0.044953804, u'matchstick', 0.029433934, u'rubber_eraser', 0.021447796]
+[u'coral_fungus', 0.7490257, u'picket_fence', 0.20993535, u'radiator', 0.0087294811, u'coral_reef', 0.0038190214, u'worm_fence', 0.0036981017]

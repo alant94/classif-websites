@@ -1,0 +1,2 @@
+[u'web_site', 0.93639672, u'analog_clock', 0.013382993, u'Band_Aid', 0.0035862373, u'maze', 0.0032111297, u'remote_control', 0.003002943]
+[u'traffic_light', 0.17894936, u'envelope', 0.094331883, u'hook', 0.081899531, u'lighter', 0.067907006, u'switch', 0.065912895]

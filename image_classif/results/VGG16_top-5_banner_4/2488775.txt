@@ -1,0 +1,7 @@
+[u'tray', 0.21106131, u'shield', 0.1716612, u'toilet_seat', 0.054697387, u'wall_clock', 0.040156815, u'maze', 0.027809536]
+[u'boathouse', 0.11607219, u'lakeside', 0.057646848, u'redshank', 0.0434804, u'black_stork', 0.030897342, u'beaver', 0.028809737]
+[u'maze', 0.070861086, u'wall_clock', 0.059848201, u'toilet_seat', 0.043703407, u'candle', 0.033485211, u'coil', 0.031597212]
+[u'scoreboard', 0.5964365, u'switch', 0.15235093, u'container_ship', 0.10211331, u'vending_machine', 0.038565267, u'abacus', 0.031602893]
+[u'maze', 0.107514, u'wall_clock', 0.040752485, u'toilet_seat', 0.027429393, u'container_ship', 0.02633046, u'tray', 0.023666471]
+[u'toilet_seat', 0.078766935, u'Christmas_stocking', 0.078460671, u'tray', 0.048756711, u'maze', 0.030898703, u'container_ship', 0.030596238]
+[u'worm_fence', 0.37412292, u'picket_fence', 0.26869127, u'cradle', 0.073182717, u'ear', 0.031096512, u'park_bench', 0.023235591]

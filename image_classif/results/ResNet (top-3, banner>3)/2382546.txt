@@ -1,0 +1,7 @@
+[u'rifle', 0.88768798, u'wine_bottle', 0.033257946, u'bow', 0.03176396]
+[u'plane', 0.20128992, u'crate', 0.11491982, u'tobacco_shop', 0.11147316]
+[u'barrel', 0.35764959, u'wardrobe', 0.3545585, u'jean', 0.11035936]
+[u'book_jacket', 0.27576572, u'web_site', 0.095220409, u'comic_book', 0.065374009]
+[u'wine_bottle', 0.43448666, u'red_wine', 0.39020297, u'beer_glass', 0.042340927]
+[u'wine_bottle', 0.84105653, u'red_wine', 0.090200402, u'beer_bottle', 0.06009049]
+[u'sundial', 0.3281903, u'quill', 0.20551868, u'envelope', 0.10599706]

@@ -1,0 +1,7 @@
+[u'spindle', 0.80956072, u'plunger', 0.15663114, u'tricycle', 0.0093358653, u'hammer', 0.002829904, u'drumstick', 0.0025692291]
+[u'birdhouse', 0.43887562, u'matchstick', 0.21213047, u'mousetrap', 0.039892703, u'switch', 0.031106208, u'wall_clock', 0.028331332]
+[u'menu', 0.21642013, u'grocery_store', 0.18256722, u'jigsaw_puzzle', 0.090951413, u'confectionery', 0.066321068, u'tobacco_shop', 0.063595034]
+[u'strainer', 0.19684382, u'face_powder', 0.13526337, u'buckle', 0.09209419, u'bottlecap', 0.072838888, u'loupe', 0.063029468]
+[u'sandal', 0.44527107, u'clog', 0.17270015, u'buckle', 0.14570563, u'maraca', 0.047303598, u'bolo_tie', 0.038380317]
+[u'purse', 0.1230422, u'hair_slide', 0.061664253, u'bottlecap', 0.052968439, u'wallet', 0.052389547, u'pencil_sharpener', 0.043295819]
+[u'pajama', 0.19506709, u'shower_curtain', 0.059597783, u'cardigan', 0.042894997, u'stole', 0.036294088, u'mosquito_net', 0.025893884]

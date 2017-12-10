@@ -1,0 +1,8 @@
+[u'bow', 0.061926857, u'pole', 0.047459148, u'television', 0.046366323]
+[u'stage', 0.23595612, u'kimono', 0.19424886, u'jean', 0.16355054]
+[u'comic_book', 0.73927933, u'wardrobe', 0.04920369, u'jean', 0.028334795]
+[u'hoopskirt', 0.37070206, u'overskirt', 0.072840214, u'gown', 0.054320294]
+[u'web_site', 0.26384187, u'stopwatch', 0.057454295, u'hook', 0.049488824]
+[u'comic_book', 0.50190413, u'web_site', 0.22475845, u'book_jacket', 0.13365404]
+[u'lab_coat', 0.82268721, u'jean', 0.049167898, u'Windsor_tie', 0.020223217]
+[u'bow', 0.30831969, u'stethoscope', 0.061766405, u'racket', 0.057193816]

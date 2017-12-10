@@ -1,0 +1,2 @@
+[u'abaya', 0.089173682, u'spotlight', 0.026352689, u'bulletproof_vest', 0.017007461, u'wing', 0.016036704, u'lampshade', 0.015754499]
+[u'envelope', 0.021925148, u'cleaver', 0.016875781, u'syringe', 0.010973473, u'red_wine', 0.0094857654, u'puck', 0.0089485701]

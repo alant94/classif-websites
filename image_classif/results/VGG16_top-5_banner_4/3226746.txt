@@ -1,0 +1,7 @@
+[u'wardrobe', 0.39580151, u'jean', 0.106488, u'wool', 0.10100289, u'stole', 0.099367127, u'cardigan', 0.073629536]
+[u'nematode', 0.083840363, u'matchstick', 0.058190279, u'digital_clock', 0.034388136, u'spotlight', 0.033032689, u'lighter', 0.026225587]
+[u'barbell', 0.8318159, u'dumbbell', 0.039317522, u'shower_curtain', 0.03620128, u'lab_coat', 0.0071400856, u'punching_bag', 0.0046476466]
+[u'moving_van', 0.21985431, u'ambulance', 0.099524856, u'trailer_truck', 0.068490356, u'cash_machine', 0.065711185, u'vending_machine', 0.050042544]
+[u'digital_clock', 0.71039659, u'screen', 0.035130911, u'cash_machine', 0.025770249, u'television', 0.022376485, u'scoreboard', 0.020625364]
+[u'web_site', 0.41040856, u'envelope', 0.26729184, u'binder', 0.043370958, u'Band_Aid', 0.015194329, u'whistle', 0.013996184]
+[u'web_site', 0.37317443, u'envelope', 0.14437158, u'comic_book', 0.060110211, u'book_jacket', 0.048298392, u'ski', 0.010341236]

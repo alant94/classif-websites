@@ -1,0 +1,5 @@
+[u"carpenter's_kit", 0.23954897, u'book_jacket', 0.076213352, u'picket_fence', 0.075728536]
+[u'brassiere', 0.96829963, u'bikini', 0.012336763, u'wig', 0.0047823852]
+[u'brassiere', 0.90503377, u'bikini', 0.040455487, u'maillot', 0.02222224]
+[u'scoreboard', 0.65845752, u'book_jacket', 0.24512856, u'oscilloscope', 0.030855117]
+[u'digital_watch', 0.74825174, u'screen', 0.059661485, u'hand-held_computer', 0.041523084]

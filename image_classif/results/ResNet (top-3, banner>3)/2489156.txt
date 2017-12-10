@@ -1,0 +1,2 @@
+[u'cliff_dwelling', 0.47159371, u'valley', 0.18356059, u'monastery', 0.089261129]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867]

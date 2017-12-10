@@ -1,0 +1,2 @@
+[u'fountain', 0.13567342, u'stupa', 0.06214796, u'brass', 0.050150551, u'palace', 0.037637621, u'monastery', 0.031006265]
+[u'altar', 0.06668862, u'brass', 0.048507564, u'book_jacket', 0.041039575, u'pedestal', 0.032545187, u'maze', 0.031370103]

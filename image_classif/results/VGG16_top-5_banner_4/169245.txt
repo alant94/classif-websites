@@ -1,0 +1,4 @@
+[u'nipple', 0.3153142, u'hook', 0.12643652, u'water_jug', 0.059347969, u'combination_lock', 0.049178515, u'nematode', 0.035259839]
+[u'hair_slide', 0.11630391, u'pick', 0.065772966, u'maze', 0.06399256, u'puck', 0.063454472, u'envelope', 0.05388511]
+[u'abaya', 0.12463239, u'velvet', 0.10124814, u'fur_coat', 0.097828902, u'stole', 0.091717191, u'cloak', 0.087146528]
+[u'spotlight', 0.86010814, u'muzzle', 0.10156295, u'gasmask', 0.0073836884, u'electric_fan', 0.0041029332, u'digital_watch', 0.0025393814]

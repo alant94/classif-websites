@@ -1,0 +1,6 @@
+[u'barrel', 0.24694189, u'beer_glass', 0.12661754, u'beer_bottle', 0.082386769, u'punching_bag', 0.05171708, u'barbershop', 0.040396228]
+[u'web_site', 0.057707932, u'cinema', 0.038391631, u'digital_clock', 0.038277589, u'bookcase', 0.036678769, u'book_jacket', 0.033639029]
+[u'bookcase', 0.12944204, u'paintbrush', 0.056601696, u'wine_bottle', 0.040080748, u'binder', 0.036709674, u'book_jacket', 0.033623751]
+[u'wild_boar', 0.28531519, u'warthog', 0.27008334, u'ibex', 0.076342247, u'bighorn', 0.045124777, u'Scottish_deerhound', 0.034748759]
+[u'book_jacket', 0.21466714, u'digital_clock', 0.081195369, u'barbershop', 0.029448353, u'web_site', 0.024675703, u'perfume', 0.020754321]
+[u'hook', 0.11018248, u'buckle', 0.095472775, u'iPod', 0.039800305, u'switch', 0.027634582, u'scale', 0.019702805]

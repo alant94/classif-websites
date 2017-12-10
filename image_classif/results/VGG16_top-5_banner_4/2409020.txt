@@ -1,0 +1,5 @@
+[u'envelope', 0.10904503, u'web_site', 0.031582683, u'wardrobe', 0.021878343, u'washbasin', 0.020920666, u'nematode', 0.018874688]
+[u'obelisk', 0.030385848, u'beacon', 0.025932904, u'parachute', 0.022716835, u'flagpole', 0.022070995, u'space_shuttle', 0.019227229]
+[u'television', 0.86647439, u'screen', 0.063446239, u'monitor', 0.032285482, u'desktop_computer', 0.0099048894, u'home_theater', 0.0049425247]
+[u'matchstick', 0.02180234, u'flagpole', 0.019668518, u'envelope', 0.016317053, u'beacon', 0.015962198, u'parachute', 0.014468158]
+[u'parachute', 0.024962125, u'matchstick', 0.023328962, u'beacon', 0.022360891, u'flagpole', 0.021605011, u'obelisk', 0.021331282]

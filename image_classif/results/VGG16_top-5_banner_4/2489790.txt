@@ -1,0 +1,7 @@
+[u'borzoi', 0.54904795, u'English_setter', 0.26930833, u'Ibizan_hound', 0.040187117, u'Irish_wolfhound', 0.027715139, u'clumber', 0.025256278]
+[u'chain_saw', 0.28441939, u'boa_constrictor', 0.066257, u'hatchet', 0.02958934, u'Chesapeake_Bay_retriever', 0.025989112, u'worm_fence', 0.02518251]
+[u'chain_saw', 0.18605489, u'military_uniform', 0.080071859, u'stone_wall', 0.051396932, u'swing', 0.040584676, u'hatchet', 0.028497756]
+[u'megalith', 0.13087521, u'Chesapeake_Bay_retriever', 0.041531987, u'dogsled', 0.040927984, u'chain_saw', 0.037562054, u'snowmobile', 0.031094054]
+[u'bighorn', 0.088697948, u'Irish_wolfhound', 0.080081344, u'borzoi', 0.079843111, u'dogsled', 0.063660122, u'Arabian_camel', 0.062915012]
+[u'mountain_bike', 0.36945307, u'water_buffalo', 0.15759256, u'hartebeest', 0.056906778, u'malinois', 0.037337642, u'wild_boar', 0.028057832]
+[u'wild_boar', 0.12662663, u'warthog', 0.086456262, u'tusker', 0.071173526, u'water_buffalo', 0.047355261, u'hartebeest', 0.04090884]

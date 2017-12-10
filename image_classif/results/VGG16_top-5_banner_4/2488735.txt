@@ -1,0 +1,2 @@
+[u'valley', 0.20371003, u'cliff', 0.12576918, u'alp', 0.088086657, u'lakeside', 0.069966786, u'mountain_tent', 0.058472935]
+[u'binder', 0.098452009, u'cash_machine', 0.079906605, u'street_sign', 0.057453826, u'digital_clock', 0.039958697, u'book_jacket', 0.032393377]

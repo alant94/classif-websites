@@ -1,0 +1,3 @@
+[u'book_jacket', 0.69288576, u'menu', 0.11863445, u'comic_book', 0.058298856, u'web_site', 0.054159794, u'vending_machine', 0.025757017]
+[u'book_jacket', 0.59659612, u'stage', 0.12102844, u'jigsaw_puzzle', 0.099231288, u'tray', 0.037600212, u'monitor', 0.017769925]
+[u'scoreboard', 0.44809189, u'book_jacket', 0.14209408, u'cash_machine', 0.10872125, u'screen', 0.025821811, u'digital_clock', 0.019244753]

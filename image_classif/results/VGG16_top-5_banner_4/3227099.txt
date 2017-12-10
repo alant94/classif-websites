@@ -1,0 +1,2 @@
+[u'bookshop', 0.13251941, u'balance_beam', 0.12345336, u'web_site', 0.11674583, u'stage', 0.060022917, u'book_jacket', 0.05348435]
+[u'cleaver', 0.058737259, u'mortarboard', 0.057545997, u'lab_coat', 0.053731486, u'paper_towel', 0.049383938, u'spatula', 0.040058441]

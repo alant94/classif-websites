@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.64254743, u'quilt', 0.2888509, u'tray', 0.012448826]
+[u'slot', 0.30712572, u'cash_machine', 0.090393789, u'ambulance', 0.052538905]

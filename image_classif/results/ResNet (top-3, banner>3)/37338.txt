@@ -1,0 +1,1 @@
+[u'cellular_telephone', 0.65584099, u'iPod', 0.19909889, u'stopwatch', 0.057632413]

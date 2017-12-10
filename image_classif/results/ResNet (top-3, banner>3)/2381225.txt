@@ -1,0 +1,6 @@
+[u'butcher_shop', 0.24429581, u'horizontal_bar', 0.17731707, u'jackfruit', 0.084354982]
+[u'worm_fence', 0.76463997, u'picket_fence', 0.23458855, u'barn', 0.00027545221]
+[u'coil', 0.99350441, u'organ', 0.0012815397, u'electric_fan', 0.0010307353]
+[u'picket_fence', 0.27913985, u'window_shade', 0.094494082, u'padlock', 0.068317331]
+[u'picket_fence', 0.73442584, u'wardrobe', 0.14611521, u'worm_fence', 0.07408721]
+[u'fountain', 0.17430317, u'alp', 0.10497516, u'lakeside', 0.082799964]

@@ -1,0 +1,6 @@
+[u'cardigan', 0.25963125, u'stole', 0.051307488, u'sock', 0.05036002, u'gown', 0.048926488, u'jean', 0.043479536]
+[u'cinema', 0.13408393, u'tobacco_shop', 0.10940382, u'street_sign', 0.08508952, u'bakery', 0.081084579, u'barbershop', 0.052609898]
+[u'stole', 0.34858224, u'lab_coat', 0.30020964, u'cardigan', 0.073123902, u'fur_coat', 0.070108958, u'sweatshirt', 0.041102078]
+[u'jellyfish', 0.10729978, u'book_jacket', 0.096468642, u'balloon', 0.052086189, u'puck', 0.023135325, u'ski_mask', 0.022154739]
+[u'dragonfly', 0.14282003, u'spoonbill', 0.083367541, u'torch', 0.074863493, u'jellyfish', 0.053518251, u'damselfly', 0.051576145]
+[u'street_sign', 0.16624577, u'book_jacket', 0.12237753, u'digital_clock', 0.11893032, u'traffic_light', 0.036398489, u'barbershop', 0.030890997]

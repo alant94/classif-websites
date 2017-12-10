@@ -1,0 +1,3 @@
+[u'web_site', 0.3017624, u'comic_book', 0.021188965, u'envelope', 0.01235711, u'tripod', 0.012297427, u'book_jacket', 0.011753542]
+[u'aircraft_carrier', 0.18119891, u'airship', 0.0855048, u'castle', 0.075674064, u'book_jacket', 0.050663348, u'jigsaw_puzzle', 0.046960775]
+[u'web_site', 0.18136585, u'envelope', 0.047313392, u'maraca', 0.04122474, u'hair_slide', 0.040068459, u'plunger', 0.028219212]

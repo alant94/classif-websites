@@ -1,0 +1,4 @@
+[u'fireboat', 0.080793358, u'container_ship', 0.033981018, u'scoreboard', 0.031955734, u'airship', 0.030105326, u'fountain', 0.029722953]
+[u'window_screen', 0.054075748, u'digital_clock', 0.031287048, u'tobacco_shop', 0.026211081, u'cash_machine', 0.023747604, u'turnstile', 0.023325361]
+[u'sarong', 0.54484153, u'swimming_trunks', 0.091027416, u'stole', 0.047165707, u'poncho', 0.044296339, u'gown', 0.033236466]
+[u'traffic_light', 0.13557285, u'window_shade', 0.082133316, u'spotlight', 0.081408001, u'sliding_door', 0.068138368, u'turnstile', 0.05203044]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.27654126, u'menu', 0.18877576, u'comic_book', 0.11440594]
+[u'hartebeest', 0.80944461, u'ibex', 0.080054969, u'gazelle', 0.031166166]
+[u'ox', 0.62852699, u'oxcart', 0.066364124, u'hartebeest', 0.047509652]

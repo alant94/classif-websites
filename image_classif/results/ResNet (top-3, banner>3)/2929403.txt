@@ -1,0 +1,8 @@
+[u'screw', 0.15774196, u'lighter', 0.052044947, u'hair_slide', 0.05128815]
+[u'panpipe', 0.95696044, u'marimba', 0.030767426, u'digital_watch', 0.0034052522]
+[u'panpipe', 0.90271324, u'marimba', 0.043693904, u'organ', 0.010979509]
+[u'screw', 0.31563362, u'coil', 0.27327433, u'bannister', 0.03814666]
+[u'loupe', 0.19528541, u'rifle', 0.14283912, u'drum', 0.062506318]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'digital_clock', 0.29469368, u'oscilloscope', 0.16480133, u'web_site', 0.040561769]
+[u'screw', 0.35157704, u'hair_slide', 0.056462955, u'lighter', 0.044438776]

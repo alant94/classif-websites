@@ -1,0 +1,4 @@
+[u'iPod', 0.30954424, u'desktop_computer', 0.17594728, u'web_site', 0.11357518, u'monitor', 0.07025294, u'laptop', 0.055548582]
+[u'bell_cote', 0.1113734, u'kite', 0.054267418, u'bald_eagle', 0.030306289, u'stupa', 0.027719727, u'crane', 0.027445542]
+[u"carpenter's_kit", 0.41227752, u'spatula', 0.14952108, u'corkscrew', 0.070735328, u'screwdriver', 0.040612794, u'safety_pin', 0.026583882]
+[u'kite', 0.15967289, u'bald_eagle', 0.10876779, u'white_stork', 0.047910336, u'sulphur-crested_cockatoo', 0.040123828, u'vulture', 0.026009973]

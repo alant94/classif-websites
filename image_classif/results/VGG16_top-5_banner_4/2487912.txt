@@ -1,0 +1,2 @@
+[u'picket_fence', 0.93582481, u'matchstick', 0.011216839, u'worm_fence', 0.0089748185, u'prison', 0.0026236894, u'radiator', 0.0026224249]
+[u'picket_fence', 0.6111272, u'syringe', 0.12231907, u'wine_bottle', 0.037657294, u'rule', 0.026525872, u'beer_bottle', 0.024999358]

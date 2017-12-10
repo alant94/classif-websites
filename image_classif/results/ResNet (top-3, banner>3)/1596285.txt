@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.11061906, u'sandal', 0.10668046, u'joystick', 0.042106215]
+[u'brassiere', 0.79598069, u'bikini', 0.066093698, u'maillot', 0.019992352]
+[u'cellular_telephone', 0.33069119, u'pajama', 0.040008944, u'hair_spray', 0.033575036]
+[u'comic_book', 0.76958323, u'web_site', 0.20190366, u'book_jacket', 0.011074348]
+[u'brassiere', 0.30440739, u'bikini', 0.23131165, u'swimming_trunks', 0.18588345]

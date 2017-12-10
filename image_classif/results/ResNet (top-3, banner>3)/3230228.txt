@@ -1,0 +1,2 @@
+[u'monastery', 0.41211006, u'patio', 0.14165717, u'church', 0.10831379]
+[u'bow', 0.47536799, u'analog_clock', 0.087147638, u'stopwatch', 0.083201915]

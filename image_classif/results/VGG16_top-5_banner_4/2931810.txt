@@ -1,0 +1,1 @@
+[u'lipstick', 0.11274977, u'iron', 0.086613953, u'hand_blower', 0.052701142, u'perfume', 0.042291909, u'syringe', 0.040454853]

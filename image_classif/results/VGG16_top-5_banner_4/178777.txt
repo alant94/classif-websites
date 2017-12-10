@@ -1,0 +1,1 @@
+[u'mailbox', 0.35246509, u'freight_car', 0.14667773, u'ashcan', 0.14115292, u'prison', 0.056381829, u'crate', 0.043153778]

@@ -1,0 +1,3 @@
+[u'flagpole', 0.52217549, u'airship', 0.028938914, u'carousel', 0.027733613]
+[u'lumbermill', 0.21454003, u'cliff', 0.17918842, u'valley', 0.15834495]
+[u'stretcher', 0.66491169, u'groom', 0.060887523, u'sleeping_bag', 0.059771501]

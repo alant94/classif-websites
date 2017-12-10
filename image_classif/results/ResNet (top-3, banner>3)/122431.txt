@@ -1,0 +1,4 @@
+[u'comic_book', 0.88829929, u'slot', 0.011901208, u'sewing_machine', 0.0093365517]
+[u'jigsaw_puzzle', 0.5031476, u'comic_book', 0.37345818, u'slot', 0.033181403]
+[u'jigsaw_puzzle', 0.20338909, u'gown', 0.18911612, u'comic_book', 0.050798126]
+[u'comic_book', 0.34132585, u'book_jacket', 0.25727084, u'space_shuttle', 0.076169685]

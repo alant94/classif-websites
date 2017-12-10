@@ -1,0 +1,3 @@
+[u'web_site', 0.35785043, u'scorpion', 0.055604544, u'envelope', 0.032452993]
+[u'fountain', 0.32366827, u'wig', 0.1464868, u'Indian_elephant', 0.11458661]
+[u'screen', 0.44100451, u'television', 0.19835706, u'monitor', 0.10454676]

@@ -1,0 +1,7 @@
+[u'wall_clock', 0.1020455, u'analog_clock', 0.059878312, u'totem_pole', 0.05046767, u'throne', 0.039081361, u'hook', 0.037236225]
+[u'seashore', 0.33465743, u'web_site', 0.19582018, u'promontory', 0.12204279, u'lakeside', 0.057458915, u'beacon', 0.035981875]
+[u'loupe', 0.7224074, u'cloak', 0.098391183, u'abaya', 0.017052911, u'sweatshirt', 0.011357262, u'ski_mask', 0.011150356]
+[u'minibus', 0.38667357, u'ski', 0.085786991, u'minivan', 0.075862363, u'binder', 0.069074452, u'sunglass', 0.055343997]
+[u'consomme', 0.26722866, u'cup', 0.060210485, u'soup_bowl', 0.056186873, u'face_powder', 0.035256375, u'pencil_sharpener', 0.028938403]
+[u'hair_spray', 0.074340507, u'thimble', 0.056530796, u'rubber_eraser', 0.049618412, u'pick', 0.039917547, u'doormat', 0.030473907]
+[u'bookshop', 0.24068125, u'toyshop', 0.2089251, u'confectionery', 0.14132226, u'library', 0.044229571, u'restaurant', 0.0383006]

@@ -1,0 +1,2 @@
+[u'spotlight', 0.10139467, u'bow_tie', 0.093948126, u'crash_helmet', 0.08165025, u'pick', 0.044250175, u'mask', 0.032886557]
+[u'bow_tie', 0.31842387, u'perfume', 0.076944314, u'face_powder', 0.053411186, u'cassette', 0.051645998, u'wig', 0.039919592]

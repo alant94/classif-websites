@@ -1,0 +1,7 @@
+[u'stethoscope', 0.95975453, u'rule', 0.0056777089, u'pencil_box', 0.0024609473, u'oil_filter', 0.0021435122, u'sandal', 0.0014611935]
+[u'oscilloscope', 0.31317681, u'web_site', 0.19650581, u'monitor', 0.067848444, u'screen', 0.063139141, u'desk', 0.060940996]
+[u'web_site', 0.21517769, u'hair_spray', 0.016272604, u'envelope', 0.01497233, u'neck_brace', 0.014029928, u'knee_pad', 0.013212905]
+[u'bathing_cap', 0.51244408, u'lab_coat', 0.045800135, u'mortarboard', 0.042860627, u'Band_Aid', 0.035081215, u'neck_brace', 0.021197507]
+[u'web_site', 0.22999178, u'hair_spray', 0.019461315, u'oil_filter', 0.017632961, u'Band_Aid', 0.015103242, u'envelope', 0.014943088]
+[u'binder', 0.12533797, u'menu', 0.096681751, u'fountain_pen', 0.08469177, u'flute', 0.053935215, u'envelope', 0.044544343]
+[u'lab_coat', 0.97353339, u'stethoscope', 0.023756711, u'Windsor_tie', 0.00039882708, u'suit', 0.00036301534, u'pajama', 0.00032937189]

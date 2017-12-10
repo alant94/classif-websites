@@ -1,0 +1,2 @@
+[u'cliff', 0.18228479, u'chain_saw', 0.058945253, u'groom', 0.025962749, u'mountain_bike', 0.022548731, u'swing', 0.01721956]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

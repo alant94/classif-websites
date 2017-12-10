@@ -1,0 +1,3 @@
+[u'web_site', 0.48201206, u'envelope', 0.13426504, u'desktop_computer', 0.07211715]
+[u'monitor', 0.2751964, u'web_site', 0.091832571, u'window_shade', 0.079964384]
+[u'book_jacket', 0.31608543, u'tobacco_shop', 0.30007416, u'comic_book', 0.10640272]

@@ -1,0 +1,2 @@
+[u'menu', 0.35285172, u'book_jacket', 0.08800026, u'web_site', 0.084002711, u'carton', 0.060394835, u'safe', 0.04090289]
+[u'tray', 0.24897665, u'measuring_cup', 0.081644662, u'mosquito_net', 0.062990546, u'envelope', 0.061943635, u'Petri_dish', 0.056353491]

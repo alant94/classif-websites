@@ -1,0 +1,4 @@
+[u'alp', 0.90648818, u'monastery', 0.03269, u'valley', 0.017706906, u'thatch', 0.011652855, u'church', 0.010138321]
+[u'alp', 0.46671939, u'valley', 0.3565442, u'castle', 0.056432266, u'cliff', 0.046668798, u'stone_wall', 0.012100711]
+[u"jack-o'-lantern", 0.23372684, u'torch', 0.15363128, u'jersey', 0.13721478, u'matchstick', 0.11415193, u'comic_book', 0.051356096]
+[u'wine_bottle', 0.89038533, u'red_wine', 0.062901907, u'hair_spray', 0.030063376, u'lotion', 0.0089666117, u'drumstick', 0.0019507251]

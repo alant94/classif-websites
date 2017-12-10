@@ -1,0 +1,2 @@
+[u'comic_book', 0.92888963, u'bikini', 0.030665416, u'crossword_puzzle', 0.0081679085]
+[u'swimming_trunks', 0.30804193, u'bikini', 0.26316756, u'brassiere', 0.23773098]

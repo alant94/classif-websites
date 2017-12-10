@@ -1,0 +1,2 @@
+[u'slot', 0.68739045, u'tobacco_shop', 0.034937773, u'digital_watch', 0.033569511, u'barbershop', 0.030994505, u'gas_pump', 0.027149845]
+[u'cannon', 0.21357925, u'projectile', 0.13203287, u'tank', 0.096802041, u'missile', 0.045541499, u'crane', 0.02780862]

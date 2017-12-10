@@ -1,0 +1,7 @@
+[u'swimming_trunks', 0.15182742, u'tub', 0.092595056, u'maillot', 0.085879825]
+[u'Boston_bull', 0.52115166, u'Chihuahua', 0.08959341, u'capuchin', 0.060281906]
+[u'prison', 0.45788404, u'ocarina', 0.069909088, u'Band_Aid', 0.038942732]
+[u'Chihuahua', 0.24159238, u'Maltese_dog', 0.12390154, u'nipple', 0.095050626]
+[u'washbasin', 0.42677933, u'soap_dispenser', 0.10934144, u'cocktail_shaker', 0.1057858]
+[u'analog_clock', 0.45232695, u'digital_clock', 0.13827437, u'lighter', 0.063777037]
+[u'tub', 0.50591558, u'swimming_trunks', 0.19037408, u'bikini', 0.032692801]

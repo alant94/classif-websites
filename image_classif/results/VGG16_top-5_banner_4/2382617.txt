@@ -1,0 +1,1 @@
+[u'mailbox', 0.23874387, u'street_sign', 0.17078194, u'gas_pump', 0.091792285, u'ashcan', 0.075815029, u'bookshop', 0.028788753]

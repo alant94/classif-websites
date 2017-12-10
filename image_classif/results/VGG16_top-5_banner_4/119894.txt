@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.23922957, u'comic_book', 0.17557344, u'wall_clock', 0.10449761, u'envelope', 0.041199092, u'apron', 0.037823472]
+[u'soccer_ball', 0.36104721, u'football_helmet', 0.15249929, u'toyshop', 0.056265067, u'ballplayer', 0.037649781, u'parachute', 0.029840887]
+[u'amphibian', 0.23666175, u'minivan', 0.15127124, u'parking_meter', 0.057565842, u'beach_wagon', 0.045284461, u'chest', 0.036768794]

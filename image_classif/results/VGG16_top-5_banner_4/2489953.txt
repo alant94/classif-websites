@@ -1,0 +1,5 @@
+[u'mountain_bike', 0.36536747, u'cliff', 0.065658547, u'volcano', 0.062625058, u'unicycle', 0.05400515, u'megalith', 0.047023065]
+[u'scoreboard', 0.33376935, u'cinema', 0.17260773, u'street_sign', 0.15274489, u'bannister', 0.076270141, u'grille', 0.046725113]
+[u'tusker', 0.22340539, u'African_elephant', 0.14932348, u'impala', 0.078833438, u'hartebeest', 0.067054354, u'warthog', 0.057960074]
+[u'Chesapeake_Bay_retriever', 0.4082728, u'ox', 0.13541739, u'bison', 0.09479098, u'Indian_elephant', 0.03819827, u'oxcart', 0.031569749]
+[u'Indian_elephant', 0.4729991, u'tusker', 0.45132512, u'African_elephant', 0.038546141, u'Arabian_camel', 0.029874854, u'water_buffalo', 0.002113058]

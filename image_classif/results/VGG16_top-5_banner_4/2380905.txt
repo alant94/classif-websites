@@ -1,0 +1,3 @@
+[u'book_jacket', 0.35673466, u'cash_machine', 0.039870419, u'packet', 0.034512427, u'lotion', 0.027407307, u'menu', 0.024213843]
+[u'golf_ball', 0.72660214, u'ping-pong_ball', 0.079003766, u'pill_bottle', 0.038132999, u'abacus', 0.01721729, u'honeycomb', 0.016696284]
+[u'envelope', 0.47639528, u'web_site', 0.36256969, u'analog_clock', 0.011436174, u'rule', 0.0078079985, u'hook', 0.0071307067]

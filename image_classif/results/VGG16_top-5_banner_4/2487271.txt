@@ -1,0 +1,4 @@
+[u'television', 0.20363185, u'window_screen', 0.17632602, u'sliding_door', 0.10318129, u'home_theater', 0.059316676, u'book_jacket', 0.058489967]
+[u'impala', 0.18705139, u'gazelle', 0.1864263, u'television', 0.13430856, u'book_jacket', 0.084828287, u'hartebeest', 0.060634851]
+[u'Mexican_hairless', 0.72258627, u'gazelle', 0.096732982, u'Chihuahua', 0.023890199, u'toy_terrier', 0.015258962, u'Italian_greyhound', 0.013181625]
+[u'bighorn', 0.32815823, u'television', 0.20295265, u'ram', 0.09343148, u'bison', 0.054985859, u'ox', 0.040492289]

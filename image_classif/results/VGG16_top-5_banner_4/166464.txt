@@ -1,0 +1,1 @@
+[u'envelope', 0.21776707, u'ambulance', 0.13883618, u'pillow', 0.031558294, u'police_van', 0.030366946, u'cash_machine', 0.025939224]

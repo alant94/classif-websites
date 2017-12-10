@@ -1,0 +1,6 @@
+[u'iron', 0.25051138, u'quill', 0.065365694, u'mousetrap', 0.056159452]
+[u'envelope', 0.11442219, u'web_site', 0.050667498, u'cleaver', 0.0256033]
+[u'acoustic_guitar', 0.96427351, u'banjo', 0.012426373, u'pick', 0.0046168324]
+[u'marimba', 0.21539615, u'barbershop', 0.05032612, u'plane', 0.034058038]
+[u'jigsaw_puzzle', 0.24733658, u'pick', 0.13223226, u'cleaver', 0.062254608]
+[u'barbershop', 0.17984429, u'crossword_puzzle', 0.14221375, u'burrito', 0.052316241]

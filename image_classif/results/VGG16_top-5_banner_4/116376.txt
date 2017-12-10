@@ -1,0 +1,3 @@
+[u'bathtub', 0.086279839, u'switch', 0.084360056, u'tub', 0.039851528, u'bucket', 0.0199109, u'modem', 0.019150563]
+[u'measuring_cup', 0.51286703, u'plate_rack', 0.055507559, u'beaker', 0.052802656, u'rule', 0.036456857, u'electric_fan', 0.025095137]
+[u"carpenter's_kit", 0.12871659, u'cash_machine', 0.067902662, u'measuring_cup', 0.036051467, u'spotlight', 0.03422166, u'power_drill', 0.032661375]

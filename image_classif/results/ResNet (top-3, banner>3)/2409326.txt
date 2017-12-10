@@ -1,0 +1,4 @@
+[u'trench_coat', 0.47959667, u'cloak', 0.34252778, u'velvet', 0.037200425]
+[u'kimono', 0.35338143, u'abaya', 0.26853809, u'academic_gown', 0.092074782]
+[u'trench_coat', 0.86216909, u'fur_coat', 0.038842462, u'hoopskirt', 0.036512367]
+[u'trench_coat', 0.29708061, u'miniskirt', 0.22061959, u'abaya', 0.10945423]

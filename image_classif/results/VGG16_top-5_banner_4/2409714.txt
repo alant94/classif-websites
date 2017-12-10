@@ -1,0 +1,4 @@
+[u'book_jacket', 0.52345395, u'brass', 0.062801979, u'wine_bottle', 0.030940665, u'mailbox', 0.029175472, u'guillotine', 0.024754325]
+[u'fur_coat', 0.80589241, u'stole', 0.063120507, u'cardigan', 0.034598071, u'cloak', 0.014837832, u'mitten', 0.01387641]
+[u'oil_filter', 0.13605918, u'book_jacket', 0.10095638, u'street_sign', 0.074523032, u'binder', 0.032715078, u'mousetrap', 0.028783709]
+[u'geyser', 0.99985898, u'fountain', 9.756619e-05, u'volcano', 4.2641728e-05, u'valley', 3.8172212e-07, u'lakeside', 1.4847279e-07]

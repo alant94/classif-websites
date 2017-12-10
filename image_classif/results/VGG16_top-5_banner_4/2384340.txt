@@ -1,0 +1,2 @@
+[u'web_site', 0.17296967, u'envelope', 0.12864321, u'wardrobe', 0.011781917, u'binder', 0.011211743, u'lighter', 0.011006664]
+[u'web_site', 0.048418961, u'safety_pin', 0.031844772, u'envelope', 0.028969981, u'jersey', 0.024426248, u'nail', 0.023325779]

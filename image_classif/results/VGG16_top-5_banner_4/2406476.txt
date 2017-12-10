@@ -1,0 +1,5 @@
+[u'digital_clock', 0.19834462, u'wall_clock', 0.073506556, u'scoreboard', 0.03764632, u'strawberry', 0.036141276, u'envelope', 0.029972471]
+[u'traffic_light', 0.13617404, u'hook', 0.075654805, u'rule', 0.035514988, u'crane', 0.031674534, u'envelope', 0.0256315]
+[u'wall_clock', 0.020414453, u'ballpoint', 0.016230335, u'lipstick', 0.014574432, u'letter_opener', 0.014364129, u'envelope', 0.014295584]
+[u'book_jacket', 0.32521501, u'shower_curtain', 0.17619874, u'comic_book', 0.086451292, u'wardrobe', 0.069535092, u'vestment', 0.037849605]
+[u'Band_Aid', 0.08510343, u'digital_clock', 0.042809676, u'envelope', 0.041876353, u'hook', 0.039786991, u'pill_bottle', 0.038715299]

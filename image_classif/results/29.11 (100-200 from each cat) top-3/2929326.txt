@@ -1,0 +1,6 @@
+[u'ear', 0.061200909, u'Band_Aid', 0.052185964, u'paintbrush', 0.049308673]
+[u'giant_panda', 0.1826154, u'colobus', 0.14605373, u'Siamese_cat', 0.12236377]
+[u'rain_barrel', 0.35363793, u'toilet_seat', 0.063423507, u'punching_bag', 0.043537196]
+[u'carton', 0.98816878, u'crate', 0.0060412106, u"carpenter's_kit", 0.00088152912]
+[u'suit', 0.4409169, u'Windsor_tie', 0.43182957, u'bolo_tie', 0.074771769]
+[u'iron', 0.16011921, u'bolo_tie', 0.11517259, u'sandal', 0.10887612]

@@ -1,0 +1,2 @@
+[u'window_screen', 0.081075624, u'window_shade', 0.048799705, u'sliding_door', 0.039965853, u'shower_curtain', 0.023571996, u'library', 0.013514949]
+[u'container_ship', 0.30745485, u'library', 0.051230088, u'crossword_puzzle', 0.024928935, u'window_screen', 0.02168599, u'bookshop', 0.018968614]

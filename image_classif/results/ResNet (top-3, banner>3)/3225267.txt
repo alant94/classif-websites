@@ -1,0 +1,3 @@
+[u'church', 0.58786297, u'flagpole', 0.081645839, u'beacon', 0.051242765]
+[u'restaurant', 0.30230328, u'prison', 0.13418363, u'church', 0.081412107]
+[u'bow', 0.14162219, u'analog_clock', 0.11360557, u'web_site', 0.065249294]

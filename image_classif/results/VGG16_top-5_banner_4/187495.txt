@@ -1,0 +1,7 @@
+[u'racer', 0.27293882, u'go-kart', 0.20167746, u'snowplow', 0.18485215, u'tow_truck', 0.14708059, u'trailer_truck', 0.051450435]
+[u'racer', 0.73283297, u'sports_car', 0.2537719, u'car_wheel', 0.010421667, u'go-kart', 0.0014765429, u'convertible', 0.0004214613]
+[u'shower_curtain', 0.76669681, u'bath_towel', 0.029504817, u'window_shade', 0.016713841, u'wool', 0.012947014, u'doormat', 0.01281491]
+[u'racer', 0.40954831, u'fire_engine', 0.057373531, u'lawn_mower', 0.048780829, u'barbell', 0.028050942, u'slot', 0.02470712]
+[u'shower_curtain', 0.78036642, u'bath_towel', 0.06968762, u'wool', 0.021887982, u'doormat', 0.011668108, u'stole', 0.010767007]
+[u'racer', 0.65974903, u'trailer_truck', 0.033552382, u'sports_car', 0.029318554, u'tow_truck', 0.026581356, u'police_van', 0.018247465]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

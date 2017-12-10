@@ -1,0 +1,4 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'oscilloscope', 0.051690418, u'analog_clock', 0.045001011, u'digital_watch', 0.037715174]
+[u'picket_fence', 0.32651821, u'sliding_door', 0.16422735, u'worm_fence', 0.05341927]
+[u'digital_clock', 0.43767899, u'digital_watch', 0.26095977, u'picket_fence', 0.041481931]

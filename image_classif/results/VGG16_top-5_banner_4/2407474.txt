@@ -1,0 +1,7 @@
+[u'dining_table', 0.72516614, u'patio', 0.21817918, u'restaurant', 0.025690008, u'china_cabinet', 0.010767932, u'table_lamp', 0.003862079]
+[u'jersey', 0.12741642, u'refrigerator', 0.12191709, u'dishwasher', 0.071270548, u'plate_rack', 0.064829133, u'envelope', 0.049615271]
+[u'grand_piano', 0.65048724, u'dining_table', 0.097528569, u'altar', 0.049303897, u'throne', 0.040973965, u'table_lamp', 0.03147722]
+[u'cello', 0.62411457, u'acoustic_guitar', 0.096180193, u'harp', 0.074197717, u'dining_table', 0.031619493, u'banjo', 0.023537645]
+[u"carpenter's_kit", 0.16467337, u'espresso_maker', 0.064239219, u'hook', 0.051056381, u'plate_rack', 0.038988948, u'stretcher', 0.037382122]
+[u'folding_chair', 0.30686289, u'four-poster', 0.13019291, u'dining_table', 0.089912176, u'rocking_chair', 0.06419602, u'desk', 0.063515253]
+[u'throne', 0.25772607, u'four-poster', 0.24573053, u'theater_curtain', 0.091362976, u'lampshade', 0.069908604, u'grand_piano', 0.03940656]

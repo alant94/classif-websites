@@ -1,0 +1,7 @@
+[u'digital_clock', 0.10975002, u'web_site', 0.087855294, u'street_sign', 0.057029154, u'Band_Aid', 0.033939995, u'envelope', 0.023824332]
+[u'theater_curtain', 0.21080092, u'wall_clock', 0.060155597, u'picket_fence', 0.055333145, u'fountain', 0.049231078, u'shower_curtain', 0.048732888]
+[u'digital_clock', 0.10975002, u'web_site', 0.087855294, u'street_sign', 0.057029154, u'Band_Aid', 0.033939995, u'envelope', 0.023824332]
+[u'prison', 0.41045168, u'organ', 0.091024607, u'sliding_door', 0.078608178, u'shoji', 0.066931523, u'window_shade', 0.05435862]
+[u'matchstick', 0.32207832, u'digital_clock', 0.061594013, u'book_jacket', 0.057864808, u'jersey', 0.041301381, u'pick', 0.041194364]
+[u'envelope', 0.12421199, u'rule', 0.071797088, u'wall_clock', 0.057458956, u'analog_clock', 0.047831412, u'hook', 0.045778982]
+[u'velvet', 0.082405798, u'theater_curtain', 0.048077855, u'bucket', 0.035305884, u'oscilloscope', 0.032590259, u'lighter', 0.027211698]

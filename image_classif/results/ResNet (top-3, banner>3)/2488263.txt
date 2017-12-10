@@ -1,0 +1,2 @@
+[u'chain_saw', 0.29511049, u'coyote', 0.22390269, u'snowmobile', 0.047776133]
+[u'football_helmet', 0.23726623, u'shield', 0.10683101, u'bathing_cap', 0.08009351]

@@ -1,0 +1,4 @@
+[u'book_jacket', 0.83920562, u'handkerchief', 0.04080971, u'menu', 0.016187469]
+[u'jean', 0.14263268, u'book_jacket', 0.14226161, u'butcher_shop', 0.088917069]
+[u'web_site', 0.19096369, u'crossword_puzzle', 0.035665687, u'oil_filter', 0.02507041]
+[u'pop_bottle', 0.70922691, u'bookshop', 0.077458315, u'water_bottle', 0.03815427]

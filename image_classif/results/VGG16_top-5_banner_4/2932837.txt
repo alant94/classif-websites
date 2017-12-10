@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.75119466, u'street_sign', 0.05939113, u'book_jacket', 0.027129853, u'cash_machine', 0.017653413, u'hair_spray', 0.0099616777]
+[u'bell_cote', 0.34950191, u'stupa', 0.099293344, u'church', 0.07788939, u'monastery', 0.034595869, u'panpipe', 0.027591046]
+[u'vestment', 0.45302263, u'academic_gown', 0.18514654, u'military_uniform', 0.097351968, u'bearskin', 0.055314805, u'mortarboard', 0.04082834]
+[u'medicine_chest', 0.30573359, u'vending_machine', 0.27710223, u'bookshop', 0.052633602, u'bookcase', 0.051205743, u'tobacco_shop', 0.044877719]
+[u'spotlight', 0.61693954, u'pill_bottle', 0.054785222, u'Petri_dish', 0.042683668, u'loupe', 0.028458113, u'strainer', 0.021294057]
+[u'lab_coat', 0.27146807, u'stethoscope', 0.092202932, u'marimba', 0.049521837, u'hair_spray', 0.036610935, u'barbershop', 0.020562507]

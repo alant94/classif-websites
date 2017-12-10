@@ -1,0 +1,7 @@
+[u'sliding_door', 0.70534915, u'bannister', 0.026645148, u'barn', 0.026442382]
+[u'sliding_door', 0.22980775, u'picket_fence', 0.22673674, u'barbershop', 0.08861509]
+[u'beer_glass', 0.99395859, u'goblet', 0.0035625468, u'table_lamp', 0.00033532729]
+[u'church', 0.58892989, u'beacon', 0.075892493, u'bannister', 0.056259278]
+[u'web_site', 0.83109951, u'menu', 0.048878904, u'screen', 0.022923419]
+[u'sliding_door', 0.34748581, u'picket_fence', 0.2742081, u'barbershop', 0.11690032]
+[u'bannister', 0.75683433, u'umbrella', 0.058801644, u'spotlight', 0.027127534]

@@ -1,0 +1,3 @@
+[u'airship', 0.47161344, u'container_ship', 0.25448188, u'submarine', 0.026705472]
+[u'vault', 0.2214807, u'fire_screen', 0.076542005, u'monastery', 0.051033381]
+[u'maillot', 0.070127361, u'sarong', 0.060036793, u'maillot', 0.055056036]

@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.2019209, u'cash_machine', 0.07721784, u'street_sign', 0.041185457, u'maze', 0.032807708, u'wall_clock', 0.03183778]

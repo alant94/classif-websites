@@ -1,0 +1,7 @@
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'comic_book', 0.60134453, u'book_jacket', 0.23622745, u'hair_spray', 0.0082239369]
+[u'tench', 0.57560295, u'barracouta', 0.2237924, u'sturgeon', 0.033859499]
+[u'traffic_light', 0.5943656, u'street_sign', 0.26333496, u'scoreboard', 0.042971443]
+[u'chime', 0.71479672, u'flagpole', 0.12069847, u'pole', 0.049404155]
+[u'web_site', 0.84587395, u'bannister', 0.012209939, u'envelope', 0.0055096187]
+[u'comic_book', 0.14699304, u'slot', 0.081198946, u'hair_spray', 0.080461398]

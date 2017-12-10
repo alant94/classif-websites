@@ -1,0 +1,8 @@
+[u'panpipe', 0.87796539, u'marimba', 0.025080172, u'picket_fence', 0.020095447]
+[u'brassiere', 0.96566862, u'bikini', 0.011929147, u'maillot', 0.011275155]
+[u'bikini', 0.4417173, u'brassiere', 0.3673203, u'maillot', 0.15133233]
+[u'brassiere', 0.38750136, u'diaper', 0.13035367, u'neck_brace', 0.072516918]
+[u'shower_cap', 0.25665849, u'jean', 0.19774766, u'diaper', 0.069654159]
+[u'brassiere', 0.23153591, u'swimming_trunks', 0.074191682, u'mouse', 0.061364163]
+[u'swimming_trunks', 0.15873317, u'bikini', 0.071837291, u'dumbbell', 0.067398384]
+[u'crossword_puzzle', 0.99368805, u'digital_clock', 0.0054707411, u'prayer_rug', 0.00026262162]

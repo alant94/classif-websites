@@ -1,0 +1,5 @@
+[u'joystick', 0.29499793, u'puck', 0.032236956, u'frying_pan', 0.026441576]
+[u'puck', 0.19970529, u'crossword_puzzle', 0.086391568, u'sea_snake', 0.04472962]
+[u'comic_book', 0.74988627, u'book_jacket', 0.051467925, u'envelope', 0.038136553]
+[u'desktop_computer', 0.61558533, u'computer_keyboard', 0.11658012, u'monitor', 0.10135247]
+[u'parachute', 0.081999324, u'Persian_cat', 0.072198473, u'mortarboard', 0.055686679]

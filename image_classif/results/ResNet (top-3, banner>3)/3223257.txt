@@ -1,0 +1,5 @@
+[u'book_jacket', 0.90273219, u'barbershop', 0.022827266, u'carton', 0.010859638]
+[u'digital_clock', 0.86122304, u'digital_watch', 0.10793347, u'analog_clock', 0.013896711]
+[u'web_site', 0.22192301, u'digital_clock', 0.10715235, u'remote_control', 0.075568676]
+[u'panpipe', 0.13105218, u'church', 0.074251354, u'analog_clock', 0.070486702]
+[u'street_sign', 0.58861458, u'hook', 0.035617959, u'nematode', 0.034806177]

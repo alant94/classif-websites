@@ -1,0 +1,6 @@
+[u'street_sign', 0.12721284, u'hook', 0.094200909, u'Band_Aid', 0.060308333, u'digital_clock', 0.024297096, u'knee_pad', 0.023341224]
+[u'web_site', 0.46394238, u'packet', 0.13368933, u'modem', 0.10574577, u'screen', 0.056806367, u'hand-held_computer', 0.031016614]
+[u'web_site', 0.88051957, u'menu', 0.055946518, u'envelope', 0.020572988, u'book_jacket', 0.0038107722, u'packet', 0.0032914835]
+[u'web_site', 0.82599729, u'steel_arch_bridge', 0.025193909, u'dam', 0.012162187, u'cliff', 0.01154129, u'book_jacket', 0.01067546]
+[u'web_site', 0.29644144, u'mobile_home', 0.093110122, u'cinema', 0.090600453, u'passenger_car', 0.060056649, u'picket_fence', 0.05676892]
+[u'packet', 0.2754955, u'hamper', 0.18351327, u'menu', 0.12924251, u'web_site', 0.069681823, u'comic_book', 0.058250941]

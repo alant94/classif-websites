@@ -1,0 +1,4 @@
+[u'monitor', 0.41928139, u'screen', 0.13829875, u'oscilloscope', 0.11013306, u'scoreboard', 0.041180965, u'web_site', 0.023577023]
+[u'iPod', 0.48600993, u'cellular_telephone', 0.40999034, u'hand-held_computer', 0.070984535, u'remote_control', 0.013120778, u'modem', 0.0056450712]
+[u'soap_dispenser', 0.16474855, u'combination_lock', 0.10721599, u'digital_clock', 0.075991273, u'printer', 0.066114292, u'switch', 0.057132091]
+[u'oscilloscope', 0.97214907, u'maze', 0.010297899, u'web_site', 0.0067000566, u'monitor', 0.0016192087, u'measuring_cup', 0.0010129494]

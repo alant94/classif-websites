@@ -1,0 +1,5 @@
+[u'syringe', 0.90395713, u'pill_bottle', 0.016434085, u'screwdriver', 0.0094226068, u'nail', 0.0086392192, u'ballpoint', 0.0070522409]
+[u'beer_bottle', 0.83354443, u'church', 0.03199733, u'castle', 0.019556647, u'totem_pole', 0.0098022399, u'cinema', 0.0091154473]
+[u'coffee_mug', 0.22856054, u'beer_bottle', 0.15042925, u'chocolate_sauce', 0.13908823, u'book_jacket', 0.081773236, u'comic_book', 0.050346706]
+[u'book_jacket', 0.13700774, u'scoreboard', 0.096762091, u'coffee_mug', 0.053550281, u'perfume', 0.050649956, u'lighter', 0.032973707]
+[u'forklift', 0.077509753, u'tractor', 0.042338628, u'barrel', 0.038963854, u'milk_can', 0.03418164, u'lumbermill', 0.030011848]

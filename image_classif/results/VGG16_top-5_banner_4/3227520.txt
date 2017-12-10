@@ -1,0 +1,1 @@
+[u'screwdriver', 0.16747488, u'electric_guitar', 0.13364325, u'bow', 0.12399, u'hook', 0.0606119, u'wall_clock', 0.035013083]

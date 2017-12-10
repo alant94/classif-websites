@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.097383693, u'thatch', 0.075656116, u'lumbermill', 0.069887206]
+[u'jersey', 0.34987724, u'book_jacket', 0.073400773, u'whistle', 0.066507362]
+[u'web_site', 0.83804101, u'tractor', 0.011214179, u'amphibian', 0.0052566039]

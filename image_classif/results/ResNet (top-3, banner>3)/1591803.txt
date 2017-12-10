@@ -1,0 +1,2 @@
+[u'binoculars', 0.23862918, u'gibbon', 0.060303584, u'window_screen', 0.032947019]
+[u'dumbbell', 0.42081428, u'knee_pad', 0.099182926, u'crutch', 0.074811809]

@@ -1,0 +1,4 @@
+[u'analog_clock', 0.082287423, u'nematode', 0.05356938, u'lens_cap', 0.049581695, u'digital_clock', 0.03800714, u'switch', 0.030453797]
+[u'toilet_tissue', 0.24881989, u'paper_towel', 0.094762959, u'mask', 0.061841495, u'loudspeaker', 0.055668522, u'iPod', 0.055281624]
+[u'volcano', 0.42989737, u'web_site', 0.071956679, u'monitor', 0.03212354, u'television', 0.028114608, u'sunglasses', 0.025590207]
+[u'swab', 0.11362886, u'broom', 0.091027528, u'book_jacket', 0.070117697, u'menu', 0.051536832, u'web_site', 0.033206951]

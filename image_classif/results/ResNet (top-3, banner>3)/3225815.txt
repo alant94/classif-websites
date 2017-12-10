@@ -1,0 +1,4 @@
+[u'pedestal', 0.16620928, u'pajama', 0.13304898, u'pillow', 0.05855241]
+[u'sunscreen', 0.32764477, u'bikini', 0.13882087, u'brassiere', 0.072568946]
+[u'hair_spray', 0.36644456, u'wig', 0.099791512, u'lipstick', 0.061187394]
+[u'pick', 0.79831767, u'spatula', 0.046150036, u'ice_lolly', 0.026722101]

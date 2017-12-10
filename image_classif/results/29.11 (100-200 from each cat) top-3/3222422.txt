@@ -1,0 +1,7 @@
+[u'web_site', 0.1663965, u'broom', 0.060261745, u'Band_Aid', 0.054064766]
+[u'book_jacket', 0.31215325, u'rule', 0.31124985, u'carton', 0.023752609]
+[u'rubber_eraser', 0.4567183, u'pencil_box', 0.18572807, u'paintbrush', 0.16896644]
+[u'book_jacket', 0.73932815, u'rule', 0.022441892, u'carton', 0.019169269]
+[u'web_site', 0.53067601, u'book_jacket', 0.37017137, u'brass', 0.023891708]
+[u'digital_clock', 0.10031942, u'book_jacket', 0.097037643, u'rule', 0.077671431]
+[u'web_site', 0.097301126, u'nail', 0.058837071, u'Band_Aid', 0.050514601]

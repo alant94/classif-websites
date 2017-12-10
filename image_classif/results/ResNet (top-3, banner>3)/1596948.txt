@@ -1,0 +1,1 @@
+[u'sliding_door', 0.26617479, u'window_screen', 0.16292351, u'picket_fence', 0.11509256]

@@ -1,0 +1,8 @@
+[u'magnetic_compass', 0.13605753, u'frying_pan', 0.10300902, u'oil_filter', 0.05944531]
+[u'assault_rifle', 0.23890348, u'analog_clock', 0.18740182, u'guillotine', 0.090565264]
+[u'book_jacket', 0.26515919, u'scoreboard', 0.15002169, u'lipstick', 0.027132574]
+[u'ballpoint', 0.07602933, u'rubber_eraser', 0.058383837, u'digital_watch', 0.050892536]
+[u'flagpole', 0.29114294, u'missile', 0.25253093, u'projectile', 0.13065511]
+[u'prayer_rug', 0.17900394, u'crossword_puzzle', 0.14678083, u'quilt', 0.071613967]
+[u'handkerchief', 0.61897218, u'carton', 0.11268946, u'envelope', 0.053001415]
+[u'pillow', 0.17435597, u'envelope', 0.072167538, u'magnetic_compass', 0.062921971]

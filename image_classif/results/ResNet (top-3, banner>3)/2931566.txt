@@ -1,0 +1,6 @@
+[u'golden_retriever', 0.43800533, u'Labrador_retriever', 0.22764368, u'muzzle', 0.09968888]
+[u'triumphal_arch', 0.79645199, u'rifle', 0.034411136, u'chain_saw', 0.017411811]
+[u'web_site', 0.18206351, u'envelope', 0.11630709, u'book_jacket', 0.10441725]
+[u'book_jacket', 0.26562315, u'web_site', 0.22557618, u'sunscreen', 0.053002141]
+[u'tabby', 0.31564257, u'Egyptian_cat', 0.1047399, u'Persian_cat', 0.10350592]
+[u'packet', 0.34965295, u'mousetrap', 0.12730613, u'Band_Aid', 0.11287048]

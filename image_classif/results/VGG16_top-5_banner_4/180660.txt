@@ -1,0 +1,2 @@
+[u'vending_machine', 0.26683486, u'barbershop', 0.10972112, u'cassette', 0.042379655, u'pay-phone', 0.041536048, u'beer_bottle', 0.040266488]
+[u'ski', 0.18421398, u'shower_curtain', 0.097152106, u'stage', 0.05402077, u'fountain', 0.043178037, u'swab', 0.03944993]

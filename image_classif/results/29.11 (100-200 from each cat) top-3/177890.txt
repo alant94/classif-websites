@@ -1,0 +1,3 @@
+[u'flagpole', 0.35540968, u'parachute', 0.1271152, u'macaw', 0.066931181]
+[u'tripod', 0.57567906, u'rifle', 0.072987735, u'assault_rifle', 0.060899898]
+[u'flagpole', 0.63349092, u'parachute', 0.040488586, u'macaw', 0.038202293]

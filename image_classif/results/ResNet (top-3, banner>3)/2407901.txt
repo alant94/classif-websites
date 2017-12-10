@@ -1,0 +1,8 @@
+[u'web_site', 0.27379823, u'switch', 0.075203449, u'envelope', 0.070916839]
+[u'prayer_rug', 0.32326642, u'perfume', 0.064558923, u'shower_curtain', 0.057610828]
+[u'web_site', 0.73458952, u'screen', 0.09901838, u'desktop_computer', 0.072248898]
+[u'scoreboard', 0.27627897, u'moving_van', 0.12709251, u'oscilloscope', 0.079306148]
+[u'scoreboard', 0.54009008, u'moving_van', 0.10854685, u'street_sign', 0.092778914]
+[u'tennis_ball', 0.26096877, u'ski', 0.2425679, u'chain_saw', 0.19691162]
+[u'turnstile', 0.23326825, u'web_site', 0.16328214, u'cassette', 0.063186973]
+[u'web_site', 0.31578931, u'shower_curtain', 0.18348679, u'television', 0.087130085]

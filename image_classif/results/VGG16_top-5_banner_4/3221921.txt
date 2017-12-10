@@ -1,0 +1,2 @@
+[u'fountain', 0.71580368, u'bubble', 0.038469266, u'bow_tie', 0.013638546, u'beer_glass', 0.013250984, u'punching_bag', 0.0098355636]
+[u'streetcar', 0.19013777, u'fire_engine', 0.1327825, u'traffic_light', 0.12001357, u'cinema', 0.053427212, u'trolleybus', 0.03562266]

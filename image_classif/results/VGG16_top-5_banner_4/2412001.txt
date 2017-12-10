@@ -1,0 +1,2 @@
+[u'Christmas_stocking', 0.21439786, u'prayer_rug', 0.10372964, u'handkerchief', 0.094939075, u'envelope', 0.070615806, u'jigsaw_puzzle', 0.048932709]
+[u'lakeside', 0.28984138, u'seashore', 0.1658036, u'palace', 0.09458293, u'castle', 0.061482165, u'book_jacket', 0.048760675]

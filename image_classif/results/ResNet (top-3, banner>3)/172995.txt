@@ -1,0 +1,2 @@
+[u'bib', 0.36032853, u'toilet_seat', 0.31812289, u'solar_dish', 0.090085484]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

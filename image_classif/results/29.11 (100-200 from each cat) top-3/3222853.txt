@@ -1,0 +1,6 @@
+[u'chime', 0.91801924, u'nail', 0.026380759, u'gong', 0.008498488]
+[u'web_site', 0.35809335, u'sunscreen', 0.03519816, u'bow', 0.028310824]
+[u'street_sign', 0.10405562, u'web_site', 0.072345629, u'rugby_ball', 0.063600495]
+[u'chime', 0.99032193, u'gong', 0.0026915362, u'nail', 0.0016717882]
+[u'nail', 0.51691025, u'chime', 0.23719403, u'screwdriver', 0.054294799]
+[u'tray', 0.0991439, u'sulphur_butterfly', 0.066579461, u'banana', 0.065775491]

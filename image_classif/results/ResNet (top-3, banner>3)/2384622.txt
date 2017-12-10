@@ -1,0 +1,2 @@
+[u'packet', 0.37684003, u'strawberry', 0.10623352, u'confectionery', 0.086415857]
+[u'web_site', 0.27506644, u'book_jacket', 0.037946206, u'hair_slide', 0.028884407]

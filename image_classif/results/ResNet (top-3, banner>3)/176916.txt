@@ -1,0 +1,7 @@
+[u'airliner', 0.70326799, u'warplane', 0.17508629, u'missile', 0.034084883]
+[u'bulletproof_vest', 0.45214665, u'stretcher', 0.12900712, u'military_uniform', 0.07900086]
+[u'seashore', 0.4714092, u'promontory', 0.20832731, u'cliff', 0.1052917]
+[u'amphibian', 0.42598927, u'tank', 0.2892397, u'harvester', 0.035086215]
+[u'warplane', 0.77078265, u'airliner', 0.0773957, u'projectile', 0.026285566]
+[u'tank', 0.90195507, u'amphibian', 0.047801591, u'half_track', 0.017394312]
+[u'warplane', 0.58876669, u'aircraft_carrier', 0.31850517, u'projectile', 0.045876484]

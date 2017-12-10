@@ -1,0 +1,2 @@
+[u'book_jacket', 0.19174515, u'scoreboard', 0.11539652, u'maze', 0.061240122, u'comic_book', 0.042865131, u'cinema', 0.031133372]
+[u'cinema', 0.35520414, u'bannister', 0.079901688, u'passenger_car', 0.072944939, u'maze', 0.064711168, u'toaster', 0.056547794]

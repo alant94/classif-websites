@@ -1,0 +1,6 @@
+[u'window_shade', 0.13290526, u'envelope', 0.11475509, u'web_site', 0.064310879]
+[u'web_site', 0.47159493, u'nematode', 0.047766339, u'remote_control', 0.029769879]
+[u'frying_pan', 0.49390715, u'puck', 0.23544404, u'gong', 0.045835972]
+[u'scoreboard', 0.91498548, u'prayer_rug', 0.031950995, u'doormat', 0.022209406]
+[u'jersey', 0.23735948, u'ocarina', 0.23500685, u'Band_Aid', 0.18526715]
+[u'hourglass', 0.16686249, u'analog_clock', 0.09334223, u'web_site', 0.088295087]

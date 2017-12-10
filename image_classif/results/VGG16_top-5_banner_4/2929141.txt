@@ -1,0 +1,1 @@
+[u'street_sign', 0.066417664, u'sweatshirt', 0.047890406, u'flagpole', 0.038710445, u'jersey', 0.032701258, u'ski', 0.022779366]

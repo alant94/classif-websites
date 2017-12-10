@@ -1,0 +1,1 @@
+[u'fountain', 0.89468157, u'paintbrush', 0.024133515, u'geyser', 0.015800903, u'shower_curtain', 0.013474971, u'picket_fence', 0.013419647]

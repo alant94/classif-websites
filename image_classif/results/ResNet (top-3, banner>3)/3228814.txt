@@ -1,0 +1,7 @@
+[u'church', 0.46074903, u'boathouse', 0.29312193, u'castle', 0.071001709]
+[u'kite', 0.090667769, u'bald_eagle', 0.088654488, u'parachute', 0.078266941]
+[u'pot', 0.16469561, u'vase', 0.14477065, u'plate', 0.13338615]
+[u'milk_can', 0.13975611, u'otterhound', 0.12475092, u'Border_terrier', 0.10348321]
+[u'coral_fungus', 0.17205255, u'coral_reef', 0.13611165, u'ear', 0.085370779]
+[u'fire_screen', 0.14615643, u'beacon', 0.076330505, u'theater_curtain', 0.058837909]
+[u'espresso_maker', 0.13938113, u'bearskin', 0.11948375, u'academic_gown', 0.10021789]

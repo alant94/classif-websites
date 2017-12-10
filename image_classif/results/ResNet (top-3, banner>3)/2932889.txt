@@ -1,0 +1,7 @@
+[u'dishwasher', 0.14797366, u'envelope', 0.10225472, u'cleaver', 0.069318682]
+[u'web_site', 0.16511418, u'dumbbell', 0.060592089, u'hook', 0.033642117]
+[u'neck_brace', 0.67757696, u'bow_tie', 0.090868607, u'hotdog', 0.044319242]
+[u'Windsor_tie', 0.57283348, u'suit', 0.16706023, u'groom', 0.13209529]
+[u'puck', 0.59566909, u'tripod', 0.11676217, u'bannister', 0.075643122]
+[u'wardrobe', 0.051117778, u'stole', 0.046754964, u'vacuum', 0.042593721]
+[u'acorn', 0.064347014, u'maraca', 0.049302183, u'admiral', 0.044999924]

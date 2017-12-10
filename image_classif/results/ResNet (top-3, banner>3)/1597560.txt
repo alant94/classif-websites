@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.35134047, u'bikini', 0.27697033, u'brassiere', 0.072306342]
+[u'miniskirt', 0.46788138, u'maillot', 0.093800984, u'sandal', 0.077365786]

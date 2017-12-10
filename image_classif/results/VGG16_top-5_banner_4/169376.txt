@@ -1,0 +1,2 @@
+[u'pajama', 0.082912214, u'reel', 0.051679038, u'bow', 0.048104282, u'kimono', 0.035066754, u'cellular_telephone', 0.028789127]
+[u'stole', 0.32035416, u'pajama', 0.29327738, u'gown', 0.089357495, u'sarong', 0.083400428, u'kimono', 0.074703857]

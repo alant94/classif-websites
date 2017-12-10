@@ -1,0 +1,7 @@
+[u'sorrel', 0.66923571, u'hartebeest', 0.12412563, u'Arabian_camel', 0.053696319]
+[u'Lakeland_terrier', 0.31833023, u'French_bulldog', 0.31357825, u'wire-haired_fox_terrier', 0.14212218]
+[u'sorrel', 0.99383718, u'plow', 0.0012382198, u'horse_cart', 0.00090421271]
+[u'limousine', 0.19570744, u'suit', 0.10160308, u'Windsor_tie', 0.064138241]
+[u'English_springer', 0.29205167, u'Sussex_spaniel', 0.25402483, u'Welsh_springer_spaniel', 0.19073687]
+[u'crate', 0.20826665, u'apiary', 0.1423813, u'park_bench', 0.13575058]
+[u'accordion', 0.19961755, u'swing', 0.12459231, u'park_bench', 0.055136699]

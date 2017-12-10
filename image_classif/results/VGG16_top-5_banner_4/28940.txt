@@ -1,0 +1,1 @@
+[u'television', 0.069335572, u'shield', 0.041065026, u'guillotine', 0.036171962, u'plunger', 0.025220966, u'soccer_ball', 0.024618663]

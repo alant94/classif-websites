@@ -1,0 +1,6 @@
+[u'bell_cote', 0.18942149, u'analog_clock', 0.12612873, u'web_site', 0.12527126, u'wall_clock', 0.037701633, u'envelope', 0.031304184]
+[u'mousetrap', 0.29039893, u'packet', 0.12633707, u'hair_slide', 0.11176705, u'perfume', 0.059790026, u'book_jacket', 0.051328409]
+[u'web_site', 0.69306833, u'menu', 0.073418073, u'envelope', 0.029440729, u'crossword_puzzle', 0.0099418238, u'washer', 0.0087356614]
+[u'guinea_pig', 0.20434201, u'teddy', 0.16823694, u'hamster', 0.15275376, u'bee', 0.032980859, u'birdhouse', 0.031537626]
+[u'web_site', 0.46182567, u'vending_machine', 0.18933451, u'packet', 0.092007846, u'menu', 0.045870107, u'refrigerator', 0.023610849]
+[u'book_jacket', 0.11906328, u'envelope', 0.11244162, u'web_site', 0.095995255, u'Band_Aid', 0.039851815, u'carton', 0.033916157]

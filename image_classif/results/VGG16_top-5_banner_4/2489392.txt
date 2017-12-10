@@ -1,0 +1,2 @@
+[u'book_jacket', 0.18271004, u'brass', 0.16865283, u'obelisk', 0.071034916, u'lakeside', 0.064224482, u'American_egret', 0.034156837]
+[u'ibex', 0.10149176, u'ox', 0.049643021, u'standard_schnauzer', 0.04154421, u'American_Staffordshire_terrier', 0.041374214, u'ram', 0.037464462]

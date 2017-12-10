@@ -1,0 +1,1 @@
+[u'monastery', 0.17029031, u'palace', 0.10945968, u'mailbox', 0.063992105, u'water_tower', 0.057966076, u'cinema', 0.036217328]

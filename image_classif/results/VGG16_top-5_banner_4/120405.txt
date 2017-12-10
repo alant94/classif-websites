@@ -1,0 +1,1 @@
+[u'slot', 0.72578597, u'toyshop', 0.067522071, u'comic_book', 0.030502239, u'confectionery', 0.0099915275, u'packet', 0.0076251822]

@@ -1,0 +1,2 @@
+[u'hook', 0.1021684, u'swing', 0.079017341, u'purse', 0.054624077, u'spindle', 0.035367295, u'cradle', 0.029669918]
+[u'stopwatch', 0.25735831, u'CD_player', 0.23806453, u'cassette_player', 0.10850891, u'remote_control', 0.062208649, u'modem', 0.059361774]

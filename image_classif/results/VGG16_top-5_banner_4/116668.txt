@@ -1,0 +1,2 @@
+[u'book_jacket', 0.13660923, u'comic_book', 0.12866649, u'web_site', 0.06175052, u'Band_Aid', 0.054750625, u'cash_machine', 0.050540574]
+[u'pick', 0.12664057, u'disk_brake', 0.10404302, u'puck', 0.069690458, u'pencil_sharpener', 0.053728621, u'oil_filter', 0.04093292]

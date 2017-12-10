@@ -1,0 +1,5 @@
+[u'broom', 0.39924064, u'paintbrush', 0.18557687, u'theater_curtain', 0.10536104]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'web_site', 0.40442556, u'envelope', 0.12234019, u'school_bus', 0.041151524]
+[u'folding_chair', 0.15805893, u'ballpoint', 0.090473548, u'web_site', 0.0726723]

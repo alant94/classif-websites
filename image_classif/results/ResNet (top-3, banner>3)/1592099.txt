@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.72866505, u'sarong', 0.060195528, u'diaper', 0.047102515]
+[u'bathing_cap', 0.16990034, u'flute', 0.091758527, u'lipstick', 0.069441542]
+[u'bikini', 0.68440443, u'maillot', 0.096407525, u'miniskirt', 0.069265462]

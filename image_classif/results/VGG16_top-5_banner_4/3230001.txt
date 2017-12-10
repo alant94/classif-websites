@@ -1,0 +1,1 @@
+[u'seashore', 0.31662622, u'sandbar', 0.12681806, u'water_bottle', 0.10575905, u'park_bench', 0.029926252, u'shovel', 0.027719693]

@@ -1,0 +1,5 @@
+[u'envelope', 0.50346303, u'hair_slide', 0.087315634, u'web_site', 0.04579534, u'menu', 0.029491181, u'binder', 0.017016778]
+[u'envelope', 0.42875767, u'handkerchief', 0.24311064, u'menu', 0.08702039, u'vestment', 0.018949037, u'shower_curtain', 0.015941113]
+[u'shower_curtain', 0.22519514, u'plate_rack', 0.15516526, u'envelope', 0.06522464, u'handkerchief', 0.063009448, u'pitcher', 0.041422311]
+[u'vestment', 0.37453428, u'necklace', 0.090638161, u'gown', 0.072023205, u'handkerchief', 0.050764523, u'envelope', 0.045983568]
+[u'face_powder', 0.16289444, u'loupe', 0.1157243, u'stethoscope', 0.050360445, u'lotion', 0.043998152, u'tray', 0.041668773]

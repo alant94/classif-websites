@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.75791728, u'web_site', 0.20460458, u'monitor', 0.0099110156]
+[u'jigsaw_puzzle', 0.1089344, u'fur_coat', 0.10855602, u'toyshop', 0.083726667]

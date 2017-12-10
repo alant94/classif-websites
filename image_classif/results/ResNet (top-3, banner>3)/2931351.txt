@@ -1,0 +1,1 @@
+[u'television', 0.11301142, u'hand-held_computer', 0.06806799, u'sax', 0.043255445]

@@ -1,0 +1,5 @@
+[u'matchstick', 0.14837351, u'puck', 0.12596183, u'traffic_light', 0.098449923, u'hook', 0.043112807, u'coil', 0.040926237]
+[u'web_site', 0.21195287, u'Band_Aid', 0.1799621, u'envelope', 0.15941586, u'knee_pad', 0.023736043, u'analog_clock', 0.02121898]
+[u'pick', 0.36796683, u'electric_guitar', 0.18061517, u'acoustic_guitar', 0.062000614, u'syringe', 0.049339313, u'necklace', 0.029783776]
+[u'analog_clock', 0.14025217, u'puck', 0.10679805, u'bib', 0.058649562, u'nematode', 0.053259518, u'toilet_seat', 0.048906222]
+[u'coral_fungus', 0.25008211, u'picket_fence', 0.24552485, u"carpenter's_kit", 0.027506894, u'spatula', 0.023718329, u'worm_fence', 0.022450911]

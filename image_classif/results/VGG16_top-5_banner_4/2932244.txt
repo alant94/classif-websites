@@ -1,0 +1,1 @@
+[u'car_mirror', 0.43466485, u'park_bench', 0.14619687, u'lakeside', 0.033178117, u'picket_fence', 0.020992305, u'obelisk', 0.020742524]

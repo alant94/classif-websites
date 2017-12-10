@@ -1,0 +1,1 @@
+[u'Windsor_tie', 0.15272576, u'digital_clock', 0.13375314, u'maze', 0.079353206, u'prayer_rug', 0.063795239, u'jigsaw_puzzle', 0.055066545]

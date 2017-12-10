@@ -1,0 +1,5 @@
+[u'cleaver', 0.05307572, u'cornet', 0.049340554, u'hook', 0.035377838]
+[u'web_site', 0.20583341, u'book_jacket', 0.041270692, u'comic_book', 0.035773121]
+[u'vase', 0.21616267, u'hummingbird', 0.13367887, u'pot', 0.047101159]
+[u'street_sign', 0.1708321, u'book_jacket', 0.078696497, u'Band_Aid', 0.049497828]
+[u'carton', 0.45702431, u'envelope', 0.20716271, u'web_site', 0.081537783]

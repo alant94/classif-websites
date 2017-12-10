@@ -1,0 +1,1 @@
+[u'bucket', 0.49325481, u'ashcan', 0.12438615, u'cocktail_shaker', 0.1089599, u'milk_can', 0.073525496, u'water_jug', 0.047302518]

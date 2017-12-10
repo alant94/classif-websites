@@ -1,0 +1,4 @@
+[u'vine_snake', 0.40390766, u'mantis', 0.14871252, u'green_snake', 0.061406691, u'green_mamba', 0.053683981, u'walking_stick', 0.04245076]
+[u'switch', 0.18356314, u'modem', 0.1504223, u'joystick', 0.074129581, u'remote_control', 0.032969631, u'projector', 0.026764806]
+[u'slot', 0.19324569, u'screwdriver', 0.15749693, u'joystick', 0.10421693, u"carpenter's_kit", 0.083138593, u'web_site', 0.063425064]
+[u'recreational_vehicle', 0.28671089, u'ambulance', 0.18466958, u'racer', 0.10691527, u'trailer_truck', 0.032394744, u'power_drill', 0.029358311]

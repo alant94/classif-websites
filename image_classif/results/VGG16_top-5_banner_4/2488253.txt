@@ -1,0 +1,6 @@
+[u'whippet', 0.27205503, u'plow', 0.16706151, u'ram', 0.093020096, u'bighorn', 0.062045109, u'oxcart', 0.047431968]
+[u'wall_clock', 0.44367599, u'coil', 0.38929862, u'analog_clock', 0.037754562, u'gong', 0.028230028, u'lampshade', 0.019239405]
+[u'impala', 0.56965441, u'cougar', 0.15684825, u'gazelle', 0.089581914, u'hartebeest', 0.048758198, u'ibex', 0.044678096]
+[u'Chesapeake_Bay_retriever', 0.41154152, u'vizsla', 0.07774666, u'English_setter', 0.0415246, u'clumber', 0.032722376, u'warthog', 0.030248361]
+[u'impala', 0.32394826, u'hartebeest', 0.22792847, u'bustard', 0.085228741, u'gazelle', 0.071444735, u'coyote', 0.017564829]
+[u'lakeside', 0.066510215, u'barn', 0.065357573, u'hay', 0.036369178, u'yurt', 0.036143858, u'mobile_home', 0.033842612]

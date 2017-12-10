@@ -1,0 +1,4 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'mountain_bike', 0.057383876, u'hook', 0.029855814, u'mouse', 0.028946176, u'microphone', 0.028671587, u'web_site', 0.028089169]
+[u'Band_Aid', 0.05602888, u'sunscreen', 0.035941526, u'street_sign', 0.034741413, u'hair_spray', 0.033612631, u'web_site', 0.026798747]
+[u'web_site', 0.046511207, u'power_drill', 0.021425966, u'hand_blower', 0.021286119, u'sunscreen', 0.020835197, u'envelope', 0.020254564]

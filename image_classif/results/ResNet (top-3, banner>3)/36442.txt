@@ -1,0 +1,8 @@
+[u'prison', 0.17662032, u'neck_brace', 0.060353756, u'sombrero', 0.05257576]
+[u'television', 0.65794015, u'web_site', 0.1518846, u'groom', 0.033118412]
+[u'screen', 0.42593929, u'television', 0.10171275, u'web_site', 0.10083934]
+[u'television', 0.53446341, u'screen', 0.16957316, u'home_theater', 0.14348866]
+[u'iPod', 0.33444643, u'hand-held_computer', 0.20210086, u'desktop_computer', 0.12681511]
+[u'television', 0.74366742, u'monitor', 0.094710134, u'web_site', 0.044121742]
+[u'apron', 0.15471418, u'candle', 0.090716287, u'miniskirt', 0.080897689]
+[u'home_theater', 0.41562009, u'television', 0.352054, u'stage', 0.080450006]

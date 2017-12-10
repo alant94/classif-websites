@@ -1,0 +1,2 @@
+[u'English_foxhound', 0.38206255, u'beagle', 0.24422196, u'Cardigan', 0.081365675, u'Walker_hound', 0.06553103, u'dogsled', 0.03197607]
+[u'sandbar', 0.16984056, u'lakeside', 0.080760628, u'hartebeest', 0.041899063, u'white_stork', 0.041038085, u'plow', 0.034958567]

@@ -1,0 +1,1 @@
+[u'nail', 0.097713418, u'envelope', 0.065066814, u'street_sign', 0.045243021, u'jersey', 0.030066883, u'web_site', 0.025388911]

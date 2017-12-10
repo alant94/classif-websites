@@ -1,0 +1,4 @@
+[u'sandbar', 0.15535071, u'hippopotamus', 0.12397539, u'seashore', 0.10443479, u'snorkel', 0.074061923, u'otter', 0.066404067]
+[u'screwdriver', 0.30586025, u'ballpoint', 0.18713702, u'syringe', 0.17501591, u'picket_fence', 0.050157871, u"carpenter's_kit", 0.048789684]
+[u'mink', 0.86781055, u'otter', 0.069069117, u'weasel', 0.040341027, u'sea_lion', 0.012459985, u'beaver', 0.0047735157]
+[u'sandbar', 0.19722258, u'pirate', 0.11418711, u'yawl', 0.081845671, u'lifeboat', 0.069611326, u'container_ship', 0.06614507]

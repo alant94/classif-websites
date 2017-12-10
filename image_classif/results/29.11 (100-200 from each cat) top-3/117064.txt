@@ -1,0 +1,7 @@
+[u'refrigerator', 0.11603325, u'shower_curtain', 0.10013305, u'binder', 0.095312774]
+[u'spatula', 0.31666997, u'cleaver', 0.30506232, u'shovel', 0.121891]
+[u'oscilloscope', 0.32974091, u'barn', 0.084946536, u'picket_fence', 0.070880517]
+[u'theater_curtain', 0.060453869, u'picket_fence', 0.052396081, u'window_shade', 0.044313394]
+[u'paintbrush', 0.38271832, u'ballpoint', 0.27295542, u'rubber_eraser', 0.10103244]
+[u'chain', 0.23903155, u'necklace', 0.080398992, u'safety_pin', 0.079707392]
+[u'street_sign', 0.17553896, u'book_jacket', 0.055262212, u'shield', 0.037257854]

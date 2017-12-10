@@ -1,0 +1,3 @@
+[u'puck', 0.42561319, u'hair_spray', 0.032582767, u'analog_clock', 0.025106832, u'wall_clock', 0.024434978, u'laptop', 0.023876568]
+[u'llama', 0.083024904, u'mountain_bike', 0.053714417, u'unicycle', 0.05067835, u'bearskin', 0.042002849, u'Saluki', 0.038877901]
+[u'suit', 0.34016865, u'bolo_tie', 0.20322123, u'bow_tie', 0.062973805, u'trench_coat', 0.062249038, u'cowboy_hat', 0.041914444]

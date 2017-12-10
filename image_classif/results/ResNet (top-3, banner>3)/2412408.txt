@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.52387637, u'rule', 0.11453763, u'syringe', 0.084099345]
+[u"carpenter's_kit", 0.20717092, u'screwdriver', 0.17338161, u'syringe', 0.13025448]
+[u'drumstick', 0.43514287, u'pole', 0.08496052, u'tobacco_shop', 0.066120081]
+[u'barber_chair', 0.50898516, u'barbershop', 0.40957788, u'shoe_shop', 0.041970536]
+[u'projectile', 0.43116105, u'fountain_pen', 0.16644663, u'rubber_eraser', 0.10095055]
+[u'traffic_light', 0.49864826, u'digital_clock', 0.24651685, u'oscilloscope', 0.057952292]
+[u'oil_filter', 0.46819571, u'vending_machine', 0.11017184, u'thimble', 0.084734954]

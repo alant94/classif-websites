@@ -1,0 +1,3 @@
+[u'altar', 0.98788315, u'church', 0.010440904, u'vault', 0.0010947332]
+[u'book_jacket', 0.16649294, u'comic_book', 0.047075968, u'street_sign', 0.030682724]
+[u'vestment', 0.85137761, u'altar', 0.10495083, u'candle', 0.0095195938]

@@ -1,0 +1,3 @@
+[u'spider_web', 0.13736141, u'jersey', 0.065852255, u'barn_spider', 0.051322896, u'corkscrew', 0.034662537, u'hair_slide', 0.026040873]
+[u'comic_book', 0.4062607, u'book_jacket', 0.32638329, u'cinema', 0.11446636, u'barbershop', 0.015814792, u'traffic_light', 0.0093828933]
+[u'jersey', 0.083388805, u'corkscrew', 0.041887078, u'jellyfish', 0.03653172, u'hook', 0.027735882, u'crash_helmet', 0.027499706]

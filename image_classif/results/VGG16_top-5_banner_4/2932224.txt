@@ -1,0 +1,2 @@
+[u'tray', 0.42774057, u'digital_watch', 0.09584105, u'digital_clock', 0.080340572, u'wall_clock', 0.033607423, u'screen', 0.032972805]
+[u'web_site', 0.98177689, u'menu', 0.013302456, u'envelope', 0.0020196545, u'binder', 0.00088789198, u'packet', 0.00022795015]

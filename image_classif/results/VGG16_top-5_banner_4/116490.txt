@@ -1,0 +1,3 @@
+[u'wardrobe', 0.27395222, u'sliding_door', 0.14035223, u'shower_curtain', 0.095531575, u'window_shade', 0.079737984, u'medicine_chest', 0.035451088]
+[u'sliding_door', 0.13259183, u'window_shade', 0.11975692, u'wardrobe', 0.10918894, u'shower_curtain', 0.10484876, u'medicine_chest', 0.026908074]
+[u'sliding_door', 0.15810302, u'wardrobe', 0.14396501, u'window_shade', 0.080513157, u'shower_curtain', 0.072992362, u'medicine_chest', 0.040473368]

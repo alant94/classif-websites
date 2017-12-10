@@ -1,0 +1,1 @@
+[u'panpipe', 0.49926496, u'academic_gown', 0.071815036, u'organ', 0.047926802, u'bookshop', 0.041380197, u'theater_curtain', 0.034600906]

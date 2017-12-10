@@ -1,0 +1,6 @@
+[u'cornet', 0.17009102, u'nail', 0.072866209, u'ski', 0.069855258]
+[u'digital_watch', 0.40147573, u'digital_clock', 0.1484745, u'scoreboard', 0.10589573]
+[u'comic_book', 0.61393189, u'book_jacket', 0.098143421, u'menu', 0.045493565]
+[u'traffic_light', 0.25261059, u'digital_watch', 0.16331308, u'ambulance', 0.10572004]
+[u'digital_watch', 0.43186268, u'analog_clock', 0.13776648, u'stopwatch', 0.081304394]
+[u'comic_book', 0.58524835, u'book_jacket', 0.061975718, u'jersey', 0.058270793]

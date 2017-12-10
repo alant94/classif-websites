@@ -1,0 +1,8 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'picket_fence', 0.6274848, u'ski', 0.066418886, u'bannister', 0.035195973]
+[u'web_site', 0.41332245, u'Band_Aid', 0.11660991, u'envelope', 0.042108335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.463108, u'street_sign', 0.029973401, u'cash_machine', 0.0265768]
+[u'crossword_puzzle', 0.53753388, u'ambulance', 0.19282727, u'tray', 0.055256844]
+[u'web_site', 0.32946298, u'Appenzeller', 0.27858257, u'Bernese_mountain_dog', 0.10635514]

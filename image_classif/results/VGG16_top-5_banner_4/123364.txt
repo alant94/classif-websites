@@ -1,0 +1,1 @@
+[u'sunglass', 0.5273093, u'corkscrew', 0.13330102, u'sunglasses', 0.12646036, u'rhinoceros_beetle', 0.11312032, u'banana', 0.018432813]

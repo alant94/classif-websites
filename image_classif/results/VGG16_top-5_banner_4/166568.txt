@@ -1,0 +1,4 @@
+[u'screen', 0.27366355, u'monitor', 0.24663484, u'web_site', 0.15937768, u'notebook', 0.080066182, u'laptop', 0.056466613]
+[u'web_site', 0.16834037, u'laptop', 0.1377046, u'monitor', 0.13245092, u'notebook', 0.12941863, u'screen', 0.11634471]
+[u'vending_machine', 0.48410469, u'switch', 0.41025683, u'oscilloscope', 0.02948853, u'radio', 0.023741251, u'tape_player', 0.0079735713]
+[u'birdhouse', 0.45152351, u'switch', 0.27039257, u'mousetrap', 0.088367641, u'pencil_sharpener', 0.063302077, u'cassette', 0.045121334]

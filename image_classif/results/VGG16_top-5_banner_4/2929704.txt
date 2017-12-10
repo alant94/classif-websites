@@ -1,0 +1,7 @@
+[u'hair_slide', 0.22372299, u'corkscrew', 0.11980136, u'pinwheel', 0.088965826, u'quill', 0.075606853, u'pick', 0.065246746]
+[u'oxygen_mask', 0.5551911, u'nipple', 0.17430256, u'snorkel', 0.1161297, u'water_bottle', 0.013125083, u'water_jug', 0.012978137]
+[u'shower_curtain', 0.49550205, u'lab_coat', 0.35049441, u'bathtub', 0.025229245, u'stethoscope', 0.0085752392, u'pajama', 0.0079336781]
+[u'lab_coat', 0.27922755, u'web_site', 0.12258713, u'gown', 0.086950347, u'groom', 0.049668178, u'notebook', 0.045114491]
+[u'lipstick', 0.32200173, u'matchstick', 0.13875192, u'paintbrush', 0.082736477, u'ice_lolly', 0.070224777, u'pencil_sharpener', 0.042913035]
+[u'lipstick', 0.60855174, u'Band_Aid', 0.093804941, u'mask', 0.075753793, u'bathing_cap', 0.037034132, u'wig', 0.02194321]
+[u'diaper', 0.32225049, u'Band_Aid', 0.078450419, u'envelope', 0.028766198, u'neck_brace', 0.020006821, u'strainer', 0.017963149]

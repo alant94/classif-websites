@@ -1,0 +1,8 @@
+[u'reflex_camera', 0.77206564, u'Polaroid_camera', 0.1008264, u'projector', 0.040627245]
+[u'microphone', 0.29906309, u'lens_cap', 0.21974064, u'plunger', 0.11778066]
+[u'web_site', 0.85910112, u'hand-held_computer', 0.040464681, u'handkerchief', 0.018269483]
+[u'loupe', 0.2475417, u'reflex_camera', 0.11112669, u'binoculars', 0.051228378]
+[u'iron', 0.15536326, u'neck_brace', 0.10102183, u'mask', 0.094650306]
+[u'remote_control', 0.38528201, u'crossword_puzzle', 0.18965447, u'hand-held_computer', 0.1253359]
+[u'fountain', 0.27109, u'mask', 0.10924557, u'iron', 0.08418344]
+[u'pencil_sharpener', 0.20708783, u'knee_pad', 0.089185342, u'paper_towel', 0.066710852]

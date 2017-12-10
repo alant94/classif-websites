@@ -1,0 +1,5 @@
+[u'barn', 0.084510252, u'book_jacket', 0.066157386, u'window_shade', 0.043734033]
+[u'remote_control', 0.088579841, u'strainer', 0.071526915, u'web_site', 0.068533719]
+[u'candle', 0.28174877, u'web_site', 0.17811085, u'altar', 0.1516359]
+[u'goblet', 0.26876825, u'beer_glass', 0.24985935, u'red_wine', 0.17167768]
+[u'parallel_bars', 0.08656247, u'crutch', 0.060009066, u'fur_coat', 0.05843357]

@@ -1,0 +1,4 @@
+[u'toyshop', 0.84226686, u'pinwheel', 0.024831474, u'chime', 0.012128538]
+[u'Gordon_setter', 0.98355931, u'Bernese_mountain_dog', 0.0091352528, u'cock', 0.0018157182]
+[u'spoonbill', 0.2211902, u'sulphur-crested_cockatoo', 0.177471, u'tench', 0.13218814]
+[u'pot', 0.13383558, u'coral_fungus', 0.10207146, u'bee', 0.091965519]

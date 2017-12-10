@@ -1,0 +1,4 @@
+[u'medicine_chest', 0.12087593, u'toaster', 0.077069573, u'refrigerator', 0.068801939, u'pill_bottle', 0.064499907, u'switch', 0.03844858]
+[u'monitor', 0.23949258, u'screen', 0.19693078, u'oscilloscope', 0.12691124, u'laptop', 0.054005519, u'tray', 0.046177644]
+[u'muzzle', 0.62177676, u'bulletproof_vest', 0.064562403, u'bib', 0.03295007, u'toucan', 0.024851555, u'siamang', 0.016318375]
+[u'tray', 0.12251065, u'envelope', 0.044813771, u'cash_machine', 0.041237377, u'binder', 0.02303654, u'digital_clock', 0.020329373]

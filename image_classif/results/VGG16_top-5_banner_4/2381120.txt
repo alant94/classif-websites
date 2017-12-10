@@ -1,0 +1,8 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'barrel', 0.84465206, u'scale', 0.11143088, u'drum', 0.0049935472, u'milk_can', 0.0035581547, u'punching_bag', 0.0032782007]
+[u'book_jacket', 0.27785298, u'safety_pin', 0.11266452, u'matchstick', 0.10744584, u'comic_book', 0.090363227, u'jellyfish', 0.025081705]
+[u'barrel', 0.94827175, u'toilet_seat', 0.01685477, u'drum', 0.009273719, u'gas_pump', 0.0046561952, u'rain_barrel', 0.0040786993]
+[u'cassette', 0.063668847, u'modem', 0.049522188, u'iPod', 0.044935603, u'radio', 0.040265515, u'cassette_player', 0.039450895]
+[u'cassette', 0.063668847, u'modem', 0.049522188, u'iPod', 0.044935603, u'radio', 0.040265515, u'cassette_player', 0.039450895]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

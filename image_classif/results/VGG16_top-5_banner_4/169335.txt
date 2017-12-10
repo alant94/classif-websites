@@ -1,0 +1,3 @@
+[u'book_jacket', 0.092063516, u'mousetrap', 0.055016223, u'matchstick', 0.04330606, u'safety_pin', 0.041903879, u'perfume', 0.0334922]
+[u'cinema', 0.19438915, u'street_sign', 0.19343418, u'scoreboard', 0.11630842, u'digital_clock', 0.081113361, u'traffic_light', 0.062031958]
+[u'Band_Aid', 0.13919526, u'hair_spray', 0.063838489, u'web_site', 0.045975327, u'bathing_cap', 0.03594619, u'envelope', 0.029302983]

@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.36687148, u'restaurant', 0.26718941, u'cinema', 0.052824881]
+[u'stage', 0.26853085, u'theater_curtain', 0.082217313, u'sax', 0.070410021]

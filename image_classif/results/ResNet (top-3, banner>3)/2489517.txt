@@ -1,0 +1,5 @@
+[u'digital_clock', 0.1912854, u'folding_chair', 0.11462472, u'shopping_basket', 0.043941211]
+[u'comic_book', 0.41612157, u'crossword_puzzle', 0.10946497, u'whistle', 0.095689699]
+[u'electric_fan', 0.14186715, u'oscilloscope', 0.1187005, u'folding_chair', 0.093719102]
+[u'book_jacket', 0.34901896, u'comic_book', 0.22751983, u'jersey', 0.054954331]
+[u'digital_clock', 0.29203114, u'folding_chair', 0.087080143, u'oscilloscope', 0.084005162]

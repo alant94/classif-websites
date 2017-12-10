@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.79902917, u'toilet_seat', 0.039789479, u'book_jacket', 0.031361189]
+[u'cloak', 0.11473194, u'abaya', 0.085713111, u'theater_curtain', 0.067664512]
+[u'strainer', 0.30989182, u'electric_fan', 0.27494588, u'microphone', 0.24193163]

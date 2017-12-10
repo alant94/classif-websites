@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.60335362, u'book_jacket', 0.078919075, u'cinema', 0.052939866, u'beer_glass', 0.033543546, u'comic_book', 0.025354346]
+[u'cinema', 0.27933806, u'theater_curtain', 0.12810683, u'stage', 0.1084983, u'digital_clock', 0.10732214, u'scoreboard', 0.093658216]

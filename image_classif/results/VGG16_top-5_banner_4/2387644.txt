@@ -1,0 +1,4 @@
+[u'beer_bottle', 0.52299267, u'pop_bottle', 0.29019287, u'wine_bottle', 0.070263594, u'beer_glass', 0.028999437, u'water_bottle', 0.024904607]
+[u'swimming_trunks', 0.1754369, u'sandbar', 0.14531405, u'volleyball', 0.095064454, u'sombrero', 0.093547605, u'umbrella', 0.085503973]
+[u'swimming_trunks', 0.34383914, u'sandbar', 0.15124184, u'maillot', 0.13424557, u'maillot', 0.1199052, u'bikini', 0.07084129]
+[u'perfume', 0.30692938, u'plate_rack', 0.088925302, u'refrigerator', 0.086858384, u'lotion', 0.084443592, u'face_powder', 0.081689022]

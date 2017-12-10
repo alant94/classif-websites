@@ -1,0 +1,2 @@
+[u'barbershop', 0.080054313, u'garbage_truck', 0.070670694, u'sliding_door', 0.062901512, u'moving_van', 0.046029229, u'traffic_light', 0.040965982]
+[u'suspension_bridge', 0.047171295, u'bison', 0.023890309, u'golfcart', 0.018403195, u'chainlink_fence', 0.015835116, u'Scotch_terrier', 0.014686465]

@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.60554338, u'bikini', 0.2121795, u'bathing_cap', 0.049812943, u'maillot', 0.040917762, u'maillot', 0.016688507]
+[u'Weimaraner', 0.077920012, u'bath_towel', 0.071348488, u'barbershop', 0.065789483, u'diaper', 0.060129289, u'space_heater', 0.036222041]

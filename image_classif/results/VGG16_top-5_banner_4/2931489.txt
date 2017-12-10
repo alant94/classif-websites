@@ -1,0 +1,3 @@
+[u'web_site', 0.1126489, u'flagpole', 0.044168547, u'street_sign', 0.022544827, u'menu', 0.021658042, u'monitor', 0.021599194]
+[u'web_site', 0.031653415, u'bald_eagle', 0.031378526, u'vulture', 0.018867651, u'picket_fence', 0.018591698, u'lakeside', 0.016797615]
+[u'web_site', 0.069137931, u'crossword_puzzle', 0.027814202, u'brass', 0.024051337, u'flagpole', 0.023176787, u'menu', 0.019075301]

@@ -1,0 +1,2 @@
+[u'picket_fence', 0.28694409, u'wallet', 0.038621627, u'dam', 0.031254888, u'worm_fence', 0.030939095, u'pillow', 0.023513272]
+[u'breakwater', 0.36943227, u'lakeside', 0.17259498, u'barn', 0.077463947, u'volcano', 0.053705625, u'seashore', 0.046359047]

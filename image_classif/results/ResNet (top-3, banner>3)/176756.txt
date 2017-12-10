@@ -1,0 +1,4 @@
+[u'web_site', 0.89987057, u'switch', 0.012381011, u'pay-phone', 0.0088251429]
+[u'web_site', 0.99475092, u'comic_book', 0.00097524689, u'monitor', 0.00064307213]
+[u'web_site', 0.97668445, u'menu', 0.016474156, u'book_jacket', 0.001231226]
+[u'web_site', 0.58394027, u'crate', 0.048484553, u'refrigerator', 0.043780509]

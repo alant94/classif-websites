@@ -1,0 +1,2 @@
+[u'grand_piano', 0.17550123, u'theater_curtain', 0.095039286, u'throne', 0.055456549, u'stage', 0.045020569, u'web_site', 0.03911617]
+[u'valley', 0.23834498, u'lakeside', 0.14253771, u'totem_pole', 0.10167543, u'castle', 0.098263599, u'fountain', 0.062537923]

@@ -1,0 +1,3 @@
+[u'buckeye', 0.45165479, u'pot', 0.12117003, u'hip', 0.084041759]
+[u'analog_clock', 0.15805984, u'punching_bag', 0.14890563, u'hook', 0.079689078]
+[u'red_wine', 0.96429074, u'goblet', 0.019850694, u'wine_bottle', 0.0042190785]

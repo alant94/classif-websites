@@ -1,0 +1,7 @@
+[u'traffic_light', 0.073280074, u'shower_curtain', 0.059708238, u'prayer_rug', 0.057086639, u'digital_clock', 0.035908572, u'wall_clock', 0.029207889]
+[u'harp', 0.10014236, u'vault', 0.05049343, u'organ', 0.049112923, u'poncho', 0.035526257, u'monastery', 0.03364104]
+[u'cash_machine', 0.046570342, u'abaya', 0.041857086, u'guillotine', 0.040974651, u'carton', 0.021278728, u'wig', 0.020404689]
+[u'chambered_nautilus', 0.18383376, u'table_lamp', 0.095026247, u'lampshade', 0.079164676, u'lotion', 0.076456293, u'eggnog', 0.065335877]
+[u'window_screen', 0.23636539, u'window_shade', 0.14839181, u'fire_screen', 0.072130039, u'bannister', 0.042563546, u'fountain', 0.040953599]
+[u'bell_pepper', 0.059638228, u'breastplate', 0.049188897, u'pitcher', 0.036714062, u'Italian_greyhound', 0.035570372, u'Siamese_cat', 0.03419235]
+[u'candle', 0.086583525, u'vase', 0.082786217, u'shower_cap', 0.049978331, u'water_jug', 0.042578232, u'lipstick', 0.028522972]

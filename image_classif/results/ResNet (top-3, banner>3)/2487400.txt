@@ -1,0 +1,3 @@
+[u'menu', 0.38860595, u'street_sign', 0.10677435, u'scoreboard', 0.090952054]
+[u'binder', 0.1579127, u'shovel', 0.15599187, u'monitor', 0.10258401]
+[u'impala', 0.69229311, u'gazelle', 0.23142123, u'hartebeest', 0.071870446]

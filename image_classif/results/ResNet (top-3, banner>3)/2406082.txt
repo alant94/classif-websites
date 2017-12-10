@@ -1,0 +1,1 @@
+[u'dishwasher', 0.31873015, u'refrigerator', 0.11557543, u'washer', 0.033120304]

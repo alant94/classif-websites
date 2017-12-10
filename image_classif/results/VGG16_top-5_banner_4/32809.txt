@@ -1,0 +1,6 @@
+[u'plastic_bag', 0.31260478, u'picket_fence', 0.29962671, u'pot', 0.056746591, u'greenhouse', 0.050216977, u'vase', 0.02223953]
+[u'dock', 0.48936588, u'lakeside', 0.21607128, u'boathouse', 0.053741738, u'seashore', 0.037679136, u'trimaran', 0.029264191]
+[u'lakeside', 0.88759732, u'valley', 0.047360804, u'promontory', 0.02038292, u'boathouse', 0.0055914219, u'dam', 0.0053705247]
+[u'cucumber', 0.27480105, u'cauliflower', 0.12448626, u'bakery', 0.088512965, u'bell_pepper', 0.086697638, u'strawberry', 0.06474296]
+[u'chain', 0.092710927, u'chain_saw', 0.027082568, u'nematode', 0.025816442, u'hook', 0.023961857, u'corkscrew', 0.023630602]
+[u'yawl', 0.69628465, u'catamaran', 0.14491509, u'schooner', 0.10190052, u'trimaran', 0.054306168, u'fireboat', 0.00092291605]

@@ -1,0 +1,2 @@
+[u'spotlight', 0.25346681, u'hair_spray', 0.059600189, u'loupe', 0.057188194, u'lotion', 0.037481297, u'tennis_ball', 0.032522898]
+[u'monitor', 0.18555537, u'television', 0.16086544, u'fountain', 0.062340107, u'joystick', 0.058240216, u'table_lamp', 0.054486547]

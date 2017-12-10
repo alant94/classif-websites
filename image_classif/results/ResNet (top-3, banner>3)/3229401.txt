@@ -1,0 +1,7 @@
+[u'vestment', 0.41108021, u'academic_gown', 0.083988138, u'suit', 0.069541544]
+[u'marimba', 0.18646473, u'drumstick', 0.15024729, u'drum', 0.12299416]
+[u'suit', 0.24653071, u'chain', 0.059587594, u'trench_coat', 0.055689298]
+[u'shower_cap', 0.24104492, u'suit', 0.082880139, u'bow_tie', 0.079812683]
+[u'restaurant', 0.38472247, u'stole', 0.047774076, u'wool', 0.044672977]
+[u'pajama', 0.13675445, u'bookshop', 0.11740132, u'kimono', 0.10677988]
+[u'pillow', 0.51751328, u'tennis_ball', 0.22823927, u'envelope', 0.073252626]

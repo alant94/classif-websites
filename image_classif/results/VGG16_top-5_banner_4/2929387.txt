@@ -1,0 +1,1 @@
+[u'menu', 0.51281691, u'handkerchief', 0.093070105, u'book_jacket', 0.08318828, u'packet', 0.056164678, u'envelope', 0.054791886]

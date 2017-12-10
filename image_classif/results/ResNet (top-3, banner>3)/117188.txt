@@ -1,0 +1,5 @@
+[u'assault_rifle', 0.13753958, u'cannon', 0.075261578, u'pedestal', 0.048387807]
+[u'toyshop', 0.2943362, u'maraca', 0.030335234, u'whistle', 0.023168871]
+[u'crane', 0.55126089, u'stage', 0.13557667, u'drilling_platform', 0.05517387]
+[u'comic_book', 0.95401746, u'book_jacket', 0.0076895636, u'mask', 0.0047085695]
+[u'slot', 0.60183334, u'comic_book', 0.1496197, u'cinema', 0.062352452]

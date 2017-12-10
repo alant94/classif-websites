@@ -1,0 +1,6 @@
+[u'book_jacket', 0.22077931, u'sleeping_bag', 0.071560264, u'bulletproof_vest', 0.052302387]
+[u'African_chameleon', 0.18957636, u'kite', 0.099617451, u'bee_eater', 0.055940844]
+[u'rapeseed', 0.19845784, u'indigo_bunting', 0.1038539, u'ladybug', 0.085831545]
+[u'dogsled', 0.24187511, u'malamute', 0.075180262, u'plow', 0.04773692]
+[u'valley', 0.37091765, u'palace', 0.27360812, u'viaduct', 0.041622594]
+[u'honeycomb', 0.91243458, u'crate', 0.028106462, u'apiary', 0.025835391]

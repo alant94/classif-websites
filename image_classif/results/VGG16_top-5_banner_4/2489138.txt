@@ -1,0 +1,6 @@
+[u'picket_fence', 0.54059178, u'palace', 0.039321594, u'monastery', 0.03593073, u'mobile_home', 0.021996191, u'bell_cote', 0.017893175]
+[u'mobile_home', 0.65181005, u'patio', 0.16747484, u'monastery', 0.014336444, u'boathouse', 0.012594702, u'flagpole', 0.0081729367]
+[u'street_sign', 0.24890974, u'book_jacket', 0.22234339, u'packet', 0.10500154, u'Band_Aid', 0.051891815, u'laptop', 0.051748399]
+[u'patio', 0.11290111, u'mobile_home', 0.09954612, u'lakeside', 0.073326513, u'flagpole', 0.043763652, u'pole', 0.03011658]
+[u'web_site', 0.26866239, u'cassette', 0.16031583, u'vending_machine', 0.070081368, u'cash_machine', 0.062497724, u'hand-held_computer', 0.04471954]
+[u'lakeside', 0.28638402, u'mobile_home', 0.10315549, u'palace', 0.089567117, u'patio', 0.070058614, u'boathouse', 0.047923971]

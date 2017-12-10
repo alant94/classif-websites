@@ -1,0 +1,3 @@
+[u'television', 0.12520401, u'remote_control', 0.079278961, u'web_site', 0.078202635]
+[u'web_site', 0.43704256, u'nematode', 0.034151327, u'digital_clock', 0.025673633]
+[u'digital_clock', 0.33326024, u'digital_watch', 0.22989945, u'stopwatch', 0.08791218]

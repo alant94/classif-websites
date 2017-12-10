@@ -1,0 +1,2 @@
+[u'book_jacket', 0.17408504, u'street_sign', 0.11257046, u'cash_machine', 0.059429836, u'web_site', 0.040674567, u'hair_spray', 0.024528615]
+[u'web_site', 0.24160403, u'African_grey', 0.091914341, u'terrapin', 0.069319576, u'teddy', 0.053574495, u'macaw', 0.051958032]

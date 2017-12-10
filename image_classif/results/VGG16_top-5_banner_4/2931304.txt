@@ -1,0 +1,2 @@
+[u'screwdriver', 0.30076885, u"carpenter's_kit", 0.11761452, u'comic_book', 0.075518407, u'web_site', 0.065061711, u'hammer', 0.038839657]
+[u'picket_fence', 0.084386803, u'church', 0.078003697, u'obelisk', 0.061289925, u'wing', 0.055082183, u'candle', 0.038751978]

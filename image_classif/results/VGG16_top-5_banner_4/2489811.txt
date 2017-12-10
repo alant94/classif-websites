@@ -1,0 +1,1 @@
+[u'lion', 0.981327, u'Arabian_camel', 0.0036999395, u'hyena', 0.0030682995, u'cougar', 0.0019512265, u'timber_wolf', 0.0018537305]

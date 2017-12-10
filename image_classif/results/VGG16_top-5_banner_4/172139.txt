@@ -1,0 +1,7 @@
+[u'diaper', 0.67819452, u'swimming_trunks', 0.049480002, u'lotion', 0.029069906, u'web_site', 0.023662375, u'bath_towel', 0.018765112]
+[u'diaper', 0.24457116, u'face_powder', 0.18073025, u'brassiere', 0.17580539, u'Band_Aid', 0.10059623, u'bikini', 0.065012522]
+[u'balance_beam', 0.27693775, u'volleyball', 0.11794214, u'horizontal_bar', 0.090970859, u'barbell', 0.086447284, u'knee_pad', 0.073237456]
+[u'bikini', 0.24091305, u'brassiere', 0.13720426, u'toyshop', 0.059066553, u'sarong', 0.057892069, u'confectionery', 0.054487851]
+[u'brassiere', 0.76955694, u'bikini', 0.070754111, u'maillot', 0.056885496, u'diaper', 0.030825812, u'gown', 0.018784786]
+[u'miniskirt', 0.21409951, u'brassiere', 0.145907, u'pajama', 0.074947573, u'maillot', 0.06058671, u'hair_spray', 0.041179612]
+[u'brassiere', 0.67594659, u'bikini', 0.14998683, u'diaper', 0.11109664, u'gown', 0.016703995, u'maillot', 0.014143749]

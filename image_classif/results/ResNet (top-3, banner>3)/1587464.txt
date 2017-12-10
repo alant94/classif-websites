@@ -1,0 +1,1 @@
+[u'seat_belt', 0.67518336, u'crash_helmet', 0.023994787, u'Band_Aid', 0.014734559]

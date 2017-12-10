@@ -1,0 +1,4 @@
+[u'puck', 0.97173685, u'street_sign', 0.0028829856, u'theater_curtain', 0.0025831459]
+[u'crossword_puzzle', 0.5291869, u'picket_fence', 0.17442861, u'digital_clock', 0.025552057]
+[u'web_site', 0.69860405, u'envelope', 0.020603897, u'monitor', 0.013430726]
+[u'pinwheel', 0.22337928, u'container_ship', 0.11453293, u'papillon', 0.05881108]

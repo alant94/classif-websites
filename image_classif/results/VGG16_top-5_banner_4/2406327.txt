@@ -1,0 +1,1 @@
+[u'binder', 0.41275409, u'safe', 0.39392069, u'book_jacket', 0.04634688, u'perfume', 0.026878035, u'mailbox', 0.012485329]

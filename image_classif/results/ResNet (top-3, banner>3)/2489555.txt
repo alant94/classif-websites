@@ -1,0 +1,4 @@
+[u'bluetick', 0.98991895, u'German_short-haired_pointer', 0.0057700723, u'three-toed_sloth', 0.00098673732]
+[u'plate_rack', 0.10721826, u'fountain', 0.085524537, u'nail', 0.05335103]
+[u'Indian_elephant', 0.24408734, u'water_buffalo', 0.12426001, u'warthog', 0.086673707]
+[u'dingo', 0.1666365, u'ibex', 0.16659455, u'hartebeest', 0.16418827]

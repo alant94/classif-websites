@@ -1,0 +1,8 @@
+[u'envelope', 0.18327725, u'Band_Aid', 0.10848689, u'web_site', 0.071192913, u'digital_clock', 0.032959167, u'analog_clock', 0.0299048]
+[u'lipstick', 0.85178369, u'hair_spray', 0.056506205, u'syringe', 0.029919259, u'hand_blower', 0.019531654, u'microphone', 0.012904773]
+[u'fur_coat', 0.073852152, u'carousel', 0.045500923, u'neck_brace', 0.035730708, u'wig', 0.034055468, u'silky_terrier', 0.028326221]
+[u'refrigerator', 0.27043265, u'desk', 0.099124275, u'sewing_machine', 0.051086418, u'toyshop', 0.045614585, u'projector', 0.025052935]
+[u'oxygen_mask', 0.15926839, u'seat_belt', 0.063623056, u'shoe_shop', 0.045330122, u'limousine', 0.043709345, u'cornet', 0.041969277]
+[u'hair_spray', 0.061989695, u'hand_blower', 0.058218744, u'lipstick', 0.046900772, u'dial_telephone', 0.03434724, u'microphone', 0.033552866]
+[u'maillot', 0.13612795, u'miniskirt', 0.092878878, u'jersey', 0.06268096, u'sweatshirt', 0.058529172, u'maillot', 0.055863839]
+[u'maillot', 0.28011265, u'maillot', 0.24256763, u'miniskirt', 0.10776363, u'bikini', 0.055989653, u'brassiere', 0.05124357]

@@ -1,0 +1,5 @@
+[u'file', 0.45163032, u'cassette', 0.097238436, u'cassette_player', 0.096260317]
+[u'file', 0.84391028, u'combination_lock', 0.037334803, u'desktop_computer', 0.0090916855]
+[u'sweatshirt', 0.17624624, u'book_jacket', 0.096603386, u'jersey', 0.096140683]
+[u'file', 0.68232787, u'tape_player', 0.079141788, u'cassette_player', 0.074761629]
+[u'jersey', 0.15519349, u'iPod', 0.15238261, u'web_site', 0.068684325]

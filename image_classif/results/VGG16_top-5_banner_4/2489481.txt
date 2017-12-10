@@ -1,0 +1,5 @@
+[u'gazelle', 0.2488174, u'Ibizan_hound', 0.13598709, u'croquet_ball', 0.094946332, u'whippet', 0.060789585, u'llama', 0.056724031]
+[u'bow', 0.40503469, u'gazelle', 0.2444402, u'ibex', 0.075435944, u'llama', 0.057477646, u'hare', 0.021098727]
+[u'mobile_home', 0.46376413, u'yurt', 0.20941079, u'lawn_mower', 0.08811257, u'apiary', 0.084436946, u'greenhouse', 0.062168591]
+[u'apiary', 0.74805629, u'birdhouse', 0.033895053, u'mobile_home', 0.019242873, u'park_bench', 0.019009275, u'mailbox', 0.017242672]
+[u'bison', 0.83593518, u'Irish_water_spaniel', 0.053366818, u'ram', 0.026618257, u'ox', 0.019967873, u'brown_bear', 0.011538402]

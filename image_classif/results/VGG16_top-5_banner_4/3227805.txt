@@ -1,0 +1,1 @@
+[u'street_sign', 0.14630057, u'viaduct', 0.12475085, u'matchstick', 0.098893084, u'book_jacket', 0.043975875, u'picket_fence', 0.041278724]

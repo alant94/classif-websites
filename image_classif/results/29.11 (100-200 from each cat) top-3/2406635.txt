@@ -1,0 +1,5 @@
+[u'night_snake', 0.35681143, u'sidewinder', 0.14920841, u'horned_viper', 0.13056332]
+[u'crossword_puzzle', 0.76314151, u'picket_fence', 0.057679784, u'comic_book', 0.036633063]
+[u'king_snake', 0.61507994, u'rock_python', 0.16089112, u'night_snake', 0.074802272]
+[u'coral_fungus', 0.29973274, u'stinkhorn', 0.21205601, u'starfish', 0.079385683]
+[u'sidewinder', 0.47114033, u'horned_viper', 0.31588513, u'night_snake', 0.074526884]

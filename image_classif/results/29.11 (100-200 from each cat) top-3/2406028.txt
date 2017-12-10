@@ -1,0 +1,5 @@
+[u'oxygen_mask', 0.17912786, u'can_opener', 0.07595098, u'chain', 0.045469243]
+[u'hard_disc', 0.14103878, u'loupe', 0.12179366, u'oscilloscope', 0.10875997]
+[u'laptop', 0.1561082, u'hard_disc', 0.12557949, u'binder', 0.12112388]
+[u'traffic_light', 0.49840829, u'oscilloscope', 0.15334724, u'street_sign', 0.094944075]
+[u'shield', 0.20597103, u'traffic_light', 0.10486136, u'lighter', 0.10279363]

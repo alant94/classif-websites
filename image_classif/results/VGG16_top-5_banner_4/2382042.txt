@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.1869362, u'window_shade', 0.11688656, u'wardrobe', 0.077069536, u'window_screen', 0.057379499, u'sliding_door', 0.045067739]
+[u'switch', 0.99548399, u'remote_control', 0.00041580125, u'lighter', 0.00040620755, u'iPod', 0.00026892117, u'modem', 0.00025036393]

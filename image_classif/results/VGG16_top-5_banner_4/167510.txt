@@ -1,0 +1,2 @@
+[u'lakeside', 0.77396822, u'geyser', 0.034512658, u'balloon', 0.022781124, u'seashore', 0.016334474, u'fountain', 0.011870081]
+[u'web_site', 0.88436669, u'book_jacket', 0.082573622, u'envelope', 0.010546506, u'brass', 0.0057086861, u'menu', 0.0020841863]

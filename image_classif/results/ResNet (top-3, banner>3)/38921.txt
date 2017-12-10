@@ -1,0 +1,1 @@
+[u'digital_clock', 0.60142481, u'analog_clock', 0.074751906, u'tripod', 0.071878947]

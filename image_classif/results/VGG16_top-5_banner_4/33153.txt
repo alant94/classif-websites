@@ -1,0 +1,2 @@
+[u'nail', 0.46443576, u'letter_opener', 0.070323363, u'ballpoint', 0.05403503, u'screw', 0.044898104, u'hair_slide', 0.04087317]
+[u'whistle', 0.30196622, u'candle', 0.14514083, u'scale', 0.087022938, u'bucket', 0.063083313, u'measuring_cup', 0.061517477]

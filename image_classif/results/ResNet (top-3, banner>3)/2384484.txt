@@ -1,0 +1,4 @@
+[u'web_site', 0.23996525, u'guillotine', 0.062531285, u'analog_clock', 0.05340508]
+[u'fountain', 0.12373558, u'alp', 0.091416128, u'barn', 0.063628286]
+[u'Arabian_camel', 0.64707053, u'sorrel', 0.30982333, u'horse_cart', 0.019138707]
+[u'shield', 0.68963689, u'comic_book', 0.051014885, u'book_jacket', 0.044405274]

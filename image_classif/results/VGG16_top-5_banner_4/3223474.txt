@@ -1,0 +1,1 @@
+[u'restaurant', 0.46499473, u'dining_table', 0.15417568, u'patio', 0.036872651, u'grand_piano', 0.026225353, u'laptop', 0.015146526]

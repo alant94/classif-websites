@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.35694164, u'kimono', 0.12036003, u'brassiere', 0.055104841, u'toyshop', 0.047062293, u'apron', 0.04473792]

@@ -1,0 +1,4 @@
+[u'miniskirt', 0.48742968, u'maillot', 0.15274101, u'sock', 0.0840564, u'maillot', 0.078066356, u'bikini', 0.020976737]
+[u'syringe', 0.13179038, u'screwdriver', 0.053213608, u'mouse', 0.050286755, u'lipstick', 0.040654734, u'cellular_telephone', 0.031746536]
+[u'miniskirt', 0.47088894, u'maillot', 0.066054955, u'chain_mail', 0.040944248, u'knee_pad', 0.033399355, u'maillot', 0.032821298]
+[u'sandal', 0.72762966, u'miniskirt', 0.13790265, u'bikini', 0.053363606, u'maillot', 0.050521571, u'brassiere', 0.0085968487]

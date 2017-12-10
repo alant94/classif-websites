@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.079962127, u'paper_towel', 0.0500945, u'airship', 0.040470097, u'packet', 0.024607528, u'pill_bottle', 0.021743091]
+[u'web_site', 0.99995804, u'monitor', 1.1743059e-05, u'screen', 5.0418539e-06, u'analog_clock', 4.7251583e-06, u'menu', 4.6251739e-06]
+[u'web_site', 0.99388957, u'rule', 0.0029403982, u'envelope', 0.00054663606, u'screen', 0.00039732343, u'analog_clock', 0.00027751512]

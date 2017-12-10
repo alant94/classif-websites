@@ -1,0 +1,6 @@
+[u'stethoscope', 0.88312328, u'lab_coat', 0.029861603, u'pajama', 0.012837033]
+[u'web_site', 0.28332651, u'street_sign', 0.057255529, u'screw', 0.038503345]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'stretcher', 0.21250351, u'warplane', 0.19744495, u'projectile', 0.0969657]
+[u'envelope', 0.17578493, u'web_site', 0.14164713, u'rule', 0.0253486]
+[u"potter's_wheel", 0.35954809, u'plate', 0.034632564, u'kimono', 0.033246767]

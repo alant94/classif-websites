@@ -1,0 +1,2 @@
+[u'analog_clock', 0.91072035, u'digital_clock', 0.072631083, u'tripod', 0.0057370854]
+[u'bikini', 0.50112569, u'maillot', 0.20527966, u'maillot', 0.1886526]

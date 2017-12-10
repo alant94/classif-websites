@@ -1,0 +1,6 @@
+[u'wall_clock', 0.90825218, u'analog_clock', 0.038917843, u'barometer', 0.015270155]
+[u'corn', 0.41540739, u'pill_bottle', 0.14356123, u'safety_pin', 0.066473104]
+[u'hair_spray', 0.46728328, u'lotion', 0.31150731, u'sunscreen', 0.10458756]
+[u'slot', 0.26456502, u'croquet_ball', 0.16104554, u'hip', 0.11820813]
+[u'plate_rack', 0.14148699, u'drum', 0.10926325, u'wall_clock', 0.075160868]
+[u'pill_bottle', 0.18396091, u'cradle', 0.067796178, u'bee', 0.06747479]

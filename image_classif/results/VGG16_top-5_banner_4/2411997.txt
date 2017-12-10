@@ -1,0 +1,1 @@
+[u'pencil_sharpener', 0.11673468, u'panpipe', 0.11123779, u'coil', 0.072674975, u'wall_clock', 0.049874999, u'envelope', 0.032793265]

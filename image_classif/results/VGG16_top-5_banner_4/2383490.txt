@@ -1,0 +1,8 @@
+[u'worm_fence', 0.7736662, u'picket_fence', 0.034815494, u'turnstile', 0.01326428, u'llama', 0.0091503412, u'alp', 0.0083007133]
+[u'sea_urchin', 0.040790632, u'clog', 0.039293133, u'miniskirt', 0.038921099, u'starfish', 0.035912894, u'Band_Aid', 0.034982935]
+[u'stone_wall', 0.34609696, u'picket_fence', 0.11761709, u'lakeside', 0.043140233, u'worm_fence', 0.039768349, u'cliff', 0.028966805]
+[u'pick', 0.7621569, u'red_wine', 0.034249827, u'perfume', 0.012470813, u'book_jacket', 0.011122669, u'microphone', 0.0096748434]
+[u'worm_fence', 0.48050582, u'lakeside', 0.14431544, u'maze', 0.046964467, u'rapeseed', 0.043604095, u'barn', 0.022197554]
+[u'shower_curtain', 0.53007317, u'sarong', 0.085532293, u'vestment', 0.044500433, u'picket_fence', 0.042493761, u'abaya', 0.020616064]
+[u'chain', 0.92882782, u'picket_fence', 0.01334603, u'hook', 0.010473651, u'worm_fence', 0.0084488261, u'wooden_spoon', 0.0044494974]
+[u'Welsh_springer_spaniel', 0.92453992, u'Brittany_spaniel', 0.068428546, u'English_springer', 0.002267258, u'Blenheim_spaniel', 0.0019732518, u'English_setter', 0.0012339124]

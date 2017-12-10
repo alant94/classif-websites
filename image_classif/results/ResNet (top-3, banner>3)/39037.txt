@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.561984, u'envelope', 0.18060581, u'web_site', 0.11823956]
+[u'balance_beam', 0.34211513, u'book_jacket', 0.16104434, u'Windsor_tie', 0.094273321]

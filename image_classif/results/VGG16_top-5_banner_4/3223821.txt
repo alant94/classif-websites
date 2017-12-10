@@ -1,0 +1,5 @@
+[u'safety_pin', 0.37244388, u'nail', 0.077222995, u"carpenter's_kit", 0.052562919, u'screwdriver', 0.050743043, u'letter_opener', 0.038433213]
+[u'cleaver', 0.12602943, u'hard_disc', 0.060013767, u'slide_rule', 0.058477089, u'letter_opener', 0.044657987, u'fountain_pen', 0.044020887]
+[u'shower_curtain', 0.23117977, u'spider_web', 0.1068756, u'gown', 0.083422624, u'swab', 0.035863407, u'sarong', 0.035427235]
+[u'theater_curtain', 0.11020263, u'stage', 0.059037697, u'torch', 0.052220669, u'container_ship', 0.039343849, u'vault', 0.039233446]
+[u'container_ship', 0.35560679, u'beacon', 0.20881951, u'crane', 0.13814387, u'drilling_platform', 0.089188732, u'dock', 0.053197276]

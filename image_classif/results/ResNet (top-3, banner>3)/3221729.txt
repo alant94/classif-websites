@@ -1,0 +1,2 @@
+[u'barn', 0.69608867, u'lakeside', 0.11989981, u'boathouse', 0.082481809]
+[u'hair_slide', 0.11354599, u'carton', 0.075964183, u'packet', 0.054600973]

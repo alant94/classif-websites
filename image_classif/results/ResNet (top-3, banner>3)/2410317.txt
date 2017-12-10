@@ -1,0 +1,3 @@
+[u'cowboy_hat', 0.4045805, u'sombrero', 0.066269934, u'marimba', 0.043592785]
+[u'vestment', 0.2982727, u'sombrero', 0.26403809, u'harp', 0.046046708]
+[u'toyshop', 0.19174582, u'candle', 0.103994, u'Christmas_stocking', 0.047767673]

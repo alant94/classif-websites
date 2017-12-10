@@ -1,0 +1,3 @@
+[u'web_site', 0.46823698, u'envelope', 0.01046579, u'nematode', 0.010366765]
+[u'ski', 0.16015922, u'iron', 0.11901274, u'bannister', 0.07504335]
+[u'handkerchief', 0.22836086, u'bow', 0.093410641, u'sweatshirt', 0.079741083]

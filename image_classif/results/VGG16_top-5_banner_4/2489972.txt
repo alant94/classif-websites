@@ -1,0 +1,2 @@
+[u'hartebeest', 0.45451677, u'impala', 0.23226161, u'warthog', 0.051504895, u'gazelle', 0.021619616, u'ox', 0.015772706]
+[u'gazelle', 0.74560767, u'impala', 0.18038717, u'ibex', 0.058049407, u'hartebeest', 0.011258608, u'ram', 0.0013914787]

@@ -1,0 +1,4 @@
+[u'tray', 0.28738865, u'prayer_rug', 0.16253152, u'crossword_puzzle', 0.040812362]
+[u'joystick', 0.10220771, u'loudspeaker', 0.038617559, u'jigsaw_puzzle', 0.03404434]
+[u'medicine_chest', 0.43653676, u'sewing_machine', 0.16531928, u'container_ship', 0.073806636]
+[u'assault_rifle', 0.14264692, u'harmonica', 0.10576168, u'Blenheim_spaniel', 0.078986131]

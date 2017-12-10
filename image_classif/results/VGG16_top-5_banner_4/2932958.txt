@@ -1,0 +1,6 @@
+[u'envelope', 0.047568321, u'web_site', 0.040083963, u'nail', 0.019637536, u'swab', 0.017248383, u'snorkel', 0.01532437]
+[u'barrow', 0.066266522, u'apiary', 0.051787116, u'oxcart', 0.048298161, u'water_buffalo', 0.036654528, u'head_cabbage', 0.033579931]
+[u'pedestal', 0.11030141, u'crane', 0.064598091, u'balance_beam', 0.060203142, u'bikini', 0.040720064, u'swimming_trunks', 0.035328995]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'pajama', 0.23684429, u'gown', 0.1593592, u'bikini', 0.10231351, u'brassiere', 0.075582683, u'handkerchief', 0.048162486]
+[u'broom', 0.11252798, u'volcano', 0.095138274, u'swab', 0.05277849, u'coral_fungus', 0.039632082, u'torch', 0.035897911]

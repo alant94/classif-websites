@@ -1,0 +1,5 @@
+[u'paddlewheel', 0.39912736, u'crane', 0.041328318, u'comic_book', 0.037403278]
+[u'prison', 0.54863787, u'lumbermill', 0.054058034, u'moving_van', 0.024760019]
+[u'comic_book', 0.14659588, u'balance_beam', 0.092345387, u'chain_saw', 0.053833723]
+[u'comic_book', 0.14810875, u'lumbermill', 0.082896322, u'restaurant', 0.05892171]
+[u'cab', 0.33590952, u'school_bus', 0.099162646, u'screwdriver', 0.057263937]

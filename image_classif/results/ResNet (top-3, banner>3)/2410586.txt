@@ -1,0 +1,2 @@
+[u'picket_fence', 0.40134713, u'worm_fence', 0.087605231, u'rocking_chair', 0.046777293]
+[u'envelope', 0.24012941, u'wallet', 0.07845825, u'book_jacket', 0.065444849]

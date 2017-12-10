@@ -1,0 +1,2 @@
+[u'wig', 0.57586884, u'hair_spray', 0.066243134, u'cardigan', 0.063155897]
+[u'oscilloscope', 0.58034617, u'picket_fence', 0.044223793, u'plate_rack', 0.034237206]

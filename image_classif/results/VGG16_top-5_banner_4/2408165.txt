@@ -1,0 +1,8 @@
+[u'hair_slide', 0.43255392, u'ballpoint', 0.03487891, u'screwdriver', 0.025866924, u'maraca', 0.022275759, u'hook', 0.020005209]
+[u'container_ship', 0.62041134, u'crane', 0.029366013, u'balloon', 0.017179463, u'scoreboard', 0.011027351, u'drilling_platform', 0.010917494]
+[u'digital_clock', 0.32374787, u'scoreboard', 0.075925283, u'sliding_door', 0.035115261, u'gas_pump', 0.033424046, u'street_sign', 0.031307131]
+[u'screwdriver', 0.18661934, u'palace', 0.16021574, u'candle', 0.077711836, u'syringe', 0.074008323, u'mosque', 0.045567755]
+[u'container_ship', 0.19208878, u'balloon', 0.075596616, u'pill_bottle', 0.041225061, u'toilet_seat', 0.033759281, u'picket_fence', 0.032570276]
+[u'mask', 0.12383473, u'sweatshirt', 0.11112156, u'ski_mask', 0.083447106, u'abaya', 0.057670113, u'wig', 0.055921916]
+[u'envelope', 0.048622232, u'digital_clock', 0.036265541, u'safe', 0.035731807, u'scoreboard', 0.03234724, u'switch', 0.031439748]
+[u'ballpoint', 0.13560095, u'chime', 0.090748951, u'web_site', 0.073264398, u'hair_spray', 0.027532997, u'whistle', 0.023699505]

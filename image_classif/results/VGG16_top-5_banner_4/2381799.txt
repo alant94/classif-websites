@@ -1,0 +1,5 @@
+[u'organ', 0.58171427, u'bookcase', 0.056535915, u'picket_fence', 0.038395066, u'rule', 0.030029576, u'chime', 0.023918821]
+[u'plate_rack', 0.44285312, u'golf_ball', 0.36817247, u'baseball', 0.0875815, u'puck', 0.012324138, u'thimble', 0.010594689]
+[u'web_site', 0.49870718, u'pier', 0.12467346, u'monitor', 0.087318689, u'crane', 0.058329854, u'suspension_bridge', 0.030884564]
+[u'guillotine', 0.12658985, u'medicine_chest', 0.10361179, u'wardrobe', 0.057934508, u'file', 0.022323806, u'sliding_door', 0.018000018]
+[u'iPod', 0.25420588, u'switch', 0.11152822, u'lighter', 0.087691411, u'notebook', 0.063004613, u'hard_disc', 0.046545606]

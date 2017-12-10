@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.39039916, u'container_ship', 0.12814662, u'fire_engine', 0.052717887, u'medicine_chest', 0.040847261, u'cinema', 0.028141716]
+[u'container_ship', 0.94998235, u'drilling_platform', 0.020608693, u'crane', 0.012826247, u'dock', 0.0065877568, u'boathouse', 0.0024430507]
+[u'container_ship', 0.60459733, u'drilling_platform', 0.36901414, u'aircraft_carrier', 0.012293305, u'crane', 0.0036310987, u'dock', 0.0033124681]
+[u'container_ship', 0.48615953, u'monitor', 0.078109406, u'scoreboard', 0.045285523, u'fire_engine', 0.032155946, u'vending_machine', 0.027878309]
+[u'container_ship', 0.51309443, u'apiary', 0.061985921, u'tobacco_shop', 0.033345558, u'library', 0.026755467, u'solar_dish', 0.026323497]

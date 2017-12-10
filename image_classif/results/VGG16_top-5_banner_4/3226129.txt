@@ -1,0 +1,5 @@
+[u'toilet_tissue', 0.18362081, u'neck_brace', 0.15969966, u'book_jacket', 0.12170311, u'jersey', 0.052550554, u'bath_towel', 0.040695325]
+[u'picket_fence', 0.20898117, u'sliding_door', 0.056681287, u'shoe_shop', 0.036170747, u'window_shade', 0.036043443, u'restaurant', 0.033239864]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'church', 0.87933642, u'mosque', 0.017730333, u'bell_cote', 0.016358282, u'flagpole', 0.010333056, u'beacon', 0.010245346]
+[u'picket_fence', 0.45464829, u'nail', 0.11747975, u'syringe', 0.11253066, u'water_tower', 0.0420148, u'chime', 0.023645196]

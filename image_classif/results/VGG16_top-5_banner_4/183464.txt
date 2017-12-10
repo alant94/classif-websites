@@ -1,0 +1,1 @@
+[u'sombrero', 0.17816859, u'pretzel', 0.10730548, u'comic_book', 0.097867727, u'torch', 0.074196324, u'book_jacket', 0.050185025]

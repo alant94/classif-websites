@@ -1,0 +1,2 @@
+[u'English_springer', 0.2271511, u'English_foxhound', 0.17097475, u'Saluki', 0.08098349, u'Staffordshire_bullterrier', 0.04617694, u'Cardigan', 0.043941364]
+[u'ostrich', 0.16166683, u'Appenzeller', 0.14644, u'EntleBucher', 0.11724577, u'Cardigan', 0.070263617, u'Greater_Swiss_Mountain_dog', 0.046068978]

@@ -1,0 +1,6 @@
+[u'pick', 0.37621465, u'loupe', 0.14071447, u'spotlight', 0.093051568, u'puck', 0.041890562, u'book_jacket', 0.032782387]
+[u'street_sign', 0.58700854, u'book_jacket', 0.1158231, u'coffee_mug', 0.059569072, u'lighter', 0.02567956, u'traffic_light', 0.01766045]
+[u'bikini', 0.075985625, u'hair_spray', 0.06841211, u'perfume', 0.04502229, u'lotion', 0.042882942, u'web_site', 0.040714338]
+[u'web_site', 0.20562725, u'Band_Aid', 0.19093464, u'hair_spray', 0.15884264, u'lotion', 0.10582029, u'binder', 0.036269382]
+[u'street_sign', 0.030094661, u'web_site', 0.024641367, u'hook', 0.021855528, u'hair_spray', 0.02131585, u'sunscreen', 0.01771147]
+[u'street_sign', 0.65926015, u'iPod', 0.12571442, u'traffic_light', 0.03962338, u'laptop', 0.022684144, u'book_jacket', 0.017802579]

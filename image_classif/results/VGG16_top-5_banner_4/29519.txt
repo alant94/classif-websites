@@ -1,0 +1,1 @@
+[u'military_uniform', 0.052323755, u'stretcher', 0.051529206, u'crutch', 0.043925211, u'television', 0.039837427, u'library', 0.02541326]

@@ -1,0 +1,8 @@
+[u'patio', 0.46693149, u'lakeside', 0.079392053, u'boathouse', 0.066607378, u'pier', 0.05196818, u'park_bench', 0.022574466]
+[u'fountain', 0.2989209, u'geyser', 0.25099391, u'alp', 0.13049139, u'fireboat', 0.054276425, u'dam', 0.047553271]
+[u'red_wine', 0.37655056, u'wine_bottle', 0.29876536, u'beer_bottle', 0.26773238, u'pop_bottle', 0.048644129, u'water_bottle', 0.0029277108]
+[u'cinema', 0.12554888, u'digital_clock', 0.078910023, u'binder', 0.065127201, u'carton', 0.040209584, u'packet', 0.038070232]
+[u'knot', 0.077610314, u'chain', 0.069649525, u'golf_ball', 0.058494683, u'ladybug', 0.056112632, u'matchstick', 0.0539799]
+[u'jersey', 0.5435909, u'sweatshirt', 0.068962082, u'hook', 0.050513614, u'cleaver', 0.018310187, u'power_drill', 0.017286828]
+[u'washer', 0.08893311, u'toilet_seat', 0.070873775, u'microwave', 0.061113186, u'cash_machine', 0.055772066, u'turnstile', 0.045353092]
+[u'web_site', 0.20071505, u'screen', 0.1601817, u'monitor', 0.092683122, u'window_screen', 0.080235921, u'envelope', 0.072786123]

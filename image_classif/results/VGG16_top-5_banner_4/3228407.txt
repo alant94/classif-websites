@@ -1,0 +1,6 @@
+[u'bubble', 0.086825572, u'cup', 0.036013417, u'spotlight', 0.034187824, u'mask', 0.028277783, u'abaya', 0.025424534]
+[u'flagpole', 0.95390129, u'palace', 0.0074719205, u'church', 0.0053662728, u'lakeside', 0.0032758319, u'pole', 0.0029756867]
+[u'wing', 0.17599307, u'beacon', 0.15306708, u'crane', 0.11824217, u'web_site', 0.093183875, u'obelisk', 0.042881116]
+[u'whistle', 0.13365607, u'stopwatch', 0.11049495, u'ibex', 0.059337921, u'hook', 0.051142145, u'bolo_tie', 0.047961406]
+[u'brass', 0.21523675, u'nail', 0.10055574, u'book_jacket', 0.10009935, u'envelope', 0.061137214, u'street_sign', 0.057853527]
+[u'hook', 0.19707718, u'bell_cote', 0.04429239, u'chain', 0.030654704, u'abaya', 0.029061625, u'analog_clock', 0.028584337]

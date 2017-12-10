@@ -1,0 +1,4 @@
+[u'cinema', 0.33430889, u'book_jacket', 0.23430401, u'street_sign', 0.063687488, u'comic_book', 0.05932416, u'restaurant', 0.050721694]
+[u'butcher_shop', 0.3266485, u'ocarina', 0.20890734, u'stage', 0.054093067, u'marimba', 0.045161936, u'carousel', 0.039994128]
+[u'cello', 0.33981815, u'violin', 0.097490169, u'harp', 0.048804183, u'crutch', 0.040838968, u'banjo', 0.037683178]
+[u'street_sign', 0.31614459, u'ashcan', 0.23252313, u'shopping_basket', 0.12726207, u'tray', 0.038674735, u'folding_chair', 0.035773139]

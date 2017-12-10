@@ -1,0 +1,2 @@
+[u'screwdriver', 0.56752366, u"carpenter's_kit", 0.093353882, u'ballpoint', 0.086263008, u'rubber_eraser', 0.021396702, u'wine_bottle', 0.020667534]
+[u'palace', 0.38262433, u'castle', 0.21493636, u'church', 0.056534052, u'fountain', 0.053696644, u'book_jacket', 0.046757948]

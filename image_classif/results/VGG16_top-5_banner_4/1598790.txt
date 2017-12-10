@@ -1,0 +1,1 @@
+[u'digital_clock', 0.1268796, u'cash_machine', 0.098355696, u'scoreboard', 0.090548612, u'binder', 0.064154319, u'turnstile', 0.043578047]

@@ -1,0 +1,5 @@
+[u'digital_clock', 0.31498274, u'traffic_light', 0.15576309, u'digital_watch', 0.10947623]
+[u'shower_curtain', 0.55239081, u'altar', 0.071695, u'analog_clock', 0.040041819]
+[u'traffic_light', 0.10395008, u'envelope', 0.088414498, u'television', 0.086180434]
+[u'web_site', 0.59846163, u'dishwasher', 0.024855806, u'nematode', 0.018066254]
+[u'lighter', 0.24074399, u'digital_clock', 0.06990429, u'ambulance', 0.064347588]

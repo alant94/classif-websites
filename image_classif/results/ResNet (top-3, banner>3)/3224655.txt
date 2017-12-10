@@ -1,0 +1,8 @@
+[u'chain_saw', 0.84231657, u'birdhouse', 0.043054629, u'lumbermill', 0.012410617]
+[u'chainlink_fence', 0.059614107, u'gown', 0.059142064, u'quilt', 0.054758664]
+[u'ocarina', 0.18017234, u'shoe_shop', 0.15998839, u'flute', 0.1532218]
+[u'cab', 0.1301816, u'carton', 0.05021169, u'chainlink_fence', 0.049021907]
+[u'maze', 0.12952605, u'unicycle', 0.085301109, u'mailbox', 0.064528748]
+[u'safety_pin', 0.10718364, u'web_site', 0.072435528, u'comic_book', 0.068340614]
+[u'maze', 0.52727491, u'shield', 0.15229852, u'crossword_puzzle', 0.099185362]
+[u'bath_towel', 0.25580388, u'envelope', 0.21307418, u'carton', 0.10782021]

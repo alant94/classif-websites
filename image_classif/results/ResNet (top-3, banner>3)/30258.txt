@@ -1,0 +1,3 @@
+[u'rifle', 0.11918715, u'web_site', 0.099549741, u'crossword_puzzle', 0.037351165]
+[u'church', 0.66368127, u'bell_cote', 0.20277284, u'monastery', 0.10531873]
+[u'crossword_puzzle', 0.14221488, u'rifle', 0.087249912, u'lighter', 0.055363428]

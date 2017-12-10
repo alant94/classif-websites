@@ -1,0 +1,2 @@
+[u'sunglasses', 0.31317556, u'sunglass', 0.30702156, u'book_jacket', 0.14128278, u'cowboy_hat', 0.059584212, u'microphone', 0.025949314]
+[u'sunglasses', 0.31317556, u'sunglass', 0.30702156, u'book_jacket', 0.14128278, u'cowboy_hat', 0.059584212, u'microphone', 0.025949314]

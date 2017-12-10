@@ -1,0 +1,4 @@
+[u'book_jacket', 0.31159982, u'comic_book', 0.063330308, u'cleaver', 0.029936498, u'web_site', 0.024722425, u'swab', 0.024489656]
+[u'can_opener', 0.34925663, u'ski', 0.19002847, u'clog', 0.1598562, u'letter_opener', 0.085255094, u'iron', 0.060390435]
+[u'tennis_ball', 0.2219893, u'sunscreen', 0.17277205, u'volleyball', 0.077363335, u'rugby_ball', 0.075215884, u'pill_bottle', 0.06666135]
+[u'web_site', 0.990062, u'hand-held_computer', 0.0036601948, u'cash_machine', 0.0015784033, u'comic_book', 0.00096528471, u'television', 0.00036876654]

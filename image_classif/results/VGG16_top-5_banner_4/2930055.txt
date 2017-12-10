@@ -1,0 +1,3 @@
+[u'web_site', 0.34450957, u'Band_Aid', 0.01787529, u'book_jacket', 0.014826833, u'envelope', 0.014159451, u'lipstick', 0.011981644]
+[u'shopping_cart', 0.071719423, u'barbershop', 0.032276388, u'barber_chair', 0.024186753, u'gas_pump', 0.023871582, u'stretcher', 0.022963274]
+[u'web_site', 0.83473885, u'screen', 0.026634108, u'menu', 0.022014987, u'hand-held_computer', 0.01718723, u'iPod', 0.010699854]

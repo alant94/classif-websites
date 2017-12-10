@@ -1,0 +1,3 @@
+[u'mosquito_net', 0.63970846, u'hoopskirt', 0.096637003, u'plastic_bag', 0.08497189, u'gown', 0.071594261, u'groom', 0.038165398]
+[u'coral_fungus', 0.34886661, u'book_jacket', 0.073176049, u'digital_clock', 0.022548957, u'matchstick', 0.020770617, u'candle', 0.020591503]
+[u'hair_slide', 0.10551798, u'sax', 0.066971637, u'chain', 0.063945688, u'ear', 0.05010331, u'jellyfish', 0.047995638]

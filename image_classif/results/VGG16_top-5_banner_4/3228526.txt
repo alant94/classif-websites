@@ -1,0 +1,5 @@
+[u'scoreboard', 0.262831, u'monitor', 0.16925715, u'digital_clock', 0.049474262, u'sliding_door', 0.035273325, u'screen', 0.028271981]
+[u'sliding_door', 0.099587426, u'scoreboard', 0.093905427, u'monitor', 0.066983745, u'bannister', 0.052086953, u'digital_clock', 0.045629855]
+[u'scoreboard', 0.095964655, u'solar_dish', 0.06460759, u'monitor', 0.05638314, u'turnstile', 0.049677718, u'chime', 0.043352805]
+[u'monitor', 0.090520613, u'picket_fence', 0.066387765, u'cash_machine', 0.065523528, u'scoreboard', 0.048316713, u'analog_clock', 0.041842695]
+[u'picket_fence', 0.16214654, u'chime', 0.15898472, u'sliding_door', 0.066101454, u'turnstile', 0.056117684, u'screwdriver', 0.048763886]

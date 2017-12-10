@@ -1,0 +1,6 @@
+[u'envelope', 0.22792898, u'web_site', 0.13160637, u'screw', 0.027180366]
+[u'envelope', 0.16530323, u'sewing_machine', 0.14380625, u'web_site', 0.13358186]
+[u'cocktail_shaker', 0.20552504, u'nipple', 0.094879545, u'toaster', 0.071494915]
+[u'hair_slide', 0.64326137, u'safety_pin', 0.072102234, u'buckle', 0.052946124]
+[u'soccer_ball', 0.72616673, u'mask', 0.069624729, u'golf_ball', 0.063665591]
+[u'bottlecap', 0.54101253, u'coral_reef', 0.093518391, u'pillow', 0.038659647]

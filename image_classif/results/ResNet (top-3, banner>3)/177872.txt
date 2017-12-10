@@ -1,0 +1,5 @@
+[u'bookshop', 0.16926059, u'grocery_store', 0.065466553, u'solar_dish', 0.047233831]
+[u'lumbermill', 0.22131379, u'steam_locomotive', 0.18716945, u'thresher', 0.048761688]
+[u'comic_book', 0.45832896, u'menu', 0.13093866, u'web_site', 0.1136188]
+[u'lumbermill', 0.17652358, u'harvester', 0.14676319, u'crane', 0.08772213]
+[u'web_site', 0.83412391, u'comic_book', 0.10791889, u'book_jacket', 0.035926662]

@@ -1,0 +1,3 @@
+[u'bulletproof_vest', 0.070921361, u'television', 0.037099373, u'Windsor_tie', 0.034696482]
+[u'oxygen_mask', 0.42646909, u'lab_coat', 0.029451227, u'television', 0.026182175]
+[u'container_ship', 0.70966363, u'entertainment_center', 0.094300658, u'tape_player', 0.039806642]

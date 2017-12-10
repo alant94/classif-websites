@@ -1,0 +1,6 @@
+[u'pick', 0.2022768, u'loupe', 0.16510122, u'puck', 0.071523033]
+[u'web_site', 0.048630025, u'book_jacket', 0.036370575, u'theater_curtain', 0.03015803]
+[u'comic_book', 0.34866944, u'web_site', 0.11887366, u'book_jacket', 0.078175336]
+[u'web_site', 0.83056241, u'can_opener', 0.01765829, u'mousetrap', 0.015078697]
+[u'stopwatch', 0.030307388, u'web_site', 0.029712021, u'hook', 0.023774525]
+[u'street_sign', 0.10860556, u'cash_machine', 0.095698439, u'web_site', 0.078278042]

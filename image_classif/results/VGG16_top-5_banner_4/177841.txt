@@ -1,0 +1,2 @@
+[u'menu', 0.19626144, u'crossword_puzzle', 0.032228291, u'web_site', 0.028617935, u'street_sign', 0.022894628, u'book_jacket', 0.022448618]
+[u'puck', 0.14157929, u'jersey', 0.10922978, u'bathing_cap', 0.10484599, u'sweatshirt', 0.079732776, u'face_powder', 0.065838851]

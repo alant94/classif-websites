@@ -1,0 +1,4 @@
+[u'honeycomb', 0.28446937, u'rule', 0.16223484, u'crane', 0.10255264, u'envelope', 0.092455812, u'rubber_eraser', 0.043984182]
+[u'stretcher', 0.26624125, u'mousetrap', 0.12371819, u'harvester', 0.080833845, u'thresher', 0.051659018, u'chain_saw', 0.038357809]
+[u'plate', 0.63224447, u'carbonara', 0.076633714, u'waffle_iron', 0.026439412, u'menu', 0.026103985, u'packet', 0.018842706]
+[u'balance_beam', 0.4794386, u'sleeping_bag', 0.057244066, u'mountain_tent', 0.036240954, u'solar_dish', 0.034589801, u'vestment', 0.028994281]

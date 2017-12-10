@@ -1,0 +1,3 @@
+[u'envelope', 0.14272322, u'binder', 0.1265354, u'perfume', 0.10691739, u'book_jacket', 0.081285343, u'face_powder', 0.070278674]
+[u'switch', 0.15320811, u'medicine_chest', 0.10760839, u'wall_clock', 0.047879655, u'digital_clock', 0.034512531, u'binder', 0.032375824]
+[u'rubber_eraser', 0.37922949, u'rule', 0.14825355, u'envelope', 0.12302612, u'ballpoint', 0.062661156, u'mortarboard', 0.046311475]

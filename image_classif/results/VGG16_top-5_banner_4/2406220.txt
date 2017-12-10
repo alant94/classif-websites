@@ -1,0 +1,1 @@
+[u'book_jacket', 0.10170594, u'analog_clock', 0.096315198, u'bell_cote', 0.050390482, u'beacon', 0.049301483, u'crane', 0.038057741]

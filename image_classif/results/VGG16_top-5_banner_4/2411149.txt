@@ -1,0 +1,5 @@
+[u'ballplayer', 0.13272263, u'sweatshirt', 0.11706232, u'barracouta', 0.11050836, u'soccer_ball', 0.077152126, u'sturgeon', 0.058828875]
+[u'book_jacket', 0.41129756, u'menu', 0.13838837, u'comic_book', 0.04906394, u'street_sign', 0.048780065, u'jersey', 0.025666976]
+[u'screen', 0.20952265, u'digital_clock', 0.16756441, u'monitor', 0.064962573, u'scoreboard', 0.058107119, u'digital_watch', 0.05035701]
+[u'lakeside', 0.72056186, u'volcano', 0.053535275, u'promontory', 0.049057022, u'valley', 0.029096982, u'seashore', 0.021528255]
+[u'envelope', 0.15966442, u'web_site', 0.097631343, u'traffic_light', 0.068242639, u'monitor', 0.058863737, u'screen', 0.040985178]

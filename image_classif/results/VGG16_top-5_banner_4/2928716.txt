@@ -1,0 +1,2 @@
+[u"carpenter's_kit", 0.39123189, u'screwdriver', 0.20842014, u'spatula', 0.16080582, u'safety_pin', 0.069508336, u'cleaver', 0.024622675]
+[u'nail', 0.37785798, u'rule', 0.18990037, u'picket_fence', 0.056858357, u'syringe', 0.034113374, u'worm_fence', 0.027754769]

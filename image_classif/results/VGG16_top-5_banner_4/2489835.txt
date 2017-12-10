@@ -1,0 +1,2 @@
+[u'hook', 0.10083184, u'nail', 0.089502178, u'screw', 0.089062653, u'whistle', 0.050951257, u'rubber_eraser', 0.028119767]
+[u'web_site', 0.38997874, u'Band_Aid', 0.27732021, u'packet', 0.13938764, u'pill_bottle', 0.037246097, u'stopwatch', 0.025213653]

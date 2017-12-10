@@ -1,0 +1,2 @@
+[u'chime', 0.2441166, u"carpenter's_kit", 0.14496088, u'screwdriver', 0.091064818, u'bow', 0.0886342, u'organ', 0.052541476]
+[u'bow', 0.4720338, u'ski', 0.10440332, u'crutch', 0.077684879, u'shovel', 0.038368847, u'croquet_ball', 0.027388545]

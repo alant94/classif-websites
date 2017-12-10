@@ -1,0 +1,5 @@
+[u'croquet_ball', 0.89859086, u'balloon', 0.099064074, u'football_helmet', 0.0013390054, u'maraca', 0.00039224024, u'punching_bag', 0.0001070539]
+[u'oscilloscope', 0.34116626, u'traffic_light', 0.1432803, u'fire_screen', 0.051151566, u'screen', 0.031805392, u'digital_clock', 0.030293977]
+[u'red_wine', 0.17144598, u'balloon', 0.041736435, u'traffic_light', 0.033561349, u'mouse', 0.031561121, u'stove', 0.027892528]
+[u'consomme', 0.10817888, u'spotlight', 0.08734522, u'gong', 0.074816033, u'croquet_ball', 0.035038825, u'volcano', 0.027339816]
+[u'spotlight', 0.15245266, u'planetarium', 0.057823133, u'window_screen', 0.051198635, u'loupe', 0.050466683, u'wall_clock', 0.031302679]

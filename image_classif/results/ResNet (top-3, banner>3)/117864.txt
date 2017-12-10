@@ -1,0 +1,1 @@
+[u'fountain', 0.6107707, u'church', 0.1650589, u'analog_clock', 0.040935595]

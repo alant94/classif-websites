@@ -1,0 +1,1 @@
+[u'bell_cote', 0.38918048, u'picket_fence', 0.076580338, u'book_jacket', 0.048987467, u'cinema', 0.041666016, u'wall_clock', 0.040973403]

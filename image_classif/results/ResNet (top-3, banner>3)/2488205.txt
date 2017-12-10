@@ -1,0 +1,3 @@
+[u'kimono', 0.21987066, u'shield', 0.16292346, u'comic_book', 0.04802224]
+[u'web_site', 0.51267564, u'cliff_dwelling', 0.033078719, u'comic_book', 0.027258329]
+[u'book_jacket', 0.81249517, u'web_site', 0.055808514, u'packet', 0.054940663]

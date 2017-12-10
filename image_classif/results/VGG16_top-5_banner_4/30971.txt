@@ -1,0 +1,6 @@
+[u'modem', 0.1591959, u'printer', 0.046778586, u'book_jacket', 0.035934776, u'cleaver', 0.034074102, u'toaster', 0.032404527]
+[u'book_jacket', 0.19513445, u'envelope', 0.060143683, u'carton', 0.048106227, u'jersey', 0.047786564, u'binder', 0.041910827]
+[u'book_jacket', 0.1753017, u'envelope', 0.16847526, u'binder', 0.061907813, u'web_site', 0.049470007, u'jersey', 0.03529923]
+[u'book_jacket', 0.10886109, u'web_site', 0.10316177, u'binder', 0.069602855, u'envelope', 0.069521792, u'cash_machine', 0.046159923]
+[u'envelope', 0.077954628, u'book_jacket', 0.067372844, u'jersey', 0.06301488, u'binder', 0.062019702, u'carton', 0.037727021]
+[u'street_sign', 0.38446963, u'digital_clock', 0.20954767, u'rubber_eraser', 0.12154389, u'lighter', 0.025663631, u'traffic_light', 0.019012081]

@@ -1,0 +1,5 @@
+[u'scorpion', 0.14514677, u'corkscrew', 0.051426668, u'web_site', 0.039654076, u'baseball', 0.027987232, u'chain', 0.026687056]
+[u'analog_clock', 0.20744927, u'wall_clock', 0.14382012, u'hatchet', 0.11513612, u'gong', 0.053203449, u'nail', 0.037379365]
+[u'envelope', 0.20735241, u'packet', 0.10580374, u'rubber_eraser', 0.095254436, u'book_jacket', 0.087760948, u'pick', 0.043853909]
+[u'nail', 0.27660054, u'hook', 0.1726656, u'centipede', 0.032132674, u'screw', 0.026404472, u'trilobite', 0.017189348]
+[u'nail', 0.87225199, u'screw', 0.024988184, u'screwdriver', 0.015836017, u'ballpoint', 0.01044656, u'hook', 0.0090709971]

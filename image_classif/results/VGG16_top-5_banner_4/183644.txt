@@ -1,0 +1,1 @@
+[u'scoreboard', 0.29509678, u'web_site', 0.22315985, u'packet', 0.1098789, u'menu', 0.036564875, u'street_sign', 0.028138585]

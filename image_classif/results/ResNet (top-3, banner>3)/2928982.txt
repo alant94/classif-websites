@@ -1,0 +1,6 @@
+[u'envelope', 0.12548584, u'web_site', 0.10512999, u'menu', 0.023364794]
+[u'tabby', 0.79751301, u'tiger_cat', 0.14066754, u'Egyptian_cat', 0.02052689]
+[u'loudspeaker', 0.47319207, u'electric_fan', 0.1185181, u'toilet_seat', 0.082769826]
+[u'envelope', 0.56195241, u'laptop', 0.1131709, u'book_jacket', 0.06253963]
+[u'envelope', 0.1590192, u'web_site', 0.12007343, u'jersey', 0.043222107]
+[u'church', 0.23054975, u'picket_fence', 0.19769299, u'bookshop', 0.09263131]

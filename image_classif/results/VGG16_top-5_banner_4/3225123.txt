@@ -1,0 +1,5 @@
+[u'book_jacket', 0.73850441, u'carton', 0.030994171, u'theater_curtain', 0.023404075, u'envelope', 0.012562376, u'menu', 0.01123176]
+[u'bannister', 0.038261127, u'pedestal', 0.035120782, u'candle', 0.034353454, u'paper_towel', 0.034209635, u'plate_rack', 0.030731589]
+[u'geyser', 0.41197091, u'breakwater', 0.35872412, u'fireboat', 0.063281745, u'fountain', 0.030240098, u'submarine', 0.023390992]
+[u'scorpion', 0.13223754, u'chain', 0.05871949, u'web_site', 0.054622039, u'book_jacket', 0.04643856, u'corkscrew', 0.033976067]
+[u'alp', 0.35030982, u'valley', 0.15990016, u'cliff', 0.1022836, u'promontory', 0.080079764, u'mountain_tent', 0.064778127]

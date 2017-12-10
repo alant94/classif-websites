@@ -1,0 +1,4 @@
+[u'web_site', 0.99267828, u'envelope', 0.0042340816, u'menu', 0.0011932292, u'packet', 0.0010502159, u'printer', 6.7996021e-05]
+[u'pole', 0.38152274, u'geyser', 0.12182367, u'seashore', 0.10268164, u'flagpole', 0.091765381, u'volcano', 0.075115964]
+[u'microphone', 0.363787, u'punching_bag', 0.20838536, u'wine_bottle', 0.051544767, u'red_wine', 0.020150429, u'vase', 0.01928428]
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]

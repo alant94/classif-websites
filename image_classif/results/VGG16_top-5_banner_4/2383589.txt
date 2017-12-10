@@ -1,0 +1,1 @@
+[u'maze', 0.059310287, u'wardrobe', 0.056647595, u'bannister', 0.054993134, u'balance_beam', 0.032074582, u'sliding_door', 0.025707746]

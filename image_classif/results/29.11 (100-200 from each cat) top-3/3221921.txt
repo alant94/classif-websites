@@ -1,0 +1,6 @@
+[u'book_jacket', 0.51021922, u'binder', 0.15731625, u'envelope', 0.11975353]
+[u'barbershop', 0.099399701, u'crutch', 0.067873165, u'marimba', 0.052915532]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'container_ship', 0.97456771, u'gas_pump', 0.0082263658, u'ambulance', 0.0028781171]
+[u'flagpole', 0.18594001, u'envelope', 0.092236347, u'picket_fence', 0.072260879]

@@ -1,0 +1,5 @@
+[u'bib', 0.19592355, u'chain', 0.14585651, u'nematode', 0.098490156, u'whistle', 0.094442576, u'jersey', 0.055398017]
+[u'digital_clock', 0.35523707, u'analog_clock', 0.16476537, u'street_sign', 0.060055379, u'wall_clock', 0.043311559, u'traffic_light', 0.026510905]
+[u'gown', 0.20396689, u'overskirt', 0.18892407, u'hoopskirt', 0.17731903, u'miniskirt', 0.17204751, u'brassiere', 0.066582978]
+[u'upright', 0.45906237, u'grand_piano', 0.23395596, u'pencil_sharpener', 0.085709967, u'stupa', 0.060798515, u'screw', 0.038863279]
+[u'barber_chair', 0.47774714, u'barbershop', 0.18869829, u'restaurant', 0.15807042, u'library', 0.028748738, u'prison', 0.027353683]

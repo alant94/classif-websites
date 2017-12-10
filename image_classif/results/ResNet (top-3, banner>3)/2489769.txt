@@ -1,0 +1,5 @@
+[u'barbershop', 0.052619494, u'neck_brace', 0.047899812, u'hair_spray', 0.046647128]
+[u'four-poster', 0.3903265, u'studio_couch', 0.37810859, u'quilt', 0.16981184]
+[u'web_site', 0.8123154, u'envelope', 0.039683193, u'Band_Aid', 0.011449011]
+[u'comic_book', 0.29871458, u'book_jacket', 0.15419741, u'puck', 0.098527081]
+[u'tow_truck', 0.42148083, u'jeep', 0.21310572, u'fire_engine', 0.14298771]

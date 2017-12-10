@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.030466145, u'street_sign', 0.030358586, u'coffee_mug', 0.017513018, u'digital_clock', 0.01531649, u'web_site', 0.015198664]
+[u'hook', 0.47309807, u'nail', 0.10029799, u'rule', 0.074038409, u'safety_pin', 0.068399481, u'street_sign', 0.04263173]

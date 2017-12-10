@@ -1,0 +1,3 @@
+[u'stage', 0.34199998, u'school_bus', 0.15451604, u'electric_guitar', 0.080163814]
+[u'envelope', 0.16844821, u'web_site', 0.097268805, u'binder', 0.083984122]
+[u'shopping_basket', 0.16867641, u'digital_watch', 0.11238865, u'screen', 0.078683145]

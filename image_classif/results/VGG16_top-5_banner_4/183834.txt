@@ -1,0 +1,1 @@
+[u'comic_book', 0.43946448, u'book_jacket', 0.11183672, u'hair_spray', 0.051805351, u'neck_brace', 0.051599346, u'mask', 0.034434389]

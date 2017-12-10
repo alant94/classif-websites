@@ -1,0 +1,2 @@
+[u'puck', 0.65745741, u'bottlecap', 0.11210054, u'pick', 0.053336263, u'beer_bottle', 0.021547064, u'coffee_mug', 0.015590559]
+[u'dial_telephone', 0.99989033, u'iron', 7.1680071e-05, u'magnetic_compass', 8.6943364e-06, u'waffle_iron', 5.4407924e-06, u'Polaroid_camera', 4.0002319e-06]

@@ -1,0 +1,6 @@
+[u'whistle', 0.3093586, u'web_site', 0.11212227, u'pick', 0.071142875]
+[u'stole', 0.15554954, u'jean', 0.053378347, u"potter's_wheel", 0.050351016]
+[u'web_site', 0.20306943, u'sunscreen', 0.1294809, u'Band_Aid', 0.045594446]
+[u'book_jacket', 0.47175381, u'Band_Aid', 0.10549847, u'moving_van', 0.071893908]
+[u'sunscreen', 0.16258404, u'tennis_ball', 0.13197671, u'pick', 0.1236077]
+[u'street_sign', 0.082105994, u'pill_bottle', 0.067114778, u'pick', 0.046918232]

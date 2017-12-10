@@ -1,0 +1,4 @@
+[u'bikini', 0.31686184, u'brassiere', 0.13952994, u'maillot', 0.1385359]
+[u'hand_blower', 0.34010857, u'maillot', 0.28352708, u'breastplate', 0.10037256]
+[u'television', 0.34663999, u'tobacco_shop', 0.15913589, u'web_site', 0.054589879]
+[u'maillot', 0.61059231, u'maillot', 0.2780709, u'brassiere', 0.029406309]

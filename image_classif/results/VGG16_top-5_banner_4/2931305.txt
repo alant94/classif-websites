@@ -1,0 +1,8 @@
+[u'envelope', 0.14920856, u'web_site', 0.033662111, u'wardrobe', 0.026235074, u'Band_Aid', 0.02464026, u'wall_clock', 0.022291157]
+[u'book_jacket', 0.47092712, u'web_site', 0.077031411, u'comic_book', 0.034423366, u'street_sign', 0.024569511, u'scoreboard', 0.0088237002]
+[u'jean', 0.38124862, u'miniskirt', 0.070494853, u'sweatshirt', 0.060133923, u'crutch', 0.048312541, u'suit', 0.026868394]
+[u'digital_clock', 0.073105901, u'Windsor_tie', 0.046015725, u'crossword_puzzle', 0.028084848, u'envelope', 0.026526578, u'wall_clock', 0.024600886]
+[u'envelope', 0.073679328, u'web_site', 0.054330498, u'Windsor_tie', 0.018796692, u'Band_Aid', 0.018082241, u'bulletproof_vest', 0.017502628]
+[u'crossword_puzzle', 0.11811422, u'Windsor_tie', 0.077151731, u'shower_curtain', 0.020519225, u'honeycomb', 0.015796915, u'remote_control', 0.015184633]
+[u'envelope', 0.08763095, u'web_site', 0.072554097, u'Band_Aid', 0.041364174, u'crane', 0.015837528, u'wardrobe', 0.012086976]
+[u'crossword_puzzle', 0.075807579, u'Windsor_tie', 0.050321627, u'digital_clock', 0.024314277, u'Band_Aid', 0.024194298, u'wall_clock', 0.024042148]

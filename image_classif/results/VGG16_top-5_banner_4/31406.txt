@@ -1,0 +1,6 @@
+[u'nematode', 0.036242321, u'envelope', 0.022356819, u'beaker', 0.019989168, u'candle', 0.015188761, u'dishwasher', 0.014408361]
+[u'analog_clock', 0.28196388, u'book_jacket', 0.11741859, u'street_sign', 0.10301252, u'wall_clock', 0.085725389, u'rule', 0.062787578]
+[u'traffic_light', 0.78894979, u'bell_cote', 0.02736607, u'crane', 0.02008196, u'mortarboard', 0.010401794, u'street_sign', 0.007967229]
+[u'brassiere', 0.19979148, u'book_jacket', 0.08618284, u'theater_curtain', 0.062044334, u'miniskirt', 0.038582683, u'neck_brace', 0.033050697]
+[u'traffic_light', 0.94470054, u'street_sign', 0.010232656, u'crane', 0.005099223, u'warplane', 0.0044305567, u'hook', 0.0036034512]
+[u'traffic_light', 0.34622517, u'crane', 0.11335971, u'street_sign', 0.050771751, u'wall_clock', 0.028978713, u'analog_clock', 0.026369721]

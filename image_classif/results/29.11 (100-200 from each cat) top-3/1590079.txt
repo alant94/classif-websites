@@ -1,0 +1,2 @@
+[u'envelope', 0.42756787, u'web_site', 0.19922645, u'television', 0.031760782]
+[u'paintbrush', 0.21727574, u'nail', 0.20027435, u'safety_pin', 0.14344008]

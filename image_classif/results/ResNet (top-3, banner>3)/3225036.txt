@@ -1,0 +1,5 @@
+[u'stole', 0.13475083, u'wool', 0.1307801, u'abaya', 0.12812674]
+[u'panpipe', 0.14144592, u'church', 0.086922936, u'web_site', 0.052172586]
+[u'soap_dispenser', 0.14288576, u'pick', 0.058342658, u'mouse', 0.050707355]
+[u'barrel', 0.21392725, u'crate', 0.064299047, u'banana', 0.025775936]
+[u'web_site', 0.20079739, u'envelope', 0.0574717, u'stopwatch', 0.028712388]

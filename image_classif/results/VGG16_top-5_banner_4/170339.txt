@@ -1,0 +1,1 @@
+[u'matchstick', 0.26869446, u'candle', 0.15277721, u'pencil_sharpener', 0.070851676, u'torch', 0.066427119, u'pill_bottle', 0.059597153]

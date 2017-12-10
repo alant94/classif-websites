@@ -1,0 +1,6 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.13161591, u'solar_dish', 0.074583516, u'planetarium', 0.061691809]
+[u'gong', 0.56934619, u'ant', 0.024165893, u'drum', 0.023852132]
+[u'flagpole', 0.2046237, u'bow', 0.11151764, u'paddlewheel', 0.086571351]
+[u'dishwasher', 0.29895785, u'refrigerator', 0.055924471, u'flagpole', 0.034450389]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

@@ -1,0 +1,5 @@
+[u'beer_bottle', 0.30683169, u'cinema', 0.089462399, u'tobacco_shop', 0.061409075, u'coffee_mug', 0.043396015, u'scoreboard', 0.04189964]
+[u'hartebeest', 0.54846209, u'ibex', 0.32624042, u'impala', 0.025437487, u'chain_saw', 0.022686491, u'proboscis_monkey', 0.014059439]
+[u'isopod', 0.17176041, u'quill', 0.07008262, u'matchstick', 0.064802848, u'weevil', 0.035689697, u'web_site', 0.026901165]
+[u'ibex', 0.58420956, u'hartebeest', 0.14524718, u'gazelle', 0.033926912, u'ox', 0.032543536, u'bighorn', 0.031397499]
+[u'wallaby', 0.83477718, u'groenendael', 0.031422932, u'coyote', 0.017573712, u'impala', 0.016744087, u'llama', 0.0099362805]

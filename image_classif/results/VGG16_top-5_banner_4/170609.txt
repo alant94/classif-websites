@@ -1,0 +1,1 @@
+[u'rule', 0.61371571, u'analog_clock', 0.073798344, u'syringe', 0.069471672, u'digital_clock', 0.058479428, u'digital_watch', 0.02384923]

@@ -1,0 +1,5 @@
+[u'fur_coat', 0.12882458, u'ski', 0.046835311, u'military_uniform', 0.036128331, u'breastplate', 0.030524256, u'bow', 0.025418026]
+[u'hook', 0.1150216, u'envelope', 0.088667735, u'web_site', 0.02920468, u'balance_beam', 0.028515832, u'rifle', 0.026254563]
+[u'fountain', 0.33876652, u'bluetick', 0.13853569, u'Walker_hound', 0.067670777, u'chain_saw', 0.051169269, u'bloodhound', 0.031450525]
+[u'hartebeest', 0.46104655, u'impala', 0.2776525, u'gazelle', 0.10107046, u'ibex', 0.048090834, u'bison', 0.026502868]
+[u'hartebeest', 0.5933097, u'ibex', 0.12377428, u'ox', 0.032739263, u'impala', 0.03109494, u'warthog', 0.026799791]

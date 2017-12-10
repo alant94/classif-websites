@@ -1,0 +1,8 @@
+[u'pencil_sharpener', 0.94694352, u'dumbbell', 0.01278706, u'spotlight', 0.0051053134, u'mousetrap', 0.003124231, u'toaster', 0.0029320677]
+[u'street_sign', 0.15713118, u'corkscrew', 0.087156437, u'ski', 0.078230113, u'safety_pin', 0.044273525, u'can_opener', 0.034442235]
+[u'container_ship', 0.9762165, u'crane', 0.0061044754, u'forklift', 0.0042189527, u'crate', 0.00172465, u'shopping_basket', 0.0013890355]
+[u'shower_curtain', 0.46646291, u'window_shade', 0.053577688, u'space_heater', 0.049431279, u'radiator', 0.042444374, u'library', 0.028477535]
+[u'web_site', 0.20641907, u'screen', 0.12628756, u'monitor', 0.09733326, u'television', 0.094727419, u'envelope', 0.076728508]
+[u'web_site', 0.56481832, u'monitor', 0.03477376, u'comic_book', 0.023447499, u'vending_machine', 0.018809212, u'binder', 0.015685987]
+[u'hard_disc', 0.14160024, u'oscilloscope', 0.11691544, u'radio', 0.082939379, u'modem', 0.082866967, u'garbage_truck', 0.064109787]
+[u'screen', 0.37283066, u'monitor', 0.24817669, u'television', 0.17331524, u'web_site', 0.047944017, u'desktop_computer', 0.03051538]

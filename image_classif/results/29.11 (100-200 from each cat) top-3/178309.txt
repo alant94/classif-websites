@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.49461609, u'scoreboard', 0.23352225, u'digital_clock', 0.055683326]
+[u'laptop', 0.27571833, u'folding_chair', 0.2024076, u'analog_clock', 0.07857275]

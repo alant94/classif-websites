@@ -1,0 +1,2 @@
+[u'torch', 0.44897473, u'fountain', 0.32745478, u'stage', 0.13426971, u'spotlight', 0.026629364, u'volcano', 0.013153896]
+[u'fireboat', 0.15005223, u'snowplow', 0.035898864, u'steam_locomotive', 0.031158466, u'streetcar', 0.030235337, u'traffic_light', 0.029793037]

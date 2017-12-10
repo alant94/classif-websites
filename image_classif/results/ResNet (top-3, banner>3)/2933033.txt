@@ -1,0 +1,5 @@
+[u'screwdriver', 0.59580296, u'spatula', 0.10678359, u'letter_opener', 0.079094544]
+[u'web_site', 0.84315634, u'book_jacket', 0.017533263, u'orangutan', 0.016367793]
+[u'digital_clock', 0.83660197, u'digital_watch', 0.064669259, u'scoreboard', 0.026885834]
+[u'window_screen', 0.58075243, u'television', 0.16757169, u'window_shade', 0.08039932]
+[u'web_site', 0.86034298, u'television', 0.017838437, u'barbershop', 0.0071855383]

@@ -1,0 +1,4 @@
+[u'cash_machine', 0.086551532, u'street_sign', 0.047812108, u'switch', 0.046449844, u'digital_clock', 0.043542475, u'gas_pump', 0.042391632]
+[u'hook', 0.33065283, u'digital_clock', 0.054655232, u'perfume', 0.025705924, u'whistle', 0.02197784, u'switch', 0.019979378]
+[u'lycaenid', 0.049387991, u'ladybug', 0.031098956, u'leafhopper', 0.030485267, u'lacewing', 0.029926535, u'fly', 0.02436422]
+[u'boathouse', 0.25139746, u'alp', 0.15036085, u'lakeside', 0.12862861, u'valley', 0.037986588, u'castle', 0.030808881]

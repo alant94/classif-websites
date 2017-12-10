@@ -1,0 +1,2 @@
+[u'ibex', 0.1639607, u'fountain', 0.14551347, u'Arabian_camel', 0.12752709, u'wallaby', 0.093563579, u'bighorn', 0.07667473]
+[u'plow', 0.24073403, u'ox', 0.21430244, u'ibex', 0.11208558, u'wild_boar', 0.095576823, u'oxcart', 0.056819487]

@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.80628961, u'wardrobe', 0.011749039, u'window_shade', 0.01116435, u'washbasin', 0.0074070096, u'bath_towel', 0.0058396589]
+[u'shower_curtain', 0.77655828, u'velvet', 0.042911232, u'binder', 0.023474921, u'envelope', 0.016095081, u'prayer_rug', 0.0086800484]

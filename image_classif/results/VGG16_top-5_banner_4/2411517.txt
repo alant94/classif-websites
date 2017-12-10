@@ -1,0 +1,1 @@
+[u'chime', 0.16118196, u'restaurant', 0.11986127, u'milk_can', 0.10541859, u'bell_cote', 0.060945421, u'water_jug', 0.055680074]

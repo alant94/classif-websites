@@ -1,0 +1,6 @@
+[u'slide_rule', 0.64933628, u'oboe', 0.045362785, u'bassoon', 0.040296774, u'rule', 0.039820619, u'binder', 0.038488984]
+[u'cornet', 0.86355358, u'French_horn', 0.10209903, u'trombone', 0.010764299, u'combination_lock', 0.0074706613, u'buckle', 0.007270636]
+[u'binder', 0.16522269, u'screwdriver', 0.096971512, u'syringe', 0.09173324, u'fountain_pen', 0.069294684, u'bassoon', 0.066261142]
+[u'binder', 0.39463717, u'fountain_pen', 0.065243587, u'menu', 0.060193662, u'screwdriver', 0.055687293, u'envelope', 0.052372873]
+[u'screwdriver', 0.1976255, u'binder', 0.14620529, u'syringe', 0.079099484, u'oboe', 0.056893349, u'bassoon', 0.045862053]
+[u'oscilloscope', 0.37011304, u"carpenter's_kit", 0.1045185, u'screwdriver', 0.082337789, u'radio', 0.078436099, u'espresso_maker', 0.065426283]

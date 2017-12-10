@@ -1,0 +1,3 @@
+[u'Ibizan_hound', 0.16865407, u'Italian_greyhound', 0.13184364, u'whippet', 0.12172689, u'Weimaraner', 0.1149065, u'hog', 0.063370734]
+[u'matchstick', 0.046485588, u'coil', 0.040098678, u'sea_slug', 0.034975868, u'daisy', 0.027586553, u'pick', 0.018165752]
+[u'pajama', 0.1167282, u'torch', 0.090836473, u'ping-pong_ball', 0.047988538, u'drumstick', 0.037505586, u'marimba', 0.034829468]

@@ -1,0 +1,3 @@
+[u'palace', 0.41528296, u'castle', 0.15370938, u'gondola', 0.13822708, u'mosque', 0.075923994, u'dock', 0.060591783]
+[u'envelope', 0.1782378, u'binder', 0.15336613, u'menu', 0.15015227, u'crossword_puzzle', 0.068749107, u'packet', 0.034439329]
+[u'streetcar', 0.1757412, u'library', 0.11994398, u'bookshop', 0.037434254, u'trolleybus', 0.027033737, u'minibus', 0.025324466]

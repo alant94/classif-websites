@@ -1,0 +1,6 @@
+[u'cornet', 0.10282259, u'hair_slide', 0.082505085, u'nematode', 0.062338091]
+[u'seashore', 0.82381797, u'promontory', 0.093720146, u'lakeside', 0.022623008]
+[u'loupe', 0.83472008, u'puck', 0.049965318, u'racket', 0.035049677]
+[u'consomme', 0.11274333, u'wall_clock', 0.087345287, u'spaghetti_squash', 0.048075546]
+[u'tripod', 0.22679436, u'iron', 0.11675654, u'stopwatch', 0.07801713]
+[u'library', 0.14020853, u'bookshop', 0.12397892, u'dining_table', 0.11248111]

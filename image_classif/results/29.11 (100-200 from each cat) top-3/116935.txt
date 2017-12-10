@@ -1,0 +1,6 @@
+[u'digital_clock', 0.88759679, u'digital_watch', 0.023058785, u'oscilloscope', 0.010737075]
+[u'jean', 0.069584206, u"potter's_wheel", 0.068785593, u'miniskirt', 0.061787069]
+[u'chain_saw', 0.78318059, u'hair_slide', 0.035572439, u'electric_fan', 0.023163129]
+[u'panpipe', 0.43576524, u'bell_cote', 0.03500447, u'traffic_light', 0.028309969]
+[u'sea_urchin', 0.47767004, u'coral_reef', 0.15995762, u'sea_anemone', 0.030908519]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

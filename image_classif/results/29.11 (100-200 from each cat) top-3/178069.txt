@@ -1,0 +1,6 @@
+[u'sports_car', 0.53234935, u'convertible', 0.19200817, u'racer', 0.13688718]
+[u'rubber_eraser', 0.47954237, u'Band_Aid', 0.28300583, u'pencil_sharpener', 0.070749171]
+[u'ambulance', 0.11574839, u'police_van', 0.11354902, u'prison', 0.11000218]
+[u'minivan', 0.7442742, u'jeep', 0.084963322, u'grille', 0.040010624]
+[u'sports_car', 0.51892138, u'crash_helmet', 0.34325868, u'racer', 0.087355874]
+[u'Model_T', 0.34108815, u'racer', 0.17764831, u'thresher', 0.12142727]

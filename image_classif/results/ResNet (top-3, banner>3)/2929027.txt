@@ -1,0 +1,4 @@
+[u'plunger', 0.12745053, u'toilet_seat', 0.091666631, u'puck', 0.074595548]
+[u'Polaroid_camera', 0.62279081, u'projector', 0.18512636, u'loudspeaker', 0.15065488]
+[u'digital_clock', 0.33455378, u'web_site', 0.3039974, u'oscilloscope', 0.043291938]
+[u'Band_Aid', 0.18372083, u'lighter', 0.12282157, u'web_site', 0.0401964]

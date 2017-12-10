@@ -1,0 +1,4 @@
+[u'thatch', 0.13254695, u'poncho', 0.096868373, u'swab', 0.073212989, u'broom', 0.066806577, u'brass', 0.052337959]
+[u'bottlecap', 0.99964488, u'bakery', 0.00010824634, u'bolo_tie', 4.3119009e-05, u'flatworm', 1.7053158e-05, u'packet', 1.5821579e-05]
+[u'ballpoint', 0.22029592, u'pencil_box', 0.15163562, u'rubber_eraser', 0.1516096, u'screwdriver', 0.069892652, u"carpenter's_kit", 0.057974499]
+[u'stone_wall', 0.94357914, u'megalith', 0.016290389, u'ear', 0.0087690102, u'wool', 0.00489655, u'corn', 0.0043168198]

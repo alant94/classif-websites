@@ -1,0 +1,7 @@
+[u'sarong', 0.0845403, u'handkerchief', 0.068168439, u'hair_spray', 0.059082024, u'whistle', 0.029892895, u'butcher_shop', 0.026491908]
+[u'abaya', 0.14937751, u'hair_spray', 0.12386547, u'academic_gown', 0.067592338, u'mortarboard', 0.055522416, u'cleaver', 0.048339203]
+[u'jersey', 0.97305119, u'bulletproof_vest', 0.0098474743, u'sweatshirt', 0.0029654966, u'maillot', 0.0022987924, u'apron', 0.0018805601]
+[u'wardrobe', 0.39765677, u'picket_fence', 0.154599, u'coho', 0.091287382, u'ski', 0.067936786, u'butcher_shop', 0.056298155]
+[u'jersey', 0.97718006, u'sweatshirt', 0.013985982, u'pajama', 0.0032437679, u'cardigan', 0.0020613945, u'apron', 0.00072463194]
+[u'digital_clock', 0.10267691, u'monitor', 0.08043696, u'wall_clock', 0.066747956, u'scoreboard', 0.058541767, u'screen', 0.056153245]
+[u'beacon', 0.086375348, u'bell_cote', 0.079403467, u'drilling_platform', 0.058647804, u'water_tower', 0.039652504, u'digital_clock', 0.037818879]

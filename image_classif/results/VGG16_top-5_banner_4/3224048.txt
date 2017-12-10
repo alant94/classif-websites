@@ -1,0 +1,5 @@
+[u'swing', 0.27654755, u'guillotine', 0.12146371, u'chime', 0.093981244, u'hook', 0.072005093, u'swab', 0.067263313]
+[u'web_site', 0.095558211, u'sunscreen', 0.083198294, u'pill_bottle', 0.050134476, u'can_opener', 0.027351268, u'Band_Aid', 0.023087824]
+[u'comic_book', 0.1740683, u'book_jacket', 0.084900603, u'ice_lolly', 0.030799543, u'anemone_fish', 0.029128456, u'street_sign', 0.027378285]
+[u'church', 0.83712095, u'bell_cote', 0.09718217, u'monastery', 0.036187928, u'castle', 0.016028859, u'palace', 0.006020586]
+[u'analog_clock', 0.683743, u'wall_clock', 0.28373852, u'barometer', 0.0071701105, u'odometer', 0.0054601505, u'scale', 0.0023007479]

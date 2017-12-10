@@ -1,0 +1,5 @@
+[u'ashcan', 0.14574796, u'mailbox', 0.12995411, u'groenendael', 0.10045706, u'Newfoundland', 0.032903057, u'Irish_wolfhound', 0.0259789]
+[u'pillow', 0.25645018, u'shower_curtain', 0.20405395, u'quilt', 0.12862527, u'sarong', 0.038710359, u'wallet', 0.037536114]
+[u'pencil_box', 0.39139271, u"carpenter's_kit", 0.11872318, u'apron', 0.055034772, u'chime', 0.044906978, u'binder', 0.039562032]
+[u'ballpoint', 0.48984018, u'hair_slide', 0.26513878, u'rubber_eraser', 0.049281485, u'letter_opener', 0.027981743, u'pencil_box', 0.025209725]
+[u'altar', 0.24100943, u'ski', 0.10845176, u'wardrobe', 0.074718647, u'vestment', 0.07023292, u'toyshop', 0.063381329]

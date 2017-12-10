@@ -1,0 +1,4 @@
+[u'fountain', 0.93524939, u'padlock', 0.016516596, u'perfume', 0.0076840953]
+[u'can_opener', 0.054171935, u'guillotine', 0.047855191, u'plunger', 0.03842188]
+[u'candle', 0.27690154, u'envelope', 0.25323913, u'hourglass', 0.052265551]
+[u'lumbermill', 0.17083615, u'park_bench', 0.092959277, u'washbasin', 0.065966703]

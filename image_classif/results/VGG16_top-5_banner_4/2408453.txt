@@ -1,0 +1,6 @@
+[u'oil_filter', 0.25136709, u'go-kart', 0.22992134, u'disk_brake', 0.13191755, u'lawn_mower', 0.058435652, u'electric_fan', 0.051225726]
+[u'web_site', 0.91425276, u'menu', 0.018333605, u'packet', 0.0086058723, u'comic_book', 0.007148406, u'can_opener', 0.0038280596]
+[u'harvester', 0.23049782, u'snowplow', 0.16655324, u'plow', 0.16134505, u'tractor', 0.14891797, u'lawn_mower', 0.074000441]
+[u'racer', 0.94326919, u'sports_car', 0.03104995, u'car_wheel', 0.013441969, u'bobsled', 0.001985722, u'snowmobile', 0.0013661808]
+[u'drilling_platform', 0.27549553, u'fireboat', 0.21405968, u'lifeboat', 0.093882307, u'harvester', 0.058750827, u'paddlewheel', 0.052970808]
+[u'Model_T', 0.2119901, u'horse_cart', 0.17268236, u'jinrikisha', 0.11730652, u'car_wheel', 0.05560397, u'tricycle', 0.052434538]

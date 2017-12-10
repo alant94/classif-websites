@@ -1,0 +1,5 @@
+[u'necklace', 0.76776648, u'chain', 0.052233614, u'tennis_ball', 0.033730797, u'bolo_tie', 0.026676387, u'loupe', 0.017600279]
+[u'necklace', 0.77981311, u'bolo_tie', 0.049794815, u'chain', 0.048103981, u'tennis_ball', 0.027602145, u'loupe', 0.01413939]
+[u'book_jacket', 0.86904573, u'comic_book', 0.028445305, u'lighter', 0.010328266, u'perfume', 0.0092024943, u'web_site', 0.0089822579]
+[u'street_sign', 0.21652116, u'rubber_eraser', 0.15076123, u'combination_lock', 0.087331742, u'lighter', 0.046023272, u'packet', 0.038853627]
+[u'church', 0.75944936, u'barn', 0.15731601, u'monastery', 0.029422456, u'bell_cote', 0.022873621, u'water_tower', 0.0039020989]

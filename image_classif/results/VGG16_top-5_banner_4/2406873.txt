@@ -1,0 +1,5 @@
+[u'loudspeaker', 0.19759813, u'digital_clock', 0.071858145, u'iPod', 0.063855961, u'remote_control', 0.062375437, u'Band_Aid', 0.039725944]
+[u'nail', 0.69965655, u'screw', 0.097414188, u'bow', 0.055277944, u'tripod', 0.038793314, u'swing', 0.029457426]
+[u'screw', 0.96533602, u'oil_filter', 0.016092056, u'switch', 0.0092076994, u'saltshaker', 0.0050933952, u'rubber_eraser', 0.0019392823]
+[u'iron', 0.30625552, u'chain_saw', 0.15451631, u'web_site', 0.080938943, u'hand_blower', 0.043052237, u'hook', 0.027001809]
+[u'street_sign', 0.38724908, u'scoreboard', 0.14566594, u'digital_clock', 0.097283497, u'gas_pump', 0.076534793, u'traffic_light', 0.075590894]

@@ -1,0 +1,4 @@
+[u'bagel', 0.43374735, u'French_loaf', 0.13953781, u'chocolate_sauce', 0.090032004]
+[u'shoe_shop', 0.80231178, u'clog', 0.072265789, u'ladle', 0.029974725]
+[u'mailbag', 0.31205523, u'chocolate_sauce', 0.17478772, u'purse', 0.17374438]
+[u'chocolate_sauce', 0.57161319, u'gyromitra', 0.37137592, u'Labrador_retriever', 0.01671068]

@@ -1,0 +1,7 @@
+[u'baseball', 0.13866937, u'hook', 0.090815924, u'coil', 0.061547421, u'bathing_cap', 0.047387399, u'sea_anemone', 0.046945859]
+[u'Mexican_hairless', 0.7568562, u'miniature_pinscher', 0.089547493, u'hog', 0.064654075, u'Staffordshire_bullterrier', 0.021498244, u'Doberman', 0.013334554]
+[u'hog', 0.28310701, u'assault_rifle', 0.02782719, u'rain_barrel', 0.024024675, u'Bouvier_des_Flandres', 0.022800544, u'barrel', 0.019007647]
+[u'hog', 0.89964902, u'water_buffalo', 0.045423146, u'piggy_bank', 0.010719766, u'ox', 0.0063897078, u'wild_boar', 0.0054071136]
+[u'binder', 0.074256979, u'cash_machine', 0.072867818, u'digital_clock', 0.042559825, u'street_sign', 0.031092996, u'web_site', 0.02563739]
+[u'hog', 0.94231027, u'piggy_bank', 0.052378111, u'wild_boar', 0.0021543, u'dugong', 0.001090253, u'hippopotamus', 0.00042689711]
+[u'Staffordshire_bullterrier', 0.19425654, u'miniature_pinscher', 0.11458044, u'Rottweiler', 0.11070326, u'bloodhound', 0.11068215, u'black-and-tan_coonhound', 0.10670205]

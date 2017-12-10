@@ -1,0 +1,8 @@
+[u'web_site', 0.23497576, u'nail', 0.038669046, u'rifle', 0.037458975]
+[u'birdhouse', 0.35313508, u'paintbrush', 0.14367104, u'broom', 0.13471518]
+[u'slot', 0.061232362, u'magnetic_compass', 0.052622795, u'jersey', 0.051922847]
+[u'seashore', 0.2452368, u'palace', 0.16270849, u'castle', 0.13328527]
+[u'whistle', 0.25485185, u'Band_Aid', 0.12696782, u'pill_bottle', 0.058598623]
+[u'lab_coat', 0.3959989, u'hair_spray', 0.11280824, u'water_bottle', 0.04822138]
+[u'bakery', 0.25628066, u'bagel', 0.11536589, u'dough', 0.082357757]
+[u'wallet', 0.14667206, u'sandal', 0.11590566, u'brassiere', 0.11089209]

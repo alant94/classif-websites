@@ -1,0 +1,7 @@
+[u'geyser', 0.99636453, u'fountain', 0.0027112279, u'dam', 0.00047326629, u'breakwater', 0.0001108806, u'valley', 3.8738777e-05]
+[u'golf_ball', 0.15189275, u'maze', 0.13937731, u'lakeside', 0.044221736, u'rapeseed', 0.036135472, u'worm_fence', 0.022356661]
+[u'web_site', 0.03421279, u'wall_clock', 0.030486461, u'envelope', 0.024331994, u'bee_eater', 0.016173951, u'analog_clock', 0.016125826]
+[u'moving_van', 0.050344054, u'horse_cart', 0.047795568, u'book_jacket', 0.041409858, u'trailer_truck', 0.032874294, u'Dungeness_crab', 0.029346334]
+[u'geyser', 0.98887432, u'fountain', 0.0095168147, u'dam', 0.00086593878, u'breakwater', 0.00024733541, u'valley', 6.6496839e-05]
+[u'valley', 0.21697845, u'coral_reef', 0.092094727, u'stingray', 0.066411644, u'wreck', 0.054335479, u'hammerhead', 0.033484969]
+[u'web_site', 0.027138442, u'wall_clock', 0.026579663, u'envelope', 0.024118986, u'bee_eater', 0.021331837, u'dishwasher', 0.020367108]

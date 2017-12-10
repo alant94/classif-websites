@@ -1,0 +1,1 @@
+[u'rubber_eraser', 0.16887943, u'diaper', 0.085419714, u'jigsaw_puzzle', 0.071383052, u'Band_Aid', 0.058491439, u'whistle', 0.042960189]

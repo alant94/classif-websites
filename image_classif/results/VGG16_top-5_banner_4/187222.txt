@@ -1,0 +1,4 @@
+[u'torch', 0.38970771, u'lumbermill', 0.062710531, u'stage', 0.038813677, u'drilling_platform', 0.036551427, u'rotisserie', 0.024142446]
+[u'book_jacket', 0.10530304, u'wall_clock', 0.072166957, u'carton', 0.071260437, u'prayer_rug', 0.064963914, u'shower_curtain', 0.050588667]
+[u'space_shuttle', 0.10536981, u'projectile', 0.10427067, u'wine_bottle', 0.094422318, u'missile', 0.069449864, u'altar', 0.06857264]
+[u'crossword_puzzle', 0.18318459, u'matchstick', 0.12934698, u'picket_fence', 0.11508539, u'organ', 0.078552336, u'scoreboard', 0.045256864]

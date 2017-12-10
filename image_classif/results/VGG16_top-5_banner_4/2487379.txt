@@ -1,0 +1,1 @@
+[u'snowmobile', 0.84523487, u'dogsled', 0.064780422, u'ski', 0.048710048, u'alp', 0.020025328, u'mountain_bike', 0.003520272]

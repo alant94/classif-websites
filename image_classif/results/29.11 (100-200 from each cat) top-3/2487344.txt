@@ -1,0 +1,2 @@
+[u'holster', 0.47948182, u'scabbard', 0.36559415, u'cowboy_boot', 0.068565086]
+[u'corn', 0.240676, u'ear', 0.20983557, u'lakeside', 0.13770792]

@@ -1,0 +1,2 @@
+[u'pole', 0.20738281, u'crane', 0.10911628, u'wreck', 0.083726965, u'chain_saw', 0.02724818, u'traffic_light', 0.026549263]
+[u'beer_glass', 0.23525089, u'candle', 0.058412444, u'coffee_mug', 0.041990854, u'sarong', 0.038675431, u'cocktail_shaker', 0.037009258]

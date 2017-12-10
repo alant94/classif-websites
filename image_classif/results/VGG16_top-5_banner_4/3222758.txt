@@ -1,0 +1,1 @@
+[u'binder', 0.12233743, u'combination_lock', 0.10566794, u'modem', 0.098307826, u'book_jacket', 0.063899882, u'lighter', 0.05442116]

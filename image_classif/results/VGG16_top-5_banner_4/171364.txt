@@ -1,0 +1,2 @@
+[u'stole', 0.18447828, u'jigsaw_puzzle', 0.08991722, u'stupa', 0.088460319, u'poncho', 0.071949214, u'confectionery', 0.056889217]
+[u'birdhouse', 0.97839212, u'jigsaw_puzzle', 0.0037032836, u'loudspeaker', 0.0022246214, u'cassette', 0.0021319084, u'gong', 0.0016330173]

@@ -1,0 +1,3 @@
+[u'electric_guitar', 0.44185895, u'stage', 0.12402923, u'lionfish', 0.086657807]
+[u'Staffordshire_bullterrier', 0.43456769, u'American_Staffordshire_terrier', 0.34459522, u'bull_mastiff', 0.066487454]
+[u'barbell', 0.62170577, u'dumbbell', 0.21014181, u'punching_bag', 0.06761317]

@@ -1,0 +1,4 @@
+[u'alp', 0.14421746, u'megalith', 0.11537682, u'hay', 0.11154448, u'valley', 0.091652803, u'stone_wall', 0.075187869]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'window_shade', 0.16809151, u'pedestal', 0.14671552, u'window_screen', 0.067902476, u'lampshade', 0.059390381, u'table_lamp', 0.040055759]
+[u'abacus', 0.97623277, u'padlock', 0.0046082092, u'chime', 0.0036352531, u'nail', 0.0021598469, u'guillotine', 0.0017068404]

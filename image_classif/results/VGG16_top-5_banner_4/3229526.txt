@@ -1,0 +1,3 @@
+[u'mortarboard', 0.27831385, u'plunger', 0.075401448, u'academic_gown', 0.073849812, u'toyshop', 0.071279295, u'hair_spray', 0.054523405]
+[u'megalith', 0.11778224, u'bubble', 0.10544659, u'torch', 0.085593656, u'balance_beam', 0.06895984, u'obelisk', 0.042476986]
+[u'restaurant', 0.11973437, u'throne', 0.11774559, u'bassoon', 0.072806612, u'theater_curtain', 0.045802653, u'grand_piano', 0.035848532]

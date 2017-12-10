@@ -1,0 +1,6 @@
+[u'marimba', 0.33503196, u'drum', 0.088543631, u'gong', 0.061793674, u'barrow', 0.052966021, u'banjo', 0.031661376]
+[u'suit', 0.32548434, u'academic_gown', 0.18986419, u'theater_curtain', 0.059807494, u'wardrobe', 0.058801144, u'guillotine', 0.045578357]
+[u'library', 0.13863684, u'patio', 0.11836562, u'flagpole', 0.094166704, u'cinema', 0.06098, u'planetarium', 0.044713676]
+[u'stage', 0.28956345, u'mortarboard', 0.046205629, u'groom', 0.043462835, u'feather_boa', 0.032707661, u'wig', 0.025187213]
+[u'kimono', 0.25281173, u'groom', 0.15910672, u'gown', 0.10095929, u'suit', 0.063132994, u'fur_coat', 0.042622291]
+[u'wardrobe', 0.27704769, u'academic_gown', 0.21895948, u'mortarboard', 0.094955638, u'suit', 0.054246176, u'theater_curtain', 0.042365804]

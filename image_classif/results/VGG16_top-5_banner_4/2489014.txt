@@ -1,0 +1,6 @@
+[u'jaguar', 0.79007405, u'leopard', 0.20310915, u'cheetah', 0.0034202491, u'Egyptian_cat', 0.0023236861, u'snow_leopard', 0.00083341432]
+[u'corkscrew', 0.58829248, u'chain', 0.084134385, u'necklace', 0.070723638, u'hair_slide', 0.066009499, u'letter_opener', 0.057118941]
+[u'hartebeest', 0.61113358, u'oxcart', 0.18120012, u'lumbermill', 0.034164298, u'plow', 0.024535872, u'ox', 0.022891527]
+[u'streetcar', 0.18257287, u'boathouse', 0.10994216, u'lakeside', 0.061713412, u'mobile_home', 0.036272593, u'passenger_car', 0.031413652]
+[u'leopard', 0.41052231, u'jaguar', 0.16414778, u'honeycomb', 0.15293865, u'cheetah', 0.12521406, u'monastery', 0.013029461]
+[u'zebra', 0.74457484, u'ostrich', 0.12335057, u'gazelle', 0.10249154, u'llama', 0.0047755735, u'ram', 0.004623814]

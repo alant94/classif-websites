@@ -1,0 +1,6 @@
+[u'cockroach', 0.070519641, u'screw', 0.050942857, u'mask', 0.041947871, u'black_widow', 0.038472962, u'crayfish', 0.031172713]
+[u'fountain', 0.59809798, u'geyser', 0.25633803, u'stage', 0.084081545, u'parachute', 0.012179806, u'torch', 0.0036719004]
+[u'Weimaraner', 0.31472635, u'Great_Dane', 0.30399168, u'whippet', 0.084041521, u'boxer', 0.020701693, u'Ibizan_hound', 0.019902691]
+[u'letter_opener', 0.18903762, u'hook', 0.10614359, u'ballpoint', 0.080539137, u'necklace', 0.048414469, u'bolo_tie', 0.042851217]
+[u'fountain', 0.92527789, u'fur_coat', 0.023985969, u'great_grey_owl', 0.0061531956, u'vestment', 0.0054704878, u'pedestal', 0.0036921303]
+[u'comic_book', 0.26842198, u'volcano', 0.18243408, u'book_jacket', 0.088910677, u'fountain', 0.08702758, u'Irish_setter', 0.085946113]

@@ -1,0 +1,8 @@
+[u'parachute', 0.27214983, u'shower_curtain', 0.15316768, u'flagpole', 0.044996269, u'wing', 0.032578468, u'balloon', 0.028688185]
+[u'hair_spray', 0.21869503, u'perfume', 0.10812425, u'lotion', 0.063623495, u'television', 0.063261501, u'candle', 0.050152134]
+[u'library', 0.13763359, u'bookcase', 0.095815808, u'medicine_chest', 0.090878196, u'shower_curtain', 0.062908113, u'bookshop', 0.036841195]
+[u'television', 0.43219832, u'screen', 0.24763501, u'monitor', 0.22919142, u'home_theater', 0.025625138, u'desktop_computer', 0.01117163]
+[u'window_screen', 0.48112011, u'window_shade', 0.37651318, u'television', 0.041265037, u'monitor', 0.034155279, u'sliding_door', 0.016004281]
+[u'puck', 0.22306469, u'golf_ball', 0.16698952, u'nipple', 0.097118989, u'spotlight', 0.07083483, u'volleyball', 0.039341278]
+[u'shower_curtain', 0.3245708, u'parachute', 0.14993481, u'cocktail_shaker', 0.029259607, u'sarong', 0.028568141, u'balloon', 0.021817051]
+[u'parachute', 0.32856444, u'balloon', 0.13228336, u'flagpole', 0.080239497, u'airship', 0.041075785, u'wing', 0.03156868]

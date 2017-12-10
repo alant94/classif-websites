@@ -1,0 +1,5 @@
+[u'vault', 0.29040393, u'monastery', 0.069084287, u'whiskey_jug', 0.048711322]
+[u'book_jacket', 0.12355812, u'binder', 0.077255055, u'table_lamp', 0.052459616]
+[u'stage', 0.85535669, u'electric_guitar', 0.046807386, u'cornet', 0.014101613]
+[u'banjo', 0.82426661, u'electric_guitar', 0.096179917, u'acoustic_guitar', 0.077031665]
+[u'book_jacket', 0.38489839, u'golf_ball', 0.036641739, u'safety_pin', 0.025515625]

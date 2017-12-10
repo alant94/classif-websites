@@ -1,0 +1,7 @@
+[u'envelope', 0.29222298, u'packet', 0.1344607, u'cleaver', 0.076623335, u'book_jacket', 0.062448867, u'letter_opener', 0.058064673]
+[u'packet', 0.27429327, u'envelope', 0.26929623, u'book_jacket', 0.14632002, u'crate', 0.046453133, u'carton', 0.036903348]
+[u'web_site', 0.69841665, u'envelope', 0.21775062, u'binder', 0.036514614, u'Windsor_tie', 0.017238237, u'book_jacket', 0.0070304633]
+[u'lighter', 0.34574032, u'binder', 0.21363285, u'envelope', 0.15537067, u'perfume', 0.036065485, u'Band_Aid', 0.025726264]
+[u'Petri_dish', 0.14846931, u'pick', 0.1435672, u'French_horn', 0.10405644, u'magnetic_compass', 0.077091672, u'analog_clock', 0.072055653]
+[u'jellyfish', 0.36230403, u'chain', 0.069214724, u'matchstick', 0.041708294, u'hook', 0.033512469, u'pick', 0.025022076]
+[u'lakeside', 0.64735568, u'scoreboard', 0.044417843, u'park_bench', 0.034316808, u'boathouse', 0.033130623, u'palace', 0.019951057]

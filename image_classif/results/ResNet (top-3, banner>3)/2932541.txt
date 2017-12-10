@@ -1,0 +1,8 @@
+[u'castle', 0.967722, u'cliff', 0.012357219, u'monastery', 0.004609996]
+[u'picket_fence', 0.87670583, u'worm_fence', 0.01995627, u'fountain', 0.0074187242]
+[u'palace', 0.18917596, u'traffic_light', 0.11001468, u'streetcar', 0.10011566]
+[u'puck', 0.14106959, u'face_powder', 0.093970731, u'matchstick', 0.068653353]
+[u'palace', 0.15634298, u'lakeside', 0.13424167, u'castle', 0.085348323]
+[u'castle', 0.22231273, u'church', 0.1730005, u'palace', 0.15990457]
+[u'king_penguin', 0.40950614, u'poncho', 0.068117455, u'ski', 0.037859548]
+[u'suit', 0.54045892, u'Windsor_tie', 0.20607409, u'oboe', 0.028306613]

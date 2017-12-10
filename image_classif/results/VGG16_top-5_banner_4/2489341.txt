@@ -1,0 +1,4 @@
+[u'coffee_mug', 0.29934773, u'ashcan', 0.090550363, u'oil_filter', 0.049856897, u'punching_bag', 0.045335129, u'hair_spray', 0.045063093]
+[u'bannister', 0.57458967, u'chime', 0.24895361, u'organ', 0.051675159, u'crutch', 0.045893032, u'radiator', 0.012720019]
+[u'web_site', 0.095190391, u'comic_book', 0.065504588, u'scoreboard', 0.047572959, u'slot', 0.038297575, u'book_jacket', 0.032370117]
+[u'kimono', 0.089925557, u'bolo_tie', 0.083401017, u'bonnet', 0.061139841, u'bow_tie', 0.030072853, u'poncho', 0.026481139]

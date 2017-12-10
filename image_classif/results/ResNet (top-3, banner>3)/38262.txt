@@ -1,0 +1,8 @@
+[u'cowboy_boot', 0.10028543, u'knee_pad', 0.094357215, u'jean', 0.088253491]
+[u'pillow', 0.77938205, u'book_jacket', 0.060139965, u'mailbag', 0.033884559]
+[u'nematode', 0.19744413, u'loupe', 0.15314883, u'bubble', 0.044333573]
+[u'book_jacket', 0.24691302, u'web_site', 0.12696248, u'safety_pin', 0.051019415]
+[u'apron', 0.12039411, u'handkerchief', 0.096153162, u'cardigan', 0.092574865]
+[u'book_jacket', 0.20956221, u'turnstile', 0.10569032, u'airship', 0.084175795]
+[u'rapeseed', 0.44565904, u'valley', 0.18811886, u'lakeside', 0.059484988]
+[u'hand-held_computer', 0.22052537, u'handkerchief', 0.12077197, u'book_jacket', 0.078667574]

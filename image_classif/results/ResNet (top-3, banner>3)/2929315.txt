@@ -1,0 +1,2 @@
+[u'web_site', 0.82929605, u'book_jacket', 0.024149893, u'oscilloscope', 0.013167203]
+[u'fire_screen', 0.24262004, u'buckle', 0.17432322, u'shield', 0.15142633]

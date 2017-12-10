@@ -1,0 +1,1 @@
+[u'web_site', 0.53277725, u'packet', 0.25262681, u'sunglasses', 0.074134149, u'sunglass', 0.027039196, u'menu', 0.012957981]

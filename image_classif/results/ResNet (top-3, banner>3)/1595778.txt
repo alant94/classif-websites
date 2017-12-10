@@ -1,0 +1,6 @@
+[u'bikini', 0.32343605, u'tub', 0.14489613, u'sunscreen', 0.13476804]
+[u'bathtub', 0.32393646, u'tub', 0.2005091, u'washbasin', 0.09305343]
+[u'bikini', 0.51507074, u'tub', 0.37661645, u'bathtub', 0.064329863]
+[u'golf_ball', 0.22629632, u'hourglass', 0.066233426, u'spotlight', 0.041025396]
+[u'brassiere', 0.68865991, u'bikini', 0.15677953, u'dumbbell', 0.066162907]
+[u'tub', 0.5372563, u'bathtub', 0.32233518, u'bikini', 0.061768357]

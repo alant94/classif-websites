@@ -1,0 +1,4 @@
+[u'American_black_bear', 0.99381602, u'sloth_bear', 0.0048920251, u'brown_bear', 0.0010008567]
+[u'zebra', 0.96748233, u'hartebeest', 0.0084126405, u'impala', 0.0052272053]
+[u'coho', 0.65592545, u'sturgeon', 0.073724926, u'hammerhead', 0.043923695]
+[u'great_grey_owl', 0.82773495, u'kite', 0.035095178, u'hummingbird', 0.022169447]

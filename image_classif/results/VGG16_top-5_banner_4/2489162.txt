@@ -1,0 +1,7 @@
+[u'plow', 0.11777148, u'park_bench', 0.091772534, u'worm_fence', 0.079549365, u'buckle', 0.04908755, u'African_chameleon', 0.046898536]
+[u'valley', 0.5395785, u'lakeside', 0.16067865, u'dam', 0.1440281, u'cliff', 0.063059688, u'promontory', 0.023190621]
+[u'dam', 0.98754334, u'geyser', 0.0062296703, u'valley', 0.0020889021, u'breakwater', 0.0017728892, u'cliff', 0.0012809624]
+[u'valley', 0.058587611, u'car_mirror', 0.057535406, u'barn', 0.045973796, u'lakeside', 0.043848239, u'hay', 0.041930657]
+[u'volcano', 0.97236383, u'geyser', 0.01915866, u'torch', 0.0012105666, u'cliff', 0.0010651218, u'beacon', 0.00089753774]
+[u'trailer_truck', 0.099758573, u'geyser', 0.06501618, u'mountain_tent', 0.060344614, u'hay', 0.054267596, u'radio_telescope', 0.049218103]
+[u'lakeside', 0.63447821, u'sandbar', 0.087178253, u'water_buffalo', 0.035634968, u'canoe', 0.033115476, u'valley', 0.021332923]

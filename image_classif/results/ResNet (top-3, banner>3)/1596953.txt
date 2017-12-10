@@ -1,0 +1,7 @@
+[u'altar', 0.66332364, u'candle', 0.19126196, u'vault', 0.020657456]
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]
+[u'harmonica', 0.28685018, u'book_jacket', 0.10893618, u'menu', 0.082352675]
+[u'Band_Aid', 0.46154612, u'nipple', 0.16151516, u'pick', 0.026173053]
+[u'butcher_shop', 0.67959607, u'bikini', 0.20394066, u'swimming_trunks', 0.069582]
+[u'wig', 0.14522761, u'neck_brace', 0.10076416, u'bikini', 0.096384585]
+[u'sunglass', 0.37296793, u'book_jacket', 0.096776642, u'mask', 0.083423026]

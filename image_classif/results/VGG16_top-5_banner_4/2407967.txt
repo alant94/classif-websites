@@ -1,0 +1,3 @@
+[u'picket_fence', 0.44904178, u'matchstick', 0.051553667, u'worm_fence', 0.031499792, u'palace', 0.0181046, u'bell_cote', 0.015314003]
+[u'toyshop', 0.41413462, u'barbershop', 0.13368653, u'restaurant', 0.074701324, u'shoe_shop', 0.064889506, u'slot', 0.046832882]
+[u'restaurant', 0.19527853, u'pot', 0.12248984, u'cinema', 0.054954436, u'bookshop', 0.040233374, u'patio', 0.039548539]

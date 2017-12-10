@@ -1,0 +1,7 @@
+[u'envelope', 0.52476639, u'plastic_bag', 0.15382294, u'packet', 0.11847924, u'handkerchief', 0.056121267, u'menu', 0.026321363]
+[u'volleyball', 0.30655262, u'soccer_ball', 0.092296191, u'parachute', 0.062688731, u'rugby_ball', 0.046322729, u'toilet_tissue', 0.038449008]
+[u'book_jacket', 0.72093111, u'comic_book', 0.077910878, u'rifle', 0.0118169, u'street_sign', 0.0080645913, u'scoreboard', 0.0056971987]
+[u'football_helmet', 0.25330102, u'Afghan_hound', 0.078221314, u'ballplayer', 0.040845212, u'basketball', 0.034280613, u'cornet', 0.026083807]
+[u'shoe_shop', 0.096427254, u'clog', 0.033174921, u'beer_bottle', 0.030972114, u'barbershop', 0.023240663, u'puck', 0.022157613]
+[u'nipple', 0.13729343, u'can_opener', 0.079447143, u'candle', 0.061010167, u'envelope', 0.035755817, u'hook', 0.033189904]
+[u'toilet_tissue', 0.04392926, u'bib', 0.043767218, u'hook', 0.036896717, u'paper_towel', 0.034648567, u'envelope', 0.029097574]

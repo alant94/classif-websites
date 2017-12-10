@@ -1,0 +1,1 @@
+[u'prayer_rug', 0.91067827, u'book_jacket', 0.022313567, u'buckle', 0.018741729, u'shield', 0.010978257, u'doormat', 0.0070831152]

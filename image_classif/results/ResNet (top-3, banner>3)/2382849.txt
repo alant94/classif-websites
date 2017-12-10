@@ -1,0 +1,5 @@
+[u'crayfish', 0.31713709, u'red_wine', 0.24026933, u'goblet', 0.12364904]
+[u'candle', 0.31589061, u'eggnog', 0.24822503, u'strawberry', 0.08299841]
+[u'beer_glass', 0.40440452, u'beer_bottle', 0.1825393, u'pop_bottle', 0.15016532]
+[u'marimba', 0.28693828, u'steel_drum', 0.16869149, u'fountain', 0.1028062]
+[u'digital_clock', 0.66702634, u'digital_watch', 0.089265853, u'wall_clock', 0.051449772]

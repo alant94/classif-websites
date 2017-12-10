@@ -1,0 +1,7 @@
+[u'restaurant', 0.51476616, u'patio', 0.078635752, u'barbershop', 0.064636767]
+[u'digital_clock', 0.048328895, u'web_site', 0.047895666, u'stopwatch', 0.03512878]
+[u'prison', 0.76190609, u'medicine_chest', 0.047928166, u'sliding_door', 0.032083958]
+[u'medicine_chest', 0.52965605, u'washbasin', 0.10943421, u'prison', 0.058521915]
+[u'web_site', 0.17646475, u'envelope', 0.043761458, u'maze', 0.017061818]
+[u'web_site', 0.33203053, u'nematode', 0.053932153, u'vine_snake', 0.037578017]
+[u'web_site', 0.46104243, u'digital_clock', 0.17750883, u'screw', 0.01969376]

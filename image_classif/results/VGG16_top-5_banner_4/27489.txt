@@ -1,0 +1,6 @@
+[u'acoustic_guitar', 0.86696476, u'pick', 0.056547813, u'electric_guitar', 0.039306521, u'banjo', 0.010850906, u'cello', 0.0051158825]
+[u'wine_bottle', 0.1240709, u"carpenter's_kit", 0.093785055, u'vestment', 0.045903105, u'chime', 0.041861612, u'altar', 0.038751069]
+[u'safe', 0.32744423, u'menu', 0.18994716, u'tray', 0.075633034, u'carton', 0.06740389, u'binder', 0.040029015]
+[u'book_jacket', 0.13261344, u'comic_book', 0.11105149, u'electric_guitar', 0.066738904, u'acoustic_guitar', 0.057595994, u'barbershop', 0.047964539]
+[u'sundial', 0.28058189, u'shield', 0.21232358, u'buckle', 0.1371697, u'harp', 0.076568536, u'hair_slide', 0.069265999]
+[u'monitor', 0.32312414, u'container_ship', 0.15600844, u'screen', 0.081423923, u'web_site', 0.037958726, u'desk', 0.029873012]

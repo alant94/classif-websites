@@ -1,0 +1,2 @@
+[u'nail', 0.071792804, u'rule', 0.060288087, u'web_site', 0.055219699, u'envelope', 0.043131486, u'screwdriver', 0.033046994]
+[u'envelope', 0.070356645, u'shower_curtain', 0.057310008, u'wall_clock', 0.038942307, u'digital_clock', 0.038595837, u'book_jacket', 0.034741402]

@@ -1,0 +1,5 @@
+[u'microwave', 0.21672441, u'television', 0.15719098, u'screen', 0.078312255]
+[u'book_jacket', 0.39934245, u'comic_book', 0.073488288, u'web_site', 0.05127617]
+[u'web_site', 0.11264449, u'digital_clock', 0.059493985, u'marimba', 0.032330081]
+[u'web_site', 0.11846397, u'scoreboard', 0.11630265, u'flagpole', 0.044230673]
+[u'screen', 0.27897614, u'television', 0.19514607, u'monitor', 0.1246556]

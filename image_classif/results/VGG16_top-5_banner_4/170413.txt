@@ -1,0 +1,1 @@
+[u'binder', 0.46316248, u'envelope', 0.081419013, u'book_jacket', 0.078158297, u'cassette', 0.04387847, u'cleaver', 0.036402524]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.16105558, u'tobacco_shop', 0.097421534, u'hair_slide', 0.07053344]
+[u'prison', 0.20138527, u'loupe', 0.066929013, u'microphone', 0.063955233]

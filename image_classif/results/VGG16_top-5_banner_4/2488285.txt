@@ -1,0 +1,8 @@
+[u'chain', 0.16618784, u'hook', 0.14336319, u'crane', 0.052349634, u'matchstick', 0.042092483, u'flagpole', 0.039495986]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'folding_chair', 0.28582314, u'bathing_cap', 0.28507316, u'tray', 0.054324623, u'jersey', 0.040034734, u'lighter', 0.025326377]
+[u'ski', 0.096430764, u'web_site', 0.048508994, u'rubber_eraser', 0.045395415, u'snorkel', 0.044569064, u'crash_helmet', 0.041761693]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'library', 0.19853143, u'restaurant', 0.096151598, u'prison', 0.076739416, u'organ', 0.070979871, u'dining_table', 0.066005863]
+[u'missile', 0.11992683, u'flagpole', 0.072666153, u'projectile', 0.070961989, u'crane', 0.051887549, u'syringe', 0.05051427]
+[u'meat_loaf', 0.76413161, u'mashed_potato', 0.15971416, u'plate', 0.046220969, u'broccoli', 0.0053296974, u'ice_cream', 0.0045702416]

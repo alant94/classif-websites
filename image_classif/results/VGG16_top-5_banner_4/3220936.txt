@@ -1,0 +1,7 @@
+[u'jersey', 0.29385585, u'digital_clock', 0.027453348, u'matchstick', 0.023267113, u'pick', 0.021877306, u'abaya', 0.0213289]
+[u'picket_fence', 0.76882416, u'candle', 0.018883541, u'obelisk', 0.018031573, u'megalith', 0.01734937, u'spatula', 0.017078262]
+[u'comic_book', 0.14296961, u'balloon', 0.10197796, u'shield', 0.080507539, u'toilet_seat', 0.070280761, u'jersey', 0.063914329]
+[u'street_sign', 0.26807603, u'tobacco_shop', 0.11714055, u'cassette', 0.059077743, u'bookshop', 0.053345807, u'crate', 0.048425082]
+[u'chain', 0.38978639, u'picket_fence', 0.18491516, u'nail', 0.18168998, u'worm_fence', 0.056320854, u'padlock', 0.046484891]
+[u'mortarboard', 0.21877939, u'academic_gown', 0.093016356, u'web_site', 0.083966024, u'analog_clock', 0.038842123, u'perfume', 0.033210803]
+[u'swing', 0.13761748, u'picket_fence', 0.069825336, u'tripod', 0.067149408, u'worm_fence', 0.059600305, u'zebra', 0.054969169]

@@ -1,0 +1,5 @@
+[u'spotlight', 0.11849603, u'digital_clock', 0.07294862, u'pill_bottle', 0.067623489, u'digital_watch', 0.067377105, u'analog_clock', 0.041115843]
+[u'book_jacket', 0.11951706, u'screen', 0.080604576, u'cash_machine', 0.053059656, u'oscilloscope', 0.046400014, u'jellyfish', 0.033731483]
+[u'lighter', 0.31093687, u'switch', 0.10162935, u'perfume', 0.082826987, u'iPod', 0.06975504, u'binder', 0.039291877]
+[u'sewing_machine', 0.11526799, u'oscilloscope', 0.08476425, u'cash_machine', 0.054772686, u'mousetrap', 0.040119246, u'pay-phone', 0.0319799]
+[u'digital_clock', 0.059427034, u'envelope', 0.051746428, u'carton', 0.048982136, u'gas_pump', 0.040387146, u'cash_machine', 0.039788865]

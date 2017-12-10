@@ -1,0 +1,3 @@
+[u'sunscreen', 0.08234816, u'street_sign', 0.052509442, u'hand_blower', 0.051577836, u'hair_spray', 0.043611262, u'Band_Aid', 0.033267859]
+[u'dining_table', 0.14678213, u'cliff_dwelling', 0.069869876, u'bakery', 0.045360822, u'restaurant', 0.036992121, u'tray', 0.036305252]
+[u'stone_wall', 0.3619217, u'maze', 0.087422326, u'coil', 0.080721572, u'cucumber', 0.043266375, u'coho', 0.028222369]

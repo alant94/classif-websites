@@ -1,0 +1,8 @@
+[u'digital_watch', 0.16573001, u'picket_fence', 0.083490036, u'switch', 0.046698131]
+[u'pier', 0.50549465, u'suspension_bridge', 0.29080153, u'crane', 0.13492867]
+[u'magnetic_compass', 0.75995004, u'barometer', 0.19803657, u'wall_clock', 0.015070879]
+[u'digital_clock', 0.21164186, u'oxygen_mask', 0.087478623, u'stopwatch', 0.068784073]
+[u'dock', 0.30957523, u'gondola', 0.17206401, u'palace', 0.16686337]
+[u'web_site', 0.24895005, u'spotlight', 0.05529467, u'bannister', 0.038873225]
+[u'digital_watch', 0.25572988, u'digital_clock', 0.21198367, u'analog_clock', 0.15655489]
+[u'screwdriver', 0.24306796, u'ski', 0.18686445, u"carpenter's_kit", 0.098740727]

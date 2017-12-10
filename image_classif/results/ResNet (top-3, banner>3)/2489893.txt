@@ -1,0 +1,8 @@
+[u'cliff', 0.3609741, u'seashore', 0.1601008, u'alp', 0.074591555]
+[u'crate', 0.64562398, u'forklift', 0.22882579, u'worm_fence', 0.042375449]
+[u'barn', 0.23894885, u'bison', 0.12796354, u'lakeside', 0.087834813]
+[u'church', 0.54078466, u'triumphal_arch', 0.05054697, u'assault_rifle', 0.038088687]
+[u'hen-of-the-woods', 0.38285863, u'gyromitra', 0.16594665, u'mushroom', 0.029865138]
+[u'bison', 0.14276005, u'coyote', 0.072837003, u'hay', 0.070313036]
+[u'lakeside', 0.63238388, u'sandbar', 0.11846478, u'valley', 0.090686589]
+[u'window_shade', 0.53678888, u'window_screen', 0.22194636, u'theater_curtain', 0.10239305]

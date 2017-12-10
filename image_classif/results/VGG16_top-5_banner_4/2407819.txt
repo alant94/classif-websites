@@ -1,0 +1,2 @@
+[u'artichoke', 0.37146088, u'ear', 0.20178171, u'macaw', 0.059821676, u'corn', 0.047484681, u'head_cabbage', 0.026128374]
+[u'picket_fence', 0.2521345, u'megalith', 0.14058031, u'cliff', 0.064457238, u'barn', 0.063434109, u'viaduct', 0.054254521]

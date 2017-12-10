@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.30450192, u'envelope', 0.13105917, u'web_site', 0.056847338, u'rubber_eraser', 0.054525662, u'digital_clock', 0.023814511]
+[u'web_site', 0.095907837, u'book_jacket', 0.048932873, u'street_sign', 0.040036023, u'comic_book', 0.034397379, u'scoreboard', 0.020186245]
+[u'envelope', 0.058929209, u'web_site', 0.03351672, u'hook', 0.028792351, u'nail', 0.022854172, u'mortarboard', 0.022602469]
+[u'web_site', 0.21041286, u'envelope', 0.16238603, u'hook', 0.019682704, u'whistle', 0.015322788, u'Band_Aid', 0.012232007]

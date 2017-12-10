@@ -1,0 +1,4 @@
+[u'racket', 0.19081338, u'bubble', 0.16749187, u'tennis_ball', 0.057232659, u'croquet_ball', 0.047505088, u'chain_saw', 0.038206391]
+[u'library', 0.32103172, u'restaurant', 0.2653605, u'shoe_shop', 0.17919061, u'prison', 0.024993546, u'stage', 0.019278884]
+[u'marimba', 0.096185073, u'stage', 0.060112488, u'restaurant', 0.048263203, u'wig', 0.04624467, u'groom', 0.028176574]
+[u'shoe_shop', 0.37918901, u'butcher_shop', 0.095033869, u'vestment', 0.092408426, u'wardrobe', 0.047734879, u'stole', 0.033965379]

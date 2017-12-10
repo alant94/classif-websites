@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.25865743, u'bookcase', 0.13113616, u'medicine_chest', 0.087946579, u'beer_bottle', 0.066753522, u'thimble', 0.029901436]
+[u'whistle', 0.36565539, u'safety_pin', 0.13381772, u'ballpoint', 0.093850411, u'hook', 0.06288261, u'screwdriver', 0.050597608]
+[u'screwdriver', 0.1294277, u'syringe', 0.10564952, u"carpenter's_kit", 0.08994209, u'rubber_eraser', 0.089582041, u'safety_pin', 0.068193004]
+[u'screen', 0.46738487, u'monitor', 0.14808801, u'television', 0.11718268, u'home_theater', 0.089203842, u'desktop_computer', 0.049823917]
+[u'lipstick', 0.17089112, u'oxygen_mask', 0.15054145, u'cocktail_shaker', 0.066531904, u'perfume', 0.055115554, u'syringe', 0.045217857]

@@ -1,0 +1,5 @@
+[u'plate', 0.33086139, u'red_wine', 0.15213346, u'corkscrew', 0.056524925]
+[u'hook', 0.17983757, u'pole', 0.13955964, u'knot', 0.086921401]
+[u'espresso', 0.99970418, u'cup', 0.0001953715, u'coffee_mug', 7.1742907e-05]
+[u'notebook', 0.77208364, u'laptop', 0.11603282, u'computer_keyboard', 0.022953594]
+[u'envelope', 0.34566879, u'theater_curtain', 0.19391075, u'book_jacket', 0.077225626]

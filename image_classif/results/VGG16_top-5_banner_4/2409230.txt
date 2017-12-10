@@ -1,0 +1,1 @@
+[u'megalith', 0.34459102, u'African_elephant', 0.23493128, u'tusker', 0.1976939, u'Indian_elephant', 0.13088858, u'ice_bear', 0.011996403]

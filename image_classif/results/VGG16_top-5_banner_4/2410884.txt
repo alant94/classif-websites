@@ -1,0 +1,3 @@
+[u'screen', 0.49695274, u'monitor', 0.34867558, u'jigsaw_puzzle', 0.086337015, u'tray', 0.012838678, u'desktop_computer', 0.010325145]
+[u'jigsaw_puzzle', 0.33818519, u'prayer_rug', 0.040894799, u'envelope', 0.03963533, u'lampshade', 0.036032908, u'panpipe', 0.034234297]
+[u'wallet', 0.83789879, u'pillow', 0.10133313, u'purse', 0.03761743, u'handkerchief', 0.0087199006, u'prayer_rug', 0.0045767571]

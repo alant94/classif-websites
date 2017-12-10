@@ -1,0 +1,6 @@
+[u'wig', 0.26457912, u'book_jacket', 0.11109168, u'bow_tie', 0.07233905, u'feather_boa', 0.049601465, u'prison', 0.035142884]
+[u'prison', 0.309167, u'mask', 0.11304421, u'wig', 0.11128578, u'window_screen', 0.096362926, u'window_shade', 0.093240447]
+[u'Windsor_tie', 0.26563954, u'suit', 0.19526826, u'bow_tie', 0.16478683, u'oboe', 0.062142503, u'wig', 0.052439086]
+[u'wig', 0.5578891, u'shower_cap', 0.065203317, u'bow_tie', 0.020644771, u'television', 0.01674602, u'book_jacket', 0.01608002]
+[u'bow_tie', 0.19396028, u'Windsor_tie', 0.093225181, u'groom', 0.080055177, u'prison', 0.057841044, u'television', 0.045635905]
+[u'wig', 0.83278662, u'bow_tie', 0.052452236, u'feather_boa', 0.012944193, u'hair_spray', 0.0093839876, u'suit', 0.0070044212]

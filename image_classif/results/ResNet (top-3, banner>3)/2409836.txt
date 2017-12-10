@@ -1,0 +1,4 @@
+[u'loupe', 0.10264872, u'digital_watch', 0.096343413, u'spotlight', 0.090344831]
+[u"jack-o'-lantern", 0.41435283, u'spotlight', 0.057284363, u'pill_bottle', 0.045625977]
+[u'container_ship', 0.21233265, u'shield', 0.10994137, u'analog_clock', 0.083863504]
+[u'mailbag', 0.19480176, u'cradle', 0.10551391, u'purse', 0.083715223]

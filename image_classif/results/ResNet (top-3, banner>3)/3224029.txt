@@ -1,0 +1,1 @@
+[u'shopping_cart', 0.94954425, u'shopping_basket', 0.0086673852, u'grocery_store', 0.0063750111]

@@ -1,0 +1,4 @@
+[u'web_site', 0.21537051, u'jersey', 0.050651375, u'envelope', 0.044193603, u'comic_book', 0.033218712, u'menu', 0.033042662]
+[u'tobacco_shop', 0.072459608, u'Windsor_tie', 0.070319861, u'cleaver', 0.039835386, u'suit', 0.037941396, u'chain_mail', 0.034817081]
+[u'comic_book', 0.8678422, u'book_jacket', 0.051927611, u'suit', 0.010955993, u'mask', 0.0061348896, u'bow_tie', 0.0057358593]
+[u'bow_tie', 0.42881176, u'Windsor_tie', 0.32926461, u'suit', 0.12612911, u'seat_belt', 0.010999094, u'groom', 0.00780795]

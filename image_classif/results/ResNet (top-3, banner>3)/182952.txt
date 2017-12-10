@@ -1,0 +1,7 @@
+[u'alp', 0.55584913, u'rapeseed', 0.10563106, u'lakeside', 0.088437945]
+[u'menu', 0.89149767, u'comic_book', 0.051117297, u'carton', 0.012251986]
+[u'comic_book', 0.29342628, u'menu', 0.15031908, u'stopwatch', 0.074153565]
+[u'web_site', 0.37091348, u'envelope', 0.096993595, u'sunscreen', 0.047018226]
+[u'web_site', 0.32373923, u'comic_book', 0.12732942, u'cinema', 0.043614049]
+[u'stupa', 0.78430921, u'space_shuttle', 0.065234713, u'throne', 0.034876589]
+[u'tobacco_shop', 0.37002444, u'doormat', 0.054237604, u'pick', 0.031698246]

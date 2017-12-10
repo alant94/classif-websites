@@ -1,0 +1,6 @@
+[u'suit', 0.79753309, u'Windsor_tie', 0.1754168, u'groom', 0.0082772216, u'bow_tie', 0.0070017916, u'oboe', 0.0043558776]
+[u'burrito', 0.254646, u'dough', 0.10093218, u'gyromitra', 0.054527242, u'nail', 0.042903006, u'sea_cucumber', 0.037638206]
+[u'red_wine', 0.031926014, u'water_bottle', 0.031781264, u'hair_spray', 0.030758908, u'web_site', 0.023521062, u'wine_bottle', 0.020100258]
+[u'sarong', 0.21846041, u'kimono', 0.11615287, u'feather_boa', 0.088810347, u'stage', 0.05991064, u'maillot', 0.041253172]
+[u'pinwheel', 0.3681761, u'hummingbird', 0.19320129, u'daisy', 0.092087045, u'dragonfly', 0.039462537, u'cabbage_butterfly', 0.033965345]
+[u'suit', 0.90901619, u'Windsor_tie', 0.039037116, u'trench_coat', 0.0071859048, u'academic_gown', 0.0052970434, u'oboe', 0.0048223278]

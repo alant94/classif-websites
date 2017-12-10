@@ -1,0 +1,2 @@
+[u'comic_book', 0.95651603, u'toyshop', 0.0079090791, u'slot', 0.0054557426]
+[u'Windsor_tie', 0.30432281, u'prayer_rug', 0.16034682, u'maze', 0.093217179]

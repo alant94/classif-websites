@@ -1,0 +1,3 @@
+[u'web_site', 0.45411518, u'book_jacket', 0.26203009, u'menu', 0.09988267, u'packet', 0.064384386, u'comic_book', 0.018307354]
+[u'tobacco_shop', 0.84407371, u'bookshop', 0.048998002, u'vending_machine', 0.022111831, u'cash_machine', 0.019382533, u'confectionery', 0.01443063]
+[u'envelope', 0.19866483, u'book_jacket', 0.13051273, u'handkerchief', 0.041901007, u'packet', 0.033468228, u'swab', 0.030605204]

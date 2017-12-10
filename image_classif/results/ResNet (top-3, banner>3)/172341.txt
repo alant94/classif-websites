@@ -1,0 +1,2 @@
+[u'digital_clock', 0.16671817, u'web_site', 0.13833772, u'analog_clock', 0.088513248]
+[u'web_site', 0.22213134, u'Band_Aid', 0.090472624, u'candle', 0.056862336]

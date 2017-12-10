@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.49879062, u'prayer_rug', 0.058474358, u'web_site', 0.048829112]
+[u'book_jacket', 0.54453284, u'packet', 0.10428999, u'doormat', 0.10410248]

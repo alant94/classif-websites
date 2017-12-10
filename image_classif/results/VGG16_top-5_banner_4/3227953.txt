@@ -1,0 +1,5 @@
+[u'digital_clock', 0.091463782, u'jersey', 0.061091013, u'envelope', 0.044430122, u'wall_clock', 0.040402979, u'beacon', 0.037873589]
+[u'digital_clock', 0.25752956, u'binder', 0.14604709, u'jersey', 0.13247108, u'envelope', 0.041842334, u'digital_watch', 0.031282648]
+[u'screw', 0.064859867, u'web_site', 0.034765046, u'nail', 0.033234086, u'envelope', 0.029676849, u'hand_blower', 0.027461261]
+[u'whistle', 0.39099595, u'screw', 0.18144286, u'spotlight', 0.037375081, u'hook', 0.033795793, u'nail', 0.018479384]
+[u'crane', 0.13509677, u'balloon', 0.12060224, u'traffic_light', 0.10025413, u'container_ship', 0.085830852, u'airship', 0.077983826]

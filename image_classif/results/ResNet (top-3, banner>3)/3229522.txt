@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.26556754, u'menu', 0.23236625, u'coffeepot', 0.060964957]
+[u'comic_book', 0.10329613, u'book_jacket', 0.060625978, u'sunglass', 0.031780891]
+[u'brassiere', 0.5201388, u'sunglass', 0.08968737, u'bathing_cap', 0.055009034]
+[u'barn', 0.13628802, u'picket_fence', 0.12361069, u'lakeside', 0.11239403]
+[u'web_site', 0.45472163, u'menu', 0.43223235, u'envelope', 0.021831591]
+[u'alp', 0.46743795, u'snowmobile', 0.33138475, u'boathouse', 0.063120857]

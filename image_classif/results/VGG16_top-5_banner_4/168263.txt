@@ -1,0 +1,5 @@
+[u'fountain', 0.26424873, u'nail', 0.16859581, u'barn', 0.12624268, u'picket_fence', 0.062861316, u'shovel', 0.061439056]
+[u'picket_fence', 0.46192974, u'book_jacket', 0.075113356, u'abaya', 0.066298276, u'suit', 0.051816605, u'ski', 0.038765993]
+[u'web_site', 0.34212741, u'book_jacket', 0.28855029, u'scoreboard', 0.12829056, u'bookshop', 0.044100974, u'tobacco_shop', 0.018791623]
+[u'iPod', 0.35477397, u'lighter', 0.045159757, u'street_sign', 0.034532815, u'soap_dispenser', 0.029829312, u'switch', 0.026460078]
+[u'container_ship', 0.16951337, u'aircraft_carrier', 0.10693705, u'dock', 0.0696235, u'fireboat', 0.058201496, u'missile', 0.035738472]

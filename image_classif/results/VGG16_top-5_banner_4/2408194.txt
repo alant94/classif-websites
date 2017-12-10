@@ -1,0 +1,3 @@
+[u'bow', 0.5823679, u'paddle', 0.14225434, u'croquet_ball', 0.036945205, u'swab', 0.024861727, u'shovel', 0.02011746]
+[u'throne', 0.20165648, u'cinema', 0.14824459, u'bell_cote', 0.10424443, u'stupa', 0.097869195, u'mosque', 0.050441291]
+[u'sunscreen', 0.091934592, u'face_powder', 0.084328048, u'tennis_ball', 0.072538875, u'puck', 0.056603242, u'pill_bottle', 0.056490183]

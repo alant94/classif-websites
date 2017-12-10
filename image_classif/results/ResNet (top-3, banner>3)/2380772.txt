@@ -1,0 +1,2 @@
+[u'comic_book', 0.63796157, u'book_jacket', 0.22881246, u'Band_Aid', 0.083103143]
+[u'comic_book', 0.82285368, u'book_jacket', 0.051977441, u'oil_filter', 0.028155081]

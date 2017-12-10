@@ -1,0 +1,8 @@
+[u'bikini', 0.22115885, u'swimming_trunks', 0.12370597, u'stethoscope', 0.10963923, u'sarong', 0.074870817, u'maillot', 0.041410752]
+[u'cinema', 0.28320476, u'church', 0.14303802, u'picket_fence', 0.09525343, u'monastery', 0.043818541, u'palace', 0.039982192]
+[u'crossword_puzzle', 0.10150504, u'shower_curtain', 0.042391915, u'cash_machine', 0.039786905, u'digital_clock', 0.038574342, u'scoreboard', 0.025835015]
+[u'perfume', 0.52538341, u'bathtub', 0.045377847, u'lighter', 0.036689531, u'lotion', 0.021595987, u'tub', 0.017777644]
+[u'maillot', 0.3540678, u'bikini', 0.14096287, u'maillot', 0.12226633, u'bathing_cap', 0.065072782, u'pole', 0.04210829]
+[u'candle', 0.19187395, u'perfume', 0.13236557, u'dining_table', 0.078875236, u'table_lamp', 0.06574937, u'throne', 0.048540987]
+[u'swimming_trunks', 0.16685665, u'brassiere', 0.14687124, u'diaper', 0.12254138, u'bath_towel', 0.079490311, u'sarong', 0.079021163]
+[u'pick', 0.16086634, u'screw', 0.13240065, u'lens_cap', 0.093645401, u'car_wheel', 0.081289567, u'spotlight', 0.049148984]

@@ -1,0 +1,6 @@
+[u'barn', 0.83308029, u'worm_fence', 0.024955455, u'valley', 0.022643354, u'lakeside', 0.016506776, u'mountain_tent', 0.012667257]
+[u'wine_bottle', 0.86376798, u'red_wine', 0.13505305, u'hamper', 0.00066855911, u'beer_bottle', 0.00024334724, u'corkscrew', 8.9841466e-05]
+[u'handkerchief', 0.3918274, u'envelope', 0.1773147, u'menu', 0.17516337, u'packet', 0.10587662, u'tray', 0.021909427]
+[u'red_wine', 0.5885644, u'wine_bottle', 0.33948335, u'beer_bottle', 0.03882055, u'chocolate_sauce', 0.0098100659, u'corkscrew', 0.0074381568]
+[u'rapeseed', 0.14362632, u'swing', 0.078997187, u'buckeye', 0.069956839, u'cucumber', 0.053433515, u'lemon', 0.048546284]
+[u'street_sign', 0.13022524, u'book_jacket', 0.1146871, u'picket_fence', 0.080899224, u'comic_book', 0.032511368, u'jersey', 0.018365147]

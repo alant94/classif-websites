@@ -1,0 +1,5 @@
+[u'tripod', 0.18609709, u'switch', 0.12226714, u'binoculars', 0.067536563]
+[u'tray', 0.22556032, u'comic_book', 0.1327723, u'Band_Aid', 0.12223989]
+[u'swab', 0.31820539, u'shovel', 0.22549534, u'broom', 0.14228731]
+[u'wardrobe', 0.79146427, u'butcher_shop', 0.17626472, u'cowboy_boot', 0.007992343]
+[u'jinrikisha', 0.21714757, u'football_helmet', 0.13496727, u'crash_helmet', 0.099194661]

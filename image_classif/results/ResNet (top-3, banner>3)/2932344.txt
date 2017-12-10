@@ -1,0 +1,2 @@
+[u'web_site', 0.18352848, u'book_jacket', 0.042465825, u'comic_book', 0.027848216]
+[u'envelope', 0.37616625, u'binder', 0.10557965, u'jersey', 0.054461092]

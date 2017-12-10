@@ -1,0 +1,5 @@
+[u'nematode', 0.18317872, u'stopwatch', 0.15236735, u'analog_clock', 0.13233109]
+[u'digital_clock', 0.91943121, u'digital_watch', 0.032703217, u'analog_clock', 0.025027959]
+[u'gown', 0.48641658, u'brassiere', 0.15344419, u'groom', 0.072554171]
+[u'screw', 0.19670221, u'coil', 0.12660603, u'panpipe', 0.10233907]
+[u'barber_chair', 0.65874779, u'barbershop', 0.10600902, u'restaurant', 0.064728826]

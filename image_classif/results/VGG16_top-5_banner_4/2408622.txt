@@ -1,0 +1,2 @@
+[u'convertible', 0.48910165, u'sports_car', 0.24938473, u'beach_wagon', 0.089389868, u'minivan', 0.046957899, u'car_wheel', 0.045638986]
+[u'Band_Aid', 0.19998695, u'envelope', 0.075097419, u'Windsor_tie', 0.049524181, u'web_site', 0.042453498, u'digital_clock', 0.025982393]

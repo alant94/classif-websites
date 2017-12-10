@@ -1,0 +1,7 @@
+[u'pill_bottle', 0.18642452, u'pop_bottle', 0.14773661, u'water_bottle', 0.10969067, u'coffee_mug', 0.098432384, u'bottlecap', 0.081124634]
+[u'envelope', 0.25253811, u'binder', 0.21949472, u'tray', 0.093526483, u'shoji', 0.059179224, u'book_jacket', 0.056164581]
+[u'shoji', 0.78916293, u'sliding_door', 0.089258879, u'window_screen', 0.076789744, u'china_cabinet', 0.014109464, u'window_shade', 0.010396892]
+[u'envelope', 0.21704675, u'birdhouse', 0.11248554, u'book_jacket', 0.039915029, u'carton', 0.03273068, u'matchstick', 0.027885666]
+[u'washbasin', 0.34515685, u'medicine_chest', 0.17727868, u'wardrobe', 0.086477287, u'shower_curtain', 0.069694243, u'sliding_door', 0.064473487]
+[u'chime', 0.51534772, u'bow', 0.067428157, u'bolo_tie', 0.046294991, u'ocarina', 0.045068778, u'wall_clock', 0.040320367]
+[u'binder', 0.19173203, u'wardrobe', 0.14526594, u'sliding_door', 0.13847579, u'cinema', 0.094537891, u'refrigerator', 0.053906407]

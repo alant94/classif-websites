@@ -1,0 +1,3 @@
+[u'packet', 0.18532124, u'cinema', 0.13801542, u'brass', 0.078917913, u'scoreboard', 0.075635865, u'envelope', 0.060594827]
+[u'goose', 0.72019345, u'spoonbill', 0.062394779, u'white_stork', 0.058025036, u'hen', 0.041032664, u'flamingo', 0.039542399]
+[u'patio', 0.17640407, u'cinema', 0.10244732, u'restaurant', 0.087556213, u'turnstile', 0.030618012, u'pier', 0.028268103]

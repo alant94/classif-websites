@@ -1,0 +1,4 @@
+[u'diaper', 0.75545776, u'dough', 0.036713317, u'Band_Aid', 0.023128405, u'swimming_trunks', 0.022655314, u'butternut_squash', 0.011864289]
+[u'bikini', 0.13631278, u'diaper', 0.11849974, u'maillot', 0.10636409, u'butternut_squash', 0.094106831, u'bath_towel', 0.048575133]
+[u'swimming_trunks', 0.75408226, u'diaper', 0.032673754, u'tub', 0.02711362, u'sarong', 0.019610843, u'bathtub', 0.018255562]
+[u'bikini', 0.12329981, u'bathing_cap', 0.11349479, u'dumbbell', 0.11335796, u'brassiere', 0.09284915, u'maillot', 0.054088645]

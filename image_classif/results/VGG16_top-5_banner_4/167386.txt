@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.52089173, u'mosquito_net', 0.19431528, u'spider_web', 0.084200777, u'jellyfish', 0.067671999, u'matchstick', 0.028638227]
+[u'web_site', 0.69754076, u'television', 0.14145502, u'monitor', 0.052109413, u'screen', 0.023093758, u'analog_clock', 0.007993333]

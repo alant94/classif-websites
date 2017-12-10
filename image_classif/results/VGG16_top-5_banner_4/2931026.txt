@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.93953317, u'theater_curtain', 0.0086728772, u'bookshop', 0.0058898721, u'window_shade', 0.0027358311, u'medicine_chest', 0.0026812619]
+[u'shower_curtain', 0.35819766, u'vestment', 0.20249596, u'pajama', 0.059773501, u'library', 0.035617203, u'lab_coat', 0.02769986]
+[u'shower_curtain', 0.50238961, u'window_shade', 0.080944508, u'prison', 0.025190933, u'picket_fence', 0.021927869, u'window_screen', 0.016094346]
+[u'necklace', 0.097265355, u'safety_pin', 0.092268191, u'syringe', 0.034955572, u'matchstick', 0.034559745, u'centipede', 0.031726088]

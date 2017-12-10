@@ -1,0 +1,2 @@
+[u'book_jacket', 0.23028171, u'binder', 0.098517738, u'screen', 0.097600721]
+[u'planetarium', 0.2326556, u'knee_pad', 0.089036822, u'spotlight', 0.065993994]

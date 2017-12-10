@@ -1,0 +1,2 @@
+[u'seat_belt', 0.21580954, u'military_uniform', 0.047758929, u'lab_coat', 0.046100456, u'Windsor_tie', 0.035482217, u'suit', 0.033555083]
+[u'scuba_diver', 0.042893548, u'jellyfish', 0.038796835, u'sea_lion', 0.014958621, u'electric_ray', 0.014525355, u'sea_snake', 0.013808189]

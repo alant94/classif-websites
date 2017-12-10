@@ -1,0 +1,2 @@
+[u'wig', 0.21435885, u'feather_boa', 0.10773081, u'neck_brace', 0.095686808, u'bow_tie', 0.056743082, u'accordion', 0.035227589]
+[u'digital_clock', 0.22539237, u'analog_clock', 0.12794317, u'wall_clock', 0.04120779, u'scoreboard', 0.031352151, u'digital_watch', 0.031303242]

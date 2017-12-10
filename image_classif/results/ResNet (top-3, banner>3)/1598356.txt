@@ -1,0 +1,5 @@
+[u'hog', 0.350162, u'stretcher', 0.15052454, u'barbell', 0.088024549]
+[u'comic_book', 0.20987917, u'altar', 0.099565424, u'theater_curtain', 0.094110623]
+[u'swimming_trunks', 0.2645413, u'bathing_cap', 0.24168351, u'fur_coat', 0.10358816]
+[u'swimming_trunks', 0.30304241, u'bathing_cap', 0.087680615, u'fur_coat', 0.036031306]
+[u'torch', 0.49739221, u'pole', 0.10277747, u'chain', 0.039588246]

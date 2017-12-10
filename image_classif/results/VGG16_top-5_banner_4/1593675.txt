@@ -1,0 +1,3 @@
+[u'cash_machine', 0.11564713, u'street_sign', 0.046979256, u'modem', 0.044195704, u'binder', 0.043152299, u'screen', 0.041312426]
+[u'envelope', 0.19521031, u'web_site', 0.18376651, u'packet', 0.076079264, u'Band_Aid', 0.05194651, u'pick', 0.037731387]
+[u'television', 0.11500105, u'iPod', 0.091564149, u'soap_dispenser', 0.071481407, u'monitor', 0.070326358, u'car_mirror', 0.06506601]

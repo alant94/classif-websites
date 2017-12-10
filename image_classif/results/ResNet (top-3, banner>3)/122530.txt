@@ -1,0 +1,3 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hook', 0.28367501, u'hair_slide', 0.10513308, u'nematode', 0.078924477]

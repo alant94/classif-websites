@@ -1,0 +1,6 @@
+[u'tusker', 0.10673709, u'chimpanzee', 0.092601657, u'German_short-haired_pointer', 0.067387745, u'Indian_elephant', 0.062246107, u'vizsla', 0.035126109]
+[u'laptop', 0.12128077, u'monitor', 0.099004515, u'desktop_computer', 0.086731605, u'screen', 0.077424146, u'notebook', 0.066670626]
+[u'Loafer', 0.054921649, u'jean', 0.045314644, u'suit', 0.039417587, u'croquet_ball', 0.033657372, u'sundial', 0.028050832]
+[u'acorn', 0.16457917, u'conch', 0.087984867, u'vase', 0.076305754, u'mask', 0.053917363, u'wooden_spoon', 0.045972373]
+[u'web_site', 0.71510881, u'envelope', 0.052999847, u'jersey', 0.050420683, u'whistle', 0.015917417, u'analog_clock', 0.0089062359]
+[u'restaurant', 0.38018405, u'dining_table', 0.11320287, u'barbershop', 0.049526319, u'barber_chair', 0.043681655, u'sliding_door', 0.028156383]

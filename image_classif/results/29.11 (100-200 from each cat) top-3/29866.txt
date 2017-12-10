@@ -1,0 +1,2 @@
+[u'plate', 0.27413559, u'chocolate_sauce', 0.24839626, u'mashed_potato', 0.071870051]
+[u'hourglass', 0.32889923, u'shower_curtain', 0.14173733, u'balloon', 0.11367245]

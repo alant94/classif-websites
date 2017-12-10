@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.42431706, u'lab_coat', 0.37860483, u'groom', 0.073960409]
+[u'jellyfish', 0.5588848, u'iron', 0.044207525, u'plate_rack', 0.023222806]
+[u'lab_coat', 0.12998992, u'refrigerator', 0.062790535, u'shower_curtain', 0.045535464]
+[u'web_site', 0.10090628, u'envelope', 0.083502755, u'notebook', 0.043929506]
+[u'digital_clock', 0.95588881, u'digital_watch', 0.026256088, u'stopwatch', 0.0062193987]
+[u'dishrag', 0.59615898, u'mitten', 0.15780996, u'stole', 0.13949902]
+[u'envelope', 0.2108283, u'digital_clock', 0.066106081, u'web_site', 0.029360913]

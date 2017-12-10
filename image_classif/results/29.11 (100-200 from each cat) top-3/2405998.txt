@@ -1,0 +1,2 @@
+[u'bannister', 0.85541755, u'window_shade', 0.053040002, u'barn', 0.021001136]
+[u'web_site', 0.17526712, u'chain_saw', 0.017178979, u'oil_filter', 0.015832214]

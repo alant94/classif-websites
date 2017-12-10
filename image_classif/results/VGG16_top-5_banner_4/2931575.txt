@@ -1,0 +1,8 @@
+[u'television', 0.26439366, u'window_screen', 0.15122475, u'prison', 0.059635919, u'monitor', 0.055687975, u'window_shade', 0.044931665]
+[u'medicine_chest', 0.40601236, u'bookcase', 0.14005342, u'pay-phone', 0.13027737, u'sliding_door', 0.091650911, u'wardrobe', 0.029818498]
+[u'television', 0.24702217, u'notebook', 0.1426416, u'screen', 0.11417937, u'monitor', 0.10926943, u'web_site', 0.086185046]
+[u'lab_coat', 0.74327016, u'wardrobe', 0.095736004, u'handkerchief', 0.031162638, u'shower_curtain', 0.018844167, u'vestment', 0.017377138]
+[u'pay-phone', 0.17328702, u'wardrobe', 0.10183478, u'sliding_door', 0.088932529, u'medicine_chest', 0.049511459, u'window_shade', 0.041594397]
+[u'television', 0.065288529, u'monitor', 0.061497185, u'bookcase', 0.047753379, u'comic_book', 0.045770943, u'wardrobe', 0.0441068]
+[u'hook', 0.25848785, u'letter_opener', 0.1374784, u'nail', 0.077584893, u'hatchet', 0.067771107, u'ballpoint', 0.056455463]
+[u'web_site', 0.28456834, u'Windsor_tie', 0.076643646, u'lipstick', 0.056839708, u'Band_Aid', 0.037386667, u'abaya', 0.032242771]

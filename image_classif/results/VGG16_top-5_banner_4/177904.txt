@@ -1,0 +1,1 @@
+[u'balloon', 0.19619219, u'spotlight', 0.13348635, u'croquet_ball', 0.089858286, u'punching_bag', 0.055153828, u'rugby_ball', 0.053022914]

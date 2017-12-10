@@ -1,0 +1,1 @@
+[u'web_site', 0.30151132, u'stopwatch', 0.1093652, u'street_sign', 0.091485158, u'analog_clock', 0.061182298, u'digital_clock', 0.058928959]

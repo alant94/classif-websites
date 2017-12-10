@@ -1,0 +1,2 @@
+[u'coho', 0.71285564, u'scoreboard', 0.075763449, u'gar', 0.072016127]
+[u'cassette', 0.16128221, u'cinema', 0.068367913, u'toilet_seat', 0.051771626]

@@ -1,0 +1,2 @@
+[u'necklace', 0.79943538, u'chain', 0.10051537, u'sombrero', 0.018913494, u'pick', 0.014042749, u'chain_mail', 0.0082145622]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

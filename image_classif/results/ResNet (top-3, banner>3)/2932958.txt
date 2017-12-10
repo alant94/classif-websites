@@ -1,0 +1,5 @@
+[u'head_cabbage', 0.11349326, u'barrow', 0.065446034, u'cowboy_hat', 0.052362192]
+[u'balance_beam', 0.25034124, u'pole', 0.080394089, u'swing', 0.055590175]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'bikini', 0.2456159, u'maillot', 0.10280956, u'sarong', 0.084515303]
+[u'ski', 0.092546009, u'coho', 0.07710807, u'alp', 0.068447784]

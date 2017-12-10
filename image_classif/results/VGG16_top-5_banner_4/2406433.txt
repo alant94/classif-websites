@@ -1,0 +1,5 @@
+[u'pirate', 0.22239374, u'dock', 0.12229048, u'wreck', 0.098588981, u'submarine', 0.054364182, u'amphibian', 0.038819309]
+[u'wing', 0.47777694, u'warplane', 0.34027892, u'missile', 0.070485272, u'airliner', 0.04371658, u'projectile', 0.032889798]
+[u'airship', 0.30550116, u'warplane', 0.1489976, u'parachute', 0.13169499, u'thresher', 0.054038752, u'wreck', 0.053221766]
+[u'thresher', 0.27550167, u'warplane', 0.18183969, u'wing', 0.17517096, u'harvester', 0.050596189, u'stretcher', 0.048868123]
+[u'lab_coat', 0.78793681, u'Windsor_tie', 0.11112373, u'stethoscope', 0.032717895, u'suit', 0.03030231, u'vestment', 0.016823221]

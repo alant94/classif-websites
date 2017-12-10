@@ -1,0 +1,1 @@
+[u'stone_wall', 0.10638925, u'mailbox', 0.077036485, u'park_bench', 0.07394737, u'ashcan', 0.065504804, u'birdhouse', 0.050874397]

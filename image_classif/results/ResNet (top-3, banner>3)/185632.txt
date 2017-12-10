@@ -1,0 +1,2 @@
+[u'wig', 0.14056543, u'stole', 0.10810599, u'necklace', 0.071015991]
+[u'digital_clock', 0.97610658, u'digital_watch', 0.02040223, u'analog_clock', 0.001575305]

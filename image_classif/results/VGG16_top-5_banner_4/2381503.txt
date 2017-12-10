@@ -1,0 +1,5 @@
+[u'safe', 0.30212557, u'microwave', 0.25609565, u'monitor', 0.041615687, u'television', 0.034473281, u'sliding_door', 0.022167828]
+[u'jellyfish', 0.091916129, u'matchstick', 0.065932609, u'nematode', 0.036213461, u'jersey', 0.031510126, u'starfish', 0.02977844]
+[u'shovel', 0.15374386, u'corn', 0.12857191, u'banana', 0.12227582, u'chain', 0.11611296, u'ear', 0.1072592]
+[u'digital_clock', 0.13379186, u'street_sign', 0.10870243, u'book_jacket', 0.065093301, u'scoreboard', 0.063949257, u'packet', 0.05441675]
+[u'bell_cote', 0.089672036, u'street_sign', 0.067878023, u'analog_clock', 0.052503917, u'traffic_light', 0.052152671, u'beacon', 0.044108119]

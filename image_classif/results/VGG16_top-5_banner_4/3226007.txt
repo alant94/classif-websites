@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.12460281, u'wall_clock', 0.099450268, u'envelope', 0.079483047, u'book_jacket', 0.045529287, u'digital_clock', 0.037764005]
+[u'academic_gown', 0.64766461, u'mortarboard', 0.11068606, u'cloak', 0.10468888, u'vestment', 0.042060845, u'suit', 0.038694829]
+[u'wall_clock', 0.073551655, u'digital_clock', 0.062196553, u'traffic_light', 0.036743086, u'window_shade', 0.028167037, u'cash_machine', 0.025049953]
+[u'go-kart', 0.084498562, u'tricycle', 0.080732316, u'laptop', 0.05061293, u'stretcher', 0.049053814, u'forklift', 0.039730087]

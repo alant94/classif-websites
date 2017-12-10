@@ -1,0 +1,4 @@
+[u'buckle', 0.79189777, u'lighter', 0.094141088, u'brass', 0.038478784]
+[u'revolver', 0.68125886, u'can_opener', 0.083549812, u'holster', 0.069120057]
+[u'revolver', 0.99939632, u'holster', 0.00027580693, u'rifle', 0.00012090411]
+[u'revolver', 0.99965501, u'holster', 0.00032856979, u'rifle', 1.3554015e-05]

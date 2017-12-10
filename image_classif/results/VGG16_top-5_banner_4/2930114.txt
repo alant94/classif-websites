@@ -1,0 +1,2 @@
+[u'starfish', 0.070562229, u'Christmas_stocking', 0.030274751, u'lampshade', 0.024813673, u'cowboy_hat', 0.015607554, u'feather_boa', 0.015523483]
+[u'corkscrew', 0.13086624, u'can_opener', 0.11053029, u'whistle', 0.062707491, u'hammer', 0.05232868, u'nail', 0.051157691]

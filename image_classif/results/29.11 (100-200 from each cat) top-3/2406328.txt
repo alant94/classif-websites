@@ -1,0 +1,4 @@
+[u'envelope', 0.17224744, u'perfume', 0.040434647, u'refrigerator', 0.034015633]
+[u'envelope', 0.1119624, u'web_site', 0.10747375, u'face_powder', 0.067330062]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'book_jacket', 0.13702759, u'nail', 0.059232909, u'web_site', 0.055016585]

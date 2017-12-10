@@ -1,0 +1,5 @@
+[u'dining_table', 0.11696355, u'laptop', 0.092450105, u'desk', 0.080898918, u'printer', 0.055408176, u'notebook', 0.053687777]
+[u'web_site', 0.12625131, u'screwdriver', 0.094993882, u"carpenter's_kit", 0.054851789, u'nail', 0.047392603, u'letter_opener', 0.045358177]
+[u'digital_clock', 0.29794899, u'stopwatch', 0.17843002, u'puck', 0.10133018, u'combination_lock', 0.06453789, u'remote_control', 0.037371263]
+[u'television', 0.1652604, u'screen', 0.10200973, u'desktop_computer', 0.086426362, u'monitor', 0.068947211, u'oscilloscope', 0.055618692]
+[u'Band_Aid', 0.10676676, u'digital_clock', 0.06502863, u'sunscreen', 0.055823948, u'face_powder', 0.041869499, u'rubber_eraser', 0.033790886]

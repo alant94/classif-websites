@@ -1,0 +1,2 @@
+[u'shield', 0.30659327, u'pickelhaube', 0.24708024, u'cuirass', 0.17534505, u'breastplate', 0.03557146, u'bow', 0.033455804]
+[u'stretcher', 0.39955297, u'maypole', 0.37586755, u'unicycle', 0.033173628, u'pole', 0.031048162, u'paddle', 0.023435533]

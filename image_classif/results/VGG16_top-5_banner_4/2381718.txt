@@ -1,0 +1,7 @@
+[u'spotlight', 0.89320016, u'mouse', 0.033889979, u'toilet_seat', 0.017030457, u'pick', 0.011700709, u'remote_control', 0.007053575]
+[u'spatula', 0.066275217, u'cardigan', 0.058482513, u'cleaver', 0.050779365, u'bulletproof_vest', 0.046840254, u'bow_tie', 0.027785059]
+[u'digital_clock', 0.22173208, u'digital_watch', 0.1919343, u'cellular_telephone', 0.12536766, u'switch', 0.086501583, u'hand-held_computer', 0.061105732]
+[u'miniskirt', 0.138805, u'plunger', 0.059383631, u'shoe_shop', 0.033695392, u'hoopskirt', 0.032397155, u'punching_bag', 0.029603925]
+[u'magnetic_compass', 0.38315937, u'spotlight', 0.23750851, u'gong', 0.11277334, u'plate_rack', 0.040112253, u'electric_fan', 0.029136149]
+[u'spotlight', 0.89320016, u'mouse', 0.033889979, u'toilet_seat', 0.017030457, u'pick', 0.011700709, u'remote_control', 0.007053575]
+[u'book_jacket', 0.1525332, u'analog_clock', 0.10222188, u'web_site', 0.072536744, u'electric_guitar', 0.045576517, u'wall_clock', 0.030025002]

@@ -1,0 +1,2 @@
+[u'digital_clock', 0.48103911, u'scoreboard', 0.046373472, u'matchstick', 0.036750566, u'analog_clock', 0.030934639, u"jack-o'-lantern", 0.027957369]
+[u'web_site', 0.36745158, u'rule', 0.06632936, u'envelope', 0.052536588, u'packet', 0.020907508, u'moving_van', 0.015333855]

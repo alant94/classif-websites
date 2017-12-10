@@ -1,0 +1,1 @@
+[u'bakery', 0.096476138, u'table_lamp', 0.072500467, u'face_powder', 0.063639678, u'lampshade', 0.048601549, u'thimble', 0.047407851]

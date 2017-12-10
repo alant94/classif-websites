@@ -1,0 +1,5 @@
+[u'rule', 0.1795252, u'modem', 0.11921413, u'digital_clock', 0.10345273, u'envelope', 0.07353358, u'binder', 0.057062536]
+[u'hamper', 0.85091591, u'wine_bottle', 0.097186491, u'red_wine', 0.041695796, u'corkscrew', 0.0091252085, u'chocolate_sauce', 0.0003116483]
+[u'digital_clock', 0.17315985, u'Band_Aid', 0.15806445, u'street_sign', 0.087255694, u'scoreboard', 0.068243414, u'envelope', 0.026364446]
+[u'cellular_telephone', 0.38898075, u'iPod', 0.17902288, u'television', 0.06783624, u'tray', 0.054086655, u'hand-held_computer', 0.053497635]
+[u'pillow', 0.22798075, u'poncho', 0.067821406, u'quilt', 0.061710618, u'sock', 0.04666755, u'pencil_box', 0.042637277]

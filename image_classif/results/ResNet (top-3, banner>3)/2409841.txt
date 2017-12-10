@@ -1,0 +1,6 @@
+[u'whistle', 0.31451279, u'swab', 0.10288944, u'tennis_ball', 0.092386469]
+[u'cash_machine', 0.68873632, u'gas_pump', 0.088646717, u'jersey', 0.035946064]
+[u'bannister', 0.3275578, u'crate', 0.25911486, u'prison', 0.085285656]
+[u'window_screen', 0.36541471, u'hamper', 0.29338467, u'electric_fan', 0.028417071]
+[u'shoe_shop', 0.082962394, u'bow_tie', 0.059745625, u'window_shade', 0.053663358]
+[u'Band_Aid', 0.28576297, u'oil_filter', 0.11375975, u'street_sign', 0.0535907]

@@ -1,0 +1,1 @@
+[u'street_sign', 0.68384129, u'envelope', 0.055580556, u'web_site', 0.053761095]

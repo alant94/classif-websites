@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.92840397, u'bathing_cap', 0.015919005, u'sunscreen', 0.013168742, u'snorkel', 0.0063952468, u'tub', 0.0050640041]
+[u'swimming_trunks', 0.8138296, u'sarong', 0.047721907, u'gyromitra', 0.0086461138, u'gar', 0.0048993314, u'tub', 0.0048413379]

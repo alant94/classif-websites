@@ -1,0 +1,1 @@
+[u'flagpole', 0.065057762, u'parachute', 0.056766339, u'envelope', 0.042969849, u'digital_clock', 0.037759233, u'balloon', 0.026900297]

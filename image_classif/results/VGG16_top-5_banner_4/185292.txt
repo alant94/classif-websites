@@ -1,0 +1,3 @@
+[u'restaurant', 0.1343199, u'corn', 0.056236278, u'grocery_store', 0.055026662, u'plate', 0.048480365, u'altar', 0.039250243]
+[u'tricycle', 0.95618826, u'plow', 0.021062529, u'barbell', 0.0070934105, u'mousetrap', 0.004139618, u'thresher', 0.0022688685]
+[u'hair_slide', 0.27783149, u'hook', 0.13525493, u"carpenter's_kit", 0.13230358, u'screwdriver', 0.13068576, u'nail', 0.060152583]

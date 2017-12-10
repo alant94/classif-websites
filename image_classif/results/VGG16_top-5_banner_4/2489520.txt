@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.67473239, u'envelope', 0.091986634, u'carton', 0.029921157, u'Band_Aid', 0.028910283, u'rubber_eraser', 0.027806858]
+[u'ibex', 0.66010135, u'hartebeest', 0.10193294, u'bighorn', 0.081531502, u'impala', 0.041055731, u'wild_boar', 0.038308315]
+[u'wood_rabbit', 0.54970366, u'hare', 0.23385921, u'wallaby', 0.20950814, u'gazelle', 0.0039397087, u'ibex', 0.0022571282]
+[u'gazelle', 0.61909157, u'impala', 0.35983407, u'hartebeest', 0.0093557984, u'Great_Dane', 0.0048479368, u'Italian_greyhound', 0.0018245452]

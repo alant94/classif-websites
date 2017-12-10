@@ -1,0 +1,4 @@
+[u'restaurant', 0.7611357, u'patio', 0.13498865, u'grocery_store', 0.016521396]
+[u'barrel', 0.78911358, u'lumbermill', 0.041687217, u'drum', 0.010754766]
+[u'boathouse', 0.99285126, u'lakeside', 0.0064608897, u'beacon', 0.00015698156]
+[u'crutch', 0.11606144, u'worm_fence', 0.096787438, u'breakwater', 0.077785209]

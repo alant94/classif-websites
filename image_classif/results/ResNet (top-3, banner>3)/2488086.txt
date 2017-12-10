@@ -1,0 +1,7 @@
+[u'refrigerator', 0.11438335, u'wall_clock', 0.10117696, u'envelope', 0.077559642]
+[u'refrigerator', 0.079004511, u'dishwasher', 0.068748929, u'web_site', 0.031545013]
+[u'black_grouse', 0.84172332, u'ruddy_turnstone', 0.018062321, u'snowmobile', 0.014015462]
+[u'web_site', 0.16043478, u'jigsaw_puzzle', 0.07580141, u'window_screen', 0.066669434]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'missile', 0.1690449, u'church', 0.15149099, u'syringe', 0.072939761]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

@@ -1,0 +1,1 @@
+[u'torch', 0.32407701, u'mortarboard', 0.17775695, u'ballpoint', 0.099150486, u'candle', 0.07603357, u'academic_gown', 0.067899853]

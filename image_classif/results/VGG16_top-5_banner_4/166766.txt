@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.107222, u'stage', 0.030383866, u'shoe_shop', 0.025838997, u'organ', 0.022273876, u'grocery_store', 0.021292051]
+[u'grand_piano', 0.6719895, u'dining_table', 0.26509845, u'desk', 0.023773823, u'upright', 0.01526948, u'pedestal', 0.0061385748]
+[u'book_jacket', 0.27416983, u'gong', 0.10322032, u'chimpanzee', 0.059792545, u'chain_mail', 0.039373312, u'sombrero', 0.035440966]

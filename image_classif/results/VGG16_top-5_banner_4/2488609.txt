@@ -1,0 +1,3 @@
+[u'forklift', 0.076951042, u'mailbox', 0.050115399, u'modem', 0.049200706, u'switch', 0.047133148, u'safe', 0.043701548]
+[u'garbage_truck', 0.32976478, u'snowplow', 0.29731226, u'crane', 0.17880182, u'harvester', 0.091695681, u'tractor', 0.029864488]
+[u'hook', 0.91601288, u'street_sign', 0.054639362, u'crane', 0.0062333704, u'switch', 0.0025458236, u'mailbox', 0.0024939794]

@@ -1,0 +1,3 @@
+[u'comic_book', 0.86864525, u'book_jacket', 0.02244914, u'pencil_box', 0.019025665]
+[u'table_lamp', 0.23777175, u'cowboy_hat', 0.062391564, u'desk', 0.057286981]
+[u'envelope', 0.37122574, u'web_site', 0.1682857, u'jersey', 0.076883562]

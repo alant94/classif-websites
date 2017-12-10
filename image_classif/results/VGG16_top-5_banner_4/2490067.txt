@@ -1,0 +1,2 @@
+[u'stretcher', 0.060018197, u'swing', 0.05497732, u'horizontal_bar', 0.041989997, u'matchstick', 0.0400391, u'cradle', 0.038041875]
+[u'hook', 0.20458604, u'broom', 0.1169414, u'plunger', 0.10690757, u'swab', 0.055347621, u'shovel', 0.046317827]

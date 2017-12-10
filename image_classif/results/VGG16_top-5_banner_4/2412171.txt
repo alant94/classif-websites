@@ -1,0 +1,2 @@
+[u'crate', 0.32983315, u'lumbermill', 0.089379847, u'carton', 0.080332957, u'chest', 0.077779032, u'plane', 0.035518128]
+[u'yurt', 0.70474559, u'volcano', 0.08703164, u'barn', 0.064941883, u'mountain_tent', 0.063041091, u'alp', 0.021410946]

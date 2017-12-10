@@ -1,0 +1,2 @@
+[u'syringe', 0.45496801, u'picket_fence', 0.10128557, u'matchstick', 0.090886056, u'organ', 0.079375409, u'screwdriver', 0.056853838]
+[u'Afghan_hound', 0.76927811, u'Saluki', 0.043282025, u'basset', 0.034044616, u'comic_book', 0.023774475, u'borzoi', 0.022549335]

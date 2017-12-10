@@ -1,0 +1,2 @@
+[u'envelope', 0.025641201, u'wall_clock', 0.018205147, u'ballpoint', 0.010302408, u'cleaver', 0.0089405794, u'hourglass', 0.0086211618]
+[u'envelope', 0.025641201, u'wall_clock', 0.018205147, u'ballpoint', 0.010302408, u'cleaver', 0.0089405794, u'hourglass', 0.0086211618]

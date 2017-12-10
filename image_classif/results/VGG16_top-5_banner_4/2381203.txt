@@ -1,0 +1,1 @@
+[u'valley', 0.41234916, u'alp', 0.20974967, u'suspension_bridge', 0.13591167, u'viaduct', 0.073794603, u'cliff', 0.069089778]

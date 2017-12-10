@@ -1,0 +1,2 @@
+[u'pirate', 0.080440953, u'bearskin', 0.067260981, u'umbrella', 0.066406585, u'stupa', 0.064700969, u'maypole', 0.048425943]
+[u'web_site', 0.24223126, u'scoreboard', 0.12985741, u'cinema', 0.056580883, u'comic_book', 0.052776366, u'book_jacket', 0.052631006]

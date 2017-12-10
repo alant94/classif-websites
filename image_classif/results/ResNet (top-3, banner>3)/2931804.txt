@@ -1,0 +1,2 @@
+[u'web_site', 0.37481073, u'cornet', 0.094519235, u'shovel', 0.024810255]
+[u'analog_clock', 0.13701209, u'stopwatch', 0.094359763, u'remote_control', 0.093856238]

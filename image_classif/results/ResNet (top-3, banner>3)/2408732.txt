@@ -1,0 +1,8 @@
+[u'rule', 0.21150731, u'rubber_eraser', 0.20092061, u'analog_clock', 0.18692888]
+[u'jean', 0.28959167, u'kimono', 0.12183268, u'cowboy_boot', 0.040351406]
+[u'sunscreen', 0.082111284, u'guinea_pig', 0.06738206, u'paintbrush', 0.066660449]
+[u"potter's_wheel", 0.20045066, u'tricycle', 0.12120791, u'paintbrush', 0.069827139]
+[u'web_site', 0.19822803, u'envelope', 0.18554898, u'menu', 0.072889291]
+[u'handkerchief', 0.65970236, u'sarong', 0.049304336, u'paintbrush', 0.017921396]
+[u'wool', 0.2619769, u'stole', 0.19177702, u'velvet', 0.16940442]
+[u'poncho', 0.30175734, u'abaya', 0.17233901, u'stole', 0.14341751]

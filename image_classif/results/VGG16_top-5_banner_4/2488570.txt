@@ -1,0 +1,4 @@
+[u'house_finch', 0.21754608, u'ruffed_grouse', 0.16222791, u'fly', 0.11010178, u'prairie_chicken', 0.097588316, u'brambling', 0.089630678]
+[u'binder', 0.20087931, u'digital_clock', 0.084755503, u'lighter', 0.047294151, u'lotion', 0.039950289, u'hair_spray', 0.028734991]
+[u'patio', 0.21542729, u'thatch', 0.10803808, u'boathouse', 0.10632755, u'fountain', 0.068349272, u'tile_roof', 0.0466698]
+[u'analog_clock', 0.43931705, u'digital_clock', 0.1389576, u'wall_clock', 0.10832717, u'digital_watch', 0.080910526, u'stopwatch', 0.057793912]

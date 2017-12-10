@@ -1,0 +1,5 @@
+[u'loupe', 0.32761031, u'necklace', 0.22447011, u'analog_clock', 0.14260326, u'coil', 0.047172803, u'bolo_tie', 0.042550109]
+[u"carpenter's_kit", 0.56002212, u'letter_opener', 0.19032399, u'screwdriver', 0.080139287, u'ladle', 0.03274326, u'hammer', 0.013695135]
+[u'comic_book', 0.12015878, u'cleaver', 0.096090078, u"carpenter's_kit", 0.09143997, u'screwdriver', 0.07160718, u'safety_pin', 0.069756679]
+[u'hook', 0.51078832, u'vase', 0.06813895, u'artichoke', 0.061623849, u'chain', 0.060232569, u'pot', 0.04923081]
+[u'ballpoint', 0.31169438, u'screwdriver', 0.076243602, u'medicine_chest', 0.069668412, u'binder', 0.042224988, u'syringe', 0.030188724]

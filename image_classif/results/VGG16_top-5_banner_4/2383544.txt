@@ -1,0 +1,5 @@
+[u'coffee_mug', 0.41799176, u'cup', 0.052300543, u'whiskey_jug', 0.049714282, u'beer_glass', 0.047873177, u'eggnog', 0.034653045]
+[u'book_jacket', 0.19583721, u'web_site', 0.10407375, u'comic_book', 0.067885935, u'menu', 0.012206551, u'envelope', 0.010716701]
+[u'whiskey_jug', 0.44142762, u'water_bottle', 0.10851198, u'perfume', 0.052316621, u'binoculars', 0.049349859, u'lotion', 0.048108298]
+[u'street_sign', 0.35886964, u'book_jacket', 0.095858097, u'digital_clock', 0.08527182, u'scoreboard', 0.04739368, u'traffic_light', 0.031796891]
+[u'web_site', 0.40042537, u'envelope', 0.17409575, u'menu', 0.15689455, u'book_jacket', 0.058285393, u'quill', 0.027989127]

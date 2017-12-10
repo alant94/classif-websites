@@ -1,0 +1,6 @@
+[u'panpipe', 0.99432039, u'stupa', 0.0032084335, u'marimba', 0.001406724]
+[u'beer_bottle', 0.86355555, u'beer_glass', 0.12716933, u'pop_bottle', 0.0053639482]
+[u'wall_clock', 0.43189526, u'throne', 0.061442882, u'fire_screen', 0.049333699]
+[u'screw', 0.11872022, u'web_site', 0.10210204, u'coil', 0.097340271]
+[u'screw', 0.45332751, u'coil', 0.12709598, u'corkscrew', 0.080274023]
+[u'thimble', 0.11885092, u'cocktail_shaker', 0.11792713, u'microphone', 0.096866101]

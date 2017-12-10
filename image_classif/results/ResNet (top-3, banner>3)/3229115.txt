@@ -1,0 +1,4 @@
+[u'jersey', 0.46461681, u'picket_fence', 0.058922384, u'book_jacket', 0.053491678]
+[u'altar', 0.92184955, u'church', 0.026814548, u'vestment', 0.0098600816]
+[u'panpipe', 0.17609879, u'church', 0.11456639, u'traffic_light', 0.086559288]
+[u'book_jacket', 0.11653835, u'revolver', 0.061170638, u'web_site', 0.05798516]

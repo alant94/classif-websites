@@ -1,0 +1,2 @@
+[u'web_site', 0.17632695, u'cassette_player', 0.10363463, u'loudspeaker', 0.066872887]
+[u'barn', 0.094940029, u'alp', 0.087648645, u'boathouse', 0.062427294]

@@ -1,0 +1,2 @@
+[u'German_shepherd', 0.36902702, u'African_hunting_dog', 0.13077362, u'timber_wolf', 0.096746601, u'Norwegian_elkhound', 0.091686375, u'keeshond', 0.06601283]
+[u'lumbermill', 0.5232408, u'half_track', 0.11568757, u'rotisserie', 0.063401654, u'jinrikisha', 0.036522467, u'horse_cart', 0.031095106]

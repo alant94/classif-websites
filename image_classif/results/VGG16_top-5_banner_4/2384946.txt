@@ -1,0 +1,4 @@
+[u'crate', 0.98220074, u'barrel', 0.0036863345, u'lumbermill', 0.0021244679, u'boathouse', 0.0011237015, u'worm_fence', 0.00090741605]
+[u'hen-of-the-woods', 0.27820987, u'mushroom', 0.10715124, u'coral_fungus', 0.069117509, u'stone_wall', 0.054333564, u'honeycomb', 0.04899976]
+[u'wine_bottle', 0.57036537, u'beer_bottle', 0.23646207, u'pop_bottle', 0.11761133, u'organ', 0.014260147, u'red_wine', 0.011510153]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

@@ -1,0 +1,2 @@
+[u'refrigerator', 0.23967761, u'dishwasher', 0.10350093, u'fire_screen', 0.074333183]
+[u'envelope', 0.40449911, u'hook', 0.10900285, u'chain', 0.072288126]

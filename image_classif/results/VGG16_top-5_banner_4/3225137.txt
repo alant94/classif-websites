@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.33279195, u'envelope', 0.18035854, u'digital_clock', 0.056662045, u'binder', 0.016825883, u'wall_clock', 0.013960693]
+[u'street_sign', 0.21131989, u'traffic_light', 0.07447993, u'bell_cote', 0.055979062, u'cinema', 0.053580921, u'book_jacket', 0.043157917]
+[u'Band_Aid', 0.10492491, u'parachute', 0.097307451, u'envelope', 0.057687212, u'flagpole', 0.031085141, u'balloon', 0.026448926]

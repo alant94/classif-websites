@@ -1,0 +1,6 @@
+[u'switch', 0.20867395, u'wall_clock', 0.10308926, u'digital_watch', 0.060643669, u'buckle', 0.044800375, u'digital_clock', 0.042803112]
+[u'web_site', 0.37548089, u'abacus', 0.052254993, u'monitor', 0.050273266, u'book_jacket', 0.037078481, u'scoreboard', 0.021010928]
+[u'screwdriver', 0.29464772, u'ballpoint', 0.075495049, u'rubber_eraser', 0.051117495, u'whistle', 0.03467254, u"carpenter's_kit", 0.030591421]
+[u'plate_rack', 0.37944612, u'coil', 0.17544197, u'maze', 0.13750035, u'spotlight', 0.037410434, u'Petri_dish', 0.034353063]
+[u'web_site', 0.9964695, u'menu', 0.0015831345, u'monitor', 0.0013183317, u'laptop', 0.00012814776, u'screen', 0.00010950914]
+[u'castle', 0.32736129, u'valley', 0.16197169, u'lakeside', 0.11344408, u'rapeseed', 0.063664593, u'cliff', 0.043436807]

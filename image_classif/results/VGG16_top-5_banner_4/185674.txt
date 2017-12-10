@@ -1,0 +1,1 @@
+[u'gas_pump', 0.15011059, u'lighter', 0.13109833, u'slot', 0.078106023, u'scoreboard', 0.070691802, u'book_jacket', 0.02731666]

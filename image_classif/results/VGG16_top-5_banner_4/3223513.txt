@@ -1,0 +1,2 @@
+[u'picket_fence', 0.11125621, u'spotlight', 0.06497106, u'bell_cote', 0.058535665, u'fountain', 0.048809759, u'steel_arch_bridge', 0.047562029]
+[u'sliding_door', 0.25771964, u'abaya', 0.20984614, u'fur_coat', 0.038537469, u'punching_bag', 0.037049107, u'patio', 0.036195677]

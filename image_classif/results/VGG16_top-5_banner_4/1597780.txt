@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.065449901, u'envelope', 0.051808253, u'maze', 0.043469187, u'jigsaw_puzzle', 0.028947514, u'velvet', 0.027599687]
+[u'kite', 0.066258594, u'parachute', 0.027441798, u'bald_eagle', 0.023734391, u'black_stork', 0.021014549, u'white_stork', 0.018530944]
+[u'tub', 0.097847693, u'sunscreen', 0.096038826, u'brassiere', 0.073164359, u'wig', 0.061455235, u'bikini', 0.060251124]
+[u'envelope', 0.18325745, u'web_site', 0.070933707, u'Band_Aid', 0.066088326, u'Windsor_tie', 0.018402468, u'hook', 0.012395904]

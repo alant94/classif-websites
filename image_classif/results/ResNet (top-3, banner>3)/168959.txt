@@ -1,0 +1,6 @@
+[u'envelope', 0.39362207, u'sewing_machine', 0.099740922, u'medicine_chest', 0.083501823]
+[u'panpipe', 0.16457023, u'flute', 0.11971083, u'picket_fence', 0.05717212]
+[u'theater_curtain', 0.097502381, u'wardrobe', 0.09372966, u'cornet', 0.072897457]
+[u'spotlight', 0.10938881, u'plow', 0.078787819, u'tractor', 0.055820301]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867]
+[u'theater_curtain', 0.69751328, u'picket_fence', 0.057473771, u'stage', 0.050474666]

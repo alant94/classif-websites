@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.20918183, u'envelope', 0.097717687, u'book_jacket', 0.047305331, u'jersey', 0.035994966, u'packet', 0.031366412]
+[u'menu', 0.14818229, u'envelope', 0.1037722, u'hand_blower', 0.056208853, u'bath_towel', 0.046065833, u'web_site', 0.044102557]

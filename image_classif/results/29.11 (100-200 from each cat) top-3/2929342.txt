@@ -1,0 +1,4 @@
+[u'web_site', 0.087543681, u'pill_bottle', 0.064647473, u'book_jacket', 0.045797091]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'chime', 0.30617565, u'plate_rack', 0.086585656, u'web_site', 0.070162848]
+[u'television', 0.11251704, u'dishwasher', 0.10180551, u'microwave', 0.076130621]

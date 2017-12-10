@@ -1,0 +1,3 @@
+[u'sunscreen', 0.083789229, u'oil_filter', 0.040960733, u'lotion', 0.033789109, u'coffee_mug', 0.023636565, u'iron', 0.022481089]
+[u'hand_blower', 0.28118157, u'microphone', 0.094425865, u'stopwatch', 0.068782121, u'web_site', 0.063648596, u'spotlight', 0.041448623]
+[u'web_site', 0.70865369, u'menu', 0.14717887, u'hand_blower', 0.022347113, u'Band_Aid', 0.010766779, u'envelope', 0.0084415218]

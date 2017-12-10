@@ -1,0 +1,3 @@
+[u'wine_bottle', 0.7083602, u'beer_bottle', 0.24171683, u'pop_bottle', 0.030818278]
+[u'conch', 0.22112459, u'umbrella', 0.21187812, u'sombrero', 0.061551709]
+[u'paddle', 0.49318221, u'sandbar', 0.10208467, u'swimming_trunks', 0.075854711]

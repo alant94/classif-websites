@@ -1,0 +1,4 @@
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]
+[u'chime', 0.48393586, u'screwdriver', 0.10589397, u'ballpoint', 0.069180958, u'letter_opener', 0.03118483, u'nail', 0.023161177]
+[u'minivan', 0.20282942, u'jinrikisha', 0.051571492, u'beach_wagon', 0.042827237, u'canoe', 0.029213257, u'mountain_tent', 0.02705135]
+[u'bikini', 0.26887256, u'maillot', 0.13690417, u'swimming_trunks', 0.12549561, u'maillot', 0.11389276, u'sarong', 0.088475592]

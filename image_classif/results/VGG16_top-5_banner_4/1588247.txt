@@ -1,0 +1,7 @@
+[u'bow', 0.39859331, u'mousetrap', 0.043320317, u'umbrella', 0.025961101, u'jean', 0.023259941, u'rule', 0.022533391]
+[u'marimba', 0.10662898, u'drumstick', 0.10593226, u'pool_table', 0.090168901, u'grand_piano', 0.045232836, u'candle', 0.042278044]
+[u'seat_belt', 0.2668384, u'bluetick', 0.098682724, u'Border_terrier', 0.030764461, u'beagle', 0.02881173, u'Chihuahua', 0.021056449]
+[u'web_site', 0.018570159, u'envelope', 0.017688442, u'plunger', 0.013183334, u'can_opener', 0.012949263, u'hook', 0.011915822]
+[u'bath_towel', 0.098149016, u'jersey', 0.074499652, u'poncho', 0.065772146, u'sweatshirt', 0.05225252, u'cardigan', 0.034851544]
+[u'buckle', 0.25546661, u'jersey', 0.20266432, u'diaper', 0.070460647, u'dumbbell', 0.045222506, u'sweatshirt', 0.032600455]
+[u'Great_Dane', 0.88686079, u'Ibizan_hound', 0.029088723, u'whippet', 0.020304453, u'Irish_wolfhound', 0.014907352, u'Irish_terrier', 0.0079632215]

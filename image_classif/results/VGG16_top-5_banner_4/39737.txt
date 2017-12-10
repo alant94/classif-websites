@@ -1,0 +1,3 @@
+[u'wig', 0.23003301, u'neck_brace', 0.19991334, u'tobacco_shop', 0.091743283, u'mask', 0.044095818, u'sunglasses', 0.036719978]
+[u'palace', 0.24440913, u'organ', 0.19295985, u'library', 0.086552978, u'bell_cote', 0.064936996, u'upright', 0.064003743]
+[u'tank', 0.75729114, u'half_track', 0.09828046, u'steam_locomotive', 0.082710415, u'cannon', 0.030055568, u'projectile', 0.0041660168]

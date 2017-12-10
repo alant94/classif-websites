@@ -1,0 +1,7 @@
+[u'knot', 0.1652149, u'bow', 0.16090053, u'bolo_tie', 0.13190886, u'nematode', 0.06699574, u'hook', 0.036692474]
+[u'bolo_tie', 0.18890744, u'puck', 0.14038235, u'necklace', 0.088256977, u'shield', 0.059078857, u'gong', 0.041573055]
+[u'book_jacket', 0.35605091, u'street_sign', 0.080335043, u'lighter', 0.045423489, u'ski', 0.036572367, u'comic_book', 0.026220668]
+[u'bow', 0.14720604, u'traffic_light', 0.089396849, u'knot', 0.069892727, u'lens_cap', 0.038662277, u'puck', 0.036425348]
+[u'digital_clock', 0.78654289, u'digital_watch', 0.027976666, u'scoreboard', 0.025232181, u'wall_clock', 0.0097991498, u'cash_machine', 0.0084782131]
+[u'envelope', 0.66737419, u'ambulance', 0.084907167, u'shield', 0.021365304, u'puck', 0.019048663, u'police_van', 0.018464711]
+[u'digital_clock', 0.2555193, u'nematode', 0.095980339, u'pick', 0.074936785, u'analog_clock', 0.056084447, u'traffic_light', 0.053216949]

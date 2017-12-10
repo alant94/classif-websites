@@ -1,0 +1,4 @@
+[u'toilet_seat', 0.20115587, u'laptop', 0.1070936, u'pick', 0.071296498, u'modem', 0.055592902, u'notebook', 0.054612342]
+[u'cash_machine', 0.11865147, u'scoreboard', 0.109221, u'pop_bottle', 0.053562053, u'street_sign', 0.046877984, u'Band_Aid', 0.042378992]
+[u'bell_cote', 0.19599064, u'toilet_seat', 0.093361117, u'analog_clock', 0.082284853, u'radio_telescope', 0.076878756, u'spotlight', 0.075125083]
+[u'knee_pad', 0.12811242, u'toilet_seat', 0.10541567, u'pick', 0.058796, u'remote_control', 0.047742907, u'odometer', 0.046396703]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.22114742, u'harmonica', 0.041656181, u'nipple', 0.040997382]
+[u'minibus', 0.74578285, u'trolleybus', 0.028939568, u'school_bus', 0.027565178]

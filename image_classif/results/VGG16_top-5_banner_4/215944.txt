@@ -1,0 +1,6 @@
+[u'digital_watch', 0.13104928, u'digital_clock', 0.094539449, u'spotlight', 0.083686888, u'bolo_tie', 0.072305784, u'matchstick', 0.06477654]
+[u'scoreboard', 0.56501091, u'book_jacket', 0.31124553, u'street_sign', 0.018529482, u'traffic_light', 0.014883818, u'comic_book', 0.013043866]
+[u'web_site', 0.072497323, u'whistle', 0.051757276, u'jersey', 0.049325548, u'envelope', 0.046388507, u'hook', 0.03258162]
+[u'menu', 0.18176524, u'brass', 0.0768672, u'web_site', 0.03555768, u'crossword_puzzle', 0.034699604, u'screen', 0.029848354]
+[u'street_sign', 0.16016649, u'traffic_light', 0.055052482, u'digital_clock', 0.029553715, u'crane', 0.020997953, u'book_jacket', 0.01943808]
+[u'web_site', 0.32611635, u'hammer', 0.03849788, u'hatchet', 0.037184954, u'nail', 0.03049349, u'comic_book', 0.026786895]

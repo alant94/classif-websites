@@ -1,0 +1,7 @@
+[u'traffic_light', 0.13115801, u'digital_clock', 0.099162199, u'web_site', 0.066156439]
+[u'sunscreen', 0.314262, u'perfume', 0.19450544, u'lighter', 0.12348871]
+[u'sunscreen', 0.26320386, u'lipstick', 0.15545431, u'lotion', 0.15111846]
+[u'book_jacket', 0.51010942, u'bookshop', 0.15565161, u'menu', 0.085921437]
+[u'web_site', 0.1584094, u'picket_fence', 0.098454364, u'folding_chair', 0.054006606]
+[u'lotion', 0.23684889, u'face_powder', 0.10504374, u'sunscreen', 0.083381973]
+[u'web_site', 0.4268969, u'envelope', 0.096939616, u'medicine_chest', 0.087260216]

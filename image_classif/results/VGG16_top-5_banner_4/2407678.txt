@@ -1,0 +1,2 @@
+[u'wall_clock', 0.13948454, u'sliding_door', 0.1041531, u'chime', 0.0933678, u'picket_fence', 0.062903292, u'screwdriver', 0.024007825]
+[u'drum', 0.243459, u'hamper', 0.23487763, u'lampshade', 0.22857031, u'table_lamp', 0.11093353, u'thimble', 0.057529878]

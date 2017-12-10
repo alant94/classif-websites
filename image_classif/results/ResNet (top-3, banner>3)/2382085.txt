@@ -1,0 +1,1 @@
+[u'red_wine', 0.71299118, u'wine_bottle', 0.27707657, u'corkscrew', 0.004956373]

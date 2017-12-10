@@ -1,0 +1,7 @@
+[u'slide_rule', 0.32716426, u'book_jacket', 0.30068928, u'comic_book', 0.1305865, u'rule', 0.044819728, u'jigsaw_puzzle', 0.04323845]
+[u'Band_Aid', 0.22206949, u'envelope', 0.084613726, u'Windsor_tie', 0.060965005, u'velvet', 0.050694335, u'Christmas_stocking', 0.0339536]
+[u'violin', 0.24312122, u'flatworm', 0.14405885, u'flagpole', 0.11640368, u'hair_slide', 0.03247099, u'clog', 0.031726152]
+[u'Gila_monster', 0.19111311, u'crossword_puzzle', 0.069847688, u'digital_clock', 0.023284873, u'book_jacket', 0.022073455, u'scoreboard', 0.021621902]
+[u'buckle', 0.40277579, u'maze', 0.079415217, u'shield', 0.046681274, u'tray', 0.045957789, u'switch', 0.043344989]
+[u'web_site', 0.54716474, u'scoreboard', 0.099885769, u'hand-held_computer', 0.058893278, u'oscilloscope', 0.026407493, u'screen', 0.024907771]
+[u'comic_book', 0.24650064, u'book_jacket', 0.11480877, u'web_site', 0.070532516, u'hand-held_computer', 0.061996765, u'menu', 0.036200453]

@@ -1,0 +1,8 @@
+[u'cab', 0.3617422, u'streetcar', 0.20613199, u'trolleybus', 0.070625059]
+[u'catamaran', 0.49220526, u'trimaran', 0.2808181, u'yawl', 0.12460717]
+[u'pole', 0.24524853, u'flagpole', 0.18155602, u'planetarium', 0.14786634]
+[u'solar_dish', 0.15314487, u'cinema', 0.10805371, u'mailbox', 0.10760444]
+[u'solar_dish', 0.14513996, u'planetarium', 0.1144604, u'library', 0.093349494]
+[u'trailer_truck', 0.21986486, u'police_van', 0.15812941, u'garbage_truck', 0.13505739]
+[u'thimble', 0.1916451, u'paintbrush', 0.10995853, u'space_shuttle', 0.06364318]
+[u'web_site', 0.6670866, u'bannister', 0.034426123, u'candle', 0.02448583]

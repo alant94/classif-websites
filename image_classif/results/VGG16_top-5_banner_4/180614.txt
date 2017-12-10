@@ -1,0 +1,1 @@
+[u'beaker', 0.99203652, u'pop_bottle', 0.0029562374, u'water_jug', 0.00175729, u'measuring_cup', 0.0011671785, u'pitcher', 0.00028953466]

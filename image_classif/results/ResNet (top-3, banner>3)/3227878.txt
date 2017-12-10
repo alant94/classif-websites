@@ -1,0 +1,8 @@
+[u'web_site', 0.83638251, u'whistle', 0.020066565, u'comic_book', 0.011599369]
+[u'web_site', 0.27394551, u'book_jacket', 0.15341999, u'wallet', 0.10451793]
+[u'web_site', 0.70880765, u'candle', 0.036909144, u'jean', 0.031792801]
+[u'web_site', 0.84371483, u'menu', 0.030643167, u'envelope', 0.0040736785]
+[u'comic_book', 0.32072312, u'flatworm', 0.16290668, u'book_jacket', 0.10771717]
+[u'French_horn', 0.96823311, u'cornet', 0.024780005, u'trombone', 0.0039842906]
+[u'web_site', 0.37579209, u'hair_spray', 0.12652715, u'torch', 0.036243718]
+[u'web_site', 0.63061678, u'nipple', 0.057262458, u'combination_lock', 0.028252579]

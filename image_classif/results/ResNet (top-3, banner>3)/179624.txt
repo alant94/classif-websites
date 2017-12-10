@@ -1,0 +1,2 @@
+[u'web_site', 0.9614014, u'book_jacket', 0.0183693, u'hair_spray', 0.0042950995]
+[u'stage', 0.060699362, u'throne', 0.044196907, u'gong', 0.040590327]

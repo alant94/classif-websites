@@ -1,0 +1,3 @@
+[u'binder', 0.18508014, u'jersey', 0.073554635, u'space_shuttle', 0.047104783]
+[u'knot', 0.4052594, u'horizontal_bar', 0.051216152, u'microphone', 0.031313032]
+[u'envelope', 0.23064317, u'mortarboard', 0.062185641, u'photocopier', 0.038132526]

@@ -1,0 +1,1 @@
+[u'grand_piano', 0.17010398, u'desk', 0.15294699, u'projector', 0.10227846, u'desktop_computer', 0.052102447, u'home_theater', 0.042220436]

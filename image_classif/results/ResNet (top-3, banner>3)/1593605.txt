@@ -1,0 +1,4 @@
+[u'maillot', 0.18273827, u'bath_towel', 0.13337389, u'swimming_trunks', 0.091580205]
+[u'miniskirt', 0.37985167, u'neck_brace', 0.057346862, u'notebook', 0.040146682]
+[u'puck', 0.21920195, u'loudspeaker', 0.20093763, u'shield', 0.094450906]
+[u'bathing_cap', 0.4373084, u'punching_bag', 0.11744633, u'barbell', 0.034961656]

@@ -1,0 +1,4 @@
+[u'web_site', 0.35567871, u'monitor', 0.18131536, u'entertainment_center', 0.095908821, u'library', 0.04705118, u'television', 0.039910305]
+[u'web_site', 0.51956266, u'menu', 0.20206811, u'envelope', 0.013290145, u'hand_blower', 0.013145549, u'neck_brace', 0.0064809551]
+[u'web_site', 0.54030997, u'menu', 0.17478009, u'cinema', 0.040001608, u'scoreboard', 0.034092542, u'gas_pump', 0.026141727]
+[u'barbershop', 0.18254569, u'book_jacket', 0.072395168, u'binoculars', 0.065704919, u'neck_brace', 0.038605232, u'pajama', 0.035510089]

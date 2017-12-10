@@ -1,0 +1,2 @@
+[u'mask', 0.12913868, u'hair_spray', 0.096000671, u'breastplate', 0.08173573, u'cellular_telephone', 0.04325109, u'wig', 0.042305123]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

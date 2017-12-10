@@ -1,0 +1,2 @@
+[u'nipple', 0.17991377, u'pill_bottle', 0.12642445, u'paper_towel', 0.06941098, u'lotion', 0.068239264, u'syringe', 0.064396583]
+[u'digital_clock', 0.15574484, u'scale', 0.1388506, u'radio', 0.10490343, u'barometer', 0.10447682, u'oscilloscope', 0.086678937]

@@ -1,0 +1,3 @@
+[u'cabbage_butterfly', 0.19978322, u'iron', 0.19794174, u'analog_clock', 0.14817165]
+[u'sunscreen', 0.23323509, u'whistle', 0.1550241, u'web_site', 0.071002252]
+[u'web_site', 0.99838865, u'comic_book', 0.00067837344, u'hand-held_computer', 9.2521477e-05]

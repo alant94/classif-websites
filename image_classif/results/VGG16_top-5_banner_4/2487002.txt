@@ -1,0 +1,2 @@
+[u'quail', 0.53327119, u'peacock', 0.11511031, u'ruffed_grouse', 0.10965639, u'prairie_chicken', 0.041552294, u'partridge', 0.03905946]
+[u'beacon', 0.18050769, u'lakeside', 0.057849173, u'seashore', 0.054921843, u'castle', 0.048142683, u'flagpole', 0.045244347]

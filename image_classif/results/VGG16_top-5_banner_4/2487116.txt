@@ -1,0 +1,5 @@
+[u'refrigerator', 0.2107963, u'crib', 0.16458343, u'picket_fence', 0.11692324, u'envelope', 0.048936386, u'window_shade', 0.035272811]
+[u'vestment', 0.35285783, u'sarong', 0.2219319, u'academic_gown', 0.042234473, u'mortarboard', 0.035698842, u'shower_curtain', 0.034490153]
+[u'binder', 0.1583309, u'quill', 0.14270377, u'envelope', 0.12679161, u'packet', 0.12103677, u'book_jacket', 0.054561164]
+[u'screw', 0.59235901, u'nail', 0.17674668, u'envelope', 0.065446869, u'rubber_eraser', 0.017085949, u'matchstick', 0.012578256]
+[u'window_shade', 0.1790036, u'wall_clock', 0.076581888, u'shower_curtain', 0.057898711, u'web_site', 0.033276509, u'dining_table', 0.029411146]

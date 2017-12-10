@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.45108807, u'street_sign', 0.23221971, u'web_site', 0.16514276]
+[u'web_site', 0.19767927, u'envelope', 0.04716666, u'remote_control', 0.042406294]
+[u'web_site', 0.50096053, u'oscilloscope', 0.18879431, u'street_sign', 0.07938239]
+[u'web_site', 0.097208232, u'book_jacket', 0.089043923, u'remote_control', 0.069932774]
+[u'street_sign', 0.22823232, u'power_drill', 0.035197515, u'web_site', 0.028103337]

@@ -1,0 +1,2 @@
+[u'screw', 0.17693612, u'tick', 0.12873444, u'gong', 0.12184358, u'wall_clock', 0.10344853, u'magnetic_compass', 0.072689541]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

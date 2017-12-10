@@ -1,0 +1,3 @@
+[u'comic_book', 0.52829659, u'web_site', 0.40349334, u'book_jacket', 0.019894797]
+[u'comic_book', 0.32488495, u'web_site', 0.072109401, u'book_jacket', 0.056858163]
+[u'umbrella', 0.18019195, u'lab_coat', 0.075025328, u'web_site', 0.052445024]

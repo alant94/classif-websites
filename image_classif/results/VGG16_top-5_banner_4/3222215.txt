@@ -1,0 +1,4 @@
+[u'can_opener', 0.16511385, u'airship', 0.13463777, u'harmonica', 0.11753769, u'hair_slide', 0.060186092, u'tray', 0.042381357]
+[u'plow', 0.24190189, u'steel_arch_bridge', 0.13128543, u'paddlewheel', 0.079114221, u'crane', 0.067481354, u'hook', 0.057441451]
+[u'snorkel', 0.23829585, u'paddle', 0.10354757, u'cliff', 0.070807531, u'coral_reef', 0.068521425, u'scuba_diver', 0.064323656]
+[u'picket_fence', 0.13943282, u'lakeside', 0.11714343, u'worm_fence', 0.10351199, u'stupa', 0.052465826, u'flagpole', 0.051419433]

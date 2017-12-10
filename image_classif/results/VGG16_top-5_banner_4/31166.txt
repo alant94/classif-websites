@@ -1,0 +1,1 @@
+[u'teddy', 0.4072445, u'mask', 0.13868487, u'long-horned_beetle', 0.078886084, u'birdhouse', 0.043618098, u'chickadee', 0.038709793]

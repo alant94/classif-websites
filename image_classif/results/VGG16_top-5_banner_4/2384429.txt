@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16783249, u'Band_Aid', 0.073498584, u'comic_book', 0.051472824, u'street_sign', 0.030648032, u'pill_bottle', 0.029582016]
+[u'bathing_cap', 0.39946625, u'jersey', 0.3235445, u'web_site', 0.019266607, u'book_jacket', 0.015767677, u'maillot', 0.014235714]

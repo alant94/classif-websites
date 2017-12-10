@@ -1,0 +1,2 @@
+[u'can_opener', 0.20878378, u'refrigerator', 0.077203229, u'file', 0.049773712]
+[u'tobacco_shop', 0.072656691, u'slot', 0.070531137, u'dishwasher', 0.05112049]

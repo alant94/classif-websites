@@ -1,0 +1,6 @@
+[u'harvester', 0.27630609, u'tractor', 0.2001525, u'thresher', 0.13793129, u'plow', 0.10967871, u'mountain_bike', 0.046106737]
+[u'four-poster', 0.84300721, u'mosquito_net', 0.048534852, u'studio_couch', 0.012443247, u'snowplow', 0.0076150522, u'mobile_home', 0.0045099366]
+[u'envelope', 0.5111413, u'mountain_tent', 0.2797825, u'umbrella', 0.032156538, u'carton', 0.026695518, u'binder', 0.023149405]
+[u'comic_book', 0.37343594, u'toyshop', 0.027101239, u'vacuum', 0.02504178, u'web_site', 0.02069531, u'paddle', 0.019964181]
+[u'candle', 0.24766889, u'shower_curtain', 0.096713379, u'toyshop', 0.085292056, u'plunger', 0.084224842, u'maraca', 0.03587142]
+[u'shower_curtain', 0.16727789, u'crib', 0.1090275, u'envelope', 0.09062326, u'wardrobe', 0.026586814, u'pillow', 0.025599984]

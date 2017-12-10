@@ -1,0 +1,3 @@
+[u'birdhouse', 0.89231718, u'church', 0.095127493, u'picket_fence', 0.0061515262, u'bell_cote', 0.0020278001, u'boathouse', 0.00091952481]
+[u'birdhouse', 0.19970915, u'envelope', 0.16437985, u'stupa', 0.10588221, u'bell_cote', 0.049590416, u'library', 0.048701633]
+[u'rule', 0.55225503, u'magnetic_compass', 0.22323976, u'clog', 0.058098886, u'sandal', 0.038255539, u'harp', 0.035845608]

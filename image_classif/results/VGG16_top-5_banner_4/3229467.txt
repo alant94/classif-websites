@@ -1,0 +1,4 @@
+[u'barbershop', 0.17690004, u'barrel', 0.091236882, u'book_jacket', 0.086664699, u'menu', 0.082524881, u'theater_curtain', 0.071182296]
+[u'racket', 0.28037751, u'airship', 0.17197651, u'shield', 0.096059702, u'rugby_ball', 0.047999337, u'banana', 0.047909468]
+[u'library', 0.27726275, u'fountain', 0.093357839, u'window_screen', 0.05812192, u'bookshop', 0.052460901, u'restaurant', 0.041222692]
+[u'entertainment_center', 0.25889105, u'home_theater', 0.081148177, u'bookcase', 0.068343848, u'library', 0.06410747, u'sliding_door', 0.060490131]

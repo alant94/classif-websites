@@ -1,0 +1,1 @@
+[u'puck', 0.27564895, u'oil_filter', 0.091850169, u'cassette', 0.066258222, u'wall_clock', 0.051151555, u'paper_towel', 0.048478648]

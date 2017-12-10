@@ -1,0 +1,1 @@
+[u'spotlight', 0.22314553, u'whistle', 0.099764407, u'pill_bottle', 0.062531672, u'binder', 0.050150678, u'Band_Aid', 0.040309578]

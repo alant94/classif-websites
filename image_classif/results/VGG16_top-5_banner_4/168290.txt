@@ -1,0 +1,7 @@
+[u'measuring_cup', 0.22342691, u'envelope', 0.15804496, u'beaker', 0.098495856, u'monitor', 0.09753783, u'binder', 0.084653646]
+[u'switch', 0.76437521, u'cassette', 0.045147214, u'lighter', 0.035029721, u'pencil_sharpener', 0.03434452, u'joystick', 0.030842386]
+[u'container_ship', 0.78527182, u'Christmas_stocking', 0.026477737, u'tobacco_shop', 0.012685247, u'torch', 0.011973353, u'library', 0.011876172]
+[u'scale', 0.33543956, u'space_heater', 0.26657709, u'electric_fan', 0.18770213, u'modem', 0.086316183, u'radio', 0.022572951]
+[u'bow', 0.30328235, u'hog', 0.11997149, u'schooner', 0.037666515, u'beaver', 0.036261242, u'prison', 0.031976946]
+[u'container_ship', 0.98240525, u'liner', 0.0012892504, u'pill_bottle', 0.0012058136, u'balloon', 0.00082297478, u'switch', 0.0007520396]
+[u'packet', 0.2088474, u'book_jacket', 0.08477775, u'envelope', 0.06955044, u'comic_book', 0.039659761, u'chain_saw', 0.024420343]

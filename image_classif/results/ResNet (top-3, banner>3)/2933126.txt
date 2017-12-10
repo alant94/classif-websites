@@ -1,0 +1,2 @@
+[u'puck', 0.26248935, u'loudspeaker', 0.16855919, u'doormat', 0.08478485]
+[u'crossword_puzzle', 0.64936537, u'oscilloscope', 0.075847253, u'scoreboard', 0.058682702]

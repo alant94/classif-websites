@@ -1,0 +1,2 @@
+[u'hair_slide', 0.13332395, u'nail', 0.085586488, u'hook', 0.054383487, u'folding_chair', 0.045374386, u'hatchet', 0.043181989]
+[u'monitor', 0.2723099, u'web_site', 0.090867922, u'screen', 0.088586055, u'television', 0.065297365, u'notebook', 0.029512426]

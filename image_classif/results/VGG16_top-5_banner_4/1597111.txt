@@ -1,0 +1,3 @@
+[u'hog', 0.77365893, u'book_jacket', 0.035871707, u'Mexican_hairless', 0.02603294, u'Band_Aid', 0.024150606, u'dugong', 0.017658137]
+[u'prison', 0.37575793, u'library', 0.15380347, u'paddlewheel', 0.096645191, u'container_ship', 0.069218561, u'dam', 0.0675513]
+[u'shower_curtain', 0.21111068, u'toilet_seat', 0.060439881, u'washbasin', 0.045120537, u'toilet_tissue', 0.038343236, u'bathtub', 0.036483403]

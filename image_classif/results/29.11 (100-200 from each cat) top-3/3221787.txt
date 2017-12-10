@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.99834728, u'web_site', 0.00066419929, u'digital_clock', 0.00055638427]
+[u'screen', 0.63770783, u'monitor', 0.18249981, u'television', 0.09425848]

@@ -1,0 +1,4 @@
+[u'microphone', 0.99224913, u'thimble', 0.0020865621, u'golf_ball', 0.00040333963]
+[u'suit', 0.64361358, u'academic_gown', 0.1923669, u'Windsor_tie', 0.086404845]
+[u'web_site', 0.20974383, u'digital_clock', 0.10127876, u'stopwatch', 0.041233614]
+[u'theater_curtain', 0.10730351, u'jellyfish', 0.099256746, u'wig', 0.085149474]

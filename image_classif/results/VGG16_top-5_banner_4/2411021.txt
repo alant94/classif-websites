@@ -1,0 +1,6 @@
+[u'digital_clock', 0.15513609, u'screen', 0.034421433, u'wall_clock', 0.029563477, u'television', 0.025417797, u'analog_clock', 0.020794395]
+[u'hair_spray', 0.13361809, u'lotion', 0.082948424, u'vending_machine', 0.057144366, u'confectionery', 0.052432667, u'tobacco_shop', 0.048715129]
+[u'digital_clock', 0.49710524, u'wall_clock', 0.028720541, u'digital_watch', 0.028504444, u'beaker', 0.01941284, u'analog_clock', 0.018178031]
+[u'spotlight', 0.084022172, u'cinema', 0.083897859, u'traffic_light', 0.069199011, u'home_theater', 0.053535301, u'beacon', 0.046612497]
+[u'envelope', 0.27129513, u'book_jacket', 0.031677712, u'puck', 0.026448214, u'digital_clock', 0.023852978, u'wall_clock', 0.021546768]
+[u'envelope', 0.31356052, u'book_jacket', 0.036145326, u'web_site', 0.029025892, u'scoreboard', 0.028056942, u'digital_clock', 0.021775471]

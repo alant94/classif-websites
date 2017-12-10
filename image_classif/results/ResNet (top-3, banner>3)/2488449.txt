@@ -1,0 +1,6 @@
+[u'military_uniform', 0.55763775, u'hay', 0.10689616, u'plow', 0.046764277]
+[u'vulture', 0.54249316, u'coyote', 0.10858072, u'bald_eagle', 0.046066117]
+[u'ibex', 0.46201584, u'gazelle', 0.39580694, u'bighorn', 0.038805343]
+[u'Arabian_camel', 0.23192285, u'whippet', 0.14883971, u'English_foxhound', 0.056116555]
+[u'impala', 0.44283274, u'gazelle', 0.32982183, u'ibex', 0.15474294]
+[u'gong', 0.20359346, u'magnetic_compass', 0.1473695, u'chime', 0.087546878]

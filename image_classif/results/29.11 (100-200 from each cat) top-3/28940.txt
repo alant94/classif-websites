@@ -1,0 +1,3 @@
+[u'plunger', 0.74234706, u'croquet_ball', 0.048889745, u'maraca', 0.035370588]
+[u'web_site', 0.63777369, u'Band_Aid', 0.042618033, u'rule', 0.030692488]
+[u'dishwasher', 0.091400392, u'binder', 0.045316175, u'abaya', 0.045234978]

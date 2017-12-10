@@ -1,0 +1,4 @@
+[u'web_site', 0.13398793, u'wild_boar', 0.057407476, u'mongoose', 0.056696035]
+[u'television', 0.14452755, u'screen', 0.11128429, u'lighter', 0.094868034]
+[u'digital_watch', 0.7643764, u'switch', 0.043246347, u'digital_clock', 0.031247003]
+[u'chain_saw', 0.28580058, u'projectile', 0.076822661, u'missile', 0.058843222]

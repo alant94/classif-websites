@@ -1,0 +1,3 @@
+[u'digital_clock', 0.10181083, u'envelope', 0.068627313, u'traffic_light', 0.032145318]
+[u'binder', 0.13545287, u'packet', 0.12939259, u'puck', 0.096114472]
+[u'whistle', 0.39541236, u'spotlight', 0.10367474, u'Band_Aid', 0.075410441]

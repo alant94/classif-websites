@@ -1,0 +1,7 @@
+[u'miniskirt', 0.98347443, u'fur_coat', 0.003945671, u'hoopskirt', 0.0027352818]
+[u'sandal', 0.75087839, u'bikini', 0.088767901, u'maillot', 0.029639019]
+[u'Band_Aid', 0.4698875, u'mouse', 0.2284445, u'hognose_snake', 0.018438499]
+[u'bikini', 0.51843941, u'tub', 0.12703983, u'maillot', 0.11809071]
+[u'sandal', 0.45596376, u'Loafer', 0.1957268, u'maillot', 0.075155318]
+[u'brassiere', 0.21353522, u'lumbermill', 0.12064596, u'swimming_trunks', 0.093267635]
+[u'maillot', 0.64023101, u'bikini', 0.28599253, u'miniskirt', 0.029840862]

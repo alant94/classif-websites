@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.83781731, u'grocery_store', 0.10583476, u'restaurant', 0.015342423, u'barbershop', 0.0078597376, u'steel_drum', 0.0028196867]
+[u'web_site', 0.52462733, u'hand-held_computer', 0.17685373, u'sunscreen', 0.036690246, u'remote_control', 0.033012308, u'stopwatch', 0.016523551]
+[u'butcher_shop', 0.40784308, u'confectionery', 0.11431617, u'toyshop', 0.055397216, u'grocery_store', 0.041027874, u'poncho', 0.033061337]

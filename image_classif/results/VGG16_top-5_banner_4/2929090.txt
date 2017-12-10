@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.28177884, u'envelope', 0.061898004, u'beacon', 0.042667061, u'parachute', 0.039366946, u'binder', 0.024453614]
+[u'Band_Aid', 0.19731145, u'envelope', 0.14190865, u'jersey', 0.11429196, u'digital_clock', 0.059701145, u'book_jacket', 0.045884073]
+[u'puck', 0.22350949, u'shield', 0.17309277, u'web_site', 0.10137605, u'buckle', 0.034736302, u'book_jacket', 0.024714824]
+[u'lotion', 0.11631167, u'sunscreen', 0.098121926, u'coffee_mug', 0.057031762, u'packet', 0.036882885, u'candle', 0.036207486]
+[u'web_site', 0.23818886, u'Band_Aid', 0.13203785, u'cash_machine', 0.094000593, u'street_sign', 0.067107067, u'sunscreen', 0.041664641]
+[u'hand_blower', 0.11735046, u'can_opener', 0.071397975, u'web_site', 0.060896587, u'projector', 0.0555479, u'rubber_eraser', 0.045976821]

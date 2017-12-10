@@ -1,0 +1,3 @@
+[u'pot', 0.26588202, u'pencil_sharpener', 0.23844808, u'Granny_Smith', 0.097452849]
+[u'spider_web', 0.46486428, u'electric_fan', 0.286946, u'barn_spider', 0.10178422]
+[u'notebook', 0.75849038, u'laptop', 0.059140306, u'lab_coat', 0.027149038]

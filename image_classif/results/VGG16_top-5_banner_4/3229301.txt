@@ -1,0 +1,4 @@
+[u'Polaroid_camera', 0.73086989, u'reflex_camera', 0.095419578, u'projector', 0.059419673, u'lighter', 0.021644346, u'tripod', 0.01688041]
+[u'packet', 0.18611287, u'carton', 0.11677843, u'book_jacket', 0.11060873, u'whiskey_jug', 0.09635134, u'mailbag', 0.070623331]
+[u'book_jacket', 0.78522772, u'scoreboard', 0.032038968, u'comic_book', 0.032030474, u'jersey', 0.015924094, u'street_sign', 0.010848245]
+[u'cleaver', 0.14338233, u'lab_coat', 0.064740121, u'wardrobe', 0.062924817, u'suit', 0.052321158, u'cash_machine', 0.050201874]

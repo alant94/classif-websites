@@ -1,0 +1,5 @@
+[u'can_opener', 0.11856964, u'dial_telephone', 0.10439603, u'hair_slide', 0.072376393]
+[u'waffle_iron', 0.51925015, u'bakery', 0.22789916, u'spatula', 0.048203133]
+[u'shield', 0.2815699, u'wall_clock', 0.20619453, u'swab', 0.17611021]
+[u'wool', 0.26875183, u'teddy', 0.12746193, u'hair_slide', 0.092483811]
+[u'tray', 0.81268376, u'handkerchief', 0.020502165, u'mailbag', 0.0162389]

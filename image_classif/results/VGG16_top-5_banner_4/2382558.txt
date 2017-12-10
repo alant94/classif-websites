@@ -1,0 +1,4 @@
+[u'seashore', 0.59661436, u'promontory', 0.25484666, u'cliff', 0.066574693, u'lakeside', 0.025843209, u'beacon', 0.0096408539]
+[u'mantis', 0.071992002, u'lemon', 0.066557087, u'fly', 0.065815933, u'bee', 0.059106383, u'acorn', 0.052994549]
+[u'goblet', 0.8256709, u'beer_glass', 0.080105528, u'red_wine', 0.07291355, u'wine_bottle', 0.016395794, u'espresso', 0.0012387738]
+[u'beacon', 0.14270368, u'church', 0.045626454, u'obelisk', 0.044980552, u'mosque', 0.040197581, u'lakeside', 0.038534459]

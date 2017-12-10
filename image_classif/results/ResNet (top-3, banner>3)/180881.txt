@@ -1,0 +1,3 @@
+[u'spotlight', 0.14417778, u'cassette_player', 0.10881221, u'stopwatch', 0.093401626]
+[u'book_jacket', 0.37554672, u'sunscreen', 0.11893371, u'packet', 0.077844478]
+[u'book_jacket', 0.37736526, u'street_sign', 0.042733852, u'broom', 0.032063276]

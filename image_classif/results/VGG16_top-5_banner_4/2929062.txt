@@ -1,0 +1,8 @@
+[u'buckle', 0.35157368, u'sandal', 0.13029321, u'barber_chair', 0.091071285, u'holster', 0.06506741, u'neck_brace', 0.035739463]
+[u'dumbbell', 0.16000743, u'whistle', 0.14481311, u'switch', 0.13537733, u'pencil_sharpener', 0.091183312, u'screw', 0.054161366]
+[u'Band_Aid', 0.90622854, u'web_site', 0.010794437, u'scale', 0.0093273055, u'sunscreen', 0.0069984915, u'oil_filter', 0.0038620695]
+[u'pencil_sharpener', 0.28939226, u'whistle', 0.25887179, u'hook', 0.087385021, u'safety_pin', 0.081734486, u'buckle', 0.0384208]
+[u'cassette', 0.34059277, u'paintbrush', 0.066686004, u'mousetrap', 0.053871285, u'pencil_sharpener', 0.046671577, u'corkscrew', 0.043556102]
+[u'chain_saw', 0.092533879, u'combination_lock', 0.072960712, u'hook', 0.06667731, u'pencil_sharpener', 0.061191931, u'can_opener', 0.060525041]
+[u'loupe', 0.21140994, u'spotlight', 0.14164859, u'cassette', 0.049493503, u'projector', 0.044984609, u'pencil_sharpener', 0.043371946]
+[u'Petri_dish', 0.067965247, u'whistle', 0.062404651, u'nipple', 0.05820762, u'digital_clock', 0.054517683, u'stopwatch', 0.044241883]

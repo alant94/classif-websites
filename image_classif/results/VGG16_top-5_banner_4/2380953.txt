@@ -1,0 +1,2 @@
+[u'nematode', 0.026191579, u'whistle', 0.022785226, u'envelope', 0.018004093, u'dugong', 0.017069822, u'velvet', 0.016945267]
+[u'bathing_cap', 0.05864165, u'jersey', 0.05284394, u'binder', 0.020563964, u'bucket', 0.018047782, u'ashcan', 0.016891209]

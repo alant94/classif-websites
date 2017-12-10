@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.19169123, u'iPod', 0.079417974, u'pajama', 0.072765872, u'Windsor_tie', 0.060644586, u'jersey', 0.041302353]

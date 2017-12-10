@@ -1,0 +1,1 @@
+[u'hook', 0.097859986, u'shopping_basket', 0.097688839, u'rocking_chair', 0.092869855, u'scale', 0.068377547, u'street_sign', 0.0437897]

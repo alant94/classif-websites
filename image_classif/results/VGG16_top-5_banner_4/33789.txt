@@ -1,0 +1,3 @@
+[u'ping-pong_ball', 0.043184306, u'syringe', 0.043002512, u'pick', 0.04052962, u'hammer', 0.03894069, u'nail', 0.037711255]
+[u'web_site', 0.54998446, u'monitor', 0.18498173, u'desktop_computer', 0.056395367, u'screen', 0.034493923, u'home_theater', 0.029142521]
+[u'street_sign', 0.13981073, u'airship', 0.064875908, u'book_jacket', 0.062035844, u'cinema', 0.038285621, u'barbershop', 0.03393615]

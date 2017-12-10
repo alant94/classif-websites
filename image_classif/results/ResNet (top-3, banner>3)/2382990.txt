@@ -1,0 +1,6 @@
+[u'throne', 0.22812274, u'prayer_rug', 0.081357084, u'military_uniform', 0.080147602]
+[u'rapeseed', 0.97950351, u'street_sign', 0.0075906445, u'worm_fence', 0.0045443708]
+[u'wine_bottle', 0.45815814, u'beer_bottle', 0.23870723, u'red_wine', 0.21147723]
+[u'beer_bottle', 0.54068899, u'wine_bottle', 0.16430901, u'red_wine', 0.14982836]
+[u'rapeseed', 0.69571286, u'hay', 0.032503661, u'valley', 0.027036317]
+[u'flagpole', 0.89506841, u'umbrella', 0.025634199, u'barn', 0.007398814]

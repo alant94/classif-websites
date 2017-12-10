@@ -1,0 +1,7 @@
+[u'nail', 0.14872734, u'screwdriver', 0.09687338, u"carpenter's_kit", 0.078445062, u'safety_pin', 0.077729531, u'picket_fence', 0.058750343]
+[u'Band_Aid', 0.22325647, u'envelope', 0.20222805, u'book_jacket', 0.027091173, u'binder', 0.026492141, u'laptop', 0.025714841]
+[u'street_sign', 0.44682506, u'book_jacket', 0.077470399, u'traffic_light', 0.060855221, u'cash_machine', 0.057763599, u'scoreboard', 0.051619928]
+[u'cash_machine', 0.44349843, u'digital_watch', 0.1062139, u'safe', 0.090947434, u'photocopier', 0.061152458, u'Polaroid_camera', 0.052262988]
+[u'screen', 0.32314128, u'digital_clock', 0.1385811, u'cash_machine', 0.10611103, u'television', 0.093740135, u'digital_watch', 0.069109492]
+[u'football_helmet', 0.86271602, u'folding_chair', 0.01278967, u'muzzle', 0.01067832, u'rocking_chair', 0.0072467607, u'shopping_cart', 0.0045666429]
+[u'pick', 0.36724639, u'stopwatch', 0.033888478, u'digital_clock', 0.030049393, u'balloon', 0.028874099, u'rugby_ball', 0.022140473]

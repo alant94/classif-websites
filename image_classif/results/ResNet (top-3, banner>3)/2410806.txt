@@ -1,0 +1,7 @@
+[u'minivan', 0.88224518, u'seat_belt', 0.044583399, u'limousine', 0.011600024]
+[u'cannon', 0.38937414, u'toilet_seat', 0.092964366, u'toilet_tissue', 0.054887284]
+[u'minivan', 0.20731692, u'cassette_player', 0.15639941, u'tape_player', 0.089966074]
+[u'can_opener', 0.63138294, u'pencil_sharpener', 0.085688554, u'plane', 0.081777759]
+[u'whistle', 0.24203266, u'loupe', 0.22543858, u'pencil_sharpener', 0.079625741]
+[u'loupe', 0.60278034, u'espresso_maker', 0.076422103, u'oil_filter', 0.067046717]
+[u'electric_fan', 0.1036941, u'amphibian', 0.10020956, u'binoculars', 0.074198693]

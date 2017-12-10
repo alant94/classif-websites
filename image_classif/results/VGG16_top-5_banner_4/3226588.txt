@@ -1,0 +1,4 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'carton', 0.07341218, u'toilet_tissue', 0.049238898, u'wallet', 0.035427451, u'chest', 0.034920685, u'bannister', 0.027913058]
+[u'barometer', 0.13487494, u'rule', 0.056131899, u'menu', 0.054725897, u'book_jacket', 0.049751598, u'packet', 0.045238905]
+[u'bookshop', 0.23991352, u'suit', 0.094096214, u'tobacco_shop', 0.074869089, u'crutch', 0.074738294, u'cash_machine', 0.031614326]

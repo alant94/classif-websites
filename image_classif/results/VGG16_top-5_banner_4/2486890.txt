@@ -1,0 +1,5 @@
+[u'oxcart', 0.39584419, u'triceratops', 0.29057989, u'ox', 0.14444712, u'warthog', 0.068624713, u'hog', 0.022839449]
+[u'military_uniform', 0.59156638, u'diamondback', 0.062943242, u'assault_rifle', 0.037655089, u'Bouvier_des_Flandres', 0.022751313, u'warthog', 0.020910237]
+[u'Chesapeake_Bay_retriever', 0.39732754, u'hog', 0.094258793, u'bighorn', 0.039168812, u'ram', 0.029752001, u'rotisserie', 0.020072242]
+[u'wild_boar', 0.18637767, u'impala', 0.16113085, u'water_buffalo', 0.098963484, u'warthog', 0.08245486, u'hog', 0.079245418]
+[u'Mexican_hairless', 0.088303961, u'whippet', 0.087297581, u'Weimaraner', 0.086792246, u'Italian_greyhound', 0.085002154, u'Chesapeake_Bay_retriever', 0.051078908]

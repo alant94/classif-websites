@@ -1,0 +1,4 @@
+[u'notebook', 0.24709272, u'iPod', 0.12792988, u'binder', 0.050993674, u'laptop', 0.04753156, u'television', 0.040756673]
+[u'lab_coat', 0.15671632, u'mask', 0.090295158, u'Windsor_tie', 0.050375152, u'sunscreen', 0.032639351, u'sweatshirt', 0.029679947]
+[u'lab_coat', 0.14845933, u'gasmask', 0.093256682, u'neck_brace', 0.078866683, u'notebook', 0.058166347, u'stethoscope', 0.049530212]
+[u'screwdriver', 0.27526894, u'nail', 0.17048112, u"carpenter's_kit", 0.12925154, u'screw', 0.04827217, u'cleaver', 0.024852414]

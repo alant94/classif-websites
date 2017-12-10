@@ -1,0 +1,4 @@
+[u'book_jacket', 0.44275874, u'menu', 0.32841185, u'envelope', 0.023181546]
+[u'nematode', 0.095295183, u'dishwasher', 0.087305494, u'abaya', 0.031107163]
+[u'Irish_wolfhound', 0.57588768, u'Arabian_camel', 0.060464647, u'hyena', 0.041310176]
+[u'book_jacket', 0.32545987, u'packet', 0.29892775, u'carton', 0.12410948]

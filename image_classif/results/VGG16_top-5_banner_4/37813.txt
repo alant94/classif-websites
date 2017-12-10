@@ -1,0 +1,2 @@
+[u'web_site', 0.26697409, u'envelope', 0.15877739, u'Windsor_tie', 0.057911593, u'sock', 0.02164251, u'velvet', 0.016719609]
+[u'vestment', 0.40244791, u'torch', 0.30061316, u'poncho', 0.030088663, u'kimono', 0.030070936, u'academic_gown', 0.020612456]

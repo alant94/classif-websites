@@ -1,0 +1,6 @@
+[u'book_jacket', 0.55459321, u'television', 0.071621969, u'web_site', 0.046546891, u'hair_spray', 0.042534485, u'comic_book', 0.030513158]
+[u'envelope', 0.132256, u'digital_clock', 0.13103144, u'web_site', 0.084086239, u'wall_clock', 0.030717686, u'analog_clock', 0.028412305]
+[u'envelope', 0.13812146, u'web_site', 0.11365197, u'book_jacket', 0.047262203, u'Band_Aid', 0.018856276, u'analog_clock', 0.018696068]
+[u'book_jacket', 0.50137097, u'comic_book', 0.09005174, u'bookshop', 0.047498554, u'cash_machine', 0.03129204, u'menu', 0.022243811]
+[u'digital_clock', 0.29905054, u'digital_watch', 0.058232445, u'analog_clock', 0.03610437, u'envelope', 0.0358648, u'wall_clock', 0.029042607]
+[u'book_jacket', 0.21861684, u'jersey', 0.099724174, u'comic_book', 0.047340322, u'sweatshirt', 0.035715032, u'microphone', 0.028081292]

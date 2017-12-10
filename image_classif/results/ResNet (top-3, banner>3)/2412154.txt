@@ -1,0 +1,4 @@
+[u'web_site', 0.062229998, u'cornet', 0.052099098, u'oboe', 0.033038016]
+[u'hair_slide', 0.11392498, u'web_site', 0.092757009, u'spatula', 0.092590414]
+[u'hair_spray', 0.17679735, u'lotion', 0.16518204, u'packet', 0.069321781]
+[u'nipple', 0.15909424, u'whistle', 0.12988497, u'hair_spray', 0.078777872]

@@ -1,0 +1,3 @@
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]

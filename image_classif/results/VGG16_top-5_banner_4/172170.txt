@@ -1,0 +1,5 @@
+[u'buckle', 0.098164655, u'lighter', 0.084498383, u'reflex_camera', 0.060701773, u'stopwatch', 0.049146965, u'combination_lock', 0.040340807]
+[u'container_ship', 0.67970973, u'aircraft_carrier', 0.068055846, u'parachute', 0.034120582, u'airship', 0.02647802, u'space_shuttle', 0.020432394]
+[u'Band_Aid', 0.20662284, u'envelope', 0.13436821, u'Windsor_tie', 0.057847597, u'web_site', 0.041582223, u'sunscreen', 0.041443836]
+[u"carpenter's_kit", 0.11499563, u'hook', 0.099545479, u'nail', 0.096418492, u'nipple', 0.04234368, u'screwdriver', 0.040060323]
+[u'lighter', 0.13453336, u'digital_clock', 0.10522029, u'buckle', 0.080670923, u'tray', 0.079075187, u'scale', 0.043615587]

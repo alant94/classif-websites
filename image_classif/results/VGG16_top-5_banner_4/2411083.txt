@@ -1,0 +1,6 @@
+[u'whistle', 0.15999357, u'jersey', 0.095144555, u'envelope', 0.073369883, u'spatula', 0.058796603, u'picket_fence', 0.030002786]
+[u'fireboat', 0.1084582, u'container_ship', 0.068999656, u'trimaran', 0.068216957, u'lifeboat', 0.030294279, u'speedboat', 0.024978498]
+[u'safe', 0.20388807, u'whistle', 0.11126519, u'monitor', 0.06402012, u'switch', 0.045619007, u'web_site', 0.035716083]
+[u'ski', 0.62783784, u'ballpoint', 0.22852696, u"carpenter's_kit", 0.023212695, u'screwdriver', 0.016309835, u'chime', 0.014600311]
+[u'crane', 0.16137774, u'parachute', 0.15168294, u'ambulance', 0.057685841, u'paddlewheel', 0.047744315, u'traffic_light', 0.042010851]
+[u'envelope', 0.37029421, u'matchstick', 0.077555507, u'rule', 0.065187693, u'carton', 0.038795307, u'abacus', 0.036238361]

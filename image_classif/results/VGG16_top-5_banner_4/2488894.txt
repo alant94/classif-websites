@@ -1,0 +1,4 @@
+[u'book_jacket', 0.34258708, u'barbershop', 0.1983941, u'toyshop', 0.052296933, u'tobacco_shop', 0.047509193, u'shoe_shop', 0.042504132]
+[u'steam_locomotive', 0.57449824, u'harvester', 0.17343688, u'freight_car', 0.06003692, u'barn', 0.025094915, u'tractor', 0.021847341]
+[u'curly-coated_retriever', 0.27009925, u'standard_poodle', 0.23239332, u'Irish_water_spaniel', 0.078000747, u'flat-coated_retriever', 0.053969748, u'giant_schnauzer', 0.052311566]
+[u'giant_schnauzer', 0.35729399, u'Kerry_blue_terrier', 0.044500656, u'tripod', 0.043057289, u'assault_rifle', 0.042046957, u'Bouvier_des_Flandres', 0.033435546]

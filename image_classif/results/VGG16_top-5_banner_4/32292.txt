@@ -1,0 +1,2 @@
+[u'apiary', 0.14359784, u'barrow', 0.059873361, u'lawn_mower', 0.056341056, u'kimono', 0.050839186, u'backpack', 0.034546256]
+[u'soccer_ball', 0.14972244, u'hay', 0.064892605, u'parachute', 0.05613419, u'rugby_ball', 0.0503163, u'Irish_setter', 0.035908327]

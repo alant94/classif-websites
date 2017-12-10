@@ -1,0 +1,1 @@
+[u'turnstile', 0.078830503, u'library', 0.032743819, u'sliding_door', 0.031000292, u'forklift', 0.028860681, u'missile', 0.018737391]

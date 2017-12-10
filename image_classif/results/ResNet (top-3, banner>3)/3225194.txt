@@ -1,0 +1,5 @@
+[u'altar', 0.73223788, u'church', 0.16524297, u'organ', 0.046070524]
+[u'bow', 0.25891957, u'scabbard', 0.15440488, u'iron', 0.066681989]
+[u'fire_engine', 0.14164332, u'gas_pump', 0.11012252, u'crane', 0.081517607]
+[u'street_sign', 0.99992597, u'traffic_light', 6.7032684e-05, u'chainlink_fence', 1.644317e-06]
+[u'crossword_puzzle', 0.84495562, u'toilet_tissue', 0.079374835, u'rule', 0.012318594]

@@ -1,0 +1,6 @@
+[u'web_site', 0.96352249, u'crossword_puzzle', 0.0055214446, u'menu', 0.0030962308]
+[u'web_site', 0.89231807, u'crossword_puzzle', 0.025190333, u'menu', 0.018904142]
+[u'wall_clock', 0.26053619, u'whistle', 0.065304719, u'web_site', 0.060343448]
+[u'barbershop', 0.48900807, u'web_site', 0.1056402, u'shower_curtain', 0.054176725]
+[u'web_site', 0.29549092, u'electric_fan', 0.049178906, u'hand_blower', 0.033939302]
+[u'web_site', 0.20680593, u'analog_clock', 0.13519706, u'stopwatch', 0.08400058]

@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.90880293, u'analog_clock', 0.021274753, u'digital_clock', 0.021103073, u'stove', 0.0065714875, u'traffic_light', 0.0057365219]

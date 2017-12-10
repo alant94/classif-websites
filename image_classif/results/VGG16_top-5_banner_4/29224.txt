@@ -1,0 +1,1 @@
+[u'screen', 0.70532221, u'monitor', 0.11820032, u'television', 0.11131947, u'rock_beauty', 0.018893698, u'goldfish', 0.0063426564]

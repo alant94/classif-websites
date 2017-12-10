@@ -1,0 +1,2 @@
+[u'ski', 0.18955526, u'alp', 0.16295749, u'suspension_bridge', 0.092922926]
+[u'handkerchief', 0.16025557, u'paper_towel', 0.073376745, u'web_site', 0.072460219]

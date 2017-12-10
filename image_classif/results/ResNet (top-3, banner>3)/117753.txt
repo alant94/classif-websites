@@ -1,0 +1,2 @@
+[u'television', 0.13931379, u'theater_curtain', 0.12851432, u'cinema', 0.08855053]
+[u'prison', 0.84097183, u'castle', 0.0432331, u'monastery', 0.023176946]

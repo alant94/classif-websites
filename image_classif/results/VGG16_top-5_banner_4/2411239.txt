@@ -1,0 +1,2 @@
+[u'table_lamp', 0.43620443, u'nipple', 0.23787829, u'beaker', 0.072559506, u'thimble', 0.057052743, u'lampshade', 0.041022286]
+[u'web_site', 0.99826258, u'monitor', 0.0006627168, u'desktop_computer', 0.00017046518, u'refrigerator', 0.00015919468, u'notebook', 0.00015909284]

@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'orange', 0.44635293, u'barrow', 0.38647678, u'grocery_store', 0.052666932]
+[u'vestment', 0.23649713, u'spotlight', 0.076381929, u'unicycle', 0.068434305]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'sunscreen', 0.1130448, u'puck', 0.06866391, u'oil_filter', 0.058416024]

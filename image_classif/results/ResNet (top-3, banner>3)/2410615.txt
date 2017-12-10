@@ -1,0 +1,2 @@
+[u'television', 0.25973842, u'web_site', 0.19210447, u'bobsled', 0.18010387]
+[u'wallet', 0.23632215, u'iPod', 0.11081289, u'lipstick', 0.089437075]

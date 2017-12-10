@@ -1,0 +1,1 @@
+[u'croquet_ball', 0.13611776, u'vizsla', 0.040702686, u'Rhodesian_ridgeback', 0.032134317, u'Welsh_springer_spaniel', 0.030186143, u'Bouvier_des_Flandres', 0.027320497]

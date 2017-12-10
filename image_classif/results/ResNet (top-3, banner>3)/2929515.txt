@@ -1,0 +1,5 @@
+[u'web_site', 0.39541763, u'envelope', 0.06861119, u'binder', 0.04024858]
+[u'nail', 0.21466771, u'syringe', 0.13571629, u'ballpoint', 0.13505535]
+[u'nematode', 0.37603444, u'web_site', 0.12813769, u'envelope', 0.054920461]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'envelope', 0.16887435, u'digital_clock', 0.14858831, u'traffic_light', 0.14714207]

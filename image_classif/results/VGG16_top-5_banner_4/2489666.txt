@@ -1,0 +1,2 @@
+[u'envelope', 0.23336302, u'wall_clock', 0.030448655, u'web_site', 0.021691512, u'book_jacket', 0.018054914, u'velvet', 0.016731827]
+[u'face_powder', 0.41121379, u'lotion', 0.1310662, u'perfume', 0.10522049, u'spotlight', 0.037090506, u'golf_ball', 0.034662478]

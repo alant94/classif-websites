@@ -1,0 +1,2 @@
+[u'hook', 0.15006822, u'ambulance', 0.082489446, u'gas_pump', 0.079515234, u'chain_saw', 0.05092337, u'vacuum', 0.047315706]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

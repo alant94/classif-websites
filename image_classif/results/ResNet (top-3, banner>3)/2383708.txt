@@ -1,0 +1,4 @@
+[u'book_jacket', 0.83182937, u'envelope', 0.056746151, u'web_site', 0.044228263]
+[u'book_jacket', 0.79000062, u'envelope', 0.073343717, u'web_site', 0.072714612]
+[u'book_jacket', 0.79364097, u'comic_book', 0.17738102, u'menu', 0.0086608073]
+[u'rapeseed', 0.85816818, u'lakeside', 0.014384741, u'worm_fence', 0.013451008]

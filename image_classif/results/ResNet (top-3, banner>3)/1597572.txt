@@ -1,0 +1,4 @@
+[u'rocking_chair', 0.39608353, u'chain_saw', 0.10540919, u'drum', 0.067374952]
+[u'window_screen', 0.6743511, u'fire_screen', 0.16547795, u'abaya', 0.023010954]
+[u'baboon', 0.49630791, u'guenon', 0.054785572, u'macaque', 0.031353567]
+[u'brassiere', 0.85013539, u'bikini', 0.061993014, u'wig', 0.03661738]

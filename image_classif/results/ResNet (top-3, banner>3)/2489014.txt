@@ -1,0 +1,6 @@
+[u'leopard', 0.60607952, u'jaguar', 0.24101464, u'cheetah', 0.082710557]
+[u'lighter', 0.24604277, u'buckle', 0.13674729, u'shield', 0.10738116]
+[u'hartebeest', 0.67454922, u'warthog', 0.19437006, u'gazelle', 0.061767049]
+[u'lakeside', 0.15425992, u'parallel_bars', 0.092440657, u'worm_fence', 0.063942038]
+[u'leopard', 0.8535403, u'jaguar', 0.082692109, u'cheetah', 0.063353643]
+[u'crane', 0.17385928, u'Great_Dane', 0.14791638, u'whippet', 0.11357615]

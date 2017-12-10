@@ -1,0 +1,3 @@
+[u'throne', 0.18648732, u'palace', 0.083857648, u'altar', 0.053360209, u'stupa', 0.050721861, u'shoe_shop', 0.038126875]
+[u'book_jacket', 0.17564684, u'jersey', 0.097179033, u'comic_book', 0.062859938, u'abaya', 0.055651922, u'sweatshirt', 0.032939497]
+[u'monitor', 0.18800548, u'web_site', 0.18423985, u'sliding_door', 0.057072829, u'window_screen', 0.048205722, u'scoreboard', 0.044719886]

@@ -1,0 +1,2 @@
+[u'Indian_elephant', 0.23090701, u'tusker', 0.20867674, u'book_jacket', 0.17870954, u'Scottish_deerhound', 0.11238676, u'fountain', 0.046813417]
+[u'Indian_elephant', 0.26486459, u'wild_boar', 0.24247138, u'hog', 0.11071144, u'geyser', 0.093707673, u'tusker', 0.085923448]

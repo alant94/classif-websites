@@ -1,0 +1,1 @@
+[u'analog_clock', 0.23173022, u'loudspeaker', 0.17553712, u'stage', 0.075454824, u'tape_player', 0.043580513, u'radio', 0.041403558]

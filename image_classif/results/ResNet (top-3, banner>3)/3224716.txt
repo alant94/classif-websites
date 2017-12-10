@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.32795697, u'digital_watch', 0.32752252, u'digital_clock', 0.23762007]
+[u'brass', 0.40689689, u'menu', 0.18560043, u'upright', 0.073668934]
+[u'Band_Aid', 0.91648138, u'web_site', 0.018511366, u'book_jacket', 0.010000868]
+[u'barbershop', 0.45955718, u'book_jacket', 0.20076874, u'brass', 0.10091436]
+[u'shoe_shop', 0.22368242, u'lipstick', 0.20861268, u'paintbrush', 0.17233025]
+[u'traffic_light', 0.42573625, u'digital_clock', 0.22069031, u'digital_watch', 0.081311867]

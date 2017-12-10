@@ -1,0 +1,4 @@
+[u'web_site', 0.2149127, u'handkerchief', 0.21273609, u'binder', 0.079865023]
+[u'web_site', 0.6674605, u'envelope', 0.068807781, u'carton', 0.051623974]
+[u'vase', 0.38681066, u'swab', 0.082714684, u'rapeseed', 0.067728169]
+[u'doormat', 0.18363017, u'sarong', 0.10407241, u'picket_fence', 0.088905789]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.65694022, u'packet', 0.052711695, u'web_site', 0.038304038, u'comic_book', 0.028268393, u'jersey', 0.025340516]
+[u'web_site', 0.36033323, u'harmonica', 0.088946983, u'cello', 0.063970804, u'sax', 0.050966673, u'flute', 0.043278456]
+[u'sliding_door', 0.053900279, u'wardrobe', 0.037790306, u'beacon', 0.032470737, u'flagpole', 0.030949051, u'traffic_light', 0.026757261]
+[u'book_jacket', 0.58359814, u'jersey', 0.12767406, u'comic_book', 0.020832669, u'digital_clock', 0.020152008, u'packet', 0.017910974]
+[u'oboe', 0.4017556, u'bassoon', 0.14901309, u'abaya', 0.082973398, u'web_site', 0.061748218, u'flute', 0.045048419]
+[u'digital_clock', 0.2469375, u'digital_watch', 0.081936285, u'space_heater', 0.077301219, u'tray', 0.063616328, u'microwave', 0.056004319]
+[u'suit', 0.3172631, u'spotlight', 0.18555433, u'abaya', 0.077720866, u'trench_coat', 0.063956991, u'cloak', 0.059831414]
+[u'military_uniform', 0.19707477, u'shower_cap', 0.085287854, u'television', 0.071806356, u'bow_tie', 0.056706779, u'microphone', 0.044209596]

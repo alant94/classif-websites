@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.3307381, u'hamper', 0.073579758, u'vestment', 0.035571802]
+[u'gyromitra', 0.27278763, u'snail', 0.21623218, u'partridge', 0.0454324]
+[u'hamper', 0.66726279, u'shopping_basket', 0.060552485, u'thimble', 0.053976711]
+[u'hair_spray', 0.47447163, u'ballpoint', 0.14032312, u'tobacco_shop', 0.053836532]
+[u'lotion', 0.44308317, u'pill_bottle', 0.33664683, u'sunscreen', 0.092913553]

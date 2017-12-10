@@ -1,0 +1,3 @@
+[u'dumbbell', 0.24383365, u'miniskirt', 0.22064066, u'swimming_trunks', 0.066091523, u'shoe_shop', 0.062747799, u'balance_beam', 0.026414724]
+[u'swimming_trunks', 0.43162963, u'brassiere', 0.16220942, u'maillot', 0.1272729, u'bikini', 0.1076411, u'miniskirt', 0.030043552]
+[u'dumbbell', 0.12229279, u'punching_bag', 0.10654818, u'barbell', 0.063623704, u'miniskirt', 0.034918934, u'jean', 0.029684616]

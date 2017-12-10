@@ -1,0 +1,4 @@
+[u'safe', 0.535384, u'microwave', 0.16828525, u'Polaroid_camera', 0.062212184, u'projector', 0.035499569, u'combination_lock', 0.033055644]
+[u'microwave', 0.3695828, u'home_theater', 0.14903998, u'cash_machine', 0.14357086, u'vending_machine', 0.056408715, u'television', 0.043139372]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'tape_player', 0.4202179, u'cassette_player', 0.23895003, u'CD_player', 0.12646528, u'radio', 0.10705999, u'loudspeaker', 0.081186622]

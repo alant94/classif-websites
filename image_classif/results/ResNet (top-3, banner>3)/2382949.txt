@@ -1,0 +1,2 @@
+[u'espresso_maker', 0.49881026, u'stove', 0.13880327, u'drum', 0.11873391]
+[u'pick', 0.10603078, u'puck', 0.093208142, u'honeycomb', 0.060737796]

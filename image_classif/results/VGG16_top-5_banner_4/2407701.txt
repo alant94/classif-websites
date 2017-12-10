@@ -1,0 +1,1 @@
+[u'Crock_Pot', 0.25265479, u'pill_bottle', 0.22472332, u'lotion', 0.080402449, u'face_powder', 0.051829804, u'sunscreen', 0.045466606]

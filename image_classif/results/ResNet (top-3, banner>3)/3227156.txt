@@ -1,0 +1,7 @@
+[u'chainlink_fence', 0.24708107, u'prison', 0.20661965, u'gondola', 0.098384656]
+[u'picket_fence', 0.77104354, u'suspension_bridge', 0.034930211, u'traffic_light', 0.020123627]
+[u'scoreboard', 0.97522652, u'street_sign', 0.013007242, u'container_ship', 0.0024166766]
+[u'web_site', 0.082907118, u'remote_control', 0.044383205, u'lighter', 0.027007911]
+[u'envelope', 0.22130774, u'web_site', 0.13938031, u'lighter', 0.12891163]
+[u'stage', 0.44909573, u'picket_fence', 0.17000993, u'greenhouse', 0.079340748]
+[u'web_site', 0.28946835, u'digital_clock', 0.107612, u'analog_clock', 0.027937964]

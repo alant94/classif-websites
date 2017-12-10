@@ -1,0 +1,8 @@
+[u'wire-haired_fox_terrier', 0.69852, u'West_Highland_white_terrier', 0.099864133, u'borzoi', 0.069039747]
+[u'comic_book', 0.29570973, u'book_jacket', 0.16044988, u'web_site', 0.13210726]
+[u'digital_clock', 0.15840927, u'web_site', 0.13344131, u'analog_clock', 0.071871422]
+[u'hair_slide', 0.45006928, u'cornet', 0.1660445, u'oboe', 0.028945947]
+[u'pill_bottle', 0.041427102, u'web_site', 0.035846118, u'book_jacket', 0.031101024]
+[u'screwdriver', 0.12461048, u'ballpoint', 0.11294568, u'bow', 0.11220811]
+[u'barrow', 0.11995833, u'chain_saw', 0.11660694, u'Dungeness_crab', 0.088390335]
+[u'street_sign', 0.3512935, u'scoreboard', 0.2669512, u'comic_book', 0.093641683]

@@ -1,0 +1,2 @@
+[u'jean', 0.14294243, u'worm_fence', 0.066011526, u'picket_fence', 0.043325637]
+[u'digital_clock', 0.94430894, u'digital_watch', 0.0085633416, u'analog_clock', 0.0049591931]

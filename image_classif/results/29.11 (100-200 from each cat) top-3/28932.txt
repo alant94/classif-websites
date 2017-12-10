@@ -1,0 +1,2 @@
+[u'espresso', 0.71727496, u'consomme', 0.1703328, u'coffee_mug', 0.045048427]
+[u'digital_clock', 0.73437989, u'digital_watch', 0.24133494, u'book_jacket', 0.012137577]

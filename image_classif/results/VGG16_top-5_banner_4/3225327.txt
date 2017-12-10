@@ -1,0 +1,1 @@
+[u'racket', 0.79714721, u'bucket', 0.02338624, u'bow', 0.017860554, u'bathing_cap', 0.014203002, u'tennis_ball', 0.0094890166]

@@ -1,0 +1,2 @@
+[u'drum', 0.21232712, u'pick', 0.12225931, u'comic_book', 0.057974696, u'acoustic_guitar', 0.047172263, u'lighter', 0.046402056]
+[u'matchstick', 0.14871858, u'Band_Aid', 0.144454, u'doormat', 0.11979518, u'lighter', 0.11010955, u'harmonica', 0.065727286]

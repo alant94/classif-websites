@@ -1,0 +1,3 @@
+[u'switch', 0.28912383, u'screw', 0.06472069, u'modem', 0.052101012, u'wall_clock', 0.046750434, u'whistle', 0.029531114]
+[u'dial_telephone', 0.24313766, u'combination_lock', 0.13687716, u'switch', 0.1066639, u'pay-phone', 0.077436775, u'lighter', 0.073448911]
+[u'switch', 0.077041656, u'medicine_chest', 0.048750926, u'wall_clock', 0.046879172, u'boathouse', 0.038299195, u'bell_cote', 0.030428097]

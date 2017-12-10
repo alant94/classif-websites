@@ -1,0 +1,2 @@
+[u'traffic_light', 0.16928327, u'matchstick', 0.083443984, u'book_jacket', 0.068738259]
+[u'envelope', 0.20439845, u'cleaver', 0.026607975, u'refrigerator', 0.024295496]

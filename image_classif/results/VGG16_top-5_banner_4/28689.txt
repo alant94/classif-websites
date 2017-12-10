@@ -1,0 +1,1 @@
+[u'cinema', 0.18221933, u'book_jacket', 0.097556934, u'gong', 0.068021752, u'traffic_light', 0.06541647, u'analog_clock', 0.04273057]

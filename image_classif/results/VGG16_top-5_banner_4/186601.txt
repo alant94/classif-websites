@@ -1,0 +1,1 @@
+[u'book_jacket', 0.1285271, u'library', 0.097159199, u'screwdriver', 0.069223315, u'matchstick', 0.062651299, u'bookshop', 0.050713081]

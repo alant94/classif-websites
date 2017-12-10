@@ -1,0 +1,6 @@
+[u'red_wine', 0.59929293, u'wine_bottle', 0.35158318, u'beer_bottle', 0.042337961]
+[u'red_wine', 0.64035547, u'wine_bottle', 0.35822093, u'corkscrew', 0.00059191149]
+[u'nematode', 0.068343803, u'binder', 0.027354851, u'pedestal', 0.02463476]
+[u'book_jacket', 0.64087808, u'envelope', 0.21861497, u'street_sign', 0.037808616]
+[u'lotion', 0.33880892, u'wine_bottle', 0.2461932, u'red_wine', 0.12058757]
+[u'lotion', 0.66011399, u'wine_bottle', 0.31786272, u'red_wine', 0.0086251972]

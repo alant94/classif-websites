@@ -1,0 +1,2 @@
+[u'microphone', 0.46853152, u'electric_guitar', 0.19686382, u'stage', 0.074626006, u'panpipe', 0.067710415, u'acoustic_guitar', 0.044624332]
+[u'bell_cote', 0.26195058, u'analog_clock', 0.13551368, u'screw', 0.075898968, u'mask', 0.050772112, u'bubble', 0.036690947]

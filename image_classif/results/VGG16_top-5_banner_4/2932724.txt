@@ -1,0 +1,7 @@
+[u'sarong', 0.11910397, u'ear', 0.045336917, u'shower_curtain', 0.044654384, u'maillot', 0.025453761, u'pajama', 0.024105804]
+[u'lab_coat', 0.35598832, u'shower_curtain', 0.19612277, u'handkerchief', 0.045478415, u'butcher_shop', 0.031742059, u'mosquito_net', 0.030932413]
+[u'abaya', 0.329593, u'cloak', 0.18609171, u'sweatshirt', 0.060210418, u'velvet', 0.040419467, u'suit', 0.034212895]
+[u'cleaver', 0.11684126, u'stole', 0.045565594, u'butcher_shop', 0.041269291, u'swimming_trunks', 0.031555429, u'sarong', 0.029885696]
+[u'cleaver', 0.062005199, u'conch', 0.044615738, u'groom', 0.037212186, u'dough', 0.03071266, u'hatchet', 0.03030975]
+[u'wardrobe', 0.57230514, u'swab', 0.061058864, u'ski', 0.051197268, u'sweatshirt', 0.046624135, u'quill', 0.023259856]
+[u'bikini', 0.23458441, u'brassiere', 0.048893385, u'sarong', 0.03852265, u'maillot', 0.038389377, u'maraca', 0.037584331]

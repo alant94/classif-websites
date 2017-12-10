@@ -1,0 +1,3 @@
+[u'web_site', 0.24379776, u'doormat', 0.056442767, u'Band_Aid', 0.051548973]
+[u'web_site', 0.19144765, u'book_jacket', 0.042367835, u'comic_book', 0.03674645]
+[u'nail', 0.050025735, u'ballpoint', 0.046008598, u'perfume', 0.042688075]

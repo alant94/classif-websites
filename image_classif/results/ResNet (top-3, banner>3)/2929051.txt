@@ -1,0 +1,4 @@
+[u'cloak', 0.08956413, u'cardigan', 0.070147201, u'fur_coat', 0.055666894]
+[u'dishwasher', 0.18775493, u'ski', 0.10043253, u'carton', 0.094441794]
+[u'plate_rack', 0.063075155, u'dishwasher', 0.060195345, u'nipple', 0.042044166]
+[u'greenhouse', 0.36932823, u'dock', 0.11005508, u'dam', 0.077477738]

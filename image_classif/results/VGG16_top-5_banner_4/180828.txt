@@ -1,0 +1,4 @@
+[u'book_jacket', 0.27229032, u'digital_clock', 0.087484024, u'cash_machine', 0.064034961, u'cinema', 0.04242681, u'scoreboard', 0.041885961]
+[u'matchstick', 0.24516411, u'organ', 0.11077107, u"carpenter's_kit", 0.048453368, u'wall_clock', 0.046239551, u'syringe', 0.0379043]
+[u'nail', 0.23206224, u'web_site', 0.12392005, u'screwdriver', 0.065306984, u"carpenter's_kit", 0.045213792, u'ballpoint', 0.042286888]
+[u'swab', 0.39095944, u'shower_curtain', 0.094647564, u'handkerchief', 0.084652163, u'mosquito_net', 0.046584565, u'monitor', 0.045899574]

@@ -1,0 +1,2 @@
+[u'throne', 0.37282595, u'book_jacket', 0.11782303, u'altar', 0.080768876, u'fountain', 0.028122606, u'monastery', 0.021933271]
+[u"carpenter's_kit", 0.26767913, u'screwdriver', 0.2609781, u'nail', 0.17994587, u'screw', 0.073901422, u'ballpoint', 0.058674533]

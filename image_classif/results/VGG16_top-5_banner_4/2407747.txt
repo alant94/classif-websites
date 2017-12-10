@@ -1,0 +1,1 @@
+[u'brassiere', 0.2118566, u'matchstick', 0.10819029, u'pole', 0.086598463, u'maillot', 0.07904847, u'balance_beam', 0.037293464]

@@ -1,0 +1,6 @@
+[u'web_site', 0.13295402, u'maraca', 0.050372683, u'stopwatch', 0.042628702]
+[u'switch', 0.47989023, u'cassette', 0.065417081, u'Band_Aid', 0.053438935]
+[u'digital_clock', 0.30181077, u'switch', 0.16608135, u'iPod', 0.079513475]
+[u'street_sign', 0.96769708, u'traffic_light', 0.015548933, u'oscilloscope', 0.0057924469]
+[u'lighter', 0.1342248, u'medicine_chest', 0.1320309, u'shield', 0.06467174]
+[u'street_sign', 0.51635081, u'traffic_light', 0.10445967, u'digital_clock', 0.10375427]

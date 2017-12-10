@@ -1,0 +1,2 @@
+[u'altar', 0.73598665, u'toyshop', 0.13303281, u'stupa', 0.023462951, u'chime', 0.0073479395, u'carousel', 0.0073078545]
+[u'tractor', 0.16670151, u'lumbermill', 0.1201855, u'forklift', 0.099189498, u'spotlight', 0.09461958, u'half_track', 0.093936704]

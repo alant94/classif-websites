@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.93483114, u'quilt', 0.017830551, u'tray', 0.015742069]
+[u'triumphal_arch', 0.21666355, u'cliff', 0.13602155, u'monastery', 0.09301696]
+[u'chain', 0.52871954, u'typewriter_keyboard', 0.11824924, u'screw', 0.068861455]

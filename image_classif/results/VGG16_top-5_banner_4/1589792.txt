@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.40918434, u'brassiere', 0.1597686, u'Italian_greyhound', 0.062005788, u'bow_tie', 0.044573948, u'Weimaraner', 0.033022728]
+[u'bikini', 0.32899225, u'bathtub', 0.062608838, u'Mexican_hairless', 0.050402317, u'book_jacket', 0.041921377, u'brassiere', 0.037790596]
+[u'bubble', 0.19646026, u'microphone', 0.089141048, u'Band_Aid', 0.082637131, u'hair_spray', 0.073403575, u'Weimaraner', 0.043226473]
+[u'Band_Aid', 0.10937531, u"potter's_wheel", 0.098233148, u'harmonica', 0.045364086, u'bathing_cap', 0.034358125, u'chain', 0.033277195]
+[u'spotlight', 0.10805017, u'radiator', 0.065212168, u'microphone', 0.037839595, u'grand_piano', 0.03579304, u'projector', 0.030789642]
+[u'punching_bag', 0.14780398, u'sliding_door', 0.06194241, u'four-poster', 0.039762616, u'miniskirt', 0.03239185, u'pole', 0.030715432]
+[u'butcher_shop', 0.082589269, u'bikini', 0.05188651, u'tub', 0.048505884, u'grand_piano', 0.046475235, u'maillot', 0.041782141]
+[u'stingray', 0.17137678, u'violin', 0.063501246, u'diaper', 0.045478631, u'sunscreen', 0.039010122, u'sandbar', 0.03106574]

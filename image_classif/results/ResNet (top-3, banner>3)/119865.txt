@@ -1,0 +1,3 @@
+[u'comic_book', 0.49183881, u'pick', 0.1182439, u'rubber_eraser', 0.068502672]
+[u'slot', 0.90183145, u'wall_clock', 0.022133792, u'plate_rack', 0.01248306]
+[u'bearskin', 0.16300318, u'tripod', 0.096453674, u'flute', 0.084090292]

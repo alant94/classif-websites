@@ -1,0 +1,4 @@
+[u'barracouta', 0.1056039, u'alligator_lizard', 0.060441718, u'eel', 0.042310786]
+[u'altar', 0.10217793, u'drilling_platform', 0.042379048, u'tray', 0.038774028]
+[u'frilled_lizard', 0.407958, u'barracouta', 0.16540153, u'breastplate', 0.036841381]
+[u'gar', 0.13969707, u'common_newt', 0.13185965, u'coho', 0.12712456]

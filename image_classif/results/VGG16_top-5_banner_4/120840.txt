@@ -1,0 +1,3 @@
+[u'dial_telephone', 0.26630706, u'digital_clock', 0.10203166, u'iPod', 0.061080582, u'buckle', 0.058602583, u'switch', 0.040984262]
+[u'buckle', 0.48198345, u"carpenter's_kit", 0.29595444, u'lighter', 0.12842312, u'digital_clock', 0.022766471, u'combination_lock', 0.010381554]
+[u'tray', 0.71658248, u'lighter', 0.20181493, u'buckle', 0.042206962, u'digital_clock', 0.0075033908, u'television', 0.0037677102]

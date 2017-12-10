@@ -1,0 +1,2 @@
+[u'chimpanzee', 0.09174633, u'gorilla', 0.077467576, u'abaya', 0.066973589]
+[u'crossword_puzzle', 0.18567152, u'digital_clock', 0.10325813, u'digital_watch', 0.050457228]

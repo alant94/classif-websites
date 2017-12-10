@@ -1,0 +1,4 @@
+[u'menu', 0.91869563, u'carton', 0.080414645, u'envelope', 0.00048865192, u'packet', 0.0001561471, u'projector', 4.4369746e-05]
+[u'harmonica', 0.14963759, u'microphone', 0.10557166, u'stage', 0.054283079, u'flute', 0.040840074, u'electric_guitar', 0.037446734]
+[u'book_jacket', 0.6459105, u'comic_book', 0.03931066, u'menu', 0.024372572, u'scoreboard', 0.019224035, u'bulletproof_vest', 0.012919016]
+[u'prison', 0.13731462, u'turnstile', 0.096691117, u'swab', 0.05660478, u'crutch', 0.040710323, u'stage', 0.039967272]

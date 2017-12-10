@@ -1,0 +1,4 @@
+[u'pajama', 0.15062036, u'bikini', 0.068759158, u'sarong', 0.05954092, u'bath_towel', 0.051374983, u'gown', 0.034111302]
+[u'brassiere', 0.33881608, u'maillot', 0.22934648, u'maillot', 0.098576471, u'bikini', 0.058086336, u'wig', 0.03411673]
+[u'pajama', 0.20017663, u'brassiere', 0.12309717, u'maillot', 0.10660651, u'Christmas_stocking', 0.064717621, u'gown', 0.048990756]
+[u'diaper', 0.43259776, u'bikini', 0.061751824, u'mosquito_net', 0.056278083, u'brassiere', 0.044125475, u'pajama', 0.041886967]

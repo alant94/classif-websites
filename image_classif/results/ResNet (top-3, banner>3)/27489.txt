@@ -1,0 +1,6 @@
+[u'acoustic_guitar', 0.95990664, u'electric_guitar', 0.02148528, u'pick', 0.0061487062]
+[u'altar', 0.28386328, u'lipstick', 0.18066692, u'submarine', 0.078723662]
+[u'hard_disc', 0.15631533, u'lighter', 0.11385084, u'menu', 0.09083584]
+[u'shield', 0.10290734, u'acoustic_guitar', 0.082447894, u'jigsaw_puzzle', 0.082205921]
+[u'web_site', 0.65242553, u'buckle', 0.084784232, u'analog_clock', 0.030515175]
+[u'screen', 0.30040419, u'monitor', 0.18979168, u'web_site', 0.075166933]

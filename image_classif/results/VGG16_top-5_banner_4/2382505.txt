@@ -1,0 +1,7 @@
+[u'plate_rack', 0.36163613, u'prison', 0.19619839, u'abacus', 0.081533082, u'organ', 0.071920648, u'crib', 0.062008936]
+[u'beer_bottle', 0.86621445, u'wine_bottle', 0.090264626, u'red_wine', 0.029174635, u'pop_bottle', 0.011339026, u'beer_glass', 0.0027009221]
+[u'red_wine', 0.97496355, u'wine_bottle', 0.018082917, u'goblet', 0.0067686238, u'hummingbird', 6.1386934e-05, u'corkscrew', 2.8327306e-05]
+[u'stage', 0.4710221, u'cinema', 0.37158468, u'restaurant', 0.060625352, u'spotlight', 0.026676312, u'theater_curtain', 0.018936444]
+[u'Crock_Pot', 0.24631175, u'restaurant', 0.17594211, u'bakery', 0.065631695, u'plate', 0.058111977, u'rotisserie', 0.04196512]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'digital_clock', 0.15467185, u'picket_fence', 0.056713175, u'scoreboard', 0.040449388, u'Windsor_tie', 0.037928987, u'crossword_puzzle', 0.034992676]

@@ -1,0 +1,4 @@
+[u'harp', 0.35717136, u'chain_saw', 0.036764827, u'panpipe', 0.035087835]
+[u'safe', 0.08220458, u'carton', 0.053377852, u'oil_filter', 0.05165178]
+[u'capuchin', 0.067438722, u'bow_tie', 0.049477492, u'Chihuahua', 0.047893304]
+[u'digital_clock', 0.76430541, u'scoreboard', 0.16107515, u'stopwatch', 0.016144125]

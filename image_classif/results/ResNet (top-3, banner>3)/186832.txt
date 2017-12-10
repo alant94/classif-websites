@@ -1,0 +1,2 @@
+[u'suit', 0.54527307, u'mortarboard', 0.152353, u'bow_tie', 0.062727906]
+[u'ambulance', 0.33803114, u'web_site', 0.1825833, u'sliding_door', 0.10125453]

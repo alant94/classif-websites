@@ -1,0 +1,2 @@
+[u'bathtub', 0.20003918, u'tub', 0.11468446, u'toilet_seat', 0.095261991, u'bassinet', 0.05293509, u'quilt', 0.039636645]
+[u'studio_couch', 0.89682865, u'chest', 0.026972078, u'pedestal', 0.02174725, u'throne', 0.007684703, u'bookcase', 0.0061763814]

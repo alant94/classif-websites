@@ -1,0 +1,1 @@
+[u'street_sign', 0.077379748, u'web_site', 0.071851619, u'oil_filter', 0.059620421, u'pill_bottle', 0.048044231, u'sunscreen', 0.033703949]

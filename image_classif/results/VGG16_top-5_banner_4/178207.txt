@@ -1,0 +1,2 @@
+[u'lab_coat', 0.78585738, u'Windsor_tie', 0.11066898, u'suit', 0.032932114, u'neck_brace', 0.019416276, u'bulletproof_vest', 0.0062076561]
+[u"potter's_wheel", 0.24787408, u'cliff_dwelling', 0.22829437, u'guillotine', 0.071683541, u'vault', 0.037567962, u'altar', 0.035655424]

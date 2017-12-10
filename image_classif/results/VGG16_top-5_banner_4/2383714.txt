@@ -1,0 +1,4 @@
+[u'traffic_light', 0.57939768, u'warplane', 0.085311003, u'hook', 0.029812934, u'switch', 0.022931209, u'street_sign', 0.010606296]
+[u'comic_book', 0.21500753, u'shield', 0.17926079, u'book_jacket', 0.14728908, u"jack-o'-lantern", 0.066874437, u'tray', 0.055512045]
+[u'traffic_light', 0.2539992, u'hook', 0.092264213, u'crane', 0.057846457, u'street_sign', 0.049208187, u'bell_cote', 0.022921236]
+[u'analog_clock', 0.41320816, u'wall_clock', 0.10797276, u'pool_table', 0.077097937, u'hook', 0.037697986, u'table_lamp', 0.029427212]

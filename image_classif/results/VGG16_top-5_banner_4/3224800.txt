@@ -1,0 +1,1 @@
+[u'web_site', 0.91566175, u'bow', 0.023823027, u'book_jacket', 0.021275016, u'comic_book', 0.0055708126, u'black_stork', 0.0036099968]

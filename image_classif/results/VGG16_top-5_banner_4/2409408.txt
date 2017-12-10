@@ -1,0 +1,5 @@
+[u'mailbag', 0.26370484, u'mailbox', 0.16137072, u'binder', 0.074494667, u'backpack', 0.040906746, u'iron', 0.039582122]
+[u'switch', 0.17808445, u'modem', 0.084578127, u'toaster', 0.082968816, u'hard_disc', 0.052770793, u'mailbag', 0.052655395]
+[u'spotlight', 0.31567499, u'iron', 0.13710447, u'chest', 0.060400885, u'space_heater', 0.050024237, u'cradle', 0.034562379]
+[u'switch', 0.17808445, u'modem', 0.084578127, u'toaster', 0.082968816, u'hard_disc', 0.052770793, u'mailbag', 0.052655395]
+[u'plane', 0.14039654, u'vacuum', 0.094153196, u'can_opener', 0.083759315, u'espresso_maker', 0.066251494, u'spotlight', 0.036644626]

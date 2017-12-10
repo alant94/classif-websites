@@ -1,0 +1,6 @@
+[u'prayer_rug', 0.72840023, u'crossword_puzzle', 0.10190805, u'analog_clock', 0.028729137]
+[u'mobile_home', 0.79209262, u'boathouse', 0.045291286, u'solar_dish', 0.018599069]
+[u'street_sign', 0.2236881, u'packet', 0.083403945, u'web_site', 0.080234461]
+[u'lakeside', 0.48645884, u'mobile_home', 0.14244354, u'worm_fence', 0.05556668]
+[u'web_site', 0.38373062, u'monitor', 0.23414071, u'hand-held_computer', 0.076687373]
+[u'lakeside', 0.63327807, u'monastery', 0.06991113, u'boathouse', 0.050781939]

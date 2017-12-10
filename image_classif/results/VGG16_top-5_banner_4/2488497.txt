@@ -1,0 +1,3 @@
+[u'geyser', 0.93072277, u'fountain', 0.0071370243, u'horse_cart', 0.0065097846, u'snowplow', 0.0062827766, u'space_shuttle', 0.0035444158]
+[u'fountain', 0.099701211, u'picket_fence', 0.081905909, u'bow', 0.057857394, u'ski', 0.033889957, u'red_wine', 0.028053043]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

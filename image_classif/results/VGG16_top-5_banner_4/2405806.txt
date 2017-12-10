@@ -1,0 +1,7 @@
+[u'switch', 0.13244961, u'envelope', 0.11267707, u'modem', 0.083205357, u'iron', 0.073622361, u'photocopier', 0.050644029]
+[u'ping-pong_ball', 0.5940733, u'tennis_ball', 0.26108146, u'whistle', 0.053308912, u'brassiere', 0.012402398, u'baseball', 0.0085650627]
+[u'radio_telescope', 0.15225177, u'grand_piano', 0.113709, u'lampshade', 0.080774292, u'spotlight', 0.071408726, u'table_lamp', 0.036764391]
+[u'spotlight', 0.26392969, u'radiator', 0.078415416, u'swab', 0.067914687, u'plate_rack', 0.059334192, u'panpipe', 0.039574884]
+[u'conch', 0.1741221, u'candle', 0.064760476, u'spotlight', 0.064526089, u'pencil_sharpener', 0.060839035, u'jellyfish', 0.059719115]
+[u'bell_cote', 0.28442737, u'analog_clock', 0.08386188, u'upright', 0.073065452, u'grand_piano', 0.058227114, u'digital_clock', 0.045089807]
+[u'picket_fence', 0.42131948, u'whistle', 0.21425863, u'screwdriver', 0.043505173, u'ballpoint', 0.04167695, u'matchstick', 0.039185155]

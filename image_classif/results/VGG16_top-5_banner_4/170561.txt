@@ -1,0 +1,7 @@
+[u'brassiere', 0.20115322, u'miniskirt', 0.099968083, u'tub', 0.086362831, u'bathtub', 0.072838485, u'maillot', 0.059213348]
+[u'butcher_shop', 0.065252334, u'feather_boa', 0.038119674, u'vulture', 0.03030731, u'wig', 0.029185029, u'breastplate', 0.027698791]
+[u'lipstick', 0.25153354, u'wig', 0.12541004, u'web_site', 0.095133714, u'television', 0.077037148, u'cellular_telephone', 0.062098872]
+[u'web_site', 0.98420584, u'comic_book', 0.010361079, u'menu', 0.0016163508, u'packet', 0.00074250065, u'scoreboard', 0.00070959452]
+[u'sunglasses', 0.5978995, u'sunglass', 0.22845316, u'bow_tie', 0.020043815, u'neck_brace', 0.019248722, u'wig', 0.012825888]
+[u'steel_drum', 0.2590929, u'caldron', 0.21974066, u'gong', 0.088921711, u'abaya', 0.083281666, u'drumstick', 0.059877627]
+[u'mailbox', 0.12233753, u'pay-phone', 0.11220061, u'street_sign', 0.10637183, u'tobacco_shop', 0.089125693, u'bookshop', 0.081191897]

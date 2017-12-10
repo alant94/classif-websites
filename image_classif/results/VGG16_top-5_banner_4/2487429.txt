@@ -1,0 +1,4 @@
+[u'tusker', 0.24014701, u'water_buffalo', 0.15526024, u'plow', 0.14885125, u'wild_boar', 0.11326877, u'African_elephant', 0.10385893]
+[u'worm_fence', 0.38135979, u'lakeside', 0.080227226, u'lumbermill', 0.057899136, u'park_bench', 0.0536846, u'mountain_tent', 0.048902508]
+[u'lakeside', 0.4313046, u'valley', 0.049294829, u'canoe', 0.0417559, u'American_egret', 0.026052255, u'Chesapeake_Bay_retriever', 0.012246873]
+[u'chain_saw', 0.12840949, u'rifle', 0.057079241, u'Indian_elephant', 0.054384392, u'apiary', 0.037783567, u'horse_cart', 0.036057904]

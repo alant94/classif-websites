@@ -1,0 +1,8 @@
+[u'Gordon_setter', 0.29865381, u'briard', 0.17087017, u'groenendael', 0.13722447, u'Bouvier_des_Flandres', 0.1038216, u'giant_schnauzer', 0.059662383]
+[u'barrow', 0.44278875, u'plow', 0.053090505, u'harvester', 0.052495558, u'oxcart', 0.044788707, u'lawn_mower', 0.032389633]
+[u'pill_bottle', 0.247049, u'candle', 0.22049886, u'ice_lolly', 0.036484376, u'balloon', 0.034795795, u'honeycomb', 0.034128789]
+[u'tusker', 0.73186833, u'Indian_elephant', 0.10913675, u'African_elephant', 0.038274013, u'Great_Dane', 0.025915205, u'Weimaraner', 0.017729118]
+[u'fountain', 0.40351167, u'triceratops', 0.14153263, u'Doberman', 0.076805227, u'butcher_shop', 0.043521363, u'plow', 0.021964999]
+[u'lakeside', 0.11943358, u'sarong', 0.10451981, u'maypole', 0.068189479, u'cliff', 0.063261814, u'worm_fence', 0.056089427]
+[u'swing', 0.24416119, u'yurt', 0.20019974, u'boathouse', 0.089180015, u'barn', 0.077685371, u'lumbermill', 0.068710454]
+[u'hog', 0.63653964, u'butcher_shop', 0.15291834, u'cock', 0.065167233, u'wild_boar', 0.043376595, u'rotisserie', 0.0090188216]

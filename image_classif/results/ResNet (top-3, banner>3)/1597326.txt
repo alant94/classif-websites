@@ -1,0 +1,4 @@
+[u'bikini', 0.54233086, u'diaper', 0.15662579, u'brassiere', 0.060112216]
+[u'bikini', 0.39748555, u'lawn_mower', 0.16658947, u'swing', 0.069811098]
+[u'oxygen_mask', 0.25547636, u'microphone', 0.058374476, u'sandal', 0.058025774]
+[u'shower_cap', 0.77119577, u'swimming_trunks', 0.047918551, u'bikini', 0.039958414]

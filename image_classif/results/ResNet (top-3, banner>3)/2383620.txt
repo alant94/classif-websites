@@ -1,0 +1,8 @@
+[u'window_shade', 0.18191811, u'shower_curtain', 0.10098267, u'mask', 0.092771687]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'screen', 0.35336074, u'monitor', 0.17535233, u'television', 0.16237743]
+[u'cowboy_hat', 0.23044436, u'sombrero', 0.1179911, u'jackfruit', 0.086829774]
+[u'wine_bottle', 0.51792115, u'red_wine', 0.47950152, u'corkscrew', 0.0023123249]
+[u'home_theater', 0.2089037, u'television', 0.16219258, u'screen', 0.1497342]
+[u'beer_glass', 0.39861125, u'perfume', 0.36296251, u'water_jug', 0.05970522]
+[u'menu', 0.31733063, u'web_site', 0.10746291, u'book_jacket', 0.052065451]

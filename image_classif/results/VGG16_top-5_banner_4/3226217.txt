@@ -1,0 +1,5 @@
+[u'envelope', 0.39285356, u'binder', 0.3833544, u'carton', 0.048062716, u'packet', 0.019321609, u'rule', 0.015960963]
+[u'book_jacket', 0.66419595, u'menu', 0.11883488, u'comic_book', 0.083158135, u'scoreboard', 0.015563575, u'vestment', 0.0094884112]
+[u'menu', 0.19053873, u'web_site', 0.13799454, u'oscilloscope', 0.12010952, u'envelope', 0.070215046, u'crossword_puzzle', 0.059830498]
+[u'digital_clock', 0.14996801, u'Band_Aid', 0.10489237, u'web_site', 0.092712395, u'envelope', 0.091121167, u'wall_clock', 0.050652109]
+[u'envelope', 0.22120741, u'Band_Aid', 0.10537606, u'web_site', 0.079110861, u'digital_clock', 0.057432592, u'wall_clock', 0.044340763]

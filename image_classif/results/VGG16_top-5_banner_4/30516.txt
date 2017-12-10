@@ -1,0 +1,7 @@
+[u'puck', 0.96985245, u'bottlecap', 0.020394078, u'pick', 0.0036175542, u'book_jacket', 0.00071718107, u'rugby_ball', 0.00071003399]
+[u'mobile_home', 0.53438246, u'recreational_vehicle', 0.17724235, u'golfcart', 0.079239115, u'yurt', 0.018668259, u'trolleybus', 0.011905878]
+[u'digital_clock', 0.7467159, u'scoreboard', 0.066692315, u'digital_watch', 0.066443399, u'wall_clock', 0.012049774, u'maze', 0.0099283354]
+[u'fountain', 0.48283353, u'patio', 0.11252084, u'boathouse', 0.068425193, u'church', 0.04540259, u'maze', 0.037315659]
+[u'mobile_home', 0.26256815, u'recreational_vehicle', 0.10405962, u'streetcar', 0.08054436, u'trolleybus', 0.063865818, u'passenger_car', 0.061066158]
+[u'puck', 0.27121842, u'jersey', 0.18999459, u'sweatshirt', 0.030882956, u'packet', 0.02457224, u'envelope', 0.021190969]
+[u'picket_fence', 0.54882604, u'church', 0.13695942, u'worm_fence', 0.050180756, u'chainlink_fence', 0.023480946, u'palace', 0.023206886]

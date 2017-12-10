@@ -1,0 +1,3 @@
+[u'envelope', 0.064965017, u'web_site', 0.063427672, u'whistle', 0.042508263, u'Windsor_tie', 0.035330232, u'jersey', 0.034232296]
+[u'airliner', 0.74414444, u'wing', 0.12269541, u'warplane', 0.12210428, u'space_shuttle', 0.0082399836, u'aircraft_carrier', 0.0022296885]
+[u'king_crab', 0.64561129, u'Dungeness_crab', 0.16731411, u'rock_crab', 0.12463456, u'spiny_lobster', 0.025838146, u'crayfish', 0.010724992]

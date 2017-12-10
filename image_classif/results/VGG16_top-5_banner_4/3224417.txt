@@ -1,0 +1,5 @@
+[u'beacon', 0.2691431, u'bell_cote', 0.10809009, u'flagpole', 0.065785579, u'airship', 0.055510502, u'traffic_light', 0.042274892]
+[u'monitor', 0.088240266, u'sea_snake', 0.066519648, u'parachute', 0.060106669, u'jellyfish', 0.036777053, u'Petri_dish', 0.028071193]
+[u'book_jacket', 0.27565604, u'menu', 0.20610785, u'brass', 0.12081125, u'web_site', 0.055587564, u'packet', 0.047596738]
+[u'hair_slide', 0.87045169, u'damselfly', 0.024452684, u'fly', 0.018287756, u'daisy', 0.01446024, u'dragonfly', 0.013501376]
+[u'menu', 0.28910887, u'book_jacket', 0.068745151, u'web_site', 0.060316637, u'brass', 0.024634097, u'crossword_puzzle', 0.023842942]

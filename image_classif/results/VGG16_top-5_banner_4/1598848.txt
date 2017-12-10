@@ -1,0 +1,3 @@
+[u'Weimaraner', 0.20602569, u'vizsla', 0.10497244, u'bathing_cap', 0.070058949, u'swimming_trunks', 0.039636571, u'parallel_bars', 0.038544882]
+[u'maillot', 0.45771357, u'maillot', 0.23846103, u'bikini', 0.14724571, u'bathtub', 0.03447869, u'brassiere', 0.031958908]
+[u'hatchet', 0.11958602, u'bikini', 0.10290915, u'pole', 0.09634351, u'hammer', 0.084485747, u'power_drill', 0.076083273]

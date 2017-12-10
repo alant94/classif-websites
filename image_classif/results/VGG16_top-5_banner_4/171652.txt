@@ -1,0 +1,2 @@
+[u'beer_glass', 0.41777965, u'beer_bottle', 0.085432887, u'water_jug', 0.067181028, u'cocktail_shaker', 0.063637637, u'pitcher', 0.048175443]
+[u'web_site', 0.645118, u'menu', 0.027022606, u'book_jacket', 0.026368735, u'comic_book', 0.010410831, u'packet', 0.010127781]

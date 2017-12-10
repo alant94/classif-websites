@@ -1,0 +1,1 @@
+[u'maze', 0.15108216, u'Windsor_tie', 0.12417917, u'jigsaw_puzzle', 0.059022717, u'envelope', 0.029782712, u'honeycomb', 0.022598699]

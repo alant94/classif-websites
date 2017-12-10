@@ -1,0 +1,4 @@
+[u'Petri_dish', 0.55075026, u'bottlecap', 0.21706064, u'drum', 0.042415224, u'face_powder', 0.034294169, u'pill_bottle', 0.027655153]
+[u'wine_bottle', 0.4761911, u'red_wine', 0.39156255, u'beer_bottle', 0.049362689, u'chocolate_sauce', 0.033856988, u'whiskey_jug', 0.019699473]
+[u'web_site', 0.41267052, u'scoreboard', 0.29220194, u'packet', 0.013404357, u'book_jacket', 0.01313835, u'digital_clock', 0.0099360077]
+[u'barrel', 0.47503269, u'brass', 0.20009513, u'face_powder', 0.096087672, u'book_jacket', 0.046524819, u'crate', 0.038378056]

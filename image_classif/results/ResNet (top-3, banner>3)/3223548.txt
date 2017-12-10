@@ -1,0 +1,6 @@
+[u'fountain', 0.33699006, u'bathing_cap', 0.098418802, u'dough', 0.089946024]
+[u'notebook', 0.30462295, u'desktop_computer', 0.23025197, u'laptop', 0.1657739]
+[u'jean', 0.5030151, u'Loafer', 0.086842909, u'cowboy_boot', 0.036022946]
+[u'mortar', 0.10019746, u'vase', 0.080455922, u'conch', 0.053108204]
+[u'web_site', 0.81603867, u'Windsor_tie', 0.015832406, u'envelope', 0.0091450876]
+[u'restaurant', 0.40143228, u'fur_coat', 0.18456861, u'barber_chair', 0.060011528]

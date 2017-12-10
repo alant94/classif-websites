@@ -1,0 +1,6 @@
+[u'warplane', 0.10402088, u'web_site', 0.094372898, u'harvester', 0.064653322]
+[u'analog_clock', 0.91769624, u'screw', 0.05203592, u'wall_clock', 0.017930115]
+[u'web_site', 0.44075567, u'notebook', 0.29971254, u'lab_coat', 0.021491749]
+[u'notebook', 0.12402429, u'laptop', 0.084167019, u'monitor', 0.067646451]
+[u'chain', 0.30865255, u'abaya', 0.30654952, u'bubble', 0.079240717]
+[u'academic_gown', 0.45296228, u'mortarboard', 0.1669105, u'vestment', 0.042888243]

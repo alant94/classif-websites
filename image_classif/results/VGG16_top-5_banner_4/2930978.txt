@@ -1,0 +1,1 @@
+[u'sombrero', 0.14934449, u'toilet_seat', 0.068003304, u'radio_telescope', 0.037083093, u'cowboy_hat', 0.033893455, u'hook', 0.028521903]

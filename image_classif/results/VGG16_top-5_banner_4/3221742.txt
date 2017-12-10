@@ -1,0 +1,1 @@
+[u'web_site', 0.44014457, u'cash_machine', 0.17846496, u'perfume', 0.068865426, u'book_jacket', 0.063364528, u'lotion', 0.059291534]

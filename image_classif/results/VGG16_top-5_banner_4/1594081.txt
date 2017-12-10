@@ -1,0 +1,3 @@
+[u'cloak', 0.12616408, u'schipperke', 0.079241045, u'groenendael', 0.037310112, u'black_swan', 0.027708571, u'fur_coat', 0.02564021]
+[u'chest', 0.076670907, u'bannister', 0.076288141, u'scabbard', 0.067801818, u'guillotine', 0.06237258, u'shoji', 0.052088603]
+[u'jeep', 0.5945304, u'garbage_truck', 0.041555151, u'parking_meter', 0.021841399, u'tape_player', 0.015405996, u'snowplow', 0.014800979]

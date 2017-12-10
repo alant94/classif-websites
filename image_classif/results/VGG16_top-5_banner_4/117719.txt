@@ -1,0 +1,5 @@
+[u'book_jacket', 0.19438128, u'bluetick', 0.13385391, u'running_shoe', 0.076423138, u'poncho', 0.068561763, u'brassiere', 0.061591797]
+[u'poncho', 0.55120599, u'amphibian', 0.035930548, u'barrel', 0.030405017, u'butcher_shop', 0.02479735, u'swab', 0.022701139]
+[u'book_jacket', 0.97253722, u'comic_book', 0.021072276, u'shoe_shop', 0.0025626717, u'carousel', 0.00022589404, u'fountain', 0.00019528405]
+[u'fur_coat', 0.036774043, u'stole', 0.025375674, u'gasmask', 0.024650916, u'frilled_lizard', 0.023854489, u'neck_brace', 0.021470957]
+[u'swing', 0.096469156, u'pinwheel', 0.089352682, u'shovel', 0.068932578, u'water_bottle', 0.063377135, u'ashcan', 0.032495569]

@@ -1,0 +1,6 @@
+[u'spotlight', 0.21852979, u'table_lamp', 0.11648521, u'plunger', 0.11233266]
+[u'jigsaw_puzzle', 0.50648737, u'pillow', 0.35666844, u'tray', 0.028518878]
+[u'tricycle', 0.21030097, u'guillotine', 0.17383179, u'lawn_mower', 0.096793719]
+[u'table_lamp', 0.80376136, u'lampshade', 0.071665734, u'joystick', 0.046220422]
+[u'school_bus', 0.19165699, u'slot', 0.17699683, u'scoreboard', 0.088675953]
+[u'jigsaw_puzzle', 0.54025745, u'comic_book', 0.14910252, u'forklift', 0.035345241]

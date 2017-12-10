@@ -1,0 +1,7 @@
+[u'toyshop', 0.6089797, u'jigsaw_puzzle', 0.093740739, u'tobacco_shop', 0.059893686]
+[u'packet', 0.29149938, u'handkerchief', 0.10354833, u'paper_towel', 0.10022585]
+[u'modem', 0.23939048, u'swab', 0.16460976, u'grocery_store', 0.065158553]
+[u'grocery_store', 0.46621227, u'toyshop', 0.24800712, u'confectionery', 0.070633166]
+[u'toyshop', 0.29236981, u'grocery_store', 0.28492022, u'confectionery', 0.091635995]
+[u'envelope', 0.29369169, u'carton', 0.14973535, u'bannister', 0.11048439]
+[u'thimble', 0.23830071, u'altar', 0.23324803, u'lotion', 0.12219184]

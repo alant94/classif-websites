@@ -1,0 +1,5 @@
+[u'brass', 0.99222308, u'menu', 0.006475159, u'web_site', 0.00068114506]
+[u'wall_clock', 0.1891693, u'orange', 0.13129881, u'bolo_tie', 0.1113867]
+[u'street_sign', 0.33708343, u'digital_clock', 0.17920472, u'gas_pump', 0.032347355]
+[u'barn', 0.19955198, u'picket_fence', 0.17769556, u'swing', 0.10879843]
+[u'web_site', 0.62565911, u'envelope', 0.017721318, u'nematode', 0.0097535364]

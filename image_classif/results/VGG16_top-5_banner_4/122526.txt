@@ -1,0 +1,6 @@
+[u'book_jacket', 0.36314616, u'ski', 0.090588227, u'cliff', 0.070044428, u'vulture', 0.048266999, u'megalith', 0.030396821]
+[u'fountain', 0.3289347, u'beer_glass', 0.10562018, u'water_bottle', 0.047870439, u'bucket', 0.030365182, u'coffee_mug', 0.027623527]
+[u'crane', 0.41332132, u'missile', 0.11958656, u'cannon', 0.1091264, u'projectile', 0.083781578, u'submarine', 0.052017447]
+[u'web_site', 0.072556488, u'combination_lock', 0.070235148, u'dumbbell', 0.050802879, u'power_drill', 0.045965455, u'safe', 0.039767895]
+[u'switch', 0.32434067, u'envelope', 0.14295283, u'lab_coat', 0.095630102, u'safe', 0.055134043, u'can_opener', 0.033147298]
+[u'digital_clock', 0.52538615, u'Band_Aid', 0.051247362, u'scoreboard', 0.047128242, u'envelope', 0.033730455, u'web_site', 0.027202401]

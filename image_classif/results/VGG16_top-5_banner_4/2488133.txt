@@ -1,0 +1,8 @@
+[u'Arabian_camel', 0.69763541, u'worm_fence', 0.067855477, u'sorrel', 0.058884524, u'picket_fence', 0.041199584, u'llama', 0.033325773]
+[u'bearskin', 0.49600017, u'ski', 0.26437476, u'flagpole', 0.054686319, u'military_uniform', 0.028483992, u'bow', 0.010962132]
+[u'fountain', 0.22013697, u'mosque', 0.16941413, u'missile', 0.1681177, u'totem_pole', 0.054952741, u'crane', 0.053150393]
+[u'stone_wall', 0.21316104, u'worm_fence', 0.12509516, u'alp', 0.07132072, u'picket_fence', 0.066900872, u'bighorn', 0.05634062]
+[u'alp', 0.35434064, u'valley', 0.17857562, u'monastery', 0.084636562, u'stupa', 0.072263807, u'worm_fence', 0.038710508]
+[u'crane', 0.31137544, u'Weimaraner', 0.1818067, u'dalmatian', 0.05255378, u'whippet', 0.047993809, u'Italian_greyhound', 0.04268454]
+[u'oxcart', 0.14841729, u'ox', 0.12526664, u'English_foxhound', 0.079342343, u'Great_Dane', 0.061611403, u'Ibizan_hound', 0.054046951]
+[u'castle', 0.27747548, u'stupa', 0.18462534, u'palace', 0.085722938, u'fountain', 0.082556255, u'wreck', 0.07048405]

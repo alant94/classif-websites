@@ -1,0 +1,6 @@
+[u'patio', 0.2629793, u'sliding_door', 0.18629272, u'window_shade', 0.11443029, u'rain_barrel', 0.085454509, u'window_screen', 0.036277007]
+[u'monitor', 0.44481295, u'television', 0.33099762, u'screen', 0.15129611, u'home_theater', 0.019308567, u'desktop_computer', 0.015427067]
+[u'barrel', 0.98901552, u'hay', 0.0021890462, u'rain_barrel', 0.0018918131, u'plate_rack', 0.0010693811, u'clog', 0.00050586113]
+[u'analog_clock', 0.21442452, u'screen', 0.092273422, u'wall_clock', 0.080737069, u'binder', 0.078611039, u'monitor', 0.077828273]
+[u'barrel', 0.99666291, u'rain_barrel', 0.0026343286, u'projectile', 0.00019589225, u'milk_can', 0.00018601723, u'forklift', 8.4200241e-05]
+[u'organ', 0.18059143, u'church', 0.13172984, u'vault', 0.11417481, u'dining_table', 0.10308766, u'palace', 0.096034579]

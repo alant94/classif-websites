@@ -1,0 +1,6 @@
+[u'electric_guitar', 0.86177051, u'acoustic_guitar', 0.1310086, u'banjo', 0.0031534836]
+[u'envelope', 0.17293257, u'handkerchief', 0.13487397, u'book_jacket', 0.11703022]
+[u'grand_piano', 0.99625385, u'upright', 0.0015508565, u'web_site', 0.0013870706]
+[u'analog_clock', 0.51221687, u'comic_book', 0.12505636, u'wall_clock', 0.10211953]
+[u'handkerchief', 0.34918052, u'menu', 0.12499931, u'envelope', 0.099781297]
+[u'grand_piano', 0.99742657, u'upright', 0.00092946476, u'web_site', 0.00088270183]

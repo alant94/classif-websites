@@ -1,0 +1,1 @@
+[u'envelope', 0.085177436, u'fountain_pen', 0.081576936, u'nematode', 0.066340491, u'magpie', 0.050503127, u'ant', 0.047613248]

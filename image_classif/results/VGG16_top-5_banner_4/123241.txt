@@ -1,0 +1,1 @@
+[u'slot', 0.97704393, u'vending_machine', 0.011097922, u'confectionery', 0.005489591, u'toyshop', 0.0048116897, u'tobacco_shop', 0.00057632808]

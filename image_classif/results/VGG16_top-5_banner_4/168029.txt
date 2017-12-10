@@ -1,0 +1,8 @@
+[u'radiator', 0.30503523, u'picket_fence', 0.2353383, u'bannister', 0.073476478, u'accordion', 0.037671402, u'nail', 0.023278259]
+[u'bell_cote', 0.14901832, u'beacon', 0.12907547, u'syringe', 0.069814578, u'picket_fence', 0.062432058, u'mosque', 0.049165614]
+[u'picket_fence', 0.077538721, u'bell_cote', 0.070293054, u'chime', 0.045359962, u'beacon', 0.043882407, u'crane', 0.03734402]
+[u'crane', 0.060505889, u'picket_fence', 0.041197225, u'analog_clock', 0.037151568, u'bell_cote', 0.036931064, u'beacon', 0.032542605]
+[u'picket_fence', 0.073745012, u'crane', 0.059515677, u'chime', 0.058834083, u'water_tower', 0.047939636, u'beacon', 0.045105651]
+[u'corkscrew', 0.2093664, u'screw', 0.17237489, u'nail', 0.062563166, u'hair_slide', 0.048746087, u'switch', 0.047628537]
+[u'picket_fence', 0.14691164, u'chime', 0.047875185, u'bell_cote', 0.030119712, u'bookcase', 0.024121495, u'organ', 0.023085799]
+[u'bathtub', 0.10096562, u'dishwasher', 0.051935982, u'tub', 0.049340826, u'washbasin', 0.043909002, u'paper_towel', 0.033860959]

@@ -1,0 +1,4 @@
+[u'envelope', 0.10324996, u'web_site', 0.076982379, u'nematode', 0.028476775, u'velvet', 0.022240236, u'wardrobe', 0.021540914]
+[u'organ', 0.60055947, u'chime', 0.25107393, u'book_jacket', 0.043081846, u'rule', 0.0080104182, u'carton', 0.0060821143]
+[u'book_jacket', 0.34044084, u'organ', 0.13973743, u'binder', 0.060160127, u'chime', 0.053429764, u'shower_curtain', 0.044014301]
+[u'book_jacket', 0.21722361, u'rule', 0.1389889, u'shower_curtain', 0.12825963, u'organ', 0.078310281, u'carton', 0.053336095]

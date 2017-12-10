@@ -1,0 +1,7 @@
+[u'butcher_shop', 0.80627382, u"potter's_wheel", 0.046605039, u'hog', 0.026439372, u'cleaver', 0.024932588, u'scale', 0.014292628]
+[u'rhinoceros_beetle', 0.2832568, u'comic_book', 0.12893698, u'perfume', 0.094764844, u'cuirass', 0.072199732, u'breastplate', 0.063004844]
+[u'bikini', 0.099457644, u'cowboy_hat', 0.069667362, u'maillot', 0.044057336, u'rifle', 0.04403732, u'box_turtle', 0.040607013]
+[u'book_jacket', 0.31436369, u'web_site', 0.19713074, u'comic_book', 0.16122781, u'swimming_trunks', 0.056422647, u'Band_Aid', 0.028960388]
+[u'sombrero', 0.29440087, u'sarong', 0.1256417, u'swimming_trunks', 0.10728251, u'cowboy_hat', 0.10624389, u'hatchet', 0.10598663]
+[u'comic_book', 0.18220045, u'maraca', 0.025237374, u'slot', 0.024748782, u'drum', 0.022847848, u'sombrero', 0.022664888]
+[u'spatula', 0.20862839, u'comic_book', 0.072610006, u'drumstick', 0.025919219, u'hatchet', 0.023096636, u'bookshop', 0.022361042]

@@ -1,0 +1,8 @@
+[u'geyser', 0.17130198, u'fountain', 0.16192134, u'dam', 0.14217138, u'snowplow', 0.12973511, u'fireboat', 0.094764113]
+[u'forklift', 0.098932847, u'stage', 0.054844752, u'turnstile', 0.039358959, u'sliding_door', 0.034576796, u'fountain', 0.03030063]
+[u'whistle', 0.13135833, u'toyshop', 0.12255625, u'beaker', 0.088365674, u'candle', 0.061876141, u'Petri_dish', 0.043950461]
+[u'feather_boa', 0.16929357, u'poncho', 0.1260673, u'theater_curtain', 0.070704363, u'mask', 0.040299717, u'stole', 0.039998762]
+[u'tobacco_shop', 0.75877869, u'bookshop', 0.056119271, u'confectionery', 0.044473283, u'grocery_store', 0.031527318, u'shoe_shop', 0.021819048]
+[u'crossword_puzzle', 0.9940995, u'menu', 0.0045792749, u'book_jacket', 0.00015841894, u'laptop', 0.00015765421, u'shower_curtain', 9.8495511e-05]
+[u'feather_boa', 0.12511432, u'wig', 0.1126089, u'slot', 0.082221799, u'torch', 0.048444148, u'maraca', 0.030303983]
+[u'tobacco_shop', 0.083508097, u'container_ship', 0.075021222, u'bookshop', 0.031333253, u'drilling_platform', 0.031079009, u'crane', 0.023546061]

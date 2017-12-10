@@ -1,0 +1,3 @@
+[u"carpenter's_kit", 0.19868523, u'ballpoint', 0.081231579, u'nail', 0.070264205, u'bell_cote', 0.040520579, u'screwdriver', 0.035975974]
+[u'Band_Aid', 0.060609929, u'face_powder', 0.060606983, u'sunscreen', 0.054884676, u'loupe', 0.049900632, u'hook', 0.048026256]
+[u'stethoscope', 0.10561883, u'web_site', 0.093636438, u'microphone', 0.067518711, u'traffic_light', 0.054785654, u'hook', 0.032270484]

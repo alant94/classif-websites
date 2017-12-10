@@ -1,0 +1,4 @@
+[u'wall_clock', 0.80756259, u'barometer', 0.097337231, u'chiffonier', 0.025312822, u'analog_clock', 0.023820778, u'china_cabinet', 0.012419222]
+[u'aircraft_carrier', 0.27545673, u'joystick', 0.20332456, u'space_shuttle', 0.083333775, u'hair_slide', 0.053897589, u'liner', 0.043506261]
+[u'web_site', 0.16389978, u'rule', 0.064067878, u'screen', 0.057759501, u'monitor', 0.043516677, u'screwdriver', 0.035593826]
+[u'screwdriver', 0.51306492, u'syringe', 0.12591892, u'matchstick', 0.090279959, u"carpenter's_kit", 0.06484434, u'rule', 0.03446814]

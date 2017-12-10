@@ -1,0 +1,5 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'book_jacket', 0.59089929, u'comic_book', 0.083249293, u'puck', 0.034319725, u'packet', 0.027426168, u'scoreboard', 0.018027605]
+[u'fountain', 0.82785213, u'spotlight', 0.044483442, u'stage', 0.044002738, u'lampshade', 0.04180108, u'feather_boa', 0.0079693822]
+[u'bottlecap', 0.29047757, u'sombrero', 0.088706732, u'bolo_tie', 0.05131235, u'cinema', 0.030476442, u'pick', 0.027400993]
+[u'digital_clock', 0.13088, u'web_site', 0.067519225, u'analog_clock', 0.04237983, u'traffic_light', 0.039172143, u'scoreboard', 0.035340209]

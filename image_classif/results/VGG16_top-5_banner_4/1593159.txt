@@ -1,0 +1,4 @@
+[u'bikini', 0.14203632, u'swimming_trunks', 0.13640495, u"potter's_wheel", 0.10821269, u'bathtub', 0.043866955, u'groom', 0.04106801]
+[u'book_jacket', 0.49266401, u'comic_book', 0.27765816, u'barbershop', 0.047501028, u'tobacco_shop', 0.034371767, u'cinema', 0.031744428]
+[u'bathtub', 0.17941947, u'bikini', 0.16525665, u'tub', 0.087566078, u'cowboy_hat', 0.055104148, u'Band_Aid', 0.049577918]
+[u'cloak', 0.36798313, u'mask', 0.040182509, u'abaya', 0.039644871, u'gown', 0.035327122, u'sleeping_bag', 0.032096792]

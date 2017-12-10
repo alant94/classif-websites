@@ -1,0 +1,8 @@
+[u'castle', 0.77978599, u'bell_cote', 0.046617378, u'palace', 0.038356647, u'monastery', 0.017765922, u'church', 0.013415788]
+[u'half_track', 0.075960092, u'pedestal', 0.070033997, u'throne', 0.057168122, u'breastplate', 0.05432852, u'bulletproof_vest', 0.049709756]
+[u'totem_pole', 0.099317715, u'pole', 0.067676432, u'vacuum', 0.049240187, u'parallel_bars', 0.047933448, u'crutch', 0.034275528]
+[u'mask', 0.12988766, u'gasmask', 0.088497207, u'breastplate', 0.058610734, u'assault_rifle', 0.037556667, u'horse_cart', 0.033277236]
+[u'vestment', 0.96785074, u'altar', 0.002354908, u'cloak', 0.0022831236, u'academic_gown', 0.0016555525, u'overskirt', 0.0015768071]
+[u'bannister', 0.087307833, u'pier', 0.065717101, u'binoculars', 0.054415915, u'dock', 0.046521783, u'cannon', 0.041376129]
+[u'castle', 0.24896973, u'chime', 0.041702475, u'lakeside', 0.03701999, u'pier', 0.034221325, u'viaduct', 0.032704286]
+[u'ski', 0.36961964, u'shovel', 0.11811196, u'dogsled', 0.037710875, u'hook', 0.023801828, u'military_uniform', 0.016223026]

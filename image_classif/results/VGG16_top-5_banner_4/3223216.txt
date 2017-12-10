@@ -1,0 +1,3 @@
+[u'palace', 0.24391289, u'monastery', 0.15132862, u'church', 0.1309936, u'castle', 0.10476385, u'fountain', 0.07267075]
+[u'traffic_light', 0.05196856, u'bell_cote', 0.047993369, u'cinema', 0.044625659, u'solar_dish', 0.04427994, u'crane', 0.041415092]
+[u'boathouse', 0.19601314, u'birdhouse', 0.08241336, u'dogsled', 0.061126716, u'snowplow', 0.041591384, u'alp', 0.035364054]

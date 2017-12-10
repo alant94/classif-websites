@@ -1,0 +1,1 @@
+[u'book_jacket', 0.73030639, u'envelope', 0.035589796, u'street_sign', 0.030378126, u'packet', 0.022778815, u'comic_book', 0.011185159]

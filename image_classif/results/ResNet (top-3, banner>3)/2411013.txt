@@ -1,0 +1,3 @@
+[u'carton', 0.68968612, u'crate', 0.15346622, u'Band_Aid', 0.058543593]
+[u'crossword_puzzle', 0.34937105, u'prayer_rug', 0.098286055, u'wall_clock', 0.0909153]
+[u'mailbag', 0.74411207, u'backpack', 0.18983227, u'shopping_basket', 0.035525475]

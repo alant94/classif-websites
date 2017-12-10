@@ -1,0 +1,6 @@
+[u'birdhouse', 0.41272011, u'flute', 0.067273326, u'paintbrush', 0.046042737, u'wooden_spoon', 0.035999116, u'electric_guitar', 0.033590935]
+[u'packet', 0.56046408, u'book_jacket', 0.098917983, u'envelope', 0.055956498, u'plastic_bag', 0.023029845, u'binder', 0.022783443]
+[u'face_powder', 0.069874108, u'thimble', 0.057666648, u'Band_Aid', 0.055370517, u'waffle_iron', 0.05308973, u'sunscreen', 0.049424302]
+[u'comic_book', 0.31590617, u'jersey', 0.16483751, u'balloon', 0.047453623, u'street_sign', 0.031829156, u'totem_pole', 0.029107885]
+[u'web_site', 0.45567778, u'book_jacket', 0.21114691, u'envelope', 0.048663765, u'jersey', 0.047875687, u'menu', 0.023910612]
+[u'hourglass', 0.36679542, u'red_wine', 0.13480607, u'goblet', 0.036903292, u'cup', 0.027456135, u'perfume', 0.022235706]

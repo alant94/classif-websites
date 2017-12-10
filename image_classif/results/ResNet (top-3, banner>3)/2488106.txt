@@ -1,0 +1,3 @@
+[u'armadillo', 0.26973638, u'gar', 0.1969718, u'barracouta', 0.18805186]
+[u'oxcart', 0.093249254, u'picket_fence', 0.056928106, u'cliff', 0.055010609]
+[u'dogsled', 0.23535195, u'malamute', 0.18203264, u'cliff', 0.041142944]

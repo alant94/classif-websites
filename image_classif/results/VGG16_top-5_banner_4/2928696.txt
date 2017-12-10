@@ -1,0 +1,6 @@
+[u'lipstick', 0.64778584, u'face_powder', 0.15257414, u'perfume', 0.042948224, u'hair_spray', 0.028340299, u"carpenter's_kit", 0.013460262]
+[u'mousetrap', 0.11111887, u'loupe', 0.073696621, u'bow', 0.050957177, u"carpenter's_kit", 0.046954717, u'oil_filter', 0.033868533]
+[u'syringe', 0.17747208, u'screwdriver', 0.09785679, u'hair_spray', 0.093064755, u'web_site', 0.076615751, u'microphone', 0.034801736]
+[u'pill_bottle', 0.26213002, u'piggy_bank', 0.23518167, u'lotion', 0.1198801, u'sunscreen', 0.027524026, u'nipple', 0.024321323]
+[u'web_site', 0.24366622, u'iPod', 0.087157048, u'cup', 0.077281922, u'lab_coat', 0.074243225, u'notebook', 0.060008232]
+[u'lotion', 0.089982457, u'pill_bottle', 0.080645218, u'pencil_sharpener', 0.076821469, u'sunscreen', 0.074952997, u'perfume', 0.070743926]

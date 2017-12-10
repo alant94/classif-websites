@@ -1,0 +1,6 @@
+[u'pedestal', 0.064848006, u'paper_towel', 0.06368304, u'megalith', 0.055506781, u'toilet_tissue', 0.043981668, u'obelisk', 0.039168239]
+[u'bell_cote', 0.33218297, u'traffic_light', 0.15999779, u'envelope', 0.063707665, u'crane', 0.031058589, u'beacon', 0.026177248]
+[u'hammer', 0.031530079, u'abaya', 0.025983209, u'nail', 0.022693096, u'hatchet', 0.022079177, u'balance_beam', 0.020217841]
+[u'modem', 0.12795022, u'projector', 0.085270293, u'book_jacket', 0.064627916, u'cassette', 0.060142431, u'Polaroid_camera', 0.059732702]
+[u'crate', 0.23988646, u'upright', 0.14206636, u'marimba', 0.12884602, u'chest', 0.08218345, u'menu', 0.068211138]
+[u'chest', 0.70394254, u'crate', 0.2389231, u'file', 0.03808843, u'binder', 0.0056691789, u'mousetrap', 0.002395151]

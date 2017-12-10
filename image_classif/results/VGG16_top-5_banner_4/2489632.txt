@@ -1,0 +1,3 @@
+[u'brass', 0.41529447, u'web_site', 0.078738153, u'book_jacket', 0.036859516, u'picket_fence', 0.024868466, u'screen', 0.024398796]
+[u'analog_clock', 0.1265461, u'oscilloscope', 0.10123325, u'web_site', 0.060978033, u'radio', 0.060665622, u'solar_dish', 0.050144069]
+[u'bloodhound', 0.23469412, u'vizsla', 0.066049568, u'Rottweiler', 0.060153041, u'Doberman', 0.058531072, u'black-and-tan_coonhound', 0.055361595]

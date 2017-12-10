@@ -1,0 +1,7 @@
+[u'comic_book', 0.51719183, u'book_jacket', 0.17114827, u'web_site', 0.059567116, u'jersey', 0.018629385, u'cleaver', 0.014012645]
+[u'digital_clock', 0.08760792, u'lighter', 0.047428939, u'binder', 0.045581501, u'nipple', 0.0428042, u'hook', 0.034647156]
+[u'binder', 0.16411462, u'book_jacket', 0.11530928, u'envelope', 0.066428624, u'birdhouse', 0.063403532, u'shower_curtain', 0.045826636]
+[u'television', 0.6674512, u'screen', 0.13310924, u'monitor', 0.084052287, u'web_site', 0.039598405, u'hand-held_computer', 0.014946654]
+[u'scabbard', 0.33887875, u'can_opener', 0.11602392, u'corkscrew', 0.086719826, u'hook', 0.045627631, u'chime', 0.04095659]
+[u'crate', 0.5985266, u'barrel', 0.28915155, u'packet', 0.011431335, u'carton', 0.011156363, u'whiskey_jug', 0.0099423761]
+[u'television', 0.4795869, u'Windsor_tie', 0.19419408, u'suit', 0.1492805, u'web_site', 0.059495427, u'screen', 0.033010393]

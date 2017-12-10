@@ -1,0 +1,3 @@
+[u'ashcan', 0.24911039, u'cash_machine', 0.22695109, u'oscilloscope', 0.10126922]
+[u'book_jacket', 0.51012146, u'paper_towel', 0.13244654, u'street_sign', 0.069866516]
+[u'ambulance', 0.072477527, u'punching_bag', 0.060699102, u'airship', 0.054290976]

@@ -1,0 +1,2 @@
+[u'buckle', 0.10870077, u'mousetrap', 0.1083971, u'wall_clock', 0.095820151, u'puck', 0.061122846, u'hair_slide', 0.043371923]
+[u'picket_fence', 0.35561031, u'boathouse', 0.1194508, u'church', 0.091523767, u'mobile_home', 0.065638795, u'monastery', 0.052508678]

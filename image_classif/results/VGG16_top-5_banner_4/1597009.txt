@@ -1,0 +1,2 @@
+[u'cassette', 0.160659, u'cassette_player', 0.12181819, u'switch', 0.09763521, u'scale', 0.084068701, u'digital_watch', 0.067551427]
+[u'drum', 0.12702161, u'pick', 0.077421151, u'face_powder', 0.049483683, u'sunglass', 0.034742504, u'analog_clock', 0.030430969]

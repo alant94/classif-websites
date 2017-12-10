@@ -1,0 +1,5 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'throne', 0.27296996, u'altar', 0.24725235, u'monastery', 0.035314411, u'triumphal_arch', 0.028591445, u'totem_pole', 0.025940008]
+[u'canoe', 0.15235035, u'snowmobile', 0.14115739, u'plow', 0.058872961, u'oxcart', 0.056695055, u'paddle', 0.042610537]
+[u'altar', 0.12061945, u'monastery', 0.083140992, u'vestment', 0.059990529, u'forklift', 0.051361039, u'amphibian', 0.044037171]
+[u'street_sign', 0.27260515, u'comic_book', 0.088702321, u'laptop', 0.045171663, u'web_site', 0.034520976, u'scoreboard', 0.017963504]

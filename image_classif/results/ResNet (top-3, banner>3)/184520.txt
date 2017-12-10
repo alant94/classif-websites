@@ -1,0 +1,6 @@
+[u'lakeside', 0.22790048, u'container_ship', 0.092445359, u'breakwater', 0.044252861]
+[u'web_site', 0.88857263, u'monitor', 0.014241907, u'television', 0.013493048]
+[u'web_site', 0.11167426, u'envelope', 0.036242742, u'cleaver', 0.011879533]
+[u'bubble', 0.2023512, u'web_site', 0.079035603, u'loupe', 0.069782242]
+[u'seashore', 0.40408862, u'lakeside', 0.13333081, u'breakwater', 0.070508897]
+[u'cinema', 0.42747065, u'motor_scooter', 0.17526655, u'fire_engine', 0.12224718]

@@ -1,0 +1,8 @@
+[u'mosquito_net', 0.22496226, u'shower_curtain', 0.13803087, u'bathtub', 0.12527013, u'tub', 0.049932696, u'cradle', 0.021968564]
+[u'medicine_chest', 0.23299436, u'sliding_door', 0.067764275, u'wardrobe', 0.060997535, u'washbasin', 0.043748628, u'refrigerator', 0.042000804]
+[u'candle', 0.11577317, u'carton', 0.10012045, u'plunger', 0.092606783, u'brassiere', 0.042323176, u'book_jacket', 0.029091287]
+[u'diaper', 0.15675925, u'mosquito_net', 0.084343821, u'swimming_trunks', 0.062190134, u'crib', 0.024762288, u'brassiere', 0.023156304]
+[u'diaper', 0.13430992, u'pajama', 0.073364615, u'bikini', 0.045645863, u'miniskirt', 0.036808114, u'Italian_greyhound', 0.030904362]
+[u'diaper', 0.17208387, u'mosquito_net', 0.086321086, u'space_heater', 0.049047615, u'candle', 0.043698888, u'television', 0.029169496]
+[u'window_shade', 0.082485691, u'radiator', 0.066165596, u'wardrobe', 0.062624976, u'sliding_door', 0.035920009, u'suit', 0.031520445]
+[u'sewing_machine', 0.1799565, u'lab_coat', 0.094936006, u'refrigerator', 0.071572155, u'projector', 0.048716895, u'photocopier', 0.037484754]

@@ -1,0 +1,8 @@
+[u'spatula', 0.16500789, u'frying_pan', 0.082025416, u'box_turtle', 0.067919113]
+[u'pot', 0.28094825, u'strainer', 0.078719296, u'dung_beetle', 0.044727534]
+[u'lotion', 0.43101028, u'packet', 0.33478111, u'book_jacket', 0.07327611]
+[u'beer_glass', 0.98284644, u'lemon', 0.01031054, u'beer_bottle', 0.0017512202]
+[u'pot', 0.81134546, u'ashcan', 0.061628297, u'stove', 0.030579844]
+[u'packet', 0.59414679, u'lotion', 0.25848329, u'Band_Aid', 0.030611906]
+[u'pot', 0.38579822, u'stove', 0.11829469, u'caldron', 0.035478324]
+[u'pot', 0.17183939, u'Crock_Pot', 0.15157515, u'bucket', 0.12631406]

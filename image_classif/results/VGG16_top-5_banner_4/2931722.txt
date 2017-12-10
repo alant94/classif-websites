@@ -1,0 +1,3 @@
+[u'punching_bag', 0.10707725, u'red_wine', 0.089207128, u'book_jacket', 0.063431732, u'can_opener', 0.061786905, u'web_site', 0.055951778]
+[u'lab_coat', 0.94863158, u'stethoscope', 0.039095785, u'Windsor_tie', 0.004424578, u'vestment', 0.0020260036, u'torch', 0.0011049068]
+[u'analog_clock', 0.69630909, u'wall_clock', 0.28712946, u'magnetic_compass', 0.0064960294, u'digital_clock', 0.003897062, u'rule', 0.002325316]

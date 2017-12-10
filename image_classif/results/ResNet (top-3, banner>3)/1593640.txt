@@ -1,0 +1,2 @@
+[u'collie', 0.39826187, u'Welsh_springer_spaniel', 0.062941089, u'vault', 0.03806803]
+[u'web_site', 0.12278634, u'hook', 0.11435813, u'whistle', 0.08751902]

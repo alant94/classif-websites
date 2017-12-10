@@ -1,0 +1,2 @@
+[u'binder', 0.071623646, u'nail', 0.064802818, u'coil', 0.062238414, u'ballpoint', 0.055312585, u'swab', 0.053088259]
+[u'cornet', 0.56750321, u'oboe', 0.17181452, u'French_horn', 0.073238201, u'bassoon', 0.034668103, u'screwdriver', 0.014136668]

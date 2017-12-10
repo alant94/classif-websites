@@ -1,0 +1,3 @@
+[u'cash_machine', 0.2865642, u'vending_machine', 0.2774767, u'microwave', 0.10581733, u'monitor', 0.091987871, u'screen', 0.044469707]
+[u'jigsaw_puzzle', 0.73425502, u'book_jacket', 0.083589993, u'shower_curtain', 0.013686464, u'cliff', 0.011560578, u'fountain', 0.0086325631]
+[u'ladybug', 0.04817922, u'cardoon', 0.042043746, u'indigo_bunting', 0.03854819, u'daisy', 0.037906572, u'limpkin', 0.032151382]

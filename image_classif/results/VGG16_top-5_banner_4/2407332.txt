@@ -1,0 +1,3 @@
+[u'geyser', 0.22855853, u'church', 0.11037427, u'picket_fence', 0.096803702, u'fountain', 0.062603749, u'mobile_home', 0.043598011]
+[u'jean', 0.14684688, u'butcher_shop', 0.087189533, u'kimono', 0.080510348, u'lab_coat', 0.055844929, u'pajama', 0.036704436]
+[u'envelope', 0.16708231, u'matchstick', 0.10519971, u'digital_clock', 0.033241738, u'Windsor_tie', 0.02744885, u'tray', 0.018394679]

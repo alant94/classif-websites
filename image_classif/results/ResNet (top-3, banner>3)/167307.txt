@@ -1,0 +1,4 @@
+[u'plate_rack', 0.087174974, u'shield', 0.065057002, u'coffee_mug', 0.05942671]
+[u'envelope', 0.33889556, u'web_site', 0.29730889, u'analog_clock', 0.024707371]
+[u'chambered_nautilus', 0.18999109, u'acoustic_guitar', 0.18108755, u'pick', 0.072096154]
+[u'analog_clock', 0.12157747, u'digital_clock', 0.11953705, u'shield', 0.059638705]

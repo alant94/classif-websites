@@ -1,0 +1,2 @@
+[u'mask', 0.82248527, u'gasmask', 0.059202, u'spotlight', 0.055510949, u'ski_mask', 0.026571425, u'loupe', 0.012883962]
+[u'shower_curtain', 0.14238442, u'toilet_seat', 0.08714354, u'bathtub', 0.066792078, u'washbasin', 0.06656272, u'tub', 0.066229053]

@@ -1,0 +1,2 @@
+[u'torch', 0.77872723, u'candle', 0.089239761, u'stage', 0.03018523, u'gown', 0.00985057, u'restaurant', 0.0074786972]
+[u'organ', 0.16437055, u'theater_curtain', 0.09312585, u'wardrobe', 0.049345415, u'candle', 0.045681112, u'matchstick', 0.043125909]

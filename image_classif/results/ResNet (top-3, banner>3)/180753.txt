@@ -1,0 +1,3 @@
+[u'buckle', 0.85208446, u'crash_helmet', 0.041264966, u'sunglasses', 0.0343064]
+[u'buckle', 0.85208446, u'crash_helmet', 0.041264966, u'sunglasses', 0.0343064]
+[u'cardigan', 0.71111423, u'stole', 0.10817385, u'wool', 0.019024977]

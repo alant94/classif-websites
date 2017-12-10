@@ -1,0 +1,8 @@
+[u'shopping_basket', 0.18527599, u'binder', 0.17592306, u'street_sign', 0.040956832, u'digital_clock', 0.034965429, u'ashcan', 0.033317346]
+[u"carpenter's_kit", 0.78890187, u'screwdriver', 0.19490039, u'power_drill', 0.0026587008, u'cleaver', 0.0018126477, u'spatula', 0.0017175067]
+[u'digital_watch', 0.18311033, u'digital_clock', 0.1350382, u'oscilloscope', 0.049553741, u'laptop', 0.041087426, u'analog_clock', 0.033838429]
+[u'envelope', 0.045443274, u'web_site', 0.041799717, u'bulletproof_vest', 0.029178416, u'spotlight', 0.023442943, u'whistle', 0.01993534]
+[u"carpenter's_kit", 0.53276056, u'screwdriver', 0.14316483, u'mousetrap', 0.033432893, u'spatula', 0.017956128, u'binder', 0.017220048]
+[u'binder', 0.20286027, u'digital_clock', 0.049764775, u'cassette_player', 0.037252884, u'hook', 0.033516984, u"carpenter's_kit", 0.033466756]
+[u"carpenter's_kit", 0.13745008, u'screwdriver', 0.11461522, u'book_jacket', 0.052364819, u'power_drill', 0.041941602, u'mousetrap', 0.039400846]
+[u'binder', 0.12300324, u'book_jacket', 0.08715447, u'hook', 0.03992708, u'screwdriver', 0.035452913, u'mousetrap', 0.028870622]

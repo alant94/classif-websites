@@ -1,0 +1,7 @@
+[u'gondola', 0.16373768, u'lumbermill', 0.11231397, u'restaurant', 0.065339163, u'butcher_shop', 0.050793782, u'altar', 0.042077351]
+[u'bakery', 0.12681709, u'cinema', 0.11087428, u'tobacco_shop', 0.094641455, u'web_site', 0.091433302, u'bookshop', 0.054394815]
+[u'fountain', 0.15960613, u'butcher_shop', 0.10891803, u'restaurant', 0.091814533, u'altar', 0.072894551, u'throne', 0.050148185]
+[u'shoe_shop', 0.56573766, u'brassiere', 0.13169201, u'wardrobe', 0.070219129, u'confectionery', 0.026981546, u'butcher_shop', 0.023419429]
+[u'soap_dispenser', 0.25197256, u'medicine_chest', 0.20756486, u'monastery', 0.11651737, u'altar', 0.046172373, u'washbasin', 0.031474784]
+[u'oboe', 0.51716644, u'bassoon', 0.23438425, u'flute', 0.11421409, u'electric_guitar', 0.1030778, u'sax', 0.0078177126]
+[u'swab', 0.33939937, u'broom', 0.11653166, u'pencil_sharpener', 0.040109288, u'shovel', 0.020033063, u"carpenter's_kit", 0.019433716]

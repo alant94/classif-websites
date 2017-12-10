@@ -1,0 +1,2 @@
+[u'fire_screen', 0.2785551, u'dining_table', 0.080339633, u'vault', 0.061697919]
+[u'barrel', 0.52967137, u'gong', 0.15989588, u'triceratops', 0.060815532]

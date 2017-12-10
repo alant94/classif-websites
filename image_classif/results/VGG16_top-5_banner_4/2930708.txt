@@ -1,0 +1,2 @@
+[u'stole', 0.20025241, u'sarong', 0.19469009, u'Windsor_tie', 0.084731497, u'gown', 0.058675844, u'wool', 0.046678141]
+[u'Band_Aid', 0.14280714, u'book_jacket', 0.069710709, u'street_sign', 0.04980845, u'moving_van', 0.038060009, u'comic_book', 0.031558696]

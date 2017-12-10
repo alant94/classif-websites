@@ -1,0 +1,4 @@
+[u'Bouvier_des_Flandres', 0.040913485, u'rocking_chair', 0.040779717, u'crib', 0.040470239]
+[u'digital_clock', 0.15996383, u'traffic_light', 0.13429233, u'book_jacket', 0.070207171]
+[u'suit', 0.28440085, u'abaya', 0.27530816, u'academic_gown', 0.15706959]
+[u'magnetic_compass', 0.99820697, u'unicycle', 0.00075056101, u'stopwatch', 0.00015463657]

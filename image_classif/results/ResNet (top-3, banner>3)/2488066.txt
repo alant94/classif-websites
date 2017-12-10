@@ -1,0 +1,3 @@
+[u'brass', 0.21211442, u'book_jacket', 0.14606257, u'switch', 0.051235024]
+[u'book_jacket', 0.48214149, u'brass', 0.12352825, u'switch', 0.025397999]
+[u'brass', 0.10042905, u'book_jacket', 0.091291994, u'switch', 0.055551197]

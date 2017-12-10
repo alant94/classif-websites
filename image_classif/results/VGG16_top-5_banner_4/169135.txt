@@ -1,0 +1,3 @@
+[u'confectionery', 0.28787208, u'fire_engine', 0.10678902, u'bakery', 0.089121051, u'cinema', 0.078431234, u'barbershop', 0.057208747]
+[u'book_jacket', 0.5539251, u'web_site', 0.12220592, u'wig', 0.10663941, u'comic_book', 0.093648322, u'fur_coat', 0.025284454]
+[u'ocarina', 0.62389839, u"carpenter's_kit", 0.10841791, u'chime', 0.053921375, u'buckle', 0.02394422, u'safety_pin', 0.021128383]

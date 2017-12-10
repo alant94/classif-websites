@@ -1,0 +1,2 @@
+[u'chime', 0.077807717, u'safety_pin', 0.069807045, u'fountain', 0.048630543]
+[u'book_jacket', 0.32352445, u'packet', 0.17600626, u'prayer_rug', 0.060479771]

@@ -1,0 +1,4 @@
+[u'fountain', 0.61200315, u'geyser', 0.11496863, u'oxcart', 0.027659798, u'stupa', 0.022025589, u'lumbermill', 0.012704615]
+[u'water_buffalo', 0.51065463, u'oxcart', 0.25191444, u'ox', 0.2202217, u'horse_cart', 0.0029191971, u'Indian_elephant', 0.0028126438]
+[u'hartebeest', 0.68688083, u'warthog', 0.11440057, u'oxcart', 0.04500623, u'hog', 0.029713446, u'impala', 0.023833795]
+[u'planetarium', 0.68918449, u'boathouse', 0.077727444, u'sandbar', 0.048138507, u'lakeside', 0.039972063, u'dam', 0.017485147]

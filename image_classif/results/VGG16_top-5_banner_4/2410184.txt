@@ -1,0 +1,4 @@
+[u'envelope', 0.043080211, u'washbasin', 0.042918909, u'space_shuttle', 0.042673334, u'matchstick', 0.029337289, u'digital_clock', 0.028175186]
+[u'candle', 0.22083746, u'panpipe', 0.14848273, u'matchstick', 0.10641132, u'monitor', 0.061947353, u'container_ship', 0.05128143]
+[u'syringe', 0.16226003, u'pill_bottle', 0.11995528, u'Petri_dish', 0.086621329, u'spotlight', 0.071030565, u'candle', 0.051432859]
+[u'monitor', 0.63192773, u'screen', 0.1182199, u'solar_dish', 0.038883496, u'television', 0.023463473, u'crane', 0.015434972]

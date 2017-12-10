@@ -1,0 +1,3 @@
+[u'groom', 0.56275094, u'hoopskirt', 0.24174689, u'gown', 0.13238996]
+[u'lighter', 0.16441163, u'military_uniform', 0.13994373, u'chain', 0.088626795]
+[u'cornet', 0.221698, u'chain', 0.12333447, u'abaya', 0.10835138]

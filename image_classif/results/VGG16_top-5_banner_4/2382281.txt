@@ -1,0 +1,7 @@
+[u'wine_bottle', 0.60845137, u'beer_bottle', 0.25496104, u'red_wine', 0.076365061, u'pop_bottle', 0.019112397, u'vending_machine', 0.0088814888]
+[u'viaduct', 0.15607956, u'alp', 0.078773841, u'rapeseed', 0.07223732, u'valley', 0.062002771, u'barn', 0.05703406]
+[u'candle', 0.12142252, u'web_site', 0.10175721, u'conch', 0.063321494, u'honeycomb', 0.03216444, u'envelope', 0.026939854]
+[u'wine_bottle', 0.52651471, u'beer_bottle', 0.096620813, u'stage', 0.084562704, u'red_wine', 0.050382622, u'pop_bottle', 0.029101329]
+[u'lakeside', 0.23409502, u'boathouse', 0.10553145, u'greenhouse', 0.074790977, u'valley', 0.02487441, u'crane', 0.019947579]
+[u'screw', 0.1013875, u'nail', 0.097152829, u'mortarboard', 0.068776272, u'black_stork', 0.061995439, u'fountain_pen', 0.048218299]
+[u'wall_clock', 0.14446902, u'analog_clock', 0.084173739, u'digital_clock', 0.082956597, u'Petri_dish', 0.063518524, u'barometer', 0.052885886]

@@ -1,0 +1,2 @@
+[u'bow_tie', 0.99825102, u'Windsor_tie', 0.0010552176, u'suit', 0.00036498869, u'groom', 0.00015363717, u'bolo_tie', 2.7365486e-05]
+[u'stretcher', 0.090577811, u'aircraft_carrier', 0.041378308, u'half_track', 0.038160294, u'sax', 0.034418497, u'upright', 0.03171942]

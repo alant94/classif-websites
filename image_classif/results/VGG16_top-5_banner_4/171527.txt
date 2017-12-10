@@ -1,0 +1,2 @@
+[u'book_jacket', 0.19691534, u'web_site', 0.1935676, u'screwdriver', 0.083795317, u'binder', 0.049993563, u'cash_machine', 0.024408942]
+[u'screwdriver', 0.1249876, u'book_jacket', 0.069356486, u'cleaver', 0.046482213, u'safety_pin', 0.045527384, u'candle', 0.039384454]

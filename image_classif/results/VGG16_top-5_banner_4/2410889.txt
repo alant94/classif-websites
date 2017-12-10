@@ -1,0 +1,3 @@
+[u'maraca', 0.10430142, u'hair_slide', 0.085652538, u'mitten', 0.075759672, u'wool', 0.072241217, u'hen-of-the-woods', 0.050816193]
+[u'hen-of-the-woods', 0.7876091, u'broccoli', 0.042797498, u'artichoke', 0.037711252, u'custard_apple', 0.0332793, u'cauliflower', 0.033176314]
+[u'wool', 0.11443846, u'hamper', 0.057876986, u'dishrag', 0.053189978, u'broom', 0.042247787, u'poncho', 0.036123011]

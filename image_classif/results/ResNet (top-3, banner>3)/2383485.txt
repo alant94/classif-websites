@@ -1,0 +1,2 @@
+[u'cellular_telephone', 0.059100211, u'book_jacket', 0.047073185, u'jersey', 0.045119483]
+[u'red_wine', 0.51506943, u'wine_bottle', 0.28756294, u'whiskey_jug', 0.059159279]

@@ -1,0 +1,3 @@
+[u'vestment', 0.10399619, u'hoopskirt', 0.062079217, u'academic_gown', 0.057439957, u'jinrikisha', 0.052894142, u'kimono', 0.0370632]
+[u'book_jacket', 0.070189588, u'matchstick', 0.061865699, u'hook', 0.044329908, u'rubber_eraser', 0.033642422, u'ocarina', 0.031901043]
+[u'safety_pin', 0.42749572, u'hook', 0.086464919, u'nematode', 0.079678535, u'American_egret', 0.064916097, u'cornet', 0.041076783]

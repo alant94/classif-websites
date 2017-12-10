@@ -1,0 +1,8 @@
+[u'street_sign', 0.21685089, u'cinema', 0.11242804, u'mailbox', 0.11098774, u'brass', 0.044928841, u'tobacco_shop', 0.041703224]
+[u'slot', 0.49901146, u'cinema', 0.35233411, u'comic_book', 0.018239124, u'book_jacket', 0.012815203, u'tobacco_shop', 0.011698503]
+[u'book_jacket', 0.7755096, u'comic_book', 0.14646403, u'throne', 0.040096372, u'jigsaw_puzzle', 0.012825228, u'altar', 0.004165337]
+[u'palace', 0.35635072, u'castle', 0.26540899, u'church', 0.1412141, u'monastery', 0.075866528, u'altar', 0.052328359]
+[u'toyshop', 0.42656699, u'mask', 0.12889963, u'comic_book', 0.11385326, u'confectionery', 0.044059839, u'rubber_eraser', 0.029823381]
+[u'lemon', 0.43489394, u'pomegranate', 0.28855419, u'orange', 0.18307771, u'Granny_Smith', 0.018976899, u'grocery_store', 0.006847057]
+[u'balloon', 0.4180845, u'packet', 0.10403463, u'slot', 0.062394563, u'confectionery', 0.038093537, u'maraca', 0.034592807]
+[u'totem_pole', 0.22342803, u'comic_book', 0.21798211, u'cinema', 0.10996941, u'church', 0.049921826, u'bell_cote', 0.045071546]

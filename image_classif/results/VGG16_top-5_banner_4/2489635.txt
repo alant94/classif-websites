@@ -1,0 +1,2 @@
+[u'scoreboard', 0.56806552, u'stage', 0.1812458, u'limousine', 0.022097226, u'web_site', 0.020827062, u'brass', 0.01476089]
+[u'safety_pin', 0.26985314, u'toilet_tissue', 0.19801617, u'paper_towel', 0.16189174, u'plastic_bag', 0.048989955, u'hook', 0.035841923]

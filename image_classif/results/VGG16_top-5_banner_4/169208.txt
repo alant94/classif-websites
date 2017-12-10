@@ -1,0 +1,2 @@
+[u'crane', 0.18382806, u'dock', 0.13338608, u'missile', 0.12032204, u'projectile', 0.054486845, u'fountain', 0.051155057]
+[u'digital_clock', 0.14301834, u'street_sign', 0.10570905, u'laptop', 0.09161967, u'tray', 0.075842321, u'analog_clock', 0.049822729]

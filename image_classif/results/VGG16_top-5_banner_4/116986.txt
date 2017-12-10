@@ -1,0 +1,1 @@
+[u'can_opener', 0.28210402, u'shovel', 0.075060651, u"carpenter's_kit", 0.069106124, u'spatula', 0.062470838, u'hook', 0.048538517]

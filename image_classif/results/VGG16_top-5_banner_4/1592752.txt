@@ -1,0 +1,8 @@
+[u'dam', 0.60767025, u'fountain', 0.038349684, u'vault', 0.021853138, u'hourglass', 0.016263099, u'guillotine', 0.016262516]
+[u'thimble', 0.055773493, u'book_jacket', 0.039159361, u'rule', 0.035521202, u'computer_keyboard', 0.033806581, u'vending_machine', 0.021937689]
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]
+[u'spotlight', 0.083831854, u'beacon', 0.040605683, u'lighter', 0.038625333, u'balloon', 0.034228243, u'castle', 0.027035264]
+[u'stupa', 0.089013137, u'bell_cote', 0.061739001, u'soap_dispenser', 0.048626736, u'monastery', 0.041319128, u'fountain', 0.041029476]
+[u"potter's_wheel", 0.18379648, u'Band_Aid', 0.077816904, u'Weimaraner', 0.048215084, u'diaper', 0.022311272, u'nipple', 0.020244181]
+[u'digital_clock', 0.25401866, u'tray', 0.12326642, u'traffic_light', 0.051974218, u'street_sign', 0.039353404, u'book_jacket', 0.035696294]
+[u'shower_curtain', 0.074568145, u'Windsor_tie', 0.039746907, u'stole', 0.034204263, u'Christmas_stocking', 0.030883668, u'sock', 0.024284912]

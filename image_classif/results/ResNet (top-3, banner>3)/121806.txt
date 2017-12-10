@@ -1,0 +1,2 @@
+[u'cowboy_boot', 0.1847024, u'picket_fence', 0.055939604, u'sandal', 0.042729158]
+[u'switch', 0.21438958, u'coffee_mug', 0.14930438, u'Band_Aid', 0.10414232]

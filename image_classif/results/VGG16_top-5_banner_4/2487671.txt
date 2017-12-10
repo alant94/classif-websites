@@ -1,0 +1,2 @@
+[u'container_ship', 0.37384203, u'safe', 0.044932332, u'binder', 0.040193278, u'lighter', 0.036955904, u'oil_filter', 0.030776873]
+[u'book_jacket', 0.10535995, u'toilet_seat', 0.080122136, u'bottlecap', 0.065618083, u'gong', 0.054135796, u'wall_clock', 0.040646445]

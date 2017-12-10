@@ -1,0 +1,7 @@
+[u'butcher_shop', 0.23710597, u'cowboy_boot', 0.12606397, u'oboe', 0.091049679, u'lampshade', 0.069188714, u'chain', 0.059189893]
+[u'perfume', 0.14208174, u'throne', 0.047445748, u'corkscrew', 0.029261505, u'chest', 0.022399915, u'table_lamp', 0.022103148]
+[u'web_site', 0.31813896, u'menu', 0.22204563, u'crossword_puzzle', 0.054395609, u'book_jacket', 0.026084866, u'comic_book', 0.022711432]
+[u'perfume', 0.05947477, u'throne', 0.048825543, u'four-poster', 0.033648111, u'quill', 0.030183265, u'balance_beam', 0.029915534]
+[u'throne', 0.15818988, u'perfume', 0.080673605, u'book_jacket', 0.040988777, u'four-poster', 0.040551968, u'street_sign', 0.035649758]
+[u'perfume', 0.16537595, u'throne', 0.057625402, u'matchstick', 0.03142168, u'lighter', 0.026758654, u'balance_beam', 0.024395384]
+[u'plane', 0.12806349, u'marimba', 0.093193933, u'notebook', 0.082553409, u'quill', 0.073074713, u'jigsaw_puzzle', 0.049947504]

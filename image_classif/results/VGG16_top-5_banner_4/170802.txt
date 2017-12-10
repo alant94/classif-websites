@@ -1,0 +1,2 @@
+[u'stage', 0.47008565, u'unicycle', 0.12439162, u'scoreboard', 0.10405179, u'fountain', 0.030135486, u'military_uniform', 0.02802743]
+[u'book_jacket', 0.63235557, u'volcano', 0.066100657, u'poncho', 0.045401599, u'prayer_rug', 0.028987911, u'fire_screen', 0.021786399]

@@ -1,0 +1,2 @@
+[u'street_sign', 0.11684838, u'carton', 0.051008761, u'traffic_light', 0.048469689, u'packet', 0.044826172, u'book_jacket', 0.042720191]
+[u'book_jacket', 0.27338493, u'scoreboard', 0.11662064, u'comic_book', 0.10536843, u'ski', 0.062761106, u'pop_bottle', 0.058328401]

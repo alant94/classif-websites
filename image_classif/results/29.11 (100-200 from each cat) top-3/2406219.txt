@@ -1,0 +1,2 @@
+[u'nail', 0.16498421, u'web_site', 0.088222012, u'safety_pin', 0.086516395]
+[u'birdhouse', 0.26629397, u'chime', 0.20057073, u'warplane', 0.075754002]

@@ -1,0 +1,2 @@
+[u'nail', 0.14795919, u'hammer', 0.11482813, u'pedestal', 0.082004897, u'hatchet', 0.071028091, u'hook', 0.066806763]
+[u'hartebeest', 0.52143168, u'impala', 0.14001697, u'gazelle', 0.11228236, u'triceratops', 0.026640443, u'vizsla', 0.021798151]

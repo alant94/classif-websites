@@ -1,0 +1,7 @@
+[u'hartebeest', 0.62263983, u'ibex', 0.21360323, u'impala', 0.09667027]
+[u'hartebeest', 0.32549679, u'borzoi', 0.093404315, u'rock_python', 0.054038581]
+[u'gazelle', 0.73242033, u'impala', 0.10758374, u'hartebeest', 0.074080765]
+[u'impala', 0.81183338, u'gazelle', 0.082582079, u'ibex', 0.033632264]
+[u'chain_saw', 0.64257812, u'proboscis_monkey', 0.038200404, u'suspension_bridge', 0.032728504]
+[u'Scottish_deerhound', 0.17118366, u'whippet', 0.12226072, u'bighorn', 0.094097741]
+[u'hartebeest', 0.42878318, u'ox', 0.18537165, u'oxcart', 0.078558609]

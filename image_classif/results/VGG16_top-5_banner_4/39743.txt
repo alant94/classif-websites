@@ -1,0 +1,1 @@
+[u'common_newt', 0.21849407, u'tailed_frog', 0.20902234, u'book_jacket', 0.080826089, u'jigsaw_puzzle', 0.065384336, u'hog', 0.01867036]

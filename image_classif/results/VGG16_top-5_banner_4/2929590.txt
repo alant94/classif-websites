@@ -1,0 +1,1 @@
+[u'face_powder', 0.55720156, u'analog_clock', 0.07683403, u'wall_clock', 0.060257591, u'pick', 0.047159217, u'puck', 0.025489436]

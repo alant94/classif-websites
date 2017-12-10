@@ -1,0 +1,7 @@
+[u'pole', 0.42951345, u'totem_pole', 0.12293427, u'torch', 0.092005312, u'broom', 0.053708825, u'plunger', 0.030111041]
+[u'flute', 0.99818277, u'whistle', 0.0011426908, u'panpipe', 0.00047770917, u'chime', 9.9746321e-05, u'oboe', 5.5086621e-05]
+[u'flute', 0.62677675, u'fountain_pen', 0.13652311, u'oboe', 0.053982317, u'bassoon', 0.040570632, u'syringe', 0.038196344]
+[u'flute', 0.30549142, u'bassoon', 0.24033676, u'oboe', 0.16283275, u'rifle', 0.090227768, u'crutch', 0.020304676]
+[u'jigsaw_puzzle', 0.69726473, u'pinwheel', 0.12529078, u'quilt', 0.028546549, u'confectionery', 0.015481743, u'rubber_eraser', 0.0091177709]
+[u'clog', 0.79321671, u'Loafer', 0.19068561, u'sandal', 0.013619079, u'shoe_shop', 0.0021154068, u'running_shoe', 0.00011348572]
+[u'torch', 0.91660464, u'flute', 0.071879521, u'bassoon', 0.010299286, u'oboe', 0.00075711455, u'drumstick', 0.00014259228]

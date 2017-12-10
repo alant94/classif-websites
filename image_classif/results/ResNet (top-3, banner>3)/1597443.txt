@@ -1,0 +1,7 @@
+[u'miniskirt', 0.62767255, u'bikini', 0.18902577, u'maillot', 0.093424119]
+[u'bikini', 0.76658696, u'maillot', 0.14215787, u'maillot', 0.066981576]
+[u'bathing_cap', 0.081093945, u'knee_pad', 0.079967842, u'hook', 0.075483881]
+[u'fire_screen', 0.19084142, u'window_screen', 0.10383476, u'geyser', 0.091051467]
+[u'rocking_chair', 0.15618296, u'pot', 0.10228526, u'toilet_seat', 0.082460001]
+[u'studio_couch', 0.1813952, u'diaper', 0.16359022, u'crib', 0.09490376]
+[u'umbrella', 0.61627257, u'brassiere', 0.17125696, u'bikini', 0.029569799]

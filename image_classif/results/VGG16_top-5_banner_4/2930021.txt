@@ -1,0 +1,4 @@
+[u'web_site', 0.62254119, u'envelope', 0.088881604, u'hook', 0.034482747, u'whistle', 0.018222621, u'jersey', 0.016842363]
+[u'packet', 0.20828822, u'Band_Aid', 0.099652983, u'sunscreen', 0.074212335, u'pretzel', 0.054893415, u'comic_book', 0.032233186]
+[u'fountain', 0.10893968, u'altar', 0.096207254, u'vestment', 0.083103925, u'wall_clock', 0.071427628, u'shower_curtain', 0.044968445]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

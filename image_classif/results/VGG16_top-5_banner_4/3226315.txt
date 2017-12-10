@@ -1,0 +1,2 @@
+[u'book_jacket', 0.1129251, u'cornet', 0.076325044, u'web_site', 0.043937996, u'trombone', 0.02802689, u'brass', 0.025317624]
+[u'web_site', 0.58143795, u'book_jacket', 0.12895483, u'comic_book', 0.068153411, u'analog_clock', 0.011573699, u'oscilloscope', 0.011050818]

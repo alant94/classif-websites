@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.13622989, u'scoreboard', 0.08386571, u'digital_clock', 0.069598466]
+[u'abaya', 0.17661314, u'jersey', 0.10179967, u'maillot', 0.07107345]

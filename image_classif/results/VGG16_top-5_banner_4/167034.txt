@@ -1,0 +1,2 @@
+[u'envelope', 0.59831053, u'web_site', 0.047648162, u'crossword_puzzle', 0.037444472, u'book_jacket', 0.033913378, u'Windsor_tie', 0.026157962]
+[u'maillot', 0.45641136, u'maillot', 0.30369097, u'miniskirt', 0.097760253, u'gown', 0.037022647, u'brassiere', 0.020411735]

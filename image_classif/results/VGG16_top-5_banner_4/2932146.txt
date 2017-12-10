@@ -1,0 +1,8 @@
+[u'lotion', 0.089679688, u'cash_machine', 0.07753858, u'perfume', 0.074835524, u'book_jacket', 0.052010763, u'iPod', 0.044985324]
+[u'stole', 0.9232558, u'wool', 0.024316756, u'poncho', 0.019190896, u'cardigan', 0.0097838389, u'mitten', 0.0067176931]
+[u'shower_cap', 0.17464487, u'Dungeness_crab', 0.056947652, u'tench', 0.031695735, u'head_cabbage', 0.031683251, u'king_crab', 0.031117845]
+[u'cash_machine', 0.14320239, u'perfume', 0.10692917, u'lotion', 0.10095842, u'book_jacket', 0.058251623, u'hair_spray', 0.050946761]
+[u'suit', 0.54341465, u'oboe', 0.030919794, u'bassoon', 0.022217924, u'Windsor_tie', 0.021941263, u'trench_coat', 0.017413886]
+[u'cash_machine', 0.22890529, u'lotion', 0.094190948, u'perfume', 0.076306343, u'sunscreen', 0.051616441, u'pill_bottle', 0.039029673]
+[u'bow_tie', 0.23445289, u'lab_coat', 0.12446874, u'oboe', 0.090784654, u'wig', 0.043047126, u'vestment', 0.034919739]
+[u'book_jacket', 0.52652383, u'packet', 0.078936443, u'doormat', 0.042550419, u'lighter', 0.029703379, u'cash_machine', 0.026151666]

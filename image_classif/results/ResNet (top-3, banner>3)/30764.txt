@@ -1,0 +1,1 @@
+[u'digital_clock', 0.83878714, u'tennis_ball', 0.067465678, u'digital_watch', 0.042638093]

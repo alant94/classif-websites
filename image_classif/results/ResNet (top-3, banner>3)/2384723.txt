@@ -1,0 +1,6 @@
+[u'beer_glass', 0.87688446, u'beer_bottle', 0.04456101, u'cocktail_shaker', 0.041833177]
+[u'guillotine', 0.53481597, u'corkscrew', 0.10214581, u'loupe', 0.087006994]
+[u'pretzel', 0.17854707, u'bakery', 0.12616834, u'plate', 0.10874959]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.090387531, u'cornet', 0.079496741, u'hair_slide', 0.065269746]
+[u'plate', 0.35854971, u'orange', 0.13409235, u'restaurant', 0.11146147]

@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.41186875, u'stage', 0.10904562, u'comic_book', 0.077802323, u'toyshop', 0.071866162, u'feather_boa', 0.032938361]

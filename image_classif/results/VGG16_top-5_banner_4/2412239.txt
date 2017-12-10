@@ -1,0 +1,7 @@
+[u'swing', 0.69833565, u'barrow', 0.042720798, u'horizontal_bar', 0.028644348, u'parallel_bars', 0.026530981, u'bucket', 0.020697493]
+[u'teddy', 0.17979181, u'pajama', 0.052750904, u'toilet_tissue', 0.041145101, u'bassinet', 0.038033877, u'paper_towel', 0.020492375]
+[u'table_lamp', 0.2935316, u'lampshade', 0.2881802, u'parachute', 0.1846731, u'mountain_tent', 0.05452241, u'umbrella', 0.021313148]
+[u'comic_book', 0.069660299, u'maillot', 0.060766965, u'pajama', 0.057874329, u'packet', 0.052503403, u'toyshop', 0.047726497]
+[u'diaper', 0.47200713, u'handkerchief', 0.24926288, u'plastic_bag', 0.060404755, u'packet', 0.047570754, u'bonnet', 0.04115453]
+[u'poncho', 0.10603932, u'bonnet', 0.095368117, u'bath_towel', 0.094332397, u'diaper', 0.075500682, u'bassinet', 0.073537849]
+[u'quilt', 0.17936879, u'studio_couch', 0.13201529, u'velvet', 0.060681649, u'sleeping_bag', 0.048710734, u'mailbag', 0.031510841]

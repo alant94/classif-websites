@@ -1,0 +1,2 @@
+[u'library', 0.37471738, u'bookshop', 0.32056871, u'bookcase', 0.18140379]
+[u'spotlight', 0.22328912, u'barrel', 0.18339343, u'binoculars', 0.098003671]

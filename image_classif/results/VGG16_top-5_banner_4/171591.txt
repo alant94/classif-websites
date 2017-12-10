@@ -1,0 +1,2 @@
+[u'nail', 0.075797826, u'hook', 0.061623961, u'balance_beam', 0.029789397, u'hatchet', 0.027257567, u'microphone', 0.020945391]
+[u'Band_Aid', 0.13023746, u'envelope', 0.12216139, u'web_site', 0.0610248, u'rule', 0.038876347, u'hook', 0.025613662]

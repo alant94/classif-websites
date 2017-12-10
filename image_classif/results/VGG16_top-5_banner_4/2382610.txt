@@ -1,0 +1,5 @@
+[u'book_jacket', 0.3643426, u'comic_book', 0.10184729, u'web_site', 0.038435593, u'bathing_cap', 0.033105791, u'pick', 0.025800008]
+[u'tractor', 0.25713173, u'chain_saw', 0.16722405, u'thresher', 0.10438598, u'harvester', 0.055747833, u'gong', 0.052838657]
+[u'consomme', 0.35268018, u'plate', 0.2863239, u'soup_bowl', 0.078123793, u'potpie', 0.051348366, u'corn', 0.049061198]
+[u'whistle', 0.1991732, u'pill_bottle', 0.18391967, u'lighter', 0.1440946, u'nipple', 0.082277194, u'sunscreen', 0.037162751]
+[u'frying_pan', 0.09082932, u'measuring_cup', 0.056704454, u'strainer', 0.036857162, u'plate_rack', 0.029789159, u'nail', 0.027221484]

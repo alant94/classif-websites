@@ -1,0 +1,1 @@
+[u'envelope', 0.10711078, u'web_site', 0.094616838, u'rule', 0.031003464, u'can_opener', 0.017610565, u'letter_opener', 0.014239312]

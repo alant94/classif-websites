@@ -1,0 +1,6 @@
+[u'acorn', 0.44676659, u'bottlecap', 0.12494742, u'buckle', 0.094839036]
+[u'ice_cream', 0.87542349, u'chocolate_sauce', 0.12100382, u'bakery', 0.001226328]
+[u'pretzel', 0.98022205, u"jack-o'-lantern", 0.0071473415, u'chocolate_sauce', 0.0022549536]
+[u'web_site', 0.057031132, u'book_jacket', 0.051361784, u'cornet', 0.047570314]
+[u'bakery', 0.14926602, u'bagel', 0.14473528, u'French_loaf', 0.12603068]
+[u'sax', 0.066706941, u'beer_glass', 0.047318026, u'ant', 0.041637085]

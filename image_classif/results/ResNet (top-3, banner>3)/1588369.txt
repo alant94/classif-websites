@@ -1,0 +1,2 @@
+[u'quill', 0.12260627, u'packet', 0.077163927, u'carton', 0.071660273]
+[u'book_jacket', 0.17670959, u'quill', 0.12133611, u'perfume', 0.10676102]

@@ -1,0 +1,4 @@
+[u'red_wine', 0.47754815, u'perfume', 0.10413877, u'lipstick', 0.063018769, u'wine_bottle', 0.032064505, u'remote_control', 0.031663392]
+[u'can_opener', 0.34698084, u'iron', 0.074950829, u'lighter', 0.048872419, u'spotlight', 0.027068224, u'corkscrew', 0.018478775]
+[u'window_shade', 0.42071196, u'theater_curtain', 0.14965568, u'shower_curtain', 0.075395115, u'sliding_door', 0.059016332, u'wardrobe', 0.02761592]
+[u'lens_cap', 0.75748831, u'sandal', 0.049337145, u'reflex_camera', 0.039551742, u'running_shoe', 0.021361995, u'mouse', 0.016304635]

@@ -1,0 +1,2 @@
+[u'hog', 0.49881786, u'brown_bear', 0.31175151, u'ice_bear', 0.042063784, u'wild_boar', 0.037642602, u'ox', 0.010314466]
+[u'oxcart', 0.27046996, u'baboon', 0.10086109, u'horse_cart', 0.061883237, u'half_track', 0.059491366, u'wild_boar', 0.051570795]

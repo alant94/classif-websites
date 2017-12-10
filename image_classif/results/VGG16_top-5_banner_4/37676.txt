@@ -1,0 +1,6 @@
+[u'red_wine', 0.41657048, u'ping-pong_ball', 0.061176766, u'perfume', 0.041077442, u'bubble', 0.040354725, u'mouse', 0.031389993]
+[u'face_powder', 0.41302878, u'Petri_dish', 0.14267646, u'ping-pong_ball', 0.10471286, u'candle', 0.10289142, u'pill_bottle', 0.021395743]
+[u'ping-pong_ball', 0.16812773, u'face_powder', 0.12447132, u'spotlight', 0.1056736, u'lampshade', 0.077695258, u'perfume', 0.033880904]
+[u'whistle', 0.25597471, u'paper_towel', 0.065851182, u'bib', 0.045616653, u'hook', 0.035746083, u'hair_slide', 0.020745512]
+[u'ping-pong_ball', 0.29970169, u'face_powder', 0.12064596, u'Petri_dish', 0.053631771, u'mouse', 0.050605394, u'volleyball', 0.039299864]
+[u'home_theater', 0.35826546, u'cinema', 0.29135942, u'theater_curtain', 0.094641179, u'television', 0.051209375, u'entertainment_center', 0.018371418]

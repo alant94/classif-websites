@@ -1,0 +1,8 @@
+[u'library', 0.4143061, u'bookshop', 0.18734826, u'bookcase', 0.029577017, u'prison', 0.015774995, u'lab_coat', 0.011954322]
+[u'web_site', 0.83538049, u'envelope', 0.066596366, u'menu', 0.0040084594, u'crossword_puzzle', 0.0039403359, u'Band_Aid', 0.0025555314]
+[u'jinrikisha', 0.23712388, u'carousel', 0.1495001, u'shoe_shop', 0.084224075, u'maypole', 0.061232612, u'swing', 0.031697609]
+[u'ibex', 0.59257358, u'mailbag', 0.084198914, u'Arabian_camel', 0.077292763, u'impala', 0.028016925, u'brassiere', 0.025630457]
+[u'web_site', 0.97990775, u'menu', 0.012706963, u'monitor', 0.0024720978, u'screen', 0.00085544534, u'envelope', 0.00074947492]
+[u'scoreboard', 0.1233613, u'street_sign', 0.097175643, u'Band_Aid', 0.092990741, u'book_jacket', 0.074293151, u'ambulance', 0.030882973]
+[u'projectile', 0.34193879, u'missile', 0.29257813, u'flagpole', 0.060545448, u'totem_pole', 0.036806397, u'pedestal', 0.02262675]
+[u'maze', 0.2804935, u'puck', 0.069155052, u'envelope', 0.053524036, u'gong', 0.043477252, u'plate_rack', 0.033788525]

@@ -1,0 +1,7 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'whistle', 0.20185809, u'screw', 0.11394627, u'envelope', 0.076197267, u'candle', 0.066202246, u'honeycomb', 0.048850916]
+[u'guillotine', 0.20561966, u'rule', 0.12445271, u'hook', 0.076732196, u'nail', 0.048948996, u'bannister', 0.030010169]
+[u'envelope', 0.13226388, u'bell_cote', 0.11388243, u'hook', 0.026628638, u'crane', 0.02577625, u'abaya', 0.020503569]
+[u'envelope', 0.17723678, u'web_site', 0.078807741, u'bell_cote', 0.031936396, u'abaya', 0.016937077, u'crane', 0.016039632]
+[u'matchstick', 0.039973609, u'nail', 0.036125753, u'web_site', 0.02636593, u'envelope', 0.025133068, u'hourglass', 0.017343875]
+[u'toilet_seat', 0.47556338, u'spotlight', 0.29977679, u'swab', 0.043331955, u'scale', 0.017513955, u'hook', 0.015782436]

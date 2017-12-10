@@ -1,0 +1,3 @@
+[u'crane', 0.13956849, u'forklift', 0.10089676, u'trailer_truck', 0.088151515]
+[u'sturgeon', 0.72073179, u'gar', 0.076089717, u'diamondback', 0.029801309]
+[u'hartebeest', 0.11508252, u'warthog', 0.08710926, u'wild_boar', 0.079711907]

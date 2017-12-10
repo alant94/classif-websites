@@ -1,0 +1,7 @@
+[u'lab_coat', 0.21117455, u'desk', 0.083312847, u'beaker', 0.055423606]
+[u'web_site', 0.53560746, u'envelope', 0.095918745, u'plastic_bag', 0.024025422]
+[u'web_site', 0.10386657, u'dugong', 0.090647615, u'sea_snake', 0.052518252]
+[u'mobile_home', 0.89515263, u'patio', 0.032353237, u'lakeside', 0.016559124]
+[u'tobacco_shop', 0.16689423, u'shoe_shop', 0.15627611, u'vending_machine', 0.126976]
+[u'photocopier', 0.33157524, u'desk', 0.10354496, u'printer', 0.10278601]
+[u'cliff_dwelling', 0.78991485, u'castle', 0.026936181, u'cliff', 0.019398861]

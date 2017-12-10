@@ -1,0 +1,2 @@
+[u'digital_clock', 0.17582464, u'digital_watch', 0.061837412, u'wall_clock', 0.04999591, u'shower_curtain', 0.027584374, u'crossword_puzzle', 0.023091741]
+[u'organ', 0.35908359, u'library', 0.078628294, u'bookcase', 0.04991683, u'maze', 0.030711688, u'book_jacket', 0.0303242]

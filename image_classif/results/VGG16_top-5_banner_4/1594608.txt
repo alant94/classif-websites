@@ -1,0 +1,7 @@
+[u'king_snake', 0.32399136, u'hognose_snake', 0.30365372, u'night_snake', 0.096439905, u'Indian_cobra', 0.055128161, u'Gila_monster', 0.025232002]
+[u'carousel', 0.073445037, u'restaurant', 0.070395768, u'space_shuttle', 0.056554828, u'bell_cote', 0.042829655, u'toyshop', 0.036250878]
+[u'vault', 0.084249392, u'dam', 0.031119065, u'prison', 0.029487591, u'tub', 0.028428137, u'Band_Aid', 0.021805018]
+[u'mosquito_net', 0.63108057, u'shower_curtain', 0.06470269, u'bathtub', 0.033468317, u'hand_blower', 0.032978989, u'brassiere', 0.023844412]
+[u'fountain', 0.17149472, u'hourglass', 0.097896591, u'fireboat', 0.064408578, u'bathtub', 0.019990299, u'beaker', 0.018705303]
+[u'wall_clock', 0.23418249, u'church', 0.094300054, u'analog_clock', 0.069999002, u'bell_cote', 0.035118014, u'bannister', 0.031414006]
+[u'tub', 0.33536446, u"potter's_wheel", 0.28647107, u'bathtub', 0.08974009, u'miniskirt', 0.033479359, u'bikini', 0.011915696]

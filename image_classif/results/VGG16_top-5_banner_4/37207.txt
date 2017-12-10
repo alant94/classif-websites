@@ -1,0 +1,1 @@
+[u'sweatshirt', 0.10716624, u'cardigan', 0.082014978, u'jersey', 0.07701461, u'coho', 0.040316917, u'lakeside', 0.025473593]

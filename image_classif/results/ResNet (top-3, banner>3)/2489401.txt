@@ -1,0 +1,5 @@
+[u'puck', 0.27077484, u'web_site', 0.16670941, u'lighter', 0.056915142]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'gazelle', 0.52655691, u'hartebeest', 0.21433525, u'impala', 0.17741011]
+[u'web_site', 0.12735038, u'beacon', 0.052248467, u'bubble', 0.045729171]

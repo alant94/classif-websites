@@ -1,0 +1,2 @@
+[u'sandal', 0.17355758, u'acoustic_guitar', 0.14823988, u'violin', 0.037458025, u'hook', 0.03284606, u'nematode', 0.031407904]
+[u'acoustic_guitar', 0.76792747, u'violin', 0.1186493, u'cello', 0.10179184, u'electric_guitar', 0.0087437667, u'banjo', 0.0021483484]

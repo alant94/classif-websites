@@ -1,0 +1,4 @@
+[u'cowboy_hat', 0.54632491, u'trench_coat', 0.06954471, u'fur_coat', 0.032126144]
+[u'bikini', 0.22251691, u'brassiere', 0.21652047, u'maillot', 0.076035924]
+[u'maillot', 0.28436327, u'maillot', 0.18801126, u'studio_couch', 0.15508009]
+[u'miniskirt', 0.16969185, u'diaper', 0.076058947, u'bikini', 0.074004948]

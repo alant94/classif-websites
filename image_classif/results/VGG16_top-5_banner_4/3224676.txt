@@ -1,0 +1,4 @@
+[u'vestment', 0.64526451, u'butcher_shop', 0.13610464, u'academic_gown', 0.096591376, u'wardrobe', 0.047699738, u'theater_curtain', 0.02463337]
+[u'electric_guitar', 0.10078497, u'hook', 0.095848911, u'rule', 0.07408116, u'nail', 0.063967772, u'bow', 0.057125751]
+[u'restaurant', 0.43935436, u'library', 0.20242639, u'shoe_shop', 0.094287597, u'bookshop', 0.034364354, u'laptop', 0.02899147]
+[u'toyshop', 0.39394358, u'teddy', 0.14758345, u'guillotine', 0.016087135, u'wardrobe', 0.015494035, u'punching_bag', 0.014148452]

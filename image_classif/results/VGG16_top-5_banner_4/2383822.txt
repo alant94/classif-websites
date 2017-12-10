@@ -1,0 +1,6 @@
+[u'Petri_dish', 0.19477281, u'tobacco_shop', 0.13315047, u'container_ship', 0.095937759, u'grocery_store', 0.061782748, u'confectionery', 0.050766245]
+[u'digital_clock', 0.63377368, u'digital_watch', 0.13267007, u'scoreboard', 0.035677303, u'crossword_puzzle', 0.022891108, u'wall_clock', 0.010834475]
+[u'Windsor_tie', 0.11856382, u'crossword_puzzle', 0.038516492, u'digital_watch', 0.027216988, u'wall_clock', 0.026233258, u'digital_clock', 0.026209576]
+[u'tobacco_shop', 0.22558667, u'grocery_store', 0.19713791, u'bakery', 0.095898561, u'Petri_dish', 0.063115992, u'container_ship', 0.057946164]
+[u'Windsor_tie', 0.044530738, u'wall_clock', 0.035713494, u'digital_clock', 0.033911448, u'digital_watch', 0.031496476, u'web_site', 0.025918119]
+[u'consomme', 0.31297213, u'Petri_dish', 0.085683562, u'soup_bowl', 0.076526515, u'hot_pot', 0.070319675, u'caldron', 0.039134983]

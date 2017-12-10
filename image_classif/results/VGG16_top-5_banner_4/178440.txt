@@ -1,0 +1,4 @@
+[u'stage', 0.32460582, u'throne', 0.20123082, u'theater_curtain', 0.046627168, u'balloon', 0.045042433, u'brassiere', 0.030684577]
+[u'gown', 0.1361818, u'sarong', 0.078147911, u'groom', 0.057446223, u'maillot', 0.041530862, u'stage', 0.038951471]
+[u'electric_guitar', 0.66434056, u'acoustic_guitar', 0.096709058, u'stage', 0.045921668, u'banjo', 0.031839345, u'microphone', 0.022945829]
+[u'cash_machine', 0.16210322, u'monitor', 0.090210736, u'screen', 0.08287733, u'medicine_chest', 0.071745768, u'envelope', 0.054413352]

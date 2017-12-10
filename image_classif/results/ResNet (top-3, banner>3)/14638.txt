@@ -1,0 +1,2 @@
+[u'beer_glass', 0.8917796, u'pitcher', 0.027746852, u'beer_bottle', 0.015895007]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

@@ -1,0 +1,3 @@
+[u'mousetrap', 0.23598325, u'nail', 0.12650454, u'hook', 0.065686353, u'cleaver', 0.05329914, u'lighter', 0.041563995]
+[u'harp', 0.24248187, u'swimming_trunks', 0.055280484, u'sarong', 0.036086544, u'marimba', 0.031915963, u'bathing_cap', 0.023803154]
+[u'electric_fan', 0.15887348, u'shower_cap', 0.13919283, u'strainer', 0.05492663, u'web_site', 0.04981707, u'microphone', 0.048875447]

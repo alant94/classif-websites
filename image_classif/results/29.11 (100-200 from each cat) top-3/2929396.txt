@@ -1,0 +1,2 @@
+[u'nail', 0.12128107, u'screw', 0.072652735, u'hair_spray', 0.054273158]
+[u'web_site', 0.37982997, u'envelope', 0.053413488, u'oxygen_mask', 0.047907632]

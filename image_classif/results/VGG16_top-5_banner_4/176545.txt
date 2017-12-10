@@ -1,0 +1,2 @@
+[u'jersey', 0.22497103, u'comic_book', 0.19578359, u'sweatshirt', 0.12985702, u'backpack', 0.028740348, u'mailbag', 0.017920405]
+[u'cash_machine', 0.5527035, u'web_site', 0.09529449, u'television', 0.090688236, u'screen', 0.081478141, u'monitor', 0.03163043]

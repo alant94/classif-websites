@@ -1,0 +1,2 @@
+[u'ibex', 0.63382512, u'impala', 0.13524394, u'wallaby', 0.070590556, u'bighorn', 0.039142396, u'hartebeest', 0.034410309]
+[u'military_uniform', 0.27784875, u'bulletproof_vest', 0.07813628, u'cowboy_hat', 0.041325457, u'coho', 0.028439719, u'assault_rifle', 0.026965128]

@@ -1,0 +1,2 @@
+[u'restaurant', 0.52762717, u'toilet_seat', 0.062815912, u'shoe_shop', 0.039112501, u'hair_spray', 0.030350454, u'library', 0.02775963]
+[u'lab_coat', 0.06731075, u'suit', 0.054810476, u"potter's_wheel", 0.034579232, u'military_uniform', 0.024934733, u'marimba', 0.02115465]

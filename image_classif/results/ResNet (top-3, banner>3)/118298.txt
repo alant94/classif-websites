@@ -1,0 +1,4 @@
+[u'web_site', 0.27229413, u'television', 0.18683331, u'laptop', 0.17572099]
+[u'radiator', 0.33800852, u'bannister', 0.1519161, u'window_shade', 0.067266583]
+[u'tripod', 0.23911627, u'planetarium', 0.081398368, u'monitor', 0.062106945]
+[u'tobacco_shop', 0.24452582, u'scoreboard', 0.092964076, u'cinema', 0.081568286]

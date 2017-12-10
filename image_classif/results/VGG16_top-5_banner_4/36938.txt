@@ -1,0 +1,6 @@
+[u'fountain', 0.28784788, u'killer_whale', 0.23791143, u'cliff', 0.097499549, u'sea_lion', 0.055883177, u'peacock', 0.026390007]
+[u'shower_curtain', 0.48782039, u'fountain', 0.069063447, u'pitcher', 0.06464231, u'vase', 0.040834144, u'ashcan', 0.025873832]
+[u'paintbrush', 0.62051702, u'umbrella', 0.13414465, u'shovel', 0.099716462, u'swab', 0.022486145, u'broom', 0.015605018]
+[u'assault_rifle', 0.32533756, u'rifle', 0.25757852, u'missile', 0.086055629, u'projectile', 0.056299906, u'revolver', 0.050785467]
+[u'plate_rack', 0.1419609, u'electric_fan', 0.078303955, u'picket_fence', 0.057058249, u'iron', 0.051758666, u'fountain', 0.047995791]
+[u'hammerhead', 0.094088763, u'scuba_diver', 0.073697314, u'alp', 0.067663938, u'great_white_shark', 0.066431277, u'fountain', 0.062318094]

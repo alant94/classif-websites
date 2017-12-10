@@ -1,0 +1,6 @@
+[u'street_sign', 0.63328964, u'police_van', 0.063306287, u'traffic_light', 0.061045479, u'cash_machine', 0.028358871, u'mailbox', 0.027134998]
+[u'bassoon', 0.25144336, u'torch', 0.16879369, u'oboe', 0.12490502, u'king_crab', 0.087380566, u'flute', 0.073250994]
+[u'bell_cote', 0.13593309, u'stupa', 0.078594416, u'balloon', 0.066978037, u'palace', 0.049406409, u'maze', 0.044593807]
+[u'spotlight', 0.75927567, u'stage', 0.050494198, u'microphone', 0.048128262, u'fountain', 0.033258054, u'electric_guitar', 0.016370226]
+[u'Band_Aid', 0.17792407, u'paintbrush', 0.11776022, u'parachute', 0.10733188, u'umbrella', 0.081326216, u'cleaver', 0.068760037]
+[u'electric_guitar', 0.64231014, u'panpipe', 0.12369598, u'flute', 0.05346949, u'harp', 0.047080263, u'stage', 0.023477636]

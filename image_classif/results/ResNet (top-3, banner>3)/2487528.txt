@@ -1,0 +1,5 @@
+[u'kite', 0.48103943, u'prairie_chicken', 0.21255802, u'great_grey_owl', 0.2048303]
+[u'kite', 0.58627015, u'bald_eagle', 0.39854756, u'house_finch', 0.0040329699]
+[u'packet', 0.091783307, u'scoreboard', 0.074331224, u'book_jacket', 0.043883644]
+[u'digital_clock', 0.24055076, u'crossword_puzzle', 0.22337364, u'book_jacket', 0.074641414]
+[u'book_jacket', 0.20407026, u'scoreboard', 0.11239573, u'barbershop', 0.057401247]

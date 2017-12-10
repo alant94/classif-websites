@@ -1,0 +1,7 @@
+[u'shield', 0.16390872, u'punching_bag', 0.14775558, u'buckle', 0.098309174]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'buckle', 0.5585565, u'shield', 0.11812879, u'scabbard', 0.061424896]
+[u'spotlight', 0.41796014, u'scorpion', 0.12323741, u'chain_saw', 0.083874151]
+[u'bow', 0.20129487, u'mousetrap', 0.17857307, u'shield', 0.13562664]
+[u'web_site', 0.35947415, u'shield', 0.086141758, u'buckle', 0.06449499]
+[u'web_site', 0.2106865, u'iron', 0.069988802, u'ski', 0.041906346]

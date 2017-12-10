@@ -1,0 +1,1 @@
+[u'jersey', 0.057809386, u'envelope', 0.030373203, u'sweatshirt', 0.027964631, u'oil_filter', 0.019852722, u'web_site', 0.016603088]

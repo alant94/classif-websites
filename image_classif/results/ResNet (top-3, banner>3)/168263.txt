@@ -1,0 +1,5 @@
+[u'fountain', 0.69042879, u'swing', 0.13775194, u'banjo', 0.033426475]
+[u'book_jacket', 0.88921785, u'fountain', 0.031622406, u'comic_book', 0.01331266]
+[u'book_jacket', 0.51060897, u'web_site', 0.171299, u'comic_book', 0.032476638]
+[u'television', 0.46195486, u'screen', 0.1525248, u'iPod', 0.095315687]
+[u'lakeside', 0.71547192, u'fireboat', 0.042037345, u'trailer_truck', 0.01320318]

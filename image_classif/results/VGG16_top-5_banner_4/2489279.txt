@@ -1,0 +1,8 @@
+[u'kite', 0.60693961, u'limpkin', 0.16811693, u'prairie_chicken', 0.035817344, u'great_grey_owl', 0.027518924, u'letter_opener', 0.019322503]
+[u'plow', 0.35269761, u'ostrich', 0.19536896, u'Arabian_camel', 0.13474733, u'ox', 0.05114124, u'Saluki', 0.044569235]
+[u'giant_panda', 0.23262389, u'Old_English_sheepdog', 0.19382791, u'dalmatian', 0.090797767, u'West_Highland_white_terrier', 0.073529638, u'soft-coated_wheaten_terrier', 0.033661917]
+[u'sorrel', 0.99407804, u'Rhodesian_ridgeback', 0.0011473186, u'vizsla', 0.00078103755, u'worm_fence', 0.00077649159, u'hartebeest', 0.00052690384]
+[u'steel_drum', 0.061692473, u'crutch', 0.06157741, u'punching_bag', 0.044809416, u'plunger', 0.033175465, u'marimba', 0.028103702]
+[u'Welsh_springer_spaniel', 0.67704678, u'English_springer', 0.1380378, u'Brittany_spaniel', 0.057590589, u'wire-haired_fox_terrier', 0.030299265, u'cocker_spaniel', 0.021213667]
+[u'coho', 0.34022588, u'sturgeon', 0.049633417, u'barracouta', 0.04525413, u'warthog', 0.042605549, u'tench', 0.035467852]
+[u'parachute', 0.076465882, u'poncho', 0.056592666, u'knee_pad', 0.029216779, u'swing', 0.026548907, u'sunglasses', 0.024551947]

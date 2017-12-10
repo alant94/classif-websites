@@ -1,0 +1,4 @@
+[u'harp', 0.4082256, u'ski', 0.099030189, u'screwdriver', 0.093457177]
+[u'sleeping_bag', 0.086718626, u'seat_belt', 0.077683195, u'jean', 0.025771933]
+[u'miniskirt', 0.77644992, u'sandal', 0.04283813, u'Loafer', 0.02770843]
+[u'plastic_bag', 0.10981348, u'umbrella', 0.10095068, u'ashcan', 0.055047486]

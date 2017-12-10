@@ -1,0 +1,7 @@
+[u'envelope', 0.3364943, u'carton', 0.15172672, u'tray', 0.06828282, u'menu', 0.060680095, u'book_jacket', 0.025231477]
+[u'space_shuttle', 0.37469625, u'projectile', 0.04973384, u'missile', 0.048840899, u'aircraft_carrier', 0.043025125, u'bow', 0.042814124]
+[u'web_site', 0.98248625, u'remote_control', 0.0019948324, u'analog_clock', 0.001792952, u'hand-held_computer', 0.0017282903, u'rule', 0.0016393448]
+[u'safe', 0.20453525, u'syringe', 0.087233961, u'rule', 0.065927796, u'combination_lock', 0.045363132, u'monitor', 0.04164296]
+[u'apiary', 0.094318122, u'bloodhound', 0.09081655, u'vizsla', 0.055747475, u'cleaver', 0.052738711, u'Doberman', 0.049733996]
+[u'Christmas_stocking', 0.23596679, u'bell_cote', 0.23193964, u'analog_clock', 0.038012099, u'beacon', 0.035461023, u'wall_clock', 0.031753194]
+[u'reel', 0.088551238, u'coho', 0.084817633, u'bow', 0.077532806, u'Dungeness_crab', 0.072581716, u'yurt', 0.027498255]

@@ -1,0 +1,5 @@
+[u'pencil_sharpener', 0.11861496, u'cassette', 0.10373899, u'whistle', 0.10221525, u'switch', 0.081227429, u'can_opener', 0.051862348]
+[u'bell_cote', 0.51080108, u'container_ship', 0.15356921, u'stupa', 0.090901829, u'crane', 0.062441662, u'balloon', 0.039926436]
+[u'digital_watch', 0.27579322, u'whistle', 0.20186318, u'magnetic_compass', 0.10206501, u'digital_clock', 0.078835957, u'wall_clock', 0.043248914]
+[u'scale', 0.286594, u'bow', 0.057152919, u'envelope', 0.052591611, u'whistle', 0.041833691, u'crane', 0.03352955]
+[u'switch', 0.11963534, u'envelope', 0.11094273, u'rubber_eraser', 0.094580248, u'traffic_light', 0.076605216, u'carton', 0.050715547]

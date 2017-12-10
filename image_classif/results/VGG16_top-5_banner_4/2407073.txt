@@ -1,0 +1,8 @@
+[u'matchstick', 0.057214562, u'nematode', 0.038676534, u'lighter', 0.024194313, u'digital_clock', 0.02253814, u'spotlight', 0.018174075]
+[u'syringe', 0.17745507, u'chime', 0.097663231, u'ballpoint', 0.047634378, u'perfume', 0.042344943, u'screwdriver', 0.039557211]
+[u'syringe', 0.49482191, u'screwdriver', 0.11350629, u'ballpoint', 0.027017273, u'picket_fence', 0.02100087, u"carpenter's_kit", 0.015461289]
+[u'syringe', 0.076901279, u'ballpoint', 0.065741338, u'screwdriver', 0.043238845, u'chime', 0.035859615, u'matchstick', 0.034994803]
+[u'syringe', 0.22467181, u'perfume', 0.044583809, u'microphone', 0.040848579, u'screwdriver', 0.040701415, u'stethoscope', 0.023658779]
+[u'church', 0.15014239, u'chime', 0.07249818, u'syringe', 0.063061051, u'bell_cote', 0.045121457, u'picket_fence', 0.034237504]
+[u'pencil_sharpener', 0.17067176, u'mask', 0.16402656, u'screw', 0.15717337, u'buckle', 0.072712041, u'spotlight', 0.032101136]
+[u'scoreboard', 0.39911327, u'slot', 0.254884, u'cinema', 0.083743781, u'comic_book', 0.055278458, u'web_site', 0.011531353]

@@ -1,0 +1,4 @@
+[u'fountain', 0.72625595, u'jellyfish', 0.1215171, u'monitor', 0.043375555]
+[u'toaster', 0.2706205, u"jack-o'-lantern", 0.090127505, u'fire_screen', 0.064963564]
+[u'screen', 0.22866468, u'envelope', 0.14338103, u'packet', 0.12792464]
+[u'spotlight', 0.33408707, u'oscilloscope', 0.29113981, u'washer', 0.1391474]

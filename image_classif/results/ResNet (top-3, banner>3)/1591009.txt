@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.29779008, u'swimming_trunks', 0.074957043, u'prison', 0.059965286]
+[u'nipple', 0.22420144, u'refrigerator', 0.15907529, u'milk_can', 0.048850007]
+[u'paper_towel', 0.27321026, u'candle', 0.084874064, u'toilet_tissue', 0.055485785]

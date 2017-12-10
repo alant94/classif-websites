@@ -1,0 +1,1 @@
+[u'screen', 0.07475403, u'monitor', 0.073036008, u'laptop', 0.062264614, u'envelope', 0.054249384, u'measuring_cup', 0.049108136]

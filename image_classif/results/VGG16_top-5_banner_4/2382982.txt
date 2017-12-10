@@ -1,0 +1,4 @@
+[u'picket_fence', 0.0591015, u'shower_curtain', 0.056034461, u'chime', 0.053888071, u'binder', 0.040503126, u'safety_pin', 0.019665463]
+[u'hummingbird', 0.12239736, u'flagpole', 0.064980514, u'crane', 0.042489339, u'hook', 0.035703804, u'bee_eater', 0.034182422]
+[u'web_site', 0.11191971, u'picket_fence', 0.06652794, u'viaduct', 0.048080232, u'obelisk', 0.040379357, u'beacon', 0.028402394]
+[u'viaduct', 0.14760438, u'street_sign', 0.085161485, u'barn', 0.070504017, u'mailbox', 0.035618108, u'book_jacket', 0.034066897]

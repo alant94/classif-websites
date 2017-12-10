@@ -1,0 +1,4 @@
+[u'red_wine', 0.5261274, u'wine_bottle', 0.20528561, u'lotion', 0.070669636]
+[u'book_jacket', 0.37493503, u'red_wine', 0.12334625, u'wallet', 0.089894168]
+[u'medicine_chest', 0.30481648, u'binder', 0.033423055, u'web_site', 0.032291036]
+[u'red_wine', 0.6329605, u'wine_bottle', 0.34901205, u'beer_bottle', 0.0096577741]

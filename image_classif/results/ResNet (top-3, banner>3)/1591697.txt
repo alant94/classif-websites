@@ -1,0 +1,7 @@
+[u'convertible', 0.82452536, u'grille', 0.11236961, u'beach_wagon', 0.017836383]
+[u'jersey', 0.58336186, u'sweatshirt', 0.086573169, u'packet', 0.048927929]
+[u'book_jacket', 0.35325301, u'packet', 0.23085868, u'hair_spray', 0.12003456]
+[u'web_site', 0.098289192, u'book_jacket', 0.04051391, u'isopod', 0.024620935]
+[u'hip', 0.53446209, u'web_site', 0.25960803, u'maraca', 0.017370798]
+[u'web_site', 0.86531895, u'envelope', 0.0058146752, u'bloodhound', 0.0049122004]
+[u'park_bench', 0.23947883, u'book_jacket', 0.10561763, u'shopping_basket', 0.048784912]

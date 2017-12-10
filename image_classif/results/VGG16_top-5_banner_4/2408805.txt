@@ -1,0 +1,2 @@
+[u'bow_tie', 0.24483073, u'accordion', 0.040531728, u'pick', 0.026778828, u'buckle', 0.023970451, u'cornet', 0.023941994]
+[u'container_ship', 0.10650519, u'combination_lock', 0.093547583, u'pill_bottle', 0.086237252, u'safe', 0.068415485, u'rubber_eraser', 0.044018783]

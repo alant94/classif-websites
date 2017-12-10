@@ -1,0 +1,8 @@
+[u'thatch', 0.038402393, u'book_jacket', 0.035869375, u'theater_curtain', 0.026789781, u'birdhouse', 0.02640322, u'barrel', 0.024445003]
+[u'wine_bottle', 0.7132023, u'red_wine', 0.24911647, u'lipstick', 0.011062412, u'perfume', 0.0076631834, u'hair_spray', 0.0034746404]
+[u'book_jacket', 0.27619803, u'sax', 0.027843595, u'comic_book', 0.025775453, u'jersey', 0.022197632, u'cinema', 0.022038799]
+[u'chain', 0.71318835, u'padlock', 0.096305862, u'hook', 0.055098336, u'knot', 0.032646801, u'macaw', 0.0084414603]
+[u'wine_bottle', 0.29988497, u'red_wine', 0.26857275, u'lotion', 0.056670167, u'medicine_chest', 0.042648613, u'hourglass', 0.025896301]
+[u'book_jacket', 0.27367881, u'fountain', 0.068475418, u'yurt', 0.038731787, u'lumbermill', 0.022593861, u'comic_book', 0.019951669]
+[u'wardrobe', 0.15048642, u'harp', 0.14602707, u'guillotine', 0.078678466, u'bannister', 0.060085449, u'organ', 0.048137952]
+[u'matchstick', 0.34109801, u'clog', 0.12400423, u'rubber_eraser', 0.080855012, u'wooden_spoon', 0.057155397, u'candle', 0.037394986]

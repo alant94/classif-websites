@@ -1,0 +1,5 @@
+[u'packet', 0.13292646, u'jersey', 0.043432463, u'street_sign', 0.035760079]
+[u'street_sign', 0.12915187, u'scale', 0.092286415, u'shield', 0.069112048]
+[u'altar', 0.35745007, u'throne', 0.1878558, u'shoe_shop', 0.045170758]
+[u'ibex', 0.61609131, u'gazelle', 0.23660693, u'hartebeest', 0.054225523]
+[u'zebra', 0.96562761, u'lighter', 0.0081990445, u'shield', 0.0032395099]

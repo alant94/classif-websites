@@ -1,0 +1,3 @@
+[u'digital_clock', 0.76656687, u'digital_watch', 0.069513753, u'folding_chair', 0.024511594]
+[u'puck', 0.42009851, u'book_jacket', 0.040395603, u'bolo_tie', 0.036943804]
+[u'street_sign', 0.19997281, u'book_jacket', 0.15963374, u'comic_book', 0.09011624]

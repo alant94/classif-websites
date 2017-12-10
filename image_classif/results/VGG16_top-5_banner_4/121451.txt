@@ -1,0 +1,1 @@
+[u'organ', 0.22959767, u'book_jacket', 0.21751122, u'accordion', 0.042676028, u'picket_fence', 0.034239899, u'wine_bottle', 0.024600213]

@@ -1,0 +1,5 @@
+[u'lakeside', 0.46414691, u'seashore', 0.16552304, u'palace', 0.14225186, u'castle', 0.039351553, u'mosque', 0.033283498]
+[u'castle', 0.87954861, u'palace', 0.058462277, u'lakeside', 0.02426634, u'suspension_bridge', 0.0073340461, u'cliff', 0.0057153082]
+[u'maypole', 0.45119286, u'swing', 0.43947971, u'safety_pin', 0.049502239, u'bow', 0.011048697, u'cloak', 0.0063870843]
+[u'dock', 0.24339521, u'suspension_bridge', 0.20496009, u'lakeside', 0.14311455, u'pier', 0.075825483, u'palace', 0.072953627]
+[u'palace', 0.58327562, u'castle', 0.15042818, u'dock', 0.043917302, u'suspension_bridge', 0.034067504, u'pier', 0.026664693]

@@ -1,0 +1,8 @@
+[u'tobacco_shop', 0.11440476, u'Bouvier_des_Flandres', 0.0288768, u'accordion', 0.027894611]
+[u'web_site', 0.33551767, u'envelope', 0.041959912, u'nail', 0.024218122]
+[u'web_site', 0.07237722, u'rule', 0.030093985, u'screw', 0.02879015]
+[u'book_jacket', 0.40669617, u'comic_book', 0.12644257, u'web_site', 0.034158885]
+[u'web_site', 0.17165579, u'notebook', 0.10310192, u'groom', 0.068254694]
+[u'neck_brace', 0.37483081, u'diaper', 0.10501012, u"potter's_wheel", 0.089572623]
+[u'flute', 0.47408542, u'panpipe', 0.17013414, u'harmonica', 0.093460031]
+[u'web_site', 0.25453857, u'whistle', 0.05820334, u'ballpoint', 0.04273238]

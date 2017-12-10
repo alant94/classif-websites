@@ -1,0 +1,5 @@
+[u'envelope', 0.24123815, u'binder', 0.23663649, u'screen', 0.059891474, u'carton', 0.052486781, u'monitor', 0.042679328]
+[u'crib', 0.14352806, u'scoreboard', 0.12224907, u'digital_clock', 0.066146649, u'binder', 0.059704859, u'picket_fence', 0.056720316]
+[u'envelope', 0.27753624, u'monitor', 0.10475422, u'carton', 0.06860701, u'screen', 0.066973262, u'binder', 0.049144607]
+[u'pier', 0.47407821, u'viaduct', 0.349608, u'boathouse', 0.023698902, u'steel_arch_bridge', 0.011956234, u'lakeside', 0.0093005905]
+[u'envelope', 0.16404898, u'cash_machine', 0.13730021, u'photocopier', 0.053451072, u'screen', 0.050341852, u'safe', 0.049904425]

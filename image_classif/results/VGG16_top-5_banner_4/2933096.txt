@@ -1,0 +1,2 @@
+[u'puck', 0.18439211, u'pick', 0.063561909, u'sunscreen', 0.059091125, u'hair_spray', 0.03969007, u'face_powder', 0.028838661]
+[u'nail', 0.26826739, u'parachute', 0.047026724, u'hook', 0.037181288, u'starfish', 0.036067404, u'volleyball', 0.034160685]

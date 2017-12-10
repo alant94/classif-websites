@@ -1,0 +1,3 @@
+[u'ski', 0.18744458, u'tripod', 0.058816493, u'safe', 0.055016764]
+[u'washbasin', 0.25236982, u'switch', 0.12705451, u'soap_dispenser', 0.12358619]
+[u'drilling_platform', 0.70621234, u'crane', 0.14956382, u'submarine', 0.02038233]

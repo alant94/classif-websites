@@ -1,0 +1,5 @@
+[u'whistle', 0.054243803, u'hair_slide', 0.043322429, u'hook', 0.036837939, u'coral_fungus', 0.036081754, u'sea_slug', 0.031389084]
+[u'jersey', 0.16631605, u'toilet_seat', 0.09304148, u'coffee_mug', 0.05170374, u'bathing_cap', 0.051484291, u'sunscreen', 0.036762543]
+[u'stopwatch', 0.20271869, u'web_site', 0.10636276, u'digital_watch', 0.066761799, u'hand-held_computer', 0.035746809, u'bulletproof_vest', 0.022692267]
+[u'oil_filter', 0.12565184, u'sunscreen', 0.06133981, u'lotion', 0.039840437, u'modem', 0.036162268, u'hard_disc', 0.033976845]
+[u'stole', 0.15973724, u'pajama', 0.1236099, u'miniskirt', 0.11559466, u'kimono', 0.070121527, u'wig', 0.051174372]

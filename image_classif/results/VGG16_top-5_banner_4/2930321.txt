@@ -1,0 +1,7 @@
+[u'traffic_light', 0.2395256, u'envelope', 0.12936744, u'rubber_eraser', 0.059805039, u'Band_Aid', 0.056967296, u'street_sign', 0.041932367]
+[u'digital_clock', 0.098252386, u'hook', 0.054524753, u'web_site', 0.050605811, u'nipple', 0.046956673, u'analog_clock', 0.024962595]
+[u'bow_tie', 0.61231565, u'suit', 0.20320335, u'Windsor_tie', 0.11586872, u'groom', 0.019431718, u'oboe', 0.01599233]
+[u'wig', 0.082062691, u'hair_spray', 0.052539483, u'miniskirt', 0.038740221, u'fur_coat', 0.032825671, u'suit', 0.02966463]
+[u'analog_clock', 0.62747926, u'wall_clock', 0.051647853, u'buckle', 0.025575466, u'Petri_dish', 0.021830214, u'ping-pong_ball', 0.020798618]
+[u'stethoscope', 0.69909519, u'lab_coat', 0.27744007, u'Windsor_tie', 0.0061545898, u'bolo_tie', 0.0027853923, u'suit', 0.0016903072]
+[u'jersey', 0.22659646, u'web_site', 0.071345821, u'envelope', 0.060018927, u'puck', 0.047343642, u'balloon', 0.044728812]

@@ -1,0 +1,5 @@
+[u'brassiere', 0.46065375, u'pole', 0.076585926, u'punching_bag', 0.056906123]
+[u'military_uniform', 0.58758754, u'accordion', 0.10846454, u'throne', 0.058437396]
+[u'web_site', 0.773592, u'washer', 0.018089207, u'envelope', 0.014205769]
+[u'fur_coat', 0.63145834, u'bath_towel', 0.049004637, u'wool', 0.044298775]
+[u'bathing_cap', 0.97587478, u'mortarboard', 0.0093308138, u'mask', 0.0035643643]

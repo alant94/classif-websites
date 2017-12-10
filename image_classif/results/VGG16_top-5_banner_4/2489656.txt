@@ -1,0 +1,4 @@
+[u'book_jacket', 0.12332938, u'comic_book', 0.087717995, u'jersey', 0.042787027, u'hatchet', 0.042599671, u'corkscrew', 0.024337046]
+[u'bighorn', 0.59235448, u'ibex', 0.12136967, u'ram', 0.099466853, u'hartebeest', 0.056628849, u'gazelle', 0.05196486]
+[u'book_jacket', 0.4678373, u'comic_book', 0.19138104, u'shield', 0.042852748, u'puck', 0.035702247, u'wall_clock', 0.027652118]
+[u'web_site', 0.19991462, u'lighter', 0.072399512, u'digital_clock', 0.048170645, u'hook', 0.017959718, u'spotlight', 0.016991891]

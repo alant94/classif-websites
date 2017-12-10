@@ -1,0 +1,2 @@
+[u'jersey', 0.22063142, u'bulletproof_vest', 0.15713476, u'lab_coat', 0.072042458]
+[u"potter's_wheel", 0.35163307, u'guillotine', 0.073948495, u'rocking_chair', 0.049043406]

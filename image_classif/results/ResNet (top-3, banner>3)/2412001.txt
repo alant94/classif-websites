@@ -1,0 +1,2 @@
+[u'pencil_sharpener', 0.88488042, u'envelope', 0.027655613, u'dishrag', 0.018103555]
+[u'seashore', 0.22824465, u'book_jacket', 0.10583109, u'airship', 0.087975673]

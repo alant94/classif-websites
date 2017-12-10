@@ -1,0 +1,7 @@
+[u'diaper', 0.20654112, u'swimming_trunks', 0.20425792, u'pajama', 0.10364188, u'sarong', 0.071896426, u'iron', 0.059361607]
+[u'miniskirt', 0.18622035, u'diaper', 0.15365531, u'pajama', 0.1374886, u'hoopskirt', 0.033269946, u'gown', 0.0330116]
+[u'miniskirt', 0.51658273, u'maillot', 0.098922305, u'bikini', 0.077918798, u'sandal', 0.072679304, u'brassiere', 0.040474236]
+[u'loupe', 0.22331721, u'harmonica', 0.12943259, u'ocarina', 0.066913366, u'stopwatch', 0.035660982, u'whistle', 0.031492036]
+[u'diaper', 0.11177263, u'bathtub', 0.092009902, u'tub', 0.081387773, u'gown', 0.064742289, u'brassiere', 0.055617779]
+[u'stretcher', 0.11110245, u'Loafer', 0.058876164, u'harmonica', 0.047589563, u'suit', 0.046240624, u'cowboy_hat', 0.037916098]
+[u'bannister', 0.18119095, u'cradle', 0.082557455, u'coil', 0.0658089, u'bow', 0.055227403, u'rocking_chair', 0.047135808]

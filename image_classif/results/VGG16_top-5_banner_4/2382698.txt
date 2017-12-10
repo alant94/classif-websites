@@ -1,0 +1,5 @@
+[u'sombrero', 0.1369877, u'drumstick', 0.11341754, u'lipstick', 0.057539213, u'academic_gown', 0.042466991, u'fur_coat', 0.037661579]
+[u'red_wine', 0.46633017, u'goblet', 0.25988051, u'wine_bottle', 0.18629766, u'beer_glass', 0.039387062, u'cocktail_shaker', 0.01699933]
+[u'red_wine', 0.34473732, u'beaker', 0.095171541, u'restaurant', 0.090641141, u'plate', 0.085101247, u'ladle', 0.058823913]
+[u'rifle', 0.15945345, u'assault_rifle', 0.099848777, u'hand-held_computer', 0.083256401, u'revolver', 0.061765052, u'barbershop', 0.054852236]
+[u'breakwater', 0.78930193, u'seashore', 0.050512161, u'pier', 0.038027845, u'dock', 0.018040871, u'lakeside', 0.014530116]

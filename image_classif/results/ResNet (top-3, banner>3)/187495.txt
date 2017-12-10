@@ -1,0 +1,5 @@
+[u'racer', 0.31078649, u'snowplow', 0.23616841, u'fire_engine', 0.22413351]
+[u'racer', 0.91379768, u'sports_car', 0.082053609, u'car_wheel', 0.0033811515]
+[u'racer', 0.96768349, u'car_wheel', 0.014121613, u'sports_car', 0.0063143475]
+[u'racer', 0.89871013, u'sports_car', 0.026795009, u'web_site', 0.0087673273]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

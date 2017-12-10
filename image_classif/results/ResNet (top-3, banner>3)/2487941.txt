@@ -1,0 +1,5 @@
+[u'impala', 0.52043164, u'gazelle', 0.41954952, u'hartebeest', 0.039236709]
+[u'gazelle', 0.40568411, u'hyena', 0.16627488, u'hartebeest', 0.1013199]
+[u'screen', 0.29529282, u'cash_machine', 0.1298583, u'laptop', 0.1047257]
+[u'bighorn', 0.66557753, u'ram', 0.32629961, u'ibex', 0.0029980536]
+[u'screen', 0.2412374, u'cash_machine', 0.20995019, u'monitor', 0.12662432]

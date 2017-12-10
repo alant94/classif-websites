@@ -1,0 +1,8 @@
+[u'digital_clock', 0.79529637, u'digital_watch', 0.079336576, u'stopwatch', 0.040065348]
+[u'analog_clock', 0.064128883, u'microwave', 0.06202998, u'oscilloscope', 0.044489566]
+[u'book_jacket', 0.24327216, u'prison', 0.17845437, u'theater_curtain', 0.05709663]
+[u'book_jacket', 0.076573141, u'analog_clock', 0.070055991, u'street_sign', 0.067334898]
+[u'digital_clock', 0.31936342, u'rule', 0.097147636, u'analog_clock', 0.051427945]
+[u'digital_watch', 0.32622474, u'screwdriver', 0.15906887, u'cornet', 0.038061395]
+[u'bannister', 0.20807327, u'shoji', 0.19581454, u'web_site', 0.16922046]
+[u'book_jacket', 0.65210283, u'menu', 0.22292389, u'binder', 0.03232152]

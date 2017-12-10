@@ -1,0 +1,1 @@
+[u'swimming_trunks', 0.93500775, u'diaper', 0.02322641, u'dumbbell', 0.010170632, u'bathtub', 0.0094504729, u'tub', 0.0075297542]

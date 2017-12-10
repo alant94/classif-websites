@@ -1,0 +1,5 @@
+[u'cassette_player', 0.41519529, u'tape_player', 0.10796335, u'modem', 0.093917526, u'cassette', 0.069932498, u'radio', 0.05340426]
+[u'cassette', 0.16127445, u'radio', 0.14458892, u'Polaroid_camera', 0.14431284, u'loudspeaker', 0.11601306, u'iPod', 0.062011622]
+[u'candle', 0.063349411, u'water_tower', 0.044305962, u'jellyfish', 0.040274613, u'torch', 0.03540884, u'balloon', 0.031911079]
+[u'cassette_player', 0.17440571, u'radio', 0.12353861, u'modem', 0.11365064, u'tape_player', 0.10562908, u'cellular_telephone', 0.079032592]
+[u'Band_Aid', 0.17735234, u'rubber_eraser', 0.1135678, u'envelope', 0.11284646, u'digital_clock', 0.074691303, u'whistle', 0.038566921]

@@ -1,0 +1,5 @@
+[u'envelope', 0.81060606, u'tray', 0.023208067, u'web_site', 0.015819713]
+[u'menu', 0.77602804, u'web_site', 0.049496915, u'envelope', 0.029922625]
+[u'menu', 0.83613998, u'freight_car', 0.015970441, u'quill', 0.013025002]
+[u'envelope', 0.61258942, u'handkerchief', 0.068949245, u'menu', 0.057572067]
+[u'tray', 0.67870992, u'face_powder', 0.066515066, u'buckle', 0.060393203]

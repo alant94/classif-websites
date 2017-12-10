@@ -1,0 +1,4 @@
+[u'prison', 0.23267868, u'brass', 0.22365418, u'bearskin', 0.090377636]
+[u'chain_mail', 0.4531388, u'cellular_telephone', 0.038486522, u'feather_boa', 0.033230476]
+[u'sliding_door', 0.19184521, u'freight_car', 0.12163731, u'safe', 0.045134518]
+[u'oscilloscope', 0.18512298, u'barbershop', 0.1225036, u'comic_book', 0.090956233]

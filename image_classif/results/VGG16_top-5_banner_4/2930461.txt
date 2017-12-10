@@ -1,0 +1,2 @@
+[u'hook', 0.49905005, u'street_sign', 0.22955392, u'scale', 0.093514033, u'turnstile', 0.043514203, u'microphone', 0.022329448]
+[u'hook', 0.6844641, u'stretcher', 0.15985171, u'scale', 0.081852585, u'space_heater', 0.013221831, u'plate_rack', 0.0070004975]

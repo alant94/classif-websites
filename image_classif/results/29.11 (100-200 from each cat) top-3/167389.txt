@@ -1,0 +1,2 @@
+[u'envelope', 0.46783733, u'handkerchief', 0.098727882, u'binder', 0.037534162]
+[u'envelope', 0.16980803, u'web_site', 0.12478707, u'digital_clock', 0.090234257]

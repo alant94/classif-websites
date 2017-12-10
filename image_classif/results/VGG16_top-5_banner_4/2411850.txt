@@ -1,0 +1,6 @@
+[u'maraca', 0.45210308, u'balloon', 0.15154566, u'croquet_ball', 0.062435307, u'necklace', 0.05430286, u'soccer_ball', 0.045222487]
+[u'packet', 0.5398438, u'plastic_bag', 0.13873793, u'jersey', 0.11563268, u'book_jacket', 0.02352725, u'mailbag', 0.021329071]
+[u'loupe', 0.80732614, u'toilet_seat', 0.068121485, u'face_powder', 0.010783263, u'ringneck_snake', 0.010350239, u'puck', 0.0064507201]
+[u'jersey', 0.16962114, u'apron', 0.16712619, u'handkerchief', 0.15608761, u'diaper', 0.089543693, u'bib', 0.084681861]
+[u'envelope', 0.70256346, u'carton', 0.071955465, u'rubber_eraser', 0.035154615, u'packet', 0.026691195, u'menu', 0.017701041]
+[u'chest', 0.33264524, u'mailbox', 0.068846762, u'hook', 0.057734888, u'mailbag', 0.056707568, u'purse', 0.054628629]

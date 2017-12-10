@@ -1,0 +1,5 @@
+[u'cloak', 0.12203801, u'abaya', 0.10628207, u'spotlight', 0.10248664, u'mask', 0.033249147, u'bubble', 0.027261347]
+[u'lakeside', 0.5653249, u'promontory', 0.044816706, u'breakwater', 0.032707077, u'seashore', 0.024919789, u'beacon', 0.021451738]
+[u'cloak', 0.21616253, u'abaya', 0.19158173, u'vestment', 0.16448088, u'kimono', 0.036895975, u'poncho', 0.032010444]
+[u'acoustic_guitar', 0.73666018, u'pick', 0.21823783, u'electric_guitar', 0.041975293, u'cello', 0.0013055147, u'banjo', 0.00097085175]
+[u'castle', 0.5563131, u'church', 0.25880486, u'palace', 0.088504419, u'fountain', 0.047665484, u'monastery', 0.018365644]

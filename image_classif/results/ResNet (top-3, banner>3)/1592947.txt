@@ -1,0 +1,3 @@
+[u'Border_terrier', 0.12203369, u'Lakeland_terrier', 0.063605212, u'Yorkshire_terrier', 0.051487211]
+[u"potter's_wheel", 0.9954372, u'mortar', 0.00084333896, u'Indian_cobra', 0.00078557624]
+[u'suit', 0.59454638, u'swimming_trunks', 0.19413358, u'lab_coat', 0.028628057]

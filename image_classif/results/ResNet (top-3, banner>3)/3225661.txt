@@ -1,0 +1,2 @@
+[u'sewing_machine', 0.15858485, u'espresso_maker', 0.14923534, u'joystick', 0.095344074]
+[u'grand_piano', 0.47527891, u'bassoon', 0.26504746, u'upright', 0.17253201]

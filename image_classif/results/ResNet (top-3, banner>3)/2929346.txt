@@ -1,0 +1,4 @@
+[u'syringe', 0.34101427, u'lab_coat', 0.25980359, u'oxygen_mask', 0.11843558]
+[u'microwave', 0.33065841, u'photocopier', 0.21992847, u'dishwasher', 0.10661723]
+[u'lab_coat', 0.87706715, u'shower_cap', 0.034986824, u'barber_chair', 0.022992125]
+[u'lab_coat', 0.95345479, u'shower_cap', 0.014882778, u'barber_chair', 0.011864306]

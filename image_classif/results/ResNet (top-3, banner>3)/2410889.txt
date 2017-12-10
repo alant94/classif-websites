@@ -1,0 +1,3 @@
+[u'wool', 0.35198915, u'sea_urchin', 0.25419164, u'face_powder', 0.069075853]
+[u'hen-of-the-woods', 0.33962989, u'hair_slide', 0.20270792, u'wool', 0.062610425]
+[u'packet', 0.35408565, u'space_heater', 0.21707189, u'Band_Aid', 0.13120387]

@@ -1,0 +1,5 @@
+[u'street_sign', 0.18207751, u'hair_slide', 0.1244887, u'web_site', 0.041080352, u'flagpole', 0.038275581, u'envelope', 0.030914366]
+[u'hook', 0.05663351, u'digital_clock', 0.050778054, u'street_sign', 0.036665089, u'binder', 0.034482546, u'scale', 0.032370083]
+[u'shoe_shop', 0.54861742, u'triceratops', 0.056748122, u'altar', 0.044101927, u'stupa', 0.039753124, u'toyshop', 0.034806442]
+[u'gazelle', 0.47367448, u'bighorn', 0.30730775, u'ibex', 0.13631485, u'impala', 0.048772924, u'ram', 0.011141276]
+[u'shield', 0.34660956, u'buckle', 0.14341933, u'throne', 0.11677269, u'book_jacket', 0.064022109, u'zebra', 0.039330825]

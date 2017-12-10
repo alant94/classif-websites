@@ -1,0 +1,6 @@
+[u'book_jacket', 0.10358915, u'parallel_bars', 0.024448309, u'baboon', 0.02313594, u'hog', 0.022797992, u'macaque', 0.022049114]
+[u'four-poster', 0.46476796, u'studio_couch', 0.18995237, u'quilt', 0.18651746, u'mosquito_net', 0.075652294, u'restaurant', 0.0202448]
+[u'web_site', 0.20445482, u'envelope', 0.14111365, u'street_sign', 0.12282045, u'Band_Aid', 0.066086873, u'ski', 0.024464345]
+[u'bottlecap', 0.57698524, u'cinema', 0.14598422, u'bakery', 0.11858963, u'throne', 0.035884079, u'balloon', 0.033383932]
+[u'fire_engine', 0.47520033, u'ambulance', 0.20245321, u'tow_truck', 0.12492234, u'snowplow', 0.066812105, u'trailer_truck', 0.027631817]
+[u'bison', 0.23867427, u'lakeside', 0.078547716, u'tusker', 0.028388703, u'brown_bear', 0.027387597, u'impala', 0.024650916]

@@ -1,0 +1,2 @@
+[u'web_site', 0.59844542, u'envelope', 0.11051098, u'analog_clock', 0.022943163, u'ski', 0.010398326, u'Windsor_tie', 0.0063885967]
+[u'chime', 0.79192358, u'picket_fence', 0.045412138, u'matchstick', 0.038037751, u'panpipe', 0.010804752, u'Band_Aid', 0.007906015]

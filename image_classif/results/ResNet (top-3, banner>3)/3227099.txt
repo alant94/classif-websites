@@ -1,0 +1,2 @@
+[u'web_site', 0.62051672, u'barbershop', 0.077530168, u'abaya', 0.026487499]
+[u'shovel', 0.32304999, u'cleaver', 0.2030886, u'plate_rack', 0.060853269]

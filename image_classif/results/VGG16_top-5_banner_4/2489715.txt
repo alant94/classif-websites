@@ -1,0 +1,7 @@
+[u'geyser', 0.23033065, u'drilling_platform', 0.14082147, u'beacon', 0.042417813, u'milk_can', 0.034617025, u'water_bottle', 0.024917437]
+[u'refrigerator', 0.79586309, u'rotisserie', 0.058439396, u'microwave', 0.018644443, u'Dungeness_crab', 0.013579815, u'toaster', 0.012522427]
+[u'sturgeon', 0.39239717, u'barracouta', 0.27414018, u'coho', 0.23585664, u'gar', 0.075350739, u'reel', 0.0052354131]
+[u'drilling_platform', 0.10374296, u'geyser', 0.090798542, u'fireboat', 0.079718672, u'breakwater', 0.068162709, u'dam', 0.041399155]
+[u'gar', 0.69699341, u'barracouta', 0.25370544, u'coho', 0.022082277, u'sturgeon', 0.008353183, u'tench', 0.0059467885]
+[u'window_screen', 0.14002098, u'tobacco_shop', 0.11602325, u'sliding_door', 0.099222347, u'bookshop', 0.082402527, u'streetcar', 0.07484933]
+[u'gar', 0.27429852, u'barracouta', 0.18539463, u'coho', 0.16119628, u'sturgeon', 0.090526029, u'drilling_platform', 0.037880152]

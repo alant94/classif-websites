@@ -1,0 +1,3 @@
+[u'mobile_home', 0.64711767, u'patio', 0.2393048, u'boathouse', 0.01235673, u'picket_fence', 0.011519671, u'sliding_door', 0.010857803]
+[u'book_jacket', 0.36904377, u'jersey', 0.063432068, u'comic_book', 0.037222065, u'web_site', 0.032433588, u'street_sign', 0.028189406]
+[u'suit', 0.6764726, u'Windsor_tie', 0.2341629, u'academic_gown', 0.011729043, u'groom', 0.010726859, u'bow_tie', 0.00636162]

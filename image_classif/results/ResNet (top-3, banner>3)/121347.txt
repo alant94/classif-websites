@@ -1,0 +1,1 @@
+[u'iron', 0.29163185, u'sewing_machine', 0.2400285, u'projector', 0.055105507]

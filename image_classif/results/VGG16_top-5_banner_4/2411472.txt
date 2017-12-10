@@ -1,0 +1,2 @@
+[u'crate', 0.54902786, u'chest', 0.34562847, u'quill', 0.036023039, u'upright', 0.0099024065, u'throne', 0.0073292879]
+[u'syringe', 0.161092, u'flute', 0.15212706, u'torch', 0.13863221, u'drumstick', 0.12948711, u'academic_gown', 0.060867447]

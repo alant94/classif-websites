@@ -1,0 +1,2 @@
+[u'rain_barrel', 0.14586982, u'crutch', 0.1188293, u'motor_scooter', 0.1171155, u'park_bench', 0.056845091, u'jean', 0.034561019]
+[u'mortarboard', 0.13177101, u'crutch', 0.11862507, u'pole', 0.079168499, u'prison', 0.068517603, u'suit', 0.046543736]

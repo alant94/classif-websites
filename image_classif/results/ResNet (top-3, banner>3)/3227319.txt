@@ -1,0 +1,7 @@
+[u'Afghan_hound', 0.43747744, u'vestment', 0.13939162, u'shield', 0.10038824]
+[u'barbershop', 0.96734011, u'barber_chair', 0.022221263, u'vestment', 0.0024988484]
+[u'vestment', 0.88499498, u'altar', 0.096052513, u'restaurant', 0.0089772278]
+[u'sax', 0.72538757, u'vestment', 0.080279797, u'marimba', 0.038239729]
+[u'abaya', 0.28372848, u'wardrobe', 0.15420859, u'vestment', 0.085601933]
+[u'mortarboard', 0.53937298, u'academic_gown', 0.45860323, u'vestment', 0.0015260518]
+[u'shield', 0.25086853, u'wardrobe', 0.12109906, u'handkerchief', 0.079213791]

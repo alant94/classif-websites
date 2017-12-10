@@ -1,0 +1,3 @@
+[u'restaurant', 0.61880064, u'cinema', 0.076527745, u'vault', 0.055734247]
+[u'sundial', 0.61679602, u'schooner', 0.11553919, u'yawl', 0.083636656]
+[u'worm_fence', 0.24769671, u'park_bench', 0.17082787, u'crate', 0.11320014]

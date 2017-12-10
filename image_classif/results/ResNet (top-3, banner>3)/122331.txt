@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.77196807, u'digital_clock', 0.10824054, u'digital_watch', 0.061084792]

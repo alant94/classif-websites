@@ -1,0 +1,3 @@
+[u'military_uniform', 0.067122579, u'broom', 0.041803185, u'fur_coat', 0.037469435, u'miniskirt', 0.034977186, u'stole', 0.031384069]
+[u'maze', 0.5461846, u'volleyball', 0.14257073, u'ski', 0.081390306, u'horizontal_bar', 0.039560352, u'unicycle', 0.025981363]
+[u'street_sign', 0.34784064, u'book_jacket', 0.08017271, u'cash_machine', 0.028860359, u'web_site', 0.021235298, u'barbershop', 0.018288774]

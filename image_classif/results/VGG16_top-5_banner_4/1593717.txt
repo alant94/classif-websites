@@ -1,0 +1,4 @@
+[u'toilet_seat', 0.40482768, u'mask', 0.0622175, u'face_powder', 0.059261188, u'wall_clock', 0.052955355, u'pencil_sharpener', 0.032737438]
+[u'switch', 0.19871004, u'refrigerator', 0.13802296, u'combination_lock', 0.035745963, u'dumbbell', 0.031260375, u'safe', 0.030357827]
+[u'wig', 0.14156544, u'hourglass', 0.085323364, u'vase', 0.063755073, u'goblet', 0.045321181, u'china_cabinet', 0.041758981]
+[u'digital_clock', 0.71672326, u'scoreboard', 0.033399027, u'mobile_home', 0.025299324, u'street_sign', 0.019003268, u'analog_clock', 0.014247572]

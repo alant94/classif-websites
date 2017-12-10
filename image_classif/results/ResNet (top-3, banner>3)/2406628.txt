@@ -1,0 +1,3 @@
+[u'web_site', 0.99303341, u'menu', 0.0023901835, u'gown', 0.001427663]
+[u'jersey', 0.17679466, u'web_site', 0.083609909, u'digital_clock', 0.070647016]
+[u'abacus', 0.69265062, u'hand-held_computer', 0.045393676, u'notebook', 0.023456976]

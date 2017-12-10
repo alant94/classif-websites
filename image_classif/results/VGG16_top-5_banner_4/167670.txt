@@ -1,0 +1,1 @@
+[u'syringe', 0.47247502, u'screwdriver', 0.19420242, u'matchstick', 0.052363466, u'lighter', 0.035658281, u'rubber_eraser', 0.027301306]

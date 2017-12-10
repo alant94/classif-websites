@@ -1,0 +1,7 @@
+[u'toyshop', 0.32999471, u'confectionery', 0.082831755, u'grocery_store', 0.071459323, u'tobacco_shop', 0.056667779, u'pop_bottle', 0.034846827]
+[u'packet', 0.47309873, u'diaper', 0.039446972, u'envelope', 0.030819915, u'bonnet', 0.026783716, u'handkerchief', 0.024165729]
+[u'toyshop', 0.38169628, u'shopping_cart', 0.10391369, u'grocery_store', 0.097118035, u'confectionery', 0.057825048, u'shopping_basket', 0.030600872]
+[u'toyshop', 0.49241289, u'grocery_store', 0.14654897, u'tobacco_shop', 0.10661593, u'bookshop', 0.063307397, u'comic_book', 0.061748601]
+[u'toyshop', 0.37714517, u'confectionery', 0.20928586, u'grocery_store', 0.19610009, u'shoe_shop', 0.088296726, u'tobacco_shop', 0.027557621]
+[u'envelope', 0.24299534, u'modem', 0.23958743, u'carton', 0.082286894, u'space_heater', 0.076073036, u'projector', 0.05057577]
+[u'hair_spray', 0.14740328, u'face_powder', 0.12175573, u'lotion', 0.11841589, u'perfume', 0.093061268, u'medicine_chest', 0.091851629]

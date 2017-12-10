@@ -1,0 +1,4 @@
+[u'brass', 0.3423112, u'face_powder', 0.25819224, u'puck', 0.083189875, u'street_sign', 0.050643533, u'book_jacket', 0.039059717]
+[u'web_site', 0.1018894, u'envelope', 0.053199351, u'nematode', 0.03561141, u'rule', 0.012395969, u'hook', 0.01005742]
+[u'caldron', 0.62721831, u'rain_barrel', 0.18091522, u'drum', 0.060843848, u'barrel', 0.039677572, u'pot', 0.021174232]
+[u'book_jacket', 0.5099529, u'web_site', 0.17685831, u'brass', 0.075142272, u'comic_book', 0.060289036, u'pedestal', 0.025220964]

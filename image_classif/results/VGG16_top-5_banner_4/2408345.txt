@@ -1,0 +1,8 @@
+[u'lighter', 0.20192385, u'binder', 0.12096641, u'radio', 0.074712753, u"carpenter's_kit", 0.074707627, u'cassette', 0.041497506]
+[u'ski', 0.71135449, u'screwdriver', 0.1708772, u'chime', 0.022912163, u"carpenter's_kit", 0.022266842, u'hook', 0.01157351]
+[u'envelope', 0.34981048, u'wallet', 0.26240203, u'binder', 0.18990338, u'book_jacket', 0.035365809, u'hard_disc', 0.029346813]
+[u'oscilloscope', 0.57883805, u'radio', 0.092209041, u'modem', 0.074969843, u'screwdriver', 0.051303804, u'tape_player', 0.032708544]
+[u'digital_watch', 0.1742385, u"carpenter's_kit", 0.1111827, u'dumbbell', 0.10877726, u'switch', 0.057573523, u'analog_clock', 0.028328763]
+[u'digital_clock', 0.088234708, u'screwdriver', 0.079319425, u"carpenter's_kit", 0.063168168, u'whistle', 0.059398185, u'ski', 0.05627377]
+[u'magnetic_compass', 0.420028, u'hard_disc', 0.14144932, u'cassette', 0.11080663, u'bottlecap', 0.045260869, u'digital_watch', 0.040286418]
+[u'envelope', 0.25354117, u'analog_clock', 0.22577338, u'wallet', 0.13867098, u'magnetic_compass', 0.084908813, u'binder', 0.04006584]

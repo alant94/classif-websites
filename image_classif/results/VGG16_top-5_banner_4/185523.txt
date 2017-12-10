@@ -1,0 +1,5 @@
+[u'minivan', 0.73695928, u'pickup', 0.074478455, u'beach_wagon', 0.054322582, u'grille', 0.039104633, u'minibus', 0.02017381]
+[u'pickup', 0.21168247, u'tow_truck', 0.14949276, u'convertible', 0.10347076, u'fire_engine', 0.095574141, u'tricycle', 0.067558356]
+[u'half_track', 0.43442133, u'tow_truck', 0.10472041, u'fire_engine', 0.086043276, u'jeep', 0.079254009, u'forklift', 0.05431978]
+[u'jeep', 0.77825493, u'snowplow', 0.16877621, u'pickup', 0.031386834, u'tow_truck', 0.0089688227, u'plow', 0.0037134252]
+[u'pickup', 0.99064398, u'tow_truck', 0.0071077798, u'jeep', 0.00053428771, u'snowplow', 0.00050522428, u'limousine', 0.0002414156]

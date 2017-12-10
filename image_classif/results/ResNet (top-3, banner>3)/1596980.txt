@@ -1,0 +1,6 @@
+[u'chiffonier', 0.77082437, u'slot', 0.12223274, u'file', 0.031810686]
+[u'comic_book', 0.19413014, u'nail', 0.10953666, u'shower_curtain', 0.061484773]
+[u'shower_curtain', 0.1994134, u'honeycomb', 0.14152238, u'crossword_puzzle', 0.12165126]
+[u'comic_book', 0.3835274, u'web_site', 0.22742498, u'maillot', 0.14400819]
+[u'web_site', 0.27370539, u'jigsaw_puzzle', 0.20082605, u'ocarina', 0.18981832]
+[u'padlock', 0.31561869, u'comic_book', 0.14705935, u'hook', 0.036982581]

@@ -1,0 +1,1 @@
+[u'fountain', 0.073669694, u'book_jacket', 0.064756475, u'space_shuttle', 0.042110205, u'carousel', 0.041370757, u'comic_book', 0.03468585]

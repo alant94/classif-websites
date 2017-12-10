@@ -1,0 +1,2 @@
+[u'pick', 0.19532418, u'tennis_ball', 0.18199323, u'web_site', 0.067497022, u'stopwatch', 0.034398094, u'golf_ball', 0.032876804]
+[u'monitor', 0.52436608, u'screen', 0.31091994, u'television', 0.08573129, u'desktop_computer', 0.020776136, u'home_theater', 0.016365567]

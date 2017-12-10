@@ -1,0 +1,7 @@
+[u'lotion', 0.50566578, u'sunscreen', 0.23791204, u'pill_bottle', 0.22429925]
+[u'eggnog', 0.27705312, u'pill_bottle', 0.23892629, u'lotion', 0.10731778]
+[u'web_site', 0.35617694, u'book_jacket', 0.024071826, u'remote_control', 0.021715147]
+[u'pill_bottle', 0.96472824, u'lotion', 0.01224493, u'sunscreen', 0.0099161984]
+[u'pop_bottle', 0.28702867, u'beer_bottle', 0.16645724, u'wine_bottle', 0.11816853]
+[u'lotion', 0.82962346, u'sunscreen', 0.12851046, u'pill_bottle', 0.027488882]
+[u'face_powder', 0.11249118, u'lotion', 0.10649542, u'chain_saw', 0.08216691]

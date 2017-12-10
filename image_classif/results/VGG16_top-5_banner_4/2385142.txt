@@ -1,0 +1,1 @@
+[u'envelope', 0.25295803, u'whistle', 0.11836874, u'fountain_pen', 0.068045728, u'quill', 0.045383334, u'cassette', 0.044216488]

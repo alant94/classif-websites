@@ -1,0 +1,4 @@
+[u'pill_bottle', 0.3556824, u'syringe', 0.30245331, u'lighter', 0.17511716, u'nipple', 0.02737836, u'rule', 0.027062928]
+[u'chain', 0.32002363, u'necklace', 0.29100242, u'screw', 0.098108433, u'coil', 0.02784561, u'hair_slide', 0.025551567]
+[u'envelope', 0.5518378, u'rule', 0.2662268, u'packet', 0.029528636, u'rubber_eraser', 0.018041836, u'binder', 0.016106674]
+[u'envelope', 0.7846843, u'packet', 0.060332894, u'plastic_bag', 0.031342499, u'web_site', 0.028503157, u'book_jacket', 0.016533973]

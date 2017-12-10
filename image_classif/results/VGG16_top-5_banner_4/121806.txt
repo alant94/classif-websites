@@ -1,0 +1,2 @@
+[u'vase', 0.091137744, u'lampshade', 0.087523527, u'pitcher', 0.066117398, u'candle', 0.05756082, u'tray', 0.045586042]
+[u'coffee_mug', 0.21567033, u'packet', 0.087188236, u'cup', 0.078194983, u'toilet_tissue', 0.048581969, u'book_jacket', 0.037972532]

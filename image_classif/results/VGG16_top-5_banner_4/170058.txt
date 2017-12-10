@@ -1,0 +1,4 @@
+[u'web_site', 0.69095623, u'scoreboard', 0.040305831, u'slot', 0.020190619, u'stopwatch', 0.013981986, u'hair_slide', 0.013547289]
+[u'bassoon', 0.5336408, u'oboe', 0.41115773, u'flute', 0.018289987, u'electric_guitar', 0.012987243, u'crane', 0.0088532614]
+[u'sax', 0.29110309, u'plane', 0.11303888, u'oboe', 0.10268277, u'flute', 0.071772575, u'oxygen_mask', 0.039636239]
+[u'mortar', 0.3726573, u'drumstick', 0.33921289, u'drum', 0.081138805, u'paintbrush', 0.048834331, u'spindle', 0.024378855]

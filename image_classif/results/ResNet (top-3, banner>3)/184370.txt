@@ -1,0 +1,7 @@
+[u'screen', 0.13943075, u'cash_machine', 0.13029802, u'binder', 0.094456583]
+[u'screen', 0.17549221, u'dishwasher', 0.10342361, u'binder', 0.068135686]
+[u'screen', 0.15965307, u'cash_machine', 0.14700042, u'envelope', 0.077670753]
+[u'web_site', 0.86619014, u'comic_book', 0.019378826, u'brass', 0.015303416]
+[u'screen', 0.19248977, u'cash_machine', 0.12168687, u'binder', 0.059453499]
+[u'screen', 0.34877914, u'oscilloscope', 0.062654011, u'cash_machine', 0.043479118]
+[u'screen', 0.20318058, u'cash_machine', 0.15668277, u'binder', 0.078747787]

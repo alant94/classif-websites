@@ -1,0 +1,2 @@
+[u'magnetic_compass', 0.33342758, u'rule', 0.25314939, u'sundial', 0.11405974, u'tray', 0.063036762, u'face_powder', 0.043888099]
+[u'ski', 0.11655974, u'screwdriver', 0.11525393, u'rubber_eraser', 0.044740353, u'swab', 0.043681171, u'paintbrush', 0.042804103]

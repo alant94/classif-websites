@@ -1,0 +1,3 @@
+[u"carpenter's_kit", 0.066059195, u'screwdriver', 0.058900554, u'barometer', 0.051070347]
+[u'lakeside', 0.37152454, u'alp', 0.19411851, u'picket_fence', 0.11288697]
+[u'envelope', 0.36530879, u'web_site', 0.18969148, u'menu', 0.17674717]

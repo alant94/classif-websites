@@ -1,0 +1,5 @@
+[u'web_site', 0.31714487, u'envelope', 0.065651022, u'hand_blower', 0.038920023, u'can_opener', 0.03545133, u'hair_spray', 0.025188206]
+[u'broom', 0.27647629, u'paintbrush', 0.16938123, u'goblet', 0.036088511, u'maraca', 0.034254983, u'table_lamp', 0.029632976]
+[u'screw', 0.18845201, u'power_drill', 0.14422931, u'tripod', 0.073077641, u'nail', 0.065874204, u'abacus', 0.044051055]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'web_site', 0.22725093, u'Band_Aid', 0.14266969, u'envelope', 0.13589588, u'hand_blower', 0.090796016, u'menu', 0.084548548]

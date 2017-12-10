@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.21737069, u'web_site', 0.18896824, u'whistle', 0.17174754]
+[u'web_site', 0.53971499, u'hair_spray', 0.075502999, u'clumber', 0.014756998]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'screw', 0.4311384, u'nail', 0.21863079, u'hammer', 0.089547403]
+[u'street_sign', 0.54427665, u'book_jacket', 0.065760039, u'cash_machine', 0.017801898]
+[u'slide_rule', 0.9196068, u'hammer', 0.029236695, u'rule', 0.017485004]
+[u'web_site', 0.6266346, u'prison', 0.046276398, u'picket_fence', 0.033601988]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

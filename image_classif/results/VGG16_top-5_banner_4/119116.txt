@@ -1,0 +1,1 @@
+[u'slot', 0.22109741, u'lab_coat', 0.21267536, u'laptop', 0.092544079, u'grocery_store', 0.037492707, u'television', 0.033902779]

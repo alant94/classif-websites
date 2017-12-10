@@ -1,0 +1,6 @@
+[u'envelope', 0.12940732, u'quill', 0.052908793, u'web_site', 0.041490804, u'nematode', 0.039757676, u'menu', 0.018301241]
+[u'envelope', 0.15870351, u'Band_Aid', 0.06917382, u'matchstick', 0.05991587, u'street_sign', 0.051769756, u'web_site', 0.05092958]
+[u'iPod', 0.345985, u'Polaroid_camera', 0.080778375, u'face_powder', 0.060478341, u'cassette', 0.057165839, u'cash_machine', 0.05206424]
+[u'barbershop', 0.26740941, u'cinema', 0.084099747, u'street_sign', 0.070596449, u'book_jacket', 0.052877553, u'bakery', 0.046161987]
+[u'washer', 0.23008262, u'web_site', 0.099226251, u'cash_machine', 0.055107638, u'monitor', 0.033615075, u'photocopier', 0.027596526]
+[u'envelope', 0.036716718, u'quill', 0.02764814, u'loupe', 0.017600551, u'web_site', 0.016299238, u'nematode', 0.016209904]

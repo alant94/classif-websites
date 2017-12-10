@@ -1,0 +1,2 @@
+[u'fireboat', 0.5864507, u'radio_telescope', 0.029352456, u'spotlight', 0.025171531, u'bonnet', 0.021769781, u'hourglass', 0.021560617]
+[u'aircraft_carrier', 0.52719331, u'container_ship', 0.088991031, u'fireboat', 0.050882705, u'bell_cote', 0.017826181, u'castle', 0.016102273]

@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.30299067, u'mosquito_net', 0.035463504, u'poncho', 0.020342715, u'honeycomb', 0.020223336, u'window_screen', 0.018958321]
+[u'cock', 0.97047013, u'hen', 0.016195608, u'Shih-Tzu', 0.0041865972, u'Lhasa', 0.0025920561, u'Tibetan_terrier', 0.0019148929]
+[u'envelope', 0.17806292, u'hook', 0.096597627, u'book_jacket', 0.071946152, u'web_site', 0.0628324, u'binder', 0.047419682]

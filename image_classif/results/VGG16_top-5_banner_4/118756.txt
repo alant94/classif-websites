@@ -1,0 +1,2 @@
+[u'bolo_tie', 0.12198532, u'magnetic_compass', 0.11265112, u'electric_fan', 0.1022113, u'combination_lock', 0.072380885, u'stopwatch', 0.068326093]
+[u'lighter', 0.12314972, u'book_jacket', 0.11745381, u'magnetic_compass', 0.089699462, u'sundial', 0.07748954, u'typewriter_keyboard', 0.034776364]

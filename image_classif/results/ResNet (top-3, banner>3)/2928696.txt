@@ -1,0 +1,6 @@
+[u'soap_dispenser', 0.56441671, u'perfume', 0.08275222, u'cocktail_shaker', 0.046854462]
+[u'oxygen_mask', 0.10946763, u'loupe', 0.074057497, u'web_site', 0.070746303]
+[u'web_site', 0.36345381, u'dumbbell', 0.029078145, u'cocktail_shaker', 0.025612293]
+[u'lotion', 0.1662655, u'cup', 0.072040148, u'goblet', 0.064810045]
+[u'coffee_mug', 0.24371891, u'toilet_tissue', 0.22547968, u'cup', 0.10378234]
+[u'perfume', 0.2020113, u'conch', 0.12709844, u'necklace', 0.11012531]

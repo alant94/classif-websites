@@ -1,0 +1,2 @@
+[u'rule', 0.23122124, u'web_site', 0.19249584, u'envelope', 0.07502193, u'binder', 0.020128921, u'hair_slide', 0.016100725]
+[u'web_site', 0.99994659, u'comic_book', 9.5128389e-06, u'notebook', 8.4502672e-06, u'book_jacket', 8.0810451e-06, u'television', 7.8196399e-06]

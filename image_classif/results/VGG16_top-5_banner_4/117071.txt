@@ -1,0 +1,2 @@
+[u'modem', 0.06790065, u'monitor', 0.057706773, u'harmonica', 0.040546469, u'notebook', 0.036450867, u'safe', 0.035107683]
+[u'computer_keyboard', 0.073134325, u'water_bottle', 0.063491382, u'pop_bottle', 0.056112282, u'coffeepot', 0.043609008, u'toaster', 0.039917003]

@@ -1,0 +1,2 @@
+[u'ballpoint', 0.17736119, u'chime', 0.10178927, u'nail', 0.082879707, u'picket_fence', 0.071592808, u'screwdriver', 0.05602536]
+[u'sleeping_bag', 0.098049231, u'Gordon_setter', 0.086842783, u'terrapin', 0.024169926, u'Greater_Swiss_Mountain_dog', 0.022371707, u'book_jacket', 0.022141911]

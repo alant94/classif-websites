@@ -1,0 +1,8 @@
+[u'digital_clock', 0.41766223, u'whistle', 0.40421611, u'web_site', 0.020425782, u'stopwatch', 0.0095244776, u'hook', 0.0071490929]
+[u'envelope', 0.72796887, u'analog_clock', 0.094630405, u'web_site', 0.036698967, u'whistle', 0.023467859, u'wall_clock', 0.015586784]
+[u'digital_clock', 0.24657069, u'nail', 0.1299967, u'Band_Aid', 0.05686558, u'rule', 0.05023402, u'hook', 0.03582266]
+[u'carton', 0.81359512, u'envelope', 0.1013676, u'menu', 0.016060939, u'book_jacket', 0.0066535166, u'broom', 0.0061625764]
+[u'book_jacket', 0.34716949, u'envelope', 0.1166413, u'matchstick', 0.073185056, u'lighter', 0.059113245, u'jersey', 0.048178595]
+[u'envelope', 0.30528507, u'web_site', 0.28383929, u'jigsaw_puzzle', 0.048085526, u'monitor', 0.045940761, u'book_jacket', 0.029077241]
+[u'candle', 0.36107454, u'pill_bottle', 0.10399581, u'syringe', 0.071126789, u'nipple', 0.068963237, u'ice_lolly', 0.058904912]
+[u'envelope', 0.25306508, u'whistle', 0.10381769, u'mortarboard', 0.044191536, u'lighter', 0.037208784, u'web_site', 0.032506287]

@@ -1,0 +1,5 @@
+[u'cassette', 0.12856852, u'turnstile', 0.10534265, u'photocopier', 0.093741417, u'entertainment_center', 0.073353305, u'web_site', 0.056239728]
+[u'slot', 0.87790132, u'vending_machine', 0.083398037, u'comic_book', 0.011233144, u'packet', 0.0043496126, u'refrigerator', 0.0040150341]
+[u'fountain', 0.34311688, u'picket_fence', 0.17973521, u'screwdriver', 0.10969572, u'syringe', 0.042495798, u'radiator', 0.033538967]
+[u'slot', 0.51343793, u'comic_book', 0.12292685, u'jigsaw_puzzle', 0.11554077, u'packet', 0.088987082, u'tray', 0.03810472]
+[u'picket_fence', 0.20103683, u'sliding_door', 0.078416184, u'book_jacket', 0.075257212, u'turnstile', 0.049273357, u'binder', 0.045138635]

@@ -1,0 +1,2 @@
+[u'web_site', 0.18495224, u'swab', 0.12139544, u'book_jacket', 0.034596987, u'paintbrush', 0.027924025, u'wall_clock', 0.025676778]
+[u'web_site', 0.21314773, u'golf_ball', 0.03925759, u'gown', 0.022994984, u'cash_machine', 0.022982653, u'spotlight', 0.021059236]

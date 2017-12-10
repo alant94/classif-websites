@@ -1,0 +1,2 @@
+[u'street_sign', 0.29036397, u'book_jacket', 0.15422121, u'cinema', 0.032784931, u'coffee_mug', 0.026058195, u'traffic_light', 0.021832217]
+[u'spotlight', 0.0093613788, u'pier', 0.0091886977, u'puck', 0.009151563, u'crane', 0.0088926712, u'modem', 0.0087506045]

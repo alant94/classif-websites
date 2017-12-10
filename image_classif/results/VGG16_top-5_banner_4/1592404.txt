@@ -1,0 +1,2 @@
+[u'bathtub', 0.17684014, u'tub', 0.068403155, u'hand_blower', 0.06398315, u'brassiere', 0.06134275, u'syringe', 0.055243921]
+[u'maillot', 0.3123787, u'maillot', 0.26724008, u'bikini', 0.24174763, u'gown', 0.047926351, u'miniskirt', 0.038303033]

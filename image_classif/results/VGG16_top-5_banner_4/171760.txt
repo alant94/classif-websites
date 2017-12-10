@@ -1,0 +1,1 @@
+[u'combination_lock', 0.40958944, u'safety_pin', 0.11462777, u'nipple', 0.090623915, u'Band_Aid', 0.084913872, u'hair_spray', 0.038865987]

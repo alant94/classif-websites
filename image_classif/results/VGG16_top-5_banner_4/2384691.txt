@@ -1,0 +1,2 @@
+[u'airliner', 0.92299616, u'wing', 0.073730089, u'warplane', 0.0021774825, u'airship', 0.00083712389, u'space_shuttle', 0.00013012048]
+[u'acorn', 0.08290574, u'parachute', 0.053185109, u'jigsaw_puzzle', 0.04196699, u'pinwheel', 0.031019773, u'hammerhead', 0.030939838]

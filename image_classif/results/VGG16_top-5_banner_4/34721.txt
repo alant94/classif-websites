@@ -1,0 +1,1 @@
+[u'rule', 0.23477507, u'modem', 0.049264003, u'digital_clock', 0.042238396, u'container_ship', 0.037013493, u'electric_guitar', 0.035872757]

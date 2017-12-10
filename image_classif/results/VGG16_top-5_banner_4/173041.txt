@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.53625548, u'maze', 0.15185618, u'laptop', 0.045485158, u'book_jacket', 0.045273792, u'coffee_mug', 0.012464335]

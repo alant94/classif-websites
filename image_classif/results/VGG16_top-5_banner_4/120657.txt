@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.3608295, u'doormat', 0.049760096, u'altar', 0.046471566, u'prayer_rug', 0.037836898, u'modem', 0.03632576]
+[u'snorkel', 0.14376561, u'backpack', 0.10586872, u'oxygen_mask', 0.098709762, u'comic_book', 0.075846046, u'tray', 0.043826032]
+[u'vacuum', 0.14626867, u'toyshop', 0.12849787, u'swab', 0.077791758, u'barbershop', 0.03949431, u'totem_pole', 0.035224248]
+[u'vase', 0.079030149, u'toyshop', 0.058191847, u'coral_reef', 0.056311477, u'fountain', 0.046217632, u'scorpion', 0.039464232]
+[u'toyshop', 0.47531414, u'comic_book', 0.172429, u'jigsaw_puzzle', 0.15314785, u'whistle', 0.025516974, u'slot', 0.020822989]
+[u'comic_book', 0.99480778, u'book_jacket', 0.0031098179, u'ski', 0.00028708047, u'mask', 0.00021937644, u'shield', 0.00020561003]

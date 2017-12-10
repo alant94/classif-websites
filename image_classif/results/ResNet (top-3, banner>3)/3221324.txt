@@ -1,0 +1,5 @@
+[u'book_jacket', 0.23674096, u'packet', 0.22500129, u'red_wine', 0.15628427]
+[u'monitor', 0.2732279, u'screen', 0.12281111, u'desktop_computer', 0.098511495]
+[u'street_sign', 0.14770228, u'switch', 0.136666, u'lighter', 0.095563956]
+[u'switch', 0.25406054, u'lighter', 0.24573462, u'scale', 0.055860601]
+[u'book_jacket', 0.93658572, u'menu', 0.039783467, u'web_site', 0.0088253925]

@@ -1,0 +1,2 @@
+[u'fountain', 0.70859677, u'church', 0.14377631, u'palace', 0.04440758]
+[u'panpipe', 0.59257358, u'digital_clock', 0.074501909, u'traffic_light', 0.053843845]

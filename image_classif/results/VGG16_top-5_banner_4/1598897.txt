@@ -1,0 +1,5 @@
+[u'piggy_bank', 0.67849445, u'ocarina', 0.19123639, u'swimming_trunks', 0.084451392, u'diaper', 0.0094982358, u'jigsaw_puzzle', 0.0092428392]
+[u'conch', 0.1029878, u'swimming_trunks', 0.076160513, u'mask', 0.049017105, u'shower_cap', 0.042476229, u'sunscreen', 0.038895201]
+[u'bikini', 0.70024741, u'brassiere', 0.078166641, u'miniskirt', 0.063893229, u'maillot', 0.036357418, u'diaper', 0.027990641]
+[u'butternut_squash', 0.32794061, u'banana', 0.1289179, u'teddy', 0.097301669, u'toyshop', 0.07217522, u'orange', 0.055250753]
+[u'swimming_trunks', 0.17869687, u'bikini', 0.148855, u'maillot', 0.10049467, u'punching_bag', 0.067627847, u'sunscreen', 0.066302158]

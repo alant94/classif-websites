@@ -1,0 +1,6 @@
+[u'milk_can', 0.18686679, u'can_opener', 0.10502601, u'whistle', 0.085322365]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244]
+[u'beaker', 0.2060072, u'medicine_chest', 0.16072035, u'pill_bottle', 0.098726518]
+[u'pill_bottle', 0.2780318, u'whistle', 0.23389371, u'beaker', 0.21583946]
+[u'marimba', 0.40880293, u'panpipe', 0.27503741, u'bannister', 0.11553315]
+[u'oxygen_mask', 0.26619726, u'envelope', 0.069278322, u'oil_filter', 0.057591986]

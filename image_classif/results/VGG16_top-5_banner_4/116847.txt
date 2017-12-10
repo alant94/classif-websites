@@ -1,0 +1,3 @@
+[u'scoreboard', 0.13781409, u'cinema', 0.05345057, u'ambulance', 0.04521608, u'comic_book', 0.034345802, u'moving_van', 0.03222996]
+[u'jigsaw_puzzle', 0.55941862, u'menu', 0.13930064, u'envelope', 0.092492513, u'packet', 0.073010489, u'web_site', 0.050438125]
+[u'pick', 0.609047, u'Band_Aid', 0.04997322, u'maraca', 0.040640339, u'rubber_eraser', 0.028248148, u'sock', 0.015035744]

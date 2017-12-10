@@ -1,0 +1,2 @@
+[u'suit', 0.32047603, u'Windsor_tie', 0.072496749, u'Loafer', 0.057974871]
+[u'book_jacket', 0.12964885, u'barbershop', 0.069545761, u'menu', 0.069249459]

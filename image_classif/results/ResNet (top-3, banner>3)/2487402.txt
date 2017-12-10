@@ -1,0 +1,6 @@
+[u'gazelle', 0.55447137, u'llama', 0.10211334, u'hartebeest', 0.082597516]
+[u'ibex', 0.81320739, u'hartebeest', 0.15086456, u'bighorn', 0.0097581716]
+[u'rule', 0.58269, u'syringe', 0.076549299, u'hammer', 0.054008786]
+[u'pedestal', 0.41603753, u'stupa', 0.32785097, u'patio', 0.04228159]
+[u'ibex', 0.50353801, u'hartebeest', 0.17246309, u'dhole', 0.15242954]
+[u'hartebeest', 0.47499827, u'ibex', 0.12788466, u'gazelle', 0.071241789]

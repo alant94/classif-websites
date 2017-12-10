@@ -1,0 +1,7 @@
+[u'book_jacket', 0.63326097, u'comic_book', 0.05384561, u'pill_bottle', 0.036719166]
+[u'guillotine', 0.68616277, u'park_bench', 0.11419666, u'desk', 0.040069826]
+[u'web_site', 0.97369927, u'menu', 0.0098423585, u'sunglasses', 0.0091176899]
+[u'comic_book', 0.40096307, u'web_site', 0.24033831, u'bookshop', 0.11063278]
+[u'web_site', 0.94894516, u'scoreboard', 0.0085238293, u'monitor', 0.0083735883]
+[u'grocery_store', 0.3189086, u'web_site', 0.21525531, u'confectionery', 0.072457522]
+[u'comic_book', 0.43476379, u'book_jacket', 0.16355813, u'slot', 0.083234817]

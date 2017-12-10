@@ -1,0 +1,2 @@
+[u'African_elephant', 0.82958412, u'tusker', 0.091461219, u'Indian_elephant', 0.077397712]
+[u'wreck', 0.14066584, u'viaduct', 0.1009928, u'cliff', 0.062144045]

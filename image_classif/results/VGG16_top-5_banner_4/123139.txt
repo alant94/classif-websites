@@ -1,0 +1,7 @@
+[u'container_ship', 0.14550146, u'toilet_seat', 0.13704348, u'stupa', 0.11438821, u'table_lamp', 0.049001697, u'bathtub', 0.030009078]
+[u'tray', 0.28343603, u'wall_clock', 0.17579368, u'jigsaw_puzzle', 0.082972713, u'binder', 0.072612196, u'envelope', 0.06149501]
+[u'chain_saw', 0.10796067, u'stretcher', 0.075670108, u'mousetrap', 0.060360115, u'tricycle', 0.052751634, u'power_drill', 0.034405064]
+[u'table_lamp', 0.42336196, u'lampshade', 0.08775489, u'stupa', 0.045896549, u'spotlight', 0.044710264, u'torch', 0.040856585]
+[u'wardrobe', 0.651981, u'ski', 0.069935642, u'comic_book', 0.03190925, u'hook', 0.026443863, u"carpenter's_kit", 0.024367733]
+[u'slot', 0.96015936, u'pay-phone', 0.015863039, u'gas_pump', 0.0085531687, u'cash_machine', 0.0036561268, u'vending_machine', 0.0033560363]
+[u'tractor', 0.19580767, u'jigsaw_puzzle', 0.12153644, u'plow', 0.097551726, u'harvester', 0.088834941, u'forklift', 0.056317013]

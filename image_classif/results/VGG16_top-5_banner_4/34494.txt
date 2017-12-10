@@ -1,0 +1,4 @@
+[u'airship', 0.051302526, u'spotlight', 0.048830446, u'bell_cote', 0.048345413, u'torch', 0.034791142, u'screw', 0.034630347]
+[u'airship', 0.051302526, u'spotlight', 0.048830446, u'bell_cote', 0.048345413, u'torch', 0.034791142, u'screw', 0.034630347]
+[u'analog_clock', 0.11106224, u'hook', 0.057300258, u'street_sign', 0.057082694, u'digital_watch', 0.047965433, u'digital_clock', 0.045649473]
+[u'window_screen', 0.061431516, u'container_ship', 0.044050418, u'jigsaw_puzzle', 0.019297903, u'syringe', 0.017666694, u'water_snake', 0.013384624]

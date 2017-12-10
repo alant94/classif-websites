@@ -1,0 +1,1 @@
+[u'suit', 0.24008544, u'bow_tie', 0.12519909, u'oboe', 0.066129267, u'jersey', 0.048834521, u'military_uniform', 0.03244023]

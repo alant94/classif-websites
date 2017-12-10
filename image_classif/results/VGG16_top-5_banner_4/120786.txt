@@ -1,0 +1,1 @@
+[u'Japanese_spaniel', 0.60719776, u'indri', 0.12967451, u'gibbon', 0.10295448, u'guenon', 0.034641143, u'marmoset', 0.025195623]

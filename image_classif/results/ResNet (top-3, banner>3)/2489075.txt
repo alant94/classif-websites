@@ -1,0 +1,4 @@
+[u'drilling_platform', 0.36993733, u'ski', 0.31147957, u'crane', 0.045993388]
+[u'picket_fence', 0.84367287, u'bannister', 0.028465949, u'chime', 0.016940879]
+[u'binoculars', 0.2541647, u'bow', 0.10070933, u'assault_rifle', 0.065321036]
+[u'coho', 0.72294819, u'sturgeon', 0.055118166, u'gar', 0.027059346]

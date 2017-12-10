@@ -1,0 +1,1 @@
+[u'stopwatch', 0.075622931, u'puck', 0.075527541, u'bottlecap', 0.051792149, u'book_jacket', 0.045542315, u'packet', 0.036401082]

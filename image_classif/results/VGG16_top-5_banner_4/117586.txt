@@ -1,0 +1,8 @@
+[u'perfume', 0.15010616, u'lighter', 0.10337623, u'wine_bottle', 0.090720013, u'water_bottle', 0.064928778, u'pop_bottle', 0.061424632]
+[u'cash_machine', 0.99999988, u'mailbox', 4.50854e-08, u'pay-phone', 2.3898775e-08, u'photocopier', 1.3306773e-08, u'vending_machine', 1.2621038e-08]
+[u'slot', 0.96941233, u'throne', 0.0058740713, u'guillotine', 0.0041836337, u'pool_table', 0.0028088498, u'table_lamp', 0.0026379882]
+[u'vending_machine', 0.24479215, u'monitor', 0.14424168, u'screen', 0.12587248, u'television', 0.082045078, u'iPod', 0.058225021]
+[u'beer_glass', 0.3014037, u'beer_bottle', 0.16220497, u'pop_bottle', 0.13417609, u"jack-o'-lantern", 0.076242402, u'bottlecap', 0.061292242]
+[u'toyshop', 0.72039312, u'confectionery', 0.11200626, u'slot', 0.091924697, u'vending_machine', 0.0093628522, u'bubble', 0.0092318933]
+[u'slot', 0.46136421, u'cellular_telephone', 0.19296364, u'digital_watch', 0.055728924, u'scale', 0.053694356, u'lipstick', 0.02856054]
+[u'Band_Aid', 0.11701553, u'digital_clock', 0.075697556, u'envelope', 0.069415741, u'hook', 0.056994207, u'wall_clock', 0.048974846]

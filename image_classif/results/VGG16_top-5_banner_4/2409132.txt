@@ -1,0 +1,8 @@
+[u'crane', 0.087863021, u'warplane', 0.064884625, u'flagpole', 0.059399351, u'parachute', 0.059233893, u'street_sign', 0.059079502]
+[u'lakeside', 0.47490108, u'seashore', 0.25220627, u'sandbar', 0.036444359, u'promontory', 0.036156435, u'fountain', 0.021891706]
+[u'seashore', 0.32542682, u'lakeside', 0.14887166, u'dock', 0.090437599, u'drilling_platform', 0.055937085, u'castle', 0.051918618]
+[u'digital_clock', 0.31996098, u'street_sign', 0.042935763, u'scoreboard', 0.035699125, u'wall_clock', 0.033035144, u'flagpole', 0.02976129]
+[u'Band_Aid', 0.19748661, u'envelope', 0.13713361, u'flagpole', 0.033331014, u'matchstick', 0.031695113, u'web_site', 0.030417675]
+[u'palace', 0.61595207, u'monastery', 0.06714765, u'stupa', 0.052429568, u'mosque', 0.036689006, u'castle', 0.031884655]
+[u'parachute', 0.14009885, u'Band_Aid', 0.1047232, u'envelope', 0.073309094, u'airship', 0.043264516, u'container_ship', 0.029884746]
+[u'cliff', 0.22085097, u'alp', 0.1772387, u'geyser', 0.12281919, u'valley', 0.11872809, u'lakeside', 0.096244812]

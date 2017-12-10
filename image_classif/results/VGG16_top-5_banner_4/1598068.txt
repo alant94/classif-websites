@@ -1,0 +1,2 @@
+[u'jersey', 0.095190644, u'book_jacket', 0.039152019, u'microphone', 0.036143098, u'spotlight', 0.021358527, u'torch', 0.018204585]
+[u'submarine', 0.19493568, u'projectile', 0.17560825, u'punching_bag', 0.16256185, u'missile', 0.14892596, u'space_shuttle', 0.083563484]

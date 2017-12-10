@@ -1,0 +1,1 @@
+[u'book_jacket', 0.13141064, u'Great_Dane', 0.1158822, u'African_hunting_dog', 0.065859772, u'black-and-tan_coonhound', 0.047172587, u'bluetick', 0.037703514]

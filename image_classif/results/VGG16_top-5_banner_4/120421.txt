@@ -1,0 +1,1 @@
+[u'bell_cote', 0.22391349, u'space_shuttle', 0.13812917, u'stupa', 0.093280695, u'crane', 0.054339338, u'missile', 0.02906522]

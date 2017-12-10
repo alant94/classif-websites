@@ -1,0 +1,7 @@
+[u'wine_bottle', 0.34649864, u'beer_bottle', 0.14751028, u'syringe', 0.13580772]
+[u'beer_bottle', 0.41992241, u'pop_bottle', 0.37563428, u'wine_bottle', 0.085961275]
+[u'lipstick', 0.22125247, u'menu', 0.11267164, u'sweatshirt', 0.097830251]
+[u'beer_bottle', 0.25731501, u'wine_bottle', 0.11814932, u'church', 0.11639982]
+[u'hair_spray', 0.4866859, u'cocktail_shaker', 0.11801939, u'lotion', 0.07795459]
+[u'eggnog', 0.21368273, u'lotion', 0.17488009, u'hair_spray', 0.17435919]
+[u'barrel', 0.97317481, u'shoe_shop', 0.0020176738, u'abaya', 0.0012844999]

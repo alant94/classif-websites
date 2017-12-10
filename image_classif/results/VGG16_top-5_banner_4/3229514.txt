@@ -1,0 +1,4 @@
+[u'four-poster', 0.34168342, u'table_lamp', 0.24724558, u'lampshade', 0.090090849, u'candle', 0.037542421, u'umbrella', 0.028667659]
+[u'banana', 0.1525393, u'paintbrush', 0.11220298, u'wooden_spoon', 0.069524385, u'loupe', 0.058531169, u'barometer', 0.040383074]
+[u'digital_clock', 0.093774423, u'digital_watch', 0.069285028, u'lighter', 0.062966026, u'street_sign', 0.059013486, u'modem', 0.049372897]
+[u'envelope', 0.45062253, u'candle', 0.038446445, u'matchstick', 0.03804525, u'web_site', 0.030512054, u'nail', 0.022551011]

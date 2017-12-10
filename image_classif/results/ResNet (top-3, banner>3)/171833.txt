@@ -1,0 +1,3 @@
+[u'web_site', 0.2742911, u'envelope', 0.055526182, u'digital_clock', 0.039137449]
+[u'military_uniform', 0.77244973, u'bearskin', 0.12497371, u'banjo', 0.021074034]
+[u'car_mirror', 0.28772914, u'sunglass', 0.10882717, u'gas_pump', 0.096792422]

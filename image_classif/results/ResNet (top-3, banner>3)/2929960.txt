@@ -1,0 +1,3 @@
+[u'groom', 0.27521515, u'harp', 0.1622019, u'vestment', 0.076039031]
+[u'laptop', 0.30339164, u'notebook', 0.22772206, u'suit', 0.079797857]
+[u'barbershop', 0.28920385, u'cello', 0.22322848, u'library', 0.10310455]

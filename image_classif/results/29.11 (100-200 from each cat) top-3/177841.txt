@@ -1,0 +1,3 @@
+[u'web_site', 0.18640606, u'menu', 0.10560149, u'comic_book', 0.059908077]
+[u'sweatshirt', 0.27560937, u'jersey', 0.20378344, u'puck', 0.05865648]
+[u'screwdriver', 0.31968045, u'nail', 0.26086259, u'pretzel', 0.12111089]

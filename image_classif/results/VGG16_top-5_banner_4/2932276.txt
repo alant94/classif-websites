@@ -1,0 +1,1 @@
+[u'stone_wall', 0.56510568, u'garbage_truck', 0.058775734, u'ashcan', 0.035814997, u'lumbermill', 0.020648954, u'harvester', 0.019423528]

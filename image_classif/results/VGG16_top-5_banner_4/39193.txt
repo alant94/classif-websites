@@ -1,0 +1,7 @@
+[u'bee', 0.24853998, u'picket_fence', 0.24667569, u'sulphur_butterfly', 0.13252684, u'hip', 0.063191108, u'pot', 0.062292639]
+[u'borzoi', 0.69272143, u'Saluki', 0.12515955, u'Afghan_hound', 0.09777955, u'whippet', 0.024487002, u'collie', 0.014102852]
+[u'lipstick', 0.01764692, u'envelope', 0.017292215, u'wall_clock', 0.0164016, u'red_wine', 0.015349301, u'velvet', 0.015185404]
+[u'packet', 0.3322449, u'book_jacket', 0.29268071, u'cauliflower', 0.067443341, u'menu', 0.053576775, u'comic_book', 0.041381188]
+[u'web_site', 0.15083973, u'book_jacket', 0.096970692, u'envelope', 0.083167665, u'menu', 0.028472347, u'jersey', 0.026250979]
+[u'jackfruit', 0.3117623, u'spaghetti_squash', 0.17667918, u'banana', 0.052675009, u'custard_apple', 0.039146572, u'web_site', 0.035117507]
+[u'packet', 0.18440241, u'tray', 0.095217884, u'binder', 0.071985498, u'ant', 0.056377407, u'hair_slide', 0.04416243]

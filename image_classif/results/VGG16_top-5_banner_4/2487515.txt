@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.08792875, u'window_screen', 0.056867763, u'crossword_puzzle', 0.055156775, u'window_shade', 0.035547964, u'honeycomb', 0.01834159]
+[u'academic_gown', 0.18543957, u'cleaver', 0.091395937, u'mortarboard', 0.081228696, u'Windsor_tie', 0.04510976, u'abaya', 0.045050986]
+[u'shower_curtain', 0.095279202, u'toilet_seat', 0.043222819, u'dining_table', 0.033875287, u'mortar', 0.019216856, u'maze', 0.01909456]

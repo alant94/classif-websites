@@ -1,0 +1,5 @@
+[u'parking_meter', 0.59674227, u'odometer', 0.14119838, u'disk_brake', 0.033060171, u'digital_watch', 0.023962976, u'stopwatch', 0.021695806]
+[u'lighter', 0.20876212, u'switch', 0.17973128, u'wall_clock', 0.08191061, u'digital_clock', 0.079558291, u'mousetrap', 0.045662485]
+[u'shower_curtain', 0.31305718, u'handkerchief', 0.068192735, u'switch', 0.061062228, u'tray', 0.036740344, u'doormat', 0.035691559]
+[u'vending_machine', 0.20345102, u'remote_control', 0.1568021, u'cellular_telephone', 0.082193181, u'oscilloscope', 0.081504099, u'computer_keyboard', 0.064205922]
+[u'rubber_eraser', 0.21462426, u'lighter', 0.1321557, u'lipstick', 0.12959982, u'ballpoint', 0.10998764, u'hair_spray', 0.07060501]

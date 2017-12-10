@@ -1,0 +1,3 @@
+[u'web_site', 0.98447615, u'television', 0.002054208, u'desk', 0.0016923121]
+[u'folding_chair', 0.58244991, u'dining_table', 0.21580347, u'rocking_chair', 0.16577831]
+[u'oscilloscope', 0.31809279, u'space_heater', 0.28193071, u'fire_screen', 0.11743311]

@@ -1,0 +1,2 @@
+[u'chime', 0.53290242, u'ballpoint', 0.097599417, u'screwdriver', 0.056716911, u'paintbrush', 0.039634947, u'nail', 0.031263594]
+[u'broom', 0.05903494, u'rapeseed', 0.054485884, u'paintbrush', 0.043872047, u'envelope', 0.036653895, u'swab', 0.020895967]

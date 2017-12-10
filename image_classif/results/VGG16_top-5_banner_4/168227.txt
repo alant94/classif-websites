@@ -1,0 +1,3 @@
+[u'screwdriver', 0.16969283, u'safety_pin', 0.12589219, u"carpenter's_kit", 0.096460298, u'ballpoint', 0.09372633, u'hair_slide', 0.083649017]
+[u'stage', 0.88419259, u'banjo', 0.0525399, u'sax', 0.040639356, u'electric_guitar', 0.010076671, u'bassoon', 0.0022802732]
+[u'chain_saw', 0.10890698, u'conch', 0.10629293, u'wreck', 0.095146112, u'electric_guitar', 0.069766566, u'space_shuttle', 0.062160295]

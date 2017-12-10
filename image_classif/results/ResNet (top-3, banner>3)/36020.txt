@@ -1,0 +1,7 @@
+[u'street_sign', 0.24337877, u'web_site', 0.13542645, u'shopping_basket', 0.044144005]
+[u'web_site', 0.79607433, u'menu', 0.044543497, u'brass', 0.023504874]
+[u'desktop_computer', 0.35278478, u'monitor', 0.13250226, u'screen', 0.085770048]
+[u'fire_screen', 0.39288491, u'strainer', 0.20746431, u'window_screen', 0.060804129]
+[u'chime', 0.29739264, u'barbershop', 0.24946147, u'street_sign', 0.14234601]
+[u'web_site', 0.24306047, u'digital_clock', 0.097599499, u'whistle', 0.084484257]
+[u'medicine_chest', 0.50362778, u'washbasin', 0.12851886, u'television', 0.10114717]

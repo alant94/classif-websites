@@ -1,0 +1,3 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'analog_clock', 0.49206817, u'digital_clock', 0.06695842, u'digital_watch', 0.043679278]
+[u'lipstick', 0.10950051, u'hair_spray', 0.090895109, u'Windsor_tie', 0.07065355]

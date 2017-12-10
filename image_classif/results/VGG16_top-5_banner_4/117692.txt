@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.19195855, u'screen', 0.15092382, u'web_site', 0.085186526, u'monitor', 0.061656594, u'rule', 0.060429689]

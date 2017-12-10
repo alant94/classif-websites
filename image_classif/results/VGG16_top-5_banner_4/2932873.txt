@@ -1,0 +1,1 @@
+[u'sunscreen', 0.061801016, u'suit', 0.037022199, u'tench', 0.026140859, u'American_lobster', 0.019693729, u'jersey', 0.019102577]

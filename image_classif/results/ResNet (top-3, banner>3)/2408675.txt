@@ -1,0 +1,2 @@
+[u'paintbrush', 0.45584914, u'jean', 0.079290286, u'wardrobe', 0.04166989]
+[u'oxygen_mask', 0.27243063, u'street_sign', 0.13179678, u'beaker', 0.090583295]

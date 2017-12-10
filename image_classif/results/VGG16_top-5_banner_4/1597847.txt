@@ -1,0 +1,5 @@
+[u'candle', 0.19323653, u'wig', 0.13528463, u'ice_lolly', 0.061617758, u'bathing_cap', 0.055524062, u'syringe', 0.047916301]
+[u'geyser', 0.11873246, u'fountain', 0.088519134, u'vulture', 0.041815475, u'black_grouse', 0.04008761, u'matchstick', 0.024301395]
+[u'mosquito_net', 0.17487612, u'gown', 0.15317236, u'shower_curtain', 0.092708312, u'Windsor_tie', 0.046226244, u'overskirt', 0.042317461]
+[u'bikini', 0.16654027, u'maillot', 0.093374483, u'maillot', 0.088071316, u'bathing_cap', 0.08100123, u'soap_dispenser', 0.049652904]
+[u'screw', 0.096386999, u'analog_clock', 0.065014526, u'matchstick', 0.06491629, u'wall_clock', 0.05756991, u'nail', 0.053165499]

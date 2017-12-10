@@ -1,0 +1,5 @@
+[u'pill_bottle', 0.28708351, u'chocolate_sauce', 0.23234634, u'puck', 0.090098836, u'face_powder', 0.077428207, u'oil_filter', 0.052759476]
+[u'grocery_store', 0.08767464, u'butcher_shop', 0.06534227, u'pop_bottle', 0.056914821, u'cleaver', 0.044870496, u'crate', 0.040779028]
+[u'wine_bottle', 0.79729784, u'beer_bottle', 0.18808433, u'pop_bottle', 0.0051418883, u'red_wine', 0.0045460253, u'refrigerator', 0.0038236638]
+[u'wine_bottle', 0.59448034, u'pop_bottle', 0.14901221, u'beer_bottle', 0.075943194, u'red_wine', 0.029926904, u'hamper', 0.029060114]
+[u'sliding_door', 0.044646341, u'envelope', 0.042673972, u'wall_clock', 0.040391386, u'wardrobe', 0.036836043, u'cash_machine', 0.035504967]

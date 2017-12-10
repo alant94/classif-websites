@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.092092022, u'refrigerator', 0.067245036, u'binder', 0.047416758, u'web_site', 0.045260232, u'comic_book', 0.035766985]
+[u'tobacco_shop', 0.086330503, u'book_jacket', 0.085715055, u'barbershop', 0.055478424, u'cash_machine', 0.054704532, u'cinema', 0.052011799]
+[u'scale', 0.47757703, u'web_site', 0.072078116, u'printer', 0.060803965, u'washer', 0.036783855, u'hard_disc', 0.033000361]
+[u'safety_pin', 0.15250109, u'hook', 0.056207169, u'nail', 0.034733076, u'hair_slide', 0.033552576, u'zebra', 0.026629936]
+[u'lampshade', 0.066467814, u'restaurant', 0.055765793, u'beer_bottle', 0.051569715, u'window_shade', 0.043920897, u'throne', 0.040027957]

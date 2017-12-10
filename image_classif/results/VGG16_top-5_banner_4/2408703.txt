@@ -1,0 +1,3 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'park_bench', 0.093662947, u'sunglasses', 0.08285322, u'ice_lolly', 0.081902243, u'sunglass', 0.037728515, u'sunscreen', 0.036282308]
+[u'envelope', 0.79878616, u'web_site', 0.021551302, u'book_jacket', 0.018681714, u'handkerchief', 0.010883634, u'matchstick', 0.010024274]

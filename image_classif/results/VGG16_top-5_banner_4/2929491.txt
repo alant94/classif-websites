@@ -1,0 +1,1 @@
+[u'tray', 0.2840412, u'screen', 0.10721713, u'monitor', 0.0747272, u'envelope', 0.044886116, u'oscilloscope', 0.035162318]

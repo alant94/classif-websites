@@ -1,0 +1,8 @@
+[u'paintbrush', 0.37327614, u'ski', 0.11150542, u'gondola', 0.086076014]
+[u'iPod', 0.97360456, u'lighter', 0.008203906, u'switch', 0.0027278617]
+[u'digital_clock', 0.93377727, u'analog_clock', 0.016827235, u'wall_clock', 0.013739675]
+[u'mountain_bike', 0.32475278, u'alp', 0.095543042, u'cliff', 0.055654634]
+[u'screen', 0.14176476, u'envelope', 0.067117162, u'web_site', 0.050283775]
+[u'swing', 0.21715066, u'lakeside', 0.051242396, u'book_jacket', 0.048448149]
+[u'iPod', 0.94621015, u'lighter', 0.014786733, u'switch', 0.013867185]
+[u'sunglasses', 0.13319583, u'parachute', 0.11332015, u'sunglass', 0.098228514]

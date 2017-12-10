@@ -1,0 +1,4 @@
+[u'orange', 0.45617405, u'lemon', 0.18319993, u'confectionery', 0.11513764]
+[u'ear', 0.71731037, u'corn', 0.032764982, u'Band_Aid', 0.02013791]
+[u'seashore', 0.47120294, u'promontory', 0.36180377, u'cliff', 0.15115027]
+[u'plate', 0.69504333, u'meat_loaf', 0.20632997, u'mashed_potato', 0.046280246]

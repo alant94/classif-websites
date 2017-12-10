@@ -1,0 +1,4 @@
+[u'triceratops', 0.69022989, u'web_site', 0.059284735, u'harp', 0.053906526]
+[u'crutch', 0.098245278, u'hook', 0.088350244, u'spotlight', 0.083894193]
+[u'medicine_chest', 0.1226312, u'dishwasher', 0.11636782, u'refrigerator', 0.083735503]
+[u'stove', 0.15538172, u'refrigerator', 0.10638833, u'medicine_chest', 0.090607516]

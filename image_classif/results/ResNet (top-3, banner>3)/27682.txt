@@ -1,0 +1,2 @@
+[u'washbasin', 0.77046996, u'restaurant', 0.084927224, u'medicine_chest', 0.035882927]
+[u'web_site', 0.037095431, u'oscilloscope', 0.026137931, u'nematode', 0.020295016]

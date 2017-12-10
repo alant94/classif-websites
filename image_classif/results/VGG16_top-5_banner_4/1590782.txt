@@ -1,0 +1,1 @@
+[u'scoreboard', 0.31543431, u'book_jacket', 0.043985456, u'theater_curtain', 0.04056875, u'matchstick', 0.024356971, u'perfume', 0.023132291]

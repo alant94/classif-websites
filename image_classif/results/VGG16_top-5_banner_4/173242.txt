@@ -1,0 +1,5 @@
+[u'screwdriver', 0.14917231, u'toaster', 0.088112444, u'lighter', 0.076231554, u"carpenter's_kit", 0.052911803, u'digital_clock', 0.033548024]
+[u'altar', 0.56836438, u'church', 0.17499036, u'vault', 0.067167878, u'fountain', 0.051846463, u'throne', 0.016718624]
+[u'iPod', 0.40371329, u'tray', 0.24389078, u'lighter', 0.074859284, u'laptop', 0.058661032, u'book_jacket', 0.032325886]
+[u'web_site', 0.093973123, u'matchstick', 0.021116175, u'nematode', 0.02009668, u'envelope', 0.018197577, u'lighter', 0.017831396]
+[u'lighter', 0.11446411, u'buckle', 0.079952277, u'switch', 0.077179804, u'tray', 0.067456357, u'digital_watch', 0.042504489]

@@ -1,0 +1,2 @@
+[u'pencil_sharpener', 0.28489923, u'piggy_bank', 0.11853137, u'reel', 0.089688398, u'spotlight', 0.073427796, u'espresso_maker', 0.051780399]
+[u'street_sign', 0.1262064, u'traffic_light', 0.083427392, u'hook', 0.081113942, u'dumbbell', 0.042847767, u'remote_control', 0.042351507]

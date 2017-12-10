@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.17092735, u'dining_table', 0.059508242, u'desk', 0.036228187, u'window_shade', 0.032502342, u'wall_clock', 0.025849223]

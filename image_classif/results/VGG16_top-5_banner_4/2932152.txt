@@ -1,0 +1,2 @@
+[u'envelope', 0.41569126, u'cash_machine', 0.17457156, u'web_site', 0.040013041, u'monitor', 0.019601597, u'digital_clock', 0.018718446]
+[u'envelope', 0.28523371, u'candle', 0.063153714, u'monitor', 0.053514175, u'toilet_seat', 0.044010412, u'paper_towel', 0.031258274]

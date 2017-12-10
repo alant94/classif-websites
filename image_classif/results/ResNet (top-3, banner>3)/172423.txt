@@ -1,0 +1,4 @@
+[u'digital_clock', 0.28925362, u'crossword_puzzle', 0.15393923, u'prayer_rug', 0.11858713]
+[u'digital_clock', 0.51910746, u'traffic_light', 0.20050725, u'digital_watch', 0.13017277]
+[u'screen', 0.19663979, u'envelope', 0.18271896, u'television', 0.14291149]
+[u'digital_clock', 0.70962673, u'traffic_light', 0.092884935, u'digital_watch', 0.079514869]

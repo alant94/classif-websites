@@ -1,0 +1,7 @@
+[u'impala', 0.53902078, u'gazelle', 0.32819563, u'ibex', 0.042857409, u'hartebeest', 0.026588701, u'hare', 0.01537721]
+[u'ibex', 0.99823016, u'bighorn', 0.00090109883, u'bison', 0.00024141197, u'hartebeest', 0.00023991507, u'gazelle', 0.00019829052]
+[u'hartebeest', 0.47730079, u'gazelle', 0.33244976, u'impala', 0.18749677, u'ibex', 0.00098095089, u'hare', 0.00090564584]
+[u'ibex', 0.62238592, u'gazelle', 0.13588825, u'impala', 0.12355125, u'bighorn', 0.04314952, u'ram', 0.014440975]
+[u'bison', 0.38887763, u'ostrich', 0.13285872, u'impala', 0.070141271, u'ox', 0.050899629, u'black_stork', 0.049586341]
+[u'Petri_dish', 0.2279359, u'barrel', 0.0904264, u'toilet_seat', 0.082621358, u'spotlight', 0.075168155, u'planetarium', 0.059142742]
+[u'prison', 0.23141697, u'worm_fence', 0.11441313, u'picket_fence', 0.062081061, u'bannister', 0.048556577, u'planetarium', 0.043677609]

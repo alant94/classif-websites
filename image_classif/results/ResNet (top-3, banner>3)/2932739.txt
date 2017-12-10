@@ -1,0 +1,2 @@
+[u'web_site', 0.24855265, u'comic_book', 0.1252407, u'menu', 0.096514858]
+[u'oscilloscope', 0.29679799, u'web_site', 0.10010964, u'digital_clock', 0.063940756]

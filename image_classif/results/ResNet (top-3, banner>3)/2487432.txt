@@ -1,0 +1,2 @@
+[u'fountain', 0.77657384, u'jigsaw_puzzle', 0.052580275, u'monitor', 0.018756676]
+[u'hog', 0.33705416, u'wild_boar', 0.15733646, u'Sussex_spaniel', 0.061782598]

@@ -1,0 +1,5 @@
+[u'stove', 0.2656019, u'file', 0.16326347, u'safe', 0.12274721, u'switch', 0.11189933, u'combination_lock', 0.078852072]
+[u'stove', 0.25564274, u'switch', 0.1397243, u'wall_clock', 0.10359927, u'file', 0.064391151, u'medicine_chest', 0.044277638]
+[u'pick', 0.50534934, u'sweatshirt', 0.11577643, u'jersey', 0.097801954, u'puck', 0.064520396, u'book_jacket', 0.026501171]
+[u'file', 0.32134667, u'stove', 0.27704799, u'switch', 0.096827015, u'wall_clock', 0.037136618, u'chiffonier', 0.033260997]
+[u'traffic_light', 0.18288228, u'street_sign', 0.12222245, u'wall_clock', 0.10607403, u'hook', 0.053959023, u'analog_clock', 0.042027995]

@@ -1,0 +1,4 @@
+[u'traffic_light', 0.24474096, u'street_sign', 0.18227108, u'digital_clock', 0.088035017, u'hook', 0.030008344, u'wall_clock', 0.02021184]
+[u"carpenter's_kit", 0.49081165, u'book_jacket', 0.14960873, u'organ', 0.10474838, u'screwdriver', 0.083558023, u'comic_book', 0.05434357]
+[u'hook', 0.1090515, u'corkscrew', 0.054569449, u'nail', 0.03116422, u'tray', 0.029510431, u'envelope', 0.025274562]
+[u'rubber_eraser', 0.29326904, u'mousetrap', 0.16041537, u'packet', 0.072377518, u'lighter', 0.058529984, u'matchstick', 0.046340298]

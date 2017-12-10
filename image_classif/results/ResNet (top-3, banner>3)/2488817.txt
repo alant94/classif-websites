@@ -1,0 +1,6 @@
+[u'warthog', 0.38796023, u'hartebeest', 0.17453898, u'Indian_elephant', 0.10664787]
+[u'hartebeest', 0.91128045, u'oxcart', 0.023404567, u'ox', 0.023202993]
+[u'hartebeest', 0.99126339, u'impala', 0.0076944102, u'gazelle', 0.00039338367]
+[u'barn', 0.58083034, u'tile_roof', 0.082198523, u'monastery', 0.064488158]
+[u'Arabian_camel', 0.57171535, u'ox', 0.082498856, u'hartebeest', 0.07044176]
+[u'patio', 0.84243172, u'park_bench', 0.030714411, u'restaurant', 0.025564289]

@@ -1,0 +1,5 @@
+[u'window_shade', 0.30792275, u'window_screen', 0.22543755, u'book_jacket', 0.19010849, u'fire_screen', 0.070955545, u'shoji', 0.039204609]
+[u'stretcher', 0.16986914, u'studio_couch', 0.13398291, u'hook', 0.070148885, u'guillotine', 0.046985015, u'desk', 0.032408517]
+[u'toilet_seat', 0.34910131, u'ping-pong_ball', 0.11035929, u'rugby_ball', 0.076452464, u'golf_ball', 0.061024066, u'pick', 0.046460535]
+[u'book_jacket', 0.37988222, u'web_site', 0.15902254, u'barn', 0.12840176, u'theater_curtain', 0.012072343, u'crane', 0.011158871]
+[u'book_jacket', 0.3486388, u'web_site', 0.22343013, u'television', 0.10850945, u'screen', 0.050836798, u'monitor', 0.047446918]

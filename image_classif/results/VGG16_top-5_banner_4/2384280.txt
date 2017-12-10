@@ -1,0 +1,3 @@
+[u'vestment', 0.11786332, u'book_jacket', 0.11320308, u'brass', 0.093298443, u'hoopskirt', 0.059918839, u'cloak', 0.052379549]
+[u'barrel', 0.8949672, u'gong', 0.084242731, u'drum', 0.00788779, u'barbell', 0.0018163072, u'chime', 0.0018150136]
+[u'barrel', 0.99949586, u'drum', 0.00020607151, u'freight_car', 4.5129451e-05, u'forklift', 4.4972465e-05, u'reel', 3.8457998e-05]

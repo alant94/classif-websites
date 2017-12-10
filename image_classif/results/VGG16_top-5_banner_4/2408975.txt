@@ -1,0 +1,2 @@
+[u'traffic_light', 0.23173644, u"jack-o'-lantern", 0.078741856, u'spotlight', 0.040403277, u'lighter', 0.034831364, u'matchstick', 0.034121037]
+[u'grand_piano', 0.26463896, u'pirate', 0.05996149, u'harp', 0.053684201, u'upright', 0.048052657, u'suspension_bridge', 0.046018526]

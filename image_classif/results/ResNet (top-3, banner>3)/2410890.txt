@@ -1,0 +1,3 @@
+[u'microphone', 0.48286399, u'harmonica', 0.26466867, u'barbershop', 0.038100235]
+[u'Windsor_tie', 0.30113435, u'web_site', 0.14556678, u'hand-held_computer', 0.070587218]
+[u'scabbard', 0.095197633, u'letter_opener', 0.091623254, u'corkscrew', 0.066640422]

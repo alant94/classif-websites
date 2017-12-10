@@ -1,0 +1,1 @@
+[u'freight_car', 0.41985101, u'cinema', 0.11667139, u'barbershop', 0.049696352, u'digital_clock', 0.024037592, u'paddlewheel', 0.017965745]

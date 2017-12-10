@@ -1,0 +1,3 @@
+[u'stole', 0.15955365, u'wool', 0.11277018, u'container_ship', 0.10873917, u'Christmas_stocking', 0.037009891, u'stupa', 0.031306207]
+[u'hair_slide', 0.11133394, u'comic_book', 0.073311187, u'ski', 0.060028918, u'jersey', 0.049977273, u'bow', 0.049725704]
+[u'whippet', 0.25231379, u'Ibizan_hound', 0.20126052, u'borzoi', 0.18835966, u'ibex', 0.079286017, u'Afghan_hound', 0.064670451]

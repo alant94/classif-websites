@@ -1,0 +1,6 @@
+[u'beer_glass', 0.77568048, u'beer_bottle', 0.091584347, u'goblet', 0.015006658, u'cocktail_shaker', 0.014484655, u'wine_bottle', 0.011439203]
+[u'crane', 0.66699338, u'rule', 0.065326497, u'hook', 0.04011666, u'pier', 0.011790396, u'traffic_light', 0.010816861]
+[u'pretzel', 0.45874935, u'bakery', 0.066849656, u'French_loaf', 0.063910902, u'bagel', 0.055396058, u'ice_cream', 0.041338898]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'hair_slide', 0.035257913, u'mountain_bike', 0.030871551, u'unicycle', 0.028060293, u'bicycle-built-for-two', 0.01593508, u'hand_blower', 0.015300743]
+[u'pineapple', 0.22987673, u'plate', 0.0964588, u'strawberry', 0.065473698, u'confectionery', 0.05518733, u'guacamole', 0.0509873]

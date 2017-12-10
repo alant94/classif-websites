@@ -1,0 +1,4 @@
+[u'can_opener', 0.28226659, u'corkscrew', 0.20169279, u'vacuum', 0.11879034, u'tripod', 0.065897465, u'microphone', 0.034644715]
+[u'revolver', 0.95619011, u'rifle', 0.013455371, u'holster', 0.011983615, u'assault_rifle', 0.0055622524, u'can_opener', 0.0053888634]
+[u'hammer', 0.19232702, u'screwdriver', 0.14990662, u'syringe', 0.12058805, u'screw', 0.093561679, u'nail', 0.073958062]
+[u'corkscrew', 0.66318882, u'revolver', 0.12337193, u'rifle', 0.031122765, u'hammer', 0.025918996, u'pencil_sharpener', 0.024401041]

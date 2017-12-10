@@ -1,0 +1,6 @@
+[u'oil_filter', 0.081465647, u'Band_Aid', 0.043966245, u'street_sign', 0.043382533, u'flagpole', 0.041474357, u'hair_spray', 0.029724902]
+[u'puck', 0.14474252, u'coffee_mug', 0.12868412, u'pretzel', 0.094189078, u'buckle', 0.093511812, u'bottlecap', 0.064084522]
+[u'theater_curtain', 0.21721476, u'perfume', 0.15988621, u'gown', 0.039219022, u'lotion', 0.029908633, u'sunscreen', 0.02655223]
+[u'harp', 0.29496956, u'flute', 0.12745772, u'banjo', 0.09014906, u'stage', 0.080979124, u'oboe', 0.076370806]
+[u'barber_chair', 0.096061043, u'iron', 0.060981262, u"potter's_wheel", 0.036112718, u'Band_Aid', 0.033591487, u'chain', 0.032554541]
+[u'pill_bottle', 0.033678964, u'airship', 0.027602304, u'spotlight', 0.02636498, u'nipple', 0.024319906, u'envelope', 0.024028974]

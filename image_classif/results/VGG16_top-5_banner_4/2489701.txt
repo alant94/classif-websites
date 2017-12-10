@@ -1,0 +1,1 @@
+[u'wild_boar', 0.10295285, u'German_shepherd', 0.090508863, u'hog', 0.048155893, u'malinois', 0.044434439, u'military_uniform', 0.033462055]

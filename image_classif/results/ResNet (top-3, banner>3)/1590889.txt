@@ -1,0 +1,6 @@
+[u'scoreboard', 0.72313571, u'digital_clock', 0.083945908, u'book_jacket', 0.044195652]
+[u'gown', 0.31972674, u'groom', 0.11160415, u'jean', 0.072876282]
+[u'comic_book', 0.30007303, u'book_jacket', 0.29486296, u'brassiere', 0.057695393]
+[u'brassiere', 0.460724, u'bikini', 0.315824, u'maillot', 0.16909952]
+[u'gown', 0.33095044, u'maillot', 0.077637151, u'jean', 0.066851564]
+[u'face_powder', 0.25646544, u'lotion', 0.091773801, u'electric_fan', 0.055405464]

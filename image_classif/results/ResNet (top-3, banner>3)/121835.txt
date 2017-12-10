@@ -1,0 +1,1 @@
+[u'digital_clock', 0.64301807, u'digital_watch', 0.090650983, u'jersey', 0.029414156]

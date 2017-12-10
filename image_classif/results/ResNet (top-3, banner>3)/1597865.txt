@@ -1,0 +1,5 @@
+[u'bikini', 0.41898611, u'swimming_trunks', 0.26979741, u'brassiere', 0.15049703]
+[u'cradle', 0.72331262, u'bassinet', 0.072047241, u'quilt', 0.023370592]
+[u'brassiere', 0.17763439, u'miniskirt', 0.17615674, u'maillot', 0.16306587]
+[u'brassiere', 0.39190555, u'bikini', 0.23880154, u'maillot', 0.17182949]
+[u'brassiere', 0.12330791, u'knee_pad', 0.12093826, u'bikini', 0.066198334]

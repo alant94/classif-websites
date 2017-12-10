@@ -1,0 +1,5 @@
+[u'web_site', 0.66719955, u'book_jacket', 0.10054895, u'comic_book', 0.085657246]
+[u'book_jacket', 0.38221756, u'web_site', 0.21954831, u'menu', 0.082843915]
+[u'groenendael', 0.23173125, u'fountain', 0.11778092, u'mask', 0.11539888]
+[u'stole', 0.34088343, u'chainlink_fence', 0.093500182, u'honeycomb', 0.069048449]
+[u'book_jacket', 0.46305346, u'comic_book', 0.39386711, u'pretzel', 0.04420824]

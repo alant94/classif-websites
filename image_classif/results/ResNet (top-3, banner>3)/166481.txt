@@ -1,0 +1,7 @@
+[u'book_jacket', 0.25604528, u'web_site', 0.086164705, u'theater_curtain', 0.083216749]
+[u'web_site', 0.048003107, u'nematode', 0.040214073, u'lighter', 0.034719802]
+[u'mousetrap', 0.23431361, u'web_site', 0.19411501, u'football_helmet', 0.11384351]
+[u'birdhouse', 0.72534186, u'perfume', 0.041054044, u'buckle', 0.035496734]
+[u'web_site', 0.21320216, u'combination_lock', 0.10230289, u'safe', 0.042937852]
+[u'typewriter_keyboard', 0.27455169, u'tobacco_shop', 0.19930847, u'book_jacket', 0.080857001]
+[u"carpenter's_kit", 0.59841007, u'ocarina', 0.058181852, u'plane', 0.041587871]

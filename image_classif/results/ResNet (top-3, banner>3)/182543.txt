@@ -1,0 +1,2 @@
+[u'ambulance', 0.57649529, u'prayer_rug', 0.13627112, u'maze', 0.03960862]
+[u'maze', 0.34231514, u'ambulance', 0.18871923, u'digital_watch', 0.048557743]

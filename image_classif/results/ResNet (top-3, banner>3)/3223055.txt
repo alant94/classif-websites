@@ -1,0 +1,7 @@
+[u'scoreboard', 0.23622759, u'street_sign', 0.12590204, u'stage', 0.052852001]
+[u'butcher_shop', 0.48950276, u'web_site', 0.25681484, u'comic_book', 0.056940328]
+[u'web_site', 0.54853874, u'envelope', 0.059107337, u'jersey', 0.056144442]
+[u'jean', 0.20885299, u'abaya', 0.14271101, u'web_site', 0.11490897]
+[u'street_sign', 0.27237573, u'cash_machine', 0.15223697, u'web_site', 0.11669129]
+[u'comic_book', 0.27293137, u'jean', 0.14148627, u'web_site', 0.11928185]
+[u'web_site', 0.4754262, u'book_jacket', 0.24700236, u'comic_book', 0.039107658]

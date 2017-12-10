@@ -1,0 +1,4 @@
+[u'envelope', 0.2670745, u'safety_pin', 0.20337458, u'Band_Aid', 0.15870067, u'web_site', 0.079012752, u'hair_slide', 0.065399006]
+[u'web_site', 0.43908489, u'hair_slide', 0.25271723, u'packet', 0.064201906, u'envelope', 0.056493364, u'nipple', 0.015673876]
+[u'picket_fence', 0.37521365, u'vase', 0.17921185, u'coral_fungus', 0.085201651, u'plastic_bag', 0.029123016, u'ashcan', 0.021808261]
+[u'picket_fence', 0.1445272, u'shower_curtain', 0.13498603, u'poncho', 0.11754035, u'sarong', 0.095031977, u'clog', 0.043893021]

@@ -1,0 +1,6 @@
+[u'lawn_mower', 0.23497261, u'web_site', 0.1255217, u'power_drill', 0.066000991]
+[u'puck', 0.094918348, u'scoreboard', 0.043304581, u'buckle', 0.039575119]
+[u'switch', 0.30361706, u'mousetrap', 0.16112575, u'radio', 0.082186274]
+[u'web_site', 0.20559433, u'face_powder', 0.069612876, u'gown', 0.0636774]
+[u'binder', 0.17204823, u"carpenter's_kit", 0.090635732, u'switch', 0.087313451]
+[u'file', 0.14524831, u'hard_disc', 0.1077225, u'mousetrap', 0.10559414]

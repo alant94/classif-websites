@@ -1,0 +1,1 @@
+[u'limousine', 0.08112599, u'pickup', 0.06538187, u'garbage_truck', 0.059414204, u'recreational_vehicle', 0.057932284, u'mobile_home', 0.057067968]

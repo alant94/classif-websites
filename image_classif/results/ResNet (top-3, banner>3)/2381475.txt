@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.13404973, u'drum', 0.12633295, u'coffee_mug', 0.077364884]
+[u'sliding_door', 0.23400261, u'washbasin', 0.20736267, u'bathtub', 0.11226241]
+[u'crossword_puzzle', 0.35046551, u'picket_fence', 0.092247121, u'folding_chair', 0.091096014]
+[u'digital_clock', 0.24662706, u'picket_fence', 0.1708554, u'hamper', 0.054083522]
+[u'paper_towel', 0.84800023, u'toilet_tissue', 0.11140551, u'toilet_seat', 0.021938823]
+[u'wardrobe', 0.41421327, u'sliding_door', 0.37357616, u'medicine_chest', 0.050956365]

@@ -1,0 +1,5 @@
+[u'analog_clock', 0.20908177, u'prayer_rug', 0.095018812, u'wall_clock', 0.050495163]
+[u'chainlink_fence', 0.35154495, u'fountain', 0.067333907, u'brass', 0.065559655]
+[u'screen', 0.51729333, u'monitor', 0.37927899, u'desktop_computer', 0.04455056]
+[u'packet', 0.12728271, u'lighter', 0.087267183, u'matchstick', 0.065203056]
+[u'window_screen', 0.398884, u'fire_screen', 0.19554593, u'book_jacket', 0.088388488]

@@ -1,0 +1,1 @@
+[u'jersey', 0.10540454, u'packet', 0.051757101, u'bathing_cap', 0.040628135, u'envelope', 0.037984576, u'puck', 0.031889804]

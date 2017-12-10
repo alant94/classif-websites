@@ -1,0 +1,6 @@
+[u'magnetic_compass', 0.10105602, u'monitor', 0.058407251, u'lighter', 0.05316532]
+[u'fire_screen', 0.60444289, u'English_springer', 0.077752128, u'mousetrap', 0.017824231]
+[u'digital_clock', 0.79040515, u'television', 0.062316321, u'ping-pong_ball', 0.024018828]
+[u'hand-held_computer', 0.41914207, u'screen', 0.11389491, u'monitor', 0.080017395]
+[u'quill', 0.2435917, u'ballpoint', 0.17736906, u'fountain_pen', 0.10443879]
+[u'web_site', 0.42930809, u'hand-held_computer', 0.29014552, u'desktop_computer', 0.019668769]

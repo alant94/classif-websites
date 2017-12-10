@@ -1,0 +1,4 @@
+[u'tub', 0.27799034, u'bathtub', 0.18117629, u'bikini', 0.067862622, u'maillot', 0.049135618, u'brassiere', 0.039194226]
+[u'baseball', 0.045432426, u'jersey', 0.036387995, u'cleaver', 0.024287852, u'hatchet', 0.022269843, u'pick', 0.021382494]
+[u'bathtub', 0.21473713, u'tub', 0.18663751, u'maillot', 0.11975573, u'maillot', 0.084510654, u'bikini', 0.064978495]
+[u'sandal', 0.31918034, u'bikini', 0.30831107, u'maillot', 0.30106395, u'brassiere', 0.027160564, u'maillot', 0.025344523]

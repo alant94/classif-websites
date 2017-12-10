@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.5227111, u'tub', 0.070208214, u'bathtub', 0.059189647, u'shower_cap', 0.02715872, u'bath_towel', 0.02705596]
+[u'plane', 0.18730782, u'dough', 0.1366578, u'hammerhead', 0.068314344, u'laptop', 0.049560707, u'cleaver', 0.03875991]
+[u"carpenter's_kit", 0.34894893, u'paintbrush', 0.098157048, u'screwdriver', 0.046029754, u'spatula', 0.02649112, u'cleaver', 0.02213149]
+[u'piggy_bank', 0.21832964, u'ocarina', 0.11672142, u'pretzel', 0.089169428, u"jack-o'-lantern", 0.05614759, u'butternut_squash', 0.043345146]
+[u'soap_dispenser', 0.10483193, u'Crock_Pot', 0.038839415, u'saltshaker', 0.037615977, u'candle', 0.02761328, u'shower_cap', 0.019200053]
+[u'power_drill', 0.24386741, u'butternut_squash', 0.12950329, u'bathtub', 0.074185647, u'tub', 0.043606959, u'spaghetti_squash', 0.043196324]
+[u'swimming_trunks', 0.14972952, u'bathing_cap', 0.14360496, u'bathtub', 0.093713716, u'brassiere', 0.073589146, u'bath_towel', 0.063311614]
+[u'fireboat', 0.20655699, u'space_shuttle', 0.054040004, u'pier', 0.045217052, u'water_tower', 0.039580066, u'spotlight', 0.034780022]

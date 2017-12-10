@@ -1,0 +1,2 @@
+[u'restaurant', 0.063271128, u'comic_book', 0.059761617, u'theater_curtain', 0.058310114, u'grocery_store', 0.05175988, u'confectionery', 0.039202701]
+[u'shoe_shop', 0.44421399, u'toyshop', 0.17956497, u'confectionery', 0.063904464, u'wardrobe', 0.033489183, u'library', 0.031253658]

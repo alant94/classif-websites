@@ -1,0 +1,1 @@
+[u'toyshop', 0.17452243, u'kimono', 0.06289012, u'sunglasses', 0.049504355, u'sunglass', 0.039130818, u'carton', 0.029239802]

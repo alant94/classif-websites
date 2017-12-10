@@ -1,0 +1,5 @@
+[u'apron', 0.34947437, u'maillot', 0.091299392, u'maillot', 0.050706454, u'sarong', 0.048315734, u'comic_book', 0.045417007]
+[u'bolo_tie', 0.28262216, u'sock', 0.081381589, u'wardrobe', 0.07204511, u'jean', 0.067265019, u'ski', 0.042026184]
+[u'nipple', 0.17144495, u'clog', 0.089010186, u'water_bottle', 0.051105406, u'can_opener', 0.041297708, u'remote_control', 0.039438639]
+[u'vending_machine', 0.049969707, u'running_shoe', 0.046265468, u'mask', 0.036075145, u'abaya', 0.03019724, u'web_site', 0.029642615]
+[u'jean', 0.11199304, u'hair_spray', 0.057302654, u'Polaroid_camera', 0.040320184, u'pajama', 0.038513914, u'cellular_telephone', 0.037102882]

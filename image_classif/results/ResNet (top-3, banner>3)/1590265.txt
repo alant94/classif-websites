@@ -1,0 +1,4 @@
+[u'diaper', 0.1831442, u'syringe', 0.12357094, u'piggy_bank', 0.099826872]
+[u'maillot', 0.50016266, u'bikini', 0.34246132, u'maillot', 0.079341032]
+[u'brassiere', 0.18552916, u'diaper', 0.11116902, u'swimming_trunks', 0.10892726]
+[u'balance_beam', 0.14151406, u'swimming_trunks', 0.12596849, u'bathing_cap', 0.1157738]

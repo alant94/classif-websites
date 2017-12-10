@@ -1,0 +1,4 @@
+[u'ski', 0.51922756, u'bearskin', 0.34922343, u'military_uniform', 0.063308276, u'bow', 0.0212685, u'unicycle', 0.0062348973]
+[u'academic_gown', 0.17341451, u'vestment', 0.15319607, u'torch', 0.11325492, u'mortarboard', 0.083622269, u'lab_coat', 0.068831086]
+[u'comic_book', 0.31103072, u'web_site', 0.081856832, u'ocarina', 0.028459968, u'pick', 0.02203298, u'Band_Aid', 0.018410718]
+[u'stole', 0.31493208, u'butcher_shop', 0.20258501, u'poncho', 0.087989889, u'sarong', 0.071589194, u'wool', 0.031124681]

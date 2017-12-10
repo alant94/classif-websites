@@ -1,0 +1,8 @@
+[u'digital_clock', 0.09556406, u'envelope', 0.085468978, u'container_ship', 0.074259713, u'switch', 0.058040608, u'wall_clock', 0.05624067]
+[u'cash_machine', 0.30314061, u'envelope', 0.14967144, u'digital_watch', 0.046334818, u'digital_clock', 0.041545674, u'picket_fence', 0.029548055]
+[u'electric_guitar', 0.84835422, u'acoustic_guitar', 0.033165727, u'Christmas_stocking', 0.025342979, u'sewing_machine', 0.018315697, u'can_opener', 0.0075747622]
+[u'stove', 0.47246295, u'espresso_maker', 0.12240279, u'scale', 0.11707546, u'switch', 0.091426611, u'radio', 0.024067234]
+[u'maze', 0.11750799, u'cash_machine', 0.057455339, u'Christmas_stocking', 0.036395214, u'picket_fence', 0.031881556, u'wall_clock', 0.030595029]
+[u'book_jacket', 0.18896031, u'ski', 0.17227213, u'stage', 0.093397737, u'snowmobile', 0.081631556, u'crane', 0.045045942]
+[u'modem', 0.077887736, u'cassette', 0.074517198, u'pencil_sharpener', 0.061787855, u'harmonica', 0.053367067, u'rubber_eraser', 0.052794792]
+[u'remote_control', 0.20729192, u'iPod', 0.18494651, u'web_site', 0.17397711, u'cellular_telephone', 0.057227653, u'hand-held_computer', 0.040027976]

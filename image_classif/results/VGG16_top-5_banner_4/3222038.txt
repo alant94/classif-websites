@@ -1,0 +1,3 @@
+[u'screwdriver', 0.16275308, u'whistle', 0.078142822, u"carpenter's_kit", 0.074101955, u'spatula', 0.066206753, u'ballpoint', 0.045621816]
+[u'schooner', 0.40283257, u'analog_clock', 0.28154418, u'sundial', 0.090375587, u'pirate', 0.049918611, u'church', 0.043714903]
+[u'cinema', 0.36216727, u'library', 0.13965763, u'planetarium', 0.030494995, u'boathouse', 0.026779773, u'mobile_home', 0.01977353]

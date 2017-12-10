@@ -1,0 +1,3 @@
+[u'flagpole', 0.97713065, u'pole', 0.0083942665, u'schooner', 0.0023510901]
+[u'picket_fence', 0.34874931, u'candle', 0.14574711, u'matchstick', 0.077523567]
+[u'schooner', 0.28752592, u'fountain', 0.20252021, u'church', 0.15229811]

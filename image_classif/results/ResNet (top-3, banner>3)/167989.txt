@@ -1,0 +1,4 @@
+[u'envelope', 0.30491704, u'web_site', 0.071058393, u'bannister', 0.056818802]
+[u'prayer_rug', 0.21293162, u'digital_clock', 0.18081564, u'cash_machine', 0.038911629]
+[u'traffic_light', 0.33389366, u'street_sign', 0.26039574, u'prayer_rug', 0.083451524]
+[u'microphone', 0.22178619, u'wig', 0.20056021, u'chain_mail', 0.13540448]

@@ -1,0 +1,2 @@
+[u'Indian_elephant', 0.87126726, u'African_elephant', 0.073561251, u'tusker', 0.020136436]
+[u'tub', 0.57625598, u'swimming_trunks', 0.16110246, u'bathtub', 0.15935211]

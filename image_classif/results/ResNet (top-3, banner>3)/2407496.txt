@@ -1,0 +1,7 @@
+[u'web_site', 0.14291565, u'digital_clock', 0.089318447, u'analog_clock', 0.069756359]
+[u'hair_spray', 0.24155623, u'red_wine', 0.14505564, u'milk_can', 0.079054385]
+[u'digital_watch', 0.065938734, u'spotlight', 0.055785447, u'water_bottle', 0.053629007]
+[u'web_site', 0.71118391, u'perfume', 0.01569457, u'iron', 0.009205576]
+[u'knot', 0.29851976, u'web_site', 0.23927814, u'hair_slide', 0.05492755]
+[u'web_site', 0.23980011, u'binder', 0.10312145, u'packet', 0.037455443]
+[u'digital_clock', 0.89580113, u'analog_clock', 0.027786439, u'web_site', 0.024559362]

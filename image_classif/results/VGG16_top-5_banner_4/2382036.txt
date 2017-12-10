@@ -1,0 +1,2 @@
+[u'screwdriver', 0.4591037, u"carpenter's_kit", 0.39361644, u'safety_pin', 0.019141695, u'whistle', 0.017770104, u'letter_opener', 0.010590401]
+[u'pill_bottle', 0.96154046, u'syringe', 0.013231941, u'beer_glass', 0.0046142605, u'beer_bottle', 0.0033105446, u'slide_rule', 0.002531369]

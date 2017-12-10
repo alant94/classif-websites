@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.88385046, u'picket_fence', 0.028475208, u'book_jacket', 0.011024412, u'space_shuttle', 0.0050129653, u'jigsaw_puzzle', 0.0043133311]
+[u'grand_piano', 0.53964227, u'upright', 0.083961748, u'lampshade', 0.057070442, u'matchstick', 0.035235267, u'pencil_sharpener', 0.033881515]
+[u'web_site', 0.62350148, u'menu', 0.23871422, u'binder', 0.081831239, u'envelope', 0.020387966, u'screen', 0.0081344508]
+[u'lampshade', 0.17163391, u'grand_piano', 0.1538097, u'upright', 0.085760795, u'dial_telephone', 0.069436967, u'spotlight', 0.04926258]
+[u'web_site', 0.69349122, u'menu', 0.15238848, u'binder', 0.10328776, u'envelope', 0.014163136, u'screen', 0.0085533028]
+[u'envelope', 0.54494059, u'menu', 0.44549048, u'carton', 0.0036691239, u'web_site', 0.0023924403, u'paper_towel', 0.00085397885]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.15935597, u'toyshop', 0.12349179, u'altar', 0.081946693, u'jigsaw_puzzle', 0.079853512, u'screen', 0.056363747]
+[u'paddlewheel', 0.1938215, u'fireboat', 0.088846341, u'street_sign', 0.049778741, u'streetcar', 0.043865487, u'dock', 0.031099105]
+[u'book_jacket', 0.92432868, u'web_site', 0.033526793, u'comic_book', 0.010320598, u'hair_spray', 0.0048916666, u'perfume', 0.0010346008]

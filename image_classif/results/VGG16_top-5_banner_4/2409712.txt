@@ -1,0 +1,8 @@
+[u'packet', 0.26094088, u'pill_bottle', 0.098388359, u'envelope', 0.068707213, u'perfume', 0.067866482, u'mousetrap', 0.051441435]
+[u'picket_fence', 0.30948997, u'castle', 0.11879366, u'candle', 0.10419901, u'palace', 0.04081377, u"carpenter's_kit", 0.035941202]
+[u'crate', 0.24447839, u'wardrobe', 0.14801589, u'carton', 0.044305068, u'desk', 0.03923456, u'bookcase', 0.037847374]
+[u'vase', 0.20695736, u'barrel', 0.11226299, u'water_jug', 0.066131048, u'saltshaker', 0.051738746, u'candle', 0.051494464]
+[u'mailbox', 0.4147878, u'cash_machine', 0.13423005, u'safe', 0.080627821, u'pay-phone', 0.066676259, u'medicine_chest', 0.042817891]
+[u'snowplow', 0.17617896, u'Polaroid_camera', 0.060797624, u'half_track', 0.049607854, u'can_opener', 0.041559603, u'projector', 0.040762473]
+[u'nipple', 0.91006154, u'pill_bottle', 0.034539882, u'water_jug', 0.015437765, u'measuring_cup', 0.0087949065, u'water_bottle', 0.0057585081]
+[u'container_ship', 0.8463822, u'pill_bottle', 0.011569935, u'barrel', 0.011059236, u'book_jacket', 0.010633129, u'scoreboard', 0.0092332819]

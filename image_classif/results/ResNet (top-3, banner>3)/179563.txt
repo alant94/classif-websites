@@ -1,0 +1,6 @@
+[u'web_site', 0.12022269, u'screw', 0.05909647, u'hair_slide', 0.049376663]
+[u'nipple', 0.15927206, u'ping-pong_ball', 0.091593876, u'thimble', 0.056514122]
+[u'crossword_puzzle', 0.58366519, u'comic_book', 0.079799525, u'scoreboard', 0.054201841]
+[u'pick', 0.17390315, u'scoreboard', 0.090302058, u'electric_guitar', 0.032408014]
+[u'frying_pan', 0.0961539, u'face_powder', 0.049203169, u'loudspeaker', 0.04167188]
+[u'hair_slide', 0.32376269, u'plate_rack', 0.22671317, u'chain_saw', 0.069242656]

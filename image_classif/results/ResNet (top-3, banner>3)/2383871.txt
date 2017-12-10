@@ -1,0 +1,4 @@
+[u'umbrella', 0.23340915, u'wardrobe', 0.13954906, u'ski', 0.08945094]
+[u'totem_pole', 0.26405895, u'orangutan', 0.030160822, u'mask', 0.028391868]
+[u'spider_web', 0.097994424, u'car_mirror', 0.062701896, u'fountain', 0.059047442]
+[u'fountain', 0.58460832, u'African_grey', 0.062662013, u'pelican', 0.050005082]

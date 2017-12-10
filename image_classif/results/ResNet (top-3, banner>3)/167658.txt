@@ -1,0 +1,5 @@
+[u'monitor', 0.26878121, u'screen', 0.16492261, u'television', 0.1557626]
+[u'stage', 0.86081916, u'theater_curtain', 0.052238092, u'planetarium', 0.034486659]
+[u'digital_clock', 0.47406819, u'digital_watch', 0.10991465, u'toaster', 0.085062727]
+[u'bookcase', 0.8336578, u'book_jacket', 0.074684106, u'comic_book', 0.020862134]
+[u'digital_clock', 0.5287286, u'digital_watch', 0.25604001, u'analog_clock', 0.015271026]

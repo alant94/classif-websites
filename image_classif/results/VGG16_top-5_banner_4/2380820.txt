@@ -1,0 +1,1 @@
+[u'minibus', 0.16521458, u'moving_van', 0.072556481, u'gas_pump', 0.052876327, u'garbage_truck', 0.052277595, u'recreational_vehicle', 0.04993242]

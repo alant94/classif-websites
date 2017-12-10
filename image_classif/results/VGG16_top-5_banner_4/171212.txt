@@ -1,0 +1,1 @@
+[u'bobsled', 0.25067902, u'canoe', 0.10679034, u'carousel', 0.033083491, u'gondola', 0.028505899, u'mountain_tent', 0.028432798]

@@ -1,0 +1,2 @@
+[u'sliding_door', 0.1054074, u'window_shade', 0.10247466, u'picket_fence', 0.051863849, u'bannister', 0.050347473, u'crib', 0.043843903]
+[u"jack-o'-lantern", 0.77128589, u'cinema', 0.040322829, u'church', 0.038923286, u'maze', 0.031216945, u'digital_clock', 0.02430629]

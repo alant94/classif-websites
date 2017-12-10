@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.47556683, u'can_opener', 0.13331707, u'soap_dispenser', 0.13188393]
+[u'jersey', 0.39460987, u'sweatshirt', 0.12366702, u'balloon', 0.033680197]
+[u'wig', 0.076371022, u'stole', 0.076135516, u'fur_coat', 0.055690832]
+[u'stethoscope', 0.91842377, u'oil_filter', 0.015088479, u'electric_fan', 0.0088746287]

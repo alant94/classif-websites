@@ -1,0 +1,4 @@
+[u'oil_filter', 0.74177849, u'space_heater', 0.067753784, u'dumbbell', 0.039501667]
+[u'hair_spray', 0.13948654, u'perfume', 0.055474598, u'barbershop', 0.051437352]
+[u'fountain', 0.37789315, u'sundial', 0.13778488, u'killer_whale', 0.096911415]
+[u'iPod', 0.33376449, u'padlock', 0.25565949, u'cellular_telephone', 0.090551414]

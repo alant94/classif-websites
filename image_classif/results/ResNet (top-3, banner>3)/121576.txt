@@ -1,0 +1,4 @@
+[u'envelope', 0.33149379, u'web_site', 0.10401759, u'abaya', 0.033033576]
+[u'web_site', 0.40978223, u'envelope', 0.071133487, u'red_wine', 0.048563141]
+[u'bubble', 0.48810649, u'coil', 0.18957166, u'shield', 0.072871469]
+[u'web_site', 0.12656859, u'cleaver', 0.04046201, u'quill', 0.028850012]

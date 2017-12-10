@@ -1,0 +1,4 @@
+[u'web_site', 0.7958079, u'book_jacket', 0.03281983, u'packet', 0.027991099, u'pick', 0.013967476, u'cassette', 0.013402767]
+[u'hatchet', 0.077966288, u'envelope', 0.051198337, u'nail', 0.042650882, u'matchstick', 0.041995585, u'rubber_eraser', 0.03072227]
+[u'hook', 0.61606443, u'cornet', 0.091071643, u'corkscrew', 0.045589596, u'safety_pin', 0.042997461, u'can_opener', 0.02140633]
+[u'rule', 0.33263725, u'nail', 0.18603182, u'screw', 0.059284497, u'screwdriver', 0.050160669, u'safety_pin', 0.030083558]

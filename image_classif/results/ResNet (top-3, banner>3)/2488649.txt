@@ -1,0 +1,5 @@
+[u'hartebeest', 0.1058831, u'assault_rifle', 0.088024914, u'impala', 0.086892217]
+[u'restaurant', 0.45488998, u'barbershop', 0.36427274, u'barber_chair', 0.04006261]
+[u'bison', 0.5226444, u'ox', 0.095864668, u'fire_screen', 0.03817936]
+[u'Bouvier_des_Flandres', 0.33762375, u'half_track', 0.32600856, u'jeep', 0.049223874]
+[u'shield', 0.086207122, u'black_grouse', 0.042879418, u'basset', 0.038128741]

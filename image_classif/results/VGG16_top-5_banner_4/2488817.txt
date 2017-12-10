@@ -1,0 +1,6 @@
+[u'hartebeest', 0.64179808, u'warthog', 0.12534682, u'impala', 0.075348124, u'water_buffalo', 0.030445222, u'gazelle', 0.025901141]
+[u'oxcart', 0.37245783, u'ox', 0.2683115, u'hartebeest', 0.16242951, u'plow', 0.13886973, u'gazelle', 0.020380033]
+[u'hartebeest', 0.99766684, u'impala', 0.0019390684, u'gazelle', 0.00033206434, u'plow', 2.0582067e-05, u'sorrel', 1.8071743e-05]
+[u'monastery', 0.16719164, u'castle', 0.079551101, u'lakeside', 0.043938264, u'prison', 0.043559697, u'patio', 0.041407268]
+[u'hartebeest', 0.29356286, u'oxcart', 0.18914533, u'ox', 0.15418376, u'gazelle', 0.090433776, u'plow', 0.07248009]
+[u'patio', 0.22493753, u'park_bench', 0.11999287, u'obelisk', 0.087251902, u'thatch', 0.065048642, u'greenhouse', 0.060195342]

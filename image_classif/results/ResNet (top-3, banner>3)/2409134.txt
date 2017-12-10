@@ -1,0 +1,4 @@
+[u'web_site', 0.29876691, u'screen', 0.1269459, u'monitor', 0.12577759]
+[u'turnstile', 0.41293392, u'abacus', 0.2249667, u'bakery', 0.046071135]
+[u'fire_engine', 0.11567055, u'lighter', 0.075977772, u'binder', 0.057409476]
+[u'web_site', 0.12170177, u'street_sign', 0.11495228, u'traffic_light', 0.096536838]

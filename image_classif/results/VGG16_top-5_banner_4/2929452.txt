@@ -1,0 +1,7 @@
+[u'pick', 0.091872118, u'web_site', 0.05748133, u'envelope', 0.046580777, u'puck', 0.044891343, u'Band_Aid', 0.031988055]
+[u'container_ship', 0.39188272, u'beacon', 0.2844137, u'switch', 0.11516574, u'breakwater', 0.041928142, u'bell_cote', 0.017274391]
+[u'traffic_light', 0.18701272, u'maze', 0.07816039, u'digital_clock', 0.059198923, u'beacon', 0.051142283, u'coil', 0.046709504]
+[u'cleaver', 0.016981488, u'envelope', 0.016228551, u'can_opener', 0.010737197, u'face_powder', 0.010037366, u'corkscrew', 0.010016217]
+[u'traffic_light', 0.89072466, u'crane', 0.017199369, u'bell_cote', 0.010977529, u'street_sign', 0.010276414, u'airship', 0.0087358225]
+[u'jersey', 0.99975544, u'sweatshirt', 0.00024433335, u'maillot', 1.2425572e-07, u'pajama', 2.5267948e-08, u'sarong', 7.0357529e-09]
+[u'sweatshirt', 0.14448084, u'jersey', 0.090808272, u'electric_guitar', 0.046782807, u'tricycle', 0.041472711, u'knee_pad', 0.039615359]

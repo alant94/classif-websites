@@ -1,0 +1,3 @@
+[u'screen', 0.21372859, u'cash_machine', 0.20497409, u'book_jacket', 0.059374884, u'binder', 0.041416425, u'parking_meter', 0.036762413]
+[u'alp', 0.41642383, u'geyser', 0.19933148, u'valley', 0.075289965, u'castle', 0.048380233, u'lakeside', 0.042335644]
+[u'book_jacket', 0.28242207, u'cash_machine', 0.11448358, u'scoreboard', 0.05752971, u'screen', 0.053958796, u'packet', 0.044737104]

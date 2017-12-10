@@ -1,0 +1,7 @@
+[u'gas_pump', 0.166682, u'street_sign', 0.1099699, u'mailbox', 0.078235425, u'cash_machine', 0.072087117, u'traffic_light', 0.068428993]
+[u'web_site', 0.32982796, u'analog_clock', 0.097694278, u'envelope', 0.07476788, u'bell_cote', 0.066765264, u'maze', 0.027747851]
+[u'web_site', 0.029948525, u'lighter', 0.027214095, u'matchstick', 0.02352152, u'nail', 0.02113943, u'envelope', 0.019095708]
+[u'groom', 0.86872101, u'gown', 0.062243715, u'overskirt', 0.036641341, u'kimono', 0.0079924911, u'hoopskirt', 0.0052169878]
+[u'street_sign', 0.36257312, u'gas_pump', 0.08019387, u'traffic_light', 0.054980706, u'cash_machine', 0.038585033, u'scale', 0.037384167]
+[u'sax', 0.043555148, u'crane', 0.035746533, u'abaya', 0.035448652, u'matchstick', 0.031570867, u'envelope', 0.022576975]
+[u'combination_lock', 0.31622735, u'scoreboard', 0.15789299, u'cash_machine', 0.11778209, u'gas_pump', 0.078894004, u'jersey', 0.042731933]

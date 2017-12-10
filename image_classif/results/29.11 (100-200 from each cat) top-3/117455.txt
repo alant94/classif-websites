@@ -1,0 +1,6 @@
+[u'television', 0.41857705, u'screen', 0.29594332, u'digital_clock', 0.028341819]
+[u'chain_saw', 0.10918446, u'rapeseed', 0.068787016, u'hair_spray', 0.035839934]
+[u'digital_clock', 0.64886242, u'digital_watch', 0.21732427, u'rule', 0.037648749]
+[u'digital_clock', 0.2023856, u'web_site', 0.18519877, u'digital_watch', 0.17689562]
+[u'bannister', 0.18171191, u'rule', 0.1634527, u'web_site', 0.13121749]
+[u'screen', 0.085623294, u'digital_clock', 0.04456966, u'strainer', 0.043606222]

@@ -1,0 +1,6 @@
+[u'stopwatch', 0.31319529, u'digital_clock', 0.15302543, u'analog_clock', 0.12053136, u'pick', 0.064640559, u'digital_watch', 0.049638219]
+[u'matchstick', 0.16435894, u'fountain', 0.095035568, u'mousetrap', 0.062956475, u'harp', 0.057955015, u'oscilloscope', 0.047220942]
+[u'ping-pong_ball', 0.3007457, u'volleyball', 0.12267685, u'puck', 0.079805121, u'soccer_ball', 0.076879628, u'bottlecap', 0.055027865]
+[u'vending_machine', 0.99429882, u'web_site', 0.0023922459, u'cash_machine', 0.00074948854, u'cassette', 0.00049430993, u'slot', 0.00047195415]
+[u'rubber_eraser', 0.15347928, u'quill', 0.1363682, u'ballpoint', 0.089105196, u'drumstick', 0.068185307, u'paintbrush', 0.064726755]
+[u'web_site', 0.173861, u'hand-held_computer', 0.098905459, u'cassette_player', 0.082744829, u'cassette', 0.076259233, u'tape_player', 0.072690353]

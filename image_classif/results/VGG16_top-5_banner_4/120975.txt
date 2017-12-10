@@ -1,0 +1,1 @@
+[u'bottlecap', 0.33678794, u'abacus', 0.19464095, u'slot', 0.09115506, u'vending_machine', 0.084538214, u'confectionery', 0.068013534]

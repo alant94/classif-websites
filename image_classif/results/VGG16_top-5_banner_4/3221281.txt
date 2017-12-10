@@ -1,0 +1,3 @@
+[u'sunscreen', 0.17430085, u'jersey', 0.065167755, u'whiskey_jug', 0.05884679, u'book_jacket', 0.053141192, u'pick', 0.048463516]
+[u'comic_book', 0.22935922, u'book_jacket', 0.20994562, u'web_site', 0.182374, u'wardrobe', 0.030276224, u'shower_curtain', 0.024958042]
+[u'altar', 0.11206689, u'wine_bottle', 0.10821675, u'candle', 0.037586566, u'vestment', 0.035912585, u'torch', 0.032935072]

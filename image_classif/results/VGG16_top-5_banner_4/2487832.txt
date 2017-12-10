@@ -1,0 +1,2 @@
+[u'book_jacket', 0.30462146, u'apron', 0.079445861, u'carton', 0.045409437, u'beaker', 0.027840408, u'mosquito_net', 0.027165169]
+[u'hen-of-the-woods', 0.40523562, u'conch', 0.063381024, u'mushroom', 0.061030205, u'space_shuttle', 0.023407485, u'redshank', 0.017549532]

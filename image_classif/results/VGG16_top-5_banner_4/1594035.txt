@@ -1,0 +1,4 @@
+[u'organ', 0.14339475, u'lumbermill', 0.12152022, u'vault', 0.083182588, u'barrel', 0.064197198, u'library', 0.036288232]
+[u'gasmask', 0.42158365, u'mask', 0.16785903, u'ski_mask', 0.083204888, u'oxygen_mask', 0.052393954, u'hourglass', 0.025711322]
+[u'bathing_cap', 0.28916994, u'mortarboard', 0.27493498, u'military_uniform', 0.083705746, u'academic_gown', 0.076333806, u'suit', 0.02643594]
+[u'spotlight', 0.14469571, u'oscilloscope', 0.056990504, u'container_ship', 0.028757002, u'tobacco_shop', 0.026144234, u'syringe', 0.025493564]

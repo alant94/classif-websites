@@ -1,0 +1,8 @@
+[u'book_jacket', 0.1612902, u'hair_spray', 0.069772385, u'crossword_puzzle', 0.068881691, u'web_site', 0.068053812, u'shower_curtain', 0.067718521]
+[u'screwdriver', 0.34869143, u'lipstick', 0.22933741, u'beer_bottle', 0.044031315, u"carpenter's_kit", 0.028372714, u'hair_spray', 0.025066126]
+[u'nipple', 0.4354957, u'pill_bottle', 0.18287614, u'lotion', 0.13441519, u'water_bottle', 0.1240849, u'hair_spray', 0.0382073]
+[u'lotion', 0.30128789, u'hair_spray', 0.27841732, u'perfume', 0.13221221, u'tobacco_shop', 0.048428528, u'pill_bottle', 0.028344177]
+[u'hair_spray', 0.25081372, u'screwdriver', 0.18929182, u'wine_bottle', 0.077394664, u"carpenter's_kit", 0.065128416, u'ballpoint', 0.048002034]
+[u'pill_bottle', 0.88232875, u'water_bottle', 0.040944871, u'lotion', 0.033313949, u'nipple', 0.017828425, u'water_jug', 0.0062991674]
+[u'oil_filter', 0.1736605, u'lotion', 0.10321575, u'pill_bottle', 0.080147661, u'candle', 0.076638721, u'sunscreen', 0.062570594]
+[u'bow', 0.4101913, u'rifle', 0.17212307, u'assault_rifle', 0.062494561, u'hatchet', 0.04122708, u'cleaver', 0.028449384]

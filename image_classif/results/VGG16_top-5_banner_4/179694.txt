@@ -1,0 +1,5 @@
+[u'fountain', 0.17062914, u'hip', 0.087912053, u'spider_web', 0.083413996, u'chainlink_fence', 0.083283797, u'picket_fence', 0.073537797]
+[u'maze', 0.37884673, u'valley', 0.19538645, u'stone_wall', 0.1525628, u'sleeping_bag', 0.045936536, u'mountain_tent', 0.044559196]
+[u'pick', 0.99998724, u'mitten', 1.0349156e-05, u'puck', 7.1553552e-07, u'spatula', 4.4873596e-07, u'Band_Aid', 3.4582135e-07]
+[u'trailer_truck', 0.14559795, u'lakeside', 0.094256014, u'crane', 0.087632671, u'dam', 0.035619844, u'boathouse', 0.029355492]
+[u'binder', 0.41592041, u'book_jacket', 0.098773934, u'packet', 0.085090488, u'comic_book', 0.084702112, u'lotion', 0.067885943]

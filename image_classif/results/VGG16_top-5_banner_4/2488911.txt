@@ -1,0 +1,1 @@
+[u'cougar', 0.9985258, u'lynx', 0.0010752017, u'wallaby', 0.00024565426, u'Madagascar_cat', 3.5551344e-05, u'lion', 3.5419704e-05]

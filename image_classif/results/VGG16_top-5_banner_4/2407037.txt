@@ -1,0 +1,8 @@
+[u'monastery', 0.19231085, u'throne', 0.11901153, u'altar', 0.11414586, u'palace', 0.072808102, u'restaurant', 0.060226385]
+[u'candle', 0.37086818, u'cup', 0.085835725, u'groom', 0.08062759, u'gown', 0.042975202, u'theater_curtain', 0.031331614]
+[u'mosque', 0.39135224, u'palace', 0.10089728, u'church', 0.075410984, u'dome', 0.069731921, u'boathouse', 0.060974002]
+[u'oscilloscope', 0.46936533, u'book_jacket', 0.064423911, u'knot', 0.058149777, u'analog_clock', 0.035021212, u'nematode', 0.028316151]
+[u'spotlight', 0.1333936, u'stage', 0.09489128, u'cinema', 0.071487084, u'fountain', 0.052832857, u'greenhouse', 0.03726216]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'bottlecap', 0.92861384, u'stopwatch', 0.0082166968, u'spotlight', 0.0071831485, u'loupe', 0.0037221855, u'flatworm', 0.0031452146]
+[u'palace', 0.4874377, u'castle', 0.28772432, u'church', 0.079168878, u'monastery', 0.062232044, u'fountain', 0.025966804]

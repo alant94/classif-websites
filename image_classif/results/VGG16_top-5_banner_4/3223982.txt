@@ -1,0 +1,8 @@
+[u'crane', 0.25351378, u'screwdriver', 0.2054249, u'dock', 0.054892696, u'barbell', 0.054340638, u'screw', 0.051322568]
+[u'screwdriver', 0.27625203, u'crane', 0.18556699, u'dock', 0.059179746, u'barbell', 0.053158175, u'screw', 0.048826296]
+[u'screwdriver', 0.34367964, u'dock', 0.11801556, u'crane', 0.116898, u'screw', 0.087686494, u'syringe', 0.023309192]
+[u'screwdriver', 0.52954686, u'screw', 0.079049528, u"carpenter's_kit", 0.07109198, u'barbell', 0.034730338, u'dumbbell', 0.024400471]
+[u'screwdriver', 0.30120584, u'crane', 0.1381626, u'screw', 0.085073404, u'barbell', 0.059181105, u'dock', 0.05075065]
+[u'screwdriver', 0.44928196, u'screw', 0.16086468, u'dock', 0.049033076, u'crane', 0.043093096, u'nail', 0.037314955]
+[u'screwdriver', 0.53454196, u'screw', 0.07185749, u'crane', 0.043232106, u'dock', 0.03320349, u'nail', 0.031247828]
+[u'screwdriver', 0.26071197, u'crane', 0.17494796, u'dock', 0.093127236, u'pole', 0.025179017, u'syringe', 0.025176713]

@@ -1,0 +1,4 @@
+[u'web_site', 0.37965459, u'stopwatch', 0.066944152, u'digital_clock', 0.058448594]
+[u'nematode', 0.065569445, u'golf_ball', 0.064101771, u'analog_clock', 0.049375139]
+[u'nematode', 0.065569445, u'golf_ball', 0.064101771, u'analog_clock', 0.049375139]
+[u'web_site', 0.081294492, u'shower_curtain', 0.048003566, u'garbage_truck', 0.044447746]

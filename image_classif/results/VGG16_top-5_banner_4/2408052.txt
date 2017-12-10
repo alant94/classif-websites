@@ -1,0 +1,4 @@
+[u'cliff', 0.89082003, u'promontory', 0.032261532, u'dam', 0.026027307, u'cliff_dwelling', 0.012750723, u'valley', 0.0088836728]
+[u'monitor', 0.15532978, u'screen', 0.097804792, u'television', 0.094899952, u'car_mirror', 0.061832104, u'suspension_bridge', 0.0496049]
+[u'cassette', 0.086597927, u'mask', 0.079272382, u'wallet', 0.049479276, u'loupe', 0.041946169, u'bonnet', 0.041435584]
+[u'wallet', 0.2975952, u'book_jacket', 0.10189453, u'wardrobe', 0.084472969, u'purse', 0.051397581, u'envelope', 0.030762631]

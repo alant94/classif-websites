@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.1242589, u'marimba', 0.11286862, u'altar', 0.069095723, u'stage', 0.064256221, u'feather_boa', 0.033614017]
+[u'monastery', 0.45630237, u'mosque', 0.3275905, u'church', 0.045432556, u'dome', 0.038979374, u'stupa', 0.038355261]
+[u'suit', 0.17128991, u'shower_curtain', 0.12960751, u'cardigan', 0.10607968, u'abaya', 0.06797868, u'Windsor_tie', 0.05117587]
+[u'cinema', 0.92851198, u'street_sign', 0.052192874, u'barbershop', 0.0055450485, u'menu', 0.0026215718, u'bakery', 0.0019782248]
+[u'coil', 0.13954401, u'knot', 0.11932315, u'maze', 0.063118629, u'envelope', 0.041958731, u'horned_viper', 0.039998792]

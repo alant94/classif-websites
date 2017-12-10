@@ -1,0 +1,2 @@
+[u'carton', 0.12388659, u'envelope', 0.0994597, u'beacon', 0.090794735, u'candle', 0.034904897, u'book_jacket', 0.033532023]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

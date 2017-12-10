@@ -1,0 +1,2 @@
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'envelope', 0.25668576, u'rubber_eraser', 0.091011547, u'jersey', 0.066004768, u'web_site', 0.063518457, u'lighter', 0.024931373]

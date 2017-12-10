@@ -1,0 +1,5 @@
+[u'spotlight', 0.85244232, u'strainer', 0.064927772, u'ladle', 0.027875971]
+[u'worm_fence', 0.32886371, u'hamster', 0.13202414, u'fox_squirrel', 0.12879889]
+[u'Yorkshire_terrier', 0.5501976, u'Shih-Tzu', 0.37037289, u'silky_terrier', 0.023710204]
+[u'television', 0.30291677, u'monitor', 0.26794997, u'groom', 0.066028498]
+[u'web_site', 0.6981706, u'menu', 0.22442733, u'slot', 0.02343612]

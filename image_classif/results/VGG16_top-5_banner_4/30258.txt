@@ -1,0 +1,3 @@
+[u'picket_fence', 0.86048728, u'matchstick', 0.013353383, u'worm_fence', 0.0085024657, u'wall_clock', 0.005780091, u'analog_clock', 0.0039925687]
+[u'church', 0.40211689, u'bell_cote', 0.27888775, u'monastery', 0.10864515, u'castle', 0.020591859, u'palace', 0.018653309]
+[u'picket_fence', 0.41735241, u'crossword_puzzle', 0.040864553, u'wall_clock', 0.032316983, u'book_jacket', 0.027284831, u'rule', 0.024767291]

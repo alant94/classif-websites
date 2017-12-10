@@ -1,0 +1,3 @@
+[u'aircraft_carrier', 0.83772409, u'jigsaw_puzzle', 0.028793018, u'chain', 0.023135003, u'hair_slide', 0.015383832, u'drilling_platform', 0.010602891]
+[u'screw', 0.90891701, u'nail', 0.067671701, u'syringe', 0.0027477569, u'screwdriver', 0.0027253442, u'warplane', 0.001374507]
+[u'medicine_chest', 0.28833374, u'wall_clock', 0.15014927, u'entertainment_center', 0.11271279, u'television', 0.071084827, u'monitor', 0.061441015]

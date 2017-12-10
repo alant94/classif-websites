@@ -1,0 +1,5 @@
+[u'stage', 0.076319948, u'brassiere', 0.049933247, u'theater_curtain', 0.045108158, u'feather_boa', 0.032931313, u'miniskirt', 0.02688683]
+[u'stage', 0.10823857, u'park_bench', 0.091425903, u'harmonica', 0.043153584, u'panpipe', 0.040462021, u'accordion', 0.040077694]
+[u'web_site', 0.82171756, u'menu', 0.029254988, u'envelope', 0.014920156, u'iPod', 0.0092562716, u'notebook', 0.0058926172]
+[u'Christmas_stocking', 0.21853237, u'teddy', 0.090937823, u'bath_towel', 0.056698278, u'pencil_box', 0.032068856, u'pajama', 0.029826095]
+[u'pug', 0.18176128, u'sombrero', 0.075940788, u'bow_tie', 0.061354935, u'miniature_pinscher', 0.057922814, u'ski_mask', 0.03933404]

@@ -1,0 +1,4 @@
+[u'cougar', 0.10974453, u'warthog', 0.09754394, u'tiger', 0.050627723, u'Afghan_hound', 0.04895616, u'Irish_wolfhound', 0.039391398]
+[u'dogsled', 0.64220512, u'Chesapeake_Bay_retriever', 0.084389746, u'chain_saw', 0.053227294, u'ski', 0.022790218, u'snowmobile', 0.018224491]
+[u'cougar', 0.63444668, u'ibex', 0.18966466, u'Chesapeake_Bay_retriever', 0.028644368, u'dogsled', 0.012832625, u'wild_boar', 0.012641301]
+[u'book_jacket', 0.4272235, u'comic_book', 0.22828427, u'barrel', 0.07974574, u'pedestal', 0.050229628, u'water_tower', 0.029850587]

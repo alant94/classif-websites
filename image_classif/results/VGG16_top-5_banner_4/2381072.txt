@@ -1,0 +1,4 @@
+[u'perfume', 0.21549325, u'fountain_pen', 0.19736168, u'wine_bottle', 0.18688056, u'hair_spray', 0.065672733, u'lipstick', 0.054307498]
+[u'microphone', 0.25208569, u'hook', 0.069082215, u'whistle', 0.056483582, u'nematode', 0.034376629, u'radio', 0.033900477]
+[u'shoe_shop', 0.52352035, u'sunglasses', 0.11488169, u'sunglass', 0.065540008, u'brassiere', 0.034615204, u'miniskirt', 0.020833287]
+[u'patio', 0.41758776, u'thatch', 0.32271636, u'boathouse', 0.032270942, u'picket_fence', 0.030602679, u'sliding_door', 0.021766428]

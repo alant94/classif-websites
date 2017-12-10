@@ -1,0 +1,3 @@
+[u'iron', 0.28088149, u'rugby_ball', 0.075732656, u'ski', 0.058477674, u'can_opener', 0.057858817, u'toilet_seat', 0.032327272]
+[u'shoji', 0.84229106, u'pajama', 0.015223982, u'kimono', 0.009867168, u'sarong', 0.0087849591, u'swab', 0.0086593581]
+[u'prison', 0.57196611, u'pole', 0.15245195, u'volleyball', 0.049262542, u'cleaver', 0.028131472, u'sliding_door', 0.013670148]

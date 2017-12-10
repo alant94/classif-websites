@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.33927268, u'beaker', 0.079939373, u'digital_clock', 0.076921828]
+[u'digital_watch', 0.043995563, u'screwdriver', 0.036293797, u'scoreboard', 0.029400472]
+[u'medicine_chest', 0.53644121, u'screen', 0.059478689, u'monitor', 0.057904109]
+[u'pier', 0.95546305, u'bannister', 0.015762344, u'viaduct', 0.0078628203]
+[u'digital_clock', 0.07299111, u'ambulance', 0.067756444, u'prayer_rug', 0.044341508]

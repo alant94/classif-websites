@@ -1,0 +1,2 @@
+[u'gown', 0.11121272, u'stole', 0.11121081, u'shower_curtain', 0.075345792, u'velvet', 0.074323609, u'overskirt', 0.065180607]
+[u'web_site', 0.26616776, u'envelope', 0.11229745, u'tray', 0.065909423, u'lighter', 0.031142581, u'perfume', 0.023035428]

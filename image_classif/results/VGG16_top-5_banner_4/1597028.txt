@@ -1,0 +1,8 @@
+[u'maillot', 0.15177196, u'miniskirt', 0.098996066, u'maillot', 0.049242772, u'Italian_greyhound', 0.044928808, u'swimming_trunks', 0.043532752]
+[u'digital_clock', 0.16347514, u'cash_machine', 0.1360867, u'traffic_light', 0.047957189, u'sliding_door', 0.039988764, u'shower_curtain', 0.027829668]
+[u'hook', 0.22693302, u'wall_clock', 0.11460061, u'spatula', 0.084215954, u'ladle', 0.060552299, u'safety_pin', 0.051675677]
+[u'notebook', 0.048895266, u'mouse', 0.040001821, u'spatula', 0.039441451, u'wok', 0.038120165, u'cellular_telephone', 0.034797631]
+[u'perfume', 0.70312506, u'cocktail_shaker', 0.11246256, u'gown', 0.040977206, u'lighter', 0.020166907, u'vacuum', 0.012152086]
+[u'hoopskirt', 0.22038445, u'overskirt', 0.18892865, u'gown', 0.13441531, u'abaya', 0.044746369, u'cloak', 0.028963864]
+[u'seat_belt', 0.47264689, u'sleeping_bag', 0.081329718, u'bassinet', 0.048753615, u'Mexican_hairless', 0.021107901, u'nipple', 0.020493167]
+[u'bath_towel', 0.12204237, u'seat_belt', 0.098098226, u'miniature_pinscher', 0.097782895, u'nipple', 0.058493219, u'Band_Aid', 0.049368154]

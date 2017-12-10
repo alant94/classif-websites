@@ -1,0 +1,5 @@
+[u'comic_book', 0.095202766, u'toyshop', 0.08449392, u'soap_dispenser', 0.044852003, u'pencil_sharpener', 0.039014224, u"jack-o'-lantern", 0.032382973]
+[u'maze', 0.22931701, u'picket_fence', 0.22610307, u'organ', 0.045537028, u'forklift', 0.027457485, u'cinema', 0.022019409]
+[u'comic_book', 0.32177648, u'ocarina', 0.22961549, u'stage', 0.033813439, u'panpipe', 0.022671953, u'shield', 0.020906458]
+[u'book_jacket', 0.25689122, u'comic_book', 0.12105145, u'scoreboard', 0.080285706, u'street_sign', 0.051936302, u'digital_clock', 0.029899979]
+[u'web_site', 0.13109598, u'cellular_telephone', 0.038242318, u'lighter', 0.037597504, u'sunglasses', 0.027047586, u'minibus', 0.026456457]

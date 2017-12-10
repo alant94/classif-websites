@@ -1,0 +1,6 @@
+[u'quill', 0.46158788, u'crossword_puzzle', 0.2812131, u'menu', 0.049127784]
+[u'perfume', 0.84992188, u'iPod', 0.020588432, u'reflex_camera', 0.011631565]
+[u'table_lamp', 0.66618997, u'lampshade', 0.30632859, u'book_jacket', 0.025875516]
+[u'handkerchief', 0.65262091, u'toilet_tissue', 0.14283556, u'bath_towel', 0.13381968]
+[u'menu', 0.22718763, u'modem', 0.10133973, u'book_jacket', 0.08917778]
+[u'web_site', 0.65040916, u'stopwatch', 0.041009661, u'street_sign', 0.039010372]

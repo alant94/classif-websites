@@ -1,0 +1,3 @@
+[u'pick', 0.95404828, u'shield', 0.007083829, u'stopwatch', 0.0053408351, u'whiskey_jug', 0.003501239, u'toilet_seat', 0.0029129451]
+[u'butcher_shop', 0.060803495, u'steel_drum', 0.045701258, u'cleaver', 0.030334746, u'hatchet', 0.027037797, u'gong', 0.026190417]
+[u'cinema', 0.21000086, u'web_site', 0.088542379, u'binder', 0.060130719, u'bookshop', 0.035435162, u'refrigerator', 0.035384487]

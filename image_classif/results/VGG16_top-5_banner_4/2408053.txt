@@ -1,0 +1,3 @@
+[u'space_shuttle', 0.11609999, u"carpenter's_kit", 0.073316351, u'hair_spray', 0.072765395, u'combination_lock', 0.071727723, u'lighter', 0.048511676]
+[u'toilet_seat', 0.59649742, u'pill_bottle', 0.044126082, u'face_powder', 0.036274735, u'spotlight', 0.0301736, u'Petri_dish', 0.024919635]
+[u'power_drill', 0.56523323, u'joystick', 0.14872319, u'tripod', 0.056133032, u'hammer', 0.028985692, u'quill', 0.018676095]

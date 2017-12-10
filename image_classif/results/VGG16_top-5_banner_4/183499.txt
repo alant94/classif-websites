@@ -1,0 +1,7 @@
+[u'schooner', 0.10037021, u'suspension_bridge', 0.067038789, u'shopping_cart', 0.064783268, u'pier', 0.046946123, u'bannister', 0.046270065]
+[u'racket', 0.5992496, u'soccer_ball', 0.16651434, u'miniskirt', 0.038212601, u'volleyball', 0.024980702, u'tennis_ball', 0.023116827]
+[u'tricycle', 0.82547569, u'unicycle', 0.026056856, u'lawn_mower', 0.013233979, u'ice_lolly', 0.012286104, u'soccer_ball', 0.0095352102]
+[u'street_sign', 0.26297411, u'seashore', 0.046594787, u'web_site', 0.033001333, u'traffic_light', 0.02671486, u'swing', 0.024968937]
+[u'puck', 0.85387552, u'football_helmet', 0.017185314, u'ashcan', 0.016324895, u'parking_meter', 0.010600295, u'electric_fan', 0.0086631766]
+[u'bell_cote', 0.163978, u'carton', 0.061598573, u'beacon', 0.03745307, u'picket_fence', 0.035659052, u'chime', 0.033820383]
+[u'unicycle', 0.98004246, u'racket', 0.0086903078, u'volleyball', 0.003193795, u'basketball', 0.0012481427, u'maillot', 0.00095225469]

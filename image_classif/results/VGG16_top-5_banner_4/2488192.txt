@@ -1,0 +1,2 @@
+[u'crane', 0.48409739, u'suspension_bridge', 0.15485391, u'wreck', 0.049251463, u'pier', 0.039121814, u'drilling_platform', 0.030843949]
+[u'kite', 0.30286083, u'hummingbird', 0.17551742, u'black_stork', 0.095864721, u'redshank', 0.082234725, u'red-breasted_merganser', 0.046808772]

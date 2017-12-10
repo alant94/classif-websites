@@ -1,0 +1,3 @@
+[u'collie', 0.1578851, u'Border_collie', 0.1381733, u'book_jacket', 0.13229413, u'borzoi', 0.10802405, u'Cardigan', 0.10641503]
+[u'rule', 0.26689225, u'ballpoint', 0.21881469, u'nail', 0.13061312, u'rubber_eraser', 0.11171272, u'letter_opener', 0.027777424]
+[u'Walker_hound', 0.57556492, u'English_foxhound', 0.12564367, u'basset', 0.095392615, u'beagle', 0.037901159, u'redbone', 0.033233639]

@@ -1,0 +1,2 @@
+[u'quill', 0.16293538, u'corkscrew', 0.077403225, u'wall_clock', 0.06878873, u'screw', 0.059846897, u'can_opener', 0.041540515]
+[u'binder', 0.23151654, u'jersey', 0.097948126, u'comic_book', 0.045193333, u'envelope', 0.04382826, u'book_jacket', 0.036553938]

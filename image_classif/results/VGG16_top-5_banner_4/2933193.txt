@@ -1,0 +1,1 @@
+[u'wig', 0.18785116, u'hair_spray', 0.076810829, u'lab_coat', 0.049185731, u'lipstick', 0.042198583, u'paintbrush', 0.041524336]

@@ -1,0 +1,1 @@
+[u'digital_watch', 0.17443794, u'screen', 0.13418904, u'lotion', 0.052687857, u'cash_machine', 0.035023432, u"carpenter's_kit", 0.034456596]

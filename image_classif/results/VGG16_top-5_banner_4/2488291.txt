@@ -1,0 +1,1 @@
+[u'English_foxhound', 0.7604022, u'beagle', 0.10024638, u'Walker_hound', 0.097336575, u'bluetick', 0.026792208, u'Brittany_spaniel', 0.0038257088]

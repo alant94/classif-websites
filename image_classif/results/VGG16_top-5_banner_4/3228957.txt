@@ -1,0 +1,3 @@
+[u'ballpoint', 0.11252134, u'quill', 0.10659759, u'web_site', 0.086447291, u'letter_opener', 0.083068423, u'binder', 0.065389276]
+[u'web_site', 0.32763493, u'hair_spray', 0.19071704, u'lipstick', 0.11162473, u'lotion', 0.11021363, u'perfume', 0.033128288]
+[u'Band_Aid', 0.14107142, u'wig', 0.1288445, u'hair_spray', 0.094932243, u'bikini', 0.065347791, u'shower_curtain', 0.062906303]

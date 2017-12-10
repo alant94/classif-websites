@@ -1,0 +1,8 @@
+[u'lipstick', 0.41493827, u'lotion', 0.18098187, u'hair_spray', 0.15126736, u'perfume', 0.11739039, u'face_powder', 0.025404988]
+[u'sombrero', 0.070229441, u'shower_cap', 0.055462625, u'cowboy_hat', 0.035700385, u'sweatshirt', 0.032467708, u'sunscreen', 0.02249025]
+[u'rubber_eraser', 0.19523811, u'dumbbell', 0.10685471, u'screw', 0.091541611, u'whistle', 0.06639374, u'carton', 0.057196077]
+[u'book_jacket', 0.27156463, u'puck', 0.17832468, u'barbell', 0.04030624, u'analog_clock', 0.039619301, u'wall_clock', 0.038457293]
+[u'apron', 0.087263487, u'gown', 0.072831526, u'lipstick', 0.072694786, u'maillot', 0.053492621, u'packet', 0.046320919]
+[u'street_sign', 0.78456366, u'traffic_light', 0.017534176, u'lab_coat', 0.012613554, u'bobsled', 0.012014348, u'scoreboard', 0.010107543]
+[u'pajama', 0.84127343, u'apron', 0.11268486, u'candle', 0.025223102, u'maillot', 0.0040825941, u'shower_curtain', 0.001511981]
+[u'comic_book', 0.97618753, u'book_jacket', 0.0091412161, u'jigsaw_puzzle', 0.0042464538, u'slot', 0.0010317209, u'toyshop', 0.0010302471]

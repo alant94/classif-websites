@@ -1,0 +1,2 @@
+[u'envelope', 0.13206847, u'web_site', 0.067214519, u'wardrobe', 0.040426288, u'velvet', 0.031622052, u'Band_Aid', 0.02391053]
+[u'book_jacket', 0.47129861, u'lighter', 0.14214955, u'perfume', 0.04821391, u'packet', 0.039146714, u'face_powder', 0.033508014]

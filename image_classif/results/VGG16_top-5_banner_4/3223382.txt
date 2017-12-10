@@ -1,0 +1,6 @@
+[u'syringe', 0.1963331, u'microphone', 0.15132184, u'oboe', 0.060060993, u'rifle', 0.047931813, u'web_site', 0.044323046]
+[u'cellular_telephone', 0.10795887, u'hair_spray', 0.052179065, u'pay-phone', 0.046571162, u'remote_control', 0.043212425, u'wig', 0.03187985]
+[u'suit', 0.35093525, u'academic_gown', 0.2567299, u'Windsor_tie', 0.11529038, u'vestment', 0.078564398, u'mortarboard', 0.029133938]
+[u'packet', 0.19317512, u'Band_Aid', 0.11851356, u'sunscreen', 0.091211401, u'oil_filter', 0.04182329, u'plastic_bag', 0.041768763]
+[u'seat_belt', 0.13365127, u'wig', 0.034797654, u'Band_Aid', 0.031083683, u'hair_spray', 0.030285027, u'drumstick', 0.027047353]
+[u'coho', 0.47659945, u'sturgeon', 0.12517788, u'sweatshirt', 0.052298702, u'barracouta', 0.044885796, u'gar', 0.032518215]

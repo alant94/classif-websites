@@ -1,0 +1,3 @@
+[u'brassiere', 0.17573129, u'diaper', 0.13068198, u'Band_Aid', 0.12709498, u'dumbbell', 0.040094133, u'lotion', 0.039069034]
+[u'bath_towel', 0.3409979, u'Band_Aid', 0.16522497, u'diaper', 0.16513264, u'bathtub', 0.04757762, u'tub', 0.025657706]
+[u'maillot', 0.25596356, u'maillot', 0.20085981, u'bikini', 0.17156824, u'sunscreen', 0.077531323, u'miniskirt', 0.044268418]

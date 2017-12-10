@@ -1,0 +1,1 @@
+[u'mobile_home', 0.33896354, u'maze', 0.15622485, u'planetarium', 0.13391182, u'patio', 0.048762966, u'boathouse', 0.032775499]

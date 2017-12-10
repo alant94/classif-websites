@@ -1,0 +1,6 @@
+[u'barn', 0.39494827, u'barrel', 0.11192506, u'freight_car', 0.091681615, u'water_tower', 0.031859148, u'barbershop', 0.030812224]
+[u'theater_curtain', 0.63550156, u'wig', 0.055542961, u'stage', 0.044091858, u'wool', 0.030036908, u'wardrobe', 0.027001023]
+[u'cliff', 0.18080424, u'picket_fence', 0.12652922, u'worm_fence', 0.088189326, u'fountain', 0.062838309, u'wreck', 0.044438828]
+[u'comic_book', 0.23957907, u'zebra', 0.057217047, u'street_sign', 0.052154228, u'swab', 0.037398081, u'book_jacket', 0.035403084]
+[u'cliff', 0.16821557, u'fountain', 0.078345135, u'geyser', 0.062274385, u'picket_fence', 0.062262207, u'handkerchief', 0.057676204]
+[u'cliff', 0.39005026, u'fountain', 0.15109438, u'coral_fungus', 0.072499752, u'corn', 0.06839373, u'swab', 0.045051787]

@@ -1,0 +1,2 @@
+[u'lampshade', 0.7138018, u'table_lamp', 0.17831776, u'spotlight', 0.027362633, u'chime', 0.013458897, u'punching_bag', 0.0061684437]
+[u'pencil_sharpener', 0.13829857, u'screw', 0.11794822, u'nail', 0.064217821, u'hook', 0.063073017, u'bighorn', 0.033292152]

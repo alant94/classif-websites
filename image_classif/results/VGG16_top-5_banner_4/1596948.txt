@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.060986351, u'flagpole', 0.057425175, u'street_sign', 0.037594449, u'traffic_light', 0.033876881, u'balloon', 0.028506022]

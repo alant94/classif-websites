@@ -1,0 +1,3 @@
+[u'fireboat', 0.16534068, u'dam', 0.11887205, u'picket_fence', 0.050962012, u'aircraft_carrier', 0.044060979, u'snowplow', 0.043605022]
+[u'holster', 0.15414499, u'electric_guitar', 0.1058813, u'power_drill', 0.10524324, u'toyshop', 0.097779915, u'neck_brace', 0.084306106]
+[u'dam', 0.14386009, u'candle', 0.03396403, u'fountain', 0.033428203, u'breakwater', 0.02785049, u'torch', 0.024878837]

@@ -1,0 +1,5 @@
+[u'hook', 0.54164857, u'nail', 0.071822196, u'nematode', 0.032486781, u'three-toed_sloth', 0.029265568, u'chain', 0.013974243]
+[u'suit', 0.5812878, u'groom', 0.30511683, u'Windsor_tie', 0.051761609, u'mortarboard', 0.012306531, u'academic_gown', 0.011292396]
+[u'web_site', 0.096200392, u'envelope', 0.039367244, u'lipstick', 0.020086547, u'nail', 0.016497854, u'rule', 0.015850492]
+[u'digital_clock', 0.062213261, u'hatchet', 0.048653226, u'toaster', 0.035584886, u'nail', 0.032945167, u'mask', 0.03209547]
+[u'matchstick', 0.076080292, u'nematode', 0.050328296, u'lighter', 0.031402029, u'digital_clock', 0.031389453, u'spotlight', 0.026638843]

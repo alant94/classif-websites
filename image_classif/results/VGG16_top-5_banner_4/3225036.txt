@@ -1,0 +1,5 @@
+[u'abaya', 0.15253344, u'wool', 0.13593271, u'mailbag', 0.083702594, u'velvet', 0.071779691, u'Windsor_tie', 0.050172538]
+[u'matchstick', 0.05899325, u'bell_cote', 0.054164946, u'spotlight', 0.044244368, u'panpipe', 0.039653134, u'space_shuttle', 0.022021201]
+[u'espresso_maker', 0.18550165, u'hourglass', 0.1771334, u'loupe', 0.063072421, u'coffeepot', 0.043531697, u'can_opener', 0.039530586]
+[u'crate', 0.35670456, u'magnetic_compass', 0.052407805, u'book_jacket', 0.04191009, u'barrel', 0.041862354, u'washer', 0.038561106]
+[u'matchstick', 0.034696981, u'digital_clock', 0.023969382, u'envelope', 0.016426599, u'nematode', 0.015208515, u'web_site', 0.013852953]

@@ -1,0 +1,6 @@
+[u'pick', 0.41685879, u'puck', 0.21458726, u'face_powder', 0.024375476, u'bathing_cap', 0.024043487, u'screw', 0.021386048]
+[u'web_site', 0.10334636, u'candle', 0.053072374, u'lighter', 0.051362228, u'oil_filter', 0.03232393, u'quill', 0.019463044]
+[u'golf_ball', 0.84929293, u'ping-pong_ball', 0.067191422, u'baseball', 0.020456318, u'tennis_ball', 0.015699534, u'volleyball', 0.0047259834]
+[u'folding_chair', 0.032582164, u'hook', 0.031087212, u'tripod', 0.029681765, u'horizontal_bar', 0.029169748, u'web_site', 0.024643824]
+[u'web_site', 0.1135509, u'street_sign', 0.086255647, u'analog_clock', 0.041805342, u'book_jacket', 0.026738711, u'envelope', 0.024764299]
+[u'hook', 0.098961756, u'vacuum', 0.063085355, u'microphone', 0.048562694, u'screwdriver', 0.041614659, u'power_drill', 0.040959693]

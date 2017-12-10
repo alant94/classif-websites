@@ -1,0 +1,1 @@
+[u'hand_blower', 0.24809547, u'iron', 0.1167015, u'paper_towel', 0.06822551, u'toilet_tissue', 0.060173869, u'toilet_seat', 0.047362674]

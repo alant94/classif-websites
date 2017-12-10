@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.58933949, u'gyromitra', 0.050137561, u'shower_cap', 0.017159207]
+[u'swimming_trunks', 0.33109087, u'sorrel', 0.22619514, u'hog', 0.17523953]

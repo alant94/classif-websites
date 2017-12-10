@@ -1,0 +1,4 @@
+[u'web_site', 0.056383252, u'envelope', 0.041316088, u'matchstick', 0.021238355, u'nail', 0.017091464, u'wall_clock', 0.014985652]
+[u'matchstick', 0.047515769, u'syringe', 0.031409316, u'nail', 0.024642322, u'envelope', 0.021233076, u'wall_clock', 0.020117093]
+[u'pick', 0.42226434, u'toilet_seat', 0.12905937, u'shield', 0.07102792, u'web_site', 0.0536661, u'racket', 0.027747216]
+[u'flagpole', 0.043671474, u'envelope', 0.039835807, u'Band_Aid', 0.036705185, u'scoreboard', 0.026852397, u'parachute', 0.026502326]

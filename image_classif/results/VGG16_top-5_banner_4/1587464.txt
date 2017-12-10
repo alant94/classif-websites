@@ -1,0 +1,1 @@
+[u'seat_belt', 0.86917645, u'go-kart', 0.021648433, u'convertible', 0.019153154, u'minivan', 0.008366188, u'Loafer', 0.0040709088]

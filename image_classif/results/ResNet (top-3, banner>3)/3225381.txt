@@ -1,0 +1,5 @@
+[u'envelope', 0.38429013, u'book_jacket', 0.077884234, u'paper_towel', 0.045164771]
+[u'envelope', 0.4392463, u'book_jacket', 0.30831182, u'paper_towel', 0.0331746]
+[u'web_site', 0.20859095, u'hook', 0.1241326, u'nipple', 0.048430443]
+[u'envelope', 0.49312323, u'book_jacket', 0.15341432, u'paper_towel', 0.051883388]
+[u'nipple', 0.38089588, u'space_shuttle', 0.081562363, u'whistle', 0.058224652]

@@ -1,0 +1,3 @@
+[u'syringe', 0.19576219, u'lipstick', 0.18645248, u'rule', 0.11352646]
+[u'window_screen', 0.17444585, u'padlock', 0.14110251, u'chainlink_fence', 0.14093925]
+[u'alp', 0.55641717, u'mountain_tent', 0.24317966, u'valley', 0.083914272]

@@ -1,0 +1,3 @@
+[u'siamang', 0.44566557, u'gibbon', 0.12936108, u'marmoset', 0.11072502]
+[u'oxygen_mask', 0.09705665, u'power_drill', 0.092842817, u'toyshop', 0.045862537]
+[u'tench', 0.26494321, u'axolotl', 0.18730932, u'sturgeon', 0.14854783]

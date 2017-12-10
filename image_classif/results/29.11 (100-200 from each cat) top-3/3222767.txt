@@ -1,0 +1,8 @@
+[u'oscilloscope', 0.96098214, u'screen', 0.025165932, u'monitor', 0.0057530315]
+[u'window_screen', 0.58887482, u'chainlink_fence', 0.27887052, u'fire_screen', 0.021147769]
+[u'web_site', 0.77390325, u'television', 0.010733352, u'envelope', 0.010347326]
+[u'paintbrush', 0.7195003, u'organ', 0.089309961, u'rubber_eraser', 0.034180269]
+[u'oscilloscope', 0.94685096, u'screen', 0.041142978, u'monitor', 0.0067527071]
+[u'matchstick', 0.64071077, u'chime', 0.088010527, u'croquet_ball', 0.053011551]
+[u'screen', 0.45713863, u'hand-held_computer', 0.099772058, u'monitor', 0.095392562]
+[u'digital_clock', 0.99632061, u'analog_clock', 0.0016835966, u'digital_watch', 0.0011657607]

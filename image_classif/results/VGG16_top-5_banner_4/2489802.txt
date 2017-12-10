@@ -1,0 +1,2 @@
+[u'military_uniform', 0.13586196, u'tank', 0.063209616, u'swing', 0.033476651, u'rifle', 0.031911109, u'coho', 0.031082686]
+[u'gazelle', 0.18907532, u'hartebeest', 0.16167735, u'ostrich', 0.12321554, u'crane', 0.11278817, u'black_stork', 0.10314699]

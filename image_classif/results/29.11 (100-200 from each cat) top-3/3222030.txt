@@ -1,0 +1,4 @@
+[u'envelope', 0.34158742, u'rule', 0.2414473, u'web_site', 0.074615315]
+[u'toaster', 0.53129715, u'candle', 0.085301436, u'screwdriver', 0.048536129]
+[u'web_site', 0.032202993, u'menu', 0.029404102, u'envelope', 0.018148966]
+[u'web_site', 0.32486919, u'street_sign', 0.04401046, u'analog_clock', 0.039411534]

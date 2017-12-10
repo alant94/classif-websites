@@ -1,0 +1,8 @@
+[u'shoe_shop', 0.19964828, u'restaurant', 0.081478558, u'lab_coat', 0.041620947]
+[u'ambulance', 0.98088157, u'moving_van', 0.0064558615, u'minibus', 0.0057559758]
+[u'tow_truck', 0.20045114, u'wing', 0.19916587, u'aircraft_carrier', 0.17355509]
+[u'web_site', 0.18053363, u'ambulance', 0.16949944, u'hook', 0.086742379]
+[u'web_site', 0.69336504, u'envelope', 0.14412451, u'nipple', 0.0060398271]
+[u'triumphal_arch', 0.17256451, u'bottlecap', 0.11048996, u'traffic_light', 0.056031242]
+[u'ambulance', 0.71112078, u'tow_truck', 0.10994602, u'fire_engine', 0.086929433]
+[u'web_site', 0.66611755, u'envelope', 0.040434428, u'iPod', 0.034027241]

@@ -1,0 +1,5 @@
+[u'wardrobe', 0.087305695, u'washbasin', 0.065889321, u'crossword_puzzle', 0.052982073]
+[u'digital_watch', 0.079838566, u'web_site', 0.066868, u'digital_clock', 0.064699188]
+[u'street_sign', 0.44553477, u'traffic_light', 0.10820612, u'tray', 0.091572024]
+[u'picket_fence', 0.2313187, u'lipstick', 0.073915035, u'digital_watch', 0.066709042]
+[u'digital_clock', 0.15840927, u'web_site', 0.13344131, u'analog_clock', 0.071871422]

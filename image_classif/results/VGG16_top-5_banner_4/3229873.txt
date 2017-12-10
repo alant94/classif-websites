@@ -1,0 +1,6 @@
+[u'wall_clock', 0.52696824, u'analog_clock', 0.17362295, u'magnetic_compass', 0.077530302, u'puck', 0.033156324, u'digital_clock', 0.018659355]
+[u'hand_blower', 0.10800529, u'mouse', 0.098504752, u'switch', 0.094223648, u'can_opener', 0.076216057, u'whistle', 0.063073054]
+[u'window_shade', 0.25798333, u'sliding_door', 0.11669251, u'window_screen', 0.098724931, u'monitor', 0.041516434, u'desk', 0.023115344]
+[u'suit', 0.17365286, u'Windsor_tie', 0.086988918, u'cornet', 0.042904202, u'sax', 0.042614166, u'Loafer', 0.032841768]
+[u'perfume', 0.4025782, u'beaker', 0.18041246, u'beer_glass', 0.13525522, u'measuring_cup', 0.070692994, u'book_jacket', 0.032668829]
+[u'web_site', 0.97729027, u'menu', 0.0078188656, u'comic_book', 0.0036099649, u'envelope', 0.0032444091, u'refrigerator', 0.0025986107]

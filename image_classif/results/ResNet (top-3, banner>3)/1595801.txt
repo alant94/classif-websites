@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.11829536, u'toyshop', 0.070208065, u'window_shade', 0.038977895]
+[u'bathtub', 0.53902531, u'tub', 0.43857986, u'limousine', 0.0069075325]

@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.11669331, u'maze', 0.053963248, u'picket_fence', 0.050024401, u'whistle', 0.048305176, u'switch', 0.046483174]
+[u'turnstile', 0.86358088, u'library', 0.074496776, u'photocopier', 0.02651036, u'washer', 0.0029415418, u'file', 0.002892694]
+[u'Band_Aid', 0.13021608, u'paper_towel', 0.12748496, u'toilet_tissue', 0.046989214, u'hook', 0.029649012, u'coffee_mug', 0.027344391]
+[u'restaurant', 0.27917597, u'washbasin', 0.066814251, u'barbershop', 0.050642058, u'shoji', 0.045129348, u'dining_table', 0.043191213]
+[u'rocking_chair', 0.49405625, u'folding_chair', 0.16136901, u'park_bench', 0.083501384, u'birdhouse', 0.03215, u'guillotine', 0.02186398]

@@ -1,0 +1,5 @@
+[u'minivan', 0.48260936, u'jeep', 0.14405216, u'pickup', 0.14345896]
+[u'convertible', 0.38514888, u'grille', 0.32330507, u'pickup', 0.086768113]
+[u'half_track', 0.59970057, u'jeep', 0.29689482, u'tow_truck', 0.036766849]
+[u'snowplow', 0.76485735, u'jeep', 0.17952888, u'pickup', 0.033803586]
+[u'pickup', 0.98011053, u'tow_truck', 0.0085184742, u'jeep', 0.0063072108]

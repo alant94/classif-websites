@@ -1,0 +1,1 @@
+[u'web_site', 0.97867417, u'refrigerator', 0.015274177, u'envelope', 0.0019790821, u'menu', 0.0018737161, u'comic_book', 0.00086755055]

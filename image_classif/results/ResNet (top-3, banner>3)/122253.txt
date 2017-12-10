@@ -1,0 +1,2 @@
+[u'whistle', 0.22167636, u'medicine_chest', 0.16391066, u'Band_Aid', 0.11955385]
+[u'drilling_platform', 0.55401945, u'bearskin', 0.053091399, u'Windsor_tie', 0.029864926]

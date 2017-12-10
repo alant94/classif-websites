@@ -1,0 +1,4 @@
+[u'candle', 0.47593674, u'rubber_eraser', 0.27709329, u'book_jacket', 0.043680221, u'packet', 0.034533672, u'carton', 0.027306529]
+[u'bath_towel', 0.11207716, u'sleeping_bag', 0.069101535, u'mailbag', 0.063397348, u'sweatshirt', 0.056098949, u'carton', 0.054441664]
+[u'vending_machine', 0.3751311, u'medicine_chest', 0.14641561, u"carpenter's_kit", 0.098271795, u'screwdriver', 0.0854147, u'switch', 0.034637474]
+[u'book_jacket', 0.17337784, u'carton', 0.13078126, u'wine_bottle', 0.11066823, u'red_wine', 0.071079418, u'beer_bottle', 0.061403509]

@@ -1,0 +1,6 @@
+[u'kimono', 0.89020532, u'wardrobe', 0.029035259, u'vestment', 0.014164778, u'abaya', 0.0091313673, u'shower_curtain', 0.0065157325]
+[u'sombrero', 0.39634001, u'drum', 0.1137713, u'maraca', 0.052623268, u'gong', 0.027598087, u'cowboy_hat', 0.022211425]
+[u'purse', 0.2637558, u'whistle', 0.12296975, u'hook', 0.10685885, u'mailbag', 0.05687302, u'necklace', 0.056135859]
+[u'cabbage_butterfly', 0.2784498, u'cardoon', 0.099081255, u'sulphur_butterfly', 0.09042865, u'hummingbird', 0.067434937, u'ringlet', 0.064296015]
+[u'pill_bottle', 0.25948197, u'refrigerator', 0.24787892, u'gas_pump', 0.063962534, u'medicine_chest', 0.056971222, u'can_opener', 0.046958674]
+[u'mortar', 0.38622275, u'wooden_spoon', 0.26229566, u'coffee_mug', 0.063702174, u'espresso', 0.042218883, u'pill_bottle', 0.027163578]

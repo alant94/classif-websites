@@ -1,0 +1,5 @@
+[u'web_site', 0.99275547, u'envelope', 0.0011418979, u'comic_book', 0.00098519551, u'Band_Aid', 0.00077312731, u'Windsor_tie', 0.00050129904]
+[u'web_site', 0.99327701, u'envelope', 0.002712952, u'Windsor_tie', 0.0011337679, u'rule', 0.00030848483, u'abaya', 0.00025134638]
+[u'brass', 0.20170856, u'slide_rule', 0.19271097, u'crossword_puzzle', 0.15020487, u'menu', 0.037413724, u'quill', 0.034619331]
+[u'web_site', 0.70376801, u'screw', 0.10608803, u'can_opener', 0.06218385, u'nail', 0.036479138, u'screwdriver', 0.019568436]
+[u'digital_clock', 0.14837135, u'wall_clock', 0.0469843, u'envelope', 0.041880347, u'Windsor_tie', 0.031105485, u'maze', 0.03041492]

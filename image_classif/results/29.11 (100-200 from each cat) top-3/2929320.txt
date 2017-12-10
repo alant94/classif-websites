@@ -1,0 +1,7 @@
+[u'buckle', 0.17856702, u'bolo_tie', 0.11186124, u'puck', 0.10786118]
+[u'book_jacket', 0.14542279, u'cash_machine', 0.086876877, u'shower_curtain', 0.080711536]
+[u'puck', 0.35900325, u'drum', 0.090321988, u'chime', 0.05943872]
+[u'alp', 0.87297153, u'ski', 0.024785064, u'king_penguin', 0.013316057]
+[u'picket_fence', 0.52327871, u'worm_fence', 0.09492217, u'solar_dish', 0.07823059]
+[u'loupe', 0.37139308, u'mask', 0.085460253, u'ski_mask', 0.045380455]
+[u'picket_fence', 0.6419369, u'worm_fence', 0.034266077, u'oscilloscope', 0.032600727]

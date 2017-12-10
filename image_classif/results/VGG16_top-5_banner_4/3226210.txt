@@ -1,0 +1,2 @@
+[u'ski', 0.38151303, u'picket_fence', 0.18163487, u'paintbrush', 0.070622094, u'swab', 0.066372626, u'padlock', 0.036756169]
+[u'scoreboard', 0.11445521, u'ski', 0.1066969, u'paddle', 0.035598125, u'space_shuttle', 0.034087487, u'perfume', 0.030374171]

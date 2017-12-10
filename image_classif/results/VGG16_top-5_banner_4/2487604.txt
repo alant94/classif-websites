@@ -1,0 +1,4 @@
+[u'American_black_bear', 0.99987721, u'sloth_bear', 9.0814552e-05, u'brown_bear', 3.1891981e-05, u'wild_boar', 5.7301506e-08, u'hog', 1.6947244e-08]
+[u'hartebeest', 0.16374195, u'Arabian_camel', 0.15952218, u'water_buffalo', 0.1592835, u'gazelle', 0.091955386, u'impala', 0.07310503]
+[u'coho', 0.62241322, u'sturgeon', 0.21899033, u'great_white_shark', 0.065937378, u'barracouta', 0.038854778, u'tiger_shark', 0.027202565]
+[u'kite', 0.23937075, u'marmoset', 0.10613654, u'great_grey_owl', 0.060644634, u'terrapin', 0.042142432, u'hornbill', 0.040281523]

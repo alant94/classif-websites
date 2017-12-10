@@ -1,0 +1,2 @@
+[u'binder', 0.4023571, u'paper_towel', 0.12107318, u'quill', 0.088238403]
+[u'crossword_puzzle', 0.99991965, u'quilt', 3.0687293e-05, u'prayer_rug', 2.024785e-05]

@@ -1,0 +1,4 @@
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]
+[u'comic_book', 0.11353184, u'book_jacket', 0.10525213, u'lighter', 0.096768543]
+[u'miniskirt', 0.30102107, u'cowboy_boot', 0.17595047, u'fur_coat', 0.065414406]
+[u'swimming_trunks', 0.29199612, u'bikini', 0.24874704, u'sarong', 0.074544877]

@@ -1,0 +1,5 @@
+[u'artichoke', 0.31089514, u'cardoon', 0.10392348, u'daisy', 0.059628993, u'ant', 0.047960903, u'ear', 0.032745287]
+[u'wine_bottle', 0.13307689, u'red_wine', 0.064691469, u'brass', 0.049133051, u'crossword_puzzle', 0.048737843, u'pill_bottle', 0.047753867]
+[u'toilet_seat', 0.22105171, u'pick', 0.12823173, u'barrel', 0.085668273, u'menu', 0.062346391, u'parking_meter', 0.039203808]
+[u'picket_fence', 0.90926725, u'coral_fungus', 0.020674359, u'hook', 0.010253434, u'chime', 0.0079945447, u'worm_fence', 0.0072431667]
+[u'cleaver', 0.051105075, u'nail', 0.044872303, u'hatchet', 0.030123025, u"carpenter's_kit", 0.024107773, u'muzzle', 0.022002177]

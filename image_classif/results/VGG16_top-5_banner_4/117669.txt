@@ -1,0 +1,1 @@
+[u'bubble', 0.70147079, u'jellyfish', 0.12901549, u'Petri_dish', 0.12064507, u'window_screen', 0.0051419609, u'pick', 0.0034430991]

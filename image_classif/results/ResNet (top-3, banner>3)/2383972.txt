@@ -1,0 +1,3 @@
+[u'valley', 0.52302909, u'rapeseed', 0.27048203, u'alp', 0.057801552]
+[u'barrel', 0.98167408, u'lumbermill', 0.005600167, u'hay', 0.0033158918]
+[u'throne', 0.28050607, u'perfume', 0.12631455, u'necklace', 0.072533511]

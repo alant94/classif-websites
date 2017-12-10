@@ -1,0 +1,1 @@
+[u'web_site', 0.93871051, u'envelope', 0.0052222577, u'Band_Aid', 0.0040452038, u'menu', 0.0038071761, u'cash_machine', 0.0033201049]

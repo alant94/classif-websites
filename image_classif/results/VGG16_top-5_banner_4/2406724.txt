@@ -1,0 +1,2 @@
+[u'plate', 0.94968057, u'chocolate_sauce', 0.017202364, u'ice_cream', 0.011724629, u'acorn_squash', 0.0039391606, u'meat_loaf', 0.0038654986]
+[u'magnetic_compass', 0.24277212, u'rule', 0.16083485, u'wall_clock', 0.097945876, u'toilet_seat', 0.067158125, u'face_powder', 0.056454524]

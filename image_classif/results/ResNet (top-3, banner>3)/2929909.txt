@@ -1,0 +1,2 @@
+[u'jellyfish', 0.57323498, u'book_jacket', 0.154837, u'scuba_diver', 0.078226902]
+[u'book_jacket', 0.13091746, u'Band_Aid', 0.11878002, u'mask', 0.070739202]

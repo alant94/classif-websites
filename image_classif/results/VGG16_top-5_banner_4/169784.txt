@@ -1,0 +1,3 @@
+[u'web_site', 0.095796406, u'book_jacket', 0.039614443, u'cash_machine', 0.021769932, u'sunscreen', 0.01828598, u'pill_bottle', 0.01419092]
+[u'sunscreen', 0.10972512, u'tennis_ball', 0.081419058, u'puck', 0.06866239, u'Band_Aid', 0.052975286, u'bathing_cap', 0.034388278]
+[u'screw', 0.12475132, u'tripod', 0.11339471, u'corkscrew', 0.057665065, u'harp', 0.056623355, u'nail', 0.042544093]

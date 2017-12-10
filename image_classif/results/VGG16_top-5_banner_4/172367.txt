@@ -1,0 +1,2 @@
+[u'maze', 0.25388741, u'Windsor_tie', 0.078989364, u'jigsaw_puzzle', 0.056763235, u'coil', 0.022921061, u'envelope', 0.021461461]
+[u'envelope', 0.27335772, u'web_site', 0.1583575, u'digital_clock', 0.081463315, u'analog_clock', 0.03210612, u'television', 0.017493825]

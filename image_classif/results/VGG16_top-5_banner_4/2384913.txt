@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.48270047, u'red_wine', 0.24771391, u'beer_bottle', 0.10487246, u'whiskey_jug', 0.026504003, u'water_bottle', 0.023472289]
+[u'suspension_bridge', 0.50488061, u'macaw', 0.046633076, u'cliff', 0.03875054, u'mountain_bike', 0.035657346, u'spider_web', 0.034927744]

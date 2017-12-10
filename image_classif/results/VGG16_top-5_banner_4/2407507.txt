@@ -1,0 +1,2 @@
+[u'whistle', 0.34129307, u'combination_lock', 0.19637071, u'digital_watch', 0.055081226, u'digital_clock', 0.048034545, u'switch', 0.036388952]
+[u'banana', 0.18276168, u'cucumber', 0.087304547, u'head_cabbage', 0.048715815, u'web_site', 0.029667143, u'Granny_Smith', 0.025265781]

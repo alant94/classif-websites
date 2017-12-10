@@ -1,0 +1,3 @@
+[u'wall_clock', 0.29856256, u'comic_book', 0.10708217, u'shower_curtain', 0.081026368]
+[u'soccer_ball', 0.63391393, u'chain_saw', 0.1191014, u'dumbbell', 0.016585782]
+[u'cradle', 0.3419739, u'comic_book', 0.18233669, u'laptop', 0.074070968]

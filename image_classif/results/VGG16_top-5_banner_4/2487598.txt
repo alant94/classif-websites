@@ -1,0 +1,5 @@
+[u'moving_van', 0.78027326, u'ambulance', 0.091852814, u'trailer_truck', 0.049469285, u'police_van', 0.018313503, u'garbage_truck', 0.018089669]
+[u'sliding_door', 0.77227783, u'cash_machine', 0.028734293, u'swab', 0.027050246, u'turnstile', 0.025549669, u'prison', 0.014891624]
+[u'streetcar', 0.25078166, u'library', 0.14859822, u'prison', 0.10986223, u'bookshop', 0.10034304, u'forklift', 0.057823058]
+[u'hook', 0.16146667, u'can_opener', 0.11415727, u'banana', 0.071803011, u'nipple', 0.067964934, u'vacuum', 0.035526752]
+[u'barbershop', 0.29784545, u'restaurant', 0.24305589, u'barber_chair', 0.23116373, u'library', 0.073006943, u'dining_table', 0.011671945]

@@ -1,0 +1,7 @@
+[u'bell_cote', 0.21991536, u'analog_clock', 0.15627116, u'web_site', 0.069312744]
+[u'lab_coat', 0.86268097, u'vestment', 0.015054981, u'candle', 0.011412688]
+[u'web_site', 0.1250326, u'hard_disc', 0.068677686, u'comic_book', 0.039033361]
+[u'sunscreen', 0.2938529, u'web_site', 0.2704643, u'menu', 0.071478471]
+[u'nail', 0.34801316, u'screw', 0.14147674, u'rule', 0.03866468]
+[u'web_site', 0.09909036, u'street_sign', 0.09036833, u'dugong', 0.055212189]
+[u'web_site', 0.8842867, u'book_jacket', 0.040819027, u'comic_book', 0.011056989]

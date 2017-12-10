@@ -1,0 +1,4 @@
+[u'dial_telephone', 0.98990411, u'iron', 0.0089885863, u'cassette', 0.00053165457]
+[u'barbershop', 0.56067914, u'comic_book', 0.22883409, u'web_site', 0.055941463]
+[u'web_site', 0.74585265, u'menu', 0.076295152, u'crossword_puzzle', 0.017366253]
+[u'web_site', 0.23820849, u'crossword_puzzle', 0.052421238, u'comic_book', 0.036784381]

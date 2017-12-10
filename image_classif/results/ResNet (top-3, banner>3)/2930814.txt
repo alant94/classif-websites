@@ -1,0 +1,5 @@
+[u'vault', 0.27538469, u'restaurant', 0.21504389, u'altar', 0.089374825]
+[u'gondola', 0.40716046, u'mosque', 0.1232811, u'church', 0.10321732]
+[u'comic_book', 0.073331043, u'fire_screen', 0.055789419, u'accordion', 0.046939116]
+[u'prison', 0.29971194, u'barbershop', 0.13633375, u'vestment', 0.092923671]
+[u'barbershop', 0.17087421, u'barber_chair', 0.077656351, u'vestment', 0.075719289]

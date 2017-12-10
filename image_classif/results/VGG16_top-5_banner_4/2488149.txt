@@ -1,0 +1,1 @@
+[u'Arabian_camel', 0.8145563, u'llama', 0.10211793, u'English_foxhound', 0.029876864, u'ox', 0.0084184166, u'Ibizan_hound', 0.0082792034]

@@ -1,0 +1,7 @@
+[u'wig', 0.22968201, u'Great_Pyrenees', 0.039521385, u'window_screen', 0.037744459, u'Samoyed', 0.024266092, u'Eskimo_dog', 0.019212158]
+[u'toyshop', 0.20155834, u'bakery', 0.19851524, u'china_cabinet', 0.15668887, u'vending_machine', 0.063538015, u'entertainment_center', 0.030837689]
+[u'library', 0.3063432, u'bookshop', 0.14768763, u'bookcase', 0.11328366, u'web_site', 0.11080751, u'comic_book', 0.049305536]
+[u'library', 0.28037968, u'bookshop', 0.17468043, u'bookcase', 0.12606537, u'web_site', 0.079864696, u'comic_book', 0.054533832]
+[u"carpenter's_kit", 0.18110117, u'book_jacket', 0.093278877, u'quill', 0.06787464, u'organ', 0.064360671, u'brass', 0.048632212]
+[u'library', 0.29657418, u'bookshop', 0.18039809, u'bookcase', 0.15586045, u'web_site', 0.082065821, u'comic_book', 0.057026856]
+[u'library', 0.28379428, u'bookshop', 0.19175215, u'web_site', 0.10112851, u'bookcase', 0.094665192, u'comic_book', 0.057591408]

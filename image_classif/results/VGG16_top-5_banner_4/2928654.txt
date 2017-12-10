@@ -1,0 +1,1 @@
+[u'sarong', 0.14354748, u'swimming_trunks', 0.12646456, u'sandbar', 0.048492249, u'sunscreen', 0.034437004, u'gar', 0.031934258]

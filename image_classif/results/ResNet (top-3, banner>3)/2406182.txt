@@ -1,0 +1,2 @@
+[u'parachute', 0.92547286, u'crane', 0.008852982, u'alp', 0.0058389269]
+[u'gas_pump', 0.16700052, u'water_bottle', 0.11851352, u'bucket', 0.063900419]

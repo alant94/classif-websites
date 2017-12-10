@@ -1,0 +1,2 @@
+[u'thresher', 0.51473665, u'tricycle', 0.090250179, u'plow', 0.079432361, u'lawn_mower', 0.073958643, u'tractor', 0.063634969]
+[u'vacuum', 0.62443495, u'iron', 0.33173358, u'lawn_mower', 0.013347232, u'cassette_player', 0.0070261089, u'power_drill', 0.0053185727]

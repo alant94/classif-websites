@@ -1,0 +1,8 @@
+[u'bannister', 0.61974514, u'padlock', 0.12667632, u'combination_lock', 0.079935133]
+[u'hook', 0.47278431, u'shovel', 0.20678481, u'bannister', 0.051227953]
+[u'pop_bottle', 0.27640566, u'comic_book', 0.1467225, u'slot', 0.063037135]
+[u'comic_book', 0.49374634, u'slot', 0.11961728, u'cinema', 0.052804023]
+[u'warplane', 0.38149652, u'wing', 0.25091073, u'starfish', 0.1507097]
+[u'analog_clock', 0.20459193, u'jersey', 0.19443722, u'web_site', 0.16135713]
+[u'starfish', 0.45925069, u'chain_saw', 0.39793304, u'warplane', 0.057198428]
+[u'web_site', 0.92064339, u'isopod', 0.034112163, u'running_shoe', 0.033892695]

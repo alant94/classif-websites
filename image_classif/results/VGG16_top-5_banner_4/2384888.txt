@@ -1,0 +1,1 @@
+[u'toaster', 0.20439586, u'space_heater', 0.17147993, u'photocopier', 0.090600863, u'printer', 0.070659824, u'modem', 0.063581496]

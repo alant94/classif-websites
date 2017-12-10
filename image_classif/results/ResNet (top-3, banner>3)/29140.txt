@@ -1,0 +1,3 @@
+[u'television', 0.52834803, u'entertainment_center', 0.1673307, u'monitor', 0.10312042]
+[u'lab_coat', 0.39569759, u'barbershop', 0.2273683, u'restaurant', 0.10186496]
+[u'web_site', 0.55328864, u'monitor', 0.18433538, u'screen', 0.1188963]

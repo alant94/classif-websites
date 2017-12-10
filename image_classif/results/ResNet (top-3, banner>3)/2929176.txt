@@ -1,0 +1,7 @@
+[u'web_site', 0.31922501, u'hook', 0.25040326, u'envelope', 0.058201816]
+[u'can_opener', 0.6267221, u'lotion', 0.040806849, u'corkscrew', 0.037737612]
+[u'standard_poodle', 0.14040303, u'paper_towel', 0.058128435, u'bearskin', 0.054532584]
+[u'rule', 0.31555921, u'analog_clock', 0.23174798, u'slide_rule', 0.059256937]
+[u'web_site', 0.42512289, u'envelope', 0.22231713, u'analog_clock', 0.091707297]
+[u'oil_filter', 0.13160357, u'puck', 0.094288439, u'book_jacket', 0.085662536]
+[u'corkscrew', 0.98342448, u'can_opener', 0.0036511009, u'jigsaw_puzzle', 0.0022715409]

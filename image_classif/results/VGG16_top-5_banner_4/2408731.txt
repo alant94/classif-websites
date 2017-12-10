@@ -1,0 +1,5 @@
+[u'bathing_cap', 0.2090425, u'swimming_trunks', 0.1762483, u'maillot', 0.12597977, u'maillot', 0.11810631, u'volleyball', 0.088119231]
+[u'swimming_trunks', 0.3163946, u'maillot', 0.14685118, u'bikini', 0.11765035, u'maillot', 0.082812771, u'seashore', 0.037838809]
+[u'poncho', 0.29587916, u'bonnet', 0.098272659, u'cowboy_hat', 0.088207141, u'sombrero', 0.068049669, u'stole', 0.040807225]
+[u'maillot', 0.52985048, u'maillot', 0.44364113, u'bikini', 0.0068296124, u'miniskirt', 0.004347878, u'sarong', 0.00410931]
+[u'swimming_trunks', 0.39662096, u'snorkel', 0.11838876, u'sandbar', 0.076454297, u'maillot', 0.072137177, u'seashore', 0.071046092]

@@ -1,0 +1,6 @@
+[u'fireboat', 0.25086698, u'fire_engine', 0.067452289, u'thresher', 0.051799625, u'bobsled', 0.049302578, u'tractor', 0.047610704]
+[u'golden_retriever', 0.19680193, u'redbone', 0.18465699, u'Saluki', 0.058641098, u'dogsled', 0.058342885, u'Irish_setter', 0.048833806]
+[u'bell_cote', 0.28218794, u'traffic_light', 0.14904077, u'vulture', 0.05674151, u'street_sign', 0.052222226, u'birdhouse', 0.050581332]
+[u'analog_clock', 0.15060441, u'digital_clock', 0.089681074, u'bell_cote', 0.066742122, u'maze', 0.046433907, u'traffic_light', 0.039324619]
+[u'ski', 0.39267972, u'snowmobile', 0.14406079, u'dogsled', 0.11521895, u'shovel', 0.059682641, u'alp', 0.036545828]
+[u'necklace', 0.23824856, u'hair_slide', 0.2067422, u'admiral', 0.079651996, u'hip', 0.063489638, u'ladybug', 0.045427516]

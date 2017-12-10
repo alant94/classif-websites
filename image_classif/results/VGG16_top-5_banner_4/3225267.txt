@@ -1,0 +1,3 @@
+[u'flagpole', 0.77524579, u'water_tower', 0.03478054, u'balloon', 0.031649411, u'parachute', 0.024265081, u'fountain', 0.015802167]
+[u'restaurant', 0.29247433, u'shoe_shop', 0.229615, u'stage', 0.075337023, u'confectionery', 0.054460745, u'candle', 0.052321367]
+[u'flagpole', 0.33880892, u'hook', 0.12860183, u'hatchet', 0.039808284, u'bow', 0.034126081, u'pole', 0.026167745]

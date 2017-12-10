@@ -1,0 +1,2 @@
+[u'fur_coat', 0.11147115, u'totem_pole', 0.098761827, u'cloak', 0.082603075, u'web_site', 0.050413195, u'book_jacket', 0.048567325]
+[u'coral_fungus', 0.17117752, u'matchstick', 0.086049579, u'coral_reef', 0.056615271, u'picket_fence', 0.045972679, u'stole', 0.03562595]

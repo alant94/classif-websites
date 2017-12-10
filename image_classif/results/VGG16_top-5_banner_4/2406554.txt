@@ -1,0 +1,4 @@
+[u'water_buffalo', 0.31352559, u'oxcart', 0.082922772, u'ox', 0.067446917, u'Great_Dane', 0.060361352, u'pug', 0.04343738]
+[u'oxygen_mask', 0.31541693, u'mask', 0.093208261, u'shield', 0.087881468, u'comic_book', 0.051723313, u'ox', 0.044813689]
+[u'Doberman', 0.47801986, u'black-and-tan_coonhound', 0.13543881, u'miniature_pinscher', 0.10348883, u'redbone', 0.090508774, u'Rhodesian_ridgeback', 0.033615835]
+[u'goldfish', 0.60056019, u'dhole', 0.034785792, u'book_jacket', 0.033181123, u'axolotl', 0.020465337, u'eft', 0.016706165]

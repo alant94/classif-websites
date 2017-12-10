@@ -1,0 +1,2 @@
+[u'oil_filter', 0.23701382, u'whiskey_jug', 0.21353522, u'barrel', 0.15480946]
+[u'crossword_puzzle', 0.66622561, u'picket_fence', 0.037387252, u'hamper', 0.03661317]

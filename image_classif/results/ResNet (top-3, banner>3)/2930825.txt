@@ -1,0 +1,7 @@
+[u'stethoscope', 0.95192188, u'paintbrush', 0.0052010603, u'magnetic_compass', 0.0043159854]
+[u'refrigerator', 0.22045328, u'web_site', 0.16262834, u'monitor', 0.14579204]
+[u'web_site', 0.22180706, u'street_sign', 0.036461726, u'analog_clock', 0.019350821]
+[u'ski_mask', 0.41037089, u'bathing_cap', 0.27767429, u'lab_coat', 0.14855507]
+[u'web_site', 0.22027653, u'street_sign', 0.023043111, u'book_jacket', 0.021243244]
+[u'perfume', 0.18128845, u'envelope', 0.11684887, u'purse', 0.064013183]
+[u'lab_coat', 0.93432999, u'stethoscope', 0.059632391, u'suit', 0.0016028128]

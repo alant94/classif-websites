@@ -1,0 +1,6 @@
+[u'envelope', 0.15726212, u'crossword_puzzle', 0.11736251, u'web_site', 0.090465739, u'wall_clock', 0.058946982, u'analog_clock', 0.052262917]
+[u'aircraft_carrier', 0.13731782, u'airship', 0.12124682, u'panpipe', 0.066741586, u'chest', 0.054652937, u'liner', 0.026219303]
+[u'cleaver', 0.34785876, u'hook', 0.18891048, u'wall_clock', 0.041739687, u'can_opener', 0.040895339, u'wardrobe', 0.031072259]
+[u'binder', 0.29131421, u'book_jacket', 0.14695744, u'envelope', 0.11703581, u'modem', 0.05572176, u'screen', 0.023191199]
+[u'palace', 0.20004842, u'lakeside', 0.064118072, u'bell_cote', 0.051525969, u'castle', 0.04941931, u'airship', 0.032159921]
+[u'buckle', 0.21132673, u'bottlecap', 0.15079051, u'stopwatch', 0.10576928, u'pick', 0.088507645, u'digital_watch', 0.075913973]

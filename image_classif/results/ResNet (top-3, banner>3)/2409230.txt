@@ -1,0 +1,1 @@
+[u'book_jacket', 0.25964248, u'Indian_elephant', 0.17702398, u'tusker', 0.12037028]

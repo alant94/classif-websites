@@ -1,0 +1,1 @@
+[u'ear', 0.42842707, u'corn', 0.30463323, u'picket_fence', 0.11905855, u'artichoke', 0.026665445, u'banana', 0.019185118]

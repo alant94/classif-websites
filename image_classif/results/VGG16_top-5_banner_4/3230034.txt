@@ -1,0 +1,1 @@
+[u'hook', 0.038550396, u'mountain_bike', 0.035652235, u'analog_clock', 0.034801915, u'chain_saw', 0.032886785, u'web_site', 0.028692598]

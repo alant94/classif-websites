@@ -1,0 +1,1 @@
+[u'scoreboard', 0.13781409, u'cinema', 0.05345057, u'ambulance', 0.04521608, u'comic_book', 0.034345802, u'moving_van', 0.03222996]

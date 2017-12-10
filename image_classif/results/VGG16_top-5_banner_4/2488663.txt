@@ -1,0 +1,7 @@
+[u'barn', 0.87289071, u'mailbox', 0.045665942, u'crate', 0.018417975, u'padlock', 0.0093796495, u'church', 0.0045398134]
+[u'American_black_bear', 0.15576708, u'fountain', 0.07259354, u'sea_lion', 0.063982859, u'picket_fence', 0.062065341, u'macaw', 0.057480842]
+[u'cinema', 0.27479452, u'slot', 0.10097437, u'grille', 0.078591011, u'tobacco_shop', 0.071556166, u'buckle', 0.063492872]
+[u'scoreboard', 0.29728052, u'puck', 0.055382963, u'combination_lock', 0.042538192, u'web_site', 0.039230812, u'packet', 0.018589754]
+[u'book_jacket', 0.30068812, u'comic_book', 0.17813364, u'menu', 0.060903691, u'web_site', 0.050301954, u'jigsaw_puzzle', 0.018897371]
+[u'digital_clock', 0.22129224, u'book_jacket', 0.058667369, u'envelope', 0.033904754, u'traffic_light', 0.032341395, u'wing', 0.029535443]
+[u'lumbermill', 0.063944779, u'hatchet', 0.051100068, u'chain_saw', 0.046881571, u'worm_fence', 0.038761098, u'panpipe', 0.033587497]

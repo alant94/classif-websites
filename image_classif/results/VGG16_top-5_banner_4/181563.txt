@@ -1,0 +1,1 @@
+[u'sunglasses', 0.15609531, u'sunglass', 0.11763077, u'bow_tie', 0.11661401, u'lab_coat', 0.047926392, u'mortarboard', 0.044152074]

@@ -1,0 +1,6 @@
+[u'book_jacket', 0.44339791, u'web_site', 0.086444832, u'comic_book', 0.034191176, u'street_sign', 0.022210632, u'scoreboard', 0.02201594]
+[u'book_jacket', 0.4605805, u'safety_pin', 0.1459076, u'abacus', 0.068016663, u'comic_book', 0.046420284, u'cassette', 0.036866348]
+[u'book_jacket', 0.4293189, u'comic_book', 0.052447371, u'scoreboard', 0.045628924, u'racket', 0.032110494, u'gas_pump', 0.019920317]
+[u'scoreboard', 0.42086112, u'book_jacket', 0.22103225, u'comic_book', 0.085576907, u'street_sign', 0.064025208, u'digital_clock', 0.021618009]
+[u'book_jacket', 0.54313982, u'comic_book', 0.17763537, u'web_site', 0.11778495, u'scoreboard', 0.020100312, u'rule', 0.0052419556]
+[u'slot', 0.17829528, u'cassette', 0.17058155, u'gas_pump', 0.077635802, u'tobacco_shop', 0.076721445, u'cassette_player', 0.058978513]

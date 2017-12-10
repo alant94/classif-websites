@@ -1,0 +1,1 @@
+[u'comic_book', 0.79756284, u'book_jacket', 0.11797634, u'scoreboard', 0.036879141]

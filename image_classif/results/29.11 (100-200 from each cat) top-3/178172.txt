@@ -1,0 +1,3 @@
+[u'ballpoint', 0.23486312, u'rubber_eraser', 0.20845237, u'panpipe', 0.20714681]
+[u'pinwheel', 0.15992211, u'nail', 0.066181019, u'web_site', 0.050749209]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]

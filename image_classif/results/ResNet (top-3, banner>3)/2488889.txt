@@ -1,0 +1,4 @@
+[u'fountain', 0.67308861, u'flamingo', 0.029421024, u'fire_screen', 0.022489531]
+[u'gazelle', 0.60025001, u'impala', 0.35530278, u'hartebeest', 0.037856553]
+[u'envelope', 0.34413147, u'web_site', 0.20554888, u'bow', 0.098811626]
+[u'mobile_home', 0.32448444, u'barn', 0.2707983, u'boathouse', 0.15942153]

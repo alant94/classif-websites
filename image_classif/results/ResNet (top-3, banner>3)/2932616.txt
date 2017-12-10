@@ -1,0 +1,2 @@
+[u'police_van', 0.23000222, u'trailer_truck', 0.2030016, u'ambulance', 0.18561512]
+[u'balloon', 0.40537044, u'tennis_ball', 0.059780907, u'gasmask', 0.046359703]

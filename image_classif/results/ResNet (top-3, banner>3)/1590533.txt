@@ -1,0 +1,4 @@
+[u'snorkel', 0.11133966, u'swimming_trunks', 0.088239938, u'bubble', 0.087881006]
+[u'tobacco_shop', 0.37647107, u'scoreboard', 0.18042052, u'barbershop', 0.10778149]
+[u'shower_curtain', 0.048897572, u'groom', 0.047889035, u'brassiere', 0.043852344]
+[u'scoreboard', 0.24611078, u'analog_clock', 0.073872149, u'ski', 0.060688809]

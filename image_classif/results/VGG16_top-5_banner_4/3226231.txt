@@ -1,0 +1,1 @@
+[u'envelope', 0.086928979, u'binder', 0.0296304, u'web_site', 0.025011143, u'pill_bottle', 0.024115492, u'lotion', 0.0180523]

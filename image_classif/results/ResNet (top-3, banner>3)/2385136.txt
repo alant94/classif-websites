@@ -1,0 +1,8 @@
+[u'lakeside', 0.27968833, u'mobile_home', 0.13071164, u'patio', 0.10951635]
+[u'red_wine', 0.81927043, u'wine_bottle', 0.15509561, u'beer_bottle', 0.0096208481]
+[u'miniature_pinscher', 0.84935844, u'Doberman', 0.099292628, u'Rottweiler', 0.032305855]
+[u'megalith', 0.14339729, u'promontory', 0.132817, u'stone_wall', 0.10078176]
+[u'lakeside', 0.55387324, u'swing', 0.083724409, u'park_bench', 0.05800328]
+[u'wine_bottle', 0.26842037, u'sunscreen', 0.19046184, u'whiskey_jug', 0.18182021]
+[u'restaurant', 0.38150141, u'four-poster', 0.25870311, u'pool_table', 0.058348954]
+[u'red_wine', 0.36096695, u'wine_bottle', 0.24304187, u'corkscrew', 0.090127259]

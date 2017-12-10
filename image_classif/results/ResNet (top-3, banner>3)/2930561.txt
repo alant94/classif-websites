@@ -1,0 +1,6 @@
+[u'electric_locomotive', 0.55406368, u'freight_car', 0.43783921, u'steam_locomotive', 0.0051138084]
+[u'envelope', 0.064329408, u'web_site', 0.05087788, u'plunger', 0.027391227]
+[u'trailer_truck', 0.64167869, u'garbage_truck', 0.12252621, u'moving_van', 0.066213831]
+[u'container_ship', 0.99980527, u'liner', 4.796619e-05, u'dock', 4.3190223e-05]
+[u'airliner', 0.4224627, u'wing', 0.36690408, u'warplane', 0.16068615]
+[u'envelope', 0.064329408, u'web_site', 0.05087788, u'plunger', 0.027391227]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.80977952, u'web_site', 0.12775579, u'envelope', 0.0047662081]
+[u'theater_curtain', 0.046918072, u"potter's_wheel", 0.040768843, u'cornet', 0.028055698]

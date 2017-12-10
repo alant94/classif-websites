@@ -1,0 +1,8 @@
+[u'fountain_pen', 0.24060488, u'ski', 0.20020255, u'rifle', 0.14492442, u'screwdriver', 0.097025417, u'paintbrush', 0.094162486]
+[u'crate', 0.05275628, u'marimba', 0.049406048, u'plane', 0.046386026, u'tobacco_shop', 0.037475884, u'suit', 0.033481188]
+[u'wardrobe', 0.85598993, u'cleaver', 0.026252232, u'ski', 0.016072266, u'picket_fence', 0.015264283, u'wooden_spoon', 0.013157103]
+[u'picket_fence', 0.14976798, u'book_jacket', 0.118359, u'rule', 0.064549416, u'binder', 0.052854173, u'digital_watch', 0.050872788]
+[u'wine_bottle', 0.46817347, u'red_wine', 0.35452604, u'beer_glass', 0.042942412, u'goblet', 0.036844682, u'corkscrew', 0.029824903]
+[u'wine_bottle', 0.84055871, u'beer_bottle', 0.081166558, u'screwdriver', 0.055595245, u'pop_bottle', 0.0090704216, u'red_wine', 0.0021591368]
+[u'nail', 0.3849299, u'sea_urchin', 0.050447028, u'screw', 0.037097402, u'screwdriver', 0.025511581, u'safety_pin', 0.021694059]
+[u'sundial', 0.27085224, u'envelope', 0.17035891, u'sombrero', 0.16569898, u'hair_slide', 0.082074903, u'quill', 0.076424047]

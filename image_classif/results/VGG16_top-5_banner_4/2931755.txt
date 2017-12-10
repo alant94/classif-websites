@@ -1,0 +1,8 @@
+[u'marimba', 0.44480628, u'theater_curtain', 0.17861079, u'panpipe', 0.067830972, u'oboe', 0.037025552, u'stage', 0.028948829]
+[u'cellular_telephone', 0.06479644, u'ping-pong_ball', 0.052791789, u'punching_bag', 0.04724985, u'hair_spray', 0.045733497, u'lab_coat', 0.044938777]
+[u'hair_spray', 0.060514592, u'lab_coat', 0.049060076, u'sweatshirt', 0.045594767, u'apron', 0.03196295, u'pajama', 0.031729884]
+[u'hair_spray', 0.054725233, u'jersey', 0.051295199, u'sweatshirt', 0.046628062, u'lab_coat', 0.035075154, u'mortarboard', 0.029922849]
+[u'stethoscope', 0.23094861, u'ping-pong_ball', 0.14270812, u'racket', 0.076208465, u'basketball', 0.067459896, u'lab_coat', 0.059394442]
+[u'book_jacket', 0.094882436, u'street_sign', 0.08559452, u'web_site', 0.083422802, u'crane', 0.081299163, u'traffic_light', 0.036522973]
+[u'hair_spray', 0.062781759, u'punching_bag', 0.055328779, u'ping-pong_ball', 0.053615138, u'jersey', 0.0475589, u'jean', 0.043420602]
+[u'sunscreen', 0.20809621, u'lab_coat', 0.087072179, u'Band_Aid', 0.086628564, u'bathing_cap', 0.039300948, u'lotion', 0.032850783]

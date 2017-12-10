@@ -1,0 +1,8 @@
+[u'packet', 0.76404148, u'bottlecap', 0.064614363, u'perfume', 0.025219249, u'diaper', 0.022409638, u'saltshaker', 0.019899333]
+[u'hourglass', 0.36900461, u'hammer', 0.096893065, u'matchstick', 0.063153028, u'corkscrew', 0.041033212, u'nail', 0.037598643]
+[u'web_site', 0.93400002, u'cassette', 0.01326134, u'screen', 0.0057982784, u'stethoscope', 0.0030373607, u'monitor', 0.0026662226]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'packet', 0.12881866, u'brass', 0.11880886, u'book_jacket', 0.088628016, u'gas_pump', 0.086552247, u'cassette', 0.08075875]
+[u'plate_rack', 0.72426099, u'fire_screen', 0.21359883, u'turnstile', 0.028029213, u'china_cabinet', 0.011114949, u'dishwasher', 0.0067310599]
+[u'hook', 0.12340102, u'wall_clock', 0.079002939, u'wardrobe', 0.034893401, u'web_site', 0.033740662, u'analog_clock', 0.028090322]
+[u'sombrero', 0.41240549, u'cowboy_hat', 0.3318398, u'academic_gown', 0.037108988, u'book_jacket', 0.029522281, u'mortarboard', 0.026475212]

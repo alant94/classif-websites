@@ -1,0 +1,7 @@
+[u'crate', 0.21843329, u'book_jacket', 0.089188628, u'padlock', 0.053245891, u'switch', 0.045126107, u'matchstick', 0.043080948]
+[u'wallaby', 0.82776397, u'whippet', 0.025484988, u'cougar', 0.016741859, u'Italian_greyhound', 0.0138222, u'ibex', 0.012322712]
+[u'gazelle', 0.42534927, u'impala', 0.27127007, u'hartebeest', 0.13700353, u'ibex', 0.088212319, u'bighorn', 0.053839713]
+[u'warthog', 0.47625971, u'wild_boar', 0.14256689, u'hartebeest', 0.083590761, u'rifle', 0.030985445, u'assault_rifle', 0.030490199]
+[u'military_uniform', 0.51715189, u'hartebeest', 0.1159109, u'African_hunting_dog', 0.061151799, u'stretcher', 0.032230556, u'rifle', 0.030378662]
+[u'scoreboard', 0.16504049, u'binder', 0.1099932, u'digital_clock', 0.066735506, u'screen', 0.062395737, u'cash_machine', 0.031722214]
+[u'comic_book', 0.92453945, u'book_jacket', 0.070000567, u'web_site', 0.0044191661, u'jigsaw_puzzle', 0.00023105496, u'mountain_bike', 0.00015402486]

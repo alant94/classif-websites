@@ -1,0 +1,2 @@
+[u'envelope', 0.37184244, u'book_jacket', 0.21448898, u'binder', 0.15018736]
+[u'nematode', 0.050431885, u'chime', 0.043543924, u'golf_ball', 0.029659918]

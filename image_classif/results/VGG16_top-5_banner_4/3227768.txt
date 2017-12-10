@@ -1,0 +1,6 @@
+[u'chime', 0.55547142, u'organ', 0.34659553, u'turnstile', 0.018793739, u'matchstick', 0.01115201, u'sliding_door', 0.0044322358]
+[u'puck', 0.23762111, u'book_jacket', 0.19758259, u'toilet_seat', 0.0625524, u'chocolate_sauce', 0.061226569, u'comic_book', 0.025550989]
+[u'web_site', 0.2244979, u'street_sign', 0.079819873, u'Band_Aid', 0.06638892, u'hatchet', 0.030345539, u'envelope', 0.029986722]
+[u'flagpole', 0.069748558, u'beacon', 0.032796443, u'parachute', 0.025761846, u'cash_machine', 0.024606133, u'wardrobe', 0.0217958]
+[u'picket_fence', 0.68611693, u'worm_fence', 0.15166591, u'palace', 0.022749985, u'mosque', 0.0070259101, u'book_jacket', 0.0054181488]
+[u'web_site', 0.26780242, u'comic_book', 0.24934046, u'book_jacket', 0.18635918, u'menu', 0.10715412, u'Band_Aid', 0.060685959]

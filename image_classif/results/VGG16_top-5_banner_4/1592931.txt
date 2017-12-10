@@ -1,0 +1,2 @@
+[u'brassiere', 0.13480143, u'bikini', 0.070962645, u'dumbbell', 0.050250441, u'teddy', 0.039015219, u'toy_poodle', 0.028162351]
+[u'motor_scooter', 0.73148072, u'moped', 0.17803007, u'crash_helmet', 0.088028215, u'disk_brake', 0.0011460204, u'lawn_mower', 0.0003008323]

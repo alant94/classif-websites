@@ -1,0 +1,8 @@
+[u'web_site', 0.4074572, u'television', 0.095815025, u'screen', 0.086284027, u'book_jacket', 0.057235781, u'hand-held_computer', 0.036774706]
+[u'web_site', 0.070355333, u'scoreboard', 0.065089829, u'cash_machine', 0.061238971, u'street_sign', 0.043325655, u'digital_clock', 0.042233072]
+[u'ocarina', 0.22010143, u'piggy_bank', 0.17175341, u'triceratops', 0.12538095, u'banana', 0.053442329, u'starfish', 0.03924318]
+[u'school_bus', 0.3855525, u'traffic_light', 0.059504259, u'cab', 0.054825343, u'restaurant', 0.047266774, u'street_sign', 0.044001926]
+[u'web_site', 0.35975775, u'book_jacket', 0.051106948, u'comic_book', 0.046997521, u'chain_saw', 0.031767726, u'menu', 0.015698707]
+[u'book_jacket', 0.13400047, u'tobacco_shop', 0.1052717, u'street_sign', 0.098099731, u'hair_spray', 0.09203878, u'Band_Aid', 0.067902818]
+[u'alp', 0.35730749, u'cliff', 0.079138018, u'castle', 0.054453876, u'mountain_bike', 0.03321543, u'stupa', 0.0303654]
+[u'envelope', 0.49423161, u'Band_Aid', 0.15458177, u'web_site', 0.041826792, u'mortarboard', 0.038506839, u'binder', 0.030112863]

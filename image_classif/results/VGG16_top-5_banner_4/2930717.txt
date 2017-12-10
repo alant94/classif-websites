@@ -1,0 +1,3 @@
+[u'picket_fence', 0.24051492, u'boathouse', 0.20242187, u'solar_dish', 0.058519889, u'thatch', 0.057679776, u'church', 0.030411169]
+[u'window_screen', 0.22805516, u'sliding_door', 0.17191653, u'window_shade', 0.14272402, u'barbershop', 0.11712079, u'doormat', 0.080161467]
+[u'book_jacket', 0.15406023, u'web_site', 0.077205777, u'lotion', 0.066607192, u'envelope', 0.05227064, u'perfume', 0.050458599]

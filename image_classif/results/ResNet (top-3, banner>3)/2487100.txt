@@ -1,0 +1,6 @@
+[u'hatchet', 0.053045347, u'sunglass', 0.043278478, u'buckle', 0.036857009]
+[u'ibex', 0.61396939, u'bighorn', 0.1107494, u'hartebeest', 0.10716055]
+[u'wallaby', 0.4016512, u'cougar', 0.32091734, u'red_wolf', 0.067678981]
+[u'ox', 0.31085649, u'ibex', 0.19311628, u'water_buffalo', 0.16458844]
+[u'screwdriver', 0.45448866, u'nail', 0.39455491, u'hammer', 0.042012829]
+[u'screwdriver', 0.56051505, u'nail', 0.1973633, u"carpenter's_kit", 0.080263622]

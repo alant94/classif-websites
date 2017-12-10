@@ -1,0 +1,2 @@
+[u'hare', 0.20267636, u'hartebeest', 0.18109651, u'wood_rabbit', 0.10639133]
+[u'Walker_hound', 0.62451506, u'English_setter', 0.16808355, u'English_foxhound', 0.074610449]

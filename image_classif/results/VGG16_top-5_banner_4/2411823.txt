@@ -1,0 +1,2 @@
+[u'envelope', 0.19133738, u'web_site', 0.091964819, u'Band_Aid', 0.051710777, u'maze', 0.035127345, u'analog_clock', 0.029545555]
+[u'quill', 0.056452714, u'gasmask', 0.052474089, u'tennis_ball', 0.050161216, u'knee_pad', 0.039968621, u'bib', 0.037906885]

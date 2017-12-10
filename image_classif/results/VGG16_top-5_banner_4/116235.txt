@@ -1,0 +1,3 @@
+[u'bell_cote', 0.62720335, u'stupa', 0.10191905, u'space_shuttle', 0.044507854, u'monastery', 0.041528199, u'church', 0.025907792]
+[u'digital_clock', 0.30430606, u'Windsor_tie', 0.11417889, u'maze', 0.10284703, u'prayer_rug', 0.064176403, u'analog_clock', 0.030594418]
+[u'envelope', 0.036787711, u'web_site', 0.019306436, u'safety_pin', 0.013590678, u'hook', 0.013029486, u'modem', 0.012978005]

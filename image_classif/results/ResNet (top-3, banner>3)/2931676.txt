@@ -1,0 +1,7 @@
+[u'pajama', 0.27301446, u'miniskirt', 0.1007785, u'web_site', 0.065629721]
+[u'gown', 0.15110904, u'maillot', 0.12023291, u'bikini', 0.08410693]
+[u'oscilloscope', 0.24289224, u'web_site', 0.06970723, u'oxygen_mask', 0.054291766]
+[u'web_site', 0.1312128, u'comic_book', 0.060423311, u'menu', 0.047376238]
+[u'web_site', 0.25683832, u'lab_coat', 0.23513873, u'groom', 0.089260556]
+[u'sarong', 0.21370499, u'bikini', 0.11618467, u'gown', 0.10446798]
+[u'web_site', 0.33330792, u'barbershop', 0.044844896, u'hook', 0.031212935]

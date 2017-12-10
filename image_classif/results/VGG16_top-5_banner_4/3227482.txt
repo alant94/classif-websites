@@ -1,0 +1,4 @@
+[u'book_jacket', 0.61971259, u'comic_book', 0.03503878, u'flagpole', 0.027810963, u'jersey', 0.025260748, u'electric_guitar', 0.018937532]
+[u'vestment', 0.58033347, u'bow_tie', 0.2367205, u'apron', 0.017173668, u'bib', 0.01513917, u'Christmas_stocking', 0.0094958534]
+[u'envelope', 0.075404011, u'web_site', 0.072457604, u'matchstick', 0.044452358, u'sunscreen', 0.030043973, u'binder', 0.029498998]
+[u'organ', 0.3574543, u'chime', 0.2565245, u'screwdriver', 0.051642437, u'nail', 0.04495446, u'matchstick', 0.019836472]

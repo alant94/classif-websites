@@ -1,0 +1,2 @@
+[u'sax', 0.26892689, u'bassoon', 0.19167958, u'oboe', 0.16518202]
+[u'comic_book', 0.48030183, u'book_jacket', 0.34074354, u'butcher_shop', 0.029956691]

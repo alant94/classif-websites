@@ -1,0 +1,5 @@
+[u'web_site', 0.59098727, u'book_jacket', 0.15970364, u'comic_book', 0.06672968, u'scoreboard', 0.044471052, u'brass', 0.02357102]
+[u'cello', 0.65737116, u'violin', 0.27560401, u'hair_spray', 0.013098258, u'red_wine', 0.0091879824, u'bassoon', 0.0066369311]
+[u'wig', 0.14176489, u'bow_tie', 0.062821373, u'plunger', 0.058448497, u'feather_boa', 0.048906717, u'caldron', 0.034037381]
+[u'bow', 0.10826194, u'broom', 0.074518017, u'barrel', 0.067365125, u'lumbermill', 0.064030282, u'assault_rifle', 0.049777344]
+[u'web_site', 0.17975534, u'suit', 0.17382471, u'French_horn', 0.062609337, u'Windsor_tie', 0.049261395, u'brass', 0.045347806]

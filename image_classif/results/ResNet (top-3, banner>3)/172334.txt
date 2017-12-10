@@ -1,0 +1,6 @@
+[u'stage', 0.22928949, u'sax', 0.14335316, u'panpipe', 0.098039292]
+[u'electric_guitar', 0.41548237, u'banjo', 0.29611376, u'cello', 0.14511269]
+[u'wardrobe', 0.20127374, u'cowboy_boot', 0.074756272, u'brassiere', 0.062479079]
+[u'chain', 0.1736473, u'bannister', 0.11201445, u'brassiere', 0.057527833]
+[u'wooden_spoon', 0.23178101, u'paintbrush', 0.18996745, u'wardrobe', 0.052285507]
+[u'theater_curtain', 0.94798332, u'stage', 0.021155825, u'church', 0.012103125]

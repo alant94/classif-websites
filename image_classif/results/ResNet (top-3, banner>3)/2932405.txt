@@ -1,0 +1,1 @@
+[u'soap_dispenser', 0.2277824, u'perfume', 0.19296074, u'lotion', 0.18544681]

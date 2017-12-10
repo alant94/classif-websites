@@ -1,0 +1,3 @@
+[u'poncho', 0.21207483, u'maillot', 0.19081576, u'abaya', 0.12043083]
+[u'brassiere', 0.39294448, u'bikini', 0.093228057, u'parallel_bars', 0.043878514]
+[u'brassiere', 0.78581321, u'bikini', 0.059387125, u'maillot', 0.016331369]

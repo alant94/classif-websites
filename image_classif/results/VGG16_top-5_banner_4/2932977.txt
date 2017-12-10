@@ -1,0 +1,5 @@
+[u'stole', 0.32697013, u'sarong', 0.051938627, u'mailbag', 0.035730511, u'iron', 0.026805744, u'handkerchief', 0.022612074]
+[u'street_sign', 0.14578813, u'scoreboard', 0.020161593, u'hair_spray', 0.018421825, u'digital_clock', 0.017477328, u'hook', 0.017430549]
+[u'paintbrush', 0.18887286, u'bikini', 0.087045431, u'picket_fence', 0.060899463, u'fountain', 0.05496731, u'brassiere', 0.04109716]
+[u'nipple', 0.62956172, u'ice_lolly', 0.18975136, u'maraca', 0.056108586, u'bubble', 0.024265319, u'hair_slide', 0.021926992]
+[u'picket_fence', 0.24010481, u'tile_roof', 0.11870565, u'bell_cote', 0.081951939, u'church', 0.081464767, u'boathouse', 0.069595732]

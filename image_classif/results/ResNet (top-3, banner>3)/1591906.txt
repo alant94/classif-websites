@@ -1,0 +1,8 @@
+[u'scorpion', 0.38294935, u'tick', 0.25301513, u'isopod', 0.11244987]
+[u'web_site', 0.86299592, u'menu', 0.021421529, u'groom', 0.017823871]
+[u'oxygen_mask', 0.55381018, u'remote_control', 0.11108945, u'loupe', 0.10182656]
+[u'fire_screen', 0.27731639, u'wig', 0.25609398, u'briard', 0.027770901]
+[u'bikini', 0.90574116, u'harp', 0.01148699, u'maillot', 0.01068987]
+[u'Bernese_mountain_dog', 0.20357123, u'Gordon_setter', 0.13935436, u'Appenzeller', 0.09724579]
+[u'wig', 0.66992754, u'miniskirt', 0.04043198, u'wool', 0.037288841]
+[u'tripod', 0.60425144, u'stopwatch', 0.06916333, u'analog_clock', 0.053808492]

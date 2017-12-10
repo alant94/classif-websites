@@ -1,0 +1,1 @@
+[u'syringe', 0.39988604, u'rule', 0.22937413, u'screwdriver', 0.17339365, u'nail', 0.049508322, u'slide_rule', 0.034416012]

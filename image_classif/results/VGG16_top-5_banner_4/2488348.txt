@@ -1,0 +1,4 @@
+[u'impala', 0.4849892, u'hartebeest', 0.37889186, u'gazelle', 0.12198763, u'ibex', 0.0090002464, u'ox', 0.0020546783]
+[u'shield', 0.15351003, u'thimble', 0.14408891, u'oil_filter', 0.064446293, u'Band_Aid', 0.054030947, u'packet', 0.053514417]
+[u'web_site', 0.52589172, u'envelope', 0.036618274, u'sunscreen', 0.033046287, u'coil', 0.03077133, u'whistle', 0.027466377]
+[u'puck', 0.93624091, u'face_powder', 0.011582275, u'bottlecap', 0.011471128, u'pick', 0.0095201805, u'sunscreen', 0.0035221328]

@@ -1,0 +1,7 @@
+[u'binder', 0.15496032, u'envelope', 0.13155381, u'analog_clock', 0.052606173]
+[u'web_site', 0.12158914, u'lighter', 0.097619429, u'football_helmet', 0.061349329]
+[u'tripod', 0.21523704, u'maraca', 0.19433941, u'hook', 0.10353999]
+[u'organ', 0.40528259, u'bannister', 0.09973859, u'unicycle', 0.081691779]
+[u'web_site', 0.41644576, u'digital_clock', 0.3211844, u'analog_clock', 0.020215064]
+[u'fur_coat', 0.31412849, u'bearskin', 0.19324216, u'suit', 0.12346899]
+[u'screwdriver', 0.16981299, u'whistle', 0.12696688, u"carpenter's_kit", 0.065794088]

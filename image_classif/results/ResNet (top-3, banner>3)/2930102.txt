@@ -1,0 +1,4 @@
+[u'screen', 0.048196677, u'envelope', 0.045465585, u'television', 0.043713719]
+[u'screen', 0.30413264, u'television', 0.16645271, u'monitor', 0.15827127]
+[u'television', 0.15383954, u'screen', 0.12986657, u'monitor', 0.089566708]
+[u'book_jacket', 0.53813517, u'cash_machine', 0.08614523, u'web_site', 0.065532841]

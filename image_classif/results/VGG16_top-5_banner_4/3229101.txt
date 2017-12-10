@@ -1,0 +1,4 @@
+[u'iron', 0.10389683, u'hand_blower', 0.095564753, u'microphone', 0.058503088, u'electric_fan', 0.040186193, u'can_opener', 0.027171962]
+[u'comic_book', 0.084877476, u'coral_fungus', 0.055193469, u'book_jacket', 0.047868181, u'letter_opener', 0.031978719, u'ski', 0.030061202]
+[u'altar', 0.76868296, u'candle', 0.11729798, u'vestment', 0.028962988, u'wine_bottle', 0.0080413744, u'grand_piano', 0.0073332922]
+[u'candle', 0.13385633, u'chime', 0.10371347, u'altar', 0.086221747, u'vestment', 0.053236295, u'torch', 0.05209066]

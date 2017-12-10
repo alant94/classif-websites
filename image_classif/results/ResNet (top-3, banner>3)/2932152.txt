@@ -1,0 +1,2 @@
+[u'ambulance', 0.099955589, u'web_site', 0.075116843, u'analog_clock', 0.057888407]
+[u'envelope', 0.22009543, u'switch', 0.071228303, u'monitor', 0.065269828]

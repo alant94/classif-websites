@@ -1,0 +1,2 @@
+[u'picket_fence', 0.28088006, u'church', 0.1873191, u'barn', 0.16936125]
+[u'Irish_wolfhound', 0.3955186, u'Scottish_deerhound', 0.11654826, u'Bouvier_des_Flandres', 0.067759983]

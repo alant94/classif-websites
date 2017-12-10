@@ -1,0 +1,7 @@
+[u'prison', 0.16533817, u'window_shade', 0.098223612, u'cello', 0.082415968, u'harmonica', 0.077664085, u'cellular_telephone', 0.063425072]
+[u'envelope', 0.16443838, u'picket_fence', 0.069886275, u'binder', 0.055259295, u'web_site', 0.035637833, u'wardrobe', 0.029859889]
+[u'lipstick', 0.25653139, u'red_wine', 0.093293697, u'maillot', 0.05718451, u'cleaver', 0.049011726, u'suit', 0.044981994]
+[u'shower_curtain', 0.28214675, u'maillot', 0.088447437, u'brassiere', 0.063133836, u'iron', 0.058048461, u'lab_coat', 0.041127484]
+[u'bow_tie', 0.13973302, u'hair_spray', 0.063486695, u'mask', 0.059881251, u'microphone', 0.043630771, u'lipstick', 0.038532525]
+[u'envelope', 0.11496079, u'binder', 0.11292131, u'web_site', 0.062226739, u'wardrobe', 0.043912239, u'analog_clock', 0.038791981]
+[u'envelope', 0.2018493, u'binder', 0.063893341, u'picket_fence', 0.060633726, u'web_site', 0.037530214, u'wardrobe', 0.03559028]

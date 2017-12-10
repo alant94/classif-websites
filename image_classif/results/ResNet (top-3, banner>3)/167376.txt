@@ -1,0 +1,8 @@
+[u'corkscrew', 0.64664149, u'hammer', 0.085441008, u'hatchet', 0.033554662]
+[u'computer_keyboard', 0.67366076, u'cash_machine', 0.078504592, u'notebook', 0.075969629]
+[u'swab', 0.14916791, u'toyshop', 0.097070597, u'guillotine', 0.073289782]
+[u'ski', 0.94995964, u'mountain_bike', 0.015744086, u'comic_book', 0.0099111749]
+[u'toilet_tissue', 0.77209902, u'paper_towel', 0.04667107, u'washbasin', 0.024248147]
+[u'washbasin', 0.1917484, u'lighter', 0.12784725, u'loudspeaker', 0.090274908]
+[u'scale', 0.15832096, u'joystick', 0.11708733, u'table_lamp', 0.10069848]
+[u'desktop_computer', 0.23122284, u'modem', 0.21557252, u'file', 0.12722941]

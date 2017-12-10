@@ -1,0 +1,2 @@
+[u'oil_filter', 0.17928359, u'coffee_mug', 0.077041909, u'dishwasher', 0.064561084]
+[u'web_site', 0.41978845, u'comic_book', 0.14973444, u'book_jacket', 0.052226901]

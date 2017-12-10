@@ -1,0 +1,8 @@
+[u'magnetic_compass', 0.2934469, u'spotlight', 0.1094286, u'screw', 0.073031403, u'whistle', 0.048632052, u'loupe', 0.030965585]
+[u'whistle', 0.93823791, u'digital_clock', 0.031864494, u'switch', 0.0079594487, u'pencil_sharpener', 0.0042484291, u'rubber_eraser', 0.0033498916]
+[u'book_jacket', 0.2600944, u'scoreboard', 0.05479433, u'comic_book', 0.039600208, u'balloon', 0.039577462, u'airship', 0.027734302]
+[u'binder', 0.20459464, u'envelope', 0.1641503, u'tray', 0.043325305, u'book_jacket', 0.041067738, u'refrigerator', 0.040704783]
+[u'fountain', 0.21329767, u'wine_bottle', 0.10708151, u'pop_bottle', 0.091331303, u'shower_curtain', 0.053658806, u'chime', 0.039667744]
+[u'envelope', 0.13984539, u'web_site', 0.068592146, u'Band_Aid', 0.042714238, u'binder', 0.021379301, u'Windsor_tie', 0.019473901]
+[u'handkerchief', 0.24079792, u'carton', 0.16889675, u'Christmas_stocking', 0.13019082, u'umbrella', 0.10391266, u'wallet', 0.059670825]
+[u'hand_blower', 0.33807042, u'iron', 0.11801116, u'measuring_cup', 0.079685956, u'water_jug', 0.068437263, u'can_opener', 0.03878605]

@@ -1,0 +1,1 @@
+[u'microphone', 0.12757681, u'spotlight', 0.075483315, u'bow_tie', 0.069475152, u'television', 0.04038037, u'neck_brace', 0.034344368]

@@ -1,0 +1,8 @@
+[u'oxygen_mask', 0.30891848, u'English_springer', 0.28938374, u'Boston_bull', 0.079939634]
+[u'hare', 0.19600481, u'packet', 0.14368477, u'comic_book', 0.062569156]
+[u'toyshop', 0.22331518, u'police_van', 0.047587644, u'jigsaw_puzzle', 0.047396261]
+[u'cassette', 0.43441206, u'gong', 0.10625724, u'iPod', 0.086849771]
+[u'skunk', 0.23638245, u'golf_ball', 0.16429137, u'English_springer', 0.07878276]
+[u'nipple', 0.22318946, u'hair_spray', 0.15409203, u'whistle', 0.083043687]
+[u'hook', 0.57155299, u'joystick', 0.18581071, u'green_mamba', 0.029672811]
+[u'digital_watch', 0.42789313, u'digital_clock', 0.22043407, u'oscilloscope', 0.068490647]

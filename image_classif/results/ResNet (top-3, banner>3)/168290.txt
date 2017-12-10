@@ -1,0 +1,7 @@
+[u'laptop', 0.21647149, u'web_site', 0.18948154, u'book_jacket', 0.13146311]
+[u'loupe', 0.64478976, u'switch', 0.1521333, u'joystick', 0.14930338]
+[u'fireboat', 0.20688561, u'fire_engine', 0.068397209, u'papillon', 0.064743444]
+[u'electric_fan', 0.47438657, u'racket', 0.10075798, u'web_site', 0.049775034]
+[u'harp', 0.3968305, u'prison', 0.10906471, u'West_Highland_white_terrier', 0.084086485]
+[u'container_ship', 0.52028525, u'switch', 0.078887872, u'joystick', 0.042801924]
+[u'plastic_bag', 0.11706676, u'packet', 0.070079312, u'airship', 0.068415724]

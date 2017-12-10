@@ -1,0 +1,4 @@
+[u'digital_clock', 0.18810229, u'screen', 0.13370697, u'oscilloscope', 0.094601184]
+[u'web_site', 0.12691987, u'shield', 0.083862111, u'can_opener', 0.068950668]
+[u'Band_Aid', 0.48736012, u'web_site', 0.46576086, u'cash_machine', 0.0089329369]
+[u'web_site', 0.79989433, u'Band_Aid', 0.062764697, u'cash_machine', 0.035596266]

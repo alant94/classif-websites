@@ -1,0 +1,7 @@
+[u'bow', 0.271678, u'pajama', 0.098173857, u'ski', 0.072063543, u'maillot', 0.067357533, u'jersey', 0.053750016]
+[u'snorkel', 0.84099329, u'web_site', 0.023773879, u'Airedale', 0.016680704, u'bikini', 0.0080940183, u'tub', 0.0078838645]
+[u'pick', 0.31564921, u'sunscreen', 0.059532255, u'face_powder', 0.05805805, u'puck', 0.038466342, u'loupe', 0.029057344]
+[u'can_opener', 0.24548973, u'hair_slide', 0.10818873, u'sunglass', 0.080741964, u'hook', 0.079403572, u'safety_pin', 0.057948921]
+[u'binder', 0.46531218, u'jersey', 0.20495528, u'comic_book', 0.044953924, u'packet', 0.028911667, u'envelope', 0.026080981]
+[u'bathing_cap', 0.29675046, u'swimming_trunks', 0.18258081, u'snorkel', 0.1498844, u'maillot', 0.1180313, u'maillot', 0.085329756]
+[u'analog_clock', 0.29581073, u'wall_clock', 0.17660464, u'magnetic_compass', 0.13551937, u'maraca', 0.044058669, u'packet', 0.039774604]

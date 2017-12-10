@@ -1,0 +1,1 @@
+[u'web_site', 0.22288325, u'envelope', 0.048890661, u'power_drill', 0.048229981, u'rifle', 0.045397036, u'jersey', 0.03500722]

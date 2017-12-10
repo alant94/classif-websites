@@ -1,0 +1,2 @@
+[u'water_tower', 0.60283011, u'balloon', 0.14902988, u'dome', 0.085598938, u'yurt', 0.025032574, u'chainlink_fence', 0.02170885]
+[u'screen', 0.50038755, u'monitor', 0.10462479, u'oscilloscope', 0.073110677, u'television', 0.054230582, u'space_shuttle', 0.033656832]

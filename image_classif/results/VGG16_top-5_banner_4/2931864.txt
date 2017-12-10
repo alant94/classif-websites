@@ -1,0 +1,4 @@
+[u'envelope', 0.13781886, u'web_site', 0.13358231, u'hook', 0.021134019, u'abaya', 0.020980924, u'wardrobe', 0.019118147]
+[u'nail', 0.56019032, u'warplane', 0.16018726, u'screw', 0.033048347, u'wing', 0.02365832, u'hook', 0.01866677]
+[u'bow', 0.18505089, u'barbershop', 0.11828882, u'punching_bag', 0.026596487, u'racket', 0.019566167, u'street_sign', 0.018030871]
+[u'airliner', 0.76651686, u'airship', 0.097133897, u'wing', 0.077391542, u'space_shuttle', 0.027200947, u'warplane', 0.023919765]

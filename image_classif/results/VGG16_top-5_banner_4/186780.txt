@@ -1,0 +1,7 @@
+[u'plunger', 0.1984484, u'wooden_spoon', 0.038604077, u'swab', 0.038044486, u'tub', 0.02421855, u'crutch', 0.022738598]
+[u'groom', 0.72300124, u'gown', 0.10635577, u'suit', 0.041770957, u'bow_tie', 0.019028191, u'kimono', 0.015973879]
+[u'menu', 0.27794585, u'web_site', 0.16652426, u'book_jacket', 0.03701083, u'crossword_puzzle', 0.029587012, u'brass', 0.02033213]
+[u'sax', 0.10937774, u'spotlight', 0.077464297, u'suit', 0.070861503, u'stage', 0.060694724, u'cello', 0.055357333]
+[u'web_site', 0.75297606, u'suit', 0.063387685, u'Windsor_tie', 0.054334253, u'groom', 0.05292346, u'lab_coat', 0.01871945]
+[u'paper_towel', 0.66282463, u'restaurant', 0.041814867, u'toilet_tissue', 0.037480801, u'bathtub', 0.025857411, u'tub', 0.022479977]
+[u'suit', 0.35459512, u'notebook', 0.080089137, u'web_site', 0.067290388, u'Windsor_tie', 0.057069387, u'lab_coat', 0.028236393]

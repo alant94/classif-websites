@@ -1,0 +1,2 @@
+[u'Ibizan_hound', 0.23679155, u'Cardigan', 0.19979556, u'basenji', 0.10654522, u'Italian_greyhound', 0.057739284, u'kelpie', 0.040532708]
+[u'whippet', 0.44856924, u'borzoi', 0.35680583, u'Saluki', 0.07404884, u'Scottish_deerhound', 0.020930581, u'Ibizan_hound', 0.017522011]

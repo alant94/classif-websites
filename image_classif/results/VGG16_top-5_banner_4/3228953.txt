@@ -1,0 +1,8 @@
+[u'envelope', 0.27129817, u'book_jacket', 0.098732516, u'digital_clock', 0.07196591, u'carton', 0.068267018, u'packet', 0.039524991]
+[u'Gordon_setter', 0.10128456, u'black-and-tan_coonhound', 0.077364437, u'Bernese_mountain_dog', 0.071593925, u'poncho', 0.062110685, u'Greater_Swiss_Mountain_dog', 0.046438608]
+[u'seat_belt', 0.24503584, u'military_uniform', 0.044451069, u'pajama', 0.039114516, u'trench_coat', 0.03816285, u'shower_curtain', 0.028360048]
+[u'prison', 0.11779571, u'web_site', 0.056191292, u'bow_tie', 0.052533474, u'academic_gown', 0.043552883, u'groom', 0.034962948]
+[u'church', 0.88747811, u'altar', 0.055256933, u'vault', 0.023710201, u'organ', 0.0040814471, u'window_screen', 0.0033729775]
+[u'suit', 0.17536145, u'Windsor_tie', 0.065420263, u'bow_tie', 0.052884776, u'vestment', 0.04518551, u'oboe', 0.042332537]
+[u'wardrobe', 0.3265402, u'vestment', 0.29323095, u'bow', 0.0960586, u'maypole', 0.042844806, u'kimono', 0.04137655]
+[u'wardrobe', 0.64314026, u'vestment', 0.23444654, u'lab_coat', 0.064633541, u'sweatshirt', 0.0096848058, u'handkerchief', 0.0083312625]

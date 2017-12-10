@@ -1,0 +1,3 @@
+[u'notebook', 0.13962707, u'television', 0.11186945, u'web_site', 0.089250766, u'monitor', 0.080835193, u'screen', 0.078694835]
+[u'notebook', 0.27911606, u'laptop', 0.16603245, u'television', 0.040903069, u'ping-pong_ball', 0.040552881, u'monitor', 0.03843677]
+[u'moving_van', 0.17392164, u'street_sign', 0.11825216, u'book_jacket', 0.08881744, u'Band_Aid', 0.04015312, u'web_site', 0.031716589]

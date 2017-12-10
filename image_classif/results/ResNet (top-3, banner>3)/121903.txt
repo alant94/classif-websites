@@ -1,0 +1,6 @@
+[u'comic_book', 0.18623295, u'chain_saw', 0.17186159, u'triumphal_arch', 0.16002038]
+[u'church', 0.77372247, u'beacon', 0.054551858, u'picket_fence', 0.046235524]
+[u'digital_clock', 0.64301807, u'digital_watch', 0.090650983, u'jersey', 0.029414156]
+[u'coil', 0.1282562, u'container_ship', 0.11017851, u'hair_slide', 0.068365999]
+[u'digital_clock', 0.65434283, u'digital_watch', 0.083406277, u'crossword_puzzle', 0.047489502]
+[u'fire_screen', 0.32438523, u"jack-o'-lantern", 0.19507441, u'theater_curtain', 0.10630661]

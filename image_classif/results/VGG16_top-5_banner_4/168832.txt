@@ -1,0 +1,1 @@
+[u'packet', 0.54248017, u'comic_book', 0.21168314, u'jigsaw_puzzle', 0.13632222, u'menu', 0.066670634, u'plastic_bag', 0.0076381308]

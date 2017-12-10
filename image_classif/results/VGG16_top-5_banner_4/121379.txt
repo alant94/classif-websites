@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.16949756, u'comic_book', 0.050073389, u'bloodhound', 0.0294935, u'swimming_trunks', 0.028746953, u'vizsla', 0.026425652]
+[u'ski', 0.49255276, u'alp', 0.15075469, u'plastic_bag', 0.050883424, u'shovel', 0.025451746, u'dogsled', 0.021699466]
+[u'football_helmet', 0.99533623, u'ballplayer', 0.0033237424, u'mountain_bike', 0.00023976016, u'crash_helmet', 0.00021644027, u'bobsled', 0.00020850718]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

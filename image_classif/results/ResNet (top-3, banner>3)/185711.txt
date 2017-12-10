@@ -1,0 +1,8 @@
+[u'microphone', 0.34953541, u'spotlight', 0.22615035, u'tripod', 0.087554105]
+[u'cassette', 0.26681358, u'book_jacket', 0.13878231, u'oil_filter', 0.1068906]
+[u'oxygen_mask', 0.85612655, u'nipple', 0.051536188, u'electric_fan', 0.032122307]
+[u'window_screen', 0.3991276, u'solar_dish', 0.29886746, u'monitor', 0.045194894]
+[u'stove', 0.96386814, u'fire_screen', 0.030421155, u'space_heater', 0.0056606876]
+[u'web_site', 0.24262029, u'oil_filter', 0.092000008, u'envelope', 0.072294742]
+[u'vending_machine', 0.18313947, u'oscilloscope', 0.17370296, u'screwdriver', 0.11747]
+[u'prayer_rug', 0.17287514, u'jigsaw_puzzle', 0.083038367, u'fire_engine', 0.057318937]

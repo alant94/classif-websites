@@ -1,0 +1,2 @@
+[u'diaper', 0.25763777, u'Band_Aid', 0.10252727, u'lotion', 0.10249843]
+[u'gown', 0.25144428, u'hoopskirt', 0.13934186, u'overskirt', 0.12572916]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.089496553, u'scoreboard', 0.086981937, u'street_sign', 0.075833254, u'digital_clock', 0.045090232, u'traffic_light', 0.037250049]
+[u'toilet_seat', 0.27342114, u'sombrero', 0.14015257, u'gong', 0.095359892, u'bib', 0.0679124, u'face_powder', 0.063401185]

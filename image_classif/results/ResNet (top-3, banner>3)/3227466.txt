@@ -1,0 +1,5 @@
+[u'digital_clock', 0.090511635, u'web_site', 0.05232425, u'stopwatch', 0.043796916]
+[u'digital_clock', 0.2998895, u'analog_clock', 0.054986794, u'digital_watch', 0.048668817]
+[u'digital_clock', 0.23782279, u'CD_player', 0.071629591, u'stopwatch', 0.057613607]
+[u'digital_clock', 0.056372449, u'web_site', 0.045951795, u'analog_clock', 0.038841013]
+[u'digital_clock', 0.28559169, u'digital_watch', 0.16868971, u'analog_clock', 0.065017231]

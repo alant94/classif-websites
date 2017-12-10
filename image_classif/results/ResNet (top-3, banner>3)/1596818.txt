@@ -1,0 +1,8 @@
+[u'street_sign', 0.91797662, u'laptop', 0.013565592, u'scale', 0.0040830038]
+[u'street_sign', 0.39336324, u'crane', 0.043670546, u'electric_guitar', 0.034382973]
+[u'street_sign', 0.1294163, u'web_site', 0.037466962, u'oil_filter', 0.032628655]
+[u'jersey', 0.57087004, u'bib', 0.0544223, u'sweatshirt', 0.047186021]
+[u'street_sign', 0.19177046, u'envelope', 0.11608838, u'analog_clock', 0.10108693]
+[u'iPod', 0.75938952, u'cellular_telephone', 0.084236063, u'hand-held_computer', 0.065203615]
+[u'street_sign', 0.34789804, u'coffee_mug', 0.064901084, u'digital_watch', 0.063051246]
+[u'street_sign', 0.21526432, u'book_jacket', 0.03623135, u'digital_clock', 0.025238644]

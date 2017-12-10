@@ -1,0 +1,2 @@
+[u'albatross', 0.79713392, u'great_white_shark', 0.026969302, u'American_egret', 0.012587153]
+[u'academic_gown', 0.11802703, u'stethoscope', 0.087612338, u'mortarboard', 0.054025248]

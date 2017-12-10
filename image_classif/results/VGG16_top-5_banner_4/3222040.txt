@@ -1,0 +1,6 @@
+[u'organ', 0.36058086, u'altar', 0.15871377, u'candle', 0.097701013, u'shoji', 0.087112568, u'library', 0.053762753]
+[u'street_sign', 0.13281789, u'hook', 0.082881138, u'traffic_light', 0.069402806, u'chime', 0.041172933, u'electric_fan', 0.037336245]
+[u'toyshop', 0.094221719, u'restaurant', 0.094221048, u'altar', 0.07568679, u'shoe_shop', 0.061867796, u'library', 0.061356131]
+[u'scoreboard', 0.4653807, u'street_sign', 0.073939107, u'gas_pump', 0.045033474, u'digital_clock', 0.044203278, u'cash_machine', 0.03490613]
+[u'shopping_basket', 0.18464608, u'library', 0.17917432, u'bookshop', 0.080950536, u'grocery_store', 0.064288668, u'toyshop', 0.032218315]
+[u'picket_fence', 0.20731032, u'church', 0.092618763, u'patio', 0.086678311, u'monastery', 0.057925768, u'palace', 0.054679606]

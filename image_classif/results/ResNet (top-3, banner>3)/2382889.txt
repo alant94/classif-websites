@@ -1,0 +1,8 @@
+[u'cinema', 0.23643826, u'screw', 0.21438804, u'nail', 0.035872299]
+[u'barrel', 0.78671688, u'rain_barrel', 0.11349945, u'bucket', 0.039936207]
+[u'web_site', 0.17883836, u'packet', 0.16413806, u'lotion', 0.089130647]
+[u'pill_bottle', 0.75901699, u'whiskey_jug', 0.14517127, u'beer_bottle', 0.052270379]
+[u'book_jacket', 0.67034203, u'jersey', 0.10822043, u'envelope', 0.021474624]
+[u'digital_clock', 0.53332186, u'stopwatch', 0.097389847, u'web_site', 0.055694271]
+[u'laptop', 0.30499929, u'book_jacket', 0.27000162, u'web_site', 0.13638721]
+[u'beer_bottle', 0.98066908, u'beer_glass', 0.0074519892, u'pill_bottle', 0.0050292341]

@@ -1,0 +1,5 @@
+[u'puck', 0.31699303, u'ski', 0.19765659, u'bathing_cap', 0.026306776, u'bow', 0.017232811, u'bobsled', 0.014397544]
+[u'crate', 0.38384521, u'chainlink_fence', 0.16781546, u'packet', 0.038364977, u'carton', 0.03578027, u'barrel', 0.020821679]
+[u'screen', 0.27333462, u'oscilloscope', 0.26315179, u'web_site', 0.20204853, u'monitor', 0.078349181, u'vending_machine', 0.039573953]
+[u'crutch', 0.090931281, u'croquet_ball', 0.074608564, u'ballpoint', 0.056991462, u'paintbrush', 0.039654229, u'matchstick', 0.037039153]
+[u'fire_screen', 0.66412538, u'medicine_chest', 0.070988618, u'television', 0.058521867, u'window_screen', 0.055776224, u'wall_clock', 0.032133464]

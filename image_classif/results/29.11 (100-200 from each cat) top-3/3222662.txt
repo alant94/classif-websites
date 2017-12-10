@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'shield', 0.9118644, u'bottlecap', 0.012563342, u'breastplate', 0.012157396]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'folding_chair', 0.15805893, u'ballpoint', 0.090473548, u'web_site', 0.0726723]
+[u'frying_pan', 0.18185112, u'toilet_seat', 0.15829965, u'puck', 0.089152403]

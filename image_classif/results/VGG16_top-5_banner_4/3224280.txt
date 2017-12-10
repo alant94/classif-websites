@@ -1,0 +1,1 @@
+[u'altar', 0.65439576, u'vestment', 0.097421356, u'restaurant', 0.061355628, u'church', 0.017392907, u'monastery', 0.011361427]

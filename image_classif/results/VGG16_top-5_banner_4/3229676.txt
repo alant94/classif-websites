@@ -1,0 +1,2 @@
+[u'cheetah', 0.76212806, u'jaguar', 0.059619494, u'leopard', 0.052455604, u'snow_leopard', 0.044267692, u'dalmatian', 0.024970014]
+[u'book_jacket', 0.54381269, u'comic_book', 0.2511189, u'rifle', 0.013314304, u'cleaver', 0.0070303008, u"carpenter's_kit", 0.0066891438]

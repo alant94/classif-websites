@@ -1,0 +1,2 @@
+[u'centipede', 0.077259369, u'book_jacket', 0.074638158, u'buckle', 0.065468229]
+[u'entertainment_center', 0.59640294, u'home_theater', 0.23056313, u'television', 0.16013406]

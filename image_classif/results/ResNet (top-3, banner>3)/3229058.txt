@@ -1,0 +1,8 @@
+[u'diaper', 0.13704702, u'hair_spray', 0.11296211, u'cellular_telephone', 0.082084753]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'book_jacket', 0.5886113, u'brass', 0.056553774, u'perfume', 0.02086813]
+[u'seashore', 0.61400974, u'bikini', 0.080815077, u'torch', 0.05530284]
+[u'balance_beam', 0.80148888, u'vizsla', 0.031567995, u'American_Staffordshire_terrier', 0.014768132]
+[u'face_powder', 0.48693779, u'toilet_seat', 0.13664421, u'sunglass', 0.047496457]
+[u'face_powder', 0.92324048, u'pick', 0.028529458, u'toilet_seat', 0.017600929]
+[u'bikini', 0.60274613, u'diaper', 0.14770746, u'sunscreen', 0.14223595]

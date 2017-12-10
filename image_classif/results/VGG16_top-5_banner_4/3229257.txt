@@ -1,0 +1,1 @@
+[u'church', 0.6818428, u'barn', 0.089034677, u'worm_fence', 0.047063485, u'bell_cote', 0.044865955, u'picket_fence', 0.02120563]

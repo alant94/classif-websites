@@ -1,0 +1,6 @@
+[u'harp', 0.55583262, u'crutch', 0.090638585, u'kimono', 0.051253356]
+[u'web_site', 0.064322755, u'envelope', 0.0639266, u'nematode', 0.045862749]
+[u'cowboy_boot', 0.21689337, u'pole', 0.10029431, u'knot', 0.06922251]
+[u'sandal', 0.12898181, u'electric_guitar', 0.11424279, u'pencil_sharpener', 0.088240504]
+[u'dock', 0.18685837, u'gondola', 0.093628936, u'flagpole', 0.081047952]
+[u'maze', 0.21290602, u'tray', 0.11042291, u'street_sign', 0.085890897]

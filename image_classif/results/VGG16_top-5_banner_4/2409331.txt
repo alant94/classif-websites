@@ -1,0 +1,2 @@
+[u'bathing_cap', 0.20414191, u'bikini', 0.067422688, u'book_jacket', 0.05512891, u'lipstick', 0.031991888, u'face_powder', 0.031991418]
+[u'mouse', 0.9594146, u'computer_keyboard', 0.0043970295, u'remote_control', 0.0039485935, u'ballpoint', 0.0032017331, u'iPod', 0.0029967783]

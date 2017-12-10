@@ -1,0 +1,2 @@
+[u'book_jacket', 0.29655606, u'lighter', 0.23483086, u'buckle', 0.17980979]
+[u'book_jacket', 0.48246992, u'tray', 0.11747354, u'thimble', 0.060370855]

@@ -1,0 +1,6 @@
+[u'electric_ray', 0.077421367, u'ox', 0.035620451, u'hog', 0.0330979, u'plow', 0.032968078, u'stingray', 0.028874051]
+[u'gazelle', 0.14563482, u'impala', 0.12769565, u'hare', 0.079124868, u'prairie_chicken', 0.072799668, u'wood_rabbit', 0.071559891]
+[u'menu', 0.51311338, u'scoreboard', 0.13633935, u'comic_book', 0.12300342, u'book_jacket', 0.072264999, u'brass', 0.014239556]
+[u'cash_machine', 0.40875471, u'street_sign', 0.17462951, u'gas_pump', 0.032775696, u'book_jacket', 0.025472784, u'mailbox', 0.024491308]
+[u'agama', 0.28154793, u'common_iguana', 0.07848563, u'African_crocodile', 0.076683126, u'chain_saw', 0.042505678, u'lumbermill', 0.041106999]
+[u'water_buffalo', 0.5045473, u'ox', 0.40572226, u'oxcart', 0.029577011, u'bison', 0.0091218399, u'tusker', 0.0090596443]

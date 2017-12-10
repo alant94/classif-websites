@@ -1,0 +1,6 @@
+[u'web_site', 0.20245133, u'theater_curtain', 0.076868281, u'binder', 0.05654053]
+[u'red_wine', 0.61051756, u'wine_bottle', 0.38618645, u'beer_bottle', 0.0015670985]
+[u'street_sign', 0.18689086, u'traffic_light', 0.092570238, u'football_helmet', 0.063333683]
+[u'prayer_rug', 0.18001802, u'ambulance', 0.15311012, u'book_jacket', 0.14958103]
+[u'book_jacket', 0.54070932, u'web_site', 0.12079816, u'lipstick', 0.035034839]
+[u'street_sign', 0.22223249, u'digital_clock', 0.13769618, u'oxygen_mask', 0.074956089]

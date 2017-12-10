@@ -1,0 +1,5 @@
+[u'prairie_chicken', 0.43273398, u'kite', 0.14280032, u'vulture', 0.11108738, u'hen', 0.0441842, u'great_grey_owl', 0.034379251]
+[u'bald_eagle', 0.92651814, u'kite', 0.033667251, u'hornbill', 0.01465557, u'vulture', 0.0059956894, u'white_stork', 0.0036814648]
+[u'oil_filter', 0.11491016, u'pill_bottle', 0.087919086, u'sunscreen', 0.053982183, u'ashcan', 0.049581524, u'street_sign', 0.044796336]
+[u'comic_book', 0.11558716, u'Band_Aid', 0.075065739, u'book_jacket', 0.061504696, u'jigsaw_puzzle', 0.043600406, u'packet', 0.043178301]
+[u'cash_machine', 0.40199026, u'street_sign', 0.074294552, u'book_jacket', 0.062873848, u'mailbox', 0.039641786, u'scoreboard', 0.028158695]

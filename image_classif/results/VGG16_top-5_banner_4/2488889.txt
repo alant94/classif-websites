@@ -1,0 +1,4 @@
+[u'African_hunting_dog', 0.23631112, u'Arabian_camel', 0.11402776, u'impala', 0.062977932, u'red_wolf', 0.047953188, u'gazelle', 0.037558034]
+[u'impala', 0.76479584, u'gazelle', 0.18859425, u'hartebeest', 0.039103001, u'bighorn', 0.0036912458, u'ibex', 0.0029417672]
+[u'envelope', 0.32720944, u'bow', 0.22683753, u'web_site', 0.12640724, u'swab', 0.082392849, u'ski', 0.024142355]
+[u'mobile_home', 0.7946288, u'boathouse', 0.17195988, u'lakeside', 0.0083941286, u'yurt', 0.0042026378, u'lumbermill', 0.0024387387]

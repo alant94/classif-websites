@@ -1,0 +1,3 @@
+[u'electric_fan', 0.16344339, u'iron', 0.098966137, u'pay-phone', 0.094430901]
+[u'dishwasher', 0.19781654, u'envelope', 0.063088611, u'refrigerator', 0.02764938]
+[u'screen', 0.67784172, u'monitor', 0.071124479, u'desktop_computer', 0.030849533]

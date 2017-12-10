@@ -1,0 +1,1 @@
+[u'soccer_ball', 0.33148229, u'crash_helmet', 0.13874862, u'spotlight', 0.13755573, u'pencil_sharpener', 0.043898165, u'maraca', 0.042074054]

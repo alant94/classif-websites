@@ -1,0 +1,4 @@
+[u'triceratops', 0.24040549, u'bluetick', 0.1242612, u'barrow', 0.10086995, u'hook', 0.044015639, u'tusker', 0.043841425]
+[u'plate_rack', 0.38716632, u'hook', 0.050083242, u'nail', 0.026853479, u'bannister', 0.026593074, u'folding_chair', 0.025119223]
+[u'ibex', 0.14858912, u'ox', 0.096011676, u'bighorn', 0.078442149, u'water_buffalo', 0.072630964, u'plow', 0.065764077]
+[u'ibex', 0.1084213, u'llama', 0.086197823, u'impala', 0.078799866, u'bighorn', 0.055745099, u'hartebeest', 0.048852608]

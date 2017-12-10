@@ -1,0 +1,1 @@
+[u'cinema', 0.11866771, u'restaurant', 0.092770398, u'church', 0.07332024, u'vault', 0.059265085, u'streetcar', 0.045987636]

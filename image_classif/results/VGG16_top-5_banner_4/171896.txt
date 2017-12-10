@@ -1,0 +1,3 @@
+[u'knee_pad', 0.32881254, u'pencil_sharpener', 0.13942064, u'wool', 0.08615949, u'bath_towel', 0.033924226, u'wallet', 0.026038425]
+[u'minibus', 0.40652108, u'moving_van', 0.33145127, u'police_van', 0.11606153, u'minivan', 0.098852381, u'ambulance', 0.020600611]
+[u'crate', 0.5517168, u'barrel', 0.052212413, u'rule', 0.043676469, u'file', 0.042455394, u'plane', 0.040908579]

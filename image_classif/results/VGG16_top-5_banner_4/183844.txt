@@ -1,0 +1,3 @@
+[u'screwdriver', 0.36338344, u'nail', 0.13093449, u'paintbrush', 0.11028397, u"carpenter's_kit", 0.037523359, u'letter_opener', 0.029334702]
+[u'jersey', 0.11270422, u'sweatshirt', 0.080962062, u'book_jacket', 0.044477925, u'comic_book', 0.044062618, u'pick', 0.029470159]
+[u'lighter', 0.12986501, u'book_jacket', 0.095490895, u'mousetrap', 0.085106619, u'matchstick', 0.073980883, u'packet', 0.044236839]

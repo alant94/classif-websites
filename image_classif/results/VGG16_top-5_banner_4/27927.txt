@@ -1,0 +1,1 @@
+[u'comic_book', 0.23694973, u'ballpoint', 0.095401905, u'book_jacket', 0.093116231, u'quill', 0.049388707, u'screwdriver', 0.041449923]

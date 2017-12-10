@@ -1,0 +1,6 @@
+[u'promontory', 0.43655843, u'seashore', 0.18625478, u'lakeside', 0.17167303, u'cliff', 0.080456316, u'breakwater', 0.053995572]
+[u'American_black_bear', 0.18795082, u'tusker', 0.094234191, u'bison', 0.041267496, u'sloth_bear', 0.02379987, u'red_wolf', 0.021439902]
+[u'alp', 0.29036665, u'cliff', 0.1745377, u'seashore', 0.096743152, u'geyser', 0.069128074, u'promontory', 0.063988157]
+[u'American_egret', 0.30691412, u'crane', 0.1541618, u'spoonbill', 0.13068666, u'goose', 0.072864853, u'flamingo', 0.043882925]
+[u'cliff', 0.35042536, u'valley', 0.11509697, u'wreck', 0.030381775, u'mountain_bike', 0.027548688, u'suspension_bridge', 0.025101194]
+[u'seashore', 0.29606208, u'sandbar', 0.10133475, u'pelican', 0.051089585, u'black_stork', 0.048973694, u'lakeside', 0.044480097]

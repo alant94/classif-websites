@@ -1,0 +1,1 @@
+[u'tow_truck', 0.23159684, u'jeep', 0.1784934, u'snowplow', 0.13288242, u'trailer_truck', 0.10376842, u'garbage_truck', 0.08166974]

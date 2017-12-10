@@ -1,0 +1,3 @@
+[u'digital_watch', 0.75582957, u'scoreboard', 0.058656696, u'microwave', 0.046502002]
+[u'web_site', 0.23883638, u'nematode', 0.049608734, u'matchstick', 0.041704942]
+[u'book_jacket', 0.96919775, u'brass', 0.025301425, u'menu', 0.0032721201]

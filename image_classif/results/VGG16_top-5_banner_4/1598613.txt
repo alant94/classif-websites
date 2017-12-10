@@ -1,0 +1,8 @@
+[u'hard_disc', 0.26583955, u'rifle', 0.14588577, u'assault_rifle', 0.13560817, u'radio', 0.05415361, u'CD_player', 0.031768028]
+[u'comic_book', 0.3979336, u'sunscreen', 0.080189049, u'bikini', 0.062397003, u'tray', 0.034266286, u'bathing_cap', 0.029560946]
+[u'bikini', 0.41241246, u'swimming_trunks', 0.10901018, u'bathing_cap', 0.071960829, u'maillot', 0.066593714, u'maillot', 0.058982611]
+[u'violin', 0.068823278, u'mosquito_net', 0.048877444, u'vacuum', 0.036601178, u'prayer_rug', 0.034175299, u'stretcher', 0.033986334]
+[u'horizontal_bar', 0.37150517, u'balance_beam', 0.36462376, u'parallel_bars', 0.18800108, u'pole', 0.016388496, u'unicycle', 0.011293507]
+[u'crossword_puzzle', 0.24179396, u'envelope', 0.2045939, u'menu', 0.085229851, u'comic_book', 0.08118207, u'web_site', 0.079372913]
+[u'comic_book', 0.46717882, u'menu', 0.08854752, u'toilet_seat', 0.071310386, u'refrigerator', 0.030689407, u'military_uniform', 0.026663648]
+[u'diaper', 0.36575034, u'comic_book', 0.051001318, u'bikini', 0.046002552, u'television', 0.03572752, u'book_jacket', 0.034858163]

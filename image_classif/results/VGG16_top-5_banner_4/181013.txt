@@ -1,0 +1,4 @@
+[u'web_site', 0.16262953, u'envelope', 0.12201566, u'television', 0.086885557, u'monitor', 0.078648388, u'screen', 0.060187966]
+[u'book_jacket', 0.2222887, u'cash_machine', 0.20572367, u'binder', 0.090529941, u'paintbrush', 0.023551775, u'packet', 0.019980853]
+[u'toyshop', 0.68555963, u'piggy_bank', 0.051732495, u'confectionery', 0.027870033, u'shoe_shop', 0.019791113, u'turnstile', 0.015133965]
+[u'web_site', 0.21448807, u'cassette', 0.10698187, u'tape_player', 0.10303953, u'cassette_player', 0.077666357, u'library', 0.052760892]

@@ -1,0 +1,2 @@
+[u'wardrobe', 0.11427789, u'binder', 0.10730594, u'refrigerator', 0.067112722, u'sliding_door', 0.047621123, u'medicine_chest', 0.039252941]
+[u'safety_pin', 0.58039719, u"carpenter's_kit", 0.11752214, u'screwdriver', 0.11645909, u'hair_slide', 0.051803894, u'corkscrew', 0.032857914]

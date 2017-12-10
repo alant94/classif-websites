@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.23300669, u'remote_control', 0.023170317, u'necklace', 0.022120522, u'rubber_eraser', 0.017796194, u'lighter', 0.01762888]
+[u'whistle', 0.2918418, u'screw', 0.28115982, u'screwdriver', 0.15059394, u"carpenter's_kit", 0.060080968, u'nail', 0.037085019]
+[u'digital_watch', 0.061148237, u'pill_bottle', 0.037760694, u'rubber_eraser', 0.036758691, u'rule', 0.026143488, u'digital_clock', 0.025444839]
+[u'screw', 0.20950055, u'dumbbell', 0.20589368, u'screwdriver', 0.088347279, u'power_drill', 0.066461928, u'spotlight', 0.031309493]
+[u'Windsor_tie', 0.073311642, u'rubber_eraser', 0.034121703, u'hair_slide', 0.032100722, u'digital_watch', 0.03069482, u'purse', 0.030467527]

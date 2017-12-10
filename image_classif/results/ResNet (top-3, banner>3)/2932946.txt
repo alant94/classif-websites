@@ -1,0 +1,5 @@
+[u'pajama', 0.12203391, u'lab_coat', 0.097196162, u'suit', 0.093351707]
+[u'web_site', 0.72279227, u'butcher_shop', 0.061455917, u'Great_Dane', 0.014583659]
+[u'digital_clock', 0.24241096, u'digital_watch', 0.17303219, u'analog_clock', 0.035755277]
+[u'oscilloscope', 0.27207437, u'analog_clock', 0.075511731, u'street_sign', 0.054852586]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

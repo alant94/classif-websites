@@ -1,0 +1,5 @@
+[u'book_jacket', 0.18043804, u'chain', 0.12874319, u'hook', 0.096631832, u'spider_web', 0.080878519, u'coral_fungus', 0.067430913]
+[u'acorn', 0.23200576, u'tennis_ball', 0.1889236, u'lemon', 0.099309951, u'orange', 0.079545297, u'sea_urchin', 0.05483773]
+[u'lampshade', 0.1868483, u'bonnet', 0.14630422, u'chambered_nautilus', 0.12284338, u'cowboy_hat', 0.066125028, u'jellyfish', 0.06183967]
+[u'sweatshirt', 0.25373334, u'jersey', 0.22534283, u'prayer_rug', 0.17377859, u'poncho', 0.11484902, u'vestment', 0.087840222]
+[u'wine_bottle', 0.092224099, u'perfume', 0.062789612, u'saltshaker', 0.04866055, u'beer_bottle', 0.036258038, u'corkscrew', 0.03417882]

@@ -1,0 +1,5 @@
+[u'sliding_door', 0.23638639, u'medicine_chest', 0.070911281, u'window_shade', 0.067352228, u'screen', 0.063334703, u'monitor', 0.059358653]
+[u'medicine_chest', 0.23842034, u'binder', 0.093795218, u'cinema', 0.074281238, u'monitor', 0.063650489, u'screen', 0.050655596]
+[u'envelope', 0.23089644, u'bell_cote', 0.14688531, u'web_site', 0.075264253, u'beacon', 0.047609318, u'pill_bottle', 0.040545177]
+[u'chime', 0.48436728, u'picket_fence', 0.11062657, u'space_shuttle', 0.03856279, u'bell_cote', 0.020597488, u'airship', 0.017067166]
+[u'cello', 0.095348313, u'red_wine', 0.054688957, u'harp', 0.054181326, u'theater_curtain', 0.052253943, u'trombone', 0.049080778]

@@ -1,0 +1,3 @@
+[u'envelope', 0.21354412, u'digital_clock', 0.058071312, u'cash_machine', 0.036709528, u'web_site', 0.034473248, u'wall_clock', 0.02254042]
+[u'puck', 0.37620699, u'digital_watch', 0.083525762, u'bottlecap', 0.058292896, u'wall_clock', 0.051437881, u'buckle', 0.042882949]
+[u'church', 0.9496944, u'obelisk', 0.022585837, u'bell_cote', 0.0074889231, u'missile', 0.0034354704, u'monastery', 0.0032625981]

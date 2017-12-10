@@ -1,0 +1,2 @@
+[u'bow', 0.17194542, u'nail', 0.1354772, u'matchstick', 0.10083064]
+[u'web_site', 0.73396766, u'comic_book', 0.032341022, u'packet', 0.016302032]

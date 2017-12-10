@@ -1,0 +1,8 @@
+[u'Windsor_tie', 0.11588836, u'bow_tie', 0.10748369, u'groom', 0.092646696, u'oboe', 0.075904816, u'suit', 0.075159855]
+[u'cash_machine', 0.55046248, u'screen', 0.12755056, u'oscilloscope', 0.086886004, u'monitor', 0.041204363, u'television', 0.019167971]
+[u'oscilloscope', 0.22033708, u'cash_machine', 0.16667372, u'digital_clock', 0.14701779, u'screen', 0.13506688, u'monitor', 0.039517201]
+[u'cash_machine', 0.58699709, u'screen', 0.071498811, u'digital_clock', 0.041329913, u'television', 0.039194465, u'oscilloscope', 0.029114105]
+[u'oscilloscope', 0.36083496, u'cash_machine', 0.22060217, u'screen', 0.16938707, u'monitor', 0.04872945, u'digital_clock', 0.024907501]
+[u'cash_machine', 0.40783468, u'screen', 0.11454145, u'oscilloscope', 0.084005877, u'monitor', 0.044959106, u'digital_clock', 0.041485727]
+[u'cash_machine', 0.2790646, u'oscilloscope', 0.2030755, u'screen', 0.18555614, u'monitor', 0.085143581, u'digital_clock', 0.071207188]
+[u'cash_machine', 0.66289657, u'screen', 0.036899429, u'street_sign', 0.034230795, u'digital_clock', 0.03313737, u'scoreboard', 0.029885087]

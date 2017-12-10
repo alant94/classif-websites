@@ -1,0 +1,2 @@
+[u'cougar', 0.5113945, u'ibex', 0.065146916, u'lion', 0.05826848, u'dingo', 0.033697296, u'Siberian_husky', 0.032870334]
+[u'barrow', 0.11610144, u'plow', 0.062520824, u'golfcart', 0.038381428, u'lawn_mower', 0.029598245, u'malinois', 0.021818133]

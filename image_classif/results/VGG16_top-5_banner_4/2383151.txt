@@ -1,0 +1,1 @@
+[u'shoji', 0.13462338, u'window_shade', 0.092798308, u'washbasin', 0.077498041, u'wall_clock', 0.054558616, u'medicine_chest', 0.048085175]

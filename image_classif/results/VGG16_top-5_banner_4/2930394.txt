@@ -1,0 +1,2 @@
+[u'oboe', 0.044523288, u'neck_brace', 0.044281371, u'apron', 0.03772131, u'bassoon', 0.031842735, u'television', 0.031520326]
+[u'alp', 0.28820315, u'mountain_tent', 0.12645029, u'bobsled', 0.094396614, u'valley', 0.080066927, u'cliff', 0.069481209]

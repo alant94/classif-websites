@@ -1,0 +1,1 @@
+[u'vestment', 0.14239866, u'academic_gown', 0.10247747, u'mortarboard', 0.068490863, u'torch', 0.051925723, u'stage', 0.050716575]

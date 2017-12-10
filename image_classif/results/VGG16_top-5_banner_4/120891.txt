@@ -1,0 +1,2 @@
+[u'web_site', 0.75916177, u'notebook', 0.037980828, u'monitor', 0.029356895, u'oscilloscope', 0.029133132, u'hand-held_computer', 0.024104767]
+[u'fur_coat', 0.225757, u'stole', 0.079244643, u'Irish_water_spaniel', 0.066656776, u'wool', 0.060744666, u'wig', 0.057543498]

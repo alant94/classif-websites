@@ -1,0 +1,3 @@
+[u'megalith', 0.55632776, u'stone_wall', 0.32531402, u'worm_fence', 0.016011454, u'picket_fence', 0.013756827, u'brass', 0.0096902102]
+[u'monitor', 0.68169492, u'screen', 0.064141721, u'television', 0.037354171, u'digital_clock', 0.025980109, u'safe', 0.019748347]
+[u'digital_clock', 0.22302604, u'oscilloscope', 0.13426758, u'traffic_light', 0.10142697, u'cash_machine', 0.085976563, u'monitor', 0.049242996]

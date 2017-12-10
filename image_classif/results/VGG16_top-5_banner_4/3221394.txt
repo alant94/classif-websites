@@ -1,0 +1,4 @@
+[u'harp', 0.58051878, u'organ', 0.16304709, u'chime', 0.10078105, u'pedestal', 0.023562973, u'picket_fence', 0.015347291]
+[u'cleaver', 0.31995666, u'wardrobe', 0.04851868, u'comic_book', 0.036236774, u'chime', 0.031811468, u'spatula', 0.027157256]
+[u'quill', 0.16120037, u'syringe', 0.061046831, u'paintbrush', 0.048251852, u'carton', 0.04489718, u'shower_curtain', 0.033716895]
+[u'candle', 0.92221582, u'lighter', 0.028065318, u'matchstick', 0.020890214, u'torch', 0.014402753, u'spotlight', 0.0025886574]

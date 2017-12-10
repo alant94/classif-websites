@@ -1,0 +1,6 @@
+[u'quill', 0.27896866, u'web_site', 0.057975538, u'envelope', 0.052038793, u'letter_opener', 0.029866327, u'binder', 0.021397408]
+[u'web_site', 0.12384292, u'envelope', 0.087822504, u'sunscreen', 0.070384286, u'face_powder', 0.04532801, u'book_jacket', 0.040104065]
+[u'hook', 0.23316678, u'gong', 0.053318553, u'chime', 0.033579137, u'paper_towel', 0.023879817, u'vacuum', 0.019094482]
+[u'hook', 0.28738165, u'barrow', 0.038706161, u'street_sign', 0.030853698, u'gong', 0.028099056, u'fire_screen', 0.021812079]
+[u'crossword_puzzle', 0.92104512, u'picket_fence', 0.013465001, u'maze', 0.0045621353, u'computer_keyboard', 0.0034863357, u'rule', 0.003085041]
+[u'hook', 0.71644658, u'barrow', 0.023551393, u'paper_towel', 0.01516342, u'nematode', 0.014419323, u'swing', 0.012676268]

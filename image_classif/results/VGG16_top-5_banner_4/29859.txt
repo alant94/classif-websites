@@ -1,0 +1,1 @@
+[u'plow', 0.18145026, u'moped', 0.052224789, u'ground_beetle', 0.039481953, u'tractor', 0.036047772, u'web_site', 0.033794045]

@@ -1,0 +1,1 @@
+[u'safe', 0.064474128, u'microwave', 0.050611608, u'oscilloscope', 0.044395369, u'wall_clock', 0.03696283, u'window_screen', 0.035102516]

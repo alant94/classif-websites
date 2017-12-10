@@ -1,0 +1,6 @@
+[u'street_sign', 0.33911413, u'Band_Aid', 0.089870222, u'scoreboard', 0.035381854, u'book_jacket', 0.03449177, u'traffic_light', 0.03227799]
+[u'stopwatch', 0.15271848, u'sunscreen', 0.10571425, u'loupe', 0.096644014, u'face_powder', 0.080299392, u'pick', 0.034092791]
+[u'oscilloscope', 0.99785835, u'digital_clock', 0.00082510768, u'traffic_light', 0.0005957305, u'screen', 0.00028176594, u"jack-o'-lantern", 6.9901973e-05]
+[u'safe', 0.63242215, u'medicine_chest', 0.27036664, u'combination_lock', 0.031550106, u'switch', 0.031231912, u'abacus', 0.007191956]
+[u'wall_clock', 0.64032388, u'analog_clock', 0.30419603, u'bottlecap', 0.014055904, u'stopwatch', 0.011361669, u'magnetic_compass', 0.0067300964]
+[u'bottlecap', 0.9452399, u'stopwatch', 0.026871966, u'loupe', 0.0050171968, u'face_powder', 0.0020974942, u'neck_brace', 0.0019208484]

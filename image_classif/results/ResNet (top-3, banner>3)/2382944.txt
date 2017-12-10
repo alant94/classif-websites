@@ -1,0 +1,5 @@
+[u'cinema', 0.67535758, u'barbershop', 0.15114357, u'totem_pole', 0.094495147]
+[u'envelope', 0.28343451, u'web_site', 0.23814352, u'wall_clock', 0.15913798]
+[u'streetcar', 0.12722595, u'water_tower', 0.094467886, u'ashcan', 0.069739074]
+[u'analog_clock', 0.49643114, u'web_site', 0.059281144, u'magnetic_compass', 0.054909818]
+[u'trailer_truck', 0.26341537, u'flagpole', 0.098855592, u'mobile_home', 0.084894791]

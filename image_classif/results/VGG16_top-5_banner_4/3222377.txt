@@ -1,0 +1,2 @@
+[u'military_uniform', 0.34450996, u'tub', 0.11507998, u'bikini', 0.089851044, u'bathtub', 0.060813189, u'stingray', 0.02098453]
+[u'desk', 0.25258443, u'scale', 0.2241499, u"potter's_wheel", 0.044364776, u'monitor', 0.042190645, u'power_drill', 0.037116904]

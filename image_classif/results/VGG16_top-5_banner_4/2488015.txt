@@ -1,0 +1,1 @@
+[u'fountain', 0.17252043, u'water_bottle', 0.069236718, u'fireboat', 0.055762656, u'bubble', 0.04245352, u'lakeside', 0.022744676]

@@ -1,0 +1,7 @@
+[u'notebook', 0.12447708, u'pier', 0.091702707, u'monitor', 0.064838894, u'rule', 0.04838042, u'laptop', 0.037153307]
+[u'photocopier', 0.53538436, u'printer', 0.062839039, u'thresher', 0.058480609, u'garbage_truck', 0.057431318, u'can_opener', 0.043891694]
+[u'medicine_chest', 0.54963833, u'toyshop', 0.2439324, u'hair_spray', 0.019244952, u'altar', 0.01873523, u'tobacco_shop', 0.017757811]
+[u'Christmas_stocking', 0.15298158, u'handkerchief', 0.14563037, u'bath_towel', 0.112751, u'vestment', 0.10963934, u'poncho', 0.10472699]
+[u'balloon', 0.031808995, u'mailbox', 0.024634777, u'switch', 0.021712516, u'wall_clock', 0.021056347, u'ambulance', 0.020564467]
+[u'barrel', 0.16132566, u'freight_car', 0.16061582, u'electric_locomotive', 0.08601696, u'lumbermill', 0.06106754, u'traffic_light', 0.037421782]
+[u'medicine_chest', 0.18288136, u'lab_coat', 0.099069208, u'washbasin', 0.095486589, u'shower_curtain', 0.063838042, u'container_ship', 0.057658896]

@@ -1,0 +1,2 @@
+[u'binder', 0.069976754, u'coffee_mug', 0.068581186, u'web_site', 0.045867924, u'hook', 0.028951608, u'comic_book', 0.027467616]
+[u'crayfish', 0.16583255, u'syringe', 0.13320789, u'safety_pin', 0.087862343, u'cockroach', 0.084884234, u'lipstick', 0.049476661]

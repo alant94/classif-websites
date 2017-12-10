@@ -1,0 +1,2 @@
+[u'bell_cote', 0.29274303, u'monastery', 0.13739575, u'whistle', 0.063813694, u'stupa', 0.061835729, u'church', 0.051903822]
+[u'traffic_light', 0.32572526, u"jack-o'-lantern", 0.15206033, u'torch', 0.083599418, u'stove', 0.050235383, u'fire_screen', 0.025395222]

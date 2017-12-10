@@ -1,0 +1,4 @@
+[u'digital_clock', 0.71109438, u'digital_watch', 0.16278905, u'crossword_puzzle', 0.11880044]
+[u'web_site', 0.079987071, u'television', 0.069237567, u'monitor', 0.059287749]
+[u'picket_fence', 0.62171572, u'crossword_puzzle', 0.25840977, u'digital_watch', 0.028251074]
+[u'television', 0.079319842, u'web_site', 0.073196732, u'monitor', 0.051916037]

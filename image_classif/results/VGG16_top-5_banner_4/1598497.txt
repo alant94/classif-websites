@@ -1,0 +1,7 @@
+[u'chime', 0.31295577, u'organ', 0.22762567, u'bookcase', 0.098867364, u'picket_fence', 0.094908409, u'matchstick', 0.038140215]
+[u'triceratops', 0.091585904, u'theater_curtain', 0.08426594, u'home_theater', 0.075356238, u'television', 0.064574838, u'monitor', 0.049698655]
+[u"carpenter's_kit", 0.68755645, u'screwdriver', 0.21884251, u'organ', 0.030057419, u'ballpoint', 0.0077918749, u'hammer', 0.0070427968]
+[u'organ', 0.64869195, u"carpenter's_kit", 0.061064366, u'chime', 0.041576643, u'screwdriver', 0.037725069, u'ballpoint', 0.027959198]
+[u'book_jacket', 0.18025056, u'screwdriver', 0.089237817, u'medicine_chest', 0.047534212, u'digital_watch', 0.039655007, u'carton', 0.038686931]
+[u'quill', 0.16299894, u'fountain', 0.11998495, u'shower_curtain', 0.097541772, u'space_shuttle', 0.071810119, u'missile', 0.037603173]
+[u'whistle', 0.45229539, u'screwdriver', 0.09463165, u'oxygen_mask', 0.094205201, u'nipple', 0.083276652, u'snorkel', 0.042912263]

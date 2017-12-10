@@ -1,0 +1,6 @@
+[u'web_site', 0.073921293, u'bow', 0.031180551, u'screw', 0.030336658]
+[u'web_site', 0.23999737, u'jersey', 0.0430841, u'comic_book', 0.028763657]
+[u'iPod', 0.15225673, u'lighter', 0.065821342, u'hook', 0.063670233]
+[u'traffic_light', 0.44605407, u'street_sign', 0.35625771, u'lighter', 0.088981137]
+[u'crossword_puzzle', 0.99947613, u'picket_fence', 0.00027808271, u'container_ship', 1.2160664e-05]
+[u'street_sign', 0.21835274, u'traffic_light', 0.13632263, u'beaker', 0.092472851]

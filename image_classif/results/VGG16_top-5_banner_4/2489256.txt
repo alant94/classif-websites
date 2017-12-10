@@ -1,0 +1,2 @@
+[u'wild_boar', 0.19099098, u'cougar', 0.18243597, u'warthog', 0.13478811, u'dogsled', 0.061887778, u'bighorn', 0.039410494]
+[u'centipede', 0.24886836, u'hook', 0.090978973, u'tick', 0.041601162, u'Dungeness_crab', 0.038717702, u'nail', 0.028361671]

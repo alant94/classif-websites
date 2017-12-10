@@ -1,0 +1,2 @@
+[u'waffle_iron', 0.20965536, u'frying_pan', 0.1937097, u'wok', 0.063954137]
+[u'fire_screen', 0.47350019, u'window_screen', 0.3788529, u'microwave', 0.034312375]

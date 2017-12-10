@@ -1,0 +1,4 @@
+[u'ambulance', 0.13332161, u'grocery_store', 0.1095727, u'butcher_shop', 0.093552522, u'stretcher', 0.037657447, u'vending_machine', 0.03438757]
+[u'ski_mask', 0.57843852, u'mask', 0.16910577, u'Christmas_stocking', 0.053343903, u'poncho', 0.045628548, u'maraca', 0.031650037]
+[u'stage', 0.26233479, u'theater_curtain', 0.23503724, u'cinema', 0.068385221, u'spotlight', 0.056416091, u'torch', 0.031718921]
+[u'combination_lock', 0.18376853, u'go-kart', 0.11307763, u'football_helmet', 0.083745591, u'cinema', 0.079888046, u'slot', 0.046071082]

@@ -1,0 +1,8 @@
+[u'street_sign', 0.28100809, u'tobacco_shop', 0.10052136, u'slot', 0.087786399, u'scoreboard', 0.047774836, u'digital_clock', 0.038291227]
+[u'slot', 0.80863118, u'scoreboard', 0.12836422, u'street_sign', 0.0090621579, u'comic_book', 0.0084848627, u'tobacco_shop', 0.0079303924]
+[u'book_jacket', 0.23425616, u'envelope', 0.17949758, u'safety_pin', 0.15754627, u'web_site', 0.094929367, u'comic_book', 0.071209274]
+[u'matchstick', 0.18092869, u'pencil_sharpener', 0.086615369, u'lampshade', 0.079544805, u'wall_clock', 0.065467939, u'bolo_tie', 0.057842735]
+[u'bell_cote', 0.39378276, u'traffic_light', 0.26139787, u'analog_clock', 0.044332303, u'beacon', 0.03181133, u'digital_clock', 0.023940459]
+[u'balloon', 0.28359559, u'toilet_seat', 0.070263483, u'water_jug', 0.05348561, u'spotlight', 0.041768525, u'airship', 0.033016186]
+[u'toilet_seat', 0.29792371, u'spotlight', 0.1519295, u'Petri_dish', 0.13262121, u'analog_clock', 0.066397578, u'bubble', 0.041961502]
+[u'spotlight', 0.4555231, u'solar_dish', 0.067311585, u'electric_fan', 0.048422318, u'radio_telescope', 0.044003289, u'toilet_seat', 0.041600809]

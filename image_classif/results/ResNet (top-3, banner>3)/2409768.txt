@@ -1,0 +1,5 @@
+[u'hotdog', 0.30336255, u'cockroach', 0.090470381, u'packet', 0.042100351]
+[u'shopping_basket', 0.28150323, u'wine_bottle', 0.12305063, u'beer_bottle', 0.09105517]
+[u'ice_cream', 0.49104682, u'ice_lolly', 0.17125273, u'chocolate_sauce', 0.070465326]
+[u'coffee_mug', 0.17908607, u'envelope', 0.10414904, u'menu', 0.095847584]
+[u'frying_pan', 0.20727171, u'plate', 0.086452909, u'spatula', 0.083397135]

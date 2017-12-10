@@ -1,0 +1,3 @@
+[u'patio', 0.39517534, u'sliding_door', 0.16342185, u'dining_table', 0.054899491, u'prison', 0.031895876, u'restaurant', 0.030856665]
+[u'cinema', 0.6856975, u'planetarium', 0.04509671, u'library', 0.032637138, u'flagpole', 0.027842375, u'church', 0.024892554]
+[u'mobile_home', 0.13930307, u'lakeside', 0.11525327, u'picket_fence', 0.11199531, u'cinema', 0.043242838, u'flagpole', 0.041402657]

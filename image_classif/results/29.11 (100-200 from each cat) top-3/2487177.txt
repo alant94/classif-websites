@@ -1,0 +1,5 @@
+[u'giant_schnauzer', 0.16730312, u'standard_schnauzer', 0.079513513, u'Labrador_retriever', 0.059084125]
+[u'spotlight', 0.087788835, u'jellyfish', 0.063384824, u'tennis_ball', 0.059934709]
+[u'king_penguin', 0.35721326, u'megalith', 0.054175403, u'military_uniform', 0.026563548]
+[u'gazelle', 0.31623521, u'hartebeest', 0.18896778, u'impala', 0.17807582]
+[u'church', 0.4181793, u'patio', 0.29485875, u'picket_fence', 0.053584103]

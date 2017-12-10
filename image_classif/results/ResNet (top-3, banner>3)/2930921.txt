@@ -1,0 +1,6 @@
+[u'academic_gown', 0.49928126, u'abaya', 0.17041059, u'mortarboard', 0.10018571]
+[u'traffic_light', 0.53815383, u'digital_clock', 0.074929506, u'bolo_tie', 0.057563201]
+[u'digital_clock', 0.68199044, u'traffic_light', 0.25516903, u'digital_watch', 0.058005128]
+[u'abaya', 0.93589455, u'cloak', 0.049901545, u'gown', 0.0028000919]
+[u'lab_coat', 0.6717661, u'suit', 0.032474466, u'vestment', 0.029612925]
+[u'miniskirt', 0.13118628, u'gown', 0.10949615, u'groom', 0.050025538]

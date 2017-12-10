@@ -1,0 +1,6 @@
+[u'chime', 0.49259663, u'matchstick', 0.075973094, u'picket_fence', 0.039671324, u'screwdriver', 0.036452778, u'syringe', 0.0351253]
+[u'pajama', 0.17415477, u'neck_brace', 0.067063101, u'lab_coat', 0.065429948, u'brassiere', 0.061057631, u'stethoscope', 0.043100946]
+[u'bow', 0.05123632, u'swing', 0.038702287, u'golfcart', 0.022498941, u'Irish_terrier', 0.016353684, u'Irish_water_spaniel', 0.015118817]
+[u'syringe', 0.22978508, u'screwdriver', 0.162632, u"carpenter's_kit", 0.11466677, u'nail', 0.083422892, u'matchstick', 0.047566529]
+[u'envelope', 0.29739839, u'web_site', 0.18504766, u'jigsaw_puzzle', 0.057570975, u'wall_clock', 0.019138958, u'analog_clock', 0.016271805]
+[u'refrigerator', 0.11034027, u'desktop_computer', 0.095354594, u'monitor', 0.089175381, u'safe', 0.081344143, u'switch', 0.061864775]

@@ -1,0 +1,2 @@
+[u'soap_dispenser', 0.31942147, u'plunger', 0.11488573, u'spotlight', 0.070393994, u'table_lamp', 0.05146433, u'scale', 0.046121899]
+[u'jigsaw_puzzle', 0.25148737, u'Band_Aid', 0.080054566, u'jersey', 0.048946995, u'comic_book', 0.030426636, u'packet', 0.021489715]

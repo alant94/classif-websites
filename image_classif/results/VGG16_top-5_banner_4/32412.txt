@@ -1,0 +1,1 @@
+[u'container_ship', 0.89173794, u'tobacco_shop', 0.0090881875, u'bookshop', 0.0076692984, u'restaurant', 0.0069714249, u'drilling_platform', 0.0062898709]

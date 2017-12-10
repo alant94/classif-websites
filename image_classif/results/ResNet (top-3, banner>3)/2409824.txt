@@ -1,0 +1,3 @@
+[u'banded_gecko', 0.43622765, u'American_chameleon', 0.27847597, u'can_opener', 0.045899175]
+[u'knot', 0.75741017, u'hook', 0.074997552, u'nematode', 0.072492331]
+[u'bikini', 0.10081932, u'bucket', 0.05602219, u'scuba_diver', 0.054813076]

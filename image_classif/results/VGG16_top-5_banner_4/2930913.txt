@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.91759497, u'pill_bottle', 0.066998594, u'lotion', 0.0062142252, u'hair_spray', 0.0040309369, u'sunscreen', 0.0038497082]

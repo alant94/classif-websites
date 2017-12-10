@@ -1,0 +1,4 @@
+[u'shower_cap', 0.18990195, u'handkerchief', 0.15274075, u'plate_rack', 0.13207874]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'altar', 0.89323211, u'church', 0.019207671, u'restaurant', 0.0079645328]
+[u'loupe', 0.17793638, u'coil', 0.13050708, u'face_powder', 0.11470919]

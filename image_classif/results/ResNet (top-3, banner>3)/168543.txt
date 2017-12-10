@@ -1,0 +1,7 @@
+[u'book_jacket', 0.35747761, u'comic_book', 0.30304784, u'scoreboard', 0.066683106]
+[u'comic_book', 0.47084957, u'book_jacket', 0.27924594, u'sloth_bear', 0.034286231]
+[u'loudspeaker', 0.78389955, u'sombrero', 0.032454893, u'nematode', 0.022637168]
+[u'web_site', 0.34994918, u'book_jacket', 0.044840846, u'envelope', 0.039269671]
+[u'corkscrew', 0.21282884, u'spotlight', 0.15613344, u'soap_dispenser', 0.13573352]
+[u'Leonberg', 0.18034299, u'German_short-haired_pointer', 0.14032273, u'Sussex_spaniel', 0.13876465]
+[u'web_site', 0.72384238, u'envelope', 0.19621724, u'Band_Aid', 0.011552603]

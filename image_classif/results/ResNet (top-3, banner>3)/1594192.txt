@@ -1,0 +1,4 @@
+[u'bathing_cap', 0.27766842, u'knee_pad', 0.21061943, u'bearskin', 0.083273083]
+[u'syringe', 0.15495346, u'brass', 0.12372525, u'book_jacket', 0.10187543]
+[u'Loafer', 0.10722805, u'suit', 0.0820757, u'cardigan', 0.057822581]
+[u'swimming_trunks', 0.22739235, u'sunscreen', 0.076103546, u'diaper', 0.058249865]

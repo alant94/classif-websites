@@ -1,0 +1,5 @@
+[u'hand_blower', 0.20654123, u'hair_spray', 0.17790912, u'sarong', 0.13842686]
+[u'groom', 0.73239887, u'gown', 0.059423141, u'suit', 0.044793341]
+[u'feather_boa', 0.19880824, u'microphone', 0.11746511, u'whistle', 0.070236377]
+[u'cinema', 0.24862938, u'nail', 0.047128048, u'comic_book', 0.041190341]
+[u'stage', 0.8627364, u'theater_curtain', 0.13501529, u'vestment', 0.00050806074]

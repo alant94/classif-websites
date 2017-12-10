@@ -1,0 +1,1 @@
+[u'obelisk', 0.64422035, u'missile', 0.1497952, u'projectile', 0.079574913, u'flagpole', 0.03731725, u'church', 0.018393235]

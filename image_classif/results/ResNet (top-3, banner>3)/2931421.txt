@@ -1,0 +1,8 @@
+[u'seat_belt', 0.50253081, u'holster', 0.34274393, u'Loafer', 0.11664635]
+[u'jeep', 0.19826005, u'ambulance', 0.19356267, u'cab', 0.16281575]
+[u'pay-phone', 0.6052627, u'safe', 0.10870303, u'passenger_car', 0.075506292]
+[u'ambulance', 0.33677331, u'fire_engine', 0.19887181, u'recreational_vehicle', 0.11806273]
+[u'prison', 0.13333113, u'library', 0.071060345, u'container_ship', 0.069084428]
+[u'paddlewheel', 0.27889079, u'lumbermill', 0.20787698, u'fire_engine', 0.20428969]
+[u'projector', 0.37376216, u'hard_disc', 0.072367601, u'trailer_truck', 0.064427659]
+[u'tow_truck', 0.44684148, u'fire_engine', 0.19600958, u'ambulance', 0.11346901]

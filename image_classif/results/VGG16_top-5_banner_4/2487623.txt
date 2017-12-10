@@ -1,0 +1,2 @@
+[u'black_grouse', 0.70904064, u'partridge', 0.064924121, u'ruffed_grouse', 0.054500476, u'hen', 0.042940307, u'cock', 0.042266473]
+[u'impala', 0.49846607, u'gazelle', 0.43084949, u'hartebeest', 0.068030268, u'ibex', 0.0025810481, u'bighorn', 3.0733361e-05]

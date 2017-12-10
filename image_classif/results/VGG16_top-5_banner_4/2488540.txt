@@ -1,0 +1,3 @@
+[u'castle', 0.19778024, u'lakeside', 0.18031742, u'book_jacket', 0.150466, u'jigsaw_puzzle', 0.10177962, u'wallet', 0.021018909]
+[u'monitor', 0.097498819, u'valley', 0.08060497, u'wreck', 0.069546022, u'lakeside', 0.058098458, u'plastic_bag', 0.054058798]
+[u'jigsaw_puzzle', 0.18429095, u'acorn', 0.1328961, u'coral_fungus', 0.11628589, u'pencil_sharpener', 0.10353857, u'ant', 0.05325434]

@@ -1,0 +1,2 @@
+[u'web_site', 0.96308953, u'monitor', 0.019017449, u'notebook', 0.0043778149]
+[u'web_site', 0.2105068, u'comic_book', 0.2058586, u'Windsor_tie', 0.15360141]

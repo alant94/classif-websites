@@ -1,0 +1,2 @@
+[u'Ibizan_hound', 0.15372373, u'church', 0.064778738, u'fountain', 0.062619887, u'English_foxhound', 0.058322832, u'picket_fence', 0.058285575]
+[u'butcher_shop', 0.71287209, u'bow', 0.026077008, u'ear', 0.020988962, u'cliff', 0.018395647, u'hook', 0.016910765]

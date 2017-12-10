@@ -1,0 +1,3 @@
+[u'envelope', 0.23528235, u'web_site', 0.091856651, u'street_sign', 0.068695605]
+[u'web_site', 0.22722408, u'notebook', 0.14391558, u'laptop', 0.11586218]
+[u'street_sign', 0.2625933, u'digital_clock', 0.22198166, u'scoreboard', 0.13582167]

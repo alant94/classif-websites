@@ -1,0 +1,6 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.21201988, u'envelope', 0.052871179, u'washer', 0.023863021]
+[u'dishwasher', 0.18174416, u'envelope', 0.080502711, u'refrigerator', 0.041317999]
+[u'web_site', 0.090441242, u'menu', 0.088495135, u'crossword_puzzle', 0.04020711]
+[u'dishwasher', 0.18174416, u'envelope', 0.080502711, u'refrigerator', 0.041317999]

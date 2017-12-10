@@ -1,0 +1,7 @@
+[u'prison', 0.15745907, u'stage', 0.13600875, u'theater_curtain', 0.12977527]
+[u'shield', 0.14881569, u'abaya', 0.11609851, u'web_site', 0.077322237]
+[u'abaya', 0.069401309, u'guillotine', 0.056451414, u'jean', 0.056221575]
+[u'jigsaw_puzzle', 0.75317192, u'pillow', 0.028386025, u'envelope', 0.020335816]
+[u'screen', 0.43843901, u'web_site', 0.25444937, u'monitor', 0.072161734]
+[u'marimba', 0.18575333, u'suit', 0.18509109, u'tobacco_shop', 0.15687698]
+[u'suit', 0.56007951, u'Windsor_tie', 0.23217762, u'academic_gown', 0.019914031]

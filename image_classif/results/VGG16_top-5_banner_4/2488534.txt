@@ -1,0 +1,2 @@
+[u'screwdriver', 0.10103282, u'spatula', 0.086029135, u'nail', 0.070407748, u'cleaver', 0.062211756, u"carpenter's_kit", 0.062002912]
+[u'car_mirror', 0.50402176, u'mailbox', 0.045506809, u'flagpole', 0.042418789, u'plastic_bag', 0.036010645, u'book_jacket', 0.022665108]

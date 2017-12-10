@@ -1,0 +1,2 @@
+[u'binder', 0.14248151, u'centipede', 0.089736201, u'flute', 0.067158051, u'envelope', 0.054999292, u'baseball', 0.044547051]
+[u'switch', 0.38550931, u'quill', 0.28423208, u'perfume', 0.067131281, u'combination_lock', 0.048809104, u'plane', 0.040396694]

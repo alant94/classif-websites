@@ -1,0 +1,5 @@
+[u'web_site', 0.89003092, u'bannister', 0.013514811, u'nail', 0.0068266061]
+[u'screwdriver', 0.12021045, u'rubber_eraser', 0.079716481, u'file', 0.064538524]
+[u'paintbrush', 0.76163489, u'fountain', 0.12936258, u'screwdriver', 0.02007366]
+[u'panpipe', 0.16360375, u'perfume', 0.1259855, u'lipstick', 0.053117581]
+[u'web_site', 0.5660575, u'oscilloscope', 0.22975068, u'slide_rule', 0.041795041]

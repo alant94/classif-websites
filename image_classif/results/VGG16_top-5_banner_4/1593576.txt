@@ -1,0 +1,8 @@
+[u'power_drill', 0.25712276, u'revolver', 0.095965654, u'bathing_cap', 0.037759092, u'screwdriver', 0.027720332, u'swimming_trunks', 0.025519261]
+[u'quilt', 0.1931151, u'hoopskirt', 0.12385182, u'gown', 0.11500931, u'studio_couch', 0.10710879, u'miniskirt', 0.087530352]
+[u'diaper', 0.18255703, u'miniskirt', 0.1340204, u'neck_brace', 0.074216589, u'maillot', 0.061444622, u'shower_cap', 0.049054075]
+[u'swimming_trunks', 0.092440553, u'tub', 0.086830251, u'dumbbell', 0.082270876, u'studio_couch', 0.073541917, u'balance_beam', 0.046969302]
+[u'Band_Aid', 0.16675246, u'ringneck_snake', 0.094172917, u'sandal', 0.068296395, u'binoculars', 0.0663701, u'rhinoceros_beetle', 0.05817705]
+[u'bikini', 0.35854146, u'bathing_cap', 0.33864766, u'swimming_trunks', 0.072925456, u'volleyball', 0.041315101, u'maillot', 0.038485933]
+[u'tub', 0.25277764, u'dugong', 0.10099733, u"potter's_wheel", 0.075864866, u'bathtub', 0.063045062, u'loggerhead', 0.030238967]
+[u'bathtub', 0.22381128, u'tub', 0.20505922, u'stingray', 0.091000557, u'bathing_cap', 0.082865328, u'swimming_trunks', 0.041470077]

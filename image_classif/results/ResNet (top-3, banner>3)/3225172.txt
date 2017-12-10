@@ -1,0 +1,5 @@
+[u'envelope', 0.46693558, u'web_site', 0.053388126, u'letter_opener', 0.033253852]
+[u'sombrero', 0.37094206, u'cowboy_hat', 0.11577941, u'sweatshirt', 0.056980416]
+[u'fireboat', 0.2776691, u'geyser', 0.13500145, u'fountain', 0.12696189]
+[u'wallet', 0.42740822, u'purse', 0.35735276, u'iPod', 0.15794979]
+[u'washer', 0.81077743, u'microwave', 0.033787802, u'safe', 0.033383977]

@@ -1,0 +1,1 @@
+[u'bathtub', 0.056266364, u'menu', 0.054815102, u'web_site', 0.03623952, u'fountain', 0.029251818, u'planetarium', 0.026133606]

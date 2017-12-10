@@ -1,0 +1,2 @@
+[u'web_site', 0.32685876, u'lotion', 0.13001716, u'analog_clock', 0.076095238, u'perfume', 0.069078207, u'magnetic_compass', 0.067499958]
+[u'pencil_sharpener', 0.14933161, u'face_powder', 0.12434858, u'nipple', 0.09132573, u'hair_slide', 0.066125453, u'toilet_seat', 0.035749707]

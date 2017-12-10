@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.84551042, u'tray', 0.077808432, u'quilt', 0.023594676]
+[u'book_jacket', 0.44120064, u'scoreboard', 0.2052343, u'comic_book', 0.046223719]
+[u'gasmask', 0.12129056, u'hook', 0.071601711, u'neck_brace', 0.06748338]
+[u'shoe_shop', 0.27457681, u'restaurant', 0.065890737, u'confectionery', 0.056386184]

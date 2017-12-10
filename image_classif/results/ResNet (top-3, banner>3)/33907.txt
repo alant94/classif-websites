@@ -1,0 +1,6 @@
+[u'hook', 0.20699516, u'unicycle', 0.070545569, u'nail', 0.051341839]
+[u'cornet', 0.66321403, u'French_horn', 0.32126832, u'trombone', 0.011558475]
+[u'cornet', 0.99990404, u'French_horn', 9.2298549e-05, u'trombone', 2.1150508e-06]
+[u'cornet', 0.83330745, u'trombone', 0.12996083, u'French_horn', 0.035916563]
+[u'cornet', 0.98904014, u'trombone', 0.0054985252, u'French_horn', 0.0054573379]
+[u'cornet', 0.99888831, u'French_horn', 0.00110364, u'trombone', 7.9951642e-06]

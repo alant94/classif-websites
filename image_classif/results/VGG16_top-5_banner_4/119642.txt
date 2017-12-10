@@ -1,0 +1,8 @@
+[u'web_site', 0.23494032, u'hook', 0.084960252, u'safety_pin', 0.064824358, u'envelope', 0.056820489, u'mousetrap', 0.049472775]
+[u'Band_Aid', 0.74795771, u'web_site', 0.13914293, u'nipple', 0.022416946, u'packet', 0.012919434, u'safety_pin', 0.010529842]
+[u'cash_machine', 0.41845724, u'web_site', 0.12781811, u'street_sign', 0.065351285, u'gas_pump', 0.034386903, u'hand-held_computer', 0.026772743]
+[u'perfume', 0.21487741, u'stopwatch', 0.11112051, u'lipstick', 0.09945894, u'digital_clock', 0.08863128, u'face_powder', 0.081160463]
+[u'web_site', 0.37316477, u'packet', 0.050374795, u'desktop_computer', 0.050120674, u'screen', 0.047368728, u'iPod', 0.045975469]
+[u'envelope', 0.63903534, u'whistle', 0.054053988, u'Band_Aid', 0.052258436, u'binder', 0.046187934, u'web_site', 0.038381156]
+[u'Band_Aid', 0.40624484, u'rubber_eraser', 0.11389707, u'switch', 0.074167341, u'remote_control', 0.062174372, u'pencil_sharpener', 0.051818989]
+[u'comic_book', 0.62377459, u'book_jacket', 0.18915486, u'web_site', 0.12413695, u'packet', 0.017416999, u'envelope', 0.013270071]

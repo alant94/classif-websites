@@ -1,0 +1,1 @@
+[u'golf_ball', 0.66811109, u'ping-pong_ball', 0.089726053, u'baseball', 0.026798468, u'water_tower', 0.023361625, u'tennis_ball', 0.016838137]

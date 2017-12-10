@@ -1,0 +1,1 @@
+[u'sliding_door', 0.07941056, u'studio_couch', 0.066398114, u'patio', 0.051473849, u'park_bench', 0.035357591, u'dingo', 0.016742241]

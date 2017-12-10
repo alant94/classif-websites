@@ -1,0 +1,1 @@
+[u'binoculars', 0.10031446, u'crossword_puzzle', 0.059808627, u'water_bottle', 0.042455953, u'sunscreen', 0.035787877, u'swimming_trunks', 0.02915233]

@@ -1,0 +1,2 @@
+[u'picket_fence', 0.89519918, u'worm_fence', 0.057192158, u'barn', 0.016237425, u'birdhouse', 0.0022026075, u'boathouse', 0.0016627335]
+[u'wine_bottle', 0.48432598, u'pill_bottle', 0.086466633, u'beer_bottle', 0.080148906, u'coffee_mug', 0.067104876, u'pop_bottle', 0.039704483]

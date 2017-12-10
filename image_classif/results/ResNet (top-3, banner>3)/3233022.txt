@@ -1,0 +1,8 @@
+[u'web_site', 0.18611087, u'screen', 0.055209156, u'oscilloscope', 0.052388452]
+[u'dial_telephone', 0.99995303, u'pay-phone', 3.8702172e-05, u'cassette_player', 1.4599989e-06]
+[u'television', 0.14157756, u'web_site', 0.12211821, u'streetcar', 0.059241273]
+[u'book_jacket', 0.83585924, u'packet', 0.04969639, u'carton', 0.027860485]
+[u'envelope', 0.50270301, u'stopwatch', 0.13273701, u'web_site', 0.035128094]
+[u'book_jacket', 0.74591929, u'carton', 0.061845988, u'paper_towel', 0.0082679037]
+[u'web_site', 0.25420406, u'padlock', 0.10048056, u'table_lamp', 0.096381053]
+[u'gas_pump', 0.14722717, u'brass', 0.12926205, u'web_site', 0.077601723]

@@ -1,0 +1,4 @@
+[u'book_jacket', 0.84452212, u'comic_book', 0.11863335, u'barbershop', 0.014100499]
+[u'street_sign', 0.27405617, u'book_jacket', 0.1569692, u'web_site', 0.092508033]
+[u'envelope', 0.46209586, u'book_jacket', 0.34513006, u'carton', 0.13685149]
+[u'cardoon', 0.95228183, u'sarong', 0.017887171, u'artichoke', 0.0076611596]

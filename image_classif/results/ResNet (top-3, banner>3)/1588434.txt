@@ -1,0 +1,8 @@
+[u'doormat', 0.41247296, u'laptop', 0.1223006, u'cellular_telephone', 0.073218979]
+[u'cleaver', 0.41758811, u'Band_Aid', 0.16902974, u'syringe', 0.1059636]
+[u'corkscrew', 0.1206821, u'spotlight', 0.078480825, u'chain_saw', 0.051982995]
+[u'wig', 0.612284, u'mask', 0.052727412, u'sombrero', 0.033360127]
+[u'analog_clock', 0.87784261, u'wall_clock', 0.026091401, u'tripod', 0.019405836]
+[u'prison', 0.25639704, u'pool_table', 0.10590973, u'swab', 0.085974604]
+[u'breakwater', 0.2189541, u'umbrella', 0.17678526, u'lakeside', 0.11808331]
+[u'face_powder', 0.72387719, u'toilet_seat', 0.092072353, u'lampshade', 0.014207118]

@@ -1,0 +1,7 @@
+[u"potter's_wheel", 0.95141351, u'washbasin', 0.0095435595, u'pot', 0.0053243432]
+[u'bathtub', 0.41149119, u'tub', 0.13610266, u'Dutch_oven', 0.13226612]
+[u"potter's_wheel", 0.83884871, u'pot', 0.092869401, u'patio', 0.011058408]
+[u'bucket', 0.3271122, u'bathtub', 0.2064344, u'tub', 0.045980003]
+[u"potter's_wheel", 0.7588194, u'barometer', 0.062394112, u'sundial', 0.043327093]
+[u'pot', 0.7643339, u'vase', 0.051695302, u'toilet_tissue', 0.036781881]
+[u'pot', 0.30739078, u'paper_towel', 0.26973161, u'toilet_tissue', 0.24813908]

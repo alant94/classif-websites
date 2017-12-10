@@ -1,0 +1,2 @@
+[u'bell_cote', 0.16847898, u'beacon', 0.056766622, u'crane', 0.038218442, u'dome', 0.031839848, u'analog_clock', 0.029961001]
+[u'beer_bottle', 0.1336334, u'electric_guitar', 0.13129114, u'vase', 0.064850211, u'paintbrush', 0.060325991, u'acoustic_guitar', 0.0492558]

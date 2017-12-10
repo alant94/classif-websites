@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.22223009, u'rule', 0.22125733, u'envelope', 0.20486408, u'matchstick', 0.097578585, u'nail', 0.043299284]

@@ -1,0 +1,2 @@
+[u'microphone', 0.19512413, u'sax', 0.071706891, u'syringe', 0.048819222, u'violin', 0.035179816, u'sunglass', 0.030048395]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

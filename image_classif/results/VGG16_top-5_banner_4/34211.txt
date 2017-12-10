@@ -1,0 +1,3 @@
+[u'wall_clock', 0.13860124, u'syringe', 0.050257899, u'matchstick', 0.040486567, u'screwdriver', 0.035876397, u'safety_pin', 0.028215297]
+[u'screwdriver', 0.073924623, u'rule', 0.045870584, u'church', 0.04551392, u'picket_fence', 0.042860679, u'hook', 0.036412366]
+[u'mortarboard', 0.19505784, u'flagpole', 0.12542425, u'brassiere', 0.085569032, u'stupa', 0.060870297, u'wardrobe', 0.045788478]

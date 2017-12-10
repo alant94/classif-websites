@@ -1,0 +1,3 @@
+[u'puck', 0.15132226, u'Band_Aid', 0.10401089, u'pick', 0.10096414, u'sunscreen', 0.069327079, u'oil_filter', 0.049762137]
+[u'web_site', 0.26247925, u'sunscreen', 0.098777503, u'lotion', 0.030400308, u'remote_control', 0.019681634, u'hook', 0.019666428]
+[u'grand_piano', 0.16784139, u'jigsaw_puzzle', 0.079812862, u'home_theater', 0.056048088, u'studio_couch', 0.048062194, u'television', 0.035401125]

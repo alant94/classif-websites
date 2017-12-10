@@ -1,0 +1,3 @@
+[u'tow_truck', 0.2554453, u'golfcart', 0.23075469, u'convertible', 0.12725304, u'pickup', 0.12228414, u'Model_T', 0.045369271]
+[u'convertible', 0.3574048, u'sports_car', 0.15473053, u'pickup', 0.13023108, u'limousine', 0.11955201, u'grille', 0.0953338]
+[u'convertible', 0.82140899, u'limousine', 0.072276436, u'beach_wagon', 0.047322404, u'sports_car', 0.01461245, u'cab', 0.010237223]

@@ -1,0 +1,5 @@
+[u'moving_van', 0.98599839, u'trailer_truck', 0.0086023435, u'garbage_truck', 0.003718779, u'recreational_vehicle', 0.00069887319, u'minibus', 0.00049943448]
+[u'web_site', 0.42685539, u'Band_Aid', 0.10853042, u'envelope', 0.079007082, u'nipple', 0.020648485, u'book_jacket', 0.016962308]
+[u'whistle', 0.086804338, u'combination_lock', 0.065364204, u'power_drill', 0.05264201, u'rubber_eraser', 0.039871182, u'switch', 0.03669839]
+[u'moving_van', 0.98702687, u'trailer_truck', 0.011159474, u'garbage_truck', 0.0010771338, u'recreational_vehicle', 0.00040852328, u'minibus', 0.00013227024]
+[u'lakeside', 0.11113985, u'fountain', 0.10794348, u'maze', 0.048558153, u'park_bench', 0.041553639, u'mountain_tent', 0.029480517]

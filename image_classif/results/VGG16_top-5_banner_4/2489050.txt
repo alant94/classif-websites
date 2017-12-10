@@ -1,0 +1,2 @@
+[u'dogsled', 0.37620026, u'web_site', 0.33971855, u'Saluki', 0.044407763, u'Afghan_hound', 0.038437616, u'standard_schnauzer', 0.024907909]
+[u'English_setter', 0.16202019, u'dalmatian', 0.080277592, u'Great_Dane', 0.063658878, u'standard_schnauzer', 0.062126309, u'German_short-haired_pointer', 0.055938825]

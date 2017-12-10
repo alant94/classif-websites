@@ -1,0 +1,6 @@
+[u'tow_truck', 0.11172374, u'racer', 0.10015453, u'trailer_truck', 0.048372388, u'car_wheel', 0.036873493, u'sports_car', 0.036775548]
+[u'book_jacket', 0.32850146, u'abaya', 0.11541024, u'analog_clock', 0.092360161, u'web_site', 0.063117288, u'lipstick', 0.049095333]
+[u'wig', 0.9317171, u'mask', 0.012537205, u'hair_spray', 0.0077642794, u'lipstick', 0.0073921909, u'fur_coat', 0.0035978283]
+[u'toilet_tissue', 0.062086437, u'crutch', 0.049867138, u'Windsor_tie', 0.042250674, u'microphone', 0.034016326, u'suit', 0.025513316]
+[u'wig', 0.75556171, u'jersey', 0.023951037, u'hair_spray', 0.017197382, u'oboe', 0.01423563, u'brassiere', 0.013532794]
+[u'military_uniform', 0.67350018, u'trench_coat', 0.037175417, u'bulletproof_vest', 0.022296019, u'ping-pong_ball', 0.012331863, u'sweatshirt', 0.0059237978]

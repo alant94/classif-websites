@@ -1,0 +1,6 @@
+[u'butcher_shop', 0.67410177, u'grocery_store', 0.079119876, u'sarong', 0.038099047]
+[u'web_site', 0.97169858, u'hand-held_computer', 0.0051359506, u'rotisserie', 0.0029793566]
+[u'web_site', 0.99559879, u'menu', 0.0030273574, u'envelope', 0.00034034168]
+[u'church', 0.51339716, u'bell_cote', 0.096149437, u'envelope', 0.088043571]
+[u'restaurant', 0.49990121, u'barbershop', 0.14840987, u'marimba', 0.051359411]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

@@ -1,0 +1,2 @@
+[u'lumbermill', 0.15662515, u'restaurant', 0.088029467, u'vault', 0.056886606, u'barber_chair', 0.032675426, u'dining_table', 0.031250004]
+[u'electric_fan', 0.094121978, u'plate_rack', 0.064329311, u'gong', 0.05011604, u'ladle', 0.040433977, u'hourglass', 0.035713244]

@@ -1,0 +1,1 @@
+[u'sliding_door', 0.15835688, u'window_shade', 0.15213159, u'wardrobe', 0.056507379, u'web_site', 0.028733592, u'washbasin', 0.02719106]

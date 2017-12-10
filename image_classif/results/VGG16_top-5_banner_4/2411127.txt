@@ -1,0 +1,7 @@
+[u'espresso', 0.38246861, u'soup_bowl', 0.21086541, u'consomme', 0.16184905, u'cup', 0.040196534, u'bagel', 0.029338939]
+[u'face_powder', 0.86207849, u'sunscreen', 0.021002436, u'puck', 0.01994733, u'lotion', 0.0088458862, u'perfume', 0.0071325717]
+[u'bakery', 0.45847666, u'grocery_store', 0.073636629, u'refrigerator', 0.044580147, u'restaurant', 0.038792863, u'confectionery', 0.030778391]
+[u'whiskey_jug', 0.51313889, u'lotion', 0.11357411, u'cocktail_shaker', 0.039459214, u'medicine_chest', 0.036365088, u'hair_spray', 0.035165571]
+[u'knot', 0.13894397, u'matchstick', 0.10425863, u'long-horned_beetle', 0.089407042, u'letter_opener', 0.066515759, u'hair_slide', 0.06562569]
+[u'ballpoint', 0.16613494, u'letter_opener', 0.13298605, u'quill', 0.12122823, u'paintbrush', 0.10879696, u'screwdriver', 0.064327233]
+[u'honeycomb', 0.23511036, u'face_powder', 0.1191624, u'pencil_sharpener', 0.049241852, u'thatch', 0.036719952, u'shovel', 0.036707364]

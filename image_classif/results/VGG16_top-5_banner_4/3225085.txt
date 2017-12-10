@@ -1,0 +1,4 @@
+[u'web_site', 0.56881487, u'cliff', 0.1506705, u'promontory', 0.11230192, u'seashore', 0.023279088, u'beacon', 0.012025084]
+[u'web_site', 0.35790125, u'menu', 0.24480292, u'envelope', 0.077545166, u'jersey', 0.016370948, u'hand_blower', 0.0095042586]
+[u'church', 0.89630204, u'bell_cote', 0.041894708, u'missile', 0.019432578, u'monastery', 0.0095721735, u'projectile', 0.007073299]
+[u'picket_fence', 0.65649068, u'candle', 0.018038951, u'worm_fence', 0.016693233, u'radiator', 0.014954937, u'castle', 0.014242515]

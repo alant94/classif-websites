@@ -1,0 +1,2 @@
+[u'apron', 0.38808963, u'brassiere', 0.07579352, u'maillot', 0.061070532]
+[u'cougar', 0.30013204, u'Great_Dane', 0.15496162, u'lion', 0.048038736]

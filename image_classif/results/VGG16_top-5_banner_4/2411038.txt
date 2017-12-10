@@ -1,0 +1,2 @@
+[u'stupa', 0.12407319, u'book_jacket', 0.084635012, u'cloak', 0.054050948, u'abaya', 0.037590064, u'obelisk', 0.034218047]
+[u'television', 0.34435052, u'mortar', 0.17166036, u'vase', 0.064168014, u'pitcher', 0.059883878, u'piggy_bank', 0.021431532]

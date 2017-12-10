@@ -1,0 +1,2 @@
+[u'envelope', 0.17645168, u'web_site', 0.11922604, u'analog_clock', 0.052077923, u'wall_clock', 0.043665465, u'Band_Aid', 0.028425056]
+[u'torch', 0.16377075, u'beacon', 0.15007581, u'drilling_platform', 0.04861914, u'altar', 0.047460727, u'stage', 0.031130893]

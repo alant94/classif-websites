@@ -1,0 +1,2 @@
+[u'digital_clock', 0.18452246, u'puck', 0.16572271, u'bottlecap', 0.16009267, u'packet', 0.09007515, u'stopwatch', 0.081726097]
+[u'scoreboard', 0.28510374, u'street_sign', 0.14567341, u'book_jacket', 0.13638668, u'cash_machine', 0.11950147, u'traffic_light', 0.026706919]

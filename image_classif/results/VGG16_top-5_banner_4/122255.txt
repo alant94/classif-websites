@@ -1,0 +1,6 @@
+[u'hook', 0.72654551, u'stretcher', 0.059219766, u'nail', 0.032344613, u'padlock', 0.021638494, u'cornet', 0.01600799]
+[u'envelope', 0.15287152, u'web_site', 0.10902191, u'book_jacket', 0.071029171, u'crossword_puzzle', 0.027286844, u'cash_machine', 0.020580608]
+[u'hair_slide', 0.17469215, u'envelope', 0.16052605, u'necklace', 0.1043867, u'hook', 0.079102926, u'bib', 0.077783324]
+[u'maze', 0.41033643, u'container_ship', 0.2403664, u'jigsaw_puzzle', 0.13106926, u'prayer_rug', 0.036238406, u'Windsor_tie', 0.031647269]
+[u'altar', 0.29573581, u'tray', 0.076989792, u'wall_clock', 0.076445453, u'shower_curtain', 0.070173107, u'pinwheel', 0.0583749]
+[u'maypole', 0.23467833, u'swing', 0.089490294, u'altar', 0.070761397, u'cliff', 0.046122428, u'cloak', 0.034071006]

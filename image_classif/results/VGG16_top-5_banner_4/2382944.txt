@@ -1,0 +1,5 @@
+[u'cinema', 0.38298517, u'barbershop', 0.37391967, u'bakery', 0.032244325, u'tobacco_shop', 0.026799383, u'restaurant', 0.018992774]
+[u'web_site', 0.24157532, u'envelope', 0.11831734, u'Windsor_tie', 0.052823961, u'rule', 0.024719823, u'Band_Aid', 0.018078217]
+[u'dam', 0.39641544, u'water_tower', 0.054454569, u'suspension_bridge', 0.033289887, u'breakwater', 0.033275601, u'dome', 0.027885031]
+[u'street_sign', 0.12908609, u'rule', 0.091783084, u'cleaver', 0.060509399, u'analog_clock', 0.057335932, u'digital_clock', 0.039093036]
+[u'water_tower', 0.17176589, u'mobile_home', 0.16339888, u'trailer_truck', 0.062566228, u'flagpole', 0.053971533, u'mailbox', 0.041873332]

@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.11209711, u'bakery', 0.050849617, u'toyshop', 0.042879846]
+[u'megalith', 0.87607342, u'church', 0.046794213, u'gazelle', 0.011526678]
+[u'barber_chair', 0.43353808, u'barbershop', 0.21274722, u'restaurant', 0.20196301]

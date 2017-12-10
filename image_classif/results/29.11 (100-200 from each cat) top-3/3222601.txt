@@ -1,0 +1,5 @@
+[u'book_jacket', 0.62008083, u'web_site', 0.17022359, u'jigsaw_puzzle', 0.019003673]
+[u'envelope', 0.38523871, u'web_site', 0.11845604, u'nipple', 0.058891624]
+[u'envelope', 0.55347222, u'web_site', 0.084816702, u'nipple', 0.044512644]
+[u'menu', 0.1819016, u'crossword_puzzle', 0.14184749, u'digital_clock', 0.088726953]
+[u'chime', 0.91831982, u'bow', 0.064017318, u'rifle', 0.0083068497]

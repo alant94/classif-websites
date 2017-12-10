@@ -1,0 +1,2 @@
+[u'web_site', 0.12244221, u'envelope', 0.01613697, u'nail', 0.015483885]
+[u'barrel', 0.25401995, u'parking_meter', 0.21415648, u'bottlecap', 0.048004016]

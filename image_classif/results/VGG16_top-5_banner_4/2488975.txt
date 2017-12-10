@@ -1,0 +1,2 @@
+[u'vizsla', 0.2819666, u'Weimaraner', 0.10153169, u'Chesapeake_Bay_retriever', 0.096653625, u'German_short-haired_pointer', 0.061190031, u'curly-coated_retriever', 0.056111831]
+[u'television', 0.24087998, u'Ibizan_hound', 0.095403306, u'Brittany_spaniel', 0.052650969, u'English_foxhound', 0.046939608, u'llama', 0.029053496]

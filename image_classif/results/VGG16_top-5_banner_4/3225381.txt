@@ -1,0 +1,5 @@
+[u'envelope', 0.36324236, u'book_jacket', 0.25613633, u'brass', 0.095312513, u'menu', 0.049781147, u'quill', 0.042151321]
+[u'book_jacket', 0.32322928, u'envelope', 0.16924837, u'carton', 0.066757783, u'doormat', 0.043066155, u'quill', 0.036701694]
+[u'hook', 0.073119231, u'lighter', 0.064471215, u'modem', 0.040834781, u'screwdriver', 0.031055156, u'web_site', 0.029609449]
+[u'book_jacket', 0.32143176, u'envelope', 0.1460591, u'carton', 0.04871748, u'face_powder', 0.037581149, u'brass', 0.035398941]
+[u'whistle', 0.23668261, u'Band_Aid', 0.19336879, u'digital_clock', 0.088282183, u'rubber_eraser', 0.059230074, u'buckle', 0.028917504]

@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.96521431, u'notebook', 0.0084113171, u'remote_control', 0.0058061532, u'laptop', 0.0046302257, u'computer_keyboard', 0.0040805908]
+[u'velvet', 0.095355876, u'crossword_puzzle', 0.06136813, u'envelope', 0.043982014, u'web_site', 0.03686868, u'shower_curtain', 0.027859299]

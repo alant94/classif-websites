@@ -1,0 +1,8 @@
+[u'lotion', 0.63984442, u'lipstick', 0.13836682, u'hair_spray', 0.10445104]
+[u'sombrero', 0.20380284, u'cowboy_hat', 0.087295458, u'banjo', 0.023033718]
+[u'comic_book', 0.20911542, u'carton', 0.18004626, u'packet', 0.046865948]
+[u'comic_book', 0.73469108, u'gong', 0.14238589, u'barbershop', 0.023010159]
+[u'lipstick', 0.17504483, u'Band_Aid', 0.059691649, u'hair_spray', 0.052108217]
+[u'street_sign', 0.70933026, u'scoreboard', 0.058172729, u'digital_clock', 0.036186744]
+[u'kimono', 0.38710478, u'gown', 0.10608684, u'menu', 0.07070931]
+[u'comic_book', 0.99848419, u'book_jacket', 0.0011627813, u'slot', 0.00022290679]

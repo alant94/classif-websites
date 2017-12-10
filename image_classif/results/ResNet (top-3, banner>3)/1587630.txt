@@ -1,0 +1,8 @@
+[u'maillot', 0.32996821, u'maillot', 0.25430554, u'bikini', 0.061086141]
+[u'ice_lolly', 0.095090978, u'envelope', 0.08165805, u'hair_spray', 0.074592538]
+[u'home_theater', 0.50883967, u'screen', 0.086456425, u'monitor', 0.081073202]
+[u'prayer_rug', 0.55083841, u'envelope', 0.17349984, u'digital_clock', 0.066556334]
+[u'swimming_trunks', 0.23014241, u'tub', 0.19231172, u'bathtub', 0.12985313]
+[u'brassiere', 0.25891489, u'stole', 0.15853389, u'sarong', 0.10785502]
+[u'bathtub', 0.19835795, u'wig', 0.13317682, u'bubble', 0.056434564]
+[u'bathtub', 0.19529317, u'bassinet', 0.11376758, u'cradle', 0.10086548]

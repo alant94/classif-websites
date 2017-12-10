@@ -1,0 +1,2 @@
+[u'tractor', 0.19462508, u'barrow', 0.048782207, u'gas_pump', 0.04674685, u'mailbox', 0.043509487, u'thresher', 0.042651422]
+[u'military_uniform', 0.090035938, u'torch', 0.082966432, u'flagpole', 0.071661398, u'pole', 0.04905504, u'ski', 0.036129083]

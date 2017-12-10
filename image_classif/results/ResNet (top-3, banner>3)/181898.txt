@@ -1,0 +1,8 @@
+[u'notebook', 0.48733023, u'laptop', 0.22307539, u'desktop_computer', 0.17401253]
+[u'airliner', 0.85806787, u'warplane', 0.021269368, u'crane', 0.015691649]
+[u'face_powder', 0.18186684, u'hoopskirt', 0.17803891, u'lab_coat', 0.08338581]
+[u'desktop_computer', 0.62211865, u'monitor', 0.12102698, u'screen', 0.048183274]
+[u'cash_machine', 0.17816263, u'web_site', 0.11427614, u'monitor', 0.068443358]
+[u'desk', 0.22550774, u'restaurant', 0.12465846, u'fire_engine', 0.047938038]
+[u'toaster', 0.99976283, u'waffle_iron', 0.00017482076, u'rotisserie', 2.6677646e-05]
+[u'gown', 0.27187499, u'brassiere', 0.18358512, u'maillot', 0.05365742]

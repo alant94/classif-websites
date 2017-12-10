@@ -1,0 +1,8 @@
+[u'book_jacket', 0.65904945, u'comic_book', 0.15112439, u'web_site', 0.027121427]
+[u'web_site', 0.28530514, u'sax', 0.18772556, u'flute', 0.095975615]
+[u'Band_Aid', 0.35427421, u'street_sign', 0.12951826, u'shield', 0.041042477]
+[u'book_jacket', 0.85726297, u'comic_book', 0.12063356, u'digital_clock', 0.011541939]
+[u'web_site', 0.59028071, u'jean', 0.086619429, u'abaya', 0.025764285]
+[u'iPod', 0.87162137, u'remote_control', 0.029594187, u'loudspeaker', 0.028224915]
+[u'abaya', 0.38365236, u'spotlight', 0.10468166, u'suit', 0.056094773]
+[u'lipstick', 0.099942766, u'bathing_cap', 0.080557249, u'hair_spray', 0.073562361]

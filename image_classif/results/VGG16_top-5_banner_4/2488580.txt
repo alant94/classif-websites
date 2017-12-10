@@ -1,0 +1,6 @@
+[u'plow', 0.32421857, u'oxcart', 0.21515505, u'ox', 0.09123271, u'dogsled', 0.06501542, u'water_buffalo', 0.034023419]
+[u'picket_fence', 0.32254708, u'fountain', 0.13194793, u'totem_pole', 0.067281276, u'cliff', 0.062311858, u'ski', 0.030926418]
+[u'plow', 0.47708556, u'oxcart', 0.21803068, u'ox', 0.15933068, u'bow', 0.040754028, u'horse_cart', 0.010752713]
+[u'ibex', 0.91683728, u'bighorn', 0.047510829, u'ram', 0.017378232, u'ox', 0.0062703257, u'wild_boar', 0.001956217]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'hartebeest', 0.41228038, u'impala', 0.32257223, u'plow', 0.047426779, u'military_uniform', 0.044699315, u'rifle', 0.039018121]

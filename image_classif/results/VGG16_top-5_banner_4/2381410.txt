@@ -1,0 +1,4 @@
+[u'sunscreen', 0.098096505, u'jersey', 0.089323252, u'packet', 0.073617294, u'can_opener', 0.055380642, u'gasmask', 0.048125818]
+[u'tobacco_shop', 0.50381094, u'bookshop', 0.26672307, u'library', 0.14073761, u'grocery_store', 0.023561755, u'confectionery', 0.017689383]
+[u'library', 0.69500434, u'container_ship', 0.047772482, u'crate', 0.039998244, u'forklift', 0.036543611, u'bookshop', 0.034002934]
+[u'tobacco_shop', 0.88375258, u'bookshop', 0.054692287, u'library', 0.026580792, u'medicine_chest', 0.011441637, u'container_ship', 0.0062798518]

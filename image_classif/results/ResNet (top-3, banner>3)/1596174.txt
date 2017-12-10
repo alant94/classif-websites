@@ -1,0 +1,6 @@
+[u'bikini', 0.18762781, u'brassiere', 0.14396065, u'maillot', 0.077048354]
+[u'bikini', 0.12909535, u'brassiere', 0.11600114, u'maillot', 0.059749354]
+[u'mask', 0.51316768, u'Windsor_tie', 0.1015041, u'American_lobster', 0.10092158]
+[u'brassiere', 0.93067145, u'bikini', 0.023661837, u'maillot', 0.018194279]
+[u'medicine_chest', 0.26229322, u'hand_blower', 0.063734241, u'miniskirt', 0.05324436]
+[u'jean', 0.2306115, u'miniskirt', 0.20500998, u'iron', 0.055687431]

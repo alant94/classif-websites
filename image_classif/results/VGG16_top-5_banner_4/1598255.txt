@@ -1,0 +1,5 @@
+[u'comic_book', 0.53068435, u'laptop', 0.15391333, u'packet', 0.078392938, u'envelope', 0.062726729, u'jigsaw_puzzle', 0.020138653]
+[u'window_shade', 0.44636244, u'window_screen', 0.10350221, u'picket_fence', 0.051271133, u'sliding_door', 0.030599162, u'greenhouse', 0.027347393]
+[u'brass', 0.40082917, u'book_jacket', 0.14018619, u'menu', 0.12195604, u'screen', 0.073934183, u'oscilloscope', 0.069040865]
+[u'cheetah', 0.23214346, u'web_site', 0.18689772, u'ruffed_grouse', 0.11016518, u'partridge', 0.078533679, u'fox_squirrel', 0.025649749]
+[u'iPod', 0.095751025, u'cellular_telephone', 0.070305698, u'wall_clock', 0.057985365, u'envelope', 0.054074183, u'notebook', 0.03973043]

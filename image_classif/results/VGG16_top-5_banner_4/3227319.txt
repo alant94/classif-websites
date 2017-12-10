@@ -1,0 +1,7 @@
+[u'academic_gown', 0.35703164, u'steel_drum', 0.1376473, u'mortarboard', 0.072320975, u'golfcart', 0.067602828, u'maypole', 0.057601899]
+[u'restaurant', 0.34758881, u'barbershop', 0.26908243, u'barber_chair', 0.07748206, u'cinema', 0.041477077, u'passenger_car', 0.031391356]
+[u'vestment', 0.74500889, u'altar', 0.15253191, u'four-poster', 0.028653417, u'throne', 0.022283319, u'mosquito_net', 0.01517492]
+[u'chain_mail', 0.092948526, u'shield', 0.092942588, u'drum', 0.088054158, u'gong', 0.05355658, u'steel_drum', 0.050824091]
+[u'wardrobe', 0.2326674, u'butcher_shop', 0.076478645, u'fur_coat', 0.064905502, u'stole', 0.056147918, u'vestment', 0.050296959]
+[u'maypole', 0.41268384, u'stupa', 0.096459009, u'poncho', 0.084774144, u'sarong', 0.04147594, u'seashore', 0.026513658]
+[u'kimono', 0.2993525, u'wardrobe', 0.073139682, u'toyshop', 0.070232138, u'paintbrush', 0.051506616, u'shoe_shop', 0.04983566]

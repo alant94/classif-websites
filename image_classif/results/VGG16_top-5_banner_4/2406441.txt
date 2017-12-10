@@ -1,0 +1,4 @@
+[u'hook', 0.064212807, u'lighter', 0.043025356, u'microphone', 0.042913113, u'street_sign', 0.041188929, u'punching_bag', 0.03145124]
+[u'turnstile', 0.50254494, u'pay-phone', 0.21084581, u'cash_machine', 0.092545725, u'vending_machine', 0.091490909, u'trench_coat', 0.0078619681]
+[u'spotlight', 0.11092359, u'whistle', 0.06234777, u'pill_bottle', 0.056055896, u'toilet_seat', 0.047801916, u'digital_clock', 0.03826331]
+[u'envelope', 0.66737419, u'ambulance', 0.084907167, u'shield', 0.021365304, u'puck', 0.019048663, u'police_van', 0.018464711]

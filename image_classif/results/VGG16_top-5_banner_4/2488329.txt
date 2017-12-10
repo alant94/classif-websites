@@ -1,0 +1,2 @@
+[u'bloodhound', 0.43518949, u'dogsled', 0.31901875, u'Greater_Swiss_Mountain_dog', 0.056396253, u'EntleBucher', 0.030566055, u'Gordon_setter', 0.030017737]
+[u'assault_rifle', 0.23149386, u'stretcher', 0.11100154, u'rifle', 0.10735629, u'chain_saw', 0.087421834, u'volcano', 0.036970373]

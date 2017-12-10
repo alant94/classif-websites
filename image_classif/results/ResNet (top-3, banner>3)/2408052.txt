@@ -1,0 +1,4 @@
+[u'cliff', 0.34220183, u'valley', 0.13942447, u'alp', 0.13653687]
+[u'flagpole', 0.26754731, u'parachute', 0.12998317, u'balloon', 0.1291272]
+[u'tray', 0.13015066, u'cassette', 0.11797287, u'jigsaw_puzzle', 0.098798536]
+[u'wardrobe', 0.22866234, u'mailbox', 0.070599467, u'four-poster', 0.059387106]

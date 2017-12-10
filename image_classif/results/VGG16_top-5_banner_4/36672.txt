@@ -1,0 +1,4 @@
+[u'mountain_bike', 0.24937417, u'Arabian_camel', 0.20691873, u'cliff', 0.082879372, u'cliff_dwelling', 0.032392003, u'plow', 0.031751085]
+[u'mountain_bike', 0.30324897, u'unicycle', 0.094030663, u'military_uniform', 0.080996744, u'maypole', 0.033853684, u'ox', 0.020556752]
+[u'oxcart', 0.60539049, u'horse_cart', 0.12801281, u'ox', 0.099577412, u'water_buffalo', 0.055527821, u'plow', 0.018860005]
+[u'mountain_bike', 0.090527587, u'tusker', 0.034883574, u'Arabian_camel', 0.028758401, u'Irish_wolfhound', 0.023723973, u'Chesapeake_Bay_retriever', 0.023420516]

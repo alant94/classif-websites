@@ -1,0 +1,2 @@
+[u'screwdriver', 0.71744537, u"carpenter's_kit", 0.11275612, u'bow', 0.046598122]
+[u"potter's_wheel", 0.19050089, u'guillotine', 0.10650186, u'tobacco_shop', 0.088877127]

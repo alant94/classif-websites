@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.98911804, u'lab_coat', 0.0069224844, u'bath_towel', 0.00052738492, u'bathtub', 0.00030994462, u'pajama', 0.00028958617]
+[u'nematode', 0.17243733, u'jellyfish', 0.098333761, u'matchstick', 0.081938349, u'quill', 0.054969978, u'fountain', 0.027287411]
+[u'paintbrush', 0.27755612, u'picket_fence', 0.27325404, u'lab_coat', 0.15254068, u'quill', 0.033845227, u'cleaver', 0.02841288]
+[u'switch', 0.049521819, u'envelope', 0.04560278, u'bell_cote', 0.023934424, u'spotlight', 0.022999277, u'candle', 0.022727782]
+[u'envelope', 0.06003714, u'desktop_computer', 0.045770016, u'web_site', 0.040925764, u'notebook', 0.036829572, u'desk', 0.029994918]
+[u'mitten', 0.907215, u'sock', 0.072282352, u'wool', 0.0065106247, u'stole', 0.0058241105, u'clog', 0.0029977863]
+[u'envelope', 0.098184548, u'web_site', 0.035162814, u'desk', 0.016676288, u'wall_clock', 0.016632721, u'carton', 0.015575476]

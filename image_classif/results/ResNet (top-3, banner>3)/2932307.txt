@@ -1,0 +1,4 @@
+[u'web_site', 0.48995697, u'comic_book', 0.03865397, u'rule', 0.037783839]
+[u'flagpole', 0.54409474, u'mosque', 0.10537332, u'pole', 0.07406003]
+[u'web_site', 0.23421615, u'digital_clock', 0.060021803, u'stopwatch', 0.028169159]
+[u'book_jacket', 0.50218487, u'comic_book', 0.18764633, u'web_site', 0.047339611]

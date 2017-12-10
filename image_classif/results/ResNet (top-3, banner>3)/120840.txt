@@ -1,0 +1,3 @@
+[u'analog_clock', 0.41855404, u'iPod', 0.1144072, u'remote_control', 0.11354103]
+[u'digital_watch', 0.3656778, u'digital_clock', 0.1496454, u'buckle', 0.12658052]
+[u'perfume', 0.11282323, u'digital_watch', 0.10976495, u'digital_clock', 0.10288663]

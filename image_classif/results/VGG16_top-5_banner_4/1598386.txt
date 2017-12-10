@@ -1,0 +1,8 @@
+[u'dumbbell', 0.24656834, u'punching_bag', 0.17581879, u'power_drill', 0.077943414, u'tricycle', 0.067241967, u'horizontal_bar', 0.036267418]
+[u'studio_couch', 0.25044182, u'home_theater', 0.13456623, u'balance_beam', 0.097881846, u'television', 0.093034498, u'window_shade', 0.048330471]
+[u'Italian_greyhound', 0.15529495, u'dumbbell', 0.1239861, u'studio_couch', 0.10119914, u'balance_beam', 0.064112708, u'maillot', 0.062281936]
+[u'menu', 0.58484012, u'comic_book', 0.26977187, u'packet', 0.042296283, u'web_site', 0.010766061, u'jigsaw_puzzle', 0.0099822972]
+[u'steel_arch_bridge', 0.16362725, u'pier', 0.13767211, u'turnstile', 0.10195439, u'prison', 0.10132995, u'paddlewheel', 0.055847943]
+[u'swimming_trunks', 0.85711801, u'bathing_cap', 0.076560669, u'maillot', 0.026904659, u'bikini', 0.015451492, u'maillot', 0.010835244]
+[u'hammer', 0.17239857, u'balance_beam', 0.071132384, u'oystercatcher', 0.063241541, u'Doberman', 0.036161404, u'matchstick', 0.030504653]
+[u'studio_couch', 0.42014596, u'maillot', 0.12281755, u'tub', 0.07657259, u'maillot', 0.075911798, u'gown', 0.031475835]

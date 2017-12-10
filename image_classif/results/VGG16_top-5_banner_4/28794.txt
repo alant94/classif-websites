@@ -1,0 +1,5 @@
+[u'web_site', 0.73017097, u'book_jacket', 0.080765806, u'television', 0.076842256, u'cash_machine', 0.051140405, u'screen', 0.010342372]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'web_site', 0.20272684, u'envelope', 0.080579393, u'nematode', 0.068447329, u'rule', 0.022821946, u'hook', 0.015314369]
+[u'book_jacket', 0.36448184, u'comic_book', 0.33250219, u'web_site', 0.068332881, u'muzzle', 0.016790533, u'barbershop', 0.013898385]
+[u'wig', 0.740843, u'stole', 0.059670813, u'hair_spray', 0.01800579, u'fur_coat', 0.015830249, u'suit', 0.012672292]

@@ -1,0 +1,1 @@
+[u'parking_meter', 0.12770559, u'sliding_door', 0.053531244, u'prison', 0.050598383, u'pay-phone', 0.049718648, u'turnstile', 0.041692063]

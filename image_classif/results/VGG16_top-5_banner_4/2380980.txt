@@ -1,0 +1,3 @@
+[u'television', 0.23687516, u'cash_machine', 0.16520993, u'oscilloscope', 0.049442172, u'screen', 0.048833799, u'digital_clock', 0.035377953]
+[u'cash_machine', 0.13277927, u'cinema', 0.09479592, u'window_shade', 0.043241695, u'digital_clock', 0.037760939, u'picket_fence', 0.034785897]
+[u'cash_machine', 0.22843452, u'television', 0.14642021, u'screen', 0.073908925, u'oscilloscope', 0.072755262, u'window_shade', 0.050113879]

@@ -1,0 +1,1 @@
+[u'coil', 0.6430226, u'bannister', 0.11086974, u'sundial', 0.059219178, u'wall_clock', 0.041946858, u'maze', 0.032493964]

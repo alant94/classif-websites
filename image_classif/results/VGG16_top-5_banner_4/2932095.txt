@@ -1,0 +1,2 @@
+[u'envelope', 0.14494583, u'web_site', 0.12426011, u'pinwheel', 0.11798114, u'jersey', 0.05633723, u'whistle', 0.050203875]
+[u'envelope', 0.043118998, u'web_site', 0.026543966, u'cleaver', 0.017256031, u'wardrobe', 0.01366044, u'wall_clock', 0.011952301]

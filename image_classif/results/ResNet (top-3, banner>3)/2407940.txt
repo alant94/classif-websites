@@ -1,0 +1,7 @@
+[u'iron', 0.18866268, u'table_lamp', 0.04686946, u'letter_opener', 0.040724546]
+[u'web_site', 0.11662538, u'tripod', 0.092295319, u'hand_blower', 0.066723153]
+[u'throne', 0.17086433, u'switch', 0.099576496, u'binder', 0.063449994]
+[u'barometer', 0.76946789, u'analog_clock', 0.20887312, u'wall_clock', 0.013627344]
+[u'web_site', 0.14423919, u'nematode', 0.096562512, u'matchstick', 0.028220737]
+[u'coffee_mug', 0.11219239, u'pick', 0.077016585, u'puck', 0.075087309]
+[u'perfume', 0.18598339, u'bubble', 0.03352749, u'analog_clock', 0.032956976]

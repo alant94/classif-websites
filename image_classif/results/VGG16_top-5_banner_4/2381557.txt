@@ -1,0 +1,2 @@
+[u'Polaroid_camera', 0.65181231, u'loudspeaker', 0.11763808, u'reflex_camera', 0.040003885, u'projector', 0.039454546, u'iPod', 0.031613193]
+[u'nail', 0.037165567, u'hook', 0.029964149, u'crane', 0.029480191, u'Band_Aid', 0.018492525, u'envelope', 0.01815911]

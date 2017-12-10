@@ -1,0 +1,2 @@
+[u'web_site', 0.30339924, u'envelope', 0.045385063, u'analog_clock', 0.036865152, u'hatchet', 0.031784158, u'jersey', 0.022044279]
+[u'beaker', 0.63344038, u'lab_coat', 0.14326686, u'candle', 0.1090083, u'quill', 0.019420909, u'measuring_cup', 0.015157596]

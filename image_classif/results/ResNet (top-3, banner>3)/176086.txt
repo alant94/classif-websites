@@ -1,0 +1,4 @@
+[u'school_bus', 0.10689038, u'mask', 0.082380027, u'plastic_bag', 0.082084134]
+[u'abaya', 0.3077403, u'overskirt', 0.17900449, u'hoopskirt', 0.072878674]
+[u'revolver', 0.17878123, u'harmonica', 0.14940153, u'flute', 0.079155639]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

@@ -1,0 +1,6 @@
+[u'wig', 0.57267344, u'book_jacket', 0.035794105, u'cloak', 0.011708033]
+[u'window_screen', 0.22742729, u'neck_brace', 0.061070234, u'lab_coat', 0.060947675]
+[u'Windsor_tie', 0.088409849, u'suit', 0.081417844, u'wig', 0.078072555]
+[u'bulletproof_vest', 0.091862962, u'military_uniform', 0.068133622, u'turnstile', 0.054027945]
+[u'neck_brace', 0.039792672, u'polecat', 0.030548634, u'Windsor_tie', 0.027094057]
+[u'wig', 0.95723552, u'mask', 0.021481059, u'bow_tie', 0.0020979038]

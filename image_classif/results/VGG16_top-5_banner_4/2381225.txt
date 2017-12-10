@@ -1,0 +1,6 @@
+[u'sarong', 0.16744828, u'shovel', 0.032082103, u'cleaver', 0.030876312, u'pole', 0.030304056, u'butcher_shop', 0.028348414]
+[u'worm_fence', 0.81990755, u'picket_fence', 0.16431133, u'barn', 0.0067996057, u'stone_wall', 0.0020843204, u'alp', 0.0010933173]
+[u'coil', 0.76629364, u'bannister', 0.14009275, u'chime', 0.013791535, u'hook', 0.0097839916, u'panpipe', 0.0075649186]
+[u'shower_curtain', 0.48925412, u'picket_fence', 0.12293085, u'fountain', 0.11936158, u'padlock', 0.046774797, u'prison', 0.016347578]
+[u'picket_fence', 0.70119524, u'worm_fence', 0.18745506, u'handkerchief', 0.025432728, u'chime', 0.018092368, u'ski', 0.0095528113]
+[u'barn', 0.23111184, u'birdhouse', 0.17816597, u'church', 0.16219318, u'castle', 0.15719777, u'alp', 0.073770136]

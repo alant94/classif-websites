@@ -1,0 +1,2 @@
+[u'book_jacket', 0.21261767, u'tusker', 0.093932301, u'jersey', 0.07587152, u'Indian_elephant', 0.038345415, u'African_elephant', 0.030594731]
+[u'wall_clock', 0.021154735, u'hourglass', 0.017935688, u'nematode', 0.015641291, u'lemon', 0.015043625, u'switch', 0.014228277]

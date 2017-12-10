@@ -1,0 +1,5 @@
+[u'bolo_tie', 0.084667616, u'coil', 0.077875264, u'buckle', 0.065569349, u"jack-o'-lantern", 0.064319402, u'bottlecap', 0.047762215]
+[u'web_site', 0.19214158, u'book_jacket', 0.11215491, u'binder', 0.042303834, u'comic_book', 0.042301372, u'envelope', 0.039637819]
+[u'warplane', 0.10643186, u'airship', 0.081976429, u'parachute', 0.062654495, u'aircraft_carrier', 0.058216181, u'balloon', 0.034775171]
+[u'barn', 0.1899177, u'lakeside', 0.091140933, u'alp', 0.08585123, u'hay', 0.073231108, u'valley', 0.070071168]
+[u'monitor', 0.07339441, u'television', 0.06620422, u'cash_machine', 0.064503275, u'screen', 0.062450726, u'digital_clock', 0.055370003]

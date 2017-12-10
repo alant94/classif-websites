@@ -1,0 +1,3 @@
+[u'book_jacket', 0.43529427, u'jersey', 0.28179348, u'sweatshirt', 0.020059401, u'packet', 0.019912098, u'envelope', 0.014421036]
+[u'bathing_cap', 0.31861266, u'academic_gown', 0.10080662, u'mortarboard', 0.087060586, u'umbrella', 0.067736417, u'bow', 0.034850314]
+[u'book_jacket', 0.26339644, u'hair_spray', 0.093291931, u'web_site', 0.06128731, u'perfume', 0.0583435, u'street_sign', 0.040975604]

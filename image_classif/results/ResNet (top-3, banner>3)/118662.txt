@@ -1,0 +1,2 @@
+[u'whistle', 0.69639844, u'vending_machine', 0.10863273, u'rule', 0.055027455]
+[u'vending_machine', 0.10803954, u'rule', 0.092875399, u'tobacco_shop', 0.073336154]

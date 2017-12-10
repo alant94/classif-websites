@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.13895832, u'book_jacket', 0.10743941, u'prayer_rug', 0.062811345]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'triumphal_arch', 0.6268183, u'bell_cote', 0.20194452, u'viaduct', 0.068268329]
+[u'envelope', 0.2108096, u'golf_ball', 0.098218799, u'web_site', 0.06779673]

@@ -1,0 +1,2 @@
+[u'tape_player', 0.099813327, u'Petri_dish', 0.075723536, u'loudspeaker', 0.066115558, u'cassette', 0.054266296, u'oscilloscope', 0.040433921]
+[u'cocktail_shaker', 0.15548444, u'mouse', 0.13252646, u'loudspeaker', 0.10796779, u'spotlight', 0.064451583, u'perfume', 0.045972027]

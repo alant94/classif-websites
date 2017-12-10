@@ -1,0 +1,8 @@
+[u'sliding_door', 0.12561883, u'ski', 0.12330145, u'vending_machine', 0.067928553, u'gas_pump', 0.060030725, u'cash_machine', 0.059006236]
+[u'wardrobe', 0.84939802, u'iron', 0.067953557, u'cleaver', 0.012569556, u'vestment', 0.0099206232, u'picket_fence', 0.0086442782]
+[u'wardrobe', 0.46315005, u'sliding_door', 0.1188131, u'ski', 0.038994245, u'swab', 0.025204035, u'picket_fence', 0.022587657]
+[u'totem_pole', 0.13957796, u'wardrobe', 0.079008453, u'sliding_door', 0.058207002, u'picket_fence', 0.055430837, u'vending_machine', 0.038117062]
+[u'screwdriver', 0.39897609, u'chime', 0.24424112, u'organ', 0.2285963, u"carpenter's_kit", 0.039640144, u'rifle', 0.012987162]
+[u'jersey', 0.1608092, u'digital_clock', 0.067361891, u'maillot', 0.058457449, u'sweatshirt', 0.035670038, u'punching_bag', 0.027885854]
+[u'perfume', 0.10419024, u'Band_Aid', 0.045710664, u'gasmask', 0.039223813, u'lighter', 0.036654208, u'piggy_bank', 0.031899944]
+[u'cash_machine', 0.63200277, u'vending_machine', 0.16858912, u'pay-phone', 0.053932596, u'gas_pump', 0.031099871, u'barbershop', 0.019726453]

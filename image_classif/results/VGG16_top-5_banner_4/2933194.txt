@@ -1,0 +1,4 @@
+[u'cardigan', 0.38819435, u'stole', 0.16207354, u'jigsaw_puzzle', 0.041766677, u"potter's_wheel", 0.033105545, u'jean', 0.024924545]
+[u'barn', 0.26986527, u'hay', 0.10752521, u'lakeside', 0.10141232, u'rapeseed', 0.055678587, u'worm_fence', 0.044885781]
+[u'snorkel', 0.7512579, u'bathing_cap', 0.066510141, u'great_white_shark', 0.027970092, u'swimming_trunks', 0.024827722, u'bikini', 0.017217796]
+[u'suit', 0.42122072, u'sax', 0.098085411, u'bassoon', 0.074531682, u'Windsor_tie', 0.058393288, u'oboe', 0.047238339]

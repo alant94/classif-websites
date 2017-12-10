@@ -1,0 +1,2 @@
+[u'web_site', 0.55780154, u'matchstick', 0.15324131, u'analog_clock', 0.059383299]
+[u'coffee_mug', 0.34566501, u'web_site', 0.12134029, u'jersey', 0.075953238]

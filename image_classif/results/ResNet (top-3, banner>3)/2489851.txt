@@ -1,0 +1,1 @@
+[u'panpipe', 0.42926732, u'traffic_light', 0.27699673, u'church', 0.087628625]

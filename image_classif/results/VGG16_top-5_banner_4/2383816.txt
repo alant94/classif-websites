@@ -1,0 +1,3 @@
+[u'balloon', 0.24481307, u'wall_clock', 0.077977143, u'parachute', 0.073258579, u'birdhouse', 0.060846429, u'flagpole', 0.046325136]
+[u'stone_wall', 0.7537955, u'maze', 0.076348767, u'worm_fence', 0.036934394, u'lakeside', 0.026567327, u'park_bench', 0.010915215]
+[u'Band_Aid', 0.11342201, u'envelope', 0.061119348, u'face_powder', 0.039880253, u'hook', 0.024106868, u'lipstick', 0.023895428]

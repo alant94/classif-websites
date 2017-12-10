@@ -1,0 +1,1 @@
+[u'candle', 0.25750211, u'lipstick', 0.16323946, u'web_site', 0.14000681, u'lighter', 0.13558555, u'envelope', 0.041691322]

@@ -1,0 +1,3 @@
+[u'web_site', 0.14423919, u'nematode', 0.096562512, u'matchstick', 0.028220737]
+[u'hourglass', 0.15525831, u'magnetic_compass', 0.12778047, u'spotlight', 0.107324]
+[u'web_site', 0.80475491, u'comic_book', 0.096062496, u'book_jacket', 0.024216656]

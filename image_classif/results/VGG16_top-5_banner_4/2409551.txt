@@ -1,0 +1,1 @@
+[u'sleeping_bag', 0.96053571, u'jean', 0.010375195, u'backpack', 0.0025994556, u'studio_couch', 0.0023590063, u'velvet', 0.0019925484]

@@ -1,0 +1,1 @@
+[u'safety_pin', 0.094735026, u'candle', 0.093011193, u'hair_slide', 0.086790845, u'pencil_sharpener', 0.064970493, u'letter_opener', 0.054825131]

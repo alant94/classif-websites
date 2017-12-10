@@ -1,0 +1,8 @@
+[u'wine_bottle', 0.99146771, u'red_wine', 0.0047938344, u'beer_bottle', 0.0035996868]
+[u'tripod', 0.17322503, u'traffic_light', 0.16730024, u'wall_clock', 0.1345796]
+[u'digital_clock', 0.4738549, u'scoreboard', 0.19778356, u'book_jacket', 0.11357408]
+[u'spider_web', 0.95696515, u'abaya', 0.0032599613, u'barn_spider', 0.0029316843]
+[u'book_jacket', 0.25956103, u'web_site', 0.14564943, u'comic_book', 0.057412934]
+[u'wine_bottle', 0.85341078, u'red_wine', 0.11071178, u'goblet', 0.010326891]
+[u'panpipe', 0.99988091, u'marimba', 9.690789e-05, u'church', 1.7133927e-05]
+[u'sarong', 0.14313275, u'swimming_trunks', 0.12082776, u'chiton', 0.055530276]

@@ -1,0 +1,7 @@
+[u'analog_clock', 0.3331033, u'wall_clock', 0.23595029, u'whistle', 0.11753263, u'stethoscope', 0.032813404, u'hook', 0.022884632]
+[u'coral_reef', 0.14751165, u'vase', 0.053431798, u'stage', 0.03045563, u'feather_boa', 0.02673248, u'thimble', 0.026701726]
+[u'perfume', 0.17237991, u'candle', 0.16545677, u'thimble', 0.13022433, u'saltshaker', 0.079889052, u'cup', 0.048716348]
+[u'volleyball', 0.32422978, u'pill_bottle', 0.18633321, u'rugby_ball', 0.15580559, u'sunscreen', 0.093049176, u'tennis_ball', 0.067423396]
+[u'brass', 0.9890281, u'menu', 0.0017038864, u'doormat', 0.0015053776, u'envelope', 0.00082653249, u'manhole_cover', 0.00070642954]
+[u'grocery_store', 0.19624576, u'packet', 0.16029215, u'strawberry', 0.15989564, u'shopping_basket', 0.087051809, u'hamper', 0.075400747]
+[u'pencil_sharpener', 0.44910184, u'matchstick', 0.29946548, u'rubber_eraser', 0.087550275, u'pinwheel', 0.078308649, u'pencil_box', 0.063488044]

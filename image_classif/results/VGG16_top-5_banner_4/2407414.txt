@@ -1,0 +1,4 @@
+[u'ice_cream', 0.30679893, u'chocolate_sauce', 0.26718932, u'bakery', 0.056618325, u'mashed_potato', 0.056054737, u'meat_loaf', 0.02537859]
+[u'face_powder', 0.18774585, u'web_site', 0.087048575, u'street_sign', 0.033801086, u'book_jacket', 0.033657849, u'packet', 0.032097083]
+[u'screen', 0.42264283, u'web_site', 0.28617305, u'television', 0.15431093, u'monitor', 0.11272501, u'jellyfish', 0.0049357554]
+[u'lotion', 0.41065809, u'candle', 0.17022027, u'ice_lolly', 0.080729298, u'perfume', 0.06422168, u'saltshaker', 0.039756384]

@@ -1,0 +1,8 @@
+[u'bighorn', 0.73356467, u'mountain_bike', 0.030949416, u'bobsled', 0.027521783]
+[u'lumbermill', 0.24172691, u'chain_saw', 0.16936523, u'tusker', 0.15286946]
+[u'electric_ray', 0.20910478, u'king_crab', 0.13937314, u'rock_crab', 0.072978579]
+[u'lumbermill', 0.41542256, u'beaver', 0.19318408, u'tusker', 0.047232032]
+[u'hartebeest', 0.73022354, u'impala', 0.15324633, u'gazelle', 0.061828543]
+[u'medicine_chest', 0.14305398, u'digital_clock', 0.13896947, u"jack-o'-lantern", 0.094501615]
+[u'Norwegian_elkhound', 0.77446789, u'German_shepherd', 0.047545493, u'coyote', 0.025698133]
+[u"jack-o'-lantern", 0.18347161, u'medicine_chest', 0.085941896, u'prayer_rug', 0.060015079]

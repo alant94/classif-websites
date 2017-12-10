@@ -1,0 +1,2 @@
+[u'military_uniform', 0.18888307, u'half_track', 0.10557701, u'assault_rifle', 0.068718396, u'rifle', 0.060283635, u'tank', 0.04360646]
+[u'picket_fence', 0.085693933, u'cinema', 0.082783282, u'medicine_chest', 0.076699302, u'crib', 0.044361457, u'paddlewheel', 0.04019285]

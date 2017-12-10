@@ -1,0 +1,8 @@
+[u'lighter', 0.43036199, u'candle', 0.080599383, u'television', 0.019080196]
+[u'Band_Aid', 0.40430194, u'bathtub', 0.079863705, u'dugong', 0.053006582]
+[u'brassiere', 0.6965276, u'miniskirt', 0.23476768, u'maillot', 0.038419984]
+[u'knee_pad', 0.15746853, u'shower_cap', 0.087800913, u"jack-o'-lantern", 0.081880949]
+[u'neck_brace', 0.10698514, u'shower_curtain', 0.093101025, u'fur_coat', 0.076072551]
+[u'proboscis_monkey', 0.081438787, u"potter's_wheel", 0.042951889, u'baboon', 0.040271085]
+[u'swimming_trunks', 0.52390033, u'bathtub', 0.14835647, u'tub', 0.093469411]
+[u'web_site', 0.78245181, u'mushroom', 0.14913955, u'acorn', 0.025662752]

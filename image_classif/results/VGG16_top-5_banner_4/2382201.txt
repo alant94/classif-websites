@@ -1,0 +1,3 @@
+[u'book_jacket', 0.20958802, u'oscilloscope', 0.16060157, u'screen', 0.10096253, u'monitor', 0.068989865, u'rule', 0.057490021]
+[u'desk', 0.20520833, u'web_site', 0.14456122, u'harmonica', 0.09230008, u'bookcase', 0.056385655, u'radio', 0.049718659]
+[u'web_site', 0.13249964, u'airship', 0.044063259, u'book_jacket', 0.033854946, u'balloon', 0.031721644, u'castle', 0.029517349]

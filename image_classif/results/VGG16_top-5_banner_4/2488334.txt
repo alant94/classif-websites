@@ -1,0 +1,8 @@
+[u'space_shuttle', 0.82672769, u'black_stork', 0.027979348, u'spoonbill', 0.014607229, u'missile', 0.0067030145, u'white_stork', 0.0053122798]
+[u'steam_locomotive', 0.11938791, u'pirate', 0.11409476, u'spiny_lobster', 0.069732122, u'thatch', 0.058950469, u'Model_T', 0.030871756]
+[u'theater_curtain', 0.18111461, u'home_theater', 0.12454272, u'television', 0.079295568, u'spotlight', 0.067909658, u'digital_clock', 0.065292075]
+[u'dock', 0.2399101, u'drilling_platform', 0.11657357, u'boathouse', 0.10746412, u'crane', 0.096028991, u'wreck', 0.066739984]
+[u'ox', 0.29805875, u'oxcart', 0.28084457, u'hartebeest', 0.16726454, u'plow', 0.10475096, u'water_buffalo', 0.082728788]
+[u'gondola', 0.33315954, u'dogsled', 0.18611047, u'canoe', 0.074125133, u'oxcart', 0.048931625, u'ox', 0.042415015]
+[u'coral_fungus', 0.57867849, u'sea_urchin', 0.087634414, u'coral_reef', 0.067660011, u'picket_fence', 0.06207091, u'sea_anemone', 0.05294003]
+[u'ox', 0.26166025, u'water_buffalo', 0.17140095, u'bow', 0.13211648, u'oxcart', 0.090322219, u'hog', 0.038706206]

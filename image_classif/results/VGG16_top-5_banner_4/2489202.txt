@@ -1,0 +1,5 @@
+[u'book_jacket', 0.15465225, u'comic_book', 0.10111312, u'pop_bottle', 0.083295465, u"carpenter's_kit", 0.061290585, u'barbershop', 0.060523141]
+[u'parachute', 0.065263845, u'hook', 0.043252375, u'envelope', 0.042407408, u'wall_clock', 0.030149462, u'bell_cote', 0.023759888]
+[u'Doberman', 0.21357419, u'miniature_pinscher', 0.11558495, u'kelpie', 0.049547099, u'ox', 0.043224469, u'water_buffalo', 0.042781249]
+[u'web_site', 0.17850773, u'swab', 0.11315531, u'candle', 0.10913229, u'shower_cap', 0.074229524, u'magnetic_compass', 0.061203074]
+[u'seashore', 0.28886113, u'cliff', 0.1001853, u'cliff_dwelling', 0.093420811, u'promontory', 0.061782144, u'container_ship', 0.026924612]

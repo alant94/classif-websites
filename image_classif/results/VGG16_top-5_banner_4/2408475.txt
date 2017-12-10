@@ -1,0 +1,4 @@
+[u'web_site', 0.52841437, u'hand-held_computer', 0.040355597, u'stopwatch', 0.027716758, u'modem', 0.027331859, u'combination_lock', 0.022350553]
+[u'hook', 0.22570746, u'microphone', 0.083201893, u'stethoscope', 0.063936353, u'whistle', 0.063912272, u'magnetic_compass', 0.032837406]
+[u'web_site', 0.82058698, u'desktop_computer', 0.035576612, u'Band_Aid', 0.016378911, u'hard_disc', 0.01395908, u'can_opener', 0.011589128]
+[u'binder', 0.24152112, u'modem', 0.098809652, u'combination_lock', 0.074719705, u'rubber_eraser', 0.061775211, u'cassette', 0.060739856]

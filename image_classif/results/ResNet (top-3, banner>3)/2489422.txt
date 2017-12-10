@@ -1,0 +1,8 @@
+[u'crib', 0.72622812, u'picket_fence', 0.098894402, u'cradle', 0.031608157]
+[u'home_theater', 0.24689907, u'space_shuttle', 0.21488965, u'television', 0.14202201]
+[u'crib', 0.53183502, u'window_shade', 0.082628988, u'sliding_door', 0.074282907]
+[u'crib', 0.23480964, u'sliding_door', 0.21569815, u'shoji', 0.066524193]
+[u'crib', 0.51505423, u'sliding_door', 0.13337462, u'picket_fence', 0.082313083]
+[u'pole', 0.2042987, u'impala', 0.052741788, u'hartebeest', 0.044024628]
+[u'barometer', 0.81596768, u'analog_clock', 0.088817619, u'stopwatch', 0.059134096]
+[u'web_site', 0.077641882, u'paintbrush', 0.068358615, u'shower_curtain', 0.061657265]

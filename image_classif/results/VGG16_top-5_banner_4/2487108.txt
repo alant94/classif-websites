@@ -1,0 +1,2 @@
+[u'bulletproof_vest', 0.072204493, u'brassiere', 0.06087045, u'abaya', 0.057827946, u'muzzle', 0.05318575, u'academic_gown', 0.047591906]
+[u'web_site', 0.090711221, u'Bouvier_des_Flandres', 0.027965881, u'muzzle', 0.024162786, u'envelope', 0.022808364, u'ibex', 0.021939235]

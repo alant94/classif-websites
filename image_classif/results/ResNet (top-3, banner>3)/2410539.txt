@@ -1,0 +1,6 @@
+[u'jersey', 0.99464107, u'sweatshirt', 0.0031288546, u'bulletproof_vest', 0.0015986235]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'buckle', 0.27945298, u'magnetic_compass', 0.25417295, u'puck', 0.064565569]
+[u'sweatshirt', 0.98103607, u'bulletproof_vest', 0.007109018, u'cowboy_hat', 0.0025253785]

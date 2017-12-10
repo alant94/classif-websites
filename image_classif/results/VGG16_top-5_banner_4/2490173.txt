@@ -1,0 +1,6 @@
+[u'lampshade', 0.18855593, u"jack-o'-lantern", 0.18390088, u'digital_clock', 0.064497747, u'bolo_tie', 0.05666548, u'shield', 0.052826442]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'coil', 0.45409849, u'spotlight', 0.13620096, u'dome', 0.076032788, u'bannister', 0.036363181, u'stupa', 0.030391444]
+[u'stupa', 0.39111149, u'bell_cote', 0.21684179, u'coil', 0.051093441, u'pencil_sharpener', 0.027934249, u'analog_clock', 0.019155109]
+[u'bottlecap', 0.99859864, u'analog_clock', 0.00044245675, u'wall_clock', 0.00038488337, u'shield', 0.00012586576, u'bakery', 0.00010580043]
+[u'face_powder', 0.46166173, u'lipstick', 0.14969878, u'puck', 0.13144177, u'switch', 0.092658982, u'nipple', 0.021675806]

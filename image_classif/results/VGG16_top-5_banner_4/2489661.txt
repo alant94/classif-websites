@@ -1,0 +1,7 @@
+[u'scoreboard', 0.14186558, u'paddlewheel', 0.13378088, u'book_jacket', 0.053980373, u'theater_curtain', 0.040481787, u'fireboat', 0.029529396]
+[u'African_crocodile', 0.15434705, u'American_alligator', 0.11237653, u'alligator_lizard', 0.076571345, u'tailed_frog', 0.074893825, u'starfish', 0.065030485]
+[u'loggerhead', 0.30899563, u'starfish', 0.15896331, u'leatherback_turtle', 0.050609209, u'hummingbird', 0.043871984, u'great_white_shark', 0.042763304]
+[u'wall_clock', 0.22836922, u'comic_book', 0.075790584, u'gas_pump', 0.072903015, u'analog_clock', 0.06654796, u'digital_clock', 0.023356779]
+[u'goose', 0.22743799, u'dowitcher', 0.11532731, u'pelican', 0.087255761, u'crane', 0.034816716, u'prairie_chicken', 0.032540467]
+[u'comic_book', 0.71062011, u'book_jacket', 0.26861587, u'jersey', 0.0043783747, u'web_site', 0.0040826197, u'laptop', 0.0013770901]
+[u'frilled_lizard', 0.096239485, u'shield', 0.070608042, u'pedestal', 0.065581769, u'chime', 0.042531788, u'great_grey_owl', 0.037602711]

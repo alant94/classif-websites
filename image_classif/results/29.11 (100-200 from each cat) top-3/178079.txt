@@ -1,0 +1,4 @@
+[u'stole', 0.63569605, u'jean', 0.065583736, u'Windsor_tie', 0.039882015]
+[u'church', 0.63394678, u'barn', 0.10421374, u'beacon', 0.049979221]
+[u'carton', 0.19402921, u'prison', 0.18778625, u'bookshop', 0.10980805]
+[u'monastery', 0.28381884, u'prison', 0.17941178, u'barn', 0.13372941]

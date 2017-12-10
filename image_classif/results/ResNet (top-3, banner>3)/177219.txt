@@ -1,0 +1,7 @@
+[u'packet', 0.39264771, u'ashcan', 0.062192403, u'sunscreen', 0.059207462]
+[u'web_site', 0.29953673, u'envelope', 0.25202218, u'ashcan', 0.020818785]
+[u'mosque', 0.86788297, u'palace', 0.047111854, u'church', 0.021165788]
+[u'Windsor_tie', 0.2783666, u'suit', 0.15662862, u'bassoon', 0.074229605]
+[u'book_jacket', 0.11021066, u'kimono', 0.090275913, u'desk', 0.059262771]
+[u'jersey', 0.31929836, u'bassoon', 0.063353404, u'oboe', 0.058287099]
+[u'Windsor_tie', 0.44810343, u'oboe', 0.067706719, u'bassoon', 0.046571504]

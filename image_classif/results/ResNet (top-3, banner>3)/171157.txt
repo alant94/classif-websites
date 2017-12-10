@@ -1,0 +1,4 @@
+[u'book_jacket', 0.11434861, u'shower_curtain', 0.06804578, u'comic_book', 0.049216572]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]
+[u'web_site', 0.19711277, u'television', 0.083353624, u'stage', 0.047028821]
+[u'accordion', 0.99609226, u'bassoon', 0.0019281936, u'oboe', 0.0013442718]

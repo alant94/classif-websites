@@ -1,0 +1,5 @@
+[u'cowboy_hat', 0.92956156, u'sombrero', 0.048073463, u'acoustic_guitar', 0.011285505]
+[u'electric_guitar', 0.46105778, u'acoustic_guitar', 0.45970067, u'banjo', 0.04116651]
+[u'lampshade', 0.24066313, u'cradle', 0.12140998, u'grand_piano', 0.10011869]
+[u'tripod', 0.13068797, u'bow', 0.054646142, u'nail', 0.042430799]
+[u'acoustic_guitar', 0.61436248, u'electric_guitar', 0.36847216, u'banjo', 0.015313276]

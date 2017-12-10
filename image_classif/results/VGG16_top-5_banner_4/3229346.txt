@@ -1,0 +1,3 @@
+[u'restaurant', 0.46058926, u'cinema', 0.050086807, u'spotlight', 0.049938019, u'stage', 0.043405611, u'vestment', 0.043290745]
+[u'missile', 0.22755948, u'wing', 0.09681797, u'projectile', 0.092134833, u'flagpole', 0.065910064, u'submarine', 0.048765965]
+[u'viaduct', 0.099685669, u'brass', 0.054617092, u'barn', 0.047588926, u'mountain_bike', 0.041765939, u'freight_car', 0.033711102]

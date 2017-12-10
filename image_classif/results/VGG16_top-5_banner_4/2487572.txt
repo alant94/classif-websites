@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.38425919, u'Band_Aid', 0.049555268, u'envelope', 0.023139697, u'stole', 0.021908704, u'wool', 0.01894784]
+[u'street_sign', 0.19027053, u'book_jacket', 0.042462058, u'web_site', 0.03211293, u'digital_clock', 0.027857019, u'packet', 0.021847602]
+[u'web_site', 0.79908979, u'envelope', 0.047755502, u'jersey', 0.013273194, u'Windsor_tie', 0.0087405434, u'whistle', 0.0083920136]
+[u'clumber', 0.11907694, u'Afghan_hound', 0.071782827, u'English_setter', 0.060273334, u'German_short-haired_pointer', 0.036103919, u'standard_schnauzer', 0.033075079]

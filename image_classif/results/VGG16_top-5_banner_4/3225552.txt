@@ -1,0 +1,4 @@
+[u'pole', 0.5850001, u'horizontal_bar', 0.15810487, u'bikini', 0.081017651, u'bow', 0.039888989, u'swing', 0.036132749]
+[u'toilet_seat', 0.26741472, u'toilet_tissue', 0.17206056, u'paper_towel', 0.12305553, u'space_shuttle', 0.10545269, u'iPod', 0.042609956]
+[u'book_jacket', 0.14530486, u'monastery', 0.1134223, u'barbershop', 0.058493197, u'mosque', 0.057290629, u'restaurant', 0.04766719]
+[u'jersey', 0.077534467, u'shoe_shop', 0.064639173, u'sweatshirt', 0.054560505, u'comic_book', 0.040130459, u'parallel_bars', 0.034981649]

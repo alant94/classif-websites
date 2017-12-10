@@ -1,0 +1,4 @@
+[u'toyshop', 0.89341515, u'confectionery', 0.042729285, u'shoe_shop', 0.015332775, u'slot', 0.012081186, u'tobacco_shop', 0.007053873]
+[u'grocery_store', 0.52135497, u'toyshop', 0.33800238, u'confectionery', 0.09212824, u'tobacco_shop', 0.018345954, u'pop_bottle', 0.011709216]
+[u'gas_pump', 0.41450107, u'traffic_light', 0.11907806, u'street_sign', 0.087625735, u'restaurant', 0.078411512, u'pay-phone', 0.076400824]
+[u'nail', 0.22682598, u'chime', 0.18512325, u'hook', 0.092123158, u'tripod', 0.071746312, u'parallel_bars', 0.051878314]

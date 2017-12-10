@@ -1,0 +1,2 @@
+[u'strainer', 0.050737128, u'spotlight', 0.031864371, u'television', 0.02932414]
+[u'oscilloscope', 0.14815108, u'screw', 0.050556168, u'cleaver', 0.045982137]

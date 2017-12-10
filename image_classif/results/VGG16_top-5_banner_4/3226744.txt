@@ -1,0 +1,3 @@
+[u'theater_curtain', 0.88147527, u'stage', 0.045959059, u'spotlight', 0.012564495, u'altar', 0.0096348189, u'organ', 0.0074653393]
+[u'theater_curtain', 0.7333827, u'spotlight', 0.048121393, u'fountain', 0.041987799, u'stage', 0.039844874, u'matchstick', 0.021348912]
+[u'spotlight', 0.15783376, u'jellyfish', 0.10904798, u'scuba_diver', 0.093808755, u'stage', 0.088404916, u'fountain', 0.049159016]

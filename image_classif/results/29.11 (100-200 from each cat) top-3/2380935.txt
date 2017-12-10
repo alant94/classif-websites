@@ -1,0 +1,3 @@
+[u'web_site', 0.62485039, u'barn', 0.18154605, u'corn', 0.040576257]
+[u'oscilloscope', 0.13973647, u'hook', 0.094947241, u'nail', 0.072173625]
+[u'digital_clock', 0.73437989, u'digital_watch', 0.24133494, u'book_jacket', 0.012137577]

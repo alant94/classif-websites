@@ -1,0 +1,6 @@
+[u'sports_car', 0.46537691, u'convertible', 0.28667375, u'car_wheel', 0.07942012, u'racer', 0.065515883, u'beach_wagon', 0.046033226]
+[u'pencil_sharpener', 0.45011607, u'loupe', 0.090035312, u'lighter', 0.060168657, u'safety_pin', 0.050540842, u'whistle', 0.025208307]
+[u'police_van', 0.25262627, u'minivan', 0.11751552, u'ambulance', 0.10227779, u'cab', 0.048372865, u'flagpole', 0.046617921]
+[u'beach_wagon', 0.1403566, u'grille', 0.13232085, u'limousine', 0.10237506, u'pickup', 0.0800118, u'minivan', 0.077935889]
+[u'sports_car', 0.50747454, u'crash_helmet', 0.24785225, u'minivan', 0.15053025, u'racer', 0.016472261, u'convertible', 0.014478293]
+[u'cannon', 0.15501671, u'tractor', 0.13825932, u'Model_T', 0.11522017, u'racer', 0.10446011, u'car_wheel', 0.089780726]

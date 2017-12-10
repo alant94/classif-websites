@@ -1,0 +1,1 @@
+[u'sarong', 0.41765878, u'shower_curtain', 0.18160507, u'poncho', 0.081597827, u'jersey', 0.034506604, u'picket_fence', 0.03084874]

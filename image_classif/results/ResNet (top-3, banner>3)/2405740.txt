@@ -1,0 +1,1 @@
+[u'shower_cap', 0.400686, u'bathing_cap', 0.15682563, u'toilet_seat', 0.065682612]

@@ -1,0 +1,5 @@
+[u'envelope', 0.15643902, u'refrigerator', 0.096828967, u'carton', 0.056838728, u'hamper', 0.04943889, u'perfume', 0.046716761]
+[u'buckle', 0.27878749, u'wallet', 0.23316637, u'slot', 0.072683349, u'chest', 0.070101373, u'purse', 0.028692372]
+[u'pinwheel', 0.21012031, u'bikini', 0.098601885, u'sarong', 0.081885375, u'mask', 0.053867716, u'necklace', 0.042232376]
+[u'puck', 0.2558699, u'beer_bottle', 0.14042285, u'bottlecap', 0.066151112, u'barrel', 0.051830754, u'tobacco_shop', 0.048454523]
+[u'rocking_chair', 0.47715944, u'chest', 0.16107257, u'guillotine', 0.048152618, u'throne', 0.040561102, u'cradle', 0.036697477]

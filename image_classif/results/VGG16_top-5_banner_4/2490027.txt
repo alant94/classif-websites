@@ -1,0 +1,2 @@
+[u'gar', 0.15915652, u'lumbermill', 0.096795484, u'rifle', 0.055965714, u'coho', 0.053616267, u'Dungeness_crab', 0.043983221]
+[u'vizsla', 0.087178856, u'rotisserie', 0.086076096, u'acorn_squash', 0.04904538, u'redbone', 0.048410553, u'bloodhound', 0.038705993]

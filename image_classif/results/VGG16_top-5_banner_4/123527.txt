@@ -1,0 +1,2 @@
+[u'pickelhaube', 0.3802042, u'bulletproof_vest', 0.24924915, u'military_uniform', 0.14155611, u'ballplayer', 0.040058669, u'vestment', 0.033005301]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

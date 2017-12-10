@@ -1,0 +1,5 @@
+[u'cash_machine', 0.23010029, u'refrigerator', 0.11218022, u'screen', 0.0444085, u'lighter', 0.040187035, u'safe', 0.028549213]
+[u'comic_book', 0.23379211, u'flagpole', 0.21088329, u'book_jacket', 0.1175575, u'ski', 0.038046971, u'bow', 0.035300307]
+[u'hen', 0.30396229, u'prairie_chicken', 0.15087286, u'ruffed_grouse', 0.086057618, u'ram', 0.084622964, u'hen-of-the-woods', 0.049086906]
+[u'Leonberg', 0.10589298, u'Afghan_hound', 0.076801218, u'Irish_setter', 0.073181741, u'dogsled', 0.043169446, u'hog', 0.038849279]
+[u'syringe', 0.44365492, u'screwdriver', 0.15188894, u'picket_fence', 0.056146409, u'chime', 0.053043146, u'nail', 0.040222351]

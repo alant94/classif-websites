@@ -1,0 +1,6 @@
+[u'revolver', 0.61863405, u'assault_rifle', 0.12277379, u'rifle', 0.069119096]
+[u'cellular_telephone', 0.77265805, u'water_bottle', 0.058066133, u'remote_control', 0.04330593]
+[u'suit', 0.45131165, u'Windsor_tie', 0.090458371, u'bassoon', 0.055237487]
+[u'jersey', 0.13152415, u'packet', 0.10519428, u'Band_Aid', 0.10276226]
+[u'cloak', 0.22274008, u'abaya', 0.17108753, u'shower_curtain', 0.066030741]
+[u'sweatshirt', 0.45127746, u'coho', 0.052012052, u'sturgeon', 0.048340306]

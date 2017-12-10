@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.83365029, u'menu', 0.01932021, u'scoreboard', 0.012969108, u'web_site', 0.0094933677, u'book_jacket', 0.0056859008]
+[u'Band_Aid', 0.18200898, u'envelope', 0.092845112, u'street_sign', 0.079000875, u'scoreboard', 0.075206555, u'book_jacket', 0.051021758]

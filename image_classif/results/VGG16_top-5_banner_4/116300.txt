@@ -1,0 +1,7 @@
+[u'window_shade', 0.089047804, u'shower_curtain', 0.069191523, u'television', 0.045641456, u'screen', 0.038410053, u'quilt', 0.032068234]
+[u'prison', 0.3053062, u'paddlewheel', 0.099129803, u'window_shade', 0.055650998, u'turnstile', 0.039367385, u'shopping_basket', 0.036102314]
+[u'envelope', 0.2253975, u'book_jacket', 0.064807862, u'shower_curtain', 0.061934505, u'crossword_puzzle', 0.037100416, u'wall_clock', 0.025694232]
+[u'envelope', 0.15077883, u'book_jacket', 0.054533817, u'velvet', 0.050258961, u'shower_curtain', 0.047658779, u'crossword_puzzle', 0.028770948]
+[u'monitor', 0.4355669, u'screen', 0.18393916, u'laptop', 0.079675324, u'desktop_computer', 0.067804836, u'cash_machine', 0.040823415]
+[u'digital_clock', 0.11763956, u'television', 0.073524691, u'screen', 0.067577429, u'web_site', 0.05967195, u'wall_clock', 0.057501983]
+[u'envelope', 0.069959961, u'crossword_puzzle', 0.068656556, u'shower_curtain', 0.049050696, u'velvet', 0.035761457, u'book_jacket', 0.033553571]

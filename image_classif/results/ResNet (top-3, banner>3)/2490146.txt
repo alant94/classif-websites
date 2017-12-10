@@ -1,0 +1,3 @@
+[u'ibex', 0.43180203, u'wild_boar', 0.12417659, u'wallaby', 0.11559254]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'envelope', 0.32027972, u'Band_Aid', 0.24785225, u'web_site', 0.1442169]

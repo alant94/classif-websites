@@ -1,0 +1,3 @@
+[u'web_site', 0.36786222, u'book_jacket', 0.18468826, u'binder', 0.17733724, u'envelope', 0.075023532, u'comic_book', 0.024503399]
+[u'book_jacket', 0.19975512, u'web_site', 0.19810177, u'screwdriver', 0.080963075, u'binder', 0.050927736, u'cash_machine', 0.025168898]
+[u'web_site', 0.47736761, u'safety_pin', 0.29011604, u'packet', 0.054441366, u'menu', 0.054339334, u'ballpoint', 0.026317263]

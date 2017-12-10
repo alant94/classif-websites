@@ -1,0 +1,5 @@
+[u'book_jacket', 0.13938397, u'hook', 0.095488541, u'safety_pin', 0.066855825, u'crutch', 0.040033795, u'web_site', 0.022178715]
+[u'Band_Aid', 0.19643472, u'book_jacket', 0.092479199, u'web_site', 0.074564829, u'hair_spray', 0.071544483, u'packet', 0.045848574]
+[u'candle', 0.90373313, u'torch', 0.024762368, u"jack-o'-lantern", 0.016553082, u'table_lamp', 0.009568464, u'vase', 0.0074139717]
+[u'menu', 0.57479513, u'web_site', 0.080504112, u'envelope', 0.028890651, u'hand_blower', 0.019629002, u'crossword_puzzle', 0.016766269]
+[u"carpenter's_kit", 0.40525451, u'safety_pin', 0.22460783, u'hook', 0.078274325, u'shovel', 0.043637369, u'screwdriver', 0.034893915]

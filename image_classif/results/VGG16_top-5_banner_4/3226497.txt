@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.22415778, u'hair_spray', 0.057295717, u'organ', 0.044183545, u'cinema', 0.033885863, u'bookcase', 0.032294638]

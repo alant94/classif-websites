@@ -1,0 +1,7 @@
+[u'dam', 0.29098451, u'aircraft_carrier', 0.060519472, u'bell_cote', 0.047559779, u'pier', 0.026394874, u'space_shuttle', 0.02632121]
+[u'bikini', 0.79193771, u'maillot', 0.10397735, u'maillot', 0.034328725, u'volleyball', 0.032394189, u'swimming_trunks', 0.0066261943]
+[u'sliding_door', 0.91736454, u'window_shade', 0.0089970864, u'window_screen', 0.0083967857, u'prison', 0.0070998035, u'vending_machine', 0.0065573091]
+[u'safety_pin', 0.19963606, u'necklace', 0.080571771, u'spindle', 0.069191501, u'quill', 0.059235986, u'leaf_beetle', 0.051590275]
+[u'altar', 0.40792826, u'space_shuttle', 0.13028425, u'throne', 0.062514827, u'fire_screen', 0.030821109, u'church', 0.029998388]
+[u'crossword_puzzle', 0.56953961, u'rule', 0.077146381, u'slide_rule', 0.055240616, u'power_drill', 0.035897177, u'syringe', 0.033280771]
+[u'lipstick', 0.21000737, u'hourglass', 0.095079616, u'candle', 0.055167314, u'bikini', 0.035245951, u'lab_coat', 0.034697361]

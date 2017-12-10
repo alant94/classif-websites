@@ -1,0 +1,6 @@
+[u'modem', 0.4852953, u'lighter', 0.060262695, u'water_bottle', 0.0566337, u'cash_machine', 0.04614798, u'vacuum', 0.040599264]
+[u'cleaver', 0.22616565, u'hatchet', 0.08301805, u'dumbbell', 0.055280827, u'hammer', 0.049962331, u'buckle', 0.030381326]
+[u'computer_keyboard', 0.45420462, u'space_bar', 0.44673359, u'typewriter_keyboard', 0.050799105, u'remote_control', 0.014130638, u'notebook', 0.0089904219]
+[u'stage', 0.24182664, u'television', 0.095820494, u'microphone', 0.070815735, u'theater_curtain', 0.04628643, u'suit', 0.040276408]
+[u'lampshade', 0.12064665, u'spotlight', 0.11186241, u'torch', 0.090471916, u'balloon', 0.083355658, u'traffic_light', 0.071326807]
+[u'plastic_bag', 0.23480159, u'packet', 0.10200945, u'book_jacket', 0.095971636, u'Band_Aid', 0.068426795, u'toilet_tissue', 0.045456547]

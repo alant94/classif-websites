@@ -1,0 +1,4 @@
+[u'academic_gown', 0.053852476, u'hair_slide', 0.051955417, u'Band_Aid', 0.0297678]
+[u'plunger', 0.10999703, u'shower_cap', 0.067450687, u'chain_mail', 0.044903424]
+[u'combination_lock', 0.12445681, u'CD_player', 0.12400979, u'whistle', 0.099923111]
+[u'miniskirt', 0.18565455, u'brassiere', 0.069176003, u'jersey', 0.048303623]

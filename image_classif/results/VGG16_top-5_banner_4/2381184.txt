@@ -1,0 +1,2 @@
+[u'envelope', 0.061466482, u'web_site', 0.060671404, u'nail', 0.04799645, u'hook', 0.022373071, u'hatchet', 0.019088645]
+[u'barrel', 0.94146442, u'drumstick', 0.0090516685, u'brass', 0.0069166925, u'doormat', 0.0053107482, u'hatchet', 0.0027820452]

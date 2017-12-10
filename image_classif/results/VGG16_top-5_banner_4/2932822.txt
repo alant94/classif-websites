@@ -1,0 +1,3 @@
+[u'puck', 0.54091054, u'electric_fan', 0.069425441, u'rugby_ball', 0.039788503, u'bolo_tie', 0.028704647, u'book_jacket', 0.027429624]
+[u'puck', 0.40859216, u'web_site', 0.066684298, u'rugby_ball', 0.045113884, u'spotlight', 0.04063984, u'book_jacket', 0.03068357]
+[u'matchstick', 0.14224924, u'candle', 0.11173537, u'envelope', 0.094183937, u'book_jacket', 0.046574589, u'lighter', 0.046062481]

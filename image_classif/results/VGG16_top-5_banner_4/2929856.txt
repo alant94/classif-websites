@@ -1,0 +1,1 @@
+[u"carpenter's_kit", 0.22263554, u'cleaver', 0.10962064, u'hammer', 0.066463366, u'sweatshirt', 0.060499396, u'letter_opener', 0.056592107]

@@ -1,0 +1,1 @@
+[u'iPod', 0.8514303, u'lotion', 0.029555602, u'cellular_telephone', 0.017649971, u'monitor', 0.011715812, u'vending_machine', 0.01167037]

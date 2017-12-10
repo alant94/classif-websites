@@ -1,0 +1,5 @@
+[u'chime', 0.84460121, u'nail', 0.051564164, u'matchstick', 0.017499942, u'syringe', 0.012761917, u'screwdriver', 0.012023222]
+[u'syringe', 0.46129057, u'web_site', 0.11703073, u'rule', 0.063334219, u'screwdriver', 0.039678432, u'nail', 0.034968775]
+[u'chime', 0.45661184, u'nail', 0.076353796, u'lipstick', 0.073844455, u'ballpoint', 0.072612651, u'syringe', 0.054581333]
+[u'ballplayer', 0.53799152, u'scoreboard', 0.29574117, u'football_helmet', 0.063801035, u'Saluki', 0.020002652, u'borzoi', 0.015415059]
+[u'comic_book', 0.33461255, u'book_jacket', 0.18193661, u'menu', 0.067281224, u'web_site', 0.046481546, u'street_sign', 0.029058238]

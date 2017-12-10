@@ -1,0 +1,6 @@
+[u'envelope', 0.53824466, u'binder', 0.13972679, u'web_site', 0.054808881, u'comic_book', 0.032261588, u'tray', 0.022197122]
+[u'racket', 0.63395202, u'sunglasses', 0.059582144, u'brassiere', 0.047223207, u'odometer', 0.035578869, u'drum', 0.013922957]
+[u'matchstick', 0.20099272, u'street_sign', 0.081248917, u'analog_clock', 0.045194626, u'wall_clock', 0.040484298, u'nail', 0.023318665]
+[u'slot', 0.26768738, u'fire_engine', 0.13095978, u'throne', 0.068830267, u'vestment', 0.053395826, u'mailbox', 0.04435201]
+[u'hard_disc', 0.33813196, u'electric_guitar', 0.26108289, u'toilet_seat', 0.078120314, u'CD_player', 0.029925294, u'iPod', 0.022309177]
+[u'web_site', 0.55170333, u'scoreboard', 0.43914664, u'football_helmet', 0.0022719856, u'comic_book', 0.0013186026, u'ballplayer', 0.00079875829]

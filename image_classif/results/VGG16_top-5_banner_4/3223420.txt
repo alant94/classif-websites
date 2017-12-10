@@ -1,0 +1,2 @@
+[u'volcano', 0.27592039, u'matchstick', 0.18067935, u'fountain', 0.063015759, u'candle', 0.053967338, u'lighter', 0.03482699]
+[u'plate_rack', 0.52663624, u'abacus', 0.06495636, u'cinema', 0.061779138, u'thimble', 0.045064598, u'rule', 0.036004983]

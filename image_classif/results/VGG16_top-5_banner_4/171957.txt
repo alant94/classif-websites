@@ -1,0 +1,5 @@
+[u'wall_clock', 0.14220981, u'bell_cote', 0.11803817, u'altar', 0.09012945, u'vault', 0.049132217, u'envelope', 0.047090095]
+[u'modem', 0.23693953, u'book_jacket', 0.13562271, u'switch', 0.06283775, u'binder', 0.054745551, u'envelope', 0.049987514]
+[u'stage', 0.59095031, u'oboe', 0.071552843, u'bassoon', 0.052002314, u'sax', 0.051743485, u'cornet', 0.043472644]
+[u'screwdriver', 0.83259511, u'syringe', 0.086871326, u'safety_pin', 0.019478248, u"carpenter's_kit", 0.015531206, u'screw', 0.0086598238]
+[u'bath_towel', 0.41191089, u'wool', 0.19093969, u'swab', 0.048905037, u'face_powder', 0.036598623, u'broom', 0.024750197]

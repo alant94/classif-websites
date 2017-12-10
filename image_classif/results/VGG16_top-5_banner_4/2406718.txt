@@ -1,0 +1,1 @@
+[u'suit', 0.33172047, u'notebook', 0.2601842, u'miniskirt', 0.10440317, u'bulletproof_vest', 0.097015619, u'trench_coat', 0.078140244]

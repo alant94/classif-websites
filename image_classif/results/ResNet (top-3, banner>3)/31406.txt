@@ -1,0 +1,6 @@
+[u'envelope', 0.26274782, u'book_jacket', 0.21492454, u'binder', 0.10640106]
+[u'digital_clock', 0.49407169, u'traffic_light', 0.1099394, u'digital_watch', 0.10578275]
+[u'traffic_light', 0.78973264, u'tripod', 0.066446461, u'chime', 0.03144227]
+[u'hair_spray', 0.072933123, u'hand_blower', 0.071179517, u'hoopskirt', 0.063794866]
+[u'traffic_light', 0.43158406, u'panpipe', 0.37275228, u'tripod', 0.04180111]
+[u'digital_clock', 0.30980739, u'traffic_light', 0.16954187, u'tripod', 0.077289075]

@@ -1,0 +1,1 @@
+[u'milk_can', 0.059491877, u'rain_barrel', 0.042772654, u'apron', 0.027517173, u'bearskin', 0.023220506, u'caldron', 0.021616198]

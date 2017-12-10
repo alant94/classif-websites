@@ -1,0 +1,3 @@
+[u'stopwatch', 0.26556835, u'digital_clock', 0.25461563, u'puck', 0.1748683, u'digital_watch', 0.029741464, u'dumbbell', 0.027290009]
+[u'Band_Aid', 0.27505744, u'packet', 0.10553651, u'confectionery', 0.081155874, u'eggnog', 0.057156436, u'comic_book', 0.054183565]
+[u'bottlecap', 0.44433305, u'puck', 0.2508646, u'face_powder', 0.058139198, u'beer_bottle', 0.023526959, u'pick', 0.020809073]

@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.8814171, u'book_jacket', 0.064521253, u'comic_book', 0.012684382, u'vestment', 0.0048245443, u'prayer_rug', 0.00426471]
+[u'chest', 0.38671345, u'desk', 0.14504008, u'chiffonier', 0.064292751, u'studio_couch', 0.042799253, u'file', 0.027509797]
+[u'jigsaw_puzzle', 0.6551863, u'altar', 0.029286446, u'Christmas_stocking', 0.021212198, u'prayer_rug', 0.017548215, u'tray', 0.017309697]

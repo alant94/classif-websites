@@ -1,0 +1,1 @@
+[u'web_site', 0.99607748, u'menu', 0.0023474977, u'envelope', 0.00044103042, u'analog_clock', 0.00016127108, u'screen', 8.1576589e-05]

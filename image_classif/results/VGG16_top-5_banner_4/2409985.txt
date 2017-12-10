@@ -1,0 +1,1 @@
+[u'stretcher', 0.36358184, u'plow', 0.27564207, u'lawn_mower', 0.13149801, u'harvester', 0.083542429, u'bow', 0.039806198]

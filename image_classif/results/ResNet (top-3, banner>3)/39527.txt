@@ -1,0 +1,3 @@
+[u'seashore', 0.26833308, u'promontory', 0.11232619, u'lakeside', 0.065349735]
+[u'sea_lion', 0.48838583, u'otter', 0.24984972, u'mink', 0.22992925]
+[u'yawl', 0.33904019, u'catamaran', 0.067039594, u'speedboat', 0.066527143]

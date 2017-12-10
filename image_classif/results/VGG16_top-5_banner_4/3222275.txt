@@ -1,0 +1,6 @@
+[u'library', 0.21128224, u'restaurant', 0.14497387, u'laptop', 0.1298669, u'desk', 0.067538232, u'notebook', 0.034101631]
+[u'book_jacket', 0.35232431, u'comic_book', 0.08144436, u'scoreboard', 0.065434426, u'oil_filter', 0.055944216, u'street_sign', 0.029200161]
+[u'lab_coat', 0.21776859, u'laptop', 0.14678858, u'notebook', 0.11433509, u'restaurant', 0.11297297, u'library', 0.065247796]
+[u'croquet_ball', 0.4554795, u'soccer_ball', 0.23607397, u'golf_ball', 0.041018456, u'rugby_ball', 0.030584928, u'baseball', 0.022217559]
+[u'toyshop', 0.13359208, u'shoe_shop', 0.085058659, u'stage', 0.078998968, u'monitor', 0.076172866, u'candle', 0.034109347]
+[u'pajama', 0.27735418, u'groom', 0.16909802, u'kimono', 0.15488417, u'lab_coat', 0.12689859, u'marimba', 0.12208514]

@@ -1,0 +1,1 @@
+[u'picket_fence', 0.36444378, u'book_jacket', 0.23520677, u'spatula', 0.055824857, u'cleaver', 0.04933678, u'street_sign', 0.034809891]

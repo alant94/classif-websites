@@ -1,0 +1,6 @@
+[u'scoreboard', 0.15996578, u'barbershop', 0.12751608, u'barrel', 0.097012267]
+[u'gazelle', 0.40708196, u'bighorn', 0.28465745, u'ram', 0.12105581]
+[u'prayer_rug', 0.61252111, u'doormat', 0.099845819, u'shower_curtain', 0.045921825]
+[u'gazelle', 0.65729558, u'hartebeest', 0.31139955, u'impala', 0.013217018]
+[u'Dutch_oven', 0.75261474, u'lumbermill', 0.045615252, u'boathouse', 0.040885542]
+[u'gazelle', 0.68517751, u'water_buffalo', 0.041635528, u'warthog', 0.041231383]

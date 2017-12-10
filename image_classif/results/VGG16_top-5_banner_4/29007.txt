@@ -1,0 +1,1 @@
+[u'mask', 0.25681478, u'ski_mask', 0.19007839, u'caldron', 0.15130471, u'gasmask', 0.028765799, u"jack-o'-lantern", 0.021976819]

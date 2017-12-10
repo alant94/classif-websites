@@ -1,0 +1,2 @@
+[u'shoji', 0.080709077, u'apron', 0.032848317, u'flute', 0.030914722]
+[u'panpipe', 0.7812345, u'envelope', 0.071229383, u'pencil_sharpener', 0.028184356]

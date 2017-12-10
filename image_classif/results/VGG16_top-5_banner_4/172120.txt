@@ -1,0 +1,2 @@
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'banjo', 0.73403716, u'flute', 0.075668134, u'oboe', 0.044086728, u'electric_guitar', 0.028655326, u'stage', 0.016675908]

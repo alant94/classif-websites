@@ -1,0 +1,8 @@
+[u'toaster', 0.29951954, u'pill_bottle', 0.14448693, u'lighter', 0.079372495, u'syringe', 0.039283656, u'rubber_eraser', 0.034424204]
+[u'pomegranate', 0.62327683, u'fig', 0.33670175, u'lemon', 0.015931861, u'Granny_Smith', 0.0128127, u'acorn', 0.0053426819]
+[u'microwave', 0.31560254, u'washer', 0.29713389, u'stove', 0.085145712, u'monitor', 0.049887735, u'Polaroid_camera', 0.046327278]
+[u'sax', 0.060238767, u'parachute', 0.030303027, u'electric_guitar', 0.025502406, u'hook', 0.025128216, u'bow', 0.021829233]
+[u'wine_bottle', 0.16164148, u'packet', 0.11118837, u'red_wine', 0.084274873, u'beer_bottle', 0.066948391, u'Crock_Pot', 0.045445021]
+[u'wine_bottle', 0.23746105, u'beer_bottle', 0.11714505, u'red_wine', 0.062780716, u'pop_bottle', 0.057831068, u'paintbrush', 0.054266207]
+[u'lighter', 0.35743752, u'binder', 0.24363756, u'book_jacket', 0.069035314, u'iPod', 0.047608409, u'tray', 0.024988882]
+[u'cash_machine', 0.19045873, u'switch', 0.1200801, u'wall_clock', 0.038106676, u'medicine_chest', 0.034263905, u'analog_clock', 0.023508053]

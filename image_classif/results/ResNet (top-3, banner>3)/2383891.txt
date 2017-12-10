@@ -1,0 +1,8 @@
+[u'church', 0.43028238, u'bell_cote', 0.27863771, u'monastery', 0.18213482]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606]
+[u'wine_bottle', 0.65051526, u'red_wine', 0.34818709, u'beer_bottle', 0.00092448964]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606]
+[u'black_stork', 0.46432948, u'stole', 0.038345981, u'abaya', 0.038205355]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606]

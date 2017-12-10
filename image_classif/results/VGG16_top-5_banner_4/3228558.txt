@@ -1,0 +1,1 @@
+[u'web_site', 0.037597734, u'sweatshirt', 0.032856986, u'academic_gown', 0.032439504, u'jersey', 0.030205011, u'projectile', 0.023705596]

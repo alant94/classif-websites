@@ -1,0 +1,2 @@
+[u'limpkin', 0.33574218, u'kite', 0.12800168, u'impala', 0.058537472]
+[u'cougar', 0.34809947, u'wallaby', 0.13756806, u'American_Staffordshire_terrier', 0.072090983]

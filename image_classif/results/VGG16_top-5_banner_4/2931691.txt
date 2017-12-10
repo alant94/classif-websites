@@ -1,0 +1,2 @@
+[u'book_jacket', 0.13345928, u'bathing_cap', 0.098793082, u'schipperke', 0.055910207, u'triceratops', 0.048727259, u'Boston_bull', 0.03917715]
+[u'nipple', 0.19811277, u'joystick', 0.11215971, u'can_opener', 0.10560936, u'hook', 0.040311359, u'turnstile', 0.026690328]

@@ -1,0 +1,2 @@
+[u'dumbbell', 0.58037311, u'barbell', 0.1279217, u'binoculars', 0.032149471, u'sewing_machine', 0.023507096, u'screw', 0.01931967]
+[u'lumbermill', 0.056535196, u'power_drill', 0.045023501, u'turnstile', 0.032107264, u'cleaver', 0.027450871, u'hammer', 0.023904128]

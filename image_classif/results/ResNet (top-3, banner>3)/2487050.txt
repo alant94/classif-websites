@@ -1,0 +1,4 @@
+[u'hartebeest', 0.4319559, u'gazelle', 0.30114976, u'impala', 0.087507784]
+[u'drilling_platform', 0.20370419, u'boathouse', 0.09297888, u'mobile_home', 0.081116453]
+[u'swing', 0.37371603, u'hartebeest', 0.23374666, u'gazelle', 0.11570957]
+[u'hornbill', 0.21574803, u'quail', 0.12592059, u'prairie_chicken', 0.1165535]

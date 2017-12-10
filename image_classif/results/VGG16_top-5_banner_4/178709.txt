@@ -1,0 +1,1 @@
+[u'crib', 0.79306012, u'cradle', 0.039203163, u'envelope', 0.031373568, u'bannister', 0.0088120429, u'book_jacket', 0.0074064648]

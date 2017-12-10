@@ -1,0 +1,7 @@
+[u'poncho', 0.25402233, u'stole', 0.11400653, u'wardrobe', 0.1063056, u'chime', 0.08499445, u'stupa', 0.057185911]
+[u'toyshop', 0.72917199, u'comic_book', 0.12741038, u'altar', 0.045807414, u'jigsaw_puzzle', 0.030830229, u'web_site', 0.015404717]
+[u'barbershop', 0.10462491, u'wine_bottle', 0.087231338, u'brass', 0.059559327, u'prison', 0.045005396, u'turnstile', 0.044414937]
+[u'butcher_shop', 0.45599946, u'cleaver', 0.14113478, u'candle', 0.06176186, u'wardrobe', 0.0568395, u'lab_coat', 0.04333616]
+[u'bulletproof_vest', 0.11819482, u'sweatshirt', 0.060595464, u'parachute', 0.028541075, u'mortarboard', 0.026334414, u'flagpole', 0.025276612]
+[u'bottlecap', 0.089346923, u'ping-pong_ball', 0.069707721, u'soccer_ball', 0.058654655, u'piggy_bank', 0.050728492, u'golf_ball', 0.041457817]
+[u'jackfruit', 0.058557473, u"potter's_wheel", 0.043805897, u'jigsaw_puzzle', 0.040493786, u'candle', 0.038696118, u'laptop', 0.026975268]

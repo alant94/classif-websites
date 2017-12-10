@@ -1,0 +1,8 @@
+[u'hook', 0.11363915, u'digital_clock', 0.085633926, u'analog_clock', 0.080477163]
+[u'digital_clock', 0.98695171, u'digital_watch', 0.01054454, u'wall_clock', 0.00030535157]
+[u'theater_curtain', 0.43581015, u'stage', 0.27583835, u'throne', 0.074379995]
+[u'digital_clock', 0.43147162, u'traffic_light', 0.32476449, u'digital_watch', 0.23736225]
+[u'analog_clock', 0.28257924, u'digital_clock', 0.16327846, u'traffic_light', 0.12921354]
+[u'bagel', 0.59385431, u'teddy', 0.065311171, u'wool', 0.030120799]
+[u'cinema', 0.13579367, u'cab', 0.10054363, u'fire_engine', 0.05377404]
+[u'digital_clock', 0.65381181, u'traffic_light', 0.13671157, u'screen', 0.040499326]

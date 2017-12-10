@@ -1,0 +1,6 @@
+[u'bikini', 0.26276699, u'maillot', 0.17671466, u'swimming_trunks', 0.10810594, u'sarong', 0.097337626, u'gown', 0.077369481]
+[u'diaper', 0.605645, u'piggy_bank', 0.087596603, u'bonnet', 0.068932891, u'conch', 0.012683965, u'handkerchief', 0.012602391]
+[u'flute', 0.15617244, u'hammer', 0.13734658, u'hourglass', 0.10281507, u'oboe', 0.059452329, u'bassoon', 0.044766329]
+[u'armadillo', 0.34358048, u'triceratops', 0.15439771, u'Mexican_hairless', 0.14118518, u'spindle', 0.043427691, u'Indian_cobra', 0.037428692]
+[u'Weimaraner', 0.17542022, u'Italian_greyhound', 0.14395174, u'swimming_trunks', 0.067036092, u'whippet', 0.066722453, u'wallaby', 0.051851626]
+[u'dumbbell', 0.6758067, u'swimming_trunks', 0.049592417, u'punching_bag', 0.041292623, u'plunger', 0.037835982, u'barbell', 0.034201983]

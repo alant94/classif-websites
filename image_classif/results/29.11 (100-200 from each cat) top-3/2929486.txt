@@ -1,0 +1,8 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'gong', 0.26239026, u'web_site', 0.080617465, u'toilet_seat', 0.064227954]
+[u'oscilloscope', 0.51115531, u'street_sign', 0.2145007, u'book_jacket', 0.048099168]
+[u'dishwasher', 0.19077255, u'envelope', 0.08077652, u'cleaver', 0.040217299]
+[u'web_site', 0.11292893, u'street_sign', 0.090121292, u'coffee_mug', 0.086178981]
+[u'web_site', 0.16383432, u'stopwatch', 0.1624466, u'whistle', 0.044881035]
+[u'digital_clock', 0.33247927, u'oscilloscope', 0.26413709, u'analog_clock', 0.066609211]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

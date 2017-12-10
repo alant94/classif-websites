@@ -1,0 +1,2 @@
+[u'screwdriver', 0.22671668, u"carpenter's_kit", 0.16173209, u'candle', 0.087133914, u'safety_pin', 0.065477356, u'nail', 0.060593627]
+[u'vizsla', 0.056759074, u'sunscreen', 0.046874404, u'croquet_ball', 0.038123924, u'Sussex_spaniel', 0.028409597, u'carton', 0.02187602]

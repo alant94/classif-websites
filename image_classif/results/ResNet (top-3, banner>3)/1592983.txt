@@ -1,0 +1,2 @@
+[u'lumbermill', 0.43407699, u'knee_pad', 0.061486881, u'cliff_dwelling', 0.035892952]
+[u'lumbermill', 0.97590691, u'harvester', 0.0035538557, u'thresher', 0.0019831997]

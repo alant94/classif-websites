@@ -1,0 +1,2 @@
+[u'screw', 0.42986828, u'digital_clock', 0.29891562, u'oscilloscope', 0.064378701]
+[u'cash_machine', 0.23089118, u'ashcan', 0.17389515, u'safe', 0.089095972]

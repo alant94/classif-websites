@@ -1,0 +1,3 @@
+[u'miniskirt', 0.7525596, u'cowboy_boot', 0.071820319, u'cowboy_hat', 0.045171838]
+[u'plate', 0.050104417, u'cleaver', 0.034715716, u'zebra', 0.034316223]
+[u'wig', 0.17282526, u'mortarboard', 0.11187874, u'trench_coat', 0.087728538]

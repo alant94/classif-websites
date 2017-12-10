@@ -1,0 +1,4 @@
+[u'book_jacket', 0.24726303, u'jersey', 0.064410701, u'packet', 0.056251209, u'pick', 0.033104271, u'web_site', 0.033015534]
+[u'envelope', 0.077189118, u'web_site', 0.034947243, u'wall_clock', 0.030914582, u'book_jacket', 0.026364861, u'prayer_rug', 0.021730661]
+[u'envelope', 0.23429009, u'web_site', 0.035081014, u'book_jacket', 0.03250834, u'digital_clock', 0.028313247, u'wall_clock', 0.025511442]
+[u'medicine_chest', 0.67951167, u'syringe', 0.1004721, u'screwdriver', 0.030096708, u'vending_machine', 0.021137182, u'bookcase', 0.014327444]

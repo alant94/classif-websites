@@ -1,0 +1,2 @@
+[u'picket_fence', 0.44914541, u'poncho', 0.1294968, u'thatch', 0.08503183, u'alp', 0.056370035, u'academic_gown', 0.046030883]
+[u'safety_pin', 0.18837669, u'matchstick', 0.16570826, u'candle', 0.14514565, u'hook', 0.077068999, u'spatula', 0.040861771]

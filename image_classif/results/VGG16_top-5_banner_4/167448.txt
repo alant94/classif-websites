@@ -1,0 +1,5 @@
+[u'web_site', 0.049237926, u'street_sign', 0.024383573, u'hair_spray', 0.022227548, u'book_jacket', 0.021835079, u'comic_book', 0.015356005]
+[u'school_bus', 0.16231655, u'web_site', 0.117411, u'croquet_ball', 0.025650106, u'bathing_cap', 0.022633754, u'tennis_ball', 0.021248387]
+[u'screen', 0.2872915, u'television', 0.25428307, u'monitor', 0.18846014, u'web_site', 0.09872783, u'hand-held_computer', 0.055835832]
+[u'buckle', 0.049709205, u'book_jacket', 0.047892831, u'web_site', 0.046128921, u'tobacco_shop', 0.038900517, u'ski', 0.033412732]
+[u'wallet', 0.14076729, u'pencil_box', 0.11515846, u'cellular_telephone', 0.089615479, u'pencil_sharpener', 0.076426193, u'iPod', 0.054907206]

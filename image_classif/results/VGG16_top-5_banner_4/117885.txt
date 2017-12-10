@@ -1,0 +1,1 @@
+[u'bolo_tie', 0.35485291, u'shield', 0.15662019, u'car_wheel', 0.13759345, u'buckle', 0.10368551, u'spotlight', 0.036364652]

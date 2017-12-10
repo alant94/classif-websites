@@ -1,0 +1,6 @@
+[u'shoe_shop', 0.18944658, u'turnstile', 0.13964187, u'medicine_chest', 0.125331, u'bookshop', 0.094598934, u'sliding_door', 0.060426131]
+[u'albatross', 0.34047848, u'flagpole', 0.13730584, u'white_stork', 0.042300433, u'beacon', 0.040940497, u'pole', 0.028033329]
+[u'hook', 0.74551415, u'safety_pin', 0.034597706, u'buckle', 0.024317514, u'paper_towel', 0.023310596, u'sewing_machine', 0.014897909]
+[u'nipple', 0.50665075, u'oxygen_mask', 0.22511582, u'bubble', 0.08023423, u'water_bottle', 0.04051055, u'iPod', 0.029634224]
+[u'garbage_truck', 0.71656048, u'fire_engine', 0.08417286, u'moving_van', 0.049376093, u'jeep', 0.033036489, u'trailer_truck', 0.017576966]
+[u'digital_clock', 0.12948737, u'baseball', 0.082645789, u'scoreboard', 0.07969223, u'monitor', 0.045394167, u'modem', 0.036324095]

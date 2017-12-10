@@ -1,0 +1,6 @@
+[u'shield', 0.25772014, u'lampshade', 0.18634863, u'balloon', 0.044848796, u'necklace', 0.035664197, u'jersey', 0.035444207]
+[u'CD_player', 0.21204983, u'switch', 0.11473559, u'desktop_computer', 0.096662119, u'cash_machine', 0.052566711, u'tape_player', 0.047849301]
+[u'monitor', 0.093935542, u'wall_clock', 0.090332188, u'television', 0.061335474, u'screen', 0.059123557, u'analog_clock', 0.052913073]
+[u'safety_pin', 0.53822941, u'hook', 0.14242183, u'can_opener', 0.054339495, u'modem', 0.0170791, u'switch', 0.01589698]
+[u'can_opener', 0.21427412, u'safety_pin', 0.18532777, u'hook', 0.11369166, u'spatula', 0.033060182, u'corkscrew', 0.0317236]
+[u'electric_fan', 0.11930854, u'spotlight', 0.083889894, u'balloon', 0.053519785, u'microphone', 0.044201791, u'toilet_seat', 0.038462631]

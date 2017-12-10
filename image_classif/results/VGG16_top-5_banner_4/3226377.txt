@@ -1,0 +1,1 @@
+[u'turnstile', 0.52394885, u'suit', 0.12139745, u'limousine', 0.070956387, u'bullet_train', 0.044243969, u'groom', 0.026205737]

@@ -1,0 +1,3 @@
+[u'web_site', 0.85757232, u'comic_book', 0.044015214, u'envelope', 0.036124978, u'menu', 0.032508157, u'book_jacket', 0.0061670556]
+[u'digital_clock', 0.078049451, u'face_powder', 0.048395846, u'switch', 0.046925228, u'rubber_eraser', 0.045138031, u'lighter', 0.041123111]
+[u'cinema', 0.051499628, u'pill_bottle', 0.039611202, u'parachute', 0.039488148, u'airship', 0.038529322, u'Band_Aid', 0.025454128]

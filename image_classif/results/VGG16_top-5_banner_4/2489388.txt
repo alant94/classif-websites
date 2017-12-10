@@ -1,0 +1,3 @@
+[u'book_jacket', 0.25876176, u'pick', 0.081527047, u'sombrero', 0.053720657, u'balloon', 0.045357551, u'loupe', 0.04080775]
+[u'lakeside', 0.12510601, u'park_bench', 0.12425774, u'fountain', 0.10056438, u'dogsled', 0.042544052, u'geyser', 0.025145149]
+[u'book_jacket', 0.09430059, u'digital_clock', 0.081573628, u'picket_fence', 0.074898951, u'digital_watch', 0.062008936, u'matchstick', 0.035836853]

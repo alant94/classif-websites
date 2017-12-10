@@ -1,0 +1,3 @@
+[u'Egyptian_cat', 0.20168154, u'shower_cap', 0.048680123, u'wool', 0.041900642]
+[u'swimming_trunks', 0.53799701, u'cougar', 0.064772621, u'tub', 0.048648611]
+[u'stretcher', 0.11968003, u'sleeping_bag', 0.055719238, u'oxygen_mask', 0.05369962]

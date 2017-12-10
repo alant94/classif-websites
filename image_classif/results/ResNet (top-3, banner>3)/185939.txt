@@ -1,0 +1,6 @@
+[u'panpipe', 0.38386032, u'traffic_light', 0.24139035, u'digital_clock', 0.1554143]
+[u'dishwasher', 0.18236817, u'web_site', 0.11682097, u'envelope', 0.060812671]
+[u'dishwasher', 0.36720777, u'nematode', 0.034959953, u'envelope', 0.019311359]
+[u'dishwasher', 0.17810377, u'envelope', 0.045820992, u'cleaver', 0.024943667]
+[u'book_jacket', 0.16282015, u'traffic_light', 0.09832561, u'crossword_puzzle', 0.061499767]
+[u'web_site', 0.25007567, u'dishwasher', 0.13834606, u'envelope', 0.036658168]

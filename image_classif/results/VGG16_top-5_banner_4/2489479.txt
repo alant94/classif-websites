@@ -1,0 +1,5 @@
+[u'Irish_wolfhound', 0.35193211, u'Weimaraner', 0.14523058, u'English_foxhound', 0.12998894, u'Great_Dane', 0.10013817, u'Bedlington_terrier', 0.047606308]
+[u'prayer_rug', 0.24623555, u'wardrobe', 0.18057464, u'palace', 0.076894403, u'altar', 0.073758945, u'throne', 0.071265668]
+[u'altar', 0.21830489, u'palace', 0.14394176, u'book_jacket', 0.059123456, u'theater_curtain', 0.056690734, u'triumphal_arch', 0.045287021]
+[u'vestment', 0.35124823, u'prayer_rug', 0.04922694, u'altar', 0.038819041, u'cloak', 0.03274123, u'palace', 0.032206893]
+[u'German_shepherd', 0.14180438, u'dingo', 0.090144776, u'timber_wolf', 0.086778738, u'Eskimo_dog', 0.085142531, u'muzzle', 0.064950243]

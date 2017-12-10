@@ -1,0 +1,4 @@
+[u'barbershop', 0.30571654, u'barber_chair', 0.038000658, u'Band_Aid', 0.037266191, u'bow_tie', 0.031154623, u'diaper', 0.022927755]
+[u'park_bench', 0.51625049, u'swing', 0.40954652, u'bikini', 0.014476724, u'maillot', 0.0116203, u'tricycle', 0.0054212133]
+[u'sandal', 0.30404559, u'microphone', 0.11462917, u'hand_blower', 0.069204152, u'oxygen_mask', 0.053150352, u'chainlink_fence', 0.046574727]
+[u'dishwasher', 0.41513562, u'washer', 0.23531383, u'refrigerator', 0.046217371, u'bath_towel', 0.041688859, u'microwave', 0.031285215]

@@ -1,0 +1,1 @@
+[u'web_site', 0.81744957, u'envelope', 0.040858097, u'jigsaw_puzzle', 0.017282547, u'shower_cap', 0.015307955, u'packet', 0.014192449]

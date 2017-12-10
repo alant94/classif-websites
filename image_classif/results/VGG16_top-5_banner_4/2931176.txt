@@ -1,0 +1,3 @@
+[u'horizontal_bar', 0.2353299, u'parallel_bars', 0.18509714, u'basketball', 0.04164521, u'ping-pong_ball', 0.038462557, u'maze', 0.035671689]
+[u'lumbermill', 0.25605559, u'forklift', 0.13306712, u'turnstile', 0.068534389, u'moving_van', 0.060327549, u'bakery', 0.028454678]
+[u'stage', 0.59650868, u'spotlight', 0.053786252, u'home_theater', 0.025507627, u'cinema', 0.019327462, u'monitor', 0.01787914]

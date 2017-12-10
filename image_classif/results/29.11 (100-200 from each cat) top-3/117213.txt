@@ -1,0 +1,8 @@
+[u'binder', 0.25348014, u'solar_dish', 0.22502008, u'screen', 0.14614937]
+[u'church', 0.32142472, u'barn', 0.20248489, u'stage', 0.16021632]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'chambered_nautilus', 0.30225527, u'bathing_cap', 0.088389739, u'planetarium', 0.070814602]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'menu', 0.93732303, u'brass', 0.05472216, u'quill', 0.002658064]
+[u'folding_chair', 0.15805893, u'ballpoint', 0.090473548, u'web_site', 0.0726723]
+[u'airliner', 0.11786716, u'binder', 0.09616974, u'screen', 0.08470317]

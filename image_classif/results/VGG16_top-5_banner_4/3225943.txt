@@ -1,0 +1,7 @@
+[u'worm_fence', 0.080160968, u'oxcart', 0.053676751, u'llama', 0.04982603, u'rifle', 0.037145231, u'sunscreen', 0.027832119]
+[u'web_site', 0.399041, u'envelope', 0.35217863, u'Band_Aid', 0.022520116, u'brassiere', 0.0071283635, u'wardrobe', 0.0070263599]
+[u'church', 0.90826851, u'beacon', 0.029678453, u'mosque', 0.016399615, u'obelisk', 0.013858424, u'bell_cote', 0.007763085]
+[u'nail', 0.17506891, u'book_jacket', 0.061170645, u'matchstick', 0.050029241, u'mousetrap', 0.039179146, u'screw', 0.038362976]
+[u'maypole', 0.1358677, u'horizontal_bar', 0.13024393, u'volleyball', 0.096194424, u'pole', 0.091209956, u'totem_pole', 0.078767493]
+[u'switch', 0.16149549, u'iPod', 0.12412462, u'lighter', 0.064970776, u'digital_clock', 0.064528406, u'rubber_eraser', 0.047840703]
+[u'menu', 0.30625698, u'brass', 0.16893724, u'crossword_puzzle', 0.036350552, u'book_jacket', 0.034097109, u'cash_machine', 0.03042209]

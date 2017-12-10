@@ -1,0 +1,3 @@
+[u'Scottish_deerhound', 0.12721184, u'black_stork', 0.056965105, u'cricket', 0.054903653, u'hummingbird', 0.054411586, u'llama', 0.033285111]
+[u'wine_bottle', 0.55378509, u'red_wine', 0.36468083, u'hair_spray', 0.02445671, u'lotion', 0.017578, u'beer_bottle', 0.011227068]
+[u'barrel', 0.73784924, u'vault', 0.045361236, u'theater_curtain', 0.025939615, u'bakery', 0.021854099, u'viaduct', 0.015092904]

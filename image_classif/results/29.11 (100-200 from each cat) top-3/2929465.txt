@@ -1,0 +1,2 @@
+[u'envelope', 0.13710329, u'tennis_ball', 0.074164212, u'television', 0.07210993]
+[u'chain_saw', 0.15527584, u'comic_book', 0.10559819, u'book_jacket', 0.08615385]

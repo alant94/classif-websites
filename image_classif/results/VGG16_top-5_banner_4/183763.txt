@@ -1,0 +1,4 @@
+[u'carton', 0.11447693, u'photocopier', 0.1108881, u'container_ship', 0.067948997, u'forklift', 0.064660408, u'rubber_eraser', 0.062811337]
+[u'television', 0.07861007, u'traffic_light', 0.06575036, u'web_site', 0.056991585, u'monitor', 0.055114821, u'tray', 0.046020832]
+[u'park_bench', 0.19898671, u'sundial', 0.16033235, u'fountain', 0.14151548, u'umbrella', 0.051450923, u'accordion', 0.050979935]
+[u'crate', 0.35308045, u'book_jacket', 0.21435559, u'rule', 0.077661775, u'envelope', 0.074095421, u'packet', 0.059979815]

@@ -1,0 +1,2 @@
+[u'envelope', 0.2204814, u'web_site', 0.20182636, u'hook', 0.034880962, u'analog_clock', 0.019355983, u'matchstick', 0.015695095]
+[u'wall_clock', 0.083993956, u'jigsaw_puzzle', 0.070847973, u'mask', 0.046480723, u'chime', 0.032969825, u'sunglass', 0.031232357]

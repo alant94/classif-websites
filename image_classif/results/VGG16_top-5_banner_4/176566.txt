@@ -1,0 +1,5 @@
+[u'web_site', 0.5563333, u'Band_Aid', 0.022207115, u'cash_machine', 0.014301384, u'bathing_cap', 0.013597527, u'analog_clock', 0.012794341]
+[u'menu', 0.81871599, u'packet', 0.059077043, u'plate', 0.032267522, u'meat_loaf', 0.017684871, u'web_site', 0.0089731952]
+[u'web_site', 0.37930948, u'sunscreen', 0.09869466, u'menu', 0.031143237, u'hand_blower', 0.030374723, u'pill_bottle', 0.021762963]
+[u'web_site', 0.099032417, u'hand_blower', 0.043864977, u'oil_filter', 0.038683895, u'chain_saw', 0.036696635, u'nail', 0.023510544]
+[u'safety_pin', 0.45140976, u'book_jacket', 0.07409995, u'comic_book', 0.066424288, u"carpenter's_kit", 0.058921129, u'hook', 0.024040496]

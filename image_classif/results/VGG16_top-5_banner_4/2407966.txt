@@ -1,0 +1,8 @@
+[u'vacuum', 0.36257514, u'water_bottle', 0.30922562, u'pop_bottle', 0.059104152, u'wine_bottle', 0.031147217, u'beer_bottle', 0.02907615]
+[u'sunscreen', 0.45653978, u'face_powder', 0.19538732, u'pill_bottle', 0.17766431, u'lotion', 0.080951862, u'perfume', 0.019517437]
+[u'bottlecap', 0.76295, u'face_powder', 0.15353927, u'loupe', 0.015512846, u'buckle', 0.0092118457, u'puck', 0.0045819515]
+[u'water_bottle', 0.3693279, u'sunscreen', 0.094210282, u'lotion', 0.065610029, u'pill_bottle', 0.049593795, u'backpack', 0.030518031]
+[u'lotion', 0.43088597, u'sunscreen', 0.27667478, u'face_powder', 0.12708536, u'perfume', 0.04539673, u'pill_bottle', 0.037325457]
+[u'bottlecap', 0.50765449, u'face_powder', 0.24320158, u'barrel', 0.021457726, u'loupe', 0.020091664, u'tennis_ball', 0.019521538]
+[u'lotion', 0.43455607, u'sunscreen', 0.23677313, u'hair_spray', 0.14613235, u'perfume', 0.047089554, u'wine_bottle', 0.024168437]
+[u'face_powder', 0.95094043, u'puck', 0.0093012629, u'buckle', 0.0082978737, u'loupe', 0.0066398308, u'bib', 0.0025827764]

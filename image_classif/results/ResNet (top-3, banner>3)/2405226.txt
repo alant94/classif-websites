@@ -1,0 +1,5 @@
+[u'laptop', 0.24081601, u'cash_machine', 0.11301144, u'desktop_computer', 0.084889993]
+[u'modem', 0.75113237, u'oscilloscope', 0.12050907, u'switch', 0.056842431]
+[u'desk', 0.4142763, u'bookcase', 0.10579092, u'library', 0.082980514]
+[u'hourglass', 1.0, u'eggnog', 8.3525382e-09, u'beaker', 6.6545263e-09]
+[u'lighter', 0.66550022, u'loupe', 0.11360496, u'cellular_telephone', 0.030732296]

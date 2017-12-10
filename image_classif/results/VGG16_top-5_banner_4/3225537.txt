@@ -1,0 +1,2 @@
+[u'bakery', 0.25549057, u'barbershop', 0.20905618, u'restaurant', 0.11038119, u'tobacco_shop', 0.088858619, u'crate', 0.033322904]
+[u'container_ship', 0.72263712, u'library', 0.035415094, u'maze', 0.022843275, u'digital_clock', 0.022747992, u'carton', 0.013101706]

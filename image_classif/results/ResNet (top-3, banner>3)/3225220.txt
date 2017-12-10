@@ -1,0 +1,6 @@
+[u'jersey', 0.11744348, u'book_jacket', 0.073986381, u'binder', 0.053623214]
+[u'envelope', 0.52010411, u'web_site', 0.23012994, u'book_jacket', 0.083812878]
+[u'envelope', 0.41148108, u'web_site', 0.39686415, u'book_jacket', 0.019315751]
+[u'book_jacket', 0.46398431, u'scoreboard', 0.043320123, u'hair_spray', 0.020278113]
+[u'book_jacket', 0.12934624, u'jersey', 0.066152081, u'binder', 0.049717955]
+[u'hook', 0.12491322, u'screw', 0.10159199, u'cleaver', 0.052298564]

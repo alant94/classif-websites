@@ -1,0 +1,4 @@
+[u'bow_tie', 0.70648515, u'barbershop', 0.13724133, u'Windsor_tie', 0.019080747]
+[u'nipple', 0.14806616, u'chambered_nautilus', 0.092688598, u'nematode', 0.082131438]
+[u'pick', 0.24711752, u'hatchet', 0.23253119, u'shovel', 0.19837958]
+[u'wardrobe', 0.22098136, u'jean', 0.17962745, u'book_jacket', 0.12983751]

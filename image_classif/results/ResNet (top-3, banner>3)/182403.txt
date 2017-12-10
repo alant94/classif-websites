@@ -1,0 +1,4 @@
+[u'web_site', 0.21378426, u'comic_book', 0.087961838, u'television', 0.055062406]
+[u'pick', 0.12285071, u'web_site', 0.066699103, u'sunscreen', 0.049881652]
+[u'comic_book', 0.10136823, u'web_site', 0.093104236, u'bow', 0.041663118]
+[u'comic_book', 0.17702867, u'web_site', 0.13070802, u'slot', 0.027432665]

@@ -1,0 +1,1 @@
+[u'water_bottle', 0.1380198, u'water_jug', 0.11326617, u'sunscreen', 0.10967522]

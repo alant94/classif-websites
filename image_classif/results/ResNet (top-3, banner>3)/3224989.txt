@@ -1,0 +1,8 @@
+[u'restaurant', 0.39535564, u'grocery_store', 0.11730976, u'library', 0.069714502]
+[u'church', 0.53485751, u'lampshade', 0.072741136, u'comic_book', 0.063522838]
+[u'chainlink_fence', 0.6297192, u'lampshade', 0.18470873, u'spotlight', 0.03609759]
+[u'lampshade', 0.54118133, u'dome', 0.43066531, u'church', 0.0069608372]
+[u'altar', 0.27760568, u'beer_bottle', 0.16270147, u'church', 0.13457371]
+[u'restaurant', 0.13433588, u'marimba', 0.091064878, u'wok', 0.04756023]
+[u'lampshade', 0.29809609, u'church', 0.17897035, u'table_lamp', 0.12590732]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]

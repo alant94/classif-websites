@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.073995493, u'lampshade', 0.073034793, u'wall_clock', 0.051932607]

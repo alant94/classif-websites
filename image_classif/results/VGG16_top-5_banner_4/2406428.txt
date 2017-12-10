@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.11589504, u'cliff', 0.10808387, u'swab', 0.061314963, u'broom', 0.019079756, u'cliff_dwelling', 0.017623581]

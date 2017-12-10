@@ -1,0 +1,1 @@
+[u'envelope', 0.14358228, u'digital_clock', 0.14136089, u'tray', 0.055186544, u'wall_clock', 0.034318168, u'cash_machine', 0.026326645]

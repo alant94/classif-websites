@@ -1,0 +1,3 @@
+[u'brassiere', 0.27339512, u'diaper', 0.13918757, u'bikini', 0.11749363, u'tub', 0.087933816, u'bathtub', 0.083394639]
+[u'bathtub', 0.46094728, u'tub', 0.23068132, u'bath_towel', 0.069880866, u'swimming_trunks', 0.030413484, u'brassiere', 0.017530283]
+[u'syringe', 0.15190347, u'diaper', 0.083223291, u'hog', 0.061136406, u'Band_Aid', 0.046494491, u'crutch', 0.036448572]

@@ -1,0 +1,1 @@
+[u'pick', 0.17419434, u'lens_cap', 0.11207649, u'traffic_light', 0.051481094, u'digital_clock', 0.0497692, u'puck', 0.039074708]

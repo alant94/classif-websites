@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.40096426, u'ice_lolly', 0.066562518, u'sunscreen', 0.060703509]
+[u'Yorkshire_terrier', 0.1747117, u'fire_screen', 0.10947881, u'briard', 0.070539504]
+[u'brassiere', 0.36254853, u'bikini', 0.2612744, u'lipstick', 0.086765543]
+[u'medicine_chest', 0.44258526, u'screen', 0.11493497, u'envelope', 0.058891386]

@@ -1,0 +1,3 @@
+[u'sock', 0.57725888, u'mortar', 0.078520939, u'shoe_shop', 0.055162884]
+[u'grille', 0.43204647, u'convertible', 0.25420898, u'minivan', 0.062913157]
+[u'web_site', 0.31261784, u'Band_Aid', 0.049442645, u'abaya', 0.046601139]

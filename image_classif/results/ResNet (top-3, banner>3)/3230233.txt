@@ -1,0 +1,6 @@
+[u'lighter', 0.21752694, u'perfume', 0.15923826, u'shield', 0.061689761]
+[u'slot', 0.73318553, u'shield', 0.069619916, u'bow', 0.031565644]
+[u'web_site', 0.63383782, u'nematode', 0.014650877, u'dishwasher', 0.012144886]
+[u'harp', 0.20924954, u'loupe', 0.16413538, u'chime', 0.083611622]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'web_site', 0.40915528, u'comic_book', 0.10561968, u'shower_curtain', 0.053222463]

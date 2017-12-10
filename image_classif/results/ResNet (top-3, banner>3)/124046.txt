@@ -1,0 +1,5 @@
+[u'park_bench', 0.33837083, u'envelope', 0.15255655, u'web_site', 0.15068047]
+[u'tray', 0.063000217, u'wall_clock', 0.05710227, u'paintbrush', 0.050965395]
+[u'nipple', 0.15037791, u'lab_coat', 0.097251549, u'plunger', 0.067100242]
+[u'vending_machine', 0.28828871, u'screen', 0.079921238, u'monitor', 0.073573194]
+[u'whistle', 0.20046358, u'hair_spray', 0.10731839, u'fountain', 0.095576964]

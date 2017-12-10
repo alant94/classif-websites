@@ -1,0 +1,2 @@
+[u'beer_glass', 0.99188942, u'beer_bottle', 0.0074850749, u'perfume', 0.00019563289]
+[u'web_site', 0.41566992, u'pill_bottle', 0.15659887, u'oil_filter', 0.07941632]

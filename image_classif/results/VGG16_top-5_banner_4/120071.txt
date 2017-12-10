@@ -1,0 +1,4 @@
+[u'web_site', 0.38795, u'refrigerator', 0.29629165, u'vending_machine', 0.25601807, u'menu', 0.028785037, u'packet', 0.020111853]
+[u'picket_fence', 0.33532253, u'street_sign', 0.27791131, u'scoreboard', 0.13937591, u'digital_clock', 0.055948254, u'worm_fence', 0.025800053]
+[u'vending_machine', 0.54621649, u'cash_machine', 0.19596548, u'binder', 0.043108087, u'scoreboard', 0.023814179, u'pay-phone', 0.02236977]
+[u'cleaver', 0.37262714, u'lab_coat', 0.3496151, u'butcher_shop', 0.054556269, u'paintbrush', 0.031304374, u'spatula', 0.018436365]

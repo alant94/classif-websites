@@ -1,0 +1,3 @@
+[u'safety_pin', 0.078924641, u'jersey', 0.071003057, u'nail', 0.063842051, u'envelope', 0.038298544, u'screw', 0.026302155]
+[u'digital_clock', 0.10819034, u'switch', 0.079148419, u'screen', 0.056439701, u'analog_clock', 0.054237999, u'wall_clock', 0.032711897]
+[u'geyser', 0.33379751, u'alp', 0.21602619, u'mountain_bike', 0.058238029, u'valley', 0.038488489, u'barn', 0.031650878]

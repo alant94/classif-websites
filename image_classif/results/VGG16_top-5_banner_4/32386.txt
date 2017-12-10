@@ -1,0 +1,1 @@
+[u'envelope', 0.29038703, u'shower_curtain', 0.054737691, u'wall_clock', 0.044543698, u'toilet_seat', 0.021495651, u'tub', 0.020188829]

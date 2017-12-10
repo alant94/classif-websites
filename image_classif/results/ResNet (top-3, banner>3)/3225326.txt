@@ -1,0 +1,5 @@
+[u'pajama', 0.76010972, u'neck_brace', 0.043076474, u'jean', 0.025348302]
+[u'web_site', 0.58128399, u'comic_book', 0.057589993, u'oscilloscope', 0.01485041]
+[u'plastic_bag', 0.83538193, u'geyser', 0.064755522, u'packet', 0.023793174]
+[u'web_site', 0.13184257, u'crossword_puzzle', 0.11884143, u'digital_watch', 0.060593668]
+[u'web_site', 0.60231316, u'envelope', 0.062454645, u'jersey', 0.028185301]

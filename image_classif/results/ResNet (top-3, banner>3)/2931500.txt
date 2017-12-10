@@ -1,0 +1,6 @@
+[u'lab_coat', 0.1301271, u'wardrobe', 0.09734004, u'wig', 0.053377066]
+[u'church', 0.37918907, u'altar', 0.18719985, u'fountain', 0.046458129]
+[u'hand-held_computer', 0.044759862, u'ping-pong_ball', 0.041664515, u'reflex_camera', 0.040509306]
+[u'groom', 0.3043901, u'sarong', 0.053144649, u'jersey', 0.045203783]
+[u'wardrobe', 0.24152122, u'dining_table', 0.10699742, u'china_cabinet', 0.081660591]
+[u'web_site', 0.064061508, u'Band_Aid', 0.054370757, u'book_jacket', 0.02884184]

@@ -1,0 +1,5 @@
+[u'harp', 0.24767505, u'picket_fence', 0.11259191, u'panpipe', 0.047570184, u'flute', 0.034248669, u'totem_pole', 0.017059632]
+[u'shield', 0.2485655, u'shower_cap', 0.14454545, u'gong', 0.12803039, u'sleeping_bag', 0.10391221, u'bulletproof_vest', 0.048209831]
+[u'violin', 0.27266884, u'oboe', 0.2216114, u'banjo', 0.15574045, u'bassoon', 0.12758628, u'accordion', 0.02588409]
+[u'restaurant', 0.18649879, u'barbershop', 0.053946279, u'toyshop', 0.036848858, u'grocery_store', 0.036417574, u'cinema', 0.036391795]
+[u'acoustic_guitar', 0.79732543, u'electric_guitar', 0.16033597, u'banjo', 0.011284331, u'violin', 0.011119273, u'pick', 0.0099350326]

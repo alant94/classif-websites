@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.21626408, u'nipple', 0.096158534, u'whistle', 0.087099291, u'web_site', 0.059127428, u'rubber_eraser', 0.037716907]
+[u'fire_engine', 0.19479847, u'china_cabinet', 0.10534327, u'toyshop', 0.09747576, u'sewing_machine', 0.054850772, u'altar', 0.042043295]
+[u'desk', 0.22741657, u'medicine_chest', 0.071822986, u'wardrobe', 0.053409729, u'envelope', 0.047034282, u'crib', 0.046667255]
+[u'vault', 0.10353315, u'mosque', 0.10317063, u'cinema', 0.094433926, u'fountain', 0.083609745, u'palace', 0.045021348]

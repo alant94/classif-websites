@@ -1,0 +1,6 @@
+[u'unicycle', 0.45096391, u'pedestal', 0.033023205, u'spotlight', 0.032594118, u'flagpole', 0.027283994, u'bannister', 0.026707161]
+[u'assault_rifle', 0.62513876, u'rifle', 0.092804871, u'warplane', 0.067140006, u'parachute', 0.046983339, u'aircraft_carrier', 0.024554895]
+[u'submarine', 0.48474151, u'barn', 0.051263522, u'dam', 0.038772199, u'planetarium', 0.027957279, u'space_shuttle', 0.021593967]
+[u'pole', 0.14973915, u'sunglasses', 0.048876461, u'sunglass', 0.040716596, u'web_site', 0.04067051, u'book_jacket', 0.039235096]
+[u'megalith', 0.70886034, u'fur_coat', 0.065522388, u'cliff', 0.047113378, u'suit', 0.023831822, u'trench_coat', 0.012770843]
+[u'bow_tie', 0.24694325, u'groom', 0.23922831, u'theater_curtain', 0.15890422, u'stage', 0.078896798, u'punching_bag', 0.061509322]

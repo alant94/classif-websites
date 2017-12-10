@@ -1,0 +1,4 @@
+[u'matchstick', 0.36551604, u'envelope', 0.20102587, u'panpipe', 0.095803022, u'broom', 0.094494283, u'rule', 0.078847513]
+[u'book_jacket', 0.12088192, u'rule', 0.085096806, u'envelope', 0.068660736, u'web_site', 0.063096561, u'rubber_eraser', 0.032310091]
+[u'web_site', 0.10157403, u'envelope', 0.036685005, u'lighter', 0.032765273, u'lipstick', 0.027805058, u'digital_clock', 0.023426011]
+[u'corkscrew', 0.10557949, u'envelope', 0.10312563, u'triceratops', 0.097175561, u'hair_slide', 0.056443766, u'hook', 0.050557468]

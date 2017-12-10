@@ -1,0 +1,6 @@
+[u'book_jacket', 0.88575768, u'comic_book', 0.026256612, u'web_site', 0.01246979]
+[u'screen', 0.33774796, u'monitor', 0.3265985, u'television', 0.054363716]
+[u'book_jacket', 0.28672045, u'gas_pump', 0.12650718, u'digital_watch', 0.039430417]
+[u'pedestal', 0.40224344, u'mortar', 0.18476227, u'vase', 0.11572508]
+[u'traffic_light', 0.36104453, u'street_sign', 0.10184739, u'screen', 0.062440541]
+[u'web_site', 0.056517221, u'envelope', 0.037062883, u'book_jacket', 0.035040673]

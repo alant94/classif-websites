@@ -1,0 +1,5 @@
+[u'pirate', 0.3590219, u'wreck', 0.12342085, u'maypole', 0.058601283, u'birdhouse', 0.049609631, u'carousel', 0.033855144]
+[u'wild_boar', 0.86478561, u'hog', 0.081485331, u'American_black_bear', 0.011670181, u'warthog', 0.009838352, u'brown_bear', 0.0095019601]
+[u'ram', 0.78214234, u'komondor', 0.16911982, u'llama', 0.015347171, u'bighorn', 0.010679286, u'white_wolf', 0.0060548941]
+[u'butcher_shop', 0.20270699, u'cleaver', 0.066587448, u'book_jacket', 0.046728481, u'picket_fence', 0.035004407, u'dalmatian', 0.026908699]
+[u'American_black_bear', 0.91195893, u'sloth_bear', 0.021149274, u'schipperke', 0.010529769, u'ox', 0.0087572681, u'groenendael', 0.0052921758]

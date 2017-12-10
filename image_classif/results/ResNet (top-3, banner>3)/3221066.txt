@@ -1,0 +1,3 @@
+[u'book_jacket', 0.38226521, u'street_sign', 0.061761998, u'traffic_light', 0.045755867]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]
+[u'envelope', 0.23761064, u'window_shade', 0.1808643, u'fountain', 0.054563761]

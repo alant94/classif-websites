@@ -1,0 +1,5 @@
+[u'plunger', 0.1604961, u'bubble', 0.090981491, u'book_jacket', 0.066715494]
+[u'bookshop', 0.7383393, u'library', 0.14199182, u'bookcase', 0.050873891]
+[u'trench_coat', 0.1627322, u'stage', 0.084169835, u'suit', 0.077313788]
+[u'hair_spray', 0.15932329, u'torch', 0.13420129, u'lab_coat', 0.13033621]
+[u'stage', 0.14902014, u'sax', 0.12921412, u'monitor', 0.06197973]

@@ -1,0 +1,4 @@
+[u'hartebeest', 0.99760121, u'sorrel', 0.0014950958, u'impala', 0.00039346542]
+[u'warthog', 0.39532316, u'Indian_elephant', 0.24909902, u'tusker', 0.11036522]
+[u'hartebeest', 0.78971457, u'warthog', 0.098214053, u'impala', 0.063563615]
+[u'planetarium', 0.69012684, u'solar_dish', 0.18382254, u'barn', 0.010891208]

@@ -1,0 +1,6 @@
+[u'red_wine', 0.17704, u'pill_bottle', 0.052489199, u'hourglass', 0.036710642]
+[u'candle', 0.39603066, u'theater_curtain', 0.097500026, u'book_jacket', 0.049828306]
+[u'perfume', 0.067333944, u'lampshade', 0.065800063, u'soap_dispenser', 0.064709358]
+[u'paper_towel', 0.1648127, u'gong', 0.11106253, u'loupe', 0.072327755]
+[u'ping-pong_ball', 0.17766789, u'face_powder', 0.13569342, u'pick', 0.11460406]
+[u'shield', 0.3315039, u'Windsor_tie', 0.11032707, u'envelope', 0.061672185]

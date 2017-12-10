@@ -1,0 +1,5 @@
+[u'wool', 0.081873447, u'swab', 0.078641586, u'tray', 0.059658427, u'switch', 0.048411798, u'hook', 0.043921627]
+[u'wig', 0.30851483, u'hair_spray', 0.23690075, u'perfume', 0.058023833, u'hand_blower', 0.023484206, u'brassiere', 0.023369314]
+[u'wig', 0.42716864, u'diaper', 0.082641348, u'pajama', 0.053697702, u'bath_towel', 0.045402963, u'gown', 0.028416093]
+[u'Band_Aid', 0.34475473, u'coffee_mug', 0.065214083, u'packet', 0.049450684, u'sunscreen', 0.027624678, u'moving_van', 0.025175186]
+[u'notebook', 0.042132456, u'dishwasher', 0.031055326, u'table_lamp', 0.025546877, u'modem', 0.023014545, u'envelope', 0.022514991]

@@ -1,0 +1,1 @@
+[u'ballpoint', 0.2700375, u'medicine_chest', 0.12781557, u'screwdriver', 0.12148049, u'rubber_eraser', 0.10771961, u'lighter', 0.064959981]

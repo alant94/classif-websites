@@ -1,0 +1,3 @@
+[u'web_site', 0.20285371, u'screw', 0.080094039, u'buckle', 0.069619432]
+[u'muzzle', 0.18523479, u'chain_saw', 0.098316066, u'prairie_chicken', 0.044450857]
+[u'crossword_puzzle', 0.69580948, u'digital_clock', 0.18727583, u'web_site', 0.027155252]

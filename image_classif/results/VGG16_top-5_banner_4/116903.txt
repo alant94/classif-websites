@@ -1,0 +1,1 @@
+[u'knot', 0.11465123, u'gong', 0.09416613, u'chainlink_fence', 0.089129202, u'hook', 0.075537145, u'electric_fan', 0.05286815]

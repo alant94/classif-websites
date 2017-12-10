@@ -1,0 +1,4 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hook', 0.063834198, u'vacuum', 0.054668695, u'iron', 0.043775659]
+[u'web_site', 0.19621915, u'Band_Aid', 0.13704647, u'street_sign', 0.042766031]
+[u'jersey', 0.057018034, u'oil_filter', 0.051243268, u'hard_disc', 0.050698139]

@@ -1,0 +1,8 @@
+[u'envelope', 0.18491806, u'web_site', 0.16114272, u'analog_clock', 0.064595699]
+[u'web_site', 0.75143313, u'hair_spray', 0.092020765, u'cardoon', 0.02463147]
+[u'coho', 0.058090858, u'vacuum', 0.04844505, u'web_site', 0.037114982]
+[u'cardoon', 0.19527277, u'hair_spray', 0.19062653, u'picket_fence', 0.12884888]
+[u'web_site', 0.92770118, u'thimble', 0.022119293, u'book_jacket', 0.021959197]
+[u'Boston_bull', 0.34779805, u'Border_collie', 0.28557947, u'collie', 0.16965558]
+[u'web_site', 0.16554743, u'television', 0.023683175, u'nail', 0.023638915]
+[u'coffee_mug', 0.77360362, u'cup', 0.038510241, u'coffeepot', 0.014119136]

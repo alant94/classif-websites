@@ -1,0 +1,3 @@
+[u'street_sign', 0.89359313, u'moving_van', 0.02246559, u'scoreboard', 0.0090430845, u'grocery_store', 0.007615963, u'garbage_truck', 0.0071627819]
+[u'drum', 0.10183202, u'banjo', 0.088572979, u'accordion', 0.057233825, u'trombone', 0.055538885, u'maraca', 0.037737314]
+[u'crossword_puzzle', 0.10640527, u'web_site', 0.075921342, u'oscilloscope', 0.048585389, u'binder', 0.04237812, u'slide_rule', 0.032661721]

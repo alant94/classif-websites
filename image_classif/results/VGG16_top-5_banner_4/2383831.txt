@@ -1,0 +1,2 @@
+[u'envelope', 0.3793, u'web_site', 0.20413752, u'oscilloscope', 0.09688624, u'switch', 0.060635932, u'menu', 0.02790495]
+[u'mushroom', 0.79006588, u'hen-of-the-woods', 0.072535001, u'bolete', 0.023862382, u'acorn', 0.016304996, u'earthstar', 0.013108507]

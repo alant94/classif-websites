@@ -1,0 +1,8 @@
+[u'cuirass', 0.098557122, u'barn_spider', 0.051183186, u'hamper', 0.050765574]
+[u'pillow', 0.54837108, u'quilt', 0.31182313, u'jigsaw_puzzle', 0.083119489]
+[u'quilt', 0.98676711, u'studio_couch', 0.011059036, u'container_ship', 0.00034901916]
+[u'hoopskirt', 0.69776338, u'cradle', 0.18528515, u'overskirt', 0.056983769]
+[u'quilt', 0.97810751, u'studio_couch', 0.018515641, u'four-poster', 0.0014175052]
+[u'bearskin', 0.39111295, u'bow', 0.080835469, u'knee_pad', 0.060644183]
+[u'screen', 0.10586532, u'analog_clock', 0.098537542, u'digital_clock', 0.076126628]
+[u'tray', 0.851704, u'cup', 0.038118266, u'eggnog', 0.027221821]

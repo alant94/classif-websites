@@ -1,0 +1,4 @@
+[u'web_site', 0.081579611, u'balance_beam', 0.050912842, u'chain_saw', 0.050635073, u'kite', 0.049661528, u'torch', 0.017635662]
+[u'Band_Aid', 0.85219312, u'cash_machine', 0.044963066, u'mousetrap', 0.01057547, u'street_sign', 0.0088377073, u'digital_clock', 0.0076141055]
+[u'jersey', 0.92803013, u'sweatshirt', 0.063278399, u'mortarboard', 0.0026574538, u'academic_gown', 0.002015918, u'maillot', 0.00090303377]
+[u'jersey', 0.99857628, u'sweatshirt', 0.0014073972, u'abaya', 5.4507641e-06, u'vestment', 3.4310592e-06, u'maillot', 3.3866131e-06]

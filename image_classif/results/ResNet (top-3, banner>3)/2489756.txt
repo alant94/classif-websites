@@ -1,0 +1,2 @@
+[u'ibex', 0.32289267, u'warthog', 0.20680034, u'water_buffalo', 0.15497318]
+[u'chain_saw', 0.22403771, u'ibex', 0.20208199, u'water_buffalo', 0.12029249]

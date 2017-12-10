@@ -1,0 +1,7 @@
+[u'suit', 0.76750922, u'Windsor_tie', 0.085404381, u'Kerry_blue_terrier', 0.028453944]
+[u'sandbar', 0.91449869, u'seashore', 0.04275544, u'geyser', 0.022202564]
+[u'street_sign', 0.40715468, u'bell_cote', 0.16881911, u'cinema', 0.15282738]
+[u'suit', 0.39235196, u'Windsor_tie', 0.3689259, u'prison', 0.055915989]
+[u'bikini', 0.18888411, u'window_screen', 0.11764364, u'guillotine', 0.046837311]
+[u'planetarium', 0.47156799, u'boathouse', 0.095365562, u'mosque', 0.079951517]
+[u'hook', 0.069618203, u'stopwatch', 0.037198503, u'whistle', 0.035374027]

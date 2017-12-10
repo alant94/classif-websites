@@ -1,0 +1,6 @@
+[u'bath_towel', 0.15296014, u'lampshade', 0.097523801, u'shoji', 0.081336208]
+[u'analog_clock', 0.22160001, u'lighter', 0.19289166, u'medicine_chest', 0.055010226]
+[u'barn', 0.24995588, u'vulture', 0.055468224, u'picket_fence', 0.045661718]
+[u'bath_towel', 0.16822596, u'lampshade', 0.098089591, u'shoji', 0.085338905]
+[u'bath_towel', 0.15162711, u'lampshade', 0.097652674, u'shoji', 0.083634928]
+[u'medicine_chest', 0.1228238, u'lighter', 0.1052999, u'binder', 0.068870775]

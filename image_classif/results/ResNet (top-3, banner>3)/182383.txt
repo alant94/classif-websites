@@ -1,0 +1,2 @@
+[u'perfume', 0.54381377, u'hair_spray', 0.32055104, u'lotion', 0.10309055]
+[u'suit', 0.077481791, u'lab_coat', 0.046822358, u'Windsor_tie', 0.043175913]

@@ -1,0 +1,5 @@
+[u'carton', 0.32247326, u'Band_Aid', 0.20498233, u'crate', 0.11778434, u'envelope', 0.081909813, u'matchstick', 0.040269986]
+[u'cash_machine', 0.12995669, u'remote_control', 0.061214559, u'lighter', 0.05091022, u'iron', 0.050388139, u'scale', 0.046542365]
+[u'binder', 0.88663501, u'loudspeaker', 0.018268127, u'book_jacket', 0.014679343, u'lighter', 0.011422235, u'fire_screen', 0.0095245587]
+[u'web_site', 0.38599077, u'envelope', 0.093261346, u'binder', 0.061008867, u'book_jacket', 0.05037741, u'menu', 0.045366786]
+[u'screwdriver', 0.20045523, u'plunger', 0.10750296, u'nail', 0.075447649, u'swab', 0.039859448, u'power_drill', 0.036727563]

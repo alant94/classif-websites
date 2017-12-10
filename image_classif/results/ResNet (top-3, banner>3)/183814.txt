@@ -1,0 +1,5 @@
+[u'apron', 0.37586999, u'suit', 0.11294466, u'stole', 0.040590066]
+[u'kimono', 0.20521098, u'groom', 0.048359387, u'park_bench', 0.045624495]
+[u'book_jacket', 0.12054798, u'web_site', 0.064946093, u'comic_book', 0.025201518]
+[u'suit', 0.96071535, u'Windsor_tie', 0.028644621, u'grand_piano', 0.0011711936]
+[u'palace', 0.26451233, u'castle', 0.13808411, u'lakeside', 0.12105211]

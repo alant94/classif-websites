@@ -1,0 +1,2 @@
+[u'palace', 0.12045907, u'boathouse', 0.087627821, u'picket_fence', 0.078627989, u'lakeside', 0.062346756, u'maze', 0.038938306]
+[u'wardrobe', 0.20553844, u'suit', 0.10962029, u'abaya', 0.064678743, u'vestment', 0.059069876, u'cleaver', 0.03624611]

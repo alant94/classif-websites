@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.83952302, u'envelope', 0.030736748, u'jersey', 0.014913867, u'pajama', 0.0097750798, u'pillow', 0.0089963581]
+[u'book_jacket', 0.16753426, u'Windsor_tie', 0.11616031, u'suit', 0.10016281, u'racket', 0.094123147, u'academic_gown', 0.073764123]

@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.20622247, u'hen', 0.052887838, u'coho', 0.037977334, u'crane', 0.037419099, u'barrow', 0.033607956]
+[u'beer_bottle', 0.061196052, u'wine_bottle', 0.055700298, u'lab_coat', 0.044830948, u'syringe', 0.040511373, u'red_wine', 0.036562432]

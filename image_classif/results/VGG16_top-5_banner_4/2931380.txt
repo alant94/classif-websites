@@ -1,0 +1,2 @@
+[u'wardrobe', 0.82480007, u'butcher_shop', 0.032029621, u'plate_rack', 0.026989065, u'banana', 0.014574748, u'picket_fence', 0.012359112]
+[u'lakeside', 0.52028197, u'boathouse', 0.12215054, u'dock', 0.07605961, u'breakwater', 0.026832605, u'castle', 0.026188079]

@@ -1,0 +1,3 @@
+[u'cannon', 0.18291694, u'paper_towel', 0.17528871, u'coil', 0.080533206, u'hay', 0.0618186, u'sombrero', 0.054455306]
+[u'sliding_door', 0.087642729, u'doormat', 0.085999385, u'barrow', 0.051943511, u'picket_fence', 0.043967061, u'window_screen', 0.038807474]
+[u'jellyfish', 0.85231906, u'mitten', 0.019859824, u'spotlight', 0.012558914, u'bonnet', 0.010074466, u'sea_urchin', 0.0062846988]

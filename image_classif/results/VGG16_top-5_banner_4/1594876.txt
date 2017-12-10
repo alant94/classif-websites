@@ -1,0 +1,7 @@
+[u'speedboat', 0.35483089, u'lifeboat', 0.12439283, u'fireboat', 0.092950888, u'liner', 0.045353469, u'aircraft_carrier', 0.040470876]
+[u'saltshaker', 0.2289741, u'cuirass', 0.18653244, u'mask', 0.13686197, u'breastplate', 0.076029055, u'perfume', 0.071788579]
+[u'saltshaker', 0.22936444, u'cuirass', 0.18584208, u'mask', 0.13703997, u'breastplate', 0.075635493, u'perfume', 0.071857966]
+[u'bathing_cap', 0.3544724, u'tub', 0.04233535, u'barbershop', 0.031801682, u'bikini', 0.030148821, u'maillot', 0.026436364]
+[u'balance_beam', 0.19820073, u'maillot', 0.07905402, u'bikini', 0.06647747, u'sunscreen', 0.045613147, u'Band_Aid', 0.043443095]
+[u'pedestal', 0.5936234, u'saltshaker', 0.065853633, u'goblet', 0.059040211, u'shower_cap', 0.052849263, u'radiator', 0.028070362]
+[u'dogsled', 0.61546361, u'Siberian_husky', 0.10568988, u'Eskimo_dog', 0.084151305, u'Saluki', 0.033379801, u'malamute', 0.022023873]

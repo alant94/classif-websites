@@ -1,0 +1,6 @@
+[u'puck', 0.091208443, u'beer_glass', 0.068286762, u'book_jacket', 0.067452006]
+[u'banjo', 0.95486569, u'hoopskirt', 0.039440591, u'drum', 0.0023499753]
+[u'comic_book', 0.58636558, u'book_jacket', 0.14357193, u'puck', 0.055297457]
+[u'magnetic_compass', 0.078476839, u'bow', 0.06049883, u'gong', 0.045143377]
+[u'carousel', 0.35191554, u'banjo', 0.13960078, u'accordion', 0.13319631]
+[u'banjo', 0.99132568, u'ladle', 0.0014713564, u'electric_guitar', 0.0013277989]

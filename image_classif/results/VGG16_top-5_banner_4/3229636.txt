@@ -1,0 +1,1 @@
+[u'envelope', 0.57922769, u'handkerchief', 0.19010092, u'carton', 0.096082561, u'shower_curtain', 0.051685065, u'apron', 0.035484534]

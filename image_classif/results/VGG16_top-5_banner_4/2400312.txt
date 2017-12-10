@@ -1,0 +1,6 @@
+[u'pajama', 0.20771277, u'sweatshirt', 0.16380161, u'torch', 0.12307642, u'poncho', 0.10109403, u'plunger', 0.055730876]
+[u'wig', 0.9143545, u'lipstick', 0.022945188, u'brassiere', 0.016208859, u'hair_spray', 0.014583847, u'perfume', 0.0038503818]
+[u'monitor', 0.60483682, u'screen', 0.12842385, u'desktop_computer', 0.044832431, u'laptop', 0.0301599, u'television', 0.022379657]
+[u'jean', 0.049689353, u'comic_book', 0.030654954, u'abaya', 0.030026417, u'book_jacket', 0.029511746, u'bow_tie', 0.023726769]
+[u'maillot', 0.26443771, u'maillot', 0.19987187, u'bikini', 0.11816285, u'miniskirt', 0.094135962, u'brassiere', 0.084524609]
+[u'laptop', 0.37267405, u'iPod', 0.19974095, u'tray', 0.18929984, u'street_sign', 0.062851213, u'digital_clock', 0.038538598]

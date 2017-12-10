@@ -1,0 +1,5 @@
+[u'sarong', 0.21875611, u'macaw', 0.15376274, u'mortarboard', 0.13620481, u'cloak', 0.11570317, u'academic_gown', 0.059593197]
+[u'ski', 0.33817345, u'alp', 0.17569724, u'geyser', 0.13073781, u'volcano', 0.091920294, u'bobsled', 0.066803955]
+[u'maze', 0.82832181, u'coil', 0.017640674, u'shield', 0.017454827, u"jack-o'-lantern", 0.0065088924, u'digital_clock', 0.005093588]
+[u'wardrobe', 0.70188206, u'shoe_shop', 0.046475194, u'ski', 0.034809906, u'stole', 0.016560499, u'brassiere', 0.015593348]
+[u'paintbrush', 0.11164461, u'picket_fence', 0.07552027, u'panpipe', 0.056786668, u'mask', 0.046243351, u'birdhouse', 0.040943678]

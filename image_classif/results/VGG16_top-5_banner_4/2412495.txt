@@ -1,0 +1,3 @@
+[u'web_site', 0.72516006, u'neck_brace', 0.028391054, u'muzzle', 0.025740914, u'can_opener', 0.021149792, u'comic_book', 0.016619243]
+[u"carpenter's_kit", 0.30599165, u'switch', 0.16421783, u'cassette_player', 0.089927666, u'pencil_sharpener', 0.078102946, u'cassette', 0.062811367]
+[u'pencil_sharpener', 0.80347437, u'loudspeaker', 0.075697459, u'loupe', 0.048711691, u'cassette', 0.025366984, u'cassette_player', 0.0068698851]

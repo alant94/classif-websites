@@ -1,0 +1,3 @@
+[u'paintbrush', 0.34683448, u'screwdriver', 0.18231595, u'ballpoint', 0.17007205, u"carpenter's_kit", 0.058327667, u'quill', 0.036331184]
+[u'hook', 0.18777134, u'whistle', 0.14567982, u'bow', 0.099530779, u"carpenter's_kit", 0.059942164, u'microphone', 0.055681124]
+[u'hair_slide', 0.41067535, u'Christmas_stocking', 0.14701022, u'pick', 0.076909117, u'pinwheel', 0.040386967, u'maraca', 0.024737243]

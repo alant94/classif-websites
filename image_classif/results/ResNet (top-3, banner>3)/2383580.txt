@@ -1,0 +1,6 @@
+[u'parallel_bars', 0.16849452, u'horizontal_bar', 0.16232342, u'binoculars', 0.079709254]
+[u'Band_Aid', 0.80126435, u'web_site', 0.11092677, u'whistle', 0.010746101]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'flagpole', 0.14201376, u'pole', 0.067751393, u'radio_telescope', 0.06431789]
+[u'web_site', 0.13288561, u'stopwatch', 0.12634718, u'whistle', 0.058937889]
+[u'beacon', 0.35526276, u'seashore', 0.23587303, u'barn', 0.056694973]

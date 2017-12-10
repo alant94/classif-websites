@@ -1,0 +1,2 @@
+[u'tripod', 0.92681837, u'corkscrew', 0.021747282, u'can_opener', 0.01340169, u'lighter', 0.002891144, u'turnstile', 0.0027374811]
+[u'screwdriver', 0.05485094, u'space_shuttle', 0.049219623, u'matchstick', 0.044013526, u'sweatshirt', 0.033739518, u'nail', 0.03221247]

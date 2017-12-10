@@ -1,0 +1,4 @@
+[u'swimming_trunks', 0.18674351, u'Band_Aid', 0.15258126, u'bikini', 0.14215547, u'sunscreen', 0.059587676, u'bathing_cap', 0.038613919]
+[u'book_jacket', 0.29349405, u'comic_book', 0.19756456, u'theater_curtain', 0.051392827, u'picket_fence', 0.043227665, u'street_sign', 0.032078274]
+[u'bathtub', 0.13433088, u'mask', 0.1226808, u'bathing_cap', 0.078970715, u'tub', 0.077613629, u'Band_Aid', 0.066584088]
+[u'groom', 0.14131214, u'bath_towel', 0.13753563, u'bathtub', 0.11913449, u'tub', 0.047104675, u'toilet_tissue', 0.042143594]

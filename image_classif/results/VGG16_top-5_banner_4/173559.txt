@@ -1,0 +1,5 @@
+[u'face_powder', 0.65551466, u'envelope', 0.072326347, u'puck', 0.058187224, u'lotion', 0.035997272, u'bottlecap', 0.016658325]
+[u'hair_slide', 0.097207665, u'wig', 0.09098053, u'mask', 0.059851248, u'saltshaker', 0.046913538, u'hair_spray', 0.040562492]
+[u'dining_table', 0.65685433, u'china_cabinet', 0.17089976, u'restaurant', 0.083241299, u'bakery', 0.030437965, u'patio', 0.011461861]
+[u'stole', 0.070578739, u'medicine_chest', 0.060570575, u'shoe_shop', 0.054766871, u'beer_bottle', 0.048156712, u'tobacco_shop', 0.044665284]
+[u'puck', 0.13694832, u'tennis_ball', 0.083381929, u'loupe', 0.030854261, u'Scottish_deerhound', 0.030471146, u'football_helmet', 0.026763858]

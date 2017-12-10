@@ -1,0 +1,1 @@
+[u'knee_pad', 0.13135444, u'maillot', 0.1108615, u'bathing_cap', 0.05896109, u'Band_Aid', 0.042926103, u'can_opener', 0.038159505]

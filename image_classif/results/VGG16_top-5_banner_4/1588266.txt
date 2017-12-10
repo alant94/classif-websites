@@ -1,0 +1,3 @@
+[u'bikini', 0.31840426, u'diaper', 0.16551773, u'brassiere', 0.1481993, u'Chihuahua', 0.051987931, u'maillot', 0.050015334]
+[u'Band_Aid', 0.19702087, u'syringe', 0.096762605, u'brassiere', 0.088564835, u'lipstick', 0.058114093, u'bathtub', 0.037452709]
+[u'miniskirt', 0.10460231, u'prison', 0.10308789, u'shoji', 0.063990027, u'pole', 0.060700029, u'maillot', 0.054413624]

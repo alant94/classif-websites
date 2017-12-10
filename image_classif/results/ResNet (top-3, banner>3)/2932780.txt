@@ -1,0 +1,6 @@
+[u'ice_lolly', 0.14795969, u'bubble', 0.13593546, u'Band_Aid', 0.0981832]
+[u'dining_table', 0.11222553, u'folding_chair', 0.07429187, u'wall_clock', 0.07272204]
+[u'web_site', 0.67198592, u'comic_book', 0.14551686, u'television', 0.087122686]
+[u'book_jacket', 0.18592887, u'pill_bottle', 0.077944279, u'comic_book', 0.069516212]
+[u'web_site', 0.19150969, u'envelope', 0.13960479, u'laptop', 0.086248673]
+[u'lab_coat', 0.47440979, u'stethoscope', 0.3290101, u'suit', 0.11436231]

@@ -1,0 +1,2 @@
+[u'paintbrush', 0.10889766, u'ice_lolly', 0.10608257, u'envelope', 0.079201125]
+[u'corn', 0.25929165, u'cowboy_boot', 0.10144522, u'ear', 0.048957646]

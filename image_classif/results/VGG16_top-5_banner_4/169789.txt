@@ -1,0 +1,2 @@
+[u'envelope', 0.32676813, u'Band_Aid', 0.097062126, u'web_site', 0.082943484, u'nipple', 0.032992326, u'hook', 0.031368811]
+[u'abaya', 0.19631743, u'cloak', 0.18542327, u'umbrella', 0.065201364, u'hair_spray', 0.03723928, u'flute', 0.032653816]

@@ -1,0 +1,5 @@
+[u'book_jacket', 0.35494223, u'picket_fence', 0.11509109, u'chime', 0.038182054, u'web_site', 0.032619245, u'fountain', 0.023913449]
+[u'wine_bottle', 0.18840054, u'medicine_chest', 0.11567383, u'lotion', 0.10358359, u'vending_machine', 0.073069453, u'beer_bottle', 0.058144484]
+[u'fire_screen', 0.068311654, u'binder', 0.061230112, u"carpenter's_kit", 0.057278551, u'ballpoint', 0.039347697, u'screwdriver', 0.033049475]
+[u'window_screen', 0.17033547, u'pier', 0.063213021, u'window_shade', 0.055124253, u'cinema', 0.045361798, u'bookshop', 0.040817596]
+[u'prison', 0.34107992, u'barbershop', 0.1100324, u'butcher_shop', 0.074335434, u'bow', 0.027968217, u'sliding_door', 0.026938537]

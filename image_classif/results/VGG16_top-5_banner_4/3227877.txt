@@ -1,0 +1,4 @@
+[u'envelope', 0.09770111, u'Windsor_tie', 0.091904059, u'web_site', 0.060482178, u'Band_Aid', 0.053132191, u'knee_pad', 0.017010774]
+[u'web_site', 0.097578853, u'Band_Aid', 0.077577233, u'Windsor_tie', 0.059590023, u'envelope', 0.044587322, u'digital_clock', 0.039392628]
+[u'envelope', 0.098023474, u'Band_Aid', 0.069767788, u'web_site', 0.066733785, u'Windsor_tie', 0.037982807, u'digital_clock', 0.037003338]
+[u'street_sign', 0.72802699, u'brass', 0.20236351, u'scoreboard', 0.009786075, u'chainlink_fence', 0.0097461743, u'mailbox', 0.0056206025]

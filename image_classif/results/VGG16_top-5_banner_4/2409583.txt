@@ -1,0 +1,5 @@
+[u'teddy', 0.98395687, u'toyshop', 0.0024002658, u'bakery', 0.0019251395, u'bib', 0.0012330777, u'dough', 0.00093716843]
+[u'whistle', 0.17799236, u'hand_blower', 0.073720783, u'hair_spray', 0.069269188, u'lighter', 0.064152241, u'web_site', 0.042393874]
+[u'teapot', 0.48804766, u'teddy', 0.16770191, u'caldron', 0.032981113, u'cup', 0.027837317, u'bucket', 0.027690275]
+[u'teddy', 0.90225279, u'fur_coat', 0.026775297, u'stole', 0.0075873649, u'wool', 0.0060319151, u'Christmas_stocking', 0.003374924]
+[u'dough', 0.093496092, u'scale', 0.043362264, u'teddy', 0.038810767, u"potter's_wheel", 0.03405017, u'toyshop', 0.025915245]

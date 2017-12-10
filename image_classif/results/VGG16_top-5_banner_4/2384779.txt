@@ -1,0 +1,5 @@
+[u'cucumber', 0.54814553, u'zucchini', 0.19209889, u'spaghetti_squash', 0.096362904, u'acorn_squash', 0.028121216, u'butternut_squash', 0.022495752]
+[u'stone_wall', 0.79966658, u'rapeseed', 0.060007606, u'maze', 0.02935124, u'megalith', 0.02629493, u'worm_fence', 0.012901835]
+[u'picket_fence', 0.23793182, u'mailbox', 0.11325535, u'worm_fence', 0.11234238, u'pole', 0.01778008, u'wine_bottle', 0.012237318]
+[u'wine_bottle', 0.81003577, u'red_wine', 0.1882541, u'corkscrew', 0.0011597323, u'beer_bottle', 0.00028935936, u'hamper', 0.00013911023]
+[u'tarantula', 0.057328932, u'cockroach', 0.049848918, u'Dungeness_crab', 0.048044868, u'drum', 0.047567282, u'dining_table', 0.046443235]

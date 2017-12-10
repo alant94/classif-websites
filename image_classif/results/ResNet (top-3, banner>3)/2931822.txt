@@ -1,0 +1,4 @@
+[u'envelope', 0.58643043, u'web_site', 0.16235536, u'iPod', 0.030501088]
+[u'digital_clock', 0.25875047, u'digital_watch', 0.12078198, u'panpipe', 0.076371111]
+[u'crossword_puzzle', 0.88555723, u'digital_clock', 0.011276068, u'analog_clock', 0.0099839754]
+[u'crossword_puzzle', 0.32694539, u'digital_clock', 0.12176218, u'analog_clock', 0.038726877]

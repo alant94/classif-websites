@@ -1,0 +1,8 @@
+[u'Pomeranian', 0.43451655, u'spindle', 0.073527038, u'proboscis_monkey', 0.04531477]
+[u'carton', 0.1433242, u'monitor', 0.10061662, u'wallet', 0.084179454]
+[u'fountain', 0.20791233, u'sea_urchin', 0.1504212, u'coil', 0.12588638]
+[u'barn', 0.34809032, u'boathouse', 0.25669533, u'greenhouse', 0.10665891]
+[u'wig', 0.10740758, u'Windsor_tie', 0.080256358, u'cellular_telephone', 0.065845989]
+[u'altar', 0.48794717, u'vestment', 0.086940832, u'barber_chair', 0.084208257]
+[u'carton', 0.75547779, u'web_site', 0.071983524, u'envelope', 0.03625584]
+[u'sunscreen', 0.067701958, u'coffee_mug', 0.067452192, u'web_site', 0.06512209]

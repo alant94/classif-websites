@@ -1,0 +1,2 @@
+[u'web_site', 0.23962806, u'book_jacket', 0.11037175, u'hair_spray', 0.047934458, u'pick', 0.036282618, u'pill_bottle', 0.026951743]
+[u'barbershop', 0.6170249, u'Band_Aid', 0.027479077, u'moving_van', 0.027182838, u'crate', 0.025196241, u'book_jacket', 0.023795824]

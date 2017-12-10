@@ -1,0 +1,7 @@
+[u'web_site', 0.33873078, u'envelope', 0.069732994, u'laptop', 0.058202177]
+[u'slot', 0.19203813, u'remote_control', 0.13105634, u'laptop', 0.089577533]
+[u'desktop_computer', 0.21752761, u'upright', 0.094843268, u'hard_disc', 0.087970443]
+[u'pay-phone', 0.43696353, u'remote_control', 0.34839731, u'parking_meter', 0.044136968]
+[u'space_heater', 0.30973795, u'stove', 0.11290035, u'feather_boa', 0.084149383]
+[u'football_helmet', 0.15370908, u'shield', 0.11015285, u'rugby_ball', 0.065299354]
+[u'whiskey_jug', 0.4421379, u'pitcher', 0.17636898, u'vase', 0.12645447]

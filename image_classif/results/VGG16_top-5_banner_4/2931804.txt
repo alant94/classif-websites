@@ -1,0 +1,2 @@
+[u'web_site', 0.18817131, u'street_sign', 0.0925937, u'jersey', 0.055198625, u'envelope', 0.047338419, u'comic_book', 0.033654142]
+[u'analog_clock', 0.1774236, u'bell_cote', 0.10039995, u'digital_clock', 0.07766746, u'coil', 0.071124397, u'dome', 0.058858063]

@@ -1,0 +1,3 @@
+[u'web_site', 0.081114762, u'refrigerator', 0.050846126, u'dishwasher', 0.046554402]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hair_spray', 0.64606893, u'theater_curtain', 0.074222043, u'shower_curtain', 0.058023117]

@@ -1,0 +1,4 @@
+[u'hair_slide', 0.062180594, u'buckle', 0.026959179, u'plate_rack', 0.022163711, u'radiator', 0.018042114, u'corkscrew', 0.017677261]
+[u'altar', 0.43183851, u'Christmas_stocking', 0.10245664, u'grand_piano', 0.027994506, u'stole', 0.027607329, u'throne', 0.02548326]
+[u'paintbrush', 0.11380248, u'wardrobe', 0.063088626, u'spatula', 0.031871114, u'screwdriver', 0.030083722, u'hair_spray', 0.026735805]
+[u'bow', 0.18892524, u'ski', 0.18209875, u'chime', 0.12478398, u'screwdriver', 0.11140382, u'organ', 0.085682005]

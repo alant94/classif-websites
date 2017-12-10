@@ -1,0 +1,4 @@
+[u'quilt', 0.15172428, u'studio_couch', 0.12458481, u'dining_table', 0.10328951, u'bannister', 0.10081481, u'crib', 0.045518804]
+[u'tripod', 0.1330613, u'nail', 0.101035, u'screwdriver', 0.069170341, u'hammer', 0.061325554, u'screw', 0.05908449]
+[u'street_sign', 0.095958427, u'matchstick', 0.091538154, u'shopping_basket', 0.079110041, u'radio', 0.044645201, u'binder', 0.027558452]
+[u'packet', 0.78758043, u'iron', 0.022957129, u'running_shoe', 0.01405856, u'envelope', 0.013776406, u'panpipe', 0.0080799609]

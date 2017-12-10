@@ -1,0 +1,4 @@
+[u'racket', 0.19683798, u'mask', 0.061352372, u'unicycle', 0.058723114]
+[u'picket_fence', 0.081269778, u'toaster', 0.050635893, u'whistle', 0.046130259]
+[u'overskirt', 0.16191804, u'hoopskirt', 0.096820168, u'apron', 0.061398808]
+[u'stretcher', 0.26332334, u'Band_Aid', 0.051664416, u'scale', 0.041199144]

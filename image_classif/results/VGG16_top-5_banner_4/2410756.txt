@@ -1,0 +1,2 @@
+[u'web_site', 0.50792032, u'envelope', 0.12824577, u'jigsaw_puzzle', 0.11997573, u'book_jacket', 0.061740428, u'menu', 0.040238626]
+[u'jigsaw_puzzle', 0.97420257, u'Christmas_stocking', 0.0023973458, u'handkerchief', 0.0017143062, u'wall_clock', 0.0010973882, u'prayer_rug', 0.00094298529]

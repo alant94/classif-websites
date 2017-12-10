@@ -1,0 +1,3 @@
+[u'web_site', 0.16017872, u'street_sign', 0.071493238, u'rule', 0.056849733, u'Band_Aid', 0.055535354, u'muzzle', 0.051139567]
+[u'cash_machine', 0.10938402, u'envelope', 0.048263967, u'web_site', 0.02730556, u'wall_clock', 0.025976907, u'television', 0.025191745]
+[u'shopping_basket', 0.19843177, u'whistle', 0.12769392, u'screwdriver', 0.10748631, u"carpenter's_kit", 0.059249148, u'hook', 0.036656093]

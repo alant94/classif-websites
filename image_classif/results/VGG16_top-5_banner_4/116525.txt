@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.13953975, u'wall_clock', 0.094558425, u'toilet_seat', 0.081558354, u'soap_dispenser', 0.076926097, u'coffee_mug', 0.047246534]
+[u'can_opener', 0.19032992, u'combination_lock', 0.17918214, u'switch', 0.080154702, u'soap_dispenser', 0.077260949, u'safety_pin', 0.041765779]
+[u'garbage_truck', 0.30299935, u'traffic_light', 0.11420564, u'switch', 0.055130862, u'container_ship', 0.051092122, u'ambulance', 0.02279556]
+[u'balloon', 0.40962839, u'parachute', 0.26197669, u'soccer_ball', 0.034933742, u'rugby_ball', 0.020485677, u'flagpole', 0.020152446]
+[u'web_site', 0.14718616, u'traffic_light', 0.12350094, u'gas_pump', 0.098550342, u'monitor', 0.067560278, u'scoreboard', 0.06240521]

@@ -1,0 +1,5 @@
+[u'syringe', 0.87651902, u'piggy_bank', 0.027421603, u'ocarina', 0.014678034]
+[u'mask', 0.41819116, u'sunscreen', 0.080221057, u'brassiere', 0.038136683]
+[u'brassiere', 0.83470404, u'bikini', 0.14403266, u'diaper', 0.010512455]
+[u'bathing_cap', 0.38534221, u'toyshop', 0.10891956, u'comic_book', 0.051829457]
+[u'maillot', 0.3544246, u'bikini', 0.27906099, u'maillot', 0.13681093]

@@ -1,0 +1,3 @@
+[u'binder', 0.19258055, u'envelope', 0.045702387, u'web_site', 0.043871757]
+[u'binder', 0.32581243, u'envelope', 0.11384255, u'refrigerator', 0.05438406]
+[u'binder', 0.19690658, u'web_site', 0.073531687, u'monitor', 0.041834667]

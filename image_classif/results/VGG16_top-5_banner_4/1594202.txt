@@ -1,0 +1,1 @@
+[u'bath_towel', 0.50452167, u'sweatshirt', 0.064038761, u'Band_Aid', 0.057118211, u'remote_control', 0.043583728, u'diaper', 0.031657316]

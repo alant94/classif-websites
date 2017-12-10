@@ -1,0 +1,4 @@
+[u'chocolate_sauce', 0.51974583, u'ice_cream', 0.17188537, u'honeycomb', 0.071015052, u'bakery', 0.062041763, u'meat_loaf', 0.05294596]
+[u'shoe_shop', 0.37964168, u'clog', 0.28217337, u'Loafer', 0.22406572, u'sandal', 0.081798241, u'necklace', 0.0079009049]
+[u'purse', 0.25531387, u'velvet', 0.23960307, u'mailbag', 0.19335155, u'buckle', 0.04752335, u'cowboy_boot', 0.035738889]
+[u'gyromitra', 0.37559149, u'chocolate_sauce', 0.090625688, u'custard_apple', 0.082731217, u'ice_cream', 0.050404057, u'electric_ray', 0.043276742]

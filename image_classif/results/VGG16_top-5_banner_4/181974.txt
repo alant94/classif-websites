@@ -1,0 +1,4 @@
+[u'chime', 0.21775877, u'binder', 0.067054823, u'matchstick', 0.065228336, u'lipstick', 0.063104734, u'book_jacket', 0.060078263]
+[u'book_jacket', 0.49210519, u'envelope', 0.11694376, u'carton', 0.045413543, u'binder', 0.034881856, u'wall_clock', 0.030946229]
+[u'cinema', 0.29266486, u'scoreboard', 0.20012119, u'book_jacket', 0.13040128, u'comic_book', 0.071589164, u'barbershop', 0.020739907]
+[u'wig', 0.87850428, u'fur_coat', 0.019090826, u'feather_boa', 0.007231818, u'hair_spray', 0.0065946626, u'lipstick', 0.0054845624]

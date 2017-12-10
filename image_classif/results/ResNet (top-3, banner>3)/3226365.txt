@@ -1,0 +1,2 @@
+[u'book_jacket', 0.71411675, u'comic_book', 0.19394228, u'sombrero', 0.028957829]
+[u'book_jacket', 0.71411675, u'comic_book', 0.19394228, u'sombrero', 0.028957829]

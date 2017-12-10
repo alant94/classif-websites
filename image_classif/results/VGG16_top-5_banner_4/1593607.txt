@@ -1,0 +1,8 @@
+[u'holster', 0.26956192, u'jean', 0.085310727, u'breastplate', 0.080864526, u'cowboy_boot', 0.074146539, u'gasmask', 0.058879249]
+[u'space_heater', 0.46150041, u'laptop', 0.18360142, u'notebook', 0.051197052, u'television', 0.019387331, u'accordion', 0.018834557]
+[u'four-poster', 0.16212137, u'studio_couch', 0.14407662, u'quilt', 0.11443315, u'mosquito_net', 0.080756404, u'miniskirt', 0.061337821]
+[u'bikini', 0.42091897, u'brassiere', 0.17747167, u'gasmask', 0.052354317, u'punching_bag', 0.032248303, u'maillot', 0.021553557]
+[u'swimming_trunks', 0.788607, u'barbell', 0.061698295, u'dumbbell', 0.017577844, u'bathing_cap', 0.014093623, u'diaper', 0.013971855]
+[u'armadillo', 0.20936428, u'warthog', 0.15325162, u'Mexican_hairless', 0.078374706, u'tusker', 0.061638836, u'triceratops', 0.034691442]
+[u'sandal', 0.98359364, u'Band_Aid', 0.0050163986, u'running_shoe', 0.0033532141, u'necklace', 0.00074798492, u'buckle', 0.00068979856]
+[u'analog_clock', 0.12530527, u'tripod', 0.06626872, u'spotlight', 0.054895855, u'hook', 0.038327962, u'suspension_bridge', 0.036579721]

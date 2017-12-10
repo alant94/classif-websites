@@ -1,0 +1,1 @@
+[u'castle', 0.51275855, u'fountain', 0.1101687, u'jigsaw_puzzle', 0.097832754, u'valley', 0.064522073, u'lakeside', 0.062195949]

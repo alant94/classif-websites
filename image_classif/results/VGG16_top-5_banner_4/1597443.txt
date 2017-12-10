@@ -1,0 +1,7 @@
+[u'miniskirt', 0.87672746, u'bikini', 0.056269251, u'maillot', 0.02224553, u'brassiere', 0.0067736357, u'maillot', 0.0065162666]
+[u'bikini', 0.22002348, u'swimming_trunks', 0.1705865, u'maillot', 0.13521309, u'maillot', 0.12072158, u'sunscreen', 0.07487528]
+[u'traffic_light', 0.17444561, u'bathing_cap', 0.079990737, u'hammerhead', 0.075856373, u'hook', 0.064749353, u'jigsaw_puzzle', 0.039879907]
+[u'fountain', 0.57128298, u'fireboat', 0.059224121, u'window_screen', 0.046310809, u'matchstick', 0.015113763, u'lighter', 0.014709629]
+[u'miniskirt', 0.14756665, u'tub', 0.10125562, u'park_bench', 0.090966247, u'rocking_chair', 0.090503998, u'tricycle', 0.058395222]
+[u'grand_piano', 0.31256261, u'miniskirt', 0.080318049, u'crutch', 0.033408266, u'upright', 0.031486209, u'window_shade', 0.0314041]
+[u'tub', 0.41772965, u'conch', 0.27815172, u'bathtub', 0.19088413, u'umbrella', 0.015305043, u'bonnet', 0.0093201511]

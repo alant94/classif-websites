@@ -1,0 +1,4 @@
+[u'picket_fence', 0.50668055, u'worm_fence', 0.37868649, u'turnstile', 0.015633531]
+[u'ballpoint', 0.33086187, u'screwdriver', 0.14968498, u'paintbrush', 0.087016702]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793]
+[u'comic_book', 0.87933272, u'book_jacket', 0.039889663, u'web_site', 0.013100256]

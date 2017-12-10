@@ -1,0 +1,8 @@
+[u'street_sign', 0.25305158, u'hook', 0.071223341, u'pretzel', 0.037653603, u'digital_clock', 0.032577574, u'coffee_mug', 0.028660584]
+[u'street_sign', 0.3306542, u'pretzel', 0.029942365, u'hook', 0.029383272, u'coffee_mug', 0.028258316, u'web_site', 0.028014781]
+[u'street_sign', 0.16806686, u'pretzel', 0.066065773, u'Band_Aid', 0.039860528, u'hook', 0.034491427, u'digital_clock', 0.028454045]
+[u'prison', 0.24153386, u'hook', 0.10749221, u'gondola', 0.086834274, u'monastery', 0.051319409, u'pole', 0.048226859]
+[u'web_site', 0.52295548, u'envelope', 0.16055328, u'jersey', 0.039907854, u'binder', 0.0083287023, u'Band_Aid', 0.0075702514]
+[u'street_sign', 0.27843365, u'hook', 0.04697217, u'digital_clock', 0.045325026, u'pretzel', 0.036704939, u'coffee_mug', 0.036195792]
+[u'clog', 0.46120435, u'paddle', 0.091729261, u'sandal', 0.0671525, u'ski', 0.059505619, u'hair_slide', 0.03122686]
+[u'golf_ball', 0.11001664, u'croquet_ball', 0.073035493, u'water_bottle', 0.070173174, u'sunscreen', 0.035750624, u'bucket', 0.034328353]

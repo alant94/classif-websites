@@ -1,0 +1,1 @@
+[u'analog_clock', 0.73129416, u'barometer', 0.17156233, u'wall_clock', 0.089003153]

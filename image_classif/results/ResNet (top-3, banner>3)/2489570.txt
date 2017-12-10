@@ -1,0 +1,2 @@
+[u'American_black_bear', 0.72709781, u'groenendael', 0.044993017, u'sloth_bear', 0.037260167]
+[u'American_black_bear', 0.16786022, u'groenendael', 0.16525827, u'sloth_bear', 0.11730049]

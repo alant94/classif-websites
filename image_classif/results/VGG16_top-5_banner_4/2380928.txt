@@ -1,0 +1,5 @@
+[u'red_wine', 0.35462832, u'wine_bottle', 0.34978688, u'lotion', 0.07486365, u'perfume', 0.067637667, u'corkscrew', 0.03339006]
+[u'bow', 0.21003012, u'brassiere', 0.080820762, u'maraca', 0.073134921, u'sunglasses', 0.070613965, u'sunglass', 0.055016819]
+[u'picket_fence', 0.17862727, u'obelisk', 0.12847476, u'bell_cote', 0.12640528, u'chime', 0.044189092, u'flagpole', 0.032985833]
+[u'red_wine', 0.67131728, u'wine_bottle', 0.30339924, u'lotion', 0.0047516297, u'whiskey_jug', 0.004510283, u'chocolate_sauce', 0.0036887657]
+[u'red_wine', 0.79081231, u'wine_bottle', 0.20392963, u'corkscrew', 0.0011851345, u'beer_bottle', 0.0010069883, u'chocolate_sauce', 0.00087263423]

@@ -1,0 +1,3 @@
+[u'bottlecap', 0.99835712, u'pick', 0.00020851527, u'buckle', 0.0001883845, u'bolo_tie', 0.00017078563, u'hair_slide', 0.000108883]
+[u'bottlecap', 0.96653539, u'barrel', 0.0059019765, u'barometer', 0.0047140671, u'tractor', 0.0036310777, u'puck', 0.0025681367]
+[u'toilet_seat', 0.18986318, u'bottlecap', 0.10388554, u'parking_meter', 0.089773498, u'scale', 0.082091168, u'gas_pump', 0.067708582]

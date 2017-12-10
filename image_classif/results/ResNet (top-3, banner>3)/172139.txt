@@ -1,0 +1,7 @@
+[u'swimming_trunks', 0.29132727, u'diaper', 0.24876916, u'bikini', 0.080597952]
+[u'carton', 0.14696221, u'envelope', 0.14057216, u'menu', 0.10836304]
+[u'shoe_shop', 0.27413493, u'accordion', 0.13237929, u'brassiere', 0.074655205]
+[u'bikini', 0.17201242, u'comic_book', 0.13971433, u'maillot', 0.13140088]
+[u'carton', 0.22660294, u'swimming_trunks', 0.17318666, u'pajama', 0.1301831]
+[u'miniskirt', 0.31179127, u'brassiere', 0.14474744, u'maillot', 0.08758945]
+[u'brassiere', 0.47511232, u'bikini', 0.32802778, u'gown', 0.093696244]

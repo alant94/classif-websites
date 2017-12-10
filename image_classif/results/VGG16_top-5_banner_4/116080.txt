@@ -1,0 +1,5 @@
+[u'organ', 0.46838412, u'prison', 0.087614439, u'turnstile', 0.076319329, u'perfume', 0.041071855, u'wine_bottle', 0.026884971]
+[u'organ', 0.76990992, u'book_jacket', 0.027358718, u'prison', 0.025573801, u'bookcase', 0.014385072, u'theater_curtain', 0.011549023]
+[u'prison', 0.18162513, u'book_jacket', 0.14694402, u'safe', 0.057635058, u'carton', 0.041480564, u'sliding_door', 0.038601283]
+[u'organ', 0.6891678, u'turnstile', 0.12041827, u'prison', 0.078545153, u'cinema', 0.01673561, u'library', 0.0096746106]
+[u'book_jacket', 0.2180075, u'organ', 0.1097919, u'prison', 0.077016763, u'perfume', 0.057262987, u'safe', 0.042589076]

@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.41060269, u'bathtub', 0.22738282, u'washbasin', 0.093616776]
+[u'medicine_chest', 0.32854834, u'bathtub', 0.25888419, u'washbasin', 0.18817151]
+[u'bathtub', 0.84891945, u'tub', 0.13685964, u'washbasin', 0.0047356621]
+[u'web_site', 0.62851846, u'Band_Aid', 0.076954357, u'tobacco_shop', 0.031354181]

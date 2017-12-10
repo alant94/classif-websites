@@ -1,0 +1,1 @@
+[u'rule', 0.19410489, u'web_site', 0.10695019, u'digital_watch', 0.090515256, u'analog_clock', 0.081085794, u'digital_clock', 0.05408648]

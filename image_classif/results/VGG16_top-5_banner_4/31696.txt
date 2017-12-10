@@ -1,0 +1,1 @@
+[u'ear', 0.34988376, u'corn', 0.32534531, u'coral_fungus', 0.28100333, u'butcher_shop', 0.010392678, u'banana', 0.0085058371]

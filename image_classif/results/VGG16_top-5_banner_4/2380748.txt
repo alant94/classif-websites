@@ -1,0 +1,1 @@
+[u'nail', 0.13174048, u'hook', 0.10518795, u'safety_pin', 0.029693995, u'academic_gown', 0.023205571, u'hatchet', 0.023185484]

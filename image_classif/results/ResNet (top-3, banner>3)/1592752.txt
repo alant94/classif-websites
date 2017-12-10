@@ -1,0 +1,8 @@
+[u'mortarboard', 0.11222898, u"potter's_wheel", 0.082249075, u'prison', 0.047324032]
+[u'crossword_puzzle', 0.69405293, u'scoreboard', 0.12612598, u'digital_watch', 0.07500691]
+[u'skunk', 0.96071249, u'mortarboard', 0.010892799, u'badger', 0.010263125]
+[u'digital_clock', 0.71404213, u'digital_watch', 0.22360575, u'scoreboard', 0.020868413]
+[u'proboscis_monkey', 0.1381595, u'bikini', 0.076124705, u'fountain', 0.060397983]
+[u'quill', 0.4661532, u'drumstick', 0.085672647, u'syringe', 0.027084172]
+[u'traffic_light', 0.50098288, u'lighter', 0.1058837, u'street_sign', 0.084421381]
+[u'Old_English_sheepdog', 0.1034576, u'Shih-Tzu', 0.04658781, u'papillon', 0.045581598]

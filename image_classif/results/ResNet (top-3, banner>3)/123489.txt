@@ -1,0 +1,6 @@
+[u'cab', 0.1069006, u'slot', 0.10687425, u'pool_table', 0.079248369]
+[u'comic_book', 0.94737399, u'book_jacket', 0.047738757, u'prayer_rug', 0.00068140053]
+[u'jigsaw_puzzle', 0.98606944, u'rule', 0.0037522647, u'abacus', 0.0025382433]
+[u'jigsaw_puzzle', 0.18475157, u'tray', 0.17906822, u'envelope', 0.10430304]
+[u'lighter', 0.45077902, u'digital_watch', 0.0461885, u'street_sign', 0.044973623]
+[u'traffic_light', 0.30010146, u'digital_clock', 0.18275198, u'oscilloscope', 0.16727249]

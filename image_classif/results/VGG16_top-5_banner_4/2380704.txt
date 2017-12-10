@@ -1,0 +1,1 @@
+[u'water_tower', 0.49447101, u'missile', 0.054558601, u'projectile', 0.042942096, u'cinema', 0.03212171, u'scoreboard', 0.027344327]

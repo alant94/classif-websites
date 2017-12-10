@@ -1,0 +1,3 @@
+[u'reflex_camera', 0.12371697, u'microphone', 0.10921712, u'electric_fan', 0.087816522, u'loudspeaker', 0.078622714, u'tape_player', 0.072669894]
+[u'kite', 0.041220512, u'parachute', 0.021714751, u'bald_eagle', 0.015904887, u'airship', 0.014266004, u'black_stork', 0.014200686]
+[u'bulletproof_vest', 0.26485735, u'Windsor_tie', 0.16315722, u'microphone', 0.059947878, u'apron', 0.026203841, u'muzzle', 0.02544588]

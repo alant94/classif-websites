@@ -1,0 +1,7 @@
+[u'street_sign', 0.044443429, u'jellyfish', 0.029053243, u'hammerhead', 0.026478456, u'traffic_light', 0.0202571, u'cash_machine', 0.018688288]
+[u'bell_cote', 0.43790984, u'picket_fence', 0.041185435, u'breakwater', 0.029580655, u'church', 0.028830515, u'whistle', 0.028489316]
+[u'ski', 0.29451531, u'comic_book', 0.12695161, u'maillot', 0.05020183, u'pajama', 0.047087006, u'spatula', 0.030570077]
+[u'chain', 0.30766276, u'swab', 0.22664934, u'knot', 0.16203924, u'hook', 0.093704857, u'wreck', 0.066561677]
+[u'wardrobe', 0.84704185, u'butcher_shop', 0.081085667, u'cleaver', 0.011802222, u'vestment', 0.0047160713, u'handkerchief', 0.0044423165]
+[u'racket', 0.12249113, u'apron', 0.089513585, u'clog', 0.085502483, u'mouse', 0.055595566, u'paddle', 0.046112128]
+[u'macaw', 0.38956961, u'swab', 0.07343474, u'crash_helmet', 0.046281863, u'pay-phone', 0.038101986, u'poncho', 0.030274691]

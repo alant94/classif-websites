@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.41888875, u'shoe_shop', 0.11229437, u'cowboy_boot', 0.056396276, u'mailbox', 0.036787562, u'coral_fungus', 0.030587923]
+[u'slot', 0.084499277, u'puck', 0.046975769, u'coffee_mug', 0.040517859, u'television', 0.040185433, u'barbershop', 0.036984157]
+[u'vault', 0.17516539, u'theater_curtain', 0.16024733, u'church', 0.10073445, u'bell_cote', 0.055852257, u'altar', 0.048145775]
+[u'fountain', 0.39880553, u'jellyfish', 0.16215296, u'matchstick', 0.055910449, u'chain', 0.053058021, u'chime', 0.048498999]
+[u'swing', 0.41652811, u'chainlink_fence', 0.065566823, u'plastic_bag', 0.064156696, u'prison', 0.042642325, u'chain', 0.038536128]

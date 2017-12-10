@@ -1,0 +1,2 @@
+[u'parachute', 0.62350231, u'flagpole', 0.090592347, u'hook', 0.065683581, u'red_wine', 0.05813235, u'macaw', 0.019134426]
+[u'handkerchief', 0.24408649, u'necklace', 0.071821138, u'jigsaw_puzzle', 0.067962706, u'jersey', 0.049732774, u'pillow', 0.045835644]

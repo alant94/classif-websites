@@ -1,0 +1,1 @@
+[u'acoustic_guitar', 0.25547662, u'dumbbell', 0.15607205, u'banjo', 0.12602077, u'barbell', 0.097814299, u'plunger', 0.096148252]

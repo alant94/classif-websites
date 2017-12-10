@@ -1,0 +1,4 @@
+[u'bathtub', 0.39724085, u'tub', 0.22813255, u'broom', 0.03510027, u'bikini', 0.026651882, u'swab', 0.024472959]
+[u'bathtub', 0.39724085, u'tub', 0.22813255, u'broom', 0.03510027, u'bikini', 0.026651882, u'swab', 0.024472959]
+[u'shower_cap', 0.23514031, u'wig', 0.14247449, u'bathing_cap', 0.11526728, u'sunglasses', 0.053070325, u'tobacco_shop', 0.046425942]
+[u'basketball', 0.39976025, u'parallel_bars', 0.17966887, u'volleyball', 0.097948737, u'balance_beam', 0.070109308, u'horizontal_bar', 0.059778214]

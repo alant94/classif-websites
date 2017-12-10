@@ -1,0 +1,8 @@
+[u'sandal', 0.28779742, u'neck_brace', 0.090318196, u'buckle', 0.066872127]
+[u'switch', 0.43134195, u'whistle', 0.0872114, u'spotlight', 0.061414164]
+[u'web_site', 0.34578487, u'Band_Aid', 0.15896921, u'oil_filter', 0.043371551]
+[u'nipple', 0.22012405, u'hook', 0.089175373, u'safety_pin', 0.064905174]
+[u'loupe', 0.11569225, u'quill', 0.10467985, u'packet', 0.07720989]
+[u'loupe', 0.57038939, u'can_opener', 0.075209193, u'buckle', 0.058811702]
+[u'spotlight', 0.10619562, u'magnetic_compass', 0.079189174, u'gong', 0.054124419]
+[u'spotlight', 0.15350759, u'maraca', 0.064163044, u'oxygen_mask', 0.062313955]

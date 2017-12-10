@@ -1,0 +1,3 @@
+[u'stage', 0.091393568, u'electric_guitar', 0.04380925, u'marimba', 0.038813602, u'prison', 0.032352798, u'ski', 0.030961759]
+[u'container_ship', 0.10203481, u'crane', 0.079730786, u'torch', 0.058159254, u'monitor', 0.033073157, u'screw', 0.029320452]
+[u'picket_fence', 0.23325221, u'syringe', 0.094585508, u'library', 0.074974552, u'medicine_chest', 0.04186932, u'ballpoint', 0.036421217]

@@ -1,0 +1,3 @@
+[u'envelope', 0.79954034, u'mousetrap', 0.049170129, u'packet', 0.015812648, u'sweatshirt', 0.013910772, u'jersey', 0.0078995451]
+[u'throne', 0.074430116, u'cowboy_hat', 0.052122761, u'poncho', 0.031608973, u'barrow', 0.026648285, u'vestment', 0.023697622]
+[u'lemon', 0.11106189, u'loupe', 0.094503395, u'strainer', 0.068939775, u'hot_pot', 0.056923367, u'potpie', 0.055113092]

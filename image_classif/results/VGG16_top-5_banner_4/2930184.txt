@@ -1,0 +1,1 @@
+[u'harp', 0.3159813, u'barber_chair', 0.25844571, u'barbershop', 0.14621232, u'restaurant', 0.047713045, u'grand_piano', 0.037772104]

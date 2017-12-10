@@ -1,0 +1,2 @@
+[u'cleaver', 0.08005254, u'fire_screen', 0.078533724, u'window_screen', 0.070490323, u'book_jacket', 0.045028009, u'television', 0.044480734]
+[u'flat-coated_retriever', 0.3908987, u'Labrador_retriever', 0.110253, u'giant_schnauzer', 0.097757578, u'Irish_wolfhound', 0.081546262, u'standard_schnauzer', 0.054878362]

@@ -1,0 +1,4 @@
+[u'corkscrew', 0.10720471, u'coffee_mug', 0.073680259, u'fire_screen', 0.039760448, u'pick', 0.037911925, u'whiskey_jug', 0.033907998]
+[u'iPod', 0.20380758, u'hook', 0.067424923, u'digital_clock', 0.06299071, u'street_sign', 0.046465795, u'safety_pin', 0.041810963]
+[u'bell_cote', 0.11850992, u'book_jacket', 0.11202668, u'analog_clock', 0.074081667, u'chain', 0.061255116, u'monastery', 0.029973574]
+[u'web_site', 0.11666857, u'barn', 0.066847526, u'window_screen', 0.028814293, u'valley', 0.021313, u'groom', 0.017948562]

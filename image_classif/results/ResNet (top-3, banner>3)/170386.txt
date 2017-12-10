@@ -1,0 +1,4 @@
+[u'comic_book', 0.32278904, u'paintbrush', 0.22251159, u'packet', 0.068844289]
+[u'alp', 0.092045076, u'ski', 0.074973553, u'dogsled', 0.058199611]
+[u'unicycle', 0.32697216, u'streetcar', 0.23696053, u'car_mirror', 0.10258146]
+[u'electric_fan', 0.21573208, u'radio', 0.18921648, u'iPod', 0.11630339]

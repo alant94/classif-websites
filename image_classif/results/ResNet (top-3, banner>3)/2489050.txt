@@ -1,0 +1,2 @@
+[u'web_site', 0.59813678, u'dogsled', 0.26464814, u'mountain_bike', 0.074303538]
+[u'king_crab', 0.22102615, u'assault_rifle', 0.18991457, u'Dungeness_crab', 0.16088615]

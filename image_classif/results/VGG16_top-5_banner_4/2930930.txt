@@ -1,0 +1,2 @@
+[u'book_jacket', 0.45737761, u'comic_book', 0.12038883, u'bathing_cap', 0.042791486, u'punching_bag', 0.032091226, u'racket', 0.027563071]
+[u'comic_book', 0.63021302, u'book_jacket', 0.28471532, u'envelope', 0.0097333174, u'pillow', 0.0064897626, u'wallet', 0.0041285232]

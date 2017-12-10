@@ -1,0 +1,4 @@
+[u'web_site', 0.18438655, u'suit', 0.17419276, u'academic_gown', 0.091796502, u'abaya', 0.070797883, u'book_jacket', 0.035931814]
+[u'lab_coat', 0.20822275, u'jean', 0.052080516, u'torch', 0.038477115, u'crutch', 0.02853027, u'bow', 0.026819965]
+[u'mousetrap', 0.1497976, u'plane', 0.13338347, u'loupe', 0.080283292, u'maraca', 0.042808097, u'croquet_ball', 0.030617576]
+[u'croquet_ball', 0.16875978, u'swing', 0.16695082, u'polecat', 0.030034428, u'chimpanzee', 0.029199868, u'bow', 0.02279962]

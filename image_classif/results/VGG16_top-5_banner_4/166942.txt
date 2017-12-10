@@ -1,0 +1,2 @@
+[u'swing', 0.6679762, u'wreck', 0.039889134, u'pole', 0.016222544, u'lakeside', 0.01444841, u'reel', 0.013413224]
+[u'barn_spider', 0.24803415, u'grasshopper', 0.17080352, u'walking_stick', 0.17046878, u'long-horned_beetle', 0.13885565, u'garden_spider', 0.057791643]

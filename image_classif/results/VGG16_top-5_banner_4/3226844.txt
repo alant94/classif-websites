@@ -1,0 +1,3 @@
+[u'street_sign', 0.11492571, u'envelope', 0.10285304, u'nail', 0.062053345, u'puck', 0.046053216, u'matchstick', 0.038952868]
+[u'crane', 0.26924047, u'traffic_light', 0.22638443, u'beacon', 0.042699926, u'airship', 0.04201718, u'analog_clock', 0.039349958]
+[u'web_site', 0.17002805, u'medicine_chest', 0.16190919, u'bookcase', 0.054491356, u'screwdriver', 0.031253327, u'monitor', 0.021687476]

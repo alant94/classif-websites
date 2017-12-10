@@ -1,0 +1,3 @@
+[u'rubber_eraser', 0.52522105, u'tennis_ball', 0.23605438, u'pick', 0.11874927, u'ping-pong_ball', 0.091501556, u'pill_bottle', 0.014440418]
+[u'brass', 0.48033181, u'book_jacket', 0.17355782, u'binder', 0.03872852, u'street_sign', 0.027737662, u'ashcan', 0.018260127]
+[u'fountain', 0.47147411, u'geyser', 0.10093118, u'jellyfish', 0.029027568, u'parachute', 0.024249464, u'fireboat', 0.02194488]

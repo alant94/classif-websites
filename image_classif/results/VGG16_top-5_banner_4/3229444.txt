@@ -1,0 +1,6 @@
+[u'binder', 0.082374826, u'face_powder', 0.049110819, u'book_jacket', 0.048648611, u'perfume', 0.047552675, u'envelope', 0.040036418]
+[u'comic_book', 0.90027642, u'church', 0.0099124275, u'mask', 0.0062656119, u'book_jacket', 0.005363544, u'altar', 0.0039396947]
+[u'web_site', 0.36413035, u'menu', 0.046098702, u'envelope', 0.03239391, u'monitor', 0.023847295, u'crossword_puzzle', 0.022440385]
+[u'cleaver', 0.35144868, u'vestment', 0.20810357, u'kimono', 0.13135771, u'lab_coat', 0.047850583, u'candle', 0.03929818]
+[u'vestment', 0.97978425, u'groom', 0.0074505289, u'candle', 0.0033910074, u'altar', 0.001150311, u'abaya', 0.00090610253]
+[u'cleaver', 0.27668893, u'vestment', 0.24063854, u'wardrobe', 0.076537915, u'butcher_shop', 0.074452698, u'handkerchief', 0.052982301]

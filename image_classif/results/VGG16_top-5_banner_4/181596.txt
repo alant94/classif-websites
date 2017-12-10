@@ -1,0 +1,1 @@
+[u'water_bottle', 0.3494823, u'Petri_dish', 0.083572097, u'pill_bottle', 0.067813389, u"potter's_wheel", 0.053703491, u'bucket', 0.025389262]

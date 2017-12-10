@@ -1,0 +1,2 @@
+[u'violin', 0.20745797, u'electric_guitar', 0.061123081, u'stage', 0.049677979, u'drum', 0.04850794, u'corkscrew', 0.041819468]
+[u'comic_book', 0.27725944, u'web_site', 0.086210035, u'hair_spray', 0.044621412, u'barbershop', 0.035788499, u'book_jacket', 0.034403913]

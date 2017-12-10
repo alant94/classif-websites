@@ -1,0 +1,5 @@
+[u'jersey', 0.5266614, u'sweatshirt', 0.26130399, u'apron', 0.069760151, u'kimono', 0.027140873, u'handkerchief', 0.020187723]
+[u'wine_bottle', 0.063029699, u'drum', 0.044856671, u'breastplate', 0.03820014, u'water_bottle', 0.032019898, u'cuirass', 0.02515604]
+[u'goblet', 0.82445461, u'red_wine', 0.04312247, u'wine_bottle', 0.036416177, u'dining_table', 0.021178542, u'perfume', 0.0091592046]
+[u'red_wine', 0.67254424, u'goblet', 0.15939659, u'wine_bottle', 0.04773555, u'beer_glass', 0.026349835, u'restaurant', 0.013723578]
+[u'tobacco_shop', 0.2057227, u'barbershop', 0.14542614, u'shoe_shop', 0.099986047, u'confectionery', 0.096434087, u'restaurant', 0.073034391]

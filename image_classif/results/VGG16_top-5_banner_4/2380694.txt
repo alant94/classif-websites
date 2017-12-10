@@ -1,0 +1,4 @@
+[u'envelope', 0.10315403, u'web_site', 0.035884846, u'nail', 0.023837965, u'hook', 0.022623464, u'balance_beam', 0.022495154]
+[u'scoreboard', 0.22753015, u'gas_pump', 0.19734313, u'freight_car', 0.038789634, u'vending_machine', 0.036965314, u'digital_clock', 0.02737084]
+[u'turnstile', 0.27859476, u'coffeepot', 0.2482651, u'espresso_maker', 0.064983577, u'water_jug', 0.048366547, u'forklift', 0.045230765]
+[u'web_site', 0.63341695, u'comic_book', 0.056135584, u'book_jacket', 0.054148443, u'megalith', 0.012550773, u'bulletproof_vest', 0.011441628]

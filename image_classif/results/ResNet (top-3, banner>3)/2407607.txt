@@ -1,0 +1,2 @@
+[u'quilt', 0.67490739, u'shoe_shop', 0.038686138, u'prayer_rug', 0.029221691]
+[u'oscilloscope', 0.17164424, u'nail', 0.095541425, u'pillow', 0.080741875]

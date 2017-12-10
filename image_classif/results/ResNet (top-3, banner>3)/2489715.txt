@@ -1,0 +1,7 @@
+[u'milk_can', 0.15428251, u'sturgeon', 0.080327399, u'solar_dish', 0.077866226]
+[u'refrigerator', 0.58540851, u'rotisserie', 0.20020187, u'microwave', 0.1693158]
+[u'barracouta', 0.73140264, u'coho', 0.13388552, u'gar', 0.070423439]
+[u'Welsh_springer_spaniel', 0.218327, u'bikini', 0.21740346, u'Blenheim_spaniel', 0.13482496]
+[u'barracouta', 0.42253566, u'gar', 0.19435982, u'maillot', 0.11632204]
+[u'prison', 0.32808015, u'hippopotamus', 0.2073116, u'window_screen', 0.13565546]
+[u'gar', 0.32930398, u'coho', 0.26795879, u'barracouta', 0.12192176]

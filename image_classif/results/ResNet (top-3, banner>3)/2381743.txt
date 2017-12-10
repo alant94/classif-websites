@@ -1,0 +1,5 @@
+[u'picket_fence', 0.34627283, u'chainlink_fence', 0.15988003, u'greenhouse', 0.073699243]
+[u'red_wine', 0.22102749, u'wine_bottle', 0.19165622, u'sliding_door', 0.16286281]
+[u'medicine_chest', 0.37287807, u'safe', 0.2747559, u"carpenter's_kit", 0.046148241]
+[u'window_screen', 0.16344708, u'water_tower', 0.14896011, u'barn', 0.090124451]
+[u'wardrobe', 0.2884317, u'jean', 0.072919689, u'picket_fence', 0.057361029]

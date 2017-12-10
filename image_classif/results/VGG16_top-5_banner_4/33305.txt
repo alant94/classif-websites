@@ -1,0 +1,4 @@
+[u'bathing_cap', 0.31212956, u'balloon', 0.28801405, u'jellyfish', 0.16734536, u'mask', 0.070882201, u'ski_mask', 0.035632495]
+[u'book_jacket', 0.34015226, u'mousetrap', 0.23821533, u'comic_book', 0.1841667, u'binder', 0.043894786, u'packet', 0.031067608]
+[u'parachute', 0.23781785, u'sea_slug', 0.16717079, u'lorikeet', 0.033429809, u'black_grouse', 0.030171117, u'balloon', 0.02368935]
+[u'tench', 0.48853493, u'mountain_bike', 0.078244269, u'coho', 0.0614953, u'lorikeet', 0.034052715, u'bolete', 0.013936415]

@@ -1,0 +1,2 @@
+[u'bakery', 0.63390172, u'tobacco_shop', 0.12980938, u'cinema', 0.056240033]
+[u'whistle', 0.28958389, u'picket_fence', 0.16640112, u'digital_clock', 0.11663432]

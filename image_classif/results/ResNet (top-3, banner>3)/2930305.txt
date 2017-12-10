@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.12494516, u'web_site', 0.086682573, u'oil_filter', 0.052794777]
+[u'bikini', 0.14666663, u'shower_curtain', 0.061837886, u'sarong', 0.054921892]
+[u'Band_Aid', 0.4469094, u'oil_filter', 0.076288097, u'sunscreen', 0.066457123]
+[u'screwdriver', 0.067609079, u'perfume', 0.050429326, u'crossword_puzzle', 0.037641428]
+[u'shower_curtain', 0.39939445, u'fire_screen', 0.23510849, u'theater_curtain', 0.11649052]
+[u'jersey', 0.42366719, u'envelope', 0.094079062, u'sweatshirt', 0.085193954]
+[u'prison', 0.28291881, u'can_opener', 0.20954461, u'drumstick', 0.081777364]
+[u'water_tower', 0.24870816, u'planetarium', 0.17796166, u'mosque', 0.064994901]

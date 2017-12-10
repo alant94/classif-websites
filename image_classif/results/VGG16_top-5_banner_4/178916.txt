@@ -1,0 +1,4 @@
+[u'maypole', 0.2632868, u'swing', 0.22119567, u'sarong', 0.042659111, u'mortarboard', 0.037755728, u'academic_gown', 0.034898978]
+[u'street_sign', 0.17447342, u'viaduct', 0.12107361, u'brass', 0.069608733, u'alp', 0.066461191, u'cliff', 0.052924354]
+[u'fountain_pen', 0.8457734, u'ballpoint', 0.10649585, u'scabbard', 0.012441824, u'letter_opener', 0.0043501486, u'nail', 0.0043124561]
+[u'wreck', 0.15177135, u'killer_whale', 0.10197515, u'breakwater', 0.074876517, u'picket_fence', 0.049532399, u'hammerhead', 0.045598455]

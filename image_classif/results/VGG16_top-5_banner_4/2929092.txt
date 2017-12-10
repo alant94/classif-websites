@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.062675416, u'mask', 0.050334223, u'jersey', 0.050201122, u"jack-o'-lantern", 0.039752878, u'sweatshirt', 0.037824452]

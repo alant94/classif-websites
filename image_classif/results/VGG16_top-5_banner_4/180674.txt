@@ -1,0 +1,2 @@
+[u'quill', 0.24063502, u'coucal', 0.06248071, u'panpipe', 0.056564063, u'book_jacket', 0.047248248, u'ski', 0.044945244]
+[u'bow_tie', 0.23797083, u'suit', 0.23385419, u'Windsor_tie', 0.18930739, u'bolo_tie', 0.043557063, u'mortarboard', 0.021497827]

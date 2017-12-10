@@ -1,0 +1,5 @@
+[u'worm_fence', 0.13073742, u'valley', 0.12492196, u'stone_wall', 0.071504831]
+[u'church', 0.28244942, u'castle', 0.069430687, u'altar', 0.058794603]
+[u'plate_rack', 0.33639383, u'book_jacket', 0.10641793, u'turnstile', 0.062021051]
+[u'traffic_light', 0.35019448, u'street_sign', 0.21468416, u'matchstick', 0.10027912]
+[u'wine_bottle', 0.9368186, u'red_wine', 0.059028283, u'beer_bottle', 0.0037771631]

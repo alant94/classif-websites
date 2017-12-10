@@ -1,0 +1,3 @@
+[u'patio', 0.39234099, u'prison', 0.10065643, u'monastery', 0.074425019]
+[u'envelope', 0.4916333, u'web_site', 0.40014127, u'menu', 0.051629338]
+[u'web_site', 0.56488323, u'envelope', 0.074707836, u'stopwatch', 0.026441075]

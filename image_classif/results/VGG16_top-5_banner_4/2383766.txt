@@ -1,0 +1,7 @@
+[u'screwdriver', 0.11856935, u'beer_bottle', 0.08473409, u'perfume', 0.050706718, u'wine_bottle', 0.048859347, u'syringe', 0.048680793]
+[u'beer_bottle', 0.23529956, u'syringe', 0.15327188, u'wine_bottle', 0.15178324, u'pop_bottle', 0.14982161, u'perfume', 0.13672358]
+[u'microphone', 0.19368428, u'electric_guitar', 0.14515513, u'pick', 0.093560144, u'remote_control', 0.053946558, u'lipstick', 0.05163084]
+[u'beer_bottle', 0.49172089, u'pop_bottle', 0.11644239, u'wine_bottle', 0.097243957, u'lighter', 0.08735133, u'perfume', 0.054496761]
+[u'cocktail_shaker', 0.35821906, u'perfume', 0.2323904, u'confectionery', 0.070516802, u'wine_bottle', 0.060469128, u'pop_bottle', 0.034173664]
+[u'sunscreen', 0.18193756, u'lotion', 0.15032418, u'wine_bottle', 0.075326957, u'hair_spray', 0.041190617, u'chocolate_sauce', 0.038702659]
+[u'clog', 0.75982344, u'sandal', 0.10900396, u'wooden_spoon', 0.049449187, u'shoe_shop', 0.047635067, u'Loafer', 0.017929267]

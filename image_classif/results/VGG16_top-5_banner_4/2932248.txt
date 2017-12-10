@@ -1,0 +1,2 @@
+[u'sundial', 0.16663396, u'face_powder', 0.16521315, u'magnetic_compass', 0.063641943, u'book_jacket', 0.052113976, u'barometer', 0.039947856]
+[u'poncho', 0.75422847, u'swab', 0.081748895, u'seashore', 0.02117807, u'sarong', 0.020838264, u'stole', 0.016183387]

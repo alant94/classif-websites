@@ -1,0 +1,4 @@
+[u'tobacco_shop', 0.13933003, u'toilet_seat', 0.081417106, u'mailbox', 0.065513007, u'ashcan', 0.036357328, u'slot', 0.03552841]
+[u'toilet_tissue', 0.27469414, u'golf_ball', 0.062022559, u'combination_lock', 0.054291211, u'slot', 0.048278946, u'paper_towel', 0.040751915]
+[u'web_site', 0.17431456, u'stopwatch', 0.15545654, u'pick', 0.14749762, u'remote_control', 0.051371161, u'dial_telephone', 0.050830755]
+[u'book_jacket', 0.60976201, u'comic_book', 0.14510353, u'jersey', 0.037283406, u'web_site', 0.010999366, u'sweatshirt', 0.008587704]

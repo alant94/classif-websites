@@ -1,0 +1,6 @@
+[u'jersey', 0.15851763, u'safety_pin', 0.12865975, u'Band_Aid', 0.092228562]
+[u'web_site', 0.40221703, u'rule', 0.12506734, u'slot', 0.091669969]
+[u'web_site', 0.89426184, u'envelope', 0.035734639, u'menu', 0.035658211]
+[u'web_site', 0.6776945, u'menu', 0.038249046, u'book_jacket', 0.021163922]
+[u'rule', 0.12501556, u'loupe', 0.1191064, u'guillotine', 0.11544949]
+[u'menu', 0.24184142, u'web_site', 0.18271904, u'grocery_store', 0.12901445]

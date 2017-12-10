@@ -1,0 +1,3 @@
+[u'church', 0.80744845, u'castle', 0.13994679, u'bell_cote', 0.047357503, u'barn', 0.0010085567, u'monastery', 0.00070170767]
+[u'running_shoe', 0.11527885, u'toilet_tissue', 0.058049161, u'poncho', 0.048306577, u'soccer_ball', 0.038786083, u'plastic_bag', 0.031133974]
+[u'book_jacket', 0.70437014, u'envelope', 0.04391855, u'carton', 0.029704029, u'scoreboard', 0.025351774, u'binder', 0.02428169]

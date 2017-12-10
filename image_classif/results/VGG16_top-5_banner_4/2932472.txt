@@ -1,0 +1,1 @@
+[u'screw', 0.29909557, u'switch', 0.16087687, u'screwdriver', 0.085134096, u'dumbbell', 0.055100642, u'syringe', 0.039126031]

@@ -1,0 +1,6 @@
+[u'oil_filter', 0.32848284, u'pill_bottle', 0.065264307, u'hook', 0.063318357]
+[u'nipple', 0.20793179, u'water_jug', 0.17323914, u'water_bottle', 0.16149575]
+[u'web_site', 0.63918883, u'rule', 0.066178948, u'envelope', 0.019468611]
+[u'web_site', 0.39567417, u'power_drill', 0.13132752, u'lighter', 0.046007819]
+[u'web_site', 0.8731451, u'cash_machine', 0.032234769, u'street_sign', 0.0052897292]
+[u'nipple', 0.4066247, u'hand_blower', 0.10128835, u'web_site', 0.048663843]

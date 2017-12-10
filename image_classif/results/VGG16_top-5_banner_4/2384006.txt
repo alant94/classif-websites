@@ -1,0 +1,6 @@
+[u'bottlecap', 0.99974126, u'analog_clock', 6.2598781e-05, u'wall_clock', 5.258678e-05, u'stopwatch', 3.0128491e-05, u'puck', 2.8744749e-05]
+[u'web_site', 0.38952053, u'envelope', 0.24740784, u'hair_slide', 0.044485446, u'binder', 0.023928657, u'pinwheel', 0.019816859]
+[u'street_sign', 0.24466479, u'digital_clock', 0.11420383, u'Band_Aid', 0.057397369, u'traffic_light', 0.049802374, u'hook', 0.036922231]
+[u'puck', 0.41066247, u'bottlecap', 0.10451673, u'buckle', 0.065332994, u'face_powder', 0.065028213, u'pick', 0.053636901]
+[u'sunscreen', 0.15396285, u'web_site', 0.074622065, u'envelope', 0.068128079, u'can_opener', 0.03769977, u'hair_spray', 0.030966466]
+[u'binder', 0.4416683, u'envelope', 0.24111396, u'wallet', 0.053991824, u'book_jacket', 0.050758611, u'cassette', 0.032440804]

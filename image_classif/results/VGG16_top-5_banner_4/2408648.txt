@@ -1,0 +1,4 @@
+[u'envelope', 0.050467715, u'bell_cote', 0.037496462, u'wall_clock', 0.034372628, u'analog_clock', 0.018937146, u'switch', 0.017540842]
+[u'binder', 0.082889847, u'monitor', 0.082000323, u'safe', 0.062826782, u'home_theater', 0.054876108, u'wallet', 0.047279321]
+[u'digital_clock', 0.24222474, u'envelope', 0.059012819, u'Band_Aid', 0.055278689, u'wall_clock', 0.038446013, u'traffic_light', 0.037710078]
+[u'safe', 0.083617069, u'wall_clock', 0.063535757, u'medicine_chest', 0.058915727, u'wardrobe', 0.055356417, u'doormat', 0.045238882]

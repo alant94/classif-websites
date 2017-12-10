@@ -1,0 +1,2 @@
+[u'chime', 0.20550026, u'spatula', 0.075501762, u'cleaver', 0.05856159, u'matchstick', 0.049179159, u'screwdriver', 0.042388171]
+[u'digital_clock', 0.33425704, u'Windsor_tie', 0.054496665, u'whistle', 0.04132754, u'Band_Aid', 0.039372202, u'scoreboard', 0.031457625]

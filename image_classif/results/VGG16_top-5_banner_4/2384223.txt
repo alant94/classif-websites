@@ -1,0 +1,1 @@
+[u'thresher', 0.39974123, u'oxcart', 0.32912311, u'garbage_truck', 0.072095983, u'barrel', 0.05668347, u'horse_cart', 0.040304881]

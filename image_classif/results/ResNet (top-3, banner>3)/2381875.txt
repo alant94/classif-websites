@@ -1,0 +1,6 @@
+[u'fountain', 0.67326212, u'iron', 0.075293019, u'sax', 0.029546436]
+[u'menu', 0.27313673, u'web_site', 0.15071692, u'envelope', 0.082910866]
+[u'book_jacket', 0.43126908, u'oscilloscope', 0.20573039, u'comic_book', 0.062512241]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'beer_glass', 0.98485595, u'beer_bottle', 0.0052301809, u'goblet', 0.0047514415]
+[u'goblet', 0.2706826, u'restaurant', 0.15103245, u'cocktail_shaker', 0.14566624]

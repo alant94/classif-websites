@@ -1,0 +1,2 @@
+[u'pitcher', 0.16085874, u'shower_curtain', 0.15012082, u'candle', 0.083405472]
+[u'bikini', 0.89350432, u'maillot', 0.015306136, u'sunscreen', 0.01146907]

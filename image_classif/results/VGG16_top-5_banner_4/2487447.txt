@@ -1,0 +1,5 @@
+[u'street_sign', 0.17279974, u'scoreboard', 0.10571673, u'book_jacket', 0.090134978, u'cash_machine', 0.038958628, u'hair_spray', 0.027720429]
+[u'mousetrap', 0.26109064, u'binder', 0.20231184, u'book_jacket', 0.09047617, u'window_screen', 0.031498574, u'cleaver', 0.031355731]
+[u'hammerhead', 0.37108165, u'book_jacket', 0.068750747, u'electric_ray', 0.049202964, u'jigsaw_puzzle', 0.044178415, u'tiger_shark', 0.038083415]
+[u'weevil', 0.41553792, u'ground_beetle', 0.075777337, u'African_chameleon', 0.073506877, u'isopod', 0.055807553, u'crayfish', 0.054012697]
+[u'speedboat', 0.2921738, u'lifeboat', 0.25492117, u'fireboat', 0.10223804, u'dock', 0.067551188, u'liner', 0.04724827]

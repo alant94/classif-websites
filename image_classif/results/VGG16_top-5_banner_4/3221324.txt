@@ -1,0 +1,5 @@
+[u'packet', 0.42510676, u'lotion', 0.13989486, u'mousetrap', 0.084408641, u'book_jacket', 0.063149735, u'face_powder', 0.057640079]
+[u'book_jacket', 0.31963661, u'tray', 0.094628774, u'packet', 0.084593073, u'envelope', 0.042043921, u'binder', 0.036885381]
+[u'lighter', 0.14344049, u'mousetrap', 0.14229856, u'quill', 0.043134905, u'scale', 0.041498221, u'perfume', 0.040983919]
+[u'mousetrap', 0.16541347, u'lighter', 0.14137922, u'quill', 0.047101285, u'perfume', 0.042926989, u'carton', 0.037377294]
+[u'web_site', 0.49504903, u'menu', 0.26243809, u'face_powder', 0.059822295, u'lotion', 0.03826097, u'brassiere', 0.018070446]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.77004981, u'comic_book', 0.22418578, u'jigsaw_puzzle', 0.002184083, u'web_site', 0.001635982, u'brass', 0.0005091065]
+[u'jean', 0.25858977, u'horizontal_bar', 0.13950191, u'bearskin', 0.065126799, u'crutch', 0.046366684, u'parallel_bars', 0.046323635]
+[u'jean', 0.52006096, u'pajama', 0.23961905, u'kimono', 0.032013834, u'stole', 0.025297919, u'suit', 0.02406933]

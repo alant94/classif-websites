@@ -1,0 +1,1 @@
+[u'cleaver', 0.018452406, u'envelope', 0.015400733, u'face_powder', 0.010780837, u'syringe', 0.010378566, u'red_wine', 0.0097941244]

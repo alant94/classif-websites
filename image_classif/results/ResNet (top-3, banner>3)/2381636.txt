@@ -1,0 +1,3 @@
+[u'web_site', 0.14423919, u'nematode', 0.096562512, u'matchstick', 0.028220737]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'organ', 0.67724752, u'panpipe', 0.32063419, u'chime', 0.00089956791]

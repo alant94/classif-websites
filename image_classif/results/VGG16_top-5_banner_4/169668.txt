@@ -1,0 +1,5 @@
+[u'microphone', 0.18197818, u'bow_tie', 0.066041835, u'cornet', 0.065793894, u'flute', 0.056704525, u'stage', 0.042932846]
+[u'mortarboard', 0.38866231, u'academic_gown', 0.33813584, u'ballplayer', 0.073326729, u'military_uniform', 0.021736944, u'bearskin', 0.01452381]
+[u'fountain', 0.9599883, u'jellyfish', 0.011280971, u'coil', 0.0061168787, u'volcano', 0.0049797785, u'fire_screen', 0.0048072687]
+[u'cliff_dwelling', 0.75890279, u'cliff', 0.10431754, u'dam', 0.026929891, u'conch', 0.0096790511, u'breakwater', 0.0094685331]
+[u'suit', 0.10335005, u'notebook', 0.076212123, u'trench_coat', 0.068264402, u'projectile', 0.066700414, u'cannon', 0.053861532]

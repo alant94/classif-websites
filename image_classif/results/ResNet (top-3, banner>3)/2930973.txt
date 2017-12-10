@@ -1,0 +1,4 @@
+[u'paper_towel', 0.14210996, u'toilet_tissue', 0.075715251, u'gong', 0.07160227]
+[u'web_site', 0.54534644, u'nipple', 0.030206475, u'analog_clock', 0.019296465]
+[u'quill', 0.24696568, u'marimba', 0.19244395, u'lab_coat', 0.040762007]
+[u'analog_clock', 0.40100801, u'drum', 0.065825671, u'wall_clock', 0.065808915]

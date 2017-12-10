@@ -1,0 +1,4 @@
+[u'monastery', 0.23099059, u'gondola', 0.13742961, u'palace', 0.11008595]
+[u'scoreboard', 0.51892745, u'comic_book', 0.09489996, u'book_jacket', 0.070073679]
+[u'knee_pad', 0.22581242, u'whistle', 0.20190334, u'switch', 0.078053497]
+[u'guillotine', 0.39030215, u'binder', 0.17049412, u'wallet', 0.09644758]

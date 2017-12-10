@@ -1,0 +1,5 @@
+[u'buckle', 0.16857558, u'coffee_mug', 0.11625688, u'cash_machine', 0.10791667]
+[u'perfume', 0.1568875, u'lotion', 0.097028978, u'mailbag', 0.058289971]
+[u'iPod', 0.19550408, u'cash_machine', 0.088358074, u'mouse', 0.080546901]
+[u'cash_machine', 0.16416489, u'street_sign', 0.091602728, u'book_jacket', 0.06408827]
+[u'toilet_seat', 0.14252181, u'cash_machine', 0.1252761, u'vending_machine', 0.095036566]

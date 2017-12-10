@@ -1,0 +1,4 @@
+[u'bearskin', 0.15020941, u'ski_mask', 0.10442875, u'trench_coat', 0.055221494]
+[u'football_helmet', 0.99938715, u'crash_helmet', 0.00059898698, u'go-kart', 1.3607432e-06]
+[u'football_helmet', 0.53261346, u'toyshop', 0.10514279, u'bearskin', 0.038571391]
+[u'restaurant', 0.49670851, u'library', 0.20707214, u'theater_curtain', 0.05784424]

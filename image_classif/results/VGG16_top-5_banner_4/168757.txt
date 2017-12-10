@@ -1,0 +1,4 @@
+[u'picket_fence', 0.13753258, u'candle', 0.10541368, u'bell_cote', 0.079639278, u'torch', 0.063635789, u'space_shuttle', 0.034608986]
+[u'puck', 0.7675615, u'face_powder', 0.093326919, u'pick', 0.0411341, u'sunscreen', 0.006723172, u'knee_pad', 0.0065335431]
+[u'torch', 0.67626035, u'space_shuttle', 0.072244383, u'stove', 0.069881491, u'missile', 0.027729552, u'lampshade', 0.019118408]
+[u'lampshade', 0.12634957, u'binder', 0.050673295, u'loudspeaker', 0.041145995, u'table_lamp', 0.026008874, u'fire_screen', 0.025106197]

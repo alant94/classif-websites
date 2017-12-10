@@ -1,0 +1,5 @@
+[u'stage', 0.61466372, u'kimono', 0.17338395, u'theater_curtain', 0.021750081]
+[u'web_site', 0.2744213, u'digital_clock', 0.056832112, u'matchstick', 0.033739448]
+[u'oboe', 0.25210238, u'stage', 0.12041552, u'restaurant', 0.09604612]
+[u'volleyball', 0.55621135, u'horizontal_bar', 0.19439279, u'parallel_bars', 0.17360251]
+[u'cinema', 0.18344171, u'marimba', 0.18100223, u'theater_curtain', 0.12768394]

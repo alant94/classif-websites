@@ -1,0 +1,5 @@
+[u'caldron', 0.041396022, u'breastplate', 0.041278526, u'vase', 0.040778417, u'cuirass', 0.034925364, u'wall_clock', 0.034210037]
+[u'fur_coat', 0.99679488, u'panpipe', 0.00018438823, u'cloak', 0.00013339428, u'Arabian_camel', 0.00012882493, u'macaque', 0.0001153795]
+[u'triumphal_arch', 0.44544223, u'fountain', 0.053984139, u'palace', 0.049315576, u'maze', 0.038162529, u'obelisk', 0.035344388]
+[u'fountain', 0.071824551, u'cornet', 0.053862736, u'altar', 0.051062688, u'wall_clock', 0.040614668, u'monastery', 0.039894726]
+[u'fur_coat', 0.68612808, u'fountain', 0.11670791, u'pedestal', 0.012614863, u'Sussex_spaniel', 0.010666975, u'macaque', 0.0094558699]

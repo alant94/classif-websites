@@ -1,0 +1,1 @@
+[u'espresso', 0.61005425, u'coffee_mug', 0.10962775, u'chocolate_sauce', 0.10190538, u'cup', 0.099224962, u'consomme', 0.033878896]

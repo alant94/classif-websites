@@ -1,0 +1,2 @@
+[u'jeep', 0.27809039, u'minivan', 0.11316769, u'amphibian', 0.071526058, u'breakwater', 0.04837222, u'sports_car', 0.040904444]
+[u'ski', 0.55713552, u'alp', 0.049379528, u'scuba_diver', 0.038575627, u'snowmobile', 0.024043765, u'ski_mask', 0.020907659]

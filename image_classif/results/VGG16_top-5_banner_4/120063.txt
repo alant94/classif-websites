@@ -1,0 +1,3 @@
+[u'shield', 0.22825354, u'throne', 0.19241893, u"jack-o'-lantern", 0.085578837, u'vestment', 0.045629598, u'theater_curtain', 0.035080962]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]
+[u'coil', 0.17486237, u'stove', 0.15428798, u'Dutch_oven', 0.14818399, u'caldron', 0.046942808, u'sundial', 0.044989001]

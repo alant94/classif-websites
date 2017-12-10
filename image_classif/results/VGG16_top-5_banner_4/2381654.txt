@@ -1,0 +1,4 @@
+[u'perfume', 0.26347184, u'red_wine', 0.15785404, u'quill', 0.096628226, u'book_jacket', 0.056664862, u'wine_bottle', 0.037553437]
+[u'menu', 0.22547539, u'crossword_puzzle', 0.096012965, u'web_site', 0.037038151, u'book_jacket', 0.013789887, u'hard_disc', 0.013615563]
+[u'microwave', 0.25026217, u'Crock_Pot', 0.19540259, u'stove', 0.1422109, u'espresso_maker', 0.064767599, u'rotisserie', 0.058934517]
+[u'menu', 0.15018924, u'crossword_puzzle', 0.097842842, u'web_site', 0.035697028, u'hard_disc', 0.018730976, u'brass', 0.015883822]

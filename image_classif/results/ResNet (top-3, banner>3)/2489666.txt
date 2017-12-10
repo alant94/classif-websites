@@ -1,0 +1,2 @@
+[u'prayer_rug', 0.15036251, u'paper_towel', 0.064524844, u'toilet_seat', 0.053423762]
+[u'pick', 0.26999322, u'face_powder', 0.087133721, u'toilet_seat', 0.075209267]

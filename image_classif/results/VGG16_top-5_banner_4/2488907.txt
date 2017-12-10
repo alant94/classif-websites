@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.20735808, u'envelope', 0.083964206, u'web_site', 0.062653691, u'face_powder', 0.036343105, u'knee_pad', 0.036277708]
+[u'envelope', 0.04941795, u'web_site', 0.038872913, u'Band_Aid', 0.026293112, u'face_powder', 0.021007417, u'stole', 0.011890305]
+[u'web_site', 0.087997578, u'envelope', 0.070322767, u'Band_Aid', 0.020505728, u'brassiere', 0.020414222, u'face_powder', 0.015231304]

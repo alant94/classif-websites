@@ -1,0 +1,6 @@
+[u'oboe', 0.50311124, u'bassoon', 0.39606953, u'flute', 0.048820376]
+[u'comic_book', 0.13707666, u'hatchet', 0.11698262, u'rifle', 0.083723791]
+[u'oboe', 0.30818623, u'bassoon', 0.20311767, u'bearskin', 0.11325866]
+[u'web_site', 0.32463217, u'jellyfish', 0.32454643, u'shower_cap', 0.1488561]
+[u'web_site', 0.25773498, u'pill_bottle', 0.022416675, u'oil_filter', 0.021814125]
+[u'wig', 0.84237111, u'maillot', 0.01305281, u'marimba', 0.012289451]

@@ -1,0 +1,5 @@
+[u'book_jacket', 0.22779086, u'barbershop', 0.17408377, u'theater_curtain', 0.11613179]
+[u'lakeside', 0.27983674, u'patio', 0.12039106, u'pot', 0.092667334]
+[u'valley', 0.23732342, u'lakeside', 0.18452387, u'cliff', 0.12636311]
+[u'wine_bottle', 0.87132543, u'beer_bottle', 0.060550183, u'pop_bottle', 0.028976783]
+[u'web_site', 0.41974872, u'cleaver', 0.018855242, u'neck_brace', 0.013157597]

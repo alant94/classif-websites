@@ -1,0 +1,1 @@
+[u'bikini', 0.73236972, u'brassiere', 0.11107522, u'maillot', 0.047848638, u'volleyball', 0.025627632, u'bathing_cap', 0.021023154]

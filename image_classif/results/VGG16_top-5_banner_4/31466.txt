@@ -1,0 +1,8 @@
+[u'chime', 0.30050829, u'picket_fence', 0.11565888, u'totem_pole', 0.084837705, u'birdhouse', 0.084562421, u'pole', 0.050457343]
+[u'mask', 0.36077389, u'ocarina', 0.33746725, u'piggy_bank', 0.10240465, u'saltshaker', 0.030249489, u'vase', 0.025788767]
+[u'spindle', 0.17304128, u'plate', 0.13659573, u'guacamole', 0.13506731, u'toilet_seat', 0.078568049, u'tray', 0.049930699]
+[u'barbershop', 0.23142938, u'bubble', 0.067798443, u'cellular_telephone', 0.057911888, u'microphone', 0.05104544, u'hair_spray', 0.04816822]
+[u'Rhodesian_ridgeback', 0.54457462, u'redbone', 0.26302737, u'malinois', 0.13140354, u'bloodhound', 0.022366408, u'vizsla', 0.0086939158]
+[u'American_Staffordshire_terrier', 0.89522851, u'boxer', 0.030446112, u'Staffordshire_bullterrier', 0.015593003, u'Weimaraner', 0.014388448, u'Great_Dane', 0.0074729761]
+[u'tub', 0.71621221, u'bathtub', 0.1555763, u'canoe', 0.073184662, u'paddle', 0.011763787, u'barrel', 0.0061836983]
+[u'poncho', 0.069993801, u'mask', 0.058560647, u'wig', 0.052955613, u'sweatshirt', 0.041016396, u'plastic_bag', 0.0349974]

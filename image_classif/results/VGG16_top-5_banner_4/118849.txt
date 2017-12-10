@@ -1,0 +1,3 @@
+[u'envelope', 0.089076608, u'wall_clock', 0.062527701, u'parachute', 0.024200292, u'matchstick', 0.017965132, u'hook', 0.017956778]
+[u'web_site', 0.33443192, u'pill_bottle', 0.10344545, u'water_bottle', 0.093492344, u'lotion', 0.035580575, u'hair_spray', 0.033377904]
+[u'envelope', 0.15502965, u'web_site', 0.049297508, u'wall_clock', 0.018947925, u'matchstick', 0.013610962, u'wardrobe', 0.011746227]

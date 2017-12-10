@@ -1,0 +1,2 @@
+[u'wig', 0.84524971, u'feather_boa', 0.065318108, u'hair_spray', 0.039987527, u'lipstick', 0.0068725515, u'perfume', 0.0047938991]
+[u'web_site', 0.23468734, u'macaque', 0.10792051, u'jigsaw_puzzle', 0.068791509, u'book_jacket', 0.058859553, u'balance_beam', 0.047969263]

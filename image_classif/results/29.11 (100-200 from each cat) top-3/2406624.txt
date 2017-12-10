@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.73250425, u'picket_fence', 0.17685959, u'ballpoint', 0.065656714]
+[u'screwdriver', 0.17744525, u'rule', 0.15636507, u'syringe', 0.14627992]
+[u'Band_Aid', 0.13338128, u'whistle', 0.13257813, u'barbershop', 0.12365799]
+[u'corkscrew', 0.56249613, u'can_opener', 0.273862, u'chain_saw', 0.074764811]
+[u'ballpoint', 0.9180575, u'syringe', 0.029926168, u'rubber_eraser', 0.022553874]
+[u'cassette_player', 0.60038102, u'cassette', 0.10992226, u'spotlight', 0.088144273]

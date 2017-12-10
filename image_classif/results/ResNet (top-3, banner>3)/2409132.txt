@@ -1,0 +1,8 @@
+[u'whistle', 0.40670434, u'Band_Aid', 0.25450787, u'pill_bottle', 0.058538646]
+[u'lakeside', 0.51366365, u'barn', 0.074318305, u'fountain', 0.071582884]
+[u'lakeside', 0.50937736, u'promontory', 0.23401557, u'geyser', 0.036890339]
+[u'whistle', 0.13172857, u'web_site', 0.10989071, u'ambulance', 0.056962993]
+[u'whistle', 0.28748304, u'lighter', 0.11356791, u'guillotine', 0.053560589]
+[u'tailed_frog', 0.5232749, u'cheetah', 0.10057202, u'common_newt', 0.084200092]
+[u'envelope', 0.15303564, u'web_site', 0.096701115, u'whistle', 0.087885454]
+[u'lakeside', 0.38288397, u'fountain', 0.1245656, u'promontory', 0.059735484]

@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.20212162, u'paper_towel', 0.096225463, u'toilet_seat', 0.063081197]
+[u'web_site', 0.39809602, u'digital_clock', 0.061200313, u'wall_clock', 0.045382161]
+[u'digital_clock', 0.37373847, u'envelope', 0.11001721, u'web_site', 0.070370063]

@@ -1,0 +1,2 @@
+[u'barrel', 0.92990893, u'plate_rack', 0.028211484, u'spotlight', 0.0096668303, u'projector', 0.0039035666, u'reel', 0.0023911777]
+[u'ski', 0.4838644, u'cleaver', 0.10061175, u'screwdriver', 0.067402877, u'bow', 0.063058153, u"carpenter's_kit", 0.039717857]

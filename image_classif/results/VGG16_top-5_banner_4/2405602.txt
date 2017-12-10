@@ -1,0 +1,7 @@
+[u'space_bar', 0.33128211, u'computer_keyboard', 0.25253838, u'typewriter_keyboard', 0.21921672, u'abacus', 0.064164236, u"carpenter's_kit", 0.037164994]
+[u'fountain', 0.95063055, u'oscilloscope', 0.013192094, u'stage', 0.011814056, u'suspension_bridge', 0.0049586454, u'spotlight', 0.0046156887]
+[u'microphone', 0.80894881, u'radio', 0.18808649, u'modem', 0.0026061647, u'joystick', 0.00010966881, u'screwdriver', 3.651949e-05]
+[u'packet', 0.70306683, u'Band_Aid', 0.069657072, u'oil_filter', 0.02407586, u'ski', 0.0097943908, u'paper_towel', 0.0093708942]
+[u'tripod', 0.24701332, u'binoculars', 0.17775013, u'microphone', 0.14017572, u'turnstile', 0.062065542, u'power_drill', 0.061404027]
+[u'whistle', 0.17799236, u'hand_blower', 0.073720783, u'hair_spray', 0.069269188, u'lighter', 0.064152241, u'web_site', 0.042393874]
+[u'packet', 0.29260489, u'menu', 0.22822456, u'web_site', 0.069973812, u'comic_book', 0.059521228, u'confectionery', 0.050616857]

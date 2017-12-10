@@ -1,0 +1,2 @@
+[u'miniskirt', 0.39899158, u'neck_brace', 0.10775727, u'feather_boa', 0.066014521, u'maillot', 0.052363463, u'brassiere', 0.046693955]
+[u'miniskirt', 0.48893949, u'maillot', 0.065286748, u'neck_brace', 0.04116771, u'bikini', 0.040873528, u'pole', 0.040400185]

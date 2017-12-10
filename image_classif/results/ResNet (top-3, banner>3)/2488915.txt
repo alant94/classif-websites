@@ -1,0 +1,5 @@
+[u'sax', 0.47333309, u'cornet', 0.16576697, u'banjo', 0.041249994]
+[u'thresher', 0.083708458, u'plastic_bag', 0.073737808, u'hen-of-the-woods', 0.039961111]
+[u'half_track', 0.094691485, u'jeep', 0.081036843, u'German_shepherd', 0.078180879]
+[u'carton', 0.19590336, u'comic_book', 0.098766685, u'puck', 0.094431229]
+[u'shield', 0.22830807, u'Band_Aid', 0.10938598, u'prayer_rug', 0.082976118]

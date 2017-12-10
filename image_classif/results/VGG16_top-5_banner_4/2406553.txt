@@ -1,0 +1,6 @@
+[u'bassoon', 0.15587585, u'oboe', 0.059694022, u'gondola', 0.051464446, u'monastery', 0.049729701, u'ski', 0.040395431]
+[u'prison', 0.15005539, u'swab', 0.064076655, u'broom', 0.057773687, u'crutch', 0.057114571, u'bassoon', 0.04365585]
+[u'gown', 0.18946992, u'stole', 0.093657114, u'velvet', 0.081166722, u'jean', 0.075645387, u'abaya', 0.044040281]
+[u'abaya', 0.79293221, u'overskirt', 0.056254476, u'gown', 0.047991574, u'cloak', 0.022305517, u'stole', 0.020293217]
+[u'parking_meter', 0.31115484, u'crutch', 0.29257455, u'mailbox', 0.045962047, u'unicycle', 0.037097789, u'shopping_cart', 0.026482549]
+[u'fur_coat', 0.11808602, u'crutch', 0.10597385, u'umbrella', 0.081066735, u'unicycle', 0.080980189, u'parking_meter', 0.069036528]

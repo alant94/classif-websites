@@ -1,0 +1,1 @@
+[u'gazelle', 0.39511517, u'impala', 0.26755491, u'whippet', 0.12961513, u'Italian_greyhound', 0.090077139, u'basenji', 0.014258017]

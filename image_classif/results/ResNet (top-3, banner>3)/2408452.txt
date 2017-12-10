@@ -1,0 +1,3 @@
+[u'convertible', 0.72769564, u'pickup', 0.15805689, u'beach_wagon', 0.023331672]
+[u'convertible', 0.40380454, u'grille', 0.36877227, u'beach_wagon', 0.065205932]
+[u'convertible', 0.9758932, u'beach_wagon', 0.011427772, u'grille', 0.0068138195]

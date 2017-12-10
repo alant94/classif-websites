@@ -1,0 +1,4 @@
+[u'prison', 0.05677684, u'container_ship', 0.054563075, u'dining_table', 0.047088981, u'dumbbell', 0.042939659, u'wine_bottle', 0.038679816]
+[u'fountain', 0.11996882, u'standard_poodle', 0.046441633, u'geyser', 0.035528474, u'Scotch_terrier', 0.032709457, u'Irish_terrier', 0.02899101]
+[u'refrigerator', 0.26166692, u'window_shade', 0.080958493, u'sliding_door', 0.063653618, u'dishwasher', 0.059400458, u'medicine_chest', 0.050741322]
+[u'panpipe', 0.16442493, u'face_powder', 0.081380829, u'stole', 0.052604709, u'fur_coat', 0.04533964, u'mitten', 0.027932052]

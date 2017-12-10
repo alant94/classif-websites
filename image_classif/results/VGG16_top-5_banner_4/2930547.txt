@@ -1,0 +1,3 @@
+[u'envelope', 0.099366501, u'carton', 0.094160758, u'candle', 0.075278945, u'mousetrap', 0.024752542, u'lighter', 0.021700865]
+[u'street_sign', 0.18392234, u'hook', 0.042022299, u'hatchet', 0.025822574, u'envelope', 0.018925047, u'microphone', 0.017482471]
+[u'butcher_shop', 0.95276272, u'shower_curtain', 0.0077344496, u'cleaver', 0.0040810234, u'wig', 0.0026490097, u'fur_coat', 0.0024272564]

@@ -1,0 +1,4 @@
+[u'cardigan', 0.16931991, u'crossword_puzzle', 0.13519228, u'apron', 0.059827603]
+[u'barn', 0.20104793, u'hay', 0.074660763, u'pole', 0.055152468]
+[u'snorkel', 0.89187634, u'bathing_cap', 0.089418478, u'swimming_trunks', 0.0034594282]
+[u'grand_piano', 0.38476092, u'suit', 0.13936606, u'sax', 0.081331588]

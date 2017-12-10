@@ -1,0 +1,3 @@
+[u'accordion', 0.9334023, u'oil_filter', 0.017406531, u'fire_screen', 0.006095048]
+[u'stethoscope', 0.4147, u'hook', 0.10103721, u'oxygen_mask', 0.076596871]
+[u'puck', 0.15683836, u'sunscreen', 0.12466083, u'oil_filter', 0.11012732]

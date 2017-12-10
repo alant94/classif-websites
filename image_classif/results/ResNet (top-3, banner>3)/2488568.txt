@@ -1,0 +1,7 @@
+[u'electric_fan', 0.64355457, u'shield', 0.050290935, u'pitcher', 0.04383029]
+[u'lumbermill', 0.36942437, u'patio', 0.1554637, u'boathouse', 0.094805114]
+[u'puck', 0.66276664, u'bolo_tie', 0.088781953, u'drum', 0.034120042]
+[u'boathouse', 0.66469985, u'barn', 0.11646486, u'mobile_home', 0.085061699]
+[u'boathouse', 0.88419116, u'barn', 0.047199801, u'church', 0.015273228]
+[u'boathouse', 0.45061338, u'barn', 0.24404493, u'lumbermill', 0.088387974]
+[u'mountain_tent', 0.21295267, u'barn', 0.13081515, u'suspension_bridge', 0.064537235]

@@ -1,0 +1,5 @@
+[u'cash_machine', 0.048169687, u'traffic_light', 0.029444769, u'desk', 0.026374605, u'patio', 0.025144225, u'cinema', 0.024292234]
+[u'spotlight', 0.36357999, u'strainer', 0.10663137, u'electric_fan', 0.08477518, u'bottlecap', 0.080803521, u'bolo_tie', 0.080204152]
+[u'groom', 0.1226551, u'picket_fence', 0.10959166, u'greenhouse', 0.076274768, u'lab_coat', 0.036936499, u'suit', 0.029456152]
+[u'scale', 0.11969201, u'radio_telescope', 0.099614635, u'hook', 0.085809693, u'analog_clock', 0.046742793, u'stopwatch', 0.040272329]
+[u'puck', 0.32605037, u'face_powder', 0.11113121, u'bottlecap', 0.073162034, u'chocolate_sauce', 0.044290248, u'whiskey_jug', 0.043823123]

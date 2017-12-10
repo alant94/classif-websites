@@ -1,0 +1,6 @@
+[u'cliff', 0.19651346, u'fountain', 0.14567892, u'geyser', 0.092086963, u'parachute', 0.055182014, u'spotlight', 0.030577777]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'ice_lolly', 0.49471924, u'bubble', 0.047775332, u'groom', 0.032926489, u'ear', 0.032722842, u'sunscreen', 0.021207999]
+[u'fountain', 0.32736787, u'American_egret', 0.10789061, u'lakeside', 0.04909132, u'American_alligator', 0.047751181, u'redshank', 0.029552542]
+[u'Band_Aid', 0.077762142, u'bath_towel', 0.022901295, u'burrito', 0.021116594, u'handkerchief', 0.018242309, u'syringe', 0.018126534]
+[u'walking_stick', 0.15149619, u'starfish', 0.13077997, u'crayfish', 0.047023844, u'mantis', 0.040766131, u'slug', 0.039338145]

@@ -1,0 +1,1 @@
+[u'tile_roof', 0.20095339, u'coil', 0.15805629, u'totem_pole', 0.14354315, u'comic_book', 0.10244957, u'jigsaw_puzzle', 0.047537096]

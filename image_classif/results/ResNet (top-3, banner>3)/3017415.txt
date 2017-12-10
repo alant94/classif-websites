@@ -1,0 +1,8 @@
+[u'web_site', 0.64151865, u'digital_clock', 0.093867131, u'screen', 0.042577658]
+[u'web_site', 0.8586269, u'screen', 0.017902635, u'television', 0.01458985]
+[u'web_site', 0.88800561, u'book_jacket', 0.068864577, u'West_Highland_white_terrier', 0.0065291356]
+[u'envelope', 0.650298, u'Band_Aid', 0.1485568, u'binder', 0.014999562]
+[u'comic_book', 0.59240639, u'binder', 0.047105052, u'book_jacket', 0.024921909]
+[u'pick', 0.12592642, u'nail', 0.067775704, u'hook', 0.05833197]
+[u'comic_book', 0.28718108, u'packet', 0.19940792, u'book_jacket', 0.1134331]
+[u'comic_book', 0.67700446, u'menu', 0.25728977, u'packet', 0.012114712]

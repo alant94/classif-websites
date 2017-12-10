@@ -1,0 +1,4 @@
+[u'bulletproof_vest', 0.18391824, u'guillotine', 0.088064685, u'military_uniform', 0.078396901]
+[u'mask', 0.15223055, u'comic_book', 0.088346176, u'flute', 0.074245386]
+[u'academic_gown', 0.32653666, u'mortarboard', 0.30225521, u'bathing_cap', 0.044163615]
+[u"potter's_wheel", 0.11633576, u'prison', 0.099626087, u'tench', 0.034594242]

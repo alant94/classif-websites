@@ -1,0 +1,6 @@
+[u'container_ship', 0.60834348, u'medicine_chest', 0.13628067, u'web_site', 0.045666266]
+[u'web_site', 0.36579868, u'drilling_platform', 0.11079361, u'crane', 0.066383474]
+[u'sunscreen', 0.19026878, u'pill_bottle', 0.13418064, u'spotlight', 0.12730236]
+[u'pick', 0.11940123, u'bow', 0.11010829, u'plate_rack', 0.081750192]
+[u'nail', 0.12738268, u'binder', 0.099536277, u'ballpoint', 0.060238753]
+[u'Band_Aid', 0.68575579, u'whistle', 0.063804083, u'ski', 0.056498777]

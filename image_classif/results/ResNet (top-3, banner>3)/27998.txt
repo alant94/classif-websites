@@ -1,0 +1,2 @@
+[u'convertible', 0.735888, u'sports_car', 0.076019637, u'car_wheel', 0.054642055]
+[u'sports_car', 0.62552762, u'car_wheel', 0.13330579, u'convertible', 0.12362241]

@@ -1,0 +1,2 @@
+[u'library', 0.34152925, u'tobacco_shop', 0.17993741, u'bookshop', 0.066955633, u'container_ship', 0.030144535, u'bakery', 0.023915421]
+[u'brassiere', 0.17536563, u'comic_book', 0.17423804, u'perfume', 0.091093093, u'pinwheel', 0.085625224, u'mask', 0.061435144]

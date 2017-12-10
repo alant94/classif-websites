@@ -1,0 +1,5 @@
+[u'gown', 0.2363313, u'hoopskirt', 0.1228839, u'balance_beam', 0.098634161, u'miniskirt', 0.041813549, u'candle', 0.034118682]
+[u'web_site', 0.37972626, u'tripod', 0.19666131, u'analog_clock', 0.065044776, u'envelope', 0.026760826, u'wall_clock', 0.01683275]
+[u'plastic_bag', 0.45789304, u'beer_glass', 0.0342278, u'whiskey_jug', 0.033095688, u'packet', 0.031811215, u'geyser', 0.024029788]
+[u'web_site', 0.20316739, u'screwdriver', 0.051421184, u'book_jacket', 0.041225351, u'oil_filter', 0.036691964, u'syringe', 0.035802841]
+[u'matchstick', 0.082108751, u'pick', 0.039437298, u'spotlight', 0.027387314, u'microphone', 0.02660732, u'lighter', 0.026235363]

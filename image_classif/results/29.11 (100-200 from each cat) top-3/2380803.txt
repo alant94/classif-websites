@@ -1,0 +1,3 @@
+[u'swing', 0.15217467, u'greenhouse', 0.14953785, u'lawn_mower', 0.069159456]
+[u'bicycle-built-for-two', 0.42934132, u'tricycle', 0.25897077, u'mountain_bike', 0.18375848]
+[u'grocery_store', 0.15353891, u'llama', 0.12750961, u'paintbrush', 0.068528585]

@@ -1,0 +1,5 @@
+[u'bassoon', 0.21724226, u'crane', 0.18581697, u'bow', 0.13792557, u'hook', 0.062666841, u'long-horned_beetle', 0.041664887]
+[u'swing', 0.18468899, u'crane', 0.17450851, u'hook', 0.12867108, u'bow', 0.081260793, u'chain', 0.034880254]
+[u'electric_guitar', 0.15414314, u'scorpion', 0.1522468, u'chain_saw', 0.14867535, u'crane', 0.064315155, u'bow', 0.062085927]
+[u'bow', 0.17291023, u'electric_guitar', 0.15108114, u'crane', 0.099847689, u'chain_saw', 0.090912186, u'bassoon', 0.050558429]
+[u'electric_guitar', 0.48520565, u'acoustic_guitar', 0.34418079, u'pick', 0.0830203, u'violin', 0.039131917, u'banjo', 0.012927678]

@@ -1,0 +1,5 @@
+[u'envelope', 0.21190614, u'street_sign', 0.0649435, u'digital_clock', 0.057735261]
+[u'coil', 0.19347452, u'knot', 0.12501188, u'sea_urchin', 0.099747553]
+[u'envelope', 0.12966974, u'web_site', 0.12611023, u'binder', 0.072278805]
+[u'web_site', 0.10724046, u'jersey', 0.068922535, u'analog_clock', 0.041998312]
+[u'jersey', 0.14461663, u'binder', 0.082590111, u'theater_curtain', 0.054367147]

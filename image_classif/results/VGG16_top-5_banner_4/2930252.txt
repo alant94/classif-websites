@@ -1,0 +1,1 @@
+[u'swing', 0.23602882, u'park_bench', 0.05012989, u'balance_beam', 0.029348345, u'television', 0.028743954, u'parallel_bars', 0.028139932]

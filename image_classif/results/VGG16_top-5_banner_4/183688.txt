@@ -1,0 +1,7 @@
+[u'iPod', 0.86581248, u'digital_clock', 0.08821968, u'remote_control', 0.007105656, u'analog_clock', 0.0069138282, u'digital_watch', 0.0049443524]
+[u'lipstick', 0.50140905, u'hair_spray', 0.16788422, u'dial_telephone', 0.041941606, u'cellular_telephone', 0.029218648, u'syringe', 0.021942081]
+[u'iPod', 0.58006459, u'digital_clock', 0.055425555, u'book_jacket', 0.033817884, u'web_site', 0.031698808, u'envelope', 0.022706483]
+[u'book_jacket', 0.23085406, u'perfume', 0.18419831, u'face_powder', 0.12184614, u'iPod', 0.06267073, u'digital_clock', 0.048151277]
+[u'iPod', 0.71121091, u'binder', 0.089052953, u'book_jacket', 0.029482273, u'envelope', 0.022994563, u'web_site', 0.020531893]
+[u'wig', 0.72653908, u'fur_coat', 0.17888291, u'feather_boa', 0.064675115, u'gown', 0.0067501524, u'bow_tie', 0.0048154709]
+[u'bubble', 0.45908335, u'whistle', 0.12318117, u'hair_spray', 0.11355256, u'ice_lolly', 0.11066093, u'wig', 0.03299699]

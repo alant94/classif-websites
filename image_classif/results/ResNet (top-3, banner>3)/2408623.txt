@@ -1,0 +1,4 @@
+[u'hook', 0.10622238, u'ladle', 0.095379435, u'whistle', 0.085983768]
+[u'bathing_cap', 0.42475426, u'maillot', 0.22682376, u'swimming_trunks', 0.044901878]
+[u'spider_monkey', 0.44982532, u'hand_blower', 0.29789907, u'black-footed_ferret', 0.031585857]
+[u'spotlight', 0.1827637, u'hook', 0.12297822, u'loupe', 0.095050499]

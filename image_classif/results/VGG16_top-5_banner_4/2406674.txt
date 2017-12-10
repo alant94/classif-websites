@@ -1,0 +1,8 @@
+[u'safe', 0.68344414, u'cash_machine', 0.078922085, u'combination_lock', 0.057794679, u'pay-phone', 0.028692987, u'oscilloscope', 0.023169883]
+[u'digital_clock', 0.21773875, u'buckle', 0.2034847, u"jack-o'-lantern", 0.15028925, u'space_heater', 0.040838011, u'soccer_ball', 0.026807263]
+[u'mobile_home', 0.11622421, u'boathouse', 0.10481504, u'digital_clock', 0.093075052, u'toilet_seat', 0.04353166, u'scale', 0.040262926]
+[u'cassette', 0.16570021, u'buckle', 0.13240591, u'CD_player', 0.084729992, u'toilet_seat', 0.080039404, u'cassette_player', 0.044474244]
+[u'digital_clock', 0.08637654, u'fire_engine', 0.068196468, u'sewing_machine', 0.04573397, u'bottlecap', 0.039002024, u'racer', 0.035205331]
+[u'toilet_seat', 0.19121481, u"jack-o'-lantern", 0.088075608, u'safe', 0.068722352, u'ping-pong_ball', 0.049005963, u'microwave', 0.028385341]
+[u'plate_rack', 0.80418491, u'accordion', 0.034935165, u'nail', 0.018464573, u'chime', 0.015362276, u'hair_slide', 0.013965665]
+[u'web_site', 0.95355672, u'monitor', 0.017037304, u'binder', 0.0084253224, u'envelope', 0.0080884174, u'screen', 0.0014129627]

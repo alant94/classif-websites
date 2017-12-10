@@ -1,0 +1,2 @@
+[u'refrigerator', 0.13591124, u'binder', 0.11123505, u'switch', 0.091760918, u'slot', 0.052692808, u'vending_machine', 0.046543874]
+[u'screwdriver', 0.59183633, u"carpenter's_kit", 0.12563066, u'ballpoint', 0.076710984, u'lipstick', 0.020063309, u'rubber_eraser', 0.019739771]

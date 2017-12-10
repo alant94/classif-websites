@@ -1,0 +1,4 @@
+[u'iPod', 0.29061252, u'lighter', 0.094524138, u'binder', 0.064952046]
+[u'jigsaw_puzzle', 0.75634533, u'web_site', 0.1213783, u'lakeside', 0.020602483]
+[u'screen', 0.18071851, u'laptop', 0.096389823, u'iPod', 0.080005743]
+[u'web_site', 0.61279672, u'book_jacket', 0.041364133, u'Band_Aid', 0.022745784]

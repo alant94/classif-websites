@@ -1,0 +1,4 @@
+[u'digital_clock', 0.25401866, u'tray', 0.12326642, u'traffic_light', 0.051974218, u'street_sign', 0.039353404, u'book_jacket', 0.035696294]
+[u'scoreboard', 0.68942183, u'digital_clock', 0.15599035, u'racer', 0.021844642, u'balance_beam', 0.018235927, u'parallel_bars', 0.013809445]
+[u'shower_curtain', 0.087808289, u'washbasin', 0.034235507, u'space_shuttle', 0.022277977, u'window_shade', 0.021399967, u'cash_machine', 0.020890586]
+[u'swab', 0.1318423, u'broom', 0.075860664, u'mosquito_net', 0.063793361, u'candle', 0.06005951, u'dam', 0.039518736]

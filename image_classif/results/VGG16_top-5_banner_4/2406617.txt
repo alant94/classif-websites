@@ -1,0 +1,2 @@
+[u'flagpole', 0.053939916, u'macaw', 0.025328912, u'coil', 0.022782883, u'matchstick', 0.02140704, u'totem_pole', 0.01767589]
+[u'knot', 0.36170265, u'shopping_basket', 0.19240923, u'hamper', 0.10890173, u'coil', 0.034335524, u'pretzel', 0.0324529]

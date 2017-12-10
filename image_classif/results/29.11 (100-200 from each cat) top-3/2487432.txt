@@ -1,0 +1,5 @@
+[u'fountain', 0.77657384, u'jigsaw_puzzle', 0.052580275, u'monitor', 0.018756676]
+[u'hog', 0.33705416, u'wild_boar', 0.15733646, u'Sussex_spaniel', 0.061782598]
+[u'American_black_bear', 0.87079108, u'coyote', 0.035893921, u'groenendael', 0.014297849]
+[u'iron', 0.054013714, u'plate_rack', 0.041550335, u'jersey', 0.032483883]
+[u'whistle', 0.33487368, u'web_site', 0.15695378, u'envelope', 0.027134443]

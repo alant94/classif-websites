@@ -1,0 +1,1 @@
+[u'envelope', 0.11983246, u'web_site', 0.057075169, u'book_jacket', 0.022163562, u'digital_clock', 0.01851937, u'wall_clock', 0.018110074]

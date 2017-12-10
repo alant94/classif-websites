@@ -1,0 +1,3 @@
+[u'mask', 0.26804724, u'toilet_seat', 0.095610559, u'guinea_pig', 0.05418665]
+[u'book_jacket', 0.13735402, u'comic_book', 0.12169745, u'bearskin', 0.095046714]
+[u'thimble', 0.19282348, u'toilet_seat', 0.058004349, u'plate', 0.051380184]

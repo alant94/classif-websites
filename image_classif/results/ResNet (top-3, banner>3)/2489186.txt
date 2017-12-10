@@ -1,0 +1,4 @@
+[u'barn', 0.756194, u'church', 0.10255604, u'boathouse', 0.01605209]
+[u'Chihuahua', 0.28565469, u'mobile_home', 0.15831611, u'hook', 0.060977187]
+[u'bearskin', 0.14159232, u'groenendael', 0.11298105, u'book_jacket', 0.045702267]
+[u'fountain_pen', 0.39007914, u'lipstick', 0.13635844, u'oboe', 0.066520415]

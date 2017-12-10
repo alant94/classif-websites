@@ -1,0 +1,7 @@
+[u'pill_bottle', 0.50825715, u'pencil_sharpener', 0.345144, u'candle', 0.03170155, u'bell_cote', 0.020423602, u'Petri_dish', 0.01652812]
+[u'stupa', 0.075732023, u'bearskin', 0.061954822, u'bell_cote', 0.054828949, u'mask', 0.051478647, u'screw', 0.033892639]
+[u'nail', 0.17126226, u'screw', 0.14446554, u'screwdriver', 0.10042481, u'power_drill', 0.10015032, u'hand_blower', 0.05491706]
+[u'syringe', 0.090304114, u'screw', 0.062223673, u'picket_fence', 0.049955849, u'upright', 0.049050882, u'pencil_sharpener', 0.046621937]
+[u'web_site', 0.099339604, u'sunscreen', 0.034930825, u'sunglass', 0.029629042, u'hatchet', 0.02708151, u'envelope', 0.024732536]
+[u'digital_clock', 0.48547113, u'digital_watch', 0.14526777, u'envelope', 0.03555797, u'safe', 0.027868384, u'binder', 0.024278579]
+[u'candle', 0.89105856, u'envelope', 0.053182244, u'matchstick', 0.022547103, u'web_site', 0.0053412113, u'rubber_eraser', 0.0021398684]

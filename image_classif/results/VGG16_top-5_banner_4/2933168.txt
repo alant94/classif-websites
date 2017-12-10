@@ -1,0 +1,3 @@
+[u'container_ship', 0.24477644, u'picket_fence', 0.030560136, u'monitor', 0.025275839, u'bell_cote', 0.021980248, u'airship', 0.021649394]
+[u'knot', 0.63212407, u'syringe', 0.032012653, u'horizontal_bar', 0.028470442, u'microphone', 0.012429947, u'chain', 0.010829028]
+[u'crossword_puzzle', 0.15337723, u'quill', 0.053654127, u'handkerchief', 0.037961971, u'packet', 0.030685686, u'swab', 0.029413119]

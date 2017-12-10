@@ -1,0 +1,2 @@
+[u'hair_slide', 0.27753189, u'turnstile', 0.12285666, u'microphone', 0.033397686]
+[u'digital_clock', 0.2209246, u'digital_watch', 0.19020441, u'crossword_puzzle', 0.18131699]

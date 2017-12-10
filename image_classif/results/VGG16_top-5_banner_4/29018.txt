@@ -1,0 +1,1 @@
+[u'stethoscope', 0.185498, u'can_opener', 0.068926781, u'web_site', 0.06742169, u'red_wine', 0.037026431, u'hook', 0.032284468]

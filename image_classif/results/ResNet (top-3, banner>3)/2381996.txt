@@ -1,0 +1,6 @@
+[u'barrel', 0.37005663, u'oil_filter', 0.1188243, u'milk_can', 0.064081304]
+[u'barrel', 0.54776019, u'sunglass', 0.081230223, u'milk_can', 0.071778446]
+[u'cocktail_shaker', 0.29150882, u'beer_bottle', 0.11242922, u'pop_bottle', 0.087284006]
+[u'corkscrew', 0.35856709, u'red_wine', 0.23930909, u'beer_bottle', 0.12903345]
+[u'web_site', 0.43236431, u'comic_book', 0.11275493, u'nematode', 0.037439104]
+[u'tobacco_shop', 0.29959452, u'scoreboard', 0.11949771, u'neck_brace', 0.068035007]

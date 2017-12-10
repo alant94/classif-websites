@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.12799081, u'diaper', 0.11089798, u'oxygen_mask', 0.050175034, u'stethoscope', 0.033966884, u'pajama', 0.032852065]
+[u'panpipe', 0.20899098, u'dam', 0.17273751, u'harp', 0.067283526, u'broom', 0.030193273, u'candle', 0.020052478]
+[u'book_jacket', 0.083193123, u'remote_control', 0.072109036, u'ocarina', 0.04791332, u'hair_spray', 0.031222779, u'syringe', 0.027481223]
+[u'book_jacket', 0.11148843, u'packet', 0.03010924, u'perfume', 0.023820551, u'jersey', 0.022745254, u'microphone', 0.021985052]
+[u'candle', 0.10238926, u'perfume', 0.050400812, u'lighter', 0.042753387, u'torch', 0.040088527, u'cocktail_shaker', 0.028155074]
+[u'diaper', 0.090710282, u'nipple', 0.066669583, u'piggy_bank', 0.049423914, u'Band_Aid', 0.042231716, u'hamster', 0.027834522]

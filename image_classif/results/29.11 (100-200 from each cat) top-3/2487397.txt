@@ -1,0 +1,4 @@
+[u'drum', 0.35574892, u'gong', 0.08808066, u'dining_table', 0.058462426]
+[u'Band_Aid', 0.46792221, u'shield', 0.20956033, u'prayer_rug', 0.083043687]
+[u'envelope', 0.16131043, u'prayer_rug', 0.070654884, u'digital_clock', 0.061943881]
+[u'web_site', 0.31345761, u'panpipe', 0.047437038, u'marimba', 0.043294352]

@@ -1,0 +1,2 @@
+[u'torch', 0.2143635, u'fire_screen', 0.21125436, u'triceratops', 0.18316938]
+[u'gong', 0.17373717, u'chime', 0.14890687, u'table_lamp', 0.12740289]

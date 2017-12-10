@@ -1,0 +1,5 @@
+[u'mountain_bike', 0.78757834, u'unicycle', 0.13534534, u'crash_helmet', 0.01811545, u'bannister', 0.012657192, u'jinrikisha', 0.011621706]
+[u'envelope', 0.17706551, u'web_site', 0.12899043, u'hook', 0.028651681, u'rule', 0.02755421, u'Band_Aid', 0.012551711]
+[u'comic_book', 0.51281941, u'web_site', 0.28975651, u'book_jacket', 0.11487113, u'jigsaw_puzzle', 0.012243313, u'envelope', 0.0091275806]
+[u'crane', 0.17883651, u'book_jacket', 0.12504546, u'bow', 0.099176452, u'comic_book', 0.070515484, u'altar', 0.039196439]
+[u'web_site', 0.35890993, u'book_jacket', 0.038839482, u'worm_fence', 0.038099445, u'picket_fence', 0.019039832, u'pole', 0.017964955]

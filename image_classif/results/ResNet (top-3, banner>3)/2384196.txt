@@ -1,0 +1,8 @@
+[u'bookshop', 0.54718339, u'restaurant', 0.06373737, u'barbershop', 0.042783413]
+[u'altar', 0.57455045, u'church', 0.27113894, u'organ', 0.037857853]
+[u'buckle', 0.42951977, u'comic_book', 0.077231981, u'book_jacket', 0.055029172]
+[u'restaurant', 0.52191752, u'library', 0.42193916, u'dining_table', 0.015797999]
+[u'coffeepot', 0.14999749, u'wine_bottle', 0.12048534, u'red_wine', 0.068349518]
+[u'bookshop', 0.70787853, u'library', 0.28617686, u'bookcase', 0.0047016973]
+[u'restaurant', 0.20282947, u'espresso', 0.12424034, u'beer_glass', 0.065967038]
+[u'steel_drum', 0.25586689, u'espresso_maker', 0.23210987, u'coffeepot', 0.062623575]

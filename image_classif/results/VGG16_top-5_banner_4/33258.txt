@@ -1,0 +1,5 @@
+[u'washbasin', 0.093595296, u'shower_curtain', 0.054145921, u'toilet_seat', 0.044346608, u'bathtub', 0.02970073, u'tub', 0.02461124]
+[u'picket_fence', 0.35856488, u'rule', 0.098048106, u'book_jacket', 0.081951566, u'maze', 0.031696338, u'matchstick', 0.022510068]
+[u'trombone', 0.2096068, u'ski', 0.18092756, u'pole', 0.070534773, u'maypole', 0.045675401, u'carousel', 0.03924517]
+[u'envelope', 0.05312952, u'washbasin', 0.046780538, u'shower_curtain', 0.038635667, u'velvet', 0.029625807, u'crossword_puzzle', 0.028498698]
+[u'web_site', 0.14757003, u'envelope', 0.069122218, u'washbasin', 0.027523633, u'bathtub', 0.021088032, u'wardrobe', 0.020546084]

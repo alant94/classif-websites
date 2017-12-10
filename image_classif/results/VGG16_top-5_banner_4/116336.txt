@@ -1,0 +1,4 @@
+[u'screwdriver', 0.15379682, u'can_opener', 0.1258924, u'lipstick', 0.079917289, u'ballpoint', 0.076804049, u'spatula', 0.076067306]
+[u'oscilloscope', 0.20672373, u'traffic_light', 0.18901576, u'analog_clock', 0.1114419, u'wall_clock', 0.098312058, u'laptop', 0.038700994]
+[u'packet', 0.18565078, u'wallet', 0.17342868, u'handkerchief', 0.16844508, u'tray', 0.11075876, u'pencil_box', 0.099500477]
+[u'abacus', 0.19258273, u'pick', 0.15127644, u'matchstick', 0.092062853, u'mousetrap', 0.051550813, u'crate', 0.04760265]

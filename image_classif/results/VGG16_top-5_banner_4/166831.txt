@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.59926677, u'stage', 0.13994074, u'altar', 0.086413614, u'spotlight', 0.046486665, u'fountain', 0.034407135]
+[u'web_site', 0.35420269, u'stage', 0.21010046, u'home_theater', 0.10680129, u'television', 0.08898215, u'monitor', 0.028219348]

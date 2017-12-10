@@ -1,0 +1,4 @@
+[u'web_site', 0.89358443, u'monitor', 0.049749337, u'screen', 0.034911517, u'notebook', 0.0085857268, u'desktop_computer', 0.0054034409]
+[u'web_site', 0.98613656, u'monitor', 0.0072886646, u'screen', 0.0021446582, u'notebook', 0.0018655322, u'desktop_computer', 0.0011875258]
+[u'web_site', 0.99074733, u'book_jacket', 0.0059174951, u'menu', 0.001482946, u'comic_book', 0.00084470341, u'envelope', 0.00018434935]
+[u'web_site', 0.99961144, u'monitor', 8.4172985e-05, u'screen', 5.430746e-05, u'notebook', 3.708943e-05, u'menu', 2.078145e-05]

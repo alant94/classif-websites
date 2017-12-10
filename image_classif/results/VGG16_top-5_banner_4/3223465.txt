@@ -1,0 +1,1 @@
+[u'comic_book', 0.11119382, u'jigsaw_puzzle', 0.050880577, u'shield', 0.042800084, u'barrel', 0.0423836, u'slot', 0.038247146]

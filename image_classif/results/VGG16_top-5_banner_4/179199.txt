@@ -1,0 +1,4 @@
+[u'stage', 0.39810655, u'spotlight', 0.13070035, u'monitor', 0.11694861, u'microphone', 0.067338079, u'screen', 0.038304321]
+[u'cleaver', 0.1254956, u'pajama', 0.12218232, u'marimba', 0.054646753, u'crossword_puzzle', 0.05379856, u'laptop', 0.044853151]
+[u'stage', 0.7702595, u'spotlight', 0.05669323, u'theater_curtain', 0.032095034, u'microphone', 0.020488622, u'monitor', 0.018831491]
+[u'stage', 0.77074581, u'theater_curtain', 0.052688397, u'fountain', 0.027793765, u'spotlight', 0.020940395, u'panpipe', 0.0087428605]

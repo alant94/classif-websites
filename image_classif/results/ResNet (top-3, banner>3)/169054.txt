@@ -1,0 +1,5 @@
+[u'jean', 0.036556352, u'candle', 0.035110433, u'sarong', 0.032495819]
+[u'sombrero', 0.11615059, u'banjo', 0.10768329, u'steel_drum', 0.084391214]
+[u'cloak', 0.76447761, u'fur_coat', 0.065027952, u'abaya', 0.020684108]
+[u'jersey', 0.62519747, u'bulletproof_vest', 0.15592538, u'sweatshirt', 0.017850628]
+[u'jersey', 0.1537044, u'Band_Aid', 0.1383211, u'chain_mail', 0.13314089]

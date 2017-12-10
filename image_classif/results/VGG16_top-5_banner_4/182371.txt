@@ -1,0 +1,1 @@
+[u'web_site', 0.89750051, u'envelope', 0.017249865, u'monitor', 0.0072533721, u'garbage_truck', 0.0050513279, u'screen', 0.0047176206]

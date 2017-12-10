@@ -1,0 +1,5 @@
+[u'buckeye', 0.35144913, u'picket_fence', 0.15380231, u'chainlink_fence', 0.094119735]
+[u'prayer_rug', 0.50695711, u'radiator', 0.14222649, u'fire_screen', 0.1249736]
+[u'pinwheel', 0.12452406, u'picket_fence', 0.05838627, u'motor_scooter', 0.053660583]
+[u'sewing_machine', 0.89324456, u'spotlight', 0.061032929, u'microphone', 0.014647414]
+[u'prison', 0.93632567, u'vault', 0.0080480948, u'unicycle', 0.0047147274]

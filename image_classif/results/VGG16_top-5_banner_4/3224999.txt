@@ -1,0 +1,2 @@
+[u'dough', 0.23277093, u'Band_Aid', 0.17980747, u'diaper', 0.046559826, u'remote_control', 0.034110546, u'buckeye', 0.028638508]
+[u'bearskin', 0.60912633, u'military_uniform', 0.10098524, u'bathing_cap', 0.074871711, u'ski', 0.044941813, u'swimming_trunks', 0.024383251]

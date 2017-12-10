@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16241585, u'matchstick', 0.071013086, u'letter_opener', 0.051647801, u'cleaver', 0.051240306, u'ski', 0.035226468]
+[u'stone_wall', 0.35728168, u'valley', 0.2526184, u'alp', 0.090305492, u'lakeside', 0.07253857, u'cliff', 0.063209437]

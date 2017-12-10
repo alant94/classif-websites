@@ -1,0 +1,4 @@
+[u'nail', 0.11463733, u'rule', 0.10665756, u'safety_pin', 0.074657634, u'cleaver', 0.041326448, u'screw', 0.039690968]
+[u'hook', 0.25233924, u'nematode', 0.20809224, u'whistle', 0.10916587, u'corkscrew', 0.028764036, u'tick', 0.027045894]
+[u'switch', 0.16199486, u'maze', 0.10113123, u'hook', 0.037874531, u'can_opener', 0.035954852, u'cleaver', 0.035333648]
+[u'nematode', 0.70652831, u'knot', 0.084651016, u'chain', 0.044516027, u'hook', 0.025830608, u'bolo_tie', 0.017904792]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.47859946, u'web_site', 0.097917147, u'envelope', 0.06083978, u'cash_machine', 0.050244115, u'theater_curtain', 0.034116097]
+[u'nail', 0.31730574, u'screwdriver', 0.26553106, u'safety_pin', 0.11505442, u"carpenter's_kit", 0.11449859, u'screw', 0.044053853]

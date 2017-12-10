@@ -1,0 +1,2 @@
+[u'drumstick', 0.15180685, u'jersey', 0.068769172, u'wig', 0.066103041]
+[u'hair_spray', 0.21339512, u'book_jacket', 0.20309824, u'comic_book', 0.11709961]

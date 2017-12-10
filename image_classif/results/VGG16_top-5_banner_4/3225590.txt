@@ -1,0 +1,6 @@
+[u'envelope', 0.0494432, u'web_site', 0.021631185, u'velvet', 0.018332705, u'wardrobe', 0.017610038, u'stole', 0.013928019]
+[u'fountain', 0.39611977, u'steel_arch_bridge', 0.075766936, u'church', 0.065708473, u'pier', 0.061376661, u'lakeside', 0.060727529]
+[u'broccoli', 0.76543194, u'vase', 0.048585307, u'pitcher', 0.042137358, u'diaper', 0.01811151, u'cup', 0.013761726]
+[u'menu', 0.16535258, u'envelope', 0.071735285, u'comic_book', 0.067408122, u'binder', 0.049901828, u'paper_towel', 0.045154683]
+[u'book_jacket', 0.51348323, u'wool', 0.036042158, u'swab', 0.025097962, u'jersey', 0.019640235, u'barn', 0.015962541]
+[u'geyser', 0.10988064, u'mountain_bike', 0.080157936, u'lakeside', 0.076282971, u'castle', 0.046775535, u'pole', 0.046437357]

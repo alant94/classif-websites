@@ -1,0 +1,4 @@
+[u'vault', 0.26491782, u'table_lamp', 0.12302963, u'dining_table', 0.091126837, u'lampshade', 0.07902278, u'altar', 0.051136151]
+[u'monastery', 0.47494298, u'church', 0.15158693, u'castle', 0.1169635, u'totem_pole', 0.030003466, u'bell_cote', 0.02437881]
+[u'screwdriver', 0.21305272, u"carpenter's_kit", 0.11392585, u'shovel', 0.10149022, u'hook', 0.077777721, u'paintbrush', 0.074410975]
+[u'book_jacket', 0.65884072, u'comic_book', 0.17181249, u'menu', 0.025768248, u'jersey', 0.017356617, u'street_sign', 0.0093862275]

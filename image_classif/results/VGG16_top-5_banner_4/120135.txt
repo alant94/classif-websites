@@ -1,0 +1,5 @@
+[u'school_bus', 0.1802433, u'cab', 0.17746682, u'moving_van', 0.13100116, u'tow_truck', 0.082132131, u'recreational_vehicle', 0.074382275]
+[u'crane', 0.13446622, u'tow_truck', 0.088323042, u'jeep', 0.074604563, u'tank', 0.073411584, u'tractor', 0.071550667]
+[u'jigsaw_puzzle', 0.25899383, u'comic_book', 0.052974168, u'balloon', 0.050952192, u'crane', 0.050274488, u'cinema', 0.030463036]
+[u'fire_engine', 0.7516126, u'tow_truck', 0.11790468, u'fireboat', 0.024038279, u'forklift', 0.021478776, u'harvester', 0.016659278]
+[u'palace', 0.12980391, u'castle', 0.077354275, u'gondola', 0.069568567, u'dock', 0.044421263, u'container_ship', 0.03694794]

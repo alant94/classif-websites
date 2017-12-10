@@ -1,0 +1,4 @@
+[u'envelope', 0.54904789, u'jersey', 0.043604437, u'mortarboard', 0.041152269]
+[u'butcher_shop', 0.40108934, u'barrel', 0.081958927, u'fire_screen', 0.044181388]
+[u'buckle', 0.20554602, u'street_sign', 0.15423885, u'fire_screen', 0.12456193]
+[u'cauliflower', 0.22193012, u'hot_pot', 0.15227091, u'American_lobster', 0.11463097]

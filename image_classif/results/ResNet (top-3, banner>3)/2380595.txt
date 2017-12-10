@@ -1,0 +1,4 @@
+[u'bow', 0.15270554, u'slot', 0.085039161, u'web_site', 0.054122496]
+[u'pill_bottle', 0.60137242, u'lotion', 0.19038148, u'face_powder', 0.11041586]
+[u'cocktail_shaker', 0.45699224, u'water_bottle', 0.24804071, u'lotion', 0.10732479]
+[u'medicine_chest', 0.55866516, u'lotion', 0.046842705, u'espresso_maker', 0.034566369]

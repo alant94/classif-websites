@@ -1,0 +1,8 @@
+[u'menu', 0.67971212, u'web_site', 0.28575945, u'packet', 0.010551035, u'envelope', 0.010055241, u'book_jacket', 0.0027372562]
+[u'envelope', 0.26104513, u'web_site', 0.092957199, u'monitor', 0.03571545, u'desk', 0.029594354, u'notebook', 0.027344603]
+[u'web_site', 0.28695095, u'menu', 0.13844396, u'crossword_puzzle', 0.065987103, u'book_jacket', 0.05780115, u'brass', 0.036475472]
+[u'goblet', 0.78318846, u'restaurant', 0.073333576, u'beer_glass', 0.046736155, u'cocktail_shaker', 0.038210113, u'red_wine', 0.025009144]
+[u'menu', 0.89290988, u'web_site', 0.039815646, u'book_jacket', 0.02364585, u'brass', 0.0079019694, u'packet', 0.0038524421]
+[u'container_ship', 0.11477873, u'crane', 0.060549237, u'airship', 0.025632977, u'envelope', 0.025050525, u'parachute', 0.021898383]
+[u'container_ship', 0.28100792, u'crane', 0.062227812, u'balloon', 0.024628824, u'airship', 0.024239186, u'parachute', 0.018259281]
+[u'envelope', 0.043805357, u'crane', 0.030241236, u'hook', 0.01835846, u'pill_bottle', 0.012072338, u'parachute', 0.011003579]

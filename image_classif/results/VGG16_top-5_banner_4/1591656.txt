@@ -1,0 +1,3 @@
+[u'envelope', 0.065083534, u'washbasin', 0.064806461, u'shower_curtain', 0.041852336, u'bathtub', 0.039962064, u'cash_machine', 0.029324872]
+[u'envelope', 0.16669396, u'velvet', 0.077902302, u'shower_curtain', 0.064090647, u'book_jacket', 0.055796441, u'handkerchief', 0.034900587]
+[u'miniskirt', 0.58722746, u'brassiere', 0.091768079, u'sandal', 0.063234732, u'maillot', 0.039457064, u'bikini', 0.035582431]

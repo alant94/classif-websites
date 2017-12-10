@@ -1,0 +1,2 @@
+[u'slot', 0.95883077, u'vending_machine', 0.023300864, u'television', 0.0053004408, u'monitor', 0.0049958606, u'screen', 0.0027059922]
+[u'radio', 0.51319951, u'modem', 0.24918209, u'hard_disc', 0.082246721, u'CD_player', 0.038666781, u'projector', 0.026303679]

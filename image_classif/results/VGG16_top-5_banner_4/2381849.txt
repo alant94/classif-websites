@@ -1,0 +1,6 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'pill_bottle', 0.18200241, u'wine_bottle', 0.063568443, u'whistle', 0.057175297, u'paintbrush', 0.053717885, u'pencil_sharpener', 0.050568208]
+[u'patio', 0.62646163, u'mobile_home', 0.14503674, u'sliding_door', 0.059820015, u'greenhouse', 0.038438205, u'pot', 0.023680933]
+[u'web_site', 0.084051892, u'bubble', 0.073135741, u'beer_glass', 0.049732015, u'television', 0.048213668, u'vending_machine', 0.041387122]
+[u'nematode', 0.079394482, u'web_site', 0.069040291, u'envelope', 0.065236472, u'tick', 0.017960954, u'wall_clock', 0.016253216]
+[u'screwdriver', 0.18741435, u'digital_clock', 0.082779571, u'power_drill', 0.069886409, u'traffic_light', 0.06043224, u'scoreboard', 0.057859384]

@@ -1,0 +1,2 @@
+[u'barbell', 0.095054895, u'crash_helmet', 0.086727761, u'comic_book', 0.083688445]
+[u'Band_Aid', 0.28515911, u'moving_van', 0.10716498, u'scoreboard', 0.087421149]

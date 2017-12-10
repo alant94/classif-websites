@@ -1,0 +1,2 @@
+[u'face_powder', 0.30545864, u'Petri_dish', 0.11624027, u'web_site', 0.044333331]
+[u'comic_book', 0.17500353, u'panpipe', 0.053609535, u'crutch', 0.047404207]

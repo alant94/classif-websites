@@ -1,0 +1,4 @@
+[u'mountain_bike', 0.60390675, u'swab', 0.065506183, u'unicycle', 0.050881188]
+[u'web_site', 0.66672403, u'ski', 0.048874956, u'mountain_bike', 0.034153655]
+[u'mountain_bike', 0.44582883, u'unicycle', 0.12017632, u'web_site', 0.085207082]
+[u'seashore', 0.23685333, u'web_site', 0.16243635, u'geyser', 0.059657775]

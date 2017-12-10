@@ -1,0 +1,3 @@
+[u'comic_book', 0.28984192, u'barbershop', 0.25362325, u'book_jacket', 0.11551347, u'cinema', 0.052340213, u'restaurant', 0.043659415]
+[u'tow_truck', 0.18857796, u'toyshop', 0.12921195, u'carousel', 0.053661391, u'traffic_light', 0.046889719, u'crane', 0.039018907]
+[u'chain_saw', 0.19381315, u'harvester', 0.088928334, u'crane', 0.063437231, u'thresher', 0.054237559, u'lumbermill', 0.039234586]

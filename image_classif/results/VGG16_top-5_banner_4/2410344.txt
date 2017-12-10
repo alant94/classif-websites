@@ -1,0 +1,2 @@
+[u'broom', 0.60983777, u'swab', 0.064806446, u'shovel', 0.02966512, u'paintbrush', 0.026692817, u'lumbermill', 0.024863636]
+[u'stinkhorn', 0.18244377, u'walking_stick', 0.059114765, u'capuchin', 0.05553814, u'earthstar', 0.051367689, u'howler_monkey', 0.040989194]

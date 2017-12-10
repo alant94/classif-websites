@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'wine_bottle', 0.65090483, u'red_wine', 0.23148845, u'table_lamp', 0.018845623]
+[u'wine_bottle', 0.74976081, u'red_wine', 0.084589519, u'corkscrew', 0.064982899]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'bicycle-built-for-two', 0.42041442, u'mountain_bike', 0.21070929, u'barbershop', 0.079472899]
+[u'red_wine', 0.82154197, u'goblet', 0.059427571, u'perfume', 0.035081897]
+[u'wine_bottle', 0.42702788, u'pop_bottle', 0.23481102, u'beer_bottle', 0.14233415]

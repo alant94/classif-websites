@@ -1,0 +1,2 @@
+[u'birdhouse', 0.11573429, u'castle', 0.10106044, u'monastery', 0.10042079]
+[u'hair_spray', 0.30018261, u'jersey', 0.068266504, u'sweatshirt', 0.048649855]

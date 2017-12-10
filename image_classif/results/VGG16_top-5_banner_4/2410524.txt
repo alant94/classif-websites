@@ -1,0 +1,2 @@
+[u'American_black_bear', 0.28989449, u'bison', 0.23980349, u'chainlink_fence', 0.11010753, u'ox', 0.045652866, u'traffic_light', 0.032268915]
+[u'screwdriver', 0.56752366, u"carpenter's_kit", 0.093353882, u'ballpoint', 0.086263008, u'rubber_eraser', 0.021396702, u'wine_bottle', 0.020667534]

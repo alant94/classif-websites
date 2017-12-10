@@ -1,0 +1,3 @@
+[u'knot', 0.51610959, u'stopwatch', 0.19830374, u'chain', 0.07500536]
+[u'stopwatch', 0.36369234, u'chain', 0.14783418, u'loupe', 0.11503372]
+[u'bookshop', 0.44221947, u'vault', 0.18104707, u'library', 0.11037198]

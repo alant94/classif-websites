@@ -1,0 +1,5 @@
+[u'wardrobe', 0.062952749, u'gown', 0.059929457, u'punching_bag', 0.048562381, u'water_jug', 0.036061127, u'cocktail_shaker', 0.034142267]
+[u'velvet', 0.2016636, u'bath_towel', 0.075625829, u'lipstick', 0.066577807, u'pomegranate', 0.059154063, u'stole', 0.054682821]
+[u'vault', 0.11648732, u'candle', 0.057905152, u'fountain', 0.056584235, u'altar', 0.033715148, u'restaurant', 0.03287914]
+[u'maillot', 0.18916182, u'maillot', 0.13810514, u'tub', 0.11753, u'piggy_bank', 0.11085688, u'bikini', 0.052664828]
+[u'diaper', 0.6051234, u'bikini', 0.12383504, u'tub', 0.062427636, u'maillot', 0.032135975, u'bathtub', 0.032021649]

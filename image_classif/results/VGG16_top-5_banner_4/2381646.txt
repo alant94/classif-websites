@@ -1,0 +1,4 @@
+[u'envelope', 0.27099502, u'web_site', 0.03465018, u'nematode', 0.019035958, u'book_jacket', 0.016710849, u'velvet', 0.01334429]
+[u'book_jacket', 0.80063391, u'jersey', 0.032603491, u'comic_book', 0.017265553, u'scoreboard', 0.010741809, u'racket', 0.010691419]
+[u'pencil_sharpener', 0.083350666, u'neck_brace', 0.072776809, u'hair_slide', 0.069838293, u'running_shoe', 0.061481964, u'iron', 0.053061713]
+[u'restaurant', 0.38241208, u'shoe_shop', 0.069496684, u'menu', 0.046224736, u'bakery', 0.03942861, u'Dungeness_crab', 0.034428]

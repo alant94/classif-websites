@@ -1,0 +1,2 @@
+[u'whistle', 0.98677605, u'digital_watch', 0.0065467441, u'combination_lock', 0.0018548806]
+[u'bow', 0.105382, u'paintbrush', 0.073652871, u'hook', 0.073478572]

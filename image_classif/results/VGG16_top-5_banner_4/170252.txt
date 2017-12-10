@@ -1,0 +1,6 @@
+[u'envelope', 0.082377896, u'web_site', 0.04340205, u'Band_Aid', 0.0246408, u'rule', 0.016490458, u'face_powder', 0.016086265]
+[u'envelope', 0.051276173, u'web_site', 0.022942558, u'face_powder', 0.019382343, u'cleaver', 0.016144, u'can_opener', 0.013039079]
+[u'envelope', 0.087342955, u'web_site', 0.04391928, u'Band_Aid', 0.019478787, u'rule', 0.017716339, u'hook', 0.016427429]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'envelope', 0.096583471, u'web_site', 0.044348661, u'Band_Aid', 0.022004863, u'rule', 0.01829355, u'hook', 0.017280169]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

@@ -1,0 +1,2 @@
+[u'envelope', 0.085360572, u'spotlight', 0.062669642, u'whistle', 0.051947776, u'torch', 0.04536489, u'bathing_cap', 0.040405702]
+[u'pill_bottle', 0.19516535, u'whistle', 0.09483327, u'hook', 0.047362197, u'maraca', 0.045551252, u'dumbbell', 0.034471374]

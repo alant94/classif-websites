@@ -1,0 +1,2 @@
+[u'envelope', 0.87189877, u'plate_rack', 0.036549192, u'web_site', 0.033742763, u'refrigerator', 0.021299446, u'handkerchief', 0.0044038603]
+[u'jersey', 0.13565479, u'safety_pin', 0.07373444, u'envelope', 0.030430267, u'nail', 0.020913368, u'book_jacket', 0.018364208]

@@ -1,0 +1,4 @@
+[u'sax', 0.06732934, u'banjo', 0.049248911, u'suit', 0.04857206]
+[u'promontory', 0.084651873, u'beacon', 0.074421398, u'stone_wall', 0.06429328]
+[u'promontory', 0.75443256, u'cliff', 0.13345602, u'seashore', 0.086692125]
+[u'television', 0.34314403, u'monitor', 0.32134017, u'web_site', 0.21303818]

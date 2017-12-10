@@ -1,0 +1,5 @@
+[u'analog_clock', 0.98133296, u'stopwatch', 0.014043585, u'wall_clock', 0.0040226034]
+[u'lemon', 0.0842482, u'fig', 0.07311441, u'ladle', 0.062168848]
+[u'horned_viper', 0.091291398, u'nematode', 0.087274216, u'web_site', 0.055217765]
+[u'rugby_ball', 0.16938131, u'soccer_ball', 0.1149661, u'Leonberg', 0.067664802]
+[u'analog_clock', 0.21034263, u'digital_clock', 0.19498277, u'traffic_light', 0.10949491]

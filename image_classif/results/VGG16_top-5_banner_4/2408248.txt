@@ -1,0 +1,1 @@
+[u'face_powder', 0.12885927, u'hook', 0.07462512, u'loupe', 0.071329683, u'paper_towel', 0.061566845, u'toilet_seat', 0.037963908]

@@ -1,0 +1,2 @@
+[u'digital_clock', 0.097768195, u'loupe', 0.096695989, u'assault_rifle', 0.087508224]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436]

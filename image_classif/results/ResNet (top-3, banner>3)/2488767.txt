@@ -1,0 +1,4 @@
+[u'digital_clock', 0.89049029, u'digital_watch', 0.051722884, u'stopwatch', 0.03972787]
+[u'comic_book', 0.58081692, u'web_site', 0.082317598, u'holster', 0.025093896]
+[u'grand_piano', 0.63307643, u'upright', 0.042602651, u'sombrero', 0.027990386]
+[u'digital_clock', 0.4079473, u'stopwatch', 0.38765934, u'digital_watch', 0.13102889]

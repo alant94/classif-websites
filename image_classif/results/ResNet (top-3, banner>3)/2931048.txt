@@ -1,0 +1,6 @@
+[u'iPod', 0.58140963, u'envelope', 0.057072312, u'gong', 0.039846126]
+[u'cleaver', 0.14553162, u'iron', 0.073688805, u'drumstick', 0.026583966]
+[u'mask', 0.24040672, u'paintbrush', 0.076974839, u'shower_curtain', 0.060525458]
+[u'scorpion', 0.4382076, u'garden_spider', 0.10156467, u'centipede', 0.084428109]
+[u'refrigerator', 0.70594907, u'comic_book', 0.077112019, u'wardrobe', 0.025930086]
+[u'ibex', 0.1169888, u'envelope', 0.07173223, u'cowboy_hat', 0.070431359]

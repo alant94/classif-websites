@@ -1,0 +1,1 @@
+[u'groom', 0.41217339, u'suit', 0.31712204, u'Windsor_tie', 0.069945723, u'stage', 0.034184925, u'mortarboard', 0.021404972]

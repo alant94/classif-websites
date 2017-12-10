@@ -1,0 +1,6 @@
+[u'bow', 0.67611241, u'triceratops', 0.028724268, u'lampshade', 0.027867904, u'breastplate', 0.022872914, u'table_lamp', 0.02243999]
+[u'impala', 0.44324723, u'hartebeest', 0.164536, u'gazelle', 0.15378359, u'hare', 0.076751024, u'red_wolf', 0.034292623]
+[u'book_jacket', 0.087200284, u'web_site', 0.064575277, u'comic_book', 0.040129405, u'Windsor_tie', 0.028936353, u'cleaver', 0.023010349]
+[u'dining_table', 0.52430099, u'restaurant', 0.37706226, u'table_lamp', 0.021190232, u'china_cabinet', 0.015699094, u'sewing_machine', 0.0051072449]
+[u'impala', 0.89092344, u'hartebeest', 0.058016658, u'gazelle', 0.034601595, u'red_wolf', 0.0066237426, u'wallaby', 0.0040338696]
+[u'dhole', 0.31099004, u'impala', 0.29429403, u'gazelle', 0.099139936, u'hartebeest', 0.050058354, u'warthog', 0.028783375]

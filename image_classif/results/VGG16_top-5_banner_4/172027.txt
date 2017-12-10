@@ -1,0 +1,5 @@
+[u'puck', 0.27582091, u'wall_clock', 0.15267792, u'pick', 0.13912824, u'shield', 0.11337797, u'digital_clock', 0.059008885]
+[u'wall_clock', 0.27928588, u'puck', 0.15896469, u'pick', 0.08316236, u'shield', 0.045205794, u'switch', 0.044289347]
+[u'electric_guitar', 0.3417829, u'maillot', 0.069920301, u'maillot', 0.062804736, u'corkscrew', 0.056349743, u'hatchet', 0.055149704]
+[u'wall_clock', 0.50694209, u'puck', 0.2892499, u'analog_clock', 0.072421655, u'pick', 0.050536629, u'screw', 0.010994975]
+[u'pick', 0.50938064, u'puck', 0.15475729, u'shield', 0.12480564, u'wall_clock', 0.048233468, u'bottlecap', 0.023397947]

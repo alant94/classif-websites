@@ -1,0 +1,4 @@
+[u'restaurant', 0.58038664, u'patio', 0.27031493, u'sliding_door', 0.047595672, u'dining_table', 0.04740401, u'china_cabinet', 0.016881414]
+[u'barrel', 0.90645272, u'drum', 0.03058633, u'rain_barrel', 0.021761307, u"potter's_wheel", 0.0076608378, u'gong', 0.0050772154]
+[u'boathouse', 0.81979066, u'beacon', 0.059779786, u'lakeside', 0.036283281, u'birdhouse', 0.033795103, u'yurt', 0.02270069]
+[u'maze', 0.26802164, u'rapeseed', 0.22116838, u'stone_wall', 0.11815529, u'picket_fence', 0.0622085, u'worm_fence', 0.049479283]

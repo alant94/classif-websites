@@ -1,0 +1,5 @@
+[u'dalmatian', 0.32834592, u'book_jacket', 0.2580815, u'Great_Dane', 0.069109045]
+[u'poncho', 0.10365193, u'street_sign', 0.065676995, u'stole', 0.046821348]
+[u'book_jacket', 0.38601887, u'comic_book', 0.3310563, u'fountain', 0.23176676]
+[u'oxygen_mask', 0.5528447, u'scuba_diver', 0.17249711, u'space_shuttle', 0.042436834]
+[u'ground_beetle', 0.40211886, u'dung_beetle', 0.10935551, u'rhinoceros_beetle', 0.061967824]

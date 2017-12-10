@@ -1,0 +1,2 @@
+[u'comic_book', 0.47377023, u'menu', 0.27072835, u'jigsaw_puzzle', 0.0980298, u'web_site', 0.079747088, u'envelope', 0.036884297]
+[u'comic_book', 0.99918276, u'book_jacket', 0.00029795963, u'laptop', 0.00023060291, u'jigsaw_puzzle', 6.2269348e-05, u'toilet_seat', 3.5738605e-05]

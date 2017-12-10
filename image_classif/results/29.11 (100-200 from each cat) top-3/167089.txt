@@ -1,0 +1,6 @@
+[u'pole', 0.093338504, u'Band_Aid', 0.054292314, u'broom', 0.052253228]
+[u'menu', 0.94010526, u'carton', 0.020328749, u'web_site', 0.012626164]
+[u'nipple', 0.52131367, u'whistle', 0.10407944, u'plate_rack', 0.044553913]
+[u'bow', 0.18594633, u'stethoscope', 0.11222156, u'hook', 0.071043797]
+[u'lotion', 0.16141926, u'book_jacket', 0.12381651, u'packet', 0.088630728]
+[u'quill', 0.23465809, u'nail', 0.1721476, u'candle', 0.074438542]

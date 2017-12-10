@@ -1,0 +1,1 @@
+[u'web_site', 0.42727944, u'swimming_trunks', 0.054582182, u'bathing_cap', 0.045895968, u'Band_Aid', 0.043423932, u'sunscreen', 0.030828673]

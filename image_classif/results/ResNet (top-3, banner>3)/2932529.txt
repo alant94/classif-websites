@@ -1,0 +1,4 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193]
+[u'hair_spray', 0.47299036, u'perfume', 0.18295117, u'face_powder', 0.053396352]
+[u'Band_Aid', 0.45998216, u'web_site', 0.16749537, u'digital_clock', 0.076784417]
+[u'stethoscope', 0.54660171, u'kimono', 0.4119958, u'lab_coat', 0.030642942]

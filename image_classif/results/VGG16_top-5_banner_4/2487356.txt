@@ -1,0 +1,1 @@
+[u'backpack', 0.45009539, u'sweatshirt', 0.15801039, u'book_jacket', 0.088887796, u'ski_mask', 0.055977385, u'jersey', 0.047790579]

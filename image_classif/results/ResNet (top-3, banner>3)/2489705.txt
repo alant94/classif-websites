@@ -1,0 +1,3 @@
+[u'gas_pump', 0.099808887, u'cash_machine', 0.099112056, u'book_jacket', 0.036014356]
+[u'goose', 0.38453791, u'hen', 0.23448586, u'black_swan', 0.056569275]
+[u'restaurant', 0.19906978, u'solar_dish', 0.18883207, u'cinema', 0.055334434]

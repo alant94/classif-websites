@@ -1,0 +1,5 @@
+[u'hook', 0.12240921, u'barbell', 0.088655055, u'cornet', 0.07491418, u'nail', 0.073475368, u'candle', 0.047089975]
+[u'bookshop', 0.3326968, u'wig', 0.071032025, u'bookcase', 0.067855708, u'comic_book', 0.053093508, u'library', 0.040363744]
+[u'suit', 0.15181799, u'pajama', 0.083368652, u'trench_coat', 0.072402485, u'sweatshirt', 0.032170795, u'jersey', 0.023313403]
+[u'gown', 0.13304642, u'book_jacket', 0.090980358, u'fur_coat', 0.087481357, u'hair_spray', 0.051295139, u'panpipe', 0.046640079]
+[u'perfume', 0.096820906, u'screen', 0.08785706, u'cassette', 0.067836829, u'iPod', 0.05572506, u'book_jacket', 0.05459062]

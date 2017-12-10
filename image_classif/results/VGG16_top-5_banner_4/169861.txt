@@ -1,0 +1,2 @@
+[u'stage', 0.2728698, u'electric_guitar', 0.15919162, u'scoreboard', 0.11221763, u'comic_book', 0.056306966, u'acoustic_guitar', 0.035905547]
+[u'accordion', 0.44261992, u'organ', 0.43047976, u'upright', 0.044483416, u'barbershop', 0.023151273, u'cinema', 0.0059880186]

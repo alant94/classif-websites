@@ -1,0 +1,2 @@
+[u'web_site', 0.7260921, u'envelope', 0.032942977, u'menu', 0.0153784, u'book_jacket', 0.0096037071, u'comic_book', 0.0071569011]
+[u'screwdriver', 0.13244721, u'medicine_chest', 0.091910593, u'cinema', 0.051143095, u'library', 0.035402007, u'syringe', 0.027042855]

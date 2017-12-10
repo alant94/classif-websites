@@ -1,0 +1,3 @@
+[u'street_sign', 0.1868906, u'oil_filter', 0.15433429, u'rubber_eraser', 0.051880594]
+[u'assault_rifle', 0.32531616, u'tripod', 0.15859877, u'traffic_light', 0.088488854]
+[u'web_site', 0.16414423, u'scoreboard', 0.15523125, u'book_jacket', 0.11046212]

@@ -1,0 +1,5 @@
+[u'hartebeest', 0.47059426, u'gazelle', 0.32825089, u'impala', 0.071864747, u'ibex', 0.039555345, u'bighorn', 0.02462814]
+[u'bighorn', 0.28357798, u'ox', 0.14778994, u'oxcart', 0.11305454, u'ram', 0.10458819, u'Arabian_camel', 0.077956438]
+[u'gazelle', 0.39613983, u'bighorn', 0.18326275, u'impala', 0.16077229, u'wallaby', 0.036783792, u'hartebeest', 0.033651114]
+[u'dam', 0.29076058, u'coho', 0.033438358, u'gar', 0.03281353, u'chain_saw', 0.029378256, u'bow', 0.028045883]
+[u'ibex', 0.43533304, u'hartebeest', 0.17944683, u'warthog', 0.13064326, u'ox', 0.084657319, u'oxcart', 0.051884986]

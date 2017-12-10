@@ -1,0 +1,8 @@
+[u'beer_glass', 0.98956841, u'beer_bottle', 0.0041331402, u'goblet', 0.0010149911, u'espresso', 0.00092619099, u'restaurant', 0.00063050241]
+[u'butcher_shop', 0.5509246, u'restaurant', 0.053059541, u'shoe_shop', 0.039907929, u'stage', 0.031751674, u'grocery_store', 0.016649147]
+[u'beer_glass', 0.73724914, u'pop_bottle', 0.19915344, u'water_bottle', 0.020192642, u'shower_curtain', 0.01038576, u'goblet', 0.0093292696]
+[u'hotdog', 0.12614705, u'plate', 0.090414025, u'mashed_potato', 0.079442926, u'meat_loaf', 0.062007014, u'burrito', 0.039716594]
+[u'packet', 0.17678615, u'binder', 0.069062658, u'Band_Aid', 0.046558026, u'mousetrap', 0.041817296, u'refrigerator', 0.035695337]
+[u'turnstile', 0.36935085, u'forklift', 0.1830712, u'drum', 0.083377935, u'steel_drum', 0.042724404, u'barrel', 0.031037109]
+[u'beer_bottle', 0.63219476, u'pop_bottle', 0.27702719, u'refrigerator', 0.065000705, u'bottlecap', 0.0099490639, u'grocery_store', 0.0061196978]
+[u'web_site', 0.33177346, u'book_jacket', 0.13753805, u'hair_spray', 0.021149619, u'Band_Aid', 0.013951808, u'packet', 0.012319146]

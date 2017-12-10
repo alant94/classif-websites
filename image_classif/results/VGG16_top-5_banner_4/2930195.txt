@@ -1,0 +1,1 @@
+[u'screwdriver', 0.55450648, u'ballpoint', 0.093090363, u"carpenter's_kit", 0.049739279, u'wine_bottle', 0.049464304, u'rubber_eraser', 0.031631742]

@@ -1,0 +1,2 @@
+[u'puck', 0.46570814, u'beer_bottle', 0.10720178, u'bottlecap', 0.059994459, u'lens_cap', 0.024723774, u'pick', 0.022686208]
+[u'Band_Aid', 0.1050102, u'hook', 0.071905687, u'envelope', 0.047967378, u'Windsor_tie', 0.031131439, u'web_site', 0.030584246]

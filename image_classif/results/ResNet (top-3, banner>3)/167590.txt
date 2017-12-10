@@ -1,0 +1,7 @@
+[u'grand_piano', 0.83646435, u'bassoon', 0.095611945, u'oboe', 0.055398785]
+[u'banjo', 0.71298057, u'violin', 0.071051493, u'cello', 0.066078134]
+[u'vestment', 0.33598113, u'military_uniform', 0.29930297, u'rifle', 0.17302862]
+[u'violin', 0.77290094, u'cello', 0.10660455, u'trombone', 0.056243282]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'electric_guitar', 0.80244261, u'marimba', 0.039948981, u'drumstick', 0.029758198]
+[u'cello', 0.9866339, u'violin', 0.0099382317, u'bassoon', 0.0022995987]

@@ -1,0 +1,1 @@
+[u'bullet_train', 0.27610675, u'lampshade', 0.15207879, u'stupa', 0.090348847, u'planetarium', 0.087438256, u'spotlight', 0.049367126]

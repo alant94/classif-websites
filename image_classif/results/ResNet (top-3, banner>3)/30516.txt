@@ -1,0 +1,6 @@
+[u'book_jacket', 0.45083708, u'comic_book', 0.14031498, u'web_site', 0.03719468]
+[u'recreational_vehicle', 0.80774957, u'golfcart', 0.11822478, u'mobile_home', 0.032036323]
+[u'crossword_puzzle', 0.31139895, u'digital_clock', 0.28668162, u'digital_watch', 0.099435829]
+[u'patio', 0.42535001, u'mobile_home', 0.18588777, u'boathouse', 0.1726056]
+[u'mobile_home', 0.24976118, u'church', 0.15819384, u'picket_fence', 0.099060714]
+[u'jersey', 0.29009789, u'laptop', 0.27281976, u'envelope', 0.038982544]

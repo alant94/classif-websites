@@ -1,0 +1,2 @@
+[u'greenhouse', 0.99997079, u'planetarium', 1.2791191e-05, u'dome', 6.0101606e-06]
+[u'cowboy_boot', 0.066233888, u'electric_guitar', 0.059008572, u'beer_bottle', 0.044814318]

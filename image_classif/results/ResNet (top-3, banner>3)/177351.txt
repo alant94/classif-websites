@@ -1,0 +1,7 @@
+[u'shovel', 0.95014757, u'microphone', 0.013036352, u'vacuum', 0.0032911398]
+[u'web_site', 0.19923884, u'book_jacket', 0.13258657, u'comic_book', 0.062462203]
+[u'library', 0.25376269, u'desk', 0.12614194, u'restaurant', 0.11976355]
+[u'suit', 0.74010855, u'Windsor_tie', 0.16606727, u'bow_tie', 0.027464848]
+[u'screwdriver', 0.49129036, u"carpenter's_kit", 0.21493816, u'organ', 0.16997106]
+[u'switch', 0.48504573, u'safe', 0.21510087, u'screwdriver', 0.071046136]
+[u'shovel', 0.21015337, u"carpenter's_kit", 0.13229014, u'Windsor_tie', 0.1309703]

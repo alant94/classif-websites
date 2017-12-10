@@ -1,0 +1,8 @@
+[u'web_site', 0.42267033, u'ski', 0.033003002, u'crossword_puzzle', 0.027370458]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'beer_bottle', 0.081895165, u'hook', 0.071596198, u'pop_bottle', 0.056516122]
+[u'web_site', 0.45871326, u'digital_clock', 0.23406091, u'Band_Aid', 0.024462104]
+[u'digital_clock', 0.96765387, u'digital_watch', 0.015635479, u'web_site', 0.0053061647]
+[u'digital_clock', 0.94430363, u'digital_watch', 0.044739794, u'screen', 0.0023318382]
+[u'web_site', 0.7264083, u'whistle', 0.025029354, u'nipple', 0.012512182]
+[u'bee', 0.35485485, u'picket_fence', 0.19016178, u'sulphur_butterfly', 0.13579808]

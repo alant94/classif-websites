@@ -1,0 +1,2 @@
+[u'loupe', 0.37439537, u'stopwatch', 0.077807277, u'hook', 0.068452582]
+[u'bucket', 0.46168274, u'sunscreen', 0.28138921, u'face_powder', 0.045827232]

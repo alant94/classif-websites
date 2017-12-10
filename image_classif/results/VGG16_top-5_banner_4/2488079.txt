@@ -1,0 +1,1 @@
+[u'envelope', 0.75075513, u'container_ship', 0.050632566, u'Band_Aid', 0.020368578, u'binder', 0.017339082, u'digital_clock', 0.014836357]

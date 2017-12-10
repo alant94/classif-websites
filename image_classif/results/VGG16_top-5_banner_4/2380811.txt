@@ -1,0 +1,3 @@
+[u'switch', 0.30897066, u'pencil_sharpener', 0.11099324, u'paper_towel', 0.072529972, u'digital_clock', 0.064055167, u'scale', 0.038904]
+[u'chain_mail', 0.090355352, u'jean', 0.05696179, u'shopping_cart', 0.054931648, u'hair_spray', 0.047403675, u'plunger', 0.039587673]
+[u'book_jacket', 0.065391079, u'web_site', 0.052562024, u'hair_spray', 0.041217905, u'sunscreen', 0.036120873, u'otterhound', 0.032529581]

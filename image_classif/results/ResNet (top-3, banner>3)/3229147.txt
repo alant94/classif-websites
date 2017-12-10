@@ -1,0 +1,6 @@
+[u'book_jacket', 0.82394397, u'comic_book', 0.058353066, u'fire_screen', 0.0079731913]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'barn', 0.29859537, u'rapeseed', 0.125939, u'volcano', 0.091453999]
+[u'marimba', 0.19388624, u'drum', 0.19171897, u'ear', 0.048770681]
+[u'jersey', 0.30718488, u'book_jacket', 0.089753613, u'web_site', 0.066889212]
+[u'crossword_puzzle', 0.25656739, u'menu', 0.083012171, u'book_jacket', 0.049093083]

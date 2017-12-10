@@ -1,0 +1,2 @@
+[u'packet', 0.26678336, u'crate', 0.17028698, u'envelope', 0.13152248, u'bottlecap', 0.08404924, u'menu', 0.054300904]
+[u'cheetah', 0.36816925, u'jaguar', 0.21640168, u'dalmatian', 0.086604767, u'leopard', 0.050109822, u'tiger_cat', 0.0083805593]

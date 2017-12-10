@@ -1,0 +1,1 @@
+[u'geyser', 0.14743137, u'lakeside', 0.14388454, u'television', 0.071347564, u'fountain', 0.069395751, u'book_jacket', 0.051483173]

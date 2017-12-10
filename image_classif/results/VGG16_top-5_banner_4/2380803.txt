@@ -1,0 +1,1 @@
+[u'lawn_mower', 0.064501978, u'Afghan_hound', 0.052405745, u'greenhouse', 0.040897463, u'go-kart', 0.038797878, u'Shetland_sheepdog', 0.03254693]

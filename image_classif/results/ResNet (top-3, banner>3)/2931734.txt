@@ -1,0 +1,2 @@
+[u'handkerchief', 0.26998168, u'prayer_rug', 0.044542622, u'jean', 0.0396192]
+[u'vacuum', 0.36891118, u'iron', 0.07114704, u'gown', 0.044049464]

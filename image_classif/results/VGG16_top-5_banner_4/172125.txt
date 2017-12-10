@@ -1,0 +1,4 @@
+[u'digital_clock', 0.46788296, u"jack-o'-lantern", 0.059844512, u'matchstick', 0.021728376, u'digital_watch', 0.018711302, u'analog_clock', 0.01327223]
+[u'digital_clock', 0.70446306, u'scoreboard', 0.0687804, u'digital_watch', 0.025567438, u'envelope', 0.019841434, u'packet', 0.013931744]
+[u'digital_clock', 0.37302166, u'monitor', 0.20286697, u'screen', 0.17611744, u'television', 0.062378138, u'cash_machine', 0.020540448]
+[u'digital_clock', 0.34141985, u'matchstick', 0.044277664, u"jack-o'-lantern", 0.030621083, u'digital_watch', 0.027261475, u'picket_fence', 0.022303086]

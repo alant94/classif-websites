@@ -1,0 +1,6 @@
+[u'park_bench', 0.45821196, u'lakeside', 0.10645942, u'barn', 0.038569182]
+[u'rule', 0.16347241, u'menu', 0.071066596, u'nail', 0.064858973]
+[u'Band_Aid', 0.18523845, u'whistle', 0.077810928, u'jersey', 0.051295865]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'screwdriver', 0.681036, u"carpenter's_kit", 0.16595402, u'chime', 0.039500136]
+[u'shield', 0.4402909, u'football_helmet', 0.062431045, u'television', 0.060002346]

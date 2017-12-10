@@ -1,0 +1,1 @@
+[u'monitor', 0.34888524, u'home_theater', 0.16282581, u'screen', 0.12241629, u'television', 0.094110876, u'desktop_computer', 0.05961993]

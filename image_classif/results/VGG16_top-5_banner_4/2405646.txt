@@ -1,0 +1,2 @@
+[u'safety_pin', 0.94134104, u'can_opener', 0.015342669, u'hair_slide', 0.0095007485, u'screwdriver', 0.0058227926, u'corkscrew', 0.0035658197]
+[u'comic_book', 0.12660615, u'web_site', 0.094787553, u'book_jacket', 0.061624169, u'refrigerator', 0.055292435, u'packet', 0.04696098]

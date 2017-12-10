@@ -1,0 +1,4 @@
+[u'cinema', 0.36331463, u'book_jacket', 0.11122745, u'web_site', 0.083460495, u'rule', 0.076963119, u'paddlewheel', 0.062053636]
+[u'planetarium', 0.51075613, u'flagpole', 0.057502769, u'thatch', 0.036964066, u'cinema', 0.03414147, u'yurt', 0.032956395]
+[u'digital_clock', 0.15201975, u'matchstick', 0.085273564, u'nematode', 0.063923769, u'web_site', 0.033233754, u'rule', 0.025714751]
+[u'ski', 0.24919224, u'book_jacket', 0.16363761, u'comic_book', 0.090836249, u'rifle', 0.079534702, u'flagpole', 0.068980724]

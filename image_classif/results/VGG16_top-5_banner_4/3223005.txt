@@ -1,0 +1,7 @@
+[u'torch', 0.24054208, u'lab_coat', 0.16552487, u'suit', 0.16018347, u'Windsor_tie', 0.085416928, u'bow_tie', 0.072404243]
+[u'military_uniform', 0.17571278, u'theater_curtain', 0.097170055, u'wardrobe', 0.043095127, u'throne', 0.03750436, u'stage', 0.029043002]
+[u'wig', 0.50170392, u'abaya', 0.043651626, u'cloak', 0.030575372, u'maillot', 0.027204596, u'mask', 0.020851696]
+[u'web_site', 0.24286, u'wig', 0.086566247, u'television', 0.053922277, u'academic_gown', 0.046644017, u'oboe', 0.045422792]
+[u'water_tower', 0.1924637, u'drilling_platform', 0.12804498, u'beacon', 0.073417895, u'crane', 0.06061504, u'schooner', 0.04075725]
+[u'sliding_door', 0.64099675, u'patio', 0.039465006, u'four-poster', 0.031430297, u'medicine_chest', 0.028067976, u'window_shade', 0.021983648]
+[u'padlock', 0.073067077, u'thimble', 0.071872525, u'whistle', 0.052392725, u'necklace', 0.047055341, u'brass', 0.044435516]

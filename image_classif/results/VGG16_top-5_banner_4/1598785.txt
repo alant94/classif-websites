@@ -1,0 +1,6 @@
+[u'hook', 0.11463457, u'table_lamp', 0.08293128, u'web_site', 0.075867556, u'monitor', 0.047913291, u'wall_clock', 0.044957973]
+[u'bow', 0.064917751, u'drumstick', 0.06489788, u'gong', 0.041757111, u'bassoon', 0.036686294, u'marimba', 0.034425054]
+[u'book_jacket', 0.38653088, u'comic_book', 0.29171261, u'web_site', 0.085815057, u'wig', 0.051273305, u'hair_spray', 0.046248607]
+[u'maillot', 0.11985164, u'bikini', 0.092742331, u'miniskirt', 0.091252521, u'pajama', 0.066487662, u'maillot', 0.06623847]
+[u'comic_book', 0.96381783, u'stage', 0.007451131, u'web_site', 0.0051483479, u'maillot', 0.0026010363, u'bikini', 0.0023162197]
+[u'web_site', 0.11334758, u'monitor', 0.043926079, u'mouse', 0.036235992, u'television', 0.035458248, u'envelope', 0.034367152]

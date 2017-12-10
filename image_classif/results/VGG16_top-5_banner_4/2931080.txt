@@ -1,0 +1,4 @@
+[u'brassiere', 0.22162297, u'diaper', 0.12486722, u'horizontal_bar', 0.047677837, u'maillot', 0.045779519, u'parallel_bars', 0.044690602]
+[u'stole', 0.19429447, u'ear', 0.051174056, u'apron', 0.034464009, u'sarong', 0.029797597, u'wig', 0.027079737]
+[u'diaper', 0.13111266, u'shower_curtain', 0.11113505, u'mosquito_net', 0.063448399, u'brassiere', 0.058483854, u'sunglasses', 0.039996143]
+[u'cloak', 0.18058906, u'cowboy_hat', 0.085449778, u'hatchet', 0.055192597, u'sombrero', 0.04036146, u'revolver', 0.031338982]

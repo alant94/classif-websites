@@ -1,0 +1,6 @@
+[u'digital_watch', 0.6777283, u'digital_clock', 0.13403091, u'screwdriver', 0.026519563]
+[u'digital_clock', 0.94777673, u'digital_watch', 0.035158742, u'oscilloscope', 0.0061857724]
+[u'swing', 0.12494275, u'soccer_ball', 0.053197097, u'tench', 0.046815768]
+[u'rubber_eraser', 0.20154315, u'rule', 0.16002373, u'nail', 0.14658284]
+[u'plate_rack', 0.34514436, u'screwdriver', 0.14985791, u'oscilloscope', 0.12480979]
+[u'oscilloscope', 0.36560306, u'cleaver', 0.047387172, u'web_site', 0.032088052]

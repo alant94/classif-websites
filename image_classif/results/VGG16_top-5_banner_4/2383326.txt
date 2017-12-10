@@ -1,0 +1,3 @@
+[u'macaw', 0.32952824, u'picket_fence', 0.075855993, u'maypole', 0.034337532, u'flagpole', 0.032164816, u'bow', 0.030989233]
+[u'picket_fence', 0.13025622, u'lakeside', 0.078177325, u'obelisk', 0.065039232, u'megalith', 0.061379761, u'stone_wall', 0.052445397]
+[u'envelope', 0.47637418, u'web_site', 0.15284383, u'Band_Aid', 0.040793255, u'binder', 0.01784759, u'menu', 0.014679032]

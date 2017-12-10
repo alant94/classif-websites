@@ -1,0 +1,7 @@
+[u'pineapple', 0.34587571, u'banana', 0.20058034, u'jackfruit', 0.098014653, u'American_lobster', 0.033788364, u'ear', 0.026219601]
+[u'power_drill', 0.083069958, u'switch', 0.059458725, u'combination_lock', 0.0567904, u'safe', 0.049295817, u"carpenter's_kit", 0.043842409]
+[u'pop_bottle', 0.24512567, u'vending_machine', 0.21223813, u'refrigerator', 0.21206535, u'medicine_chest', 0.076613314, u'perfume', 0.042712428]
+[u'scale', 0.049776707, u'sleeping_bag', 0.048398603, u'envelope', 0.031063883, u'web_site', 0.025645366, u'hand_blower', 0.025364183]
+[u'garbage_truck', 0.28411686, u'gas_pump', 0.15675542, u'trailer_truck', 0.14291471, u'fire_engine', 0.12413117, u'mailbox', 0.040684801]
+[u'espresso_maker', 0.48439711, u'switch', 0.26986691, u'modem', 0.062127188, u"carpenter's_kit", 0.049574219, u'rotisserie', 0.032885108]
+[u'screen', 0.058417037, u'desktop_computer', 0.04522929, u'face_powder', 0.037073459, u'binder', 0.036491454, u'notebook', 0.036186364]

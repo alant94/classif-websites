@@ -1,0 +1,6 @@
+[u'coho', 0.52473021, u'barracouta', 0.24474961, u'gar', 0.14410634]
+[u'goldfinch', 0.3652719, u'rock_beauty', 0.12200168, u'three-toed_sloth', 0.038700551]
+[u'web_site', 0.34846547, u'shower_curtain', 0.060570307, u'jersey', 0.057774302]
+[u'binoculars', 0.17771384, u'knee_pad', 0.15561366, u'bulletproof_vest', 0.04184027]
+[u'barracouta', 0.21980445, u'stingray', 0.13198516, u'tusker', 0.085540652]
+[u'coho', 0.14822398, u'barracouta', 0.071576394, u'sturgeon', 0.068126254]

@@ -1,0 +1,2 @@
+[u'refrigerator', 0.083513886, u'prayer_rug', 0.042504109, u'shower_curtain', 0.041110288]
+[u'bib', 0.31926438, u'apron', 0.27079108, u'broccoli', 0.095161557]

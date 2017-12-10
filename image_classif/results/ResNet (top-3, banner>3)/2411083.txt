@@ -1,0 +1,5 @@
+[u'ski', 0.21401361, u'banana', 0.19226053, u'hook', 0.086577781]
+[u'fire_engine', 0.12943, u'container_ship', 0.1148308, u'racer', 0.077593409]
+[u'crossword_puzzle', 0.17052913, u'joystick', 0.14979525, u'monitor', 0.11095791]
+[u'power_drill', 0.16682759, u'sewing_machine', 0.10132118, u'bow', 0.086608507]
+[u'oil_filter', 0.35332787, u'mousetrap', 0.1315712, u'space_heater', 0.12967648]

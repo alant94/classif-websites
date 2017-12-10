@@ -1,0 +1,4 @@
+[u'dining_table', 0.31448328, u'violin', 0.16649806, u'rocking_chair', 0.076713271]
+[u'guillotine', 0.94803315, u'ambulance', 0.0068909666, u'lighter', 0.0066789789]
+[u'jersey', 0.11399406, u'sweatshirt', 0.099245638, u'binder', 0.091990694]
+[u'letter_opener', 0.3442539, u'wall_clock', 0.10789982, u'hair_slide', 0.064368077]

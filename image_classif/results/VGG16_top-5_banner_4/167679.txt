@@ -1,0 +1,4 @@
+[u'book_jacket', 0.074363515, u'digital_clock', 0.071930118, u'screwdriver', 0.048982989, u'modem', 0.032478683, u'binder', 0.03035458]
+[u'digital_clock', 0.17485781, u'analog_clock', 0.076015383, u'web_site', 0.06461443, u'Band_Aid', 0.053844281, u'stopwatch', 0.026274674]
+[u'web_site', 0.69202155, u'comic_book', 0.24928035, u'book_jacket', 0.016849842, u'scoreboard', 0.015363128, u'menu', 0.0055987923]
+[u'spotlight', 0.50549257, u'bell_cote', 0.051565155, u'suspension_bridge', 0.045715794, u'traffic_light', 0.04120164, u'guillotine', 0.040517401]

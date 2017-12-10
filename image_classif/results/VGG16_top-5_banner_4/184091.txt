@@ -1,0 +1,4 @@
+[u'tricycle', 0.16662262, u'bobsled', 0.088291563, u'canoe', 0.071482621, u'go-kart', 0.061249059, u'tractor', 0.044434015]
+[u'coho', 0.056628767, u'sturgeon', 0.04841369, u'crutch', 0.044396639, u'suit', 0.034380607, u'sweatshirt', 0.028883878]
+[u'tractor', 0.21538877, u'plow', 0.16295809, u'shield', 0.046771031, u'rugby_ball', 0.046402011, u'hay', 0.045301978]
+[u'Band_Aid', 0.057341989, u'window_shade', 0.048439834, u'gasmask', 0.027143249, u'iron', 0.021704163, u'television', 0.020843023]

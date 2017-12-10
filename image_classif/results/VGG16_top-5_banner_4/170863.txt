@@ -1,0 +1,1 @@
+[u'rifle', 0.13805383, u"carpenter's_kit", 0.13457626, u'assault_rifle', 0.12036315, u'screwdriver', 0.062915392, u'book_jacket', 0.027011886]

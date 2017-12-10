@@ -1,0 +1,1 @@
+[u'lampshade', 0.28073034, u'washbasin', 0.18090187, u'table_lamp', 0.11336875, u'lighter', 0.093757167, u'soap_dispenser', 0.083617277]

@@ -1,0 +1,6 @@
+[u'pot', 0.30661672, u'snail', 0.095186286, u'slug', 0.068651877]
+[u'spatula', 0.14297128, u'sunscreen', 0.080271013, u'ice_lolly', 0.073516458]
+[u'television', 0.12010792, u'crane', 0.048574705, u'analog_clock', 0.034513772]
+[u'cannon', 0.1266176, u'scorpion', 0.10276566, u'bubble', 0.046342671]
+[u'pole', 0.23172207, u'beacon', 0.16997005, u'catamaran', 0.067681342]
+[u'table_lamp', 0.36601007, u'comic_book', 0.14576532, u'book_jacket', 0.13622724]

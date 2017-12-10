@@ -1,0 +1,5 @@
+[u'barbershop', 0.22878577, u'lab_coat', 0.21356888, u'barber_chair', 0.10774519, u'stethoscope', 0.076448888, u'vestment', 0.020080388]
+[u'book_jacket', 0.39220217, u'street_sign', 0.22665803, u'scoreboard', 0.074835896, u'cinema', 0.024661094, u'barbershop', 0.024406906]
+[u'oboe', 0.44931743, u'flute', 0.21190134, u'harp', 0.085268758, u'carousel', 0.031513177, u'sax', 0.027616527]
+[u'matchstick', 0.039792638, u'web_site', 0.026655402, u'chain', 0.024618631, u'bubble', 0.019418368, u'nail', 0.017040294]
+[u'bikini', 0.28299814, u'maillot', 0.16490866, u'sarong', 0.15458411, u'maillot', 0.13967162, u'sunglass', 0.030727917]

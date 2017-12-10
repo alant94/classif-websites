@@ -1,0 +1,4 @@
+[u'Eskimo_dog', 0.43137819, u'Siberian_husky', 0.41908291, u'Egyptian_cat', 0.024193024, u'white_wolf', 0.014196577, u'malamute', 0.012570959]
+[u'miniskirt', 0.42154372, u'maillot', 0.079079524, u'brassiere', 0.074702457, u'bikini', 0.055258181, u'sarong', 0.045293819]
+[u'window_shade', 0.13282557, u'binoculars', 0.069327928, u'harmonica', 0.063992776, u'sliding_door', 0.042928088, u'window_screen', 0.032811452]
+[u'Egyptian_cat', 0.25437683, u'tabby', 0.19992998, u'tiger_cat', 0.14562011, u'lynx', 0.087597571, u'doormat', 0.023201099]

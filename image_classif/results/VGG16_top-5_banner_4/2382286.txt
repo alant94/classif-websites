@@ -1,0 +1,2 @@
+[u'chain_saw', 0.055962358, u'street_sign', 0.035897706, u'moving_van', 0.030087838, u'web_site', 0.022198386, u'book_jacket', 0.019561853]
+[u'web_site', 0.14895444, u'book_jacket', 0.1438857, u'comic_book', 0.050276797, u'monitor', 0.039863355, u'shower_curtain', 0.033711538]

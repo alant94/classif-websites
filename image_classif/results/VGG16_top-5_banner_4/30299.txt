@@ -1,0 +1,1 @@
+[u'washbasin', 0.37029788, u'toilet_seat', 0.18803994, u'rain_barrel', 0.09779416, u'soap_dispenser', 0.037082002, u'water_jug', 0.034545045]

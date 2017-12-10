@@ -1,0 +1,2 @@
+[u'envelope', 0.16913508, u'toyshop', 0.10457272, u'comic_book', 0.0705375]
+[u'spider_web', 0.35839638, u'barn_spider', 0.21006739, u'laptop', 0.056046695]

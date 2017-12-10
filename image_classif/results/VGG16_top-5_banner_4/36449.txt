@@ -1,0 +1,8 @@
+[u'shower_curtain', 0.060070939, u'bookshop', 0.059384596, u'window_screen', 0.047986999, u'tobacco_shop', 0.041218564, u'sliding_door', 0.036046378]
+[u'pick', 0.14824784, u'face_powder', 0.080688246, u'sunglass', 0.078945525, u'toilet_seat', 0.050428472, u'sunglasses', 0.03670492]
+[u'carton', 0.16664402, u'umbrella', 0.10291147, u'breakwater', 0.080358543, u'picket_fence', 0.071476832, u'crib', 0.054403424]
+[u'book_jacket', 0.16723339, u'quill', 0.14138067, u'envelope', 0.097233377, u'sundial', 0.069268204, u'seashore', 0.056546334]
+[u'digital_clock', 0.91227108, u'digital_watch', 0.023611046, u'scoreboard', 0.016244218, u'odometer', 0.0041688434, u'stopwatch', 0.0038438311]
+[u'digital_clock', 0.58272421, u'envelope', 0.079628378, u'scoreboard', 0.04335852, u'wall_clock', 0.030922685, u'Band_Aid', 0.03000305]
+[u'gown', 0.11017255, u'handkerchief', 0.09403865, u'vase', 0.079555221, u'hoopskirt', 0.065053709, u'overskirt', 0.037337329]
+[u'digital_clock', 0.1537503, u'Band_Aid', 0.13380861, u'envelope', 0.10613527, u'street_sign', 0.060932428, u'matchstick', 0.043288298]

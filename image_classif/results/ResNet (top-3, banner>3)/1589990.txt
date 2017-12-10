@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.14014697, u'sunscreen', 0.13350184, u'bucket', 0.1216817]
+[u'plane', 0.16817631, u'hog', 0.15915796, u'dough', 0.069858544]
+[u'paddlewheel', 0.12748139, u'cleaver', 0.12076684, u"carpenter's_kit", 0.093907036]
+[u'volleyball', 0.39184919, u'horizontal_bar', 0.1290765, u'punching_bag', 0.099636212]
+[u'lighter', 0.94390017, u'shower_cap', 0.023841022, u'washbasin', 0.0031327689]
+[u'shower_cap', 0.1229061, u'hand_blower', 0.075811006, u'cowboy_hat', 0.043258596]
+[u'bathtub', 0.29944861, u'tub', 0.21459386, u'bathing_cap', 0.077893853]
+[u'golf_ball', 0.22629632, u'hourglass', 0.066233426, u'spotlight', 0.041025396]

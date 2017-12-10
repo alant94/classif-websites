@@ -1,0 +1,8 @@
+[u'dock', 0.18735072, u'Dungeness_crab', 0.089800604, u'pier', 0.083332524, u'breakwater', 0.072315395, u'horse_cart', 0.052908637]
+[u'puck', 0.2850717, u'book_jacket', 0.10163643, u'bottlecap', 0.08798752, u'pick', 0.049665209, u'jersey', 0.038946088]
+[u'Indian_elephant', 0.19532509, u'tusker', 0.14161743, u'barn', 0.065043293, u'book_jacket', 0.055147484, u'cloak', 0.051961858]
+[u'barracouta', 0.69094026, u'gar', 0.1600225, u'sturgeon', 0.091149382, u'tench', 0.028130779, u'reel', 0.0060594291]
+[u'hartebeest', 0.95844305, u'impala', 0.027526148, u'gazelle', 0.0029678156, u'ibex', 0.0025777328, u'warthog', 0.0019939817]
+[u'book_jacket', 0.080746591, u'Bouvier_des_Flandres', 0.044639479, u'wild_boar', 0.039906356, u'chain_saw', 0.036488809, u'military_uniform', 0.034683529]
+[u'valley', 0.25502703, u'parachute', 0.081168428, u'balloon', 0.063380167, u'alp', 0.060195249, u'lakeside', 0.052196741]
+[u'analog_clock', 0.096161105, u'loupe', 0.073465899, u'bib', 0.063479587, u'bolo_tie', 0.046624608, u'nematode', 0.042868014]

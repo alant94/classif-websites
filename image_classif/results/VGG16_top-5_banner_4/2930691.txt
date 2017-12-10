@@ -1,0 +1,2 @@
+[u'whistle', 0.16653699, u'jersey', 0.051769335, u'bathing_cap', 0.051615875, u'corkscrew', 0.045354337, u'can_opener', 0.029782519]
+[u'organ', 0.6144852, u'screwdriver', 0.11639775, u'chime', 0.025202734, u'syringe', 0.019453797, u'ballpoint', 0.014871897]

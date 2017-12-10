@@ -1,0 +1,2 @@
+[u'bookshop', 0.83959353, u'library', 0.044675969, u'bookcase', 0.037957788]
+[u'restaurant', 0.97957361, u'dining_table', 0.0054224664, u'library', 0.0041840198]

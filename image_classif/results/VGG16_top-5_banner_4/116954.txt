@@ -1,0 +1,1 @@
+[u'digital_clock', 0.091378637, u'washbasin', 0.048366133, u'shower_curtain', 0.043509558, u'bathtub', 0.03683028, u'tub', 0.030220447]

@@ -1,0 +1,3 @@
+[u'web_site', 0.11588434, u'traffic_light', 0.077664927, u'oil_filter', 0.073469922]
+[u'web_site', 0.43686771, u'hard_disc', 0.059115015, u'envelope', 0.02248518]
+[u'studio_couch', 0.19673212, u'pool_table', 0.093450375, u'grand_piano', 0.05337701]

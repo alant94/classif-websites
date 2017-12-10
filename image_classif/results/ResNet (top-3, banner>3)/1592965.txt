@@ -1,0 +1,5 @@
+[u'sock', 0.39663094, u'Band_Aid', 0.25653175, u'miniskirt', 0.052474778]
+[u'toaster', 0.27191195, u'remote_control', 0.2184778, u'perfume', 0.05272596]
+[u'black-footed_ferret', 0.6702382, u'polecat', 0.22332485, u'banded_gecko', 0.052549608]
+[u'miniskirt', 0.50810444, u'maillot', 0.13004056, u'maillot', 0.084298432]
+[u'washbasin', 0.17517196, u'tub', 0.14049727, u'bathtub', 0.12697387]

@@ -1,0 +1,5 @@
+[u'envelope', 0.1086913, u'web_site', 0.074731007, u'hook', 0.018618498, u'wardrobe', 0.015098252, u'Band_Aid', 0.014110136]
+[u'web_site', 0.26813322, u'envelope', 0.099867292, u'Band_Aid', 0.028433414, u'hair_spray', 0.0127506, u'brassiere', 0.0098243505]
+[u'nail', 0.31007844, u'hook', 0.13624448, u'hatchet', 0.041172788, u'matchstick', 0.024962235, u'chime', 0.017086858]
+[u'coil', 0.3133024, u'spotlight', 0.24313512, u'bubble', 0.057892252, u'shield', 0.041009415, u'maze', 0.040516376]
+[u'web_site', 0.04444816, u'safety_pin', 0.029571451, u'hook', 0.026092498, u'nail', 0.024172371, u'can_opener', 0.023874801]

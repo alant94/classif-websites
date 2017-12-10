@@ -1,0 +1,2 @@
+[u'soccer_ball', 0.31462452, u'mountain_bike', 0.04398565, u'bluetick', 0.041247565, u'hatchet', 0.039999008, u'Gordon_setter', 0.031787816]
+[u'tray', 0.09669666, u'handkerchief', 0.092971474, u'monitor', 0.077731155, u'swimming_trunks', 0.057986684, u'Windsor_tie', 0.038069583]

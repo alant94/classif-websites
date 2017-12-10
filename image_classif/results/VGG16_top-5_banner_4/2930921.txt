@@ -1,0 +1,6 @@
+[u'academic_gown', 0.77148938, u'abaya', 0.13355571, u'mortarboard', 0.083146065, u'velvet', 0.002192473, u'cloak', 0.0013288996]
+[u'Petri_dish', 0.24612097, u'spotlight', 0.15848683, u'strainer', 0.056421474, u'tray', 0.049769271, u'bucket', 0.019026564]
+[u'Petri_dish', 0.12731065, u'tray', 0.10421343, u'digital_watch', 0.075008057, u'strainer', 0.074622914, u'spotlight', 0.066118069]
+[u'abaya', 0.58326644, u'cloak', 0.20864549, u'trench_coat', 0.049911957, u'overskirt', 0.047492292, u'vestment', 0.045312926]
+[u'lab_coat', 0.38987964, u'vestment', 0.10314431, u'barber_chair', 0.0582297, u'grand_piano', 0.041361172, u'stretcher', 0.033403922]
+[u'sarong', 0.1671913, u'abaya', 0.16064437, u'kimono', 0.1252598, u'picket_fence', 0.09540502, u'shower_curtain', 0.049361646]

@@ -1,0 +1,8 @@
+[u'monitor', 0.11730631, u'airship', 0.069698922, u'parachute', 0.049163219, u'container_ship', 0.032221753, u'crane', 0.022958262]
+[u'skunk', 0.14260384, u'polecat', 0.07639388, u'giant_panda', 0.071846798, u'lesser_panda', 0.032876141, u'steel_drum', 0.027540168]
+[u'flagpole', 0.067156829, u'beacon', 0.043250699, u'Band_Aid', 0.042327985, u'analog_clock', 0.035986148, u'parachute', 0.031846449]
+[u'swab', 0.10269603, u'plastic_bag', 0.10162977, u'paintbrush', 0.083825536, u'shopping_basket', 0.081711628, u'bath_towel', 0.051916488]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'cardigan', 0.14682789, u'ice_lolly', 0.08880534, u'stole', 0.071368359, u'flute', 0.057281919, u'ear', 0.041644201]
+[u'sombrero', 0.22550781, u'puck', 0.097449198, u'tray', 0.093646206, u'buckle', 0.061051924, u'plate', 0.044506449]
+[u'groom', 0.67751378, u'gown', 0.11774547, u'pajama', 0.099664792, u'kimono', 0.017498314, u'candle', 0.0092950752]

@@ -1,0 +1,8 @@
+[u'carton', 0.22152597, u'Siamese_cat', 0.0593936, u'Pembroke', 0.048287552, u'toy_poodle', 0.027842067, u'French_bulldog', 0.022969672]
+[u'beer_glass', 0.33292696, u'goblet', 0.22519146, u'lighter', 0.13427868, u'red_wine', 0.085112207, u'sunglasses', 0.029403307]
+[u'bathtub', 0.50166571, u'tub', 0.39335132, u'bikini', 0.030893244, u'maillot', 0.008793829, u'brassiere', 0.0087601673]
+[u'harmonica', 0.208985, u'diaper', 0.12467181, u'dough', 0.10113934, u'swimming_trunks', 0.061477993, u'stethoscope', 0.04747621]
+[u'seat_belt', 0.46985489, u'Band_Aid', 0.035892874, u'syringe', 0.023702834, u'crossword_puzzle', 0.023535283, u'dumbbell', 0.016664149]
+[u'diaper', 0.36211997, u'maillot', 0.15933986, u'miniskirt', 0.12506001, u'brassiere', 0.12245367, u'bikini', 0.083423682]
+[u'cornet', 0.19108234, u'crayfish', 0.14025781, u'nail', 0.059950087, u'tick', 0.058495708, u'hermit_crab', 0.036515057]
+[u'buckle', 0.24390624, u'Band_Aid', 0.13199985, u'sandal', 0.058475282, u"potter's_wheel", 0.037558008, u'pick', 0.033970464]

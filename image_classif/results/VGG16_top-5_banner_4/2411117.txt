@@ -1,0 +1,4 @@
+[u'shoe_shop', 0.99894029, u'clog', 0.00089288555, u'brassiere', 3.5677123e-05, u'shower_curtain', 2.01609e-05, u'lampshade', 1.8363537e-05]
+[u'clog', 0.13499974, u'sandal', 0.130428, u'mask', 0.091405779, u'ocarina', 0.087488085, u'digital_watch', 0.079564057]
+[u'altar', 0.30084082, u'book_jacket', 0.12683101, u'comic_book', 0.0512891, u'throne', 0.03556845, u'space_shuttle', 0.030722613]
+[u'tray', 0.20946853, u'soup_bowl', 0.14181003, u'thimble', 0.11193208, u'plate', 0.066611983, u'Petri_dish', 0.040405598]

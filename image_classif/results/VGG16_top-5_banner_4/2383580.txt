@@ -1,0 +1,7 @@
+[u'turnstile', 0.45989782, u'sliding_door', 0.097739235, u'window_shade', 0.044295918, u'window_screen', 0.041432526, u'prison', 0.037791993]
+[u'Band_Aid', 0.3318736, u'envelope', 0.15040976, u'face_powder', 0.035273995, u'web_site', 0.033707716, u'knee_pad', 0.028119611]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'torch', 0.19989035, u'sea_slug', 0.1140944, u'candle', 0.098101929, u'matchstick', 0.081541955, u'space_shuttle', 0.058872744]
+[u'flagpole', 0.13747935, u'airliner', 0.048808433, u'hay', 0.040126268, u'book_jacket', 0.036495425, u'space_shuttle', 0.03521974]
+[u'bib', 0.12991384, u'tennis_ball', 0.048305366, u'ping-pong_ball', 0.03242733, u'Petri_dish', 0.03119779, u'face_powder', 0.028501293]
+[u'geyser', 0.16434591, u'beacon', 0.13542469, u'seashore', 0.10483698, u'megalith', 0.048128683, u'hay', 0.040350914]

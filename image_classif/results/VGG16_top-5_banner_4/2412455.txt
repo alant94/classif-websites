@@ -1,0 +1,4 @@
+[u'tray', 0.17753978, u'lighter', 0.14615908, u'iPod', 0.11319467, u'switch', 0.096347094, u'digital_clock', 0.061627537]
+[u'web_site', 0.11828933, u'street_sign', 0.10230535, u'menu', 0.030187994, u'crossword_puzzle', 0.019767687, u'book_jacket', 0.01847247]
+[u'screwdriver', 0.51500201, u'nail', 0.1046316, u'rule', 0.049283501, u"carpenter's_kit", 0.047190268, u'ballpoint', 0.040227704]
+[u'tray', 0.18211775, u'iPod', 0.12670921, u'lighter', 0.11259986, u'screen', 0.063127562, u'binder', 0.040850855]

@@ -1,0 +1,7 @@
+[u'barn_spider', 0.30779979, u'isopod', 0.14122021, u'bloodhound', 0.13721029]
+[u'typewriter_keyboard', 0.40637138, u'steam_locomotive', 0.15598002, u'space_bar', 0.086322919]
+[u'television', 0.32032841, u'web_site', 0.13281879, u'home_theater', 0.1206663]
+[u'barn_spider', 0.45865393, u'drilling_platform', 0.066711478, u'submarine', 0.038724642]
+[u'plow', 0.36854824, u'oxcart', 0.32631922, u'ox', 0.11012691]
+[u'kuvasz', 0.18105027, u'ox', 0.055839919, u'hog', 0.052786078]
+[u'pole', 0.21840918, u'Indian_elephant', 0.10516771, u'oxcart', 0.090618826]

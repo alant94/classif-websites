@@ -1,0 +1,5 @@
+[u'earthstar', 0.51315778, u'bolete', 0.28840059, u'stinkhorn', 0.083629422]
+[u'hen-of-the-woods', 0.48452061, u'cauliflower', 0.095415771, u'honeycomb', 0.065542601]
+[u'hen-of-the-woods', 0.26074833, u'web_site', 0.17909618, u'hamper', 0.069107637]
+[u'beaker', 0.11747337, u'web_site', 0.081975773, u'perfume', 0.044667769]
+[u'pot', 0.60842115, u'strawberry', 0.30657417, u'mortar', 0.0096875746]

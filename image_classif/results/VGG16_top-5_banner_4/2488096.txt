@@ -1,0 +1,2 @@
+[u'bison', 0.99932206, u'ox', 0.00042912169, u'water_buffalo', 0.00015958233, u'Arabian_camel', 3.2302141e-05, u'ram', 8.2343322e-06]
+[u'water_buffalo', 0.98717415, u'ox', 0.0069634584, u'ram', 0.0016352895, u'warthog', 0.0013936481, u'bighorn', 0.0010038062]

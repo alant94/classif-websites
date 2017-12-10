@@ -1,0 +1,5 @@
+[u'window_shade', 0.34939897, u'web_site', 0.342843, u'book_jacket', 0.068218857, u'window_screen', 0.040265806, u'menu', 0.026315002]
+[u'bookshop', 0.36217809, u'medicine_chest', 0.28828055, u'china_cabinet', 0.085916199, u'tobacco_shop', 0.075936779, u'toyshop', 0.040808655]
+[u'tobacco_shop', 0.15700717, u'toyshop', 0.069526285, u'shoe_shop', 0.0494802, u'space_shuttle', 0.045079228, u'gondola', 0.041955475]
+[u'CD_player', 0.19953029, u'laptop', 0.13988233, u'joystick', 0.1160754, u'tape_player', 0.076395884, u'projector', 0.061779246]
+[u'web_site', 0.77270359, u'menu', 0.069510899, u'envelope', 0.028735209, u'lab_coat', 0.012234273, u'window_shade', 0.007815551]

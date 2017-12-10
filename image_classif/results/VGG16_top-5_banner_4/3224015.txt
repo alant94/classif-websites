@@ -1,0 +1,8 @@
+[u'pencil_box', 0.12100857, u'binder', 0.11515728, u'cinema', 0.036693748, u'ballpoint', 0.031508472, u'rubber_eraser', 0.029601602]
+[u'barbershop', 0.48996761, u'tobacco_shop', 0.12561204, u'book_jacket', 0.10613374, u'cinema', 0.050197612, u'freight_car', 0.042683698]
+[u'crate', 0.42660818, u'crane', 0.08432278, u'forklift', 0.058300048, u'monastery', 0.054142155, u'yurt', 0.029481517]
+[u'analog_clock', 0.068545781, u'punching_bag', 0.063508704, u'coffee_mug', 0.040502626, u'lampshade', 0.037741173, u'wall_clock', 0.033702496]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'jean', 0.38026825, u'horizontal_bar', 0.17470858, u'unicycle', 0.068350926, u'umbrella', 0.067299902, u'ocarina', 0.03486811]
+[u'hook', 0.36737683, u'safety_pin', 0.081579752, u'oscilloscope', 0.048886225, u'bannister', 0.035285484, u'matchstick', 0.02005139]
+[u'seashore', 0.27530238, u'cliff', 0.11905012, u'wreck', 0.076593347, u'book_jacket', 0.068696082, u'lakeside', 0.066256382]

@@ -1,0 +1,2 @@
+[u'solar_dish', 0.14145863, u'triceratops', 0.082586959, u'bow', 0.067911148, u'African_grey', 0.05579143, u'hen', 0.028670559]
+[u'puck', 0.097304367, u'soccer_ball', 0.056966938, u'piggy_bank', 0.052828778, u'teddy', 0.050040584, u'parachute', 0.032693185]

@@ -1,0 +1,4 @@
+[u'cardoon', 0.40667504, u'artichoke', 0.073486567, u'cabbage_butterfly', 0.046658549]
+[u'crossword_puzzle', 0.54496974, u'menu', 0.053957101, u'red_wine', 0.033921737]
+[u'drum', 0.25950128, u'bakery', 0.1707326, u'crate', 0.057211004]
+[u'shovel', 0.067985654, u'cleaver', 0.041117694, u'plate_rack', 0.0332922]

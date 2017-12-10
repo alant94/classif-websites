@@ -1,0 +1,2 @@
+[u'radiator', 0.35759437, u'picket_fence', 0.17311637, u'worm_fence', 0.065877385]
+[u'shovel', 0.61983615, u'cleaver', 0.24953504, u'hook', 0.067070678]

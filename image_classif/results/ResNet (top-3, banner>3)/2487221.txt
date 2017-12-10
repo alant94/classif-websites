@@ -1,0 +1,6 @@
+[u'street_sign', 0.80072761, u'traffic_light', 0.11801916, u'digital_clock', 0.015800618]
+[u'book_jacket', 0.35762501, u'scoreboard', 0.064257033, u'butcher_shop', 0.055918917]
+[u'whistle', 0.22561797, u'hook', 0.084960975, u'nipple', 0.074183613]
+[u'envelope', 0.074529521, u'web_site', 0.066412039, u'Band_Aid', 0.059022624]
+[u'book_jacket', 0.43664104, u'jersey', 0.086417131, u'corn', 0.022983782]
+[u'binder', 0.087545075, u'web_site', 0.05824348, u'book_jacket', 0.054456219]

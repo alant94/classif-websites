@@ -1,0 +1,7 @@
+[u'street_sign', 0.081141315, u'packet', 0.054986484, u'sunscreen', 0.04775596]
+[u'pill_bottle', 0.42215309, u'lighter', 0.13907635, u'switch', 0.056610454]
+[u'book_jacket', 0.33217943, u'comic_book', 0.32395083, u'web_site', 0.053406257]
+[u'radiator', 0.16252755, u'hook', 0.15321553, u'candle', 0.11917448]
+[u'web_site', 0.54843861, u'baseball', 0.04049737, u'racket', 0.035349105]
+[u'pill_bottle', 0.74497098, u'switch', 0.032327551, u'oil_filter', 0.03095036]
+[u'oil_filter', 0.32320577, u'packet', 0.19647047, u'pill_bottle', 0.12991604]

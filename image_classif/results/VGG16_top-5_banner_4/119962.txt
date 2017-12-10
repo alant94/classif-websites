@@ -1,0 +1,1 @@
+[u'fire_engine', 0.53992194, u'ambulance', 0.10754441, u'garbage_truck', 0.041871987, u'tow_truck', 0.037168659, u'police_van', 0.033373009]

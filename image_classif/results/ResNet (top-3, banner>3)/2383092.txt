@@ -1,0 +1,8 @@
+[u'monitor', 0.25159258, u'web_site', 0.14981329, u'patio', 0.074930973]
+[u'puck', 0.92234218, u'oil_filter', 0.018469032, u'frying_pan', 0.015643744]
+[u'plate_rack', 0.37837231, u'nematode', 0.12355868, u'hair_slide', 0.06176446]
+[u'hook', 0.10113376, u'nematode', 0.073047951, u'ocarina', 0.070020214]
+[u'beaker', 0.15559879, u'frying_pan', 0.1052544, u'mouse', 0.049808208]
+[u'street_sign', 0.32148942, u'loupe', 0.278956, u'analog_clock', 0.076069623]
+[u'street_sign', 0.48253015, u'comic_book', 0.079234011, u'book_jacket', 0.07608521]
+[u'scoreboard', 0.15179963, u'web_site', 0.1466752, u'book_jacket', 0.11491574]

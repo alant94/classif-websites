@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.46771234, u'hand-held_computer', 0.064131729, u'lab_coat', 0.05929276]
+[u'barbell', 0.34209928, u'barrow', 0.078300998, u'snorkel', 0.065991685]
+[u'web_site', 0.86122626, u'screen', 0.021763656, u'envelope', 0.017368162]
+[u'plane', 0.27323866, u'maraca', 0.16662444, u'snail', 0.16483799]
+[u'Windsor_tie', 0.10072328, u'barbell', 0.05898663, u'suit', 0.056017578]

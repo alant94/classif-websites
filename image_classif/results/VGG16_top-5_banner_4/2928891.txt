@@ -1,0 +1,5 @@
+[u'spoonbill', 0.46636811, u'red_wine', 0.046133362, u'mask', 0.035019428, u'hammerhead', 0.028516844, u'flagpole', 0.026450632]
+[u'mask', 0.68343872, u'rocking_chair', 0.049964193, u'bonnet', 0.046186324, u'cowboy_boot', 0.033427712, u'chambered_nautilus', 0.013559809]
+[u'hair_slide', 0.35093728, u'oil_filter', 0.03926355, u'sombrero', 0.038179897, u'hand_blower', 0.029936124, u'chocolate_sauce', 0.027256278]
+[u'screw', 0.14090365, u'goblet', 0.074937381, u'conch', 0.058906008, u'lampshade', 0.027538532, u'corkscrew', 0.02716516]
+[u'swimming_trunks', 0.066787697, u'vizsla', 0.058168355, u'bloodhound', 0.038976558, u'balance_beam', 0.036385279, u'Rhodesian_ridgeback', 0.028453829]

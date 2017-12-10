@@ -1,0 +1,2 @@
+[u'picket_fence', 0.36515018, u'paintbrush', 0.073481061, u'fountain', 0.045029309, u'king_penguin', 0.036488634, u'ski', 0.025199061]
+[u'crossword_puzzle', 0.1544271, u'wall_clock', 0.047774702, u'book_jacket', 0.039687455, u'stole', 0.038153064, u'envelope', 0.034279842]

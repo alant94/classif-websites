@@ -1,0 +1,2 @@
+[u'crutch', 0.47953957, u'jean', 0.081206881, u'flute', 0.031367559]
+[u'mortarboard', 0.36696029, u'academic_gown', 0.13061979, u'stole', 0.072672382]

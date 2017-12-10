@@ -1,0 +1,4 @@
+[u'brassiere', 0.12722178, u'Band_Aid', 0.081893779, u'notebook', 0.039039183]
+[u'stole', 0.32803217, u'apron', 0.088180318, u'corn', 0.022797506]
+[u'Brittany_spaniel', 0.37632719, u'Blenheim_spaniel', 0.18258297, u'papillon', 0.11209481]
+[u'cliff', 0.10876095, u'suit', 0.050415643, u'gong', 0.047396604]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.22685996, u'lighter', 0.16576153, u'envelope', 0.14749929]
+[u'digital_clock', 0.15558374, u'analog_clock', 0.1304671, u'Band_Aid', 0.112992]
+[u'hard_disc', 0.27714667, u'binder', 0.26130667, u'modem', 0.10767958]

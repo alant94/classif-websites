@@ -1,0 +1,6 @@
+[u'hammerhead', 0.06757699, u'jellyfish', 0.062283199, u'sea_snake', 0.03373133, u'scuba_diver', 0.03204979, u'dugong', 0.027981583]
+[u'picket_fence', 0.43897751, u'candle', 0.26871726, u'radiator', 0.12555979, u'shower_curtain', 0.034892075, u'matchstick', 0.025703426]
+[u'web_site', 0.074528888, u'envelope', 0.03579434, u'jersey', 0.026394263, u'analog_clock', 0.01498273, u'nail', 0.012143201]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'wardrobe', 0.29853699, u'abaya', 0.15279, u'jean', 0.039666969, u'crutch', 0.020555593, u'shower_curtain', 0.016356448]
+[u'hammerhead', 0.06757699, u'jellyfish', 0.062283199, u'sea_snake', 0.03373133, u'scuba_diver', 0.03204979, u'dugong', 0.027981583]

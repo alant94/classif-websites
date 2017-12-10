@@ -1,0 +1,3 @@
+[u'space_shuttle', 0.60814548, u'missile', 0.21280368, u'projectile', 0.043269496, u'aircraft_carrier', 0.037741475, u'dock', 0.015119188]
+[u'lumbermill', 0.57077599, u'wreck', 0.1606918, u'boathouse', 0.068448029, u'crate', 0.05883114, u'dock', 0.057064779]
+[u'shoe_shop', 0.15289763, u'gown', 0.15051842, u'groom', 0.10007142, u'pajama', 0.091657117, u'jinrikisha', 0.040488634]

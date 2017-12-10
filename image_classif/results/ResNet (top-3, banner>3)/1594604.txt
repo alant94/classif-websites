@@ -1,0 +1,2 @@
+[u'iron', 0.26621237, u'Weimaraner', 0.14661361, u'Great_Dane', 0.075950153]
+[u'radiator', 0.12254077, u'badger', 0.090890132, u'Lakeland_terrier', 0.065434717]

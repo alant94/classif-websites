@@ -1,0 +1,8 @@
+[u'stole', 0.69826615, u'cardigan', 0.058059108, u'butcher_shop', 0.049876019, u'kimono', 0.020146238, u'poncho', 0.019346476]
+[u'web_site', 0.14085503, u'envelope', 0.044315852, u'moving_van', 0.040103868, u'street_sign', 0.028156595, u'book_jacket', 0.026771592]
+[u'shoe_shop', 0.72068822, u'butcher_shop', 0.067130089, u'stage', 0.028547678, u'wig', 0.024259983, u'theater_curtain', 0.017916206]
+[u'wooden_spoon', 0.28818032, u'spatula', 0.15958144, u'butcher_shop', 0.1069719, u'cleaver', 0.072225183, u'restaurant', 0.020895671]
+[u'book_jacket', 0.13828099, u'pop_bottle', 0.10119333, u'oil_filter', 0.10026651, u'scoreboard', 0.099998653, u'carton', 0.078231052]
+[u'restaurant', 0.44055188, u'stage', 0.12612951, u'cinema', 0.11609747, u'library', 0.062094275, u'butcher_shop', 0.034867693]
+[u'ski', 0.36062181, u'prayer_rug', 0.13144803, u'book_jacket', 0.056094117, u'cinema', 0.051701609, u'comic_book', 0.037288923]
+[u'web_site', 0.14594111, u'envelope', 0.037897334, u'oil_filter', 0.021628885, u'microphone', 0.017753588, u'vacuum', 0.017312739]

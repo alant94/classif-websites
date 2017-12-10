@@ -1,0 +1,2 @@
+[u'warplane', 0.075093843, u'horse_cart', 0.068121321, u'African_hunting_dog', 0.045805335, u'missile', 0.034231313, u'freight_car', 0.030534312]
+[u'harvester', 0.74389982, u'parachute', 0.14235294, u'thresher', 0.020244967, u'barn', 0.010062132, u'balloon', 0.0091581466]

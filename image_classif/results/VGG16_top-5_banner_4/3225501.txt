@@ -1,0 +1,2 @@
+[u'loggerhead', 0.89528573, u'leatherback_turtle', 0.10176481, u'terrapin', 0.0028914909, u'mud_turtle', 2.6271018e-05, u'starfish', 2.1455564e-05]
+[u'shield', 0.92994142, u'bolo_tie', 0.010493452, u'pick', 0.0065845, u'breastplate', 0.0047202404, u'puck', 0.0021384459]

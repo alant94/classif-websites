@@ -1,0 +1,6 @@
+[u'envelope', 0.11710108, u'web_site', 0.025781471, u'book_jacket', 0.023289073, u'wall_clock', 0.02294364, u'velvet', 0.022316845]
+[u'grand_piano', 0.29305455, u'suit', 0.086129211, u'groom', 0.082127087, u'hair_spray', 0.06458585, u'stage', 0.055027835]
+[u'book_jacket', 0.97444576, u'comic_book', 0.0091503086, u'barbershop', 0.0077682915, u'web_site', 0.001789519, u'guillotine', 0.00048549066]
+[u'library', 0.036803361, u'picket_fence', 0.036616676, u'aircraft_carrier', 0.028514389, u'safe', 0.02583834, u'bell_cote', 0.022751167]
+[u'picket_fence', 0.17908914, u'envelope', 0.052103501, u'bell_cote', 0.034286797, u'coral_fungus', 0.031347811, u'jigsaw_puzzle', 0.027300658]
+[u'book_jacket', 0.48328584, u'comic_book', 0.20862284, u'web_site', 0.18984731, u'abacus', 0.014952868, u'marimba', 0.010956688]

@@ -1,0 +1,3 @@
+[u'stethoscope', 0.98011369, u'bolo_tie', 0.0095843617, u'lab_coat', 0.0040973062]
+[u'boathouse', 0.32987922, u'barn', 0.13324384, u'beacon', 0.08074145]
+[u'web_site', 0.20048639, u'ocarina', 0.072093472, u'pick', 0.033860259]

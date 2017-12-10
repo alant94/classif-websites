@@ -1,0 +1,2 @@
+[u'butcher_shop', 0.26499033, u'restaurant', 0.08911892, u'stage', 0.079172179]
+[u'hamper', 0.77601153, u'eggnog', 0.032824866, u'mailbag', 0.032099266]

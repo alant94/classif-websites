@@ -1,0 +1,4 @@
+[u'web_site', 0.6909439, u'Band_Aid', 0.021677455, u'cassette', 0.015294462]
+[u'hook', 0.37898695, u'loudspeaker', 0.11985634, u'switch', 0.061076034]
+[u'web_site', 0.61221051, u'hard_disc', 0.21179414, u'cassette', 0.020340895]
+[u'binder', 0.31201461, u'cash_machine', 0.06377539, u'web_site', 0.055249505]

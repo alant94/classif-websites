@@ -1,0 +1,6 @@
+[u'lorikeet', 0.11430647, u'picket_fence', 0.079094909, u'peacock', 0.067332052, u'chainlink_fence', 0.066897646, u'worm_fence', 0.040698387]
+[u'honeycomb', 0.11994173, u'bee', 0.11327332, u'ant', 0.083344601, u'long-horned_beetle', 0.07391528, u'harvestman', 0.070083834]
+[u'red_wine', 0.7830224, u'wine_bottle', 0.10855519, u'goblet', 0.057313234, u'cocktail_shaker', 0.010188616, u'beer_glass', 0.0088273473]
+[u'barrel', 0.99987268, u'mailbox', 4.1083083e-05, u'lumbermill', 1.529586e-05, u'chest', 1.2762034e-05, u'crate', 1.2465309e-05]
+[u'water_bottle', 0.54583222, u'wine_bottle', 0.10605019, u'lotion', 0.077846199, u'hair_spray', 0.070585594, u'red_wine', 0.045076743]
+[u'wine_bottle', 0.90083706, u'red_wine', 0.096493147, u'hamper', 0.0012162251, u'hair_spray', 0.00033343546, u'lipstick', 0.00031544655]

@@ -1,0 +1,1 @@
+[u'loudspeaker', 0.77854854, u'microphone', 0.11343267, u'radio', 0.046475492, u'electric_fan', 0.014411653, u'cassette_player', 0.010054606]

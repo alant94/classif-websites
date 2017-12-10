@@ -1,0 +1,6 @@
+[u'mosquito_net', 0.071941666, u'Angora', 0.052739441, u'window_shade', 0.026079061, u'dining_table', 0.025724459, u'sliding_door', 0.017308956]
+[u'drum', 0.12702161, u'pick', 0.077421151, u'face_powder', 0.049483683, u'sunglass', 0.034742504, u'analog_clock', 0.030430969]
+[u'saltshaker', 0.35027966, u'lotion', 0.18944347, u'vase', 0.13611998, u'soap_dispenser', 0.075705767, u'perfume', 0.071834102]
+[u'container_ship', 0.19840324, u'Windsor_tie', 0.037362058, u'balloon', 0.031656358, u'wall_clock', 0.031264227, u'jigsaw_puzzle', 0.026685178]
+[u'matchstick', 0.17949808, u'birdhouse', 0.095354617, u'wall_clock', 0.035985928, u'analog_clock', 0.032942332, u'rule', 0.024767522]
+[u'hook', 0.091320425, u'nail', 0.069813371, u'screw', 0.069240488, u'corkscrew', 0.068043895, u'centipede', 0.04425567]

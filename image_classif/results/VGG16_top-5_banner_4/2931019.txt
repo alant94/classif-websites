@@ -1,0 +1,1 @@
+[u'diaper', 0.26194963, u'sunscreen', 0.088742301, u'Band_Aid', 0.074934535, u'thunder_snake', 0.026503678, u'starfish', 0.019058803]

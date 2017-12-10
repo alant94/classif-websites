@@ -1,0 +1,8 @@
+[u'envelope', 0.21865782, u'screen', 0.13945672, u'space_shuttle', 0.071469523]
+[u'restaurant', 0.082979508, u"potter's_wheel", 0.065622851, u'plate', 0.04366108]
+[u'shield', 0.076342598, u'Band_Aid', 0.07309439, u'web_site', 0.069885246]
+[u'jean', 0.081086054, u'plastic_bag', 0.076410927, u'swab', 0.042337231]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'hair_spray', 0.21582858, u'groom', 0.10223821, u'paintbrush', 0.1004602]
+[u'bolo_tie', 0.1606904, u'puck', 0.12936278, u'shield', 0.12553765]
+[u'candle', 0.25824636, u'groom', 0.12646092, u'hair_spray', 0.067739837]

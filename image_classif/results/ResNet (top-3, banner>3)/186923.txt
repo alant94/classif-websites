@@ -1,0 +1,1 @@
+[u'Italian_greyhound', 0.6432606, u'English_foxhound', 0.15416552, u'Walker_hound', 0.057530914]

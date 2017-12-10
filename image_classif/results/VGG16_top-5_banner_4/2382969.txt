@@ -1,0 +1,2 @@
+[u'puck', 0.24219894, u'bottlecap', 0.090359367, u'street_sign', 0.058276281, u'bathing_cap', 0.047879942, u'wall_clock', 0.045455806]
+[u'web_site', 0.41869831, u'book_jacket', 0.10278752, u'comic_book', 0.073111124, u'packet', 0.054028325, u'Band_Aid', 0.031166006]

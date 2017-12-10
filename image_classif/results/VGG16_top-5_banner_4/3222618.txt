@@ -1,0 +1,2 @@
+[u'breastplate', 0.2905592, u'cuirass', 0.18595451, u'caldron', 0.060034148, u'brass', 0.046181783, u'altar', 0.042075302]
+[u'pedestal', 0.21100645, u'cuirass', 0.1972172, u'breastplate', 0.15697755, u'thimble', 0.037426565, u'shield', 0.036998875]

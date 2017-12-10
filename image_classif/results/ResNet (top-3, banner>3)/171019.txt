@@ -1,0 +1,4 @@
+[u'mountain_bike', 0.2944904, u'unicycle', 0.2701968, u'moped', 0.17789139]
+[u'stupa', 0.33888486, u'steam_locomotive', 0.080796689, u'crane', 0.064179495]
+[u'Windsor_tie', 0.20174192, u'hand-held_computer', 0.13094476, u'suit', 0.10730978]
+[u'Maltese_dog', 0.50290018, u'Shih-Tzu', 0.18723743, u'capuchin', 0.02889804]

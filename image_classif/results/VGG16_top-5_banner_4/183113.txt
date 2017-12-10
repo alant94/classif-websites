@@ -1,0 +1,3 @@
+[u'parachute', 0.050819237, u'flagpole', 0.040817875, u'beacon', 0.039045554, u'space_shuttle', 0.038997918, u'bell_cote', 0.026349615]
+[u'parachute', 0.033294566, u'beacon', 0.032993197, u'binder', 0.02650327, u'flagpole', 0.025054676, u'bald_eagle', 0.024941983]
+[u'beacon', 0.070838571, u'flagpole', 0.049671214, u'bell_cote', 0.043807842, u'space_shuttle', 0.04204243, u'obelisk', 0.041287236]

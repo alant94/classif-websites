@@ -1,0 +1,4 @@
+[u'nematode', 0.20879178, u'dishwasher', 0.030469172, u'oboe', 0.016242741]
+[u'web_site', 0.42400336, u'envelope', 0.36514828, u'jigsaw_puzzle', 0.025237134]
+[u'oxygen_mask', 0.20848228, u'switch', 0.17683135, u'nipple', 0.057936575]
+[u'medicine_chest', 0.3337974, u'binder', 0.12723754, u'Band_Aid', 0.1002731]

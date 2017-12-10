@@ -1,0 +1,3 @@
+[u'prayer_rug', 0.85410982, u'wallet', 0.042450041, u'packet', 0.019318555, u'binder', 0.014257275, u'doormat', 0.010340871]
+[u'harmonica', 0.43247235, u'wallet', 0.20477115, u'packet', 0.045015167, u'buckle', 0.034658797, u'prayer_rug', 0.029560884]
+[u'wallet', 0.52662605, u'packet', 0.14915508, u'binder', 0.086881161, u'book_jacket', 0.040502831, u'harmonica', 0.035636511]

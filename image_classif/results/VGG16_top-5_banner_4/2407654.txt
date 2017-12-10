@@ -1,0 +1,1 @@
+[u'ashcan', 0.17004742, u'pay-phone', 0.049473006, u'pencil_sharpener', 0.045488887, u'rain_barrel', 0.041926615, u'gas_pump', 0.041768279]

@@ -1,0 +1,2 @@
+[u'joystick', 0.27155498, u'slot', 0.1487692, u'pool_table', 0.039868269, u'sewing_machine', 0.038875904, u'chest', 0.027242275]
+[u'shower_curtain', 0.64828706, u'toilet_seat', 0.066317201, u'soap_dispenser', 0.045478448, u'washbasin', 0.029267928, u'beaker', 0.02446731]

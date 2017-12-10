@@ -1,0 +1,2 @@
+[u'stethoscope', 0.43510428, u'beaker', 0.076080739, u'mouse', 0.067464955]
+[u'digital_clock', 0.47215691, u'scale', 0.16229188, u'barometer', 0.1322843]

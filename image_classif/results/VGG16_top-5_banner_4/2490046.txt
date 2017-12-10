@@ -1,0 +1,1 @@
+[u'partridge', 0.20058094, u'chickadee', 0.13312805, u'jay', 0.12549162, u'quail', 0.11424518, u'black-footed_ferret', 0.064789057]

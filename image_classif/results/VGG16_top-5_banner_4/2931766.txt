@@ -1,0 +1,3 @@
+[u'entertainment_center', 0.21928258, u'grand_piano', 0.19579114, u'dining_table', 0.060841087, u'home_theater', 0.046114683, u'four-poster', 0.043028031]
+[u'jellyfish', 0.13648698, u'monitor', 0.042790234, u'screen', 0.040512849, u'nematode', 0.034527797, u'cash_machine', 0.024653252]
+[u'web_site', 0.44885457, u'analog_clock', 0.10001497, u'rule', 0.063036226, u'hook', 0.030204454, u'envelope', 0.02037075]

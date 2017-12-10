@@ -1,0 +1,6 @@
+[u'book_jacket', 0.24574232, u'digital_clock', 0.082905017, u'rule', 0.076407373, u'wall_clock', 0.052934624, u'corkscrew', 0.021456869]
+[u'joystick', 0.12773137, u'switch', 0.12161182, u'mousetrap', 0.10334289, u'iron', 0.089778244, u'loupe', 0.072452962]
+[u'envelope', 0.15643318, u'web_site', 0.033787455, u'monitor', 0.031107811, u'television', 0.027163552, u'binder', 0.025559101]
+[u'entertainment_center', 0.30679706, u'home_theater', 0.17680199, u'television', 0.081490204, u'bookcase', 0.080936663, u'desk', 0.02556118]
+[u'binder', 0.29306164, u'envelope', 0.26918685, u'book_jacket', 0.12960678, u'packet', 0.074565515, u'prayer_rug', 0.048004065]
+[u'screwdriver', 0.41587111, u'lipstick', 0.086166009, u'binder', 0.074333392, u'vending_machine', 0.040048722, u'switch', 0.034564875]

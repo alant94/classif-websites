@@ -1,0 +1,4 @@
+[u'vending_machine', 0.17190613, u'pop_bottle', 0.13970113, u'jean', 0.092312507, u'comic_book', 0.048643366, u'book_jacket', 0.037611526]
+[u'velvet', 0.17173094, u'cardigan', 0.1373858, u'cloak', 0.10295767, u'miniskirt', 0.086747929, u'overskirt', 0.047765836]
+[u'switch', 0.053332612, u'wall_clock', 0.044356681, u'shower_curtain', 0.036949061, u'cellular_telephone', 0.035697568, u'stopwatch', 0.029175282]
+[u'conch', 0.61328179, u'fur_coat', 0.059012689, u'panpipe', 0.056123514, u'chocolate_sauce', 0.036483124, u'gyromitra', 0.034985706]

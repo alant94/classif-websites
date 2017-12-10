@@ -1,0 +1,4 @@
+[u'spotlight', 0.35697696, u'iron', 0.33483687, u'can_opener', 0.075930886, u'mouse', 0.033936344, u'Loafer', 0.033886313]
+[u'nipple', 0.34215572, u'hook', 0.11790983, u'screw', 0.04413107, u'piggy_bank', 0.041672226, u'conch', 0.026159588]
+[u'oxygen_mask', 0.24075875, u'hook', 0.17648739, u'can_opener', 0.12937029, u'corkscrew', 0.076122671, u'nipple', 0.068098098]
+[u'knee_pad', 0.33229542, u'can_opener', 0.11654492, u'hand_blower', 0.094060704, u'spotlight', 0.070341676, u'digital_watch', 0.045638252]

@@ -1,0 +1,1 @@
+[u'traffic_light', 0.17444561, u'bathing_cap', 0.079990737, u'hammerhead', 0.075856373, u'hook', 0.064749353, u'jigsaw_puzzle', 0.039879907]

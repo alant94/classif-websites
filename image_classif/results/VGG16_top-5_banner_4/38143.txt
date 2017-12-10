@@ -1,0 +1,2 @@
+[u'flamingo', 0.99999654, u'spoonbill', 3.2103228e-06, u'American_egret', 2.0372443e-07, u'crane', 1.5040813e-08, u'goose', 5.1973812e-09]
+[u'daisy', 0.41737455, u'orange', 0.24787629, u'lemon', 0.059969649, u'sea_anemone', 0.031108044, u'matchstick', 0.022540472]

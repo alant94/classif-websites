@@ -1,0 +1,8 @@
+[u'street_sign', 0.049563047, u'jersey', 0.040279701, u'picket_fence', 0.032439392, u'candle', 0.0315318, u'traffic_light', 0.030104998]
+[u'book_jacket', 0.62270552, u'comic_book', 0.28869018, u'hair_spray', 0.016422588, u'barbershop', 0.010717214, u'tobacco_shop', 0.0069222762]
+[u'bow', 0.09650562, u'monitor', 0.093617126, u'quill', 0.086303711, u'analog_clock', 0.054008204, u'hook', 0.051481809]
+[u'bottlecap', 0.1575339, u'puck', 0.082697041, u'street_sign', 0.082297958, u'racket', 0.037106942, u'tennis_ball', 0.03525931]
+[u'bell_cote', 0.13416243, u'chain', 0.10546006, u'crane', 0.074407339, u'hook', 0.069594845, u'wall_clock', 0.041548304]
+[u'picket_fence', 0.198295, u'book_jacket', 0.056729443, u'worm_fence', 0.045630164, u'rule', 0.045032542, u'nail', 0.027308254]
+[u'book_jacket', 0.08482527, u'street_sign', 0.078326158, u'bell_cote', 0.034462441, u'scoreboard', 0.03271196, u'chainlink_fence', 0.031078715]
+[u'hook', 0.078197226, u'safety_pin', 0.055486243, u'nematode', 0.033047065, u'iron', 0.018899905, u'rubber_eraser', 0.017766343]

@@ -1,0 +1,1 @@
+[u'stethoscope', 0.97135216, u'lab_coat', 0.005999607, u'stopwatch', 0.0050863065, u'racket', 0.0039546061, u'bolo_tie', 0.0032990868]

@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.14886244, u'bow', 0.089499503, u'hook', 0.076627336, u'flagpole', 0.071617872, u'ski', 0.04240045]
+[u'crossword_puzzle', 0.57448697, u'menu', 0.03235805, u'Windsor_tie', 0.023619195, u'shower_curtain', 0.022162737, u'book_jacket', 0.017792983]

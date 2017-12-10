@@ -1,0 +1,2 @@
+[u'palace', 0.71520317, u'church', 0.11815441, u'monastery', 0.047204401, u'castle', 0.02526773, u'altar', 0.020066384]
+[u'coffee_mug', 0.68579549, u'cup', 0.074901037, u'whiskey_jug', 0.07153374, u'water_jug', 0.05259563, u'pitcher', 0.026872341]

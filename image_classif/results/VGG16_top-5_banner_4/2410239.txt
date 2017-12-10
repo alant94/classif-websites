@@ -1,0 +1,7 @@
+[u'combination_lock', 0.30709961, u'remote_control', 0.11501604, u'magnetic_compass', 0.084479943, u'safe', 0.073788233, u'modem', 0.055429038]
+[u'recreational_vehicle', 0.22415814, u'ambulance', 0.079118639, u'gas_pump', 0.061676122, u'alp', 0.032617148, u'sandbar', 0.03174597]
+[u'theater_curtain', 0.5940702, u'shower_curtain', 0.074230984, u'fountain', 0.057580549, u'window_shade', 0.023565542, u'stage', 0.015296459]
+[u'pick', 0.14010239, u'puck', 0.13530584, u'envelope', 0.11658254, u'plate_rack', 0.068899907, u'face_powder', 0.057460193]
+[u'cassette', 0.23654912, u'modem', 0.16119038, u'pencil_sharpener', 0.15079518, u'switch', 0.11613109, u'hard_disc', 0.08647678]
+[u'cassette', 0.15424785, u'switch', 0.1323494, u'modem', 0.11688899, u'mousetrap', 0.1142087, u'remote_control', 0.03839159]
+[u'combination_lock', 0.31291002, u'switch', 0.19816914, u'modem', 0.15813018, u'magnetic_compass', 0.04188906, u'cassette', 0.037821677]

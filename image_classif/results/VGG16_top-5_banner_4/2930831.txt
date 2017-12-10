@@ -1,0 +1,5 @@
+[u'nail', 0.43519124, u'chain', 0.12095305, u'fountain', 0.05673055, u'knot', 0.044842351, u'acorn', 0.039523713]
+[u'nail', 0.40110603, u'folding_chair', 0.25128284, u'rocking_chair', 0.057276584, u'hatchet', 0.028619973, u'dining_table', 0.022602616]
+[u'soup_bowl', 0.34551978, u'wooden_spoon', 0.14874417, u'ladle', 0.13683549, u'guacamole', 0.11519935, u'broccoli', 0.017477656]
+[u'Band_Aid', 0.15407844, u'paintbrush', 0.080726899, u'dough', 0.041245699, u'diaper', 0.034655318, u'syringe', 0.026427548]
+[u'paper_towel', 0.57003307, u'toilet_tissue', 0.18721518, u'ocarina', 0.11213692, u'pencil_sharpener', 0.027671631, u'chime', 0.011172867]

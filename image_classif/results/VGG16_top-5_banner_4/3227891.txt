@@ -1,0 +1,2 @@
+[u'pick', 0.1921079, u'book_jacket', 0.10265231, u'coffee_mug', 0.097548395, u'nematode', 0.068528756, u'hook', 0.043699294]
+[u'remote_control', 0.45099336, u'lighter', 0.14424349, u'iPod', 0.059593406, u'cellular_telephone', 0.037011776, u'modem', 0.021119013]

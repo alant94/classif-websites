@@ -1,0 +1,2 @@
+[u'patio', 0.097472012, u'carousel', 0.066031091, u'monastery', 0.060653083, u'church', 0.054517049, u'boathouse', 0.047869612]
+[u'book_jacket', 0.067567237, u'hair_spray', 0.059222445, u'perfume', 0.047294594, u'lotion', 0.041101743, u'web_site', 0.03866747]

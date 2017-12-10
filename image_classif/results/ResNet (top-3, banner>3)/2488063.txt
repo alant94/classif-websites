@@ -1,0 +1,6 @@
+[u'barracouta', 0.70509666, u'sturgeon', 0.22751239, u'gar', 0.038220685]
+[u'web_site', 0.18327159, u'oscilloscope', 0.047623198, u'bow', 0.035180155]
+[u'brass', 0.27949384, u'screen', 0.21715458, u'cash_machine', 0.1863541]
+[u'street_sign', 0.20033771, u'book_jacket', 0.16137835, u'web_site', 0.11336695]
+[u'palace', 0.2157222, u'dock', 0.20914237, u'lakeside', 0.11612961]
+[u'throne', 0.069175959, u'fountain', 0.053309843, u'cowboy_boot', 0.051616851]

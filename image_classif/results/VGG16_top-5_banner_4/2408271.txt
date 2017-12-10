@@ -1,0 +1,8 @@
+[u'bottlecap', 0.26241866, u'bolo_tie', 0.20544802, u'buckle', 0.11049887, u'lighter', 0.075701363, u'shield', 0.062077716]
+[u'balloon', 0.20335564, u'bald_eagle', 0.092927225, u'lakeside', 0.049618527, u'seashore', 0.040372405, u'flagpole', 0.038487501]
+[u'espresso_maker', 0.4288761, u'plane', 0.23586757, u'mortar', 0.041638542, u'scale', 0.029828301, u'cocktail_shaker', 0.022326158]
+[u'digital_clock', 0.35640675, u'wall_clock', 0.069235802, u'envelope', 0.039219946, u'analog_clock', 0.026137752, u'switch', 0.023215728]
+[u'loupe', 0.074479766, u'radio', 0.072031334, u"carpenter's_kit", 0.047393221, u'combination_lock', 0.045834921, u'microphone', 0.044867963]
+[u'dumbbell', 0.095738947, u'binoculars', 0.07057409, u'barber_chair', 0.067592874, u'desk', 0.05863158, u'loudspeaker', 0.054600269]
+[u'envelope', 0.060599953, u'hook', 0.045973327, u'digital_clock', 0.025158567, u'traffic_light', 0.022435021, u'wall_clock', 0.018942544]
+[u'can_opener', 0.62264818, u'plane', 0.084558323, u'corkscrew', 0.054103449, u'iron', 0.050500128, u'reel', 0.029025679]

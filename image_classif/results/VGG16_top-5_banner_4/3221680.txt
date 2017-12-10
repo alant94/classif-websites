@@ -1,0 +1,8 @@
+[u'wardrobe', 0.53941137, u'hook', 0.067945629, u'bassoon', 0.040844508, u'rifle', 0.02956105, u'medicine_chest', 0.023316976]
+[u'rubber_eraser', 0.15063922, u'waffle_iron', 0.049622159, u'loupe', 0.037698664, u'harmonica', 0.036002211, u'whistle', 0.035785243]
+[u'spotlight', 0.20158933, u'lampshade', 0.11557813, u'chime', 0.052339233, u'torch', 0.043267526, u'hook', 0.035827678]
+[u'mortarboard', 0.23127598, u'bell_cote', 0.11386815, u'academic_gown', 0.054587819, u'nail', 0.040897314, u'street_sign', 0.031392533]
+[u'church', 0.87468785, u'barn', 0.050093021, u'monastery', 0.015095892, u'bell_cote', 0.013055774, u'water_tower', 0.0056671659]
+[u'matchstick', 0.95890081, u'candle', 0.016768387, u'lighter', 0.014470701, u'torch', 0.0083349366, u'stove', 0.0002690735]
+[u'robin', 0.17719011, u'hummingbird', 0.13765799, u'monarch', 0.069926597, u'brambling', 0.054431316, u'hip', 0.053421862]
+[u'wardrobe', 0.38340977, u'medicine_chest', 0.1031528, u'lampshade', 0.081516154, u'wall_clock', 0.057420302, u'refrigerator', 0.051985577]

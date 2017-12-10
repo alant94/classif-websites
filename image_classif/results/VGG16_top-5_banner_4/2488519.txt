@@ -1,0 +1,1 @@
+[u'piggy_bank', 0.32643196, u'balloon', 0.28134263, u'football_helmet', 0.21642669, u'jigsaw_puzzle', 0.06736163, u'water_tower', 0.05388283]

@@ -1,0 +1,6 @@
+[u'web_site', 0.3578378, u'envelope', 0.14869644, u'binder', 0.017242271]
+[u'digital_clock', 0.070504874, u'web_site', 0.061922401, u'analog_clock', 0.051262163]
+[u'web_site', 0.11780326, u'perfume', 0.082869731, u'binder', 0.081791908]
+[u'nail', 0.75310028, u'screw', 0.1117418, u'cleaver', 0.020865614]
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127]
+[u'bannister', 0.23559752, u'church', 0.19689105, u'web_site', 0.032515403]

@@ -1,0 +1,2 @@
+[u'web_site', 0.11023875, u'analog_clock', 0.049017854, u'sunscreen', 0.032990228]
+[u'Band_Aid', 0.22646824, u'analog_clock', 0.11840285, u'web_site', 0.1176844]

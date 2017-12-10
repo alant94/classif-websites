@@ -1,0 +1,4 @@
+[u'bell_cote', 0.19319558, u'airship', 0.068393975, u'parachute', 0.068182975, u'crane', 0.045625061, u'screw', 0.035277858]
+[u'traffic_light', 0.12700389, u'digital_clock', 0.077030875, u'street_sign', 0.071683601, u'beacon', 0.050600123, u'cash_machine', 0.0429723]
+[u'digital_clock', 0.57691818, u'digital_watch', 0.17477342, u'microwave', 0.045212336, u'tray', 0.038091742, u'buckle', 0.029630169]
+[u'picket_fence', 0.28210708, u'barn', 0.15065345, u'worm_fence', 0.057433773, u'birdhouse', 0.027055649, u'patio', 0.024429519]

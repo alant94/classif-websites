@@ -1,0 +1,6 @@
+[u'stage', 0.27592406, u'electric_guitar', 0.17836842, u'accordion', 0.044054139, u'banjo', 0.035810519, u'acoustic_guitar', 0.034945142]
+[u'picket_fence', 0.79499096, u'fountain', 0.043532982, u'ski', 0.014905831, u'traffic_light', 0.013837663, u'mailbox', 0.01350269]
+[u'banjo', 0.32854161, u'stage', 0.21766964, u'electric_guitar', 0.13953567, u'sax', 0.08752086, u'acoustic_guitar', 0.043079827]
+[u'kimono', 0.37536657, u'vestment', 0.21091589, u'panpipe', 0.086459465, u'steel_drum', 0.059609175, u'accordion', 0.023769233]
+[u'carton', 0.10116506, u'mailbox', 0.083382532, u'crate', 0.061847564, u'book_jacket', 0.057684265, u'ashcan', 0.032235675]
+[u'hair_spray', 0.11874043, u'sunscreen', 0.10026772, u'book_jacket', 0.075067267, u'maillot', 0.045308866, u'torch', 0.044844318]

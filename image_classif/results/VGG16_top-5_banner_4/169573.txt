@@ -1,0 +1,2 @@
+[u'puck', 0.083526492, u'book_jacket', 0.05000864, u'web_site', 0.036541108, u'street_sign', 0.024355756, u'traffic_light', 0.016390229]
+[u'electric_guitar', 0.94905853, u'acoustic_guitar', 0.03936857, u'banjo', 0.011201779, u'pick', 0.00023370126, u'cello', 6.5429689e-05]

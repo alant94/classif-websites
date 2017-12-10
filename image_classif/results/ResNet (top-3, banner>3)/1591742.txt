@@ -1,0 +1,3 @@
+[u'miniskirt', 0.083396129, u'sandal', 0.069088086, u'assault_rifle', 0.047738772]
+[u'bathing_cap', 0.55291498, u'swimming_trunks', 0.2295031, u'snorkel', 0.082868576]
+[u'swimming_trunks', 0.41387838, u'miniskirt', 0.27589971, u'bikini', 0.16385521]

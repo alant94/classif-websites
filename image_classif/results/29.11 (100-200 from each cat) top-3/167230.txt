@@ -1,0 +1,4 @@
+[u'dishwasher', 0.10199752, u'projector', 0.072546162, u'microwave', 0.067248136]
+[u'digital_clock', 0.88856953, u'digital_watch', 0.040717285, u'prayer_rug', 0.028599791]
+[u'slide_rule', 0.33856869, u'rule', 0.30711123, u'screwdriver', 0.14997253]
+[u'ballpoint', 0.15050609, u'rubber_eraser', 0.12734194, u'screwdriver', 0.10093137]

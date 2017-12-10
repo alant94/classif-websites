@@ -1,0 +1,5 @@
+[u'harp', 0.19112001, u'abaya', 0.1365222, u'sweatshirt', 0.076939218]
+[u'jean', 0.33353552, u'military_uniform', 0.057089042, u'birdhouse', 0.036512844]
+[u'book_jacket', 0.73855633, u'barbershop', 0.05776044, u'cash_machine', 0.047699947]
+[u'hair_spray', 0.46736056, u'lotion', 0.11085616, u'packet', 0.050907265]
+[u'hand_blower', 0.61146969, u'microphone', 0.34025493, u'loudspeaker', 0.015038501]

@@ -1,0 +1,2 @@
+[u'iPod', 0.29734111, u'television', 0.065513186, u'lighter', 0.044859782]
+[u'screwdriver', 0.39346361, u'rubber_eraser', 0.06777852, u'ballpoint', 0.067354269]

@@ -1,0 +1,1 @@
+[u'web_site', 0.092512637, u'book_jacket', 0.092164397, u'syringe', 0.080440328, u"carpenter's_kit", 0.063364692, u'envelope', 0.048617691]

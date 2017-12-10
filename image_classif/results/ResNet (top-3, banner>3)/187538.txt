@@ -1,0 +1,4 @@
+[u'book_jacket', 0.29750267, u'theater_curtain', 0.10177244, u'lipstick', 0.057190139]
+[u'prayer_rug', 0.30108199, u'shield', 0.052051328, u'binder', 0.051872835]
+[u'oxygen_mask', 0.2099859, u'prayer_rug', 0.12816572, u'street_sign', 0.12197464]
+[u'web_site', 0.47673348, u'medicine_chest', 0.14652313, u'slide_rule', 0.058852673]

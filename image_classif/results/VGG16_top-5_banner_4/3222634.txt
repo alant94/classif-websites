@@ -1,0 +1,2 @@
+[u'nematode', 0.16426252, u'jellyfish', 0.1611013, u'oscilloscope', 0.063713364, u'web_site', 0.051636305, u'digital_clock', 0.033113278]
+[u'nematode', 0.080917507, u'traffic_light', 0.062401138, u'jellyfish', 0.025052246, u'monitor', 0.024139529, u'screen', 0.02367596]

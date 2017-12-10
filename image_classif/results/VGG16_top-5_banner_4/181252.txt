@@ -1,0 +1,2 @@
+[u'pool_table', 0.46447113, u'turnstile', 0.10122537, u'desk', 0.057668827, u'library', 0.049675014, u'ping-pong_ball', 0.042802367]
+[u'bannister', 0.068300135, u'altar', 0.06590908, u'bookcase', 0.055877052, u'medicine_chest', 0.055740293, u'sliding_door', 0.041698888]

@@ -1,0 +1,3 @@
+[u'sunglass', 0.5022527, u'sunglasses', 0.49083048, u'wig', 0.0028405599]
+[u'diaper', 0.2192319, u'maillot', 0.18359169, u'brassiere', 0.10824444]
+[u'axolotl', 0.09941408, u'nipple', 0.038948808, u'plunger', 0.035084479]

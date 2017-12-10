@@ -1,0 +1,8 @@
+[u'chain', 0.56959134, u'hook', 0.16637374, u'poncho', 0.03544537]
+[u'barrel', 0.58618498, u'rain_barrel', 0.40583366, u'worm_fence', 0.0037320391]
+[u'envelope', 0.2047455, u'web_site', 0.12877129, u'book_jacket', 0.080020219]
+[u'mobile_home', 0.26972336, u'boathouse', 0.18925446, u'picket_fence', 0.11638567]
+[u'web_site', 0.81411815, u'comic_book', 0.029246852, u'streetcar', 0.014963938]
+[u'ballpoint', 0.29643682, u'cocktail_shaker', 0.07623262, u'paintbrush', 0.041400559]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'corn', 0.36234173, u'ear', 0.1194277, u'cowboy_boot', 0.10002834]

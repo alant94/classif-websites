@@ -1,0 +1,4 @@
+[u'radio', 0.24792248, u'cassette_player', 0.18048565, u'tape_player', 0.15261118, u'CD_player', 0.1308416, u'cassette', 0.12345906]
+[u'bow_tie', 0.21807073, u'groom', 0.19122629, u'feather_boa', 0.16937816, u'hoopskirt', 0.070816919, u'toilet_tissue', 0.049434781]
+[u'space_shuttle', 0.54049569, u'balance_beam', 0.054094225, u'shoe_shop', 0.023107478, u'window_screen', 0.021275073, u'fountain', 0.014855986]
+[u'window_shade', 0.092164084, u'library', 0.077559881, u'sliding_door', 0.069853641, u'window_screen', 0.053425778, u'forklift', 0.029129552]

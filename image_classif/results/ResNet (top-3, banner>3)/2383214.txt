@@ -1,0 +1,4 @@
+[u'book_jacket', 0.70262659, u'comic_book', 0.13688427, u'fire_engine', 0.025216796]
+[u'traffic_light', 0.30715716, u'street_sign', 0.21503067, u'folding_chair', 0.18831463]
+[u'barn', 0.49386719, u'water_tower', 0.14261951, u'restaurant', 0.10035176]
+[u'web_site', 0.34785622, u'Band_Aid', 0.18872491, u'beaker', 0.066041201]

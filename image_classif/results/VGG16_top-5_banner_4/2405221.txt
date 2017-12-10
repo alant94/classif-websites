@@ -1,0 +1,7 @@
+[u'sunscreen', 0.074741885, u'coffee_mug', 0.048589878, u'oil_filter', 0.035828318, u'packet', 0.028429622, u'chocolate_sauce', 0.025063273]
+[u'pill_bottle', 0.31494871, u'pencil_sharpener', 0.16745935, u'toaster', 0.11145745, u'packet', 0.060721468, u'Band_Aid', 0.044546325]
+[u'comic_book', 0.40911987, u'book_jacket', 0.21516153, u'scoreboard', 0.048953258, u'packet', 0.025679385, u'jersey', 0.023248017]
+[u'coil', 0.1533334, u'radiator', 0.078813657, u'necklace', 0.068756267, u'hook', 0.063795462, u'matchstick', 0.050418209]
+[u'maraca', 0.99832779, u'racket', 0.00050489279, u'hand_blower', 0.00018872258, u'eggnog', 0.00012878541, u'baseball', 9.9601115e-05]
+[u'pencil_sharpener', 0.30375087, u'pill_bottle', 0.15795957, u'oil_filter', 0.14370099, u'Band_Aid', 0.044317573, u'packet', 0.040803399]
+[u'Band_Aid', 0.21505453, u'matchstick', 0.14013363, u'pill_bottle', 0.099712886, u'perfume', 0.080044352, u'pencil_sharpener', 0.077333368]

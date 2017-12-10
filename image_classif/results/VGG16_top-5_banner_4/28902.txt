@@ -1,0 +1,2 @@
+[u'ambulance', 0.11074392, u'web_site', 0.10330569, u'cash_machine', 0.087277554, u'moving_van', 0.057348199, u'street_sign', 0.037083142]
+[u'stopwatch', 0.15433361, u'digital_watch', 0.072428271, u'digital_clock', 0.072010756, u'web_site', 0.070522785, u'entertainment_center', 0.065254174]

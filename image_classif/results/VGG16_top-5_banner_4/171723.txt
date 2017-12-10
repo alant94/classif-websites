@@ -1,0 +1,3 @@
+[u'corkscrew', 0.067743964, u'power_drill', 0.064480431, u'whistle', 0.047350835, u'hair_spray', 0.04235559, u'hand_blower', 0.03883433]
+[u'joystick', 0.077550188, u'reflex_camera', 0.074091621, u'binoculars', 0.068001516, u'switch', 0.053916298, u'reel', 0.050469033]
+[u'combination_lock', 0.9793027, u'knot', 0.0026052981, u'magnetic_compass', 0.0023710474, u'hook', 0.0019044235, u'whistle', 0.0016476256]

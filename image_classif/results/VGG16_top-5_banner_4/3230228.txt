@@ -1,0 +1,2 @@
+[u'mosque', 0.43157455, u'fountain', 0.19738789, u'monastery', 0.16077976, u'church', 0.062735997, u'palace', 0.047783319]
+[u'bow', 0.20673002, u'chain', 0.13150275, u'necklace', 0.062689535, u'whistle', 0.05775949, u'wall_clock', 0.048799057]

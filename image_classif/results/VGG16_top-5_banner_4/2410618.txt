@@ -1,0 +1,3 @@
+[u'king_crab', 0.22290426, u'American_lobster', 0.19007209, u'crayfish', 0.17021337, u'Dungeness_crab', 0.096301258, u'rock_crab', 0.093857609]
+[u'jersey', 0.10083286, u'shower_cap', 0.099129006, u'bubble', 0.089843579, u'necklace', 0.04149805, u'cowboy_hat', 0.036044538]
+[u'packet', 0.4607096, u'menu', 0.10488892, u'plate', 0.05490464, u'corn', 0.045986127, u'pretzel', 0.034882288]

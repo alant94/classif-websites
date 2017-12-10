@@ -1,0 +1,8 @@
+[u'bolo_tie', 0.72067386, u'lampshade', 0.050078522, u'shield', 0.040342312, u'bottlecap', 0.029958142, u'throne', 0.025307309]
+[u'church', 0.69186848, u'vault', 0.12590827, u'dome', 0.05920187, u'palace', 0.038871292, u'monastery', 0.020634094]
+[u'church', 0.74500662, u'vault', 0.13376316, u'altar', 0.077343412, u'monastery', 0.016386183, u'palace', 0.012489608]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]
+[u'bell_cote', 0.28032729, u'lighter', 0.031289011, u'beacon', 0.030787181, u'envelope', 0.029163897, u'crane', 0.028749621]
+[u'patio', 0.92012566, u'restaurant', 0.064600803, u'library', 0.0046886634, u'folding_chair', 0.004646806, u'dining_table', 0.0033242847]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'spotlight', 0.1023071, u'lighter', 0.044959653, u'digital_clock', 0.029807996, u'matchstick', 0.024248132, u'beacon', 0.022295838]

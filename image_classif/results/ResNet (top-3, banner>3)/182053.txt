@@ -1,0 +1,3 @@
+[u'paper_towel', 0.60740507, u'toilet_tissue', 0.066655479, u'gong', 0.05217981]
+[u'harp', 0.10759676, u'hoopskirt', 0.1009855, u'grand_piano', 0.075917959]
+[u'jellyfish', 0.22903635, u'electric_ray', 0.21622691, u'chambered_nautilus', 0.12921488]

@@ -1,0 +1,4 @@
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'traffic_light', 0.12345845, u'envelope', 0.062559582, u'flagpole', 0.060774144, u'parachute', 0.040890157, u'street_sign', 0.038843185]
+[u'stupa', 0.8519358, u'bell_cote', 0.048037726, u'pencil_sharpener', 0.012617828, u'picket_fence', 0.0075938143, u'envelope', 0.0056148348]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

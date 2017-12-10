@@ -1,0 +1,7 @@
+[u'brown_bear', 0.98711294, u'American_black_bear', 0.012202278, u'wombat', 0.00029823495, u'wild_boar', 0.00025159449, u'hog', 0.0001307146]
+[u'book_jacket', 0.62159401, u'comic_book', 0.20653187, u'web_site', 0.064128481, u'theater_curtain', 0.016743654, u'panpipe', 0.0043377453]
+[u'water_buffalo', 0.59958678, u'ox', 0.14343143, u'tusker', 0.12901548, u'hartebeest', 0.027269594, u'warthog', 0.021878179]
+[u'web_site', 0.15924926, u'book_jacket', 0.15625671, u'carton', 0.11769991, u'envelope', 0.11213511, u'pill_bottle', 0.040298559]
+[u'timber_wolf', 0.68089426, u'coyote', 0.24963373, u'red_wolf', 0.052360613, u'dingo', 0.0057389503, u'white_wolf', 0.0035464882]
+[u'bighorn', 0.34036943, u'ibex', 0.15027839, u'ram', 0.10100612, u'ox', 0.052480333, u'whippet', 0.04377177]
+[u'perfume', 0.11535224, u'pencil_sharpener', 0.064076573, u"carpenter's_kit", 0.063291237, u'switch', 0.057130955, u'screwdriver', 0.050250579]

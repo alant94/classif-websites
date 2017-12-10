@@ -1,0 +1,2 @@
+[u'whistle', 0.16454811, u'hook', 0.080640227, u'envelope', 0.06520886, u'lipstick', 0.034776464, u'nematode', 0.03398785]
+[u'tray', 0.42093453, u'menu', 0.18538058, u'envelope', 0.064743772, u'packet', 0.053533278, u'book_jacket', 0.044947319]

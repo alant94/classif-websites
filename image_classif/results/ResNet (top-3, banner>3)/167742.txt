@@ -1,0 +1,6 @@
+[u'book_jacket', 0.52106613, u'bow_tie', 0.10788316, u'web_site', 0.095502652]
+[u'web_site', 0.46465674, u'envelope', 0.12422442, u'whistle', 0.023721619]
+[u'castle', 0.16022062, u'alp', 0.14477564, u'jigsaw_puzzle', 0.058875021]
+[u'street_sign', 0.092769809, u'scoreboard', 0.080491267, u'gas_pump', 0.069013357]
+[u'binder', 0.1348993, u'jersey', 0.11422118, u'web_site', 0.079122737]
+[u'cinema', 0.44857529, u'stage', 0.14389518, u'scoreboard', 0.049343634]

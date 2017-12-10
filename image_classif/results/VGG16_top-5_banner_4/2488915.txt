@@ -1,0 +1,5 @@
+[u'banjo', 0.21507412, u'sombrero', 0.12350079, u'cowboy_hat', 0.090324521, u'sax', 0.043032631, u'ballplayer', 0.031500161]
+[u'stone_wall', 0.11208028, u'greenhouse', 0.048718076, u'ear', 0.048053887, u'corn', 0.037320901, u'wreck', 0.032997169]
+[u'African_hunting_dog', 0.13900299, u'whippet', 0.10461961, u'dogsled', 0.081385344, u'Irish_wolfhound', 0.069036335, u'mountain_bike', 0.063807391]
+[u'carton', 0.57343137, u'envelope', 0.080019034, u'puck', 0.061654262, u'oil_filter', 0.04663216, u'comic_book', 0.043449119]
+[u'digital_clock', 0.13388658, u'Band_Aid', 0.10947008, u'analog_clock', 0.1041167, u'wall_clock', 0.09580636, u'envelope', 0.094027072]

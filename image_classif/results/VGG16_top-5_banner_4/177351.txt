@@ -1,0 +1,7 @@
+[u'microphone', 0.23104866, u'shovel', 0.12571546, u'radio', 0.093851805, u'vacuum', 0.054500006, u'hook', 0.03538407]
+[u'packet', 0.19090904, u'bakery', 0.09449809, u'Band_Aid', 0.079797916, u'pretzel', 0.036820956, u'envelope', 0.03446072]
+[u'barbershop', 0.35211277, u'shoe_shop', 0.075197414, u'prison', 0.067538112, u'bullet_train', 0.063027777, u'barber_chair', 0.047710374]
+[u'suit', 0.66606277, u'groom', 0.053175595, u'Windsor_tie', 0.040565491, u'bow_tie', 0.035814594, u'Loafer', 0.026643805]
+[u'screwdriver', 0.55313814, u'ballpoint', 0.1245174, u'nail', 0.050319608, u'ski', 0.048898716, u'syringe', 0.041042022]
+[u'switch', 0.76910627, u'medicine_chest', 0.091361023, u'soap_dispenser', 0.060584262, u'cassette', 0.011857361, u'safe', 0.0090317354]
+[u'spatula', 0.22908032, u'rubber_eraser', 0.0891404, u'matchstick', 0.055404775, u'cleaver', 0.055341039, u"carpenter's_kit", 0.054529835]

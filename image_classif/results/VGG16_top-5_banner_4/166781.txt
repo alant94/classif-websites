@@ -1,0 +1,3 @@
+[u'maillot', 0.17476602, u'gown', 0.086487278, u'maillot', 0.059573527, u'miniskirt', 0.057600398, u'leatherback_turtle', 0.044267572]
+[u'bell_cote', 0.14547591, u'church', 0.11166813, u'crane', 0.061283108, u'beacon', 0.057792939, u'envelope', 0.047316007]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

@@ -1,0 +1,8 @@
+[u'prison', 0.43483919, u'web_site', 0.14747103, u'palace', 0.12576641, u'monastery', 0.022625575, u'book_jacket', 0.019437347]
+[u'sea_slug', 0.37786159, u'flatworm', 0.28056332, u'coral_reef', 0.10191424, u'comic_book', 0.05529727, u'jellyfish', 0.044257481]
+[u'ocarina', 0.26553389, u'maillot', 0.14623131, u'bikini', 0.1217918, u'comic_book', 0.082961537, u'kimono', 0.053421661]
+[u'torch', 0.24074742, u'parachute', 0.23166963, u'umbrella', 0.050590083, u'kimono', 0.033532079, u'Leonberg', 0.025448848]
+[u'jean', 0.31927702, u'bullet_train', 0.12254854, u'pier', 0.075921379, u'steel_arch_bridge', 0.05212412, u'suspension_bridge', 0.045029722]
+[u'lab_coat', 0.23029181, u'fountain', 0.14330693, u'groom', 0.093928322, u'fireboat', 0.090944998, u'marimba', 0.075698756]
+[u'miniskirt', 0.25524217, u'toyshop', 0.11891367, u'gown', 0.046939079, u'maillot', 0.041484393, u'apron', 0.035974223]
+[u'wig', 0.3196077, u'stole', 0.14370048, u'cardigan', 0.13580231, u'wool', 0.087171882, u'chain_mail', 0.083942063]

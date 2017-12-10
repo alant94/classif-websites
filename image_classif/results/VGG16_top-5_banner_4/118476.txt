@@ -1,0 +1,1 @@
+[u'safe', 0.2313966, u'cash_machine', 0.12526844, u'sliding_door', 0.076338381, u'entertainment_center', 0.053191785, u'prison', 0.052980419]

@@ -1,0 +1,4 @@
+[u'traffic_light', 0.2560589, u'digital_clock', 0.095140047, u'digital_watch', 0.065488189]
+[u'ambulance', 0.7227875, u'Band_Aid', 0.053940795, u'whistle', 0.036943756]
+[u'cassette_player', 0.16953322, u'cassette', 0.11319441, u'mouse', 0.096463822]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]

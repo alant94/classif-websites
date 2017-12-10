@@ -1,0 +1,5 @@
+[u'thatch', 0.38901603, u'cinema', 0.25527382, u'boathouse', 0.10285519, u'barn', 0.025557771, u'restaurant', 0.021048646]
+[u'street_sign', 0.06960512, u'envelope', 0.065780371, u'hook', 0.059499692, u'hair_slide', 0.038625095, u'Band_Aid', 0.03696328]
+[u'street_sign', 0.13850686, u'binder', 0.07016208, u'harvester', 0.059357718, u'mousetrap', 0.050723579, u'lighter', 0.033075407]
+[u'street_sign', 0.074344344, u'puck', 0.064062707, u'Band_Aid', 0.046093639, u'gas_pump', 0.038399577, u'digital_clock', 0.031659521]
+[u"carpenter's_kit", 0.09019912, u'screw', 0.083014846, u'street_sign', 0.074910961, u'cinema', 0.057886422, u'book_jacket', 0.044765837]

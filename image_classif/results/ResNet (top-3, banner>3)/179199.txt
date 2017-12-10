@@ -1,0 +1,4 @@
+[u'stage', 0.069445975, u'shower_curtain', 0.060001493, u'bathtub', 0.04710611]
+[u'cleaver', 0.41832235, u'carton', 0.083615653, u'pajama', 0.037648834]
+[u'stage', 0.36799565, u'electric_guitar', 0.34087956, u'jellyfish', 0.11596538]
+[u'fountain', 0.79002666, u'groom', 0.063916989, u'kimono', 0.040237002]

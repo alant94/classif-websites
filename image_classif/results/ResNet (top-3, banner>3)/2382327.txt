@@ -1,0 +1,4 @@
+[u'artichoke', 0.14165393, u'corn', 0.085323133, u'ear', 0.076583482]
+[u'artichoke', 0.093863718, u'swab', 0.084862672, u'cricket', 0.068541862]
+[u'shovel', 0.43046653, u'pick', 0.18113649, u'stethoscope', 0.17065229]
+[u'artichoke', 0.11974452, u'web_site', 0.076629259, u'corn', 0.047313537]

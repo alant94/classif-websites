@@ -1,0 +1,1 @@
+[u'parachute', 0.19474658, u'bubble', 0.17317577, u'jellyfish', 0.078008063, u'balloon', 0.065613024, u'envelope', 0.029629692]

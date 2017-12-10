@@ -1,0 +1,3 @@
+[u'packet', 0.36931902, u'book_jacket', 0.22916761, u'menu', 0.073899597, u'vending_machine', 0.043864116, u'scoreboard', 0.020733828]
+[u'diaper', 0.21098775, u'swimming_trunks', 0.12942952, u'bikini', 0.11769146, u'tub', 0.061826322, u'bath_towel', 0.039131805]
+[u'brassiere', 0.79544741, u'bikini', 0.10128982, u'maillot', 0.04162718, u'hair_spray', 0.0092412205, u'wig', 0.0055669621]

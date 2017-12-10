@@ -1,0 +1,7 @@
+[u'bow', 0.1309125, u'envelope', 0.12852816, u'comic_book', 0.11307469, u'safety_pin', 0.040966239, u'hair_slide', 0.037824653]
+[u'web_site', 0.85038978, u'menu', 0.13666721, u'envelope', 0.0028882576, u'slot', 0.0021190415, u'packet', 0.0012788665]
+[u'web_site', 0.18069637, u'sunscreen', 0.046992261, u'hair_spray', 0.041415136, u'envelope', 0.028214186, u'tennis_ball', 0.022683041]
+[u'Band_Aid', 0.099395946, u'digital_clock', 0.053929791, u'ski', 0.050940201, u'jersey', 0.039867897, u'packet', 0.035291303]
+[u'stage', 0.35149404, u'fountain', 0.29703704, u'church', 0.070713811, u'spotlight', 0.056996904, u'theater_curtain', 0.047417406]
+[u'envelope', 0.58355242, u'Band_Aid', 0.082771957, u'Windsor_tie', 0.026261887, u'web_site', 0.023613842, u'carton', 0.010713832]
+[u'digital_clock', 0.17048085, u'envelope', 0.16303645, u'scoreboard', 0.059744842, u'web_site', 0.035837419, u'maze', 0.035713401]

@@ -1,0 +1,2 @@
+[u'digital_clock', 0.18571241, u'cash_machine', 0.13574946, u'wall_clock', 0.069288626, u'shower_curtain', 0.047581244, u'scoreboard', 0.037685927]
+[u'cash_machine', 0.25341862, u'envelope', 0.2071813, u'digital_clock', 0.10553557, u'wall_clock', 0.034447316, u'bulletproof_vest', 0.027649911]

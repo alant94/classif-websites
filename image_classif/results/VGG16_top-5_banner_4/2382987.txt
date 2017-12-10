@@ -1,0 +1,3 @@
+[u'coral_fungus', 0.74974024, u'jigsaw_puzzle', 0.071649276, u'hen-of-the-woods', 0.022053907, u'picket_fence', 0.01595827, u'mushroom', 0.013885528]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'stupa', 0.14851896, u'maze', 0.13157073, u'coil', 0.10357029, u'church', 0.097964898, u'bell_cote', 0.073737577]

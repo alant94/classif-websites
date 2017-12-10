@@ -1,0 +1,3 @@
+[u'web_site', 0.24723621, u'envelope', 0.099175081, u'jigsaw_puzzle', 0.090861045, u'switch', 0.042280897, u'parachute', 0.033890586]
+[u'hyena', 0.15290132, u'bighorn', 0.12861015, u'wallaby', 0.09262982, u'ibex', 0.055903438, u'meerkat', 0.034837317]
+[u'rugby_ball', 0.33090571, u'baseball', 0.22276996, u'bottlecap', 0.10135322, u'soccer_ball', 0.075419515, u'volleyball', 0.050490811]

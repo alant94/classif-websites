@@ -1,0 +1,2 @@
+[u'forklift', 0.46104383, u'cab', 0.15275903, u'black_and_gold_garden_spider', 0.052848928, u'stretcher', 0.038936708, u'bobsled', 0.030504027]
+[u'sunscreen', 0.26736805, u'wig', 0.19283968, u'shower_cap', 0.085004203, u'bathing_cap', 0.063486643, u'neck_brace', 0.031320274]

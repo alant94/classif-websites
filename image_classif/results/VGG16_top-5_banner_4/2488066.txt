@@ -1,0 +1,5 @@
+[u'perfume', 0.12737823, u'face_powder', 0.10764951, u'book_jacket', 0.10321652, u'packet', 0.062420126, u'crate', 0.032455713]
+[u'book_jacket', 0.11662839, u'perfume', 0.11372495, u'packet', 0.061009072, u'face_powder', 0.056938231, u'crate', 0.045677561]
+[u'picket_fence', 0.5455355, u'screwdriver', 0.078979164, u'syringe', 0.045176864, u'book_jacket', 0.037433241, u'worm_fence', 0.030149778]
+[u'barrel', 0.21645838, u'ski', 0.15040737, u'totem_pole', 0.13277657, u'paddle', 0.10458841, u'picket_fence', 0.069610335]
+[u'perfume', 0.13223368, u'face_powder', 0.11079701, u'book_jacket', 0.061919875, u'packet', 0.0391213, u'mousetrap', 0.033263933]

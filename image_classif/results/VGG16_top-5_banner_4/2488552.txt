@@ -1,0 +1,1 @@
+[u'ski', 0.086759597, u'otterhound', 0.050237462, u'bloodhound', 0.045776814, u'hook', 0.042680383, u'can_opener', 0.032856509]

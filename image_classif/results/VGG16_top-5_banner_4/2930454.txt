@@ -1,0 +1,2 @@
+[u'web_site', 0.9970324, u'envelope', 0.0017291044, u'comic_book', 0.0001657211, u'analog_clock', 9.4413415e-05, u'stethoscope', 8.718708e-05]
+[u'scale', 0.1454069, u'electric_fan', 0.074698202, u'pay-phone', 0.073237658, u'parking_meter', 0.065821297, u'bubble', 0.039526712]

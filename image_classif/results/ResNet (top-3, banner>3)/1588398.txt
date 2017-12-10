@@ -1,0 +1,6 @@
+[u'Windsor_tie', 0.052434493, u'suit', 0.051267937, u'bulletproof_vest', 0.045406103]
+[u'sunglasses', 0.54288745, u'sunglass', 0.39700013, u'barracouta', 0.0039434023]
+[u'lab_coat', 0.20237096, u'stole', 0.041439876, u'neck_brace', 0.040443998]
+[u'puffer', 0.27337608, u'barracouta', 0.23796967, u'king_crab', 0.13851197]
+[u'sunglasses', 0.56947309, u'sunglass', 0.22686276, u'Windsor_tie', 0.024663253]
+[u'cowboy_hat', 0.51702654, u'sombrero', 0.45361558, u'military_uniform', 0.0051318649]

@@ -1,0 +1,8 @@
+[u'breakwater', 0.24297036, u'beacon', 0.10399739, u'wall_clock', 0.073887326, u'analog_clock', 0.04752773, u'traffic_light', 0.04735928]
+[u'traffic_light', 0.12335312, u'bell_cote', 0.033959638, u'maze', 0.033699766, u'mortarboard', 0.032351326, u'analog_clock', 0.028839014]
+[u'envelope', 0.15181538, u'web_site', 0.064542517, u'Band_Aid', 0.043346986, u'hair_spray', 0.01628506, u'can_opener', 0.014335371]
+[u'suit', 0.31561613, u'chain_mail', 0.31520045, u'abaya', 0.058619782, u'gown', 0.05695045, u'jean', 0.050275467]
+[u'spider_web', 0.55087382, u'matchstick', 0.06226394, u'parachute', 0.033859614, u'chain', 0.027722957, u'necklace', 0.023180125]
+[u'jigsaw_puzzle', 0.30677396, u'maze', 0.16085644, u'traffic_light', 0.045530681, u'envelope', 0.038368873, u'digital_clock', 0.031633895]
+[u'web_site', 0.13647412, u'airship', 0.045702688, u'hair_spray', 0.032319892, u'street_sign', 0.029544942, u'ski', 0.025712052]
+[u'matchstick', 0.076208062, u'nematode', 0.04769811, u'lighter', 0.030722424, u'digital_clock', 0.029044192, u'spotlight', 0.023671744]

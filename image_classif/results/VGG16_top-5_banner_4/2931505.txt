@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.1823393, u'harmonica', 0.10410039, u'cinema', 0.09227068, u'corkscrew', 0.081443496, u'hook', 0.081382707]

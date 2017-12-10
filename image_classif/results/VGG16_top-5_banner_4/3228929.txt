@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.4210304, u'spider_web', 0.057676822, u'parachute', 0.025814651, u'maypole', 0.012721105, u'umbrella', 0.011975038]
+[u'tub', 0.24686748, u'miniskirt', 0.23135319, u'bathtub', 0.19431774, u'gown', 0.047905207, u'maillot', 0.041838255]

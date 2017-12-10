@@ -1,0 +1,2 @@
+[u'ski', 0.57768875, u'ocarina', 0.15196611, u'iron', 0.14765333, u'racer', 0.042252943, u'plate_rack', 0.019866301]
+[u'clog', 0.43100053, u'banana', 0.20352036, u'ocarina', 0.15234134, u'shield', 0.077943213, u'wooden_spoon', 0.025056275]

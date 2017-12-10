@@ -1,0 +1,5 @@
+[u'diaper', 0.14397044, u'Band_Aid', 0.089214265, u'bath_towel', 0.080227353, u'bikini', 0.065068029, u'sunscreen', 0.053399511]
+[u'television', 0.22930981, u'iPod', 0.16799848, u'brassiere', 0.11310455, u'swimming_trunks', 0.084005766, u'monitor', 0.078111276]
+[u'pole', 0.17853718, u'drumstick', 0.073506951, u'umbrella', 0.043503277, u'hatchet', 0.041987181, u'mortarboard', 0.04146941]
+[u'cellular_telephone', 0.15273042, u'lipstick', 0.10345094, u'wig', 0.069070965, u'Band_Aid', 0.059408803, u'pajama', 0.050926622]
+[u'hatchet', 0.094950691, u'umbrella', 0.085199982, u'paddle', 0.060684409, u'maillot', 0.055678803, u'miniskirt', 0.048599709]

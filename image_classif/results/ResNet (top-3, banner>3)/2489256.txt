@@ -1,0 +1,2 @@
+[u'warthog', 0.65736866, u'wild_boar', 0.26218188, u'hog', 0.021175949]
+[u'barn_spider', 0.39670646, u'wolf_spider', 0.12908058, u'ibex', 0.12868333]

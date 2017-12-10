@@ -1,0 +1,2 @@
+[u'rotisserie', 0.62458998, u'safety_pin', 0.26450184, u'window_shade', 0.022941176, u'space_heater', 0.013939152, u'screwdriver', 0.013524482]
+[u'marimba', 0.24755351, u'flute', 0.13181189, u'oboe', 0.10501546, u'steel_drum', 0.08685521, u'panpipe', 0.048708163]

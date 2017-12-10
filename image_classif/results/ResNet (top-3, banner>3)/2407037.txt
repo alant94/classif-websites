@@ -1,0 +1,8 @@
+[u'restaurant', 0.39037859, u'church', 0.11922202, u'monastery', 0.10562889]
+[u'candle', 0.15765974, u'cup', 0.087710112, u'restaurant', 0.06933751]
+[u'church', 0.74710214, u'mosque', 0.15515573, u'bell_cote', 0.026342798]
+[u'oscilloscope', 0.97105193, u'spider_web', 0.0097431988, u'analog_clock', 0.002428262]
+[u'fountain', 0.29865468, u'church', 0.25984043, u'boathouse', 0.041057952]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.58299512, u'envelope', 0.10808218, u'chain_saw', 0.028623661]
+[u'church', 0.45078799, u'palace', 0.21528003, u'monastery', 0.18507254]

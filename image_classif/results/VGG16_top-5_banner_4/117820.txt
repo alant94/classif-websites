@@ -1,0 +1,3 @@
+[u'fountain', 0.30614462, u'safety_pin', 0.10136078, u'screwdriver', 0.093362071, u'syringe', 0.085724354, u'screw', 0.079480112]
+[u'wig', 0.76872194, u'hair_spray', 0.035363365, u'spotlight', 0.013270479, u'face_powder', 0.007638738, u'web_site', 0.0072858213]
+[u'fountain', 0.21309046, u'shower_curtain', 0.12100873, u'lab_coat', 0.082200438, u'screwdriver', 0.059030119, u'nail', 0.05098303]

@@ -1,0 +1,3 @@
+[u'digital_clock', 0.22577789, u'envelope', 0.18042381, u'cash_machine', 0.1085908, u'screen', 0.044799879, u'maze', 0.036608927]
+[u'Band_Aid', 0.19300565, u'street_sign', 0.13789986, u'cash_machine', 0.056774493, u'oil_filter', 0.028039968, u'coffee_mug', 0.022746373]
+[u'maze', 0.18150666, u'pick', 0.12470976, u'digital_clock', 0.096810713, u'puck', 0.066871278, u'coil', 0.036150962]

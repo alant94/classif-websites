@@ -1,0 +1,2 @@
+[u'web_site', 0.31281814, u'comic_book', 0.067551963, u'hair_slide', 0.052030981, u'thimble', 0.026331177, u'panpipe', 0.025831997]
+[u'book_jacket', 0.45570481, u'comic_book', 0.12117982, u'tray', 0.050473344, u'beer_glass', 0.017340569, u'brass', 0.01654879]

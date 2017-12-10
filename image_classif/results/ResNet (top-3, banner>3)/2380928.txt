@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.50196505, u'red_wine', 0.37506774, u'lotion', 0.03853799]
+[u'web_site', 0.26934263, u'bow', 0.20643201, u'envelope', 0.10438494]
+[u'triumphal_arch', 0.1595449, u'abaya', 0.09191031, u'ibex', 0.050632183]
+[u'wine_bottle', 0.72374249, u'red_wine', 0.25992709, u'corkscrew', 0.0073038847]
+[u'red_wine', 0.56409013, u'wine_bottle', 0.41795552, u'corkscrew', 0.0098279752]

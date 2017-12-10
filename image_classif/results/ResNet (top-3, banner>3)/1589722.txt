@@ -1,0 +1,3 @@
+[u'plate_rack', 0.58440316, u'binder', 0.044122741, u'shield', 0.02505332]
+[u'altar', 0.51783377, u'candle', 0.030062852, u'fire_screen', 0.029406341]
+[u'organ', 0.062127218, u'papillon', 0.035871092, u'candle', 0.031287964]

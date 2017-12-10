@@ -1,0 +1,3 @@
+[u'space_shuttle', 0.90586716, u'bell_cote', 0.015701331, u'drilling_platform', 0.013654777, u'castle', 0.011632406, u'killer_whale', 0.0085318713]
+[u'accordion', 0.15580313, u'cello', 0.14034115, u'bassoon', 0.13712336, u'stage', 0.10690714, u'trombone', 0.085969254]
+[u'cinema', 0.36703217, u'stage', 0.22330648, u'home_theater', 0.085827611, u'monitor', 0.051980976, u'television', 0.045949761]

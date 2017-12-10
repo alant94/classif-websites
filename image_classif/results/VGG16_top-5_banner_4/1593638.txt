@@ -1,0 +1,3 @@
+[u'miniskirt', 0.10057765, u'maillot', 0.0791649, u'washer', 0.075467601, u'toilet_tissue', 0.07359913, u'toilet_seat', 0.058042467]
+[u'lab_coat', 0.81743318, u'neck_brace', 0.02164321, u'cradle', 0.021304982, u'vestment', 0.019778157, u'shower_curtain', 0.014026339]
+[u'butcher_shop', 0.06496115, u'shoe_shop', 0.060230955, u'marimba', 0.048185129, u'miniskirt', 0.046990521, u'dishwasher', 0.035548143]

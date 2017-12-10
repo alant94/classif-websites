@@ -1,0 +1,7 @@
+[u'iPod', 0.080087416, u'book_jacket', 0.076087534, u'lighter', 0.065400109, u'cash_machine', 0.054636911, u'digital_clock', 0.046384607]
+[u'hook', 0.13978237, u'analog_clock', 0.11891573, u'traffic_light', 0.086521201, u'suspension_bridge', 0.066596344, u'spotlight', 0.049936615]
+[u'butcher_shop', 0.28745946, u'ox', 0.077701069, u'oxcart', 0.061851505, u'hoopskirt', 0.056447227, u'maypole', 0.047003549]
+[u'binder', 0.94902474, u'book_jacket', 0.041964963, u'wallet', 0.0031218485, u'modem', 0.00081987598, u'lighter', 0.00072928646]
+[u'altar', 0.95211715, u'vestment', 0.01675671, u'throne', 0.015382336, u'church', 0.00945435, u'monastery', 0.0024824932]
+[u'altar', 0.57802516, u'church', 0.41391936, u'vault', 0.0058124671, u'monastery', 0.00077101472, u'vestment', 0.00034926162]
+[u'hook', 0.136519, u'analog_clock', 0.13335808, u'bell_cote', 0.10139088, u'scale', 0.090303972, u'envelope', 0.059820566]

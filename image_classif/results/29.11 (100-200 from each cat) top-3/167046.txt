@@ -1,0 +1,7 @@
+[u'digital_clock', 0.1570189, u'web_site', 0.085175663, u'envelope', 0.073165804]
+[u'picket_fence', 0.43249193, u'chime', 0.24612185, u'worm_fence', 0.0520088]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'oscilloscope', 0.13548282, u'cup', 0.13070612, u'spider_web', 0.10320484]
+[u'digital_clock', 0.24819867, u'web_site', 0.13723567, u'envelope', 0.044741485]
+[u'digital_clock', 0.093659535, u'web_site', 0.075906381, u'envelope', 0.048098665]
+[u'web_site', 0.18529682, u'digital_clock', 0.13756119, u'envelope', 0.068867959]

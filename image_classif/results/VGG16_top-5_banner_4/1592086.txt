@@ -1,0 +1,1 @@
+[u'web_site', 0.49921969, u'bikini', 0.24983405, u'brassiere', 0.037997667, u'Band_Aid', 0.036499232, u'bow_tie', 0.027586032]

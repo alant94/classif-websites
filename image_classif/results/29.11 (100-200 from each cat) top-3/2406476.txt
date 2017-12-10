@@ -1,0 +1,5 @@
+[u'jersey', 0.47126594, u'sweatshirt', 0.13761143, u'envelope', 0.05383902]
+[u'digital_clock', 0.81798941, u'digital_watch', 0.036612138, u'analog_clock', 0.01232981]
+[u'nematode', 0.085047446, u'theater_curtain', 0.050922077, u'binder', 0.043932647]
+[u'comic_book', 0.59516585, u'menu', 0.052839037, u'shower_curtain', 0.043722127]
+[u'digital_clock', 0.40523955, u'golden_retriever', 0.047941737, u'Band_Aid', 0.040338412]

@@ -1,0 +1,5 @@
+[u'wardrobe', 0.12104233, u'ski', 0.10348659, u'binder', 0.051951982, u'chime', 0.039532613, u'safe', 0.038089894]
+[u'picket_fence', 0.16273955, u'bell_cote', 0.13649823, u'chime', 0.10433842, u'birdhouse', 0.095226802, u'pedestal', 0.054936726]
+[u'iron', 0.26677042, u'hair_slide', 0.18406588, u'letter_opener', 0.055157576, u'ski', 0.052377388, u'hook', 0.045495134]
+[u'parachute', 0.13081709, u'balloon', 0.10592597, u'torch', 0.055774793, u'lakeside', 0.051668353, u'stupa', 0.045664743]
+[u'wardrobe', 0.31895903, u'abaya', 0.17178528, u'iron', 0.024415843, u'plate_rack', 0.020761929, u'harp', 0.020415109]

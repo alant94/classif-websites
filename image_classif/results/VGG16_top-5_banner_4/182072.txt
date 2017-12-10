@@ -1,0 +1,2 @@
+[u'web_site', 0.99791092, u'screen', 0.00024634827, u'rule', 0.00016923067, u'monitor', 0.00016235783, u'hand-held_computer', 0.00014675406]
+[u'street_sign', 0.089810342, u'sunscreen', 0.075514555, u'hair_spray', 0.072098047, u'lotion', 0.052625861, u'rubber_eraser', 0.041298278]

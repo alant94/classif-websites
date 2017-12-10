@@ -1,0 +1,6 @@
+[u'television', 0.27605838, u'bulletproof_vest', 0.20129427, u'laptop', 0.069129936, u'notebook', 0.054856461, u'screen', 0.03553658]
+[u'hook', 0.097924612, u'chain', 0.026014984, u'street_sign', 0.025800092, u'corkscrew', 0.02181064, u'whistle', 0.019751042]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'rubber_eraser', 0.21026494, u'binder', 0.16250509, u'perfume', 0.11837897, u'envelope', 0.10302103, u'face_powder', 0.083428815]
+[u'rugby_ball', 0.49457732, u'soccer_ball', 0.033068482, u'neck_brace', 0.016393745, u'ping-pong_ball', 0.014431595, u'jersey', 0.012830585]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]

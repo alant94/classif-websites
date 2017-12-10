@@ -1,0 +1,2 @@
+[u'web_site', 0.96694326, u'hand-held_computer', 0.014255118, u'screen', 0.0079321926, u'iPod', 0.0034509362, u'monitor', 0.0032418051]
+[u'web_site', 0.92311263, u'screen', 0.024989564, u'monitor', 0.018550964, u'notebook', 0.016406147, u'desktop_computer', 0.0073032989]

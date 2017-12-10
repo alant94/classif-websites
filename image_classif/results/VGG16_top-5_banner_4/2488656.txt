@@ -1,0 +1,6 @@
+[u'envelope', 0.14121327, u'book_jacket', 0.095230103, u'web_site', 0.077677451, u'jersey', 0.04395356, u'chime', 0.034210183]
+[u'book_jacket', 0.14024818, u'nail', 0.041458845, u'web_site', 0.0342393, u'bow', 0.032038011, u'letter_opener', 0.028247895]
+[u'lakeside', 0.38380241, u'picket_fence', 0.16735886, u'boathouse', 0.041151296, u'seashore', 0.038670231, u'paddle', 0.029959841]
+[u'face_powder', 0.18472257, u'pick', 0.10389981, u'loupe', 0.10000598, u'puck', 0.077712834, u'stopwatch', 0.071086138]
+[u'dock', 0.11375573, u'picket_fence', 0.053462416, u'liner', 0.045430444, u'screwdriver', 0.045114767, u'gondola', 0.043717392]
+[u'lakeside', 0.4533034, u'boathouse', 0.095284477, u'picket_fence', 0.076750413, u'seashore', 0.04161853, u'bison', 0.023398213]

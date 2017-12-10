@@ -1,0 +1,2 @@
+[u'web_site', 0.99990261, u'notebook', 1.4651453e-05, u'monitor', 1.2510163e-05]
+[u'lotion', 0.1957553, u'sunscreen', 0.11249212, u'remote_control', 0.040183119]

@@ -1,0 +1,2 @@
+[u'web_site', 0.727386, u'menu', 0.093800783, u'envelope', 0.022699716, u'binder', 0.019177377, u'comic_book', 0.010147764]
+[u'television', 0.31929642, u'entertainment_center', 0.29917502, u'home_theater', 0.21699724, u'monitor', 0.046404861, u'screen', 0.014986123]

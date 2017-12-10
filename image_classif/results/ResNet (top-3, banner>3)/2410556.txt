@@ -1,0 +1,1 @@
+[u'book_jacket', 0.88228434, u'scoreboard', 0.084863223, u'screwdriver', 0.005651969]

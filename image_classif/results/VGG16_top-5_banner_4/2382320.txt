@@ -1,0 +1,2 @@
+[u'jersey', 0.098156035, u'comic_book', 0.061940193, u'web_site', 0.052213393, u'binder', 0.046620511, u'sweatshirt', 0.044200808]
+[u'cinema', 0.10022909, u'fire_engine', 0.081734374, u'mobile_home', 0.060379993, u'flagpole', 0.060377747, u'beacon', 0.049569726]

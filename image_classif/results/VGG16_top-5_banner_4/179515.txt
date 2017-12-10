@@ -1,0 +1,4 @@
+[u'flagpole', 0.041755587, u'traffic_light', 0.033558372, u'hook', 0.029459443, u'modem', 0.028546058, u'envelope', 0.027628846]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'web_site', 0.10529036, u'street_sign', 0.071815796, u'book_jacket', 0.055015761, u'nail', 0.049202595, u'rule', 0.039259538]
+[u'digital_clock', 0.34676242, u'Band_Aid', 0.087233022, u'envelope', 0.073927, u'scoreboard', 0.073503755, u'Windsor_tie', 0.027614558]

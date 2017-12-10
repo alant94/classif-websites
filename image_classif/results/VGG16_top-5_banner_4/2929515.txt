@@ -1,0 +1,5 @@
+[u'space_shuttle', 0.12509243, u'traffic_light', 0.058361594, u'street_sign', 0.056962695, u'flagpole', 0.05518084, u'bell_cote', 0.048428055]
+[u'screwdriver', 0.52053165, u"carpenter's_kit", 0.15339592, u'organ', 0.14526309, u'syringe', 0.076851092, u'ballpoint', 0.021637768]
+[u'book_jacket', 0.17817762, u'nematode', 0.16244592, u'binder', 0.089042731, u'maze', 0.086918987, u'hook', 0.034228589]
+[u'cleaver', 0.017985523, u'envelope', 0.015230507, u'can_opener', 0.011874575, u'corkscrew', 0.010945483, u'face_powder', 0.010549726]
+[u'traffic_light', 0.15744168, u'envelope', 0.13404089, u'wall_clock', 0.1166357, u'picket_fence', 0.10898768, u'street_sign', 0.046436772]

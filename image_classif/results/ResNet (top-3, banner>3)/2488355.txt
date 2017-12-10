@@ -1,0 +1,5 @@
+[u'tiger', 0.22619663, u'web_site', 0.20765652, u'envelope', 0.07537663]
+[u'great_grey_owl', 0.67513847, u'hummingbird', 0.070426762, u'frilled_lizard', 0.067252271]
+[u'bustard', 0.17003019, u'great_grey_owl', 0.12893383, u'ruffed_grouse', 0.066789374]
+[u'great_grey_owl', 0.16824622, u'birdhouse', 0.10278813, u'jay', 0.10004607]
+[u'mask', 0.53958148, u'custard_apple', 0.1357905, u'Angora', 0.10268427]

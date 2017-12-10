@@ -1,0 +1,5 @@
+[u'syringe', 0.1428899, u'screwdriver', 0.056799501, u'toaster', 0.056141619, u'medicine_chest', 0.046368636, u'rule', 0.040057708]
+[u'dishwasher', 0.060886241, u'toaster', 0.056735333, u'photocopier', 0.052111577, u'notebook', 0.049887091, u'refrigerator', 0.035268713]
+[u'toaster', 0.18229786, u'dishwasher', 0.06945201, u'screwdriver', 0.052804191, u'notebook', 0.042235978, u'refrigerator', 0.041446287]
+[u'medicine_chest', 0.055472769, u'switch', 0.053311326, u'radio', 0.046273421, u'space_bar', 0.039638795, u'modem', 0.033367991]
+[u'medicine_chest', 0.14839636, u'toaster', 0.098481603, u'dishwasher', 0.085385256, u'refrigerator', 0.073005222, u'safe', 0.071716212]

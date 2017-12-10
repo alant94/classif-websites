@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.31430569, u'lotion', 0.094341002, u'sunscreen', 0.09298481, u'hair_spray', 0.047640197, u'perfume', 0.04704747]
+[u'pick', 0.22263332, u'comic_book', 0.1240573, u'jersey', 0.064646795, u'shield', 0.048815139, u'lighter', 0.043225922]

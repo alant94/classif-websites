@@ -1,0 +1,2 @@
+[u'horse_cart', 0.25479817, u'oxcart', 0.13700782, u'ox', 0.081454158, u'Arabian_camel', 0.055053279, u'jeep', 0.043952286]
+[u'screwdriver', 0.33813435, u"carpenter's_kit", 0.21194744, u'wine_bottle', 0.048947107, u'lipstick', 0.037413925, u'dumbbell', 0.035353661]

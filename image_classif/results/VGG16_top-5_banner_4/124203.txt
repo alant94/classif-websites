@@ -1,0 +1,4 @@
+[u'microphone', 0.40487501, u'oil_filter', 0.26777273, u'thimble', 0.073067799, u'screw', 0.03361553, u'rubber_eraser', 0.02671892]
+[u'ping-pong_ball', 0.49036252, u'perfume', 0.065011904, u'iPod', 0.035628747, u'volleyball', 0.030735642, u'gas_pump', 0.027546208]
+[u'brass', 0.31728435, u'jigsaw_puzzle', 0.10366268, u'fountain', 0.096021086, u'steel_arch_bridge', 0.065614723, u'sundial', 0.062767833]
+[u'combination_lock', 0.2955873, u'padlock', 0.1343364, u'lighter', 0.12565036, u'switch', 0.069108583, u'digital_watch', 0.045416541]

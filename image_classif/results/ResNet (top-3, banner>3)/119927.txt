@@ -1,0 +1,3 @@
+[u'comic_book', 0.098880045, u'corkscrew', 0.087211914, u'slot', 0.061418593]
+[u'web_site', 0.38646343, u'medicine_chest', 0.11868653, u'cash_machine', 0.066199571]
+[u'web_site', 0.74555343, u'envelope', 0.039207913, u'rule', 0.018816901]

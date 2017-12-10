@@ -1,0 +1,8 @@
+[u'eggnog', 0.29072058, u'water_jug', 0.24647902, u'lotion', 0.20333017, u'whiskey_jug', 0.11582917, u'sunscreen', 0.037917852]
+[u'go-kart', 0.40883669, u'racer', 0.10265374, u'clog', 0.074937023, u'ashcan', 0.041672576, u'crash_helmet', 0.028384155]
+[u'pick', 0.69417924, u'toilet_seat', 0.038447559, u'street_sign', 0.02380636, u'balloon', 0.023441501, u'comic_book', 0.022791397]
+[u'racket', 0.46952659, u'tennis_ball', 0.091261521, u'bottlecap', 0.080224097, u'ping-pong_ball', 0.057001118, u'rugby_ball', 0.053718895]
+[u'jersey', 0.33173159, u'pick', 0.2777389, u'laptop', 0.03688322, u'analog_clock', 0.033717625, u'abaya', 0.028956613]
+[u'bolo_tie', 0.18739359, u'puck', 0.16277048, u'shield', 0.11567499, u'ocarina', 0.077547513, u'bottlecap', 0.061064839]
+[u'coil', 0.17180346, u'picket_fence', 0.16522965, u'bannister', 0.16079678, u'radiator', 0.063137718, u'matchstick', 0.042817581]
+[u'eggnog', 0.12928066, u'lotion', 0.11798229, u'water_jug', 0.079389364, u'whiskey_jug', 0.074803852, u'milk_can', 0.065970778]

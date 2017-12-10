@@ -1,0 +1,2 @@
+[u'street_sign', 0.26377544, u'book_jacket', 0.19799191, u'web_site', 0.10780167]
+[u'web_site', 0.61573076, u'envelope', 0.25040895, u'hook', 0.012874026]

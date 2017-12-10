@@ -1,0 +1,2 @@
+[u'web_site', 0.20773989, u'hand_blower', 0.070194811, u'Band_Aid', 0.0313216]
+[u'web_site', 0.85241193, u'menu', 0.13809296, u'envelope', 0.0020501791]

@@ -1,0 +1,3 @@
+[u'mouse', 0.18418764, u'can_opener', 0.18385805, u'rugby_ball', 0.10340576, u'punching_bag', 0.088943228, u'corkscrew', 0.035152439]
+[u'book_jacket', 0.28717095, u'nail', 0.033308107, u'scoreboard', 0.031073125, u'street_sign', 0.029893136, u'comic_book', 0.029181816]
+[u'knee_pad', 0.062206607, u'hook', 0.056579862, u'nipple', 0.037034161, u'Band_Aid', 0.036585003, u'digital_clock', 0.036328368]

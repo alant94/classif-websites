@@ -1,0 +1,7 @@
+[u'platypus', 0.45990348, u'otter', 0.19193454, u'beaver', 0.13009465, u'American_coot', 0.036693163, u'little_blue_heron', 0.013679887]
+[u'nematode', 0.1406233, u'digital_clock', 0.079319641, u'analog_clock', 0.032512303, u'spotlight', 0.025201239, u'matchstick', 0.022188567]
+[u'water_tower', 0.19776297, u'lakeside', 0.10845553, u'barn', 0.095478371, u'car_mirror', 0.092016399, u'beacon', 0.060073368]
+[u'bighorn', 0.77086526, u'ram', 0.22900628, u'ibex', 0.00011898564, u'llama', 3.9929209e-06, u'baboon', 2.7009364e-06]
+[u'lynx', 0.83993447, u'tiger_cat', 0.04054964, u'cougar', 0.039740507, u'lion', 0.021838142, u'tiger', 0.012920064]
+[u'mountain_tent', 0.10213535, u'lakeside', 0.096389934, u'barn', 0.057215344, u'geyser', 0.042720839, u'beacon', 0.030587791]
+[u'gazelle', 0.86082208, u'impala', 0.077896126, u'patas', 0.029588996, u'English_foxhound', 0.0041937954, u'llama', 0.004028732]

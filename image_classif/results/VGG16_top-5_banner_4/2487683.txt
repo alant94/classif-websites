@@ -1,0 +1,2 @@
+[u'hay', 0.14755452, u'worm_fence', 0.063660681, u'radio_telescope', 0.052921593, u'parachute', 0.050621934, u'balloon', 0.031118818]
+[u'bow', 0.09322679, u'panpipe', 0.079937577, u'swab', 0.063458785, u'hatchet', 0.052026127, u'jersey', 0.049706798]

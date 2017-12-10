@@ -1,0 +1,3 @@
+[u'cinema', 0.38223541, u'mosque', 0.098186299, u'altar', 0.06955304, u'flagpole', 0.05588064, u'monastery', 0.025140941]
+[u'beer_bottle', 0.47264865, u'wine_bottle', 0.2776095, u'pop_bottle', 0.06928961, u'beaker', 0.050368469, u'red_wine', 0.031107707]
+[u'beer_bottle', 0.29399583, u'pop_bottle', 0.23617575, u'wine_bottle', 0.17930073, u'red_wine', 0.096418157, u'punching_bag', 0.037069742]

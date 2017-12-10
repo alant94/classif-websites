@@ -1,0 +1,8 @@
+[u'web_site', 0.10358696, u'crossword_puzzle', 0.07429301, u'shower_curtain', 0.072806604]
+[u'digital_clock', 0.87958568, u'crossword_puzzle', 0.02146994, u'analog_clock', 0.017052969]
+[u'web_site', 0.086996377, u'wardrobe', 0.050776802, u'shower_curtain', 0.048547097]
+[u'analog_clock', 0.97689772, u'wall_clock', 0.022367811, u'gong', 0.00030190594]
+[u'crossword_puzzle', 0.67268747, u'wardrobe', 0.070820726, u'shower_curtain', 0.065775886]
+[u'ashcan', 0.57945484, u'stove', 0.089752384, u'file', 0.064057246]
+[u'web_site', 0.20904979, u'envelope', 0.043665096, u'wardrobe', 0.04102277]
+[u'web_site', 0.32628784, u'envelope', 0.098703295, u'abaya', 0.037190512]

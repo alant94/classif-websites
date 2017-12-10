@@ -1,0 +1,5 @@
+[u'envelope', 0.22408231, u'web_site', 0.18452506, u'notebook', 0.08133661]
+[u'harvester', 0.28921056, u'fire_engine', 0.28583762, u'paddlewheel', 0.18571237]
+[u'mobile_home', 0.17922151, u'fire_engine', 0.064584687, u'harvester', 0.050421651]
+[u'sliding_door', 0.11791963, u'mobile_home', 0.05908886, u'window_screen', 0.052600954]
+[u'harvester', 0.2132525, u'pickup', 0.16680662, u'fire_engine', 0.12307986]

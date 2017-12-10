@@ -1,0 +1,4 @@
+[u'miniskirt', 0.14630376, u'sunscreen', 0.091432743, u'hair_spray', 0.05749239, u'hand_blower', 0.039179415, u'maillot', 0.034303684]
+[u'diaper', 0.72994018, u'Band_Aid', 0.035197597, u'sombrero', 0.016717087, u'sunscreen', 0.014467426, u'shower_cap', 0.010400565]
+[u'cardigan', 0.46918136, u'diaper', 0.055499893, u'stone_wall', 0.030300295, u'hatchet', 0.023616727, u'triceratops', 0.013822382]
+[u'diaper', 0.79565662, u'swimming_trunks', 0.058077153, u'tub', 0.022384619, u'dough', 0.0092712454, u'Band_Aid', 0.0092464816]

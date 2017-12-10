@@ -1,0 +1,1 @@
+[u'loudspeaker', 0.25941327, u'home_theater', 0.15419558, u'radio', 0.074502617, u'projector', 0.071594715, u'desktop_computer', 0.036825165]

@@ -1,0 +1,2 @@
+[u'bannister', 0.60214365, u'shoji', 0.15917984, u'sliding_door', 0.070760623]
+[u'bannister', 0.83256769, u'shoji', 0.027700508, u'picket_fence', 0.013584406]

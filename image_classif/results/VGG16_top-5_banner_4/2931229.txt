@@ -1,0 +1,1 @@
+[u'book_jacket', 0.21821566, u'packet', 0.072573259, u'envelope', 0.064975351, u'web_site', 0.048584066, u'jigsaw_puzzle', 0.044034429]

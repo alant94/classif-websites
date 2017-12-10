@@ -1,0 +1,4 @@
+[u'book_jacket', 0.82643956, u'packet', 0.067878671, u'web_site', 0.033773683]
+[u'laptop', 0.2421837, u'book_jacket', 0.20238313, u'jersey', 0.099778481]
+[u'web_site', 0.41785216, u'cash_machine', 0.079818517, u'screen', 0.0335037]
+[u'web_site', 0.72256386, u'book_jacket', 0.012932926, u'hair_spray', 0.01007962]

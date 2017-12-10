@@ -1,0 +1,8 @@
+[u'gasmask', 0.10350137, u'muzzle', 0.041979227, u'gibbon', 0.037716031]
+[u'book_jacket', 0.56857961, u'scoreboard', 0.098971143, u'packet', 0.045280457]
+[u'sandal', 0.17816924, u'clog', 0.13577093, u'sax', 0.037617359]
+[u'ballpoint', 0.72857887, u'syringe', 0.10657682, u'rule', 0.048107442]
+[u'web_site', 0.17254287, u'tripod', 0.079925038, u'hourglass', 0.079053953]
+[u'electric_guitar', 0.37561327, u'banjo', 0.26096299, u'hammer', 0.11391174]
+[u'book_jacket', 0.63223219, u'web_site', 0.11957947, u'packet', 0.10595791]
+[u'web_site', 0.19451904, u'hook', 0.020381298, u'hard_disc', 0.019759132]

@@ -1,0 +1,1 @@
+[u'hand-held_computer', 0.13651775, u'television', 0.1219693, u'iPod', 0.09978421]

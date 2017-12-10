@@ -1,0 +1,2 @@
+[u'library', 0.59160674, u'restaurant', 0.2431972, u'dining_table', 0.044096053, u'bookshop', 0.033361148, u'carton', 0.0058409953]
+[u'shower_cap', 0.17987548, u'Petri_dish', 0.16343273, u'lab_coat', 0.062530518, u'bathing_cap', 0.058771349, u'diaper', 0.047076706]

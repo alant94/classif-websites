@@ -1,0 +1,6 @@
+[u'plow', 0.76465863, u'stone_wall', 0.02233617, u'megalith', 0.022098443, u'hay', 0.020188518, u'maze', 0.019714721]
+[u'ostrich', 0.72638935, u'white_stork', 0.11115854, u'vulture', 0.063155286, u'bustard', 0.015521168, u'black_stork', 0.010274776]
+[u'ibex', 0.79507679, u'bighorn', 0.06593062, u'gazelle', 0.059367016, u'wallaby', 0.018084433, u'ram', 0.013958503]
+[u'plow', 0.84357136, u'Arabian_camel', 0.035239529, u'hartebeest', 0.018011795, u'tusker', 0.017863771, u'water_buffalo', 0.01576812]
+[u'ibex', 0.79622048, u'impala', 0.11040714, u'hartebeest', 0.025084419, u'gazelle', 0.0185965, u'wild_boar', 0.0077226367]
+[u'jersey', 0.090766676, u'pick', 0.063587397, u'wall_clock', 0.055900961, u'envelope', 0.048294742, u'puck', 0.046546232]

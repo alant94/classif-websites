@@ -1,0 +1,8 @@
+[u'web_site', 0.86896074, u'menu', 0.12589876, u'comic_book', 0.00075966166, u'monitor', 0.00045475797, u'envelope', 0.00030875861]
+[u'web_site', 0.99863297, u'envelope', 0.00033635594, u'menu', 0.00020892386, u'book_jacket', 0.00018657077, u'comic_book', 0.0001057855]
+[u'web_site', 0.96518767, u'menu', 0.031738348, u'envelope', 0.0017833856, u'book_jacket', 0.0004342435, u'comic_book', 0.00032984253]
+[u'web_site', 0.99595827, u'menu', 0.0025785991, u'envelope', 0.00091466936, u'comic_book', 0.00017678099, u'book_jacket', 6.7386813e-05]
+[u'web_site', 0.99879658, u'menu', 0.0010273946, u'rule', 6.2084851e-05, u'envelope', 5.1445124e-05, u'Band_Aid', 1.6081094e-05]
+[u'web_site', 0.92458069, u'menu', 0.031709515, u'book_jacket', 0.024734734, u'comic_book', 0.014389113, u'envelope', 0.00098861859]
+[u'web_site', 0.81722558, u'menu', 0.086546481, u'Band_Aid', 0.018664103, u'rule', 0.018324066, u'envelope', 0.018167652]
+[u'web_site', 0.99922681, u'book_jacket', 0.00017085407, u'iPod', 0.00014737631, u'monitor', 4.137935e-05, u'screen', 4.1249601e-05]

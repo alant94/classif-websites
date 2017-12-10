@@ -1,0 +1,3 @@
+[u'book_jacket', 0.18031582, u'airship', 0.1381176, u'baseball', 0.062509254, u'packet', 0.052827638, u'ski', 0.045991603]
+[u'hand_blower', 0.45679912, u'power_drill', 0.16293998, u'can_opener', 0.0484372, u'vacuum', 0.044690534, u'corkscrew', 0.034725323]
+[u'Band_Aid', 0.55933207, u'street_sign', 0.080334961, u'book_jacket', 0.077154487, u'cash_machine', 0.022919057, u'hair_spray', 0.019142028]

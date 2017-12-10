@@ -1,0 +1,3 @@
+[u'window_screen', 0.23020312, u'sundial', 0.07583873, u'window_shade', 0.075301342]
+[u'church', 0.53843755, u'bell_cote', 0.19144866, u'tile_roof', 0.13386929]
+[u'organ', 0.38696846, u'poncho', 0.21541962, u'book_jacket', 0.040143833]

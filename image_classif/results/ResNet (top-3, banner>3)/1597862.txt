@@ -1,0 +1,6 @@
+[u'drumstick', 0.39775196, u'wooden_spoon', 0.12030093, u'plunger', 0.043256819]
+[u'swimming_trunks', 0.6462267, u'barbell', 0.051895007, u'sleeping_bag', 0.034457847]
+[u'dumbbell', 0.20587885, u'knee_pad', 0.17218547, u'barbell', 0.14248659]
+[u'maillot', 0.3369534, u'maillot', 0.19870111, u'tub', 0.12046763]
+[u'dumbbell', 0.25923494, u'brassiere', 0.21989992, u'maillot', 0.11393645]
+[u'maillot', 0.19995053, u'brassiere', 0.14799917, u'maillot', 0.10251799]

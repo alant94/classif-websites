@@ -1,0 +1,6 @@
+[u'screw', 0.14533573, u'cockroach', 0.14159894, u'black_widow', 0.097709745]
+[u'stage', 0.24453209, u'church', 0.092498101, u'theater_curtain', 0.072653711]
+[u'fountain', 0.67618543, u'conch', 0.015035007, u'tripod', 0.01394153]
+[u'bolo_tie', 0.22887206, u'web_site', 0.18949313, u'wall_clock', 0.093731947]
+[u'fountain', 0.79278153, u'fur_coat', 0.066625491, u'abaya', 0.018202987]
+[u'fountain', 0.31179953, u'volcano', 0.19724132, u'rotisserie', 0.18273409]

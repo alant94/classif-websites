@@ -1,0 +1,8 @@
+[u'monitor', 0.18079938, u'screen', 0.17416798, u'television', 0.13799058, u'container_ship', 0.025704406, u'cash_machine', 0.024680877]
+[u'tape_player', 0.38110632, u'cassette_player', 0.13025174, u'analog_clock', 0.12219565, u'radio', 0.10217241, u'CD_player', 0.094186507]
+[u'mortarboard', 0.10329843, u'hook', 0.099024348, u'swab', 0.061601918, u'academic_gown', 0.032213364, u'nail', 0.028475488]
+[u'magnetic_compass', 0.57902825, u'combination_lock', 0.074573271, u'joystick', 0.061996877, u'stove', 0.061178368, u'reel', 0.060469769]
+[u'pencil_sharpener', 0.5308637, u'pill_bottle', 0.090836361, u'candle', 0.081605464, u'bottlecap', 0.044235244, u'buckeye', 0.038357731]
+[u'nipple', 0.36973694, u'vase', 0.091421314, u'knee_pad', 0.087249801, u'water_jug', 0.077137329, u'whistle', 0.04316074]
+[u'chain_saw', 0.083653264, u'vacuum', 0.081642918, u'perfume', 0.077312961, u'pop_bottle', 0.043586284, u'syringe', 0.037166342]
+[u'china_cabinet', 0.51472723, u'plate_rack', 0.036893032, u'water_bottle', 0.030760853, u'medicine_chest', 0.022880573, u'nipple', 0.018224793]

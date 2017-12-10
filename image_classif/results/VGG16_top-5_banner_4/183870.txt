@@ -1,0 +1,4 @@
+[u'brass', 0.075467929, u'envelope', 0.062495612, u'gas_pump', 0.049716175, u'book_jacket', 0.049365092, u'switch', 0.04014755]
+[u'joystick', 0.31567419, u'can_opener', 0.11726465, u'sewing_machine', 0.064076096, u'digital_clock', 0.044220451, u'hand_blower', 0.030402143]
+[u'vending_machine', 0.19368456, u'medicine_chest', 0.16165181, u'web_site', 0.13637395, u'book_jacket', 0.11294623, u'tobacco_shop', 0.063768014]
+[u'safety_pin', 0.42942229, u'cornet', 0.049643625, u'throne', 0.040885221, u'whistle', 0.038894851, u'nipple', 0.036915518]

@@ -1,0 +1,2 @@
+[u'neck_brace', 0.17732319, u'buckle', 0.088327013, u'can_opener', 0.08454603, u'hook', 0.076976627, u'whistle', 0.052075453]
+[u'microphone', 0.067936108, u'hammer', 0.051757865, u'punching_bag', 0.047255732, u'hair_spray', 0.04057486, u'hand_blower', 0.037785232]

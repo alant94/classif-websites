@@ -1,0 +1,5 @@
+[u'pill_bottle', 0.48795727, u'sunscreen', 0.088590391, u'lotion', 0.065069929]
+[u'pill_bottle', 0.27265599, u'lotion', 0.071881823, u'beer_glass', 0.055367336]
+[u'candle', 0.27183649, u'red_wine', 0.12117259, u'book_jacket', 0.055592738]
+[u'lotion', 0.45755079, u'sunscreen', 0.21187977, u'hair_spray', 0.10388651]
+[u'book_jacket', 0.1395577, u'butcher_shop', 0.064398311, u'shoe_shop', 0.038928334]

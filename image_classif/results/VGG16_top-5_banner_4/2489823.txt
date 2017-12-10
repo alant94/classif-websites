@@ -1,0 +1,4 @@
+[u'window_shade', 0.28038442, u'file', 0.20400248, u'space_heater', 0.10919008, u'bookcase', 0.052017555, u'turnstile', 0.036180761]
+[u'ibex', 0.21596418, u'plow', 0.16416861, u'gazelle', 0.075475834, u'bow', 0.054327469, u'impala', 0.052615706]
+[u'file', 0.26308775, u'window_shade', 0.18286735, u'turnstile', 0.12947255, u'space_heater', 0.11116584, u'crate', 0.044820625]
+[u'space_heater', 0.16864808, u'window_shade', 0.12151437, u'file', 0.073420942, u'photocopier', 0.068115912, u'cash_machine', 0.060099382]

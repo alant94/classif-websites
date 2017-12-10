@@ -1,0 +1,4 @@
+[u'Indian_elephant', 0.18008202, u'tusker', 0.072195664, u'baboon', 0.066732839, u'llama', 0.050999984, u'African_elephant', 0.050552476]
+[u'giant_schnauzer', 0.29161704, u'Irish_water_spaniel', 0.10384201, u'standard_poodle', 0.061118733, u'curly-coated_retriever', 0.037359938, u'Bouvier_des_Flandres', 0.034618855]
+[u'impala', 0.72274184, u'gazelle', 0.093659028, u'hartebeest', 0.063466199, u'ostrich', 0.054608013, u'coyote', 0.028073737]
+[u'harvester', 0.1526147, u'barn', 0.10816348, u'thresher', 0.096337788, u'mobile_home', 0.056017566, u'tractor', 0.048760913]

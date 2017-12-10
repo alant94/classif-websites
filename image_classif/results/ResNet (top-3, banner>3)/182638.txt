@@ -1,0 +1,4 @@
+[u'web_site', 0.15825321, u'envelope', 0.060950749, u'power_drill', 0.029082468]
+[u"potter's_wheel", 0.23014921, u'slide_rule', 0.046917737, u'vestment', 0.040344089]
+[u'suit', 0.15484485, u'comic_book', 0.079052933, u'Windsor_tie', 0.054324176]
+[u'Windsor_tie', 0.91434842, u'suit', 0.039707486, u'academic_gown', 0.0043052584]

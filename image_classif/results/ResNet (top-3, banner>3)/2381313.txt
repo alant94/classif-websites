@@ -1,0 +1,2 @@
+[u'digital_clock', 0.14159204, u'web_site', 0.040845044, u'scoreboard', 0.028634241]
+[u'digital_clock', 0.98596174, u'digital_watch', 0.012153505, u'traffic_light', 0.0004473718]

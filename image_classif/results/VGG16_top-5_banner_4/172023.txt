@@ -1,0 +1,2 @@
+[u'web_site', 0.77226657, u'packet', 0.064634696, u'binder', 0.043971188, u'Band_Aid', 0.021252537, u'book_jacket', 0.02062176]
+[u'web_site', 0.2937423, u'rule', 0.1031701, u'oscilloscope', 0.085836627, u'slide_rule', 0.072465658, u'monitor', 0.065204889]

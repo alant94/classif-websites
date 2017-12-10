@@ -1,0 +1,4 @@
+[u'upright', 0.71855354, u'grand_piano', 0.28097129, u'organ', 0.00043354492]
+[u'grand_piano', 0.99939263, u'upright', 0.00060739159, u'violin', 2.1329706e-08]
+[u'book_jacket', 0.4250294, u'theater_curtain', 0.051875979, u'comic_book', 0.045476876]
+[u'grand_piano', 0.5243119, u'horse_cart', 0.061926242, u'upright', 0.045639474]

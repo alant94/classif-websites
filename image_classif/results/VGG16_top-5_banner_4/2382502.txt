@@ -1,0 +1,4 @@
+[u'envelope', 0.18817189, u'candle', 0.12090551, u'matchstick', 0.11595123, u'wardrobe', 0.11027175, u'lighter', 0.037937723]
+[u'jersey', 0.45211965, u'apron', 0.029651733, u'sweatshirt', 0.027682481, u'brassiere', 0.027465377, u'rapeseed', 0.022443647]
+[u'envelope', 0.2198154, u'rule', 0.080456287, u'crane', 0.076751612, u'birdhouse', 0.062115684, u'bell_cote', 0.03162213]
+[u'crane', 0.16405658, u'envelope', 0.15688764, u'birdhouse', 0.048750371, u'bell_cote', 0.045735326, u'rule', 0.035126086]

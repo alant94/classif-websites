@@ -1,0 +1,5 @@
+[u'comic_book', 0.14124498, u'web_site', 0.088328853, u'remote_control', 0.038279347]
+[u'sunscreen', 0.18258481, u'hair_spray', 0.12636574, u'packet', 0.12157552]
+[u'beer_bottle', 0.50085515, u'wine_bottle', 0.1112997, u'pop_bottle', 0.07234747]
+[u'wine_bottle', 0.25031036, u'hair_spray', 0.15719062, u'plane', 0.077765964]
+[u'puck', 0.15060245, u'buckle', 0.048869986, u'oil_filter', 0.042972196]

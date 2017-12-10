@@ -1,0 +1,8 @@
+[u'beer_bottle', 0.54382211, u'wine_bottle', 0.43854225, u'pop_bottle', 0.0075231893]
+[u'medicine_chest', 0.40880194, u'switch', 0.12284882, u'hook', 0.034777205]
+[u'medicine_chest', 0.18966876, u'binder', 0.093891814, u'lighter', 0.074675366]
+[u'water_jug', 0.33360031, u'measuring_cup', 0.11454079, u'dishwasher', 0.083301276]
+[u'whistle', 0.38265696, u'power_drill', 0.04759407, u'pill_bottle', 0.047417883]
+[u'pill_bottle', 0.16220661, u'lighter', 0.11205375, u'switch', 0.094464071]
+[u'clog', 0.24709971, u'pick', 0.058310222, u'coffee_mug', 0.057217311]
+[u'book_jacket', 0.82679898, u'carton', 0.066166408, u'binder', 0.042532146]

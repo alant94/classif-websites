@@ -1,0 +1,1 @@
+[u'bath_towel', 0.14038399, u'harmonica', 0.1041583, u'tub', 0.073240429, u'shower_curtain', 0.065413751, u'pajama', 0.057456929]

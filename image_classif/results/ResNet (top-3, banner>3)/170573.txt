@@ -1,0 +1,3 @@
+[u'book_jacket', 0.4656249, u'comic_book', 0.30228397, u'web_site', 0.1602637]
+[u'altar', 0.36797634, u'book_jacket', 0.21814336, u'jigsaw_puzzle', 0.15138792]
+[u'digital_clock', 0.39983508, u'digital_watch', 0.31681392, u'scoreboard', 0.13375311]

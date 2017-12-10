@@ -1,0 +1,5 @@
+[u'book_jacket', 0.59563583, u'Band_Aid', 0.21301438, u'oil_filter', 0.021708308]
+[u'menu', 0.51511788, u'scoreboard', 0.34042895, u'book_jacket', 0.03253277]
+[u'web_site', 0.32424119, u'slide_rule', 0.2696676, u'rule', 0.12846872]
+[u'web_site', 0.30913481, u'digital_clock', 0.16922349, u'traffic_light', 0.056974754]
+[u'web_site', 0.34173363, u'digital_clock', 0.21253589, u'prayer_rug', 0.025129737]

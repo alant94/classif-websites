@@ -1,0 +1,2 @@
+[u'book_jacket', 0.38548699, u'comic_book', 0.053517655, u'traffic_light', 0.03148767, u'theater_curtain', 0.0302308, u'scoreboard', 0.02628101]
+[u'street_sign', 0.14481042, u'book_jacket', 0.07446795, u'web_site', 0.060889632, u'scoreboard', 0.016330302, u'cash_machine', 0.014339075]

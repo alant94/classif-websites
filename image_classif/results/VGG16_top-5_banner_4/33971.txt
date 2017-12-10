@@ -1,0 +1,8 @@
+[u'screwdriver', 0.66001219, u'syringe', 0.11594456, u'nail', 0.0411417, u'power_drill', 0.036576625, u'screw', 0.031569201]
+[u'lighter', 0.12341276, u'combination_lock', 0.12015826, u'pencil_sharpener', 0.093380362, u'bucket', 0.061442278, u'buckle', 0.054591455]
+[u'screwdriver', 0.8444944, u'nail', 0.072480299, u'syringe', 0.028741779, u'screw', 0.0086674411, u'rule', 0.0077075041]
+[u'screwdriver', 0.41535074, u'syringe', 0.3740091, u'nail', 0.062929764, u'rule', 0.038288306, u'liner', 0.019102944]
+[u'screwdriver', 0.53289378, u'nail', 0.12625401, u'screw', 0.078036204, u'syringe', 0.073173143, u'power_drill', 0.031336129]
+[u'radiator', 0.52413332, u'paintbrush', 0.28259939, u'picket_fence', 0.11413877, u'chime', 0.019013369, u'worm_fence', 0.015278649]
+[u'matchstick', 0.23583777, u'candle', 0.10514873, u'nematode', 0.087663889, u'lighter', 0.02889305, u'spotlight', 0.028846836]
+[u'buckle', 0.56137794, u'drum', 0.11800666, u'bathtub', 0.049185179, u'pencil_sharpener', 0.032166235, u'puck', 0.028340051]

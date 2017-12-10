@@ -1,0 +1,2 @@
+[u'laptop', 0.12931478, u'digital_clock', 0.11827049, u'screen', 0.096448392]
+[u'ballpoint', 0.53281897, u'screwdriver', 0.212181, u'rubber_eraser', 0.048970211]

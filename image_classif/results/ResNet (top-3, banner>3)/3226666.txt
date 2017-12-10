@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.1406891, u'comic_book', 0.11657131, u'pop_bottle', 0.066908471]
+[u'miniskirt', 0.24725808, u"potter's_wheel", 0.048217721, u'iron', 0.02773352]
+[u'beaker', 0.21010166, u'stopwatch', 0.17936823, u'shower_curtain', 0.097994603]
+[u'hair_spray', 0.097445466, u'hen-of-the-woods', 0.060728002, u'gyromitra', 0.05919211]

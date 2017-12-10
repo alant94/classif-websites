@@ -1,0 +1,3 @@
+[u'web_site', 0.95031518, u'revolver', 0.0046690265, u'envelope', 0.0041337023, u'menu', 0.0033206888, u'oscilloscope', 0.0019372343]
+[u'web_site', 0.81454182, u'book_jacket', 0.016350953, u'menu', 0.014907334, u'brass', 0.011208536, u'window_shade', 0.0089191785]
+[u'sunscreen', 0.045567811, u'tennis_ball', 0.026896203, u'hair_spray', 0.026610348, u'web_site', 0.02264207, u'digital_clock', 0.021493591]

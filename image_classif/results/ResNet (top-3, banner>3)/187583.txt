@@ -1,0 +1,8 @@
+[u'library', 0.52028859, u'bookshop', 0.24661098, u'bookcase', 0.15833077]
+[u'web_site', 0.97862488, u'menu', 0.0039001121, u'envelope', 0.0035609067]
+[u'maypole', 0.2063767, u'butcher_shop', 0.12590638, u'pirate', 0.1032264]
+[u'muzzle', 0.098518804, u'Great_Dane', 0.087031059, u'ibex', 0.075404122]
+[u'web_site', 0.99137962, u'menu', 0.0064955894, u'envelope', 0.00032371015]
+[u'Band_Aid', 0.32842496, u'scoreboard', 0.060220864, u'safety_pin', 0.026165148]
+[u'projectile', 0.18466996, u'missile', 0.12169767, u'flagpole', 0.093855299]
+[u'envelope', 0.56549597, u'web_site', 0.077191554, u'iron', 0.0092776837]

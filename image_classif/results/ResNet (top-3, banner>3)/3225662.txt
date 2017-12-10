@@ -1,0 +1,6 @@
+[u'refrigerator', 0.20014358, u'dishwasher', 0.12817834, u'envelope', 0.087734744]
+[u'dishwasher', 0.49906507, u'screen', 0.054105081, u'refrigerator', 0.051720642]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'web_site', 0.9980641, u'comic_book', 0.00041697157, u'isopod', 0.00016758063]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078]
+[u'street_sign', 0.74750453, u'traffic_light', 0.10225544, u'ashcan', 0.017242355]

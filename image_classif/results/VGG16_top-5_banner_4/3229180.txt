@@ -1,0 +1,8 @@
+[u'digital_clock', 0.11016545, u'carton', 0.083070405, u'picket_fence', 0.067010611, u'envelope', 0.065575562, u'street_sign', 0.056423537]
+[u'pier', 0.48266324, u'suspension_bridge', 0.39338151, u'container_ship', 0.0398302, u'chainlink_fence', 0.014763256, u'schooner', 0.00788303]
+[u'barometer', 0.43494099, u'magnetic_compass', 0.43185681, u'analog_clock', 0.035236184, u'wall_clock', 0.023219505, u'sundial', 0.013792004]
+[u'envelope', 0.10132828, u'Windsor_tie', 0.05090443, u'digital_clock', 0.05038042, u'Band_Aid', 0.034979917, u'jigsaw_puzzle', 0.030364119]
+[u'castle', 0.43607876, u'palace', 0.29822651, u'seashore', 0.030660722, u'lakeside', 0.019742148, u'mosque', 0.019348212]
+[u'web_site', 0.10942848, u'book_jacket', 0.066694535, u'black_grouse', 0.030526089, u'television', 0.027019363, u'EntleBucher', 0.023692464]
+[u'digital_clock', 0.2604492, u'analog_clock', 0.037028026, u'digital_watch', 0.036507763, u'spotlight', 0.029512689, u'screen', 0.026396083]
+[u'can_opener', 0.49709669, u'corkscrew', 0.30722797, u'spatula', 0.03506434, u'cleaver', 0.030127889, u"carpenter's_kit", 0.026194466]

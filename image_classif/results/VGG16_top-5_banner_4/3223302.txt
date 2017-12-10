@@ -1,0 +1,2 @@
+[u'web_site', 0.79257178, u'stopwatch', 0.046212737, u'can_opener', 0.010725115, u'nematode', 0.0054332521, u'neck_brace', 0.0044100345]
+[u'mobile_home', 0.049302068, u'water_tower', 0.040646113, u'Model_T', 0.04013709, u'picket_fence', 0.036521826, u'street_sign', 0.036206245]

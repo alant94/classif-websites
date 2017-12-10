@@ -1,0 +1,3 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335]
+[u'sunglasses', 0.20912355, u'park_bench', 0.18565054, u'sarong', 0.060898688]
+[u'digital_clock', 0.54456377, u'digital_watch', 0.091274843, u'prayer_rug', 0.062417369]

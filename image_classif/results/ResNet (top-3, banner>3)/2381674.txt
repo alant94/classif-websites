@@ -1,0 +1,4 @@
+[u'restaurant', 0.29114696, u'red_wine', 0.26090133, u'wine_bottle', 0.141287]
+[u'wine_bottle', 0.98501343, u'pop_bottle', 0.01094607, u'red_wine', 0.0022125517]
+[u'maze', 0.44616017, u'lakeside', 0.047050864, u'chainlink_fence', 0.029941551]
+[u'worm_fence', 0.079555146, u'lakeside', 0.075756162, u'pole', 0.069817774]

@@ -1,0 +1,6 @@
+[u'tray', 0.093608573, u'screen', 0.060468473, u'iPod', 0.057196625, u'cash_machine', 0.039883569, u'monitor', 0.03752853]
+[u'switch', 0.21294624, u"carpenter's_kit", 0.1152038, u'oscilloscope', 0.069373325, u'espresso_maker', 0.050887268, u'web_site', 0.033654626]
+[u'studio_couch', 0.089543387, u'web_site', 0.046091471, u'quilt', 0.044089049, u'pajama', 0.0397541, u'sleeping_bag', 0.03765665]
+[u'iPod', 0.32653576, u'laptop', 0.21409428, u'tray', 0.1841069, u'digital_clock', 0.069015995, u'street_sign', 0.049383756]
+[u'switch', 0.15349397, u'buckle', 0.12699069, u'analog_clock', 0.065587945, u'tray', 0.056116398, u'lighter', 0.051829319]
+[u'gown', 0.32514811, u'overskirt', 0.26341441, u'hoopskirt', 0.24219638, u'pajama', 0.077350326, u'groom', 0.016494455]

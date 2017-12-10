@@ -1,0 +1,3 @@
+[u'standard_schnauzer', 0.4353776, u'Bouvier_des_Flandres', 0.31648126, u'Lakeland_terrier', 0.049828794]
+[u'jersey', 0.32582286, u'book_jacket', 0.27838823, u'binder', 0.039122146]
+[u'bannister', 0.4037551, u'racket', 0.14467543, u'pole', 0.07895463]

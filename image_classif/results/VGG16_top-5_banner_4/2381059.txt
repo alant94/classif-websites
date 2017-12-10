@@ -1,0 +1,1 @@
+[u'china_cabinet', 0.53618008, u'bookcase', 0.12408824, u'entertainment_center', 0.084914438, u'wardrobe', 0.053690076, u'desk', 0.037752062]

@@ -1,0 +1,1 @@
+[u'prayer_rug', 0.14964572, u'maze', 0.12534086, u'worm_fence', 0.038374733, u'abacus', 0.036403101, u'doormat', 0.027306166]

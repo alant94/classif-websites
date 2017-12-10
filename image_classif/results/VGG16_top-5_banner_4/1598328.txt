@@ -1,0 +1,2 @@
+[u'military_uniform', 0.66985554, u'assault_rifle', 0.064122379, u'moped', 0.036622327, u'motor_scooter', 0.033293433, u'half_track', 0.025009399]
+[u'swimming_trunks', 0.81920761, u'bathing_cap', 0.05241406, u'tub', 0.018385226, u'vizsla', 0.014282901, u'shower_cap', 0.0079472521]

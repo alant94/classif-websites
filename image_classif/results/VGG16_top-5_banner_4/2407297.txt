@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.36195862, u'envelope', 0.25784326, u'jersey', 0.19717276, u'bib', 0.12987076, u'whistle', 0.0067470227]
+[u'book_jacket', 0.099517919, u'jersey', 0.057335272, u'packet', 0.027616924, u'pick', 0.026635589, u'sunscreen', 0.02578094]

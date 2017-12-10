@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16271184, u'church', 0.11942345, u'cash_machine', 0.11131177]
+[u'mouse', 0.2530565, u'television', 0.17073984, u'crash_helmet', 0.15526113]

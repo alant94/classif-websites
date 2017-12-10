@@ -1,0 +1,6 @@
+[u'envelope', 0.63934541, u'web_site', 0.11112595, u'comic_book', 0.051077388]
+[u'stage', 0.61173052, u'electric_guitar', 0.2236878, u'acoustic_guitar', 0.064092331]
+[u'stage', 0.63969505, u'electric_guitar', 0.21721295, u'acoustic_guitar', 0.04657932]
+[u'red_fox', 0.54568958, u'Pembroke', 0.12961659, u'grey_fox', 0.070255645]
+[u'miniskirt', 0.66174293, u'wig', 0.074478745, u'brassiere', 0.068625927]
+[u'maze', 0.53378576, u'ocarina', 0.12833199, u'microphone', 0.068851911]

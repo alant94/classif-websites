@@ -1,0 +1,6 @@
+[u'lakeside', 0.76089513, u'brass', 0.07730452, u'breakwater', 0.027576685]
+[u'lawn_mower', 0.10001029, u'spider_web', 0.086446553, u'mountain_bike', 0.044218905]
+[u'geyser', 0.6406275, u'alp', 0.091030471, u'seashore', 0.083047494]
+[u'American_egret', 0.14267763, u'pelican', 0.068074927, u'book_jacket', 0.066656582]
+[u'coral_reef', 0.10522784, u'scuba_diver', 0.046992678, u'wreck', 0.034889054]
+[u'albatross', 0.26290742, u'bald_eagle', 0.22048317, u'vulture', 0.13842863]

@@ -1,0 +1,3 @@
+[u'bannister', 0.21965897, u'shoji', 0.16790022, u'window_shade', 0.16333184]
+[u'book_jacket', 0.82509458, u'web_site', 0.027203009, u'Crock_Pot', 0.019456379]
+[u'television', 0.3906444, u'digital_clock', 0.19091415, u'screen', 0.15273044]

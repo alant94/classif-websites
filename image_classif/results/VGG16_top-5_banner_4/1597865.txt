@@ -1,0 +1,5 @@
+[u'swimming_trunks', 0.38984179, u'bikini', 0.28208727, u'brassiere', 0.053449117, u'bathing_cap', 0.032692082, u'tub', 0.027010726]
+[u'diaper', 0.096307427, u'quilt', 0.059057936, u'cocker_spaniel', 0.041842654, u'studio_couch', 0.04121495, u'Weimaraner', 0.041130763]
+[u'groom', 0.074856527, u'brassiere', 0.052857496, u'shower_cap', 0.045918461, u'bikini', 0.045528129, u'gown', 0.031535994]
+[u'miniskirt', 0.40537453, u'maillot', 0.10283193, u'bikini', 0.10085172, u'swimming_trunks', 0.062871166, u'brassiere', 0.051888134]
+[u'vacuum', 0.04769155, u'hair_spray', 0.035879321, u'hand_blower', 0.031723127, u'maillot', 0.030073721, u'gown', 0.029753868]

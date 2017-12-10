@@ -1,0 +1,2 @@
+[u'street_sign', 0.12619965, u'scoreboard', 0.072985522, u'remote_control', 0.066920973, u'pay-phone', 0.036383055, u'puck', 0.027691284]
+[u'chime', 0.79224855, u'picket_fence', 0.050893687, u'rocking_chair', 0.013860255, u'binder', 0.013733179, u'croquet_ball', 0.013671762]

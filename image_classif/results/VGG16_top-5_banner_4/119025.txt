@@ -1,0 +1,6 @@
+[u'television', 0.14148237, u'screen', 0.11890593, u'monitor', 0.09799394, u'comic_book', 0.059656832, u'space_shuttle', 0.053754166]
+[u'slot', 0.5180074, u'cinema', 0.30369022, u'home_theater', 0.062593982, u'restaurant', 0.021145919, u'screen', 0.01011301]
+[u'comic_book', 0.82850581, u'jigsaw_puzzle', 0.083730556, u'book_jacket', 0.04192799, u'carousel', 0.0040878686, u'totem_pole', 0.0039592441]
+[u'barbershop', 0.29498816, u'water_bottle', 0.15005334, u'beer_bottle', 0.082999967, u'pop_bottle', 0.063342199, u'slot', 0.057441097]
+[u'mousetrap', 0.14325888, u'abacus', 0.08845026, u'tray', 0.075309984, u'menu', 0.072532699, u'perfume', 0.054960936]
+[u'lumbermill', 0.26758552, u'cannon', 0.18460432, u'plow', 0.15975761, u'tractor', 0.048730243, u'barrow', 0.032727297]

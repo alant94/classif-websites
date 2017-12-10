@@ -1,0 +1,4 @@
+[u'comic_book', 0.2919763, u'web_site', 0.24836169, u'book_jacket', 0.086586356, u'hand-held_computer', 0.016317077, u'analog_clock', 0.013651161]
+[u'crane', 0.17866896, u'drilling_platform', 0.17207286, u'radio_telescope', 0.11834923, u'solar_dish', 0.078457095, u'pirate', 0.06261418]
+[u'bell_cote', 0.50524932, u'crane', 0.10257932, u'pedestal', 0.054058392, u'church', 0.047870703, u'pier', 0.042949017]
+[u'crane', 0.30092141, u'drilling_platform', 0.22726397, u'radio_telescope', 0.12994264, u'pole', 0.072861679, u'solar_dish', 0.050739292]

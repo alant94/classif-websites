@@ -1,0 +1,7 @@
+[u'iron', 0.38111216, u'running_shoe', 0.05203148, u'mailbox', 0.038387038, u'ski', 0.037512556, u'hook', 0.036806647]
+[u'carousel', 0.43141755, u'gong', 0.29593545, u'toyshop', 0.1426324, u'chime', 0.028510757, u'drum', 0.02667298]
+[u'menu', 0.07332775, u'crossword_puzzle', 0.051257409, u'web_site', 0.030393131, u'hard_disc', 0.018354973, u'brass', 0.018037215]
+[u'bookcase', 0.58792382, u'library', 0.21215153, u'bookshop', 0.087214731, u'container_ship', 0.038703963, u'cassette', 0.024789203]
+[u'slot', 0.36784679, u'vending_machine', 0.15435049, u'binder', 0.092890203, u'cassette', 0.073967189, u'comic_book', 0.059511326]
+[u'coffee_mug', 0.13293734, u'pick', 0.068197928, u'beer_bottle', 0.062815249, u'lighter', 0.050001606, u'bottlecap', 0.041534506]
+[u'pay-phone', 0.91782647, u'dial_telephone', 0.032853272, u'slot', 0.0054409606, u'vending_machine', 0.0033058582, u'cellular_telephone', 0.0025502862]

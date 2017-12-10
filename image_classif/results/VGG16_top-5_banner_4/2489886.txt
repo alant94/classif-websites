@@ -1,0 +1,1 @@
+[u'wing', 0.67810059, u'airliner', 0.14911982, u'warplane', 0.066614807, u'ambulance', 0.035221774, u'aircraft_carrier', 0.027283497]

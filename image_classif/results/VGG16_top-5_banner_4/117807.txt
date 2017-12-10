@@ -1,0 +1,2 @@
+[u'book_jacket', 0.25359958, u'cash_machine', 0.11582406, u'packet', 0.057004809, u'cellular_telephone', 0.049690947, u'doormat', 0.032913227]
+[u'cassette', 0.25047976, u'switch', 0.17872511, u'modem', 0.10590668, u'hard_disc', 0.05091295, u'lighter', 0.049263205]

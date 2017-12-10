@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.44971409, u'diaper', 0.27026355, u'bathtub', 0.050547261]
+[u'bathtub', 0.24200562, u'perfume', 0.092066944, u'shower_cap', 0.074639902]
+[u'hog', 0.65385169, u'ox', 0.066995859, u'Great_Pyrenees', 0.053138275]

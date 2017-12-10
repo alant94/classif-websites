@@ -1,0 +1,6 @@
+[u'wall_clock', 0.077402458, u'Windsor_tie', 0.069043607, u'wool', 0.06201528, u'jigsaw_puzzle', 0.056566235, u'digital_clock', 0.045420486]
+[u'theater_curtain', 0.17246436, u'academic_gown', 0.14418761, u'bow_tie', 0.11561386, u'military_uniform', 0.11161438, u'suit', 0.047805745]
+[u'jigsaw_puzzle', 0.24910586, u'maze', 0.067188412, u'digital_clock', 0.059547011, u'prayer_rug', 0.037507992, u'container_ship', 0.032312624]
+[u'jigsaw_puzzle', 0.1660455, u'pencil_sharpener', 0.1094051, u'bell_cote', 0.049994048, u'stupa', 0.034242835, u'necklace', 0.032541752]
+[u'puck', 0.25334436, u'buckle', 0.13784489, u'tray', 0.080559902, u'analog_clock', 0.072045691, u'coffee_mug', 0.028991913]
+[u'jigsaw_puzzle', 0.60331732, u'maze', 0.15326373, u'digital_clock', 0.030108368, u'picket_fence', 0.021646738, u'whistle', 0.013038037]

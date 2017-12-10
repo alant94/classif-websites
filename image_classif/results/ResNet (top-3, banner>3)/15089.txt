@@ -1,0 +1,5 @@
+[u'whistle', 0.36311746, u'lighter', 0.19108976, u'beaker', 0.096508503]
+[u'oxygen_mask', 0.091772079, u'toilet_seat', 0.065364189, u'pill_bottle', 0.050772473]
+[u'screen', 0.17822069, u'monitor', 0.17023982, u'laptop', 0.14103259]
+[u'starfish', 0.63266587, u'hook', 0.033523142, u'plunger', 0.02868115]
+[u'nail', 0.099430315, u'web_site', 0.081935644, u'hook', 0.048688762]

@@ -1,0 +1,1 @@
+[u'church', 0.51286334, u'obelisk', 0.064710036, u'monastery', 0.061593652, u'sundial', 0.052790716, u'beacon', 0.051166326]

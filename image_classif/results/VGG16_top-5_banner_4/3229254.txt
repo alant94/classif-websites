@@ -1,0 +1,6 @@
+[u'wall_clock', 0.56668609, u'analog_clock', 0.23483771, u'shield', 0.013191223, u'rule', 0.011143646, u'buckle', 0.01016283]
+[u'digital_clock', 0.3107225, u'remote_control', 0.099532947, u'stopwatch', 0.084785581, u'cellular_telephone', 0.080524415, u'CD_player', 0.063578486]
+[u'crane', 0.13462956, u'solar_dish', 0.11404482, u'sundial', 0.098358542, u'bell_cote', 0.065102659, u'missile', 0.040757112]
+[u'crate', 0.41916651, u'lumbermill', 0.073041491, u'prison', 0.069334373, u'forklift', 0.029407354, u'brass', 0.02674593]
+[u'envelope', 0.1054332, u'bath_towel', 0.04484814, u'paper_towel', 0.038357355, u'hook', 0.035869498, u'studio_couch', 0.03580673]
+[u'whistle', 0.29143861, u'Band_Aid', 0.11129537, u'buckle', 0.1037287, u'sandal', 0.093467407, u'clog', 0.071971059]

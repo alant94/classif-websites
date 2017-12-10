@@ -1,0 +1,1 @@
+[u'restaurant', 0.211082, u'cinema', 0.15148993, u'library', 0.10032051, u'marimba', 0.070879184, u'bell_cote', 0.02376223]

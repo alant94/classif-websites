@@ -1,0 +1,2 @@
+[u'web_site', 0.63707197, u'comic_book', 0.086511858, u'envelope', 0.078117013]
+[u'dumbbell', 0.38944304, u'pencil_sharpener', 0.094119653, u'toilet_tissue', 0.053531446]

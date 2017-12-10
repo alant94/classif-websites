@@ -1,0 +1,6 @@
+[u'sunscreen', 0.18225968, u'hand_blower', 0.1787798, u'hair_spray', 0.1321099]
+[u'diaper', 0.81959099, u'oxygen_mask', 0.018651979, u'plunger', 0.011406066]
+[u'hoopskirt', 0.26847696, u'brassiere', 0.11832667, u'proboscis_monkey', 0.096018799]
+[u'maillot', 0.22910771, u'brassiere', 0.21139246, u'maillot', 0.20119357]
+[u'bikini', 0.35984534, u'brassiere', 0.27849314, u'maillot', 0.058580339]
+[u'Band_Aid', 0.40400869, u'can_opener', 0.25404173, u'beaker', 0.046962176]

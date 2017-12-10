@@ -1,0 +1,5 @@
+[u'web_site', 0.92578894, u'comic_book', 0.02914726, u'book_jacket', 0.0079634953]
+[u'web_site', 0.49930978, u'envelope', 0.034054156, u'notebook', 0.022527836]
+[u'sewing_machine', 0.95461756, u'binder', 0.0092088599, u'corkscrew', 0.0065417276]
+[u'analog_clock', 0.31928533, u'nematode', 0.27529052, u'stopwatch', 0.06200739]
+[u'nematode', 0.21024017, u'web_site', 0.18596898, u'hook', 0.073846653]

@@ -1,0 +1,8 @@
+[u'wig', 0.70026869, u'hair_spray', 0.056586556, u'bikini', 0.05002173]
+[u'slot', 0.45556152, u'toyshop', 0.21084236, u'pretzel', 0.16330217]
+[u'balloon', 0.18462412, u'toyshop', 0.12127765, u'volleyball', 0.11777287]
+[u'king_snake', 0.45861721, u'rock_python', 0.20376223, u'boa_constrictor', 0.1596439]
+[u'rock_python', 0.14924672, u'miniature_pinscher', 0.060980178, u'projectile', 0.047263529]
+[u'web_site', 0.38344547, u'envelope', 0.33836138, u'analog_clock', 0.027523501]
+[u'toyshop', 0.21126528, u'tow_truck', 0.043442786, u'breastplate', 0.041270565]
+[u'Welsh_springer_spaniel', 0.58060479, u'proboscis_monkey', 0.081863366, u'Brittany_spaniel', 0.070796922]

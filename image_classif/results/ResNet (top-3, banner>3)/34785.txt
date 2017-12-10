@@ -1,0 +1,2 @@
+[u'harmonica', 0.75644839, u'tobacco_shop', 0.012661005, u'ocarina', 0.0124996]
+[u'cowboy_hat', 0.83476347, u'sombrero', 0.038814127, u'cloak', 0.010898639]

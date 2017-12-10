@@ -1,0 +1,2 @@
+[u'agama', 0.10669282, u'great_grey_owl', 0.078285739, u'baboon', 0.073336944, u'fox_squirrel', 0.064104982, u'common_iguana', 0.057899721]
+[u'book_jacket', 0.34783456, u'comic_book', 0.16145794, u'web_site', 0.03032513, u'proboscis_monkey', 0.028714955, u'street_sign', 0.024782475]

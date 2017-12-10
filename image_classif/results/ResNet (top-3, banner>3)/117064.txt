@@ -1,0 +1,2 @@
+[u'refrigerator', 0.11603325, u'shower_curtain', 0.10013305, u'binder', 0.095312774]
+[u'spatula', 0.31666997, u'cleaver', 0.30506232, u'shovel', 0.121891]

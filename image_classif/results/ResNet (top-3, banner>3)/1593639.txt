@@ -1,0 +1,4 @@
+[u'traffic_light', 0.50098288, u'lighter', 0.1058837, u'street_sign', 0.084421381]
+[u'scoreboard', 0.64555407, u'balance_beam', 0.11768314, u'racer', 0.022954453]
+[u'fire_screen', 0.18508109, u'badger', 0.15984091, u'German_shepherd', 0.10043615]
+[u'paper_towel', 0.54851967, u'toilet_tissue', 0.30621102, u'diaper', 0.06389156]

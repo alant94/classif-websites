@@ -1,0 +1,5 @@
+[u'television', 0.21035618, u'web_site', 0.10687272, u'book_jacket', 0.096966237, u'barbershop', 0.053050634, u'cassette', 0.045319203]
+[u'plate_rack', 0.86939931, u'slide_rule', 0.031501204, u'web_site', 0.021780808, u'oscilloscope', 0.018861586, u'dishwasher', 0.015660863]
+[u'hook', 0.14569892, u'ski', 0.042482927, u'parallel_bars', 0.038450155, u'wardrobe', 0.038291615, u'horizontal_bar', 0.032023013]
+[u'monitor', 0.10671566, u'space_shuttle', 0.063867353, u'screen', 0.05661786, u'picket_fence', 0.049858391, u'airship', 0.041479927]
+[u'web_site', 0.98937607, u'screen', 0.0029259373, u'monitor', 0.0018265331, u'oscilloscope', 0.00086718582, u'hand-held_computer', 0.00078572857]

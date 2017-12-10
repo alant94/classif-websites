@@ -1,0 +1,2 @@
+[u'web_site', 0.80742556, u'menu', 0.05286666, u'hard_disc', 0.019144999, u'loupe', 0.013327903, u'hand-held_computer', 0.0091084382]
+[u'lakeside', 0.18369009, u'triumphal_arch', 0.086138278, u'sundial', 0.061108895, u'palace', 0.058140986, u'obelisk', 0.051853199]

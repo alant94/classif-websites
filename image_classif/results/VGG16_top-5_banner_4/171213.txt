@@ -1,0 +1,4 @@
+[u'switch', 0.11268601, u'lighter', 0.09601856, u'digital_clock', 0.095637836, u'tray', 0.069961727, u'scale', 0.066684395]
+[u'chambered_nautilus', 0.22449398, u'mushroom', 0.19092372, u'coil', 0.12395359, u'ringneck_snake', 0.11601321, u'snail', 0.048726305]
+[u'cellular_telephone', 0.15832365, u'switch', 0.14549489, u'hand-held_computer', 0.12328764, u'tray', 0.11991356, u'lighter', 0.083753318]
+[u'book_jacket', 0.15952051, u'bakery', 0.046943445, u'china_cabinet', 0.046871066, u'throne', 0.046648316, u'tobacco_shop', 0.045925193]

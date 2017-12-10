@@ -1,0 +1,4 @@
+[u'can_opener', 0.20826629, u'corkscrew', 0.11396759, u'safety_pin', 0.056957446, u'screwdriver', 0.051522419, u'hook', 0.045418121]
+[u'puck', 0.66141421, u'bolo_tie', 0.097943045, u'gong', 0.079116799, u'shield', 0.032924786, u'chime', 0.031581551]
+[u'book_jacket', 0.66653532, u'barbershop', 0.074289441, u'prison', 0.063875534, u'bookshop', 0.061525766, u'tobacco_shop', 0.045686241]
+[u'hook', 0.077674329, u'whistle', 0.031948756, u'binder', 0.029073145, u'web_site', 0.021944504, u"carpenter's_kit", 0.02131548]

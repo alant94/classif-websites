@@ -1,0 +1,3 @@
+[u'web_site', 0.14208835, u'dishwasher', 0.072323874, u'envelope', 0.062876292]
+[u'web_site', 0.2463187, u'book_jacket', 0.07650315, u'oscilloscope', 0.044626527]
+[u'black-footed_ferret', 0.79702783, u'polecat', 0.18623374, u'weasel', 0.011909784]

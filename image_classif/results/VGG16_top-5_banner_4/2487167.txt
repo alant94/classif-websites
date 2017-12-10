@@ -1,0 +1,2 @@
+[u'broom', 0.43293685, u'paintbrush', 0.28166634, u'hamper', 0.04932522, u'pencil_sharpener', 0.034708105, u'panpipe', 0.025550937]
+[u'weevil', 0.31191078, u'American_alligator', 0.21200357, u'armadillo', 0.12611255, u'African_crocodile', 0.053580612, u'rhinoceros_beetle', 0.03710971]

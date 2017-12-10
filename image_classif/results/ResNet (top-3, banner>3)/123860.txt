@@ -1,0 +1,5 @@
+[u'container_ship', 0.67317128, u'picket_fence', 0.070826054, u'organ', 0.026663849]
+[u'bow', 0.114396, u'lighter', 0.086524807, u'container_ship', 0.069370851]
+[u'stage', 0.27320001, u'maraca', 0.13317625, u'rock_beauty', 0.085232027]
+[u'medicine_chest', 0.21122891, u'container_ship', 0.12304939, u'altar', 0.086433955]
+[u'container_ship', 0.98676842, u'ambulance', 0.0027927496, u'balloon', 0.0011226459]

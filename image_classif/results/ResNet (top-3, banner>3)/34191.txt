@@ -1,0 +1,1 @@
+[u'toilet_seat', 0.36889246, u'toilet_tissue', 0.13800986, u'paper_towel', 0.089492671]

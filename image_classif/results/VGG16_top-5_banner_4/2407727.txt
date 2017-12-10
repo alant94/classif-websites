@@ -1,0 +1,2 @@
+[u'panpipe', 0.18067449, u'envelope', 0.078985356, u'coil', 0.074534766, u'bannister', 0.050843108, u'wall_clock', 0.033159483]
+[u'panpipe', 0.23357908, u'coil', 0.044358335, u'envelope', 0.037841473, u'parachute', 0.037418675, u'stupa', 0.033460081]

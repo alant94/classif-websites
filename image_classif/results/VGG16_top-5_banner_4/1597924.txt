@@ -1,0 +1,1 @@
+[u'trailer_truck', 0.083976224, u'limousine', 0.08139018, u'planetarium', 0.078993537, u'recreational_vehicle', 0.060592212, u'space_shuttle', 0.051347055]

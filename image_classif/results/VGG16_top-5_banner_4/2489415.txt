@@ -1,0 +1,1 @@
+[u'warthog', 0.30390856, u'ibex', 0.30125839, u'ox', 0.11898177, u'water_buffalo', 0.1020255, u'wild_boar', 0.079405725]

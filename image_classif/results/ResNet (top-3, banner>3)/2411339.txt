@@ -1,0 +1,8 @@
+[u'beer_glass', 0.41802782, u'digital_clock', 0.3387666, u'vase', 0.047398333]
+[u'stretcher', 0.29579285, u'bannister', 0.24761601, u'radio_telescope', 0.058915008]
+[u'walking_stick', 0.37892178, u'greenhouse', 0.21395671, u'mantis', 0.12518141]
+[u'suspension_bridge', 0.57720733, u'pier', 0.074922085, u'chainlink_fence', 0.06714794]
+[u'bannister', 0.35234609, u'hook', 0.1564742, u'shopping_cart', 0.053925071]
+[u'bannister', 0.1192433, u'chainlink_fence', 0.088376015, u'solar_dish', 0.083932959]
+[u'oxygen_mask', 0.91379005, u'combination_lock', 0.07631962, u'hook', 0.003444405]
+[u'web_site', 0.047733571, u'envelope', 0.038535941, u'medicine_chest', 0.038062237]

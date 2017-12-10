@@ -1,0 +1,2 @@
+[u'scoreboard', 0.34573856, u'analog_clock', 0.081660897, u'cinema', 0.043490265, u'electric_guitar', 0.032095533, u'digital_clock', 0.031842668]
+[u'electric_guitar', 0.28846383, u'microphone', 0.064158753, u'stage', 0.037849374, u'acoustic_guitar', 0.031651653, u'bow', 0.031153185]

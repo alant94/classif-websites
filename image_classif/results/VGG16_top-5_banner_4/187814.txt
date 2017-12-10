@@ -1,0 +1,6 @@
+[u'mortarboard', 0.11779825, u'lorikeet', 0.038329136, u'bow_tie', 0.03043027, u'pinwheel', 0.025741322, u'ice_lolly', 0.023366233]
+[u'book_jacket', 0.53610593, u'comic_book', 0.15154549, u'packet', 0.095599152, u'lighter', 0.012634971, u'Band_Aid', 0.0087736081]
+[u'bow_tie', 0.18315434, u'wig', 0.11089963, u'Windsor_tie', 0.046900883, u'bassoon', 0.042944551, u'tobacco_shop', 0.038060319]
+[u'web_site', 0.41220331, u'packet', 0.10051535, u'book_jacket', 0.034064129, u'comic_book', 0.03406252, u'corn', 0.033526357]
+[u'book_jacket', 0.5119049, u'comic_book', 0.12499592, u'barbershop', 0.032810971, u'cinema', 0.027850743, u'theater_curtain', 0.020245669]
+[u'book_jacket', 0.72023058, u'menu', 0.060836636, u'packet', 0.02581292, u'whiskey_jug', 0.01569983, u'brass', 0.011822857]

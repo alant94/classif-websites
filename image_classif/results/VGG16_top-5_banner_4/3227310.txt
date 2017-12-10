@@ -1,0 +1,1 @@
+[u'analog_clock', 0.1759129, u'loudspeaker', 0.10591719, u'wall_clock', 0.10247824, u'shield', 0.099746309, u'book_jacket', 0.034748491]

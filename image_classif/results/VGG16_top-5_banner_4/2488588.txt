@@ -1,0 +1,3 @@
+[u'bottlecap', 0.23097923, u'puck', 0.13161597, u'pick', 0.09065675, u'beer_glass', 0.033379328, u'balloon', 0.029416787]
+[u'jigsaw_puzzle', 0.9445554, u'swimming_trunks', 0.014997228, u'bow_tie', 0.0055284062, u'cuirass', 0.0028551717, u'pencil_sharpener', 0.0022724825]
+[u'picket_fence', 0.61517388, u'web_site', 0.11411469, u'monitor', 0.026033983, u'medicine_chest', 0.025950309, u'plate_rack', 0.022089969]

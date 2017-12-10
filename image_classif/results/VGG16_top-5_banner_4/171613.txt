@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.27024511, u'Windsor_tie', 0.20307243, u'digital_clock', 0.092516772, u'envelope', 0.025279703, u'prayer_rug', 0.019983059]

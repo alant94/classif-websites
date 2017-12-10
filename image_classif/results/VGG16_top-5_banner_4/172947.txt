@@ -1,0 +1,2 @@
+[u'comic_book', 0.13888711, u'balloon', 0.10576075, u'scoreboard', 0.083080083, u'street_sign', 0.055057518, u'web_site', 0.052252468]
+[u'digital_clock', 0.15040463, u'Band_Aid', 0.13254808, u'traffic_light', 0.058703981, u'street_sign', 0.05748817, u'wall_clock', 0.051115043]

@@ -1,0 +1,2 @@
+[u'envelope', 0.19887277, u'packet', 0.14625342, u'screen', 0.12674682, u'web_site', 0.07448674, u'monitor', 0.07096345]
+[u'shield', 0.13317204, u'maze', 0.057099547, u'buckle', 0.049193159, u'street_sign', 0.045064408, u'slot', 0.031399]

@@ -1,0 +1,3 @@
+[u'digital_clock', 0.72715747, u'prayer_rug', 0.034737337, u'tray', 0.025734143]
+[u'street_sign', 0.89812136, u'traffic_light', 0.017727949, u'toilet_tissue', 0.0071073771]
+[u'remote_control', 0.15385337, u'stopwatch', 0.12236769, u'web_site', 0.10582701]

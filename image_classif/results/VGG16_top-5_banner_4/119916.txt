@@ -1,0 +1,2 @@
+[u'comic_book', 0.66886067, u'jigsaw_puzzle', 0.28722411, u'packet', 0.014053447, u'book_jacket', 0.0089489101, u'toyshop', 0.0050767758]
+[u'maze', 0.72809213, u'digital_clock', 0.056690652, u'jigsaw_puzzle', 0.027855949, u'wall_clock', 0.02547656, u'analog_clock', 0.022086322]

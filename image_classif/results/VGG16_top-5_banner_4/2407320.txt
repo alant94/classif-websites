@@ -1,0 +1,5 @@
+[u'shield', 0.72149462, u'bolo_tie', 0.1061397, u'pick', 0.049728747, u'hair_slide', 0.042903829, u'buckle', 0.02707245]
+[u'shield', 0.35711479, u'pick', 0.15583019, u'gong', 0.11417548, u'chiton', 0.10408781, u'spotlight', 0.074392036]
+[u'shield', 0.71281284, u'waffle_iron', 0.22118163, u'manhole_cover', 0.03394616, u'buckle', 0.0082866848, u'bolo_tie', 0.0064460984]
+[u'shield', 0.97732359, u'bolo_tie', 0.0093620969, u'gong', 0.0050963592, u'brass', 0.0020981224, u'waffle_iron', 0.0011546273]
+[u'bolo_tie', 0.57862347, u'shield', 0.30304188, u'buckle', 0.076306179, u'chiton', 0.012217293, u'pick', 0.0050576841]

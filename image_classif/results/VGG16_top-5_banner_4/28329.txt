@@ -1,0 +1,1 @@
+[u'Arabian_camel', 0.42991382, u'spider_monkey', 0.044974156, u'garden_spider', 0.036723483, u'barn_spider', 0.029241903, u'African_hunting_dog', 0.024652077]

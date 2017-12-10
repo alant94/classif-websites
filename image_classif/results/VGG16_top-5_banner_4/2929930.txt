@@ -1,0 +1,3 @@
+[u'wig', 0.10973295, u'shower_cap', 0.080335453, u'syringe', 0.034692209, u'bow_tie', 0.033564735, u'neck_brace', 0.033151872]
+[u'suit', 0.48533985, u'Windsor_tie', 0.31703791, u'bow_tie', 0.12462907, u'oboe', 0.047243353, u'bolo_tie', 0.0065711644]
+[u'wig', 0.47337487, u'shower_cap', 0.10150615, u'fur_coat', 0.04918601, u'neck_brace', 0.047286838, u'cloak', 0.031672128]

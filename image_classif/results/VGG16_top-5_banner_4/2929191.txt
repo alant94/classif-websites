@@ -1,0 +1,3 @@
+[u'street_sign', 0.87759972, u'traffic_light', 0.026923299, u'digital_clock', 0.019209109, u'airship', 0.012522921, u'analog_clock', 0.0054741362]
+[u'screwdriver', 0.16167475, u"carpenter's_kit", 0.11068919, u'hand_blower', 0.084494196, u'cleaver', 0.064020395, u'hammer', 0.050831921]
+[u'ski', 0.036291335, u'street_sign', 0.026093105, u'envelope', 0.023193991, u'swab', 0.021505289, u'hook', 0.019313393]
