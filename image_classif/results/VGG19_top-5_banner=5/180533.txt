@@ -1,0 +1,6 @@
+[u'book_jacket', 0.13149953, u'jersey', 0.081373915, u'coffee_mug', 0.080730334, u'sunscreen', 0.058080211, u'lotion', 0.036178395]
+[u'pool_table', 0.3553918, u'maraca', 0.043581173, u'miniskirt', 0.041302081, u'volleyball', 0.014679547, u'dumbbell', 0.012291468]
+[u'home_theater', 0.37655079, u'television', 0.13943307, u'cinema', 0.034785174, u'cash_machine', 0.034029286, u'lumbermill', 0.032982033]
+[u'hair_spray', 0.3160679, u'plunger', 0.047870897, u'wig', 0.044763047, u'balance_beam', 0.035393316, u'racket', 0.026112944]
+[u'scoreboard', 0.10213359, u'hair_spray', 0.06587524, u'web_site', 0.062176861, u'Afghan_hound', 0.056460626, u'cellular_telephone', 0.046409089]
+[u'groom', 0.22960854, u'suit', 0.062010709, u'vestment', 0.052368667, u'kimono', 0.046823408, u'gown', 0.034100611]

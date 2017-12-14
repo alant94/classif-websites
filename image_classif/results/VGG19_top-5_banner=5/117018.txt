@@ -1,0 +1,4 @@
+[u'web_site', 0.20970044, u'digital_clock', 0.18848461, u'envelope', 0.14096369, u'matchstick', 0.065303899, u'Band_Aid', 0.031638496]
+[u'web_site', 0.19034325, u'nematode', 0.05427561, u'bubble', 0.02535215, u'envelope', 0.024777317, u'matchstick', 0.016121443]
+[u'jigsaw_puzzle', 0.46813011, u'scoreboard', 0.31775111, u'digital_clock', 0.021267602, u'maze', 0.019988993, u'monitor', 0.018746555]
+[u'bookcase', 0.20404774, u'library', 0.1627813, u'entertainment_center', 0.071609497, u'file', 0.066104122, u'scoreboard', 0.043490555]

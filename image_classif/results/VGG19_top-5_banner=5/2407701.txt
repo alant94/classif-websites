@@ -1,0 +1,5 @@
+[u'pill_bottle', 0.26315176, u'lotion', 0.19625935, u'face_powder', 0.087727584, u'Crock_Pot', 0.08015617, u'sunscreen', 0.052029543]
+[u'pill_bottle', 0.8824147, u'beer_bottle', 0.018238237, u'water_bottle', 0.012706541, u'chocolate_sauce', 0.009457822, u'milk_can', 0.0094515281]
+[u'pill_bottle', 0.88502932, u'soap_dispenser', 0.028248699, u'water_bottle', 0.020309202, u'lotion', 0.017308775, u'milk_can', 0.0080815023]
+[u'cocktail_shaker', 0.19344965, u'pill_bottle', 0.18726838, u'water_bottle', 0.16086785, u'soap_dispenser', 0.048920613, u'water_jug', 0.03618307]
+[u'pill_bottle', 0.15619057, u'whiskey_jug', 0.12279852, u'lotion', 0.099936225, u'milk_can', 0.090899602, u'Crock_Pot', 0.056096978]

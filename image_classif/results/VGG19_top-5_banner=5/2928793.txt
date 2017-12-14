@@ -1,0 +1,4 @@
+[u'geyser', 0.79006112, u'steam_locomotive', 0.099205784, u'cannon', 0.039835628, u'missile', 0.033796519, u'projectile', 0.01274742]
+[u'lumbermill', 0.56305963, u'maze', 0.1536883, u'apiary', 0.1375576, u'crate', 0.021688813, u'harvester', 0.019484641]
+[u'cannon', 0.42334038, u'harvester', 0.16055673, u'thresher', 0.1133747, u'steam_locomotive', 0.10705773, u'tractor', 0.034756392]
+[u'sunscreen', 0.33578962, u'pick', 0.22185534, u'packet', 0.080540329, u'Band_Aid', 0.063176028, u'carton', 0.059105396]

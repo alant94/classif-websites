@@ -1,0 +1,6 @@
+[u'web_site', 0.24406961, u'digital_clock', 0.091228068, u'matchstick', 0.080756523, u'nematode', 0.02603795, u'oscilloscope', 0.022987617]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'web_site', 0.2370287, u'matchstick', 0.08960072, u'theater_curtain', 0.072325602, u'digital_clock', 0.047515001, u'oscilloscope', 0.026077708]
+[u'matchstick', 0.19435862, u'digital_clock', 0.11628279, u'web_site', 0.097208366, u'oscilloscope', 0.068753719, u'theater_curtain', 0.063446477]
+[u'web_site', 0.19657403, u'matchstick', 0.12713511, u'digital_clock', 0.085224383, u'theater_curtain', 0.041089475, u'oscilloscope', 0.033500146]
+[u'web_site', 0.36247608, u'envelope', 0.12082392, u'jersey', 0.073356487, u'digital_clock', 0.041718215, u'microphone', 0.02226455]

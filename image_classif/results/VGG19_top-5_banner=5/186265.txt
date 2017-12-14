@@ -1,0 +1,2 @@
+[u'lab_coat', 0.78602278, u'bow_tie', 0.032613963, u'Windsor_tie', 0.030404689, u'neck_brace', 0.014024602, u'coffee_mug', 0.0058426289]
+[u'web_site', 0.51826382, u'menu', 0.11397433, u'proboscis_monkey', 0.08427038, u'three-toed_sloth', 0.076730005, u'book_jacket', 0.011379394]

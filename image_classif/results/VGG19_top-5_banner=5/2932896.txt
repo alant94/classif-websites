@@ -1,0 +1,8 @@
+[u'tray', 0.48550361, u'monitor', 0.065412104, u'Petri_dish', 0.057153765, u'loupe', 0.056715481, u'spotlight', 0.03647726]
+[u'sunscreen', 0.12505266, u'lipstick', 0.099913597, u'lotion', 0.099163108, u'Band_Aid', 0.073404819, u'hotdog', 0.064193927]
+[u'bathing_cap', 0.069740064, u'racket', 0.068024106, u'sunscreen', 0.04065071, u'maillot', 0.032977089, u'hair_spray', 0.028200787]
+[u'wig', 0.18719274, u'Band_Aid', 0.10256631, u'sunscreen', 0.071605146, u'hair_spray', 0.050594293, u'lipstick', 0.039907094]
+[u'lab_coat', 0.4171367, u'apron', 0.06644877, u'cash_machine', 0.061581969, u'groom', 0.04760031, u'pajama', 0.037911519]
+[u'stage', 0.14734784, u'limousine', 0.11993732, u'fur_coat', 0.08586818, u'abaya', 0.072124504, u'crutch', 0.061879791]
+[u'lab_coat', 0.1812674, u'toilet_seat', 0.17637263, u'neck_brace', 0.11129121, u"potter's_wheel", 0.041058853, u'bulletproof_vest', 0.033376221]
+[u'nail', 0.13249671, u'swab', 0.080467694, u'hook', 0.061522249, u'safety_pin', 0.061449215, u'hair_slide', 0.034695309]

@@ -1,0 +1,1 @@
+[u'sarong', 0.81426787, u'kimono', 0.013208744, u'apron', 0.012728579, u'swimming_trunks', 0.012043788, u'diaper', 0.010340778]

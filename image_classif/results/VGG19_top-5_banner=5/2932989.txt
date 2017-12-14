@@ -1,0 +1,4 @@
+[u'envelope', 0.11794578, u'wall_clock', 0.055375159, u'wardrobe', 0.031391151, u'book_jacket', 0.029899405, u'digital_clock', 0.028230557]
+[u'envelope', 0.12892997, u'container_ship', 0.024414074, u'crossword_puzzle', 0.024260597, u'Windsor_tie', 0.022894623, u'web_site', 0.022691276]
+[u'envelope', 0.11294913, u'digital_clock', 0.068683282, u'Band_Aid', 0.040038213, u'web_site', 0.034710858, u'crossword_puzzle', 0.022087248]
+[u'envelope', 0.12618789, u'wall_clock', 0.037392087, u'web_site', 0.031036802, u'digital_clock', 0.023768367, u'book_jacket', 0.02233253]

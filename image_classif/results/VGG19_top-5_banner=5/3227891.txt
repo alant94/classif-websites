@@ -1,0 +1,2 @@
+[u'scoreboard', 0.070596457, u'street_sign', 0.045985483, u'analog_clock', 0.040986374, u'book_jacket', 0.040050466, u'web_site', 0.039665904]
+[u'remote_control', 0.59492195, u'cellular_telephone', 0.069634028, u'pay-phone', 0.05826303, u'hand-held_computer', 0.052315027, u'lighter', 0.039555222]

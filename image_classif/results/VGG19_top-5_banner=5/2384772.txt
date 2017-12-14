@@ -1,0 +1,4 @@
+[u'envelope', 0.08638306, u'book_jacket', 0.082983546, u'jersey', 0.04593597, u'packet', 0.040729955, u'menu', 0.036744744]
+[u'perfume', 0.17521419, u'padlock', 0.12639815, u'birdhouse', 0.11945328, u'mailbox', 0.037357427, u'carton', 0.027068676]
+[u'red_wine', 0.30398506, u'goblet', 0.23784521, u'restaurant', 0.11676483, u'wine_bottle', 0.05965874, u'cocktail_shaker', 0.051020116]
+[u'beer_bottle', 0.17689116, u'tobacco_shop', 0.12602137, u'pop_bottle', 0.059193507, u'wine_bottle', 0.050004814, u'bookshop', 0.041452244]

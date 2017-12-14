@@ -1,0 +1,1 @@
+[u'book_jacket', 0.26834765, u'matchstick', 0.070897408, u'hook', 0.070333906, u"carpenter's_kit", 0.019535344, u'safety_pin', 0.015781777]

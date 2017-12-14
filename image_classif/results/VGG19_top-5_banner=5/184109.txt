@@ -1,0 +1,2 @@
+[u'swab', 0.25950986, u'ballpoint', 0.22398858, u'hook', 0.1130576, u'nail', 0.07059826, u'screwdriver', 0.061672807]
+[u'ski', 0.44645765, u'ballpoint', 0.27989516, u'hook', 0.12775098, u'coil', 0.038462196, u'hair_slide', 0.021226587]

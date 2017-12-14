@@ -1,0 +1,1 @@
+[u'spotlight', 0.25046155, u'cinema', 0.14645226, u'stage', 0.10972241, u'barbershop', 0.053886645, u'restaurant', 0.047110397]

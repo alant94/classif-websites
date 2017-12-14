@@ -1,0 +1,1 @@
+[u'volcano', 0.3840827, u'cliff', 0.12569979, u'jigsaw_puzzle', 0.10072098, u'frilled_lizard', 0.052818403, u'dam', 0.049958169]

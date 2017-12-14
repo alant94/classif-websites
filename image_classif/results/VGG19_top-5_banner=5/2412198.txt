@@ -1,0 +1,2 @@
+[u'jinrikisha', 0.20721716, u'mountain_bike', 0.19629499, u'moped', 0.074651055, u'bearskin', 0.057249039, u'tricycle', 0.04843805]
+[u'web_site', 0.37494898, u'hook', 0.071891129, u'macaw', 0.033861205, u'crane', 0.032253031, u'bow', 0.025815804]

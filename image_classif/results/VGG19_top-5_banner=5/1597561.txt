@@ -1,0 +1,4 @@
+[u'tub', 0.10873953, u'pajama', 0.08229845, u'bathtub', 0.077120185, u'bikini', 0.069261245, u'sarong', 0.056999102]
+[u'brassiere', 0.31021628, u'maillot', 0.22259711, u'maillot', 0.11923073, u'gown', 0.057469789, u'wig', 0.04179278]
+[u'ice_lolly', 0.12761207, u'sarong', 0.10672601, u'maillot', 0.10065855, u'pajama', 0.059673436, u'clog', 0.037408412]
+[u'diaper', 0.37716052, u'bikini', 0.16853303, u'maillot', 0.057172243, u'pajama', 0.044726066, u'brassiere', 0.044226412]

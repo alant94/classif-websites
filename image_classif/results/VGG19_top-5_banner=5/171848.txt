@@ -1,0 +1,3 @@
+[u'digital_clock', 0.56952423, u'digital_watch', 0.14443578, u'crossword_puzzle', 0.049219705, u'envelope', 0.034637619, u'maze', 0.02233783]
+[u'envelope', 0.62294585, u'digital_clock', 0.077584885, u'maze', 0.040487971, u'handkerchief', 0.034365136, u'book_jacket', 0.017573608]
+[u'electric_guitar', 0.82540333, u'acoustic_guitar', 0.16224968, u'pick', 0.0075886925, u'banjo', 0.002449556, u'violin', 0.0015889253]

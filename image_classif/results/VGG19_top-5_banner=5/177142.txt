@@ -1,0 +1,6 @@
+[u'wardrobe', 0.31363329, u'shower_curtain', 0.26895437, u'shoe_shop', 0.079365268, u'book_jacket', 0.034303781, u'jean', 0.02844255]
+[u'street_sign', 0.072178945, u'hook', 0.067230485, u'book_jacket', 0.02910232, u"carpenter's_kit", 0.026083123, u'swab', 0.023024004]
+[u'fountain', 0.43826404, u'bubble', 0.26698571, u'jellyfish', 0.039912578, u'scuba_diver', 0.022665687, u'volcano', 0.016674882]
+[u'shower_curtain', 0.10123188, u'book_jacket', 0.085040525, u'West_Highland_white_terrier', 0.069101103, u'web_site', 0.062013905, u'butcher_shop', 0.058335844]
+[u'shoe_shop', 0.071183182, u'washer', 0.039706822, u'window_shade', 0.026320955, u'dishwasher', 0.025712384, u'iron', 0.023971379]
+[u'bathtub', 0.51492029, u'tub', 0.12356802, u'iPod', 0.02952251, u'washbasin', 0.028666995, u'washer', 0.024466189]

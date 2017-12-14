@@ -1,0 +1,8 @@
+[u'whistle', 0.21856548, u'knot', 0.12567508, u'bubble', 0.091358401, u'swab', 0.073576264, u'nipple', 0.03550037]
+[u'cash_machine', 0.7725445, u'jersey', 0.013177372, u'pay-phone', 0.011851681, u'slot', 0.011063987, u'turnstile', 0.0095189847]
+[u'crate', 0.32300341, u'wreck', 0.1084763, u'matchstick', 0.071331933, u'paddlewheel', 0.055018321, u'guillotine', 0.035568178]
+[u'window_screen', 0.10368271, u'backpack', 0.10093604, u'purse', 0.098037489, u'mailbag', 0.066315681, u'hamper', 0.061911006]
+[u'racket', 0.095587768, u'apron', 0.073979586, u'wool', 0.062551141, u'Windsor_tie', 0.056625482, u'backpack', 0.038588405]
+[u'Band_Aid', 0.18110894, u'rugby_ball', 0.11128383, u'buckle', 0.064778663, u'puck', 0.058132295, u'bottlecap', 0.049648013]
+[u'goldfish', 0.10850057, u'chime', 0.054845579, u'bow', 0.042465024, u'barn_spider', 0.032757178, u'grasshopper', 0.031436771]
+[u'chain_saw', 0.36713189, u'rotisserie', 0.1100371, u'apiary', 0.085797973, u'cleaver', 0.054224923, u'power_drill', 0.052364234]

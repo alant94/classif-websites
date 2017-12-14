@@ -1,0 +1,2 @@
+[u'suit', 0.5734821, u'Windsor_tie', 0.11106373, u'lab_coat', 0.050190873, u'stage', 0.01283934, u'bow_tie', 0.0099167563]
+[u'bonnet', 0.079032511, u'lab_coat', 0.058373954, u'bassinet', 0.056713682, u'shower_cap', 0.030383537, u'plastic_bag', 0.02793589]

@@ -1,0 +1,3 @@
+[u'toaster', 0.041157749, u'water_bottle', 0.036519375, u'chime', 0.034750406, u'beaker', 0.033828683, u'swing', 0.031219417]
+[u'iron', 0.10597672, u'paper_towel', 0.052909233, u'toaster', 0.048739433, u'rotisserie', 0.037870802, u'water_bottle', 0.027914701]
+[u'web_site', 0.21456045, u'swab', 0.035361882, u'envelope', 0.024120562, u'paper_towel', 0.015932731, u'fountain', 0.015363593]

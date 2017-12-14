@@ -1,0 +1,2 @@
+[u'airship', 0.046544034, u'parachute', 0.02987542, u'wing', 0.026423668, u'kite', 0.023642791, u'warplane', 0.022461347]
+[u'matchstick', 0.18693699, u'digital_clock', 0.054223098, u'Band_Aid', 0.034642138, u'rubber_eraser', 0.033933643, u'envelope', 0.022905767]

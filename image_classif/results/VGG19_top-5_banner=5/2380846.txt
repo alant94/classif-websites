@@ -1,0 +1,6 @@
+[u'book_jacket', 0.39315787, u'comic_book', 0.12778729, u'bookshop', 0.092427358, u'binder', 0.09129028, u'bookcase', 0.08381214]
+[u'wardrobe', 0.13854484, u'binder', 0.11170155, u'book_jacket', 0.10548211, u'sliding_door', 0.094597034, u'guillotine', 0.064427219]
+[u'valley', 0.19848034, u'worm_fence', 0.18490894, u'rapeseed', 0.11011621, u'lakeside', 0.086002536, u'alp', 0.071154743]
+[u'wok', 0.11208283, u'frying_pan', 0.084459171, u'pizza', 0.053941168, u'Dutch_oven', 0.044443913, u'meat_loaf', 0.036572285]
+[u'barrel', 0.81155032, u'lumbermill', 0.14839977, u'rain_barrel', 0.0087552564, u'crate', 0.0051901634, u'forklift', 0.0022527988]
+[u'fire_screen', 0.51235616, u'lighter', 0.11168396, u'book_jacket', 0.044362448, u'binder', 0.036098264, u'refrigerator', 0.0350205]

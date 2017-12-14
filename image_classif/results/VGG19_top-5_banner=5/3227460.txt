@@ -1,0 +1,1 @@
+[u'coil', 0.79072046, u'bannister', 0.090065517, u'maze', 0.041889429, u'Windsor_tie', 0.022742655, u'necklace', 0.013076933]

@@ -1,0 +1,2 @@
+[u'picket_fence', 0.38727394, u'digital_clock', 0.091315411, u'container_ship', 0.07523746, u'library', 0.049953844, u'matchstick', 0.04494942]
+[u'spotlight', 0.047593314, u'cassette', 0.037314922, u'modem', 0.033353671, u'wall_clock', 0.024647385, u'switch', 0.023673464]

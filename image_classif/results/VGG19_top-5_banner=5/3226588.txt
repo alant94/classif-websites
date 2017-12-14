@@ -1,0 +1,6 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'computer_keyboard', 0.14799047, u'switch', 0.088868491, u'lighter', 0.042353258, u'window_screen', 0.023346046, u'doormat', 0.022366242]
+[u'hook', 0.13004802, u'swab', 0.12158081, u'bow', 0.11576383, u'ski', 0.05563907, u'cleaver', 0.037415288]
+[u'menu', 0.088866979, u'coffee_mug', 0.032104462, u'whiskey_jug', 0.031413279, u'pill_bottle', 0.030621586, u'toilet_tissue', 0.027931374]
+[u'cash_machine', 0.19154926, u'prison', 0.056789011, u'swab', 0.04302052, u'turnstile', 0.041221708, u'crutch', 0.023134585]
+[u'hook', 0.33236846, u'web_site', 0.064425834, u'ski', 0.062537491, u'stethoscope', 0.032554518, u'swab', 0.031707305]

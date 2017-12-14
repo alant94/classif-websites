@@ -1,0 +1,7 @@
+[u'hook', 0.12437388, u'chime', 0.10125516, u'projectile', 0.068016373, u'missile', 0.063445345, u'punching_bag', 0.037961546]
+[u'vase', 0.15259181, u'perfume', 0.12412946, u'lotion', 0.10766175, u'pick', 0.040719446, u'sunscreen', 0.035791207]
+[u'puck', 0.38173297, u'book_jacket', 0.077022403, u'comic_book', 0.0434126, u'packet', 0.040210884, u'face_powder', 0.026833128]
+[u'vase', 0.20637603, u'hummingbird', 0.11851766, u'pot', 0.083805703, u'sarong', 0.031275611, u'lorikeet', 0.025588647]
+[u'book_jacket', 0.20495307, u'street_sign', 0.17698465, u'comic_book', 0.049725596, u'web_site', 0.018735407, u'moving_van', 0.018143259]
+[u'airship', 0.24190256, u'can_opener', 0.21340621, u'rugby_ball', 0.092466027, u'iron', 0.055524632, u'envelope', 0.04881845]
+[u'perfume', 0.15339814, u'pop_bottle', 0.11643224, u'ski', 0.079021506, u'lipstick', 0.063091442, u'picket_fence', 0.057934739]

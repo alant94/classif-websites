@@ -1,0 +1,2 @@
+[u'web_site', 0.86874288, u'envelope', 0.027462874, u'menu', 0.0081997905, u'muzzle', 0.0040117237, u'analog_clock', 0.001411101]
+[u'digital_clock', 0.29464528, u'crossword_puzzle', 0.054696556, u'web_site', 0.048746441, u'book_jacket', 0.046175692, u'scoreboard', 0.022939371]

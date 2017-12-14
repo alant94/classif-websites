@@ -1,0 +1,1 @@
+[u'shovel', 0.19509643, u'torch', 0.14290136, u'parking_meter', 0.11240882, u'vacuum', 0.07901635, u'stethoscope', 0.064319596]

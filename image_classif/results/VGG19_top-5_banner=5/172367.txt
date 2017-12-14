@@ -1,0 +1,3 @@
+[u'digital_clock', 0.52168947, u'crossword_puzzle', 0.083031029, u'scoreboard', 0.057624511, u'web_site', 0.02945848, u'digital_watch', 0.023183854]
+[u'digital_clock', 0.22557718, u'envelope', 0.17645358, u'crossword_puzzle', 0.054011196, u'web_site', 0.049527619, u'screen', 0.017923197]
+[u'web_site', 0.094513059, u'envelope', 0.087525904, u'wall_clock', 0.033673547, u'analog_clock', 0.030134298, u'digital_clock', 0.019787043]

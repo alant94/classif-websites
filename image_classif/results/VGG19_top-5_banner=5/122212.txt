@@ -1,0 +1,1 @@
+[u'cash_machine', 0.11075132, u'vending_machine', 0.073285416, u'gas_pump', 0.067172863, u'pay-phone', 0.056230247, u'web_site', 0.049420998]

@@ -1,0 +1,5 @@
+[u'maillot', 0.73239565, u'maillot', 0.13859308, u'bikini', 0.077122927, u'brassiere', 0.016432278, u'gown', 0.0063839569]
+[u'maillot', 0.45658088, u'maillot', 0.24674422, u'bikini', 0.031994242, u'web_site', 0.029343894, u'miniskirt', 0.01792495]
+[u'sarong', 0.59077358, u'stole', 0.069526248, u'conch', 0.043725479, u'butcher_shop', 0.037984412, u'book_jacket', 0.023828221]
+[u'swimming_trunks', 0.71898293, u'sarong', 0.05313218, u'bathing_cap', 0.032743044, u'snorkel', 0.023356298, u'cowboy_hat', 0.017180106]
+[u'medicine_chest', 0.24861723, u'syringe', 0.11989369, u'ballpoint', 0.059883818, u'rubber_eraser', 0.048417136, u'screwdriver', 0.036798652]

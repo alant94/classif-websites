@@ -1,0 +1,8 @@
+[u'worm_fence', 0.59712541, u'stone_wall', 0.013956408, u'plow', 0.012438482, u'alp', 0.011783449, u'valley', 0.011445115]
+[u'clog', 0.082522243, u'sandal', 0.068584166, u'Band_Aid', 0.053897545, u'agaric', 0.04468615, u'ant', 0.033679027]
+[u'cliff', 0.11085092, u'stone_wall', 0.053733673, u'lakeside', 0.044877268, u'corn', 0.036064681, u'ear', 0.032454513]
+[u'pick', 0.35485575, u'theater_curtain', 0.23835, u'matchstick', 0.10812791, u'analog_clock', 0.031668372, u'stopwatch', 0.017942563]
+[u'alp', 0.15554845, u'lakeside', 0.10574193, u'rapeseed', 0.083557658, u'bison', 0.053979449, u'geyser', 0.051674835]
+[u'shower_curtain', 0.60313326, u'sarong', 0.11328724, u'stole', 0.025287963, u'ear', 0.024334403, u'poncho', 0.015376208]
+[u'coil', 0.24715798, u'clog', 0.10813309, u'corn', 0.10263339, u'chain', 0.10146468, u'wooden_spoon', 0.059406456]
+[u'Welsh_springer_spaniel', 0.84194541, u'Brittany_spaniel', 0.050445471, u'Saint_Bernard', 0.029110912, u'Blenheim_spaniel', 0.015452934, u'English_springer', 0.015136441]

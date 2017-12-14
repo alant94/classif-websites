@@ -1,0 +1,1 @@
+[u'digital_clock', 0.089286335, u'carton', 0.086975478, u'maze', 0.069908455, u'washbasin', 0.067230336, u'screen', 0.05294209]

@@ -1,0 +1,8 @@
+[u'worm_fence', 0.53328049, u'picket_fence', 0.25766668, u'croquet_ball', 0.043070935, u'bow', 0.02106612, u'barn', 0.020552823]
+[u'ski', 0.36580372, u'cliff', 0.088223286, u'bearskin', 0.066473618, u'fountain', 0.049334358, u'worm_fence', 0.047580957]
+[u'fountain', 0.89388752, u'missile', 0.017481416, u'totem_pole', 0.010713339, u'projectile', 0.0084720878, u'breakwater', 0.0068555232]
+[u'megalith', 0.13468014, u'fountain', 0.070507132, u'alp', 0.065939136, u'bison', 0.062267058, u'worm_fence', 0.048458636]
+[u'valley', 0.29064822, u'alp', 0.15418261, u'cliff', 0.053275295, u'stupa', 0.047768876, u'mountain_tent', 0.037515286]
+[u'West_Highland_white_terrier', 0.13668483, u'hog', 0.13486391, u'llama', 0.11401749, u'ox', 0.086741924, u'brassiere', 0.067441769]
+[u'fountain', 0.27038154, u'coral_fungus', 0.14231578, u'American_egret', 0.073763199, u'king_penguin', 0.057303485, u'flamingo', 0.049956445]
+[u'castle', 0.29516503, u'palace', 0.17257723, u'fountain', 0.14173077, u'monastery', 0.085834704, u'church', 0.058231685]

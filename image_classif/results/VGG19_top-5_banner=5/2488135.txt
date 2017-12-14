@@ -1,0 +1,6 @@
+[u'street_sign', 0.11568205, u'barbershop', 0.092763275, u'tobacco_shop', 0.080204546, u'crate', 0.024540588, u'shoe_shop', 0.017826548]
+[u'washbasin', 0.044501167, u'window_screen', 0.042548399, u'window_shade', 0.039111163, u'medicine_chest', 0.036940608, u'vault', 0.029674873]
+[u'ibex', 0.50346947, u'impala', 0.16833039, u'bighorn', 0.15052044, u'gazelle', 0.075073093, u'hartebeest', 0.062525958]
+[u'wild_boar', 0.66598445, u'hog', 0.33087304, u'warthog', 0.0031287109, u'bison', 6.6702396e-06, u'hyena', 2.5338386e-06]
+[u'water_tower', 0.096930839, u'barn', 0.090170391, u'church', 0.071419887, u'flagpole', 0.060496274, u'radio_telescope', 0.057037283]
+[u'drake', 0.99892211, u'goose', 0.0010335136, u'American_coot', 1.8779143e-05, u'red-breasted_merganser', 9.7665661e-06, u'European_gallinule', 6.9001444e-06]

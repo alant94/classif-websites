@@ -1,0 +1,2 @@
+[u'hare', 0.14631234, u'gazelle', 0.11503359, u'ibex', 0.11295224, u'bighorn', 0.059486549, u'Chihuahua', 0.051454641]
+[u'buckle', 0.15048417, u'coffee_mug', 0.10440114, u'lighter', 0.05805232, u'comic_book', 0.041260257, u'puck', 0.033202827]

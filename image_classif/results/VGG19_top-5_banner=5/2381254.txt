@@ -1,0 +1,2 @@
+[u'alp', 0.4722358, u'valley', 0.25225523, u'lakeside', 0.035415355, u'cliff', 0.032162722, u'mountain_tent', 0.0196133]
+[u'book_jacket', 0.35685289, u'theater_curtain', 0.088417627, u'perfume', 0.036414027, u'microphone', 0.03493933, u'digital_clock', 0.022835903]

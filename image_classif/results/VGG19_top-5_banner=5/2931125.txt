@@ -1,0 +1,6 @@
+[u'screen', 0.62439352, u'monitor', 0.21255553, u'television', 0.03589619, u'desktop_computer', 0.010388759, u'oscilloscope', 0.0094238669]
+[u'iron', 0.086427487, u'nail', 0.03276645, u'Band_Aid', 0.028325269, u'paper_towel', 0.022215663, u'envelope', 0.020297119]
+[u'notebook', 0.17814061, u'television', 0.15653636, u'web_site', 0.11413553, u'screen', 0.074650511, u'laptop', 0.067594141]
+[u'notebook', 0.27584276, u'laptop', 0.25911152, u'monitor', 0.056727845, u'scale', 0.040294368, u'television', 0.025405936]
+[u'screen', 0.57146031, u'monitor', 0.20490548, u'television', 0.03905699, u'desktop_computer', 0.017612325, u'picket_fence', 0.016100172]
+[u'street_sign', 0.15088154, u'pill_bottle', 0.04605756, u'book_jacket', 0.036541466, u'oil_filter', 0.028293582, u'hair_spray', 0.018442679]

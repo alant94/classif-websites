@@ -1,0 +1,2 @@
+[u'hand-held_computer', 0.16664514, u'slide_rule', 0.15164909, u'menu', 0.1396957, u'crossword_puzzle', 0.099437118, u'web_site', 0.046954174]
+[u'sulphur-crested_cockatoo', 0.20795375, u'parachute', 0.15327041, u'American_egret', 0.13538793, u'spoonbill', 0.070349641, u'flagpole', 0.068175554]

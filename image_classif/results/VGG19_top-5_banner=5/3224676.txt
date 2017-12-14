@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.46190807, u'vestment', 0.20385267, u'theater_curtain', 0.14188157, u'stage', 0.043206614, u'academic_gown', 0.015901282]
+[u'hook', 0.142478, u'bow', 0.12749776, u'rule', 0.081979953, u'hatchet', 0.062929176, u'web_site', 0.036146164]
+[u'shoe_shop', 0.278743, u'restaurant', 0.11130623, u'kimono', 0.10406383, u'barbershop', 0.074524634, u'ocarina', 0.065519728]
+[u'toyshop', 0.1818976, u'jackfruit', 0.075023599, u'teddy', 0.065544076, u'zucchini', 0.04453424, u'cucumber', 0.027490271]

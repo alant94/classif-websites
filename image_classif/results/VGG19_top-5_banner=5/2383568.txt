@@ -1,0 +1,2 @@
+[u'digital_clock', 0.40702048, u'wall_clock', 0.067078851, u'stopwatch', 0.038220741, u'iPod', 0.037563428, u'analog_clock', 0.036732994]
+[u'monitor', 0.12859648, u'sliding_door', 0.089394331, u'medicine_chest', 0.063368194, u'screen', 0.037269901, u'binder', 0.035740722]

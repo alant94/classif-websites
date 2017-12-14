@@ -1,0 +1,2 @@
+[u'letter_opener', 0.07990405, u'racket', 0.077832192, u'cleaver', 0.034199215, u'plate_rack', 0.032107208, u'airship', 0.029894689]
+[u'slide_rule', 0.4204151, u'rule', 0.26471058, u'nail', 0.049483459, u'screw', 0.019734144, u'hammer', 0.019363722]

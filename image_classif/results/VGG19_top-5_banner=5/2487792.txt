@@ -1,0 +1,7 @@
+[u'web_site', 0.94897944, u'scoreboard', 0.022561926, u'book_jacket', 0.0063637742, u'television', 0.00270614, u'analog_clock', 0.0019784672]
+[u'matchstick', 0.103645, u'syringe', 0.093693741, u'screwdriver', 0.091387138, u'web_site', 0.080918051, u'ballpoint', 0.046203077]
+[u'web_site', 0.2046977, u'syringe', 0.046629362, u'digital_clock', 0.044343792, u'screwdriver', 0.04016307, u'matchstick', 0.024164615]
+[u'maze', 0.18651989, u"carpenter's_kit", 0.032843456, u'book_jacket', 0.032462224, u'chime', 0.026496401, u'picket_fence', 0.025308516]
+[u'switch', 0.11803997, u'typewriter_keyboard', 0.073116682, u'space_bar', 0.062437486, u'vending_machine', 0.049201477, u'oscilloscope', 0.043949597]
+[u'screwdriver', 0.30842471, u"carpenter's_kit", 0.20062976, u'lipstick', 0.058066551, u'screw', 0.048320703, u'rule', 0.026607022]
+[u'envelope', 0.079295442, u'web_site', 0.04398552, u'rule', 0.021791538, u'dishwasher', 0.01388694, u'bathtub', 0.013275182]

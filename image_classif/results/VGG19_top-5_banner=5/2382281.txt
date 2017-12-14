@@ -1,0 +1,7 @@
+[u'screwdriver', 0.29154435, u'wine_bottle', 0.24401224, u"carpenter's_kit", 0.15465637, u'red_wine', 0.10769821, u'beer_bottle', 0.01855218]
+[u'alp', 0.14277875, u'monitor', 0.046886433, u'lakeside', 0.046263207, u'valley', 0.041737948, u'dam', 0.039503016]
+[u'candle', 0.14723898, u'conch', 0.061789427, u'mask', 0.044469658, u'lampshade', 0.0327648, u'spotlight', 0.027442619]
+[u'wine_bottle', 0.16734198, u'container_ship', 0.10202802, u'syringe', 0.071889848, u'red_wine', 0.055527326, u'beer_bottle', 0.049474191]
+[u'boathouse', 0.22869845, u'lakeside', 0.18381529, u'fountain', 0.029114675, u'dock', 0.027196193, u'crane', 0.02586519]
+[u'starfish', 0.129997, u'warplane', 0.080348246, u'gazelle', 0.062605545, u'black_stork', 0.044365197, u'wing', 0.033996012]
+[u'beaker', 0.30274829, u'lotion', 0.092469066, u'face_powder', 0.064594768, u'measuring_cup', 0.058873747, u'perfume', 0.05230784]

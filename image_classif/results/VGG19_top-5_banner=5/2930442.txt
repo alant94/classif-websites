@@ -1,0 +1,3 @@
+[u'suit', 0.79990977, u'Windsor_tie', 0.11082112, u'bow_tie', 0.052387193, u'bolo_tie', 0.0093473541, u'oboe', 0.0061947959]
+[u'bikini', 0.1216463, u'maillot', 0.076448567, u'wig', 0.071588419, u'maillot', 0.060615409, u'brassiere', 0.059436228]
+[u'magnetic_compass', 0.35103488, u'loupe', 0.086045228, u'container_ship', 0.08363907, u'Petri_dish', 0.065842807, u'airship', 0.052138772]

@@ -1,0 +1,6 @@
+[u'waffle_iron', 0.088083431, u'throne', 0.069915101, u'honeycomb', 0.069828838, u'four-poster', 0.049101029, u'desktop_computer', 0.036908854]
+[u'wardrobe', 0.43752673, u'shower_curtain', 0.14243387, u'crib', 0.0908539, u'mosquito_net', 0.055851568, u'four-poster', 0.051682197]
+[u'four-poster', 0.45424551, u'quilt', 0.21689542, u'studio_couch', 0.11035492, u'crib', 0.026664106, u'home_theater', 0.019325068]
+[u'tray', 0.2275379, u'window_screen', 0.14193255, u'toilet_tissue', 0.091556169, u'paper_towel', 0.060208511, u'toilet_seat', 0.05332635]
+[u'plate_rack', 0.11638815, u'mosquito_net', 0.11168521, u'studio_couch', 0.10813222, u'bannister', 0.10459685, u'window_shade', 0.086194821]
+[u'toaster', 0.10772493, u'dishwasher', 0.070012197, u'washer', 0.06853842, u'plate_rack', 0.062136188, u'spatula', 0.036956076]

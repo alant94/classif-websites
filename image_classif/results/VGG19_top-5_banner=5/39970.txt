@@ -1,0 +1,2 @@
+[u'wig', 0.1496647, u'sunglasses', 0.077493958, u'bathing_cap', 0.057748474, u'bow_tie', 0.05507125, u'sunglass', 0.052777622]
+[u'sunglasses', 0.24269396, u'car_mirror', 0.16592297, u'sunglass', 0.097791679, u'bathing_cap', 0.062221289, u'seat_belt', 0.056084886]

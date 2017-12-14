@@ -1,0 +1,2 @@
+[u'fountain', 0.46516213, u'barbell', 0.076402128, u'stage', 0.034143444, u'parallel_bars', 0.02792421, u'shower_curtain', 0.020861169]
+[u'envelope', 0.24024484, u'web_site', 0.046642214, u'wall_clock', 0.026032485, u'binder', 0.02465228, u'syringe', 0.011898644]

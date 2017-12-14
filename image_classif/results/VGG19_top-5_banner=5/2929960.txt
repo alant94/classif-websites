@@ -1,0 +1,3 @@
+[u'bassoon', 0.16599099, u'harp', 0.099630363, u'cello', 0.098873042, u'flute', 0.071330011, u'oboe', 0.066737011]
+[u'suit', 0.23299457, u'Loafer', 0.079867378, u'library', 0.057237916, u'grand_piano', 0.044334322, u'notebook', 0.042822696]
+[u'restaurant', 0.32598493, u'library', 0.24057513, u'cello', 0.082904592, u'barbershop', 0.058364555, u'shoe_shop', 0.042780165]

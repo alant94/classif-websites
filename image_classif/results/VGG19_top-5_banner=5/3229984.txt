@@ -1,0 +1,4 @@
+[u'ballpoint', 0.33444625, u'screwdriver', 0.11815479, u'rubber_eraser', 0.068046868, u'pencil_box', 0.059264716, u'syringe', 0.035296869]
+[u'cash_machine', 0.48281771, u'scoreboard', 0.087967724, u'gas_pump', 0.075215921, u'vending_machine', 0.022830654, u'ashcan', 0.020146634]
+[u'ballpoint', 0.12619607, u'rubber_eraser', 0.11571146, u'library', 0.06102778, u'picket_fence', 0.04967903, u'matchstick', 0.035334233]
+[u'monitor', 0.50070024, u'web_site', 0.27103183, u'screen', 0.079108357, u'desktop_computer', 0.042174626, u'menu', 0.023678113]

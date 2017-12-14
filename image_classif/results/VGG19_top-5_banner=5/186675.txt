@@ -1,0 +1,2 @@
+[u'maypole', 0.34596542, u'stupa', 0.29240596, u'carousel', 0.070067018, u'flagpole', 0.032619603, u'pirate', 0.026291775]
+[u'web_site', 0.088824347, u'comic_book', 0.039311636, u'book_jacket', 0.033001553, u'typewriter_keyboard', 0.03246947, u'cinema', 0.031224944]

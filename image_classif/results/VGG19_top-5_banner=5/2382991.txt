@@ -1,0 +1,4 @@
+[u'wardrobe', 0.29579118, u'ski', 0.14740944, u'scale', 0.085741967, u'plate_rack', 0.037170097, u'iron', 0.036487821]
+[u'ostrich', 0.31993064, u'worm_fence', 0.082222521, u'mountain_bike', 0.063032456, u'limpkin', 0.031526897, u'maze', 0.024427203]
+[u'wine_bottle', 0.51392382, u'bookshop', 0.10728917, u'beer_bottle', 0.095810592, u'confectionery', 0.045107897, u'pop_bottle', 0.040162168]
+[u'rule', 0.13348423, u'wooden_spoon', 0.062269371, u'rubber_eraser', 0.056035753, u'pencil_box', 0.041105527, u'book_jacket', 0.034952343]

@@ -1,0 +1,7 @@
+[u'monitor', 0.16202815, u'oscilloscope', 0.11888265, u'carton', 0.10067755, u'screen', 0.071510732, u'scale', 0.043035153]
+[u'ballpoint', 0.19057359, u'rubber_eraser', 0.10471752, u'whistle', 0.09014567, u'screwdriver', 0.077231742, u'chime', 0.063599117]
+[u'oscilloscope', 0.25138557, u'television', 0.1041465, u'window_screen', 0.072658561, u'digital_clock', 0.071064629, u'screen', 0.067183703]
+[u'television', 0.26769337, u'monitor', 0.1409393, u'home_theater', 0.10484553, u'screen', 0.074769318, u'joystick', 0.07231199]
+[u'gown', 0.5074228, u'overskirt', 0.19399826, u'groom', 0.16812783, u'hoopskirt', 0.090074949, u'mosquito_net', 0.018882336]
+[u'menu', 0.68383491, u'hard_disc', 0.20906866, u'screen', 0.01516117, u'iPod', 0.012060006, u'packet', 0.011062263]
+[u'web_site', 0.66755873, u'oscilloscope', 0.10724901, u'screen', 0.067400984, u'monitor', 0.032099459, u'desktop_computer', 0.028143574]

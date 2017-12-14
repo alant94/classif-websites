@@ -1,0 +1,2 @@
+[u'comic_book', 0.1140895, u'web_site', 0.054953862, u'packet', 0.039337497, u'laptop', 0.03415034, u'book_jacket', 0.032712899]
+[u'restaurant', 0.15635206, u'beacon', 0.068053268, u'patio', 0.052852549, u'fire_engine', 0.0473755, u'monastery', 0.045962688]

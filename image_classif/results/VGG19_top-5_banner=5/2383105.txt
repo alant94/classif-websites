@@ -1,0 +1,6 @@
+[u'pill_bottle', 0.48009276, u'perfume', 0.13907421, u'lotion', 0.079356596, u'tobacco_shop', 0.028652793, u'sunscreen', 0.027084362]
+[u'crossword_puzzle', 0.48886821, u'digital_clock', 0.068257324, u'envelope', 0.063742101, u'maze', 0.030220954, u'digital_watch', 0.028410001]
+[u'maze', 0.084991068, u'envelope', 0.071863718, u'digital_clock', 0.067271367, u'container_ship', 0.049310561, u'crossword_puzzle', 0.041638359]
+[u'grocery_store', 0.2393038, u'pop_bottle', 0.20979576, u'lotion', 0.075463973, u'confectionery', 0.069576912, u'perfume', 0.064321257]
+[u'street_sign', 0.30239025, u'bolo_tie', 0.11257238, u'traffic_light', 0.10837664, u'cinema', 0.10532059, u'jersey', 0.047222599]
+[u'microphone', 0.14473543, u'pick', 0.078111008, u'cornet', 0.071031131, u'lighter', 0.066488668, u'buckle', 0.060138896]

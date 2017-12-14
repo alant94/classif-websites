@@ -1,0 +1,1 @@
+[u'pay-phone', 0.11086183, u'parking_meter', 0.088766545, u'sliding_door', 0.086619861, u'turnstile', 0.081971794, u'limousine', 0.04726997]

@@ -1,0 +1,2 @@
+[u'altar', 0.78903913, u'toyshop', 0.066104576, u'throne', 0.043978352, u'vestment', 0.013052351, u'lampshade', 0.011667638]
+[u'spotlight', 0.21909808, u'gong', 0.1091221, u'altar', 0.094073437, u'vault', 0.093384713, u'dome', 0.092619032]

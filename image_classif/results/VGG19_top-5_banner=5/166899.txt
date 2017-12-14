@@ -1,0 +1,6 @@
+[u'oboe', 0.34225762, u'binder', 0.31475842, u'menu', 0.061025213, u'bassoon', 0.036063883, u'flute', 0.035067905]
+[u'cornet', 0.71734124, u'French_horn', 0.21476896, u'coffeepot', 0.024075298, u'pitcher', 0.013744916, u'water_jug', 0.0090649044]
+[u'binder', 0.53203058, u'stretcher', 0.076684512, u'menu', 0.0642462, u'oboe', 0.064196222, u'plate_rack', 0.03787357]
+[u'binder', 0.52433324, u'menu', 0.29576698, u'oboe', 0.037174534, u'sax', 0.03217458, u'envelope', 0.021854157]
+[u'binder', 0.37729189, u'oboe', 0.36452264, u'menu', 0.049417201, u'sax', 0.041648593, u'flute', 0.031626586]
+[u'screwdriver', 0.27441835, u'screw', 0.14297988, u"carpenter's_kit", 0.12330338, u'syringe', 0.087572969, u'dumbbell', 0.061347269]

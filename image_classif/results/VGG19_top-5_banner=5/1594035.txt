@@ -1,0 +1,4 @@
+[u'breastplate', 0.11916199, u'cuirass', 0.079755671, u'dumbbell', 0.057855707, u'prison', 0.045591373, u'lumbermill', 0.045039486]
+[u'mask', 0.22538398, u'neck_brace', 0.17893149, u'ski_mask', 0.12019515, u'wig', 0.087192684, u'bearskin', 0.049828082]
+[u'mask', 0.15924655, u'military_uniform', 0.11310853, u'abaya', 0.088718027, u'cloak', 0.069842882, u'bearskin', 0.068693288]
+[u'spotlight', 0.039735984, u'lampshade', 0.03959785, u'honeycomb', 0.02672247, u'oscilloscope', 0.025095396, u'analog_clock', 0.018527951]

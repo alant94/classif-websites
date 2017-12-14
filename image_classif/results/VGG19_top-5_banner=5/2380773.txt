@@ -1,0 +1,6 @@
+[u'king_crab', 0.17240027, u'plate', 0.17234701, u'dining_table', 0.083593823, u'cleaver', 0.066465333, u'Dungeness_crab', 0.053690538]
+[u'red_wine', 0.9030019, u'wine_bottle', 0.031769, u'perfume', 0.0074545946, u'canoe', 0.0061527221, u'paddle', 0.0047332863]
+[u'wine_bottle', 0.88250637, u'red_wine', 0.079038396, u'beer_bottle', 0.032009892, u'pop_bottle', 0.0024784761, u'corkscrew', 0.001840416]
+[u'wine_bottle', 0.89633352, u'red_wine', 0.077937543, u'beer_bottle', 0.021104628, u'pop_bottle', 0.0014708337, u'corkscrew', 0.00043401163]
+[u'web_site', 0.13690309, u'matchstick', 0.071290568, u'electric_guitar', 0.062725537, u'jersey', 0.05633802, u'book_jacket', 0.04603491]
+[u'wine_bottle', 0.83266264, u'beer_bottle', 0.11253248, u'red_wine', 0.025618626, u'screwdriver', 0.00699289, u'pop_bottle', 0.0041608778]

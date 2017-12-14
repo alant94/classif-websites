@@ -1,0 +1,8 @@
+[u'comic_book', 0.56852871, u'book_jacket', 0.36565921, u'packet', 0.019217694, u'street_sign', 0.014481079, u'menu', 0.0045805494]
+[u'paintbrush', 0.11000262, u'wardrobe', 0.072690964, u'chime', 0.06804508, u'medicine_chest', 0.064535484, u'ballpoint', 0.051241025]
+[u'comic_book', 0.50550729, u'book_jacket', 0.44815329, u'packet', 0.0055830274, u'menu', 0.003382114, u'jersey', 0.0026083123]
+[u'book_jacket', 0.67107111, u'comic_book', 0.16219151, u'packet', 0.095942363, u'menu', 0.015139372, u'burrito', 0.0068702404]
+[u'book_jacket', 0.18411553, u'comic_book', 0.13641231, u'butcher_shop', 0.083172373, u'throne', 0.050190151, u'barbershop', 0.046972435]
+[u'photocopier', 0.19305821, u'laptop', 0.083074808, u'washer', 0.06648989, u'printer', 0.050846431, u'dishwasher', 0.036439534]
+[u'book_jacket', 0.88918918, u'comic_book', 0.018334962, u'menu', 0.0071223476, u'street_sign', 0.0060557937, u'barbershop', 0.0052786162]
+[u'web_site', 0.58270615, u'book_jacket', 0.37165409, u'comic_book', 0.018190606, u'menu', 0.0062177046, u'packet', 0.0034959884]

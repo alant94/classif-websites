@@ -1,0 +1,8 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'panpipe', 0.34440801, u'whistle', 0.05711773, u'pencil_sharpener', 0.04740027, u'envelope', 0.042706076, u'lighter', 0.022970771]
+[u'street_sign', 0.11501915, u'assault_rifle', 0.096331038, u'guillotine', 0.092636324, u'hook', 0.084968761, u'traffic_light', 0.057833355]
+[u'bell_cote', 0.24116547, u'envelope', 0.15099366, u'panpipe', 0.071098678, u'wall_clock', 0.049151137, u'airship', 0.029047251]
+[u'digital_clock', 0.18215342, u'book_jacket', 0.175961, u'binder', 0.094076157, u'envelope', 0.07550773, u'scoreboard', 0.04030012]
+[u'envelope', 0.50441474, u'panpipe', 0.060226057, u'bell_cote', 0.038195275, u'stupa', 0.025207054, u'wall_clock', 0.021203231]
+[u'envelope', 0.028409202, u'bee_eater', 0.025066072, u'kite', 0.024013234, u'matchstick', 0.022210762, u'nail', 0.013703153]
+[u'toilet_seat', 0.75829279, u'iron', 0.048477191, u'switch', 0.034306962, u'spotlight', 0.011783992, u'sewing_machine', 0.01142587]

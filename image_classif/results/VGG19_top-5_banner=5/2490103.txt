@@ -1,0 +1,4 @@
+[u'Saluki', 0.39463195, u'English_foxhound', 0.14897566, u'English_springer', 0.11896635, u'Walker_hound', 0.05247372, u'bluetick', 0.032032277]
+[u'croquet_ball', 0.25756103, u'Appenzeller', 0.081331573, u'EntleBucher', 0.075778902, u'golf_ball', 0.042301036, u'kelpie', 0.025208194]
+[u'alp', 0.52272129, u'valley', 0.19520953, u'lakeside', 0.083731644, u'promontory', 0.034449369, u'cliff', 0.022943018]
+[u'English_foxhound', 0.35822782, u'Saint_Bernard', 0.2338666, u'Brittany_spaniel', 0.10131472, u'beagle', 0.068579771, u'Welsh_springer_spaniel', 0.057429381]

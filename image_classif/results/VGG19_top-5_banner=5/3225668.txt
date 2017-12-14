@@ -1,0 +1,1 @@
+[u'pick', 0.27517736, u'envelope', 0.057428401, u'barometer', 0.024256054, u'scale', 0.017486893, u'face_powder', 0.016960753]

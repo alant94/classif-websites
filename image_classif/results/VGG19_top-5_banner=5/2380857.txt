@@ -1,0 +1,2 @@
+[u'magnetic_compass', 0.74915701, u'face_powder', 0.047457445, u'sundial', 0.037165642, u'rule', 0.023787597, u'wall_clock', 0.021298757]
+[u'ski', 0.045583554, u'trailer_truck', 0.038764186, u'moving_van', 0.029797208, u'street_sign', 0.028876245, u'hook', 0.024803234]

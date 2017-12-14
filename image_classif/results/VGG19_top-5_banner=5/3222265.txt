@@ -1,0 +1,6 @@
+[u'church', 0.86567312, u'castle', 0.045563918, u'monastery', 0.025757758, u'bell_cote', 0.023827145, u'picket_fence', 0.0039540338]
+[u'screwdriver', 0.097372681, u"carpenter's_kit", 0.09589693, u'ski', 0.084597722, u'hook', 0.051880438, u'chime', 0.048974879]
+[u'rugby_ball', 0.39195403, u'golf_ball', 0.1647841, u'soccer_ball', 0.1048035, u'football_helmet', 0.098220252, u'ballplayer', 0.039130248]
+[u'comic_book', 0.031702828, u'scoreboard', 0.028645106, u'web_site', 0.028329328, u'book_jacket', 0.017168367, u'envelope', 0.016183481]
+[u'puck', 0.16057706, u'coffee_mug', 0.12296931, u'soap_dispenser', 0.12102615, u'sunscreen', 0.077640884, u'saltshaker', 0.051677678]
+[u'safety_pin', 0.075519621, u'web_site', 0.054124475, u'microphone', 0.048365153, u'hook', 0.040388618, u'screwdriver', 0.029978544]

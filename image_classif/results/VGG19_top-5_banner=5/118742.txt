@@ -1,0 +1,5 @@
+[u'analog_clock', 0.42370901, u'wall_clock', 0.2970058, u'digital_watch', 0.061453208, u'digital_clock', 0.050285101, u'stopwatch', 0.039835732]
+[u'suit', 0.72702402, u'Loafer', 0.056090202, u'cardigan', 0.044932198, u'jean', 0.036428936, u'stole', 0.024751237]
+[u'wall_clock', 0.47797441, u'analog_clock', 0.44587734, u'digital_clock', 0.010759883, u'barometer', 0.009811149, u'digital_watch', 0.0079908203]
+[u'library', 0.28010961, u'restaurant', 0.11610033, u'grocery_store', 0.10314434, u'menu', 0.095847376, u'bookshop', 0.036587678]
+[u'computer_keyboard', 0.10337923, u'laptop', 0.088092849, u'notebook', 0.05006142, u'photocopier', 0.03730607, u'digital_clock', 0.020279903]

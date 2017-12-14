@@ -1,0 +1,7 @@
+[u'envelope', 0.16345981, u'binder', 0.072204366, u'laptop', 0.068078317, u'tray', 0.063123852, u'screen', 0.037769038]
+[u'tennis_ball', 0.31505066, u'jellyfish', 0.13609616, u'coil', 0.08435934, u'lemon', 0.061353914, u'web_site', 0.025660845]
+[u'radio_telescope', 0.24860533, u'stupa', 0.2131516, u'grand_piano', 0.08344733, u'suspension_bridge', 0.048430584, u'lampshade', 0.026647748]
+[u'crib', 0.2392323, u'chime', 0.081216045, u'plate_rack', 0.079527311, u'cradle', 0.055828657, u'coil', 0.046750177]
+[u'coil', 0.26244795, u'spotlight', 0.054632198, u'tray', 0.050132725, u'broccoli', 0.040988002, u'jellyfish', 0.032530181]
+[u'bell_cote', 0.2062076, u'lighter', 0.11427782, u'spotlight', 0.055159867, u'whistle', 0.054936983, u'syringe', 0.053126331]
+[u'matchstick', 0.11223586, u'panpipe', 0.078196272, u'binder', 0.064337596, u'nail', 0.046100855, u'Band_Aid', 0.042498074]

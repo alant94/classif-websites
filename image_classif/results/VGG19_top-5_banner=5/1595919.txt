@@ -1,0 +1,7 @@
+[u'hair_spray', 0.23760359, u'book_jacket', 0.18829882, u'wig', 0.049258269, u'mask', 0.044161126, u'comic_book', 0.043870732]
+[u'washer', 0.13998638, u'car_mirror', 0.031951763, u'neck_brace', 0.031858064, u'hourglass', 0.030039528, u'dishwasher', 0.02992755]
+[u'sunglass', 0.14151105, u'sunglasses', 0.12023421, u'cowboy_hat', 0.043286461, u'bathing_cap', 0.042938631, u'gasmask', 0.0395776]
+[u'buckeye', 0.69996142, u'coral_reef', 0.076381236, u'bee', 0.04326658, u'cardoon', 0.019902902, u'greenhouse', 0.011401911]
+[u'shield', 0.095764615, u'birdhouse', 0.057838857, u'academic_gown', 0.036254019, u'cello', 0.032157578, u'swing', 0.025278725]
+[u'bow_tie', 0.090001225, u'chain_mail', 0.044131737, u'neck_brace', 0.036543794, u'bassoon', 0.025976341, u'military_uniform', 0.024475474]
+[u'book_jacket', 0.84748423, u'bathing_cap', 0.026578145, u'pickelhaube', 0.016506853, u'perfume', 0.0084783705, u'cellular_telephone', 0.0082171932]

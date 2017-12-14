@@ -1,0 +1,2 @@
+[u'chime', 0.30656713, u'screwdriver', 0.12245921, u"carpenter's_kit", 0.10219386, u'hook', 0.068019524, u'whistle', 0.031877559]
+[u'nail', 0.15531409, u'slide_rule', 0.10973091, u'rule', 0.075385056, u'screwdriver', 0.063185744, u'hammer', 0.032039583]

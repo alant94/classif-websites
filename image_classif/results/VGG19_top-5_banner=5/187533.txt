@@ -1,0 +1,5 @@
+[u'boathouse', 0.55113453, u'patio', 0.14201927, u'lakeside', 0.044029854, u'bell_cote', 0.027435159, u'greenhouse', 0.024018081]
+[u'boathouse', 0.30677956, u'crate', 0.17033023, u'container_ship', 0.16430531, u'library', 0.067754753, u'dam', 0.040607728]
+[u'cinema', 0.15915199, u'fountain', 0.14034589, u'planetarium', 0.062137954, u'flagpole', 0.053111888, u'boathouse', 0.043792598]
+[u'boathouse', 0.34110975, u'patio', 0.19471952, u'tile_roof', 0.083859392, u'yurt', 0.047577158, u'restaurant', 0.04271986]
+[u'sliding_door', 0.40548527, u'patio', 0.16785841, u'mobile_home', 0.15183961, u'window_screen', 0.12656404, u'barbershop', 0.0085043618]

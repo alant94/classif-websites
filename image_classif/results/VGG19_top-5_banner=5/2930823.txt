@@ -1,0 +1,4 @@
+[u'flute', 0.18941005, u"potter's_wheel", 0.073725827, u'paddle', 0.050642706, u'park_bench', 0.047104068, u'canoe', 0.034103531]
+[u'slide_rule', 0.21609288, u'panpipe', 0.1730437, u'drumstick', 0.078933246, u'flute', 0.074159972, u'rule', 0.044386279]
+[u'paintbrush', 0.097171627, u'fountain', 0.091756262, u'rubber_eraser', 0.082425162, u'matchstick', 0.082032211, u'picket_fence', 0.059152137]
+[u'paintbrush', 0.34666076, u'ballpoint', 0.14828582, u'rubber_eraser', 0.091462247, u'pencil_box', 0.070569664, u'matchstick', 0.043102592]

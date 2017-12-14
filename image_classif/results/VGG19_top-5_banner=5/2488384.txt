@@ -1,0 +1,5 @@
+[u'picket_fence', 0.68768686, u'matchstick', 0.11528614, u'chime', 0.036116499, u'marimba', 0.016225222, u'syringe', 0.01217885]
+[u'iron', 0.17665625, u'airship', 0.14035444, u'hair_slide', 0.047764897, u'ski', 0.044083185, u'nematode', 0.042446289]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'hair_spray', 0.38727549, u'sunscreen', 0.21199302, u'lotion', 0.10422841, u'lighter', 0.032971669, u'water_bottle', 0.031870738]

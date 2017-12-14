@@ -1,0 +1,3 @@
+[u'window_shade', 0.21508497, u'menu', 0.14843757, u'bakery', 0.095146559, u'tray', 0.07687474, u'book_jacket', 0.050117727]
+[u'picket_fence', 0.97917926, u'worm_fence', 0.015254743, u'flagpole', 0.00037363236, u'palace', 0.00034305843, u'park_bench', 0.00030221418]
+[u'puck', 0.35157546, u'gong', 0.27642676, u'chime', 0.091954261, u'frying_pan', 0.044316437, u'face_powder', 0.031555727]

@@ -1,0 +1,2 @@
+[u'stage', 0.52487737, u'theater_curtain', 0.35669217, u'spotlight', 0.083626963, u'fountain', 0.011721144, u'electric_guitar', 0.0025551685]
+[u'stage', 0.41081375, u'groom', 0.086476386, u'marimba', 0.051581599, u'projector', 0.036525272, u'home_theater', 0.035662431]

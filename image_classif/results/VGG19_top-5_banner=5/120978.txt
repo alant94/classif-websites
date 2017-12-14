@@ -1,0 +1,7 @@
+[u'web_site', 0.23532251, u'wall_clock', 0.089983948, u'shield', 0.044843949, u'comic_book', 0.039199181, u'airship', 0.027089523]
+[u'web_site', 0.97981745, u'monitor', 0.009088737, u'screen', 0.0054932851, u'hand-held_computer', 0.0013599752, u'notebook', 0.0011101827]
+[u'envelope', 0.63386023, u'carton', 0.15776463, u'candle', 0.048891105, u'rubber_eraser', 0.032628469, u'pill_bottle', 0.022166705]
+[u'odometer', 0.14888188, u'web_site', 0.14655705, u'analog_clock', 0.05838177, u'magnetic_compass', 0.037212625, u'envelope', 0.027834896]
+[u'web_site', 0.54073054, u'envelope', 0.3299382, u'washer', 0.01695713, u'notebook', 0.012206183, u'refrigerator', 0.011938338]
+[u'web_site', 0.12036364, u'envelope', 0.089978054, u'rule', 0.023840275, u'nematode', 0.017699363, u'digital_clock', 0.017587444]
+[u'web_site', 0.15794505, u'radio', 0.098674387, u'notebook', 0.092150062, u'home_theater', 0.081268497, u'screen', 0.080867864]

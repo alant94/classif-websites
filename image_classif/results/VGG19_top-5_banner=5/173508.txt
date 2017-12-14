@@ -1,0 +1,2 @@
+[u'rule', 0.072010368, u'web_site', 0.0643209, u'cleaver', 0.0484199, u'screwdriver', 0.04143367, u'nail', 0.040801182]
+[u'digital_clock', 0.22904904, u'digital_watch', 0.05528, u'quilt', 0.050235588, u'Band_Aid', 0.041515134, u'maze', 0.037637245]

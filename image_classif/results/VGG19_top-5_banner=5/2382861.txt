@@ -1,0 +1,3 @@
+[u'panpipe', 0.53391898, u'pencil_sharpener', 0.29665986, u'stupa', 0.053697184, u'matchstick', 0.053212684, u'wall_clock', 0.013923028]
+[u'pencil_sharpener', 0.52426887, u'panpipe', 0.27702299, u'matchstick', 0.092679024, u'wall_clock', 0.020132652, u'stupa', 0.017718187]
+[u'pick', 0.73615772, u'tennis_ball', 0.12879637, u'maraca', 0.033514313, u'balloon', 0.022351868, u'ping-pong_ball', 0.012656874]

@@ -1,0 +1,2 @@
+[u'swing', 0.84167445, u'park_bench', 0.074038506, u'shopping_cart', 0.017759362, u'shovel', 0.014260443, u'wreck', 0.014143128]
+[u'barn_spider', 0.18441868, u'triceratops', 0.15533371, u'walking_stick', 0.12406709, u'fountain', 0.096823439, u'garden_spider', 0.050780427]

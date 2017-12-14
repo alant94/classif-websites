@@ -1,0 +1,6 @@
+[u'wooden_spoon', 0.052087057, u'rifle', 0.045940068, u'menu', 0.033838999, u'tobacco_shop', 0.031658992, u'packet', 0.030485641]
+[u'barn', 0.35696673, u'church', 0.31110588, u'boathouse', 0.1329819, u'worm_fence', 0.041591138, u'tile_roof', 0.020939542]
+[u'barn', 0.24051161, u'worm_fence', 0.16759668, u'pole', 0.078587621, u'hay', 0.07269384, u'rapeseed', 0.033514831]
+[u"carpenter's_kit", 0.13103478, u'hook', 0.089899361, u'plow', 0.065027989, u'crane', 0.059462819, u'power_drill', 0.041206095]
+[u'tobacco_shop', 0.13138767, u'buckle', 0.073721446, u'scabbard', 0.065554835, u'panpipe', 0.049562093, u"carpenter's_kit", 0.049520914]
+[u'tobacco_shop', 0.11222024, u'packet', 0.093795806, u'doormat', 0.078344069, u'book_jacket', 0.049326427, u'quill', 0.032365695]

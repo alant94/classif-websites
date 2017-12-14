@@ -1,0 +1,7 @@
+[u'grocery_store', 0.11121282, u'shoe_shop', 0.089164265, u'web_site', 0.063710824, u'tobacco_shop', 0.055642061, u'scoreboard', 0.051178463]
+[u'screwdriver', 0.11793853, u'hook', 0.11452561, u"carpenter's_kit", 0.094495885, u'nail', 0.048649851, u'safety_pin', 0.037356671]
+[u'mobile_home', 0.57365823, u'picket_fence', 0.17347173, u'church', 0.13396178, u'boathouse', 0.04473152, u'beacon', 0.013711852]
+[u'dining_table', 0.34267834, u'china_cabinet', 0.087506019, u'grand_piano', 0.070263393, u'organ', 0.067561463, u'four-poster', 0.050225515]
+[u'vending_machine', 0.49546424, u'cash_machine', 0.4212918, u'gas_pump', 0.010372978, u'monitor', 0.0094221141, u'screen', 0.0053992267]
+[u'book_jacket', 0.31818166, u'menu', 0.31081811, u'packet', 0.1392753, u'envelope', 0.099548578, u'binder', 0.057502095]
+[u'wall_clock', 0.11085393, u'analog_clock', 0.07416746, u'book_jacket', 0.045174647, u'web_site', 0.036250934, u'envelope', 0.032579966]

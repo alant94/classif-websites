@@ -1,0 +1,7 @@
+[u'pole', 0.067211807, u'lakeside', 0.052329782, u'hay', 0.048374116, u'crane', 0.045507587, u'seashore', 0.041662771]
+[u'church', 0.31351575, u'castle', 0.17947553, u'barn', 0.11974989, u'monastery', 0.065642118, u'fountain', 0.054491315]
+[u'web_site', 0.56661057, u'analog_clock', 0.078751847, u'magnetic_compass', 0.056931961, u'envelope', 0.03022952, u'jersey', 0.02301578]
+[u'wall_clock', 0.28876054, u'analog_clock', 0.1788334, u'tray', 0.083746657, u'toilet_seat', 0.024901202, u'laptop', 0.022594536]
+[u'wine_bottle', 0.19359776, u'chime', 0.13376072, u'spatula', 0.11305205, u'ladle', 0.064324692, u'organ', 0.055860367]
+[u'ear', 0.24711083, u'packet', 0.18473448, u'corn', 0.18144132, u'honeycomb', 0.056274969, u'menu', 0.023351202]
+[u'rapeseed', 0.5177235, u'picket_fence', 0.2829223, u'corn', 0.017971735, u'lakeside', 0.016674183, u'worm_fence', 0.014553206]

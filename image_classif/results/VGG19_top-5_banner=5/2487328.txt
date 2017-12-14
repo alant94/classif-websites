@@ -1,0 +1,3 @@
+[u'container_ship', 0.6839174, u'maze', 0.0593968, u'envelope', 0.036146946, u'stupa', 0.027138393, u'jigsaw_puzzle', 0.018164752]
+[u'hyena', 0.27487588, u'baboon', 0.13880356, u'wallaby', 0.11213577, u'brown_bear', 0.049109221, u'cougar', 0.048659947]
+[u'bottlecap', 0.40481359, u'baseball', 0.34680632, u'rugby_ball', 0.055507217, u'maraca', 0.033243574, u'basketball', 0.031792868]

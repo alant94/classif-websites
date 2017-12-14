@@ -1,0 +1,1 @@
+[u'microphone', 0.23582141, u'tripod', 0.059879053, u'stopwatch', 0.05217427, u'whistle', 0.051475011, u'bolo_tie', 0.051380645]

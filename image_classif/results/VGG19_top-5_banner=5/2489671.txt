@@ -1,0 +1,7 @@
+[u'lumbermill', 0.3047266, u'chain_saw', 0.20608513, u'tank', 0.040088918, u'cannon', 0.033453964, u'caldron', 0.031382632]
+[u'book_jacket', 0.30203056, u'butcher_shop', 0.25294992, u'comic_book', 0.038983081, u'fountain', 0.021247413, u'cleaver', 0.019773345]
+[u'book_jacket', 0.30092698, u'envelope', 0.14851588, u'web_site', 0.076888636, u'quill', 0.064016938, u'menu', 0.063159585]
+[u'monastery', 0.25209299, u'patio', 0.095522329, u'mosque', 0.06050941, u'palace', 0.05727512, u'fountain', 0.036718301]
+[u'lacewing', 0.091204569, u'quill', 0.075619429, u'ear', 0.037778806, u'nematode', 0.028154967, u'hook', 0.026488837]
+[u'church', 0.18609129, u'bell_cote', 0.16905358, u'brass', 0.065690652, u'altar', 0.043667316, u'book_jacket', 0.038983423]
+[u'gar', 0.34965697, u'reel', 0.25873348, u'barracouta', 0.10800427, u'pole', 0.070909671, u'schooner', 0.032679304]

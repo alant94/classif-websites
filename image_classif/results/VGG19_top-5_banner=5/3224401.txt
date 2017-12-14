@@ -1,0 +1,7 @@
+[u'web_site', 0.18265925, u'book_jacket', 0.07596039, u'digital_clock', 0.062334131, u'jersey', 0.025553541, u'stopwatch', 0.024585584]
+[u'digital_clock', 0.23868065, u'analog_clock', 0.040712379, u'laptop', 0.036080055, u'jigsaw_puzzle', 0.036079526, u'web_site', 0.035553187]
+[u'web_site', 0.29271567, u'digital_clock', 0.090216786, u'analog_clock', 0.024246568, u'envelope', 0.022322597, u'stopwatch', 0.018638719]
+[u'web_site', 0.20506231, u'digital_clock', 0.19913864, u'stopwatch', 0.049450189, u'scoreboard', 0.040207263, u'analog_clock', 0.016669262]
+[u'digital_clock', 0.24136387, u'web_site', 0.098722339, u'stopwatch', 0.073170528, u'laptop', 0.023497077, u'iPod', 0.023463242]
+[u'web_site', 0.20843707, u'digital_clock', 0.17573659, u'crossword_puzzle', 0.034257576, u'stopwatch', 0.033401094, u'envelope', 0.025839921]
+[u'digital_clock', 0.24567497, u'web_site', 0.10574978, u'stopwatch', 0.062500879, u'odometer', 0.048556115, u'scoreboard', 0.039683785]

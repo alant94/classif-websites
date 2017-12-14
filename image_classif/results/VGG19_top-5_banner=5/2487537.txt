@@ -1,0 +1,2 @@
+[u'chain', 0.45824704, u'hook', 0.23486334, u'matchstick', 0.047019593, u'knot', 0.034671031, u'coral_fungus', 0.032783218]
+[u'swab', 0.17014156, u'picket_fence', 0.10826393, u'worm_fence', 0.096368, u'chain', 0.055538755, u'padlock', 0.050868332]

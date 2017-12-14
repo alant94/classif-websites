@@ -1,0 +1,1 @@
+[u'perfume', 0.57310694, u'lotion', 0.14259095, u'hair_spray', 0.075339049, u'lipstick', 0.063385114, u'face_powder', 0.062195189]

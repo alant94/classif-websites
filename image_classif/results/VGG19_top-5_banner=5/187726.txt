@@ -1,0 +1,6 @@
+[u'wall_clock', 0.15933399, u'screw', 0.12232614, u'starfish', 0.099519946, u'analog_clock', 0.052640174, u'matchstick', 0.048052814]
+[u'gas_pump', 0.092431247, u'traffic_light', 0.086621001, u'digital_watch', 0.07360208, u'fire_engine', 0.056370337, u'iPod', 0.048547201]
+[u'loudspeaker', 0.044791501, u'nematode', 0.039010096, u'birdhouse', 0.037239388, u'matchstick', 0.03237899, u'ski_mask', 0.022157801]
+[u'television', 0.10799861, u'laptop', 0.095910408, u'screen', 0.089884125, u'monitor', 0.077006742, u'notebook', 0.053130697]
+[u'matchstick', 0.049966909, u'nematode', 0.047413342, u'digital_clock', 0.021323478, u'lighter', 0.019247236, u'spotlight', 0.017997237]
+[u'street_sign', 0.097217686, u'traffic_light', 0.053198069, u'scoreboard', 0.050754737, u'balloon', 0.038775291, u'flagpole', 0.026898513]

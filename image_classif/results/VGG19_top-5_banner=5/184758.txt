@@ -1,0 +1,6 @@
+[u'book_jacket', 0.39147985, u'comic_book', 0.030234516, u'red_wolf', 0.026262354, u'lion', 0.022534287, u'cougar', 0.020156892]
+[u'book_jacket', 0.13335675, u'street_sign', 0.082650192, u'carton', 0.07808315, u'comic_book', 0.050393555, u'menu', 0.042375732]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'street_sign', 0.22261217, u'cinema', 0.18568838, u'scoreboard', 0.1148707, u'barbershop', 0.10911987, u'flagpole', 0.06481418]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'street_sign', 0.1174043, u'vending_machine', 0.10440298, u'scoreboard', 0.057604726, u'book_jacket', 0.057116121, u'carton', 0.038373534]

@@ -1,0 +1,6 @@
+[u'digital_clock', 0.12007584, u'nipple', 0.077047884, u'Band_Aid', 0.052897401, u'hair_spray', 0.049451571, u'sunscreen', 0.035052989]
+[u'traffic_light', 0.20181219, u'street_sign', 0.075552292, u'rugby_ball', 0.050659429, u'puck', 0.043927144, u'matchstick', 0.041393712]
+[u'street_sign', 0.43113229, u'iPod', 0.098964766, u'digital_clock', 0.046459999, u'coffee_mug', 0.03322497, u'switch', 0.019858126]
+[u'web_site', 0.49148586, u'monitor', 0.11905534, u'television', 0.080090366, u'screen', 0.036032535, u'scoreboard', 0.025996663]
+[u'triumphal_arch', 0.13361509, u'obelisk', 0.072859481, u'aircraft_carrier', 0.06577304, u'streetcar', 0.052994166, u'bell_cote', 0.049829129]
+[u'traffic_light', 0.36005151, u'cab', 0.2627241, u'school_bus', 0.073259555, u'forklift', 0.068794146, u'racer', 0.029513959]

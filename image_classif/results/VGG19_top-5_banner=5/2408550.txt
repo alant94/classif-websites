@@ -1,0 +1,5 @@
+[u'envelope', 0.11459484, u'face_powder', 0.08945208, u'hamper', 0.078766793, u'perfume', 0.059681088, u'binder', 0.051212311]
+[u'buckle', 0.22471929, u'wallet', 0.11615822, u'chest', 0.071737073, u'doormat', 0.056925599, u'face_powder', 0.046381693]
+[u'pinwheel', 0.24350254, u'hair_slide', 0.097055018, u'bonnet', 0.086759776, u'spindle', 0.073306821, u'necklace', 0.066902749]
+[u'puck', 0.61342782, u'bottlecap', 0.21867687, u'book_jacket', 0.019685367, u'chocolate_sauce', 0.013045812, u'pop_bottle', 0.012365033]
+[u'rocking_chair', 0.9474175, u'guillotine', 0.016399782, u'hourglass', 0.0094311833, u'throne', 0.0050031492, u'cradle', 0.0048726425]

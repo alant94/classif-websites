@@ -1,0 +1,6 @@
+[u'hair_slide', 0.26174158, u"carpenter's_kit", 0.14577299, u'screwdriver', 0.13919084, u'safety_pin', 0.081272498, u'spatula', 0.057931483]
+[u'picket_fence', 0.43271181, u'rule', 0.20595829, u'nail', 0.10161244, u'matchstick', 0.041177988, u'slide_rule', 0.035965916]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'Petri_dish', 0.18344799, u'maze', 0.084632486, u'analog_clock', 0.071141392, u'nematode', 0.060611665, u'buckle', 0.054110371]
+[u'piggy_bank', 0.37637371, u'caldron', 0.040308017, u'pencil_sharpener', 0.037004806, u'iron', 0.032091271, u'snowmobile', 0.030266942]
+[u'crossword_puzzle', 0.32936138, u'digital_clock', 0.25526211, u'rule', 0.04689699, u'picket_fence', 0.032855794, u'web_site', 0.024799578]

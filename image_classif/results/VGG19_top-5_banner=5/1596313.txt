@@ -1,0 +1,5 @@
+[u'toilet_tissue', 0.047596637, u'ballplayer', 0.041488815, u'running_shoe', 0.040289652, u'soccer_ball', 0.032321062, u'shovel', 0.030714322]
+[u'puck', 0.24999553, u'hay', 0.14889398, u'face_powder', 0.075465769, u'balloon', 0.072413146, u'radio_telescope', 0.055588372]
+[u'bikini', 0.16114232, u'maillot', 0.073369972, u'sarong', 0.039639059, u'maillot', 0.036536213, u'sunscreen', 0.033550113]
+[u'purse', 0.21436714, u'wallet', 0.18212719, u'mousetrap', 0.066589214, u'binder', 0.033370931, u'rubber_eraser', 0.0315735]
+[u'lotion', 0.1521441, u'Band_Aid', 0.11406222, u'toilet_tissue', 0.0561729, u'packet', 0.039340112, u'sunscreen', 0.039070878]

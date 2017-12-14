@@ -1,0 +1,2 @@
+[u'barbell', 0.59968525, u'aircraft_carrier', 0.11976149, u'missile', 0.052168556, u'projectile', 0.036527, u'warplane', 0.033294868]
+[u'digital_clock', 0.1806024, u'whistle', 0.17262909, u'spotlight', 0.10030051, u'balloon', 0.087441042, u'bubble', 0.039079245]

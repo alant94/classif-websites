@@ -1,0 +1,5 @@
+[u'swing', 0.2085412, u'crane', 0.1273472, u'guillotine', 0.064507686, u'bow', 0.054421511, u'hook', 0.052950274]
+[u'web_site', 0.055762269, u'hook', 0.032238673, u'sunscreen', 0.024261616, u'chain_saw', 0.023682052, u'pill_bottle', 0.021951322]
+[u'street_sign', 0.24974272, u'barbershop', 0.10573895, u'bakery', 0.077758648, u'comic_book', 0.052425504, u'confectionery', 0.046459716]
+[u'church', 0.81572783, u'bell_cote', 0.12954721, u'monastery', 0.029538928, u'castle', 0.0084934868, u'palace', 0.0022650775]
+[u'analog_clock', 0.71420336, u'wall_clock', 0.26440045, u'barometer', 0.0095396396, u'odometer', 0.0023538813, u'stopwatch', 0.0022474539]

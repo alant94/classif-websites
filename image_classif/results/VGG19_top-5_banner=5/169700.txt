@@ -1,0 +1,4 @@
+[u'ping-pong_ball', 0.1442845, u'scoreboard', 0.080922566, u'basketball', 0.067728825, u'volleyball', 0.048210397, u'unicycle', 0.036205981]
+[u'medicine_chest', 0.17267816, u'window_screen', 0.086787224, u'screen', 0.073709212, u'monitor', 0.050540626, u'laptop', 0.042468939]
+[u'shower_cap', 0.47660318, u'bathing_cap', 0.16117474, u'neck_brace', 0.062489729, u'sunscreen', 0.031529091, u'bow_tie', 0.024064954]
+[u'book_jacket', 0.39965546, u'packet', 0.18589729, u'carton', 0.085500881, u'cash_machine', 0.031423736, u'toilet_tissue', 0.02057611]

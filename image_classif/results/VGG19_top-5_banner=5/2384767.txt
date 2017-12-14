@@ -1,0 +1,6 @@
+[u'quill', 0.52492678, u'wine_bottle', 0.19001563, u'perfume', 0.077056542, u'hourglass', 0.061570089, u'red_wine', 0.030410476]
+[u'street_sign', 0.29117179, u'digital_clock', 0.20984422, u'scoreboard', 0.059810612, u'book_jacket', 0.050599422, u'traffic_light', 0.049922813]
+[u'screwdriver', 0.16109309, u'wine_bottle', 0.1103745, u'paintbrush', 0.10802043, u'fountain_pen', 0.059701044, u'red_wine', 0.058721788]
+[u'jean', 0.093648881, u'groom', 0.063094825, u'croquet_ball', 0.048678454, u'barrow', 0.036082212, u'sarong', 0.03539991]
+[u'wine_bottle', 0.71246338, u'paintbrush', 0.15304518, u'fountain_pen', 0.016458206, u'projectile', 0.016189469, u'red_wine', 0.01411629]
+[u'wine_bottle', 0.88279903, u'projectile', 0.034622755, u'fountain_pen', 0.031246822, u'paintbrush', 0.014288862, u'rifle', 0.0061326479]

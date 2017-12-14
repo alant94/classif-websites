@@ -1,0 +1,6 @@
+[u'torch', 0.073878936, u'drilling_platform', 0.055066291, u'stretcher', 0.05218596, u'fireboat', 0.038028892, u'bobsled', 0.03482287]
+[u'golden_retriever', 0.37281805, u'bloodhound', 0.11258683, u'Labrador_retriever', 0.08446867, u'redbone', 0.074528918, u'Chesapeake_Bay_retriever', 0.059264507]
+[u'traffic_light', 0.30037189, u'street_sign', 0.10658389, u'vulture', 0.046339031, u'balloon', 0.043241795, u'crane', 0.037284117]
+[u'maze', 0.2331496, u'bell_cote', 0.12524955, u'analog_clock', 0.11366738, u'traffic_light', 0.070089713, u'digital_clock', 0.067040421]
+[u'ski', 0.11488467, u'shovel', 0.068520449, u'Irish_wolfhound', 0.060938932, u'dogsled', 0.056644723, u'alp', 0.052589335]
+[u'hair_slide', 0.22345467, u'necklace', 0.21328416, u'teddy', 0.067910358, u'sandal', 0.052167434, u'admiral', 0.043485034]

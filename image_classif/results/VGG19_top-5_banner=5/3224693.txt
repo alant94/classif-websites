@@ -1,0 +1,1 @@
+[u'church', 0.48232639, u'barn', 0.044327624, u'monastery', 0.039562982, u'boathouse', 0.039528098, u'picket_fence', 0.028880829]

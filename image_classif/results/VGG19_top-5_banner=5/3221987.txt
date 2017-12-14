@@ -1,0 +1,1 @@
+[u'screwdriver', 0.1986825, u'paintbrush', 0.17268191, u'matchstick', 0.10384918, u'wool', 0.062114459, u'hook', 0.055662531]

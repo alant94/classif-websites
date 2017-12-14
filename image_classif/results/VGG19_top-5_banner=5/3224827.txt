@@ -1,0 +1,6 @@
+[u'groom', 0.53522909, u'suit', 0.36587173, u'Windsor_tie', 0.03205952, u'gown', 0.0079621682, u'notebook', 0.0070706927]
+[u'book_jacket', 0.47756845, u'cash_machine', 0.040574811, u'jersey', 0.03184573, u'street_sign', 0.01184369, u'gas_pump', 0.010935335]
+[u'oboe', 0.088401467, u'flute', 0.07663504, u'bassoon', 0.039282441, u'clog', 0.03857211, u'maraca', 0.036495525]
+[u'wooden_spoon', 0.48296899, u'clog', 0.087408736, u'ear', 0.050005645, u'corn', 0.048503939, u'Windsor_tie', 0.043466751]
+[u'cash_machine', 0.44569266, u'screen', 0.14156432, u'television', 0.088463739, u'cellular_telephone', 0.087593429, u'iPod', 0.085911512]
+[u'screwdriver', 0.16105953, u'syringe', 0.062122382, u'chime', 0.060963545, u"carpenter's_kit", 0.044871543, u'matchstick', 0.042301428]

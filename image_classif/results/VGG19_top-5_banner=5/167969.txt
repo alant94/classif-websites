@@ -1,0 +1,3 @@
+[u'book_jacket', 0.3035329, u'web_site', 0.25805131, u'binder', 0.10470647, u'envelope', 0.063734539, u'screen', 0.037124813]
+[u'screwdriver', 0.25927067, u"carpenter's_kit", 0.06282182, u'ski', 0.042294029, u'web_site', 0.033236209, u'book_jacket', 0.026805609]
+[u'web_site', 0.52387565, u'packet', 0.2758086, u'menu', 0.075568594, u'safety_pin', 0.02054468, u'corn', 0.013715152]

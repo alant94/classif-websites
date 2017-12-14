@@ -1,0 +1,8 @@
+[u'comic_book', 0.47839954, u'book_jacket', 0.1516843, u'web_site', 0.067546584, u'jersey', 0.016784301, u'menu', 0.015640475]
+[u'patio', 0.45856559, u'tile_roof', 0.15490462, u'picket_fence', 0.088106833, u'monastery', 0.058565326, u'palace', 0.031224951]
+[u'boathouse', 0.6621294, u'picket_fence', 0.098937623, u'church', 0.035734277, u'lakeside', 0.034356307, u'birdhouse', 0.029587712]
+[u'mobile_home', 0.15180585, u'golfcart', 0.12195639, u'picket_fence', 0.058517493, u'park_bench', 0.043781329, u'greenhouse', 0.038725778]
+[u'altar', 0.18623975, u'fountain', 0.11288345, u'palace', 0.10183037, u'greenhouse', 0.079705536, u'church', 0.057517704]
+[u'patio', 0.92706603, u'greenhouse', 0.016534289, u'mobile_home', 0.014017301, u'boathouse', 0.010097265, u'pot', 0.004176355]
+[u'patio', 0.69616824, u'church', 0.056530513, u'palace', 0.050548807, u'altar', 0.042059615, u'picket_fence', 0.033340313]
+[u'patio', 0.6502021, u'stone_wall', 0.078299046, u'lumbermill', 0.044286449, u'maze', 0.041534722, u'boathouse', 0.023893801]

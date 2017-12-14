@@ -1,0 +1,5 @@
+[u'oxcart', 0.46042553, u'horse_cart', 0.39314285, u'thresher', 0.062435422, u'garbage_truck', 0.019409055, u'ox', 0.012170307]
+[u'red_wine', 0.98922426, u'goblet', 0.0065005212, u'wine_bottle', 0.0022415591, u'cocktail_shaker', 0.00044329892, u'pick', 0.00044274543]
+[u'book_jacket', 0.30580363, u'envelope', 0.22296987, u'web_site', 0.14100982, u'menu', 0.075839035, u'jersey', 0.038463309]
+[u'wine_bottle', 0.23301823, u'beer_bottle', 0.19761389, u'worm_fence', 0.049552109, u'picket_fence', 0.045645799, u'rifle', 0.043543126]
+[u'alp', 0.15504876, u'maze', 0.13872638, u'parachute', 0.13362305, u'apiary', 0.049330201, u'picket_fence', 0.016612465]

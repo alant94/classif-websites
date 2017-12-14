@@ -1,0 +1,5 @@
+[u'wooden_spoon', 0.25493017, u'shield', 0.13712285, u'toilet_seat', 0.10087382, u'gong', 0.079180993, u'paddle', 0.055859908]
+[u'butcher_shop', 0.63680613, u'gong', 0.08655753, u'shower_curtain', 0.061058775, u'altar', 0.025279669, u'wardrobe', 0.015274079]
+[u'water_buffalo', 0.73976654, u'ox', 0.11606666, u'hartebeest', 0.060953379, u'bison', 0.026899751, u'ibex', 0.021541258]
+[u'shoe_shop', 0.37797844, u'butcher_shop', 0.078683279, u'violin', 0.059815317, u'cowboy_boot', 0.043309145, u'rifle', 0.037166961]
+[u'digital_clock', 0.09760613, u'web_site', 0.091632813, u'street_sign', 0.033801008, u'cash_machine', 0.021381974, u'scoreboard', 0.016527247]

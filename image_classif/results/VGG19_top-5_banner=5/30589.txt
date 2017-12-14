@@ -1,0 +1,1 @@
+[u'lacewing', 0.45361835, u'leafhopper', 0.38651863, u'cucumber', 0.042824596, u'cabbage_butterfly', 0.025775293, u'mantis', 0.016435117]

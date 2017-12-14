@@ -1,0 +1,1 @@
+[u'monitor', 0.15244666, u'toyshop', 0.079280473, u'television', 0.069020063, u'desktop_computer', 0.053498909, u'desk', 0.050616398]

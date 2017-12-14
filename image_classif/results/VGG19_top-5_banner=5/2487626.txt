@@ -1,0 +1,6 @@
+[u'window_shade', 0.24153967, u'chime', 0.11180963, u'crib', 0.095682919, u'binder', 0.080976367, u'shower_curtain', 0.063706182]
+[u'accordion', 0.17975028, u'suit', 0.17178705, u'lab_coat', 0.10831601, u'Windsor_tie', 0.049859233, u'military_uniform', 0.044889532]
+[u'toilet_seat', 0.090783618, u'television', 0.081145495, u'spotlight', 0.064312078, u'envelope', 0.062554076, u'screen', 0.055307351]
+[u'ambulance', 0.29984325, u'washer', 0.20563927, u'tow_truck', 0.10645569, u'police_van', 0.076066084, u'jeep', 0.071952909]
+[u'crate', 0.18436439, u'library', 0.11558285, u'crane', 0.10705122, u'mosque', 0.048643336, u'prison', 0.042193681]
+[u'sliding_door', 0.31420544, u'window_shade', 0.10523299, u'medicine_chest', 0.073085405, u'window_screen', 0.069092311, u'shoji', 0.06580133]

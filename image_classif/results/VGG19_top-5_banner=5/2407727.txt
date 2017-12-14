@@ -1,0 +1,8 @@
+[u'panpipe', 0.26611477, u'envelope', 0.17444986, u'matchstick', 0.054825101, u'pill_bottle', 0.032961003, u'broom', 0.027825108]
+[u'panpipe', 0.14672218, u'envelope', 0.097152494, u'web_site', 0.045058094, u'stupa', 0.021324724, u'matchstick', 0.021266347]
+[u'panpipe', 0.16655244, u'container_ship', 0.14207365, u'envelope', 0.13031301, u'matchstick', 0.10988212, u'carton', 0.1071641]
+[u'whistle', 0.071097679, u'lipstick', 0.065238915, u'perfume', 0.05799371, u'rule', 0.051831122, u'magnetic_compass', 0.050666973]
+[u'hair_slide', 0.40211862, u'safety_pin', 0.14249893, u'nail', 0.089732923, u'pick', 0.071364559, u'bolo_tie', 0.054965008]
+[u'envelope', 0.1821772, u'panpipe', 0.070060529, u'matchstick', 0.055904604, u'container_ship', 0.054187264, u'carton', 0.044098407]
+[u'wall_clock', 0.057711288, u'analog_clock', 0.043619759, u'book_jacket', 0.028326213, u'web_site', 0.024800103, u'street_sign', 0.02150546]
+[u'china_cabinet', 0.52617353, u'wall_clock', 0.32886362, u'barometer', 0.05888642, u'hourglass', 0.030095408, u'medicine_chest', 0.023635225]

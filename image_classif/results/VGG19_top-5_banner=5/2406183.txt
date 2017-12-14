@@ -1,0 +1,1 @@
+[u'mountain_tent', 0.8726182, u'backpack', 0.040487178, u'canoe', 0.014469462, u'lawn_mower', 0.0059661889, u'balloon', 0.0057390402]

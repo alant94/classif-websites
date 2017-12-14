@@ -1,0 +1,2 @@
+[u'bolo_tie', 0.24622288, u'puck', 0.19225773, u'street_sign', 0.12862061, u'gas_pump', 0.096594095, u'scoreboard', 0.046746217]
+[u'patio', 0.38396311, u'church', 0.11661868, u'boathouse', 0.097135812, u'monastery', 0.092639208, u'tile_roof', 0.084579661]

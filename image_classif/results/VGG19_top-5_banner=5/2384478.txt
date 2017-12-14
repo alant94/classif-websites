@@ -1,0 +1,2 @@
+[u'book_jacket', 0.84410316, u'comic_book', 0.075616837, u'web_site', 0.02474709, u'packet', 0.0065320609, u'tray', 0.0046972139]
+[u'castle', 0.77608687, u'valley', 0.057525698, u'cliff', 0.046227649, u'alp', 0.032330446, u'stone_wall', 0.021394629]

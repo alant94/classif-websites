@@ -1,0 +1,8 @@
+[u'monitor', 0.19439198, u'television', 0.13678606, u'screen', 0.12219201, u'home_theater', 0.063765883, u'desktop_computer', 0.025982399]
+[u'tape_player', 0.21099803, u'analog_clock', 0.1855011, u'electric_fan', 0.097098112, u'wall_clock', 0.050779525, u'radio', 0.048545651]
+[u'hook', 0.10324074, u'pedestal', 0.10047665, u'birdhouse', 0.070091277, u'nail', 0.039932523, u'table_lamp', 0.036546268]
+[u'magnetic_compass', 0.52302492, u'combination_lock', 0.45024231, u'switch', 0.0080003999, u'puck', 0.0049507287, u'reel', 0.0026511501]
+[u'pencil_sharpener', 0.28801367, u'pill_bottle', 0.058082011, u'switch', 0.048461836, u'buckeye', 0.041350078, u'hourglass', 0.031643908]
+[u'spotlight', 0.16963403, u'vase', 0.092757314, u'knee_pad', 0.091426782, u'wall_clock', 0.042740773, u'water_jug', 0.039352931]
+[u'chain_saw', 0.066472732, u'snowplow', 0.062899381, u'ambulance', 0.060816821, u'pop_bottle', 0.05511687, u'cab', 0.045399144]
+[u'medicine_chest', 0.12860827, u'china_cabinet', 0.099385224, u'water_bottle', 0.043599598, u'toilet_tissue', 0.04154823, u'plate_rack', 0.029329142]

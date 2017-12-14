@@ -1,0 +1,7 @@
+[u'menu', 0.356498, u'web_site', 0.23296979, u'envelope', 0.062756278, u'hand_blower', 0.057072215, u'oil_filter', 0.042333871]
+[u'envelope', 0.65362722, u'binder', 0.05906795, u'cash_machine', 0.032888718, u'monitor', 0.027882414, u'carton', 0.026870932]
+[u'ski', 0.21177539, u'ballpoint', 0.091326654, u'book_jacket', 0.069447018, u'web_site', 0.034127645, u'rubber_eraser', 0.032071609]
+[u'toilet_seat', 0.1700923, u'tray', 0.066336602, u'bucket', 0.037990201, u'shower_cap', 0.024953639, u'shower_curtain', 0.023847586]
+[u'container_ship', 0.24139529, u'envelope', 0.14521489, u'digital_clock', 0.060452562, u'carton', 0.035278287, u'binder', 0.024557745]
+[u'paintbrush', 0.24147823, u'swab', 0.16215947, u'shovel', 0.13847159, u'broom', 0.096002944, u'paddle', 0.061630026]
+[u'menu', 0.36736241, u'web_site', 0.31272039, u'envelope', 0.022181733, u'hand-held_computer', 0.020325016, u'cassette', 0.015369556]

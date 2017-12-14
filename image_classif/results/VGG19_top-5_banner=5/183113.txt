@@ -1,0 +1,5 @@
+[u'web_site', 0.032795705, u'space_shuttle', 0.02001466, u'screen', 0.017498933, u'radio_telescope', 0.016653728, u'spotlight', 0.014057436]
+[u'space_shuttle', 0.035753943, u'parachute', 0.026305817, u'beacon', 0.024889179, u'kite', 0.023958778, u'flagpole', 0.02135556]
+[u'parachute', 0.045443229, u'beacon', 0.038376894, u'flagpole', 0.026485134, u'balloon', 0.016758198, u'binder', 0.0165984]
+[u'parachute', 0.046238292, u'space_shuttle', 0.045721833, u'beacon', 0.030551504, u'airship', 0.022625219, u'kite', 0.019379552]
+[u'envelope', 0.07899224, u'binder', 0.046721999, u'wall_clock', 0.026137052, u'beacon', 0.022784417, u'analog_clock', 0.018714892]

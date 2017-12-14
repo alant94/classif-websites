@@ -1,0 +1,2 @@
+[u'maillot', 0.2501466, u'bikini', 0.11388613, u'maillot', 0.067072868, u'swimming_trunks', 0.063779928, u'bathing_cap', 0.061113015]
+[u'crib', 0.1083151, u'plate_rack', 0.084564134, u'lampshade', 0.074189931, u'cradle', 0.069200687, u'window_shade', 0.045421515]

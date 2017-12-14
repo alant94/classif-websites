@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.34106088, u'brassiere', 0.077195548, u'lab_coat', 0.032861918, u'gasmask', 0.031496279, u'shower_cap', 0.028301986]

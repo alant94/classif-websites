@@ -1,0 +1,1 @@
+[u'envelope', 0.22272749, u'web_site', 0.22240995, u'carton', 0.036031924, u'military_uniform', 0.029198831, u'photocopier', 0.02791076]

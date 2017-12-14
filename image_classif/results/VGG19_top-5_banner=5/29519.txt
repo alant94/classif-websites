@@ -1,0 +1,1 @@
+[u'Gila_monster', 0.079305448, u'banjo', 0.03139358, u'unicycle', 0.028576832, u'stretcher', 0.027601015, u'park_bench', 0.027507259]

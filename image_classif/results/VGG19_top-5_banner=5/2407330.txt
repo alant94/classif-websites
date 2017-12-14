@@ -1,0 +1,5 @@
+[u'hamper', 0.23897536, u'binder', 0.19319604, u'envelope', 0.097771876, u'packet', 0.056281567, u'carton', 0.0407129]
+[u'envelope', 0.042709704, u'jersey', 0.04080411, u'web_site', 0.037460599, u'puck', 0.037133083, u'pick', 0.03158325]
+[u'binder', 0.35131776, u'refrigerator', 0.091925241, u'ballpoint', 0.073759131, u'envelope', 0.06172888, u'comic_book', 0.041781392]
+[u'electric_guitar', 0.77883577, u'acoustic_guitar', 0.18561919, u'remote_control', 0.010408157, u'holster', 0.0028128449, u'hard_disc', 0.0020506314]
+[u'can_opener', 0.52398676, u'nipple', 0.079582959, u'plastic_bag', 0.044397354, u'paper_towel', 0.023817725, u'lotion', 0.019544676]

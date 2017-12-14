@@ -1,0 +1,2 @@
+[u'slot', 0.38247234, u'scoreboard', 0.30408266, u'screwdriver', 0.078411005, u"carpenter's_kit", 0.056511112, u'vending_machine', 0.027338196]
+[u'digital_clock', 0.96463078, u'traffic_light', 0.011118419, u'digital_watch', 0.0026892372, u'analog_clock', 0.0026347993, u'scoreboard', 0.002442573]

@@ -1,0 +1,2 @@
+[u'digital_clock', 0.040840421, u'hook', 0.034684394, u'street_sign', 0.033539306, u'web_site', 0.029796682, u'screw', 0.019658977]
+[u'hook', 0.30413148, u'street_sign', 0.090597942, u'analog_clock', 0.074029051, u'web_site', 0.02728943, u'wall_clock', 0.023055473]

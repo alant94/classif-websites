@@ -1,0 +1,4 @@
+[u'combination_lock', 0.11839629, u'lipstick', 0.07165008, u'perfume', 0.066566736, u'lens_cap', 0.064987838, u'remote_control', 0.055240154]
+[u'coffeepot', 0.10685892, u'espresso_maker', 0.10194419, u'teapot', 0.070701979, u'stove', 0.04744016, u'corkscrew', 0.042189945]
+[u'window_shade', 0.38994327, u'theater_curtain', 0.37991041, u'sliding_door', 0.10067545, u'shower_curtain', 0.038530197, u'radiator', 0.013701102]
+[u'lens_cap', 0.23083681, u'quill', 0.11261477, u'Loafer', 0.043694273, u'sandal', 0.034062508, u'rhinoceros_beetle', 0.03053626]

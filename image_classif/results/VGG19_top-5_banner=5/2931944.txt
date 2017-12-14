@@ -1,0 +1,5 @@
+[u'web_site', 0.13231772, u'envelope', 0.04305622, u'sunscreen', 0.013898679, u'Band_Aid', 0.013608829, u'sunglass', 0.012788333]
+[u'analog_clock', 0.61962837, u'wall_clock', 0.31124499, u'barometer', 0.022076437, u'sundial', 0.0084812734, u'magnetic_compass', 0.0047250506]
+[u'rubber_eraser', 0.2215025, u'book_jacket', 0.14180782, u'packet', 0.073532008, u'binder', 0.059920736, u'ballpoint', 0.048174787]
+[u'nail', 0.14208287, u'hook', 0.087629184, u'chime', 0.036339287, u'power_drill', 0.035924878, u'rule', 0.031402081]
+[u'nail', 0.42330703, u'ballpoint', 0.079622984, u'screwdriver', 0.058164764, u'hook', 0.033459205, u'chime', 0.023139555]

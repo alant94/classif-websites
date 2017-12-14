@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.63334417, u'comic_book', 0.22655147, u'book_jacket', 0.1129555, u'envelope', 0.0090192845, u'tray', 0.0013709946]
+[u'oscilloscope', 0.44087875, u'screen', 0.089804262, u'cash_machine', 0.039487001, u'book_jacket', 0.03684964, u'modem', 0.036634546]
+[u'dumbbell', 0.59150916, u'switch', 0.071828522, u'tripod', 0.036942676, u'screw', 0.031513941, u'web_site', 0.028578388]

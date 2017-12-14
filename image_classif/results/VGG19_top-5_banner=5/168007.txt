@@ -1,0 +1,8 @@
+[u'stage', 0.55276412, u'electric_guitar', 0.25798902, u'microphone', 0.049282975, u'banjo', 0.04605636, u'sax', 0.040042941]
+[u'electric_guitar', 0.28082985, u'oboe', 0.19149561, u'bassoon', 0.16584897, u'banjo', 0.11232856, u'flute', 0.086929604]
+[u'stage', 0.31684074, u'theater_curtain', 0.12489554, u'unicycle', 0.043238446, u'spotlight', 0.041433446, u'toyshop', 0.03870124]
+[u'barbershop', 0.12313725, u'barber_chair', 0.048800498, u'wall_clock', 0.040793598, u'projector', 0.032074455, u'cash_machine', 0.029666144]
+[u'fur_coat', 0.47958273, u'cloak', 0.18068676, u'stole', 0.16287006, u'cardigan', 0.062633693, u'trench_coat', 0.044099964]
+[u'web_site', 0.14490701, u'envelope', 0.044670869, u'analog_clock', 0.014926541, u'buckeye', 0.01261659, u'nematode', 0.010532198]
+[u'wig', 0.43799096, u'swab', 0.048514504, u'bonnet', 0.037803732, u'fur_coat', 0.031002339, u'wool', 0.018872982]
+[u'loudspeaker', 0.44006988, u'iron', 0.098242044, u'iPod', 0.092635959, u'vacuum', 0.030760042, u'television', 0.020233639]

@@ -1,0 +1,4 @@
+[u'American_lobster', 0.27265945, u'crayfish', 0.17151685, u'king_crab', 0.16433318, u'cleaver', 0.14592738, u'plate', 0.035340268]
+[u'jersey', 0.19695774, u'ice_lolly', 0.18593954, u'cardigan', 0.064082548, u'Band_Aid', 0.051843394, u'wig', 0.045325316]
+[u'bow', 0.27694771, u'letter_opener', 0.083794743, u'hook', 0.074388772, u'ski', 0.054438367, u'screwdriver', 0.043694638]
+[u'packet', 0.35011995, u'hamper', 0.16749492, u'menu', 0.042666052, u'plate', 0.034789179, u'waffle_iron', 0.023041777]

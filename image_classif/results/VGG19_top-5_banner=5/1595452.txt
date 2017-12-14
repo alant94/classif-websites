@@ -1,0 +1,1 @@
+[u'envelope', 0.10220067, u'wall_clock', 0.017037243, u'shovel', 0.013419209, u'umbrella', 0.012619198, u'hatchet', 0.011792257]

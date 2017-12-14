@@ -1,0 +1,8 @@
+[u'conch', 0.08293578, u'Band_Aid', 0.073207319, u'gown', 0.049393389, u'maillot', 0.046863344, u'crayfish', 0.046418741]
+[u'Band_Aid', 0.078743041, u'matchstick', 0.068226017, u'packet', 0.044660158, u'rule', 0.037099697, u'web_site', 0.035489138]
+[u'stethoscope', 0.12267017, u'bikini', 0.085148223, u'swimming_trunks', 0.055919692, u'whistle', 0.05493141, u'bow', 0.02111599]
+[u'book_jacket', 0.12050132, u'jersey', 0.066784807, u'web_site', 0.042289253, u'hook', 0.037304871, u'digital_clock', 0.035658121]
+[u'candle', 0.17960845, u'maillot', 0.16404426, u'vase', 0.065728463, u'conch', 0.038256127, u'gown', 0.035072051]
+[u'book_jacket', 0.52004617, u'jersey', 0.032457367, u'web_site', 0.031046534, u'packet', 0.030288583, u'street_sign', 0.027090052]
+[u'Band_Aid', 0.18809071, u'candle', 0.069613546, u'lipstick', 0.059081629, u'perfume', 0.048205987, u'matchstick', 0.040125977]
+[u'swab', 0.3879351, u'broom', 0.18804507, u'barbell', 0.11118704, u'jean', 0.035988182, u'plunger', 0.023222936]

@@ -1,0 +1,2 @@
+[u'stopwatch', 0.48601437, u'magnetic_compass', 0.20451052, u'analog_clock', 0.0625415, u'combination_lock', 0.036032319, u'barometer', 0.017851025]
+[u'magnetic_compass', 0.74460298, u'stopwatch', 0.03468997, u'analog_clock', 0.028771041, u'lighter', 0.02145024, u'typewriter_keyboard', 0.017921902]

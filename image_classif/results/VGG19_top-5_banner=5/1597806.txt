@@ -1,0 +1,8 @@
+[u'web_site', 0.40086183, u'bow_tie', 0.10773632, u'Windsor_tie', 0.10391458, u'lab_coat', 0.087961346, u'suit', 0.045092806]
+[u'throne', 0.42714229, u'altar', 0.31070521, u'guillotine', 0.046578057, u'book_jacket', 0.023051014, u'wardrobe', 0.011938432]
+[u'ox', 0.16738558, u'Ibizan_hound', 0.10861325, u'llama', 0.081563331, u'Arabian_camel', 0.048293922, u'ram', 0.03528164]
+[u'great_grey_owl', 0.71297312, u'kite', 0.2034913, u'prairie_chicken', 0.021807157, u'ruffed_grouse', 0.016501002, u'quail', 0.0095518501]
+[u'stupa', 0.69520563, u'panpipe', 0.05977108, u'pencil_sharpener', 0.056946132, u'bell_cote', 0.040970277, u'matchstick', 0.029049702]
+[u'web_site', 0.95830923, u'book_jacket', 0.015551883, u'jigsaw_puzzle', 0.005736453, u'screen', 0.002411905, u'monitor', 0.0020947461]
+[u'web_site', 0.98190397, u'analog_clock', 0.0014297937, u'whistle', 0.0013801638, u'muzzle', 0.0013142277, u'ocarina', 0.0012181809]
+[u'plate', 0.33614856, u'restaurant', 0.18495271, u'potpie', 0.086179554, u'tray', 0.060585756, u'bakery', 0.060066652]

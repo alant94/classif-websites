@@ -1,0 +1,2 @@
+[u'chime', 0.2720072, u'bow', 0.14528953, u'hook', 0.13324992, u'chain', 0.056629915, u'bolo_tie', 0.0347865]
+[u'chime', 0.295753, u'nail', 0.21259913, u'matchstick', 0.14090995, u'picket_fence', 0.06856624, u'rule', 0.036544051]

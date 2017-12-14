@@ -1,0 +1,1 @@
+[u'mobile_home', 0.51743203, u'picket_fence', 0.10957959, u'golfcart', 0.049068872, u'gas_pump', 0.029701, u'patio', 0.016022801]

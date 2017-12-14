@@ -1,0 +1,2 @@
+[u'golfcart', 0.40512151, u'jeep', 0.14954101, u'mobile_home', 0.11252854, u'recreational_vehicle', 0.061842173, u'tow_truck', 0.040780451]
+[u'web_site', 0.73553985, u'book_jacket', 0.081092812, u'screen', 0.018423716, u'television', 0.011093971, u'comic_book', 0.010541222]

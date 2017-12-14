@@ -1,0 +1,7 @@
+[u'puck', 0.94249099, u'bottlecap', 0.048368163, u'pick', 0.0021609261, u'street_sign', 0.0014962245, u'shield', 0.0005481604]
+[u'recreational_vehicle', 0.61483812, u'golfcart', 0.073723219, u'mobile_home', 0.049721044, u'ambulance', 0.022353485, u'moving_van', 0.021725029]
+[u'digital_clock', 0.8739745, u'digital_watch', 0.053155508, u'wall_clock', 0.024436833, u'safe', 0.010775534, u'tray', 0.0070320112]
+[u'church', 0.32687971, u'picket_fence', 0.082702219, u'patio', 0.075378284, u'fountain', 0.054396417, u'worm_fence', 0.052961051]
+[u'mobile_home', 0.14762004, u'recreational_vehicle', 0.085888423, u'streetcar', 0.061142556, u'flagpole', 0.045778181, u'passenger_car', 0.03301407]
+[u'puck', 0.20108677, u'packet', 0.10100908, u'jersey', 0.084697559, u'pick', 0.030206801, u'Band_Aid', 0.026518077]
+[u'swing', 0.28927496, u'church', 0.104379, u'chime', 0.068853557, u'padlock', 0.04819585, u'flagpole', 0.043364439]

@@ -1,0 +1,6 @@
+[u'gar', 0.47214931, u'barracouta', 0.26913905, u'sturgeon', 0.20861977, u'coho', 0.047171518, u'hammerhead', 0.0016284179]
+[u'gar', 0.3762112, u'barracouta', 0.27553034, u'sturgeon', 0.2230866, u'coho', 0.031368025, u'tiger_shark', 0.017571384]
+[u'reel', 0.60968775, u'schooner', 0.14528288, u'gar', 0.063048355, u'catamaran', 0.034037154, u'trimaran', 0.02697809]
+[u'coho', 0.72878432, u'barracouta', 0.22027381, u'gar', 0.035225492, u'sturgeon', 0.014386619, u'reel', 0.0012862862]
+[u'coho', 0.83394551, u'barracouta', 0.090448461, u'sturgeon', 0.038877737, u'gar', 0.024656307, u'reel', 0.0091922469]
+[u'coho', 0.23718236, u'barracouta', 0.21070404, u'sturgeon', 0.14095165, u'gar', 0.096000113, u'reel', 0.067618825]

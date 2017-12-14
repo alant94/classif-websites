@@ -1,0 +1,2 @@
+[u'book_jacket', 0.067263983, u'tennis_ball', 0.048517391, u'puck', 0.036274314, u'packet', 0.02969359, u'Band_Aid', 0.028117308]
+[u'prayer_rug', 0.37962711, u'theater_curtain', 0.1363104, u'altar', 0.071919784, u'palace', 0.066067457, u'vault', 0.065016568]

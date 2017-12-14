@@ -1,0 +1,1 @@
+[u'face_powder', 0.1234153, u'toilet_seat', 0.093533359, u'Petri_dish', 0.065623589, u'tray', 0.039485194, u'plate', 0.035605807]

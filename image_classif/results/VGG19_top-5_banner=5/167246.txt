@@ -1,0 +1,4 @@
+[u'envelope', 0.01763395, u'cleaver', 0.0092630591, u'letter_opener', 0.0081905155, u'modem', 0.008103773, u'hook', 0.0069386819]
+[u'stage', 0.62403148, u'theater_curtain', 0.10057143, u'butcher_shop', 0.083563067, u'pool_table', 0.044890862, u'spotlight', 0.03919971]
+[u'upright', 0.082107268, u'stage', 0.081013091, u'crutch', 0.057986077, u'grand_piano', 0.056812104, u'violin', 0.039007012]
+[u'stage', 0.09179692, u'marimba', 0.080823787, u'theater_curtain', 0.044467885, u'jersey', 0.039400287, u'suit', 0.038164277]

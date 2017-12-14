@@ -1,0 +1,2 @@
+[u'greenhouse', 0.1174863, u'head_cabbage', 0.095227182, u'barrow', 0.094862171, u'stone_wall', 0.092805214, u'groom', 0.056259528]
+[u'wine_bottle', 0.23812185, u'lab_coat', 0.089565851, u'red_wine', 0.077798352, u'beer_bottle', 0.041576404, u'syringe', 0.034944545]

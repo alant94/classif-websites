@@ -1,0 +1,4 @@
+[u'mobile_home', 0.11679264, u'croquet_ball', 0.086765565, u'patio', 0.080239333, u'picket_fence', 0.043767136, u'maze', 0.035528433]
+[u'crate', 0.091932081, u'carton', 0.084706217, u'quill', 0.068351358, u'tray', 0.056007743, u'packet', 0.048224855]
+[u'mobile_home', 0.2983048, u'thatch', 0.11261422, u'picket_fence', 0.029822214, u'stone_wall', 0.028912375, u'patio', 0.024091626]
+[u'street_sign', 0.10566952, u'park_bench', 0.10077692, u'mailbox', 0.040783834, u'brass', 0.040688753, u'scoreboard', 0.034798041]

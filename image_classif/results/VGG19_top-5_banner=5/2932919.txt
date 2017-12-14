@@ -1,0 +1,4 @@
+[u'ocarina', 0.21508197, u'Band_Aid', 0.17357062, u'wooden_spoon', 0.032246254, u'buckle', 0.017001765, u'letter_opener', 0.014237053]
+[u'letter_opener', 0.28746268, u'scabbard', 0.097291939, u'hair_slide', 0.037220269, u'hotdog', 0.035112619, u'ocarina', 0.030493794]
+[u'Band_Aid', 0.17066722, u'rubber_eraser', 0.041854024, u'pencil_sharpener', 0.033028744, u'lotion', 0.03224887, u'pill_bottle', 0.028215738]
+[u'Band_Aid', 0.19817717, u'drumstick', 0.12033036, u'rubber_eraser', 0.10176266, u'ballpoint', 0.037106358, u'clog', 0.031574696]

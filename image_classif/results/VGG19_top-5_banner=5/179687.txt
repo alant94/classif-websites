@@ -1,0 +1,3 @@
+[u'envelope', 0.28695104, u'web_site', 0.2283136, u'Band_Aid', 0.029246612, u'Windsor_tie', 0.017622713, u'digital_clock', 0.015501888]
+[u'wardrobe', 0.12214193, u'sliding_door', 0.092573203, u'medicine_chest', 0.069232799, u'crib', 0.067586891, u'window_shade', 0.060892828]
+[u'book_jacket', 0.43704009, u'chainlink_fence', 0.12596391, u'comic_book', 0.049379148, u'web_site', 0.034278441, u'school_bus', 0.01671345]

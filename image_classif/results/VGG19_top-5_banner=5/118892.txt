@@ -1,0 +1,2 @@
+[u'perfume', 0.099487066, u'pencil_sharpener', 0.047974147, u'web_site', 0.040523615, u'vacuum', 0.026554765, u'digital_watch', 0.025150899]
+[u'jigsaw_puzzle', 0.56049806, u'digital_clock', 0.10911254, u'maze', 0.056646317, u'bottlecap', 0.042646766, u'wall_clock', 0.037792131]

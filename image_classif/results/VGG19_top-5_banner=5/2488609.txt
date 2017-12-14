@@ -1,0 +1,3 @@
+[u'parking_meter', 0.26906541, u'ashcan', 0.22448093, u'gas_pump', 0.082638882, u'mailbox', 0.037587546, u'pay-phone', 0.034094535]
+[u'garbage_truck', 0.83673716, u'snowplow', 0.070922099, u'crane', 0.053832468, u'harvester', 0.012641006, u'forklift', 0.0064819357]
+[u'hook', 0.96098477, u'chain', 0.0078738919, u'padlock', 0.0065116747, u'knot', 0.0047180471, u'street_sign', 0.0045999628]

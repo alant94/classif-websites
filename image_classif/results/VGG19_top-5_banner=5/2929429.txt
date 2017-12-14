@@ -1,0 +1,7 @@
+[u'crib', 0.1953399, u'envelope', 0.060646042, u'picket_fence', 0.05374958, u'binder', 0.043047607, u'screen', 0.039308041]
+[u'whistle', 0.13328145, u'bolo_tie', 0.065215245, u'loupe', 0.0521609, u'mortarboard', 0.035788737, u'chain', 0.027260309]
+[u'shower_curtain', 0.11429067, u'safe', 0.073792234, u'envelope', 0.04245545, u'desk', 0.030985033, u'digital_clock', 0.02942284]
+[u'face_powder', 0.069593079, u'rubber_eraser', 0.065826088, u'digital_clock', 0.047535792, u'doormat', 0.032714956, u'tray', 0.029065503]
+[u'monitor', 0.27343571, u'desk', 0.253618, u'envelope', 0.13054253, u'web_site', 0.097159766, u'scale', 0.043806992]
+[u'monitor', 0.1657445, u'binder', 0.15418163, u'envelope', 0.15164034, u'screen', 0.12502237, u'safe', 0.039253652]
+[u'monitor', 0.48947656, u'screen', 0.085729562, u'pier', 0.040649507, u'crane', 0.037145533, u'desk', 0.016899506]

@@ -1,0 +1,7 @@
+[u'stretcher', 0.34098163, u'valley', 0.2509883, u'mountain_bike', 0.22356364, u'alp', 0.062294949, u'cliff', 0.031889111]
+[u'dogsled', 0.43276945, u'ski', 0.27478006, u'snowmobile', 0.11060976, u'bobsled', 0.025165686, u'alp', 0.022586705]
+[u'puck', 0.95567071, u'beer_bottle', 0.0062875142, u'bottlecap', 0.0038587884, u'tray', 0.0031095711, u'coffee_mug', 0.0025362945]
+[u'digital_clock', 0.23530975, u'bottlecap', 0.12105906, u'analog_clock', 0.077420622, u'traffic_light', 0.063596956, u'coil', 0.039780974]
+[u'stretcher', 0.92697752, u'cliff', 0.010658838, u'lifeboat', 0.008103204, u'military_uniform', 0.0056306394, u'ambulance', 0.0037152139]
+[u'alp', 0.80754781, u'valley', 0.063005075, u'cliff', 0.047153398, u'mountain_tent', 0.024672531, u'volcano', 0.015286949]
+[u'mountain_bike', 0.4695873, u'alp', 0.18386374, u'unicycle', 0.060728293, u'cliff', 0.051172599, u'oxcart', 0.029543873]

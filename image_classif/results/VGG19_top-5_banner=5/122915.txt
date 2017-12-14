@@ -1,0 +1,2 @@
+[u'iron', 0.24404876, u'ski', 0.23274729, u'trimaran', 0.15149286, u'catamaran', 0.07508529, u'fireboat', 0.024395172]
+[u'picket_fence', 0.18665645, u'coral_fungus', 0.076359384, u"jack-o'-lantern", 0.075245723, u'candle', 0.073695607, u'pill_bottle', 0.069816701]

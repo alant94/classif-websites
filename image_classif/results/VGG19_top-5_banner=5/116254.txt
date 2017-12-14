@@ -1,0 +1,2 @@
+[u'analog_clock', 0.32189083, u'digital_clock', 0.15084778, u'wall_clock', 0.10987793, u'digital_watch', 0.027038889, u'lighter', 0.024400324]
+[u'matchstick', 0.3499727, u'rubber_eraser', 0.11200797, u'Band_Aid', 0.10872898, u'rule', 0.10090332, u'pencil_sharpener', 0.042037293]

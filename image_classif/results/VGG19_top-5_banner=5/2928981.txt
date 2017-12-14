@@ -1,0 +1,8 @@
+[u'scoreboard', 0.27837458, u'digital_clock', 0.068533286, u'book_jacket', 0.068042025, u'street_sign', 0.054993995, u'gas_pump', 0.022084756]
+[u'bottlecap', 0.9984957, u'bakery', 0.00034328739, u'pop_bottle', 0.00014315084, u'bolo_tie', 0.00014256896, u'wall_clock', 7.4510142e-05]
+[u'bell_cote', 0.19142567, u'throne', 0.12627885, u'beacon', 0.036224257, u'paddlewheel', 0.029223787, u'container_ship', 0.02424904]
+[u'bottlecap', 0.99996233, u'pop_bottle', 9.1326528e-06, u'bolo_tie', 8.3860859e-06, u'bakery', 4.878465e-06, u'buckle', 2.375722e-06]
+[u'bottlecap', 0.99961227, u'bolo_tie', 0.0001153514, u'buckle', 6.189054e-05, u'matchstick', 3.0784424e-05, u'pop_bottle', 1.7332248e-05]
+[u'bottlecap', 0.99990666, u'pop_bottle', 3.2782249e-05, u'bolo_tie', 7.6838414e-06, u'analog_clock', 6.6078219e-06, u'wall_clock', 5.9624781e-06]
+[u'theater_curtain', 0.083937086, u'matchstick', 0.076710656, u'web_site', 0.03710819, u'book_jacket', 0.033726513, u'microphone', 0.02580093]
+[u'chain_mail', 0.19634765, u'wig', 0.086596422, u'miniskirt', 0.070024237, u'cowboy_boot', 0.029256716, u'shoe_shop', 0.027033925]

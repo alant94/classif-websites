@@ -1,0 +1,7 @@
+[u'thresher', 0.30255577, u'tractor', 0.28114882, u'harvester', 0.054811142, u'horse_cart', 0.024347803, u'plow', 0.022442946]
+[u'worm_fence', 0.077823594, u'pole', 0.055021603, u'ski', 0.054756366, u'bow', 0.047680296, u'plow', 0.042677805]
+[u'panpipe', 0.15202501, u'kimono', 0.063307337, u'poncho', 0.062797099, u'sarong', 0.06109466, u'cliff', 0.036869135]
+[u'tick', 0.15479375, u'book_jacket', 0.1467236, u'ant', 0.080571868, u'weevil', 0.05185562, u'scorpion', 0.050646558]
+[u'cock', 0.48133796, u'house_finch', 0.15905239, u'crane', 0.15855473, u'hen', 0.073150106, u'partridge', 0.020393759]
+[u'Labrador_retriever', 0.38769847, u'Great_Dane', 0.3080343, u'curly-coated_retriever', 0.074009567, u'flat-coated_retriever', 0.048597801, u'giant_schnauzer', 0.035790429]
+[u'safety_pin', 0.14753194, u'screw', 0.082484975, u'rubber_eraser', 0.064388804, u'book_jacket', 0.054809984, u'matchstick', 0.050799806]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.22128308, u'toilet_seat', 0.099479817, u'tennis_ball', 0.075769439, u'nipple', 0.057821229, u'neck_brace', 0.054537009]
+[u'lipstick', 0.074408315, u'hair_spray', 0.043009825, u'cocktail_shaker', 0.03822837, u'suit', 0.035696257, u'fountain_pen', 0.032943349]

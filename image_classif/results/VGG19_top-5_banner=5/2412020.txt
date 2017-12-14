@@ -1,0 +1,4 @@
+[u'modem', 0.86003387, u'hard_disc', 0.024868371, u'joystick', 0.024339138, u'cassette', 0.017559085, u'rubber_eraser', 0.01462215]
+[u'switch', 0.49055079, u'mousetrap', 0.15579692, u'modem', 0.11793963, u'cassette', 0.056544844, u'joystick', 0.034903772]
+[u'screwdriver', 0.40415618, u'switch', 0.15393397, u'lighter', 0.057530794, u'power_drill', 0.035215393, u'digital_watch', 0.032039251]
+[u'modem', 0.33706501, u'chain_saw', 0.29873613, u'pencil_sharpener', 0.066774748, u'switch', 0.041488715, u'Polaroid_camera', 0.022387654]

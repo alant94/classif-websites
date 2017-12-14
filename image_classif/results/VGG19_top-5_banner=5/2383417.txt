@@ -1,0 +1,1 @@
+[u'book_jacket', 0.064500973, u'hair_spray', 0.033082087, u'analog_clock', 0.030550152, u'web_site', 0.029078785, u'wall_clock', 0.027596168]

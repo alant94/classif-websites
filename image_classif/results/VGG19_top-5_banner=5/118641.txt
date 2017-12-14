@@ -1,0 +1,8 @@
+[u'fountain', 0.59244847, u'theater_curtain', 0.19464254, u'oscilloscope', 0.055729926, u'matchstick', 0.037360534, u'monitor', 0.013599175]
+[u'tray', 0.30036256, u'book_jacket', 0.19296323, u'packet', 0.052414518, u'lighter', 0.028991077, u'buckle', 0.024274496]
+[u'theater_curtain', 0.80099076, u'stove', 0.051267873, u'fountain', 0.036724545, u'cinema', 0.023732096, u'matchstick', 0.018578747]
+[u'theater_curtain', 0.7437222, u'fountain', 0.10309034, u'stage', 0.033502802, u'lampshade', 0.015497633, u'spotlight', 0.013510806]
+[u'theater_curtain', 0.50353515, u'fountain', 0.29187244, u'stage', 0.05236049, u'stove', 0.0328153, u'matchstick', 0.016060257]
+[u'perfume', 0.14240737, u'lighter', 0.11507244, u'hair_spray', 0.061976891, u'ballpoint', 0.060772933, u'safety_pin', 0.052346092]
+[u'theater_curtain', 0.9343282, u'fountain', 0.045911677, u'stage', 0.012838146, u'cinema', 0.0022024051, u'stove', 0.0012218839]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

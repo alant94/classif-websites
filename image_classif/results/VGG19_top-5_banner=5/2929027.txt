@@ -1,0 +1,4 @@
+[u'puck', 0.74473852, u'face_powder', 0.058368769, u'analog_clock', 0.036918472, u'loupe', 0.030068226, u'dial_telephone', 0.021263488]
+[u'spotlight', 0.083478451, u'digital_watch', 0.079430245, u'magnetic_compass', 0.055940282, u'toilet_seat', 0.042831343, u'stopwatch', 0.035257783]
+[u'binder', 0.17403117, u'screen', 0.083866224, u'digital_clock', 0.078652069, u'perfume', 0.077678464, u'beaker', 0.058614515]
+[u'scale', 0.047904126, u'medicine_chest', 0.043431267, u'digital_clock', 0.043026924, u'envelope', 0.040870234, u'binder', 0.039429914]

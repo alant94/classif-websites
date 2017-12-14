@@ -1,0 +1,6 @@
+[u'printer', 0.16638912, u'dumbbell', 0.11365141, u'spotlight', 0.10911202, u'pencil_sharpener', 0.065286987, u'cassette_player', 0.064144872]
+[u'barbershop', 0.73824251, u'tobacco_shop', 0.11098382, u'bakery', 0.028312143, u'shoe_shop', 0.028112238, u'bookshop', 0.025582869]
+[u'pill_bottle', 0.55645579, u'spotlight', 0.17930564, u'lampshade', 0.055631384, u'toilet_seat', 0.036947861, u'face_powder', 0.021265218]
+[u'spotlight', 0.89972562, u'loupe', 0.026653819, u'traffic_light', 0.016261237, u'magnetic_compass', 0.0056220968, u'cassette', 0.0041793864]
+[u'moving_van', 0.45038798, u'ambulance', 0.16309249, u'street_sign', 0.054864768, u'web_site', 0.045516405, u'trailer_truck', 0.015897768]
+[u'moving_van', 0.35518003, u'ambulance', 0.19975179, u'recreational_vehicle', 0.12955093, u'mobile_home', 0.083696, u'tow_truck', 0.059991471]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.19189906, u'jersey', 0.056067005, u'web_site', 0.044392619, u'picket_fence', 0.038849425, u'comic_book', 0.030537762]
+[u'switch', 0.030434312, u'wall_clock', 0.030202165, u'nematode', 0.024056485, u'banana', 0.017497906, u'lemon', 0.016803693]

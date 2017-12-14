@@ -1,0 +1,2 @@
+[u'digital_clock', 0.12027147, u'stopwatch', 0.11704254, u'street_sign', 0.092498951, u'wall_clock', 0.075794101, u'traffic_light', 0.046632957]
+[u'barbell', 0.22319585, u'dumbbell', 0.15468879, u'torch', 0.035017926, u'academic_gown', 0.034721002, u'joystick', 0.033188712]

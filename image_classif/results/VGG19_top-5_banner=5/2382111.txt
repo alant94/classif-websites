@@ -1,0 +1,4 @@
+[u'envelope', 0.22887331, u'web_site', 0.14851159, u'window_shade', 0.058455937, u'shoji', 0.031798709, u'matchstick', 0.026884269]
+[u'panpipe', 0.30683127, u'matchstick', 0.11633135, u'envelope', 0.066053383, u'marimba', 0.026964495, u'container_ship', 0.026026577]
+[u'toaster', 0.3577961, u'packet', 0.16259108, u'carton', 0.13440791, u'book_jacket', 0.070987448, u'binder', 0.059070684]
+[u'buckle', 0.1029669, u'cornet', 0.097876407, u'tray', 0.09787295, u'shield', 0.0961098, u'French_horn', 0.050152641]

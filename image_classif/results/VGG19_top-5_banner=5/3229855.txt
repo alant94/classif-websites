@@ -1,0 +1,5 @@
+[u'matchstick', 0.38519382, u'picket_fence', 0.20917195, u'candle', 0.081597187, u'nail', 0.044678409, u'fountain', 0.026328314]
+[u'street_sign', 0.13029325, u'Band_Aid', 0.078586847, u'digital_clock', 0.07086651, u'rubber_eraser', 0.060861602, u'whistle', 0.036868833]
+[u'book_jacket', 0.45726117, u'cash_machine', 0.067887746, u'web_site', 0.022808233, u'binder', 0.018265571, u'digital_clock', 0.017218707]
+[u'chime', 0.37600517, u'screwdriver', 0.049980897, u'whistle', 0.042837348, u'syringe', 0.037553497, u'punching_bag', 0.029909281]
+[u'chime', 0.2456823, u'spatula', 0.036650147, u'panpipe', 0.03531976, u'whistle', 0.032029644, u'ballpoint', 0.027517198]

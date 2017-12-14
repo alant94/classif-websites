@@ -1,0 +1,2 @@
+[u"carpenter's_kit", 0.18903196, u'swimming_trunks', 0.12205821, u'shower_curtain', 0.11211517, u'torch', 0.057067685, u'apron', 0.045332376]
+[u'traffic_light', 0.15114196, u'digital_clock', 0.093673646, u'parking_meter', 0.079267181, u'street_sign', 0.040704783, u'switch', 0.023358535]

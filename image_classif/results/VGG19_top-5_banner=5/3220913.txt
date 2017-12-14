@@ -1,0 +1,6 @@
+[u'traffic_light', 0.40767604, u'street_sign', 0.10290123, u'digital_clock', 0.06068562, u'analog_clock', 0.055497233, u'cash_machine', 0.041874494]
+[u'restaurant', 0.37117523, u'vestment', 0.35288087, u'altar', 0.12702087, u'church', 0.013324127, u'bell_cote', 0.013186829]
+[u'sundial', 0.24114758, u'bow', 0.17895274, u'banjo', 0.095144913, u'gong', 0.068350174, u'chime', 0.048521314]
+[u'digital_clock', 0.080417879, u'balloon', 0.073281914, u'parachute', 0.048809253, u'traffic_light', 0.046742216, u'airship', 0.041603472]
+[u'church', 0.1107965, u'flagpole', 0.10988134, u'bell_cote', 0.09189339, u'limousine', 0.070228085, u'obelisk', 0.058333557]
+[u'barn', 0.64567995, u'water_tower', 0.04542356, u'mobile_home', 0.043378692, u'church', 0.041997645, u'beacon', 0.03072848]

@@ -1,0 +1,4 @@
+[u'bearskin', 0.13180237, u'cash_machine', 0.067443237, u'book_jacket', 0.051211149, u'barbershop', 0.038386811, u'web_site', 0.0296304]
+[u'web_site', 0.32602441, u'envelope', 0.13332237, u'analog_clock', 0.023690296, u'wall_clock', 0.020095572, u'remote_control', 0.015390458]
+[u'Airedale', 0.7315225, u'Lakeland_terrier', 0.15899539, u'toy_poodle', 0.059688188, u'wire-haired_fox_terrier', 0.019111307, u'miniature_poodle', 0.0097754933]
+[u'Saint_Bernard', 0.99567777, u'boxer', 0.0033216346, u'bull_mastiff', 0.0002890843, u'Greater_Swiss_Mountain_dog', 0.0001635028, u'English_foxhound', 8.0884434e-05]

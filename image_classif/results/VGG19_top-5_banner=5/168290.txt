@@ -1,0 +1,7 @@
+[u'envelope', 0.16168721, u'monitor', 0.095982872, u'beaker', 0.087702736, u'measuring_cup', 0.080875576, u'apron', 0.052439339]
+[u'switch', 0.57213163, u'pencil_sharpener', 0.13886645, u'cassette', 0.089956291, u'can_opener', 0.078682698, u'padlock', 0.023875766]
+[u'Christmas_stocking', 0.34071463, u'sock', 0.14135022, u'mitten', 0.082004696, u'wool', 0.079738602, u'Windsor_tie', 0.062194455]
+[u'modem', 0.40378714, u'radio', 0.10771472, u'electric_fan', 0.081354104, u'rule', 0.045075122, u'magnetic_compass', 0.043832038]
+[u'bow', 0.45110995, u'prison', 0.15878093, u'hog', 0.074585028, u'schooner', 0.043031767, u'butcher_shop', 0.040539112]
+[u'container_ship', 0.95935225, u'solar_dish', 0.014838063, u'library', 0.0031597454, u'dining_table', 0.0015128091, u'scoreboard', 0.0011123242]
+[u'packet', 0.18918926, u'carton', 0.1538455, u'envelope', 0.10787526, u'book_jacket', 0.097189501, u'balloon', 0.052433703]

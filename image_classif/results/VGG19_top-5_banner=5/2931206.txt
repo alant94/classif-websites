@@ -1,0 +1,4 @@
+[u'hook', 0.20143874, u'nail', 0.11859468, u'hair_slide', 0.11370364, u'safety_pin', 0.1092536, u"carpenter's_kit", 0.069481425]
+[u'rubber_eraser', 0.24141596, u'whistle', 0.14882372, u'lighter', 0.12992711, u'pencil_sharpener', 0.094290346, u'hair_slide', 0.042477947]
+[u'web_site', 0.16204636, u'envelope', 0.10949119, u'digital_clock', 0.045360059, u'nematode', 0.041751571, u'matchstick', 0.01594238]
+[u'suit', 0.77957594, u'Windsor_tie', 0.17762552, u'bow_tie', 0.028834535, u'groom', 0.002747193, u'stole', 0.0018008337]

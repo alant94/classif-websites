@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.27618632, u'packet', 0.14375687, u'barbershop', 0.12449904, u'book_jacket', 0.059989281, u'envelope', 0.058161017]
+[u'hand_blower', 0.24972537, u'power_drill', 0.11941286, u'vacuum', 0.07785067, u'gas_pump', 0.044535007, u'mountain_bike', 0.028251791]
+[u'book_jacket', 0.14331441, u'Band_Aid', 0.13487257, u'street_sign', 0.070457712, u'web_site', 0.056819279, u'scoreboard', 0.025464172]

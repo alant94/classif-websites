@@ -1,0 +1,1 @@
+[u'football_helmet', 0.67953122, u'crash_helmet', 0.14554368, u'soccer_ball', 0.067174993, u'piggy_bank', 0.026361179, u'rugby_ball', 0.015362737]

@@ -1,0 +1,8 @@
+[u'analog_clock', 0.24042946, u'web_site', 0.052616663, u'wall_clock', 0.049219899, u'liner', 0.034164861, u'rule', 0.03149632]
+[u'digital_watch', 0.12113653, u'pick', 0.090307966, u'book_jacket', 0.081886083, u'wall_clock', 0.050332904, u'puck', 0.03782399]
+[u'banjo', 0.94191086, u'drum', 0.046864267, u'gong', 0.0021226541, u'accordion', 0.0018040331, u'panpipe', 0.0015327401]
+[u'comic_book', 0.87725127, u'book_jacket', 0.039324857, u'buckle', 0.025003912, u'coffee_mug', 0.0065791989, u'puck', 0.0063035688]
+[u'puck', 0.042689338, u'buckle', 0.042086922, u'bolo_tie', 0.041796133, u'traffic_light', 0.032184508, u'wall_clock', 0.031979285]
+[u'window_shade', 0.11795467, u'carousel', 0.11655239, u'vault', 0.057565022, u'window_screen', 0.053938292, u'sliding_door', 0.046564054]
+[u'chime', 0.62821859, u'banjo', 0.092319563, u'strainer', 0.070341408, u'spatula', 0.057090819, u'gong', 0.02389542]
+[u'screwdriver', 0.12181009, u"carpenter's_kit", 0.1088201, u'ski', 0.07322897, u'nail', 0.065100119, u'cleaver', 0.048222631]

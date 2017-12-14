@@ -1,0 +1,2 @@
+[u'wreck', 0.48540387, u'iron', 0.13382588, u'cliff', 0.077501096, u'Arabian_camel', 0.035211682, u'baboon', 0.025036968]
+[u'bathtub', 0.57507938, u'tub', 0.25877708, u'diaper', 0.040065903, u'bath_towel', 0.036965959, u'swimming_trunks', 0.012916748]

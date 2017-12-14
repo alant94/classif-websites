@@ -1,0 +1,6 @@
+[u'clog', 0.84988207, u'pencil_box', 0.040598691, u'ski', 0.01791656, u'lighter', 0.016125049, u'sandal', 0.011782565]
+[u'altar', 0.50380301, u'thimble', 0.15874378, u'book_jacket', 0.074828587, u'candle', 0.063179575, u'perfume', 0.038147006]
+[u'nipple', 0.93244117, u'lotion', 0.029214317, u'butternut_squash', 0.0120678, u'whiskey_jug', 0.011026068, u'saltshaker', 0.0056634755]
+[u'clog', 0.79339969, u'saltshaker', 0.075376377, u'ocarina', 0.05097561, u'sandal', 0.014345417, u'maraca', 0.014227823]
+[u'altar', 0.82807094, u'vestment', 0.10269939, u'lampshade', 0.011619151, u'chime', 0.0080438768, u'candle', 0.0075197155]
+[u'candle', 0.18708172, u'goblet', 0.15295254, u'coffee_mug', 0.1126116, u'vase', 0.099136494, u'beer_glass', 0.045666762]

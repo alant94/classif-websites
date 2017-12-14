@@ -1,0 +1,5 @@
+[u'hay', 0.10602586, u'jeep', 0.099959299, u'tractor', 0.09715043, u'thresher', 0.093050748, u'trailer_truck', 0.082905531]
+[u'crane', 0.88634831, u'swing', 0.027643668, u'missile', 0.015755754, u'steam_locomotive', 0.0095811058, u'projectile', 0.0086921137]
+[u'picket_fence', 0.68212754, u'prison', 0.10563563, u'bannister', 0.053953908, u'worm_fence', 0.040105503, u'book_jacket', 0.013973421]
+[u'suit', 0.12165792, u'groom', 0.069884054, u'seat_belt', 0.0532066, u'turnstile', 0.046703517, u'bow_tie', 0.036686953]
+[u'shower_curtain', 0.023162967, u'English_foxhound', 0.013383464, u'African_hunting_dog', 0.0097994097, u'window_screen', 0.0096700033, u'wire-haired_fox_terrier', 0.0095445309]

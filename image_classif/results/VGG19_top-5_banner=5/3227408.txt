@@ -1,0 +1,1 @@
+[u'monitor', 0.12270129, u'web_site', 0.088502407, u'jigsaw_puzzle', 0.074464902, u'envelope', 0.061487794, u'jersey', 0.053153351]

@@ -1,0 +1,6 @@
+[u'plate', 0.31525713, u'consomme', 0.31157357, u'restaurant', 0.08545538, u'dining_table', 0.052429531, u'goblet', 0.037351068]
+[u'wine_bottle', 0.470976, u'dumbbell', 0.18320447, u'typewriter_keyboard', 0.13692856, u'reflex_camera', 0.059913807, u'combination_lock', 0.025520084]
+[u'steel_drum', 0.26958144, u'vestment', 0.061902754, u'mortarboard', 0.056791026, u'groom', 0.032161556, u'marimba', 0.030436859]
+[u'jersey', 0.14803717, u'book_jacket', 0.098825276, u'matchstick', 0.07994049, u'chain', 0.03782988, u'web_site', 0.025388965]
+[u'scoreboard', 0.27379516, u'street_sign', 0.22774893, u'suspension_bridge', 0.043702256, u'park_bench', 0.043552246, u'steel_arch_bridge', 0.01865614]
+[u'coral_fungus', 0.35938537, u'picket_fence', 0.35842562, u'worm_fence', 0.094730541, u'fountain', 0.029076975, u'bald_eagle', 0.0086790919]

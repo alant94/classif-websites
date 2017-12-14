@@ -1,0 +1,2 @@
+[u'picket_fence', 0.2420962, u'fountain', 0.14247419, u'church', 0.056720495, u'Ibizan_hound', 0.056628611, u'American_egret', 0.052916203]
+[u'butcher_shop', 0.37730706, u'punching_bag', 0.28121829, u'hook', 0.10568772, u'chime', 0.032257412, u'brassiere', 0.029608434]

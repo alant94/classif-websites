@@ -1,0 +1,4 @@
+[u'stage', 0.15825619, u'theater_curtain', 0.067643285, u'wig', 0.049338348, u'electric_guitar', 0.038701102, u'comic_book', 0.029635677]
+[u'container_ship', 0.5203349, u'airship', 0.060467582, u'parachute', 0.014021843, u'toilet_seat', 0.013073641, u'fireboat', 0.01270524]
+[u'flagpole', 0.13355067, u'quill', 0.058036864, u'fountain_pen', 0.049143318, u'bow', 0.041270301, u'ski', 0.032572109]
+[u'ballpoint', 0.1210883, u'candle', 0.089038156, u'picket_fence', 0.081474751, u'crib', 0.04495487, u'rule', 0.042202488]

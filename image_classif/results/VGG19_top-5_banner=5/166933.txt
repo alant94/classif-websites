@@ -1,0 +1,6 @@
+[u'book_jacket', 0.51641572, u'cash_machine', 0.19362247, u'street_sign', 0.028022291, u'envelope', 0.017146239, u'packet', 0.016522599]
+[u'web_site', 0.19667, u'envelope', 0.038314536, u'book_jacket', 0.029114798, u'Band_Aid', 0.014672818, u'hatchet', 0.010538686]
+[u'container_ship', 0.27956006, u'digital_clock', 0.096799344, u'scoreboard', 0.040332139, u'beacon', 0.036126401, u'safe', 0.022923594]
+[u'drum', 0.70303923, u'steel_drum', 0.20331098, u'marimba', 0.046346061, u'accordion', 0.011659318, u'banjo', 0.0061292453]
+[u'cornet', 0.16157305, u'trombone', 0.14351061, u'flute', 0.12170856, u'sax', 0.10393817, u'harmonica', 0.049216319]
+[u'stage', 0.11485776, u'sax', 0.080815539, u'drum', 0.051021248, u'basketball', 0.044641409, u'trombone', 0.026836827]

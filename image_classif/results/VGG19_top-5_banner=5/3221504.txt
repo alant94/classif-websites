@@ -1,0 +1,1 @@
+[u'balloon', 0.15283404, u'steel_arch_bridge', 0.12507674, u'church', 0.093099691, u'obelisk', 0.071946532, u'dome', 0.063308366]

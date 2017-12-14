@@ -1,0 +1,6 @@
+[u'monitor', 0.13586465, u'television', 0.12428583, u'screen', 0.10131259, u'comic_book', 0.054745749, u'toyshop', 0.05348764]
+[u'cinema', 0.95039272, u'slot', 0.020477135, u'home_theater', 0.01315154, u'theater_curtain', 0.004831376, u'restaurant', 0.0028784799]
+[u'comic_book', 0.79185462, u'jigsaw_puzzle', 0.17306559, u'book_jacket', 0.013834166, u'toyshop', 0.0016284495, u'packet', 0.0012251514]
+[u'slot', 0.2833021, u'scoreboard', 0.088352337, u'water_bottle', 0.062565088, u'beer_bottle', 0.04604977, u'analog_clock', 0.041950833]
+[u'perfume', 0.35677597, u'altar', 0.083919033, u'restaurant', 0.052211519, u'candle', 0.040486176, u'bakery', 0.015967447]
+[u'cannon', 0.32793173, u'barrow', 0.08592426, u'tank', 0.059537411, u'tow_truck', 0.055490892, u'amphibian', 0.054581791]

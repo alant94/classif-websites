@@ -1,0 +1,2 @@
+[u'bow', 0.11962847, u"carpenter's_kit", 0.072230943, u'ski', 0.062832557, u'rifle', 0.050377406, u'screwdriver', 0.046846557]
+[u'sorrel', 0.53155464, u'hartebeest', 0.062191781, u'red_wolf', 0.045882061, u'ox', 0.030885164, u'Irish_setter', 0.02740025]

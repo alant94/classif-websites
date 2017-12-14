@@ -1,0 +1,4 @@
+[u'greenhouse', 0.15752143, u'window_screen', 0.037016053, u'swing', 0.032030843, u'solar_dish', 0.031879921, u'rain_barrel', 0.025703756]
+[u'binder', 0.50158083, u'book_jacket', 0.31418523, u'envelope', 0.071590178, u'laptop', 0.011944316, u'wallet', 0.0097110905]
+[u'book_jacket', 0.18646498, u'accordion', 0.1033157, u'military_uniform', 0.062897764, u'dogsled', 0.03412528, u'fur_coat', 0.033730943]
+[u'castle', 0.35581651, u'cliff', 0.15846419, u'stone_wall', 0.10373413, u'promontory', 0.044076324, u'alp', 0.041796979]

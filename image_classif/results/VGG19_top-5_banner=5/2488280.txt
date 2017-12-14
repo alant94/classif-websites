@@ -1,0 +1,1 @@
+[u'gazelle', 0.23504265, u'soap_dispenser', 0.050258309, u'impala', 0.048707284, u'sulphur-crested_cockatoo', 0.039599195, u'washbasin', 0.037168071]

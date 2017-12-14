@@ -1,0 +1,5 @@
+[u'chain', 0.098473705, u'necklace', 0.083703123, u'knot', 0.040557329, u'bolo_tie', 0.036007714, u'hook', 0.035612386]
+[u'abaya', 0.098339729, u'sarong', 0.068572819, u'gown', 0.066722937, u'cleaver', 0.065093905, u'butcher_shop', 0.045269653]
+[u'grille', 0.98898482, u'toaster', 0.0046511129, u'car_wheel', 0.0010781945, u'radiator', 0.00092176523, u'accordion', 0.00046067851]
+[u'tape_player', 0.28968686, u'cassette_player', 0.13698357, u'pay-phone', 0.090575852, u'CD_player', 0.068258509, u'radio', 0.057716198]
+[u'web_site', 0.10892855, u'hair_slide', 0.032860149, u'quill', 0.032589603, u'lipstick', 0.030320266, u'envelope', 0.029754613]

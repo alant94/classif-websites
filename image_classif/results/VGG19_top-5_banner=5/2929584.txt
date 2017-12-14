@@ -1,0 +1,2 @@
+[u'restaurant', 0.38117537, u'shoe_shop', 0.19800878, u'dining_table', 0.1519907, u'grand_piano', 0.036977194, u'library', 0.028390655]
+[u'fountain', 0.2303147, u'tailed_frog', 0.038657065, u'barn_spider', 0.034423482, u'platypus', 0.031529501, u'grey_whale', 0.024600131]

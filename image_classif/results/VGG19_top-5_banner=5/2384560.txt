@@ -1,0 +1,4 @@
+[u'oil_filter', 0.80733967, u'coffee_mug', 0.030340951, u'candle', 0.021277403, u'pencil_sharpener', 0.014693881, u'thimble', 0.010509018]
+[u'oil_filter', 0.93976402, u'lighter', 0.011736311, u'analog_clock', 0.010593586, u'pencil_sharpener', 0.0036781335, u'cocktail_shaker', 0.0030449571]
+[u'oil_filter', 0.29647914, u'coffee_mug', 0.23574862, u'candle', 0.12142973, u'thimble', 0.059809297, u'book_jacket', 0.053203147]
+[u'cocktail_shaker', 0.33852994, u'oil_filter', 0.24027264, u'milk_can', 0.18943737, u'whiskey_jug', 0.074334882, u'water_bottle', 0.026629981]

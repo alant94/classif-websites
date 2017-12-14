@@ -1,0 +1,1 @@
+[u'matchstick', 0.70352322, u'nail', 0.19653676, u'drumstick', 0.016224986, u'screw', 0.01618229, u'rubber_eraser', 0.014514333]

@@ -1,0 +1,8 @@
+[u'rule', 0.13144909, u'chime', 0.12510227, u'nail', 0.076331109, u'screwdriver', 0.05131311, u'matchstick', 0.033516079]
+[u'web_site', 0.26569036, u'digital_clock', 0.10077888, u'screen', 0.039773192, u'cash_machine', 0.039376155, u'laptop', 0.038704123]
+[u'bulletproof_vest', 0.15869081, u'pickelhaube', 0.077931106, u'cuirass', 0.065879434, u'breastplate', 0.04293092, u'tank', 0.041188948]
+[u'rotisserie', 0.38215226, u'bakery', 0.072760902, u'Australian_terrier', 0.070568435, u'Yorkshire_terrier', 0.037644144, u'chow', 0.033870988]
+[u'dining_table', 0.080528565, u'bell_cote', 0.077471964, u'stove', 0.051417999, u'dam', 0.049780242, u'vault', 0.043475498]
+[u'rubber_eraser', 0.33167675, u'pill_bottle', 0.15609168, u'balloon', 0.13286372, u'whistle', 0.096279994, u'sunscreen', 0.018440153]
+[u'wall_clock', 0.028247999, u'envelope', 0.014230034, u'syringe', 0.013104301, u'rule', 0.013071954, u'ballpoint', 0.013058959]
+[u'switch', 0.10925997, u'remote_control', 0.091396749, u'rule', 0.040856037, u'parachute', 0.037034009, u'pick', 0.035176419]

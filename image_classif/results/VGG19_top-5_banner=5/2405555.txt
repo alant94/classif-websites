@@ -1,0 +1,4 @@
+[u'ballplayer', 0.1536295, u'bow', 0.04794018, u'sweatshirt', 0.041527558, u'holster', 0.039313696, u'military_uniform', 0.032582551]
+[u'spotlight', 0.19841249, u'pencil_sharpener', 0.19472057, u'switch', 0.12011521, u'soap_dispenser', 0.057557646, u'toilet_seat', 0.041794445]
+[u'holster', 0.26965386, u'knee_pad', 0.21521039, u'assault_rifle', 0.042983089, u'scabbard', 0.042141516, u'bow', 0.028185599]
+[u'chime', 0.28951457, u'screwdriver', 0.115013, u'ski', 0.060497921, u'nail', 0.056873854, u'bannister', 0.042594437]

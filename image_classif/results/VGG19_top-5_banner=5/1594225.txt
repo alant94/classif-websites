@@ -1,0 +1,2 @@
+[u'web_site', 0.99815995, u'menu', 0.0011090126, u'comic_book', 9.4897281e-05, u'book_jacket', 9.0748639e-05, u'monitor', 9.0095935e-05]
+[u'ski', 0.48752666, u'comic_book', 0.2570031, u'web_site', 0.015942572, u'book_jacket', 0.011849795, u'ballpoint', 0.0098133525]

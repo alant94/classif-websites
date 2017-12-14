@@ -1,0 +1,7 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'screwdriver', 0.190247, u'pill_bottle', 0.11197278, u'whistle', 0.10319056, u'syringe', 0.064987384, u'pop_bottle', 0.062589496]
+[u'patio', 0.79428071, u'greenhouse', 0.06717892, u'mobile_home', 0.041996375, u'sliding_door', 0.029214675, u'pot', 0.019388864]
+[u'beer_glass', 0.054325182, u'padlock', 0.027033623, u'traffic_light', 0.024608938, u'cab', 0.024309097, u'bow', 0.021188552]
+[u'rubber_eraser', 0.15250398, u'ballpoint', 0.12836477, u'pencil_box', 0.061897673, u'bookcase', 0.043278001, u'rule', 0.043103974]
+[u'envelope', 0.17487243, u'web_site', 0.13587391, u'wall_clock', 0.046520777, u'nematode', 0.016005225, u'book_jacket', 0.014048581]
+[u'screwdriver', 0.46861261, u"carpenter's_kit", 0.22063613, u'digital_watch', 0.096328042, u'digital_clock', 0.042538643, u'lighter', 0.015543482]

@@ -1,0 +1,4 @@
+[u'web_site', 0.72406602, u'refrigerator', 0.12294615, u'menu', 0.10213602, u'vending_machine', 0.035293829, u'packet', 0.006280418]
+[u'digital_clock', 0.6568895, u'maze', 0.071992032, u'street_sign', 0.034989011, u'cinema', 0.027656449, u'traffic_light', 0.021535803]
+[u'vending_machine', 0.30483532, u'barbershop', 0.1707346, u'gas_pump', 0.14783671, u'scoreboard', 0.11218843, u'cash_machine', 0.026210343]
+[u'lab_coat', 0.51328081, u'cleaver', 0.1846724, u'spatula', 0.041887481, u'paintbrush', 0.024962237, u'shower_curtain', 0.016975112]

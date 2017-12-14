@@ -1,0 +1,2 @@
+[u'rocking_chair', 0.11281911, u'chime', 0.052649986, u'panpipe', 0.050200868, u'hook', 0.039934918, u'face_powder', 0.032840814]
+[u'EntleBucher', 0.20964897, u'Greater_Swiss_Mountain_dog', 0.12701479, u'dogsled', 0.094110191, u'bluetick', 0.057905812, u'Gordon_setter', 0.054800183]

@@ -1,0 +1,1 @@
+[u'nail', 0.13682827, u'screw', 0.041747902, u'wall_clock', 0.031218523, u'analog_clock', 0.019262914, u'matchstick', 0.017467521]

@@ -1,0 +1,5 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'abaya', 0.26412281, u'suit', 0.19128405, u'groom', 0.08699096, u'bow_tie', 0.02508341, u'vestment', 0.02424401]
+[u'envelope', 0.13101351, u'web_site', 0.10963859, u'matchstick', 0.068073578, u'folding_chair', 0.061057907, u'analog_clock', 0.054629065]
+[u'digital_clock', 0.12790708, u'Band_Aid', 0.058850389, u'envelope', 0.054341383, u'wall_clock', 0.028010761, u'container_ship', 0.019622521]
+[u'suit', 0.17786354, u'groom', 0.05115208, u'abaya', 0.048388708, u'grand_piano', 0.037894189, u'restaurant', 0.03705835]

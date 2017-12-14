@@ -1,0 +1,1 @@
+[u'barbershop', 0.39046669, u'barber_chair', 0.17400576, u'restaurant', 0.079144344, u'chime', 0.041531183, u'coffeepot', 0.02962444]

@@ -1,0 +1,6 @@
+[u'envelope', 0.018892031, u'cleaver', 0.015593036, u'hatchet', 0.014026866, u'can_opener', 0.011687414, u'letter_opener', 0.011299367]
+[u'prison', 0.18199705, u'candle', 0.12788439, u'fire_screen', 0.042666096, u'lampshade', 0.02611419, u'menu', 0.024593666]
+[u'wall_clock', 0.031254534, u'switch', 0.019790383, u'ballpoint', 0.017870815, u'nematode', 0.0172203, u'pill_bottle', 0.016572459]
+[u'wall_clock', 0.11481784, u'rule', 0.055242117, u'nail', 0.028414287, u'chime', 0.027827857, u'matchstick', 0.025617039]
+[u'book_jacket', 0.084813632, u'street_sign', 0.06989108, u'carton', 0.031138916, u'hook', 0.025386536, u'cash_machine', 0.023389045]
+[u'beacon', 0.10089914, u'pedestal', 0.057158593, u'candle', 0.048729531, u'obelisk', 0.045561939, u'mosque', 0.044844743]

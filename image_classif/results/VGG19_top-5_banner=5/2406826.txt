@@ -1,0 +1,4 @@
+[u'jersey', 0.94205916, u'pajama', 0.02627629, u'kimono', 0.017604396, u'envelope', 0.0064288941, u'sweatshirt', 0.0014037703]
+[u'wardrobe', 0.50649899, u'ski', 0.35970864, u'picket_fence', 0.023271438, u'hook', 0.019777806, u'cleaver', 0.015727393]
+[u'Windsor_tie', 0.028221764, u'cheetah', 0.021056816, u'African_hunting_dog', 0.020993395, u'English_foxhound', 0.019773236, u'web_site', 0.017452618]
+[u'shower_cap', 0.19736621, u'bathing_cap', 0.1151988, u'pajama', 0.10830702, u'swimming_trunks', 0.068885699, u'vase', 0.039464321]

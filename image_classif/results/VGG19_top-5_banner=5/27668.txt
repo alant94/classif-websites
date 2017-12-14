@@ -1,0 +1,3 @@
+[u'ice_lolly', 0.097443275, u'bonnet', 0.034117434, u'shoe_shop', 0.033318192, u'lab_coat', 0.029082796, u'tricycle', 0.028766403]
+[u'book_jacket', 0.034272209, u'comic_book', 0.025565272, u'hair_spray', 0.023716526, u'wig', 0.019786639, u'mask', 0.018216914]
+[u'bikini', 0.40910926, u'maillot', 0.21998954, u'maillot', 0.066904463, u'volleyball', 0.059437998, u'pole', 0.043241486]

@@ -1,0 +1,3 @@
+[u'bell_cote', 0.56475931, u'space_shuttle', 0.087938815, u'analog_clock', 0.034925945, u'jigsaw_puzzle', 0.032811388, u'stupa', 0.031656161]
+[u'digital_clock', 0.93377244, u'maze', 0.010984097, u'digital_watch', 0.010611171, u'wall_clock', 0.0102611, u'container_ship', 0.0028729357]
+[u'envelope', 0.028220272, u'lacewing', 0.021532511, u'quill', 0.018922258, u'bee_eater', 0.015470983, u'syringe', 0.015156565]

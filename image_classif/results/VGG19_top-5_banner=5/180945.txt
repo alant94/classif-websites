@@ -1,0 +1,5 @@
+[u'book_jacket', 0.50182122, u'comic_book', 0.09194421, u'barbershop', 0.03522021, u'scoreboard', 0.020742128, u'wardrobe', 0.016291508]
+[u'prayer_rug', 0.20344716, u'shower_curtain', 0.14846066, u'envelope', 0.13758862, u'wardrobe', 0.070389494, u'window_shade', 0.068714023]
+[u'throne', 0.049818795, u'hook', 0.039821886, u'pretzel', 0.035802804, u'book_jacket', 0.027071496, u'basketball', 0.024246063]
+[u'rule', 0.20173562, u'slide_rule', 0.053693447, u'modem', 0.038395599, u'web_site', 0.031898048, u'book_jacket', 0.02775749]
+[u'web_site', 0.57209176, u'menu', 0.26477447, u'notebook', 0.014840756, u'space_heater', 0.014384963, u'envelope', 0.014320849]

@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.33250594, u'bakery', 0.17443937, u'barbershop', 0.14919336, u'restaurant', 0.040349111, u'mailbox', 0.025603672]
+[u'picket_fence', 0.30677435, u'maze', 0.22601663, u'carton', 0.11975594, u'digital_clock', 0.069491297, u'library', 0.034241058]
+[u'spotlight', 0.028830236, u'medicine_chest', 0.026478803, u'shoji', 0.022024326, u'window_shade', 0.020994719, u'digital_clock', 0.016306724]
+[u'puck', 0.78823286, u'face_powder', 0.049430069, u'tray', 0.043255962, u'wall_clock', 0.013416351, u'packet', 0.01239839]
+[u'ballpoint', 0.83187503, u'screwdriver', 0.031237572, u'rubber_eraser', 0.029425861, u'screw', 0.020149518, u'syringe', 0.017799804]

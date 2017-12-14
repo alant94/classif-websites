@@ -1,0 +1,6 @@
+[u'limousine', 0.17717017, u'printer', 0.112655, u'projector', 0.070568927, u'tow_truck', 0.069407575, u'recreational_vehicle', 0.065708503]
+[u'loupe', 0.07393764, u'hook', 0.051215451, u'whistle', 0.047562364, u'binder', 0.024266869, u'stopwatch', 0.021052672]
+[u'web_site', 0.12876323, u'snowplow', 0.082702443, u'book_jacket', 0.069200553, u'jeep', 0.069196232, u'pickup', 0.063686974]
+[u'ambulance', 0.32121432, u'moving_van', 0.1835923, u'police_van', 0.047538906, u'minibus', 0.045248028, u'recreational_vehicle', 0.034746971]
+[u'snowplow', 0.32134852, u'ambulance', 0.17927082, u'half_track', 0.059573688, u'racer', 0.056796622, u'lawn_mower', 0.031024812]
+[u'web_site', 0.35085869, u'cash_machine', 0.25585076, u'gas_pump', 0.075919732, u'packet', 0.020003321, u'tobacco_shop', 0.015662327]

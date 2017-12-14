@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.23932807, u'window_shade', 0.17250611, u'window_screen', 0.1503555, u'shoji', 0.032839298, u'handkerchief', 0.016258283]
+[u'window_screen', 0.044500306, u'shower_curtain', 0.03197011, u'Windsor_tie', 0.017390847, u'container_ship', 0.016684819, u'scoreboard', 0.016274175]
+[u'lakeside', 0.52968675, u'seashore', 0.1050963, u'valley', 0.094009094, u'promontory', 0.072343789, u'breakwater', 0.070384182]
+[u'digital_clock', 0.21132001, u'Windsor_tie', 0.11496443, u'digital_watch', 0.06693434, u'wall_clock', 0.046693042, u'envelope', 0.034717906]
+[u'envelope', 0.089715749, u'web_site', 0.079332404, u'cleaver', 0.018744387, u'can_opener', 0.014695025, u'hatchet', 0.014008333]
+[u'candle', 0.082247578, u'lipstick', 0.080252185, u'broom', 0.063467748, u'plunger', 0.056550067, u'red_wine', 0.055004161]
+[u'window_screen', 0.028579736, u'German_shepherd', 0.017599726, u'balance_beam', 0.016441394, u'African_hunting_dog', 0.014955102, u'container_ship', 0.011012048]

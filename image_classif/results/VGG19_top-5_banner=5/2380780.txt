@@ -1,0 +1,6 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'jersey', 0.080748402, u'puck', 0.077081934, u'pick', 0.06423188, u'book_jacket', 0.04443365, u'sunscreen', 0.040476289]
+[u'flagpole', 0.27431005, u'beacon', 0.076573491, u'pole', 0.065580025, u'airship', 0.041007593, u'traffic_light', 0.039885432]
+[u'palace', 0.25210601, u'book_jacket', 0.13925, u'triumphal_arch', 0.04114297, u'brass', 0.037664391, u'monastery', 0.036073055]
+[u'doormat', 0.16533668, u'puck', 0.099121004, u'carton', 0.097529665, u'book_jacket', 0.075130716, u'oil_filter', 0.069713607]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,3 @@
+[u'menu', 0.6595372, u'packet', 0.10327666, u'web_site', 0.064255811, u'book_jacket', 0.0099617913, u'iron', 0.0078790849]
+[u'hair_slide', 0.35196421, u'rubber_eraser', 0.10467698, u'handkerchief', 0.098197535, u'shower_cap', 0.076558411, u'envelope', 0.062111273]
+[u'stretcher', 0.2852374, u'crane', 0.09442658, u'hook', 0.079367638, u'cradle', 0.047759075, u'swing', 0.026958026]

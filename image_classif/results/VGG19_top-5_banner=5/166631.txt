@@ -1,0 +1,2 @@
+[u'torch', 0.46478394, u'stage', 0.10054946, u'book_jacket', 0.050768558, u'theater_curtain', 0.041768763, u'comic_book', 0.032100171]
+[u'pedestal', 0.26985124, u'teapot', 0.12641475, u'lampshade', 0.076235265, u'caldron', 0.068119526, u'table_lamp', 0.055249374]

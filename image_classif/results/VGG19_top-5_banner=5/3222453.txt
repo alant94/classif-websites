@@ -1,0 +1,3 @@
+[u'book_jacket', 0.17068838, u'binder', 0.10527355, u'packet', 0.062503159, u'perfume', 0.048766531, u'digital_clock', 0.04193715]
+[u'barbershop', 0.47244421, u'book_jacket', 0.15367037, u'Band_Aid', 0.054931428, u'pop_bottle', 0.041976899, u'scoreboard', 0.026130438]
+[u'maze', 0.10572898, u'wall_clock', 0.099044524, u'coil', 0.085177131, u'analog_clock', 0.068958454, u'rule', 0.029017063]

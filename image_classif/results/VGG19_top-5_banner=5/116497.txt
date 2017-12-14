@@ -1,0 +1,2 @@
+[u'soccer_ball', 0.61038059, u'crash_helmet', 0.26268396, u'mouse', 0.05676027, u'volleyball', 0.031781074, u'mask', 0.0077998685]
+[u'ski', 0.41688704, u'bobsled', 0.21064439, u'unicycle', 0.02494671, u'chain_saw', 0.022745267, u'lawn_mower', 0.017566117]

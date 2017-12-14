@@ -1,0 +1,5 @@
+[u'picket_fence', 0.2758089, u'water_tower', 0.082863964, u'digital_clock', 0.080477782, u'crib', 0.045276504, u'prison', 0.028818386]
+[u'chime', 0.082111076, u'bathing_cap', 0.054887343, u'nail', 0.053822957, u'crib', 0.050582413, u"carpenter's_kit", 0.041862231]
+[u'matchstick', 0.080651365, u'crib', 0.072763897, u'picket_fence', 0.071421295, u'chime', 0.059220951, u'envelope', 0.054534923]
+[u'book_jacket', 0.20479628, u'picket_fence', 0.071330361, u'cash_machine', 0.065795414, u'digital_clock', 0.036051933, u'plastic_bag', 0.029896867]
+[u'digital_clock', 0.10292885, u'binder', 0.069974527, u'cash_machine', 0.064832956, u'crib', 0.033647038, u'book_jacket', 0.032036215]

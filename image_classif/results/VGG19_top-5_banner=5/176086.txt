@@ -1,0 +1,4 @@
+[u'streetcar', 0.13694063, u'parking_meter', 0.059029743, u'cab', 0.05373574, u'minibus', 0.030968258, u'school_bus', 0.02869416]
+[u'stole', 0.16722786, u'abaya', 0.097462997, u'wool', 0.079411298, u'velvet', 0.076714441, u'overskirt', 0.061638437]
+[u'cowboy_hat', 0.44397333, u'harmonica', 0.25560588, u'sombrero', 0.087559454, u'flute', 0.027977088, u'revolver', 0.01412675]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

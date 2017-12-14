@@ -1,0 +1,3 @@
+[u'mailbox', 0.099669993, u'rubber_eraser', 0.096133061, u'binder', 0.053844333, u'cash_machine', 0.049136292, u'book_jacket', 0.040698428]
+[u'envelope', 0.32626492, u'handkerchief', 0.26389077, u'jigsaw_puzzle', 0.059385873, u'lampshade', 0.033611402, u'space_shuttle', 0.023997927]
+[u'alp', 0.9798249, u'valley', 0.0077761523, u'geyser', 0.0031113077, u'mountain_tent', 0.0025975602, u'ski', 0.0016240752]

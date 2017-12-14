@@ -1,0 +1,8 @@
+[u'chainlink_fence', 0.34423158, u'pier', 0.3251147, u'suspension_bridge', 0.092119426, u'water_tower', 0.061785161, u'crane', 0.032022554]
+[u'Band_Aid', 0.060255431, u'ice_lolly', 0.058062833, u'military_uniform', 0.046203386, u'mask', 0.042976212, u'sunscreen', 0.037089102]
+[u'obelisk', 0.46654943, u'crane', 0.11511711, u'missile', 0.044653565, u'flagpole', 0.043253355, u'dock', 0.033666026]
+[u'church', 0.15632485, u'monastery', 0.12001786, u'analog_clock', 0.10403623, u'vault', 0.067101561, u'altar', 0.053312972]
+[u'breakwater', 0.38395312, u'dock', 0.22001837, u'seashore', 0.06702321, u'aircraft_carrier', 0.060880296, u'lakeside', 0.053079017]
+[u'church', 0.26620644, u'monastery', 0.16389902, u'palace', 0.10468011, u'castle', 0.10281923, u'gondola', 0.052896228]
+[u'breakwater', 0.66597909, u'lakeside', 0.14169402, u'seashore', 0.052131981, u'dock', 0.038507592, u'dam', 0.016747966]
+[u'fountain', 0.10795238, u'church', 0.10464625, u'crane', 0.083462141, u'web_site', 0.061377365, u'beacon', 0.050272204]

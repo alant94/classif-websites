@@ -1,0 +1,6 @@
+[u'water_buffalo', 0.40288872, u'zebra', 0.2137572, u'Arabian_camel', 0.12062307, u'bison', 0.11077919, u'African_elephant', 0.040661652]
+[u'ibex', 0.84202242, u'bighorn', 0.072744422, u'ram', 0.018258519, u'warthog', 0.010375261, u'hartebeest', 0.008528892]
+[u'horse_cart', 0.63730949, u'sorrel', 0.19724879, u'ox', 0.053466253, u'barrel', 0.029400706, u'Ibizan_hound', 0.014013076]
+[u'wild_boar', 0.4044311, u'hog', 0.19842911, u'warthog', 0.066144519, u'baboon', 0.052673839, u'chain_saw', 0.039658394]
+[u'tick', 0.36519364, u'wall_clock', 0.081762522, u'toilet_seat', 0.075604342, u'American_lobster', 0.052235123, u'shield', 0.047580197]
+[u'shoe_shop', 0.30831867, u'snowmobile', 0.10237509, u'web_site', 0.073271506, u'cleaver', 0.06973011, u'sleeping_bag', 0.054346122]

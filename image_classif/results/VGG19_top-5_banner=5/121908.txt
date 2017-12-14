@@ -1,0 +1,8 @@
+[u'comic_book', 0.71325016, u'jersey', 0.083372399, u'book_jacket', 0.042075802, u'packet', 0.025227249, u'tray', 0.0091494657]
+[u'toyshop', 0.79702801, u'knee_pad', 0.033531658, u'mask', 0.023038521, u'bathing_cap', 0.019370966, u'bobsled', 0.013068621]
+[u'monitor', 0.28861782, u'screen', 0.25500935, u'oscilloscope', 0.15940358, u'television', 0.091768354, u'analog_clock', 0.064432941]
+[u'ski', 0.19325629, u'shovel', 0.16016208, u'pinwheel', 0.14220475, u'pencil_sharpener', 0.060880419, u'parachute', 0.048097819]
+[u'medicine_chest', 0.67951012, u'bookcase', 0.1881137, u'shoji', 0.046223164, u'wardrobe', 0.027551303, u'library', 0.010348661]
+[u'altar', 0.24378252, u'jigsaw_puzzle', 0.13941894, u'mosque', 0.062145188, u'lampshade', 0.05820594, u'toyshop', 0.048733354]
+[u'comic_book', 0.16135818, u'book_jacket', 0.09461996, u'bow', 0.046709575, u'web_site', 0.037503306, u'television', 0.035383306]
+[u'throne', 0.34514356, u'restaurant', 0.091510907, u'tobacco_shop', 0.082147434, u'bookshop', 0.077930726, u'toyshop', 0.073328912]

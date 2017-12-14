@@ -1,0 +1,4 @@
+[u'saltshaker', 0.10703649, u'screw', 0.09476199, u'bannister', 0.092673443, u'tripod', 0.081940793, u'pill_bottle', 0.069132403]
+[u'book_jacket', 0.053853616, u'street_sign', 0.044900745, u'web_site', 0.043219168, u'matchstick', 0.036783811, u'traffic_light', 0.030329689]
+[u'ballpoint', 0.33008644, u'screwdriver', 0.080658212, u'nail', 0.060482036, u"carpenter's_kit", 0.05501404, u'paintbrush', 0.044229351]
+[u'library', 0.71000761, u'bookcase', 0.094907857, u'shoji', 0.032351095, u'bookshop', 0.016145548, u'window_shade', 0.014933687]

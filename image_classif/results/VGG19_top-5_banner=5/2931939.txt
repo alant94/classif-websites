@@ -1,0 +1,7 @@
+[u'harp', 0.21539696, u'window_shade', 0.14698298, u'prison', 0.10064786, u'cello', 0.040945891, u'organ', 0.036643695]
+[u'envelope', 0.14535025, u'switch', 0.11444709, u'binder', 0.10884076, u'digital_clock', 0.063262664, u'safe', 0.05409272]
+[u'cloak', 0.27368191, u'lipstick', 0.19126952, u'suit', 0.11656933, u'wig', 0.1095712, u'abaya', 0.048184786]
+[u'shower_curtain', 0.38817531, u'iron', 0.14622524, u'hourglass', 0.036983415, u'maillot', 0.029986553, u'bathtub', 0.027560988]
+[u'lipstick', 0.17626359, u'hair_spray', 0.097141132, u'syringe', 0.054102615, u'shower_curtain', 0.048053231, u'microphone', 0.042785756]
+[u'binder', 0.1942686, u'envelope', 0.11297888, u'wall_clock', 0.089965291, u'digital_clock', 0.067182846, u'switch', 0.065813072]
+[u'binder', 0.15405522, u'switch', 0.13074647, u'envelope', 0.11191563, u'safe', 0.096835144, u'wall_clock', 0.043732394]

@@ -1,0 +1,3 @@
+[u'beer_bottle', 0.20976143, u'cinema', 0.13207351, u'ski', 0.062096905, u'wall_clock', 0.058495529, u'pop_bottle', 0.052506115]
+[u'organ', 0.86223841, u'chime', 0.095963277, u'fountain_pen', 0.018490572, u'binder', 0.010269023, u'library', 0.002826595]
+[u'web_site', 0.63994414, u'monitor', 0.097278461, u'envelope', 0.03149388, u'television', 0.030457918, u'jigsaw_puzzle', 0.022168603]

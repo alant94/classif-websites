@@ -1,0 +1,3 @@
+[u'tennis_ball', 0.90252644, u'Granny_Smith', 0.065624915, u'ping-pong_ball', 0.008738081, u'golf_ball', 0.0083842948, u'bottlecap', 0.0030176868]
+[u'wallet', 0.48722583, u'purse', 0.35794866, u'pencil_box', 0.044039376, u'chest', 0.01346258, u'buckle', 0.0087790098]
+[u'matchstick', 0.30953282, u'wardrobe', 0.062945738, u'plate_rack', 0.046945583, u'paintbrush', 0.046626717, u'candle', 0.04571053]

@@ -1,0 +1,3 @@
+[u'hook', 0.23978199, u'ski', 0.1775571, u'letter_opener', 0.061333571, u'nematode', 0.045919459, u'ear', 0.044122849]
+[u'impala', 0.16651276, u'hartebeest', 0.12905236, u'worm_fence', 0.091611199, u'gazelle', 0.088012278, u'bow', 0.047724247]
+[u'envelope', 0.40636384, u'menu', 0.2797707, u'handkerchief', 0.081669644, u'shower_curtain', 0.050975155, u'bib', 0.028847117]

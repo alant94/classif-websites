@@ -1,0 +1,2 @@
+[u'packet', 0.38935572, u'comic_book', 0.041443992, u'jersey', 0.033739064, u'sunscreen', 0.02660219, u'laptop', 0.023105122]
+[u'punching_bag', 0.099440292, u'microphone', 0.056345005, u'pot', 0.040239688, u'lighter', 0.040030967, u'tripod', 0.038581517]

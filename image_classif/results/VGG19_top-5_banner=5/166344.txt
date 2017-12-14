@@ -1,0 +1,1 @@
+[u'picket_fence', 0.49927607, u'rule', 0.049944274, u'book_jacket', 0.038218081, u'matchstick', 0.027366592, u'bannister', 0.026115885]

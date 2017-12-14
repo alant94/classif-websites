@@ -1,0 +1,4 @@
+[u'stage', 0.42645684, u'fountain', 0.26325285, u'spotlight', 0.17039876, u'torch', 0.034188833, u'planetarium', 0.024771897]
+[u'container_ship', 0.037995458, u'trailer_truck', 0.018624285, u'geyser', 0.017110392, u'trolleybus', 0.015931601, u'space_shuttle', 0.015587877]
+[u'muzzle', 0.090932339, u'hatchet', 0.090486743, u'ocarina', 0.054553702, u'can_opener', 0.046543416, u'neck_brace', 0.033231657]
+[u'street_sign', 0.40252405, u'book_jacket', 0.11121827, u'Band_Aid', 0.03896353, u'picket_fence', 0.031910658, u'safety_pin', 0.019190926]

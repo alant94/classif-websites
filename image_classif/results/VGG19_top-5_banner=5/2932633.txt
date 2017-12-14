@@ -1,0 +1,2 @@
+[u'washer', 0.14052656, u'dishwasher', 0.1114477, u'wardrobe', 0.095917925, u'iron', 0.065259308, u'plate_rack', 0.044148568]
+[u'airliner', 0.34733152, u'warplane', 0.19645803, u'wing', 0.15980199, u'space_shuttle', 0.14534089, u'airship', 0.033292305]

@@ -1,0 +1,8 @@
+[u'barn', 0.56744426, u'fountain', 0.091962531, u'picket_fence', 0.085358761, u'worm_fence', 0.072884671, u'dam', 0.012780201]
+[u'book_jacket', 0.54438812, u'barbershop', 0.22375162, u'comic_book', 0.084842026, u'menu', 0.034747146, u'freight_car', 0.0090046097]
+[u'street_sign', 0.45265642, u'trailer_truck', 0.095875762, u'cash_machine', 0.065385394, u'book_jacket', 0.040438853, u'car_mirror', 0.033590272]
+[u'envelope', 0.47997567, u'book_jacket', 0.28246495, u'carton', 0.054963473, u'packet', 0.044827547, u'menu', 0.029412141]
+[u'theater_curtain', 0.63532186, u'gown', 0.065245152, u'stage', 0.030828828, u'velvet', 0.029196374, u'brassiere', 0.023156047]
+[u'Loafer', 0.19166307, u'quill', 0.081886552, u'clog', 0.049841058, u'letter_opener', 0.032198269, u'sandal', 0.029877251]
+[u'envelope', 0.30572787, u'book_jacket', 0.083532698, u'carton', 0.033537824, u'doormat', 0.029785326, u'ashcan', 0.022244159]
+[u'mosquito_net', 0.13696018, u'theater_curtain', 0.11477043, u'head_cabbage', 0.071354896, u'screen', 0.064035721, u'fountain', 0.048181739]

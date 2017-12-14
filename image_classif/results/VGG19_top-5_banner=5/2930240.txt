@@ -1,0 +1,6 @@
+[u'umbrella', 0.083266854, u'abaya', 0.078350008, u'fountain', 0.068897665, u'cloak', 0.055318445, u'bubble', 0.040865757]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'ice_lolly', 0.48305938, u'bubble', 0.086176954, u'groom', 0.056397185, u'beer_glass', 0.032157663, u'water_bottle', 0.02193561]
+[u'fountain', 0.79847795, u'American_egret', 0.01741734, u'lakeside', 0.01515031, u'bubble', 0.011188527, u'stage', 0.010413206]
+[u'guinea_pig', 0.036425725, u'Windsor_tie', 0.033993203, u'Band_Aid', 0.028176449, u'Chihuahua', 0.023314042, u'syringe', 0.021281442]
+[u'walking_stick', 0.42406216, u'mantis', 0.076940902, u'Band_Aid', 0.034455482, u'American_chameleon', 0.031729061, u'grasshopper', 0.024151688]

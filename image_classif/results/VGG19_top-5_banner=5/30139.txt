@@ -1,0 +1,2 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'airship', 0.12905329, u'volcano', 0.094150312, u'geyser', 0.034598462, u'parachute', 0.03222556, u'cliff', 0.031843275]

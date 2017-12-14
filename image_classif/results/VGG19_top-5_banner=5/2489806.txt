@@ -1,0 +1,2 @@
+[u'Brittany_spaniel', 0.60299772, u'Welsh_springer_spaniel', 0.12710668, u'English_setter', 0.1009253, u'English_springer', 0.07636521, u'clumber', 0.056891669]
+[u'book_jacket', 0.17806454, u'brass', 0.17013803, u'barn', 0.086456671, u'web_site', 0.049069874, u'hay', 0.037261013]

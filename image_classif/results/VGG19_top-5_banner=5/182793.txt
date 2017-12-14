@@ -1,0 +1,1 @@
+[u'matchstick', 0.73542714, u'candle', 0.04931403, u'digital_clock', 0.023365073, u'space_shuttle', 0.022745736, u'flagpole', 0.018485779]

@@ -1,0 +1,8 @@
+[u'cuirass', 0.12484113, u'breastplate', 0.1045265, u'mailbag', 0.070230275, u'cowboy_hat', 0.041993361, u'punching_bag', 0.040954527]
+[u'borzoi', 0.8741641, u'Ibizan_hound', 0.076776668, u'Saluki', 0.013229048, u'kuvasz', 0.0080247717, u'wire-haired_fox_terrier', 0.0059520272]
+[u'kite', 0.19102344, u'vulture', 0.10237549, u'white_stork', 0.097423993, u'black_stork', 0.059001807, u'black_grouse', 0.030139128]
+[u'English_setter', 0.24145246, u'Saluki', 0.16884945, u'Irish_wolfhound', 0.13544372, u'whippet', 0.11424359, u'Ibizan_hound', 0.077432185]
+[u'impala', 0.17059936, u'English_foxhound', 0.12441112, u'gazelle', 0.092768036, u'Ibizan_hound', 0.073133901, u'hartebeest', 0.07177417]
+[u'punching_bag', 0.62064171, u'cowboy_boot', 0.031300955, u'clog', 0.026404388, u'wool', 0.020414252, u'bearskin', 0.018473333]
+[u'shovel', 0.45582998, u'hook', 0.27086142, u'hammer', 0.079593092, u'screwdriver', 0.073928311, u"carpenter's_kit", 0.02967049]
+[u'oxcart', 0.23786759, u'picket_fence', 0.23027253, u'ox', 0.17530727, u'conch', 0.028951727, u'English_foxhound', 0.017824465]

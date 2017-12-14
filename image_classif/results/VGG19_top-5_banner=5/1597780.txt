@@ -1,0 +1,4 @@
+[u'digital_clock', 0.15354536, u'digital_watch', 0.052446846, u'Band_Aid', 0.049291693, u'Windsor_tie', 0.040000249, u'wall_clock', 0.028287811]
+[u'kite', 0.038180422, u'bald_eagle', 0.024164667, u'black_stork', 0.017985361, u'parachute', 0.017672898, u'bee_eater', 0.013211337]
+[u'sunscreen', 0.14455135, u'ice_lolly', 0.088032663, u'lipstick', 0.066232741, u'bikini', 0.054152425, u'lotion', 0.053469673]
+[u'envelope', 0.35919493, u'web_site', 0.15590513, u'Band_Aid', 0.037536711, u'digital_clock', 0.023409318, u'wall_clock', 0.017114656]

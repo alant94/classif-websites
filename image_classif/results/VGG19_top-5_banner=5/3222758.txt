@@ -1,0 +1,5 @@
+[u'digital_clock', 0.51235878, u'binder', 0.076079763, u'digital_watch', 0.063073605, u'modem', 0.04551078, u'switch', 0.032340251]
+[u'web_site', 0.13638058, u'envelope', 0.033638507, u'maraca', 0.027191136, u'jersey', 0.025324304, u'lotion', 0.013068117]
+[u'kite', 0.16589424, u'bee_eater', 0.072655343, u'bald_eagle', 0.064619675, u'vulture', 0.029861946, u'admiral', 0.023635676]
+[u'matchstick', 0.13531105, u'web_site', 0.13189955, u'Band_Aid', 0.05429272, u'Windsor_tie', 0.043709818, u'book_jacket', 0.038965587]
+[u'suit', 0.8424778, u'Windsor_tie', 0.09727402, u'groom', 0.035346184, u'bow_tie', 0.0088404315, u'oboe', 0.0043275193]

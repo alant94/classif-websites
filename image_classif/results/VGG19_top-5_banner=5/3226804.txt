@@ -1,0 +1,7 @@
+[u'book_jacket', 0.59089291, u'street_sign', 0.077021778, u'comic_book', 0.03302905, u'cash_machine', 0.025083901, u'web_site', 0.018271852]
+[u'drilling_platform', 0.063443266, u'palace', 0.033411343, u'bell_cote', 0.028998353, u'crane', 0.026142472, u'mosque', 0.022676624]
+[u'digital_clock', 0.4827899, u'scoreboard', 0.13112012, u'container_ship', 0.026834415, u'maze', 0.024812002, u'monitor', 0.024561564]
+[u'hook', 0.71725422, u"carpenter's_kit", 0.074866295, u'safety_pin', 0.042163894, u'letter_opener', 0.020538187, u'nail', 0.020344006]
+[u'traffic_light', 0.2068142, u'scoreboard', 0.075149558, u'container_ship', 0.074520387, u'digital_clock', 0.057317976, u'airship', 0.047026586]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.090126589, u'Band_Aid', 0.083952397, u'hook', 0.065454811, u'safety_pin', 0.053694982, u'coffee_mug', 0.040723857]

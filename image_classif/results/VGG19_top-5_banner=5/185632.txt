@@ -1,0 +1,3 @@
+[u'hair_slide', 0.22129677, u'poncho', 0.20775212, u'hook', 0.17175737, u'swab', 0.11121591, u'stole', 0.10608401]
+[u'wig', 0.19997451, u'necklace', 0.087889992, u'hair_slide', 0.063236415, u'brassiere', 0.042703435, u'bikini', 0.041318011]
+[u'digital_clock', 0.81446934, u'digital_watch', 0.090998709, u'maze', 0.065432936, u'scoreboard', 0.012686434, u'prayer_rug', 0.0052725188]

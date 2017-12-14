@@ -1,0 +1,5 @@
+[u'chime', 0.32973322, u'harp', 0.15698718, u'lampshade', 0.10805511, u'panpipe', 0.098973848, u'picket_fence', 0.04471178]
+[u'indigo_bunting', 0.063202478, u'jean', 0.047508687, u'kimono', 0.046415452, u'paintbrush', 0.033640128, u'jay', 0.030163402]
+[u'book_jacket', 0.39462823, u'lighter', 0.16343716, u'television', 0.058437321, u'tray', 0.050905909, u'brass', 0.046757348]
+[u'book_jacket', 0.15126383, u'pencil_box', 0.11504106, u'binder', 0.10147183, u'packet', 0.056847356, u'perfume', 0.040711839]
+[u'can_opener', 0.12817679, u'mouse', 0.12108195, u'vacuum', 0.085183911, u'piggy_bank', 0.083354861, u'hand_blower', 0.074787967]

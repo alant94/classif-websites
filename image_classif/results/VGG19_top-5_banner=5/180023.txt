@@ -1,0 +1,4 @@
+[u'web_site', 0.60376483, u'book_jacket', 0.05686976, u'comic_book', 0.026726214, u'envelope', 0.026237955, u'rule', 0.016814237]
+[u'crane', 0.30664089, u'drilling_platform', 0.14322343, u'radio_telescope', 0.060253531, u'pole', 0.059715513, u'radio', 0.055098567]
+[u'chime', 0.47105464, u'bell_cote', 0.28781924, u'street_sign', 0.056847431, u'hook', 0.036789741, u'pedestal', 0.031324454]
+[u'crane', 0.38027859, u'drilling_platform', 0.09962035, u'radio_telescope', 0.081277214, u'pole', 0.062441111, u'tripod', 0.042158246]

@@ -1,0 +1,8 @@
+[u'green_mamba', 0.19664453, u'mantis', 0.14547347, u'hook', 0.089177608, u'coil', 0.082701229, u'hair_slide', 0.07587029]
+[u'marimba', 0.087479718, u'caldron', 0.070515715, u'steel_drum', 0.059999865, u'rotisserie', 0.05760261, u'barbershop', 0.044676945]
+[u'iPod', 0.25603044, u'street_sign', 0.12789448, u'tray', 0.12540415, u'laptop', 0.11416871, u'digital_clock', 0.071694352]
+[u'screwdriver', 0.68756503, u"carpenter's_kit", 0.17057425, u'remote_control', 0.016738059, u'rule', 0.012762129, u'book_jacket', 0.012377445]
+[u'screwdriver', 0.3975769, u'nail', 0.10120682, u'syringe', 0.050145272, u'screw', 0.03822393, u'lipstick', 0.029493537]
+[u'combination_lock', 0.20578834, u'whistle', 0.19014858, u'hook', 0.097931169, u"carpenter's_kit", 0.08024583, u'magnetic_compass', 0.0677341]
+[u"carpenter's_kit", 0.5047431, u'screwdriver', 0.16475928, u'assault_rifle', 0.07665804, u'rifle', 0.052937675, u'bow', 0.03097507]
+[u'laptop', 0.32868466, u'tray', 0.16776782, u'folding_chair', 0.096281894, u'ashcan', 0.058023095, u'iPod', 0.056940563]

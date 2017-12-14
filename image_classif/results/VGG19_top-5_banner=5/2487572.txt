@@ -1,0 +1,4 @@
+[u'digital_clock', 0.14922586, u'Windsor_tie', 0.076530337, u'crossword_puzzle', 0.072212957, u'Band_Aid', 0.038733587, u'scoreboard', 0.027425172]
+[u'digital_clock', 0.39477623, u'street_sign', 0.251248, u'book_jacket', 0.027980067, u'scoreboard', 0.019619104, u'web_site', 0.018299]
+[u'web_site', 0.41931289, u'envelope', 0.045169637, u'wall_clock', 0.032235365, u'digital_clock', 0.031829748, u'jersey', 0.026666053]
+[u'warthog', 0.42992666, u'hartebeest', 0.070270196, u'ibex', 0.063797675, u'boa_constrictor', 0.053125855, u'bighorn', 0.029158855]

@@ -1,0 +1,2 @@
+[u'suit', 0.48287335, u'bow_tie', 0.23035644, u'Windsor_tie', 0.21469513, u'neck_brace', 0.054163817, u'oboe', 0.0021074342]
+[u'restaurant', 0.71941555, u'dining_table', 0.1083739, u'library', 0.047780726, u'tobacco_shop', 0.016428996, u'church', 0.015667114]

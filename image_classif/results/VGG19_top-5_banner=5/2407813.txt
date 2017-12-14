@@ -1,0 +1,6 @@
+[u'Windsor_tie', 0.080632128, u'velvet', 0.024409441, u'envelope', 0.022191532, u'digital_clock', 0.020858718, u'digital_watch', 0.018418966]
+[u'sandal', 0.92289925, u'clog', 0.044266813, u'buckle', 0.017623929, u'muzzle', 0.0080479728, u'whistle', 0.0020273426]
+[u'hair_slide', 0.30723199, u'sandal', 0.23624146, u'buckle', 0.087553017, u'scabbard', 0.054812215, u'tray', 0.034326132]
+[u'sandal', 0.80818719, u'plane', 0.065896392, u'buckle', 0.04045644, u'triceratops', 0.015720638, u'clog', 0.012041287]
+[u'hair_slide', 0.53397119, u'sandal', 0.35821414, u'clog', 0.032387838, u'buckle', 0.023825198, u'Loafer', 0.017573547]
+[u'sandal', 0.78256965, u'clog', 0.13701093, u'buckle', 0.024612425, u'plane', 0.0077184527, u'hair_slide', 0.0066211675]

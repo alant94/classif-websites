@@ -1,0 +1,7 @@
+[u"jack-o'-lantern", 0.19915754, u'lighter', 0.075364031, u'book_jacket', 0.072416708, u'traffic_light', 0.054291323, u'matchstick', 0.052071154]
+[u'theater_curtain', 0.1321205, u'throne', 0.055431284, u'vestment', 0.036144219, u'shield', 0.034406841, u'lampshade', 0.033973284]
+[u'hair_slide', 0.28768396, u'buckle', 0.12793015, u'ladle', 0.05413704, u'French_horn', 0.052130431, u'letter_opener', 0.044084098]
+[u'jersey', 0.38187492, u'lighter', 0.038199201, u'abaya', 0.034536656, u'matchstick', 0.030195255, u'sweatshirt', 0.024428248]
+[u'ice_lolly', 0.65103698, u'pill_bottle', 0.09366098, u'leafhopper', 0.074704744, u'water_bottle', 0.031445496, u'nipple', 0.029912192]
+[u'jersey', 0.18855663, u'matchstick', 0.063890778, u'sea_slug', 0.051961411, u'lighter', 0.032829084, u'flatworm', 0.025445461]
+[u'book_jacket', 0.64090574, u'scoreboard', 0.11256525, u'web_site', 0.033205591, u'comic_book', 0.032419086, u'crossword_puzzle', 0.025460679]

@@ -1,0 +1,6 @@
+[u'medicine_chest', 0.80340511, u'altar', 0.02806329, u'perfume', 0.021457648, u'pop_bottle', 0.018692702, u'lotion', 0.014537841]
+[u'goblet', 0.56369585, u'beer_glass', 0.16188167, u'wine_bottle', 0.045801122, u'perfume', 0.040830329, u'red_wine', 0.029914299]
+[u'beer_glass', 0.83052343, u'espresso', 0.026807822, u'beer_bottle', 0.015892366, u'eggnog', 0.011666601, u'saltshaker', 0.0085584009]
+[u'red_wine', 0.72271508, u'goblet', 0.20980123, u'wine_bottle', 0.039370287, u'corkscrew', 0.011080642, u'eggnog', 0.002097948]
+[u'butcher_shop', 0.29392964, u'cleaver', 0.1541405, u'vestment', 0.038039573, u'groom', 0.023567678, u'conch', 0.022405921]
+[u'wine_bottle', 0.66791874, u'red_wine', 0.14378743, u'cocktail_shaker', 0.030518208, u'corkscrew', 0.021235574, u'hamper', 0.01476035]

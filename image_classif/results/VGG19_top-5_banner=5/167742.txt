@@ -1,0 +1,7 @@
+[u'web_site', 0.36161989, u'bubble', 0.091140702, u'bow_tie', 0.0521392, u'television', 0.041799746, u'sunglass', 0.035236228]
+[u'envelope', 0.15804008, u'web_site', 0.069763206, u'Band_Aid', 0.035246026, u'lipstick', 0.01978262, u'perfume', 0.016877223]
+[u'alp', 0.21218684, u'castle', 0.19948836, u'mountain_bike', 0.062571548, u'cliff', 0.036245123, u'monastery', 0.025502799]
+[u'matchstick', 0.094975688, u'bow', 0.05744328, u'chime', 0.05203747, u'screwdriver', 0.042699683, u'ballpoint', 0.035595935]
+[u'cash_machine', 0.30604598, u'street_sign', 0.084105477, u'pay-phone', 0.082695208, u'slot', 0.063047774, u'parking_meter', 0.040487066]
+[u'envelope', 0.11687534, u'digital_clock', 0.073751099, u'safe', 0.047315624, u'beacon', 0.029982395, u'wall_clock', 0.029761119]
+[u'restaurant', 0.28207979, u'theater_curtain', 0.21664181, u'cinema', 0.19895951, u'tobacco_shop', 0.072464392, u'bakery', 0.040671255]

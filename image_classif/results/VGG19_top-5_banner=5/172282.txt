@@ -1,0 +1,1 @@
+[u'iron', 0.46635711, u'hand_blower', 0.11879054, u'sewing_machine', 0.050633524, u'toilet_seat', 0.0247382, u'bathing_cap', 0.023059791]

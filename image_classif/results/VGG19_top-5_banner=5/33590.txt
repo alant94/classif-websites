@@ -1,0 +1,5 @@
+[u'comic_book', 0.46943372, u'book_jacket', 0.35203853, u'jersey', 0.027874859, u'swab', 0.009137338, u'sweatshirt', 0.0081565734]
+[u'picket_fence', 0.092736118, u'book_jacket', 0.06647256, u'bookcase', 0.048263755, u'binder', 0.039320324, u'prison', 0.034828383]
+[u'envelope', 0.13283436, u'web_site', 0.048200872, u'Band_Aid', 0.028377803, u'wall_clock', 0.016319435, u'rule', 0.015113416]
+[u'stupa', 0.44390577, u'maze', 0.1106559, u'digital_clock', 0.060046669, u'container_ship', 0.052878074, u'balloon', 0.043517809]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

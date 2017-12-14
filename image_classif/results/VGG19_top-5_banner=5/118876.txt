@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.62527597, u'stage', 0.03361005, u'jersey', 0.030433597, u'digital_clock', 0.015423975, u"jack-o'-lantern", 0.012464507]
+[u'fire_engine', 0.14418618, u'racer', 0.08447592, u'cab', 0.056528721, u'toyshop', 0.044147968, u'ambulance', 0.024567358]
+[u'notebook', 0.59225446, u'hand-held_computer', 0.054660488, u'laptop', 0.0478037, u'harmonica', 0.037077803, u'modem', 0.031331364]
+[u'altar', 0.37658516, u'chime', 0.086878322, u'saltshaker', 0.084553875, u'cowboy_boot', 0.056260973, u'vase', 0.05431094]

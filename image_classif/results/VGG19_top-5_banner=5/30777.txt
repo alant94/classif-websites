@@ -1,0 +1,3 @@
+[u'street_sign', 0.18013842, u'book_jacket', 0.1282064, u'web_site', 0.042999644, u'Band_Aid', 0.027485058, u'hair_spray', 0.025565499]
+[u'digital_clock', 0.39490253, u'digital_watch', 0.073581882, u'wall_clock', 0.03799222, u'maze', 0.028052162, u'envelope', 0.025529342]
+[u'dogsled', 0.30413279, u'ski', 0.29545954, u'swing', 0.07386981, u'fountain', 0.054796316, u'snowmobile', 0.046162359]

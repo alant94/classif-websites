@@ -1,0 +1,5 @@
+[u'spoonbill', 0.54318768, u'proboscis_monkey', 0.046708874, u'pelican', 0.039835244, u'vulture', 0.0303175, u'crane', 0.026080642]
+[u'tray', 0.21755652, u'pillow', 0.03506675, u'apiary', 0.033216476, u'bee', 0.032435324, u'chest', 0.031036589]
+[u'fountain', 0.4859353, u'picket_fence', 0.033899996, u'matchstick', 0.025804125, u'shower_curtain', 0.024830876, u'swab', 0.023215676]
+[u'fountain', 0.83251357, u'totem_pole', 0.035610408, u'picket_fence', 0.022493605, u'ski', 0.020637788, u'church', 0.0045456295]
+[u'fountain', 0.83944666, u'swab', 0.017120285, u'quill', 0.014563917, u'picket_fence', 0.011976188, u'ski', 0.0091781542]

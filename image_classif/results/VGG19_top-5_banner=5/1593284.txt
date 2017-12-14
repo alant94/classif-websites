@@ -1,0 +1,5 @@
+[u'wire-haired_fox_terrier', 0.13553086, u'Siberian_husky', 0.089084096, u'Eskimo_dog', 0.06670738, u'snow_leopard', 0.050655801, u'Norwegian_elkhound', 0.03774872]
+[u'swimming_trunks', 0.27688614, u'maillot', 0.065700494, u'bikini', 0.064564407, u'maillot', 0.059449121, u'African_elephant', 0.058092203]
+[u'lampshade', 0.21483973, u'table_lamp', 0.12018585, u'space_shuttle', 0.087641723, u'fountain', 0.050730687, u'stupa', 0.048793439]
+[u'timber_wolf', 0.6301986, u'white_wolf', 0.15933247, u'dingo', 0.049508717, u'red_wolf', 0.048061293, u'Eskimo_dog', 0.041156899]
+[u'wig', 0.1315363, u'poncho', 0.048499919, u'stole', 0.043558177, u'panpipe', 0.039672121, u'overskirt', 0.02440984]

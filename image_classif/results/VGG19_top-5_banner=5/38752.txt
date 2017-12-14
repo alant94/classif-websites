@@ -1,0 +1,8 @@
+[u"carpenter's_kit", 0.15244852, u'book_jacket', 0.11060435, u'cleaver', 0.085199863, u'screwdriver', 0.053780351, u'plate_rack', 0.046064097]
+[u'paintbrush', 0.23058438, u'ballpoint', 0.16370384, u'lipstick', 0.12025861, u'screwdriver', 0.079599269, u'rubber_eraser', 0.030209148]
+[u'screwdriver', 0.151703, u'lipstick', 0.10358732, u'ballpoint', 0.082777008, u'safety_pin', 0.079841375, u"carpenter's_kit", 0.076155998]
+[u'ballpoint', 0.53260213, u'screwdriver', 0.10074192, u'fountain_pen', 0.10067259, u'pencil_box', 0.072226427, u'paintbrush', 0.040462647]
+[u'envelope', 0.34959054, u'digital_clock', 0.11046579, u'web_site', 0.039264984, u'wall_clock', 0.018588714, u'whistle', 0.017824484]
+[u'rule', 0.37790397, u'screwdriver', 0.26955754, u'rubber_eraser', 0.043977503, u'book_jacket', 0.02757513, u"carpenter's_kit", 0.016381534]
+[u'panpipe', 0.17801645, u'web_site', 0.13353659, u'lipstick', 0.10783321, u'matchstick', 0.10320188, u'screwdriver', 0.060022224]
+[u"carpenter's_kit", 0.26214409, u'screwdriver', 0.20446236, u'paintbrush', 0.054450963, u'bow', 0.040659599, u'ballpoint', 0.027911721]

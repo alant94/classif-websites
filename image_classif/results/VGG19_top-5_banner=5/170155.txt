@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.15956526, u'wool', 0.12368423, u'digital_clock', 0.041666467, u'quilt', 0.038101457, u'container_ship', 0.035962783]
+[u'lighter', 0.20868459, u'envelope', 0.15150538, u'web_site', 0.057420563, u'binder', 0.026127117, u'book_jacket', 0.025919924]

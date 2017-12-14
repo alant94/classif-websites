@@ -1,0 +1,6 @@
+[u'matchstick', 0.081529886, u'volcano', 0.068116419, u'goldfish', 0.038416911, u'black_widow', 0.036954466, u'torch', 0.035517503]
+[u'fountain', 0.61871517, u'geyser', 0.18068871, u'stage', 0.04850461, u'spotlight', 0.020086309, u'volcano', 0.014990817]
+[u'fountain', 0.43131316, u'Great_Dane', 0.039981943, u'whippet', 0.037521072, u'standard_schnauzer', 0.028686091, u'Weimaraner', 0.027562859]
+[u'bow', 0.27168933, u'ballpoint', 0.11136186, u'letter_opener', 0.091177747, u'hook', 0.060084384, u'hair_slide', 0.034701556]
+[u'fur_coat', 0.36430702, u'fountain', 0.20910677, u'great_grey_owl', 0.15399757, u'vulture', 0.10565683, u'komondor', 0.01604354]
+[u'comic_book', 0.29661074, u'volcano', 0.11565647, u'orangutan', 0.089002401, u'book_jacket', 0.088172272, u'electric_guitar', 0.038143128]

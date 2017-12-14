@@ -1,0 +1,3 @@
+[u'geyser', 0.408703, u'seashore', 0.039670296, u'tray', 0.033442605, u'wing', 0.031443637, u'platypus', 0.026423002]
+[u'geyser', 0.408703, u'seashore', 0.039670296, u'tray', 0.033442605, u'wing', 0.031443637, u'platypus', 0.026423002]
+[u'geyser', 0.49536166, u'seashore', 0.042548269, u'wing', 0.026676135, u'beacon', 0.023274861, u'valley', 0.018435678]

@@ -1,0 +1,6 @@
+[u'ski', 0.40502256, u'power_drill', 0.16604316, u'punching_bag', 0.060096081, u'ski_mask', 0.059218004, u'knee_pad', 0.047353264]
+[u'tricycle', 0.58971494, u'bicycle-built-for-two', 0.22470252, u'moped', 0.13548149, u'mountain_bike', 0.030520089, u'unicycle', 0.0038784735]
+[u'safe', 0.42493457, u'medicine_chest', 0.12828591, u'digital_clock', 0.049322493, u'switch', 0.041645397, u'envelope', 0.034041401]
+[u'envelope', 0.23740219, u'digital_clock', 0.19660152, u'maze', 0.082957774, u'safe', 0.061909743, u'cash_machine', 0.049166795]
+[u'reel', 0.20202716, u'toaster', 0.13213933, u'bow', 0.069010764, u'power_drill', 0.064958714, u'chain_saw', 0.02520263]
+[u'medicine_chest', 0.13079597, u'binder', 0.10793117, u'envelope', 0.09493506, u'washbasin', 0.059124008, u'safe', 0.057057787]

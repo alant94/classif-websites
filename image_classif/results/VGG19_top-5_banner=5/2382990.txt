@@ -1,0 +1,6 @@
+[u'matchstick', 0.20162, u'nail', 0.049924586, u'drumstick', 0.031688061, u'chime', 0.029330164, u'torch', 0.024227139]
+[u'rapeseed', 0.49469566, u'street_sign', 0.11197659, u'park_bench', 0.058863379, u'scoreboard', 0.032508701, u'worm_fence', 0.03103875]
+[u'wine_bottle', 0.39314836, u'red_wine', 0.27946725, u'beer_bottle', 0.10583907, u'chocolate_sauce', 0.07740856, u'hamper', 0.033294342]
+[u'binoculars', 0.73824376, u'projector', 0.028590877, u'lighter', 0.027288737, u'wine_bottle', 0.016074304, u'Polaroid_camera', 0.014837421]
+[u'rapeseed', 0.19750962, u'stone_wall', 0.13642149, u'valley', 0.084455572, u'worm_fence', 0.062451813, u'lakeside', 0.046245407]
+[u'flagpole', 0.84107542, u'pinwheel', 0.052392792, u'umbrella', 0.035015311, u'parachute', 0.02022397, u'maypole', 0.012888847]

@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.32031333, u'swab', 0.1040431, u'wardrobe', 0.081452876, u'fountain', 0.054129947, u'jean', 0.027931884]
+[u'paintbrush', 0.22442596, u'worm_fence', 0.094284371, u'wooden_spoon', 0.075357467, u'rifle', 0.072900683, u'butcher_shop', 0.060481649]
+[u'bittern', 0.42276651, u'ear', 0.096399896, u'limpkin', 0.050036728, u'European_gallinule', 0.037835766, u'little_blue_heron', 0.034638081]
+[u'fountain', 0.13609317, u'lipstick', 0.13253991, u'matchstick', 0.069665745, u'barbershop', 0.053263221, u'iron', 0.05224622]

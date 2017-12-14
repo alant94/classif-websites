@@ -1,0 +1,8 @@
+[u'web_site', 0.50046396, u'menu', 0.14730603, u'envelope', 0.14187968, u'comic_book', 0.051320966, u'crossword_puzzle', 0.047719844]
+[u'sunglasses', 0.20522922, u'sunglass', 0.1582804, u'cowboy_hat', 0.040070057, u'bookshop', 0.02260833, u'sombrero', 0.022452284]
+[u'turnstile', 0.20823014, u'shoe_shop', 0.069564909, u'ping-pong_ball', 0.053982724, u'sliding_door', 0.048210982, u'shoji', 0.038728196]
+[u'bubble', 0.14198942, u'cab', 0.093860105, u'stage', 0.076735154, u'traffic_light', 0.047323961, u'torch', 0.034147516]
+[u'web_site', 0.68963629, u'book_jacket', 0.023317158, u'cash_machine', 0.013666308, u'Band_Aid', 0.011251562, u'digital_clock', 0.007877918]
+[u'candle', 0.92538625, u'groom', 0.030257637, u'restaurant', 0.0039623762, u'hot_pot', 0.003521197, u'menu', 0.0030217886]
+[u'restaurant', 0.3471128, u'plate', 0.051914033, u'candle', 0.050767966, u'tray', 0.03765275, u'bakery', 0.024438696]
+[u'stage', 0.18130152, u'altar', 0.09692625, u'restaurant', 0.051222246, u'mortarboard', 0.030063514, u'vestment', 0.02663523]

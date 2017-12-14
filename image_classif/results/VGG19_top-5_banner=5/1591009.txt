@@ -1,0 +1,6 @@
+[u'butternut_squash', 0.24186273, u'Band_Aid', 0.24161674, u'sunscreen', 0.04626026, u'barbershop', 0.045437079, u'piggy_bank', 0.038729638]
+[u'wardrobe', 0.38119584, u'sliding_door', 0.072677955, u'dining_table', 0.066603355, u'refrigerator', 0.035081539, u'shower_curtain', 0.032097597]
+[u'window_screen', 0.03498308, u'shower_curtain', 0.034934472, u'balance_beam', 0.026089102, u'suit', 0.012356892, u'Egyptian_cat', 0.010791417]
+[u'miniskirt', 0.18299414, u'quilt', 0.095317811, u'bath_towel', 0.040187269, u'velvet', 0.040147085, u'diaper', 0.030426148]
+[u'fountain', 0.2229228, u'palace', 0.049479708, u'dam', 0.047607005, u'mosque', 0.041428655, u'pier', 0.032916896]
+[u'sandal', 0.18288377, u'syringe', 0.029257772, u'brassiere', 0.02440772, u'Band_Aid', 0.019740749, u'whiptail', 0.018933723]

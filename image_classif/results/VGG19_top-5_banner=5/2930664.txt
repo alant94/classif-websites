@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.2803579, u'panpipe', 0.09186022, u'cleaver', 0.050494462, u'book_jacket', 0.031479426, u'wardrobe', 0.030694349]
+[u'bookshop', 0.39201018, u'library', 0.066979639, u'cash_machine', 0.046035178, u'book_jacket', 0.042037003, u'cassette', 0.035298519]
+[u'restaurant', 0.11671908, u'groom', 0.072661631, u'candle', 0.071954884, u'cocktail_shaker', 0.070657387, u'goblet', 0.069150105]
+[u'beacon', 0.080677316, u'water_tower', 0.037067123, u'picket_fence', 0.028593522, u'digital_clock', 0.028568514, u'traffic_light', 0.026850896]

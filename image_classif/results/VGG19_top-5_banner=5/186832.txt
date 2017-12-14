@@ -1,0 +1,2 @@
+[u'mortarboard', 0.23061691, u'stage', 0.13487063, u'torch', 0.13263653, u'academic_gown', 0.08611872, u'suit', 0.070784494]
+[u'web_site', 0.30184412, u'envelope', 0.27257124, u'digital_clock', 0.047560755, u'broom', 0.027567534, u'theater_curtain', 0.024812911]

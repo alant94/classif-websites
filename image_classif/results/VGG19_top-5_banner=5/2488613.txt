@@ -1,0 +1,2 @@
+[u'web_site', 0.21466412, u'switch', 0.12403053, u'beacon', 0.070772305, u'solar_dish', 0.036650665, u'notebook', 0.035986688]
+[u'crossword_puzzle', 0.50486606, u'container_ship', 0.11927601, u'safe', 0.072826132, u'monitor', 0.020579692, u'desk', 0.011867227]

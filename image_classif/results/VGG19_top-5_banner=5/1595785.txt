@@ -1,0 +1,1 @@
+[u'doormat', 0.38853273, u'Band_Aid', 0.079155788, u'book_jacket', 0.054865334, u'oil_filter', 0.04674371, u'pick', 0.023811342]

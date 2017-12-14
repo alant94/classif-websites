@@ -1,0 +1,7 @@
+[u'digital_clock', 0.43896547, u'theater_curtain', 0.036467601, u'spotlight', 0.03123612, u"jack-o'-lantern", 0.020672265, u'matchstick', 0.019932026]
+[u'web_site', 0.27659822, u'digital_clock', 0.073768839, u'scale', 0.071862683, u'monitor', 0.056093942, u'analog_clock', 0.049881753]
+[u'fountain', 0.16592854, u'space_shuttle', 0.081653379, u'suspension_bridge', 0.079317369, u'pier', 0.047904961, u'mosque', 0.046585474]
+[u'fire_screen', 0.03190003, u'shower_curtain', 0.020541459, u'oscilloscope', 0.01596749, u'red_wolf', 0.015937805, u'window_screen', 0.012059675]
+[u'window_shade', 0.10016076, u'sunglasses', 0.099725805, u'shower_curtain', 0.099214591, u'wig', 0.074736379, u'sunglass', 0.03982025]
+[u'fountain', 0.47091904, u'magpie', 0.052833863, u'cliff', 0.051838208, u'vulture', 0.047765844, u'bald_eagle', 0.030011956]
+[u'web_site', 0.78681326, u'screen', 0.018511225, u'analog_clock', 0.016142858, u'monitor', 0.014816896, u'stopwatch', 0.012622023]

@@ -1,0 +1,7 @@
+[u'book_jacket', 0.75485557, u'comic_book', 0.23856673, u'stage', 0.0004484776, u'electric_guitar', 0.00042724487, u'hand_blower', 0.00022624542]
+[u'groenendael', 0.10461014, u'castle', 0.056325052, u'bearskin', 0.030228231, u'dogsled', 0.02608717, u'brown_bear', 0.024000494]
+[u'book_jacket', 0.67170447, u'barbershop', 0.034558218, u'bookshop', 0.027602367, u'pirate', 0.024119565, u'comic_book', 0.017393535]
+[u'cliff', 0.13125785, u'book_jacket', 0.1034991, u'brass', 0.058985844, u'black_stork', 0.049228054, u'little_blue_heron', 0.019586889]
+[u'digital_clock', 0.17176826, u'stage', 0.064577721, u'jersey', 0.063243367, u'book_jacket', 0.040906634, u'jellyfish', 0.032665454]
+[u'cliff', 0.26721337, u'book_jacket', 0.15123263, u'brass', 0.06811735, u'stone_wall', 0.042788278, u'alp', 0.038309909]
+[u'book_jacket', 0.25937602, u'bow', 0.20454133, u'cloak', 0.074488007, u'comic_book', 0.032495316, u'fountain', 0.028893584]

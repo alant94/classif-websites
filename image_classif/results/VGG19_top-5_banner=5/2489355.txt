@@ -1,0 +1,2 @@
+[u'street_sign', 0.18119684, u'digital_clock', 0.090280376, u'cash_machine', 0.07439407, u'scoreboard', 0.04918367, u'traffic_light', 0.047171675]
+[u'toilet_seat', 0.3747305, u'wall_clock', 0.22022401, u'tray', 0.10001598, u'bib', 0.093630373, u'face_powder', 0.069295898]

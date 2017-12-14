@@ -1,0 +1,1 @@
+[u'park_bench', 0.11245178, u'mountain_bike', 0.074691251, u'horse_cart', 0.055600714, u'bicycle-built-for-two', 0.048737779, u'worm_fence', 0.036950585]

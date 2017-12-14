@@ -1,0 +1,5 @@
+[u'military_uniform', 0.15955645, u'African_hunting_dog', 0.14222366, u'assault_rifle', 0.12056985, u'malamute', 0.067816146, u'ibex', 0.057845134]
+[u'geyser', 0.36423784, u'fountain', 0.18509425, u'lakeside', 0.17786036, u'canoe', 0.075593174, u'snowmobile', 0.027727531]
+[u'dogsled', 0.60748959, u'snowplow', 0.11807919, u'snowmobile', 0.082835421, u'chain_saw', 0.074548356, u'Chesapeake_Bay_retriever', 0.018433897]
+[u'cougar', 0.95311528, u'lynx', 0.0093718218, u'ibex', 0.0091562252, u'dingo', 0.0085966475, u'Chesapeake_Bay_retriever', 0.0034588089]
+[u'book_jacket', 0.15042166, u'street_sign', 0.10430808, u'water_tower', 0.10185467, u'comic_book', 0.061583426, u'airship', 0.044199795]

@@ -1,0 +1,2 @@
+[u'web_site', 0.50810516, u'envelope', 0.1921718, u'packet', 0.020541269, u'binder', 0.019602934, u'modem', 0.016940899]
+[u'jersey', 0.39789194, u'sweatshirt', 0.045877162, u'spatula', 0.020048844, u'bassoon', 0.019130029, u'Band_Aid', 0.016346654]

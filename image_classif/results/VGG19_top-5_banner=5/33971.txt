@@ -1,0 +1,8 @@
+[u'rule', 0.69602209, u'screwdriver', 0.062485006, u'syringe', 0.03790446, u'nail', 0.036805417, u'slide_rule', 0.03670219]
+[u'bucket', 0.29946786, u'buckle', 0.18693383, u'muzzle', 0.062935695, u'shopping_basket', 0.052858714, u'can_opener', 0.041608743]
+[u'rule', 0.67429984, u'slide_rule', 0.11510426, u'syringe', 0.058183104, u'nail', 0.054935824, u'screwdriver', 0.037738156]
+[u'rule', 0.63242686, u'slide_rule', 0.14664152, u'syringe', 0.065008886, u'screwdriver', 0.023857754, u'picket_fence', 0.012464778]
+[u'rule', 0.46940485, u'screwdriver', 0.16522476, u'nail', 0.081216373, u'syringe', 0.045017827, u'slide_rule', 0.042879649]
+[u'paintbrush', 0.90746117, u'butcher_shop', 0.026627036, u'coho', 0.010969447, u'cleaver', 0.0093955686, u'screwdriver', 0.0056654555]
+[u'matchstick', 0.23689732, u'nematode', 0.048197623, u'spotlight', 0.045485735, u'lighter', 0.031581894, u'candle', 0.030860025]
+[u'drum', 0.20935047, u'bucket', 0.091997579, u'buckle', 0.060340188, u'shopping_basket', 0.054084517, u'magnetic_compass', 0.042753175]

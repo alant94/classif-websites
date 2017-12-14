@@ -1,0 +1,5 @@
+[u'jersey', 0.16801615, u'birdhouse', 0.062663682, u'iron', 0.058120836, u'paper_towel', 0.034237951, u'wall_clock', 0.034233332]
+[u'geyser', 0.12520385, u'alp', 0.10939184, u'missile', 0.083487622, u'fountain', 0.074578121, u'space_shuttle', 0.069503382]
+[u'picket_fence', 0.055082981, u'book_jacket', 0.032443669, u'perfume', 0.03230669, u'vase', 0.030744992, u'web_site', 0.024390148]
+[u'alp', 0.40093234, u'snowmobile', 0.076254405, u'fountain', 0.06395065, u'ski', 0.046643883, u'church', 0.041026659]
+[u'book_jacket', 0.14242527, u'web_site', 0.052670699, u'envelope', 0.033138752, u'swab', 0.02446973, u'wall_clock', 0.013642276]

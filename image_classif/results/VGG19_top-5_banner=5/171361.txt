@@ -1,0 +1,5 @@
+[u'web_site', 0.68029219, u'lab_coat', 0.048779935, u'book_jacket', 0.032726821, u'torch', 0.023391847, u'bookshop', 0.019737909]
+[u'cello', 0.82665557, u'violin', 0.1720569, u'harp', 0.00034750727, u'hair_spray', 0.00034444965, u'bassoon', 0.00014207329]
+[u'feather_boa', 0.11563332, u'bow_tie', 0.10789106, u'wig', 0.067008749, u'cloak', 0.060895, u'barracouta', 0.040444337]
+[u'military_uniform', 0.072649226, u'rifle', 0.066104516, u'barbershop', 0.05564446, u'pickelhaube', 0.05012849, u'bow', 0.046523824]
+[u'suit', 0.3805415, u'slide_rule', 0.065109618, u'web_site', 0.061428994, u'Windsor_tie', 0.047987945, u'comic_book', 0.038979713]

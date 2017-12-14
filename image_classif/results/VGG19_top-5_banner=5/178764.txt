@@ -1,0 +1,3 @@
+[u'pencil_sharpener', 0.26322189, u'broom', 0.082337998, u'book_jacket', 0.081265964, u'swab', 0.073006578, u'quill', 0.026944513]
+[u'torch', 0.33316338, u'soccer_ball', 0.15881751, u'croquet_ball', 0.11548811, u'rugby_ball', 0.088936768, u'racket', 0.071102135]
+[u'bicycle-built-for-two', 0.19215713, u'toyshop', 0.10574989, u'tricycle', 0.079730242, u'fountain', 0.05921394, u'mountain_bike', 0.051465988]

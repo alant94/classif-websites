@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.12981753, u'sunscreen', 0.089596264, u'swimming_trunks', 0.066215366, u'cellular_telephone', 0.048582669, u'groom', 0.043311339]
+[u'digital_clock', 0.096641198, u'street_sign', 0.094959855, u'barbershop', 0.042295981, u'book_jacket', 0.040793356, u'picket_fence', 0.027389899]
+[u'dumbbell', 0.076505817, u'bathtub', 0.066550784, u'shower_cap', 0.064388826, u'tub', 0.057605427, u'Weimaraner', 0.03511535]
+[u'bathtub', 0.15717079, u'tub', 0.14966951, u'bath_towel', 0.14130829, u'hair_spray', 0.048936311, u"potter's_wheel", 0.044030964]

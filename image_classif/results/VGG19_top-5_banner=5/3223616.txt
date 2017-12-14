@@ -1,0 +1,8 @@
+[u'brass', 0.9986456, u'menu', 0.0011528464, u'book_jacket', 0.00010292145, u'packet', 5.5728371e-05, u'prayer_rug', 3.3205983e-05]
+[u'book_jacket', 0.17066781, u'analog_clock', 0.11103216, u'wall_clock', 0.059327088, u'magnetic_compass', 0.05329876, u'web_site', 0.049935557]
+[u'digital_clock', 0.11754965, u'street_sign', 0.11721097, u'binder', 0.054789804, u'analog_clock', 0.030563567, u'envelope', 0.028919596]
+[u'swing', 0.36112079, u'horizontal_bar', 0.11533729, u'flagpole', 0.08109054, u'pole', 0.060428325, u'parallel_bars', 0.042130388]
+[u'web_site', 0.043362476, u'envelope', 0.01791643, u'hourglass', 0.015886128, u'crane', 0.013471491, u'bubble', 0.012405239]
+[u'matchstick', 0.20933814, u'panpipe', 0.15174589, u'web_site', 0.091412343, u'rule', 0.052660111, u'picket_fence', 0.041781731]
+[u'envelope', 0.28015885, u'web_site', 0.23253046, u'brassiere', 0.11618526, u'book_jacket', 0.051955111, u'bib', 0.019368179]
+[u'dial_telephone', 0.99098057, u'pay-phone', 0.008171875, u'cassette_player', 0.00035425005, u'magnetic_compass', 0.00017832305, u'analog_clock', 8.6045831e-05]

@@ -1,0 +1,4 @@
+[u'cinema', 0.088483036, u'cornet', 0.056106787, u'bannister', 0.051834706, u'tobacco_shop', 0.040869057, u'French_horn', 0.040214978]
+[u'stage', 0.503313, u'marimba', 0.14134817, u'panpipe', 0.088958375, u'sax', 0.031823833, u'electric_guitar', 0.026404403]
+[u'banjo', 0.10054952, u'swing', 0.08505585, u'cello', 0.069198839, u'bassoon', 0.066623785, u'oboe', 0.054723483]
+[u'ashcan', 0.25761747, u'tray', 0.14978406, u'street_sign', 0.14443137, u'folding_chair', 0.052120794, u'laptop', 0.036744881]

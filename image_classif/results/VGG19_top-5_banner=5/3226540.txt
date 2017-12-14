@@ -1,0 +1,2 @@
+[u'picket_fence', 0.19480102, u'flagpole', 0.087407559, u'castle', 0.068058766, u'beacon', 0.06315732, u'church', 0.058486305]
+[u'cash_machine', 0.074552387, u'book_jacket', 0.073027976, u'perfume', 0.069552884, u'hair_spray', 0.037886303, u'theater_curtain', 0.033859972]

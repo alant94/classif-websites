@@ -1,0 +1,4 @@
+[u'cassette_player', 0.57759756, u'cassette', 0.20297094, u'tape_player', 0.18019515, u'CD_player', 0.031624012, u'radio', 0.0022423319]
+[u'web_site', 0.10232969, u'analog_clock', 0.094468527, u'envelope', 0.065567359, u'stopwatch', 0.052330174, u'remote_control', 0.044468369]
+[u'space_shuttle', 0.16365726, u'container_ship', 0.052732766, u'scoreboard', 0.048411887, u'drilling_platform', 0.044247616, u'liner', 0.030573292]
+[u'envelope', 0.19483347, u'web_site', 0.11991431, u'plate_rack', 0.10178427, u'electric_fan', 0.059349775, u'book_jacket', 0.047673129]

@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.10295403, u'birdhouse', 0.058595821, u'cinema', 0.039494645, u'prison', 0.02811051, u'space_shuttle', 0.023994165]
+[u'web_site', 0.67888367, u'envelope', 0.1322576, u'menu', 0.086785711, u'oscilloscope', 0.0081341742, u'screen', 0.0059582018]
+[u'web_site', 0.11162481, u'digital_clock', 0.10580344, u'rule', 0.074814633, u'envelope', 0.055505864, u'nematode', 0.026529364]
+[u'hartebeest', 0.59099835, u'impala', 0.27699429, u'gazelle', 0.048979387, u'zebra', 0.028354289, u'water_buffalo', 0.0096113663]

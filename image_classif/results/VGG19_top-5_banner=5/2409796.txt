@@ -1,0 +1,1 @@
+[u'digital_clock', 0.44616839, u'street_sign', 0.054106705, u'Band_Aid', 0.047729898, u'envelope', 0.025186023, u'wall_clock', 0.021487676]

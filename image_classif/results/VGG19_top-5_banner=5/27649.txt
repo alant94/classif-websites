@@ -1,0 +1,8 @@
+[u'hair_spray', 0.053340875, u"carpenter's_kit", 0.037382178, u'toyshop', 0.037370507, u'book_jacket', 0.033457026, u'barbershop', 0.033368856]
+[u'ski', 0.82949072, u"carpenter's_kit", 0.095035799, u'bobsled', 0.011923757, u'bow', 0.0099183638, u'screwdriver', 0.0093821036]
+[u'swab', 0.25516394, u'nipple', 0.038758401, u'hair_slide', 0.035954587, u'bucket', 0.033764035, u'whistle', 0.028983528]
+[u'analog_clock', 0.26096779, u'screen', 0.071472891, u'monitor', 0.070514612, u'magnetic_compass', 0.042084679, u'television', 0.039830081]
+[u'ballpoint', 0.23573852, u'screwdriver', 0.077933386, u'screw', 0.052896567, u'fountain_pen', 0.048704766, u'nail', 0.03974887]
+[u'puck', 0.43774167, u'buckle', 0.34289047, u'bolo_tie', 0.053224709, u'shield', 0.039893545, u'bottlecap', 0.03543992]
+[u'puck', 0.12679899, u'airship', 0.12097536, u'crash_helmet', 0.084394597, u'running_shoe', 0.078290276, u'digital_clock', 0.037952926]
+[u'barbershop', 0.7042973, u'vending_machine', 0.065834209, u'book_jacket', 0.05682835, u'tobacco_shop', 0.054823503, u'shoe_shop', 0.017430693]

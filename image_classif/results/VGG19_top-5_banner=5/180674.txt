@@ -1,0 +1,6 @@
+[u'space_shuttle', 0.25442418, u'matchstick', 0.10402486, u'paintbrush', 0.085424893, u'ski', 0.066855475, u'fountain', 0.050694212]
+[u'bow_tie', 0.32530624, u'Windsor_tie', 0.21555324, u'suit', 0.11965927, u'bolo_tie', 0.038859718, u'neck_brace', 0.014374794]
+[u'coho', 0.49530903, u'barracouta', 0.20262352, u'gar', 0.10829966, u'sturgeon', 0.09292382, u'tench', 0.023134891]
+[u'hair_slide', 0.16864458, u'buckle', 0.092622414, u'sweatshirt', 0.068771258, u'maze', 0.060906496, u'pick', 0.039525978]
+[u'suit', 0.70413786, u'Windsor_tie', 0.04866771, u'oboe', 0.017867712, u'bow_tie', 0.016726958, u'bassoon', 0.015358429]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

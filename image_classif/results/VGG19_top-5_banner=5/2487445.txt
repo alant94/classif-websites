@@ -1,0 +1,2 @@
+[u'hartebeest', 0.68489057, u'gazelle', 0.036692865, u'rifle', 0.035413776, u'impala', 0.034052156, u'bow', 0.021265933]
+[u'digital_clock', 0.3124117, u'fountain', 0.17351687, u'spotlight', 0.13283753, u'bubble', 0.057047173, u'traffic_light', 0.039086707]

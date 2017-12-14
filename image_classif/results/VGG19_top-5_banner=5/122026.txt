@@ -1,0 +1,6 @@
+[u'restaurant', 0.091781706, u'vault', 0.067015126, u'throne', 0.066200592, u'washbasin', 0.060631964, u'lumbermill', 0.053036641]
+[u'electric_fan', 0.34130785, u'oxygen_mask', 0.12539536, u'shield', 0.07454145, u'cuirass', 0.049648587, u'breastplate', 0.047774386]
+[u'container_ship', 0.21688086, u'crane', 0.13060288, u'torch', 0.049263213, u'space_shuttle', 0.047994386, u'lifeboat', 0.04729424]
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]
+[u'punching_bag', 0.35165831, u'lumbermill', 0.058822893, u'space_shuttle', 0.048696853, u'butcher_shop', 0.03957041, u'missile', 0.036485899]
+[u'breastplate', 0.26891705, u'cuirass', 0.095725209, u'wig', 0.068167143, u'sax', 0.062192533, u'chain_mail', 0.026175369]

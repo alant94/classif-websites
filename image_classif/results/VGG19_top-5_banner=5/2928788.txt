@@ -1,0 +1,4 @@
+[u'toilet_seat', 0.24025074, u'clog', 0.17046192, u'iron', 0.073361553, u'spotlight', 0.071260527, u'mouse', 0.065119319]
+[u'nipple', 0.86234123, u'sandal', 0.039797891, u'clog', 0.013182544, u'iron', 0.008715149, u'hook', 0.008633649]
+[u'oxygen_mask', 0.57192439, u'hook', 0.051665291, u'nipple', 0.041609555, u'stethoscope', 0.039045263, u'gasmask', 0.036845326]
+[u'can_opener', 0.18978497, u'hand_blower', 0.1129223, u'iron', 0.092281118, u'corkscrew', 0.091957033, u'spotlight', 0.069413669]

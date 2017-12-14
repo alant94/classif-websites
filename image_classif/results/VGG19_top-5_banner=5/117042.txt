@@ -1,0 +1,5 @@
+[u'book_jacket', 0.53749478, u'Band_Aid', 0.101487, u'digital_clock', 0.060182065, u'scoreboard', 0.053263694, u'packet', 0.04847819]
+[u'envelope', 0.24252211, u'safe', 0.15652686, u'carton', 0.13342832, u'digital_clock', 0.10291385, u'binder', 0.047368187]
+[u'tub', 0.75826424, u'bathtub', 0.14625679, u'fountain', 0.0093313996, u'patio', 0.005674724, u'washbasin', 0.005049096]
+[u'digital_clock', 0.072929241, u'container_ship', 0.042074017, u'safe', 0.039689548, u'wall_clock', 0.031758696, u'scoreboard', 0.030080358]
+[u'puck', 0.12567982, u'tray', 0.076646909, u'digital_watch', 0.067904495, u'bottlecap', 0.06203153, u'magnetic_compass', 0.042652719]

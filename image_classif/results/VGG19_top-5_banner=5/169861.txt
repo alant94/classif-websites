@@ -1,0 +1,2 @@
+[u'abacus', 0.082554698, u'pick', 0.052592669, u'stage', 0.051113933, u'cinema', 0.045181014, u'sunglasses', 0.035961874]
+[u'organ', 0.93916065, u'upright', 0.031939086, u'accordion', 0.017529974, u'grand_piano', 0.0013986413, u'matchstick', 0.0011071975]

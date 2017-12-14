@@ -1,0 +1,1 @@
+[u'lotion', 0.11280127, u'perfume', 0.10761653, u'candle', 0.10555083, u'stupa', 0.074538812, u'saltshaker', 0.053152606]

@@ -1,0 +1,2 @@
+[u'torch', 0.26411274, u'stage', 0.22392225, u'spotlight', 0.1672398, u'television', 0.042336654, u'digital_clock', 0.030733218]
+[u'street_sign', 0.61237794, u'digital_clock', 0.042122934, u'scoreboard', 0.033835948, u'gas_pump', 0.022288609, u'cash_machine', 0.020869911]

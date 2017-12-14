@@ -1,0 +1,8 @@
+[u'wine_bottle', 0.69838977, u'red_wine', 0.25594208, u'beer_bottle', 0.014349282, u'projectile', 0.0047642807, u'hamper', 0.0043496252]
+[u'wall_clock', 0.063205779, u'bulletproof_vest', 0.04770508, u'web_site', 0.044157181, u'abaya', 0.02826957, u'sweatshirt', 0.027775807]
+[u'envelope', 0.24582548, u'whistle', 0.11121861, u'digital_clock', 0.074070856, u'tray', 0.059432071, u'rubber_eraser', 0.026195526]
+[u'container_ship', 0.14265364, u'digital_clock', 0.089443408, u'envelope', 0.042189978, u'monitor', 0.03824247, u'pill_bottle', 0.030283472]
+[u'hair_spray', 0.24373545, u'lipstick', 0.23913588, u'rubber_eraser', 0.070727199, u'projectile', 0.06278459, u'syringe', 0.038721576]
+[u'wine_bottle', 0.39602995, u'beer_bottle', 0.29251561, u'red_wine', 0.25725961, u'fountain_pen', 0.0099373041, u'projectile', 0.0080096126]
+[u'beacon', 0.13118501, u'parachute', 0.06021871, u'water_tower', 0.05935619, u'airship', 0.058785781, u'balloon', 0.049096774]
+[u'wine_bottle', 0.65650398, u'red_wine', 0.2084946, u'projectile', 0.019653024, u'beer_bottle', 0.017952587, u'hair_spray', 0.013071526]

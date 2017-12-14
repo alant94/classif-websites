@@ -1,0 +1,1 @@
+[u'screwdriver', 0.55538613, u'bow', 0.079151534, u"carpenter's_kit", 0.054310478, u'ballpoint', 0.037961423, u'ski', 0.03596025]

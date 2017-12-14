@@ -1,0 +1,5 @@
+[u'fountain', 0.98479062, u'dock', 0.0054571503, u'spotlight', 0.00341823, u'picket_fence', 0.00068545755, u'screw', 0.00055388315]
+[u'space_shuttle', 0.62089795, u'stupa', 0.056186799, u'castle', 0.041312054, u'picket_fence', 0.021487299, u'torch', 0.021118322]
+[u'puck', 0.24839868, u'loupe', 0.096737109, u'wall_clock', 0.080112182, u'face_powder', 0.055448178, u'shield', 0.042792782]
+[u'torch', 0.66155797, u'space_shuttle', 0.20255715, u'stove', 0.028449062, u'volcano', 0.019032883, u'beacon', 0.014397168]
+[u'window_screen', 0.078990318, u'velvet', 0.026064567, u'lampshade', 0.023615437, u'loudspeaker', 0.022866504, u'fire_screen', 0.020552522]

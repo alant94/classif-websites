@@ -1,0 +1,2 @@
+[u'bell_cote', 0.16158529, u'space_shuttle', 0.074283592, u'missile', 0.050468974, u'chime', 0.044364944, u'stupa', 0.04391332]
+[u'digital_clock', 0.21537276, u'Band_Aid', 0.15740861, u'maze', 0.087835886, u'ice_lolly', 0.081633233, u'whistle', 0.063391499]

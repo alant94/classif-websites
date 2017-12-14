@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.074886777, u'sleeping_bag', 0.054688081, u'quilt', 0.033846177, u'remote_control', 0.027749548, u'punching_bag', 0.021569777]

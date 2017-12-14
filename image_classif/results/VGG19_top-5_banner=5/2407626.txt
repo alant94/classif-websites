@@ -1,0 +1,4 @@
+[u'barbell', 0.26288709, u'tricycle', 0.11628213, u'thresher', 0.11134387, u'lawn_mower', 0.079883642, u'dumbbell', 0.059698597]
+[u'vacuum', 0.81076199, u'iron', 0.10472211, u'cassette_player', 0.0087332735, u'water_jug', 0.0086722476, u'lawn_mower', 0.0086146947]
+[u'garbage_truck', 0.59437335, u'harvester', 0.14872688, u'trailer_truck', 0.064407744, u'snowplow', 0.025954057, u'thresher', 0.02423428]
+[u'harvester', 0.47490582, u'thresher', 0.22307648, u'swab', 0.068251796, u'lawn_mower', 0.044795122, u'switch', 0.022683339]

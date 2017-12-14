@@ -1,0 +1,4 @@
+[u'brassiere', 0.075816557, u'maillot', 0.065941431, u'pole', 0.056420881, u'maillot', 0.051952921, u'four-poster', 0.04036114]
+[u'bikini', 0.34074917, u'maillot', 0.12725802, u'pole', 0.089736119, u'swimming_trunks', 0.075622126, u'maillot', 0.06935811]
+[u'bathtub', 0.2490263, u'bath_towel', 0.15718149, u'shower_cap', 0.12879321, u'swimming_trunks', 0.11650487, u'shower_curtain', 0.062664188]
+[u'hammer', 0.095600553, u'vacuum', 0.079482682, u'sea_lion', 0.028563559, u'crate', 0.02044134, u'carton', 0.019622769]

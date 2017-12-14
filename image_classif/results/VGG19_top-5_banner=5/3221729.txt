@@ -1,0 +1,4 @@
+[u'lakeside', 0.78199172, u'castle', 0.042598315, u'web_site', 0.036535751, u'boathouse', 0.01888125, u'balloon', 0.015356277]
+[u'safety_pin', 0.3578991, u'hair_slide', 0.32130828, u'rubber_eraser', 0.10330817, u'Band_Aid', 0.053997133, u'broom', 0.013094713]
+[u'digital_clock', 0.21548598, u'envelope', 0.10311603, u'scoreboard', 0.048136041, u'web_site', 0.044919528, u'crossword_puzzle', 0.038022533]
+[u'letter_opener', 0.092376441, u'cleaver', 0.054475959, u'rule', 0.052090775, u'quill', 0.039475583, u'chime', 0.038229898]

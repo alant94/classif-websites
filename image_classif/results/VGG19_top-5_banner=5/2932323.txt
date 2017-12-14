@@ -1,0 +1,7 @@
+[u'nail', 0.23207502, u'rule', 0.13668643, u'hook', 0.11605516, u"carpenter's_kit", 0.058265641, u'screwdriver', 0.029038619]
+[u'paintbrush', 0.44629505, u'bow', 0.23696992, u'lab_coat', 0.13119535, u'violin', 0.019293915, u'syringe', 0.013326195]
+[u'street_sign', 0.092580736, u'book_jacket', 0.03725196, u'web_site', 0.026452035, u'comic_book', 0.017887784, u'tobacco_shop', 0.016770773]
+[u'shoe_shop', 0.054584403, u'tobacco_shop', 0.054298274, u'barbershop', 0.050099187, u'electric_fan', 0.038740091, u'toyshop', 0.033571664]
+[u'knee_pad', 0.24229902, u'wool', 0.12426822, u'mortarboard', 0.048453908, u'switch', 0.030389234, u'hatchet', 0.030237377]
+[u'web_site', 0.20321654, u'analog_clock', 0.031986855, u'binder', 0.024683805, u'envelope', 0.024624191, u'stopwatch', 0.024249122]
+[u'Band_Aid', 0.28572443, u'binder', 0.12836771, u'mousetrap', 0.05911053, u'carton', 0.059043877, u'sunscreen', 0.057787735]

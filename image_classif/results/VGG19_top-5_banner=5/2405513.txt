@@ -1,0 +1,6 @@
+[u'oil_filter', 0.17301807, u'web_site', 0.074772783, u'loupe', 0.057786651, u'Band_Aid', 0.035289742, u'comic_book', 0.033627864]
+[u'packet', 0.19114517, u'crate', 0.1567302, u'pill_bottle', 0.080782115, u'sunscreen', 0.040940803, u'oil_filter', 0.038341578]
+[u"carpenter's_kit", 0.11099172, u'combination_lock', 0.1046554, u'hamper', 0.072997518, u'screwdriver', 0.065764502, u'crate', 0.056387808]
+[u'hamper', 0.15696961, u'combination_lock', 0.11738063, u'packet', 0.063412897, u'paintbrush', 0.059586782, u'screwdriver', 0.050699797]
+[u'puck', 0.51569378, u'frying_pan', 0.032203916, u'pick', 0.029815668, u'loupe', 0.018869502, u'stopwatch', 0.018243227]
+[u'gas_pump', 0.36549351, u'power_drill', 0.11640315, u'school_bus', 0.088960133, u'vacuum', 0.031885948, u'scale', 0.030274479]

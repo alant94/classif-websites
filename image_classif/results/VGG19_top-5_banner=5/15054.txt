@@ -1,0 +1,4 @@
+[u'cocktail_shaker', 0.99435067, u'saltshaker', 0.0024904183, u'perfume', 0.0022436637, u'water_bottle', 0.00025271275, u'soap_dispenser', 0.00022196177]
+[u"carpenter's_kit", 0.14577268, u'corkscrew', 0.14379984, u'spatula', 0.069008745, u'screwdriver', 0.066877663, u'pop_bottle', 0.048609894]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'puck', 0.29880816, u'bottlecap', 0.061101492, u'gong', 0.053870093, u'bolo_tie', 0.044875048, u'shield', 0.040915504]

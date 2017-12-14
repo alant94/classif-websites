@@ -1,0 +1,6 @@
+[u'web_site', 0.14759201, u'binder', 0.057677053, u'sunscreen', 0.041484412, u'pick', 0.032869756, u'nematode', 0.032600328]
+[u'Scottish_deerhound', 0.12037158, u'Bouvier_des_Flandres', 0.10293286, u'Irish_wolfhound', 0.04749424, u'German_shepherd', 0.04568705, u'Gordon_setter', 0.043861635]
+[u'tusker', 0.23118019, u'African_elephant', 0.15486136, u'hatchet', 0.048175726, u'warthog', 0.034137622, u'armadillo', 0.027785415]
+[u'book_jacket', 0.24439801, u'wallet', 0.1087115, u'scoreboard', 0.062127084, u'street_sign', 0.052417103, u'packet', 0.051776297]
+[u'mountain_tent', 0.60660207, u'alp', 0.10435061, u'yurt', 0.033719964, u'megalith', 0.028546566, u'racer', 0.021094885]
+[u'macaw', 0.33327624, u'paintbrush', 0.16255759, u'padlock', 0.159444, u'birdhouse', 0.063606158, u'hook', 0.028482022]

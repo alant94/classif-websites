@@ -1,0 +1,4 @@
+[u'book_jacket', 0.08306995, u'comic_book', 0.081531592, u'hook', 0.043614876, u'bathing_cap', 0.038073748, u'umbrella', 0.027060337]
+[u'Band_Aid', 0.13593228, u'whistle', 0.090653323, u'nipple', 0.081616282, u'hook', 0.050392602, u'joystick', 0.048346642]
+[u'digital_clock', 0.18342766, u'envelope', 0.13851511, u'wall_clock', 0.085297354, u'analog_clock', 0.08247041, u'web_site', 0.038589295]
+[u'spotlight', 0.72205299, u'loupe', 0.15686314, u'strainer', 0.040229578, u'plunger', 0.016018253, u'magnetic_compass', 0.0086562438]

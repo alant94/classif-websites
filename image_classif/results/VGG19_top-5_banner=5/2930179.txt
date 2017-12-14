@@ -1,0 +1,4 @@
+[u'web_site', 0.99546802, u'envelope', 0.0039756396, u'menu', 0.00013072083, u'packet', 5.6848829e-05, u'book_jacket', 4.159554e-05]
+[u'torch', 0.47310522, u'pole', 0.1990276, u'flagpole', 0.088119164, u'seashore', 0.043461286, u'shovel', 0.0285007]
+[u'punching_bag', 0.099440292, u'microphone', 0.056345005, u'pot', 0.040239688, u'lighter', 0.040030967, u'tripod', 0.038581517]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

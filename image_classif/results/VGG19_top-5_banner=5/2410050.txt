@@ -1,0 +1,4 @@
+[u'matchstick', 0.74446744, u'panpipe', 0.090541817, u'drumstick', 0.031659439, u'harp', 0.025078399, u'crate', 0.0055861846]
+[u'shower_curtain', 0.23334931, u'fountain', 0.048639107, u'mosquito_net', 0.031403754, u'poncho', 0.020687487, u'beer_glass', 0.018419549]
+[u'cock', 0.94540054, u'hen', 0.050761819, u'hornbill', 0.0016218395, u'partridge', 0.00080767315, u'crane', 0.00038719628]
+[u'envelope', 0.3031477, u'binder', 0.17636102, u'book_jacket', 0.12300998, u'web_site', 0.063518003, u'hook', 0.026646346]

@@ -1,0 +1,4 @@
+[u'screen', 0.22892371, u'monitor', 0.22551733, u'oscilloscope', 0.15288706, u'envelope', 0.14632265, u'cash_machine', 0.044692758]
+[u'envelope', 0.095167026, u'shower_curtain', 0.092961691, u'monitor', 0.075459279, u'washbasin', 0.057334986, u'maze', 0.054703455]
+[u'perfume', 0.034055144, u'matchstick', 0.031190224, u'spotlight', 0.02736319, u'jersey', 0.024638312, u'book_jacket', 0.023416441]
+[u'theater_curtain', 0.086223669, u'digital_clock', 0.070255183, u'cinema', 0.057216391, u'traffic_light', 0.042277232, u'spotlight', 0.033662222]

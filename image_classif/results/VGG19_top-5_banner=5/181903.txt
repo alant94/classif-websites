@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16729903, u'tobacco_shop', 0.092219561, u'panpipe', 0.080061741, u'comic_book', 0.072633587, u'hair_spray', 0.053334013]
+[u'wall_clock', 0.17603555, u'binder', 0.13663913, u'envelope', 0.05980159, u'book_jacket', 0.056592848, u'shovel', 0.040287271]

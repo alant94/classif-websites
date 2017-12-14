@@ -1,0 +1,2 @@
+[u'digital_clock', 0.14815108, u'matchstick', 0.1290202, u'rule', 0.049422164, u'picket_fence', 0.03701856, u'digital_watch', 0.02171739]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

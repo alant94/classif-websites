@@ -1,0 +1,2 @@
+[u'bookshop', 0.40630633, u'tobacco_shop', 0.22148271, u'confectionery', 0.14963177, u'library', 0.063462511, u'grocery_store', 0.047214888]
+[u'mortar', 0.86091691, u'hourglass', 0.027045926, u'spindle', 0.017671844, u'ladle', 0.0062117651, u'quill', 0.0059896894]

@@ -1,0 +1,4 @@
+[u'cleaver', 0.13986497, u'letter_opener', 0.080252305, u'punching_bag', 0.078398272, u'chime', 0.06419199, u'bow', 0.041982647]
+[u'digital_watch', 0.36711568, u'mailbox', 0.11177768, u'whistle', 0.065600127, u'bottlecap', 0.051110145, u'wall_clock', 0.049068123]
+[u'microphone', 0.97660154, u'hand_blower', 0.022555264, u'spotlight', 0.00061339745, u'strainer', 8.7767774e-05, u'power_drill', 6.2039573e-05]
+[u'digital_watch', 0.34293401, u'switch', 0.17798531, u'whistle', 0.070960365, u'stopwatch', 0.053783081, u'lighter', 0.030748893]

@@ -1,0 +1,5 @@
+[u'Persian_cat', 0.99990749, u'lynx', 3.4021985e-05, u'tabby', 2.5670464e-05, u'feather_boa', 1.051441e-05, u'dumbbell', 5.5504997e-06]
+[u'Persian_cat', 0.93538505, u'lynx', 0.035984647, u'tabby', 0.014626308, u'tiger_cat', 0.0028327093, u'Egyptian_cat', 0.0025612395]
+[u'Persian_cat', 0.99989724, u'lynx', 5.9091231e-05, u'Angora', 2.2172529e-05, u'tabby', 3.5722214e-06, u'Pekinese', 2.9592113e-06]
+[u'snowmobile', 0.24365297, u'rhinoceros_beetle', 0.1685475, u'gasmask', 0.069999374, u'ski_mask', 0.040827528, u'backpack', 0.033905361]
+[u'Persian_cat', 0.86244875, u'Pekinese', 0.076540843, u'Angora', 0.050479174, u'Pomeranian', 0.004570887, u'marmoset', 0.0014455168]

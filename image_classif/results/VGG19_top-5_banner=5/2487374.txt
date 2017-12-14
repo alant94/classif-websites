@@ -1,0 +1,7 @@
+[u'geyser', 0.78689247, u'fountain', 0.029745748, u'dam', 0.023389949, u'viaduct', 0.014766818, u'Samoyed', 0.0088556521]
+[u'lakeside', 0.19802329, u'maze', 0.080159597, u'rapeseed', 0.051813271, u'canoe', 0.0460959, u'tench', 0.04269759]
+[u'bee_eater', 0.033390861, u'dragonfly', 0.015105903, u'wall_clock', 0.014390905, u'web_site', 0.014247031, u'envelope', 0.013664843]
+[u'oxcart', 0.1217032, u'baboon', 0.093845688, u'book_jacket', 0.053000744, u'horse_cart', 0.051927142, u'web_site', 0.051568907]
+[u'geyser', 0.73732835, u'fountain', 0.070173725, u'dam', 0.027581444, u'viaduct', 0.018469553, u'picket_fence', 0.0075266715]
+[u'valley', 0.11425361, u'cliff', 0.096682943, u'coral_reef', 0.070703499, u'cliff_dwelling', 0.054970205, u'stingray', 0.052190498]
+[u'bee_eater', 0.035041902, u'wall_clock', 0.015769646, u'dragonfly', 0.01440741, u'web_site', 0.013324792, u'envelope', 0.012430813]

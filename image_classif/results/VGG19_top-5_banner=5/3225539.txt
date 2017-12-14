@@ -1,0 +1,5 @@
+[u'banjo', 0.062202279, u'croquet_ball', 0.059018746, u'flute', 0.043303307, u'bassoon', 0.035786476, u'boa_constrictor', 0.031838819]
+[u'maypole', 0.060283568, u'cucumber', 0.04413145, u'ice_lolly', 0.041593481, u'horizontal_bar', 0.03852883, u'grocery_store', 0.035053808]
+[u'wall_clock', 0.44561821, u'lighter', 0.19767137, u'shield', 0.17233872, u'switch', 0.033482712, u'perfume', 0.025844533]
+[u'Afghan_hound', 0.43411526, u'mortarboard', 0.23269492, u'academic_gown', 0.085425809, u'cloak', 0.045892503, u'vestment', 0.021968808]
+[u'wall_clock', 0.17916438, u'hair_slide', 0.12195388, u'analog_clock', 0.054933496, u'plow', 0.051548876, u'comic_book', 0.044801027]

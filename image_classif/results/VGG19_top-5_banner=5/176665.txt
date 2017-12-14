@@ -1,0 +1,3 @@
+[u'sunglass', 0.2399298, u'loupe', 0.17242891, u'sunglasses', 0.085939825, u'sandal', 0.062299293, u'bib', 0.040089179]
+[u'projectile', 0.42936343, u'space_shuttle', 0.24860363, u'pickelhaube', 0.096043423, u'missile', 0.077572405, u'book_jacket', 0.031141507]
+[u'coffee_mug', 0.18744515, u'sunscreen', 0.095756248, u'lotion', 0.078812249, u'pill_bottle', 0.075179361, u'oil_filter', 0.0609372]

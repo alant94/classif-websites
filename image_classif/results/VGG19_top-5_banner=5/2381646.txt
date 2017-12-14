@@ -1,0 +1,7 @@
+[u'envelope', 0.36546561, u'puck', 0.071545303, u'digital_clock', 0.027894465, u'wall_clock', 0.026652187, u'rubber_eraser', 0.025922213]
+[u'analog_clock', 0.067218907, u'book_jacket', 0.058903653, u'barbershop', 0.053230293, u'wall_clock', 0.046777189, u'street_sign', 0.037929673]
+[u'neck_brace', 0.33235508, u'iron', 0.22496936, u'whistle', 0.071917213, u'sandal', 0.050614461, u'hook', 0.046366379]
+[u'restaurant', 0.619012, u'menu', 0.10854807, u'shoe_shop', 0.048170857, u'bakery', 0.018550897, u'dining_table', 0.014566378]
+[u'binder', 0.43036482, u'lighter', 0.046104722, u'pencil_sharpener', 0.036239985, u"carpenter's_kit", 0.032042537, u'ballpoint', 0.029785277]
+[u'spotlight', 0.099187844, u'paper_towel', 0.062716842, u'scale', 0.056297183, u'iron', 0.041703843, u'can_opener', 0.041251108]
+[u'lakeside', 0.31219718, u'valley', 0.19021216, u'boathouse', 0.053731635, u'patio', 0.049271736, u'alp', 0.043044686]

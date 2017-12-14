@@ -1,0 +1,2 @@
+[u'flagpole', 0.81169093, u'schooner', 0.01667407, u'warplane', 0.012067343, u'pole', 0.010476174, u'parachute', 0.010176167]
+[u'jean', 0.71337485, u'stole', 0.18255089, u'wardrobe', 0.040758997, u'cardigan', 0.014600527, u'chain_mail', 0.0070622861]

@@ -1,0 +1,7 @@
+[u'web_site', 0.18953116, u'television', 0.1258741, u'lakeside', 0.051006198, u'brass', 0.050151553, u'seashore', 0.039939277]
+[u'comic_book', 0.17099786, u'stretcher', 0.12729278, u'bobsled', 0.097770736, u'bicycle-built-for-two', 0.071280472, u'ski', 0.048429295]
+[u'book_jacket', 0.98482311, u'comic_book', 0.0068161292, u'torch', 0.001609132, u'matchstick', 0.00098874967, u'drumstick', 0.00041306089]
+[u'bathing_cap', 0.30969813, u'packet', 0.26045272, u'sleeping_bag', 0.08698079, u'quill', 0.052940171, u'wool', 0.025954545]
+[u'cassette', 0.75782335, u'packet', 0.058295123, u'slide_rule', 0.041372258, u'mousetrap', 0.024002818, u'web_site', 0.023648543]
+[u'screwdriver', 0.32956547, u'ballpoint', 0.19576432, u'chime', 0.10357349, u'rubber_eraser', 0.057167411, u'rule', 0.020829823]
+[u'book_jacket', 0.94733739, u'comic_book', 0.020991677, u'fur_coat', 0.011535973, u'hair_spray', 0.0077212276, u'wig', 0.005345182]

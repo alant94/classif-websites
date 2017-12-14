@@ -1,0 +1,5 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'throne', 0.32326549, u'altar', 0.18839157, u'monastery', 0.073388897, u'fountain', 0.040316537, u'bell_cote', 0.039696634]
+[u'warthog', 0.4106164, u'tusker', 0.096780188, u'impala', 0.076583311, u'water_buffalo', 0.070293553, u'hartebeest', 0.049738463]
+[u'forklift', 0.18275678, u'altar', 0.16730163, u'monastery', 0.11576096, u'throne', 0.072655357, u'bell_cote', 0.030871456]
+[u'street_sign', 0.094334535, u'comic_book', 0.089124955, u'laptop', 0.070626862, u'hatchet', 0.036913604, u'wall_clock', 0.035508607]

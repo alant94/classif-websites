@@ -1,0 +1,2 @@
+[u'hartebeest', 0.29757184, u'impala', 0.17726123, u'Arabian_camel', 0.11316321, u'gazelle', 0.078031071, u'water_buffalo', 0.033930644]
+[u'jellyfish', 0.1544199, u'matchstick', 0.10272584, u'fire_screen', 0.071887158, u'torch', 0.06753853, u'volcano', 0.049963098]

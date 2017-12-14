@@ -1,0 +1,4 @@
+[u'barbershop', 0.16225597, u'barber_chair', 0.15092322, u'prison', 0.079005711, u'turnstile', 0.073936902, u'restaurant', 0.064610191]
+[u'web_site', 0.19478975, u'envelope', 0.18374594, u'digital_clock', 0.12492429, u'rule', 0.039638605, u'wall_clock', 0.035608377]
+[u'envelope', 0.23814727, u'switch', 0.076600261, u'binder', 0.033999104, u'obelisk', 0.032414291, u'bell_cote', 0.031136213]
+[u'chime', 0.52890551, u'picket_fence', 0.1256758, u'matchstick', 0.097119823, u'candle', 0.079641663, u'rubber_eraser', 0.027456885]

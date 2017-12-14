@@ -1,0 +1,5 @@
+[u'wardrobe', 0.22206225, u'sliding_door', 0.16658838, u'window_shade', 0.11477555, u'shower_curtain', 0.077794813, u'refrigerator', 0.040777665]
+[u'window_shade', 0.20164382, u'sliding_door', 0.11951651, u'window_screen', 0.063566089, u'shower_curtain', 0.060361866, u'wardrobe', 0.053994291]
+[u'printer', 0.040381067, u'dishwasher', 0.035785161, u'rule', 0.033809412, u'bathtub', 0.033371426, u'refrigerator', 0.031714965]
+[u'web_site', 0.43275157, u'brass', 0.052012436, u'picket_fence', 0.048924718, u'screen', 0.043468483, u'fountain', 0.043094669]
+[u'window_shade', 0.15659568, u'wardrobe', 0.13471535, u'shower_curtain', 0.13039544, u'sliding_door', 0.11558767, u'window_screen', 0.0256251]

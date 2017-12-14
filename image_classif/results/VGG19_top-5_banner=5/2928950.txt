@@ -1,0 +1,7 @@
+[u'envelope', 0.031575114, u'modem', 0.027340425, u'remote_control', 0.025225004, u'rubber_eraser', 0.016142707, u'web_site', 0.015158826]
+[u'seat_belt', 0.19721481, u'wig', 0.18541181, u'mortarboard', 0.068721257, u'cloak', 0.061617438, u'neck_brace', 0.046859872]
+[u'wig', 0.32966843, u'hair_slide', 0.036816861, u'stole', 0.0339664, u'hair_spray', 0.033830754, u'neck_brace', 0.03167782]
+[u'lipstick', 0.83799583, u'mask', 0.046110786, u'wig', 0.030465251, u'Band_Aid', 0.016912311, u'ice_lolly', 0.012760568]
+[u'Band_Aid', 0.054852732, u'sunscreen', 0.044892754, u'wig', 0.034068111, u'bow_tie', 0.030148337, u'jersey', 0.028906157]
+[u'oscilloscope', 0.27383786, u'monitor', 0.077292383, u'spider_web', 0.039761186, u'matchstick', 0.038538229, u'spotlight', 0.03275932]
+[u'sunscreen', 0.18596801, u'shower_cap', 0.13514902, u'wig', 0.099954925, u'Band_Aid', 0.056544054, u'mask', 0.044093769]

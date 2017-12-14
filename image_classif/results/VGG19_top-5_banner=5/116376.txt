@@ -1,0 +1,3 @@
+[u'switch', 0.17294708, u'modem', 0.052674547, u'mousetrap', 0.04420393, u'sewing_machine', 0.031586152, u'power_drill', 0.028594308]
+[u'measuring_cup', 0.28402027, u'beaker', 0.085121125, u'Petri_dish', 0.071910262, u'plate_rack', 0.070652805, u'electric_fan', 0.028963631]
+[u'oil_filter', 0.12179398, u'pill_bottle', 0.070335478, u'cash_machine', 0.061731663, u'beaker', 0.049720429, u'dumbbell', 0.036065515]

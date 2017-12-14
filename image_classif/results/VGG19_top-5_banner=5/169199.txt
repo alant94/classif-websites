@@ -1,0 +1,5 @@
+[u'nail', 0.15737136, u'plate_rack', 0.14785983, u'screw', 0.10173458, u'binder', 0.081371091, u'oboe', 0.055732608]
+[u'wall_clock', 0.71876884, u'sea_urchin', 0.057285491, u'coil', 0.033342488, u'nail', 0.027663941, u'solar_dish', 0.01910428]
+[u'sax', 0.28599232, u'oboe', 0.048950806, u'bassoon', 0.046878118, u'stage', 0.03993224, u'cornet', 0.035707012]
+[u'book_jacket', 0.77528322, u'comic_book', 0.081102863, u'web_site', 0.069583774, u'television', 0.009877773, u'screen', 0.0032044225]
+[u'jigsaw_puzzle', 0.89954358, u'comic_book', 0.051153339, u'envelope', 0.011413722, u'altar', 0.0041735508, u'wall_clock', 0.0036460101]

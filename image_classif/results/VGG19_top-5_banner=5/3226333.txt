@@ -1,0 +1,2 @@
+[u'digital_clock', 0.84428447, u'maze', 0.082457289, u'digital_watch', 0.019618783, u'doormat', 0.0051676808, u'scoreboard', 0.0045053801]
+[u'web_site', 0.96748036, u'envelope', 0.018518392, u'book_jacket', 0.0069760727, u'menu', 0.00077115936, u'lotion', 0.00049074611]

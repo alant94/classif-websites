@@ -1,0 +1,5 @@
+[u'sweatshirt', 0.6691817, u'jersey', 0.08273901, u'poncho', 0.063386552, u'wool', 0.056702089, u'pajama', 0.022702139]
+[u'street_sign', 0.062982872, u'coffee_mug', 0.061444569, u'iPod', 0.05801034, u'odometer', 0.045008115, u'digital_clock', 0.033484675]
+[u'digital_clock', 0.096728787, u'iPod', 0.081854805, u'tray', 0.057927787, u'coffee_mug', 0.05288687, u'street_sign', 0.035826396]
+[u'envelope', 0.10670372, u'handkerchief', 0.10093635, u'digital_clock', 0.056170061, u'Windsor_tie', 0.036452182, u'wall_clock', 0.031804409]
+[u'iPod', 0.17377101, u'whiskey_jug', 0.045944855, u'parking_meter', 0.045706283, u'soap_dispenser', 0.041699175, u'coffee_mug', 0.040590085]

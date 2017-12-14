@@ -1,0 +1,2 @@
+[u'brass', 0.30510032, u'throne', 0.067704469, u'sundial', 0.063536175, u'altar', 0.039774336, u'fountain', 0.034471814]
+[u'pickelhaube', 0.072441682, u'book_jacket', 0.07025823, u'throne', 0.07022588, u'brass', 0.062640905, u'altar', 0.049109843]

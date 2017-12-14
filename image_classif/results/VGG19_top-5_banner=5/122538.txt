@@ -1,0 +1,1 @@
+[u'safety_pin', 0.12801173, u'hook', 0.10007457, u'corkscrew', 0.035469092, u'wall_clock', 0.035356265, u'chain', 0.02853612]

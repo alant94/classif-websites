@@ -1,0 +1,8 @@
+[u'mask', 0.32694411, u'seat_belt', 0.11585014, u'wig', 0.084544159, u'neck_brace', 0.073820092, u'cowboy_hat', 0.02210422]
+[u'horizontal_bar', 0.16391273, u'swimming_trunks', 0.12545699, u'sorrel', 0.11579296, u'binoculars', 0.11322059, u'parallel_bars', 0.068555683]
+[u'Band_Aid', 0.15893744, u'safety_pin', 0.087456785, u'lipstick', 0.051752802, u'mask', 0.04745882, u'sunglass', 0.026009519]
+[u'candle', 0.4213295, u'lotion', 0.040710028, u'carton', 0.040285923, u'book_jacket', 0.031606417, u'mortar', 0.027480355]
+[u'diaper', 0.36037627, u'bath_towel', 0.2434306, u'brassiere', 0.10156798, u'Band_Aid', 0.018247485, u'bonnet', 0.015013121]
+[u'lipstick', 0.081078932, u'wig', 0.064118713, u'bubble', 0.047779556, u'bathing_cap', 0.039434455, u'shower_cap', 0.037880171]
+[u'diaper', 0.15816149, u'hamster', 0.080540948, u'tick', 0.07953804, u'Band_Aid', 0.053225432, u'hermit_crab', 0.050382037]
+[u'carton', 0.10595661, u'Band_Aid', 0.082019232, u'sunscreen', 0.072642013, u'diaper', 0.068196841, u'scale', 0.034214385]

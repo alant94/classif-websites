@@ -1,0 +1,7 @@
+[u'oxcart', 0.49819836, u'ox', 0.13074513, u'triceratops', 0.03332435, u'hartebeest', 0.032599784, u'gazelle', 0.025494013]
+[u'cleaver', 0.12185662, u'packet', 0.071891055, u'menu', 0.054376896, u'butcher_shop', 0.04524624, u'bow', 0.03663766]
+[u'gazelle', 0.70412827, u'impala', 0.22189957, u'cheetah', 0.023237463, u'hartebeest', 0.016079489, u'hare', 0.0034725484]
+[u'brass', 0.39642888, u'scoreboard', 0.1979344, u'menu', 0.16626233, u'book_jacket', 0.051711246, u'street_sign', 0.031936128]
+[u'cash_machine', 0.34824663, u'street_sign', 0.043658238, u'laptop', 0.02656815, u'scoreboard', 0.024649715, u'television', 0.020066334]
+[u'American_alligator', 0.38105807, u'African_crocodile', 0.35077071, u'common_iguana', 0.094974779, u'Komodo_dragon', 0.041493032, u'leatherback_turtle', 0.036943715]
+[u'ox', 0.53131568, u'water_buffalo', 0.43134898, u'oxcart', 0.0088784173, u'ibex', 0.0079876771, u'bison', 0.0068458207]

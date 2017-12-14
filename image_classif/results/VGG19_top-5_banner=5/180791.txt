@@ -1,0 +1,3 @@
+[u'digital_clock', 0.18664475, u'lighter', 0.12836215, u'binder', 0.059796214, u'Band_Aid', 0.046990797, u'analog_clock', 0.041683543]
+[u'laptop', 0.29449737, u'tray', 0.25099126, u'folding_chair', 0.11759505, u'ashcan', 0.11435091, u'scale', 0.029352454]
+[u'envelope', 0.83868778, u'web_site', 0.053858072, u'jigsaw_puzzle', 0.049204353, u'packet', 0.014479482, u'binder', 0.011942629]

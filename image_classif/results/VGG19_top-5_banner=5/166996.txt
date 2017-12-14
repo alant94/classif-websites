@@ -1,0 +1,1 @@
+[u'maze', 0.21975204, u'digital_clock', 0.16300493, u'cinema', 0.038624037, u'envelope', 0.032737773, u'carton', 0.031497229]

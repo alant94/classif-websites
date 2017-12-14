@@ -1,0 +1,4 @@
+[u'matchstick', 0.30657226, u'chime', 0.25125045, u'picket_fence', 0.11808789, u'panpipe', 0.094444901, u'drumstick', 0.034612283]
+[u'bathtub', 0.3774215, u'tub', 0.21195972, u'brassiere', 0.16169904, u'shower_curtain', 0.046237685, u'bikini', 0.038738586]
+[u'matchstick', 0.089067355, u'chime', 0.082839981, u'nail', 0.082797371, u'web_site', 0.05983955, u'rule', 0.037399646]
+[u'bath_towel', 0.39026925, u'diaper', 0.32542327, u'swimming_trunks', 0.076316081, u'bathtub', 0.039507922, u'shower_cap', 0.036955394]

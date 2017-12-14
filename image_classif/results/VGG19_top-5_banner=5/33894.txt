@@ -1,0 +1,2 @@
+[u'Christmas_stocking', 0.14741573, u'wardrobe', 0.058923848, u'poncho', 0.044538967, u'carton', 0.03294735, u'stole', 0.031074768]
+[u'mask', 0.29401547, u'ski_mask', 0.096075751, u'switch', 0.069251761, u'traffic_light', 0.056316454, u'corkscrew', 0.031220291]

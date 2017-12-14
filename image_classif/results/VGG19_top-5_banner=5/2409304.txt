@@ -1,0 +1,2 @@
+[u'triumphal_arch', 0.19606856, u'flagpole', 0.062304184, u'planetarium', 0.059485156, u'obelisk', 0.044248067, u'mobile_home', 0.041487787]
+[u'necklace', 0.10257412, u'chain', 0.075751364, u'lipstick', 0.067758992, u'hook', 0.06335447, u'coil', 0.054366931]

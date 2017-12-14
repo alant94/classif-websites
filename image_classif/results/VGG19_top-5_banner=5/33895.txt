@@ -1,0 +1,7 @@
+[u'radio_telescope', 0.61984956, u'solar_dish', 0.15181768, u'shower_cap', 0.087421596, u'golf_ball', 0.049102247, u'jellyfish', 0.024975745]
+[u'analog_clock', 0.41428882, u'spotlight', 0.1015887, u'wall_clock', 0.077781416, u'digital_clock', 0.033768412, u'coil', 0.028225489]
+[u'analog_clock', 0.28010803, u'spotlight', 0.13813221, u'radio_telescope', 0.050490033, u'wall_clock', 0.036944333, u'digital_clock', 0.03645936]
+[u'web_site', 0.39215851, u'envelope', 0.037488785, u'remote_control', 0.023796335, u'oil_filter', 0.02066673, u'scale', 0.019760948]
+[u'analog_clock', 0.3583889, u'spotlight', 0.077488258, u'rugby_ball', 0.076010592, u'coil', 0.045321453, u'wall_clock', 0.039531469]
+[u'piggy_bank', 0.82936621, u'lab_coat', 0.057518329, u'stethoscope', 0.027965201, u'ocarina', 0.025493171, u'Windsor_tie', 0.0073572709]
+[u'digital_clock', 0.92532176, u'digital_watch', 0.053666629, u'stopwatch', 0.0043624775, u'odometer', 0.00294255, u'oscilloscope', 0.0028014136]

@@ -1,0 +1,4 @@
+[u'medicine_chest', 0.10360228, u'screwdriver', 0.095199674, u'perfume', 0.050919116, u'lighter', 0.047364436, u'switch', 0.04082007]
+[u'screen', 0.16058077, u'monitor', 0.14441468, u'oscilloscope', 0.073765256, u'laptop', 0.055606216, u'desktop_computer', 0.039378047]
+[u'neck_brace', 0.098322682, u'spotlight', 0.083653934, u'hook', 0.079715081, u'street_sign', 0.053141333, u'puck', 0.043730237]
+[u'pill_bottle', 0.17046833, u'laptop', 0.052862365, u'digital_clock', 0.049705718, u'picket_fence', 0.033964764, u'medicine_chest', 0.032038208]

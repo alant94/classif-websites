@@ -1,0 +1,5 @@
+[u'CD_player', 0.13967589, u'loudspeaker', 0.050211463, u'paper_towel', 0.035650738, u'tape_player', 0.035496783, u'necklace', 0.033909533]
+[u'bell_cote', 0.42045134, u'stupa', 0.18643239, u'container_ship', 0.086283803, u'crane', 0.068811201, u'birdhouse', 0.037132293]
+[u'wall_clock', 0.067717694, u'bib', 0.057946738, u'combination_lock', 0.055971704, u'bottlecap', 0.046985246, u'pencil_sharpener', 0.043740638]
+[u'hook', 0.099251583, u'hair_slide', 0.076538436, u'envelope', 0.068535239, u'whistle', 0.062443089, u'scale', 0.061553817]
+[u'jigsaw_puzzle', 0.15855491, u'container_ship', 0.12183655, u'carton', 0.1027572, u'envelope', 0.040996533, u'rubber_eraser', 0.035122119]

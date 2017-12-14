@@ -1,0 +1,3 @@
+[u'web_site', 0.32923824, u'binder', 0.05766717, u'comic_book', 0.037950691, u'book_jacket', 0.037428476, u'envelope', 0.037240572]
+[u'book_jacket', 0.085870735, u'leatherback_turtle', 0.046268269, u'American_alligator', 0.044327948, u'web_site', 0.04061443, u'comic_book', 0.030592907]
+[u'letter_opener', 0.12231155, u'hook', 0.086165123, u'crutch', 0.06326738, u'matchstick', 0.056454089, u'quill', 0.054743513]

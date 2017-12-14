@@ -1,0 +1,1 @@
+[u'palace', 0.25417104, u'fountain', 0.13251838, u'pedestal', 0.12071932, u'triumphal_arch', 0.068925105, u'monastery', 0.06527546]

@@ -1,0 +1,1 @@
+[u'violin', 0.74434453, u'cello', 0.16912597, u'acoustic_guitar', 0.014317708, u'stage', 0.014178054, u'electric_guitar', 0.010836244]

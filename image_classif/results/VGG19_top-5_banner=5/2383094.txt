@@ -1,0 +1,4 @@
+[u'analog_clock', 0.69930601, u'wall_clock', 0.15131374, u'magnetic_compass', 0.050733123, u'barometer', 0.039886717, u'stopwatch', 0.033933286]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'web_site', 0.18208613, u'analog_clock', 0.16795658, u'book_jacket', 0.11765617, u'wall_clock', 0.038016059, u'envelope', 0.031851135]
+[u'envelope', 0.11170491, u'cleaver', 0.063108556, u'web_site', 0.017875256, u'hatchet', 0.016478678, u'letter_opener', 0.012381781]

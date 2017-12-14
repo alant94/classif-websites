@@ -1,0 +1,3 @@
+[u'electric_fan', 0.27267727, u'joystick', 0.1054348, u'whistle', 0.089971401, u'hook', 0.064360708, u'can_opener', 0.027407508]
+[u'street_sign', 0.38063771, u'traffic_light', 0.16342852, u'digital_clock', 0.04830173, u'microphone', 0.02034761, u'power_drill', 0.019043222]
+[u'lighter', 0.11983086, u'combination_lock', 0.11472604, u'switch', 0.076766238, u'digital_clock', 0.063947409, u'hook', 0.050555602]

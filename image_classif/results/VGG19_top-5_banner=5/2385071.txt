@@ -1,0 +1,2 @@
+[u'picket_fence', 0.42412487, u'digital_clock', 0.18462428, u'matchstick', 0.058747236, u'digital_watch', 0.056737404, u'candle', 0.021984493]
+[u'comic_book', 0.42043903, u'Afghan_hound', 0.31462982, u'book_jacket', 0.11746883, u'shoe_shop', 0.031069852, u'wig', 0.022808081]

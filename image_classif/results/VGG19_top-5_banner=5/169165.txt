@@ -1,0 +1,2 @@
+[u'book_jacket', 0.13849258, u'notebook', 0.11757109, u'electric_guitar', 0.1083867, u'web_site', 0.10833833, u'harmonica', 0.078754999]
+[u'web_site', 0.98573595, u'screen', 0.0042881654, u'television', 0.0032203058, u'monitor', 0.0014743916, u'hand-held_computer', 0.00082950265]

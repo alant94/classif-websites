@@ -1,0 +1,7 @@
+[u'laptop', 0.55978, u'notebook', 0.2212739, u'monitor', 0.025071094, u'screen', 0.023537125, u'desktop_computer', 0.021670567]
+[u'switch', 0.57293457, u'modem', 0.21555422, u'oscilloscope', 0.032982372, u'remote_control', 0.017050659, u'cassette', 0.014218561]
+[u'desk', 0.33388364, u'desktop_computer', 0.10934209, u'library', 0.060380638, u'monitor', 0.059249885, u'screen', 0.051784176]
+[u'paintbrush', 0.46233255, u'wooden_spoon', 0.16519156, u'spatula', 0.076444104, u'cleaver', 0.039332308, u'letter_opener', 0.029313592]
+[u'hourglass', 0.99999321, u'cocktail_shaker', 1.6835669e-06, u'spotlight', 8.3996991e-07, u'goblet', 6.9600634e-07, u'eggnog', 6.4749264e-07]
+[u'iPod', 0.40511528, u'pencil_sharpener', 0.30421007, u'cellular_telephone', 0.084954031, u'wallet', 0.03734858, u'radio', 0.018678235]
+[u'lab_coat', 0.1689115, u'binder', 0.12414754, u'switch', 0.052161381, u'syringe', 0.05100197, u'rule', 0.047464855]

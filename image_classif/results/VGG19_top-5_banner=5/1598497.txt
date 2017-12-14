@@ -1,0 +1,7 @@
+[u'chime', 0.62075073, u'organ', 0.16412328, u'bookcase', 0.029627327, u'pencil_box', 0.017294589, u'fountain_pen', 0.01518013]
+[u'triceratops', 0.075670317, u'matchstick', 0.058303569, u'oscilloscope', 0.055929672, u'bubble', 0.04229347, u'stage', 0.041217994]
+[u'screwdriver', 0.74893188, u"carpenter's_kit", 0.13256271, u'ballpoint', 0.050354876, u'paintbrush', 0.020442611, u'pencil_box', 0.015895296]
+[u'ballpoint', 0.31703743, u'rubber_eraser', 0.14930469, u'shower_curtain', 0.13134339, u'paintbrush', 0.11175506, u'swab', 0.037060853]
+[u'book_jacket', 0.3408477, u'rubber_eraser', 0.061853919, u'doormat', 0.048914012, u'ballpoint', 0.046051931, u'pencil_box', 0.036529575]
+[u'swab', 0.19040273, u'gown', 0.16386043, u'space_shuttle', 0.11622725, u'swimming_trunks', 0.084168203, u'shower_curtain', 0.078348935]
+[u'paintbrush', 0.35486436, u"carpenter's_kit", 0.21203643, u'screwdriver', 0.18044467, u'spatula', 0.065911792, u'ballpoint', 0.060769565]

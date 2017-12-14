@@ -1,0 +1,1 @@
+[u'paper_towel', 0.19329666, u'toilet_tissue', 0.094995342, u'dogsled', 0.050935265, u'fountain', 0.049770467, u'king_penguin', 0.047732666]

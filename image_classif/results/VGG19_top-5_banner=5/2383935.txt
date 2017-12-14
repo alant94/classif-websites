@@ -1,0 +1,2 @@
+[u'ski', 0.60735303, u'plate_rack', 0.10894028, u'oxcart', 0.070328213, u'car_wheel', 0.029996371, u'church', 0.028487803]
+[u'clog', 0.39222306, u'wall_clock', 0.22929369, u'shield', 0.11513623, u'banana', 0.076305047, u'ocarina', 0.043190047]

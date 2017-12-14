@@ -1,0 +1,6 @@
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]
+[u'grand_piano', 0.55329621, u'upright', 0.085457347, u'cello', 0.036115725, u'sax', 0.034973562, u'accordion', 0.032518495]
+[u'book_jacket', 0.43799016, u'barbershop', 0.40628603, u'tobacco_shop', 0.040073685, u'comic_book', 0.030364409, u'bookshop', 0.02814775]
+[u'library', 0.14184411, u'bookshop', 0.086436272, u'prison', 0.050581429, u'tobacco_shop', 0.044968192, u'bell_cote', 0.030453317]
+[u'picket_fence', 0.11089001, u'bell_cote', 0.084494047, u'container_ship', 0.065488055, u'traffic_light', 0.059865985, u'stupa', 0.049385674]
+[u'scoreboard', 0.19756654, u'book_jacket', 0.14834435, u'comic_book', 0.10192797, u'web_site', 0.078300171, u'abacus', 0.045612037]

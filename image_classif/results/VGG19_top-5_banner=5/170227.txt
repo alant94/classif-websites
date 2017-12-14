@@ -1,0 +1,5 @@
+[u'doormat', 0.42983732, u'puck', 0.24899504, u'maze', 0.15185472, u'manhole_cover', 0.11676788, u'bottlecap', 0.025234817]
+[u'stage', 0.088005163, u'gown', 0.070065007, u'miniskirt', 0.068798378, u'velvet', 0.06393823, u'horizontal_bar', 0.058011085]
+[u'lumbermill', 0.68410456, u'electric_fan', 0.058539871, u'gong', 0.043858726, u'armadillo', 0.028485063, u'solar_dish', 0.023990737]
+[u'doormat', 0.31079447, u'lighter', 0.18091486, u'binder', 0.046067625, u'matchstick', 0.04314388, u'wallet', 0.038325086]
+[u'balance_beam', 0.32192597, u'stage', 0.082758754, u'book_jacket', 0.052361764, u'maillot', 0.043847926, u'fountain', 0.030710993]

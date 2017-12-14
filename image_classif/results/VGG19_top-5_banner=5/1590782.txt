@@ -1,0 +1,4 @@
+[u'scoreboard', 0.12728129, u'cinema', 0.075231478, u'menu', 0.055427633, u'book_jacket', 0.049861114, u'theater_curtain', 0.029434195]
+[u'gown', 0.4540787, u'kimono', 0.11343137, u'abaya', 0.081531085, u'cloak', 0.065145113, u'vestment', 0.024681628]
+[u'book_jacket', 0.55417883, u'comic_book', 0.10611139, u'scoreboard', 0.046289839, u'cinema', 0.036144648, u'packet', 0.026421832]
+[u'theater_curtain', 0.82286006, u'cinema', 0.015093704, u'matchstick', 0.010161416, u'barn', 0.0084868213, u'organ', 0.0083513092]

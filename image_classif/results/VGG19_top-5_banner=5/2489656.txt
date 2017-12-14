@@ -1,0 +1,4 @@
+[u'comic_book', 0.29092044, u'book_jacket', 0.22881278, u'corkscrew', 0.039681353, u'web_site', 0.028694188, u'envelope', 0.021119565]
+[u'bighorn', 0.52963465, u'ibex', 0.29795074, u'ram', 0.13670143, u'gazelle', 0.011759269, u'impala', 0.0085330578]
+[u'shield', 0.12419351, u'book_jacket', 0.12031716, u'puck', 0.098975293, u'analog_clock', 0.080849722, u'wall_clock', 0.069364704]
+[u'lighter', 0.34633416, u'web_site', 0.046148121, u'perfume', 0.041747216, u'digital_clock', 0.039968565, u'screwdriver', 0.027393354]

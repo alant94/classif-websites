@@ -1,0 +1,3 @@
+[u'alp', 0.15672636, u'valley', 0.11871799, u'maze', 0.074246988, u'geyser', 0.06669575, u'megalith', 0.064694189]
+[u'rapeseed', 0.59098017, u'stone_wall', 0.080619909, u'hay', 0.057844877, u'corn', 0.038631406, u'ear', 0.032850742]
+[u'barn', 0.26492488, u'apiary', 0.096773475, u'mobile_home', 0.085686721, u'boathouse', 0.057066221, u'church', 0.045845035]

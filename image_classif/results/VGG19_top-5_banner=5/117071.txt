@@ -1,0 +1,8 @@
+[u'carton', 0.15648858, u'safe', 0.092994824, u'binder', 0.081164308, u'mailbox', 0.046716366, u'abaya', 0.040434308]
+[u'dishwasher', 0.078666337, u'water_bottle', 0.040321011, u'beaker', 0.032096736, u'toaster', 0.028664311, u'barber_chair', 0.026173806]
+[u'butcher_shop', 0.26574177, u'isopod', 0.17157513, u'conch', 0.039023846, u'vase', 0.035201874, u'coho', 0.033709802]
+[u'garbage_truck', 0.26838136, u'amphibian', 0.18963963, u'crane', 0.17253189, u'tank', 0.12961809, u'half_track', 0.082394436]
+[u'matchstick', 0.11520641, u'envelope', 0.093569472, u'plunger', 0.060544983, u'parallel_bars', 0.047811285, u'rule', 0.042611394]
+[u'fountain', 0.33044872, u'Indian_elephant', 0.071642444, u'book_jacket', 0.071560025, u'comic_book', 0.050114848, u'tusker', 0.039241195]
+[u'pay-phone', 0.77764583, u'gas_pump', 0.079077944, u'dial_telephone', 0.037631851, u'brass', 0.028719917, u'safe', 0.0062292046]
+[u'stage', 0.1842057, u'menu', 0.12007792, u'shopping_cart', 0.067815207, u'brass', 0.064442627, u'scoreboard', 0.037529271]

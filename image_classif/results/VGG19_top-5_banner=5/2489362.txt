@@ -1,0 +1,3 @@
+[u'book_jacket', 0.095485263, u'puck', 0.078199178, u'street_sign', 0.076737374, u'web_site', 0.0311429, u'hair_spray', 0.031062663]
+[u'English_foxhound', 0.32666376, u'Walker_hound', 0.074955821, u'Ibizan_hound', 0.049373161, u'Boston_bull', 0.043194462, u'basenji', 0.039988235]
+[u'cowboy_hat', 0.21772583, u'suit', 0.11639074, u'bolo_tie', 0.11323618, u'sombrero', 0.056628134, u'Windsor_tie', 0.037075691]

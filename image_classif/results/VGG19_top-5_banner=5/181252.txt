@@ -1,0 +1,6 @@
+[u'turnstile', 0.16857174, u'medicine_chest', 0.11112814, u'microwave', 0.083027229, u'sliding_door', 0.082481489, u'washbasin', 0.055824142]
+[u'medicine_chest', 0.21965756, u'library', 0.089704327, u'picket_fence', 0.064466283, u'maze', 0.056535792, u'bookcase', 0.034761302]
+[u'valley', 0.72182429, u'lakeside', 0.14103249, u'castle', 0.024181832, u'stone_wall', 0.021939039, u'alp', 0.017949395]
+[u'container_ship', 0.13685098, u'radio_telescope', 0.10443721, u'parachute', 0.079901926, u'airship', 0.076666653, u'maze', 0.039854631]
+[u'maze', 0.87639898, u'lakeside', 0.030749964, u'scoreboard', 0.024359882, u'sundial', 0.012839768, u'patio', 0.0060184002]
+[u'bell_cote', 0.38513941, u'triumphal_arch', 0.19630778, u'cinema', 0.10370266, u'analog_clock', 0.060984589, u'library', 0.046175469]

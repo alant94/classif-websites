@@ -1,0 +1,3 @@
+[u'web_site', 0.45212919, u'envelope', 0.34800264, u'nipple', 0.026142161, u'toilet_seat', 0.021803362, u'rule', 0.01422615]
+[u'web_site', 0.54119623, u'envelope', 0.31428197, u'jigsaw_puzzle', 0.048586804, u'rule', 0.0073342337, u'toilet_seat', 0.0060493583]
+[u'envelope', 0.3014701, u'web_site', 0.23311494, u'book_jacket', 0.031646762, u'digital_clock', 0.029179523, u'wall_clock', 0.022583017]

@@ -1,0 +1,5 @@
+[u'jellyfish', 0.30926648, u'coral_reef', 0.10272062, u'poncho', 0.086011916, u'volcano', 0.064418443, u'lionfish', 0.05957951]
+[u'lampshade', 0.22717752, u'coral_fungus', 0.13460387, u'goblet', 0.12918435, u'matchstick', 0.051096275, u'beer_glass', 0.048913542]
+[u'screen', 0.24832353, u'packet', 0.24147938, u'web_site', 0.11678828, u'envelope', 0.095360279, u'tray', 0.041987222]
+[u'washer', 0.27648985, u'car_wheel', 0.05490936, u'iron', 0.051004883, u'water_jug', 0.036578983, u'mouse', 0.025559429]
+[u'oscilloscope', 0.33918905, u'spotlight', 0.1069885, u'projector', 0.078301035, u'loudspeaker', 0.052044213, u'stage', 0.037398219]

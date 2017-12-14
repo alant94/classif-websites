@@ -1,0 +1,6 @@
+[u'wig', 0.16650288, u'fur_coat', 0.067400292, u'bikini', 0.061994702, u'hair_spray', 0.060496483, u'brassiere', 0.045017596]
+[u'rapeseed', 0.40310708, u'lakeside', 0.072560899, u'alp', 0.036954213, u'corn', 0.036238436, u'pinwheel', 0.032617409]
+[u'packet', 0.17258961, u'rubber_eraser', 0.093334302, u'book_jacket', 0.081616111, u'Band_Aid', 0.066956803, u'rule', 0.059076861]
+[u'puck', 0.21040271, u'book_jacket', 0.10267057, u'street_sign', 0.049211849, u'face_powder', 0.042360861, u'chocolate_sauce', 0.033585947]
+[u'medicine_chest', 0.37199229, u'bookcase', 0.040517688, u'china_cabinet', 0.032524168, u'wall_clock', 0.029856246, u'sliding_door', 0.020528372]
+[u'envelope', 0.24159262, u'web_site', 0.048294082, u'analog_clock', 0.040123109, u'wall_clock', 0.036890153, u'pinwheel', 0.032687601]

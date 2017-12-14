@@ -1,0 +1,5 @@
+[u'ski_mask', 0.24845111, u'mask', 0.076558441, u'pick', 0.036263578, u'jersey', 0.03013367, u'corkscrew', 0.025710324]
+[u'organ', 0.36024165, u'ballpoint', 0.12582095, u'chime', 0.086944006, u'screwdriver', 0.066382706, u'pencil_box', 0.045172382]
+[u'analog_clock', 0.25987843, u'book_jacket', 0.056689445, u'wall_clock', 0.047655061, u'tray', 0.0324472, u'jersey', 0.031379431]
+[u'rugby_ball', 0.97151339, u'soccer_ball', 0.014219928, u'German_shepherd', 0.0033177938, u'ballplayer', 0.0016688947, u'football_helmet', 0.0011133703]
+[u'bulletproof_vest', 0.31661281, u'military_uniform', 0.3046959, u'rugby_ball', 0.04506531, u'ballplayer', 0.044262335, u'assault_rifle', 0.039728735]

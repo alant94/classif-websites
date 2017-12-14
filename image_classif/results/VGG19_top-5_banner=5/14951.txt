@@ -1,0 +1,4 @@
+[u'swab', 0.15043762, u'envelope', 0.089985944, u'whistle', 0.048500903, u'screwdriver', 0.044139437, u'broom', 0.037412956]
+[u'boathouse', 0.16021377, u'airship', 0.065651163, u'solar_dish', 0.053772651, u'container_ship', 0.052022178, u'library', 0.05183889]
+[u'library', 0.28313735, u'desk', 0.089843795, u'boathouse', 0.059858058, u'container_ship', 0.030746786, u'safe', 0.029078342]
+[u'photocopier', 0.20982106, u'dishwasher', 0.19311491, u'stupa', 0.073527656, u'printer', 0.059898484, u'microwave', 0.058846641]

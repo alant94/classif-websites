@@ -1,0 +1,6 @@
+[u'street_sign', 0.3967796, u'comic_book', 0.20371784, u'carton', 0.079820737, u'barbershop', 0.049256202, u'gas_pump', 0.038002543]
+[u'panpipe', 0.74775827, u'matchstick', 0.063717484, u'rule', 0.063386627, u'book_jacket', 0.029902002, u'chime', 0.028034318]
+[u'totem_pole', 0.4246484, u'flagpole', 0.13046673, u'pole', 0.050774004, u'mortarboard', 0.049948178, u'ski', 0.032233581]
+[u'container_ship', 0.27347124, u'drilling_platform', 0.06934832, u'aircraft_carrier', 0.065993674, u'space_shuttle', 0.050101332, u'monitor', 0.04294192]
+[u'theater_curtain', 0.57730401, u'fire_screen', 0.020923914, u'vault', 0.019701814, u'prison', 0.016451232, u'hourglass', 0.016280539]
+[u'totem_pole', 0.06310185, u'clog', 0.058238078, u'toilet_seat', 0.051005933, u'padlock', 0.039720621, u'paddle', 0.032651998]

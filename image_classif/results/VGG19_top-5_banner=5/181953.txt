@@ -1,0 +1,5 @@
+[u'restaurant', 0.18152757, u'prison', 0.087152719, u'home_theater', 0.080793336, u'passenger_car', 0.069787204, u'bullet_train', 0.054137398]
+[u'shower_curtain', 0.99430168, u'window_shade', 0.0012097096, u'bath_towel', 0.0010011347, u'bathtub', 0.0002880352, u'wardrobe', 0.0002585701]
+[u'butcher_shop', 0.74240863, u'grocery_store', 0.096185692, u'maypole', 0.012345641, u'gondola', 0.0087390766, u'bannister', 0.0079718698]
+[u'crane', 0.20792222, u'dock', 0.076807193, u'drilling_platform', 0.07439965, u'trimaran', 0.074388511, u'container_ship', 0.061849292]
+[u'suit', 0.026675247, u'nail', 0.024098365, u'hook', 0.023211589, u'rifle', 0.02178783, u'screwdriver', 0.019792108]

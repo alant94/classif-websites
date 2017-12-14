@@ -1,0 +1,7 @@
+[u'boa_constrictor', 0.10366826, u'harp', 0.10346755, u'purse', 0.095161647, u'alligator_lizard', 0.091674864, u'pencil_box', 0.0437591]
+[u'church', 0.54420424, u'barn', 0.16047312, u'beacon', 0.14221212, u'picket_fence', 0.034687612, u'monastery', 0.029627074]
+[u'envelope', 0.071679249, u'web_site', 0.060718596, u'screen', 0.042067688, u'monitor', 0.037238572, u'binder', 0.037019443]
+[u'broom', 0.24530292, u'swab', 0.19731821, u'envelope', 0.18967384, u'bow', 0.05762475, u'oscilloscope', 0.036890991]
+[u'menu', 0.14994411, u'web_site', 0.069745548, u'matchstick', 0.058609471, u'jersey', 0.032970358, u'book_jacket', 0.023508042]
+[u'dough', 0.96917307, u'ice_cream', 0.022367502, u'mixing_bowl', 0.0017973675, u"potter's_wheel", 0.00066032034, u'French_loaf', 0.00048409638]
+[u'barbershop', 0.20358986, u'laptop', 0.13059421, u'barber_chair', 0.067218907, u'restaurant', 0.063573457, u'notebook', 0.043540388]

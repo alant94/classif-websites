@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.4472433, u'sock', 0.20362157, u'knee_pad', 0.069352396, u'clog', 0.037335806, u'Windsor_tie', 0.033169739]
+[u'bulletproof_vest', 0.23143303, u'dumbbell', 0.14580397, u'reflex_camera', 0.025111733, u'cellular_telephone', 0.022830656, u'knee_pad', 0.02248046]
+[u'boathouse', 0.12879914, u'grand_piano', 0.075484805, u'broom', 0.062756903, u'dam', 0.045017332, u'triceratops', 0.025626238]
+[u'miniskirt', 0.13496421, u'maillot', 0.067188002, u'diaper', 0.060377143, u'maillot', 0.060045335, u'studio_couch', 0.039871398]
+[u'bathtub', 0.28304493, u'tub', 0.1077715, u'diaper', 0.055875167, u'washbasin', 0.054181252, u'soap_dispenser', 0.037630375]

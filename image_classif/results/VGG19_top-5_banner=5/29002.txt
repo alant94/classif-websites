@@ -1,0 +1,2 @@
+[u'military_uniform', 0.065054514, u'seat_belt', 0.064991198, u'suit', 0.04113384, u'bow_tie', 0.039831229, u'lab_coat', 0.033769846]
+[u'jellyfish', 0.052106366, u'shower_curtain', 0.022187557, u'nail', 0.019594086, u'matchstick', 0.019107025, u'scuba_diver', 0.01810086]

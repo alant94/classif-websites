@@ -1,0 +1,4 @@
+[u'beer_glass', 0.68793607, u'theater_curtain', 0.14002979, u'perfume', 0.022846876, u'beer_bottle', 0.010718834, u'coffee_mug', 0.010653026]
+[u'chain_mail', 0.1585425, u'neck_brace', 0.11490735, u'cleaver', 0.10082626, u'bow_tie', 0.057027884, u'wool', 0.04566583]
+[u'cocker_spaniel', 0.072905213, u'clumber', 0.043625169, u'Dandie_Dinmont', 0.040067058, u'Chihuahua', 0.024012797, u'Airedale', 0.023910318]
+[u'digital_clock', 0.30675709, u'matchstick', 0.19326955, u'digital_watch', 0.061033953, u'envelope', 0.045869593, u'Band_Aid', 0.040903378]

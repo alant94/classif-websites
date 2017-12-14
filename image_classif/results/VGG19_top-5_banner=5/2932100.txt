@@ -1,0 +1,7 @@
+[u'toilet_seat', 0.43683168, u'washer', 0.16131866, u'sewing_machine', 0.068948343, u'iron', 0.05883757, u'washbasin', 0.054075915]
+[u'envelope', 0.42019826, u'crossword_puzzle', 0.28734472, u'Band_Aid', 0.028010357, u'matchstick', 0.020217402, u'digital_clock', 0.014208685]
+[u'palace', 0.25330555, u'flagpole', 0.1154642, u'church', 0.066352166, u'monastery', 0.0490303, u'prison', 0.032004107]
+[u'envelope', 0.14542916, u'jersey', 0.037322219, u'umbrella', 0.036573563, u'bathing_cap', 0.031030791, u'Band_Aid', 0.029487528]
+[u'wardrobe', 0.25900123, u'lab_coat', 0.11673855, u'iron', 0.11557619, u'vestment', 0.082967967, u'gown', 0.025381237]
+[u'bow', 0.36327562, u'racket', 0.13714135, u'iron', 0.074645273, u'stethoscope', 0.067967817, u'bolo_tie', 0.025898717]
+[u'fountain', 0.7351169, u'flagpole', 0.088822208, u'lakeside', 0.076749966, u'pole', 0.018371185, u'dock', 0.012825521]

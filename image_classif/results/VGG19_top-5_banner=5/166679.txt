@@ -1,0 +1,4 @@
+[u'web_site', 0.96998996, u'bookshop', 0.0089530768, u'comic_book', 0.0077035115, u'book_jacket', 0.0027796745, u'cash_machine', 0.0020395131]
+[u'chime', 0.094468743, u'matchstick', 0.084650673, u'flagpole', 0.079635069, u'panpipe', 0.062505297, u'bow', 0.049044479]
+[u'envelope', 0.31901276, u'web_site', 0.096927494, u'binder', 0.060734451, u'sleeping_bag', 0.060678381, u'scale', 0.03737016]
+[u'plastic_bag', 0.752702, u'mailbag', 0.082571186, u'packet', 0.068990417, u'flagpole', 0.016558345, u'punching_bag', 0.0071661202]

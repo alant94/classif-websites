@@ -1,0 +1,7 @@
+[u'torch', 0.17864017, u'bathing_cap', 0.12358276, u'ski', 0.081966631, u'parachute', 0.059633531, u'whistle', 0.048477694]
+[u'crossword_puzzle', 0.24794658, u'bookshop', 0.059821151, u'oscilloscope', 0.055578671, u'medicine_chest', 0.043005534, u'window_screen', 0.036564153]
+[u'prison', 0.27482796, u'washer', 0.12083939, u'lab_coat', 0.11191485, u'restaurant', 0.053349722, u'turnstile', 0.045410424]
+[u'trench_coat', 0.35230294, u'kimono', 0.11560694, u'groom', 0.04657216, u'stole', 0.030549381, u'bow_tie', 0.0247743]
+[u'espresso_maker', 0.18685929, u'tripod', 0.09960793, u'can_opener', 0.092994556, u'power_drill', 0.08247076, u'revolver', 0.06284219]
+[u'gasmask', 0.60114866, u'oxygen_mask', 0.38883802, u'lab_coat', 0.0036456916, u'scuba_diver', 0.0026336478, u'muzzle', 0.00044633012]
+[u'lab_coat', 0.8645823, u'gasmask', 0.049725901, u'bassinet', 0.023571456, u'oxygen_mask', 0.013568427, u'cradle', 0.0088375425]

@@ -1,0 +1,7 @@
+[u'web_site', 0.77217764, u'comic_book', 0.15595256, u'menu', 0.024286283, u'packet', 0.0071952487, u'safety_pin', 0.0054307021]
+[u'web_site', 0.95277959, u'menu', 0.037452824, u'comic_book', 0.0030557162, u'packet', 0.00093715283, u'envelope', 0.00092142506]
+[u'menu', 0.45711356, u'web_site', 0.37646237, u'slot', 0.080645561, u'vending_machine', 0.041264702, u'comic_book', 0.014302036]
+[u'web_site', 0.80768466, u'menu', 0.18766582, u'comic_book', 0.0034948622, u'television', 0.00018640676, u'laptop', 0.00012022717]
+[u'web_site', 0.96523172, u'menu', 0.01605713, u'monitor', 0.0038064099, u'comic_book', 0.0037931504, u'television', 0.0028564811]
+[u'web_site', 0.62267852, u'menu', 0.37602472, u'packet', 0.00039969583, u'monitor', 0.00031014229, u'screen', 0.00021047791]
+[u'web_site', 0.8952325, u'menu', 0.095591135, u'vending_machine', 0.0032767593, u'packet', 0.0019063507, u'slot', 0.00055101147]

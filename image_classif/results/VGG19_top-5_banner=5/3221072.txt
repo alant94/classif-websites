@@ -1,0 +1,6 @@
+[u'sax', 0.060164463, u'kimono', 0.042705327, u'chain_saw', 0.042279206, u'tusker', 0.035796277, u'barrow', 0.034672365]
+[u'vestment', 0.42594483, u'altar', 0.31919351, u'throne', 0.10236461, u'prayer_rug', 0.011305885, u'gong', 0.011150701]
+[u'stage', 0.227605, u'steel_drum', 0.096197069, u'drum', 0.0380775, u'wig', 0.034933645, u'cinema', 0.033111878]
+[u'church', 0.95215732, u'beacon', 0.0089409286, u'bell_cote', 0.0070964908, u'flagpole', 0.0057875752, u'missile', 0.0036810876]
+[u'maze', 0.50463271, u'balance_beam', 0.092107862, u'crate', 0.050591879, u'apiary', 0.023384359, u'lumbermill', 0.021261193]
+[u'torch', 0.082718208, u'street_sign', 0.059802469, u'steel_drum', 0.048737768, u'flagpole', 0.045475803, u'scoreboard', 0.044403654]

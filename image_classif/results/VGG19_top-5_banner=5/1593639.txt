@@ -1,0 +1,4 @@
+[u'digital_clock', 0.61131942, u'traffic_light', 0.17850809, u'street_sign', 0.040717039, u'cinema', 0.023948174, u'analog_clock', 0.023128748]
+[u'scoreboard', 0.30014986, u'airship', 0.21953778, u'container_ship', 0.067294329, u'digital_clock', 0.064060822, u'balance_beam', 0.050240502]
+[u'German_shepherd', 0.086295322, u'Chihuahua', 0.024005078, u'English_foxhound', 0.021416785, u'tobacco_shop', 0.018858215, u'bloodhound', 0.018483898]
+[u'fountain', 0.12690593, u'dam', 0.036433838, u'cradle', 0.034839392, u'mosquito_net', 0.031904448, u'fireboat', 0.029705778]

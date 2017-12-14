@@ -1,0 +1,1 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

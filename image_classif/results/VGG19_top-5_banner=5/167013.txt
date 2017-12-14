@@ -1,0 +1,5 @@
+[u'perfume', 0.42664903, u'face_powder', 0.16206919, u'wine_bottle', 0.13016193, u'lotion', 0.07570263, u'red_wine', 0.062687427]
+[u'book_jacket', 0.37567979, u'maze', 0.042617116, u'cinema', 0.040133681, u'restaurant', 0.033080824, u'bannister', 0.021806907]
+[u'suit', 0.6620611, u'bow_tie', 0.10155737, u'Windsor_tie', 0.073446542, u'oboe', 0.048972622, u'bassoon', 0.020068789]
+[u'upright', 0.84293866, u'grand_piano', 0.15290448, u'organ', 0.0029004465, u'accordion', 0.0010100433, u'rule', 4.3115582e-05]
+[u'coil', 0.31372657, u'espresso', 0.1578916, u'artichoke', 0.070091709, u'maze', 0.069256879, u'chambered_nautilus', 0.057319522]

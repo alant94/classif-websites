@@ -1,0 +1,1 @@
+[u'chime', 0.46495539, u'ballpoint', 0.084780201, u'syringe', 0.074595042, u'rubber_eraser', 0.055911057, u'rule', 0.033959571]

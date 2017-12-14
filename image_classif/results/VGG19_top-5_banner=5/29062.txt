@@ -1,0 +1,6 @@
+[u'picket_fence', 0.45296311, u'flagpole', 0.05906209, u'church', 0.04508077, u'beacon', 0.043390565, u'boathouse', 0.03852487]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'picket_fence', 0.2446117, u'thatch', 0.12001341, u'church', 0.10131869, u'boathouse', 0.083224222, u'tile_roof', 0.078448333]
+[u'sweatshirt', 0.11204157, u'spatula', 0.078427732, u'jersey', 0.051034536, u'lab_coat', 0.024547851, u'plunger', 0.024258735]
+[u'fire_engine', 0.250882, u'packet', 0.058431584, u'tow_truck', 0.055722024, u'scoreboard', 0.05482503, u'web_site', 0.045332935]
+[u"potter's_wheel", 0.020879636, u'sweatshirt', 0.020417113, u'crossword_puzzle', 0.017033357, u'pajama', 0.015698578, u'sleeping_bag', 0.012722529]

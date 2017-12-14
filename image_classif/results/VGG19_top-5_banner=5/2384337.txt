@@ -1,0 +1,7 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'wine_bottle', 0.62443656, u'perfume', 0.06841433, u'red_wine', 0.056042846, u'hourglass', 0.028534815, u'vacuum', 0.018069135]
+[u'wine_bottle', 0.6562795, u'red_wine', 0.3339574, u'corkscrew', 0.0059152329, u'beer_bottle', 0.0027481457, u'chocolate_sauce', 0.00028355667]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'bicycle-built-for-two', 0.43005818, u'tricycle', 0.27621725, u'mountain_bike', 0.086866222, u'moped', 0.059197977, u'jinrikisha', 0.048681136]
+[u'red_wine', 0.73361945, u'goblet', 0.062872745, u'wine_bottle', 0.03053231, u'perfume', 0.025909495, u'balloon', 0.020751508]
+[u'pop_bottle', 0.46761182, u'beer_bottle', 0.23694701, u'wine_bottle', 0.21601819, u'saltshaker', 0.013639807, u'water_bottle', 0.01238706]

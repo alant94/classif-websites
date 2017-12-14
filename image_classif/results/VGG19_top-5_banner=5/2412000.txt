@@ -1,0 +1,7 @@
+[u'street_sign', 0.53093308, u'wall_clock', 0.07815133, u'analog_clock', 0.072206169, u'barbershop', 0.043029316, u'bottlecap', 0.038563319]
+[u'binder', 0.39573714, u'envelope', 0.14815991, u'book_jacket', 0.071942598, u'window_shade', 0.055906776, u'tray', 0.026402863]
+[u'shoji', 0.86850703, u'window_screen', 0.068129502, u'sliding_door', 0.055410132, u'window_shade', 0.0031273826, u'china_cabinet', 0.0015330527]
+[u'envelope', 0.2542119, u'lampshade', 0.22023425, u'umbrella', 0.11577329, u'birdhouse', 0.057865255, u'church', 0.038114026]
+[u'washbasin', 0.58290106, u'medicine_chest', 0.16398869, u'guillotine', 0.07096801, u'bathtub', 0.034660846, u'sliding_door', 0.024574213]
+[u'punching_bag', 0.42089021, u'chime', 0.19633242, u'wall_clock', 0.054436576, u'hook', 0.040598489, u'bow', 0.022430057]
+[u'binder', 0.59171611, u'refrigerator', 0.1148137, u'wardrobe', 0.060287043, u'sliding_door', 0.041681193, u'safe', 0.026951209]

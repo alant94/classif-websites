@@ -1,0 +1,2 @@
+[u'switch', 0.24695694, u'remote_control', 0.11578812, u'digital_clock', 0.081078768, u'scale', 0.066951126, u'analog_clock', 0.037702702]
+[u'folding_chair', 0.93521434, u'web_site', 0.057251517, u'stretcher', 0.00051245565, u'bicycle-built-for-two', 0.00048875547, u'television', 0.00037323617]

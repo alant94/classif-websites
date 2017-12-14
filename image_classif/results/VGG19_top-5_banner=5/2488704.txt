@@ -1,0 +1,5 @@
+[u'web_site', 0.97329551, u'menu', 0.02062881, u'vending_machine', 0.0013471307, u'packet', 0.00083129579, u'envelope', 0.00042609696]
+[u'web_site', 0.88937545, u'slot', 0.042252943, u'menu', 0.027203027, u'envelope', 0.0034565034, u'packet', 0.0024548655]
+[u'menu', 0.97933573, u'web_site', 0.016329104, u'packet', 0.0013022627, u'vending_machine', 0.00084799668, u'plate', 0.00032145434]
+[u'window_screen', 0.32674542, u'window_shade', 0.23879413, u'vending_machine', 0.034777772, u'refrigerator', 0.028811364, u'bow_tie', 0.026595164]
+[u'television', 0.18681224, u'web_site', 0.097862683, u'monitor', 0.087011077, u'screen', 0.065097384, u'iPod', 0.051726274]

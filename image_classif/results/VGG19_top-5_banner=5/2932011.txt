@@ -1,0 +1,6 @@
+[u'cowboy_boot', 0.27495432, u'butcher_shop', 0.10382166, u'wardrobe', 0.035863284, u'stole', 0.032033104, u'sarong', 0.03166436]
+[u'abaya', 0.3155418, u'groom', 0.13666224, u'suit', 0.076477177, u'wardrobe', 0.053666487, u'jean', 0.041596361]
+[u'sarong', 0.51868355, u'packet', 0.071681373, u'Band_Aid', 0.044584658, u'book_jacket', 0.042543627, u'catamaran', 0.035818461]
+[u'patio', 0.51622957, u'pot', 0.10158879, u'brass', 0.036753234, u'maze', 0.027135616, u'apiary', 0.020953717]
+[u'doormat', 0.36559066, u'packet', 0.16125916, u'carton', 0.14469385, u'envelope', 0.04396046, u'Band_Aid', 0.034450691]
+[u'flute', 0.26578972, u'harp', 0.059128657, u'lab_coat', 0.055035289, u'groom', 0.052991062, u'panpipe', 0.050529066]

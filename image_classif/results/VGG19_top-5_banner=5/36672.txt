@@ -1,0 +1,4 @@
+[u'Arabian_camel', 0.29279462, u'cliff', 0.1236482, u'oxcart', 0.07063251, u'bighorn', 0.062534519, u'plow', 0.062218409]
+[u'mountain_bike', 0.79864299, u'unicycle', 0.051875126, u'bicycle-built-for-two', 0.026276477, u'cliff', 0.013490976, u'oxcart', 0.0081584258]
+[u'sorrel', 0.23199446, u'oxcart', 0.1438769, u'hartebeest', 0.11419336, u'ox', 0.082129367, u'horse_cart', 0.046012662]
+[u'dogsled', 0.045452137, u'Weimaraner', 0.040679842, u'English_setter', 0.038887598, u'Saluki', 0.03628375, u'Chesapeake_Bay_retriever', 0.032973103]

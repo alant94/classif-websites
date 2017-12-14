@@ -1,0 +1,4 @@
+[u'soccer_ball', 0.73836678, u'rugby_ball', 0.10229024, u'unicycle', 0.067180447, u'tricycle', 0.014808621, u'knee_pad', 0.0069628707]
+[u'bow', 0.067817576, u'gas_pump', 0.065998666, u'cleaver', 0.036303215, u'racket', 0.035953637, u"carpenter's_kit", 0.033333499]
+[u'mosquito_net', 0.8638702, u'fireboat', 0.083746381, u'schooner', 0.007247448, u'yawl', 0.0039329692, u'planetarium', 0.0033892076]
+[u'web_site', 0.55859542, u'packet', 0.15757769, u'menu', 0.1260315, u'vending_machine', 0.0652465, u'screen', 0.021756167]

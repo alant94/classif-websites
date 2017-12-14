@@ -1,0 +1,5 @@
+[u'handkerchief', 0.1441125, u'envelope', 0.13795498, u'prayer_rug', 0.08845789, u'book_jacket', 0.058588833, u'digital_clock', 0.041563161]
+[u'assault_rifle', 0.13370593, u'rifle', 0.065105513, u'tank', 0.05139723, u'military_uniform', 0.033426594, u'pickelhaube', 0.033126131]
+[u'cliff_dwelling', 0.23956658, u'centipede', 0.047805712, u'cliff', 0.034465477, u'trilobite', 0.028718257, u'African_crocodile', 0.023285395]
+[u'apiary', 0.37551606, u'barrow', 0.29104048, u'garbage_truck', 0.063017532, u'crate', 0.036066063, u'birdhouse', 0.02164457]
+[u'stethoscope', 0.14417663, u'hand_blower', 0.068281405, u'iron', 0.058087118, u'oscilloscope', 0.040201843, u'modem', 0.039964043]

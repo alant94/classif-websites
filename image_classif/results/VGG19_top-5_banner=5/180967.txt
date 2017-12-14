@@ -1,0 +1,7 @@
+[u'digital_clock', 0.65640277, u'scoreboard', 0.059517674, u'oscilloscope', 0.048017841, u'digital_watch', 0.037494678, u'analog_clock', 0.034326885]
+[u'wardrobe', 0.39617267, u'fountain', 0.2192134, u'paintbrush', 0.048526481, u'theater_curtain', 0.036560956, u'ski', 0.029556492]
+[u'digital_clock', 0.65851408, u'oscilloscope', 0.048827969, u'digital_watch', 0.048116684, u'analog_clock', 0.04048552, u'scoreboard', 0.038423259]
+[u'fountain', 0.15930659, u'butcher_shop', 0.11159305, u'theater_curtain', 0.096813828, u'paintbrush', 0.078592114, u'matchstick', 0.031531259]
+[u'cash_machine', 0.14706749, u'book_jacket', 0.13178243, u'digital_clock', 0.10120055, u'scoreboard', 0.043377463, u'wall_clock', 0.043183181]
+[u'scoreboard', 0.38785839, u'digital_clock', 0.09856829, u'jersey', 0.081556693, u'web_site', 0.065147988, u'gas_pump', 0.031795528]
+[u'digital_clock', 0.66803932, u'oscilloscope', 0.050333261, u'scoreboard', 0.04952386, u'digital_watch', 0.037702724, u'analog_clock', 0.036582481]

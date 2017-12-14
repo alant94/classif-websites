@@ -1,0 +1,4 @@
+[u'lab_coat', 0.21265376, u'Band_Aid', 0.075571619, u'pajama', 0.05872079, u'bonnet', 0.034917179, u'bath_towel', 0.031889834]
+[u'punching_bag', 0.24171384, u'jersey', 0.078931361, u'hair_spray', 0.072143286, u'torch', 0.067244649, u'kimono', 0.061707161]
+[u'chime', 0.30718637, u'corkscrew', 0.17561187, u'hook', 0.1597725, u'street_sign', 0.03755714, u'wall_clock', 0.031012015]
+[u'jigsaw_puzzle', 0.81160051, u'wall_clock', 0.033194035, u'digital_clock', 0.021188175, u'envelope', 0.015359139, u'maze', 0.01161046]

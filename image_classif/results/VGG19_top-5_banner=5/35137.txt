@@ -1,0 +1,7 @@
+[u'matchstick', 0.75780964, u'theater_curtain', 0.050187636, u'red_wine', 0.040936649, u'digital_clock', 0.021101601, u'lighter', 0.01774855]
+[u'bookshop', 0.62434888, u'library', 0.17688568, u'bookcase', 0.1263852, u'comic_book', 0.036479734, u'suit', 0.0022451985]
+[u'castle', 0.99189913, u'cliff', 0.0034164365, u'monastery', 0.0018248697, u'palace', 0.00078331283, u'cliff_dwelling', 0.000278753]
+[u'Windsor_tie', 0.39842597, u'suit', 0.25702342, u'lab_coat', 0.079328366, u'book_jacket', 0.028124871, u'racket', 0.01529057]
+[u'suit', 0.88297892, u'Windsor_tie', 0.065915368, u'bow_tie', 0.030394619, u'groom', 0.0088150986, u'oboe', 0.0049319742]
+[u'swing', 0.55374229, u'shopping_cart', 0.12835057, u'park_bench', 0.059944175, u'folding_chair', 0.032421757, u'shopping_basket', 0.023001468]
+[u'shower_curtain', 0.25574639, u'apron', 0.13920692, u'envelope', 0.099962033, u'menu', 0.084797688, u'handkerchief', 0.061830014]

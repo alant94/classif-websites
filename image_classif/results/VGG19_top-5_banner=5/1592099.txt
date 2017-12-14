@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.41893694, u'sarong', 0.15473078, u'bikini', 0.13097075, u'maillot', 0.059234299, u'maillot', 0.05382821]
+[u'brassiere', 0.15205549, u'bikini', 0.084405929, u'swimming_trunks', 0.083148628, u'bathing_cap', 0.069508441, u'Band_Aid', 0.048487447]
+[u'bathtub', 0.32231057, u'tub', 0.26782608, u'maillot', 0.13283741, u'bikini', 0.05391654, u'brassiere', 0.047298279]

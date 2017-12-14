@@ -1,0 +1,2 @@
+[u'book_jacket', 0.35559335, u'lipstick', 0.065089926, u'bow_tie', 0.063855082, u'bikini', 0.06187465, u'cowboy_hat', 0.060583577]
+[u'book_jacket', 0.35559335, u'lipstick', 0.065089926, u'bow_tie', 0.063855082, u'bikini', 0.06187465, u'cowboy_hat', 0.060583577]

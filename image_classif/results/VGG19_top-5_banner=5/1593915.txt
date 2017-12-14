@@ -1,0 +1,1 @@
+[u'comic_book', 0.31916919, u'jellyfish', 0.089713104, u'jersey', 0.068247043, u'book_jacket', 0.06471885, u'parachute', 0.055693462]

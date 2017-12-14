@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.5149712, u'chime', 0.17482273, u'window_shade', 0.1057198, u'theater_curtain', 0.027240258, u'ballpoint', 0.027135456]

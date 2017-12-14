@@ -1,0 +1,4 @@
+[u'airship', 0.24655454, u'hook', 0.13522267, u'picket_fence', 0.068740807, u'traffic_light', 0.065075845, u'swing', 0.054226559]
+[u'pinwheel', 0.53717464, u'apron', 0.076574869, u'rocking_chair', 0.04602287, u'ashcan', 0.043207079, u'carton', 0.038932361]
+[u'street_sign', 0.14102818, u'envelope', 0.12219834, u'warplane', 0.083996616, u'airship', 0.066308193, u'wing', 0.061751947]
+[u'envelope', 0.18194254, u'binder', 0.074294589, u'notebook', 0.064957991, u'modem', 0.054407932, u'remote_control', 0.03914699]

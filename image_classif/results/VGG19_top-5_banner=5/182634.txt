@@ -1,0 +1,7 @@
+[u'red_wine', 0.069100052, u'book_jacket', 0.055288106, u'beer_glass', 0.034534529, u'lotion', 0.033204276, u'barrel', 0.028692162]
+[u'shower_curtain', 0.20608675, u'lab_coat', 0.066577725, u'hair_spray', 0.037582297, u'wig', 0.035594318, u'hand_blower', 0.030459478]
+[u'wig', 0.17126261, u'mask', 0.16012374, u'bow_tie', 0.06523373, u'cardigan', 0.048115317, u'shower_cap', 0.046391506]
+[u'lab_coat', 0.085448958, u'neck_brace', 0.041115344, u'groom', 0.037753444, u'vestment', 0.036557462, u'stole', 0.025438653]
+[u'book_jacket', 0.17930405, u'gas_pump', 0.07036341, u'comic_book', 0.024347644, u'jersey', 0.023517745, u'beer_glass', 0.019828258]
+[u'wig', 0.13045071, u'hair_spray', 0.077571824, u'television', 0.029347826, u'fountain', 0.026606513, u'toaster', 0.021210438]
+[u'suit', 0.3703177, u'sunglasses', 0.14377253, u'Windsor_tie', 0.10503027, u'sunglass', 0.079813018, u'bow_tie', 0.044307195]

@@ -1,0 +1,7 @@
+[u'web_site', 0.19071968, u'laptop', 0.10296467, u'slide_rule', 0.081405856, u'notebook', 0.053363644, u'book_jacket', 0.051561072]
+[u'envelope', 0.29545474, u'digital_clock', 0.090463266, u'wall_clock', 0.05017902, u'Band_Aid', 0.033840001, u'Windsor_tie', 0.02894816]
+[u'flagpole', 0.17821296, u'lampshade', 0.11949611, u'whistle', 0.035412904, u'electric_guitar', 0.034040071, u'brassiere', 0.02813426]
+[u'crossword_puzzle', 0.21972999, u'digital_clock', 0.12352412, u'book_jacket', 0.099861927, u'scoreboard', 0.038193617, u'maze', 0.027975379]
+[u'switch', 0.27655339, u'buckle', 0.1431707, u'hook', 0.051395774, u'combination_lock', 0.029589793, u"carpenter's_kit", 0.029113162]
+[u'web_site', 0.24804342, u'hand-held_computer', 0.15581709, u'screen', 0.106998, u'scoreboard', 0.064610779, u'monitor', 0.054528821]
+[u'web_site', 0.36116767, u'hand-held_computer', 0.14913833, u'slot', 0.10567808, u'monitor', 0.053941328, u'screen', 0.049896635]

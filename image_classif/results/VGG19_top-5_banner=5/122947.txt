@@ -1,0 +1,2 @@
+[u'container_ship', 0.64062327, u'digital_clock', 0.053092368, u'crossword_puzzle', 0.018005608, u'maze', 0.016241677, u'scoreboard', 0.013469781]
+[u'nail', 0.19897611, u'hammerhead', 0.11331005, u'screw', 0.059136443, u'sweatshirt', 0.055671975, u'golf_ball', 0.033431184]

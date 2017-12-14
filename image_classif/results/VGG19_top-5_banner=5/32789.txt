@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.37336883, u'digital_clock', 0.046820115, u'Windsor_tie', 0.029270317, u'quilt', 0.023541486, u'envelope', 0.021925652]
+[u'picket_fence', 0.50554109, u'fountain', 0.2146305, u'worm_fence', 0.036894999, u'radiator', 0.020928523, u'bald_eagle', 0.014534306]
+[u'envelope', 0.26112697, u'digital_clock', 0.12536635, u'crossword_puzzle', 0.04608646, u'web_site', 0.037298542, u'wall_clock', 0.037098691]
+[u'envelope', 0.14916965, u'web_site', 0.091541164, u'crossword_puzzle', 0.037857637, u'Band_Aid', 0.033059102, u'digital_clock', 0.029429775]
+[u'crossword_puzzle', 0.30416745, u'Windsor_tie', 0.044421859, u'digital_clock', 0.030117746, u'Band_Aid', 0.026288865, u'digital_watch', 0.020925198]

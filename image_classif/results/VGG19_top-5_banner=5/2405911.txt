@@ -1,0 +1,4 @@
+[u'bolo_tie', 0.20604338, u'necklace', 0.081343003, u'buckle', 0.059897661, u'hair_slide', 0.054397784, u'combination_lock', 0.028522685]
+[u'entertainment_center', 0.41816813, u'home_theater', 0.32992992, u'television', 0.095538832, u'studio_couch', 0.041843083, u'chest', 0.024769865]
+[u'restaurant', 0.2149597, u'throne', 0.17832702, u'patio', 0.14281489, u'dining_table', 0.1248202, u'vault', 0.061693504]
+[u'entertainment_center', 0.14273934, u'china_cabinet', 0.10147996, u'desk', 0.075431228, u'restaurant', 0.074014634, u'patio', 0.066319913]

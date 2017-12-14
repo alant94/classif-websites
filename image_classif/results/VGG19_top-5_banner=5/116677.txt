@@ -1,0 +1,1 @@
+[u'plow', 0.39683342, u'mountain_bike', 0.17285421, u'bicycle-built-for-two', 0.063231602, u'cannon', 0.056690551, u'bow', 0.049973924]

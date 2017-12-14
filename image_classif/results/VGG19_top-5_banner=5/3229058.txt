@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.069965854, u'tench', 0.039249271, u'cellular_telephone', 0.02995456, u'orangutan', 0.024325497, u'sunscreen', 0.024006594]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'vacuum', 0.17342085, u'book_jacket', 0.046992391, u'iron', 0.032636221, u'ashcan', 0.023919823, u'sleeping_bag', 0.023787323]
+[u'swimming_trunks', 0.18887861, u'bikini', 0.094069324, u'seashore', 0.090203606, u'maillot', 0.070371538, u'volleyball', 0.067480758]
+[u'balance_beam', 0.70352679, u'Ibizan_hound', 0.068797424, u'soccer_ball', 0.040397003, u'Saluki', 0.026612449, u'croquet_ball', 0.023501199]
+[u'stupa', 0.13797747, u'dome', 0.13189353, u'radio_telescope', 0.071735866, u'spotlight', 0.066734523, u'planetarium', 0.064417966]
+[u'lampshade', 0.30617961, u'spotlight', 0.29814777, u'face_powder', 0.11760812, u'candle', 0.044567246, u'loupe', 0.018538527]
+[u'volleyball', 0.55566823, u'bikini', 0.16559432, u'swimming_trunks', 0.02949279, u'diaper', 0.029227771, u'soccer_ball', 0.025099993]

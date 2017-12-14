@@ -1,0 +1,4 @@
+[u'screwdriver', 0.19251063, u'nail', 0.17384274, u'rifle', 0.090239279, u'chime', 0.070355773, u"carpenter's_kit", 0.056741513]
+[u'space_shuttle', 0.18034965, u'wing', 0.11966183, u'jigsaw_puzzle', 0.083079159, u'traffic_light', 0.073540874, u'warplane', 0.04141172]
+[u'web_site', 0.17308602, u'bakery', 0.10930222, u'menu', 0.089415401, u'ladle', 0.081249215, u'loupe', 0.055525985]
+[u'digital_clock', 0.15742996, u'envelope', 0.092286006, u'wall_clock', 0.080750979, u'Band_Aid', 0.059847429, u'book_jacket', 0.03654369]

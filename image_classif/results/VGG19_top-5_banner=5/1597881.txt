@@ -1,0 +1,2 @@
+[u'candle', 0.13914692, u'matchstick', 0.10006561, u'hook', 0.071380831, u'coral_fungus', 0.054742504, u'theater_curtain', 0.05252254]
+[u'cloak', 0.16801812, u'fur_coat', 0.16104162, u'wig', 0.11689208, u'lipstick', 0.065982148, u'sunglasses', 0.048831474]

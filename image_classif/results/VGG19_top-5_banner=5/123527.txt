@@ -1,0 +1,2 @@
+[u'breastplate', 0.098713383, u'bulletproof_vest', 0.08792235, u'pickelhaube', 0.083468966, u'military_uniform', 0.082240567, u'cuirass', 0.074681126]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

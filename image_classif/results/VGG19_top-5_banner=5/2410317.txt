@@ -1,0 +1,6 @@
+[u'cowboy_hat', 0.24927564, u'sombrero', 0.079881705, u'marimba', 0.046302427, u'banjo', 0.03652798, u'accordion', 0.032776069]
+[u'sombrero', 0.33043227, u'cowboy_hat', 0.21185735, u'lab_coat', 0.077466823, u'mask', 0.031596802, u'wig', 0.030210106]
+[u'paper_towel', 0.13491982, u'Christmas_stocking', 0.049286123, u'pajama', 0.042091936, u'teddy', 0.040522527, u'toyshop', 0.038685285]
+[u'hook', 0.074823156, u'chime', 0.059766114, u'electric_guitar', 0.049367413, u'corkscrew', 0.04629213, u'wall_clock', 0.039802358]
+[u'bassoon', 0.23706077, u'trombone', 0.079313613, u'bow', 0.071413435, u'violin', 0.040455069, u'rifle', 0.035051234]
+[u'china_cabinet', 0.1389606, u'medicine_chest', 0.12732857, u'bookcase', 0.103691, u'lotion', 0.076757029, u'thimble', 0.05806376]

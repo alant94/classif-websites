@@ -1,0 +1,1 @@
+[u'screw', 0.46643397, u'nail', 0.21256521, u'mortarboard', 0.02060066, u'corkscrew', 0.012671561, u'fountain_pen', 0.012111687]

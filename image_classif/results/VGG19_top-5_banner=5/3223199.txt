@@ -1,0 +1,4 @@
+[u'scoreboard', 0.26471221, u'street_sign', 0.23522693, u'traffic_light', 0.2007286, u'barbershop', 0.032986391, u'digital_clock', 0.032349583]
+[u'scale', 0.081779987, u'street_sign', 0.070850216, u'sunglass', 0.041938867, u'sunglasses', 0.033832964, u'binder', 0.031979311]
+[u'obelisk', 0.6682719, u'missile', 0.073282316, u'beacon', 0.063963339, u'pedestal', 0.044939712, u'projectile', 0.030998835]
+[u'web_site', 0.22863343, u'book_jacket', 0.067498505, u'digital_clock', 0.03614337, u'street_sign', 0.021406846, u'hair_spray', 0.02069113]

@@ -1,0 +1,5 @@
+[u'web_site', 0.09659332, u'envelope', 0.087222613, u'hand_blower', 0.023728145, u'hook', 0.016975507, u'nail', 0.015445758]
+[u'envelope', 0.65362722, u'binder', 0.05906795, u'cash_machine', 0.032888718, u'monitor', 0.027882414, u'carton', 0.026870932]
+[u'rifle', 0.30956396, u'bow', 0.19986971, u'banjo', 0.10439851, u'bassoon', 0.068387322, u'maypole', 0.067374147]
+[u'red_wine', 0.56701827, u'wine_bottle', 0.39452046, u'corkscrew', 0.010520785, u'beer_bottle', 0.0064887186, u'pop_bottle', 0.0051030498]
+[u'rapeseed', 0.79202962, u'bee', 0.084938869, u'ant', 0.049237013, u'ladybug', 0.027733246, u'fly', 0.020756945]

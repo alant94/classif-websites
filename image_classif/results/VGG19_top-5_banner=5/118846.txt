@@ -1,0 +1,5 @@
+[u'safe', 0.15123531, u'file', 0.1002454, u'switch', 0.068406098, u'pencil_sharpener', 0.055978898, u'stove', 0.047757022]
+[u'switch', 0.19533309, u'lighter', 0.075121082, u'digital_clock', 0.068929523, u'stove', 0.05598573, u'analog_clock', 0.048396077]
+[u'wall_clock', 0.30456185, u'puck', 0.27239892, u'analog_clock', 0.10737598, u'pick', 0.049156088, u'book_jacket', 0.042603757]
+[u'file', 0.17711401, u'stove', 0.120733, u'safe', 0.096630447, u'pencil_sharpener', 0.085866243, u'switch', 0.043696832]
+[u'wall_clock', 0.13808726, u'analog_clock', 0.087024949, u'perfume', 0.072569914, u'book_jacket', 0.065255642, u'digital_clock', 0.050088454]

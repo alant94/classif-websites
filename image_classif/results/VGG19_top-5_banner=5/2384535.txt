@@ -1,0 +1,2 @@
+[u'book_jacket', 0.13893227, u'digital_clock', 0.089491732, u'doormat', 0.06180983, u'pick', 0.041735847, u'street_sign', 0.032141469]
+[u'cleaver', 0.016234538, u'red_wine', 0.015424262, u'envelope', 0.015418814, u'puck', 0.01203026, u'perfume', 0.010013968]

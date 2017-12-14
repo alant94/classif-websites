@@ -1,0 +1,6 @@
+[u'street_sign', 0.25863519, u'book_jacket', 0.084423348, u'analog_clock', 0.063840471, u'web_site', 0.053157311, u'digital_clock', 0.051648192]
+[u'electric_guitar', 0.9911204, u'acoustic_guitar', 0.0071506822, u'banjo', 0.0011085089, u'ocarina', 0.00020203298, u'cello', 0.00014180025]
+[u'digital_clock', 0.08749529, u'shower_curtain', 0.085912861, u'envelope', 0.084129356, u'monitor', 0.062501237, u'washbasin', 0.046085808]
+[u'digital_clock', 0.18008392, u'stopwatch', 0.10822701, u'analog_clock', 0.10040937, u'bottlecap', 0.072363093, u'digital_watch', 0.051744435]
+[u'street_sign', 0.59563458, u'book_jacket', 0.26377991, u'packet', 0.016351895, u'traffic_light', 0.014172118, u'rubber_eraser', 0.010804635]
+[u'scoreboard', 0.89931738, u'cash_machine', 0.019073131, u'street_sign', 0.007832638, u'barbershop', 0.0060505043, u'slot', 0.0059099896]

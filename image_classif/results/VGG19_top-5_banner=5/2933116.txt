@@ -1,0 +1,3 @@
+[u'analog_clock', 0.078046441, u'web_site', 0.052683484, u'hook', 0.033033345, u'ski', 0.027420102, u'street_sign', 0.024333522]
+[u'shoji', 0.42222354, u'plunger', 0.079448462, u'prison', 0.047938511, u'crutch', 0.042659435, u'pajama', 0.028952461]
+[u'volleyball', 0.62231672, u'prison', 0.07423503, u'pole', 0.065001056, u'racket', 0.029616363, u'torch', 0.022249395]

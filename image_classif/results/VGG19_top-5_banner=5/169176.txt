@@ -1,0 +1,1 @@
+[u'chain_saw', 0.62436062, u'power_drill', 0.15959206, u'magnetic_compass', 0.024066413, u'whistle', 0.018242149, u'swab', 0.0178717]

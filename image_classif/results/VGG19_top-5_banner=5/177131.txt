@@ -1,0 +1,1 @@
+[u'screen', 0.38849828, u'monitor', 0.21281779, u'web_site', 0.19486617, u'television', 0.050859675, u'packet', 0.042640831]

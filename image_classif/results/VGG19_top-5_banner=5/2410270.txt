@@ -1,0 +1,5 @@
+[u'hand_blower', 0.34674755, u'bicycle-built-for-two', 0.11124089, u'can_opener', 0.097554237, u'barber_chair', 0.079218738, u'corkscrew', 0.057557441]
+[u'mountain_bike', 0.07291659, u'muzzle', 0.057898697, u'bicycle-built-for-two', 0.057197802, u'bow', 0.034740359, u'dingo', 0.028410204]
+[u'mountain_bike', 0.31163007, u'unicycle', 0.14710903, u'bicycle-built-for-two', 0.14477253, u'ski', 0.12920026, u'tricycle', 0.11286073]
+[u'bicycle-built-for-two', 0.57955915, u'mountain_bike', 0.16516709, u'tricycle', 0.099066854, u'crane', 0.018738771, u'unicycle', 0.017199714]
+[u'mountain_bike', 0.65074837, u'jinrikisha', 0.072608516, u'bicycle-built-for-two', 0.071249448, u'tricycle', 0.058533233, u'paddlewheel', 0.031434525]

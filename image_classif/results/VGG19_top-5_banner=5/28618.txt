@@ -1,0 +1,4 @@
+[u'abaya', 0.22427675, u'overskirt', 0.11458388, u'hoopskirt', 0.052283838, u'neck_brace', 0.0389392, u'cloak', 0.038887005]
+[u'throne', 0.099587739, u'European_fire_salamander', 0.094387546, u'stopwatch', 0.062154017, u'caldron', 0.057303432, u'mask', 0.052480701]
+[u'picket_fence', 0.24926047, u'candle', 0.099069387, u'matchstick', 0.063797958, u'screwdriver', 0.056232303, u'paintbrush', 0.052741122]
+[u'warplane', 0.10987636, u'hammerhead', 0.073247485, u'envelope', 0.05812528, u'book_jacket', 0.042033795, u'jigsaw_puzzle', 0.038354639]

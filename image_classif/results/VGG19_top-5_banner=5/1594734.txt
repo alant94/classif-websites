@@ -1,0 +1,1 @@
+[u'fountain', 0.11951413, u'forklift', 0.075462386, u'crane', 0.053913049, u'planetarium', 0.045531675, u'turnstile', 0.031043183]

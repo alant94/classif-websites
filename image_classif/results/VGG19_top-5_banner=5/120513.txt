@@ -1,0 +1,2 @@
+[u'book_jacket', 0.074805684, u'paintbrush', 0.040035043, u'wall_clock', 0.039798111, u'swab', 0.038465671, u'hook', 0.027119296]
+[u'crossword_puzzle', 0.78181148, u'shower_curtain', 0.12865618, u'handkerchief', 0.0079042763, u'scoreboard', 0.0071772709, u'book_jacket', 0.0051659676]

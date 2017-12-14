@@ -1,0 +1,6 @@
+[u'racer', 0.30305448, u'bobsled', 0.26880369, u'snowmobile', 0.21065892, u'go-kart', 0.050526615, u'sports_car', 0.032492805]
+[u'racer', 0.26354399, u'cab', 0.18181404, u'minibus', 0.12275808, u'tow_truck', 0.072560839, u'pickup', 0.06167898]
+[u'racer', 0.56865996, u'sports_car', 0.16491443, u'minibus', 0.047483895, u'passenger_car', 0.026036181, u'cab', 0.025013762]
+[u'racer', 0.92067349, u'sports_car', 0.057889242, u'tow_truck', 0.004984987, u'speedboat', 0.0026303355, u'trailer_truck', 0.0023265197]
+[u'Band_Aid', 0.29785457, u'puck', 0.092072465, u'oil_filter', 0.038532179, u'packet', 0.034399688, u'bottlecap', 0.029431932]
+[u'sports_car', 0.33747241, u'car_mirror', 0.1011951, u'cab', 0.08403638, u'racer', 0.0811169, u'tow_truck', 0.0753313]

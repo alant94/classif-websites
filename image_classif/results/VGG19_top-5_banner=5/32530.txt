@@ -1,0 +1,1 @@
+[u'laptop', 0.22550739, u'notebook', 0.074999392, u'library', 0.025024531, u'studio_couch', 0.02378311, u'grand_piano', 0.021893675]

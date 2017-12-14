@@ -1,0 +1,2 @@
+[u'black_grouse', 0.35115245, u'book_jacket', 0.17373513, u'electric_ray', 0.046301693, u'trilobite', 0.04409425, u'magpie', 0.03976899]
+[u'alp', 0.80910689, u'ski', 0.028833652, u'fountain', 0.028329998, u'picket_fence', 0.023552652, u'valley', 0.023400899]

@@ -1,0 +1,6 @@
+[u'web_site', 0.15795751, u'envelope', 0.075818479, u'book_jacket', 0.071362212, u'jersey', 0.05908912, u'comic_book', 0.053972028]
+[u'digital_clock', 0.75343341, u'street_sign', 0.084801205, u'traffic_light', 0.02397084, u'analog_clock', 0.020426439, u'wall_clock', 0.016209152]
+[u'stupa', 0.86771095, u'bell_cote', 0.042436857, u'crane', 0.016987009, u'envelope', 0.012211003, u'space_shuttle', 0.0061409567]
+[u'crate', 0.35473046, u'slide_rule', 0.15835339, u'rule', 0.096282609, u'barrel', 0.095415883, u'brass', 0.036382742]
+[u'lighter', 0.11463433, u'binder', 0.085294999, u'laptop', 0.052968349, u'mailbox', 0.047366008, u'tray', 0.039637405]
+[u'digital_clock', 0.13589101, u'cash_machine', 0.11288366, u'cinema', 0.077003539, u'traffic_light', 0.046930462, u'street_sign', 0.042264856]

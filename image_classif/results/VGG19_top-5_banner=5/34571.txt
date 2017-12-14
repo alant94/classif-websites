@@ -1,0 +1,2 @@
+[u'rule', 0.72317618, u'web_site', 0.1653288, u'matchstick', 0.016746448, u'ski', 0.015967295, u'book_jacket', 0.013722398]
+[u'thatch', 0.14737342, u'lakeside', 0.047005013, u'barn', 0.04538371, u'web_site', 0.039362874, u'maze', 0.038024057]

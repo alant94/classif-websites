@@ -1,0 +1,5 @@
+[u'hog', 0.59919256, u'balloon', 0.056107003, u'yurt', 0.050263159, u'airship', 0.044687841, u'ice_bear', 0.023359165]
+[u'hog', 0.92501664, u'sorrel', 0.04570641, u'ox', 0.021022914, u'vizsla', 0.0037831517, u'Rhodesian_ridgeback', 0.00091651344]
+[u'hermit_crab', 0.90183318, u'bonnet', 0.025354046, u'bucket', 0.0084058885, u'isopod', 0.0080542527, u'ice_cream', 0.0041461564]
+[u'wombat', 0.33027548, u'hog', 0.20791253, u'ram', 0.043934755, u'badger', 0.032740459, u'clumber', 0.027116416]
+[u'switch', 0.13567777, u'web_site', 0.056658026, u'joystick', 0.055132799, u'remote_control', 0.046195902, u'dumbbell', 0.032735892]

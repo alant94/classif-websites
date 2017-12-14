@@ -1,0 +1,2 @@
+[u'can_opener', 0.10897988, u'nipple', 0.10802563, u'Band_Aid', 0.08543314, u'paper_towel', 0.053035136, u'pill_bottle', 0.045883663]
+[u'digital_clock', 0.58761001, u'scale', 0.14447652, u'analog_clock', 0.071240596, u'radio', 0.05634531, u'barometer', 0.047837477]

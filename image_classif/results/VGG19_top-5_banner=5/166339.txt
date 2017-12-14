@@ -1,0 +1,1 @@
+[u'web_site', 0.374026, u'menu', 0.31005391, u'scoreboard', 0.12035591, u'cinema', 0.031325981, u'abacus', 0.030186154]

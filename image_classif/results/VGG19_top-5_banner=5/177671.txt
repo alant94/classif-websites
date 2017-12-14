@@ -1,0 +1,7 @@
+[u'Band_Aid', 0.32590446, u'packet', 0.077461936, u'pill_bottle', 0.023627482, u'hair_spray', 0.022000827, u'comic_book', 0.018426286]
+[u'analog_clock', 0.21638434, u'wall_clock', 0.11555095, u'web_site', 0.047926839, u'nail', 0.033080686, u'matchstick', 0.025771409]
+[u'balance_beam', 0.2688019, u'maillot', 0.12551732, u'monitor', 0.11653167, u'racket', 0.11644568, u'apron', 0.067344308]
+[u'hook', 0.072041348, u'nail', 0.047255784, u'cleaver', 0.045369137, u'screwdriver', 0.036860991, u'ski', 0.034970883]
+[u'traffic_light', 0.27950013, u'motor_scooter', 0.11267599, u'window_shade', 0.094690964, u'monitor', 0.07553383, u'can_opener', 0.055138391]
+[u'envelope', 0.091228463, u'bib', 0.074667133, u'rubber_eraser', 0.031843048, u'web_site', 0.031364437, u'packet', 0.020748654]
+[u'street_sign', 0.19537099, u'web_site', 0.10372251, u'book_jacket', 0.094331637, u'hair_spray', 0.035639759, u'chainlink_fence', 0.022396585]

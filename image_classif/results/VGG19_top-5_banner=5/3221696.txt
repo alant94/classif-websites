@@ -1,0 +1,1 @@
+[u'switch', 0.11186277, u'binder', 0.087987341, u'cassette', 0.058237888, u'combination_lock', 0.054673135, u'lighter', 0.0395636]

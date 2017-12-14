@@ -1,0 +1,1 @@
+[u'cannon', 0.16306907, u'dumbbell', 0.065181173, u'scuba_diver', 0.057049841, u'bobsled', 0.041386161, u'muzzle', 0.031823196]

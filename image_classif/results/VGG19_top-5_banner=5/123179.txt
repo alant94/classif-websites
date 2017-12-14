@@ -1,0 +1,1 @@
+[u'nail', 0.16399921, u'screwdriver', 0.13849553, u'matchstick', 0.10025654, u'hook', 0.056293905, u'ballpoint', 0.040186554]

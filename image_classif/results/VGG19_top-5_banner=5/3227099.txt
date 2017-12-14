@@ -1,0 +1,6 @@
+[u'web_site', 0.21972424, u'balance_beam', 0.18497238, u'stage', 0.089078277, u'scoreboard', 0.067999788, u'parallel_bars', 0.021694008]
+[u'lab_coat', 0.063848913, u'spatula', 0.043898433, u'paintbrush', 0.040679175, u'toilet_tissue', 0.036385585, u'shoe_shop', 0.036123503]
+[u'web_site', 0.11288615, u'envelope', 0.10638855, u'nipple', 0.050253529, u'electric_fan', 0.03493683, u'oxygen_mask', 0.032318667]
+[u'confectionery', 0.098610267, u'packet', 0.064051986, u'plastic_bag', 0.040050495, u'Band_Aid', 0.035343666, u'carton', 0.030483007]
+[u'mailbox', 0.327362, u'apiary', 0.22014293, u'ashcan', 0.13794862, u'switch', 0.030008169, u'parking_meter', 0.028800549]
+[u'drumstick', 0.11950423, u'screwdriver', 0.095695235, u'rule', 0.081895187, u'syringe', 0.077799603, u'pick', 0.058087781]

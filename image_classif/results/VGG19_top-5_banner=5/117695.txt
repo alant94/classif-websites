@@ -1,0 +1,7 @@
+[u'digital_watch', 0.21455188, u'coil', 0.11641234, u'analog_clock', 0.077619769, u'bottlecap', 0.076173373, u'stopwatch', 0.037957869]
+[u"carpenter's_kit", 0.77615786, u'screwdriver', 0.059399489, u'cleaver', 0.043322947, u'spatula', 0.022049842, u'hammer', 0.022006022]
+[u'paintbrush', 0.27391085, u'ballpoint', 0.096587382, u'swab', 0.060647409, u'pencil_box', 0.053432874, u'rubber_eraser', 0.053314175]
+[u'screwdriver', 0.43928489, u"carpenter's_kit", 0.26265594, u'power_drill', 0.03197588, u'hammer', 0.025681838, u'whistle', 0.024793763]
+[u'vase', 0.25934091, u'acorn', 0.18704475, u'banana', 0.050231531, u'coral_reef', 0.046383128, u'bee', 0.02949582]
+[u'picket_fence', 0.2331892, u'ski', 0.17238179, u'chime', 0.081051715, u'candle', 0.049280282, u'paintbrush', 0.033620082]
+[u'screwdriver', 0.24104384, u"carpenter's_kit", 0.094052479, u'cleaver', 0.056473292, u'ballpoint', 0.054503892, u'spatula', 0.047411527]

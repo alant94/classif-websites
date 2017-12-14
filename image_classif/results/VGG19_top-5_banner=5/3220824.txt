@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.9785831, u'grocery_store', 0.006813867, u'shoe_shop', 0.0041307113, u'cleaver', 0.0018597775, u'toyshop', 0.0016775655]
+[u'monastery', 0.31460941, u'mosque', 0.27953455, u'church', 0.058105443, u'planetarium', 0.047504578, u'dome', 0.04521456]
+[u'kimono', 0.11502972, u'abaya', 0.092502698, u'beer_glass', 0.057583656, u'suit', 0.054257251, u'jean', 0.043607719]
+[u'street_sign', 0.77609789, u'cinema', 0.066647023, u'scoreboard', 0.062426165, u'barbershop', 0.039069131, u'moving_van', 0.013338724]
+[u'wall_clock', 0.32116821, u'jigsaw_puzzle', 0.061749622, u'shield', 0.052518923, u'envelope', 0.045298044, u'maze', 0.043744531]

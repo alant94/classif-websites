@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.16511892, u'envelope', 0.13763368, u'Windsor_tie', 0.090227388, u'web_site', 0.036780942, u'crossword_puzzle', 0.028525323]
+[u'palace', 0.23977497, u'church', 0.18608467, u'mosque', 0.18462282, u'monastery', 0.11673291, u'bell_cote', 0.084577851]

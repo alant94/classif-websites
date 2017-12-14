@@ -1,0 +1,7 @@
+[u'warplane', 0.46255755, u'aircraft_carrier', 0.28460297, u'projectile', 0.073410086, u'airliner', 0.060504697, u'wing', 0.0566823]
+[u'stretcher', 0.22439681, u'military_uniform', 0.067839622, u'tank', 0.048123989, u'snowmobile', 0.038423374, u'jinrikisha', 0.034356274]
+[u'wreck', 0.9216764, u'seashore', 0.017030815, u'cliff', 0.015349183, u'amphibian', 0.014399944, u'castle', 0.0059264367]
+[u'tank', 0.33321556, u'half_track', 0.19217733, u'amphibian', 0.089167625, u'tow_truck', 0.06084219, u'military_uniform', 0.056479391]
+[u'warplane', 0.6586836, u'wing', 0.094141074, u'airliner', 0.073768325, u'projectile', 0.02973965, u'space_shuttle', 0.025661249]
+[u'tank', 0.8753249, u'amphibian', 0.064681642, u'projectile', 0.029544411, u'missile', 0.017749475, u'cannon', 0.0054753814]
+[u'aircraft_carrier', 0.45050415, u'warplane', 0.37174767, u'projectile', 0.063211769, u'missile', 0.057805374, u'wing', 0.034636401]

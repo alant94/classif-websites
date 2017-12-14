@@ -1,0 +1,5 @@
+[u'book_jacket', 0.096109323, u'digital_watch', 0.080654666, u'digital_clock', 0.040045325, u'screen', 0.038115721, u'television', 0.021871742]
+[u'digital_watch', 0.10308154, u"carpenter's_kit", 0.068400897, u'book_jacket', 0.046760563, u'digital_clock', 0.043076616, u'web_site', 0.026286643]
+[u'coil', 0.21861121, u'ski', 0.1125984, u'safety_pin', 0.10626131, u'hook', 0.087897852, u'ballpoint', 0.037337568]
+[u'digital_watch', 0.11019941, u'digital_clock', 0.061089557, u"carpenter's_kit", 0.055969827, u'television', 0.03355651, u'screen', 0.028032431]
+[u'iPod', 0.22273812, u'radio', 0.12460836, u'hand-held_computer', 0.10638545, u'cellular_telephone', 0.094634719, u'screen', 0.051134583]

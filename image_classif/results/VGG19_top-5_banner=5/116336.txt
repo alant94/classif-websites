@@ -1,0 +1,5 @@
+[u'paper_towel', 0.20734373, u'toilet_tissue', 0.086770363, u'shower_curtain', 0.067629792, u'chime', 0.0611961, u'clog', 0.042587623]
+[u'hook', 0.38964084, u'coil', 0.19269076, u'nail', 0.070364907, u'shovel', 0.05073601, u"carpenter's_kit", 0.028196622]
+[u'prayer_rug', 0.4857429, u'handkerchief', 0.11684286, u'envelope', 0.078613393, u'tray', 0.055994652, u'Windsor_tie', 0.031408567]
+[u'packet', 0.23348011, u'book_jacket', 0.14895277, u'wallet', 0.12970598, u'doormat', 0.086244494, u'tray', 0.077515997]
+[u'pick', 0.15556918, u'envelope', 0.070136979, u'carton', 0.053198468, u'joystick', 0.048502214, u'book_jacket', 0.027820144]

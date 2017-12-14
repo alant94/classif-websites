@@ -1,0 +1,7 @@
+[u'web_site', 0.93371475, u'comic_book', 0.049676001, u'jigsaw_puzzle', 0.0025006582, u'envelope', 0.0021908006, u'analog_clock', 0.0015803267]
+[u'rubber_eraser', 0.12250922, u'letter_opener', 0.084331945, u'harmonica', 0.074898951, u'lighter', 0.071714528, u'digital_clock', 0.04167103]
+[u'Band_Aid', 0.10290202, u'web_site', 0.099887453, u'parachute', 0.061641637, u'whistle', 0.052652854, u'digital_clock', 0.029881651]
+[u'web_site', 0.25525707, u'menu', 0.03622384, u'envelope', 0.026172893, u'whistle', 0.020376852, u'bell_cote', 0.01277829]
+[u'dock', 0.30637273, u'nail', 0.10790765, u'pier', 0.071086839, u'gondola', 0.064136684, u'seashore', 0.025452562]
+[u'web_site', 0.20220153, u'volleyball', 0.093897626, u'rule', 0.092009977, u'tennis_ball', 0.071161464, u'envelope', 0.036235057]
+[u'whistle', 0.38975775, u'hook', 0.07492803, u'ice_lolly', 0.072478406, u'rubber_eraser', 0.053891029, u'shovel', 0.04827325]

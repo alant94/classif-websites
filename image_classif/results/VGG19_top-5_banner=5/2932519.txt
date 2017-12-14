@@ -1,0 +1,4 @@
+[u'envelope', 0.20556065, u'cleaver', 0.035541784, u'web_site', 0.020249022, u'binder', 0.015438722, u'hatchet', 0.011704467]
+[u'web_site', 0.71109557, u'menu', 0.043185256, u'monitor', 0.042404741, u'scoreboard', 0.039123107, u'crane', 0.016636757]
+[u'hair_slide', 0.15511605, u'web_site', 0.14094293, u'pick', 0.040248912, u'envelope', 0.038494501, u'maraca', 0.029379945]
+[u'crossword_puzzle', 0.35526371, u'digital_clock', 0.087617934, u'digital_watch', 0.039510425, u'envelope', 0.038865022, u'container_ship', 0.032788157]

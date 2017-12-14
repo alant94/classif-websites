@@ -1,0 +1,6 @@
+[u'wardrobe', 0.85228711, u'brassiere', 0.041601278, u'handkerchief', 0.031119045, u'cleaver', 0.017055506, u'stole', 0.0076237307]
+[u'sliding_door', 0.63391387, u'pole', 0.21135189, u'prison', 0.088469058, u'horizontal_bar', 0.041644689, u'parallel_bars', 0.014444257]
+[u'wardrobe', 0.8685686, u'sliding_door', 0.02162334, u'radiator', 0.017821733, u'ski', 0.012391131, u'picket_fence', 0.010170708]
+[u'wardrobe', 0.56244665, u'shower_curtain', 0.28197274, u'lab_coat', 0.010801575, u'gown', 0.0098401718, u'plate_rack', 0.0095226029]
+[u'brassiere', 0.22819647, u'swimming_trunks', 0.21774514, u'maillot', 0.099298738, u'bikini', 0.079140447, u'hand_blower', 0.048227508]
+[u'wardrobe', 0.9293673, u'cleaver', 0.012446892, u'ski', 0.0078389794, u'handkerchief', 0.0067274524, u'quill', 0.0062488317]

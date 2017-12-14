@@ -1,0 +1,1 @@
+[u'cup', 0.28044879, u'goblet', 0.18355395, u'coffee_mug', 0.15018946, u'beer_glass', 0.12706654, u'measuring_cup', 0.052885223]

@@ -1,0 +1,4 @@
+[u'book_jacket', 0.15483324, u'mailbox', 0.068776324, u'safe', 0.05554381, u'lighter', 0.054297853, u'padlock', 0.051482752]
+[u'fur_coat', 0.36592743, u'frilled_lizard', 0.14204489, u'bittern', 0.084654905, u'wild_boar', 0.065503016, u'great_grey_owl', 0.038375884]
+[u'oil_filter', 0.23100606, u'loupe', 0.091389634, u'whiskey_jug', 0.047303494, u'lighter', 0.045298241, u'book_jacket', 0.038807712]
+[u'geyser', 0.99864703, u'fountain', 0.00075093633, u'volcano', 0.000549544, u'valley', 1.3583585e-05, u'lakeside', 8.123825e-06]

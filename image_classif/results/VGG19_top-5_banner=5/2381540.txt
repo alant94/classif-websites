@@ -1,0 +1,4 @@
+[u'hook', 0.082555294, u'beaker', 0.07449431, u'street_sign', 0.064574733, u'digital_clock', 0.056455135, u'lighter', 0.055813696]
+[u'plastic_bag', 0.35235825, u'lemon', 0.35005355, u'dough', 0.042248867, u'quill', 0.035628553, u'head_cabbage', 0.019370871]
+[u'dumbbell', 0.72133756, u'shoe_shop', 0.1422936, u'shower_curtain', 0.015523654, u'vending_machine', 0.012765671, u'sunglasses', 0.010752747]
+[u'vacuum', 0.10959178, u'hand_blower', 0.1017303, u'water_jug', 0.095508471, u'soap_dispenser', 0.095181219, u'iron', 0.085698195]

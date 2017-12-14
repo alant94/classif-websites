@@ -1,0 +1,2 @@
+[u'mobile_home', 0.27837303, u'patio', 0.24040525, u'picket_fence', 0.15980147, u'boathouse', 0.10282745, u'greenhouse', 0.033715948]
+[u'digital_clock', 0.1950414, u'scoreboard', 0.087563843, u'street_sign', 0.036711521, u'book_jacket', 0.033096097, u'envelope', 0.032666918]

@@ -1,0 +1,2 @@
+[u'sleeping_bag', 0.28893164, u'web_site', 0.078493744, u'knee_pad', 0.043135758, u'Band_Aid', 0.042771611, u'rubber_eraser', 0.029511172]
+[u'cleaver', 0.11564114, u'wooden_spoon', 0.064202964, u'envelope', 0.046212625, u'Band_Aid', 0.034247313, u'spatula', 0.02841972]

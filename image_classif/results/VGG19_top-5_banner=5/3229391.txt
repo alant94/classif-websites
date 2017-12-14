@@ -1,0 +1,5 @@
+[u'hook', 0.12712428, u'broom', 0.12203366, u'nail', 0.061028849, u'swab', 0.045686901, u'shovel', 0.038598411]
+[u'matchstick', 0.22546393, u'nail', 0.080185287, u'picket_fence', 0.074266419, u'chime', 0.040159304, u'rubber_eraser', 0.040054139]
+[u'barbershop', 0.24234796, u'barrel', 0.22300541, u'crate', 0.18716468, u'barn', 0.14432997, u'ashcan', 0.033020526]
+[u'book_jacket', 0.47762924, u'comic_book', 0.074763313, u'racket', 0.059963599, u'stage', 0.049707185, u'bow', 0.036850717]
+[u'flagpole', 0.31839791, u'street_sign', 0.089792371, u'book_jacket', 0.058725532, u'sundial', 0.038490709, u'shield', 0.03348]

@@ -1,0 +1,3 @@
+[u'Egyptian_cat', 0.62698662, u'tiger_cat', 0.13580774, u'Chihuahua', 0.067692406, u'tabby', 0.039275371, u'sleeping_bag', 0.039269231]
+[u'mousetrap', 0.35991138, u'tabby', 0.081033289, u'Egyptian_cat', 0.062651575, u'tiger_cat', 0.047154553, u'pencil_sharpener', 0.037481885]
+[u'toyshop', 0.11856296, u'abacus', 0.087693684, u'web_site', 0.080411941, u'comic_book', 0.048330292, u'sewing_machine', 0.045649495]

@@ -1,0 +1,3 @@
+[u'spider_web', 0.065183096, u'analog_clock', 0.059243798, u'matchstick', 0.039999597, u'barn_spider', 0.035975438, u'hook', 0.035516001]
+[u'matchstick', 0.24530584, u'jersey', 0.10244898, u'book_jacket', 0.073056318, u'torch', 0.049083911, u'comic_book', 0.039795142]
+[u'hook', 0.033688735, u'spider_web', 0.03014872, u'lampshade', 0.026796587, u'spotlight', 0.02540803, u'barn_spider', 0.021131348]

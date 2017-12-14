@@ -1,0 +1,4 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'envelope', 0.12417562, u'wardrobe', 0.021944851, u'web_site', 0.019163724, u'wall_clock', 0.017297132, u'lighter', 0.016114851]
+[u'envelope', 0.086306714, u'web_site', 0.01818846, u'wardrobe', 0.016202526, u'wall_clock', 0.013649722, u'lighter', 0.013523156]
+[u'tusker', 0.34754175, u'Indian_elephant', 0.083360232, u'barrow', 0.053894244, u'swing', 0.037565287, u'macaw', 0.030096482]

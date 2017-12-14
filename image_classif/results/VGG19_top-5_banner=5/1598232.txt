@@ -1,0 +1,1 @@
+[u'bath_towel', 0.50249135, u'sweatshirt', 0.21482487, u'bonnet', 0.10968195, u'cloak', 0.039531734, u'wool', 0.021495091]

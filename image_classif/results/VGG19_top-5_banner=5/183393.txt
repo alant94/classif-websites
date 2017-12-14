@@ -1,0 +1,5 @@
+[u'jigsaw_puzzle', 0.27985445, u'packet', 0.11158977, u'plastic_bag', 0.070728324, u'conch', 0.044588938, u'teddy', 0.042749286]
+[u'book_jacket', 0.27656731, u'web_site', 0.17420281, u'analog_clock', 0.03151023, u'comic_book', 0.030310806, u'digital_clock', 0.021493653]
+[u'web_site', 0.58280855, u'book_jacket', 0.20177391, u'castle', 0.057783898, u'lakeside', 0.014912847, u'monitor', 0.0093007833]
+[u'book_jacket', 0.63438696, u'comic_book', 0.058679007, u'web_site', 0.056920826, u'packet', 0.055539005, u'binder', 0.05553538]
+[u'web_site', 0.46510121, u'comic_book', 0.11448146, u'jigsaw_puzzle', 0.10448457, u'book_jacket', 0.086779512, u'menu', 0.044712588]

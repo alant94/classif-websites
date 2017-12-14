@@ -1,0 +1,6 @@
+[u'chimpanzee', 0.062494196, u'barbershop', 0.060952276, u'hatchet', 0.040326282, u'drumstick', 0.031750701, u'hair_spray', 0.029537402]
+[u'desktop_computer', 0.17188244, u'laptop', 0.16780666, u'notebook', 0.15742734, u'monitor', 0.10911404, u'screen', 0.049427181]
+[u'Loafer', 0.1713976, u'jean', 0.11526822, u'suit', 0.048993289, u'swing', 0.032500524, u'horizontal_bar', 0.021948967]
+[u'common_iguana', 0.10039178, u'African_chameleon', 0.073085867, u'triceratops', 0.056596216, u'American_chameleon', 0.026463689, u'pot', 0.022703975]
+[u'web_site', 0.65833163, u'envelope', 0.054874625, u'analog_clock', 0.024443487, u'magnetic_compass', 0.013631182, u'wall_clock', 0.010273799]
+[u'barber_chair', 0.38137233, u'barbershop', 0.13704941, u'restaurant', 0.1320233, u'fur_coat', 0.10293493, u'cloak', 0.062598288]

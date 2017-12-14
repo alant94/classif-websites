@@ -1,0 +1,8 @@
+[u'power_drill', 0.34717691, u'revolver', 0.17821133, u'assault_rifle', 0.045480393, u'bulletproof_vest', 0.042655662, u'rifle', 0.041973006]
+[u'pajama', 0.19735023, u'quilt', 0.1364511, u'fur_coat', 0.11739128, u'miniskirt', 0.10384127, u'hoopskirt', 0.087944649]
+[u'diaper', 0.25273025, u'remote_control', 0.087094612, u'cradle', 0.048375517, u'neck_brace', 0.04836094, u'hand_blower', 0.038881052]
+[u'balance_beam', 0.15748291, u'dumbbell', 0.10977892, u'miniskirt', 0.0983022, u'swimming_trunks', 0.089942239, u'maillot', 0.063004188]
+[u'power_drill', 0.15794219, u'microphone', 0.097105026, u'sunglasses', 0.092255495, u'hand_blower', 0.089482091, u'sunglass', 0.063948929]
+[u'bathing_cap', 0.42403027, u'maillot', 0.14731328, u'swimming_trunks', 0.12923563, u'bikini', 0.12892441, u'maillot', 0.04527555]
+[u'tub', 0.35574487, u'dugong', 0.11099686, u'bathtub', 0.10581328, u'loggerhead', 0.051100664, u"potter's_wheel", 0.050882559]
+[u'hog', 0.1362038, u'dugong', 0.11824679, u'tub', 0.073153414, u'bikini', 0.065380283, u'swimming_trunks', 0.053751897]

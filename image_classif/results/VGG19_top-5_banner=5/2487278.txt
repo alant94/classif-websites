@@ -1,0 +1,6 @@
+[u'timber_wolf', 0.67791021, u'coyote', 0.13906199, u'white_wolf', 0.059799209, u'Arctic_fox', 0.027338183, u'red_wolf', 0.018379243]
+[u'web_site', 0.094035923, u'packet', 0.078143716, u'book_jacket', 0.044989575, u'sewing_machine', 0.038957428, u'hyena', 0.021064183]
+[u'matchstick', 0.11175971, u'plate_rack', 0.069943778, u'wall_clock', 0.056216091, u'screwdriver', 0.051901124, u'switch', 0.044952206]
+[u'impala', 0.10030376, u'hen-of-the-woods', 0.06696599, u'wallaby', 0.054244805, u'cougar', 0.04752253, u'malamute', 0.04036694]
+[u'crate', 0.72596645, u'brass', 0.10845682, u'doormat', 0.025326312, u'menu', 0.01178882, u'carton', 0.0093547935]
+[u'slide_rule', 0.069304481, u'crate', 0.054174811, u'rule', 0.053893525, u'rubber_eraser', 0.052230142, u'matchstick', 0.042621173]

@@ -1,0 +1,7 @@
+[u'book_jacket', 0.25136891, u'web_site', 0.12036538, u'balance_beam', 0.034248266, u'microphone', 0.033190776, u'television', 0.030641479]
+[u'church', 0.27449465, u'vault', 0.20235507, u'altar', 0.098640308, u'bell_cote', 0.072264038, u'restaurant', 0.054447293]
+[u'candle', 0.23966964, u'picket_fence', 0.19797473, u'matchstick', 0.1889189, u'fountain', 0.086618431, u'coral_fungus', 0.072939754]
+[u'web_site', 0.41188851, u'envelope', 0.059413336, u'crossword_puzzle', 0.04753257, u'book_jacket', 0.040718731, u'jigsaw_puzzle', 0.036291637]
+[u'bannister', 0.33138034, u'prison', 0.054444592, u'sliding_door', 0.051998511, u'swab', 0.047701888, u'guillotine', 0.035549343]
+[u'picket_fence', 0.41419405, u'chime', 0.13780062, u'pinwheel', 0.057655029, u'chainlink_fence', 0.04609729, u'greenhouse', 0.03417645]
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]

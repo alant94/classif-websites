@@ -1,0 +1,3 @@
+[u'cassette', 0.09795367, u'loupe', 0.097187214, u'stopwatch', 0.092378058, u'combination_lock', 0.066115327, u'street_sign', 0.055998337]
+[u'hook', 0.093063101, u'necklace', 0.075480275, u'chain', 0.065980926, u'chime', 0.046178225, u'wall_clock', 0.040646158]
+[u'hook', 0.16464055, u"carpenter's_kit", 0.14288062, u'cleaver', 0.050214712, u'chime', 0.038118761, u'coil', 0.035981093]

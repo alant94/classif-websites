@@ -1,0 +1,6 @@
+[u'container_ship', 0.11031383, u'envelope', 0.0733964, u'digital_clock', 0.050484791, u'traffic_light', 0.033151057, u'airship', 0.030455139]
+[u'envelope', 0.031552196, u'kite', 0.016308263, u'parachute', 0.010500741, u'bald_eagle', 0.010435213, u'nail', 0.010246151]
+[u'kite', 0.043829106, u'envelope', 0.036690835, u'flagpole', 0.035534669, u'parachute', 0.035437308, u'bald_eagle', 0.022665571]
+[u'kite', 0.034813501, u'bald_eagle', 0.022346254, u'black_stork', 0.018765884, u'parachute', 0.016516635, u'airship', 0.012999411]
+[u'picket_fence', 0.76941627, u'matchstick', 0.024765795, u'book_jacket', 0.020913865, u'worm_fence', 0.015898719, u'church', 0.013871765]
+[u'envelope', 0.045845389, u'matchstick', 0.016841374, u'kite', 0.013976851, u'web_site', 0.013329719, u'bee_eater', 0.012282533]

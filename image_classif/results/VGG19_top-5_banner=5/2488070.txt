@@ -1,0 +1,5 @@
+[u'perfume', 0.078533322, u'toilet_tissue', 0.070575856, u'cash_machine', 0.064966984, u'paper_towel', 0.055021435, u'whistle', 0.054866049]
+[u'jersey', 0.10637949, u'laptop', 0.04934511, u'stopwatch', 0.033959188, u'electric_guitar', 0.033479586, u'web_site', 0.031019714]
+[u'packet', 0.39383942, u'matchstick', 0.12426364, u'jersey', 0.10012364, u'envelope', 0.066886671, u'plastic_bag', 0.035527192]
+[u'jersey', 0.092695594, u'web_site', 0.051963586, u'stopwatch', 0.034481786, u'matchstick', 0.031002032, u'electric_guitar', 0.028195921]
+[u'matchstick', 0.4666006, u'jersey', 0.12082511, u'flagpole', 0.057090968, u'packet', 0.036814049, u'lighter', 0.03423262]

@@ -1,0 +1,2 @@
+[u'matchstick', 0.31023359, u'volcano', 0.11575305, u'torch', 0.072715476, u'space_shuttle', 0.064158417, u'candle', 0.051705942]
+[u'oscilloscope', 0.99937552, u'screen', 0.00031396834, u'digital_clock', 0.00020057902, u'stove', 2.9014334e-05, u'monitor', 2.0283995e-05]

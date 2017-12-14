@@ -1,0 +1,5 @@
+[u'ashcan', 0.52862245, u'rain_barrel', 0.043112826, u'barrel', 0.032193266, u'gas_pump', 0.026582554, u'minibus', 0.02551504]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'vacuum', 0.26952121, u'pencil_sharpener', 0.16847624, u'hand_blower', 0.096331052, u'pay-phone', 0.084113725, u'projector', 0.078817338]
+[u'stove', 0.37243202, u'washer', 0.22574478, u'printer', 0.12619047, u"potter's_wheel", 0.054587588, u'photocopier', 0.049915131]
+[u'pencil_sharpener', 0.49566343, u'oil_filter', 0.046779204, u'hand_blower', 0.03826426, u'electric_fan', 0.035096519, u'coffee_mug', 0.032979138]

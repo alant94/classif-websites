@@ -1,0 +1,2 @@
+[u'menu', 0.4281466, u'web_site', 0.17156261, u'comic_book', 0.034610227, u'book_jacket', 0.018737378, u'screen', 0.018444015]
+[u'church', 0.080774635, u'thatch', 0.072716348, u'bell_cote', 0.068554603, u'patio', 0.043805707, u'monastery', 0.040040761]

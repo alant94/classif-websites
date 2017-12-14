@@ -1,0 +1,3 @@
+[u'cinema', 0.91669351, u'barbershop', 0.013442973, u'restaurant', 0.0098880604, u'street_sign', 0.0078781843, u'bakery', 0.0076349168]
+[u'web_site', 0.99958938, u'screen', 0.00011297724, u'analog_clock', 6.1042396e-05, u'oscilloscope', 5.1733088e-05, u'monitor', 3.9318264e-05]
+[u'sax', 0.94354939, u'cornet', 0.026162205, u'trombone', 0.018794073, u'oboe', 0.0081975656, u'bassoon', 0.0019769249]

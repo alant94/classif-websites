@@ -1,0 +1,2 @@
+[u'ballpoint', 0.8043853, u'letter_opener', 0.04144245, u'quill', 0.033249427, u'hair_slide', 0.027926903, u"carpenter's_kit", 0.02667392]
+[u'bearskin', 0.14349104, u'book_jacket', 0.10090254, u'comic_book', 0.079974324, u'fur_coat', 0.078481868, u'feather_boa', 0.044813719]

@@ -1,0 +1,6 @@
+[u'picket_fence', 0.27794752, u'worm_fence', 0.16293724, u'lakeside', 0.092880465, u'pole', 0.042321894, u'suspension_bridge', 0.025630413]
+[u'wooden_spoon', 0.12281758, u'barrel', 0.11163498, u'plate_rack', 0.073590718, u'gong', 0.065504335, u'caldron', 0.061554354]
+[u'nail', 0.18059397, u'bee_eater', 0.034186851, u'safety_pin', 0.021974081, u'centipede', 0.021948393, u'bald_eagle', 0.021879125]
+[u'alp', 0.38075426, u'volcano', 0.22179906, u'geyser', 0.11933913, u'valley', 0.081648007, u'lakeside', 0.06068803]
+[u'holster', 0.2085817, u'hook', 0.055463489, u'hammer', 0.046256326, u'mailbag', 0.043548029, u'pencil_sharpener', 0.041665785]
+[u'volcano', 0.47244838, u'geyser', 0.13043505, u'alp', 0.10039648, u'lakeside', 0.065654255, u'cliff', 0.042795975]

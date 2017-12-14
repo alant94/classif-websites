@@ -1,0 +1,2 @@
+[u'rule', 0.19174638, u'nail', 0.15862834, u'Band_Aid', 0.11287528, u'screwdriver', 0.059173137, u'spatula', 0.03237259]
+[u'web_site', 0.46001422, u'valley', 0.080251239, u'ibex', 0.079597533, u'alp', 0.067284822, u'book_jacket', 0.015111094]

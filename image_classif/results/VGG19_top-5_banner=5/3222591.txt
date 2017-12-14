@@ -1,0 +1,3 @@
+[u'monarch', 0.76054204, u'ear', 0.14052026, u'coucal', 0.030432416, u'admiral', 0.0083225453, u'sulphur_butterfly', 0.0082551958]
+[u'chime', 0.17301869, u'nail', 0.10949326, u'ballpoint', 0.092969686, u'picket_fence', 0.055764258, u'rule', 0.052561123]
+[u'sleeping_bag', 0.28665486, u'ocarina', 0.070401244, u'stretcher', 0.046023455, u'terrapin', 0.036570441, u'leatherback_turtle', 0.028386747]

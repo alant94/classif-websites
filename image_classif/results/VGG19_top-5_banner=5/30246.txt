@@ -1,0 +1,6 @@
+[u'suit', 0.79098278, u'Windsor_tie', 0.19627813, u'bow_tie', 0.0066142422, u'groom', 0.0035261998, u'bolo_tie', 0.00099897082]
+[u'dough', 0.18053947, u'burrito', 0.075063467, u'conch', 0.070544221, u'Band_Aid', 0.038228918, u"potter's_wheel", 0.029751537]
+[u'coffee_mug', 0.050868489, u'packet', 0.020229381, u'nail', 0.01512355, u'thimble', 0.014374896, u'hair_spray', 0.013642215]
+[u'kimono', 0.12134789, u'sarong', 0.10855714, u'maillot', 0.083693556, u'cardigan', 0.045472793, u'stole', 0.043895554]
+[u'cabbage_butterfly', 0.1659779, u'cardoon', 0.16512927, u'daisy', 0.095934115, u'pinwheel', 0.086837947, u'sulphur_butterfly', 0.057093441]
+[u'suit', 0.93793631, u'Windsor_tie', 0.021819655, u'trench_coat', 0.012474982, u'military_uniform', 0.0049322601, u'oboe', 0.0031353293]

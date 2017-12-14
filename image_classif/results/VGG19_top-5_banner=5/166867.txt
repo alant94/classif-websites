@@ -1,0 +1,2 @@
+[u'sunscreen', 0.18581013, u'oil_filter', 0.086730316, u'screen', 0.052525312, u'Band_Aid', 0.045544568, u'pill_bottle', 0.045324475]
+[u'bottlecap', 0.99997222, u'buckeye', 1.3715297e-05, u'stopwatch', 3.6676311e-06, u'digital_watch', 2.133597e-06, u'bolo_tie', 1.3460843e-06]

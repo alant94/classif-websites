@@ -1,0 +1,4 @@
+[u'lab_coat', 0.98463863, u'stethoscope', 0.0062678829, u'Windsor_tie', 0.0013112504, u'suit', 0.00048641907, u'trench_coat', 0.00047163301]
+[u'analog_clock', 0.095600627, u'book_jacket', 0.084008008, u'iPod', 0.077301301, u'envelope', 0.072228134, u'perfume', 0.067607477]
+[u'jersey', 0.11691539, u'croquet_ball', 0.046449926, u'ice_lolly', 0.042138837, u'sweatshirt', 0.031891719, u'oboe', 0.028058849]
+[u'conch', 0.071029566, u'candle', 0.065425053, u'sunscreen', 0.047520019, u'groom', 0.038047876, u'lotion', 0.034297016]

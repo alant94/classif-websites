@@ -1,0 +1,2 @@
+[u'wing', 0.024765743, u'space_shuttle', 0.02350946, u'kite', 0.022851871, u'parachute', 0.021721978, u'airship', 0.017576512]
+[u'cardigan', 0.88664401, u'jersey', 0.02501828, u'poncho', 0.023996463, u'chain_mail', 0.0098941009, u'sweatshirt', 0.0072339512]

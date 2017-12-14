@@ -1,0 +1,2 @@
+[u'vending_machine', 0.25077179, u'cellular_telephone', 0.21006247, u'loudspeaker', 0.052801665, u'tape_player', 0.052091189, u'cassette_player', 0.05058828]
+[u'vending_machine', 0.92398828, u'streetcar', 0.031072536, u'gas_pump', 0.0090803197, u'switch', 0.0063348962, u'pop_bottle', 0.0060873027]

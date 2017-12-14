@@ -1,0 +1,4 @@
+[u'sarong', 0.65208286, u'poncho', 0.11476527, u'umbrella', 0.040963102, u'mask', 0.010692392, u'chainlink_fence', 0.0098236138]
+[u'crane', 0.08967977, u'hook', 0.070757605, u'paddlewheel', 0.063036852, u'sax', 0.062906742, u'carousel', 0.047445029]
+[u'rock_beauty', 0.67438829, u'sunglasses', 0.072867982, u'whistle', 0.049214974, u'anemone_fish', 0.016576862, u'backpack', 0.015264471]
+[u'theater_curtain', 0.072330154, u'jersey', 0.068163633, u'stage', 0.064040922, u'perfume', 0.061205585, u'shower_curtain', 0.055614516]

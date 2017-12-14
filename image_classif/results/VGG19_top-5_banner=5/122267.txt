@@ -1,0 +1,5 @@
+[u'scoreboard', 0.92399591, u'remote_control', 0.014532198, u'screen', 0.0093454802, u'television', 0.0084425192, u'web_site', 0.0075064683]
+[u'digital_watch', 0.42505601, u'digital_clock', 0.054502256, u'rubber_eraser', 0.043756574, u'screen', 0.028562477, u'toaster', 0.02620038]
+[u'digital_clock', 0.10017595, u'binder', 0.088838659, u'Windsor_tie', 0.06749256, u'wool', 0.035235312, u'envelope', 0.025758419]
+[u'web_site', 0.21317859, u'envelope', 0.15504953, u'velvet', 0.025338637, u'bulletproof_vest', 0.01014164, u'wall_clock', 0.0085214442]
+[u'picket_fence', 0.23439877, u'rocking_chair', 0.079680376, u'crib', 0.0390708, u'crossword_puzzle', 0.036361337, u'digital_clock', 0.02621934]

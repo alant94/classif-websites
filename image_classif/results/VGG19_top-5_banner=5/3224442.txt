@@ -1,0 +1,1 @@
+[u'jersey', 0.088349581, u'drumstick', 0.068146043, u'plunger', 0.065718606, u'bassoon', 0.03404272, u'banjo', 0.031686272]

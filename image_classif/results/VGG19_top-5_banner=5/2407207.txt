@@ -1,0 +1,8 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'binder', 0.50826538, u'carton', 0.065509468, u'cassette', 0.054677039, u'web_site', 0.02802635, u'wallet', 0.027173838]
+[u'menu', 0.75313622, u'web_site', 0.11027378, u'packet', 0.033541821, u'Band_Aid', 0.018114414, u'electric_ray', 0.01484266]
+[u'Band_Aid', 0.34589243, u'packet', 0.25003716, u'binder', 0.1231174, u'carton', 0.10361584, u'book_jacket', 0.069646895]
+[u'medicine_chest', 0.31573972, u'lotion', 0.13463174, u'pill_bottle', 0.092527948, u'sunscreen', 0.086885668, u'perfume', 0.072089225]
+[u'menu', 0.723378, u'packet', 0.052889533, u'bakery', 0.043693848, u'buckeye', 0.023800563, u'face_powder', 0.013865021]
+[u'envelope', 0.25160912, u'book_jacket', 0.076887272, u'scoreboard', 0.062927634, u'shoji', 0.049302056, u'matchstick', 0.043311048]
+[u'cassette', 0.25118941, u'binder', 0.14778385, u'moving_van', 0.057815257, u'oscilloscope', 0.035343643, u'carton', 0.034969676]

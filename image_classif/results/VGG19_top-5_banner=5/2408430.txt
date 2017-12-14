@@ -1,0 +1,7 @@
+[u'web_site', 0.86572611, u'menu', 0.065453365, u'packet', 0.040858004, u'envelope', 0.0072162971, u'book_jacket', 0.001323786]
+[u'web_site', 0.47231659, u'monitor', 0.059682697, u'desk', 0.041353635, u'envelope', 0.025929494, u'cash_machine', 0.022777451]
+[u'cash_machine', 0.36501604, u'web_site', 0.0642948, u'printer', 0.047392007, u'toilet_seat', 0.038353186, u'mailbox', 0.029071629]
+[u'web_site', 0.47340074, u'monitor', 0.067636527, u'cash_machine', 0.049677875, u'screen', 0.030639673, u'desk', 0.018229837]
+[u'washer', 0.86160183, u'wall_clock', 0.019246811, u'analog_clock', 0.015617715, u'car_wheel', 0.0073924065, u'web_site', 0.0057061748]
+[u'web_site', 0.19182983, u'sewing_machine', 0.096516944, u'envelope', 0.055859935, u'hand_blower', 0.048831634, u'cash_machine', 0.04781862]
+[u'web_site', 0.29435465, u'barbershop', 0.13065808, u'cash_machine', 0.089090697, u'bookshop', 0.045686055, u'sliding_door', 0.045167811]

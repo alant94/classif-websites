@@ -1,0 +1,1 @@
+[u'wig', 0.31839272, u'bathing_cap', 0.11461296, u'academic_gown', 0.10408317, u'mortarboard', 0.076875843, u'cowboy_hat', 0.037690025]

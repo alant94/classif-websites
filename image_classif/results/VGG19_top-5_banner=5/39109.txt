@@ -1,0 +1,2 @@
+[u'mountain_bike', 0.078103878, u'totem_pole', 0.062816732, u'beer_bottle', 0.059257753, u'book_jacket', 0.053289983, u'street_sign', 0.035025835]
+[u'pick', 0.39544052, u'chambered_nautilus', 0.29480091, u'Band_Aid', 0.044307958, u'oil_filter', 0.016794967, u'maze', 0.012330499]

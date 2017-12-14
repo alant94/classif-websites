@@ -1,0 +1,6 @@
+[u'screwdriver', 0.16124316, u'ballpoint', 0.11263674, u'paintbrush', 0.077598736, u'chime', 0.063358441, u'rubber_eraser', 0.05062658]
+[u'ballpoint', 0.77817482, u'rubber_eraser', 0.074969307, u'paintbrush', 0.020567583, u'pencil_box', 0.0141115, u'drumstick', 0.01105925]
+[u'sunscreen', 0.16308695, u'pill_bottle', 0.055402592, u'hand_blower', 0.041408408, u'lotion', 0.03543707, u'web_site', 0.033107162]
+[u'ballpoint', 0.45055211, u'rubber_eraser', 0.068633899, u'shower_curtain', 0.062594347, u'paintbrush', 0.034459904, u'matchstick', 0.032756206]
+[u'ballpoint', 0.72845536, u'rubber_eraser', 0.070358001, u'paintbrush', 0.015819941, u'drumstick', 0.012138757, u'syringe', 0.011664981]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

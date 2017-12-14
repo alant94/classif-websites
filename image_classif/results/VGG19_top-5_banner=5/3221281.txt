@@ -1,0 +1,3 @@
+[u'sunscreen', 0.097638905, u'jersey', 0.071133472, u'packet', 0.055079874, u'hair_spray', 0.039224353, u'paper_towel', 0.037970297]
+[u'book_jacket', 0.48699531, u'comic_book', 0.15790413, u'web_site', 0.0961916, u'binder', 0.017726872, u'envelope', 0.015980711]
+[u'paintbrush', 0.26265994, u'fountain_pen', 0.19265586, u'wine_bottle', 0.072214089, u'screwdriver', 0.032796267, u'torch', 0.029566988]

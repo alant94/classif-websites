@@ -1,0 +1,7 @@
+[u'hook', 0.11237059, u'abaya', 0.085340165, u'chain', 0.073980711, u'analog_clock', 0.072733581, u'bolo_tie', 0.059252165]
+[u'iPod', 0.18752386, u'remote_control', 0.12953795, u'packet', 0.060705397, u'scale', 0.055854663, u'stopwatch', 0.051466037]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cheeseburger', 0.59652895, u'burrito', 0.17856421, u'hotdog', 0.091377176, u'guacamole', 0.029224876, u'bagel', 0.011903252]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,8 @@
+[u'chime', 0.84827077, u'matchstick', 0.018380631, u'panpipe', 0.015045469, u'whistle', 0.014033484, u'lighter', 0.0055617876]
+[u'chime', 0.94434988, u'drumstick', 0.012537189, u'ballpoint', 0.0052979388, u'rubber_eraser', 0.004834651, u'matchstick', 0.0044745672]
+[u'street_sign', 0.12211035, u'sweatshirt', 0.068289176, u'hook', 0.059796114, u'jersey', 0.039739497, u'lab_coat', 0.031694058]
+[u'table_lamp', 0.17278336, u'lampshade', 0.15099551, u'pole', 0.12793416, u'spotlight', 0.10847436, u'four-poster', 0.0845965]
+[u'chime', 0.86437714, u'drumstick', 0.044816423, u'organ', 0.022124993, u'matchstick', 0.014867934, u'ballpoint', 0.0087996144]
+[u'paintbrush', 0.28500551, u'wooden_spoon', 0.14160477, u'drumstick', 0.056484424, u'measuring_cup', 0.038146514, u'crossword_puzzle', 0.031425949]
+[u'Band_Aid', 0.06590426, u"carpenter's_kit", 0.059957888, u'safety_pin', 0.05552575, u'nipple', 0.049712878, u'digital_clock', 0.043414276]
+[u'envelope', 0.26591495, u'chain', 0.074367955, u'crane', 0.055472225, u'hook', 0.033341136, u'lighter', 0.024260044]

@@ -1,0 +1,4 @@
+[u'park_bench', 0.49613166, u'lakeside', 0.16742919, u'worm_fence', 0.024032738, u'picket_fence', 0.021716729, u'obelisk', 0.01774214]
+[u'sarong', 0.08475706, u'torch', 0.054574527, u'yurt', 0.047492422, u'pajama', 0.042915121, u'thatch', 0.035130087]
+[u'dining_table', 0.37002277, u'restaurant', 0.17656191, u'carousel', 0.050894149, u'jigsaw_puzzle', 0.043937936, u'toilet_seat', 0.040053286]
+[u'wine_bottle', 0.52904785, u'red_wine', 0.3603065, u'beer_bottle', 0.033252917, u'hamper', 0.020942673, u'pop_bottle', 0.0056468644]

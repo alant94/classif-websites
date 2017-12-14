@@ -1,0 +1,2 @@
+[u'web_site', 0.99953473, u'wig', 0.00010240921, u'comic_book', 8.3738429e-05, u'analog_clock', 3.1793221e-05, u'neck_brace', 2.9355424e-05]
+[u'scale', 0.079727747, u'restaurant', 0.062456857, u'gong', 0.058319442, u'bubble', 0.048384286, u'electric_fan', 0.037789576]

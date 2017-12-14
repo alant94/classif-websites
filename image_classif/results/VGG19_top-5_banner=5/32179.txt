@@ -1,0 +1,1 @@
+[u'candle', 0.32597828, u'bakery', 0.14443211, u'stupa', 0.098844007, u'confectionery', 0.070259348, u'lampshade', 0.062246803]

@@ -1,0 +1,1 @@
+[u'web_site', 0.9387669, u'hand-held_computer', 0.0087025585, u'menu', 0.0055398787, u'screen', 0.0047138887, u'television', 0.0042814049]

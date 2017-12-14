@@ -1,0 +1,7 @@
+[u'barbershop', 0.18218778, u'tobacco_shop', 0.14940052, u'book_jacket', 0.12541768, u'cinema', 0.099495441, u'cash_machine', 0.063363776]
+[u'book_jacket', 0.4529984, u'puck', 0.078012548, u'comic_book', 0.057544023, u'street_sign', 0.03970604, u'electric_guitar', 0.034976788]
+[u'analog_clock', 0.19302233, u'beacon', 0.11557298, u'church', 0.082893461, u'bell_cote', 0.066839024, u'digital_clock', 0.054609187]
+[u'killer_whale', 0.081884839, u'American_egret', 0.072198913, u'chambered_nautilus', 0.052207012, u'cowboy_hat', 0.043737162, u'electric_fan', 0.020741742]
+[u'tray', 0.17672931, u'digital_clock', 0.075761773, u'ashcan', 0.069401115, u'digital_watch', 0.041436817, u'scale', 0.03501936]
+[u'carton', 0.23068853, u'rubber_eraser', 0.14328763, u'binder', 0.10621092, u'packet', 0.1001697, u'envelope', 0.075489134]
+[u'hook', 0.24871071, u"carpenter's_kit", 0.20084698, u'combination_lock', 0.16092616, u'buckle', 0.078795984, u'ballpoint', 0.029599939]

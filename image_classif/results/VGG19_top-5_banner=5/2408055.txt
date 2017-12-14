@@ -1,0 +1,7 @@
+[u'book_jacket', 0.10424834, u'window_screen', 0.046915714, u'hoopskirt', 0.041780062, u'guenon', 0.032974955, u'papillon', 0.032490931]
+[u'rotisserie', 0.42429486, u'bakery', 0.17011406, u'toyshop', 0.076771386, u'confectionery', 0.076188698, u'vending_machine', 0.063434049]
+[u'web_site', 0.26213974, u'library', 0.2198769, u'bookshop', 0.082758434, u'crossword_puzzle', 0.069159165, u'bookcase', 0.053442217]
+[u'library', 0.22358888, u'web_site', 0.20527376, u'bookshop', 0.10565247, u'crossword_puzzle', 0.077604793, u'bookcase', 0.056728762]
+[u'book_jacket', 0.20821036, u'crate', 0.17372587, u'quill', 0.099361971, u'plane', 0.031991892, u"carpenter's_kit", 0.031061398]
+[u'library', 0.25266555, u'web_site', 0.17802028, u'bookshop', 0.096124947, u'bookcase', 0.076903582, u'crossword_puzzle', 0.069217712]
+[u'web_site', 0.28860036, u'library', 0.22685255, u'bookshop', 0.085890606, u'crossword_puzzle', 0.068675041, u'bookcase', 0.047302093]

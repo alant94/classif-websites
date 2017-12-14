@@ -1,0 +1,1 @@
+[u'picket_fence', 0.15135817, u'fountain', 0.13752985, u'shower_curtain', 0.11073779, u'vase', 0.029690444, u'jellyfish', 0.022106232]

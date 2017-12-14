@@ -1,0 +1,6 @@
+[u'castle', 0.18683387, u'palace', 0.173594, u'restaurant', 0.12591146, u'church', 0.085923135, u'monastery', 0.065948449]
+[u'barrel', 0.4907468, u'crate', 0.2290929, u'theater_curtain', 0.04134763, u'barbershop', 0.013033261, u'coffee_mug', 0.012581803]
+[u'pick', 0.13264592, u'hatchet', 0.045736007, u'shield', 0.043284807, u'Band_Aid', 0.034702178, u'neck_brace', 0.03232548]
+[u'violin', 0.22886822, u'wardrobe', 0.19585173, u'chime', 0.11149679, u'cello', 0.063227348, u'wooden_spoon', 0.051621642]
+[u'hook', 0.44979426, u'chain_saw', 0.15905924, u'crane', 0.037791125, u'ski', 0.022673927, u'chain', 0.019821424]
+[u'window_shade', 0.15538523, u'picket_fence', 0.1420676, u'web_site', 0.11897896, u'fountain', 0.10744195, u'barn', 0.062449023]

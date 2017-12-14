@@ -1,0 +1,4 @@
+[u'agama', 0.99504471, u'frilled_lizard', 0.0032662852, u'banded_gecko', 0.00049600063, u'American_chameleon', 0.00041259427, u'alligator_lizard', 0.00018550864]
+[u'agama', 0.37447327, u'eft', 0.13905987, u'common_newt', 0.12885538, u'banded_gecko', 0.11208975, u'axolotl', 0.073499523]
+[u'agama', 0.94616252, u'frilled_lizard', 0.023909016, u'whiptail', 0.009189887, u'common_iguana', 0.0050293221, u'American_chameleon', 0.0039104503]
+[u'envelope', 0.10240034, u'rubber_eraser', 0.0376666, u'binder', 0.028353296, u'web_site', 0.02225117, u'plastic_bag', 0.021804754]

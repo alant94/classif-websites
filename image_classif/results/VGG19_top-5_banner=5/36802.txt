@@ -1,0 +1,4 @@
+[u'racer', 0.38507986, u'sports_car', 0.3427487, u'convertible', 0.05636178, u'car_wheel', 0.033619933, u'amphibian', 0.031506773]
+[u'odometer', 0.94108617, u'analog_clock', 0.025732463, u'magnetic_compass', 0.0091934111, u'barometer', 0.0072210305, u'wall_clock', 0.0035172123]
+[u'sports_car', 0.6080941, u'racer', 0.13457623, u'car_wheel', 0.132071, u'convertible', 0.057318144, u'beach_wagon', 0.032866858]
+[u'tow_truck', 0.23780909, u'racer', 0.16263355, u'fire_engine', 0.1445915, u'sports_car', 0.12799276, u'ambulance', 0.091887876]

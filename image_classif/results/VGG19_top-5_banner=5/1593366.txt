@@ -1,0 +1,7 @@
+[u'crossword_puzzle', 0.33549303, u'digital_clock', 0.16928174, u'digital_watch', 0.029915629, u'Band_Aid', 0.01624828, u'stopwatch', 0.014376643]
+[u'digital_clock', 0.043287326, u'digital_watch', 0.029511819, u'shower_curtain', 0.022052864, u'crossword_puzzle', 0.020550303, u'lampshade', 0.019702194]
+[u'envelope', 0.067487448, u'web_site', 0.038742181, u'matchstick', 0.014068614, u'nematode', 0.010990232, u'lipstick', 0.01042839]
+[u'digital_clock', 0.079765409, u'beacon', 0.063765571, u'stupa', 0.04291806, u'church', 0.035220839, u'envelope', 0.034171101]
+[u'web_site', 0.13823645, u'envelope', 0.063487723, u'digital_clock', 0.052429046, u'nematode', 0.027549667, u'stopwatch', 0.016045529]
+[u'digital_clock', 0.17084859, u'Band_Aid', 0.024847312, u'crossword_puzzle', 0.022402927, u'web_site', 0.019521385, u"jack-o'-lantern", 0.0173344]
+[u'envelope', 0.034691513, u'web_site', 0.018087639, u'matchstick', 0.01646756, u'nail', 0.012628608, u'screw', 0.012163929]

@@ -1,0 +1,6 @@
+[u'spotlight', 0.17085631, u'espresso_maker', 0.1268734, u'sewing_machine', 0.080741756, u'toaster', 0.056472696, u'printer', 0.054700721]
+[u'sliding_door', 0.45430818, u'china_cabinet', 0.16573879, u'turnstile', 0.036157053, u'vending_machine', 0.032777995, u'bookcase', 0.028204897]
+[u'baboon', 0.25213358, u'Weimaraner', 0.12951115, u'Italian_greyhound', 0.088754959, u'albatross', 0.063571014, u'vulture', 0.045615319]
+[u'brassiere', 0.86675781, u'wig', 0.028439766, u'bikini', 0.026830874, u'maillot', 0.017319251, u'fur_coat', 0.010195347]
+[u'quilt', 0.15085782, u'container_ship', 0.14806326, u'wool', 0.069451101, u'Windsor_tie', 0.065782733, u'prayer_rug', 0.031411633]
+[u'Mexican_hairless', 0.53878826, u'hog', 0.066600032, u'dugong', 0.045184325, u'sea_lion', 0.03200262, u'Indian_elephant', 0.024246616]

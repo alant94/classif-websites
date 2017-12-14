@@ -1,0 +1,1 @@
+[u'lakeside', 0.087674633, u'American_egret', 0.055896629, u'American_alligator', 0.047986738, u'little_blue_heron', 0.043472596, u'crane', 0.039562494]

@@ -1,0 +1,1 @@
+[u'digital_watch', 0.36221632, u'toilet_seat', 0.21771492, u'barrel', 0.091730356, u'carton', 0.075980298, u'vase', 0.030323805]

@@ -1,0 +1,4 @@
+[u'typewriter_keyboard', 0.11443449, u'nail', 0.092583627, u'web_site', 0.046893064, u'space_bar', 0.037520513, u'rule', 0.029088171]
+[u'envelope', 0.10479422, u'loupe', 0.072753154, u'hook', 0.07218805, u'whistle', 0.063294515, u'nematode', 0.057630945]
+[u'wall_clock', 0.10043278, u'switch', 0.094021589, u'hook', 0.068412237, u'digital_clock', 0.065673113, u'street_sign', 0.05528662]
+[u'knot', 0.46793896, u'nematode', 0.15581751, u'bolo_tie', 0.13732618, u'hook', 0.09660197, u'chain', 0.029733984]

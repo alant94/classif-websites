@@ -1,0 +1,6 @@
+[u'Dungeness_crab', 0.12877801, u'snorkel', 0.031333983, u'shower_cap', 0.029273354, u'rock_crab', 0.023692045, u'platypus', 0.021602856]
+[u'parallel_bars', 0.20211896, u'pole', 0.16954915, u'bathing_cap', 0.11786763, u'swimming_trunks', 0.070154265, u'stage', 0.060780078]
+[u'swimming_trunks', 0.3767356, u'bikini', 0.23903078, u'maillot', 0.050640587, u'cowboy_hat', 0.044593949, u'volleyball', 0.040177923]
+[u'bikini', 0.2914297, u'maillot', 0.19900501, u'maillot', 0.15864202, u'sandal', 0.032308836, u'comic_book', 0.031203004]
+[u'bikini', 0.27412826, u'maillot', 0.12958723, u'maillot', 0.099448703, u'bathtub', 0.096851453, u'comic_book', 0.06287764]
+[u'comic_book', 0.40813282, u'balloon', 0.1667203, u'totem_pole', 0.063685335, u'pole', 0.055456135, u'toyshop', 0.032549936]

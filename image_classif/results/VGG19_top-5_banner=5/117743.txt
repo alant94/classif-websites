@@ -1,0 +1,5 @@
+[u'envelope', 0.24886505, u'parachute', 0.10812468, u'jersey', 0.097315602, u'pillow', 0.091476493, u'handkerchief', 0.060538664]
+[u'shopping_basket', 0.99594361, u'hamper', 0.0017495906, u'bassinet', 0.0011281156, u'bucket', 0.00089279586, u'cradle', 0.00023612424]
+[u'jigsaw_puzzle', 0.50208473, u'castle', 0.20833977, u'chain_saw', 0.042620074, u'stupa', 0.030929327, u'pencil_sharpener', 0.01841864]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'necklace', 0.27170202, u'cliff', 0.15314637, u'coral_reef', 0.12912068, u'coral_fungus', 0.047627762, u'parachute', 0.030972846]

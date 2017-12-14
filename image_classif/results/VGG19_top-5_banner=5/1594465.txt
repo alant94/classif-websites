@@ -1,0 +1,8 @@
+[u'matchstick', 0.13532642, u'digital_clock', 0.075612843, u'odometer', 0.070928156, u'perfume', 0.063495725, u'mouse', 0.058548775]
+[u'monitor', 0.52703905, u'television', 0.21844797, u'screen', 0.18440145, u'space_shuttle', 0.012410407, u'fountain', 0.0076975049]
+[u'missile', 0.31838167, u'projectile', 0.1165998, u'space_shuttle', 0.085969858, u'ping-pong_ball', 0.072355844, u'baseball', 0.041729383]
+[u'theater_curtain', 0.85341913, u'lampshade', 0.038890563, u'spotlight', 0.015785845, u'window_shade', 0.011453067, u'velvet', 0.0056427382]
+[u'wig', 0.25006348, u'candle', 0.084784336, u'lipstick', 0.055590596, u'seat_belt', 0.04371576, u'neck_brace', 0.033644311]
+[u'maillot', 0.34266013, u'maillot', 0.17678528, u'stole', 0.14945449, u'brassiere', 0.11966807, u'sarong', 0.040804572]
+[u'shower_curtain', 0.020952763, u'bookshop', 0.019178448, u'prayer_rug', 0.01881939, u'window_screen', 0.018657789, u'handkerchief', 0.016771208]
+[u'lipstick', 0.3263256, u'pick', 0.067809343, u'bottlecap', 0.066762134, u'bagel', 0.048542704, u'whiskey_jug', 0.042418145]

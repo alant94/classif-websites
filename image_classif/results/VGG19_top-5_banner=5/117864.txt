@@ -1,0 +1,2 @@
+[u'fountain', 0.17581162, u'stage', 0.13975146, u'spotlight', 0.075857818, u'bubble', 0.049350798, u'planetarium', 0.048931196]
+[u'alp', 0.28471881, u'valley', 0.10726127, u'church', 0.086784661, u'castle', 0.077559844, u'lakeside', 0.066562131]

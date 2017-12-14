@@ -1,0 +1,5 @@
+[u'shower_cap', 0.20301521, u'brassiere', 0.065859661, u'theater_curtain', 0.054857694, u'mosquito_net', 0.047695179, u'hoopskirt', 0.043506008]
+[u'balance_beam', 0.62999433, u'fountain', 0.12232301, u'parallel_bars', 0.039748501, u'maillot', 0.022218434, u'stage', 0.020785976]
+[u'stage', 0.91318291, u'theater_curtain', 0.057386231, u'torch', 0.014990622, u'spotlight', 0.0026783745, u'altar', 0.0015191683]
+[u'tray', 0.83597159, u'restaurant', 0.015148097, u'jigsaw_puzzle', 0.013110915, u'pizza', 0.012157544, u'plate', 0.0069310088]
+[u'web_site', 0.47457293, u'screen', 0.085720293, u'packet', 0.044751856, u'television', 0.043096051, u'envelope', 0.042638104]

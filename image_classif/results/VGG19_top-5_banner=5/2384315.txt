@@ -1,0 +1,8 @@
+[u'wine_bottle', 0.9454906, u'red_wine', 0.048299201, u'corkscrew', 0.0020057757, u'fountain_pen', 0.0014624582, u'beer_bottle', 0.0011335703]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'hay', 0.24862374, u'rapeseed', 0.13728185, u'castle', 0.072994724, u'valley', 0.054649152, u'stone_wall', 0.04759983]
+[u'water_bottle', 0.59640294, u'syringe', 0.13397552, u'pop_bottle', 0.12016522, u'wine_bottle', 0.073008485, u'beaker', 0.021189677]
+[u'wine_bottle', 0.90821302, u'red_wine', 0.075787373, u'beer_bottle', 0.012012686, u'pop_bottle', 0.0017325284, u'corkscrew', 0.00094306946]
+[u'Kerry_blue_terrier', 0.061913393, u'fountain', 0.048252266, u'planetarium', 0.034723692, u'sunglass', 0.022058453, u'marimba', 0.019852808]
+[u'wine_bottle', 0.97429037, u'red_wine', 0.013099798, u'barrel', 0.0041842125, u'beer_bottle', 0.0026986415, u'paintbrush', 0.00081109942]
+[u'wine_bottle', 0.6878832, u'organ', 0.073317759, u'red_wine', 0.026177924, u'paintbrush', 0.023424959, u'bookshop', 0.019773727]

@@ -1,0 +1,4 @@
+[u'envelope', 0.054589916, u'web_site', 0.03812119, u'desk', 0.03211299, u'wardrobe', 0.024705393, u'studio_couch', 0.022595849]
+[u'lakeside', 0.34236571, u'fountain', 0.13686749, u'geyser', 0.13336967, u'barn', 0.032929871, u'snowmobile', 0.020465534]
+[u'obelisk', 0.36416173, u'missile', 0.086219847, u'syringe', 0.056901842, u'flagpole', 0.050760046, u'projectile', 0.041984346]
+[u'web_site', 0.97986823, u'screen', 0.008517148, u'monitor', 0.0068827043, u'television', 0.0013694478, u'hand-held_computer', 0.00067486893]

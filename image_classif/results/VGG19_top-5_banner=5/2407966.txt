@@ -1,0 +1,8 @@
+[u'water_bottle', 0.38767937, u'vacuum', 0.12639827, u'beer_bottle', 0.070220046, u'pop_bottle', 0.051345579, u'wine_bottle', 0.049771156]
+[u'pill_bottle', 0.6934005, u'sunscreen', 0.1478485, u'face_powder', 0.14081578, u'lotion', 0.0082897097, u'oil_filter', 0.0025561256]
+[u'bottlecap', 0.91827798, u'face_powder', 0.062163223, u'puck', 0.0043399967, u'buckle', 0.0026776397, u'loupe', 0.0024574073]
+[u'water_bottle', 0.25922, u'diaper', 0.12909761, u'pill_bottle', 0.048622828, u'sunscreen', 0.027273921, u'digital_watch', 0.026474476]
+[u'sunscreen', 0.35922948, u'lotion', 0.2675133, u'pill_bottle', 0.096352361, u'face_powder', 0.05610951, u'chocolate_sauce', 0.047240969]
+[u'bottlecap', 0.80698764, u'face_powder', 0.046014041, u'digital_watch', 0.024996152, u'stopwatch', 0.023899583, u'bolo_tie', 0.01063564]
+[u'sunscreen', 0.53131008, u'lotion', 0.19660257, u'chocolate_sauce', 0.12268357, u'hair_spray', 0.053542383, u'face_powder', 0.022195039]
+[u'face_powder', 0.59401727, u'bolo_tie', 0.13929325, u'bottlecap', 0.083525233, u'loupe', 0.046208862, u'puck', 0.034751821]

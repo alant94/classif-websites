@@ -1,0 +1,3 @@
+[u'parachute', 0.27034587, u'flagpole', 0.19337466, u'red_wine', 0.065478064, u'hook', 0.0605615, u'macaw', 0.054701485]
+[u'jigsaw_puzzle', 0.25458953, u'coral_reef', 0.15937078, u'jellyfish', 0.080753051, u'vase', 0.05570611, u'tray', 0.05188527]
+[u'nematode', 0.48212141, u'hair_slide', 0.17158221, u'starfish', 0.14608742, u'stinkhorn', 0.018578723, u'mask', 0.013223985]

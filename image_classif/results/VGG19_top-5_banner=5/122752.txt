@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.33631548, u'swab', 0.087796494, u'screwdriver', 0.079677872, u'syringe', 0.064417198, u'microphone', 0.042093996]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

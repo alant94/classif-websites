@@ -1,0 +1,8 @@
+[u'sliding_door', 0.097494125, u'switch', 0.073162131, u'shoji', 0.056794271, u'web_site', 0.054385792, u'monitor', 0.040397588]
+[u'whistle', 0.66379952, u'lipstick', 0.28959429, u'lighter', 0.01157051, u'hair_spray', 0.0073499875, u'face_powder', 0.0073336801]
+[u'web_site', 0.12661931, u'television', 0.073477507, u'monitor', 0.053993355, u'screen', 0.036741782, u'analog_clock', 0.034698706]
+[u'missile', 0.097457103, u'projectile', 0.06706617, u'torch', 0.040224914, u'airship', 0.039596524, u'umbrella', 0.038752135]
+[u'packet', 0.57066399, u'plastic_bag', 0.050346512, u'book_jacket', 0.047086425, u'orange', 0.039276034, u'sarong', 0.021871332]
+[u'monitor', 0.23923007, u'web_site', 0.16894124, u'container_ship', 0.14003199, u'screen', 0.026507869, u'book_jacket', 0.0239891]
+[u'book_jacket', 0.26168042, u'comic_book', 0.15847944, u'web_site', 0.078841336, u'electric_guitar', 0.040149093, u'lighter', 0.025149258]
+[u'tobacco_shop', 0.52674448, u'medicine_chest', 0.10375113, u'grocery_store', 0.094451882, u'bakery', 0.03437512, u'bookshop', 0.033143528]

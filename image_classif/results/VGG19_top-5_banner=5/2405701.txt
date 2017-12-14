@@ -1,0 +1,7 @@
+[u'harmonica', 0.38174999, u"carpenter's_kit", 0.3537381, u'accordion', 0.063752793, u'panpipe', 0.025395337, u'screwdriver', 0.015966846]
+[u'web_site', 0.30199355, u'envelope', 0.17709658, u'book_jacket', 0.096428998, u'menu', 0.017533438, u'packet', 0.015499848]
+[u'vase', 0.38031292, u'pot', 0.039482355, u'paintbrush', 0.031041611, u'pitcher', 0.028365752, u'goblet', 0.026994236]
+[u'hand-held_computer', 0.41728801, u'digital_watch', 0.37425008, u'digital_clock', 0.046392623, u'scale', 0.03195215, u'oscilloscope', 0.023139561]
+[u'web_site', 0.21065269, u'envelope', 0.16180356, u'rule', 0.03935409, u'hook', 0.018334553, u'digital_clock', 0.013491893]
+[u'binder', 0.68922573, u'book_jacket', 0.093290791, u'comic_book', 0.040875189, u'packet', 0.026917296, u'mousetrap', 0.018474564]
+[u'water_bottle', 0.40584764, u'pill_bottle', 0.33085266, u'perfume', 0.059413332, u'water_jug', 0.054396037, u'beer_bottle', 0.01990716]

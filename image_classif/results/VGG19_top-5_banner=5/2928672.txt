@@ -1,0 +1,5 @@
+[u'punching_bag', 0.10582104, u'unicycle', 0.066429019, u'stage', 0.051038437, u'ice_lolly', 0.047466259, u'maillot', 0.046274424]
+[u'unicycle', 0.70171607, u'racket', 0.040847968, u'bicycle-built-for-two', 0.033050902, u'crutch', 0.026342837, u'swab', 0.02098058]
+[u'mantis', 0.78356975, u"yellow_lady's_slipper", 0.0366158, u'scorpion', 0.031201307, u'starfish', 0.013451393, u'walking_stick', 0.012502633]
+[u'cinema', 0.28397632, u'analog_clock', 0.0960657, u'car_wheel', 0.074159741, u'coil', 0.0286237, u'grille', 0.026396889]
+[u'neck_brace', 0.36851218, u'stole', 0.14659582, u'cardigan', 0.044502798, u'crutch', 0.038711321, u'wool', 0.027180105]

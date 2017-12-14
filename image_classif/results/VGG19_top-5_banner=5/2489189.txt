@@ -1,0 +1,3 @@
+[u'web_site', 0.14756344, u'analog_clock', 0.074551977, u'envelope', 0.043522686, u'wall_clock', 0.020956798, u'hand_blower', 0.01959626]
+[u'fountain', 0.12409501, u'book_jacket', 0.054930326, u'barn', 0.04534607, u'altar', 0.031290088, u'fire_screen', 0.026182832]
+[u'jeep', 0.45396605, u'tow_truck', 0.19060344, u'recreational_vehicle', 0.15637128, u'trailer_truck', 0.024867257, u'pickup', 0.021496695]

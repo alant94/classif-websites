@@ -1,0 +1,6 @@
+[u'pick', 0.15879214, u'matchstick', 0.049861014, u'lighter', 0.028082686, u'shield', 0.02689174, u'maze', 0.02637567]
+[u'ibex', 0.2732833, u'dhole', 0.13686381, u'hare', 0.093577661, u'gazelle', 0.091649897, u'impala', 0.076193042]
+[u'jigsaw_puzzle', 0.097978987, u'hook', 0.056417357, u'street_sign', 0.050375961, u'chain_saw', 0.043156352, u'bow', 0.040470835]
+[u'impala', 0.75309891, u'gazelle', 0.15007807, u'hartebeest', 0.096479058, u'ibex', 0.00029897023, u'zebra', 9.5150635e-06]
+[u'military_uniform', 0.14154924, u'hartebeest', 0.081548028, u'assault_rifle', 0.073529348, u'stone_wall', 0.040508091, u'coho', 0.040286917]
+[u'envelope', 0.16365886, u'iPod', 0.067901149, u'web_site', 0.061925516, u'hook', 0.060129669, u'safety_pin', 0.058208015]

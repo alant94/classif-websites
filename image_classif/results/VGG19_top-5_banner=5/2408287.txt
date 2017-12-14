@@ -1,0 +1,1 @@
+[u'forklift', 0.79000884, u'harvester', 0.10462758, u'tractor', 0.051236212, u'snowplow', 0.036670685, u'lawn_mower', 0.0093376795]

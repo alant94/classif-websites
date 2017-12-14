@@ -1,0 +1,1 @@
+[u'parachute', 0.11918353, u'chain_saw', 0.050110281, u'airship', 0.039917998, u'tractor', 0.032119859, u'thresher', 0.030826772]

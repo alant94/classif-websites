@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.24500023, u'fountain', 0.17639418, u'spotlight', 0.090223126, u'stage', 0.073920041, u'picket_fence', 0.050610878]
+[u'crate', 0.31039539, u'freight_car', 0.16726302, u'swab', 0.065796115, u'shower_curtain', 0.06003781, u'barbershop', 0.028263843]
+[u'butcher_shop', 0.28873217, u'shower_curtain', 0.21263257, u'swab', 0.066952929, u'barbershop', 0.050617564, u'shoe_shop', 0.048581459]
+[u'bannister', 0.24619211, u'swing', 0.16353154, u'plow', 0.1451434, u'barrow', 0.045401804, u'parallel_bars', 0.045310922]

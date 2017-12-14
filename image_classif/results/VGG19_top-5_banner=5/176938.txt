@@ -1,0 +1,6 @@
+[u'digital_clock', 0.2261558, u'maze', 0.081384994, u'digital_watch', 0.049961518, u'matchstick', 0.019507462, u'analog_clock', 0.015354662]
+[u'digital_clock', 0.33284697, u'maze', 0.095676668, u'digital_watch', 0.067625672, u'matchstick', 0.025339127, u'prayer_rug', 0.022585345]
+[u'stupa', 0.45929697, u'bell_cote', 0.20012741, u'coil', 0.030786712, u'switch', 0.020223951, u'picket_fence', 0.016372887]
+[u'stupa', 0.204358, u'picket_fence', 0.20084581, u'panpipe', 0.084999308, u'envelope', 0.059274323, u'necklace', 0.023315158]
+[u'stupa', 0.44570312, u'picket_fence', 0.12473241, u'panpipe', 0.045268457, u'bell_cote', 0.041216534, u'envelope', 0.029814335]
+[u'lab_coat', 0.84378403, u'notebook', 0.10177915, u'web_site', 0.014350059, u'laptop', 0.0077904905, u'screen', 0.0034632375]

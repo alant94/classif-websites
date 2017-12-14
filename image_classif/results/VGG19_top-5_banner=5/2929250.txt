@@ -1,0 +1,3 @@
+[u'military_uniform', 0.053941071, u'kimono', 0.039742861, u'accordion', 0.023958003, u'steel_drum', 0.022847963, u'French_horn', 0.020983431]
+[u'ocarina', 0.19959554, u'oil_filter', 0.14982527, u'pencil_sharpener', 0.11400703, u'puck', 0.095323332, u'mouse', 0.083174214]
+[u'snorkel', 0.22602445, u'bathing_cap', 0.21058002, u'tub', 0.031505696, u'neck_brace', 0.029326309, u'sweatshirt', 0.026302278]

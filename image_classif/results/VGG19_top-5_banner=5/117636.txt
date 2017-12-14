@@ -1,0 +1,2 @@
+[u'throne', 0.26700988, u'mask', 0.25521111, u'shield', 0.14185739, u'pitcher', 0.045560144, u'whiskey_jug', 0.023167931]
+[u'volcano', 0.3433437, u'cloak', 0.22276506, u'mountain_tent', 0.1704073, u'seashore', 0.041138679, u'promontory', 0.021171954]

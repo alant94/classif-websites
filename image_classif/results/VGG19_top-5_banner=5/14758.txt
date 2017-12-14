@@ -1,0 +1,2 @@
+[u'picket_fence', 0.18933837, u'paintbrush', 0.09218239, u'matchstick', 0.085070983, u'ballpoint', 0.076280445, u'chime', 0.050250743]
+[u'castle', 0.96028161, u'palace', 0.018682664, u'monastery', 0.010894541, u'church', 0.0037622957, u'bell_cote', 0.0014766123]

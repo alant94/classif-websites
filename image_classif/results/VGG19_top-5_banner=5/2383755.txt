@@ -1,0 +1,2 @@
+[u'switch', 0.27214286, u'bottlecap', 0.26574817, u'puck', 0.032563299, u'joystick', 0.025232727, u'coil', 0.024187764]
+[u'chime', 0.10743435, u'airship', 0.04861762, u'panpipe', 0.034964684, u'container_ship', 0.033147521, u'picket_fence', 0.028865211]

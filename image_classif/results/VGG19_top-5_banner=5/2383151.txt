@@ -1,0 +1,4 @@
+[u'fire_screen', 0.10691337, u'shoji', 0.06206261, u'window_screen', 0.055572324, u'sliding_door', 0.050068852, u'wall_clock', 0.040193565]
+[u'swab', 0.62504208, u'broom', 0.10371432, u'ballpoint', 0.031384267, u'screwdriver', 0.027944613, u'nail', 0.024221394]
+[u'red_wine', 0.73161358, u'wine_bottle', 0.090840757, u'perfume', 0.061881352, u'corkscrew', 0.022325777, u'soap_dispenser', 0.016184673]
+[u'shower_curtain', 0.99031687, u'window_shade', 0.0026286868, u'bathtub', 0.00062057667, u'wardrobe', 0.0005582663, u'bath_towel', 0.00046422827]

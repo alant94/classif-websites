@@ -1,0 +1,2 @@
+[u'spotlight', 0.38095751, u'microphone', 0.29217216, u'gasmask', 0.072959155, u'strainer', 0.033337258, u'punching_bag', 0.024813777]
+[u'nail', 0.11810007, u'screwdriver', 0.11253711, u'rule', 0.089231834, u'modem', 0.082483232, u'space_heater', 0.048707455]

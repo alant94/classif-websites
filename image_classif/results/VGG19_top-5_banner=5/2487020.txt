@@ -1,0 +1,7 @@
+[u'butcher_shop', 0.76144987, u'shoe_shop', 0.14978731, u'triceratops', 0.015856816, u'cowboy_boot', 0.012439916, u'grocery_store', 0.011605675]
+[u'web_site', 0.58748519, u'menu', 0.047458064, u'comic_book', 0.028048113, u'book_jacket', 0.026339466, u'scoreboard', 0.019109402]
+[u'lampshade', 0.096809834, u'balloon', 0.059346717, u'spotlight', 0.052899513, u"jack-o'-lantern", 0.045970108, u'candle', 0.027714483]
+[u'safety_pin', 0.33793446, u'matchstick', 0.086821616, u'chime', 0.074690573, u'nail', 0.062239587, u'syringe', 0.045173559]
+[u'digital_clock', 0.12454686, u'lampshade', 0.099844903, u'prison', 0.081884995, u'window_shade', 0.039002083, u'spotlight', 0.035382498]
+[u'gazelle', 0.33983833, u'ibex', 0.10348848, u'weevil', 0.083567053, u'impala', 0.063374221, u'sulphur-crested_cockatoo', 0.038041506]
+[u'window_screen', 0.088554069, u'web_site', 0.068976209, u'envelope', 0.061869569, u'prayer_rug', 0.053637866, u'doormat', 0.048066024]

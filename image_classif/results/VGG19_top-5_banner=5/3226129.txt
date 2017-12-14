@@ -1,0 +1,5 @@
+[u'toilet_tissue', 0.1629393, u'abaya', 0.10431118, u'paper_towel', 0.092630677, u'sweatshirt', 0.065388292, u'academic_gown', 0.062366586]
+[u'restaurant', 0.1532021, u'shoe_shop', 0.12107853, u'library', 0.050882515, u'theater_curtain', 0.048616491, u'brassiere', 0.043046713]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'church', 0.79785848, u'bell_cote', 0.072738074, u'flagpole', 0.013047644, u'monastery', 0.010921351, u'analog_clock', 0.0090768943]
+[u'picket_fence', 0.80924624, u'matchstick', 0.035276711, u'candle', 0.028167404, u'worm_fence', 0.016510872, u'envelope', 0.010792594]

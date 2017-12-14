@@ -1,0 +1,8 @@
+[u'web_site', 0.41818413, u'neck_brace', 0.092080347, u'sleeping_bag', 0.038514201, u'pajama', 0.036336228, u'jean', 0.027126383]
+[u'web_site', 0.99669707, u'muzzle', 0.0011597574, u'neck_brace', 0.00059975102, u'comic_book', 0.00030569162, u'menu', 0.00010307902]
+[u'boxer', 0.57982635, u'French_bulldog', 0.076932512, u'basset', 0.059751499, u'Boston_bull', 0.045520272, u'Greater_Swiss_Mountain_dog', 0.045501955]
+[u'web_site', 0.2636584, u'book_jacket', 0.058073483, u'cash_machine', 0.056269277, u'screen', 0.038401239, u'digital_clock', 0.030208742]
+[u'street_sign', 0.16261233, u'digital_clock', 0.069359429, u'sunscreen', 0.039370805, u'puck', 0.037150767, u'stopwatch', 0.033978328]
+[u'canoe', 0.29290056, u'paddle', 0.074681871, u'lakeside', 0.053886481, u'swimming_trunks', 0.03400813, u'bucket', 0.030265652]
+[u'web_site', 0.99442369, u'menu', 0.0024051357, u'book_jacket', 0.0011182348, u'envelope', 0.00078930991, u'comic_book', 0.00053643208]
+[u'flagpole', 0.22635384, u'missile', 0.066112474, u'beacon', 0.062147211, u'pole', 0.055491, u'space_shuttle', 0.040920731]

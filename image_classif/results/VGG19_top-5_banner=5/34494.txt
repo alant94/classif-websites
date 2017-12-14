@@ -1,0 +1,4 @@
+[u'geyser', 0.039134964, u'pedestal', 0.037983593, u'bell_cote', 0.032969072, u'missile', 0.025469529, u'beacon', 0.025062229]
+[u'geyser', 0.039134964, u'pedestal', 0.037983593, u'bell_cote', 0.032969072, u'missile', 0.025469529, u'beacon', 0.025062229]
+[u'digital_clock', 0.62594885, u'digital_watch', 0.08412759, u'maze', 0.047324069, u'street_sign', 0.041815296, u'stopwatch', 0.035484049]
+[u'crossword_puzzle', 0.046751741, u'window_screen', 0.04667988, u'container_ship', 0.01857687, u'shower_curtain', 0.014232045, u'oscilloscope', 0.013527719]

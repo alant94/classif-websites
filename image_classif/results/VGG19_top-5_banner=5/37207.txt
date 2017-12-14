@@ -1,0 +1,1 @@
+[u'jersey', 0.075486995, u'sweatshirt', 0.050547749, u'sunglass', 0.032541368, u'sunscreen', 0.028840255, u'sunglasses', 0.022769103]

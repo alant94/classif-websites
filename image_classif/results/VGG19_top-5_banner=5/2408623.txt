@@ -1,0 +1,5 @@
+[u'fireboat', 0.052956063, u'amphibian', 0.048735887, u'bobsled', 0.047667619, u'half_track', 0.044563271, u'bow_tie', 0.022265311]
+[u'maillot', 0.16786247, u'bathing_cap', 0.13840991, u'balance_beam', 0.12122026, u'bikini', 0.10661729, u'swimming_trunks', 0.090060145]
+[u'dam', 0.23028117, u'hand_blower', 0.051312771, u'cleaver', 0.047360208, u'bulletproof_vest', 0.0290487, u'bow', 0.024981568]
+[u'screw', 0.09521386, u'hand_blower', 0.072877996, u'shower_curtain', 0.06201439, u'window_shade', 0.049415268, u'broom', 0.030346595]
+[u'aircraft_carrier', 0.23664972, u'container_ship', 0.092029594, u'drilling_platform', 0.082759999, u'submarine', 0.049880423, u'amphibian', 0.030446064]

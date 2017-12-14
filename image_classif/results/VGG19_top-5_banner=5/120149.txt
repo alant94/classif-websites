@@ -1,0 +1,3 @@
+[u'grocery_store', 0.12801546, u'paintbrush', 0.10806477, u'flute', 0.089934468, u'book_jacket', 0.066915825, u'fountain_pen', 0.032842912]
+[u'pool_table', 0.8910014, u'joystick', 0.010016952, u'projector', 0.0056640217, u'laptop', 0.0041497061, u'wall_clock', 0.0034224305]
+[u'ski', 0.62241709, u'electric_guitar', 0.096842997, u'loudspeaker', 0.061937205, u"carpenter's_kit", 0.021773055, u'comic_book', 0.013769489]

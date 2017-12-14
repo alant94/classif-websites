@@ -1,0 +1,3 @@
+[u'bulletproof_vest', 0.30512983, u'maillot', 0.26042747, u'maillot', 0.095863312, u'bathing_cap', 0.066661514, u'jersey', 0.037045971]
+[u'envelope', 0.035131257, u'web_site', 0.027809817, u'perfume', 0.023240825, u'lipstick', 0.021427395, u'lighter', 0.021195196]
+[u'perfume', 0.066076905, u'candle', 0.058555439, u'lipstick', 0.055202685, u'lighter', 0.030760428, u'matchstick', 0.030498322]

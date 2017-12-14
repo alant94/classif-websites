@@ -1,0 +1,4 @@
+[u'projector', 0.35813367, u'lighter', 0.087982319, u'digital_watch', 0.083194233, u'Polaroid_camera', 0.050080787, u'reflex_camera', 0.048910543]
+[u'street_sign', 0.39819235, u'barbershop', 0.10208034, u'picket_fence', 0.05660196, u'cinema', 0.032557722, u'chainlink_fence', 0.030880982]
+[u'book_jacket', 0.14893091, u'web_site', 0.077836141, u'comic_book', 0.033205427, u'cassette', 0.029072609, u'whistle', 0.028885633]
+[u'flagpole', 0.14302951, u'snowmobile', 0.13593674, u'bobsled', 0.13286453, u'mountain_tent', 0.12360501, u'stage', 0.053546168]

@@ -1,0 +1,3 @@
+[u'American_black_bear', 0.96678323, u'wild_boar', 0.021594748, u'brown_bear', 0.0034063254, u'Bouvier_des_Flandres', 0.0028734568, u'sloth_bear', 0.0018027684]
+[u'warthog', 0.62565434, u'wild_boar', 0.14517497, u'hartebeest', 0.093739241, u'impala', 0.027412733, u'tusker', 0.017383978]
+[u'panpipe', 0.96985507, u'electric_guitar', 0.0065852753, u'chime', 0.0043495968, u'matchstick', 0.0031316634, u'pencil_sharpener', 0.0031050325]

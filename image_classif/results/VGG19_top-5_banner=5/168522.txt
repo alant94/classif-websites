@@ -1,0 +1,5 @@
+[u'forklift', 0.28456399, u'stage', 0.12892811, u'theater_curtain', 0.048875071, u'space_shuttle', 0.039186794, u'torch', 0.036712386]
+[u'upright', 0.63471246, u'grand_piano', 0.29984608, u'organ', 0.037302911, u'accordion', 0.019653654, u'marimba', 0.0011418773]
+[u'military_uniform', 0.12386783, u'bulletproof_vest', 0.098819263, u'sweatshirt', 0.057882868, u'laptop', 0.023562688, u'cash_machine', 0.022123933]
+[u'odometer', 0.42478731, u'monitor', 0.094217792, u'screen', 0.058712095, u'joystick', 0.050330397, u'barbell', 0.0302213]
+[u'bottlecap', 0.78178394, u'beer_bottle', 0.06087555, u'baseball', 0.033732072, u'pop_bottle', 0.0092656482, u'tennis_ball', 0.0083214231]

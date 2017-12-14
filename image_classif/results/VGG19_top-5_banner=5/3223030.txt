@@ -1,0 +1,1 @@
+[u'digital_clock', 0.61226177, u'digital_watch', 0.11491535, u'screwdriver', 0.046630841, u'oscilloscope', 0.041136585, u'picket_fence', 0.032404557]

@@ -1,0 +1,5 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.47745144, u'digital_watch', 0.065067872, u'letter_opener', 0.038502425, u'scale', 0.033731025, u'analog_clock', 0.028024659]
+[u'web_site', 0.59418517, u'scale', 0.2217117, u'modem', 0.028549569, u'envelope', 0.022292092, u'printer', 0.009874247]
+[u'web_site', 0.94218981, u'screen', 0.022399904, u'monitor', 0.020750199, u'television', 0.0030103254, u'oscilloscope', 0.0021220995]
+[u'panpipe', 0.32691675, u'bow', 0.29726252, u'harp', 0.095387772, u'bassoon', 0.041220266, u'matchstick', 0.034513947]

@@ -1,0 +1,6 @@
+[u'suit', 0.24809359, u'bolo_tie', 0.1456546, u'wig', 0.078494847, u'Windsor_tie', 0.077379815, u'neck_brace', 0.065330394]
+[u'lighter', 0.35159925, u'corkscrew', 0.11938412, u'hook', 0.067926496, u"carpenter's_kit", 0.066342853, u'binder', 0.037358806]
+[u'fur_coat', 0.14893617, u'sturgeon', 0.069631048, u'barracouta', 0.061500154, u'toyshop', 0.055450477, u'military_uniform', 0.037505247]
+[u'butcher_shop', 0.34022391, u'abaya', 0.13319281, u'suit', 0.083969258, u'kimono', 0.045393892, u'military_uniform', 0.037356559]
+[u'punching_bag', 0.21197286, u'plunger', 0.11598883, u'spatula', 0.089786895, u'maraca', 0.045172125, u'brassiere', 0.039887592]
+[u'space_shuttle', 0.14467913, u'drilling_platform', 0.11326867, u'crane', 0.069827974, u'fireboat', 0.066536658, u'missile', 0.043553695]

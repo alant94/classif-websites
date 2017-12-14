@@ -1,0 +1,5 @@
+[u'envelope', 0.11043424, u'digital_watch', 0.10570123, u'digital_clock', 0.064515717, u'Band_Aid', 0.047445815, u'wall_clock', 0.037756406]
+[u'digital_clock', 0.10437794, u'crossword_puzzle', 0.07807976, u'envelope', 0.073951542, u'quilt', 0.066741861, u'maze', 0.061312836]
+[u"carpenter's_kit", 0.31635696, u'screwdriver', 0.13185722, u'swab', 0.083480969, u'ballpoint', 0.057376508, u'quill', 0.047954682]
+[u'picket_fence', 0.10789932, u'digital_watch', 0.099649332, u'bow', 0.055117857, u'space_shuttle', 0.025782924, u'hook', 0.025414092]
+[u'crossword_puzzle', 0.62477839, u'digital_watch', 0.051890798, u'quilt', 0.050959989, u'maze', 0.042585768, u'digital_clock', 0.038366854]

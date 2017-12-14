@@ -1,0 +1,4 @@
+[u'envelope', 0.30991146, u'menu', 0.1474676, u'web_site', 0.065150663, u'binder', 0.015810708, u'washer', 0.014205473]
+[u'book_jacket', 0.34125969, u'web_site', 0.17383517, u'comic_book', 0.03017848, u'lipstick', 0.013840863, u'matchstick', 0.013564491]
+[u'fountain', 0.71520776, u'worm_fence', 0.056502178, u'picket_fence', 0.050619975, u'birdhouse', 0.016478401, u'swab', 0.013074794]
+[u'altar', 0.077374808, u'vault', 0.075316481, u'church', 0.069000319, u'guillotine', 0.056459382, u'monastery', 0.040370103]

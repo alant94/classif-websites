@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.50687295, u'beaker', 0.10967617, u'measuring_cup', 0.033664782, u'water_bottle', 0.026382254, u'swab', 0.018789586]
+[u'book_jacket', 0.11219006, u'web_site', 0.076736279, u'maillot', 0.058878627, u'abaya', 0.039486852, u'gown', 0.0384483]
+[u'web_site', 0.45671099, u'envelope', 0.1540346, u'digital_clock', 0.062124241, u'rule', 0.027829291, u'analog_clock', 0.015332992]
+[u'digital_clock', 0.29988194, u'web_site', 0.079238854, u'crossword_puzzle', 0.059203096, u'wall_clock', 0.040290132, u'Windsor_tie', 0.035412975]

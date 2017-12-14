@@ -1,0 +1,2 @@
+[u'quilt', 0.86822891, u'stretcher', 0.036750909, u'prayer_rug', 0.013468992, u'sleeping_bag', 0.011810265, u'handkerchief', 0.0092143975]
+[u'menu', 0.19761726, u'envelope', 0.17558207, u'safety_pin', 0.044415105, u'rule', 0.042543393, u'nail', 0.024291383]

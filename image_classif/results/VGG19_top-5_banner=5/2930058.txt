@@ -1,0 +1,5 @@
+[u'matchstick', 0.19336027, u'mouse', 0.14776155, u'quill', 0.075105771, u'lighter', 0.046885561, u'syringe', 0.035329286]
+[u'web_site', 0.1362507, u'loupe', 0.060931742, u'traffic_light', 0.052450035, u'pick', 0.042309858, u'sunglass', 0.04118498]
+[u'tray', 0.10313535, u'cleaver', 0.099170208, u'crayfish', 0.077933028, u'plate', 0.075321786, u'American_lobster', 0.046388276]
+[u'web_site', 0.84510684, u'tobacco_shop', 0.07182017, u'rotisserie', 0.010235305, u'book_jacket', 0.0086970562, u'monitor', 0.0052636615]
+[u'web_site', 0.24390678, u'oscilloscope', 0.20439745, u'screen', 0.054757819, u'hand-held_computer', 0.053191006, u'vending_machine', 0.047985148]

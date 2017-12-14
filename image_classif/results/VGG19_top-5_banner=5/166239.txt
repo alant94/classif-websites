@@ -1,0 +1,5 @@
+[u'digital_clock', 0.29199773, u'buckle', 0.15277052, u'analog_clock', 0.12443869, u'digital_watch', 0.089421667, u'hook', 0.02876376]
+[u'comic_book', 0.82508332, u'book_jacket', 0.048928153, u'jigsaw_puzzle', 0.026612077, u'electric_guitar', 0.0093964534, u'buckle', 0.0087386686]
+[u'neck_brace', 0.082873233, u'wig', 0.07948076, u'book_jacket', 0.064305685, u'flute', 0.036603134, u'fur_coat', 0.025383487]
+[u'crane', 0.47363666, u'beacon', 0.10766102, u'airship', 0.054541372, u'bell_cote', 0.045760553, u'traffic_light', 0.029371407]
+[u'jigsaw_puzzle', 0.19512123, u'comic_book', 0.15443407, u'military_uniform', 0.056537088, u'toyshop', 0.047466669, u'book_jacket', 0.04149352]

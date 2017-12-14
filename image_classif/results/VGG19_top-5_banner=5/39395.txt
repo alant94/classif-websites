@@ -1,0 +1,2 @@
+[u'prairie_chicken', 0.38122892, u'bustard', 0.28039187, u'lynx', 0.18309976, u'Egyptian_cat', 0.043589994, u'tiger_cat', 0.027679622]
+[u'screwdriver', 0.11256022, u'wooden_spoon', 0.1078826, u'crate', 0.099378906, u'paintbrush', 0.055201899, u"carpenter's_kit", 0.049412679]

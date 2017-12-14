@@ -1,0 +1,4 @@
+[u'backpack', 0.29428783, u'mailbag', 0.20938882, u'lens_cap', 0.072597787, u'purse', 0.047988143, u'bath_towel', 0.04095431]
+[u'ram', 0.81217891, u'bighorn', 0.090943627, u'whippet', 0.036188576, u'ox', 0.0091444701, u'llama', 0.008542317]
+[u'dalmatian', 0.27601728, u'cheetah', 0.08623036, u'Egyptian_cat', 0.040113557, u'leopard', 0.039033573, u'German_short-haired_pointer', 0.037390787]
+[u'cougar', 0.82508427, u'lynx', 0.17151773, u'lion', 0.0028390388, u'coyote', 0.00015989122, u'dingo', 8.7622939e-05]

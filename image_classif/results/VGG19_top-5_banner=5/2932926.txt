@@ -1,0 +1,3 @@
+[u'cucumber', 0.35302809, u'vase', 0.11449881, u'hair_slide', 0.10974079, u'strawberry', 0.070119254, u'hummingbird', 0.046797886]
+[u'pajama', 0.21571845, u'water_jug', 0.15812248, u'shower_curtain', 0.094041906, u'measuring_cup', 0.078801729, u'vase', 0.062674701]
+[u'suit', 0.71127337, u'Windsor_tie', 0.16791423, u'oboe', 0.025157595, u'bassoon', 0.013477697, u'groom', 0.012230527]

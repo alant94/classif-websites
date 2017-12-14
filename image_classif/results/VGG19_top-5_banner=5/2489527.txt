@@ -1,0 +1,4 @@
+[u'puck', 0.99400735, u'book_jacket', 0.00057206512, u'pick', 0.00055371836, u'jersey', 0.00048553405, u'frying_pan', 0.00037125594]
+[u'bighorn', 0.1790062, u'ox', 0.13762157, u'whippet', 0.12015226, u'ram', 0.1151379, u'oxcart', 0.097346634]
+[u'sorrel', 0.33707401, u'ox', 0.24862032, u'llama', 0.054546706, u'oxcart', 0.03807313, u'alp', 0.030969711]
+[u'picket_fence', 0.19110125, u'marimba', 0.14997534, u'worm_fence', 0.078436993, u'patio', 0.051558726, u'mobile_home', 0.038827557]

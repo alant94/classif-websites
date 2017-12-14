@@ -1,0 +1,1 @@
+[u'traffic_light', 0.11591896, u'church', 0.063141473, u'picket_fence', 0.060807142, u'maze', 0.055786896, u'analog_clock', 0.035323594]

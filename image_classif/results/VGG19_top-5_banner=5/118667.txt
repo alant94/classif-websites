@@ -1,0 +1,4 @@
+[u'envelope', 0.25560346, u'binder', 0.16937301, u'web_site', 0.068461016, u'safety_pin', 0.049432568, u'jigsaw_puzzle', 0.039232131]
+[u'binder', 0.38583753, u'carton', 0.10769609, u'book_jacket', 0.10188248, u'packet', 0.082805701, u'lotion', 0.0451946]
+[u'book_jacket', 0.5847041, u'web_site', 0.21469975, u'binder', 0.062966913, u'monitor', 0.024319006, u'jigsaw_puzzle', 0.020284692]
+[u'binder', 0.54224294, u'envelope', 0.18504339, u'web_site', 0.041185528, u'comic_book', 0.040659804, u'book_jacket', 0.033163924]

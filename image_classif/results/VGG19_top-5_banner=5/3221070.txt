@@ -1,0 +1,6 @@
+[u'screen', 0.025820769, u'spotlight', 0.023122698, u'notebook', 0.02268707, u'binder', 0.020205073, u'matchstick', 0.019437823]
+[u'book_jacket', 0.28110069, u'scoreboard', 0.16978647, u'street_sign', 0.11176541, u'digital_clock', 0.088253237, u'laptop', 0.032442611]
+[u'church', 0.71855623, u'bell_cote', 0.16420181, u'monastery', 0.073211767, u'tile_roof', 0.012734399, u'castle', 0.0090177003]
+[u'binder', 0.62512738, u'envelope', 0.09475819, u'perfume', 0.029619813, u'packet', 0.027023006, u'lighter', 0.024034232]
+[u'bell_cote', 0.27269855, u'church', 0.21815343, u'birdhouse', 0.10304662, u'monastery', 0.091620706, u'boathouse', 0.07549458]
+[u'refrigerator', 0.26189274, u'wardrobe', 0.072239257, u'binder', 0.064236887, u'turnstile', 0.053474054, u'lighter', 0.049211893]

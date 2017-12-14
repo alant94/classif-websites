@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.17083479, u'vestment', 0.16732074, u'bow_tie', 0.14962968, u'academic_gown', 0.084499463, u'lab_coat', 0.051923618]
+[u'envelope', 0.047609236, u'web_site', 0.018952696, u'microphone', 0.013957934, u'cleaver', 0.012754875, u'Band_Aid', 0.011741764]
+[u'church', 0.3454718, u'barn', 0.13609283, u'picket_fence', 0.11272812, u'worm_fence', 0.041329604, u'castle', 0.021409743]
+[u'altar', 0.5694713, u'church', 0.16746753, u'organ', 0.075638026, u'vault', 0.041933052, u'throne', 0.036428347]
+[u'bolo_tie', 0.24970278, u'shield', 0.22737713, u'bottlecap', 0.080631144, u'sombrero', 0.0530263, u'wall_clock', 0.034589626]

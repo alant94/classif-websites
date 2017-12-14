@@ -1,0 +1,5 @@
+[u'ski', 0.16951285, u'spatula', 0.088634685, u'hook', 0.087426282, u'comic_book', 0.056768566, u'book_jacket', 0.048656903]
+[u'coffee_mug', 0.4456301, u'book_jacket', 0.065430678, u'ashcan', 0.061725456, u'cup', 0.028188093, u'milk_can', 0.025394518]
+[u'sliding_door', 0.16698354, u'monitor', 0.080800116, u'home_theater', 0.077442825, u'medicine_chest', 0.068951532, u'screen', 0.059336886]
+[u'space_shuttle', 0.22837752, u'matchstick', 0.19322425, u'candle', 0.095870845, u'book_jacket', 0.05866193, u'Band_Aid', 0.050743323]
+[u'barbershop', 0.37764964, u'scoreboard', 0.084741294, u'book_jacket', 0.064630479, u'vending_machine', 0.050695002, u'pop_bottle', 0.037588593]

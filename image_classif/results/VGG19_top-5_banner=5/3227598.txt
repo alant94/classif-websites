@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.64861232, u'crate', 0.11007838, u'barbershop', 0.06501621, u'organ', 0.023656657, u'barrel', 0.022915224]
+[u'Band_Aid', 0.099911965, u'envelope', 0.091221996, u'rubber_eraser', 0.065762103, u'digital_clock', 0.037291512, u'web_site', 0.030974654]
+[u'web_site', 0.08078292, u'hair_spray', 0.046524215, u'hand_blower', 0.041442543, u'whistle', 0.039311416, u'jersey', 0.031234551]
+[u'coffee_mug', 0.22797754, u'whiskey_jug', 0.066199884, u'barrel', 0.062239528, u'punching_bag', 0.060421806, u'hair_spray', 0.057734612]
+[u'pajama', 0.29076639, u'apron', 0.28671965, u'lab_coat', 0.067412607, u'torch', 0.064596422, u'jersey', 0.062671483]

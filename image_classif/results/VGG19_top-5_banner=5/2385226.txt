@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.56122351, u'paintbrush', 0.2099186, u'fountain_pen', 0.03879739, u'beer_bottle', 0.030435754, u'red_wine', 0.017528145]
+[u'wine_bottle', 0.8670609, u'red_wine', 0.12347601, u'perfume', 0.0025489742, u'lotion', 0.0021351553, u'hair_spray', 0.0014127071]

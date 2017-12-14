@@ -1,0 +1,2 @@
+[u'web_site', 0.2558912, u'envelope', 0.20699662, u'Band_Aid', 0.091404684, u'digital_clock', 0.042404, u'rule', 0.028958591]
+[u'electric_guitar', 0.1192128, u'flute', 0.091829471, u'stage', 0.061233021, u'cloak', 0.051159885, u'abaya', 0.033382613]

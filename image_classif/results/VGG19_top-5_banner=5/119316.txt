@@ -1,0 +1,1 @@
+[u'tank', 0.92692643, u'half_track', 0.01446455, u'switch', 0.0093832146, u'typewriter_keyboard', 0.0054067681, u'cannon', 0.0049340362]

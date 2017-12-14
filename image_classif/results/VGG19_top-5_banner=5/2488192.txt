@@ -1,0 +1,2 @@
+[u'suspension_bridge', 0.231351, u'pirate', 0.13940127, u'pier', 0.067573346, u'lakeside', 0.057184748, u'schooner', 0.056672513]
+[u'red-breasted_merganser', 0.46884528, u'drake', 0.10847969, u'hummingbird', 0.092450626, u'redshank', 0.065785155, u'oystercatcher', 0.046483502]

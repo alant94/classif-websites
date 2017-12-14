@@ -1,0 +1,1 @@
+[u'picket_fence', 0.34456304, u'book_jacket', 0.32072824, u'scoreboard', 0.076553538, u'digital_clock', 0.033454258, u'crossword_puzzle', 0.025023555]

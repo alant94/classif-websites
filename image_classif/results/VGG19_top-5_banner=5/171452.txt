@@ -1,0 +1,4 @@
+[u'screwdriver', 0.11327874, u'cleaver', 0.07700853, u'book_jacket', 0.07570044, u"carpenter's_kit", 0.058087107, u'bow', 0.029812913]
+[u'wall_clock', 0.36881453, u'analog_clock', 0.35888144, u'puck', 0.091530956, u'shield', 0.026710032, u'barometer', 0.01478766]
+[u'book_jacket', 0.11800249, u'cleaver', 0.058147315, u'rule', 0.050533138, u'envelope', 0.036401022, u'ski', 0.036049768]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

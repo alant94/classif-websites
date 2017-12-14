@@ -1,0 +1,1 @@
+[u'envelope', 0.21677321, u'book_jacket', 0.074725583, u'chambered_nautilus', 0.062693685, u'quill', 0.041861668, u'nematode', 0.038026638]

@@ -1,0 +1,2 @@
+[u'ballpoint', 0.36427811, u'letter_opener', 0.1232052, u'hair_slide', 0.11191568, u'nail', 0.06269332, u'rubber_eraser', 0.049275052]
+[u'whistle', 0.30013698, u'beaker', 0.057101369, u'candle', 0.04607787, u'tray', 0.041720811, u'pill_bottle', 0.041442547]

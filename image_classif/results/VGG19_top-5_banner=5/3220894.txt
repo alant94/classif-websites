@@ -1,0 +1,2 @@
+[u'balance_beam', 0.74489802, u'horizontal_bar', 0.039604966, u'velvet', 0.025542859, u'parallel_bars', 0.021475188, u'macaw', 0.0085998373]
+[u"jack-o'-lantern", 0.11262538, u'matchstick', 0.099761769, u'digital_clock', 0.069255389, u'candle', 0.04765299, u'jersey', 0.041344382]

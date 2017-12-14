@@ -1,0 +1,4 @@
+[u'scale', 0.3328858, u'hourglass', 0.26092723, u'gong', 0.16339391, u'guillotine', 0.026528265, u'chime', 0.020580659]
+[u'digital_clock', 0.16543175, u'cash_machine', 0.061260264, u'container_ship', 0.052538317, u'envelope', 0.047712505, u'scoreboard', 0.046252262]
+[u'container_ship', 0.74281013, u'digital_clock', 0.01941018, u'envelope', 0.017424952, u'airship', 0.012595273, u'drilling_platform', 0.0074388017]
+[u'panpipe', 0.097459234, u'envelope', 0.063831292, u'hook', 0.058217246, u'hatchet', 0.044778708, u'plate_rack', 0.044639751]

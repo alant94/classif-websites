@@ -1,0 +1,2 @@
+[u'picket_fence', 0.079713568, u'bow', 0.064100601, u'chime', 0.058762107, u'missile', 0.048156418, u'space_shuttle', 0.047974482]
+[u'binder', 0.27379593, u'tray', 0.21163768, u'wallet', 0.051399518, u'digital_clock', 0.048938252, u'digital_watch', 0.033512458]

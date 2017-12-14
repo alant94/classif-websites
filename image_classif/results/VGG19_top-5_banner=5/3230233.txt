@@ -1,0 +1,7 @@
+[u'vestment', 0.17597799, u'throne', 0.13499431, u'shield', 0.12334256, u'envelope', 0.080342479, u'lighter', 0.071049951]
+[u'slot', 0.096223131, u'wall_clock', 0.095955044, u'chime', 0.081245549, u'hook', 0.041027587, u'altar', 0.039749186]
+[u'web_site', 0.17944638, u'envelope', 0.052478764, u'nematode', 0.018681807, u'matchstick', 0.013434121, u'velvet', 0.010702558]
+[u'hook', 0.18024355, u'web_site', 0.081555359, u'bolo_tie', 0.075209558, u'loupe', 0.074151769, u'cassette', 0.060981624]
+[u'book_jacket', 0.10139575, u'web_site', 0.094356239, u'jersey', 0.036942665, u'envelope', 0.033881456, u'street_sign', 0.026451152]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'chime', 0.58520037, u'plate_rack', 0.13246097, u'wall_clock', 0.10843696, u'French_horn', 0.015142102, u'hook', 0.010399697]

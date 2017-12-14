@@ -1,0 +1,1 @@
+[u'analog_clock', 0.16010933, u'loupe', 0.12308409, u'hook', 0.068639405, u'face_powder', 0.045674212, u'digital_clock', 0.036628406]

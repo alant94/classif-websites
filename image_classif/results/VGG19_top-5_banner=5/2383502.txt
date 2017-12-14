@@ -1,0 +1,4 @@
+[u'nail', 0.15807261, u'screwdriver', 0.090842746, u'ballpoint', 0.064594872, u"carpenter's_kit", 0.051194623, u'bow', 0.051008947]
+[u'valley', 0.09988644, u'alp', 0.088988006, u'volcano', 0.076845348, u'lakeside', 0.075018175, u'stone_wall', 0.069687165]
+[u'crossword_puzzle', 0.43307137, u'digital_clock', 0.086701132, u'envelope', 0.035370868, u'maze', 0.032711834, u'screen', 0.018494969]
+[u'sliding_door', 0.073966868, u'window_screen', 0.05619565, u'medicine_chest', 0.040924363, u'window_shade', 0.040834054, u'washbasin', 0.03810823]

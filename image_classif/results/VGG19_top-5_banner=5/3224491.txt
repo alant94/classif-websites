@@ -1,0 +1,4 @@
+[u'birdhouse', 0.42482018, u'matchstick', 0.19256575, u'chime', 0.06737978, u'carton', 0.05956671, u'lampshade', 0.037513655]
+[u'packet', 0.10207798, u'street_sign', 0.0950744, u'book_jacket', 0.083222814, u'carton', 0.074141882, u'web_site', 0.052274719]
+[u'street_sign', 0.21750088, u'Band_Aid', 0.18969336, u'traffic_light', 0.069031186, u'rubber_eraser', 0.049431074, u'digital_clock', 0.046857517]
+[u'parachute', 0.037993394, u'kite', 0.032831095, u'bald_eagle', 0.032413419, u'jellyfish', 0.025035318, u'flagpole', 0.020727178]

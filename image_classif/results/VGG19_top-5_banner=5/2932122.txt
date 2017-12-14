@@ -1,0 +1,1 @@
+[u'candle', 0.050348081, u'binder', 0.039117169, u'torch', 0.03093107, u'whistle', 0.030508704, u'matchstick', 0.029206114]

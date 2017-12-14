@@ -1,0 +1,7 @@
+[u'pole', 0.83152229, u'totem_pole', 0.054939382, u'broom', 0.011822068, u'flagpole', 0.0070191445, u'plunger', 0.0061953748]
+[u'flute', 0.99565601, u'oboe', 0.0025781903, u'whistle', 0.0014061857, u'chime', 0.00022887455, u'bassoon', 7.8881931e-05]
+[u'flute', 0.27405229, u'panpipe', 0.21892864, u'bassoon', 0.14011779, u'oboe', 0.091239274, u'fountain_pen', 0.06752193]
+[u'flute', 0.49609339, u'oboe', 0.1364931, u'bassoon', 0.12105864, u'rifle', 0.045626901, u'whistle', 0.036515292]
+[u'jigsaw_puzzle', 0.99529737, u'altar', 0.0033598444, u'tray', 0.00076134177, u'toyshop', 0.00013839212, u'quilt', 9.944215e-05]
+[u'clog', 0.96782035, u'Loafer', 0.022722999, u'sandal', 0.0084774354, u'shoe_shop', 0.00056215876, u'barrel', 7.8217716e-05]
+[u'torch', 0.84289026, u'flute', 0.10606118, u'bassoon', 0.021016192, u'pole', 0.0067634988, u'vestment', 0.0062367488]

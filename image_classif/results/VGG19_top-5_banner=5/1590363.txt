@@ -1,0 +1,1 @@
+[u'abaya', 0.27368066, u'cloak', 0.097474054, u'gown', 0.076786637, u'punching_bag', 0.036247082, u'trench_coat', 0.034037977]

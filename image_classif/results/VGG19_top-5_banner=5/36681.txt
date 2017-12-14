@@ -1,0 +1,3 @@
+[u'birdhouse', 0.47447392, u'carton', 0.31603584, u'picket_fence', 0.028879445, u'castle', 0.022157002, u'mailbox', 0.017174231]
+[u'binder', 0.15795644, u'envelope', 0.15559864, u'birdhouse', 0.14226311, u'rubber_eraser', 0.042768553, u'desk', 0.037229527]
+[u'harp', 0.25206637, u'rule', 0.19695175, u'sandal', 0.17577864, u'running_shoe', 0.13833678, u'clog', 0.087670282]

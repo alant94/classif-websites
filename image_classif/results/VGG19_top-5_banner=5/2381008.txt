@@ -1,0 +1,2 @@
+[u'picket_fence', 0.38597763, u'nail', 0.13503927, u'chime', 0.10497059, u'worm_fence', 0.067544527, u'spatula', 0.038409736]
+[u'matchstick', 0.27575353, u'picket_fence', 0.25696978, u'rule', 0.1028823, u'nail', 0.075926147, u'envelope', 0.024133226]

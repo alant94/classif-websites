@@ -1,0 +1,2 @@
+[u'web_site', 0.92348695, u'book_jacket', 0.022293687, u'monitor', 0.019569207, u'oscilloscope', 0.008045299, u'television', 0.0068230033]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

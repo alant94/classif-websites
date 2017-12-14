@@ -1,0 +1,8 @@
+[u'envelope', 0.24912474, u'digital_clock', 0.1156368, u'switch', 0.081232376, u'wall_clock', 0.059472352, u'container_ship', 0.059442639]
+[u'castle', 0.16849901, u'mosque', 0.12932037, u'seashore', 0.10291203, u'monastery', 0.034578282, u'cliff', 0.02848272]
+[u'wardrobe', 0.12737845, u'matchstick', 0.10132553, u'picket_fence', 0.074920714, u'bow', 0.045303978, u'theater_curtain', 0.037003443]
+[u'lab_coat', 0.20535643, u'parallel_bars', 0.11279862, u'shower_curtain', 0.078045517, u'brassiere', 0.038965918, u'picket_fence', 0.038960274]
+[u'prison', 0.1485792, u'vending_machine', 0.13131233, u'cash_machine', 0.12542014, u'turnstile', 0.08272364, u'sliding_door', 0.050980981]
+[u'cinema', 0.65985423, u'barbershop', 0.065133534, u'hair_spray', 0.062711649, u'street_sign', 0.025797211, u'bakery', 0.016243817]
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]
+[u'drilling_platform', 0.35752368, u'crane', 0.13145852, u'container_ship', 0.10310537, u'monitor', 0.087042212, u'fireboat', 0.040678129]

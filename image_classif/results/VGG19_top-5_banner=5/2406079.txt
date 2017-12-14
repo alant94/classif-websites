@@ -1,0 +1,3 @@
+[u'spotlight', 0.40415084, u'rugby_ball', 0.11687741, u'leafhopper', 0.094238862, u'airship', 0.064057834, u'iron', 0.038524956]
+[u'container_ship', 0.19652231, u'shower_curtain', 0.086390689, u'handkerchief', 0.055729371, u'scoreboard', 0.04510475, u'digital_clock', 0.030523228]
+[u'cash_machine', 0.37727278, u'oscilloscope', 0.1217881, u'window_shade', 0.11188991, u'microwave', 0.084882692, u'safe', 0.046518132]

@@ -1,0 +1,2 @@
+[u'radio_telescope', 0.91470802, u'solar_dish', 0.030130101, u'magnetic_compass', 0.015925445, u'lycaenid', 0.011327389, u'slide_rule', 0.0081863254]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,7 @@
+[u'comic_book', 0.85086745, u'envelope', 0.045776114, u'refrigerator', 0.03747521, u'binder', 0.014833816, u'laptop', 0.0085862353]
+[u'medicine_chest', 0.45347986, u'safe', 0.086343281, u'binder', 0.080455385, u'wardrobe', 0.069634043, u'refrigerator', 0.03055793]
+[u'thatch', 0.52437383, u'picket_fence', 0.25975698, u'patio', 0.069020681, u'boathouse', 0.03531396, u'tile_roof', 0.031853188]
+[u'thatch', 0.17458102, u'patio', 0.13243037, u'obelisk', 0.077123947, u'church', 0.041921448, u'beacon', 0.040929176]
+[u'digital_clock', 0.16494071, u'analog_clock', 0.13143587, u'wall_clock', 0.091850281, u'washer', 0.048321743, u'safe', 0.032580305]
+[u'screen', 0.14727816, u'web_site', 0.13596085, u'monitor', 0.1298835, u'television', 0.046150502, u'solar_dish', 0.037859276]
+[u'palace', 0.15010877, u'picket_fence', 0.13549511, u'patio', 0.10747594, u'fountain', 0.0726768, u'library', 0.050644152]

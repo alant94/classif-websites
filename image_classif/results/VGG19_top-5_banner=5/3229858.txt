@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.48516512, u'tray', 0.11542148, u'menu', 0.057063635, u'book_jacket', 0.035368066, u'altar', 0.024848837]
+[u'cocktail_shaker', 0.23789269, u'vase', 0.055559706, u'water_bottle', 0.044831228, u'beer_glass', 0.042840678, u'shower_curtain', 0.037170909]
+[u'whistle', 0.19843863, u'rule', 0.18684532, u'can_opener', 0.14714523, u'letter_opener', 0.13566077, u'hair_slide', 0.051006917]

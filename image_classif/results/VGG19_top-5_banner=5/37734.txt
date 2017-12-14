@@ -1,0 +1,2 @@
+[u'cassette_player', 0.20276631, u'tape_player', 0.19645326, u'web_site', 0.11646678, u'cassette', 0.11560473, u'radio', 0.075742587]
+[u'web_site', 0.40932107, u'cassette_player', 0.07494393, u'vending_machine', 0.07345584, u'cassette', 0.060739096, u'tape_player', 0.057186849]

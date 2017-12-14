@@ -1,0 +1,6 @@
+[u'trimaran', 0.55126488, u'catamaran', 0.41471294, u'speedboat', 0.01055226, u'canoe', 0.0056597297, u'yawl', 0.0049554184]
+[u'scuba_diver', 0.86438382, u'coral_reef', 0.067904286, u'wreck', 0.020086125, u'snorkel', 0.015913712, u'sea_snake', 0.01012453]
+[u'swimming_trunks', 0.2175487, u'snorkel', 0.12501852, u'maillot', 0.11553671, u'seashore', 0.096965611, u'sandbar', 0.079622045]
+[u'sandbar', 0.47352633, u'swimming_trunks', 0.22757666, u'seashore', 0.20279518, u'maillot', 0.01582415, u'maillot', 0.015262193]
+[u"carpenter's_kit", 0.37996122, u'slot', 0.095610686, u'screwdriver', 0.051119693, u'tray', 0.041218545, u'mousetrap', 0.031792928]
+[u'sunscreen', 0.71752107, u'lotion', 0.2722829, u'whiskey_jug', 0.0035050148, u'soap_dispenser', 0.0012686565, u'face_powder', 0.0010963278]

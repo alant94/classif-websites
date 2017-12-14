@@ -1,0 +1,2 @@
+[u'scoreboard', 0.38234809, u'tobacco_shop', 0.12771565, u'barbershop', 0.10956745, u'comic_book', 0.068031743, u'book_jacket', 0.038505685]
+[u'ski', 0.065631554, u'cinema', 0.059966587, u'coffee_mug', 0.034672618, u'hook', 0.034511346, u'space_shuttle', 0.031332299]

@@ -1,0 +1,5 @@
+[u'punching_bag', 0.17459282, u'hook', 0.15929942, u'safety_pin', 0.096458219, u'bicycle-built-for-two', 0.033074502, u'stopwatch', 0.025743861]
+[u'bow', 0.10328894, u'chime', 0.076516598, u'ski', 0.056280266, u'beer_glass', 0.05209608, u'beer_bottle', 0.050166648]
+[u'banjo', 0.092312485, u'tricycle', 0.08924862, u'golfcart', 0.07123784, u'tractor', 0.063598096, u'accordion', 0.055912662]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]
+[u'eggnog', 0.57184476, u'beer_glass', 0.202933, u'goblet', 0.19562872, u'red_wine', 0.0094089396, u'wine_bottle', 0.0042246734]

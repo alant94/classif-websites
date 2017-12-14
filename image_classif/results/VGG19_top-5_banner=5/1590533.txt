@@ -1,0 +1,6 @@
+[u'diaper', 0.062149432, u'hamster', 0.057600018, u'tub', 0.052669812, u'bathtub', 0.047813449, u'Siamese_cat', 0.036752332]
+[u'cinema', 0.18428113, u'combination_lock', 0.17644197, u'digital_clock', 0.12903491, u'vending_machine', 0.059995361, u'cash_machine', 0.042097714]
+[u'Windsor_tie', 0.23166548, u'seat_belt', 0.221903, u'bow_tie', 0.074366093, u'suit', 0.050330225, u'lab_coat', 0.017867479]
+[u'analog_clock', 0.2243934, u'lighter', 0.11415504, u'digital_clock', 0.07564345, u'wall_clock', 0.075643085, u'buckle', 0.059357882]
+[u'swimming_trunks', 0.34517843, u'diaper', 0.31555083, u'brassiere', 0.09751676, u'bikini', 0.037717555, u'bath_towel', 0.028532924]
+[u'web_site', 0.50222492, u'brassiere', 0.19202766, u'bikini', 0.044255916, u'bathtub', 0.035976302, u'iPod', 0.027215894]

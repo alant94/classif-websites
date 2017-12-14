@@ -1,0 +1,8 @@
+[u'gazelle', 0.71562898, u'impala', 0.27510557, u'hare', 0.0026603183, u'hartebeest', 0.0017737807, u'bustard', 0.0015395361]
+[u'gazelle', 0.67828751, u'hyena', 0.099787079, u'impala', 0.060295384, u'hartebeest', 0.057698987, u'ibex', 0.023108304]
+[u'Band_Aid', 0.84223276, u'matchstick', 0.052742057, u'rubber_eraser', 0.0085091982, u'lighter', 0.0080702193, u'rule', 0.007463939]
+[u'chime', 0.18256728, u'plate_rack', 0.14251098, u'organ', 0.091443919, u'crate', 0.071301371, u'boathouse', 0.051223677]
+[u'screen', 0.51676744, u'monitor', 0.39203557, u'television', 0.022754621, u'cash_machine', 0.012808901, u'desktop_computer', 0.0098481523]
+[u'bighorn', 0.45462748, u'ram', 0.13665202, u'lion', 0.08460886, u'impala', 0.081587985, u'ibex', 0.073617354]
+[u'chime', 0.53291732, u'organ', 0.15054606, u'plate_rack', 0.038091224, u'crate', 0.032076024, u'screwdriver', 0.018495172]
+[u'screen', 0.22909629, u'monitor', 0.17717816, u'envelope', 0.071966425, u'binder', 0.06004991, u'cash_machine', 0.031814758]

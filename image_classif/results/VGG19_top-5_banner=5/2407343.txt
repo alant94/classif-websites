@@ -1,0 +1,3 @@
+[u'jersey', 0.97787899, u'sweatshirt', 0.021200731, u'lab_coat', 0.00042979798, u'poncho', 0.00014929184, u'maillot', 6.923607e-05]
+[u'bottlecap', 0.40844163, u'balloon', 0.11910828, u'traffic_light', 0.032087397, u'Petri_dish', 0.029186247, u'digital_clock', 0.023679581]
+[u'matchstick', 0.18761572, u'chain', 0.12765273, u'hook', 0.079167068, u'paintbrush', 0.049533576, u'bolo_tie', 0.029308274]

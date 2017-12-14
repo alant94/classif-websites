@@ -1,0 +1,8 @@
+[u'window_shade', 0.41428453, u'bannister', 0.3092446, u'picket_fence', 0.02690877, u'broom', 0.021582916, u'umbrella', 0.0164798]
+[u'web_site', 0.05054193, u'analog_clock', 0.041585382, u'digital_clock', 0.031836141, u'stopwatch', 0.02585947, u'street_sign', 0.025671445]
+[u'bannister', 0.28704011, u'window_shade', 0.23309393, u'pier', 0.033674829, u'broom', 0.033297997, u'panpipe', 0.032015957]
+[u'daisy', 0.13485883, u'ear', 0.087780803, u'corn', 0.064823419, u'marmot', 0.028388154, u'soccer_ball', 0.023783756]
+[u'ski', 0.1968381, u'pick', 0.045673158, u'Band_Aid', 0.036003485, u'comic_book', 0.028408861, u'street_sign', 0.025667729]
+[u'window_shade', 0.41428453, u'bannister', 0.3092446, u'picket_fence', 0.02690877, u'broom', 0.021582916, u'umbrella', 0.0164798]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'harp', 0.17876409, u'window_shade', 0.17744467, u'pier', 0.094474845, u'bannister', 0.079419643, u'broom', 0.041655023]

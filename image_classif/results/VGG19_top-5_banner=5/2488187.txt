@@ -1,0 +1,2 @@
+[u'alp', 0.66971123, u'valley', 0.18934731, u'lakeside', 0.045556128, u'cliff', 0.021550592, u'mountain_bike', 0.011177997]
+[u'panpipe', 0.11926755, u'rubber_eraser', 0.11041265, u'matchstick', 0.091540098, u'ballpoint', 0.058050275, u'lighter', 0.054479048]

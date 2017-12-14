@@ -1,0 +1,5 @@
+[u'comic_book', 0.22983374, u'book_jacket', 0.10483421, u'rotisserie', 0.072845012, u'menu', 0.052523363, u'packet', 0.044793207]
+[u'web_site', 0.11172843, u'cash_machine', 0.071357511, u'book_jacket', 0.05543172, u'cinema', 0.037334379, u'screen', 0.035761688]
+[u'book_jacket', 0.63170606, u'web_site', 0.074993953, u'binder', 0.034007337, u'theater_curtain', 0.02121529, u'envelope', 0.018934941]
+[u'binder', 0.67499322, u'library', 0.074275494, u'rule', 0.055840205, u'book_jacket', 0.055114541, u'bookcase', 0.02603367]
+[u'suit', 0.42264798, u'Windsor_tie', 0.35431933, u'bow_tie', 0.084517181, u'academic_gown', 0.013016866, u'lab_coat', 0.012281179]

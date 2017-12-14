@@ -1,0 +1,2 @@
+[u'ski', 0.59366757, u'screwdriver', 0.16483918, u'rifle', 0.13327803, u'paintbrush', 0.017962478, u'ballpoint', 0.012807464]
+[u'nail', 0.076743133, u'rule', 0.055100795, u'envelope', 0.048776854, u'safety_pin', 0.041624364, u'hook', 0.041203484]

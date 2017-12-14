@@ -1,0 +1,3 @@
+[u'book_jacket', 0.55040216, u'street_sign', 0.048612744, u'theater_curtain', 0.047708008, u'comic_book', 0.023044489, u'packet', 0.019249674]
+[u'borzoi', 0.39164975, u'English_setter', 0.19269542, u'Irish_wolfhound', 0.078075923, u'clumber', 0.075288236, u'English_springer', 0.026763381]
+[u'puck', 0.74792045, u'packet', 0.046991982, u'jersey', 0.027957514, u'sweatshirt', 0.018663475, u'fire_engine', 0.0113752]

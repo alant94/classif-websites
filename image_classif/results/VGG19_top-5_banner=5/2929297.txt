@@ -1,0 +1,4 @@
+[u'book_jacket', 0.4943375, u'web_site', 0.30020022, u'envelope', 0.054783728, u'packet', 0.02890463, u'menu', 0.016024502]
+[u'menu', 0.13899158, u'book_jacket', 0.079485565, u'web_site', 0.054880694, u'cash_machine', 0.049634583, u'monitor', 0.040564377]
+[u'web_site', 0.16557658, u'screen', 0.14347023, u'television', 0.1307514, u'cash_machine', 0.056176566, u'monitor', 0.038754437]
+[u'web_site', 0.27832922, u'envelope', 0.16506706, u'lipstick', 0.03093802, u'matchstick', 0.020101296, u'book_jacket', 0.01848799]

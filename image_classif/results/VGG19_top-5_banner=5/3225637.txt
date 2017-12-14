@@ -1,0 +1,3 @@
+[u'rule', 0.28878906, u'analog_clock', 0.25472498, u'nematode', 0.12049327, u'magnetic_compass', 0.10244541, u'wall_clock', 0.048177253]
+[u'coil', 0.17990777, u'bolo_tie', 0.14855158, u'electric_fan', 0.052627798, u'traffic_light', 0.043767773, u'shield', 0.040026195]
+[u'book_jacket', 0.39768499, u'cash_machine', 0.047943849, u'web_site', 0.031270191, u'scoreboard', 0.017858624, u'theater_curtain', 0.017164113]

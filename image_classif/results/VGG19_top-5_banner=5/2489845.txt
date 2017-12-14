@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.49727231, u'rule', 0.1818741, u'nail', 0.028872021, u'screwdriver', 0.020496087, u'matchstick', 0.016869562]
+[u'bow', 0.33670285, u'four-poster', 0.086681627, u'yawl', 0.044019427, u'mosquito_net', 0.02853041, u'pelican', 0.020151785]
+[u'soccer_ball', 0.24602777, u'piggy_bank', 0.046910908, u'pick', 0.042567879, u'jersey', 0.02985118, u'teddy', 0.029472778]

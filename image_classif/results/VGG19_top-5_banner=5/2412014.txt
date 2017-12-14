@@ -1,0 +1,6 @@
+[u'rule', 0.28804466, u'hook', 0.088558942, u'corkscrew', 0.060409691, u'wall_clock', 0.052693162, u'file', 0.042139392]
+[u'plate_rack', 0.4041566, u'fire_screen', 0.064868852, u'dining_table', 0.053079296, u'table_lamp', 0.040015835, u'pot', 0.025635278]
+[u'tray', 0.29592967, u'plate_rack', 0.13666715, u'fire_screen', 0.083302997, u'wall_clock', 0.028909059, u'book_jacket', 0.028247153]
+[u'corkscrew', 0.31747779, u'letter_opener', 0.24463534, u'iron', 0.13049681, u'ski', 0.033050254, u'quill', 0.027113663]
+[u'monitor', 0.16978353, u'analog_clock', 0.085810572, u'television', 0.082407139, u'screen', 0.06175866, u'web_site', 0.050191719]
+[u'web_site', 0.28499612, u'book_jacket', 0.087987565, u'packet', 0.084430367, u'menu', 0.077370815, u'cash_machine', 0.051576413]

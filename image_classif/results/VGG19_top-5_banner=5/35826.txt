@@ -1,0 +1,4 @@
+[u'lipstick', 0.36812294, u'lens_cap', 0.098299272, u'sunglasses', 0.079023816, u'hair_spray', 0.041262209, u'cellular_telephone', 0.040395845]
+[u'web_site', 0.1900963, u'comic_book', 0.084313788, u'street_sign', 0.06931264, u'book_jacket', 0.06196798, u'stopwatch', 0.053643931]
+[u'screwdriver', 0.18332091, u"carpenter's_kit", 0.13154501, u'rifle', 0.064329818, u'shovel', 0.05526207, u'bow', 0.054828014]
+[u'pay-phone', 0.32190678, u'cash_machine', 0.084108487, u'hair_spray', 0.079232574, u'cellular_telephone', 0.06391269, u'dial_telephone', 0.039116785]

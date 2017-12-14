@@ -1,0 +1,5 @@
+[u'vending_machine', 0.2592676, u'cash_machine', 0.16881664, u'rotisserie', 0.087807976, u'monitor', 0.081995726, u'microwave', 0.06945812]
+[u'totem_pole', 0.13809231, u'brass', 0.11247465, u'fountain', 0.08335381, u'book_jacket', 0.064933635, u'pop_bottle', 0.036785111]
+[u'web_site', 0.094099581, u'hook', 0.070381485, u"carpenter's_kit", 0.06931857, u'analog_clock', 0.040256429, u'bow', 0.035916813]
+[u'jigsaw_puzzle', 0.2558845, u'book_jacket', 0.15016758, u'freight_car', 0.12242385, u'padlock', 0.032463912, u'comic_book', 0.029607337]
+[u'indigo_bunting', 0.054638349, u'cardoon', 0.034492459, u'golf_ball', 0.031807806, u'daisy', 0.028550291, u"yellow_lady's_slipper", 0.025821429]

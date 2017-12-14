@@ -1,0 +1,2 @@
+[u'gong', 0.48902646, u'nail', 0.092958897, u'chime', 0.08221443, u'screw', 0.078223564, u'black_widow', 0.054315183]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

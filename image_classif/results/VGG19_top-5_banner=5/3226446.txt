@@ -1,0 +1,7 @@
+[u'suit', 0.23417434, u'oboe', 0.092400409, u'bassoon', 0.092336543, u'bow_tie', 0.055813264, u'Windsor_tie', 0.050349321]
+[u'suit', 0.44675106, u'Windsor_tie', 0.062772237, u'racket', 0.056074079, u'bassoon', 0.040018711, u'academic_gown', 0.034879833]
+[u'digital_clock', 0.17736943, u'traffic_light', 0.082410924, u'beacon', 0.044724204, u'cinema', 0.039874036, u'church', 0.028983111]
+[u'wardrobe', 0.10874032, u'kimono', 0.098580636, u'sarong', 0.067797467, u'comic_book', 0.051691957, u'bookshop', 0.031228306]
+[u'coffee_mug', 0.20560783, u'cup', 0.12713289, u'lampshade', 0.050440598, u'perfume', 0.030563485, u'hair_spray', 0.030227927]
+[u'abaya', 0.68883318, u'cloak', 0.045346897, u'suit', 0.02339074, u'bell_cote', 0.014334681, u'prison', 0.012035744]
+[u'fountain', 0.22481032, u'picket_fence', 0.19617301, u'matchstick', 0.18073304, u'candle', 0.061085362, u'spotlight', 0.025626441]

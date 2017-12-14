@@ -1,0 +1,6 @@
+[u'borzoi', 0.84951955, u'wire-haired_fox_terrier', 0.10005372, u'Ibizan_hound', 0.025234364, u'English_foxhound', 0.0052293371, u'whippet', 0.004310648]
+[u'hook', 0.072899312, u'quill', 0.058396667, u'nail', 0.049713179, u'web_site', 0.036129151, u'letter_opener', 0.027726566]
+[u'borzoi', 0.29852843, u'whippet', 0.086466342, u'Chihuahua', 0.062052127, u'plastic_bag', 0.043815996, u'dalmatian', 0.043689195]
+[u'Maltese_dog', 0.40712032, u'Tibetan_terrier', 0.31772125, u'Lhasa', 0.16243438, u'Old_English_sheepdog', 0.069435194, u'Shih-Tzu', 0.017272828]
+[u'standard_schnauzer', 0.28758076, u'miniature_schnauzer', 0.16061528, u'book_jacket', 0.098528355, u'Bouvier_des_Flandres', 0.05286099, u'wire-haired_fox_terrier', 0.050259426]
+[u'pug', 0.66660476, u'bull_mastiff', 0.31501725, u'French_bulldog', 0.0024241973, u'Brabancon_griffon', 0.0016118301, u'boxer', 0.0011275312]

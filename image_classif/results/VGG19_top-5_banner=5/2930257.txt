@@ -1,0 +1,6 @@
+[u'matchstick', 0.23028229, u'ballpoint', 0.11406445, u'rubber_eraser', 0.11069621, u'pencil_box', 0.071700983, u'drumstick', 0.071015432]
+[u'pajama', 0.33982018, u'gown', 0.13524927, u'groom', 0.057277702, u'lab_coat', 0.057065554, u'brassiere', 0.040273234]
+[u'golfcart', 0.11215808, u'Kerry_blue_terrier', 0.059596624, u'warthog', 0.025037033, u'Bouvier_des_Flandres', 0.022980139, u'curly-coated_retriever', 0.02283534]
+[u'paintbrush', 0.14546075, u'matchstick', 0.14047278, u'spatula', 0.060854077, u'drumstick', 0.042928565, u"carpenter's_kit", 0.029882124]
+[u'envelope', 0.56269264, u'web_site', 0.093311638, u'jigsaw_puzzle', 0.080734633, u'book_jacket', 0.026362941, u'wall_clock', 0.015151688]
+[u'sliding_door', 0.12916411, u'pay-phone', 0.12706281, u'gas_pump', 0.088847987, u'cash_machine', 0.084101692, u'safe', 0.061605472]

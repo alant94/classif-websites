@@ -1,0 +1,5 @@
+[u'hatchet', 0.061827742, u'web_site', 0.028327679, u'screw', 0.024660934, u'typewriter_keyboard', 0.024118226, u'assault_rifle', 0.023601819]
+[u'web_site', 0.71740806, u'hand-held_computer', 0.046572443, u'cash_machine', 0.026276603, u'laptop', 0.018218603, u'stopwatch', 0.014809684]
+[u'rubber_eraser', 0.27492163, u'lighter', 0.085696407, u'whistle', 0.065060854, u'switch', 0.049282316, u'lipstick', 0.038778834]
+[u'chime', 0.49279571, u'slide_rule', 0.10755002, u'screwdriver', 0.067635931, u'rule', 0.037497573, u'organ', 0.026894854]
+[u'loudspeaker', 0.2169901, u'gong', 0.13066842, u'forklift', 0.079369366, u'disk_brake', 0.077412643, u'tractor', 0.046896618]

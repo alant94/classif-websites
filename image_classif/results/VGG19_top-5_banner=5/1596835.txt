@@ -1,0 +1,4 @@
+[u'cocktail_shaker', 0.36497852, u'suit', 0.042003702, u'Windsor_tie', 0.039327055, u'breastplate', 0.037595775, u'cuirass', 0.028910283]
+[u'dumbbell', 0.086873256, u'monitor', 0.058727086, u'Angora', 0.052976377, u'candle', 0.041410953, u'shower_cap', 0.037146371]
+[u'dumbbell', 0.12307851, u'suit', 0.11781297, u'punching_bag', 0.10496905, u'barbell', 0.072339565, u'parallel_bars', 0.065352976]
+[u'African_hunting_dog', 0.030424111, u'Indian_cobra', 0.019387746, u'tobacco_shop', 0.015194161, u'Chihuahua', 0.014831253, u'English_foxhound', 0.013671909]

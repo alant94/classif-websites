@@ -1,0 +1,4 @@
+[u'mask', 0.13465571, u'electric_guitar', 0.072638229, u'bulletproof_vest', 0.047340147, u'sax', 0.044778135, u'purse', 0.037760139]
+[u'comic_book', 0.35933703, u'book_jacket', 0.12592462, u'military_uniform', 0.075736746, u'toyshop', 0.037833035, u'jigsaw_puzzle', 0.037323076]
+[u'comic_book', 0.66502196, u'book_jacket', 0.11906438, u'corkscrew', 0.039992746, u'hair_slide', 0.02843949, u'tray', 0.015625728]
+[u'street_sign', 0.17168853, u'book_jacket', 0.12600347, u'comic_book', 0.073902689, u'tobacco_shop', 0.033571474, u'hair_spray', 0.028903998]

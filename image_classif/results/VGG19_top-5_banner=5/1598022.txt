@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.16467097, u'bathtub', 0.093107715, u'tub', 0.061376479, u'hamster', 0.057208322, u'diaper', 0.05051494]
+[u'tripod', 0.24975033, u'crane', 0.18304005, u'matchstick', 0.11083555, u'analog_clock', 0.046675548, u'nail', 0.035049036]
+[u'tub', 0.64890599, u'swimming_trunks', 0.111398, u'bikini', 0.047064319, u'stingray', 0.045872342, u'bathtub', 0.03253134]
+[u'tub', 0.40154913, u'bathtub', 0.14208828, u'fur_coat', 0.059842773, u'bath_towel', 0.047070634, u'Samoyed', 0.040835228]
+[u'Mexican_hairless', 0.10623124, u'hand_blower', 0.017972775, u'Pomeranian', 0.015271374, u'bow_tie', 0.015238822, u'Chihuahua', 0.014668735]

@@ -1,0 +1,1 @@
+[u'web_site', 0.13884152, u'envelope', 0.052328628, u'Windsor_tie', 0.016781939, u'matchstick', 0.013887281, u'pedestal', 0.010081433]

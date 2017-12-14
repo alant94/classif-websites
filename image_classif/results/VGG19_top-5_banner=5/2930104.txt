@@ -1,0 +1,6 @@
+[u'envelope', 0.015392545, u'cleaver', 0.015176738, u'letter_opener', 0.012442954, u'hatchet', 0.012228007, u'syringe', 0.011241138]
+[u'greenhouse', 0.23425427, u'sarong', 0.090219021, u'poncho', 0.041622471, u'picket_fence', 0.033951145, u'barrow', 0.030219961]
+[u'picket_fence', 0.90984428, u'worm_fence', 0.043700144, u'lab_coat', 0.0092133284, u'torch', 0.0039072824, u'pajama', 0.0016261211]
+[u"potter's_wheel", 0.15652595, u'candle', 0.07073988, u'lab_coat', 0.051269338, u'restaurant', 0.050856147, u'dough', 0.034645543]
+[u'ear', 0.095930852, u'croquet_ball', 0.037918236, u'maze', 0.03335559, u'corn', 0.032377899, u'rapeseed', 0.024135593]
+[u'mountain_bike', 0.56519347, u'unicycle', 0.41147062, u'bicycle-built-for-two', 0.0031928956, u'alp', 0.0020533123, u'totem_pole', 0.0014385593]

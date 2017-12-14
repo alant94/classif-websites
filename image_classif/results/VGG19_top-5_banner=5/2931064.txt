@@ -1,0 +1,2 @@
+[u'screwdriver', 0.13612786, u"carpenter's_kit", 0.041666683, u'spatula', 0.039270997, u'rule', 0.037736166, u'paintbrush', 0.036269531]
+[u'web_site', 0.30189741, u'digital_clock', 0.070271984, u'desk', 0.069646999, u'envelope', 0.051055741, u'monitor', 0.038899567]

@@ -1,0 +1,2 @@
+[u'long-horned_beetle', 0.16423935, u'bow', 0.055863641, u'electric_guitar', 0.048827723, u'hair_slide', 0.042769868, u'spotted_salamander', 0.027762307]
+[u'shower_curtain', 0.21716601, u'vending_machine', 0.095276646, u'water_bottle', 0.085011482, u'shoe_shop', 0.062717862, u'pop_bottle', 0.039870456]

@@ -1,0 +1,7 @@
+[u'jellyfish', 0.097512163, u'nail', 0.026454834, u'binder', 0.021925291, u'web_site', 0.021880914, u'parachute', 0.01687967]
+[u'whistle', 0.059468839, u'bell_cote', 0.048547953, u'syringe', 0.032518435, u'lighter', 0.031062528, u'dumbbell', 0.027453305]
+[u'ski', 0.50053138, u'toilet_seat', 0.14956872, u'wooden_spoon', 0.079356596, u'spatula', 0.059670191, u'comic_book', 0.040109064]
+[u'wreck', 0.24651583, u'nail', 0.12866119, u'chain', 0.074212201, u'hook', 0.049467251, u'rotisserie', 0.042915985]
+[u'wardrobe', 0.77064842, u'butcher_shop', 0.067520626, u'vestment', 0.0196553, u'cleaver', 0.015251061, u'ski', 0.011154676]
+[u'spatula', 0.10920137, u'paddle', 0.088356785, u'racket', 0.05310503, u'digital_watch', 0.039259702, u'can_opener', 0.036027245]
+[u'sweatshirt', 0.13889572, u'swab', 0.091805428, u'ski', 0.068648092, u'poncho', 0.060810171, u'crutch', 0.048639022]

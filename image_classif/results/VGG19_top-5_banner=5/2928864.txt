@@ -1,0 +1,7 @@
+[u'envelope', 0.15538341, u'web_site', 0.15352751, u'book_jacket', 0.077795722, u'padlock', 0.021364516, u'Band_Aid', 0.01340575]
+[u'kimono', 0.79082203, u'sarong', 0.022118708, u'stretcher', 0.019320294, u'sleeping_bag', 0.013526273, u'flagpole', 0.013464252]
+[u'fire_engine', 0.43631098, u'trailer_truck', 0.20603544, u'garbage_truck', 0.13926676, u'racer', 0.028536726, u'jeep', 0.020486386]
+[u'sleeping_bag', 0.045378499, u'stretcher', 0.044717126, u'pug', 0.03487828, u'bonnet', 0.024947932, u'stethoscope', 0.023628088]
+[u'ambulance', 0.98132026, u'police_van', 0.018220508, u'fire_engine', 0.00026527653, u'tow_truck', 6.4786684e-05, u'minibus', 4.5467074e-05]
+[u'bicycle-built-for-two', 0.21961358, u'jinrikisha', 0.095572814, u'stretcher', 0.084311388, u'tricycle', 0.081502005, u'shopping_cart', 0.064098798]
+[u'whistle', 0.54508036, u'stethoscope', 0.18854584, u'hair_spray', 0.042521425, u'pay-phone', 0.019549157, u'lab_coat', 0.015102363]

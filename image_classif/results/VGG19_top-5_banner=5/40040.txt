@@ -1,0 +1,3 @@
+[u'switch', 0.26770231, u'panpipe', 0.24038091, u'wall_clock', 0.19723268, u'matchstick', 0.026765775, u'pencil_sharpener', 0.024604982]
+[u'picket_fence', 0.12215805, u'digital_clock', 0.080509908, u'web_site', 0.056496218, u'envelope', 0.052352335, u'analog_clock', 0.041756421]
+[u'digital_clock', 0.16221599, u'traffic_light', 0.11141375, u'switch', 0.085371591, u'container_ship', 0.076516092, u'panpipe', 0.036694832]

@@ -1,0 +1,6 @@
+[u'picket_fence', 0.40332755, u'envelope', 0.046225328, u'carton', 0.038668908, u'crib', 0.036390014, u'radiator', 0.035239831]
+[u'envelope', 0.48902053, u'web_site', 0.12202746, u'panpipe', 0.031777956, u'Band_Aid', 0.028461654, u'rule', 0.01936041]
+[u'palace', 0.38118631, u'mosque', 0.070880495, u'cinema', 0.061528068, u'monastery', 0.054946944, u'picket_fence', 0.050123703]
+[u'quilt', 0.17009287, u'digital_clock', 0.092452452, u'crossword_puzzle', 0.089422435, u'Windsor_tie', 0.087249309, u'container_ship', 0.070858479]
+[u'megalith', 0.37126729, u'cougar', 0.078548014, u'ice_bear', 0.053936038, u'mongoose', 0.044145964, u'meerkat', 0.043197352]
+[u'ox', 0.29304087, u'oxcart', 0.16067302, u'horse_cart', 0.14486128, u'cowboy_hat', 0.094672047, u'sorrel', 0.044178151]

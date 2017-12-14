@@ -1,0 +1,2 @@
+[u'cliff', 0.11647379, u'groom', 0.087801471, u'bald_eagle', 0.026172396, u'fountain', 0.025476547, u'valley', 0.016335946]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

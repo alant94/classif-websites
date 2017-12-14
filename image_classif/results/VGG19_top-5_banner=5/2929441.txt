@@ -1,0 +1,4 @@
+[u'book_jacket', 0.63896745, u'brass', 0.10917639, u'menu', 0.038054682, u'packet', 0.02856876, u'binder', 0.025656909]
+[u'book_jacket', 0.49432907, u'web_site', 0.462093, u'envelope', 0.013902316, u'binder', 0.0051339571, u'menu', 0.0035895547]
+[u'carton', 0.13404493, u'cash_machine', 0.045332152, u'volleyball', 0.044782382, u'digital_clock', 0.041003942, u'book_jacket', 0.033196945]
+[u'book_jacket', 0.53232729, u'brass', 0.2872071, u'menu', 0.068997636, u'packet', 0.050019469, u'web_site', 0.014051021]

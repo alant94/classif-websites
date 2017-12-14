@@ -1,0 +1,4 @@
+[u'mosque', 0.58876723, u'fountain', 0.15461431, u'monastery', 0.1502053, u'church', 0.045924459, u'dome', 0.021646928]
+[u'shield', 0.55530715, u'bow', 0.088940695, u'wall_clock', 0.079156809, u'bolo_tie', 0.026433758, u'analog_clock', 0.023693938]
+[u'altar', 0.61064827, u'church', 0.1097438, u'grand_piano', 0.055343818, u'throne', 0.039862581, u'dining_table', 0.029958]
+[u'church', 0.82451588, u'bell_cote', 0.086800046, u'monastery', 0.081343509, u'beacon', 0.003495994, u'birdhouse', 0.0011790055]

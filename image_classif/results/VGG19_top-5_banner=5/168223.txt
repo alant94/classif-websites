@@ -1,0 +1,2 @@
+[u'nipple', 0.17652003, u'pencil_sharpener', 0.1259833, u"carpenter's_kit", 0.11988814, u'can_opener', 0.10473607, u'safety_pin', 0.097497471]
+[u'oscilloscope', 0.085528016, u'jersey', 0.078375228, u'analog_clock', 0.055551667, u'digital_clock', 0.04206774, u'hook', 0.037983589]

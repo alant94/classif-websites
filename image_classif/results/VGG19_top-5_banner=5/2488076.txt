@@ -1,0 +1,1 @@
+[u'traffic_light', 0.38533726, u'cinema', 0.19244231, u'coil', 0.060519151, u'matchstick', 0.045628916, u'hook', 0.039524779]

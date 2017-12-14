@@ -1,0 +1,5 @@
+[u'assault_rifle', 0.48551884, u'rifle', 0.23882411, u'hartebeest', 0.088833451, u'military_uniform', 0.071314842, u'bow', 0.033510704]
+[u'lab_coat', 0.21520086, u'cleaver', 0.16102543, u'vestment', 0.10629012, u'pajama', 0.056405969, u'butcher_shop', 0.041576795]
+[u'lakeside', 0.1173072, u'barn', 0.10213261, u'hay', 0.095629826, u'seashore', 0.071204893, u'geyser', 0.04301732]
+[u'prayer_rug', 0.54003787, u'book_jacket', 0.070698857, u'borzoi', 0.045977827, u'Persian_cat', 0.0357408, u'West_Highland_white_terrier', 0.024157804]
+[u'puck', 0.42177877, u'face_powder', 0.1389863, u'bottlecap', 0.10019423, u'magnetic_compass', 0.091779314, u'sundial', 0.053418528]

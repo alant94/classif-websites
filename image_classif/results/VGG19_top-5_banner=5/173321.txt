@@ -1,0 +1,5 @@
+[u'lighter', 0.21434198, u'perfume', 0.16652344, u'envelope', 0.15041544, u'lipstick', 0.066606365, u'measuring_cup', 0.052455477]
+[u'harp', 0.1942686, u'bow', 0.15989536, u'chime', 0.064006008, u'gong', 0.052897274, u'vacuum', 0.043235466]
+[u'shield', 0.67405587, u'hatchet', 0.062298402, u'letter_opener', 0.035506818, u'cleaver', 0.02786194, u'pick', 0.024817415]
+[u'packet', 0.23611125, u'puck', 0.18472168, u'beer_bottle', 0.045439444, u'shield', 0.038154263, u'beer_glass', 0.035669621]
+[u'birdhouse', 0.38076442, u'envelope', 0.11490609, u'pinwheel', 0.083039433, u'crib', 0.07532607, u'apron', 0.044279292]

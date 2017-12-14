@@ -1,0 +1,3 @@
+[u'maze', 0.32307792, u'basketball', 0.19333212, u'volleyball', 0.05803084, u'balance_beam', 0.053590372, u'parallel_bars', 0.043590192]
+[u'moving_van', 0.16789451, u'Model_T', 0.13439505, u'lumbermill', 0.060243774, u'rotisserie', 0.046427619, u'mobile_home', 0.034928557]
+[u'stage', 0.47132969, u'spotlight', 0.062340807, u'screen', 0.028391561, u'television', 0.026519427, u'electric_guitar', 0.024574233]

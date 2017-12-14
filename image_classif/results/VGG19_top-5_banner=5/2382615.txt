@@ -1,0 +1,1 @@
+[u'cash_machine', 0.42229912, u'iron', 0.054068021, u'combination_lock', 0.050206754, u'remote_control', 0.048498165, u'cinema', 0.035704009]

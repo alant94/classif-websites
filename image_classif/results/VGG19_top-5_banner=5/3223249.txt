@@ -1,0 +1,4 @@
+[u'ski', 0.47562113, u'bow', 0.14436249, u'paintbrush', 0.071347691, u'rifle', 0.056856982, u'bearskin', 0.038068034]
+[u'totem_pole', 0.16950892, u'castle', 0.081472747, u'mosque', 0.030523639, u'mask', 0.030099418, u'vestment', 0.028130542]
+[u'comic_book', 0.34777042, u'web_site', 0.12015908, u'ocarina', 0.05557536, u'slot', 0.025074597, u'laptop', 0.01808941]
+[u'butcher_shop', 0.57900697, u'stole', 0.079840459, u'fur_coat', 0.026902698, u'coho', 0.026587522, u'poncho', 0.022596588]

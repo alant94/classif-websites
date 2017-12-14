@@ -1,0 +1,6 @@
+[u'digital_clock', 0.14581241, u'wall_clock', 0.12123527, u'shower_curtain', 0.11278389, u'envelope', 0.025379995, u'rule', 0.024675461]
+[u'organ', 0.092078067, u'chime', 0.072874561, u'picket_fence', 0.060434952, u'wall_clock', 0.059340239, u'ballpoint', 0.045169681]
+[u'chime', 0.20945217, u'ballpoint', 0.17791884, u'rubber_eraser', 0.092280544, u'paintbrush', 0.073981181, u'rule', 0.039154705]
+[u'matchstick', 0.13212016, u'rubber_eraser', 0.11252512, u'ballpoint', 0.063885815, u'rule', 0.059697814, u'wall_clock', 0.053782605]
+[u'wall_clock', 0.086643122, u'picket_fence', 0.064342678, u'matchstick', 0.06057445, u'rubber_eraser', 0.046914626, u'digital_clock', 0.043677408]
+[u'picket_fence', 0.16523865, u'matchstick', 0.12597889, u'organ', 0.080305375, u'rubber_eraser', 0.071839161, u'ballpoint', 0.041842014]

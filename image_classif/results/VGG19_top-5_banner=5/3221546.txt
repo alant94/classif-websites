@@ -1,0 +1,7 @@
+[u'ski', 0.2017303, u'swab', 0.14449292, u'West_Highland_white_terrier', 0.13335161, u'theater_curtain', 0.061789103, u'wardrobe', 0.046726786]
+[u'toyshop', 0.8723712, u'wig', 0.015762584, u'comic_book', 0.012167243, u'shoe_shop', 0.010696826, u'china_cabinet', 0.0045648445]
+[u'scoreboard', 0.35598806, u'barbershop', 0.1061163, u'menu', 0.042764544, u'chainlink_fence', 0.041596521, u'prison', 0.040648945]
+[u'butcher_shop', 0.50991702, u'wardrobe', 0.20909975, u'shoe_shop', 0.078007333, u'cleaver', 0.058122579, u'ski', 0.018258026]
+[u'web_site', 0.073440798, u'sweatshirt', 0.070311494, u'Band_Aid', 0.068946257, u'envelope', 0.05488912, u'carton', 0.041221689]
+[u'digital_clock', 0.089598566, u'laptop', 0.041059785, u'iPod', 0.037706096, u'jersey', 0.03702819, u'street_sign', 0.028019987]
+[u'candle', 0.092313543, u'shoe_shop', 0.066801943, u'hair_spray', 0.041658822, u'mitten', 0.031872265, u'wig', 0.027576361]

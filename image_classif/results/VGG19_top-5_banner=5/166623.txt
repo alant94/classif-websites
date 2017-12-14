@@ -1,0 +1,1 @@
+[u'corkscrew', 0.061854914, u'wall_clock', 0.05480985, u'web_site', 0.043417394, u'binder', 0.043044034, u'screw', 0.03954922]

@@ -1,0 +1,2 @@
+[u'analog_clock', 0.059304766, u'loudspeaker', 0.053595278, u'cinema', 0.051362604, u'gong', 0.047080349, u'church', 0.044318311]
+[u'street_sign', 0.21577495, u'doormat', 0.084198564, u'Band_Aid', 0.080631904, u'matchstick', 0.06547305, u'digital_clock', 0.051594794]

@@ -1,0 +1,6 @@
+[u'nematode', 0.28938422, u'toilet_seat', 0.18545227, u'Petri_dish', 0.12250004, u'bubble', 0.045448162, u'tray', 0.039390456]
+[u'nematode', 0.26535952, u'Petri_dish', 0.14820375, u'toilet_seat', 0.10697941, u'bubble', 0.047915202, u'spotlight', 0.022837317]
+[u'bassoon', 0.359597, u'sax', 0.34541202, u'oboe', 0.13097352, u'bearskin', 0.018659187, u'flute', 0.015173364]
+[u'tusker', 0.3657921, u'African_elephant', 0.3211706, u'Indian_elephant', 0.19879124, u'turnstile', 0.022888448, u'American_black_bear', 0.017884303]
+[u'web_site', 0.4073137, u'vending_machine', 0.16887072, u'sliding_door', 0.092306249, u'library', 0.01169577, u'Windsor_tie', 0.011585054]
+[u'stone_wall', 0.14446995, u'barn', 0.085093714, u'rapeseed', 0.073529214, u'lakeside', 0.063224912, u'worm_fence', 0.062053379]

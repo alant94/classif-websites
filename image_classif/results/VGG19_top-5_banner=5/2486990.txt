@@ -1,0 +1,6 @@
+[u'digital_clock', 0.31224892, u'scoreboard', 0.044084258, u'street_sign', 0.031204514, u'web_site', 0.029018326, u'wall_clock', 0.0173961]
+[u'digital_clock', 0.19294447, u'container_ship', 0.17056584, u'jigsaw_puzzle', 0.045933448, u'scoreboard', 0.042287394, u'space_shuttle', 0.030561572]
+[u'digital_watch', 0.21747167, u'digital_clock', 0.1063918, u'balloon', 0.086166926, u'lampshade', 0.064036235, u'spotlight', 0.049259502]
+[u'digital_clock', 0.10264399, u'envelope', 0.04698154, u'traffic_light', 0.043066043, u'wall_clock', 0.025257042, u'web_site', 0.025161631]
+[u'digital_clock', 0.25400153, u'digital_watch', 0.13317868, u'matchstick', 0.043876626, u'traffic_light', 0.032464247, u'spotlight', 0.030020826]
+[u'cliff', 0.22690134, u'stone_wall', 0.097941294, u'ibex', 0.049230088, u'alp', 0.048152037, u'military_uniform', 0.047701515]

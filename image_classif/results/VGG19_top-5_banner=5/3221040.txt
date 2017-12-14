@@ -1,0 +1,7 @@
+[u'envelope', 0.75692201, u'menu', 0.12805161, u'binder', 0.069983251, u'web_site', 0.033308599, u'rule', 0.0015319749]
+[u'street_sign', 0.35686266, u'airship', 0.14796427, u'cash_machine', 0.024841936, u'rugby_ball', 0.021087782, u'Band_Aid', 0.021029754]
+[u'barrel', 0.34529671, u'cash_machine', 0.13694905, u'theater_curtain', 0.050164439, u'caldron', 0.032255758, u'book_jacket', 0.024506439]
+[u'matchstick', 0.4476645, u'space_shuttle', 0.11245975, u'panpipe', 0.065691568, u'candle', 0.058778964, u'picket_fence', 0.041656066]
+[u'pick', 0.175735, u'book_jacket', 0.12933984, u'rubber_eraser', 0.11530348, u'pill_bottle', 0.084966116, u'sunscreen', 0.073604517]
+[u'book_jacket', 0.24157979, u'cash_machine', 0.15060318, u'freight_car', 0.08644975, u'scoreboard', 0.076422594, u'barbershop', 0.042384423]
+[u'maze', 0.2902374, u'digital_clock', 0.13517465, u'tray', 0.10639182, u'screen', 0.078210928, u'digital_watch', 0.052930206]

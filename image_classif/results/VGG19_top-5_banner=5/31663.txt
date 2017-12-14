@@ -1,0 +1,1 @@
+[u'web_site', 0.13143207, u'hand-held_computer', 0.033309888, u'stopwatch', 0.021119248, u'analog_clock', 0.015694931, u'book_jacket', 0.015213693]

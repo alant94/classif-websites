@@ -1,0 +1,4 @@
+[u'envelope', 0.55754012, u'rubber_eraser', 0.068839565, u'binder', 0.037872411, u'rule', 0.015713023, u'harmonica', 0.015447877]
+[u'hair_spray', 0.24587299, u'pop_bottle', 0.19892669, u'scoreboard', 0.13118267, u'vending_machine', 0.05048117, u'barbershop', 0.041168947]
+[u'spotlight', 0.98161948, u'washer', 0.0084746461, u'projector', 0.0029206122, u'loupe', 0.002213446, u'microphone', 0.00044877458]
+[u'analog_clock', 0.25858971, u'upright', 0.12142231, u'street_sign', 0.075990438, u'wall_clock', 0.06826397, u'bannister', 0.052653104]

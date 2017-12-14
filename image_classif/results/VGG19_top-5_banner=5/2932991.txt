@@ -1,0 +1,5 @@
+[u'picket_fence', 0.08374951, u'chime', 0.073494658, u'plate_rack', 0.056534234, u'birdhouse', 0.043678522, u'medicine_chest', 0.031085204]
+[u'screw', 0.042591624, u'hair_slide', 0.034315497, u'nail', 0.027213819, u'screwdriver', 0.023976475, u'Newfoundland', 0.017657897]
+[u'cash_machine', 0.63121754, u'sliding_door', 0.10716794, u'pay-phone', 0.028752364, u'gas_pump', 0.022844128, u'turnstile', 0.012916779]
+[u'container_ship', 0.93545932, u'crane', 0.044894937, u'drilling_platform', 0.0053725927, u'beacon', 0.0019165943, u'lifeboat', 0.0019046903]
+[u'safe', 0.26822805, u'envelope', 0.088462427, u'scale', 0.066191636, u'container_ship', 0.05384782, u'oscilloscope', 0.051480681]

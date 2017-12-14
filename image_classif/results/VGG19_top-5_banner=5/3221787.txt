@@ -1,0 +1,1 @@
+[u'envelope', 0.4027617, u'medicine_chest', 0.12154575, u'web_site', 0.083230458, u'syringe', 0.051629607, u'cash_machine', 0.034567539]

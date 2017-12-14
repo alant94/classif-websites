@@ -1,0 +1,2 @@
+[u'refrigerator', 0.41385928, u'binder', 0.17209415, u'envelope', 0.093303278, u'vase', 0.080862463, u'carton', 0.039297376]
+[u'hamper', 0.18949068, u'pot', 0.1691066, u'shopping_basket', 0.080965206, u'vase', 0.073494397, u'grocery_store', 0.060272958]

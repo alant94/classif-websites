@@ -1,0 +1,4 @@
+[u'traffic_light', 0.11121735, u'container_ship', 0.073376857, u'airship', 0.058954254, u'digital_clock', 0.057740744, u'switch', 0.050458163]
+[u'comic_book', 0.7593559, u'book_jacket', 0.094208531, u'shield', 0.046470691, u'web_site', 0.017884655, u'tray', 0.017184569]
+[u'airship', 0.074095033, u'digital_clock', 0.072776407, u'wall_clock', 0.030830692, u'traffic_light', 0.027514301, u'container_ship', 0.026798679]
+[u'magnetic_compass', 0.22991617, u'bolo_tie', 0.098474361, u'spotlight', 0.078593016, u'tripod', 0.070118397, u'electric_fan', 0.057205778]

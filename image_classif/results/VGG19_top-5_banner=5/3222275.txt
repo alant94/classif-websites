@@ -1,0 +1,6 @@
+[u'laptop', 0.20184693, u'library', 0.19829807, u'notebook', 0.077471189, u'restaurant', 0.075353362, u'projector', 0.048268989]
+[u'scoreboard', 0.47533605, u'crossword_puzzle', 0.086706951, u'book_jacket', 0.07074146, u'digital_clock', 0.046472002, u'street_sign', 0.027721001]
+[u'laptop', 0.55248713, u'notebook', 0.23296018, u'projector', 0.020563459, u'restaurant', 0.019072052, u'ocarina', 0.017673956]
+[u'croquet_ball', 0.47715411, u'golf_ball', 0.18854478, u'racket', 0.056156553, u'soccer_ball', 0.032033067, u'umbrella', 0.030894546]
+[u'shoe_shop', 0.29809001, u'restaurant', 0.036690827, u'altar', 0.033939894, u'monitor', 0.032421257, u'desk', 0.028942822]
+[u'lab_coat', 0.12234289, u'candle', 0.11127566, u'restaurant', 0.09735138, u'marimba', 0.08318428, u'dining_table', 0.067738429]

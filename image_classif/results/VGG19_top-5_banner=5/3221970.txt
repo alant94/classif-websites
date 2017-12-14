@@ -1,0 +1,4 @@
+[u'torch', 0.14426057, u'pole', 0.087721661, u'book_jacket', 0.061722111, u'maypole', 0.060794845, u'fountain', 0.051221885]
+[u'pole', 0.42261136, u'paddle', 0.066730022, u'swimming_trunks', 0.064589523, u'shovel', 0.033055782, u'snorkel', 0.023212502]
+[u'balance_beam', 0.35462075, u'volleyball', 0.1669313, u'bathing_cap', 0.14080074, u'knee_pad', 0.063827991, u'maillot', 0.060893826]
+[u'torch', 0.18392581, u'fountain', 0.074083656, u'flagpole', 0.039955854, u'matchstick', 0.038263392, u'picket_fence', 0.031032657]

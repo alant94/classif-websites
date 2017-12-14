@@ -1,0 +1,7 @@
+[u'ski', 0.4707534, u'bow', 0.094078153, u'sliding_door', 0.085978486, u'wardrobe', 0.037571821, u'swab', 0.031895246]
+[u'stretcher', 0.035725158, u'Loafer', 0.035621054, u'cowboy_boot', 0.031120969, u'sleeping_bag', 0.029764932, u'rotisserie', 0.021179006]
+[u'dumbbell', 0.3884626, u'barbell', 0.11314625, u'joystick', 0.098610379, u'bulletproof_vest', 0.080286741, u'knee_pad', 0.063888676]
+[u'comic_book', 0.19336173, u'toyshop', 0.17294922, u'chain_saw', 0.14038578, u'crate', 0.046517454, u'backpack', 0.030131642]
+[u'stretcher', 0.059539169, u'home_theater', 0.049744513, u'bulletproof_vest', 0.037078895, u'military_uniform', 0.035050925, u'gasmask', 0.034930892]
+[u'croquet_ball', 0.70403248, u'maypole', 0.030697662, u'stretcher', 0.02207192, u'soccer_ball', 0.020554887, u'golf_ball', 0.01571643]
+[u'upright', 0.090140648, u'hoopskirt', 0.061095227, u'barber_chair', 0.055805437, u'vacuum', 0.033447251, u'bow_tie', 0.03323875]

@@ -1,0 +1,4 @@
+[u'torch', 0.56088245, u'chain_saw', 0.07021118, u'plunger', 0.024311086, u'swimming_trunks', 0.020171078, u'punching_bag', 0.020123551]
+[u'shower_curtain', 0.084919065, u'handkerchief', 0.071003675, u'prayer_rug', 0.057842981, u'book_jacket', 0.047994994, u'shoji', 0.039628718]
+[u'fountain', 0.14109744, u'cocktail_shaker', 0.061229672, u'torch', 0.056656789, u'suspension_bridge', 0.038343031, u'beer_glass', 0.031914901]
+[u'crossword_puzzle', 0.4093039, u'picket_fence', 0.16696382, u'book_jacket', 0.064888634, u'shower_curtain', 0.059145536, u'matchstick', 0.024913657]

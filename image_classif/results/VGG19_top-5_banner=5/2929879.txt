@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.24367478, u'switch', 0.10352741, u'refrigerator', 0.06498155, u"carpenter's_kit", 0.043882798, u'cleaver', 0.040514532]
+[u'cash_machine', 0.3831405, u'slot', 0.12431291, u'barbershop', 0.097410411, u'cinema', 0.063933648, u'tobacco_shop', 0.039885186]

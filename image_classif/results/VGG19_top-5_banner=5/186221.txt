@@ -1,0 +1,2 @@
+[u'screw', 0.13054971, u'nail', 0.11943297, u'hair_slide', 0.097506426, u'rubber_eraser', 0.054316167, u'coil', 0.042254966]
+[u'screwdriver', 0.063324116, u'hammer', 0.029788816, u'swab', 0.026931223, u'safety_pin', 0.024584401, u'book_jacket', 0.023962937]

@@ -1,0 +1,2 @@
+[u'broom', 0.25895095, u'swab', 0.18584049, u'cleaver', 0.10287262, u'shovel', 0.081433401, u'komondor', 0.056538001]
+[u'stinkhorn', 0.44213417, u'coral_fungus', 0.10583932, u'earthstar', 0.059384037, u'pot', 0.035694603, u'black_widow', 0.034417618]

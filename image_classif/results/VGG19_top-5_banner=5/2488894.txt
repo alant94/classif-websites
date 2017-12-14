@@ -1,0 +1,4 @@
+[u'book_jacket', 0.59961015, u'barbershop', 0.052538451, u'web_site', 0.037330348, u'shoe_shop', 0.025071925, u'brass', 0.01682362]
+[u'black_grouse', 0.67435139, u'prairie_chicken', 0.076909162, u'harvester', 0.037407503, u'steam_locomotive', 0.015594726, u'thresher', 0.012867374]
+[u'curly-coated_retriever', 0.55703783, u'flat-coated_retriever', 0.2205016, u'standard_poodle', 0.074865215, u'Gordon_setter', 0.059502251, u'Irish_water_spaniel', 0.048146199]
+[u'giant_schnauzer', 0.67925179, u'standard_schnauzer', 0.048756965, u'Bouvier_des_Flandres', 0.046983518, u'Kerry_blue_terrier', 0.029790211, u'Lakeland_terrier', 0.0171108]

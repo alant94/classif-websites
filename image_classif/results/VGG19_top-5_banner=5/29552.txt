@@ -1,0 +1,1 @@
+[u'street_sign', 0.087409526, u'web_site', 0.060344759, u'envelope', 0.036795396, u'hook', 0.036321748, u'traffic_light', 0.018226473]

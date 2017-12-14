@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.68967718, u'fountain_pen', 0.1054872, u'ballpoint', 0.068493456, u'flute', 0.036008798, u'quill', 0.019900538]

@@ -1,0 +1,4 @@
+[u'bakery', 0.12266217, u'hamper', 0.093487933, u'plate', 0.087522693, u'grocery_store', 0.074952036, u'packet', 0.048310362]
+[u'solar_dish', 0.1966735, u'birdhouse', 0.10848697, u'greenhouse', 0.068326376, u'barn', 0.058784217, u'barrow', 0.048486758]
+[u'mobile_home', 0.51885557, u'patio', 0.14537121, u'picket_fence', 0.1002771, u'mailbox', 0.034342747, u'golfcart', 0.014704728]
+[u'container_ship', 0.06912934, u'crane', 0.052360374, u'bell_cote', 0.030141948, u'traffic_light', 0.030044386, u'scoreboard', 0.029827043]

@@ -1,0 +1,4 @@
+[u'radiator', 0.23181623, u'picket_fence', 0.16906005, u'quilt', 0.13814816, u'cradle', 0.090064369, u'crib', 0.079014167]
+[u'radiator', 0.060265191, u'tripod', 0.056160934, u'nail', 0.05360565, u'bannister', 0.046363804, u'screw', 0.039268583]
+[u'crate', 0.15307181, u'hamper', 0.10271729, u'Band_Aid', 0.087699607, u'carton', 0.049437918, u'crib', 0.046144996]
+[u'packet', 0.44302896, u'oil_filter', 0.029226014, u'book_jacket', 0.025209792, u'cinema', 0.018424302, u'swab', 0.016974833]

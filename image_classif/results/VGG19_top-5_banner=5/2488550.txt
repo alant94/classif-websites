@@ -1,0 +1,5 @@
+[u'book_jacket', 0.10879091, u'coffee_mug', 0.07791321, u'hair_spray', 0.022405762, u'picket_fence', 0.02209489, u'tennis_ball', 0.021421239]
+[u'ibex', 0.082133159, u'hartebeest', 0.076405361, u'ox', 0.071378738, u'impala', 0.064198025, u'plow', 0.057458173]
+[u'warthog', 0.39391637, u'hog', 0.18407513, u'wild_boar', 0.10277472, u'grey_fox', 0.07209345, u'triceratops', 0.069426939]
+[u'ram', 0.68425834, u'bighorn', 0.23690133, u'whippet', 0.012605328, u'ibex', 0.012159575, u'Great_Dane', 0.0038030848]
+[u'brown_bear', 0.61379135, u'American_black_bear', 0.1186581, u'wombat', 0.11180455, u'badger', 0.019015774, u'wild_boar', 0.015534868]

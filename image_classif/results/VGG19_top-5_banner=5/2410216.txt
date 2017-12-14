@@ -1,0 +1,8 @@
+[u'syringe', 0.16934739, u'screw', 0.16030233, u'corkscrew', 0.11309493, u'screwdriver', 0.11014139, u'mousetrap', 0.081246175]
+[u'paintbrush', 0.17466187, u'birdhouse', 0.16387628, u'broom', 0.057762481, u'crate', 0.031176275, u'cleaver', 0.030430095]
+[u'wall_clock', 0.17620179, u'comic_book', 0.10419623, u'analog_clock', 0.090219229, u'book_jacket', 0.046688445, u'slot', 0.041772678]
+[u'palace', 0.55642718, u'lakeside', 0.093503729, u'dock', 0.065072007, u'drilling_platform', 0.035474919, u'stupa', 0.022636903]
+[u'digital_clock', 0.087451473, u'Band_Aid', 0.034112193, u'envelope', 0.029734422, u'wall_clock', 0.028165022, u'Windsor_tie', 0.015242123]
+[u'hair_spray', 0.25842914, u'cocktail_shaker', 0.081702776, u'spatula', 0.04243378, u'plunger', 0.029528061, u'lotion', 0.027970007]
+[u'French_loaf', 0.14766815, u'bakery', 0.13993919, u'hotdog', 0.12675363, u'meat_loaf', 0.037418555, u'chocolate_sauce', 0.034287263]
+[u'Windsor_tie', 0.63582772, u'sandal', 0.19748504, u'bow_tie', 0.027763816, u'clog', 0.024179129, u'Loafer', 0.0095391842]

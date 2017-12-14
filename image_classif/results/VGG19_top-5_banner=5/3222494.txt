@@ -1,0 +1,4 @@
+[u'viaduct', 0.17460069, u'lakeside', 0.15108068, u'park_bench', 0.09739317, u'picket_fence', 0.073961012, u'worm_fence', 0.054918386]
+[u'mobile_home', 0.38603613, u'picket_fence', 0.20875296, u'boathouse', 0.061709993, u'worm_fence', 0.041073427, u'church', 0.032600407]
+[u'wall_clock', 0.041241635, u'envelope', 0.025241552, u'web_site', 0.02013625, u'bee_eater', 0.012803238, u'matchstick', 0.011811304]
+[u'swab', 0.22721119, u'paintbrush', 0.17396863, u'quill', 0.097866036, u'hook', 0.040108927, u'broom', 0.032245781]

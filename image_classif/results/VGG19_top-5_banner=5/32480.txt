@@ -1,0 +1,4 @@
+[u'maillot', 0.091792397, u'racket', 0.079579934, u'balance_beam', 0.056328788, u'unicycle', 0.053093508, u'overskirt', 0.044736318]
+[u'window_shade', 0.17208815, u'sliding_door', 0.086703293, u'mosquito_net', 0.077002518, u'desk', 0.076401241, u'shower_curtain', 0.064897403]
+[u'water_bottle', 0.90490842, u'nipple', 0.022691304, u'lotion', 0.014615034, u'syringe', 0.01266767, u'medicine_chest', 0.0098178079]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

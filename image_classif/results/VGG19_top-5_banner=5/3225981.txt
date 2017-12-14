@@ -1,0 +1,5 @@
+[u'toyshop', 0.36777049, u'confectionery', 0.18974546, u'ballpoint', 0.10777213, u'vending_machine', 0.038942002, u'hair_spray', 0.036320392]
+[u'shower_curtain', 0.10588209, u'ashcan', 0.050521441, u'beaker', 0.045464896, u'beer_glass', 0.044624448, u'book_jacket', 0.0443899]
+[u'alp', 0.14609614, u'solar_dish', 0.088405915, u'boathouse', 0.076598376, u'patio', 0.037849274, u'dam', 0.036263518]
+[u'book_jacket', 0.56560433, u'street_sign', 0.036881365, u'web_site', 0.033898897, u'binder', 0.028883696, u'envelope', 0.024284929]
+[u'toyshop', 0.44692338, u'altar', 0.12323573, u'shower_curtain', 0.039917205, u'confectionery', 0.031897753, u'refrigerator', 0.023468159]

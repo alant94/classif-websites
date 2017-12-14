@@ -1,0 +1,5 @@
+[u'crane', 0.065277912, u'cinema', 0.06034733, u"carpenter's_kit", 0.058431651, u'digital_clock', 0.055873297, u'container_ship', 0.047313754]
+[u'patio', 0.34242851, u'sliding_door', 0.13697198, u'thatch', 0.095620126, u'boathouse', 0.095029585, u'lumbermill', 0.093402773]
+[u'traffic_light', 0.066363968, u'digital_clock', 0.03712922, u'beacon', 0.033509038, u'crane', 0.025058294, u'cinema', 0.023763912]
+[u'park_bench', 0.46908611, u'swing', 0.1357813, u'lakeside', 0.040524378, u'worm_fence', 0.021735253, u'chainlink_fence', 0.014148513]
+[u'throne', 0.15847558, u'lampshade', 0.11697359, u'candle', 0.041322045, u'window_shade', 0.038623713, u'jigsaw_puzzle', 0.035324011]

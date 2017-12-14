@@ -1,0 +1,4 @@
+[u'envelope', 0.098488361, u'digital_clock', 0.090054542, u'maze', 0.08566656, u'medicine_chest', 0.050338469, u'screen', 0.044018921]
+[u'Christmas_stocking', 0.066202343, u'matchstick', 0.039846856, u'tennis_ball', 0.037224524, u'golf_ball', 0.02757672, u'spotlight', 0.026984768]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'candle', 0.29085076, u'matchstick', 0.17536455, u'swab', 0.086357929, u'oscilloscope', 0.042775519, u'syringe', 0.034649063]

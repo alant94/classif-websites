@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.84089309, u'window_shade', 0.010243554, u'bookshop', 0.0048024147, u'library', 0.0044767591, u'bath_towel', 0.0042956579]
+[u'shower_curtain', 0.89038897, u'pajama', 0.027705487, u'handkerchief', 0.017646253, u'sarong', 0.012185736, u'window_shade', 0.0061013717]
+[u'shower_curtain', 0.62058276, u'window_shade', 0.048995737, u'handkerchief', 0.035077892, u'fountain', 0.028550304, u'window_screen', 0.027843228]
+[u'syringe', 0.12009994, u'wig', 0.096994653, u'safety_pin', 0.090925559, u'bikini', 0.044680752, u'lipstick', 0.039044641]
+[u'fountain', 0.20879616, u'fireboat', 0.12728336, u'shower_curtain', 0.073291548, u'theater_curtain', 0.072957367, u'window_shade', 0.061961886]

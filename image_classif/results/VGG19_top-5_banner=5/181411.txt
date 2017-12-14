@@ -1,0 +1,1 @@
+[u'wall_clock', 0.088182993, u'analog_clock', 0.080568701, u'book_jacket', 0.072926268, u'street_sign', 0.065432772, u'swab', 0.052967779]

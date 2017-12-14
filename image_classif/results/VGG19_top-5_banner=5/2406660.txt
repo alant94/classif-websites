@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.27067277, u'shower_curtain', 0.15338276, u'dishrag', 0.06862063, u'wool', 0.045800082, u'hamper', 0.027214048]

@@ -1,0 +1,6 @@
+[u'hair_spray', 0.16838257, u'miniskirt', 0.068577543, u'power_drill', 0.058085833, u'spatula', 0.051539734, u'hand_blower', 0.048963584]
+[u'groom', 0.45405298, u'gown', 0.11901169, u'bow_tie', 0.078106813, u'suit', 0.049921211, u'lab_coat', 0.028618949]
+[u'fur_coat', 0.3098138, u'stole', 0.22418503, u'wardrobe', 0.21094307, u'jean', 0.064221822, u'suit', 0.035761498]
+[u'hair_spray', 0.078942224, u'microphone', 0.074135594, u'hand_blower', 0.058496833, u'drumstick', 0.041989118, u'lipstick', 0.033300068]
+[u'scoreboard', 0.23627619, u'barbershop', 0.096105061, u'cinema', 0.063967772, u'Band_Aid', 0.058616191, u'tobacco_shop', 0.040182237]
+[u'stage', 0.75958407, u'theater_curtain', 0.22770426, u'spotlight', 0.0049058944, u'cinema', 0.0025331627, u'restaurant', 0.0014948583]

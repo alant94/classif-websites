@@ -1,0 +1,6 @@
+[u'street_sign', 0.095426589, u'oil_filter', 0.067989334, u'Band_Aid', 0.060677048, u'pill_bottle', 0.041484144, u'soap_dispenser', 0.037945624]
+[u'academic_gown', 0.19338168, u'kimono', 0.13963673, u'hoopskirt', 0.11250739, u'mortarboard', 0.095384032, u'abaya', 0.075187765]
+[u'book_jacket', 0.98069119, u'comic_book', 0.014543659, u'brass', 0.0010062178, u'menu', 0.00061152806, u'web_site', 0.00051446416]
+[u'book_jacket', 0.0988148, u'web_site', 0.053333513, u'menu', 0.038612161, u'street_sign', 0.034630984, u'comic_book', 0.029135291]
+[u'cowboy_boot', 0.087332718, u'chime', 0.085543677, u'picket_fence', 0.085136056, u'hook', 0.078834943, u'wardrobe', 0.074619673]
+[u'cello', 0.3182539, u'bassoon', 0.17383316, u'oboe', 0.13618127, u'violin', 0.12197388, u'trombone', 0.058204774]

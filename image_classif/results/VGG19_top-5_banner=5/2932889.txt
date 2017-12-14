@@ -1,0 +1,7 @@
+[u'cleaver', 0.032080118, u'envelope', 0.015689204, u'letter_opener', 0.014596477, u'hatchet', 0.014428875, u'corkscrew', 0.013640569]
+[u'loudspeaker', 0.12764327, u'analog_clock', 0.068554379, u'wall_clock', 0.059586536, u'digital_clock', 0.028519658, u'hair_spray', 0.026840881]
+[u'bow_tie', 0.24090716, u'lab_coat', 0.17519432, u'neck_brace', 0.14092453, u'coffee_mug', 0.032046832, u'pick', 0.01846092]
+[u'suit', 0.59134108, u'Windsor_tie', 0.21133934, u'lab_coat', 0.097757801, u'bow_tie', 0.025663888, u'bolo_tie', 0.022083286]
+[u'puck', 0.16588832, u'pinwheel', 0.11114286, u'knee_pad', 0.065148123, u'umbrella', 0.041508343, u'sweatshirt', 0.038244423]
+[u'stole', 0.099813409, u'backpack', 0.073005281, u'academic_gown', 0.07229618, u'wardrobe', 0.039648186, u'parachute', 0.030427003]
+[u'hen-of-the-woods', 0.37743357, u'acorn', 0.29090136, u'gyromitra', 0.065980159, u'earthstar', 0.04653383, u'buckeye', 0.036958467]

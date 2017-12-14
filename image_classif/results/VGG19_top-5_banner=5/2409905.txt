@@ -1,0 +1,2 @@
+[u'vase', 0.43958068, u'pitcher', 0.081823848, u'clog', 0.073740736, u'saltshaker', 0.046542261, u'shoe_shop', 0.03718622]
+[u'lampshade', 0.3986831, u'table_lamp', 0.34068048, u'pedestal', 0.048332639, u'vase', 0.039809667, u'pineapple', 0.032262612]

@@ -1,0 +1,2 @@
+[u'screwdriver', 0.26203179, u"carpenter's_kit", 0.08693362, u'liner', 0.081143126, u'flagpole', 0.061429668, u'parachute', 0.03608663]
+[u'comic_book', 0.39210147, u'book_jacket', 0.13787718, u'web_site', 0.10052295, u'parachute', 0.021571865, u'umbrella', 0.019954089]

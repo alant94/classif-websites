@@ -1,0 +1,8 @@
+[u'laptop', 0.21958987, u'remote_control', 0.088441864, u'notebook', 0.056555551, u'jersey', 0.049286895, u'iPod', 0.046250638]
+[u'mask', 0.75914031, u'Band_Aid', 0.058270983, u'bubble', 0.033285502, u'ski_mask', 0.029994128, u'sunscreen', 0.020189179]
+[u'toilet_seat', 0.17740954, u'paintbrush', 0.047771629, u'birdhouse', 0.036992077, u'switch', 0.035147112, u'soap_dispenser', 0.024868356]
+[u'loupe', 0.11957313, u'sunglasses', 0.086689934, u'wig', 0.045735106, u'sunglass', 0.043309599, u'seat_belt', 0.040062927]
+[u'tripod', 0.24975033, u'crane', 0.18304005, u'matchstick', 0.11083555, u'analog_clock', 0.046675548, u'nail', 0.035049036]
+[u'prison', 0.2906647, u'projector', 0.055828273, u'cinema', 0.048474945, u'vault', 0.033055115, u'home_theater', 0.025975574]
+[u'feather_boa', 0.30102411, u'studio_couch', 0.027014291, u'hoopskirt', 0.015573756, u'sleeping_bag', 0.014953878, u'umbrella', 0.014543427]
+[u'coil', 0.38119432, u'lampshade', 0.15835114, u'necklace', 0.08398889, u'stupa', 0.062503576, u'matchstick', 0.046309479]

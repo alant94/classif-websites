@@ -1,0 +1,1 @@
+[u'missile', 0.20873702, u'church', 0.15600275, u'projectile', 0.1346844, u'space_shuttle', 0.11140096, u'fountain', 0.1001557]

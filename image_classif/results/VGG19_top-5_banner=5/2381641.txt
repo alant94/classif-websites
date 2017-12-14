@@ -1,0 +1,3 @@
+[u'quill', 0.10967781, u'coucal', 0.06897188, u'gar', 0.068518043, u'swab', 0.06527894, u'cock', 0.063649006]
+[u'Windsor_tie', 0.14488253, u'solar_dish', 0.031202495, u'keeshond', 0.019434676, u'affenpinscher', 0.014053528, u'panpipe', 0.012833159]
+[u'Windsor_tie', 0.11274136, u'digital_clock', 0.053893667, u'digital_watch', 0.053018492, u'Band_Aid', 0.034371894, u'wall_clock', 0.027618209]

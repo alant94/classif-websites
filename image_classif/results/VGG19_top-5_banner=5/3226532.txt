@@ -1,0 +1,8 @@
+[u'cloak', 0.22154574, u'sleeping_bag', 0.17853692, u'abaya', 0.092560507, u'sweatshirt', 0.078637876, u'seat_belt', 0.035096161]
+[u'vestment', 0.55758715, u'shower_cap', 0.11953946, u'hoopskirt', 0.11793132, u'torch', 0.033610407, u'throne', 0.017666869]
+[u'altar', 0.28526279, u'vestment', 0.16335835, u'throne', 0.1004888, u'cloak', 0.078957133, u'abaya', 0.067131825]
+[u'candle', 0.12320653, u'pajama', 0.074927166, u'hand_blower', 0.06244994, u'neck_brace', 0.057152662, u'hair_spray', 0.05521496]
+[u'container_ship', 0.18974186, u'scoreboard', 0.15830539, u'digital_clock', 0.067702308, u'street_sign', 0.055263996, u'traffic_light', 0.025856845]
+[u'vestment', 0.92646593, u'cloak', 0.0079708043, u'academic_gown', 0.0073633329, u'barbershop', 0.0049613137, u'poncho', 0.0040052384]
+[u'lab_coat', 0.3846418, u'bow_tie', 0.080489933, u'neck_brace', 0.055273566, u'vestment', 0.041641884, u'pajama', 0.036519907]
+[u'vestment', 0.54626304, u'chain_mail', 0.095550165, u'wig', 0.062339369, u'breastplate', 0.056942381, u'throne', 0.055922873]

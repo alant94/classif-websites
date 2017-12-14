@@ -1,0 +1,2 @@
+[u'nematode', 0.062567487, u'binder', 0.030675605, u'whistle', 0.024924694, u'wall_clock', 0.02086138, u'pool_table', 0.020017557]
+[u'bathing_cap', 0.062031902, u'tennis_ball', 0.047184046, u'racket', 0.033751417, u'book_jacket', 0.030906938, u'packet', 0.028877711]

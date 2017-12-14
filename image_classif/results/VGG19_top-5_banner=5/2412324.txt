@@ -1,0 +1,1 @@
+[u'safe', 0.15038252, u'binder', 0.14212833, u'handkerchief', 0.11155589, u'monitor', 0.08934468, u'envelope', 0.070810705]

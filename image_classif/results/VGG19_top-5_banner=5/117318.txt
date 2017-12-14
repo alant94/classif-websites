@@ -1,0 +1,8 @@
+[u'oscilloscope', 0.73038656, u'monitor', 0.066814549, u'web_site', 0.037359376, u'screen', 0.033603709, u'radio', 0.027047059]
+[u'lighter', 0.17501713, u'digital_clock', 0.073458895, u'matchstick', 0.058626194, u'digital_watch', 0.052657057, u'monitor', 0.03331453]
+[u'hair_slide', 0.23674329, u'hook', 0.18211193, u'safety_pin', 0.13608553, u'coil', 0.12762247, u'matchstick', 0.018023459]
+[u'jellyfish', 0.72964489, u'monitor', 0.078929961, u'spotlight', 0.020057313, u'screen', 0.019667767, u'stage', 0.019216057]
+[u'vending_machine', 0.62878007, u'lotion', 0.054093331, u'perfume', 0.042564198, u'medicine_chest', 0.021014675, u'beer_bottle', 0.019853147]
+[u'birdhouse', 0.2222003, u'modem', 0.091976009, u'jigsaw_puzzle', 0.05827678, u'vestment', 0.031491108, u'monastery', 0.027809242]
+[u'nail', 0.27922672, u'pick', 0.098478034, u'spatula', 0.06786821, u'bolo_tie', 0.054931793, u'safety_pin', 0.044985898]
+[u'jigsaw_puzzle', 0.24814928, u'monitor', 0.23277767, u'tray', 0.18856825, u'binder', 0.038326774, u'wall_clock', 0.026803227]

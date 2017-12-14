@@ -1,0 +1,6 @@
+[u'panpipe', 0.41476142, u'pencil_sharpener', 0.26264516, u'matchstick', 0.1347318, u'wall_clock', 0.029026773, u'envelope', 0.028907707]
+[u'pencil_sharpener', 0.27300018, u'panpipe', 0.26206166, u'wall_clock', 0.15512063, u'matchstick', 0.055683933, u'switch', 0.035203718]
+[u'panpipe', 0.57677549, u'matchstick', 0.13289781, u'pencil_sharpener', 0.11713179, u'envelope', 0.037329685, u'wall_clock', 0.028132947]
+[u'container_ship', 0.99996924, u'dock', 1.7450227e-05, u'drilling_platform', 8.0544914e-06, u'liner', 2.1440485e-06, u'wreck', 1.1087147e-06]
+[u'bow_tie', 0.4099257, u'suit', 0.16866755, u'Windsor_tie', 0.15572043, u'mortarboard', 0.025615029, u'vestment', 0.025509741]
+[u'doormat', 0.63382822, u'digital_clock', 0.036182683, u'envelope', 0.03172788, u'prayer_rug', 0.019922152, u'wool', 0.018342955]

@@ -1,0 +1,2 @@
+[u'face_powder', 0.1234153, u'toilet_seat', 0.093533359, u'Petri_dish', 0.065623589, u'tray', 0.039485194, u'plate', 0.035605807]
+[u"carpenter's_kit", 0.29756227, u'screwdriver', 0.1696845, u'rule', 0.14090809, u'nail', 0.058877703, u'safety_pin', 0.042563405]

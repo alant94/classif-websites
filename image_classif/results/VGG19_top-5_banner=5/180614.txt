@@ -1,0 +1,7 @@
+[u'beaker', 0.93828744, u'lotion', 0.009890764, u'pop_bottle', 0.0092772832, u'nipple', 0.0085562086, u'water_jug', 0.006969017]
+[u'web_site', 0.72809929, u'hand-held_computer', 0.088403635, u'packet', 0.015518642, u'Band_Aid', 0.012645532, u'lotion', 0.011498125]
+[u'mountain_bike', 0.21874869, u'ski', 0.096623965, u'comic_book', 0.08397454, u'snowmobile', 0.068122141, u'book_jacket', 0.062494036]
+[u'Band_Aid', 0.36027151, u'web_site', 0.35852864, u'cassette', 0.033759613, u'packet', 0.033278938, u'oil_filter', 0.02467289]
+[u'sunscreen', 0.099906705, u'face_powder', 0.071475692, u'pill_bottle', 0.061095282, u'soap_dispenser', 0.05201837, u'rubber_eraser', 0.039583776]
+[u'modem', 0.29826587, u'screen', 0.19585188, u'binder', 0.15392204, u'web_site', 0.069262147, u'desktop_computer', 0.038488217]
+[u'web_site', 0.34485388, u'lab_coat', 0.07843674, u'book_jacket', 0.041290317, u'monitor', 0.023556272, u'notebook', 0.021690253]

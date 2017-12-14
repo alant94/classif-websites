@@ -1,0 +1,1 @@
+[u'fur_coat', 0.39768314, u'muzzle', 0.084665, u'ram', 0.072306648, u'Japanese_spaniel', 0.052158907, u'skunk', 0.047436226]

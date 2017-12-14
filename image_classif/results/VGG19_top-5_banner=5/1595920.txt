@@ -1,0 +1,6 @@
+[u'Angora', 0.13921034, u'hand_blower', 0.04112241, u'bathtub', 0.039640471, u'shower_curtain', 0.032954983, u'mosquito_net', 0.029646561]
+[u'pick', 0.58090842, u'sunglass', 0.044143748, u'bucket', 0.026690116, u'balloon', 0.022903321, u'drum', 0.020230403]
+[u'vase', 0.25537026, u'dumbbell', 0.16804162, u'saltshaker', 0.068745218, u'soap_dispenser', 0.030459411, u'toilet_tissue', 0.024394084]
+[u'container_ship', 0.42461362, u'matchstick', 0.16094458, u'maze', 0.060466625, u'digital_clock', 0.028385943, u'digital_watch', 0.023410656]
+[u'matchstick', 0.59927189, u'birdhouse', 0.039744388, u'tripod', 0.029854776, u'mousetrap', 0.024203159, u'lampshade', 0.022747235]
+[u'corkscrew', 0.12306421, u'hook', 0.047749132, u'safety_pin', 0.04447208, u'binder', 0.031180086, u'whistle', 0.026735276]

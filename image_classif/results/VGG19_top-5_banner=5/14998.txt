@@ -1,0 +1,3 @@
+[u'bucket', 0.34825554, u'cocktail_shaker', 0.23887661, u'milk_can', 0.21830615, u'ashcan', 0.05720292, u'coffeepot', 0.056338686]
+[u'binder', 0.38579804, u'book_jacket', 0.063558437, u'perfume', 0.059055358, u'digital_clock', 0.040690105, u'lighter', 0.040607341]
+[u'throne', 0.21441914, u'hair_slide', 0.10428958, u'plate_rack', 0.058573443, u'vestment', 0.050138783, u'safety_pin', 0.047118079]

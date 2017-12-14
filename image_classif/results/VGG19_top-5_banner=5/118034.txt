@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.73987681, u'binder', 0.025942178, u'candle', 0.017051775, u'confectionery', 0.013921256, u'book_jacket', 0.0085550919]
+[u'drilling_platform', 0.22787252, u'stupa', 0.13845229, u'palace', 0.084565856, u'jigsaw_puzzle', 0.073532581, u'monastery', 0.056139342]
+[u'ballpoint', 0.26956767, u'drumstick', 0.15489848, u'chime', 0.13034882, u'matchstick', 0.11049444, u'rubber_eraser', 0.048816562]

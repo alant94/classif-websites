@@ -1,0 +1,4 @@
+[u'chime', 0.48400623, u'screwdriver', 0.1205988, u'nail', 0.081457935, u'rule', 0.066044383, u'ballpoint', 0.034534905]
+[u'paintbrush', 0.40425012, u'ski', 0.12790996, u'rifle', 0.086034119, u'organ', 0.075304754, u'bow', 0.052716386]
+[u'traffic_light', 0.38287154, u'spotlight', 0.27763504, u'digital_clock', 0.04576138, u'loudspeaker', 0.03147015, u'scoreboard', 0.018166685]
+[u'digital_watch', 0.18995595, u'rugby_ball', 0.11642645, u'spotlight', 0.084999062, u'balloon', 0.057754945, u'wall_clock', 0.054552186]

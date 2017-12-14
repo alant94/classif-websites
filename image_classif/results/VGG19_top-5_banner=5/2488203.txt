@@ -1,0 +1,2 @@
+[u'great_grey_owl', 0.47560662, u'kite', 0.25458139, u'bald_eagle', 0.14884098, u'vulture', 0.063711725, u'quail', 0.010079198]
+[u'pencil_sharpener', 0.062448304, u'iron', 0.058682323, u'sewing_machine', 0.040009756, u'mousetrap', 0.039363947, u'hook', 0.037539747]

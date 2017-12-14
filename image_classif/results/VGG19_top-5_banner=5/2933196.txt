@@ -1,0 +1,1 @@
+[u'jersey', 0.22502796, u'sweatshirt', 0.049739745, u'ping-pong_ball', 0.029732643, u'acoustic_guitar', 0.024797898, u'mortarboard', 0.022715913]

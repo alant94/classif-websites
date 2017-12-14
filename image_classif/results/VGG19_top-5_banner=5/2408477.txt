@@ -1,0 +1,5 @@
+[u'matchstick', 0.49875849, u'ballpoint', 0.10045423, u'pencil_box', 0.081210315, u'screwdriver', 0.045801729, u'drumstick', 0.03787386]
+[u'doormat', 0.24134223, u'book_jacket', 0.18903881, u'digital_clock', 0.069653109, u'packet', 0.044694498, u'street_sign', 0.035707939]
+[u'doormat', 0.26073265, u'book_jacket', 0.19651292, u'screwdriver', 0.039598621, u'matchstick', 0.037623208, u'packet', 0.026468366]
+[u'matchstick', 0.31120291, u'chime', 0.22706833, u'ballpoint', 0.069435179, u'screwdriver', 0.050582755, u'rule', 0.035571497]
+[u'book_jacket', 0.28201678, u'doormat', 0.18461956, u'digital_clock', 0.028295726, u'packet', 0.026687471, u'matchstick', 0.021538911]

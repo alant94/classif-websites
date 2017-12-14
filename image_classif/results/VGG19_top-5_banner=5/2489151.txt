@@ -1,0 +1,5 @@
+[u'jigsaw_puzzle', 0.3715117, u'comic_book', 0.12720521, u'web_site', 0.080500498, u'book_jacket', 0.076682329, u'menu', 0.059027288]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.054722209, u'traffic_light', 0.047632251, u'analog_clock', 0.043364633, u'wall_clock', 0.036856402, u'screen', 0.033607233]
+[u'digital_clock', 0.57427782, u'street_sign', 0.1025002, u'analog_clock', 0.079100788, u'traffic_light', 0.029536026, u'wall_clock', 0.024713848]
+[u'magnetic_compass', 0.35401723, u'digital_watch', 0.16445504, u'spotlight', 0.091846049, u'digital_clock', 0.07582017, u'stopwatch', 0.070309959]

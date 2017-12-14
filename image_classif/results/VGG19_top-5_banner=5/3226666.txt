@@ -1,0 +1,4 @@
+[u'vending_machine', 0.26352322, u'barbershop', 0.1738279, u'pop_bottle', 0.054271773, u'comic_book', 0.05114885, u'book_jacket', 0.040415157]
+[u'miniskirt', 0.15319888, u'velvet', 0.12506102, u'cardigan', 0.085237205, u'maillot', 0.052341722, u'wig', 0.04483898]
+[u'shower_curtain', 0.095331736, u'measuring_cup', 0.079402395, u'toilet_tissue', 0.060800992, u'coffee_mug', 0.045194279, u'fountain_pen', 0.029210275]
+[u'conch', 0.36920181, u'ice_cream', 0.08537931, u'hair_spray', 0.052849997, u'bubble', 0.045324787, u'groom', 0.029253514]

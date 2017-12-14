@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.27960318, u'sliding_door', 0.14265616, u'window_shade', 0.097264782, u'picket_fence', 0.030174257, u'window_screen', 0.026918143]
+[u'medicine_chest', 0.28414321, u'binder', 0.11758952, u'book_jacket', 0.075884588, u'bookcase', 0.068573922, u'library', 0.035346363]
+[u'pill_bottle', 0.5353595, u'envelope', 0.10366774, u'toilet_seat', 0.027410194, u'spotlight', 0.023657858, u'bell_cote', 0.022654122]
+[u'chime', 0.42042428, u'picket_fence', 0.17288075, u'matchstick', 0.028907008, u'syringe', 0.024420792, u'beacon', 0.024325712]
+[u'harp', 0.10434507, u'microphone', 0.073837683, u'cello', 0.073158301, u'electric_guitar', 0.057078995, u'violin', 0.044554368]
+[u'monitor', 0.26460499, u'screen', 0.10150052, u'sliding_door', 0.062350195, u'library', 0.041898724, u'window_shade', 0.037638016]
+[u'sliding_door', 0.089270949, u'cinema', 0.083044305, u'monitor', 0.072028935, u'window_shade', 0.041992255, u'screen', 0.041066319]

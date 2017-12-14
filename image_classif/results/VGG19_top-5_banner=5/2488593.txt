@@ -1,0 +1,4 @@
+[u'gazelle', 0.27854896, u'ram', 0.15324306, u'bighorn', 0.11979636, u'ibex', 0.097096615, u'wallaby', 0.08324945]
+[u'book_jacket', 0.31421795, u'picket_fence', 0.13669632, u'prison', 0.0813559, u'web_site', 0.070759848, u'scoreboard', 0.016370263]
+[u'pedestal', 0.38968676, u'sliding_door', 0.08318647, u'washbasin', 0.043304823, u'medicine_chest', 0.041106679, u'window_shade', 0.040261619]
+[u'book_jacket', 0.54141748, u'Walker_hound', 0.053092197, u'bluetick', 0.028823666, u'shoji', 0.026244985, u'window_screen', 0.025145734]

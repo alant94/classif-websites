@@ -1,0 +1,2 @@
+[u'monitor', 0.34915936, u'screen', 0.20026343, u'television', 0.12068477, u'home_theater', 0.11546294, u'binder', 0.04514863]
+[u'jigsaw_puzzle', 0.7212308, u'monitor', 0.053845771, u'hard_disc', 0.030080844, u'screen', 0.020816471, u'television', 0.01988926]

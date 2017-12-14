@@ -1,0 +1,4 @@
+[u'maze', 0.25008696, u'digital_clock', 0.13048171, u'bottlecap', 0.099660508, u'stupa', 0.075842306, u'jigsaw_puzzle', 0.048063744]
+[u'monitor', 0.11995908, u'digital_clock', 0.063001931, u'screen', 0.054873861, u'container_ship', 0.034767151, u'television', 0.031350575]
+[u'cash_machine', 0.2374699, u'envelope', 0.14415906, u'hand_blower', 0.065045223, u'monitor', 0.054459177, u'screen', 0.041922923]
+[u'book_jacket', 0.1397475, u'Windsor_tie', 0.084612012, u'screen', 0.063280396, u'shower_cap', 0.056914952, u'sweatshirt', 0.045805164]

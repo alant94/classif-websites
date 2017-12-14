@@ -1,0 +1,1 @@
+[u'plate_rack', 0.45903534, u'wardrobe', 0.19000927, u'dishwasher', 0.06857381, u'refrigerator', 0.053942956, u'switch', 0.049898311]

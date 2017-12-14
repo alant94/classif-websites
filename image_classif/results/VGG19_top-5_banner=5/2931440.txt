@@ -1,0 +1,1 @@
+[u'crane', 0.28962675, u'container_ship', 0.28135481, u'drilling_platform', 0.11750109, u'book_jacket', 0.10380012, u'barn', 0.02680926]

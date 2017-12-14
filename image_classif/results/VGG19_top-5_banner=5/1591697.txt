@@ -1,0 +1,8 @@
+[u'convertible', 0.35055718, u'beach_wagon', 0.24592388, u'grille', 0.16534121, u'pickup', 0.14326704, u'cab', 0.031457908]
+[u'web_site', 0.13112582, u'envelope', 0.098482236, u'hatchet', 0.023276035, u'hand_blower', 0.015612735, u'jersey', 0.015551756]
+[u'jersey', 0.8861534, u'sweatshirt', 0.030394709, u'cardigan', 0.010352192, u'poncho', 0.0086800642, u'brassiere', 0.0069427928]
+[u'book_jacket', 0.16325262, u'packet', 0.08891993, u'jersey', 0.067205347, u'bottlecap', 0.043269128, u'tennis_ball', 0.037416216]
+[u'brass', 0.30903929, u'book_jacket', 0.14320534, u'sundial', 0.047853142, u'comic_book', 0.043852165, u'menu', 0.038257547]
+[u'web_site', 0.86715555, u'envelope', 0.026380487, u'menu', 0.020415893, u'slot', 0.0070827533, u'rule', 0.0053191902]
+[u'web_site', 0.59734142, u'envelope', 0.03170602, u'menu', 0.024206601, u'abaya', 0.0081538651, u'analog_clock', 0.0077708727]
+[u'picket_fence', 0.10265244, u'upright', 0.095654719, u'organ', 0.091137856, u'shopping_basket', 0.052612636, u'park_bench', 0.042666353]

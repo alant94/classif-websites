@@ -1,0 +1,7 @@
+[u'candle', 0.63175756, u'torch', 0.11156715, u'matchstick', 0.093792744, u'stove', 0.014246261, u'lighter', 0.0134183]
+[u'hay', 0.24950337, u'alp', 0.16205345, u'cliff', 0.13291068, u'valley', 0.092637107, u'megalith', 0.085210279]
+[u'scoreboard', 0.071814969, u'wall_clock', 0.06797424, u'rule', 0.065564178, u'picket_fence', 0.060922306, u'analog_clock', 0.041239157]
+[u'geyser', 0.94298959, u'fountain', 0.040462881, u'cliff', 0.0051180641, u'alp', 0.0030036829, u'valley', 0.0023946238]
+[u'geyser', 0.38763362, u'fountain', 0.31069359, u'volcano', 0.053460773, u'cliff', 0.041763861, u'torch', 0.031637296]
+[u'police_van', 0.25149402, u'minibus', 0.19221649, u'limousine', 0.056771312, u'minivan', 0.050951589, u'passenger_car', 0.04277892]
+[u'dock', 0.38152188, u'gondola', 0.25180721, u'fireboat', 0.071845375, u'paddlewheel', 0.060830683, u'pier', 0.038150277]

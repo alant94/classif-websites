@@ -1,0 +1,8 @@
+[u'academic_gown', 0.13109078, u'vestment', 0.096591853, u'cleaver', 0.047295857, u'book_jacket', 0.046940934, u'wardrobe', 0.046513136]
+[u'shoe_shop', 0.082959205, u'marimba', 0.035904843, u'hair_spray', 0.030796301, u'clog', 0.028472526, u'hand_blower', 0.026501073]
+[u'thatch', 0.49904504, u'boathouse', 0.060823735, u'beacon', 0.055824578, u'sandbar', 0.04006891, u'lakeside', 0.03908696]
+[u'suit', 0.18944152, u'altar', 0.084278606, u'vestment', 0.048387416, u'swab', 0.036025133, u'groom', 0.029184867]
+[u'butcher_shop', 0.45329949, u'street_sign', 0.089429945, u'barbershop', 0.038425211, u'grocery_store', 0.034058988, u'pay-phone', 0.026340267]
+[u'electric_guitar', 0.36503959, u'stage', 0.095428631, u'banjo', 0.074828759, u'flute', 0.049605269, u'acoustic_guitar', 0.042266436]
+[u'wardrobe', 0.16575567, u'vacuum', 0.095452778, u'iron', 0.07531669, u'vestment', 0.053568363, u'swab', 0.048260037]
+[u'cleaver', 0.21149179, u'wardrobe', 0.18003042, u'butcher_shop', 0.16554144, u'shoe_shop', 0.154247, u'paintbrush', 0.10158729]

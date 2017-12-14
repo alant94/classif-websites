@@ -1,0 +1,4 @@
+[u'oxcart', 0.17406596, u'water_buffalo', 0.110836, u'Indian_elephant', 0.052116401, u'African_elephant', 0.048345201, u'park_bench', 0.047845319]
+[u'park_bench', 0.059623901, u'swing', 0.036812019, u'barrow', 0.035656847, u'lawn_mower', 0.034238145, u'torch', 0.027701193]
+[u'impala', 0.68753392, u'hartebeest', 0.18862537, u'gazelle', 0.081125289, u'coyote', 0.0084714293, u'grey_fox', 0.0078260619]
+[u'barn', 0.096038356, u'mobile_home', 0.05840997, u'boathouse', 0.034743667, u'lakeside', 0.031942353, u'harvester', 0.027562382]

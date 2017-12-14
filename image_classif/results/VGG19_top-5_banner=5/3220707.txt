@@ -1,0 +1,6 @@
+[u'vault', 0.40568176, u'church', 0.25721493, u'altar', 0.083908275, u'organ', 0.06084463, u'theater_curtain', 0.02800595]
+[u'organ', 0.26881495, u'grand_piano', 0.21240348, u'upright', 0.16568618, u'library', 0.09044338, u'cinema', 0.022176579]
+[u'kimono', 0.83350295, u'stage', 0.056555469, u'pajama', 0.015351196, u'altar', 0.014733999, u'gown', 0.014076319]
+[u'analog_clock', 0.39044878, u'street_sign', 0.12718263, u'church', 0.060720939, u'cinema', 0.058903571, u'wall_clock', 0.055215623]
+[u'vault', 0.35786706, u'palace', 0.14148578, u'church', 0.12154617, u'monastery', 0.079819866, u'library', 0.077998884]
+[u'screen', 0.42307827, u'digital_clock', 0.1172936, u'cash_machine', 0.060416915, u'monitor', 0.05200015, u'menu', 0.04853487]

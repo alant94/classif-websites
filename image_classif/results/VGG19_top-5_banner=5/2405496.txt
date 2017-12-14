@@ -1,0 +1,4 @@
+[u'prison', 0.10963856, u'picket_fence', 0.085803159, u'chime', 0.081925847, u'flagpole', 0.056830451, u'sliding_door', 0.036675915]
+[u'fountain', 0.070750408, u'tub', 0.048459433, u'jigsaw_puzzle', 0.046610691, u'bathtub', 0.045407869, u'Norfolk_terrier', 0.025084153]
+[u'dishwasher', 0.12822506, u'sliding_door', 0.085778549, u'toilet_tissue', 0.042359572, u'refrigerator', 0.041216601, u'medicine_chest', 0.040994544]
+[u'stole', 0.12077029, u'Band_Aid', 0.061130956, u'gasmask', 0.052552432, u'bow_tie', 0.038197484, u'wig', 0.029160833]

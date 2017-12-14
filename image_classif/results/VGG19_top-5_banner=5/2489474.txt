@@ -1,0 +1,7 @@
+[u'hartebeest', 0.86734778, u'impala', 0.039663427, u'warthog', 0.03385802, u'gazelle', 0.010279226, u'ibex', 0.0081563592]
+[u'half_track', 0.16495635, u'military_uniform', 0.13536717, u'diamondback', 0.11477917, u'rock_python', 0.10154092, u'boa_constrictor', 0.054619186]
+[u'jigsaw_puzzle', 0.35878804, u'proboscis_monkey', 0.089608647, u'red_fox', 0.07145761, u'book_jacket', 0.070071816, u'television', 0.021130778]
+[u'hartebeest', 0.1832363, u'assault_rifle', 0.14020652, u'military_uniform', 0.13908717, u'warthog', 0.066383988, u'rifle', 0.034631141]
+[u'tripod', 0.20128793, u'bow', 0.13950787, u'solar_dish', 0.13115154, u'umbrella', 0.060854483, u'rifle', 0.050172638]
+[u'ibex', 0.3704485, u'hartebeest', 0.21750084, u'bighorn', 0.10218812, u'impala', 0.062421203, u'ox', 0.030564597]
+[u'ox', 0.24987787, u'oxcart', 0.11529057, u'warthog', 0.091920465, u'tusker', 0.071113862, u'water_buffalo', 0.040039752]

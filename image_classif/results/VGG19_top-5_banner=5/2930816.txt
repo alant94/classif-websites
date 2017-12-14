@@ -1,0 +1,6 @@
+[u'pick', 0.066165321, u'sombrero', 0.037479378, u'fig', 0.035698723, u'hair_slide', 0.027487841, u'cleaver', 0.025878597]
+[u'digital_clock', 0.13554356, u'hook', 0.13275291, u'street_sign', 0.097054012, u'measuring_cup', 0.048878469, u'analog_clock', 0.022339065]
+[u'diaper', 0.75610232, u'cradle', 0.087491065, u'stethoscope', 0.03448895, u'nipple', 0.034086358, u'groom', 0.010445561]
+[u'digital_clock', 0.22609234, u'Band_Aid', 0.22536945, u'street_sign', 0.12687784, u'cash_machine', 0.037024371, u'traffic_light', 0.022076163]
+[u'face_powder', 0.51294136, u'puck', 0.21843648, u'sunscreen', 0.039201953, u'bathing_cap', 0.036351781, u'golf_ball', 0.02715875]
+[u'lab_coat', 0.31686532, u'sweatshirt', 0.028224517, u'coho', 0.022677522, u'jersey', 0.021607615, u'gar', 0.020844148]

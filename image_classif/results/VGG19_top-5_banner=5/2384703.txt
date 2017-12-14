@@ -1,0 +1,3 @@
+[u'gazelle', 0.12774959, u'black_stork', 0.11555895, u'spider_monkey', 0.085104972, u'bustard', 0.053348858, u'nail', 0.049129274]
+[u'wine_bottle', 0.5948655, u'red_wine', 0.25990403, u'hair_spray', 0.025428183, u'lotion', 0.025388226, u'beer_bottle', 0.022224505]
+[u'barrel', 0.98999447, u'hay', 0.0012306076, u'viaduct', 0.0010146546, u'bakery', 0.00081046362, u'vault', 0.00075719872]

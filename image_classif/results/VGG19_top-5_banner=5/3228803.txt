@@ -1,0 +1,4 @@
+[u'picket_fence', 0.31720167, u'matchstick', 0.28397867, u'chime', 0.11585224, u'candle', 0.0874025, u'worm_fence', 0.013559944]
+[u'candle', 0.43649885, u'matchstick', 0.30175933, u'picket_fence', 0.059741776, u'quill', 0.020077424, u'torch', 0.01780628]
+[u'digital_clock', 0.32508531, u'digital_watch', 0.26837769, u'screen', 0.11040342, u'analog_clock', 0.030298205, u'stopwatch', 0.028781839]
+[u'matchstick', 0.30118129, u'candle', 0.26525217, u'broom', 0.044754926, u'swab', 0.042727713, u'picket_fence', 0.031389091]

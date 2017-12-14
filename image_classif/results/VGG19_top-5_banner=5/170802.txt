@@ -1,0 +1,2 @@
+[u'stage', 0.5576247, u'mortarboard', 0.061153531, u'unicycle', 0.060421474, u'academic_gown', 0.056167483, u'bathing_cap', 0.027194072]
+[u'book_jacket', 0.77774745, u'comic_book', 0.078734055, u'fire_screen', 0.034211814, u'sarong', 0.0060479222, u'poncho', 0.0059913904]

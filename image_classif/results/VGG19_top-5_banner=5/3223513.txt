@@ -1,0 +1,2 @@
+[u'car_wheel', 0.24169506, u'spotlight', 0.097886689, u'grille', 0.029922532, u'projector', 0.024171557, u'fountain', 0.023865027]
+[u'sliding_door', 0.5318765, u'window_shade', 0.17762938, u'abaya', 0.060703024, u'patio', 0.032341048, u'window_screen', 0.016791416]

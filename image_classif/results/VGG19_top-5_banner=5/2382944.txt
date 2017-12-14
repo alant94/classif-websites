@@ -1,0 +1,5 @@
+[u'barbershop', 0.21236552, u'punching_bag', 0.1764009, u'vending_machine', 0.16845684, u'pop_bottle', 0.089081168, u'cinema', 0.071234144]
+[u'envelope', 0.18280393, u'web_site', 0.13489661, u'analog_clock', 0.096283555, u'wall_clock', 0.058601674, u'rule', 0.044033024]
+[u'water_tower', 0.58952433, u'ashcan', 0.048374306, u'traffic_light', 0.031181937, u'trailer_truck', 0.020944297, u'breakwater', 0.014305857]
+[u'lighter', 0.23163708, u'matchstick', 0.18256827, u'candle', 0.052852221, u'digital_clock', 0.047180697, u'analog_clock', 0.037992645]
+[u'traffic_light', 0.10410166, u'streetcar', 0.094151303, u'water_tower', 0.084338911, u'trailer_truck', 0.065882713, u'cinema', 0.048915677]

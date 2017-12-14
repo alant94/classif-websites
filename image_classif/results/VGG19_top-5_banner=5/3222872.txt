@@ -1,0 +1,1 @@
+[u'digital_clock', 0.55082947, u'picket_fence', 0.071376808, u'street_sign', 0.051759239, u'book_jacket', 0.035629436, u'traffic_light', 0.028149437]

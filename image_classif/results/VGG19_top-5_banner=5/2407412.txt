@@ -1,0 +1,7 @@
+[u'maraca', 0.24113949, u'croquet_ball', 0.21027926, u'acorn', 0.11662768, u'ladle', 0.077722125, u'lampshade', 0.023780793]
+[u'bakery', 0.22506161, u'restaurant', 0.096116893, u'dining_table', 0.089347109, u'confectionery', 0.061033417, u'tray', 0.044559754]
+[u'barometer', 0.78682959, u'magnetic_compass', 0.06629394, u'Petri_dish', 0.026454138, u'wall_clock', 0.014417844, u'bottlecap', 0.011009231]
+[u'letter_opener', 0.20174997, u'harmonica', 0.18579024, u'ladle', 0.038024552, u'scabbard', 0.035010006, u'fountain_pen', 0.032165263]
+[u'toilet_seat', 0.73443621, u'toilet_tissue', 0.072543167, u'plunger', 0.044284441, u'space_shuttle', 0.020827359, u'spotlight', 0.012283666]
+[u'toyshop', 0.10187069, u'fur_coat', 0.082942761, u'wig', 0.060138572, u'hen-of-the-woods', 0.055235591, u'wool', 0.027595628]
+[u'hen-of-the-woods', 0.87486082, u'conch', 0.028174542, u'dough', 0.015864631, u'mushroom', 0.012915123, u'ice_cream', 0.0096367858]

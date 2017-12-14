@@ -1,0 +1,7 @@
+[u'web_site', 0.23301503, u'envelope', 0.22358288, u'jersey', 0.056407012, u'ski', 0.050123714, u'binder', 0.034100998]
+[u'envelope', 0.10944632, u'screw', 0.058587618, u'stupa', 0.052597601, u'panpipe', 0.050732188, u'crane', 0.045192577]
+[u'digital_watch', 0.55836159, u'loupe', 0.13338444, u'analog_clock', 0.074345328, u'digital_clock', 0.047230229, u'reflex_camera', 0.033103082]
+[u'thresher', 0.31503862, u'photocopier', 0.25781897, u'switch', 0.11464097, u'guillotine', 0.093590699, u'harvester', 0.041325688]
+[u'bottlecap', 0.15729634, u'buckeye', 0.11468834, u'nail', 0.11159747, u'screw', 0.081884138, u'coil', 0.077612519]
+[u'envelope', 0.19282092, u'web_site', 0.076331422, u'wall_clock', 0.040545303, u'digital_clock', 0.03679185, u'Band_Aid', 0.016438993]
+[u'envelope', 0.22054937, u'web_site', 0.047577348, u'wall_clock', 0.044811916, u'digital_clock', 0.035481036, u'maze', 0.023609819]

@@ -1,0 +1,2 @@
+[u'syringe', 0.015431484, u'cleaver', 0.015388421, u'corkscrew', 0.012634164, u'envelope', 0.011330504, u'letter_opener', 0.010741179]
+[u'crossword_puzzle', 0.62477839, u'digital_watch', 0.051890798, u'quilt', 0.050959989, u'maze', 0.042585768, u'digital_clock', 0.038366854]

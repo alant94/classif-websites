@@ -1,0 +1,6 @@
+[u'candle', 0.21988697, u'cup', 0.062530801, u'consomme', 0.059879791, u'wok', 0.055806514, u'caldron', 0.044341043]
+[u'mortarboard', 0.071721621, u'ice_lolly', 0.058310211, u'spatula', 0.050389003, u'suit', 0.045370329, u'bow_tie', 0.040816437]
+[u'cinema', 0.16660987, u'pool_table', 0.11905992, u'spotlight', 0.092676923, u'home_theater', 0.088517405, u'stage', 0.062659264]
+[u'vault', 0.22564206, u'cannon', 0.094055682, u'barrel', 0.056682985, u'cuirass', 0.047965147, u'isopod', 0.047758263]
+[u'volcano', 0.56943899, u'beacon', 0.075599231, u'lampshade', 0.015447162, u'wing', 0.014783002, u'balloon', 0.013050434]
+[u'stage', 0.18161371, u'lampshade', 0.07131955, u'volcano', 0.034043983, u'book_jacket', 0.032478195, u'feather_boa', 0.030548772]

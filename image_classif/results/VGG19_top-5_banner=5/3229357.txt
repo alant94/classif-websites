@@ -1,0 +1,3 @@
+[u'church', 0.96420616, u'bell_cote', 0.019962493, u'castle', 0.011039096, u'barn', 0.0016182462, u'monastery', 0.0015935191]
+[u'toilet_tissue', 0.21638581, u'paper_towel', 0.18288121, u'water_bottle', 0.048232958, u'pitcher', 0.032911707, u'whiskey_jug', 0.027184822]
+[u'book_jacket', 0.31754822, u'envelope', 0.12584123, u'binder', 0.10129565, u'digital_clock', 0.1004971, u'cash_machine', 0.029557861]

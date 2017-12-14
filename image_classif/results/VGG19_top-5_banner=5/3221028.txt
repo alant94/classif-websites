@@ -1,0 +1,3 @@
+[u'pick', 0.2080934, u'puck', 0.058939047, u'envelope', 0.056711271, u'book_jacket', 0.041492574, u'jersey', 0.036822662]
+[u'envelope', 0.077841923, u'pick', 0.055808354, u'packet', 0.051469583, u'doormat', 0.039604574, u'rubber_eraser', 0.038027644]
+[u'maypole', 0.44812751, u'obelisk', 0.084332183, u'poncho', 0.033514742, u'triumphal_arch', 0.025800636, u'bell_cote', 0.023394393]

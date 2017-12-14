@@ -1,0 +1,1 @@
+[u'handkerchief', 0.9603349, u'envelope', 0.032286514, u'jigsaw_puzzle', 0.0016923167, u'paper_towel', 0.0015690452, u'tray', 0.00091481628]

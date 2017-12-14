@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.7359969, u'fountain', 0.052187633, u'screen', 0.044075578, u'monitor', 0.025455294, u'stage', 0.018731942]
+[u'chime', 0.17567115, u'rule', 0.12253623, u'organ', 0.11256492, u'picket_fence', 0.024000878, u'bannister', 0.023380047]
+[u'puck', 0.66179854, u'face_powder', 0.052813143, u'maze', 0.030430684, u'lens_cap', 0.027960727, u'Petri_dish', 0.026491538]
+[u'picket_fence', 0.16408764, u'matchstick', 0.10362338, u'medicine_chest', 0.052020553, u'rubber_eraser', 0.039189097, u'ballpoint', 0.035264369]

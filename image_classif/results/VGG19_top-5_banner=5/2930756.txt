@@ -1,0 +1,1 @@
+[u'suit', 0.2732968, u'groom', 0.19110277, u'bow_tie', 0.059699003, u'West_Highland_white_terrier', 0.024007415, u'picket_fence', 0.01621653]

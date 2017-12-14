@@ -1,0 +1,2 @@
+[u'obelisk', 0.62282896, u'pole', 0.080123015, u'crane', 0.048642136, u'mosque', 0.041246466, u'missile', 0.025825391]
+[u'web_site', 0.34972054, u'rule', 0.078016944, u'digital_clock', 0.062936701, u'book_jacket', 0.050233174, u'matchstick', 0.029927664]

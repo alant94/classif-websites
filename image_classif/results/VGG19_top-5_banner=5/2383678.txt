@@ -1,0 +1,4 @@
+[u'pole', 0.17688787, u'worm_fence', 0.075590648, u'ear', 0.055477832, u'lakeside', 0.043944601, u'stone_wall', 0.039601829]
+[u'stone_wall', 0.1611046, u'worm_fence', 0.15932535, u'megalith', 0.066720717, u'rapeseed', 0.05406097, u'lakeside', 0.039537899]
+[u'lakeside', 0.18906868, u'worm_fence', 0.095162041, u'ear', 0.07055591, u'rapeseed', 0.050549172, u'picket_fence', 0.038511731]
+[u'swing', 0.48988816, u'bow', 0.11947228, u'worm_fence', 0.029887104, u'pole', 0.028779957, u'suspension_bridge', 0.019221388]

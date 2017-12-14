@@ -1,0 +1,1 @@
+[u'envelope', 0.093915567, u'window_screen', 0.035853893, u'window_shade', 0.035056084, u'paper_towel', 0.033623874, u'toilet_tissue', 0.027054377]

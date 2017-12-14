@@ -1,0 +1,2 @@
+[u'mountain_tent', 0.26552755, u'volcano', 0.12775679, u'snowmobile', 0.12107068, u'stretcher', 0.099664226, u'chain_saw', 0.050923798]
+[u'hartebeest', 0.75493354, u'impala', 0.05257497, u'ibex', 0.052033413, u'warthog', 0.034473885, u'ox', 0.02642181]

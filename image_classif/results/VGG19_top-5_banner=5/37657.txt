@@ -1,0 +1,5 @@
+[u'street_sign', 0.063802689, u'plate_rack', 0.054071315, u'binder', 0.033115458, u'safety_pin', 0.029494341, u'rubber_eraser', 0.025945999]
+[u'quilt', 0.43496698, u'crossword_puzzle', 0.18211563, u'prayer_rug', 0.054179695, u'Windsor_tie', 0.047507562, u'digital_watch', 0.030896813]
+[u'scoreboard', 0.31001627, u'slide_rule', 0.10442061, u'modem', 0.087366752, u'rule', 0.043568756, u'digital_clock', 0.040119678]
+[u'picket_fence', 0.55442768, u'chime', 0.057535354, u'paintbrush', 0.027678497, u'organ', 0.024060914, u'envelope', 0.02108282]
+[u'tobacco_shop', 0.52155405, u'grocery_store', 0.32733777, u'shopping_basket', 0.036187455, u'library', 0.023557218, u'bookshop', 0.016702069]

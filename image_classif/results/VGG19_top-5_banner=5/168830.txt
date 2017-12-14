@@ -1,0 +1,1 @@
+[u'traffic_light', 0.053438492, u'digital_clock', 0.05131245, u'wall_clock', 0.043152954, u'envelope', 0.042365041, u'binder', 0.032066293]

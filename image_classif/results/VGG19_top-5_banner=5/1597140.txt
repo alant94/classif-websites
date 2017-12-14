@@ -1,0 +1,5 @@
+[u'sunglass', 0.41870996, u'sunglasses', 0.34015828, u'seat_belt', 0.038495332, u'bathing_cap', 0.038450602, u'wig', 0.037624538]
+[u'diaper', 0.6079154, u'Band_Aid', 0.051283546, u'miniskirt', 0.049497861, u'sunscreen', 0.041529138, u'bikini', 0.030479513]
+[u'fireboat', 0.81764573, u'harp', 0.037304595, u'fountain', 0.022258962, u'steel_arch_bridge', 0.017309707, u'bannister', 0.010608877]
+[u'bullet_train', 0.073966466, u'mortarboard', 0.054741111, u'academic_gown', 0.054546215, u'suit', 0.049319796, u'turnstile', 0.027817201]
+[u'balance_beam', 0.064296804, u'Windsor_tie', 0.019844947, u'shower_curtain', 0.017414019, u'suit', 0.015692946, u'quilt', 0.012752867]

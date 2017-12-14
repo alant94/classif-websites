@@ -1,0 +1,2 @@
+[u'hook', 0.084332988, u'safety_pin', 0.067831643, u'bow', 0.043000575, u'punching_bag', 0.030165283, u'whistle', 0.02580609]
+[u'chime', 0.69356477, u'warplane', 0.13362698, u'space_shuttle', 0.051649287, u'airship', 0.039739918, u'birdhouse', 0.032223735]

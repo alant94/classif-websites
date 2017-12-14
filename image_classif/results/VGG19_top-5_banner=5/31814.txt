@@ -1,0 +1,3 @@
+[u'prayer_rug', 0.11812702, u'plastic_bag', 0.087270193, u'bath_towel', 0.080953866, u'handkerchief', 0.077513561, u'envelope', 0.067493662]
+[u'book_jacket', 0.20206809, u'barbershop', 0.11258791, u'web_site', 0.10366216, u'comic_book', 0.090212651, u'wall_clock', 0.039271828]
+[u'doormat', 0.46996146, u'brass', 0.28002289, u'book_jacket', 0.024783123, u'manhole_cover', 0.014819306, u'sweatshirt', 0.011951071]

@@ -1,0 +1,2 @@
+[u'suit', 0.72078961, u'Windsor_tie', 0.14154585, u'bow_tie', 0.04158869, u'oboe', 0.013767094, u'bolo_tie', 0.01221803]
+[u'tile_roof', 0.14933692, u'planetarium', 0.092526823, u'dome', 0.07344836, u'cinema', 0.069007233, u'patio', 0.063293263]

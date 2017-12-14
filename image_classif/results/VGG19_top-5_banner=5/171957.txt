@@ -1,0 +1,6 @@
+[u'altar', 0.33897579, u'vault', 0.076195069, u'church', 0.068338186, u'bell_cote', 0.045332789, u'monastery', 0.036783703]
+[u'envelope', 0.19650242, u'binder', 0.14380866, u'book_jacket', 0.098463997, u'switch', 0.054166798, u'modem', 0.052801326]
+[u'stage', 0.34027165, u'cornet', 0.12572031, u'trombone', 0.082526721, u'sax', 0.078538522, u'bassoon', 0.071108632]
+[u'screwdriver', 0.56009471, u'spatula', 0.1582875, u"carpenter's_kit", 0.12604913, u'hammer', 0.034625288, u'syringe', 0.031324744]
+[u'book_jacket', 0.27991745, u'wool', 0.16392767, u'packet', 0.048099641, u'slide_rule', 0.031182868, u'face_powder', 0.022091929]
+[u'canoe', 0.52319217, u'paddle', 0.14319724, u'cello', 0.10959897, u'wreck', 0.056588337, u'violin', 0.040363338]

@@ -1,0 +1,7 @@
+[u'Sussex_spaniel', 0.066784509, u'African_hunting_dog', 0.037737153, u'German_shepherd', 0.031903185, u'sax', 0.028166616, u'Afghan_hound', 0.023521421]
+[u'hook', 0.078698374, u'chain', 0.078234904, u'book_jacket', 0.067434147, u'chain_saw', 0.051273685, u'web_site', 0.033529252]
+[u'steam_locomotive', 0.10575141, u'street_sign', 0.05749777, u'traffic_light', 0.043916781, u'streetcar', 0.042988669, u'cinema', 0.033161636]
+[u'book_jacket', 0.077026322, u'parking_meter', 0.04713453, u'Saint_Bernard', 0.040218301, u'soccer_ball', 0.039124075, u'street_sign', 0.033551194]
+[u'chime', 0.13247842, u'chain_saw', 0.067026757, u'sax', 0.052841131, u'bell_cote', 0.036519993, u'hook', 0.034528948]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'assault_rifle', 0.070170097, u'rifle', 0.054013114, u'bell_cote', 0.050488822, u'warplane', 0.04571519, u'cannon', 0.036904927]

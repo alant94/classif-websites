@@ -1,0 +1,7 @@
+[u'book_jacket', 0.1448874, u'barbershop', 0.11654571, u'monitor', 0.09145131, u'cash_machine', 0.086311966, u'stage', 0.084063657]
+[u'web_site', 0.40370169, u'envelope', 0.046258148, u'street_sign', 0.026758073, u'analog_clock', 0.022845054, u'rule', 0.013548989]
+[u'traffic_light', 0.11449648, u'crane', 0.090643473, u'hook', 0.062539078, u'chime', 0.047884408, u'bell_cote', 0.039858755]
+[u'matchstick', 0.05299639, u'nematode', 0.038619522, u'lighter', 0.01978997, u'digital_clock', 0.019432396, u'web_site', 0.017122766]
+[u'odometer', 0.32423136, u'digital_clock', 0.19745135, u'beaker', 0.11717577, u'street_sign', 0.073046423, u'stopwatch', 0.020704392]
+[u'theater_curtain', 0.24675409, u'stage', 0.23097055, u'fountain', 0.19075499, u'balance_beam', 0.025971118, u'oscilloscope', 0.024161018]
+[u'crane', 0.2604433, u'traffic_light', 0.12979496, u'chime', 0.11993624, u'spotlight', 0.1161778, u'pole', 0.073788464]

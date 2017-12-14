@@ -1,0 +1,6 @@
+[u'matchstick', 0.3023169, u'theater_curtain', 0.10536833, u'oscilloscope', 0.055734288, u'panpipe', 0.03857889, u'marimba', 0.032672711]
+[u'digital_watch', 0.25919178, u'screen', 0.12618321, u'digital_clock', 0.099536233, u'magnetic_compass', 0.087832466, u'stopwatch', 0.08284314]
+[u'wall_clock', 0.10519961, u'digital_watch', 0.072283328, u'stopwatch', 0.070605114, u'magnetic_compass', 0.067369297, u'bolo_tie', 0.065017626]
+[u'bottlecap', 0.12688732, u'magnetic_compass', 0.097766884, u'digital_watch', 0.09274523, u'wall_clock', 0.084972374, u'analog_clock', 0.080829591]
+[u'tray', 0.29879335, u'bottlecap', 0.22790866, u'magnetic_compass', 0.073613435, u'bolo_tie', 0.0319332, u'spotlight', 0.028162817]
+[u'bottlecap', 0.41420159, u'wall_clock', 0.10144901, u'tray', 0.05514241, u'magnetic_compass', 0.037564572, u'analog_clock', 0.03563077]

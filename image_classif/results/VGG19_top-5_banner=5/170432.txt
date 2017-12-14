@@ -1,0 +1,6 @@
+[u'safe', 0.1254296, u'binder', 0.12205136, u'envelope', 0.094317041, u'whistle', 0.092686251, u'swab', 0.091562919]
+[u'safe', 0.15019372, u'monitor', 0.076070748, u'carton', 0.059038322, u'screen', 0.055477958, u'wardrobe', 0.050703268]
+[u'web_site', 0.13009839, u'scoreboard', 0.12960583, u'digital_clock', 0.10270976, u'book_jacket', 0.080054879, u'analog_clock', 0.040660921]
+[u'shopping_basket', 0.21680947, u'digital_watch', 0.15631905, u'mailbox', 0.12187336, u'switch', 0.092959046, u'ashcan', 0.038305767]
+[u'can_opener', 0.12374583, u'quill', 0.091491044, u'cleaver', 0.081289351, u'letter_opener', 0.058217008, u'punching_bag', 0.055430874]
+[u'maze', 0.92497569, u'coil', 0.048182756, u'croquet_ball', 0.0074746609, u'electric_fan', 0.0046800482, u'zebra', 0.0029475372]

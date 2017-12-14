@@ -1,0 +1,6 @@
+[u'whistle', 0.19439472, u'envelope', 0.19148424, u'handkerchief', 0.070042387, u'digital_clock', 0.056099199, u'rubber_eraser', 0.045683369]
+[u'digital_clock', 0.37128228, u'screen', 0.10929315, u'envelope', 0.091186687, u'monitor', 0.046648551, u'digital_watch', 0.039742637]
+[u'envelope', 0.35203314, u'carton', 0.20664373, u'Band_Aid', 0.073282979, u'packet', 0.062542289, u'pill_bottle', 0.039916553]
+[u'carton', 0.61448085, u'envelope', 0.34385988, u'crate', 0.016003899, u'handkerchief', 0.0043721609, u'window_shade', 0.0031926157]
+[u'envelope', 0.33933234, u'carton', 0.19986328, u'container_ship', 0.13653858, u'tray', 0.070276394, u'digital_clock', 0.052208152]
+[u'carton', 0.76087075, u'envelope', 0.17763935, u'tray', 0.011154016, u'crate', 0.010330399, u'handkerchief', 0.0086848764]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.2092239, u'matchstick', 0.14069298, u'digital_clock', 0.065095529, u'lighter', 0.061385714, u'digital_watch', 0.045117192]

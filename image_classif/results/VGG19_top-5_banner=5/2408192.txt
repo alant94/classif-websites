@@ -1,0 +1,2 @@
+[u'perfume', 0.66910213, u'French_horn', 0.083017409, u'magnetic_compass', 0.059770904, u'cornet', 0.024150666, u'whistle', 0.02174042]
+[u'fountain', 0.23732758, u'matchstick', 0.066619858, u'candle', 0.040808909, u'airship', 0.039819703, u'analog_clock', 0.033254225]

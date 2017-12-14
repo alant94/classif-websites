@@ -1,0 +1,1 @@
+[u'matchstick', 0.31651077, u'flagpole', 0.086387247, u'wall_clock', 0.085060015, u'screwdriver', 0.08016938, u'bow', 0.072666444]

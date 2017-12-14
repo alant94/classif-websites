@@ -1,0 +1,3 @@
+[u'web_site', 0.29007426, u'palace', 0.10945434, u'book_jacket', 0.035477299, u'airship', 0.020705026, u'assault_rifle', 0.015251989]
+[u'fountain', 0.17562118, u'oscilloscope', 0.15578632, u'space_shuttle', 0.067110807, u'stove', 0.039707404, u'screen', 0.021472376]
+[u'web_site', 0.76306784, u'menu', 0.053849619, u'television', 0.047502909, u'screen', 0.044837378, u'monitor', 0.022659831]

@@ -1,0 +1,6 @@
+[u'electric_locomotive', 0.22173424, u'crane', 0.19202277, u'harvester', 0.15668422, u'lumbermill', 0.10057652, u'steam_locomotive', 0.084627718]
+[u'printer', 0.30757046, u'photocopier', 0.19223127, u'Polaroid_camera', 0.13649853, u'cash_machine', 0.049464788, u'guillotine', 0.041428193]
+[u'picket_fence', 0.13576519, u'nail', 0.11110122, u'spatula', 0.096040301, u'worm_fence', 0.079590827, u"carpenter's_kit", 0.046170425]
+[u'lumbermill', 0.79187399, u'forklift', 0.016386438, u'bullet_train', 0.012423164, u'barber_chair', 0.0082219373, u'half_track', 0.0077312933]
+[u'refrigerator', 0.16566329, u'printer', 0.07151977, u'toaster', 0.056360546, u'photocopier', 0.03229649, u'file', 0.025389703]
+[u'streetcar', 0.5724017, u'passenger_car', 0.10253382, u'minibus', 0.071295366, u'vending_machine', 0.05027486, u'gas_pump', 0.037155055]

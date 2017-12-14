@@ -1,0 +1,5 @@
+[u'screwdriver', 0.28331763, u"carpenter's_kit", 0.13696478, u'digital_clock', 0.1180887, u'lighter', 0.059586745, u'perfume', 0.028736701]
+[u'fountain', 0.58569455, u'shower_curtain', 0.16140674, u'theater_curtain', 0.057211518, u'stage', 0.023748448, u'window_shade', 0.022365488]
+[u'laptop', 0.19815314, u'iPod', 0.18830813, u'screen', 0.13895462, u'monitor', 0.095259242, u'notebook', 0.08687228]
+[u'web_site', 0.12267717, u'envelope', 0.040029243, u'nematode', 0.016252166, u'matchstick', 0.014111611, u'lipstick', 0.010347869]
+[u'switch', 0.30654442, u'digital_clock', 0.10048818, u'iPod', 0.044879206, u'lighter', 0.038597893, u'digital_watch', 0.027013199]

@@ -1,0 +1,2 @@
+[u'church', 0.6784088, u'bell_cote', 0.082420342, u'palace', 0.038218129, u'monastery', 0.024214001, u'mosque', 0.022908201]
+[u'rubber_eraser', 0.099994153, u'matchstick', 0.078297019, u'ballpoint', 0.052377027, u"carpenter's_kit", 0.0369859, u'binder', 0.036323886]

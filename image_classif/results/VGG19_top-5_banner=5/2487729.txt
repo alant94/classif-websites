@@ -1,0 +1,2 @@
+[u'digital_clock', 0.15486394, u'container_ship', 0.086197145, u'envelope', 0.07195475, u'Band_Aid', 0.041832328, u'wall_clock', 0.030631641]
+[u'cinema', 0.51801151, u'barbershop', 0.25005221, u'tobacco_shop', 0.039382596, u'street_sign', 0.027918054, u'flagpole', 0.019008452]

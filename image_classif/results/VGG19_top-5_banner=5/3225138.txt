@@ -1,0 +1,2 @@
+[u'envelope', 0.10659626, u'pillow', 0.068413742, u'jersey', 0.050706357, u'book_jacket', 0.044566222, u'binder', 0.034996364]
+[u'street_sign', 0.059273146, u'comic_book', 0.039855216, u'hook', 0.037024189, u'web_site', 0.028272444, u'balloon', 0.021716841]

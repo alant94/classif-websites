@@ -1,0 +1,7 @@
+[u'spatula', 0.047584191, u'bow_tie', 0.045079958, u'beer_glass', 0.041165959, u'jersey', 0.039967246, u'military_uniform', 0.03606474]
+[u'digital_clock', 0.87874705, u'digital_watch', 0.017239004, u'rule', 0.011462672, u'crossword_puzzle', 0.0090969484, u'Band_Aid', 0.006626735]
+[u'sunglasses', 0.58747399, u'sunglass', 0.31389728, u'sunscreen', 0.01560372, u'bow_tie', 0.011096057, u'seat_belt', 0.0096716024]
+[u'military_uniform', 0.71833795, u'lab_coat', 0.023143737, u'Band_Aid', 0.021507217, u'sweatshirt', 0.016121617, u'trench_coat', 0.011994401]
+[u'tench', 0.92740577, u'ear', 0.023811515, u'barracouta', 0.015280409, u'cucumber', 0.0092559438, u'jackfruit', 0.00510106]
+[u'burrito', 0.14581166, u'hotdog', 0.11095432, u'cheeseburger', 0.10161128, u'sunglasses', 0.062567294, u'sunglass', 0.047174815]
+[u'cowboy_hat', 0.5592292, u'crash_helmet', 0.092318811, u'sunglasses', 0.085975699, u'sunglass', 0.05744376, u'ski_mask', 0.022165338]

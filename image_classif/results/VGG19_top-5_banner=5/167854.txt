@@ -1,0 +1,6 @@
+[u'street_sign', 0.55851269, u'scoreboard', 0.11603678, u'bakery', 0.060097732, u'grocery_store', 0.035127718, u'cinema', 0.027319038]
+[u'gas_pump', 0.21841288, u'drum', 0.11467576, u'chain_saw', 0.05955397, u'forklift', 0.03451395, u'steel_drum', 0.033577502]
+[u'crossword_puzzle', 0.12724017, u'web_site', 0.08421474, u'oscilloscope', 0.067346446, u'envelope', 0.06018424, u'hand-held_computer', 0.037994158]
+[u'screwdriver', 0.19512118, u'nail', 0.13575038, u'rule', 0.097501017, u'chime', 0.062736534, u"carpenter's_kit", 0.044516888]
+[u'banjo', 0.47950378, u'acoustic_guitar', 0.19090559, u'electric_guitar', 0.11561299, u'pick', 0.060197383, u'panpipe', 0.014883091]
+[u'wall_clock', 0.34568495, u'analog_clock', 0.26547995, u'warplane', 0.030053196, u'mortarboard', 0.026229994, u'tripod', 0.020878498]

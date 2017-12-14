@@ -1,0 +1,4 @@
+[u'restaurant', 0.12735626, u'cinema', 0.097638026, u'spotlight', 0.044498891, u'stage', 0.040014125, u'pool_table', 0.033471975]
+[u'wing', 0.22277309, u'space_shuttle', 0.08399114, u'missile', 0.083911635, u'flagpole', 0.067384429, u'projectile', 0.052139621]
+[u'Band_Aid', 0.19093683, u'safety_pin', 0.18362899, u'ski', 0.065193802, u'plastic_bag', 0.030802025, u'envelope', 0.025941961]
+[u'brass', 0.17677596, u'park_bench', 0.15788096, u'viaduct', 0.090928845, u'barn', 0.061460145, u'worm_fence', 0.038483471]

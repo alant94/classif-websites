@@ -1,0 +1,2 @@
+[u'pier', 0.16789921, u'rule', 0.10157336, u'matchstick', 0.064755172, u'picket_fence', 0.056786839, u'spotlight', 0.044837147]
+[u'notebook', 0.27711907, u'ping-pong_ball', 0.11044517, u'academic_gown', 0.039120566, u'mortarboard', 0.033813726, u'baseball', 0.033789888]

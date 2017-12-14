@@ -1,0 +1,6 @@
+[u'street_sign', 0.10031676, u'Band_Aid', 0.082224011, u'jersey', 0.078154236, u'knee_pad', 0.058828037, u'digital_clock', 0.047234457]
+[u'web_site', 0.96996987, u'screen', 0.0080881789, u'packet', 0.0032292157, u'menu', 0.0026742662, u'comic_book', 0.0026682031]
+[u'web_site', 0.35191965, u'book_jacket', 0.2269377, u'envelope', 0.088493221, u'packet', 0.049438369, u'menu', 0.044790722]
+[u'web_site', 0.49764001, u'trailer_truck', 0.063924052, u'steel_arch_bridge', 0.048885275, u'garbage_truck', 0.034161318, u'book_jacket', 0.029042672]
+[u'mobile_home', 0.11445583, u'web_site', 0.08305046, u'cinema', 0.071477689, u'recreational_vehicle', 0.039511882, u'vending_machine', 0.031556476]
+[u'hamper', 0.40895191, u'shopping_basket', 0.10660267, u'packet', 0.097044133, u'book_jacket', 0.055768162, u'comic_book', 0.047058336]

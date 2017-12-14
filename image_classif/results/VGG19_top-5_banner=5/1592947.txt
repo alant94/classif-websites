@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.11444696, u'handkerchief', 0.038245026, u'maze', 0.034954052, u'velvet', 0.032778628, u'prayer_rug', 0.024564825]
+[u"potter's_wheel", 0.83661467, u'hog', 0.018132091, u'tub', 0.01789858, u'bathtub', 0.01543456, u'dough', 0.012344139]
+[u'trench_coat', 0.14965753, u'suit', 0.13631347, u'fur_coat', 0.082221299, u'pajama', 0.077378556, u'gown', 0.070071101]

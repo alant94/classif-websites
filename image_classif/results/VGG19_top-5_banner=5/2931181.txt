@@ -1,0 +1,1 @@
+[u'bottlecap', 0.21663938, u'book_jacket', 0.14373989, u'baseball', 0.086325034, u'pick', 0.070945002, u'packet', 0.057474606]

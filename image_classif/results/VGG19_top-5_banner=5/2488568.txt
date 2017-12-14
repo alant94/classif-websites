@@ -1,0 +1,7 @@
+[u'puck', 0.4772425, u'shield', 0.1362548, u'lighter', 0.077904277, u'jersey', 0.051050693, u'electric_fan', 0.048058685]
+[u'boathouse', 0.34363863, u'lumbermill', 0.30989465, u'mobile_home', 0.0491025, u'solar_dish', 0.030839588, u'tile_roof', 0.030112378]
+[u'wall_clock', 0.50673443, u'bolo_tie', 0.19684809, u'shield', 0.10811926, u'analog_clock', 0.084565826, u'street_sign', 0.010159902]
+[u'boathouse', 0.26140121, u'apiary', 0.23932135, u'mobile_home', 0.12490732, u'birdhouse', 0.048324399, u'yurt', 0.037141334]
+[u'boathouse', 0.85869992, u'barn', 0.020134766, u'church', 0.019846076, u'lakeside', 0.018142635, u'alp', 0.0094566317]
+[u'boathouse', 0.81722391, u'tractor', 0.029094044, u'mobile_home', 0.021377815, u'barn', 0.020152472, u'harvester', 0.01322847]
+[u'book_jacket', 0.17304114, u'geyser', 0.044368729, u'alp', 0.038366511, u'church', 0.037223406, u'barn', 0.031628959]

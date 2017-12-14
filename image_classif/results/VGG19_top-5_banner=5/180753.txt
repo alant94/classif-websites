@@ -1,0 +1,3 @@
+[u'sunglasses', 0.55549109, u'sunglass', 0.19744183, u'bucket', 0.062509492, u'buckle', 0.059898309, u'crash_helmet', 0.02517448]
+[u'sunglasses', 0.55549109, u'sunglass', 0.19744183, u'bucket', 0.062509492, u'buckle', 0.059898309, u'crash_helmet', 0.02517448]
+[u'cardigan', 0.93241501, u'stole', 0.0098901521, u'wool', 0.0076870075, u'poncho', 0.0067633153, u'jean', 0.0064026029]

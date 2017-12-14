@@ -1,0 +1,5 @@
+[u'menu', 0.30303362, u'scoreboard', 0.16750738, u'vending_machine', 0.14790046, u'packet', 0.1141701, u'book_jacket', 0.063682757]
+[u'diaper', 0.25006053, u'swimming_trunks', 0.18685903, u'tub', 0.12846959, u'bathtub', 0.10843892, u'Band_Aid', 0.02813291]
+[u'brassiere', 0.39308006, u'wig', 0.18550672, u'book_jacket', 0.13982552, u'web_site', 0.076108642, u'hair_spray', 0.035757337]
+[u'digital_clock', 0.35004982, u'analog_clock', 0.091007575, u'cash_machine', 0.056467384, u'CD_player', 0.055129759, u'safe', 0.047311831]
+[u'combination_lock', 0.36022359, u'safe', 0.075126857, u'radio', 0.044884771, u'analog_clock', 0.039186008, u'cash_machine', 0.03455532]

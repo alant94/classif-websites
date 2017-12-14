@@ -1,0 +1,5 @@
+[u'hook', 0.19184977, u'combination_lock', 0.087975897, u'rule', 0.056847189, u'web_site', 0.045326639, u'magnetic_compass', 0.035847314]
+[u'hair_slide', 0.12958293, u'envelope', 0.097184181, u'book_jacket', 0.077330031, u'shield', 0.066087507, u'puck', 0.050361399]
+[u'stole', 0.42478162, u'fur_coat', 0.12349253, u'abaya', 0.11813952, u'jersey', 0.035613365, u'poncho', 0.032709595]
+[u'spotlight', 0.31578285, u'muzzle', 0.15012914, u'combination_lock', 0.14356276, u'digital_watch', 0.087913975, u'gasmask', 0.022545073]
+[u'picket_fence', 0.74653643, u'fountain', 0.13386115, u'coral_fungus', 0.019468902, u'worm_fence', 0.013064634, u'matchstick', 0.010168185]

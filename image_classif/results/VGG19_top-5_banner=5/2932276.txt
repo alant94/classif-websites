@@ -1,0 +1,5 @@
+[u'stone_wall', 0.48483896, u'ashcan', 0.11029717, u'brass', 0.096012078, u'street_sign', 0.021362627, u'megalith', 0.020260092]
+[u'book_jacket', 0.35052919, u'crate', 0.16559279, u'brass', 0.13260064, u'envelope', 0.05015162, u'carton', 0.039976943]
+[u'mouse', 0.16357271, u'tabby', 0.080651596, u'computer_keyboard', 0.0762605, u'Egyptian_cat', 0.055049255, u'desk', 0.049759753]
+[u'digital_clock', 0.76576388, u'analog_clock', 0.063009091, u'wall_clock', 0.024183897, u'beacon', 0.015352582, u'container_ship', 0.013271514]
+[u'worm_fence', 0.06012819, u'Arabian_camel', 0.056510855, u'Great_Dane', 0.053919278, u'Weimaraner', 0.047730081, u'sorrel', 0.044878688]

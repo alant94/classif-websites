@@ -1,0 +1,2 @@
+[u'digital_clock', 0.030562324, u'lampshade', 0.027125476, u'spotlight', 0.027101481, u'loudspeaker', 0.025106208, u'traffic_light', 0.024821745]
+[u'syringe', 0.016640592, u'cleaver', 0.012188138, u'envelope', 0.011649785, u'letter_opener', 0.010973572, u'matchstick', 0.0098559838]

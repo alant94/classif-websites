@@ -1,0 +1,6 @@
+[u'brass', 0.45276192, u'menu', 0.1111055, u'packet', 0.059949897, u'book_jacket', 0.05029076, u'jigsaw_puzzle', 0.031241702]
+[u'book_jacket', 0.22016193, u'hog', 0.042629428, u'vizsla', 0.035443578, u'bloodhound', 0.032710202, u'Chesapeake_Bay_retriever', 0.024745964]
+[u'bow', 0.15005495, u'ox', 0.12011146, u'hog', 0.10512327, u'hartebeest', 0.089331642, u'oxcart', 0.057835836]
+[u'book_jacket', 0.68070823, u'barbershop', 0.037219018, u'cash_machine', 0.024721047, u'prison', 0.013017563, u'brass', 0.011337798]
+[u'pick', 0.14651494, u'hook', 0.10702638, u'lighter', 0.085889958, u'corkscrew', 0.05884514, u'loupe', 0.047382597]
+[u'warthog', 0.59261876, u'ibex', 0.18870249, u'wild_boar', 0.079014704, u'Irish_wolfhound', 0.040433191, u'hartebeest', 0.017909296]

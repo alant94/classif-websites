@@ -1,0 +1,3 @@
+[u'Arctic_fox', 0.21827133, u'weasel', 0.16774224, u'paper_towel', 0.063000061, u'carton', 0.062810726, u'toilet_tissue', 0.043456443]
+[u'matchstick', 0.10275698, u'binder', 0.093555711, u'ballpoint', 0.06174586, u'rubber_eraser', 0.053353965, u'web_site', 0.034283467]
+[u'hamster', 0.22963943, u'Christmas_stocking', 0.14082119, u'Pomeranian', 0.062841982, u'weasel', 0.035975162, u'Samoyed', 0.032622129]

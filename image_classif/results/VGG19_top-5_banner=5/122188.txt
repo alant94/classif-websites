@@ -1,0 +1,5 @@
+[u'book_jacket', 0.12994008, u'packet', 0.087477617, u'comic_book', 0.055825938, u'altar', 0.051928096, u'screen', 0.04578853]
+[u'parking_meter', 0.083062015, u'traffic_light', 0.060061395, u'bearskin', 0.047137719, u'book_jacket', 0.043121457, u'barbershop', 0.029965887]
+[u'book_jacket', 0.83861464, u'comic_book', 0.035087954, u'tobacco_shop', 0.020469831, u'bookshop', 0.016627239, u'barbershop', 0.012642738]
+[u'toyshop', 0.5686217, u'comic_book', 0.089758366, u'jigsaw_puzzle', 0.026266234, u'barbershop', 0.024063712, u'restaurant', 0.022876903]
+[u'book_jacket', 0.41526997, u'tobacco_shop', 0.11968788, u'comic_book', 0.10926438, u'web_site', 0.044540342, u'crate', 0.031254716]

@@ -1,0 +1,7 @@
+[u'screw', 0.34212863, u'nail', 0.14088406, u'hook', 0.057429437, u'coil', 0.042970534, u'dumbbell', 0.032423194]
+[u'prayer_rug', 0.99449438, u'book_jacket', 0.0015342985, u'throne', 0.00091272412, u'brass', 0.00049002568, u'fire_screen', 0.00027837922]
+[u'sunglass', 0.22403342, u'Petri_dish', 0.20044722, u'bubble', 0.15237446, u'sunglasses', 0.12852697, u'loupe', 0.085923918]
+[u'web_site', 0.13991933, u'book_jacket', 0.12130854, u'binder', 0.089450464, u'envelope', 0.039297294, u'cassette', 0.037796162]
+[u'buckle', 0.10485244, u'hook', 0.086674698, u'iron', 0.080487438, u'cleaver', 0.046469808, u'cassette', 0.045424666]
+[u'rubber_eraser', 0.047375083, u'screw', 0.037990425, u'switch', 0.03112107, u'hook', 0.030627862, u'matchstick', 0.029993087]
+[u'book_jacket', 0.45916617, u'menu', 0.20748216, u'web_site', 0.086989708, u'packet', 0.029985216, u'envelope', 0.016202109]

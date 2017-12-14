@@ -1,0 +1,3 @@
+[u'pretzel', 0.28454411, u'gyromitra', 0.13384145, u'dough', 0.043984327, u'hotdog', 0.033504859, u'ice_cream', 0.032843266]
+[u'fountain', 0.25399357, u'microphone', 0.038633186, u'picket_fence', 0.037644576, u'cleaver', 0.033251032, u'bubble', 0.029495411]
+[u'tow_truck', 0.4243581, u'trailer_truck', 0.10006589, u'pickup', 0.081978306, u'mailbox', 0.064752653, u'grille', 0.031825036]

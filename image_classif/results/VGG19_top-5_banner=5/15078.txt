@@ -1,0 +1,2 @@
+[u'dam', 0.19866814, u'aircraft_carrier', 0.16009186, u'container_ship', 0.14697945, u'snowplow', 0.048852086, u'missile', 0.046326168]
+[u'Band_Aid', 0.11774467, u'sunscreen', 0.073222719, u'sunglasses', 0.057053924, u'jersey', 0.045401998, u'bikini', 0.042178415]

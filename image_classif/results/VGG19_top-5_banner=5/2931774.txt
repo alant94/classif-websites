@@ -1,0 +1,5 @@
+[u'ski', 0.40041527, u'clog', 0.1081593, u'paddle', 0.069742575, u'pick', 0.039546978, u'rugby_ball', 0.03375905]
+[u'packet', 0.34883225, u'bottlecap', 0.18538696, u'puck', 0.10518949, u'scoreboard', 0.09995193, u'stopwatch', 0.030584546]
+[u'web_site', 0.51476806, u'book_jacket', 0.12574893, u'rule', 0.033184219, u'analog_clock', 0.020224482, u'envelope', 0.015533349]
+[u'patio', 0.12835272, u'marimba', 0.11304581, u'sarong', 0.04079346, u'maraca', 0.039886348, u'upright', 0.039420195]
+[u'digital_clock', 0.19946456, u'envelope', 0.096578285, u'Band_Aid', 0.064116858, u'web_site', 0.057340644, u'rubber_eraser', 0.028104033]

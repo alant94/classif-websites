@@ -1,0 +1,8 @@
+[u'coil', 0.42632934, u'maze', 0.35633722, u'knot', 0.033823583, u'nematode', 0.016702041, u'traffic_light', 0.015782621]
+[u'shovel', 0.079098277, u'hatchet', 0.056691006, u'safety_pin', 0.046979178, u'Band_Aid', 0.034542613, u'spatula', 0.031136923]
+[u'sarong', 0.12526229, u'maillot', 0.070074722, u'swimming_trunks', 0.056931321, u'bikini', 0.045923289, u'dumbbell', 0.043688618]
+[u'street_sign', 0.23906153, u'loupe', 0.10639542, u'hook', 0.065863572, u'spotlight', 0.048781991, u'whistle', 0.037929658]
+[u'maze', 0.32993069, u'analog_clock', 0.17172252, u'coil', 0.16698083, u'digital_clock', 0.091000013, u'wall_clock', 0.030554818]
+[u'shower_curtain', 0.14772537, u'bikini', 0.064489245, u'fountain', 0.056189008, u'gown', 0.047713608, u'pajama', 0.036562309]
+[u'digital_clock', 0.27278137, u'street_sign', 0.078854971, u'scoreboard', 0.053056847, u'binder', 0.045292038, u'digital_watch', 0.036209121]
+[u'necklace', 0.18689752, u'coil', 0.13876373, u'mask', 0.12833646, u'nematode', 0.061307378, u'chain', 0.038569253]

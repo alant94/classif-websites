@@ -1,0 +1,4 @@
+[u'drumstick', 0.10070654, u'ping-pong_ball', 0.06846121, u'microphone', 0.058282916, u'dumbbell', 0.054911669, u'stage', 0.052015431]
+[u'web_site', 0.30209541, u'desktop_computer', 0.12728575, u'monitor', 0.10310461, u'home_theater', 0.084543429, u'notebook', 0.056129165]
+[u'envelope', 0.098279901, u'web_site', 0.092409678, u'bulletproof_vest', 0.021342631, u'quill', 0.01301835, u'analog_clock', 0.012681058]
+[u'street_sign', 0.19888692, u'airship', 0.042326815, u'traffic_light', 0.0319371, u'chainlink_fence', 0.028269861, u'book_jacket', 0.027468441]

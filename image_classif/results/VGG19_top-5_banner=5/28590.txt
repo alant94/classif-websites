@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.088936381, u'picket_fence', 0.085913263, u'paper_towel', 0.081795022, u'envelope', 0.040498652, u'nipple', 0.038446743]
+[u'volcano', 0.15880385, u'alp', 0.12779063, u'valley', 0.12754372, u'fireboat', 0.097453855, u'missile', 0.075977676]

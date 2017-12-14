@@ -1,0 +1,6 @@
+[u'diaper', 0.17624509, u'packet', 0.14997636, u'Band_Aid', 0.1498404, u'bath_towel', 0.06950406, u'jersey', 0.046121817]
+[u'bannister', 0.80614704, u'prison', 0.11549951, u'coil', 0.017072903, u'maze', 0.01167943, u'radiator', 0.010893519]
+[u'menu', 0.7859199, u'web_site', 0.17693461, u'scoreboard', 0.017540984, u'cassette', 0.0033171382, u'brass', 0.0019752739]
+[u'turnstile', 0.13610327, u'desk', 0.11824597, u'sliding_door', 0.055623572, u'cash_machine', 0.049917407, u'carton', 0.048738662]
+[u'microphone', 0.038205694, u'projectile', 0.033429865, u'spotlight', 0.030811576, u'projector', 0.027117768, u'loupe', 0.021691453]
+[u'folding_chair', 0.47239435, u'computer_keyboard', 0.25279611, u'cinema', 0.10984058, u'space_bar', 0.038297217, u'laptop', 0.033392821]

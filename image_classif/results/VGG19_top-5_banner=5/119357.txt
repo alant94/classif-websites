@@ -1,0 +1,3 @@
+[u'digital_clock', 0.19588926, u'envelope', 0.15448205, u'maze', 0.060943313, u'prayer_rug', 0.048682723, u'book_jacket', 0.038259279]
+[u'restaurant', 0.52253371, u'bakery', 0.22200651, u'dining_table', 0.1575498, u'plate', 0.046157941, u'confectionery', 0.012586584]
+[u'digital_clock', 0.22704266, u'envelope', 0.18222871, u'web_site', 0.12023283, u'wall_clock', 0.034452487, u'container_ship', 0.018701114]

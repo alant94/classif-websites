@@ -1,0 +1,5 @@
+[u'web_site', 0.55210608, u'book_jacket', 0.20919602, u'screen', 0.073120929, u'packet', 0.064457037, u'menu', 0.031948861]
+[u'web_site', 0.88413393, u'envelope', 0.029864119, u'binder', 0.018835546, u'refrigerator', 0.0092735067, u'muzzle', 0.0058006891]
+[u'web_site', 0.53211409, u'book_jacket', 0.025385669, u'hand-held_computer', 0.015093908, u'scoreboard', 0.014060477, u'remote_control', 0.01388499]
+[u'screen', 0.2271885, u'web_site', 0.16054876, u'book_jacket', 0.15527271, u'monitor', 0.0621273, u'menu', 0.0508538]
+[u'book_jacket', 0.4966785, u'envelope', 0.12909493, u'menu', 0.10065954, u'jersey', 0.040952951, u'comic_book', 0.037118774]

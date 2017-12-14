@@ -1,0 +1,2 @@
+[u'face_powder', 0.1234153, u'toilet_seat', 0.093533359, u'Petri_dish', 0.065623589, u'tray', 0.039485194, u'plate', 0.035605807]
+[u'envelope', 0.30157757, u'digital_clock', 0.21151757, u'Band_Aid', 0.088267282, u'web_site', 0.045456432, u'book_jacket', 0.025959644]

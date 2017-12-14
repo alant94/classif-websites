@@ -1,0 +1,1 @@
+[u'rule', 0.51459956, u'book_jacket', 0.10717088, u'picket_fence', 0.049519621, u'web_site', 0.032302015, u'slide_rule', 0.028999221]

@@ -1,0 +1,2 @@
+[u'web_site', 0.91970509, u'book_jacket', 0.029672448, u'television', 0.016908351, u'comic_book', 0.012168551, u'monitor', 0.011872359]
+[u'stage', 0.20326656, u'torch', 0.061713934, u'book_jacket', 0.045200121, u'geyser', 0.043969769, u'fountain', 0.031763475]

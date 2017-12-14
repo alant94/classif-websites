@@ -1,0 +1,2 @@
+[u'rapeseed', 0.84019721, u'tench', 0.010010127, u'Leonberg', 0.0078278026, u'reel', 0.0054157157, u'sweatshirt', 0.0046348325]
+[u'book_jacket', 0.39534646, u'doormat', 0.31988755, u'envelope', 0.064706288, u'packet', 0.052646894, u'brass', 0.027198583]

@@ -1,0 +1,2 @@
+[u'giant_schnauzer', 0.098055489, u'Bouvier_des_Flandres', 0.048934389, u'affenpinscher', 0.034950227, u'drilling_platform', 0.032863338, u'Kerry_blue_terrier', 0.032136995]
+[u'book_jacket', 0.077519186, u'menu', 0.062633671, u'shower_curtain', 0.057717543, u'envelope', 0.051683325, u'beaker', 0.048445031]

@@ -1,0 +1,1 @@
+[u'cleaver', 0.018765811, u'envelope', 0.015065205, u'hatchet', 0.012094763, u'letter_opener', 0.011663475, u'can_opener', 0.010921773]

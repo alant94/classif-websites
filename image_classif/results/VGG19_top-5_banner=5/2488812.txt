@@ -1,0 +1,5 @@
+[u'bloodhound', 0.23978004, u'stretcher', 0.20752954, u'chain_saw', 0.10287723, u'Leonberg', 0.062557518, u'Gordon_setter', 0.031439327]
+[u'black-footed_ferret', 0.094996661, u'fur_coat', 0.063963123, u'lab_coat', 0.047592804, u'wig', 0.040674444, u'polecat', 0.039438419]
+[u'picket_fence', 0.46370891, u'worm_fence', 0.2191695, u'church', 0.052863993, u'barn', 0.05055235, u'boathouse', 0.042544752]
+[u'jeep', 0.36591855, u'convertible', 0.1223008, u'pickup', 0.076956846, u'limousine', 0.050961848, u'beach_wagon', 0.04534772]
+[u'iPod', 0.29742843, u'hard_disc', 0.15373084, u'analog_clock', 0.10911685, u'cellular_telephone', 0.081152745, u'hand-held_computer', 0.031962331]

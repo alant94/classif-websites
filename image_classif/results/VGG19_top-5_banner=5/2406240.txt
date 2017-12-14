@@ -1,0 +1,1 @@
+[u'trailer_truck', 0.20917386, u'racer', 0.20300545, u'pickup', 0.12295748, u'tow_truck', 0.091122307, u'sports_car', 0.054648649]

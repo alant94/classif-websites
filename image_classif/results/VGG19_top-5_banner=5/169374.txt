@@ -1,0 +1,1 @@
+[u'nematode', 0.066914238, u'matchstick', 0.064080901, u'syringe', 0.015998499, u'spotlight', 0.015710145, u'digital_clock', 0.015085077]

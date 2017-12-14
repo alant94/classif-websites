@@ -1,0 +1,8 @@
+[u'maypole', 0.31531119, u'coil', 0.19607976, u'sea_urchin', 0.14712611, u'worm_fence', 0.10320102, u'fountain', 0.097346947]
+[u'church', 0.65035671, u'castle', 0.26291275, u'bell_cote', 0.01215855, u'traffic_light', 0.011795737, u'monastery', 0.011360662]
+[u'wardrobe', 0.21868615, u'sliding_door', 0.046710182, u'refrigerator', 0.045272026, u'shower_curtain', 0.038625013, u'window_shade', 0.034016654]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cannon', 0.079999968, u'park_bench', 0.044141077, u'balance_beam', 0.03441117, u'parallel_bars', 0.032497358, u'swing', 0.030006627]
+[u'analog_clock', 0.10955968, u'matchstick', 0.092265107, u'walking_stick', 0.070386283, u'hook', 0.037589021, u'bow', 0.035237558]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

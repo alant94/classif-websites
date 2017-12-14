@@ -1,0 +1,3 @@
+[u'envelope', 0.31171674, u'binder', 0.08812841, u'chime', 0.063116893, u'fire_screen', 0.042637233, u'gong', 0.030165879]
+[u'spider_web', 0.89999187, u'garden_spider', 0.013130031, u'barn_spider', 0.011809602, u'black_and_gold_garden_spider', 0.0066190264, u'black_widow', 0.0034205557]
+[u'web_site', 0.2109936, u'digital_clock', 0.20322904, u'book_jacket', 0.13166347, u'street_sign', 0.033387043, u'comic_book', 0.030009121]

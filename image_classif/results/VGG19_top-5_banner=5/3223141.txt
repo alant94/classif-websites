@@ -1,0 +1,8 @@
+[u'suit', 0.072151519, u'shower_curtain', 0.054031827, u'bow_tie', 0.030131331, u'window_screen', 0.026558835, u'Windsor_tie', 0.024521563]
+[u'shower_curtain', 0.25819689, u'window_shade', 0.10715966, u'sliding_door', 0.099689022, u'window_screen', 0.059878536, u'shoji', 0.043215975]
+[u'shower_curtain', 0.80711961, u'handkerchief', 0.027692832, u'velvet', 0.022734545, u'wool', 0.018958848, u'Windsor_tie', 0.012014497]
+[u'envelope', 0.087091796, u'binder', 0.02926271, u'book_jacket', 0.024412014, u'candle', 0.023975749, u'wall_clock', 0.023737021]
+[u'panpipe', 0.83699155, u'hair_slide', 0.052832134, u'hamper', 0.021727929, u'safety_pin', 0.021004332, u'muzzle', 0.011287565]
+[u'envelope', 0.11577192, u'screen', 0.077319413, u'scale', 0.073744789, u'safe', 0.061409529, u'monitor', 0.052785747]
+[u'shower_curtain', 0.55753398, u'stole', 0.019088211, u'fountain', 0.018839089, u'window_shade', 0.011890807, u'wool', 0.01090247]
+[u'medicine_chest', 0.088884868, u'picket_fence', 0.067809515, u'envelope', 0.049999073, u'cinema', 0.042864513, u'digital_clock', 0.040426183]

@@ -1,0 +1,4 @@
+[u'digital_watch', 0.12555459, u'digital_clock', 0.11802025, u'analog_clock', 0.088587567, u'oscilloscope', 0.081743337, u'wall_clock', 0.046674844]
+[u'black_and_gold_garden_spider', 0.13984656, u'book_jacket', 0.058607996, u'matchstick', 0.045839101, u'barn_spider', 0.037447106, u'safety_pin', 0.035965197]
+[u'jigsaw_puzzle', 0.26542753, u'tray', 0.21365404, u'monitor', 0.056762651, u'birdhouse', 0.044253998, u'book_jacket', 0.033957619]
+[u'digital_watch', 0.12564154, u'oscilloscope', 0.10255346, u'analog_clock', 0.10090908, u'digital_clock', 0.067861676, u'wall_clock', 0.056918506]

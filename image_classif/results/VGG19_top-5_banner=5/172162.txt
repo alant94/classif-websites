@@ -1,0 +1,4 @@
+[u'shower_cap', 0.70678782, u'wig', 0.058305547, u'syringe', 0.039125644, u'mask', 0.029906152, u'sunscreen', 0.020400157]
+[u'caldron', 0.57337791, u'bucket', 0.071481004, u'milk_can', 0.06745436, u'wok', 0.02434756, u"potter's_wheel", 0.022287458]
+[u'refrigerator', 0.043801885, u'perfume', 0.036961842, u'cocktail_shaker', 0.036311083, u'slot', 0.031567749, u'beer_bottle', 0.022411767]
+[u'pickelhaube', 0.59918553, u'military_uniform', 0.28017375, u'bearskin', 0.015715256, u'ballplayer', 0.013926878, u'bathing_cap', 0.011290818]

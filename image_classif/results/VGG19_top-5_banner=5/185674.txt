@@ -1,0 +1,4 @@
+[u'lighter', 0.22090325, u'whiskey_jug', 0.08583191, u'oil_filter', 0.065584406, u'gas_pump', 0.057493679, u'combination_lock', 0.055645946]
+[u'chime', 0.26542026, u'nail', 0.23808391, u'tripod', 0.10216568, u'swing', 0.049761862, u'screw', 0.023575377]
+[u'web_site', 0.048797473, u'laptop', 0.040683668, u'notebook', 0.03023006, u'television', 0.02435654, u'iPod', 0.023624297]
+[u'screwdriver', 0.33892041, u'ballpoint', 0.11231843, u'rule', 0.055871494, u'rubber_eraser', 0.051249154, u"carpenter's_kit", 0.050894432]

@@ -1,0 +1,7 @@
+[u'vestment', 0.28219953, u'military_uniform', 0.1068829, u'academic_gown', 0.056546364, u'lab_coat', 0.038947769, u'cornet', 0.032324541]
+[u'miniskirt', 0.21295635, u'overskirt', 0.20329179, u'hoopskirt', 0.049977805, u'wig', 0.047472596, u'hair_spray', 0.036271259]
+[u'palace', 0.91165698, u'fountain', 0.053419773, u'carousel', 0.024649009, u'mosque', 0.0014004705, u'cinema', 0.0013334281]
+[u'academic_gown', 0.14416875, u'Appenzeller', 0.089038089, u'EntleBucher', 0.063605532, u'black-and-tan_coonhound', 0.055018183, u'Doberman', 0.043249551]
+[u'banjo', 0.62753135, u'acoustic_guitar', 0.10095114, u'oboe', 0.053539686, u'electric_guitar', 0.050516915, u'stage', 0.041815016]
+[u'harp', 0.99999857, u'panpipe', 1.2100696e-06, u'organ', 1.5838924e-07, u'cello', 3.3518326e-08, u'accordion', 3.2885637e-08]
+[u'sax', 0.28391346, u'oboe', 0.19838583, u'flute', 0.15802014, u'banjo', 0.056762602, u'bassoon', 0.052771349]

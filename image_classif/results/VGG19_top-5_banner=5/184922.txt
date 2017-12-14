@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.94271201, u'window_shade', 0.022399604, u'shoji', 0.0064616334, u'sliding_door', 0.0027081768, u'wardrobe', 0.0026547867]
+[u'digital_clock', 0.69788814, u'envelope', 0.13561627, u'Band_Aid', 0.064389877, u'container_ship', 0.02131281, u'maze', 0.014558282]
+[u'scoreboard', 0.49604106, u'street_sign', 0.12846482, u'web_site', 0.11919151, u'traffic_light', 0.023748105, u'laptop', 0.020089913]
+[u'sliding_door', 0.224784, u'ski', 0.090963535, u'shower_curtain', 0.085918851, u'freight_car', 0.063772731, u'library', 0.058780733]
+[u'digital_clock', 0.21858221, u'crossword_puzzle', 0.14013797, u'scoreboard', 0.049551744, u'remote_control', 0.036305871, u'wall_clock', 0.02485954]
+[u'shower_curtain', 0.84016734, u'window_shade', 0.062786043, u'shoji', 0.048365492, u'theater_curtain', 0.0071719741, u'sliding_door', 0.0053087422]
+[u'paintbrush', 0.3317475, u'wine_bottle', 0.069062009, u'fountain_pen', 0.060083974, u'bassoon', 0.058730006, u'ski', 0.036157049]

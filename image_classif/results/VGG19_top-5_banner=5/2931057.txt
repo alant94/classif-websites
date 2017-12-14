@@ -1,0 +1,4 @@
+[u'matchstick', 0.32247442, u'web_site', 0.094325311, u'oscilloscope', 0.068198822, u'digital_clock', 0.03310721, u'hook', 0.030869186]
+[u'lakeside', 0.41021898, u'mountain_tent', 0.14777111, u'boathouse', 0.080664977, u'canoe', 0.0766837, u'alp', 0.063627005]
+[u'volcano', 0.74197298, u'torch', 0.066960074, u'jellyfish', 0.020147394, u'matchstick', 0.012906628, u'cloak', 0.010059153]
+[u'volcano', 0.40169558, u'alp', 0.14087346, u'mountain_tent', 0.10037382, u'cloak', 0.091495529, u'fountain', 0.046299409]

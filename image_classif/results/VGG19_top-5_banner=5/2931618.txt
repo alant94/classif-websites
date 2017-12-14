@@ -1,0 +1,3 @@
+[u'suit', 0.60833484, u'groom', 0.057041645, u'oboe', 0.041690849, u'Windsor_tie', 0.040284395, u'Loafer', 0.035964653]
+[u'lab_coat', 0.36020476, u'oxygen_mask', 0.33228901, u'iron', 0.03434265, u'beaker', 0.03191467, u"potter's_wheel", 0.016241383]
+[u'envelope', 0.087054208, u'hook', 0.055750407, u'tick', 0.04211843, u'bib', 0.041860607, u'red_wine', 0.030389091]

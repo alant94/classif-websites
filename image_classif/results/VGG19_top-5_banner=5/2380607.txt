@@ -1,0 +1,5 @@
+[u'hard_disc', 0.089586094, u'tape_player', 0.042632945, u'cassette_player', 0.037517834, u'pencil_sharpener', 0.036192652, u'perfume', 0.030575393]
+[u'whiskey_jug', 0.19748195, u'lotion', 0.13969913, u'chocolate_sauce', 0.13044895, u'perfume', 0.071502894, u'face_powder', 0.062910005]
+[u'beer_bottle', 0.64490491, u'wine_bottle', 0.35267171, u'red_wine', 0.0015970768, u'paintbrush', 0.00028965267, u'corkscrew', 0.00014532669]
+[u'puck', 0.9996984, u'bottlecap', 6.3625521e-05, u'chocolate_sauce', 5.5150173e-05, u'face_powder', 2.5330046e-05, u'tobacco_shop', 2.2497385e-05]
+[u'puck', 0.99952376, u'bottlecap', 9.0345784e-05, u'chocolate_sauce', 6.147207e-05, u'shield', 4.0087638e-05, u'tobacco_shop', 3.9063932e-05]

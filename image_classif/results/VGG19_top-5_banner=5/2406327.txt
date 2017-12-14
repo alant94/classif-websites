@@ -1,0 +1,7 @@
+[u'safe', 0.74953073, u'binder', 0.082642548, u'medicine_chest', 0.022007106, u'book_jacket', 0.016532561, u'mailbox', 0.014759311]
+[u'safe', 0.73859572, u'medicine_chest', 0.060085643, u'binder', 0.055143047, u'switch', 0.034778349, u'mailbox', 0.023912158]
+[u'safe', 0.64844257, u'refrigerator', 0.15867886, u'dishwasher', 0.053286783, u'crate', 0.028660163, u'file', 0.019889895]
+[u'safe', 0.9088375, u'combination_lock', 0.024978412, u'medicine_chest', 0.024383111, u'binder', 0.0088990843, u'switch', 0.0024559952]
+[u'safe', 0.93460894, u'file', 0.015680859, u'combination_lock', 0.015146174, u'refrigerator', 0.014969129, u'medicine_chest', 0.0065342546]
+[u'prison', 0.1531975, u'lumbermill', 0.14644971, u'crate', 0.079129234, u'safe', 0.06092253, u'vault', 0.05586965]
+[u'safe', 0.89030689, u'binder', 0.076142363, u'combination_lock', 0.012124892, u'file', 0.0039276578, u'desktop_computer', 0.0016414626]

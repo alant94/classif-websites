@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.74601609, u'dumbbell', 0.034897059, u'power_drill', 0.020142779, u'bathing_cap', 0.010964805, u'sarong', 0.010680282]
+[u'Band_Aid', 0.32350081, u'conch', 0.072723642, u'trilobite', 0.070348635, u'isopod', 0.034472641, u'mask', 0.027300239]
+[u'car_mirror', 0.14547591, u'wing', 0.13662392, u'volcano', 0.10848135, u'space_shuttle', 0.077500626, u'fountain', 0.020849224]
+[u'radiator', 0.085798159, u'spotlight', 0.05922877, u'lampshade', 0.045289613, u'medicine_chest', 0.038575277, u'switch', 0.034595542]
+[u'window_screen', 0.063004076, u'solar_dish', 0.019021405, u'shower_curtain', 0.018405167, u'container_ship', 0.017040586, u'timber_wolf', 0.016084742]
+[u'fireboat', 0.81764573, u'harp', 0.037304595, u'fountain', 0.022258962, u'steel_arch_bridge', 0.017309707, u'bannister', 0.010608877]

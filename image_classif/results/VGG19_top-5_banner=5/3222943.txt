@@ -1,0 +1,2 @@
+[u'comic_book', 0.39327908, u'book_jacket', 0.33998615, u'web_site', 0.13733931, u'brass', 0.042803511, u'menu', 0.020251792]
+[u'scale', 0.20794789, u'magnetic_compass', 0.14694545, u'combination_lock', 0.10933657, u'barometer', 0.090544015, u'digital_watch', 0.083658986]

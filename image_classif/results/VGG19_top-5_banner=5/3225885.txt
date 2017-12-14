@@ -1,0 +1,6 @@
+[u'slot', 0.33674756, u'web_site', 0.24854279, u'comic_book', 0.15453713, u'packet', 0.12223902, u'menu', 0.041640054]
+[u'fountain', 0.65588164, u'altar', 0.076544762, u'book_jacket', 0.022376815, u'park_bench', 0.019118324, u'overskirt', 0.013410388]
+[u"jack-o'-lantern", 0.23583318, u'book_jacket', 0.091822542, u'jersey', 0.072726339, u'candle', 0.028077485, u'torch', 0.027355235]
+[u'nematode', 0.15362221, u'cup', 0.12276094, u'hook', 0.11907934, u'sea_anemone', 0.095590554, u'coil', 0.086268641]
+[u'mask', 0.28358182, u'starfish', 0.27871042, u'conch', 0.17325869, u'triceratops', 0.039126545, u'pick', 0.030571539]
+[u'tray', 0.80423886, u'book_jacket', 0.035941228, u'magnetic_compass', 0.024492381, u'brass', 0.023269935, u'gong', 0.01813812]

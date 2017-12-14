@@ -1,0 +1,6 @@
+[u'overskirt', 0.34000278, u'hoopskirt', 0.11272345, u'gown', 0.052989755, u'cuirass', 0.046987075, u'sarong', 0.039861027]
+[u'bathtub', 0.20949468, u'cowboy_hat', 0.17836952, u'bath_towel', 0.16436355, u'tub', 0.079365432, u'bikini', 0.054664448]
+[u'candle', 0.084281139, u'fire_screen', 0.035792522, u'caldron', 0.032678954, u'monitor', 0.028574225, u'vase', 0.02213897]
+[u'crossword_puzzle', 0.24346726, u'ice_lolly', 0.057578593, u'jigsaw_puzzle', 0.032262661, u"potter's_wheel", 0.030311968, u'hair_spray', 0.02743884]
+[u'diaper', 0.67838836, u'oxygen_mask', 0.12262145, u'stethoscope', 0.033981387, u'bikini', 0.021442873, u'nipple', 0.013758807]
+[u'pick', 0.2887947, u'face_powder', 0.06041, u'lighter', 0.025529195, u'mask', 0.024651334, u'corkscrew', 0.019772893]

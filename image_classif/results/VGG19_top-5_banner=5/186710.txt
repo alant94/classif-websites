@@ -1,0 +1,6 @@
+[u'computer_keyboard', 0.7877872, u'typewriter_keyboard', 0.099247769, u'space_bar', 0.071312331, u'notebook', 0.0089803878, u'waffle_iron', 0.0080127353]
+[u'chime', 0.55637127, u'panpipe', 0.037875012, u'hook', 0.02630879, u'bow', 0.025666257, u'swab', 0.023054747]
+[u'toyshop', 0.89266056, u'jigsaw_puzzle', 0.095308699, u'comic_book', 0.0021759132, u'packet', 0.00099136645, u'shoe_shop', 0.00074393942]
+[u'book_jacket', 0.19654934, u'comic_book', 0.1183687, u'packet', 0.11830669, u'cash_machine', 0.051855683, u'puck', 0.035120703]
+[u'manhole_cover', 0.32843375, u'doormat', 0.30932957, u'maze', 0.041415513, u'shovel', 0.015971489, u'washbasin', 0.010511307]
+[u'umbrella', 0.25124493, u'safety_pin', 0.13764302, u'shower_curtain', 0.06897191, u'chainlink_fence', 0.052271083, u'chain', 0.041962523]

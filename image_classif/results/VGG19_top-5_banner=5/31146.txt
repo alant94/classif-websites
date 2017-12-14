@@ -1,0 +1,1 @@
+[u'lab_coat', 0.17143494, u'syringe', 0.070911244, u'spatula', 0.068540595, u'screwdriver', 0.039369896, u'desk', 0.029144701]

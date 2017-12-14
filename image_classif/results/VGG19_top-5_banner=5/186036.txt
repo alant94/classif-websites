@@ -1,0 +1,1 @@
+[u'red_wine', 0.020759484, u'velvet', 0.019178731, u'theater_curtain', 0.019085841, u'wall_clock', 0.018509116, u'binder', 0.015398527]

@@ -1,0 +1,1 @@
+[u'electric_ray', 0.10310127, u'hammerhead', 0.077910542, u'screen', 0.064631879, u'jellyfish', 0.053372972, u'television', 0.049091589]

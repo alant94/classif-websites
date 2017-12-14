@@ -1,0 +1,1 @@
+[u'book_jacket', 0.21037768, u'picket_fence', 0.084915355, u'analog_clock', 0.064286172, u'flagpole', 0.032283265, u'prison', 0.020204337]

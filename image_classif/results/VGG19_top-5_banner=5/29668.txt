@@ -1,0 +1,1 @@
+[u'matchstick', 0.18742445, u'jellyfish', 0.16886285, u'plastic_bag', 0.14464708, u'volcano', 0.13684335, u'packet', 0.031202201]

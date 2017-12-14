@@ -1,0 +1,6 @@
+[u'street_sign', 0.42206231, u'digital_watch', 0.14844137, u'digital_clock', 0.070466124, u'traffic_light', 0.039252855, u'modem', 0.024340609]
+[u'king_crab', 0.39002299, u'sturgeon', 0.082014315, u'bassoon', 0.081268974, u'flute', 0.066588394, u'torch', 0.04559372]
+[u'stupa', 0.42303085, u'bell_cote', 0.14102817, u'mosque', 0.070820525, u'chime', 0.063853003, u'dome', 0.014638417]
+[u'spotlight', 0.21127912, u'harp', 0.20928636, u'stage', 0.098170459, u'cello', 0.078605756, u'electric_guitar', 0.071815304]
+[u'shower_cap', 0.36085343, u'umbrella', 0.092429273, u'bonnet', 0.058783647, u'bubble', 0.051140964, u'Band_Aid', 0.037820827]
+[u'flute', 0.26564944, u'electric_guitar', 0.17578043, u'panpipe', 0.10583717, u'torch', 0.10010729, u'harp', 0.041659631]

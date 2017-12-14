@@ -1,0 +1,7 @@
+[u'container_ship', 0.26180109, u'crane', 0.091677524, u'digital_clock', 0.025873212, u'envelope', 0.02365355, u'harvester', 0.019823439]
+[u'boathouse', 0.12817809, u'desk', 0.10299664, u'monitor', 0.090295911, u'container_ship', 0.041358326, u'dumbbell', 0.033188909]
+[u'digital_clock', 0.34431413, u'traffic_light', 0.053321827, u"jack-o'-lantern", 0.048450101, u'scoreboard', 0.023272876, u'maze', 0.022489132]
+[u'groenendael', 0.31192061, u'flat-coated_retriever', 0.16329131, u'German_shepherd', 0.04377136, u'schipperke', 0.031152105, u'Border_collie', 0.029804163]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'torch', 0.16440305, u'balance_beam', 0.045472451, u'American_egret', 0.041397944, u'window_screen', 0.031118609, u'black_swan', 0.023318967]
+[u'geyser', 0.12802427, u'Angora', 0.083707079, u'dam', 0.025718417, u'fountain', 0.024248349, u'missile', 0.022095772]

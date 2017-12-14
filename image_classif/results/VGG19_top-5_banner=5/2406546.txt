@@ -1,0 +1,2 @@
+[u'mask', 0.31871983, u'chain_mail', 0.11118777, u'book_jacket', 0.084988505, u'web_site', 0.076746531, u'abaya', 0.035015978]
+[u'wardrobe', 0.339526, u'china_cabinet', 0.11997547, u'bookcase', 0.087322064, u'chiffonier', 0.053170223, u'entertainment_center', 0.044546589]

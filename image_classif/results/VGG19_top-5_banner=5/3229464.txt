@@ -1,0 +1,6 @@
+[u'quill', 0.073884718, u'hatchet', 0.071330637, u'letter_opener', 0.057101253, u'pick', 0.054597579, u'web_site', 0.028060209]
+[u'envelope', 0.095968507, u'face_powder', 0.03861155, u'jersey', 0.034509014, u'binder', 0.033767093, u'web_site', 0.032929484]
+[u'hook', 0.3793304, u'loupe', 0.066482529, u'binder', 0.037230846, u'buckle', 0.016943337, u'sunglass', 0.015488387]
+[u'digital_clock', 0.14588137, u'wall_clock', 0.10130366, u'street_sign', 0.072429746, u'hook', 0.055478387, u'analog_clock', 0.043386228]
+[u'matchstick', 0.306115, u'picket_fence', 0.24318373, u'crossword_puzzle', 0.19224836, u'rule', 0.046732526, u'parking_meter', 0.039438091]
+[u'hook', 0.68003863, u'turnstile', 0.03235855, u'safety_pin', 0.023486605, u'street_sign', 0.021474361, u'buckle', 0.013836888]

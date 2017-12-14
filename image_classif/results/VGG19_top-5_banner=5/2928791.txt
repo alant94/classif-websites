@@ -1,0 +1,5 @@
+[u'lab_coat', 0.50858212, u'stethoscope', 0.051086999, u'safety_pin', 0.038489062, u'Windsor_tie', 0.030714042, u'bolo_tie', 0.023682773]
+[u'lab_coat', 0.082224458, u'perfume', 0.077543385, u'shower_curtain', 0.062732682, u'plastic_bag', 0.056540318, u'lotion', 0.043169949]
+[u'perfume', 0.15379211, u'cocktail_shaker', 0.089735322, u'vase', 0.081648469, u'red_wine', 0.056550927, u'shower_curtain', 0.041134145]
+[u'perfume', 0.12880637, u'vase', 0.11850496, u'paintbrush', 0.11764803, u'cocktail_shaker', 0.067107797, u'goblet', 0.04026923]
+[u'cocktail_shaker', 0.62673128, u'vase', 0.20099257, u'goblet', 0.013178761, u'iron', 0.011879921, u'loudspeaker', 0.010286231]

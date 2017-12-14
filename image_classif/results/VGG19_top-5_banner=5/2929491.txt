@@ -1,0 +1,7 @@
+[u'safe', 0.10129811, u'switch', 0.079831645, u'pencil_sharpener', 0.077720337, u'cash_machine', 0.048341122, u'binder', 0.043141786]
+[u'web_site', 0.99611509, u'envelope', 0.00073880714, u'menu', 0.00057683355, u'book_jacket', 0.00032466729, u'notebook', 0.00021329697]
+[u'stethoscope', 0.93809766, u'lab_coat', 0.03669814, u'pajama', 0.0048009753, u'Windsor_tie', 0.0036335872, u'apron', 0.0022969644]
+[u'web_site', 0.5323, u'menu', 0.069865659, u'crane', 0.038810741, u'scoreboard', 0.036528833, u'drilling_platform', 0.034800343]
+[u'safe', 0.14643638, u'scale', 0.092425175, u'desk', 0.057216879, u'medicine_chest', 0.056860939, u'mosquito_net', 0.046058066]
+[u'iron', 0.071368687, u'swimming_trunks', 0.068121977, u'sweatshirt', 0.048000403, u'jersey', 0.040903017, u'mailbag', 0.031213047]
+[u'wig', 0.13052456, u'fur_coat', 0.060605101, u'pajama', 0.044267032, u'book_jacket', 0.03416663, u'hair_spray', 0.031174393]

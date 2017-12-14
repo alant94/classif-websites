@@ -1,0 +1,2 @@
+[u'book_jacket', 0.12540191, u'panpipe', 0.051693231, u'paintbrush', 0.042084172, u'hatchet', 0.035734139, u'swab', 0.029648073]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,5 @@
+[u'turnstile', 0.53408104, u'library', 0.273094, u'photocopier', 0.055487651, u'washer', 0.01650995, u'shoe_shop', 0.015618431]
+[u'chain', 0.35779265, u'ski', 0.076082177, u'beer_bottle', 0.072677858, u'hook', 0.065008178, u'combination_lock', 0.061954204]
+[u'bubble', 0.13244544, u'feather_boa', 0.073352672, u'microphone', 0.065987416, u'sax', 0.061526481, u'hair_spray', 0.048524164]
+[u'safety_pin', 0.32963625, u'jersey', 0.128903, u'sleeping_bag', 0.10639869, u'wool', 0.057376008, u'sweatshirt', 0.049038362]
+[u'barbershop', 0.16714834, u'marimba', 0.15839796, u'shoe_shop', 0.075300798, u'banjo', 0.058653265, u'drum', 0.045625009]

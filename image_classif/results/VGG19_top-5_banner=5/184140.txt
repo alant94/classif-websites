@@ -1,0 +1,5 @@
+[u'maze', 0.25008696, u'digital_clock', 0.13048171, u'bottlecap', 0.099660508, u'stupa', 0.075842306, u'jigsaw_puzzle', 0.048063744]
+[u'alp', 0.66680741, u'valley', 0.08733248, u'mountain_tent', 0.04403387, u'parachute', 0.024287498, u'cliff', 0.021039953]
+[u'web_site', 0.61069536, u'bicycle-built-for-two', 0.097791985, u'mountain_bike', 0.071790896, u'tricycle', 0.066316813, u'unicycle', 0.053077593]
+[u'bottlecap', 0.35903144, u'mailbag', 0.054093085, u'shield', 0.051201072, u"jack-o'-lantern", 0.043155633, u'backpack', 0.0411079]
+[u'jersey', 0.13897716, u'bulletproof_vest', 0.10548643, u'web_site', 0.081308, u'chain_saw', 0.065844096, u'breastplate', 0.064178139]

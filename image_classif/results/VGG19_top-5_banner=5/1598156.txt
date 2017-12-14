@@ -1,0 +1,6 @@
+[u'sea_lion', 0.43483883, u'dugong', 0.28908917, u'Mexican_hairless', 0.081783779, u'king_penguin', 0.028328186, u'bathing_cap', 0.02275422]
+[u'bathing_cap', 0.35652548, u'swimming_trunks', 0.13521808, u'barbershop', 0.12180699, u'piggy_bank', 0.055481542, u'Band_Aid', 0.032992169]
+[u'sea_lion', 0.26131311, u'Mexican_hairless', 0.25923702, u'bathing_cap', 0.080041416, u'swimming_trunks', 0.042088535, u'Italian_greyhound', 0.041199278]
+[u'bathtub', 0.24993525, u'tub', 0.17866173, u'brassiere', 0.10716479, u'wig', 0.10037395, u'bikini', 0.045400191]
+[u'hoopskirt', 0.29500702, u'gown', 0.25156087, u'groom', 0.19234407, u'diaper', 0.057473157, u'miniskirt', 0.043549113]
+[u'gown', 0.41688192, u'hoopskirt', 0.28901336, u'groom', 0.1331581, u'diaper', 0.077174775, u'miniskirt', 0.016766025]

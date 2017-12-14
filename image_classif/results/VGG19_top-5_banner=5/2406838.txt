@@ -1,0 +1,1 @@
+[u'fireboat', 0.24096593, u'container_ship', 0.1411992, u'steel_arch_bridge', 0.070766434, u'mosque', 0.05526356, u'pier', 0.040274344]

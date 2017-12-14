@@ -1,0 +1,5 @@
+[u'fire_screen', 0.44994587, u'shoji', 0.23023324, u'prison', 0.052355558, u'window_shade', 0.027271667, u'window_screen', 0.015971625]
+[u'window_shade', 0.31687438, u'window_screen', 0.21657625, u'fire_screen', 0.16093644, u'shoji', 0.10561054, u'sliding_door', 0.078611441]
+[u'fire_screen', 0.42887482, u'window_shade', 0.29550412, u'window_screen', 0.092032753, u'shoji', 0.088584892, u'sliding_door', 0.015041072]
+[u'nail', 0.1469195, u'rule', 0.10903952, u'hammer', 0.10072618, u'screwdriver', 0.057662275, u'syringe', 0.057134531]
+[u'window_shade', 0.39626184, u'fire_screen', 0.16163842, u'shoji', 0.16122708, u'window_screen', 0.11815901, u'sliding_door', 0.027194539]

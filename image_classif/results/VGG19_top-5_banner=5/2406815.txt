@@ -1,0 +1,5 @@
+[u'ashcan', 0.28187385, u'mailbox', 0.14073451, u'street_sign', 0.046739802, u'swing', 0.028399359, u'traffic_light', 0.02601365]
+[u'pillow', 0.37409717, u'shower_curtain', 0.16344045, u'picket_fence', 0.049762834, u'sock', 0.030877104, u'sarong', 0.020213764]
+[u'chime', 0.23532628, u'pencil_box', 0.14110713, u'jersey', 0.13366725, u'ballpoint', 0.073274285, u'umbrella', 0.05857382]
+[u'lighter', 0.34191912, u"carpenter's_kit", 0.075819701, u'hair_slide', 0.065842085, u'pencil_box', 0.055003833, u'thimble', 0.054972213]
+[u'altar', 0.69671845, u'church', 0.082884133, u'vestment', 0.079604439, u'bookshop', 0.039284803, u'tobacco_shop', 0.023356125]

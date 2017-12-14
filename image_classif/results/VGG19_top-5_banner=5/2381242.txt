@@ -1,0 +1,2 @@
+[u'brass', 0.17154169, u'upright', 0.09193518, u'accordion', 0.057917383, u'cinema', 0.042984471, u'organ', 0.033996802]
+[u'china_cabinet', 0.25890529, u'window_screen', 0.21442561, u'window_shade', 0.1552119, u'sliding_door', 0.12925829, u'medicine_chest', 0.075558074]

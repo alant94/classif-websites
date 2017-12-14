@@ -1,0 +1,2 @@
+[u'spindle', 0.16364315, u'hook', 0.10159861, u'lampshade', 0.049651437, u'candle', 0.034111302, u'chime', 0.03395915]
+[u'oil_filter', 0.61725867, u'modem', 0.034832221, u'cellular_telephone', 0.026402898, u'mouse', 0.019869244, u'hard_disc', 0.016870882]

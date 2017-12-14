@@ -1,0 +1,5 @@
+[u'chime', 0.41855758, u'wardrobe', 0.088628374, u'ski', 0.081303366, u'shoji', 0.03781461, u'sliding_door', 0.023473242]
+[u'bell_cote', 0.19576854, u'triumphal_arch', 0.11022971, u'birdhouse', 0.061409969, u'pedestal', 0.043802425, u'beacon', 0.043164864]
+[u'ski', 0.49539179, u'swab', 0.096621267, u'hair_slide', 0.073233396, u'mitten', 0.052655458, u'hook', 0.043045945]
+[u'space_shuttle', 0.38363305, u'fountain', 0.092348322, u'castle', 0.074753359, u'beacon', 0.07298097, u'parachute', 0.039727531]
+[u'abaya', 0.45626292, u'wooden_spoon', 0.078264348, u'wardrobe', 0.053084686, u'chime', 0.023517612, u'wine_bottle', 0.023166711]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.39055198, u'jersey', 0.050302941, u'packet', 0.049562231, u'street_sign', 0.048294596, u'cash_machine', 0.042213678]
+[u'corkscrew', 0.21890011, u'sax', 0.099095456, u'cornet', 0.07376042, u'revolver', 0.059104156, u'can_opener', 0.040590711]
+[u'shoe_shop', 0.4413045, u'web_site', 0.10161083, u'toyshop', 0.082289942, u'refrigerator', 0.077395491, u'vending_machine', 0.037621651]

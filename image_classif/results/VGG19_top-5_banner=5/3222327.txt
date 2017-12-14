@@ -1,0 +1,2 @@
+[u'mask', 0.88229316, u'wig', 0.026590476, u'cloak', 0.012496006, u'lipstick', 0.0045256321, u'cleaver', 0.0034965205]
+[u'oscilloscope', 0.42287475, u'jellyfish', 0.077817261, u'matchstick', 0.071951702, u'fountain', 0.042531297, u'sea_anemone', 0.032893859]

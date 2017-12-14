@@ -1,0 +1,7 @@
+[u'binder', 0.11534898, u'envelope', 0.10632163, u'web_site', 0.092345737, u'book_jacket', 0.029942755, u'digital_clock', 0.021567615]
+[u'comic_book', 0.31308317, u'mask', 0.096581228, u'cowboy_boot', 0.050008725, u'church', 0.027253432, u'bolo_tie', 0.025849286]
+[u'web_site', 0.29638451, u'menu', 0.20488285, u'binder', 0.052148003, u'monitor', 0.051239349, u'envelope', 0.030636577]
+[u'vestment', 0.7557137, u'lab_coat', 0.047777195, u'kimono', 0.03719572, u'academic_gown', 0.030818433, u'cleaver', 0.027586684]
+[u'vestment', 0.96226513, u'groom', 0.020167142, u'abaya', 0.0027051386, u'altar', 0.0022914747, u'academic_gown', 0.0018248856]
+[u'wardrobe', 0.51290607, u'vestment', 0.34214026, u'butcher_shop', 0.066653855, u'academic_gown', 0.016872419, u'abaya', 0.010307629]
+[u'bookshop', 0.79581785, u'library', 0.18705878, u'bookcase', 0.0082049035, u'tobacco_shop', 0.0032290139, u'comic_book', 0.0011326681]

@@ -1,0 +1,3 @@
+[u'street_sign', 0.88766468, u'stopwatch', 0.014791964, u'digital_clock', 0.01423885, u'analog_clock', 0.006698099, u'laptop', 0.0064895661]
+[u"carpenter's_kit", 0.37482026, u'screwdriver', 0.1385854, u'swab', 0.12461422, u'shopping_basket', 0.10826568, u'power_drill', 0.032320045]
+[u'street_sign', 0.092769571, u'swab', 0.087045282, u'safety_pin', 0.048870675, u'hook', 0.022327965, u'wall_clock', 0.020517724]

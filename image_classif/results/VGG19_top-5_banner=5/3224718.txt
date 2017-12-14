@@ -1,0 +1,6 @@
+[u'oscilloscope', 0.24339695, u'monitor', 0.18721358, u'matchstick', 0.14989719, u'theater_curtain', 0.060794599, u'stage', 0.057334658]
+[u'book_jacket', 0.18993747, u'street_sign', 0.11738157, u'packet', 0.090889446, u'envelope', 0.070159681, u'binder', 0.067748323]
+[u'golf_ball', 0.99987471, u'baseball', 9.0735375e-05, u'croquet_ball', 1.2736333e-05, u'ping-pong_ball', 6.8701861e-06, u'rugby_ball', 3.6337128e-06]
+[u'theater_curtain', 0.24503089, u'fountain', 0.22752887, u'shower_curtain', 0.094234146, u'spotlight', 0.08983922, u'mosquito_net', 0.064052545]
+[u'web_site', 0.3436248, u'hook', 0.040597662, u'nematode', 0.032976404, u'envelope', 0.028853605, u'menu', 0.023608485]
+[u'web_site', 0.99891412, u'menu', 0.00012617886, u'envelope', 0.0001044114, u'book_jacket', 5.5546421e-05, u'comic_book', 4.8289956e-05]

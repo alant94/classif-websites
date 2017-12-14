@@ -1,0 +1,7 @@
+[u'bikini', 0.12689041, u'bubble', 0.098572075, u'maypole', 0.057216845, u'fountain', 0.04763503, u'unicycle', 0.044906698]
+[u'envelope', 0.12766704, u'binder', 0.080617324, u'menu', 0.046804864, u'web_site', 0.043262932, u'book_jacket', 0.024475573]
+[u'medicine_chest', 0.10240166, u'envelope', 0.083782569, u'wardrobe', 0.077416889, u'shower_curtain', 0.065573312, u'washbasin', 0.062889867]
+[u'picket_fence', 0.11098497, u'candle', 0.10426261, u'pill_bottle', 0.060916089, u'rapeseed', 0.055737868, u'envelope', 0.046463441]
+[u'envelope', 0.66544849, u'book_jacket', 0.18924087, u'carton', 0.079956882, u'Band_Aid', 0.018515097, u'packet', 0.016315054]
+[u'swing', 0.59893441, u'suspension_bridge', 0.06261754, u'jean', 0.028127672, u'bow', 0.022186764, u'horizontal_bar', 0.015546025]
+[u'digital_clock', 0.69628721, u'container_ship', 0.10904704, u'scoreboard', 0.042663824, u'whistle', 0.015494769, u'street_sign', 0.011061328]

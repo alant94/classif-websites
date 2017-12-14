@@ -1,0 +1,8 @@
+[u'pole', 0.091532148, u'lakeside', 0.084639639, u'flagpole', 0.052016031, u'mountain_bike', 0.026866039, u'swing', 0.026430421]
+[u'viaduct', 0.054016724, u'mountain_tent', 0.047614228, u'worm_fence', 0.039382245, u'pole', 0.037132144, u'valley', 0.033386804]
+[u'lakeside', 0.066288203, u'worm_fence', 0.045760214, u'mountain_tent', 0.030478572, u'park_bench', 0.025822256, u'radio_telescope', 0.023390939]
+[u'barn', 0.22892216, u'worm_fence', 0.12696762, u'viaduct', 0.056273561, u'stone_wall', 0.044705734, u'park_bench', 0.041892666]
+[u'military_uniform', 0.52283973, u'cowboy_hat', 0.073880732, u'assault_rifle', 0.043900061, u'rifle', 0.028619923, u'half_track', 0.026098454]
+[u'park_bench', 0.08905302, u'radio_telescope', 0.062094484, u'picket_fence', 0.053462982, u'water_tower', 0.050234504, u'flagpole', 0.049209237]
+[u'greenhouse', 0.85006344, u'suspension_bridge', 0.012184373, u'steel_arch_bridge', 0.0099113723, u'worm_fence', 0.0098718135, u'chainlink_fence', 0.0090906424]
+[u'pinwheel', 0.14961538, u'daisy', 0.11526971, u'picket_fence', 0.07696341, u'pot', 0.062194873, u'birdhouse', 0.041217651]

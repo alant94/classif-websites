@@ -1,0 +1,4 @@
+[u'candle', 0.99183488, u'matchstick', 0.0031320355, u'space_shuttle', 0.0017882223, u'picket_fence', 0.00046537083, u'nipple', 0.00030345426]
+[u'picket_fence', 0.130124, u'ski', 0.1009618, u'nail', 0.082299158, u'swab', 0.069125444, u'screwdriver', 0.062336933]
+[u'envelope', 0.33444679, u'Band_Aid', 0.12724003, u'web_site', 0.083622262, u'digital_clock', 0.065748036, u'nipple', 0.011093241]
+[u'envelope', 0.21553567, u'web_site', 0.11125176, u'Band_Aid', 0.062877245, u'Windsor_tie', 0.040908951, u'digital_clock', 0.037574317]

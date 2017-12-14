@@ -1,0 +1,2 @@
+[u'carton', 0.7611233, u'crate', 0.050858039, u'grocery_store', 0.017789431, u'kimono', 0.016839419, u'lab_coat', 0.0098939147]
+[u'minivan', 0.7381227, u'beach_wagon', 0.080062456, u'minibus', 0.065815955, u'limousine', 0.016438069, u'pickup', 0.014819094]

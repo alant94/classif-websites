@@ -1,0 +1,3 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'sunglasses', 0.14060879, u'sunscreen', 0.10651378, u'golfcart', 0.074806027, u'sunglass', 0.0483425, u'park_bench', 0.041637294]
+[u'envelope', 0.40756512, u'digital_clock', 0.21979487, u'Band_Aid', 0.075166754, u'crossword_puzzle', 0.030282872, u'maze', 0.027331486]

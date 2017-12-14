@@ -1,0 +1,8 @@
+[u'fountain', 0.24845712, u'umbrella', 0.21060015, u'planetarium', 0.14418621, u'bubble', 0.072483681, u'web_site', 0.036425766]
+[u'analog_clock', 0.14936896, u'magnetic_compass', 0.11747764, u'stopwatch', 0.085786335, u'wall_clock', 0.080302946, u'monitor', 0.063963592]
+[u'bell_cote', 0.2691679, u'poncho', 0.088989727, u'spotlight', 0.04957575, u'grand_piano', 0.03136972, u'switch', 0.031291973]
+[u'barbell', 0.19839104, u'dumbbell', 0.12840679, u'punching_bag', 0.0763577, u'tripod', 0.062515333, u'wine_bottle', 0.044585928]
+[u'impala', 0.53074265, u'gazelle', 0.28664777, u'hare', 0.094353385, u'hartebeest', 0.050210256, u'ibex', 0.02531435]
+[u'patio', 0.29375285, u'greenhouse', 0.2499664, u'sliding_door', 0.13096122, u'mobile_home', 0.079352498, u'picket_fence', 0.049374968]
+[u'barracouta', 0.27868459, u'sturgeon', 0.12666, u'hog', 0.060742009, u'warthog', 0.051561352, u'whippet', 0.04002526]
+[u'loupe', 0.38701439, u'spotlight', 0.33715519, u'magnetic_compass', 0.069880731, u'stopwatch', 0.034211665, u'analog_clock', 0.025370119]

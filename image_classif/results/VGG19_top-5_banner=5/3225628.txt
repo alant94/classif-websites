@@ -1,0 +1,1 @@
+[u'bow', 0.23585458, u'throne', 0.15622313, u'hook', 0.14295566, u'flagpole', 0.10155992, u'traffic_light', 0.071612962]

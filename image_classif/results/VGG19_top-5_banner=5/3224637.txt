@@ -1,0 +1,6 @@
+[u'web_site', 0.84070766, u'envelope', 0.029664567, u'menu', 0.018970182, u'binder', 0.0077814236, u'book_jacket', 0.0037560638]
+[u'safe', 0.13950941, u'desk', 0.083645277, u'photocopier', 0.071248792, u'entertainment_center', 0.069028251, u'home_theater', 0.05124972]
+[u'coil', 0.36747032, u'hook', 0.13287917, u'safety_pin', 0.12509477, u'hair_slide', 0.10711429, u'plate_rack', 0.078775465]
+[u'web_site', 0.13715371, u'envelope', 0.097720616, u'velvet', 0.014423162, u'Windsor_tie', 0.014202383, u'nipple', 0.013039801]
+[u'book_jacket', 0.20026635, u'screwdriver', 0.1839678, u'swab', 0.090555102, u'nail', 0.072495356, u'chime', 0.041026965]
+[u'picket_fence', 0.18450214, u'wine_bottle', 0.14740111, u'worm_fence', 0.088074237, u'black_grouse', 0.073795542, u'red_wine', 0.035769247]

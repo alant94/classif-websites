@@ -1,0 +1,3 @@
+[u'breakwater', 0.17203923, u'pier', 0.11638913, u'lakeside', 0.080355577, u'space_shuttle', 0.073487028, u'dock', 0.063859306]
+[u'flagpole', 0.12762114, u'triumphal_arch', 0.065968245, u'lakeside', 0.064379066, u'obelisk', 0.055565853, u'safety_pin', 0.054363966]
+[u'hip', 0.21749441, u'hummingbird', 0.18255264, u'monarch', 0.13849449, u'lorikeet', 0.046953216, u'buckeye', 0.041824266]

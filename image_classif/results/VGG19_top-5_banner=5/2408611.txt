@@ -1,0 +1,6 @@
+[u'paper_towel', 0.17959574, u'candle', 0.15520112, u'book_jacket', 0.13400523, u'nipple', 0.073340915, u'toilet_tissue', 0.030313646]
+[u'web_site', 0.28647402, u'monitor', 0.27500719, u'screen', 0.098117724, u'oscilloscope', 0.051076066, u'analog_clock', 0.034717202]
+[u'packet', 0.35891753, u'eggnog', 0.1295841, u'strawberry', 0.085849315, u'book_jacket', 0.071718499, u'candle', 0.047153022]
+[u'cash_machine', 0.57014382, u'menu', 0.08722052, u'envelope', 0.063138455, u'packet', 0.036756091, u'web_site', 0.030651873]
+[u'menu', 0.2532731, u'conch', 0.19872469, u'web_site', 0.17343095, u'book_jacket', 0.067340724, u'flatworm', 0.045879398]
+[u'altar', 0.96340221, u'balloon', 0.0072758589, u'perfume', 0.00621319, u'candle', 0.0046062553, u'toyshop', 0.0036135335]

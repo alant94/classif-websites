@@ -1,0 +1,2 @@
+[u'web_site', 0.13324688, u'comic_book', 0.10127448, u'book_jacket', 0.097750589, u'academic_gown', 0.086152703, u'abaya', 0.047534525]
+[u'book_jacket', 0.40435171, u'bow_tie', 0.042459127, u'web_site', 0.038647015, u'comic_book', 0.037397757, u'sleeping_bag', 0.036294278]

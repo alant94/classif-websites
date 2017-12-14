@@ -1,0 +1,2 @@
+[u'ski', 0.073360145, u'cinema', 0.064273335, u'picket_fence', 0.040021054, u'carton', 0.037943043, u'shower_curtain', 0.026056455]
+[u'pillow', 0.2205694, u'sock', 0.15632436, u'flagpole', 0.069923379, u'Windsor_tie', 0.056337342, u'Christmas_stocking', 0.029692562]

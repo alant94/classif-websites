@@ -1,0 +1,4 @@
+[u'wall_clock', 0.16832714, u'book_jacket', 0.063794978, u'analog_clock', 0.04936628, u'digital_clock', 0.042816162, u'street_sign', 0.029975394]
+[u'jellyfish', 0.1881621, u'scuba_diver', 0.078734197, u'hammerhead', 0.049605917, u'dugong', 0.037221454, u'sea_snake', 0.02703907]
+[u'digital_clock', 0.074526258, u'hook', 0.057634015, u'switch', 0.027008861, u'matchstick', 0.024332143, u'lighter', 0.023724815]
+[u'cash_machine', 0.16623145, u'digital_clock', 0.11036097, u'switch', 0.075183637, u'rule', 0.048408464, u'remote_control', 0.036952529]

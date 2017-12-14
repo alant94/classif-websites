@@ -1,0 +1,5 @@
+[u'iPod', 0.11709145, u'nematode', 0.062364079, u'loudspeaker', 0.061417744, u'switch', 0.050891247, u'analog_clock', 0.036225118]
+[u'crossword_puzzle', 0.2913408, u'book_jacket', 0.11469633, u'web_site', 0.041813374, u'scoreboard', 0.039459612, u'jersey', 0.032377221]
+[u'loudspeaker', 0.13482969, u'paper_towel', 0.076199591, u'ski_mask', 0.072345257, u'birdhouse', 0.062746279, u'mask', 0.05280935]
+[u'web_site', 0.15028419, u'television', 0.031256251, u'nematode', 0.026155107, u'sunglass', 0.023429159, u'bubble', 0.022263929]
+[u'measuring_cup', 0.073430203, u'fireboat', 0.066498883, u'lab_coat', 0.063271217, u'broom', 0.04324764, u'swab', 0.040103994]

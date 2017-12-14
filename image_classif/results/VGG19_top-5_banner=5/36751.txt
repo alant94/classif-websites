@@ -1,0 +1,8 @@
+[u'Persian_cat', 0.8853752, u'Pomeranian', 0.041762039, u'chow', 0.021823879, u'Shetland_sheepdog', 0.011110633, u'Newfoundland', 0.0080254711]
+[u'digital_clock', 0.2180821, u'web_site', 0.07147292, u'envelope', 0.027451662, u'stopwatch', 0.02485057, u'crossword_puzzle', 0.021194568]
+[u'Persian_cat', 0.8795113, u'Pomeranian', 0.097692817, u'chow', 0.011820307, u'Pekinese', 0.0024309747, u'Angora', 0.001632023]
+[u'Persian_cat', 0.9892503, u'Angora', 0.0092131356, u'Pekinese', 0.0012779947, u'Pomeranian', 0.00012129902, u'Shih-Tzu', 6.5310407e-05]
+[u'Persian_cat', 0.96430469, u'Angora', 0.0055504628, u'file', 0.0042954348, u'lynx', 0.0040569496, u'tiger_cat', 0.0025400168]
+[u'Persian_cat', 0.99792117, u'lynx', 0.00028778316, u'Lhasa', 0.00021367107, u'Pekinese', 0.00019754372, u'Shih-Tzu', 0.00016702297]
+[u'Persian_cat', 0.48881632, u'Pomeranian', 0.23283909, u'Pekinese', 0.14641654, u'chow', 0.041102499, u'Lhasa', 0.01461496]
+[u'Persian_cat', 0.99875343, u'lynx', 0.00045528426, u'tabby', 0.00014974143, u'Shih-Tzu', 8.5835731e-05, u'Pekinese', 8.5089654e-05]

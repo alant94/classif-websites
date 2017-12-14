@@ -1,0 +1,4 @@
+[u'maypole', 0.42991272, u'bow', 0.27288866, u'Indian_elephant', 0.060485542, u'tusker', 0.037954699, u'cloak', 0.027186196]
+[u'swing', 0.40890148, u'bow', 0.094955049, u'tricycle', 0.06201873, u'orangutan', 0.034676168, u'barrow', 0.016793523]
+[u'warplane', 0.47740439, u'jigsaw_puzzle', 0.20230195, u'acorn', 0.056805931, u'wall_clock', 0.056282222, u'pencil_sharpener', 0.051725201]
+[u'lumbermill', 0.51632762, u'butcher_shop', 0.061533801, u"potter's_wheel", 0.049645793, u'oxcart', 0.023372922, u'grocery_store', 0.015808146]

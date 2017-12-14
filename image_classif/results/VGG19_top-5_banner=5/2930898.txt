@@ -1,0 +1,8 @@
+[u'dough', 0.35831416, u'cauliflower', 0.082166381, u'corn', 0.061891627, u'golf_ball', 0.055063143, u'strainer', 0.044514544]
+[u'lab_coat', 0.29476345, u'web_site', 0.26546767, u'Afghan_hound', 0.044713482, u'briard', 0.029691329, u'barbershop', 0.02435369]
+[u'web_site', 0.99856442, u'menu', 0.00036432588, u'screen', 0.00028055313, u'monitor', 0.00025322763, u'envelope', 0.00012208406]
+[u'lakeside', 0.38208145, u'gown', 0.075699151, u'groom', 0.063733526, u'canoe', 0.061787583, u'sarong', 0.049902841]
+[u'cockroach', 0.16173081, u'isopod', 0.11806604, u'tick', 0.037032273, u'fountain', 0.033376232, u'ant', 0.024330948]
+[u'clog', 0.081934005, u'mortar', 0.077183813, u'hamper', 0.05337866, u'necklace', 0.04367118, u'candle', 0.036220066]
+[u'coffee_mug', 0.44688734, u'espresso', 0.1797688, u'cup', 0.17297465, u'measuring_cup', 0.05795693, u'consomme', 0.028607704]
+[u'nail', 0.92549896, u'lumbermill', 0.023317665, u'screw', 0.0070774872, u'thatch', 0.0064373934, u'matchstick', 0.0048341658]

@@ -1,0 +1,2 @@
+[u'jersey', 0.05080197, u'picket_fence', 0.039795373, u'doormat', 0.039247453, u'lens_cap', 0.03625565, u'binder', 0.031144397]
+[u'church', 0.58885914, u'monastery', 0.25536916, u'bell_cote', 0.084172867, u'castle', 0.014705601, u'mosque', 0.0095888125]

@@ -1,0 +1,3 @@
+[u'web_site', 0.060034841, u'remote_control', 0.046616934, u'hand_blower', 0.037501529, u'sunscreen', 0.033401757, u'letter_opener', 0.025022713]
+[u'toilet_seat', 0.064885236, u'stopwatch', 0.046772737, u'rubber_eraser', 0.044681944, u'scale', 0.042197496, u'hook', 0.03395636]
+[u'web_site', 0.6848411, u'menu', 0.23882374, u'envelope', 0.039527696, u'binder', 0.0037365833, u'hand_blower', 0.002217496]

@@ -1,0 +1,6 @@
+[u'book_jacket', 0.74595201, u'packet', 0.13025792, u'comic_book', 0.03098939, u'Band_Aid', 0.013638003, u'jersey', 0.0048570279]
+[u'loudspeaker', 0.90793365, u'analog_clock', 0.01099476, u'cassette_player', 0.010876921, u'cassette', 0.0090448791, u'radio', 0.0071793599]
+[u'book_jacket', 0.23731202, u'web_site', 0.11696848, u'jersey', 0.056367833, u'digital_clock', 0.039453469, u'scoreboard', 0.037697561]
+[u'book_jacket', 0.74595201, u'packet', 0.13025792, u'comic_book', 0.03098939, u'Band_Aid', 0.013638003, u'jersey', 0.0048570279]
+[u'barbershop', 0.16050668, u'scoreboard', 0.08111041, u'street_sign', 0.079431303, u'comic_book', 0.064591758, u'book_jacket', 0.062720619]
+[u'plastic_bag', 0.22846846, u'envelope', 0.1825262, u'packet', 0.092409663, u'web_site', 0.076830126, u'paper_towel', 0.056380931]

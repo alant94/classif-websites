@@ -1,0 +1,2 @@
+[u'window_screen', 0.070385747, u'sliding_door', 0.028691787, u'window_shade', 0.01463706, u'meerkat', 0.014340169, u'timber_wolf', 0.011988048]
+[u'barrel', 0.4234156, u'wardrobe', 0.056805324, u'gong', 0.040071037, u'toilet_seat', 0.035559118, u'wooden_spoon', 0.031953283]

@@ -1,0 +1,3 @@
+[u'suit', 0.28531766, u'groom', 0.18495445, u'torch', 0.075204134, u'Windsor_tie', 0.075124286, u'academic_gown', 0.073682487]
+[u'rubber_eraser', 0.31328654, u'combination_lock', 0.10648969, u'sunscreen', 0.072295576, u'pill_bottle', 0.072089165, u'whistle', 0.066528298]
+[u'screwdriver', 0.16889745, u'chime', 0.097172819, u'binder', 0.07837984, u"carpenter's_kit", 0.061960112, u'forklift', 0.021739943]

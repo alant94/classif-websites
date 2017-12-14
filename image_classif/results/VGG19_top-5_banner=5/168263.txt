@@ -1,0 +1,5 @@
+[u'fountain', 0.92050982, u'picket_fence', 0.024276683, u'barn', 0.017799048, u'birdhouse', 0.0036027352, u'worm_fence', 0.0024617291]
+[u'picket_fence', 0.22780095, u'book_jacket', 0.16595671, u'ski', 0.055812888, u'abaya', 0.039535653, u'umbrella', 0.031380035]
+[u'web_site', 0.48678905, u'scoreboard', 0.11404631, u'book_jacket', 0.060341746, u'bookshop', 0.056982279, u'entertainment_center', 0.022110879]
+[u'street_sign', 0.36645237, u'iPod', 0.083332293, u'laptop', 0.058431845, u'digital_clock', 0.054426327, u'lighter', 0.04515592]
+[u'scoreboard', 0.25099012, u'steam_locomotive', 0.066449843, u'missile', 0.051244579, u'projectile', 0.034438763, u'volcano', 0.030679379]

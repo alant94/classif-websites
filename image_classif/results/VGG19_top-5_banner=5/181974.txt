@@ -1,0 +1,4 @@
+[u'candle', 0.31243697, u'matchstick', 0.24643894, u'chime', 0.078772172, u'picket_fence', 0.060540833, u'digital_clock', 0.04633737]
+[u'shower_curtain', 0.2313202, u'binder', 0.074229307, u'envelope', 0.057209536, u'book_jacket', 0.054383222, u'crib', 0.027742889]
+[u'matchstick', 0.13440411, u'cinema', 0.061184257, u'candle', 0.053590946, u'book_jacket', 0.052592713, u'street_sign', 0.047612075]
+[u'wig', 0.30248955, u'neck_brace', 0.24060562, u'hair_spray', 0.133331, u'hand_blower', 0.017449545, u'cellular_telephone', 0.011917983]

@@ -1,0 +1,6 @@
+[u'horse_cart', 0.1791704, u'unicycle', 0.11502118, u'triumphal_arch', 0.08831469, u'palace', 0.08650665, u'bearskin', 0.044861216]
+[u'ambulance', 0.12241296, u'amphibian', 0.081086725, u'minibus', 0.076733097, u'garbage_truck', 0.076461971, u'streetcar', 0.046702165]
+[u'palace', 0.23752293, u'triumphal_arch', 0.15988044, u'flagpole', 0.098215185, u'obelisk', 0.068824477, u'fountain', 0.059638221]
+[u'street_sign', 0.33238143, u'scoreboard', 0.31222263, u'sundial', 0.04153898, u'park_bench', 0.029734343, u'streetcar', 0.025425421]
+[u'fountain', 0.39074546, u'stage', 0.12908196, u'volcano', 0.045904078, u'lakeside', 0.042253364, u'traffic_light', 0.038478382]
+[u'trench_coat', 0.10864924, u'suit', 0.083551742, u'jersey', 0.075870596, u'sweatshirt', 0.055339869, u'wig', 0.035180002]

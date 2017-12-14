@@ -1,0 +1,2 @@
+[u'wig', 0.069802985, u'bow_tie', 0.038289774, u'jersey', 0.037560087, u'neck_brace', 0.036092088, u'stole', 0.026603565]
+[u'pick', 0.19789016, u'face_powder', 0.14351344, u'pill_bottle', 0.10837563, u'rubber_eraser', 0.10618401, u'Band_Aid', 0.071367279]

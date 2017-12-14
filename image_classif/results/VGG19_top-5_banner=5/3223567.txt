@@ -1,0 +1,2 @@
+[u'wall_clock', 0.17964853, u'puck', 0.062423758, u'buckle', 0.052406676, u'analog_clock', 0.048625361, u'hair_slide', 0.043244109]
+[u'palace', 0.10230707, u'monastery', 0.070538446, u'picket_fence', 0.069987513, u'prison', 0.056241877, u'flagpole', 0.042210162]

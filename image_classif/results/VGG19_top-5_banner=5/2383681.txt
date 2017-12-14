@@ -1,0 +1,1 @@
+[u'cash_machine', 0.20217307, u'hand-held_computer', 0.1960278, u'screen', 0.15316944, u'iPod', 0.10490692, u'web_site', 0.035449009]

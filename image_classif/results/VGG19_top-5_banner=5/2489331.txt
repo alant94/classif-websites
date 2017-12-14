@@ -1,0 +1,8 @@
+[u'window_screen', 0.62726343, u'window_shade', 0.058874633, u'hamper', 0.05386072, u'radiator', 0.042181626, u'velvet', 0.022487827]
+[u'lampshade', 0.24224631, u'window_screen', 0.057371479, u'matchstick', 0.018573191, u'strainer', 0.018185375, u'hoopskirt', 0.017698871]
+[u'malinois', 0.08173836, u'worm_fence', 0.077112645, u'hartebeest', 0.073505409, u'plow', 0.041779891, u'lawn_mower', 0.04160155]
+[u'worm_fence', 0.092302568, u'mountain_bike', 0.0460472, u'plow', 0.028373929, u'lawn_mower', 0.02502057, u'horse_cart', 0.022443593]
+[u'jellyfish', 0.1039903, u'window_screen', 0.065623306, u'coral_reef', 0.039268758, u'lionfish', 0.039040811, u'fire_screen', 0.035728876]
+[u'fountain', 0.11894127, u'stage', 0.057913028, u'torch', 0.043030806, u'balance_beam', 0.020277996, u'web_site', 0.017153664]
+[u'book_jacket', 0.1971837, u'jersey', 0.10495263, u'web_site', 0.072972305, u'comic_book', 0.03045856, u'matchstick', 0.028630076]
+[u'mountain_bike', 0.10166271, u'bicycle-built-for-two', 0.057508606, u'go-kart', 0.054235343, u'harvester', 0.050985675, u'racer', 0.046300378]

@@ -1,0 +1,3 @@
+[u'iron', 0.13762125, u'remote_control', 0.11633119, u'ski', 0.049426805, u'pick', 0.047505848, u'paddle', 0.043508571]
+[u'alp', 0.57889688, u'valley', 0.12243325, u'lakeside', 0.083261713, u'cliff', 0.027707148, u'seashore', 0.023149835]
+[u'envelope', 0.12618789, u'wall_clock', 0.037392087, u'web_site', 0.031036802, u'digital_clock', 0.023768367, u'book_jacket', 0.02233253]

@@ -1,0 +1,2 @@
+[u'American_lobster', 0.10895092, u'king_crab', 0.080708578, u'shoe_shop', 0.027215479, u'Dungeness_crab', 0.023136497, u'restaurant', 0.023034552]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

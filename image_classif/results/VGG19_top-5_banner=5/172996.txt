@@ -1,0 +1,1 @@
+[u'paper_towel', 0.11129235, u'puck', 0.096670985, u'toilet_tissue', 0.076409437, u'nematode', 0.053383734, u'oil_filter', 0.034380838]

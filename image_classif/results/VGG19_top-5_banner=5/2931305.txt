@@ -1,0 +1,8 @@
+[u'envelope', 0.11794578, u'wall_clock', 0.055375159, u'wardrobe', 0.031391151, u'book_jacket', 0.029899405, u'digital_clock', 0.028230557]
+[u'book_jacket', 0.8361966, u'web_site', 0.015704485, u'comic_book', 0.013216319, u'street_sign', 0.008262339, u'pill_bottle', 0.0042418446]
+[u'jean', 0.17166817, u'crutch', 0.097697228, u'sweatshirt', 0.036372889, u'abaya', 0.035647202, u'coho', 0.029696794]
+[u'crossword_puzzle', 0.17103507, u'digital_clock', 0.094696708, u'digital_watch', 0.059562385, u'envelope', 0.026971282, u'Windsor_tie', 0.026244953]
+[u'envelope', 0.12892997, u'container_ship', 0.024414074, u'crossword_puzzle', 0.024260597, u'Windsor_tie', 0.022894623, u'web_site', 0.022691276]
+[u'envelope', 0.06967482, u'container_ship', 0.065983973, u'digital_watch', 0.038096435, u'digital_clock', 0.034918338, u'crossword_puzzle', 0.03151289]
+[u'envelope', 0.12618789, u'wall_clock', 0.037392087, u'web_site', 0.031036802, u'digital_clock', 0.023768367, u'book_jacket', 0.02233253]
+[u'crossword_puzzle', 0.36405116, u'Windsor_tie', 0.026384281, u'shower_curtain', 0.020459674, u'digital_watch', 0.019238131, u'quilt', 0.017884994]

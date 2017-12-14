@@ -1,0 +1,5 @@
+[u'Scottish_deerhound', 0.043642834, u'swing', 0.037639808, u'English_setter', 0.037391637, u'hartebeest', 0.026587071, u'impala', 0.023532633]
+[u'spotlight', 0.43214452, u'golf_ball', 0.090641953, u'rubber_eraser', 0.036808327, u'saltshaker', 0.034991071, u'screw', 0.03461146]
+[u'military_uniform', 0.35710946, u'megalith', 0.057055615, u'assault_rifle', 0.039692018, u'rifle', 0.032961272, u'yurt', 0.023834342]
+[u'impala', 0.51857525, u'gazelle', 0.23916499, u'hartebeest', 0.11251797, u'ibex', 0.015355421, u'oxcart', 0.014510033]
+[u'church', 0.37304661, u'patio', 0.16505463, u'barn', 0.074596018, u'boathouse', 0.073300548, u'lakeside', 0.04556255]

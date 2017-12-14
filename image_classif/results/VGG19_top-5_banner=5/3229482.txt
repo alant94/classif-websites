@@ -1,0 +1,1 @@
+[u'chain_saw', 0.2120533, u'quill', 0.20839375, u'envelope', 0.098925352, u'book_jacket', 0.043146081, u'crane', 0.032679223]

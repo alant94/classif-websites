@@ -1,0 +1,2 @@
+[u'water_buffalo', 0.046900582, u'stone_wall', 0.046385352, u'megalith', 0.043820437, u'lakeside', 0.038012575, u'rapeseed', 0.03634188]
+[u'organ', 0.89925784, u'chime', 0.024878701, u'fountain', 0.0083863465, u'picket_fence', 0.0071156989, u'window_shade', 0.0056792037]

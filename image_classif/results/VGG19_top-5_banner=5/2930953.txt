@@ -1,0 +1,7 @@
+[u'patio', 0.18889658, u'maze', 0.15738484, u'crate', 0.10124563, u'pedestal', 0.065468766, u'brass', 0.04765112]
+[u'valley', 0.29468632, u'alp', 0.23896332, u'lakeside', 0.047496751, u'volcano', 0.047099024, u'parachute', 0.031016463]
+[u'maze', 0.20895521, u'patio', 0.12644896, u'African_crocodile', 0.11270182, u'American_alligator', 0.099810578, u'lakeside', 0.045554522]
+[u'digital_clock', 0.1370226, u'container_ship', 0.047350649, u'envelope', 0.046785921, u'crossword_puzzle', 0.044323787, u'library', 0.03825441]
+[u'pick', 0.20049661, u'balloon', 0.10821372, u'hair_slide', 0.086648077, u'pomegranate', 0.04584603, u'envelope', 0.040759742]
+[u'theater_curtain', 0.87188357, u'groom', 0.024062825, u'stage', 0.01367187, u'academic_gown', 0.013086874, u'mortarboard', 0.0096298261]
+[u'digital_clock', 0.068600193, u'envelope', 0.050789326, u'crossword_puzzle', 0.03357986, u'lampshade', 0.031565119, u'Band_Aid', 0.029381113]

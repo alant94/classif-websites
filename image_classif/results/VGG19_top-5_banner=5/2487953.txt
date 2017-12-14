@@ -1,0 +1,8 @@
+[u'Labrador_retriever', 0.17652711, u'Chesapeake_Bay_retriever', 0.15900393, u'golden_retriever', 0.092386611, u'Great_Pyrenees', 0.055114061, u'Tibetan_mastiff', 0.049954519]
+[u'ski', 0.12808755, u'bobsled', 0.10540169, u'chain_saw', 0.096404456, u'lifeboat', 0.038309012, u'coho', 0.029276054]
+[u'black_grouse', 0.41333437, u'oystercatcher', 0.21318693, u'European_gallinule', 0.067085706, u'coucal', 0.045176566, u'ruffed_grouse', 0.0325385]
+[u'partridge', 0.28378138, u'prairie_chicken', 0.27351934, u'black_grouse', 0.23315853, u'ruffed_grouse', 0.1564824, u'quail', 0.0085606165]
+[u'stone_wall', 0.16531776, u'picket_fence', 0.15605661, u'worm_fence', 0.10047548, u'greenhouse', 0.060711566, u'patio', 0.040178403]
+[u'maze', 0.29136342, u'valley', 0.21605694, u'hay', 0.12325638, u'lakeside', 0.1142472, u'sandbar', 0.027128661]
+[u'chain_saw', 0.26197374, u'crane', 0.092391297, u'lifeboat', 0.090710886, u'stretcher', 0.056616418, u'tow_truck', 0.04124276]
+[u'bow', 0.15369108, u'coho', 0.031873986, u'oxcart', 0.018648516, u'chain_saw', 0.01714745, u'kimono', 0.016890645]

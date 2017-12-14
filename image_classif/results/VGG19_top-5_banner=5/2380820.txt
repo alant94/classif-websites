@@ -1,0 +1,2 @@
+[u'television', 0.10927354, u'garbage_truck', 0.099992611, u'limousine', 0.096516266, u'jeep', 0.056850702, u'tow_truck', 0.051104136]
+[u'teddy', 0.10930492, u'hamper', 0.10830697, u'grocery_store', 0.042160958, u'guillotine', 0.041793562, u'orange', 0.039664958]

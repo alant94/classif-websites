@@ -1,0 +1,4 @@
+[u'warthog', 0.22903371, u'ram', 0.14939724, u'bighorn', 0.10043342, u'ibex', 0.07352829, u'wild_boar', 0.040923525]
+[u'Chesapeake_Bay_retriever', 0.32107842, u'Labrador_retriever', 0.22907476, u'curly-coated_retriever', 0.15933721, u'flat-coated_retriever', 0.13130067, u'Scottish_deerhound', 0.025578238]
+[u'rotisserie', 0.47802317, u'cock', 0.068940349, u'centipede', 0.027717104, u'American_lobster', 0.022090627, u'sea_cucumber', 0.020053048]
+[u'book_jacket', 0.19417614, u'comic_book', 0.13708055, u'drum', 0.069645926, u'bottlecap', 0.050251342, u'packet', 0.0354551]

@@ -1,0 +1,4 @@
+[u'gazelle', 0.79945678, u'impala', 0.139263, u'hartebeest', 0.0134435, u'wallaby', 0.005185788, u'Arabian_camel', 0.0038773052]
+[u'gazelle', 0.63061583, u'impala', 0.33239233, u'hartebeest', 0.023268091, u'ibex', 0.011396642, u'wallaby', 0.00093101739]
+[u'impala', 0.68815094, u'hartebeest', 0.17677291, u'gazelle', 0.11288656, u'wallaby', 0.0079460042, u'ibex', 0.0072513665]
+[u"carpenter's_kit", 0.082045749, u'street_sign', 0.064551339, u'cash_machine', 0.062009923, u'lighter', 0.036254697, u'digital_clock', 0.033381671]

@@ -1,0 +1,4 @@
+[u'digital_clock', 0.10340079, u'envelope', 0.080940381, u'bathtub', 0.066009633, u'maze', 0.059343547, u'washbasin', 0.058864545]
+[u'crossword_puzzle', 0.10662694, u'maze', 0.080521703, u'digital_clock', 0.049903933, u'washbasin', 0.040049825, u'sliding_door', 0.022322666]
+[u'digital_clock', 0.073012866, u'crossword_puzzle', 0.041513849, u'washbasin', 0.039685771, u'maze', 0.035326671, u'wall_clock', 0.030458434]
+[u'digital_clock', 0.32457355, u'maze', 0.090534672, u'washbasin', 0.043416835, u'digital_watch', 0.030091336, u'envelope', 0.028311737]

@@ -1,0 +1,2 @@
+[u'envelope', 0.45196345, u'web_site', 0.085213147, u'jersey', 0.045545243, u'hook', 0.024675788, u'hair_slide', 0.014740531]
+[u'envelope', 0.094868429, u'web_site', 0.037112925, u'cleaver', 0.020252606, u'can_opener', 0.015988121, u'nipple', 0.013125515]

@@ -1,0 +1,7 @@
+[u'digital_clock', 0.53328252, u'envelope', 0.11809053, u'digital_watch', 0.039128516, u'quilt', 0.022977026, u'crossword_puzzle', 0.022620475]
+[u'digital_clock', 0.1295469, u'rule', 0.12670039, u'web_site', 0.10885482, u'envelope', 0.052212451, u'rubber_eraser', 0.045551676]
+[u'sliding_door', 0.28506416, u'window_shade', 0.24711926, u'studio_couch', 0.052484326, u'home_theater', 0.040323455, u'table_lamp', 0.0327565]
+[u'Old_English_sheepdog', 0.10136425, u'wire-haired_fox_terrier', 0.082817651, u'sliding_door', 0.041934576, u'shoji', 0.027376439, u'Tibetan_mastiff', 0.022272389]
+[u'slide_rule', 0.91532624, u'rule', 0.039840996, u'envelope', 0.0073517738, u'nematode', 0.0045858058, u'nail', 0.0015759874]
+[u'digital_clock', 0.29956695, u'envelope', 0.093991697, u'wall_clock', 0.045275982, u'digital_watch', 0.026865263, u'cash_machine', 0.022831444]
+[u'digital_clock', 0.56571436, u'maze', 0.069687352, u'envelope', 0.067728937, u'cash_machine', 0.023962867, u'prayer_rug', 0.019645257]

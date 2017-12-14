@@ -1,0 +1,8 @@
+[u'slot', 0.21647204, u'comic_book', 0.055217188, u'web_site', 0.049426556, u'mask', 0.03699071, u'sax', 0.022175213]
+[u'book_jacket', 0.31521583, u'packet', 0.2393368, u'comic_book', 0.074244998, u'menu', 0.032088388, u'scoreboard', 0.031201413]
+[u'cash_machine', 0.26381239, u'digital_watch', 0.20028622, u'mailbox', 0.069219247, u'safe', 0.047201488, u'digital_clock', 0.042132117]
+[u'digital_watch', 0.089996204, u'photocopier', 0.079327732, u'cash_machine', 0.06549824, u'screen', 0.050483078, u'mailbox', 0.049467616]
+[u'photocopier', 0.12966689, u'cash_machine', 0.122155, u'monitor', 0.045841668, u'oscilloscope', 0.045693789, u'digital_clock', 0.043852922]
+[u'cash_machine', 0.58017462, u'safe', 0.19069356, u'mailbox', 0.056831285, u'digital_watch', 0.020514438, u'combination_lock', 0.014895952]
+[u'menu', 0.21777849, u'slot', 0.20896669, u'packet', 0.12088367, u'restaurant', 0.046317201, u'tray', 0.044368695]
+[u'cash_machine', 0.14919437, u'photocopier', 0.10205313, u"carpenter's_kit", 0.041976027, u'mailbox', 0.028558919, u'syringe', 0.027474208]

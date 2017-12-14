@@ -1,0 +1,2 @@
+[u'rule', 0.30090585, u'envelope', 0.18919598, u'nematode', 0.092629634, u'slide_rule', 0.091110438, u'hook', 0.066660143]
+[u'horizontal_bar', 0.13710871, u'swing', 0.13010274, u'parallel_bars', 0.10336272, u'American_black_bear', 0.065399528, u'Bouvier_des_Flandres', 0.051633101]

@@ -1,0 +1,3 @@
+[u'nail', 0.03747135, u'envelope', 0.0358302, u'spatula', 0.021765063, u'panpipe', 0.0184462, u'matchstick', 0.018362295]
+[u'envelope', 0.099391058, u'spatula', 0.050658941, u'nail', 0.038661748, u'Band_Aid', 0.026116986, u'broom', 0.025767198]
+[u'jersey', 0.46928602, u'envelope', 0.11504347, u'book_jacket', 0.032168034, u'binder', 0.021890311, u'sweatshirt', 0.019655704]

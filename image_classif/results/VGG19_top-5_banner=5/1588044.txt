@@ -1,0 +1,7 @@
+[u'mask', 0.76275867, u'ski_mask', 0.13147195, u'sunglass', 0.015688598, u'comic_book', 0.014829619, u'sunglasses', 0.013203341]
+[u'hair_spray', 0.38896146, u'hand_blower', 0.2473031, u'bathtub', 0.19926719, u'tub', 0.078942925, u'brassiere', 0.012830422]
+[u'sea_lion', 0.30235991, u'dough', 0.050783936, u'tub', 0.041721847, u'canoe', 0.038696494, u'home_theater', 0.029169308]
+[u'web_site', 0.26480666, u'envelope', 0.18997028, u'comic_book', 0.17557973, u'packet', 0.10401673, u'Band_Aid', 0.086231418]
+[u'bib', 0.93840641, u'Christmas_stocking', 0.022289138, u'jersey', 0.018692862, u'handkerchief', 0.010837217, u'pillow', 0.0017833052]
+[u'cloak', 0.18890966, u'sleeping_bag', 0.17318569, u'sweatshirt', 0.089200489, u'brassiere', 0.050375141, u'mask', 0.042747322]
+[u'menu', 0.81947225, u'tray', 0.061941747, u'envelope', 0.030946029, u'book_jacket', 0.015713226, u'handkerchief', 0.0086923316]

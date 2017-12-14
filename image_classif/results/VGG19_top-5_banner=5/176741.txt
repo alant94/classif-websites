@@ -1,0 +1,2 @@
+[u'picket_fence', 0.12632847, u'book_jacket', 0.090108655, u"carpenter's_kit", 0.045181088, u'screwdriver', 0.033518162, u'wardrobe', 0.024749037]
+[u'poncho', 0.046391666, u'backpack', 0.045608096, u'wall_clock', 0.045198333, u'balloon', 0.044856071, u'bottlecap', 0.038683951]

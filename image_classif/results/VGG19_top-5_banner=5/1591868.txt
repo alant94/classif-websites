@@ -1,0 +1,7 @@
+[u'sliding_door', 0.6596964, u'wardrobe', 0.20681344, u'window_shade', 0.022980409, u'swab', 0.0076197097, u'broom', 0.0075265975]
+[u'matchstick', 0.53007895, u'lampshade', 0.046264213, u'mousetrap', 0.038159132, u'nail', 0.015350444, u'walking_stick', 0.014332845]
+[u'teddy', 0.092833087, u'swimming_trunks', 0.079547748, u'earthstar', 0.063617542, u'cliff', 0.044154711, u'starfish', 0.025692033]
+[u'fountain', 0.11667329, u'bell_cote', 0.085253067, u'library', 0.06922213, u'dam', 0.043408729, u'bookshop', 0.042052943]
+[u'crib', 0.15763649, u'cradle', 0.13560686, u'standard_poodle', 0.057893388, u'Arabian_camel', 0.05726485, u'muzzle', 0.046584617]
+[u'butternut_squash', 0.10273079, u'whiskey_jug', 0.077844538, u'spaghetti_squash', 0.072588541, u'eggnog', 0.062951759, u'punching_bag', 0.056494929]
+[u'crane', 0.1833538, u'drilling_platform', 0.075513586, u'triumphal_arch', 0.070117079, u'garbage_truck', 0.069195837, u'dock', 0.068323582]

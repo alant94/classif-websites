@@ -1,0 +1,5 @@
+[u'coffee_mug', 0.37360469, u'pill_bottle', 0.30282825, u'Band_Aid', 0.085941121, u'parking_meter', 0.039239537, u'loupe', 0.038377155]
+[u'Band_Aid', 0.16510329, u'rubber_eraser', 0.12198871, u'lotion', 0.09924414, u'pill_bottle', 0.088821314, u'pencil_box', 0.05095936]
+[u'iPod', 0.30834934, u'slide_rule', 0.082143366, u'pill_bottle', 0.067664146, u'parking_meter', 0.053331137, u'scale', 0.045547158]
+[u'screen', 0.15984166, u'oscilloscope', 0.15510111, u'analog_clock', 0.071504638, u'scale', 0.05656803, u'television', 0.049755428]
+[u'carton', 0.58110899, u'toilet_tissue', 0.065716058, u'scale', 0.039605048, u'envelope', 0.028978353, u'parking_meter', 0.02626273]

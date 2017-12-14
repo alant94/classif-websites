@@ -1,0 +1,2 @@
+[u'suit', 0.11605566, u'jersey', 0.078118838, u'mortarboard', 0.074548051, u'bow_tie', 0.07390058, u'academic_gown', 0.067570791]
+[u'hook', 0.19845308, u'nail', 0.092674814, u'cleaver', 0.055748619, u'screwdriver', 0.039895546, u'safety_pin', 0.035594713]

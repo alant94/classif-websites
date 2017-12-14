@@ -1,0 +1,4 @@
+[u'envelope', 0.13667198, u'web_site', 0.12851737, u'binder', 0.014346518, u'wardrobe', 0.010712432, u'abaya', 0.0094687473]
+[u'refrigerator', 0.11514104, u'tripod', 0.092617691, u'binder', 0.036984611, u'lighter', 0.036943492, u'guillotine', 0.030819437]
+[u'envelope', 0.1115737, u'binder', 0.051760957, u'web_site', 0.048958898, u'notebook', 0.024836009, u'bulletproof_vest', 0.024240099]
+[u'envelope', 0.19502757, u'binder', 0.063540056, u'web_site', 0.057986449, u'notebook', 0.04556407, u'file', 0.031652898]

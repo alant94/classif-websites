@@ -1,0 +1,6 @@
+[u'torch', 0.11970086, u'book_jacket', 0.074628942, u'theater_curtain', 0.065905139, u'barrel', 0.058064763, u'vault', 0.052401192]
+[u'suit', 0.3715288, u'academic_gown', 0.067623109, u'Windsor_tie', 0.065239549, u'mortarboard', 0.053989165, u'library', 0.03953331]
+[u'book_jacket', 0.08734341, u'packet', 0.064011559, u'matchstick', 0.042617638, u'rule', 0.027646825, u'web_site', 0.027097147]
+[u'basketball', 0.38232175, u'paddle', 0.096004866, u'plunger', 0.090307437, u'maraca', 0.069970772, u'volleyball', 0.049441367]
+[u'book_jacket', 0.92420757, u'packet', 0.0082072103, u'jersey', 0.0061139627, u'cash_machine', 0.0040256102, u'sweatshirt', 0.0031571907]
+[u'stage', 0.29987508, u'shoe_shop', 0.094435945, u'restaurant', 0.068014123, u'cinema', 0.054060504, u'butcher_shop', 0.023926897]

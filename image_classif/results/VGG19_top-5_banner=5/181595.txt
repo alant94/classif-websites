@@ -1,0 +1,4 @@
+[u'bow', 0.97764194, u'caldron', 0.0072347815, u'torch', 0.0025210348, u'cleaver', 0.0016545275, u'gong', 0.0011049923]
+[u'sulphur-crested_cockatoo', 0.79984254, u'kite', 0.13229112, u'hummingbird', 0.037217472, u'American_egret', 0.0066831703, u'goose', 0.0050739022]
+[u'book_jacket', 0.91654968, u'comic_book', 0.022702331, u'barbershop', 0.02152082, u'street_sign', 0.0067982716, u'tobacco_shop', 0.003442643]
+[u'suit', 0.76977271, u'Windsor_tie', 0.17338635, u'bow_tie', 0.0068863491, u'trench_coat', 0.0059365686, u'groom', 0.0058582216]

@@ -1,0 +1,2 @@
+[u'web_site', 0.76663238, u'menu', 0.01357099, u'envelope', 0.01272866, u'book_jacket', 0.0091806613, u'analog_clock', 0.0061578522]
+[u'screwdriver', 0.21261357, u'ballpoint', 0.097906522, u'picket_fence', 0.059785906, u"carpenter's_kit", 0.045337968, u'medicine_chest', 0.042328443]

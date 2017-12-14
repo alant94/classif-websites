@@ -1,0 +1,8 @@
+[u'candle', 0.3966592, u'bakery', 0.22106208, u'altar', 0.05454826, u'lampshade', 0.042962257, u'table_lamp', 0.030969944]
+[u'window_screen', 0.2824958, u'solar_dish', 0.089136623, u'safety_pin', 0.014401291, u'tile_roof', 0.013282191, u'binder', 0.010268269]
+[u'web_site', 0.34435943, u'comic_book', 0.16227776, u'book_jacket', 0.12342168, u'stretcher', 0.054819353, u'snowmobile', 0.033176325]
+[u'handkerchief', 0.21899222, u'tray', 0.14610262, u'trifle', 0.089140981, u'candle', 0.086508878, u'bakery', 0.048319459]
+[u'altar', 0.52878886, u'bassinet', 0.071742348, u'hoopskirt', 0.049775437, u'gown', 0.041950308, u'cradle', 0.02822011]
+[u'window_screen', 0.34347954, u'solar_dish', 0.10709313, u'window_shade', 0.021586245, u'tile_roof', 0.017450999, u'binder', 0.015242713]
+[u'window_screen', 0.31359869, u'solar_dish', 0.031196747, u'safety_pin', 0.018789973, u'window_shade', 0.013843846, u'screwdriver', 0.012161996]
+[u'window_screen', 0.28976533, u'solar_dish', 0.075563818, u'safety_pin', 0.014488041, u'tile_roof', 0.013203037, u'walking_stick', 0.01100052]

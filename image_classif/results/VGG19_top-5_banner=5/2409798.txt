@@ -1,0 +1,8 @@
+[u'chime', 0.4702495, u'ballpoint', 0.097577304, u'fountain_pen', 0.076253831, u'flute', 0.035909627, u'rubber_eraser', 0.025687352]
+[u'chime', 0.60060179, u'ballpoint', 0.027806262, u'screwdriver', 0.02387348, u'lipstick', 0.022557508, u'binder', 0.02011532]
+[u'chime', 0.48426136, u'ballpoint', 0.12163658, u'nail', 0.049557865, u'fountain_pen', 0.030946426, u'flute', 0.028786186]
+[u'chime', 0.4002161, u'bookcase', 0.047092017, u'dining_table', 0.036355343, u'picket_fence', 0.023104895, u'marimba', 0.019485556]
+[u'chime', 0.57362562, u'rule', 0.049391411, u'picket_fence', 0.035247337, u'nail', 0.033403859, u'ballpoint', 0.029478533]
+[u'Newfoundland', 0.04652321, u'picket_fence', 0.043611746, u'Bouvier_des_Flandres', 0.041592319, u'Afghan_hound', 0.030364903, u'malamute', 0.030117413]
+[u'chime', 0.41403401, u'ballpoint', 0.1380875, u'fountain_pen', 0.098613493, u'pencil_box', 0.039264623, u'rubber_eraser', 0.03285145]
+[u'picket_fence', 0.83220011, u'beacon', 0.018876599, u'water_tower', 0.017456951, u'candle', 0.014707994, u'syringe', 0.013785504]

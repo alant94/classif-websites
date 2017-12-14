@@ -1,0 +1,2 @@
+[u'grand_piano', 0.14333795, u'space_shuttle', 0.07877519, u'monitor', 0.051113911, u'lampshade', 0.043049846, u'table_lamp', 0.031493235]
+[u'shower_curtain', 0.29166722, u'bathtub', 0.10044312, u'Band_Aid', 0.075348325, u'toilet_tissue', 0.059586279, u'cleaver', 0.047649112]

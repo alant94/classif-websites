@@ -1,0 +1,2 @@
+[u'web_site', 0.41926256, u'dogsled', 0.38577452, u'German_shepherd', 0.048277378, u'book_jacket', 0.012770863, u'Afghan_hound', 0.012606883]
+[u'stretcher', 0.21467556, u'assault_rifle', 0.18153718, u'military_uniform', 0.10381912, u'Irish_wolfhound', 0.079963133, u'standard_schnauzer', 0.038061514]

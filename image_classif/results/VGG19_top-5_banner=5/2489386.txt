@@ -1,0 +1,2 @@
+[u'matchstick', 0.31202275, u'oscilloscope', 0.1063512, u'web_site', 0.075963564, u'digital_clock', 0.069562487, u'scoreboard', 0.050527658]
+[u'accordion', 0.079928286, u'projector', 0.056741245, u'remote_control', 0.054219991, u'cellular_telephone', 0.052002817, u'stage', 0.039888769]

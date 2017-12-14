@@ -1,0 +1,6 @@
+[u'pinwheel', 0.50574696, u'envelope', 0.10287001, u'binder', 0.0398416, u'packet', 0.027874745, u'mortarboard', 0.024863996]
+[u'rubber_eraser', 0.18459964, u'saltshaker', 0.088346966, u'clog', 0.054948792, u'shower_curtain', 0.05111663, u'hook', 0.028065672]
+[u'promontory', 0.81144667, u'seashore', 0.11720461, u'cliff', 0.044644423, u'sandbar', 0.010727625, u'lakeside', 0.0076384521]
+[u'jigsaw_puzzle', 0.96246225, u'web_site', 0.01157164, u'seashore', 0.0039480668, u'envelope', 0.0032891757, u'screen', 0.0014970624]
+[u'safe', 0.086194679, u'scale', 0.070977986, u'web_site', 0.059366062, u'dishwasher', 0.055291101, u'modem', 0.050648723]
+[u'beer_glass', 0.20535868, u'beaker', 0.12328684, u'coffee_mug', 0.057514705, u'goblet', 0.055567991, u'can_opener', 0.05280323]

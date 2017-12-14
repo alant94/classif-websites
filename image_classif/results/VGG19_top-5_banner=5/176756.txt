@@ -1,0 +1,5 @@
+[u'web_site', 0.20311871, u'pay-phone', 0.14680378, u'hand-held_computer', 0.11224493, u'radio', 0.073683657, u'vending_machine', 0.043529078]
+[u'web_site', 0.99199849, u'monitor', 0.0036329438, u'screen', 0.0010629996, u'menu', 0.00076817459, u'television', 0.00033685783]
+[u'fire_engine', 0.085438497, u'container_ship', 0.084787592, u'screwdriver', 0.057494108, u"carpenter's_kit", 0.05561525, u'paddlewheel', 0.050419267]
+[u'web_site', 0.96097165, u'envelope', 0.018251399, u'menu', 0.0043759849, u'book_jacket', 0.00069496932, u'rule', 0.00051743572]
+[u'plate_rack', 0.2733638, u'crate', 0.0768416, u'web_site', 0.059947006, u'mousetrap', 0.052182201, u'carton', 0.051326785]

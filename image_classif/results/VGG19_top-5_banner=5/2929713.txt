@@ -1,0 +1,5 @@
+[u'sweatshirt', 0.10151055, u'miniskirt', 0.066875935, u'trench_coat', 0.058530111, u'overskirt', 0.054854553, u'spotlight', 0.049752653]
+[u'coral_fungus', 0.51672351, u'matchstick', 0.30112547, u'digital_clock', 0.02033457, u'candle', 0.018743347, u'safety_pin', 0.012970966]
+[u'stage', 0.14736103, u'lab_coat', 0.14598644, u'marimba', 0.11242112, u'grand_piano', 0.051854931, u'notebook', 0.033428676]
+[u'miniskirt', 0.15889128, u'maillot', 0.060136691, u'velvet', 0.059893299, u'sweatshirt', 0.05327785, u'gown', 0.04919878]
+[u'switch', 0.062235091, u'broom', 0.05209044, u'green_lizard', 0.038078103, u'padlock', 0.036972195, u'hook', 0.031312712]

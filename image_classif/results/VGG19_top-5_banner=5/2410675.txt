@@ -1,0 +1,4 @@
+[u'web_site', 0.066160686, u'nail', 0.019415716, u'hatchet', 0.017620081, u'hand_blower', 0.014929207, u'oil_filter', 0.013995125]
+[u'bathing_cap', 0.53473306, u'mask', 0.085166201, u'lab_coat', 0.056652904, u'crash_helmet', 0.041902427, u'ski_mask', 0.035254333]
+[u'crutch', 0.13274659, u'chime', 0.046414975, u'swab', 0.045924582, u'safety_pin', 0.029175494, u'hand_blower', 0.022711683]
+[u'warplane', 0.3015095, u'hair_slide', 0.18361345, u'aircraft_carrier', 0.060611166, u'hook', 0.046650473, u'corkscrew', 0.03941945]

@@ -1,0 +1,2 @@
+[u'bakery', 0.27335349, u'restaurant', 0.17748563, u'altar', 0.15029776, u'guillotine', 0.054936696, u'grocery_store', 0.029092986]
+[u'shoji', 0.39896092, u'window_screen', 0.088257484, u'crossword_puzzle', 0.075708717, u'sliding_door', 0.051484428, u'prison', 0.031038826]

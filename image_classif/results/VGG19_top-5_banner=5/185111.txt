@@ -1,0 +1,1 @@
+[u'lotion', 0.46844387, u'iPod', 0.14400458, u'pill_bottle', 0.042724825, u'coffee_mug', 0.027164571, u'vending_machine', 0.025869841]

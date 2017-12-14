@@ -1,0 +1,2 @@
+[u'wardrobe', 0.88800496, u'plate_rack', 0.077608556, u'wooden_spoon', 0.0076757544, u'quill', 0.0022469759, u'ski', 0.0019313219]
+[u'lakeside', 0.24748211, u'pier', 0.20835631, u'steel_arch_bridge', 0.20537268, u'dock', 0.070334107, u'breakwater', 0.03965662]

@@ -1,0 +1,1 @@
+[u'lampshade', 0.42967919, u'table_lamp', 0.13639408, u'planetarium', 0.072598383, u'spotlight', 0.04922438, u'airship', 0.033208925]

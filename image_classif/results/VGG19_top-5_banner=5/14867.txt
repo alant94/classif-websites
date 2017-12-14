@@ -1,0 +1,1 @@
+[u'beer_bottle', 0.50262779, u'wine_bottle', 0.36046892, u'corkscrew', 0.10133051, u'red_wine', 0.0080787679, u'pop_bottle', 0.00456081]

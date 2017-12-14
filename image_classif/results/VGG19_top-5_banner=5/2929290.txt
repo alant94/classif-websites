@@ -1,0 +1,2 @@
+[u'digital_clock', 0.097578876, u'web_site', 0.094471984, u'book_jacket', 0.038268089, u'television', 0.028263401, u'cash_machine', 0.026473537]
+[u'diaper', 0.83659929, u'cradle', 0.036147203, u'nipple', 0.024702638, u'crib', 0.013836971, u'bath_towel', 0.0097927637]

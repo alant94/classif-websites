@@ -1,0 +1,5 @@
+[u'file', 0.33175966, u'window_shade', 0.17524788, u'bookcase', 0.067327566, u'turnstile', 0.057820994, u'photocopier', 0.046388883]
+[u'plow', 0.25040931, u'impala', 0.16437222, u'hartebeest', 0.15292272, u'bow', 0.13464466, u'ibex', 0.079040289]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'file', 0.3935129, u'window_shade', 0.12157002, u'photocopier', 0.074556187, u'space_heater', 0.041906569, u'wardrobe', 0.027356882]
+[u'file', 0.19689929, u'window_shade', 0.059428476, u'sliding_door', 0.055360928, u'cash_machine', 0.052334528, u'turnstile', 0.04657631]

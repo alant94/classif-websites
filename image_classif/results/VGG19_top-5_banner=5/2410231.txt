@@ -1,0 +1,8 @@
+[u'space_shuttle', 0.031672988, u'airship', 0.023040488, u'balloon', 0.020736285, u'parachute', 0.020697925, u'sulphur-crested_cockatoo', 0.017853953]
+[u'bib', 0.093455374, u'toilet_tissue', 0.091688916, u'toilet_seat', 0.033333506, u'Christmas_stocking', 0.026828231, u'apron', 0.022653481]
+[u'toilet_tissue', 0.095193617, u'bib', 0.053480171, u'toilet_seat', 0.041665137, u'paper_towel', 0.029808169, u'Christmas_stocking', 0.018395156]
+[u'bib', 0.2097982, u'jersey', 0.063182421, u'bonnet', 0.028964965, u'balloon', 0.024442419, u'poncho', 0.023578573]
+[u'Christmas_stocking', 0.075244509, u'bottlecap', 0.074738704, u'balloon', 0.054825868, u'book_jacket', 0.049461655, u'ski_mask', 0.03166974]
+[u'cleaver', 0.28772089, u'iron', 0.087760456, u'stole', 0.04994135, u'quill', 0.040004835, u'wig', 0.029085908]
+[u'stupa', 0.054583363, u'lampshade', 0.042878717, u'space_shuttle', 0.037463754, u'face_powder', 0.026239583, u'bell_cote', 0.025562527]
+[u'book_jacket', 0.10400134, u'abaya', 0.067491077, u'envelope', 0.058345251, u'cleaver', 0.054175965, u'jersey', 0.042141154]

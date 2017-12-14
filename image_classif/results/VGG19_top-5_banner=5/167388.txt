@@ -1,0 +1,8 @@
+[u'comic_book', 0.15669915, u'pillow', 0.046759889, u'pencil_box', 0.044578873, u'totem_pole', 0.038623054, u'book_jacket', 0.019187722]
+[u'space_shuttle', 0.32440868, u'matchstick', 0.12550585, u'digital_clock', 0.098174632, u'coral_fungus', 0.063034229, u'jellyfish', 0.050948381]
+[u'stage', 0.32589334, u'triceratops', 0.23205234, u'electric_guitar', 0.2012832, u'microphone', 0.058688246, u'sax', 0.040575936]
+[u'radiator', 0.1149022, u'conch', 0.10087604, u'pomegranate', 0.063727438, u'volcano', 0.044211358, u'shovel', 0.01922486]
+[u'digital_clock', 0.11914326, u'chain', 0.06084099, u'matchstick', 0.056333844, u'hook', 0.051221963, u'traffic_light', 0.034557782]
+[u'birdhouse', 0.12715349, u'yurt', 0.089619406, u'barn', 0.06621071, u'church', 0.036528762, u'umbrella', 0.033377133]
+[u'microphone', 0.23034641, u'stage', 0.20558167, u'sax', 0.069889233, u'harmonica', 0.039226785, u'acoustic_guitar', 0.037095826]
+[u'hook', 0.094563343, u'microphone', 0.075979181, u'sax', 0.062655784, u'chain', 0.060761958, u'matchstick', 0.031535067]

@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.43282253, u'paper_towel', 0.084813081, u'digital_clock', 0.05406256, u'toilet_tissue', 0.03824174, u'matchstick', 0.031194068]
+[u'Band_Aid', 0.28596547, u'paper_towel', 0.10779998, u'matchstick', 0.10315247, u'safety_pin', 0.043837186, u'toilet_tissue', 0.042512413]

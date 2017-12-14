@@ -1,0 +1,7 @@
+[u'switch', 0.32527226, u'hair_slide', 0.096198998, u'screw', 0.09504398, u'reel', 0.082032487, u'spotlight', 0.046069577]
+[u'warplane', 0.42822185, u'wing', 0.24650444, u'airliner', 0.21623097, u'airship', 0.058534808, u'speedboat', 0.020950258]
+[u'wing', 0.43700454, u'warplane', 0.28277358, u'airliner', 0.23165859, u'airship', 0.010970221, u'missile', 0.0081776986]
+[u'street_sign', 0.085009508, u'packet', 0.055079676, u'flagpole', 0.054369956, u'wallet', 0.04823678, u'panpipe', 0.044367999]
+[u'wing', 0.46198887, u'warplane', 0.38874879, u'airliner', 0.11399041, u'aircraft_carrier', 0.021356015, u'space_shuttle', 0.0045184842]
+[u'menu', 0.89659035, u'book_jacket', 0.072499223, u'web_site', 0.010788757, u'packet', 0.0043053431, u'binder', 0.0032251186]
+[u'warplane', 0.77154511, u'space_shuttle', 0.077490956, u'wing', 0.060405463, u'aircraft_carrier', 0.043248087, u'airliner', 0.02174885]

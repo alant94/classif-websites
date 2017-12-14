@@ -1,0 +1,3 @@
+[u'stupa', 0.26212856, u'coil', 0.25790939, u'lampshade', 0.095560074, u'spotlight', 0.06987159, u'analog_clock', 0.058739439]
+[u'book_jacket', 0.22280917, u'web_site', 0.16797262, u'rule', 0.12393944, u'screwdriver', 0.070404723, u'envelope', 0.038413435]
+[u'stupa', 0.3003757, u'coil', 0.21998937, u'lampshade', 0.095778681, u'analog_clock', 0.068824217, u'spotlight', 0.059628326]

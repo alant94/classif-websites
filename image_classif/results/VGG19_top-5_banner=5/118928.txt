@@ -1,0 +1,8 @@
+[u'shower_curtain', 0.14313228, u'binder', 0.048931796, u'beaker', 0.043172255, u'ballpoint', 0.027741017, u'measuring_cup', 0.023406597]
+[u'television', 0.45643631, u'monitor', 0.13057305, u'screen', 0.074406974, u'web_site', 0.046495091, u'book_jacket', 0.026935225]
+[u'bookcase', 0.24106582, u'library', 0.22132246, u'carton', 0.14788233, u'crate', 0.11920304, u'medicine_chest', 0.030357154]
+[u'screen', 0.25056246, u'monitor', 0.21523567, u'window_screen', 0.14611778, u'television', 0.13246419, u'window_shade', 0.080650516]
+[u'sliding_door', 0.26727858, u'window_screen', 0.23572095, u'window_shade', 0.22302462, u'medicine_chest', 0.10438131, u'monitor', 0.0087723518]
+[u'nipple', 0.48744112, u'spotlight', 0.12879962, u'soap_dispenser', 0.034817096, u'toilet_seat', 0.026241314, u'puck', 0.022814956]
+[u'cocktail_shaker', 0.28892908, u'vase', 0.053999629, u'shower_curtain', 0.052682944, u'torch', 0.048361186, u'lighter', 0.027872652]
+[u'digital_clock', 0.13213895, u'envelope', 0.082540035, u'whistle', 0.027941514, u'handkerchief', 0.01580829, u'binder', 0.015029364]

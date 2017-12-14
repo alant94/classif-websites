@@ -1,0 +1,7 @@
+[u'suit', 0.61625361, u'Windsor_tie', 0.35216767, u'bow_tie', 0.0082321456, u'academic_gown', 0.005353889, u'groom', 0.0029357576]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'safe', 0.11883833, u'cash_machine', 0.053711802, u'space_shuttle', 0.043953814, u'oscilloscope', 0.039603185, u'switch', 0.038229514]
+[u'bow', 0.16902186, u'ski', 0.16075952, u'volleyball', 0.057751663, u'parallel_bars', 0.051880695, u'prison', 0.038268074]
+[u'paintbrush', 0.11839995, u'toyshop', 0.074196279, u'picket_fence', 0.065597862, u'wardrobe', 0.064179353, u'brassiere', 0.06060005]
+[u'German_shepherd', 0.13919914, u'Siberian_husky', 0.12613358, u'miniature_schnauzer', 0.076121725, u'Eskimo_dog', 0.075223975, u'standard_schnauzer', 0.062997743]
+[u'altar', 0.48819274, u'fountain', 0.1437314, u'crate', 0.050195012, u'wreck', 0.021550203, u'chest', 0.013352061]

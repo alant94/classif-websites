@@ -1,0 +1,1 @@
+[u'hair_spray', 0.2889764, u'wine_bottle', 0.15561242, u'beer_bottle', 0.070516139, u'corkscrew', 0.061821885, u'screwdriver', 0.052941788]

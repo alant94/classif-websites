@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16277155, u'comic_book', 0.099917844, u'web_site', 0.048663266, u'hook', 0.042209826, u'safety_pin', 0.035026714]
+[u'abaya', 0.049645029, u'ski_mask', 0.042211715, u'sunglasses', 0.036086436, u'sunglass', 0.035993584, u'sombrero', 0.033032831]

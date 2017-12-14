@@ -1,0 +1,3 @@
+[u'bow', 0.10112797, u'gong', 0.060668942, u'hook', 0.041656967, u'mailbag', 0.032449413, u'racket', 0.020376917]
+[u'hyena', 0.39123237, u'ostrich', 0.1753182, u'bison', 0.13452192, u'warthog', 0.075607635, u'American_black_bear', 0.052406099]
+[u'bighorn', 0.5633505, u'ibex', 0.2263837, u'ram', 0.20714568, u'hartebeest', 0.00070065545, u'lion', 0.0003257058]

@@ -1,0 +1,4 @@
+[u'envelope', 0.18873331, u'pinwheel', 0.15575853, u'book_jacket', 0.10865416, u'comic_book', 0.091129005, u'paintbrush', 0.047814552]
+[u'shoe_shop', 0.16519052, u'toyshop', 0.12312639, u'abaya', 0.10576125, u'kimono', 0.044494931, u'barbershop', 0.040947225]
+[u'unicycle', 0.10839417, u'jinrikisha', 0.10754423, u'bicycle-built-for-two', 0.095047168, u'streetcar', 0.063151062, u'triumphal_arch', 0.040652931]
+[u'radio_telescope', 0.45671192, u'electric_fan', 0.4035072, u'solar_dish', 0.022608792, u'slide_rule', 0.011392329, u'book_jacket', 0.011204878]

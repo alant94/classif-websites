@@ -1,0 +1,7 @@
+[u'snowplow', 0.075257584, u'forklift', 0.064323604, u'crane', 0.060058426, u'container_ship', 0.032979209, u'barbershop', 0.029507402]
+[u'wine_bottle', 0.64295852, u'beer_bottle', 0.12858483, u'red_wine', 0.10878252, u'pop_bottle', 0.050341725, u'corkscrew', 0.013329844]
+[u'matchstick', 0.050986465, u'nematode', 0.048503865, u'digital_clock', 0.022016309, u'lighter', 0.01954772, u'spotlight', 0.018374454]
+[u'wine_bottle', 0.52453303, u'red_wine', 0.46818203, u'beer_bottle', 0.0046191183, u'corkscrew', 0.0020596089, u'pop_bottle', 0.00024932856]
+[u'barn', 0.35908306, u'hay', 0.081490591, u'church', 0.047003958, u'castle', 0.032959767, u'mailbox', 0.026594659]
+[u'wine_bottle', 0.78851098, u'beer_bottle', 0.090072118, u'red_wine', 0.08423017, u'eggnog', 0.0063936114, u'pop_bottle', 0.0059964499]
+[u'wine_bottle', 0.64729029, u'red_wine', 0.34171209, u'beer_bottle', 0.0061762985, u'corkscrew', 0.0021075329, u'pop_bottle', 0.0010866916]

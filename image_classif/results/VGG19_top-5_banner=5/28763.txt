@@ -1,0 +1,4 @@
+[u'modem', 0.12958762, u'pencil_sharpener', 0.094866127, u'rubber_eraser', 0.078821503, u'oil_filter', 0.057713807, u'switch', 0.029574672]
+[u'bottlecap', 0.47495669, u'wall_clock', 0.20003165, u'necklace', 0.057503723, u'hair_slide', 0.048451077, u'chain', 0.045984864]
+[u'tennis_ball', 0.26243895, u'spotlight', 0.12838867, u"jack-o'-lantern", 0.10704067, u'balloon', 0.099323548, u'table_lamp', 0.057142396]
+[u'cassette', 0.30473244, u'mousetrap', 0.19790533, u'modem', 0.1291132, u'switch', 0.062105294, u'hard_disc', 0.034469593]

@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.40371016, u'ocarina', 0.075696632, u'harmonica', 0.046081077, u'syringe', 0.04365183, u'sunscreen', 0.036178026]
+[u'lab_coat', 0.86663336, u'sweatshirt', 0.017434025, u'stethoscope', 0.0074749328, u'Windsor_tie', 0.0065593892, u'trench_coat', 0.0059408899]
+[u'screen', 0.3541826, u'monitor', 0.17190628, u'digital_clock', 0.12647958, u'picket_fence', 0.034055494, u'cash_machine', 0.031084359]

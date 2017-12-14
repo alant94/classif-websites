@@ -1,0 +1,6 @@
+[u'digital_clock', 0.13326207, u'envelope', 0.094630159, u'wall_clock', 0.031000186, u'book_jacket', 0.030287728, u'crossword_puzzle', 0.025845477]
+[u'book_jacket', 0.43644485, u'packet', 0.11380047, u'lighter', 0.068236887, u'doormat', 0.041757613, u'matchstick', 0.035261054]
+[u'wardrobe', 0.11719377, u'swab', 0.093990095, u'panpipe', 0.076642029, u'stole', 0.038154088, u'window_shade', 0.024964048]
+[u'impala', 0.78269994, u'gazelle', 0.11124732, u'hartebeest', 0.092649274, u'leopard', 0.0018707145, u'spider_web', 0.0015916473]
+[u'digital_clock', 0.49062389, u'container_ship', 0.07153412, u'maze', 0.050519627, u'book_jacket', 0.048082292, u'envelope', 0.041583847]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,4 @@
+[u'web_site', 0.32686013, u'monitor', 0.27135879, u'screen', 0.17532542, u'desktop_computer', 0.068682261, u'notebook', 0.057358325]
+[u'monitor', 0.21183839, u'screen', 0.15442982, u'web_site', 0.14904678, u'laptop', 0.10482271, u'notebook', 0.10332797]
+[u'vending_machine', 0.9136253, u'switch', 0.071994998, u'refrigerator', 0.0018391826, u'space_heater', 0.0016752017, u'screwdriver', 0.0014367305]
+[u'switch', 0.19669437, u'muzzle', 0.17012401, u'pencil_sharpener', 0.16715425, u'rubber_eraser', 0.068851978, u'birdhouse', 0.05735274]

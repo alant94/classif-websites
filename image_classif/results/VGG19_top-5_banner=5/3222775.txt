@@ -1,0 +1,3 @@
+[u'tray', 0.38415954, u'laptop', 0.11848061, u'street_sign', 0.070410378, u'buckle', 0.058817115, u'digital_clock', 0.027256595]
+[u'book_jacket', 0.72767365, u'envelope', 0.084242932, u'packet', 0.037512783, u'comic_book', 0.036974374, u'web_site', 0.019853415]
+[u'prayer_rug', 0.71901095, u'tray', 0.05020044, u'book_jacket', 0.044724539, u'envelope', 0.041807376, u'doormat', 0.020272348]

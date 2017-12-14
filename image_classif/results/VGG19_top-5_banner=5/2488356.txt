@@ -1,0 +1,8 @@
+[u'Gordon_setter', 0.72562742, u'flat-coated_retriever', 0.13648902, u'Irish_water_spaniel', 0.026254969, u'curly-coated_retriever', 0.023115106, u'cocker_spaniel', 0.019883148]
+[u'Doberman', 0.13241921, u'altar', 0.13083343, u'giant_schnauzer', 0.11285594, u'Weimaraner', 0.048745256, u'standard_schnauzer', 0.040310048]
+[u'yurt', 0.38418785, u'alp', 0.027902214, u'altar', 0.020984506, u'mobile_home', 0.018189402, u'mailbox', 0.016805209]
+[u'Great_Dane', 0.18260384, u'basset', 0.15779868, u'English_setter', 0.109371, u'Afghan_hound', 0.064585164, u'dalmatian', 0.044590011]
+[u'Scottish_deerhound', 0.24689522, u'giant_schnauzer', 0.08184386, u'Weimaraner', 0.074723214, u'Irish_wolfhound', 0.046917759, u'dogsled', 0.042052217]
+[u'impala', 0.44738898, u'gazelle', 0.16726874, u'hartebeest', 0.072916001, u'whippet', 0.036869802, u'lion', 0.032082047]
+[u'Saluki', 0.26827905, u'whippet', 0.16383031, u'Great_Dane', 0.11691564, u'English_foxhound', 0.10679864, u'Rhodesian_ridgeback', 0.1048899]
+[u'Rottweiler', 0.31399158, u'EntleBucher', 0.25325152, u'Appenzeller', 0.1714308, u'Brabancon_griffon', 0.044406034, u'Staffordshire_bullterrier', 0.027974315]

@@ -1,0 +1,4 @@
+[u'envelope', 0.54698402, u'menu', 0.38924783, u'web_site', 0.011846953, u'packet', 0.011273566, u'book_jacket', 0.0085296314]
+[u'web_site', 0.93233275, u'menu', 0.01322317, u'envelope', 0.0059403088, u'packet', 0.0053674076, u'muzzle', 0.0043899822]
+[u'bow_tie', 0.069007508, u'suit', 0.03046729, u'jersey', 0.029313328, u'Windsor_tie', 0.023220187, u'Band_Aid', 0.022411428]
+[u'bathing_cap', 0.1547859, u'shower_cap', 0.12441561, u'face_powder', 0.079998188, u'carton', 0.066828109, u'packet', 0.063052505]

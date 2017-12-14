@@ -1,0 +1,1 @@
+[u'monitor', 0.62173313, u'desktop_computer', 0.070744902, u'screen', 0.032123439, u'space_shuttle', 0.029118808, u'vending_machine', 0.02766946]

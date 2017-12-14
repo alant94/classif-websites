@@ -1,0 +1,5 @@
+[u'web_site', 0.034993976, u'book_jacket', 0.020685958, u'envelope', 0.019599415, u'packet', 0.016417038, u'hair_spray', 0.014760807]
+[u'web_site', 0.2256061, u'envelope', 0.085401051, u'analog_clock', 0.016418148, u'digital_clock', 0.015305645, u'rule', 0.01312151]
+[u'traffic_light', 0.11795916, u'monitor', 0.075695172, u'oscilloscope', 0.069496684, u'screen', 0.067487739, u'desktop_computer', 0.044916756]
+[u'digital_clock', 0.6073792, u'whistle', 0.035717286, u'digital_watch', 0.031244425, u'Band_Aid', 0.024489276, u'envelope', 0.0205258]
+[u'hourglass', 0.27814105, u'spindle', 0.099369749, u'plunger', 0.043539874, u'quill', 0.03092101, u'gong', 0.028657157]

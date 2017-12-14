@@ -1,0 +1,4 @@
+[u'comic_book', 0.28392234, u'hair_slide', 0.16869074, u'shield', 0.14679296, u'hatchet', 0.0471632, u'jersey', 0.044472832]
+[u'puck', 0.38100776, u'toilet_seat', 0.31890941, u'CD_player', 0.0551943, u'face_powder', 0.047473174, u'slide_rule', 0.028310919]
+[u'digital_clock', 0.28510249, u'street_sign', 0.17144619, u'binder', 0.050032608, u'Band_Aid', 0.043584064, u'lighter', 0.022148499]
+[u'milk_can', 0.47651154, u'whiskey_jug', 0.34144631, u'oil_filter', 0.044732384, u'Crock_Pot', 0.021616776, u'face_powder', 0.016436707]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.1456877, u'microphone', 0.086773068, u'street_sign', 0.079926983, u'traffic_light', 0.039577708, u'stage', 0.032755982]
+[u'envelope', 0.031494312, u'cleaver', 0.024711199, u'wall_clock', 0.018811708, u'letter_opener', 0.01819958, u'syringe', 0.017779732]

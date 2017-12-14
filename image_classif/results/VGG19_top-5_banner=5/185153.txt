@@ -1,0 +1,5 @@
+[u'hoopskirt', 0.19656537, u'bonnet', 0.10554792, u'overskirt', 0.098949246, u'gown', 0.090081595, u'wig', 0.040565103]
+[u'comic_book', 0.15761173, u'mask', 0.13095988, u'brassiere', 0.12660062, u'cowboy_boot', 0.079575233, u'clog', 0.038950633]
+[u'torch', 0.33557019, u'panpipe', 0.2783044, u'academic_gown', 0.058950845, u'kimono', 0.022438029, u'poncho', 0.022341155]
+[u'golden_retriever', 0.083610274, u'wig', 0.06011406, u'cocker_spaniel', 0.054967094, u'Irish_setter', 0.046988752, u'bloodhound', 0.04254223]
+[u'fireboat', 0.2087435, u'fountain', 0.11325633, u'beaker', 0.061734475, u'shower_cap', 0.053900767, u'lab_coat', 0.047514126]

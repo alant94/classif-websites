@@ -1,0 +1,2 @@
+[u'toilet_seat', 0.23077346, u'iron', 0.2150311, u'shield', 0.16171896, u'wall_clock', 0.06458652, u'mouse', 0.034952473]
+[u'digital_clock', 0.084848017, u'picket_fence', 0.047247853, u'lab_coat', 0.037793361, u'digital_watch', 0.029826652, u'shower_curtain', 0.024882616]

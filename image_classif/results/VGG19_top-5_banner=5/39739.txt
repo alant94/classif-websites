@@ -1,0 +1,6 @@
+[u'howler_monkey', 0.15439533, u'spider_monkey', 0.13213482, u'jackfruit', 0.055748902, u'buckeye', 0.042711914, u'orangutan', 0.037598226]
+[u'table_lamp', 0.29616216, u'tray', 0.056122456, u'dishwasher', 0.05259943, u'pool_table', 0.049091268, u'microwave', 0.039247967]
+[u'picket_fence', 0.153181, u'parallel_bars', 0.10394763, u'brassiere', 0.09597192, u'shoe_shop', 0.06115016, u'pinwheel', 0.04953371]
+[u'sewing_machine', 0.990906, u'joystick', 0.0063105822, u'iron', 0.00088202069, u'washbasin', 0.00033370056, u'desk', 0.00031702305]
+[u'prison', 0.91227049, u'vault', 0.020551706, u'bannister', 0.0069356519, u'maze', 0.0048595853, u'crutch', 0.0048349416]
+[u'reel', 0.53846622, u'disk_brake', 0.072649963, u'syringe', 0.043010321, u'pole', 0.040048186, u'cannon', 0.033145338]

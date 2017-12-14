@@ -1,0 +1,7 @@
+[u'envelope', 0.28256047, u'binder', 0.089026645, u'perfume', 0.088199534, u'digital_clock', 0.045125674, u'medicine_chest', 0.022798819]
+[u'hair_spray', 0.36116925, u'coffee_mug', 0.23086721, u'wine_bottle', 0.048403054, u'red_wine', 0.044914324, u'lotion', 0.039352905]
+[u'water_bottle', 0.14715226, u'analog_clock', 0.12297489, u'picket_fence', 0.081218362, u'pop_bottle', 0.052539006, u'beer_bottle', 0.047299944]
+[u'breastplate', 0.093278177, u'envelope', 0.073993891, u'shield', 0.071676485, u'hatchet', 0.059636407, u'bow_tie', 0.039372306]
+[u'knot', 0.26156408, u'web_site', 0.089799665, u'acorn', 0.03988722, u'conch', 0.035982043, u'hook', 0.031340368]
+[u'binder', 0.24740839, u'quill', 0.08786086, u'envelope', 0.072998323, u'whistle', 0.070033357, u'lighter', 0.052942198]
+[u'envelope', 0.4000735, u'whistle', 0.10509351, u'tray', 0.090519324, u'switch', 0.068897754, u'binder', 0.060522515]

@@ -1,0 +1,6 @@
+[u'digital_clock', 0.25404879, u'envelope', 0.11253878, u'crossword_puzzle', 0.058447719, u'wall_clock', 0.037875943, u'digital_watch', 0.02094377]
+[u'container_ship', 0.58477783, u'airship', 0.054811656, u'digital_clock', 0.025209645, u'pill_bottle', 0.017613517, u'parachute', 0.016602023]
+[u'digital_clock', 0.21557261, u'container_ship', 0.10260588, u'digital_watch', 0.039306846, u'Band_Aid', 0.029267017, u'wall_clock', 0.017454896]
+[u'digital_clock', 0.10814373, u'beacon', 0.09410204, u'whistle', 0.053391781, u'container_ship', 0.044093318, u'picket_fence', 0.041875169]
+[u'pill_bottle', 0.43930069, u'envelope', 0.12555437, u'Band_Aid', 0.061846782, u'container_ship', 0.037106775, u'carton', 0.022244697]
+[u'vending_machine', 0.11822831, u'digital_clock', 0.09178637, u'home_theater', 0.065886669, u'scoreboard', 0.060381971, u'remote_control', 0.053184249]

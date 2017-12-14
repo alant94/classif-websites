@@ -1,0 +1,5 @@
+[u'digital_clock', 0.44607937, u'digital_watch', 0.04028767, u'jersey', 0.037716154, u'container_ship', 0.036560893, u'scoreboard', 0.029902475]
+[u'digital_clock', 0.17711964, u'abacus', 0.055224508, u'pill_bottle', 0.047999244, u'container_ship', 0.042591941, u'jersey', 0.034201756]
+[u'pill_bottle', 0.091286197, u'wall_clock', 0.060366508, u'switch', 0.048733328, u'spotlight', 0.038453672, u'screw', 0.027726347]
+[u'space_shuttle', 0.33212745, u'parachute', 0.065917678, u'airship', 0.062571079, u'drilling_platform', 0.029591074, u'traffic_light', 0.021608483]
+[u'container_ship', 0.35839552, u'balloon', 0.14291395, u'digital_clock', 0.061364114, u'traffic_light', 0.031598989, u'wall_clock', 0.023737581]

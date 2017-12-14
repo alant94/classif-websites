@@ -1,0 +1,3 @@
+[u'digital_clock', 0.2403143, u'container_ship', 0.11976732, u'digital_watch', 0.06853658, u'maze', 0.066975661, u'switch', 0.062935755]
+[u'jersey', 0.37145028, u'tree_frog', 0.11575542, u'bottlecap', 0.089828156, u'book_jacket', 0.062656239, u'digital_clock', 0.0388068]
+[u'web_site', 0.63921726, u'monitor', 0.10738407, u'screen', 0.077573739, u'hand-held_computer', 0.046405844, u'desktop_computer', 0.023885975]

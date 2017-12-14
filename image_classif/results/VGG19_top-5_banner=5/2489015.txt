@@ -1,0 +1,2 @@
+[u'cheetah', 0.72997087, u'leopard', 0.075674064, u'web_site', 0.036411695, u'hyena', 0.035004966, u'jaguar', 0.013024373]
+[u'web_site', 0.60318434, u'monitor', 0.18178345, u'screen', 0.040281989, u'book_jacket', 0.033068232, u'television', 0.029354652]

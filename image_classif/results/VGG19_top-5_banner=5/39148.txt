@@ -1,0 +1,8 @@
+[u'space_heater', 0.11442119, u'ballpoint', 0.1036157, u'spatula', 0.048354123, u'cleaver', 0.046839166, u'digital_watch', 0.044275731]
+[u'digital_watch', 0.49296796, u'space_heater', 0.18672717, u'plate_rack', 0.027425515, u'digital_clock', 0.020414272, u'cleaver', 0.017568858]
+[u'ballpoint', 0.2949217, u"carpenter's_kit", 0.14618087, u'screwdriver', 0.12674738, u'cleaver', 0.071559027, u'plate_rack', 0.062392689]
+[u'space_heater', 0.19127007, u'nail', 0.093902841, u'plate_rack', 0.070365064, u'digital_watch', 0.05335493, u'screwdriver', 0.050419319]
+[u'book_jacket', 0.27901638, u'web_site', 0.091602542, u'comic_book', 0.066596933, u'menu', 0.047236506, u'Band_Aid', 0.038919013]
+[u'space_heater', 0.38774991, u'ballpoint', 0.082776286, u'screwdriver', 0.063011326, u'toaster', 0.055550791, u'nail', 0.048876777]
+[u'chime', 0.48030898, u'ballpoint', 0.050521296, u'space_heater', 0.04607603, u'digital_watch', 0.024412172, u'toaster', 0.020326296]
+[u'ballpoint', 0.14378826, u"carpenter's_kit", 0.12636557, u'screwdriver', 0.095251106, u'cleaver', 0.077116624, u'spatula', 0.060958207]

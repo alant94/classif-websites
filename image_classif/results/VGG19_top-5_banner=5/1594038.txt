@@ -1,0 +1,1 @@
+[u'beacon', 0.061984446, u'bulletproof_vest', 0.04509785, u'bathing_cap', 0.035885904, u'traffic_light', 0.033100989, u'toilet_seat', 0.026528727]

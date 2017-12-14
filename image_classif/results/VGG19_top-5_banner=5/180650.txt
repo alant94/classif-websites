@@ -1,0 +1,1 @@
+[u'picket_fence', 0.21376851, u'soap_dispenser', 0.18312651, u'perfume', 0.062195916, u'lotion', 0.057719093, u'table_lamp', 0.048388086]

@@ -1,0 +1,5 @@
+[u'overskirt', 0.075527661, u'wardrobe', 0.054796442, u'theater_curtain', 0.048411421, u'gown', 0.045389626, u'lab_coat', 0.038374804]
+[u'bath_towel', 0.34923157, u'brassiere', 0.1214338, u'bathtub', 0.10247013, u'tub', 0.07213787, u'gown', 0.04746291]
+[u'toilet_seat', 0.31561351, u'fireboat', 0.13357483, u'dock', 0.079526849, u'boathouse', 0.038233057, u'dam', 0.034822717]
+[u'window_screen', 0.18856452, u'shoji', 0.1703299, u'sliding_door', 0.077404693, u'window_shade', 0.055086847, u'monitor', 0.03299839]
+[u'teddy', 0.20079736, u'toyshop', 0.095605731, u'bath_towel', 0.08848799, u'bathtub', 0.08179713, u'tub', 0.061794374]

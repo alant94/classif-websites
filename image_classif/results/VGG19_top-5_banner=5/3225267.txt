@@ -1,0 +1,3 @@
+[u'flagpole', 0.46883345, u'fountain', 0.086396664, u'water_tower', 0.060478639, u'balloon', 0.059869256, u'geyser', 0.037920773]
+[u'restaurant', 0.39507332, u'candle', 0.097406924, u'church', 0.071676925, u'theater_curtain', 0.061125442, u'throne', 0.060057953]
+[u'flagpole', 0.43082252, u'bow', 0.058585852, u'pinwheel', 0.055667486, u'hook', 0.054364264, u'pole', 0.046006251]

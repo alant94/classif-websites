@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.38211775, u'bookcase', 0.045111228, u'wool', 0.03558293, u'library', 0.024267755, u'rubber_eraser', 0.021119418]

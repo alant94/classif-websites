@@ -1,0 +1,7 @@
+[u'prison', 0.52383453, u'forklift', 0.090721995, u'picket_fence', 0.033008978, u'dock', 0.017956283, u'sliding_door', 0.017571267]
+[u'forklift', 0.23808278, u'screwdriver', 0.079428047, u'prison', 0.050213166, u'picket_fence', 0.044485487, u'paintbrush', 0.037200488]
+[u'prison', 0.30959609, u'organ', 0.16047363, u'forklift', 0.067911759, u'picket_fence', 0.048263568, u'bannister', 0.024182316]
+[u'maze', 0.13330811, u'digital_clock', 0.11110684, u'quilt', 0.063964613, u'digital_watch', 0.053485304, u'wall_clock', 0.034319714]
+[u'forklift', 0.25033939, u'prison', 0.15903088, u'barbershop', 0.050074082, u'doormat', 0.045205452, u'picket_fence', 0.033238243]
+[u'prison', 0.40760699, u'forklift', 0.10181344, u'picket_fence', 0.065532833, u'crate', 0.038302965, u'book_jacket', 0.021186814]
+[u'prison', 0.25922096, u'picket_fence', 0.073457979, u'forklift', 0.070302531, u'organ', 0.054901339, u'screwdriver', 0.043121144]

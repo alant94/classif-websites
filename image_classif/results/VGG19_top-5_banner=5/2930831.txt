@@ -1,0 +1,5 @@
+[u'acorn', 0.2374734, u'knot', 0.15765658, u'chain', 0.14344326, u'teddy', 0.11995755, u'abacus', 0.052421823]
+[u'rocking_chair', 0.46846837, u'nail', 0.25960651, u'pedestal', 0.036732264, u'hook', 0.021640325, u'mortarboard', 0.018398659]
+[u'ladle', 0.47086528, u'wooden_spoon', 0.25000313, u'soup_bowl', 0.048638441, u'fig', 0.029449435, u'guacamole', 0.020138659]
+[u'Band_Aid', 0.25198844, u'harmonica', 0.051711254, u'stethoscope', 0.029034881, u'loupe', 0.023894081, u'hand-held_computer', 0.02316427]
+[u'puck', 0.1279207, u'pencil_sharpener', 0.11281622, u'cassette', 0.10370464, u'oil_filter', 0.10269585, u'chime', 0.082777672]

@@ -1,0 +1,8 @@
+[u'holster', 0.20303801, u'gasmask', 0.11609895, u'jean', 0.096539296, u'cowboy_boot', 0.051811311, u'miniskirt', 0.035822652]
+[u'space_heater', 0.30057311, u'laptop', 0.065354973, u'television', 0.05161858, u'notebook', 0.035662159, u'safe', 0.028914437]
+[u'quilt', 0.26990706, u'hoopskirt', 0.2130688, u'four-poster', 0.16579783, u'studio_couch', 0.094875403, u'gown', 0.062324502]
+[u'bikini', 0.16903619, u'crutch', 0.09786275, u'pole', 0.084166072, u'gasmask', 0.07868278, u'carousel', 0.048853133]
+[u'swimming_trunks', 0.41597977, u'dumbbell', 0.23899125, u'barbell', 0.16957638, u'parallel_bars', 0.043979086, u'horizontal_bar', 0.022241142]
+[u'African_grey', 0.19108708, u'armadillo', 0.11032305, u'chain_mail', 0.054413997, u'cardigan', 0.046263963, u'hand_blower', 0.033898365]
+[u'sandal', 0.82900345, u'Band_Aid', 0.024503028, u'king_snake', 0.017686214, u'running_shoe', 0.013972441, u'boa_constrictor', 0.012873838]
+[u'suspension_bridge', 0.10492785, u'spotlight', 0.070565552, u'analog_clock', 0.05269368, u'bannister', 0.047651626, u'digital_clock', 0.039772622]

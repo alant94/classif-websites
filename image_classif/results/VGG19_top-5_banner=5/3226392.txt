@@ -1,0 +1,8 @@
+[u'lotion', 0.12443242, u'toilet_tissue', 0.10073501, u'perfume', 0.092243962, u'lab_coat', 0.072417133, u'coffee_mug', 0.056348629]
+[u'street_sign', 0.047007259, u'book_jacket', 0.036036506, u'jersey', 0.0302516, u'nail', 0.030250907, u'web_site', 0.026765609]
+[u'street_sign', 0.031235136, u'web_site', 0.029323239, u'envelope', 0.021600893, u'loupe', 0.012680255, u'chain_saw', 0.012305148]
+[u'envelope', 0.026262255, u'shower_curtain', 0.016668301, u'wall_clock', 0.015748989, u'mosquito_net', 0.01534045, u'photocopier', 0.012651759]
+[u'book_jacket', 0.36195156, u'ashcan', 0.077838458, u'stage', 0.056812353, u'theater_curtain', 0.04999242, u'scoreboard', 0.019500773]
+[u'bell_cote', 0.16785149, u'web_site', 0.077460229, u'analog_clock', 0.062655874, u'wall_clock', 0.061059143, u'envelope', 0.042702582]
+[u'binder', 0.18884538, u'envelope', 0.082612671, u'switch', 0.078997128, u'mousetrap', 0.038622268, u'digital_clock', 0.037883412]
+[u'medicine_chest', 0.32503912, u'binder', 0.14519496, u'envelope', 0.059201304, u'safe', 0.044595957, u'wardrobe', 0.035358451]

@@ -1,0 +1,8 @@
+[u'gondola', 0.46649078, u'paintbrush', 0.16928014, u'lionfish', 0.032715444, u'bow', 0.021988295, u'fountain', 0.021818159]
+[u'Band_Aid', 0.42346346, u'street_sign', 0.064888902, u'ice_lolly', 0.050380342, u'pill_bottle', 0.049279362, u'rubber_eraser', 0.046331704]
+[u'digital_clock', 0.14240451, u'Band_Aid', 0.042854808, u'container_ship', 0.035666496, u'envelope', 0.031882621, u'rubber_eraser', 0.023356609]
+[u'parachute', 0.24099272, u'snorkel', 0.12605152, u'ski', 0.072620109, u'sunglass', 0.053167235, u'sunglasses', 0.041359007]
+[u'whistle', 0.17050195, u'scale', 0.13950019, u'binder', 0.12090296, u'desk', 0.12078632, u'envelope', 0.099261977]
+[u'park_bench', 0.21661848, u'marimba', 0.15204516, u'golfcart', 0.055845279, u'pool_table', 0.039425272, u'dam', 0.035858475]
+[u'Band_Aid', 0.36022329, u'street_sign', 0.25895086, u'pill_bottle', 0.068199709, u'ice_lolly', 0.059129372, u'traffic_light', 0.030154079]
+[u'mountain_bike', 0.32510716, u'parachute', 0.10474455, u'sunglass', 0.090015322, u'sunglasses', 0.072886832, u'binoculars', 0.046534821]

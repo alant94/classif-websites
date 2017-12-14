@@ -1,0 +1,3 @@
+[u'miniskirt', 0.23126075, u'shoe_shop', 0.10433988, u'cowboy_hat', 0.033048425, u'cowboy_boot', 0.030295851, u'pay-phone', 0.027931679]
+[u'miniskirt', 0.21829864, u'coho', 0.16515033, u'jean', 0.097181268, u'fur_coat', 0.089421339, u'sweatshirt', 0.070967302]
+[u'miniskirt', 0.15091246, u'sunglasses', 0.099867836, u'Band_Aid', 0.089727797, u'sandal', 0.080851644, u'Loafer', 0.072211713]

@@ -1,0 +1,1 @@
+[u'street_sign', 0.46252015, u'traffic_light', 0.095867015, u'Band_Aid', 0.044544801, u'rubber_eraser', 0.023239324, u'rule', 0.022816204]

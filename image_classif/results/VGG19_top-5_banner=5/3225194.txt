@@ -1,0 +1,8 @@
+[u'candle', 0.11764872, u'organ', 0.070117727, u'matchstick', 0.067561522, u'wine_bottle', 0.057479069, u'paintbrush', 0.043671943]
+[u'altar', 0.32559428, u'four-poster', 0.26195315, u'restaurant', 0.17200324, u'grand_piano', 0.039299663, u'throne', 0.038413346]
+[u'butcher_shop', 0.41225228, u'wardrobe', 0.29686481, u'lab_coat', 0.05289894, u'cleaver', 0.036016226, u'gown', 0.014035543]
+[u'shoe_shop', 0.10863612, u'bobsled', 0.094218545, u'refrigerator', 0.058455307, u'wardrobe', 0.058322418, u'barbershop', 0.053690612]
+[u'iron', 0.37352383, u'space_shuttle', 0.072972141, u'can_opener', 0.063807212, u'letter_opener', 0.044999212, u'ski', 0.041540701]
+[u'fire_engine', 0.16703475, u'Indian_elephant', 0.1443748, u'tusker', 0.10715618, u'tobacco_shop', 0.044833481, u'book_jacket', 0.038653228]
+[u'street_sign', 0.99979764, u'traffic_light', 0.00017423597, u'scoreboard', 7.448491e-06, u'chainlink_fence', 4.3237555e-06, u'bakery', 4.0697487e-06]
+[u'rule', 0.26179251, u'slide_rule', 0.13138208, u'scale', 0.12031888, u'menu', 0.065918624, u'crossword_puzzle', 0.056167543]

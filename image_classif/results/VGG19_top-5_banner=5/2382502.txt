@@ -1,0 +1,4 @@
+[u'matchstick', 0.12880759, u'envelope', 0.12151936, u'candle', 0.0890214, u'web_site', 0.070868634, u'nail', 0.039086878]
+[u'digital_clock', 0.065529726, u'whistle', 0.061991524, u'hook', 0.050646115, u'Band_Aid', 0.042677842, u'lampshade', 0.033378288]
+[u'screw', 0.27709359, u'rule', 0.11557194, u'nail', 0.099906966, u'matchstick', 0.057881635, u'analog_clock', 0.047852349]
+[u'rule', 0.26590636, u'analog_clock', 0.11345197, u'envelope', 0.054591279, u'nail', 0.041541193, u'bell_cote', 0.037486777]

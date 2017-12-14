@@ -1,0 +1,4 @@
+[u'mountain_bike', 0.18095557, u'go-kart', 0.13741793, u'racer', 0.11397585, u'bicycle-built-for-two', 0.099842474, u'crash_helmet', 0.089129142]
+[u'book_jacket', 0.077519849, u'Band_Aid', 0.072211117, u'refrigerator', 0.046578538, u'packet', 0.043699205, u'web_site', 0.043562289]
+[u'switch', 0.40334433, u'safe', 0.12333482, u'web_site', 0.057457738, u'desktop_computer', 0.043178521, u'loudspeaker', 0.038286753]
+[u'nematode', 0.12625268, u'matchstick', 0.12451361, u'digital_clock', 0.063531563, u'candle', 0.018954499, u'lighter', 0.018413618]

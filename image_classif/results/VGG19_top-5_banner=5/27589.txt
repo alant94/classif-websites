@@ -1,0 +1,2 @@
+[u'alp', 0.28471881, u'valley', 0.10726127, u'church', 0.086784661, u'castle', 0.077559844, u'lakeside', 0.066562131]
+[u'pot', 0.9990778, u'milk_can', 0.00029250546, u'rain_barrel', 0.00025930023, u'bucket', 0.00010885971, u'greenhouse', 8.1207014e-05]

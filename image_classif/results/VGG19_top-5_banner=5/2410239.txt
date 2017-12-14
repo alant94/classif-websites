@@ -1,0 +1,7 @@
+[u'modem', 0.20745334, u'switch', 0.20032613, u'remote_control', 0.1139552, u'oscilloscope', 0.06818042, u'electric_guitar', 0.046464197]
+[u'gas_pump', 0.45615718, u'jinrikisha', 0.056692798, u'recreational_vehicle', 0.051521555, u'horse_cart', 0.031743642, u'alp', 0.026931722]
+[u'oscilloscope', 0.30554268, u'digital_clock', 0.16186276, u'fountain', 0.16050054, u'theater_curtain', 0.10378716, u'window_shade', 0.042496055]
+[u'puck', 0.54315817, u'face_powder', 0.10001804, u'book_jacket', 0.039777085, u'jersey', 0.031799857, u'envelope', 0.02859495]
+[u'modem', 0.30978346, u'mousetrap', 0.19630173, u'pencil_sharpener', 0.1439255, u'switch', 0.084609844, u'rubber_eraser', 0.031246822]
+[u'remote_control', 0.12934886, u'modem', 0.12450669, u'switch', 0.11702424, u'pay-phone', 0.088640355, u'cellular_telephone', 0.054955807]
+[u'switch', 0.26309031, u'modem', 0.17430633, u'combination_lock', 0.12068655, u'magnetic_compass', 0.10847747, u'radio', 0.050602052]

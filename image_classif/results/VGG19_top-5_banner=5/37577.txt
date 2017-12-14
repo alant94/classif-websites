@@ -1,0 +1,3 @@
+[u'breakwater', 0.38621145, u'promontory', 0.17143539, u'beacon', 0.15984641, u'seashore', 0.061840814, u'cliff', 0.048785001]
+[u'seashore', 0.44073543, u'lakeside', 0.078456782, u'beacon', 0.065659583, u'cliff', 0.059828278, u'volcano', 0.058845755]
+[u'boathouse', 0.19777098, u'thatch', 0.11280768, u'lakeside', 0.10336155, u'mobile_home', 0.039601188, u'picket_fence', 0.036928508]

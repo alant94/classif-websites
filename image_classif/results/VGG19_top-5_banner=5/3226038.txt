@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.084990658, u'barbershop', 0.039875198, u'shower_cap', 0.037803985, u'hoopskirt', 0.037146565, u'trench_coat', 0.03448195]
+[u'terrapin', 0.082255699, u'swab', 0.067012809, u'spaghetti_squash', 0.049619757, u'bonnet', 0.040804774, u'head_cabbage', 0.037522707]

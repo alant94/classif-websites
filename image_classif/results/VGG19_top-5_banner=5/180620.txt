@@ -1,0 +1,5 @@
+[u'envelope', 0.18713838, u'chainlink_fence', 0.18098332, u'rule', 0.090548508, u'crane', 0.074027337, u'plate_rack', 0.041279975]
+[u'thresher', 0.48444921, u'harvester', 0.10980733, u'plow', 0.045508426, u'mousetrap', 0.044590306, u'envelope', 0.041412111]
+[u'necklace', 0.42196029, u'bolo_tie', 0.11465077, u'pick', 0.078242168, u'magnetic_compass', 0.041333105, u'chain', 0.028457884]
+[u'swing', 0.41753289, u'crane', 0.25333586, u'balance_beam', 0.056834612, u'cradle', 0.05012992, u'parachute', 0.024131315]
+[u'chimpanzee', 0.60854137, u'swing', 0.21946216, u'siamang', 0.11859187, u'spider_monkey', 0.018073834, u'gibbon', 0.012232306]

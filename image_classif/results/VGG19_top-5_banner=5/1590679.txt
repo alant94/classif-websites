@@ -1,0 +1,6 @@
+[u'miniskirt', 0.21667343, u'brassiere', 0.1678585, u'maillot', 0.10695295, u'bikini', 0.050584711, u'wig', 0.049624223]
+[u'brassiere', 0.15746087, u'miniskirt', 0.12394277, u'bikini', 0.088677898, u'swimming_trunks', 0.081016503, u'maillot', 0.074575]
+[u'brassiere', 0.3965874, u'bikini', 0.36484125, u'miniskirt', 0.1410566, u'maillot', 0.075742669, u'sarong', 0.0074432362]
+[u'stole', 0.40336859, u'swab', 0.069474287, u'web_site', 0.0664545, u'mitten', 0.04564812, u'wig', 0.031284444]
+[u'digital_clock', 0.72629195, u'traffic_light', 0.12243526, u'street_sign', 0.047343921, u'digital_watch', 0.03384576, u'wall_clock', 0.0095300348]
+[u'miniskirt', 0.92745417, u'maillot', 0.018701261, u'jean', 0.0061166077, u'brassiere', 0.0043918258, u'cowboy_boot', 0.0035689664]

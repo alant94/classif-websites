@@ -1,0 +1,5 @@
+[u'street_sign', 0.54290825, u'digital_clock', 0.13453053, u'wall_clock', 0.045636848, u'buckle', 0.040097702, u'lighter', 0.020255942]
+[u'street_sign', 0.27643511, u'digital_clock', 0.19919477, u'analog_clock', 0.037808906, u'stopwatch', 0.037238874, u'matchstick', 0.03213561]
+[u'digital_clock', 0.73820037, u'street_sign', 0.0873973, u'stopwatch', 0.019278908, u'screen', 0.017825911, u'digital_watch', 0.016046785]
+[u'web_site', 0.35818759, u'television', 0.043860894, u'screen', 0.036260426, u'monitor', 0.017921895, u'cash_machine', 0.016561912]
+[u'cash_machine', 0.27786899, u'street_sign', 0.27550998, u'cellular_telephone', 0.035823733, u'book_jacket', 0.033760827, u'screen', 0.032917202]

@@ -1,0 +1,6 @@
+[u'barn', 0.33998361, u'thatch', 0.1528898, u'lumbermill', 0.092635646, u'worm_fence', 0.041022662, u'picket_fence', 0.024080379]
+[u'hartebeest', 0.84528291, u'gazelle', 0.053909834, u'impala', 0.045301311, u'water_buffalo', 0.032896709, u'ox', 0.011248141]
+[u'hartebeest', 0.98212105, u'water_buffalo', 0.006143969, u'impala', 0.0037168164, u'ox', 0.0023008003, u'gazelle', 0.0022232467]
+[u'hartebeest', 0.56322312, u'gazelle', 0.12673771, u'ox', 0.069633357, u'oxcart', 0.066311106, u'water_buffalo', 0.060616612]
+[u'bighorn', 0.60112303, u'ram', 0.31882411, u'ibex', 0.012932267, u'gazelle', 0.0095616179, u'impala', 0.0089393957]
+[u'ram', 0.38370177, u'ox', 0.26946759, u'bighorn', 0.14667672, u'water_buffalo', 0.046546664, u'baboon', 0.028197538]

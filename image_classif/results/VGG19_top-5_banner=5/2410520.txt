@@ -1,0 +1,5 @@
+[u'catamaran', 0.51898867, u'liner', 0.30580848, u'aircraft_carrier', 0.051530529, u'trimaran', 0.047599081, u'speedboat', 0.031729423]
+[u'aircraft_carrier', 0.396997, u'speedboat', 0.20022741, u'submarine', 0.11656551, u'fireboat', 0.064718366, u'catamaran', 0.04293181]
+[u'hook', 0.14303093, u'nail', 0.054989178, u'hammer', 0.044719595, u'cleaver', 0.042685512, u"carpenter's_kit", 0.038018141]
+[u'fireboat', 0.40538135, u'aircraft_carrier', 0.2281362, u'breakwater', 0.074170657, u'seashore', 0.054530386, u'speedboat', 0.044448592]
+[u'aircraft_carrier', 0.91517287, u'submarine', 0.027731558, u'liner', 0.015925743, u'catamaran', 0.0091798659, u'speedboat', 0.008402111]

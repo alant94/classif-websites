@@ -1,0 +1,2 @@
+[u'lakeside', 0.32300398, u'valley', 0.089205772, u'mobile_home', 0.087029703, u'boathouse', 0.08455129, u'sandbar', 0.043104853]
+[u'patio', 0.95366997, u'restaurant', 0.0083172396, u'boathouse', 0.0066473857, u'lumbermill', 0.0025635287, u'lakeside', 0.0019592124]

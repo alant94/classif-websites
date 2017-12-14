@@ -1,0 +1,6 @@
+[u'envelope', 0.13971189, u'web_site', 0.07270515, u'rule', 0.01748915, u'Band_Aid', 0.016784083, u'digital_clock', 0.01026123]
+[u'envelope', 0.07319127, u'web_site', 0.040522356, u'cleaver', 0.013576798, u'nipple', 0.012527253, u'plunger', 0.011397829]
+[u'envelope', 0.12210333, u'web_site', 0.07551185, u'rule', 0.016953314, u'Band_Aid', 0.014196022, u'digital_clock', 0.010530455]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'envelope', 0.11608767, u'web_site', 0.073845036, u'rule', 0.017914072, u'Band_Aid', 0.014197365, u'digital_clock', 0.010753622]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

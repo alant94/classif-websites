@@ -1,0 +1,8 @@
+[u'spaghetti_squash', 0.18269342, u'banana', 0.1761744, u'butternut_squash', 0.056680586, u'maraca', 0.052207138, u'spindle', 0.03541844]
+[u'feather_boa', 0.18078488, u'hair_spray', 0.12309884, u'cleaver', 0.095258944, u'wig', 0.065335035, u'lighter', 0.0554788]
+[u'spotlight', 0.21171784, u'theater_curtain', 0.18417957, u'fountain', 0.16582446, u'stove', 0.13112603, u'lampshade', 0.11679855]
+[u'envelope', 0.06753058, u'jersey', 0.053408071, u'traffic_light', 0.039865013, u'binder', 0.030422848, u'web_site', 0.02681295]
+[u'tub', 0.26402169, u'bathtub', 0.22045286, u'diaper', 0.067499757, u'Angora', 0.033379398, u'fur_coat', 0.023875881]
+[u'diaper', 0.18054119, u'sleeping_bag', 0.16304798, u'swimming_trunks', 0.10311088, u'bath_towel', 0.10133877, u'miniskirt', 0.053105995]
+[u'wig', 0.22396153, u'groom', 0.07091482, u'tub', 0.039346904, u'sunglasses', 0.027406799, u'sunscreen', 0.025512578]
+[u'bathtub', 0.21641709, u'bath_towel', 0.12895069, u'diaper', 0.097166151, u'tub', 0.092445798, u'shower_cap', 0.072298028]

@@ -1,0 +1,2 @@
+[u'airliner', 0.62665904, u'wing', 0.32715607, u'warplane', 0.024224214, u'airship', 0.0093069915, u'parachute', 0.0039611375]
+[u'can_opener', 0.056279149, u'hammerhead', 0.05516943, u'broccoli', 0.040974617, u'hair_slide', 0.03470121, u'triceratops', 0.033531159]

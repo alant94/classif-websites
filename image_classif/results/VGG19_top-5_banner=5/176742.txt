@@ -1,0 +1,5 @@
+[u'cash_machine', 0.30354908, u'barbershop', 0.25753671, u'vending_machine', 0.16541588, u'cinema', 0.047264304, u'pay-phone', 0.043615025]
+[u'web_site', 0.34408027, u'analog_clock', 0.094157316, u'street_sign', 0.089438871, u'cash_machine', 0.070696928, u'scoreboard', 0.045464121]
+[u'web_site', 0.64074463, u'street_sign', 0.066187918, u'analog_clock', 0.040437605, u'cash_machine', 0.03030126, u'scoreboard', 0.024276381]
+[u'comic_book', 0.78788823, u'book_jacket', 0.053578746, u'toyshop', 0.043728612, u'cassette', 0.022421056, u'web_site', 0.014833822]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

@@ -1,0 +1,1 @@
+[u'cash_machine', 0.1022068, u'mailbox', 0.073168606, u'screen', 0.056488004, u'ashcan', 0.044448253, u'vending_machine', 0.039689753]

@@ -1,0 +1,3 @@
+[u'crutch', 0.18369046, u'parallel_bars', 0.13082154, u'horizontal_bar', 0.045858085, u'Loafer', 0.038488667, u'vacuum', 0.025176009]
+[u'mortarboard', 0.52707952, u'academic_gown', 0.099385761, u'sarong', 0.07658565, u'stole', 0.054363012, u'shower_curtain', 0.034567293]
+[u'web_site', 0.13103279, u'book_jacket', 0.11886652, u'envelope', 0.060073484, u'mortarboard', 0.040672492, u'jersey', 0.030904442]

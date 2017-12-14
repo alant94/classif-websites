@@ -1,0 +1,5 @@
+[u'digital_clock', 0.0868496, u'wall_clock', 0.077102154, u'shower_curtain', 0.069515802, u'envelope', 0.068331033, u'toilet_tissue', 0.059135072]
+[u'picket_fence', 0.78415078, u'matchstick', 0.072056435, u'rule', 0.021462988, u'digital_clock', 0.017451664, u'mailbox', 0.01440322]
+[u'bassoon', 0.3223815, u'trombone', 0.0671525, u'rifle', 0.065883435, u'ski', 0.057287648, u'pole', 0.052023038]
+[u'digital_clock', 0.20655176, u'envelope', 0.079153031, u'washbasin', 0.071051583, u'maze', 0.044017542, u'shower_curtain', 0.041124444]
+[u'desk', 0.17739657, u'envelope', 0.12050657, u'vase', 0.063960776, u'washbasin', 0.048688032, u'shoji', 0.047557276]

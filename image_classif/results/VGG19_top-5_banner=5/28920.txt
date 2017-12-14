@@ -1,0 +1,2 @@
+[u'fountain', 0.90404719, u'isopod', 0.039508212, u'jellyfish', 0.007869876, u'kite', 0.0059090275, u'loggerhead', 0.0041621993]
+[u'fountain', 0.86359781, u'dam', 0.056811098, u'wreck', 0.015716108, u'fireboat', 0.0071409838, u'killer_whale', 0.0043033087]

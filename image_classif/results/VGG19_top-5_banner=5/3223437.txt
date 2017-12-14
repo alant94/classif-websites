@@ -1,0 +1,1 @@
+[u'miniskirt', 0.05053727, u'swing', 0.043007463, u'balance_beam', 0.039136622, u'soccer_ball', 0.033933114, u'unicycle', 0.022433927]

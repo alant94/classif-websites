@@ -1,0 +1,3 @@
+[u'book_jacket', 0.17962559, u'hair_spray', 0.090536498, u'packet', 0.066330813, u'bookshop', 0.052089401, u'comic_book', 0.049282815]
+[u'wardrobe', 0.063819721, u'barrel', 0.047915965, u'sliding_door', 0.039747037, u'china_cabinet', 0.03653191, u'paintbrush', 0.033020772]
+[u'shower_curtain', 0.41666105, u'book_jacket', 0.15218294, u'ski', 0.072676852, u'wardrobe', 0.071625881, u'sarong', 0.03676651]

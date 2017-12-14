@@ -1,0 +1,1 @@
+[u'fountain', 0.17138784, u'pedestal', 0.13778315, u'obelisk', 0.038845886, u'picket_fence', 0.032056492, u'zebra', 0.028035413]

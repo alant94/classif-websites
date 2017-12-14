@@ -1,0 +1,7 @@
+[u'vase', 0.48341, u'maillot', 0.098823078, u'sandal', 0.033465598, u'water_jug', 0.033219196, u'beaker', 0.029242933]
+[u'magnetic_compass', 0.65209734, u'plate_rack', 0.046289712, u'scale', 0.04502169, u'spotlight', 0.030542834, u'electric_fan', 0.023328029]
+[u'cheetah', 0.99172229, u'hyena', 0.0064719897, u'leopard', 0.00090136059, u'German_short-haired_pointer', 0.0003945895, u'gazelle', 9.4998082e-05]
+[u'hartebeest', 0.64338797, u'impala', 0.11074901, u'warthog', 0.07475052, u'wild_boar', 0.017832933, u'tusker', 0.01315441]
+[u'hartebeest', 0.95960402, u'impala', 0.029923333, u'gazelle', 0.0097266426, u'ibex', 0.00050982292, u'ox', 0.00017565922]
+[u'menu', 0.84354007, u'envelope', 0.11332246, u'web_site', 0.036225043, u'binder', 0.0030694476, u'pick', 0.00042009505]
+[u'bakery', 0.064665847, u'grocery_store', 0.044804279, u'confectionery', 0.034778841, u'bookshop', 0.032456346, u'book_jacket', 0.02308316]

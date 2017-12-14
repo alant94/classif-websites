@@ -1,0 +1,3 @@
+[u'matchstick', 0.08343862, u'wall_clock', 0.05150196, u'monitor', 0.038738079, u'screen', 0.031540651, u'safety_pin', 0.029163659]
+[u'matchstick', 0.12618335, u'book_jacket', 0.11620348, u'beacon', 0.048173983, u'envelope', 0.031937249, u'rule', 0.028439462]
+[u'flagpole', 0.12693676, u'chime', 0.10148773, u'ski', 0.079302803, u'stupa', 0.066518985, u'brassiere', 0.048946556]

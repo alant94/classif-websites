@@ -1,0 +1,3 @@
+[u'remote_control', 0.079495281, u'mouse', 0.072180547, u'lighter', 0.070053056, u'pool_table', 0.055737901, u'iPod', 0.055633236]
+[u'perfume', 0.32465684, u'hamper', 0.26159108, u'lotion', 0.082487814, u'face_powder', 0.067321062, u'envelope', 0.018819852]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

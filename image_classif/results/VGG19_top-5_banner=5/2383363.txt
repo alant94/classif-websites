@@ -1,0 +1,6 @@
+[u'hair_slide', 0.27222952, u'screwdriver', 0.12181442, u'whistle', 0.095827579, u'safety_pin', 0.0428368, u'ballpoint', 0.041293573]
+[u'traffic_light', 0.183236, u'scoreboard', 0.088667244, u'street_sign', 0.042428769, u'totem_pole', 0.041027576, u'greenhouse', 0.034130275]
+[u'screwdriver', 0.30993178, u'ballpoint', 0.21975756, u'hair_slide', 0.12750946, u'screw', 0.069185406, u'nail', 0.058452792]
+[u'hair_slide', 0.39221832, u'screwdriver', 0.11878859, u'safety_pin', 0.094781518, u'whistle', 0.070462316, u'ballpoint', 0.051350009]
+[u'lighter', 0.091798142, u'hair_slide', 0.091582596, u'whistle', 0.088321619, u'pick', 0.077438839, u'vase', 0.039503921]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

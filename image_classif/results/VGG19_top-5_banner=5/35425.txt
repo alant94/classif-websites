@@ -1,0 +1,2 @@
+[u'impala', 0.26512933, u'hartebeest', 0.2157442, u'African_hunting_dog', 0.12440899, u'gazelle', 0.062706515, u'hyena', 0.057993215]
+[u'wall_clock', 0.075022116, u'pencil_sharpener', 0.0612638, u'mousetrap', 0.055807848, u'paintbrush', 0.054698896, u'medicine_chest', 0.047737759]

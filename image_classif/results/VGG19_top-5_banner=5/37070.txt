@@ -1,0 +1,4 @@
+[u'digital_clock', 0.40302441, u'maze', 0.12855901, u'quilt', 0.044026632, u'digital_watch', 0.032213472, u'tray', 0.014704698]
+[u'container_ship', 0.56452048, u'picket_fence', 0.095606863, u'beacon', 0.076515622, u'crane', 0.038082372, u'stupa', 0.025567343]
+[u'digital_clock', 0.56625146, u'scoreboard', 0.079944283, u'Band_Aid', 0.032595012, u'envelope', 0.029118635, u'crossword_puzzle', 0.02551054]
+[u'envelope', 0.20263615, u'wall_clock', 0.060712196, u'shower_curtain', 0.03961423, u'digital_clock', 0.029943811, u'bathtub', 0.02467832]

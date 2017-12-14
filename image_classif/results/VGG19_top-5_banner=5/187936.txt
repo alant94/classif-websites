@@ -1,0 +1,4 @@
+[u'slide_rule', 0.87050766, u'rule', 0.030737957, u'hard_disc', 0.0094642015, u'envelope', 0.0060408637, u'hammer', 0.0053422838]
+[u'web_site', 0.79051375, u'envelope', 0.057594165, u'menu', 0.034706477, u'screen', 0.011356317, u'binder', 0.011173299]
+[u'web_site', 0.034721419, u'rule', 0.034006506, u'nail', 0.024632245, u'envelope', 0.023220487, u'hatchet', 0.022011159]
+[u'plastic_bag', 0.75026661, u'packet', 0.058768641, u'golf_ball', 0.018708868, u'book_jacket', 0.016729116, u'spider_web', 0.012905634]

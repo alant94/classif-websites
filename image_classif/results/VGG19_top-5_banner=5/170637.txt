@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.22918442, u'corkscrew', 0.13220493, u'electric_guitar', 0.10123423, u'pick', 0.037465386, u'acoustic_guitar', 0.030518459]
+[u'hook', 0.086013451, u'screwdriver', 0.063698992, u'web_site', 0.061820429, u'ballpoint', 0.060026225, u"carpenter's_kit", 0.051668175]

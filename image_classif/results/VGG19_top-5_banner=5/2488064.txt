@@ -1,0 +1,3 @@
+[u'photocopier', 0.11220345, u'shoe_shop', 0.07579767, u'dishwasher', 0.051059213, u'refrigerator', 0.036680721, u'lab_coat', 0.032701775]
+[u'cougar', 0.92207837, u'lynx', 0.037891656, u'lion', 0.015993388, u'Irish_wolfhound', 0.006977492, u'hyena', 0.0051387358]
+[u'shoji', 0.11971784, u'sliding_door', 0.075688832, u'prison', 0.06767562, u'forklift', 0.050208051, u'yurt', 0.044537771]

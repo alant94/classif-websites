@@ -1,0 +1,4 @@
+[u'bow_tie', 0.66416907, u'Windsor_tie', 0.045373887, u'dumbbell', 0.029953552, u'ski_mask', 0.026097052, u'maraca', 0.012282073]
+[u'torch', 0.085538864, u'marimba', 0.063527755, u'cleaver', 0.059997629, u'sweatshirt', 0.054986477, u'candle', 0.046430517]
+[u'academic_gown', 0.12329671, u'suit', 0.073356517, u'panpipe', 0.046771806, u'cowboy_hat', 0.034690447, u'shower_cap', 0.031308036]
+[u'paper_towel', 0.46201766, u'toilet_tissue', 0.29048249, u'cleaver', 0.025659828, u'Band_Aid', 0.023385741, u'bath_towel', 0.014937919]

@@ -1,0 +1,4 @@
+[u'snail', 0.22106932, u'trilobite', 0.12358935, u'green_snake', 0.050934173, u'conch', 0.038941275, u'bell_pepper', 0.036071181]
+[u'bolo_tie', 0.83365959, u'necklace', 0.064276159, u'spindle', 0.016988207, u'knot', 0.0079661692, u'hair_slide', 0.0078594368]
+[u'Arabian_camel', 0.19863634, u'bighorn', 0.17359366, u'hartebeest', 0.054749306, u'sorrel', 0.053717911, u'Mexican_hairless', 0.051197067]
+[u'Great_Dane', 0.3301816, u'book_jacket', 0.10883084, u'muzzle', 0.082193248, u'Mexican_hairless', 0.072591826, u'sax', 0.037611686]

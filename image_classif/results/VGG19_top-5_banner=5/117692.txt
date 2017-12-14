@@ -1,0 +1,1 @@
+[u'screen', 0.16711864, u'joystick', 0.13704289, u'web_site', 0.11860402, u'oscilloscope', 0.092538364, u'monitor', 0.068793528]

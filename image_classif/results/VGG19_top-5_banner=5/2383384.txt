@@ -1,0 +1,1 @@
+[u'ear', 0.17911707, u'lacewing', 0.15172125, u'banana', 0.066649243, u'grasshopper', 0.063910209, u'bee_eater', 0.049411707]

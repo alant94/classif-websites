@@ -1,0 +1,6 @@
+[u'redbone', 0.53982842, u'Irish_setter', 0.28078619, u'Irish_terrier', 0.05476065, u'vizsla', 0.041541994, u'bath_towel', 0.011726691]
+[u'iPod', 0.29395825, u'tray', 0.19861455, u'laptop', 0.051771101, u'buckle', 0.037249945, u'cellular_telephone', 0.035824936]
+[u'Airedale', 0.24366276, u'tray', 0.067677997, u'Gordon_setter', 0.047214922, u'tennis_ball', 0.043593515, u'Doberman', 0.040316451]
+[u'redbone', 0.60763812, u'Irish_setter', 0.15978938, u'vizsla', 0.041255482, u'Rhodesian_ridgeback', 0.033830039, u'tennis_ball', 0.02434459]
+[u'redbone', 0.57661325, u'Irish_setter', 0.16939873, u'vizsla', 0.12491049, u'tennis_ball', 0.021327134, u'bath_towel', 0.01871185]
+[u'black-and-tan_coonhound', 0.40889975, u'Gordon_setter', 0.22098178, u'redbone', 0.11674789, u'Irish_setter', 0.090012439, u'Doberman', 0.035385314]

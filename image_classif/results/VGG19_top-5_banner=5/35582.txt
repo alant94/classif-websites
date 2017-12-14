@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.30948281, u'brassiere', 0.13841614, u'wardrobe', 0.11104917, u'butcher_shop', 0.049096324, u'stage', 0.024939807]
+[u'table_lamp', 0.096043497, u'vase', 0.095131278, u'lampshade', 0.068632156, u'red_wine', 0.040979687, u'theater_curtain', 0.034350865]

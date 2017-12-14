@@ -1,0 +1,5 @@
+[u'swing', 0.096956909, u'worm_fence', 0.090572402, u'bow', 0.040944345, u'megalith', 0.032544628, u'ox', 0.030527661]
+[u'envelope', 0.37296563, u'digital_clock', 0.083695278, u'Windsor_tie', 0.050637748, u'Band_Aid', 0.042468049, u'web_site', 0.023877971]
+[u'book_jacket', 0.13837306, u'pick', 0.082039833, u'jersey', 0.070569016, u'puck', 0.049016282, u'street_sign', 0.040169496]
+[u'safety_pin', 0.36939001, u'hair_slide', 0.087882571, u'necklace', 0.07110662, u'pick', 0.036877085, u'chain', 0.032131471]
+[u'corkscrew', 0.2759181, u'whistle', 0.10475437, u'hook', 0.09055379, u'chain', 0.023671145, u'rhinoceros_beetle', 0.017998442]

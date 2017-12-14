@@ -1,0 +1,2 @@
+[u'hair_slide', 0.13617441, u'rubber_eraser', 0.069546737, u'matchstick', 0.067686096, u'analog_clock', 0.055588704, u'ballpoint', 0.047260828]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

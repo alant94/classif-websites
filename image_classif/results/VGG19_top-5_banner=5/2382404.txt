@@ -1,0 +1,4 @@
+[u'television', 0.24732593, u'screen', 0.1601129, u'microwave', 0.071562544, u'monitor', 0.051021192, u'space_heater', 0.038549967]
+[u'nail', 0.53351516, u'hammer', 0.051908907, u'screwdriver', 0.051625729, u'hook', 0.029594637, u'drumstick', 0.028752355]
+[u'screwdriver', 0.17560272, u'bow', 0.11604926, u"carpenter's_kit", 0.10565418, u'nail', 0.10239182, u'cleaver', 0.078721561]
+[u'greenhouse', 0.092189625, u'picket_fence', 0.072767831, u'groom', 0.065889828, u'yurt', 0.042111155, u'groenendael', 0.040277105]

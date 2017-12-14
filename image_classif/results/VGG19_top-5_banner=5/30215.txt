@@ -1,0 +1,2 @@
+[u'wall_clock', 0.088630721, u'digital_clock', 0.066407651, u'digital_watch', 0.062345047, u'lampshade', 0.052304193, u'necklace', 0.02291525]
+[u'nail', 0.11447871, u'chime', 0.084799282, u'syringe', 0.056224264, u'matchstick', 0.044387497, u'envelope', 0.042180084]

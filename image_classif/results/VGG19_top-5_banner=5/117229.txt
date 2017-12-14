@@ -1,0 +1,2 @@
+[u'traffic_light', 0.33313742, u'water_tower', 0.16660088, u'obelisk', 0.082449906, u'triumphal_arch', 0.059995253, u'cinema', 0.058077399]
+[u'book_jacket', 0.26393124, u'analog_clock', 0.064420648, u'matchstick', 0.051031273, u'comic_book', 0.034548357, u'hook', 0.031048959]

@@ -1,0 +1,5 @@
+[u'kite', 0.28981775, u'great_grey_owl', 0.16280854, u'peacock', 0.13184839, u'bustard', 0.13129742, u'vulture', 0.072634459]
+[u'switch', 0.26918304, u'digital_clock', 0.11792046, u'envelope', 0.04662884, u'iPod', 0.041393992, u'web_site', 0.033209108]
+[u'panpipe', 0.11926755, u'rubber_eraser', 0.11041265, u'matchstick', 0.091540098, u'ballpoint', 0.058050275, u'lighter', 0.054479048]
+[u'envelope', 0.13798861, u'digital_clock', 0.13090684, u'binder', 0.11261932, u'web_site', 0.07149224, u'screen', 0.042634591]
+[u'kite', 0.80443591, u'house_finch', 0.1367389, u'brambling', 0.019797813, u'quail', 0.01119238, u'partridge', 0.0066011557]

@@ -1,0 +1,5 @@
+[u'plastic_bag', 0.67147899, u'mosquito_net', 0.18437041, u'swab', 0.02058458, u'book_jacket', 0.012035769, u'shower_cap', 0.0092542171]
+[u'clog', 0.26221704, u'racket', 0.13770495, u'scale', 0.12184914, u'throne', 0.066890053, u'paddle', 0.042159479]
+[u'web_site', 0.11407528, u'matchstick', 0.077868141, u'book_jacket', 0.075157367, u'macaw', 0.068358049, u'pinwheel', 0.054759659]
+[u'rule', 0.19536085, u'book_jacket', 0.14642356, u'screwdriver', 0.054101393, u"carpenter's_kit", 0.046563007, u'modem', 0.040116556]
+[u'cash_machine', 0.16112342, u'rubber_eraser', 0.052906543, u'envelope', 0.052394018, u'carton', 0.04464978, u'packet', 0.042051785]

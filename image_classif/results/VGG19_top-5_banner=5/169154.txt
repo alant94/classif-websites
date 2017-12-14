@@ -1,0 +1,6 @@
+[u'traffic_light', 0.065089181, u'digital_clock', 0.055041537, u'switch', 0.042963922, u'envelope', 0.025797401, u'screen', 0.023234393]
+[u'book_jacket', 0.20464021, u'jersey', 0.078447275, u'packet', 0.052079447, u'web_site', 0.031367604, u'comic_book', 0.030773869]
+[u'wreck', 0.090451039, u'container_ship', 0.068891071, u'drilling_platform', 0.053133782, u'parachute', 0.049528189, u'space_shuttle', 0.047915883]
+[u'beacon', 0.13125597, u'parachute', 0.053333782, u'digital_clock', 0.043989129, u'traffic_light', 0.030513693, u'balloon', 0.030346896]
+[u'digital_clock', 0.28083187, u'jersey', 0.098254912, u'envelope', 0.030666105, u'wall_clock', 0.027853787, u'safe', 0.025350476]
+[u'web_site', 0.31040916, u'envelope', 0.058325622, u'book_jacket', 0.033384129, u'Band_Aid', 0.021948848, u'rule', 0.016783921]

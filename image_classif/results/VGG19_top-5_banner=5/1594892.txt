@@ -1,0 +1,1 @@
+[u'bobsled', 0.24892609, u'ashcan', 0.10643132, u'bucket', 0.064200744, u'backpack', 0.043331314, u'vacuum', 0.034026269]

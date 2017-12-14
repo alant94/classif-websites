@@ -1,0 +1,6 @@
+[u'bearskin', 0.052299067, u'comic_book', 0.052169848, u'miniskirt', 0.051941659, u'book_jacket', 0.046979491, u'bookshop', 0.036004592]
+[u'tub', 0.17254768, u'bikini', 0.16801347, u'bathtub', 0.13971938, u'brassiere', 0.087632753, u'miniskirt', 0.056541551]
+[u'fireboat', 0.53605551, u'missile', 0.22051682, u'projectile', 0.13029765, u'geyser', 0.025028266, u'cannon', 0.014342483]
+[u'pay-phone', 0.092102543, u'cassette', 0.050656378, u'book_jacket', 0.045745153, u'television', 0.038618792, u'mask', 0.036666375]
+[u'harmonica', 0.16440788, u'butcher_shop', 0.084179394, u'vizsla', 0.073732935, u'fur_coat', 0.071393497, u'boa_constrictor', 0.051278584]
+[u'syringe', 0.26870015, u'safety_pin', 0.15188408, u'walking_stick', 0.074671715, u'bikini', 0.027739277, u'tub', 0.024859268]

@@ -1,0 +1,1 @@
+[u'web_site', 0.13785546, u'digital_clock', 0.061585516, u'scoreboard', 0.048356961, u'laptop', 0.047117118, u'stopwatch', 0.044738982]

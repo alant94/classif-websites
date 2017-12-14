@@ -1,0 +1,8 @@
+[u'brassiere', 0.28145275, u'maillot', 0.14839752, u'miniskirt', 0.10818319, u'bikini', 0.1030331, u'sarong', 0.06663873]
+[u'bow', 0.15729551, u'matchstick', 0.1265669, u'paintbrush', 0.061878771, u'chime', 0.054193925, u'torch', 0.052225459]
+[u'ballpoint', 0.049313534, u'ski', 0.040658958, u'binder', 0.031316996, u'web_site', 0.030421646, u'lighter', 0.030101223]
+[u'parachute', 0.03965247, u'kite', 0.033734009, u'space_shuttle', 0.026084393, u'bald_eagle', 0.025856363, u'wing', 0.023598524]
+[u'brassiere', 0.62723964, u'bikini', 0.2128754, u'maillot', 0.12500176, u'maillot', 0.017746544, u'sarong', 0.0087928297]
+[u'wig', 0.20178194, u'lipstick', 0.09415438, u'fur_coat', 0.072408549, u'hair_spray', 0.051092722, u'stole', 0.043419737]
+[u'brassiere', 0.58690906, u'swimming_trunks', 0.083278649, u'neck_brace', 0.070195027, u'sunscreen', 0.055863895, u'bikini', 0.03948237]
+[u'picket_fence', 0.039472137, u'matchstick', 0.033007517, u'hook', 0.030987235, u'web_site', 0.027450813, u'television', 0.027335906]

@@ -1,0 +1,1 @@
+[u'buckle', 0.32345557, u'football_helmet', 0.26246741, u'crash_helmet', 0.20495756, u'puck', 0.089006715, u'running_shoe', 0.016510468]

@@ -1,0 +1,8 @@
+[u'window_screen', 0.34496233, u'television', 0.064342648, u'shower_curtain', 0.051544804, u'fountain', 0.042790052, u'window_shade', 0.035736881]
+[u'medicine_chest', 0.18884161, u'sliding_door', 0.18421799, u'pay-phone', 0.047684841, u'prison', 0.037864704, u'window_screen', 0.030356728]
+[u'hair_spray', 0.33652267, u'abaya', 0.11165396, u'web_site', 0.073240243, u'wig', 0.064615369, u'suit', 0.03485864]
+[u'lab_coat', 0.66417116, u'wardrobe', 0.23419984, u'cleaver', 0.048641339, u'pajama', 0.0066592605, u'butcher_shop', 0.006646045]
+[u'sliding_door', 0.2354693, u'pay-phone', 0.12858284, u'window_screen', 0.077435151, u'orangutan', 0.047768533, u'gong', 0.03602089]
+[u'mousetrap', 0.12255585, u'pencil_box', 0.052500259, u'spindle', 0.050423924, u'pay-phone', 0.043071069, u'tray', 0.027795078]
+[u'letter_opener', 0.4016563, u'screwdriver', 0.14046314, u'can_opener', 0.071625404, u'nail', 0.050581492, u'ballpoint', 0.036672138]
+[u'lipstick', 0.44625884, u'web_site', 0.098622784, u'perfume', 0.068788335, u'Band_Aid', 0.035962377, u'book_jacket', 0.024458971]

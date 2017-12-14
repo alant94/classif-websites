@@ -1,0 +1,3 @@
+[u'comic_book', 0.55525571, u'book_jacket', 0.44139931, u'web_site', 0.002857598, u'menu', 0.00045477343, u'packet', 1.5287729e-05]
+[u'shield', 0.12928565, u'binder', 0.12400005, u'laptop', 0.077754363, u'comic_book', 0.077283412, u'pinwheel', 0.051809356]
+[u'crane', 0.25516558, u'projectile', 0.069979206, u'web_site', 0.05995002, u'missile', 0.05046339, u'whistle', 0.042512223]

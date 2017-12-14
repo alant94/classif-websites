@@ -1,0 +1,7 @@
+[u'airliner', 0.28782552, u'aircraft_carrier', 0.27967411, u'space_shuttle', 0.20796861, u'wing', 0.061196033, u'warplane', 0.049099058]
+[u'airship', 0.56697112, u'space_shuttle', 0.28517041, u'airliner', 0.095397942, u'wing', 0.031042738, u'radio_telescope', 0.011075545]
+[u'fountain', 0.16560262, u'wreck', 0.10413307, u'scuba_diver', 0.073954828, u'aircraft_carrier', 0.071080536, u'barn', 0.055179793]
+[u'web_site', 0.15279676, u'packet', 0.072585411, u'menu', 0.060293898, u'Band_Aid', 0.059466191, u'plastic_bag', 0.034317344]
+[u'space_shuttle', 0.57915258, u'missile', 0.10488423, u'dock', 0.084986128, u'fireboat', 0.057123143, u'projectile', 0.043051299]
+[u'space_shuttle', 0.67419302, u'American_alligator', 0.088247932, u'African_crocodile', 0.03276353, u'fountain', 0.027197508, u'aircraft_carrier', 0.02016416]
+[u'aircraft_carrier', 0.382456, u'submarine', 0.12549815, u'airliner', 0.07093107, u'airship', 0.062664419, u'dock', 0.040082593]

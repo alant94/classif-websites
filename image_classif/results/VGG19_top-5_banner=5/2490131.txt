@@ -1,0 +1,4 @@
+[u'chambered_nautilus', 0.3426398, u'shield', 0.28592145, u'gong', 0.09525913, u'chime', 0.073332384, u'wall_clock', 0.027617097]
+[u'tank', 0.074273556, u'half_track', 0.070549443, u'planetarium', 0.067756668, u'assault_rifle', 0.03846027, u'cannon', 0.032362744]
+[u'envelope', 0.17948946, u'web_site', 0.033337485, u'digital_clock', 0.029009862, u'binder', 0.01642105, u'jersey', 0.01480325]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

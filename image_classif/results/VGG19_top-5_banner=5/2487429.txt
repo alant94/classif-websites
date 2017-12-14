@@ -1,0 +1,4 @@
+[u'wild_boar', 0.47805113, u'hog', 0.21694054, u'warthog', 0.097014688, u'tusker', 0.049465317, u'water_buffalo', 0.048764326]
+[u'lumbermill', 0.52078408, u'worm_fence', 0.17426707, u'yurt', 0.022581112, u'stone_wall', 0.011355762, u'turnstile', 0.0081566442]
+[u'lakeside', 0.59804291, u'boathouse', 0.1015128, u'canoe', 0.075926758, u'valley', 0.039475519, u'paddle', 0.022787327]
+[u'half_track', 0.15814491, u'military_uniform', 0.15000086, u'tank', 0.10288223, u'cannon', 0.048640758, u'rifle', 0.038137246]

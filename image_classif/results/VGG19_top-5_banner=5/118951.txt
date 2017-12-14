@@ -1,0 +1,2 @@
+[u'envelope', 0.2876153, u'digital_clock', 0.13113943, u'binder', 0.05135908, u'book_jacket', 0.042448267, u'wall_clock', 0.024916904]
+[u'binder', 0.10822562, u'traffic_light', 0.065773912, u'guillotine', 0.043563668, u'crane', 0.042822458, u'envelope', 0.034950387]

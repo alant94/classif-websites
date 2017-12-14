@@ -1,0 +1,2 @@
+[u'street_sign', 0.3790082, u'scoreboard', 0.17323953, u'bookshop', 0.048952676, u'grocery_store', 0.036295854, u'menu', 0.034284338]
+[u'swab', 0.16518565, u'wig', 0.11500845, u'hair_spray', 0.10260464, u'Kerry_blue_terrier', 0.062887408, u'plunger', 0.051398579]

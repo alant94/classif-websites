@@ -1,0 +1,1 @@
+[u'coil', 0.52613443, u'bannister', 0.19754499, u'planetarium', 0.075207859, u'cassette', 0.06436342, u'dome', 0.014321087]

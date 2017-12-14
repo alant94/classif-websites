@@ -1,0 +1,3 @@
+[u'web_site', 0.62337059, u'digital_clock', 0.11037764, u'stopwatch', 0.030447496, u'analog_clock', 0.020396722, u'rule', 0.012603412]
+[u'puck', 0.34018925, u'face_powder', 0.092621297, u'loupe', 0.082644232, u'stopwatch', 0.031587671, u'analog_clock', 0.026914854]
+[u'envelope', 0.05029045, u'web_site', 0.037117466, u'nail', 0.023486918, u'book_jacket', 0.020354807, u'hatchet', 0.015912211]

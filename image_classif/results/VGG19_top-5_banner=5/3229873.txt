@@ -1,0 +1,6 @@
+[u'puck', 0.39423931, u'magnetic_compass', 0.066552185, u'wall_clock', 0.051194184, u'digital_clock', 0.049866587, u'analog_clock', 0.039755214]
+[u'switch', 0.23292688, u'joystick', 0.1066059, u'mouse', 0.088143043, u'hook', 0.054476496, u'whistle', 0.053438671]
+[u'window_shade', 0.14269054, u'window_screen', 0.10120455, u'sliding_door', 0.087775007, u'entertainment_center', 0.052128766, u'patio', 0.033618782]
+[u'suit', 0.099554256, u'bow_tie', 0.065230556, u'steel_drum', 0.04404778, u'banjo', 0.025089426, u'Windsor_tie', 0.024602838]
+[u'beer_glass', 0.26457477, u'perfume', 0.16426912, u'measuring_cup', 0.071009792, u'red_wine', 0.065669812, u'book_jacket', 0.040808555]
+[u'web_site', 0.81526166, u'menu', 0.036924563, u'comic_book', 0.02457167, u'slot', 0.019916069, u'envelope', 0.019726802]

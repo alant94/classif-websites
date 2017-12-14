@@ -1,0 +1,2 @@
+[u'traffic_light', 0.2993488, u'chain_saw', 0.13839616, u'street_sign', 0.10072099, u'switch', 0.048431512, u'crane', 0.047603]
+[u'street_sign', 0.23405766, u'book_jacket', 0.20462763, u'jersey', 0.075836025, u'barbershop', 0.036586232, u'traffic_light', 0.026487311]

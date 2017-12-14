@@ -1,0 +1,7 @@
+[u'spatula', 0.14740516, u'screwdriver', 0.1257019, u"carpenter's_kit", 0.095706925, u'bow', 0.034166258, u'chime', 0.032012377]
+[u'sliding_door', 0.11186937, u'home_theater', 0.1028681, u'restaurant', 0.085147254, u'cinema', 0.054167297, u'shoe_shop', 0.05153871]
+[u'chime', 0.50111544, u'screwdriver', 0.15239698, u'paintbrush', 0.048020791, u'rifle', 0.043861084, u'ballpoint', 0.035557065]
+[u'screwdriver', 0.31659463, u'chime', 0.27215073, u"carpenter's_kit", 0.10383089, u'nail', 0.04764954, u'paintbrush', 0.038998164]
+[u'library', 0.68661231, u'dining_table', 0.096549883, u'restaurant', 0.072290875, u'bookshop', 0.049226072, u'patio', 0.021160243]
+[u'face_powder', 0.15105093, u'puck', 0.133919, u'sunscreen', 0.078060232, u'gas_pump', 0.05295958, u'book_jacket', 0.040426232]
+[u'chime', 0.82972002, u'bow', 0.013674318, u'screwdriver', 0.012397556, u'assault_rifle', 0.011535868, u'rifle', 0.011212036]

@@ -1,0 +1,2 @@
+[u'magnetic_compass', 0.2426167, u'barometer', 0.21668294, u'spotlight', 0.059766661, u'wall_clock', 0.032026015, u'book_jacket', 0.027112221]
+[u'poncho', 0.43898764, u'stole', 0.12218495, u'sarong', 0.11450464, u'swab', 0.060865298, u'wool', 0.043204885]

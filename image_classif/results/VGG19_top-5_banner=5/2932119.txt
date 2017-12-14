@@ -1,0 +1,3 @@
+[u'web_site', 0.11902013, u'envelope', 0.04048394, u'rule', 0.033151917, u'analog_clock', 0.022270594, u'hook', 0.01796248]
+[u'rule', 0.25914469, u'slide_rule', 0.19270712, u'screwdriver', 0.076347105, u'nail', 0.048035271, u"carpenter's_kit", 0.04303949]
+[u'digital_clock', 0.52882195, u'digital_watch', 0.062203132, u'crossword_puzzle', 0.060271494, u'maze', 0.041697159, u'scoreboard', 0.040889591]

@@ -1,0 +1,2 @@
+[u'crane', 0.36246359, u'nail', 0.073620901, u'hook', 0.070742175, u'swab', 0.058446463, u'syringe', 0.055487663]
+[u'radiator', 0.30404276, u'picket_fence', 0.19368221, u'screwdriver', 0.062354561, u'matchstick', 0.046473488, u"carpenter's_kit", 0.044829909]

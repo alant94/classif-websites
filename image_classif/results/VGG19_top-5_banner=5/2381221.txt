@@ -1,0 +1,2 @@
+[u'turnstile', 0.039207596, u'sliding_door', 0.038636882, u'fountain', 0.038197093, u'totem_pole', 0.035239536, u'rotisserie', 0.028512318]
+[u'nail', 0.15723374, u'hook', 0.093467683, u'web_site', 0.035930682, u'hatchet', 0.034970183, u'hammer', 0.031781483]

@@ -1,0 +1,2 @@
+[u'maze', 0.14327535, u'digital_clock', 0.11200728, u'doormat', 0.084255718, u'quilt', 0.078969806, u'Windsor_tie', 0.051130947]
+[u'maillot', 0.39016628, u'maillot', 0.23403648, u'miniskirt', 0.12863608, u'gown', 0.08881329, u'velvet', 0.042068332]

@@ -1,0 +1,6 @@
+[u'analog_clock', 0.46630025, u'wall_clock', 0.33145547, u'digital_clock', 0.017140638, u'magnetic_compass', 0.013395096, u'bolo_tie', 0.0083375312]
+[u'web_site', 0.42972893, u'envelope', 0.25394538, u'bathing_cap', 0.1096905, u'Band_Aid', 0.015763752, u'balloon', 0.015737243]
+[u'Band_Aid', 0.43611544, u'envelope', 0.14529066, u'web_site', 0.05890996, u'digital_clock', 0.036442999, u'nipple', 0.020462222]
+[u'digital_clock', 0.37812227, u'Band_Aid', 0.10215694, u'web_site', 0.092128821, u'envelope', 0.03473023, u'stopwatch', 0.030858835]
+[u'Band_Aid', 0.089705236, u'loudspeaker', 0.040412094, u'mask', 0.039210398, u'knee_pad', 0.038224168, u'pick', 0.030136297]
+[u'digital_clock', 0.093629628, u'web_site', 0.051526777, u'envelope', 0.044401877, u'jersey', 0.041407589, u'Band_Aid', 0.034065519]

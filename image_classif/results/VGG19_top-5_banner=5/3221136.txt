@@ -1,0 +1,5 @@
+[u'shopping_basket', 0.1053173, u'whistle', 0.10445467, u'digital_watch', 0.086652391, u'stopwatch', 0.071433738, u'swab', 0.034945399]
+[u'bookcase', 0.10464473, u'medicine_chest', 0.1039684, u'rubber_eraser', 0.055206854, u'binder', 0.04519568, u'matchstick', 0.042496871]
+[u'flagpole', 0.28705451, u'pole', 0.11742825, u'syringe', 0.055635057, u'traffic_light', 0.053659562, u'street_sign', 0.036264535]
+[u'oscilloscope', 0.14063424, u'cash_machine', 0.097439304, u'digital_clock', 0.073092863, u'screen', 0.061968297, u'book_jacket', 0.058118638]
+[u'screen', 0.20705815, u'television', 0.085230447, u'monitor', 0.082726628, u'cash_machine', 0.075626522, u'crib', 0.057509102]

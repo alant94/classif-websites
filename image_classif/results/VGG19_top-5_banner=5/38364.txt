@@ -1,0 +1,4 @@
+[u'monitor', 0.12760916, u'digital_clock', 0.10624543, u'container_ship', 0.074286014, u'scoreboard', 0.04988471, u'crane', 0.035764258]
+[u'iPod', 0.73701411, u'cellular_telephone', 0.24809042, u'hand-held_computer', 0.0087096021, u'remote_control', 0.003211159, u'modem', 0.0012443472]
+[u'combination_lock', 0.1499964, u'face_powder', 0.11259653, u'lighter', 0.10133944, u'switch', 0.071046665, u'sunscreen', 0.056179065]
+[u'oscilloscope', 0.9775483, u'web_site', 0.0079637533, u'analog_clock', 0.0029944528, u'maze', 0.0023489634, u'nematode', 0.0021036703]

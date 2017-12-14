@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.34089461, u'doormat', 0.12843083, u'window_screen', 0.099270254, u'wool', 0.05245927, u'prayer_rug', 0.044824753]

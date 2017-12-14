@@ -1,0 +1,8 @@
+[u'refrigerator', 0.94392353, u'envelope', 0.021868696, u'file', 0.009527985, u'pencil_box', 0.0079858862, u'packet', 0.0019556561]
+[u'comic_book', 0.53173935, u'envelope', 0.31566617, u'book_jacket', 0.045073271, u'binder', 0.027417693, u'jigsaw_puzzle', 0.024983862]
+[u'comic_book', 0.71490443, u'crossword_puzzle', 0.05103647, u'envelope', 0.045867186, u'book_jacket', 0.025735663, u'binder', 0.025320629]
+[u'comic_book', 0.98012906, u'book_jacket', 0.016448483, u'web_site', 0.0025086286, u'envelope', 0.00017540371, u'wall_clock', 0.00013182462]
+[u'comic_book', 0.34013197, u'web_site', 0.29463044, u'envelope', 0.18315525, u'refrigerator', 0.051920127, u'menu', 0.028041976]
+[u'shower_curtain', 0.083210133, u'hook', 0.069159999, u'wardrobe', 0.054581158, u'swab', 0.053364858, u'ladle', 0.040729851]
+[u'comic_book', 0.5623976, u'envelope', 0.14124005, u'book_jacket', 0.098657221, u'web_site', 0.088766232, u'cassette', 0.011330668]
+[u'hook', 0.076121561, u'cleaver', 0.069056183, u'abaya', 0.053799655, u'sweatshirt', 0.051742371, u'mortarboard', 0.036218081]

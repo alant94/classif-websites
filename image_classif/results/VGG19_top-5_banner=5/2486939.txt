@@ -1,0 +1,5 @@
+[u'crate', 0.18264629, u'envelope', 0.129301, u'carton', 0.11698953, u'packet', 0.10737662, u'book_jacket', 0.088800855]
+[u'jaguar', 0.45850441, u'cheetah', 0.2409873, u'leopard', 0.089373037, u'tiger_cat', 0.056221914, u'dalmatian', 0.040820748]
+[u'packet', 0.39492023, u'book_jacket', 0.12877747, u'envelope', 0.048535869, u'carton', 0.03766733, u'Band_Aid', 0.02802843]
+[u'packet', 0.29813129, u'book_jacket', 0.23773065, u'envelope', 0.073151059, u'comic_book', 0.057678651, u'crate', 0.038335849]
+[u'envelope', 0.26164347, u'wallet', 0.17949647, u'book_jacket', 0.10795244, u'binder', 0.070813008, u'pencil_box', 0.065786786]

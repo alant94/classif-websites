@@ -1,0 +1,2 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'comic_book', 0.27654478, u'jigsaw_puzzle', 0.11993629, u'book_jacket', 0.098175794, u'harvester', 0.07490591, u'castle', 0.041619156]

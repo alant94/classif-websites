@@ -1,0 +1,4 @@
+[u'shield', 0.18552405, u'brass', 0.13748008, u'buckle', 0.094140761, u'waffle_iron', 0.075438984, u'puck', 0.062900238]
+[u'bolo_tie', 0.19114514, u'face_powder', 0.18538299, u'gong', 0.073448494, u'book_jacket', 0.064420648, u'shield', 0.05589458]
+[u'alp', 0.85055161, u'valley', 0.028079834, u'lakeside', 0.025577201, u'cliff', 0.013669184, u'volcano', 0.0097497711]
+[u'picket_fence', 0.10663935, u'paintbrush', 0.084274516, u'broom', 0.067561023, u'safety_pin', 0.044176463, u'cleaver', 0.033035722]

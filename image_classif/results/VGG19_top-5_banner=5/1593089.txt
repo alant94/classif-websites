@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.50075316, u'sandal', 0.2081631, u'buckle', 0.062405586, u'knee_pad', 0.042442132, u'holster', 0.02683235]
+[u'bakery', 0.65890551, u'ice_cream', 0.10689254, u'hotdog', 0.10455349, u'French_loaf', 0.038240958, u'chocolate_sauce', 0.027551679]
+[u'Madagascar_cat', 0.15241078, u'throne', 0.1236528, u'cheetah', 0.06899187, u'dalmatian', 0.052638713, u'altar', 0.044217542]

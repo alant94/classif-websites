@@ -1,0 +1,3 @@
+[u'nail', 0.34299067, u'pedestal', 0.17300639, u'dumbbell', 0.14045212, u'hammer', 0.075128004, u'scale', 0.053209193]
+[u'stone_wall', 0.49003321, u'banded_gecko', 0.098988436, u'nail', 0.06516663, u'tile_roof', 0.042258956, u'centipede', 0.027519073]
+[u'web_site', 0.12024946, u'envelope', 0.094510265, u'menu', 0.038597841, u'book_jacket', 0.036924746, u'hook', 0.015111312]

@@ -1,0 +1,7 @@
+[u'nail', 0.35262591, u'rule', 0.094381712, u'screwdriver', 0.0743981, u'book_jacket', 0.071013741, u'web_site', 0.054195136]
+[u'nail', 0.60003424, u"carpenter's_kit", 0.12831095, u'screwdriver', 0.11522304, u'hammer', 0.074128225, u'screw', 0.032315671]
+[u'Band_Aid', 0.30455887, u'book_jacket', 0.060589332, u'web_site', 0.036899857, u'envelope', 0.016369052, u'hair_spray', 0.013178932]
+[u'nail', 0.092515759, u'web_site', 0.048599236, u'hook', 0.028275417, u'swab', 0.027095698, u'screw', 0.019915482]
+[u'leafhopper', 0.23034808, u'African_chameleon', 0.13048707, u'grasshopper', 0.11552414, u'mantis', 0.10694246, u'weevil', 0.044211183]
+[u'hook', 0.1501461, u'safety_pin', 0.072985031, u'analog_clock', 0.065937988, u'matchstick', 0.063171223, u'book_jacket', 0.052665688]
+[u'geyser', 0.21180777, u'barn', 0.18360299, u'lakeside', 0.082772456, u'beacon', 0.066417314, u'alp', 0.041895587]

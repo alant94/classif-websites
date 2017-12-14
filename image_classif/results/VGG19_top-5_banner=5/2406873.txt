@@ -1,0 +1,6 @@
+[u'digital_clock', 0.10070528, u'Band_Aid', 0.086153321, u'rubber_eraser', 0.071908452, u'switch', 0.054511182, u'remote_control', 0.043921519]
+[u'crane', 0.75567949, u'folding_chair', 0.10854334, u'nail', 0.026722265, u'tripod', 0.021531533, u'swing', 0.017213518]
+[u'screw', 0.50531906, u'oil_filter', 0.26797602, u'saltshaker', 0.18349609, u'puck', 0.0093792649, u'switch', 0.0064140004]
+[u'picket_fence', 0.2730065, u'prison', 0.21343601, u'matchstick', 0.177615, u'window_shade', 0.031124119, u'bannister', 0.030758811]
+[u'iron', 0.16256571, u'chain_saw', 0.10916998, u'web_site', 0.086187609, u'ski', 0.036982387, u'car_wheel', 0.036600716]
+[u'street_sign', 0.25710112, u'digital_clock', 0.17420587, u'scoreboard', 0.064034343, u'traffic_light', 0.049788613, u'gas_pump', 0.040477455]

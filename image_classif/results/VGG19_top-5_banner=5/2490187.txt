@@ -1,0 +1,2 @@
+[u'street_sign', 0.49409306, u'envelope', 0.070620589, u'traffic_light', 0.061205249, u'crane', 0.033073079, u'digital_clock', 0.020084586]
+[u'electric_fan', 0.14601459, u'magnetic_compass', 0.13614392, u'tricycle', 0.059515595, u'mousetrap', 0.056204855, u'bow', 0.043577313]

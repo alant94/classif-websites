@@ -1,0 +1,7 @@
+[u'street_sign', 0.060429983, u'wall_clock', 0.059226103, u'analog_clock', 0.049439907, u'buckle', 0.045704536, u'spindle', 0.03855342]
+[u'valley', 0.57683849, u'dam', 0.10840046, u'lakeside', 0.086376093, u'cliff', 0.068704113, u'promontory', 0.059509225]
+[u'dam', 0.79066265, u'breakwater', 0.066258401, u'cliff', 0.053989541, u'valley', 0.031030472, u'lakeside', 0.0096539957]
+[u'castle', 0.1674815, u'lakeside', 0.11821288, u'barn', 0.11249421, u'valley', 0.050975826, u'beacon', 0.050390352]
+[u'volcano', 0.95376217, u'geyser', 0.028552201, u'fountain', 0.0050790426, u'torch', 0.0038863092, u'space_shuttle', 0.0025807742]
+[u'trailer_truck', 0.30279714, u'radio_telescope', 0.065982498, u'hay', 0.042314682, u'mountain_tent', 0.038746886, u'lakeside', 0.024413191]
+[u'lakeside', 0.65238363, u'sandbar', 0.06106003, u'boathouse', 0.025843028, u'canoe', 0.022293396, u'valley', 0.021700211]

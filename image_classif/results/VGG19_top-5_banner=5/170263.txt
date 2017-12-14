@@ -1,0 +1,2 @@
+[u'sax', 0.11300528, u'perfume', 0.06234584, u'cornet', 0.056568958, u'lab_coat', 0.033693045, u'drilling_platform', 0.031369988]
+[u'bell_cote', 0.30193058, u'monastery', 0.24447586, u'castle', 0.209989, u'palace', 0.03942642, u'panpipe', 0.03575037]

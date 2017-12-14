@@ -1,0 +1,1 @@
+[u'hook', 0.3028245, u'coil', 0.15254675, u'table_lamp', 0.069464363, u'power_drill', 0.041737344, u'bannister', 0.039344236]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.30326682, u'comic_book', 0.037457097, u'pajama', 0.034844585, u'television', 0.031004272, u'racket', 0.026906747]
+[u'digital_watch', 0.2798197, u'analog_clock', 0.17013246, u'digital_clock', 0.14770415, u'wall_clock', 0.14549828, u'racket', 0.050886933]

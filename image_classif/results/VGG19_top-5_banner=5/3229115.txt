@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.14313732, u'book_jacket', 0.096665896, u'maze', 0.060907926, u'container_ship', 0.043249745, u'shower_curtain', 0.041971251]
+[u'restaurant', 0.53310657, u'altar', 0.17968228, u'vestment', 0.070919648, u'dining_table', 0.04081862, u'throne', 0.034202494]
+[u'crane', 0.1655004, u'traffic_light', 0.16348556, u'beacon', 0.082756042, u'bell_cote', 0.060051531, u'wall_clock', 0.027761061]
+[u'syringe', 0.097098656, u'hammer', 0.048282288, u'power_drill', 0.042540535, u'screwdriver', 0.040007006, u'coffeepot', 0.037949082]

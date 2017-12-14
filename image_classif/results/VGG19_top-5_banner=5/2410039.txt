@@ -1,0 +1,1 @@
+[u'power_drill', 0.26482707, u'syringe', 0.095523588, u'cricket', 0.041258201, u'microphone', 0.034703612, u'dumbbell', 0.033621624]

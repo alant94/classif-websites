@@ -1,0 +1,2 @@
+[u'microphone', 0.37775758, u'stage', 0.10310716, u'electric_guitar', 0.10041465, u'harmonica', 0.067910522, u'acoustic_guitar', 0.054994263]
+[u'web_site', 0.13256249, u'analog_clock', 0.063253574, u'traffic_light', 0.056401148, u'spotlight', 0.040572304, u'digital_clock', 0.032124501]

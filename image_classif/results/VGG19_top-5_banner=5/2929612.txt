@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.18818127, u'fountain', 0.16218296, u'digital_clock', 0.12552431, u'traffic_light', 0.077390976, u'analog_clock', 0.05718904]
+[u'matchstick', 0.22575559, u'nematode', 0.041017156, u'goblet', 0.036402125, u'web_site', 0.033986993, u'dragonfly', 0.031373534]
+[u'sarong', 0.33807614, u'jersey', 0.16042964, u'maillot', 0.097219974, u'vase', 0.095124416, u'maillot', 0.079914704]

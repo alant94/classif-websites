@@ -1,0 +1,4 @@
+[u'container_ship', 0.33895487, u'monitor', 0.058196317, u'forklift', 0.056452543, u'screen', 0.026163219, u'crane', 0.025183572]
+[u'oscilloscope', 0.23132329, u'handkerchief', 0.12254981, u'shower_curtain', 0.1193044, u'envelope', 0.065404169, u'monitor', 0.053070161]
+[u'sliding_door', 0.22066592, u'medicine_chest', 0.1274481, u'safe', 0.091761179, u'washbasin', 0.041426878, u'refrigerator', 0.040783796]
+[u'turnstile', 0.16386838, u'tobacco_shop', 0.15781063, u'traffic_light', 0.11600245, u'cab', 0.027661441, u'toyshop', 0.024672555]

@@ -1,0 +1,1 @@
+[u'neck_brace', 0.13799347, u'toilet_seat', 0.076845706, u'sombrero', 0.047616418, u'sweatshirt', 0.03717006, u'wig', 0.036136467]

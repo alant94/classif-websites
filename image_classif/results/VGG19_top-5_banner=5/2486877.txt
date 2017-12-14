@@ -1,0 +1,5 @@
+[u'wall_clock', 0.29441568, u'shield', 0.11468177, u'analog_clock', 0.10698007, u'stopwatch', 0.0541614, u'car_wheel', 0.038437054]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'street_sign', 0.39569163, u'coffee_mug', 0.089363821, u'buckle', 0.058835316, u'book_jacket', 0.041487746, u'shield', 0.039675228]
+[u"carpenter's_kit", 0.1828201, u'plow', 0.098042056, u'chain_saw', 0.092386052, u'power_drill', 0.074283212, u'tractor', 0.074123003]
+[u'digital_clock', 0.56086665, u'street_sign', 0.054142177, u'whistle', 0.023908045, u'wall_clock', 0.023238918, u'envelope', 0.021450182]

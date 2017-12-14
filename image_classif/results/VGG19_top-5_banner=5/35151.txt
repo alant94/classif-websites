@@ -1,0 +1,6 @@
+[u'swab', 0.26497483, u'hair_slide', 0.11270149, u"carpenter's_kit", 0.032186721, u'whistle', 0.032184497, u'hook', 0.031274397]
+[u'theater_curtain', 0.77567428, u'grand_piano', 0.065639824, u'candle', 0.040731512, u'organ', 0.030699173, u'four-poster', 0.018801067]
+[u'book_jacket', 0.92000645, u'comic_book', 0.058619626, u'web_site', 0.012842169, u'street_sign', 0.0020958427, u'puck', 0.00032119063]
+[u'web_site', 0.68747354, u'book_jacket', 0.085863374, u'menu', 0.016162625, u'hand-held_computer', 0.013587456, u'packet', 0.012450952]
+[u'binder', 0.20430811, u'screen', 0.13860971, u'digital_clock', 0.11151398, u'book_jacket', 0.091057159, u'desktop_computer', 0.034140527]
+[u"carpenter's_kit", 0.1264392, u'modem', 0.088884339, u'hook', 0.080721416, u'binder', 0.069975279, u'shovel', 0.048466831]

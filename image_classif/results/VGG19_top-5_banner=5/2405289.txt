@@ -1,0 +1,3 @@
+[u'perfume', 0.069454439, u'face_powder', 0.063215889, u'ballpoint', 0.04393978, u'cash_machine', 0.043264374, u'lotion', 0.032834828]
+[u'nail', 0.27082226, u'screwdriver', 0.072250299, u'hook', 0.048069905, u'chime', 0.040543068, u'hammer', 0.035199877]
+[u'web_site', 0.057081848, u'slide_rule', 0.048190814, u'analog_clock', 0.041071597, u'lab_coat', 0.037382159, u'ski', 0.035570011]

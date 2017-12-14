@@ -1,0 +1,2 @@
+[u'lab_coat', 0.0547731, u'paintbrush', 0.04484665, u'matchstick', 0.043702167, u'cleaver', 0.041410271, u'jersey', 0.040824443]
+[u'book_jacket', 0.27028152, u'wall_clock', 0.068945155, u'picket_fence', 0.045501567, u'wardrobe', 0.044347201, u'abaya', 0.040083617]

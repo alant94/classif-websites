@@ -1,0 +1,3 @@
+[u'trailer_truck', 0.44309887, u'garbage_truck', 0.25436366, u'tow_truck', 0.17191929, u'crane', 0.050474141, u'fire_engine', 0.018571781]
+[u'crane', 0.95023251, u'harvester', 0.0336922, u'lawn_mower', 0.0073897545, u'drilling_platform', 0.0025425937, u'tow_truck', 0.0016211554]
+[u'picket_fence', 0.88201433, u'matchstick', 0.054262813, u'candle', 0.010966099, u'worm_fence', 0.0084335459, u'radiator', 0.005413021]

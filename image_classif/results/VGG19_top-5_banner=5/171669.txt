@@ -1,0 +1,2 @@
+[u'picket_fence', 0.91303164, u'matchstick', 0.060290664, u'coral_fungus', 0.013214151, u'candle', 0.0052054436, u'worm_fence', 0.0034018112]
+[u'tractor', 0.17811041, u'sandbar', 0.074148469, u'water_tower', 0.062347814, u'yurt', 0.061137814, u'flagpole', 0.032882635]

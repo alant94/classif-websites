@@ -1,0 +1,5 @@
+[u'menu', 0.35598511, u'web_site', 0.2065243, u'alp', 0.08145348, u'book_jacket', 0.039950632, u'envelope', 0.034424163]
+[u"carpenter's_kit", 0.44163725, u'mailbag', 0.20244594, u'backpack', 0.055532806, u'stethoscope', 0.045278456, u'purse', 0.044371493]
+[u'dam', 0.76531845, u'fountain', 0.1738763, u'valley', 0.044958387, u'breakwater', 0.0039926362, u'cliff', 0.0013190629]
+[u'flagpole', 0.99926358, u'parachute', 0.00047716539, u'pole', 0.00012207848, u'stupa', 6.246275e-05, u'umbrella', 1.6441425e-05]
+[u'geyser', 0.18852261, u'alp', 0.14647904, u'fountain', 0.14305352, u'fireboat', 0.076988034, u'cliff', 0.055010822]

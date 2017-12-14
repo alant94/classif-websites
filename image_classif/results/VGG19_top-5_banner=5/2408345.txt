@@ -1,0 +1,8 @@
+[u"carpenter's_kit", 0.42087808, u'binder', 0.14263774, u'lighter', 0.12600756, u'switch', 0.08006496, u'radio', 0.036971964]
+[u'ski', 0.91606921, u'screwdriver', 0.029403726, u"carpenter's_kit", 0.016702671, u'ballpoint', 0.0086857257, u'chime', 0.0052904123]
+[u'envelope', 0.36325952, u'wallet', 0.16680904, u'switch', 0.1023757, u'binder', 0.050382655, u'rule', 0.031327639]
+[u'oscilloscope', 0.69217128, u'switch', 0.055993978, u'modem', 0.036376361, u'medicine_chest', 0.027747991, u'tape_player', 0.023028562]
+[u"carpenter's_kit", 0.33165836, u'switch', 0.17030729, u'joystick', 0.066106789, u'waffle_iron', 0.056976471, u'dumbbell', 0.02900379]
+[u'digital_clock', 0.11420269, u'hook', 0.094063565, u'maze', 0.07138925, u"carpenter's_kit", 0.052094899, u'coil', 0.049637057]
+[u'envelope', 0.22852804, u'bottlecap', 0.13903755, u'hair_slide', 0.1220035, u'necklace', 0.074323274, u'letter_opener', 0.050750963]
+[u'envelope', 0.45926517, u'lighter', 0.10777808, u'wallet', 0.08236786, u'binder', 0.068749949, u'pencil_sharpener', 0.031020198]

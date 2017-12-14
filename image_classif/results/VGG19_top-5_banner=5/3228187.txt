@@ -1,0 +1,6 @@
+[u'web_site', 0.13070908, u'envelope', 0.051078569, u'screw', 0.036737606, u'nail', 0.035767011, u'swab', 0.035566211]
+[u'umbrella', 0.26123655, u'parachute', 0.14155275, u'sarong', 0.083938606, u'comic_book', 0.058525484, u'stupa', 0.05639796]
+[u'web_site', 0.1876213, u'envelope', 0.099085256, u'swab', 0.054485802, u'jersey', 0.030533522, u'shovel', 0.016248135]
+[u'safety_pin', 0.063131854, u'nail', 0.05679689, u'swab', 0.05251842, u'jersey', 0.051390219, u'web_site', 0.04302403]
+[u'web_site', 0.24138546, u'envelope', 0.057053771, u'swab', 0.039163001, u'safety_pin', 0.029355912, u'jersey', 0.026880076]
+[u'kite', 0.10319282, u'warplane', 0.077793546, u'triceratops', 0.073942855, u'frilled_lizard', 0.028972553, u'parachute', 0.024987802]

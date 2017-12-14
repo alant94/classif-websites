@@ -1,0 +1,1 @@
+[u'picket_fence', 0.33681473, u'church', 0.3339467, u'monastery', 0.092577778, u'palace', 0.060077652, u'castle', 0.018785335]

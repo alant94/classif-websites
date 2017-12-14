@@ -1,0 +1,3 @@
+[u'web_site', 0.23594345, u'book_jacket', 0.19345784, u'jersey', 0.054979324, u'comic_book', 0.039778911, u'stopwatch', 0.023952363]
+[u'nail', 0.059785809, u'chime', 0.037815012, u'hook', 0.034074478, u'airship', 0.028592138, u'space_shuttle', 0.024726599]
+[u'web_site', 0.12335148, u'analog_clock', 0.088174075, u'magnetic_compass', 0.085137688, u'comic_book', 0.061235882, u'jersey', 0.040987078]

@@ -1,0 +1,5 @@
+[u'container_ship', 0.9673025, u'puck', 0.0074370201, u'pill_bottle', 0.0016468356, u'syringe', 0.0012327572, u'matchstick', 0.00099982601]
+[u'container_ship', 0.54802316, u'envelope', 0.032242574, u'crate', 0.02461209, u'carton', 0.023697356, u'digital_clock', 0.019249139]
+[u'comic_book', 0.53706765, u'pinwheel', 0.059456471, u'book_jacket', 0.042593539, u'jersey', 0.023287209, u'laptop', 0.020268073]
+[u'desktop_computer', 0.24595736, u'notebook', 0.14761911, u'mouse', 0.12757131, u'computer_keyboard', 0.10541916, u'laptop', 0.08441209]
+[u'container_ship', 0.87757248, u'boathouse', 0.0084980819, u'dock', 0.0062825507, u'rubber_eraser', 0.0053387014, u'carton', 0.0050780284]

@@ -1,0 +1,2 @@
+[u'church', 0.17527752, u'flagpole', 0.14110334, u'fountain', 0.096177518, u'missile', 0.091421895, u'bell_cote', 0.051089339]
+[u'digital_clock', 0.32292226, u'oscilloscope', 0.085134238, u'maze', 0.053342752, u'shower_curtain', 0.045842133, u'book_jacket', 0.026412144]

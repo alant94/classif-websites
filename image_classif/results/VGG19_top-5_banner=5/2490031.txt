@@ -1,0 +1,1 @@
+[u'syringe', 0.25140309, u'chime', 0.12678358, u'rule', 0.094996557, u'jigsaw_puzzle', 0.040817022, u'traffic_light', 0.033272833]

@@ -1,0 +1,3 @@
+[u'envelope', 0.27723292, u'Band_Aid', 0.079134971, u'binder', 0.073106341, u'web_site', 0.063619368, u'book_jacket', 0.036723383]
+[u'modem', 0.18437269, u'digital_clock', 0.073225588, u'binder', 0.065486997, u'letter_opener', 0.063769296, u'hard_disc', 0.046488322]
+[u'oil_filter', 0.15010342, u'sunscreen', 0.11207767, u'rubber_eraser', 0.07321801, u'digital_clock', 0.07038977, u'perfume', 0.042347096]

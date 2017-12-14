@@ -1,0 +1,2 @@
+[u'cinema', 0.16493385, u'lighter', 0.10578632, u'fountain', 0.059441876, u'altar', 0.057625595, u'hair_spray', 0.02789993]
+[u'cassette', 0.34013563, u'slot', 0.16078457, u'ocarina', 0.062842906, u'vending_machine', 0.040120736, u'wall_clock', 0.031070417]

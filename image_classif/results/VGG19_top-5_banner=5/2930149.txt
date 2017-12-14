@@ -1,0 +1,8 @@
+[u'diaper', 0.47265393, u'bassinet', 0.13895456, u'tub', 0.11126652, u'bathtub', 0.10068605, u'cradle', 0.097006477]
+[u'jersey', 0.30046996, u'pick', 0.057181701, u'web_site', 0.052744403, u'necklace', 0.041519754, u'binder', 0.039859686]
+[u'peacock', 0.81414789, u'black_stork', 0.13888873, u'hummingbird', 0.0101434, u'macaw', 0.0059120189, u'bee_eater', 0.0047816434]
+[u'peacock', 0.92768222, u'black_stork', 0.035714567, u'hummingbird', 0.007348788, u'weevil', 0.0039266227, u'macaw', 0.0035595978]
+[u'brass', 0.72165877, u'book_jacket', 0.093761392, u'menu', 0.086833544, u'geyser', 0.015366422, u'cash_machine', 0.013457278]
+[u'king_penguin', 0.99999976, u'ice_bear', 7.0112435e-08, u'llama', 5.0143903e-08, u'water_jug', 3.2481289e-08, u'saltshaker', 2.406555e-08]
+[u'web_site', 0.077509075, u'digital_clock', 0.064403877, u'stopwatch', 0.051918436, u'hand-held_computer', 0.051177461, u'digital_watch', 0.03802247]
+[u'projector', 0.18426013, u'washer', 0.051304884, u'web_site', 0.035869308, u'monitor', 0.033748277, u'hard_disc', 0.028485635]

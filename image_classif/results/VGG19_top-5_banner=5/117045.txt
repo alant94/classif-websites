@@ -1,0 +1,4 @@
+[u'web_site', 0.98108977, u'book_jacket', 0.0023651444, u'cash_machine', 0.0017820429, u'packet', 0.001747986, u'screen', 0.0017287998]
+[u'web_site', 0.45189556, u'monitor', 0.19969994, u'screen', 0.15172477, u'oscilloscope', 0.054990966, u'desktop_computer', 0.045637567]
+[u'web_site', 0.99362731, u'hand-held_computer', 0.0022497701, u'screen', 0.0013360996, u'desktop_computer', 0.00053875457, u'notebook', 0.00045610269]
+[u'web_site', 0.72828948, u'refrigerator', 0.042999886, u'switch', 0.030691208, u'vending_machine', 0.018184364, u'oscilloscope', 0.014802781]

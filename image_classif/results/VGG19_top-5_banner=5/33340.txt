@@ -1,0 +1,5 @@
+[u'toyshop', 0.12892808, u'library', 0.11572286, u'bookshop', 0.09293101, u'vestment', 0.057947382, u'confectionery', 0.049142476]
+[u'digital_clock', 0.15753201, u'envelope', 0.10906191, u'container_ship', 0.082163066, u'carton', 0.04763658, u'monitor', 0.04326478]
+[u'plate_rack', 0.91953331, u"carpenter's_kit", 0.028394369, u'chime', 0.0076924604, u'ballpoint', 0.004378879, u'screwdriver', 0.004284963]
+[u'library', 0.050847691, u'minibus', 0.043908108, u'moving_van', 0.043733656, u'toyshop', 0.038255192, u'jean', 0.034780879]
+[u'library', 0.34178641, u'jigsaw_puzzle', 0.26487359, u'bookshop', 0.11205424, u'toyshop', 0.077244796, u'confectionery', 0.036279634]

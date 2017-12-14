@@ -1,0 +1,1 @@
+[u'prison', 0.37349114, u'screwdriver', 0.10122913, u'swab', 0.049902506, u'matchstick', 0.048741028, u'switch', 0.041602638]

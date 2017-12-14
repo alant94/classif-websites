@@ -1,0 +1,1 @@
+[u'fountain', 0.55851698, u'shower_curtain', 0.089587301, u'paintbrush', 0.056156158, u'ski', 0.056007575, u'picket_fence', 0.027053589]

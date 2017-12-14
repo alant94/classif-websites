@@ -1,0 +1,5 @@
+[u'crib', 0.060345378, u'altar', 0.054301649, u'four-poster', 0.039703086, u'guillotine', 0.038901035, u'picket_fence', 0.032656986]
+[u'crossword_puzzle', 0.24503456, u'digital_clock', 0.072862074, u'digital_watch', 0.029445173, u'Windsor_tie', 0.026299015, u'wall_clock', 0.024931425]
+[u'web_site', 0.11375498, u'street_sign', 0.060825884, u'flagpole', 0.028194649, u'beacon', 0.020435143, u'crane', 0.019096203]
+[u'ptarmigan', 0.54393589, u'sulphur-crested_cockatoo', 0.27037841, u'ice_bear', 0.086213157, u'albatross', 0.036631681, u'kite', 0.022754133]
+[u'wing', 0.079632312, u'beacon', 0.051306527, u'trailer_truck', 0.044266507, u'seashore', 0.042915028, u'rapeseed', 0.038924597]

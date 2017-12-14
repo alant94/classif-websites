@@ -1,0 +1,1 @@
+[u'volcano', 0.76164371, u'alp', 0.13601178, u'valley', 0.026238754, u'lakeside', 0.024244815, u'mountain_tent', 0.015246585]

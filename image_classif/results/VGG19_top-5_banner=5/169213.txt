@@ -1,0 +1,2 @@
+[u'web_site', 0.3795827, u'menu', 0.11681243, u'envelope', 0.098419502, u'screen', 0.078166924, u'book_jacket', 0.065250956]
+[u'liner', 0.1711185, u'triumphal_arch', 0.16379319, u'palace', 0.15345255, u'castle', 0.13562314, u'monastery', 0.045938622]

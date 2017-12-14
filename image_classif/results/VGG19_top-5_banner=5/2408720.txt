@@ -1,0 +1,4 @@
+[u'pill_bottle', 0.44521791, u'medicine_chest', 0.11550127, u'beer_bottle', 0.10788184, u'chocolate_sauce', 0.064920329, u'sunscreen', 0.022564545]
+[u'book_jacket', 0.58725309, u'menu', 0.16045132, u'packet', 0.075607821, u'lotion', 0.02954977, u'binder', 0.01927625]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'ladle', 0.077271387, u'corkscrew', 0.054397114, u'plate', 0.048937026, u'consomme', 0.045788113, u'goblet', 0.045173537]

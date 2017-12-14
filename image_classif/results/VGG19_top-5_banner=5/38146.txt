@@ -1,0 +1,1 @@
+[u'panpipe', 0.11923831, u'shower_cap', 0.10301826, u'neck_brace', 0.097240426, u'hair_spray', 0.043149069, u'bathing_cap', 0.024648163]

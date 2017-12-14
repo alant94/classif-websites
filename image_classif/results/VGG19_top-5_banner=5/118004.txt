@@ -1,0 +1,3 @@
+[u'chain_mail', 0.6705451, u'necklace', 0.050991926, u'hair_slide', 0.043399122, u'chain', 0.033338152, u'buckle', 0.030497668]
+[u'screw', 0.35061222, u'spotlight', 0.27397707, u'nipple', 0.051679067, u'loupe', 0.049793728, u'hook', 0.049432531]
+[u'hair_slide', 0.73020869, u'typewriter_keyboard', 0.072737888, u'space_bar', 0.051351298, u'rubber_eraser', 0.014876252, u'matchstick', 0.0099826818]

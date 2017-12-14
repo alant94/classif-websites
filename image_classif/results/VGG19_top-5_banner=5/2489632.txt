@@ -1,0 +1,3 @@
+[u'brass', 0.12726073, u'web_site', 0.070694879, u'lakeside', 0.03522535, u'mobile_home', 0.032713056, u'picket_fence', 0.024339611]
+[u'analog_clock', 0.21262799, u'brass', 0.11078416, u'book_jacket', 0.10197975, u'web_site', 0.082240529, u'wall_clock', 0.065795057]
+[u'unicycle', 0.063847966, u'spider_monkey', 0.055672776, u'wallaby', 0.0485701, u'hare', 0.026143694, u'maypole', 0.025222456]

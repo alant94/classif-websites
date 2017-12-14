@@ -1,0 +1,2 @@
+[u'fountain', 0.6235559, u'picket_fence', 0.10389942, u'candle', 0.073585421, u'theater_curtain', 0.03759433, u'matchstick', 0.035612576]
+[u'fountain', 0.68641704, u'castle', 0.032401279, u'chime', 0.029156147, u'altar', 0.025250282, u'church', 0.018743105]

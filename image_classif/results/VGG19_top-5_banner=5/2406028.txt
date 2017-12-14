@@ -1,0 +1,5 @@
+[u'container_ship', 0.13641033, u'crane', 0.12102037, u'bell_cote', 0.072481528, u'drilling_platform', 0.055275645, u'screw', 0.030864004]
+[u'medicine_chest', 0.36716363, u'screen', 0.15264769, u'microwave', 0.098285303, u'monitor', 0.077368855, u'oscilloscope', 0.042416066]
+[u'laptop', 0.3127777, u'screen', 0.079135701, u'monitor', 0.0780247, u'notebook', 0.063201755, u'oscilloscope', 0.051515531]
+[u'digital_clock', 0.18792249, u'oscilloscope', 0.16544878, u'screen', 0.12742446, u'laptop', 0.08350119, u'monitor', 0.060038038]
+[u'laptop', 0.6285888, u'tray', 0.037382122, u'iPod', 0.027026838, u'binder', 0.024715956, u'screen', 0.02464067]

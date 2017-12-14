@@ -1,0 +1,7 @@
+[u'web_site', 0.22161752, u'digital_clock', 0.17303684, u'oscilloscope', 0.084634081, u'matchstick', 0.059348572, u'screen', 0.050034095]
+[u'oscilloscope', 0.44588923, u'monitor', 0.19911166, u'screen', 0.10242023, u'matchstick', 0.043256216, u'digital_clock', 0.040707912]
+[u'web_site', 0.10736369, u'analog_clock', 0.10417454, u'digital_clock', 0.094816007, u'nematode', 0.053218417, u'odometer', 0.040912259]
+[u'digital_clock', 0.18322207, u'web_site', 0.17112297, u'analog_clock', 0.058303032, u'matchstick', 0.03768567, u'odometer', 0.025468886]
+[u'digital_clock', 0.33665937, u'oscilloscope', 0.086466715, u'web_site', 0.073360927, u'monitor', 0.05450312, u'screen', 0.038802449]
+[u'syringe', 0.16774917, u'ballpoint', 0.071927629, u'analog_clock', 0.050115954, u'screwdriver', 0.050061546, u'hook', 0.031344783]
+[u'digital_clock', 0.2660718, u'web_site', 0.18780071, u'oscilloscope', 0.058343045, u'monitor', 0.04378527, u'analog_clock', 0.028707473]

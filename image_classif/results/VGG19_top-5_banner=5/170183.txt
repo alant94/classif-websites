@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.8826375, u'acoustic_guitar', 0.04312934, u'stage', 0.040950485, u'microphone', 0.020967526, u'banjo', 0.0055462914]
+[u'acoustic_guitar', 0.5592857, u'cello', 0.090312786, u'electric_guitar', 0.054442178, u'clog', 0.039724667, u'cowboy_boot', 0.030597774]

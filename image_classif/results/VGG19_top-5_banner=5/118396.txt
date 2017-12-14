@@ -1,0 +1,2 @@
+[u'web_site', 0.91609836, u'digital_clock', 0.020395868, u'switch', 0.019141115, u'envelope', 0.011227964, u'analog_clock', 0.0088555012]
+[u'traffic_light', 0.25036222, u'envelope', 0.22799349, u'web_site', 0.061794195, u'switch', 0.05682442, u'binder', 0.039219204]

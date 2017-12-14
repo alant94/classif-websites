@@ -1,0 +1,4 @@
+[u'web_site', 0.25558916, u'book_jacket', 0.17978622, u'menu', 0.051812217, u'comic_book', 0.031342402, u'rifle', 0.026437022]
+[u'barn', 0.41584119, u'barrel', 0.076306507, u'padlock', 0.068170898, u'picket_fence', 0.056655098, u'nail', 0.049153004]
+[u'tray', 0.16428114, u'wall_clock', 0.061460897, u'analog_clock', 0.061189823, u'washbasin', 0.046349291, u'toilet_seat', 0.038618442]
+[u'binder', 0.16833688, u'medicine_chest', 0.16420974, u'screen', 0.042706281, u'envelope', 0.032756757, u'book_jacket', 0.028342338]

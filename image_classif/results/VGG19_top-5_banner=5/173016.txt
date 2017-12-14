@@ -1,0 +1,2 @@
+[u'pajama', 0.11364803, u'marimba', 0.10087486, u'cowboy_hat', 0.081272878, u'steel_drum', 0.0804068, u'poncho', 0.055550184]
+[u'vestment', 0.29822695, u'lab_coat', 0.13226826, u'trench_coat', 0.031048307, u'crutch', 0.029402059, u'cloak', 0.028229514]

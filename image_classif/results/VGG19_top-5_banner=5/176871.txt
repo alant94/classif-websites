@@ -1,0 +1,1 @@
+[u'web_site', 0.090756312, u'Band_Aid', 0.068483427, u'envelope', 0.059835564, u'digital_clock', 0.027271355, u'rule', 0.02145494]

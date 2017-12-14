@@ -1,0 +1,4 @@
+[u'book_jacket', 0.54852003, u'street_sign', 0.14668612, u'scoreboard', 0.065724924, u'barbershop', 0.024959052, u'tobacco_shop', 0.017363828]
+[u'digital_clock', 0.11275451, u'envelope', 0.083881266, u'web_site', 0.056756847, u'wall_clock', 0.048484776, u'traffic_light', 0.038108088]
+[u'barn', 0.42865312, u'planetarium', 0.1423935, u'yurt', 0.053085249, u'barbershop', 0.036180597, u'cash_machine', 0.029678611]
+[u'jigsaw_puzzle', 0.46431479, u'container_ship', 0.095865212, u'space_shuttle', 0.057263989, u'wing', 0.027287459, u'parachute', 0.023167511]

@@ -1,0 +1,3 @@
+[u'vacuum', 0.28617114, u'iron', 0.079190947, u'miniskirt', 0.077042334, u'hoopskirt', 0.058649361, u'overskirt', 0.05486621]
+[u'face_powder', 0.07641127, u'bib', 0.061236899, u'Petri_dish', 0.036054082, u'gasmask', 0.024715377, u'honeycomb', 0.02241797]
+[u'lab_coat', 0.50516313, u'trench_coat', 0.073046692, u'sweatshirt', 0.052811623, u'jersey', 0.027654137, u'miniskirt', 0.015736293]

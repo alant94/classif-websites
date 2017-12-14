@@ -1,0 +1,5 @@
+[u'lighter', 0.15000756, u'web_site', 0.082546785, u'thimble', 0.069218472, u'comic_book', 0.051240824, u'book_jacket', 0.040204369]
+[u'book_jacket', 0.50977761, u'comic_book', 0.036370538, u'brass', 0.029381534, u'buckle', 0.028061775, u'jigsaw_puzzle', 0.026559539]
+[u'coil', 0.35025123, u'nematode', 0.30687979, u'hook', 0.18293759, u'hair_slide', 0.047523335, u'knot', 0.029720489]
+[u'comic_book', 0.59845573, u'book_jacket', 0.24793038, u'jigsaw_puzzle', 0.062538587, u'packet', 0.02307315, u'menu', 0.020811662]
+[u'jigsaw_puzzle', 0.49470922, u'book_jacket', 0.2721813, u'packet', 0.063007362, u'comic_book', 0.058855925, u'web_site', 0.024676509]

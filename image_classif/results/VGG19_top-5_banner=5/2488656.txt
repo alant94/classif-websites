@@ -1,0 +1,6 @@
+[u'chainlink_fence', 0.07677611, u'hook', 0.06030158, u'street_sign', 0.059487663, u'book_jacket', 0.057505094, u'web_site', 0.040981304]
+[u'book_jacket', 0.080053896, u'packet', 0.033605784, u'rifle', 0.032527436, u'matchstick', 0.031144893, u'bow', 0.029833343]
+[u'fountain', 0.35464528, u'theater_curtain', 0.069912694, u'picket_fence', 0.045817148, u'candle', 0.045280278, u'lakeside', 0.022485383]
+[u'face_powder', 0.16866414, u'puck', 0.10750894, u'sunscreen', 0.038632225, u'book_jacket', 0.030940933, u'loupe', 0.02835018]
+[u'picket_fence', 0.25180566, u'fountain', 0.070013426, u'nail', 0.040603906, u'worm_fence', 0.035541188, u'ski', 0.02750027]
+[u'fountain', 0.67364728, u'theater_curtain', 0.033074748, u'picket_fence', 0.031206325, u'lakeside', 0.011993649, u'geyser', 0.011335305]

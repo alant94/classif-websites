@@ -1,0 +1,3 @@
+[u'mousetrap', 0.1653734, u'envelope', 0.12512968, u'cleaver', 0.10866303, u'refrigerator', 0.10291601, u'binder', 0.082169883]
+[u'panpipe', 0.3292726, u'harp', 0.19675852, u'marimba', 0.14128491, u'drum', 0.085558571, u'flute', 0.042866617]
+[u'hand_blower', 0.25806272, u'microphone', 0.15200877, u'strainer', 0.12438153, u'spotlight', 0.091117933, u'bolo_tie', 0.042854007]

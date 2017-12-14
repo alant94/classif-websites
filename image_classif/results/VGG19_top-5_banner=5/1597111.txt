@@ -1,0 +1,3 @@
+[u'book_jacket', 0.51749492, u'panpipe', 0.037239559, u'balance_beam', 0.035011031, u'drumstick', 0.034083582, u'hog', 0.029654184]
+[u'dam', 0.40136933, u'container_ship', 0.21721041, u'fireboat', 0.045932095, u'paddlewheel', 0.042320117, u'planetarium', 0.03441428]
+[u'dining_table', 0.050611101, u'library', 0.026830206, u'planetarium', 0.025444299, u'window_screen', 0.022283861, u'bookshop', 0.013450265]

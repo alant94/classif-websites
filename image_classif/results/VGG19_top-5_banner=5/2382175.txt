@@ -1,0 +1,2 @@
+[u'French_bulldog', 0.54494971, u'pug', 0.28106236, u'bull_mastiff', 0.043379214, u'Staffordshire_bullterrier', 0.034023158, u'boxer', 0.021201873]
+[u'football_helmet', 0.78347582, u'soccer_ball', 0.10177307, u'shield', 0.048642084, u'rugby_ball', 0.021468844, u'ballplayer', 0.01579462]

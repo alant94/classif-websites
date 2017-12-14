@@ -1,0 +1,4 @@
+[u'mortarboard', 0.49717805, u'wallet', 0.11333842, u'envelope', 0.076093413, u'binder', 0.062422957, u'doormat', 0.048104651]
+[u'umbrella', 0.19940329, u'envelope', 0.12435108, u'sleeping_bag', 0.11100963, u'plastic_bag', 0.079591982, u'jersey', 0.041553661]
+[u'digital_clock', 0.12853028, u'cash_machine', 0.087282971, u'sliding_door', 0.060259778, u'envelope', 0.04998127, u'ambulance', 0.036070194]
+[u'academic_gown', 0.34086853, u'velvet', 0.22519015, u'mortarboard', 0.093439043, u'poncho', 0.054542184, u'trench_coat', 0.049402602]

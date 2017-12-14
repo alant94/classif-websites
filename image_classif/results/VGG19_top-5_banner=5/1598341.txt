@@ -1,0 +1,2 @@
+[u'chime', 0.19239034, u'space_shuttle', 0.13248077, u'bow', 0.059332807, u'projectile', 0.051751241, u'missile', 0.050145347]
+[u'book_jacket', 0.43410766, u'comic_book', 0.15733707, u'screwdriver', 0.055444982, u'ballpoint', 0.03938498, u'bookshop', 0.036700372]

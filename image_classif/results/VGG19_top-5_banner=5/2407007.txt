@@ -1,0 +1,7 @@
+[u'promontory', 0.56495732, u'cliff', 0.18924007, u'seashore', 0.041518901, u'dam', 0.038189992, u'lakeside', 0.034360096]
+[u'caldron', 0.24954732, u'rain_barrel', 0.064895183, u'wok', 0.061437156, u'drum', 0.055907514, u'steel_drum', 0.039865077]
+[u'rhinoceros_beetle', 0.3393853, u'dung_beetle', 0.30846795, u'cockroach', 0.22187833, u'hermit_crab', 0.063524, u'rock_crab', 0.0065667187]
+[u'chiton', 0.74998599, u'tailed_frog', 0.071388602, u'bullfrog', 0.018257216, u'buckeye', 0.018074481, u'night_snake', 0.015243058]
+[u'spatula', 0.22747238, u'pick', 0.049494609, u'toilet_seat', 0.030712888, u'street_sign', 0.030152543, u'scale', 0.029636191]
+[u'jigsaw_puzzle', 0.14924031, u'stupa', 0.13963667, u'lakeside', 0.071561024, u'toilet_seat', 0.067058049, u'radio_telescope', 0.047399897]
+[u'pick', 0.048765942, u'quill', 0.024423491, u'hand_blower', 0.021171721, u'web_site', 0.020150013, u'cleaver', 0.015518578]

@@ -1,0 +1,4 @@
+[u'bolo_tie', 0.097111486, u'spotlight', 0.085332282, u'loupe', 0.074695006, u'analog_clock', 0.066612817, u'knot', 0.065758757]
+[u'red_wine', 0.67162269, u'wine_bottle', 0.26773968, u'beer_bottle', 0.017518578, u'chocolate_sauce', 0.013222191, u'pop_bottle', 0.0046177208]
+[u'web_site', 0.11227176, u'buckle', 0.061681431, u'puck', 0.051047437, u'scoreboard', 0.041692324, u'stopwatch', 0.031623248]
+[u'face_powder', 0.55412197, u'book_jacket', 0.17486694, u'brass', 0.066355743, u'cash_machine', 0.023131017, u'Petri_dish', 0.019672908]

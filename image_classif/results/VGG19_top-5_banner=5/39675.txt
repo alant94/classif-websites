@@ -1,0 +1,2 @@
+[u'digital_clock', 0.1581769, u'container_ship', 0.077236034, u'analog_clock', 0.045998573, u'traffic_light', 0.045622747, u'wall_clock', 0.044162989]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

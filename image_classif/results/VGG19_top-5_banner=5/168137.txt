@@ -1,0 +1,1 @@
+[u'nail', 0.21589246, u'screw', 0.10121629, u'ballpoint', 0.094436586, u'rubber_eraser', 0.082955457, u'safety_pin', 0.061374895]

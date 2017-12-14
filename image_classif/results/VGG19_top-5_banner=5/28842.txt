@@ -1,0 +1,5 @@
+[u'envelope', 0.15797618, u'web_site', 0.058641281, u'candle', 0.032621421, u'binder', 0.027069785, u'lighter', 0.026477536]
+[u'restaurant', 0.19346464, u'patio', 0.08343298, u'barbershop', 0.058920864, u'moving_van', 0.035703786, u'grocery_store', 0.033640295]
+[u'envelope', 0.34887943, u'web_site', 0.10456984, u'rule', 0.038623177, u'binder', 0.027115723, u'balance_beam', 0.013433693]
+[u'hair_spray', 0.04803732, u'street_sign', 0.037650399, u'digital_clock', 0.032887526, u'pill_bottle', 0.024711804, u'Band_Aid', 0.02300624]
+[u'web_site', 0.13645133, u'envelope', 0.067278355, u'nematode', 0.064021401, u'digital_clock', 0.02433203, u'rule', 0.022806166]

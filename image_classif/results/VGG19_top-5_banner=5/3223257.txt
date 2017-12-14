@@ -1,0 +1,5 @@
+[u'book_jacket', 0.83679175, u'alp', 0.037631772, u'volcano', 0.030866716, u'cliff', 0.0060810582, u'street_sign', 0.0057703424]
+[u'web_site', 0.10576417, u'digital_clock', 0.054524586, u'envelope', 0.047170404, u'rule', 0.036087491, u'crossword_puzzle', 0.033290584]
+[u'web_site', 0.26687962, u'crossword_puzzle', 0.13616151, u'envelope', 0.057967369, u'digital_clock', 0.037902404, u'rule', 0.019744383]
+[u'airship', 0.055809803, u'crane', 0.055456821, u'digital_clock', 0.044781893, u'traffic_light', 0.036246896, u'web_site', 0.0276551]
+[u'web_site', 0.31510442, u'envelope', 0.075163916, u'analog_clock', 0.032559216, u'digital_clock', 0.025265563, u'book_jacket', 0.020569829]

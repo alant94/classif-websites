@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.15985143, u'velvet', 0.12676452, u'wardrobe', 0.058965962, u'window_shade', 0.04895119, u'wall_clock', 0.020673541]
+[u'picket_fence', 0.14351913, u'bell_cote', 0.1117968, u'traffic_light', 0.11153568, u'cinema', 0.091186345, u'church', 0.086565241]
+[u'vulture', 0.48633796, u'ostrich', 0.12639652, u'crane', 0.044675186, u'zebra', 0.039448809, u'limpkin', 0.026271179]
+[u'shower_curtain', 0.16273579, u'velvet', 0.12254561, u'wardrobe', 0.060127608, u'window_shade', 0.051367588, u'wall_clock', 0.022233166]
+[u'shower_curtain', 0.15968511, u'velvet', 0.12165929, u'wardrobe', 0.06273216, u'window_shade', 0.048863031, u'wall_clock', 0.021906255]
+[u'medicine_chest', 0.37285841, u'binder', 0.28253773, u'laptop', 0.074512459, u'sliding_door', 0.04334832, u'monitor', 0.040370487]
+[u'paintbrush', 0.21320993, u'broom', 0.18131253, u'picket_fence', 0.11844386, u'worm_fence', 0.11741447, u'swab', 0.094684266]

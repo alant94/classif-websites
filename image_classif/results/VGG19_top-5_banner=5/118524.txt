@@ -1,0 +1,4 @@
+[u'waffle_iron', 0.2672112, u'buckle', 0.21117392, u'manhole_cover', 0.15653788, u'shield', 0.14240694, u'bolo_tie', 0.043660693]
+[u'bell_cote', 0.28947994, u'thatch', 0.22648935, u'birdhouse', 0.071707778, u'hamper', 0.061235376, u'stupa', 0.056727141]
+[u'shield', 0.71078902, u'wall_clock', 0.093641475, u'buckle', 0.018269297, u'street_sign', 0.012536603, u'mousetrap', 0.011544117]
+[u'analog_clock', 0.18073067, u'puck', 0.16832316, u'wall_clock', 0.098770402, u'stopwatch', 0.053019714, u'buckle', 0.043476306]

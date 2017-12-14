@@ -1,0 +1,7 @@
+[u'bolo_tie', 0.47125888, u'iPod', 0.11289877, u'knot', 0.038107388, u'microphone', 0.037735872, u'oscilloscope', 0.035025109]
+[u'bolo_tie', 0.24048413, u'coil', 0.13463834, u'necklace', 0.1200928, u'maze', 0.05617471, u'chain', 0.050649539]
+[u'lighter', 0.16563475, u'remote_control', 0.085934766, u'hair_spray', 0.055261996, u'book_jacket', 0.050847944, u'web_site', 0.041244928]
+[u'digital_clock', 0.11772848, u'analog_clock', 0.093957067, u'whistle', 0.080656737, u'bolo_tie', 0.071317464, u'iPod', 0.067937277]
+[u'digital_clock', 0.72493339, u'envelope', 0.021256166, u'oscilloscope', 0.019774839, u'cash_machine', 0.01832819, u'wall_clock', 0.015162121]
+[u'digital_clock', 0.30972725, u'crossword_puzzle', 0.22216843, u'quilt', 0.063050516, u'maze', 0.034394484, u'envelope', 0.026492186]
+[u'iPod', 0.11543245, u'nematode', 0.10988238, u'digital_clock', 0.0522388, u'analog_clock', 0.044677716, u'bolo_tie', 0.034131367]

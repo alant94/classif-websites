@@ -1,0 +1,2 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.31511098, u'wall_clock', 0.065926716, u'digital_watch', 0.039562423, u'shower_curtain', 0.035588328, u'container_ship', 0.028263826]

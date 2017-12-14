@@ -1,0 +1,2 @@
+[u'web_site', 0.53937352, u'magnetic_compass', 0.09413109, u'stopwatch', 0.054451521, u'menu', 0.053530544, u'whistle', 0.05039224]
+[u'lighter', 0.53806061, u'traffic_light', 0.12030179, u'switch', 0.052769709, u'rubber_eraser', 0.031486411, u'pencil_sharpener', 0.028631134]

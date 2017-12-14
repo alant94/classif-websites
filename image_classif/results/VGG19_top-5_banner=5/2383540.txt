@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.86863214, u'digital_clock', 0.085071862, u'screen', 0.013753925, u'digital_watch', 0.011121836, u'analog_clock', 0.0072533959]

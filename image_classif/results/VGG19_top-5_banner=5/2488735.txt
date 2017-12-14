@@ -1,0 +1,7 @@
+[u'chime', 0.46158919, u'screwdriver', 0.3543433, u'nail', 0.031102393, u'rule', 0.029171135, u"carpenter's_kit", 0.016671823]
+[u'valley', 0.30063874, u'cliff', 0.14841849, u'alp', 0.10643916, u'lakeside', 0.033545841, u'suspension_bridge', 0.030904626]
+[u'street_sign', 0.17235371, u'Band_Aid', 0.096336439, u'book_jacket', 0.036673639, u'hair_spray', 0.033586774, u'rule', 0.026104661]
+[u'palace', 0.20886911, u'church', 0.15686935, u'castle', 0.080632843, u'mosque', 0.061185326, u'picket_fence', 0.052609663]
+[u'matchstick', 0.15314296, u'picket_fence', 0.1191631, u'candle', 0.07440757, u'fountain', 0.037795678, u'paintbrush', 0.036772627]
+[u'boathouse', 0.97037047, u'church', 0.01239287, u'lakeside', 0.0057216049, u'barn', 0.0041150143, u'castle', 0.0034633658]
+[u'tobacco_shop', 0.34347036, u'library', 0.051179837, u'bookshop', 0.050233819, u'paddlewheel', 0.031004224, u'fireboat', 0.026604876]

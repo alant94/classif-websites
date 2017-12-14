@@ -1,0 +1,2 @@
+[u'container_ship', 0.10493319, u'envelope', 0.10214746, u'digital_clock', 0.079298124, u'Band_Aid', 0.059235148, u'carton', 0.034203466]
+[u'hatchet', 0.01866034, u'web_site', 0.014917391, u'nail', 0.014571733, u'power_drill', 0.014260178, u'loupe', 0.013902131]

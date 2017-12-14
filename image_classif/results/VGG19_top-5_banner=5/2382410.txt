@@ -1,0 +1,3 @@
+[u'sunglass', 0.041568294, u'sunglasses', 0.032658458, u'alp', 0.027256954, u'bicycle-built-for-two', 0.022139931, u'ski', 0.018044705]
+[u'Dungeness_crab', 0.89657962, u'king_crab', 0.03502436, u'rock_crab', 0.01110388, u'plate', 0.010521446, u'consomme', 0.0080059292]
+[u'beaker', 0.28682601, u'goblet', 0.28012186, u'beer_glass', 0.15264234, u'red_wine', 0.13718335, u'perfume', 0.059645649]

@@ -1,0 +1,1 @@
+[u'switch', 0.25318378, u'syringe', 0.11751547, u'safe', 0.099351794, u'combination_lock', 0.063213237, u'oxygen_mask', 0.042719916]

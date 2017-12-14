@@ -1,0 +1,8 @@
+[u'packet', 0.077684611, u'street_sign', 0.049217053, u'comic_book', 0.030168813, u'laptop', 0.026232325, u'puck', 0.019717859]
+[u'screwdriver', 0.37961614, u'ballpoint', 0.19129412, u"carpenter's_kit", 0.18437181, u'chime', 0.10025489, u'paintbrush', 0.016205706]
+[u'book_jacket', 0.6953944, u'packet', 0.12129218, u'plastic_bag', 0.067950882, u'menu', 0.027089531, u'web_site', 0.011226762]
+[u'croquet_ball', 0.28329167, u'flute', 0.070858657, u'drum', 0.058772802, u'drumstick', 0.057265386, u'projectile', 0.054248348]
+[u'monastery', 0.11940664, u'palace', 0.094711766, u'boathouse', 0.073605843, u'fireboat', 0.066447735, u'bell_cote', 0.057290211]
+[u'nail', 0.12968135, u'hook', 0.11344103, u'screw', 0.035059776, u'matchstick', 0.02750412, u'power_drill', 0.025514996]
+[u'scoreboard', 0.13327086, u'paddlewheel', 0.068381839, u'boathouse', 0.067689016, u'container_ship', 0.049272098, u'book_jacket', 0.043778442]
+[u'book_jacket', 0.54257804, u'jigsaw_puzzle', 0.30237716, u'tray', 0.046581045, u'envelope', 0.036442377, u'packet', 0.026254091]

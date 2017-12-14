@@ -1,0 +1,7 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'web_site', 0.535963, u'envelope', 0.29165825, u'rule', 0.010224659, u'iron', 0.009433222, u'muzzle', 0.009101565]
+[u'wine_bottle', 0.8149389, u'red_wine', 0.083312802, u'beer_bottle', 0.073826745, u'hamper', 0.010030393, u'fig', 0.0053602057]
+[u'syringe', 0.43050161, u'fountain_pen', 0.30239841, u'ballpoint', 0.086753353, u'vacuum', 0.033807814, u'microphone', 0.022371145]
+[u'envelope', 0.63852924, u'web_site', 0.31719106, u'binder', 0.0035516021, u'sleeping_bag', 0.0034686695, u'jersey', 0.0027367342]
+[u'book_jacket', 0.13004936, u'handkerchief', 0.12553699, u'sarong', 0.10266688, u'wardrobe', 0.053834785, u'stole', 0.034838609]
+[u'red_wine', 0.47359413, u'wine_bottle', 0.39928347, u'beer_bottle', 0.034294024, u'microphone', 0.015944157, u'projectile', 0.0088172499]

@@ -1,0 +1,1 @@
+[u'whistle', 0.61562496, u'dumbbell', 0.041037649, u'oil_filter', 0.039880648, u'switch', 0.030919289, u'rubber_eraser', 0.026644044]

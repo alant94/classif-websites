@@ -1,0 +1,5 @@
+[u'window_screen', 0.080511324, u'container_ship', 0.032432668, u'solar_dish', 0.025965912, u'boathouse', 0.020240109, u'dock', 0.01938013]
+[u'window_screen', 0.088820688, u'crane', 0.051947676, u'boathouse', 0.046758547, u'container_ship', 0.045449439, u'window_shade', 0.033090767]
+[u'tobacco_shop', 0.40032786, u'bookshop', 0.036396354, u'bakery', 0.014956206, u'medicine_chest', 0.011243155, u'window_screen', 0.010899992]
+[u'binder', 0.14929451, u'book_jacket', 0.071879566, u'cash_machine', 0.070861921, u'fire_screen', 0.041223481, u'window_shade', 0.034161747]
+[u'fountain', 0.048796788, u'borzoi', 0.038483776, u'collie', 0.033726264, u'wire-haired_fox_terrier', 0.026158461, u'keeshond', 0.025622634]

@@ -1,0 +1,2 @@
+[u'rotisserie', 0.36508554, u'window_shade', 0.27226654, u'space_heater', 0.11428341, u'turnstile', 0.064433806, u'abacus', 0.053597175]
+[u'steel_drum', 0.21601044, u'stage', 0.20453797, u'marimba', 0.17049335, u'harmonica', 0.051813539, u'electric_guitar', 0.046751365]

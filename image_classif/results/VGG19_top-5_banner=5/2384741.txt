@@ -1,0 +1,8 @@
+[u'patio', 0.44596383, u'viaduct', 0.039810896, u'bell_cote', 0.037435293, u'lakeside', 0.031176493, u'boathouse', 0.030547837]
+[u'fountain', 0.46904168, u'geyser', 0.25002867, u'alp', 0.041363128, u'dam', 0.037432671, u'volcano', 0.020204257]
+[u'beer_bottle', 0.56051612, u'pop_bottle', 0.16055274, u'red_wine', 0.13831776, u'wine_bottle', 0.12300324, u'water_bottle', 0.0040364722]
+[u'digital_clock', 0.1867258, u'binder', 0.13051409, u'book_jacket', 0.076383382, u'cinema', 0.050539106, u'street_sign', 0.022727203]
+[u'acorn', 0.31438661, u'knot', 0.11095199, u'ladybug', 0.091067523, u'buckeye', 0.032939047, u'maraca', 0.029700646]
+[u'hook', 0.1322735, u"carpenter's_kit", 0.049026988, u'whistle', 0.032169554, u'chime', 0.030409139, u'bow', 0.028969806]
+[u'toilet_seat', 0.10689783, u'screen', 0.086438321, u'monitor', 0.083705261, u'washbasin', 0.070185646, u'television', 0.064520746]
+[u'binder', 0.18207295, u'medicine_chest', 0.14181356, u'window_screen', 0.12447698, u'screen', 0.068818577, u'envelope', 0.044514]

@@ -1,0 +1,1 @@
+[u'acoustic_guitar', 0.33263838, u'electric_guitar', 0.18768349, u'spider_web', 0.11405139, u'jigsaw_puzzle', 0.10782083, u'pick', 0.042309187]

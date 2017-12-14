@@ -1,0 +1,5 @@
+[u'English_foxhound', 0.65509164, u'Walker_hound', 0.17020676, u'beagle', 0.13822281, u'bluetick', 0.016821008, u'Brittany_spaniel', 0.006871989]
+[u'web_site', 0.20824064, u'binder', 0.051539365, u'scoreboard', 0.043257914, u'menu', 0.037320219, u'laptop', 0.036504142]
+[u'sorrel', 0.33968168, u'ox', 0.068828359, u'basenji', 0.046013374, u'Ibizan_hound', 0.035112355, u'Irish_setter', 0.035060424]
+[u'horse_cart', 0.1265993, u'ballplayer', 0.11312872, u'oxcart', 0.096947566, u'ox', 0.092896834, u'stretcher', 0.076915421]
+[u'English_foxhound', 0.74463612, u'Walker_hound', 0.22992571, u'beagle', 0.021106465, u'bluetick', 0.0010601722, u'borzoi', 0.00056182593]

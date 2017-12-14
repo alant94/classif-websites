@@ -1,0 +1,1 @@
+[u'viaduct', 0.37687862, u'gong', 0.31900859, u'face_powder', 0.061539587, u'book_jacket', 0.038965851, u'brass', 0.025156375]

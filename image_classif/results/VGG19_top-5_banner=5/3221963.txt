@@ -1,0 +1,7 @@
+[u'container_ship', 0.70862305, u'digital_clock', 0.058537055, u'jigsaw_puzzle', 0.041849829, u'scale', 0.037320681, u'switch', 0.030375112]
+[u'bikini', 0.076663226, u'maillot', 0.059204575, u'parallel_bars', 0.057512991, u'maillot', 0.054027814, u'swimming_trunks', 0.047301978]
+[u'container_ship', 0.68302053, u'digital_clock', 0.068410359, u'scoreboard', 0.054206979, u'envelope', 0.013298398, u'carton', 0.01250053]
+[u'horizontal_bar', 0.41006589, u'balance_beam', 0.22752842, u'parallel_bars', 0.18505235, u'dumbbell', 0.075696155, u'pole', 0.051833499]
+[u'hook', 0.23234211, u'knot', 0.10984216, u'chain', 0.053380691, u'lampshade', 0.048688434, u'matchstick', 0.031430501]
+[u'envelope', 0.22087392, u'book_jacket', 0.087776631, u'packet', 0.082098074, u'lighter', 0.064403914, u'Band_Aid', 0.050687153]
+[u'gown', 0.069866285, u'head_cabbage', 0.044560298, u'apron', 0.038049143, u'sarong', 0.035930865, u'bath_towel', 0.028710607]

@@ -1,0 +1,3 @@
+[u'envelope', 0.056017432, u'letter_opener', 0.014005243, u'matchstick', 0.013991279, u'parachute', 0.013137761, u'nematode', 0.012522466]
+[u'desktop_computer', 0.41009548, u'web_site', 0.23622681, u'notebook', 0.096928149, u'monitor', 0.068128563, u'screen', 0.062082369]
+[u'crane', 0.10390695, u'hook', 0.074605249, u'oboe', 0.05257035, u'analog_clock', 0.045740951, u'coil', 0.03810652]

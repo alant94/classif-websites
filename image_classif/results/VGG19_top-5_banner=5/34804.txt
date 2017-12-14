@@ -1,0 +1,2 @@
+[u'web_site', 0.39360473, u'book_jacket', 0.15067309, u'comic_book', 0.065034308, u'balance_beam', 0.024651634, u'Windsor_tie', 0.024348069]
+[u'balance_beam', 0.55538225, u'horizontal_bar', 0.13889085, u'parallel_bars', 0.060386211, u'tub', 0.059552316, u'bathtub', 0.031773519]

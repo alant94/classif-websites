@@ -1,0 +1,4 @@
+[u'rule', 0.13783585, u'book_jacket', 0.12568757, u'scoreboard', 0.059052601, u'slide_rule', 0.054353088, u'switch', 0.043576453]
+[u'web_site', 0.060623337, u'book_jacket', 0.056845084, u'pencil_sharpener', 0.055905852, u'comic_book', 0.055189781, u'packet', 0.048906632]
+[u'vending_machine', 0.18111138, u'medicine_chest', 0.1582382, u'web_site', 0.13423407, u'menu', 0.063495696, u'book_jacket', 0.053076878]
+[u'perfume', 0.10054949, u'screwdriver', 0.094522022, u'safety_pin', 0.081132822, u'nipple', 0.080876812, u"carpenter's_kit", 0.057656303]

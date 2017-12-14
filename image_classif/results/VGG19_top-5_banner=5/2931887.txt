@@ -1,0 +1,8 @@
+[u'toilet_seat', 0.053472638, u'washer', 0.038197499, u'soap_dispenser', 0.037075408, u'cleaver', 0.024764398, u'can_opener', 0.022108378]
+[u'cleaver', 0.033478528, u'envelope', 0.032390609, u'can_opener', 0.02371536, u'lighter', 0.020948768, u'pedestal', 0.017958105]
+[u'switch', 0.10937389, u'paper_towel', 0.097497463, u'cleaver', 0.054133859, u'toilet_tissue', 0.049655084, u'soap_dispenser', 0.046434764]
+[u'bathing_cap', 0.045030124, u'packet', 0.042523682, u'plastic_bag', 0.038434591, u'shower_cap', 0.033801496, u'water_bottle', 0.031310685]
+[u'cleaver', 0.16765566, u'switch', 0.087385602, u'paper_towel', 0.083028585, u'soap_dispenser', 0.036644008, u'modem', 0.025229398]
+[u'broom', 0.046079446, u'scale', 0.033888068, u'nail', 0.032446336, u'can_opener', 0.026055939, u'modem', 0.025412913]
+[u'fountain', 0.52609742, u'geyser', 0.11123767, u'coral_reef', 0.053454332, u'broccoli', 0.022092283, u'volcano', 0.019420456]
+[u'envelope', 0.11078645, u'pill_bottle', 0.023124509, u'Band_Aid', 0.018604532, u'paper_towel', 0.014859092, u'cleaver', 0.014271137]

@@ -1,0 +1,3 @@
+[u'palace', 0.18062904, u'cinema', 0.15345307, u'streetcar', 0.13965654, u'library', 0.076131299, u'sundial', 0.034168977]
+[u'Petri_dish', 0.54566628, u'tray', 0.08589863, u'plate', 0.085582264, u'toilet_seat', 0.062633209, u'waffle_iron', 0.028589748]
+[u'potpie', 0.45152089, u'pizza', 0.15437625, u'meat_loaf', 0.10150199, u'trifle', 0.084094837, u'plate', 0.027478173]

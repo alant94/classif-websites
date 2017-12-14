@@ -1,0 +1,2 @@
+[u'book_jacket', 0.41211933, u'barn', 0.092030995, u'ox', 0.033074949, u'American_black_bear', 0.032374375, u'water_buffalo', 0.029041311]
+[u'book_jacket', 0.66741717, u'jersey', 0.31571326, u'packet', 0.0054474766, u'comic_book', 0.0036694449, u'sweatshirt', 0.0029373816]

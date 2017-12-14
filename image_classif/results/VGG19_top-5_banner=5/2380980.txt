@@ -1,0 +1,4 @@
+[u'window_screen', 0.082766511, u'oscilloscope', 0.08123973, u'sliding_door', 0.072797172, u'window_shade', 0.060105827, u'shoji', 0.03406864]
+[u'carton', 0.091472246, u'envelope', 0.065259732, u'window_shade', 0.065222248, u'crate', 0.04827768, u'screen', 0.04515481]
+[u'rule', 0.12878621, u'nail', 0.10994006, u'screwdriver', 0.079038113, u'syringe', 0.065792963, u'envelope', 0.049871203]
+[u'window_screen', 0.18904614, u'oscilloscope', 0.17972413, u'window_shade', 0.1237993, u'sliding_door', 0.049550287, u'fire_screen', 0.033786204]

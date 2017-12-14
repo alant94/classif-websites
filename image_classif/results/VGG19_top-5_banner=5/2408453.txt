@@ -1,0 +1,7 @@
+[u'tractor', 0.28283218, u'thresher', 0.22262825, u'harvester', 0.17790382, u'lawn_mower', 0.046485748, u'go-kart', 0.038161304]
+[u'web_site', 0.94905746, u'racer', 0.015356363, u'comic_book', 0.0047132084, u'cab', 0.0042232131, u'ambulance', 0.0028565307]
+[u'snowplow', 0.37447831, u'lawn_mower', 0.15314338, u'harvester', 0.10910929, u'plow', 0.081956968, u'go-kart', 0.081311494]
+[u'racer', 0.8998847, u'sports_car', 0.030959612, u'half_track', 0.018775698, u'car_wheel', 0.013041079, u'tow_truck', 0.0050739441]
+[u'harvester', 0.21417391, u'tractor', 0.11493043, u'thresher', 0.10420458, u'fireboat', 0.082386076, u'disk_brake', 0.07286796]
+[u'jinrikisha', 0.24774265, u'Model_T', 0.14898428, u'car_wheel', 0.13111331, u'sports_car', 0.07091859, u'golfcart', 0.057380661]
+[u'web_site', 0.99401951, u'menu', 0.0033629215, u'envelope', 0.00059358525, u'screen', 0.00044681181, u'monitor', 0.00029250898]

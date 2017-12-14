@@ -1,0 +1,5 @@
+[u'envelope', 0.20637782, u'web_site', 0.077623151, u'hatchet', 0.027182752, u'digital_clock', 0.026609, u'shovel', 0.023229454]
+[u'nail', 0.13207582, u'web_site', 0.055954292, u'matchstick', 0.050610863, u'screwdriver', 0.036331885, u'rule', 0.029732028]
+[u'book_jacket', 0.080653951, u'envelope', 0.07615374, u'web_site', 0.069111995, u'street_sign', 0.037043896, u'hatchet', 0.025278695]
+[u'envelope', 0.088401645, u'web_site', 0.075121872, u'hook', 0.016372064, u'nail', 0.013245869, u'abaya', 0.012317427]
+[u'envelope', 0.27491418, u'web_site', 0.084456407, u'binder', 0.036921032, u'book_jacket', 0.025481088, u'jersey', 0.018626954]

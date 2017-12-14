@@ -1,0 +1,3 @@
+[u'paintbrush', 0.1910041, u'letter_opener', 0.10743294, u'chime', 0.086434439, u'projectile', 0.071542226, u'ballpoint', 0.065210797]
+[u'park_bench', 0.18406673, u'diaper', 0.071997203, u'head_cabbage', 0.0535197, u'worm_fence', 0.042472739, u'swing', 0.034818877]
+[u'can_opener', 0.29037172, u'water_bottle', 0.090328716, u'lighter', 0.074786007, u'lotion', 0.067183599, u'hammer', 0.066632487]

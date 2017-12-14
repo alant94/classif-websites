@@ -1,0 +1,1 @@
+[u'web_site', 0.34565845, u'ski', 0.076118574, u'book_jacket', 0.057288982, u'Kerry_blue_terrier', 0.025946433, u'malamute', 0.02380435]

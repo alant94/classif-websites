@@ -1,0 +1,5 @@
+[u'pier', 0.04604198, u'dock', 0.045990441, u'suspension_bridge', 0.04174592, u'liner', 0.03875275, u'submarine', 0.025884295]
+[u'sunscreen', 0.21911694, u'packet', 0.1182054, u'corn', 0.10805271, u'tennis_ball', 0.064220905, u'lotion', 0.061534967]
+[u'packet', 0.55014735, u'book_jacket', 0.10315101, u'tray', 0.045234058, u'plastic_bag', 0.024902128, u'binder', 0.019519888]
+[u'mobile_home', 0.32997701, u'boathouse', 0.17608108, u'barn', 0.08543551, u'church', 0.033402417, u'picket_fence', 0.030164324]
+[u'minibus', 0.52348596, u'police_van', 0.21467353, u'minivan', 0.098025322, u'ambulance', 0.08676888, u'moving_van', 0.051679317]

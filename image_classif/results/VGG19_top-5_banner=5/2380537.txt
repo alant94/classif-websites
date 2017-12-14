@@ -1,0 +1,6 @@
+[u'laptop', 0.26727045, u'notebook', 0.10590553, u'iPod', 0.1006759, u'desktop_computer', 0.064313442, u'monitor', 0.050662745]
+[u'vending_machine', 0.12386265, u'coffee_mug', 0.10736074, u'oil_filter', 0.050425448, u'ashcan', 0.042650495, u'lotion', 0.040990613]
+[u'face_powder', 0.072552808, u'whistle', 0.071028627, u'maraca', 0.056407835, u'web_site', 0.042099711, u'tennis_ball', 0.033597112]
+[u'digital_clock', 0.17964339, u'street_sign', 0.14260678, u'laptop', 0.075258292, u'analog_clock', 0.052151952, u'iPod', 0.047959898]
+[u'lighter', 0.28011292, u'Band_Aid', 0.22214742, u'iPod', 0.081345335, u'street_sign', 0.073143572, u'cup', 0.047495808]
+[u'rubber_eraser', 0.26988661, u'hair_spray', 0.16697913, u'lipstick', 0.15215605, u'ballpoint', 0.14621739, u'lighter', 0.10097282]

@@ -1,0 +1,2 @@
+[u'hook', 0.25892067, u'nail', 0.083525911, u'safety_pin', 0.078005396, u'can_opener', 0.026704226, u'screwdriver', 0.021976532]
+[u'cash_machine', 0.064932227, u'menu', 0.038396187, u'pill_bottle', 0.026497083, u'screen', 0.023913352, u'matchstick', 0.022822011]

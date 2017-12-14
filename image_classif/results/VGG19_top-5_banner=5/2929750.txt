@@ -1,0 +1,5 @@
+[u'envelope', 0.28575963, u'web_site', 0.049204741, u'bulletproof_vest', 0.042154875, u'cleaver', 0.027958227, u'binder', 0.018566417]
+[u'digital_clock', 0.11002868, u'Band_Aid', 0.045739558, u'envelope', 0.038628563, u'web_site', 0.022147302, u'whistle', 0.020180786]
+[u'envelope', 0.2341969, u'wardrobe', 0.047530554, u'bell_cote', 0.04135919, u'web_site', 0.038382236, u'analog_clock', 0.036470369]
+[u'envelope', 0.091621049, u'web_site', 0.078680098, u'book_jacket', 0.047824446, u'binder', 0.045806747, u'street_sign', 0.025906716]
+[u'envelope', 0.39893872, u'web_site', 0.12390591, u'binder', 0.012410908, u'rule', 0.0071233055, u'velvet', 0.0069230576]

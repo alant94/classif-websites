@@ -1,0 +1,1 @@
+[u'pencil_box', 0.20354739, u'ballpoint', 0.12553556, u'screwdriver', 0.11116501, u'paintbrush', 0.082054436, u'rubber_eraser', 0.07527484]

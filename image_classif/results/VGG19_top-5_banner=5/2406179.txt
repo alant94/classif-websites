@@ -1,0 +1,3 @@
+[u'church', 0.2322374, u'altar', 0.082161285, u'bell_cote', 0.076251082, u'mosque', 0.067386195, u'palace', 0.052536707]
+[u'rule', 0.20804547, u'street_sign', 0.17773041, u'crane', 0.073963039, u'plate_rack', 0.069882229, u'birdhouse', 0.047639046]
+[u'chime', 0.29459745, u'hook', 0.29169139, u'rifle', 0.11938532, u'nail', 0.1045657, u'dock', 0.028106034]

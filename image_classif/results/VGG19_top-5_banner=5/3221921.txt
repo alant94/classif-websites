@@ -1,0 +1,2 @@
+[u'barbershop', 0.11274223, u'lab_coat', 0.097326867, u'bubble', 0.074496821, u'microphone', 0.05835212, u'violin', 0.055974081]
+[u'gas_pump', 0.3837989, u'traffic_light', 0.17185678, u'fire_engine', 0.084183291, u'container_ship', 0.045635983, u'forklift', 0.031981748]

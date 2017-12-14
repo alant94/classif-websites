@@ -1,0 +1,2 @@
+[u'boathouse', 0.19621226, u'lakeside', 0.1391857, u'church', 0.091820382, u'dome', 0.090602249, u'mosque', 0.054169022]
+[u'bittern', 0.20501074, u'dowitcher', 0.12762043, u'crane', 0.065008752, u'cardoon', 0.056763373, u'limpkin', 0.048201241]

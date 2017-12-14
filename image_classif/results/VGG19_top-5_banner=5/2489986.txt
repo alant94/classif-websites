@@ -1,0 +1,6 @@
+[u'flat-coated_retriever', 0.42807692, u'black-and-tan_coonhound', 0.17419061, u'Afghan_hound', 0.16072692, u'Gordon_setter', 0.065326273, u'bloodhound', 0.047372613]
+[u'German_short-haired_pointer', 0.90709531, u'English_setter', 0.053877223, u'English_foxhound', 0.023851803, u'Great_Dane', 0.0047200164, u'Brittany_spaniel', 0.0038556545]
+[u'volleyball', 0.062343467, u'ping-pong_ball', 0.060662378, u'parallel_bars', 0.047754191, u'stretcher', 0.035280574, u'horizontal_bar', 0.030397836]
+[u'dining_table', 0.20851812, u'organ', 0.12284362, u'rocking_chair', 0.075711899, u'chime', 0.046377677, u'restaurant', 0.038819537]
+[u'chime', 0.1420549, u'rule', 0.1282181, u'hook', 0.05193539, u'paintbrush', 0.051595964, u'cleaver', 0.045465369]
+[u'web_site', 0.10566903, u'street_sign', 0.092845239, u'digital_clock', 0.073525995, u'analog_clock', 0.046923339, u'book_jacket', 0.033939034]

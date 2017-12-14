@@ -1,0 +1,2 @@
+[u'picket_fence', 0.19708157, u'matchstick', 0.077361375, u'ski', 0.049713351, u'hook', 0.040361125, u'safety_pin', 0.032266289]
+[u'bow_tie', 0.52703923, u'suit', 0.19461772, u'Windsor_tie', 0.058545671, u'wig', 0.036621578, u'shower_cap', 0.021683438]

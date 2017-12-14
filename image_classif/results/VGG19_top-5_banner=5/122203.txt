@@ -1,0 +1,3 @@
+[u'football_helmet', 0.6531198, u'sweatshirt', 0.12086122, u'jersey', 0.072181717, u'ballplayer', 0.059830192, u"jack-o'-lantern", 0.018959772]
+[u'shower_curtain', 0.42353821, u'mask', 0.10755455, u'cowboy_boot', 0.094781421, u'clog', 0.085077055, u'toyshop', 0.064747781]
+[u'fire_engine', 0.44419026, u'streetcar', 0.065317057, u'trolleybus', 0.046198256, u'steam_locomotive', 0.044997197, u'cab', 0.035269998]

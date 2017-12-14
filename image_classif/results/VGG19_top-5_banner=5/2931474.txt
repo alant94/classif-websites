@@ -1,0 +1,3 @@
+[u'ballpoint', 0.35272267, u'paintbrush', 0.12332201, u'rubber_eraser', 0.12236417, u'broom', 0.11001832, u'swab', 0.10011361]
+[u'whistle', 0.20575, u'hook', 0.1363934, u"carpenter's_kit", 0.060073365, u'panpipe', 0.050829656, u'combination_lock', 0.041744798]
+[u'hair_slide', 0.49898592, u'pinwheel', 0.089610882, u'Christmas_stocking', 0.071495689, u'bow_tie', 0.03121718, u'envelope', 0.02912293]

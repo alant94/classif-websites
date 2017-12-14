@@ -1,0 +1,5 @@
+[u'cash_machine', 0.14192395, u'pay-phone', 0.10140836, u'sliding_door', 0.094808444, u'prison', 0.086942561, u'unicycle', 0.061236929]
+[u'balance_beam', 0.55931854, u'parallel_bars', 0.11950047, u'maillot', 0.050985113, u'bikini', 0.03423328, u'gown', 0.027145084]
+[u'candle', 0.090511642, u'hook', 0.087117396, u'cleaver', 0.07607016, u"carpenter's_kit", 0.064715371, u'quill', 0.04729639]
+[u'barbershop', 0.1324601, u'sliding_door', 0.12063748, u'punching_bag', 0.097193748, u'crutch', 0.056239706, u'medicine_chest', 0.031328738]
+[u'bookshop', 0.23529671, u'restaurant', 0.11880624, u'barbershop', 0.056467414, u'vault', 0.046284664, u'barber_chair', 0.046076637]

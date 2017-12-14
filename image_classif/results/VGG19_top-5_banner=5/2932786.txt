@@ -1,0 +1,2 @@
+[u'envelope', 0.09651427, u'analog_clock', 0.077585198, u'loudspeaker', 0.0728257, u'cassette', 0.072607256, u'switch', 0.057584003]
+[u'screwdriver', 0.19027603, u"carpenter's_kit", 0.18681352, u'spatula', 0.080903411, u'paintbrush', 0.052515332, u'ballpoint', 0.051192272]

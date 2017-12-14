@@ -1,0 +1,6 @@
+[u'wall_clock', 0.27353883, u'shower_curtain', 0.15464985, u'toyshop', 0.13130508, u'stage', 0.076652497, u'apron', 0.059854701]
+[u'monitor', 0.36227322, u'web_site', 0.27852765, u'screen', 0.16894056, u'desktop_computer', 0.04664436, u'oscilloscope', 0.014482831]
+[u'toyshop', 0.3808018, u'bookshop', 0.074599437, u'desk', 0.071865521, u'bookcase', 0.052953716, u'china_cabinet', 0.038857043]
+[u'vase', 0.20198402, u'monitor', 0.18064182, u'shower_curtain', 0.082968578, u'apron', 0.06061272, u'maillot', 0.056151766]
+[u'picket_fence', 0.54261309, u'crib', 0.11017527, u'chime', 0.052494925, u'wardrobe', 0.045075696, u'plate_rack', 0.032516416]
+[u'web_site', 0.29032877, u'monitor', 0.23019633, u'desktop_computer', 0.064858034, u'laptop', 0.043360814, u'iPod', 0.033827245]

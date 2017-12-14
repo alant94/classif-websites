@@ -1,0 +1,4 @@
+[u'perfume', 0.1432611, u'beaker', 0.058202442, u'turnstile', 0.05308171, u'water_bottle', 0.04841686, u'spotlight', 0.029772902]
+[u'plate', 0.086352505, u'fig', 0.080262683, u'tray', 0.067368194, u'ice_cream', 0.052805964, u'strawberry', 0.046797168]
+[u'patio', 0.38322836, u'grocery_store', 0.098673716, u'greenhouse', 0.056332849, u'restaurant', 0.05632649, u'banana', 0.025397211]
+[u'groom', 0.15528254, u'kimono', 0.094258338, u'jackfruit', 0.072157502, u'pajama', 0.043061968, u'picket_fence', 0.037118357]

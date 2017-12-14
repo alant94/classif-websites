@@ -1,0 +1,1 @@
+[u'spotlight', 0.2052352, u'car_wheel', 0.094727583, u'nematode', 0.030172611, u'analog_clock', 0.02083208, u'microphone', 0.020269619]

@@ -1,0 +1,2 @@
+[u'ski', 0.59366757, u'screwdriver', 0.16483918, u'rifle', 0.13327803, u'paintbrush', 0.017962478, u'ballpoint', 0.012807464]
+[u'bathing_cap', 0.061772794, u'mailbag', 0.041779269, u'sweatshirt', 0.03046374, u'binder', 0.02276749, u'bearskin', 0.021468891]

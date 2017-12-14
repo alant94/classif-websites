@@ -1,0 +1,4 @@
+[u'hook', 0.060827807, u'swab', 0.034325473, u'wool', 0.027930094, u'nail', 0.025050502, u'web_site', 0.022588076]
+[u'wall_clock', 0.03790481, u'rule', 0.019641586, u'envelope', 0.016170848, u'puck', 0.012586422, u'syringe', 0.0092220185]
+[u'wall_clock', 0.027842928, u'syringe', 0.021256069, u'rule', 0.018966461, u'puck', 0.0142309, u'ballpoint', 0.011402639]
+[u'comic_book', 0.74149972, u'book_jacket', 0.12107305, u'packet', 0.017461633, u'lighter', 0.0094597982, u"carpenter's_kit", 0.0093050851]

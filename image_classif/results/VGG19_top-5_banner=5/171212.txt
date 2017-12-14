@@ -1,0 +1,2 @@
+[u'speedboat', 0.098500386, u'racer', 0.06601274, u'go-kart', 0.061406065, u'shoe_shop', 0.041006539, u'canoe', 0.040390469]
+[u'gondola', 0.17269127, u'four-poster', 0.10078528, u'cinema', 0.077352688, u'guillotine', 0.050785813, u'throne', 0.039866518]

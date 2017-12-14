@@ -1,0 +1,2 @@
+[u'stone_wall', 0.41890162, u'worm_fence', 0.15849404, u'maze', 0.12732136, u'park_bench', 0.027255667, u'picket_fence', 0.024143267]
+[u'wallaby', 0.039370406, u'American_alligator', 0.038068455, u'water_buffalo', 0.036240987, u'red_wolf', 0.023189241, u'crane', 0.022302024]

@@ -1,0 +1,2 @@
+[u'web_site', 0.11983404, u'hook', 0.046679109, u'combination_lock', 0.038058452, u'can_opener', 0.03470755, u'envelope', 0.033365656]
+[u'picket_fence', 0.17221949, u'pot', 0.074520566, u'daisy', 0.073220924, u'vase', 0.070835456, u'bee', 0.051761128]

@@ -1,0 +1,8 @@
+[u'hair_slide', 0.094456263, u'tray', 0.09052702, u'pencil_box', 0.071709469, u'toilet_seat', 0.047142521, u'rubber_eraser', 0.041128594]
+[u'feather_boa', 0.26352933, u'mask', 0.041970979, u'Irish_setter', 0.041260205, u'bottlecap', 0.039307777, u'wig', 0.032913532]
+[u'book_jacket', 0.44661048, u'binder', 0.030657027, u'oil_filter', 0.028244421, u'quill', 0.024002744, u'brass', 0.020733643]
+[u'snowmobile', 0.14601222, u'crash_helmet', 0.083240964, u'motor_scooter', 0.04500816, u'puck', 0.031842597, u'football_helmet', 0.029968992]
+[u'bottlecap', 0.48651746, u'magnetic_compass', 0.44125637, u'wall_clock', 0.059447311, u'digital_watch', 0.0051520686, u'analog_clock', 0.004270148]
+[u'jeep', 0.69102687, u'pickup', 0.19737811, u'tow_truck', 0.022684772, u'minivan', 0.013968514, u'beach_wagon', 0.013472019]
+[u'tractor', 0.10587969, u'snowplow', 0.095813826, u'tricycle', 0.067039482, u'puck', 0.038531475, u'ski', 0.024271432]
+[u'cab', 0.87889493, u'tow_truck', 0.019914085, u'racer', 0.016054595, u'sports_car', 0.013269385, u'school_bus', 0.012792542]

@@ -1,0 +1,1 @@
+[u'notebook', 0.1174098, u'web_site', 0.064138643, u'cassette', 0.062533632, u'laptop', 0.034416158, u'book_jacket', 0.029883258]

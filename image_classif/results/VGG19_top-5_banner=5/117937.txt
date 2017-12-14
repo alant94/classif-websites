@@ -1,0 +1,4 @@
+[u'web_site', 0.99150038, u'book_jacket', 0.0020181201, u'military_uniform', 0.00093131594, u'scoreboard', 0.00057111424, u'stage', 0.00047721542]
+[u'web_site', 0.99971217, u'television', 0.00013370279, u'book_jacket', 3.8393755e-05, u'screen', 2.9247871e-05, u'scoreboard', 2.5348061e-05]
+[u'car_wheel', 0.13218373, u'window_shade', 0.11442079, u'spotlight', 0.093041278, u'theater_curtain', 0.079900876, u'matchstick', 0.061649472]
+[u'traffic_light', 0.15338586, u'street_sign', 0.13178833, u'crane', 0.073436402, u'balloon', 0.060413994, u'scoreboard', 0.023880335]

@@ -1,0 +1,6 @@
+[u'cassette', 0.20178045, u'book_jacket', 0.14984199, u'stove', 0.13804434, u'packet', 0.042654779, u'cassette_player', 0.040892392]
+[u'web_site', 0.25121626, u'menu', 0.1579898, u'book_jacket', 0.11841559, u'hen-of-the-woods', 0.06823425, u'platypus', 0.016299676]
+[u'web_site', 0.25209549, u'oscilloscope', 0.1910942, u'screen', 0.14809573, u'monitor', 0.11384972, u'menu', 0.078138605]
+[u'beer_glass', 0.12370971, u'fiddler_crab', 0.078355677, u'French_horn', 0.074685693, u'goblet', 0.068408504, u'buckle', 0.036727913]
+[u'binder', 0.21262451, u'web_site', 0.10357353, u'safety_pin', 0.080884226, u'vending_machine', 0.055680428, u'mousetrap', 0.053726323]
+[u'magnetic_compass', 0.94734263, u'sundial', 0.022326561, u'analog_clock', 0.016658884, u'wall_clock', 0.0049670041, u'radio_telescope', 0.0022654061]

@@ -1,0 +1,3 @@
+[u'beer_glass', 0.78846508, u'beer_bottle', 0.021995287, u'packet', 0.019037595, u'pill_bottle', 0.014765888, u'pop_bottle', 0.014371647]
+[u'matchstick', 0.30599138, u'rubber_eraser', 0.041958492, u'street_sign', 0.035700161, u'pill_bottle', 0.033722412, u'lighter', 0.031575378]
+[u'web_site', 0.25973642, u'oil_filter', 0.16102159, u'packet', 0.060846761, u'Band_Aid', 0.038500518, u'scoreboard', 0.028437059]

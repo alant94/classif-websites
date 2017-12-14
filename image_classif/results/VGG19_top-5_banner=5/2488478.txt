@@ -1,0 +1,3 @@
+[u'ski', 0.2576935, u'cleaver', 0.10117821, u'hook', 0.099574409, u"carpenter's_kit", 0.05316589, u'letter_opener', 0.046228606]
+[u'king_penguin', 0.19454345, u'fountain', 0.10346896, u'picket_fence', 0.077307105, u'ear', 0.033385936, u'corn', 0.025978524]
+[u'envelope', 0.250112, u'container_ship', 0.12022447, u'crossword_puzzle', 0.064735524, u'digital_clock', 0.039191764, u'carton', 0.034794174]

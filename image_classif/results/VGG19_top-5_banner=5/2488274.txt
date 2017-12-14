@@ -1,0 +1,1 @@
+[u'puck', 0.67476785, u'analog_clock', 0.063753083, u'pick', 0.055736613, u'wall_clock', 0.027472798, u'book_jacket', 0.018859578]

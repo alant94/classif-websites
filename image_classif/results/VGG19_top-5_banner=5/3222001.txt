@@ -1,0 +1,7 @@
+[u'screwdriver', 0.12723213, u'rule', 0.06072285, u"carpenter's_kit", 0.043838315, u'chime', 0.041380391, u'organ', 0.036514342]
+[u'studio_couch', 0.058836885, u'wardrobe', 0.050100785, u'file', 0.04152758, u'bookcase', 0.037675969, u'desk', 0.036997657]
+[u'envelope', 0.097217545, u'dishwasher', 0.088267557, u'cleaver', 0.033434298, u'washer', 0.027425259, u'microwave', 0.025095627]
+[u'screwdriver', 0.048822924, u'medicine_chest', 0.044850122, u'chime', 0.040367749, u'wardrobe', 0.039599348, u'refrigerator', 0.039374553]
+[u'rule', 0.072684109, u"carpenter's_kit", 0.047410347, u'switch', 0.037472155, u'screwdriver', 0.036684927, u'binder', 0.031319849]
+[u'refrigerator', 0.16005759, u'safe', 0.14553522, u'combination_lock', 0.11219008, u'switch', 0.077881776, u'modem', 0.040360648]
+[u'cleaver', 0.031349614, u'envelope', 0.023601428, u'letter_opener', 0.014345345, u'hatchet', 0.014153194, u'can_opener', 0.012046976]

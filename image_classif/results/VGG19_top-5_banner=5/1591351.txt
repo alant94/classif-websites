@@ -1,0 +1,1 @@
+[u'spatula', 0.78369516, u'hook', 0.094490804, u'screwdriver', 0.020384345, u'picket_fence', 0.015386736, u'shovel', 0.01353963]

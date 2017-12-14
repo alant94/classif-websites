@@ -1,0 +1,7 @@
+[u'lighter', 0.25910243, u'street_sign', 0.15061958, u'switch', 0.096986033, u'digital_watch', 0.085058525, u'traffic_light', 0.046581518]
+[u'bib', 0.36056834, u'pencil_box', 0.20107906, u'jigsaw_puzzle', 0.14313218, u'envelope', 0.093575746, u'tray', 0.041968487]
+[u'web_site', 0.28446597, u'book_jacket', 0.080557346, u'comic_book', 0.038049545, u'jersey', 0.029237285, u'toilet_seat', 0.029217035]
+[u'comic_book', 0.1398793, u'envelope', 0.12923256, u'web_site', 0.088941693, u'wall_clock', 0.055309646, u'refrigerator', 0.050028417]
+[u'bathing_cap', 0.3463763, u'football_helmet', 0.052013062, u'web_site', 0.051428374, u'comic_book', 0.042119995, u'balloon', 0.039803728]
+[u'hammerhead', 0.091776289, u'electric_ray', 0.067170396, u'bubble', 0.063066423, u'chambered_nautilus', 0.052996151, u'hook', 0.031996708]
+[u'bow', 0.14974728, u'hair_slide', 0.051820148, u'letter_opener', 0.050197318, u'hook', 0.04828497, u'totem_pole', 0.041883647]

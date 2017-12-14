@@ -1,0 +1,2 @@
+[u'web_site', 0.24022973, u'book_jacket', 0.16522561, u'pick', 0.03978388, u'tennis_ball', 0.028912712, u'loupe', 0.021837721]
+[u'barbershop', 0.5029754, u'Band_Aid', 0.15311323, u'book_jacket', 0.046570662, u'carton', 0.027131816, u'envelope', 0.021866933]

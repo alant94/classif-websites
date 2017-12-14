@@ -1,0 +1,8 @@
+[u'digital_clock', 0.21458749, u'web_site', 0.085962422, u'street_sign', 0.023745002, u'stopwatch', 0.019939436, u'book_jacket', 0.019458184]
+[u'picket_fence', 0.11229209, u'theater_curtain', 0.032356098, u'wall_clock', 0.031833768, u'hook', 0.031722605, u'church', 0.031036463]
+[u'digital_clock', 0.21458749, u'web_site', 0.085962422, u'street_sign', 0.023745002, u'stopwatch', 0.019939436, u'book_jacket', 0.019458184]
+[u'shoji', 0.28796175, u'prison', 0.18397416, u'sliding_door', 0.14705151, u'bannister', 0.10796732, u'window_shade', 0.052657224]
+[u'matchstick', 0.57609993, u'space_shuttle', 0.030271975, u'digital_clock', 0.028727662, u'Band_Aid', 0.019834356, u'rule', 0.017039301]
+[u'web_site', 0.33770069, u'matchstick', 0.079946287, u'envelope', 0.071856827, u'book_jacket', 0.025165046, u'quill', 0.023060868]
+[u'matchstick', 0.21803665, u'plunger', 0.07640136, u'envelope', 0.058550943, u'rule', 0.031624854, u'candle', 0.023456566]
+[u'theater_curtain', 0.15721315, u'fountain', 0.089462399, u'jellyfish', 0.057306189, u'velvet', 0.051569719, u'spotlight', 0.041131437]

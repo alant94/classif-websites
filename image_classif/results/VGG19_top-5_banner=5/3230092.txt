@@ -1,0 +1,7 @@
+[u'bell_cote', 0.67078906, u'church', 0.16174251, u'monastery', 0.027516145, u'cinema', 0.0099217054, u'analog_clock', 0.009552706]
+[u'pick', 0.11079296, u'letter_opener', 0.032716405, u'hatchet', 0.032613866, u'cleaver', 0.03111089, u'nail', 0.02859577]
+[u'hook', 0.052544236, u'ski', 0.042068675, u'safety_pin', 0.039933976, u'plate_rack', 0.030051064, u'nipple', 0.02160901]
+[u'stage', 0.27042454, u'groom', 0.046071272, u'kimono', 0.030975023, u'grand_piano', 0.025072679, u'theater_curtain', 0.023586577]
+[u'crutch', 0.27915943, u'trombone', 0.056213167, u'swab', 0.038639423, u'pole', 0.035458677, u'ladle', 0.027995605]
+[u'Christmas_stocking', 0.44751897, u'sock', 0.31719777, u'teddy', 0.13655837, u'wool', 0.044246279, u'mitten', 0.025776992]
+[u'lab_coat', 0.21730253, u'wardrobe', 0.087434433, u'sweatshirt', 0.047916353, u'academic_gown', 0.046521604, u'trench_coat', 0.034294765]

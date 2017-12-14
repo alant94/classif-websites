@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.49216419, u'castle', 0.17285092, u'stupa', 0.1318704, u'space_shuttle', 0.046589639, u'bell_cote', 0.019441018]
+[u'book_jacket', 0.36975315, u'puck', 0.21710002, u'pick', 0.081117004, u'jersey', 0.056964461, u'red_wine', 0.029139444]

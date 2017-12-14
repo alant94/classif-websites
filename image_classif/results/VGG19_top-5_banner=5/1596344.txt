@@ -1,0 +1,7 @@
+[u'sombrero', 0.93412679, u'cowboy_hat', 0.024364656, u'umbrella', 0.0080751311, u'table_lamp', 0.0072624325, u'lampshade', 0.0061965222]
+[u'web_site', 0.53566009, u'envelope', 0.082446337, u'abaya', 0.009783119, u'hand_blower', 0.0068165311, u'microphone', 0.0067102425]
+[u'dogsled', 0.26719779, u'sturgeon', 0.13662089, u'snowmobile', 0.11058402, u'wreck', 0.073706791, u'amphibian', 0.031997051]
+[u'Crock_Pot', 0.32502142, u'bucket', 0.10009985, u'washer', 0.036378652, u'rain_barrel', 0.018875983, u'carton', 0.018544585]
+[u'bookshop', 0.11218181, u'cash_machine', 0.089049719, u'television', 0.072260432, u'jean', 0.063430563, u'monitor', 0.061747413]
+[u'sunscreen', 0.048720416, u'Band_Aid', 0.045484152, u'bow_tie', 0.032296263, u'tench', 0.027879538, u'jersey', 0.025863376]
+[u'Egyptian_cat', 0.60226262, u'tiger_cat', 0.12732372, u'Siamese_cat', 0.052805904, u'tabby', 0.034847893, u'space_heater', 0.029737562]

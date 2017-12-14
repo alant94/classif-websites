@@ -1,0 +1,7 @@
+[u'book_jacket', 0.17764147, u'envelope', 0.071327314, u'quill', 0.058180578, u'binder', 0.036658302, u'doormat', 0.033035085]
+[u'digital_clock', 0.26264074, u'web_site', 0.054052051, u'analog_clock', 0.052502304, u'street_sign', 0.050561879, u'Band_Aid', 0.031780515]
+[u'digital_clock', 0.6813302, u'digital_watch', 0.038932309, u'lighter', 0.026394164, u'Band_Aid', 0.018498374, u'scale', 0.014781011]
+[u'puck', 0.47654596, u'pick', 0.18762311, u'loupe', 0.088809982, u'wall_clock', 0.043962911, u'shield', 0.039067056]
+[u'geyser', 0.13327307, u'volcano', 0.053323004, u'African_hunting_dog', 0.032960698, u'black_grouse', 0.029869905, u'timber_wolf', 0.025337944]
+[u'vestment', 0.53496474, u'lab_coat', 0.35547405, u'pajama', 0.039309338, u'torch', 0.022421038, u'altar', 0.011648333]
+[u'comic_book', 0.88427693, u'book_jacket', 0.061244626, u'electric_guitar', 0.017098576, u'accordion', 0.0024033915, u'slot', 0.0023773278]

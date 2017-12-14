@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.2909458, u'safe', 0.12659611, u'home_theater', 0.048934221, u'washbasin', 0.041175142, u'entertainment_center', 0.035622545]

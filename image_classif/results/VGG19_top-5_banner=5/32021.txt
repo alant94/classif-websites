@@ -1,0 +1,1 @@
+[u'bald_eagle', 0.99628061, u'kite', 0.0020850955, u'Persian_cat', 0.00049427926, u'Arctic_fox', 0.00013845063, u'marmoset', 0.00013550512]

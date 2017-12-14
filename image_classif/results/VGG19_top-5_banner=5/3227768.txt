@@ -1,0 +1,6 @@
+[u'sliding_door', 0.26435629, u'chime', 0.1392276, u'prison', 0.10704403, u'window_shade', 0.051633269, u'shoji', 0.049795907]
+[u'chocolate_sauce', 0.21892224, u'puck', 0.09639512, u'book_jacket', 0.069929659, u'toilet_seat', 0.060529549, u'sunscreen', 0.049472511]
+[u'Band_Aid', 0.20160903, u'web_site', 0.20103286, u'envelope', 0.037698515, u'plunger', 0.018774286, u'whistle', 0.015268997]
+[u'digital_clock', 0.074558377, u'envelope', 0.04989646, u'wall_clock', 0.046205584, u'traffic_light', 0.032018326, u'flagpole', 0.023564566]
+[u'picket_fence', 0.46185893, u'worm_fence', 0.30859739, u'mailbox', 0.10364652, u'ashcan', 0.023280349, u'street_sign', 0.0093160076]
+[u'web_site', 0.59869623, u'menu', 0.16209218, u'Band_Aid', 0.11089426, u'book_jacket', 0.037577257, u'comic_book', 0.018641338]

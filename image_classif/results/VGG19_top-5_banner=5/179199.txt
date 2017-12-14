@@ -1,0 +1,4 @@
+[u'stage', 0.45450431, u'monitor', 0.072812989, u'lighter', 0.058457017, u'microphone', 0.043357443, u'remote_control', 0.028532879]
+[u'laptop', 0.12145083, u'notebook', 0.066601217, u'remote_control', 0.057457026, u'jigsaw_puzzle', 0.052662261, u'crossword_puzzle', 0.041713387]
+[u'stage', 0.65548027, u'spotlight', 0.1076279, u'fountain', 0.074514776, u'projector', 0.021432294, u'jellyfish', 0.018579477]
+[u'fountain', 0.64547354, u'theater_curtain', 0.10169121, u'stage', 0.036176253, u'scuba_diver', 0.02068628, u'kimono', 0.019074712]

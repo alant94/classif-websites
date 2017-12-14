@@ -1,0 +1,7 @@
+[u'stage', 0.33817422, u'oscilloscope', 0.2218319, u'digital_clock', 0.06727954, u'monitor', 0.058709238, u'analog_clock', 0.047311656]
+[u'tennis_ball', 0.17416665, u'lemon', 0.060396608, u'plate_rack', 0.031679045, u'spatula', 0.030097544, u'swab', 0.029697279]
+[u'packet', 0.47375631, u'Band_Aid', 0.13867071, u'envelope', 0.055109341, u'menu', 0.047804043, u'measuring_cup', 0.022268936]
+[u'jersey', 0.57624316, u'sweatshirt', 0.4007276, u'cardigan', 0.0039069955, u'maillot', 0.0026356354, u'wool', 0.0017117269]
+[u'puck', 0.27919716, u'analog_clock', 0.1514764, u'face_powder', 0.1482033, u'wall_clock', 0.063633882, u'gong', 0.035452683]
+[u'Band_Aid', 0.054107741, u'rule', 0.042892337, u'envelope', 0.037874471, u'web_site', 0.036258832, u'book_jacket', 0.033054952]
+[u'traffic_light', 0.23007832, u'switch', 0.14115077, u'hook', 0.099420659, u'spotlight', 0.093329221, u'chain_saw', 0.038501777]

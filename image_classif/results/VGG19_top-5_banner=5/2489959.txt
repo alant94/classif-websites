@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.25474343, u'window_screen', 0.25404495, u'binder', 0.070680454, u'window_shade', 0.050123986, u'sliding_door', 0.03548773]
+[u'hartebeest', 0.63487989, u'warthog', 0.25299892, u'impala', 0.032171, u'assault_rifle', 0.015539516, u'rifle', 0.015125787]

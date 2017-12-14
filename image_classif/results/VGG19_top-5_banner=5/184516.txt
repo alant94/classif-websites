@@ -1,0 +1,6 @@
+[u'web_site', 0.33346257, u'book_jacket', 0.1321255, u'bow_tie', 0.08806099, u'television', 0.033291254, u'notebook', 0.03282899]
+[u'butcher_shop', 0.58963811, u'maypole', 0.0827526, u'stage', 0.025844127, u'lab_coat', 0.019058881, u'unicycle', 0.016514098]
+[u'envelope', 0.24946934, u'web_site', 0.24038698, u'Band_Aid', 0.011527658, u'rule', 0.0097703068, u'wall_clock', 0.0084223729]
+[u'groom', 0.37723905, u'gong', 0.039528318, u'guillotine', 0.025348993, u'chime', 0.022607107, u'harp', 0.018886855]
+[u'jinrikisha', 0.051953904, u'fire_screen', 0.032199685, u'window_shade', 0.031513799, u'bakery', 0.031466141, u'window_screen', 0.025503768]
+[u'bookshop', 0.18895739, u'tobacco_shop', 0.069780916, u'barbershop', 0.063121036, u'swab', 0.043474771, u'shoe_shop', 0.042725351]

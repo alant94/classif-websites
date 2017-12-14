@@ -1,0 +1,2 @@
+[u'volcano', 0.85302925, u'parachute', 0.01548689, u'space_shuttle', 0.013820681, u'torch', 0.01100485, u'jellyfish', 0.010142181]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

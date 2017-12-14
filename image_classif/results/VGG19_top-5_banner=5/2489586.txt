@@ -1,0 +1,2 @@
+[u'plow', 0.28004697, u'oxcart', 0.078543916, u'shield', 0.069855615, u'dogsled', 0.063299097, u'parachute', 0.04109101]
+[u'Band_Aid', 0.068827152, u'web_site', 0.048153043, u'envelope', 0.026312003, u'face_powder', 0.021048708, u'binder', 0.018258777]

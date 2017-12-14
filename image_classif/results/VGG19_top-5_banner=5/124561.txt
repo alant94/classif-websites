@@ -1,0 +1,4 @@
+[u'scoreboard', 0.83474827, u'street_sign', 0.023932535, u'digital_clock', 0.021185508, u'vending_machine', 0.018268049, u'container_ship', 0.011226768]
+[u'web_site', 0.3567625, u'cinema', 0.070808642, u'slot', 0.057505835, u'monitor', 0.055340495, u'scale', 0.054170001]
+[u'comic_book', 0.081342943, u'book_jacket', 0.061758257, u'barbershop', 0.034948032, u'hair_spray', 0.033067673, u'street_sign', 0.028526446]
+[u'jigsaw_puzzle', 0.17004372, u'screen', 0.15723415, u'monitor', 0.11405063, u'scoreboard', 0.090065621, u'envelope', 0.083892599]

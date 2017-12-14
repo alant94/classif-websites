@@ -1,0 +1,2 @@
+[u'packet', 0.27258277, u'binder', 0.1294765, u'wallet', 0.042809144, u'carton', 0.033528525, u"carpenter's_kit", 0.032600123]
+[u'packet', 0.20377083, u'book_jacket', 0.18291402, u'tray', 0.084602423, u'carton', 0.083026059, u'screen', 0.057406109]

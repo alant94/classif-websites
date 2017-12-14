@@ -1,0 +1,4 @@
+[u'wine_bottle', 0.62599242, u'beer_bottle', 0.051593129, u'screwdriver', 0.039999947, u'red_wine', 0.035553474, u'pop_bottle', 0.031460997]
+[u'acorn', 0.27107641, u'pomegranate', 0.1612722, u'birdhouse', 0.098580904, u'house_finch', 0.05517555, u'picket_fence', 0.054799974]
+[u'coffee_mug', 0.20456368, u'coil', 0.061770998, u'cinema', 0.042761575, u'barbershop', 0.030611014, u'cup', 0.029905705]
+[u'packet', 0.39231721, u'book_jacket', 0.17907953, u'rubber_eraser', 0.11534457, u'envelope', 0.057479087, u'carton', 0.034730986]

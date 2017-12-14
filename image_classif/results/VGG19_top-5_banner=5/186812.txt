@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.97903079, u'digital_watch', 0.0025541903, u'scoreboard', 0.0013811181, u'prayer_rug', 0.0011734237, u'digital_clock', 0.00086906931]
+[u'buckle', 0.38526905, u'toilet_seat', 0.1559314, u'bolo_tie', 0.035924911, u'digital_watch', 0.030147322, u'football_helmet', 0.023497282]
+[u'envelope', 0.06124847, u'toilet_seat', 0.015647704, u'can_opener', 0.013733566, u'web_site', 0.01352736, u'pill_bottle', 0.012512711]

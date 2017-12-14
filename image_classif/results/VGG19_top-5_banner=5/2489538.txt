@@ -1,0 +1,5 @@
+[u'ski', 0.99458474, u'alp', 0.0034654033, u'snowmobile', 0.00081267382, u'unicycle', 0.00041630966, u'cliff', 0.00014384354]
+[u'hartebeest', 0.710374, u'impala', 0.16054139, u'gazelle', 0.033117268, u'barn_spider', 0.022807753, u'garden_spider', 0.01194443]
+[u'boathouse', 0.72208554, u'lakeside', 0.099907234, u'pier', 0.036702748, u'sandbar', 0.023591558, u'greenhouse', 0.014494155]
+[u'digital_clock', 0.18008947, u'envelope', 0.10103689, u'beacon', 0.04401461, u'washbasin', 0.03046344, u'wall_clock', 0.028744206]
+[u'lakeside', 0.58975798, u'valley', 0.1677428, u'alp', 0.12259505, u'volcano', 0.046045236, u'barn', 0.012527613]

@@ -1,0 +1,2 @@
+[u'envelope', 0.22289985, u'carton', 0.093958922, u'binder', 0.038405057, u'web_site', 0.035455957, u'safe', 0.035334252]
+[u'bikini', 0.50098407, u'maillot', 0.22949938, u'maillot', 0.15349387, u'sarong', 0.068502367, u'brassiere', 0.018195461]

@@ -1,0 +1,7 @@
+[u'screwdriver', 0.32198381, u'chime', 0.19352081, u'prison', 0.063430555, u"carpenter's_kit", 0.049430232, u'paintbrush', 0.043633033]
+[u'screwdriver', 0.29418889, u'chime', 0.21003267, u'paintbrush', 0.059795436, u"carpenter's_kit", 0.050646897, u'spatula', 0.02878941]
+[u'lakeside', 0.21566729, u'alp', 0.1503762, u'valley', 0.12353177, u'barn', 0.10017817, u'stone_wall', 0.067164943]
+[u'screwdriver', 0.55137217, u"carpenter's_kit", 0.086717494, u'ballpoint', 0.045103211, u'paintbrush', 0.04394434, u'pencil_box', 0.036531914]
+[u'screw', 0.63990742, u'corkscrew', 0.094106726, u'hair_slide', 0.065103576, u'nail', 0.017953956, u'can_opener', 0.016987653]
+[u'chime', 0.52432525, u'ballpoint', 0.14033751, u'rubber_eraser', 0.040321879, u'pencil_box', 0.036426116, u'screwdriver', 0.032935753]
+[u'chime', 0.64825279, u'ballpoint', 0.048945356, u'screwdriver', 0.048591841, u'paintbrush', 0.037771109, u'organ', 0.029507006]

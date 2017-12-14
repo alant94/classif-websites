@@ -1,0 +1,1 @@
+[u'radio', 0.090013646, u'organ', 0.088820748, u'desktop_computer', 0.068787843, u'desk', 0.046505846, u'grand_piano', 0.039317094]

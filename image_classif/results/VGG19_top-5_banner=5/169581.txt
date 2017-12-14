@@ -1,0 +1,7 @@
+[u'book_jacket', 0.07396201, u'pill_bottle', 0.034674421, u'perfume', 0.029934339, u'web_site', 0.020890851, u'street_sign', 0.020653306]
+[u'envelope', 0.20298234, u'binder', 0.16360344, u'Band_Aid', 0.056024406, u'rubber_eraser', 0.046240173, u'street_sign', 0.046018716]
+[u'suit', 0.43376538, u'Windsor_tie', 0.068556093, u'kimono', 0.031932421, u'groom', 0.030642439, u'cardigan', 0.025050208]
+[u'sax', 0.1181353, u'flute', 0.093106128, u'electric_guitar', 0.084210373, u'chain_saw', 0.073746249, u'rifle', 0.048209012]
+[u'scoreboard', 0.17729357, u'digital_clock', 0.11239509, u'digital_watch', 0.093288876, u'screen', 0.076969311, u'stopwatch', 0.048995197]
+[u'modem', 0.17072524, u'oil_filter', 0.10094648, u'face_powder', 0.08943601, u'sunscreen', 0.06964606, u'loupe', 0.055942707]
+[u'container_ship', 0.12201265, u'wreck', 0.074871898, u'stupa', 0.05189468, u'envelope', 0.04941595, u'liner', 0.047161102]

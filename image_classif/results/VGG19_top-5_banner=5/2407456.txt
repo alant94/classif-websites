@@ -1,0 +1,6 @@
+[u'vase', 0.12393317, u'Indian_cobra', 0.079339206, u'toilet_seat', 0.076403707, u'pick', 0.068067595, u'Windsor_tie', 0.050136533]
+[u'hook', 0.26016608, u'swab', 0.20254046, u'whistle', 0.11193083, u'ballpoint', 0.046300355, u'screwdriver', 0.028065905]
+[u'shower_curtain', 0.35942557, u'crib', 0.31494814, u'chime', 0.16044243, u'window_shade', 0.045178756, u'wardrobe', 0.032596387]
+[u'Windsor_tie', 0.0809322, u'vase', 0.068285048, u'pick', 0.050567508, u'toilet_seat', 0.043621171, u'shield', 0.037316397]
+[u'screw', 0.24940822, u'switch', 0.2346182, u'nail', 0.040629517, u'dumbbell', 0.04048283, u'screwdriver', 0.022611629]
+[u'vase', 0.20987357, u'Windsor_tie', 0.062614828, u'Indian_cobra', 0.059732389, u'bolo_tie', 0.017752681, u'purse', 0.017195089]

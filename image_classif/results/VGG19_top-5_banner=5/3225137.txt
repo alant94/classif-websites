@@ -1,0 +1,5 @@
+[u'envelope', 0.40671116, u'digital_clock', 0.091262847, u'Band_Aid', 0.032315582, u'jersey', 0.023309495, u'binder', 0.023102375]
+[u'street_sign', 0.1566167, u'hook', 0.089895822, u'crane', 0.073710129, u'traffic_light', 0.060082164, u'analog_clock', 0.05097957]
+[u'digital_clock', 0.10874238, u'Band_Aid', 0.057319906, u'balloon', 0.054453727, u'envelope', 0.039292265, u'beacon', 0.03866104]
+[u'digital_clock', 0.24255072, u'envelope', 0.13909474, u'container_ship', 0.13289763, u'pill_bottle', 0.033135667, u'wall_clock', 0.02677512]
+[u'digital_clock', 0.5058099, u'envelope', 0.11745664, u'Band_Aid', 0.10213038, u'jersey', 0.03559399, u'digital_watch', 0.025378803]

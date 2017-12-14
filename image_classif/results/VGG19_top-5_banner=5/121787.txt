@@ -1,0 +1,7 @@
+[u'coho', 0.25817853, u'airship', 0.095826715, u'tobacco_shop', 0.042069003, u'book_jacket', 0.041049372, u'comic_book', 0.037656646]
+[u'slot', 0.23699002, u'ping-pong_ball', 0.12832524, u'vending_machine', 0.10858641, u'pencil_sharpener', 0.071975976, u'pool_table', 0.046892151]
+[u'remote_control', 0.46010339, u'dial_telephone', 0.11428537, u'hand-held_computer', 0.094032973, u'stopwatch', 0.075447813, u'cellular_telephone', 0.059572611]
+[u'book_jacket', 0.59334528, u'comic_book', 0.13854976, u'web_site', 0.035608001, u'jersey', 0.017707834, u'cleaver', 0.015139086]
+[u'school_bus', 0.30574653, u'cab', 0.22720264, u'garbage_truck', 0.063863672, u'tobacco_shop', 0.047532924, u'barbershop', 0.043440241]
+[u'lifeboat', 0.59675306, u'drilling_platform', 0.062360484, u'snowplow', 0.046797197, u'fireboat', 0.043444861, u'crane', 0.025080491]
+[u'vending_machine', 0.30195573, u'tobacco_shop', 0.11611737, u'web_site', 0.065509595, u'medicine_chest', 0.062381949, u'oscilloscope', 0.062339902]

@@ -1,0 +1,2 @@
+[u'Saluki', 0.43631002, u'English_setter', 0.16977434, u'Ibizan_hound', 0.083159484, u'whippet', 0.075352497, u'borzoi', 0.070831962]
+[u'spatula', 0.21567029, u'paintbrush', 0.13449635, u'screwdriver', 0.075177215, u'chime', 0.074849069, u'book_jacket', 0.072379939]

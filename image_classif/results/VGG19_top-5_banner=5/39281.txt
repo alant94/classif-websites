@@ -1,0 +1,5 @@
+[u'web_site', 0.99158418, u'menu', 0.0035872473, u'envelope', 0.0016979413, u'screen', 0.00069212273, u'monitor', 0.00045862651]
+[u'web_site', 0.97252393, u'menu', 0.01938216, u'envelope', 0.0037104383, u'screen', 0.00084423489, u'packet', 0.00039489972]
+[u'web_site', 0.9362154, u'menu', 0.054236438, u'envelope', 0.002882469, u'screen', 0.001807745, u'monitor', 0.0012730092]
+[u'web_site', 0.9277463, u'hand-held_computer', 0.023645731, u'slide_rule', 0.013841583, u'oscilloscope', 0.0095745809, u'monitor', 0.0035544599]
+[u'web_site', 0.68113548, u'crossword_puzzle', 0.069613501, u'slide_rule', 0.058404494, u'oscilloscope', 0.031353541, u'monitor', 0.018306393]

@@ -1,0 +1,3 @@
+[u'binder', 0.47586435, u'envelope', 0.18641818, u'book_jacket', 0.087743357, u'solar_dish', 0.026560877, u'cassette', 0.012454234]
+[u'television', 0.25496972, u'screen', 0.21233864, u'cellular_telephone', 0.16470122, u'monitor', 0.11739254, u'hand-held_computer', 0.055748504]
+[u'screwdriver', 0.30112344, u'ballpoint', 0.17937142, u"carpenter's_kit", 0.17873859, u'chime', 0.079632334, u'letter_opener', 0.046031214]

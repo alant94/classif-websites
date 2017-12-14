@@ -1,0 +1,1 @@
+[u'web_site', 0.068605214, u'street_sign', 0.054926295, u'jersey', 0.046842217, u'hatchet', 0.019109227, u'comic_book', 0.018694256]

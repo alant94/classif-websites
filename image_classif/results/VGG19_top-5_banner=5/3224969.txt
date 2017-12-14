@@ -1,0 +1,6 @@
+[u'envelope', 0.21878485, u'web_site', 0.066958152, u'Band_Aid', 0.029838907, u'rule', 0.016199896, u'binder', 0.01183313]
+[u'menu', 0.14219928, u'brass', 0.1176856, u'screen', 0.099283315, u'cash_machine', 0.09156841, u'book_jacket', 0.077373184]
+[u"jack-o'-lantern", 0.071252137, u'theater_curtain', 0.066906244, u'oscilloscope', 0.06354396, u'freight_car', 0.055372357, u'jellyfish', 0.045300979]
+[u'letter_opener', 0.093946368, u'mousetrap', 0.085301191, u'packet', 0.047293946, u'screwdriver', 0.041064154, u'web_site', 0.03828695]
+[u'street_sign', 0.17120956, u'lighter', 0.097829439, u'book_jacket', 0.092553645, u'matchstick', 0.077341937, u'rubber_eraser', 0.070574999]
+[u'African_chameleon', 0.74599838, u'American_chameleon', 0.064528622, u'acorn', 0.023947354, u'tree_frog', 0.020587737, u'green_lizard', 0.017262848]

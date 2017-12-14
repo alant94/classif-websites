@@ -1,0 +1,6 @@
+[u'valley', 0.5772891, u'cliff', 0.14966466, u'seashore', 0.10268795, u'promontory', 0.045063823, u'sandbar', 0.032619432]
+[u'impala', 0.79120451, u'gazelle', 0.19538577, u'hartebeest', 0.0083187763, u'ibex', 0.0018482282, u'wallaby', 0.0018315765]
+[u'wallaby', 0.49189886, u'ibex', 0.11586134, u'bighorn', 0.07989528, u'warthog', 0.05722107, u'ram', 0.048918437]
+[u'sliding_door', 0.71814978, u'patio', 0.063108012, u'passenger_car', 0.029561717, u'mobile_home', 0.025760544, u'four-poster', 0.016520664]
+[u'vulture', 0.47379026, u'black_stork', 0.36794388, u'European_gallinule', 0.050351638, u'crane', 0.039348908, u'limpkin', 0.019047679]
+[u'ruffed_grouse', 0.53110605, u'partridge', 0.25711137, u'prairie_chicken', 0.087590761, u'black_grouse', 0.048943061, u'quail', 0.041148681]

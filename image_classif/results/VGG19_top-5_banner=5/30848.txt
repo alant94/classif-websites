@@ -1,0 +1,8 @@
+[u'vestment', 0.52235693, u'torch', 0.077701353, u'theater_curtain', 0.03282379, u'altar', 0.030929739, u'maypole', 0.021072546]
+[u'moving_van', 0.11109953, u'torch', 0.079373054, u'ambulance', 0.068738118, u'trailer_truck', 0.062948167, u'mailbox', 0.04763085]
+[u'web_site', 0.59559071, u'menu', 0.17265467, u'envelope', 0.13271973, u'binder', 0.0095835123, u'hand_blower', 0.0031647289]
+[u'torch', 0.31690466, u'vestment', 0.11450621, u'stage', 0.047640219, u'volleyball', 0.03183667, u'marimba', 0.027733145]
+[u'bolo_tie', 0.46634623, u'stopwatch', 0.051118687, u'digital_watch', 0.045403853, u'magnetic_compass', 0.037815586, u'buckle', 0.025076158]
+[u'torch', 0.46072054, u'bearskin', 0.12986262, u'Tibetan_mastiff', 0.066410854, u'Bernese_mountain_dog', 0.041538067, u'EntleBucher', 0.018696936]
+[u'toyshop', 0.14443596, u'grocery_store', 0.075910188, u'shopping_cart', 0.062448122, u'confectionery', 0.048578858, u'bookshop', 0.036563702]
+[u'toyshop', 0.08897981, u'torch', 0.085437074, u'Christmas_stocking', 0.056216244, u'shopping_cart', 0.047045767, u'grocery_store', 0.04118707]

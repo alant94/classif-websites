@@ -1,0 +1,6 @@
+[u'book_jacket', 0.11975776, u'tench', 0.042200368, u'mosquito_net', 0.034001622, u'stingray', 0.02930486, u'dugong', 0.025557656]
+[u'little_blue_heron', 0.084422223, u'limpkin', 0.073397048, u'American_egret', 0.072910376, u'spoonbill', 0.06436076, u'bee_eater', 0.040871017]
+[u'indigo_bunting', 0.28528848, u'goldfinch', 0.099798635, u'hummingbird', 0.082117721, u'dragonfly', 0.06626109, u'damselfly', 0.051411632]
+[u'maypole', 0.34317455, u'poncho', 0.061007235, u'unicycle', 0.048638489, u'thatch', 0.040443074, u'maze', 0.019268235]
+[u'hay', 0.35521111, u'rapeseed', 0.25404346, u'maze', 0.10667802, u'valley', 0.06778463, u'palace', 0.039589778]
+[u'laptop', 0.70188135, u'notebook', 0.19646311, u'honeycomb', 0.0093161734, u'web_site', 0.0061183721, u'hand-held_computer', 0.0041445568]

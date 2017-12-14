@@ -1,0 +1,1 @@
+[u'street_sign', 0.4185735, u'book_jacket', 0.068938181, u'pinwheel', 0.068788253, u'paddlewheel', 0.062876835, u'cinema', 0.055600487]

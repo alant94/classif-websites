@@ -1,0 +1,7 @@
+[u'necklace', 0.16337229, u'coil', 0.11210261, u'tray', 0.053029254, u'spotlight', 0.052580789, u'toilet_seat', 0.047290854]
+[u'paintbrush', 0.12118945, u'ballpoint', 0.060236093, u'chime', 0.053877853, u'screwdriver', 0.050446149, u'nail', 0.042129222]
+[u'bow', 0.26527891, u'chime', 0.21974763, u'paintbrush', 0.11320304, u'drumstick', 0.045769271, u'flute', 0.039276578]
+[u'ballpoint', 0.28378698, u'rubber_eraser', 0.080492198, u"carpenter's_kit", 0.065870121, u'matchstick', 0.053061079, u'paintbrush', 0.048216373]
+[u'soap_dispenser', 0.40251666, u'spotlight', 0.11221917, u'lampshade', 0.055298742, u'candle', 0.053590886, u'joystick', 0.051455006]
+[u'rule', 0.20685767, u'binder', 0.11179447, u'web_site', 0.10124163, u'book_jacket', 0.080684841, u'digital_clock', 0.062147055]
+[u'digital_watch', 0.34244409, u'carton', 0.099378169, u'binder', 0.06193931, u'backpack', 0.036029909, u'digital_clock', 0.028054329]

@@ -1,0 +1,2 @@
+[u'acoustic_guitar', 0.66169029, u'banjo', 0.1694065, u'electric_guitar', 0.093628086, u'stage', 0.03385007, u'pick', 0.012806262]
+[u'Band_Aid', 0.18962675, u'web_site', 0.12767372, u'pick', 0.049060144, u'nipple', 0.040710047, u'comic_book', 0.038804032]

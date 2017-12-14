@@ -1,0 +1,2 @@
+[u'valley', 0.3109954, u'promontory', 0.21389368, u'lakeside', 0.13466607, u'seashore', 0.075154595, u'cliff', 0.069149412]
+[u'monastery', 0.24217789, u'castle', 0.19403298, u'triumphal_arch', 0.11003011, u'palace', 0.077177301, u'cliff', 0.065195873]

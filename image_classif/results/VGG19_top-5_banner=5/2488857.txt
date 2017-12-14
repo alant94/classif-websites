@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.26186875, u'vending_machine', 0.26145726, u'pill_bottle', 0.059266519, u'tobacco_shop', 0.053649053, u'confectionery', 0.03637385]
+[u'platypus', 0.1187835, u'bulletproof_vest', 0.055964716, u'Sussex_spaniel', 0.04992792, u'Gordon_setter', 0.044118863, u'Norfolk_terrier', 0.02338047]
+[u'groenendael', 0.033824302, u'red_fox', 0.032129299, u'snowplow', 0.030238837, u'dishwasher', 0.026619442, u'African_elephant', 0.025367247]
+[u'fur_coat', 0.063450173, u'brassiere', 0.047914647, u'poncho', 0.046236187, u'cockroach', 0.040791858, u'maillot', 0.022418421]
+[u'jigsaw_puzzle', 0.17691356, u'hook', 0.12336095, u'corkscrew', 0.038244352, u'nematode', 0.034056164, u'pencil_sharpener', 0.033495411]

@@ -1,0 +1,4 @@
+[u'shoji', 0.08971408, u'shower_curtain', 0.055069048, u'prison', 0.050816696, u'library', 0.021572795, u'suit', 0.019552244]
+[u'military_uniform', 0.14020032, u'wig', 0.065415911, u'tench', 0.025320806, u'coho', 0.01848813, u'wool', 0.016357308]
+[u'punching_bag', 0.27188399, u'cuirass', 0.072981998, u'breastplate', 0.057633888, u'suit', 0.055165328, u'microphone', 0.03457522]
+[u'balloon', 0.74809617, u'dome', 0.018893082, u'church', 0.018583991, u'lampshade', 0.017278381, u'fountain', 0.017168945]

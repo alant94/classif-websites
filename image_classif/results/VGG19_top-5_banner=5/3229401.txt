@@ -1,0 +1,7 @@
+[u'prison', 0.26341876, u'academic_gown', 0.20790817, u'suit', 0.10358021, u'mortarboard', 0.034386143, u'vestment', 0.028417975]
+[u'drumstick', 0.11024426, u'drum', 0.10606208, u'marimba', 0.074859321, u'steel_drum', 0.061027497, u'maraca', 0.052042067]
+[u'kimono', 0.11502972, u'abaya', 0.092502698, u'beer_glass', 0.057583656, u'suit', 0.054257251, u'jean', 0.043607719]
+[u'wig', 0.15274709, u'suit', 0.13115823, u'bow_tie', 0.078516304, u'groom', 0.052404638, u'Windsor_tie', 0.021738566]
+[u'chain_saw', 0.075300701, u'shoe_shop', 0.027715202, u'apron', 0.020103285, u'pajama', 0.014957598, u'lumbermill', 0.01441236]
+[u'bakery', 0.32535475, u'menu', 0.094852634, u'confectionery', 0.074278101, u'restaurant', 0.057101641, u'crossword_puzzle', 0.056491695]
+[u'Band_Aid', 0.34273964, u'envelope', 0.14125235, u'Windsor_tie', 0.049643524, u'maraca', 0.033726059, u'rubber_eraser', 0.025916077]

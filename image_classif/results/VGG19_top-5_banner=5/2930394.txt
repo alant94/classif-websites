@@ -1,0 +1,2 @@
+[u'neck_brace', 0.08131361, u'book_jacket', 0.052856449, u'bow_tie', 0.047047157, u'bulletproof_vest', 0.044736311, u'envelope', 0.039949372]
+[u'alp', 0.35565418, u'cliff', 0.1134111, u'valley', 0.099179827, u'dogsled', 0.051793814, u'bobsled', 0.044635434]

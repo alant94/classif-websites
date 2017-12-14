@@ -1,0 +1,5 @@
+[u'forklift', 0.29046249, u'crane', 0.14993209, u'school_bus', 0.11655539, u'cab', 0.072431028, u'tow_truck', 0.051014353]
+[u'garbage_truck', 0.12535331, u'crane', 0.095769703, u'trailer_truck', 0.094167218, u'tow_truck', 0.086229444, u'tractor', 0.072971687]
+[u'crane', 0.28347233, u'jigsaw_puzzle', 0.057930414, u'half_track', 0.049210075, u'garbage_truck', 0.047173083, u'thresher', 0.035104968]
+[u'fire_engine', 0.75289243, u'tow_truck', 0.13850459, u'forklift', 0.023740534, u'garbage_truck', 0.020107713, u'crane', 0.0094941258]
+[u'dam', 0.17740619, u'freight_car', 0.090577558, u'cinema', 0.062436469, u'traffic_light', 0.047306195, u'dock', 0.032927856]

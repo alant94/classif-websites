@@ -1,0 +1,1 @@
+[u'vending_machine', 0.30625868, u'remote_control', 0.25951663, u'switch', 0.099469468, u'gas_pump', 0.046363905, u'cash_machine', 0.045087207]

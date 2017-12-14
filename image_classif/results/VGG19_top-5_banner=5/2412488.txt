@@ -1,0 +1,2 @@
+[u'hook', 0.1939441, u'safety_pin', 0.082824089, u'nail', 0.04889423, u'book_jacket', 0.025674336, u'hammer', 0.023637773]
+[u'corkscrew', 0.18203978, u'hook', 0.17777282, u'pick', 0.15434495, u'ocarina', 0.093229167, u'shield', 0.044697557]

@@ -1,0 +1,6 @@
+[u'wreck', 0.16970514, u'volcano', 0.10463559, u'tiger_shark', 0.08775267, u'jellyfish', 0.074324019, u'great_white_shark', 0.070889838]
+[u'alp', 0.17929986, u'volcano', 0.090531737, u'geyser', 0.068068437, u'lakeside', 0.059754994, u'web_site', 0.047390316]
+[u'geyser', 0.23221996, u'volcano', 0.12531032, u'killer_whale', 0.048231814, u'space_shuttle', 0.045244846, u'great_white_shark', 0.031241281]
+[u'book_jacket', 0.33778715, u'cash_machine', 0.11934749, u'screen', 0.11429459, u'monitor', 0.067277424, u'web_site', 0.057514574]
+[u'chime', 0.4938783, u'organ', 0.046780709, u'picket_fence', 0.02955183, u'ballpoint', 0.020053517, u'paintbrush', 0.01882495]
+[u'cash_machine', 0.56348604, u'web_site', 0.048651472, u'screen', 0.048288863, u'book_jacket', 0.043578822, u'television', 0.032336622]

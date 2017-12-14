@@ -1,0 +1,6 @@
+[u'candle', 0.50926852, u'hook', 0.19154917, u'paper_towel', 0.069816016, u'table_lamp', 0.027270632, u'analog_clock', 0.010814832]
+[u'envelope', 0.16435118, u'syringe', 0.067006208, u'rule', 0.039858308, u'ski', 0.038230944, u'puck', 0.024631198]
+[u'hook', 0.27718049, u'corkscrew', 0.1510299, u'cornet', 0.036355846, u'whistle', 0.032581072, u'oboe', 0.027176606]
+[u'hook', 0.33284831, u'corkscrew', 0.090606079, u'whistle', 0.065876007, u'gong', 0.053427719, u'chime', 0.034167729]
+[u'radiator', 0.9096908, u'candle', 0.062257331, u'panpipe', 0.0059726662, u'chime', 0.0025139088, u'hair_spray', 0.0015331631]
+[u'hook', 0.3828238, u'necklace', 0.12323709, u'swing', 0.057454929, u'chain', 0.054996528, u'chime', 0.054054812]

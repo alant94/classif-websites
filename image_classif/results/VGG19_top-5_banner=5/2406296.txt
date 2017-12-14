@@ -1,0 +1,1 @@
+[u'barn', 0.10198049, u'barbershop', 0.058966026, u'hog', 0.040485132, u'coyote', 0.038473547, u'picket_fence', 0.035614025]

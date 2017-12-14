@@ -1,0 +1,4 @@
+[u'bikini', 0.10647255, u'gown', 0.049820844, u'lab_coat', 0.045952756, u'chainlink_fence', 0.043744739, u'brassiere', 0.036328748]
+[u'birdhouse', 0.13052517, u'stupa', 0.078260228, u'parachute', 0.0489843, u'wall_clock', 0.047872651, u'envelope', 0.047630634]
+[u'analog_clock', 0.11838616, u'digital_clock', 0.070799388, u'spotlight', 0.062825263, u'digital_watch', 0.048771393, u'stopwatch', 0.025037589]
+[u'suit', 0.35123992, u'groom', 0.21590203, u'bow_tie', 0.13456078, u'Windsor_tie', 0.077087082, u'mortarboard', 0.027075469]

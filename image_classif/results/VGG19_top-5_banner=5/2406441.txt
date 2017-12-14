@@ -1,0 +1,4 @@
+[u'lighter', 0.062839516, u'hair_spray', 0.05341053, u'Band_Aid', 0.044384178, u'street_sign', 0.041961886, u'digital_clock', 0.041315697]
+[u'turnstile', 0.32660538, u'cash_machine', 0.30869016, u'pay-phone', 0.24291976, u'vending_machine', 0.046408053, u'gas_pump', 0.046116956]
+[u'balloon', 0.1824124, u'digital_watch', 0.12950961, u'spotlight', 0.080449551, u'pill_bottle', 0.045755025, u'toilet_seat', 0.041596368]
+[u'digital_clock', 0.30972725, u'crossword_puzzle', 0.22216843, u'quilt', 0.063050516, u'maze', 0.034394484, u'envelope', 0.026492186]

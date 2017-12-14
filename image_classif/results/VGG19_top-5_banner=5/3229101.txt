@@ -1,0 +1,6 @@
+[u'plate_rack', 0.08946728, u'hook', 0.068400443, u'hair_slide', 0.043397892, u'whistle', 0.038778476, u'nail', 0.037393808]
+[u'matchstick', 0.10734245, u'spatula', 0.048129667, u'hook', 0.03695197, u'book_jacket', 0.035374921, u'banana', 0.034573555]
+[u'altar', 0.73342544, u'grand_piano', 0.1707958, u'candle', 0.020173037, u'table_lamp', 0.017581029, u'torch', 0.011760826]
+[u'theater_curtain', 0.45185104, u'altar', 0.060452092, u'throne', 0.046865474, u'paintbrush', 0.035616569, u'wool', 0.035441529]
+[u'chime', 0.11693279, u'fountain', 0.094321787, u'altar', 0.071727395, u'confectionery', 0.070630118, u'ear', 0.041946109]
+[u'paintbrush', 0.47524896, u'altar', 0.12069776, u'fountain', 0.094180234, u'church', 0.045789212, u'picket_fence', 0.040669877]

@@ -1,0 +1,5 @@
+[u'vault', 0.26916423, u'altar', 0.046710055, u'harp', 0.035710484, u'vestment', 0.033168998, u'fire_screen', 0.03144978]
+[u'restaurant', 0.3932251, u'church', 0.13376501, u'altar', 0.12463348, u'slot', 0.065067388, u'pool_table', 0.038125895]
+[u'restaurant', 0.22758923, u'church', 0.20328389, u'bookshop', 0.16903836, u'tobacco_shop', 0.073576398, u'confectionery', 0.054093383]
+[u'church', 0.55271912, u'altar', 0.30414906, u'throne', 0.035703331, u'restaurant', 0.014373199, u'confectionery', 0.012499161]
+[u'barometer', 0.23644039, u'safe', 0.11880264, u'oscilloscope', 0.10876895, u'radio', 0.099974431, u'slide_rule', 0.052208275]

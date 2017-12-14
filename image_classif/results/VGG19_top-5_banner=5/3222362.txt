@@ -1,0 +1,2 @@
+[u'paper_towel', 0.041685861, u'lotion', 0.039598979, u'perfume', 0.037079267, u'binder', 0.037069153, u'book_jacket', 0.034798898]
+[u'hook', 0.084350847, u'envelope', 0.041681025, u'cleaver', 0.031966392, u'can_opener', 0.031200115, u'letter_opener', 0.015843578]

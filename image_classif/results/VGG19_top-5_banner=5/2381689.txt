@@ -1,0 +1,7 @@
+[u'macaw', 0.55450863, u'chain', 0.12346793, u'cowboy_boot', 0.061690792, u'thimble', 0.029644059, u'running_shoe', 0.02952297]
+[u'trailer_truck', 0.1406429, u'radiator', 0.12351023, u'moving_van', 0.069368847, u'gar', 0.0470195, u'missile', 0.035654716]
+[u'buckle', 0.20515485, u'hook', 0.11422933, u'sunglass', 0.072971672, u'hair_slide', 0.043506645, u'bib', 0.033794619]
+[u'red_wine', 0.91732955, u'wine_bottle', 0.021637583, u'punching_bag', 0.0068905265, u'cloak', 0.0043644407, u'swing', 0.0028757991]
+[u'red_wine', 0.38315105, u'wine_bottle', 0.22697876, u'goblet', 0.12377595, u'cocktail_shaker', 0.02262678, u'eggnog', 0.02253617]
+[u'sleeping_bag', 0.23100756, u'jean', 0.14189571, u'mountain_tent', 0.13979444, u'cloak', 0.028541286, u'stage', 0.024857901]
+[u'wine_bottle', 0.73240399, u'red_wine', 0.26430616, u'beer_bottle', 0.0032148466, u'corkscrew', 3.5688423e-05, u'pop_bottle', 7.0361111e-06]

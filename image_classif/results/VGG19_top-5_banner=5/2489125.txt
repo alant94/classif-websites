@@ -1,0 +1,5 @@
+[u'prayer_rug', 0.1789899, u'window_screen', 0.08183185, u'book_jacket', 0.076513544, u'doormat', 0.061218131, u'envelope', 0.0419541]
+[u'stretcher', 0.24772294, u'guillotine', 0.10585995, u'studio_couch', 0.075708605, u'printer', 0.059708059, u'paper_towel', 0.045354519]
+[u'toilet_seat', 0.22886714, u'pick', 0.18419848, u'loupe', 0.12632279, u'puck', 0.060203623, u'shield', 0.033518352]
+[u'panpipe', 0.17024189, u'matchstick', 0.14407493, u'web_site', 0.030533899, u'theater_curtain', 0.025234276, u'marimba', 0.02091269]
+[u'book_jacket', 0.28813761, u'shower_cap', 0.17508827, u'web_site', 0.084940068, u'monitor', 0.065816022, u'screen', 0.026015477]

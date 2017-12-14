@@ -1,0 +1,2 @@
+[u'seashore', 0.20987922, u'sandbar', 0.20601127, u'red-backed_sandpiper', 0.0410049, u'speedboat', 0.039942931, u'wing', 0.031921614]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

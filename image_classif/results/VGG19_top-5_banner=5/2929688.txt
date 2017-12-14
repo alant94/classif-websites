@@ -1,0 +1,2 @@
+[u'restaurant', 0.19781683, u'harp', 0.15639782, u'bassoon', 0.065132618, u'folding_chair', 0.057712026, u'library', 0.051060144]
+[u'folding_chair', 0.1533812, u'mosquito_net', 0.074260086, u'cradle', 0.051934108, u'grand_piano', 0.039915852, u'crib', 0.038222041]

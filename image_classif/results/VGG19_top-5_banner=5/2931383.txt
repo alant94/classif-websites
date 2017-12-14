@@ -1,0 +1,4 @@
+[u'chime', 0.2453063, u'wardrobe', 0.18407002, u'sliding_door', 0.073197156, u'window_shade', 0.049823742, u'crib', 0.037479583]
+[u'wardrobe', 0.2839976, u'shower_curtain', 0.25400585, u'window_shade', 0.098896064, u'sliding_door', 0.093851939, u'crib', 0.048230786]
+[u'bell_cote', 0.38517147, u'church', 0.12835382, u'street_sign', 0.072654694, u'analog_clock', 0.041947275, u'scoreboard', 0.037219565]
+[u'spotlight', 0.15496558, u'space_shuttle', 0.068225183, u'flagpole', 0.063268207, u'lighter', 0.062814891, u'lampshade', 0.043301973]

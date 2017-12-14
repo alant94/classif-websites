@@ -1,0 +1,4 @@
+[u'water_tower', 0.095346831, u'viaduct', 0.066655651, u'pier', 0.037527721, u'geyser', 0.037058104, u'pedestal', 0.035226841]
+[u'fountain', 0.51693547, u'scuba_diver', 0.19511665, u'scorpion', 0.036917418, u'lionfish', 0.029190898, u'American_alligator', 0.026922965]
+[u'brass', 0.057058182, u'mask', 0.045686852, u'bobsled', 0.02952772, u'packet', 0.025057653, u'beer_bottle', 0.024427418]
+[u'matchstick', 0.18330927, u'torch', 0.053355783, u'red_wine', 0.048456799, u'harp', 0.033456706, u'bow', 0.027821293]

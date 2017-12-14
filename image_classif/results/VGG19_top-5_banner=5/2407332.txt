@@ -1,0 +1,4 @@
+[u'church', 0.14528067, u'lakeside', 0.11546544, u'picket_fence', 0.10493495, u'fountain', 0.10142671, u'mobile_home', 0.07448706]
+[u'lab_coat', 0.28000057, u'jean', 0.1131761, u'bow', 0.10063528, u'vestment', 0.072366007, u'butcher_shop', 0.056361925]
+[u'digital_clock', 0.57242751, u'maze', 0.066449471, u'digital_watch', 0.057631414, u'envelope', 0.054345068, u'tray', 0.043983039]
+[u'picket_fence', 0.19648212, u'dogsled', 0.10724174, u'birdhouse', 0.097627118, u'ski', 0.049616531, u'Eskimo_dog', 0.04661357]

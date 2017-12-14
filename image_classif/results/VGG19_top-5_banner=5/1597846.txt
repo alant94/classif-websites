@@ -1,0 +1,5 @@
+[u'book_jacket', 0.76853794, u'brass', 0.068185471, u'menu', 0.030740198, u'barrel', 0.019491436, u'cash_machine', 0.017019616]
+[u'book_jacket', 0.31616506, u'cash_machine', 0.1242313, u'scoreboard', 0.087272041, u'brass', 0.036412328, u'safe', 0.032985821]
+[u'digital_clock', 0.33840257, u'envelope', 0.13406008, u'digital_watch', 0.056062259, u'scoreboard', 0.044204127, u'book_jacket', 0.032072816]
+[u'saltshaker', 0.071799852, u'candle', 0.064007908, u'space_shuttle', 0.06070336, u'nipple', 0.047632709, u'Band_Aid', 0.046770047]
+[u'puck', 0.24375902, u'bottlecap', 0.20633985, u'digital_clock', 0.13236654, u'face_powder', 0.087224349, u'digital_watch', 0.028025977]

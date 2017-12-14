@@ -1,0 +1,3 @@
+[u'shoe_shop', 0.56001502, u'comic_book', 0.14144106, u'sandal', 0.09243425, u'running_shoe', 0.068164155, u'clog', 0.027862262]
+[u'candle', 0.17638931, u'organ', 0.13294351, u'picket_fence', 0.10607059, u'paintbrush', 0.090453245, u'rubber_eraser', 0.038402081]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

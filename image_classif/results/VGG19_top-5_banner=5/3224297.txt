@@ -1,0 +1,6 @@
+[u'dining_table', 0.1640144, u'shoe_shop', 0.15962464, u'restaurant', 0.099493518, u'butcher_shop', 0.096841022, u'library', 0.066679455]
+[u'groom', 0.20541991, u'vestment', 0.15291448, u'cloak', 0.08644028, u'stole', 0.062207866, u'overskirt', 0.059132759]
+[u'Windsor_tie', 0.56670845, u'lab_coat', 0.19552653, u'vestment', 0.079722799, u'suit', 0.033214111, u'bolo_tie', 0.022751654]
+[u'bow_tie', 0.11040375, u'neck_brace', 0.032188561, u'sunglasses', 0.032118924, u'Windsor_tie', 0.030212197, u'stole', 0.027443221]
+[u'balloon', 0.55505735, u'croquet_ball', 0.43322957, u'ping-pong_ball', 0.0059152413, u'maraca', 0.00075953733, u'parachute', 0.00066567532]
+[u'lab_coat', 0.94947749, u'Windsor_tie', 0.016455924, u'vestment', 0.013699153, u'stethoscope', 0.0070974426, u'bow_tie', 0.0028346388]

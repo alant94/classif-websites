@@ -1,0 +1,8 @@
+[u'gas_pump', 0.076461777, u'wardrobe', 0.071756512, u'bookshop', 0.05644593, u'sliding_door', 0.05008423, u'vending_machine', 0.048861384]
+[u'wardrobe', 0.91143519, u'iron', 0.03636327, u'quill', 0.014618796, u'bow', 0.0079541299, u'vacuum', 0.0039469041]
+[u'sliding_door', 0.14988977, u'wardrobe', 0.12895854, u'barbershop', 0.048153002, u'swab', 0.035348441, u'shoe_shop', 0.028030496]
+[u'cleaver', 0.13097581, u'sliding_door', 0.068507276, u'butcher_shop', 0.02892256, u'torch', 0.024995407, u'picket_fence', 0.021247249]
+[u'chime', 0.76245689, u'screwdriver', 0.029229406, u'bow', 0.02611045, u'hammer', 0.022205155, u"carpenter's_kit", 0.022061473]
+[u'nail', 0.102636, u'hook', 0.081528507, u'street_sign', 0.078840688, u'shovel', 0.045213774, u'hatchet', 0.040334046]
+[u'screw', 0.33925763, u'nail', 0.087946773, u'rule', 0.033052523, u'lighter', 0.031360481, u'trilobite', 0.029858528]
+[u'vending_machine', 0.70034093, u'cash_machine', 0.16745655, u'barbershop', 0.017520489, u'bakery', 0.015387654, u'bookshop', 0.010477419]

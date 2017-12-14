@@ -1,0 +1,3 @@
+[u'admiral', 0.18098877, u'ladybug', 0.10408089, u'ant', 0.059471495, u'cockroach', 0.053728379, u'sulphur_butterfly', 0.045398433]
+[u'prison', 0.84091473, u'library', 0.025494052, u'passenger_car', 0.017421946, u'vault', 0.017341733, u'church', 0.011681838]
+[u'valley', 0.3712211, u'cliff', 0.31775394, u'alp', 0.16288269, u'castle', 0.070575535, u'monastery', 0.011141387]

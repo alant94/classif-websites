@@ -1,0 +1,4 @@
+[u'prison', 0.20356208, u'fountain', 0.061101042, u'breastplate', 0.022640992, u'Boston_bull', 0.017989766, u'miniskirt', 0.017809724]
+[u'bathtub', 0.22943023, u'tub', 0.16243474, u'tick', 0.073416583, u'butternut_squash', 0.069864579, u'ice_lolly', 0.024026282]
+[u'barbershop', 0.12881777, u'hog', 0.11233082, u'harmonica', 0.044376694, u'Band_Aid', 0.036345363, u'bow_tie', 0.03150579]
+[u'diaper', 0.28169462, u'brassiere', 0.22671136, u'bikini', 0.099121004, u'maillot', 0.036770348, u'bath_towel', 0.032232385]

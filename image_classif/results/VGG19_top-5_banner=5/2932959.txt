@@ -1,0 +1,8 @@
+[u'jellyfish', 0.3914091, u'scuba_diver', 0.025603443, u'screen', 0.025229478, u'space_shuttle', 0.022029007, u'monitor', 0.019093746]
+[u'monitor', 0.10000576, u'screen', 0.091112785, u'web_site', 0.060874019, u'television', 0.058155071, u'digital_clock', 0.051066741]
+[u'fountain_pen', 0.71603596, u'syringe', 0.082943164, u'ballpoint', 0.053925324, u'rubber_eraser', 0.039505925, u'quill', 0.022101318]
+[u'groom', 0.39815846, u'gown', 0.051663499, u'ear', 0.028770607, u'jackfruit', 0.027196269, u'ice_lolly', 0.023226149]
+[u'web_site', 0.07494019, u'book_jacket', 0.073872305, u'digital_clock', 0.064160712, u'analog_clock', 0.030197367, u'scale', 0.026304172]
+[u'hook', 0.1202822, u'bow', 0.10301394, u'shovel', 0.043800905, u'letter_opener', 0.042180303, u'hatchet', 0.031521797]
+[u'harp', 0.25660971, u'crib', 0.1127395, u'shower_curtain', 0.063071758, u'window_shade', 0.061355352, u'carousel', 0.050254796]
+[u'envelope', 0.28930667, u'book_jacket', 0.084808715, u'web_site', 0.081479207, u'binder', 0.075246468, u'cash_machine', 0.034860671]

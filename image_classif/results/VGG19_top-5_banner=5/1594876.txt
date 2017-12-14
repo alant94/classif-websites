@@ -1,0 +1,8 @@
+[u'speedboat', 0.48154831, u'lifeboat', 0.064627834, u'sandbar', 0.04408095, u'seashore', 0.036115862, u'liner', 0.032249421]
+[u'saltshaker', 0.22566862, u'perfume', 0.08183042, u'pedestal', 0.072171792, u'conch', 0.071695141, u'breastplate', 0.070869476]
+[u'saltshaker', 0.22442046, u'perfume', 0.081882507, u'conch', 0.072112709, u'pedestal', 0.071919993, u'breastplate', 0.07076785]
+[u"potter's_wheel", 0.11350895, u'bathing_cap', 0.082301043, u'diaper', 0.079738028, u'bikini', 0.045888431, u'balance_beam', 0.0401012]
+[u'Band_Aid', 0.097729102, u'carton', 0.067248635, u'balance_beam', 0.040165819, u'cash_machine', 0.035035186, u'diaper', 0.024170555]
+[u'goblet', 0.13764472, u'vase', 0.093638182, u'shower_cap', 0.092494234, u'piggy_bank', 0.085346721, u'pitcher', 0.075126961]
+[u'dogsled', 0.52728021, u'Eskimo_dog', 0.18774435, u'Siberian_husky', 0.060224611, u'German_shepherd', 0.029420912, u'malamute', 0.018758656]
+[u'teapot', 0.40018573, u'piggy_bank', 0.14659931, u'whiskey_jug', 0.051432639, u'pitcher', 0.046513401, u'butternut_squash', 0.038588259]

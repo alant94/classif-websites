@@ -1,0 +1,1 @@
+[u"potter's_wheel", 0.56413943, u'plunger', 0.045825537, u'toilet_tissue', 0.03180768, u'washer', 0.022268472, u'toilet_seat', 0.021253254]

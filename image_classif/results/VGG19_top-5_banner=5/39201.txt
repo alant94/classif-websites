@@ -1,0 +1,3 @@
+[u'switch', 0.18547063, u'digital_clock', 0.16067502, u'wall_clock', 0.095622085, u'combination_lock', 0.058245882, u'analog_clock', 0.05192716]
+[u'digital_clock', 0.18889201, u'switch', 0.10680167, u'wall_clock', 0.092144161, u'analog_clock', 0.060396802, u'cinema', 0.033646178]
+[u'Great_Dane', 0.20064348, u'English_setter', 0.1632096, u'Labrador_retriever', 0.089028805, u'boxer', 0.06658227, u'dishwasher', 0.066349894]

@@ -1,0 +1,5 @@
+[u'jigsaw_puzzle', 0.43042421, u'solar_dish', 0.25639597, u'wall_clock', 0.043287665, u'container_ship', 0.024620315, u'dome', 0.018386303]
+[u'bassoon', 0.89859837, u'oboe', 0.084392279, u'flute', 0.013824305, u'sax', 0.00092187565, u'trombone', 0.00055087934]
+[u'corkscrew', 0.15665701, u'hook', 0.098185398, u'envelope', 0.083381131, u'web_site', 0.024419123, u'quill', 0.023343395]
+[u'oboe', 0.81988955, u'bassoon', 0.080258004, u'flute', 0.065172806, u'sax', 0.014753662, u'cornet', 0.0056972019]
+[u'bassoon', 0.92121512, u'flute', 0.040683419, u'oboe', 0.035179865, u'drumstick', 0.00055302744, u'rifle', 0.00048101865]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.17843166, u'web_site', 0.09522251, u'hair_spray', 0.060679205, u'digital_clock', 0.039943781, u'analog_clock', 0.02130031]

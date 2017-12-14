@@ -1,0 +1,4 @@
+[u'matchstick', 0.22517075, u'picket_fence', 0.14240909, u'nail', 0.056384455, u'candle', 0.055212311, u'syringe', 0.035678696]
+[u'church', 0.88109577, u'bell_cote', 0.07199882, u'monastery', 0.018427962, u'mosque', 0.008469319, u'castle', 0.0063882293]
+[u'matchstick', 0.62474465, u'rubber_eraser', 0.067825064, u'envelope', 0.035670806, u'candle', 0.026320269, u'rule', 0.020226192]
+[u'crutch', 0.1905181, u'ski', 0.086529829, u'bow', 0.07250683, u'matchstick', 0.067363061, u'folding_chair', 0.049549215]

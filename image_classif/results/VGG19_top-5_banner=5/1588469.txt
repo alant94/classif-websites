@@ -1,0 +1,1 @@
+[u'fountain', 0.16848817, u'oscilloscope', 0.13616893, u'window_shade', 0.073687099, u'window_screen', 0.050316919, u'television', 0.033538584]

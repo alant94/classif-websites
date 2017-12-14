@@ -1,0 +1,5 @@
+[u'digital_clock', 0.14561376, u'monitor', 0.044069067, u'pool_table', 0.026734965, u'wall_clock', 0.026301632, u'container_ship', 0.022023043]
+[u'tray', 0.13365312, u'rubber_eraser', 0.05124772, u'abacus', 0.049160358, u'quilt', 0.045930363, u'thimble', 0.035491724]
+[u'dhole', 0.059455857, u'worm_fence', 0.05701663, u'picket_fence', 0.044273283, u'red_fox', 0.041683719, u'wallaby', 0.040032078]
+[u'medicine_chest', 0.10436624, u'sliding_door', 0.063068576, u'picket_fence', 0.057787951, u'book_jacket', 0.051995248, u'prison', 0.028963583]
+[u'digital_clock', 0.10035995, u'container_ship', 0.037187066, u'monitor', 0.033807244, u'crane', 0.031255115, u'pool_table', 0.024454974]

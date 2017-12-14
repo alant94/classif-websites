@@ -1,0 +1,3 @@
+[u'swab', 0.13427475, u"carpenter's_kit", 0.097965539, u'paintbrush', 0.061145455, u'hook', 0.05771688, u'ballpoint', 0.042068064]
+[u'cliff_dwelling', 0.67300826, u'cliff', 0.31728929, u'valley', 0.002324302, u'monastery', 0.0010542328, u'castle', 0.0010391433]
+[u'wardrobe', 0.35291895, u'ski', 0.18969643, u'picket_fence', 0.12806903, u'cleaver', 0.064130373, u'swab', 0.039777435]

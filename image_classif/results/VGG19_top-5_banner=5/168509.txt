@@ -1,0 +1,5 @@
+[u'wing', 0.058655746, u'American_egret', 0.041068569, u'killer_whale', 0.033335585, u'seashore', 0.018682545, u'speedboat', 0.01841115]
+[u'book_jacket', 0.056062851, u'comic_book', 0.045716055, u'racket', 0.024794331, u'sunglasses', 0.017788731, u'jersey', 0.013103441]
+[u'monitor', 0.45173943, u'web_site', 0.25828499, u'screen', 0.11324072, u'desktop_computer', 0.056757271, u'television', 0.03596523]
+[u'menu', 0.90891534, u'laptop', 0.016009951, u'envelope', 0.011589415, u'notebook', 0.0081586288, u'binder', 0.0039726528]
+[u'letter_opener', 0.19846654, u'rule', 0.10470457, u'web_site', 0.083673835, u'screwdriver', 0.081842162, u'matchstick', 0.058027197]

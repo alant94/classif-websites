@@ -1,0 +1,1 @@
+[u'triceratops', 0.39621502, u'water_buffalo', 0.070127949, u'Indian_elephant', 0.053111151, u'chain_saw', 0.035847634, u'African_elephant', 0.031793278]

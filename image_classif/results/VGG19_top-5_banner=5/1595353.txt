@@ -1,0 +1,2 @@
+[u'pick', 0.07382293, u'mask', 0.057493739, u'wallet', 0.029851761, u'face_powder', 0.028585045, u'sunglass', 0.025996737]
+[u'web_site', 0.87572604, u'oscilloscope', 0.018446477, u'envelope', 0.016383385, u'monitor', 0.010229968, u'menu', 0.0090301074]

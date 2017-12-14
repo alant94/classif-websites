@@ -1,0 +1,2 @@
+[u'worm_fence', 0.12004118, u'picket_fence', 0.11610328, u'paintbrush', 0.10288054, u'shoe_shop', 0.083048098, u'theater_curtain', 0.070934273]
+[u'book_jacket', 0.17318021, u'comic_book', 0.054598309, u'panpipe', 0.052479971, u'mailbag', 0.037886973, u'safety_pin', 0.037590038]

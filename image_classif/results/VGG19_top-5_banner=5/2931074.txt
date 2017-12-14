@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.41197595, u'torch', 0.12757796, u'abaya', 0.10067993, u'butcher_shop', 0.060219668, u'stage', 0.050358664]
+[u'refrigerator', 0.82952517, u'medicine_chest', 0.057515472, u'plate_rack', 0.043132473, u'tray', 0.016274601, u'wardrobe', 0.0095120762]

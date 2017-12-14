@@ -1,0 +1,5 @@
+[u'fountain', 0.89225286, u'parachute', 0.014615713, u'geyser', 0.0076315952, u'torch', 0.0060884752, u'paintbrush', 0.005309232]
+[u'German_short-haired_pointer', 0.29024747, u'Walker_hound', 0.22412464, u'English_foxhound', 0.15299882, u'vizsla', 0.072820924, u'hartebeest', 0.072377339]
+[u'cock', 0.20316878, u'fur_coat', 0.11221555, u'vulture', 0.090440378, u'wool', 0.070581391, u'African_hunting_dog', 0.058042947]
+[u'pole', 0.39110467, u'worm_fence', 0.11803485, u'cowboy_boot', 0.065574169, u'hook', 0.035847619, u'plow', 0.033155873]
+[u'pole', 0.6372506, u'knot', 0.11509877, u'maypole', 0.062060874, u'swab', 0.031146999, u'ear', 0.023701018]

@@ -1,0 +1,5 @@
+[u'toyshop', 0.13793461, u'comic_book', 0.10891804, u'vacuum', 0.070450984, u'monitor', 0.058024283, u'laptop', 0.052104425]
+[u'digital_clock', 0.23206247, u'picket_fence', 0.18668149, u'whistle', 0.083537154, u'candle', 0.059675522, u'maze', 0.029920354]
+[u'stage', 0.12895702, u'ocarina', 0.078320697, u'microphone', 0.064881578, u'comic_book', 0.060637441, u'harmonica', 0.028837962]
+[u'book_jacket', 0.13641736, u'street_sign', 0.10897622, u'digital_clock', 0.077634148, u'scoreboard', 0.036915097, u'comic_book', 0.036798034]
+[u'digital_clock', 0.1229267, u'lighter', 0.071248673, u'stopwatch', 0.049769625, u'television', 0.035359431, u'cellular_telephone', 0.034405194]

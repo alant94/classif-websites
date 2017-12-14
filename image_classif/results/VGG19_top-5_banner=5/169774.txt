@@ -1,0 +1,2 @@
+[u'lampshade', 0.18902515, u'spotlight', 0.12482664, u'digital_clock', 0.092268623, u'iPod', 0.042881403, u'cup', 0.035236865]
+[u'digital_clock', 0.47018972, u'maze', 0.04121678, u'digital_watch', 0.029133664, u'Band_Aid', 0.027510114, u'knee_pad', 0.022779329]

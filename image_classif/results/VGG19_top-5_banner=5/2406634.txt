@@ -1,0 +1,3 @@
+[u'web_site', 0.14690454, u'tobacco_shop', 0.10161632, u'matchstick', 0.060769428, u'digital_clock', 0.054766394, u'hair_spray', 0.037852455]
+[u'web_site', 0.99969351, u'monitor', 0.00014569012, u'screen', 7.7940145e-05, u'envelope', 1.9309025e-05, u'analog_clock', 1.6426911e-05]
+[u'web_site', 0.98721004, u'envelope', 0.0051644207, u'screen', 0.0016185718, u'analog_clock', 0.0012108781, u'rule', 0.00063547178]

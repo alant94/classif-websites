@@ -1,0 +1,7 @@
+[u'library', 0.1221567, u'cinema', 0.09249416, u'obelisk', 0.082562082, u'bell_cote', 0.061468989, u'palace', 0.049469076]
+[u'flagpole', 0.20486656, u'crane', 0.20184395, u'bell_cote', 0.13161735, u'solar_dish', 0.06131753, u'traffic_light', 0.042579263]
+[u'patio', 0.15480241, u'sundial', 0.052124035, u'planetarium', 0.050991394, u'lakeside', 0.042291895, u'palace', 0.03920193]
+[u'cinema', 0.17960978, u'bell_cote', 0.082030758, u'fountain', 0.05129189, u'obelisk', 0.043832611, u'pier', 0.042458244]
+[u'bell_cote', 0.39447844, u'traffic_light', 0.19126883, u'flagpole', 0.049194235, u'crane', 0.047242589, u'solar_dish', 0.04678509]
+[u'cinema', 0.56147557, u'fountain', 0.082569867, u'church', 0.058893979, u'bell_cote', 0.040794745, u'palace', 0.040534217]
+[u'airship', 0.16291009, u'breakwater', 0.079375595, u'flagpole', 0.052064873, u'fireboat', 0.045645338, u'lakeside', 0.044408251]

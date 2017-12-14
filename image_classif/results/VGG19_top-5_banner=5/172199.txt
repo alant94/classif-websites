@@ -1,0 +1,7 @@
+[u'odometer', 0.29994351, u'digital_clock', 0.21910144, u'stopwatch', 0.1899153, u'analog_clock', 0.15125678, u'magnetic_compass', 0.037860639]
+[u'fountain', 0.15776508, u'fire_screen', 0.13192108, u'matchstick', 0.10158338, u'candle', 0.098890074, u'hook', 0.081387162]
+[u'bottlecap', 0.1645879, u'puck', 0.11155687, u'perfume', 0.070352197, u'football_helmet', 0.054969341, u'punching_bag', 0.052689601]
+[u'vending_machine', 0.87340355, u'web_site', 0.06197609, u'menu', 0.0080121942, u'cash_machine', 0.0069182562, u'screen', 0.0065436484]
+[u'ballpoint', 0.31062612, u'rubber_eraser', 0.26901019, u'fountain_pen', 0.094666883, u'drumstick', 0.066155359, u'pencil_sharpener', 0.034857966]
+[u'menu', 0.097515315, u'web_site', 0.069040485, u'hand-held_computer', 0.064702801, u'remote_control', 0.062067498, u'crossword_puzzle', 0.041745022]
+[u'web_site', 0.20974775, u'hand-held_computer', 0.10149787, u'screen', 0.084250361, u'stopwatch', 0.083040349, u'digital_clock', 0.049844027]

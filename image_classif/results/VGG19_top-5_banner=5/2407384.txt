@@ -1,0 +1,5 @@
+[u'wall_clock', 0.086817332, u'screw', 0.036181808, u'switch', 0.023203917, u'envelope', 0.023017095, u'pick', 0.020762736]
+[u'screw', 0.1341397, u'ballpoint', 0.098385952, u'wall_clock', 0.074095547, u'syringe', 0.041440386, u'fountain_pen', 0.039711259]
+[u'ballpoint', 0.10515068, u'screw', 0.06101153, u'fountain_pen', 0.040043909, u'wall_clock', 0.037770674, u'syringe', 0.030717095]
+[u'washer', 0.38011727, u'wall_clock', 0.080200411, u'wardrobe', 0.059694085, u'analog_clock', 0.05001479, u'plate_rack', 0.041919526]
+[u'wall_clock', 0.13065973, u'switch', 0.069583185, u'safe', 0.06346228, u'washer', 0.058850955, u'envelope', 0.025935732]

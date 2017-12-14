@@ -1,0 +1,6 @@
+[u'web_site', 0.046656944, u'comic_book', 0.045743193, u'jigsaw_puzzle', 0.045038737, u'toyshop', 0.030393917, u'bookcase', 0.024784373]
+[u'impala', 0.85486507, u'hartebeest', 0.077004656, u'gazelle', 0.065002553, u'ibex', 0.0023903353, u'zebra', 0.00022245057]
+[u'picket_fence', 0.090755142, u'book_jacket', 0.080260687, u'prison', 0.071201995, u'analog_clock', 0.03860328, u'hook', 0.038073428]
+[u'monastery', 0.21019997, u'castle', 0.16470863, u'boathouse', 0.077198483, u'church', 0.073609374, u'barn', 0.067477196]
+[u'impala', 0.18505223, u'coyote', 0.12036343, u'ibex', 0.1115871, u'bighorn', 0.10698506, u'wallaby', 0.088412009]
+[u'impala', 0.96740693, u'gazelle', 0.02926508, u'hartebeest', 0.0031652255, u'red_wolf', 4.3409349e-05, u'coyote', 2.4843048e-05]

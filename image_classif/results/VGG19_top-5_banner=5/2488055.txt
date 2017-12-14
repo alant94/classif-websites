@@ -1,0 +1,2 @@
+[u'digital_clock', 0.37192416, u'binder', 0.13377425, u'envelope', 0.12949966, u'analog_clock', 0.038036808, u'lighter', 0.032218035]
+[u'digital_clock', 0.12035734, u'binder', 0.07927987, u'switch', 0.071991272, u'lighter', 0.066035382, u'envelope', 0.030785792]

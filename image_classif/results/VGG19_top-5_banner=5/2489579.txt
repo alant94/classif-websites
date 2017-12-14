@@ -1,0 +1,1 @@
+[u'boathouse', 0.74249232, u'mobile_home', 0.037898012, u'lumbermill', 0.027275262, u'forklift', 0.023604413, u'library', 0.019734444]

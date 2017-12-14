@@ -1,0 +1,4 @@
+[u'bonnet', 0.095876038, u'studio_couch', 0.066784114, u'rocking_chair', 0.065172829, u'pajama', 0.064589158, u'pillow', 0.050536953]
+[u'bikini', 0.29515165, u'brassiere', 0.20137598, u'bath_towel', 0.14154673, u'maillot', 0.11447661, u'sarong', 0.034987759]
+[u'brassiere', 0.069114655, u'sunglass', 0.058940049, u'stole', 0.05812034, u'sunglasses', 0.056013178, u'lipstick', 0.036875352]
+[u'lab_coat', 0.31338111, u'gown', 0.069630377, u'wig', 0.047372527, u'bonnet', 0.034147795, u'stole', 0.022982573]

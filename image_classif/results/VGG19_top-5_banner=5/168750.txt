@@ -1,0 +1,2 @@
+[u'church', 0.40455562, u'palace', 0.17019007, u'castle', 0.049644798, u'picket_fence', 0.042728957, u'monastery', 0.041893117]
+[u'web_site', 0.4470205, u'envelope', 0.26968673, u'digital_clock', 0.097842246, u'rule', 0.010144569, u'analog_clock', 0.0084808869]

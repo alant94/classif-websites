@@ -1,0 +1,4 @@
+[u'dishwasher', 0.27891618, u'mousetrap', 0.16329503, u'rotisserie', 0.081862748, u'stove', 0.069846049, u'plate_rack', 0.068117999]
+[u'volleyball', 0.21233408, u'basketball', 0.21015272, u'balance_beam', 0.12256393, u'butcher_shop', 0.06287127, u'king_crab', 0.049635693]
+[u'switch', 0.097660974, u'espresso_maker', 0.062014788, u'wall_clock', 0.058835376, u'tobacco_shop', 0.049663428, u'perfume', 0.040116809]
+[u'container_ship', 0.71436816, u'tobacco_shop', 0.091558225, u'bookshop', 0.032981731, u'grocery_store', 0.026015958, u'library', 0.014562327]

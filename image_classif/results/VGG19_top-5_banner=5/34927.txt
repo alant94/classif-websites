@@ -1,0 +1,2 @@
+[u'racer', 0.22574674, u'jeep', 0.087374672, u'minibus', 0.085631512, u'sports_car', 0.052261073, u'breakwater', 0.034353707]
+[u'ski', 0.30690372, u'scuba_diver', 0.2531037, u'stage', 0.081308283, u'snowmobile', 0.030278509, u'tiger_shark', 0.024264911]

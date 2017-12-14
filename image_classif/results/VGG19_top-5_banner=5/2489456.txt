@@ -1,0 +1,2 @@
+[u'Cardigan', 0.16173045, u'basenji', 0.10745189, u'EntleBucher', 0.075051434, u'basset', 0.07183785, u'Greater_Swiss_Mountain_dog', 0.067441598]
+[u'whippet', 0.32473853, u'Saluki', 0.10309658, u'Italian_greyhound', 0.09505567, u'borzoi', 0.086750716, u'Ibizan_hound', 0.078862935]

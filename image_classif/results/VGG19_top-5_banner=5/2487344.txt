@@ -1,0 +1,2 @@
+[u'holster', 0.82442552, u'cuirass', 0.028185682, u'clog', 0.022230806, u'scabbard', 0.020125063, u'cowboy_boot', 0.018018978]
+[u'ear', 0.25052309, u'bee_eater', 0.12794425, u'kite', 0.043957941, u'corn', 0.042284742, u'bald_eagle', 0.031605151]

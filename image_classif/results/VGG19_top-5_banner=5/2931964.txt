@@ -1,0 +1,1 @@
+[u'book_jacket', 0.36891022, u'picket_fence', 0.24640922, u'rule', 0.045106877, u'matchstick', 0.036408536, u'oscilloscope', 0.035370655]

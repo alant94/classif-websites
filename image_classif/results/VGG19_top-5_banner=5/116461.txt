@@ -1,0 +1,6 @@
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]
+[u'sulphur_butterfly', 0.32691959, u'cabbage_butterfly', 0.13064587, u'lycaenid', 0.12711596, u'hummingbird', 0.087347202, u'bee', 0.054520849]
+[u'jacamar', 0.38500085, u'bee_eater', 0.31077951, u'hummingbird', 0.043180328, u'proboscis_monkey', 0.022893665, u'indigo_bunting', 0.019040646]
+[u'web_site', 0.25383094, u'envelope', 0.24424306, u'menu', 0.09382274, u'crossword_puzzle', 0.084153585, u'laptop', 0.080072559]
+[u'rock_beauty', 0.44582096, u'airship', 0.2579301, u'tench', 0.079399392, u'axolotl', 0.037206721, u'eel', 0.034504905]
+[u'crossword_puzzle', 0.93751723, u'maze', 0.0094263097, u'quilt', 0.0041732648, u'shower_curtain', 0.004120593, u'Windsor_tie', 0.0031613426]

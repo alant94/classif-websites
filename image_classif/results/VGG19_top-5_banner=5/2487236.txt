@@ -1,0 +1,1 @@
+[u'spotlight', 0.10416054, u'matchstick', 0.077613138, u'microphone', 0.059225541, u'iron', 0.026873296, u'safety_pin', 0.025184974]

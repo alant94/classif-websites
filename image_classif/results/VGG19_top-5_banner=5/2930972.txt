@@ -1,0 +1,2 @@
+[u'fountain', 0.17023194, u'lampshade', 0.12718523, u'chime', 0.082882412, u'table_lamp', 0.067593195, u'book_jacket', 0.03893286]
+[u'seat_belt', 0.15380897, u'bow_tie', 0.1045871, u'suit', 0.097318366, u'jersey', 0.028726693, u'sweatshirt', 0.025588736]

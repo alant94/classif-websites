@@ -1,0 +1,4 @@
+[u'cleaver', 0.10543787, u'hook', 0.099621482, u'wardrobe', 0.08190421, u'picket_fence', 0.050394002, u'nail', 0.043451708]
+[u'sunglass', 0.54033649, u'corkscrew', 0.22937924, u'sunglasses', 0.076432884, u'can_opener', 0.029153289, u'rhinoceros_beetle', 0.023193739]
+[u'comic_book', 0.72174329, u'book_jacket', 0.1765932, u'web_site', 0.053189825, u'bulletproof_vest', 0.0047489386, u'bow', 0.0029542746]
+[u'crane', 0.10971843, u'boathouse', 0.082663104, u'harvester', 0.077395372, u'amphibian', 0.076370351, u'lakeside', 0.064678095]

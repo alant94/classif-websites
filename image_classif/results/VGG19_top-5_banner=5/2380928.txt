@@ -1,0 +1,5 @@
+[u'red_wine', 0.63588232, u'wine_bottle', 0.24845646, u'whiskey_jug', 0.031017469, u'corkscrew', 0.020149583, u'chocolate_sauce', 0.016649736]
+[u'scale', 0.2314267, u'analog_clock', 0.15067756, u'bow', 0.12459105, u'racket', 0.063031375, u'loupe', 0.0561352]
+[u'picket_fence', 0.21842061, u'bell_cote', 0.15262415, u'obelisk', 0.078591682, u'triumphal_arch', 0.05100603, u'chime', 0.041431695]
+[u'red_wine', 0.74085677, u'wine_bottle', 0.24894857, u'corkscrew', 0.0038866994, u'hamper', 0.0018375233, u'chocolate_sauce', 0.0016951967]
+[u'red_wine', 0.8070085, u'wine_bottle', 0.18175353, u'corkscrew', 0.0039428244, u'chocolate_sauce', 0.0033962603, u'whiskey_jug', 0.00098091236]

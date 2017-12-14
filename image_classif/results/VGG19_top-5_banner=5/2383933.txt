@@ -1,0 +1,6 @@
+[u'toilet_tissue', 0.10793076, u'paper_towel', 0.075666383, u'lampshade', 0.043147504, u'candle', 0.042256679, u'toilet_seat', 0.038513873]
+[u'bell_cote', 0.28267828, u'envelope', 0.065085299, u'airship', 0.047930717, u'traffic_light', 0.044378858, u'wall_clock', 0.038550381]
+[u'matchstick', 0.13043995, u'brassiere', 0.034906823, u'candle', 0.027375227, u'book_jacket', 0.025315206, u'packet', 0.02415755]
+[u'carton', 0.1927629, u'safe', 0.19023971, u'radio', 0.1026838, u'projector', 0.084544614, u'modem', 0.050125003]
+[u'crate', 0.45609039, u'carton', 0.15608856, u'tray', 0.10409377, u'book_jacket', 0.035141952, u'chest', 0.033570729]
+[u'crate', 0.57991111, u'chest', 0.35894975, u'file', 0.022959542, u'carton', 0.015074908, u'slide_rule', 0.0045457701]

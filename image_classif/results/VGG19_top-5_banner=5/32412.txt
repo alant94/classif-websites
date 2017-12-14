@@ -1,0 +1,1 @@
+[u'bookshop', 0.11806849, u'container_ship', 0.079099409, u'solar_dish', 0.074953593, u'library', 0.045069683, u'window_screen', 0.03204136]

@@ -1,0 +1,2 @@
+[u'bow', 0.12376112, u'racket', 0.031816676, u'hook', 0.023163885, u'abaya', 0.021610789, u'letter_opener', 0.018628234]
+[u'jersey', 0.10557086, u'envelope', 0.065900601, u'book_jacket', 0.050775889, u'wall_clock', 0.035406031, u'street_sign', 0.031007361]

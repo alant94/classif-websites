@@ -1,0 +1,2 @@
+[u'bow_tie', 0.99946588, u'Windsor_tie', 0.00036940633, u'suit', 0.00011443096, u'military_uniform', 8.9857858e-06, u'cowboy_hat', 6.0875363e-06]
+[u'upright', 0.48467121, u'grand_piano', 0.25368387, u'marimba', 0.028758872, u'accordion', 0.026393356, u'freight_car', 0.01133896]

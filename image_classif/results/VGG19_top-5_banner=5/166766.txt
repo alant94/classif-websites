@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.13645422, u'altar', 0.035367869, u'book_jacket', 0.02746751, u'stage', 0.025982127, u'paintbrush', 0.020444792]
+[u'marimba', 0.26633143, u'desk', 0.24101207, u'dining_table', 0.21461011, u'grand_piano', 0.1986745, u'studio_couch', 0.030380014]
+[u'gong', 0.44559613, u'maraca', 0.063923694, u'book_jacket', 0.049213916, u'caldron', 0.043222096, u'drumstick', 0.041071814]

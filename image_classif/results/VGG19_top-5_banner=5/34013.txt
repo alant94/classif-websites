@@ -1,0 +1,2 @@
+[u'jersey', 0.25706351, u'gong', 0.030537063, u'jellyfish', 0.025611492, u'tennis_ball', 0.023436544, u'shower_cap', 0.020388059]
+[u'ballpoint', 0.37416267, u'chime', 0.058950145, u'rubber_eraser', 0.05725218, u'matchstick', 0.047080532, u'pencil_box', 0.031501018]

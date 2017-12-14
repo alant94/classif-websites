@@ -1,0 +1,1 @@
+[u'envelope', 0.61002684, u'binder', 0.27898103, u'pillow', 0.02064893, u'refrigerator', 0.013541615, u'menu', 0.011624609]

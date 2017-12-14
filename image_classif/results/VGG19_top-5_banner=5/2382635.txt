@@ -1,0 +1,5 @@
+[u'crate', 0.15622938, u'broom', 0.14398332, u'barrel', 0.1412022, u'totem_pole', 0.12024362, u'throne', 0.049045146]
+[u'birdhouse', 0.10092109, u'picket_fence', 0.094761081, u'mailbox', 0.058088403, u'wine_bottle', 0.049859349, u'crate', 0.043147717]
+[u'quill', 0.10413712, u'packet', 0.073866323, u'sweatshirt', 0.069444411, u'wool', 0.038728677, u'jersey', 0.031429715]
+[u'wardrobe', 0.21421047, u'barrel', 0.11183966, u'sliding_door', 0.089588612, u'fire_screen', 0.062951282, u'throne', 0.050850317]
+[u'screwdriver', 0.46861261, u"carpenter's_kit", 0.22063613, u'digital_watch', 0.096328042, u'digital_clock', 0.042538643, u'lighter', 0.015543482]

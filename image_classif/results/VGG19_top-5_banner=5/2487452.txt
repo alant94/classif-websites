@@ -1,0 +1,4 @@
+[u'American_black_bear', 0.99882597, u'brown_bear', 0.001046791, u'wombat', 7.6691242e-05, u'sloth_bear', 4.8076075e-05, u'wild_boar', 2.1395599e-06]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'ibex', 0.95085227, u'bighorn', 0.016661769, u'ox', 0.0087499181, u'hartebeest', 0.0078758914, u'ram', 0.0034376881]
+[u'digital_clock', 0.058433257, u'Band_Aid', 0.0534871, u'Windsor_tie', 0.04470408, u'envelope', 0.03311123, u'wall_clock', 0.024351824]

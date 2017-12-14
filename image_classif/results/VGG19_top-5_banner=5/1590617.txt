@@ -1,0 +1,3 @@
+[u'candle', 0.22261642, u'lipstick', 0.087726831, u'gown', 0.079794534, u'wig', 0.038906518, u'vase', 0.028989004]
+[u'vault', 0.080965593, u'punching_bag', 0.07542409, u'monastery', 0.060804658, u'restaurant', 0.05518163, u'prison', 0.054252051]
+[u'lipstick', 0.36048815, u'brassiere', 0.22585809, u'wig', 0.11443224, u'perfume', 0.066699244, u'hair_spray', 0.034759492]

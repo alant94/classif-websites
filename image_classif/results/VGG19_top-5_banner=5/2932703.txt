@@ -1,0 +1,4 @@
+[u'web_site', 0.51752007, u'menu', 0.06387385, u'screen', 0.038088184, u'envelope', 0.034353543, u'monitor', 0.023802698]
+[u'web_site', 0.83280718, u'envelope', 0.025236435, u'book_jacket', 0.01218195, u'menu', 0.0056204163, u'comic_book', 0.0026963286]
+[u'nipple', 0.31401235, u'hair_spray', 0.12086678, u'Band_Aid', 0.097794682, u'lipstick', 0.088585265, u'lotion', 0.071237177]
+[u'envelope', 0.078806601, u'book_jacket', 0.050793637, u'jigsaw_puzzle', 0.043376755, u'binder', 0.04042333, u'digital_clock', 0.037796713]

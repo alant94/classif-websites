@@ -1,0 +1,4 @@
+[u'picket_fence', 0.87743825, u'fountain', 0.025040243, u'worm_fence', 0.010745493, u'candle', 0.0075515276, u'plate_rack', 0.0067740604]
+[u'parking_meter', 0.12564562, u'ski', 0.064464189, u'street_sign', 0.044912793, u'hook', 0.028413059, u'envelope', 0.028009165]
+[u'switch', 0.22213447, u'combination_lock', 0.17288025, u'remote_control', 0.06285844, u'digital_watch', 0.027722793, u'whistle', 0.027532024]
+[u'screwdriver', 0.14938246, u"carpenter's_kit", 0.083741397, u'hook', 0.08230041, u'book_jacket', 0.068683825, u'freight_car', 0.031675681]

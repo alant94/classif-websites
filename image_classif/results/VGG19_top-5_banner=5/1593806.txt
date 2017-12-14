@@ -1,0 +1,1 @@
+[u'cassette', 0.16280383, u'wallet', 0.13735946, u'safe', 0.11778762, u'tape_player', 0.096964516, u'pencil_sharpener', 0.096821018]

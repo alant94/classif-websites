@@ -1,0 +1,5 @@
+[u'rule', 0.38320264, u'slide_rule', 0.20232645, u'screwdriver', 0.038244981, u'envelope', 0.036694352, u'nail', 0.034972347]
+[u'picket_fence', 0.23428531, u'bell_cote', 0.1003712, u'church', 0.067910016, u'worm_fence', 0.066984423, u'birdhouse', 0.056689583]
+[u'Cardigan', 0.17620496, u'Bernese_mountain_dog', 0.11524064, u'EntleBucher', 0.073338225, u'Appenzeller', 0.044919562, u'Greater_Swiss_Mountain_dog', 0.036878359]
+[u'minivan', 0.39465255, u'shovel', 0.082070395, u'beach_wagon', 0.074465506, u'minibus', 0.049395215, u'mobile_home', 0.041558821]
+[u'greenhouse', 0.62762487, u'patio', 0.16927175, u'picket_fence', 0.074471012, u'mobile_home', 0.065890826, u'boathouse', 0.0181107]

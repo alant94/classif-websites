@@ -1,0 +1,6 @@
+[u'ballpoint', 0.36915287, u'bow', 0.093005747, u'swab', 0.063247368, u'screwdriver', 0.060170379, u'rubber_eraser', 0.052015252]
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]
+[u'digital_clock', 0.23517464, u'scoreboard', 0.074960016, u'cash_machine', 0.05929314, u'screen', 0.053027503, u'binder', 0.0436473]
+[u'crossword_puzzle', 0.39387292, u'web_site', 0.11845195, u'oscilloscope', 0.10346224, u'monitor', 0.08548633, u'laptop', 0.060911246]
+[u'web_site', 0.21329553, u'rule', 0.1303262, u'envelope', 0.088707805, u'Windsor_tie', 0.018755691, u'crossword_puzzle', 0.016703466]
+[u'handkerchief', 0.17748611, u'carton', 0.14287315, u'Windsor_tie', 0.10756323, u'bath_towel', 0.076053664, u'wool', 0.054072931]

@@ -1,0 +1,4 @@
+[u'ski', 0.56583655, u'alp', 0.088176906, u'torch', 0.083144315, u'wreck', 0.023415849, u'drilling_platform', 0.016079402]
+[u'chime', 0.92680055, u'picket_fence', 0.016460683, u'safety_pin', 0.010672028, u'crane', 0.0084029101, u'drilling_platform', 0.0042081657]
+[u'lumbermill', 0.33642197, u'stupa', 0.045565117, u'Arabian_camel', 0.037879139, u'megalith', 0.030235488, u'cannon', 0.029673198]
+[u'coho', 0.35891399, u'gar', 0.13419467, u'sturgeon', 0.11305196, u'barracouta', 0.048591908, u'tench', 0.042235322]

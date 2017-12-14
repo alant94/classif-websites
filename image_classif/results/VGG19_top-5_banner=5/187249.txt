@@ -1,0 +1,5 @@
+[u'corkscrew', 0.41763914, u'pencil_sharpener', 0.23923537, u'bottlecap', 0.093042962, u'can_opener', 0.08271917, u'jigsaw_puzzle', 0.028375525]
+[u'wall_clock', 0.26416045, u'bottlecap', 0.10205293, u'bib', 0.094625115, u'hair_slide', 0.065411642, u'envelope', 0.053737413]
+[u'rugby_ball', 0.98495376, u'football_helmet', 0.0090985578, u'soccer_ball', 0.0053495318, u'crash_helmet', 0.00013961829, u'parachute', 0.00012986059]
+[u'wall_clock', 0.10534398, u'envelope', 0.05661663, u'hair_slide', 0.055781327, u'pencil_sharpener', 0.039771289, u'bottlecap', 0.032962453]
+[u'pencil_sharpener', 0.28255826, u'jigsaw_puzzle', 0.12721266, u'wall_clock', 0.096505292, u'vulture', 0.029161299, u'airship', 0.023719806]

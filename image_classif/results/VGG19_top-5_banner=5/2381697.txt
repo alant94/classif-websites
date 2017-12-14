@@ -1,0 +1,3 @@
+[u'rotisserie', 0.67993289, u'plate_rack', 0.084763065, u'stove', 0.084004112, u'barrel', 0.027725192, u'milk_can', 0.016684534]
+[u'cocktail_shaker', 0.64342797, u'perfume', 0.23676872, u'soap_dispenser', 0.026148403, u'espresso_maker', 0.014912501, u'spotlight', 0.013376036]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

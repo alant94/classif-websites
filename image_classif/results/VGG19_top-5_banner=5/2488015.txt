@@ -1,0 +1,1 @@
+[u'beer_glass', 0.093666352, u'fireboat', 0.087776542, u'fountain', 0.070472978, u'bow', 0.060154088, u'space_shuttle', 0.042237986]

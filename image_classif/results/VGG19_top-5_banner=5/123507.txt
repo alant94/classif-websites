@@ -1,0 +1,5 @@
+[u'dining_table', 0.2225868, u'sliding_door', 0.16176942, u'library', 0.13509291, u'organ', 0.058840241, u'bookcase', 0.049239814]
+[u'plate_rack', 0.24439341, u'crib', 0.23186991, u'bannister', 0.073187351, u'rocking_chair', 0.028445825, u'picket_fence', 0.023375692]
+[u'analog_clock', 0.20245476, u'tobacco_shop', 0.057205662, u'wall_clock', 0.043027256, u'lumbermill', 0.035799276, u'electric_guitar', 0.02839723]
+[u'ski', 0.44466299, u'wardrobe', 0.077728711, u'confectionery', 0.039149173, u'pop_bottle', 0.038596548, u'vestment', 0.032119729]
+[u'chime', 0.28719762, u'lighter', 0.046575956, u'paintbrush', 0.034561288, u'rubber_eraser', 0.03031056, u'pencil_sharpener', 0.029132929]

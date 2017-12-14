@@ -1,0 +1,5 @@
+[u'safety_pin', 0.19719049, u'jigsaw_puzzle', 0.1683937, u'packet', 0.058955971, u'bib', 0.058541257, u'envelope', 0.043051369]
+[u'envelope', 0.35197815, u'bib', 0.11112928, u'menu', 0.09180139, u'comic_book', 0.073006757, u'jigsaw_puzzle', 0.072235927]
+[u'book_jacket', 0.24244004, u'web_site', 0.082311817, u'envelope', 0.078758471, u'torch', 0.050108999, u'street_sign', 0.046527512]
+[u'jigsaw_puzzle', 0.92203987, u'tray', 0.029053101, u'modem', 0.011242695, u'envelope', 0.0076064621, u'binder', 0.0075754207]
+[u'chainlink_fence', 0.74775285, u'padlock', 0.028436536, u'envelope', 0.021020863, u'book_jacket', 0.018180655, u'packet', 0.012412864]

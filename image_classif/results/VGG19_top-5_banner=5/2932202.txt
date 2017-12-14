@@ -1,0 +1,7 @@
+[u'mosquito_net', 0.11965964, u'fountain', 0.061535176, u'bow', 0.042714816, u'parallel_bars', 0.04196018, u'fireboat', 0.040198687]
+[u'web_site', 0.11162419, u'Band_Aid', 0.054545134, u'envelope', 0.03096861, u'digital_clock', 0.022844046, u'sunscreen', 0.020073824]
+[u'wig', 0.14966331, u'dam', 0.053280372, u'jersey', 0.044016715, u'fountain', 0.02561071, u'triumphal_arch', 0.021474866]
+[u'snorkel', 0.79045773, u'scuba_diver', 0.14096223, u'hammerhead', 0.02924324, u'sea_lion', 0.0082611721, u'loggerhead', 0.0067422381]
+[u'torch', 0.11917145, u'bell_cote', 0.07961791, u'jersey', 0.077376582, u'street_sign', 0.045609646, u'police_van', 0.027503734]
+[u'lab_coat', 0.85642731, u'wig', 0.017540272, u'stethoscope', 0.016027704, u'bow_tie', 0.0079408931, u'pajama', 0.0064324732]
+[u'web_site', 0.064419508, u'envelope', 0.017032988, u'abaya', 0.010800412, u'nail', 0.0096415607, u'plunger', 0.0090357745]

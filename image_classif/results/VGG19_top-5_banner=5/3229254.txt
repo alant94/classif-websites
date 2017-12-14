@@ -1,0 +1,6 @@
+[u'puck', 0.18775479, u'wall_clock', 0.15569428, u'analog_clock', 0.11641661, u'gong', 0.091277853, u'face_powder', 0.085857339]
+[u'cellular_telephone', 0.20189725, u'stopwatch', 0.18128701, u'digital_clock', 0.13508464, u'CD_player', 0.095552221, u'radio', 0.094178542]
+[u'boathouse', 0.27996328, u'church', 0.15110464, u'bell_cote', 0.094232, u'monastery', 0.056559663, u'barn', 0.039627377]
+[u'crate', 0.94181323, u'barrel', 0.012233687, u'cinema', 0.0063650222, u'carton', 0.0059111379, u'freight_car', 0.0055357893]
+[u'flagpole', 0.096824102, u'totem_pole', 0.046642873, u'hook', 0.040904976, u'comic_book', 0.0362412, u'jigsaw_puzzle', 0.027663426]
+[u'whistle', 0.14650686, u'lampshade', 0.12714809, u'lighter', 0.08789628, u'clog', 0.077973671, u'buckle', 0.058211915]

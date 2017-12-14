@@ -1,0 +1,3 @@
+[u'oscilloscope', 0.11088695, u'doormat', 0.062768281, u'radio', 0.059335168, u'book_jacket', 0.054014441, u'screen', 0.047675032]
+[u'street_sign', 0.37604791, u'scoreboard', 0.24830444, u'book_jacket', 0.17600672, u'barbershop', 0.061259881, u'cash_machine', 0.031944934]
+[u'digital_clock', 0.30271193, u'digital_watch', 0.19112261, u'crossword_puzzle', 0.11755995, u'maze', 0.10980126, u'prayer_rug', 0.035934906]

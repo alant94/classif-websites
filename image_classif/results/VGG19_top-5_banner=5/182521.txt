@@ -1,0 +1,3 @@
+[u'web_site', 0.92339718, u'comic_book', 0.024294354, u'menu', 0.014130461, u'book_jacket', 0.005544947, u'muzzle', 0.003188197]
+[u'lakeside', 0.16085085, u'sundial', 0.12886181, u'flagpole', 0.060676433, u'obelisk', 0.048628621, u'brass', 0.038451169]
+[u'bookshop', 0.66767949, u'library', 0.17828259, u'bookcase', 0.14667363, u'comic_book', 0.001918687, u'toyshop', 0.00037310252]

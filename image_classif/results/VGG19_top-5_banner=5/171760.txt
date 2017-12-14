@@ -1,0 +1,1 @@
+[u'combination_lock', 0.79486293, u'padlock', 0.043001734, u'safety_pin', 0.018793162, u'nipple', 0.012544873, u'Band_Aid', 0.010482889]

@@ -1,0 +1,2 @@
+[u'envelope', 0.14185672, u'binder', 0.10924434, u'cassette', 0.079252988, u'book_jacket', 0.06349121, u'pick', 0.053328946]
+[u'puck', 0.1067282, u'chime', 0.095372662, u'wall_clock', 0.0523297, u'coffee_mug', 0.03481755, u'gong', 0.0305789]

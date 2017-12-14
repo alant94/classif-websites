@@ -1,0 +1,5 @@
+[u'coffee_mug', 0.18001765, u'street_sign', 0.06520538, u'barbershop', 0.054189786, u'cinema', 0.052767169, u'restaurant', 0.039005149]
+[u'crate', 0.9946332, u'barrel', 0.0022562675, u'wreck', 0.00035887657, u'lumbermill', 0.00031804194, u'ashcan', 0.0002371516]
+[u'stone_wall', 0.14782719, u'coral_fungus', 0.13987851, u'cliff_dwelling', 0.067047141, u'clog', 0.055817366, u'cliff', 0.049311809]
+[u'wine_bottle', 0.5034557, u'beer_bottle', 0.22523877, u'pop_bottle', 0.18212286, u'red_wine', 0.014845019, u'grocery_store', 0.013656244]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

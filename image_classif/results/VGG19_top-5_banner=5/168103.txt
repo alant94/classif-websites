@@ -1,0 +1,6 @@
+[u'book_jacket', 0.33683768, u'bookshop', 0.14839903, u'comic_book', 0.11648806, u'vending_machine', 0.10823485, u'shower_curtain', 0.026980467]
+[u'rubber_eraser', 0.031654522, u'digital_clock', 0.027476732, u'web_site', 0.026600661, u'Band_Aid', 0.0261271, u'street_sign', 0.026099583]
+[u'bell_cote', 0.4790467, u'panpipe', 0.28458685, u'church', 0.038953222, u'whistle', 0.019207882, u'beacon', 0.014163632]
+[u'menu', 0.48296076, u'web_site', 0.062414974, u'fountain_pen', 0.060149677, u'binder', 0.038062908, u'envelope', 0.032902285]
+[u'envelope', 0.27803215, u'digital_clock', 0.18023856, u'wall_clock', 0.0552973, u'Band_Aid', 0.0308621, u'maze', 0.018575203]
+[u'bassoon', 0.078672223, u'syringe', 0.064681455, u'hair_spray', 0.04739387, u'plunger', 0.044017315, u'drumstick', 0.042992529]

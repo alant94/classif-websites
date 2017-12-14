@@ -1,0 +1,2 @@
+[u'book_jacket', 0.099066958, u'web_site', 0.080958836, u'envelope', 0.050161399, u'menu', 0.031052276, u'street_sign', 0.026815442]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

@@ -1,0 +1,2 @@
+[u'gondola', 0.29122812, u'bow', 0.16512002, u'chime', 0.13310197, u'ski', 0.025428986, u'parallel_bars', 0.022886351]
+[u'barbell', 0.095267653, u'guillotine', 0.094136827, u'bakery', 0.066448711, u'punching_bag', 0.066231385, u'lumbermill', 0.038019471]

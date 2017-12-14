@@ -1,0 +1,6 @@
+[u'cinema', 0.29527852, u'restaurant', 0.28702003, u'picket_fence', 0.041463554, u'bakery', 0.041158229, u'grocery_store', 0.034034465]
+[u"carpenter's_kit", 0.35904431, u'screwdriver', 0.2945587, u'hammer', 0.19637264, u'shovel', 0.1161063, u'spatula', 0.011010218]
+[u'street_sign', 0.22416513, u'envelope', 0.072082132, u'hook', 0.063562565, u'web_site', 0.027756326, u'hair_slide', 0.026093461]
+[u'street_sign', 0.085728042, u'mousetrap', 0.058162592, u'traffic_light', 0.057242762, u'binder', 0.035856999, u'wall_clock', 0.035478801]
+[u'street_sign', 0.12936443, u'puck', 0.054742064, u'book_jacket', 0.029394332, u'Band_Aid', 0.028067481, u'packet', 0.027262814]
+[u'street_sign', 0.09784314, u'chainlink_fence', 0.038820595, u"carpenter's_kit", 0.026253017, u'parking_meter', 0.026182545, u'microphone', 0.025686109]

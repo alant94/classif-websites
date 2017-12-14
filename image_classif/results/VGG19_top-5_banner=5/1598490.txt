@@ -1,0 +1,2 @@
+[u'rubber_eraser', 0.088712029, u'lighter', 0.065978549, u'matchstick', 0.040949456, u'paper_towel', 0.034503542, u'Band_Aid', 0.0327558]
+[u'crossword_puzzle', 0.21828741, u'web_site', 0.21765776, u'wall_clock', 0.037543349, u'puck', 0.034899615, u'analog_clock', 0.029589823]

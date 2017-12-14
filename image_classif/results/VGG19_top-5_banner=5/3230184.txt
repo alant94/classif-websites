@@ -1,0 +1,4 @@
+[u'menu', 0.42340562, u'web_site', 0.16765808, u'monitor', 0.12932564, u'hand-held_computer', 0.031763282, u'slot', 0.027700411]
+[u'wardrobe', 0.47225448, u'picket_fence', 0.16004534, u'carton', 0.13281468, u'crate', 0.03854074, u'birdhouse', 0.03112234]
+[u'bolo_tie', 0.22719982, u'buckle', 0.065864123, u'whistle', 0.064069718, u'coil', 0.053652789, u'zebra', 0.030716263]
+[u'suit', 0.48241886, u'Windsor_tie', 0.18035686, u'groom', 0.1006744, u'bassoon', 0.041433647, u'oboe', 0.041330207]

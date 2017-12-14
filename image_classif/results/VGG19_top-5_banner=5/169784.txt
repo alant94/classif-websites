@@ -1,0 +1,3 @@
+[u'web_site', 0.080838144, u'street_sign', 0.025829664, u'cash_machine', 0.015729142, u'pill_bottle', 0.015389174, u'book_jacket', 0.015190649]
+[u'puck', 0.67442381, u'Band_Aid', 0.026936578, u'street_sign', 0.023151912, u'bottlecap', 0.018049145, u'chocolate_sauce', 0.01683276]
+[u'letter_opener', 0.1332894, u'nail', 0.066278316, u'can_opener', 0.051289301, u'nematode', 0.047388144, u'quill', 0.037310328]

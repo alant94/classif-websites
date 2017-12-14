@@ -1,0 +1,3 @@
+[u'hoopskirt', 0.29485294, u'overskirt', 0.16347276, u'bath_towel', 0.02702713, u'miniskirt', 0.025760254, u'sarong', 0.021044806]
+[u'coral_reef', 0.15388753, u'lakeside', 0.040868264, u'stone_wall', 0.039663635, u'conch', 0.033752143, u'grocery_store', 0.029236563]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

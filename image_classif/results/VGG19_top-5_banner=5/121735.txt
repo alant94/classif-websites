@@ -1,0 +1,2 @@
+[u'tractor', 0.15553153, u'thresher', 0.07397268, u'barrel', 0.045758814, u'muzzle', 0.041805867, u'drum', 0.039802969]
+[u'comic_book', 0.19792992, u'book_jacket', 0.066524796, u'punching_bag', 0.059471689, u'panpipe', 0.042095058, u'hook', 0.034185443]

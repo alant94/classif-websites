@@ -1,0 +1,5 @@
+[u'ice_cream', 0.41148037, u'chocolate_sauce', 0.20435697, u'burrito', 0.11587093, u'banana', 0.076982237, u'trifle', 0.050559133]
+[u'racer', 0.34948212, u'bobsled', 0.11174253, u'go-kart', 0.055011541, u'sports_car', 0.045626182, u'lighter', 0.03042301]
+[u'ice_lolly', 0.10924912, u'cellular_telephone', 0.05795737, u'bubble', 0.054575589, u'hair_spray', 0.054164048, u'ocarina', 0.048918188]
+[u'king_snake', 0.13590872, u'boa_constrictor', 0.073660567, u'sunglass', 0.05368048, u'kimono', 0.035415016, u'coho', 0.027093465]
+[u'EntleBucher', 0.17014642, u'ox', 0.11176366, u'water_buffalo', 0.088945985, u'Greater_Swiss_Mountain_dog', 0.048398677, u'plow', 0.04733615]

@@ -1,0 +1,7 @@
+[u'space_shuttle', 0.1683684, u'church', 0.11152643, u'stage', 0.060157392, u'castle', 0.057573561, u'monitor', 0.045122888]
+[u'monitor', 0.18025811, u'web_site', 0.07373777, u'screen', 0.069047429, u'book_jacket', 0.066930465, u'television', 0.063541748]
+[u'screen', 0.15212309, u'monitor', 0.095883973, u'television', 0.068731874, u'projector', 0.058489349, u'oscilloscope', 0.055450797]
+[u'monitor', 0.16724443, u'vending_machine', 0.13302936, u'television', 0.095187321, u'screen', 0.076645844, u'sliding_door', 0.043262839]
+[u'screen', 0.094411105, u'monitor', 0.075085044, u'planetarium', 0.041456193, u'oscilloscope', 0.0369712, u'stage', 0.035457976]
+[u'television', 0.15403055, u'monitor', 0.12630697, u'screen', 0.1035632, u'African_grey', 0.09129969, u'pay-phone', 0.046405643]
+[u'cassette', 0.098247379, u'stethoscope', 0.070432164, u'jersey', 0.05109863, u'football_helmet', 0.029889138, u'iPod', 0.028734634]

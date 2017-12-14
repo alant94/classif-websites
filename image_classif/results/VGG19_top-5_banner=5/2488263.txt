@@ -1,0 +1,2 @@
+[u'chain_saw', 0.14896558, u'great_grey_owl', 0.081590056, u'bluetick', 0.048198771, u'soccer_ball', 0.047764931, u'snowmobile', 0.044837832]
+[u'digital_watch', 0.18776065, u'digital_clock', 0.12705405, u'wall_clock', 0.10417428, u'screen', 0.080185272, u'binder', 0.045486115]

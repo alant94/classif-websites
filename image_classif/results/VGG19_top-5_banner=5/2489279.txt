@@ -1,0 +1,8 @@
+[u'kite', 0.33403254, u'limpkin', 0.12118792, u'knot', 0.091199048, u'hook', 0.0766306, u'prairie_chicken', 0.036027737]
+[u'plow', 0.35866117, u'Saluki', 0.22336225, u'dogsled', 0.034998495, u'ox', 0.026398581, u'oxcart', 0.02281715]
+[u'dalmatian', 0.57996035, u'giant_panda', 0.16680683, u'English_springer', 0.026564486, u'kuvasz', 0.023361638, u'French_bulldog', 0.022269964]
+[u'sorrel', 0.96927255, u'hartebeest', 0.0085302806, u'vizsla', 0.0040787212, u'Rhodesian_ridgeback', 0.0033120299, u'redbone', 0.002397544]
+[u'limousine', 0.068007268, u'crutch', 0.035331979, u'punching_bag', 0.033771157, u'bow_tie', 0.032815393, u'suit', 0.030282479]
+[u'English_springer', 0.33816758, u'Lakeland_terrier', 0.16282734, u'Welsh_springer_spaniel', 0.13453712, u'wire-haired_fox_terrier', 0.10002318, u'miniature_poodle', 0.053266235]
+[u'coho', 0.10158216, u'sturgeon', 0.066809416, u'barracouta', 0.044838298, u'gar', 0.022283889, u'tench', 0.021510625]
+[u'parachute', 0.10514484, u'soccer_ball', 0.048351359, u'poncho', 0.048300296, u'maze', 0.041723896, u'knee_pad', 0.02377706]

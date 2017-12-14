@@ -1,0 +1,8 @@
+[u'shower_curtain', 0.20940286, u'mosquito_net', 0.18480654, u'bathtub', 0.13076358, u'tub', 0.049840149, u'cradle', 0.030628372]
+[u'wardrobe', 0.24666555, u'refrigerator', 0.13340572, u'sliding_door', 0.11548167, u'medicine_chest', 0.075868502, u'toilet_tissue', 0.020210272]
+[u'plunger', 0.10019843, u'pencil_sharpener', 0.061850555, u'paintbrush', 0.04837022, u'swab', 0.039810136, u'wig', 0.035583407]
+[u'bathtub', 0.076236144, u'hand_blower', 0.054869767, u'hair_spray', 0.052177303, u'brassiere', 0.04004449, u'tub', 0.037725955]
+[u'diaper', 0.33043355, u'shower_cap', 0.054132622, u'bathing_cap', 0.05017684, u'bikini', 0.029785328, u'swimming_trunks', 0.027461413]
+[u'diaper', 0.16052561, u'cash_machine', 0.10119396, u'television', 0.07557486, u'toilet_tissue', 0.058650304, u'paper_towel', 0.048127815]
+[u'window_shade', 0.080243081, u'wardrobe', 0.033797391, u'hand_blower', 0.031787656, u'shower_curtain', 0.031010842, u'iron', 0.02831967]
+[u'refrigerator', 0.15815042, u'photocopier', 0.072403878, u'stretcher', 0.040032741, u'sewing_machine', 0.033801265, u'lab_coat', 0.033623263]

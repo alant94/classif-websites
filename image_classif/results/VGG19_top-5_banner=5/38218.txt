@@ -1,0 +1,1 @@
+[u'analog_clock', 0.46141937, u'wall_clock', 0.21626003, u'digital_clock', 0.036971379, u'lighter', 0.025834538, u'mortarboard', 0.023680158]

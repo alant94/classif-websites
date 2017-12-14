@@ -1,0 +1,1 @@
+[u'abaya', 0.25978372, u'wardrobe', 0.13393822, u'shower_curtain', 0.064838246, u'sliding_door', 0.062454075, u'vestment', 0.040119797]

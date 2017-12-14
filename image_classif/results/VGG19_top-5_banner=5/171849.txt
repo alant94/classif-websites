@@ -1,0 +1,8 @@
+[u'street_sign', 0.6150583, u'traffic_light', 0.1224933, u'cab', 0.040803634, u'tow_truck', 0.026080625, u'bakery', 0.021578399]
+[u'comic_book', 0.24069031, u'street_sign', 0.21334271, u'tobacco_shop', 0.06968388, u'slot', 0.067624174, u'bakery', 0.039210588]
+[u'web_site', 0.17043617, u'book_jacket', 0.14467689, u'comic_book', 0.078269228, u'jersey', 0.039036877, u'hook', 0.026131451]
+[u'bottlecap', 0.35408565, u'prayer_rug', 0.20563853, u'shield', 0.20342913, u'tray', 0.037287194, u'maze', 0.031941157]
+[u'monitor', 0.23078796, u'screen', 0.08805383, u'analog_clock', 0.069929674, u'digital_clock', 0.045890007, u'traffic_light', 0.04477166]
+[u'toilet_seat', 0.08742521, u'screen', 0.083972037, u'television', 0.07897678, u'monitor', 0.075914338, u'pill_bottle', 0.048539877]
+[u'toilet_seat', 0.32425281, u'spotlight', 0.054451995, u'analog_clock', 0.039084539, u'switch', 0.036586482, u'tray', 0.02544558]
+[u'analog_clock', 0.21548037, u'coil', 0.17857562, u'bannister', 0.089756563, u'wall_clock', 0.055109836, u'spotlight', 0.052405391]

@@ -1,0 +1,7 @@
+[u'digital_watch', 0.26668361, u'digital_clock', 0.13061512, u'stopwatch', 0.053376537, u'buckle', 0.032198478, u'cellular_telephone', 0.031806726]
+[u'nematode', 0.31053129, u'hook', 0.17884666, u'coil', 0.13131392, u'knot', 0.10338341, u'chain', 0.06465245]
+[u'digital_watch', 0.39075646, u'digital_clock', 0.15083534, u'stopwatch', 0.055075362, u'cellular_telephone', 0.037974734, u'loupe', 0.035829335]
+[u'digital_clock', 0.13581583, u'digital_watch', 0.099670298, u'pick', 0.074638151, u'lighter', 0.074023664, u"jack-o'-lantern", 0.048684228]
+[u'necklace', 0.41873828, u'jersey', 0.14456256, u'handkerchief', 0.11211688, u'hair_slide', 0.092214271, u'pick', 0.041415218]
+[u'digital_watch', 0.20908977, u'digital_clock', 0.1649745, u'stopwatch', 0.11089778, u'cellular_telephone', 0.077210762, u'analog_clock', 0.036646768]
+[u'digital_watch', 0.36154079, u'digital_clock', 0.14971229, u'stopwatch', 0.072562441, u'analog_clock', 0.034088466, u'bottlecap', 0.029013086]

@@ -1,0 +1,4 @@
+[u'cinema', 0.11940384, u'theater_curtain', 0.062804438, u'television', 0.040516581, u'toaster', 0.039293151, u'hook', 0.02934386]
+[u'schipperke', 0.12932131, u'giant_schnauzer', 0.093492933, u'cannon', 0.050416704, u'guillotine', 0.049246829, u'groenendael', 0.045063831]
+[u"carpenter's_kit", 0.1818763, u'toaster', 0.090559602, u'theater_curtain', 0.062934272, u'paintbrush', 0.058219593, u'wardrobe', 0.049161777]
+[u"jack-o'-lantern", 0.086792588, u'rock_crab', 0.079883493, u'tick', 0.068102233, u'jellyfish', 0.059975188, u'crayfish', 0.058472134]

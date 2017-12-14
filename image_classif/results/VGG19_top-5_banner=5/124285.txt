@@ -1,0 +1,2 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'web_site', 0.08181975, u'envelope', 0.071668439, u'matchstick', 0.019746495, u'microphone', 0.019320246, u'syringe', 0.017293205]

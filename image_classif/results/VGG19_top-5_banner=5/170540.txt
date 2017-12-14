@@ -1,0 +1,5 @@
+[u'envelope', 0.73539227, u'digital_clock', 0.08848948, u'web_site', 0.013695961, u'scale', 0.013590739, u'Band_Aid', 0.013564001]
+[u'web_site', 0.15585972, u'panpipe', 0.10115585, u'digital_clock', 0.095302127, u'maze', 0.047353882, u'envelope', 0.042155612]
+[u'envelope', 0.36891946, u'wall_clock', 0.11425301, u'digital_clock', 0.067844868, u'pencil_sharpener', 0.054524142, u'jigsaw_puzzle', 0.052878521]
+[u'container_ship', 0.45668921, u'digital_clock', 0.060762212, u'envelope', 0.048945066, u'pill_bottle', 0.041294742, u'airship', 0.035811793]
+[u'digital_clock', 0.070019789, u'envelope', 0.06634634, u'Band_Aid', 0.043285288, u'container_ship', 0.034560595, u'beacon', 0.031082474]

@@ -1,0 +1,1 @@
+[u'puck', 0.620224, u'combination_lock', 0.071680926, u'stopwatch', 0.031206187, u'digital_watch', 0.015594161, u'bottlecap', 0.013425449]

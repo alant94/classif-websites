@@ -1,0 +1,4 @@
+[u'book_jacket', 0.57791591, u'accordion', 0.036695983, u'jersey', 0.02183553, u'comic_book', 0.021511419, u'web_site', 0.019568026]
+[u'bottlecap', 0.49111429, u'digital_watch', 0.17761622, u'matchstick', 0.029328806, u'maze', 0.025573332, u'shield', 0.018221676]
+[u'web_site', 0.1105742, u'rule', 0.071494609, u'book_jacket', 0.046385515, u'analog_clock', 0.042931061, u"carpenter's_kit", 0.031640545]
+[u'swab', 0.75826937, u'crane', 0.031791955, u'handkerchief', 0.020519441, u'shower_curtain', 0.014547424, u'broom', 0.013442004]

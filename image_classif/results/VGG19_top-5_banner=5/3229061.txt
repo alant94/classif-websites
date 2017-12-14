@@ -1,0 +1,1 @@
+[u'umbrella', 0.22065435, u'seashore', 0.081863344, u'park_bench', 0.048015527, u'torch', 0.043875534, u'swing', 0.04326129]

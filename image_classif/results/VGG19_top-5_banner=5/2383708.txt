@@ -1,0 +1,6 @@
+[u'book_jacket', 0.41554254, u'packet', 0.062806025, u'web_site', 0.032651071, u'lotion', 0.0305569, u'sunscreen', 0.030087378]
+[u'coral_fungus', 0.22556566, u'picket_fence', 0.18237448, u'hook', 0.05368026, u'pillow', 0.018771976, u'candle', 0.017345801]
+[u'street_sign', 0.16749759, u'Band_Aid', 0.058944225, u'digital_clock', 0.047220495, u'web_site', 0.027073452, u'hair_spray', 0.025846161]
+[u'book_jacket', 0.36209568, u'packet', 0.062854305, u'envelope', 0.032645117, u'web_site', 0.027659087, u'menu', 0.02423366]
+[u'book_jacket', 0.84608704, u'comic_book', 0.016937207, u'menu', 0.015424018, u'street_sign', 0.011474072, u'packet', 0.01146049]
+[u'rapeseed', 0.93987966, u'stone_wall', 0.019921554, u'worm_fence', 0.0092501603, u'castle', 0.0042875577, u'maze', 0.0036459148]

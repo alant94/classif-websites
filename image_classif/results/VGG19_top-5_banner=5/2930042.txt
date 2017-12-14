@@ -1,0 +1,2 @@
+[u'suit', 0.40136704, u'Windsor_tie', 0.14227669, u'bow_tie', 0.11154354, u'groom', 0.033705305, u'oboe', 0.027989473]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

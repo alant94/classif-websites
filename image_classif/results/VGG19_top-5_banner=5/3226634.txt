@@ -1,0 +1,1 @@
+[u'crane', 0.23963387, u'traffic_light', 0.092282519, u'matchstick', 0.05366331, u'web_site', 0.04872752, u'syringe', 0.041494042]

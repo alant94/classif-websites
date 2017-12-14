@@ -1,0 +1,5 @@
+[u'ocarina', 0.17881754, u'restaurant', 0.10346289, u'violin', 0.0379082, u'whistle', 0.037506148, u'jigsaw_puzzle', 0.03320482]
+[u'accordion', 0.86025864, u'upright', 0.020752775, u'grand_piano', 0.018001305, u'barbershop', 0.013173968, u'organ', 0.011122979]
+[u'jigsaw_puzzle', 0.29284164, u'candle', 0.053571843, u'bucket', 0.048565708, u'power_drill', 0.034422878, u'dough', 0.030798022]
+[u'valley', 0.56904513, u'alp', 0.37879983, u'volcano', 0.015560634, u'lakeside', 0.012213634, u'mountain_tent', 0.0056576696]
+[u'bassoon', 0.36977762, u'oboe', 0.29747453, u'cello', 0.10824949, u'trombone', 0.044087347, u'violin', 0.028021885]

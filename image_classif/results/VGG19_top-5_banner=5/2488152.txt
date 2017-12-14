@@ -1,0 +1,5 @@
+[u'hartebeest', 0.66726983, u'water_buffalo', 0.11194768, u'ox', 0.091932267, u'ibex', 0.047454458, u'oxcart', 0.031601597]
+[u'patio', 0.21101446, u'boathouse', 0.14767995, u'oxcart', 0.060814109, u'lumbermill', 0.051458847, u'thatch', 0.046453673]
+[u'book_jacket', 0.24026698, u'web_site', 0.1801797, u'comic_book', 0.039576549, u'scoreboard', 0.034539878, u'street_sign', 0.018386357]
+[u'doormat', 0.22512189, u'carton', 0.15465394, u'envelope', 0.15023075, u'packet', 0.10690857, u'crate', 0.085125275]
+[u'hartebeest', 0.99100178, u'impala', 0.0045301495, u'gazelle', 0.0016400904, u'ibex', 0.00092933886, u'ox', 0.00074231834]

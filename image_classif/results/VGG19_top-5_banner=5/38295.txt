@@ -1,0 +1,4 @@
+[u'iron', 0.68111926, u'joystick', 0.22344662, u'spotlight', 0.027777936, u'vacuum', 0.010586853, u'switch', 0.0091711264]
+[u'parachute', 0.30360854, u'balloon', 0.22992225, u'spotlight', 0.087722227, u'mouse', 0.026986562, u'pinwheel', 0.026685683]
+[u'digital_clock', 0.27487379, u'space_heater', 0.11219621, u'digital_watch', 0.078784965, u'buckle', 0.05747284, u'tray', 0.04918839]
+[u'digital_clock', 0.89157593, u'scoreboard', 0.010465084, u'web_site', 0.0086782752, u'stopwatch', 0.0083081946, u'screen', 0.0073846946]

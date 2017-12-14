@@ -1,0 +1,4 @@
+[u'hook', 0.7018317, u'street_sign', 0.056301199, u'book_jacket', 0.036801416, u'parachute', 0.013433831, u'traffic_light', 0.012563131]
+[u'hook', 0.20081946, u'harp', 0.073440596, u'bow', 0.061474346, u'wardrobe', 0.046593439, u'nail', 0.037201095]
+[u'barn', 0.34590971, u'hay', 0.099044412, u'trailer_truck', 0.083159059, u'viaduct', 0.034495667, u'volcano', 0.034138665]
+[u'digital_watch', 0.46236584, u'digital_clock', 0.097448297, u'analog_clock', 0.02699201, u'lighter', 0.01922801, u'switch', 0.014398649]

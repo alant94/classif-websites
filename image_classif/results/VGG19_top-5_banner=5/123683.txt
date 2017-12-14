@@ -1,0 +1,2 @@
+[u'miniskirt', 0.2905522, u'brassiere', 0.14183441, u'feather_boa', 0.068496108, u'tub', 0.066513419, u'bikini', 0.049103219]
+[u'miniskirt', 0.29904696, u'brassiere', 0.12719899, u'tub', 0.072318517, u'bikini', 0.064078845, u'feather_boa', 0.051635191]

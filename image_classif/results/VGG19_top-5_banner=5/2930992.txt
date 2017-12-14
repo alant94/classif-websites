@@ -1,0 +1,8 @@
+[u'buckeye', 0.44823712, u'acorn', 0.31207564, u'artichoke', 0.042650007, u'coral_fungus', 0.03893362, u'cardoon', 0.013667664]
+[u'web_site', 0.060780346, u'envelope', 0.02665144, u'hand_blower', 0.019320706, u'screw', 0.017965866, u'nail', 0.01504588]
+[u'traffic_light', 0.12357987, u'spotlight', 0.060891468, u'bottlecap', 0.058191434, u'tennis_ball', 0.056843378, u'digital_clock', 0.056639995]
+[u'toilet_seat', 0.092462599, u'can_opener', 0.066239633, u'iron', 0.060130507, u'mouse', 0.048040979, u'paper_towel', 0.042253893]
+[u'bath_towel', 0.31996563, u'Band_Aid', 0.048917871, u'nipple', 0.031532932, u'safety_pin', 0.029098952, u'thunder_snake', 0.020364152]
+[u'fur_coat', 0.85622555, u'stole', 0.031464834, u'wig', 0.02746035, u'wool', 0.0129697, u'gown', 0.0048424285]
+[u'walking_stick', 0.27525896, u'lipstick', 0.092674561, u'paintbrush', 0.079369776, u'Band_Aid', 0.065471955, u'matchstick', 0.046220548]
+[u'stole', 0.22573695, u'butcher_shop', 0.21941547, u'poncho', 0.11852821, u'theater_curtain', 0.043417778, u'wool', 0.030568462]

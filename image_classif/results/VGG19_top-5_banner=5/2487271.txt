@@ -1,0 +1,4 @@
+[u'window_screen', 0.080979079, u'barn', 0.075432442, u'sliding_door', 0.055854626, u'warthog', 0.043263745, u'water_buffalo', 0.038892444]
+[u'impala', 0.18033728, u'gazelle', 0.17564058, u'hare', 0.14336678, u'ibex', 0.065461189, u'hartebeest', 0.042785518]
+[u'gazelle', 0.51803476, u'hare', 0.17212869, u'hartebeest', 0.044159655, u'Mexican_hairless', 0.041278433, u'English_foxhound', 0.028708477]
+[u'bighorn', 0.48215923, u'ram', 0.21450113, u'bison', 0.13611136, u'ox', 0.028367678, u'brown_bear', 0.024603266]

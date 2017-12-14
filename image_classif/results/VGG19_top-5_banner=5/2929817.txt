@@ -1,0 +1,3 @@
+[u'vase', 0.57376194, u'birdhouse', 0.14981554, u'picket_fence', 0.060405068, u'pot', 0.021553738, u'daisy', 0.016656335]
+[u'hook', 0.090733118, u'swab', 0.062264729, u"carpenter's_kit", 0.06213453, u'safety_pin', 0.054677755, u'shower_curtain', 0.045546047]
+[u'street_sign', 0.3899318, u'scoreboard', 0.12880193, u'book_jacket', 0.094900832, u'tobacco_shop', 0.040678233, u'barbershop', 0.036510307]

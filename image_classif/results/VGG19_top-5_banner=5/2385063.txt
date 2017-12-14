@@ -1,0 +1,4 @@
+[u'lab_coat', 0.86185366, u'Windsor_tie', 0.051232178, u'stethoscope', 0.020942554, u'bow_tie', 0.016874516, u'groom', 0.0061389031]
+[u'library', 0.69771606, u'sliding_door', 0.046273556, u'prison', 0.032520987, u'bannister', 0.028670236, u'bookcase', 0.026037715]
+[u'traffic_light', 0.085612908, u'sliding_door', 0.045806892, u'pay-phone', 0.033465452, u'abaya', 0.032765649, u'fountain', 0.031780414]
+[u'hourglass', 0.095936805, u'milk_can', 0.072299249, u'radiator', 0.050449163, u'shower_curtain', 0.036369011, u'soap_dispenser', 0.035591245]

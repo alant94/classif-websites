@@ -1,0 +1,5 @@
+[u'wreck', 0.23050591, u'cliff', 0.17362104, u'promontory', 0.067441933, u'breakwater', 0.062015221, u'lakeside', 0.048944846]
+[u'refrigerator', 0.26556832, u'sewing_machine', 0.14666481, u'switch', 0.13549137, u'envelope', 0.063019797, u'printer', 0.034472708]
+[u'safety_pin', 0.4275026, u'padlock', 0.10998951, u'corkscrew', 0.10000381, u'maze', 0.053338565, u'unicycle', 0.050260287]
+[u'power_drill', 0.11316321, u'toilet_seat', 0.096780419, u'desk', 0.069442779, u'stretcher', 0.05301173, u'washbasin', 0.051838409]
+[u'chime', 0.73871177, u'traffic_light', 0.02390863, u'screwdriver', 0.017688954, u'hook', 0.011171998, u'wall_clock', 0.0090726456]

@@ -1,0 +1,4 @@
+[u'brassiere', 0.34708095, u'stole', 0.13003601, u'sarong', 0.074964657, u'maillot', 0.035013605, u'jean', 0.030351393]
+[u'shoe_shop', 0.47469512, u'wardrobe', 0.085218839, u'theater_curtain', 0.05644694, u'cowboy_boot', 0.050891157, u'confectionery', 0.047231916]
+[u'chime', 0.26155093, u'ladle', 0.082022488, u'rifle', 0.076814182, u'wine_bottle', 0.065890551, u'corkscrew', 0.053699736]
+[u'kimono', 0.098008715, u'candle', 0.059473392, u'hair_spray', 0.057601187, u'pajama', 0.043290265, u'cardigan', 0.031068768]

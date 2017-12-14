@@ -1,0 +1,1 @@
+[u'book_jacket', 0.14050049, u'plastic_bag', 0.050528347, u'lakeside', 0.038904522, u'Great_Dane', 0.030681001, u'torch', 0.025638688]

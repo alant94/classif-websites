@@ -1,0 +1,5 @@
+[u'hartebeest', 0.74158853, u'impala', 0.22245513, u'gazelle', 0.034614306, u'ibex', 0.0012426525, u'ox', 4.1845837e-05]
+[u'book_jacket', 0.14206126, u'iPod', 0.12752956, u'cellular_telephone', 0.051721144, u'cassette', 0.037781581, u'stopwatch', 0.036923762]
+[u'web_site', 0.41713145, u'maze', 0.048973117, u'analog_clock', 0.045849837, u'envelope', 0.026246201, u'coil', 0.023000898]
+[u'church', 0.25150082, u'alp', 0.25064623, u'picket_fence', 0.11756856, u'thatch', 0.074749723, u'boathouse', 0.067213088]
+[u'puck', 0.85937011, u'analog_clock', 0.017266961, u'wall_clock', 0.0081880428, u'stethoscope', 0.0081253489, u'jersey', 0.0056718127]

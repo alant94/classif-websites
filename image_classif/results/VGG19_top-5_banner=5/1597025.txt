@@ -1,0 +1,2 @@
+[u'bookshop', 0.47639689, u'tobacco_shop', 0.19754022, u'library', 0.094865024, u'book_jacket', 0.045726273, u'container_ship', 0.043828446]
+[u'pinwheel', 0.1311705, u'brassiere', 0.12596704, u'bonnet', 0.092730306, u'sandal', 0.056869321, u'comic_book', 0.056571379]

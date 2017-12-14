@@ -1,0 +1,3 @@
+[u'broccoli', 0.06795907, u'hook', 0.04027006, u'rocking_chair', 0.03694455, u'pencil_sharpener', 0.023316016, u'plow', 0.02285967]
+[u'hook', 0.22693817, u'safety_pin', 0.057621028, u'knot', 0.049329706, u'whistle', 0.043017622, u'envelope', 0.023651592]
+[u'bubble', 0.15819994, u'jellyfish', 0.094952054, u'bikini', 0.067689605, u'swimming_trunks', 0.061271522, u'maillot', 0.039577264]

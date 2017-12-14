@@ -1,0 +1,2 @@
+[u'harp', 0.99892277, u'mask', 0.00060886581, u'Arabian_camel', 0.00021210351, u'panpipe', 6.4548025e-05, u'triceratops', 6.1405772e-05]
+[u'zebra', 0.21356079, u'hartebeest', 0.18158604, u'impala', 0.11394623, u'African_hunting_dog', 0.047555927, u'gazelle', 0.036436912]

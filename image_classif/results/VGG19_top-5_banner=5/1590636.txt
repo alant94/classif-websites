@@ -1,0 +1,6 @@
+[u'neck_brace', 0.16357575, u'wig', 0.12011902, u'abaya', 0.093033753, u'mask', 0.071286023, u'cloak', 0.053703342]
+[u'suit', 0.63901788, u'Windsor_tie', 0.26338908, u'Loafer', 0.030634208, u'groom', 0.0079075787, u'academic_gown', 0.004953186]
+[u'suit', 0.78129274, u'Windsor_tie', 0.090295896, u'bow_tie', 0.037059199, u'oboe', 0.014647102, u'military_uniform', 0.011833941]
+[u'suit', 0.70671785, u'Windsor_tie', 0.2268791, u'Loafer', 0.019757943, u'academic_gown', 0.0054494385, u'trench_coat', 0.0035943098]
+[u'suit', 0.75228059, u'Windsor_tie', 0.10363443, u'bow_tie', 0.0348242, u'oboe', 0.016313277, u'military_uniform', 0.011282842]
+[u'maillot', 0.28349066, u'bikini', 0.20818362, u'maillot', 0.13075233, u'swimming_trunks', 0.060200673, u'cliff', 0.030901942]

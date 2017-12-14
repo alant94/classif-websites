@@ -1,0 +1,2 @@
+[u'picket_fence', 0.27458796, u'matchstick', 0.25250843, u'chime', 0.051077545, u'candle', 0.0437616, u'swab', 0.036827285]
+[u'doormat', 0.15239052, u'sliding_door', 0.11082307, u'medicine_chest', 0.075605907, u'barbershop', 0.058205299, u'church', 0.029312657]

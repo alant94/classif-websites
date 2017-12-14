@@ -1,0 +1,2 @@
+[u'hook', 0.067654423, u'bow', 0.061178062, u'macaw', 0.03868911, u'hair_slide', 0.036983196, u'long-horned_beetle', 0.031020273]
+[u'confectionery', 0.39415106, u'restaurant', 0.10815921, u'crib', 0.084021308, u'shower_curtain', 0.062637523, u'dining_table', 0.051501866]

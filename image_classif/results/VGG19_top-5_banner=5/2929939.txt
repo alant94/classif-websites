@@ -1,0 +1,3 @@
+[u'web_site', 0.91000462, u'comic_book', 0.021455821, u'book_jacket', 0.01538065, u'packet', 0.0084080324, u'panpipe', 0.0045810561]
+[u'lab_coat', 0.85837442, u'stethoscope', 0.041566484, u'sweatshirt', 0.032532915, u'trench_coat', 0.011165015, u'Windsor_tie', 0.0091328658]
+[u'web_site', 0.46031311, u'book_jacket', 0.16754524, u'menu', 0.040005226, u'envelope', 0.029281262, u'packet', 0.023442408]

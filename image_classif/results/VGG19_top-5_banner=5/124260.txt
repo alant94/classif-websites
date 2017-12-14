@@ -1,0 +1,6 @@
+[u'safety_pin', 0.11220922, u'snorkel', 0.093315616, u'hook', 0.093021698, u'shovel', 0.069275022, u'mouse', 0.063888505]
+[u'tobacco_shop', 0.19985835, u'cinema', 0.15819177, u'slot', 0.085737817, u'restaurant', 0.060444705, u'confectionery', 0.053600214]
+[u'stupa', 0.18956453, u'quilt', 0.1631579, u'carousel', 0.14554599, u'restaurant', 0.08033812, u'jigsaw_puzzle', 0.068788566]
+[u'pinwheel', 0.67520303, u'umbrella', 0.038323548, u'comic_book', 0.02908943, u'parachute', 0.025878496, u'maillot', 0.016412878]
+[u'stage', 0.18354519, u'crane', 0.17787774, u'traffic_light', 0.14775173, u'monitor', 0.077469617, u'web_site', 0.040204547]
+[u'coil', 0.51440948, u'safety_pin', 0.068937585, u'cup', 0.054174326, u'coffee_mug', 0.046324324, u'plate_rack', 0.039572239]

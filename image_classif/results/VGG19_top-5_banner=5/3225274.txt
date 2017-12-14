@@ -1,0 +1,8 @@
+[u'binder', 0.27779239, u'iPod', 0.080554985, u'lighter', 0.072537832, u'buckle', 0.056262296, u'face_powder', 0.03326866]
+[u'carton', 0.1940985, u'freight_car', 0.10151008, u'mosquito_net', 0.087056883, u'brassiere', 0.070870601, u'book_jacket', 0.069683105]
+[u'scoreboard', 0.067552857, u'maze', 0.053705242, u'container_ship', 0.050239384, u'German_shepherd', 0.043333348, u'crossword_puzzle', 0.022461468]
+[u'monitor', 0.30462122, u'screen', 0.09511777, u'slot', 0.078314081, u'jigsaw_puzzle', 0.077507615, u'television', 0.057742871]
+[u'stove', 0.087329127, u'theater_curtain', 0.079097912, u'home_theater', 0.074836738, u'sliding_door', 0.044741515, u'spotlight', 0.031472456]
+[u'container_ship', 0.65083861, u'library', 0.057643756, u'bookshop', 0.043687299, u'prison', 0.012730739, u'bookcase', 0.012246244]
+[u'pick', 0.37506539, u'whiskey_jug', 0.07659243, u'sunscreen', 0.039618313, u'face_powder', 0.034270022, u'coffee_mug', 0.028225891]
+[u'fountain', 0.20173271, u'picket_fence', 0.085122831, u'ski', 0.054495346, u'space_shuttle', 0.050373551, u'matchstick', 0.037868086]

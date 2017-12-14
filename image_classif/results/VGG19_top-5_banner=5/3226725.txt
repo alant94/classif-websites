@@ -1,0 +1,1 @@
+[u'book_jacket', 0.22749063, u'fountain', 0.12905477, u'web_site', 0.10536877, u'planetarium', 0.067859963, u'menu', 0.06318783]

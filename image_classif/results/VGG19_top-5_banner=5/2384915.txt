@@ -1,0 +1,4 @@
+[u'monitor', 0.16071197, u'screen', 0.12031692, u'laptop', 0.050390434, u'oscilloscope', 0.038676847, u'cinema', 0.034030642]
+[u'book_jacket', 0.074404791, u'honeycomb', 0.072328731, u'web_site', 0.047095869, u'theater_curtain', 0.035374627, u'throne', 0.034454484]
+[u'screen', 0.3700166, u'monitor', 0.26615635, u'television', 0.16958182, u'desktop_computer', 0.022373935, u'window_screen', 0.019397728]
+[u'book_jacket', 0.65244669, u'lighter', 0.10370708, u'perfume', 0.026335372, u'packet', 0.01440429, u'binder', 0.012587139]

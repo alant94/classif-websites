@@ -1,0 +1,4 @@
+[u'street_sign', 0.3767738, u'book_jacket', 0.095975295, u'Band_Aid', 0.088369839, u'traffic_light', 0.060110603, u'gas_pump', 0.025141006]
+[u'laptop', 0.29449737, u'tray', 0.25099126, u'folding_chair', 0.11759505, u'ashcan', 0.11435091, u'scale', 0.029352454]
+[u'barn', 0.31318587, u'church', 0.19393536, u'boathouse', 0.1310614, u'bell_cote', 0.13095982, u'monastery', 0.024543753]
+[u'switch', 0.17997526, u'Band_Aid', 0.12798259, u'street_sign', 0.078226648, u'tray', 0.058980808, u'iPod', 0.057942651]

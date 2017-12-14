@@ -1,0 +1,7 @@
+[u'book_jacket', 0.33653584, u'cinema', 0.11820568, u'scoreboard', 0.054632891, u'comic_book', 0.050585166, u'barbershop', 0.044852406]
+[u'web_site', 0.73486871, u'envelope', 0.136858, u'menu', 0.058584679, u'rule', 0.015482234, u'binder', 0.0044285804]
+[u'lampshade', 0.59088641, u'table_lamp', 0.2967383, u'perfume', 0.016013335, u'red_wine', 0.011396489, u'hourglass', 0.010847986]
+[u'web_site', 0.66906679, u'envelope', 0.27583036, u'menu', 0.012308292, u'binder', 0.0021326267, u'hook', 0.0018259815]
+[u'lampshade', 0.60039616, u'table_lamp', 0.29883829, u'perfume', 0.013244381, u'red_wine', 0.010763622, u'hourglass', 0.0087677957]
+[u'hook', 0.23689967, u'chime', 0.086200438, u'candle', 0.068465598, u'matchstick', 0.058326185, u'theater_curtain', 0.036092117]
+[u'web_site', 0.79980296, u'envelope', 0.16302268, u'slide_rule', 0.013949741, u'oscilloscope', 0.0034685128, u'rule', 0.0028241344]

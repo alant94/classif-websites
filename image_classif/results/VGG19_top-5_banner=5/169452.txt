@@ -1,0 +1,4 @@
+[u'unicycle', 0.48295513, u'bicycle-built-for-two', 0.28928062, u'mountain_bike', 0.096728005, u'tricycle', 0.058209497, u'hook', 0.0083070314]
+[u'picket_fence', 0.25473067, u'shower_curtain', 0.059448682, u'coral_fungus', 0.048769608, u'fountain', 0.025627919, u'paintbrush', 0.02488308]
+[u'shower_curtain', 0.16685736, u'picket_fence', 0.094230726, u'quill', 0.073461577, u'fire_screen', 0.025968075, u'wardrobe', 0.025408048]
+[u'vulture', 0.060921595, u'flagpole', 0.05861634, u'bald_eagle', 0.031185979, u'cliff', 0.02527497, u'pole', 0.024722826]

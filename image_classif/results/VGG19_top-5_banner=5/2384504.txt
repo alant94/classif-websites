@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.59466928, u'envelope', 0.030226117, u'maze', 0.02343508, u'digital_clock', 0.018045792, u'web_site', 0.017804079]
+[u'digital_clock', 0.65430546, u'Band_Aid', 0.040114678, u'digital_watch', 0.034862161, u'picket_fence', 0.012468485, u'web_site', 0.010912847]
+[u'matchstick', 0.30788153, u'pencil_sharpener', 0.15102527, u'panpipe', 0.097108811, u'maze', 0.092332222, u'coil', 0.065506957]
+[u'digital_clock', 0.1478951, u'crossword_puzzle', 0.10468037, u'wall_clock', 0.088134252, u'envelope', 0.048818275, u'maze', 0.044253878]
+[u'digital_clock', 0.21045557, u'container_ship', 0.13030995, u'scoreboard', 0.052628294, u'traffic_light', 0.048754863, u'wall_clock', 0.04638486]
+[u'cinema', 0.10582973, u'street_sign', 0.10267846, u'analog_clock', 0.091516279, u'digital_clock', 0.076738179, u'web_site', 0.059487801]

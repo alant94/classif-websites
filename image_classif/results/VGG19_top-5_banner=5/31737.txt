@@ -1,0 +1,3 @@
+[u'sarong', 0.59661973, u'gown', 0.35770753, u'overskirt', 0.029237963, u'velvet', 0.0084703406, u'hoopskirt', 0.0033309651]
+[u'wig', 0.78717399, u'mask', 0.053973638, u'lipstick', 0.03522332, u'perfume', 0.028303029, u'hair_spray', 0.026134992]
+[u'gown', 0.40342608, u'sarong', 0.334705, u'pajama', 0.029854186, u'maillot', 0.024454786, u'maillot', 0.023705488]

@@ -1,0 +1,5 @@
+[u'hook', 0.15933827, u'shovel', 0.14859907, u'swab', 0.12334908, u'plunger', 0.080491826, u'matchstick', 0.058519356]
+[u'digital_clock', 0.1072831, u'web_site', 0.095565595, u'envelope', 0.048759229, u'Band_Aid', 0.023872903, u'wall_clock', 0.015236444]
+[u'red_wine', 0.22711712, u'coffee_mug', 0.18253917, u'wine_bottle', 0.099861562, u'beer_bottle', 0.089792944, u'chocolate_sauce', 0.065517105]
+[u'Band_Aid', 0.11787452, u'envelope', 0.10797259, u'candle', 0.068620652, u'lipstick', 0.039512698, u'ice_lolly', 0.037093375]
+[u'envelope', 0.30471015, u'web_site', 0.20721978, u'book_jacket', 0.023109201, u'analog_clock', 0.021911873, u'wall_clock', 0.015153953]

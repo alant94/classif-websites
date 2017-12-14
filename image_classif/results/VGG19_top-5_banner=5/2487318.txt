@@ -1,0 +1,6 @@
+[u'geyser', 0.087837324, u'bison', 0.06979353, u'space_shuttle', 0.040926408, u'crane', 0.039161284, u'American_egret', 0.038700148]
+[u'digital_clock', 0.29794249, u'street_sign', 0.15301891, u'traffic_light', 0.087152891, u'Band_Aid', 0.027669514, u'cinema', 0.027248332]
+[u'digital_clock', 0.066647708, u'traffic_light', 0.057872124, u'crane', 0.040444873, u'cinema', 0.038752887, u'street_sign', 0.038650576]
+[u'crossword_puzzle', 0.31201753, u'digital_clock', 0.065062538, u'digital_watch', 0.063484587, u'quilt', 0.057892993, u'maze', 0.039673343]
+[u'crossword_puzzle', 0.22136773, u'harp', 0.049303953, u'quill', 0.047749378, u'jigsaw_puzzle', 0.036930244, u'fur_coat', 0.024148319]
+[u'airship', 0.091789909, u'oxcart', 0.063740201, u'fountain', 0.059505049, u'ox', 0.056122705, u'cannon', 0.037308276]

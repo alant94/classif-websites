@@ -1,0 +1,4 @@
+[u'sewing_machine', 0.10817634, u'desk', 0.07678365, u'power_drill', 0.060769111, u'toyshop', 0.058954936, u'stretcher', 0.039043389]
+[u'window_screen', 0.30065942, u'sliding_door', 0.23711011, u'entertainment_center', 0.19554637, u'jigsaw_puzzle', 0.043530673, u'window_shade', 0.032554407]
+[u'cliff', 0.17514281, u'bookshop', 0.046343874, u'fire_screen', 0.041770369, u'theater_curtain', 0.036271457, u'jigsaw_puzzle', 0.035462834]
+[u'hartebeest', 0.13715008, u'book_jacket', 0.093849391, u'African_hunting_dog', 0.084470294, u'Arabian_camel', 0.07123892, u'comic_book', 0.049224496]

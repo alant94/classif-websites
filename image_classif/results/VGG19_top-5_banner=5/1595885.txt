@@ -1,0 +1,1 @@
+[u'envelope', 0.045448605, u'modem', 0.0445843, u'notebook', 0.031706583, u'street_sign', 0.024753613, u'laptop', 0.024679726]

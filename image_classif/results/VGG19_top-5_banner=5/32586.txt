@@ -1,0 +1,1 @@
+[u'goldfish', 0.54803246, u'shoe_shop', 0.046328809, u'monitor', 0.032264438, u'hummingbird', 0.024134513, u'toaster', 0.018363019]

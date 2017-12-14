@@ -1,0 +1,1 @@
+[u'airship', 0.25797123, u'hook', 0.18594904, u'reel', 0.046705849, u'fountain_pen', 0.040528797, u'ballpoint', 0.03567262]

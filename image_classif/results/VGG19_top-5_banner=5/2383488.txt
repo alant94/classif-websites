@@ -1,0 +1,6 @@
+[u'street_sign', 0.4862912, u'book_jacket', 0.23328814, u'puck', 0.039267074, u'barbershop', 0.038724378, u'scoreboard', 0.028221795]
+[u'hair_spray', 0.21295315, u'lipstick', 0.16572982, u'ice_lolly', 0.072626613, u'paintbrush', 0.047532585, u'candle', 0.045613181]
+[u'iron', 0.35092402, u'can_opener', 0.13063207, u'soap_dispenser', 0.068739399, u'mouse', 0.04642012, u'quill', 0.044365034]
+[u'microphone', 0.99213952, u'spotlight', 0.0037941099, u'hand_blower', 0.0011671172, u'strainer', 0.00066846679, u'spatula', 0.00041912365]
+[u'syringe', 0.33655959, u'ballpoint', 0.14485259, u'screwdriver', 0.1341909, u'projectile', 0.1196347, u'letter_opener', 0.080493852]
+[u'conch', 0.29801887, u'quill', 0.13511959, u'nipple', 0.066496648, u'chambered_nautilus', 0.04560769, u'knot', 0.037506726]

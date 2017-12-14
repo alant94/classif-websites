@@ -1,0 +1,7 @@
+[u'brassiere', 0.63863534, u'maillot', 0.079969965, u'bikini', 0.031517431, u'miniskirt', 0.01944121, u'quill', 0.01581417]
+[u'bikini', 0.63358092, u'brassiere', 0.19160469, u'maillot', 0.05448379, u'feather_boa', 0.021268792, u'cowboy_hat', 0.010927592]
+[u'toilet_tissue', 0.3475627, u'bathtub', 0.14514251, u'diaper', 0.12632239, u'bath_towel', 0.10401485, u'tub', 0.05719772]
+[u'jean', 0.46800521, u'fur_coat', 0.10388473, u'stole', 0.092563771, u'bath_towel', 0.033124991, u'wig', 0.026733672]
+[u'brassiere', 0.07006792, u'hair_spray', 0.059809964, u'dumbbell', 0.050754465, u'maillot', 0.047728065, u'neck_brace', 0.045120459]
+[u'bikini', 0.096578605, u'bathing_cap', 0.058243938, u'stethoscope', 0.049649019, u'loupe', 0.04740173, u'dumbbell', 0.041503076]
+[u'crossword_puzzle', 0.62477839, u'digital_watch', 0.051890798, u'quilt', 0.050959989, u'maze', 0.042585768, u'digital_clock', 0.038366854]

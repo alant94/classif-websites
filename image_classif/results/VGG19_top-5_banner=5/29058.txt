@@ -1,0 +1,4 @@
+[u'web_site', 0.19078147, u'book_jacket', 0.14950743, u'hook', 0.091492876, u'nail', 0.037544373, u'street_sign', 0.030546673]
+[u'safe', 0.13448822, u'oscilloscope', 0.072058514, u'cassette', 0.068883151, u'monitor', 0.059761085, u'vending_machine', 0.055294909]
+[u'screwdriver', 0.71510381, u"carpenter's_kit", 0.12764436, u'hook', 0.050387137, u'ski', 0.024686791, u'shovel', 0.017643275]
+[u'swab', 0.10508653, u'hair_spray', 0.086696595, u'water_bottle', 0.057843383, u'book_jacket', 0.048186943, u'ashcan', 0.046454959]

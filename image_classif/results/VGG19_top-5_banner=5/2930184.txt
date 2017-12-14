@@ -1,0 +1,6 @@
+[u'barber_chair', 0.28289732, u'barbershop', 0.1056318, u'dining_table', 0.063332945, u'desk', 0.04889736, u'barbell', 0.022869807]
+[u'running_shoe', 0.24255599, u'oil_filter', 0.14346482, u'coffee_mug', 0.060723949, u'lighter', 0.054757804, u'racket', 0.04930339]
+[u'doormat', 0.41334122, u'book_jacket', 0.2097452, u'packet', 0.093199544, u'Christmas_stocking', 0.027454421, u'Band_Aid', 0.026163388]
+[u'hook', 0.11040087, u'binder', 0.091063134, u'corkscrew', 0.078171946, u'shovel', 0.065813094, u'mousetrap', 0.044422485]
+[u'sunglasses', 0.22797127, u'seat_belt', 0.22549675, u'sunglass', 0.13540551, u'car_mirror', 0.065966144, u'wig', 0.034584146]
+[u'iron', 0.66801196, u'Loafer', 0.049585532, u'clog', 0.043662891, u'mouse', 0.01965845, u'backpack', 0.011183084]

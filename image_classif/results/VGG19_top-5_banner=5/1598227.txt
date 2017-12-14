@@ -1,0 +1,5 @@
+[u'television', 0.19954272, u'monitor', 0.17845814, u'web_site', 0.14008114, u'screen', 0.081409462, u'notebook', 0.052023157]
+[u'bath_towel', 0.23994176, u'brassiere', 0.19409925, u'bikini', 0.12457694, u'maillot', 0.044952262, u'diaper', 0.041510876]
+[u'brassiere', 0.72534382, u'bikini', 0.1929218, u'maillot', 0.049094688, u'maillot', 0.016365638, u'sarong', 0.00145208]
+[u'street_sign', 0.59044099, u'picket_fence', 0.06784495, u'book_jacket', 0.03008255, u'barbershop', 0.027458368, u'plate_rack', 0.023661949]
+[u'web_site', 0.22802423, u'television', 0.12872452, u'monitor', 0.097559869, u'screen', 0.091123484, u'notebook', 0.082702413]

@@ -1,0 +1,3 @@
+[u'hartebeest', 0.380079, u'impala', 0.30226055, u'gazelle', 0.22789226, u'zebra', 0.01193881, u'ibex', 0.010423916]
+[u'jigsaw_puzzle', 0.46363324, u'handkerchief', 0.12893626, u'envelope', 0.036190875, u'pillow', 0.03249523, u'shower_curtain', 0.02957751]
+[u'wall_clock', 0.10254136, u'analog_clock', 0.063464567, u'book_jacket', 0.054836158, u'envelope', 0.036162384, u'hook', 0.035821799]

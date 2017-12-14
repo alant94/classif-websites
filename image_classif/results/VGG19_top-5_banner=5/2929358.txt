@@ -1,0 +1,1 @@
+[u'switch', 0.17685692, u'screwdriver', 0.069483034, u'scoreboard', 0.05567237, u'remote_control', 0.047280755, u"carpenter's_kit", 0.044336639]

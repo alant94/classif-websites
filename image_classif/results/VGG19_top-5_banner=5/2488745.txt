@@ -1,0 +1,4 @@
+[u'bow_tie', 0.3733317, u'microphone', 0.060575552, u'suit', 0.043065578, u'spotlight', 0.040732529, u'television', 0.031996571]
+[u'comic_book', 0.49009499, u'book_jacket', 0.086666651, u'sarong', 0.054627787, u'macaw', 0.031283341, u'jigsaw_puzzle', 0.024370706]
+[u'web_site', 0.12286127, u'book_jacket', 0.037459206, u'analog_clock', 0.021982631, u'street_sign', 0.020959256, u'packet', 0.016659215]
+[u'butcher_shop', 0.4349134, u'street_sign', 0.15083764, u'barbershop', 0.10862667, u'tobacco_shop', 0.060621455, u'book_jacket', 0.032267153]

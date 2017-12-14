@@ -1,0 +1,4 @@
+[u"potter's_wheel", 0.31136248, u'oxygen_mask', 0.1293412, u'shower_cap', 0.10396674, u'hand_blower', 0.067831211, u'dishwasher', 0.035404038]
+[u'microwave', 0.074722268, u'dishwasher', 0.058792252, u'cash_machine', 0.046507079, u'oscilloscope', 0.037498042, u'barbershop', 0.035475425]
+[u'lab_coat', 0.90595824, u'barbershop', 0.037538428, u'barber_chair', 0.010883604, u'gasmask', 0.0051021664, u'shower_cap', 0.0045265066]
+[u'lab_coat', 0.89176667, u'barbershop', 0.071132667, u'barber_chair', 0.010089901, u'cash_machine', 0.0037784991, u'oxygen_mask', 0.0035012355]

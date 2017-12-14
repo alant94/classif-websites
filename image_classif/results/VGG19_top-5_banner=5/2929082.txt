@@ -1,0 +1,5 @@
+[u'spotlight', 0.13357612, u'matchstick', 0.088284887, u'digital_clock', 0.084955558, u'web_site', 0.06151244, u'analog_clock', 0.057838738]
+[u'lab_coat', 0.33719313, u'ski', 0.18462163, u'picket_fence', 0.16320856, u'shower_curtain', 0.030081956, u'fountain', 0.027042804]
+[u'spotlight', 0.13357612, u'matchstick', 0.088284887, u'digital_clock', 0.084955558, u'web_site', 0.06151244, u'analog_clock', 0.057838738]
+[u'rubber_eraser', 0.14319348, u'safety_pin', 0.034019705, u'rule', 0.033402119, u'hair_slide', 0.030025922, u'Band_Aid', 0.02531405]
+[u'rule', 0.11009947, u'web_site', 0.062007248, u'envelope', 0.053098265, u'nail', 0.023147272, u'binder', 0.022600759]

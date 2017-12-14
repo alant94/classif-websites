@@ -1,0 +1,3 @@
+[u'plunger', 0.19586086, u'spindle', 0.18590924, u'maraca', 0.1679731, u'banana', 0.074325301, u'mortar', 0.055778246]
+[u'matchstick', 0.1491563, u'paintbrush', 0.090141818, u'nail', 0.037139129, u"carpenter's_kit", 0.03429319, u'flute', 0.032921869]
+[u'lumbermill', 0.42225397, u'butcher_shop', 0.14950137, u'rotisserie', 0.10316287, u'grocery_store', 0.058329839, u'caldron', 0.036455717]

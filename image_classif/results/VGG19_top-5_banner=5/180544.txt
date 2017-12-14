@@ -1,0 +1,6 @@
+[u'container_ship', 0.36325145, u'modem', 0.076639652, u'binder', 0.06107799, u'envelope', 0.045509107, u'switch', 0.034465455]
+[u'abacus', 0.12273728, u'rule', 0.079339631, u'packet', 0.072291896, u'web_site', 0.044582985, u'vending_machine', 0.032662213]
+[u'toyshop', 0.5068835, u'jigsaw_puzzle', 0.15172477, u'tobacco_shop', 0.067542128, u'confectionery', 0.047786731, u'web_site', 0.028935457]
+[u'comic_book', 0.38427436, u'jigsaw_puzzle', 0.10861815, u'web_site', 0.058800958, u'menu', 0.049036276, u'envelope', 0.047393367]
+[u'abacus', 0.61045349, u'web_site', 0.071815185, u'scoreboard', 0.047204118, u'safety_pin', 0.038969904, u'tray', 0.037619621]
+[u'toyshop', 0.26015404, u'web_site', 0.20522727, u'jigsaw_puzzle', 0.19266875, u'vending_machine', 0.049680967, u'tobacco_shop', 0.025988212]

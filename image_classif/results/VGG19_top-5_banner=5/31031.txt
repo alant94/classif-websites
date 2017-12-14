@@ -1,0 +1,1 @@
+[u'bow_tie', 0.081532933, u'mask', 0.067368962, u'comic_book', 0.064908236, u'breastplate', 0.054952286, u'bookshop', 0.043481722]

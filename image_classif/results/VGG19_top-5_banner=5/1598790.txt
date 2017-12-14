@@ -1,0 +1,7 @@
+[u'digital_clock', 0.77727771, u'oscilloscope', 0.034893256, u'cash_machine', 0.025572736, u'monitor', 0.019455316, u'digital_watch', 0.01849422]
+[u'digital_clock', 0.77460128, u'oscilloscope', 0.043702517, u'digital_watch', 0.041825734, u'screen', 0.027929334, u'monitor', 0.023026599]
+[u'digital_clock', 0.12793525, u'screwdriver', 0.10950074, u'rubber_eraser', 0.081394687, u'harmonica', 0.075498432, u'lighter', 0.044907376]
+[u'digital_clock', 0.86033642, u'digital_watch', 0.08719039, u'stopwatch', 0.0074073034, u'switch', 0.0060999305, u'scoreboard', 0.0028097795]
+[u'harmonica', 0.32502514, u'digital_clock', 0.11083647, u'lighter', 0.090857819, u'rubber_eraser', 0.051830284, u'screwdriver', 0.033312928]
+[u'carton', 0.22422831, u'swimming_trunks', 0.13211265, u'Band_Aid', 0.099283837, u'refrigerator', 0.063415796, u'web_site', 0.060220357]
+[u'chime', 0.18293926, u'screwdriver', 0.06082743, u"carpenter's_kit", 0.05321227, u'nail', 0.03782028, u'picket_fence', 0.026513454]

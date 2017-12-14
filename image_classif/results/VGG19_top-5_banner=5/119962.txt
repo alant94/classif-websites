@@ -1,0 +1,3 @@
+[u'scoreboard', 0.28616038, u'comic_book', 0.10993028, u'web_site', 0.082454905, u'analog_clock', 0.069830775, u'street_sign', 0.036328334]
+[u'tape_player', 0.24325275, u'cassette', 0.12141783, u'cassette_player', 0.11494381, u'CD_player', 0.05246681, u'radio', 0.04157944]
+[u'envelope', 0.34060979, u'web_site', 0.32812557, u'monitor', 0.046379793, u'screen', 0.029718699, u'binder', 0.023397772]

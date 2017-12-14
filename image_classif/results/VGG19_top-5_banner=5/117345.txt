@@ -1,0 +1,3 @@
+[u'book_jacket', 0.46330798, u'scoreboard', 0.13796085, u'digital_clock', 0.068176068, u'street_sign', 0.063197523, u'jersey', 0.023594746]
+[u'chest', 0.071984738, u'Dungeness_crab', 0.07054273, u'banana', 0.051898926, u'half_track', 0.05153678, u'hen-of-the-woods', 0.031746302]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

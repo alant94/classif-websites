@@ -1,0 +1,4 @@
+[u'moving_van', 0.25217441, u'trailer_truck', 0.16405311, u'packet', 0.11123268, u'carton', 0.06176465, u'ambulance', 0.056505077]
+[u'beacon', 0.30080831, u'bell_cote', 0.16143636, u'envelope', 0.072817281, u'obelisk', 0.038784619, u'crane', 0.032248069]
+[u'screen', 0.071625479, u'laptop', 0.057803266, u'modem', 0.056109279, u'book_jacket', 0.054730114, u'monitor', 0.04926993]
+[u'packet', 0.33651179, u'slot', 0.24226549, u'hand-held_computer', 0.21700288, u'vending_machine', 0.01888446, u'pay-phone', 0.015446273]

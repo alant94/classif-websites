@@ -1,0 +1,6 @@
+[u'library', 0.33012301, u'prison', 0.18557186, u'patio', 0.11965388, u'palace', 0.076403044, u'monastery', 0.033512104]
+[u'traffic_light', 0.099713586, u'digital_clock', 0.076432422, u'street_sign', 0.062144104, u'scoreboard', 0.039419588, u'jersey', 0.038708072]
+[u'cash_machine', 0.45681128, u'screen', 0.10059576, u'television', 0.063519113, u'punching_bag', 0.02999741, u'monitor', 0.02991656]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'book_jacket', 0.262559, u'street_sign', 0.12200704, u'barbershop', 0.09911935, u'chainlink_fence', 0.03586597, u'comic_book', 0.033214409]
+[u'barbershop', 0.83648443, u'street_sign', 0.045939036, u'restaurant', 0.025589295, u'bakery', 0.022541527, u'tobacco_shop', 0.018304577]

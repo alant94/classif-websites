@@ -1,0 +1,8 @@
+[u'minivan', 0.2544269, u'car_wheel', 0.069110326, u'seat_belt', 0.051078983, u'vacuum', 0.047296777, u'racer', 0.04566624]
+[u'cannon', 0.086641885, u'toilet_tissue', 0.062994763, u'paper_towel', 0.062825873, u'oil_filter', 0.049269561, u'missile', 0.031008437]
+[u'convertible', 0.18525425, u'minivan', 0.15192223, u'racer', 0.069974884, u'vacuum', 0.052338492, u'cassette_player', 0.044941112]
+[u'plane', 0.08557535, u'Polaroid_camera', 0.073971272, u'can_opener', 0.073320031, u'whistle', 0.067762949, u'pencil_sharpener', 0.046488367]
+[u'car_wheel', 0.08167401, u'football_helmet', 0.060382888, u'sports_car', 0.046241786, u'totem_pole', 0.045532886, u'running_shoe', 0.045222946]
+[u'pencil_sharpener', 0.23201954, u'ashcan', 0.16361755, u'loupe', 0.11179774, u'projector', 0.066297822, u'toilet_seat', 0.062683076]
+[u"potter's_wheel", 0.15604728, u'Crock_Pot', 0.15332648, u'espresso_maker', 0.13211608, u'can_opener', 0.11735808, u'Dutch_oven', 0.049649339]
+[u'electric_fan', 0.14257282, u'coil', 0.075974211, u'bannister', 0.062914506, u'half_track', 0.054012451, u'oxygen_mask', 0.044105459]

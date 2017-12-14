@@ -1,0 +1,5 @@
+[u'goblet', 0.32840788, u'cocktail_shaker', 0.18856935, u'beaker', 0.095291197, u'measuring_cup', 0.076799504, u'hourglass', 0.038774513]
+[u'chain_saw', 0.24172559, u'cinema', 0.12308246, u'airship', 0.097893313, u'hook', 0.090908803, u'street_sign', 0.089695491]
+[u'carton', 0.44869044, u'laptop', 0.10819825, u'crate', 0.063886054, u'notebook', 0.051553555, u'chest', 0.033660449]
+[u'bathing_cap', 0.23529309, u'carousel', 0.20866935, u'shower_cap', 0.08425916, u'wig', 0.048279375, u'jigsaw_puzzle', 0.037220553]
+[u'cellular_telephone', 0.27923229, u'iPod', 0.25839695, u'cash_machine', 0.11833332, u'stopwatch', 0.04710868, u'hand-held_computer', 0.042458523]

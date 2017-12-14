@@ -1,0 +1,2 @@
+[u'swab', 0.43958488, u'hook', 0.08897312, u'matchstick', 0.036454491, u'bow', 0.029098375, u'nail', 0.028074868]
+[u'volcano', 0.53572685, u'lakeside', 0.16770515, u'seashore', 0.11651701, u'promontory', 0.065768674, u'geyser', 0.037114393]

@@ -1,0 +1,8 @@
+[u'analog_clock', 0.10536207, u'spotlight', 0.064633839, u'crane', 0.051283572, u'suspension_bridge', 0.044814721, u'loupe', 0.042634256]
+[u'analog_clock', 0.082418881, u'puck', 0.048195906, u'matchstick', 0.040348008, u'book_jacket', 0.039574135, u'wall_clock', 0.03871483]
+[u'Petri_dish', 0.14532505, u'analog_clock', 0.086593077, u'shield', 0.056481473, u'pick', 0.040051077, u'tray', 0.039613131]
+[u'digital_clock', 0.13279411, u'stopwatch', 0.10656822, u'iPod', 0.10187049, u'lens_cap', 0.079713061, u'analog_clock', 0.067669474]
+[u'coil', 0.45280176, u'baseball', 0.099898756, u'ping-pong_ball', 0.096061617, u'spotlight', 0.051286731, u'chambered_nautilus', 0.027758824]
+[u'stupa', 0.3983787, u'bell_cote', 0.12170611, u'analog_clock', 0.041989148, u'space_shuttle', 0.033803578, u'dome', 0.027441375]
+[u'nematode', 0.10853036, u'bib', 0.072964035, u'analog_clock', 0.060988914, u'space_shuttle', 0.060555834, u'bolo_tie', 0.051558111]
+[u'coil', 0.27749199, u'maze', 0.11937093, u'stove', 0.066012032, u'car_wheel', 0.041895065, u'matchstick', 0.039719578]

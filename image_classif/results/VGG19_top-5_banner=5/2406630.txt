@@ -1,0 +1,7 @@
+[u'screw', 0.2403257, u'nail', 0.23059961, u'letter_opener', 0.15476085, u'spatula', 0.033060089, u'rule', 0.028564923]
+[u'space_shuttle', 0.420241, u'drilling_platform', 0.37480274, u'triumphal_arch', 0.018073712, u'aircraft_carrier', 0.014893588, u'bell_cote', 0.014594896]
+[u'goblet', 0.46778157, u'cocktail_shaker', 0.1816127, u'beer_glass', 0.054144379, u'red_wine', 0.050506871, u'eggnog', 0.029019883]
+[u'spotlight', 0.2849966, u'cornet', 0.16913775, u'buckle', 0.10103694, u'combination_lock', 0.097766921, u'loupe', 0.051707625]
+[u'magnetic_compass', 0.25288776, u'loupe', 0.19964853, u'combination_lock', 0.13906167, u'spotlight', 0.064194821, u'thimble', 0.054455154]
+[u'letter_opener', 0.25869593, u'strainer', 0.23138258, u'can_opener', 0.080547042, u'spatula', 0.076973401, u'ladle', 0.073301092]
+[u'street_sign', 0.078190565, u'web_site', 0.055842504, u'envelope', 0.034791104, u'packet', 0.033470262, u'menu', 0.032770358]

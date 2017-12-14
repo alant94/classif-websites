@@ -1,0 +1,1 @@
+[u'pencil_sharpener', 0.12812346, u'power_drill', 0.057638377, u'hook', 0.042976417, u'lawn_mower', 0.039718419, u'can_opener', 0.039590124]

@@ -1,0 +1,2 @@
+[u'puck', 0.22271544, u'buckle', 0.15248276, u'bottlecap', 0.097844496, u'tray', 0.094390385, u'shield', 0.092169113]
+[u'vulture', 0.076042511, u'warplane', 0.06907545, u'parachute', 0.065746017, u'stupa', 0.047437683, u'wing', 0.045418728]

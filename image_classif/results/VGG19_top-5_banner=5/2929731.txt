@@ -1,0 +1,2 @@
+[u'switch', 0.23653623, u'envelope', 0.071017265, u'soap_dispenser', 0.057401121, u'shower_curtain', 0.051382124, u'carton', 0.033123262]
+[u'lakeside', 0.74206531, u'alp', 0.054850705, u'valley', 0.04494274, u'boathouse', 0.012395179, u'seashore', 0.0111492]

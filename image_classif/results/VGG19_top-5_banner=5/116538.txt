@@ -1,0 +1,1 @@
+[u'container_ship', 0.57487607, u'digital_clock', 0.16235611, u'envelope', 0.060881395, u'maze', 0.02795033, u'jigsaw_puzzle', 0.010338673]

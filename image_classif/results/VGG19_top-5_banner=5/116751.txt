@@ -1,0 +1,2 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'totem_pole', 0.32760164, u'traffic_light', 0.10217372, u'lampshade', 0.091364242, u'torch', 0.088043548, u'pole', 0.047400635]

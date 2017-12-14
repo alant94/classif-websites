@@ -1,0 +1,7 @@
+[u'bow', 0.053959101, u'rifle', 0.048967164, u'assault_rifle', 0.042666342, u'vulture', 0.034192253, u'nail', 0.033186428]
+[u'stone_wall', 0.10629395, u'coho', 0.098947302, u'snowmobile', 0.052232217, u'sleeping_bag', 0.051931795, u'valley', 0.043642692]
+[u'street_sign', 0.15208885, u'Band_Aid', 0.11308057, u'lighter', 0.10451204, u'book_jacket', 0.05786537, u'gas_pump', 0.04469575]
+[u'screwdriver', 0.20263486, u'cleaver', 0.12057444, u'ballpoint', 0.077328049, u"carpenter's_kit", 0.068342648, u'spatula', 0.039576631]
+[u'digital_clock', 0.26652747, u'street_sign', 0.10976569, u'cash_machine', 0.0404322, u'pill_bottle', 0.032643873, u'gas_pump', 0.023058781]
+[u'matchstick', 0.064106591, u'lampshade', 0.052988436, u'hook', 0.027125834, u'perfume', 0.022584045, u'table_lamp', 0.022570662]
+[u'parachute', 0.085909657, u'stone_wall', 0.06742242, u'Arabian_camel', 0.064750001, u'cliff', 0.062948197, u'assault_rifle', 0.061375584]

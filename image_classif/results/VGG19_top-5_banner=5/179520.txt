@@ -1,0 +1,8 @@
+[u'swab', 0.29284862, u'nail', 0.087716237, u'hook', 0.052309122, u'hammer', 0.047068737, u'screwdriver', 0.037317745]
+[u'groom', 0.46393728, u'mortarboard', 0.10418584, u'restaurant', 0.04353942, u'academic_gown', 0.040103849, u'gown', 0.027946224]
+[u'fur_coat', 0.47860438, u'cloak', 0.18437734, u'wig', 0.13992487, u'stole', 0.02012245, u'poncho', 0.013629898]
+[u'soccer_ball', 0.82895863, u'balance_beam', 0.05751935, u'horizontal_bar', 0.026221931, u'volleyball', 0.024710847, u'knee_pad', 0.019611469]
+[u'stage', 0.16909105, u'lab_coat', 0.13758081, u'mortarboard', 0.069548234, u'theater_curtain', 0.031869922, u'academic_gown', 0.028869158]
+[u'stretcher', 0.35009843, u'rugby_ball', 0.12472553, u'police_van', 0.05206861, u'bulletproof_vest', 0.047853444, u'Leonberg', 0.047557902]
+[u'crutch', 0.29073775, u'swab', 0.2357695, u'stole', 0.20998371, u'plunger', 0.036408842, u'croquet_ball', 0.029585814]
+[u'web_site', 0.9993723, u'comic_book', 0.00023418342, u'menu', 0.00016745625, u'book_jacket', 9.3994669e-05, u'scoreboard', 4.2363688e-05]

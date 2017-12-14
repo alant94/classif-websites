@@ -1,0 +1,3 @@
+[u'scoreboard', 0.12487133, u'moving_van', 0.053886954, u'cash_machine', 0.044848744, u"carpenter's_kit", 0.043896582, u'ashcan', 0.032987073]
+[u'jigsaw_puzzle', 0.32616791, u'packet', 0.18700673, u'envelope', 0.094287917, u'menu', 0.049748778, u'swimming_trunks', 0.043664843]
+[u'pick', 0.68166775, u'rubber_eraser', 0.071198039, u'balloon', 0.054551855, u'punching_bag', 0.017529955, u'matchstick', 0.011164034]

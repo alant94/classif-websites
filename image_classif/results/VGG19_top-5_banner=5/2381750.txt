@@ -1,0 +1,5 @@
+[u'cannon', 0.2565726, u'mailbox', 0.17939982, u'spotlight', 0.05668376, u'dam', 0.034517981, u'projector', 0.034393013]
+[u'butcher_shop', 0.17696072, u'ladle', 0.079337604, u'barrow', 0.069452241, u'cleaver', 0.051348001, u'paintbrush', 0.045985185]
+[u'alp', 0.52771884, u'cliff', 0.088733293, u'promontory', 0.054438867, u'lakeside', 0.044939868, u'volcano', 0.043869589]
+[u'missile', 0.48252398, u'projectile', 0.2959469, u'cannon', 0.099882983, u'fountain', 0.043564543, u'fireboat', 0.018915374]
+[u'church', 0.53500122, u'alp', 0.16197175, u'barn', 0.11395016, u'beacon', 0.026157472, u'flagpole', 0.023094878]

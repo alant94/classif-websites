@@ -1,0 +1,7 @@
+[u'Band_Aid', 0.12632753, u'matchstick', 0.081481434, u'envelope', 0.064623088, u'picket_fence', 0.055549931, u'book_jacket', 0.048580136]
+[u'custard_apple', 0.30567759, u'sea_urchin', 0.29788011, u'acorn', 0.14789613, u'dough', 0.072094895, u'French_loaf', 0.044737253]
+[u'matchstick', 0.54650193, u'rubber_eraser', 0.070075169, u'envelope', 0.042474329, u'candle', 0.03566904, u'drumstick', 0.025368968]
+[u'digital_clock', 0.19023825, u'Band_Aid', 0.12882358, u'envelope', 0.10592585, u'doormat', 0.0480204, u'matchstick', 0.024163773]
+[u'menu', 0.68266892, u'packet', 0.13348843, u'web_site', 0.088745147, u'tray', 0.010280902, u'screen', 0.0083054258]
+[u'matchstick', 0.24447112, u'binder', 0.11594534, u'envelope', 0.11184957, u'crib', 0.08029177, u'candle', 0.047616102]
+[u'envelope', 0.1676228, u'crib', 0.10274161, u'picket_fence', 0.073428847, u'matchstick', 0.071060762, u'rule', 0.038117044]

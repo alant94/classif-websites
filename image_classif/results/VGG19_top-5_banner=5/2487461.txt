@@ -1,0 +1,7 @@
+[u'envelope', 0.053754646, u'flagpole', 0.044908997, u'traffic_light', 0.036963969, u'digital_clock', 0.036185332, u'wall_clock', 0.033053618]
+[u'microwave', 0.919002, u'dishwasher', 0.03376735, u'washer', 0.011450959, u'refrigerator', 0.0091894763, u'medicine_chest', 0.0043242448]
+[u'container_ship', 0.68947554, u'digital_clock', 0.067119777, u'pill_bottle', 0.041918408, u'airship', 0.012334312, u'envelope', 0.01203642]
+[u'microwave', 0.4625417, u'dishwasher', 0.2462848, u'refrigerator', 0.056512929, u'washer', 0.050117075, u'stove', 0.02715083]
+[u'patio', 0.71143097, u'monastery', 0.039941791, u'palace', 0.034852706, u'cinema', 0.022173479, u'half_track', 0.015115241]
+[u'matchstick', 0.044565294, u'nematode', 0.032500122, u'fly', 0.025178466, u'ladybug', 0.024818636, u'vine_snake', 0.023826107]
+[u'book_jacket', 0.10127144, u'web_site', 0.089514092, u'scoreboard', 0.082332306, u'street_sign', 0.057070374, u'comic_book', 0.047575068]

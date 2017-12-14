@@ -1,0 +1,8 @@
+[u'dining_table', 0.85795581, u'restaurant', 0.080689125, u'china_cabinet', 0.022274232, u'rocking_chair', 0.008207418, u'patio', 0.0049157538]
+[u'gas_pump', 0.21208976, u'solar_dish', 0.11221832, u'mobile_home', 0.075740002, u'sliding_door', 0.074431017, u'flagpole', 0.043371923]
+[u'harvestman', 0.10294199, u'envelope', 0.049465194, u'centipede', 0.038180023, u'mouse', 0.034092907, u'long-horned_beetle', 0.025585255]
+[u'fountain', 0.21552609, u'coral_fungus', 0.13124634, u'seashore', 0.12858376, u'pinwheel', 0.10642233, u'torch', 0.027261384]
+[u'garbage_truck', 0.66530758, u'police_van', 0.16760215, u'minibus', 0.060791392, u'moving_van', 0.034686416, u'ambulance', 0.019349694]
+[u'pinwheel', 0.98782271, u'parachute', 0.0014473241, u'comic_book', 0.0010166051, u'pineapple', 0.00077634415, u'hair_slide', 0.00064660097]
+[u'street_sign', 0.050558243, u'web_site', 0.032250375, u'digital_clock', 0.029586265, u'hair_spray', 0.029028062, u'Band_Aid', 0.025865311]
+[u'palace', 0.12916915, u'church', 0.098192841, u'triumphal_arch', 0.061673127, u'monastery', 0.060835533, u'mosque', 0.053108066]

@@ -1,0 +1,2 @@
+[u'shoji', 0.14920194, u'trench_coat', 0.10106549, u'kimono', 0.069880076, u'sweatshirt', 0.036022794, u'window_shade', 0.023073032]
+[u'matchstick', 0.32020608, u'pencil_sharpener', 0.22408395, u'stupa', 0.20654115, u'panpipe', 0.1773688, u'envelope', 0.027183611]

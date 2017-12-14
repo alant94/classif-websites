@@ -1,0 +1,4 @@
+[u'brassiere', 0.88575888, u'bikini', 0.064491257, u'maillot', 0.033438873, u'miniskirt', 0.0077335099, u'sarong', 0.004824705]
+[u'brassiere', 0.48726788, u'bikini', 0.26440704, u'maillot', 0.17198782, u'maillot', 0.055320494, u'sarong', 0.0042700428]
+[u'bikini', 0.38370928, u'swimming_trunks', 0.30282545, u'maillot', 0.10190232, u'brassiere', 0.073431157, u'sarong', 0.031737268]
+[u'brassiere', 0.45071381, u'maillot', 0.27464277, u'miniskirt', 0.14885874, u'maillot', 0.076431111, u'bikini', 0.020358929]

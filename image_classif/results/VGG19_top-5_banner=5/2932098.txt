@@ -1,0 +1,2 @@
+[u'web_site', 0.98787421, u'menu', 0.0039533568, u'book_jacket', 0.0032073781, u'screen', 0.00067063223, u'monitor', 0.00054991181]
+[u'pomegranate', 0.42263916, u'American_lobster', 0.069054969, u'ice_lolly', 0.045318786, u'plunger', 0.045151833, u'rotisserie', 0.033119917]

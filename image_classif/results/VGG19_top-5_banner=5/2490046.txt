@@ -1,0 +1,1 @@
+[u'quail', 0.70406073, u'partridge', 0.21652859, u'badger', 0.035873875, u'ruffed_grouse', 0.016832326, u'ptarmigan', 0.0039515928]

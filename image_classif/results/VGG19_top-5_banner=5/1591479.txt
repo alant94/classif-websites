@@ -1,0 +1,8 @@
+[u'dam', 0.059629347, u'washer', 0.042360671, u'dishwasher', 0.029480772, u'pedestal', 0.026827974, u'toilet_seat', 0.022533227]
+[u'lab_coat', 0.21360514, u'bathing_cap', 0.10248896, u'shower_cap', 0.093356431, u'pajama', 0.090858661, u'hand_blower', 0.039334726]
+[u'brassiere', 0.092227757, u'mosquito_net', 0.076536022, u'diaper', 0.054444693, u'lipstick', 0.05086796, u'wig', 0.048515547]
+[u'lotion', 0.046612289, u'lampshade', 0.04626254, u'vase', 0.044081993, u'Angora', 0.042835053, u'ping-pong_ball', 0.039317418]
+[u'crane', 0.0927855, u'wall_clock', 0.048851643, u'pool_table', 0.046669543, u'traffic_light', 0.043562613, u'table_lamp', 0.041354552]
+[u'digital_clock', 0.31632763, u'scoreboard', 0.22289543, u'book_jacket', 0.11624742, u'crossword_puzzle', 0.093273185, u'digital_watch', 0.03119738]
+[u'sunglasses', 0.37186918, u'sunglass', 0.20379664, u'bikini', 0.13338786, u'maillot', 0.092892051, u'maillot', 0.036853444]
+[u'perfume', 0.28313187, u'book_jacket', 0.12924825, u'lighter', 0.05939078, u'digital_clock', 0.046280831, u'hair_spray', 0.041895445]

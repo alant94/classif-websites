@@ -1,0 +1,1 @@
+[u'switch', 0.20389736, u'digital_clock', 0.094303526, u'hook', 0.071933277, u'whistle', 0.058657151, u'power_drill', 0.052815378]

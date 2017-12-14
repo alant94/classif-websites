@@ -1,0 +1,1 @@
+[u'envelope', 0.29707468, u'binder', 0.23478566, u'screen', 0.16218366, u'book_jacket', 0.043022659, u'laptop', 0.037670564]

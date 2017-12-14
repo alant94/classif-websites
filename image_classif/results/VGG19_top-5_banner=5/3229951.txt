@@ -1,0 +1,2 @@
+[u'web_site', 0.3032895, u'chain_saw', 0.076669954, u'ski', 0.042220827, u'hatchet', 0.034490015, u'parachute', 0.030741539]
+[u'web_site', 0.76361489, u'envelope', 0.10954705, u'Band_Aid', 0.012649116, u'rule', 0.0075428244, u'remote_control', 0.0067229387]

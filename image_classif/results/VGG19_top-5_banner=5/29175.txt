@@ -1,0 +1,3 @@
+[u'bib', 0.19466856, u'toilet_seat', 0.17277002, u'sombrero', 0.080420762, u'cowboy_hat', 0.065514438, u'bathtub', 0.0360789]
+[u'pickelhaube', 0.27095863, u'military_uniform', 0.1784059, u'bow_tie', 0.088954508, u'book_jacket', 0.072520621, u'suit', 0.05251478]
+[u'street_sign', 0.24493726, u'traffic_light', 0.20193368, u'puck', 0.169733, u'analog_clock', 0.042436991, u'loupe', 0.034915756]

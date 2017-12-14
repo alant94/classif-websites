@@ -1,0 +1,7 @@
+[u'assault_rifle', 0.32319525, u'bulletproof_vest', 0.23666811, u'hartebeest', 0.19626912, u'rifle', 0.089243576, u'military_uniform', 0.032173004]
+[u'sombrero', 0.21144474, u'mask', 0.2012201, u'cowboy_hat', 0.18618728, u'frilled_lizard', 0.097453102, u'ski_mask', 0.045420326]
+[u'sorrel', 0.58105886, u'horse_cart', 0.14838628, u'cowboy_hat', 0.14380309, u'ox', 0.048926257, u'plow', 0.035308585]
+[u'baboon', 0.092434116, u'ibex', 0.070669554, u'tusker', 0.044049386, u'cougar', 0.034015216, u'thatch', 0.033363141]
+[u'ibex', 0.55125171, u'bighorn', 0.19104058, u'gazelle', 0.06485834, u'ram', 0.044929914, u'impala', 0.043010514]
+[u'hartebeest', 0.70844072, u'tusker', 0.069909252, u'ox', 0.039722472, u'impala', 0.030824516, u'gazelle', 0.030227596]
+[u'ibex', 0.45343238, u'gazelle', 0.33902463, u'impala', 0.18185487, u'wallaby', 0.011987641, u'hartebeest', 0.009210391]

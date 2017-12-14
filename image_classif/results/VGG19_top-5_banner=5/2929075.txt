@@ -1,0 +1,8 @@
+[u'barbershop', 0.24593797, u'pajama', 0.072193041, u'butcher_shop', 0.068096377, u'barber_chair', 0.057276327, u'cleaver', 0.050192278]
+[u'web_site', 0.35267967, u'cash_machine', 0.067903064, u'neck_brace', 0.042019628, u'hair_spray', 0.036693208, u'Band_Aid', 0.029925426]
+[u'lab_coat', 0.53872633, u'neck_brace', 0.066753402, u'oxygen_mask', 0.064647369, u'stethoscope', 0.051266655, u'web_site', 0.039733969]
+[u'lab_coat', 0.53636038, u'web_site', 0.19147915, u'jersey', 0.017617323, u'racket', 0.0130115, u'neck_brace', 0.0081886919]
+[u'envelope', 0.10678964, u'web_site', 0.043223456, u'hook', 0.01937855, u'quill', 0.017408922, u'mortarboard', 0.017394235]
+[u'web_site', 0.35958084, u'wig', 0.099365622, u'mask', 0.038695488, u'academic_gown', 0.03574818, u'Band_Aid', 0.016237568]
+[u'pick', 0.10571665, u'Petri_dish', 0.091109291, u'magnetic_compass', 0.061500236, u'digital_watch', 0.060945857, u'tray', 0.052045312]
+[u'Windsor_tie', 0.21141525, u'suit', 0.20690104, u'library', 0.11755107, u'academic_gown', 0.059371546, u'bookshop', 0.056946646]

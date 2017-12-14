@@ -1,0 +1,7 @@
+[u'puck', 0.12251227, u'digital_clock', 0.068436787, u'traffic_light', 0.063159101, u'analog_clock', 0.055740602, u'matchstick', 0.041986469]
+[u'envelope', 0.34781253, u'web_site', 0.21487392, u'digital_clock', 0.067194223, u'Band_Aid', 0.042362683, u'wall_clock', 0.012466798]
+[u'acoustic_guitar', 0.19970267, u'electric_guitar', 0.1039361, u'pick', 0.094768107, u'matchstick', 0.090551078, u'puck', 0.047098175]
+[u'puck', 0.19884564, u'analog_clock', 0.089498423, u'loupe', 0.069461986, u'face_powder', 0.056843836, u'street_sign', 0.054434184]
+[u'chime', 0.56612808, u'picket_fence', 0.17252451, u'organ', 0.095409289, u'ski', 0.044317167, u'worm_fence', 0.020492686]
+[u'picket_fence', 0.75886393, u'matchstick', 0.11327627, u'worm_fence', 0.034681335, u'chime', 0.021420106, u'candle', 0.017538708]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

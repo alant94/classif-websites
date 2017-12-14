@@ -1,0 +1,4 @@
+[u'megalith', 0.86152768, u'stone_wall', 0.024948251, u'maze', 0.014579433, u'cliff', 0.010669801, u'totem_pole', 0.0075788149]
+[u'oscilloscope', 0.13854267, u'digital_clock', 0.10911731, u'monitor', 0.10769544, u'screen', 0.085272215, u'rule', 0.046770707]
+[u'screen', 0.13926242, u'cash_machine', 0.13559978, u'book_jacket', 0.084651917, u'monitor', 0.054609176, u'television', 0.051228754]
+[u'digital_clock', 0.31698406, u'oscilloscope', 0.31251609, u'scoreboard', 0.080209658, u'screen', 0.045311499, u'digital_watch', 0.038429108]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.17318696, u'web_site', 0.10833423, u'scoreboard', 0.062321119, u'comic_book', 0.056322765, u'analog_clock', 0.032612525]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

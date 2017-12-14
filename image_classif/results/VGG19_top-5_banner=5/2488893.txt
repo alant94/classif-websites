@@ -1,0 +1,3 @@
+[u'tray', 0.16194919, u'book_jacket', 0.074249901, u'mousetrap', 0.073758624, u'fire_screen', 0.064601041, u'microwave', 0.058511056]
+[u'fountain', 0.15398352, u'space_shuttle', 0.1236995, u'bell_cote', 0.047440235, u'dock', 0.024842236, u'fireboat', 0.024757873]
+[u'mask', 0.29893911, u'conch', 0.28703928, u'custard_apple', 0.13238083, u'piggy_bank', 0.033366516, u'plastic_bag', 0.026810085]

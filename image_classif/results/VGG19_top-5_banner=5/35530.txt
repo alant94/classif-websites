@@ -1,0 +1,3 @@
+[u'digital_clock', 0.33596635, u'jigsaw_puzzle', 0.096190311, u'traffic_light', 0.081031077, u'wall_clock', 0.054928828, u'street_sign', 0.042035121]
+[u'web_site', 0.5870893, u'digital_clock', 0.034738988, u'envelope', 0.031691518, u'broccoli', 0.0098417215, u'book_jacket', 0.0074868728]
+[u'envelope', 0.057199389, u'modem', 0.026769584, u'remote_control', 0.020836527, u'hook', 0.019957105, u'notebook', 0.018721772]

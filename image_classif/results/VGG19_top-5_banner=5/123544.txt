@@ -1,0 +1,3 @@
+[u'rule', 0.12472861, u'syringe', 0.094296925, u'ballpoint', 0.067530259, u'lipstick', 0.060397763, u'rubber_eraser', 0.058021151]
+[u'chime', 0.21685848, u'organ', 0.11864611, u'ballpoint', 0.096235417, u'nail', 0.080718473, u'screwdriver', 0.063784309]
+[u'screwdriver', 0.2052319, u'ballpoint', 0.19275177, u'chime', 0.10570369, u'fountain_pen', 0.10095247, u'syringe', 0.076908477]

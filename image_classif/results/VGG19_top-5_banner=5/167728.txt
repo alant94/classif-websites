@@ -1,0 +1,8 @@
+[u'barn', 0.9855783, u'boathouse', 0.0048453626, u'church', 0.0022856942, u'volcano', 0.0016277364, u'beacon', 0.00086334231]
+[u'traffic_light', 0.62366539, u'street_sign', 0.034173682, u'cab', 0.025581205, u'cinema', 0.024856823, u'lighter', 0.022401392]
+[u'book_jacket', 0.44662946, u'comic_book', 0.084115736, u'web_site', 0.045603778, u'lighter', 0.036604948, u'envelope', 0.023676183]
+[u'plunger', 0.22444789, u'mask', 0.17240226, u'torch', 0.067576759, u'jersey', 0.061118212, u'ski_mask', 0.055071056]
+[u'stage', 0.77072328, u'altar', 0.026301872, u'toyshop', 0.024923801, u'scoreboard', 0.021488508, u'spotlight', 0.015903484]
+[u'screwdriver', 0.24815072, u'ballpoint', 0.15175112, u"carpenter's_kit", 0.14750446, u'rubber_eraser', 0.069999129, u'pencil_box', 0.049222276]
+[u'book_jacket', 0.71326125, u'comic_book', 0.11172647, u'triceratops', 0.014148536, u'isopod', 0.010908573, u'conch', 0.010592172]
+[u'grand_piano', 0.087397061, u'accordion', 0.072029077, u'notebook', 0.061526239, u'marimba', 0.055410564, u'harp', 0.054825112]

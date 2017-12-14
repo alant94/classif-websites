@@ -1,0 +1,4 @@
+[u'maillot', 0.14223142, u'bikini', 0.099367514, u'shower_cap', 0.061101139, u'stole', 0.038756605, u'bonnet', 0.033954177]
+[u'fire_screen', 0.38582304, u'window_shade', 0.16841221, u'window_screen', 0.14383657, u'binder', 0.085077599, u'radiator', 0.041728936]
+[u'refrigerator', 0.22248372, u'sliding_door', 0.18815781, u'china_cabinet', 0.096982889, u'mobile_home', 0.086013533, u'photocopier', 0.039390121]
+[u'drilling_platform', 0.1909707, u'container_ship', 0.17676817, u'pirate', 0.13526066, u'schooner', 0.042462464, u'projectile', 0.026145376]

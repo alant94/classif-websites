@@ -1,0 +1,5 @@
+[u'mosque', 0.49981856, u'monastery', 0.0923898, u'palace', 0.078967176, u'dome', 0.072150663, u'church', 0.032986406]
+[u'envelope', 0.66807449, u'web_site', 0.14337423, u'packet', 0.027988007, u'book_jacket', 0.020606117, u'carton', 0.015802136]
+[u'digital_clock', 0.25377002, u'street_sign', 0.245038, u'Band_Aid', 0.079397082, u'traffic_light', 0.04994908, u'beacon', 0.026121212]
+[u'nail', 0.048321586, u'hook', 0.036171131, u'cleaver', 0.020004077, u'web_site', 0.018819818, u'hatchet', 0.015943775]
+[u'street_sign', 0.68743765, u'traffic_light', 0.060842324, u'digital_clock', 0.044333268, u'gas_pump', 0.019145507, u'odometer', 0.014786772]

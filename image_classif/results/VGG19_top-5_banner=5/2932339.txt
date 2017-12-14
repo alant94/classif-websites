@@ -1,0 +1,3 @@
+[u'letter_opener', 0.3383649, u'cleaver', 0.19278568, u'scabbard', 0.043702275, u'bow', 0.04313276, u'wooden_spoon', 0.04312174]
+[u'street_sign', 0.75932825, u'cinema', 0.044946361, u'hook', 0.021940524, u'tobacco_shop', 0.013874979, u'spatula', 0.013511093]
+[u'slide_rule', 0.13471745, u'nail', 0.1137379, u'rule', 0.098781683, u'hammer', 0.027507713, u'screwdriver', 0.02524293]

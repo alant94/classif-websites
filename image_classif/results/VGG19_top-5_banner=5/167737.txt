@@ -1,0 +1,5 @@
+[u'book_jacket', 0.13766409, u'web_site', 0.10160573, u'cassette', 0.065802038, u'barbershop', 0.059932467, u'television', 0.054657828]
+[u'plate_rack', 0.62012404, u'dishwasher', 0.11120895, u'web_site', 0.060753699, u'nail', 0.024992833, u'envelope', 0.016796205]
+[u'hook', 0.16505678, u'screwdriver', 0.045836821, u'nail', 0.037977558, u'switch', 0.03511183, u'power_drill', 0.034619514]
+[u'jigsaw_puzzle', 0.33022946, u'monitor', 0.18416603, u'screen', 0.11806775, u'television', 0.025215747, u'envelope', 0.018590001]
+[u'web_site', 0.83605516, u'screen', 0.061080974, u'analog_clock', 0.028184829, u'hand-held_computer', 0.01386345, u'monitor', 0.012661976]

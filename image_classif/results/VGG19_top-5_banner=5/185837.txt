@@ -1,0 +1,8 @@
+[u'jigsaw_puzzle', 0.73966748, u'chainlink_fence', 0.036182307, u'freight_car', 0.018874239, u'carousel', 0.01396375, u'handkerchief', 0.01319196]
+[u'plastic_bag', 0.24291669, u'alp', 0.087064639, u'sleeping_bag', 0.07320825, u'envelope', 0.059098914, u'handkerchief', 0.040047918]
+[u'fountain', 0.23741658, u'safety_pin', 0.20879672, u'rubber_eraser', 0.1443117, u'abacus', 0.082428016, u'syringe', 0.042990938]
+[u'digital_clock', 0.32690138, u'maze', 0.26692721, u'jigsaw_puzzle', 0.15324906, u'castle', 0.022386862, u'traffic_light', 0.022027943]
+[u'toaster', 0.56117219, u'binder', 0.038887408, u'pencil_box', 0.017220911, u'tray', 0.016663985, u'mouse', 0.015006186]
+[u'web_site', 0.62252176, u'menu', 0.12929845, u'monitor', 0.11413966, u'jigsaw_puzzle', 0.029524723, u'envelope', 0.02933035]
+[u'projectile', 0.13454884, u'missile', 0.092699043, u'catamaran', 0.083926745, u'drilling_platform', 0.072127752, u'schooner', 0.059937425]
+[u'hatchet', 0.070304587, u'stretcher', 0.058965769, u'conch', 0.024213215, u'cleaver', 0.023577131, u'shovel', 0.020186812]

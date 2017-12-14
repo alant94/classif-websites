@@ -1,0 +1,1 @@
+[u'beer_glass', 0.51518506, u'perfume', 0.097000666, u'pill_bottle', 0.057243656, u'eggnog', 0.034856554, u'cup', 0.034456477]

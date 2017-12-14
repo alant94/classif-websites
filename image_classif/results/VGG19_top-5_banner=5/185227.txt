@@ -1,0 +1,7 @@
+[u'street_sign', 0.741822, u'rubber_eraser', 0.052614916, u'hook', 0.019452685, u'traffic_light', 0.017951887, u'shovel', 0.014108919]
+[u'minibus', 0.16655624, u'moving_van', 0.12461597, u'minivan', 0.099244751, u'racer', 0.084859148, u'garbage_truck', 0.07641764]
+[u'matchstick', 0.22618017, u'picket_fence', 0.18566734, u'panpipe', 0.1277971, u'chime', 0.044793051, u'bow', 0.026601173]
+[u'hair_slide', 0.44315439, u'pinwheel', 0.27525821, u'wall_clock', 0.096780844, u'letter_opener', 0.035365209, u'can_opener', 0.014385669]
+[u'web_site', 0.96662295, u'comic_book', 0.016531456, u'book_jacket', 0.009040066, u'scoreboard', 0.0014552899, u'menu', 0.00080046064]
+[u'street_sign', 0.44302511, u'book_jacket', 0.058932777, u'moving_van', 0.046189003, u'scoreboard', 0.022039205, u'comic_book', 0.022028184]
+[u'candle', 0.054332469, u'envelope', 0.045076761, u'screw', 0.026831053, u'matchstick', 0.025683327, u'syringe', 0.023383074]

@@ -1,0 +1,2 @@
+[u'rapeseed', 0.20191249, u'stone_wall', 0.11873616, u'lakeside', 0.096665807, u'breakwater', 0.064592957, u'beacon', 0.028093752]
+[u'barn', 0.40979052, u'church', 0.1345904, u'rapeseed', 0.1065243, u'birdhouse', 0.079769559, u'worm_fence', 0.040120255]

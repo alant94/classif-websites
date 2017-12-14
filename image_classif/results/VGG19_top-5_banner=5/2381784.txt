@@ -1,0 +1,2 @@
+[u'paintbrush', 0.16030923, u'screwdriver', 0.11313502, u'wooden_spoon', 0.062595747, u'maraca', 0.061878316, u"carpenter's_kit", 0.055295184]
+[u'crayfish', 0.20769309, u'hamper', 0.081428699, u'altar', 0.06051977, u'grocery_store', 0.060413782, u'restaurant', 0.059473127]

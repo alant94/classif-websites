@@ -1,0 +1,5 @@
+[u'altar', 0.47983709, u'throne', 0.064116806, u'vault', 0.03407063, u'candle', 0.024323905, u'plunger', 0.019096423]
+[u'kite', 0.023622999, u'bald_eagle', 0.012427269, u'syringe', 0.011687903, u'parachute', 0.011306178, u'bee_eater', 0.010125921]
+[u'kite', 0.023622999, u'bald_eagle', 0.012427269, u'syringe', 0.011687903, u'parachute', 0.011306178, u'bee_eater', 0.010125921]
+[u'church', 0.12430943, u'picket_fence', 0.094220519, u'barn', 0.085762292, u'worm_fence', 0.076934621, u'patio', 0.049946718]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

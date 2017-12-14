@@ -1,0 +1,2 @@
+[u'cuirass', 0.35511172, u'pickelhaube', 0.11646024, u'shield', 0.11001424, u'breastplate', 0.084253408, u'bulletproof_vest', 0.068004161]
+[u'paddle', 0.22532761, u'stretcher', 0.22243778, u'bicycle-built-for-two', 0.12375852, u'mountain_bike', 0.052322157, u'maypole', 0.042669762]

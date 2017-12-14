@@ -1,0 +1,1 @@
+[u'bannister', 0.12262029, u'picket_fence', 0.043489978, u'wall_clock', 0.027888082, u'sliding_door', 0.026209585, u'maze', 0.02134254]

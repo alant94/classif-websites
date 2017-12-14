@@ -1,0 +1,6 @@
+[u'web_site', 0.091974378, u'envelope', 0.077960409, u'nematode', 0.036003742, u'matchstick', 0.016468728, u'abaya', 0.011685945]
+[u'harvester', 0.97844267, u'thresher', 0.019035233, u'plow', 0.0018537472, u'tractor', 0.0006355712, u'lumbermill', 1.1551811e-05]
+[u'cleaver', 0.26341918, u'web_site', 0.078246541, u'hook', 0.053652555, u"carpenter's_kit", 0.052496485, u'spatula', 0.048042223]
+[u'web_site', 0.25054058, u'screw', 0.047489394, u'remote_control', 0.0313867, u'screwdriver', 0.029326281, u'nail', 0.024785522]
+[u'Band_Aid', 0.12207544, u'spatula', 0.057941165, u'envelope', 0.03690508, u'web_site', 0.031322561, u'maraca', 0.028739771]
+[u'street_sign', 0.39829481, u'scoreboard', 0.23533258, u'cinema', 0.16894177, u'web_site', 0.039577134, u'restaurant', 0.013576502]

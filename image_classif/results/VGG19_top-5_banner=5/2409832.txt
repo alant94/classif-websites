@@ -1,0 +1,7 @@
+[u'vacuum', 0.59331918, u'tripod', 0.081461854, u'holster', 0.048223559, u'revolver', 0.047176771, u'can_opener', 0.031337112]
+[u'revolver', 0.85052109, u'holster', 0.1021926, u'rifle', 0.033081096, u'assault_rifle', 0.0096121756, u'can_opener', 0.00066239556]
+[u'disk_brake', 0.13449296, u'hammer', 0.10018191, u'screw', 0.099134475, u'corkscrew', 0.079922281, u'nail', 0.068418212]
+[u'corkscrew', 0.46427813, u'revolver', 0.21741754, u'rifle', 0.065976687, u'can_opener', 0.04574506, u'assault_rifle', 0.029087093]
+[u'ballpoint', 0.66897464, u'pencil_box', 0.10166095, u'rubber_eraser', 0.036213778, u'paintbrush', 0.031541217, u'screwdriver', 0.028954808]
+[u'bittern', 0.21865262, u'plate_rack', 0.10815546, u'picket_fence', 0.068123989, u'barrel', 0.032639317, u'toilet_seat', 0.024433076]
+[u'revolver', 0.99984944, u'rifle', 0.00010561178, u'assault_rifle', 4.0617841e-05, u'holster', 1.7737065e-06, u'reel', 1.243022e-06]

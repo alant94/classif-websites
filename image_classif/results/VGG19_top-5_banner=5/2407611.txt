@@ -1,0 +1,2 @@
+[u'cash_machine', 0.14437599, u'oscilloscope', 0.080479704, u'digital_clock', 0.074218027, u'safe', 0.040909495, u'sliding_door', 0.04017647]
+[u'patio', 0.45216194, u'sliding_door', 0.27120391, u'greenhouse', 0.12155621, u'window_screen', 0.067965545, u'bannister', 0.013888837]

@@ -1,0 +1,5 @@
+[u'envelope', 0.33918682, u'bottlecap', 0.1419023, u'book_jacket', 0.08649078, u'packet', 0.084844589, u'face_powder', 0.055150229]
+[u'head_cabbage', 0.27686325, u'wig', 0.10143973, u'cauliflower', 0.074127533, u'mask', 0.036184337, u'diaper', 0.035661113]
+[u'restaurant', 0.21168758, u'china_cabinet', 0.19095822, u'dining_table', 0.18132882, u'bakery', 0.14448896, u'patio', 0.045839693]
+[u'beer_bottle', 0.088399515, u'medicine_chest', 0.068169929, u'refrigerator', 0.059822775, u'shoe_shop', 0.05716097, u'hair_spray', 0.051384296]
+[u'puck', 0.88567781, u'book_jacket', 0.020823108, u'golf_ball', 0.0074582081, u'rugby_ball', 0.003962426, u'tennis_ball', 0.0035915731]

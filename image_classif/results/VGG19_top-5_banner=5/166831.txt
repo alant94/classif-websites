@@ -1,0 +1,7 @@
+[u'theater_curtain', 0.65277278, u'altar', 0.15031452, u'stage', 0.11255869, u'fountain', 0.01561082, u'spotlight', 0.014875875]
+[u'television', 0.41378996, u'web_site', 0.18279107, u'screen', 0.11096083, u'monitor', 0.11086882, u'home_theater', 0.064494416]
+[u'stage', 0.65473992, u'spotlight', 0.23336744, u'theater_curtain', 0.05158978, u'fountain', 0.013532516, u'microphone', 0.00579886]
+[u'theater_curtain', 0.15509431, u'torch', 0.093890294, u'spotlight', 0.07599622, u'lampshade', 0.044633389, u'stage', 0.0313835]
+[u'drumstick', 0.096219368, u'bow', 0.092418924, u'matchstick', 0.063854314, u'screwdriver', 0.056143373, u'safety_pin', 0.04643786]
+[u'matchstick', 0.34537974, u'paintbrush', 0.12185753, u'ear', 0.070521429, u'swab', 0.066035829, u'jellyfish', 0.037358809]
+[u'spotlight', 0.46973935, u'fountain', 0.17691474, u'stage', 0.13528042, u'theater_curtain', 0.042235073, u'torch', 0.037203357]

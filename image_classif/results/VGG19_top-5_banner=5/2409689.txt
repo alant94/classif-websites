@@ -1,0 +1,5 @@
+[u'tray', 0.60716009, u'window_screen', 0.14572607, u'doormat', 0.061344445, u'solar_dish', 0.047904357, u'crate', 0.020340214]
+[u'picket_fence', 0.18125899, u'barn', 0.11044635, u'book_jacket', 0.068170123, u'worm_fence', 0.05777666, u'chainlink_fence', 0.052982248]
+[u'web_site', 0.72036451, u'mousetrap', 0.037844129, u'envelope', 0.026868567, u'Band_Aid', 0.016822051, u'whistle', 0.011560954]
+[u'packet', 0.71182829, u'sunscreen', 0.19520396, u'lotion', 0.02786891, u'perfume', 0.015987111, u'face_powder', 0.006875033]
+[u'packet', 0.36647159, u'book_jacket', 0.21010964, u'web_site', 0.13401784, u'menu', 0.047442, u'comic_book', 0.024652356]

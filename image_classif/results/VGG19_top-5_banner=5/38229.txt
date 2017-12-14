@@ -1,0 +1,4 @@
+[u'church', 0.93809962, u'picket_fence', 0.023059284, u'bell_cote', 0.0068727997, u'monastery', 0.0063242121, u'palace', 0.0055679874]
+[u"carpenter's_kit", 0.11532328, u'cash_machine', 0.078681193, u'book_jacket', 0.053594083, u'barbershop', 0.036606435, u'mailbox', 0.021367]
+[u'cash_machine', 0.089990392, u"carpenter's_kit", 0.083552174, u'barbershop', 0.053487569, u'book_jacket', 0.04601378, u'Band_Aid', 0.02961967]
+[u'cash_machine', 0.091294415, u'barbershop', 0.062940687, u'book_jacket', 0.056766085, u'street_sign', 0.054942101, u'scoreboard', 0.036407862]

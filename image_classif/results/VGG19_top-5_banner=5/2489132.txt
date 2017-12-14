@@ -1,0 +1,1 @@
+[u'geyser', 0.55728632, u'steam_locomotive', 0.04571772, u'missile', 0.031927712, u'Samoyed', 0.026827022, u'Old_English_sheepdog', 0.0241205]

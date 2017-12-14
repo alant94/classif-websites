@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.89904535, u'envelope', 0.032361139, u'bib', 0.014435302, u'rule', 0.012345544, u'Band_Aid', 0.005006738]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

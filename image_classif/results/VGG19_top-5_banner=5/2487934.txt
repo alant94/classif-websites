@@ -1,0 +1,2 @@
+[u'container_ship', 0.57768399, u'monitor', 0.085100465, u'digital_clock', 0.03632373, u'screen', 0.027852785, u'garbage_truck', 0.018841149]
+[u'pot', 0.89650232, u'greenhouse', 0.0075697009, u'vase', 0.0062504257, u'strawberry', 0.0038112262, u'corn', 0.0031520964]

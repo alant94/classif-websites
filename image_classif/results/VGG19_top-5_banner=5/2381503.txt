@@ -1,0 +1,7 @@
+[u'monitor', 0.24359967, u'safe', 0.15703157, u'scale', 0.055681154, u'screen', 0.051456593, u'desk', 0.047613584]
+[u'nematode', 0.40233344, u'oscilloscope', 0.048168436, u'spider_web', 0.044553347, u'barn_spider', 0.033755302, u'hook', 0.03047123]
+[u'coral_fungus', 0.25777555, u'ear', 0.091719359, u'butcher_shop', 0.070563234, u'banana', 0.068754993, u'corn', 0.06873624]
+[u'plate_rack', 0.19355845, u'digital_watch', 0.077435829, u'toaster', 0.074818291, u"carpenter's_kit", 0.053246044, u'spatula', 0.0448227]
+[u'digital_watch', 0.20222637, u'toaster', 0.15251577, u'plate_rack', 0.05979123, u'space_heater', 0.042188011, u'digital_clock', 0.040341128]
+[u'book_jacket', 0.46766061, u'digital_clock', 0.085139632, u'scoreboard', 0.070167251, u'Band_Aid', 0.044759106, u'envelope', 0.029149551]
+[u'container_ship', 0.24952123, u'scoreboard', 0.099117659, u'street_sign', 0.060284194, u'traffic_light', 0.047268398, u'digital_clock', 0.034390785]

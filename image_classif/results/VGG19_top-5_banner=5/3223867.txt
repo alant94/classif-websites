@@ -1,0 +1,1 @@
+[u'lampshade', 0.12499629, u'hair_spray', 0.045137618, u'table_lamp', 0.038716264, u'cocktail_shaker', 0.037750687, u'coffeepot', 0.034737222]

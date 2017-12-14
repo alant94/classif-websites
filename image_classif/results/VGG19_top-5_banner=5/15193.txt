@@ -1,0 +1,5 @@
+[u'cinema', 0.18179183, u'street_sign', 0.082613103, u'scoreboard', 0.064750701, u'analog_clock', 0.04526145, u'book_jacket', 0.042175997]
+[u'pop_bottle', 0.088726155, u'paintbrush', 0.05803474, u'beer_bottle', 0.051791798, u'wine_bottle', 0.04706933, u'ballpoint', 0.045094173]
+[u'pier', 0.24529336, u'suspension_bridge', 0.1449416, u'crane', 0.064061232, u'cinema', 0.03790899, u'guillotine', 0.037646528]
+[u'wine_bottle', 0.76758754, u'beer_bottle', 0.077323049, u'red_wine', 0.057258114, u'corkscrew', 0.028323233, u'perfume', 0.018690171]
+[u'slide_rule', 0.30621183, u'rule', 0.096659712, u'hard_disc', 0.088218026, u'screw', 0.031347267, u'envelope', 0.027034903]

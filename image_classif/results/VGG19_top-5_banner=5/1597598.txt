@@ -1,0 +1,8 @@
+[u'diaper', 0.67052555, u'bath_towel', 0.039409235, u'tub', 0.029485529, u'swimming_trunks', 0.019142115, u'sunscreen', 0.012823328]
+[u'crane', 0.094549619, u'pool_table', 0.078944787, u'traffic_light', 0.046040513, u'wall_clock', 0.04026996, u'analog_clock', 0.035519514]
+[u'bathtub', 0.099958211, u'swimming_trunks', 0.091031216, u'miniskirt', 0.074501783, u'tub', 0.071359903, u'shower_cap', 0.064721361]
+[u'spotlight', 0.34607455, u'projector', 0.1165183, u'oscilloscope', 0.081708655, u'television', 0.074988835, u'screen', 0.04213167]
+[u'bath_towel', 0.10816775, u'hair_spray', 0.093171448, u'tub', 0.073721275, u'hand_blower', 0.065385416, u'bathtub', 0.06136211]
+[u'mousetrap', 0.18453921, u'switch', 0.071652465, u'analog_clock', 0.044182759, u'table_lamp', 0.04255864, u'crate', 0.039871249]
+[u'digital_clock', 0.063876078, u'oscilloscope', 0.046336588, u'spotlight', 0.040386364, u'window_screen', 0.038368709, u'television', 0.02972123]
+[u'pug', 0.14719397, u'bull_mastiff', 0.11562877, u'dumbbell', 0.057840887, u'brassiere', 0.044112246, u'balance_beam', 0.042882588]

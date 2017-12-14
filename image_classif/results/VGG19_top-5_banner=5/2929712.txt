@@ -1,0 +1,1 @@
+[u'sombrero', 0.22095728, u'lampshade', 0.081663765, u'electric_fan', 0.063218832, u'tray', 0.052904397, u'bonnet', 0.043749373]

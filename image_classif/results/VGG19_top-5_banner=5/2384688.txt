@@ -1,0 +1,5 @@
+[u'digital_clock', 0.51819056, u'envelope', 0.076370448, u'screen', 0.023171965, u'scoreboard', 0.018551683, u'analog_clock', 0.015919412]
+[u'container_ship', 0.30912319, u'digital_clock', 0.07746549, u'airship', 0.041353971, u'parachute', 0.026321027, u'pill_bottle', 0.025988119]
+[u'digital_clock', 0.084096693, u'parachute', 0.052022524, u'airship', 0.048327014, u'balloon', 0.046926443, u'traffic_light', 0.04377627]
+[u'parachute', 0.082687914, u'whistle', 0.06059121, u'beacon', 0.06011169, u'balloon', 0.042848147, u'digital_clock', 0.040184487]
+[u'police_van', 0.45665628, u'ambulance', 0.32843101, u'minibus', 0.14925557, u'recreational_vehicle', 0.033588253, u'minivan', 0.01366694]

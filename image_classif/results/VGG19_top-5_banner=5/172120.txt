@@ -1,0 +1,2 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'banjo', 0.55176812, u'stage', 0.20487528, u'accordion', 0.026084505, u'electric_guitar', 0.026053926, u'violin', 0.02338133]

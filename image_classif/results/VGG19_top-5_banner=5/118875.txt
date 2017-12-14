@@ -1,0 +1,8 @@
+[u'digital_clock', 0.26203346, u'analog_clock', 0.22088188, u'bottlecap', 0.1560998, u'baseball', 0.044050802, u'coil', 0.036270291]
+[u'candle', 0.12324311, u'fountain', 0.11830774, u'screw', 0.083780177, u'goblet', 0.042457383, u'perfume', 0.032469038]
+[u'screw', 0.59083182, u'nail', 0.17597334, u'saltshaker', 0.025506182, u'fountain', 0.021730212, u'altar', 0.014195699]
+[u'lab_coat', 0.36954844, u'television', 0.056643181, u'bow_tie', 0.050798543, u'Windsor_tie', 0.042021062, u'cleaver', 0.028000858]
+[u'analog_clock', 0.21764998, u'lampshade', 0.13505717, u'spotlight', 0.069101468, u'matchstick', 0.055399764, u'necklace', 0.040163312]
+[u'lampshade', 0.16573924, u'goblet', 0.081504941, u'sewing_machine', 0.065054014, u'candle', 0.057538003, u'corkscrew', 0.051129211]
+[u'coil', 0.53810197, u'bottlecap', 0.11754802, u'maze', 0.098947987, u'shield', 0.039758492, u'bolo_tie', 0.028847096]
+[u'analog_clock', 0.33184648, u'stupa', 0.11557781, u'bell_cote', 0.061977129, u'dome', 0.059891019, u'balloon', 0.05782862]

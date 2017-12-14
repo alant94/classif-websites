@@ -1,0 +1,3 @@
+[u'digital_clock', 0.17178129, u'book_jacket', 0.15408452, u'barbershop', 0.084496193, u'cinema', 0.039944459, u'jersey', 0.038161952]
+[u'book_jacket', 0.89540511, u'jersey', 0.04637941, u'comic_book', 0.017816328, u'scoreboard', 0.0061575514, u'street_sign', 0.0029191992]
+[u'comic_book', 0.3043932, u'book_jacket', 0.19337009, u'ski', 0.088656068, u'unicycle', 0.0450969, u'stage', 0.026972026]

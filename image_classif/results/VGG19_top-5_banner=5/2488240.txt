@@ -1,0 +1,1 @@
+[u'coho', 0.23192117, u'vulture', 0.18846086, u'barracouta', 0.07269758, u'komondor', 0.049458798, u'sturgeon', 0.049192924]

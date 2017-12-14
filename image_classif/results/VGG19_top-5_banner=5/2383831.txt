@@ -1,0 +1,8 @@
+[u'envelope', 0.54657966, u'web_site', 0.21745874, u'book_jacket', 0.024451189, u'menu', 0.01867174, u'bow', 0.015827371]
+[u'mushroom', 0.74339688, u'hen-of-the-woods', 0.0916472, u'earthstar', 0.034889244, u'agaric', 0.028662894, u'bolete', 0.021438893]
+[u'packet', 0.10502241, u'carton', 0.064133681, u'coffee_mug', 0.048254084, u'book_jacket', 0.043517835, u'comic_book', 0.041766882]
+[u'greenhouse', 0.25765878, u'sliding_door', 0.17113614, u'window_shade', 0.13011183, u'patio', 0.12625793, u'pot', 0.079493605]
+[u'rapeseed', 0.15686148, u'acorn', 0.13193955, u'daisy', 0.11243089, u'lemon', 0.057898529, u'corn', 0.047626782]
+[u'pot', 0.17535877, u'coil', 0.10728748, u'apiary', 0.078110754, u'greenhouse', 0.038536109, u'tank', 0.034761939]
+[u'harvester', 0.36910579, u'lawn_mower', 0.30861655, u'plow', 0.15857233, u'tractor', 0.11021876, u'thresher', 0.027405176]
+[u'acorn', 0.25873441, u'fig', 0.19196929, u'broccoli', 0.12019812, u'guacamole', 0.038350854, u'pot', 0.030142998]

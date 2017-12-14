@@ -1,0 +1,4 @@
+[u'rubber_eraser', 0.52386969, u'Band_Aid', 0.13743553, u'street_sign', 0.072416872, u'envelope', 0.037767351, u'loupe', 0.023973126]
+[u'web_site', 0.52706295, u'menu', 0.40632132, u'envelope', 0.0080476711, u'monitor', 0.007177067, u'binder', 0.0042675529]
+[u'menu', 0.85609031, u'web_site', 0.10707719, u'binder', 0.002309616, u'envelope', 0.0019953966, u'crossword_puzzle', 0.0014625222]
+[u'menu', 0.88444167, u'web_site', 0.07009656, u'abacus', 0.0024389771, u'sunglasses', 0.0022718271, u'envelope', 0.0018682026]

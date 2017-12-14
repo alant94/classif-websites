@@ -1,0 +1,8 @@
+[u'pick', 0.14361671, u'shield', 0.1028286, u'maze', 0.06864582, u'matchstick', 0.052635912, u'digital_clock', 0.035936683]
+[u'analog_clock', 0.14924021, u'oscilloscope', 0.11430565, u'scoreboard', 0.10375712, u'book_jacket', 0.096605517, u'street_sign', 0.069498256]
+[u'balance_beam', 0.14569612, u'swimming_trunks', 0.13611335, u'bikini', 0.10221423, u'bathing_cap', 0.098564029, u'book_jacket', 0.086233884]
+[u'book_jacket', 0.21384925, u'theater_curtain', 0.032100964, u'digital_clock', 0.030055579, u'cinema', 0.027380859, u'comic_book', 0.024895109]
+[u'crib', 0.057154737, u'plate_rack', 0.042418782, u'iron', 0.039018802, u'hoopskirt', 0.034757666, u'dishwasher', 0.030931922]
+[u'web_site', 0.38944584, u'book_jacket', 0.079275176, u'sax', 0.016197048, u'digital_clock', 0.012861791, u'syringe', 0.0092430506]
+[u'web_site', 0.26145053, u'book_jacket', 0.0766128, u'maze', 0.052890316, u'comic_book', 0.05116044, u'matchstick', 0.035016455]
+[u'puck', 0.60131514, u'street_sign', 0.059701528, u'analog_clock', 0.041939288, u'car_wheel', 0.024446199, u'book_jacket', 0.022477735]

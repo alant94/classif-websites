@@ -1,0 +1,6 @@
+[u'cliff', 0.40311348, u'sea_lion', 0.14575888, u'snorkel', 0.099827647, u'scuba_diver', 0.06559062, u'valley', 0.045350008]
+[u'shower_curtain', 0.553069, u'fountain', 0.036001656, u'vase', 0.034662824, u'wardrobe', 0.019823734, u'window_shade', 0.018630883]
+[u'paintbrush', 0.44097921, u'shower_curtain', 0.14973515, u'umbrella', 0.075210616, u'shovel', 0.040569909, u'broom', 0.021052159]
+[u'bow', 0.17658307, u'assault_rifle', 0.1585027, u'rifle', 0.13294163, u'projectile', 0.042155571, u'scabbard', 0.041068129]
+[u'shower_curtain', 0.16880424, u'jellyfish', 0.10605633, u'fountain', 0.068305925, u'parachute', 0.068273619, u'bassinet', 0.056032971]
+[u'scuba_diver', 0.28826436, u'wreck', 0.20276244, u'fountain', 0.077698447, u'coral_reef', 0.051036131, u'space_shuttle', 0.036024783]

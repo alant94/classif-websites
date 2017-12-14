@@ -1,0 +1,8 @@
+[u'digital_clock', 0.096181348, u'street_sign', 0.090180978, u'web_site', 0.087062612, u'analog_clock', 0.035552707, u'picket_fence', 0.031349517]
+[u'web_site', 0.10462308, u'street_sign', 0.09419167, u'digital_clock', 0.067127466, u'hair_spray', 0.035136104, u'coffee_mug', 0.031287253]
+[u'street_sign', 0.099285915, u'picket_fence', 0.071586311, u'digital_clock', 0.05656939, u'web_site', 0.039808519, u'tobacco_shop', 0.020792086]
+[u'gondola', 0.23043841, u'hook', 0.16057794, u'shovel', 0.076343253, u'monastery', 0.03842501, u'picket_fence', 0.033902161]
+[u'web_site', 0.43219677, u'envelope', 0.052230965, u'plunger', 0.011771923, u'jersey', 0.01176924, u'hook', 0.010758941]
+[u'street_sign', 0.091821, u'digital_clock', 0.085580871, u'web_site', 0.052338637, u'picket_fence', 0.034256302, u'analog_clock', 0.030770456]
+[u'clog', 0.34903127, u'sandal', 0.082982242, u'ski', 0.060861308, u'web_site', 0.058520146, u'parachute', 0.048754606]
+[u'rain_barrel', 0.21564458, u'bucket', 0.071548387, u'pot', 0.059516083, u'ashcan', 0.034867804, u'water_bottle', 0.030497657]

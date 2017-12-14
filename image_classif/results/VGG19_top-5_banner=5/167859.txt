@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.28500512, u'picket_fence', 0.17507222, u'candle', 0.15708782, u'matchstick', 0.12475996, u'syringe', 0.027760083]

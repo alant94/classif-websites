@@ -1,0 +1,2 @@
+[u'electric_fan', 0.33910608, u'wall_clock', 0.31278285, u'pinwheel', 0.12442543, u'magnetic_compass', 0.072283834, u'gong', 0.053546466]
+[u'flagpole', 0.28555527, u'folding_chair', 0.20403591, u'sock', 0.13425086, u'wallet', 0.045151167, u'pencil_box', 0.039101731]

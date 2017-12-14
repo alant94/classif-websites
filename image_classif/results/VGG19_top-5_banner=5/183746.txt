@@ -1,0 +1,6 @@
+[u'brass', 0.2258414, u'window_screen', 0.10202932, u'computer_keyboard', 0.081273563, u'doormat', 0.048650589, u'manhole_cover', 0.024212465]
+[u'chain_mail', 0.42733663, u'cardigan', 0.11759853, u'poncho', 0.044887926, u'stole', 0.037069377, u'shower_cap', 0.033043593]
+[u'monitor', 0.066662386, u'window_shade', 0.04528708, u'sliding_door', 0.039691411, u'screen', 0.031528417, u'spotlight', 0.02318811]
+[u'skunk', 0.095272481, u'swab', 0.077246882, u'picket_fence', 0.048106264, u'poncho', 0.032325275, u'barbershop', 0.03168856]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'toilet_tissue', 0.14875127, u'parking_meter', 0.040204749, u'paper_towel', 0.038596246, u'sweatshirt', 0.028104186, u'ski', 0.028040282]

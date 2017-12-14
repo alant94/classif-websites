@@ -1,0 +1,5 @@
+[u'sliding_door', 0.069338359, u'punching_bag', 0.068772689, u'picket_fence', 0.060007147, u'web_site', 0.053774957, u'refrigerator', 0.0469754]
+[u'web_site', 0.68375909, u'envelope', 0.043265108, u'binder', 0.015149336, u'stopwatch', 0.008258421, u'rubber_eraser', 0.0079678092]
+[u'stupa', 0.33736005, u'bell_cote', 0.1419791, u'jigsaw_puzzle', 0.10658009, u'pencil_sharpener', 0.065247104, u'castle', 0.059069086]
+[u'digital_clock', 0.13848253, u'Band_Aid', 0.071384564, u'traffic_light', 0.039576329, u'envelope', 0.035461094, u'pill_bottle', 0.034592677]
+[u'parachute', 0.70074236, u'balloon', 0.10830288, u'umbrella', 0.077487804, u'bathing_cap', 0.020751739, u'mountain_tent', 0.014356526]

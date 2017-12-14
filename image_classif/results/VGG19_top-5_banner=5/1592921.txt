@@ -1,0 +1,6 @@
+[u'diaper', 0.38307005, u'bath_towel', 0.10400805, u'swimming_trunks', 0.06993077, u'miniskirt', 0.047164951, u'bikini', 0.022638151]
+[u'Angora', 0.29692745, u'feather_boa', 0.093728349, u'fireboat', 0.048201483, u'missile', 0.029183656, u'bonnet', 0.02842739]
+[u'space_shuttle', 0.70209664, u'espresso_maker', 0.081011645, u'bell_cote', 0.037901703, u'switch', 0.028048372, u'cocktail_shaker', 0.027282629]
+[u'perfume', 0.38325971, u'soap_dispenser', 0.089470454, u'switch', 0.087920271, u'lotion', 0.056269053, u'face_powder', 0.042954601]
+[u'monitor', 0.17766841, u'pier', 0.06230446, u'fountain', 0.054510728, u'dining_table', 0.041712835, u'space_shuttle', 0.03500177]
+[u'pick', 0.078270353, u'ski_mask', 0.062884681, u'corkscrew', 0.062754676, u'jigsaw_puzzle', 0.060930688, u'hair_slide', 0.039102647]

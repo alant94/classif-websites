@@ -1,0 +1,3 @@
+[u'church', 0.90395975, u'monastery', 0.036042228, u'bell_cote', 0.029619861, u'mosque', 0.0082620569, u'palace', 0.0058253645]
+[u'crossword_puzzle', 0.1130095, u'envelope', 0.086737923, u'toilet_tissue', 0.080094628, u'packet', 0.05799856, u'menu', 0.057251941]
+[u"jack-o'-lantern", 0.107031, u'butternut_squash', 0.10361081, u'spaghetti_squash', 0.088018171, u'acorn_squash', 0.053793274, u'sleeping_bag', 0.032894958]

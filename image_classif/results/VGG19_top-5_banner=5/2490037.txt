@@ -1,0 +1,2 @@
+[u'book_jacket', 0.11805008, u'pretzel', 0.10342629, u'jersey', 0.06056774, u'buckle', 0.045011755, u'menu', 0.044569161]
+[u'banjo', 0.073920317, u'harp', 0.071407557, u'acoustic_guitar', 0.057437669, u'bow', 0.035764899, u'cowboy_hat', 0.034158461]

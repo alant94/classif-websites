@@ -1,0 +1,8 @@
+[u'container_ship', 0.19555511, u'castle', 0.13406229, u'modem', 0.077156417, u'digital_clock', 0.064434946, u'monitor', 0.052704994]
+[u'drilling_platform', 0.56170577, u'dock', 0.12456147, u'crane', 0.085405819, u'container_ship', 0.027465215, u'cab', 0.015571424]
+[u'hard_disc', 0.12863632, u"carpenter's_kit", 0.11710225, u'CD_player', 0.10008342, u'tape_player', 0.082728796, u'radio', 0.079831667]
+[u'space_shuttle', 0.41905522, u'radio_telescope', 0.12916644, u'container_ship', 0.094328396, u'solar_dish', 0.087174967, u'toilet_seat', 0.028694088]
+[u'container_ship', 0.28567022, u'crane', 0.18114337, u'scoreboard', 0.12825917, u'airship', 0.069726318, u'drilling_platform', 0.038304389]
+[u'modem', 0.19345489, u'pool_table', 0.12709473, u'container_ship', 0.11781747, u'monitor', 0.077720799, u'racket', 0.065487936]
+[u'jigsaw_puzzle', 0.1536167, u'digital_clock', 0.088561848, u'container_ship', 0.080361076, u'maze', 0.069561936, u'castle', 0.03772971]
+[u"carpenter's_kit", 0.1336509, u'slot', 0.11149748, u'jigsaw_puzzle', 0.062079657, u'web_site', 0.040495366, u'tray', 0.039764374]

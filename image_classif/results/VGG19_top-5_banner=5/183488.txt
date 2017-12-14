@@ -1,0 +1,2 @@
+[u'lotion', 0.14955249, u'nipple', 0.14844528, u'water_bottle', 0.088466503, u'hair_spray', 0.079482652, u'medicine_chest', 0.063141368]
+[u'pick', 0.26984942, u'ski', 0.14132959, u'hair_slide', 0.078395896, u'mitten', 0.043416336, u'web_site', 0.040069811]

@@ -1,0 +1,3 @@
+[u'wall_clock', 0.24001388, u'analog_clock', 0.19709517, u'nail', 0.056898117, u'matchstick', 0.041179199, u'chime', 0.03552385]
+[u'pop_bottle', 0.22598825, u'pill_bottle', 0.20481473, u'bottlecap', 0.1127979, u'water_bottle', 0.07696493, u'ashcan', 0.050117247]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

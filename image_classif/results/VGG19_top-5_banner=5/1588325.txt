@@ -1,0 +1,6 @@
+[u'envelope', 0.34584427, u'jigsaw_puzzle', 0.11881619, u'packet', 0.094508618, u'rubber_eraser', 0.069885686, u'web_site', 0.043459561]
+[u'racket', 0.37168157, u'rugby_ball', 0.040843762, u'puck', 0.035427142, u'drum', 0.029051956, u'scoreboard', 0.025990956]
+[u'matchstick', 0.67803884, u'tripod', 0.055867244, u'mousetrap', 0.019410174, u'swing', 0.015718089, u'lampshade', 0.014511369]
+[u'altar', 0.49483785, u'toilet_seat', 0.05606325, u'toyshop', 0.048726205, u'apron', 0.038324464, u'slot', 0.019048827]
+[u'CD_player', 0.36155328, u'toilet_seat', 0.21659595, u'hard_disc', 0.16605404, u'electric_guitar', 0.05754051, u'scale', 0.050107382]
+[u'web_site', 0.95794016, u'scoreboard', 0.026221601, u'monitor', 0.0039549679, u'bulletproof_vest', 0.0017198932, u'comic_book', 0.0010140541]

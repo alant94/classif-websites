@@ -1,0 +1,2 @@
+[u'safety_pin', 0.13886067, u'hook', 0.082205243, u'nail', 0.060306966, u'swab', 0.036736369, u'hair_slide', 0.029870644]
+[u'menu', 0.60496074, u'web_site', 0.28878888, u'envelope', 0.029960398, u'binder', 0.010087516, u'hand_blower', 0.0019894454]

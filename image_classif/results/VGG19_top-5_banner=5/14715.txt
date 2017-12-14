@@ -1,0 +1,3 @@
+[u'book_jacket', 0.77612436, u'comic_book', 0.069609463, u'street_sign', 0.022906709, u'web_site', 0.015479445, u'barbershop', 0.0074110576]
+[u'barbershop', 0.21093376, u'barn', 0.207122, u'cinema', 0.10138043, u'restaurant', 0.092209823, u'chainlink_fence', 0.082058258]
+[u'book_jacket', 0.26365352, u'cinema', 0.16042857, u'paddlewheel', 0.063520685, u'container_ship', 0.045377143, u'comic_book', 0.024684044]

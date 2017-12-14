@@ -1,0 +1,3 @@
+[u'fountain', 0.070026092, u'thresher', 0.062525786, u'book_jacket', 0.056435674, u'harvester', 0.050797485, u'snowplow', 0.046079952]
+[u'book_jacket', 0.16943321, u'bow', 0.12014601, u'fountain', 0.046622112, u'English_foxhound', 0.033593941, u'web_site', 0.030204764]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

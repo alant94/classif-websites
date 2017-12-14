@@ -1,0 +1,8 @@
+[u'mantis', 0.096773379, u'lampshade', 0.040355269, u'tiger_shark', 0.03831486, u'hourglass', 0.032070972, u'mask', 0.030592894]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'monitor', 0.14749172, u'screen', 0.12319224, u'scoreboard', 0.10285884, u'slot', 0.077432439, u'television', 0.075405508]
+[u'cowboy_hat', 0.27069005, u'cloak', 0.049649067, u'groom', 0.044997316, u'bonnet', 0.040326737, u'picket_fence', 0.039377864]
+[u'wine_bottle', 0.60274643, u'red_wine', 0.39439005, u'beer_bottle', 0.00096658652, u'corkscrew', 0.00092073961, u'cocktail_shaker', 0.00038692064]
+[u'home_theater', 0.23172271, u'monitor', 0.1067057, u'screen', 0.09653341, u'television', 0.070533812, u'cinema', 0.049890548]
+[u'wine_bottle', 0.25240493, u'pop_bottle', 0.19725277, u'beer_bottle', 0.14005977, u'red_wine', 0.12093382, u'ballpoint', 0.075438492]
+[u'balloon', 0.054740548, u'torch', 0.041276693, u'traffic_light', 0.038706794, u'street_sign', 0.034557126, u'matchstick', 0.033343025]

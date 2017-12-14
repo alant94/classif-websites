@@ -1,0 +1,8 @@
+[u'carton', 0.62211227, u'menu', 0.09678892, u'handkerchief', 0.062269602, u'envelope', 0.060494028, u'crate', 0.044054095]
+[u'carton', 0.75214893, u'menu', 0.21885109, u'envelope', 0.018810295, u'book_jacket', 0.0038034511, u'crate', 0.0019205849]
+[u'packet', 0.14971204, u'puck', 0.086146876, u'carton', 0.068158381, u'bottlecap', 0.05168771, u'Band_Aid', 0.02578081]
+[u'viaduct', 0.13510753, u'torch', 0.12780371, u'water_tower', 0.07895983, u'suspension_bridge', 0.073619083, u'pier', 0.056832619]
+[u'boathouse', 0.91377699, u'yurt', 0.039791431, u'mobile_home', 0.025322443, u'lakeside', 0.0082975933, u'greenhouse', 0.0037582282]
+[u'packet', 0.20012645, u'comic_book', 0.17169435, u'menu', 0.14035955, u'web_site', 0.11295252, u'vending_machine', 0.031908356]
+[u'boathouse', 0.36336324, u'barn', 0.074223854, u'flagpole', 0.056402996, u'picket_fence', 0.041459743, u'church', 0.031237923]
+[u'oscilloscope', 0.3898336, u'rule', 0.07450705, u'chime', 0.063452534, u'analog_clock', 0.040177636, u'matchstick', 0.038986072]

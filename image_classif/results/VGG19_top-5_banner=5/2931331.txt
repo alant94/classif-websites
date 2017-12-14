@@ -1,0 +1,3 @@
+[u'cleaver', 0.086619921, u'cellular_telephone', 0.064482346, u'hair_spray', 0.06085955, u'wig', 0.056885801, u'suit', 0.039321002]
+[u'ambulance', 0.64304113, u'police_van', 0.18726633, u'fire_engine', 0.13578892, u'garbage_truck', 0.01569519, u'minibus', 0.0091765486]
+[u'fountain', 0.58349639, u'theater_curtain', 0.3140893, u'stage', 0.037148669, u'shower_curtain', 0.02696038, u'spotlight', 0.0043768277]

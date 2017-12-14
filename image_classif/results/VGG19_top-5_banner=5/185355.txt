@@ -1,0 +1,2 @@
+[u'street_sign', 0.18376701, u'spotlight', 0.13493004, u'analog_clock', 0.12359425, u'magnetic_compass', 0.11681978, u'electric_fan', 0.057764281]
+[u'envelope', 0.49733955, u'stretcher', 0.067777939, u'web_site', 0.032432403, u'binder', 0.028789116, u'flagpole', 0.015507408]

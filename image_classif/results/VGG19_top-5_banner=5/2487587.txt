@@ -1,0 +1,1 @@
+[u'barbershop', 0.25192374, u'flagpole', 0.086170398, u'packet', 0.069136597, u'cinema', 0.06502074, u'carton', 0.049076904]

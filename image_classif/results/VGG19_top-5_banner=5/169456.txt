@@ -1,0 +1,2 @@
+[u'pick', 0.089025654, u'tennis_ball', 0.07392814, u'ping-pong_ball', 0.067724466, u'bathing_cap', 0.047922477, u'face_powder', 0.046289898]
+[u'upright', 0.55242354, u'grand_piano', 0.16414547, u'organ', 0.04021737, u'nail', 0.025858317, u'lipstick', 0.025284568]

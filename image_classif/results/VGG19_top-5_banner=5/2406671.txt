@@ -1,0 +1,1 @@
+[u'mailbag', 0.62892413, u'purse', 0.29283163, u'backpack', 0.058986608, u'apron', 0.0061247842, u'shopping_basket', 0.003129466]

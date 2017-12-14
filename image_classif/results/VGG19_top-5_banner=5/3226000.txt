@@ -1,0 +1,2 @@
+[u'monastery', 0.60736054, u'church', 0.28966722, u'palace', 0.020924332, u'flagpole', 0.014509157, u'bell_cote', 0.012844401]
+[u'table_lamp', 0.22864489, u'church', 0.14813392, u'tray', 0.14051317, u'jigsaw_puzzle', 0.11636616, u'lampshade', 0.081714213]

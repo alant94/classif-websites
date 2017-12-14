@@ -1,0 +1,8 @@
+[u'book_jacket', 0.5217917, u'theater_curtain', 0.09169706, u'torch', 0.039404657, u'candle', 0.026422672, u'throne', 0.022864081]
+[u'puck', 0.92582726, u'beer_bottle', 0.0062612412, u'analog_clock', 0.0059484849, u'wall_clock', 0.0034893716, u'gong', 0.0033807268]
+[u'book_jacket', 0.41058975, u'web_site', 0.2457324, u'cash_machine', 0.018572733, u'television', 0.016746813, u'envelope', 0.013026669]
+[u'puck', 0.21588849, u'bottlecap', 0.08768706, u'stopwatch', 0.080299057, u'book_jacket', 0.065224014, u'street_sign', 0.044371873]
+[u'stopwatch', 0.23916268, u'pick', 0.16118912, u'puck', 0.081697814, u'digital_watch', 0.067316547, u'loupe', 0.035474684]
+[u'envelope', 0.33672568, u'web_site', 0.25172395, u'menu', 0.064220928, u'pick', 0.049391378, u'toilet_seat', 0.021732539]
+[u'analog_clock', 0.0775645, u'loudspeaker', 0.052849542, u'combination_lock', 0.048646834, u'spotlight', 0.044306204, u'projector', 0.038621787]
+[u'traffic_light', 0.11689271, u'pick', 0.0787481, u'wall_clock', 0.067739725, u'analog_clock', 0.065414093, u'lighter', 0.052849866]

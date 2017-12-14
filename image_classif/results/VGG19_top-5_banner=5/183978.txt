@@ -1,0 +1,5 @@
+[u'stage', 0.64289606, u'theater_curtain', 0.019927256, u'throne', 0.017014535, u'sax', 0.013679675, u'electric_guitar', 0.011943869]
+[u'digital_clock', 0.12026402, u'matchstick', 0.099498391, u'lighter', 0.056752577, u'traffic_light', 0.03776573, u'syringe', 0.031041564]
+[u'restaurant', 0.72415984, u'barbershop', 0.067638077, u'shoe_shop', 0.038681958, u'groom', 0.02146939, u'cinema', 0.011865335]
+[u'volleyball', 0.53221834, u'parallel_bars', 0.29399738, u'horizontal_bar', 0.14154471, u'balance_beam', 0.019717552, u'pole', 0.0090561016]
+[u'fountain', 0.20200905, u'palace', 0.14971034, u'mosque', 0.045582414, u'picket_fence', 0.042564683, u'umbrella', 0.035827316]

@@ -1,0 +1,7 @@
+[u'web_site', 0.78135175, u'menu', 0.13218826, u'envelope', 0.014720517, u'corn', 0.0047024568, u'pill_bottle', 0.0034019991]
+[u'church', 0.71255553, u'bell_cote', 0.2332814, u'monastery', 0.044609193, u'mosque', 0.0024378926, u'dome', 0.0020078684]
+[u'book_jacket', 0.22280917, u'web_site', 0.16797262, u'rule', 0.12393944, u'screwdriver', 0.070404723, u'envelope', 0.038413435]
+[u'church', 0.76889473, u'bell_cote', 0.16970477, u'monastery', 0.055474047, u'dome', 0.00090049958, u'mosque', 0.00089484855]
+[u'envelope', 0.11259267, u'digital_clock', 0.093268126, u'web_site', 0.072013557, u'maze', 0.038641185, u'screen', 0.026856454]
+[u'nail', 0.33776161, u'oscilloscope', 0.29644579, u'screwdriver', 0.046204351, u'rule', 0.041283157, u'analog_clock', 0.037664596]
+[u'handkerchief', 0.069263548, u'tray', 0.030419499, u'bow_tie', 0.028223421, u'Windsor_tie', 0.026550571, u'vase', 0.0235139]

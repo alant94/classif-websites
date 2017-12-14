@@ -1,0 +1,1 @@
+[u'sweatshirt', 0.11889351, u'theater_curtain', 0.063346744, u'stage', 0.041285206, u'shower_curtain', 0.038670294, u'fountain', 0.035922632]

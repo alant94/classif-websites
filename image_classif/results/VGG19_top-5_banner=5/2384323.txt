@@ -1,0 +1,5 @@
+[u'web_site', 0.50986314, u'street_sign', 0.095705569, u'book_jacket', 0.045057096, u'analog_clock', 0.034991335, u'stopwatch', 0.030153042]
+[u'shield', 0.081867501, u'piggy_bank', 0.063471995, u'mask', 0.04959587, u'triceratops', 0.041956931, u'throne', 0.03974583]
+[u'web_site', 0.049951006, u'book_jacket', 0.043614417, u'hatchet', 0.041532714, u'envelope', 0.034442239, u'revolver', 0.032866832]
+[u'monitor', 0.52120775, u'safe', 0.068230599, u'screen', 0.057296421, u'envelope', 0.055666052, u'desk', 0.036229689]
+[u'book_jacket', 0.089740232, u'web_site', 0.056772821, u'hatchet', 0.050151896, u'street_sign', 0.047288317, u'envelope', 0.030733788]

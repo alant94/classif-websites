@@ -1,0 +1,3 @@
+[u'picket_fence', 0.41040581, u'corn', 0.12095091, u'coral_fungus', 0.054021139, u'ear', 0.048349299, u'wardrobe', 0.042855084]
+[u'lab_coat', 0.19556509, u'bow_tie', 0.091247022, u'plate', 0.080464192, u'groom', 0.057557259, u'jersey', 0.037774175]
+[u'Arabian_camel', 0.56076372, u'sorrel', 0.35334694, u'horse_cart', 0.015974564, u'dogsled', 0.015210174, u'ox', 0.012362789]

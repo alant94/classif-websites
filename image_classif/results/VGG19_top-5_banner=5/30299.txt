@@ -1,0 +1,1 @@
+[u'patio', 0.18001193, u'toilet_seat', 0.17477414, u'rain_barrel', 0.17112014, u'washbasin', 0.12190675, u'ashcan', 0.030719439]

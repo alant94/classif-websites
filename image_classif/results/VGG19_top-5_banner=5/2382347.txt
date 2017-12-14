@@ -1,0 +1,7 @@
+[u'street_sign', 0.29117179, u'digital_clock', 0.20984422, u'scoreboard', 0.059810612, u'book_jacket', 0.050599422, u'traffic_light', 0.049922813]
+[u'cardigan', 0.32661965, u'pajama', 0.074003674, u'jean', 0.040095635, u'stole', 0.039298821, u'sarong', 0.02643333]
+[u'buckeye', 0.32943237, u'dung_beetle', 0.1851681, u'acorn', 0.045078013, u'stinkhorn', 0.045035474, u'bolete', 0.042186525]
+[u'pot', 0.055290505, u'picket_fence', 0.036025409, u'bee', 0.029723614, u'daisy', 0.028880719, u'admiral', 0.027794482]
+[u'crate', 0.068855047, u'wall_clock', 0.066511832, u'horse_cart', 0.061508521, u'unicycle', 0.061097588, u'mobile_home', 0.061051138]
+[u'chain_saw', 0.073618777, u'cardigan', 0.066653319, u'Bouvier_des_Flandres', 0.057730474, u'shovel', 0.053950585, u'croquet_ball', 0.051980674]
+[u'stone_wall', 0.50934917, u'rapeseed', 0.16750467, u'lakeside', 0.065259643, u'worm_fence', 0.06125474, u'breakwater', 0.049135525]

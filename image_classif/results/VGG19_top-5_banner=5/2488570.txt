@@ -1,0 +1,4 @@
+[u'barn_spider', 0.49872866, u'garden_spider', 0.11411816, u'cicada', 0.10592401, u'spider_web', 0.088141724, u'ruffed_grouse', 0.028185412]
+[u'Band_Aid', 0.13008186, u'nipple', 0.081366792, u'lighter', 0.029378209, u'whistle', 0.027155299, u'digital_clock', 0.026944514]
+[u'patio', 0.14323995, u'picket_fence', 0.11784816, u'thatch', 0.10240056, u'mobile_home', 0.045066345, u'fountain', 0.039576583]
+[u'analog_clock', 0.86852485, u'wall_clock', 0.12078696, u'stopwatch', 0.0038036436, u'digital_clock', 0.002214984, u'digital_watch', 0.00088486675]

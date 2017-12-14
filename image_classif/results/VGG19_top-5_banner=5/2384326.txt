@@ -1,0 +1,7 @@
+[u'analog_clock', 0.13995613, u'wall_clock', 0.116053, u'jigsaw_puzzle', 0.067948952, u'book_jacket', 0.062677614, u'aircraft_carrier', 0.051371578]
+[u'book_jacket', 0.117053, u'hook', 0.084805325, u'chain', 0.045067418, u'lampshade', 0.039243102, u'jersey', 0.025692763]
+[u'tile_roof', 0.13339923, u'patio', 0.12563637, u'boathouse', 0.12406518, u'picket_fence', 0.072760887, u'greenhouse', 0.070313223]
+[u'envelope', 0.073120579, u'crane', 0.067389078, u'handkerchief', 0.056605034, u'stupa', 0.05274469, u'binder', 0.032807816]
+[u'refrigerator', 0.097466528, u'envelope', 0.035672329, u'bell_cote', 0.030297257, u'binder', 0.028038386, u'cinema', 0.026734227]
+[u'grand_piano', 0.14745957, u'beacon', 0.05697836, u'solar_dish', 0.037074938, u'table_lamp', 0.036431633, u'upright', 0.034783252]
+[u'moving_van', 0.080928415, u'police_van', 0.077128671, u'binder', 0.055237353, u'garbage_truck', 0.036990263, u'sliding_door', 0.030460702]

@@ -1,0 +1,8 @@
+[u'slide_rule', 0.1488062, u'brass', 0.14203547, u'prison', 0.079880558, u'rule', 0.079372615, u'switch', 0.046474006]
+[u'fountain', 0.42819679, u'mosque', 0.20191988, u'palace', 0.052097876, u'triumphal_arch', 0.04877834, u'church', 0.039457135]
+[u'confectionery', 0.26986179, u'toyshop', 0.18097165, u'altar', 0.087549239, u'butternut_squash', 0.076238535, u'grocery_store', 0.067109175]
+[u'monastery', 0.18969615, u'cliff', 0.15617542, u'seashore', 0.069945224, u'cliff_dwelling', 0.064817511, u'castle', 0.051475823]
+[u'airliner', 0.2324051, u'airship', 0.11896644, u'seashore', 0.058803648, u'dock', 0.04993543, u'fireboat', 0.047746111]
+[u'wine_bottle', 0.84092653, u'red_wine', 0.06346602, u'beer_bottle', 0.032026749, u'corkscrew', 0.027953865, u'hamper', 0.012423561]
+[u'container_ship', 0.82665396, u'aircraft_carrier', 0.081712015, u'drilling_platform', 0.02607758, u'dock', 0.013726176, u'seashore', 0.0098100575]
+[u'wine_bottle', 0.97990876, u'red_wine', 0.014566259, u'beer_bottle', 0.0023805061, u'corkscrew', 0.0012294472, u'hamper', 0.00081177533]

@@ -1,0 +1,8 @@
+[u'theater_curtain', 0.089865714, u'lifeboat', 0.045391202, u'beacon', 0.042518169, u'restaurant', 0.033801306, u'digital_clock', 0.032402374]
+[u'American_alligator', 0.21779302, u'African_crocodile', 0.14790763, u'starfish', 0.14102815, u'alligator_lizard', 0.11367617, u'tailed_frog', 0.080342472]
+[u'loggerhead', 0.3349613, u'coyote', 0.077711672, u'starfish', 0.077084348, u'fountain', 0.030058971, u'jellyfish', 0.024970457]
+[u'wall_clock', 0.208967, u'analog_clock', 0.16863827, u'comic_book', 0.073147535, u'binder', 0.040667452, u'envelope', 0.033657461]
+[u'goose', 0.84204984, u'peacock', 0.062742695, u'bustard', 0.0164095, u'prairie_chicken', 0.01504959, u'pelican', 0.013963293]
+[u'comic_book', 0.48302594, u'book_jacket', 0.38930479, u'web_site', 0.011431391, u'bow', 0.0052243019, u'jersey', 0.0039966558]
+[u'hummingbird', 0.19193639, u'fountain', 0.10727877, u'pedestal', 0.046184599, u'puffer', 0.026307125, u'barracouta', 0.021167416]
+[u'jellyfish', 0.2737591, u'starfish', 0.14190331, u'scorpion', 0.0820072, u'nematode', 0.063658454, u'sax', 0.059750501]

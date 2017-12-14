@@ -1,0 +1,7 @@
+[u'marimba', 0.50438005, u'sax', 0.041486539, u'cornet', 0.039462436, u'vestment', 0.038684294, u'French_horn', 0.029796945]
+[u'groom', 0.5666613, u'suit', 0.092622854, u'academic_gown', 0.056909431, u'vestment', 0.049801201, u'guillotine', 0.038564768]
+[u'patio', 0.10169754, u'prison', 0.097624145, u'flagpole', 0.040659413, u'worm_fence', 0.031338643, u'library', 0.029190246]
+[u'groom', 0.37533459, u'stage', 0.092160314, u'oboe', 0.038556986, u'feather_boa', 0.037368823, u'bow_tie', 0.026315717]
+[u'kimono', 0.23447478, u'groom', 0.17061055, u'stole', 0.061807632, u'suit', 0.052289862, u'fur_coat', 0.037377026]
+[u'picket_fence', 0.57736713, u'spatula', 0.067270763, u'matchstick', 0.043755136, u'ski', 0.029084951, u'chime', 0.022303844]
+[u'wardrobe', 0.3311778, u'academic_gown', 0.082839385, u'vestment', 0.036397837, u'suit', 0.036152247, u'guillotine', 0.033472676]

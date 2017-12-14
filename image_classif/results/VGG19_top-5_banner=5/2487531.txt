@@ -1,0 +1,6 @@
+[u'wild_boar', 0.27406761, u'hog', 0.20055959, u'water_buffalo', 0.17368974, u'warthog', 0.16105136, u'bighorn', 0.033389796]
+[u'ballpoint', 0.16409162, u'chime', 0.12507622, u'screwdriver', 0.074675567, u'ski', 0.057221435, u'rule', 0.041778862]
+[u'brown_bear', 0.59805167, u'American_black_bear', 0.16208823, u'bison', 0.090317279, u'wild_boar', 0.067480661, u'hog', 0.016842403]
+[u'plow', 0.22099982, u'oxcart', 0.1306432, u'assault_rifle', 0.12506381, u'mountain_bike', 0.093898319, u'horse_cart', 0.076625228]
+[u'thatch', 0.094770476, u'cowboy_boot', 0.045218524, u'hay', 0.041882142, u'lumbermill', 0.041476946, u'worm_fence', 0.039578088]
+[u'giant_schnauzer', 0.38117614, u'American_black_bear', 0.18072785, u'Newfoundland', 0.044757862, u'groenendael', 0.031115929, u'briard', 0.03084847]

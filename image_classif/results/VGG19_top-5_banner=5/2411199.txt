@@ -1,0 +1,4 @@
+[u'screw', 0.81001353, u'nail', 0.059507672, u'power_drill', 0.023463298, u'screwdriver', 0.015965048, u'whistle', 0.010257513]
+[u'envelope', 0.051369388, u'web_site', 0.043462504, u'syringe', 0.016810155, u'matchstick', 0.016546162, u'wall_clock', 0.014409787]
+[u'doormat', 0.11380791, u'shower_curtain', 0.099452354, u'fire_screen', 0.083384112, u'theater_curtain', 0.077706978, u'picket_fence', 0.061899539]
+[u'diaper', 0.33260065, u'Band_Aid', 0.14124706, u'carton', 0.075535998, u'washer', 0.064419068, u'envelope', 0.039178777]

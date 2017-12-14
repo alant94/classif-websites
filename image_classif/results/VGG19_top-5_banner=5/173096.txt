@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.70737094, u'plate_rack', 0.032275774, u'china_cabinet', 0.028797455, u'refrigerator', 0.01839068, u'screwdriver', 0.018322101]

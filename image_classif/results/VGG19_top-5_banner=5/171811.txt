@@ -1,0 +1,2 @@
+[u'hook', 0.19225647, u'rule', 0.12345735, u'nail', 0.08695472, u'slide_rule', 0.081886776, u'chime', 0.041177988]
+[u'lampshade', 0.213402, u'television', 0.15947019, u'screen', 0.12947461, u'table_lamp', 0.12453399, u'monitor', 0.063806534]

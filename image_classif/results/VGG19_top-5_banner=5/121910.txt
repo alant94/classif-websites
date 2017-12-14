@@ -1,0 +1,4 @@
+[u"carpenter's_kit", 0.57741189, u'ballpoint', 0.034133382, u'screwdriver', 0.033467103, u'digital_watch', 0.025657769, u'digital_clock', 0.018357279]
+[u"carpenter's_kit", 0.54254669, u'screwdriver', 0.11334371, u'ballpoint', 0.085925587, u'digital_watch', 0.071383201, u'letter_opener', 0.015149933]
+[u'swab', 0.28803191, u'ballpoint', 0.27820584, u'rubber_eraser', 0.1017542, u'whistle', 0.053271603, u'matchstick', 0.049642332]
+[u'envelope', 0.25027603, u'monitor', 0.1437494, u'binder', 0.097858571, u'screen', 0.097561412, u'digital_clock', 0.082202822]

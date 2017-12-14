@@ -1,0 +1,4 @@
+[u'iPod', 0.33073208, u'tray', 0.13842073, u'cellular_telephone', 0.12412877, u'digital_clock', 0.082299113, u'lighter', 0.041362587]
+[u'book_jacket', 0.093908191, u'street_sign', 0.092740729, u'web_site', 0.072186723, u'comic_book', 0.054126568, u'traffic_light', 0.035302207]
+[u'safe', 0.2095651, u'digital_watch', 0.13674414, u'lighter', 0.12150683, u'digital_clock', 0.10837715, u'combination_lock', 0.053756185]
+[u'analog_clock', 0.19659798, u'iPod', 0.11718898, u'digital_clock', 0.10743368, u'stopwatch', 0.05164684, u'oscilloscope', 0.049029976]

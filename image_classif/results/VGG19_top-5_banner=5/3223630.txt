@@ -1,0 +1,3 @@
+[u'pier', 0.45860794, u'liner', 0.10606397, u'palace', 0.094978794, u'dock', 0.067864172, u'mosque', 0.043417495]
+[u'binder', 0.28526956, u'envelope', 0.17402443, u'menu', 0.11263767, u'shower_curtain', 0.084462583, u'packet', 0.040109415]
+[u'cinema', 0.14550309, u'streetcar', 0.12137707, u'library', 0.11879796, u'trolleybus', 0.084792405, u'bookshop', 0.074322864]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.21003933, u'web_site', 0.13768812, u'hook', 0.095455073, u'envelope', 0.026056139, u'binder', 0.024974588]
+[u'valley', 0.84978378, u'seashore', 0.053336803, u'alp', 0.034410533, u'lakeside', 0.017493377, u'promontory', 0.0096947057]
+[u'lotion', 0.22637668, u'pill_bottle', 0.094914071, u'medicine_chest', 0.087888055, u'beaker', 0.063668959, u'beer_bottle', 0.058622546]

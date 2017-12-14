@@ -1,0 +1,2 @@
+[u'envelope', 0.14761344, u'hair_slide', 0.066003591, u'cleaver', 0.047715776, u'tray', 0.045546193, u'sleeping_bag', 0.038287297]
+[u'kite', 0.41427138, u'bald_eagle', 0.38905802, u'hornbill', 0.032607533, u'quail', 0.02315334, u'coucal', 0.022925446]

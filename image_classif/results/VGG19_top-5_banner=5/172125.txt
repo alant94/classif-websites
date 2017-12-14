@@ -1,0 +1,7 @@
+[u'digital_clock', 0.36370537, u'crossword_puzzle', 0.045846973, u'digital_watch', 0.03595769, u'container_ship', 0.016019542, u'electric_guitar', 0.015943678]
+[u'digital_clock', 0.57155198, u'envelope', 0.10656506, u'maze', 0.10195299, u'digital_watch', 0.037874117, u'book_jacket', 0.025891036]
+[u'digital_clock', 0.2646445, u'monitor', 0.23405343, u'screen', 0.21062851, u'envelope', 0.031247849, u'container_ship', 0.02967706]
+[u'digital_clock', 0.43965727, u'digital_watch', 0.049116917, u'container_ship', 0.039272476, u'jigsaw_puzzle', 0.015668727, u'crossword_puzzle', 0.014860326]
+[u'envelope', 0.2556386, u'digital_clock', 0.10980005, u'monitor', 0.069423072, u'screen', 0.065156952, u'binder', 0.040508933]
+[u'street_sign', 0.10699961, u'punching_bag', 0.037741184, u'jersey', 0.028543284, u'buckle', 0.026639275, u'traffic_light', 0.021988995]
+[u'digital_clock', 0.73637158, u'maze', 0.048127346, u'envelope', 0.021825772, u'tray', 0.017927939, u'digital_watch', 0.016146822]

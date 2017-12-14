@@ -1,0 +1,2 @@
+[u'puck', 0.084138989, u'pick', 0.082871079, u'fig', 0.076066434, u'Granny_Smith', 0.075162165, u'loupe', 0.044744071]
+[u'screen', 0.44054437, u'monitor', 0.33683169, u'desktop_computer', 0.053184383, u'television', 0.032530434, u'home_theater', 0.02433902]

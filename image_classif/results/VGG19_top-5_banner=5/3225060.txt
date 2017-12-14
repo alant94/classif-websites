@@ -1,0 +1,2 @@
+[u'screen', 0.24130185, u'monitor', 0.18901204, u'digital_clock', 0.076434873, u'web_site', 0.075925089, u'oscilloscope', 0.064114049]
+[u'quill', 0.22079696, u'wool', 0.17390236, u'packet', 0.10293847, u'stole', 0.10203109, u'menu', 0.038854688]

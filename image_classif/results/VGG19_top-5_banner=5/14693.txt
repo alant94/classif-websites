@@ -1,0 +1,2 @@
+[u'analog_clock', 0.16412447, u'pirate', 0.13669138, u'wall_clock', 0.11796103, u'crane', 0.07100334, u'aircraft_carrier', 0.049911659]
+[u'envelope', 0.089955129, u'web_site', 0.028107949, u'cleaver', 0.015586213, u'hammer', 0.011701626, u'hatchet', 0.011558011]

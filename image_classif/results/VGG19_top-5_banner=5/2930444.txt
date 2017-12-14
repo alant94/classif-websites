@@ -1,0 +1,2 @@
+[u'web_site', 0.096132517, u'shower_curtain', 0.095241152, u'screen', 0.08549799, u'picket_fence', 0.079321057, u'television', 0.039486863]
+[u'syringe', 0.36597648, u'screwdriver', 0.084570393, u'rule', 0.077437364, u'whistle', 0.042831525, u'container_ship', 0.028438009]

@@ -1,0 +1,8 @@
+[u'maillot', 0.17227191, u'miniskirt', 0.15022756, u'maillot', 0.045798097, u'swimming_trunks', 0.045069579, u'vizsla', 0.037770502]
+[u'bookshop', 0.050343346, u'shower_curtain', 0.04055227, u'prayer_rug', 0.037469842, u'digital_clock', 0.036846016, u'window_screen', 0.029477499]
+[u'hook', 0.19538946, u'wall_clock', 0.088860035, u'wardrobe', 0.078734636, u'safety_pin', 0.055525098, u'stethoscope', 0.051215652]
+[u'notebook', 0.12997052, u'laptop', 0.063103959, u'joystick', 0.051709574, u'cleaver', 0.051240467, u'cellular_telephone', 0.039022684]
+[u'cocktail_shaker', 0.13918594, u'torch', 0.10533866, u'gown', 0.10500316, u'hand_blower', 0.078219622, u'maillot', 0.071608111]
+[u'gown', 0.145024, u'suit', 0.064226329, u'velvet', 0.050986364, u'overskirt', 0.050201595, u'academic_gown', 0.036021076]
+[u'seat_belt', 0.35604501, u'bassinet', 0.068249829, u'bath_towel', 0.062235232, u'pug', 0.056380238, u'nipple', 0.041770048]
+[u'bath_towel', 0.14700332, u'Band_Aid', 0.13370401, u'diaper', 0.09154582, u'zucchini', 0.057543449, u'seat_belt', 0.05271839]

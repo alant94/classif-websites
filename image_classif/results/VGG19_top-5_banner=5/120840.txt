@@ -1,0 +1,4 @@
+[u'digital_clock', 0.1814252, u'analog_clock', 0.13593939, u'iPod', 0.074844033, u'digital_watch', 0.045421403, u'stopwatch', 0.041652013]
+[u'combination_lock', 0.24548841, u"carpenter's_kit", 0.2393792, u'digital_clock', 0.081517167, u'beaker', 0.040705387, u'buckle', 0.039911907]
+[u'tray', 0.24354129, u'buckle', 0.19464898, u'lighter', 0.14588214, u'traffic_light', 0.048558354, u'mailbag', 0.045677166]
+[u'digital_clock', 0.37535945, u'street_sign', 0.18299927, u'tray', 0.085395083, u'iPod', 0.051470634, u'traffic_light', 0.034393005]

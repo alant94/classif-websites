@@ -1,0 +1,4 @@
+[u'web_site', 0.58997458, u'envelope', 0.054820165, u'hook', 0.035021301, u'loupe', 0.03465886, u'nematode', 0.031265046]
+[u'packet', 0.099690504, u'Band_Aid', 0.092273764, u'book_jacket', 0.082463168, u'comic_book', 0.074456863, u'street_sign', 0.0500453]
+[u'scale', 0.4734647, u'butcher_shop', 0.057087626, u'wall_clock', 0.051285483, u'iron', 0.037269626, u'altar', 0.03455447]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

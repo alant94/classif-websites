@@ -1,0 +1,3 @@
+[u'chest', 0.69761032, u'chiffonier', 0.26050696, u'file', 0.013563025, u'wardrobe', 0.0076962132, u'upright', 0.0064611374]
+[u'nail', 0.11366971, u'letter_opener', 0.07766778, u"carpenter's_kit", 0.06886737, u'hammer', 0.0640487, u'screwdriver', 0.062342707]
+[u'pickelhaube', 0.20660882, u'oboe', 0.09185373, u'vestment', 0.084863357, u'banjo', 0.053967778, u'bassoon', 0.046686355]

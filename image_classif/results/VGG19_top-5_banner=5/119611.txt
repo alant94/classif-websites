@@ -1,0 +1,2 @@
+[u'perfume', 0.24123551, u'web_site', 0.21780078, u'book_jacket', 0.18070048, u'menu', 0.03954602, u'digital_clock', 0.025236182]
+[u'cinema', 0.14792401, u'theater_curtain', 0.057520863, u'stage', 0.050942801, u'scoreboard', 0.047644217, u'hair_spray', 0.042119395]

@@ -1,0 +1,7 @@
+[u'plastic_bag', 0.34361836, u'fireboat', 0.34189931, u'geyser', 0.091660358, u'shower_curtain', 0.049732797, u'fountain', 0.01795828]
+[u'pill_bottle', 0.90040386, u'milk_can', 0.044678956, u'whiskey_jug', 0.025510916, u'lotion', 0.010509765, u'water_bottle', 0.0062226504]
+[u'oil_filter', 0.32519293, u'pill_bottle', 0.28264678, u'toilet_tissue', 0.14573142, u'sunscreen', 0.090128586, u'candle', 0.061092909]
+[u'pill_bottle', 0.39903706, u'face_powder', 0.31131798, u'lotion', 0.097845331, u'chocolate_sauce', 0.08898364, u'sunscreen', 0.041438062]
+[u'pill_bottle', 0.50544059, u'oil_filter', 0.19492753, u'candle', 0.089677989, u'toilet_tissue', 0.054461539, u'lotion', 0.049378172]
+[u'oil_filter', 0.60398477, u'pill_bottle', 0.32238734, u'sunscreen', 0.03476226, u'lotion', 0.0077771889, u'toilet_tissue', 0.007723771]
+[u'pill_bottle', 0.88364381, u'oil_filter', 0.039712943, u'sunscreen', 0.030891594, u'lotion', 0.010109715, u'toilet_tissue', 0.0068971529]

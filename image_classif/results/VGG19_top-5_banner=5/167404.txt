@@ -1,0 +1,1 @@
+[u'picket_fence', 0.107357, u'chime', 0.088335864, u'shield', 0.07559108, u'street_sign', 0.059624352, u'traffic_light', 0.04699406]

@@ -1,0 +1,1 @@
+[u'mousetrap', 0.17761508, u'table_lamp', 0.053248912, u'crate', 0.051259767, u'matchstick', 0.045863308, u'lighter', 0.040833041]

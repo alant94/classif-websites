@@ -1,0 +1,4 @@
+[u'ballpoint', 0.3117162, u'chime', 0.28007501, u'screwdriver', 0.081010751, u'spatula', 0.071319379, u'paintbrush', 0.04776258]
+[u'ballpoint', 0.36604244, u'screwdriver', 0.22494708, u'chime', 0.067906268, u'paintbrush', 0.056481805, u"carpenter's_kit", 0.035738681]
+[u'table_lamp', 0.099189766, u'spotlight', 0.086488083, u'hook', 0.063551262, u'scale', 0.06236374, u'plunger', 0.046928987]
+[u'comic_book', 0.16805345, u'stage', 0.12166173, u'theater_curtain', 0.057646394, u'jigsaw_puzzle', 0.039194778, u'book_jacket', 0.035034698]

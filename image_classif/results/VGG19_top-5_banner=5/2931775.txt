@@ -1,0 +1,1 @@
+[u'bannister', 0.3322427, u'steel_arch_bridge', 0.061939325, u'scoreboard', 0.051408157, u'street_sign', 0.047670469, u'cinema', 0.039178792]

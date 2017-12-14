@@ -1,0 +1,8 @@
+[u'envelope', 0.198294, u'panpipe', 0.070233881, u'tray', 0.059004944, u'lampshade', 0.058226984, u'candle', 0.054468479]
+[u'panpipe', 0.43532676, u'wall_clock', 0.074032187, u'envelope', 0.064335011, u'matchstick', 0.047731038, u'lampshade', 0.027676618]
+[u'toilet_seat', 0.13266699, u'shield', 0.068610132, u'clog', 0.060605828, u'carton', 0.057196327, u'banana', 0.042558022]
+[u'shield', 0.81210268, u'bib', 0.045732666, u'tray', 0.035357129, u'wall_clock', 0.023977075, u'buckle', 0.012820008]
+[u'envelope', 0.13165101, u'four-poster', 0.092509851, u'harp', 0.066757299, u'prayer_rug', 0.058547925, u'candle', 0.042883746]
+[u'panpipe', 0.24643306, u'candle', 0.10540731, u'balloon', 0.083156765, u'envelope', 0.080828607, u'stupa', 0.053860821]
+[u'beer_bottle', 0.99866974, u'pop_bottle', 0.00054993242, u'beer_glass', 0.00046327061, u'refrigerator', 0.00011992564, u'wine_bottle', 9.0757931e-05]
+[u'stupa', 0.15737481, u'envelope', 0.14427663, u'pencil_sharpener', 0.053409856, u'lampshade', 0.052018501, u'wall_clock', 0.049798366]

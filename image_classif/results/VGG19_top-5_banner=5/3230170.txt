@@ -1,0 +1,5 @@
+[u'dough', 0.13887998, u'teddy', 0.12026754, u'spatula', 0.069717526, u'ice_cream', 0.056833234, u'chocolate_sauce', 0.038817581]
+[u'tricycle', 0.62415272, u'reel', 0.056727815, u'plunger', 0.044560961, u'spindle', 0.030168282, u'power_drill', 0.025047285]
+[u'espresso', 0.99046373, u'cup', 0.0051493924, u'coffee_mug', 0.0024902474, u'espresso_maker', 0.00080299086, u'eggnog', 0.00037751033]
+[u'notebook', 0.45879781, u'laptop', 0.21952897, u'computer_keyboard', 0.041584514, u'space_bar', 0.033531871, u'modem', 0.02673078]
+[u'balloon', 0.071002237, u'envelope', 0.063253738, u'web_site', 0.049348202, u'abaya', 0.042339712, u'bell_cote', 0.026046321]

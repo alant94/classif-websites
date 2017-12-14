@@ -1,0 +1,1 @@
+[u'container_ship', 0.36709204, u'aircraft_carrier', 0.1477188, u'drilling_platform', 0.14589871, u'space_shuttle', 0.07084915, u'dock', 0.07042449]

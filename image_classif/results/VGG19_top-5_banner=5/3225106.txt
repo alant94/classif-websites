@@ -1,0 +1,5 @@
+[u'puck', 0.22416432, u'face_powder', 0.21282047, u'wall_clock', 0.1206548, u'analog_clock', 0.07514023, u'pick', 0.030593041]
+[u'church', 0.5487836, u'altar', 0.25717756, u'vault', 0.11372486, u'organ', 0.030933985, u'monastery', 0.0093668969]
+[u'puck', 0.16936623, u'book_jacket', 0.08987435, u'scoreboard', 0.073737703, u'street_sign', 0.070863403, u'web_site', 0.055004857]
+[u'hair_slide', 0.29464352, u'panpipe', 0.034466375, u'hook', 0.033087846, u'ballpoint', 0.023637651, u'bow', 0.02356131]
+[u'suit', 0.51557195, u'bulletproof_vest', 0.097273208, u'Windsor_tie', 0.062823385, u'academic_gown', 0.031795319, u'bow_tie', 0.021359768]

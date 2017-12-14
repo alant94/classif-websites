@@ -1,0 +1,7 @@
+[u'guillotine', 0.48952454, u'prison', 0.031663373, u'grand_piano', 0.027971368, u'abacus', 0.02079278, u'rotisserie', 0.017035216]
+[u'wig', 0.35471991, u'brassiere', 0.063348591, u'lipstick', 0.052497447, u'Band_Aid', 0.035957597, u'seat_belt', 0.03249364]
+[u'bathtub', 0.39462289, u'tub', 0.13306011, u'diaper', 0.11275125, u'shower_cap', 0.082301125, u'bath_towel', 0.074242257]
+[u'wig', 0.3607038, u'window_shade', 0.053268719, u'shower_cap', 0.042306434, u'neck_brace', 0.039008353, u'seat_belt', 0.031564418]
+[u'diaper', 0.10227316, u'miniskirt', 0.049492139, u'stethoscope', 0.04374152, u'wig', 0.041773293, u'brassiere', 0.040570937]
+[u'academic_gown', 0.23443627, u'mortarboard', 0.19211915, u'boathouse', 0.062831834, u'bell_cote', 0.037665304, u'analog_clock', 0.032102335]
+[u'tub', 0.49355227, u'bathtub', 0.47751129, u'cradle', 0.0091001866, u'bath_towel', 0.0048510912, u'bassinet', 0.0018765548]

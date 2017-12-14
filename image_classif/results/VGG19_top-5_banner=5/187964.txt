@@ -1,0 +1,3 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'jellyfish', 0.068536833, u'hammerhead', 0.061889265, u'scuba_diver', 0.040642392, u'parachute', 0.026781982, u'sea_snake', 0.026172383]

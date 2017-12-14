@@ -1,0 +1,3 @@
+[u'book_jacket', 0.83214569, u'comic_book', 0.029870931, u'gong', 0.017702036, u'tray', 0.013771706, u'puck', 0.010222914]
+[u'dogsled', 0.52959007, u'snowmobile', 0.054347258, u'mountain_tent', 0.046565298, u'lakeside', 0.039566912, u'mountain_bike', 0.021961125]
+[u'digital_clock', 0.55477053, u'digital_watch', 0.10950344, u'picket_fence', 0.041848589, u'book_jacket', 0.033041231, u'envelope', 0.017462092]

@@ -1,0 +1,7 @@
+[u'barn', 0.88312179, u'worm_fence', 0.029691821, u'stone_wall', 0.020350821, u'boathouse', 0.017782528, u'church', 0.0098884944]
+[u'volcano', 0.57476944, u'lakeside', 0.091492906, u'alp', 0.043360207, u'radio_telescope', 0.036227617, u'parachute', 0.021898424]
+[u'pot', 0.16297603, u'picket_fence', 0.16000909, u'greenhouse', 0.08563374, u'birdhouse', 0.04172321, u'rain_barrel', 0.024323745]
+[u'greenhouse', 0.23996477, u'pinwheel', 0.089033715, u'pot', 0.065300331, u'cardoon', 0.050060838, u'thatch', 0.026784891]
+[u'thatch', 0.099001437, u'stone_wall', 0.088900134, u'greenhouse', 0.068123206, u'pot', 0.068058819, u'picket_fence', 0.061480891]
+[u'window_screen', 0.17460182, u'doormat', 0.074320897, u'fountain', 0.050759889, u'prayer_rug', 0.049900688, u'jigsaw_puzzle', 0.048231963]
+[u'mountain_tent', 0.1465857, u'viaduct', 0.080375209, u'suspension_bridge', 0.078185715, u'valley', 0.051648948, u'maypole', 0.051029261]

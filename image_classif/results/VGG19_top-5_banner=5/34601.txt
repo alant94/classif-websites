@@ -1,0 +1,1 @@
+[u'digital_clock', 0.53275675, u'digital_watch', 0.083346151, u'envelope', 0.032734927, u'rubber_eraser', 0.029832449, u'carton', 0.023953965]

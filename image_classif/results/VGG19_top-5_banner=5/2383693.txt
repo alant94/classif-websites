@@ -1,0 +1,1 @@
+[u'beer_glass', 0.59267104, u'cocktail_shaker', 0.12667201, u'espresso', 0.054693662, u'paintbrush', 0.016778346, u'beer_bottle', 0.012128823]

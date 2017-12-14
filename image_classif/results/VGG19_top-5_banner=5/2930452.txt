@@ -1,0 +1,8 @@
+[u'pajama', 0.33208585, u'kimono', 0.076145224, u'hair_spray', 0.053074151, u'cellular_telephone', 0.02650412, u'stole', 0.024702365]
+[u'tub', 0.13927822, u'bathtub', 0.12133867, u'stethoscope', 0.11251955, u'bath_towel', 0.093058161, u'lab_coat', 0.050400194]
+[u'envelope', 0.2760264, u'web_site', 0.091034137, u'wardrobe', 0.047516935, u'shower_curtain', 0.025539761, u'binder', 0.02528058]
+[u'lab_coat', 0.27789038, u'trench_coat', 0.16888371, u'sweatshirt', 0.065704174, u'pajama', 0.063730329, u'kimono', 0.035249159]
+[u'hair_spray', 0.059397452, u'wig', 0.059126284, u'cloak', 0.052241076, u'abaya', 0.045052819, u'pajama', 0.043853879]
+[u'web_site', 0.21285139, u'envelope', 0.059516102, u'digital_clock', 0.033407021, u'nematode', 0.030100649, u'Band_Aid', 0.028930137]
+[u'wig', 0.331099, u'brassiere', 0.20428456, u'maillot', 0.048561785, u'bikini', 0.044307273, u'bath_towel', 0.033391152]
+[u'cellular_telephone', 0.32768336, u'harmonica', 0.069963709, u'whistle', 0.041757356, u'Band_Aid', 0.024700314, u'ice_lolly', 0.024663934]

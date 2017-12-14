@@ -1,0 +1,2 @@
+[u'sarong', 0.34910068, u'balance_beam', 0.075364299, u'unicycle', 0.047059178, u'miniskirt', 0.040418155, u'volleyball', 0.037690721]
+[u'theater_curtain', 0.75444174, u'prison', 0.085649185, u'organ', 0.050993465, u'turnstile', 0.0083014788, u'pier', 0.0079380171]

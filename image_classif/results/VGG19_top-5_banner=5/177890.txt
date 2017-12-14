@@ -1,0 +1,2 @@
+[u'flagpole', 0.90201306, u'parachute', 0.039718825, u'warplane', 0.018734436, u'pinwheel', 0.011674864, u'airliner', 0.0026091626]
+[u'crane', 0.42220259, u'airship', 0.060660895, u'traffic_light', 0.05365948, u'scoreboard', 0.050910186, u'container_ship', 0.02098983]

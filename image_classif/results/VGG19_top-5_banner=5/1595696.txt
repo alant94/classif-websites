@@ -1,0 +1,2 @@
+[u'tub', 0.25631905, u'swimming_trunks', 0.22179709, u'diaper', 0.19627078, u'bathtub', 0.09939748, u'shower_cap', 0.022773596]
+[u'bathtub', 0.3451907, u'tub', 0.31805918, u'swimming_trunks', 0.078701071, u'brassiere', 0.039420605, u'sunscreen', 0.038404409]

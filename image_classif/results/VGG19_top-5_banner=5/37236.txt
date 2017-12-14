@@ -1,0 +1,4 @@
+[u'matchstick', 0.10275698, u'binder', 0.093555711, u'ballpoint', 0.06174586, u'rubber_eraser', 0.053353965, u'web_site', 0.034283467]
+[u'envelope', 0.27744687, u'book_jacket', 0.054147951, u'packet', 0.045642722, u'letter_opener', 0.030514224, u'rule', 0.025485074]
+[u'mountain_tent', 0.11843985, u'cloak', 0.071965523, u'sleeping_bag', 0.057952318, u'mosquito_net', 0.031570479, u'swing', 0.028581688]
+[u'lotion', 0.23489061, u'sunscreen', 0.21765512, u'vase', 0.088398375, u'perfume', 0.068505011, u'pill_bottle', 0.058623724]

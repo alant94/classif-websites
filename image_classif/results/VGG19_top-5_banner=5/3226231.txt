@@ -1,0 +1,3 @@
+[u'envelope', 0.09956266, u'tennis_ball', 0.039088909, u'binder', 0.038468655, u'wall_clock', 0.026170572, u'book_jacket', 0.024574066]
+[u'safety_pin', 0.68990344, u'hook', 0.1481438, u'bow', 0.035245605, u'hair_slide', 0.0089376653, u'screwdriver', 0.0081971586]
+[u'stage', 0.74712098, u'cash_machine', 0.055227198, u'barbershop', 0.016679037, u'spotlight', 0.015935296, u'lab_coat', 0.011178906]

@@ -1,0 +1,2 @@
+[u'rapeseed', 0.33253196, u'worm_fence', 0.10735988, u'hay', 0.10713905, u'barn', 0.1024273, u'stone_wall', 0.043886621]
+[u'plate_rack', 0.059775066, u'safety_pin', 0.056660913, u'nail', 0.050420377, u'hook', 0.040264025, u'web_site', 0.0316271]

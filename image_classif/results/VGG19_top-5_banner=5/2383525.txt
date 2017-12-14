@@ -1,0 +1,6 @@
+[u'space_shuttle', 0.2726478, u'fountain', 0.15605371, u'missile', 0.10495122, u'projectile', 0.079246573, u'matchstick', 0.054666448]
+[u'jersey', 0.16911076, u'digital_clock', 0.077346466, u'gas_pump', 0.058473915, u'sweatshirt', 0.049668383, u'book_jacket', 0.046396665]
+[u'French_horn', 0.20819286, u'cornet', 0.090489678, u'trombone', 0.078057878, u'sax', 0.051349539, u'unicycle', 0.031835042]
+[u'traffic_light', 0.21725175, u'switch', 0.14819641, u'hook', 0.021569351, u'digital_clock', 0.019638302, u'loudspeaker', 0.017532974]
+[u'jellyfish', 0.54014254, u'parachute', 0.066723794, u'scuba_diver', 0.059276678, u'space_shuttle', 0.028860135, u'wreck', 0.026829287]
+[u'digital_clock', 0.27434987, u'balloon', 0.054279096, u'water_tower', 0.048719261, u'street_sign', 0.042701896, u'traffic_light', 0.035671372]

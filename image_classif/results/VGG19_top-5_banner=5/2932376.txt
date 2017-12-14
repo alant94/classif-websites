@@ -1,0 +1,5 @@
+[u'toilet_seat', 0.34768531, u'Windsor_tie', 0.12571701, u'Band_Aid', 0.1146937, u'neck_brace', 0.08753141, u'soap_dispenser', 0.060554318]
+[u'backpack', 0.17767879, u'bathing_cap', 0.16591884, u'swimming_trunks', 0.0722543, u'racket', 0.048726954, u'cash_machine', 0.032042004]
+[u'book_jacket', 0.17776763, u'street_sign', 0.091691643, u'pill_bottle', 0.036668178, u'envelope', 0.033756558, u'packet', 0.024987396]
+[u'wig', 0.13335966, u'cloak', 0.084164448, u'stole', 0.072959051, u'abaya', 0.05028503, u'sweatshirt', 0.04402741]
+[u'stethoscope', 0.91423488, u'loupe', 0.017485917, u'corkscrew', 0.010010405, u'spotlight', 0.0096854437, u'magnetic_compass', 0.0073689781]

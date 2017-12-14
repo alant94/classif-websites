@@ -1,0 +1,4 @@
+[u'screen', 0.24793287, u'monitor', 0.22869962, u'book_jacket', 0.1690615, u'binder', 0.076203153, u'tray', 0.061195169]
+[u'binder', 0.27349079, u'book_jacket', 0.15775612, u'jigsaw_puzzle', 0.086861625, u'envelope', 0.06292709, u'dingo', 0.03079569]
+[u'binder', 0.54573876, u'book_jacket', 0.11423869, u'envelope', 0.048982143, u'safety_pin', 0.017605945, u'mousetrap', 0.01636715]
+[u'book_jacket', 0.40070015, u'tray', 0.14638487, u'binder', 0.14573547, u'brass', 0.043068234, u'jigsaw_puzzle', 0.039572265]

@@ -1,0 +1,6 @@
+[u'bookshop', 0.25104532, u'library', 0.21577881, u'barber_chair', 0.17944172, u'barbershop', 0.074388266, u'tobacco_shop', 0.048267443]
+[u'barbershop', 0.12945113, u'book_jacket', 0.07133466, u'cash_machine', 0.06926208, u'Band_Aid', 0.056712631, u'cinema', 0.052557189]
+[u'microwave', 0.1379116, u'china_cabinet', 0.09638723, u'stove', 0.060587686, u'sliding_door', 0.05806658, u'wardrobe', 0.050206233]
+[u'microwave', 0.41379619, u'china_cabinet', 0.28655908, u'dishwasher', 0.074129596, u'medicine_chest', 0.025796417, u'safe', 0.017151553]
+[u'medicine_chest', 0.33084089, u'safe', 0.11878488, u'wardrobe', 0.070556268, u'file', 0.052722484, u'washbasin', 0.046265621]
+[u'refrigerator', 0.35296765, u'file', 0.25068355, u'microwave', 0.1845184, u'safe', 0.042917378, u'stove', 0.016359324]

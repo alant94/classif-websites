@@ -1,0 +1,2 @@
+[u'table_lamp', 0.81909359, u'beaker', 0.054597098, u'lampshade', 0.0220246, u'pencil_sharpener', 0.012661663, u'iron', 0.0065764124]
+[u'web_site', 0.99502558, u'monitor', 0.0013954607, u'envelope', 0.00073247775, u'screen', 0.00042550644, u'desktop_computer', 0.00028023735]

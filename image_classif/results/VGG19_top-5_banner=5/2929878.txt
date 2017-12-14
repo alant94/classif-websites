@@ -1,0 +1,8 @@
+[u'abaya', 0.19623661, u'gown', 0.11420953, u'brassiere', 0.075572811, u'pajama', 0.043560959, u'bath_towel', 0.032503072]
+[u'maillot', 0.10990699, u'brassiere', 0.10289057, u'bikini', 0.091481134, u'wig', 0.065186985, u'miniskirt', 0.058035236]
+[u'book_jacket', 0.26490304, u'street_sign', 0.13319013, u'web_site', 0.039304841, u'comic_book', 0.032168597, u'microphone', 0.027763784]
+[u'notebook', 0.25466448, u'lab_coat', 0.19588023, u'laptop', 0.037944172, u'wig', 0.0199646, u'envelope', 0.015962018]
+[u'face_powder', 0.1555279, u'sunscreen', 0.15005448, u'Band_Aid', 0.13927145, u'brassiere', 0.11779698, u'bikini', 0.079069614]
+[u'iron', 0.13557105, u'hand_blower', 0.08123073, u'barbell', 0.076398402, u'stethoscope', 0.052004423, u'dumbbell', 0.039772891]
+[u'matchstick', 0.11046847, u'torch', 0.072317973, u'microphone', 0.059922814, u'street_sign', 0.05898029, u'lighter', 0.031347163]
+[u'wig', 0.63400275, u'wool', 0.13403207, u'stole', 0.12071029, u'cardigan', 0.03238257, u'fur_coat', 0.013611453]

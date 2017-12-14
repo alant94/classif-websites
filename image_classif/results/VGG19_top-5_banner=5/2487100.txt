@@ -1,0 +1,6 @@
+[u'comic_book', 0.10755392, u'jersey', 0.10172722, u'book_jacket', 0.037500609, u'buckle', 0.029425642, u'hatchet', 0.024939504]
+[u'ibex', 0.39999264, u'hartebeest', 0.12712134, u'impala', 0.12690221, u'ox', 0.10987604, u'oxcart', 0.063425608]
+[u'water_buffalo', 0.34719428, u'bighorn', 0.1482555, u'oxcart', 0.10577241, u'ox', 0.068153545, u'ram', 0.051386401]
+[u'oxcart', 0.20990147, u'ibex', 0.17273368, u'ox', 0.16500357, u'water_buffalo', 0.073405728, u'dingo', 0.041979931]
+[u'screwdriver', 0.34644559, u"carpenter's_kit", 0.21858117, u'nail', 0.068637289, u'cleaver', 0.062480304, u'spatula', 0.045671217]
+[u'screwdriver', 0.12087481, u'chime', 0.057703301, u'paintbrush', 0.05224489, u'spatula', 0.04741744, u'rule', 0.047281478]

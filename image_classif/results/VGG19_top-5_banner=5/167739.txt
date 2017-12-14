@@ -1,0 +1,3 @@
+[u'book_jacket', 0.97388422, u'menu', 0.0042535425, u'cash_machine', 0.0042292806, u'theater_curtain', 0.0020442223, u'oscilloscope', 0.0019317371]
+[u'book_jacket', 0.26611501, u'comic_book', 0.13365225, u'miniskirt', 0.071647115, u'tray', 0.034277774, u'cowboy_hat', 0.032199442]
+[u'scoreboard', 0.34337172, u'oscilloscope', 0.14458315, u'street_sign', 0.097189516, u'brass', 0.055522393, u'freight_car', 0.049537115]

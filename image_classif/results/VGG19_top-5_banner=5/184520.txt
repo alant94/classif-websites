@@ -1,0 +1,6 @@
+[u'sundial', 0.13991395, u'lakeside', 0.09191063, u'street_sign', 0.073943004, u'brass', 0.041791566, u'bell_cote', 0.030720202]
+[u'web_site', 0.93672884, u'television', 0.018436711, u'screen', 0.0066673532, u'menu', 0.005267241, u'monitor', 0.0047082212]
+[u'hatchet', 0.022474561, u'web_site', 0.020820512, u'envelope', 0.018517613, u'abaya', 0.014941849, u'cleaver', 0.013933684]
+[u'bubble', 0.81792295, u'balloon', 0.085859083, u'web_site', 0.0082517127, u'crash_helmet', 0.0066042319, u'Petri_dish', 0.0047302432]
+[u'unicycle', 0.32354069, u'seashore', 0.23958194, u'mountain_bike', 0.12381611, u'sandbar', 0.11759849, u'bicycle-built-for-two', 0.056446057]
+[u'cinema', 0.14407906, u'motor_scooter', 0.066160388, u'library', 0.040061828, u'planetarium', 0.035005871, u'streetcar', 0.032207888]

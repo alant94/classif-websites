@@ -1,0 +1,1 @@
+[u'monitor', 0.15787339, u'window_shade', 0.13133164, u'screen', 0.062831841, u'window_screen', 0.045302372, u'shower_curtain', 0.031317074]

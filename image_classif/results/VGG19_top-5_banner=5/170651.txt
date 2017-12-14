@@ -1,0 +1,3 @@
+[u'street_sign', 0.20804359, u'book_jacket', 0.081629813, u'web_site', 0.054645479, u'hook', 0.044190355, u'safety_pin', 0.036246907]
+[u'envelope', 0.13152373, u'digital_clock', 0.071269616, u'wall_clock', 0.050389308, u'cash_machine', 0.046897478, u'window_shade', 0.042270351]
+[u'whistle', 0.33235195, u"carpenter's_kit", 0.29009381, u'screwdriver', 0.21867399, u'shopping_basket', 0.02512568, u'power_drill', 0.014182384]

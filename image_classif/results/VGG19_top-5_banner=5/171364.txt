@@ -1,0 +1,7 @@
+[u'stupa', 0.1150631, u'sarong', 0.10914472, u'wreck', 0.057880625, u'stole', 0.03751725, u'poncho', 0.034519702]
+[u'birdhouse', 0.5938068, u'gong', 0.089478366, u'cassette', 0.04408139, u'loudspeaker', 0.035848137, u'wall_clock', 0.025162457]
+[u'pencil_box', 0.14753126, u'wallet', 0.14502102, u'binder', 0.09990488, u'packet', 0.060919099, u'envelope', 0.054199025]
+[u'jigsaw_puzzle', 0.55196935, u'quilt', 0.15174077, u'envelope', 0.09932629, u'birdhouse', 0.043408092, u'comic_book', 0.022377945]
+[u'jigsaw_puzzle', 0.2018936, u'wallet', 0.16426863, u'envelope', 0.097220086, u'doormat', 0.046736434, u'comic_book', 0.045538098]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'jigsaw_puzzle', 0.30805057, u'altar', 0.14171548, u'shower_curtain', 0.12568559, u'toyshop', 0.12267471, u'fountain', 0.053726535]

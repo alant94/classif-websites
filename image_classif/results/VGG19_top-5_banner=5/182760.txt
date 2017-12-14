@@ -1,0 +1,1 @@
+[u'web_site', 0.75244623, u'screen', 0.052414916, u'envelope', 0.019042835, u'cash_machine', 0.015160845, u'monitor', 0.013746243]

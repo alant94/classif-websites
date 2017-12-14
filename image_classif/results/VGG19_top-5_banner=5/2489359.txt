@@ -1,0 +1,6 @@
+[u'hartebeest', 0.83779454, u'water_buffalo', 0.062549584, u'book_jacket', 0.051242836, u'ox', 0.023437222, u'warthog', 0.010596039]
+[u'rapeseed', 0.42849636, u'valley', 0.10942418, u'alp', 0.094619118, u'bison', 0.078553356, u'school_bus', 0.015886074]
+[u'shopping_cart', 0.30827546, u'plow', 0.2666406, u'harvester', 0.15668806, u'airliner', 0.027565369, u'parallel_bars', 0.027293114]
+[u'alp', 0.16594277, u'rapeseed', 0.10122826, u'lakeside', 0.065675437, u'valley', 0.064951412, u'hay', 0.033935621]
+[u'screwdriver', 0.29509771, u'chime', 0.061431069, u'drilling_platform', 0.044273034, u'candle', 0.028464243, u'syringe', 0.026134746]
+[u'chime', 0.29803354, u'ballpoint', 0.24118051, u'paintbrush', 0.053755403, u'rubber_eraser', 0.048261315, u'screwdriver', 0.042346403]

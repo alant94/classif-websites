@@ -1,0 +1,2 @@
+[u'Bouvier_des_Flandres', 0.077968881, u'thresher', 0.04706461, u'Kerry_blue_terrier', 0.044507831, u'palace', 0.034948524, u'dogsled', 0.034393825]
+[u'boathouse', 0.14591543, u'lumbermill', 0.077040926, u'patio', 0.064087234, u'thatch', 0.056742389, u'picket_fence', 0.037131388]

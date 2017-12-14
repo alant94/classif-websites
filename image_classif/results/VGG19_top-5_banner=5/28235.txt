@@ -1,0 +1,2 @@
+[u'cinema', 0.53136849, u'street_sign', 0.10417992, u'barbershop', 0.037176654, u'theater_curtain', 0.033588998, u'tobacco_shop', 0.028102743]
+[u'picket_fence', 0.17875627, u'book_jacket', 0.058949471, u'plate_rack', 0.044672001, u'cash_machine', 0.033738788, u'digital_clock', 0.028040359]

@@ -1,0 +1,2 @@
+[u'geyser', 0.69370174, u'volcano', 0.1792067, u'cliff', 0.040300034, u'valley', 0.037294123, u'alp', 0.010555347]
+[u'envelope', 0.089495867, u'corkscrew', 0.05544202, u'hook', 0.044390704, u'cleaver', 0.04276922, u'can_opener', 0.027614608]

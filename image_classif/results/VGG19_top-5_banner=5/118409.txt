@@ -1,0 +1,2 @@
+[u'organ', 0.39007056, u'chime', 0.25639385, u'fountain_pen', 0.086874709, u'binder', 0.081476629, u'ballpoint', 0.067521378]
+[u'container_ship', 0.4259972, u'monitor', 0.23143822, u'screen', 0.11941105, u'digital_clock', 0.034283381, u'television', 0.021999275]

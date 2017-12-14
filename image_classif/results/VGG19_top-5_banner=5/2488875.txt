@@ -1,0 +1,1 @@
+[u'digital_clock', 0.62170547, u'Band_Aid', 0.20372567, u'maze', 0.033342857, u'matchstick', 0.018175853, u'pick', 0.010566875]

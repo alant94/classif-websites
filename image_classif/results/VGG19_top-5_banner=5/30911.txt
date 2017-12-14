@@ -1,0 +1,1 @@
+[u'rule', 0.15673132, u'street_sign', 0.11948294, u'wall_clock', 0.081478029, u'analog_clock', 0.074622341, u'digital_clock', 0.073576279]

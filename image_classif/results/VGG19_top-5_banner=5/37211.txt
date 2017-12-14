@@ -1,0 +1,2 @@
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]
+[u'fountain', 0.54885328, u'leatherback_turtle', 0.064858146, u'book_jacket', 0.032825921, u'hair_slide', 0.020697234, u'airship', 0.01707907]

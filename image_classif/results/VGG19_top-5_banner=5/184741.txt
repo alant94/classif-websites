@@ -1,0 +1,3 @@
+[u'web_site', 0.96927053, u'envelope', 0.02291319, u'refrigerator', 0.00075610133, u'binder', 0.00054145564, u'book_jacket', 0.00046632433]
+[u'web_site', 0.8160674, u'menu', 0.04043841, u'envelope', 0.033457354, u'book_jacket', 0.026084535, u'binder', 0.015558899]
+[u'hook', 0.043941215, u'web_site', 0.035708524, u'hatchet', 0.017914513, u'jersey', 0.017829521, u'neck_brace', 0.015519694]

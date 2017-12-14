@@ -1,0 +1,5 @@
+[u'web_site', 0.6385693, u'lipstick', 0.039004609, u'macaw', 0.018488947, u'spoonbill', 0.013705969, u'red_wine', 0.012616864]
+[u'web_site', 0.26505834, u'Band_Aid', 0.068244405, u'envelope', 0.054303307, u'book_jacket', 0.035994858, u'matchstick', 0.034847956]
+[u'monitor', 0.13118924, u'screen', 0.069034755, u'safe', 0.062718153, u'envelope', 0.062015083, u'medicine_chest', 0.052983232]
+[u'monitor', 0.31481543, u'screen', 0.30045429, u'oscilloscope', 0.17221072, u'cash_machine', 0.061170068, u'envelope', 0.030279359]
+[u'web_site', 0.34612602, u'book_jacket', 0.047911059, u'golf_ball', 0.0423434, u'baseball', 0.030424265, u'tennis_ball', 0.027416566]

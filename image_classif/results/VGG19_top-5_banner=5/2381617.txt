@@ -1,0 +1,6 @@
+[u'stethoscope', 0.13615133, u'wall_clock', 0.073642313, u'screw', 0.054060888, u'dumbbell', 0.037566245, u'ballpoint', 0.030226389]
+[u'envelope', 0.10505899, u'web_site', 0.040348731, u'switch', 0.022143727, u'nipple', 0.020736091, u'can_opener', 0.018864181]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019729361, u'envelope', 0.014024473, u'hatchet', 0.012815231, u'letter_opener', 0.01206543, u'corkscrew', 0.011932773]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'envelope', 0.08872667, u'wall_clock', 0.039550923, u'refrigerator', 0.026116423, u'table_lamp', 0.020747129, u'switch', 0.017925203]

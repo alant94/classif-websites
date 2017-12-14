@@ -1,0 +1,4 @@
+[u'street_sign', 0.81989002, u'book_jacket', 0.0365564, u'scoreboard', 0.012185694, u'traffic_light', 0.0093759382, u'cash_machine', 0.0063558193]
+[u'rule', 0.49716839, u'slide_rule', 0.33472791, u'nail', 0.042728916, u'chime', 0.026736191, u'hammer', 0.010812757]
+[u'web_site', 0.42878985, u'syringe', 0.074611202, u'rule', 0.038048372, u'screwdriver', 0.032413244, u'picket_fence', 0.028136566]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

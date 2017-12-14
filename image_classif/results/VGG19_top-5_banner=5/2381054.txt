@@ -1,0 +1,4 @@
+[u'puck', 0.43584022, u'beer_glass', 0.16261823, u'coffee_mug', 0.1543901, u'matchstick', 0.030040642, u'beer_bottle', 0.028901376]
+[u'bottlecap', 0.99998844, u'shield', 3.0174663e-06, u'bolo_tie', 2.3398211e-06, u'puck', 1.6759178e-06, u'wall_clock', 1.6080435e-06]
+[u'bottlecap', 0.99994051, u'packet', 9.3163062e-06, u'wall_clock', 8.9077139e-06, u'bakery', 5.7030088e-06, u'shield', 3.6812721e-06]
+[u'book_jacket', 0.11045147, u'web_site', 0.085367009, u'maze', 0.048855834, u'doormat', 0.043243498, u'ski_mask', 0.040012944]

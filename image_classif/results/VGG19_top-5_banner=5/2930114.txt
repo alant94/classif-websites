@@ -1,0 +1,3 @@
+[u'Christmas_stocking', 0.62176538, u'sock', 0.14301325, u'flagpole', 0.12301008, u'ski_mask', 0.026226776, u'brassiere', 0.0060117645]
+[u'nail', 0.11402853, u'corkscrew', 0.055454846, u'can_opener', 0.052679587, u'cleaver', 0.045857575, u'hook', 0.04014051]
+[u'ski', 0.21197036, u"carpenter's_kit", 0.12332691, u'bow', 0.12105047, u'swab', 0.095659502, u'ballpoint', 0.088216558]

@@ -1,0 +1,2 @@
+[u'safety_pin', 0.26850453, u'web_site', 0.265221, u'can_opener', 0.07958436, u'letter_opener', 0.07395348, u'corkscrew', 0.073537976]
+[u'comic_book', 0.19076231, u'book_jacket', 0.081770144, u'matchstick', 0.058240615, u'panpipe', 0.05493886, u'web_site', 0.04002298]

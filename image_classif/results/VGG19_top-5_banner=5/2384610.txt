@@ -1,0 +1,8 @@
+[u'alp', 0.32180861, u'volcano', 0.21340653, u'geyser', 0.067295082, u'parachute', 0.041803997, u'lakeside', 0.024647499]
+[u'grocery_store', 0.27468044, u'sliding_door', 0.12546115, u'library', 0.094708644, u'bakery', 0.066810265, u'bookshop', 0.060613327]
+[u'wine_bottle', 0.51108301, u'red_wine', 0.48722231, u'beer_bottle', 0.0011202671, u'corkscrew', 0.00042913336, u'hamper', 4.9312301e-05]
+[u'matchstick', 0.11755639, u'conch', 0.061166592, u'kite', 0.045767032, u'isopod', 0.040990908, u'starfish', 0.040000133]
+[u'chainlink_fence', 0.28286725, u'padlock', 0.1721765, u'chain', 0.081890762, u'knot', 0.052751519, u'worm_fence', 0.048037127]
+[u'European_gallinule', 0.15568197, u'ear', 0.099226855, u'bittern', 0.0698606, u'little_blue_heron', 0.031261701, u'lakeside', 0.028776277]
+[u'rapeseed', 0.99820209, u'lakeside', 0.00033911379, u'alp', 0.00029112524, u'school_bus', 0.00019558593, u'worm_fence', 0.00015560773]
+[u'nail', 0.065658025, u'bolete', 0.046848442, u'wooden_spoon', 0.043593153, u'hatchet', 0.043540865, u'chain', 0.037812527]

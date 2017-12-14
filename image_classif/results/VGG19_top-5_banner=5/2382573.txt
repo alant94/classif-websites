@@ -1,0 +1,6 @@
+[u'rule', 0.27231243, u'digital_clock', 0.098656923, u'modem', 0.090672478, u'screw', 0.055695992, u'chain_saw', 0.054522924]
+[u'nail', 0.27077901, u'hook', 0.15802701, u'screwdriver', 0.087315053, u"carpenter's_kit", 0.047370166, u'ballpoint', 0.03450834]
+[u'hamper', 0.38841131, u'red_wine', 0.30222455, u'wine_bottle', 0.24385703, u'corkscrew', 0.063479371, u'whiskey_jug', 0.0010112331]
+[u'digital_clock', 0.43993425, u'crossword_puzzle', 0.075651139, u'scoreboard', 0.054643452, u'wall_clock', 0.036123767, u'digital_watch', 0.023255469]
+[u'digital_watch', 0.11154187, u'lighter', 0.10072476, u'iPod', 0.069553427, u'digital_clock', 0.060766473, u'pencil_sharpener', 0.057302527]
+[u'pillow', 0.25382423, u'stupa', 0.195453, u'quilt', 0.14275211, u'sock', 0.020997554, u'studio_couch', 0.018028958]

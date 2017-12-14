@@ -1,0 +1,8 @@
+[u'alp', 0.36371186, u'valley', 0.33057904, u'cliff', 0.036191747, u'suspension_bridge', 0.035026364, u'book_jacket', 0.026656728]
+[u'sundial', 0.44845361, u'maze', 0.08225324, u'worm_fence', 0.045376554, u'jigsaw_puzzle', 0.042292759, u'rule', 0.0335031]
+[u'cinema', 0.44510996, u'flagpole', 0.066023171, u'library', 0.053842053, u'web_site', 0.051318906, u'planetarium', 0.035179324]
+[u'bison', 0.2619552, u'ox', 0.11228041, u'alp', 0.068305552, u'book_jacket', 0.054237992, u'llama', 0.018087246]
+[u'book_jacket', 0.11126228, u'picket_fence', 0.095266923, u'pole', 0.06829454, u'swab', 0.065066382, u'swing', 0.061879911]
+[u'pill_bottle', 0.059506759, u'hourglass', 0.059298255, u'rule', 0.041086398, u'lampshade', 0.040631529, u'plate_rack', 0.03727185]
+[u'rule', 0.092781857, u'sundial', 0.063734777, u'solar_dish', 0.056492414, u'slide_rule', 0.041155115, u'crane', 0.040086616]
+[u'pole', 0.092720985, u'scoreboard', 0.085577004, u'web_site', 0.065053798, u'flagpole', 0.057712082, u'book_jacket', 0.046125744]

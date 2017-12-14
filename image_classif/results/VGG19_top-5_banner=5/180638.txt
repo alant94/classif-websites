@@ -1,0 +1,4 @@
+[u'clog', 0.77599525, u'wooden_spoon', 0.045333494, u'paintbrush', 0.025087085, u'paddle', 0.020836836, u'ski', 0.020605691]
+[u'gondola', 0.75238311, u'canoe', 0.043489665, u'killer_whale', 0.025841005, u'lakeside', 0.019407166, u'paddle', 0.018165864]
+[u'screwdriver', 0.39950287, u"carpenter's_kit", 0.15985076, u'shovel', 0.12190007, u'spatula', 0.084094241, u'hammer', 0.059281781]
+[u'hammer', 0.39303562, u'wooden_spoon', 0.17262746, u'shovel', 0.124225, u"carpenter's_kit", 0.11563075, u'hatchet', 0.10115363]

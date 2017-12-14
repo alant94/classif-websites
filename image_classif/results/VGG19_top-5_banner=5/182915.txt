@@ -1,0 +1,4 @@
+[u'wall_clock', 0.13122763, u'whistle', 0.11073002, u'pencil_sharpener', 0.089618638, u'jigsaw_puzzle', 0.045362711, u'balloon', 0.040413592]
+[u'shopping_basket', 0.25098372, u'lighter', 0.15407738, u'whistle', 0.10400104, u'combination_lock', 0.099312142, u'muzzle', 0.072510116]
+[u'pencil_sharpener', 0.62188178, u'switch', 0.048109796, u'swab', 0.044952918, u'rubber_eraser', 0.014389104, u'mousetrap', 0.013892079]
+[u'switch', 0.25291693, u'screwdriver', 0.15056615, u'power_drill', 0.099784523, u'mailbox', 0.070356518, u'traffic_light', 0.02920456]

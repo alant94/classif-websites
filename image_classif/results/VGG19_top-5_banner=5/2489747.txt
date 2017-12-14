@@ -1,0 +1,2 @@
+[u'bluetick', 0.18420991, u'muzzle', 0.18022917, u'book_jacket', 0.062436413, u'hourglass', 0.036249928, u'black-and-tan_coonhound', 0.026747789]
+[u'puck', 0.50042236, u'face_powder', 0.11098284, u'coffee_mug', 0.069395579, u'wall_clock', 0.027504481, u'analog_clock', 0.016993746]

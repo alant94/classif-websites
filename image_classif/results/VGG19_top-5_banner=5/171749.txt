@@ -1,0 +1,4 @@
+[u'coral_reef', 0.20333691, u'king_crab', 0.16494575, u'wok', 0.030257074, u'rock_crab', 0.022856638, u'lionfish', 0.022021752]
+[u'bow_tie', 0.2959269, u'bow', 0.062369332, u'Windsor_tie', 0.059650458, u'suit', 0.041032791, u'bulletproof_vest', 0.019398663]
+[u'web_site', 0.13446929, u'prison', 0.036603034, u'book_jacket', 0.031669009, u'analog_clock', 0.024084022, u'hook', 0.022222817]
+[u'sunglasses', 0.29675671, u'Petri_dish', 0.16088425, u'sunglass', 0.063427605, u'honeycomb', 0.048981674, u'tray', 0.02975126]

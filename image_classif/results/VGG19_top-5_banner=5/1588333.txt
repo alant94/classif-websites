@@ -1,0 +1,7 @@
+[u'feather_boa', 0.22007589, u'fur_coat', 0.15826608, u'cowboy_hat', 0.10586531, u'wig', 0.10555239, u'mortarboard', 0.040226106]
+[u'stethoscope', 0.12428813, u'quill', 0.10121374, u'iPod', 0.072860822, u'candle', 0.05167168, u'soup_bowl', 0.04278715]
+[u'miniskirt', 0.11083659, u'maillot', 0.089379199, u'gown', 0.082799211, u'maillot', 0.079657912, u'theater_curtain', 0.066584736]
+[u'miniskirt', 0.1301115, u'racket', 0.12661289, u'diaper', 0.10165965, u'swing', 0.050453335, u'swimming_trunks', 0.041773289]
+[u'bathtub', 0.26838237, u'tub', 0.13338017, u'plunger', 0.12314422, u'washbasin', 0.1063579, u'toilet_seat', 0.099054903]
+[u'web_site', 0.32663268, u'television', 0.14210966, u'bow_tie', 0.080052339, u'grand_piano', 0.057521407, u'upright', 0.034008522]
+[u'home_theater', 0.14839727, u'sliding_door', 0.14419264, u'redbone', 0.063377455, u'television', 0.042539891, u'window_shade', 0.041315548]

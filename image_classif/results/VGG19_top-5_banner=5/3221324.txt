@@ -1,0 +1,7 @@
+[u'packet', 0.37051651, u'perfume', 0.17690258, u'lotion', 0.080463223, u'hamper', 0.069115356, u'book_jacket', 0.058918312]
+[u'book_jacket', 0.31813082, u'packet', 0.12061442, u'perfume', 0.064576194, u'binder', 0.055097476, u'table_lamp', 0.049897712]
+[u'hook', 0.38844603, u'coral_fungus', 0.068318658, u'bow', 0.056071755, u'hair_slide', 0.050644074, u'safety_pin', 0.042177722]
+[u'lighter', 0.17076567, u'perfume', 0.1225206, u'switch', 0.058565661, u'rubber_eraser', 0.042762525, u'padlock', 0.036577143]
+[u'perfume', 0.27994266, u'lighter', 0.14268662, u'saltshaker', 0.038294598, u'table_lamp', 0.032171443, u'quill', 0.028679648]
+[u'menu', 0.46096724, u'book_jacket', 0.23953149, u'web_site', 0.096576542, u'lotion', 0.033759788, u'face_powder', 0.020929728]
+[u'plate_rack', 0.29714748, u'marimba', 0.24159531, u'chime', 0.10674593, u'altar', 0.06752605, u'wardrobe', 0.056747619]

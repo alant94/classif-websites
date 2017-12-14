@@ -1,0 +1,3 @@
+[u'ballpoint', 0.20371179, u'candle', 0.19587858, u'rubber_eraser', 0.16683923, u'screwdriver', 0.060042996, u'syringe', 0.053577553]
+[u'digital_clock', 0.074157327, u'rubber_eraser', 0.032751121, u'slide_rule', 0.031705353, u'cash_machine', 0.029946614, u'rule', 0.028742457]
+[u'wardrobe', 0.20058091, u'envelope', 0.064743675, u'binder', 0.050400358, u'washbasin', 0.036436506, u'shower_curtain', 0.033556368]

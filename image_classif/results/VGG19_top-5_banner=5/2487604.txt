@@ -1,0 +1,8 @@
+[u'American_black_bear', 0.99969637, u'sloth_bear', 0.00021689305, u'brown_bear', 8.6735752e-05, u'wombat', 5.1891085e-08, u'wild_boar', 2.0433397e-08]
+[u'zebra', 0.39416739, u'hartebeest', 0.090704761, u'water_buffalo', 0.08508005, u'warthog', 0.074045897, u'gazelle', 0.049461763]
+[u'sturgeon', 0.3108027, u'coho', 0.22217427, u'tiger_shark', 0.22167987, u'great_white_shark', 0.1081339, u'barracouta', 0.042752758]
+[u'great_grey_owl', 0.62130427, u'kite', 0.2052644, u'three-toed_sloth', 0.03193292, u'bald_eagle', 0.029472264, u'hornbill', 0.028954968]
+[u'Eskimo_dog', 0.58156413, u'Siberian_husky', 0.38146308, u'dogsled', 0.023365572, u'timber_wolf', 0.0038287281, u'malamute', 0.0036221885]
+[u'marmoset', 0.62083703, u'titi', 0.12651342, u'howler_monkey', 0.049902093, u'chimpanzee', 0.046018153, u'siamang', 0.027242372]
+[u'hook', 0.12116488, u'scale', 0.03357777, u'web_site', 0.026053201, u'crane', 0.02523829, u'envelope', 0.024124209]
+[u'kite', 0.6687603, u'bulbul', 0.084835671, u'great_grey_owl', 0.053232737, u'ruffed_grouse', 0.052097134, u'partridge', 0.02654092]

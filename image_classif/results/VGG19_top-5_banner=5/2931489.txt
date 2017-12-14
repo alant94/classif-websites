@@ -1,0 +1,3 @@
+[u'book_jacket', 0.094965816, u'web_site', 0.064846903, u'envelope', 0.049894642, u'slide_rule', 0.048324995, u'binder', 0.046486545]
+[u'picket_fence', 0.064805828, u'book_jacket', 0.062474843, u'web_site', 0.05640943, u'worm_fence', 0.017214019, u'binder', 0.015819836]
+[u'slide_rule', 0.16270788, u'binder', 0.068825275, u'web_site', 0.05883152, u'envelope', 0.02550694, u'book_jacket', 0.021651011]

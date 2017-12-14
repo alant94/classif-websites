@@ -1,0 +1,2 @@
+[u'matchstick', 0.32399035, u'space_shuttle', 0.26716754, u'missile', 0.087898403, u'nematode', 0.035657994, u'projectile', 0.033783369]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

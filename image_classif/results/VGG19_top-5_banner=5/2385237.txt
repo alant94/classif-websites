@@ -1,0 +1,8 @@
+[u'hamper', 0.17557831, u'toilet_tissue', 0.046857193, u'paper_towel', 0.044018935, u'pencil_box', 0.038293619, u'paintbrush', 0.037676785]
+[u'butcher_shop', 0.71227819, u'plate', 0.0940753, u'gyromitra', 0.060635462, u'hotdog', 0.033560701, u'grocery_store', 0.017322734]
+[u'four-poster', 0.15342103, u'picket_fence', 0.14349785, u'mosquito_net', 0.069307789, u'greenhouse', 0.06750606, u'flagpole', 0.061242126]
+[u'guacamole', 0.66520262, u'plate', 0.2441414, u'burrito', 0.010987458, u'hotdog', 0.010148247, u'broccoli', 0.0088057397]
+[u'acoustic_guitar', 0.75681347, u'banjo', 0.11672489, u'electric_guitar', 0.093744852, u'stage', 0.0081194304, u'pick', 0.0063615493]
+[u'patio', 0.47946689, u'altar', 0.058351502, u'dining_table', 0.053295873, u'pot', 0.038601197, u'restaurant', 0.035998225]
+[u'organ', 0.40485802, u'marimba', 0.15931237, u'upright', 0.039175555, u'plane', 0.038736984, u'cleaver', 0.030323317]
+[u'sunglasses', 0.52409804, u'sunglass', 0.14543478, u'jersey', 0.038596243, u'shower_cap', 0.027729794, u'wig', 0.026158059]

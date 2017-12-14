@@ -1,0 +1,2 @@
+[u'carousel', 0.13290304, u'restaurant', 0.12082446, u'golfcart', 0.085137673, u'steel_drum', 0.067559257, u'amphibian', 0.043389395]
+[u'chocolate_sauce', 0.84628099, u'consomme', 0.07192716, u'Crock_Pot', 0.0091918316, u'espresso', 0.0091655878, u'Petri_dish', 0.0086186035]

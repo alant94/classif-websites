@@ -1,0 +1,8 @@
+[u'kite', 0.10105713, u'bald_eagle', 0.070652373, u'parachute', 0.042349093, u'vulture', 0.037150651, u'white_stork', 0.03325025]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'shower_curtain', 0.46036676, u'vending_machine', 0.2939558, u'beer_glass', 0.025050804, u'confectionery', 0.02355353, u'water_bottle', 0.020064471]
+[u'scoreboard', 0.80571526, u'cash_machine', 0.020018393, u'cellular_telephone', 0.017036848, u'screen', 0.012804528, u'digital_clock', 0.012166192]
+[u'shower_curtain', 0.45978293, u'vending_machine', 0.29349285, u'beer_glass', 0.024566356, u'confectionery', 0.023958039, u'water_bottle', 0.019960653]
+[u'shower_curtain', 0.46398458, u'vending_machine', 0.29519865, u'confectionery', 0.023294892, u'beer_glass', 0.023074714, u'water_bottle', 0.019785415]
+[u'cinema', 0.1757361, u'accordion', 0.15190682, u'traffic_light', 0.033628572, u'perfume', 0.031269815, u'electric_guitar', 0.024215331]
+[u"carpenter's_kit", 0.18951461, u'screwdriver', 0.15487747, u'chime', 0.14279266, u'ballpoint', 0.08798065, u'spatula', 0.073987857]

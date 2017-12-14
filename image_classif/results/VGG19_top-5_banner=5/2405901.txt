@@ -1,0 +1,7 @@
+[u'web_site', 0.54945612, u'book_jacket', 0.2851865, u'brass', 0.011569026, u'envelope', 0.0088989222, u'doormat', 0.0069312281]
+[u'lipstick', 0.6674816, u'rubber_eraser', 0.11651231, u'Polaroid_camera', 0.036594983, u'ballpoint', 0.03495086, u'fountain_pen', 0.026937218]
+[u'laptop', 0.16066033, u'notebook', 0.15128335, u'binder', 0.14899972, u'book_jacket', 0.093255602, u'screen', 0.083963543]
+[u'matchstick', 0.51764137, u'candle', 0.069750622, u'ballpoint', 0.04226258, u'nail', 0.038543284, u"carpenter's_kit", 0.038513925]
+[u'brass', 0.24805418, u'book_jacket', 0.16814113, u'binder', 0.15867762, u'envelope', 0.047933083, u'menu', 0.047016598]
+[u'binder', 0.60147274, u'book_jacket', 0.27828863, u'perfume', 0.049150474, u'hard_disc', 0.0086514568, u'modem', 0.0083646812]
+[u'binder', 0.70923817, u'book_jacket', 0.13335025, u'lighter', 0.037592765, u'envelope', 0.01623546, u'perfume', 0.01577381]

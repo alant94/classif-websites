@@ -1,0 +1,3 @@
+[u'unicycle', 0.41947076, u'flagpole', 0.078959763, u'cinema', 0.057763651, u'planetarium', 0.030257504, u'patio', 0.027669353]
+[u'academic_gown', 0.60930526, u'mortarboard', 0.15939975, u'abaya', 0.03832002, u'kimono', 0.029780259, u'vestment', 0.024838239]
+[u'bolo_tie', 0.72803044, u'traffic_light', 0.088771045, u'bottlecap', 0.04875337, u'digital_clock', 0.024946615, u'digital_watch', 0.020537872]

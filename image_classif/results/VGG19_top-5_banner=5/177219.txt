@@ -1,0 +1,8 @@
+[u'pinwheel', 0.37112138, u'packet', 0.21402772, u'bib', 0.023271559, u'plastic_bag', 0.022710005, u'pillow', 0.018330449]
+[u'envelope', 0.26084769, u'web_site', 0.21660317, u'digital_clock', 0.030656446, u'binder', 0.029434185, u'Band_Aid', 0.025959603]
+[u'mosque', 0.82855165, u'church', 0.046618901, u'palace', 0.033077177, u'monastery', 0.03256613, u'dome', 0.021628793]
+[u'suit', 0.52871525, u'Windsor_tie', 0.18355796, u'bow_tie', 0.033673324, u'wig', 0.028559623, u'bolo_tie', 0.020893222]
+[u'kimono', 0.12913786, u'stage', 0.093337879, u'lab_coat', 0.056302182, u'cash_machine', 0.05246789, u'groom', 0.037357245]
+[u'jersey', 0.36990058, u'sweatshirt', 0.058121592, u'cardigan', 0.038041972, u'stole', 0.028236616, u'miniskirt', 0.017405376]
+[u'Windsor_tie', 0.38714489, u'suit', 0.30345127, u'oboe', 0.052852806, u'cornet', 0.050504025, u'groom', 0.031459428]
+[u'marimba', 0.2230846, u"potter's_wheel", 0.063290961, u'balance_beam', 0.061262116, u'barrow', 0.032450121, u'sarong', 0.030322451]

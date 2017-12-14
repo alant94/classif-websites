@@ -1,0 +1,6 @@
+[u'thresher', 0.10266907, u'marimba', 0.095415503, u'switch', 0.066536725, u'pool_table', 0.059213959, u'bow', 0.053705629]
+[u"jack-o'-lantern", 0.17474653, u'cinema', 0.087305628, u'school_bus', 0.06971819, u'restaurant', 0.054125793, u'corn', 0.053757258]
+[u'hair_spray', 0.090346724, u'tobacco_shop', 0.081529662, u'comic_book', 0.046146989, u'panpipe', 0.039059926, u'lighter', 0.0327935]
+[u'hair_slide', 0.19259292, u'panpipe', 0.099282056, u'chocolate_sauce', 0.08633478, u'buckle', 0.05896252, u'cowboy_boot', 0.052774288]
+[u'street_sign', 0.73802483, u'Band_Aid', 0.050576739, u'digital_clock', 0.049018227, u'packet', 0.01860939, u'rubber_eraser', 0.017945953]
+[u'lighter', 0.13463166, u'wall_clock', 0.1062066, u"carpenter's_kit", 0.063614786, u'analog_clock', 0.051127177, u'matchstick', 0.045051791]

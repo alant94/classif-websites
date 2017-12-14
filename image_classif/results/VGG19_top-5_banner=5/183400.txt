@@ -1,0 +1,1 @@
+[u'comic_book', 0.18195842, u'mask', 0.070090465, u'book_jacket', 0.045913152, u'totem_pole', 0.045719173, u'altar', 0.030412147]

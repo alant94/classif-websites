@@ -1,0 +1,7 @@
+[u'web_site', 0.16985525, u'chain_saw', 0.097165368, u'lawn_mower', 0.083196104, u'power_drill', 0.037842963, u'reel', 0.036801588]
+[u'cassette', 0.14815144, u'puck', 0.06414967, u'reflex_camera', 0.060938749, u'digital_watch', 0.051020883, u'combination_lock', 0.048604257]
+[u'mousetrap', 0.17761581, u'switch', 0.14410417, u'chest', 0.14128406, u'safe', 0.071756162, u'ashcan', 0.054000016]
+[u'neck_brace', 0.21824455, u'stole', 0.085948452, u'abaya', 0.074302919, u'fur_coat', 0.064797282, u'web_site', 0.062151514]
+[u'switch', 0.80577642, u'joystick', 0.056683477, u'modem', 0.021678502, u"carpenter's_kit", 0.019306725, u'mousetrap', 0.012246953]
+[u'web_site', 0.24746007, u'envelope', 0.20318118, u'menu', 0.055162515, u'hand_blower', 0.032708026, u'power_drill', 0.025576016]
+[u'file', 0.20862272, u'hard_disc', 0.11380696, u'printer', 0.088186175, u'modem', 0.047348779, u'safe', 0.045903523]

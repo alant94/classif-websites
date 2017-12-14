@@ -1,0 +1,4 @@
+[u'barn', 0.96997637, u'church', 0.012055398, u'boathouse', 0.0029670065, u'picket_fence', 0.001364916, u'beacon', 0.0011638638]
+[u'fountain', 0.388235, u'vase', 0.21905634, u'pedestal', 0.040870607, u'planetarium', 0.038678057, u'bannister', 0.028905913]
+[u'wild_boar', 0.1906997, u'book_jacket', 0.10582825, u'groenendael', 0.091818377, u'sloth_bear', 0.077363156, u'skunk', 0.073100045]
+[u'book_jacket', 0.45389512, u'bassoon', 0.098456934, u'fountain_pen', 0.076423407, u'rifle', 0.058865547, u'letter_opener', 0.028554182]

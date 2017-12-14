@@ -1,0 +1,1 @@
+[u'analog_clock', 0.10410804, u'wall_clock', 0.057626713, u'cassette', 0.052346013, u'scoreboard', 0.050902821, u'fire_engine', 0.04000796]

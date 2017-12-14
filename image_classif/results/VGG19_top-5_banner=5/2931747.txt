@@ -1,0 +1,2 @@
+[u'digital_clock', 0.12790708, u'Band_Aid', 0.058850389, u'envelope', 0.054341383, u'wall_clock', 0.028010761, u'container_ship', 0.019622521]
+[u'ski', 0.37001529, u'cowboy_boot', 0.068991192, u'shower_curtain', 0.065387271, u'wardrobe', 0.060816154, u'paintbrush', 0.047909345]

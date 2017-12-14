@@ -1,0 +1,2 @@
+[u'matchstick', 0.8169542, u'swab', 0.083556592, u'web_site', 0.011680101, u'hook', 0.010413518, u'rubber_eraser', 0.004805943]
+[u'web_site', 0.20924185, u'monitor', 0.10610806, u'screen', 0.090103976, u'digital_clock', 0.050439909, u'television', 0.044152342]

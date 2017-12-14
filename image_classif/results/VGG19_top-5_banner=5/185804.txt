@@ -1,0 +1,3 @@
+[u'brassiere', 0.14320639, u'wardrobe', 0.13805926, u'shower_curtain', 0.13428514, u'butcher_shop', 0.12143457, u'cleaver', 0.060082778]
+[u'paddlewheel', 0.28538078, u'fireboat', 0.099531338, u'liner', 0.045086734, u'container_ship', 0.031237207, u'scoreboard', 0.026889585]
+[u'valley', 0.62569034, u'cliff', 0.21071896, u'alp', 0.035849474, u'promontory', 0.032088559, u'lakeside', 0.02936328]

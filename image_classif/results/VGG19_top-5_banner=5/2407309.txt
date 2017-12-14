@@ -1,0 +1,2 @@
+[u'stage', 0.2388909, u'spotlight', 0.12232771, u'book_jacket', 0.11208952, u'volcano', 0.048992414, u'theater_curtain', 0.028061038]
+[u'pencil_box', 0.40796113, u"carpenter's_kit", 0.37539437, u'screwdriver', 0.11698552, u'rubber_eraser', 0.02291467, u'ballpoint', 0.021141496]

@@ -1,0 +1,2 @@
+[u'pill_bottle', 0.86875421, u'chocolate_sauce', 0.073416471, u'face_powder', 0.027357388, u'sunscreen', 0.010055625, u'beer_bottle', 0.0030297018]
+[u'maraca', 0.31932443, u'buckeye', 0.14044856, u'web_site', 0.10298531, u'chiton', 0.075765595, u'ocarina', 0.074264951]

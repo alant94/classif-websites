@@ -1,0 +1,3 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'street_sign', 0.16956607, u'Band_Aid', 0.069944635, u'shopping_basket', 0.051960304, u'rubber_eraser', 0.049866382, u'plate_rack', 0.049658071]
+[u'hatchet', 0.081016503, u'plate_rack', 0.074360736, u'hook', 0.050566163, u'cleaver', 0.049937982, u'panpipe', 0.037904665]

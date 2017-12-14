@@ -1,0 +1,5 @@
+[u'crane', 0.50629824, u'pole', 0.078739047, u'dock', 0.036385708, u'pirate', 0.033410173, u'missile', 0.028009176]
+[u'digital_clock', 0.27192113, u'Band_Aid', 0.087295316, u'lighter', 0.073035903, u'binder', 0.05510322, u'street_sign', 0.042526372]
+[u'digital_clock', 0.42409924, u'street_sign', 0.17279303, u'laptop', 0.046630919, u'iPod', 0.026987381, u'switch', 0.023158399]
+[u'corn', 0.10500927, u'sax', 0.075488336, u'ear', 0.064384311, u'candle', 0.025322227, u'vestment', 0.025223168]
+[u'digital_clock', 0.32617477, u'digital_watch', 0.055162068, u'matchstick', 0.043420821, u'envelope', 0.041716494, u'picket_fence', 0.036467344]

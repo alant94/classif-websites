@@ -1,0 +1,3 @@
+[u'web_site', 0.38595477, u'envelope', 0.16204633, u'digital_clock', 0.015320159, u'rule', 0.012602368, u'velvet', 0.010652294]
+[u'palace', 0.1895794, u'throne', 0.12578504, u'altar', 0.090831771, u'church', 0.058546599, u'picket_fence', 0.045681879]
+[u'wardrobe', 0.83439893, u'butcher_shop', 0.073799215, u'picket_fence', 0.022962771, u'cleaver', 0.015123875, u'stole', 0.0069101634]

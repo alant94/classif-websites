@@ -1,0 +1,8 @@
+[u'bikini', 0.22394308, u'maillot', 0.12207351, u'miniskirt', 0.071639441, u'sarong', 0.065955445, u'brassiere', 0.036120165]
+[u'book_jacket', 0.10165787, u'digital_clock', 0.072567374, u'picket_fence', 0.046284333, u'cinema', 0.044861857, u'cassette', 0.041935414]
+[u'vault', 0.057959404, u'bookshop', 0.049177054, u'shower_curtain', 0.048692368, u'maze', 0.032908436, u'washbasin', 0.027705114]
+[u'bathtub', 0.092961669, u'tub', 0.083885528, u'plunger', 0.072123006, u'hand_blower', 0.066056415, u'toilet_seat', 0.034003641]
+[u'maillot', 0.15948579, u'bikini', 0.098927021, u'bathing_cap', 0.079656206, u'swing', 0.066475011, u'swimming_trunks', 0.065956883]
+[u'mosquito_net', 0.14460261, u'altar', 0.070846803, u'four-poster', 0.051735368, u'dining_table', 0.049559917, u'container_ship', 0.048516758]
+[u'bikini', 0.2022104, u'brassiere', 0.18131728, u'maillot', 0.17569701, u'sarong', 0.094903626, u'bath_towel', 0.056546565]
+[u'loupe', 0.15416166, u'analog_clock', 0.1123238, u'coil', 0.08060053, u'spotlight', 0.072372667, u'bolo_tie', 0.07068833]

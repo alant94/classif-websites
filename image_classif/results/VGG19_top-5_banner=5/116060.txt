@@ -1,0 +1,2 @@
+[u'ski', 0.1915862, u'hook', 0.1824168, u"carpenter's_kit", 0.08220084, u'spatula', 0.081092067, u'swab', 0.041158039]
+[u'shield', 0.29816806, u'tray', 0.1384479, u'digital_clock', 0.11868453, u'wall_clock', 0.045255374, u'prayer_rug', 0.038950894]

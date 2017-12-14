@@ -1,0 +1,4 @@
+[u'parking_meter', 0.085394248, u'streetcar', 0.070382327, u'shopping_cart', 0.043139964, u'traffic_light', 0.03919439, u'patio', 0.037589185]
+[u'book_jacket', 0.20080344, u'puck', 0.036256284, u'web_site', 0.030542254, u'comic_book', 0.027578317, u'analog_clock', 0.027020516]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]
+[u'container_ship', 0.39777604, u'envelope', 0.073709168, u'digital_clock', 0.038818639, u'scale', 0.038413689, u'safe', 0.031867482]

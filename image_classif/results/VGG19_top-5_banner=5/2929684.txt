@@ -1,0 +1,8 @@
+[u'whistle', 0.11265644, u'maraca', 0.033004645, u'nipple', 0.023315713, u'jersey', 0.019954307, u'pick', 0.018385144]
+[u'greenhouse', 0.37273672, u'picket_fence', 0.15667298, u'mobile_home', 0.12231284, u'church', 0.10161815, u'patio', 0.052924983]
+[u'barn', 0.13151984, u'mobile_home', 0.093001828, u'picket_fence', 0.07186617, u'patio', 0.057552762, u'thatch', 0.054775532]
+[u'restaurant', 0.29368126, u'dining_table', 0.18526272, u'four-poster', 0.056557469, u'sliding_door', 0.054749012, u'china_cabinet', 0.045030095]
+[u'mobile_home', 0.11379937, u'picket_fence', 0.076205462, u'boathouse', 0.04873402, u'lakeside', 0.043607641, u'greenhouse', 0.038699497]
+[u'sliding_door', 0.28974572, u'patio', 0.14927241, u'china_cabinet', 0.095785573, u'dining_table', 0.074613534, u'restaurant', 0.04414748]
+[u'hook', 0.087772153, u'web_site', 0.066342346, u'street_sign', 0.058268104, u'book_jacket', 0.018046737, u'swab', 0.017618457]
+[u'dining_table', 0.75594729, u'restaurant', 0.15360154, u'patio', 0.042649131, u'china_cabinet', 0.021210246, u'library', 0.0061645801]

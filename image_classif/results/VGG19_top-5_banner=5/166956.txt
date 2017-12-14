@@ -1,0 +1,8 @@
+[u'cello', 0.3293694, u'harmonica', 0.15544324, u'stage', 0.1159467, u'harp', 0.081252441, u'grand_piano', 0.066001408]
+[u'bassoon', 0.10678177, u'bow', 0.085028037, u'vestment', 0.073106974, u'banjo', 0.053599365, u'rifle', 0.037784435]
+[u'theater_curtain', 0.19584478, u'stage', 0.10753702, u'suit', 0.086125247, u'vestment', 0.085844554, u'groom', 0.056891799]
+[u'grand_piano', 0.13445099, u'bassoon', 0.13077426, u'cello', 0.12413841, u'violin', 0.11041857, u'oboe', 0.099929303]
+[u'carousel', 0.10409149, u'restaurant', 0.075170562, u'torch', 0.047499448, u'lumbermill', 0.04507469, u'gong', 0.041445542]
+[u'greenhouse', 0.31300822, u'bannister', 0.03539566, u'groom', 0.030907433, u'swab', 0.028628312, u'horizontal_bar', 0.025174445]
+[u'hook', 0.10921587, u'nail', 0.062332764, u'crane', 0.062280212, u'bannister', 0.034197941, u'shovel', 0.023587005]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

@@ -1,0 +1,1 @@
+[u'web_site', 0.53225684, u'envelope', 0.13891178, u'swab', 0.016090661, u'hand_blower', 0.01541153, u'apron', 0.010120979]

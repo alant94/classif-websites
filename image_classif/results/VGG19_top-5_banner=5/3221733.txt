@@ -1,0 +1,1 @@
+[u'digital_clock', 0.5660392, u'matchstick', 0.053861562, u'digital_watch', 0.049465828, u'picket_fence', 0.04468102, u'maze', 0.035741784]

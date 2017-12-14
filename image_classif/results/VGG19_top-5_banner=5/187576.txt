@@ -1,0 +1,1 @@
+[u'viaduct', 0.4639236, u'castle', 0.08621332, u'window_screen', 0.027583184, u'snowplow', 0.026245352, u'stone_wall', 0.025079627]

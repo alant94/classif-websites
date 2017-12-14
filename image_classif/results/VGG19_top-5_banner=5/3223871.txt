@@ -1,0 +1,2 @@
+[u'pole', 0.14889124, u'birdhouse', 0.057582885, u'barn', 0.055589758, u'lakeside', 0.055022791, u'totem_pole', 0.046540875]
+[u'church', 0.88946354, u'monastery', 0.0395693, u'bell_cote', 0.0259504, u'castle', 0.012358662, u'palace', 0.011738187]

@@ -1,0 +1,2 @@
+[u'web_site', 0.2216813, u'envelope', 0.035082217, u'street_sign', 0.023356771, u'sewing_machine', 0.023291908, u'binder', 0.022295117]
+[u'coil', 0.14173169, u'maze', 0.1239282, u'analog_clock', 0.1215479, u'digital_watch', 0.090079069, u'wall_clock', 0.044444982]

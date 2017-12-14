@@ -1,0 +1,4 @@
+[u'envelope', 0.04100186, u'web_site', 0.028855881, u'matchstick', 0.02120818, u'nematode', 0.020412846, u'syringe', 0.016682325]
+[u'syringe', 0.034362864, u'wall_clock', 0.031139202, u'spotlight', 0.024882918, u'envelope', 0.022052875, u'binder', 0.01652704]
+[u'shield', 0.761733, u'pick', 0.11261147, u'toilet_seat', 0.053514805, u'puck', 0.018549262, u'wall_clock', 0.016143721]
+[u'digital_clock', 0.13795903, u'envelope', 0.062441479, u'wall_clock', 0.045125283, u'scoreboard', 0.028006716, u'screen', 0.021982124]

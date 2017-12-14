@@ -1,0 +1,2 @@
+[u'guillotine', 0.072695225, u'cannon', 0.053279161, u'shield', 0.04428928, u'bulletproof_vest', 0.039933614, u'fire_screen', 0.037285928]
+[u'rule', 0.49860817, u'hook', 0.034547757, u'web_site', 0.028181842, u'nail', 0.023636568, u'Band_Aid', 0.019232271]

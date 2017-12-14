@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.075241625, u'toilet_tissue', 0.059768829, u'washbasin', 0.047347862, u'toilet_seat', 0.038018186, u'tray', 0.023258872]
+[u'rubber_eraser', 0.094468296, u'ballpoint', 0.092027627, u'book_jacket', 0.076823615, u'bookcase', 0.070097774, u'pencil_box', 0.066321112]

@@ -1,0 +1,2 @@
+[u'envelope', 0.099931344, u'bell_cote', 0.068390138, u'flagpole', 0.016495176, u'analog_clock', 0.016375646, u'beacon', 0.013087474]
+[u'web_site', 0.912462, u'book_jacket', 0.049500644, u'comic_book', 0.014013182, u'envelope', 0.0027127569, u'scoreboard', 0.001834968]

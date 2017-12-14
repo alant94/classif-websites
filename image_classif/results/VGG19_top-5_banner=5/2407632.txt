@@ -1,0 +1,6 @@
+[u'Indian_elephant', 0.60494286, u'gorilla', 0.20248888, u'orangutan', 0.045298558, u'fur_coat', 0.028739305, u'chimpanzee', 0.021649295]
+[u'alp', 0.62721354, u'valley', 0.1341016, u'worm_fence', 0.043872267, u'web_site', 0.027223486, u'barn', 0.025716241]
+[u'lawn_mower', 0.56093526, u'chain_saw', 0.1046716, u'harvester', 0.086625151, u'power_drill', 0.03807345, u'iron', 0.03174961]
+[u'web_site', 0.12784201, u'school_bus', 0.1208226, u'book_jacket', 0.11570675, u'moving_van', 0.11553044, u'tow_truck', 0.076483004]
+[u'street_sign', 0.30861568, u'book_jacket', 0.095728025, u'scoreboard', 0.093684815, u'comic_book', 0.081188791, u'puck', 0.047926523]
+[u'killer_whale', 0.19021271, u'shopping_basket', 0.082149521, u'snorkel', 0.04375276, u'amphibian', 0.034964558, u'scuba_diver', 0.031135276]

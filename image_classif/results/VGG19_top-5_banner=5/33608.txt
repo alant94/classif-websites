@@ -1,0 +1,2 @@
+[u'web_site', 0.60536253, u'television', 0.085506193, u'screen', 0.037172955, u'hand-held_computer', 0.029372595, u'monitor', 0.017781788]
+[u'web_site', 0.48104489, u'lab_coat', 0.11925578, u'Windsor_tie', 0.070360675, u'envelope', 0.020982413, u'neck_brace', 0.019939953]

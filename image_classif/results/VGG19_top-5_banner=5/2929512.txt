@@ -1,0 +1,4 @@
+[u'web_site', 0.56801283, u'stethoscope', 0.063569024, u'notebook', 0.05315594, u'lab_coat', 0.030038793, u'laptop', 0.020829234]
+[u'web_site', 0.32869011, u'lab_coat', 0.081654601, u'abaya', 0.07888303, u'suit', 0.04571002, u'trench_coat', 0.02864843]
+[u'street_sign', 0.27303505, u'traffic_light', 0.20361556, u'digital_clock', 0.08339043, u'cinema', 0.034255169, u'scoreboard', 0.016567813]
+[u'seashore', 0.37457258, u'sandbar', 0.2901772, u'wreck', 0.10800053, u'coral_reef', 0.083882757, u'lakeside', 0.055340476]

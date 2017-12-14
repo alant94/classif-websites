@@ -1,0 +1,6 @@
+[u'street_sign', 0.14871383, u'buckle', 0.075327419, u'cinema', 0.071517177, u'digital_clock', 0.068241522, u'scoreboard', 0.060076877]
+[u'buckle', 0.28084019, u'loudspeaker', 0.061806262, u"carpenter's_kit", 0.047107406, u'digital_clock', 0.044349872, u'coffee_mug', 0.029848745]
+[u'ox', 0.3513526, u'water_buffalo', 0.18706648, u'oxcart', 0.12769142, u'Arabian_camel', 0.046165384, u'lakeside', 0.037776303]
+[u'English_foxhound', 0.18343331, u'Ibizan_hound', 0.12964891, u'cliff', 0.10754352, u'ox', 0.074473545, u'llama', 0.072863206]
+[u'web_site', 0.098585866, u'envelope', 0.090298399, u'sax', 0.011801611, u'matchstick', 0.010437028, u'analog_clock', 0.0093391426]
+[u'web_site', 0.051518813, u'nematode', 0.033804312, u'matchstick', 0.018942472, u'envelope', 0.018355999, u'quill', 0.012837522]

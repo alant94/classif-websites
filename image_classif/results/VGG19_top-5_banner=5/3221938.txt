@@ -1,0 +1,6 @@
+[u'shower_curtain', 0.20583722, u'window_shade', 0.11431661, u'bathtub', 0.10255986, u'medicine_chest', 0.046472963, u'safe', 0.034805432]
+[u'screen', 0.29475498, u'monitor', 0.18598564, u'binder', 0.10623593, u'envelope', 0.091901146, u'safe', 0.052865155]
+[u'window_screen', 0.26519853, u'window_shade', 0.050846253, u'medicine_chest', 0.045786615, u'screen', 0.041625641, u'sliding_door', 0.039399847]
+[u'medicine_chest', 0.79790872, u'safe', 0.090290517, u'monitor', 0.02116177, u'window_screen', 0.016413389, u'window_shade', 0.012386381]
+[u'swimming_trunks', 0.37576076, u'redbone', 0.085573174, u'snorkel', 0.050273214, u'bathing_cap', 0.043958481, u'Chesapeake_Bay_retriever', 0.036967911]
+[u'swimming_trunks', 0.25593436, u'apron', 0.18843901, u"carpenter's_kit", 0.087014645, u'mailbag', 0.045724325, u'wool', 0.032490384]

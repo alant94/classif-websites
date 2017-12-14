@@ -1,0 +1,2 @@
+[u'rule', 0.29267234, u'web_site', 0.10126994, u'picket_fence', 0.085743159, u'digital_clock', 0.0514444, u'matchstick', 0.035435311]
+[u'picket_fence', 0.18949053, u'digital_clock', 0.18690258, u'matchstick', 0.081806608, u'upright', 0.029061988, u'syringe', 0.028661059]

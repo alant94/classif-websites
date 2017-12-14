@@ -1,0 +1,5 @@
+[u'triceratops', 0.38582796, u'hartebeest', 0.1260592, u'tusker', 0.11517174, u'African_elephant', 0.075835042, u'warthog', 0.055077907]
+[u'hartebeest', 0.62530726, u'warthog', 0.19771062, u'hare', 0.038755681, u'wallaby', 0.025000604, u'tusker', 0.022512229]
+[u'American_black_bear', 0.93719107, u'wombat', 0.030434161, u'sloth_bear', 0.010525501, u'hog', 0.0089867087, u'wild_boar', 0.0072281472]
+[u'matchstick', 0.50906253, u'candle', 0.092473172, u'space_shuttle', 0.057936985, u'theater_curtain', 0.019856025, u'book_jacket', 0.015751218]
+[u'volcano', 0.35153201, u'lakeside', 0.12457681, u'mountain_tent', 0.071342163, u'alp', 0.0666942, u'seashore', 0.043590587]

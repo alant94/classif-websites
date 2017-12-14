@@ -1,0 +1,7 @@
+[u'prayer_rug', 0.050089777, u'bookshop', 0.046737343, u'vault', 0.03201795, u'library', 0.025461229, u'quilt', 0.016612912]
+[u'mosque', 0.077811755, u'vault', 0.04473602, u'space_shuttle', 0.039872076, u'hoopskirt', 0.039364733, u'wig', 0.032064918]
+[u'carton', 0.0923438, u'abaya', 0.056041457, u'bulletproof_vest', 0.041379701, u'lab_coat', 0.026680153, u'shower_curtain', 0.026064532]
+[u'sunscreen', 0.24259433, u'face_powder', 0.087567806, u'lotion', 0.083878987, u'eggnog', 0.05329911, u'planetarium', 0.036595557]
+[u'window_shade', 0.056988742, u'window_screen', 0.044294164, u'prison', 0.041578863, u'spotlight', 0.032829661, u'fire_screen', 0.029337808]
+[u'knot', 0.11114541, u'pretzel', 0.084339499, u'chain', 0.078054786, u'cornet', 0.045220226, u'spindle', 0.041000839]
+[u'wig', 0.11906006, u'lipstick', 0.073825285, u'shower_cap', 0.068821788, u'diaper', 0.044896215, u'Maltese_dog', 0.039731029]

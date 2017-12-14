@@ -1,0 +1,7 @@
+[u'web_site', 0.63503218, u'envelope', 0.033747055, u'hand_blower', 0.016119376, u'hook', 0.012546895, u'whistle', 0.012043267]
+[u'screwdriver', 0.11977156, u'rule', 0.055022821, u'hook', 0.047996055, u"carpenter's_kit", 0.047895145, u'nail', 0.04545198]
+[u'broom', 0.25027651, u'paintbrush', 0.17265151, u'goblet', 0.087617144, u'sock', 0.042392585, u'maraca', 0.040047027]
+[u'screw', 0.12307484, u'abacus', 0.077084921, u'matchstick', 0.066291153, u'web_site', 0.046892885, u'screwdriver', 0.043924991]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'plunger', 0.10594643, u'Band_Aid', 0.09384767, u'web_site', 0.061835147, u'hatchet', 0.047761675, u'spatula', 0.039575607]
+[u'web_site', 0.33293235, u'envelope', 0.15481021, u'laptop', 0.047986191, u'Band_Aid', 0.027844731, u'scale', 0.025637828]

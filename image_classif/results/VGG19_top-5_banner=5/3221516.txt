@@ -1,0 +1,8 @@
+[u'rule', 0.25941876, u'nail', 0.05964458, u'envelope', 0.050175816, u'rubber_eraser', 0.027341688, u'matchstick', 0.024275184]
+[u'envelope', 0.067345858, u'rule', 0.062277403, u'nail', 0.047517926, u'rubber_eraser', 0.037055664, u'street_sign', 0.025584493]
+[u'web_site', 0.96430349, u'menu', 0.027477916, u'vending_machine', 0.0034349768, u'plate_rack', 0.001556966, u'book_jacket', 0.00081941712]
+[u'rubber_eraser', 0.073860288, u'screwdriver', 0.062353864, u'rule', 0.051940028, u'nail', 0.044579405, u'envelope', 0.044010211]
+[u'lab_coat', 0.66244686, u'web_site', 0.061637137, u'stethoscope', 0.027084582, u'notebook', 0.02399998, u'pajama', 0.020463066]
+[u'velvet', 0.10064188, u'theater_curtain', 0.059079457, u'binder', 0.037550949, u'letter_opener', 0.015880721, u'tray', 0.015327076]
+[u'digital_clock', 0.23810817, u'rubber_eraser', 0.083482213, u'envelope', 0.062211812, u'street_sign', 0.062088024, u'Band_Aid', 0.044805318]
+[u'nail', 0.061181743, u'rule', 0.056009557, u'screwdriver', 0.045631502, u'envelope', 0.039806917, u'broom', 0.036429554]

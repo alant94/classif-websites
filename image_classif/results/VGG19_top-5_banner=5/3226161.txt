@@ -1,0 +1,4 @@
+[u'pitcher', 0.11702045, u'coffee_mug', 0.10750993, u'whiskey_jug', 0.10337123, u'water_jug', 0.063439086, u'coffeepot', 0.059999291]
+[u'iPod', 0.11908827, u'digital_clock', 0.071086071, u'analog_clock', 0.049303059, u'switch', 0.047096033, u'lighter', 0.034353103]
+[u'crane', 0.21264783, u'tripod', 0.10943609, u'steel_arch_bridge', 0.10316782, u'drilling_platform', 0.075846687, u'suspension_bridge', 0.043936044]
+[u'web_site', 0.1190018, u'barn', 0.062313639, u'church', 0.037804034, u'rapeseed', 0.029109143, u'television', 0.023786824]

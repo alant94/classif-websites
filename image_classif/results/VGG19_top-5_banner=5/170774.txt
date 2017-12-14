@@ -1,0 +1,3 @@
+[u'cornet', 0.77046478, u'trombone', 0.16127533, u'sax', 0.021849254, u'shower_curtain', 0.0089375386, u'French_horn', 0.0073794876]
+[u'sax', 0.61328572, u'cornet', 0.22927065, u'trombone', 0.099994391, u'French_horn', 0.043204453, u'bassoon', 0.0023107808]
+[u'trombone', 0.93193793, u'cornet', 0.019475987, u'bow', 0.0087294756, u'electric_fan', 0.0036972621, u'sewing_machine', 0.0030930459]

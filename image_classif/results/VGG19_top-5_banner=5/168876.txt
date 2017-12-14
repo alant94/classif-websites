@@ -1,0 +1,8 @@
+[u'stage', 0.91494918, u'balance_beam', 0.034504339, u'theater_curtain', 0.021376537, u'electric_guitar', 0.008001796, u'spotlight', 0.0059235408]
+[u'Band_Aid', 0.058062423, u'envelope', 0.042784344, u'web_site', 0.040706411, u'binder', 0.029558297, u'carton', 0.027329644]
+[u'quill', 0.21037473, u'envelope', 0.063803285, u'nail', 0.047931731, u'letter_opener', 0.041972511, u'hook', 0.026717225]
+[u'digital_clock', 0.060996547, u'web_site', 0.037073731, u'bulletproof_vest', 0.036982007, u'envelope', 0.029055163, u'analog_clock', 0.024774853]
+[u'sunglass', 0.4197256, u'sunglasses', 0.360131, u'cellular_telephone', 0.019563826, u'stage', 0.010724867, u'drumstick', 0.010030406]
+[u'comic_book', 0.3839958, u'book_jacket', 0.21397181, u'web_site', 0.19752051, u'jersey', 0.096321203, u'jean', 0.027005436]
+[u'analog_clock', 0.087634154, u'spotlight', 0.065342128, u'wall_clock', 0.03454598, u'theater_curtain', 0.027809562, u'abaya', 0.02720703]
+[u'digital_clock', 0.28561026, u'rule', 0.070553198, u'analog_clock', 0.039979231, u'Band_Aid', 0.025502721, u'digital_watch', 0.024519915]

@@ -1,0 +1,4 @@
+[u'plate_rack', 0.13349101, u'cleaver', 0.04007034, u'knee_pad', 0.031870313, u'solar_dish', 0.024947062, u'toilet_seat', 0.023492927]
+[u'analog_clock', 0.85523254, u'wall_clock', 0.10458835, u'magnetic_compass', 0.019241557, u'web_site', 0.015556422, u'envelope', 0.0016349208]
+[u'mask', 0.57332373, u'cloak', 0.10547849, u'sweatshirt', 0.089782447, u'book_jacket', 0.042071875, u'sombrero', 0.024249801]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

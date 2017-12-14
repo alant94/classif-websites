@@ -1,0 +1,1 @@
+[u'lab_coat', 0.45428896, u'sweatshirt', 0.066059366, u'trench_coat', 0.059373192, u'miniskirt', 0.017523238, u'restaurant', 0.015308714]

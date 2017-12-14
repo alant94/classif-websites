@@ -1,0 +1,2 @@
+[u'digital_clock', 0.19536525, u'crossword_puzzle', 0.11812251, u'digital_watch', 0.068577848, u'Band_Aid', 0.067365475, u'maze', 0.06212284]
+[u'digital_clock', 0.40697485, u'container_ship', 0.14263481, u'jigsaw_puzzle', 0.1237381, u'maze', 0.097632147, u'wall_clock', 0.030082082]

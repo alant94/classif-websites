@@ -1,0 +1,4 @@
+[u'brassiere', 0.81205273, u'maillot', 0.083228685, u'bikini', 0.060790975, u'maillot', 0.018574761, u'miniskirt', 0.013983976]
+[u'screwdriver', 0.32595026, u'ballpoint', 0.071308136, u'rule', 0.06486769, u'rubber_eraser', 0.057915635, u'syringe', 0.052574862]
+[u'swimming_trunks', 0.16655546, u'diaper', 0.14249973, u'fur_coat', 0.10566182, u'bikini', 0.08168222, u'tub', 0.046880931]
+[u'hair_spray', 0.18929704, u'wig', 0.14446028, u'plastic_bag', 0.05508443, u'groom', 0.040449951, u'syringe', 0.026065456]

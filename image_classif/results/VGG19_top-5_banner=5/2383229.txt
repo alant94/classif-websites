@@ -1,0 +1,1 @@
+[u'altar', 0.13369039, u'bell_cote', 0.10286071, u'throne', 0.091478013, u'analog_clock', 0.078206502, u'wall_clock', 0.061043706]

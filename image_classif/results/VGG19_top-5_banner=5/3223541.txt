@@ -1,0 +1,4 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cinema', 0.44664034, u'carton', 0.056044281, u'street_sign', 0.032534894, u'bannister', 0.026760111, u'digital_clock', 0.026335966]
+[u'crossword_puzzle', 0.48991975, u'menu', 0.10615101, u'slide_rule', 0.078522958, u'packet', 0.044057973, u'pill_bottle', 0.024909971]
+[u'ice_cream', 0.15186284, u'eggnog', 0.12200567, u'dough', 0.086732656, u'potpie', 0.078616232, u'bagel', 0.071328014]

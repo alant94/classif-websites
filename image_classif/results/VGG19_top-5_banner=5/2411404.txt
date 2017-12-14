@@ -1,0 +1,8 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'envelope', 0.3604292, u'rule', 0.34405154, u'slide_rule', 0.085377477, u'binder', 0.06881582, u'handkerchief', 0.045896336]
+[u'jersey', 0.17252854, u'lighter', 0.15942287, u'swimming_trunks', 0.067479953, u'mailbag', 0.064103164, u'apron', 0.031809192]
+[u'lighter', 0.15571503, u'pencil_box', 0.10231499, u'packet', 0.06920813, u'book_jacket', 0.062828638, u'envelope', 0.044035714]
+[u'Windsor_tie', 0.33685675, u'binder', 0.23277067, u'envelope', 0.069262266, u'rule', 0.052147605, u'safety_pin', 0.030274432]
+[u'oscilloscope', 0.39953366, u'digital_clock', 0.3378906, u'screen', 0.040672854, u'odometer', 0.02188988, u'analog_clock', 0.017801601]
+[u'face_powder', 0.13164453, u'purse', 0.093382545, u'hamper', 0.082432047, u'perfume', 0.050012797, u'paintbrush', 0.047043227]
+[u'apron', 0.13818553, u'web_site', 0.13166843, u'pajama', 0.10595284, u'brassiere', 0.076121047, u'jersey', 0.067267425]

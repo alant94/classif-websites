@@ -1,0 +1,3 @@
+[u'iPod', 0.28087127, u'cassette', 0.12079328, u'analog_clock', 0.059367437, u'wall_clock', 0.053447336, u'envelope', 0.039560501]
+[u'street_sign', 0.21272203, u'book_jacket', 0.053208206, u'trailer_truck', 0.04003939, u'cinema', 0.033238228, u'moving_van', 0.031401571]
+[u'lighter', 0.17247555, u'switch', 0.10155921, u'pick', 0.093312293, u'remote_control', 0.085536353, u'binder', 0.055278745]

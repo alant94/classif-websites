@@ -1,0 +1,1 @@
+[u'volcano', 0.20113537, u'barn', 0.10856215, u'beacon', 0.10083058, u'water_tower', 0.062003557, u'radio_telescope', 0.055568442]

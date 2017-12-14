@@ -1,0 +1,4 @@
+[u'sunscreen', 0.087744012, u'bathtub', 0.054216869, u'cowboy_hat', 0.050805539, u'Band_Aid', 0.048718419, u'bikini', 0.044013757]
+[u'bathtub', 0.52698445, u'tub', 0.22876921, u'bikini', 0.048652388, u'swimming_trunks', 0.027135437, u'sunscreen', 0.021832712]
+[u'bikini', 0.16139489, u'swimming_trunks', 0.081961878, u'fur_coat', 0.06847766, u'maillot', 0.044153444, u'miniskirt', 0.043311685]
+[u'butcher_shop', 0.84585255, u'radiator', 0.031424984, u'fur_coat', 0.027634373, u'wardrobe', 0.016080111, u'coho', 0.015468708]

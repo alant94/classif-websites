@@ -1,0 +1,8 @@
+[u'book_jacket', 0.33071697, u'web_site', 0.28892341, u'comic_book', 0.085940674, u'menu', 0.068664208, u'scoreboard', 0.065491728]
+[u'jigsaw_puzzle', 0.7100575, u'book_jacket', 0.14471579, u'monitor', 0.02047142, u'television', 0.017061632, u'stage', 0.013478263]
+[u'scoreboard', 0.22401133, u'container_ship', 0.10286062, u'book_jacket', 0.073352553, u'digital_clock', 0.056523759, u'cash_machine', 0.05487391]
+[u'book_jacket', 0.54088616, u'packet', 0.26807848, u'brass', 0.025022823, u'pencil_sharpener', 0.022059938, u'plastic_bag', 0.013149508]
+[u'book_jacket', 0.09168376, u'lampshade', 0.076260746, u'chain', 0.0445318, u'table_lamp', 0.042869434, u'gyromitra', 0.040405195]
+[u'book_jacket', 0.64291745, u'comic_book', 0.18165009, u'jigsaw_puzzle', 0.14654616, u'tray', 0.0068121799, u'menu', 0.0045426572]
+[u'digital_clock', 0.11311797, u'envelope', 0.10315409, u'container_ship', 0.083179466, u'digital_watch', 0.058099896, u'Band_Aid', 0.034825876]
+[u'spiny_lobster', 0.10977187, u'barn_spider', 0.081715405, u'screw', 0.073643044, u'book_jacket', 0.064380556, u'wolf_spider', 0.03992603]

@@ -1,0 +1,6 @@
+[u'tub', 0.23873317, u'swimming_trunks', 0.20521308, u'miniskirt', 0.086120091, u'brassiere', 0.07116928, u'bathtub', 0.059078939]
+[u'swimming_trunks', 0.55757385, u'dumbbell', 0.17966077, u'barbell', 0.070871748, u'harmonica', 0.021992436, u'tub', 0.016747303]
+[u"potter's_wheel", 0.18602341, u'hog', 0.079865649, u'vizsla', 0.067497209, u'diaper', 0.065943383, u'swimming_trunks', 0.062837385]
+[u'revolver', 0.15686753, u'hatchet', 0.094797261, u'jean', 0.069637403, u'buckle', 0.037177224, u'walking_stick', 0.037150431]
+[u"potter's_wheel", 0.30410388, u'whippet', 0.14661659, u'boa_constrictor', 0.054119624, u'tub', 0.053605907, u'hog', 0.032584727]
+[u'vase', 0.12088557, u'Chihuahua', 0.10113538, u'saltshaker', 0.039739214, u'Pekinese', 0.039400622, u'bath_towel', 0.035046495]

@@ -1,0 +1,7 @@
+[u'prayer_rug', 0.55471265, u'book_jacket', 0.14212559, u'jigsaw_puzzle', 0.038146883, u'web_site', 0.030684769, u'screen', 0.017575685]
+[u'web_site', 0.69478667, u'television', 0.093785107, u'book_jacket', 0.041826338, u'screen', 0.030379567, u'monitor', 0.025431512]
+[u'cash_machine', 0.19301227, u'book_jacket', 0.11058333, u'web_site', 0.078545138, u'comic_book', 0.057560507, u'television', 0.052034102]
+[u'traffic_light', 0.87436169, u'spotlight', 0.034731325, u'red_wine', 0.01726318, u'projector', 0.013787594, u'loudspeaker', 0.011511344]
+[u'jellyfish', 0.05973899, u'hammerhead', 0.058816664, u'scuba_diver', 0.041263245, u'dugong', 0.035472713, u'stage', 0.03074163]
+[u'web_site', 0.46475878, u'menu', 0.035351418, u'book_jacket', 0.02029735, u'jersey', 0.010075111, u'crossword_puzzle', 0.0096481927]
+[u'megalith', 0.38991174, u'obelisk', 0.099105671, u'bubble', 0.091267683, u'sarong', 0.038356371, u'sturgeon', 0.032427963]

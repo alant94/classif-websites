@@ -1,0 +1,1 @@
+[u'pencil_sharpener', 0.19071735, u'mousetrap', 0.048834115, u'rule', 0.040156998, u'tick', 0.025778119, u'Persian_cat', 0.025089055]

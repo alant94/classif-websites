@@ -1,0 +1,5 @@
+[u'container_ship', 0.38014916, u'matchstick', 0.10535643, u'library', 0.099882819, u'rubber_eraser', 0.064329922, u'ski', 0.061306871]
+[u'window_shade', 0.54455578, u'shoji', 0.1591105, u'window_screen', 0.07485918, u'sliding_door', 0.06952408, u'fire_screen', 0.011288946]
+[u'lakeside', 0.85938269, u'promontory', 0.035737775, u'valley', 0.026529178, u'boathouse', 0.018213129, u'sandbar', 0.015594554]
+[u'book_jacket', 0.099496305, u'matchstick', 0.059892152, u'envelope', 0.044518806, u'brassiere', 0.039787248, u'lampshade', 0.039678764]
+[u'shoji', 0.34406209, u'window_shade', 0.15021244, u'sliding_door', 0.11748981, u'wardrobe', 0.049171992, u'window_screen', 0.037800297]

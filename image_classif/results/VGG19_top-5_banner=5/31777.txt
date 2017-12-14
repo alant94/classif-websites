@@ -1,0 +1,8 @@
+[u'desktop_computer', 0.30425906, u'safe', 0.14229307, u'hard_disc', 0.081795543, u'printer', 0.051820539, u'modem', 0.040952042]
+[u'vending_machine', 0.30990839, u'web_site', 0.14460361, u'binder', 0.085040674, u'switch', 0.083123483, u'perfume', 0.041398823]
+[u"carpenter's_kit", 0.11355348, u'screwdriver', 0.11138488, u'bow', 0.096460134, u'cleaver', 0.077755727, u'rule', 0.074735604]
+[u'safe', 0.17396584, u'vending_machine', 0.16012827, u'refrigerator', 0.13055871, u'web_site', 0.08872807, u'medicine_chest', 0.060327638]
+[u'CD_player', 0.2271366, u'desktop_computer', 0.21503302, u'radio', 0.12786026, u'tape_player', 0.080503456, u'hard_disc', 0.068305716]
+[u'screen', 0.41013661, u'monitor', 0.11989606, u'web_site', 0.071183428, u'desktop_computer', 0.056158632, u'television', 0.049085494]
+[u'matchstick', 0.22486153, u'picket_fence', 0.19860868, u'envelope', 0.03299934, u'candle', 0.032324709, u'shower_curtain', 0.031949256]
+[u'bottlecap', 0.99912065, u'digital_watch', 0.0003266662, u'wall_clock', 0.00026529218, u'bolo_tie', 0.00011243993, u'stopwatch', 7.9245554e-05]

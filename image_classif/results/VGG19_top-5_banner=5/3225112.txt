@@ -1,0 +1,1 @@
+[u'viaduct', 0.15102129, u'steel_arch_bridge', 0.14697592, u'web_site', 0.054529566, u'pier', 0.051805411, u'suspension_bridge', 0.031606175]

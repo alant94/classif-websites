@@ -1,0 +1,6 @@
+[u'tobacco_shop', 0.78382498, u'confectionery', 0.028726848, u'container_ship', 0.026638815, u'bookshop', 0.023465699, u'medicine_chest', 0.021794666]
+[u'scoreboard', 0.53467613, u'menu', 0.26103377, u'brass', 0.035774264, u'book_jacket', 0.027632689, u'cinema', 0.017082244]
+[u'screen', 0.30567005, u'scoreboard', 0.16647863, u'monitor', 0.096209399, u'oscilloscope', 0.074825056, u'television', 0.05926165]
+[u'window_screen', 0.13843629, u'mobile_home', 0.13497238, u'window_shade', 0.085272178, u'sliding_door', 0.065432444, u'bannister', 0.046503671]
+[u'stage', 0.52639472, u'torch', 0.062423762, u'butcher_shop', 0.035265762, u'marimba', 0.028660076, u'fountain', 0.025020778]
+[u'brass', 0.47008744, u'book_jacket', 0.056789249, u'safe', 0.034302678, u'abacus', 0.031880777, u'menu', 0.030076427]

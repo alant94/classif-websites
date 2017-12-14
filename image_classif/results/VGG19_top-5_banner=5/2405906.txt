@@ -1,0 +1,4 @@
+[u'paintbrush', 0.12361885, u'quill', 0.092648424, u'letter_opener', 0.089299537, u'ski', 0.069965847, u'ballpoint', 0.04891165]
+[u'safety_pin', 0.077957831, u'cup', 0.075490467, u'jigsaw_puzzle', 0.058033902, u'bubble', 0.053996053, u'ant', 0.052124023]
+[u'balloon', 0.76302004, u'lampshade', 0.13667025, u'spotlight', 0.031785954, u'candle', 0.020533673, u'ping-pong_ball', 0.010410912]
+[u'bubble', 0.52289343, u'perfume', 0.07698033, u'balloon', 0.064287707, u'spotlight', 0.048625302, u'trombone', 0.042982783]

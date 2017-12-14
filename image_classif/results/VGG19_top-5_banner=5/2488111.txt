@@ -1,0 +1,6 @@
+[u'barn', 0.48080942, u'barrel', 0.19707479, u'freight_car', 0.11749886, u'barbershop', 0.024189888, u'crate', 0.020904008]
+[u'theater_curtain', 0.26771322, u'vestment', 0.17327909, u'cloak', 0.058603011, u'wardrobe', 0.048275936, u'stage', 0.035213973]
+[u'fountain', 0.31264755, u'swab', 0.17635249, u'worm_fence', 0.12896183, u'picket_fence', 0.095701404, u'barn', 0.025869323]
+[u'poncho', 0.21927257, u'hook', 0.086680196, u'safety_pin', 0.057660263, u'plate_rack', 0.041270074, u'wool', 0.039042763]
+[u'fountain', 0.31891686, u'geyser', 0.27328008, u'cliff', 0.049572319, u'seashore', 0.021641655, u'sandbar', 0.020376913]
+[u'fountain', 0.91205227, u'cliff', 0.020673547, u'swab', 0.020413158, u'geyser', 0.0070679891, u'coral_fungus', 0.0057192845]

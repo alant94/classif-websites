@@ -1,0 +1,5 @@
+[u'flagpole', 0.2630299, u'pole', 0.11290481, u'syringe', 0.065688811, u'traffic_light', 0.052117731, u'street_sign', 0.034769651]
+[u'container_ship', 0.35925522, u'book_jacket', 0.14169976, u'rule', 0.063053988, u'scoreboard', 0.061579749, u'binder', 0.048894223]
+[u'web_site', 0.34308389, u'envelope', 0.12736644, u'book_jacket', 0.096397519, u'menu', 0.023842989, u'packet', 0.012638791]
+[u'oscilloscope', 0.22524501, u'digital_clock', 0.22259356, u'analog_clock', 0.12970877, u'stopwatch', 0.030673953, u'odometer', 0.030618904]
+[u'book_jacket', 0.57839167, u'menu', 0.28374717, u'envelope', 0.024910584, u'packet', 0.020069938, u'brass', 0.012885512]

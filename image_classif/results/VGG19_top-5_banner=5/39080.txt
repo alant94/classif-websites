@@ -1,0 +1,7 @@
+[u'balloon', 0.25091824, u'lampshade', 0.11647847, u'spotlight', 0.093052842, u'coil', 0.07123106, u'traffic_light', 0.051987078]
+[u'switch', 0.2957029, u'cash_machine', 0.2605359, u'toilet_seat', 0.090787217, u'combination_lock', 0.044874582, u'safe', 0.04016421]
+[u'wall_clock', 0.29478243, u'digital_clock', 0.27553236, u'traffic_light', 0.066809058, u'analog_clock', 0.065432496, u'cash_machine', 0.045622692]
+[u'switch', 0.057443302, u'cassette', 0.051835701, u'hook', 0.036012448, u'spotlight', 0.035914324, u'cellular_telephone', 0.034737214]
+[u'switch', 0.1220521, u'hook', 0.079390183, u'street_sign', 0.070088692, u'cash_machine', 0.042858578, u'hand_blower', 0.036461819]
+[u'traffic_light', 0.15219787, u'analog_clock', 0.1276994, u'wall_clock', 0.06319873, u'binder', 0.050608937, u'spotlight', 0.041570008]
+[u'matchstick', 0.15110523, u'picket_fence', 0.08063338, u'candle', 0.071245529, u'pill_bottle', 0.036300652, u'pinwheel', 0.032441579]

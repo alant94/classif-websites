@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.15771103, u'bow', 0.094201222, u'fire_screen', 0.074296661, u'throne', 0.034483936, u'altar', 0.028695248]
+[u'digital_clock', 0.19539589, u'maze', 0.10403305, u'container_ship', 0.072913177, u'quilt', 0.063953318, u'jigsaw_puzzle', 0.045369942]

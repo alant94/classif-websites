@@ -1,0 +1,1 @@
+[u'ice_lolly', 0.10117536, u'water_tower', 0.073465087, u'ice_cream', 0.070904136, u'plunger', 0.022096686, u'mushroom', 0.021539155]

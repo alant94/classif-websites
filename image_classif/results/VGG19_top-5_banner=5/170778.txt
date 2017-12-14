@@ -1,0 +1,3 @@
+[u'shoe_shop', 0.10328568, u'folding_chair', 0.069295883, u'stage', 0.053374313, u'spotlight', 0.046613142, u'restaurant', 0.040864069]
+[u'web_site', 0.94347227, u'menu', 0.014196258, u'nail', 0.0054515372, u'envelope', 0.0051820204, u'screwdriver', 0.0018390729]
+[u'picket_fence', 0.44516778, u'candle', 0.21984296, u'worm_fence', 0.11484028, u'matchstick', 0.062945947, u'paintbrush', 0.040035117]

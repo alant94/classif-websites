@@ -1,0 +1,3 @@
+[u'sax', 0.22241445, u'stage', 0.080876976, u'harp', 0.075329863, u'electric_guitar', 0.068597227, u'accordion', 0.068282589]
+[u'stage', 0.35335144, u'electric_guitar', 0.090341926, u'ski', 0.030866643, u'trombone', 0.027041234, u'suit', 0.019509081]
+[u'harp', 0.48480511, u'chain_mail', 0.035762835, u'flute', 0.030863732, u'Indian_cobra', 0.027870962, u'panpipe', 0.027719246]

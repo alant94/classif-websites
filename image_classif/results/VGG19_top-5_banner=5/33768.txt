@@ -1,0 +1,2 @@
+[u'pick', 0.17662327, u'mask', 0.17240778, u'bow_tie', 0.10609637, u'shower_cap', 0.074001186, u'Windsor_tie', 0.051819202]
+[u'face_powder', 0.14641282, u'bow_tie', 0.107974, u'Windsor_tie', 0.096674174, u'book_jacket', 0.086975433, u'loupe', 0.050708283]

@@ -1,0 +1,3 @@
+[u'hourglass', 0.11454095, u'microphone', 0.076956488, u'hand_blower', 0.042714909, u'rubber_eraser', 0.035036914, u'wine_bottle', 0.034897819]
+[u'monitor', 0.31911311, u'birdhouse', 0.18556347, u'joystick', 0.17800863, u'abacus', 0.042378329, u'iPod', 0.032783493]
+[u'hair_slide', 0.15161802, u'hook', 0.13461711, u"carpenter's_kit", 0.10260798, u'letter_opener', 0.056620378, u'ballpoint', 0.044906829]

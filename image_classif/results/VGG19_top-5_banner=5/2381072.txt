@@ -1,0 +1,4 @@
+[u'wine_bottle', 0.42016977, u'fountain_pen', 0.10308257, u'red_wine', 0.098036461, u'hair_spray', 0.058389537, u'chime', 0.039634116]
+[u'whistle', 0.26441759, u'hook', 0.077272959, u'ocarina', 0.064052254, u'bolo_tie', 0.055143923, u'stopwatch', 0.037588231]
+[u'shoe_shop', 0.36035866, u'butcher_shop', 0.22365151, u'kimono', 0.050861795, u'steel_drum', 0.044807538, u'cleaver', 0.033959541]
+[u'patio', 0.32081908, u'picket_fence', 0.11478169, u'boathouse', 0.070979938, u'church', 0.032458391, u'restaurant', 0.031914849]

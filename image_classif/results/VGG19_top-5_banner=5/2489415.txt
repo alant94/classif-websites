@@ -1,0 +1,2 @@
+[u'web_site', 0.4975976, u'menu', 0.096470967, u'screwdriver', 0.072004952, u'screw', 0.031941447, u'envelope', 0.027102603]
+[u'ox', 0.36989835, u'water_buffalo', 0.21209815, u'warthog', 0.073929735, u'tusker', 0.049701571, u'wild_boar', 0.033296537]

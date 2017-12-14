@@ -1,0 +1,3 @@
+[u'bikini', 0.13423775, u'swing', 0.10285629, u'sorrel', 0.057308864, u'orangutan', 0.043143023, u'bubble', 0.031330053]
+[u'swing', 0.17727683, u'hatchet', 0.085718855, u'totem_pole', 0.0814218, u'cliff', 0.071039163, u'book_jacket', 0.066126205]
+[u'bikini', 0.53715318, u'maillot', 0.24706702, u'maillot', 0.13004142, u'snorkel', 0.015784934, u'volleyball', 0.012779372]

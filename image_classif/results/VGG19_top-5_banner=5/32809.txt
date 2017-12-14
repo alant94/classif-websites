@@ -1,0 +1,7 @@
+[u'vase', 0.30952039, u'pot', 0.15617174, u'picket_fence', 0.15584739, u'greenhouse', 0.052371349, u'tray', 0.026171034]
+[u'dock', 0.34673166, u'boathouse', 0.18064807, u'lakeside', 0.15759905, u'trimaran', 0.050923862, u'seashore', 0.032210924]
+[u'lakeside', 0.69573468, u'valley', 0.13155736, u'promontory', 0.044485651, u'seashore', 0.019698678, u'cliff', 0.018930921]
+[u'cucumber', 0.22818643, u'zucchini', 0.12382039, u'tray', 0.077152491, u'bakery', 0.06028961, u'bell_pepper', 0.039684296]
+[u'ant', 0.059997689, u'buckeye', 0.050778553, u'rapeseed', 0.046413142, u'web_site', 0.03695143, u'nematode', 0.036009964]
+[u'web_site', 0.04623903, u'nematode', 0.026953824, u'matchstick', 0.021053122, u'fly', 0.020839367, u'bubble', 0.019724442]
+[u'yawl', 0.58378059, u'trimaran', 0.16648443, u'catamaran', 0.13057783, u'schooner', 0.11616027, u'fireboat', 0.00097632303]

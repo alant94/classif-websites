@@ -1,0 +1,1 @@
+[u'washer', 0.24755698, u'neck_brace', 0.13900389, u'bathtub', 0.082741648, u'bucket', 0.055437285, u'coffee_mug', 0.049419854]

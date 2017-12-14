@@ -1,0 +1,5 @@
+[u'miniskirt', 0.15455265, u'gown', 0.12191855, u'web_site', 0.074407645, u'jean', 0.053433977, u'apron', 0.043359272]
+[u'web_site', 0.80064934, u'packet', 0.1126145, u'book_jacket', 0.017007146, u'Band_Aid', 0.012156337, u'face_powder', 0.011757486]
+[u'web_site', 0.18817928, u'notebook', 0.086168721, u'laptop', 0.04898246, u'menu', 0.04416772, u'book_jacket', 0.040579621]
+[u'envelope', 0.58165097, u'jigsaw_puzzle', 0.040425375, u'wall_clock', 0.031820137, u'carton', 0.020348452, u'maze', 0.017469542]
+[u'web_site', 0.142735, u'miniskirt', 0.063703075, u'Polaroid_camera', 0.053798292, u'harmonica', 0.048332516, u'cellular_telephone', 0.039313119]

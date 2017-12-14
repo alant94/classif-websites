@@ -1,0 +1,2 @@
+[u'web_site', 0.062338185, u'scorpion', 0.056498554, u'analog_clock', 0.047092095, u'book_jacket', 0.044930793, u'jersey', 0.032411113]
+[u'book_jacket', 0.10546225, u'comic_book', 0.04145176, u'web_site', 0.031721093, u'crutch', 0.02867312, u'wig', 0.024320988]

@@ -1,0 +1,5 @@
+[u'puck', 0.35872009, u'web_site', 0.14427662, u'stopwatch', 0.083383091, u'analog_clock', 0.044169024, u'digital_clock', 0.021361301]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'impala', 0.65127861, u'gazelle', 0.20045063, u'hartebeest', 0.13982877, u'ibex', 0.0081836395, u'bighorn', 8.9399597e-05]
+[u'beacon', 0.031664114, u'spotlight', 0.030021941, u'monitor', 0.02559153, u'bubble', 0.019203026, u'television', 0.01799145]

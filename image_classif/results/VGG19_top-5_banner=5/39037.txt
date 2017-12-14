@@ -1,0 +1,2 @@
+[u'envelope', 0.28981194, u'jigsaw_puzzle', 0.16989236, u'quilt', 0.11873458, u'handkerchief', 0.057064958, u'Christmas_stocking', 0.047847781]
+[u'balance_beam', 0.291287, u'racket', 0.10772904, u'Windsor_tie', 0.091089286, u'suit', 0.082640238, u'lab_coat', 0.048727989]

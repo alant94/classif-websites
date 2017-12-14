@@ -1,0 +1,7 @@
+[u'jackfruit', 0.83583456, u'corn', 0.093931988, u'ear', 0.031425279, u'banana', 0.0083743269, u'cauliflower', 0.0040279329]
+[u'barrel', 0.40695155, u'rain_barrel', 0.19059379, u'water_tower', 0.10324644, u'dam', 0.048406281, u'ashcan', 0.041271269]
+[u'long-horned_beetle', 0.12829448, u'tiger_beetle', 0.069064893, u'ground_beetle', 0.054119386, u'goblet', 0.044930581, u'rhinoceros_beetle', 0.027743999]
+[u'book_jacket', 0.92152649, u'doormat', 0.015806174, u'jersey', 0.0094817234, u'packet', 0.0083799819, u'brass', 0.0026441987]
+[u'medicine_chest', 0.35266712, u'window_screen', 0.1557447, u'binder', 0.077222951, u'screen', 0.040526982, u'window_shade', 0.018922249]
+[u'mask', 0.10483301, u'jersey', 0.10293975, u'balloon', 0.057818588, u'parachute', 0.054208051, u'comic_book', 0.053010732]
+[u'barrel', 0.99968946, u'rain_barrel', 0.00025291793, u'drum', 3.9389612e-05, u'punching_bag', 7.2291737e-06, u"jack-o'-lantern", 3.3245524e-06]

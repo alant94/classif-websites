@@ -1,0 +1,1 @@
+[u'swimming_trunks', 0.12376651, u'necklace', 0.11135911, u'snorkel', 0.10160755, u'bathing_cap', 0.074098296, u'diaper', 0.050702348]

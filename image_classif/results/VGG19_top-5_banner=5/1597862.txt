@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.032267503, u'sunglasses', 0.030882075, u'Band_Aid', 0.026968224, u'shower_cap', 0.02608644, u'seat_belt', 0.022562822]
+[u'remote_control', 0.24858883, u'bath_towel', 0.1102613, u'shower_cap', 0.062127091, u'sleeping_bag', 0.051203746, u'sombrero', 0.048740957]
+[u'shoe_shop', 0.098474003, u'dumbbell', 0.068961769, u'laptop', 0.067129202, u'neck_brace', 0.066237301, u'photocopier', 0.059696067]
+[u'pajama', 0.24536692, u'hoopskirt', 0.16126259, u'gown', 0.15638366, u'miniskirt', 0.06299597, u'bassinet', 0.056458451]
+[u'dumbbell', 0.5557813, u'maillot', 0.076222353, u'swimming_trunks', 0.061021224, u'brassiere', 0.060632449, u'punching_bag', 0.051116247]
+[u'maillot', 0.44410646, u'maillot', 0.42786473, u'balance_beam', 0.037483726, u'bathing_cap', 0.026516113, u'swimming_trunks', 0.012439283]

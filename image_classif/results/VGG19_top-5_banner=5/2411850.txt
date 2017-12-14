@@ -1,0 +1,6 @@
+[u'ocarina', 0.39905831, u'piggy_bank', 0.1275343, u'saltshaker', 0.1152551, u'maraca', 0.075730883, u'necklace', 0.047442004]
+[u'packet', 0.3403337, u'plastic_bag', 0.15589207, u'book_jacket', 0.038462661, u'street_sign', 0.035603099, u'toilet_tissue', 0.034445219]
+[u'loupe', 0.44502428, u'face_powder', 0.34580246, u'toilet_seat', 0.031435791, u'stethoscope', 0.015016483, u'oil_filter', 0.012058364]
+[u'bib', 0.13706549, u'diaper', 0.088534877, u'apron', 0.080083244, u'Christmas_stocking', 0.078268901, u'jersey', 0.071726963]
+[u'envelope', 0.37009233, u'packet', 0.092052922, u'toilet_tissue', 0.080579408, u'carton', 0.07523185, u'lotion', 0.034338996]
+[u'typewriter_keyboard', 0.18877588, u'sewing_machine', 0.13519964, u'space_bar', 0.088311069, u'switch', 0.072822072, u'mailbox', 0.06426084]

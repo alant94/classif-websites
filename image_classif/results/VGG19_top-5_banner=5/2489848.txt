@@ -1,0 +1,4 @@
+[u'black_grouse', 0.094830386, u'barn', 0.086148418, u'picket_fence', 0.063021697, u'ear', 0.059614565, u'fountain', 0.056454796]
+[u'hartebeest', 0.79593372, u'impala', 0.037369877, u'ibex', 0.032802362, u'kite', 0.025099192, u'gazelle', 0.019147048]
+[u'impala', 0.55894184, u'gazelle', 0.24952576, u'hartebeest', 0.029966757, u'bighorn', 0.024821669, u'warthog', 0.014014216]
+[u'torch', 0.65080792, u'ski', 0.12853393, u'caldron', 0.033704225, u'snowmobile', 0.03152528, u'bobsled', 0.026777927]

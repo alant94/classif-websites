@@ -1,0 +1,2 @@
+[u'lotion', 0.26465425, u'can_opener', 0.16427021, u'sunscreen', 0.056206021, u'paper_towel', 0.041032553, u'face_powder', 0.039463669]
+[u'vending_machine', 0.32643536, u'pop_bottle', 0.20050755, u'hair_spray', 0.16051745, u'grocery_store', 0.072547033, u'sunscreen', 0.044475909]

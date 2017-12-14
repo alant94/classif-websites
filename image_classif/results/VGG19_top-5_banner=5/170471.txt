@@ -1,0 +1,1 @@
+[u'spatula', 0.1425074, u'paintbrush', 0.064307034, u'rocking_chair', 0.053995751, u'shopping_basket', 0.051767226, u'plate_rack', 0.048326164]

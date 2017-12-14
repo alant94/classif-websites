@@ -1,0 +1,5 @@
+[u'lab_coat', 0.31341219, u'web_site', 0.12560554, u'Windsor_tie', 0.077130832, u'book_jacket', 0.043102276, u'stethoscope', 0.032838628]
+[u'croquet_ball', 0.21601711, u'bow', 0.10834529, u'swing', 0.049087681, u'harp', 0.044106588, u'chimpanzee', 0.022557281]
+[u'web_site', 0.73280513, u'envelope', 0.072689824, u'menu', 0.065488033, u'packet', 0.021910008, u'Band_Aid', 0.0071934108]
+[u'mousetrap', 0.31016651, u'plane', 0.075582266, u'joystick', 0.074735478, u'mouse', 0.073731519, u'book_jacket', 0.028785834]
+[u'lab_coat', 0.25677133, u'book_jacket', 0.064076677, u'web_site', 0.061292641, u'torch', 0.03250007, u'cleaver', 0.018706182]

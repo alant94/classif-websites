@@ -1,0 +1,5 @@
+[u'book_jacket', 0.61104566, u'packet', 0.13063124, u'comic_book', 0.044945363, u'web_site', 0.032309335, u'cassette', 0.020174578]
+[u'digital_clock', 0.22885148, u'prayer_rug', 0.1258187, u'maze', 0.099570982, u'doormat', 0.085996069, u'Windsor_tie', 0.051002808]
+[u'notebook', 0.048645377, u'television', 0.048414547, u'laptop', 0.038473275, u'bassoon', 0.028411735, u'web_site', 0.024927925]
+[u'hand_blower', 0.17130485, u'iron', 0.14868313, u'toilet_seat', 0.086598657, u'mouse', 0.045877319, u'spotlight', 0.042168528]
+[u'book_jacket', 0.25142869, u'balance_beam', 0.12210716, u'television', 0.031427793, u'bathing_cap', 0.030547641, u'screen', 0.021266203]

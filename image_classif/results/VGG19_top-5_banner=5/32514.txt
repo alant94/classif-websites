@@ -1,0 +1,2 @@
+[u'geyser', 0.234267, u'window_screen', 0.059878875, u'missile', 0.03427631, u'projectile', 0.024409724, u'space_shuttle', 0.018548125]
+[u'wire-haired_fox_terrier', 0.031932384, u'container_ship', 0.024022844, u'bookshop', 0.018585522, u'library', 0.018563936, u'Border_terrier', 0.018044474]

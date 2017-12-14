@@ -1,0 +1,5 @@
+[u'fountain', 0.16710788, u'spotlight', 0.05606658, u'mosquito_net', 0.043711007, u'punching_bag', 0.034093026, u'bubble', 0.030498354]
+[u'fur_coat', 0.99741483, u'Arabian_camel', 0.00096070714, u'trench_coat', 0.00023137855, u'cloak', 0.00019240638, u'obelisk', 0.00012886153]
+[u'fountain', 0.12494644, u'palace', 0.052107312, u'carousel', 0.044212505, u'triumphal_arch', 0.042915437, u'snowplow', 0.03897452]
+[u'stage', 0.2332478, u'cello', 0.080733918, u'assault_rifle', 0.067675114, u'violin', 0.063792311, u'microphone', 0.05150288]
+[u'fur_coat', 0.45212948, u'fountain', 0.35078013, u'pedestal', 0.082235858, u'Arabian_camel', 0.025340635, u'obelisk', 0.019649781]

@@ -1,0 +1,4 @@
+[u'electric_guitar', 0.7256934, u'banjo', 0.12365875, u'acoustic_guitar', 0.11715818, u'stage', 0.013684206, u'harmonica', 0.0038993994]
+[u'acoustic_guitar', 0.99994409, u'electric_guitar', 2.8952927e-05, u'banjo', 7.5745779e-06, u'bib', 2.4455876e-06, u'buckle', 2.4449275e-06]
+[u'wall_clock', 0.15927751, u'analog_clock', 0.11634003, u'car_wheel', 0.087223701, u'toilet_seat', 0.048639107, u'drum', 0.040887516]
+[u'acoustic_guitar', 0.89737004, u'cello', 0.030134981, u'stage', 0.022133704, u'electric_guitar', 0.012573515, u'violin', 0.0071398094]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.48507172, u'web_site', 0.19803083, u'tank', 0.084348872, u'aircraft_carrier', 0.044043567, u'half_track', 0.021771865]
+[u'solar_dish', 0.17769763, u'carton', 0.096563101, u'garbage_truck', 0.086801976, u'handkerchief', 0.070879392, u'harvester', 0.026567254]
+[u'church', 0.5214572, u'bell_cote', 0.1658798, u'monastery', 0.05929802, u'castle', 0.048778944, u'analog_clock', 0.029890286]

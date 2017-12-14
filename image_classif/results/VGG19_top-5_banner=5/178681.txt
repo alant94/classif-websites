@@ -1,0 +1,1 @@
+[u"potter's_wheel", 0.11870835, u'tub', 0.027889321, u'laptop', 0.0192047, u'toilet_seat', 0.01919483, u'sturgeon', 0.016680766]

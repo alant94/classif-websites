@@ -1,0 +1,2 @@
+[u'sarong', 0.37597182, u'velvet', 0.13711992, u'swimming_trunks', 0.13429105, u'stole', 0.085524037, u'sock', 0.021101585]
+[u'pencil_box', 0.10531519, u'fire_engine', 0.091579042, u'envelope', 0.067151338, u'tray', 0.049739193, u'web_site', 0.040844791]

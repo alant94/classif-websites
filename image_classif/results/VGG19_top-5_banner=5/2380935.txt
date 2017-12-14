@@ -1,0 +1,2 @@
+[u'sliding_door', 0.40151718, u'picket_fence', 0.11229994, u'window_shade', 0.038226884, u'web_site', 0.033152901, u'window_screen', 0.031054134]
+[u'nail', 0.32679558, u'screwdriver', 0.1492995, u"carpenter's_kit", 0.097519785, u'cleaver', 0.050779376, u'letter_opener', 0.034147255]

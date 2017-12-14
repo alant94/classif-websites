@@ -1,0 +1,8 @@
+[u'digital_clock', 0.1298147, u'digital_watch', 0.10192606, u'cash_machine', 0.035178863, u'screen', 0.027093133, u'barbershop', 0.026992397]
+[u'ski', 0.10481617, u'book_jacket', 0.10277712, u'picket_fence', 0.053080898, u'comic_book', 0.031648014, u'scoreboard', 0.030633816]
+[u'web_site', 0.39236197, u'book_jacket', 0.24533746, u'comic_book', 0.093734287, u'gasmask', 0.025456849, u'pickelhaube', 0.0183641]
+[u'digital_watch', 0.40368912, u'digital_clock', 0.16966301, u'cash_machine', 0.04351132, u'medicine_chest', 0.026637791, u'switch', 0.021630673]
+[u'nematode', 0.050517082, u'matchstick', 0.044013798, u'digital_clock', 0.022787102, u'spotlight', 0.020694554, u'lighter', 0.019424235]
+[u'nematode', 0.068622224, u'matchstick', 0.057613172, u'spotlight', 0.023501858, u'digital_clock', 0.022677472, u'lighter', 0.014839472]
+[u'digital_clock', 0.14274219, u'book_jacket', 0.075193919, u'digital_watch', 0.035427023, u'wine_bottle', 0.029530236, u'cash_machine', 0.029181566]
+[u'digital_watch', 0.19280776, u'digital_clock', 0.12649412, u'cash_machine', 0.08033672, u'monitor', 0.043642178, u'screen', 0.037321832]

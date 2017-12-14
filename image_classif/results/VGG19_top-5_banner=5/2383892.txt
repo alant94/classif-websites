@@ -1,0 +1,7 @@
+[u'pineapple', 0.85480446, u'banana', 0.018874018, u'jackfruit', 0.013861923, u'custard_apple', 0.011561577, u'ear', 0.0098324399]
+[u'switch', 0.13204224, u"carpenter's_kit", 0.10951553, u'oil_filter', 0.093802772, u'espresso_maker', 0.072650842, u'space_bar', 0.054339275]
+[u'refrigerator', 0.59506243, u'pop_bottle', 0.13272384, u'medicine_chest', 0.071919829, u'perfume', 0.025566664, u'lighter', 0.024985585]
+[u'neck_brace', 0.031440478, u'toilet_seat', 0.030192947, u'hook', 0.02376657, u'loupe', 0.022150271, u'spotlight', 0.018686047]
+[u'gas_pump', 0.36890107, u'garbage_truck', 0.073051117, u'thresher', 0.042447094, u'trailer_truck', 0.041703735, u'pay-phone', 0.038948413]
+[u'switch', 0.3491354, u'espresso_maker', 0.17362241, u'toaster', 0.1350138, u'radio', 0.11725952, u'rotisserie', 0.042984806]
+[u'face_powder', 0.16749683, u'binder', 0.054657485, u'doormat', 0.045292098, u'solar_dish', 0.031421475, u'matchstick', 0.02810272]

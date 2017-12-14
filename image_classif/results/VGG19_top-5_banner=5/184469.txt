@@ -1,0 +1,3 @@
+[u'book_jacket', 0.26817003, u'web_site', 0.12184961, u'digital_clock', 0.067491338, u'matchstick', 0.029747933, u'comic_book', 0.026497662]
+[u'suit', 0.5975678, u'Windsor_tie', 0.027045866, u'trench_coat', 0.023299078, u'abaya', 0.022486994, u'jean', 0.021385292]
+[u'book_jacket', 0.18426383, u'cinema', 0.18010835, u'comic_book', 0.11559431, u'barbershop', 0.074779592, u'menu', 0.036349766]

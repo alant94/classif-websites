@@ -1,0 +1,5 @@
+[u'park_bench', 0.3176612, u'worm_fence', 0.18957114, u'lakeside', 0.10562484, u'apiary', 0.040498439, u'boathouse', 0.021653904]
+[u'library', 0.78178608, u'bookshop', 0.069595024, u'sliding_door', 0.032842241, u'restaurant', 0.02131797, u'window_shade', 0.010709304]
+[u'vending_machine', 0.22551297, u'lotion', 0.11527086, u'wine_bottle', 0.098495692, u'medicine_chest', 0.096796617, u'perfume', 0.053545482]
+[u'gasmask', 0.22847949, u'oxygen_mask', 0.10559803, u'jersey', 0.089004584, u'web_site', 0.036330096, u'mask', 0.026561003]
+[u'boathouse', 0.22608191, u'suspension_bridge', 0.065727048, u'lakeside', 0.061748937, u'picket_fence', 0.048583411, u'barn', 0.045984861]

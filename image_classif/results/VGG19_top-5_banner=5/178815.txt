@@ -1,0 +1,6 @@
+[u'web_site', 0.16589855, u'Band_Aid', 0.10032666, u'sunscreen', 0.058026835, u'street_sign', 0.035142548, u'hair_spray', 0.029955521]
+[u'pill_bottle', 0.25267592, u'switch', 0.18479344, u'digital_watch', 0.087149747, u'whistle', 0.068116367, u'digital_clock', 0.056141343]
+[u'binder', 0.1383494, u'switch', 0.087991908, u'lighter', 0.086510152, u'perfume', 0.083621405, u'pencil_sharpener', 0.050663307]
+[u'street_sign', 0.56496352, u'cash_machine', 0.069370396, u'gas_pump', 0.031909559, u'scoreboard', 0.019486351, u'screen', 0.018204715]
+[u'medicine_chest', 0.29636124, u'window_screen', 0.18136477, u'screen', 0.076920927, u'binder', 0.07676322, u'monitor', 0.026102245]
+[u'screen', 0.58885813, u'oscilloscope', 0.19498795, u'television', 0.094214506, u'monitor', 0.089660034, u'digital_clock', 0.016029967]

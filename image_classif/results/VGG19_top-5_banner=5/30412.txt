@@ -1,0 +1,5 @@
+[u'barn', 0.16977973, u'church', 0.10459203, u'lakeside', 0.10197218, u'park_bench', 0.056973528, u'worm_fence', 0.039386168]
+[u'web_site', 0.85879087, u'menu', 0.054993205, u'oscilloscope', 0.0049744537, u'rule', 0.004491461, u'whistle', 0.0037498423]
+[u'analog_clock', 0.14358124, u'odometer', 0.10437682, u'digital_clock', 0.084756292, u'scoreboard', 0.034007154, u'combination_lock', 0.028180448]
+[u'menu', 0.9526341, u'crossword_puzzle', 0.028816454, u'brass', 0.0030089121, u'shower_curtain', 0.0029598996, u'binder', 0.0021286791]
+[u'web_site', 0.8603794, u'wig', 0.08901386, u'book_jacket', 0.01178723, u'hair_spray', 0.0062353108, u'vending_machine', 0.0050318087]

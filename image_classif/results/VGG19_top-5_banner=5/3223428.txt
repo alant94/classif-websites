@@ -1,0 +1,5 @@
+[u'remote_control', 0.079495281, u'mouse', 0.072180547, u'lighter', 0.070053056, u'pool_table', 0.055737901, u'iPod', 0.055633236]
+[u'ballpoint', 0.097141318, u'ski', 0.090133756, u'wall_clock', 0.086749308, u'iron', 0.04480955, u'clog', 0.036439255]
+[u'corkscrew', 0.11500608, u'warplane', 0.051299311, u'bow', 0.050997149, u'pole', 0.050024994, u'plow', 0.045468763]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'hoopskirt', 0.46252859, u'overskirt', 0.20318784, u'stole', 0.053168442, u'gown', 0.028745234, u'abaya', 0.028223682]

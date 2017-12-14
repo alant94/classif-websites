@@ -1,0 +1,4 @@
+[u'matchstick', 0.76919603, u'chime', 0.19402508, u'panpipe', 0.0077699637, u'spatula', 0.0055854307, u'safety_pin', 0.0052783447]
+[u'spotlight', 0.1136492, u'hand_blower', 0.091684237, u'microphone', 0.056004498, u'revolver', 0.037107412, u'cornet', 0.035130411]
+[u'ski', 0.3529582, u'bow', 0.21673097, u'puck', 0.045477223, u'cowboy_boot', 0.039072581, u'sock', 0.032714695]
+[u'comic_book', 0.74364418, u'book_jacket', 0.15930715, u'jigsaw_puzzle', 0.020300971, u'envelope', 0.0090604285, u'shower_curtain', 0.0090125566]

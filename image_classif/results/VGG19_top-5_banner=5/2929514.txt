@@ -1,0 +1,3 @@
+[u'menu', 0.61605561, u'book_jacket', 0.083149426, u'perfume', 0.054471988, u'packet', 0.039830826, u'throne', 0.028571334]
+[u'barber_chair', 0.36436462, u'barbershop', 0.18029033, u'perfume', 0.04682871, u'backpack', 0.037447501, u'football_helmet', 0.022917148]
+[u'horizontal_bar', 0.21816479, u'fur_coat', 0.17947286, u'parallel_bars', 0.089974396, u'gibbon', 0.039127085, u'spoonbill', 0.030993972]

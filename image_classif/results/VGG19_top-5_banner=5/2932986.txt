@@ -1,0 +1,2 @@
+[u'web_site', 0.18820293, u'nematode', 0.13722311, u'corkscrew', 0.08553157, u'hook', 0.057829417, u'analog_clock', 0.030589078]
+[u'lab_coat', 0.68125087, u'pajama', 0.13985728, u'beaker', 0.072883226, u'mosquito_net', 0.012858214, u'candle', 0.010938381]

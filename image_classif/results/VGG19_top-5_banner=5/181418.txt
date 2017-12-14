@@ -1,0 +1,2 @@
+[u'hair_slide', 0.2351748, u'maraca', 0.10221301, u'necklace', 0.054599348, u'buckle', 0.042757198, u'pencil_sharpener', 0.040458739]
+[u'reflex_camera', 0.59061086, u'tripod', 0.142344, u'binoculars', 0.08905112, u'power_drill', 0.033181697, u'assault_rifle', 0.023859182]

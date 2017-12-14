@@ -1,0 +1,7 @@
+[u'clog', 0.2579971, u'wooden_spoon', 0.085462891, u'scale', 0.085398614, u'barrel', 0.080614254, u'analog_clock', 0.054520484]
+[u'lakeside', 0.17637195, u'alp', 0.17225409, u'valley', 0.16343224, u'worm_fence', 0.052355826, u'maze', 0.044187132]
+[u'wine_bottle', 0.84683579, u'red_wine', 0.058496788, u'corkscrew', 0.021962462, u'beer_bottle', 0.017206704, u"carpenter's_kit", 0.017133916]
+[u'hamster', 0.56877863, u'weasel', 0.19814108, u'black-footed_ferret', 0.041771874, u'polecat', 0.021895446, u'bath_towel', 0.013043402]
+[u'red_wine', 0.8936131, u'goblet', 0.097793229, u'wine_bottle', 0.0042676986, u'beer_glass', 0.0032529822, u'cocktail_shaker', 0.00021536782]
+[u'mantis', 0.10853174, u'matchstick', 0.090731181, u'spindle', 0.044913627, u'wooden_spoon', 0.027289208, u'knot', 0.024736904]
+[u'shower_curtain', 0.076153897, u'apron', 0.070941754, u'Christmas_stocking', 0.051105004, u'umbrella', 0.035237376, u'kimono', 0.032071423]

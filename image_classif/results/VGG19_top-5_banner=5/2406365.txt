@@ -1,0 +1,6 @@
+[u'table_lamp', 0.19079956, u'lampshade', 0.14649019, u'beacon', 0.078252696, u'wall_clock', 0.049965512, u'torch', 0.028428212]
+[u'acoustic_guitar', 0.90045607, u'electric_guitar', 0.085576646, u'banjo', 0.0090954499, u'cello', 0.0019974296, u'violin', 0.0017770337]
+[u'lampshade', 0.48322901, u'table_lamp', 0.32098457, u'spotlight', 0.088574074, u'torch', 0.020788683, u'acoustic_guitar', 0.011714462]
+[u'butcher_shop', 0.20890315, u'shoe_shop', 0.094403513, u'grocery_store', 0.085826203, u'tobacco_shop', 0.059517525, u'barbershop', 0.035907801]
+[u'bannister', 0.10036189, u'harp', 0.083698623, u'organ', 0.07014057, u'chime', 0.036961257, u'electric_guitar', 0.035812497]
+[u'acoustic_guitar', 0.5269329, u'electric_guitar', 0.4330833, u'banjo', 0.034898374, u'pick', 0.0024872441, u'violin', 0.0005841307]

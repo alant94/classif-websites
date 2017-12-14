@@ -1,0 +1,8 @@
+[u'miniskirt', 0.1335053, u'shower_cap', 0.12368117, u'cowboy_hat', 0.10890058, u'feather_boa', 0.045494594, u'diaper', 0.038514134]
+[u'bathtub', 0.36167181, u'tub', 0.21155967, u'diaper', 0.19979626, u'swimming_trunks', 0.10916841, u'bath_towel', 0.041951321]
+[u'bathtub', 0.14893475, u'tub', 0.11087398, u'stethoscope', 0.039083138, u'bikini', 0.025154345, u'bow_tie', 0.024797756]
+[u'bubble', 0.2722114, u'lipstick', 0.12128458, u'bathtub', 0.11211386, u'tub', 0.083824262, u'teddy', 0.048018415]
+[u'book_jacket', 0.10673126, u'shower_curtain', 0.09920451, u'candle', 0.084966756, u'hair_spray', 0.055023704, u'web_site', 0.053308152]
+[u'digital_clock', 0.17505778, u'envelope', 0.15719137, u'tray', 0.048388205, u'screen', 0.04250212, u'quilt', 0.032666977]
+[u'binoculars', 0.10119233, u'stethoscope', 0.097708613, u'harmonica', 0.087124288, u'diaper', 0.053790659, u'nipple', 0.030983165]
+[u'diaper', 0.34161147, u'cradle', 0.036535673, u'bassinet', 0.031539392, u'groom', 0.03097757, u'stethoscope', 0.028647862]

@@ -1,0 +1,2 @@
+[u'flute', 0.43421274, u'stage', 0.2380572, u'bassoon', 0.0435462, u'microphone', 0.043020323, u'oboe', 0.037859831]
+[u'book_jacket', 0.11544637, u'street_sign', 0.028565511, u'comic_book', 0.026978137, u'web_site', 0.024105968, u'hair_spray', 0.020492787]

@@ -1,0 +1,4 @@
+[u'switch', 0.37866807, u'remote_control', 0.13068722, u'lighter', 0.053063039, u'digital_clock', 0.049818974, u'soap_dispenser', 0.031074075]
+[u'oil_filter', 0.27426368, u'screwdriver', 0.10332225, u'power_drill', 0.078001358, u'hand_blower', 0.068725854, u'microphone', 0.054945275]
+[u'cassette_player', 0.32042506, u'digital_clock', 0.087092288, u'CD_player', 0.085530691, u'tape_player', 0.08003632, u'space_heater', 0.071716115]
+[u'comic_book', 0.33130112, u'bookshop', 0.19644599, u'bookcase', 0.1879857, u'library', 0.07662373, u'refrigerator', 0.025029715]

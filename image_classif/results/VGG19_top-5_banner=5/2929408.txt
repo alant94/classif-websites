@@ -1,0 +1,1 @@
+[u'television', 0.31499794, u'lampshade', 0.11189026, u'spotlight', 0.098549008, u'monitor', 0.037267189, u'screen', 0.034517746]

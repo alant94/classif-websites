@@ -1,0 +1,1 @@
+[u'radio', 0.12940487, u'modem', 0.10902399, u'loudspeaker', 0.055891521, u'remote_control', 0.055596981, u'pencil_sharpener', 0.046144713]

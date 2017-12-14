@@ -1,0 +1,4 @@
+[u'web_site', 0.027446656, u'hair_slide', 0.026614517, u'envelope', 0.02628845, u'hook', 0.01859902, u'abaya', 0.017855125]
+[u'envelope', 0.070624277, u'dishwasher', 0.06730672, u'refrigerator', 0.040535152, u'wall_clock', 0.035435289, u'washer', 0.027845245]
+[u'wig', 0.13867593, u'hair_spray', 0.045128305, u'hand_blower', 0.038763076, u'web_site', 0.038117047, u'bathtub', 0.033146035]
+[u'wardrobe', 0.31443241, u'window_shade', 0.035696216, u'sliding_door', 0.033646394, u'medicine_chest', 0.030745512, u'refrigerator', 0.030614711]

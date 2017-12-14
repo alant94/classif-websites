@@ -1,0 +1,2 @@
+[u'book_jacket', 0.10605694, u'street_sign', 0.09669929, u'cinema', 0.075415172, u'balance_beam', 0.060245115, u'scoreboard', 0.058243819]
+[u'web_site', 0.097409159, u'envelope', 0.040788457, u'nematode', 0.029187195, u'loupe', 0.02356877, u'microphone', 0.020153554]

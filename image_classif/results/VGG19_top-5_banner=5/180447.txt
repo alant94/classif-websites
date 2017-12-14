@@ -1,0 +1,6 @@
+[u'web_site', 0.74963373, u'book_jacket', 0.018043434, u'jersey', 0.013377181, u'screen', 0.012137669, u'comic_book', 0.011011139]
+[u'pay-phone', 0.35155156, u'vending_machine', 0.15850765, u'traffic_light', 0.14507437, u'street_sign', 0.097018786, u'mailbox', 0.040454943]
+[u'microphone', 0.28440675, u'pay-phone', 0.10884406, u'power_drill', 0.05430359, u'reflex_camera', 0.0405102, u'assault_rifle', 0.035606947]
+[u'lab_coat', 0.4299072, u'barbershop', 0.046132009, u'pay-phone', 0.042249057, u'tobacco_shop', 0.039719686, u'cash_machine', 0.039213534]
+[u'web_site', 0.98342222, u'television', 0.0031891682, u'monitor', 0.0027031512, u'screen', 0.0014339655, u'cash_machine', 0.00092995522]
+[u'coil', 0.19732712, u'puck', 0.1722921, u'loupe', 0.08506868, u'analog_clock', 0.071412571, u'spotlight', 0.054632653]

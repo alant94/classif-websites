@@ -1,0 +1,6 @@
+[u'pick', 0.67792273, u'letter_opener', 0.046967179, u'puck', 0.043985333, u'buckle', 0.032379102, u'combination_lock', 0.031139063]
+[u'worm_fence', 0.1830695, u'lakeside', 0.04023803, u'bow', 0.038691428, u'water_buffalo', 0.028877361, u'stone_wall', 0.027928997]
+[u'hen', 0.16017784, u'ruffed_grouse', 0.12544741, u'cock', 0.10299359, u'echidna', 0.091973886, u'vulture', 0.071191028]
+[u'megalith', 0.12677588, u'stone_wall', 0.11291116, u'valley', 0.087011717, u'viaduct', 0.086011976, u'cliff', 0.064426452]
+[u'web_site', 0.67026776, u'book_jacket', 0.097861245, u'trilobite', 0.059233196, u'hen-of-the-woods', 0.027857678, u'platypus', 0.022454465]
+[u'ibex', 0.47361743, u'bighorn', 0.1606895, u'hartebeest', 0.092452653, u'impala', 0.068404369, u'ram', 0.067187846]

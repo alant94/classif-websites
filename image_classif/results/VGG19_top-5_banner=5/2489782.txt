@@ -1,0 +1,5 @@
+[u'wallaby', 0.088469267, u'wild_boar', 0.082095273, u'wood_rabbit', 0.075604901, u'hare', 0.059960574, u'book_jacket', 0.045345731]
+[u'standard_schnauzer', 0.18432619, u'Bouvier_des_Flandres', 0.14567989, u'Irish_wolfhound', 0.13984254, u'Scottish_deerhound', 0.047779009, u'briard', 0.035963375]
+[u'oxcart', 0.18339805, u'ox', 0.080487855, u'fountain', 0.042139154, u'triceratops', 0.03874623, u'Ibizan_hound', 0.029560637]
+[u'doormat', 0.47008467, u'manhole_cover', 0.37733373, u'bottlecap', 0.061384872, u'reel', 0.024720969, u'maze', 0.0094300192]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

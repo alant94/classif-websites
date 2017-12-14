@@ -1,0 +1,8 @@
+[u'matchstick', 0.24845791, u'Band_Aid', 0.18968876, u'packet', 0.1016504, u'envelope', 0.054907132, u'book_jacket', 0.037348296]
+[u'abaya', 0.16065125, u'vestment', 0.10372721, u'lighter', 0.091037132, u'punching_bag', 0.04439678, u'binder', 0.043467373]
+[u'bow', 0.19972077, u'muzzle', 0.18596965, u'assault_rifle', 0.1113689, u'stretcher', 0.05343648, u'tripod', 0.038281545]
+[u'alp', 0.62292564, u'book_jacket', 0.079460897, u'valley', 0.06431596, u'cliff', 0.062383253, u'volcano', 0.030255208]
+[u'nail', 0.051616225, u'shovel', 0.050204717, u'chain_saw', 0.042309076, u'butcher_shop', 0.037751909, u'chainlink_fence', 0.036221448]
+[u'chest', 0.58247256, u'wallet', 0.069882937, u'barrel', 0.058484402, u'mailbag', 0.040447149, u'scabbard', 0.039568715]
+[u'loupe', 0.40847039, u'ashcan', 0.15226857, u'Dutch_oven', 0.064522244, u'binoculars', 0.062523216, u'bucket', 0.039736297]
+[u'comic_book', 0.17236033, u'book_jacket', 0.092893146, u'chain_saw', 0.086272307, u'mountain_bike', 0.036096901, u'plastic_bag', 0.028814178]

@@ -1,0 +1,2 @@
+[u'wall_clock', 0.02910397, u'ballpoint', 0.013260433, u'envelope', 0.012803464, u'rule', 0.012077928, u'syringe', 0.011725497]
+[u'wall_clock', 0.02910397, u'ballpoint', 0.013260433, u'envelope', 0.012803464, u'rule', 0.012077928, u'syringe', 0.011725497]

@@ -1,0 +1,2 @@
+[u'hummingbird', 0.42963341, u'African_grey', 0.093102694, u'kite', 0.068484575, u'jacamar', 0.048388597, u'vulture', 0.036876719]
+[u'mousetrap', 0.14703214, u'envelope', 0.077471778, u'scale', 0.065799557, u'lighter', 0.062362861, u'matchstick', 0.060948327]

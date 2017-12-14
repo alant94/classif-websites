@@ -1,0 +1,6 @@
+[u'sandal', 0.45471895, u'Loafer', 0.29523084, u'clog', 0.073734403, u'holster', 0.030765578, u'purse', 0.021173969]
+[u'acoustic_guitar', 0.57760799, u'cello', 0.27243266, u'violin', 0.14518744, u'electric_guitar', 0.0026336371, u'banjo', 0.00026733879]
+[u'shower_curtain', 0.065414257, u'safe', 0.036303841, u'window_shade', 0.032692332, u'shoji', 0.028067404, u'desk', 0.021915589]
+[u'acoustic_guitar', 0.39762539, u'electric_fan', 0.03505284, u'electric_guitar', 0.024364104, u'vault', 0.019885032, u'running_shoe', 0.01959859]
+[u'German_shepherd', 0.076366112, u'Brabancon_griffon', 0.047616933, u'toy_terrier', 0.045845632, u'bloodhound', 0.038075749, u'English_foxhound', 0.033315003]
+[u'wall_clock', 0.49899027, u'analog_clock', 0.35550594, u'magnetic_compass', 0.079120263, u'sundial', 0.011849848, u'barometer', 0.011433367]

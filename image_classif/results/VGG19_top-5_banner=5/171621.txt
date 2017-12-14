@@ -1,0 +1,2 @@
+[u'digital_clock', 0.23267837, u'traffic_light', 0.034317035, u'beacon', 0.023767812, u'matchstick', 0.022507258, u'spotlight', 0.020604059]
+[u'lumbermill', 0.42816624, u'upright', 0.34746715, u'organ', 0.046327453, u'grand_piano', 0.015696405, u'bannister', 0.014563295]

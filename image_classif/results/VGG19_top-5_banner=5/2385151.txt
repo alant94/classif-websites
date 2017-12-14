@@ -1,0 +1,2 @@
+[u'beer_bottle', 0.36508343, u'pop_bottle', 0.13379174, u'thimble', 0.082910463, u'packet', 0.048005536, u'lotion', 0.030464774]
+[u'beer_bottle', 0.34638119, u'pop_bottle', 0.24123627, u'water_bottle', 0.1312754, u'hair_spray', 0.090207569, u'beer_glass', 0.046916462]

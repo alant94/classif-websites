@@ -1,0 +1,4 @@
+[u'puck', 0.2229441, u'ping-pong_ball', 0.078176223, u'bottlecap', 0.062068336, u'Band_Aid', 0.036362391, u'pill_bottle', 0.028791038]
+[u'web_site', 0.13724004, u'book_jacket', 0.098802693, u'Band_Aid', 0.090646781, u'packet', 0.086120024, u'comic_book', 0.074288398]
+[u'hatchet', 0.47222099, u'hook', 0.066503167, u'shield', 0.036667429, u'rule', 0.0330013, u'sunglass', 0.025904832]
+[u'shopping_basket', 0.3779223, u"carpenter's_kit", 0.19947627, u'whistle', 0.051729575, u'screwdriver', 0.042270932, u'plate_rack', 0.040260803]

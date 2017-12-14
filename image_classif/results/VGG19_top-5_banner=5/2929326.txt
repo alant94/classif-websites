@@ -1,0 +1,8 @@
+[u'picket_fence', 0.26604462, u'matchstick', 0.082429707, u'pinwheel', 0.067310728, u'worm_fence', 0.032040585, u'paintbrush', 0.031954136]
+[u'fur_coat', 0.1843747, u'Norwegian_elkhound', 0.045642599, u'borzoi', 0.032350898, u'Eskimo_dog', 0.02506708, u'Siberian_husky', 0.02388539]
+[u'space_shuttle', 0.27636898, u'iron', 0.037523501, u'bobsled', 0.028252732, u'screen', 0.024617197, u'dishwasher', 0.020742228]
+[u'suit', 0.56338197, u'Windsor_tie', 0.4065294, u'bow_tie', 0.0069666114, u'bolo_tie', 0.0019173096, u'wig', 0.0017680646]
+[u'bolo_tie', 0.23939627, u'sandal', 0.077407546, u'drum', 0.066203959, u'bow', 0.065221496, u'clog', 0.045241918]
+[u'cowboy_hat', 0.40101105, u'bolo_tie', 0.12921908, u'mask', 0.092765875, u'bonnet', 0.039379276, u'sandal', 0.035306357]
+[u'worm_fence', 0.18923138, u'picket_fence', 0.15075515, u'bow', 0.067665614, u'gazelle', 0.053508565, u'vizsla', 0.05109676]
+[u'Great_Dane', 0.11437926, u'crutch', 0.084047079, u'boxer', 0.035895243, u'vizsla', 0.032144129, u'Ibizan_hound', 0.029745024]

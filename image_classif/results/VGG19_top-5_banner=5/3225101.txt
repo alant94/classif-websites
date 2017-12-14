@@ -1,0 +1,7 @@
+[u'suspension_bridge', 0.20153993, u'traffic_light', 0.14311902, u'castle', 0.090671606, u'palace', 0.075152203, u'church', 0.056918934]
+[u'vestment', 0.76003873, u'altar', 0.09327855, u'gong', 0.04768502, u'throne', 0.024515614, u'chime', 0.0088460976]
+[u'suit', 0.13803692, u'bow_tie', 0.13029586, u'military_uniform', 0.05216394, u'seat_belt', 0.039909922, u'bolo_tie', 0.035625406]
+[u'stage', 0.22394091, u'cinema', 0.11124535, u'church', 0.10538688, u'academic_gown', 0.086124331, u'theater_curtain', 0.084590897]
+[u'confectionery', 0.45059755, u'jigsaw_puzzle', 0.17382805, u'toyshop', 0.053961493, u'grocery_store', 0.035808213, u'comic_book', 0.03086343]
+[u'wig', 0.23150784, u'lab_coat', 0.22139604, u'bolo_tie', 0.048508774, u'miniskirt', 0.038612064, u'hair_spray', 0.036854327]
+[u'groom', 0.71069896, u'gown', 0.062910751, u'altar', 0.040097609, u'hoopskirt', 0.039257899, u'grand_piano', 0.025044961]

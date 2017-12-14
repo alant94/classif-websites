@@ -1,0 +1,6 @@
+[u'missile', 0.35251251, u'projectile', 0.23488286, u'aircraft_carrier', 0.14522515, u'cannon', 0.07673876, u'crane', 0.051625416]
+[u'flagpole', 0.077962399, u'Christmas_stocking', 0.048534427, u'matchstick', 0.039114829, u'hummingbird', 0.038786147, u'macaw', 0.032658704]
+[u'pirate', 0.24629202, u'crane', 0.20337558, u'wreck', 0.15289456, u'drilling_platform', 0.12011697, u'dock', 0.051897556]
+[u'volcano', 0.21774255, u'torch', 0.12332773, u'fountain', 0.12055257, u'fire_screen', 0.075880736, u'snowplow', 0.055790298]
+[u'corn', 0.23818822, u'ear', 0.16888237, u'golf_ball', 0.044196554, u'pineapple', 0.04374858, u'mushroom', 0.02181885]
+[u'prison', 0.17761396, u'coil', 0.10993193, u'submarine', 0.10139866, u'vault', 0.094863862, u'cuirass', 0.087527134]

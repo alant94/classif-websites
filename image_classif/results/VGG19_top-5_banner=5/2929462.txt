@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.3582477, u'medicine_chest', 0.066628091, u'washbasin', 0.041748427, u'wall_clock', 0.029189106, u'tub', 0.029048646]
+[u'pill_bottle', 0.39747417, u'syringe', 0.081330962, u'hair_spray', 0.077534273, u'water_bottle', 0.076515153, u'face_powder', 0.05996792]
+[u'pill_bottle', 0.23004042, u'hair_spray', 0.15526411, u'face_powder', 0.1087483, u'water_bottle', 0.093528554, u'lotion', 0.083570167]
+[u'syringe', 0.19745414, u'pill_bottle', 0.19175857, u'face_powder', 0.05940358, u'water_bottle', 0.048787061, u'hair_spray', 0.045883331]
+[u'envelope', 0.27548486, u'safe', 0.082549751, u'binder', 0.078604959, u'carton', 0.062645547, u'wardrobe', 0.041532319]
+[u'envelope', 0.38229549, u'binder', 0.29484594, u'menu', 0.1685081, u'slide_rule', 0.075436257, u'handkerchief', 0.016571734]
+[u'Windsor_tie', 0.21287766, u'quilt', 0.10957554, u'digital_watch', 0.05123597, u'wool', 0.034917559, u'tray', 0.030266592]

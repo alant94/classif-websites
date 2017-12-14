@@ -1,0 +1,1 @@
+[u'digital_clock', 0.19600993, u'envelope', 0.083663724, u'carton', 0.075851232, u'shower_curtain', 0.054012798, u'studio_couch', 0.039692767]

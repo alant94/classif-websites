@@ -1,0 +1,3 @@
+[u'swimming_trunks', 0.18733951, u'maillot', 0.14487994, u'jersey', 0.1206136, u'brassiere', 0.11243656, u'bikini', 0.067747004]
+[u'dugong', 0.58295375, u'hog', 0.071749307, u'cougar', 0.034875065, u'sleeping_bag', 0.031387635, u'ice_bear', 0.018309783]
+[u'butcher_shop', 0.77474838, u'coral_fungus', 0.066808477, u'wooden_spoon', 0.047292415, u'ear', 0.013894731, u'corn', 0.010487504]

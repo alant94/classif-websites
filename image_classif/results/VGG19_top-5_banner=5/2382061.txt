@@ -1,0 +1,8 @@
+[u'pop_bottle', 0.42867026, u'beer_bottle', 0.29816189, u'water_bottle', 0.047278028, u'milk_can', 0.018694865, u'whiskey_jug', 0.016928507]
+[u'airship', 0.82879198, u'space_shuttle', 0.067491412, u'ski', 0.03344376, u'picket_fence', 0.0095062703, u'radio_telescope', 0.008016251]
+[u'beer_bottle', 0.25754994, u'water_bottle', 0.11850681, u'pop_bottle', 0.080870405, u'water_jug', 0.045628358, u'coffeepot', 0.040075887]
+[u'pop_bottle', 0.085654192, u'beer_bottle', 0.084207997, u'water_bottle', 0.083153866, u'water_jug', 0.052842837, u'apron', 0.048663836]
+[u'maze', 0.53439629, u'digital_watch', 0.067519911, u'jigsaw_puzzle', 0.059665613, u'bottlecap', 0.058774035, u'coil', 0.056937668]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'beer_bottle', 0.58559358, u'pop_bottle', 0.11183574, u'pill_bottle', 0.04794424, u'water_bottle', 0.046895556, u'whiskey_jug', 0.046561733]
+[u'beer_bottle', 0.29316503, u'pop_bottle', 0.25365245, u'water_bottle', 0.14300059, u'chocolate_sauce', 0.033675592, u'pill_bottle', 0.024037672]

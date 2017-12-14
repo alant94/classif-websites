@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.19617727, u'bathing_cap', 0.15238604, u'sunscreen', 0.06074724, u'tub', 0.052999292, u'bathtub', 0.041084655]
+[u'Italian_greyhound', 0.098367326, u'syringe', 0.057464577, u'hog', 0.056327377, u'Band_Aid', 0.051440347, u'toilet_tissue', 0.03229697]
+[u"carpenter's_kit", 0.18903196, u'swimming_trunks', 0.12205821, u'shower_curtain', 0.11211517, u'torch', 0.057067685, u'apron', 0.045332376]
+[u"jack-o'-lantern", 0.21817403, u'piggy_bank', 0.031658892, u'mouse', 0.026708739, u'iron', 0.024930468, u'plunger', 0.023747815]
+[u'shower_cap', 0.11847293, u'soap_dispenser', 0.080284521, u'lampshade', 0.039932579, u'bathtub', 0.03887454, u'toaster', 0.03840341]
+[u'bathtub', 0.094561018, u'power_drill', 0.087016709, u'soap_dispenser', 0.059198737, u'butternut_squash', 0.050813187, u'scale', 0.04312611]
+[u'swimming_trunks', 0.21612668, u'bathing_cap', 0.070021741, u'sleeping_bag', 0.04130863, u'vizsla', 0.032332115, u'bathtub', 0.02842205]
+[u'water_tower', 0.095346831, u'viaduct', 0.066655651, u'pier', 0.037527721, u'geyser', 0.037058104, u'pedestal', 0.035226841]

@@ -1,0 +1,4 @@
+[u'warplane', 0.12363738, u"carpenter's_kit", 0.063980967, u'hook', 0.058600865, u'nail', 0.043396726, u'king_penguin', 0.043219913]
+[u'puck', 0.51972103, u'book_jacket', 0.10003802, u'comic_book', 0.025873596, u'street_sign', 0.016609373, u'pick', 0.015584703]
+[u'digital_clock', 0.11349171, u'traffic_light', 0.071561091, u'laptop', 0.048336405, u'wallet', 0.046389297, u'doormat', 0.03900684]
+[u"carpenter's_kit", 0.29515967, u'screwdriver', 0.11393405, u'mousetrap', 0.1082554, u'matchstick', 0.094301276, u'rule', 0.052569974]

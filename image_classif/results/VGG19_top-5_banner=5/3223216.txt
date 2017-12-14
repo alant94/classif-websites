@@ -1,0 +1,3 @@
+[u'palace', 0.24363048, u'fountain', 0.13031277, u'monastery', 0.031656865, u'triumphal_arch', 0.027175393, u'castle', 0.018397842]
+[u'container_ship', 0.05944493, u'scoreboard', 0.059327867, u'mobile_home', 0.04188852, u'traffic_light', 0.040839657, u'cinema', 0.038013816]
+[u'barn', 0.41432858, u'wreck', 0.15335408, u'snowplow', 0.05824079, u'thatch', 0.038136531, u'picket_fence', 0.037329707]

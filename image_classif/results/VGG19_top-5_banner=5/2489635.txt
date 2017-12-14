@@ -1,0 +1,2 @@
+[u'stage', 0.31920609, u'scoreboard', 0.12066506, u'fountain', 0.071550131, u'coho', 0.033098772, u'bathing_cap', 0.026377006]
+[u'toilet_tissue', 0.22043611, u'paper_towel', 0.10658125, u'cassette', 0.099408284, u'jersey', 0.04496656, u'pick', 0.037871186]

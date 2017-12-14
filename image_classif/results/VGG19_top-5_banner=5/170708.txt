@@ -1,0 +1,8 @@
+[u'fountain', 0.38629782, u'picket_fence', 0.090032488, u'poncho', 0.086443298, u'worm_fence', 0.046855938, u'coral_fungus', 0.039700244]
+[u'apiary', 0.13492265, u'mailbox', 0.094371431, u'picket_fence', 0.060007155, u'stupa', 0.034428664, u'flagpole', 0.021086469]
+[u'stage', 0.44440678, u'fountain', 0.1529119, u'jigsaw_puzzle', 0.080385879, u'safety_pin', 0.025484784, u'theater_curtain', 0.020750789]
+[u'scoreboard', 0.64124483, u'jigsaw_puzzle', 0.05123971, u'solar_dish', 0.041641187, u'monitor', 0.039206415, u'fountain', 0.036752108]
+[u'ski', 0.91359895, u'rifle', 0.055932328, u'bow', 0.0034980651, u'paintbrush', 0.0030432376, u'reel', 0.0025962037]
+[u'king_penguin', 0.66939342, u'picket_fence', 0.060850896, u'ski', 0.035099536, u'bearskin', 0.0288046, u'military_uniform', 0.025148053]
+[u'bittern', 0.18051428, u'chime', 0.092247188, u'American_egret', 0.050089322, u'ear', 0.048364408, u'hook', 0.019135281]
+[u'corn', 0.19004971, u'king_penguin', 0.14293864, u'ear', 0.12982184, u'coral_fungus', 0.11507865, u'banana', 0.041479547]

@@ -1,0 +1,5 @@
+[u'refrigerator', 0.12820694, u'library', 0.079265058, u'shoe_shop', 0.066515036, u'bookshop', 0.047969565, u'dishwasher', 0.03166287]
+[u'panpipe', 0.088937804, u'buckeye', 0.052556992, u'torch', 0.046330258, u'hay', 0.027584076, u'broom', 0.026957802]
+[u'quilt', 0.20512119, u'pajama', 0.16060336, u'hoopskirt', 0.090159252, u'jigsaw_puzzle', 0.080541931, u'poncho', 0.041337121]
+[u'stage', 0.26707944, u'balance_beam', 0.068060227, u'swimming_trunks', 0.053760059, u'stretcher', 0.035142068, u'unicycle', 0.03121689]
+[u'night_snake', 0.19225696, u'hognose_snake', 0.13321722, u'diamondback', 0.065655842, u'rock_python', 0.039514363, u'ringneck_snake', 0.035819709]

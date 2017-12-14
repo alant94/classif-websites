@@ -1,0 +1,6 @@
+[u'oscilloscope', 0.55436832, u'candle', 0.060206074, u'screen', 0.052818291, u'matchstick', 0.050748616, u'digital_clock', 0.042747274]
+[u'tench', 0.99177611, u'barracouta', 0.0080521321, u'gar', 0.00014071118, u'coho', 1.6797927e-05, u'reel', 5.0661843e-06]
+[u'hair_slide', 0.20830555, u'can_opener', 0.13774827, u'hook', 0.10424027, u'corkscrew', 0.062516764, u'whistle', 0.044297468]
+[u'pop_bottle', 0.20614693, u'scoreboard', 0.13543396, u'projectile', 0.10692701, u'hair_spray', 0.098871328, u'punching_bag', 0.055303317]
+[u'nematode', 0.19905281, u"jack-o'-lantern", 0.13253909, u'analog_clock', 0.089729927, u'scorpion', 0.067180708, u'mantis', 0.056320731]
+[u'barber_chair', 0.30168125, u'knee_pad', 0.15288082, u'holster', 0.13854149, u'buckle', 0.074651912, u'mailbag', 0.043444023]

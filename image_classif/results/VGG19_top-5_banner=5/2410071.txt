@@ -1,0 +1,3 @@
+[u'jersey', 0.79699045, u'breastplate', 0.027285105, u'apron', 0.02025247, u'apiary', 0.012066437, u'hatchet', 0.011644881]
+[u'feather_boa', 0.39084446, u'bearskin', 0.089984283, u'miniskirt', 0.058581315, u'mask', 0.038135827, u'fur_coat', 0.028717415]
+[u'jean', 0.1563559, u'unicycle', 0.081722289, u'jersey', 0.072851174, u'sweatshirt', 0.057403233, u'clog', 0.050375476]

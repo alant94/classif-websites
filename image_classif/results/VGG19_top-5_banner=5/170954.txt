@@ -1,0 +1,1 @@
+[u'balance_beam', 0.14827533, u'bow', 0.12651421, u'horizontal_bar', 0.09959995, u'parallel_bars', 0.093720175, u'broom', 0.052438837]

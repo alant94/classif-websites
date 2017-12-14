@@ -1,0 +1,4 @@
+[u'altar', 0.19986804, u'candle', 0.10084636, u'mailbox', 0.039604116, u'space_shuttle', 0.02530493, u'refrigerator', 0.024236549]
+[u'steel_drum', 0.40726703, u'marimba', 0.17546466, u'barbershop', 0.031419769, u'turnstile', 0.020691257, u'power_drill', 0.014879319]
+[u'iron', 0.36552677, u'airship', 0.11495045, u'spotlight', 0.070543356, u'lycaenid', 0.066929571, u'toilet_seat', 0.050613973]
+[u'book_jacket', 0.11287468, u'screwdriver', 0.080448829, u'web_site', 0.053260617, u"carpenter's_kit", 0.031968199, u'cleaver', 0.025507769]

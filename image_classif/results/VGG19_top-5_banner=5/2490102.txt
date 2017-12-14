@@ -1,0 +1,7 @@
+[u'screwdriver', 0.20562491, u'nail', 0.15993845, u"carpenter's_kit", 0.13793553, u'screw', 0.080648221, u'hammer', 0.079839185]
+[u'crate', 0.29791164, u'envelope', 0.17359258, u'book_jacket', 0.11420877, u'packet', 0.081046104, u'carton', 0.074292973]
+[u'restaurant', 0.45876178, u'dining_table', 0.39569694, u'library', 0.021889795, u'bakery', 0.0093436902, u'china_cabinet', 0.0061880853]
+[u'book_jacket', 0.37077606, u'bison', 0.35889173, u'llama', 0.028551452, u'ox', 0.018175697, u'web_site', 0.017876357]
+[u'book_jacket', 0.13030645, u'abaya', 0.078000404, u'megalith', 0.073175155, u'pedestal', 0.052993704, u'hook', 0.046236239]
+[u'carton', 0.79427946, u'book_jacket', 0.087623872, u'envelope', 0.073449485, u'crate', 0.013099551, u'menu', 0.0042071887]
+[u'book_jacket', 0.21817952, u'mortarboard', 0.055897091, u'boathouse', 0.028728582, u'carton', 0.022528976, u'bell_cote', 0.020833185]

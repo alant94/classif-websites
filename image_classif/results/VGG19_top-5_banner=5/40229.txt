@@ -1,0 +1,1 @@
+[u'dumbbell', 0.10671449, u'sliding_door', 0.051156439, u'rocking_chair', 0.047824886, u'miniskirt', 0.041528143, u'horizontal_bar', 0.033099603]

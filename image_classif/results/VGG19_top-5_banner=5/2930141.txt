@@ -1,0 +1,3 @@
+[u'harvestman', 0.14381164, u'envelope', 0.13237385, u'mousetrap', 0.11952801, u'walking_stick', 0.10505212, u'umbrella', 0.054492809]
+[u'vestment', 0.55723304, u'lumbermill', 0.081971683, u'throne', 0.029141286, u'shovel', 0.0191653, u'barrow', 0.014401061]
+[u'loupe', 0.21974461, u'lemon', 0.099107318, u'face_powder', 0.069084473, u'bottlecap', 0.064872742, u'soup_bowl', 0.055226326]

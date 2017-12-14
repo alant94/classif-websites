@@ -1,0 +1,1 @@
+[u'flagpole', 0.72027278, u'pole', 0.041290153, u'street_sign', 0.024389062, u'mailbox', 0.021578785, u'pinwheel', 0.014003103]

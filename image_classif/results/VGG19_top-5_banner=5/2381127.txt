@@ -1,0 +1,6 @@
+[u'hook', 0.14010374, u'loupe', 0.13867441, u'nematode', 0.05927762, u'whistle', 0.030183204, u'spotlight', 0.02612024]
+[u'pill_bottle', 0.24170734, u'bucket', 0.23383665, u'sunscreen', 0.11389051, u'ashcan', 0.11202861, u'face_powder', 0.069426738]
+[u'plate_rack', 0.55037463, u'dishwasher', 0.10245445, u'photocopier', 0.0940869, u'folding_chair', 0.015943458, u'wardrobe', 0.013857446]
+[u'window_shade', 0.047812458, u'photocopier', 0.030643778, u'redshank', 0.020473072, u'envelope', 0.020136276, u'wall_clock', 0.019583957]
+[u'screw', 0.36621234, u'nail', 0.27985308, u'barbell', 0.1539156, u'dumbbell', 0.070626073, u'hook', 0.023145175]
+[u'window_shade', 0.056484867, u'redshank', 0.02474441, u'puck', 0.021656223, u'envelope', 0.016712602, u'wall_clock', 0.016381886]

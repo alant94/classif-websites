@@ -1,0 +1,5 @@
+[u'web_site', 0.87286979, u'vending_machine', 0.042013824, u'screen', 0.0061953426, u'comic_book', 0.0056181392, u'hand-held_computer', 0.0055986326]
+[u'web_site', 0.14426945, u'envelope', 0.059236359, u'oil_filter', 0.022651071, u'loupe', 0.018838143, u'can_opener', 0.018150195]
+[u'sewing_machine', 0.98605913, u'binder', 0.0068838149, u'toilet_seat', 0.00029517419, u'rifle', 0.0002731368, u'toilet_tissue', 0.0002302604]
+[u'nematode', 0.48051929, u'analog_clock', 0.15903434, u'hook', 0.077420495, u'oscilloscope', 0.018119507, u'knot', 0.017555766]
+[u'web_site', 0.31755453, u'combination_lock', 0.13591804, u'hook', 0.055485424, u'nematode', 0.048307311, u'analog_clock', 0.043232989]

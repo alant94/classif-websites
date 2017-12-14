@@ -1,0 +1,4 @@
+[u'Border_collie', 0.40213904, u'collie', 0.1883036, u'Cardigan', 0.15567431, u'Shetland_sheepdog', 0.039771315, u'book_jacket', 0.014965177]
+[u'crane', 0.15131046, u'rule', 0.061836217, u'nail', 0.055553194, u'hook', 0.055538945, u'tripod', 0.044639483]
+[u'hook', 0.19452299, u"carpenter's_kit", 0.12202827, u'safety_pin', 0.093528993, u'plate_rack', 0.062044512, u'screwdriver', 0.046845581]
+[u'Walker_hound', 0.41625938, u'English_foxhound', 0.23013252, u'basset', 0.20525958, u'beagle', 0.074098729, u'bloodhound', 0.020417767]

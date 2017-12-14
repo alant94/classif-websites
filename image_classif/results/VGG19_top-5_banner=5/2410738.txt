@@ -1,0 +1,5 @@
+[u'web_site', 0.27859539, u'book_jacket', 0.1485116, u'envelope', 0.12522572, u'matchstick', 0.022596138, u'Band_Aid', 0.01549613]
+[u'iron', 0.5284059, u'clog', 0.12317909, u'ski', 0.10122256, u'vase', 0.034111127, u'wardrobe', 0.024597295]
+[u'altar', 0.56158072, u'church', 0.25419277, u'gondola', 0.03987921, u'organ', 0.028920118, u'vault', 0.017533297]
+[u'vase', 0.14090943, u'wine_bottle', 0.090271182, u'hourglass', 0.069671854, u'beer_glass', 0.068972014, u'candle', 0.060648855]
+[u'gas_pump', 0.12935111, u'ski', 0.09876325, u'sliding_door', 0.052452236, u'minibus', 0.048074618, u'wardrobe', 0.041632224]

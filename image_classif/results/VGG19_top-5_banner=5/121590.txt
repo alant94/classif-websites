@@ -1,0 +1,4 @@
+[u'doormat', 0.20413512, u'plate_rack', 0.13161165, u'rule', 0.080730192, u"carpenter's_kit", 0.065141335, u'digital_clock', 0.0538374]
+[u'digital_clock', 0.55582404, u'street_sign', 0.19592631, u'scoreboard', 0.061515838, u'traffic_light', 0.013148132, u'digital_watch', 0.0081693083]
+[u'hook', 0.1408827, u'bow', 0.11228154, u'binder', 0.068997972, u'crane', 0.066327341, u'banjo', 0.036703322]
+[u'screen', 0.37111205, u'monitor', 0.098629154, u'fire_screen', 0.085589707, u'television', 0.079844981, u'book_jacket', 0.051596109]

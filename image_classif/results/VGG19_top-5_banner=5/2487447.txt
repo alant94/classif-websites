@@ -1,0 +1,5 @@
+[u'scoreboard', 0.12532806, u'street_sign', 0.12446452, u'book_jacket', 0.11239693, u'cash_machine', 0.053259674, u'hair_spray', 0.042838924]
+[u'binder', 0.11576814, u'tray', 0.098982178, u'refrigerator', 0.098501317, u'envelope', 0.080880404, u'solar_dish', 0.062865347]
+[u'hammerhead', 0.19364777, u'tiger_shark', 0.13996668, u'coho', 0.086635448, u'stingray', 0.0511581, u'book_jacket', 0.042356767]
+[u'African_chameleon', 0.362661, u'triceratops', 0.086682193, u'weevil', 0.057643145, u'terrapin', 0.044910558, u'armadillo', 0.03877845]
+[u'speedboat', 0.35375965, u'lifeboat', 0.22100461, u'dock', 0.14368938, u'fireboat', 0.048340369, u'catamaran', 0.034989286]

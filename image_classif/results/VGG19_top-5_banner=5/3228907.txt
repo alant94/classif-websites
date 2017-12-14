@@ -1,0 +1,1 @@
+[u'beacon', 0.10015066, u'torch', 0.09803801, u'street_sign', 0.083553337, u'balance_beam', 0.053409331, u'bell_cote', 0.033587791]

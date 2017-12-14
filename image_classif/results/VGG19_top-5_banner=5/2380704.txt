@@ -1,0 +1,5 @@
+[u'water_tower', 0.61832565, u'cinema', 0.14269663, u'missile', 0.041858379, u'projectile', 0.028681373, u'freight_car', 0.02729021]
+[u'picket_fence', 0.34616271, u'matchstick', 0.05267705, u'bannister', 0.047448993, u'digital_clock', 0.046201531, u'book_jacket', 0.04310187]
+[u'menu', 0.40747628, u'web_site', 0.14345059, u'book_jacket', 0.058115117, u'packet', 0.046238501, u'screen', 0.026851278]
+[u'lighter', 0.14552683, u'digital_clock', 0.13322745, u'binder', 0.093628764, u'tray', 0.092564955, u'wallet', 0.049838327]
+[u'Band_Aid', 0.14471176, u'oil_filter', 0.10346109, u'book_jacket', 0.09886241, u'loupe', 0.089693561, u'binder', 0.069155976]

@@ -1,0 +1,5 @@
+[u'sleeping_bag', 0.31816551, u'mailbag', 0.19295101, u'velvet', 0.14237671, u'wool', 0.042047039, u'studio_couch', 0.041451454]
+[u'running_shoe', 0.98667997, u'backpack', 0.0068851341, u'mailbag', 0.0014019437, u'sleeping_bag', 0.00067665929, u'neck_brace', 0.00042982094]
+[u'running_shoe', 0.76154584, u'mailbag', 0.079693288, u'backpack', 0.075884923, u'sandal', 0.017275168, u'purse', 0.01547231]
+[u'cowboy_boot', 0.67480475, u'clog', 0.21639217, u'Loafer', 0.038762622, u'sandal', 0.032476768, u'shoe_shop', 0.010547344]
+[u'Loafer', 0.4638848, u'clog', 0.2879678, u'running_shoe', 0.079770014, u'sandal', 0.0793005, u'cowboy_boot', 0.07719066]

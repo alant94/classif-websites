@@ -1,0 +1,6 @@
+[u'comic_book', 0.77715248, u'refrigerator', 0.03186975, u'toyshop', 0.026300834, u'slot', 0.023946131, u'laptop', 0.010913434]
+[u'parachute', 0.62898129, u'balloon', 0.23672205, u'maypole', 0.024873013, u'umbrella', 0.022689963, u'spider_web', 0.020826843]
+[u'mask', 0.3558076, u'comic_book', 0.20855621, u'shield', 0.068881787, u'lighter', 0.0553618, u'pencil_box', 0.026391406]
+[u'screwdriver', 0.16105953, u'syringe', 0.062122382, u'chime', 0.060963545, u"carpenter's_kit", 0.044871543, u'matchstick', 0.042301428]
+[u"potter's_wheel", 0.14380009, u'candle', 0.060550705, u'table_lamp', 0.044504538, u'hourglass', 0.040560216, u'goblet', 0.036543783]
+[u'grand_piano', 0.25327531, u'marimba', 0.23016047, u'upright', 0.064204849, u'steel_drum', 0.03153779, u'sax', 0.024896061]

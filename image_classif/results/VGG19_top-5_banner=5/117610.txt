@@ -1,0 +1,3 @@
+[u'Egyptian_cat', 0.50452214, u'Siamese_cat', 0.36727074, u'tabby', 0.036104694, u'tiger_cat', 0.029934838, u'window_screen', 0.024342561]
+[u'analog_clock', 0.078695439, u'hook', 0.050600816, u'corkscrew', 0.050015498, u'rule', 0.044964157, u'switch', 0.04352624]
+[u'guillotine', 0.26702932, u'tripod', 0.15523098, u'chime', 0.10499718, u'folding_chair', 0.069114894, u'swing', 0.058631908]

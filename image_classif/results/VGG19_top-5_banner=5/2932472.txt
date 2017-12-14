@@ -1,0 +1,2 @@
+[u'rule', 0.11908162, u'switch', 0.093137056, u'screwdriver', 0.042010237, u'dumbbell', 0.03587291, u'matchstick', 0.034015685]
+[u'stage', 0.31301144, u'cinema', 0.24407969, u'marimba', 0.046833497, u'theater_curtain', 0.038297947, u'scoreboard', 0.016898362]

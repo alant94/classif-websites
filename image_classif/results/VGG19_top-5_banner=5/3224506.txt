@@ -1,0 +1,6 @@
+[u'book_jacket', 0.15209454, u'analog_clock', 0.058677278, u'crane', 0.035040572, u'maypole', 0.034320775, u'street_sign', 0.027157698]
+[u'web_site', 0.1408416, u'sunglass', 0.0394862, u'bathing_cap', 0.030892534, u'hand_blower', 0.029848771, u'sunglasses', 0.029045785]
+[u'envelope', 0.33443055, u'web_site', 0.10681017, u'hand_blower', 0.020113874, u'binder', 0.014502187, u'can_opener', 0.014429417]
+[u'Band_Aid', 0.17167524, u'digital_clock', 0.07583072, u'envelope', 0.063903667, u'lighter', 0.040231783, u'beacon', 0.024497127]
+[u'iron', 0.080740184, u'airship', 0.077091254, u'can_opener', 0.053890225, u'envelope', 0.044621423, u'packet', 0.043896694]
+[u'envelope', 0.062043823, u'web_site', 0.057942856, u'hand_blower', 0.015518983, u'hatchet', 0.014908531, u'can_opener', 0.014744052]

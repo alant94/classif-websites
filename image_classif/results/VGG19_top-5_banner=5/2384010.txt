@@ -1,0 +1,8 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'wok', 0.71074611, u'frying_pan', 0.15745997, u'waffle_iron', 0.027418314, u'scale', 0.013652266, u'hot_pot', 0.0124564]
+[u'digital_clock', 0.38800275, u'maze', 0.069801874, u'screen', 0.033068463, u'scoreboard', 0.030210091, u'web_site', 0.029829556]
+[u'bottlecap', 0.30788356, u'beer_bottle', 0.10906123, u'analog_clock', 0.080428667, u'stopwatch', 0.043979201, u'puck', 0.02773699]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.11987489, u'web_site', 0.10894632, u'perfume', 0.090775169, u'traffic_light', 0.063592441, u'envelope', 0.054343928]
+[u'barrel', 0.99959415, u'drum', 0.0001119789, u'chest', 0.00010819038, u'acoustic_guitar', 2.8366294e-05, u'wine_bottle', 1.8165874e-05]

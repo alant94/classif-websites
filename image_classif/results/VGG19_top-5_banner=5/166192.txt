@@ -1,0 +1,2 @@
+[u'hourglass', 0.023674281, u'cleaver', 0.017330892, u'envelope', 0.017108394, u'can_opener', 0.015160609, u'airship', 0.014866337]
+[u'web_site', 0.046060096, u'seashore', 0.035115022, u'envelope', 0.019892031, u'window_shade', 0.015185866, u'sandbar', 0.014187003]

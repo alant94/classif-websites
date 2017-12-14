@@ -1,0 +1,2 @@
+[u'wig', 0.92370433, u'feather_boa', 0.062156525, u'mask', 0.0029406801, u'bonnet', 0.00084744184, u'wool', 0.00082534511]
+[u'balance_beam', 0.088055909, u'tricycle', 0.06688197, u'web_site', 0.037940953, u'book_jacket', 0.03279449, u'bow_tie', 0.031884406]

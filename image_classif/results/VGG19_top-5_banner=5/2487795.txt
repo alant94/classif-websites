@@ -1,0 +1,2 @@
+[u'web_site', 0.56206208, u'envelope', 0.180731, u'shopping_basket', 0.055999335, u'broom', 0.021982661, u'digital_clock', 0.015887637]
+[u'fountain', 0.27831382, u'padlock', 0.069154218, u'book_jacket', 0.064499892, u'ashcan', 0.035154827, u'picket_fence', 0.033243414]

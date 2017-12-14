@@ -1,0 +1,8 @@
+[u'padlock', 0.2333799, u'pop_bottle', 0.14180107, u'beer_bottle', 0.068126053, u'mailbox', 0.054693982, u'barrel', 0.04424192]
+[u'cinema', 0.39732239, u'slot', 0.19739766, u'tobacco_shop', 0.08675468, u'confectionery', 0.054297298, u'comic_book', 0.041046698]
+[u'book_jacket', 0.58755624, u'comic_book', 0.20460072, u'jigsaw_puzzle', 0.13050897, u'toyshop', 0.0090725841, u'altar', 0.0076357699]
+[u'palace', 0.32196531, u'monastery', 0.078190051, u'castle', 0.075960517, u'altar', 0.058072455, u'cinema', 0.054363728]
+[u'mask', 0.89696199, u'toyshop', 0.06056904, u'clog', 0.019173164, u'totem_pole', 0.0059817825, u'saltshaker', 0.0041233283]
+[u'orange', 0.26939249, u'lemon', 0.18883206, u'pomegranate', 0.18190499, u'chainlink_fence', 0.051677156, u'traffic_light', 0.029259169]
+[u'slot', 0.18556562, u'wall_clock', 0.076604754, u'packet', 0.057073396, u'balloon', 0.053518817, u'comic_book', 0.041549489]
+[u'comic_book', 0.59305501, u'book_jacket', 0.15076958, u'bell_cote', 0.03538179, u'jersey', 0.034683812, u'cinema', 0.016374821]

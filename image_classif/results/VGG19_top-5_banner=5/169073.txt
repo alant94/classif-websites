@@ -1,0 +1,2 @@
+[u'restaurant', 0.25281104, u'bakery', 0.2058091, u'grocery_store', 0.08797206, u'butcher_shop', 0.047984831, u'candle', 0.046184909]
+[u'television', 0.20111315, u'monitor', 0.11331316, u'pay-phone', 0.087502025, u'screen', 0.052162692, u'cash_machine', 0.050031666]

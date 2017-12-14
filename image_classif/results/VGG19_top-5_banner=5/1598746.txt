@@ -1,0 +1,8 @@
+[u'printer', 0.048037831, u'projector', 0.046368193, u'crutch', 0.04325141, u'folding_chair', 0.041992065, u'spatula', 0.030921001]
+[u'mask', 0.53054053, u'comic_book', 0.10081566, u'gasmask', 0.052218698, u'toilet_seat', 0.050694752, u'sandal', 0.033447608]
+[u'miniskirt', 0.058759898, u'umbrella', 0.052064642, u'pajama', 0.049569778, u'brassiere', 0.04584888, u'bonnet', 0.034545798]
+[u'lipstick', 0.13741799, u'hair_spray', 0.086771481, u'lotion', 0.069414936, u'hamper', 0.065249048, u'shoe_shop', 0.056497321]
+[u'breastplate', 0.51505697, u'cuirass', 0.1897874, u'oxygen_mask', 0.061667323, u'gasmask', 0.040980257, u'bulletproof_vest', 0.021026962]
+[u'necklace', 0.19010991, u'swing', 0.16179951, u'chain', 0.14737409, u'purse', 0.09788236, u'hook', 0.055983458]
+[u'miniskirt', 0.42290509, u'horizontal_bar', 0.045444276, u'maillot', 0.032364938, u'unicycle', 0.023129173, u'pole', 0.019816201]
+[u'hand_blower', 0.13278903, u'maillot', 0.10313265, u'maillot', 0.060661495, u'hair_spray', 0.058126416, u'notebook', 0.055990305]

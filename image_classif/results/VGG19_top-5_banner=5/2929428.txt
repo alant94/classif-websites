@@ -1,0 +1,1 @@
+[u'dock', 0.56618202, u'gondola', 0.11971948, u'pier', 0.0851079, u'lakeside', 0.038309921, u'steel_arch_bridge', 0.023990018]

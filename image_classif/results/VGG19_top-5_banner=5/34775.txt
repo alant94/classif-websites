@@ -1,0 +1,6 @@
+[u'Egyptian_cat', 0.86865437, u'tabby', 0.050659683, u'tiger_cat', 0.015588594, u'fox_squirrel', 0.011089457, u'lynx', 0.010108136]
+[u'Chihuahua', 0.19724418, u'macaque', 0.10346133, u'hippopotamus', 0.077785559, u'hog', 0.076979294, u'hen', 0.074694507]
+[u'butcher_shop', 0.060117491, u'window_shade', 0.055561505, u'hamster', 0.039084818, u'triceratops', 0.038477175, u'gyromitra', 0.030564306]
+[u'Egyptian_cat', 0.38812587, u'wood_rabbit', 0.13425121, u'Mexican_hairless', 0.060141776, u'tabby', 0.036748506, u'Scotch_terrier', 0.02851969]
+[u'menu', 0.74712431, u'envelope', 0.1328271, u'handkerchief', 0.027671255, u'web_site', 0.022028504, u'shower_curtain', 0.017625391]
+[u'hook', 0.19662456, u'pitcher', 0.12932196, u'tray', 0.12721105, u'cup', 0.049271785, u'ladle', 0.044833239]

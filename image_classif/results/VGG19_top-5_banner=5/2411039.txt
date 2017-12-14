@@ -1,0 +1,7 @@
+[u'envelope', 0.32809767, u'binder', 0.041200045, u'cleaver', 0.022356549, u'digital_clock', 0.012951607, u'letter_opener', 0.010986531]
+[u'pick', 0.50979531, u'ski', 0.15345389, u'airship', 0.088067546, u'paddle', 0.039067104, u'hair_slide', 0.025135756]
+[u'ballpoint', 0.29032648, u'chime', 0.20947979, u'wall_clock', 0.1043512, u'letter_opener', 0.047770679, u'bow', 0.032670263]
+[u'digital_clock', 0.66408014, u'digital_watch', 0.11014143, u'packet', 0.032372072, u'rubber_eraser', 0.02557442, u'whistle', 0.025460118]
+[u'web_site', 0.98870426, u'oscilloscope', 0.0028387643, u'desktop_computer', 0.0010101087, u'screen', 0.0010060344, u'notebook', 0.00065879297]
+[u'crossword_puzzle', 0.18987519, u'digital_clock', 0.12621737, u'web_site', 0.054321349, u'envelope', 0.038591988, u'wool', 0.032852512]
+[u'patio', 0.35312772, u'pot', 0.31129369, u'brass', 0.11913442, u'greenhouse', 0.056208391, u'library', 0.029407572]

@@ -1,0 +1,1 @@
+[u'Madagascar_cat', 0.1210365, u'indri', 0.10187116, u'ski', 0.050477803, u'chain_saw', 0.031006964, u'macaque', 0.027869407]

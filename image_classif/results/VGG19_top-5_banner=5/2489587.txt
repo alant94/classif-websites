@@ -1,0 +1,4 @@
+[u'ski', 0.62929028, u'chain', 0.056986336, u'bow', 0.050242428, u'mountain_bike', 0.039284084, u'dogsled', 0.019536622]
+[u'lipstick', 0.18138596, u'screw', 0.084868565, u'whistle', 0.083349697, u'maraca', 0.052326739, u'ballpoint', 0.051827092]
+[u'book_jacket', 0.38372764, u'comic_book', 0.33966926, u'bow', 0.043391749, u'puck', 0.035386652, u'ski', 0.031199884]
+[u'running_shoe', 0.52320665, u'sandal', 0.33553824, u'crash_helmet', 0.077683598, u'neck_brace', 0.024275383, u'clog', 0.0097829187]

@@ -1,0 +1,2 @@
+[u'ski', 0.091731369, u'wine_bottle', 0.076535814, u'wooden_spoon', 0.067332059, u'shoe_shop', 0.052847952, u'screwdriver', 0.042167522]
+[u'swab', 0.44518313, u'coral_fungus', 0.27994409, u'matchstick', 0.10448592, u'picket_fence', 0.041711524, u'fountain', 0.014785941]

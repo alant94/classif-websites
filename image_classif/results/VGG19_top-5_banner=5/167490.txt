@@ -1,0 +1,1 @@
+[u'magnetic_compass', 0.41725841, u'book_jacket', 0.082733303, u'barometer', 0.058979332, u'puck', 0.053147554, u'whiskey_jug', 0.044069652]

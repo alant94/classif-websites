@@ -1,0 +1,2 @@
+[u'palace', 0.391132, u'triumphal_arch', 0.1699837, u'obelisk', 0.067501642, u'mosque', 0.050568014, u'airliner', 0.036235426]
+[u'goblet', 0.38851044, u'red_wine', 0.21991365, u'wine_bottle', 0.10134919, u'beer_glass', 0.073878676, u'eggnog', 0.049873289]

@@ -1,0 +1,4 @@
+[u'doormat', 0.39024505, u'mitten', 0.10000496, u'Band_Aid', 0.045568824, u'clog', 0.021936163, u'starfish', 0.019205429]
+[u'nail', 0.26440552, u'chiton', 0.1141917, u'screw', 0.082225196, u'sea_urchin', 0.056257054, u'acorn', 0.023165548]
+[u'sea_cucumber', 0.36911801, u'mitten', 0.16431674, u'Band_Aid', 0.099853605, u'clog', 0.085935406, u'doormat', 0.052832406]
+[u'packet', 0.78522092, u'paintbrush', 0.049365181, u'lotion', 0.0091453092, u'envelope', 0.0081848353, u'perfume', 0.0074417237]

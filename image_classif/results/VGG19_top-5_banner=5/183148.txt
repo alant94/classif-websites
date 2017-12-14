@@ -1,0 +1,7 @@
+[u'fur_coat', 0.12403479, u'swing', 0.10539237, u'swab', 0.064612664, u'komondor', 0.059464578, u'fountain', 0.053465448]
+[u'matchstick', 0.52840912, u'picket_fence', 0.068917438, u'digital_clock', 0.042762809, u'crossword_puzzle', 0.029381381, u'book_jacket', 0.021092115]
+[u'crash_helmet', 0.11455894, u'knee_pad', 0.11098679, u'toyshop', 0.10158248, u'bathing_cap', 0.098838516, u'go-kart', 0.061066467]
+[u'shoe_shop', 0.17131002, u'scoreboard', 0.12113318, u'cinema', 0.073415302, u'racer', 0.043024309, u'grocery_store', 0.038419317]
+[u'scoreboard', 0.47992638, u'ballplayer', 0.089043781, u'balloon', 0.069477178, u'racket', 0.060779072, u'stage', 0.020523593]
+[u'comic_book', 0.74564123, u'web_site', 0.17743024, u'book_jacket', 0.03395671, u'envelope', 0.017011393, u'jigsaw_puzzle', 0.0096265739]
+[u'mountain_bike', 0.83422595, u'alp', 0.083657101, u'bicycle-built-for-two', 0.025485741, u'crash_helmet', 0.013577755, u'moped', 0.013309564]

@@ -1,0 +1,6 @@
+[u'space_shuttle', 0.065008931, u'solar_dish', 0.064430669, u'bearskin', 0.06288629, u'pedestal', 0.056231279, u'drilling_platform', 0.054013669]
+[u'web_site', 0.7171964, u'book_jacket', 0.051634889, u'television', 0.013136167, u'digital_clock', 0.011853015, u'screen', 0.0096853608]
+[u'Petri_dish', 0.50433987, u'spotlight', 0.03421329, u'perfume', 0.022927709, u'water_bottle', 0.02026164, u'face_powder', 0.016353894]
+[u'spotlight', 0.19256186, u'vase', 0.10211519, u'gong', 0.063806325, u"jack-o'-lantern", 0.057097796, u'stopwatch', 0.044678733]
+[u'barometer', 0.39581203, u'magnetic_compass', 0.32335597, u'spotlight', 0.024250887, u'gong', 0.021246312, u'analog_clock', 0.014131349]
+[u'candle', 0.10852076, u'space_shuttle', 0.088191427, u'bakery', 0.085294433, u'liner', 0.078394651, u'sewing_machine', 0.056631759]

@@ -1,0 +1,4 @@
+[u'web_site', 0.1953249, u'revolver', 0.083527155, u'hammer', 0.055266317, u'can_opener', 0.042777523, u'envelope', 0.038769789]
+[u'digital_clock', 0.060843717, u'crossword_puzzle', 0.044533134, u'envelope', 0.039774761, u'wall_clock', 0.032402527, u'Band_Aid', 0.02673859]
+[u'tray', 0.072816469, u'lighter', 0.057538934, u'scale', 0.049589388, u'modem', 0.045492914, u'notebook', 0.042546444]
+[u'panpipe', 0.32669696, u'chime', 0.15736352, u'bow', 0.07852146, u'rubber_eraser', 0.037283145, u'organ', 0.029570466]

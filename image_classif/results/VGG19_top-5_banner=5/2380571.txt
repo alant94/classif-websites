@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.49039784, u'jigsaw_puzzle', 0.070427358, u'maze', 0.036365241, u'digital_clock', 0.033686139, u'web_site', 0.01407346]
+[u'web_site', 0.051683869, u'screwdriver', 0.047925107, u'desk', 0.046689123, u'crib', 0.029139752, u'envelope', 0.026421186]
+[u'airship', 0.20676501, u'container_ship', 0.099519126, u'balloon', 0.069679789, u'scoreboard', 0.052775279, u'water_tower', 0.043621466]
+[u'envelope', 0.13540196, u'wall_clock', 0.088264793, u'parachute', 0.060495183, u'airship', 0.028432306, u'flagpole', 0.026378747]

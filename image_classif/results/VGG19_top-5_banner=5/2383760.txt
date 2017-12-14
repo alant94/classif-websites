@@ -1,0 +1,2 @@
+[u'puck', 0.4860279, u'gas_pump', 0.2052879, u'stopwatch', 0.058399457, u'digital_clock', 0.03279157, u'scoreboard', 0.030259065]
+[u'wig', 0.087035745, u'maze', 0.026213579, u'grocery_store', 0.025188327, u'umbrella', 0.024907079, u'tench', 0.020932579]

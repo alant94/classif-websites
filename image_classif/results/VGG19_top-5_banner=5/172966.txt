@@ -1,0 +1,5 @@
+[u'television', 0.28081715, u'screen', 0.16025785, u'theater_curtain', 0.15323032, u'home_theater', 0.086752668, u'monitor', 0.059598427]
+[u'digital_clock', 0.17125197, u'web_site', 0.11571784, u'book_jacket', 0.10143006, u'screen', 0.068515718, u'monitor', 0.046579197]
+[u'fire_screen', 0.27679333, u'digital_clock', 0.1031003, u'theater_curtain', 0.075030312, u'stove', 0.06736137, u'lighter', 0.038981698]
+[u'cash_machine', 0.55404741, u'book_jacket', 0.18451338, u'scoreboard', 0.038471643, u'digital_clock', 0.027622513, u'barbershop', 0.01440535]
+[u'cassette', 0.2160102, u'television', 0.16546226, u'iPod', 0.13493797, u'book_jacket', 0.10116608, u'perfume', 0.068804316]

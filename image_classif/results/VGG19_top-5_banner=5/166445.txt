@@ -1,0 +1,2 @@
+[u'jersey', 0.11551787, u'crossword_puzzle', 0.049533289, u'wig', 0.043367151, u'sweatshirt', 0.034513619, u'drumstick', 0.028894523]
+[u'book_jacket', 0.37614158, u'theater_curtain', 0.18211235, u'wig', 0.12494037, u'hair_spray', 0.07085456, u'comic_book', 0.040487148]

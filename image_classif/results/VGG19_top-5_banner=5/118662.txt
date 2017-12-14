@@ -1,0 +1,6 @@
+[u'crib', 0.2291037, u'binder', 0.12225974, u'book_jacket', 0.076328434, u'web_site', 0.038204569, u'vending_machine', 0.037359066]
+[u'crib', 0.29717031, u'organ', 0.1919049, u'cinema', 0.050875835, u'freight_car', 0.049510673, u'library', 0.037864506]
+[u'scoreboard', 0.2630378, u'vending_machine', 0.13042244, u'container_ship', 0.087490201, u'envelope', 0.071301945, u'web_site', 0.038800888]
+[u'crib', 0.5808382, u'binder', 0.055274401, u'vending_machine', 0.03034506, u'picket_fence', 0.029965514, u'scoreboard', 0.029479509]
+[u'cash_machine', 0.46177375, u'book_jacket', 0.094023764, u'perfume', 0.038433135, u'screen', 0.036844313, u'binder', 0.020617872]
+[u'scoreboard', 0.14733019, u'monitor', 0.14368717, u'vending_machine', 0.073751524, u'switch', 0.073587827, u'web_site', 0.059934665]

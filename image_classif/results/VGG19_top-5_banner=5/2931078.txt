@@ -1,0 +1,8 @@
+[u'street_sign', 0.094226584, u'barbershop', 0.079244159, u'book_jacket', 0.068036772, u'cinema', 0.054475557, u'screwdriver', 0.03814343]
+[u'coil', 0.18820667, u'electric_fan', 0.094043404, u'prairie_chicken', 0.093063205, u'sombrero', 0.071924098, u'washer', 0.026854461]
+[u'harvester', 0.60576689, u'forklift', 0.27324188, u'thresher', 0.087124549, u'crane', 0.011471703, u'garbage_truck', 0.010262487]
+[u'scoreboard', 0.42179489, u'digital_clock', 0.29605627, u'stopwatch', 0.063836381, u'gas_pump', 0.03780983, u'digital_watch', 0.015035502]
+[u'swab', 0.71194017, u'crutch', 0.056337126, u'fur_coat', 0.021593271, u'bow', 0.01795595, u'vacuum', 0.013330552]
+[u'sarong', 0.33608285, u'macaw', 0.10561487, u'swab', 0.10523965, u'jean', 0.080440335, u'paintbrush', 0.049148697]
+[u'pole', 0.11794847, u'swab', 0.11325628, u'horizontal_bar', 0.10676914, u'parallel_bars', 0.088114873, u'broom', 0.051348668]
+[u'stretcher', 0.2291747, u'torch', 0.068255246, u'toyshop', 0.042841896, u'mask', 0.0354716, u'sweatshirt', 0.03404551]

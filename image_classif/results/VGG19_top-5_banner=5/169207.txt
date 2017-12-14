@@ -1,0 +1,1 @@
+[u'whistle', 0.06262555, u'printer', 0.051880937, u'toaster', 0.042472068, u'dial_telephone', 0.038431752, u'buckle', 0.036460422]

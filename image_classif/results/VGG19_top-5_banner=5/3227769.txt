@@ -1,0 +1,2 @@
+[u'suit', 0.47627994, u'groom', 0.029424679, u'Windsor_tie', 0.019225024, u'wardrobe', 0.017382007, u'bow_tie', 0.015227294]
+[u'picket_fence', 0.40144002, u'boathouse', 0.23183855, u'church', 0.10004828, u'mobile_home', 0.098840728, u'beacon', 0.024562716]

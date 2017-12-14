@@ -1,0 +1,2 @@
+[u'bookshop', 0.54207224, u'library', 0.26116285, u'tobacco_shop', 0.051424347, u'bookcase', 0.010349572, u'shower_curtain', 0.010206996]
+[u'banjo', 0.14903736, u'harp', 0.14677399, u'book_jacket', 0.093555741, u'rule', 0.05487065, u'electric_guitar', 0.041252695]

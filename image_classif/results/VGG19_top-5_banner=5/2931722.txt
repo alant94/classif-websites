@@ -1,0 +1,3 @@
+[u'comic_book', 0.091146812, u'book_jacket', 0.077313036, u'gong', 0.071747236, u'tobacco_shop', 0.039644472, u'shield', 0.034781758]
+[u'lab_coat', 0.96232474, u'stethoscope', 0.025397679, u'torch', 0.0029215927, u'Windsor_tie', 0.0013887804, u'trench_coat', 0.0013144534]
+[u'analog_clock', 0.80138326, u'wall_clock', 0.18493563, u'magnetic_compass', 0.0046276143, u'digital_clock', 0.0034189771, u'barometer', 0.0012646923]

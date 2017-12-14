@@ -1,0 +1,5 @@
+[u'hare', 0.33718914, u'wood_rabbit', 0.14834858, u'wallaby', 0.079171091, u'megalith', 0.035046428, u'picket_fence', 0.023821151]
+[u'hartebeest', 0.64387578, u'ibex', 0.20675367, u'gazelle', 0.034473866, u'hare', 0.030350054, u'wallaby', 0.0065770624]
+[u'hartebeest', 0.33881298, u'cliff', 0.094745964, u'chain_saw', 0.052253149, u'German_short-haired_pointer', 0.048763968, u'triceratops', 0.048187971]
+[u'traffic_light', 0.55689287, u'barbershop', 0.11694247, u'street_sign', 0.062658213, u'cinema', 0.056238394, u'scoreboard', 0.036754716]
+[u'toilet_seat', 0.13348003, u'iron', 0.095917687, u'spotlight', 0.076410212, u'washbasin', 0.072509296, u'loupe', 0.066037811]

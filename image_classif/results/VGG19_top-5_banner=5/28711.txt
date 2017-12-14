@@ -1,0 +1,2 @@
+[u'ballpoint', 0.72899687, u'rubber_eraser', 0.10206246, u'chime', 0.030896369, u'screwdriver', 0.030594947, u'paintbrush', 0.024368005]
+[u'combination_lock', 0.45357999, u'hook', 0.076916642, u'stopwatch', 0.052427389, u'spotlight', 0.045569602, u'analog_clock', 0.044759993]

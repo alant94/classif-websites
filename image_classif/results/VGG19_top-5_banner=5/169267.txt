@@ -1,0 +1,8 @@
+[u'matchstick', 0.27082673, u'paintbrush', 0.071315579, u'wooden_spoon', 0.069595687, u'spatula', 0.066597611, u'picket_fence', 0.065249667]
+[u'thresher', 0.40561289, u'harvester', 0.10848455, u'tractor', 0.033104762, u'plow', 0.027756765, u'garbage_truck', 0.023457214]
+[u'comic_book', 0.74356711, u'jigsaw_puzzle', 0.062873393, u'packet', 0.049004667, u'menu', 0.029112715, u'book_jacket', 0.027763391]
+[u'book_jacket', 0.48111734, u'brass', 0.21035205, u'menu', 0.049963418, u'comic_book', 0.032422315, u'matchstick', 0.017848931]
+[u'comic_book', 0.12060169, u'confectionery', 0.094015069, u'book_jacket', 0.090241082, u'butcher_shop', 0.083517723, u'scoreboard', 0.072622687]
+[u'oxcart', 0.51711571, u'horse_cart', 0.3412233, u'barrow', 0.055351976, u'tricycle', 0.031519271, u'shopping_cart', 0.018344605]
+[u'mountain_tent', 0.98484588, u'sleeping_bag', 0.0047608777, u'dogsled', 0.0031839865, u'snowmobile', 0.0029892307, u'yurt', 0.0007373119]
+[u'seashore', 0.34989464, u'sandbar', 0.33912629, u'lakeside', 0.070514731, u'maze', 0.043745153, u'volleyball', 0.027691947]

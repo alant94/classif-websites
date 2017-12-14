@@ -1,0 +1,8 @@
+[u'digital_clock', 0.14044438, u'airship', 0.11208618, u'balloon', 0.10534173, u'scoreboard', 0.09746597, u'parachute', 0.073292591]
+[u'church', 0.16110398, u'maze', 0.14281681, u'bell_cote', 0.078069977, u'digital_clock', 0.071545452, u'container_ship', 0.053317398]
+[u'digital_clock', 0.43445194, u'envelope', 0.032284185, u'web_site', 0.022401076, u'street_sign', 0.020293687, u'book_jacket', 0.019118182]
+[u'chain_mail', 0.95147717, u'suit', 0.010382205, u'abaya', 0.0051352773, u'jean', 0.0037900817, u'shoe_shop', 0.0024514871]
+[u'balloon', 0.39732319, u'spider_web', 0.18941125, u'parachute', 0.11161067, u'trimaran', 0.025583666, u'matchstick', 0.019584022]
+[u'digital_clock', 0.76435035, u'maze', 0.10601287, u'digital_watch', 0.043956768, u'jigsaw_puzzle', 0.02735623, u'container_ship', 0.0092929788]
+[u'hair_spray', 0.032757476, u'cleaver', 0.026635233, u'chain_saw', 0.021178992, u'can_opener', 0.020436924, u'safety_pin', 0.019688686]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

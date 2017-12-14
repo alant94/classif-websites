@@ -1,0 +1,8 @@
+[u'analog_clock', 0.15692994, u'bubble', 0.079108782, u'spotlight', 0.068774074, u'lampshade', 0.067423962, u'wallet', 0.060516421]
+[u'flagpole', 0.99446434, u'pole', 0.0020788603, u'maypole', 0.00077922107, u'grocery_store', 0.00022220532, u'golfcart', 0.00019766385]
+[u'monitor', 0.34836876, u'web_site', 0.21230729, u'screen', 0.11920359, u'television', 0.039622653, u'home_theater', 0.035471957]
+[u'coil', 0.22227488, u'analog_clock', 0.088845916, u'hook', 0.076330267, u'whistle', 0.038463809, u'spotlight', 0.0360322]
+[u'book_jacket', 0.2235752, u'envelope', 0.06813819, u'street_sign', 0.053522255, u'barn', 0.038140386, u'brass', 0.033383992]
+[u'analog_clock', 0.031145558, u'abaya', 0.022891812, u'bell_cote', 0.021611014, u'hook', 0.021512128, u'shield', 0.019825993]
+[u'street_sign', 0.46724254, u'traffic_light', 0.090359516, u'puck', 0.028368097, u'sunglass', 0.013470676, u'hook', 0.010683905]
+[u'book_jacket', 0.37947467, u'street_sign', 0.16240652, u'doormat', 0.15415911, u'binder', 0.10770132, u'rubber_eraser', 0.0236916]

@@ -1,0 +1,6 @@
+[u'picket_fence', 0.18867435, u'candle', 0.14033489, u'chime', 0.12959053, u'syringe', 0.12498736, u'matchstick', 0.052017238]
+[u'beer_bottle', 0.67977315, u'cinema', 0.052470695, u'shoe_shop', 0.01886216, u'totem_pole', 0.016636116, u'beer_glass', 0.016448777]
+[u'ballpoint', 0.48722991, u'candle', 0.14150168, u'rubber_eraser', 0.10471411, u'syringe', 0.052573178, u'screwdriver', 0.038355991]
+[u'coffee_mug', 0.29333025, u'puck', 0.23562106, u'packet', 0.096983977, u'beer_bottle', 0.045229405, u'chocolate_sauce', 0.036365904]
+[u'book_jacket', 0.27821824, u'scoreboard', 0.09679579, u'beer_bottle', 0.046563111, u'red_wine', 0.038892251, u'wine_bottle', 0.03825165]
+[u'forklift', 0.18994576, u'book_jacket', 0.12747011, u'carton', 0.063278794, u'tractor', 0.061069556, u'chain_saw', 0.035864629]

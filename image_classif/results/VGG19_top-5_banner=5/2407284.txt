@@ -1,0 +1,4 @@
+[u'envelope', 0.78438669, u'web_site', 0.064242676, u'digital_clock', 0.014047093, u'maze', 0.0077101425, u'container_ship', 0.0076663075]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'crossword_puzzle', 0.31816745, u'envelope', 0.035948928, u'Windsor_tie', 0.03063331, u'digital_clock', 0.027321482, u'Band_Aid', 0.021682076]
+[u'tennis_ball', 0.72888768, u'golf_ball', 0.092253946, u'ping-pong_ball', 0.084922932, u'rugby_ball', 0.015211968, u'volleyball', 0.012744387]

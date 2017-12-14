@@ -1,0 +1,1 @@
+[u'book_jacket', 0.96410644, u'gown', 0.0074609793, u'envelope', 0.0037995584, u'plastic_bag', 0.0031543756, u'cliff', 0.0028656018]

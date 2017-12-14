@@ -1,0 +1,6 @@
+[u'mask', 0.15370883, u'shower_cap', 0.10413323, u'ski_mask', 0.10287735, u'toyshop', 0.087623842, u'soap_dispenser', 0.080152981]
+[u'comic_book', 0.39553493, u'confectionery', 0.069441259, u'packet', 0.053751338, u'carousel', 0.050098576, u'book_jacket', 0.049813513]
+[u'wig', 0.2297287, u'whistle', 0.18272875, u'toyshop', 0.11197866, u'mask', 0.059389405, u'hair_spray', 0.056237228]
+[u'fountain', 0.20369576, u'shower_cap', 0.18503903, u'vending_machine', 0.08627703, u'water_bottle', 0.078135476, u'bubble', 0.069038875]
+[u'brassiere', 0.45561057, u'bikini', 0.064010873, u'maillot', 0.049235206, u'maillot', 0.047602605, u'hair_spray', 0.040578183]
+[u'comic_book', 0.68831468, u'jigsaw_puzzle', 0.10001057, u'toyshop', 0.077221245, u'book_jacket', 0.048476275, u'confectionery', 0.0110283]

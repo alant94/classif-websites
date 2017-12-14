@@ -1,0 +1,4 @@
+[u'plate_rack', 0.24029902, u'dining_table', 0.045855094, u'barrel', 0.033354707, u'medicine_chest', 0.032407358, u'scabbard', 0.031407248]
+[u'digital_clock', 0.10194232, u'book_jacket', 0.087629914, u'envelope', 0.07450635, u'traffic_light', 0.047005758, u'street_sign', 0.039632052]
+[u'pinwheel', 0.21605267, u'jersey', 0.10077111, u'Christmas_stocking', 0.068234779, u'sombrero', 0.055462524, u'kimono', 0.053305194]
+[u'nail', 0.19250092, u'tarantula', 0.085113332, u'starfish', 0.051305704, u'wolf_spider', 0.046736009, u'screw', 0.030698551]

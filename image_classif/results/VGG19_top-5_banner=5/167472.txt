@@ -1,0 +1,1 @@
+[u'stage', 0.29351616, u'altar', 0.086631998, u'jigsaw_puzzle', 0.066431925, u'toyshop', 0.062459566, u'throne', 0.051649876]

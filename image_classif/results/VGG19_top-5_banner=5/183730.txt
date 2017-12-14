@@ -1,0 +1,1 @@
+[u'corn', 0.37944734, u'pill_bottle', 0.27180561, u'pomegranate', 0.033371102, u'strainer', 0.030149657, u'hot_pot', 0.028898409]

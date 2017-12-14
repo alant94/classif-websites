@@ -1,0 +1,5 @@
+[u'book_jacket', 0.15318836, u'slide_rule', 0.069728859, u'street_sign', 0.047335107, u'menu', 0.034897245, u'hook', 0.030678531]
+[u'book_jacket', 0.26725587, u'street_sign', 0.080348603, u'barbershop', 0.049112201, u'Band_Aid', 0.048846677, u'cash_machine', 0.038108699]
+[u'candle', 0.59061605, u"jack-o'-lantern", 0.18365923, u'torch', 0.036702219, u'space_shuttle', 0.020251637, u'pill_bottle', 0.014569669]
+[u'menu', 0.37966663, u'web_site', 0.14814593, u'envelope', 0.062563226, u'binder', 0.015615478, u'crossword_puzzle', 0.010080639]
+[u'book_jacket', 0.26665273, u'hook', 0.066622287, u'scoreboard', 0.056538418, u'electric_guitar', 0.044313017, u'safety_pin', 0.036306966]

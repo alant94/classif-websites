@@ -1,0 +1,8 @@
+[u'groom', 0.59495378, u'hoopskirt', 0.11363688, u'gown', 0.069512874, u'overskirt', 0.039505351, u'bonnet', 0.033735819]
+[u'cucumber', 0.27434114, u'leaf_beetle', 0.10488711, u'garter_snake', 0.079419397, u'slug', 0.062848262, u'lacewing', 0.035440862]
+[u'barrel', 0.99906939, u'vault', 0.00074937701, u'church', 2.8935548e-05, u'gong', 1.2991091e-05, u'organ', 1.1243163e-05]
+[u'pick', 0.15095894, u'crate', 0.11237911, u'toilet_seat', 0.11233508, u'drum', 0.048055772, u'rugby_ball', 0.042451922]
+[u'church', 0.20184804, u'vault', 0.10447668, u'monastery', 0.064179823, u'throne', 0.059121557, u'bookshop', 0.058139611]
+[u'red_wine', 0.49967358, u'wine_bottle', 0.42316937, u'corkscrew', 0.024452271, u'goblet', 0.0082300613, u'perfume', 0.0067921644]
+[u'picket_fence', 0.50578821, u'worm_fence', 0.1582807, u'stone_wall', 0.042534608, u'lakeside', 0.037100315, u'thatch', 0.015576647]
+[u'picket_fence', 0.17217943, u'lakeside', 0.082928024, u'boathouse', 0.033002663, u'birdhouse', 0.032683402, u'flagpole', 0.02686704]

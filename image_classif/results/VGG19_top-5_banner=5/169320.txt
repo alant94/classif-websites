@@ -1,0 +1,3 @@
+[u'puck', 0.20744172, u'book_jacket', 0.065020353, u'bottlecap', 0.04561751, u'lens_cap', 0.038936518, u'pick', 0.038192723]
+[u'envelope', 0.059549659, u'analog_clock', 0.056772418, u'digital_clock', 0.050596625, u'wall_clock', 0.047247697, u'web_site', 0.039019018]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

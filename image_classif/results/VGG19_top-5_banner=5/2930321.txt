@@ -1,0 +1,8 @@
+[u'swab', 0.71918976, u'hook', 0.087360516, u'shovel', 0.011783102, u'broom', 0.01120616, u'knot', 0.0087842774]
+[u'digital_clock', 0.40334389, u'maze', 0.10613422, u'crossword_puzzle', 0.099221684, u'wall_clock', 0.041544195, u'jigsaw_puzzle', 0.036571361]
+[u'digital_clock', 0.10893326, u'analog_clock', 0.060966786, u'web_site', 0.057798401, u'street_sign', 0.057292938, u'stopwatch', 0.04299495]
+[u'suit', 0.50935197, u'Windsor_tie', 0.16667332, u'bow_tie', 0.12800755, u'groom', 0.045193806, u'oboe', 0.022201203]
+[u'hair_spray', 0.15874571, u'hand_blower', 0.064976864, u'fur_coat', 0.057195861, u'suit', 0.053406291, u'shower_curtain', 0.042297985]
+[u'analog_clock', 0.80493224, u'magnetic_compass', 0.066322803, u'wall_clock', 0.026992634, u'digital_watch', 0.018466033, u'digital_clock', 0.014313577]
+[u'lab_coat', 0.65272921, u'stethoscope', 0.32628229, u'Windsor_tie', 0.0042418763, u'bolo_tie', 0.0041805594, u'microphone', 0.0014033813]
+[u'web_site', 0.075615309, u'jersey', 0.050513405, u'envelope', 0.045172121, u'bib', 0.03459911, u'analog_clock', 0.02962717]

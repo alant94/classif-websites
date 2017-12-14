@@ -1,0 +1,2 @@
+[u'book_jacket', 0.47368506, u'sidewinder', 0.144641, u'horned_viper', 0.10106885, u'Dandie_Dinmont', 0.021981172, u'hen-of-the-woods', 0.018267559]
+[u'pelican', 0.13179059, u'coho', 0.12253345, u'breakwater', 0.10429979, u'American_egret', 0.10166211, u'sturgeon', 0.088232964]

@@ -1,0 +1,1 @@
+[u'cinema', 0.18012451, u'rugby_ball', 0.077504799, u'analog_clock', 0.057676129, u'book_jacket', 0.04688976, u'water_tower', 0.031114176]

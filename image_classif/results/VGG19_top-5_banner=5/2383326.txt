@@ -1,0 +1,3 @@
+[u'macaw', 0.18081374, u'three-toed_sloth', 0.15807219, u'swab', 0.15445331, u'great_grey_owl', 0.038368378, u'pelican', 0.036507878]
+[u'lakeside', 0.066557691, u'ear', 0.04779575, u'rapeseed', 0.045556508, u'worm_fence', 0.034399845, u'pole', 0.033756632]
+[u'envelope', 0.40579623, u'web_site', 0.1715951, u'wall_clock', 0.042737991, u'analog_clock', 0.033584051, u'rule', 0.016423356]

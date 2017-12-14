@@ -1,0 +1,4 @@
+[u'parachute', 0.1055024, u'airship', 0.063558131, u'balloon', 0.060131975, u'traffic_light', 0.049756568, u'crane', 0.048966412]
+[u'traffic_light', 0.30001521, u'street_sign', 0.10976382, u'crane', 0.050915878, u'scoreboard', 0.049645215, u'flagpole', 0.03975784]
+[u'spatula', 0.92214638, u'cleaver', 0.011693564, u'pick', 0.0098380335, u'wooden_spoon', 0.009675039, u'letter_opener', 0.006136267]
+[u'traffic_light', 0.68287015, u'street_sign', 0.046305507, u'crane', 0.031521183, u'digital_clock', 0.01679874, u'scoreboard', 0.016399108]

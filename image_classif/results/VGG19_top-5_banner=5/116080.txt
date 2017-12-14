@@ -1,0 +1,5 @@
+[u'rubber_eraser', 0.18676274, u'ballpoint', 0.15227918, u'paintbrush', 0.14420721, u'candle', 0.096399233, u'screwdriver', 0.058498319]
+[u'paintbrush', 0.23973635, u'ballpoint', 0.20767623, u'rubber_eraser', 0.19073352, u'pencil_box', 0.17424797, u'screwdriver', 0.023649555]
+[u'paintbrush', 0.23026006, u'broom', 0.084302731, u'swab', 0.059142161, u'ballpoint', 0.053506825, u'screwdriver', 0.040117051]
+[u'ballpoint', 0.16368943, u'screwdriver', 0.15758862, u'rubber_eraser', 0.15176889, u'candle', 0.11794741, u'pencil_box', 0.061948225]
+[u'paintbrush', 0.12312369, u'screwdriver', 0.081776015, u'ballpoint', 0.079906367, u'rubber_eraser', 0.071178243, u'organ', 0.063120119]

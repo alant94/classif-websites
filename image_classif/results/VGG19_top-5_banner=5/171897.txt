@@ -1,0 +1,6 @@
+[u'menu', 0.99244267, u'carton', 0.0065948782, u'envelope', 0.00092588831, u'packet', 2.1843252e-05, u'apron', 6.6005623e-06]
+[u'harmonica', 0.20997591, u'stage', 0.14924693, u'microphone', 0.11044363, u'oxygen_mask', 0.045636624, u'trombone', 0.038971875]
+[u'book_jacket', 0.29713428, u'jigsaw_puzzle', 0.045848086, u'cash_machine', 0.0422679, u'menu', 0.039887752, u'stage', 0.037858453]
+[u'ski', 0.2488298, u'bobsled', 0.095177807, u'dogsled', 0.044012077, u'crutch', 0.02777846, u'unicycle', 0.023700204]
+[u'electric_guitar', 0.16956121, u'feather_boa', 0.12341654, u'drumstick', 0.10761645, u'wig', 0.087122709, u'breastplate', 0.05801034]
+[u'wardrobe', 0.53061593, u'brassiere', 0.086797632, u'shoe_shop', 0.062790275, u'ski', 0.05202613, u'jean', 0.031538233]

@@ -1,0 +1,6 @@
+[u'golfcart', 0.53704309, u'tractor', 0.1916737, u'forklift', 0.052380238, u'horse_cart', 0.038026333, u'oxcart', 0.025663882]
+[u'wall_clock', 0.13249342, u'digital_clock', 0.0484026, u'envelope', 0.043068931, u'container_ship', 0.030234277, u'beacon', 0.027786728]
+[u'envelope', 0.19441465, u'Band_Aid', 0.12228902, u'wall_clock', 0.07962539, u'pill_bottle', 0.038229737, u'digital_clock', 0.036216754]
+[u'Cardigan', 0.14755177, u'bucket', 0.10176132, u'Pembroke', 0.055794697, u'hamper', 0.030505111, u'basenji', 0.025059555]
+[u'envelope', 0.15007859, u'pill_bottle', 0.13492706, u'beacon', 0.077831239, u'wall_clock', 0.046813857, u'bell_cote', 0.039921314]
+[u'puck', 0.28238127, u'face_powder', 0.09689381, u'stopwatch', 0.063373514, u'gong', 0.037496734, u'bottlecap', 0.034882452]

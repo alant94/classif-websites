@@ -1,0 +1,2 @@
+[u'analog_clock', 0.083436906, u'pencil_sharpener', 0.074500024, u'screw', 0.061776299, u'nail', 0.056735173, u'corkscrew', 0.032058109]
+[u'pill_bottle', 0.21169412, u'Band_Aid', 0.14590056, u'rubber_eraser', 0.058169603, u'whistle', 0.041148312, u'binder', 0.040135164]

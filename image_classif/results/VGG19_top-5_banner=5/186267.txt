@@ -1,0 +1,8 @@
+[u'altar', 0.497464, u'throne', 0.25044137, u'organ', 0.1514817, u'church', 0.02482353, u'vault', 0.015773395]
+[u'forklift', 0.33539715, u'crate', 0.22736111, u'dock', 0.091517322, u'gondola', 0.032221116, u'bookshop', 0.02828652]
+[u'book_jacket', 0.29778787, u'vending_machine', 0.09325292, u'toyshop', 0.068807617, u'web_site', 0.052166369, u'tobacco_shop', 0.048063803]
+[u'barn_spider', 0.23108423, u'cicada', 0.063960001, u'wolf_spider', 0.055437952, u'garden_spider', 0.050170302, u'tarantula', 0.047493383]
+[u'nail', 0.36916366, u'ballpoint', 0.11319231, u'screw', 0.066612966, u'folding_chair', 0.057816617, u'matchstick', 0.044655856]
+[u'web_site', 0.25954139, u'washer', 0.11123306, u"potter's_wheel", 0.10897654, u'menu', 0.087140627, u'book_jacket', 0.045480829]
+[u'altar', 0.69529015, u'throne', 0.10026946, u'confectionery', 0.050928049, u'dining_table', 0.038625441, u'vestment', 0.03677744]
+[u'tray', 0.51206559, u'handkerchief', 0.068511091, u'packet', 0.042789351, u'book_jacket', 0.039664797, u'screen', 0.032337438]

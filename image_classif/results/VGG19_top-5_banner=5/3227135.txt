@@ -1,0 +1,7 @@
+[u'shower_cap', 0.4114961, u'bathing_cap', 0.39288342, u'wig', 0.044758946, u'sleeping_bag', 0.014744543, u'crash_helmet', 0.008079404]
+[u'hair_slide', 0.12282279, u'macaw', 0.065632425, u'bow', 0.047639806, u'hook', 0.046970621, u'web_site', 0.045773856]
+[u'restaurant', 0.21015047, u'Dungeness_crab', 0.049229667, u'plate', 0.048727032, u'burrito', 0.048525352, u'butcher_shop', 0.041126437]
+[u'bakery', 0.19191806, u'restaurant', 0.15042646, u'grocery_store', 0.10913461, u'carton', 0.059531908, u'lab_coat', 0.047861014]
+[u'apron', 0.13910367, u'plastic_bag', 0.12798196, u'shower_curtain', 0.075550206, u'handkerchief', 0.072658859, u'paper_towel', 0.040769588]
+[u'plate', 0.042916425, u'bakery', 0.038625039, u'restaurant', 0.035095863, u'pizza', 0.032468908, u'candle', 0.030976035]
+[u'jersey', 0.26370567, u'microphone', 0.090562299, u'abaya', 0.075705521, u'comic_book', 0.055363737, u'electric_guitar', 0.05532774]

@@ -1,0 +1,4 @@
+[u'guillotine', 0.16137002, u'prison', 0.083473869, u'whistle', 0.04369124, u'switch', 0.028785937, u'matchstick', 0.026233612]
+[u'digital_clock', 0.23187877, u'medicine_chest', 0.05535768, u'whistle', 0.040405642, u'picket_fence', 0.034602199, u'cinema', 0.024862587]
+[u'chime', 0.071666792, u'nail', 0.066489205, u'wall_clock', 0.060815364, u'screwdriver', 0.043494355, u'syringe', 0.032984823]
+[u'envelope', 0.24438816, u'menu', 0.19950832, u'binder', 0.11497708, u'measuring_cup', 0.045399331, u'shower_curtain', 0.029542329]

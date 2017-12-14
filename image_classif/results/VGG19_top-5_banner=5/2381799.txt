@@ -1,0 +1,6 @@
+[u"carpenter's_kit", 0.1770159, u'screwdriver', 0.1071806, u'bookcase', 0.079278529, u'organ', 0.067992061, u'pencil_box', 0.050423432]
+[u'organ', 0.1086999, u'book_jacket', 0.073310152, u'bookcase', 0.066731669, u'wardrobe', 0.053214975, u'theater_curtain', 0.041908685]
+[u'plate_rack', 0.83640361, u'chambered_nautilus', 0.010622326, u'conch', 0.0071981438, u'thimble', 0.0065111103, u'hair_slide', 0.0061835991]
+[u'web_site', 0.90986514, u'monitor', 0.010525756, u'crane', 0.0075269211, u'scoreboard', 0.0048199957, u'screen', 0.0045418171]
+[u'medicine_chest', 0.10296874, u'wardrobe', 0.048754256, u'rule', 0.039098222, u'guillotine', 0.032514092, u'shoji', 0.023321958]
+[u'notebook', 0.25751063, u'laptop', 0.069910549, u'desktop_computer', 0.047099203, u'scale', 0.04303962, u'iPod', 0.041395869]

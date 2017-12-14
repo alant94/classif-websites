@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.18095516, u'picket_fence', 0.14580035, u'matchstick', 0.14267506, u'street_sign', 0.094890028, u'viaduct', 0.047323]

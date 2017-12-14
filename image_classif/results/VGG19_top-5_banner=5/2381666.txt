@@ -1,0 +1,7 @@
+[u'digital_clock', 0.060421035, u'Band_Aid', 0.046162024, u'analog_clock', 0.034513112, u'wall_clock', 0.02959547, u'hair_spray', 0.027496248]
+[u'restaurant', 0.08346273, u'dining_table', 0.063760452, u'hot_pot', 0.047025062, u'caldron', 0.046269719, u'wok', 0.04434048]
+[u'stone_wall', 0.19210915, u'coho', 0.1373466, u'king_penguin', 0.095749974, u'oystercatcher', 0.047756128, u'maze', 0.026436141]
+[u'turnstile', 0.12323201, u'restaurant', 0.11867087, u'barrel', 0.11392599, u'dock', 0.083587803, u'greenhouse', 0.065808535]
+[u'maze', 0.39664128, u'wing', 0.1354109, u'solar_dish', 0.12585181, u'seashore', 0.10263323, u'sandbar', 0.065194607]
+[u'suit', 0.60438955, u'Windsor_tie', 0.19287941, u'groom', 0.048930652, u'military_uniform', 0.029355466, u'bow_tie', 0.021069752]
+[u'red-breasted_merganser', 0.1797197, u'redshank', 0.10834997, u'tray', 0.074498139, u'impala', 0.052480936, u'red-backed_sandpiper', 0.035460729]

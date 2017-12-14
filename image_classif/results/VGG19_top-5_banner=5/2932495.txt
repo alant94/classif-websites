@@ -1,0 +1,5 @@
+[u'street_sign', 0.27576312, u'book_jacket', 0.13594335, u'Band_Aid', 0.061359961, u'tobacco_shop', 0.052781209, u'comic_book', 0.043731771]
+[u'envelope', 0.16913845, u'web_site', 0.16048756, u'Windsor_tie', 0.057890628, u'flagpole', 0.054121871, u'quill', 0.03182048]
+[u'book_jacket', 0.1662287, u'street_sign', 0.086123079, u'hair_spray', 0.066411942, u'web_site', 0.052733142, u'Band_Aid', 0.043135915]
+[u'cinema', 0.072421789, u'wall_clock', 0.063822284, u'tobacco_shop', 0.056060813, u'car_wheel', 0.04031064, u'puck', 0.039830521]
+[u'balloon', 0.40460128, u'lifeboat', 0.24676213, u'seashore', 0.04969687, u'dock', 0.043855414, u'parachute', 0.043239325]

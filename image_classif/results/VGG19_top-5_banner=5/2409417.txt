@@ -1,0 +1,6 @@
+[u'crib', 0.20854095, u'envelope', 0.087449834, u'chime', 0.080506809, u'swab', 0.038862254, u'ballpoint', 0.03862549]
+[u'magnetic_compass', 0.15100974, u'wall_clock', 0.11153859, u'analog_clock', 0.067192383, u'rule', 0.042584907, u'pick', 0.036561333]
+[u'tape_player', 0.46404195, u'cassette_player', 0.26629904, u'safe', 0.064053148, u'espresso_maker', 0.048643027, u'cassette', 0.029943503]
+[u'ballpoint', 0.1592771, u'screwdriver', 0.10665676, u'whistle', 0.09287627, u'rubber_eraser', 0.082353845, u'binder', 0.065336771]
+[u'Band_Aid', 0.11927572, u'digital_clock', 0.094894007, u'sunscreen', 0.068374582, u'pill_bottle', 0.062212028, u'hair_spray', 0.037163097]
+[u'street_sign', 0.20712718, u'gas_pump', 0.16381656, u'cash_machine', 0.11177356, u'digital_clock', 0.081158333, u'Band_Aid', 0.029021287]

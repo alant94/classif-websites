@@ -1,0 +1,2 @@
+[u'hook', 0.10399036, u'panpipe', 0.080971673, u'bolo_tie', 0.063218594, u'bow', 0.057272371, u'matchstick', 0.053656403]
+[u'valley', 0.35078058, u'stone_wall', 0.33792195, u'alp', 0.0847084, u'cliff', 0.048451204, u'lakeside', 0.024285339]

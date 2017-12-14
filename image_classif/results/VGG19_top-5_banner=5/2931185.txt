@@ -1,0 +1,1 @@
+[u'bib', 0.61653268, u'neck_brace', 0.045594931, u'Christmas_stocking', 0.044752762, u'Band_Aid', 0.043087795, u'toilet_seat', 0.031736609]

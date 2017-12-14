@@ -1,0 +1,4 @@
+[u'toilet_seat', 0.18817918, u'gong', 0.14414397, u'shield', 0.10841022, u'chime', 0.087259889, u'spotlight', 0.02372732]
+[u'mosque', 0.13431029, u'spotlight', 0.11477874, u'dome', 0.081917733, u'planetarium', 0.049210466, u'plate_rack', 0.042987365]
+[u'obelisk', 0.31656253, u'stupa', 0.16949284, u'bell_cote', 0.11413447, u'picket_fence', 0.046155673, u'castle', 0.042474803]
+[u'orange', 0.37255546, u"jack-o'-lantern", 0.1846617, u'toilet_seat', 0.13848473, u'spaghetti_squash', 0.09122441, u'wall_clock', 0.027802587]

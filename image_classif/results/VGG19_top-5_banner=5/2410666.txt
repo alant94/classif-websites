@@ -1,0 +1,2 @@
+[u"jack-o'-lantern", 0.26844794, u'book_jacket', 0.1778958, u'bell_pepper', 0.1066247, u'velvet', 0.056913819, u'sea_anemone', 0.052057438]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

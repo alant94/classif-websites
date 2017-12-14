@@ -1,0 +1,8 @@
+[u'menu', 0.48453617, u'red_wine', 0.052869905, u'abacus', 0.050151642, u'lampshade', 0.035195563, u'table_lamp', 0.019815914]
+[u'shoe_shop', 0.3636674, u'brassiere', 0.17304265, u'wardrobe', 0.15198983, u'cleaver', 0.061330024, u'breastplate', 0.032353159]
+[u'palace', 0.11662542, u'cinema', 0.1155171, u'gondola', 0.097744532, u'monastery', 0.062842347, u'church', 0.044305064]
+[u'groom', 0.085062601, u'television', 0.050502088, u'stage', 0.044526558, u'suit', 0.042486951, u'theater_curtain', 0.039302137]
+[u'restaurant', 0.53193343, u'shoe_shop', 0.17763789, u'folding_chair', 0.084561937, u'dining_table', 0.026087245, u'patio', 0.013100525]
+[u'palace', 0.40545973, u'church', 0.33112863, u'castle', 0.23068933, u'monastery', 0.024527203, u'lakeside', 0.0022034352]
+[u'letter_opener', 0.097875021, u'envelope', 0.094894126, u'table_lamp', 0.072713174, u'web_site', 0.063252129, u'revolver', 0.048054196]
+[u'fountain_pen', 0.16343889, u'missile', 0.14864613, u'projectile', 0.1408214, u'space_shuttle', 0.06461677, u'dishwasher', 0.06427744]

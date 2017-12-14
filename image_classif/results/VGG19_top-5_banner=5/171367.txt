@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.17573556, u'grocery_store', 0.17394444, u'toyshop', 0.14352177, u'confectionery', 0.13135339, u'bookshop', 0.065286614]
+[u'rule', 0.63071847, u'nail', 0.07545609, u'envelope', 0.02192382, u'syringe', 0.021367781, u'screwdriver', 0.011562835]

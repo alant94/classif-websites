@@ -1,0 +1,2 @@
+[u'wall_clock', 0.13083883, u'analog_clock', 0.061459281, u'swab', 0.047206532, u'sundial', 0.040211223, u'web_site', 0.029118206]
+[u'window_shade', 0.39199111, u'window_screen', 0.22678398, u'sliding_door', 0.071627475, u'picket_fence', 0.044617165, u'church', 0.028470514]

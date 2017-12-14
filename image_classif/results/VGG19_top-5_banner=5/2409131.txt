@@ -1,0 +1,7 @@
+[u'envelope', 0.88920861, u'binder', 0.027521281, u'wallet', 0.026608836, u'pillow', 0.013458018, u'purse', 0.012674593]
+[u'safety_pin', 0.1644482, u'envelope', 0.077287599, u'jersey', 0.046380587, u'swab', 0.036595274, u'nail', 0.030728139]
+[u'safety_pin', 0.31030616, u'hair_slide', 0.3069239, u'hook', 0.20294327, u'plate_rack', 0.036225103, u'necklace', 0.0099499924]
+[u'rule', 0.08986102, u'slide_rule', 0.067045428, u'hook', 0.063912928, u'loupe', 0.062447604, u'stopwatch', 0.047868688]
+[u'tray', 0.11553042, u'brass', 0.10483132, u'refrigerator', 0.07959839, u'book_jacket', 0.065876044, u'sliding_door', 0.036164816]
+[u'whistle', 0.11583143, u'safe', 0.096308917, u'measuring_cup', 0.074339122, u'dumbbell', 0.065439522, u'candle', 0.040853642]
+[u'handkerchief', 0.93572831, u'pillow', 0.02404255, u'tray', 0.020435769, u'envelope', 0.010283582, u'pencil_box', 0.0021379369]

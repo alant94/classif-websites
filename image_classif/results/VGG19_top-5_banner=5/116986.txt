@@ -1,0 +1,1 @@
+[u"carpenter's_kit", 0.14197433, u'spatula', 0.12165628, u'ski', 0.10903482, u'can_opener', 0.082553782, u'safety_pin', 0.057286989]

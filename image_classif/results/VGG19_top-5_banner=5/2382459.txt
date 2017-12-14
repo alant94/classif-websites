@@ -1,0 +1,4 @@
+[u'balloon', 0.95513469, u'airship', 0.013676075, u'parachute', 0.0036890486, u'hay', 0.0029059288, u'rugby_ball', 0.0018078391]
+[u'chime', 0.18027185, u'cocktail_shaker', 0.12102105, u'china_cabinet', 0.049932804, u'beer_glass', 0.035485532, u'ballpoint', 0.03515055]
+[u'plate_rack', 0.25653255, u'picket_fence', 0.19105724, u'iron', 0.16876025, u'cradle', 0.03738704, u'wall_clock', 0.028301738]
+[u'birdhouse', 0.14671209, u'hip', 0.050642375, u'balloon', 0.036908835, u'honeycomb', 0.033270996, u'toyshop', 0.029220581]

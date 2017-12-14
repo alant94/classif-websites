@@ -1,0 +1,1 @@
+[u'screwdriver', 0.55227584, u'spatula', 0.15928996, u'paintbrush', 0.041544273, u'safety_pin', 0.03821253, u"carpenter's_kit", 0.024034513]

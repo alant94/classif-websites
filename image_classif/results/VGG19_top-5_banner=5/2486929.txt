@@ -1,0 +1,2 @@
+[u'common_newt', 0.13621764, u'sturgeon', 0.090768464, u'American_alligator', 0.086846448, u'banded_gecko', 0.073987179, u'tailed_frog', 0.073880009]
+[u'buckle', 0.10917167, u'sax', 0.078643039, u'tray', 0.06979534, u'sewing_machine', 0.036626112, u'drum', 0.031865183]

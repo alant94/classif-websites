@@ -1,0 +1,6 @@
+[u'web_site', 0.20659737, u'menu', 0.092663661, u'book_jacket', 0.060926441, u'packet', 0.054230042, u'street_sign', 0.032295972]
+[u'digital_clock', 0.15543711, u'digital_watch', 0.090886071, u'Windsor_tie', 0.053092789, u'container_ship', 0.042148091, u'envelope', 0.041387089]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'digital_clock', 0.10676096, u'envelope', 0.100646, u'wall_clock', 0.070086896, u'tray', 0.041998472, u'lampshade', 0.030231822]
+[u'volcano', 0.18945158, u'torch', 0.073879786, u'book_jacket', 0.039980989, u'restaurant', 0.03905971, u'traffic_light', 0.037981573]
+[u'wall_clock', 0.29841849, u'balloon', 0.084810488, u'bottlecap', 0.07676895, u'jigsaw_puzzle', 0.054158181, u'tray', 0.04387863]

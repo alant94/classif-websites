@@ -1,0 +1,5 @@
+[u'balloon', 0.25494659, u'spotlight', 0.15696293, u'pill_bottle', 0.073396824, u'digital_clock', 0.060260478, u'container_ship', 0.037393469]
+[u'book_jacket', 0.16001678, u'cash_machine', 0.068749413, u'web_site', 0.034619145, u'street_sign', 0.024360526, u'jersey', 0.019224871]
+[u'digital_clock', 0.095612533, u'laptop', 0.084344417, u'tray', 0.059428349, u'envelope', 0.059337597, u'binder', 0.056693114]
+[u'book_jacket', 0.11673898, u'web_site', 0.082953438, u'rule', 0.05201396, u'slide_rule', 0.042681593, u'space_shuttle', 0.041941967]
+[u'binder', 0.14840344, u'safe', 0.13121961, u'digital_clock', 0.11499686, u'tray', 0.095279574, u'envelope', 0.073370717]

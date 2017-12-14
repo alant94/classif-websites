@@ -1,0 +1,1 @@
+[u'car_wheel', 0.059160657, u'racer', 0.046943083, u'street_sign', 0.042713761, u'airship', 0.035092283, u'wall_clock', 0.03259461]

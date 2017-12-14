@@ -1,0 +1,1 @@
+[u'hook', 0.075815052, u'picket_fence', 0.049341042, u'matchstick', 0.04332564, u'analog_clock', 0.035443332, u'street_sign', 0.030231366]

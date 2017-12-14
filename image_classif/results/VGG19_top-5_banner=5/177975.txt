@@ -1,0 +1,3 @@
+[u'envelope', 0.77737898, u'web_site', 0.1270933, u'menu', 0.029833561, u'rule', 0.0095818425, u'slide_rule', 0.0046233749]
+[u'street_sign', 0.96024221, u'web_site', 0.012754828, u'scoreboard', 0.0046878778, u'laptop', 0.0027291265, u'bookshop', 0.0022249788]
+[u'menu', 0.30644032, u'web_site', 0.30297044, u'envelope', 0.094545268, u'slide_rule', 0.06267643, u'scoreboard', 0.024355758]

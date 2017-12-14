@@ -1,0 +1,8 @@
+[u'stage', 0.14870231, u'unicycle', 0.12106811, u'butcher_shop', 0.11616278, u'wig', 0.070609987, u'feather_boa', 0.059891634]
+[u'butcher_shop', 0.15527123, u'grocery_store', 0.063364491, u'toyshop', 0.055951722, u'bathing_cap', 0.034024239, u'confectionery', 0.033536777]
+[u'maypole', 0.11080997, u'shield', 0.073344953, u'torch', 0.056613494, u'butcher_shop', 0.046340611, u'bow', 0.045653567]
+[u'cloak', 0.16188471, u'overskirt', 0.11276139, u'plunger', 0.072253786, u'wardrobe', 0.042970106, u'abaya', 0.040608194]
+[u'suit', 0.45563617, u'studio_couch', 0.13457216, u'jean', 0.063185833, u'bow_tie', 0.060511872, u'Loafer', 0.0338117]
+[u'puck', 0.99952102, u'bottlecap', 9.3436443e-05, u'beer_bottle', 6.4954278e-05, u'gong', 5.2407795e-05, u'shield', 3.312232e-05]
+[u'jean', 0.16225636, u'sleeping_bag', 0.11618677, u'swab', 0.067382425, u'ski', 0.035985362, u'cloak', 0.03363011]
+[u'shower_curtain', 0.34376606, u'Band_Aid', 0.16619636, u'mask', 0.16508475, u'lipstick', 0.07682354, u'saltshaker', 0.034975197]

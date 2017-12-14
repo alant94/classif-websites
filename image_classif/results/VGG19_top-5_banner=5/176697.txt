@@ -1,0 +1,3 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'analog_clock', 0.48290208, u'hook', 0.097878918, u'street_sign', 0.053988267, u'bolo_tie', 0.029567532, u'wall_clock', 0.028183725]
+[u'microphone', 0.06608551, u'hair_spray', 0.061055545, u'suit', 0.050347105, u'torch', 0.043152221, u'Windsor_tie', 0.029489709]

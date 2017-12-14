@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.35575134, u'jersey', 0.22267827, u'sweatshirt', 0.10783865, u'barrel', 0.054338098, u'book_jacket', 0.04395346]
+[u'street_sign', 0.30536729, u'book_jacket', 0.19476838, u'school_bus', 0.11454342, u'comic_book', 0.0386566, u'tobacco_shop', 0.027692968]
+[u'jersey', 0.48668033, u'pretzel', 0.1008287, u'French_horn', 0.09520404, u'maillot', 0.035393428, u'cornet', 0.0297541]
+[u'puck', 0.41835448, u'crash_helmet', 0.11060475, u'buckle', 0.091811016, u'magnetic_compass', 0.081888624, u'analog_clock', 0.030922439]

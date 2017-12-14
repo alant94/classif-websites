@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.42218766, u'binder', 0.12906535, u'digital_clock', 0.038488399, u'swab', 0.037038051, u'ballpoint', 0.034773927]
+[u'cornet', 0.6306321, u'French_horn', 0.16170275, u'bassoon', 0.035712242, u'oboe', 0.034592006, u'corkscrew', 0.034321729]

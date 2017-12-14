@@ -1,0 +1,5 @@
+[u'matchstick', 0.62860805, u'candle', 0.30540344, u'picket_fence', 0.012694744, u'missile', 0.0054106726, u'screwdriver', 0.0052271965]
+[u'web_site', 0.46034276, u'Saluki', 0.079121798, u'Afghan_hound', 0.042252168, u'book_jacket', 0.027775237, u'patas', 0.024538433]
+[u'matchstick', 0.050289351, u'web_site', 0.038841091, u'book_jacket', 0.034927327, u'digital_clock', 0.031755809, u'jersey', 0.029612936]
+[u'tripod', 0.19339892, u'window_screen', 0.15433037, u'window_shade', 0.12985365, u'vacuum', 0.071552008, u'swab', 0.057926849]
+[u'web_site', 0.58463359, u'abaya', 0.030626109, u'theater_curtain', 0.020366279, u'book_jacket', 0.019078689, u'television', 0.018397687]

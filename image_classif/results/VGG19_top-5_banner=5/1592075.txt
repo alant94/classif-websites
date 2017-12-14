@@ -1,0 +1,6 @@
+[u'digital_clock', 0.5698607, u'lab_coat', 0.027232839, u'Band_Aid', 0.023514938, u'digital_watch', 0.02212468, u"jack-o'-lantern", 0.021522855]
+[u'bonnet', 0.11051142, u'brassiere', 0.10433054, u'neck_brace', 0.10359424, u'shower_cap', 0.067811139, u'diaper', 0.065418459]
+[u'packet', 0.14076215, u'book_jacket', 0.11815812, u'rubber_eraser', 0.045190308, u'lighter', 0.043541566, u'envelope', 0.037763387]
+[u'web_site', 0.93582571, u'television', 0.021196608, u'monitor', 0.020920549, u'screen', 0.0084972074, u'desktop_computer', 0.0065267761]
+[u'dingo', 0.85764611, u'Pembroke', 0.096879356, u'Cardigan', 0.010343618, u'white_wolf', 0.0074093235, u'Eskimo_dog', 0.0054120212]
+[u'cash_machine', 0.20943511, u'oscilloscope', 0.11291875, u'screen', 0.10538653, u'digital_clock', 0.092392333, u'monitor', 0.080941178]

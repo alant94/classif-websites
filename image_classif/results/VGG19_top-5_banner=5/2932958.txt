@@ -1,0 +1,6 @@
+[u'envelope', 0.094294913, u'web_site', 0.035005718, u'swab', 0.018961424, u'nail', 0.014652031, u'rubber_eraser', 0.013696964]
+[u'water_buffalo', 0.075184681, u'barrow', 0.057741582, u'tench', 0.051673006, u'head_cabbage', 0.037048988, u'cowboy_hat', 0.027706616]
+[u'balance_beam', 0.21135302, u'swimming_trunks', 0.12483928, u'bikini', 0.12291016, u'volleyball', 0.058750141, u'book_jacket', 0.038835678]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'gown', 0.38732365, u'sarong', 0.10541624, u'pajama', 0.087209634, u'bikini', 0.057850443, u'maillot', 0.042552996]
+[u'flamingo', 0.13395582, u'volcano', 0.11372923, u'flagpole', 0.096949264, u'black_stork', 0.09638001, u'white_stork', 0.055471487]

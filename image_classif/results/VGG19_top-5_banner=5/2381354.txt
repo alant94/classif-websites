@@ -1,0 +1,5 @@
+[u'crate', 0.24814931, u'medicine_chest', 0.13282323, u'plate_rack', 0.070831656, u'bookcase', 0.046175003, u'tobacco_shop', 0.035677094]
+[u'beaker', 0.4962945, u'measuring_cup', 0.2186752, u'candle', 0.046800051, u'cup', 0.035242036, u'lotion', 0.027784839]
+[u'corkscrew', 0.06254293, u'can_opener', 0.054133829, u'lotion', 0.052790757, u'red_wine', 0.03487277, u'eggnog', 0.027388504]
+[u'vending_machine', 0.85664028, u'lotion', 0.026345767, u'thimble', 0.026081678, u'sunscreen', 0.023133367, u'hair_spray', 0.0095924512]
+[u'oil_filter', 0.18716647, u'lotion', 0.16553305, u'pill_bottle', 0.0841626, u'hair_spray', 0.077543989, u'cocktail_shaker', 0.069350734]

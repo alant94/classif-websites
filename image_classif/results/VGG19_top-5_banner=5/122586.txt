@@ -1,0 +1,5 @@
+[u'pencil_sharpener', 0.10372129, u'radiator', 0.07385157, u'digital_clock', 0.048871037, u'switch', 0.045871597, u'nail', 0.032425888]
+[u'television', 0.15921971, u'slide_rule', 0.10549515, u'buckle', 0.088007331, u'switch', 0.077127889, u'oscilloscope', 0.045756504]
+[u'lampshade', 0.19216821, u'hoopskirt', 0.075851537, u'table_lamp', 0.06793163, u'parachute', 0.033937644, u'overskirt', 0.033093404]
+[u'vending_machine', 0.28351986, u'barbershop', 0.08284349, u'pop_bottle', 0.077244923, u'cellular_telephone', 0.054576263, u'beer_bottle', 0.031972397]
+[u'slide_rule', 0.7725628, u'rule', 0.1822724, u'window_screen', 0.0034545148, u'oscilloscope', 0.0018272718, u'harmonica', 0.0017571712]

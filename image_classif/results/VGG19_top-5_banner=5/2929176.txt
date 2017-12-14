@@ -1,0 +1,7 @@
+[u'Band_Aid', 0.43013433, u'nipple', 0.091638632, u'toilet_seat', 0.066170909, u'bib', 0.049764223, u'paper_towel', 0.040018495]
+[u'whistle', 0.12730463, u'ice_lolly', 0.081929214, u'nipple', 0.079872914, u'dumbbell', 0.062185548, u'balloon', 0.04483553]
+[u'nipple', 0.16198109, u'whistle', 0.11235071, u'candle', 0.074164659, u'ice_lolly', 0.066057786, u'dumbbell', 0.062288444]
+[u'rule', 0.49731389, u'syringe', 0.2430902, u'screw', 0.04039859, u'screwdriver', 0.029720433, u'nail', 0.01049127]
+[u'binder', 0.33434042, u'envelope', 0.13920207, u'matchstick', 0.11790527, u'book_jacket', 0.083840095, u'analog_clock', 0.056720659]
+[u'puck', 0.087169774, u'street_sign', 0.053314075, u'sunscreen', 0.045797739, u'shield', 0.034775425, u'face_powder', 0.033057924]
+[u'corkscrew', 0.97008461, u'can_opener', 0.014892592, u'hook', 0.0050748177, u'wall_clock', 0.0025000395, u'scale', 0.00074871653]

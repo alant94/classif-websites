@@ -1,0 +1,3 @@
+[u'street_sign', 0.35653886, u'traffic_light', 0.04013136, u'book_jacket', 0.037910715, u'envelope', 0.031253278, u'hook', 0.027249936]
+[u'jellyfish', 0.13485879, u'coral_fungus', 0.12132818, u'matchstick', 0.11041763, u'book_jacket', 0.055676594, u'digital_clock', 0.031176478]
+[u'lakeside', 0.33674785, u'dock', 0.14216398, u'palace', 0.12671813, u'drilling_platform', 0.067778438, u'castle', 0.054910488]

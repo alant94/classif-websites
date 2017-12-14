@@ -1,0 +1,4 @@
+[u'military_uniform', 0.30699134, u'breastplate', 0.17825204, u'bearskin', 0.1711719, u'cuirass', 0.097204782, u'throne', 0.049615443]
+[u'wardrobe', 0.67378682, u'vestment', 0.084175296, u'bookcase', 0.065898336, u'cloak', 0.023757, u'academic_gown', 0.021426728]
+[u'fountain', 0.28511041, u'butcher_shop', 0.081951931, u'picket_fence', 0.078563146, u'barbershop', 0.056842446, u'swab', 0.039202176]
+[u'wardrobe', 0.90692705, u'swab', 0.017137419, u'ski', 0.013659546, u'tobacco_shop', 0.0085247569, u'jean', 0.0044549094]

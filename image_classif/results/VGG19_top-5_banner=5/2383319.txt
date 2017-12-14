@@ -1,0 +1,3 @@
+[u'trailer_truck', 0.050998304, u'power_drill', 0.037277509, u'water_bottle', 0.034184873, u'vacuum', 0.025393939, u'knee_pad', 0.023883728]
+[u'scoreboard', 0.15725771, u'fire_engine', 0.05087769, u'garbage_truck', 0.042297836, u'harvester', 0.039877895, u'tow_truck', 0.03703491]
+[u'nipple', 0.54330868, u'water_bottle', 0.16481659, u'water_jug', 0.063262135, u'lotion', 0.048466709, u'beaker', 0.0314762]

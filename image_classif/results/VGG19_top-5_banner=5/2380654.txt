@@ -1,0 +1,4 @@
+[u'microwave', 0.34907213, u'restaurant', 0.20744577, u'dishwasher', 0.090327099, u'dining_table', 0.079519853, u'patio', 0.039294928]
+[u'envelope', 0.15178491, u'web_site', 0.10056902, u'book_jacket', 0.036825266, u'menu', 0.020808013, u'binder', 0.017440883]
+[u'red_wine', 0.49993354, u'wine_bottle', 0.27006581, u'pop_bottle', 0.040074687, u'beer_bottle', 0.03730103, u'corkscrew', 0.031021291]
+[u'red_wine', 0.51646155, u'wine_bottle', 0.3548373, u'beer_bottle', 0.074911557, u'chocolate_sauce', 0.0086030019, u'pop_bottle', 0.0078770285]

@@ -1,0 +1,8 @@
+[u'sandal', 0.17037927, u'buckle', 0.15138894, u'barber_chair', 0.087131202, u'holster', 0.081079863, u'running_shoe', 0.071252428]
+[u'buckle', 0.27612463, u'switch', 0.084165722, u'whistle', 0.083784439, u'holster', 0.077901021, u'digital_watch', 0.074212544]
+[u'Band_Aid', 0.59927231, u'street_sign', 0.20159706, u'rubber_eraser', 0.017916791, u'traffic_light', 0.012452734, u'cash_machine', 0.01052051]
+[u'pencil_sharpener', 0.45335779, u'snorkel', 0.10369524, u'loupe', 0.035342388, u'whistle', 0.029304564, u'digital_watch', 0.026921377]
+[u'wallet', 0.24991766, u'cassette', 0.088677548, u'paintbrush', 0.059805371, u'hatchet', 0.041916944, u'cleaver', 0.036914516]
+[u'loupe', 0.31680369, u'corkscrew', 0.082000822, u'digital_watch', 0.056152973, u'hook', 0.052526046, u'lighter', 0.048025791]
+[u'puck', 0.072454609, u'loupe', 0.052938826, u'remote_control', 0.051879138, u'cellular_telephone', 0.042228155, u'face_powder', 0.040183771]
+[u'bubble', 0.13427319, u'loupe', 0.056962926, u'digital_watch', 0.043960862, u'snorkel', 0.038372446, u'spotlight', 0.03738559]

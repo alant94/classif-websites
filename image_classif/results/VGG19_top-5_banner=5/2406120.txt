@@ -1,0 +1,4 @@
+[u'tray', 0.42019668, u'espresso', 0.12284338, u'cup', 0.12183303, u'teapot', 0.081665128, u"potter's_wheel", 0.065384328]
+[u'park_bench', 0.15801775, u'sundial', 0.12611593, u'patio', 0.091014363, u'rocking_chair', 0.065248407, u'dining_table', 0.055394117]
+[u'chest', 0.47823083, u'crate', 0.21075384, u'hamper', 0.13795, u'crib', 0.024987439, u'desk', 0.020569513]
+[u'picket_fence', 0.28621796, u'seashore', 0.16996582, u'folding_chair', 0.1197998, u'sandbar', 0.06867338, u'radio_telescope', 0.047613047]

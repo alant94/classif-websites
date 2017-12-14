@@ -1,0 +1,4 @@
+[u'hook', 0.24198791, u'nail', 0.053044837, u'spatula', 0.046509914, u"carpenter's_kit", 0.044372596, u'buckle', 0.032017507]
+[u'puck', 0.14948231, u'analog_clock', 0.060115542, u'wall_clock', 0.055078644, u'web_site', 0.027930714, u'rugby_ball', 0.022325624]
+[u'tennis_ball', 0.19532697, u'traffic_light', 0.12397286, u'racket', 0.09471193, u'analog_clock', 0.086763605, u'street_sign', 0.068272784]
+[u'web_site', 0.3412137, u'envelope', 0.06914673, u'rule', 0.019085351, u'analog_clock', 0.018755704, u'rapeseed', 0.013518571]

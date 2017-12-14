@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.39969319, u'digital_clock', 0.061492365, u'Windsor_tie', 0.035536416, u'digital_watch', 0.032890238, u'remote_control', 0.032330055]
+[u'combination_lock', 0.24076876, u'ski', 0.1060034, u'clog', 0.064703777, u'punching_bag', 0.04831567, u'rubber_eraser', 0.036812685]
+[u'slot', 0.99911267, u'web_site', 0.0003637324, u'shield', 0.00028563276, u'scoreboard', 5.1848849e-05, u'analog_clock', 2.6425467e-05]
+[u'coffee_mug', 0.081985004, u'digital_clock', 0.058509316, u'pill_bottle', 0.050805885, u'lipstick', 0.046383481, u'hair_spray', 0.044008996]
+[u'electric_guitar', 0.98694211, u'acoustic_guitar', 0.0030735473, u'stage', 0.0024650691, u'banjo', 0.0023254135, u'bassoon', 0.0015888112]

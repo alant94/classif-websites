@@ -1,0 +1,5 @@
+[u'hamper', 0.38551694, u'wine_bottle', 0.361177, u'restaurant', 0.071840987, u'red_wine', 0.060920026, u'eggnog', 0.016249174]
+[u'container_ship', 0.16500618, u'carton', 0.15209405, u'Band_Aid', 0.049934059, u'maze', 0.048708446, u'quilt', 0.035875306]
+[u'comic_book', 0.49249279, u'web_site', 0.12751317, u'book_jacket', 0.09672413, u'envelope', 0.041442595, u'packet', 0.035953898]
+[u'grocery_store', 0.28649148, u'custard_apple', 0.17318666, u'fig', 0.11959919, u'strawberry', 0.073568046, u'pomegranate', 0.04529937]
+[u'puck', 0.97205579, u'bottlecap', 0.0052870573, u'buckle', 0.0048805084, u'face_powder', 0.0034071931, u'shield', 0.00327279]

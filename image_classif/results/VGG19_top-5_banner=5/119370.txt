@@ -1,0 +1,4 @@
+[u'mask', 0.27495223, u'bonnet', 0.26863649, u'shower_cap', 0.084088899, u'balloon', 0.048359346, u'pencil_sharpener', 0.022284143]
+[u'book_jacket', 0.59782207, u'comic_book', 0.10803712, u'scoreboard', 0.026610112, u'street_sign', 0.022419503, u'hair_spray', 0.01782117]
+[u'horizontal_bar', 0.34760138, u'parallel_bars', 0.13329428, u'pole', 0.1267731, u'flagpole', 0.077551179, u'swab', 0.065383099]
+[u'candle', 0.97771764, u'bakery', 0.0092851724, u'ice_lolly', 0.0067122993, u'ice_cream', 0.0023476817, u'strawberry', 0.0010686123]

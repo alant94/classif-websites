@@ -1,0 +1,2 @@
+[u'street_sign', 0.15912829, u'book_jacket', 0.07963752, u'envelope', 0.072692119, u'padlock', 0.055398006, u'rubber_eraser', 0.03934326]
+[u'oil_filter', 0.32726198, u'tobacco_shop', 0.088946678, u'confectionery', 0.069452696, u'steel_drum', 0.045466058, u'hair_spray', 0.037091494]

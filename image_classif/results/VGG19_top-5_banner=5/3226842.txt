@@ -1,0 +1,2 @@
+[u'solar_dish', 0.094210058, u'patio', 0.091274999, u'mobile_home', 0.078476459, u'alp', 0.057754043, u'boathouse', 0.045609523]
+[u'ballpoint', 0.073854066, u'quill', 0.059395812, u'nail', 0.049748793, u'envelope', 0.034819499, u'safety_pin', 0.032931466]

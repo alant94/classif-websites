@@ -1,0 +1,8 @@
+[u'envelope', 0.11794578, u'wall_clock', 0.055375159, u'wardrobe', 0.031391151, u'book_jacket', 0.029899405, u'digital_clock', 0.028230557]
+[u'ballpoint', 0.2042025, u'rubber_eraser', 0.138292, u'library', 0.11069724, u'binder', 0.083883218, u'bookcase', 0.060742639]
+[u'envelope', 0.124992, u'digital_clock', 0.076380067, u'maze', 0.073168248, u'wall_clock', 0.055627782, u'book_jacket', 0.049650911]
+[u'crossword_puzzle', 0.17103507, u'digital_clock', 0.094696708, u'digital_watch', 0.059562385, u'envelope', 0.026971282, u'Windsor_tie', 0.026244953]
+[u'container_ship', 0.092778616, u'envelope', 0.066150263, u'digital_clock', 0.031395897, u'wall_clock', 0.028449161, u'web_site', 0.020285208]
+[u'envelope', 0.11294913, u'digital_clock', 0.068683282, u'Band_Aid', 0.040038213, u'web_site', 0.034710858, u'crossword_puzzle', 0.022087248]
+[u'envelope', 0.12618789, u'wall_clock', 0.037392087, u'web_site', 0.031036802, u'digital_clock', 0.023768367, u'book_jacket', 0.02233253]
+[u'jersey', 0.66755223, u'sweatshirt', 0.02930052, u'electric_guitar', 0.018887039, u'ping-pong_ball', 0.01476068, u'rugby_ball', 0.013070674]

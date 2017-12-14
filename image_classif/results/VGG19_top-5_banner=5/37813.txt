@@ -1,0 +1,2 @@
+[u'envelope', 0.12285114, u'digital_clock', 0.12269132, u'web_site', 0.099942304, u'Windsor_tie', 0.076851889, u'crossword_puzzle', 0.072481759]
+[u'vestment', 0.32463965, u'torch', 0.18734756, u'wig', 0.04370112, u'lab_coat', 0.042193297, u'cleaver', 0.030439988]

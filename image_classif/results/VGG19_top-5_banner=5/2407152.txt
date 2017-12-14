@@ -1,0 +1,2 @@
+[u'slide_rule', 0.59151816, u'rule', 0.21418916, u'screwdriver', 0.060705617, u'nail', 0.047188621, u'chime', 0.041703463]
+[u'picket_fence', 0.15273471, u'chainlink_fence', 0.10868464, u'safety_pin', 0.079781927, u'parking_meter', 0.033275776, u'viaduct', 0.030088687]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.24836543, u'envelope', 0.14310494, u'safety_pin', 0.087184221, u'face_powder', 0.043042172, u'rubber_eraser', 0.038635444]

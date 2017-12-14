@@ -1,0 +1,2 @@
+[u'microphone', 0.16227476, u'syringe', 0.11769823, u'cleaver', 0.076286346, u'hair_spray', 0.075029753, u'power_drill', 0.050316758]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

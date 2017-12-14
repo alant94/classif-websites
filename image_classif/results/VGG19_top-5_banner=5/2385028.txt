@@ -1,0 +1,3 @@
+[u'nipple', 0.24301952, u'iron', 0.11541373, u'shower_curtain', 0.058459558, u'hair_spray', 0.057927508, u'lotion', 0.057028443]
+[u'lotion', 0.18198416, u'perfume', 0.063215256, u'wine_bottle', 0.060073413, u'hair_spray', 0.058849365, u'plunger', 0.037405983]
+[u'water_bottle', 0.16884583, u'perfume', 0.16176507, u'cocktail_shaker', 0.10655617, u'whiskey_jug', 0.10034044, u'lotion', 0.094761357]

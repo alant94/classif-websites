@@ -1,0 +1,4 @@
+[u"carpenter's_kit", 0.17552574, u'digital_clock', 0.084367409, u'spatula', 0.069581747, u'typewriter_keyboard', 0.050665699, u'street_sign', 0.044685021]
+[u'oscilloscope', 0.55364668, u'digital_clock', 0.31380865, u'theater_curtain', 0.016146569, u'cinema', 0.0072617689, u'screen', 0.0065945792]
+[u'book_jacket', 0.44501111, u'scoreboard', 0.22564305, u'digital_clock', 0.049425285, u'odometer', 0.037826791, u'cinema', 0.032777656]
+[u'book_jacket', 0.61294389, u'envelope', 0.12194443, u'web_site', 0.0891167, u'binder', 0.020237163, u'packet', 0.014809411]

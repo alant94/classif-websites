@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.93454939, u'punching_bag', 0.0082552619, u'wall_clock', 0.0063426169, u'barbershop', 0.0051702145, u'ski', 0.0040201866]

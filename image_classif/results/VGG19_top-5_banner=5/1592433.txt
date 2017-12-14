@@ -1,0 +1,8 @@
+[u'shower_curtain', 0.12717517, u'handkerchief', 0.076271378, u'quilt', 0.055707913, u'Windsor_tie', 0.042826105, u'container_ship', 0.042666771]
+[u'switch', 0.32255656, u'jersey', 0.044654623, u'digital_clock', 0.03257934, u'lighter', 0.026997156, u'envelope', 0.020645417]
+[u'candle', 0.47314569, u'shower_curtain', 0.09380126, u'bath_towel', 0.054357473, u'carton', 0.028499933, u'clog', 0.021813242]
+[u'wig', 0.15627739, u'hand_blower', 0.074412674, u'bathing_cap', 0.056136429, u'bonnet', 0.054224808, u'lab_coat', 0.041051511]
+[u'bathtub', 0.25185335, u'tub', 0.15879057, u'bikini', 0.14847307, u'brassiere', 0.10734526, u'sunscreen', 0.068879806]
+[u'brassiere', 0.63233864, u'maillot', 0.083591819, u'bikini', 0.052746594, u'miniskirt', 0.04483518, u'diaper', 0.027321873]
+[u'wig', 0.24086338, u'shower_curtain', 0.03620261, u'shower_cap', 0.033028729, u'candle', 0.03294855, u'lipstick', 0.026614504]
+[u'space_shuttle', 0.77260298, u'missile', 0.13893074, u'projectile', 0.048996028, u'dam', 0.011108667, u'boathouse', 0.0028235789]

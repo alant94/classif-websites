@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.24935086, u'fire_screen', 0.070251055, u'book_jacket', 0.066691093, u'brass', 0.050488256, u'prayer_rug', 0.048466757]
+[u'chime', 0.85040593, u'marimba', 0.077773102, u'organ', 0.015177411, u'lipstick', 0.011425905, u'upright', 0.0061438535]

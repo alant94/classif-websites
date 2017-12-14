@@ -1,0 +1,2 @@
+[u'street_sign', 0.74084181, u'hook', 0.12162302, u'scale', 0.03682375, u'traffic_light', 0.027072364, u'digital_clock', 0.022488879]
+[u'stretcher', 0.26242656, u'space_heater', 0.23615001, u'scale', 0.21433406, u'hook', 0.12119787, u'street_sign', 0.019714961]

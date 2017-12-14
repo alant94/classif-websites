@@ -1,0 +1,1 @@
+[u'digital_watch', 0.51411438, u'stopwatch', 0.22273502, u'cellular_telephone', 0.099613734, u'dumbbell', 0.03255764, u'lighter', 0.026723193]

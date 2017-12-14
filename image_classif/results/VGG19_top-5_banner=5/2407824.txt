@@ -1,0 +1,3 @@
+[u'llama', 0.69113523, u'muzzle', 0.22798221, u'horse_cart', 0.047258005, u'ox', 0.0088774748, u'Arabian_camel', 0.0064721145]
+[u'menu', 0.34033361, u'Band_Aid', 0.10665791, u'web_site', 0.062808193, u'crossword_puzzle', 0.049065232, u'envelope', 0.042449158]
+[u'bookshop', 0.32637429, u'tobacco_shop', 0.099443935, u'barbershop', 0.062351257, u'bakery', 0.05422733, u'patio', 0.048202597]

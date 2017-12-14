@@ -1,0 +1,7 @@
+[u'digital_clock', 0.88981724, u'digital_watch', 0.020657247, u'wall_clock', 0.016869893, u'container_ship', 0.013874532, u'maze', 0.0067137657]
+[u'digital_clock', 0.22229147, u'web_site', 0.14067622, u'washbasin', 0.032571502, u'wall_clock', 0.029761463, u'envelope', 0.023069849]
+[u'web_site', 0.059778467, u'envelope', 0.044271518, u'shower_curtain', 0.025843637, u'toilet_seat', 0.016916957, u'panpipe', 0.014451256]
+[u'web_site', 0.19798546, u'envelope', 0.17133714, u'candle', 0.046257962, u'binder', 0.033485804, u'lighter', 0.020764185]
+[u'digital_clock', 0.4586767, u'envelope', 0.10444407, u'web_site', 0.047431491, u'rule', 0.043838564, u'wall_clock', 0.032139026]
+[u'digital_clock', 0.30972725, u'crossword_puzzle', 0.22216843, u'quilt', 0.063050516, u'maze', 0.034394484, u'envelope', 0.026492186]
+[u'envelope', 0.1581526, u'web_site', 0.081744395, u'shower_curtain', 0.042477731, u'wardrobe', 0.034096468, u'binder', 0.02962135]

@@ -1,0 +1,5 @@
+[u'beacon', 0.061984446, u'bulletproof_vest', 0.04509785, u'bathing_cap', 0.035885904, u'traffic_light', 0.033100989, u'toilet_seat', 0.026528727]
+[u"potter's_wheel", 0.15280324, u'harmonica', 0.14505969, u'Band_Aid', 0.088711269, u'diaper', 0.07453309, u'bath_towel', 0.038049486]
+[u'diaper', 0.07263831, u'swimming_trunks', 0.054054931, u'cowboy_hat', 0.03208933, u'Band_Aid', 0.031401422, u'power_drill', 0.027174266]
+[u'bathtub', 0.19338505, u'shower_cap', 0.17773956, u'tub', 0.16409151, u'sunscreen', 0.11019926, u'hand_blower', 0.052974567]
+[u'loupe', 0.33258137, u'face_powder', 0.15525243, u'hook', 0.032825746, u'stopwatch', 0.026958456, u'traffic_light', 0.024737831]

@@ -1,0 +1,6 @@
+[u'book_jacket', 0.21956998, u'picket_fence', 0.20940818, u'sliding_door', 0.056486256, u'window_screen', 0.024796031, u'envelope', 0.022855336]
+[u'wine_bottle', 0.31083769, u'beer_bottle', 0.086674832, u'red_wine', 0.084567919, u'vending_machine', 0.0794347, u'pop_bottle', 0.042614564]
+[u'safe', 0.12640822, u'gas_pump', 0.080400348, u'cassette', 0.032806374, u'microwave', 0.031491507, u'vending_machine', 0.02775904]
+[u'web_site', 0.36350617, u'envelope', 0.094444849, u'matchstick', 0.013571915, u'monitor', 0.013082391, u'analog_clock', 0.011969472]
+[u'guillotine', 0.19165786, u'window_screen', 0.071948469, u'crate', 0.037749782, u'bell_cote', 0.036183313, u'pier', 0.034432016]
+[u'sorrel', 0.1281877, u'butcher_shop', 0.094208941, u'lab_coat', 0.049608842, u'Afghan_hound', 0.046130475, u'worm_fence', 0.035646174]

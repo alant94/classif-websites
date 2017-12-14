@@ -1,0 +1,4 @@
+[u'medicine_chest', 0.21209134, u'bookcase', 0.12171485, u'bookshop', 0.062030394, u'sliding_door', 0.047025293, u'wardrobe', 0.046124801]
+[u'fire_screen', 0.25231051, u'oscilloscope', 0.11881286, u'window_screen', 0.11001332, u'sliding_door', 0.1075513, u'tray', 0.065315418]
+[u'window_screen', 0.46218151, u'window_shade', 0.17324437, u'sliding_door', 0.07329978, u'medicine_chest', 0.052346457, u'shoji', 0.028717542]
+[u'window_screen', 0.23470154, u'window_shade', 0.13956743, u'sliding_door', 0.13627702, u'shoji', 0.10713658, u'handkerchief', 0.10454204]

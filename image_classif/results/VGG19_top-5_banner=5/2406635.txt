@@ -1,0 +1,4 @@
+[u'trifle', 0.30971703, u'pretzel', 0.13185626, u'bagel', 0.10091834, u'measuring_cup', 0.040550418, u'king_snake', 0.020316387]
+[u'king_snake', 0.39471141, u'rock_python', 0.34712085, u'boa_constrictor', 0.14929211, u'horned_viper', 0.016504081, u'night_snake', 0.010014709]
+[u'starfish', 0.71645808, u'coral_fungus', 0.10265788, u'sea_slug', 0.048586674, u'eft', 0.020765653, u'coral_reef', 0.016595626]
+[u'sidewinder', 0.21273457, u'night_snake', 0.20972164, u'king_snake', 0.14435183, u'rock_python', 0.14291589, u'horned_viper', 0.10597276]

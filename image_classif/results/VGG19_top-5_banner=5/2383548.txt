@@ -1,0 +1,5 @@
+[u'puck', 0.13827118, u'digital_clock', 0.072630584, u'digital_watch', 0.061402511, u'shower_cap', 0.041629173, u'analog_clock', 0.033177756]
+[u'chainlink_fence', 0.33233392, u'prison', 0.12423819, u'padlock', 0.067585312, u'crate', 0.059365284, u'book_jacket', 0.041734092]
+[u'switch', 0.52012527, u'oscilloscope', 0.23887265, u'web_site', 0.047021564, u'safe', 0.04131297, u'screen', 0.036544759]
+[u'paintbrush', 0.0403185, u'matchstick', 0.038235601, u'torch', 0.036687035, u'paddle', 0.036600646, u'missile', 0.032105647]
+[u'fire_screen', 0.4076708, u'window_screen', 0.23912057, u'medicine_chest', 0.09233693, u'doormat', 0.04649191, u'tray', 0.040605217]

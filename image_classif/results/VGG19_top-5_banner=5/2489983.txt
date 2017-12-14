@@ -1,0 +1,1 @@
+[u'Saluki', 0.29947856, u'Ibizan_hound', 0.13729014, u'whippet', 0.10355745, u'English_foxhound', 0.044733401, u'maypole', 0.043847393]

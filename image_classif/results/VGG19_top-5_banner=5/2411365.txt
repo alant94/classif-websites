@@ -1,0 +1,2 @@
+[u'candle', 0.2132491, u'lighter', 0.079011656, u'envelope', 0.057062618, u'lampshade', 0.054920379, u'obelisk', 0.036889017]
+[u'pretzel', 0.9006179, u'hook', 0.042166952, u'chain', 0.035447672, u'coil', 0.0030773263, u'padlock', 0.0026878265]

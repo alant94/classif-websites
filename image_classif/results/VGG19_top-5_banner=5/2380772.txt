@@ -1,0 +1,2 @@
+[u'barbershop', 0.13868299, u'book_jacket', 0.13133542, u'comic_book', 0.12471403, u'street_sign', 0.12420424, u'web_site', 0.057732802]
+[u'slot', 0.23032114, u'cinema', 0.14162162, u'scoreboard', 0.077792533, u'comic_book', 0.072630346, u'packet', 0.069703884]

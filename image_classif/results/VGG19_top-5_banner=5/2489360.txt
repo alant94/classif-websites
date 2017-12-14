@@ -1,0 +1,4 @@
+[u'web_site', 0.66229248, u'packet', 0.064106889, u'menu', 0.056102611, u'book_jacket', 0.051639017, u'envelope', 0.039875731]
+[u'English_foxhound', 0.58135611, u'bloodhound', 0.14689554, u'Walker_hound', 0.057765853, u'Great_Dane', 0.040780488, u'Saluki', 0.030516794]
+[u'mountain_bike', 0.18304104, u'valley', 0.15213932, u'cliff', 0.086043611, u'unicycle', 0.056345131, u'alp', 0.041029166]
+[u'picket_fence', 0.14691062, u'screwdriver', 0.060249034, u'candle', 0.037402391, u'chime', 0.030994073, u'hair_spray', 0.020425843]

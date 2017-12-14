@@ -1,0 +1,1 @@
+[u'maillot', 0.2274002, u'brassiere', 0.20277035, u'balance_beam', 0.083652265, u'book_jacket', 0.070727348, u'maillot', 0.070000418]

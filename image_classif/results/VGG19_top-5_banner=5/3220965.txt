@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.16534172, u'traffic_light', 0.11859877, u'candle', 0.052629065, u'picket_fence', 0.041786138, u'matchstick', 0.038467582]
+[u'lighter', 0.26759532, u'traffic_light', 0.17693247, u'book_jacket', 0.037050664, u'street_sign', 0.028933581, u'digital_clock', 0.025373753]
+[u'vault', 0.15271826, u'church', 0.091622658, u'altar', 0.075867534, u'suit', 0.066432469, u'monastery', 0.049328793]
+[u'tray', 0.11833978, u'scale', 0.095476329, u'digital_clock', 0.072375193, u'digital_watch', 0.063191004, u'ashcan', 0.052197602]

@@ -1,0 +1,7 @@
+[u'book_jacket', 0.48320556, u'slide_rule', 0.11420069, u'menu', 0.10203744, u'envelope', 0.090254746, u'red_wine', 0.056423184]
+[u'envelope', 0.40111673, u'plastic_bag', 0.13982156, u'toilet_tissue', 0.066021711, u'paper_towel', 0.051314473, u'quill', 0.029153073]
+[u'teapot', 0.36809328, u'pedestal', 0.13842453, u'iron', 0.10347111, u'breastplate', 0.052394971, u'coffeepot', 0.03002899]
+[u'corkscrew', 0.21490392, u'pencil_sharpener', 0.076767482, u'rhinoceros_beetle', 0.050565798, u'mousetrap', 0.040143669, u'chain_saw', 0.038417544]
+[u'book_jacket', 0.42988381, u'comic_book', 0.33069965, u'jigsaw_puzzle', 0.033505145, u'shield', 0.024358233, u'throne', 0.022034317]
+[u'teapot', 0.35673785, u'vase', 0.17154087, u'pitcher', 0.068931364, u'caldron', 0.067880481, u'whiskey_jug', 0.021877771]
+[u'trilobite', 0.30780074, u'buckle', 0.13048512, u'chiton', 0.090076342, u'ocarina', 0.053806871, u'shield', 0.046536554]

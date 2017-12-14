@@ -1,0 +1,4 @@
+[u'book_jacket', 0.70963234, u'web_site', 0.036532015, u'digital_clock', 0.03568298, u'envelope', 0.025798276, u'cash_machine', 0.020062078]
+[u'digital_clock', 0.32617477, u'digital_watch', 0.055162068, u'matchstick', 0.043420821, u'envelope', 0.041716494, u'picket_fence', 0.036467344]
+[u'container_ship', 0.4259972, u'monitor', 0.23143822, u'screen', 0.11941105, u'digital_clock', 0.034283381, u'television', 0.021999275]
+[u'container_ship', 0.53412622, u'digital_clock', 0.069839872, u'scoreboard', 0.041618027, u'beacon', 0.023536252, u'envelope', 0.013826315]

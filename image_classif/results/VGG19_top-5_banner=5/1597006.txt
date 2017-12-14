@@ -1,0 +1,1 @@
+[u'thresher', 0.13359855, u'plow', 0.12802987, u'harvester', 0.11834065, u'toilet_seat', 0.096449718, u'wall_clock', 0.03445274]

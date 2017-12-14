@@ -1,0 +1,2 @@
+[u'television', 0.067309462, u'web_site', 0.060407665, u'cellular_telephone', 0.054027632, u'monitor', 0.05336507, u'toaster', 0.047696251]
+[u'crib', 0.29252711, u'cradle', 0.12609898, u'diaper', 0.040049735, u'Chihuahua', 0.03764049, u'hog', 0.030632131]

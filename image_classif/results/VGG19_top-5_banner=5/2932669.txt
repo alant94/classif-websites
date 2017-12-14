@@ -1,0 +1,3 @@
+[u'drumstick', 0.048930246, u'beer_glass', 0.032189161, u'jersey', 0.027480211, u'pick', 0.027286805, u'laptop', 0.023786677]
+[u'ping-pong_ball', 0.088878408, u'racket', 0.084654719, u'jean', 0.075208567, u'dumbbell', 0.073179662, u'barbell', 0.062053341]
+[u'racket', 0.4255591, u'tennis_ball', 0.073680907, u'lab_coat', 0.060333692, u'ballplayer', 0.04342458, u'ping-pong_ball', 0.021499267]

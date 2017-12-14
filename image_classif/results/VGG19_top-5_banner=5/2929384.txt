@@ -1,0 +1,2 @@
+[u'military_uniform', 0.35729471, u'pickelhaube', 0.15353167, u'ballplayer', 0.063416675, u'bow_tie', 0.045245286, u'suit', 0.036087893]
+[u'sax', 0.10778988, u'bassoon', 0.097887918, u'oboe', 0.093348667, u'bow_tie', 0.076977588, u'suit', 0.066919737]

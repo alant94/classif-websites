@@ -1,0 +1,2 @@
+[u'brassiere', 0.19914123, u'bikini', 0.12024142, u'maillot', 0.05082161, u'shower_curtain', 0.04027408, u'plastic_bag', 0.018175514]
+[u'screen', 0.39320618, u'medicine_chest', 0.15126796, u'binder', 0.13266084, u'monitor', 0.066548161, u'radiator', 0.058354542]

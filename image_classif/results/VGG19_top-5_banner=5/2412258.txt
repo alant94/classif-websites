@@ -1,0 +1,5 @@
+[u'brassiere', 0.4108699, u'parallel_bars', 0.24503858, u'butcher_shop', 0.15755984, u'pole', 0.066522025, u'horizontal_bar', 0.02523353]
+[u'monitor', 0.22446252, u'screen', 0.21771833, u'television', 0.14274539, u'notebook', 0.023402527, u'cash_machine', 0.017280141]
+[u'cliff', 0.867881, u'wreck', 0.047895972, u'promontory', 0.019589396, u'seashore', 0.010589044, u'lakeside', 0.0083224764]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'toilet_seat', 0.38571632, u'neck_brace', 0.061513942, u'face_powder', 0.049723905, u'nematode', 0.045349643, u'spotlight', 0.04486471]

@@ -1,0 +1,1 @@
+[u'beer_bottle', 0.13511427, u'cinema', 0.12751357, u'pop_bottle', 0.089131892, u'barbershop', 0.030133136, u'hair_spray', 0.025067341]

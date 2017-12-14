@@ -1,0 +1,8 @@
+[u'bikini', 0.64441371, u'maillot', 0.060718704, u'sarong', 0.047664836, u'swimming_trunks', 0.041036673, u'maillot', 0.040671337]
+[u'fur_coat', 0.60448313, u'miniskirt', 0.082645066, u'swimming_trunks', 0.051234856, u'tub', 0.021169528, u'pajama', 0.016172851]
+[u'bathing_cap', 0.21454047, u'sunglass', 0.078568086, u'bikini', 0.052473791, u'maillot', 0.049727712, u'sunscreen', 0.044669021]
+[u'bath_towel', 0.63222623, u'barbershop', 0.097528987, u'neck_brace', 0.044426009, u'diaper', 0.029378869, u'fur_coat', 0.023349077]
+[u'Band_Aid', 0.15962017, u'swimming_trunks', 0.12219714, u'bikini', 0.057506077, u'brassiere', 0.047512423, u'bathing_cap', 0.047058567]
+[u"potter's_wheel", 0.66009051, u'dough', 0.051222838, u'Weimaraner', 0.031312656, u'iron', 0.023984801, u'studio_couch', 0.020303182]
+[u'balance_beam', 0.30949262, u'bikini', 0.076576561, u'maillot', 0.075650901, u'maillot', 0.053400125, u'swimming_trunks', 0.043016952]
+[u'earthstar', 0.086970933, u'Chihuahua', 0.083368406, u'starfish', 0.053236563, u'French_bulldog', 0.031443875, u'pug', 0.023475019]

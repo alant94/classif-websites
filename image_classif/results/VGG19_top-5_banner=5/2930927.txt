@@ -1,0 +1,4 @@
+[u'hammerhead', 0.20761971, u'jigsaw_puzzle', 0.097816765, u'starfish', 0.054315083, u'candle', 0.052618235, u'envelope', 0.03586683]
+[u'ballpoint', 0.8196547, u'rubber_eraser', 0.04968369, u'fountain_pen', 0.04871171, u'screwdriver', 0.025946869, u'rule', 0.015170207]
+[u'lipstick', 0.083708391, u'pajama', 0.074097894, u'kimono', 0.057614021, u'stethoscope', 0.056318399, u'bow_tie', 0.034696311]
+[u'screen', 0.14276001, u'cash_machine', 0.12891187, u'book_jacket', 0.081539206, u'menu', 0.063789718, u'television', 0.063686199]

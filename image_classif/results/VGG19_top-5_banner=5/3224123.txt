@@ -1,0 +1,4 @@
+[u'torch', 0.12490371, u'candle', 0.09365996, u'shield', 0.040308893, u'sunscreen', 0.04001816, u'matchstick', 0.038959764]
+[u'street_sign', 0.21399353, u'digital_clock', 0.049178652, u'scoreboard', 0.037050128, u'remote_control', 0.021668572, u'chainlink_fence', 0.019663434]
+[u'street_sign', 0.51438546, u'book_jacket', 0.096762873, u'digital_clock', 0.054849364, u'lighter', 0.027679501, u'rubber_eraser', 0.027071849]
+[u'church', 0.28634968, u'palace', 0.07328517, u'mosque', 0.055577099, u'monastery', 0.04272062, u'cinema', 0.032171525]

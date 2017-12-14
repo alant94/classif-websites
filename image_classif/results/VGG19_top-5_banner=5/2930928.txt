@@ -1,0 +1,1 @@
+[u'dam', 0.2714676, u'fountain', 0.14007278, u'geyser', 0.044918302, u'killer_whale', 0.036886491, u'fireboat', 0.029115306]

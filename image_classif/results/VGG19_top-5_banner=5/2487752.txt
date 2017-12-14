@@ -1,0 +1,2 @@
+[u'corkscrew', 0.2923435, u'can_opener', 0.046414915, u'magnetic_compass', 0.041996911, u'hair_slide', 0.033358414, u'letter_opener', 0.031285565]
+[u'spindle', 0.66450602, u'drum', 0.070377812, u'gong', 0.048523311, u'wall_clock', 0.042258576, u'matchstick', 0.028907744]

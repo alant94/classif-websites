@@ -1,0 +1,8 @@
+[u'web_site', 0.93277967, u'menu', 0.026264643, u'comic_book', 0.016850861, u'book_jacket', 0.0088950954, u'envelope', 0.0018078955]
+[u'web_site', 0.99991262, u'menu', 2.4420578e-05, u'envelope', 1.6465901e-05, u'comic_book', 1.1631084e-05, u'book_jacket', 8.4697058e-06]
+[u'web_site', 0.95624709, u'menu', 0.029622687, u'envelope', 0.0033928503, u'comic_book', 0.0026680129, u'book_jacket', 0.0012805881]
+[u'web_site', 0.98807389, u'comic_book', 0.0085325334, u'book_jacket', 0.0013338717, u'menu', 0.0008191822, u'envelope', 0.00050145469]
+[u'web_site', 0.99984407, u'menu', 0.00013702149, u'brassiere', 2.8783738e-06, u'envelope', 2.317749e-06, u'book_jacket', 2.0119792e-06]
+[u'web_site', 0.99114287, u'book_jacket', 0.005174404, u'comic_book', 0.0024015573, u'menu', 0.0001962255, u'bloodhound', 0.00014112663]
+[u'web_site', 0.9781512, u'comic_book', 0.015388067, u'book_jacket', 0.0021940724, u'menu', 0.0020957459, u'jigsaw_puzzle', 0.00043169904]
+[u'web_site', 0.99986684, u'television', 4.0665829e-05, u'book_jacket', 1.5532498e-05, u'screen', 1.2615793e-05, u'cassette', 9.569686e-06]

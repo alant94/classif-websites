@@ -1,0 +1,1 @@
+[u'book_jacket', 0.48867643, u'beer_glass', 0.065460265, u'pop_bottle', 0.051806424, u'coffee_mug', 0.04712395, u'beer_bottle', 0.029682253]

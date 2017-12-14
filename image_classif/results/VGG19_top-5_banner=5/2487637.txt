@@ -1,0 +1,3 @@
+[u'barn', 0.22282591, u'patio', 0.16269629, u'monastery', 0.081799895, u'bell_cote', 0.06631127, u'lumbermill', 0.039610829]
+[u'organ', 0.24688764, u'crib', 0.079336174, u'chime', 0.058555286, u'rule', 0.044562019, u'rubber_eraser', 0.033509105]
+[u'chain_saw', 0.48400784, u'rifle', 0.19776693, u'assault_rifle', 0.10006858, u'lumbermill', 0.063880593, u'hatchet', 0.058517076]

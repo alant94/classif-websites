@@ -1,0 +1,6 @@
+[u'strainer', 0.27270558, u'measuring_cup', 0.17380007, u'frying_pan', 0.15573321, u'wok', 0.077758007, u'washbasin', 0.039296184]
+[u'barrel', 0.20942064, u'analog_clock', 0.10214365, u'scale', 0.077993184, u'wall_clock', 0.05891265, u'barometer', 0.035883386]
+[u'red_wine', 0.41226888, u'wine_bottle', 0.36696008, u'perfume', 0.11540834, u'pop_bottle', 0.01648654, u'goblet', 0.01569798]
+[u'missile', 0.34187752, u'projectile', 0.15351264, u'fountain_pen', 0.11883496, u'radiator', 0.082514443, u'picket_fence', 0.036904007]
+[u'television', 0.059854321, u'spotlight', 0.056688122, u'projector', 0.043990139, u'monitor', 0.030681057, u'screen', 0.030605646]
+[u'envelope', 0.064749807, u'web_site', 0.04097195, u'matchstick', 0.014778629, u'lipstick', 0.01430319, u'syringe', 0.013106017]

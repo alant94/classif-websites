@@ -1,0 +1,5 @@
+[u'odometer', 0.32012483, u'stopwatch', 0.26716992, u'joystick', 0.13773993, u'parking_meter', 0.081562921, u'digital_watch', 0.023718242]
+[u'gas_pump', 0.30002171, u'switch', 0.19210015, u'digital_clock', 0.065185487, u'digital_watch', 0.037958372, u'pay-phone', 0.034628384]
+[u'shower_curtain', 0.89290839, u'abacus', 0.035254236, u'plunger', 0.0084145777, u'balloon', 0.0073820609, u'water_bottle', 0.0046315212]
+[u'vending_machine', 0.79074365, u'slot', 0.061099008, u'remote_control', 0.045296673, u'cellular_telephone', 0.031866301, u'hand-held_computer', 0.012525307]
+[u'rubber_eraser', 0.23158978, u'pencil_box', 0.15533766, u'ballpoint', 0.072034061, u'face_powder', 0.067722417, u"carpenter's_kit", 0.063269541]

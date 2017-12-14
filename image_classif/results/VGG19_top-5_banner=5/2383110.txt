@@ -1,0 +1,5 @@
+[u'torch', 0.069246978, u'ear', 0.051608037, u'microphone', 0.042123765, u'lampshade', 0.037545756, u'chime', 0.035258796]
+[u'limpkin', 0.18022926, u'acorn', 0.10681622, u'bulbul', 0.099684805, u'vulture', 0.085724615, u'macaw', 0.046464585]
+[u'envelope', 0.53957391, u'wall_clock', 0.043036576, u'picket_fence', 0.036473118, u'carton', 0.033493288, u'church', 0.027004654]
+[u'cocktail_shaker', 0.12604359, u'oxygen_mask', 0.068659157, u'gasmask', 0.046679739, u'microphone', 0.045651726, u'power_drill', 0.038017318]
+[u'wall_clock', 0.056941826, u'switch', 0.022077912, u'matchstick', 0.020687979, u'nematode', 0.020297773, u'hourglass', 0.017522097]

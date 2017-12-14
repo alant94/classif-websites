@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.16991651, u'mosquito_net', 0.087316051, u'pop_bottle', 0.068229817, u'beer_glass', 0.054697894, u'greenhouse', 0.04261132]
+[u"carpenter's_kit", 0.37993404, u'screwdriver', 0.25103846, u'wine_bottle', 0.18860728, u'fountain_pen', 0.025857523, u'paintbrush', 0.022613594]
+[u'valley', 0.42551038, u'volcano', 0.12809812, u'alp', 0.08712212, u'lakeside', 0.071652539, u'castle', 0.045233805]

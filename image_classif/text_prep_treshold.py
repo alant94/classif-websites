@@ -7,6 +7,8 @@ import os
 import glob
 import re
 from collections import Counter
+import math
+import operator
 
 def file_to_list_with_treshold (full_path_to_file, treshold):
 	""" Функция преобразует файл, заданный в виде строки (полный путь к файлу)
@@ -60,7 +62,7 @@ connect = psycopg2.connect(
 cursor = connect.cursor()
 
 
-# Функция для составления хэш-таблицы со значениями tf для всей категории
+# Функция для составления хэш-таблицы со значениями tf классов для всей категории
 # Возвращает (hash-table, not_empty_count)
 def tf_for_category(entry_id_from,entry_id_to):
 
@@ -78,7 +80,7 @@ def tf_for_category(entry_id_from,entry_id_to):
 		path_to_file = '/home/alant/python/nirs/image_classif/results/VGG16_top-5_banner_4/' + str(website_id[0]) + ".txt"
 		#print path_to_file
 		site_text = file_to_list_with_treshold (path_to_file, 0.2)
-		# Подсчёт количества сайтов без классов
+		# Подсчёт количества непустых сайтов, имеющих значимые классы картинок
 		if site_text:
 			not_empty_count = not_empty_count + 1
 		site_dict = Counter(compute_tf(site_text))
@@ -118,9 +120,53 @@ medical_tfs = tf_for_category(8000,9001)
 #print medical_tfs
 
 religion_tfs = tf_for_category(9000,10001)
-print religion_tfs
+#print religion_tfs
 
 
+# Общее количество непустых результирующих списков из 10К сайтов
+total_count = music_tfs[1]+gamesonline_tfs[1]+chat_tfs[1]+ecommerce_tfs[1]+adult_tfs[1]+alcohol_tfs[1]+hunting_tfs[1]+news_tfs[1]+medical_tfs[1]+religion_tfs[1]
+#print total_count
+
+total_dict = music_tfs[0]+gamesonline_tfs[0]+chat_tfs[0]+ecommerce_tfs[0]+adult_tfs[0]+alcohol_tfs[0]+hunting_tfs[0]+news_tfs[0]+medical_tfs[0]+religion_tfs[0]
+#print total_dict
+
+IDF_dict = {}
+# Подсчёт IDF для всех классов и запись в единый словарь
+for term in total_dict:
+	#print i, total_dict[i], math.log10(total_count/total_dict[i])
+	term_idf = math.log10(total_count/total_dict[term])
+	IDF_dict[term] = term_idf
+
+#print IDF_dict
+
+
+
+def produce_tf_idf_for_category(category_tfs):
+
+	tf_idf_dict = Counter({})
+
+	for term in category_tfs[0]:
+		
+		tf = float(category_tfs[0][term])/category_tfs[1]
+		#print "Term, TF, IDF: ", term, tf, IDF_dict[term]
+		
+		tf_idf = tf * IDF_dict[term]
+		#print "TF-IDF:			", tf_idf, '\n'
+
+		tf_idf_dict[term] = tf_idf
+
+	return tf_idf_dict
+
+
+
+
+for tfs in [music_tfs, gamesonline_tfs, chat_tfs, ecommerce_tfs, adult_tfs, alcohol_tfs, hunting_tfs, news_tfs, medical_tfs, religion_tfs]:
+
+	cur_tf_idf = produce_tf_idf_for_category(tfs)
+
+	print '\n'
+	for elem in cur_tf_idf.most_common(10):
+		print elem
 
 # print list_of_files
 """

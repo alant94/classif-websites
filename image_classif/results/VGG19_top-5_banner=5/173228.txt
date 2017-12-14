@@ -1,0 +1,8 @@
+[u'slot', 0.47967905, u'shield', 0.19665161, u'scoreboard', 0.06844914, u'buckle', 0.035651393, u'bolo_tie', 0.027824577]
+[u'web_site', 0.58664793, u'television', 0.13350643, u'Windsor_tie', 0.056357123, u'screen', 0.042084288, u'suit', 0.036134522]
+[u'analog_clock', 0.13623755, u'cassette', 0.13548657, u'loupe', 0.064719342, u'wall_clock', 0.059043117, u'plane', 0.042877346]
+[u'racer', 0.35113969, u'cassette_player', 0.27909088, u'sports_car', 0.15917353, u'tape_player', 0.035626564, u'passenger_car', 0.031582959]
+[u'digital_clock', 0.22643639, u'cassette_player', 0.2207512, u'tape_player', 0.13610102, u'stopwatch', 0.094402723, u'radio', 0.078019522]
+[u'joystick', 0.33727574, u'remote_control', 0.14683285, u'switch', 0.11475524, u'binoculars', 0.046821788, u'modem', 0.044174045]
+[u'digital_clock', 0.46215281, u'stopwatch', 0.19456089, u'street_sign', 0.051280964, u'scale', 0.036517356, u'analog_clock', 0.021148406]
+[u'digital_clock', 0.89299136, u'digital_watch', 0.044094339, u'stopwatch', 0.01040749, u'book_jacket', 0.0083375536, u'wall_clock', 0.0083283512]

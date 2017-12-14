@@ -1,0 +1,2 @@
+[u'screwdriver', 0.19159561, u'lipstick', 0.11853962, u'ballpoint', 0.11039165, u'whistle', 0.052985691, u'safety_pin', 0.040208563]
+[u'screwdriver', 0.07366275, u'bow', 0.061320502, u"carpenter's_kit", 0.058096107, u'chime', 0.042785347, u'hook', 0.0343608]

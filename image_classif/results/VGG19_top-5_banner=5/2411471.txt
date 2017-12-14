@@ -1,0 +1,8 @@
+[u'tripod', 0.91811687, u'lighter', 0.014453815, u'matchstick', 0.006219462, u'wall_clock', 0.0053497637, u'letter_opener', 0.0052465252]
+[u'space_shuttle', 0.088154398, u'missile', 0.061676472, u'suit', 0.043136727, u'projectile', 0.039856542, u'abaya', 0.033493575]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'book_jacket', 0.20818715, u'screen', 0.07342115, u'monitor', 0.046960369, u'cash_machine', 0.045814432, u'binder', 0.043012373]
+[u'oscilloscope', 0.14622651, u'screen', 0.11635213, u'book_jacket', 0.095032789, u'monitor', 0.083567068, u'analog_clock', 0.038978398]
+[u'book_jacket', 0.14990044, u'screen', 0.10472339, u'oscilloscope', 0.081136905, u'web_site', 0.081050947, u'monitor', 0.067248113]
+[u'book_jacket', 0.13100453, u'oscilloscope', 0.063648686, u'screen', 0.060732055, u'web_site', 0.059875831, u'binder', 0.045493238]
+[u'safe', 0.12519482, u'switch', 0.090990096, u'crate', 0.080957063, u'photocopier', 0.066270858, u'apiary', 0.053998351]

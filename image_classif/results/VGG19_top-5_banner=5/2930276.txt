@@ -1,0 +1,4 @@
+[u'screwdriver', 0.11974287, u'printer', 0.09664382, u"carpenter's_kit", 0.060802329, u'toaster', 0.055680297, u'ballpoint', 0.053662803]
+[u'menu', 0.94740701, u'web_site', 0.012548877, u'packet', 0.011714388, u'envelope', 0.0046554795, u'crossword_puzzle', 0.0036046037]
+[u'Windsor_tie', 0.070728593, u'digital_watch', 0.059706487, u'handkerchief', 0.046708748, u'toilet_seat', 0.042830244, u'tray', 0.032056194]
+[u'microphone', 0.068148173, u'stage', 0.061812986, u'accordion', 0.054837506, u'drumstick', 0.033459902, u'suit', 0.028106002]

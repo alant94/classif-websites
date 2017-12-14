@@ -1,0 +1,5 @@
+[u'trombone', 0.11181073, u'cornet', 0.098015778, u'bow', 0.060909953, u'stage', 0.053533532, u'gong', 0.044069491]
+[u'ballplayer', 0.28188068, u'rugby_ball', 0.22423241, u'baseball', 0.092861176, u'mortarboard', 0.057695776, u'academic_gown', 0.053064115]
+[u'fountain', 0.96165073, u'matchstick', 0.01175125, u'volcano', 0.0065510869, u'spider_web', 0.0040236134, u'theater_curtain', 0.0037292631]
+[u'cliff', 0.53424793, u'cliff_dwelling', 0.22724448, u'dam', 0.042781569, u'promontory', 0.042707257, u'castle', 0.020181466]
+[u'stretcher', 0.30366635, u'notebook', 0.063355535, u'assault_rifle', 0.043853179, u'suit', 0.042706769, u'military_uniform', 0.033771142]

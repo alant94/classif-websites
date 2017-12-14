@@ -1,0 +1,3 @@
+[u'web_site', 0.54310858, u'laptop', 0.10309668, u'envelope', 0.053298805, u'binder', 0.034394249, u'notebook', 0.026909947]
+[u'mousetrap', 0.091916092, u'lighter', 0.089223579, u'oxygen_mask', 0.075380713, u'pick', 0.068757728, u'chain_saw', 0.064350113]
+[u'web_site', 0.58195388, u'wig', 0.038898807, u'neck_brace', 0.033898503, u'hand-held_computer', 0.021110397, u'brassiere', 0.020416465]

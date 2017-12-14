@@ -1,0 +1,6 @@
+[u'puck', 0.9925943, u'shield', 0.0010721612, u'bolo_tie', 0.00078482745, u'buckle', 0.0007505829, u'comic_book', 0.00051848753]
+[u'book_jacket', 0.9858619, u'packet', 0.0048572375, u'menu', 0.0025191207, u'comic_book', 0.001355116, u'cash_machine', 0.00097733899]
+[u'wall_clock', 0.37474558, u'puck', 0.31642658, u'analog_clock', 0.050273269, u'magnetic_compass', 0.045701794, u'gong', 0.045246571]
+[u'book_jacket', 0.79091007, u'menu', 0.03983875, u'packet', 0.029146709, u'comic_book', 0.01293032, u'corkscrew', 0.012416108]
+[u'menu', 0.27333423, u'carton', 0.1443602, u'packet', 0.074018002, u'envelope', 0.05998899, u'book_jacket', 0.035313211]
+[u'suit', 0.55247205, u'Windsor_tie', 0.19025762, u'groom', 0.040846225, u'bolo_tie', 0.02745948, u'bow_tie', 0.018541772]

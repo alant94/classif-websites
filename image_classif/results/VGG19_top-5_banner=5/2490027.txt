@@ -1,0 +1,6 @@
+[u'gar', 0.26450133, u'rotisserie', 0.14635065, u'reel', 0.10865925, u'paddle', 0.049694583, u'coho', 0.04799388]
+[u'wooden_spoon', 0.28883895, u'spatula', 0.11352632, u'plate_rack', 0.10201436, u'wardrobe', 0.034885943, u'butternut_squash', 0.031209081]
+[u'brass', 0.36253554, u'menu', 0.22338811, u'book_jacket', 0.087816477, u'web_site', 0.045842748, u'street_sign', 0.02171238]
+[u'oscilloscope', 0.65475637, u'book_jacket', 0.070602335, u'digital_clock', 0.036263786, u'web_site', 0.027557282, u'scoreboard', 0.015541663]
+[u'restaurant', 0.3291032, u'dining_table', 0.10893746, u'sliding_door', 0.082637921, u'library', 0.064557098, u'shoe_shop', 0.050597366]
+[u'web_site', 0.87541699, u'scoreboard', 0.020744124, u'book_jacket', 0.018382614, u'street_sign', 0.010248012, u'monitor', 0.008139831]

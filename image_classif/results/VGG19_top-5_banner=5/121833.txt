@@ -1,0 +1,8 @@
+[u'throne', 0.2243297, u'altar', 0.12675451, u'prayer_rug', 0.096743658, u'book_jacket', 0.068888284, u'fire_screen', 0.050588466]
+[u"carpenter's_kit", 0.22959848, u'screwdriver', 0.12869449, u'nail', 0.07156112, u'ballpoint', 0.063088961, u'rifle', 0.06304656]
+[u'fountain', 0.77709979, u'dam', 0.052876856, u'book_jacket', 0.034835, u'fireboat', 0.026764251, u'mosquito_net', 0.013565435]
+[u'menu', 0.077384874, u'binder', 0.056927163, u'envelope', 0.050013009, u'plate_rack', 0.038951047, u'web_site', 0.024105476]
+[u'book_jacket', 0.4842228, u'fountain', 0.21386264, u'space_shuttle', 0.088318944, u'palace', 0.025324345, u'missile', 0.018907044]
+[u'vending_machine', 0.16068462, u'punching_bag', 0.054505445, u'shower_curtain', 0.043685168, u'lighter', 0.038926587, u'cleaver', 0.036761753]
+[u'fountain', 0.33246255, u'picket_fence', 0.088094607, u'palace', 0.072789729, u'worm_fence', 0.048728634, u'gondola', 0.031576455]
+[u'barbershop', 0.22544025, u'cinema', 0.092775837, u'scoreboard', 0.07106939, u'book_jacket', 0.040199898, u'tobacco_shop', 0.032571111]

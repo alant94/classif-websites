@@ -1,0 +1,1 @@
+[u'hoopskirt', 0.46393064, u'water_bottle', 0.13171893, u'gown', 0.11252698, u'overskirt', 0.083183177, u'miniskirt', 0.050401643]

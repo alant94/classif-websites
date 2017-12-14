@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.10537601, u'slide_rule', 0.088779889, u'menu', 0.058519561, u'hard_disc', 0.035610456, u'brass', 0.024985816]
+[u'crossword_puzzle', 0.4699195, u'prison', 0.10054146, u'shower_curtain', 0.045012139, u'library', 0.031118322, u'sliding_door', 0.024602374]
+[u'menu', 0.27469879, u'book_jacket', 0.18495755, u'packet', 0.1702309, u'comic_book', 0.15379624, u'web_site', 0.04174557]
+[u'pajama', 0.3834134, u'balloon', 0.15656026, u'maraca', 0.048997693, u'park_bench', 0.037332986, u'tricycle', 0.034059744]
+[u'brass', 0.18773305, u'cash_machine', 0.18481547, u'web_site', 0.14555639, u'screen', 0.13037403, u'menu', 0.07972718]
+[u'street_sign', 0.316338, u'cash_machine', 0.05969936, u'digital_clock', 0.054315407, u'book_jacket', 0.044537757, u'traffic_light', 0.025635062]
+[u'web_site', 0.71548843, u'comic_book', 0.10905064, u'book_jacket', 0.045333907, u'menu', 0.011232663, u'marimba', 0.0081139384]
+[u'web_site', 0.45173565, u'packet', 0.034406636, u'Band_Aid', 0.03015935, u'menu', 0.026490314, u'matchstick', 0.026008287]

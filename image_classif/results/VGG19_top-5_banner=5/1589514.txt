@@ -1,0 +1,2 @@
+[u'pajama', 0.28809312, u'stole', 0.18440141, u'bath_towel', 0.094840355, u'cardigan', 0.094270542, u'miniskirt', 0.042151872]
+[u'brassiere', 0.96891785, u'bikini', 0.0069810231, u'maillot', 0.0041035637, u'wig', 0.0030744975, u'bow_tie', 0.0020410393]

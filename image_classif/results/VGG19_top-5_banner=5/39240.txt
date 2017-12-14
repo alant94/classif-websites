@@ -1,0 +1,8 @@
+[u'binder', 0.51616853, u'book_jacket', 0.057132874, u'wall_clock', 0.035560913, u'street_sign', 0.032646585, u'analog_clock', 0.028337942]
+[u"carpenter's_kit", 0.47506046, u'screwdriver', 0.40885341, u'cleaver', 0.0065287091, u'spatula', 0.0056738365, u'pencil_box', 0.0053223427]
+[u'digital_clock', 0.31129602, u'oscilloscope', 0.2033923, u'digital_watch', 0.069392391, u'maze', 0.04828874, u'matchstick', 0.038795728]
+[u'picket_fence', 0.15541528, u'envelope', 0.083320081, u'pill_bottle', 0.043870393, u'photocopier', 0.033347648, u'crane', 0.01799923]
+[u"carpenter's_kit", 0.24385092, u'binder', 0.10806268, u'safety_pin', 0.085635975, u'book_jacket', 0.046423223, u'lighter', 0.034664501]
+[u'wall_clock', 0.26757497, u'analog_clock', 0.23943031, u'digital_clock', 0.10451041, u'binder', 0.076606624, u'remote_control', 0.019941958]
+[u"carpenter's_kit", 0.15409695, u'binder', 0.095570572, u'mousetrap', 0.058150142, u'coffee_mug', 0.046915658, u'wall_clock', 0.036359858]
+[u'binder', 0.26967344, u"carpenter's_kit", 0.12643456, u'book_jacket', 0.067743666, u'mousetrap', 0.042934589, u'street_sign', 0.028016219]

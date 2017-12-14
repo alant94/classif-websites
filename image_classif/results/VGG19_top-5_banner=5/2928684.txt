@@ -1,0 +1,1 @@
+[u'street_sign', 0.18183164, u'digital_clock', 0.15268481, u'accordion', 0.066727675, u'microphone', 0.057498422, u'book_jacket', 0.046691105]

@@ -1,0 +1,5 @@
+[u'sturgeon', 0.13869047, u'barracouta', 0.1069666, u'coho', 0.09958975, u'sweatshirt', 0.062666275, u'tench', 0.060655605]
+[u'book_jacket', 0.31762344, u'street_sign', 0.17637435, u'menu', 0.070587456, u'comic_book', 0.070399292, u'web_site', 0.049538583]
+[u'safe', 0.41300097, u'digital_clock', 0.1624122, u'envelope', 0.072010756, u'tray', 0.034334052, u'handkerchief', 0.034167726]
+[u'lakeside', 0.71299887, u'promontory', 0.074079402, u'volcano', 0.055847775, u'valley', 0.023267852, u'seashore', 0.021802954]
+[u'container_ship', 0.24139529, u'envelope', 0.14521489, u'digital_clock', 0.060452562, u'carton', 0.035278287, u'binder', 0.024557745]

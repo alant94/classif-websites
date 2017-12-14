@@ -1,0 +1,6 @@
+[u'library', 0.21205707, u'medicine_chest', 0.17195266, u'bookshop', 0.10002662, u'container_ship', 0.066900954, u'tobacco_shop', 0.034956913]
+[u'beacon', 0.16313031, u'albatross', 0.073572189, u'space_shuttle', 0.039479289, u'missile', 0.038299412, u'projectile', 0.035395622]
+[u'hook', 0.49693215, u'rocking_chair', 0.064282015, u'sewing_machine', 0.054871272, u'paper_towel', 0.038424134, u'park_bench', 0.024179144]
+[u'oxygen_mask', 0.57754058, u'nipple', 0.3454113, u'bubble', 0.025700714, u'Petri_dish', 0.0082702124, u'water_bottle', 0.0066082999]
+[u'garbage_truck', 0.66935712, u'harvester', 0.091749556, u'forklift', 0.054765113, u'crane', 0.030952264, u'snowplow', 0.025903054]
+[u'analog_clock', 0.085639678, u'digital_clock', 0.045625888, u'upright', 0.044307057, u'baseball', 0.043635786, u'accordion', 0.037405945]

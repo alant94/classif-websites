@@ -1,0 +1,4 @@
+[u'lakeside', 0.10630116, u'seashore', 0.089437328, u'volcano', 0.073289372, u'valley', 0.066022806, u'mountain_tent', 0.03859463]
+[u'altar', 0.19145179, u'comic_book', 0.12155625, u'book_jacket', 0.081632704, u'fire_screen', 0.038976237, u'carousel', 0.03420056]
+[u'carousel', 0.51296645, u'tile_roof', 0.064622141, u'throne', 0.05739199, u'altar', 0.046731587, u'butcher_shop', 0.044845298]
+[u'cowboy_hat', 0.33616745, u'sombrero', 0.26552233, u'academic_gown', 0.063724078, u'bearskin', 0.034747571, u'military_uniform', 0.027919751]

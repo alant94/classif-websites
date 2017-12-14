@@ -1,0 +1,7 @@
+[u'maypole', 0.64318269, u'parachute', 0.05174914, u'unicycle', 0.031341825, u'flagpole', 0.02089195, u'military_uniform', 0.019790666]
+[u'rock_python', 0.11162844, u'komondor', 0.082010217, u'barracouta', 0.073793016, u'sarong', 0.06827163, u'worm_fence', 0.022442007]
+[u'spatula', 0.069286726, u'accordion', 0.068223596, u'ice_lolly', 0.038974881, u'maraca', 0.031196471, u'microphone', 0.029712575]
+[u"jack-o'-lantern", 0.84057254, u'spatula', 0.024240749, u'balloon', 0.0138808, u'acoustic_guitar', 0.01168194, u'cello', 0.008240601]
+[u'wardrobe', 0.49222404, u'butcher_shop', 0.067107625, u'gown', 0.047325641, u'stole', 0.040287375, u'handkerchief', 0.022309866]
+[u'digital_clock', 0.12200428, u'web_site', 0.095959492, u'Band_Aid', 0.037707299, u'crossword_puzzle', 0.037297737, u'bubble', 0.017178496]
+[u'ballplayer', 0.24601787, u'rugby_ball', 0.21049626, u'baseball', 0.18761607, u'volleyball', 0.14937045, u'soccer_ball', 0.14550729]

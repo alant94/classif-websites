@@ -1,0 +1,5 @@
+[u'street_sign', 0.12217306, u'bottlecap', 0.099898927, u'book_jacket', 0.061464064, u'rugby_ball', 0.046309836, u'puck', 0.038338128]
+[u'hair_slide', 0.24821469, u'buckle', 0.21588641, u'whistle', 0.081950225, u'combination_lock', 0.067539372, u'hook', 0.05447787]
+[u'web_site', 0.087674156, u'street_sign', 0.087473258, u'rule', 0.036587868, u'crossword_puzzle', 0.03049472, u'chainlink_fence', 0.030126454]
+[u'book_jacket', 0.21824092, u'jersey', 0.11527626, u'cash_machine', 0.078987025, u'digital_clock', 0.02896332, u'perfume', 0.028755251]
+[u'rule', 0.48064303, u'rubber_eraser', 0.26674315, u'matchstick', 0.072862625, u'hand-held_computer', 0.013588102, u'envelope', 0.010797567]

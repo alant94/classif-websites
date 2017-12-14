@@ -1,0 +1,2 @@
+[u'book_jacket', 0.59385741, u'brass', 0.074981131, u'comic_book', 0.065134957, u'street_sign', 0.021981748, u'freight_car', 0.015998377]
+[u'bighorn', 0.09982118, u'ibex', 0.073240779, u'ram', 0.056701276, u'hartebeest', 0.043872528, u'impala', 0.042587344]

@@ -1,0 +1,8 @@
+[u'coffeepot', 0.10783812, u'espresso_maker', 0.1042345, u'cuirass', 0.10411002, u'breastplate', 0.072592914, u'thimble', 0.036574349]
+[u'necklace', 0.87819958, u'chain', 0.11392456, u'chain_mail', 0.0022510064, u'coil', 0.0013565373, u'safety_pin', 0.00094282167]
+[u'hair_slide', 0.074367695, u'wall_clock', 0.063318819, u'tray', 0.05361551, u'web_site', 0.033397172, u'hook', 0.030458581]
+[u'envelope', 0.20338815, u'jersey', 0.063969389, u'book_jacket', 0.063950025, u'loupe', 0.040602382, u'web_site', 0.032121532]
+[u'tile_roof', 0.10563581, u'corn', 0.083483554, u'thatch', 0.073611967, u'screw', 0.068067245, u'ear', 0.066262677]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'jellyfish', 0.053193565, u'scuba_diver', 0.044921555, u'hammerhead', 0.042114925, u'sea_snake', 0.034050018, u'dugong', 0.031678837]
+[u'thimble', 0.06654913, u'wooden_spoon', 0.044124011, u'cucumber', 0.041957304, u'hamper', 0.04157288, u'bucket', 0.035472345]

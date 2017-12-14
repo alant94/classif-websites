@@ -1,0 +1,4 @@
+[u'envelope', 0.48590446, u'swab', 0.14957742, u'binder', 0.035084084, u'broom', 0.034245454, u'spotlight', 0.026992774]
+[u'whistle', 0.20153296, u'tennis_ball', 0.11110067, u'hook', 0.052737851, u'pencil_sharpener', 0.050493971, u'pill_bottle', 0.029602965]
+[u'screwdriver', 0.30122614, u'matchstick', 0.10827338, u'chime', 0.10214464, u'ballpoint', 0.075793453, u'rule', 0.034413114]
+[u'ballpoint', 0.37169886, u'screwdriver', 0.24686471, u"carpenter's_kit", 0.067964748, u'rubber_eraser', 0.038184792, u'whistle', 0.023499575]

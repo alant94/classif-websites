@@ -1,0 +1,6 @@
+[u'fiddler_crab', 0.97142124, u'king_crab', 0.020951744, u'rock_crab', 0.0068966048, u'Dungeness_crab', 0.00045251448, u'isopod', 0.00015479418]
+[u'spotlight', 0.25375792, u'swab', 0.11185721, u'toilet_seat', 0.070779987, u'switch', 0.066502273, u'syringe', 0.03314095]
+[u'bathing_cap', 0.52371246, u'swimming_trunks', 0.21366672, u'shower_cap', 0.049855106, u'dumbbell', 0.026037976, u'maillot', 0.024331803]
+[u'accordion', 0.17012712, u'miniskirt', 0.033484142, u'notebook', 0.031802364, u'grand_piano', 0.029705236, u'abacus', 0.028588928]
+[u'monastery', 0.2459708, u'bell_cote', 0.18625091, u'palace', 0.11938886, u'castle', 0.10998459, u'stupa', 0.073515333]
+[u'picket_fence', 0.36982521, u'library', 0.13648579, u'palace', 0.081361085, u'prison', 0.068344139, u'scoreboard', 0.059562005]

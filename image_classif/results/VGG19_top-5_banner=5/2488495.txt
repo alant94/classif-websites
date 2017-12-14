@@ -1,0 +1,2 @@
+[u'matchstick', 0.44153491, u'bow', 0.046236839, u'space_shuttle', 0.021635571, u'torch', 0.017602138, u'hammerhead', 0.014862028]
+[u'medicine_chest', 0.11801821, u'shower_curtain', 0.060480259, u'sliding_door', 0.054388907, u'monitor', 0.050805226, u'washbasin', 0.050675374]

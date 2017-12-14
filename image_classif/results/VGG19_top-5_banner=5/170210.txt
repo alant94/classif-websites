@@ -1,0 +1,7 @@
+[u'digital_clock', 0.11400581, u'traffic_light', 0.089539669, u'street_sign', 0.034824517, u'screen', 0.03151311, u'analog_clock', 0.021503104]
+[u'digital_clock', 0.56215429, u'digital_watch', 0.021455051, u'stopwatch', 0.017088037, u'Band_Aid', 0.0098029105, u'scoreboard', 0.0096801594]
+[u'chambered_nautilus', 0.65753853, u'trilobite', 0.072228424, u'pick', 0.030675365, u'conch', 0.023865702, u'panpipe', 0.021663258]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'stage', 0.39980763, u'marimba', 0.076487638, u'accordion', 0.063050784, u'grand_piano', 0.057892594, u'butcher_shop', 0.032686956]
+[u'microphone', 0.97768778, u'thimble', 0.0088316612, u'maraca', 0.0044555459, u'hand_blower', 0.002242144, u'buckle', 0.0010147643]
+[u'wig', 0.56430453, u'microphone', 0.17639329, u'hair_spray', 0.05856872, u'hand_blower', 0.050591141, u'lipstick', 0.020988902]

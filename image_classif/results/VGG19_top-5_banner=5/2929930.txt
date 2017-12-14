@@ -1,0 +1,3 @@
+[u'plunger', 0.036302779, u'oboe', 0.029917307, u'syringe', 0.025656708, u'jersey', 0.022742769, u'banjo', 0.022400105]
+[u'suit', 0.55226463, u'bow_tie', 0.24326251, u'Windsor_tie', 0.14559959, u'oboe', 0.036494195, u'bassoon', 0.0031515502]
+[u'bassoon', 0.052090865, u'neck_brace', 0.047284208, u'sweatshirt', 0.042443763, u'plunger', 0.033451289, u'cloak', 0.02367893]

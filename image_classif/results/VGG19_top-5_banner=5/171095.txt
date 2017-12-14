@@ -1,0 +1,1 @@
+[u'digital_clock', 0.55567884, u'digital_watch', 0.10591994, u'maze', 0.026862379, u'tray', 0.019503679, u'screen', 0.017566148]

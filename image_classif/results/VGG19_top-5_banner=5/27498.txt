@@ -1,0 +1,1 @@
+[u'matchstick', 0.18904105, u'digital_clock', 0.096588366, u'web_site', 0.085323393, u'nematode', 0.029698977, u'stopwatch', 0.015435969]

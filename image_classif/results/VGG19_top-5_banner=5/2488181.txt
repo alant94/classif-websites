@@ -1,0 +1,2 @@
+[u'switch', 0.10898425, u'lighter', 0.090412095, u'whistle', 0.06720417, u'envelope', 0.066596337, u'digital_clock', 0.049321707]
+[u'lab_coat', 0.92917597, u'stethoscope', 0.060174979, u'web_site', 0.0023278897, u'Windsor_tie', 0.0013072477, u'oxygen_mask', 0.00070601329]

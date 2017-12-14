@@ -1,0 +1,4 @@
+[u'lotion', 0.50221729, u'perfume', 0.25099024, u'web_site', 0.078402445, u'sunscreen', 0.067887068, u'packet', 0.012183234]
+[u'binder', 0.2218729, u'bookcase', 0.098511897, u'studio_couch', 0.074073076, u'wallet', 0.070289269, u'wardrobe', 0.045958139]
+[u'perfume', 0.47992608, u'lotion', 0.13413197, u'lipstick', 0.1206675, u'hair_spray', 0.033331584, u'web_site', 0.026732206]
+[u'web_site', 0.66335952, u'book_jacket', 0.047407374, u'digital_clock', 0.027595283, u'perfume', 0.024968997, u'vending_machine', 0.023331078]

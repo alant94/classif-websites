@@ -1,0 +1,2 @@
+[u'stage', 0.078262269, u'theater_curtain', 0.033829652, u'traffic_light', 0.033793099, u'picket_fence', 0.033106647, u'screen', 0.026769765]
+[u'valley', 0.25162846, u'lakeside', 0.11107086, u'castle', 0.084328555, u'totem_pole', 0.056896757, u'church', 0.056629281]

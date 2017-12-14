@@ -1,0 +1,1 @@
+[u"potter's_wheel", 0.1647194, u'mortar', 0.07225211, u'coffee_mug', 0.065751046, u'soap_dispenser', 0.054388259, u'shower_cap', 0.043537837]

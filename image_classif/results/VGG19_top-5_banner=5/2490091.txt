@@ -1,0 +1,7 @@
+[u'brown_bear', 0.47924453, u'hog', 0.2280826, u'Norfolk_terrier', 0.041422326, u'briard', 0.029204622, u'chow', 0.019139329]
+[u'tusker', 0.34385329, u'water_buffalo', 0.24468246, u'Indian_elephant', 0.22643115, u'wild_boar', 0.070338555, u'hartebeest', 0.034603812]
+[u'bison', 0.99428469, u'ox', 0.0012248824, u'water_buffalo', 0.0010874649, u'warthog', 0.00093331066, u'wild_boar', 0.00066132302]
+[u'web_site', 0.11206365, u'envelope', 0.09100689, u'iron', 0.048151251, u'hatchet', 0.038251769, u'book_jacket', 0.031558566]
+[u'American_black_bear', 0.49555838, u'sloth_bear', 0.10438053, u'wild_boar', 0.036698449, u'groenendael', 0.020335911, u'grey_fox', 0.019346815]
+[u'brown_bear', 0.75991744, u'American_black_bear', 0.197282, u'wild_boar', 0.023482407, u'hog', 0.0099149821, u'bison', 0.0021675373]
+[u'American_black_bear', 0.91303265, u'sloth_bear', 0.034921065, u'tusker', 0.026060704, u'brown_bear', 0.015750308, u'chimpanzee', 0.0065411935]

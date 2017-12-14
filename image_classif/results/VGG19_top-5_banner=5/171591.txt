@@ -1,0 +1,6 @@
+[u'nail', 0.2266445, u'screw', 0.049456898, u'hatchet', 0.037439842, u'hammer', 0.030217232, u'hook', 0.029041288]
+[u'envelope', 0.15772513, u'web_site', 0.13754223, u'velvet', 0.029748216, u'wool', 0.015757883, u'digital_clock', 0.015700312]
+[u'web_site', 0.044917777, u'envelope', 0.032437574, u'hook', 0.017227091, u'nail', 0.015148319, u'hatchet', 0.013298672]
+[u'nail', 0.096531741, u'hatchet', 0.021741226, u'web_site', 0.020560617, u'screw', 0.019025981, u'hammer', 0.015729733]
+[u'nail', 0.07302063, u'screw', 0.022134174, u'hook', 0.020866355, u'hatchet', 0.018155919, u'web_site', 0.017851304]
+[u'nail', 0.84453958, u'screw', 0.029426979, u'hook', 0.024647461, u'hammer', 0.023301711, u'hatchet', 0.017247742]

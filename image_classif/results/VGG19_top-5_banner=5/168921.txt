@@ -1,0 +1,7 @@
+[u'ski', 0.32408914, u'tobacco_shop', 0.063247979, u'doormat', 0.031039177, u'barbershop', 0.027718551, u'hair_slide', 0.0254879]
+[u"carpenter's_kit", 0.22624569, u'hair_slide', 0.19078979, u'screwdriver', 0.13882343, u'ski', 0.13147414, u'letter_opener', 0.061064001]
+[u'screwdriver', 0.11336214, u"carpenter's_kit", 0.068052486, u'hair_slide', 0.05586192, u'nail', 0.055227645, u'matchstick', 0.051809732]
+[u'ski', 0.23735511, u'cowboy_boot', 0.104128, u'tobacco_shop', 0.084753171, u'cinema', 0.058428343, u'corkscrew', 0.040641945]
+[u'combination_lock', 0.16607237, u'lighter', 0.12944834, u'oil_filter', 0.062089831, u'switch', 0.027398532, u'whiskey_jug', 0.025581008]
+[u'chime', 0.28157556, u"carpenter's_kit", 0.15694669, u'bow', 0.068268321, u'shovel', 0.054372583, u'panpipe', 0.05069349]
+[u'screwdriver', 0.39305931, u"carpenter's_kit", 0.15114284, u'ski', 0.0656275, u'hook', 0.042597614, u'matchstick', 0.026725151]

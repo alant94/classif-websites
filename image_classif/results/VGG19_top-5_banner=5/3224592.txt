@@ -1,0 +1,2 @@
+[u'puck', 0.97598934, u'pick', 0.0054945699, u'bottlecap', 0.0023205266, u'coffee_mug', 0.0017141965, u'shield', 0.0012804513]
+[u'dial_telephone', 0.99992824, u'iron', 5.5063196e-05, u'spotlight', 6.7568794e-06, u'magnetic_compass', 3.5656544e-06, u'waffle_iron', 1.5444239e-06]

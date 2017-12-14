@@ -1,0 +1,1 @@
+[u'water_tower', 0.095346831, u'viaduct', 0.066655651, u'pier', 0.037527721, u'geyser', 0.037058104, u'pedestal', 0.035226841]

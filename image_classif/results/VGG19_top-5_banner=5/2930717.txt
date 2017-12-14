@@ -1,0 +1,5 @@
+[u'bib', 0.28911716, u'mouse', 0.078239463, u'bathing_cap', 0.068305671, u'apron', 0.030213777, u'brassiere', 0.027211804]
+[u'picket_fence', 0.23469575, u'thatch', 0.22901866, u'solar_dish', 0.10410816, u'boathouse', 0.051987085, u'flagpole', 0.034211397]
+[u'barbershop', 0.31410182, u'window_screen', 0.12047639, u'doormat', 0.07546708, u'patio', 0.050440956, u'sliding_door', 0.046503585]
+[u'acoustic_guitar', 0.73086321, u'lampshade', 0.03349793, u'butternut_squash', 0.016729329, u'mouse', 0.011807233, u'Band_Aid', 0.0089022163]
+[u'brassiere', 0.081139416, u'plastic_bag', 0.072316565, u'envelope', 0.057017133, u'hammerhead', 0.040010173, u'flagpole', 0.036733944]

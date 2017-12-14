@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.20306361, u'torch', 0.1679872, u'suit', 0.087749079, u'groom', 0.06837184, u'bow_tie', 0.044314526]
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]

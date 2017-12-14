@@ -1,0 +1,2 @@
+[u'albatross', 0.85327065, u'bald_eagle', 0.053581353, u'kite', 0.032146771, u'sulphur-crested_cockatoo', 0.0099877762, u'vulture', 0.0055834246]
+[u'suit', 0.10251734, u'jersey', 0.059723005, u'Windsor_tie', 0.050884493, u'oboe', 0.047793947, u'bassoon', 0.046567384]

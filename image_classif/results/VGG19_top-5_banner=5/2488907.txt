@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.18698548, u'envelope', 0.13192149, u'web_site', 0.046418563, u'Windsor_tie', 0.024678012, u'digital_clock', 0.023800017]
+[u'Band_Aid', 0.043269668, u'digital_clock', 0.0318611, u'web_site', 0.026685698, u'Windsor_tie', 0.026548043, u'envelope', 0.023047883]
+[u'envelope', 0.1691802, u'Band_Aid', 0.13890979, u'digital_clock', 0.036641926, u'web_site', 0.026234245, u'wall_clock', 0.020092322]

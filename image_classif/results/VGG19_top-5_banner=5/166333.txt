@@ -1,0 +1,1 @@
+[u'digital_clock', 0.36460841, u'shower_curtain', 0.33304015, u'maze', 0.031921353, u'oscilloscope', 0.018050956, u'quilt', 0.017208442]

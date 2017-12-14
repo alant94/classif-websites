@@ -1,0 +1,3 @@
+[u'dumbbell', 0.2434531, u'joystick', 0.20115024, u'hammer', 0.080010206, u'hand-held_computer', 0.078870267, u'remote_control', 0.073296264]
+[u'comic_book', 0.090272807, u'toyshop', 0.083806828, u'desk', 0.052319136, u'sock', 0.046166986, u'Christmas_stocking', 0.040938444]
+[u'web_site', 0.94024706, u'menu', 0.027936978, u'envelope', 0.0094623892, u'monitor', 0.0043621338, u'warplane', 0.0013192863]

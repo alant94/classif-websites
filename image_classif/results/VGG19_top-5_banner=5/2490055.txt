@@ -1,0 +1,4 @@
+[u'prairie_chicken', 0.31993863, u'partridge', 0.14814079, u'ruffed_grouse', 0.10609096, u'bustard', 0.059542354, u'armadillo', 0.055297542]
+[u'wallaby', 0.59728527, u'cougar', 0.11662541, u'lion', 0.047992095, u'impala', 0.028656596, u'dingo', 0.025186561]
+[u'pitcher', 0.035300929, u'gong', 0.02521148, u'abaya', 0.023572519, u'bolo_tie', 0.023543134, u'theater_curtain', 0.022649223]
+[u'warthog', 0.91755307, u'triceratops', 0.014560885, u'Arabian_camel', 0.012753524, u'hartebeest', 0.012414929, u'water_buffalo', 0.0095308106]

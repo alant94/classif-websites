@@ -1,0 +1,6 @@
+[u'web_site', 0.044724863, u'hatchet', 0.041863635, u'rule', 0.03655383, u'envelope', 0.0360916, u'street_sign', 0.033392023]
+[u'bath_towel', 0.080357954, u'shower_curtain', 0.060691416, u'padlock', 0.055959594, u'swab', 0.047521695, u'wool', 0.03667808]
+[u'wig', 0.24088669, u'hair_spray', 0.043346558, u'stole', 0.038117643, u'fur_coat', 0.035298202, u'jersey', 0.034972895]
+[u'hand_blower', 0.15408136, u'wig', 0.099562414, u'hair_spray', 0.046510596, u'bikini', 0.044094596, u'sunscreen', 0.036485337]
+[u'tobacco_shop', 0.11709913, u'Band_Aid', 0.10378885, u'street_sign', 0.099300452, u'barbershop', 0.090806879, u'book_jacket', 0.056585222]
+[u'notebook', 0.05120495, u'modem', 0.033606671, u'envelope', 0.031519435, u'dishwasher', 0.019293351, u'radio', 0.018850304]

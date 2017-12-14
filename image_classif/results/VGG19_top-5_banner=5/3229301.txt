@@ -1,0 +1,5 @@
+[u'Polaroid_camera', 0.66223568, u'reflex_camera', 0.11973067, u'tripod', 0.051598258, u'projector', 0.040565111, u'sewing_machine', 0.014150603]
+[u'shopping_basket', 0.40294984, u'carton', 0.20234326, u'book_jacket', 0.13551429, u'packet', 0.042643294, u'menu', 0.02370093]
+[u'book_jacket', 0.34540629, u'street_sign', 0.10619931, u'comic_book', 0.066786021, u'scoreboard', 0.029898923, u'jersey', 0.019769993]
+[u'turnstile', 0.26531744, u'cash_machine', 0.17166585, u'lab_coat', 0.094681002, u'vending_machine', 0.052434824, u'bookshop', 0.027806062]
+[u'vacuum', 0.11088078, u'washer', 0.086397283, u'wall_clock', 0.071841456, u'iron', 0.065815248, u'barbell', 0.061527245]

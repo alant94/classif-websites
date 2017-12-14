@@ -1,0 +1,2 @@
+[u'megalith', 0.51215219, u'sunglasses', 0.032147929, u'sunglass', 0.026441341, u'hatchet', 0.02275252, u'crutch', 0.0224615]
+[u'traffic_light', 0.59359348, u'chain_saw', 0.044092983, u'leaf_beetle', 0.017488178, u'hair_slide', 0.012560969, u'switch', 0.0098533528]

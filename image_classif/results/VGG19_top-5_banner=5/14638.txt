@@ -1,0 +1,5 @@
+[u'beer_glass', 0.55902308, u'beer_bottle', 0.076934434, u'cocktail_shaker', 0.070697576, u'pop_bottle', 0.0441406, u'cup', 0.033729676]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'chime', 0.22414458, u'binder', 0.10004367, u'matchstick', 0.070773758, u'ballpoint', 0.036062978, u'envelope', 0.033833314]

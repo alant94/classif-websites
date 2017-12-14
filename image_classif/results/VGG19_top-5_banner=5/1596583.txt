@@ -1,0 +1,1 @@
+[u'library', 0.66308755, u'bookshop', 0.1767098, u'vault', 0.047239844, u'prison', 0.025159912, u'turnstile', 0.012966451]

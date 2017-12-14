@@ -1,0 +1,2 @@
+[u'stage', 0.44221085, u'microphone', 0.29021508, u'accordion', 0.077943198, u'acoustic_guitar', 0.052003231, u'electric_guitar', 0.051440477]
+[u'spotlight', 0.12040607, u'iron', 0.099255376, u'fountain', 0.046049394, u'matchstick', 0.044179279, u'space_shuttle', 0.041047111]

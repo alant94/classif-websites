@@ -1,0 +1,6 @@
+[u'book_jacket', 0.34380308, u'street_sign', 0.11050157, u'brass', 0.10349692, u'menu', 0.084440313, u'cash_machine', 0.02352345]
+[u'slide_rule', 0.79555833, u'rule', 0.18347991, u'crate', 0.0042325705, u'envelope', 0.0018213957, u'book_jacket', 0.0016878315]
+[u'nematode', 0.16751137, u'velvet', 0.13442427, u'theater_curtain', 0.076886177, u'wallet', 0.058981188, u'hair_slide', 0.036831789]
+[u'monastery', 0.099739827, u'beacon', 0.085412979, u'mosque', 0.077020064, u'dome', 0.075295903, u'water_tower', 0.038440756]
+[u'pizza', 0.9158662, u'frying_pan', 0.037771177, u'meat_loaf', 0.010348246, u'spatula', 0.0069874586, u'potpie', 0.0045202407]
+[u'bow', 0.19441256, u'gong', 0.075199127, u'stethoscope', 0.034317639, u'analog_clock', 0.028999781, u'wall_clock', 0.028795281]

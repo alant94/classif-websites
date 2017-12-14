@@ -1,0 +1,1 @@
+[u'brass', 0.47895929, u'book_jacket', 0.34302095, u'menu', 0.063739911, u'packet', 0.009329007, u'scoreboard', 0.0071620056]

@@ -1,0 +1,4 @@
+[u'matchstick', 0.16170292, u'digital_clock', 0.091506809, u'oscilloscope', 0.089674249, u'candle', 0.041298524, u'book_jacket', 0.030085346]
+[u'street_sign', 0.38754857, u'book_jacket', 0.11805054, u'web_site', 0.026270481, u'binder', 0.026146349, u'packet', 0.020503301]
+[u'pick', 0.044563387, u'web_site', 0.036286935, u'envelope', 0.03098244, u'menu', 0.025870336, u'loupe', 0.02447932]
+[u'menu', 0.98612714, u'web_site', 0.0058561987, u'envelope', 0.001125654, u'abacus', 0.00042513935, u'binder', 0.0002573957]

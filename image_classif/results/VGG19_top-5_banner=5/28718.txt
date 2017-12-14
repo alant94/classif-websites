@@ -1,0 +1,2 @@
+[u'book_jacket', 0.22959541, u'hair_spray', 0.10765488, u'cash_machine', 0.05111761, u'brassiere', 0.046168271, u'lab_coat', 0.034820274]
+[u'web_site', 0.056650449, u'street_sign', 0.055311315, u'rule', 0.019906376, u'hair_spray', 0.019856738, u'book_jacket', 0.019063922]

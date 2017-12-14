@@ -1,0 +1,2 @@
+[u'mask', 0.63836277, u'bow_tie', 0.062811442, u'gasmask', 0.027683211, u'cloak', 0.022219608, u'trench_coat', 0.015030029]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

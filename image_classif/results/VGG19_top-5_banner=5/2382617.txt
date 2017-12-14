@@ -1,0 +1,8 @@
+[u'mailbox', 0.27797121, u'barbershop', 0.05986245, u'scoreboard', 0.057713125, u'steam_locomotive', 0.04683961, u'gas_pump', 0.04485419]
+[u'envelope', 0.1286169, u'menu', 0.046168808, u'nail', 0.04430528, u'hammer', 0.030327881, u'power_drill', 0.023893531]
+[u'bookcase', 0.26784965, u'china_cabinet', 0.24659939, u'wardrobe', 0.099425204, u'wine_bottle', 0.079048701, u'medicine_chest', 0.064846389]
+[u'maze', 0.95180601, u'worm_fence', 0.025119184, u'hay', 0.0075833364, u'stone_wall', 0.0042219376, u'picket_fence', 0.0036690559]
+[u'web_site', 0.42819339, u'menu', 0.12503427, u'bakery', 0.04247611, u'toaster', 0.025615737, u'packet', 0.015931601]
+[u'envelope', 0.060018025, u'menu', 0.049140558, u'web_site', 0.038941152, u'hand_blower', 0.02118938, u'nail', 0.020570926]
+[u'shower_curtain', 0.054570518, u'paintbrush', 0.044029858, u"carpenter's_kit", 0.043756116, u'hair_slide', 0.043110166, u'screwdriver', 0.041951623]
+[u'restaurant', 0.26444936, u'dining_table', 0.23228352, u'china_cabinet', 0.15191858, u'sliding_door', 0.03283393, u'organ', 0.019878563]

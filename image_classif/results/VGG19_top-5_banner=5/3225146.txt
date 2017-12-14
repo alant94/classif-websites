@@ -1,0 +1,6 @@
+[u'typewriter_keyboard', 0.078165099, u'oscilloscope', 0.061206881, u'screen', 0.055911753, u'space_heater', 0.052607697, u'web_site', 0.050470598]
+[u'matchstick', 0.6374656, u'fountain', 0.02485342, u'candle', 0.016545389, u'oscilloscope', 0.014323784, u'coral_fungus', 0.014136548]
+[u'matchstick', 0.54640019, u'picket_fence', 0.084949456, u'nail', 0.053406894, u'candle', 0.032790545, u'syringe', 0.015177797]
+[u'envelope', 0.45032802, u'Band_Aid', 0.16032948, u'cleaver', 0.050536364, u'rubber_eraser', 0.026749205, u'rule', 0.020690152]
+[u'church', 0.14642213, u'cash_machine', 0.089262128, u'picket_fence', 0.064592861, u'web_site', 0.050398152, u'brass', 0.043871209]
+[u'picket_fence', 0.65723836, u'candle', 0.065038681, u'space_shuttle', 0.029806769, u'syringe', 0.029687786, u'matchstick', 0.026685612]

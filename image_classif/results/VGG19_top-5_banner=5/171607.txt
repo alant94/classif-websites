@@ -1,0 +1,6 @@
+[u'stage', 0.40750706, u'cello', 0.10262528, u'theater_curtain', 0.10232066, u'unicycle', 0.055772454, u'electric_guitar', 0.039449338]
+[u'sax', 0.802324, u'cornet', 0.096645333, u'bassoon', 0.032576967, u'French_horn', 0.030283401, u'trombone', 0.021777524]
+[u'stage', 0.3855547, u'balance_beam', 0.056422453, u'oboe', 0.043282013, u'bassoon', 0.042493872, u'unicycle', 0.039780926]
+[u'lumbermill', 0.22712728, u'barrow', 0.050234307, u'grand_piano', 0.035166807, u'marimba', 0.03000297, u'pool_table', 0.027584769]
+[u'milk_can', 0.27939132, u'cup', 0.13067213, u'candle', 0.12189092, u'measuring_cup', 0.06004899, u'tray', 0.0478913]
+[u'bassoon', 0.39134389, u'cello', 0.14832266, u'oboe', 0.096751496, u'vestment', 0.036924742, u'flute', 0.024765994]

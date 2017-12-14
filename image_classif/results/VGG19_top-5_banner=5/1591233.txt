@@ -1,0 +1,2 @@
+[u'hair_slide', 0.14008966, u'electric_fan', 0.10845993, u'ping-pong_ball', 0.087639578, u'magnetic_compass', 0.063888155, u'thimble', 0.048408501]
+[u'web_site', 0.89685631, u'book_jacket', 0.03901276, u'bookshop', 0.009518085, u'envelope', 0.0088472944, u'comic_book', 0.0076047936]

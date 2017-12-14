@@ -1,0 +1,1 @@
+[u'picket_fence', 0.73648387, u'ski', 0.03941657, u'shower_curtain', 0.03346232, u'street_sign', 0.014836414, u'worm_fence', 0.011324707]

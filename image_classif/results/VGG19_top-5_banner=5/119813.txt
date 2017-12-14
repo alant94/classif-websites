@@ -1,0 +1,5 @@
+[u'macaw', 0.41832349, u'greenhouse', 0.077134758, u'lorikeet', 0.056380518, u'goldfish', 0.052982025, u'stupa', 0.044314075]
+[u'rifle', 0.025714196, u'lumbermill', 0.024810681, u'fountain', 0.022609068, u'cliff', 0.022353593, u'chain_saw', 0.021144671]
+[u'hatchet', 0.053000625, u'shovel', 0.044469129, u'nail', 0.039836749, u'spatula', 0.035211239, u'power_drill', 0.025965355]
+[u'comic_book', 0.071956255, u'oxcart', 0.070883557, u'ox', 0.065645128, u'water_buffalo', 0.061864987, u'hartebeest', 0.051886801]
+[u'fountain', 0.16527082, u'Arabian_camel', 0.15007836, u'African_hunting_dog', 0.12754671, u'impala', 0.10168891, u'fire_screen', 0.092400566]

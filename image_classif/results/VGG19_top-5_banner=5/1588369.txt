@@ -1,0 +1,2 @@
+[u'centipede', 0.17712574, u'drum', 0.047652654, u'hook', 0.034005981, u'hair_slide', 0.030388476, u'sax', 0.029619783]
+[u'quill', 0.13969438, u'pencil_sharpener', 0.111605, u'plane', 0.10135967, u'perfume', 0.054330088, u'face_powder', 0.052268822]

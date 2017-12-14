@@ -1,0 +1,2 @@
+[u'spotlight', 0.26111388, u'ping-pong_ball', 0.079646021, u'hair_spray', 0.055878542, u'microphone', 0.032368731, u'loupe', 0.032230761]
+[u'table_lamp', 0.29476598, u'monitor', 0.18355627, u'television', 0.095314421, u'lampshade', 0.056033392, u'fountain', 0.027065799]

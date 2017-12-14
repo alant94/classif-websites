@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.03301242, u'pick', 0.029202914, u'nail', 0.025786415, u'microphone', 0.025345052, u'screwdriver', 0.025184005]

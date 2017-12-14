@@ -1,0 +1,3 @@
+[u'butcher_shop', 0.86755723, u'restaurant', 0.022564676, u'cleaver', 0.016673969, u'grocery_store', 0.01566709, u'bakery', 0.012179593]
+[u'palace', 0.25362372, u'monastery', 0.1636124, u'mosque', 0.10480253, u'church', 0.10451987, u'obelisk', 0.070955023]
+[u'spotlight', 0.073496833, u'analog_clock', 0.053675242, u'lampshade', 0.030579627, u'shield', 0.029607927, u'tray', 0.029297974]

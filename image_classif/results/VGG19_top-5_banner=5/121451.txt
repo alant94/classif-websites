@@ -1,0 +1,2 @@
+[u'prison', 0.30084839, u'picket_fence', 0.0850311, u'book_jacket', 0.075893708, u'digital_clock', 0.02075075, u'organ', 0.017746383]
+[u'shower_curtain', 0.28064078, u'ocarina', 0.18997039, u'mask', 0.15430143, u'birdhouse', 0.12522075, u'iron', 0.046627246]

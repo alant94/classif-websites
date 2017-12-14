@@ -1,0 +1,2 @@
+[u'puck', 0.10789678, u'web_site', 0.093680054, u'book_jacket', 0.093584597, u'packet', 0.088410057, u'scoreboard', 0.067047045]
+[u'jellyfish', 0.11602329, u'web_site', 0.074266478, u'nail', 0.058619194, u'book_jacket', 0.054687601, u'matchstick', 0.052215386]

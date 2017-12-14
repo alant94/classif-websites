@@ -1,0 +1,5 @@
+[u'computer_keyboard', 0.68176538, u'typewriter_keyboard', 0.11833496, u'space_bar', 0.084158808, u'mouse', 0.029490672, u'abacus', 0.020997928]
+[u'mountain_tent', 0.4479934, u'sulphur_butterfly', 0.38892359, u'monarch', 0.049157258, u'brassiere', 0.016945576, u'sandal', 0.014810531]
+[u'picket_fence', 0.47359893, u'book_jacket', 0.071381055, u'fountain', 0.049076963, u'rapeseed', 0.048922122, u'worm_fence', 0.035612687]
+[u'stupa', 0.13708237, u'bakery', 0.08736901, u'picket_fence', 0.054812528, u'brassiere', 0.044443883, u'breakwater', 0.032949176]
+[u'groom', 0.3271172, u'suit', 0.085182302, u'gown', 0.077381685, u'jean', 0.063670717, u'bow_tie', 0.047111638]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.34908742, u'theater_curtain', 0.062956721, u'cash_machine', 0.044787794, u'jersey', 0.026094833, u'digital_clock', 0.022154162]
+[u'book_jacket', 0.26255167, u'cash_machine', 0.20996201, u'monitor', 0.054882165, u'screen', 0.052641653, u'scoreboard', 0.045802116]
+[u'book_jacket', 0.34920356, u'cash_machine', 0.044908937, u'theater_curtain', 0.033633843, u'envelope', 0.032262292, u'binder', 0.024508271]
+[u'book_jacket', 0.080061644, u'theater_curtain', 0.049715053, u'television', 0.042254411, u'home_theater', 0.039967518, u'cash_machine', 0.031584617]
+[u'book_jacket', 0.26312202, u'cash_machine', 0.11740905, u'scoreboard', 0.063878559, u'digital_clock', 0.049283605, u'freight_car', 0.035782222]
+[u'book_jacket', 0.35705751, u'theater_curtain', 0.20754728, u'cash_machine', 0.035119146, u'scoreboard', 0.024911257, u'barbershop', 0.023172636]
+[u'planetarium', 0.6150372, u'cinema', 0.038465571, u'water_tower', 0.038147885, u'sundial', 0.032962807, u'flagpole', 0.024594201]
+[u'cash_machine', 0.12612976, u'scoreboard', 0.086769313, u'book_jacket', 0.074090496, u'digital_clock', 0.057227235, u'television', 0.042493694]

@@ -1,0 +1,2 @@
+[u'maraca', 0.48142648, u'bubble', 0.1453812, u'whistle', 0.085633092, u'ice_lolly', 0.039815113, u'lipstick', 0.028701471]
+[u'suit', 0.28554869, u'Windsor_tie', 0.27326408, u'neck_brace', 0.089125186, u'academic_gown', 0.080619395, u'bow_tie', 0.028553657]

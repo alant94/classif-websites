@@ -1,0 +1,2 @@
+[u'groom', 0.19366802, u'suit', 0.13964418, u'ice_lolly', 0.067164317, u'bow_tie', 0.043114364, u'picket_fence', 0.033599857]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

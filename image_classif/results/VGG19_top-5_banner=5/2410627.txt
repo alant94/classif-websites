@@ -1,0 +1,2 @@
+[u'web_site', 0.79823345, u'vending_machine', 0.074475273, u'lipstick', 0.01724745, u'lotion', 0.010035094, u'pill_bottle', 0.0078595467]
+[u'window_shade', 0.61566514, u'studio_couch', 0.18320662, u'library', 0.024300579, u'restaurant', 0.0098375119, u'window_screen', 0.0093659256]

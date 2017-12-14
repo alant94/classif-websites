@@ -1,0 +1,1 @@
+[u'odometer', 0.14888188, u'web_site', 0.14655705, u'analog_clock', 0.05838177, u'magnetic_compass', 0.037212625, u'envelope', 0.027834896]

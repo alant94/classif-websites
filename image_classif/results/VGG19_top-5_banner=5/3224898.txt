@@ -1,0 +1,4 @@
+[u'safety_pin', 0.028924279, u'nail', 0.028302616, u'cleaver', 0.028289165, u'plate_rack', 0.027001677, u'paintbrush', 0.024439717]
+[u'digital_clock', 0.43621418, u'maze', 0.12245923, u'jigsaw_puzzle', 0.097894907, u'wall_clock', 0.046329811, u'container_ship', 0.033554915]
+[u'abaya', 0.39878994, u'academic_gown', 0.13338824, u'cloak', 0.096831962, u'suit', 0.096433654, u'mortarboard', 0.088367015]
+[u'magnetic_compass', 0.9749577, u'stopwatch', 0.019544495, u'analog_clock', 0.0039598523, u'barometer', 0.0011114797, u'wall_clock', 0.00029392578]

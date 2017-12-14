@@ -1,0 +1,6 @@
+[u'book_jacket', 0.26366547, u'bow_tie', 0.089253426, u'sunglasses', 0.081328772, u'sunglass', 0.071983583, u'wig', 0.071302973]
+[u'mask', 0.28575873, u'wig', 0.11898107, u'book_jacket', 0.05727309, u'neck_brace', 0.054909118, u'window_shade', 0.054380432]
+[u'bow_tie', 0.25112379, u'suit', 0.18705767, u'wig', 0.1308708, u'Windsor_tie', 0.075335346, u'shower_cap', 0.074671768]
+[u'wig', 0.55532217, u'shower_cap', 0.1317212, u'cleaver', 0.022794202, u'bathing_cap', 0.016626436, u'accordion', 0.010584226]
+[u'bow_tie', 0.11895215, u'book_jacket', 0.057514042, u'television', 0.042890333, u'groom', 0.035129674, u'lab_coat', 0.027759466]
+[u'wig', 0.44010574, u'book_jacket', 0.060129769, u'bow_tie', 0.048251208, u'Band_Aid', 0.022838144, u'sunglasses', 0.02138925]

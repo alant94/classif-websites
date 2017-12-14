@@ -1,0 +1,8 @@
+[u'cash_machine', 0.069077462, u'digital_clock', 0.059579197, u'packet', 0.0553989, u'book_jacket', 0.043989155, u'wall_clock', 0.043853339]
+[u'scoreboard', 0.3581779, u'barbershop', 0.1071003, u'digital_clock', 0.069740571, u'slot', 0.052461263, u'street_sign', 0.043239105]
+[u'book_jacket', 0.76125193, u'comic_book', 0.028055189, u'volcano', 0.017939845, u'brass', 0.015177002, u'prison', 0.015128504]
+[u'screen', 0.10985579, u'moving_van', 0.10532884, u'television', 0.10087551, u'oscilloscope', 0.085145295, u'trailer_truck', 0.059630238]
+[u'loupe', 0.27706739, u'book_jacket', 0.075746372, u'cassette', 0.044183835, u'face_powder', 0.036773786, u'medicine_chest', 0.031846389]
+[u'book_jacket', 0.26458377, u'cash_machine', 0.19094603, u'screen', 0.09084145, u'lotion', 0.045005154, u'perfume', 0.043125272]
+[u'mailbox', 0.1376543, u'picket_fence', 0.10308263, u'iron', 0.068089999, u'hair_spray', 0.047259115, u'pencil_sharpener', 0.045367066]
+[u'digital_clock', 0.19674225, u'shower_curtain', 0.071446359, u'crossword_puzzle', 0.038790829, u'studio_couch', 0.026689559, u'Windsor_tie', 0.025655648]

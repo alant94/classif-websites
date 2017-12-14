@@ -1,0 +1,3 @@
+[u'web_site', 0.660658, u'monitor', 0.11055243, u'screen', 0.048342399, u'notebook', 0.028316012, u'oscilloscope', 0.027259381]
+[u'fur_coat', 0.19285184, u'wig', 0.11982148, u'neck_brace', 0.057207938, u'stole', 0.04473123, u'abaya', 0.025750721]
+[u'hand_blower', 0.4274303, u'microphone', 0.16983642, u'French_horn', 0.090400696, u'electric_fan', 0.085634403, u'projector', 0.062127933]

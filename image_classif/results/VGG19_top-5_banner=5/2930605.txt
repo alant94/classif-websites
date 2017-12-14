@@ -1,0 +1,4 @@
+[u'analog_clock', 0.065393128, u'ski', 0.050531, u'cinema', 0.044184946, u'traffic_light', 0.036170006, u'cash_machine', 0.035349857]
+[u'television', 0.25067502, u'web_site', 0.1979762, u'comic_book', 0.070824608, u'book_jacket', 0.048374522, u'screen', 0.043750759]
+[u'web_site', 0.26205927, u'screen', 0.19270776, u'monitor', 0.10466593, u'television', 0.10338982, u'cash_machine', 0.064367637]
+[u'notebook', 0.20073235, u'cash_machine', 0.16598645, u'computer_keyboard', 0.1048211, u'laptop', 0.099909455, u'hand-held_computer', 0.08581651]

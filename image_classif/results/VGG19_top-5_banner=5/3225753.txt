@@ -1,0 +1,5 @@
+[u'beer_glass', 0.37972334, u'pop_bottle', 0.19600354, u'beer_bottle', 0.13695368, u'fountain', 0.042841353, u'wine_bottle', 0.036623817]
+[u'ashcan', 0.26468855, u'barrel', 0.12712316, u'book_jacket', 0.095275968, u'beer_glass', 0.092965432, u'cash_machine', 0.028855622]
+[u'picket_fence', 0.91918951, u'worm_fence', 0.056617118, u'prison', 0.0081117023, u'rule', 0.0030286859, u'chime', 0.0016359622]
+[u'rule', 0.2821027, u'nail', 0.21233556, u'screwdriver', 0.15327305, u'chime', 0.053020619, u'slide_rule', 0.03713898]
+[u'picket_fence', 0.12578283, u'street_sign', 0.080461293, u'water_tower', 0.065031342, u'book_jacket', 0.057532795, u'digital_clock', 0.039283469]

@@ -1,0 +1,2 @@
+[u'web_site', 0.060001615, u'book_jacket', 0.052028146, u'street_sign', 0.030614045, u'comic_book', 0.021858213, u'tobacco_shop', 0.012909168]
+[u'face_powder', 0.086858064, u'bathing_cap', 0.058744349, u'puck', 0.058073882, u'balloon', 0.053926591, u'web_site', 0.053521398]

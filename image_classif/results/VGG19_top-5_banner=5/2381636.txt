@@ -1,0 +1,3 @@
+[u'matchstick', 0.054363951, u'nematode', 0.05035226, u'digital_clock', 0.022553463, u'lighter', 0.020684533, u'spotlight', 0.018492566]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'organ', 0.8341341, u'chime', 0.12354601, u'syringe', 0.016740559, u'panpipe', 0.0040346705, u'screwdriver', 0.0020943575]

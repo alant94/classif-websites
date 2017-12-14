@@ -1,0 +1,1 @@
+[u'switch', 0.63435417, u'loupe', 0.095017336, u'combination_lock', 0.048653048, u'spotlight', 0.040100444, u'magnetic_compass', 0.037246138]

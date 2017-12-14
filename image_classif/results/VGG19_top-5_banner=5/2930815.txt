@@ -1,0 +1,5 @@
+[u'scoreboard', 0.49806499, u'book_jacket', 0.089432105, u'jersey', 0.070590295, u'crossword_puzzle', 0.028631089, u'cash_machine', 0.02198226]
+[u'hand-held_computer', 0.094785646, u'stethoscope', 0.088982858, u'lab_coat', 0.081384599, u'notebook', 0.070901312, u'cellular_telephone', 0.04978811]
+[u'matchstick', 0.49716222, u'drumstick', 0.25173268, u'Band_Aid', 0.15121998, u'rubber_eraser', 0.045751639, u'syringe', 0.013446557]
+[u'hook', 0.085149862, u'iron', 0.045425493, u'snorkel', 0.045218118, u'web_site', 0.042412121, u'toilet_seat', 0.035854407]
+[u'scale', 0.56938344, u'stopwatch', 0.09631943, u'magnetic_compass', 0.054342061, u'strainer', 0.02996555, u'Petri_dish', 0.020959575]

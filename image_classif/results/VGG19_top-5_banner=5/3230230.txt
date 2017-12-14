@@ -1,0 +1,5 @@
+[u'abaya', 0.54267889, u'theater_curtain', 0.06898164, u'cloak', 0.051978834, u'bassoon', 0.027215799, u'microphone', 0.01971755]
+[u'lakeside', 0.29954445, u'steel_arch_bridge', 0.083595365, u'valley', 0.078048415, u'seashore', 0.073324107, u'suspension_bridge', 0.071333997]
+[u'accordion', 0.079756677, u'acoustic_guitar', 0.073600337, u'suit', 0.066561833, u'harmonica', 0.05243304, u'harp', 0.035162032]
+[u'quill', 0.81015146, u'packet', 0.070590496, u'envelope', 0.021270903, u'handkerchief', 0.016404966, u'brassiere', 0.012417767]
+[u'lipstick', 0.53501511, u'ballpoint', 0.23076707, u'fountain_pen', 0.046890195, u'rubber_eraser', 0.034525599, u'screwdriver', 0.014537616]

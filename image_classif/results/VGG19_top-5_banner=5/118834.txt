@@ -1,0 +1,5 @@
+[u'picket_fence', 0.49042571, u'matchstick', 0.13797557, u'digital_clock', 0.063655682, u'rule', 0.025132051, u'marimba', 0.018916216]
+[u'digital_clock', 0.17383838, u'Band_Aid', 0.11863603, u'matchstick', 0.087680265, u'rule', 0.0503239, u'modem', 0.033123069]
+[u'ashcan', 0.069187358, u'switch', 0.053104553, u'street_sign', 0.05028354, u'safe', 0.045686856, u'toilet_seat', 0.038811333]
+[u'picket_fence', 0.35762531, u'digital_clock', 0.097801119, u'matchstick', 0.095001608, u'rule', 0.040847544, u'syringe', 0.034027789]
+[u'street_sign', 0.074599609, u'book_jacket', 0.055328887, u'doormat', 0.053642277, u'tennis_ball', 0.043784328, u'envelope', 0.042932324]

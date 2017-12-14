@@ -1,0 +1,7 @@
+[u'bow', 0.30398703, u'kimono', 0.10977844, u'flamingo', 0.063861012, u'parallel_bars', 0.028528193, u'chime', 0.025089025]
+[u'microphone', 0.040499814, u'hook', 0.03941441, u'envelope', 0.031823687, u'web_site', 0.028107779, u'modem', 0.026298197]
+[u'maillot', 0.13346645, u'stole', 0.099264182, u'sarong', 0.074153543, u'miniskirt', 0.071462065, u'pajama', 0.049204942]
+[u'clog', 0.43496946, u'sandal', 0.34649366, u'running_shoe', 0.043011285, u'Loafer', 0.042473882, u'buckle', 0.031655584]
+[u'pier', 0.42608833, u'dock', 0.14789777, u'boathouse', 0.060221147, u'dam', 0.040084574, u'palace', 0.035511475]
+[u'maze', 0.43991739, u'digital_clock', 0.27564505, u'oscilloscope', 0.033412505, u'prayer_rug', 0.030545579, u'monitor', 0.03004355]
+[u'digital_clock', 0.18619481, u'monitor', 0.11552238, u'screen', 0.064048156, u'shower_curtain', 0.055683058, u'envelope', 0.041635394]

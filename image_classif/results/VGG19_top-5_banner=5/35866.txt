@@ -1,0 +1,5 @@
+[u'soap_dispenser', 0.33215469, u'piggy_bank', 0.31089342, u'toaster', 0.073610716, u'saltshaker', 0.05955711, u'coffee_mug', 0.024026422]
+[u'web_site', 0.99413401, u'menu', 0.0035877021, u'envelope', 0.0007075204, u'comic_book', 0.00040270662, u'book_jacket', 0.00025422146]
+[u'web_site', 0.23071045, u'cash_machine', 0.1665051, u'street_sign', 0.066555209, u'iPod', 0.062515534, u'Band_Aid', 0.033409346]
+[u'brass', 0.13804294, u'scoreboard', 0.082234368, u'web_site', 0.081378572, u'traffic_light', 0.066075817, u'park_bench', 0.052487765]
+[u'scoreboard', 0.15526843, u'screen', 0.15259933, u'digital_clock', 0.11742797, u'street_sign', 0.066446759, u'television', 0.055502117]

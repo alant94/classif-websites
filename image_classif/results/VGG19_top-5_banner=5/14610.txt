@@ -1,0 +1,7 @@
+[u'lighter', 0.10392475, u'microphone', 0.063863143, u'hair_spray', 0.055883758, u'gas_pump', 0.051410481, u'punching_bag', 0.047674354]
+[u'book_jacket', 0.18982886, u'comic_book', 0.12271044, u'street_sign', 0.12021897, u'web_site', 0.065489799, u'tobacco_shop', 0.045087427]
+[u'web_site', 0.18722484, u'menu', 0.15160108, u'book_jacket', 0.098887518, u'jersey', 0.044140376, u'matchstick', 0.042757988]
+[u'croquet_ball', 0.2423607, u'ballpoint', 0.24112061, u'flute', 0.14499676, u'rubber_eraser', 0.069871277, u'paintbrush', 0.043517116]
+[u'web_site', 0.3881391, u'envelope', 0.18239339, u'rule', 0.018804466, u'rubber_eraser', 0.012060394, u'screwdriver', 0.011286392]
+[u'wardrobe', 0.088566378, u'binder', 0.055803459, u'nail', 0.05152417, u'turnstile', 0.037892703, u'dining_table', 0.03571707]
+[u'candle', 0.56893623, u'torch', 0.16507545, u'punching_bag', 0.041067179, u'chime', 0.036332086, u'screwdriver', 0.028466567]

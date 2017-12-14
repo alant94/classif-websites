@@ -1,0 +1,2 @@
+[u'plate', 0.88224697, u'chocolate_sauce', 0.073720783, u'ice_cream', 0.026985919, u'meat_loaf', 0.0070975563, u'consomme', 0.0032228085]
+[u'sunglass', 0.204805, u'magnetic_compass', 0.11019847, u'loupe', 0.10273042, u'sunglasses', 0.079179019, u'wall_clock', 0.069986917]

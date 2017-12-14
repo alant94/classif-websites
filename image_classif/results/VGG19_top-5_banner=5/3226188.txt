@@ -1,0 +1,2 @@
+[u'church', 0.4332239, u'picket_fence', 0.099545136, u'flagpole', 0.077104852, u'bell_cote', 0.053448278, u'boathouse', 0.026379755]
+[u'coil', 0.15002327, u'maze', 0.068900026, u'turnstile', 0.041516382, u'French_horn', 0.032785255, u'binder', 0.03272197]

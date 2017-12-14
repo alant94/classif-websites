@@ -1,0 +1,2 @@
+[u'monitor', 0.38303834, u'screen', 0.34692261, u'digital_clock', 0.062139083, u'cash_machine', 0.052298266, u'oscilloscope', 0.02832352]
+[u'monitor', 0.13711341, u'screen', 0.082933292, u'window_shade', 0.064967513, u'sliding_door', 0.043412637, u'envelope', 0.04281757]

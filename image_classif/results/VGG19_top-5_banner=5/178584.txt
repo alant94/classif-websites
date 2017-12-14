@@ -1,0 +1,1 @@
+[u'mortarboard', 0.087968096, u'umbrella', 0.083198756, u'academic_gown', 0.053119291, u'sunglasses', 0.038355265, u'bow_tie', 0.031478859]

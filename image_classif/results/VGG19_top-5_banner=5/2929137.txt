@@ -1,0 +1,2 @@
+[u'guillotine', 0.41954964, u'pay-phone', 0.11477169, u'barbershop', 0.09055987, u'tobacco_shop', 0.04731489, u'swab', 0.037712757]
+[u'maze', 0.31511199, u'prayer_rug', 0.067582831, u'envelope', 0.042740431, u'bannister', 0.041054182, u'carton', 0.027894633]

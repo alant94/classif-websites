@@ -1,0 +1,3 @@
+[u'sarong', 0.18711913, u'shower_curtain', 0.076003313, u'bib', 0.050330311, u'pillow', 0.045317542, u'apron', 0.035206307]
+[u'web_site', 0.21134301, u'book_jacket', 0.15976325, u'envelope', 0.057727568, u'packet', 0.0335746, u'binder', 0.020947335]
+[u'book_jacket', 0.19708143, u'web_site', 0.16519195, u'envelope', 0.048433963, u'packet', 0.040352475, u'menu', 0.022011144]

@@ -1,0 +1,6 @@
+[u'web_site', 0.064471848, u'street_sign', 0.040789276, u'flagpole', 0.035441499, u'traffic_light', 0.031558342, u'hook', 0.019605881]
+[u'prayer_rug', 0.74030185, u'throne', 0.1134493, u'book_jacket', 0.077135921, u'envelope', 0.01083039, u'packet', 0.0083745625]
+[u'street_sign', 0.050517738, u'web_site', 0.049055897, u'traffic_light', 0.034103423, u'digital_clock', 0.032267895, u'flagpole', 0.028860649]
+[u'web_site', 0.051853064, u'flagpole', 0.041770179, u'street_sign', 0.037631795, u'parachute', 0.02842861, u'traffic_light', 0.02818764]
+[u'book_jacket', 0.070754983, u'screwdriver', 0.060428187, u"carpenter's_kit", 0.040502474, u'rule', 0.037369303, u'ballpoint', 0.035932515]
+[u'web_site', 0.054270379, u'binder', 0.041949619, u'envelope', 0.039721247, u'street_sign', 0.028620582, u'book_jacket', 0.025577173]

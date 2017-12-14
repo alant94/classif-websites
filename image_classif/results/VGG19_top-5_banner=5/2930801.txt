@@ -1,0 +1,6 @@
+[u'notebook', 0.33252874, u'laptop', 0.23817305, u'desktop_computer', 0.08765348, u'desk', 0.062118769, u'mouse', 0.05758854]
+[u'forklift', 0.25742468, u'barber_chair', 0.089374065, u'ambulance', 0.067016587, u'vacuum', 0.043286514, u'gas_pump', 0.03497513]
+[u'binder', 0.3113997, u'wallet', 0.19548748, u'slide_rule', 0.12917534, u'lighter', 0.081674069, u'doormat', 0.047410138]
+[u'scabbard', 0.26094583, u'spotlight', 0.094207399, u'pencil_sharpener', 0.055255666, u'iron', 0.050208021, u'hook', 0.047352884]
+[u'nail', 0.50101197, u'hook', 0.037805833, u'screw', 0.024389561, u'solar_dish', 0.023531253, u'chime', 0.019567756]
+[u'syringe', 0.23407847, u'whistle', 0.074041896, u'oxygen_mask', 0.054806735, u'hook', 0.025182202, u'tennis_ball', 0.024318695]

@@ -1,0 +1,7 @@
+[u'safe', 0.10152713, u'medicine_chest', 0.064424098, u'scale', 0.061646301, u'binder', 0.040192518, u'wardrobe', 0.038953379]
+[u'suspension_bridge', 0.19077377, u'volcano', 0.051956937, u'crane', 0.046881627, u'pier', 0.040310983, u'space_shuttle', 0.033328746]
+[u'crib', 0.65781713, u'envelope', 0.072856672, u'carton', 0.051235173, u'binder', 0.028562229, u'digital_clock', 0.020836575]
+[u'digital_clock', 0.16798158, u'container_ship', 0.15024987, u'digital_watch', 0.078132175, u'Windsor_tie', 0.057332732, u'crossword_puzzle', 0.053063843]
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]
+[u'ballpoint', 0.14479659, u'cleaver', 0.11692708, u'paintbrush', 0.067101978, u'rubber_eraser', 0.04718259, u'can_opener', 0.043972112]
+[u'digital_clock', 0.1065622, u'web_site', 0.055532891, u'Band_Aid', 0.054792117, u'crossword_puzzle', 0.045063585, u'Windsor_tie', 0.043061756]

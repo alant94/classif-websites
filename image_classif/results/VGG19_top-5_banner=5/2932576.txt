@@ -1,0 +1,3 @@
+[u'golf_ball', 0.15871818, u'spotlight', 0.073936984, u'face_powder', 0.049585387, u'tennis_ball', 0.042373251, u'web_site', 0.040894002]
+[u'tennis_ball', 0.15199432, u'spotlight', 0.085400805, u'rugby_ball', 0.084672123, u'face_powder', 0.079794638, u'Band_Aid', 0.05951295]
+[u'book_jacket', 0.25388837, u'menu', 0.1050488, u'brass', 0.091252014, u'lotion', 0.032654472, u'face_powder', 0.029958341]

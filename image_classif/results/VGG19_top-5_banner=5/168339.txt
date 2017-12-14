@@ -1,0 +1,5 @@
+[u'sweatshirt', 0.19757304, u'bulletproof_vest', 0.090939604, u'jersey', 0.064080425, u'wool', 0.021768048, u'cardigan', 0.020621173]
+[u'toilet_seat', 0.090526074, u'screen', 0.060591746, u'monitor', 0.043003242, u'carton', 0.04080756, u'television', 0.029473029]
+[u'bow', 0.21401508, u'chime', 0.069378421, u'paintbrush', 0.057935677, u'hook', 0.035075564, u"carpenter's_kit", 0.03403426]
+[u'book_jacket', 0.3084639, u'theater_curtain', 0.046356883, u'comic_book', 0.043513972, u'cello', 0.034620542, u'cloak', 0.03147047]
+[u'torch', 0.060124163, u'jersey', 0.056538254, u'traffic_light', 0.050597332, u'matchstick', 0.030220062, u'candle', 0.030010607]

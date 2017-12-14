@@ -1,0 +1,6 @@
+[u'water_buffalo', 0.20878585, u'plow', 0.11192161, u'ox', 0.10833351, u'oxcart', 0.10439716, u'bighorn', 0.097270712]
+[u'wall_clock', 0.46432295, u'coil', 0.36674789, u'bannister', 0.061541457, u'analog_clock', 0.015907528, u'gong', 0.0098078521]
+[u'impala', 0.89095265, u'gazelle', 0.072910793, u'hartebeest', 0.020467583, u'wallaby', 0.0037402038, u'ibex', 0.0028409392]
+[u'hartebeest', 0.32725891, u'impala', 0.18093079, u'warthog', 0.12064745, u'ibex', 0.084915794, u'gazelle', 0.033404451]
+[u'hartebeest', 0.29194808, u'impala', 0.21751654, u'barn_spider', 0.04420571, u'cliff', 0.035414416, u'gazelle', 0.033305492]
+[u'lakeside', 0.10944469, u'apiary', 0.080615766, u'water_buffalo', 0.033811811, u'barn', 0.02848473, u'mobile_home', 0.018279346]

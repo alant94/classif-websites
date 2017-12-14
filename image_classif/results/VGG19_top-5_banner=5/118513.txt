@@ -1,0 +1,1 @@
+[u'cassette', 0.11976266, u'pencil_sharpener', 0.11519099, u'puck', 0.1057367, u'wall_clock', 0.10249256, u'mask', 0.085396543]

@@ -1,0 +1,4 @@
+[u'web_site', 0.23012304, u'book_jacket', 0.044345342, u'envelope', 0.024576824, u'bubble', 0.017763458, u'comic_book', 0.016941182]
+[u'tank', 0.15035479, u'steam_locomotive', 0.11834031, u'cannon', 0.11031403, u'space_shuttle', 0.076883405, u'aircraft_carrier', 0.067141414]
+[u'web_site', 0.13166952, u'hair_slide', 0.034732871, u'maraca', 0.032598186, u'wig', 0.030719806, u'envelope', 0.021565089]
+[u'hook', 0.35697886, u'safety_pin', 0.20912024, u'nail', 0.073772565, u'sea_anemone', 0.053672008, u'coil', 0.039397668]

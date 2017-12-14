@@ -1,0 +1,1 @@
+[u'candle', 0.1432675, u'matchstick', 0.14019182, u'lighter', 0.081614859, u'envelope', 0.071477681, u'web_site', 0.062248617]

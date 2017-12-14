@@ -1,0 +1,8 @@
+[u'gasmask', 0.21912362, u'sunscreen', 0.14467201, u'can_opener', 0.091260374, u'frying_pan', 0.0612383, u'Crock_Pot', 0.035795379]
+[u'chime', 0.37690064, u'ballpoint', 0.24650656, u'drumstick', 0.084767431, u'rubber_eraser', 0.04101095, u'fountain_pen', 0.038250331]
+[u'tobacco_shop', 0.81338799, u'bookshop', 0.10421011, u'confectionery', 0.024867652, u'library', 0.021131104, u'medicine_chest', 0.016857808]
+[u'library', 0.74343401, u'container_ship', 0.034947697, u'crate', 0.034005951, u'bookshop', 0.019812545, u'mobile_home', 0.015229433]
+[u'tobacco_shop', 0.95334059, u'bookshop', 0.013338411, u'medicine_chest', 0.0098709753, u'container_ship', 0.0063569127, u'confectionery', 0.0063442304]
+[u'beer_glass', 0.55428934, u'perfume', 0.073493935, u'pill_bottle', 0.04500965, u'cup', 0.033113375, u'digital_watch', 0.025643867]
+[u'sliding_door', 0.080376536, u'library', 0.069399081, u'turnstile', 0.067736745, u'monitor', 0.064754084, u'bookshop', 0.060000788]
+[u'coil', 0.69031847, u'grille', 0.030559108, u'safety_pin', 0.015382594, u'fountain', 0.014978291, u'spotlight', 0.013571473]

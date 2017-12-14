@@ -1,0 +1,5 @@
+[u'envelope', 0.18843946, u'web_site', 0.082326598, u'cash_machine', 0.078638099, u'matchstick', 0.048987534, u'wall_clock', 0.033809509]
+[u'matchstick', 0.091685355, u'rule', 0.07904733, u'cash_machine', 0.066054136, u'screwdriver', 0.064628869, u'web_site', 0.046090908]
+[u'rule', 0.38184676, u'oscilloscope', 0.097748242, u'web_site', 0.052053079, u'cash_machine', 0.050502624, u'digital_clock', 0.022629606]
+[u'screwdriver', 0.11227358, u'rule', 0.1037847, u'matchstick', 0.078469083, u"carpenter's_kit", 0.062972479, u'oscilloscope', 0.05365368]
+[u'matchstick', 0.15376733, u'rule', 0.13710773, u'screwdriver', 0.093101531, u'ballpoint', 0.048174117, u"carpenter's_kit", 0.047477182]

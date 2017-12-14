@@ -1,0 +1,5 @@
+[u'park_bench', 0.094122291, u'stretcher', 0.055565264, u'parallel_bars', 0.045469098, u"potter's_wheel", 0.033440784, u'television', 0.029435748]
+[u'lawn_mower', 0.2928533, u'barrow', 0.074570484, u'tricycle', 0.06776087, u'broom', 0.065440252, u'swing', 0.063824825]
+[u'web_site', 0.41239864, u'menu', 0.30070844, u'packet', 0.1227197, u'screen', 0.019347822, u'monitor', 0.017499674]
+[u'bathing_cap', 0.15083966, u'bearskin', 0.070890993, u'torch', 0.057713609, u'unicycle', 0.04699748, u'maillot', 0.038937315]
+[u'paddle', 0.084860332, u'lakeside', 0.083930492, u'sandbar', 0.07930401, u'seashore', 0.078049913, u'swimming_trunks', 0.073823869]

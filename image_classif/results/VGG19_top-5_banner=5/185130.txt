@@ -1,0 +1,3 @@
+[u'loggerhead', 0.30091476, u'drilling_platform', 0.25412989, u'snorkel', 0.066783622, u'toyshop', 0.062436044, u'bathing_cap', 0.037273023]
+[u'marimba', 0.11707406, u'guillotine', 0.10341065, u'lumbermill', 0.070200205, u'bow', 0.059459191, u'power_drill', 0.040712405]
+[u'cash_machine', 0.051034339, u'web_site', 0.043660041, u'plastic_bag', 0.04135384, u'screen', 0.032119647, u'jellyfish', 0.031722382]

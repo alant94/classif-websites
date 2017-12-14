@@ -1,0 +1,5 @@
+[u'web_site', 0.066266887, u'hatchet', 0.037732463, u'street_sign', 0.036644176, u'hook', 0.028997496, u'chain_saw', 0.019163579]
+[u'football_helmet', 0.16533822, u'web_site', 0.13268845, u'bobsled', 0.10187591, u'maraca', 0.059267178, u'ocarina', 0.042465322]
+[u'television', 0.22722067, u'screen', 0.18483536, u'web_site', 0.15731522, u'hand-held_computer', 0.10117127, u'monitor', 0.094281942]
+[u'street_sign', 0.19111699, u'web_site', 0.075288557, u'book_jacket', 0.045096166, u'tobacco_shop', 0.03093902, u'hook', 0.030736921]
+[u'cassette', 0.084119178, u'digital_clock', 0.07746961, u'wallet', 0.051653944, u'pencil_sharpener', 0.041689239, u'cellular_telephone', 0.03673486]

@@ -1,0 +1,3 @@
+[u'nail', 0.3339054, u'rule', 0.18835884, u'matchstick', 0.12098096, u'chime', 0.085907474, u'screwdriver', 0.026474817]
+[u'lakeside', 0.68790931, u'valley', 0.13260449, u'promontory', 0.027961155, u'sandbar', 0.019888332, u'seashore', 0.016039422]
+[u'valley', 0.6857062, u'lakeside', 0.17465383, u'alp', 0.051433161, u'dam', 0.032883838, u'promontory', 0.018450031]

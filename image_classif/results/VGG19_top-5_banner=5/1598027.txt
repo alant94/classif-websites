@@ -1,0 +1,2 @@
+[u'torch', 0.078266628, u'volcano', 0.071821801, u'theater_curtain', 0.050828092, u'candle', 0.046472844, u'fire_screen', 0.031408552]
+[u'brassiere', 0.089733481, u'wig', 0.053470951, u'ice_lolly', 0.04148775, u'bathtub', 0.034719333, u'maillot', 0.027970521]

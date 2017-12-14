@@ -1,0 +1,6 @@
+[u'window_shade', 0.21580625, u'shoji', 0.11944595, u'theater_curtain', 0.067287073, u'shower_curtain', 0.059854295, u'sliding_door', 0.053229749]
+[u'picket_fence', 0.053261045, u'fountain', 0.052161194, u'syringe', 0.045744352, u'matchstick', 0.043452263, u'spotlight', 0.041008122]
+[u'digital_clock', 0.3337861, u'jigsaw_puzzle', 0.10968138, u'analog_clock', 0.090005822, u'traffic_light', 0.074898057, u'wall_clock', 0.070018299]
+[u'rifle', 0.16722275, u'assault_rifle', 0.16345455, u'military_uniform', 0.15667015, u'cannon', 0.062875547, u'tank', 0.044650879]
+[u'window_shade', 0.19118777, u'sliding_door', 0.11721665, u'shoji', 0.083363123, u'shower_curtain', 0.060601942, u'digital_clock', 0.035191815]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

@@ -1,0 +1,3 @@
+[u'wing', 0.024765743, u'space_shuttle', 0.02350946, u'kite', 0.022851871, u'parachute', 0.021721978, u'airship', 0.017576512]
+[u'broom', 0.32916236, u'paintbrush', 0.18634619, u'spatula', 0.094096825, u'wool', 0.080377124, u'matchstick', 0.034227941]
+[u'book_jacket', 0.80978405, u'street_sign', 0.044494458, u'packet', 0.026196837, u'Band_Aid', 0.0052199559, u'pill_bottle', 0.0048929458]

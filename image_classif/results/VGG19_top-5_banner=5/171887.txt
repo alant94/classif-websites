@@ -1,0 +1,4 @@
+[u'digital_clock', 0.26446852, u'wall_clock', 0.067861885, u'street_sign', 0.038809787, u'traffic_light', 0.034547418, u'book_jacket', 0.033321198]
+[u'scoreboard', 0.30011657, u'barn', 0.060195431, u'chainlink_fence', 0.040904108, u'shower_curtain', 0.036801133, u'flagpole', 0.020833945]
+[u'king_crab', 0.11247882, u'gar', 0.064554721, u'stage', 0.044970486, u'chain_saw', 0.039032374, u'Dungeness_crab', 0.036409315]
+[u'church', 0.5010829, u'water_tower', 0.05630751, u'castle', 0.048875861, u'palace', 0.029047852, u'monastery', 0.028601326]

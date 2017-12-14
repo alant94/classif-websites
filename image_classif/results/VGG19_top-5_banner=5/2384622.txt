@@ -1,0 +1,3 @@
+[u'packet', 0.31798902, u'strawberry', 0.052620951, u'rubber_eraser', 0.052054297, u'Band_Aid', 0.049650356, u'bell_pepper', 0.044756733]
+[u'hair_slide', 0.25819415, u'wall_clock', 0.049805827, u'web_site', 0.028919131, u'lighter', 0.026940828, u'candle', 0.025971899]
+[u'handkerchief', 0.14355978, u'envelope', 0.11984383, u'book_jacket', 0.093355663, u'stole', 0.093330115, u'binder', 0.064298637]

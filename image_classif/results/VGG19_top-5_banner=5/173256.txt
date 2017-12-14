@@ -1,0 +1,6 @@
+[u'stage', 0.32045496, u'forklift', 0.10632548, u'electric_guitar', 0.049762279, u'volleyball', 0.040836852, u'harp', 0.02373112]
+[u'picket_fence', 0.55985528, u'fountain', 0.12304712, u'worm_fence', 0.019073101, u'jigsaw_puzzle', 0.015176043, u'palace', 0.0089678597]
+[u'banjo', 0.3581616, u'electric_guitar', 0.33056211, u'stage', 0.13685115, u'sax', 0.1061172, u'acoustic_guitar', 0.048222508]
+[u'vestment', 0.19405285, u'kimono', 0.16544817, u'marimba', 0.14017269, u'panpipe', 0.13218056, u'theater_curtain', 0.025751932]
+[u"jack-o'-lantern", 0.11092675, u'carton', 0.070553027, u'book_jacket', 0.066904597, u'crate', 0.059642367, u'ashcan', 0.038739845]
+[u'academic_gown', 0.085742623, u'mortarboard', 0.062871926, u'theater_curtain', 0.054355443, u'comic_book', 0.042632736, u'book_jacket', 0.038780198]

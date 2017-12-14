@@ -1,0 +1,2 @@
+[u'hair_spray', 0.17504208, u'wig', 0.17320187, u'feather_boa', 0.068670407, u'oboe', 0.04329221, u'fur_coat', 0.034113064]
+[u'digital_clock', 0.27049366, u'prayer_rug', 0.20312452, u'Windsor_tie', 0.07547427, u'maze', 0.04683293, u'velvet', 0.033907335]

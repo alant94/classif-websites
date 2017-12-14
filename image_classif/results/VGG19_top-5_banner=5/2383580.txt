@@ -1,0 +1,7 @@
+[u'sliding_door', 0.13774772, u'horizontal_bar', 0.064773366, u'turnstile', 0.059038073, u'bannister', 0.05192247, u'parallel_bars', 0.046919875]
+[u'Band_Aid', 0.20006235, u'envelope', 0.13174224, u'digital_clock', 0.084757425, u'Windsor_tie', 0.037376869, u'binder', 0.026498621]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'torch', 0.13322717, u'matchstick', 0.10987123, u'fountain', 0.090097368, u'obelisk', 0.079609282, u'nematode', 0.037416652]
+[u'hay', 0.10171687, u'bison', 0.06707231, u'pole', 0.044603646, u'ostrich', 0.034928448, u'flagpole', 0.034603328]
+[u'coil', 0.1332452, u'hook', 0.055687886, u'binder', 0.054515664, u'lampshade', 0.048217043, u'envelope', 0.045115769]
+[u'seashore', 0.15064918, u'beacon', 0.096037701, u'hay', 0.095129713, u'valley', 0.051019639, u'trailer_truck', 0.037901111]

@@ -1,0 +1,1 @@
+[u'book_jacket', 0.38642314, u'doormat', 0.19586296, u'packet', 0.14702681, u'street_sign', 0.085803084, u'plastic_bag', 0.028190201]

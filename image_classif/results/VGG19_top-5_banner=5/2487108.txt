@@ -1,0 +1,2 @@
+[u'microphone', 0.072376929, u'muzzle', 0.064324372, u'brassiere', 0.061753485, u'bow', 0.057572324, u'hook', 0.048339579]
+[u'web_site', 0.048175246, u'abaya', 0.039813697, u'hook', 0.03319861, u'spotlight', 0.026304407, u'sunglass', 0.025366798]

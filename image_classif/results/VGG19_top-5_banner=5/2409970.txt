@@ -1,0 +1,5 @@
+[u'nail', 0.076232493, u'hook', 0.07461863, u'rule', 0.04355121, u'bow', 0.042886075, u'chime', 0.038529266]
+[u'jackfruit', 0.15142839, u'tennis_ball', 0.066265106, u'swab', 0.048364308, u'banana', 0.03534577, u'packet', 0.027496248]
+[u'paper_towel', 0.58914173, u'toilet_tissue', 0.092716165, u'scabbard', 0.058093488, u'chime', 0.032786563, u'pencil_sharpener', 0.030987833]
+[u'hip', 0.24813496, u'handkerchief', 0.18434408, u'envelope', 0.08954557, u'necklace', 0.02696876, u'bib', 0.026917256]
+[u'street_sign', 0.087360963, u'hook', 0.046086509, u'shovel', 0.03241631, u'cleaver', 0.031091949, u'digital_clock', 0.03038522]

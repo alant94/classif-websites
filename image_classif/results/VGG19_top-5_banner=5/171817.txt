@@ -1,0 +1,1 @@
+[u'handkerchief', 0.3276611, u'jersey', 0.093686245, u'apron', 0.082536176, u'diaper', 0.065151975, u'sleeping_bag', 0.063068196]

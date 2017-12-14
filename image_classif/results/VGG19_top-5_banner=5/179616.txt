@@ -1,0 +1,4 @@
+[u'jersey', 0.05866579, u'binder', 0.040177271, u'whistle', 0.029463837, u'book_jacket', 0.025394343, u'punching_bag', 0.024343336]
+[u'organ', 0.49687779, u'chime', 0.085759781, u"carpenter's_kit", 0.072544858, u'screwdriver', 0.057801519, u'beer_bottle', 0.027885173]
+[u'street_sign', 0.31171122, u'digital_clock', 0.076404586, u'hook', 0.074941255, u'wall_clock', 0.029841445, u'book_jacket', 0.029144581]
+[u'rubber_eraser', 0.48510385, u'packet', 0.081956811, u'matchstick', 0.070523478, u'book_jacket', 0.055665851, u'mousetrap', 0.030557541]

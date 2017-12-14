@@ -1,0 +1,8 @@
+[u'book_jacket', 0.84665543, u'packet', 0.04571645, u'envelope', 0.032763898, u'brass', 0.013547396, u'menu', 0.010070114]
+[u'desktop_computer', 0.32481071, u'modem', 0.17691596, u'iPod', 0.15643361, u'cellular_telephone', 0.081906006, u'radio', 0.071497895]
+[u'picket_fence', 0.17129324, u'patio', 0.11689464, u'mobile_home', 0.062419478, u'sliding_door', 0.042900197, u'pot', 0.029003058]
+[u'digital_clock', 0.17507645, u'book_jacket', 0.093679287, u'street_sign', 0.036465671, u'digital_watch', 0.036421116, u'Band_Aid', 0.03019801]
+[u'carton', 0.29288706, u'tray', 0.1689492, u'crate', 0.14065477, u'book_jacket', 0.074877076, u'envelope', 0.039322119]
+[u'brass', 0.33564809, u'menu', 0.31330001, u'crossword_puzzle', 0.043364797, u'packet', 0.040798999, u'envelope', 0.0330295]
+[u'binder', 0.58800584, u'analog_clock', 0.041566126, u'digital_clock', 0.028111065, u'letter_opener', 0.019678717, u'screen', 0.016749784]
+[u'safety_pin', 0.26363522, u'hook', 0.20049712, u'hair_slide', 0.063135624, u'bow', 0.046289571, u'nail', 0.036867693]

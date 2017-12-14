@@ -1,0 +1,7 @@
+[u'black_grouse', 0.45116019, u'partridge', 0.27657938, u'ruffed_grouse', 0.12724307, u'hen', 0.055044129, u'cock', 0.032764792]
+[u'German_short-haired_pointer', 0.99882454, u'vizsla', 0.00048973499, u'English_foxhound', 0.00014469982, u'bluetick', 0.00013362574, u'Weimaraner', 9.1674767e-05]
+[u'partridge', 0.40978327, u'quail', 0.34256965, u'ruffed_grouse', 0.16038714, u'prairie_chicken', 0.081322894, u'black_grouse', 0.0029330526]
+[u'screen', 0.37592629, u'microwave', 0.10753205, u'switch', 0.10554948, u'safe', 0.091817364, u'oscilloscope', 0.062783279]
+[u'beacon', 0.14206658, u'picket_fence', 0.097224005, u'crane', 0.032288998, u'envelope', 0.032081321, u'crib', 0.025576813]
+[u'street_sign', 0.20588933, u'sundial', 0.12280843, u'brass', 0.08402884, u'thatch', 0.037345883, u'pot', 0.030428847]
+[u'beacon', 0.21192439, u'crane', 0.11639263, u'bell_cote', 0.085176803, u'traffic_light', 0.051759418, u'flagpole', 0.045680139]

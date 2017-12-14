@@ -1,0 +1,4 @@
+[u'Egyptian_cat', 0.39406192, u'tabby', 0.37634191, u'tiger_cat', 0.15775131, u'lynx', 0.025166538, u'laptop', 0.0021331511]
+[u'web_site', 0.27482742, u'book_jacket', 0.14663544, u'television', 0.065841116, u'digital_clock', 0.041642264, u'screen', 0.036548827]
+[u'hamper', 0.18050784, u'carton', 0.089763269, u'wooden_spoon', 0.088572048, u'hamster', 0.065771863, u'Siamese_cat', 0.035353921]
+[u'Egyptian_cat', 0.68307066, u'shower_cap', 0.072497256, u'tiger_cat', 0.050209861, u'tabby', 0.03026652, u'cougar', 0.013479614]

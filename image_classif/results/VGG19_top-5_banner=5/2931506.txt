@@ -1,0 +1,1 @@
+[u'tray', 0.34242871, u'handkerchief', 0.08796788, u'jellyfish', 0.035159022, u'shower_cap', 0.02852007, u'packet', 0.02325367]

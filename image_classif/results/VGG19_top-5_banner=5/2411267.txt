@@ -1,0 +1,3 @@
+[u'comic_book', 0.12217114, u'French_horn', 0.050301392, u'pomegranate', 0.046881869, u'balloon', 0.043920603, u'punching_bag', 0.043613836]
+[u'digital_clock', 0.3193894, u'digital_watch', 0.063703984, u'wall_clock', 0.050648198, u'tray', 0.046272937, u'analog_clock', 0.042293422]
+[u'Band_Aid', 0.17208245, u'digital_clock', 0.11403526, u'sunscreen', 0.051687099, u'packet', 0.040766675, u'face_powder', 0.030816764]

@@ -1,0 +1,1 @@
+[u'espresso_maker', 0.38530722, u'desk', 0.062676057, u'scale', 0.030830191, u'crane', 0.026046079, u'drilling_platform', 0.022567168]

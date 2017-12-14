@@ -1,0 +1,2 @@
+[u'barbershop', 0.60484338, u'tobacco_shop', 0.10237489, u'restaurant', 0.088845991, u'bakery', 0.044718731, u'shoe_shop', 0.043657463]
+[u'wardrobe', 0.10906099, u'cleaver', 0.074692354, u'hook', 0.062453106, u'bow', 0.037903663, u'swab', 0.026690261]

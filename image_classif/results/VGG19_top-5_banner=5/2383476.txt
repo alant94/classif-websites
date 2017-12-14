@@ -1,0 +1,5 @@
+[u'pillow', 0.16834801, u'quilt', 0.15671003, u'jigsaw_puzzle', 0.11053449, u'comic_book', 0.068942383, u'apron', 0.045288093]
+[u'wine_bottle', 0.11740111, u'scale', 0.086479135, u'grocery_store', 0.062793285, u'garbage_truck', 0.04409996, u'hard_disc', 0.031716835]
+[u'goblet', 0.6973967, u'restaurant', 0.079358868, u'red_wine', 0.070277028, u'dining_table', 0.031741049, u'beer_glass', 0.024443636]
+[u'red_wine', 0.5680061, u'goblet', 0.15662442, u'restaurant', 0.043265209, u'beer_glass', 0.026178038, u'wine_bottle', 0.025946541]
+[u'tobacco_shop', 0.20635378, u'toyshop', 0.15811722, u'shoe_shop', 0.10020414, u'barbershop', 0.076978579, u'perfume', 0.052880019]

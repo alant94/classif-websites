@@ -1,0 +1,1 @@
+[u'lakeside', 0.29990914, u'traffic_light', 0.050679024, u'television', 0.036532179, u'parachute', 0.033089399, u'rapeseed', 0.024148]

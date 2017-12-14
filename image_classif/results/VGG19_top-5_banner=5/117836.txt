@@ -1,0 +1,3 @@
+[u'balloon', 0.39365834, u'matchstick', 0.11452506, u'torch', 0.051091641, u'space_shuttle', 0.035831377, u'candle', 0.033547595]
+[u'maze', 0.28561229, u'jigsaw_puzzle', 0.092996076, u'tray', 0.086046614, u'digital_watch', 0.067505531, u'analog_clock', 0.065681361]
+[u'Sussex_spaniel', 0.10580809, u'Scotch_terrier', 0.060644347, u'Brabancon_griffon', 0.039113451, u'cocker_spaniel', 0.028530665, u'Siamese_cat', 0.019826969]

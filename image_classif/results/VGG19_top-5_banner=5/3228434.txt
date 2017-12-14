@@ -1,0 +1,1 @@
+[u'wardrobe', 0.41714448, u'handkerchief', 0.13166603, u'ski', 0.083866045, u'shower_curtain', 0.0646865, u'theater_curtain', 0.036270164]

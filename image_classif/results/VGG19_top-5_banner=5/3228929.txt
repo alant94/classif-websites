@@ -1,0 +1,2 @@
+[u'window_screen', 0.080524936, u'fire_screen', 0.075818755, u'wall_clock', 0.072047874, u'jigsaw_puzzle', 0.052786432, u'analog_clock', 0.033843871]
+[u'bathtub', 0.29726061, u'tub', 0.28409284, u'miniskirt', 0.13097972, u'maillot', 0.10198036, u'maillot', 0.060777362]

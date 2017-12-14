@@ -1,0 +1,5 @@
+[u'apron', 0.3180269, u'bib', 0.097185776, u'Christmas_stocking', 0.050315037, u'sarong', 0.045738086, u'Band_Aid', 0.040982347]
+[u'bolo_tie', 0.11527608, u'web_site', 0.091300175, u'ski', 0.054812506, u'vending_machine', 0.046576791, u'switch', 0.046459537]
+[u'running_shoe', 0.22306915, u'shoe_shop', 0.21347308, u'sandal', 0.18953256, u'clog', 0.12461611, u'Loafer', 0.099098258]
+[u'shoe_shop', 0.18446761, u'running_shoe', 0.15963231, u'Loafer', 0.10198322, u'clog', 0.050975271, u'neck_brace', 0.048997693]
+[u'jean', 0.65379518, u'pajama', 0.045526296, u'kimono', 0.038406625, u'pay-phone', 0.028324427, u'punching_bag', 0.023635089]

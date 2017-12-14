@@ -1,0 +1,7 @@
+[u'brown_bear', 0.98438811, u'American_black_bear', 0.015074809, u'wombat', 0.00052913692, u'wild_boar', 3.255466e-06, u'hog', 2.259749e-06]
+[u'book_jacket', 0.29840925, u'web_site', 0.1748195, u'matchstick', 0.17216055, u'panpipe', 0.13087921, u'theater_curtain', 0.040298276]
+[u'water_buffalo', 0.67061371, u'hartebeest', 0.097911112, u'ox', 0.096107386, u'tusker', 0.068102911, u'warthog', 0.024291134]
+[u'digital_clock', 0.26764452, u'web_site', 0.073273569, u'screen', 0.052346684, u'book_jacket', 0.041556545, u'matchstick', 0.032214675]
+[u'timber_wolf', 0.79885763, u'coyote', 0.11689636, u'red_wolf', 0.058215454, u'white_wolf', 0.010502428, u'dingo', 0.006390403]
+[u'bighorn', 0.13768803, u'malamute', 0.060063768, u'Siberian_husky', 0.058450814, u'whippet', 0.048163969, u'mountain_bike', 0.043624911]
+[u"carpenter's_kit", 0.27428252, u'screwdriver', 0.18766513, u'power_drill', 0.041284662, u'medicine_chest', 0.036936156, u'switch', 0.026213773]

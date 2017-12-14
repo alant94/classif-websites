@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.56728393, u'bow_tie', 0.14811561, u'vestment', 0.049589779, u'suit', 0.03306799, u'lab_coat', 0.029676702]
+[u'lab_coat', 0.15733002, u'miniskirt', 0.090991348, u'trench_coat', 0.055684898, u'pajama', 0.03519392, u'stethoscope', 0.021716865]
+[u'suit', 0.77092999, u'Windsor_tie', 0.16595639, u'groom', 0.032349609, u'bow_tie', 0.0071557602, u'bolo_tie', 0.0031572138]
+[u'digital_watch', 0.1243579, u'oil_filter', 0.0792135, u'digital_clock', 0.071903028, u'book_jacket', 0.053905699, u'screwdriver', 0.03977605]

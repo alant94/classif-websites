@@ -1,0 +1,3 @@
+[u'bustard', 0.16906978, u'great_grey_owl', 0.12024476, u'hornbill', 0.11898722, u'leopard', 0.10864867, u'ruffed_grouse', 0.095171072]
+[u'hook', 0.22093594, u'safety_pin', 0.21336058, u'chime', 0.12346184, u'nail', 0.11641773, u'bow', 0.058407966]
+[u'book_jacket', 0.31358856, u'gazelle', 0.060279436, u'comic_book', 0.035776649, u'hook', 0.03530968, u'ibex', 0.028283283]

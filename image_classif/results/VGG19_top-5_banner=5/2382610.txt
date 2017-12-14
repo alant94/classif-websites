@@ -1,0 +1,5 @@
+[u'rubber_eraser', 0.063345045, u'whistle', 0.047904599, u'digital_watch', 0.032982193, u'tennis_ball', 0.032730751, u'stopwatch', 0.030559709]
+[u'microphone', 0.091372259, u'loudspeaker', 0.058968801, u'space_heater', 0.047536399, u'switch', 0.046944179, u'spotlight', 0.045719992]
+[u'plate', 0.42696306, u'consomme', 0.13139485, u'corn', 0.07579188, u'potpie', 0.042210408, u'soup_bowl', 0.041431624]
+[u'pill_bottle', 0.38037142, u'lighter', 0.068141937, u'measuring_cup', 0.067690656, u'whistle', 0.064272888, u'beaker', 0.051059607]
+[u'measuring_cup', 0.14040856, u'strainer', 0.060829386, u'mixing_bowl', 0.051175479, u'frying_pan', 0.04227582, u'water_jug', 0.036947757]

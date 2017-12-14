@@ -1,0 +1,5 @@
+[u'nail', 0.16064852, u'hair_slide', 0.070714377, u'ballpoint', 0.064320475, u'hook', 0.061512846, u'coil', 0.0422615]
+[u'refrigerator', 0.26664713, u'safe', 0.13802503, u'cash_machine', 0.11644863, u'ashcan', 0.05479455, u'wardrobe', 0.040603556]
+[u'thatch', 0.22363469, u'tile_roof', 0.10422935, u'picket_fence', 0.095538743, u'bell_cote', 0.073675968, u'church', 0.057432495]
+[u'street_sign', 0.053253096, u'matchstick', 0.039104052, u'rule', 0.036402784, u'analog_clock', 0.035208791, u'nail', 0.031497512]
+[u'shower_curtain', 0.21758282, u'swab', 0.17315134, u'bow', 0.076125145, u'wardrobe', 0.041612595, u'ski', 0.02924725]

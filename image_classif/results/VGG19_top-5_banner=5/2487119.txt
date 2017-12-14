@@ -1,0 +1,6 @@
+[u'book_jacket', 0.26025778, u'scoreboard', 0.23536448, u'street_sign', 0.099036641, u'crossword_puzzle', 0.038361143, u'digital_clock', 0.038297612]
+[u'pier', 0.89795995, u'dock', 0.065767892, u'suspension_bridge', 0.01031519, u'breakwater', 0.0056988057, u'steel_arch_bridge', 0.0054681464]
+[u'seashore', 0.38851941, u'pier', 0.16047011, u'lakeside', 0.082878247, u'breakwater', 0.058751039, u'dock', 0.053382687]
+[u'pier', 0.9444347, u'viaduct', 0.026706295, u'dock', 0.0091045145, u'steel_arch_bridge', 0.0035674812, u'breakwater', 0.0035179786]
+[u'dock', 0.746252, u'flagpole', 0.17084378, u'pole', 0.043620806, u'pier', 0.028023908, u'breakwater', 0.0024048346]
+[u'palace', 0.28918633, u'pier', 0.16802551, u'drilling_platform', 0.11380521, u'crane', 0.098578349, u'dock', 0.060571384]

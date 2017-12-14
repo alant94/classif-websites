@@ -1,0 +1,2 @@
+[u'spotlight', 0.10941799, u'matchstick', 0.095379747, u'torch', 0.068087548, u'traffic_light', 0.063054554, u'theater_curtain', 0.051528987]
+[u'grand_piano', 0.15049344, u'suspension_bridge', 0.049736422, u'bow', 0.046548992, u'harp', 0.041733149, u'picket_fence', 0.036142409]

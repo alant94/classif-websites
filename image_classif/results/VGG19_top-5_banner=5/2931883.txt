@@ -1,0 +1,2 @@
+[u'drilling_platform', 0.81729388, u'crane', 0.049396791, u'snowplow', 0.029244786, u'harvester', 0.015838956, u'lifeboat', 0.013422928]
+[u'container_ship', 0.91760939, u'crane', 0.032433223, u'library', 0.0030733191, u'missile', 0.0018938504, u'carton', 0.0018123203]

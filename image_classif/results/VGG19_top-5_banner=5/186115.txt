@@ -1,0 +1,2 @@
+[u'menu', 0.13744751, u'candle', 0.13103256, u'torch', 0.047010943, u'monitor', 0.046491019, u'web_site', 0.043319952]
+[u'fireboat', 0.073879197, u'beaker', 0.033230994, u'puck', 0.029230701, u'mosquito_net', 0.025730388, u'envelope', 0.025382744]

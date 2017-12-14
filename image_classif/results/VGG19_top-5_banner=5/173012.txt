@@ -1,0 +1,3 @@
+[u'book_jacket', 0.24803144, u'jigsaw_puzzle', 0.14200598, u'envelope', 0.068342, u'comic_book', 0.05311545, u'carton', 0.028113699]
+[u'digital_clock', 0.055725221, u'matchstick', 0.05204922, u'spotlight', 0.049726352, u'lighter', 0.036699288, u'microphone', 0.015258403]
+[u'matchstick', 0.057947166, u'nematode', 0.055928763, u'digital_clock', 0.055185024, u'spotlight', 0.026828161, u'lighter', 0.02280164]

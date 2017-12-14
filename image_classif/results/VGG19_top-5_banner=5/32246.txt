@@ -1,0 +1,6 @@
+[u'dam', 0.5992384, u'breakwater', 0.077412389, u'castle', 0.045201987, u'fountain', 0.041399691, u'geyser', 0.028727215]
+[u'book_jacket', 0.34201002, u'jersey', 0.026401518, u'comic_book', 0.024816919, u'jean', 0.024004126, u'scoreboard', 0.020637304]
+[u'container_ship', 0.23820461, u'drilling_platform', 0.14956959, u'water_tower', 0.11139464, u'crane', 0.087532945, u'dock', 0.069570512]
+[u'book_jacket', 0.72772396, u'comic_book', 0.065625109, u'web_site', 0.018083757, u'street_sign', 0.011988457, u'bow_tie', 0.009683203]
+[u'web_site', 0.31442049, u'scoreboard', 0.033450902, u'cash_machine', 0.032178883, u'digital_clock', 0.026564572, u'book_jacket', 0.021993358]
+[u'streetcar', 0.093823418, u'turnstile', 0.080211557, u'cab', 0.073956884, u'library', 0.070171311, u'trolleybus', 0.06271182]

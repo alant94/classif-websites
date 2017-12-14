@@ -1,0 +1,5 @@
+[u'screw', 0.27527773, u'nail', 0.1417307, u'hay', 0.12269607, u'matchstick', 0.050132111, u'coil', 0.02736631]
+[u'web_site', 0.1114495, u'panpipe', 0.094839372, u'harp', 0.04966129, u'window_shade', 0.048763819, u'safety_pin', 0.032223236]
+[u'web_site', 0.16769813, u'window_shade', 0.093034402, u'theater_curtain', 0.054792862, u'wardrobe', 0.04891381, u'matchstick', 0.045813665]
+[u'abaya', 0.26171863, u'academic_gown', 0.085138425, u'web_site', 0.078161463, u'wardrobe', 0.050867692, u'harp', 0.047796234]
+[u'web_site', 0.6629113, u'television', 0.046439238, u'screen', 0.036751583, u'wig', 0.021515636, u'monitor', 0.019070389]

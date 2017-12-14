@@ -1,0 +1,8 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'envelope', 0.14071764, u'web_site', 0.076062672, u'rubber_eraser', 0.067820594, u'jersey', 0.028736841, u'pencil_sharpener', 0.028569307]
+[u'Band_Aid', 0.50712699, u'oil_filter', 0.033694468, u'envelope', 0.031994425, u'web_site', 0.024717281, u'book_jacket', 0.020741621]
+[u'bib', 0.11816488, u'hook', 0.058633223, u'nematode', 0.049987249, u'toilet_seat', 0.040063664, u'can_opener', 0.030838925]
+[u'digital_clock', 0.76576388, u'analog_clock', 0.063009091, u'wall_clock', 0.024183897, u'beacon', 0.015352582, u'container_ship', 0.013271514]
+[u'cash_machine', 0.43473881, u'safe', 0.13796504, u'pay-phone', 0.089568011, u'combination_lock', 0.053987864, u'gas_pump', 0.03878944]
+[u'envelope', 0.091282837, u'laptop', 0.057097744, u'cash_machine', 0.036147762, u'iPod', 0.035636861, u'lighter', 0.033611178]
+[u'mobile_home', 0.29844272, u'boathouse', 0.083062515, u'mailbox', 0.045284465, u'birdhouse', 0.039234493, u'patio', 0.029437799]

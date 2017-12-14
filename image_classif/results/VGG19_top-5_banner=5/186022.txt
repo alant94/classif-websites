@@ -1,0 +1,5 @@
+[u'hook', 0.18065797, u'swab', 0.092281319, u'cleaver', 0.076457322, u'stole', 0.043478135, u'wool', 0.025361829]
+[u'web_site', 0.2335756, u'sax', 0.034260988, u'book_jacket', 0.031432964, u'digital_clock', 0.025524266, u'envelope', 0.014307823]
+[u'web_site', 0.2335756, u'sax', 0.034260988, u'book_jacket', 0.031432964, u'digital_clock', 0.025524266, u'envelope', 0.014307823]
+[u'envelope', 0.017969867, u'cleaver', 0.012646393, u'letter_opener', 0.0097706253, u'modem', 0.0081172306, u'can_opener', 0.0079786219]
+[u'envelope', 0.017969867, u'cleaver', 0.012646393, u'letter_opener', 0.0097706253, u'modem', 0.0081172306, u'can_opener', 0.0079786219]

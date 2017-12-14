@@ -1,0 +1,4 @@
+[u'buckle', 0.40368146, u'hair_slide', 0.34186792, u'safety_pin', 0.032464709, u'bolo_tie', 0.023552414, u'jersey', 0.012630785]
+[u'book_jacket', 0.25174305, u'Bouvier_des_Flandres', 0.067228571, u'scoreboard', 0.061635159, u'envelope', 0.054715946, u'comic_book', 0.036083594]
+[u'jellyfish', 0.24222952, u'parachute', 0.1266236, u'airship', 0.07017149, u'space_shuttle', 0.069399461, u'warplane', 0.03177496]
+[u'web_site', 0.14471991, u'book_jacket', 0.1010795, u'packet', 0.05378323, u'cash_machine', 0.052415453, u'street_sign', 0.037672367]

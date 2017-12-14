@@ -1,0 +1,2 @@
+[u'digital_clock', 0.64596081, u'digital_watch', 0.041242331, u'street_sign', 0.018315038, u'screen', 0.017796971, u'analog_clock', 0.015407909]
+[u'swab', 0.16050157, u'pay-phone', 0.15544955, u'cash_machine', 0.079462864, u'prison', 0.07511539, u'abaya', 0.030834775]

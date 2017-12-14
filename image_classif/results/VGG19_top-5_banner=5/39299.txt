@@ -1,0 +1,4 @@
+[u'ballpoint', 0.49979714, u'letter_opener', 0.13403951, u'paintbrush', 0.06319163, u'screwdriver', 0.062122889, u'rubber_eraser', 0.032139152]
+[u'digital_clock', 0.11669704, u'shower_curtain', 0.093465328, u'wall_clock', 0.049624581, u'envelope', 0.049537107, u'maze', 0.041875336]
+[u'matchstick', 0.57664818, u'lipstick', 0.070195213, u'rubber_eraser', 0.063475147, u'screwdriver', 0.057754058, u'candle', 0.034402855]
+[u'Persian_cat', 0.65150464, u'tub', 0.065219373, u'Pomeranian', 0.062122703, u'Siamese_cat', 0.026566498, u'bathtub', 0.025115332]

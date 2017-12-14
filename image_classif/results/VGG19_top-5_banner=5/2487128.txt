@@ -1,0 +1,8 @@
+[u'window_screen', 0.44705915, u'window_shade', 0.11728039, u'greenhouse', 0.072000258, u'sliding_door', 0.060872767, u'barbershop', 0.053054385]
+[u'window_screen', 0.56073189, u'window_shade', 0.21798937, u'mobile_home', 0.12756151, u'sliding_door', 0.038731921, u'greenhouse', 0.011569045]
+[u'altar', 0.094626985, u'wall_clock', 0.077447265, u'digital_clock', 0.0634453, u'perfume', 0.05636391, u'slot', 0.047042705]
+[u'American_black_bear', 0.83707267, u'sloth_bear', 0.055095263, u'Rottweiler', 0.01646133, u'Gordon_setter', 0.012439737, u'wild_boar', 0.012336682]
+[u'lakeside', 0.13605987, u'boathouse', 0.092817068, u'suspension_bridge', 0.092580684, u'steel_arch_bridge', 0.05432969, u'window_screen', 0.028038701]
+[u'cinema', 0.15817298, u'mosque', 0.11117212, u'sliding_door', 0.071310259, u'library', 0.052580465, u'restaurant', 0.042511068]
+[u'tractor', 0.23266597, u'tow_truck', 0.22862625, u'trailer_truck', 0.12087566, u'snowplow', 0.059691422, u'half_track', 0.058379948]
+[u'tobacco_shop', 0.25070083, u'sliding_door', 0.16602725, u'china_cabinet', 0.076446496, u'wardrobe', 0.071602702, u'bookshop', 0.050551735]

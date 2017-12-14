@@ -1,0 +1,7 @@
+[u'web_site', 0.72447425, u'printer', 0.031507473, u'envelope', 0.029584082, u'wall_clock', 0.017479047, u'analog_clock', 0.014645058]
+[u'screwdriver', 0.18149769, u'web_site', 0.053410243, u'book_jacket', 0.046780664, u'spatula', 0.038790561, u"carpenter's_kit", 0.035634227]
+[u'scale', 0.22067685, u'switch', 0.20793934, u'web_site', 0.14521019, u'remote_control', 0.07252755, u'safe', 0.068334468]
+[u'web_site', 0.85362589, u'radio', 0.03554723, u'screen', 0.023716014, u'hand-held_computer', 0.013624338, u'analog_clock', 0.013319142]
+[u'ballpoint', 0.8657918, u'screwdriver', 0.058344744, u'fountain_pen', 0.028979558, u'letter_opener', 0.019217903, u"carpenter's_kit", 0.017524034]
+[u'web_site', 0.69517094, u'menu', 0.14489815, u'comic_book', 0.023336407, u'cassette', 0.021499181, u'book_jacket', 0.016676258]
+[u'web_site', 0.88305783, u'envelope', 0.024472464, u'hand-held_computer', 0.0047113616, u'analog_clock', 0.0038912653, u'binder', 0.0032492185]

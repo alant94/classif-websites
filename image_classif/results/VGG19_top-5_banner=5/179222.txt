@@ -1,0 +1,7 @@
+[u'cup', 0.081535652, u'lighter', 0.079194143, u'clog', 0.063407473, u'thimble', 0.062354431, u'conch', 0.054463997]
+[u'convertible', 0.40870604, u'sports_car', 0.27257827, u'car_wheel', 0.093300387, u'grille', 0.072807871, u'beach_wagon', 0.048597872]
+[u'abaya', 0.80945492, u'mask', 0.096501507, u'ski_mask', 0.024077017, u'cloak', 0.0096130185, u'face_powder', 0.0079876268]
+[u'pop_bottle', 0.21352991, u'shield', 0.077536717, u'picket_fence', 0.063164331, u'Christmas_stocking', 0.056361683, u'packet', 0.044605877]
+[u'trailer_truck', 0.18194494, u'tow_truck', 0.14142157, u'jeep', 0.11715932, u'snowmobile', 0.046009511, u'motor_scooter', 0.045044925]
+[u'web_site', 0.98409712, u'envelope', 0.0097056851, u'menu', 0.0046223351, u'book_jacket', 0.00092462922, u'comic_book', 0.00015968201]
+[u'punching_bag', 0.084004603, u'Christmas_stocking', 0.044608552, u'water_bottle', 0.03658323, u'safety_pin', 0.033396468, u'pop_bottle', 0.033048317]

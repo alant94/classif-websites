@@ -1,0 +1,6 @@
+[u'miniskirt', 0.69009852, u'maillot', 0.056011029, u'sock', 0.052153725, u'balance_beam', 0.04342407, u'maillot', 0.016764941]
+[u'syringe', 0.28540531, u'Band_Aid', 0.062903851, u'swimming_trunks', 0.039160572, u'sunscreen', 0.037621927, u'mouse', 0.02761039]
+[u'miniskirt', 0.74659407, u'backpack', 0.027970256, u'Loafer', 0.023720669, u'suit', 0.021742268, u'maillot', 0.021304294]
+[u'miniskirt', 0.50134701, u'sandal', 0.088646986, u'maillot', 0.072230704, u'bikini', 0.02993541, u'maillot', 0.028016903]
+[u'power_drill', 0.12951404, u'dumbbell', 0.12696141, u'jean', 0.065405011, u'revolver', 0.05236372, u'punching_bag', 0.052117631]
+[u'sax', 0.11855308, u'stage', 0.084142759, u'revolver', 0.073738806, u'microphone', 0.066231295, u'gasmask', 0.04558266]

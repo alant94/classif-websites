@@ -1,0 +1,3 @@
+[u'theater_curtain', 0.60759032, u'lampshade', 0.017272498, u'binder', 0.011964015, u'spotlight', 0.010086241, u'window_shade', 0.0097535336]
+[u'oxcart', 0.24818631, u'ox', 0.20424713, u'impala', 0.092599928, u'bow', 0.048226971, u'ibex', 0.036198318]
+[u'theater_curtain', 0.75368816, u'lampshade', 0.012088947, u'window_shade', 0.0089787878, u'wardrobe', 0.0079098037, u'spotlight', 0.0071593844]

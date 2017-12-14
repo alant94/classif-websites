@@ -1,0 +1,1 @@
+[u'parachute', 0.44182351, u'handkerchief', 0.13819276, u'umbrella', 0.039159317, u'flagpole', 0.027531061, u'bonnet', 0.026615907]

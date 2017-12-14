@@ -1,0 +1,5 @@
+[u'digital_clock', 0.16989391, u'book_jacket', 0.16569999, u'web_site', 0.097164221, u'scoreboard', 0.057574704, u'analog_clock', 0.056949381]
+[u'street_sign', 0.11596072, u'quill', 0.10290053, u'pole', 0.085240483, u'parallel_bars', 0.066576958, u'binder', 0.044503637]
+[u'book_jacket', 0.16725871, u'digital_clock', 0.15333249, u'analog_clock', 0.043129325, u'web_site', 0.038883548, u'cash_machine', 0.029945508]
+[u'safety_pin', 0.12333267, u'screwdriver', 0.11917808, u'cleaver', 0.093924224, u'hair_slide', 0.069073267, u'microphone', 0.067095302]
+[u'rapeseed', 0.65831798, u'fountain', 0.075474046, u'park_bench', 0.028814455, u'stone_wall', 0.021127921, u'picket_fence', 0.017780188]

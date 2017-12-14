@@ -1,0 +1,3 @@
+[u'swab', 0.46223655, u'toilet_seat', 0.069718502, u'shower_cap', 0.062586397, u'shower_curtain', 0.060957614, u'jersey', 0.028678169]
+[u'bathtub', 0.30074236, u'Indian_elephant', 0.17579526, u'tub', 0.096385382, u'Mexican_hairless', 0.057052176, u'chimpanzee', 0.04392489]
+[u'barbershop', 0.28942397, u'shower_cap', 0.2628521, u'bathing_cap', 0.10310601, u'medicine_chest', 0.084460847, u'barber_chair', 0.032519605]

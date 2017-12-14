@@ -1,0 +1,2 @@
+[u'apron', 0.35459325, u'carton', 0.11742162, u'book_jacket', 0.046876781, u'sleeping_bag', 0.038360473, u'packet', 0.03334596]
+[u'hen-of-the-woods', 0.15432897, u'mushroom', 0.12190574, u'conch', 0.09844441, u'hermit_crab', 0.031758945, u'king_crab', 0.030164622]

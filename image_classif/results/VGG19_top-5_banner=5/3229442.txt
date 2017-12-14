@@ -1,0 +1,4 @@
+[u'whistle', 0.22692589, u'bow', 0.21676169, u'hook', 0.065996259, u'brassiere', 0.031313218, u'stethoscope', 0.027738879]
+[u'patio', 0.38760555, u'boathouse', 0.23461398, u'mobile_home', 0.10658106, u'lakeside', 0.07386253, u'dam', 0.02426587]
+[u'throne', 0.20296526, u'altar', 0.15028606, u'organ', 0.084503919, u'vault', 0.077600494, u'shoji', 0.060264852]
+[u'street_sign', 0.15276448, u'traffic_light', 0.090197645, u'digital_clock', 0.039122719, u'crane', 0.035735492, u'balloon', 0.023830943]

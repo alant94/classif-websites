@@ -1,0 +1,2 @@
+[u'fountain', 0.70626169, u'pickelhaube', 0.052309595, u'cuirass', 0.046063576, u'brass', 0.034828559, u'breastplate', 0.030201137]
+[u'breastplate', 0.30176181, u'cuirass', 0.15079014, u'pedestal', 0.060722776, u'gasmask', 0.041902848, u'cowboy_boot', 0.024530044]

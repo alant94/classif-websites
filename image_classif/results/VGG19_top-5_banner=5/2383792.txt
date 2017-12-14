@@ -1,0 +1,2 @@
+[u'barn', 0.27974355, u'crate', 0.27826416, u'barrel', 0.25435162, u'barbershop', 0.047872856, u'theater_curtain', 0.042645201]
+[u'mailbox', 0.067505114, u'street_sign', 0.066416062, u'greenhouse', 0.060626663, u'birdhouse', 0.05661618, u'doormat', 0.049829792]

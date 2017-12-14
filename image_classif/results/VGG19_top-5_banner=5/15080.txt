@@ -1,0 +1,1 @@
+[u'trimaran', 0.41561243, u'wreck', 0.14313449, u'catamaran', 0.10760501, u'schooner', 0.058758859, u'crane', 0.042792808]

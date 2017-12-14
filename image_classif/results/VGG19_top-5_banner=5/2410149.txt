@@ -1,0 +1,2 @@
+[u'book_jacket', 0.090327457, u'web_site', 0.055717584, u'rule', 0.0365417, u'screen', 0.028063623, u'digital_clock', 0.022450438]
+[u'bell_cote', 0.20853966, u'viaduct', 0.13059355, u'mosque', 0.09372282, u'castle', 0.08743646, u'triumphal_arch', 0.077699102]

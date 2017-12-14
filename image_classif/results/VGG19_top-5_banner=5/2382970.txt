@@ -1,0 +1,6 @@
+[u'fire_screen', 0.87565404, u'rotisserie', 0.040652603, u'stove', 0.027963985, u'caldron', 0.021474455, u'altar', 0.0077740909]
+[u'book_jacket', 0.61337328, u'binder', 0.25405231, u'packet', 0.063979849, u'perfume', 0.0098677995, u'wallet', 0.0049143196]
+[u'book_jacket', 0.30900583, u'ski', 0.11718789, u'comic_book', 0.086909756, u'envelope', 0.031298686, u'web_site', 0.029912464]
+[u'hair_spray', 0.16489808, u'book_jacket', 0.16129597, u'web_site', 0.057814498, u'street_sign', 0.042487763, u'sunscreen', 0.024277845]
+[u'acorn', 0.58488923, u'butternut_squash', 0.071140908, u'fig', 0.066902369, u'spaghetti_squash', 0.055588666, u'buckeye', 0.035153143]
+[u'red_wine', 0.071549572, u'cleaver', 0.066206716, u'hair_slide', 0.0570109, u'necklace', 0.04926632, u'maraca', 0.039245844]

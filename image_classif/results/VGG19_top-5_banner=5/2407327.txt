@@ -1,0 +1,6 @@
+[u'space_heater', 0.075597651, u'spotlight', 0.066031836, u'traffic_light', 0.0646827, u'hook', 0.058387261, u'school_bus', 0.047210835]
+[u'warplane', 0.23126583, u'speedboat', 0.14524913, u'aircraft_carrier', 0.096589632, u'drilling_platform', 0.071806699, u'liner', 0.055957366]
+[u'barn_spider', 0.25080937, u'isopod', 0.16093245, u'screw', 0.12574197, u'candle', 0.02820411, u'maraca', 0.024988754]
+[u'swab', 0.5683679, u'shower_cap', 0.21040708, u'handkerchief', 0.0978508, u'bath_towel', 0.028745949, u'bonnet', 0.025841037]
+[u'airship', 0.14762998, u'space_shuttle', 0.11313798, u'missile', 0.091963641, u'warplane', 0.089619122, u'airliner', 0.073510662]
+[u'missile', 0.20233092, u'projectile', 0.19193648, u'solar_dish', 0.11652366, u'space_shuttle', 0.061423562, u'spotlight', 0.052041236]

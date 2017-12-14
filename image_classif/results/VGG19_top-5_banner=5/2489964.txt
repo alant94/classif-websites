@@ -1,0 +1,2 @@
+[u'book_jacket', 0.21687743, u'web_site', 0.20117682, u'comic_book', 0.084456667, u'menu', 0.03648065, u'cassette', 0.017698681]
+[u'half_track', 0.8837809, u'military_uniform', 0.039995439, u'tank', 0.039214861, u'cannon', 0.010193231, u'tractor', 0.0045747259]

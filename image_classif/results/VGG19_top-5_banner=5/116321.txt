@@ -1,0 +1,2 @@
+[u'matchstick', 0.63575965, u'jersey', 0.025947329, u'swab', 0.020999325, u'drumstick', 0.016071692, u'web_site', 0.015041277]
+[u'sandbar', 0.3549138, u'seashore', 0.28221545, u'promontory', 0.18711974, u'lakeside', 0.11293533, u'cliff', 0.018699102]

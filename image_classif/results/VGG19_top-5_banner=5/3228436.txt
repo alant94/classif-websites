@@ -1,0 +1,4 @@
+[u'envelope', 0.25494245, u'candle', 0.035634473, u'hook', 0.034767147, u'rule', 0.030735524, u'binder', 0.030028876]
+[u'web_site', 0.16163433, u'binder', 0.15429685, u'rule', 0.075918056, u'desktop_computer', 0.073407322, u'file', 0.069908351]
+[u'brass', 0.66556537, u'jersey', 0.14670938, u'menu', 0.058982443, u'book_jacket', 0.036412925, u'binder', 0.021066427]
+[u'bow', 0.15302697, u'bolo_tie', 0.1121205, u'cleaver', 0.040509805, u'bow_tie', 0.038795192, u'muzzle', 0.034030259]

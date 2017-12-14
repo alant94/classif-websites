@@ -1,0 +1,7 @@
+[u'crash_helmet', 0.19455738, u'football_helmet', 0.12670286, u'jellyfish', 0.11702105, u'chambered_nautilus', 0.060718585, u'bathing_cap', 0.037682157]
+[u'chambered_nautilus', 0.45562795, u'Granny_Smith', 0.12490207, u'ping-pong_ball', 0.063183844, u'tick', 0.063102491, u'pick', 0.054064833]
+[u'ballpoint', 0.2097248, u'paintbrush', 0.13511413, u'lipstick', 0.067316122, u'screwdriver', 0.03758049, u'matchstick', 0.032507107]
+[u'pick', 0.5803948, u'ping-pong_ball', 0.10423943, u'golf_ball', 0.046795685, u'Petri_dish', 0.037167393, u'football_helmet', 0.017867396]
+[u'pick', 0.72251058, u'bolo_tie', 0.046077732, u'screw', 0.036118638, u'buckle', 0.03503985, u'jellyfish', 0.022572717]
+[u'web_site', 0.89586502, u'book_jacket', 0.049342595, u'menu', 0.006499683, u'comic_book', 0.0056648627, u'proboscis_monkey', 0.0021884411]
+[u'screwdriver', 0.17800838, u'nail', 0.08721301, u'hook', 0.081577882, u'swab', 0.077575587, u'dock', 0.063678138]

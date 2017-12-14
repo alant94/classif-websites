@@ -1,0 +1,2 @@
+[u'kuvasz', 0.40589106, u'white_wolf', 0.37342545, u'ice_bear', 0.097393602, u'timber_wolf', 0.085435919, u'Great_Pyrenees', 0.01972877]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

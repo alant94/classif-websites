@@ -1,0 +1,2 @@
+[u'sundial', 0.23583192, u'obelisk', 0.19153316, u'picket_fence', 0.089449577, u'envelope', 0.058015004, u'rule', 0.057544127]
+[u'volcano', 0.73444623, u'barn', 0.057835478, u'lakeside', 0.028737433, u'thatch', 0.025301196, u'breakwater', 0.01757133]

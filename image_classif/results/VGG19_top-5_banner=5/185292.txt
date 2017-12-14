@@ -1,0 +1,6 @@
+[u'restaurant', 0.14445291, u'bakery', 0.092239469, u'plate', 0.070386492, u'altar', 0.054044817, u'tray', 0.053335667]
+[u'tricycle', 0.89604914, u'barbell', 0.048838034, u'plow', 0.026813252, u'dumbbell', 0.0064295735, u'racer', 0.0041836319]
+[u'cinema', 0.11919749, u'hook', 0.096918285, u'barbershop', 0.064039283, u'lipstick', 0.036894683, u'tobacco_shop', 0.034111284]
+[u'china_cabinet', 0.91997951, u'chiffonier', 0.036390472, u'desk', 0.016855478, u'wardrobe', 0.0072592674, u'bookcase', 0.0061395341]
+[u'bearskin', 0.2444486, u'academic_gown', 0.099596441, u'theater_curtain', 0.086404964, u'bow', 0.064130247, u'bolo_tie', 0.047644805]
+[u'spindle', 0.2179755, u'stole', 0.20196731, u'triceratops', 0.085194521, u'mask', 0.077128194, u'acorn', 0.047144238]

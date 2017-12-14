@@ -1,0 +1,2 @@
+[u'hook', 0.35742947, u'coil', 0.18614547, u'switch', 0.032524075, u'street_sign', 0.0304463, u'whistle', 0.025328472]
+[u'starfish', 0.24005543, u'triceratops', 0.19570251, u'book_jacket', 0.055120859, u'conch', 0.053558599, u'frilled_lizard', 0.034090228]

@@ -1,0 +1,8 @@
+[u'fur_coat', 0.12136561, u'sarong', 0.06381499, u'crutch', 0.033021186, u'boa_constrictor', 0.02589808, u'Arabian_camel', 0.024397446]
+[u'ballplayer', 0.28646418, u'cowboy_hat', 0.12264588, u'baseball', 0.076582432, u'sombrero', 0.050726335, u'maraca', 0.043413781]
+[u'abaya', 0.39616954, u'cloak', 0.29571047, u'velvet', 0.038593505, u'suit', 0.031345133, u'wig', 0.026055139]
+[u'jersey', 0.63507104, u'sweatshirt', 0.08399006, u'ping-pong_ball', 0.013250705, u'bulletproof_vest', 0.011442097, u'drumstick', 0.01102218]
+[u'jersey', 0.40899721, u'poncho', 0.041061088, u'cardigan', 0.035409432, u'sweatshirt', 0.025578616, u'oboe', 0.021403715]
+[u'conch', 0.31731808, u'king_crab', 0.13213916, u'Dungeness_crab', 0.091724381, u'hermit_crab', 0.034574401, u'sea_urchin', 0.025895363]
+[u'stole', 0.26473945, u'cardigan', 0.17005664, u'trench_coat', 0.095261313, u'lab_coat', 0.076240376, u'pajama', 0.059980139]
+[u'rugby_ball', 0.33534202, u'jersey', 0.063097477, u'bow', 0.020765878, u'pole', 0.018656522, u'volleyball', 0.017940074]

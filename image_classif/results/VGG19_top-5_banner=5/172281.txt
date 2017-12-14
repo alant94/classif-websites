@@ -1,0 +1,8 @@
+[u'web_site', 0.75893122, u'book_jacket', 0.034068935, u'envelope', 0.016696885, u'comic_book', 0.015327616, u'ski', 0.0083150696]
+[u'web_site', 0.57727176, u'barbershop', 0.094396047, u'book_jacket', 0.030738903, u'lab_coat', 0.016257001, u'half_track', 0.014821323]
+[u'mountain_bike', 0.28737503, u'bicycle-built-for-two', 0.19372489, u'electric_guitar', 0.071414292, u'unicycle', 0.065400824, u'knee_pad', 0.061270811]
+[u'castle', 0.13703823, u'container_ship', 0.080647871, u'book_jacket', 0.046053331, u'aircraft_carrier', 0.043195162, u'web_site', 0.041569885]
+[u'custard_apple', 0.39745861, u'buckeye', 0.18504512, u'acorn', 0.10352577, u'chiton', 0.038925454, u'hen-of-the-woods', 0.034641791]
+[u'web_site', 0.8826437, u'screen', 0.014754163, u'digital_clock', 0.0097558787, u'book_jacket', 0.0082936585, u'analog_clock', 0.0065649361]
+[u'brass', 0.77932447, u'manhole_cover', 0.042367276, u'book_jacket', 0.035765838, u'triumphal_arch', 0.026899915, u'maze', 0.012361216]
+[u'barbershop', 0.53682798, u'tobacco_shop', 0.20205851, u'scoreboard', 0.057632107, u'shoe_shop', 0.037218954, u'book_jacket', 0.02192816]

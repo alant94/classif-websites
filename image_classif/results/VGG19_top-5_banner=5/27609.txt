@@ -1,0 +1,1 @@
+[u'binder', 0.18503189, u'crane', 0.1508016, u'cinema', 0.097222492, u'screw', 0.065300174, u'oscilloscope', 0.058742002]

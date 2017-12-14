@@ -1,0 +1,6 @@
+[u'altar', 0.38399869, u'china_cabinet', 0.14560817, u'tobacco_shop', 0.050851453, u'vault', 0.031399891, u'church', 0.019329688]
+[u'puck', 0.60112929, u'gong', 0.21553922, u'bolo_tie', 0.040987805, u'chime', 0.024503196, u'wall_clock', 0.022329997]
+[u'barrel', 0.043026883, u'totem_pole', 0.035182785, u'prison', 0.034316014, u'electric_fan', 0.030251907, u'traffic_light', 0.028551538]
+[u'puck', 0.23842977, u'street_sign', 0.13420722, u'scoreboard', 0.13054387, u'beer_bottle', 0.077298187, u'book_jacket', 0.046633624]
+[u'parachute', 0.39202681, u'poncho', 0.11437107, u'balloon', 0.032237623, u'flatworm', 0.0313599, u'flagpole', 0.028922886]
+[u'bookcase', 0.41204304, u'china_cabinet', 0.16094419, u'plate_rack', 0.04144682, u'bookshop', 0.037265621, u'shoe_shop', 0.027822921]

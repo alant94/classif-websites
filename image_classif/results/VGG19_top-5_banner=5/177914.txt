@@ -1,0 +1,3 @@
+[u'menu', 0.87296712, u'packet', 0.028269436, u'custard_apple', 0.02288748, u'cheeseburger', 0.013023307, u'pineapple', 0.01040278]
+[u'menu', 0.80366147, u'candle', 0.057414692, u'custard_apple', 0.022592613, u'pineapple', 0.016353045, u'packet', 0.015541275]
+[u'web_site', 0.96532738, u'vending_machine', 0.0096952058, u'menu', 0.0073225559, u'book_jacket', 0.0027021901, u'envelope', 0.0024917389]

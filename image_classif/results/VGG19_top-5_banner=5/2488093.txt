@@ -1,0 +1,2 @@
+[u'ibex', 0.44763088, u'hartebeest', 0.20091762, u'impala', 0.06795422, u'warthog', 0.062123954, u'ox', 0.039221428]
+[u'book_jacket', 0.17673722, u'comic_book', 0.02985863, u'swing', 0.026884314, u'hartebeest', 0.026793489, u'bow', 0.025734471]

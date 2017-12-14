@@ -1,0 +1,8 @@
+[u'pajama', 0.18500115, u'lab_coat', 0.069616809, u'suit', 0.036437154, u'bow_tie', 0.020744234, u'wool', 0.019407876]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'web_site', 0.059874013, u'street_sign', 0.031545639, u'envelope', 0.030164123, u'rule', 0.027262308, u'nail', 0.022139395]
+[u'lab_coat', 0.65351033, u'torch', 0.066582829, u'Windsor_tie', 0.036498193, u'suit', 0.027668953, u'stethoscope', 0.025971662]
+[u'street_sign', 0.18545885, u'traffic_light', 0.036787678, u'analog_clock', 0.031273268, u'digital_clock', 0.030879209, u'web_site', 0.022466926]
+[u'library', 0.11426967, u'planetarium', 0.083559349, u'boathouse', 0.038463283, u'bubble', 0.03374349, u'window_screen', 0.033230688]
+[u'street_sign', 0.27057824, u'digital_clock', 0.095758848, u'web_site', 0.059058163, u'book_jacket', 0.050541002, u'stopwatch', 0.04000102]
+[u'jersey', 0.40608409, u'binder', 0.064956076, u'envelope', 0.035836488, u'spotlight', 0.028678499, u'analog_clock', 0.027692609]

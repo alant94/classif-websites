@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.18904418, u'hook', 0.09118253, u'picket_fence', 0.054330662, u'wardrobe', 0.040625151, u'chime', 0.033390962]
+[u'Afghan_hound', 0.59887332, u'groenendael', 0.17884043, u'llama', 0.037417982, u'collie', 0.026341254, u'briard', 0.021059785]
+[u'chime', 0.57408839, u'matchstick', 0.078767091, u'picket_fence', 0.054426733, u'nail', 0.045922447, u'syringe', 0.031654231]

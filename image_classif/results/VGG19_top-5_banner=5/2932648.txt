@@ -1,0 +1,3 @@
+[u'pickup', 0.29951635, u'tow_truck', 0.10098757, u'snowplow', 0.076563358, u'minivan', 0.053242903, u'minibus', 0.044809267]
+[u'jersey', 0.17481634, u'nail', 0.043828674, u'sweatshirt', 0.039311044, u'poncho', 0.038551822, u"carpenter's_kit", 0.035248898]
+[u'dogsled', 0.92041057, u'bobsled', 0.039363667, u'snowmobile', 0.027963111, u'ski', 0.0037626161, u'bloodhound', 0.00092707085]

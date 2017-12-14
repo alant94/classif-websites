@@ -1,0 +1,2 @@
+[u'window_screen', 0.06945242, u'window_shade', 0.063673794, u'dishwasher', 0.060881481, u'refrigerator', 0.060232699, u'envelope', 0.058693439]
+[u'flat-coated_retriever', 0.20438918, u'schipperke', 0.064421304, u'groenendael', 0.059265364, u'Newfoundland', 0.049918745, u'keeshond', 0.036455043]

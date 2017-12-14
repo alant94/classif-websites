@@ -1,0 +1,2 @@
+[u'sliding_door', 0.14597827, u'wardrobe', 0.1013089, u'bow', 0.071567297, u'gown', 0.055675384, u'swab', 0.032519795]
+[u'flagpole', 0.68589193, u'fountain', 0.02850323, u'pole', 0.020810217, u'maypole', 0.012100727, u'bow', 0.011959663]

@@ -1,0 +1,6 @@
+[u'screwdriver', 0.41470146, u"carpenter's_kit", 0.38190427, u'power_drill', 0.031655647, u'book_jacket', 0.028767681, u'comic_book', 0.012121971]
+[u'pencil_sharpener', 0.48133814, u'wall_clock', 0.11430417, u'jigsaw_puzzle', 0.040565699, u'parachute', 0.022877442, u'bottlecap', 0.020403309]
+[u'forklift', 0.10930343, u'golfcart', 0.10059162, u'malinois', 0.0985118, u'assault_rifle', 0.086616173, u'rifle', 0.07031782]
+[u'web_site', 0.59356123, u'envelope', 0.065266922, u'book_jacket', 0.053761452, u'analog_clock', 0.025956772, u'matchstick', 0.011753964]
+[u'wardrobe', 0.15614198, u'book_jacket', 0.13031186, u'binder', 0.062837996, u'cleaver', 0.039223701, u'picket_fence', 0.038167641]
+[u'seashore', 0.24279897, u'lakeside', 0.090555586, u'promontory', 0.082767874, u'volcano', 0.056890707, u'sandbar', 0.031921167]

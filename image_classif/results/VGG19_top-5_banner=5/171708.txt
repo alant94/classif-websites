@@ -1,0 +1,2 @@
+[u'spider_web', 0.37651941, u'barn_spider', 0.088185199, u'black_and_gold_garden_spider', 0.083812296, u'garden_spider', 0.057512004, u'lycaenid', 0.034775246]
+[u'hook', 0.34308922, u'safety_pin', 0.22914732, u'nail', 0.068046689, u'French_horn', 0.033480071, u'cornet', 0.029462574]

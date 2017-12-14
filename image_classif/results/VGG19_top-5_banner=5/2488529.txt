@@ -1,0 +1,2 @@
+[u'plate_rack', 0.14043961, u'cleaver', 0.092356883, u'nail', 0.085297383, u'hook', 0.076236255, u"carpenter's_kit", 0.068908997]
+[u'lacewing', 0.16030265, u'pick', 0.076205753, u'jean', 0.070380807, u'sock', 0.05053401, u'mitten', 0.034759216]

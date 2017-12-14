@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.29699412, u'nematode', 0.10666572, u'digital_clock', 0.074727319, u'matchstick', 0.063033953, u'analog_clock', 0.046644639]

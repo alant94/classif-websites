@@ -1,0 +1,5 @@
+[u'web_site', 0.2919485, u'puck', 0.12858573, u'envelope', 0.088210046, u'analog_clock', 0.038339034, u'packet', 0.031685345]
+[u'wardrobe', 0.64344013, u'jean', 0.063516945, u'iron', 0.022167468, u'shower_curtain', 0.013677915, u'stole', 0.012907271]
+[u'swab', 0.24584374, u'shower_curtain', 0.14380474, u'shoe_shop', 0.091995455, u'wardrobe', 0.056386765, u'toyshop', 0.037748452]
+[u'swab', 0.12219217, u'wardrobe', 0.077810898, u'punching_bag', 0.054267664, u'broom', 0.0529918, u'apron', 0.050721999]
+[u'web_site', 0.040889181, u'jellyfish', 0.029705046, u'nematode', 0.029648045, u'parachute', 0.025331123, u'envelope', 0.024659332]

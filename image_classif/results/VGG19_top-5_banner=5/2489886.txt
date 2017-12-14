@@ -1,0 +1,4 @@
+[u'fountain', 0.3008481, u'crane', 0.18295173, u'geyser', 0.077877752, u'seashore', 0.047617335, u'missile', 0.041598618]
+[u'wing', 0.8105768, u'airliner', 0.13673215, u'warplane', 0.045131035, u'aircraft_carrier', 0.0030975728, u'ambulance', 0.0027741557]
+[u'crane', 0.14170827, u'rifle', 0.12188088, u'hook', 0.060118586, u'assault_rifle', 0.047839131, u'swing', 0.040893037]
+[u'projectile', 0.27131137, u'missile', 0.15509757, u'space_shuttle', 0.055450831, u'warplane', 0.047323816, u'wing', 0.035215478]

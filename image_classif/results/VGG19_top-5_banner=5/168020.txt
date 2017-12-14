@@ -1,0 +1,3 @@
+[u'loudspeaker', 0.79256231, u'washer', 0.062255658, u'space_heater', 0.031857971, u'cassette_player', 0.014935389, u'projector', 0.012344273]
+[u'gong', 0.129922, u'loudspeaker', 0.091087915, u'iron', 0.081445046, u'spotlight', 0.078208722, u'can_opener', 0.049244802]
+[u'pencil_box', 0.12883675, u'backpack', 0.1090729, u'bib', 0.094621494, u'mailbag', 0.07671573, u'wallet', 0.057485435]

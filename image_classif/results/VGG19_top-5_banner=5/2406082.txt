@@ -1,0 +1,6 @@
+[u'syringe', 0.02041558, u'cleaver', 0.016226178, u'matchstick', 0.012979082, u'envelope', 0.012100333, u'letter_opener', 0.012030676]
+[u'hen-of-the-woods', 0.21970828, u'gyromitra', 0.10013008, u'trilobite', 0.09790875, u'mortar', 0.083367601, u'French_loaf', 0.05005189]
+[u'fur_coat', 0.24311852, u'lab_coat', 0.1624656, u'menu', 0.11102831, u'pretzel', 0.10749693, u'bagel', 0.040570136]
+[u'envelope', 0.13439649, u'panpipe', 0.049288865, u'carton', 0.04177865, u'bannister', 0.039121848, u'quill', 0.032162651]
+[u'panpipe', 0.082292438, u'matchstick', 0.053427611, u'carton', 0.052891951, u'envelope', 0.042580631, u'bannister', 0.037661154]
+[u'envelope', 0.042492665, u'dishwasher', 0.042451736, u'notebook', 0.027043501, u'wall_clock', 0.025563734, u'table_lamp', 0.021271756]

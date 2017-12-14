@@ -1,0 +1,2 @@
+[u'lakeside', 0.078030169, u'golf_ball', 0.046614964, u'soccer_ball', 0.043008003, u'radio_telescope', 0.040022433, u'worm_fence', 0.031283155]
+[u'matchstick', 0.30766961, u'hatchet', 0.10264866, u'broom', 0.088969819, u'bow', 0.036496863, u'shovel', 0.035088617]

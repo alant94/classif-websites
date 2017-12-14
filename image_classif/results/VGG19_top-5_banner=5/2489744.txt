@@ -1,0 +1,2 @@
+[u'warplane', 0.18398789, u'wing', 0.040450186, u'aircraft_carrier', 0.032771841, u'bald_eagle', 0.029323755, u'parachute', 0.022419795]
+[u'rapeseed', 0.18046027, u'harvester', 0.18030082, u'barn', 0.06254898, u'wing', 0.056906976, u'parachute', 0.047900759]

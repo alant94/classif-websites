@@ -1,0 +1,4 @@
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]
+[u'mask', 0.86241961, u'birdhouse', 0.032449313, u'toyshop', 0.019165939, u'carousel', 0.01193253, u'ocarina', 0.0091077676]
+[u'book_jacket', 0.10981744, u'balloon', 0.092837892, u'spatula', 0.060615756, u'paintbrush', 0.03888572, u'beer_glass', 0.034392372]
+[u'digital_clock', 0.63690269, u'maze', 0.068656445, u'scoreboard', 0.058317389, u'envelope', 0.025863826, u'container_ship', 0.025045006]

@@ -1,0 +1,8 @@
+[u'dining_table', 0.10220978, u'window_shade', 0.065511234, u'library', 0.05895444, u'bookcase', 0.029230718, u'window_screen', 0.028839616]
+[u'dumbbell', 0.10173202, u'cleaver', 0.07903178, u'harmonica', 0.065676928, u'barbershop', 0.051172733, u'swimming_trunks', 0.032043379]
+[u'dumbbell', 0.79346657, u'barbell', 0.053322796, u'swimming_trunks', 0.015675781, u'punching_bag', 0.014079783, u'barbershop', 0.013514967]
+[u'barbershop', 0.18332857, u'harmonica', 0.10045059, u'notebook', 0.042844288, u'laptop', 0.039133988, u'remote_control', 0.031630449]
+[u'spotlight', 0.058688466, u'space_shuttle', 0.042770207, u'fountain', 0.042574845, u'lampshade', 0.039043359, u'planetarium', 0.038706306]
+[u'bath_towel', 0.20547956, u'miniature_pinscher', 0.056965984, u'teddy', 0.046680041, u'bull_mastiff', 0.030082386, u'redbone', 0.020556638]
+[u'swimming_trunks', 0.15850307, u'totem_pole', 0.050768286, u'sarong', 0.042910341, u'bathing_cap', 0.041039746, u'volleyball', 0.033659585]
+[u'hammerhead', 0.13665329, u'sleeping_bag', 0.082327485, u'great_white_shark', 0.055015896, u'sturgeon', 0.041773096, u'stretcher', 0.037896741]

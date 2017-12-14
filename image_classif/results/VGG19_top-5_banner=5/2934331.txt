@@ -1,0 +1,6 @@
+[u'jellyfish', 0.25154838, u'shower_curtain', 0.15191831, u'beaker', 0.050910939, u'goldfish', 0.043268867, u'water_bottle', 0.021387057]
+[u'bookshop', 0.43865302, u'library', 0.16195746, u'tobacco_shop', 0.050438672, u'bakery', 0.047956213, u'photocopier', 0.027127851]
+[u'balance_beam', 0.48850569, u'parallel_bars', 0.094248049, u'bannister', 0.066460311, u'container_ship', 0.061420444, u'passenger_car', 0.018638099]
+[u'rule', 0.38686013, u'nail', 0.19912961, u'slide_rule', 0.18621451, u'web_site', 0.030878421, u'screwdriver', 0.026621835]
+[u'shower_cap', 0.092668749, u'bonnet', 0.064078324, u'cash_machine', 0.05938698, u'bow_tie', 0.033482123, u'lab_coat', 0.033334702]
+[u'digital_clock', 0.61361063, u'envelope', 0.044675387, u'shower_curtain', 0.034397695, u'maze', 0.03283428, u'wall_clock', 0.02844025]

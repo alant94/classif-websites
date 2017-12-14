@@ -1,0 +1,8 @@
+[u'comic_book', 0.39636752, u'book_jacket', 0.35235575, u'mousetrap', 0.04101989, u'lighter', 0.023577429, u'packet', 0.022898747]
+[u"carpenter's_kit", 0.14737035, u'digital_clock', 0.073090807, u'power_drill', 0.064907767, u'screwdriver', 0.056361657, u'street_sign', 0.037642729]
+[u'television', 0.10799861, u'laptop', 0.095910408, u'screen', 0.089884125, u'monitor', 0.077006742, u'notebook', 0.053130697]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'lighter', 0.51375544, u'binder', 0.058835067, u'cassette', 0.033644211, u'mousetrap', 0.032741461, u'rubber_eraser', 0.030921841]
+[u'comic_book', 0.36258218, u'web_site', 0.26534367, u'vending_machine', 0.075230688, u'slot', 0.048013475, u'refrigerator', 0.041837219]
+[u'traffic_light', 0.13239925, u'spotlight', 0.10292003, u'tray', 0.092263162, u'switch', 0.063947693, u'pill_bottle', 0.058360208]
+[u'street_sign', 0.097217686, u'traffic_light', 0.053198069, u'scoreboard', 0.050754737, u'balloon', 0.038775291, u'flagpole', 0.026898513]

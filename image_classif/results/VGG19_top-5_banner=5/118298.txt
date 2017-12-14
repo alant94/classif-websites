@@ -1,0 +1,8 @@
+[u'sewing_machine', 0.18870291, u'web_site', 0.071333796, u'balloon', 0.036634203, u'printer', 0.03260012, u'monitor', 0.026748683]
+[u'forklift', 0.09144251, u'radiator', 0.077566408, u'sewing_machine', 0.072647981, u'sliding_door', 0.062401146, u'desk', 0.023625216]
+[u'sea_snake', 0.35905108, u'crane', 0.23003936, u'centipede', 0.10667332, u'water_snake', 0.076946393, u'starfish', 0.049172007]
+[u'tobacco_shop', 0.26281479, u'cinema', 0.18159373, u'analog_clock', 0.058590367, u'mountain_bike', 0.03869947, u'unicycle', 0.034480095]
+[u'tank', 0.4687846, u'aircraft_carrier', 0.22267044, u'dock', 0.12795769, u'amphibian', 0.044184402, u'cannon', 0.028910702]
+[u'magnetic_compass', 0.15457016, u'solar_dish', 0.14802551, u'crane', 0.1023591, u'analog_clock', 0.034040593, u'drilling_platform', 0.033360817]
+[u'cab', 0.096579522, u'barbershop', 0.077389754, u'traffic_light', 0.075505197, u'motor_scooter', 0.065402754, u'parking_meter', 0.052427314]
+[u'mountain_bike', 0.24703887, u'tricycle', 0.065909863, u'thresher', 0.048157815, u'moped', 0.038458545, u'bicycle-built-for-two', 0.033994582]

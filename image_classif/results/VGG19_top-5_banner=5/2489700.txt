@@ -1,0 +1,2 @@
+[u'web_site', 0.80896157, u'menu', 0.034191936, u'envelope', 0.0067532663, u'crane', 0.0036964039, u'American_egret', 0.0030234077]
+[u'prison', 0.089799225, u'gondola', 0.075886369, u'fountain', 0.027488587, u'turnstile', 0.027274683, u'library', 0.027201921]

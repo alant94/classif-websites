@@ -1,0 +1,5 @@
+[u"carpenter's_kit", 0.10976471, u'spatula', 0.075504057, u'safety_pin', 0.052989122, u'screwdriver', 0.051600046, u'hook', 0.043411274]
+[u'wallet', 0.23283029, u'handkerchief', 0.22225361, u'packet', 0.14210752, u'paintbrush', 0.068348385, u'cleaver', 0.056709297]
+[u'lampshade', 0.16525044, u'shower_curtain', 0.15893616, u'theater_curtain', 0.11072288, u'broom', 0.10469288, u'mosquito_net', 0.045887865]
+[u'freight_car', 0.11021253, u'theater_curtain', 0.058748234, u'fire_screen', 0.05248462, u'passenger_car', 0.048441492, u'electric_locomotive', 0.045760982]
+[u'container_ship', 0.45655793, u'crane', 0.30298588, u'drilling_platform', 0.059049103, u'dock', 0.034446549, u'beacon', 0.028175896]

@@ -1,0 +1,3 @@
+[u'artichoke', 0.61408007, u'ear', 0.10189625, u'corn', 0.063654706, u'head_cabbage', 0.057929147, u'cardoon', 0.031581312]
+[u'fountain', 0.57399285, u'picket_fence', 0.10087463, u'poncho', 0.068766706, u'stole', 0.027614379, u'mitten', 0.016817143]
+[u'stone_wall', 0.13441622, u'maze', 0.078434691, u'megalith', 0.057936437, u'park_bench', 0.038925145, u'lakeside', 0.03528548]

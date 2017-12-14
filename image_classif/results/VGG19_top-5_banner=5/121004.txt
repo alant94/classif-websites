@@ -1,0 +1,2 @@
+[u'wall_clock', 0.35406688, u'traffic_light', 0.15184924, u'digital_clock', 0.096481211, u'shield', 0.057906315, u'street_sign', 0.02927582]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

@@ -1,0 +1,4 @@
+[u'pick', 0.3847211, u'electric_guitar', 0.17943104, u'toilet_seat', 0.10700379, u'shield', 0.050403919, u'whiskey_jug', 0.022086279]
+[u'gong', 0.052342322, u'chime', 0.043226834, u'military_uniform', 0.025951304, u'drum', 0.02474132, u'punching_bag', 0.02258238]
+[u'organ', 0.49318248, u'pencil_box', 0.096235134, u'ballpoint', 0.058998156, u'chime', 0.058413163, u'rubber_eraser', 0.057457391]
+[u'web_site', 0.10777474, u'accordion', 0.08713194, u'upright', 0.08267948, u'bookshop', 0.047898699, u'altar', 0.040751357]

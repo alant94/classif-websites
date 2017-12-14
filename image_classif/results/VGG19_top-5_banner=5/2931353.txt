@@ -1,0 +1,2 @@
+[u'toyshop', 0.3855038, u'jigsaw_puzzle', 0.052637249, u'confectionery', 0.05180053, u'hamper', 0.04461224, u'altar', 0.037977803]
+[u'web_site', 0.040087987, u'book_jacket', 0.036076244, u'digital_clock', 0.018485853, u'perfume', 0.014193378, u'binder', 0.013770614]

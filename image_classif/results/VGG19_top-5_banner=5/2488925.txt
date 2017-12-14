@@ -1,0 +1,2 @@
+[u'Rottweiler', 0.12920229, u'Gordon_setter', 0.10649735, u'kelpie', 0.087815627, u'dogsled', 0.066879436, u'Tibetan_mastiff', 0.062406655]
+[u'American_black_bear', 0.67103392, u'sloth_bear', 0.10594622, u'Rottweiler', 0.049312904, u'wild_boar', 0.048206605, u'hog', 0.037169132]

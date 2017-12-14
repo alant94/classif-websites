@@ -1,0 +1,6 @@
+[u'tray', 0.12755829, u'switch', 0.12120175, u'nipple', 0.087691016, u'pencil_sharpener', 0.08752384, u'soap_dispenser', 0.067015909]
+[u'swab', 0.16220178, u'screwdriver', 0.090329826, u'syringe', 0.065013349, u'hair_spray', 0.057152662, u'plunger', 0.055719417]
+[u'web_site', 0.027595639, u'hatchet', 0.022987112, u'hook', 0.022192685, u'neck_brace', 0.017694993, u'panpipe', 0.016830651]
+[u'web_site', 0.057822939, u'street_sign', 0.05753484, u'book_jacket', 0.027472863, u'hatchet', 0.017544542, u'hook', 0.015475316]
+[u'goblet', 0.097572297, u'hourglass', 0.08924935, u'beer_glass', 0.070744932, u'espresso', 0.063104473, u'red_wine', 0.052408349]
+[u'digital_clock', 0.22815856, u'Band_Aid', 0.12911937, u'binder', 0.048496153, u'lighter', 0.037697915, u'digital_watch', 0.030478669]

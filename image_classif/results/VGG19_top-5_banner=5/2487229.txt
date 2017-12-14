@@ -1,0 +1,6 @@
+[u'barracouta', 0.19398054, u'sturgeon', 0.080876619, u'coho', 0.074498437, u'gar', 0.073191471, u'bow', 0.041673843]
+[u'envelope', 0.10277188, u'web_site', 0.098334394, u'rifle', 0.062682495, u'assault_rifle', 0.043843333, u'hook', 0.032798376]
+[u'fountain', 0.47840932, u'altar', 0.13009058, u'throne', 0.037268806, u'butcher_shop', 0.021804594, u'pedestal', 0.015802646]
+[u'picket_fence', 0.82938564, u'coral_fungus', 0.063102677, u'worm_fence', 0.040460616, u'candle', 0.012620782, u'matchstick', 0.012033288]
+[u'hartebeest', 0.23613487, u'bighorn', 0.17475022, u'bison', 0.13378136, u'ram', 0.086322375, u'water_buffalo', 0.063032717]
+[u'hartebeest', 0.43466577, u'king_crab', 0.12355869, u'ibex', 0.095561378, u'spiny_lobster', 0.048831791, u'impala', 0.02953201]

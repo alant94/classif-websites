@@ -1,0 +1,3 @@
+[u'harp', 0.74106115, u'cradle', 0.049233034, u'panpipe', 0.03332869, u'organ', 0.022787096, u'hair_spray', 0.018132631]
+[u'trombone', 0.46368074, u'cornet', 0.1889859, u'oxcart', 0.082871757, u'French_horn', 0.079324231, u'gong', 0.047697753]
+[u'restaurant', 0.37717277, u'library', 0.35207298, u'barbershop', 0.031843491, u'unicycle', 0.02574615, u'bookshop', 0.023753406]

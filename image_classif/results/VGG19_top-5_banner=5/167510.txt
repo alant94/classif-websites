@@ -1,0 +1,4 @@
+[u'lakeside', 0.17019188, u'trailer_truck', 0.10783681, u'car_mirror', 0.054943066, u'seashore', 0.049344718, u'breakwater', 0.048781771]
+[u'web_site', 0.90707386, u'brass', 0.04381625, u'book_jacket', 0.01998161, u'envelope', 0.01021402, u'tank', 0.0014843463]
+[u'web_site', 0.80924457, u'volcano', 0.012257066, u'book_jacket', 0.0085903341, u'geyser', 0.0085075255, u'analog_clock', 0.0053011938]
+[u'streetcar', 0.10845686, u'barbershop', 0.10230944, u'cinema', 0.06246531, u'pay-phone', 0.030728299, u'water_bottle', 0.027656194]

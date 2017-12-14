@@ -1,0 +1,7 @@
+[u'barrel', 0.19935754, u'drum', 0.073987529, u'toilet_seat', 0.058249589, u'jersey', 0.030561494, u'gong', 0.029785058]
+[u'web_site', 0.053212147, u'library', 0.044829551, u'cinema', 0.044075835, u'picket_fence', 0.039118897, u'binder', 0.033418499]
+[u'bookcase', 0.090078093, u'library', 0.052573562, u'picket_fence', 0.047829144, u'ballpoint', 0.029089561, u'screwdriver', 0.027031906]
+[u'warthog', 0.44363749, u'wild_boar', 0.25316229, u'bighorn', 0.12772593, u'ram', 0.047493763, u'hog', 0.016261341]
+[u'digital_clock', 0.11816296, u'book_jacket', 0.064040206, u'picket_fence', 0.063250788, u'web_site', 0.026554903, u'cinema', 0.026536398]
+[u'fountain', 0.24313055, u'wardrobe', 0.11621304, u'picket_fence', 0.048763916, u'hook', 0.047228865, u'swab', 0.040167]
+[u'television', 0.11870312, u'iPod', 0.080205955, u'tray', 0.027543072, u'buckle', 0.026562409, u'cellular_telephone', 0.026183764]

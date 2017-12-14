@@ -1,0 +1,7 @@
+[u'necklace', 0.70861733, u'chain', 0.25942662, u'coil', 0.0095645683, u'hook', 0.0060327062, u'chain_mail', 0.004813327]
+[u'necklace', 0.5115878, u'chain', 0.45817518, u'whistle', 0.010154876, u'knot', 0.0091018872, u'tick', 0.0055904235]
+[u'necklace', 0.72693795, u'chain', 0.1466804, u'knot', 0.042679962, u'bolo_tie', 0.014462485, u'coil', 0.0072236503]
+[u'necklace', 0.61494267, u'chain', 0.3492375, u'chain_mail', 0.0063430024, u'whistle', 0.0049840761, u'coil', 0.0037621961]
+[u'web_site', 0.11656022, u'chain_saw', 0.023091506, u'hatchet', 0.022694958, u'hook', 0.01970258, u'envelope', 0.017296661]
+[u'ice_lolly', 0.33738741, u'bib', 0.12158452, u'stethoscope', 0.065338887, u'sunscreen', 0.040020302, u'seat_belt', 0.037857953]
+[u'necklace', 0.53371239, u'chain', 0.33886442, u'coil', 0.019931918, u'chain_mail', 0.0089894915, u'pretzel', 0.0089844642]

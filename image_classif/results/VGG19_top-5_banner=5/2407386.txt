@@ -1,0 +1,6 @@
+[u'ladle', 0.14221752, u'can_opener', 0.10067877, u'rhinoceros_beetle', 0.074864142, u'bell_pepper', 0.072351173, u'sunglass', 0.061763246]
+[u'waffle_iron', 0.81430244, u'bakery', 0.095372573, u'spatula', 0.018599864, u'abacus', 0.0066370089, u'confectionery', 0.0042269854]
+[u'wall_clock', 0.11271062, u'altar', 0.07539326, u'desk', 0.061257441, u'birdhouse', 0.060839307, u'pot', 0.055174012]
+[u'triceratops', 0.063995644, u'mask', 0.05288424, u'necklace', 0.048482727, u'hair_slide', 0.045658115, u'rubber_eraser', 0.036336843]
+[u'tray', 0.17475395, u'velvet', 0.1724022, u'purse', 0.15849555, u'throne', 0.075264096, u'wallet', 0.05590694]
+[u'espresso_maker', 0.79959571, u'loupe', 0.025770729, u'can_opener', 0.019996289, u'waffle_iron', 0.018255215, u'lighter', 0.015082709]

@@ -1,0 +1,5 @@
+[u'patio', 0.16217843, u'palace', 0.10256607, u'picket_fence', 0.063385218, u'mobile_home', 0.036179274, u'mosque', 0.032350082]
+[u'web_site', 0.14034526, u'envelope', 0.12971932, u'nipple', 0.063700676, u'wall_clock', 0.058146451, u'analog_clock', 0.046716038]
+[u'street_sign', 0.34924331, u'web_site', 0.1792499, u'digital_clock', 0.06311667, u'rule', 0.03797137, u'envelope', 0.034104444]
+[u'Band_Aid', 0.20433383, u'web_site', 0.1151189, u'puck', 0.069054246, u'envelope', 0.048674401, u'oil_filter', 0.046215154]
+[u'suspension_bridge', 0.12753236, u'plate_rack', 0.12271611, u'hook', 0.075571924, u'picket_fence', 0.071275592, u'pier', 0.062293671]

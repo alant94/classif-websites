@@ -1,0 +1,4 @@
+[u'cash_machine', 0.11608964, u'digital_clock', 0.11499475, u'book_jacket', 0.04794538, u'scoreboard', 0.037277814, u'gas_pump', 0.033453465]
+[u'binder', 0.24122061, u'iPod', 0.06141638, u'switch', 0.043769624, u'turnstile', 0.038590785, u'digital_clock', 0.03430099]
+[u'lycaenid', 0.069484279, u'fly', 0.048044574, u'ladybug', 0.042929914, u'leafhopper', 0.040155493, u'lacewing', 0.037215777]
+[u'golfcart', 0.15578106, u'alp', 0.07683444, u'mobile_home', 0.066409081, u'half_track', 0.054475881, u'boathouse', 0.051949184]

@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.37000006, u'shield', 0.36393213, u'mask', 0.047957402, u'wall_clock', 0.026009267, u'gong', 0.015802884]
+[u'sunglass', 0.39157984, u'sunglasses', 0.38300386, u'toilet_seat', 0.039624572, u'neck_brace', 0.030803427, u'wig', 0.027417587]
+[u'toilet_seat', 0.36408344, u'mask', 0.30450758, u'neck_brace', 0.067056932, u'sunglass', 0.024449572, u'sunglasses', 0.022847794]
+[u'gong', 0.46052042, u'toilet_seat', 0.24211732, u'shield', 0.074055299, u'chime', 0.045480739, u'washer', 0.03251813]
+[u'sleeping_bag', 0.97148806, u'parachute', 0.0051588994, u'mountain_tent', 0.00226379, u'toilet_seat', 0.002071236, u'bib', 0.0020431734]
+[u'toilet_seat', 0.46652991, u'shower_cap', 0.1676515, u'mask', 0.058467064, u'sleeping_bag', 0.04605978, u'bonnet', 0.037122484]

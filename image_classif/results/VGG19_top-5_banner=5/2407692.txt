@@ -1,0 +1,4 @@
+[u'carton', 0.15022749, u'slide_rule', 0.1178043, u'envelope', 0.081303231, u'rule', 0.07430809, u'oscilloscope', 0.050186433]
+[u'web_site', 0.69581568, u'book_jacket', 0.17931037, u'brass', 0.029117841, u'notebook', 0.0073217326, u'laptop', 0.0064068171]
+[u'barrow', 0.2341118, u'parallel_bars', 0.169296, u'bow', 0.097851776, u'plow', 0.065025628, u'folding_chair', 0.055446029]
+[u'swing', 0.98221189, u'folding_chair', 0.0038250412, u'guillotine', 0.0032679455, u'balance_beam', 0.0011509197, u'horizontal_bar', 0.0008318004]

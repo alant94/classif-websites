@@ -1,0 +1,3 @@
+[u'digital_clock', 0.15255894, u'envelope', 0.1177241, u'container_ship', 0.067213051, u'monitor', 0.041205078, u'carton', 0.035711784]
+[u'matchstick', 0.35367957, u'panpipe', 0.22514775, u'hook', 0.050612446, u'picket_fence', 0.041865699, u'rule', 0.030355204]
+[u'envelope', 0.41509917, u'monitor', 0.067651823, u'carton', 0.046554096, u'crane', 0.044389285, u'binder', 0.025912419]

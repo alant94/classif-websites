@@ -1,0 +1,5 @@
+[u'book_jacket', 0.46155059, u'menu', 0.13043289, u'carton', 0.098853976, u'packet', 0.064652942, u'comic_book', 0.055986568]
+[u'wing', 0.024765743, u'space_shuttle', 0.02350946, u'kite', 0.022851871, u'parachute', 0.021721978, u'airship', 0.017576512]
+[u'Scottish_deerhound', 0.13458875, u'English_setter', 0.10164186, u'Gordon_setter', 0.086473182, u'Newfoundland', 0.078484938, u'komondor', 0.050839227]
+[u'packet', 0.60150045, u'book_jacket', 0.088507846, u'mousetrap', 0.072784439, u'crate', 0.048323642, u'carton', 0.044162497]
+[u'hook', 0.06399516, u'pick', 0.044878915, u'whistle', 0.044262063, u'microphone', 0.042934254, u'stethoscope', 0.037604958]

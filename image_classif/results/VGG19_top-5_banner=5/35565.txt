@@ -1,0 +1,1 @@
+[u'candle', 0.46549004, u'envelope', 0.19735143, u'lighter', 0.043190069, u'Band_Aid', 0.027975854, u'binder', 0.022499507]

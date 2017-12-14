@@ -1,0 +1,6 @@
+[u'bottlecap', 0.99094206, u'packet', 0.0027465238, u'pop_bottle', 0.00088005298, u'puck', 0.0007780185, u'beer_bottle', 0.00074674317]
+[u'envelope', 0.3776632, u'web_site', 0.28564009, u'laptop', 0.022596765, u'book_jacket', 0.014361454, u'pick', 0.012712633]
+[u'digital_clock', 0.11108712, u'street_sign', 0.10054168, u'Band_Aid', 0.070724323, u'traffic_light', 0.028765675, u'balloon', 0.023321385]
+[u'puck', 0.65160525, u'coffee_mug', 0.027043361, u'tray', 0.021758102, u'shield', 0.019204911, u'wall_clock', 0.015160002]
+[u'web_site', 0.064264283, u'envelope', 0.027129136, u'sunscreen', 0.025147505, u'hook', 0.024346836, u'face_powder', 0.022556905]
+[u'binder', 0.41079262, u'mousetrap', 0.12901434, u'cassette', 0.092916325, u'packet', 0.074417464, u'book_jacket', 0.068588428]

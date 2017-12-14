@@ -1,0 +1,2 @@
+[u'ballpoint', 0.22372122, u'paintbrush', 0.17116159, u'screwdriver', 0.16598855, u'pencil_box', 0.10144306, u'wine_bottle', 0.054511961]
+[u'digital_clock', 0.15753201, u'envelope', 0.10906191, u'container_ship', 0.082163066, u'carton', 0.04763658, u'monitor', 0.04326478]

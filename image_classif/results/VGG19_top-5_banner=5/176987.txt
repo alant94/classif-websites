@@ -1,0 +1,5 @@
+[u'web_site', 0.88413388, u'screen', 0.044032834, u'monitor', 0.035034899, u'notebook', 0.0084048714, u'desktop_computer', 0.0074591395]
+[u'web_site', 0.98868912, u'monitor', 0.005174526, u'screen', 0.0025468853, u'notebook', 0.0012608514, u'desktop_computer', 0.00066214794]
+[u'web_site', 0.99171054, u'book_jacket', 0.0040791617, u'comic_book', 0.00096820638, u'envelope', 0.00068360934, u'menu', 0.00026040326]
+[u'web_site', 0.9979164, u'monitor', 0.00067868398, u'screen', 0.00066370878, u'notebook', 0.00013373222, u'analog_clock', 0.00010060337]
+[u'theater_curtain', 0.18148729, u'matchstick', 0.15927532, u'digital_clock', 0.05516161, u'stage', 0.049753774, u'analog_clock', 0.045460008]

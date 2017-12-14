@@ -1,0 +1,5 @@
+[u'hair_spray', 0.16176344, u'sunscreen', 0.097346596, u'bikini', 0.093164548, u'brassiere', 0.074538529, u'maillot', 0.040278029]
+[u'brassiere', 0.37953091, u'bikini', 0.26802632, u'gown', 0.094983228, u'maillot', 0.064386956, u'miniskirt', 0.033690777]
+[u'park_bench', 0.098149367, u'cellular_telephone', 0.074098937, u'tricycle', 0.035679717, u'lens_cap', 0.027392041, u'ice_lolly', 0.026924286]
+[u'crossword_puzzle', 0.62477839, u'digital_watch', 0.051890798, u'quilt', 0.050959989, u'maze', 0.042585768, u'digital_clock', 0.038366854]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]

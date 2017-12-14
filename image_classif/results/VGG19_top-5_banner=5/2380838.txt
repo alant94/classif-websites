@@ -1,0 +1,7 @@
+[u'puck', 0.83020294, u'face_powder', 0.071812287, u'gong', 0.022948403, u'book_jacket', 0.013638465, u'loupe', 0.007099852]
+[u'web_site', 0.06291613, u'nematode', 0.025692776, u'envelope', 0.025452865, u'tick', 0.013114555, u'rule', 0.013037569]
+[u'caldron', 0.20295124, u'rain_barrel', 0.15603639, u'drum', 0.14977136, u'barrel', 0.098374695, u'pot', 0.061607353]
+[u'book_jacket', 0.55460191, u'brass', 0.17688501, u'web_site', 0.050743569, u'packet', 0.028458441, u'comic_book', 0.019881703]
+[u'vase', 0.27946079, u'pedestal', 0.2217129, u'fountain', 0.14235438, u'pitcher', 0.1040769, u'book_jacket', 0.030437635]
+[u'wine_bottle', 0.52753359, u'beer_bottle', 0.21292707, u'red_wine', 0.10297217, u'hair_spray', 0.034429833, u'water_bottle', 0.029449372]
+[u'valley', 0.21155962, u'seashore', 0.12829942, u'promontory', 0.086375691, u'lakeside', 0.063589938, u'sandbar', 0.037548631]

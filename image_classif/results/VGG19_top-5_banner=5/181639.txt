@@ -1,0 +1,5 @@
+[u'notebook', 0.11582644, u'projector', 0.10655269, u'vacuum', 0.067131929, u'laptop', 0.046799071, u'suit', 0.038138397]
+[u'web_site', 0.17327647, u"carpenter's_kit", 0.10137835, u'screwdriver', 0.074763007, u'lighter', 0.041008711, u'whistle', 0.036055312]
+[u'digital_clock', 0.43818247, u'analog_clock', 0.13746521, u'puck', 0.054442454, u'wall_clock', 0.040844869, u'stopwatch', 0.027346082]
+[u'oscilloscope', 0.10270352, u'screen', 0.096329741, u'desktop_computer', 0.089859344, u'radio', 0.065497316, u'monitor', 0.054445773]
+[u'web_site', 0.14353015, u'digital_clock', 0.044419423, u'hook', 0.036176227, u'plunger', 0.019274347, u'analog_clock', 0.01869753]

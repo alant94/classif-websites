@@ -1,0 +1,1 @@
+[u'Old_English_sheepdog', 0.34660804, u'Siberian_husky', 0.21055888, u'malamute', 0.2040752, u'Eskimo_dog', 0.078063339, u'Great_Pyrenees', 0.038595796]

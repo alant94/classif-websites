@@ -1,0 +1,2 @@
+[u'book_jacket', 0.25993398, u'doormat', 0.077717856, u'packet', 0.057416108, u'cassette', 0.030401492, u'comic_book', 0.019636627]
+[u'printer', 0.20665312, u'binoculars', 0.050285526, u'microphone', 0.033917297, u'cleaver', 0.031001929, u'wallet', 0.030042298]

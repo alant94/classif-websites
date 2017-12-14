@@ -1,0 +1,2 @@
+[u'packet', 0.15028492, u'Band_Aid', 0.093931474, u'pill_bottle', 0.092493862, u'cash_machine', 0.084284998, u'lotion', 0.043859374]
+[u'bolo_tie', 0.33380082, u'suit', 0.14965986, u'Windsor_tie', 0.083788849, u'oboe', 0.064717583, u'cornet', 0.036555413]

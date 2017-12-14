@@ -1,0 +1,3 @@
+[u'gar', 0.10584224, u'quill', 0.064565107, u'tiger_shark', 0.055599391, u'bathing_cap', 0.037317649, u'stingray', 0.037219942]
+[u'barbershop', 0.18972296, u'crate', 0.15993905, u'fountain', 0.059007682, u'book_jacket', 0.042373385, u'cash_machine', 0.016530359]
+[u'street_sign', 0.56496352, u'cash_machine', 0.069370396, u'gas_pump', 0.031909559, u'scoreboard', 0.019486351, u'screen', 0.018204715]

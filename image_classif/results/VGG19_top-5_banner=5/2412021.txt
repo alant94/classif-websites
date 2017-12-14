@@ -1,0 +1,6 @@
+[u'rule', 0.16007623, u'envelope', 0.13552095, u'digital_clock', 0.074896574, u'whistle', 0.066123135, u'slide_rule', 0.051293023]
+[u'tractor', 0.87470132, u'thresher', 0.05052859, u'harvester', 0.040963031, u'plow', 0.019118592, u'fire_engine', 0.0051979558]
+[u'nipple', 0.19926199, u'candle', 0.037189003, u'envelope', 0.036257222, u'hourglass', 0.02934223, u'web_site', 0.026815664]
+[u'ear', 0.31071919, u'corn', 0.23428427, u'coral_fungus', 0.030906184, u'cliff', 0.028370861, u'coral_reef', 0.026102509]
+[u'packet', 0.93580675, u'hamper', 0.018391496, u'pretzel', 0.0062914207, u'thimble', 0.0055343914, u'buckle', 0.0047497065]
+[u'lawn_mower', 0.39038199, u'tractor', 0.25961211, u'harvester', 0.09486156, u'plow', 0.081058264, u'tricycle', 0.05947068]

@@ -1,0 +1,2 @@
+[u'proboscis_monkey', 0.23204364, u'dough', 0.089201681, u'Band_Aid', 0.086330511, u'hamster', 0.051053349, u'nipple', 0.021544153]
+[u'ski', 0.16111574, u'bearskin', 0.11126309, u'bathing_cap', 0.044363908, u'torch', 0.041048359, u'poncho', 0.039500285]

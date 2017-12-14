@@ -1,0 +1,2 @@
+[u'gorilla', 0.25855339, u'pedestal', 0.19156989, u'teddy', 0.12683327, u'Indian_elephant', 0.10345544, u'Weimaraner', 0.047131084]
+[u'sunscreen', 0.089817531, u'hair_spray', 0.044716708, u'lotion', 0.035239294, u'web_site', 0.032800104, u'binder', 0.027186017]

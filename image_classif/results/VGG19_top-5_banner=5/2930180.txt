@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.31372178, u'suit', 0.22461197, u'academic_gown', 0.16487229, u'bow_tie', 0.063790992, u'mortarboard', 0.033033554]
+[u'rule', 0.1268793, u'book_jacket', 0.11808763, u'envelope', 0.11097614, u'nail', 0.033069432, u'web_site', 0.032898407]
+[u'buckle', 0.23476711, u'puck', 0.1819431, u'book_jacket', 0.055670526, u'tray', 0.036690302, u'jersey', 0.029729255]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

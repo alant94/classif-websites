@@ -1,0 +1,3 @@
+[u'running_shoe', 0.92014027, u'sandal', 0.027757674, u'brassiere', 0.0075698346, u'shoe_shop', 0.0066325413, u'clog', 0.0061184289]
+[u'screen', 0.23998603, u'container_ship', 0.20868251, u'monitor', 0.16992842, u'scoreboard', 0.096561156, u'television', 0.087035298]
+[u'running_shoe', 0.88087356, u'poncho', 0.018639915, u'harp', 0.014929831, u'snowmobile', 0.013619523, u'clog', 0.011007486]

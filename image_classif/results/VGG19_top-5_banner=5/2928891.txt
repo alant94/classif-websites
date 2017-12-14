@@ -1,0 +1,5 @@
+[u'Weimaraner', 0.18318403, u'Italian_greyhound', 0.12112345, u'whippet', 0.051907729, u'brassiere', 0.046311252, u'flagpole', 0.043724492]
+[u'mask', 0.90313959, u'totem_pole', 0.017495098, u'bonnet', 0.015634479, u'crash_helmet', 0.0077106897, u'backpack', 0.0052880803]
+[u'accordion', 0.18620671, u'spatula', 0.13368319, u'drum', 0.12240044, u'oil_filter', 0.04075896, u'chocolate_sauce', 0.035008099]
+[u'goblet', 0.096311472, u'pedestal', 0.057188123, u'lampshade', 0.054206081, u'screw', 0.050274245, u'soap_dispenser', 0.036501348]
+[u'balance_beam', 0.14257035, u'vizsla', 0.092684746, u'pole', 0.085300624, u'parallel_bars', 0.069969453, u'bikini', 0.067641869]

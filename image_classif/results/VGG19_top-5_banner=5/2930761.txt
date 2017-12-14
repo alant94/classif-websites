@@ -1,0 +1,5 @@
+[u'book_jacket', 0.16906545, u'comic_book', 0.14109683, u'barbershop', 0.11025161, u'hair_spray', 0.042239785, u'prison', 0.027685009]
+[u'punching_bag', 0.65170568, u'red_wine', 0.048318293, u'wine_bottle', 0.021041729, u'chain', 0.018678021, u'pop_bottle', 0.015705388]
+[u'cinema', 0.33013999, u'theater_curtain', 0.14223349, u'book_jacket', 0.088219918, u'tobacco_shop', 0.052500755, u'barbershop', 0.046676703]
+[u'digital_clock', 0.50388837, u'oscilloscope', 0.25881267, u'screen', 0.044772588, u'monitor', 0.036521606, u'television', 0.0091381511]
+[u'brass', 0.667557, u'book_jacket', 0.19316153, u'comic_book', 0.046296999, u'menu', 0.038938049, u'web_site', 0.026334042]

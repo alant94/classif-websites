@@ -1,0 +1,4 @@
+[u'dial_telephone', 0.21871208, u'iron', 0.19877324, u'can_opener', 0.086857803, u'remote_control', 0.068122499, u'corkscrew', 0.019571578]
+[u'cash_machine', 0.19725087, u'pay-phone', 0.1901823, u'comic_book', 0.073724739, u'web_site', 0.066356055, u'street_sign', 0.046082512]
+[u'menu', 0.30090764, u'web_site', 0.13748075, u'crossword_puzzle', 0.045887902, u'hand-held_computer', 0.010593939, u'rifle', 0.0091157323]
+[u'web_site', 0.12238039, u'crossword_puzzle', 0.03566581, u'menu', 0.023441324, u'envelope', 0.021256011, u'hatchet', 0.015781263]

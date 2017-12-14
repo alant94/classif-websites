@@ -1,0 +1,2 @@
+[u'impala', 0.5321368, u'gazelle', 0.17731221, u'hartebeest', 0.073815264, u'wallaby', 0.070668817, u'water_buffalo', 0.036040511]
+[u'spatula', 0.090624951, u"carpenter's_kit", 0.044985756, u'ladle', 0.03704207, u'screwdriver', 0.03653856, u'wooden_spoon', 0.033389807]

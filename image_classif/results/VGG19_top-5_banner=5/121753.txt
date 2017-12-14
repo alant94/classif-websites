@@ -1,0 +1,2 @@
+[u'scoreboard', 0.27040434, u'traffic_light', 0.079309113, u'analog_clock', 0.023664484, u'cinema', 0.023143625, u'web_site', 0.022717815]
+[u'slot', 0.51473564, u'hand-held_computer', 0.12291653, u'screen', 0.066960543, u'scoreboard', 0.052727979, u'monitor', 0.042169109]

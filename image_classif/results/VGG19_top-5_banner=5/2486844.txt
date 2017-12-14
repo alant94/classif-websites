@@ -1,0 +1,1 @@
+[u'plate_rack', 0.21132118, u'nail', 0.098337173, u'digital_clock', 0.063494645, u'rule', 0.058882628, u'spotlight', 0.042742696]

@@ -1,0 +1,4 @@
+[u'digital_clock', 0.67888659, u'digital_watch', 0.085249893, u'traffic_light', 0.044002824, u'iPod', 0.026555995, u'screen', 0.024983404]
+[u'web_site', 0.11216473, u'street_sign', 0.075523406, u'book_jacket', 0.032652412, u'packet', 0.01304616, u'Band_Aid', 0.01269761]
+[u'screwdriver', 0.38615268, u'chime', 0.19439654, u'ballpoint', 0.05807421, u'rule', 0.053648274, u'nail', 0.03992939]
+[u'tray', 0.41465241, u'binder', 0.072752282, u'medicine_chest', 0.072557442, u'iPod', 0.04180925, u'screen', 0.039189875]

@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.97755128, u'matchstick', 0.0070564379, u'stove', 0.0018933001, u'screen', 0.0017093078, u'fountain', 0.0016356047]

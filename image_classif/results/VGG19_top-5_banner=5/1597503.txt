@@ -1,0 +1,4 @@
+[u'wig', 0.1867466, u'bikini', 0.11467693, u'shower_cap', 0.091395386, u'hair_spray', 0.06171722, u'hand_blower', 0.034319714]
+[u'corkscrew', 0.061118793, u'hair_slide', 0.053304106, u'screw', 0.03923519, u'hatchet', 0.034856617, u'hook', 0.031036701]
+[u'bikini', 0.12586947, u'bathtub', 0.12126841, u'maillot', 0.07135804, u'tub', 0.066961356, u'swimming_trunks', 0.056644395]
+[u'bikini', 0.37842309, u'sandal', 0.14619902, u'maillot', 0.11223619, u'Band_Aid', 0.095842078, u'maillot', 0.054912489]

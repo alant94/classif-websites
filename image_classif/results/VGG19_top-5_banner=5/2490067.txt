@@ -1,0 +1,2 @@
+[u'stretcher', 0.10048428, u'mousetrap', 0.098405883, u'folding_chair', 0.055027563, u'swing', 0.049209345, u'cradle', 0.048009787]
+[u'hook', 0.32411841, u'plunger', 0.10527658, u'shovel', 0.061008543, u'nail', 0.04997376, u'matchstick', 0.04446505]

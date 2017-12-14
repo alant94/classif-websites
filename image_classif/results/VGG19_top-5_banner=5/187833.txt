@@ -1,0 +1,1 @@
+[u'candle', 0.19849554, u'theater_curtain', 0.13617845, u'menu', 0.092284173, u'cash_machine', 0.080005027, u'carton', 0.070603989]

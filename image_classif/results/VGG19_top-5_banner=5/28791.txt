@@ -1,0 +1,1 @@
+[u'castle', 0.47703549, u'palace', 0.27464944, u'pier', 0.095090255, u'steel_arch_bridge', 0.046592165, u'suspension_bridge', 0.045351937]

@@ -1,0 +1,3 @@
+[u'web_site', 0.89902675, u'envelope', 0.037961654, u'menu', 0.0043002591, u'muzzle', 0.0032920095, u'book_jacket', 0.0031535879]
+[u'packet', 0.15272769, u'web_site', 0.14740032, u'envelope', 0.12404861, u'book_jacket', 0.06612242, u'cassette', 0.047287934]
+[u'monitor', 0.42690757, u'screen', 0.25828317, u'desktop_computer', 0.051390063, u'television', 0.049000748, u'desk', 0.012827193]

@@ -1,0 +1,8 @@
+[u'shoe_shop', 0.27351779, u'wardrobe', 0.10753699, u'jean', 0.098327234, u'ski', 0.082718626, u'cowboy_boot', 0.064758331]
+[u'web_site', 0.2990202, u'lab_coat', 0.13684477, u'book_jacket', 0.073096648, u'swimming_trunks', 0.048792738, u'monitor', 0.048157167]
+[u'binder', 0.12456607, u'guillotine', 0.060999874, u'wardrobe', 0.045627993, u'ballpoint', 0.043454614, u'chime', 0.042028986]
+[u'volleyball', 0.32948443, u'unicycle', 0.21326353, u'basketball', 0.061475098, u'bathing_cap', 0.061117467, u'stage', 0.060586236]
+[u'tow_truck', 0.15659134, u'garbage_truck', 0.1521512, u'moving_van', 0.14760071, u'police_van', 0.044438388, u'forklift', 0.037963688]
+[u'bathing_cap', 0.2402899, u'scoreboard', 0.10501964, u'stage', 0.092861146, u'swimming_trunks', 0.062137727, u'maillot', 0.028332571]
+[u'wardrobe', 0.44533765, u'kimono', 0.13171451, u'abaya', 0.087732926, u'jean', 0.063268177, u'ski', 0.031140987]
+[u'digital_clock', 0.16010989, u'envelope', 0.066844568, u'handkerchief', 0.051244032, u'wall_clock', 0.047625482, u'Windsor_tie', 0.039436962]

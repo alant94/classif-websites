@@ -1,0 +1,4 @@
+[u'digital_clock', 0.59065908, u'jigsaw_puzzle', 0.19627923, u'digital_watch', 0.027203828, u'maze', 0.0096450131, u'container_ship', 0.0069174436]
+[u'digital_clock', 0.59689134, u'digital_watch', 0.099597417, u'tennis_ball', 0.060983442, u'analog_clock', 0.032499835, u'stopwatch', 0.024723981]
+[u'digital_clock', 0.16061249, u'cinema', 0.083718143, u'picket_fence', 0.054254584, u'syringe', 0.042327356, u'traffic_light', 0.042117693]
+[u'desktop_computer', 0.099242784, u'monitor', 0.088194311, u'desk', 0.083776444, u'projector', 0.07310237, u'Polaroid_camera', 0.053291477]

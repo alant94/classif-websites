@@ -1,0 +1,2 @@
+[u'web_site', 0.23136464, u'hook', 0.037755106, u'microphone', 0.025962912, u'analog_clock', 0.024211694, u'coffee_mug', 0.021991882]
+[u'syringe', 0.48368841, u'lab_coat', 0.076400891, u'bubble', 0.072785184, u'stethoscope', 0.039243471, u'strainer', 0.01911635]

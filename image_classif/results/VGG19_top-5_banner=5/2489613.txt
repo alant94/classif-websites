@@ -1,0 +1,2 @@
+[u'screen', 0.061196044, u'television', 0.059805498, u'envelope', 0.056838628, u'monitor', 0.029989667, u'binder', 0.026330572]
+[u'iron', 0.10654606, u'microwave', 0.053683486, u'tray', 0.052111294, u'screen', 0.049172636, u'scale', 0.042040475]

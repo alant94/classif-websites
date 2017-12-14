@@ -1,0 +1,1 @@
+[u'hartebeest', 0.43513024, u'impala', 0.19889158, u'ibex', 0.19493346, u'gazelle', 0.079207972, u'bighorn', 0.019597776]

@@ -1,0 +1,2 @@
+[u'rule', 0.23778751, u'combination_lock', 0.060411744, u'cellular_telephone', 0.042294707, u'remote_control', 0.041925762, u'safety_pin', 0.034620769]
+[u'comic_book', 0.082385257, u'book_jacket', 0.062377308, u'packet', 0.061909713, u'kimono', 0.056453176, u'tray', 0.023339216]

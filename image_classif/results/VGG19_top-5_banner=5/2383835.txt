@@ -1,0 +1,1 @@
+[u'street_sign', 0.048153184, u'envelope', 0.046518229, u'traffic_light', 0.045023829, u'ice_lolly', 0.039662536, u'rapeseed', 0.032884393]

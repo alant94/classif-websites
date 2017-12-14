@@ -1,0 +1,4 @@
+[u'book_jacket', 0.12602854, u'barbershop', 0.11762229, u'cinema', 0.080133058, u'restaurant', 0.072649993, u'confectionery', 0.068586498]
+[u'wig', 0.41894802, u'book_jacket', 0.38093373, u'fur_coat', 0.070995577, u'hair_spray', 0.039499465, u'comic_book', 0.022299157]
+[u'ocarina', 0.73323298, u'hook', 0.018193142, u'wall_clock', 0.017321138, u'wooden_spoon', 0.014578782, u"carpenter's_kit", 0.014456751]
+[u'book_jacket', 0.66547239, u'shower_cap', 0.094489068, u'comic_book', 0.059537895, u'bathing_cap', 0.049696032, u'wig', 0.02374568]

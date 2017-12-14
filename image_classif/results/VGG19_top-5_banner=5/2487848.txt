@@ -1,0 +1,6 @@
+[u'lakeside', 0.40499699, u'canoe', 0.29777461, u'boathouse', 0.14278486, u'paddle', 0.025733884, u'valley', 0.015348608]
+[u'llama', 0.24194975, u'dhole', 0.17977881, u'sorrel', 0.14806688, u'red_wolf', 0.11408424, u'hartebeest', 0.06577757]
+[u'web_site', 0.11194717, u'syringe', 0.10014956, u'envelope', 0.052811835, u'analog_clock', 0.023895457, u'wall_clock', 0.023753759]
+[u'worm_fence', 0.36743188, u'park_bench', 0.10027561, u'apiary', 0.042108156, u'mobile_home', 0.024754381, u'barn', 0.022255104]
+[u'bighorn', 0.66309088, u'ram', 0.22195347, u'ibex', 0.079562977, u'bison', 0.014425546, u'warthog', 0.0046562259]
+[u'worm_fence', 0.17698286, u'megalith', 0.098195672, u'stone_wall', 0.083306834, u'park_bench', 0.080093279, u'mountain_tent', 0.078853957]

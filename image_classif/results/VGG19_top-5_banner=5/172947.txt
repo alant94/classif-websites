@@ -1,0 +1,2 @@
+[u'hair_spray', 0.083447158, u'book_jacket', 0.070571192, u'comic_book', 0.063924707, u'street_sign', 0.054552749, u'whistle', 0.039372392]
+[u'crossword_puzzle', 0.20109636, u'digital_clock', 0.1282147, u'scoreboard', 0.038480937, u'Band_Aid', 0.030839492, u'envelope', 0.030561322]

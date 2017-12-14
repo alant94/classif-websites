@@ -1,0 +1,5 @@
+[u'web_site', 0.073654957, u'envelope', 0.044563122, u'menu', 0.043120343, u'jersey', 0.016777029, u'book_jacket', 0.014894021]
+[u'digital_clock', 0.1848965, u'screen', 0.12910934, u'cash_machine', 0.085770123, u'monitor', 0.06691841, u'oscilloscope', 0.055986587]
+[u'wine_bottle', 0.2920267, u'rubber_eraser', 0.17865217, u'red_wine', 0.066681273, u'perfume', 0.055909522, u'matchstick', 0.045465954]
+[u'sarong', 0.10454053, u'conch', 0.079652973, u'butcher_shop', 0.075843967, u'swimming_trunks', 0.052020647, u'bikini', 0.041903496]
+[u'iron', 0.2249222, u'knot', 0.06183099, u'quill', 0.052019883, u'crate', 0.038165782, u'carton', 0.029314913]

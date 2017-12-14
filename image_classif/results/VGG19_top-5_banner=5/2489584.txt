@@ -1,0 +1,5 @@
+[u'cash_machine', 0.34726492, u'scoreboard', 0.072376117, u'digital_clock', 0.070738912, u'racket', 0.060535114, u'street_sign', 0.054938767]
+[u'cellular_telephone', 0.36247849, u'iPod', 0.30035138, u'hand-held_computer', 0.18536681, u'remote_control', 0.03445334, u'modem', 0.025571775]
+[u'cellular_telephone', 0.28625798, u'hand-held_computer', 0.16452654, u'television', 0.093643151, u'joystick', 0.062630989, u'iPod', 0.060583681]
+[u'computer_keyboard', 0.18837982, u'dishwasher', 0.138219, u'pick', 0.080185287, u'coffee_mug', 0.04784216, u'iPod', 0.04663568]
+[u'ocarina', 0.1148648, u"carpenter's_kit", 0.10841072, u'pencil_box', 0.058897492, u'rubber_eraser', 0.05792838, u'lighter', 0.052045528]

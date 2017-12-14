@@ -1,0 +1,4 @@
+[u'swab', 0.11981455, u'street_sign', 0.086587347, u'broom', 0.043229807, u'plunger', 0.02322557, u'laptop', 0.020042738]
+[u'hook', 0.060107745, u'web_site', 0.05451107, u'envelope', 0.037242018, u'analog_clock', 0.026044618, u'microphone', 0.024414886]
+[u'envelope', 0.32927817, u'tennis_ball', 0.097864658, u'racket', 0.069623515, u'nematode', 0.052505463, u'book_jacket', 0.049284328]
+[u'pill_bottle', 0.20288856, u'spotlight', 0.13186395, u'nipple', 0.087271109, u'can_opener', 0.056168281, u'cocktail_shaker', 0.040793832]

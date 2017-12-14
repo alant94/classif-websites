@@ -1,0 +1,6 @@
+[u'barbershop', 0.20892496, u'oscilloscope', 0.18534367, u'barn', 0.065545559, u'scoreboard', 0.059055392, u'book_jacket', 0.047309127]
+[u'ski', 0.13095547, u'chime', 0.11744729, u'picket_fence', 0.097570054, u'matchstick', 0.091353588, u'organ', 0.07865084]
+[u'envelope', 0.40298003, u'packet', 0.048885252, u'book_jacket', 0.048828896, u'perfume', 0.048683617, u'menu', 0.033849653]
+[u'bathing_cap', 0.16252902, u'bubble', 0.056792211, u'lipstick', 0.034440782, u'Band_Aid', 0.03429753, u'lighter', 0.032341361]
+[u'picket_fence', 0.22421309, u'coral_fungus', 0.072481208, u'swab', 0.050595477, u'hook', 0.046418969, u'book_jacket', 0.044076953]
+[u'web_site', 0.42764294, u'envelope', 0.20596246, u'binder', 0.023642126, u'book_jacket', 0.015906926, u'analog_clock', 0.014732042]

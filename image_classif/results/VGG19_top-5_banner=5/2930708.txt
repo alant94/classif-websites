@@ -1,0 +1,2 @@
+[u'handkerchief', 0.099787571, u'wool', 0.079053126, u'stole', 0.067591161, u'Windsor_tie', 0.061698709, u'bath_towel', 0.054638002]
+[u'web_site', 0.084328845, u'binder', 0.037811752, u'hair_spray', 0.034049179, u'book_jacket', 0.033245604, u'Band_Aid', 0.023084946]

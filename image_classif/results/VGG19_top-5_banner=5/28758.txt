@@ -1,0 +1,3 @@
+[u'jigsaw_puzzle', 0.22446075, u'crossword_puzzle', 0.1474888, u'envelope', 0.13449092, u'book_jacket', 0.088817738, u'handkerchief', 0.076247543]
+[u'analog_clock', 0.73507041, u'wall_clock', 0.24096595, u'barometer', 0.021178296, u'magnetic_compass', 0.0016148954, u'stopwatch', 0.00063041685]
+[u'cinema', 0.42094043, u'barbershop', 0.14319482, u'menu', 0.09244974, u'scoreboard', 0.080345012, u'book_jacket', 0.049500398]

@@ -1,0 +1,2 @@
+[u'balance_beam', 0.15748879, u'digital_clock', 0.10276756, u'oscilloscope', 0.065292262, u'envelope', 0.026348641, u'studio_couch', 0.024949009]
+[u'parachute', 0.1800916, u'bib', 0.095996842, u'face_powder', 0.095128417, u'whistle', 0.035835717, u'toilet_seat', 0.032891791]

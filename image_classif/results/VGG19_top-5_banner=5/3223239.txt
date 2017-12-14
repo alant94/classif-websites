@@ -1,0 +1,2 @@
+[u'swab', 0.27395469, u'hook', 0.09783823, u'broom', 0.048034966, u'web_site', 0.041445136, u'analog_clock', 0.032211591]
+[u'web_site', 0.09021052, u'golf_ball', 0.047448739, u'spotlight', 0.030583205, u'wig', 0.025871739, u'jellyfish', 0.025850136]

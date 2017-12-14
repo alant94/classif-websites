@@ -1,0 +1,5 @@
+[u'padlock', 0.18456891, u'swab', 0.17229246, u'fountain', 0.07234025, u'picket_fence', 0.056859571, u'ski', 0.035558421]
+[u'picket_fence', 0.13475141, u'lab_coat', 0.060280334, u'screwdriver', 0.051148281, u'chime', 0.049910117, u'spatula', 0.032652304]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'alp', 0.54891729, u'valley', 0.16031344, u'mountain_tent', 0.053959679, u'cliff', 0.032621875, u'volcano', 0.026471782]
+[u'ox', 0.13594836, u'plow', 0.1032802, u'oxcart', 0.071889594, u'water_buffalo', 0.059242215, u'English_foxhound', 0.030573681]

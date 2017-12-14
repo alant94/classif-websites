@@ -1,0 +1,2 @@
+[u'pot', 0.10397135, u'red_wine', 0.09453626, u'strawberry', 0.088871971, u"yellow_lady's_slipper", 0.052253932, u'pineapple', 0.046501946]
+[u'vase', 0.13406931, u'pot', 0.13149692, u'handkerchief', 0.075653322, u'hamper', 0.067444183, u'envelope', 0.043417189]

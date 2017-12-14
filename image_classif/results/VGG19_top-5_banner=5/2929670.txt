@@ -1,0 +1,4 @@
+[u'web_site', 0.75518364, u'digital_clock', 0.05018606, u'packet', 0.030618323, u'stopwatch', 0.027779916, u'face_powder', 0.01803479]
+[u'nail', 0.11327343, u'hook', 0.085211195, u'wall_clock', 0.075172558, u'mousetrap', 0.066925339, u'analog_clock', 0.061696425]
+[u'hook', 0.46268314, u'combination_lock', 0.16353254, u'nematode', 0.11603694, u'cornet', 0.036126822, u'buckle', 0.023593202]
+[u'rule', 0.49536839, u'nail', 0.22266994, u'hook', 0.033893179, u'plate_rack', 0.030071568, u'screwdriver', 0.017702954]

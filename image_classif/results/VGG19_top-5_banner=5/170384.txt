@@ -1,0 +1,5 @@
+[u'acoustic_guitar', 0.38320476, u'banjo', 0.22084521, u'electric_guitar', 0.097456299, u'cello', 0.056672215, u'marimba', 0.031046409]
+[u'acoustic_guitar', 0.92740828, u'electric_guitar', 0.029988768, u'microphone', 0.023113247, u'stage', 0.013742538, u'banjo', 0.0010529251]
+[u'library', 0.40339404, u'container_ship', 0.10059468, u'dining_table', 0.041089937, u'desk', 0.030141043, u'crane', 0.023776121]
+[u'violin', 0.083982222, u'electric_guitar', 0.06332887, u'bearskin', 0.056598868, u'power_drill', 0.044045731, u'banjo', 0.043801289]
+[u'fountain', 0.29970479, u'fireboat', 0.12900306, u'geyser', 0.061673559, u'library', 0.036904667, u'bookshop', 0.021672437]

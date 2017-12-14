@@ -1,0 +1,2 @@
+[u'bell_cote', 0.24984637, u'stupa', 0.10760474, u'necklace', 0.07154543, u'analog_clock', 0.051787715, u'iron', 0.028104553]
+[u'web_site', 0.1627811, u'menu', 0.044324156, u'Band_Aid', 0.028068667, u'book_jacket', 0.025121618, u'comic_book', 0.022761807]

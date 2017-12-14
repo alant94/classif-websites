@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.30251986, u'screen', 0.3017652, u'monitor', 0.13904299, u'television', 0.037652668, u'cash_machine', 0.022151396]
+[u'envelope', 0.22398371, u'bib', 0.049956769, u'rubber_eraser', 0.032851413, u'cleaver', 0.03064614, u'lipstick', 0.02374831]

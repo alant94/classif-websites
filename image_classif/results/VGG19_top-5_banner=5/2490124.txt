@@ -1,0 +1,6 @@
+[u'picket_fence', 0.18281908, u'screwdriver', 0.12249546, u'chime', 0.081819318, u'syringe', 0.077481158, u'paintbrush', 0.055220798]
+[u'swab', 0.74653459, u'broom', 0.1114905, u'screwdriver', 0.02066789, u'bath_towel', 0.010737023, u'quill', 0.0094298208]
+[u'drilling_platform', 0.53068805, u'crane', 0.46290964, u'fireboat', 0.0035124037, u'dock', 0.0012732748, u'container_ship', 0.00057820982]
+[u'sliding_door', 0.16030757, u'medicine_chest', 0.11687564, u'shower_curtain', 0.099764749, u'wardrobe', 0.050825048, u'wall_clock', 0.046572346]
+[u'chainlink_fence', 0.13097015, u'barn', 0.10873382, u'water_tower', 0.091795355, u'greenhouse', 0.051186718, u'beacon', 0.048027977]
+[u'chain_saw', 0.17438895, u'parachute', 0.17357385, u'reel', 0.049291857, u'cliff', 0.031433102, u'unicycle', 0.027782716]

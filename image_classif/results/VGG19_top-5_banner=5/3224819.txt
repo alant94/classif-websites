@@ -1,0 +1,7 @@
+[u'menu', 0.78490114, u'lampshade', 0.030586388, u'prayer_rug', 0.027766084, u'brass', 0.022074481, u'book_jacket', 0.013555455]
+[u'hook', 0.13698599, u'picket_fence', 0.12137906, u'crane', 0.10301828, u'chime', 0.076888792, u'suspension_bridge', 0.075450264]
+[u'toyshop', 0.64066243, u'bookshop', 0.063689314, u'confectionery', 0.062880106, u'comic_book', 0.037551831, u'Old_English_sheepdog', 0.019323759]
+[u'suit', 0.14173262, u'prison', 0.087057471, u'trench_coat', 0.044967894, u'academic_gown', 0.038243674, u'fur_coat', 0.03660268]
+[u'maraca', 0.62124205, u'ballpoint', 0.044803068, u'quill', 0.044320136, u'spatula', 0.04197963, u'screwdriver', 0.03795214]
+[u'broom', 0.1220354, u'breakwater', 0.098862812, u'syringe', 0.090155996, u'pole', 0.051541481, u'beacon', 0.029708937]
+[u'hook', 0.13698599, u'picket_fence', 0.12137906, u'crane', 0.10301828, u'chime', 0.076888792, u'suspension_bridge', 0.075450264]

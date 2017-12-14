@@ -1,0 +1,2 @@
+[u'matchstick', 0.094261117, u'lighter', 0.061603643, u'candle', 0.053402636, u'traffic_light', 0.036512911, u'monitor', 0.030753655]
+[u'vending_machine', 0.16210222, u'book_jacket', 0.10735566, u'cinema', 0.060640916, u'comic_book', 0.056299854, u'altar', 0.049937785]

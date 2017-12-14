@@ -1,0 +1,6 @@
+[u'harmonica', 0.31882143, u'ocarina', 0.1491044, u'flute', 0.10980059, u'violin', 0.043799229, u'stage', 0.029258274]
+[u'comic_book', 0.18263562, u'book_jacket', 0.095482863, u'tray', 0.045762528, u'shower_cap', 0.040657651, u'toyshop', 0.034026928]
+[u'tray', 0.032383371, u'espresso_maker', 0.022820232, u'bakery', 0.021902617, u'wok', 0.019925641, u'comic_book', 0.01833255]
+[u'stage', 0.78246945, u'steel_drum', 0.045403283, u'parallel_bars', 0.027641892, u'horizontal_bar', 0.027050074, u'drum', 0.01870599]
+[u'gorilla', 0.9904179, u'chimpanzee', 0.0059622875, u'orangutan', 0.0026966867, u'howler_monkey', 0.00065109937, u'siamang', 0.000100108]
+[u'comic_book', 0.65809768, u'book_jacket', 0.15159202, u'toyshop', 0.0171923, u'altar', 0.012424689, u'tray', 0.011781573]

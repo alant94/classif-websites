@@ -1,0 +1,5 @@
+[u'book_jacket', 0.15681057, u'analog_clock', 0.097687095, u'binder', 0.077107131, u'rule', 0.055990037, u'magnetic_compass', 0.053300694]
+[u'grand_piano', 0.99030471, u'upright', 0.0085419025, u'bassoon', 0.00036319482, u'harp', 0.00021940464, u'organ', 0.00012879254]
+[u'mobile_home', 0.30895808, u'boathouse', 0.08984524, u'recreational_vehicle', 0.054867089, u'garbage_truck', 0.036691569, u'gas_pump', 0.03562608]
+[u'suit', 0.49817657, u'vestment', 0.048339091, u'library', 0.030842615, u'academic_gown', 0.029684652, u'groom', 0.027445989]
+[u'restaurant', 0.3512809, u'cinema', 0.23444334, u'stage', 0.13670422, u'turnstile', 0.077775329, u'home_theater', 0.02567783]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.21773866, u'bath_towel', 0.18434171, u'barbershop', 0.064552329, u'diaper', 0.058666918, u'syringe', 0.026010085]

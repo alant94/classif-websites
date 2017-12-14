@@ -1,0 +1,7 @@
+[u'screwdriver', 0.10614228, u"carpenter's_kit", 0.066246472, u'spatula', 0.061468091, u'lighter', 0.0574359, u'perfume', 0.041997425]
+[u'sundial', 0.22836828, u'schooner', 0.1627806, u'church', 0.10124981, u'flagpole', 0.07152418, u'bell_cote', 0.057393301]
+[u'library', 0.21537955, u'cinema', 0.051224254, u'patio', 0.038787287, u'boathouse', 0.038459558, u'mobile_home', 0.02791122]
+[u'picket_fence', 0.22424492, u'church', 0.16152711, u'greenhouse', 0.083966993, u'flagpole', 0.050819077, u'boathouse', 0.037114777]
+[u'castle', 0.84241742, u'palace', 0.081746548, u'church', 0.027945612, u'monastery', 0.020356923, u'bell_cote', 0.0071445755]
+[u'web_site', 0.14066002, u'envelope', 0.094428048, u'matchstick', 0.034496956, u'lighter', 0.026666055, u'rule', 0.02131746]
+[u'church', 0.46131748, u'bell_cote', 0.25255799, u'flagpole', 0.060659889, u'castle', 0.037299193, u'tile_roof', 0.0312979]

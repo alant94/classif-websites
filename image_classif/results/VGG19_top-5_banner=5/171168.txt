@@ -1,0 +1,2 @@
+[u'picket_fence', 0.20894648, u'candle', 0.0985604, u'syringe', 0.045969933, u'container_ship', 0.03846487, u'chime', 0.032551061]
+[u'butcher_shop', 0.84544718, u'web_site', 0.048707042, u'cleaver', 0.010848946, u'wig', 0.0097077247, u'book_jacket', 0.0089964941]

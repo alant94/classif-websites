@@ -1,0 +1,6 @@
+[u'puck', 0.64466166, u'wall_clock', 0.065300509, u'analog_clock', 0.050091114, u'pick', 0.028045692, u'face_powder', 0.027252201]
+[u'digital_clock', 0.25353459, u'scoreboard', 0.13643275, u'analog_clock', 0.041411895, u'book_jacket', 0.031743683, u'web_site', 0.028464124]
+[u'golf_ball', 0.4074133, u'ping-pong_ball', 0.24549729, u'face_powder', 0.06502147, u'pill_bottle', 0.029559553, u'baseball', 0.025723493]
+[u'street_sign', 0.048865579, u'hook', 0.031921573, u'web_site', 0.023237007, u'nail', 0.022943005, u'folding_chair', 0.017987257]
+[u'web_site', 0.17124985, u'digital_clock', 0.071700461, u'envelope', 0.041092478, u'analog_clock', 0.030875402, u'tennis_ball', 0.017628986]
+[u"carpenter's_kit", 0.14617507, u'hook', 0.057448477, u'whistle', 0.050895024, u'combination_lock', 0.050768718, u'screwdriver', 0.03341661]

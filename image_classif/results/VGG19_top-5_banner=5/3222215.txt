@@ -1,0 +1,4 @@
+[u'airship', 0.12207456, u'rugby_ball', 0.10393823, u'can_opener', 0.05224897, u'envelope', 0.033700868, u'hair_slide', 0.028333478]
+[u'coil', 0.21983257, u'steel_arch_bridge', 0.18762991, u'paddlewheel', 0.11775872, u'bubble', 0.06387531, u'pinwheel', 0.035598837]
+[u'snorkel', 0.29548496, u'coral_reef', 0.14506012, u'swimming_trunks', 0.080401264, u'cliff', 0.071899667, u'torch', 0.062363643]
+[u'lakeside', 0.1128788, u'mountain_bike', 0.062845543, u'maze', 0.042781249, u'seashore', 0.041046266, u'swimming_trunks', 0.029511051]

@@ -1,0 +1,7 @@
+[u'picket_fence', 0.080983341, u'envelope', 0.036594819, u'pill_bottle', 0.028853906, u'paper_towel', 0.019811688, u'brassiere', 0.019438282]
+[u'seashore', 0.30451879, u'crane', 0.14093065, u'lakeside', 0.097467899, u'breakwater', 0.08164113, u'beacon', 0.065388381]
+[u'military_uniform', 0.39592811, u'German_short-haired_pointer', 0.097478449, u'hartebeest', 0.064001769, u'megalith', 0.047775198, u'pajama', 0.015767094]
+[u'coho', 0.2197874, u'stone_wall', 0.17349082, u'barracouta', 0.097226761, u'ear', 0.092108741, u'corn', 0.06837672]
+[u'Scottish_deerhound', 0.06912566, u'mobile_home', 0.053810995, u'Bouvier_des_Flandres', 0.042115822, u'megalith', 0.031758387, u'Afghan_hound', 0.031102929]
+[u'military_uniform', 0.1994528, u'megalith', 0.063242503, u'fur_coat', 0.045899063, u'stretcher', 0.043298211, u'butcher_shop', 0.029305056]
+[u'African_hunting_dog', 0.16428368, u'assault_rifle', 0.10895011, u'military_uniform', 0.061327089, u'mountain_bike', 0.034623116, u'bulletproof_vest', 0.033639502]

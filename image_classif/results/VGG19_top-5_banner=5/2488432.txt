@@ -1,0 +1,3 @@
+[u'envelope', 0.11512874, u'hammerhead', 0.082155548, u'jigsaw_puzzle', 0.062686406, u'pillow', 0.053483699, u'bib', 0.032133322]
+[u'fountain', 0.17744993, u'coral_reef', 0.079857416, u'stole', 0.077624813, u'poncho', 0.070933484, u'wool', 0.05951003]
+[u'fountain', 0.9873181, u'breakwater', 0.0017982146, u'killer_whale', 0.0015980829, u'lakeside', 0.0011756159, u'geyser', 0.00073387934]

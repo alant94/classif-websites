@@ -1,0 +1,7 @@
+[u'stethoscope', 0.90447015, u'lab_coat', 0.049665511, u'pajama', 0.0057387045, u'notebook', 0.004622201, u'apron', 0.0037607537]
+[u'web_site', 0.30409095, u'quill', 0.042962044, u'hook', 0.029505804, u'analog_clock', 0.022546185, u'rule', 0.020684602]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'garbage_truck', 0.47411314, u'stretcher', 0.16058594, u'photocopier', 0.055578098, u'projectile', 0.030548243, u'warplane', 0.025199741]
+[u'container_ship', 0.53534472, u'lotion', 0.023051111, u'pill_bottle', 0.02116124, u'balloon', 0.02006886, u'mosque', 0.013656029]
+[u'barbershop', 0.085822456, u'wig', 0.03386889, u'notebook', 0.033015464, u"potter's_wheel", 0.03215817, u'laptop', 0.02955403]
+[u'stethoscope', 0.99910271, u'nipple', 0.00021029236, u'lab_coat', 7.032173e-05, u'oxygen_mask', 4.3010637e-05, u'whistle', 4.263598e-05]

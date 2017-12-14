@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.14058593, u'book_jacket', 0.11348984, u'brassiere', 0.060048688, u'barbershop', 0.049396545, u'shower_cap', 0.041840378]
+[u'digital_clock', 0.54765809, u'oscilloscope', 0.092290297, u'screen', 0.049881171, u'cinema', 0.04084545, u'stage', 0.036441367]

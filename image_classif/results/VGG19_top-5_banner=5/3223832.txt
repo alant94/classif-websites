@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.17984594, u'picket_fence', 0.092233293, u'theater_curtain', 0.06302163, u'lakeside', 0.028688913, u'window_shade', 0.021134792]
+[u'picket_fence', 0.35363001, u'seashore', 0.094955467, u'lakeside', 0.08781635, u'cliff', 0.073390245, u'promontory', 0.058734987]
+[u'church', 0.54307288, u'vault', 0.18215157, u'bell_cote', 0.13910085, u'monastery', 0.055875983, u'dome', 0.027214695]
+[u'oscilloscope', 0.73289096, u'matchstick', 0.13787131, u'picket_fence', 0.015989888, u'digital_clock', 0.012330702, u'web_site', 0.009099341]

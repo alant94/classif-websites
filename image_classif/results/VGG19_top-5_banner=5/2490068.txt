@@ -1,0 +1,4 @@
+[u'coral_fungus', 0.8245551, u'gyromitra', 0.038807012, u'hen-of-the-woods', 0.030753775, u'bolete', 0.0089593595, u'mushroom', 0.0080035925]
+[u'hartebeest', 0.21732956, u'gazelle', 0.20173115, u'warthog', 0.14514859, u'impala', 0.11404725, u'zebra', 0.10878086]
+[u'gazelle', 0.71739715, u'plow', 0.082050636, u'ibex', 0.046199374, u'llama', 0.039205942, u'ox', 0.038304642]
+[u'hyena', 0.18119021, u'African_hunting_dog', 0.14022461, u'gazelle', 0.12504789, u'dhole', 0.098607376, u'Arabian_camel', 0.075117834]

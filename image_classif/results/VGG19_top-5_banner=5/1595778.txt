@@ -1,0 +1,6 @@
+[u'tub', 0.17764787, u'bikini', 0.15420543, u'sunscreen', 0.1421911, u'bathtub', 0.095972493, u'brassiere', 0.067280561]
+[u'bathtub', 0.30391255, u'Band_Aid', 0.13842949, u'tub', 0.10695095, u'ocarina', 0.030077333, u'bath_towel', 0.026961414]
+[u'tub', 0.65998876, u'bathtub', 0.27003351, u'fur_coat', 0.023272583, u'bikini', 0.013929402, u'bath_towel', 0.0048408774]
+[u'water_tower', 0.095346831, u'viaduct', 0.066655651, u'pier', 0.037527721, u'geyser', 0.037058104, u'pedestal', 0.035226841]
+[u'plunger', 0.64503211, u'barbell', 0.10676929, u'dumbbell', 0.05132813, u'brassiere', 0.023996929, u'toilet_seat', 0.010376941]
+[u'tub', 0.49903473, u'bathtub', 0.36934894, u'bikini', 0.051889498, u'maillot', 0.019063337, u'bath_towel', 0.015444925]

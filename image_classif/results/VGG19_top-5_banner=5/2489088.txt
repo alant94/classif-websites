@@ -1,0 +1,2 @@
+[u'hook', 0.1968144, u'nail', 0.15265091, u'nematode', 0.13494052, u'hatchet', 0.063562319, u'rocking_chair', 0.048719116]
+[u'gazelle', 0.7264753, u'impala', 0.11450973, u'hartebeest', 0.088693336, u'ibex', 0.028623393, u'llama', 0.0077148443]

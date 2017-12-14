@@ -1,0 +1,6 @@
+[u'hotdog', 0.24781597, u'plate', 0.075907111, u'fig', 0.071959853, u'cockroach', 0.052376531, u'packet', 0.05143318]
+[u'hamper', 0.27976805, u'padlock', 0.16947621, u'paintbrush', 0.13916171, u'packet', 0.13018963, u'chain_saw', 0.027987093]
+[u'ice_cream', 0.27077863, u'ice_lolly', 0.15206379, u'bell_pepper', 0.093666084, u'cucumber', 0.074789152, u'broccoli', 0.03560375]
+[u'street_sign', 0.063587539, u'comic_book', 0.042322457, u'coffee_mug', 0.035597827, u'sweatshirt', 0.031803731, u'book_jacket', 0.023132257]
+[u'broccoli', 0.097193055, u'plate', 0.085804515, u'meat_loaf', 0.060286846, u'ice_cream', 0.059110563, u'conch', 0.056196306]
+[u'eggnog', 0.30106696, u'Christmas_stocking', 0.12243462, u'lotion', 0.1159744, u'hamper', 0.051671695, u'packet', 0.049782973]

@@ -1,0 +1,2 @@
+[u'web_site', 0.17260173, u'envelope', 0.12640373, u'cleaver', 0.010420102, u'rule', 0.010100166, u'quill', 0.0093215527]
+[u'Arabian_camel', 0.97848344, u'impala', 0.0092167016, u'gazelle', 0.0066257333, u'llama', 0.0023517441, u'hartebeest', 0.0012826503]

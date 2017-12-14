@@ -1,0 +1,5 @@
+[u'bottlecap', 0.59973663, u'digital_clock', 0.097355165, u'lens_cap', 0.037986085, u'digital_watch', 0.021153696, u'baseball', 0.018829636]
+[u'book_jacket', 0.2034217, u'web_site', 0.086427674, u'street_sign', 0.059178285, u'comic_book', 0.042677626, u'envelope', 0.034829173]
+[u'container_ship', 0.3142927, u'airship', 0.11951661, u'jigsaw_puzzle', 0.05877329, u'digital_clock', 0.023147345, u'space_shuttle', 0.022098137]
+[u'rapeseed', 0.5997659, u'alp', 0.12427077, u'barn', 0.046955843, u'valley', 0.04391361, u'lakeside', 0.024311608]
+[u'container_ship', 0.24334516, u'monitor', 0.071356229, u'beacon', 0.05010689, u'digital_clock', 0.038262721, u'screen', 0.030839724]

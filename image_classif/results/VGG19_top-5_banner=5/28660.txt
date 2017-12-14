@@ -1,0 +1,5 @@
+[u'digital_clock', 0.092862383, u'envelope', 0.084898308, u'web_site', 0.08451999, u'wall_clock', 0.039867252, u'Band_Aid', 0.025769033]
+[u'chime', 0.50293624, u'binder', 0.12156175, u'marimba', 0.061853807, u'crib', 0.045182794, u'prison', 0.028807683]
+[u'chime', 0.65079248, u'organ', 0.20712529, u'binder', 0.039960686, u'pencil_box', 0.01000978, u'screwdriver', 0.009755196]
+[u'binder', 0.20097756, u'crib', 0.12566867, u'organ', 0.11263879, u'theater_curtain', 0.078937046, u'picket_fence', 0.037463978]
+[u'rule', 0.061249498, u'shower_curtain', 0.059066933, u'shopping_basket', 0.05749508, u'prison', 0.052421208, u'digital_clock', 0.049099423]

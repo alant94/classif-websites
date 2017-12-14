@@ -1,0 +1,2 @@
+[u'packet', 0.47799307, u'web_site', 0.10720391, u'lotion', 0.095617577, u'book_jacket', 0.090434588, u'sunscreen', 0.03990224]
+[u'monitor', 0.33262289, u'web_site', 0.17507027, u'oscilloscope', 0.12347442, u'screen', 0.12053502, u'desktop_computer', 0.064393885]

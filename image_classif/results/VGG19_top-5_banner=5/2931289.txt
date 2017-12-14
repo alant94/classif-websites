@@ -1,0 +1,7 @@
+[u'coil', 0.53466183, u'chain', 0.09877298, u'safety_pin', 0.050152279, u'bottlecap', 0.025074121, u'combination_lock', 0.023430029]
+[u'jean', 0.056479279, u'ear', 0.049875457, u'rapeseed', 0.045717992, u'corn', 0.043476887, u'cardigan', 0.025809921]
+[u'chime', 0.16114987, u'panpipe', 0.057816718, u'spatula', 0.035467565, u'crib', 0.033230998, u'cleaver', 0.032012511]
+[u'binder', 0.24353345, u'lighter', 0.1285096, u'hard_disc', 0.086150639, u'perfume', 0.084070414, u'letter_opener', 0.050685354]
+[u'marimba', 0.38002086, u'crutch', 0.031910926, u'miniskirt', 0.025361277, u'drumstick', 0.02259106, u'oboe', 0.018833874]
+[u'stethoscope', 0.19831172, u'iPod', 0.17137571, u'cellular_telephone', 0.068607025, u'notebook', 0.052346155, u'remote_control', 0.048940692]
+[u'chime', 0.25138542, u'spatula', 0.091755651, u'cleaver', 0.072559431, u'crib', 0.024996527, u'panpipe', 0.024648109]

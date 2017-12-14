@@ -1,0 +1,5 @@
+[u'wig', 0.17550291, u'neck_brace', 0.12748325, u'bow_tie', 0.10371789, u'suit', 0.076454975, u'hair_spray', 0.055240192]
+[u'ballpoint', 0.14729755, u'screwdriver', 0.13488594, u"carpenter's_kit", 0.076476485, u'rule', 0.068282463, u'rubber_eraser', 0.042552263]
+[u'envelope', 0.14851834, u'shower_curtain', 0.11158805, u'crib', 0.075558141, u'maze', 0.068792202, u'binder', 0.06206657]
+[u'scoreboard', 0.80258656, u'digital_clock', 0.022209294, u'traffic_light', 0.011706857, u'barbershop', 0.01168597, u'swab', 0.010774535]
+[u'ballpoint', 0.39864066, u'screwdriver', 0.11579175, u'chime', 0.058264021, u'paintbrush', 0.056291349, u"carpenter's_kit", 0.053451333]

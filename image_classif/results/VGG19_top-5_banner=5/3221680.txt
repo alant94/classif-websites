@@ -1,0 +1,8 @@
+[u'bassoon', 0.19631849, u'hook', 0.17828831, u'wardrobe', 0.10663415, u'medicine_chest', 0.067417137, u'screwdriver', 0.042664018]
+[u'notebook', 0.15915456, u'waffle_iron', 0.086370319, u'hand-held_computer', 0.079453863, u'scale', 0.07826525, u'modem', 0.075752169]
+[u'spotlight', 0.24249516, u'umbrella', 0.1019269, u'swing', 0.073445961, u'tripod', 0.058585081, u'lampshade', 0.045898564]
+[u'mortarboard', 0.27606124, u'academic_gown', 0.078025348, u'flagpole', 0.059994087, u'umbrella', 0.056805134, u'totem_pole', 0.040264953]
+[u'church', 0.44284537, u'barn', 0.40694669, u'monastery', 0.015328551, u'bell_cote', 0.012882429, u'boathouse', 0.010758603]
+[u'matchstick', 0.91624922, u'candle', 0.045744918, u'torch', 0.020344051, u'lighter', 0.0162306, u'flagpole', 0.00022435572]
+[u'acorn', 0.092131525, u'hummingbird', 0.078159884, u'robin', 0.070850357, u'monarch', 0.06147138, u'hip', 0.049535017]
+[u'lampshade', 0.21617256, u'wardrobe', 0.18860123, u'table_lamp', 0.082880057, u'refrigerator', 0.042838145, u'file', 0.038493216]

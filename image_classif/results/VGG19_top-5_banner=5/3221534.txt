@@ -1,0 +1,7 @@
+[u'shield', 0.64556265, u'Christmas_stocking', 0.079064727, u'lampshade', 0.062448613, u'mask', 0.058912799, u'toilet_seat', 0.03762459]
+[u'shoji', 0.1479947, u'window_shade', 0.081205383, u'shower_curtain', 0.074471146, u'fire_screen', 0.062236682, u'sliding_door', 0.058114208]
+[u'envelope', 0.20854126, u'shower_curtain', 0.13959567, u'digital_clock', 0.10444938, u'wall_clock', 0.049694497, u'quilt', 0.034262154]
+[u'altar', 0.834822, u'church', 0.084970288, u'vault', 0.025327085, u'organ', 0.018019037, u'throne', 0.012873156]
+[u'envelope', 0.21052057, u'web_site', 0.16195016, u'binder', 0.038783908, u'book_jacket', 0.034884837, u'rule', 0.029192243]
+[u'plastic_bag', 0.32868558, u'carton', 0.13871218, u'packet', 0.094646096, u'book_jacket', 0.072494976, u'shower_curtain', 0.035873331]
+[u'envelope', 0.28455445, u'web_site', 0.19067271, u'analog_clock', 0.023054164, u'binder', 0.015307019, u'rule', 0.013269356]

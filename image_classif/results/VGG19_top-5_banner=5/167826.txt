@@ -1,0 +1,6 @@
+[u'suit', 0.16532956, u'trench_coat', 0.046513002, u'academic_gown', 0.032457653, u'mortarboard', 0.032006733, u'cellular_telephone', 0.029087806]
+[u'stage', 0.3079347, u'electric_guitar', 0.15886912, u'marimba', 0.10487957, u'gong', 0.049930684, u'butcher_shop', 0.049767908]
+[u'golf_ball', 0.084029399, u'suit', 0.055610929, u'rapeseed', 0.041405868, u'German_shepherd', 0.034550924, u'unicycle', 0.02370712]
+[u'book_jacket', 0.59975761, u'web_site', 0.023345722, u'beacon', 0.020408586, u'street_sign', 0.017244691, u'geyser', 0.01288967]
+[u'jersey', 0.99941742, u'sweatshirt', 0.00037625319, u'maillot', 0.00018530758, u'abaya', 4.471668e-06, u'velvet', 3.3874819e-06]
+[u'radio_telescope', 0.26804987, u'airship', 0.082235865, u'lakeside', 0.072487473, u'seashore', 0.070810869, u'liner', 0.042136252]

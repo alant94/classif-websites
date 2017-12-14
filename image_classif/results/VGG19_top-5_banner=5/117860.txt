@@ -1,0 +1,2 @@
+[u'slot', 0.46699616, u'vending_machine', 0.10419119, u"carpenter's_kit", 0.084355518, u'cinema', 0.036292657, u'lighter', 0.02409241]
+[u'tank', 0.34080598, u'projectile', 0.25318098, u'missile', 0.097754359, u'cannon', 0.08938548, u'warplane', 0.021407982]

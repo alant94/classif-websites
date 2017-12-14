@@ -1,0 +1,5 @@
+[u'envelope', 0.97506678, u'binder', 0.0083289966, u'carton', 0.0057042446, u'umbrella', 0.0011143861, u'rubber_eraser', 0.00057574437]
+[u'switch', 0.27532613, u'digital_clock', 0.10759164, u'combination_lock', 0.052838676, u'analog_clock', 0.035665069, u'cash_machine', 0.026612038]
+[u'street_sign', 0.16812743, u'traffic_light', 0.066277549, u'digital_clock', 0.040361572, u'analog_clock', 0.019146584, u'balloon', 0.018282739]
+[u'bald_eagle', 0.2044511, u'jellyfish', 0.090043932, u'vulture', 0.063176371, u'sulphur-crested_cockatoo', 0.045748517, u'American_egret', 0.034732495]
+[u'picket_fence', 0.33460891, u'candle', 0.26893428, u'matchstick', 0.053616747, u'space_shuttle', 0.053511851, u'chime', 0.015164292]

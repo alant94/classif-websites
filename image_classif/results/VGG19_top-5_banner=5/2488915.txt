@@ -1,0 +1,5 @@
+[u'banjo', 0.2188749, u'cowboy_hat', 0.20659199, u'sombrero', 0.075196356, u'cornet', 0.047719873, u'sax', 0.040136807]
+[u'sleeping_bag', 0.089307263, u'military_uniform', 0.078761615, u'stretcher', 0.069870479, u'snowmobile', 0.045971569, u'rifle', 0.035862498]
+[u'military_uniform', 0.36194831, u'African_hunting_dog', 0.074352331, u'assault_rifle', 0.062524475, u'stretcher', 0.05229282, u'half_track', 0.030531382]
+[u'envelope', 0.19780889, u'comic_book', 0.15824817, u'carton', 0.12994875, u'bobsled', 0.074712224, u'washer', 0.067875527]
+[u'envelope', 0.19822606, u'digital_clock', 0.13228323, u'Windsor_tie', 0.05969058, u'wall_clock', 0.047896016, u'prayer_rug', 0.043229382]

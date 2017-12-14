@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.96837932, u'digital_clock', 0.014338302, u'traffic_light', 0.0039512091, u'matchstick', 0.0028234089, u'screen', 0.0022080645]
+[u'bow_tie', 0.58807629, u'suit', 0.078063816, u'accordion', 0.018440928, u'cleaver', 0.016555119, u'microphone', 0.014781429]

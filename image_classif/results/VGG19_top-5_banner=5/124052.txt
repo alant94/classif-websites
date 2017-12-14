@@ -1,0 +1,1 @@
+[u'pick', 0.095551275, u'book_jacket', 0.060498025, u"jack-o'-lantern", 0.057720024, u'microphone', 0.042960897, u'odometer', 0.036699422]

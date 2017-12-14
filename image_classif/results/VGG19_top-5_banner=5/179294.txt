@@ -1,0 +1,7 @@
+[u'oscilloscope', 0.34468931, u'web_site', 0.23189905, u'monitor', 0.20345612, u'screen', 0.19502118, u'laptop', 0.0091631385]
+[u'slide_rule', 0.39944023, u'rule', 0.37092146, u'web_site', 0.090099365, u'menu', 0.042877655, u'binder', 0.013368494]
+[u'rule', 0.2855773, u'menu', 0.18643418, u'envelope', 0.14194247, u'web_site', 0.092496999, u'binder', 0.084757634]
+[u'suit', 0.27252305, u'bassoon', 0.11430143, u'oboe', 0.097264081, u'Windsor_tie', 0.055182181, u'cello', 0.033692278]
+[u'street_sign', 0.19091652, u'analog_clock', 0.14697857, u'hook', 0.056166861, u'nail', 0.051204711, u'digital_clock', 0.035613757]
+[u'oscilloscope', 0.77263987, u'crane', 0.13083538, u'rule', 0.023286222, u'suspension_bridge', 0.015093271, u'nematode', 0.014959442]
+[u'oscilloscope', 0.70775568, u'web_site', 0.10945967, u'hand-held_computer', 0.033786297, u'screen', 0.033183593, u'monitor', 0.024188729]

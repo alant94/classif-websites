@@ -1,0 +1,1 @@
+[u'birdhouse', 0.6495887, u'pencil_sharpener', 0.089044459, u'mask', 0.037340663, u'wall_clock', 0.025917618, u'bolo_tie', 0.022016689]

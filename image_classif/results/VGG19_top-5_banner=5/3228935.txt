@@ -1,0 +1,5 @@
+[u'sliding_door', 0.15988028, u'refrigerator', 0.15590477, u'table_lamp', 0.058726825, u'pole', 0.029324371, u'wardrobe', 0.028629232]
+[u'web_site', 0.59003782, u'book_jacket', 0.076645143, u'fire_screen', 0.074622802, u'envelope', 0.069532625, u'screen', 0.028301334]
+[u'vestment', 0.23300047, u'altar', 0.16513717, u'marimba', 0.06284333, u'balance_beam', 0.061561156, u'lab_coat', 0.035069615]
+[u'steel_drum', 0.064851411, u'groom', 0.063403465, u'hair_spray', 0.040889826, u'barbershop', 0.034149222, u'bow_tie', 0.029045902]
+[u'web_site', 0.60144681, u'menu', 0.16806893, u'book_jacket', 0.023413405, u'packet', 0.016961342, u'television', 0.012921802]

@@ -1,0 +1,1 @@
+[u'wallet', 0.19360994, u'doormat', 0.14461134, u'book_jacket', 0.14177644, u'binder', 0.091929503, u'tray', 0.06510745]

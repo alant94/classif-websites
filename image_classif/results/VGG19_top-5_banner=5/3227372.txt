@@ -1,0 +1,5 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'matchstick', 0.34837979, u'swab', 0.061594162, u'web_site', 0.053998295, u'broom', 0.050627142, u'paintbrush', 0.049413893]
+[u'crane', 0.45319781, u'fountain', 0.18784285, u'drilling_platform', 0.046623174, u'pole', 0.043649014, u'dock', 0.037953239]
+[u'barbershop', 0.19569492, u'vending_machine', 0.18257393, u'tobacco_shop', 0.16406937, u'cinema', 0.13820678, u'cash_machine', 0.081815101]
+[u'punching_bag', 0.28546387, u'balloon', 0.21370165, u'football_helmet', 0.1083573, u'crash_helmet', 0.099289082, u'vase', 0.064553149]

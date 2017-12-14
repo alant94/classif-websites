@@ -1,0 +1,6 @@
+[u'web_site', 0.94609213, u'can_opener', 0.012130605, u'iron', 0.0071469555, u'hand_blower', 0.0051282374, u'whistle', 0.0034341048]
+[u'digital_clock', 0.25169298, u'web_site', 0.060810689, u'street_sign', 0.052580006, u'hair_spray', 0.033267748, u'sunscreen', 0.024218999]
+[u'web_site', 0.95665771, u'can_opener', 0.012487477, u'hand_blower', 0.0060487161, u'iron', 0.0049683545, u'whistle', 0.0034312343]
+[u'web_site', 0.49014327, u'cash_machine', 0.063860036, u'analog_clock', 0.053257849, u'screen', 0.02231027, u'spotlight', 0.015984738]
+[u'screwdriver', 0.11581893, u'medicine_chest', 0.091280706, u'chime', 0.077904865, u'barbershop', 0.056103859, u"carpenter's_kit", 0.048788663]
+[u'digital_clock', 0.36182344, u'scoreboard', 0.25965083, u'oscilloscope', 0.023154823, u'cinema', 0.019729434, u'web_site', 0.019134454]

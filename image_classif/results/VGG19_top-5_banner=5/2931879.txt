@@ -1,0 +1,2 @@
+[u'hook', 0.40638238, u'safety_pin', 0.36489564, u'buckle', 0.06342756, u'pencil_sharpener', 0.026948459, u'rule', 0.019366851]
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]

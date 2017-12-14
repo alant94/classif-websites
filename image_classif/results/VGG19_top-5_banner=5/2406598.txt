@@ -1,0 +1,1 @@
+[u'fountain', 0.25344062, u'suspension_bridge', 0.13834102, u'viaduct', 0.13217938, u'steel_arch_bridge', 0.080956765, u'lakeside', 0.043034371]

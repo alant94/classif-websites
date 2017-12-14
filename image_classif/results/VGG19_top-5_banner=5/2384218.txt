@@ -1,0 +1,1 @@
+[u'picket_fence', 0.080983341, u'envelope', 0.036594819, u'pill_bottle', 0.028853906, u'paper_towel', 0.019811688, u'brassiere', 0.019438282]

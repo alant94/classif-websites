@@ -1,0 +1,2 @@
+[u'broom', 0.6253376, u'paintbrush', 0.34173188, u'hamper', 0.020359198, u'hair_slide', 0.002018336, u'Christmas_stocking', 0.0019686918]
+[u'American_alligator', 0.19769727, u'African_crocodile', 0.17121433, u'warthog', 0.15962783, u'ibex', 0.10107639, u'common_iguana', 0.048288938]

@@ -1,0 +1,2 @@
+[u'miniskirt', 0.044456489, u"potter's_wheel", 0.043502841, u'apron', 0.03200417, u'crossword_puzzle', 0.029169822, u'grand_piano', 0.02719038]
+[u'neck_brace', 0.16834369, u'limousine', 0.078721166, u'lab_coat', 0.054670658, u'military_uniform', 0.046914611, u'crutch', 0.029629238]

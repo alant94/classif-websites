@@ -1,0 +1,3 @@
+[u'binder', 0.50624657, u'wallet', 0.38905066, u'accordion', 0.015340496, u'Band_Aid', 0.011936008, u'packet', 0.011652197]
+[u'wallet', 0.40735722, u'hair_slide', 0.10600908, u'corkscrew', 0.082363591, u'harmonica', 0.059649736, u'lighter', 0.046649404]
+[u'lighter', 0.13547429, u'wallet', 0.12489288, u'Band_Aid', 0.10150514, u'packet', 0.082429729, u'binder', 0.060055442]

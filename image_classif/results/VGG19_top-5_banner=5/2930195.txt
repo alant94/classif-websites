@@ -1,0 +1,2 @@
+[u'ballpoint', 0.39513564, u'screwdriver', 0.051716708, u'rubber_eraser', 0.049677547, u'matchstick', 0.03737323, u'binder', 0.034759719]
+[u'puck', 0.3891677, u'book_jacket', 0.1573272, u'pick', 0.073411785, u'shield', 0.034012865, u'analog_clock', 0.030003395]

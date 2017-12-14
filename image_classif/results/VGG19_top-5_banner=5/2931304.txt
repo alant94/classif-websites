@@ -1,0 +1,2 @@
+[u'web_site', 0.63808411, u'screwdriver', 0.052622065, u'hook', 0.036018349, u'rule', 0.02064006, u"carpenter's_kit", 0.018244056]
+[u'candle', 0.13318066, u'picket_fence', 0.091824442, u'ice_lolly', 0.047584202, u'spotlight', 0.031479578, u'wing', 0.030788751]

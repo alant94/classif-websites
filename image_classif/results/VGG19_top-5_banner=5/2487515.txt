@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.1363562, u'shower_curtain', 0.13248762, u'waffle_iron', 0.068579048, u'computer_keyboard', 0.028343651, u'maze', 0.022964161]
+[u'abaya', 0.092004016, u'backpack', 0.080556646, u'wallet', 0.066143684, u'crash_helmet', 0.035242636, u'Polaroid_camera', 0.030082505]
+[u'maze', 0.16772433, u'handkerchief', 0.034983464, u'dining_table', 0.031456903, u'prayer_rug', 0.023776507, u'crossword_puzzle', 0.020087972]

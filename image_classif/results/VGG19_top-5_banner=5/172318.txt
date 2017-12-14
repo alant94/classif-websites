@@ -1,0 +1,1 @@
+[u'ballpoint', 0.23275925, u'nail', 0.18174721, u'chime', 0.17311522, u'paintbrush', 0.079678468, u'screwdriver', 0.072393328]

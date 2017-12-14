@@ -1,0 +1,3 @@
+[u'academic_gown', 0.18045896, u'mortarboard', 0.10709403, u'drumstick', 0.031906165, u'sombrero', 0.031722091, u'ballplayer', 0.026305197]
+[u'web_site', 0.66633028, u'space_heater', 0.018565817, u'menu', 0.016744953, u'comic_book', 0.01480618, u'book_jacket', 0.013874138]
+[u'scoreboard', 0.29402411, u'book_jacket', 0.063357033, u'digital_clock', 0.058768857, u'barbershop', 0.058582209, u'digital_watch', 0.033888213]

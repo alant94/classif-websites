@@ -1,0 +1,1 @@
+[u'book_jacket', 0.13480158, u"carpenter's_kit", 0.13448159, u'comic_book', 0.056452479, u'screwdriver', 0.055196375, u'packet', 0.04212923]

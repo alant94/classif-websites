@@ -1,0 +1,2 @@
+[u'envelope', 0.28136393, u'web_site', 0.1588416, u'hook', 0.032679088, u'microphone', 0.023933364, u'flagpole', 0.019420953]
+[u'toilet_seat', 0.23448156, u'wall_clock', 0.19158426, u'jigsaw_puzzle', 0.080824688, u'shower_cap', 0.077565908, u'mask', 0.037324034]

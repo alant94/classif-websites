@@ -1,0 +1,5 @@
+[u'safe', 0.10152713, u'medicine_chest', 0.064424098, u'scale', 0.061646301, u'binder', 0.040192518, u'wardrobe', 0.038953379]
+[u'crib', 0.65781713, u'envelope', 0.072856672, u'carton', 0.051235173, u'binder', 0.028562229, u'digital_clock', 0.020836575]
+[u'envelope', 0.25067618, u'monitor', 0.22235659, u'digital_clock', 0.089585558, u'safe', 0.084706187, u'screen', 0.060445692]
+[u'pier', 0.54630691, u'viaduct', 0.086233579, u'umbrella', 0.026030863, u'boathouse', 0.021018604, u'barn', 0.020455468]
+[u'digital_clock', 0.12624274, u'safe', 0.12255813, u'scale', 0.12082097, u'envelope', 0.069723122, u'toilet_seat', 0.053988844]

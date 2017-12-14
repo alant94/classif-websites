@@ -1,0 +1,2 @@
+[u'triceratops', 0.081677467, u'chain_saw', 0.064581268, u'plow', 0.028737871, u'sea_cucumber', 0.027450807, u'bottlecap', 0.02385186]
+[u'jigsaw_puzzle', 0.21190803, u'container_ship', 0.074276701, u'space_shuttle', 0.059174906, u'drilling_platform', 0.045320097, u'Petri_dish', 0.040660154]

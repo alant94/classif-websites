@@ -1,0 +1,7 @@
+[u'wool', 0.17038068, u'Christmas_stocking', 0.14404401, u'wall_clock', 0.11203533, u'abacus', 0.058199212, u'mitten', 0.036085244]
+[u'birdhouse', 0.23419254, u'bell_cote', 0.17338423, u'wall_clock', 0.1624435, u'chest', 0.047276054, u'chime', 0.04219377]
+[u'king_crab', 0.21833199, u'Dungeness_crab', 0.10045341, u'bell_cote', 0.060971316, u'iron', 0.052046344, u'bearskin', 0.046959281]
+[u'aircraft_carrier', 0.073832028, u'radio_telescope', 0.06985411, u'tank', 0.062143549, u'space_shuttle', 0.060232539, u'steam_locomotive', 0.04320132]
+[u'bell_cote', 0.15043782, u'drilling_platform', 0.071535721, u'missile', 0.065112032, u'fireboat', 0.064423151, u'steam_locomotive', 0.048576515]
+[u'soccer_ball', 0.99864286, u'golf_ball', 0.00066340948, u'volleyball', 0.0005931771, u'tennis_ball', 3.1394156e-05, u'rugby_ball', 2.4638217e-05]
+[u'waffle_iron', 0.40189126, u'shield', 0.093652122, u'gong', 0.072059803, u'stopwatch', 0.042675011, u'magnetic_compass', 0.034980677]

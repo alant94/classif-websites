@@ -1,0 +1,5 @@
+[u'maze', 0.37204471, u'hay', 0.28623816, u'rapeseed', 0.14846385, u'worm_fence', 0.03825976, u'stone_wall', 0.035049848]
+[u'valley', 0.3989397, u'lakeside', 0.10428304, u'suspension_bridge', 0.060476027, u'viaduct', 0.04911663, u'rapeseed', 0.04646093]
+[u'rapeseed', 0.98857939, u'stone_wall', 0.0036239251, u'worm_fence', 0.00084289844, u'ear', 0.00071620982, u'valley', 0.00065384893]
+[u'vault', 0.25923279, u'bannister', 0.19947314, u'organ', 0.12794679, u'panpipe', 0.090648301, u'harp', 0.078764044]
+[u'valley', 0.55184919, u'stone_wall', 0.10144742, u'lakeside', 0.059046187, u'alp', 0.054220632, u'worm_fence', 0.042307205]

@@ -1,0 +1,5 @@
+[u'balloon', 0.89312434, u'wooden_spoon', 0.067323685, u'vault', 0.0118455, u'mosque', 0.0069790478, u'stupa', 0.0032551182]
+[u'armadillo', 0.22886518, u'vault', 0.10011432, u'triceratops', 0.082494773, u'African_elephant', 0.078885101, u'tusker', 0.044169791]
+[u'brain_coral', 0.7882033, u'chiton', 0.020039754, u'coral_reef', 0.016621098, u'stole', 0.016169682, u'wool', 0.012448111]
+[u'fountain', 0.99253958, u'picket_fence', 0.0012092667, u'shower_curtain', 0.0011049608, u'chime', 0.00070696382, u'chain', 0.0005685215]
+[u'web_site', 0.13707983, u'swab', 0.10682638, u'envelope', 0.074867569, u'hook', 0.059696946, u'safety_pin', 0.03206965]

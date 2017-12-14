@@ -1,0 +1,2 @@
+[u'book_jacket', 0.058005907, u'binder', 0.03079889, u'lycaenid', 0.029529117, u'microphone', 0.025302075, u'spotlight', 0.022879476]
+[u'hamper', 0.3773447, u'shopping_basket', 0.26583922, u'knot', 0.15864722, u'cradle', 0.072343506, u'coil', 0.028125828]

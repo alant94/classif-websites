@@ -1,0 +1,3 @@
+[u'picket_fence', 0.42276514, u'fountain', 0.1884052, u'window_shade', 0.12722932, u'prison', 0.046599235, u'sliding_door', 0.040514197]
+[u'laptop', 0.25201899, u'notebook', 0.13376856, u'binder', 0.056233998, u'paintbrush', 0.046884153, u'stethoscope', 0.043486316]
+[u'turnstile', 0.12371787, u'prison', 0.10416608, u'bookcase', 0.081492484, u'library', 0.052665658, u'organ', 0.049990851]

@@ -1,0 +1,6 @@
+[u'iPod', 0.65643644, u'web_site', 0.020582108, u'book_jacket', 0.019442873, u'digital_clock', 0.015785778, u'menu', 0.015588156]
+[u'digital_clock', 0.34305981, u'stopwatch', 0.13713032, u'odometer', 0.11023765, u'cellular_telephone', 0.041413046, u'digital_watch', 0.039859727]
+[u'digital_clock', 0.32362571, u'odometer', 0.13398346, u'stopwatch', 0.10179607, u'gas_pump', 0.063949838, u'cash_machine', 0.05221682]
+[u'slide_rule', 0.19818798, u'hard_disc', 0.13152841, u'envelope', 0.074922398, u'washer', 0.028368235, u'web_site', 0.026436722]
+[u'plate', 0.73776925, u'consomme', 0.1548073, u'ice_cream', 0.030194467, u'soup_bowl', 0.015240323, u'mashed_potato', 0.0085619381]
+[u'digital_clock', 0.25584283, u'stopwatch', 0.15461652, u'odometer', 0.10349276, u'cash_machine', 0.082310498, u'gas_pump', 0.065067463]

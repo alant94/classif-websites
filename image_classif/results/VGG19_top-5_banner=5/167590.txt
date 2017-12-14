@@ -1,0 +1,7 @@
+[u'bassoon', 0.52604485, u'grand_piano', 0.20841013, u'cello', 0.099450096, u'oboe', 0.047428451, u'stage', 0.034736879]
+[u'cello', 0.3397347, u'violin', 0.16727631, u'stage', 0.083657816, u'sax', 0.038609236, u'bassoon', 0.038319241]
+[u'unicycle', 0.14378789, u'maypole', 0.066700071, u'croquet_ball', 0.040881902, u'pole', 0.029605856, u'mountain_bike', 0.029136894]
+[u'panpipe', 0.49042994, u'violin', 0.16395058, u'bow', 0.069133841, u'flute', 0.064215049, u'cello', 0.041539982]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'electric_guitar', 0.396644, u'stage', 0.32832712, u'torch', 0.093390815, u'acoustic_guitar', 0.03006961, u'marimba', 0.02762202]
+[u'cello', 0.97015488, u'trombone', 0.0069621471, u'violin', 0.0059937723, u'cornet', 0.0039315014, u'bassoon', 0.0030085796]

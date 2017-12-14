@@ -1,0 +1,7 @@
+[u'stage', 0.17479512, u'microphone', 0.085501976, u'electric_guitar', 0.063844875, u'monitor', 0.045887891, u'spotlight', 0.033345729]
+[u'jersey', 0.11901798, u'flatworm', 0.082982026, u'packet', 0.052869368, u'book_jacket', 0.050082665, u'lighter', 0.043566365]
+[u'web_site', 0.30069473, u'jersey', 0.15483871, u'stopwatch', 0.063660987, u'remote_control', 0.036390901, u'laptop', 0.035995312]
+[u'shield', 0.37935284, u'buckle', 0.20759204, u'bolo_tie', 0.093308955, u'prayer_rug', 0.084030889, u'necklace', 0.04084776]
+[u'barometer', 0.15702485, u'slide_rule', 0.11564591, u'magnetic_compass', 0.1114953, u'analog_clock', 0.097217754, u'scale', 0.06782762]
+[u'cinema', 0.27113286, u'theater_curtain', 0.12809767, u'barbershop', 0.056073699, u'freight_car', 0.054619621, u'tobacco_shop', 0.049788583]
+[u'wooden_spoon', 0.92945588, u'spatula', 0.032919183, u'paddle', 0.015292237, u'ladle', 0.0065842946, u'paintbrush', 0.0065154848]

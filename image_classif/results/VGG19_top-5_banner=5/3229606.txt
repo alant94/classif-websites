@@ -1,0 +1,5 @@
+[u'candle', 0.066269219, u'book_jacket', 0.065008067, u'packet', 0.050060976, u'analog_clock', 0.045184806, u'picket_fence', 0.029680096]
+[u'picket_fence', 0.078219086, u'jersey', 0.064942442, u'swimming_trunks', 0.049869779, u'maillot', 0.030822795, u'sock', 0.027863104]
+[u'acoustic_guitar', 0.7162447, u'banjo', 0.063754231, u'pick', 0.063561119, u'electric_guitar', 0.045423046, u'stage', 0.034241594]
+[u'lab_coat', 0.12824424, u'limousine', 0.12675038, u'groom', 0.092363551, u'coho', 0.076890096, u'fur_coat', 0.05247901]
+[u'buckle', 0.081191286, u'gong', 0.044116255, u'analog_clock', 0.030200591, u'hook', 0.029275283, u'street_sign', 0.02816996]

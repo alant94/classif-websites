@@ -1,0 +1,4 @@
+[u'bulletproof_vest', 0.33457661, u'espresso_maker', 0.15478598, u'power_drill', 0.080687456, u'assault_rifle', 0.024536377, u'oxygen_mask', 0.022397544]
+[u'church', 0.10695001, u'bell_cote', 0.079572015, u'boathouse', 0.077569745, u'alp', 0.058892563, u'park_bench', 0.045640752]
+[u'tow_truck', 0.2928682, u'snowplow', 0.14732659, u'forklift', 0.082445927, u'mousetrap', 0.072418727, u'jeep', 0.054810841]
+[u'panpipe', 0.30812335, u'matchstick', 0.20905951, u'pencil_sharpener', 0.080626681, u'hair_slide', 0.043430168, u'coil', 0.034292605]

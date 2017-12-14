@@ -1,0 +1,1 @@
+[u'candle', 0.28893197, u'picket_fence', 0.13957867, u'book_jacket', 0.062307339, u'ski', 0.046768203, u'screwdriver', 0.045694754]

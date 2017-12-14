@@ -1,0 +1,4 @@
+[u'clog', 0.18944226, u'wooden_spoon', 0.15296388, u'toilet_seat', 0.14465158, u'barrel', 0.098025247, u'shoe_shop', 0.094511293]
+[u'magnetic_compass', 0.14727803, u'wall_clock', 0.08910542, u'shield', 0.048182543, u'analog_clock', 0.040212881, u'washer', 0.035159245]
+[u'shield', 0.058292221, u'bow', 0.044931192, u'ski', 0.027029252, u'analog_clock', 0.024930192, u'wall_clock', 0.022999153]
+[u'Windsor_tie', 0.077743717, u'wardrobe', 0.075983316, u'wallet', 0.063702345, u'poncho', 0.061547928, u'wool', 0.061542027]

@@ -1,0 +1,4 @@
+[u'book_jacket', 0.2224824, u'matchstick', 0.062055916, u'theater_curtain', 0.029358616, u'torch', 0.028535666, u"jack-o'-lantern", 0.027992837]
+[u'vestment', 0.3736642, u'bow_tie', 0.12656596, u'military_uniform', 0.06026762, u'accordion', 0.04572814, u'Windsor_tie', 0.026866604]
+[u'web_site', 0.24955584, u'envelope', 0.043535639, u'digital_clock', 0.019432314, u'sunscreen', 0.015099439, u'matchstick', 0.015070063]
+[u'chime', 0.042593006, u'paintbrush', 0.027301306, u'binder', 0.026612164, u'matchstick', 0.026609626, u'rubber_eraser', 0.026150979]

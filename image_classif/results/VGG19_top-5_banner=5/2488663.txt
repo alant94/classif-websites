@@ -1,0 +1,7 @@
+[u'barn', 0.34647667, u'mailbox', 0.16362904, u'padlock', 0.066055447, u'bucket', 0.023772318, u'church', 0.02317795]
+[u'chimpanzee', 0.29685223, u'three-toed_sloth', 0.11573629, u'capuchin', 0.071570247, u'hornbill', 0.036727268, u'siamang', 0.033576645]
+[u'cinema', 0.57346523, u'grille', 0.10374378, u'tobacco_shop', 0.063381992, u'restaurant', 0.037842207, u'buckle', 0.026649656]
+[u'web_site', 0.10110363, u'puck', 0.099519879, u'book_jacket', 0.05003668, u'analog_clock', 0.044049375, u'packet', 0.037029687]
+[u'book_jacket', 0.85105258, u'comic_book', 0.10102505, u'menu', 0.0066528437, u'packet', 0.0060143946, u'web_site', 0.0040994273]
+[u'digital_clock', 0.50440383, u'crossword_puzzle', 0.09738028, u'scoreboard', 0.043026779, u'digital_watch', 0.039062057, u'container_ship', 0.024136987]
+[u'hatchet', 0.06673152, u'lumbermill', 0.054300275, u'swing', 0.041515153, u'cowboy_hat', 0.041159056, u'marimba', 0.03897329]

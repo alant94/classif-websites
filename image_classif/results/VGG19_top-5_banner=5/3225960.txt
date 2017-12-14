@@ -1,0 +1,2 @@
+[u'picket_fence', 0.52855021, u'worm_fence', 0.38070732, u'bannister', 0.013201404, u'viaduct', 0.0099117905, u'pier', 0.009511699]
+[u'mobile_home', 0.65912378, u'boathouse', 0.040182449, u'gas_pump', 0.022463366, u'park_bench', 0.020580152, u'birdhouse', 0.019700633]

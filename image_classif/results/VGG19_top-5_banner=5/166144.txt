@@ -1,0 +1,1 @@
+[u'digital_clock', 0.14070044, u'modem', 0.11880582, u'washbasin', 0.11267903, u'home_theater', 0.094348274, u'bathtub', 0.093793228]

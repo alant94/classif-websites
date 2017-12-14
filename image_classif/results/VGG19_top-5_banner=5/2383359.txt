@@ -1,0 +1,3 @@
+[u'picket_fence', 0.65958428, u'chime', 0.11945003, u'matchstick', 0.027606772, u'worm_fence', 0.020834869, u'nail', 0.015153889]
+[u'perfume', 0.097931661, u'menu', 0.08959946, u'candle', 0.069622353, u'red_wine', 0.069582105, u'theater_curtain', 0.066327326]
+[u'red_wine', 0.62096286, u'wine_bottle', 0.17147729, u'goblet', 0.086205542, u'cocktail_shaker', 0.032434169, u'corkscrew', 0.018401399]

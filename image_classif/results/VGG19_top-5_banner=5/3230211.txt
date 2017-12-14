@@ -1,0 +1,2 @@
+[u'carousel', 0.68833083, u'fire_screen', 0.13021857, u'chest', 0.028743457, u'jigsaw_puzzle', 0.026608968, u'altar', 0.024976488]
+[u'church', 0.59395319, u'bell_cote', 0.28471565, u'monastery', 0.10046349, u'mosque', 0.0031301817, u'vault', 0.0027250194]

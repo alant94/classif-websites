@@ -1,0 +1,6 @@
+[u'hook', 0.121369, u'punching_bag', 0.059100796, u'flagpole', 0.054048344, u'rocking_chair', 0.049278732, u'can_opener', 0.041852605]
+[u'crossword_puzzle', 0.99837875, u'digital_watch', 0.00013232866, u'prayer_rug', 0.00011933779, u'wool', 8.4235951e-05, u'computer_keyboard', 8.2957522e-05]
+[u'envelope', 0.068440929, u'packet', 0.051852256, u'web_site', 0.047886577, u'book_jacket', 0.020968944, u'Band_Aid', 0.017678324]
+[u'web_site', 0.94717264, u'envelope', 0.021421272, u'menu', 0.01635129, u'analog_clock', 0.0012992088, u'hand_blower', 0.0011001732]
+[u'web_site', 0.9881385, u'comic_book', 0.0046378002, u'book_jacket', 0.0017103454, u'menu', 0.00097739871, u'envelope', 0.00045025043]
+[u'matchstick', 0.090261236, u'ballpoint', 0.057410862, u'nail', 0.048352469, u'paintbrush', 0.047077686, u'rubber_eraser', 0.042528853]

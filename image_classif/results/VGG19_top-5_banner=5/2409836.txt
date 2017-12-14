@@ -1,0 +1,5 @@
+[u'digital_clock', 0.20205887, u'digital_watch', 0.18226422, u'bottlecap', 0.13362131, u'wall_clock', 0.046764925, u'stopwatch', 0.028336471]
+[u'pill_bottle', 0.18322439, u'lampshade', 0.085940927, u'bottlecap', 0.070361279, u'digital_clock', 0.067405, u'wall_clock', 0.061083041]
+[u'container_ship', 0.7858299, u'switch', 0.023314632, u'digital_watch', 0.020645969, u'bottlecap', 0.01446122, u'liner', 0.0099137183]
+[u'cradle', 0.60336131, u'chest', 0.29460329, u'bassinet', 0.020036537, u'crate', 0.015477012, u'chiffonier', 0.013761695]
+[u'barrel', 0.12637627, u'barn', 0.060833044, u'wardrobe', 0.055337138, u'totem_pole', 0.045395993, u'shovel', 0.020295693]

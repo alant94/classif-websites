@@ -1,0 +1,3 @@
+[u'analog_clock', 0.20770857, u'wall_clock', 0.058341175, u'binder', 0.056500793, u'safety_pin', 0.053237271, u'envelope', 0.034786034]
+[u'Band_Aid', 0.21262422, u'envelope', 0.11464126, u'whistle', 0.090069495, u'binder', 0.079417631, u'rubber_eraser', 0.045799334]
+[u'cocktail_shaker', 0.091723464, u'vase', 0.069159061, u'ballpoint', 0.055096779, u'shower_curtain', 0.046041403, u'bow_tie', 0.042480789]

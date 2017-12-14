@@ -1,0 +1,2 @@
+[u'plastic_bag', 0.45141554, u'lab_coat', 0.091099828, u'shower_curtain', 0.078485638, u'mosquito_net', 0.048094582, u'toilet_tissue', 0.022141164]
+[u'comic_book', 0.48833013, u'buckle', 0.13180469, u'shield', 0.030671926, u'book_jacket', 0.030105509, u'hair_slide', 0.02940611]

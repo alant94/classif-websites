@@ -1,0 +1,2 @@
+[u'modem', 0.36015964, u'scale', 0.26881, u'radio', 0.058728877, u'hard_disc', 0.051544722, u'waffle_iron', 0.029016064]
+[u'hook', 0.1062771, u'microphone', 0.055321544, u'bow', 0.049353451, u'crane', 0.040410817, u'wall_clock', 0.038317543]

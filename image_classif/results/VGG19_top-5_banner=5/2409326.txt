@@ -1,0 +1,8 @@
+[u'trench_coat', 0.42424434, u'cloak', 0.38025826, u'overskirt', 0.048112784, u'bonnet', 0.019786635, u'gown', 0.019409979]
+[u'trench_coat', 0.30645785, u'velvet', 0.082008339, u'miniskirt', 0.069895171, u'suit', 0.061710868, u'abaya', 0.061420884]
+[u'trench_coat', 0.91967839, u'lab_coat', 0.037742712, u'pajama', 0.016375989, u'fur_coat', 0.0054192087, u'stole', 0.0040835007]
+[u'abaya', 0.61356342, u'cloak', 0.15522163, u'poncho', 0.035988081, u'overskirt', 0.033961106, u'stole', 0.028718591]
+[u'sweatshirt', 0.25443169, u'cloak', 0.08058805, u'coho', 0.042151872, u'marimba', 0.034331199, u'barracouta', 0.02870151]
+[u'combination_lock', 0.14435805, u'modem', 0.073426552, u'hook', 0.041948054, u"carpenter's_kit", 0.037994329, u'padlock', 0.026981546]
+[u'matchstick', 0.1902665, u'digital_clock', 0.17114621, u'picket_fence', 0.15379301, u'candle', 0.058059338, u'rule', 0.032768868]
+[u'sarong', 0.60742497, u'maillot', 0.10381366, u'gown', 0.098094575, u'maillot', 0.052359384, u'overskirt', 0.032293603]

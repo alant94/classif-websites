@@ -1,0 +1,4 @@
+[u'fountain', 0.54378974, u'jellyfish', 0.076729804, u'theater_curtain', 0.058242619, u'matchstick', 0.041974936, u'mosquito_net', 0.022445537]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]
+[u'book_jacket', 0.1316189, u'cinema', 0.05477624, u'home_theater', 0.050612826, u'television', 0.044067454, u'web_site', 0.041044563]
+[u'accordion', 0.9955017, u'grand_piano', 0.0015292843, u'espresso_maker', 0.00032969957, u'breastplate', 0.00032349347, u'cuirass', 0.00018068113]

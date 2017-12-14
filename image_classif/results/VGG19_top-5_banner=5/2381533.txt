@@ -1,0 +1,4 @@
+[u'barn', 0.1430279, u'alp', 0.12088944, u'hay', 0.09471444, u'worm_fence', 0.094220378, u'fountain', 0.076451384]
+[u'street_sign', 0.69958234, u'rubber_eraser', 0.04707177, u'binder', 0.020971892, u'traffic_light', 0.016040729, u'hatchet', 0.013250935]
+[u'barrel', 0.9851104, u'binoculars', 0.0016663816, u'bucket', 0.0012569005, u'forklift', 0.00091608346, u'barometer', 0.00079735665]
+[u'envelope', 0.070067108, u'digital_clock', 0.048383228, u'wall_clock', 0.044316705, u'washbasin', 0.039544128, u'cash_machine', 0.037182279]

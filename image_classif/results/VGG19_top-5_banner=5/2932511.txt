@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.59008837, u'web_site', 0.088494979, u'comic_book', 0.047552392, u'bathing_cap', 0.032375228, u'envelope', 0.031026674]
+[u'envelope', 0.127505, u'web_site', 0.057851013, u'rubber_eraser', 0.044392686, u'wall_clock', 0.03620673, u'analog_clock', 0.032799423]

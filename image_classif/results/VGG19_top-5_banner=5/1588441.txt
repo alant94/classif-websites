@@ -1,0 +1,1 @@
+[u'web_site', 0.29219934, u'bikini', 0.23127462, u'brassiere', 0.11098582, u'swimming_trunks', 0.068364255, u'volleyball', 0.055390045]

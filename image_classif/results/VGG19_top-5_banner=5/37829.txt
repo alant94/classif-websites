@@ -1,0 +1,5 @@
+[u'sweatshirt', 0.30216947, u'bath_towel', 0.14257489, u'cowboy_hat', 0.1379579, u'sombrero', 0.095302902, u'cloak', 0.039677117]
+[u'church', 0.22613657, u'monastery', 0.20895295, u'castle', 0.10366664, u'bell_cote', 0.05229855, u'vault', 0.036350664]
+[u'stage', 0.40481895, u'butcher_shop', 0.12402655, u'spiny_lobster', 0.036044456, u'electric_guitar', 0.034950916, u'shower_curtain', 0.02713594]
+[u'medicine_chest', 0.11298081, u'bookcase', 0.055709835, u'home_theater', 0.050969042, u'sliding_door', 0.046127345, u'picket_fence', 0.044170562]
+[u'swing', 0.25377265, u'birdhouse', 0.18401848, u'chime', 0.13961111, u'cliff', 0.065016896, u'totem_pole', 0.020189449]

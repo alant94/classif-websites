@@ -1,0 +1,3 @@
+[u'totem_pole', 0.20888291, u'ski', 0.11521406, u'flagpole', 0.031040404, u'picket_fence', 0.02921425, u'chime', 0.028946968]
+[u'spatula', 0.34825677, u'chime', 0.1092912, u'ballpoint', 0.082705773, u'screwdriver', 0.08095672, u"carpenter's_kit", 0.038820535]
+[u'megalith', 0.96267164, u'cliff', 0.021009102, u'stupa', 0.0018514051, u'stone_wall', 0.0013542728, u'promontory', 0.00084118027]

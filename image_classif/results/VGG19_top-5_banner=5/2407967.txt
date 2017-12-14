@@ -1,0 +1,3 @@
+[u'fountain', 0.49218735, u'fireboat', 0.059701212, u'picket_fence', 0.057251435, u'pier', 0.036311336, u'steel_arch_bridge', 0.032086167]
+[u'barbershop', 0.55761832, u'toyshop', 0.20929122, u'restaurant', 0.062035572, u'barber_chair', 0.056086708, u'tobacco_shop', 0.015475857]
+[u'restaurant', 0.15904567, u'tobacco_shop', 0.080407836, u'thatch', 0.075282231, u'bookshop', 0.055554021, u'barbershop', 0.050256882]

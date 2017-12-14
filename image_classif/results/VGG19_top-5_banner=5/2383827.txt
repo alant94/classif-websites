@@ -1,0 +1,8 @@
+[u'pencil_sharpener', 0.13682704, u'iron', 0.13300832, u'hourglass', 0.061251719, u'violin', 0.048077896, u'safe', 0.044847708]
+[u'starfish', 0.20539571, u'eel', 0.142061, u'mask', 0.073747166, u'leatherback_turtle', 0.032706823, u'chiton', 0.026936095]
+[u'totem_pole', 0.33651251, u'church', 0.19991665, u'stupa', 0.14795718, u'castle', 0.080129147, u'bell_cote', 0.073212057]
+[u'book_jacket', 0.12511489, u'web_site', 0.12290885, u'digital_watch', 0.080507413, u'screwdriver', 0.048983429, u'analog_clock', 0.043262534]
+[u'castle', 0.13413639, u'volcano', 0.098526292, u'promontory', 0.047467783, u'seashore', 0.037619177, u'alp', 0.037058201]
+[u'drum', 0.40379423, u'gong', 0.3880482, u'wardrobe', 0.057554312, u'chime', 0.04062514, u'barrel', 0.015872965]
+[u'spatula', 0.11107359, u'steel_drum', 0.074102364, u'bubble', 0.050703753, u'ice_lolly', 0.050367501, u'beer_glass', 0.042038776]
+[u'web_site', 0.25072461, u'envelope', 0.11499657, u'crane', 0.072674148, u'jigsaw_puzzle', 0.068383574, u'wall_clock', 0.042392798]

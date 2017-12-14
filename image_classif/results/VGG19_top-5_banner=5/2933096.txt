@@ -1,0 +1,2 @@
+[u'puck', 0.53633684, u'pick', 0.040721051, u'bottlecap', 0.025005413, u'toilet_seat', 0.023050407, u'washer', 0.022876045]
+[u'spider_monkey', 0.15316893, u'siamang', 0.095214605, u'chimpanzee', 0.093838215, u'gibbon', 0.070659377, u'harp', 0.063396513]

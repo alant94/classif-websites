@@ -1,0 +1,5 @@
+[u'bow', 0.12376112, u'racket', 0.031816676, u'hook', 0.023163885, u'abaya', 0.021610789, u'letter_opener', 0.018628234]
+[u'lampshade', 0.37481758, u'spotlight', 0.14432587, u'table_lamp', 0.11279207, u'candle', 0.041724753, u'pill_bottle', 0.032265659]
+[u'digital_clock', 0.32515407, u'container_ship', 0.054571301, u'crossword_puzzle', 0.054359302, u'digital_watch', 0.042346936, u'envelope', 0.032077506]
+[u'web_site', 0.14784546, u'crossword_puzzle', 0.089713998, u'digital_clock', 0.089573063, u'envelope', 0.037577204, u'analog_clock', 0.023467951]
+[u'crossword_puzzle', 0.36946446, u'digital_clock', 0.33135733, u'wall_clock', 0.031080088, u'envelope', 0.024186667, u'analog_clock', 0.022555344]

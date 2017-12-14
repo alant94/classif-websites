@@ -1,0 +1,2 @@
+[u'mobile_home', 0.035679024, u'water_buffalo', 0.027150547, u'bison', 0.02694585, u'apiary', 0.026166502, u'hay', 0.022464527]
+[u'bow_tie', 0.16141929, u'shower_cap', 0.13496222, u'bathing_cap', 0.10669199, u'bonnet', 0.072810434, u'torch', 0.041742831]

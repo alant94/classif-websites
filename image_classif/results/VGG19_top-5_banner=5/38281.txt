@@ -1,0 +1,1 @@
+[u'barbershop', 0.30964959, u'cash_machine', 0.04062916, u'vending_machine', 0.033482522, u'brass', 0.031825326, u'tobacco_shop', 0.030222122]

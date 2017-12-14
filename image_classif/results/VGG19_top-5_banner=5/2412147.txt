@@ -1,0 +1,2 @@
+[u'screwdriver', 0.089304037, u'paintbrush', 0.081854858, u'bow', 0.065952934, u'rubber_eraser', 0.058165025, u'chime', 0.047296718]
+[u'book_jacket', 0.12233218, u'comic_book', 0.11576077, u'candle', 0.049057111, u'hair_spray', 0.047990929, u'theater_curtain', 0.044459637]

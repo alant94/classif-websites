@@ -1,0 +1,3 @@
+[u'jersey', 0.29467174, u'abaya', 0.17693773, u'sweatshirt', 0.0586618, u'cloak', 0.049542084, u'book_jacket', 0.046044875]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'shield', 0.29836822, u'corkscrew', 0.11715487, u'breastplate', 0.060394447, u'mask', 0.047399558, u'cuirass', 0.041021857]

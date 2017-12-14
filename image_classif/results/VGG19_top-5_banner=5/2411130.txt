@@ -1,0 +1,5 @@
+[u'jersey', 0.051465485, u'paintbrush', 0.030677492, u'spatula', 0.029353879, u'sweatshirt', 0.029039618, u'picket_fence', 0.028803699]
+[u'swab', 0.33115521, u'broom', 0.15032977, u'thatch', 0.078130759, u'wool', 0.056940328, u'komondor', 0.049221877]
+[u'bottlecap', 0.9998467, u'bakery', 6.212986e-05, u'bolo_tie', 1.9468462e-05, u'packet', 9.7329548e-06, u'coil', 9.3571371e-06]
+[u'rubber_eraser', 0.26026037, u'ballpoint', 0.17202997, u'lighter', 0.091552563, u'whistle', 0.078102835, u'screwdriver', 0.067861058]
+[u'wool', 0.27316388, u'stone_wall', 0.18788841, u'stole', 0.1379876, u'knot', 0.088260621, u'swab', 0.064698353]

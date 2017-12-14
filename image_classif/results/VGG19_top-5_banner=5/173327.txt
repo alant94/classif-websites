@@ -1,0 +1,1 @@
+[u'shower_cap', 0.16757822, u'toilet_seat', 0.05407216, u'spatula', 0.052822351, u'plunger', 0.043747507, u'Crock_Pot', 0.035986677]

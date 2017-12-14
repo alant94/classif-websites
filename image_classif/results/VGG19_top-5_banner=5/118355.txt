@@ -1,0 +1,4 @@
+[u'web_site', 0.57089394, u'cash_machine', 0.12588783, u'screen', 0.076882094, u'digital_clock', 0.02934302, u'analog_clock', 0.024703717]
+[u'book_jacket', 0.11218819, u'shoji', 0.099687934, u'sliding_door', 0.07873033, u'window_screen', 0.051983006, u'digital_clock', 0.037357617]
+[u'fountain', 0.68061405, u'theater_curtain', 0.12413676, u'paintbrush', 0.099425308, u'safety_pin', 0.015645772, u'matchstick', 0.0075237369]
+[u'candle', 0.40058541, u'matchstick', 0.21498345, u'picket_fence', 0.10232687, u'fountain', 0.040856671, u'oscilloscope', 0.026299935]

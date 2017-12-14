@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.54170048, u'pajama', 0.065147944, u'safe', 0.061194938, u'switch', 0.036393564, u'envelope', 0.032810815]
+[u'envelope', 0.20703873, u'web_site', 0.19468324, u'perfume', 0.13139389, u'lotion', 0.095479757, u'binder', 0.063382223]

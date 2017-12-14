@@ -1,0 +1,6 @@
+[u'hook', 0.20739438, u'crane', 0.19980028, u'horizontal_bar', 0.1315393, u'parallel_bars', 0.070549533, u'swing', 0.052135188]
+[u'nematode', 0.095325671, u'whistle', 0.080354713, u'coil', 0.054513212, u'nail', 0.047417875, u'binder', 0.046051469]
+[u'chime', 0.20539954, u'nail', 0.098959059, u'matchstick', 0.082065411, u'hook', 0.061717257, u'ballpoint', 0.049859639]
+[u'tray', 0.36325166, u'laptop', 0.082751177, u'lighter', 0.081636623, u'scale', 0.073197789, u'ashcan', 0.045442004]
+[u'hook', 0.47224143, u'scale', 0.20453505, u'microphone', 0.071467914, u'spotlight', 0.022211695, u'stretcher', 0.0219997]
+[u'swing', 0.68848407, u'marimba', 0.15124363, u'chime', 0.022949468, u'harp', 0.01295202, u'fountain', 0.010545928]

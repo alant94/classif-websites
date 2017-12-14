@@ -1,0 +1,4 @@
+[u'slug', 0.086762667, u'snail', 0.065013416, u'eel', 0.057139039, u'letter_opener', 0.038578913, u'thimble', 0.038566571]
+[u'altar', 0.4212898, u'stupa', 0.14037509, u'birdhouse', 0.062573023, u'fountain', 0.053947363, u'dining_table', 0.04504725]
+[u'pedestal', 0.11881369, u'barracouta', 0.054663472, u'frilled_lizard', 0.042654511, u'cuirass', 0.036150269, u'bearskin', 0.031338006]
+[u'sturgeon', 0.23569204, u'tiger_shark', 0.10185062, u'Dungeness_crab', 0.089624785, u'barracouta', 0.074181125, u'American_alligator', 0.061272074]

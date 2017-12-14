@@ -1,0 +1,8 @@
+[u'tobacco_shop', 0.43549141, u'grocery_store', 0.19409055, u'bookshop', 0.097292647, u'packet', 0.049314167, u'library', 0.029522276]
+[u'shoji', 0.095149703, u'fire_screen', 0.076162055, u'window_shade', 0.046415731, u'medicine_chest', 0.029451823, u'window_screen', 0.026906325]
+[u'packet', 0.11657554, u'cinema', 0.075949475, u'liner', 0.065308221, u'toilet_tissue', 0.046560958, u'moving_van', 0.044338282]
+[u'web_site', 0.5517894, u'envelope', 0.32607809, u'binder', 0.01984133, u'book_jacket', 0.012370314, u'cassette', 0.0060976106]
+[u'envelope', 0.29866856, u'pill_bottle', 0.12669769, u'digital_clock', 0.078957304, u'whistle', 0.037432268, u'Band_Aid', 0.0196891]
+[u'airship', 0.24709283, u'airliner', 0.16861263, u'projectile', 0.16855088, u'warplane', 0.10151158, u'missile', 0.090404645]
+[u'rotisserie', 0.58878744, u'toaster', 0.081638344, u'harmonica', 0.073235363, u'space_heater', 0.067157589, u'cassette', 0.03902784]
+[u'street_sign', 0.14322047, u'rubber_eraser', 0.084048241, u'switch', 0.054469649, u'cash_machine', 0.052425504, u'spatula', 0.035995543]

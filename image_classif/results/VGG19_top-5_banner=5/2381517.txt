@@ -1,0 +1,7 @@
+[u'barrel', 0.21108574, u'gas_pump', 0.090613022, u'puck', 0.086117305, u'face_powder', 0.070399128, u'sunscreen', 0.044008732]
+[u'digital_clock', 0.16705962, u'web_site', 0.10537127, u'screen', 0.092314005, u'envelope', 0.04974157, u'monitor', 0.040298071]
+[u'envelope', 0.053157412, u'web_site', 0.041576546, u'sax', 0.016916005, u'binder', 0.016486982, u'lighter', 0.010900471]
+[u'groom', 0.82897943, u'gown', 0.12700561, u'overskirt', 0.0090596313, u'bow_tie', 0.0073814606, u'kimono', 0.0072068945]
+[u'puck', 0.11247798, u'street_sign', 0.076439776, u'barrel', 0.0750461, u'gas_pump', 0.059424717, u'packet', 0.052145548]
+[u'envelope', 0.099459969, u'web_site', 0.040228579, u'kite', 0.039986555, u'bald_eagle', 0.028211595, u'crane', 0.026324175]
+[u'scoreboard', 0.1904123, u'jersey', 0.13460688, u'digital_clock', 0.094764546, u'sweatshirt', 0.032831121, u'bulletproof_vest', 0.022366716]

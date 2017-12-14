@@ -1,0 +1,2 @@
+[u'web_site', 0.045328878, u'pill_bottle', 0.021186695, u'spotlight', 0.016329646, u'hair_spray', 0.015875699, u'golf_ball', 0.015640981]
+[u'warplane', 0.68980694, u'wing', 0.10227663, u'missile', 0.079100817, u'projectile', 0.051895823, u'space_shuttle', 0.031064276]

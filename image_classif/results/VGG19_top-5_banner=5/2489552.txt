@@ -1,0 +1,2 @@
+[u'dogsled', 0.2808792, u'Cardigan', 0.14227182, u'beagle', 0.13733837, u'Pembroke', 0.10618204, u'German_shepherd', 0.098612256]
+[u'hartebeest', 0.12435997, u'plow', 0.064441279, u'impala', 0.051733527, u'ostrich', 0.049349438, u'gazelle', 0.041617468]

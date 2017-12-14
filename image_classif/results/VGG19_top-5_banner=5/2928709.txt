@@ -1,0 +1,3 @@
+[u'digital_clock', 0.57423967, u'stopwatch', 0.27937594, u'puck', 0.032776263, u'wall_clock', 0.020898933, u'digital_watch', 0.015158662]
+[u'comic_book', 0.39824206, u'Band_Aid', 0.070669837, u'sunscreen', 0.038310014, u'eggnog', 0.038247008, u'maillot', 0.037706397]
+[u'puck', 0.86888182, u'wall_clock', 0.011682513, u'bottlecap', 0.0077154129, u'chocolate_sauce', 0.0065199169, u'analog_clock', 0.0063130981]

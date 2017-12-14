@@ -1,0 +1,5 @@
+[u'web_site', 0.394954, u'envelope', 0.025939064, u'menu', 0.021093572, u'washer', 0.013943947, u'packet', 0.012543743]
+[u'hook', 0.062519424, u'analog_clock', 0.051075652, u'stopwatch', 0.036411151, u'web_site', 0.035258602, u'coil', 0.034198914]
+[u'web_site', 0.52346182, u'envelope', 0.080308661, u'menu', 0.034746107, u'nematode', 0.0078449287, u'book_jacket', 0.0063089603]
+[u'scoreboard', 0.34156117, u'jersey', 0.11835973, u'book_jacket', 0.10143457, u'cash_machine', 0.044324495, u'digital_clock', 0.022563869]
+[u'Sealyham_terrier', 0.063117184, u'komondor', 0.022154102, u'face_powder', 0.020347776, u'soccer_ball', 0.019938463, u'analog_clock', 0.018864788]

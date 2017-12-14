@@ -1,0 +1,1 @@
+[u'vending_machine', 0.529953, u'refrigerator', 0.089576647, u'pill_bottle', 0.044535786, u'pop_bottle', 0.028098751, u'beer_bottle', 0.027980262]

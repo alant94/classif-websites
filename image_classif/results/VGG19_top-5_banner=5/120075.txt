@@ -1,0 +1,2 @@
+[u'wig', 0.069668688, u'tub', 0.059738871, u'hair_spray', 0.043399695, u'microphone', 0.032754891, u'harmonica', 0.032507211]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

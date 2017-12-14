@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.65496218, u'drilling_platform', 0.0899323, u'fireboat', 0.037726466, u'missile', 0.029665574, u'fountain', 0.013740968]

@@ -1,0 +1,6 @@
+[u'envelope', 0.16199957, u'menu', 0.14576486, u'screw', 0.077851057, u'hard_disc', 0.067362592, u'web_site', 0.052205104]
+[u'military_uniform', 0.071317546, u'bearskin', 0.053155437, u'rugby_ball', 0.048776615, u'ping-pong_ball', 0.044165712, u'sweatshirt', 0.031502824]
+[u'ski', 0.99419761, u'ballpoint', 0.0020823739, u'bow', 0.001209644, u'rubber_eraser', 0.00040341527, u'bobsled', 0.00033772248]
+[u'digital_clock', 0.35771775, u'rule', 0.10791159, u'switch', 0.083264679, u'digital_watch', 0.055934191, u'stopwatch', 0.032187536]
+[u'hair_slide', 0.10652997, u'nematode', 0.087594576, u'spotlight', 0.067108586, u'hook', 0.046368845, u'oil_filter', 0.022548998]
+[u'scoreboard', 0.15557556, u'flagpole', 0.078339212, u'street_sign', 0.046126228, u'book_jacket', 0.044239711, u'pole', 0.041245282]

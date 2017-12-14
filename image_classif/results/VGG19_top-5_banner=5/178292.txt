@@ -1,0 +1,1 @@
+[u'envelope', 0.1655995, u'kimono', 0.12196296, u'handkerchief', 0.12013876, u'apron', 0.077728219, u'pillow', 0.048151661]

@@ -1,0 +1,4 @@
+[u'coral_fungus', 0.8937602, u'candle', 0.063115522, u'matchstick', 0.018937385, u'spatula', 0.006733465, u'screwdriver', 0.0053777737]
+[u'balloon', 0.13546813, u'umbrella', 0.12630884, u'pencil_box', 0.083375089, u'comic_book', 0.082787976, u'tray', 0.065021321]
+[u'cowboy_hat', 0.053932335, u'cup', 0.053311426, u'spotlight', 0.039374363, u'toilet_seat', 0.037520971, u'neck_brace', 0.037076447]
+[u'web_site', 0.40386158, u'envelope', 0.32271174, u'analog_clock', 0.0283057, u'jersey', 0.0088567073, u'abaya', 0.0082969293]

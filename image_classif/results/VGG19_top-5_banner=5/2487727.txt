@@ -1,0 +1,4 @@
+[u'palace', 0.21808831, u'boathouse', 0.11769998, u'picket_fence', 0.10879481, u'lakeside', 0.079231739, u'church', 0.067708477]
+[u'abaya', 0.2275681, u'suit', 0.091303319, u'Windsor_tie', 0.057694416, u'cleaver', 0.038385954, u'gown', 0.022466967]
+[u'racket', 0.074059606, u'ballplayer', 0.049242392, u'military_uniform', 0.036837731, u'bow_tie', 0.031274289, u'jersey', 0.024002327]
+[u'syringe', 0.24829115, u'flagpole', 0.2285368, u'pole', 0.066895463, u'missile', 0.052523274, u'spotlight', 0.034031525]

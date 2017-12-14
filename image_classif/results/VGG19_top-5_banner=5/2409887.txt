@@ -1,0 +1,6 @@
+[u'street_sign', 0.40346965, u'web_site', 0.074373476, u'safety_pin', 0.02028501, u'hair_spray', 0.018572528, u'hook', 0.010644739]
+[u'web_site', 0.14239763, u'rule', 0.13487735, u'street_sign', 0.058661491, u'safety_pin', 0.05435475, u'hook', 0.040520649]
+[u'pajama', 0.21520564, u'lab_coat', 0.1897295, u'shower_curtain', 0.079655938, u'vestment', 0.070288949, u'hoopskirt', 0.066234954]
+[u'crane', 0.48135847, u'traffic_light', 0.19362086, u'parachute', 0.11872332, u'hook', 0.036780417, u'airship', 0.031240776]
+[u'switch', 0.87542266, u'thresher', 0.023988923, u'envelope', 0.013215626, u'birdhouse', 0.012239311, u'ice_lolly', 0.010465523]
+[u'bubble', 0.34299898, u'safe', 0.096339338, u'medicine_chest', 0.053781729, u'wall_clock', 0.044014122, u'wardrobe', 0.023021054]

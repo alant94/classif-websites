@@ -1,0 +1,6 @@
+[u'plastic_bag', 0.20986706, u'conch', 0.14814506, u'alp', 0.058183514, u'mountain_tent', 0.041154429, u'picket_fence', 0.025003556]
+[u'screwdriver', 0.40389773, u'ballpoint', 0.28566495, u"carpenter's_kit", 0.051552385, u'rubber_eraser', 0.026603688, u'paintbrush', 0.024849659]
+[u'running_shoe', 0.31135881, u'shoe_shop', 0.1987496, u'Arctic_fox', 0.035787262, u'mouse', 0.03481818, u'white_wolf', 0.028016975]
+[u'book_jacket', 0.38531876, u'theater_curtain', 0.19308361, u'volcano', 0.047652647, u'swab', 0.046102654, u'flagpole', 0.028020414]
+[u'hermit_crab', 0.9938128, u'tick', 0.004009271, u'rock_crab', 0.0010433065, u'isopod', 0.00052630127, u'fiddler_crab', 0.00028512898]
+[u'buckle', 0.12013175, u'face_powder', 0.072158836, u'rubber_eraser', 0.056008488, u'panpipe', 0.050842032, u'hair_slide', 0.044211328]

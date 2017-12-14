@@ -1,0 +1,6 @@
+[u'bookshop', 0.2391368, u'library', 0.13816096, u'window_screen', 0.091766238, u'sliding_door', 0.070032157, u'tobacco_shop', 0.067412727]
+[u'church', 0.25884381, u'monastery', 0.15873694, u'dam', 0.086294718, u'snowplow', 0.063751519, u'fountain', 0.043693434]
+[u'nematode', 0.061844647, u'web_site', 0.056763098, u'matchstick', 0.021852611, u'ant', 0.01466233, u'envelope', 0.014531698]
+[u'web_site', 0.83808833, u'menu', 0.11880399, u'envelope', 0.023665722, u'binder', 0.0017712209, u'book_jacket', 0.0015320909]
+[u'pot', 0.59554493, u'vase', 0.13021705, u'cock', 0.05340673, u'eggnog', 0.031546533, u'strawberry', 0.016049119]
+[u'pot', 0.59554493, u'vase', 0.13021705, u'cock', 0.05340673, u'eggnog', 0.031546533, u'strawberry', 0.016049119]

@@ -1,0 +1,2 @@
+[u'barn', 0.30643138, u'brass', 0.15536815, u'scoreboard', 0.11384052, u'worm_fence', 0.063411064, u'prison', 0.019788319]
+[u'digital_clock', 0.13517046, u'matchstick', 0.10037829, u'nematode', 0.032837886, u'lighter', 0.029962048, u'spotlight', 0.01969195]

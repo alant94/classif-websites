@@ -1,0 +1,1 @@
+[u'king_crab', 0.03734152, u'bow_tie', 0.024527814, u'suit', 0.023799691, u'American_lobster', 0.016543088, u'television', 0.016538562]

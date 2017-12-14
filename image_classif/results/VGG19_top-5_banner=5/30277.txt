@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.49934831, u'digital_clock', 0.10076349, u'envelope', 0.07465753, u'digital_watch', 0.048153248, u'maze', 0.046264313]
+[u'patio', 0.18851599, u'sliding_door', 0.18205708, u'window_shade', 0.1628942, u'dining_table', 0.13008665, u'rocking_chair', 0.07929825]

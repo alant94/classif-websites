@@ -1,0 +1,7 @@
+[u'book_jacket', 0.079906471, u'web_site', 0.077138305, u'comic_book', 0.05892675, u'coffee_mug', 0.043135073, u'analog_clock', 0.043056101]
+[u'web_site', 0.14542449, u'packet', 0.066082656, u'sunscreen', 0.054065794, u'pill_bottle', 0.042879343, u'corn', 0.038046185]
+[u'slide_rule', 0.46583885, u'envelope', 0.12743028, u'rule', 0.11391022, u'web_site', 0.024038654, u'screwdriver', 0.013497174]
+[u'safety_pin', 0.15966843, u'web_site', 0.093014255, u'ballpoint', 0.048660256, u'hook', 0.041797079, u'letter_opener', 0.035403892]
+[u'crane', 0.14032833, u'traffic_light', 0.13760588, u'hook', 0.097020328, u'whistle', 0.05395627, u'envelope', 0.035886899]
+[u'ballpoint', 0.13191585, u'whistle', 0.079392143, u'fountain_pen', 0.067706846, u'rubber_eraser', 0.056867719, u'binder', 0.051745672]
+[u'switch', 0.1651223, u'whistle', 0.16209464, u'swab', 0.15926307, u'dumbbell', 0.052944936, u'plow', 0.046094213]

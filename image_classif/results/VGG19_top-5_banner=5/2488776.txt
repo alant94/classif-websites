@@ -1,0 +1,2 @@
+[u'brass', 0.28578737, u'pedestal', 0.13501868, u'book_jacket', 0.12660398, u'comic_book', 0.11343502, u'pickelhaube', 0.097686343]
+[u'book_jacket', 0.38934419, u'crate', 0.24081096, u'barbershop', 0.027943017, u'carton', 0.02664398, u'envelope', 0.019815464]

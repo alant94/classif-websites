@@ -1,0 +1,2 @@
+[u'web_site', 0.21654101, u'envelope', 0.085619122, u'jersey', 0.038084093, u'matchstick', 0.029440532, u'suit', 0.027655987]
+[u'web_site', 0.1960995, u'window_shade', 0.07559412, u'theater_curtain', 0.045683745, u'wardrobe', 0.023308478, u'television', 0.021965098]

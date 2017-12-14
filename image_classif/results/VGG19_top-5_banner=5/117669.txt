@@ -1,0 +1,3 @@
+[u'jellyfish', 0.67763424, u'bubble', 0.18303044, u'tick', 0.030632207, u'pick', 0.012732315, u'Petri_dish', 0.011848225]
+[u'lakeside', 0.22881688, u'balloon', 0.19597501, u'maze', 0.092636511, u'seashore', 0.040303625, u'pinwheel', 0.034344256]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

@@ -1,0 +1,4 @@
+[u'organ', 0.30419585, u'patio', 0.1004442, u'worm_fence', 0.085136279, u'picket_fence', 0.052557193, u'yurt', 0.050195929]
+[u'cleaver', 0.11520466, u'fire_screen', 0.067670837, u'cowboy_boot', 0.067658797, u'brassiere', 0.064253829, u'shower_curtain', 0.053494859]
+[u'paintbrush', 0.068263672, u'butcher_shop', 0.044122409, u'crutch', 0.027599238, u'spindle', 0.022747191, u'swab', 0.02214833]
+[u'candle', 0.92816728, u'matchstick', 0.0574564, u'lighter', 0.0056553292, u'torch', 0.0043382673, u'ice_lolly', 0.00073061371]

@@ -1,0 +1,4 @@
+[u'airship', 0.079108126, u'pill_bottle', 0.044842068, u'analog_clock', 0.042108815, u'bell_cote', 0.041895173, u'parachute', 0.038253423]
+[u'cinema', 0.21750078, u'traffic_light', 0.081365615, u'digital_clock', 0.070408553, u'beacon', 0.050806221, u'church', 0.031664602]
+[u'lighter', 0.1626005, u'traffic_light', 0.10841853, u'safe', 0.097018033, u'digital_clock', 0.050354287, u'digital_watch', 0.046772931]
+[u'picket_fence', 0.43778795, u'barn', 0.12009469, u'worm_fence', 0.053561531, u'birdhouse', 0.04826152, u'church', 0.046599329]

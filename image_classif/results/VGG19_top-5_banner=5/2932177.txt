@@ -1,0 +1,5 @@
+[u'cliff', 0.92823982, u'breakwater', 0.032905158, u'promontory', 0.013076841, u'seashore', 0.007272766, u'swab', 0.005200725]
+[u'golf_ball', 0.071717784, u'pinwheel', 0.065176941, u'mitten', 0.044895232, u'hay', 0.030586004, u'cowboy_hat', 0.028146544]
+[u'pinwheel', 0.090626836, u'golf_ball', 0.081986606, u'mitten', 0.031702179, u'hay', 0.031003864, u'cairn', 0.02826285]
+[u'matchstick', 0.39236078, u'garden_spider', 0.095895551, u'barn_spider', 0.083757006, u'torch', 0.077153943, u'nail', 0.043342475]
+[u'toilet_tissue', 0.11679629, u'neck_brace', 0.11023536, u'bath_towel', 0.092373386, u'lab_coat', 0.08882314, u'paper_towel', 0.055641856]

@@ -1,0 +1,7 @@
+[u'knee_pad', 0.1654297, u'miniskirt', 0.079019658, u'cowboy_hat', 0.075009845, u'trench_coat', 0.067471758, u'umbrella', 0.06056302]
+[u'accordion', 0.13336255, u'sweatshirt', 0.056691676, u'crutch', 0.0526575, u'zebra', 0.040974852, u'spatula', 0.036444534]
+[u'trench_coat', 0.10903799, u'sweatshirt', 0.093634717, u'cloak', 0.078231372, u'miniskirt', 0.050395098, u'stole', 0.048950762]
+[u'bow_tie', 0.28964937, u'miniskirt', 0.26989973, u'chain_mail', 0.080729894, u'jean', 0.044455573, u'trench_coat', 0.026973287]
+[u'palace', 0.6668269, u'throne', 0.10413722, u'monastery', 0.0736463, u'altar', 0.037176445, u'carousel', 0.030177403]
+[u'miniskirt', 0.90288687, u'cowboy_boot', 0.02721061, u'umbrella', 0.0096442159, u'trench_coat', 0.0076515717, u'sunglass', 0.0033303876]
+[u'jean', 0.14009824, u'umbrella', 0.084544897, u'cellular_telephone', 0.078442059, u'motor_scooter', 0.059341528, u'tricycle', 0.056269709]

@@ -1,0 +1,8 @@
+[u'coho', 0.46030083, u'sturgeon', 0.13806425, u'gar', 0.026385857, u'barracouta', 0.024691828, u'swing', 0.01114961]
+[u'swing', 0.082566679, u'maypole', 0.052085299, u'barrow', 0.042059399, u'stupa', 0.039522171, u'thatch', 0.035905473]
+[u'African_hunting_dog', 0.96720517, u'snow_leopard', 0.013459366, u'hyena', 0.0078769447, u'tiger', 0.002649073, u'Great_Dane', 0.0014426804]
+[u'impala', 0.59898698, u'gazelle', 0.24836758, u'wallaby', 0.066292547, u'hartebeest', 0.017727301, u'ibex', 0.016628454]
+[u'necklace', 0.54503208, u'hair_slide', 0.18565071, u'wall_clock', 0.025574084, u'coil', 0.024813281, u'screw', 0.019916728]
+[u'yurt', 0.62558055, u'mobile_home', 0.1007488, u'boathouse', 0.066879258, u'birdhouse', 0.054474078, u'lumbermill', 0.043339081]
+[u'ibex', 0.81717122, u'bighorn', 0.13957371, u'ram', 0.041757304, u'hartebeest', 0.00070835993, u'ox', 0.00043289448]
+[u'American_black_bear', 0.97060263, u'sloth_bear', 0.013091562, u'wild_boar', 0.0097732926, u'Bouvier_des_Flandres', 0.001441257, u'groenendael', 0.00085716048]

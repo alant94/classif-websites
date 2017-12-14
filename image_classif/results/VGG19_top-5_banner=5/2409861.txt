@@ -1,0 +1,2 @@
+[u'measuring_cup', 0.34060457, u'pill_bottle', 0.14478235, u'coffee_mug', 0.084956311, u'beaker', 0.064168639, u'lotion', 0.053714447]
+[u'web_site', 0.5878039, u'envelope', 0.066477701, u'digital_clock', 0.014605163, u'notebook', 0.01425558, u'book_jacket', 0.013716539]

@@ -1,0 +1,1 @@
+[u'geyser', 0.049126446, u'megalith', 0.041411027, u'bison', 0.033518359, u'viaduct', 0.025414113, u'radio_telescope', 0.025139201]

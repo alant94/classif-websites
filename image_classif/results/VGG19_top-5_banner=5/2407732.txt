@@ -1,0 +1,6 @@
+[u'kimono', 0.46950194, u'vestment', 0.21691017, u'abaya', 0.05964677, u'sarong', 0.057163071, u'pajama', 0.018646782]
+[u'sombrero', 0.36637735, u'drum', 0.30052397, u'gong', 0.13278499, u'theater_curtain', 0.027000997, u'prayer_rug', 0.021026092]
+[u'whistle', 0.32291302, u'swab', 0.093446307, u'panpipe', 0.071838111, u'hook', 0.065439545, u'knot', 0.045078184]
+[u'cardoon', 0.11775939, u'cabbage_butterfly', 0.11442808, u'hummingbird', 0.092396386, u'monarch', 0.079524517, u'sulphur_butterfly', 0.053949103]
+[u'medicine_chest', 0.12841652, u'slot', 0.096037008, u'vending_machine', 0.069113448, u'lotion', 0.049841546, u'refrigerator', 0.046384294]
+[u'wooden_spoon', 0.49942833, u'fig', 0.072972052, u'espresso', 0.049108911, u'mortar', 0.048702624, u'corn', 0.045007829]

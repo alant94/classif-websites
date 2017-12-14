@@ -1,0 +1,7 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'cellular_telephone', 0.51874149, u'iPod', 0.45367584, u'hand-held_computer', 0.011739254, u'desktop_computer', 0.0020226676, u'modem', 0.0015302954]
+[u'mask', 0.98403037, u'ski_mask', 0.010492524, u'pick', 0.00097834901, u'wig', 0.0006576567, u'gasmask', 0.00037318832]
+[u'mask', 0.68797857, u'pick', 0.15159653, u'ski_mask', 0.048992157, u'jersey', 0.013727453, u'shield', 0.012136057]
+[u"carpenter's_kit", 0.30692175, u'screwdriver', 0.082457401, u'cleaver', 0.066325136, u'spatula', 0.041660603, u'ballpoint', 0.03185983]
+[u'racket', 0.305756, u'volleyball', 0.13105044, u'knee_pad', 0.10336871, u'balance_beam', 0.087967753, u'stage', 0.07039547]
+[u'iPod', 0.76039505, u'cellular_telephone', 0.11813569, u'hand-held_computer', 0.10253777, u'notebook', 0.0033230258, u'screen', 0.0018343476]

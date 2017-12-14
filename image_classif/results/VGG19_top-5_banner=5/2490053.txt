@@ -1,0 +1,2 @@
+[u'wall_clock', 0.25242153, u'book_jacket', 0.2078556, u'comic_book', 0.15570635, u'cassette', 0.096686631, u'analog_clock', 0.082528934]
+[u'chest', 0.13456407, u'wallet', 0.11450426, u"carpenter's_kit", 0.090762392, u'bookcase', 0.084188491, u'binder', 0.054062635]

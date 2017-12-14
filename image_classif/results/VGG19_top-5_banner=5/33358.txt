@@ -1,0 +1,2 @@
+[u'book_jacket', 0.42888692, u'barbershop', 0.12674621, u'butcher_shop', 0.091607846, u'shoe_shop', 0.048012376, u'toyshop', 0.031757042]
+[u'water_tower', 0.095346831, u'viaduct', 0.066655651, u'pier', 0.037527721, u'geyser', 0.037058104, u'pedestal', 0.035226841]

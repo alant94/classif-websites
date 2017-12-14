@@ -1,0 +1,3 @@
+[u'nail', 0.2211908, u'matchstick', 0.19627859, u'chime', 0.13691469, u'safety_pin', 0.049465165, u'picket_fence', 0.04689889]
+[u'crate', 0.91665632, u'chest', 0.043771405, u'carton', 0.021942997, u'stupa', 0.0017703293, u'hamper', 0.0014598651]
+[u'torch', 0.22894818, u'lighter', 0.12209184, u'matchstick', 0.1133219, u'candle', 0.090251476, u'panpipe', 0.089251578]

@@ -1,0 +1,4 @@
+[u'digital_clock', 0.15071824, u'tray', 0.12500606, u'buckle', 0.064413428, u'digital_watch', 0.056772541, u'iPod', 0.049706057]
+[u'bighorn', 0.5185197, u'ram', 0.18160383, u'chambered_nautilus', 0.15975469, u'mushroom', 0.097526342, u'coil', 0.0098864473]
+[u'hand-held_computer', 0.17454176, u'cellular_telephone', 0.1581495, u'digital_watch', 0.10388575, u'tray', 0.07826034, u'digital_clock', 0.060565572]
+[u'harp', 0.14442146, u'throne', 0.10257862, u'shoe_shop', 0.055167869, u'guillotine', 0.045663249, u'four-poster', 0.036305767]

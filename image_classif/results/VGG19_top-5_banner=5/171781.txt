@@ -1,0 +1,8 @@
+[u'digital_clock', 0.24393487, u'chain', 0.10214116, u'maze', 0.066961676, u'coil', 0.049016096, u'knot', 0.046778753]
+[u'coil', 0.47808132, u'maze', 0.1544416, u'chain', 0.061303928, u'necklace', 0.027824273, u'knot', 0.026779249]
+[u'coil', 0.14262076, u'maze', 0.13377987, u'lens_cap', 0.12001285, u'bottlecap', 0.11236252, u'digital_clock', 0.068854287]
+[u'swing', 0.054979738, u'bubble', 0.046162341, u'totem_pole', 0.041023113, u'pay-phone', 0.028954746, u'traffic_light', 0.028885284]
+[u'coil', 0.33388552, u'necklace', 0.19596396, u'knot', 0.16442941, u'chain', 0.054956228, u'bolo_tie', 0.046429098]
+[u'coil', 0.89840013, u'maze', 0.04129016, u'necklace', 0.011337449, u'stove', 0.0085225021, u'nematode', 0.0076264697]
+[u'matchstick', 0.39572787, u'envelope', 0.067437112, u'picket_fence', 0.063981727, u'panpipe', 0.052211255, u'rubber_eraser', 0.046183567]
+[u'pill_bottle', 0.44593337, u'whistle', 0.043243915, u'sunscreen', 0.028939988, u'consomme', 0.025696468, u'balloon', 0.022563377]

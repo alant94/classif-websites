@@ -1,0 +1,2 @@
+[u'cucumber', 0.050024807, u'black_and_gold_garden_spider', 0.04642348, u'coral_fungus', 0.044404477, u'long-horned_beetle', 0.038433086, u'ear', 0.037976943]
+[u'nail', 0.45114702, u'screw', 0.28919482, u'panpipe', 0.049173739, u'whistle', 0.016015017, u'screwdriver', 0.015427513]

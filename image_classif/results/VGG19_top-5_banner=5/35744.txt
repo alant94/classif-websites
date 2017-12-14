@@ -1,0 +1,4 @@
+[u'screw', 0.38569227, u'nail', 0.24421071, u'hair_slide', 0.034045924, u'corkscrew', 0.032664672, u"carpenter's_kit", 0.022801202]
+[u'corkscrew', 0.23682372, u'screw', 0.21675804, u'whistle', 0.054132357, u'web_site', 0.051284879, u'hook', 0.038508914]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]
+[u'oscilloscope', 0.21893945, u'web_site', 0.2145568, u'rule', 0.060672037, u'digital_clock', 0.04364131, u'book_jacket', 0.03737409]

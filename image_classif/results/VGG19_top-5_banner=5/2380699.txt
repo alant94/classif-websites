@@ -1,0 +1,2 @@
+[u'envelope', 0.11508133, u'ski', 0.045607142, u'scabbard', 0.040978394, u'book_jacket', 0.039748121, u'doormat', 0.03596513]
+[u'book_jacket', 0.10249235, u'analog_clock', 0.098950483, u'web_site', 0.074113101, u'oscilloscope', 0.062173087, u'digital_clock', 0.035837799]

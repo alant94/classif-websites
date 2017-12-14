@@ -1,0 +1,8 @@
+[u'castle', 0.84373337, u'palace', 0.035728898, u'stupa', 0.035294432, u'bell_cote', 0.023053288, u'monastery', 0.016066769]
+[u'tank', 0.11925758, u'bulletproof_vest', 0.10393313, u'military_uniform', 0.050068881, u'half_track', 0.047013428, u'projectile', 0.045362305]
+[u'fur_coat', 0.065992661, u'miniskirt', 0.06126659, u'trench_coat', 0.05343214, u'stole', 0.046941385, u'crutch', 0.030571103]
+[u'cuirass', 0.26068842, u'breastplate', 0.24320509, u'shield', 0.046127088, u'pedestal', 0.029218893, u'triceratops', 0.02525809]
+[u'vestment', 0.6228323, u'throne', 0.037900984, u'shield', 0.030163733, u'breastplate', 0.020936601, u'cloak', 0.017622873]
+[u'patio', 0.096562453, u'gondola', 0.085293382, u'lumbermill', 0.049453694, u'cannon', 0.041722856, u'dock', 0.035926916]
+[u'chime', 0.18189025, u'bell_cote', 0.073849879, u'triumphal_arch', 0.051782042, u'fountain', 0.035460416, u'picket_fence', 0.033971559]
+[u'ski', 0.23828045, u'stupa', 0.058479823, u'bow', 0.048202831, u'throne', 0.03999598, u'dogsled', 0.033347547]

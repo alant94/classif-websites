@@ -1,0 +1,7 @@
+[u'gondola', 0.7448085, u'castle', 0.10266224, u'monastery', 0.038602162, u'church', 0.033617076, u'bell_cote', 0.014033902]
+[u'suspension_bridge', 0.4787541, u'pirate', 0.19549845, u'gondola', 0.13409363, u'castle', 0.080733843, u'dock', 0.017953834]
+[u'gondola', 0.99962091, u'church', 0.00010880147, u'monastery', 6.4168809e-05, u'palace', 6.3318366e-05, u'castle', 2.329708e-05]
+[u'lakeside', 0.64129746, u'fountain', 0.080693454, u'breakwater', 0.071974643, u'geyser', 0.029533714, u'dock', 0.025316391]
+[u'suit', 0.23427136, u'abaya', 0.094306432, u'lakeside', 0.087920867, u'stole', 0.068767421, u'breakwater', 0.031744864]
+[u'shower_curtain', 0.14511737, u'wardrobe', 0.076997019, u'butcher_shop', 0.075198323, u'mosquito_net', 0.029659852, u'sarong', 0.026458176]
+[u'greenhouse', 0.18249366, u'barn', 0.11707707, u'picket_fence', 0.11568721, u'church', 0.055312101, u'castle', 0.036491808]

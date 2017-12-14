@@ -1,0 +1,2 @@
+[u'pick', 0.33851853, u'cocktail_shaker', 0.13477658, u'remote_control', 0.091097556, u'letter_opener', 0.060468808, u'torch', 0.051353481]
+[u'neck_brace', 0.072787665, u'crash_helmet', 0.071262874, u'mask', 0.070683181, u'sunglasses', 0.066083983, u'beer_glass', 0.061955571]

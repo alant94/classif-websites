@@ -1,0 +1,2 @@
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]
+[u'oxygen_mask', 0.46473169, u'gasmask', 0.065742463, u'soap_dispenser', 0.045523666, u'perfume', 0.040881723, u'nipple', 0.039826252]

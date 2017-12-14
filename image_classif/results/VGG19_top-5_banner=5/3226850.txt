@@ -1,0 +1,6 @@
+[u'digital_clock', 0.49249902, u'digital_watch', 0.23418155, u'iPod', 0.036556423, u'stopwatch', 0.027608503, u'screen', 0.025359111]
+[u'web_site', 0.31034434, u'menu', 0.19096489, u'book_jacket', 0.021543223, u'crossword_puzzle', 0.013736922, u'hand-held_computer', 0.0087003587]
+[u'envelope', 0.38192791, u'web_site', 0.1891876, u'menu', 0.064684689, u'Band_Aid', 0.024504969, u'paintbrush', 0.01920151]
+[u'web_site', 0.63214201, u'book_jacket', 0.2803773, u'comic_book', 0.037871774, u'analog_clock', 0.0058752205, u'envelope', 0.0024033193]
+[u'web_site', 0.87749028, u'menu', 0.035286691, u'packet', 0.023637284, u'book_jacket', 0.01389215, u'loupe', 0.0061484696]
+[u'lighter', 0.20888177, u'cassette', 0.13754712, u'switch', 0.093150638, u'loupe', 0.074915051, u'projector', 0.047163248]

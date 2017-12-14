@@ -1,0 +1,7 @@
+[u'restaurant', 0.12410949, u'grand_piano', 0.10513657, u'desk', 0.06993036, u'library', 0.051648192, u'lab_coat', 0.028586127]
+[u'crutch', 0.48515785, u'swab', 0.066199258, u'hoopskirt', 0.054208372, u'comic_book', 0.052171569, u'book_jacket', 0.049822118]
+[u'stole', 0.19577576, u'fur_coat', 0.12068414, u'feather_boa', 0.10364752, u'abaya', 0.072153255, u'gown', 0.054312728]
+[u'hair_spray', 0.29344755, u'lab_coat', 0.22288744, u'stethoscope', 0.077766731, u'hand_blower', 0.062890477, u'wig', 0.033320945]
+[u'quill', 0.95156395, u'feather_boa', 0.021059508, u'comic_book', 0.0031799967, u'web_site', 0.0021826876, u'hair_slide', 0.0020910003]
+[u'whistle', 0.66965669, u'digital_clock', 0.084624246, u'lighter', 0.020526826, u'hook', 0.019632822, u'web_site', 0.018915681]
+[u'maillot', 0.26403126, u'bikini', 0.15609431, u'maillot', 0.095974334, u'swimming_trunks', 0.093731329, u'brassiere', 0.063564211]

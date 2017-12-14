@@ -1,0 +1,7 @@
+[u'airship', 0.17171094, u'street_sign', 0.11062865, u'analog_clock', 0.059909176, u'radio', 0.045756664, u'wall_clock', 0.042177364]
+[u'chime', 0.93537307, u'crib', 0.011375289, u'croquet_ball', 0.009054549, u'nail', 0.0049375049, u'rocking_chair', 0.0042856243]
+[u'space_shuttle', 0.22537051, u'projectile', 0.12923352, u'missile', 0.11740668, u'letter_opener', 0.026128966, u'cleaver', 0.024496093]
+[u'matchstick', 0.062529281, u'nail', 0.04403067, u'space_shuttle', 0.042165443, u'syringe', 0.04138153, u'flagpole', 0.041374523]
+[u'envelope', 0.087966733, u'digital_clock', 0.085695095, u'web_site', 0.073013522, u'wall_clock', 0.033922914, u'analog_clock', 0.017615004]
+[u'flagpole', 0.13307774, u'yawl', 0.10574906, u'projectile', 0.10459052, u'missile', 0.08676745, u'quill', 0.056729171]
+[u'container_ship', 0.43341503, u'matchstick', 0.037398413, u'picket_fence', 0.036445796, u'scoreboard', 0.030940156, u'flagpole', 0.027676556]

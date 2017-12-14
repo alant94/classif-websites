@@ -1,0 +1,1 @@
+[u'digital_clock', 0.13980477, u'Band_Aid', 0.085004739, u'water_tower', 0.043778744, u'traffic_light', 0.035264056, u'street_sign', 0.028601283]

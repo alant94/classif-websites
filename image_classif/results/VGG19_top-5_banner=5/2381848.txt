@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.98975986, u'toilet_seat', 0.0049095214, u'tray', 0.0035752596, u'bib', 0.00093322003, u'plate', 0.00016873448]
+[u'perfume', 0.45064414, u'saltshaker', 0.42260161, u'candle', 0.027885932, u'vase', 0.019942848, u'soap_dispenser', 0.012259044]
+[u'digital_clock', 0.3043431, u'maze', 0.082348876, u'quilt', 0.07962884, u'container_ship', 0.075978316, u'envelope', 0.058054272]
+[u'beer_bottle', 0.36550575, u'pop_bottle', 0.12669326, u'wine_bottle', 0.068415597, u'eggnog', 0.057542201, u'chocolate_sauce', 0.047462016]
+[u'envelope', 0.63433433, u'web_site', 0.067384005, u'crossword_puzzle', 0.043205231, u'digital_clock', 0.021676116, u'Band_Aid', 0.019239243]
+[u'lotion', 0.38017237, u'perfume', 0.07025256, u'whiskey_jug', 0.056441009, u'wine_bottle', 0.053256411, u'sunscreen', 0.049469262]

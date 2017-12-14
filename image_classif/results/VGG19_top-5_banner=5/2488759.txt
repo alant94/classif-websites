@@ -1,0 +1,7 @@
+[u'zebra', 0.13140555, u'African_elephant', 0.096992731, u'Indian_elephant', 0.059608273, u'tiger', 0.041666713, u'tiger_cat', 0.03781056]
+[u'book_jacket', 0.38725448, u'jigsaw_puzzle', 0.054183669, u'pick', 0.04608516, u'tray', 0.042332549, u'envelope', 0.040251315]
+[u'window_screen', 0.097952552, u'prison', 0.065873526, u'vault', 0.049289584, u'sliding_door', 0.036250018, u'turnstile', 0.035423458]
+[u'wall_clock', 0.63856322, u'analog_clock', 0.24259302, u'puck', 0.017291939, u'shield', 0.012996467, u'gong', 0.0094910413]
+[u'candle', 0.069445364, u'pot', 0.061860632, u'Granny_Smith', 0.04713016, u'guacamole', 0.042568706, u'paper_towel', 0.032068901]
+[u'restaurant', 0.60333908, u'butcher_shop', 0.20754899, u'bookshop', 0.037462514, u'dining_table', 0.019380843, u'bakery', 0.014785044]
+[u'water_buffalo', 0.83516687, u'ox', 0.067383334, u'Indian_elephant', 0.040540442, u'tusker', 0.0234116, u'African_elephant', 0.019795252]

@@ -1,0 +1,8 @@
+[u'scoreboard', 0.29865807, u'grocery_store', 0.16263531, u'slot', 0.061354015, u'menu', 0.041153695, u'scale', 0.040354017]
+[u'pill_bottle', 0.069822207, u'typewriter_keyboard', 0.050920416, u'space_bar', 0.044682164, u'wall_clock', 0.032987572, u'jersey', 0.022920756]
+[u'maze', 0.94235289, u'web_site', 0.028108839, u'hay', 0.0145983, u'rapeseed', 0.004230699, u'plow', 0.0020353529]
+[u'thresher', 0.38433591, u'chain_saw', 0.18677256, u'forklift', 0.15214942, u'harvester', 0.06186166, u'switch', 0.021924973]
+[u'jersey', 0.073067732, u'book_jacket', 0.023928793, u'menu', 0.022057727, u'stopwatch', 0.021161679, u'hatchet', 0.019820513]
+[u'book_jacket', 0.74945652, u'comic_book', 0.025766499, u'frilled_lizard', 0.018112363, u'triceratops', 0.011186364, u'web_site', 0.011142449]
+[u'hog', 0.10458551, u'barbershop', 0.10338697, u'moving_van', 0.090045094, u'flagpole', 0.087825172, u'web_site', 0.073976383]
+[u'artichoke', 0.30520853, u'corn', 0.21208604, u'head_cabbage', 0.17937665, u'ear', 0.1244866, u'banana', 0.038026385]

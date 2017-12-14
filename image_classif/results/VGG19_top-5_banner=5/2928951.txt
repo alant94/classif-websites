@@ -1,0 +1,7 @@
+[u'sundial', 0.238718, u'bolo_tie', 0.20089097, u'magnetic_compass', 0.13919996, u'analog_clock', 0.04754268, u'buckle', 0.039375123]
+[u'wall_clock', 0.030812131, u'envelope', 0.016403945, u'ballpoint', 0.013231172, u'rule', 0.011089027, u'pill_bottle', 0.010170436]
+[u'wall_clock', 0.030812131, u'envelope', 0.016403945, u'ballpoint', 0.013231172, u'rule', 0.011089027, u'pill_bottle', 0.010170436]
+[u'stethoscope', 0.1568208, u'water_bottle', 0.11633967, u'vacuum', 0.08249709, u'mailbag', 0.073684104, u'gas_pump', 0.044348817]
+[u'maillot', 0.21695234, u'maillot', 0.17519109, u'sarong', 0.12564312, u'miniskirt', 0.12180199, u'bikini', 0.073067077]
+[u'lab_coat', 0.26633972, u'bow_tie', 0.10573964, u'Windsor_tie', 0.08755371, u'banjo', 0.082227372, u'stethoscope', 0.052355375]
+[u'lab_coat', 0.54933494, u'bow', 0.06439963, u'oxygen_mask', 0.048978783, u'stethoscope', 0.040560171, u'barbershop', 0.038767878]

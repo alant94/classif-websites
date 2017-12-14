@@ -1,0 +1,7 @@
+[u'plate_rack', 0.12247563, u'rocking_chair', 0.11371607, u'gong', 0.086488932, u'shield', 0.066200323, u'wall_clock', 0.053445078]
+[u'iron', 0.21641843, u'plate_rack', 0.12907895, u'harp', 0.096048743, u'shield', 0.071419038, u'gong', 0.065158017]
+[u'container_ship', 0.96791357, u'crane', 0.0092385206, u'beacon', 0.0070199021, u'traffic_light', 0.0025436843, u'breakwater', 0.0021018556]
+[u'web_site', 0.045908116, u'envelope', 0.042406775, u'flagpole', 0.039975934, u'wall_clock', 0.028511958, u'beacon', 0.026958408]
+[u'plate_rack', 0.19693343, u'wardrobe', 0.099846512, u'iron', 0.090869159, u'harp', 0.080412991, u'rocking_chair', 0.074052162]
+[u'container_ship', 0.068507686, u'digital_clock', 0.062100306, u'screen', 0.054220948, u'shower_curtain', 0.052075893, u'envelope', 0.045377217]
+[u'dining_table', 0.57940692, u'rocking_chair', 0.096174456, u'china_cabinet', 0.04459399, u'restaurant', 0.018301066, u'cradle', 0.012050561]

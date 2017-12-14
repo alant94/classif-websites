@@ -1,0 +1,8 @@
+[u'nail', 0.048685182, u'cucumber', 0.043896466, u'whistle', 0.040586911, u'Granny_Smith', 0.036899548, u'screw', 0.035008963]
+[u'street_sign', 0.18604711, u'lighter', 0.04463689, u'Band_Aid', 0.04461604, u'digital_clock', 0.036140524, u'web_site', 0.031307995]
+[u'bolo_tie', 0.24093054, u'buckle', 0.18016474, u'hair_slide', 0.16017583, u'necklace', 0.12500291, u'whistle', 0.076161087]
+[u'goblet', 0.08355581, u'red_wine', 0.065266624, u'microphone', 0.064634629, u'spatula', 0.061756257, u'table_lamp', 0.038936704]
+[u'envelope', 0.12455671, u'stupa', 0.11165223, u'matchstick', 0.087234169, u'panpipe', 0.086466707, u'container_ship', 0.044257946]
+[u'envelope', 0.10340304, u'binder', 0.061865285, u'toilet_seat', 0.055070449, u'screen', 0.04283442, u'safe', 0.036800425]
+[u'container_ship', 0.60754675, u'digital_clock', 0.028426372, u'wall_clock', 0.022392875, u'digital_watch', 0.01974993, u'envelope', 0.017389946]
+[u'pencil_sharpener', 0.27676135, u'chest', 0.10075203, u'mantis', 0.069855541, u'iron', 0.055320397, u'buckle', 0.043651201]

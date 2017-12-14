@@ -1,0 +1,1 @@
+[u"carpenter's_kit", 0.35761291, u'pencil_box', 0.11281823, u'ballpoint', 0.10037027, u'matchstick', 0.099504024, u'comic_book', 0.028257165]

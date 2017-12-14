@@ -1,0 +1,4 @@
+[u'kimono', 0.18487844, u'pajama', 0.10150574, u'stole', 0.049955942, u'cardigan', 0.042231183, u'suit', 0.04089985]
+[u'suit', 0.43078327, u'Windsor_tie', 0.13118003, u'bow_tie', 0.099255301, u'academic_gown', 0.055329993, u'mortarboard', 0.036299206]
+[u'book_jacket', 0.8253746, u'menu', 0.022275329, u'brass', 0.012238923, u'freight_car', 0.011370719, u'ashcan', 0.0096042622]
+[u'bow', 0.47761014, u'ski', 0.11926745, u'balance_beam', 0.046782792, u'horizontal_bar', 0.038553186, u'analog_clock', 0.025016904]

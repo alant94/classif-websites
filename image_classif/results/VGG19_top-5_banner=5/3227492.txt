@@ -1,0 +1,4 @@
+[u'web_site', 0.25613242, u'harmonica', 0.16007963, u'swimming_trunks', 0.11673095, u'ocarina', 0.08836551, u'hand-held_computer', 0.043487251]
+[u'web_site', 0.12992665, u'mobile_home', 0.063961804, u'sliding_door', 0.060892493, u'patio', 0.050509986, u'flagpole', 0.031211151]
+[u'suit', 0.56472552, u'Windsor_tie', 0.37680984, u'academic_gown', 0.012496859, u'bow_tie', 0.0056693251, u'lab_coat', 0.0051207803]
+[u'wall_clock', 0.54252261, u'analog_clock', 0.45738256, u'digital_clock', 4.0257684e-05, u'barometer', 2.3910008e-05, u'stopwatch', 1.473823e-05]

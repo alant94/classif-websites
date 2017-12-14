@@ -1,0 +1,2 @@
+[u'table_lamp', 0.075152978, u'lampshade', 0.072201476, u'perfume', 0.052338276, u'goblet', 0.044907104, u'wine_bottle', 0.042619128]
+[u'comic_book', 0.47134033, u'mask', 0.2296689, u'book_jacket', 0.080466509, u'jigsaw_puzzle', 0.029951116, u'web_site', 0.015500418]

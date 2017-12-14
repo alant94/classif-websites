@@ -1,0 +1,8 @@
+[u'bighorn', 0.69821131, u'ram', 0.077292867, u'diamondback', 0.046708725, u'ibex', 0.028089764, u'water_buffalo', 0.017726047]
+[u'triceratops', 0.76894253, u'water_buffalo', 0.088700064, u'tusker', 0.038541436, u'ox', 0.03401646, u'Indian_elephant', 0.013555663]
+[u'Dungeness_crab', 0.19110776, u'king_crab', 0.16559073, u'sturgeon', 0.16166292, u'rock_crab', 0.095032826, u'barracouta', 0.07915356]
+[u'lumbermill', 0.55550611, u'chain_saw', 0.1314503, u'hog', 0.042328458, u'gyromitra', 0.031950649, u'hen-of-the-woods', 0.028932057]
+[u'plow', 0.81752121, u'oxcart', 0.050859388, u'ox', 0.034907743, u'ibex', 0.013970762, u'barrow', 0.0057455241]
+[u'digital_clock', 0.37559387, u'traffic_light', 0.16600427, u"jack-o'-lantern", 0.047467221, u'buckle', 0.04594161, u'crate', 0.035171349]
+[u'malinois', 0.067619085, u'coyote', 0.062979698, u'Chesapeake_Bay_retriever', 0.044008151, u'Irish_terrier', 0.039551873, u'vizsla', 0.037189327]
+[u'crate', 0.4492811, u'medicine_chest', 0.20074381, u'wardrobe', 0.044769321, u'chest', 0.027992876, u'tray', 0.027204381]

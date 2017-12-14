@@ -1,0 +1,2 @@
+[u'valley', 0.48762652, u'cliff', 0.14269738, u'lakeside', 0.10400105, u'alp', 0.10202226, u'canoe', 0.02588697]
+[u'cassette', 0.16068621, u'paper_towel', 0.10854194, u'toilet_tissue', 0.067596823, u'ocarina', 0.04891685, u'oil_filter', 0.045314483]

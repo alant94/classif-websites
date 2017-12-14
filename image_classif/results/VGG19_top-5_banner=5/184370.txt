@@ -1,0 +1,7 @@
+[u'iPod', 0.13745107, u'screen', 0.093269445, u'notebook', 0.060679346, u'monitor', 0.053994812, u'binder', 0.046816375]
+[u'binder', 0.11391865, u'perfume', 0.091680191, u'screen', 0.072782435, u'iPod', 0.064173177, u'book_jacket', 0.053546749]
+[u'iPod', 0.13992839, u'notebook', 0.089426108, u'screen', 0.084304281, u'monitor', 0.070087269, u'binder', 0.055448379]
+[u'web_site', 0.87640411, u'menu', 0.033119366, u'book_jacket', 0.013827974, u'comic_book', 0.012191221, u'brass', 0.012140276]
+[u'screen', 0.15252307, u'iPod', 0.094556756, u'monitor', 0.068465963, u'binder', 0.062935032, u'notebook', 0.05378449]
+[u'screen', 0.16084993, u'cash_machine', 0.10951138, u'book_jacket', 0.078388065, u'hand-held_computer', 0.054525033, u'television', 0.047760066]
+[u'screen', 0.12798919, u'iPod', 0.089267135, u'monitor', 0.073979929, u'notebook', 0.060367387, u'television', 0.052134097]

@@ -1,0 +1,8 @@
+[u'web_site', 0.29792076, u'envelope', 0.080470718, u'book_jacket', 0.057760552, u'hook', 0.023192635, u'packet', 0.01730644]
+[u'hook', 0.69367915, u'swing', 0.079108648, u'park_bench', 0.029918423, u'knot', 0.0277676, u'studio_couch', 0.014591521]
+[u'ski', 0.26524901, u'picket_fence', 0.18437733, u'punching_bag', 0.17675783, u'brassiere', 0.040731758, u'missile', 0.026570309]
+[u'web_site', 0.66884238, u'matchstick', 0.029410293, u'envelope', 0.025656579, u'analog_clock', 0.012706155, u'digital_clock', 0.0095207049]
+[u'theater_curtain', 0.76028854, u'book_jacket', 0.10894666, u'stage', 0.017145272, u'barbershop', 0.01534934, u'hair_spray', 0.010575602]
+[u'cinema', 0.17644124, u'street_sign', 0.15415125, u'barbershop', 0.089354604, u'web_site', 0.073497519, u'comic_book', 0.060149044]
+[u'swab', 0.26335987, u'hook', 0.096349947, u'nail', 0.063327491, u'knot', 0.019541757, u'quill', 0.019374987]
+[u'web_site', 0.039373413, u'envelope', 0.031377096, u'coffee_mug', 0.019872187, u'hair_spray', 0.017797118, u'street_sign', 0.015347508]

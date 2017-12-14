@@ -1,0 +1,8 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'bell_cote', 0.19692077, u'lampshade', 0.074385226, u'pedestal', 0.045914702, u'beacon', 0.041156828, u'cinema', 0.038743638]
+[u'sliding_door', 0.17997348, u'lampshade', 0.054815445, u'table_lamp', 0.039224759, u'refrigerator', 0.036613066, u'window_shade', 0.035529401]
+[u'matchstick', 0.31950465, u'pool_table', 0.17790557, u'drumstick', 0.15125601, u'ping-pong_ball', 0.075561933, u'marimba', 0.047411207]
+[u'iPod', 0.21280627, u'digital_clock', 0.091918014, u'television', 0.06824962, u'traffic_light', 0.059549842, u'street_sign', 0.054068986]
+[u'candle', 0.17186198, u'lampshade', 0.11160275, u'theater_curtain', 0.038368642, u'monitor', 0.030344412, u'bell_cote', 0.025703171]
+[u'spotlight', 0.1008456, u'bannister', 0.095288716, u'lampshade', 0.052612532, u'bathtub', 0.040791746, u'suspension_bridge', 0.034998156]
+[u'tray', 0.57197577, u'ashcan', 0.081723422, u'laptop', 0.061093714, u'folding_chair', 0.035147801, u'scale', 0.031724092]

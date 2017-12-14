@@ -1,0 +1,8 @@
+[u'suit', 0.29395068, u'jean', 0.11729959, u'abaya', 0.051111281, u'Windsor_tie', 0.039208058, u'bow_tie', 0.037506275]
+[u'bathing_cap', 0.1505646, u'swimming_trunks', 0.10616545, u'hammer', 0.067162916, u'unicycle', 0.042468533, u'shower_cap', 0.03959728]
+[u'recreational_vehicle', 0.071957909, u'minivan', 0.060776822, u'mobile_home', 0.058677208, u'golfcart', 0.051914204, u'Model_T', 0.042476874]
+[u'crutch', 0.262128, u'parallel_bars', 0.1697817, u'dumbbell', 0.15496616, u'barbell', 0.12937959, u'horizontal_bar', 0.025472779]
+[u"potter's_wheel", 0.61752826, u'butcher_shop', 0.053209871, u'sunscreen', 0.034341741, u'swimming_trunks', 0.032659858, u'bathtub', 0.029744202]
+[u'platypus', 0.1196501, u'miniature_pinscher', 0.067712575, u'Mexican_hairless', 0.049478013, u'Italian_greyhound', 0.044999488, u'hamster', 0.038108584]
+[u'walking_stick', 0.039880916, u'bikini', 0.032549717, u'prison', 0.032335445, u'quill', 0.028495735, u'pole', 0.027622793]
+[u'bathing_cap', 0.068824828, u'stingray', 0.063189656, u'diaper', 0.060173087, u'tub', 0.05917396, u'crossword_puzzle', 0.046944641]

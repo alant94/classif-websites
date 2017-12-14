@@ -1,0 +1,2 @@
+[u'Polaroid_camera', 0.11251878, u'reflex_camera', 0.10791681, u'loudspeaker', 0.080883555, u'switch', 0.072253816, u'projector', 0.06539876]
+[u'nail', 0.041554291, u'crutch', 0.037840284, u'digital_clock', 0.028642124, u'whistle', 0.025608558, u'Band_Aid', 0.023570975]

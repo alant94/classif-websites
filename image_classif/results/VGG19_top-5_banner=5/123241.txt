@@ -1,0 +1,3 @@
+[u'slot', 0.99319297, u'confectionery', 0.0022617255, u'toyshop', 0.0016025513, u'tobacco_shop', 0.0010947186, u'vending_machine', 0.00081317365]
+[u'flagpole', 0.16580699, u'boathouse', 0.12976201, u'picket_fence', 0.067254893, u'church', 0.043760732, u'worm_fence', 0.031864662]
+[u'pool_table', 0.99999869, u'desk', 6.0397787e-07, u'dining_table', 2.0265367e-07, u'grand_piano', 1.5349198e-07, u'marimba', 1.1968169e-07]

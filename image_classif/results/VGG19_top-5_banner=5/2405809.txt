@@ -1,0 +1,1 @@
+[u'folding_chair', 0.60373127, u'rocking_chair', 0.33472338, u'plate_rack', 0.019448319, u'barber_chair', 0.0054868432, u'swing', 0.0044031469]

@@ -1,0 +1,6 @@
+[u'wall_clock', 0.31810474, u'analog_clock', 0.24113326, u'laptop', 0.024933038, u'iPod', 0.023496354, u'matchstick', 0.019322706]
+[u'digital_clock', 0.12467306, u'envelope', 0.053347159, u'container_ship', 0.041000672, u'beacon', 0.034059264, u'scoreboard', 0.024487384]
+[u'envelope', 0.04446321, u'lampshade', 0.04274122, u'matchstick', 0.038411029, u'wall_clock', 0.027464243, u'notebook', 0.026452955]
+[u'traffic_light', 0.039666813, u'street_sign', 0.036909383, u'lampshade', 0.03676305, u'spotlight', 0.032955237, u'balloon', 0.025510754]
+[u'wall_clock', 0.077666529, u'envelope', 0.044834837, u'digital_clock', 0.037866067, u'carton', 0.023600852, u'notebook', 0.020425331]
+[u'sax', 0.23969352, u'chain', 0.073047198, u'French_horn', 0.057804961, u'hook', 0.053377684, u'bolo_tie', 0.043967873]

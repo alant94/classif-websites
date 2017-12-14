@@ -1,0 +1,7 @@
+[u'jersey', 0.094679803, u'container_ship', 0.071852036, u'binder', 0.067462027, u'envelope', 0.064659372, u'vending_machine', 0.055818591]
+[u'punching_bag', 0.2959038, u'vending_machine', 0.06776455, u'pool_table', 0.06471321, u'home_theater', 0.053801045, u'binder', 0.04054717]
+[u'vending_machine', 0.9619863, u'switch', 0.0093381554, u'abacus', 0.0072305226, u'slot', 0.0027895162, u'monitor', 0.0017355372]
+[u'binder', 0.15100837, u'punching_bag', 0.12989077, u'prison', 0.047049712, u'pool_table', 0.045740303, u'home_theater', 0.025073241]
+[u'punching_bag', 0.14032274, u'pool_table', 0.12408324, u'wall_clock', 0.083319604, u'binder', 0.075785339, u'refrigerator', 0.073448204]
+[u'prison', 0.11895481, u'binder', 0.10317946, u'rule', 0.077012256, u'switch', 0.072179817, u'shower_curtain', 0.046339631]
+[u'vending_machine', 0.93495083, u'binder', 0.024109306, u'switch', 0.012089428, u'abacus', 0.0025177109, u'refrigerator', 0.0019040109]

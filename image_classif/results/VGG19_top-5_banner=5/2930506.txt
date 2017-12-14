@@ -1,0 +1,5 @@
+[u'lampshade', 0.032828342, u'quill', 0.02831782, u'shoji', 0.021264451, u'window_shade', 0.020945817, u'knot', 0.020879058]
+[u'cash_machine', 0.14379147, u'lighter', 0.070429608, u'laptop', 0.031361748, u'binder', 0.030586999, u'switch', 0.026629241]
+[u'hook', 0.024785694, u'vase', 0.02252119, u'switch', 0.021939995, u'conch', 0.019070735, u'lampshade', 0.018122563]
+[u'face_powder', 0.45432279, u'pill_bottle', 0.086982004, u'toilet_seat', 0.06145243, u'screen', 0.056728125, u'soap_dispenser', 0.025464341]
+[u'cash_machine', 0.19415168, u'screen', 0.18377005, u'monitor', 0.13719426, u'digital_clock', 0.048792046, u'television', 0.046665065]

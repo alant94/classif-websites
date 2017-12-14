@@ -1,0 +1,2 @@
+[u'military_uniform', 0.052500799, u'banjo', 0.021838252, u'bow_tie', 0.016899383, u'bassoon', 0.016356889, u'jersey', 0.013805223]
+[u'shower_curtain', 0.12588483, u'gown', 0.096169554, u'wig', 0.055919472, u'bathtub', 0.032895159, u'fur_coat', 0.032334723]

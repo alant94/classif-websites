@@ -1,0 +1,3 @@
+[u'lab_coat', 0.53456211, u'plate', 0.056438208, u'Granny_Smith', 0.04561083, u'stethoscope', 0.038870379, u'web_site', 0.025480481]
+[u'cinema', 0.56177992, u'vending_machine', 0.042068411, u'passenger_car', 0.034991723, u'cassette_player', 0.029661879, u'tape_player', 0.02878342]
+[u'nail', 0.1604238, u'hair_slide', 0.058515981, u'safety_pin', 0.054995559, u'screw', 0.041440438, u'web_site', 0.028910588]

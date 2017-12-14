@@ -1,0 +1,8 @@
+[u'tobacco_shop', 0.16969721, u'hair_spray', 0.081376821, u'Band_Aid', 0.071693875, u'rule', 0.050095424, u'medicine_chest', 0.048325364]
+[u'lipstick', 0.72231597, u'screwdriver', 0.048667062, u'hair_spray', 0.038395163, u'perfume', 0.026302831, u'wine_bottle', 0.020334335]
+[u'nipple', 0.64958298, u'lotion', 0.10139388, u'water_bottle', 0.085875191, u'pill_bottle', 0.081845365, u'sunscreen', 0.020361891]
+[u'oil_filter', 0.20875272, u'medicine_chest', 0.11267295, u'tobacco_shop', 0.1059831, u'vending_machine', 0.099107482, u'lotion', 0.065327868]
+[u'screwdriver', 0.184534, u'ski', 0.11595716, u'can_opener', 0.11262257, u"carpenter's_kit", 0.10216022, u'ballpoint', 0.074456796]
+[u'pill_bottle', 0.63946486, u'lotion', 0.23602147, u'sunscreen', 0.041906364, u'hair_spray', 0.027702747, u'face_powder', 0.025996244]
+[u'oil_filter', 0.41991031, u'soap_dispenser', 0.12822293, u'face_powder', 0.070174657, u'ashcan', 0.04818482, u'can_opener', 0.039983135]
+[u'bow', 0.41105798, u'rifle', 0.2148627, u'assault_rifle', 0.088752247, u'revolver', 0.044769727, u'hatchet', 0.02205593]

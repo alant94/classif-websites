@@ -1,0 +1,2 @@
+[u'web_site', 0.13040756, u'wig', 0.058551919, u'trench_coat', 0.051540382, u'bow_tie', 0.047819912, u'television', 0.044509854]
+[u'reflex_camera', 0.3241761, u'dial_telephone', 0.17721388, u'Polaroid_camera', 0.13820674, u'hand_blower', 0.049371894, u'web_site', 0.026038062]

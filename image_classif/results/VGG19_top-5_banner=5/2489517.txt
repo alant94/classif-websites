@@ -1,0 +1,5 @@
+[u'solar_dish', 0.2677145, u'garbage_truck', 0.25092575, u'oscilloscope', 0.14342467, u'digital_clock', 0.038170874, u'radiator', 0.033566162]
+[u'picket_fence', 0.27369261, u'digital_clock', 0.13525502, u'matchstick', 0.13384293, u'rule', 0.075398088, u'Band_Aid', 0.057293035]
+[u'solar_dish', 0.35642514, u'radiator', 0.24712004, u'oscilloscope', 0.12077254, u'screen', 0.038273036, u'space_heater', 0.031725772]
+[u'hook', 0.20438401, u'book_jacket', 0.061441433, u'fire_screen', 0.042596005, u'hair_slide', 0.029613329, u'coral_fungus', 0.024886819]
+[u'solar_dish', 0.13262428, u'digital_clock', 0.12859119, u'garbage_truck', 0.080179602, u'oscilloscope', 0.060979333, u'doormat', 0.049401764]

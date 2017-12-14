@@ -1,0 +1,6 @@
+[u'fountain', 0.95185858, u'snowplow', 0.01708035, u'ski', 0.006355444, u'breakwater', 0.0052169533, u'snowmobile', 0.0046215942]
+[u'cliff', 0.19646592, u'eft', 0.1117011, u'coral_fungus', 0.0663414, u'macaw', 0.054107048, u'agama', 0.052830633]
+[u'swing', 0.12027548, u'coho', 0.097988926, u'bow', 0.068987392, u'mountain_bike', 0.045724057, u'cliff', 0.034193017]
+[u'cliff', 0.17969836, u'Gordon_setter', 0.12335456, u'alp', 0.10552996, u'bison', 0.06823957, u'English_setter', 0.048790488]
+[u'warthog', 0.29549825, u'bison', 0.27281415, u'hartebeest', 0.080496259, u'water_buffalo', 0.060643956, u'tusker', 0.054127324]
+[u'loupe', 0.59389049, u'electric_fan', 0.042417277, u'analog_clock', 0.02887968, u'hard_disc', 0.024191927, u'cassette', 0.023836818]

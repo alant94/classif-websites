@@ -1,0 +1,2 @@
+[u'chain', 0.14600001, u'necklace', 0.11363126, u'chain_mail', 0.082112595, u'bolo_tie', 0.04249746, u'matchstick', 0.028803226]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

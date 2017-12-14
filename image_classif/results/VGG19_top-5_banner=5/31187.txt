@@ -1,0 +1,2 @@
+[u'harp', 0.37528157, u'suspension_bridge', 0.33485073, u'bannister', 0.13042665, u'grille', 0.012007721, u'coffee_mug', 0.010337215]
+[u'bolo_tie', 0.20854853, u'combination_lock', 0.090174198, u'loupe', 0.071718, u'hook', 0.051350877, u'microphone', 0.049642161]

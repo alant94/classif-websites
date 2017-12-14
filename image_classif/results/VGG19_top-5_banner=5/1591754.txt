@@ -1,0 +1,1 @@
+[u'whistle', 0.11747411, u'stethoscope', 0.087339982, u'switch', 0.050083414, u'loupe', 0.04884696, u'hook', 0.039667767]

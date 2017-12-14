@@ -1,0 +1,6 @@
+[u'web_site', 0.35125574, u'monitor', 0.12965985, u'screen', 0.089234829, u'menu', 0.061519295, u'envelope', 0.06002776]
+[u'Windsor_tie', 0.18857893, u'panpipe', 0.065769687, u'binder', 0.0625958, u'wool', 0.061210796, u'library', 0.033210438]
+[u'chime', 0.80857301, u'ballpoint', 0.14445549, u'screwdriver', 0.010482589, u'binder', 0.0051836884, u'fountain_pen', 0.0044566253]
+[u'vending_machine', 0.44722378, u'monitor', 0.11273197, u'cash_machine', 0.07336022, u'screen', 0.055788066, u'web_site', 0.05570152]
+[u'book_jacket', 0.29612514, u'scoreboard', 0.062900908, u'street_sign', 0.057328735, u'web_site', 0.022851231, u'comic_book', 0.019073719]
+[u'crossword_puzzle', 0.62477839, u'digital_watch', 0.051890798, u'quilt', 0.050959989, u'maze', 0.042585768, u'digital_clock', 0.038366854]

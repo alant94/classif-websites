@@ -1,0 +1,3 @@
+[u'crane', 0.12941313, u'beacon', 0.079447903, u'pier', 0.077075288, u'monitor', 0.046035677, u'boathouse', 0.025768444]
+[u'monitor', 0.074463345, u'home_theater', 0.074432425, u'cinema', 0.065018825, u'sliding_door', 0.042265769, u'envelope', 0.032143679]
+[u'monitor', 0.04499121, u'cash_machine', 0.042006887, u'desk', 0.041801956, u'container_ship', 0.038098503, u'boathouse', 0.029638745]

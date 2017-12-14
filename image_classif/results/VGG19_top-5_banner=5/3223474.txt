@@ -1,0 +1,2 @@
+[u'spider_web', 0.10048605, u'totem_pole', 0.080437839, u'nematode', 0.077309631, u'maze', 0.067322038, u'peacock', 0.032121178]
+[u'restaurant', 0.64181256, u'dining_table', 0.10438107, u'patio', 0.084207959, u'sliding_door', 0.010560927, u'altar', 0.010185278]

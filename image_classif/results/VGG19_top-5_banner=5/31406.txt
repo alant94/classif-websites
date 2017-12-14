@@ -1,0 +1,6 @@
+[u'envelope', 0.12552476, u'carton', 0.12097448, u'safe', 0.082765244, u'measuring_cup', 0.032462701, u'candle', 0.026779853]
+[u'crossword_puzzle', 0.13484356, u'book_jacket', 0.1213076, u'web_site', 0.094960786, u'scoreboard', 0.058316503, u'digital_clock', 0.039240271]
+[u'traffic_light', 0.27068838, u'container_ship', 0.098787844, u'airship', 0.087314017, u'wall_clock', 0.039853193, u'warplane', 0.03942978]
+[u'brassiere', 0.20962867, u'book_jacket', 0.065380827, u'bonnet', 0.042508304, u'neck_brace', 0.040471427, u'backpack', 0.030815739]
+[u'traffic_light', 0.29476354, u'airship', 0.080820069, u'container_ship', 0.047419503, u'digital_clock', 0.038036998, u'jigsaw_puzzle', 0.036880318]
+[u'traffic_light', 0.1440832, u'scoreboard', 0.12948, u'airship', 0.064281359, u'digital_clock', 0.058013916, u'container_ship', 0.041691996]

@@ -1,0 +1,8 @@
+[u'cash_machine', 0.23577294, u'barbershop', 0.12248168, u'balloon', 0.1086292, u'vending_machine', 0.044491712, u'bakery', 0.031258576]
+[u'spotlight', 0.25097623, u'radio_telescope', 0.16886184, u'space_shuttle', 0.057634484, u'airship', 0.042641386, u'web_site', 0.041660693]
+[u'barbershop', 0.15916091, u'theater_curtain', 0.1056004, u'bakery', 0.055982366, u'toyshop', 0.043386601, u'tobacco_shop', 0.043125823]
+[u'web_site', 0.43350622, u'screen', 0.28641045, u'monitor', 0.18462145, u'desktop_computer', 0.019317582, u'home_theater', 0.018368775]
+[u'web_site', 0.30825442, u'abacus', 0.24751136, u'screen', 0.19151637, u'balloon', 0.052095383, u'monitor', 0.044752248]
+[u'bannister', 0.27266923, u'safe', 0.07615684, u'doormat', 0.074553005, u'fire_screen', 0.036915284, u'prison', 0.036042299]
+[u'hook', 0.27974623, u"carpenter's_kit", 0.27104187, u'chime', 0.084491879, u'screwdriver', 0.057816777, u'panpipe', 0.034379445]
+[u'parachute', 0.17406175, u'balloon', 0.066908136, u'traffic_light', 0.0604789, u'envelope', 0.05116947, u'crane', 0.047760893]

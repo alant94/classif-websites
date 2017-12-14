@@ -1,0 +1,6 @@
+[u'beer_glass', 0.66523671, u'espresso', 0.14353575, u'beer_bottle', 0.029179415, u'consomme', 0.027032321, u'pitcher', 0.014816473]
+[u'cocktail_shaker', 0.86366022, u'soap_dispenser', 0.037517942, u'nipple', 0.02017824, u'water_bottle', 0.018265996, u'pill_bottle', 0.014434965]
+[u'beaker', 0.84379566, u'measuring_cup', 0.046480246, u'candle', 0.024658816, u'eggnog', 0.013053267, u'sunscreen', 0.0070102173]
+[u'beaker', 0.4924989, u'eggnog', 0.15901507, u'beer_glass', 0.090611324, u'candle', 0.071678907, u'soap_dispenser', 0.024403272]
+[u'coffee_mug', 0.48137826, u'cup', 0.12931432, u'measuring_cup', 0.1154919, u'whiskey_jug', 0.049362469, u'candle', 0.041091751]
+[u'beaker', 0.45673564, u'candle', 0.066933356, u'sunscreen', 0.063773915, u'eggnog', 0.063175328, u'measuring_cup', 0.043723688]

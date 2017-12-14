@@ -1,0 +1,2 @@
+[u'microphone', 0.062645115, u'matchstick', 0.062499065, u'hook', 0.04675084, u'jellyfish', 0.046573587, u'oscilloscope', 0.046111528]
+[u'trailer_truck', 0.13067441, u'space_shuttle', 0.062936097, u'moving_van', 0.060811274, u'crane', 0.04100772, u'freight_car', 0.034772344]

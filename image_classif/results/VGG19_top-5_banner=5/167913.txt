@@ -1,0 +1,5 @@
+[u'spindle', 0.26260415, u'hair_slide', 0.074614905, u'wig', 0.062604941, u'hook', 0.044026513, u'cornet', 0.036229815]
+[u'bookshop', 0.13200733, u'book_jacket', 0.051276237, u'theater_curtain', 0.047420774, u'knee_pad', 0.039258145, u'comic_book', 0.036427192]
+[u'pajama', 0.13546903, u'suit', 0.10025574, u'sweatshirt', 0.049535882, u'jean', 0.043269612, u'miniskirt', 0.041788846]
+[u'lab_coat', 0.16805346, u'fur_coat', 0.10023195, u'feather_boa', 0.05437281, u'hair_spray', 0.041675664, u'groom', 0.035494734]
+[u'screen', 0.092293337, u'book_jacket', 0.089514486, u'perfume', 0.089176133, u'monitor', 0.078484058, u'cash_machine', 0.06126263]

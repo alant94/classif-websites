@@ -1,0 +1,7 @@
+[u'coffee_mug', 0.048521593, u'Band_Aid', 0.03547851, u'soap_dispenser', 0.033114802, u'oil_filter', 0.029965956, u'gas_pump', 0.025977904]
+[u'toaster', 0.23874864, u'Band_Aid', 0.20783117, u'packet', 0.061310869, u'nipple', 0.04681759, u'digital_clock', 0.046435978]
+[u'Band_Aid', 0.13663664, u'comic_book', 0.10539779, u'book_jacket', 0.050695743, u'tobacco_shop', 0.037044141, u'barbershop', 0.028988374]
+[u'matchstick', 0.10889749, u'hook', 0.068727106, u'theater_curtain', 0.064064316, u'candle', 0.061632823, u'safety_pin', 0.057992343]
+[u'maraca', 0.44549224, u'spotlight', 0.12095313, u'balloon', 0.098104611, u'eggnog', 0.065128334, u'racket', 0.03549422]
+[u'digital_clock', 0.21323606, u'toaster', 0.20120378, u'Band_Aid', 0.15606144, u'pencil_sharpener', 0.060180016, u'switch', 0.033608109]
+[u'Band_Aid', 0.57600939, u'pencil_sharpener', 0.074296124, u'packet', 0.042818222, u'oil_filter', 0.0415048, u'carton', 0.034320597]

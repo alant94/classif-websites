@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.59213132, u'maze', 0.057180915, u'toilet_seat', 0.049664669, u'football_helmet', 0.035479359, u'face_powder', 0.032341219]

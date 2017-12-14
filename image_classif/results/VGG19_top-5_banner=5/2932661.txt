@@ -1,0 +1,2 @@
+[u'suit', 0.052370228, u'bow_tie', 0.050702795, u'seat_belt', 0.049239662, u'jersey', 0.043636467, u'drumstick', 0.038372964]
+[u'pitcher', 0.091305397, u'goblet', 0.070030712, u'vase', 0.06796743, u'cocktail_shaker', 0.065865427, u'wine_bottle', 0.062722288]

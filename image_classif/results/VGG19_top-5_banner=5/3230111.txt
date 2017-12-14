@@ -1,0 +1,2 @@
+[u'iron', 0.26599792, u'airship', 0.086603433, u'cleaver', 0.045347299, u'rugby_ball', 0.04206726, u'letter_opener', 0.041193943]
+[u'altar', 0.39254543, u'church', 0.16512372, u'vault', 0.074633077, u'vestment', 0.07151784, u'throne', 0.06744273]

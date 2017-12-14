@@ -1,0 +1,7 @@
+[u'American_black_bear', 0.99744737, u'wild_boar', 0.0010242948, u'brown_bear', 0.00094952469, u'sloth_bear', 0.00037331023, u'hog', 0.00020243018]
+[u'screen', 0.13772744, u'hand-held_computer', 0.10549542, u'iPod', 0.080956981, u'desktop_computer', 0.066059031, u'digital_clock', 0.05995075]
+[u'street_sign', 0.3810516, u'barbershop', 0.081988215, u'totem_pole', 0.05782149, u'scoreboard', 0.050814826, u'book_jacket', 0.050800357]
+[u'Petri_dish', 0.8321023, u'barrel', 0.038174704, u'isopod', 0.025056314, u'water_bottle', 0.01072609, u'vase', 0.010551984]
+[u'gazelle', 0.51892203, u'impala', 0.1841124, u'hartebeest', 0.10632627, u'ibex', 0.035410833, u'Great_Dane', 0.0079634115]
+[u'picket_fence', 0.15018766, u'worm_fence', 0.14029287, u'fountain', 0.072097115, u'Indian_elephant', 0.048497677, u'butcher_shop', 0.04507364]
+[u'monitor', 0.35304376, u'television', 0.12665448, u'screen', 0.11408, u'cinema', 0.032207459, u'cash_machine', 0.032176804]

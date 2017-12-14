@@ -1,0 +1,2 @@
+[u'jersey', 0.11823533, u'theater_curtain', 0.084622167, u'book_jacket', 0.048327919, u'chime', 0.041991405, u'paintbrush', 0.02695764]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

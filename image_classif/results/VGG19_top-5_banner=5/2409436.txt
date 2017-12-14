@@ -1,0 +1,4 @@
+[u'waffle_iron', 0.18003134, u'tray', 0.099945895, u'bakery', 0.060343504, u'chest', 0.057912447, u'accordion', 0.048476435]
+[u'scoreboard', 0.3322309, u'barbershop', 0.22890933, u'cinema', 0.067567028, u'tobacco_shop', 0.039486933, u'trailer_truck', 0.033216577]
+[u'laptop', 0.1995004, u'scoreboard', 0.17382489, u'street_sign', 0.10493065, u'traffic_light', 0.034978967, u'flagpole', 0.030910041]
+[u'confectionery', 0.3200399, u'grocery_store', 0.26910588, u'packet', 0.093605295, u'vending_machine', 0.079113886, u'pop_bottle', 0.040016834]

@@ -1,0 +1,7 @@
+[u'dalmatian', 0.99797744, u'Great_Dane', 0.0019164764, u'Walker_hound', 2.4615249e-05, u'English_setter', 2.4099538e-05, u'Saluki', 1.1939811e-05]
+[u'screen', 0.0191938, u'geyser', 0.017586224, u'monitor', 0.015901851, u'television', 0.013854953, u'binder', 0.013400321]
+[u'Scottish_deerhound', 0.27380648, u'Irish_wolfhound', 0.26116532, u'Airedale', 0.19793406, u'wire-haired_fox_terrier', 0.045522228, u'Lakeland_terrier', 0.042392954]
+[u'dalmatian', 0.99058503, u'Great_Dane', 0.0067813508, u'muzzle', 0.0011001525, u'guinea_pig', 0.00015203583, u'German_short-haired_pointer', 0.00010663953]
+[u'perfume', 0.10208279, u'book_jacket', 0.069148138, u'iPod', 0.052160766, u'rubber_eraser', 0.049394619, u'street_sign', 0.045999769]
+[u'web_site', 0.96421057, u'refrigerator', 0.010831899, u'envelope', 0.0046605235, u'menu', 0.0029402385, u'comic_book', 0.0025318197]
+[u'iPod', 0.11770093, u'scale', 0.11738291, u'lighter', 0.1002311, u'Band_Aid', 0.088900924, u'tray', 0.051112253]

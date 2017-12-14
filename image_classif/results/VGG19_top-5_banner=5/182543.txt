@@ -1,0 +1,7 @@
+[u'shower_curtain', 0.17973846, u'digital_clock', 0.10534474, u'washbasin', 0.087726273, u'wall_clock', 0.084077626, u'maze', 0.049813017]
+[u'maze', 0.2080742, u'safe', 0.19998664, u'digital_clock', 0.18938652, u'cash_machine', 0.11267437, u'monitor', 0.052940015]
+[u'street_sign', 0.062295437, u'coffee_mug', 0.034543894, u'pill_bottle', 0.028829467, u'book_jacket', 0.012154099, u'jersey', 0.011696103]
+[u'maze', 0.15469383, u'digital_clock', 0.12699017, u'monitor', 0.062154584, u'oscilloscope', 0.053482633, u'screen', 0.051249985]
+[u'digital_clock', 0.14781637, u'book_jacket', 0.085633956, u'traffic_light', 0.074905761, u'packet', 0.069499575, u'web_site', 0.063301392]
+[u'racket', 0.05123971, u'iron', 0.049653973, u'wall_clock', 0.048286978, u'ashcan', 0.038719151, u'combination_lock', 0.025307601]
+[u'crossword_puzzle', 0.27855381, u'menu', 0.27000988, u'hard_disc', 0.076860651, u'slide_rule', 0.024459459, u'packet', 0.020151744]

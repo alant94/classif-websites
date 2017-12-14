@@ -1,0 +1,2 @@
+[u'maillot', 0.22408195, u'bikini', 0.11916939, u'maillot', 0.10709734, u'sarong', 0.090892419, u'conch', 0.071810961]
+[u'reel', 0.76615244, u'gar', 0.11402804, u'barracouta', 0.085621692, u'coho', 0.023700038, u'trimaran', 0.0020395268]

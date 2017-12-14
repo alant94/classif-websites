@@ -1,0 +1,4 @@
+[u'triceratops', 0.4631854, u'tailed_frog', 0.089170575, u'common_newt', 0.087223478, u'jigsaw_puzzle', 0.074990749, u'eft', 0.057561539]
+[u'jellyfish', 0.81260282, u'comic_book', 0.025979741, u'book_jacket', 0.022125687, u'jersey', 0.017806349, u'tray', 0.0093089035]
+[u'packet', 0.42032212, u'mailbag', 0.13811469, u'shopping_basket', 0.027618431, u'plastic_bag', 0.018988976, u'ocarina', 0.014727969]
+[u'book_jacket', 0.2795184, u'comic_book', 0.23273526, u'hook', 0.084583841, u'web_site', 0.032194667, u'wall_clock', 0.026692607]

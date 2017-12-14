@@ -1,0 +1,5 @@
+[u'jersey', 0.065316588, u'hatchet', 0.041921385, u'envelope', 0.037769351, u'letter_opener', 0.036618847, u'hair_slide', 0.021553971]
+[u'great_grey_owl', 0.92261821, u'house_finch', 0.017138494, u'worm_fence', 0.01336147, u'hummingbird', 0.00898977, u'robin', 0.0067996387]
+[u'American_alligator', 0.49913207, u'African_crocodile', 0.13627915, u'hornbill', 0.10633228, u'vulture', 0.059485726, u'bald_eagle', 0.029287621]
+[u'great_grey_owl', 0.26083621, u'kite', 0.14578797, u'hornbill', 0.12239823, u'worm_fence', 0.10166358, u'bustard', 0.077604011]
+[u'mask', 0.27476993, u'bib', 0.093710922, u'ram', 0.089240894, u'custard_apple', 0.055854421, u'teddy', 0.052083652]

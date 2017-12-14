@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.31141299, u'fountain', 0.18570083, u'dome', 0.074958108, u'stage', 0.044778105, u'lampshade', 0.033532392]

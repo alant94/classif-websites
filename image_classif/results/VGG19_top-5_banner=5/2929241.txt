@@ -1,0 +1,3 @@
+[u'printer', 0.2156024, u'cash_machine', 0.086932071, u'car_wheel', 0.081167966, u'screen', 0.07327985, u'iron', 0.069060072]
+[u'scoreboard', 0.58088386, u'brass', 0.14464293, u'book_jacket', 0.029435376, u'screen', 0.029417036, u'street_sign', 0.027195714]
+[u'ballpoint', 0.49718413, u'pencil_box', 0.11104442, u'rubber_eraser', 0.098686524, u'chime', 0.082581595, u'matchstick', 0.03198183]

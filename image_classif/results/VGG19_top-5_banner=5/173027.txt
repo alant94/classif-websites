@@ -1,0 +1,2 @@
+[u'rotisserie', 0.65389889, u'space_heater', 0.16280386, u'abacus', 0.03977504, u'oscilloscope', 0.016608369, u'safe', 0.015586264]
+[u'rotisserie', 0.13651465, u'abacus', 0.10458849, u'space_heater', 0.086498193, u'plate_rack', 0.057840444, u'screwdriver', 0.041517649]

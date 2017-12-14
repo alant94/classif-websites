@@ -1,0 +1,8 @@
+[u'screwdriver', 0.27451685, u"carpenter's_kit", 0.10129536, u'barbell', 0.09393464, u'chime', 0.057934158, u'crane', 0.037336335]
+[u'screwdriver', 0.23268111, u"carpenter's_kit", 0.078757465, u'rifle', 0.058133591, u'barbell', 0.047821715, u'hook', 0.044005565]
+[u'screwdriver', 0.49926919, u'chime', 0.10738119, u'syringe', 0.058420349, u"carpenter's_kit", 0.051143397, u'rifle', 0.040513005]
+[u'screwdriver', 0.34752607, u"carpenter's_kit", 0.12747881, u'rifle', 0.092533857, u'chime', 0.047515158, u'bow', 0.031966452]
+[u'screwdriver', 0.21326925, u"carpenter's_kit", 0.080270194, u'hook', 0.057576407, u'chime', 0.051997628, u'rifle', 0.044128358]
+[u'screwdriver', 0.73627216, u'screw', 0.051369082, u"carpenter's_kit", 0.047901575, u'syringe', 0.040130928, u'nail', 0.013669536]
+[u'screwdriver', 0.43999711, u"carpenter's_kit", 0.07960365, u'chime', 0.0384476, u'syringe', 0.037231743, u'barbell', 0.02824227]
+[u'screwdriver', 0.48860249, u"carpenter's_kit", 0.16613625, u'swab', 0.02526175, u'syringe', 0.023196157, u'power_drill', 0.022746528]

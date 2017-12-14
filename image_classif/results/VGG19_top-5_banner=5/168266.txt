@@ -1,0 +1,3 @@
+[u'garbage_truck', 0.089397803, u'barbershop', 0.053118806, u'gas_pump', 0.045340259, u'forklift', 0.040114194, u'streetcar', 0.03627738]
+[u'fountain', 0.058660451, u'lakeside', 0.047910564, u'car_mirror', 0.046481457, u'fireboat', 0.045842815, u'American_alligator', 0.0432394]
+[u'nail', 0.47129276, u'hook', 0.13554604, u'screwdriver', 0.049281217, u'cleaver', 0.042595033, u'matchstick', 0.036084425]

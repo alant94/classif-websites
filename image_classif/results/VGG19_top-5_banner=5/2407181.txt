@@ -1,0 +1,1 @@
+[u'scoreboard', 0.4196316, u'digital_clock', 0.27552465, u'street_sign', 0.064746201, u'stopwatch', 0.042875916, u'odometer', 0.041397907]

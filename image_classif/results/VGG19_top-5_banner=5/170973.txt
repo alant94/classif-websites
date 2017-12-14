@@ -1,0 +1,1 @@
+[u'bottlecap', 0.94270527, u'corkscrew', 0.011093279, u'spotlight', 0.0066220085, u'can_opener', 0.0046337126, u'lycaenid', 0.0027649561]

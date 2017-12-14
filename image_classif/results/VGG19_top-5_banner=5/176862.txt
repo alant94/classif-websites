@@ -1,0 +1,6 @@
+[u'web_site', 0.41129872, u'book_jacket', 0.20344615, u'comic_book', 0.18102658, u'scoreboard', 0.058687836, u'racket', 0.012457013]
+[u'comic_book', 0.45603228, u'web_site', 0.30762458, u'cassette', 0.11657331, u'bookshop', 0.06559588, u'book_jacket', 0.017484337]
+[u'cowboy_hat', 0.76365554, u'sombrero', 0.020636925, u'marimba', 0.014847565, u'poncho', 0.01313685, u'cowboy_boot', 0.011981972]
+[u'sarong', 0.7364915, u'poncho', 0.083832689, u'kimono', 0.049684525, u'stole', 0.01862024, u'torch', 0.015359318]
+[u'ballplayer', 0.39305544, u'torch', 0.1162139, u'racket', 0.077466697, u'scoreboard', 0.072575279, u'stage', 0.048630178]
+[u'web_site', 0.45304552, u'comic_book', 0.42386162, u'bobsled', 0.038884174, u'bathing_cap', 0.020632332, u'envelope', 0.011271695]

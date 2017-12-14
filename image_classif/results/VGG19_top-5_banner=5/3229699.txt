@@ -1,0 +1,1 @@
+[u'monitor', 0.12332503, u'theater_curtain', 0.11540026, u'window_shade', 0.10722473, u'screen', 0.088558286, u'fire_screen', 0.071575314]

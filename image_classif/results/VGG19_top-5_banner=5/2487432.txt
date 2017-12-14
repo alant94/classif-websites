@@ -1,0 +1,2 @@
+[u'fountain', 0.63435262, u'jigsaw_puzzle', 0.10041177, u'book_jacket', 0.09417586, u'Afghan_hound', 0.031000447, u'Gordon_setter', 0.022177618]
+[u'wild_boar', 0.35114747, u'chain_saw', 0.14900245, u'tusker', 0.065966576, u'dogsled', 0.059555441, u'hog', 0.049733747]

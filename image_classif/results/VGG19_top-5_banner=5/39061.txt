@@ -1,0 +1,2 @@
+[u'geyser', 0.81345034, u'fountain', 0.17023906, u'breakwater', 0.0040252851, u'torch', 0.0028975434, u'cliff', 0.0028389157]
+[u'turnstile', 0.14487056, u'space_heater', 0.088794976, u'file', 0.073029965, u'desktop_computer', 0.071995787, u'book_jacket', 0.054995026]

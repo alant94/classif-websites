@@ -1,0 +1,2 @@
+[u'tusker', 0.47497061, u'Indian_elephant', 0.10998733, u'bikini', 0.03178791, u'gorilla', 0.022141447, u'totem_pole', 0.020794045]
+[u'patio', 0.12009646, u'lumbermill', 0.10007094, u'forklift', 0.093960755, u'dam', 0.082475416, u'snowplow', 0.081858031]

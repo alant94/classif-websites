@@ -1,0 +1,1 @@
+[u'face_powder', 0.68913537, u'loupe', 0.061666947, u'Petri_dish', 0.045108631, u'perfume', 0.032746885, u'sunscreen', 0.016074883]

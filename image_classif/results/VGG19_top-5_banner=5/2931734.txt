@@ -1,0 +1,2 @@
+[u'harp', 0.2454831, u'panpipe', 0.20588173, u'lumbermill', 0.098987207, u'totem_pole', 0.072133571, u'cowboy_boot', 0.036026325]
+[u'vacuum', 0.12434411, u'crutch', 0.073695481, u'broom', 0.055474576, u'swab', 0.055414908, u'cowboy_boot', 0.03580318]

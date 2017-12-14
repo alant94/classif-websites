@@ -1,0 +1,2 @@
+[u'window_shade', 0.24815257, u'carton', 0.10096993, u'crate', 0.056530129, u'patio', 0.054255184, u'library', 0.042605855]
+[u'crate', 0.54671317, u'barrel', 0.079409063, u'book_jacket', 0.037262551, u'barn', 0.031066773, u'barbershop', 0.022257043]

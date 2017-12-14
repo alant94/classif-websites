@@ -1,0 +1,2 @@
+[u'rapeseed', 0.895302, u'stone_wall', 0.032827582, u'maze', 0.017340627, u'lakeside', 0.006385901, u'palace', 0.0060135019]
+[u'refrigerator', 0.45775402, u'web_site', 0.15443122, u'envelope', 0.12684099, u'laptop', 0.041916449, u'binder', 0.041631009]

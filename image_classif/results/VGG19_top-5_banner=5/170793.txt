@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.31267634, u'power_drill', 0.046212837, u'web_site', 0.044274185, u'parachute', 0.041400019, u'envelope', 0.024083961]
+[u'barrel', 0.79800427, u'crate', 0.072567388, u'punching_bag', 0.017787645, u'drum', 0.013625852, u'swab', 0.0080697285]

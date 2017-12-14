@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.30547374, u'digital_clock', 0.20827943, u'street_sign', 0.065796427, u'envelope', 0.030449357, u'binder', 0.026762042]
+[u'jigsaw_puzzle', 0.46240374, u'stage', 0.20280607, u'comic_book', 0.17265093, u'theater_curtain', 0.010931826, u'mask', 0.0096490057]
+[u'web_site', 0.44546783, u'menu', 0.43685505, u'book_jacket', 0.03431255, u'brass', 0.015082806, u'comic_book', 0.011316308]

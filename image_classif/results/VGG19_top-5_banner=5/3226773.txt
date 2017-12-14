@@ -1,0 +1,2 @@
+[u'picket_fence', 0.5216881, u'thatch', 0.096684903, u'church', 0.051932551, u'poncho', 0.03974276, u'chime', 0.032857142]
+[u'digital_clock', 0.30792418, u'traffic_light', 0.16431145, u'matchstick', 0.12085124, u'street_sign', 0.10846516, u'candle', 0.035433203]

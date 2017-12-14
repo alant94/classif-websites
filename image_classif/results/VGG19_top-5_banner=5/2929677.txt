@@ -1,0 +1,5 @@
+[u'face_powder', 0.1606385, u'bib', 0.078601211, u'envelope', 0.077952273, u'pick', 0.060878359, u'comic_book', 0.054979559]
+[u'lab_coat', 0.99431866, u'stethoscope', 0.0032998289, u'crutch', 0.00024352341, u'suit', 0.00019940884, u'trench_coat', 0.00016930776]
+[u'pajama', 0.5297671, u'kimono', 0.2244461, u'sarong', 0.048981171, u'apron', 0.034537345, u'photocopier', 0.01527914]
+[u'otterhound', 0.85063291, u'Irish_wolfhound', 0.044522095, u'Old_English_sheepdog', 0.025911819, u'briard', 0.015935196, u'soft-coated_wheaten_terrier', 0.015309377]
+[u'dogsled', 0.32784727, u'dalmatian', 0.1773845, u'ox', 0.11037102, u'oxcart', 0.08092501, u'English_foxhound', 0.060642816]

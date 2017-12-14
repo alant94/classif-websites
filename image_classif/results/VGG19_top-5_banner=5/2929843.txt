@@ -1,0 +1,3 @@
+[u'basset', 0.047762211, u'oxygen_mask', 0.039274506, u'abaya', 0.032382611, u'bloodhound', 0.031837631, u'muzzle', 0.031276956]
+[u'plunger', 0.11396391, u'rugby_ball', 0.092085496, u'basketball', 0.0789911, u'stage', 0.077918492, u'dumbbell', 0.062234227]
+[u'tub', 0.40135697, u'bathtub', 0.3228268, u'plunger', 0.030918984, u'toilet_seat', 0.030734332, u'washbasin', 0.013732842]

@@ -1,0 +1,1 @@
+[u'web_site', 0.025376232, u'digital_clock', 0.024663558, u'spotlight', 0.024636971, u'plate_rack', 0.0234628, u'switch', 0.023356644]

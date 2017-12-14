@@ -1,0 +1,2 @@
+[u'container_ship', 0.21926035, u'digital_clock', 0.12973686, u'maze', 0.051958695, u'traffic_light', 0.024043806, u'library', 0.019727072]
+[u'street_sign', 0.47554803, u'analog_clock', 0.12781636, u'book_jacket', 0.071941905, u'traffic_light', 0.028698722, u'matchstick', 0.026576618]

@@ -1,0 +1,1 @@
+[u'matchstick', 0.57659823, u'traffic_light', 0.02648098, u'digital_clock', 0.025326701, u"jack-o'-lantern", 0.02007485, u'maze', 0.018461755]

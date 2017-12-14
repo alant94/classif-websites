@@ -1,0 +1,4 @@
+[u'brassiere', 0.55132264, u'envelope', 0.16308276, u'web_site', 0.043755125, u'apron', 0.012399313, u'book_jacket', 0.011668484]
+[u'book_jacket', 0.075775869, u'ski', 0.066236854, u'alp', 0.063628927, u'comic_book', 0.046138976, u'Greater_Swiss_Mountain_dog', 0.038333412]
+[u'umbrella', 0.58379447, u'parachute', 0.086891472, u'pirate', 0.075144172, u'book_jacket', 0.033127714, u'mountain_tent', 0.017894818]
+[u'mask', 0.71278071, u"jack-o'-lantern", 0.081813075, u'balloon', 0.051828485, u'umbrella', 0.034208186, u'ski_mask', 0.027785819]

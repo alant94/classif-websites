@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.18382137, u'rubber_eraser', 0.12412428, u'tobacco_shop', 0.079272583, u'cassette', 0.061959624, u'hair_spray', 0.058155742]
+[u'screwdriver', 0.28306887, u'syringe', 0.13966803, u'rule', 0.074479029, u"carpenter's_kit", 0.072761007, u'tobacco_shop', 0.049028508]
+[u'crate', 0.081212044, u'bookshop', 0.061284762, u'tobacco_shop', 0.059668232, u'bookcase', 0.05825134, u'drumstick', 0.056114201]
+[u'barbershop', 0.31286213, u'shoe_shop', 0.19706467, u'barber_chair', 0.091624014, u"potter's_wheel", 0.052922621, u'plane', 0.042477667]
+[u'rubber_eraser', 0.59537822, u'fountain_pen', 0.26593056, u'ballpoint', 0.046817526, u'flute', 0.018391078, u'projectile', 0.017509939]
+[u'mitten', 0.35481527, u'ski_mask', 0.056814909, u'pick', 0.04556961, u'Band_Aid', 0.044251461, u'spatula', 0.035924826]
+[u'crate', 0.14515327, u'cassette', 0.11098825, u'vending_machine', 0.096996367, u'gas_pump', 0.095255867, u'tobacco_shop', 0.079115786]

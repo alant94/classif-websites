@@ -1,0 +1,5 @@
+[u'hook', 0.12128632, u'ski', 0.11623727, u'matchstick', 0.11499707, u'picket_fence', 0.09151344, u'book_jacket', 0.083316505]
+[u'wall_clock', 0.043847769, u'switch', 0.027110284, u'nematode', 0.021387342, u'rule', 0.013846972, u'pill_bottle', 0.013543108]
+[u'book_jacket', 0.1690762, u'menu', 0.16404143, u'packet', 0.096170194, u'hammer', 0.051404089, u'lotion', 0.037960514]
+[u'book_jacket', 0.31183532, u'electric_guitar', 0.050660245, u'jersey', 0.037152071, u'stage', 0.031752449, u'television', 0.02468225]
+[u'web_site', 0.29004887, u'envelope', 0.04168677, u'book_jacket', 0.019712808, u'crossword_puzzle', 0.014675563, u'Band_Aid', 0.014352526]

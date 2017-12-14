@@ -1,0 +1,2 @@
+[u'web_site', 0.41675144, u'refrigerator', 0.050519634, u'nipple', 0.02079368, u'medicine_chest', 0.017360082, u'binder', 0.015549497]
+[u'web_site', 0.99093455, u'book_jacket', 0.0076969941, u'comic_book', 0.00089364167, u'wig', 9.8230354e-05, u'menu', 7.2258241e-05]

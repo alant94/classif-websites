@@ -1,0 +1,5 @@
+[u'patio', 0.87521958, u'sliding_door', 0.02352217, u'dining_table', 0.02059564, u'rocking_chair', 0.011210767, u'lakeside', 0.0072387191]
+[u'web_site', 0.27879518, u'cash_machine', 0.033422638, u'book_jacket', 0.030809836, u'Band_Aid', 0.022290407, u'laptop', 0.021304786]
+[u'bottlecap', 0.63294977, u'digital_clock', 0.052521411, u'lens_cap', 0.048778899, u'analog_clock', 0.022151537, u'spotlight', 0.021712761]
+[u'cash_machine', 0.1323252, u'stove', 0.059056781, u'digital_clock', 0.058898646, u'lighter', 0.048017994, u'television', 0.047049835]
+[u'sliding_door', 0.36706781, u'shoji', 0.076911338, u'window_screen', 0.073137566, u'street_sign', 0.04651672, u'pole', 0.029588245]

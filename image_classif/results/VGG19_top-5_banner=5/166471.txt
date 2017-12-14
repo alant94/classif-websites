@@ -1,0 +1,8 @@
+[u'book_jacket', 0.21024209, u'screwdriver', 0.1336612, u"carpenter's_kit", 0.0276551, u'rule', 0.026809381, u'binder', 0.023531651]
+[u'rule', 0.3055371, u'screwdriver', 0.14188376, u'syringe', 0.10729995, u'book_jacket', 0.055233702, u'slide_rule', 0.045604285]
+[u'book_jacket', 0.26036689, u'screwdriver', 0.098246068, u'rule', 0.032754216, u'binder', 0.031512283, u'matchstick', 0.02228144]
+[u'pencil_sharpener', 0.13768342, u'can_opener', 0.093930893, u'corkscrew', 0.057534572, u'hair_slide', 0.048899256, u'hook', 0.039131209]
+[u'book_jacket', 0.1952091, u'perfume', 0.11912534, u'lighter', 0.077317841, u'medicine_chest', 0.056796927, u'lotion', 0.044102177]
+[u'book_jacket', 0.16764565, u'screwdriver', 0.049626097, u'lighter', 0.042313263, u'binder', 0.034522697, u"carpenter's_kit", 0.025614727]
+[u'book_jacket', 0.33017683, u'perfume', 0.092134304, u'lighter', 0.065988779, u'lotion', 0.046949614, u'binder', 0.033471175]
+[u'rule', 0.38542163, u'book_jacket', 0.12912755, u'slide_rule', 0.10889371, u'syringe', 0.047749858, u'screwdriver', 0.04304165]

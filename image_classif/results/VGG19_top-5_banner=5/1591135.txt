@@ -1,0 +1,5 @@
+[u'brassiere', 0.51388812, u'bonnet', 0.23172584, u'shower_cap', 0.095921963, u'mosquito_net', 0.039166965, u'candle', 0.03706171]
+[u'swab', 0.12879771, u'oxygen_mask', 0.097256757, u'wig', 0.089627631, u'syringe', 0.075908296, u'mosquito_net', 0.060976814]
+[u'bathtub', 0.040945284, u'refrigerator', 0.033998728, u'butternut_squash', 0.028719151, u'Angora', 0.025838463, u'fur_coat', 0.023269137]
+[u'lampshade', 0.073308274, u'web_site', 0.05778021, u'menu', 0.04939951, u'candle', 0.034781963, u'window_shade', 0.032169852]
+[u'hand_blower', 0.093623184, u'bonnet', 0.076294102, u'bearskin', 0.058037039, u'lipstick', 0.046047844, u'bow_tie', 0.03815484]

@@ -1,0 +1,3 @@
+[u'scoreboard', 0.084436566, u'traffic_light', 0.050122757, u'street_sign', 0.044296224, u'cinema', 0.042957537, u'crane', 0.042351823]
+[u'electric_guitar', 0.053158462, u'vase', 0.050625473, u"carpenter's_kit", 0.045490287, u'perfume', 0.041053571, u'water_bottle', 0.038686957]
+[u'jellyfish', 0.36267433, u'space_shuttle', 0.16149239, u'parachute', 0.036396828, u'scuba_diver', 0.017681142, u'balloon', 0.017002799]

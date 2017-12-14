@@ -1,0 +1,2 @@
+[u'bow', 0.49655461, u"carpenter's_kit", 0.086306937, u'hook', 0.077839866, u'wardrobe', 0.033661585, u'cleaver', 0.031842001]
+[u'ballpoint', 0.27251872, u'paintbrush', 0.10502556, u'rubber_eraser', 0.095821671, u'plate_rack', 0.089608595, u"carpenter's_kit", 0.0432931]

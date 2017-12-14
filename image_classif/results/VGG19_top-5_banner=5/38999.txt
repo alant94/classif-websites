@@ -1,0 +1,6 @@
+[u'maze', 0.25008696, u'digital_clock', 0.13048171, u'bottlecap', 0.099660508, u'stupa', 0.075842306, u'jigsaw_puzzle', 0.048063744]
+[u'crossword_puzzle', 0.42130932, u'digital_clock', 0.10443573, u'scoreboard', 0.081454091, u'book_jacket', 0.067272566, u'envelope', 0.043538444]
+[u'screen', 0.24835266, u'monitor', 0.18900828, u'cash_machine', 0.070284426, u'digital_clock', 0.065345377, u'oscilloscope', 0.063547328]
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'window_screen', 0.16403858, u'window_shade', 0.063487001, u'shower_curtain', 0.047854457, u'monitor', 0.037978157, u'medicine_chest', 0.036885284]
+[u'cardigan', 0.11235382, u'rock_python', 0.069509916, u'tench', 0.050305564, u'American_alligator', 0.039995175, u'boa_constrictor', 0.031370744]

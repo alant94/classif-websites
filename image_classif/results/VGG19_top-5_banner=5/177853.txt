@@ -1,0 +1,2 @@
+[u'web_site', 0.27138522, u'envelope', 0.18440868, u'wall_clock', 0.029359428, u'rule', 0.01910652, u'digital_clock', 0.014082341]
+[u'envelope', 0.21521215, u'web_site', 0.040071912, u'washbasin', 0.034849394, u'wall_clock', 0.028649889, u'scale', 0.028318511]

@@ -1,0 +1,2 @@
+[u'web_site', 0.81473368, u'screen', 0.050216574, u'monitor', 0.019807896, u'envelope', 0.018704645, u'analog_clock', 0.011882726]
+[u'face_powder', 0.20969369, u'toilet_seat', 0.040309153, u'wall_clock', 0.035740908, u'tray', 0.035547998, u'pill_bottle', 0.025514474]

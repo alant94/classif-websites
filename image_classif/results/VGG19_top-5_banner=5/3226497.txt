@@ -1,0 +1,2 @@
+[u'screwdriver', 0.18417159, u'medicine_chest', 0.094614908, u"carpenter's_kit", 0.078979105, u'chime', 0.077975981, u'organ', 0.038287878]
+[u'bow', 0.12071238, u'wall_clock', 0.10231478, u'chime', 0.050929036, u'assault_rifle', 0.044713724, u'hatchet', 0.038425755]

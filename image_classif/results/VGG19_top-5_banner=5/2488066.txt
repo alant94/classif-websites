@@ -1,0 +1,5 @@
+[u'book_jacket', 0.061322931, u'packet', 0.060328264, u'face_powder', 0.055636212, u'Band_Aid', 0.050680563, u'rubber_eraser', 0.048754342]
+[u'packet', 0.076815285, u'Band_Aid', 0.07549265, u'street_sign', 0.074363403, u'book_jacket', 0.061856106, u'rubber_eraser', 0.054909948]
+[u'picket_fence', 0.8953101, u'worm_fence', 0.032764796, u'chime', 0.011967382, u'matchstick', 0.010572506, u'candle', 0.010009017]
+[u'picket_fence', 0.085765854, u'worm_fence', 0.077185996, u'barrel', 0.064550325, u'fountain', 0.045222137, u'totem_pole', 0.039072245]
+[u'book_jacket', 0.11528699, u'street_sign', 0.079561599, u'packet', 0.071758777, u'Band_Aid', 0.059585076, u'rubber_eraser', 0.039403357]

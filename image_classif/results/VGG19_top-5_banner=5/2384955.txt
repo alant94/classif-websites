@@ -1,0 +1,5 @@
+[u'street_sign', 0.16161317, u'book_jacket', 0.13816983, u'barbershop', 0.070917256, u'cash_machine', 0.043529529, u'web_site', 0.030061709]
+[u'digital_clock', 0.13420884, u'candle', 0.040238831, u'picket_fence', 0.031100299, u'sunscreen', 0.029084951, u'safety_pin', 0.026045837]
+[u'wardrobe', 0.21907318, u'butcher_shop', 0.20434476, u'cleaver', 0.15126944, u'paintbrush', 0.05182451, u'cowboy_boot', 0.017594272]
+[u'organ', 0.48094952, u'church', 0.095205165, u'vault', 0.070505567, u'barrel', 0.063335754, u'restaurant', 0.031089161]
+[u'wardrobe', 0.37238988, u'ski', 0.091775179, u'plate_rack', 0.041165881, u'wooden_spoon', 0.032323662, u'paintbrush', 0.032044094]

@@ -1,0 +1,1 @@
+[u'projectile', 0.075682871, u'geyser', 0.071371257, u'missile', 0.05856194, u'space_shuttle', 0.057831589, u'bow', 0.020518804]

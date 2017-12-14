@@ -1,0 +1,2 @@
+[u'envelope', 0.11636506, u'digital_clock', 0.086677663, u'shower_curtain', 0.060309958, u'wall_clock', 0.038478918, u'container_ship', 0.030375939]
+[u'cash_machine', 0.076033749, u'plastic_bag', 0.051601376, u'ballplayer', 0.048191458, u'packet', 0.046336103, u'book_jacket', 0.043860119]

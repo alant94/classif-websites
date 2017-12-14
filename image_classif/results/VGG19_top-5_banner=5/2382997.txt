@@ -1,0 +1,3 @@
+[u'acorn', 0.43736297, u'buckeye', 0.20230605, u'pencil_sharpener', 0.092586517, u'coral_fungus', 0.041937519, u'admiral', 0.026494674]
+[u'wall_clock', 0.39547849, u'swab', 0.06505502, u'analog_clock', 0.042148519, u'switch', 0.041962244, u'pencil_sharpener', 0.026612962]
+[u'red_wine', 0.92793578, u'lab_coat', 0.01081031, u'stethoscope', 0.0069703683, u'perfume', 0.0053849886, u'lipstick', 0.0034405801]

@@ -1,0 +1,1 @@
+[u'paintbrush', 0.36289662, u'letter_opener', 0.15105422, u'pencil_box', 0.11560354, u'quill', 0.094822742, u'ballpoint', 0.080088221]

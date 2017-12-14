@@ -1,0 +1,1 @@
+[u'bow_tie', 0.53882605, u'Windsor_tie', 0.1206485, u'suit', 0.0919296, u'lab_coat', 0.074337319, u'mortarboard', 0.028871618]

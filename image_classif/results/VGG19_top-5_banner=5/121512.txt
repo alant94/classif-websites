@@ -1,0 +1,4 @@
+[u'binder', 0.50380594, u'safe', 0.19766499, u'hard_disc', 0.049206182, u'book_jacket', 0.038652036, u'desktop_computer', 0.027480792]
+[u'theater_curtain', 0.095485054, u'lampshade', 0.079329215, u'spotlight', 0.054993644, u'fountain', 0.046303663, u'bannister', 0.039220337]
+[u'street_sign', 0.15325427, u'hook', 0.065317027, u'digital_clock', 0.033790972, u'traffic_light', 0.023751678, u'crane', 0.019645255]
+[u'book_jacket', 0.14665052, u'scoreboard', 0.095050119, u'street_sign', 0.064875625, u'jersey', 0.029721012, u'pick', 0.0290769]

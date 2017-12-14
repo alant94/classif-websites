@@ -1,0 +1,5 @@
+[u'space_shuttle', 0.21700317, u'book_jacket', 0.11052284, u'window_screen', 0.090041779, u'monitor', 0.081247583, u'drilling_platform', 0.049397465]
+[u'rotisserie', 0.11343096, u'beaver', 0.082914419, u'boathouse', 0.081556387, u'American_coot', 0.051065311, u'dam', 0.043667912]
+[u'container_ship', 0.37704045, u'crane', 0.32195464, u'dock', 0.11266471, u'aircraft_carrier', 0.048992857, u'drilling_platform', 0.026676787]
+[u'digital_clock', 0.22780292, u'envelope', 0.039406598, u'street_sign', 0.03884647, u'binder', 0.03876004, u'web_site', 0.03364921]
+[u'coffee_mug', 0.83574474, u'cup', 0.10329409, u'buckle', 0.014356666, u'whiskey_jug', 0.0038779269, u'pitcher', 0.0027501753]

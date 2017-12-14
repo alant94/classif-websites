@@ -1,0 +1,4 @@
+[u'swab', 0.069035925, u'wool', 0.048211921, u'web_site', 0.026420383, u'komondor', 0.023253076, u'sleeping_bag', 0.019944789]
+[u'pole', 0.35349667, u'totem_pole', 0.096007511, u'church', 0.067923091, u'geyser', 0.063291691, u'hay', 0.037515741]
+[u'organ', 0.51209223, u'chime', 0.35028124, u'prison', 0.056371983, u'paintbrush', 0.0080232602, u'bookcase', 0.0064846883]
+[u'green_lizard', 0.64548796, u'agama', 0.061155695, u'American_chameleon', 0.0499756, u'common_iguana', 0.03284185, u'African_chameleon', 0.031173196]

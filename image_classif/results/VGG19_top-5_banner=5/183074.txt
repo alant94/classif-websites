@@ -1,0 +1,7 @@
+[u'web_site', 0.11621181, u'Band_Aid', 0.090959169, u'envelope', 0.085277855, u'digital_clock', 0.054434195, u'nipple', 0.028375097]
+[u'switch', 0.60095358, u'remote_control', 0.056926366, u'web_site', 0.029084491, u'envelope', 0.027427245, u'digital_clock', 0.020781962]
+[u'holster', 0.10591084, u'binder', 0.095059529, u'shovel', 0.054020707, u'lighter', 0.052040286, u'hard_disc', 0.044824839]
+[u'remote_control', 0.49088392, u'hand-held_computer', 0.28876987, u'pay-phone', 0.10638517, u'dial_telephone', 0.023099968, u'joystick', 0.020311596]
+[u'refrigerator', 0.23160048, u'quill', 0.11003555, u'macaw', 0.10583409, u'feather_boa', 0.047160916, u'television', 0.044265065]
+[u'rugby_ball', 0.37139413, u'shield', 0.19589376, u'ocarina', 0.12284781, u'soccer_ball', 0.036695052, u'punching_bag', 0.027695233]
+[u'vase', 0.28494239, u'pitcher', 0.16393761, u'mask', 0.0914241, u'piggy_bank', 0.069077298, u'ocarina', 0.05265433]

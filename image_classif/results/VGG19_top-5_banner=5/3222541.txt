@@ -1,0 +1,2 @@
+[u'church', 0.79268944, u'bell_cote', 0.061643675, u'flagpole', 0.027476182, u'monastery', 0.01768359, u'beacon', 0.012866896]
+[u'maypole', 0.84901065, u'unicycle', 0.017097199, u'stupa', 0.014264292, u'planetarium', 0.011033408, u'obelisk', 0.009030899]

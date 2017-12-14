@@ -1,0 +1,2 @@
+[u'bikini', 0.28529644, u'Rhodesian_ridgeback', 0.15893818, u'vizsla', 0.12913896, u'swimming_trunks', 0.11828406, u'redbone', 0.027791072]
+[u'microphone', 0.6089946, u'stage', 0.07382182, u'whistle', 0.035704195, u'lipstick', 0.019692661, u'maillot', 0.019141357]

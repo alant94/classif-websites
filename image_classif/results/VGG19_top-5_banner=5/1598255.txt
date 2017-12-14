@@ -1,0 +1,5 @@
+[u'packet', 0.39728829, u'comic_book', 0.22444393, u'laptop', 0.059992258, u'pencil_box', 0.035726514, u'Band_Aid', 0.028583853]
+[u'window_shade', 0.2446135, u'picket_fence', 0.064822614, u'web_site', 0.054983165, u'bannister', 0.045730747, u'sliding_door', 0.034863755]
+[u'brass', 0.46474138, u'screen', 0.14169513, u'book_jacket', 0.087711334, u'cash_machine', 0.086337991, u'menu', 0.072411805]
+[u'cheetah', 0.17793316, u'fox_squirrel', 0.1543391, u'ruffed_grouse', 0.10881618, u'horned_viper', 0.096043684, u'meerkat', 0.092843674]
+[u'envelope', 0.077097051, u'iPod', 0.071850263, u'notebook', 0.066884935, u'cellular_telephone', 0.054695051, u'menu', 0.049932167]

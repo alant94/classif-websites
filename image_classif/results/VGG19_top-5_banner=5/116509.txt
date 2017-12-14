@@ -1,0 +1,2 @@
+[u'printer', 0.1493867, u'desk', 0.1388156, u'pool_table', 0.13116738, u'scale', 0.1002625, u'grand_piano', 0.092120267]
+[u'moving_van', 0.57616192, u'trailer_truck', 0.27250686, u'mobile_home', 0.05728491, u'flagpole', 0.05718486, u'recreational_vehicle', 0.0081430729]

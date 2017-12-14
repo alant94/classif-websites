@@ -1,0 +1,5 @@
+[u'hook', 0.39360115, u'oscilloscope', 0.14217547, u'matchstick', 0.08273264, u'safety_pin', 0.054286998, u'spider_web', 0.043359265]
+[u'acorn', 0.30544436, u'lemon', 0.12714335, u'orange', 0.055699229, u'tennis_ball', 0.054388989, u'buckeye', 0.033226702]
+[u'lampshade', 0.32248804, u'bonnet', 0.11952604, u'spotlight', 0.085998401, u'conch', 0.064836361, u'lemon', 0.052901197]
+[u'prayer_rug', 0.28868288, u'jersey', 0.11229863, u'vestment', 0.099658966, u'poncho', 0.072977237, u'necklace', 0.067424908]
+[u'wooden_spoon', 0.10834091, u'clog', 0.060061414, u'combination_lock', 0.060059179, u'hook', 0.054113477, u'barometer', 0.051157959]

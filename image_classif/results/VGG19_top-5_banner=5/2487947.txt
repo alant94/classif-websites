@@ -1,0 +1,2 @@
+[u'fountain', 0.071304806, u'washbasin', 0.044912081, u'tray', 0.0444826, u'jigsaw_puzzle', 0.031554077, u'broccoli', 0.028671766]
+[u'barometer', 0.24234295, u'analog_clock', 0.14230488, u'wall_clock', 0.11202538, u'stopwatch', 0.084358782, u'bolo_tie', 0.042569499]

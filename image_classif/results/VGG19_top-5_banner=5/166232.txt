@@ -1,0 +1,2 @@
+[u'fountain', 0.48740819, u'paintbrush', 0.13108058, u'volcano', 0.027675152, u'torch', 0.021014256, u'coral_fungus', 0.014803139]
+[u'electric_guitar', 0.57883567, u'banjo', 0.17164922, u'acoustic_guitar', 0.12541944, u'stage', 0.054204188, u'sax', 0.017582109]

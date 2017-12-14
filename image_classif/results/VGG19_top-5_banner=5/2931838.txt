@@ -1,0 +1,5 @@
+[u'nematode', 0.31082672, u'face_powder', 0.050723888, u'spotlight', 0.040573657, u'magnetic_compass', 0.034279924, u'combination_lock', 0.030131601]
+[u'puck', 0.3408744, u'gong', 0.26386288, u'analog_clock', 0.089682832, u'book_jacket', 0.053702991, u'wall_clock', 0.03405337]
+[u'shower_curtain', 0.14119983, u'wardrobe', 0.069500424, u'screen', 0.044165511, u'iron', 0.027323751, u'pillow', 0.027077679]
+[u'suit', 0.75188124, u'Windsor_tie', 0.18660893, u'bow_tie', 0.015205359, u'oboe', 0.012074667, u'groom', 0.011752301]
+[u'Petri_dish', 0.16206878, u'doormat', 0.14608987, u'gong', 0.10213049, u'tray', 0.066042796, u'face_powder', 0.054456733]

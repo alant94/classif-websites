@@ -1,0 +1,5 @@
+[u'wig', 0.51453543, u'hair_spray', 0.073618479, u'perfume', 0.063424371, u'brassiere', 0.031626064, u'lipstick', 0.023021258]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'suit', 0.20134237, u'stole', 0.10912419, u'abaya', 0.094193108, u'jean', 0.074715003, u'trench_coat', 0.057126842]
+[u'suit', 0.23894073, u'abaya', 0.099034071, u'fur_coat', 0.081083834, u'trench_coat', 0.071155116, u'jean', 0.039467089]
+[u'bikini', 0.32854444, u'sarong', 0.19531348, u'maillot', 0.19346595, u'maillot', 0.12593356, u'gown', 0.11261665]

@@ -1,0 +1,5 @@
+[u'whiskey_jug', 0.33360696, u'coffee_mug', 0.26112691, u'red_wine', 0.087061778, u'wine_bottle', 0.074736245, u'beer_bottle', 0.072732851]
+[u'crib', 0.41479963, u'matchstick', 0.045943193, u'chime', 0.043486487, u'picket_fence', 0.041874602, u'rule', 0.027029391]
+[u'crib', 0.16794129, u'matchstick', 0.16650918, u'chime', 0.092329048, u'picket_fence', 0.053362571, u'rubber_eraser', 0.047851168]
+[u'crib', 0.17161229, u'chime', 0.15276648, u'picket_fence', 0.058661379, u'matchstick', 0.055679377, u'envelope', 0.031137563]
+[u'crib', 0.30809459, u'matchstick', 0.070285767, u'chime', 0.066623896, u'marimba', 0.045447852, u'picket_fence', 0.023343647]

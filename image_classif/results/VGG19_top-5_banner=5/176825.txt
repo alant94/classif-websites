@@ -1,0 +1,1 @@
+[u'picket_fence', 0.17628418, u'envelope', 0.097964942, u'book_jacket', 0.08103691, u'candle', 0.051867109, u'jigsaw_puzzle', 0.036965322]

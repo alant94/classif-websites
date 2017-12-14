@@ -1,0 +1,5 @@
+[u'ballpoint', 0.59224802, u'chime', 0.041477323, u'rubber_eraser', 0.028705595, u'letter_opener', 0.025983907, u'ski', 0.020311896]
+[u'swimming_trunks', 0.28273278, u'volleyball', 0.18508255, u'sarong', 0.045398254, u'bikini', 0.040132724, u'bow', 0.034088671]
+[u'garbage_truck', 0.8160125, u'space_shuttle', 0.022901813, u'toyshop', 0.015390763, u'forklift', 0.0089753931, u'triceratops', 0.0081302486]
+[u'groom', 0.41628474, u'bow_tie', 0.10725267, u'limousine', 0.097797863, u'suit', 0.06726025, u'gown', 0.024530461]
+[u'iPod', 0.17373037, u'street_sign', 0.074537024, u'switch', 0.065859288, u'digital_clock', 0.037409648, u'laptop', 0.030276079]

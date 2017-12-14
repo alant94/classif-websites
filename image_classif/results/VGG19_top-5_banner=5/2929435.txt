@@ -1,0 +1,1 @@
+[u'swab', 0.21752603, u'broom', 0.10525203, u'vacuum', 0.057301514, u'miniskirt', 0.035986222, u'paintbrush', 0.026113382]

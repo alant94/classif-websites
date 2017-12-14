@@ -1,0 +1,6 @@
+[u'wooden_spoon', 0.25387508, u'ice_cream', 0.086736217, u'artichoke', 0.068869337, u'ice_lolly', 0.068779677, u'spatula', 0.052970652]
+[u'abacus', 0.15325204, u'shoe_shop', 0.082481474, u'swing', 0.073307388, u'ice_lolly', 0.03961435, u'park_bench', 0.028863553]
+[u'birdhouse', 0.5403114, u'pole', 0.17001036, u'traffic_light', 0.095256731, u'street_sign', 0.032873727, u'torch', 0.032221634]
+[u'maypole', 0.30529043, u'volleyball', 0.13419226, u'pole', 0.10333531, u'horizontal_bar', 0.087346561, u'parallel_bars', 0.05905256]
+[u'church', 0.50617206, u'mosque', 0.15183119, u'monastery', 0.091440566, u'bell_cote', 0.030867655, u'flagpole', 0.030138088]
+[u'shower_cap', 0.96081394, u'groom', 0.007651391, u'plastic_bag', 0.0052328496, u'bonnet', 0.0023366276, u'diaper', 0.0013961706]

@@ -1,0 +1,1 @@
+[u'maze', 0.45761397, u'lakeside', 0.14312048, u'park_bench', 0.097966634, u'castle', 0.03469241, u'valley', 0.029371973]

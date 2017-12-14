@@ -1,0 +1,5 @@
+[u'lab_coat', 0.14676397, u'barbershop', 0.12360061, u'barber_chair', 0.036870148, u'desk', 0.034137834, u'restaurant', 0.030188225]
+[u'mobile_home', 0.27386856, u'patio', 0.2364617, u'picket_fence', 0.088996179, u'thatch', 0.051671188, u'flagpole', 0.020489899]
+[u'barbershop', 0.13144042, u'tobacco_shop', 0.034444764, u'barbell', 0.029583614, u'medicine_chest', 0.029196141, u'punching_bag', 0.027018128]
+[u'power_drill', 0.10798001, u'photocopier', 0.10787626, u'vacuum', 0.048569068, u'printer', 0.047477234, u'plane', 0.041003607]
+[u'cliff_dwelling', 0.17620958, u'cannon', 0.097680517, u'mortar', 0.087268636, u'caldron', 0.075679004, u'rain_barrel', 0.039373845]

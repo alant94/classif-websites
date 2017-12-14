@@ -1,0 +1,2 @@
+[u'jersey', 0.38445672, u'matchstick', 0.11730906, u'French_horn', 0.054239508, u'puck', 0.043599296, u'bolo_tie', 0.027269058]
+[u'vault', 0.66852993, u'altar', 0.13131659, u'dome', 0.061423011, u'coil', 0.02831699, u'church', 0.027293308]

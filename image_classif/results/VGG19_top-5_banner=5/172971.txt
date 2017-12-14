@@ -1,0 +1,3 @@
+[u'packet', 0.090014391, u'hair_spray', 0.060892843, u'sunscreen', 0.056661453, u'beer_glass', 0.040473964, u'Band_Aid', 0.037600506]
+[u'shopping_basket', 0.20206425, u'crib', 0.12859274, u'swab', 0.094304726, u'broom', 0.065706536, u'book_jacket', 0.048308194]
+[u'picket_fence', 0.27442008, u'window_shade', 0.035405789, u'envelope', 0.035087984, u'binder', 0.023360768, u'rule', 0.019092713]

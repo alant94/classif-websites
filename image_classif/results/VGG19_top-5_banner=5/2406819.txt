@@ -1,0 +1,5 @@
+[u'wall_clock', 0.10692403, u'barometer', 0.082876667, u'nematode', 0.069397308, u'screw', 0.064271413, u'gong', 0.05878257]
+[u'screwdriver', 0.21991849, u'book_jacket', 0.1143218, u"carpenter's_kit", 0.081486948, u'safety_pin', 0.052080177, u'spatula', 0.03700247]
+[u'dalmatian', 0.42760038, u'Great_Dane', 0.14428851, u'comic_book', 0.12453841, u'book_jacket', 0.11306546, u'street_sign', 0.014629378]
+[u'espresso', 0.79917568, u'cup', 0.082246579, u'coffee_mug', 0.053282164, u'eggnog', 0.016643468, u'pretzel', 0.012252851]
+[u'brass', 0.47323826, u'pick', 0.091840871, u'packet', 0.034978062, u'bottlecap', 0.027120508, u'book_jacket', 0.022948429]

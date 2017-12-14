@@ -1,0 +1,2 @@
+[u'plate_rack', 0.38679075, u"carpenter's_kit", 0.122736, u'rocking_chair', 0.079458863, u'screwdriver', 0.044595491, u'ballpoint', 0.028791269]
+[u'cinema', 0.55651242, u'restaurant', 0.13492694, u'barbershop', 0.051923811, u'bookshop', 0.042530812, u'tobacco_shop', 0.038582932]

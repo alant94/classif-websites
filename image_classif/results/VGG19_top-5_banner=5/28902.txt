@@ -1,0 +1,2 @@
+[u'gas_pump', 0.14607678, u'ambulance', 0.06318903, u'street_sign', 0.048552386, u'web_site', 0.046209518, u'switch', 0.041063372]
+[u'vending_machine', 0.075319193, u'web_site', 0.05828381, u'book_jacket', 0.049788952, u'perfume', 0.048471399, u'digital_clock', 0.04030852]

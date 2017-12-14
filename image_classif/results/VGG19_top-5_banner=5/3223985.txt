@@ -1,0 +1,2 @@
+[u'picket_fence', 0.41619739, u'worm_fence', 0.048059054, u'rocking_chair', 0.040857792, u'book_jacket', 0.036218785, u'bannister', 0.024195336]
+[u'balloon', 0.068579808, u'bubble', 0.05817188, u'torch', 0.049802903, u'matchstick', 0.043570217, u'jellyfish', 0.033949677]

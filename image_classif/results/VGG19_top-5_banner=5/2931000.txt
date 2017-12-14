@@ -1,0 +1,1 @@
+[u'lab_coat', 0.38249239, u'pajama', 0.22422418, u'apron', 0.059984703, u'stethoscope', 0.020184478, u'plate', 0.016703378]

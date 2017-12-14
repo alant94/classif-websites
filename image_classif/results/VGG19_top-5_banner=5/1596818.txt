@@ -1,0 +1,8 @@
+[u'street_sign', 0.57448524, u'laptop', 0.094331458, u'iPod', 0.07006155, u'hard_disc', 0.028597737, u'wall_clock', 0.020528011]
+[u'street_sign', 0.95642656, u'traffic_light', 0.006584513, u'laptop', 0.0019771499, u'analog_clock', 0.0018864018, u'scoreboard', 0.0016511233]
+[u'bathing_cap', 0.11084268, u'jersey', 0.10864982, u'street_sign', 0.060050618, u'golf_ball', 0.050079037, u'football_helmet', 0.019829748]
+[u'jersey', 0.21641323, u'bib', 0.13441557, u'bathing_cap', 0.050084189, u'bottlecap', 0.048147861, u'book_jacket', 0.041535728]
+[u'street_sign', 0.42006016, u'digital_clock', 0.14744598, u'Band_Aid', 0.023685034, u'book_jacket', 0.023404619, u'scoreboard', 0.022532023]
+[u'iPod', 0.22726186, u'desktop_computer', 0.17951646, u'screen', 0.13905813, u'hand-held_computer', 0.10750663, u'television', 0.087449208]
+[u'street_sign', 0.19875936, u'laptop', 0.073245592, u'iPod', 0.069343768, u'envelope', 0.066088133, u'notebook', 0.044002734]
+[u'street_sign', 0.75432265, u'laptop', 0.042663615, u'digital_clock', 0.01965913, u'iPod', 0.018938266, u'hard_disc', 0.0079716006]

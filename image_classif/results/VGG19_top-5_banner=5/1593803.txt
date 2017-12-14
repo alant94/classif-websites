@@ -1,0 +1,4 @@
+[u'diaper', 0.38198408, u'bath_towel', 0.053744085, u'tub', 0.053011972, u'bathtub', 0.047715258, u'Band_Aid', 0.03988206]
+[u'diaper', 0.26430133, u'swimming_trunks', 0.05495172, u'bathing_cap', 0.037112314, u'bath_towel', 0.030541344, u'drumstick', 0.02788404]
+[u'screwdriver', 0.45666742, u'nail', 0.10008441, u'chime', 0.054738246, u'rule', 0.034837939, u"carpenter's_kit", 0.033058356]
+[u'dough', 0.5638507, u'barbershop', 0.03441475, u'burrito', 0.031964701, u'hotdog', 0.025825715, u'French_loaf', 0.021072896]

@@ -1,0 +1,1 @@
+[u'maze', 0.16808562, u'digital_clock', 0.11160845, u'container_ship', 0.082065195, u'church', 0.071449228, u'picket_fence', 0.043084119]

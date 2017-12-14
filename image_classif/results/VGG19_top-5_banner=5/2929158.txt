@@ -1,0 +1,6 @@
+[u'fountain', 0.78345114, u'bubble', 0.068871178, u'umbrella', 0.031602874, u'swing', 0.026195532, u'bannister', 0.0076182466]
+[u'container_ship', 0.22528559, u'guillotine', 0.072862647, u'half_track', 0.059583262, u'pedestal', 0.050059501, u'crane', 0.036352664]
+[u'envelope', 0.479081, u'crane', 0.094929308, u'cradle', 0.050304383, u'thresher', 0.035764143, u'binder', 0.029351521]
+[u'pedestal', 0.11339144, u'airship', 0.099004254, u'crane', 0.094847143, u'solar_dish', 0.044652212, u'lumbermill', 0.036005199]
+[u'warplane', 0.098924242, u'wing', 0.089560054, u'picket_fence', 0.078513563, u'space_shuttle', 0.072785355, u'obelisk', 0.072008088]
+[u'digital_clock', 0.1919004, u'web_site', 0.092765205, u'Band_Aid', 0.070213094, u'envelope', 0.058717377, u'crossword_puzzle', 0.040447563]

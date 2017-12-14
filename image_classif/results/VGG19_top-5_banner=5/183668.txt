@@ -1,0 +1,3 @@
+[u'web_site', 0.44068369, u'crane', 0.05631895, u'hook', 0.045340184, u'scuba_diver', 0.024804348, u'analog_clock', 0.014276776]
+[u'gong', 0.10173184, u'chime', 0.087084047, u'wall_clock', 0.073275983, u'scale', 0.054747306, u'guillotine', 0.041501973]
+[u'packet', 0.19590689, u'book_jacket', 0.19274257, u'binder', 0.098711587, u'comic_book', 0.094766006, u'envelope', 0.074465953]

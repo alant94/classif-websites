@@ -1,0 +1,2 @@
+[u'menu', 0.56745309, u'web_site', 0.31126705, u'slot', 0.021185869, u'crossword_puzzle', 0.0086366693, u'plunger', 0.0055198926]
+[u'dining_table', 0.13755679, u'restaurant', 0.091985211, u'marimba', 0.08567135, u'candle', 0.054006923, u'jigsaw_puzzle', 0.03850583]

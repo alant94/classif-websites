@@ -1,0 +1,3 @@
+[u'church', 0.065012544, u'barbershop', 0.059580687, u'window_shade', 0.044451956, u'window_screen', 0.039617646, u'restaurant', 0.039184667]
+[u'bell_cote', 0.48182699, u'church', 0.21322727, u'castle', 0.063935548, u'tile_roof', 0.058642812, u'monastery', 0.037155535]
+[u'church', 0.21546319, u'vault', 0.19415216, u'organ', 0.13879637, u'monastery', 0.057274397, u'bell_cote', 0.04456491]

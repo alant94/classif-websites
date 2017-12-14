@@ -1,0 +1,7 @@
+[u'bikini', 0.70092839, u'brassiere', 0.23394658, u'maillot', 0.03089086, u'sarong', 0.011938393, u'miniskirt', 0.0043244059]
+[u'crutch', 0.074466676, u'running_shoe', 0.037210174, u'brassiere', 0.030625746, u'sandal', 0.030275572, u'bonnet', 0.029836139]
+[u'sweatshirt', 0.41407695, u'jersey', 0.062724844, u'Band_Aid', 0.059089892, u'pajama', 0.045922212, u'shower_cap', 0.033231188]
+[u'swimming_trunks', 0.5020836, u'tub', 0.13723832, u'diaper', 0.087889589, u'bathtub', 0.06053267, u'bathing_cap', 0.025820721]
+[u'handkerchief', 0.095104448, u'Windsor_tie', 0.074508794, u'apron', 0.057390396, u'shower_curtain', 0.055595003, u'bow_tie', 0.025173699]
+[u'hair_spray', 0.30787471, u'lotion', 0.14952305, u'perfume', 0.10414278, u'candle', 0.054641876, u'water_bottle', 0.032563154]
+[u'projectile', 0.57629269, u'missile', 0.25433373, u'cannon', 0.085412726, u'tank', 0.039698981, u'military_uniform', 0.0046134153]

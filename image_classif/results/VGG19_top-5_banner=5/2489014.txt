@@ -1,0 +1,6 @@
+[u'leopard', 0.62991428, u'jaguar', 0.34723002, u'snow_leopard', 0.01428095, u'Egyptian_cat', 0.0044025332, u'cheetah', 0.0035533996]
+[u'corkscrew', 0.32846174, u'chain', 0.1249315, u'hook', 0.12167361, u'plate_rack', 0.026802756, u'wall_clock', 0.023030214]
+[u'hartebeest', 0.45807859, u'oxcart', 0.29399288, u'tank', 0.047584441, u'ox', 0.036890954, u'water_buffalo', 0.020509833]
+[u'boathouse', 0.23473476, u'pool_table', 0.087526001, u'grocery_store', 0.082179755, u'garbage_truck', 0.05036949, u'streetcar', 0.039856263]
+[u'cheetah', 0.47866729, u'honeycomb', 0.20112431, u'leopard', 0.19493692, u'jigsaw_puzzle', 0.029774448, u'jaguar', 0.016088624]
+[u'ostrich', 0.62507665, u'pelican', 0.21296205, u'gazelle', 0.035230324, u'tusker', 0.023373952, u'crane', 0.020022491]

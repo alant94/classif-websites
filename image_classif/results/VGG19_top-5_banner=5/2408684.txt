@@ -1,0 +1,7 @@
+[u'sunscreen', 0.62473845, u'lotion', 0.15131393, u'pill_bottle', 0.090321369, u'web_site', 0.039427791, u'face_powder', 0.028671363]
+[u'web_site', 0.24182296, u'cash_machine', 0.15404883, u'sunscreen', 0.098942384, u'lotion', 0.056235682, u'vending_machine', 0.054575138]
+[u'digital_clock', 0.51862615, u'digital_watch', 0.25393459, u'stopwatch', 0.052555762, u'wall_clock', 0.042827036, u'bottlecap', 0.017656703]
+[u'container_ship', 0.36303243, u'web_site', 0.18229991, u'fireboat', 0.032450873, u'liner', 0.031992204, u'crane', 0.028874861]
+[u'web_site', 0.07546369, u'nipple', 0.041025706, u'Band_Aid', 0.038511135, u'safety_pin', 0.036631886, u'hook', 0.036419421]
+[u'face_powder', 0.088728271, u'packet', 0.084160686, u'tray', 0.06240236, u'pencil_sharpener', 0.048356935, u'candle', 0.048253421]
+[u'perfume', 0.59998095, u'lotion', 0.2019373, u'beaker', 0.055480145, u'face_powder', 0.050575309, u'sunscreen', 0.048241351]

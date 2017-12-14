@@ -1,0 +1,6 @@
+[u'maze', 0.10065126, u'balance_beam', 0.067534924, u'chain_saw', 0.043273535, u'bow', 0.042701583, u'pole', 0.039510909]
+[u'tobacco_shop', 0.18972598, u'rotisserie', 0.11548679, u'grocery_store', 0.059663672, u'confectionery', 0.055040363, u'toyshop', 0.05043089]
+[u'limpkin', 0.33859748, u'coucal', 0.21782994, u'bittern', 0.21406376, u'American_alligator', 0.03322196, u'black_grouse', 0.024614973]
+[u'radiator', 0.36345059, u'barbershop', 0.10537639, u'cinema', 0.080363616, u'freight_car', 0.078196838, u'mobile_home', 0.062003255]
+[u'impala', 0.16897908, u'fountain', 0.13338457, u'water_buffalo', 0.11048477, u'hartebeest', 0.046868071, u'lakeside', 0.041326862]
+[u'lakeside', 0.38900226, u'palace', 0.34579644, u'fountain', 0.054821577, u'castle', 0.03833212, u'mosque', 0.020003954]

@@ -1,0 +1,2 @@
+[u'mask', 0.5158788, u'ski_mask', 0.15594429, u'spotlight', 0.091200031, u'loupe', 0.08069548, u'lighter', 0.017690253]
+[u'digital_clock', 0.31829086, u'shower_curtain', 0.078015596, u'wall_clock', 0.039157443, u'bathtub', 0.033838339, u'maze', 0.03371077]

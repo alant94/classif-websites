@@ -1,0 +1,7 @@
+[u'sarong', 0.53206581, u'flatworm', 0.072577573, u'handkerchief', 0.03161642, u'beer_bottle', 0.029815502, u'pitcher', 0.020475017]
+[u'plow', 0.34537703, u'American_lobster', 0.23201674, u'hook', 0.039046664, u'tick', 0.037365321, u'crayfish', 0.031769577]
+[u'acorn', 0.62076443, u'banana', 0.049145229, u'grocery_store', 0.04141831, u'cucumber', 0.037047621, u'jackfruit', 0.036459237]
+[u'chime', 0.13791855, u'hook', 0.081337377, u'safety_pin', 0.040682714, u'necklace', 0.039322812, u'envelope', 0.038644318]
+[u'shopping_basket', 0.99990404, u'hamper', 6.3890242e-05, u'bucket', 1.4723877e-05, u'broom', 4.8158427e-06, u'swab', 2.6858345e-06]
+[u'plow', 0.18553746, u'American_lobster', 0.056711115, u'tick', 0.048011571, u'hook', 0.045220319, u'ant', 0.035921149]
+[u'ox', 0.49108672, u'ostrich', 0.4014158, u'bison', 0.043755095, u'oxcart', 0.017333928, u'sorrel', 0.010616125]

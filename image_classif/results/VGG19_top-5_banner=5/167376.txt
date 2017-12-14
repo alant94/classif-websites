@@ -1,0 +1,8 @@
+[u'chain_saw', 0.35567072, u'switch', 0.050593562, u'power_drill', 0.049346022, u'corkscrew', 0.034334216, u'lawn_mower', 0.032684263]
+[u'computer_keyboard', 0.3945109, u'space_bar', 0.28475371, u'notebook', 0.12283248, u'typewriter_keyboard', 0.055453498, u'hand-held_computer', 0.037800424]
+[u'swab', 0.55622542, u'broom', 0.035881475, u'shoe_shop', 0.035513446, u'crutch', 0.032657169, u'West_Highland_white_terrier', 0.032480083]
+[u'ski', 0.54202741, u'airship', 0.064225487, u'ballpoint', 0.042356819, u'toyshop', 0.024485668, u'rubber_eraser', 0.017581336]
+[u'ice_bear', 0.52691644, u'washbasin', 0.1618637, u'loggerhead', 0.030756533, u'toilet_tissue', 0.024677323, u'sea_lion', 0.023428481]
+[u'soap_dispenser', 0.080389641, u'desk', 0.080260374, u'switch', 0.072238296, u'loudspeaker', 0.070763029, u'table_lamp', 0.061525263]
+[u'scale', 0.20640878, u'spotlight', 0.13378811, u'table_lamp', 0.11942676, u'switch', 0.097940572, u'street_sign', 0.047998045]
+[u'switch', 0.092960551, u'lighter', 0.0734106, u'face_powder', 0.062194608, u'modem', 0.053531721, u'buckle', 0.050882053]

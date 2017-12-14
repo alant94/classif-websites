@@ -1,0 +1,5 @@
+[u'pay-phone', 0.42844999, u'barbershop', 0.20643324, u'cash_machine', 0.17610185, u'sliding_door', 0.04723639, u'vending_machine', 0.020940421]
+[u'sunglass', 0.060186945, u'letter_opener', 0.044864293, u'hook', 0.036843434, u'hatchet', 0.029761756, u'mailbag', 0.022953229]
+[u'bookshop', 0.31329507, u'medicine_chest', 0.088972285, u'tobacco_shop', 0.073519096, u'library', 0.064516462, u'pill_bottle', 0.04383209]
+[u'desk', 0.2037964, u'barbershop', 0.040267307, u'file', 0.03664786, u'bookcase', 0.034259915, u'desktop_computer', 0.032735076]
+[u'tobacco_shop', 0.36096576, u'bookshop', 0.35043404, u'library', 0.11610448, u'bookcase', 0.071501523, u'confectionery', 0.015106509]

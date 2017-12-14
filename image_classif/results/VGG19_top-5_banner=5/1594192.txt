@@ -1,0 +1,4 @@
+[u'beacon', 0.061984446, u'bulletproof_vest', 0.04509785, u'bathing_cap', 0.035885904, u'traffic_light', 0.033100989, u'toilet_seat', 0.026528727]
+[u'diaper', 0.16706066, u'Band_Aid', 0.063592538, u'book_jacket', 0.051214539, u'pajama', 0.034905154, u'shower_cap', 0.032613806]
+[u'sleeping_bag', 0.43953547, u'tench', 0.090715215, u'barracouta', 0.025789302, u'ski_mask', 0.020389959, u'sturgeon', 0.016801074]
+[u'swimming_trunks', 0.1658964, u'bikini', 0.15624981, u'maillot', 0.086321063, u'stretcher', 0.038635556, u'sunscreen', 0.034154467]

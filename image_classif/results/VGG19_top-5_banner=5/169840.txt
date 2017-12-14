@@ -1,0 +1,4 @@
+[u'beacon', 0.10203695, u'water_tower', 0.10141399, u'church', 0.050581779, u'obelisk', 0.044939566, u'picket_fence', 0.044505451]
+[u'megalith', 0.071720138, u'monastery', 0.069140121, u'tusker', 0.033142913, u'Indian_elephant', 0.029752016, u'ox', 0.026622714]
+[u'web_site', 0.44426998, u'book_jacket', 0.22941209, u'comic_book', 0.11288097, u'envelope', 0.049890608, u'menu', 0.031914171]
+[u'book_jacket', 0.59674066, u'grey_fox', 0.032691564, u'jigsaw_puzzle', 0.030312708, u'television', 0.020666936, u'stage', 0.017792683]

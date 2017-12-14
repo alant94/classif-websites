@@ -1,0 +1,1 @@
+[u'corkscrew', 0.88487482, u'whistle', 0.074449748, u'screw', 0.010330939, u'lipstick', 0.0075178822, u'can_opener', 0.0021778692]

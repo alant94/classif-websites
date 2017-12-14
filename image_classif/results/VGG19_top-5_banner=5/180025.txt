@@ -1,0 +1,2 @@
+[u'punching_bag', 0.37317786, u'beer_glass', 0.060037605, u'beer_bottle', 0.051531479, u'hair_spray', 0.04541247, u'coffee_mug', 0.041047882]
+[u'cinema', 0.28039441, u'cash_machine', 0.10830899, u'barbershop', 0.099991627, u'stage', 0.064560704, u'digital_clock', 0.055610962]

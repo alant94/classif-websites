@@ -1,0 +1,2 @@
+[u'shoe_shop', 0.22331999, u'slot', 0.13050026, u'toyshop', 0.12328809, u'monitor', 0.051593453, u'library', 0.048568156]
+[u'bassoon', 0.37221947, u'sax', 0.17777312, u'oboe', 0.051332571, u'cornet', 0.047091376, u'electric_guitar', 0.038932391]

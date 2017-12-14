@@ -1,0 +1,6 @@
+[u'digital_clock', 0.24258178, u'analog_clock', 0.055296853, u'projector', 0.051750902, u'wall_clock', 0.049862944, u'web_site', 0.043702278]
+[u'analog_clock', 0.18898356, u'digital_clock', 0.18523464, u'spotlight', 0.12129271, u'street_sign', 0.035140716, u'ping-pong_ball', 0.022184858]
+[u'cannon', 0.21899672, u'birdhouse', 0.081116736, u'loudspeaker', 0.052870549, u'ashcan', 0.052116208, u'rain_barrel', 0.036745731]
+[u'doormat', 0.68080676, u'digital_clock', 0.10292564, u'prayer_rug', 0.024177331, u'digital_watch', 0.020734373, u'Christmas_stocking', 0.018451262]
+[u'pencil_sharpener', 0.36056381, u'rubber_eraser', 0.26755914, u'lampshade', 0.075973719, u'saltshaker', 0.030270245, u'candle', 0.025968838]
+[u'washbasin', 0.10560421, u'envelope', 0.081207275, u'scale', 0.053926781, u'toilet_seat', 0.042332076, u'spotlight', 0.041280631]

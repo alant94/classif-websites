@@ -1,0 +1,3 @@
+[u'picket_fence', 0.24576998, u'prison', 0.045510679, u'marimba', 0.038962111, u'hook', 0.036462855, u'book_jacket', 0.032731943]
+[u'picket_fence', 0.30702507, u'chime', 0.080588304, u'hook', 0.059005141, u'book_jacket', 0.043099437, u'digital_clock', 0.024533691]
+[u'digital_clock', 0.68963611, u'maze', 0.051550206, u'quilt', 0.024983849, u'digital_watch', 0.023831947, u'envelope', 0.023486197]

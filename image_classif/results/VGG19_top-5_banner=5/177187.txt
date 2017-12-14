@@ -1,0 +1,2 @@
+[u'spatula', 0.09746851, u'nail', 0.076039404, u'picket_fence', 0.050087079, u'plate_rack', 0.045081403, u'paper_towel', 0.035279229]
+[u'sorrel', 0.37627238, u'worm_fence', 0.15258846, u'llama', 0.10767417, u'Arabian_camel', 0.087938778, u'ox', 0.078106657]

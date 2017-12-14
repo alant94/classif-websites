@@ -1,0 +1,2 @@
+[u'ski', 0.096946083, u'book_jacket', 0.07375747, u'paintbrush', 0.037667267, u'comic_book', 0.031574603, u'swab', 0.03046407]
+[u'ski', 0.087189563, u'swab', 0.064596564, u'wardrobe', 0.059912283, u'cowboy_boot', 0.039912276, u'cleaver', 0.037497297]

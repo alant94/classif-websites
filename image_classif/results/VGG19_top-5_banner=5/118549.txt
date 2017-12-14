@@ -1,0 +1,4 @@
+[u'joystick', 0.34277546, u'web_site', 0.28422314, u'screen', 0.11067349, u'monitor', 0.028530903, u'mouse', 0.02757933]
+[u'wall_clock', 0.19846606, u'digital_clock', 0.13286594, u'envelope', 0.10694247, u'tray', 0.080070622, u'digital_watch', 0.054719459]
+[u'panpipe', 0.15606691, u'bolo_tie', 0.11447243, u'wall_clock', 0.11430509, u'digital_watch', 0.074046455, u'bottlecap', 0.053808331]
+[u'panpipe', 0.15040061, u'wall_clock', 0.13719085, u'envelope', 0.086459935, u'digital_watch', 0.056087118, u'digital_clock', 0.045842718]

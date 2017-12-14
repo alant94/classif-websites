@@ -1,0 +1,1 @@
+[u'screwdriver', 0.16404305, u'rule', 0.15403263, u'ballpoint', 0.11703632, u'rubber_eraser', 0.074476577, u'pencil_box', 0.06501212]

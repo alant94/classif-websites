@@ -1,0 +1,3 @@
+[u'fire_screen', 0.34563515, u'stove', 0.10888144, u'chest', 0.032840457, u'vault', 0.027633898, u'bell_cote', 0.023381582]
+[u'crutch', 0.20438375, u'microphone', 0.18593529, u'tripod', 0.058886461, u'maraca', 0.057672642, u'marimba', 0.053834464]
+[u'ballpoint', 0.37416267, u'chime', 0.058950145, u'rubber_eraser', 0.05725218, u'matchstick', 0.047080532, u'pencil_box', 0.031501018]

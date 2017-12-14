@@ -1,0 +1,7 @@
+[u'iron', 0.1162907, u'plate_rack', 0.094963357, u'wardrobe', 0.048487786, u'hook', 0.039711304, u'wall_clock', 0.034149677]
+[u'book_jacket', 0.10172115, u'hair_spray', 0.082313359, u'hook', 0.057138238, u'sunscreen', 0.035961963, u'web_site', 0.031462137]
+[u'web_site', 0.99790561, u'book_jacket', 0.00081518904, u'envelope', 0.00049510057, u'comic_book', 0.00023810391, u'menu', 0.00012252553]
+[u'dock', 0.15744194, u'drilling_platform', 0.079512186, u'airship', 0.066031516, u'crane', 0.065497629, u'bell_cote', 0.062915005]
+[u'face_powder', 0.14613904, u'web_site', 0.083589345, u'book_jacket', 0.068503924, u'envelope', 0.05551067, u'sunscreen', 0.031729072]
+[u'web_site', 0.2677114, u'Band_Aid', 0.066645376, u'book_jacket', 0.041207813, u'envelope', 0.024648622, u'sunscreen', 0.021541629]
+[u'oboe', 0.39594126, u'bassoon', 0.29262197, u'suit', 0.056587517, u'flute', 0.050372381, u'cornet', 0.036505833]

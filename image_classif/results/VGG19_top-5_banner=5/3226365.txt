@@ -1,0 +1,2 @@
+[u'book_jacket', 0.42446077, u'sombrero', 0.34686419, u'comic_book', 0.15055425, u'gong', 0.0090280958, u'cowboy_hat', 0.0058395313]
+[u'book_jacket', 0.42446077, u'sombrero', 0.34686419, u'comic_book', 0.15055425, u'gong', 0.0090280958, u'cowboy_hat', 0.0058395313]

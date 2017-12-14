@@ -1,0 +1,4 @@
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'wine_bottle', 0.29846656, u'red_wine', 0.27522761, u'perfume', 0.084851094, u'lotion', 0.055705801, u'water_bottle', 0.027537923]
+[u'lotion', 0.78620869, u'sunscreen', 0.09539786, u'pill_bottle', 0.039634433, u'perfume', 0.018538782, u'whiskey_jug', 0.017789459]
+[u'stupa', 0.55690819, u'refrigerator', 0.070843652, u'medicine_chest', 0.050549783, u'church', 0.047084656, u'perfume', 0.042592444]

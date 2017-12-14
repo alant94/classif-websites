@@ -1,0 +1,2 @@
+[u'book_jacket', 0.1827663, u'street_sign', 0.16077991, u'web_site', 0.040685192, u'Band_Aid', 0.02802621, u'hair_spray', 0.022789428]
+[u'jigsaw_puzzle', 0.084573172, u'teddy', 0.062015273, u'African_grey', 0.054987561, u'book_jacket', 0.053173676, u'Bedlington_terrier', 0.038337]

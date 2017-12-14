@@ -1,0 +1,4 @@
+[u'monastery', 0.43873748, u'church', 0.33525762, u'beacon', 0.11590691, u'palace', 0.016074773, u'bell_cote', 0.013717929]
+[u'envelope', 0.51506603, u'binder', 0.034404863, u'switch', 0.024095405, u'Band_Aid', 0.01622289, u'web_site', 0.015939476]
+[u'stupa', 0.5217073, u'tripod', 0.05149179, u'matchstick', 0.048821472, u'panpipe', 0.039057251, u'chime', 0.037399497]
+[u'matchstick', 0.13377327, u'nail', 0.078505248, u'rule', 0.071298875, u'web_site', 0.029935228, u'container_ship', 0.025805298]

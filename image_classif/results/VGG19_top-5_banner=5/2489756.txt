@@ -1,0 +1,3 @@
+[u'ox', 0.27063709, u'water_buffalo', 0.20497571, u'ibex', 0.17452943, u'bison', 0.14292099, u'hartebeest', 0.068310931]
+[u'water_buffalo', 0.67446828, u'warthog', 0.11066797, u'wild_boar', 0.047950752, u'ox', 0.044837352, u'impala', 0.025652435]
+[u'bighorn', 0.90730637, u'ram', 0.092667386, u'ibex', 2.5297262e-05, u'water_buffalo', 5.9201187e-07, u'ox', 1.7546009e-07]

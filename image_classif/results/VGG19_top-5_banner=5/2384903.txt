@@ -1,0 +1,7 @@
+[u'macaw', 0.35042036, u'bee_eater', 0.22452477, u'indigo_bunting', 0.10709591, u'peacock', 0.042164404, u'jigsaw_puzzle', 0.027747868]
+[u'envelope', 0.14752276, u'cash_machine', 0.12286373, u'monitor', 0.11561788, u'web_site', 0.058921039, u'screen', 0.057376541]
+[u'container_ship', 0.096955977, u'digital_clock', 0.0785506, u'cash_machine', 0.065680474, u'scoreboard', 0.048021276, u'sliding_door', 0.037865341]
+[u'swab', 0.13139316, u'nail', 0.094950788, u'hook', 0.043737508, u'ski', 0.038686942, u'broom', 0.033424735]
+[u'wine_bottle', 0.36450383, u'lotion', 0.17175515, u'pop_bottle', 0.10756858, u'beer_bottle', 0.10625364, u'red_wine', 0.088206224]
+[u'perfume', 0.51106441, u'wine_bottle', 0.16896375, u'hamper', 0.10135364, u'red_wine', 0.040467925, u'lotion', 0.02566728]
+[u'bakery', 0.46272355, u'restaurant', 0.26496342, u'grocery_store', 0.081487283, u'waffle_iron', 0.030842453, u'Crock_Pot', 0.025856119]

@@ -1,0 +1,8 @@
+[u'street_sign', 0.088954963, u'analog_clock', 0.071609512, u'cinema', 0.055407047, u'rule', 0.04899548, u'binder', 0.033342656]
+[u'puck', 0.36074707, u'bottlecap', 0.11149044, u'rugby_ball', 0.095011882, u'shield', 0.060216036, u'pick', 0.050610989]
+[u'rule', 0.058787066, u'chain_saw', 0.051938687, u'pencil_sharpener', 0.035741985, u'punching_bag', 0.030724781, u'packet', 0.028341163]
+[u'pencil_sharpener', 0.041546829, u'chain_saw', 0.03602333, u'rule', 0.033681843, u'punching_bag', 0.030768268, u'binder', 0.030015105]
+[u'shield', 0.35642532, u'punching_bag', 0.066488944, u'wall_clock', 0.060990326, u'puck', 0.039929222, u'maraca', 0.039154287]
+[u'maraca', 0.22512546, u'volleyball', 0.11878199, u'tennis_ball', 0.089310177, u'rugby_ball', 0.072975121, u'wall_clock', 0.059930686]
+[u'cinema', 0.58704013, u'street_sign', 0.13523482, u'bakery', 0.035833761, u'mailbox', 0.030627945, u'analog_clock', 0.017831573]
+[u'web_site', 0.071206532, u'hand_blower', 0.06532456, u'hatchet', 0.060196139, u'hook', 0.048547801, u'hammer', 0.023974827]

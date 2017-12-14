@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.09780623, u'cleaver', 0.069263324, u'shoe_shop', 0.053129133, u'punching_bag', 0.045054302, u'wooden_spoon', 0.039821286]
+[u'partridge', 0.59614998, u'ruffed_grouse', 0.10563152, u'black_grouse', 0.1044431, u'drake', 0.033487115, u'hen', 0.021430383]
+[u'American_alligator', 0.2660073, u'barracouta', 0.24474818, u'puffer', 0.085782886, u'tench', 0.044911515, u'triceratops', 0.036620282]
+[u'oxcart', 0.40378332, u'ox', 0.16430865, u'gazelle', 0.097908564, u'carousel', 0.065077208, u'llama', 0.035473187]

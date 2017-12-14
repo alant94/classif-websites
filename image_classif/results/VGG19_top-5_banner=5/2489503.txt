@@ -1,0 +1,5 @@
+[u'prison', 0.47785288, u'picket_fence', 0.14562602, u'screwdriver', 0.064653829, u'sliding_door', 0.025173021, u'fountain', 0.018415719]
+[u'Windsor_tie', 0.29631138, u'Indian_cobra', 0.045325287, u'solar_dish', 0.029614186, u'vase', 0.019539466, u'oil_filter', 0.017439917]
+[u'Petri_dish', 0.10178445, u'shower_cap', 0.08253894, u'bib', 0.07819327, u'plate_rack', 0.042113248, u'sombrero', 0.03419156]
+[u'crossword_puzzle', 0.16866674, u'digital_clock', 0.13682041, u'maze', 0.070515804, u'doormat', 0.064423688, u'quilt', 0.062767118]
+[u'sliding_door', 0.088440344, u'safe', 0.08037547, u'shoji', 0.074907139, u'library', 0.053143285, u'window_shade', 0.045472533]

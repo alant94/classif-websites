@@ -1,0 +1,6 @@
+[u'web_site', 0.82163954, u'envelope', 0.038269337, u'screen', 0.0098995995, u'notebook', 0.0058895997, u'monitor', 0.00483773]
+[u'diaper', 0.19326729, u'book_jacket', 0.15499014, u'packet', 0.068499371, u'lotion', 0.041777555, u'swimming_trunks', 0.04009492]
+[u'comic_book', 0.42241579, u'mask', 0.082410336, u'book_jacket', 0.077012047, u'sleeping_bag', 0.042901427, u'sweatshirt', 0.035274826]
+[u'airship', 0.12848456, u'parachute', 0.10074049, u'radio_telescope', 0.038154747, u'bison', 0.036259905, u'space_shuttle', 0.034733701]
+[u'menu', 0.41992953, u'diaper', 0.13446775, u'web_site', 0.04371424, u'Band_Aid', 0.022251757, u'comic_book', 0.022237767]
+[u'fur_coat', 0.88702971, u'wig', 0.054866258, u'web_site', 0.01952883, u'stole', 0.0044247005, u'Afghan_hound', 0.0037024517]

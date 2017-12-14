@@ -1,0 +1,4 @@
+[u'hoopskirt', 0.14667834, u'sarong', 0.082885914, u'poncho', 0.078248665, u'overskirt', 0.072311372, u'handkerchief', 0.050076783]
+[u'ski', 0.42368385, u'paintbrush', 0.085238717, u'sarong', 0.051251888, u'worm_fence', 0.023508828, u'wardrobe', 0.019399287]
+[u'worm_fence', 0.37895247, u'megalith', 0.080575027, u'picket_fence', 0.0672516, u'pole', 0.032048147, u'maypole', 0.019164847]
+[u'quill', 0.12171088, u'handkerchief', 0.084480755, u'wine_bottle', 0.066453278, u'toilet_tissue', 0.04962182, u'stole', 0.036374401]

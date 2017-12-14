@@ -1,0 +1,5 @@
+[u'flagpole', 0.97338742, u'pole', 0.013395647, u'sarong', 0.0090915905, u'maypole', 0.0010011852, u'catamaran', 0.00072375784]
+[u'candle', 0.74639511, u'matchstick', 0.20897433, u'torch', 0.01855487, u'picket_fence', 0.010579458, u'fountain', 0.0061947289]
+[u'matchstick', 0.14915174, u'candle', 0.14622281, u'torch', 0.13189913, u'fountain', 0.061600391, u'book_jacket', 0.055084407]
+[u'screwdriver', 0.38660252, u'ski', 0.1172631, u'vacuum', 0.085771963, u'toaster', 0.032796465, u'chime', 0.029083172]
+[u'envelope', 0.17515026, u'web_site', 0.10137471, u'bulletproof_vest', 0.020988036, u'can_opener', 0.015872316, u'nipple', 0.015617106]

@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.59787869, u'theater_curtain', 0.048514038, u'window_screen', 0.043846842, u'window_shade', 0.039257362, u'prayer_rug', 0.023146164]
+[u'web_site', 0.63575214, u'envelope', 0.071065828, u'book_jacket', 0.047078267, u'jersey', 0.029458903, u'binder', 0.013394925]
+[u'packet', 0.38826874, u'book_jacket', 0.19378154, u'wallet', 0.068037018, u'puck', 0.064953454, u'mailbag', 0.022413664]

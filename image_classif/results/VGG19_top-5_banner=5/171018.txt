@@ -1,0 +1,1 @@
+[u'web_site', 0.44522607, u'medicine_chest', 0.065456979, u'bookcase', 0.040718641, u'envelope', 0.034600675, u'binder', 0.027866824]

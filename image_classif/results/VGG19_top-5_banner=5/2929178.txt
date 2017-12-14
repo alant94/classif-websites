@@ -1,0 +1,2 @@
+[u'envelope', 0.22745022, u'binder', 0.036332302, u'web_site', 0.034559853, u'rule', 0.032653559, u'rubber_eraser', 0.027948307]
+[u'envelope', 0.37932017, u'diaper', 0.079257533, u'plastic_bag', 0.044328034, u'paper_towel', 0.037362441, u'handkerchief', 0.028312424]

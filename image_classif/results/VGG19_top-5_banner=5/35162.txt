@@ -1,0 +1,5 @@
+[u'picket_fence', 0.11785191, u'book_jacket', 0.073143505, u'ballpoint', 0.065824345, u'rule', 0.032441761, u'chime', 0.030719372]
+[u'book_jacket', 0.52305204, u'scoreboard', 0.067615479, u'digital_clock', 0.059396222, u'cash_machine', 0.027179534, u'shower_curtain', 0.025105719]
+[u'sliding_door', 0.28545183, u'picket_fence', 0.082855456, u'chime', 0.042640086, u'bannister', 0.03677227, u'window_shade', 0.025478208]
+[u'ballpoint', 0.15854529, u"carpenter's_kit", 0.11567054, u'screwdriver', 0.093280882, u'lipstick', 0.075078778, u'paintbrush', 0.042118251]
+[u'rule', 0.22418262, u'screwdriver', 0.12438696, u'chime', 0.12133775, u'syringe', 0.093803421, u'rubber_eraser', 0.077283502]

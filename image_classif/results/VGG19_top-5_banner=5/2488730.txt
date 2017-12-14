@@ -1,0 +1,4 @@
+[u'scoreboard', 0.24568567, u'hard_disc', 0.14665623, u'book_jacket', 0.11229167, u'electric_guitar', 0.067567423, u'crossword_puzzle', 0.050828248]
+[u'wool', 0.16403812, u'swab', 0.14464238, u'broom', 0.1001047, u'stole', 0.067005403, u'book_jacket', 0.051053859]
+[u'cash_machine', 0.1388122, u'hand-held_computer', 0.072693348, u'pencil_sharpener', 0.061554, u'modem', 0.04482932, u'web_site', 0.044481285]
+[u'web_site', 0.12090172, u'menu', 0.1154666, u'coffee_mug', 0.10084727, u'packet', 0.062497437, u'book_jacket', 0.047591336]

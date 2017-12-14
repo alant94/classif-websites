@@ -1,0 +1,8 @@
+[u'ski', 0.91340965, u'picket_fence', 0.017457524, u'paintbrush', 0.017057758, u'shovel', 0.0056263767, u'swab', 0.0037572365]
+[u'stole', 0.16080052, u'sarong', 0.077133216, u'pedestal', 0.061463743, u'vase', 0.057760164, u'swab', 0.040715054]
+[u'fountain', 0.79769057, u'shower_curtain', 0.070456833, u'plastic_bag', 0.0091013713, u'picket_fence', 0.0082839895, u'gown', 0.0079876315]
+[u'torch', 0.41080925, u'pole', 0.085258424, u'volcano', 0.035607323, u'paintbrush', 0.031677589, u'rifle', 0.028426131]
+[u'ear', 0.085034318, u'sarong', 0.069353528, u'coral_fungus', 0.059423536, u'corn', 0.04379778, u'stole', 0.034159619]
+[u'fountain', 0.47926205, u'scuba_diver', 0.047104631, u'coho', 0.041302837, u'killer_whale', 0.027880173, u'macaw', 0.02720763]
+[u'maillot', 0.19677211, u'maillot', 0.18825002, u'conch', 0.050906703, u'bikini', 0.045946881, u'brassiere', 0.039493024]
+[u'quill', 0.31999034, u'matchstick', 0.041291755, u'ladle', 0.035311941, u'bow', 0.035205618, u'lampshade', 0.031517133]

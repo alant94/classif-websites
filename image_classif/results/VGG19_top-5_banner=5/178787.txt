@@ -1,0 +1,7 @@
+[u'web_site', 0.37052605, u'vending_machine', 0.054024141, u'oscilloscope', 0.033874068, u'book_jacket', 0.02855934, u'refrigerator', 0.022828938]
+[u'paintbrush', 0.26057002, u'butcher_shop', 0.089476734, u'cleaver', 0.053315695, u'swab', 0.033890292, u'book_jacket', 0.032698106]
+[u'library', 0.13622355, u'photocopier', 0.09413334, u'crutch', 0.080430441, u'laptop', 0.065567613, u'notebook', 0.05699297]
+[u'suit', 0.5884611, u'Windsor_tie', 0.16434246, u'oboe', 0.090701319, u'groom', 0.061019093, u'cornet', 0.03162732]
+[u'suit', 0.72217172, u'Windsor_tie', 0.069578357, u'oboe', 0.037258454, u'bow_tie', 0.023611853, u'cornet', 0.017986521]
+[u'book_jacket', 0.58129227, u'envelope', 0.21710081, u'web_site', 0.056190614, u'comic_book', 0.026056333, u'menu', 0.023989229]
+[u'suit', 0.74185514, u'Windsor_tie', 0.095516481, u'bow_tie', 0.043987826, u'groom', 0.0166981, u'oboe', 0.01382302]

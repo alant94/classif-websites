@@ -1,0 +1,3 @@
+[u'nail', 0.090507209, u'cleaver', 0.068537526, u'envelope', 0.067632757, u'rule', 0.040895801, u'safety_pin', 0.02692472]
+[u'envelope', 0.15318532, u'book_jacket', 0.1414406, u'binder', 0.1181879, u'digital_clock', 0.04546538, u'wall_clock', 0.03838145]
+[u'geyser', 0.89688867, u'fountain', 0.05977869, u'alp', 0.0090336977, u'lakeside', 0.0047065518, u'valley', 0.0045501892]

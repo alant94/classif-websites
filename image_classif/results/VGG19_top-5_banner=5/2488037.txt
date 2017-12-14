@@ -1,0 +1,2 @@
+[u'toilet_seat', 0.28013393, u'barrel', 0.18038349, u'crate', 0.11502694, u'carton', 0.11320873, u'tray', 0.033539135]
+[u'envelope', 0.17062925, u'book_jacket', 0.084632657, u'binder', 0.08458852, u'fire_screen', 0.081476055, u'window_screen', 0.038520548]

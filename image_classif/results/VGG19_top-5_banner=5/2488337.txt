@@ -1,0 +1,6 @@
+[u'envelope', 0.052367117, u'can_opener', 0.020156641, u'web_site', 0.019163601, u'wardrobe', 0.017707497, u'refrigerator', 0.015751459]
+[u'screwdriver', 0.35467973, u'book_jacket', 0.31304166, u"carpenter's_kit", 0.23060067, u'web_site', 0.0098028695, u'comic_book', 0.0067115822]
+[u'polecat', 0.58012891, u'black-footed_ferret', 0.34208253, u'weasel', 0.073829986, u'capuchin', 0.0017199727, u'mink', 0.0013379853]
+[u'nail', 0.24102268, u'rule', 0.16829786, u'screwdriver', 0.10063436, u'web_site', 0.03853539, u'swab', 0.037988298]
+[u'cleaver', 0.019436123, u'envelope', 0.014130997, u'hatchet', 0.012725268, u'letter_opener', 0.011890372, u'corkscrew', 0.011778036]
+[u'screwdriver', 0.21728864, u'hook', 0.19249366, u'safety_pin', 0.13786492, u"carpenter's_kit", 0.12106663, u'whistle', 0.058595441]

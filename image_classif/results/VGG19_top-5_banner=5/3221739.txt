@@ -1,0 +1,8 @@
+[u'parachute', 0.037541032, u'seashore', 0.033435855, u'sandbar', 0.030176906, u'promontory', 0.028366294, u'rapeseed', 0.026491504]
+[u'library', 0.041689064, u'cassette', 0.038368151, u'shopping_basket', 0.037651815, u'paintbrush', 0.03410437, u'jigsaw_puzzle', 0.032683574]
+[u'web_site', 0.2268167, u'carton', 0.14872208, u'packet', 0.050303612, u'laptop', 0.037959933, u'comic_book', 0.036545787]
+[u'jigsaw_puzzle', 0.34313112, u'wall_clock', 0.066976495, u'space_shuttle', 0.040349722, u'picket_fence', 0.030715015, u'chime', 0.027774675]
+[u'refrigerator', 0.24729741, u'microwave', 0.15718025, u'toaster', 0.051111292, u'mousetrap', 0.021717813, u'clog', 0.017875073]
+[u'promontory', 0.04696317, u'seashore', 0.045546666, u'rapeseed', 0.035059456, u'megalith', 0.031321008, u'sandbar', 0.030899862]
+[u'street_sign', 0.10551434, u'screen', 0.081491202, u'laptop', 0.057673823, u'monitor', 0.04575802, u'television', 0.041408531]
+[u'Indian_elephant', 0.13151102, u'tusker', 0.046860695, u'horse_cart', 0.039422501, u'African_elephant', 0.038525261, u'fountain', 0.035641134]

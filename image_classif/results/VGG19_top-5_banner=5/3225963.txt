@@ -1,0 +1,4 @@
+[u'castle', 0.6129247, u'fountain', 0.20056885, u'church', 0.093928196, u'monastery', 0.01270288, u'worm_fence', 0.010506521]
+[u'wardrobe', 0.25263658, u'vestment', 0.16657175, u'picket_fence', 0.053352699, u'altar', 0.050930772, u'butcher_shop', 0.024897529]
+[u'baseball', 0.12720591, u'face_powder', 0.088377967, u'envelope', 0.064208135, u'pencil_sharpener', 0.051603805, u'maraca', 0.041359827]
+[u'castle', 0.66737866, u'beacon', 0.073201962, u'breakwater', 0.055731457, u'cliff', 0.033524461, u'obelisk', 0.024460424]

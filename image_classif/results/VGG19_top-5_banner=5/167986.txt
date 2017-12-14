@@ -1,0 +1,2 @@
+[u'hook', 0.20092645, u'gas_pump', 0.081136152, u'coffee_mug', 0.056568205, u'street_sign', 0.053936183, u'punching_bag', 0.032196786]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

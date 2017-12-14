@@ -1,0 +1,2 @@
+[u'oxcart', 0.23745839, u'thresher', 0.12199193, u'horse_cart', 0.12145805, u'ox', 0.063592657, u'yurt', 0.049651995]
+[u"carpenter's_kit", 0.33335161, u'switch', 0.0810716, u'combination_lock', 0.080269732, u'screwdriver', 0.075540386, u'panpipe', 0.06296239]

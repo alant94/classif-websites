@@ -1,0 +1,2 @@
+[u'library', 0.25565866, u'wardrobe', 0.15681577, u'window_shade', 0.13684331, u'shoji', 0.034431335, u'binder', 0.029377438]
+[u'cinema', 0.38075423, u'book_jacket', 0.10532384, u"carpenter's_kit", 0.06150385, u'theater_curtain', 0.025243452, u'lampshade', 0.02307917]

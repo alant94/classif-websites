@@ -1,0 +1,1 @@
+[u'cowboy_hat', 0.36056715, u'military_uniform', 0.095028229, u'sombrero', 0.063019343, u'accordion', 0.059423465, u'cloak', 0.022919424]

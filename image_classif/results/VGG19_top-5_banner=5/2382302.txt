@@ -1,0 +1,2 @@
+[u'bow', 0.3551676, u'picket_fence', 0.10006914, u'worm_fence', 0.070346497, u'paddle', 0.030921936, u'reel', 0.02125112]
+[u'tray', 0.063193515, u'torch', 0.048664775, u'monitor', 0.04578913, u'candle', 0.042027723, u'nematode', 0.036005463]

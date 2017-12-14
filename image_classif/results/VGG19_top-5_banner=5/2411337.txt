@@ -1,0 +1,7 @@
+[u'Polaroid_camera', 0.1567075, u'projector', 0.11622268, u'toaster', 0.0665709, u'printer', 0.061926134, u'recreational_vehicle', 0.041923162]
+[u'limousine', 0.29171824, u'half_track', 0.20486164, u'passenger_car', 0.15523358, u'recreational_vehicle', 0.040592883, u'tow_truck', 0.037043028]
+[u'recreational_vehicle', 0.31573358, u'passenger_car', 0.07818801, u'projector', 0.07426925, u'radiator', 0.044669304, u'trailer_truck', 0.044495411]
+[u'carton', 0.29498118, u'hamper', 0.14447086, u'binder', 0.10204821, u'envelope', 0.096455269, u'pinwheel', 0.079766884]
+[u'parking_meter', 0.83340865, u'pay-phone', 0.016186289, u'ashcan', 0.011270772, u'mailbox', 0.0053658937, u'totem_pole', 0.004739082]
+[u'chain_saw', 0.074547753, u'ashcan', 0.042227354, u'cash_machine', 0.025128394, u'stretcher', 0.021107966, u'gasmask', 0.01825444]
+[u'cash_machine', 0.42876706, u'home_theater', 0.18136589, u'sliding_door', 0.088784114, u'forklift', 0.036079027, u'turnstile', 0.032394879]

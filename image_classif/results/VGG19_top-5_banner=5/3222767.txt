@@ -1,0 +1,2 @@
+[u'chainlink_fence', 0.85270256, u'school_bus', 0.01503294, u'jigsaw_puzzle', 0.0076984465, u'punching_bag', 0.0072240392, u'balloon', 0.0062442156]
+[u'screen', 0.54998821, u'monitor', 0.078256018, u'web_site', 0.03440965, u'binder', 0.031047186, u'oscilloscope', 0.030843968]

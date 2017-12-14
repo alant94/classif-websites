@@ -1,0 +1,2 @@
+[u'ballpoint', 0.55962592, u'rubber_eraser', 0.053656626, u'matchstick', 0.049398705, u'paintbrush', 0.038686283, u'chime', 0.031814609]
+[u'oscilloscope', 0.40698683, u'digital_clock', 0.31344944, u'screwdriver', 0.079698786, u'digital_watch', 0.053608619, u'analog_clock', 0.025707055]

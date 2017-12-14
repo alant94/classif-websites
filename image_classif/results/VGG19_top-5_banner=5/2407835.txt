@@ -1,0 +1,4 @@
+[u'laptop', 0.10956486, u'notebook', 0.083326042, u'projector', 0.063644886, u'loudspeaker', 0.054236855, u'electric_fan', 0.046257049]
+[u'digital_clock', 0.13308954, u'scoreboard', 0.10158325, u'web_site', 0.078161895, u'Band_Aid', 0.05598405, u'book_jacket', 0.036011744]
+[u'spotlight', 0.1890409, u'radio_telescope', 0.14237191, u'toilet_seat', 0.094717249, u'banjo', 0.054458886, u'analog_clock', 0.033684295]
+[u'switch', 0.27897039, u'combination_lock', 0.19989812, u'digital_clock', 0.047737636, u'remote_control', 0.046239279, u'odometer', 0.037744958]

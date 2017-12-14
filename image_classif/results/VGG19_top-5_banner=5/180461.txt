@@ -1,0 +1,2 @@
+[u'geyser', 0.24199007, u'beer_glass', 0.1399104, u'plastic_bag', 0.093345858, u'packet', 0.072097562, u'book_jacket', 0.063816629]
+[u'Windsor_tie', 0.44092059, u'suit', 0.29841381, u'book_jacket', 0.073154829, u'comic_book', 0.043142792, u'bow_tie', 0.024031296]

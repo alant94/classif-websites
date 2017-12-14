@@ -1,0 +1,2 @@
+[u'picket_fence', 0.18842165, u'street_sign', 0.08278358, u'rule', 0.079763919, u'analog_clock', 0.048557982, u'cinema', 0.029184859]
+[u'lab_coat', 0.73247558, u'barbershop', 0.072406039, u'barber_chair', 0.027843971, u'vestment', 0.02121903, u'tobacco_shop', 0.015008439]

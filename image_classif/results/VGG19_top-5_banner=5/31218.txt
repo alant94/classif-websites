@@ -1,0 +1,2 @@
+[u'web_site', 0.3909221, u'screen', 0.11857206, u'envelope', 0.11134312, u'book_jacket', 0.10380369, u'monitor', 0.077310324]
+[u'gas_pump', 0.11891291, u'scoreboard', 0.095126197, u'ambulance', 0.043823905, u'cassette', 0.042919774, u'digital_clock', 0.040428959]

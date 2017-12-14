@@ -1,0 +1,7 @@
+[u'American_black_bear', 0.99907458, u'brown_bear', 0.00042026918, u'wombat', 0.00025227782, u'sloth_bear', 0.00023294709, u'wild_boar', 6.9263319e-06]
+[u'face_powder', 0.21991436, u'puck', 0.077307455, u'rugby_ball', 0.062492594, u'drum', 0.033508208, u'toilet_seat', 0.032509435]
+[u'hare', 0.23121521, u'coyote', 0.18586533, u'wallaby', 0.064603478, u'American_black_bear', 0.061195739, u'wood_rabbit', 0.058843177]
+[u'street_sign', 0.30409822, u'safety_pin', 0.071090989, u'Band_Aid', 0.040099375, u'lighter', 0.030734118, u'digital_clock', 0.027448617]
+[u'toilet_seat', 0.3123126, u'shield', 0.24086902, u'wall_clock', 0.16823997, u'gong', 0.048027609, u'drum', 0.025659611]
+[u'geyser', 0.6174702, u'valley', 0.1289071, u'alp', 0.069868423, u'volcano', 0.019997727, u'mountain_bike', 0.019756379]
+[u'coyote', 0.87301308, u'timber_wolf', 0.055639908, u'impala', 0.012446725, u'grey_fox', 0.011017306, u'red_wolf', 0.0078920564]

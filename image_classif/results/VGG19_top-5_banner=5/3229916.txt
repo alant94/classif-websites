@@ -1,0 +1,4 @@
+[u'web_site', 0.052102413, u'nematode', 0.043376565, u'matchstick', 0.023345316, u'sax', 0.015769055, u'quill', 0.014649169]
+[u'web_site', 0.14987186, u'envelope', 0.10625282, u'screen', 0.043447066, u'analog_clock', 0.033835188, u'digital_clock', 0.03184728]
+[u'envelope', 0.44429809, u'binder', 0.18444619, u'wardrobe', 0.018014584, u'file', 0.015087345, u'refrigerator', 0.013197541]
+[u'rapeseed', 0.19157551, u'lakeside', 0.14217491, u'web_site', 0.067008808, u'cliff', 0.056231886, u'balloon', 0.052961692]

@@ -1,0 +1,4 @@
+[u'cinema', 0.14471918, u'rule', 0.11627593, u'web_site', 0.082004756, u'organ', 0.054307334, u'book_jacket', 0.039513838]
+[u'flagpole', 0.20028397, u'patio', 0.064387783, u'restaurant', 0.058305643, u'boathouse', 0.049663883, u'picket_fence', 0.04632296]
+[u'digital_clock', 0.28165913, u'nematode', 0.127367, u'matchstick', 0.046166878, u'web_site', 0.036513414, u'analog_clock', 0.036103234]
+[u'book_jacket', 0.15360337, u'ski', 0.1221384, u'comic_book', 0.091970883, u'web_site', 0.055112712, u'bow', 0.030582132]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.19979437, u'envelope', 0.11800015, u'web_site', 0.093707308, u'comic_book', 0.051556744, u'wall_clock', 0.016543506]
+[u'wall_clock', 0.12752141, u'chime', 0.054063439, u'screwdriver', 0.037576005, u'ballpoint', 0.033514582, u'syringe', 0.030933123]

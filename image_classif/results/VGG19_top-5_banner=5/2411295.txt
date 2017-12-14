@@ -1,0 +1,1 @@
+[u'dock', 0.1432268, u'freight_car', 0.1055003, u'container_ship', 0.093239062, u'cinema', 0.087863863, u'boathouse', 0.071318425]

@@ -1,0 +1,4 @@
+[u'web_site', 0.42521313, u'book_jacket', 0.39304829, u'screen', 0.095324643, u'television', 0.052693341, u'monitor', 0.018993733]
+[u'scoreboard', 0.22222024, u'book_jacket', 0.10876157, u'ballplayer', 0.071063153, u'comic_book', 0.042435303, u'cowboy_hat', 0.039601199]
+[u'horizontal_bar', 0.53116959, u'balance_beam', 0.23238322, u'parallel_bars', 0.17265813, u'torch', 0.02542582, u'volleyball', 0.0057373126]
+[u'book_jacket', 0.27978274, u'screen', 0.077752784, u'cash_machine', 0.068880491, u'web_site', 0.061557017, u'monitor', 0.035002988]

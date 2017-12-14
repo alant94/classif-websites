@@ -1,0 +1,4 @@
+[u'ski', 0.19523297, u'picket_fence', 0.15659145, u'shoe_shop', 0.15079704, u'brassiere', 0.07893686, u'wardrobe', 0.055482693]
+[u'totem_pole', 0.35064316, u'pole', 0.20666099, u'rugby_ball', 0.045065958, u'obelisk', 0.028344298, u'ice_lolly', 0.021695115]
+[u'peacock', 0.22761774, u'macaw', 0.076817431, u'toucan', 0.066836201, u'black_stork', 0.049021062, u'worm_fence', 0.026002087]
+[u'vulture', 0.6822263, u'crane', 0.085132793, u'pelican', 0.047481198, u'great_grey_owl', 0.027952716, u'little_blue_heron', 0.02524217]

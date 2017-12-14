@@ -1,0 +1,2 @@
+[u'nail', 0.051701766, u'safety_pin', 0.049017586, u'sea_urchin', 0.033650007, u'hook', 0.033579655, u'coral_reef', 0.030148704]
+[u'sliding_door', 0.11788233, u'window_shade', 0.045982312, u'studio_couch', 0.045586441, u'mosquito_net', 0.039885201, u'patio', 0.037472572]

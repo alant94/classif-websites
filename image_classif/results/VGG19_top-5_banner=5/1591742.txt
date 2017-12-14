@@ -1,0 +1,5 @@
+[u'maze', 0.075847991, u'park_bench', 0.053211208, u'fountain', 0.048398443, u'chain_saw', 0.041849229, u'brass', 0.037270971]
+[u'bathing_cap', 0.96317369, u'swimming_trunks', 0.020181391, u'maillot', 0.0052729161, u'bikini', 0.0024019501, u'snorkel', 0.0014204982]
+[u'miniskirt', 0.1678775, u'swimming_trunks', 0.12879103, u'maillot', 0.11998477, u'maillot', 0.0982223, u'bikini', 0.056895033]
+[u'swimming_trunks', 0.066206641, u'diaper', 0.059395947, u'brassiere', 0.039400909, u'bath_towel', 0.036349639, u'Band_Aid', 0.03304185]
+[u'fire_screen', 0.030754518, u'caldron', 0.027826965, u'prison', 0.027491705, u'skunk', 0.023376586, u'Shetland_sheepdog', 0.022061743]

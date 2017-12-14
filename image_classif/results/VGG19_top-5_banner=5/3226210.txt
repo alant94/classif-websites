@@ -1,0 +1,2 @@
+[u'ski', 0.24196468, u'wardrobe', 0.079035506, u'swab', 0.061370622, u'poncho', 0.057164498, u'picket_fence', 0.049435932]
+[u'ski', 0.3838672, u'scoreboard', 0.035371564, u'paddle', 0.032040365, u'picket_fence', 0.025276927, u'binder', 0.020340839]

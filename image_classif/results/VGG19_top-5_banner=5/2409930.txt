@@ -1,0 +1,4 @@
+[u'balloon', 0.1364488, u'rubber_eraser', 0.11100236, u'shower_curtain', 0.085342743, u'ballpoint', 0.044092417, u'matchstick', 0.030055532]
+[u'container_ship', 0.1823829, u'library', 0.068078525, u'scoreboard', 0.054990813, u'picket_fence', 0.054201387, u'digital_clock', 0.033751812]
+[u'analog_clock', 0.39544237, u'wall_clock', 0.10272486, u'bolo_tie', 0.091827825, u'puck', 0.088389665, u'street_sign', 0.070084542]
+[u'barbershop', 0.3634786, u'street_sign', 0.084115662, u'bakery', 0.07088013, u'cinema', 0.060519252, u'tobacco_shop', 0.055874519]

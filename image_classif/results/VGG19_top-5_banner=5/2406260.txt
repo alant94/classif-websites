@@ -1,0 +1,7 @@
+[u'abaya', 0.33116698, u'fur_coat', 0.14997698, u'suit', 0.093380459, u'stole', 0.058293223, u'cloak', 0.029973261]
+[u'cleaver', 0.12511791, u'spatula', 0.11840922, u'hook', 0.062537841, u'picket_fence', 0.047939021, u'book_jacket', 0.043438956]
+[u'parallel_bars', 0.34014565, u'horizontal_bar', 0.33062094, u'balance_beam', 0.18328546, u'volleyball', 0.044742335, u'pole', 0.016616398]
+[u'punching_bag', 0.1732177, u'stage', 0.11604271, u'knee_pad', 0.09803091, u'maillot', 0.062474031, u'microphone', 0.060444415]
+[u'digital_clock', 0.26407573, u'street_sign', 0.16861533, u'scoreboard', 0.16718544, u'picket_fence', 0.063933238, u'rule', 0.018571278]
+[u'ballplayer', 0.21132232, u'shield', 0.12448081, u'punching_bag', 0.12072598, u'chain_mail', 0.062102228, u'breastplate', 0.056667481]
+[u'unicycle', 0.14135894, u'brassiere', 0.11327188, u'bicycle-built-for-two', 0.073498771, u'mountain_bike', 0.0430783, u'maillot', 0.038654193]

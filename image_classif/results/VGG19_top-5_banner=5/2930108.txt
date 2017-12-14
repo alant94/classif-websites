@@ -1,0 +1,2 @@
+[u'book_jacket', 0.10955608, u'suit', 0.088510826, u'jersey', 0.088441893, u'web_site', 0.076761678, u'abaya', 0.050616201]
+[u'military_uniform', 0.42176232, u'bow_tie', 0.20120089, u'pickelhaube', 0.083554946, u'suit', 0.072615676, u'bulletproof_vest', 0.040654454]

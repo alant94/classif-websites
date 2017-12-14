@@ -1,0 +1,8 @@
+[u'brown_bear', 0.80811346, u'American_black_bear', 0.039008386, u'lesser_panda', 0.012755916, u'wombat', 0.012033164, u'marmot', 0.010106086]
+[u'bald_eagle', 0.99995363, u'kite', 3.9512488e-05, u'vulture', 5.4763859e-06, u'albatross', 6.9312927e-07, u'pelican', 1.8533494e-07]
+[u'vase', 0.061489649, u'tray', 0.057220526, u'coffee_mug', 0.044822194, u'pitcher', 0.043884616, u'cup', 0.042119689]
+[u'brown_bear', 0.9807139, u'chow', 0.0063708392, u'beaver', 0.0025031762, u'American_black_bear', 0.0022568274, u'teddy', 0.0018409993]
+[u'web_site', 0.15074795, u'chain_mail', 0.12249804, u'envelope', 0.10275334, u'book_jacket', 0.030867938, u'hatchet', 0.028390568]
+[u'medicine_chest', 0.26347274, u'wardrobe', 0.076058298, u'binder', 0.065186158, u'doormat', 0.047219709, u'crate', 0.037511595]
+[u'cougar', 0.84524798, u'lynx', 0.083889537, u'lion', 0.027353015, u'Border_terrier', 0.010613387, u'coyote', 0.0057697659]
+[u'hartebeest', 0.57405978, u'impala', 0.20524773, u'ibex', 0.089039609, u'gazelle', 0.083594888, u'ox', 0.036189463]

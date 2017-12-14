@@ -1,0 +1,3 @@
+[u'digital_clock', 0.095198043, u'puck', 0.087411143, u'knee_pad', 0.067816347, u'digital_watch', 0.054539848, u'Band_Aid', 0.049776588]
+[u'digital_clock', 0.10511657, u'envelope', 0.084912226, u'Windsor_tie', 0.052464962, u'pillow', 0.042490989, u'quilt', 0.040033702]
+[u'rapeseed', 0.070178129, u'maze', 0.049211804, u'jean', 0.036211628, u'cowboy_boot', 0.031060457, u'miniskirt', 0.028036524]

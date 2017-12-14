@@ -1,0 +1,7 @@
+[u'safe', 0.1254296, u'binder', 0.12205136, u'envelope', 0.094317041, u'whistle', 0.092686251, u'swab', 0.091562919]
+[u'chain_saw', 0.17991152, u'accordion', 0.12710083, u"carpenter's_kit", 0.059310023, u'hard_disc', 0.050909609, u'hammer', 0.038977303]
+[u'safe', 0.15019372, u'monitor', 0.076070748, u'carton', 0.059038322, u'screen', 0.055477958, u'wardrobe', 0.050703268]
+[u'revolver', 0.76046526, u'assault_rifle', 0.091286071, u'rifle', 0.083183207, u'holster', 0.064350516, u'bow', 0.00016037522]
+[u'assault_rifle', 0.54809403, u'rifle', 0.31507486, u'holster', 0.069179378, u'revolver', 0.066955224, u'bow', 0.00023947639]
+[u'croquet_ball', 0.22412549, u'matchstick', 0.099276267, u'birdhouse', 0.091306992, u'swing', 0.069792449, u'flagpole', 0.035812024]
+[u'digital_clock', 0.24956095, u'screen', 0.19738865, u'maze', 0.077606596, u'envelope', 0.040889133, u'monitor', 0.040622793]

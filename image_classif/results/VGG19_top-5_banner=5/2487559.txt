@@ -1,0 +1,2 @@
+[u'birdhouse', 0.62201279, u'barn', 0.15308622, u'church', 0.098124035, u'boathouse', 0.067556106, u'thatch', 0.023008736]
+[u'platypus', 0.097521596, u'dhole', 0.067774728, u'Saluki', 0.053293653, u'hare', 0.048638325, u'junco', 0.03684913]

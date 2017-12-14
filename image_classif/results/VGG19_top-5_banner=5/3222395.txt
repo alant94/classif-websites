@@ -1,0 +1,5 @@
+[u'pick', 0.24142383, u'shield', 0.22630107, u'maraca', 0.11630154, u'hair_slide', 0.060206715, u'ballpoint', 0.049603868]
+[u'golf_ball', 0.16380048, u'coffee_mug', 0.089426063, u'toilet_tissue', 0.078254052, u'oil_filter', 0.055017166, u'water_bottle', 0.053692512]
+[u'cockroach', 0.1835634, u'ear', 0.12444589, u'nail', 0.059697125, u'corn', 0.058540888, u'lampshade', 0.032930426]
+[u'butcher_shop', 0.77528483, u'gown', 0.045842707, u'pajama', 0.044654571, u'groom', 0.022913212, u'shower_curtain', 0.013745443]
+[u'web_site', 0.32771128, u'book_jacket', 0.11234484, u'comic_book', 0.027413124, u'envelope', 0.017518926, u'menu', 0.01305446]

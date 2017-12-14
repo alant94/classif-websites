@@ -1,0 +1,2 @@
+[u'fire_screen', 0.90408754, u'microwave', 0.015460294, u'window_shade', 0.012605851, u'table_lamp', 0.0099851713, u'medicine_chest', 0.0096056499]
+[u'book_jacket', 0.28105316, u'fire_screen', 0.20648634, u'jigsaw_puzzle', 0.11860861, u'tray', 0.068403274, u'window_screen', 0.048341889]

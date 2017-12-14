@@ -1,0 +1,8 @@
+[u'stretcher', 0.094630763, u'rifle', 0.082683735, u'coho', 0.080662414, u'tench', 0.075763687, u'assault_rifle', 0.056101315]
+[u'chest', 0.24382035, u'tray', 0.095651306, u'cradle', 0.065688163, u'crib', 0.058575343, u'pencil_box', 0.047209878]
+[u'jeep', 0.73805052, u'golfcart', 0.085540153, u'Polaroid_camera', 0.016489167, u'recreational_vehicle', 0.013863081, u'forklift', 0.0091031613]
+[u'fireboat', 0.2457802, u'missile', 0.12216638, u'fountain', 0.10707248, u'geyser', 0.040841836, u'space_shuttle', 0.038664885]
+[u'bikini', 0.41528621, u'sunscreen', 0.12011462, u'maillot', 0.068280116, u'maillot', 0.055296768, u'swimming_trunks', 0.053303238]
+[u'diaper', 0.2004469, u'toilet_tissue', 0.13790001, u'paper_towel', 0.059569359, u'horizontal_bar', 0.057065509, u'sliding_door', 0.033145782]
+[u'balance_beam', 0.16728969, u'wig', 0.06697046, u'bathing_cap', 0.061820798, u'shoe_shop', 0.056484371, u'toyshop', 0.049295355]
+[u'bikini', 0.84845746, u'maillot', 0.050086711, u'sunscreen', 0.039734881, u'swimming_trunks', 0.019945512, u'maillot', 0.012844183]

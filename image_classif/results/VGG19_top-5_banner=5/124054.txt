@@ -1,0 +1,4 @@
+[u'rubber_eraser', 0.10155367, u'packet', 0.084523045, u'binder', 0.072385035, u'book_jacket', 0.071251258, u'cleaver', 0.043742698]
+[u'Band_Aid', 0.52438575, u'digital_clock', 0.13789837, u'rubber_eraser', 0.049654756, u'ice_lolly', 0.048772935, u'pill_bottle', 0.014808734]
+[u'web_site', 0.22776884, u'sunglasses', 0.13438785, u'sunglass', 0.090221711, u'envelope', 0.069312178, u'television', 0.034446146]
+[u'matchstick', 0.069627523, u'nematode', 0.056221053, u'digital_clock', 0.029911488, u'spotlight', 0.024745239, u'lighter', 0.022570431]

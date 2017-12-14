@@ -1,0 +1,8 @@
+[u'coffee_mug', 0.20387919, u'hair_spray', 0.16465464, u'water_bottle', 0.042606421, u'perfume', 0.039597996, u'ashcan', 0.035575137]
+[u'coffee_mug', 0.28735083, u'hair_spray', 0.083257973, u'cup', 0.035135448, u'beer_bottle', 0.027211796, u'perfume', 0.024906758]
+[u'coffee_mug', 0.26125354, u'hair_spray', 0.042961981, u'ashcan', 0.041136771, u'beer_glass', 0.038442362, u'cup', 0.030263569]
+[u'theater_curtain', 0.22546099, u'stove', 0.053771403, u'screen', 0.048676565, u'cash_machine', 0.025650661, u'monitor', 0.02488656]
+[u'coffee_mug', 0.12199475, u'refrigerator', 0.089740954, u'medicine_chest', 0.071486518, u'water_jug', 0.035589382, u'toaster', 0.034094829]
+[u'coffee_mug', 0.094448611, u'perfume', 0.083176345, u'theater_curtain', 0.066718645, u'cash_machine', 0.058403533, u'hair_spray', 0.05450153]
+[u'scale', 0.17186683, u'web_site', 0.16813374, u'book_jacket', 0.035841856, u'sewing_machine', 0.031702079, u'barometer', 0.029306058]
+[u'coffee_mug', 0.3566106, u'hair_spray', 0.043475229, u'water_bottle', 0.03224596, u'refrigerator', 0.028973121, u'perfume', 0.023779459]

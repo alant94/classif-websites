@@ -1,0 +1,7 @@
+[u'analog_clock', 0.69042957, u'wall_clock', 0.079806946, u'digital_clock', 0.042629391, u'tennis_ball', 0.037969753, u'magnetic_compass', 0.030923229]
+[u'bee', 0.21564418, u'vase', 0.087463669, u'coral_reef', 0.041822337, u'stage', 0.03425017, u'jellyfish', 0.030457838]
+[u'hair_slide', 0.26687464, u'perfume', 0.1212468, u'piggy_bank', 0.079914935, u'teddy', 0.048853349, u'rubber_eraser', 0.038359258]
+[u'pill_bottle', 0.20565258, u'rugby_ball', 0.081616476, u'tennis_ball', 0.078621648, u'golf_ball', 0.069118336, u'sunscreen', 0.052996073]
+[u'brass', 0.98630953, u'packet', 0.0022479233, u'manhole_cover', 0.0016293969, u'menu', 0.0015122236, u'doormat', 0.0014638624]
+[u'packet', 0.25518498, u'grocery_store', 0.148233, u'confectionery', 0.12639585, u'shopping_basket', 0.10978824, u'vending_machine', 0.068973482]
+[u'matchstick', 0.95989984, u'pencil_sharpener', 0.021910951, u'rubber_eraser', 0.0090162801, u'pinwheel', 0.0040174983, u'umbrella', 0.0022645006]

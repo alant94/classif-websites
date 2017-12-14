@@ -1,0 +1,2 @@
+[u'screwdriver', 0.11253771, u'rule', 0.10880926, u'candle', 0.090544514, u'matchstick', 0.052085914, u"carpenter's_kit", 0.051042058]
+[u'speedboat', 0.66882908, u'catamaran', 0.19300671, u'trimaran', 0.074877553, u'submarine', 0.018275922, u'sandbar', 0.013450898]

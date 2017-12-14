@@ -1,0 +1,7 @@
+[u'electric_guitar', 0.17451352, u'oboe', 0.085773192, u'switch', 0.069717556, u'Christmas_stocking', 0.06259498, u'acoustic_guitar', 0.041980658]
+[u'cab', 0.29471287, u'traffic_light', 0.10017844, u'container_ship', 0.041819505, u'toyshop', 0.036252167, u'bullet_train', 0.027103538]
+[u'jigsaw_puzzle', 0.16091591, u'shower_curtain', 0.074071698, u'handkerchief', 0.058649488, u'envelope', 0.047480926, u'shower_cap', 0.047340963]
+[u'lighter', 0.29483894, u'digital_clock', 0.19746074, u'lipstick', 0.047402352, u'whistle', 0.04621093, u'fireboat', 0.033483438]
+[u'bobsled', 0.43596932, u'quill', 0.232079, u'snowplow', 0.060856324, u'fireboat', 0.034026466, u'harmonica', 0.020867826]
+[u'flagpole', 0.14372694, u'dock', 0.12017738, u'crane', 0.11890488, u'space_shuttle', 0.067835979, u'missile', 0.043623663]
+[u'pajama', 0.2743426, u'bath_towel', 0.10658605, u'diaper', 0.093877159, u'oxygen_mask', 0.064173125, u'bathtub', 0.04346459]

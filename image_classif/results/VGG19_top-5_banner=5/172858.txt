@@ -1,0 +1,1 @@
+[u'parachute', 0.03965247, u'kite', 0.033734009, u'space_shuttle', 0.026084393, u'bald_eagle', 0.025856363, u'wing', 0.023598524]

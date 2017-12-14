@@ -1,0 +1,2 @@
+[u'mobile_home', 0.52162123, u'patio', 0.21436833, u'flagpole', 0.031396911, u'radio_telescope', 0.027712142, u'picket_fence', 0.018530274]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

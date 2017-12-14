@@ -1,0 +1,5 @@
+[u'switch', 0.24541274, u'joystick', 0.22003503, u'ping-pong_ball', 0.074329309, u'envelope', 0.054643642, u'whistle', 0.036473781]
+[u'bottlecap', 0.53658777, u'bolo_tie', 0.17991085, u'wall_clock', 0.057781782, u'hair_slide', 0.047058985, u'necklace', 0.042644475]
+[u'starfish', 0.39252159, u'matchstick', 0.14066909, u'web_site', 0.091960363, u'analog_clock', 0.048122045, u'rule', 0.019352289]
+[u'lab_coat', 0.52336413, u'notebook', 0.06914302, u'screen', 0.055969059, u'web_site', 0.055889692, u'television', 0.034990288]
+[u'dock', 0.15815182, u'pole', 0.063696355, u'picket_fence', 0.035951994, u'chime', 0.03156127, u'pier', 0.029628448]

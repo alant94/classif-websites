@@ -1,0 +1,2 @@
+[u'stage', 0.29268447, u'jellyfish', 0.16216762, u'electric_guitar', 0.1133116, u'sax', 0.072472677, u'oscilloscope', 0.047923539]
+[u'paper_towel', 0.044299077, u'hammerhead', 0.031000225, u"potter's_wheel", 0.029154377, u'bath_towel', 0.027398622, u'earthstar', 0.026726579]

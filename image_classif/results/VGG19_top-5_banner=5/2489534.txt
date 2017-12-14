@@ -1,0 +1,8 @@
+[u'hook', 0.1032756, u'chain', 0.087370582, u'frilled_lizard', 0.082467295, u'cliff', 0.068488054, u'boa_constrictor', 0.068313397]
+[u'analog_clock', 0.2016405, u'book_jacket', 0.11958796, u'nematode', 0.1003674, u'gong', 0.090219423, u'loupe', 0.033178732]
+[u'hartebeest', 0.14339577, u'book_jacket', 0.10665882, u'gazelle', 0.051173434, u'bow', 0.046519723, u'Ibizan_hound', 0.033436883]
+[u'book_jacket', 0.19130652, u'analog_clock', 0.17844044, u'gong', 0.14618739, u'nematode', 0.058569748, u'wall_clock', 0.030292217]
+[u'puck', 0.19482899, u'book_jacket', 0.17449374, u'analog_clock', 0.13553011, u'wall_clock', 0.10139454, u'face_powder', 0.063451722]
+[u'picket_fence', 0.099222347, u'padlock', 0.065471455, u'cliff', 0.051672488, u'swing', 0.04703515, u'chain', 0.026561141]
+[u'chain_saw', 0.62959188, u'tractor', 0.12303984, u'lawn_mower', 0.093125284, u'harvester', 0.075866222, u'plow', 0.013621171]
+[u'book_jacket', 0.45236269, u'analog_clock', 0.18053113, u'wall_clock', 0.061924234, u'gong', 0.032462154, u'comic_book', 0.03000056]

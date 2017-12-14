@@ -1,0 +1,2 @@
+[u'crane', 0.16940917, u'wreck', 0.12082236, u'pole', 0.095138974, u'chain_saw', 0.081257947, u'traffic_light', 0.057168208]
+[u'shower_curtain', 0.10951007, u'hair_spray', 0.074163586, u'cocktail_shaker', 0.05202641, u'fountain', 0.050487366, u'sarong', 0.035963513]

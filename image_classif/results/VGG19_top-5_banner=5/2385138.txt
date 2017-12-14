@@ -1,0 +1,3 @@
+[u'book_jacket', 0.55323732, u'comic_book', 0.040179342, u'web_site', 0.035004444, u'hook', 0.022540728, u'street_sign', 0.016364226]
+[u'ear', 0.38744333, u'corn', 0.32088709, u'swab', 0.049944203, u'quill', 0.037235923, u'banana', 0.024442609]
+[u'puck', 0.89667577, u'wall_clock', 0.017001495, u'shield', 0.01575589, u'tray', 0.013563127, u'face_powder', 0.0071798083]

@@ -1,0 +1,4 @@
+[u'African_elephant', 0.41025633, u'tusker', 0.18803892, u'Indian_elephant', 0.10611318, u'fountain', 0.10089821, u'megalith', 0.068797223]
+[u'poncho', 0.33635131, u'bison', 0.15939955, u'ox', 0.10028464, u'stole', 0.030962134, u'llama', 0.022318911]
+[u'quill', 0.07261464, u'swab', 0.046997644, u'paintbrush', 0.046020966, u'broom', 0.043570925, u'gown', 0.041352563]
+[u'stole', 0.47938508, u'sarong', 0.054374158, u'poncho', 0.049123868, u'swab', 0.044131827, u'quill', 0.040279992]

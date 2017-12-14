@@ -1,0 +1,6 @@
+[u'maypole', 0.10190897, u'mobile_home', 0.0675826, u'recreational_vehicle', 0.057656869, u'flagpole', 0.056092605, u'tow_truck', 0.03592898]
+[u'library', 0.14871547, u'restaurant', 0.13141666, u'bookshop', 0.092924125, u'prison', 0.042280111, u'stage', 0.034751665]
+[u'library', 0.21085587, u'menu', 0.092882954, u'bookshop', 0.089085102, u'grocery_store', 0.085802592, u'restaurant', 0.076128721]
+[u'library', 0.2126381, u'restaurant', 0.17599459, u'lab_coat', 0.052944399, u'grocery_store', 0.05270078, u'bookshop', 0.042302232]
+[u'lab_coat', 0.14087927, u'wig', 0.13100603, u'stole', 0.10835864, u'wool', 0.038289167, u'hair_spray', 0.023720169]
+[u'feather_boa', 0.093556665, u'poncho', 0.057388861, u'barbershop', 0.048472188, u'stole', 0.043930516, u'shower_cap', 0.04122984]

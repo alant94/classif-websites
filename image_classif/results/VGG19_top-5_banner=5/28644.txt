@@ -1,0 +1,7 @@
+[u'rugby_ball', 0.28945899, u'parallel_bars', 0.09835881, u'horizontal_bar', 0.082330912, u'baseball', 0.05543603, u'balance_beam', 0.053668581]
+[u'bannister', 0.27695653, u'coil', 0.16786139, u'traffic_light', 0.070651971, u'suspension_bridge', 0.031529758, u'electric_fan', 0.027127974]
+[u'web_site', 0.068628147, u'wall_clock', 0.041912619, u'envelope', 0.028272057, u'jigsaw_puzzle', 0.027376015, u'monitor', 0.026997859]
+[u'web_site', 0.7262134, u'washer', 0.01401903, u'analog_clock', 0.012142448, u'remote_control', 0.0091461167, u'envelope', 0.0085577574]
+[u'gyromitra', 0.65276486, u'mask', 0.1014635, u'hen-of-the-woods', 0.064670205, u'buckle', 0.019781336, u'vase', 0.014375399]
+[u'matchstick', 0.23308627, u'abacus', 0.19772929, u'chime', 0.063791372, u'typewriter_keyboard', 0.057449125, u'organ', 0.052172814]
+[u'jigsaw_puzzle', 0.075881407, u'web_site', 0.065715082, u'envelope', 0.029900873, u'wall_clock', 0.026389683, u'digital_clock', 0.021386011]

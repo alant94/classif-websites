@@ -1,0 +1,1 @@
+[u'tow_truck', 0.23323068, u'pickup', 0.20536792, u'Model_T', 0.19030958, u'fire_engine', 0.12323327, u'snowplow', 0.099829324]

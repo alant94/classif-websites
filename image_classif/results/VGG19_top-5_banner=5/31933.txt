@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.98533559, u'bath_towel', 0.0018974689, u'stole', 0.0015570004, u'window_shade', 0.0010841715, u'wardrobe', 0.00091370125]
+[u'comic_book', 0.92687368, u'book_jacket', 0.043511041, u'web_site', 0.015254975, u'jersey', 0.0045348275, u'electric_guitar', 0.0019160765]

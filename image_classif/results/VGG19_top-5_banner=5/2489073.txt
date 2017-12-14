@@ -1,0 +1,2 @@
+[u'megalith', 0.86584395, u'cliff', 0.029736873, u'stone_wall', 0.012036665, u'fountain', 0.010860726, u'castle', 0.0077935909]
+[u'jersey', 0.15838225, u'book_jacket', 0.05502566, u'matchstick', 0.044052735, u'microphone', 0.042656757, u'lighter', 0.031471934]

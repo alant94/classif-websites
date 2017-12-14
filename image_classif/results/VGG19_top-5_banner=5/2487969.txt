@@ -1,0 +1,2 @@
+[u'gasmask', 0.47319874, u'digital_watch', 0.10792007, u'magnetic_compass', 0.10562086, u'stopwatch', 0.062877335, u'loupe', 0.050919138]
+[u'window_shade', 0.34685531, u'refrigerator', 0.058444764, u'envelope', 0.051009916, u'web_site', 0.047599547, u'screen', 0.032496203]

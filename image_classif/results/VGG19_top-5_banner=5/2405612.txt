@@ -1,0 +1,2 @@
+[u'screwdriver', 0.16366172, u'ballpoint', 0.1241338, u'rubber_eraser', 0.087480329, u'matchstick', 0.065048747, u'syringe', 0.064128846]
+[u'matchstick', 0.23163639, u'rule', 0.15181093, u'nail', 0.12806751, u'rubber_eraser', 0.055931427, u'ballpoint', 0.047184404]

@@ -1,0 +1,8 @@
+[u'diaper', 0.12878758, u'nipple', 0.071363062, u'bonnet', 0.061811429, u'Band_Aid', 0.055290807, u'bath_towel', 0.054027747]
+[u'African_hunting_dog', 0.048938882, u'German_shepherd', 0.019213589, u'dhole', 0.01764241, u'Chihuahua', 0.013206053, u'tobacco_shop', 0.01143284]
+[u'book_jacket', 0.48476055, u'comic_book', 0.05630796, u'butcher_shop', 0.020650081, u'Band_Aid', 0.019821167, u'street_sign', 0.018171752]
+[u'brassiere', 0.95295411, u'maillot', 0.018549055, u'bikini', 0.0066792583, u'maillot', 0.0032474371, u'poncho', 0.002491585]
+[u'radiator', 0.18934798, u'mortar', 0.10251241, u'hammer', 0.079501793, u'wooden_spoon', 0.066165052, u'drumstick', 0.043318857]
+[u'harvester', 0.30748078, u'plow', 0.15232076, u'thresher', 0.072019808, u'garbage_truck', 0.066174932, u'snowplow', 0.066005446]
+[u'Band_Aid', 0.1797116, u'harmonica', 0.039891295, u'syringe', 0.032409567, u'hog', 0.021680146, u'dough', 0.020100063]
+[u'bikini', 0.48803851, u'maillot', 0.087341495, u'miniskirt', 0.054695811, u'maillot', 0.054129876, u'swing', 0.024804797]

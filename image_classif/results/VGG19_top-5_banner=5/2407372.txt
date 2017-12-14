@@ -1,0 +1,1 @@
+[u'bubble', 0.3132771, u'torch', 0.15646842, u'fountain', 0.057911076, u'ice_lolly', 0.05410406, u'plastic_bag', 0.026058244]

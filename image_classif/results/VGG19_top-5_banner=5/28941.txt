@@ -1,0 +1,4 @@
+[u'panpipe', 0.39251572, u'quill', 0.13785446, u'mortarboard', 0.067526303, u'broom', 0.040926866, u'envelope', 0.038029615]
+[u'brass', 0.20621096, u'cassette', 0.19410247, u'book_jacket', 0.17353263, u'slide_rule', 0.083513491, u'rule', 0.049838703]
+[u'web_site', 0.52025706, u'book_jacket', 0.089468449, u'envelope', 0.058594342, u'packet', 0.045827307, u'menu', 0.027746234]
+[u'bow_tie', 0.14444457, u'suit', 0.10580118, u'Windsor_tie', 0.084437616, u'mortarboard', 0.084099837, u'academic_gown', 0.058827255]

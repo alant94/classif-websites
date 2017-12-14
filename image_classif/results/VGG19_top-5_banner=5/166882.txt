@@ -1,0 +1,2 @@
+[u'digital_clock', 0.31993902, u'screen', 0.12777627, u'oscilloscope', 0.096691243, u'binder', 0.081673697, u'tray', 0.069962688]
+[u'fur_coat', 0.15550101, u'stole', 0.12031243, u'trench_coat', 0.11633733, u'poncho', 0.11005756, u'suit', 0.089371353]

@@ -1,0 +1,6 @@
+[u'maillot', 0.4798311, u'bikini', 0.21520837, u'sandal', 0.13661407, u'maillot', 0.052975193, u'brassiere', 0.02503087]
+[u'plunger', 0.19465823, u'syringe', 0.10567712, u'punching_bag', 0.072985388, u'swimming_trunks', 0.053850938, u'bikini', 0.049436998]
+[u'hook', 0.15167403, u'can_opener', 0.072183289, u'corkscrew', 0.068592303, u'assault_rifle', 0.066500075, u'loupe', 0.043811038]
+[u'brassiere', 0.28191137, u'sandal', 0.059565749, u'buckle', 0.038710244, u'maillot', 0.034891076, u'bikini', 0.030608442]
+[u'maillot', 0.22791559, u'maillot', 0.18298361, u'miniskirt', 0.17057982, u'brassiere', 0.097881787, u'tub', 0.044579361]
+[u'diaper', 0.73711228, u'tub', 0.049214236, u'bathtub', 0.035799682, u'oxygen_mask', 0.012788675, u'brassiere', 0.01123275]

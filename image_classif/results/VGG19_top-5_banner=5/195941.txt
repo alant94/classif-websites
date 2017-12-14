@@ -1,0 +1,5 @@
+[u'microphone', 0.97759366, u'thimble', 0.013501744, u'matchstick', 0.0058891168, u'maraca', 0.0008001079, u'golf_ball', 0.00063961156]
+[u'picket_fence', 0.3209829, u'digital_clock', 0.1735357, u'book_jacket', 0.080242015, u'street_sign', 0.050482314, u'analog_clock', 0.021029675]
+[u'academic_gown', 0.4735105, u'suit', 0.099831037, u'Windsor_tie', 0.091890894, u'backpack', 0.067832068, u'stole', 0.061175939]
+[u'digital_clock', 0.098579347, u'web_site', 0.04464357, u'matchstick', 0.041868381, u'perfume', 0.03686282, u'stopwatch', 0.030317152]
+[u'jellyfish', 0.37247419, u'torch', 0.12582032, u'stage', 0.091871537, u'theater_curtain', 0.086959586, u'volcano', 0.045164794]

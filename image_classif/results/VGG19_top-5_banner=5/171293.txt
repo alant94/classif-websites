@@ -1,0 +1,7 @@
+[u'bottlecap', 0.96937662, u'puck', 0.021767544, u'chocolate_sauce', 0.0014093702, u'barrel', 0.00083348871, u'face_powder', 0.00077503797]
+[u'butcher_shop', 0.4847489, u'wardrobe', 0.14790635, u'wig', 0.057487261, u'cleaver', 0.035672616, u'shoe_shop', 0.032626353]
+[u'book_jacket', 0.62781131, u'cash_machine', 0.064259954, u'plastic_bag', 0.039745834, u'street_sign', 0.039035279, u'shower_curtain', 0.014859173]
+[u'web_site', 0.77746689, u'monitor', 0.052351825, u'seashore', 0.016965656, u'screen', 0.012939406, u'lakeside', 0.0099371076]
+[u'volcano', 0.22060223, u'sleeping_bag', 0.18763612, u'book_jacket', 0.11892219, u'killer_whale', 0.042664159, u'bulletproof_vest', 0.032803655]
+[u'coffee_mug', 0.041021843, u'rubber_eraser', 0.032127757, u'digital_clock', 0.02962446, u'web_site', 0.027761851, u'Band_Aid', 0.024218414]
+[u'web_site', 0.24269365, u'bathing_cap', 0.086961553, u'Petri_dish', 0.066276342, u'pick', 0.0662378, u'bottlecap', 0.044949163]

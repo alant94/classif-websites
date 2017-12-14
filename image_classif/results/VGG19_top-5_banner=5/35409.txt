@@ -1,0 +1,8 @@
+[u'envelope', 0.32142472, u'panpipe', 0.1243589, u'matchstick', 0.093162812, u'necklace', 0.031596124, u'rubber_eraser', 0.028656621]
+[u'digital_clock', 0.13106044, u'digital_watch', 0.077347971, u'Band_Aid', 0.037273955, u'Windsor_tie', 0.034306001, u'container_ship', 0.030672869]
+[u'envelope', 0.21617715, u'wall_clock', 0.04050447, u'web_site', 0.027164653, u'Band_Aid', 0.026360089, u'digital_clock', 0.025580807]
+[u'envelope', 0.10206347, u'web_site', 0.036705758, u'wall_clock', 0.033292662, u'digital_clock', 0.029058365, u'toilet_seat', 0.022187574]
+[u"jack-o'-lantern", 0.4154698, u'candle', 0.27529314, u'matchstick', 0.040792242, u'torch', 0.032445703, u'lampshade', 0.031396661]
+[u'envelope', 0.18696977, u'carton', 0.13931154, u'container_ship', 0.13652101, u'quilt', 0.042550549, u'digital_clock', 0.030148236]
+[u'candle', 0.17611691, u'missile', 0.12848888, u'picket_fence', 0.093148567, u'torch', 0.056607563, u'matchstick', 0.052182984]
+[u'envelope', 0.3559463, u'carton', 0.096946925, u'wall_clock', 0.048701018, u'desk', 0.037759844, u'scale', 0.035037909]

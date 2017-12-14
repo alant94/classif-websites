@@ -1,0 +1,6 @@
+[u'church', 0.23886995, u'birdhouse', 0.15407225, u'monastery', 0.11037227, u'barn', 0.052609004, u'stupa', 0.04843168]
+[u'jersey', 0.086244717, u'stage', 0.05876619, u'hair_spray', 0.056903142, u'punching_bag', 0.051784795, u'theater_curtain', 0.048647009]
+[u'digital_clock', 0.84428447, u'maze', 0.082457289, u'digital_watch', 0.019618783, u'doormat', 0.0051676808, u'scoreboard', 0.0045053801]
+[u'envelope', 0.22852612, u'studio_couch', 0.13241966, u'Band_Aid', 0.064701684, u'digital_clock', 0.042672925, u'rocking_chair', 0.019948022]
+[u'digital_clock', 0.56811774, u'wall_clock', 0.090082973, u'maze', 0.01868093, u'analog_clock', 0.016103132, u'envelope', 0.013257734]
+[u'digital_clock', 0.48658484, u'Band_Aid', 0.060982309, u'envelope', 0.054012593, u'web_site', 0.041148871, u'doormat', 0.029177638]

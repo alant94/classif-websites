@@ -1,0 +1,1 @@
+[u'bassinet', 0.2956506, u'bib', 0.10396222, u'cradle', 0.092684776, u'paper_towel', 0.054158017, u'diaper', 0.05006988]

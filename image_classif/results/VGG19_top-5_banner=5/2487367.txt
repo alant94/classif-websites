@@ -1,0 +1,2 @@
+[u'hartebeest', 0.49409661, u'impala', 0.36884075, u'gazelle', 0.045651622, u'ibex', 0.044869043, u'warthog', 0.013277488]
+[u'book_jacket', 0.24379846, u'plastic_bag', 0.16181792, u'envelope', 0.043618001, u'alp', 0.028001925, u'cliff', 0.018424226]

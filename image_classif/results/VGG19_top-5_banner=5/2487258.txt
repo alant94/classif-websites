@@ -1,0 +1,7 @@
+[u'snowplow', 0.19377412, u'switch', 0.13400726, u'chain_saw', 0.13135956, u'thresher', 0.074818298, u'spotlight', 0.064169906]
+[u'hook', 0.31512707, u'toilet_seat', 0.11750938, u'bolo_tie', 0.076545797, u'can_opener', 0.056217801, u'switch', 0.027742621]
+[u'oil_filter', 0.23280953, u'cocktail_shaker', 0.18750477, u'milk_can', 0.16710053, u'water_bottle', 0.069037527, u'lighter', 0.059199333]
+[u'tank', 0.77352273, u'amphibian', 0.063632943, u'half_track', 0.052324917, u'joystick', 0.019047674, u'modem', 0.0064793229]
+[u'switch', 0.25165218, u'whistle', 0.085821487, u'pencil_sharpener', 0.055982336, u'hair_slide', 0.048817534, u'chain_saw', 0.048507664]
+[u'toilet_seat', 0.64096403, u'washbasin', 0.12776989, u'toilet_tissue', 0.068670213, u'can_opener', 0.023422023, u'soap_dispenser', 0.019580884]
+[u'power_drill', 0.3867467, u'revolver', 0.29349694, u'hand_blower', 0.11056053, u'can_opener', 0.046792224, u'whistle', 0.030233495]

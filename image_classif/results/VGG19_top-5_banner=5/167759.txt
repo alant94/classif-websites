@@ -1,0 +1,7 @@
+[u'acoustic_guitar', 0.98390549, u'electric_guitar', 0.012815021, u'violin', 0.0018535495, u'banjo', 0.00049726915, u'pick', 0.00036169167]
+[u'acoustic_guitar', 0.4809916, u'electric_guitar', 0.36900258, u'banjo', 0.064270586, u'panpipe', 0.012250531, u'stage', 0.0085489554]
+[u'electric_guitar', 0.987867, u'acoustic_guitar', 0.0062185978, u'pick', 0.0033459561, u'banjo', 0.0014668076, u'violin', 0.00026259565]
+[u'acoustic_guitar', 0.95204407, u'space_heater', 0.017582456, u'pick', 0.012296641, u'electric_guitar', 0.0087770829, u'banjo', 0.0023426602]
+[u'acoustic_guitar', 0.99912304, u'electric_guitar', 0.00063360843, u'banjo', 0.00015184458, u'racket', 3.6637946e-05, u'pick', 3.5165624e-05]
+[u'street_sign', 0.90414804, u'shield', 0.056335773, u'sundial', 0.00931988, u'traffic_light', 0.0066637374, u'solar_dish', 0.0056770118]
+[u'crossword_puzzle', 0.83330542, u'shoji', 0.017925838, u'analog_clock', 0.015244585, u'wall_clock', 0.01408508, u'rule', 0.010810081]

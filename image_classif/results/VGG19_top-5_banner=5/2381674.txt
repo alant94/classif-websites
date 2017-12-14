@@ -1,0 +1,5 @@
+[u'red_wine', 0.40954164, u'wine_bottle', 0.38363582, u'cocktail_shaker', 0.096207693, u'corkscrew', 0.056868579, u'restaurant', 0.011512626]
+[u'wine_bottle', 0.49177954, u'screwdriver', 0.15439269, u'ski', 0.080655448, u'beer_bottle', 0.046625737, u'pop_bottle', 0.039640207]
+[u'ski', 0.6926229, u'wine_bottle', 0.034729291, u'paddle', 0.031996805, u'picket_fence', 0.022885345, u'vase', 0.020244235]
+[u'worm_fence', 0.13956298, u'maze', 0.13074464, u'lakeside', 0.1294523, u'rapeseed', 0.061953794, u'pole', 0.055548396]
+[u'worm_fence', 0.25661489, u'rapeseed', 0.086769111, u'mailbox', 0.059740528, u'picket_fence', 0.042198353, u'stone_wall', 0.040386572]

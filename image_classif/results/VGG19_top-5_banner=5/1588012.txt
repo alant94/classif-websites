@@ -1,0 +1,5 @@
+[u'spotlight', 0.072300375, u'toyshop', 0.06472338, u'bookshop', 0.05785732, u'space_shuttle', 0.04925276, u'library', 0.044810668]
+[u'cocktail_shaker', 0.28141052, u'cup', 0.2283594, u'beer_glass', 0.21995106, u'bucket', 0.1316268, u'vase', 0.050070558]
+[u'tub', 0.23100117, u'bathtub', 0.16850129, u'bikini', 0.1490196, u'diaper', 0.076916389, u'swimming_trunks', 0.048825473]
+[u'brassiere', 0.067041658, u'Angora', 0.049958132, u'Pomeranian', 0.04988648, u'sock', 0.035939202, u'jean', 0.03331041]
+[u'shower_curtain', 0.062663741, u'balance_beam', 0.027483234, u'Windsor_tie', 0.02589434, u'container_ship', 0.022160953, u'quilt', 0.022155067]

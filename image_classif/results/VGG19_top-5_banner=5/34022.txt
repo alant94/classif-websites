@@ -1,0 +1,4 @@
+[u'corkscrew', 0.21830533, u'can_opener', 0.20900746, u"carpenter's_kit", 0.097961135, u'lighter', 0.060340077, u'safety_pin', 0.049778737]
+[u'book_jacket', 0.24471626, u'packet', 0.15623203, u'carton', 0.091581106, u'crate', 0.082901873, u'envelope', 0.047346309]
+[u'pencil_sharpener', 0.31826127, u'whistle', 0.2593199, u'lighter', 0.22085759, u'switch', 0.093554631, u'mousetrap', 0.023775764]
+[u'electric_guitar', 0.097655058, u'letter_opener', 0.059930325, u'buckle', 0.056582075, u"carpenter's_kit", 0.05581551, u'shovel', 0.05296002]

@@ -1,0 +1,3 @@
+[u'matchstick', 0.48770133, u'chime', 0.055533241, u'paintbrush', 0.049364574, u'spatula', 0.048371103, u'plate_rack', 0.029211165]
+[u'digital_clock', 0.41465169, u'maze', 0.080732033, u'envelope', 0.061370589, u'whistle', 0.04568724, u'digital_watch', 0.031738069]
+[u'envelope', 0.29652554, u'binder', 0.23088653, u'packet', 0.082812309, u'book_jacket', 0.08223293, u'carton', 0.059297301]

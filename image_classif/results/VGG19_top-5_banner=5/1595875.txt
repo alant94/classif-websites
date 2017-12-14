@@ -1,0 +1,7 @@
+[u'panpipe', 0.43027645, u'harp', 0.27017814, u'pajama', 0.044932142, u'bulletproof_vest', 0.024569463, u'shower_cap', 0.017954886]
+[u'pick', 0.70637268, u'sunglass', 0.03705693, u'hourglass', 0.022829002, u'drum', 0.011687947, u'bucket', 0.009789357]
+[u'bulletproof_vest', 0.1552408, u'military_uniform', 0.04857254, u'gown', 0.047729488, u'bearskin', 0.047486015, u'cuirass', 0.043742415]
+[u'crane', 0.094549619, u'pool_table', 0.078944787, u'traffic_light', 0.046040513, u'wall_clock', 0.04026996, u'analog_clock', 0.035519514]
+[u'medicine_chest', 0.47674638, u'bookshop', 0.14127584, u'bookcase', 0.048453558, u'shower_curtain', 0.033535764, u'washbasin', 0.026297055]
+[u'starfish', 0.92047983, u'wing', 0.02466771, u'bell_cote', 0.011475282, u'stupa', 0.0097032618, u'space_shuttle', 0.0073730084]
+[u"jack-o'-lantern", 0.14192866, u'velvet', 0.087823682, u'jellyfish', 0.063790895, u'triceratops', 0.063139252, u'fountain', 0.032451298]

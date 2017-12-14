@@ -1,0 +1,4 @@
+[u'cash_machine', 0.89870358, u'vending_machine', 0.012483166, u'safe', 0.010895453, u'desktop_computer', 0.0082888044, u'file', 0.0076796366]
+[u'digital_clock', 0.41427425, u'crossword_puzzle', 0.2319798, u'maze', 0.048331615, u'Windsor_tie', 0.040740579, u'wall_clock', 0.035074387]
+[u'envelope', 0.087163009, u'digital_clock', 0.061198652, u'washbasin', 0.045545749, u'maze', 0.04142464, u'web_site', 0.028270377]
+[u'jean', 0.23223077, u'suit', 0.048645217, u'abaya', 0.041960984, u'balance_beam', 0.032107454, u'punching_bag', 0.020778067]

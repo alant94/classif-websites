@@ -1,0 +1,8 @@
+[u'panpipe', 0.18709874, u'assault_rifle', 0.097315662, u'dam', 0.070066482, u'bow', 0.057937223, u'paintbrush', 0.04197735]
+[u'bookshop', 0.072944522, u'desk', 0.057976495, u'container_ship', 0.05124104, u'library', 0.043794792, u'wall_clock', 0.030106565]
+[u'digital_clock', 0.20709221, u'street_sign', 0.041374441, u'container_ship', 0.036243498, u'matchstick', 0.030373771, u'crane', 0.028106567]
+[u'candle', 0.27678841, u'screwdriver', 0.19889188, u'lipstick', 0.13627791, u'whistle', 0.07518778, u'rubber_eraser', 0.062149566]
+[u'pill_bottle', 0.52405578, u'container_ship', 0.14132023, u'balloon', 0.076307312, u'rubber_eraser', 0.042093426, u'Band_Aid', 0.034667961]
+[u'ski_mask', 0.21887964, u'mask', 0.093042783, u'sweatshirt', 0.086176738, u'puck', 0.039007217, u'ski', 0.024523936]
+[u'digital_clock', 0.1699675, u'web_site', 0.059300531, u'digital_watch', 0.039404616, u'envelope', 0.027599093, u'binder', 0.019494155]
+[u'web_site', 0.099206172, u'screwdriver', 0.078247689, u'wall_clock', 0.049065486, u'picket_fence', 0.046692964, u'syringe', 0.03872044]

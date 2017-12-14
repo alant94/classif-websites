@@ -1,0 +1,5 @@
+[u'maillot', 0.41143247, u'bikini', 0.40475917, u'maillot', 0.14363548, u'brassiere', 0.023354072, u'bathing_cap', 0.0058662789]
+[u'lipstick', 0.3481347, u'ice_lolly', 0.11771086, u'bikini', 0.063566826, u'bathtub', 0.048172444, u'hair_spray', 0.047027238]
+[u'brassiere', 0.1495903, u'maillot', 0.1324123, u'bikini', 0.11619779, u'bathtub', 0.10166015, u'maillot', 0.081034698]
+[u'butcher_shop', 0.96783131, u'cleaver', 0.0099863634, u'shower_curtain', 0.0023459229, u'grocery_store', 0.0018790825, u'shoe_shop', 0.0018385083]
+[u'wardrobe', 0.31610763, u'butcher_shop', 0.27523428, u'bookshop', 0.055669706, u'bookcase', 0.032013774, u'book_jacket', 0.029192744]

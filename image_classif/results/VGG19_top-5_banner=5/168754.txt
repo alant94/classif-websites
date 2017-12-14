@@ -1,0 +1,2 @@
+[u'breakwater', 0.62780154, u'pier', 0.16061169, u'worm_fence', 0.011287992, u'aircraft_carrier', 0.011258341, u'picket_fence', 0.010300932]
+[u'typewriter_keyboard', 0.053256236, u'book_jacket', 0.051991086, u'web_site', 0.025216188, u'pill_bottle', 0.025150407, u'space_bar', 0.018769952]

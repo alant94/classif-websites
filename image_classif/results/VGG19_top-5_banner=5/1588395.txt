@@ -1,0 +1,6 @@
+[u'fountain', 0.13740894, u'bannister', 0.083863206, u'window_shade', 0.074192658, u'prison', 0.041855317, u'picket_fence', 0.04040765]
+[u'dining_table', 0.059626732, u'dam', 0.041267939, u'fireboat', 0.039346535, u'gondola', 0.026509957, u'carton', 0.024776282]
+[u'wig', 0.16325526, u'hair_spray', 0.07724753, u'sunscreen', 0.042314712, u'sombrero', 0.040567748, u'brassiere', 0.036696248]
+[u'gown', 0.21156189, u'space_shuttle', 0.18893088, u'hoopskirt', 0.15184355, u'liner', 0.040223099, u'stupa', 0.035415642]
+[u'ping-pong_ball', 0.2187559, u'planetarium', 0.21125084, u'space_shuttle', 0.08817935, u'balloon', 0.07162828, u'missile', 0.031821586]
+[u'loupe', 0.33258137, u'face_powder', 0.15525243, u'hook', 0.032825746, u'stopwatch', 0.026958456, u'traffic_light', 0.024737831]

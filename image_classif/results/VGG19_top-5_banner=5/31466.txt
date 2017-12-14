@@ -1,0 +1,8 @@
+[u'macaw', 0.18400781, u'swing', 0.16083539, u'chime', 0.11671913, u'bow', 0.046552598, u'pole', 0.04302362]
+[u'ocarina', 0.93862194, u'mask', 0.015806252, u'vase', 0.013006754, u'piggy_bank', 0.0085982839, u'clog', 0.0073859561]
+[u'bolo_tie', 0.38792604, u'toilet_seat', 0.28576335, u'necklace', 0.04878765, u'spindle', 0.043692026, u'shield', 0.038629554]
+[u'barbershop', 0.14431666, u'hair_spray', 0.13246614, u'bubble', 0.1015811, u'cellular_telephone', 0.058372881, u'groom', 0.023814261]
+[u'Rhodesian_ridgeback', 0.82966906, u'redbone', 0.13537079, u'malinois', 0.0081545962, u'bloodhound', 0.0081510274, u'Doberman', 0.0042818342]
+[u'American_Staffordshire_terrier', 0.77899832, u'boxer', 0.058562603, u'Weimaraner', 0.050882544, u'Great_Dane', 0.033084337, u'dalmatian', 0.011568131]
+[u'tub', 0.41931695, u'canoe', 0.31835976, u'bathtub', 0.12570347, u'Indian_elephant', 0.038084816, u'swimming_trunks', 0.020450663]
+[u'mask', 0.082172565, u'trench_coat', 0.079171717, u'sweatshirt', 0.062187172, u'cloak', 0.053422213, u'gasmask', 0.039491232]

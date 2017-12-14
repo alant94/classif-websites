@@ -1,0 +1,8 @@
+[u'digital_clock', 0.21656232, u'tray', 0.11440887, u'envelope', 0.10727516, u'wall_clock', 0.034610189, u'screen', 0.030711567]
+[u'apron', 0.079688825, u'book_jacket', 0.067420997, u'packet', 0.051491346, u'picket_fence', 0.04437365, u'broom', 0.03131596]
+[u'refrigerator', 0.16604866, u'kimono', 0.084059127, u'wardrobe', 0.072964899, u'packet', 0.066626854, u'ashcan', 0.059494343]
+[u'digital_clock', 0.30650175, u'maze', 0.038447764, u'digital_watch', 0.029366726, u'wall_clock', 0.026080925, u'jigsaw_puzzle', 0.024118103]
+[u'chest', 0.085975461, u'stove', 0.07248012, u'broom', 0.041345704, u'drum', 0.041267648, u'swab', 0.037461113]
+[u'switch', 0.080331147, u'power_drill', 0.068797253, u'disk_brake', 0.053442571, u'cannon', 0.050567146, u'barbell', 0.042407971]
+[u'streetcar', 0.31971475, u'gas_pump', 0.10499046, u'oscilloscope', 0.058929309, u'trolleybus', 0.049672127, u'slot', 0.040913243]
+[u'carton', 0.29480642, u'refrigerator', 0.068451002, u'chest', 0.062172092, u'thresher', 0.0462621, u'half_track', 0.042165183]

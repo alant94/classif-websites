@@ -1,0 +1,1 @@
+[u'stretcher', 0.15487882, u'neck_brace', 0.091829903, u'toilet_seat', 0.0807354, u'bassinet', 0.075774737, u"potter's_wheel", 0.034960028]

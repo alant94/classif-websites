@@ -1,0 +1,1 @@
+[u'valley', 0.14025809, u'mountain_tent', 0.13841406, u'book_jacket', 0.05680019, u'geyser', 0.047121339, u'coho', 0.037966996]

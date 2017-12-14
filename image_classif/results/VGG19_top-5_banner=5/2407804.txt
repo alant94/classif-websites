@@ -1,0 +1,4 @@
+[u'vase', 0.17506146, u'altar', 0.16720675, u'hourglass', 0.078941986, u'hamper', 0.044984117, u'lotion', 0.04138286]
+[u'altar', 0.30866989, u'hair_spray', 0.069375396, u'guillotine', 0.029463852, u'cloak', 0.024757598, u'toyshop', 0.01865245]
+[u'medicine_chest', 0.63956296, u'lotion', 0.19306673, u'hair_spray', 0.084816329, u'nipple', 0.032017022, u'perfume', 0.010687552]
+[u'whiskey_jug', 0.58634251, u'wine_bottle', 0.17070147, u'beer_bottle', 0.056296099, u'red_wine', 0.030534595, u'lotion', 0.028662229]

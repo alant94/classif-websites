@@ -1,0 +1,3 @@
+[u'mask', 0.15224454, u'carousel', 0.05149816, u'fountain', 0.050952896, u'throne', 0.044380836, u'paintbrush', 0.035991237]
+[u'matchstick', 0.2145371, u'dock', 0.11048216, u'chime', 0.098499432, u'candle', 0.083614521, u'nail', 0.066408664]
+[u'lab_coat', 0.22003253, u'neck_brace', 0.15086947, u'toilet_tissue', 0.1023707, u'paper_towel', 0.063486256, u'television', 0.0340119]

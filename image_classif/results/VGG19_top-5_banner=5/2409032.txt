@@ -1,0 +1,7 @@
+[u'gasmask', 0.22298826, u'oxygen_mask', 0.21029215, u'harvester', 0.072192311, u'tractor', 0.053587504, u'plow', 0.046248965]
+[u'oil_filter', 0.4388921, u'barrel', 0.14665784, u'thresher', 0.059609879, u'switch', 0.0357714, u'tractor', 0.022526771]
+[u'barrel', 0.29895118, u'thresher', 0.26664612, u'chain_saw', 0.072677568, u'tractor', 0.068279274, u'drum', 0.046416286]
+[u'lotion', 0.1221221, u'packet', 0.072885104, u'face_powder', 0.055726852, u'sunscreen', 0.052439723, u'web_site', 0.047413539]
+[u'analog_clock', 0.19528179, u'web_site', 0.065130755, u'wall_clock', 0.036433041, u'spotlight', 0.032654006, u'washer', 0.028710162]
+[u'moving_van', 0.12105472, u'forklift', 0.04757167, u'oil_filter', 0.041842274, u'barrel', 0.03924837, u'garbage_truck', 0.038152982]
+[u'cassette', 0.42125231, u'cassette_player', 0.20485528, u'tape_player', 0.1405866, u'loudspeaker', 0.073554672, u'CD_player', 0.030015083]

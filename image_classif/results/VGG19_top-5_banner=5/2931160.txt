@@ -1,0 +1,6 @@
+[u'web_site', 0.19170429, u'analog_clock', 0.028595539, u'pill_bottle', 0.022323515, u'hook', 0.021696273, u'typewriter_keyboard', 0.021344857]
+[u'altar', 0.13339376, u'vault', 0.092554949, u'prayer_rug', 0.091837175, u'church', 0.085552491, u'mosque', 0.070828065]
+[u'face_powder', 0.75506991, u'puck', 0.10761987, u'loupe', 0.03354476, u'sunscreen', 0.008145066, u'stopwatch', 0.0072071124]
+[u'binder', 0.12317087, u'envelope', 0.088404872, u'jersey', 0.088360533, u'lighter', 0.077819958, u'book_jacket', 0.076089643]
+[u'web_site', 0.21994179, u'street_sign', 0.096247233, u'digital_clock', 0.042755887, u'hook', 0.039690211, u'coffee_mug', 0.036532372]
+[u'hook', 0.10470281, u'scale', 0.03055894, u'web_site', 0.029749228, u'analog_clock', 0.029082114, u'wall_clock', 0.021528682]

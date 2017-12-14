@@ -1,0 +1,4 @@
+[u'African_hunting_dog', 0.2967988, u'hyena', 0.24752417, u'wild_boar', 0.037639927, u'warthog', 0.032485202, u'hartebeest', 0.031633455]
+[u'dogsled', 0.19877958, u'bighorn', 0.10328721, u'wild_boar', 0.081506811, u'ram', 0.061654788, u'Eskimo_dog', 0.052977033]
+[u'bloodhound', 0.2084282, u'black-and-tan_coonhound', 0.14076929, u'Walker_hound', 0.11286584, u'proboscis_monkey', 0.076645888, u'chain_saw', 0.074770562]
+[u'plow', 0.49417666, u'ox', 0.16567928, u'alp', 0.077102773, u'oxcart', 0.07118468, u'mountain_bike', 0.029321484]

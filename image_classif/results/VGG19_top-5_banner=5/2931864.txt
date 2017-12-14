@@ -1,0 +1,5 @@
+[u'web_site', 0.21500741, u'envelope', 0.16908917, u'abaya', 0.016885011, u'analog_clock', 0.015826566, u'wall_clock', 0.015287606]
+[u'warplane', 0.53238356, u'wing', 0.16195536, u'airliner', 0.13309525, u'nail', 0.024991861, u'hook', 0.013713752]
+[u'bow', 0.14435069, u'ski', 0.06817051, u'street_sign', 0.047503646, u'analog_clock', 0.037444592, u'barbershop', 0.036540318]
+[u'space_shuttle', 0.51051337, u'airliner', 0.20462593, u'warplane', 0.079821028, u'wing', 0.06118666, u'airship', 0.056090288]
+[u'lab_coat', 0.53458446, u'stethoscope', 0.27063945, u'marimba', 0.056943867, u'cleaver', 0.011901777, u'steel_drum', 0.0071362909]

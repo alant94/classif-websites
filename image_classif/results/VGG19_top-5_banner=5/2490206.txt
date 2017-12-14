@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.18750235, u'digital_watch', 0.13480935, u'maze', 0.1048672, u'quilt', 0.056631096, u'wool', 0.037097029]
+[u'sea_lion', 0.19106856, u'container_ship', 0.11344523, u'snorkel', 0.04270488, u'boathouse', 0.030225195, u'bathing_cap', 0.02773129]

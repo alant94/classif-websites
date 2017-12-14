@@ -1,0 +1,5 @@
+[u'pay-phone', 0.37607843, u'gas_pump', 0.045511588, u'switch', 0.044099819, u'cash_machine', 0.034007315, u'parking_meter', 0.026553586]
+[u'traffic_light', 0.65047181, u'digital_clock', 0.15916936, u'street_sign', 0.039856296, u'crane', 0.0087408675, u'scoreboard', 0.0073667523]
+[u'monitor', 0.051835615, u'vending_machine', 0.043028492, u'scoreboard', 0.04112101, u'gas_pump', 0.039944757, u'cassette', 0.039765451]
+[u'web_site', 0.15521672, u'refrigerator', 0.066432551, u'perfume', 0.051551431, u'wine_bottle', 0.04484069, u'medicine_chest', 0.034100052]
+[u'wing', 0.11124785, u'lakeside', 0.081840552, u'seashore', 0.055962335, u'alp', 0.054507449, u'drilling_platform', 0.049556877]

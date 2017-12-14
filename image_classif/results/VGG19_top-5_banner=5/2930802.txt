@@ -1,0 +1,4 @@
+[u'tobacco_shop', 0.8441143, u'grocery_store', 0.0745719, u'confectionery', 0.036014803, u'bookshop', 0.022952102, u'packet', 0.0053777345]
+[u'suit', 0.22013098, u'miniskirt', 0.13108636, u'notebook', 0.075051025, u'neck_brace', 0.056452341, u'Windsor_tie', 0.049939554]
+[u'lab_coat', 0.70966208, u'Windsor_tie', 0.045623209, u'suit', 0.044547737, u'bow_tie', 0.028365659, u'bolo_tie', 0.012185598]
+[u'balance_beam', 0.1302776, u'scoreboard', 0.063932292, u'shoe_shop', 0.061205987, u'racket', 0.051643021, u'ping-pong_ball', 0.039099257]

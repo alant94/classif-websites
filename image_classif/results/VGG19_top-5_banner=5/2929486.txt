@@ -1,0 +1,6 @@
+[u'radio_telescope', 0.24953769, u'gong', 0.14467554, u'torch', 0.085287526, u'spotlight', 0.076492891, u'sombrero', 0.038154986]
+[u'nail', 0.093774505, u'rule', 0.053136069, u'web_site', 0.049984433, u'envelope', 0.027592814, u'book_jacket', 0.024410816]
+[u'candle', 0.214021, u'pinwheel', 0.16752289, u"jack-o'-lantern", 0.064816542, u'flagpole', 0.038818114, u'street_sign', 0.038131539]
+[u'web_site', 0.24311347, u'microphone', 0.048934951, u'envelope', 0.0369283, u'digital_clock', 0.035238858, u'hook', 0.033613037]
+[u'matchstick', 0.13499001, u'maze', 0.090447806, u'jellyfish', 0.061335545, u'coil', 0.043162227, u'digital_clock', 0.040782429]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]

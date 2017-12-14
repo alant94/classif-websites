@@ -1,0 +1,5 @@
+[u'matchstick', 0.076320358, u'nematode', 0.057598833, u'digital_clock', 0.031422324, u'lighter', 0.026410684, u'spotlight', 0.026020736]
+[u'digital_clock', 0.5513854, u'digital_watch', 0.043658793, u'wall_clock', 0.026084241, u'envelope', 0.022372421, u'whistle', 0.017939638]
+[u'swimming_trunks', 0.63500923, u'tub', 0.091516219, u'shower_cap', 0.035018761, u'bathtub', 0.029687259, u'sunscreen', 0.026330467]
+[u'bathtub', 0.13372703, u'plunger', 0.096565165, u'tub', 0.075079665, u'soap_dispenser', 0.065105915, u'cleaver', 0.048760541]
+[u'maillot', 0.26406857, u'swimming_trunks', 0.17198172, u'maillot', 0.15217727, u'bikini', 0.061655048, u'miniskirt', 0.053763717]

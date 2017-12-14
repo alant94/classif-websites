@@ -1,0 +1,5 @@
+[u'ibex', 0.82702738, u'bighorn', 0.054257464, u'book_jacket', 0.02305951, u'parachute', 0.021617888, u'web_site', 0.014811058]
+[u'boathouse', 0.4952282, u'picket_fence', 0.22021522, u'church', 0.10717387, u'worm_fence', 0.045780487, u'birdhouse', 0.02721535]
+[u'bookshop', 0.7223165, u'library', 0.151152, u'tobacco_shop', 0.046557486, u'comic_book', 0.01744917, u'bookcase', 0.0081664938]
+[u'fountain', 0.10737751, u'ear', 0.080741003, u'butcher_shop', 0.068399124, u'matchstick', 0.051014919, u'paintbrush', 0.048179194]
+[u'trolleybus', 0.097183466, u'gas_pump', 0.073408738, u'water_tower', 0.070150927, u'pay-phone', 0.061457466, u'planetarium', 0.059529137]

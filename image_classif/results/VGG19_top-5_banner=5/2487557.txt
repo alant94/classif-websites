@@ -1,0 +1,2 @@
+[u'lumbermill', 0.23952311, u'parallel_bars', 0.086969696, u'crutch', 0.05064074, u'shovel', 0.043479066, u'rotisserie', 0.037174281]
+[u'puck', 0.33137232, u'magnetic_compass', 0.24844594, u'wall_clock', 0.071173213, u'analog_clock', 0.058631703, u'buckle', 0.023203978]

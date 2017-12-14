@@ -1,0 +1,7 @@
+[u'rubber_eraser', 0.31661016, u'cash_machine', 0.13780417, u'screwdriver', 0.073574342, u'ballpoint', 0.033125319, u'paintbrush', 0.026009623]
+[u'cash_machine', 0.2612626, u'rubber_eraser', 0.17322521, u'mailbox', 0.091602527, u'digital_clock', 0.043547917, u'rule', 0.025096929]
+[u'rubber_eraser', 0.30115345, u'cash_machine', 0.17165425, u'mailbox', 0.069242172, u'digital_clock', 0.042234838, u'screwdriver', 0.019833326]
+[u'Band_Aid', 0.77510887, u'rule', 0.065333888, u'matchstick', 0.048529759, u'obelisk', 0.047443602, u'book_jacket', 0.012458755]
+[u'rubber_eraser', 0.38597941, u'screwdriver', 0.2332835, u'ballpoint', 0.039019249, u'pencil_box', 0.032968678, u'syringe', 0.02963786]
+[u'rubber_eraser', 0.2775014, u'screwdriver', 0.17029746, u'cash_machine', 0.081430882, u'rule', 0.062297001, u'syringe', 0.049199577]
+[u'cash_machine', 0.44921654, u'rubber_eraser', 0.17271371, u'mailbox', 0.061308026, u'digital_clock', 0.020145355, u'tennis_ball', 0.013173971]

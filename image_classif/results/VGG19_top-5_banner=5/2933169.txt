@@ -1,0 +1,4 @@
+[u'digital_watch', 0.1171249, u'stopwatch', 0.067870624, u'coil', 0.056760512, u'bottlecap', 0.043582615, u'wall_clock', 0.041841842]
+[u'book_jacket', 0.089267679, u'loupe', 0.070758112, u'envelope', 0.041765686, u'packet', 0.032204181, u'binder', 0.030870643]
+[u'digital_clock', 0.23049684, u'pencil_sharpener', 0.13542046, u'perfume', 0.12160204, u'lighter', 0.098238826, u'analog_clock', 0.049358264]
+[u'binder', 0.1965563, u'lighter', 0.056581121, u'perfume', 0.04990343, u'digital_clock', 0.048157491, u'scale', 0.046654835]

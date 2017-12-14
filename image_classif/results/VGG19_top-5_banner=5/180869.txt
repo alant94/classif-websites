@@ -1,0 +1,1 @@
+[u'sea_lion', 0.90689832, u'redbone', 0.029720541, u'bagel', 0.010001382, u'miniature_pinscher', 0.0058710598, u'otter', 0.0056813434]

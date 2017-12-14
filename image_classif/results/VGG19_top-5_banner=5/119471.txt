@@ -1,0 +1,7 @@
+[u'restaurant', 0.20218912, u'barber_chair', 0.14272363, u'barbershop', 0.13295354, u'bakery', 0.10596433, u'library', 0.044376589]
+[u'wall_clock', 0.36715263, u'magnetic_compass', 0.24067369, u'analog_clock', 0.094925709, u'sundial', 0.048857696, u'slide_rule', 0.039588135]
+[u'wall_clock', 0.36715263, u'magnetic_compass', 0.24067369, u'analog_clock', 0.094925709, u'sundial', 0.048857696, u'slide_rule', 0.039588135]
+[u'scale', 0.22354279, u'gong', 0.08930628, u'brass', 0.075436883, u'slide_rule', 0.070629843, u'manhole_cover', 0.054117303]
+[u'restaurant', 0.10740396, u'tobacco_shop', 0.10100297, u'confectionery', 0.10029402, u'bookshop', 0.074970186, u'toyshop', 0.05182102]
+[u'perfume', 0.083718978, u'face_powder', 0.067094505, u'toilet_tissue', 0.060132831, u'lampshade', 0.051673699, u'envelope', 0.04998564]
+[u'panpipe', 0.69484025, u'nail', 0.048749678, u'screw', 0.027489355, u'screwdriver', 0.02649064, u'hair_slide', 0.024497382]

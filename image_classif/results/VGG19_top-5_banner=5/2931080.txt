@@ -1,0 +1,4 @@
+[u'neck_brace', 0.43984911, u'brassiere', 0.13132878, u'maillot', 0.03963447, u'volleyball', 0.0356149, u'bathing_cap', 0.025312291]
+[u'stole', 0.19952506, u'ear', 0.12168211, u'boa_constrictor', 0.05470736, u'corn', 0.047192212, u'apron', 0.037636969]
+[u'diaper', 0.11228155, u'brassiere', 0.091428623, u'gown', 0.081987821, u'pajama', 0.06757655, u'hoopskirt', 0.064708009]
+[u'cloak', 0.18348479, u'trench_coat', 0.086533323, u'umbrella', 0.086215861, u'bonnet', 0.052901354, u'cowboy_hat', 0.047668323]

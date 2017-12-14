@@ -1,0 +1,1 @@
+[u'book_jacket', 0.18818043, u'screwdriver', 0.12390043, u'pop_bottle', 0.040206097, u"carpenter's_kit", 0.033539016, u'comic_book', 0.028758604]

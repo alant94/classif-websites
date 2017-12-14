@@ -1,0 +1,2 @@
+[u'web_site', 0.45761928, u'binder', 0.10473756, u'envelope', 0.097159229, u'Band_Aid', 0.030603983, u'book_jacket', 0.024676632]
+[u'web_site', 0.999744, u'book_jacket', 5.5984096e-05, u'monitor', 4.6284127e-05, u'comic_book', 4.2323747e-05, u'television', 1.7566133e-05]

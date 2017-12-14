@@ -1,0 +1,2 @@
+[u'fountain', 0.61291754, u'matchstick', 0.25628173, u'coral_fungus', 0.032620404, u'knot', 0.012262705, u'spider_web', 0.0082313465]
+[u'puck', 0.82759541, u'face_powder', 0.041612741, u'chocolate_sauce', 0.020162283, u'analog_clock', 0.0072317445, u'coffee_mug', 0.006827971]

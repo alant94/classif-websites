@@ -1,0 +1,8 @@
+[u'hair_slide', 0.33721361, u'wall_clock', 0.20047459, u'analog_clock', 0.14045577, u'matchstick', 0.045850005, u'pinwheel', 0.045116659]
+[u'paintbrush', 0.13568117, u'pajama', 0.061532404, u'ski', 0.041076526, u'jean', 0.03791865, u'spatula', 0.034771696]
+[u'stethoscope', 0.2172014, u'paintbrush', 0.047932528, u'ice_lolly', 0.045251049, u'American_lobster', 0.031282101, u'candle', 0.025171941]
+[u'bucket', 0.28466925, u'tricycle', 0.192865, u'puck', 0.081939012, u"potter's_wheel", 0.033360124, u'lawn_mower', 0.023010572]
+[u'web_site', 0.16738847, u'envelope', 0.14335701, u'comic_book', 0.037543491, u'menu', 0.029732885, u'packet', 0.021520086]
+[u'stole', 0.15227433, u'sarong', 0.09407793, u'swab', 0.056969579, u'maillot', 0.038320769, u'swimming_trunks', 0.035594955]
+[u'stole', 0.3727009, u'wig', 0.17366733, u'velvet', 0.11381965, u'wool', 0.072958522, u'sarong', 0.03996852]
+[u'abaya', 0.18438055, u'maillot', 0.12525105, u'gown', 0.063205019, u'sarong', 0.052487571, u'stole', 0.043140177]

@@ -1,0 +1,4 @@
+[u'restaurant', 0.4090375, u'throne', 0.10136773, u'altar', 0.036806598, u'lumbermill', 0.029809961, u'theater_curtain', 0.02382802]
+[u'thatch', 0.24690534, u'boathouse', 0.18491597, u'patio', 0.078524932, u'flagpole', 0.054105651, u'birdhouse', 0.049621593]
+[u'brass', 0.27884859, u'geyser', 0.093905605, u'web_site', 0.041540034, u'freight_car', 0.033929527, u'moving_van', 0.031320125]
+[u'American_lobster', 0.11672182, u'envelope', 0.10153819, u'tick', 0.096419841, u'comic_book', 0.074072227, u'book_jacket', 0.034446832]

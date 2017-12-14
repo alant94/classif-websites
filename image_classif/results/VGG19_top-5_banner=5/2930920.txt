@@ -1,0 +1,1 @@
+[u'scoreboard', 0.073579408, u'jersey', 0.058998015, u'coffee_mug', 0.048930664, u'laptop', 0.048448361, u'book_jacket', 0.038445365]

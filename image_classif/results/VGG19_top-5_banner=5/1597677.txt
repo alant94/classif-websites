@@ -1,0 +1,6 @@
+[u'tub', 0.47901437, u'fountain', 0.32914954, u'bathtub', 0.079757422, u'bikini', 0.041184619, u'swimming_trunks', 0.027843796]
+[u'bikini', 0.15365115, u'brassiere', 0.12458711, u'maillot', 0.12257313, u'miniskirt', 0.094603918, u'maillot', 0.067712843]
+[u'Chihuahua', 0.031316761, u'balance_beam', 0.023077421, u'dining_table', 0.017421732, u'volleyball', 0.01503118, u'bookshop', 0.014647271]
+[u'miniskirt', 0.54788613, u'maillot', 0.061210506, u'brassiere', 0.051719241, u'tub', 0.03083491, u'maillot', 0.020687645]
+[u'miniskirt', 0.77681124, u'maillot', 0.079195835, u'balance_beam', 0.053252839, u'maillot', 0.039539408, u'bikini', 0.0048133037]
+[u'bikini', 0.23288859, u'swimming_trunks', 0.12780473, u'tub', 0.09822426, u'maillot', 0.085219242, u'brassiere', 0.083130263]

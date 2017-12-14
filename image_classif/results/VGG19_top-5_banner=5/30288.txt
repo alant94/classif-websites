@@ -1,0 +1,2 @@
+[u'spotlight', 0.63155067, u'lampshade', 0.13015211, u'ping-pong_ball', 0.035628732, u'gong', 0.020486141, u'necklace', 0.015928229]
+[u'packet', 0.41242892, u'book_jacket', 0.21946967, u'comic_book', 0.060435601, u'scoreboard', 0.056718305, u'mousetrap', 0.025449144]

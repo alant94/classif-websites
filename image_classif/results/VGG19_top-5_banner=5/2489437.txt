@@ -1,0 +1,4 @@
+[u'thresher', 0.13252603, u'lumbermill', 0.088984966, u'oxcart', 0.059308801, u'palace', 0.035171606, u'barrel', 0.028900998]
+[u'analog_clock', 0.26606816, u'wall_clock', 0.15676329, u'cinema', 0.14940645, u'book_jacket', 0.024970178, u'cassette', 0.020444404]
+[u'web_site', 0.17635486, u'monitor', 0.097001553, u'jigsaw_puzzle', 0.081596337, u'sliding_door', 0.076918997, u'mobile_home', 0.034540839]
+[u'street_sign', 0.080302425, u'puck', 0.073760271, u'wall_clock', 0.055658117, u'analog_clock', 0.050345272, u'bottlecap', 0.044566683]

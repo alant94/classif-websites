@@ -1,0 +1,1 @@
+[u'maze', 0.094487168, u'web_site', 0.094171457, u'crossword_puzzle', 0.093829997, u'digital_clock', 0.063822135, u'wall_clock', 0.031094918]

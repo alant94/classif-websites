@@ -1,0 +1,4 @@
+[u'radio', 0.28401628, u'CD_player', 0.24242699, u'modem', 0.10506839, u'digital_clock', 0.094896577, u'Polaroid_camera', 0.05388153]
+[u'safe', 0.34189051, u'cash_machine', 0.10400079, u'microwave', 0.10087007, u'oscilloscope', 0.077828243, u'combination_lock', 0.037016902]
+[u'cash_machine', 0.88806903, u'safe', 0.037876762, u'vending_machine', 0.022136448, u'photocopier', 0.0097947856, u'microwave', 0.0088351062]
+[u'CD_player', 0.29336736, u'cassette_player', 0.2909489, u'tape_player', 0.23984535, u'radio', 0.10391867, u'loudspeaker', 0.051962189]

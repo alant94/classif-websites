@@ -1,0 +1,3 @@
+[u'gong', 0.85510993, u'chime', 0.051048648, u'shield', 0.015128382, u'steam_locomotive', 0.014453924, u'traffic_light', 0.0074434718]
+[u'rubber_eraser', 0.23269275, u'ballpoint', 0.19489118, u'pencil_box', 0.063622244, u'chime', 0.052426916, u'paintbrush', 0.048309896]
+[u'ski', 0.15137826, u'sliding_door', 0.14353858, u'binder', 0.10551441, u'envelope', 0.089771144, u'book_jacket', 0.076017879]

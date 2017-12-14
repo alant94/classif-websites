@@ -1,0 +1,5 @@
+[u'hook', 0.43654507, u'three-toed_sloth', 0.11614919, u'siamang', 0.037211861, u'spider_monkey', 0.027788071, u'howler_monkey', 0.0233685]
+[u'suit', 0.73232645, u'Windsor_tie', 0.096334718, u'groom', 0.072222762, u'academic_gown', 0.023081757, u'mortarboard', 0.019140841]
+[u'envelope', 0.064162798, u'web_site', 0.063610561, u'nematode', 0.018735208, u'microphone', 0.015415212, u'hook', 0.011429466]
+[u'laptop', 0.13258122, u'pick', 0.10046934, u'traffic_light', 0.075507425, u'shield', 0.04140817, u'street_sign', 0.032902751]
+[u'matchstick', 0.079226553, u'nematode', 0.059841391, u'digital_clock', 0.031803932, u'lighter', 0.027139107, u'spotlight', 0.026000982]

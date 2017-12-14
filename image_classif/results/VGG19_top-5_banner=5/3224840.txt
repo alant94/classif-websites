@@ -1,0 +1,1 @@
+[u'theater_curtain', 0.19463795, u'mortarboard', 0.14391354, u'academic_gown', 0.098368771, u'stage', 0.078699216, u'bassoon', 0.055472076]

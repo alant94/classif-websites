@@ -1,0 +1,4 @@
+[u'seashore', 0.27780798, u'promontory', 0.19817248, u'lakeside', 0.1279898, u'valley', 0.065476798, u'cliff', 0.044355437]
+[u'corn', 0.14172916, u'acorn', 0.12851286, u'lemon', 0.087325215, u'fig', 0.05464039, u'Granny_Smith', 0.049008299]
+[u'goblet', 0.7831313, u'beer_glass', 0.10900125, u'red_wine', 0.070668325, u'wine_bottle', 0.0086018918, u'water_jug', 0.0040307143]
+[u'lakeside', 0.17472662, u'rapeseed', 0.056528937, u'monitor', 0.04857856, u'pole', 0.036987562, u'web_site', 0.029144261]

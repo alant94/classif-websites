@@ -1,0 +1,2 @@
+[u'sunglass', 0.18547361, u'sunglasses', 0.14802124, u'Band_Aid', 0.032836754, u'jean', 0.024103224, u'hair_spray', 0.021458378]
+[u'ski_mask', 0.066853859, u'wig', 0.066574357, u'mask', 0.033324994, u'bearskin', 0.030216949, u'abaya', 0.025074106]

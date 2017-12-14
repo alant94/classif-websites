@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.51604116, u'cocktail_shaker', 0.020643191, u'wardrobe', 0.019451736, u'window_shade', 0.018568385, u'refrigerator', 0.015890373]
+[u'shower_curtain', 0.65377277, u'window_shade', 0.077649616, u'velvet', 0.036440007, u'fire_screen', 0.014974616, u'lampshade', 0.013812026]

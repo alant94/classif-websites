@@ -1,0 +1,4 @@
+[u'paddlewheel', 0.22054274, u'African_grey', 0.071300402, u'knot', 0.064561971, u'swab', 0.063036419, u'orangutan', 0.059298951]
+[u'croquet_ball', 0.43830207, u'lab_coat', 0.27699336, u'golf_ball', 0.028221276, u'ballplayer', 0.022888377, u'racket', 0.022560274]
+[u'patio', 0.29723275, u'picket_fence', 0.10978216, u'worm_fence', 0.10069998, u'mobile_home', 0.076408625, u'greenhouse', 0.063692927]
+[u'book_jacket', 0.31530502, u'cash_machine', 0.20319276, u'theater_curtain', 0.071334675, u'ashcan', 0.066273868, u'barbershop', 0.033478878]

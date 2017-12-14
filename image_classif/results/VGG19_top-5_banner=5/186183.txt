@@ -1,0 +1,5 @@
+[u'traffic_light', 0.053438492, u'digital_clock', 0.05131245, u'wall_clock', 0.043152954, u'envelope', 0.042365041, u'binder', 0.032066293]
+[u'envelope', 0.21893989, u'book_jacket', 0.1297539, u'web_site', 0.12797393, u'binder', 0.054224558, u'digital_clock', 0.043909434]
+[u'coil', 0.13615958, u'combination_lock', 0.091326043, u'bolo_tie', 0.050917659, u'strainer', 0.050559662, u'puck', 0.041117929]
+[u'mailbox', 0.35122913, u'gas_pump', 0.12158922, u'cash_machine', 0.10106846, u'yurt', 0.050792668, u'ashcan', 0.041175976]
+[u'stupa', 0.80012745, u'radio_telescope', 0.025977857, u'palace', 0.014364941, u'dome', 0.012541243, u'bell_cote', 0.01001572]

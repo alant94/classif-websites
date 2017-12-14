@@ -1,0 +1,1 @@
+[u'odometer', 0.11679732, u'analog_clock', 0.099926434, u'water_tower', 0.060004968, u'drumstick', 0.057915054, u'magnetic_compass', 0.048237629]

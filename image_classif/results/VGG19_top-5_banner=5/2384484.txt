@@ -1,0 +1,4 @@
+[u'iPod', 0.21061797, u'analog_clock', 0.1595892, u'digital_clock', 0.14831027, u'loupe', 0.049570784, u'switch', 0.044926882]
+[u'volcano', 0.66904122, u'valley', 0.073234208, u'lakeside', 0.025332587, u'dam', 0.024931043, u'mountain_tent', 0.023595797]
+[u'sorrel', 0.63432491, u'horse_cart', 0.16170093, u'ox', 0.098727949, u'plow', 0.044270538, u'oxcart', 0.031075073]
+[u'book_jacket', 0.6375435, u'comic_book', 0.079799294, u'tray', 0.041537251, u'web_site', 0.036992613, u'envelope', 0.029046137]

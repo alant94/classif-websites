@@ -1,0 +1,8 @@
+[u'scoreboard', 0.2390101, u'comic_book', 0.20884658, u'web_site', 0.16518494, u'book_jacket', 0.085255086, u'remote_control', 0.028576696]
+[u'street_sign', 0.19386876, u'Band_Aid', 0.12043557, u'digital_clock', 0.062630735, u'hook', 0.018086476, u'nipple', 0.013924287]
+[u'book_jacket', 0.20754041, u'binder', 0.080009066, u'comic_book', 0.068677098, u'envelope', 0.061506469, u'wardrobe', 0.032732483]
+[u'web_site', 0.33996546, u'television', 0.17304218, u'screen', 0.063411772, u'monitor', 0.04484126, u'notebook', 0.020053286]
+[u'corkscrew', 0.23930202, u'can_opener', 0.18119711, u'scabbard', 0.12365647, u'hook', 0.031743389, u'obelisk', 0.020666329]
+[u'crate', 0.62811154, u'barrel', 0.095005184, u'carton', 0.035092331, u'whiskey_jug', 0.020532325, u'mailbox', 0.020166788]
+[u'television', 0.25155735, u'suit', 0.20285909, u'Windsor_tie', 0.17997344, u'web_site', 0.12326611, u'screen', 0.055654041]
+[u'geyser', 0.64913172, u'fountain', 0.19787678, u'book_jacket', 0.016889414, u'brass', 0.0072390391, u'barrel', 0.0066608307]

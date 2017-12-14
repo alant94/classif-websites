@@ -1,0 +1,6 @@
+[u'beer_glass', 0.57649952, u'chain', 0.056860488, u'beer_bottle', 0.052413195, u'wine_bottle', 0.023059692, u'paintbrush', 0.019220425]
+[u'crane', 0.33799642, u'suspension_bridge', 0.1805712, u'hook', 0.12534405, u'pier', 0.067182884, u'traffic_light', 0.032673232]
+[u'butcher_shop', 0.18793097, u'bakery', 0.080109507, u'French_loaf', 0.055521674, u'bolete', 0.044820003, u'conch', 0.031134548]
+[u'cleaver', 0.019505175, u'envelope', 0.014030516, u'hatchet', 0.012793035, u'letter_opener', 0.011917172, u'corkscrew', 0.01188547]
+[u'hair_slide', 0.043335781, u'hand_blower', 0.037310261, u'nail', 0.031688102, u'spotlight', 0.028360557, u'ballpoint', 0.027553543]
+[u'strawberry', 0.17312102, u'plate', 0.1216061, u'pineapple', 0.078215927, u'ice_cream', 0.055491015, u'pomegranate', 0.054081287]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.085545652, u'packet', 0.050405171, u'oil_filter', 0.046525069, u'brassiere', 0.030372171, u'neck_brace', 0.027682263]

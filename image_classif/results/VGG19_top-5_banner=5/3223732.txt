@@ -1,0 +1,2 @@
+[u'analog_clock', 0.16133404, u'book_jacket', 0.060831055, u'rule', 0.05089806, u'wall_clock', 0.034715239, u'chime', 0.033870447]
+[u'church', 0.79573613, u'bell_cote', 0.065374523, u'flagpole', 0.046610739, u'monastery', 0.01055815, u'beacon', 0.0099498704]

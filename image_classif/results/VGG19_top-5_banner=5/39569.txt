@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.43281749, u'stage', 0.15530246, u'harp', 0.072091408, u'abaya', 0.017335424, u'scuba_diver', 0.01605925]
+[u'pencil_sharpener', 0.11283563, u'hook', 0.090921625, u'mousetrap', 0.068919145, u'rubber_eraser', 0.059478488, u'hammer', 0.052045431]

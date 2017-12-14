@@ -1,0 +1,7 @@
+[u'web_site', 0.16583551, u'analog_clock', 0.11629898, u'magnetic_compass', 0.044424154, u'stopwatch', 0.028914299, u'wall_clock', 0.027432242]
+[u'web_site', 0.30511764, u'digital_clock', 0.054726001, u'cash_machine', 0.040276796, u'screen', 0.037792388, u'iPod', 0.035034794]
+[u'web_site', 0.24149224, u'cash_machine', 0.042345431, u'digital_clock', 0.038638406, u'iPod', 0.026954822, u'laptop', 0.026261101]
+[u'envelope', 0.75836128, u'web_site', 0.044840474, u'prayer_rug', 0.026072785, u'packet', 0.025007898, u'matchstick', 0.021932298]
+[u'pop_bottle', 0.59655935, u'beer_bottle', 0.1570567, u'hair_spray', 0.048526417, u'beer_glass', 0.016238254, u'sunscreen', 0.015257738]
+[u'beer_bottle', 0.45740998, u'pop_bottle', 0.33134842, u'hair_spray', 0.017981896, u'beer_glass', 0.016695378, u'eggnog', 0.015714429]
+[u'book_jacket', 0.26224944, u'street_sign', 0.10856992, u'barbershop', 0.098868653, u'tobacco_shop', 0.064745292, u'scoreboard', 0.032931257]

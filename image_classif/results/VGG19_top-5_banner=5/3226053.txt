@@ -1,0 +1,1 @@
+[u'cleaver', 0.15196007, u'wine_bottle', 0.064340755, u'paintbrush', 0.045483388, u'spatula', 0.045183089, u'acoustic_guitar', 0.041555796]

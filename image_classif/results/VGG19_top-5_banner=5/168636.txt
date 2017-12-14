@@ -1,0 +1,4 @@
+[u'sax', 0.66933185, u'oboe', 0.0707753, u'stage', 0.049978286, u'web_site', 0.028858839, u'cornet', 0.027540999]
+[u'television', 0.27963823, u'web_site', 0.18739222, u'monitor', 0.10897528, u'screen', 0.074558921, u'sunglass', 0.035526425]
+[u'television', 0.23676744, u'web_site', 0.21871215, u'monitor', 0.063632667, u'pay-phone', 0.053454738, u'screen', 0.051914472]
+[u'flute', 0.77852917, u'bassoon', 0.086851902, u'oboe', 0.06804581, u'drumstick', 0.029823983, u'cello', 0.0095616439]

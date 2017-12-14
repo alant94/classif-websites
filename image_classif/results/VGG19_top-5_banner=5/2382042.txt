@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.31424227, u'fire_screen', 0.14883898, u'wardrobe', 0.089551523, u'microwave', 0.068851687, u'window_screen', 0.042702194]
+[u'switch', 0.99503583, u'loudspeaker', 0.0011731853, u'remote_control', 0.00051041361, u'soap_dispenser', 0.00043610178, u'lighter', 0.00039264117]

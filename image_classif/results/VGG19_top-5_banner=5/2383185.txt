@@ -1,0 +1,2 @@
+[u'fountain', 0.30560136, u'picket_fence', 0.11669153, u'ski', 0.074975803, u'lakeside', 0.053659853, u'worm_fence', 0.045236055]
+[u'bucket', 0.12384552, u'pot', 0.067626029, u'canoe', 0.045641281, u'paddle', 0.044050511, u'toilet_seat', 0.03683342]

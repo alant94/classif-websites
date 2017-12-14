@@ -1,0 +1,1 @@
+[u'brown_bear', 0.97556216, u'American_black_bear', 0.008087486, u'beaver', 0.0063993447, u'otter', 0.0023741953, u'Bouvier_des_Flandres', 0.0015086827]

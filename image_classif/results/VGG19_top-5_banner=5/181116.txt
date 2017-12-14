@@ -1,0 +1,5 @@
+[u'hook', 0.30471748, u'cleaver', 0.098623775, u'safety_pin', 0.070919886, u'swab', 0.060757853, u'coil', 0.033357024]
+[u'letter_opener', 0.41032705, u'ski', 0.25533023, u'wooden_spoon', 0.046270482, u'toilet_seat', 0.04473301, u'can_opener', 0.020561971]
+[u'tennis_ball', 0.6509757, u'whistle', 0.046749897, u'stopwatch', 0.029237054, u'gasmask', 0.026778558, u'combination_lock', 0.022483295]
+[u'screwdriver', 0.38706303, u'nail', 0.13496241, u'rule', 0.052701119, u"carpenter's_kit", 0.038184099, u'chime', 0.036320675]
+[u'web_site', 0.99062717, u'television', 0.0011563223, u'hand-held_computer', 0.001076031, u'cash_machine', 0.00075215951, u'screen', 0.00074436073]

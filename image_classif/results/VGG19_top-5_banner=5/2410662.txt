@@ -1,0 +1,5 @@
+[u'hook', 0.12651317, u'wall_clock', 0.042531163, u'paper_towel', 0.039570507, u'envelope', 0.034830678, u'plate_rack', 0.034821525]
+[u'prayer_rug', 0.58208656, u'abaya', 0.079135872, u'vestment', 0.05795173, u'throne', 0.039082926, u'handkerchief', 0.037836604]
+[u'hook', 0.069536105, u'paper_towel', 0.062189557, u'envelope', 0.046482041, u'coffee_mug', 0.03458773, u'jersey', 0.024328673]
+[u'hook', 0.10486874, u'nematode', 0.065787666, u'paper_towel', 0.050268393, u'coffee_mug', 0.04668235, u'hair_slide', 0.037784748]
+[u'hook', 0.39974016, u'nematode', 0.040044468, u'chain', 0.038074616, u'paper_towel', 0.027910445, u'hair_slide', 0.025840824]

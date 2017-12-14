@@ -1,0 +1,4 @@
+[u'scoreboard', 0.15907305, u'cinema', 0.14219062, u'web_site', 0.13749738, u'street_sign', 0.052823193, u'menu', 0.044297017]
+[u'chime', 0.58117217, u'panpipe', 0.056153774, u'hook', 0.039141767, u'wall_clock', 0.025792569, u'plate_rack', 0.024963398]
+[u'greenhouse', 0.21409629, u'crate', 0.16802622, u'birdhouse', 0.14755559, u'guillotine', 0.10111553, u'medicine_chest', 0.086073086]
+[u'impala', 0.70559698, u'gazelle', 0.2428156, u'hartebeest', 0.048791327, u'Saluki', 0.00053542602, u'African_hunting_dog', 0.00040059359]

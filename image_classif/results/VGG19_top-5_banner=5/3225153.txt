@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.58933169, u'menu', 0.070336178, u'packet', 0.040251203, u'spindle', 0.036933336, u'quill', 0.036838043]
+[u'perfume', 0.57125217, u'hourglass', 0.12208948, u'red_wine', 0.11473939, u'wine_bottle', 0.037029762, u'trombone', 0.022417722]
+[u'table_lamp', 0.35386556, u'book_jacket', 0.18267646, u'lampshade', 0.13266402, u'binder', 0.082292333, u'street_sign', 0.020593351]
+[u'lotion', 0.19424117, u'pill_bottle', 0.12310178, u'Band_Aid', 0.10148419, u'thimble', 0.077368282, u'crossword_puzzle', 0.067503117]
+[u'hard_disc', 0.47939265, u'menu', 0.14334744, u'modem', 0.069690011, u'iPod', 0.065809928, u'crossword_puzzle', 0.053319518]
+[u'flagpole', 0.1450137, u'pole', 0.11698274, u'suspension_bridge', 0.083467692, u'spotlight', 0.032350019, u'horizontal_bar', 0.031372812]
+[u'flagpole', 0.09565708, u'suspension_bridge', 0.072912566, u'pole', 0.071805343, u'spotlight', 0.048891045, u'horizontal_bar', 0.035061322]
+[u'web_site', 0.26857761, u'digital_clock', 0.13140978, u'street_sign', 0.056934766, u'scoreboard', 0.053951427, u'stopwatch', 0.037425771]

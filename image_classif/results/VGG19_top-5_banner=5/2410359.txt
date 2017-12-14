@@ -1,0 +1,3 @@
+[u'alp', 0.19619332, u'geyser', 0.095065534, u'cliff', 0.084977478, u'promontory', 0.076890841, u'castle', 0.040145993]
+[u'alp', 0.21214987, u'radio_telescope', 0.10234897, u'volcano', 0.087943994, u'solar_dish', 0.039674859, u'valley', 0.032015625]
+[u'cliff', 0.3654221, u'promontory', 0.35463485, u'valley', 0.086221889, u'seashore', 0.063108906, u'lakeside', 0.025427382]

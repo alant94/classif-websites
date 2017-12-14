@@ -1,0 +1,3 @@
+[u'canoe', 0.74691558, u'paddle', 0.22989632, u'gondola', 0.018164758, u'schipperke', 0.0020117648, u'lifeboat', 0.00087625801]
+[u'boathouse', 0.33778876, u'mobile_home', 0.2505832, u'picket_fence', 0.09801624, u'lakeside', 0.048705056, u'patio', 0.033002667]
+[u'apron', 0.24785052, u'sarong', 0.17416017, u'poncho', 0.037772063, u'sleeping_bag', 0.032868132, u'stole', 0.030347839]

@@ -1,0 +1,2 @@
+[u'tub', 0.081134513, u'military_uniform', 0.065193571, u'poncho', 0.042604003, u'bathtub', 0.035864413, u'bow_tie', 0.030181274]
+[u'desk', 0.40604201, u'rocking_chair', 0.12156089, u'television', 0.06714984, u'laptop', 0.039916955, u'monitor', 0.023074023]

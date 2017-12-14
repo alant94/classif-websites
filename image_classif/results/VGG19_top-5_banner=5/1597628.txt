@@ -1,0 +1,7 @@
+[u'crane', 0.094549619, u'pool_table', 0.078944787, u'traffic_light', 0.046040513, u'wall_clock', 0.04026996, u'analog_clock', 0.035519514]
+[u'cash_machine', 0.092534386, u'prison', 0.081303351, u'analog_clock', 0.053141955, u'parking_meter', 0.035507254, u'vending_machine', 0.029523985]
+[u'bulletproof_vest', 0.071667537, u'vault', 0.068506531, u'cuirass', 0.034391541, u'pickelhaube', 0.03117661, u'Dandie_Dinmont', 0.029751239]
+[u'mousetrap', 0.18453921, u'switch', 0.071652465, u'analog_clock', 0.044182759, u'table_lamp', 0.04255864, u'crate', 0.039871249]
+[u'lotion', 0.067719303, u'pill_bottle', 0.065836601, u'vase', 0.060741179, u'candle', 0.057519235, u"potter's_wheel", 0.038896848]
+[u'fountain', 0.27723533, u'spotlight', 0.058458697, u'lampshade', 0.057720933, u'fireboat', 0.043139715, u'mosquito_net', 0.041378539]
+[u'cash_machine', 0.22923827, u'bulletproof_vest', 0.10323419, u'cuirass', 0.096720368, u'refrigerator', 0.031192906, u'soap_dispenser', 0.028423129]

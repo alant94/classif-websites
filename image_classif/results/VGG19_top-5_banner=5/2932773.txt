@@ -1,0 +1,5 @@
+[u'web_site', 0.12139598, u'rifle', 0.10091525, u'stretcher', 0.064466767, u'book_jacket', 0.054555826, u'oxcart', 0.048489742]
+[u'handkerchief', 0.30736771, u'shower_cap', 0.071101807, u'swimming_trunks', 0.04410021, u'bib', 0.044087574, u'quilt', 0.041497726]
+[u'coffee_mug', 0.09034849, u'puck', 0.067390837, u'Band_Aid', 0.059058819, u'oil_filter', 0.050531901, u'book_jacket', 0.041222427]
+[u'menu', 0.39750239, u'envelope', 0.076163657, u'web_site', 0.065639652, u'binder', 0.041184992, u'book_jacket', 0.018523404]
+[u'coffee_mug', 0.070260361, u'street_sign', 0.066731937, u'maze', 0.059862833, u'book_jacket', 0.052152425, u'wallet', 0.0519007]

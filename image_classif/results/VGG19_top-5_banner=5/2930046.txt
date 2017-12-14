@@ -1,0 +1,2 @@
+[u'alp', 0.69875711, u'volcano', 0.1098167, u'ski', 0.068675287, u'valley', 0.024912233, u'mountain_tent', 0.019119879]
+[u'hook', 0.68486887, u'safety_pin', 0.10393955, u'can_opener', 0.024775829, u'nail', 0.012147401, u'corkscrew', 0.0084790643]

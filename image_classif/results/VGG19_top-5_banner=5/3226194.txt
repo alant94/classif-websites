@@ -1,0 +1,3 @@
+[u'street_sign', 0.16747881, u'traffic_light', 0.042252678, u'hair_spray', 0.027079673, u'envelope', 0.026419109, u'book_jacket', 0.02549977]
+[u'drilling_platform', 0.15505992, u'container_ship', 0.12928143, u'crane', 0.11876492, u'dock', 0.083946235, u'boathouse', 0.056716722]
+[u'butcher_shop', 0.6600244, u'wardrobe', 0.19625817, u'cleaver', 0.058244865, u'abaya', 0.009048312, u'vestment', 0.0069965296]

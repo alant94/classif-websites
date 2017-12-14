@@ -1,0 +1,2 @@
+[u'bathing_cap', 0.14650273, u'balloon', 0.085575804, u'tennis_ball', 0.074082568, u'Band_Aid', 0.044525847, u'bottlecap', 0.029995644]
+[u'suspension_bridge', 0.2914483, u'bannister', 0.15123571, u'pier', 0.097222142, u'grand_piano', 0.078854017, u'upright', 0.066138513]

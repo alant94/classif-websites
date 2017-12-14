@@ -1,0 +1,6 @@
+[u'lakeside', 0.58451426, u'canoe', 0.076620057, u'water_buffalo', 0.066757888, u'boathouse', 0.039171502, u'hippopotamus', 0.014280648]
+[u'water_buffalo', 0.44004935, u'ox', 0.2297032, u'oxcart', 0.1361863, u'plow', 0.023756988, u'kelpie', 0.023343056]
+[u'impala', 0.33358216, u'gazelle', 0.16682871, u'hartebeest', 0.13676392, u'warthog', 0.11040467, u'wallaby', 0.048666414]
+[u'wallaby', 0.29732469, u'hartebeest', 0.18873836, u'hare', 0.12331777, u'bison', 0.091441289, u'gazelle', 0.085121207]
+[u'hartebeest', 0.40571174, u'gazelle', 0.1004184, u'hare', 0.090957224, u'impala', 0.063691728, u'ibex', 0.05080539]
+[u'hartebeest', 0.99111933, u'impala', 0.0053062425, u'gazelle', 0.0017726594, u'ibex', 0.00091063522, u'ox', 0.00020046206]

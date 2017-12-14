@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.4059383, u'carton', 0.1867944, u'plastic_bag', 0.15813337, u'menu', 0.031684998, u'barbershop', 0.029618112]

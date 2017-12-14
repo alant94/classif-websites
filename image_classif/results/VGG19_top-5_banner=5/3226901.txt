@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.38003162, u'organ', 0.053476613, u'shoji', 0.040159747, u'window_shade', 0.038763095, u'suspension_bridge', 0.036322314]
+[u'envelope', 0.87312382, u'menu', 0.029204415, u'apron', 0.021982402, u'handkerchief', 0.01346401, u'shower_cap', 0.012451129]

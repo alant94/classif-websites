@@ -1,0 +1,4 @@
+[u'cash_machine', 0.19421303, u'soap_dispenser', 0.10701768, u'microwave', 0.040195599, u'gas_pump', 0.036239903, u'scoreboard', 0.030429192]
+[u'television', 0.086190753, u'book_jacket', 0.053286709, u'fire_screen', 0.047227513, u'tray', 0.021539202, u'monitor', 0.017781379]
+[u'bow', 0.18925701, u'slide_rule', 0.13665645, u"carpenter's_kit", 0.11033033, u'screwdriver', 0.052100707, u'paintbrush', 0.04493257]
+[u'barbershop', 0.34973115, u'toyshop', 0.093635038, u'punching_bag', 0.051284093, u'tobacco_shop', 0.049718503, u'comic_book', 0.047359116]

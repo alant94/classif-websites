@@ -1,0 +1,4 @@
+[u'stove', 0.40777567, u'coffeepot', 0.091924734, u'table_lamp', 0.072998054, u'espresso_maker', 0.069797523, u'lampshade', 0.042697188]
+[u'pill_bottle', 0.34548238, u'lotion', 0.18103217, u'perfume', 0.097052127, u'soap_dispenser', 0.062664673, u'stupa', 0.048364062]
+[u'web_site', 0.59636384, u'envelope', 0.12995724, u'book_jacket', 0.024677234, u'analog_clock', 0.0083361072, u'wall_clock', 0.0065150997]
+[u'beacon', 0.26798353, u'perfume', 0.11090826, u'church', 0.1069486, u'pill_bottle', 0.094920792, u'medicine_chest', 0.033743013]

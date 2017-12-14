@@ -1,0 +1,4 @@
+[u'vestment', 0.16911969, u'poncho', 0.13829736, u'paddlewheel', 0.12351709, u'velvet', 0.080906279, u'mailbox', 0.049844012]
+[u'carton', 0.89009559, u'crate', 0.095783032, u'chest', 0.0030124281, u'Band_Aid', 0.0025488364, u'hamper', 0.0013859568]
+[u'digital_clock', 0.44280839, u'maze', 0.05578794, u'wall_clock', 0.041846439, u'oscilloscope', 0.040740293, u'crossword_puzzle', 0.031492285]
+[u'shopping_basket', 0.31806853, u'backpack', 0.2895616, u'mailbag', 0.21993379, u'sleeping_bag', 0.057121526, u'stretcher', 0.055713337]

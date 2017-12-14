@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.99928755, u'prayer_rug', 0.00017141316, u'doormat', 0.00011134809, u'wool', 6.9345544e-05, u'menu', 5.793932e-05]
+[u'picket_fence', 0.41877252, u'container_ship', 0.091516182, u'digital_clock', 0.07973662, u'castle', 0.044763036, u'palace', 0.015255627]
+[u'envelope', 0.045212489, u'radio_telescope', 0.034920946, u'whistle', 0.034013513, u'drilling_platform', 0.025473049, u'parachute', 0.021024408]

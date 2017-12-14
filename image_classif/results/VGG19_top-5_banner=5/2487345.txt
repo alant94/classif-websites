@@ -1,0 +1,2 @@
+[u'book_jacket', 0.36184114, u'pick', 0.087461486, u'iPod', 0.080221288, u'television', 0.059268586, u'screen', 0.043322142]
+[u'alp', 0.21740465, u'valley', 0.091818757, u'rapeseed', 0.076587401, u'seashore', 0.040512297, u'lakeside', 0.037484635]

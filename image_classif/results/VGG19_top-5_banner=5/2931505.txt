@@ -1,0 +1,2 @@
+[u'ballpoint', 0.29287866, u'chime', 0.26487583, u'organ', 0.16478385, u'fountain_pen', 0.051236946, u'syringe', 0.025977729]
+[u'harmonica', 0.43690079, u'buckle', 0.029325251, u'corkscrew', 0.028708231, u'suspension_bridge', 0.025433466, u'cinema', 0.022644572]

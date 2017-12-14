@@ -1,0 +1,1 @@
+[u'web_site', 0.87765539, u'book_jacket', 0.039318163, u'comic_book', 0.013141825, u'menu', 0.0064684935, u'Windsor_tie', 0.0020608404]

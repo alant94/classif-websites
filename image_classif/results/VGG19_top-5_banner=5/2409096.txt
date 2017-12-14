@@ -1,0 +1,3 @@
+[u'web_site', 0.53909057, u'envelope', 0.074608281, u'nematode', 0.016624607, u'matchstick', 0.015992822, u'perfume', 0.014337022]
+[u'warplane', 0.2820988, u'assault_rifle', 0.17306383, u'wing', 0.049422842, u'triceratops', 0.049084995, u'projectile', 0.043475907]
+[u'assault_rifle', 0.22935107, u'rifle', 0.14417641, u'ski', 0.10480388, u'umbrella', 0.049253579, u'military_uniform', 0.044527631]

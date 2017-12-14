@@ -1,0 +1,4 @@
+[u'plastic_bag', 0.083389737, u'pop_bottle', 0.035801079, u'water_bottle', 0.026474452, u'nipple', 0.025448348, u'hair_spray', 0.023951]
+[u'dock', 0.45104671, u'lifeboat', 0.24535149, u'catamaran', 0.064915024, u'fireboat', 0.051999267, u'container_ship', 0.046937972]
+[u'speedboat', 0.69590485, u'catamaran', 0.25087938, u'trimaran', 0.016171956, u'liner', 0.014223276, u'lifeboat', 0.0072013475]
+[u'fireboat', 0.45353389, u'speedboat', 0.30409676, u'trimaran', 0.050388664, u'aircraft_carrier', 0.042406224, u'lifeboat', 0.034406941]

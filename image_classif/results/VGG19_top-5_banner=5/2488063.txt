@@ -1,0 +1,6 @@
+[u'barracouta', 0.87311321, u'sturgeon', 0.097597286, u'tench', 0.019238254, u'gar', 0.0063100113, u'coho', 0.0032529172]
+[u'web_site', 0.19276381, u'book_jacket', 0.037916254, u'puck', 0.020910408, u'microphone', 0.019871745, u'scoreboard', 0.018226393]
+[u'street_sign', 0.13733077, u'scoreboard', 0.10611128, u'book_jacket', 0.062385373, u'brass', 0.061876394, u'cash_machine', 0.047321405]
+[u'digital_clock', 0.092410028, u'street_sign', 0.089532197, u'stopwatch', 0.057395738, u'book_jacket', 0.046014585, u'odometer', 0.036748987]
+[u'liner', 0.23115511, u'pirate', 0.15371576, u'mosque', 0.08398889, u'dock', 0.069366246, u'wreck', 0.066560097]
+[u'shield', 0.82307118, u'oxcart', 0.04823697, u'chain_mail', 0.02176775, u'cuirass', 0.01174534, u'great_grey_owl', 0.0097917803]

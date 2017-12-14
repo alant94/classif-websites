@@ -1,0 +1,7 @@
+[u'impala', 0.36551872, u'gazelle', 0.12787206, u'wallaby', 0.074467212, u'ibex', 0.066343516, u'bittern', 0.046559032]
+[u'digital_clock', 0.25860345, u'Band_Aid', 0.15651143, u'knee_pad', 0.091160074, u'digital_watch', 0.075159922, u'whistle', 0.055659547]
+[u'refrigerator', 0.1931842, u'dishwasher', 0.0568568, u'ashcan', 0.053183015, u'wardrobe', 0.046900734, u'washer', 0.037184529]
+[u'quill', 0.20255832, u'book_jacket', 0.15959948, u'swab', 0.098288231, u'broom', 0.02917175, u'carton', 0.025788344]
+[u'ashcan', 0.082535684, u'refrigerator', 0.080120549, u'pedestal', 0.041561693, u'soap_dispenser', 0.040963724, u'lotion', 0.033897087]
+[u'wallaby', 0.30305248, u'warthog', 0.26411593, u'impala', 0.13900806, u'wild_boar', 0.10282522, u'bighorn', 0.031171594]
+[u'bow', 0.54296911, u'assault_rifle', 0.28129295, u'rifle', 0.086900823, u'pole', 0.014641847, u'crane', 0.013346985]

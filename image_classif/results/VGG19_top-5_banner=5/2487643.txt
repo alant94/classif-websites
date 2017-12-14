@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.785604, u'computer_keyboard', 0.050604682, u'laptop', 0.023237286, u'notebook', 0.021580644, u'iPod', 0.011343054]
+[u'bobsled', 0.30022141, u'dam', 0.060125306, u'car_wheel', 0.032416184, u'ballpoint', 0.028757023, u'digital_watch', 0.024954947]
+[u'stole', 0.43509892, u'poncho', 0.1566232, u'wool', 0.12120634, u'jean', 0.040965289, u'academic_gown', 0.032784484]
+[u'crossword_puzzle', 0.39941359, u'quilt', 0.15404376, u'digital_clock', 0.075427048, u'digital_watch', 0.048352301, u'Windsor_tie', 0.040166095]

@@ -1,0 +1,2 @@
+[u'solar_dish', 0.10528149, u'lawn_mower', 0.081295349, u'flagpole', 0.065190405, u'patio', 0.049398351, u'swing', 0.044609629]
+[u'komondor', 0.33738783, u'Afghan_hound', 0.25514993, u'steel_drum', 0.038607128, u'Old_English_sheepdog', 0.02382512, u'butcher_shop', 0.017143937]

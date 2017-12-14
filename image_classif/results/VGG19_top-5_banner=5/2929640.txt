@@ -1,0 +1,2 @@
+[u'gazelle', 0.36796388, u'impala', 0.1899568, u'hartebeest', 0.15119335, u'bustard', 0.13044898, u'hare', 0.06335526]
+[u'nail', 0.15764125, u'screwdriver', 0.06597732, u"carpenter's_kit", 0.045447741, u'paintbrush', 0.039345719, u'envelope', 0.037677288]

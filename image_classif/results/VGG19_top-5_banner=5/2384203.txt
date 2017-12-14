@@ -1,0 +1,2 @@
+[u'iPod', 0.15810694, u'screen', 0.14297959, u'cash_machine', 0.0843914, u'digital_clock', 0.064590238, u'oscilloscope', 0.053413022]
+[u'screen', 0.1604103, u'monitor', 0.10228898, u'cash_machine', 0.077205323, u'laptop', 0.067251496, u'iPod', 0.058247633]

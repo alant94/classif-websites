@@ -1,0 +1,7 @@
+[u'space_shuttle', 0.13155051, u'missile', 0.12485836, u'projectile', 0.10336301, u'screw', 0.066398568, u'pole', 0.05700691]
+[u'cliff', 0.17867079, u'volcano', 0.10542627, u'geyser', 0.075880684, u'beacon', 0.053410191, u'missile', 0.049134985]
+[u'geyser', 0.88999283, u'cash_machine', 0.018766217, u'book_jacket', 0.011041662, u'fountain', 0.0091270898, u'perfume', 0.0047563659]
+[u'book_jacket', 0.20074876, u'cash_machine', 0.082446776, u'geyser', 0.07479506, u'stage', 0.046398234, u'velvet', 0.037287809]
+[u'scoreboard', 0.17509599, u'digital_clock', 0.12295943, u'crossword_puzzle', 0.061760467, u'digital_watch', 0.052755035, u'matchstick', 0.029336764]
+[u'web_site', 0.21418603, u'envelope', 0.15000005, u'digital_clock', 0.053604934, u'Band_Aid', 0.027790558, u'wall_clock', 0.019455649]
+[u'velvet', 0.36723623, u'wallet', 0.03201564, u'prayer_rug', 0.027998284, u'wool', 0.016783517, u'mailbag', 0.015438163]

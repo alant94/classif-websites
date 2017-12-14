@@ -1,0 +1,1 @@
+[u'spatula', 0.125138, u'picket_fence', 0.12295038, u'ski', 0.11496841, u'screwdriver', 0.1119619, u'matchstick', 0.064369746]

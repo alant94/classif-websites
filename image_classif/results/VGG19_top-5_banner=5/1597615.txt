@@ -1,0 +1,3 @@
+[u'iPod', 0.1549153, u'pencil_sharpener', 0.12471226, u'digital_watch', 0.060642622, u'analog_clock', 0.057593901, u'wallet', 0.051228546]
+[u'tripod', 0.24975033, u'crane', 0.18304005, u'matchstick', 0.11083555, u'analog_clock', 0.046675548, u'nail', 0.035049036]
+[u'matchstick', 0.59927189, u'birdhouse', 0.039744388, u'tripod', 0.029854776, u'mousetrap', 0.024203159, u'lampshade', 0.022747235]

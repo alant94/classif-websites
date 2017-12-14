@@ -1,0 +1,7 @@
+[u'flamingo', 0.99999952, u'spoonbill', 3.7045137e-07, u'American_egret', 5.7257381e-08, u'crane', 3.7936022e-08, u'pelican', 2.2758826e-08]
+[u'lemon', 0.23380083, u'orange', 0.16751209, u'bee', 0.14653406, u'daisy', 0.13922818, u'banana', 0.050066013]
+[u'umbrella', 0.34892443, u'pinwheel', 0.13591415, u'web_site', 0.047597166, u'swing', 0.035136826, u'book_jacket', 0.029823776]
+[u'television', 0.18391995, u'web_site', 0.15525575, u'monitor', 0.12733507, u'screen', 0.1141533, u'snorkel', 0.10182269]
+[u'traffic_light', 0.079631768, u'lampshade', 0.076278418, u'croquet_ball', 0.069127642, u'planetarium', 0.041991118, u'bubble', 0.039036598]
+[u'valley', 0.52881807, u'alp', 0.35699579, u'cliff', 0.063552313, u'mountain_tent', 0.02496301, u'lakeside', 0.0016891879]
+[u'beacon', 0.27843004, u'seashore', 0.26205194, u'lakeside', 0.082656711, u'wing', 0.073894277, u'promontory', 0.030130237]

@@ -1,0 +1,3 @@
+[u'parachute', 0.23620397, u'lakeside', 0.22876127, u'balloon', 0.14581278, u'seashore', 0.13633136, u'sandbar', 0.038439251]
+[u'tennis_ball', 0.52698636, u'web_site', 0.13094242, u'rugby_ball', 0.066240221, u'racket', 0.058633443, u'golf_ball', 0.052457478]
+[u'triumphal_arch', 0.67863649, u'mosque', 0.052430935, u'palace', 0.050397001, u'monastery', 0.047831055, u'pedestal', 0.035180062]
