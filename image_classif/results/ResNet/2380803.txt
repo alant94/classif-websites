@@ -1,0 +1,2 @@
+[u'swing', 0.15217467, u'greenhouse', 0.14953785, u'lawn_mower', 0.069159456, u'go-kart', 0.055299442, u'tricycle', 0.04052132]
+[u'grocery_store', 0.15353891, u'llama', 0.12750961, u'paintbrush', 0.068528585, u'lab_coat', 0.043261323, u'restaurant', 0.037117034]

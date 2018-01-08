@@ -1,0 +1,4 @@
+[u'cardigan', 0.37349349, u'stole', 0.20859796, u'kimono', 0.04205462, u'poncho', 0.037994377, u'wig', 0.03631366]
+[u'suit', 0.66461551, u'Windsor_tie', 0.13531475, u'Kerry_blue_terrier', 0.051679637, u'groom', 0.032776225, u'Dandie_Dinmont', 0.0083467579]
+[u'book_jacket', 0.94137442, u'brass', 0.032462135, u'menu', 0.014696047, u'ashcan', 0.0035983624, u'safe', 0.0012555764]
+[u'tripod', 0.26720679, u'balance_beam', 0.11910041, u'swing', 0.10302731, u'hook', 0.051430751, u'bow', 0.034899443]

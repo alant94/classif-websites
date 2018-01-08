@@ -1,0 +1,4 @@
+[u'television', 0.52834803, u'entertainment_center', 0.1673307, u'monitor', 0.10312042, u'screen', 0.067716308, u'home_theater', 0.044885557]
+[u'lab_coat', 0.39569759, u'barbershop', 0.2273683, u'restaurant', 0.10186496, u'barber_chair', 0.067597367, u'microwave', 0.030076297]
+[u'web_site', 0.55328864, u'monitor', 0.18433538, u'screen', 0.1188963, u'television', 0.054112904, u'hand-held_computer', 0.017445443]
+[u'file', 0.072599337, u'carton', 0.07067091, u'screen', 0.057962276, u'toilet_tissue', 0.03532619, u'paper_towel', 0.028719906]

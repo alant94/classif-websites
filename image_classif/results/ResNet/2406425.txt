@@ -1,0 +1,6 @@
+[u'web_site', 0.42267033, u'ski', 0.033003002, u'crossword_puzzle', 0.027370458, u'lipstick', 0.025179416, u'digital_clock', 0.023846975]
+[u'web_site', 0.45871326, u'digital_clock', 0.23406091, u'Band_Aid', 0.024462104, u'digital_watch', 0.023286873, u'ski', 0.010390427]
+[u'digital_clock', 0.96765387, u'digital_watch', 0.015635479, u'web_site', 0.0053061647, u'analog_clock', 0.0015937885, u'stopwatch', 0.0015861411]
+[u'digital_clock', 0.94430363, u'digital_watch', 0.044739794, u'screen', 0.0023318382, u'stopwatch', 0.0022795575, u'scoreboard', 0.0014896975]
+[u'web_site', 0.7264083, u'whistle', 0.025029354, u'nipple', 0.012512182, u'hair_spray', 0.0090366974, u'toilet_seat', 0.00591037]
+[u'bee', 0.35485485, u'picket_fence', 0.19016178, u'sulphur_butterfly', 0.13579808, u'cardoon', 0.033606786, u'monarch', 0.032096777]

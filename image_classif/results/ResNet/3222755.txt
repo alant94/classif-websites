@@ -1,0 +1,4 @@
+[u'envelope', 0.050356034, u'lighter', 0.039772648, u'washer', 0.039231796, u'refrigerator', 0.034398094, u'hourglass', 0.032506332]
+[u'scabbard', 0.51651734, u'cleaver', 0.15051006, u'hammer', 0.090483487, u'letter_opener', 0.037405331, u'bassoon', 0.03434084]
+[u'rock_beauty', 0.099245608, u'lighter', 0.064553998, u'digital_clock', 0.049815405, u'book_jacket', 0.03770031, u'Band_Aid', 0.034824036]
+[u'web_site', 0.60294974, u'book_jacket', 0.0274207, u'envelope', 0.026479652, u'comic_book', 0.015297079, u'menu', 0.014938776]

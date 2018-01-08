@@ -1,0 +1,1 @@
+[u'street_sign', 0.34754312, u'scoreboard', 0.23873991, u'moving_van', 0.094727285, u'mountain_bike', 0.017307105, u'pole', 0.014361511]

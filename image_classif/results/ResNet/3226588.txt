@@ -1,0 +1,4 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'folding_chair', 0.15461729, u'rocking_chair', 0.13743412, u'doormat', 0.098472215, u'lighter', 0.095568873, u'scale', 0.082375862]
+[u'brass', 0.34396261, u'menu', 0.31908113, u'barbershop', 0.022643087, u'whiskey_jug', 0.020994524, u'barrel', 0.019390631]
+[u'suit', 0.44376838, u'groom', 0.16860375, u'bookshop', 0.053869776, u'tobacco_shop', 0.036636319, u'lab_coat', 0.026356196]

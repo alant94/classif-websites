@@ -1,0 +1,4 @@
+[u'car_wheel', 0.30925342, u'racer', 0.2718136, u'tractor', 0.11428996, u'ashcan', 0.062029786, u'minibus', 0.035111666]
+[u'hand_blower', 0.41861409, u'car_wheel', 0.089866795, u'ashcan', 0.081617802, u'racer', 0.068124942, u'electric_fan', 0.047036298]
+[u'stove', 0.36385319, u'switch', 0.25922474, u'ashcan', 0.21727557, u'reflex_camera', 0.02607497, u'printer', 0.016333507]
+[u'oil_filter', 0.23215914, u'hand_blower', 0.18402678, u'car_wheel', 0.15838221, u'racer', 0.14019325, u'electric_fan', 0.11793169]

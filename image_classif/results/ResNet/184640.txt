@@ -1,0 +1,2 @@
+[u'web_site', 0.086897247, u'barbershop', 0.043666787, u'book_jacket', 0.022469517, u'paper_towel', 0.021671224, u'tobacco_shop', 0.017410412]
+[u'warplane', 0.65841186, u'wing', 0.14811194, u'projectile', 0.14210585, u'missile', 0.037153028, u'airliner', 0.0063824286]

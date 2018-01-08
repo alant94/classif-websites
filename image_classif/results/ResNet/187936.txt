@@ -1,0 +1,3 @@
+[u'web_site', 0.17204711, u'crossword_puzzle', 0.035782047, u'screw', 0.027334005, u'rifle', 0.023134993, u'menu', 0.020476637]
+[u'web_site', 0.33235958, u'menu', 0.27245376, u'envelope', 0.0695877, u'crossword_puzzle', 0.033687115, u'screw', 0.026234575]
+[u'spider_web', 0.39836857, u'book_jacket', 0.1684773, u'menu', 0.054733224, u'bookshop', 0.032518405, u'plastic_bag', 0.02701615]

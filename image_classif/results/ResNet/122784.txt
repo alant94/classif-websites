@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.12637976, u'shoe_shop', 0.12461066, u'cowboy_boot', 0.087661669, u'barrel', 0.073360525, u'shovel', 0.045534998]
+[u'comic_book', 0.15657468, u'laptop', 0.12261883, u'web_site', 0.035791386, u'refrigerator', 0.033490203, u'menu', 0.032404654]
+[u'table_lamp', 0.36870959, u'fountain', 0.14457586, u'lampshade', 0.12894149, u'altar', 0.083483197, u'spotlight', 0.041015659]
+[u'cornet', 0.34146351, u'safety_pin', 0.33011267, u'hook', 0.19174306, u'padlock', 0.014833516, u'barbershop', 0.012049584]
+[u'hook', 0.15907317, u'stopwatch', 0.072814211, u'swing', 0.062954508, u'paintbrush', 0.042468406, u'power_drill', 0.029019136]

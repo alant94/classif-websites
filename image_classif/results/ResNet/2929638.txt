@@ -1,0 +1,1 @@
+[u'palace', 0.17069344, u'manhole_cover', 0.15940936, u'library', 0.057289325, u'cab', 0.044895153, u'castle', 0.030357571]

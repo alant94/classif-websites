@@ -1,0 +1,3 @@
+[u'lakeside', 0.07763274, u'web_site', 0.061129797, u'television', 0.055247504, u'geyser', 0.044760704, u'window_screen', 0.035391565]
+[u'magnetic_compass', 0.10716251, u'solar_dish', 0.10357851, u'freight_car', 0.059564281, u'electric_fan', 0.051561672, u'scoreboard', 0.039435934]
+[u'swing', 0.40389097, u'wallaby', 0.1099966, u'water_buffalo', 0.04415613, u'triceratops', 0.038143672, u'ox', 0.032662656]

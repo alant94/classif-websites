@@ -1,0 +1,2 @@
+[u'brassiere', 0.15149221, u'analog_clock', 0.081980936, u'castle', 0.049431235, u'web_site', 0.045608006, u'poncho', 0.034241531]
+[u'nail', 0.34596276, u'screw', 0.161503, u'web_site', 0.038004711, u'hook', 0.033547454, u'assault_rifle', 0.025000645]

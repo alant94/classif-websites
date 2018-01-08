@@ -1,0 +1,8 @@
+[u'vestment', 0.48055306, u'kimono', 0.088370338, u'stage', 0.068033211, u'torch', 0.061013836, u'maypole', 0.033499748]
+[u'pickup', 0.10390852, u'minibus', 0.068316855, u'tow_truck', 0.063863799, u'racer', 0.062630892, u'streetcar', 0.055585563]
+[u'envelope', 0.5136264, u'web_site', 0.39923897, u'menu', 0.027151018, u'sunglasses', 0.0020221027, u'rifle', 0.0018759107]
+[u'vestment', 0.3136881, u'kimono', 0.13482155, u'stage', 0.11551281, u'butcher_shop', 0.089341946, u'lab_coat', 0.043644849]
+[u'pick', 0.44784275, u'lampshade', 0.17975411, u'spotlight', 0.042864207, u'table_lamp', 0.03892285, u'television', 0.037480321]
+[u'kimono', 0.28466827, u'sarong', 0.23930562, u'groom', 0.15565203, u'fountain', 0.073323846, u'torch', 0.047619551]
+[u'grocery_store', 0.17363393, u'kimono', 0.053267393, u'comic_book', 0.04271321, u'bookshop', 0.039517071, u'confectionery', 0.038398985]
+[u'kimono', 0.41141385, u'sarong', 0.12670305, u'grocery_store', 0.076260403, u'steel_drum', 0.062169731, u'apron', 0.037835151]

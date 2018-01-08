@@ -1,0 +1,3 @@
+[u'jersey', 0.14600654, u'book_jacket', 0.055106808, u'centipede', 0.027845513, u'bearskin', 0.02397682, u'web_site', 0.023852479]
+[u'shield', 0.36013982, u'gong', 0.35551083, u'bolo_tie', 0.036495209, u'pick', 0.032863248, u'thimble', 0.025048269]
+[u'Irish_setter', 0.344531, u'proboscis_monkey', 0.10554685, u'book_jacket', 0.056907937, u'gyromitra', 0.040315859, u'bloodhound', 0.038092904]

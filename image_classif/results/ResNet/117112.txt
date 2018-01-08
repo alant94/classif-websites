@@ -1,0 +1,2 @@
+[u'cuirass', 0.1491999, u'bulletproof_vest', 0.10393352, u'breastplate', 0.067971595, u'Bouvier_des_Flandres', 0.030533256, u'coho', 0.026026782]
+[u'maypole', 0.77425379, u'stretcher', 0.11900127, u'paddle', 0.036362592, u'EntleBucher', 0.0098460903, u'plunger', 0.0055232933]

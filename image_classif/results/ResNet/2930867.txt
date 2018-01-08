@@ -1,0 +1,8 @@
+[u'jersey', 0.15163824, u'screen', 0.078980699, u'web_site', 0.075870946, u'envelope', 0.066502266, u'digital_clock', 0.03877924]
+[u'web_site', 0.11834495, u'jersey', 0.066801384, u'screen', 0.044513345, u'envelope', 0.036478352, u'book_jacket', 0.018967787]
+[u'web_site', 0.081717841, u'screen', 0.075198084, u'jersey', 0.070314601, u'monitor', 0.034683179, u'envelope', 0.030715041]
+[u'web_site', 0.099242046, u'envelope', 0.063413009, u'screen', 0.059827838, u'jersey', 0.052111156, u'monitor', 0.044975653]
+[u'jersey', 0.17025085, u'digital_clock', 0.12877008, u'screen', 0.079886109, u'web_site', 0.043059748, u'scuba_diver', 0.034974389]
+[u'crossword_puzzle', 0.39630148, u'screw', 0.050799515, u'rifle', 0.039672349, u'nail', 0.025638673, u'oboe', 0.023350278]
+[u'nail', 0.24569064, u'hook', 0.17470326, u'safety_pin', 0.10870832, u'rule', 0.10527774, u'chime', 0.049484786]
+[u'screen', 0.076627471, u'jersey', 0.061225936, u'refrigerator', 0.053128969, u'web_site', 0.047512244, u'laptop', 0.036690693]

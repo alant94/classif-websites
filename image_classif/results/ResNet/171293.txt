@@ -1,0 +1,6 @@
+[u'puck', 0.23937491, u'drum', 0.10891703, u'packet', 0.041323233, u'chocolate_sauce', 0.038390219, u'bottlecap', 0.027689144]
+[u'gown', 0.29412594, u'wig', 0.076389223, u'iron', 0.042039722, u'stole', 0.038979702, u'hair_spray', 0.03484476]
+[u'web_site', 0.98004639, u'menu', 0.0018397778, u'screen', 0.0017354679, u'book_jacket', 0.0014418289, u'envelope', 0.001317249]
+[u'killer_whale', 0.33160695, u'volcano', 0.1133994, u'tiger_shark', 0.065449275, u'spotlight', 0.053324439, u'monitor', 0.036819924]
+[u'sunscreen', 0.12405038, u'web_site', 0.10647097, u'coffee_mug', 0.048306257, u'safety_pin', 0.037602391, u'hair_spray', 0.030952863]
+[u'web_site', 0.28423995, u'hair_spray', 0.15602076, u'pick', 0.038704917, u'matchstick', 0.034677874, u'book_jacket', 0.014515278]

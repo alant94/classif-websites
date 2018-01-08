@@ -1,0 +1,1 @@
+[u'pick', 0.68597758, u'coffee_mug', 0.047065124, u'football_helmet', 0.027232606, u'cowboy_hat', 0.017050726, u'sweatshirt', 0.016536679]

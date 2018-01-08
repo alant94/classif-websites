@@ -1,0 +1,2 @@
+[u'church', 0.906317, u'mosque', 0.057412144, u'dome', 0.006635007, u'bell_cote', 0.0064211744, u'monastery', 0.0059092664]
+[u'web_site', 0.14452934, u'comic_book', 0.1098171, u'bow', 0.043318566, u'rifle', 0.023466878, u'crutch', 0.022364059]

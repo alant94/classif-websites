@@ -1,0 +1,7 @@
+[u'brassiere', 0.15582795, u'pole', 0.14451671, u'maillot', 0.1403603, u'chain', 0.11981358, u'bikini', 0.10598286]
+[u'toilet_seat', 0.84971917, u'scale', 0.024691109, u'toilet_tissue', 0.019796791, u'jean', 0.0054256269, u'plunger', 0.0051806518]
+[u'comic_book', 0.52911097, u'jigsaw_puzzle', 0.11590052, u'web_site', 0.091928691, u'book_jacket', 0.063435607, u'envelope', 0.023608856]
+[u'butcher_shop', 0.10527639, u'volleyball', 0.094970621, u'picket_fence', 0.091511525, u'sweatshirt', 0.046355903, u'comic_book', 0.04595191]
+[u'web_site', 0.38201195, u'comic_book', 0.062569104, u'pick', 0.056076661, u'stopwatch', 0.045582395, u'book_jacket', 0.035497338]
+[u'picket_fence', 0.65017998, u'boathouse', 0.063615359, u'patio', 0.054003101, u'mobile_home', 0.047164503, u'sliding_door', 0.018447801]
+[u'barbershop', 0.28499106, u'picket_fence', 0.20908256, u'prison', 0.090942264, u'comic_book', 0.081959777, u'lab_coat', 0.029456697]

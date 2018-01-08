@@ -1,0 +1,1 @@
+[u'stage', 0.26761189, u'marimba', 0.089752607, u'butcher_shop', 0.084534734, u'grocery_store', 0.076839209, u'steel_drum', 0.068115503]

@@ -1,0 +1,4 @@
+[u'umbrella', 0.4325507, u'sea_urchin', 0.27205881, u'paddlewheel', 0.10153858, u'wall_clock', 0.048848405, u'coil', 0.03743048]
+[u'cello', 0.062315725, u'brass', 0.048014093, u'acoustic_guitar', 0.045712277, u'assault_rifle', 0.042664804, u'jigsaw_puzzle', 0.037221655]
+[u'book_jacket', 0.96846861, u'web_site', 0.0058009918, u'cassette', 0.0037150763, u'Polaroid_camera', 0.002565041, u'bow_tie', 0.0016772907]
+[u'comic_book', 0.35419551, u'church', 0.2944814, u'altar', 0.16272876, u'jigsaw_puzzle', 0.076066695, u'palace', 0.012761177]

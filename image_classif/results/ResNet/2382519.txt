@@ -1,0 +1,1 @@
+[u'sombrero', 0.23456319, u'cloak', 0.19743593, u'buckle', 0.038009603, u'sweatshirt', 0.031238845, u'cowboy_hat', 0.024493929]

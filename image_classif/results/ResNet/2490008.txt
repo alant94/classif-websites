@@ -1,0 +1,5 @@
+[u'wombat', 0.20031664, u'koala', 0.10689739, u'barbershop', 0.040569771, u'Border_terrier', 0.037567679, u'fur_coat', 0.032054696]
+[u'web_site', 0.079115584, u'oscilloscope', 0.070259735, u'cleaver', 0.039543517, u'hair_spray', 0.037631057, u'cornet', 0.032257151]
+[u'ashcan', 0.22133203, u'coffee_mug', 0.15934545, u'water_bottle', 0.034376446, u'carton', 0.030361421, u'laptop', 0.018813893]
+[u'barbershop', 0.92440528, u'syringe', 0.013013124, u'lab_coat', 0.010031215, u'barber_chair', 0.0083934069, u'neck_brace', 0.0070430613]
+[u'lab_coat', 0.48918518, u'mortarboard', 0.083010018, u'stethoscope', 0.065459058, u'suit', 0.052285053, u'oboe', 0.030706035]

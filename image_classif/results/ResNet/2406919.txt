@@ -1,0 +1,2 @@
+[u'stove', 0.13095155, u'upright', 0.11102135, u'desk', 0.10011127, u'desktop_computer', 0.077799611, u'organ', 0.059415337]
+[u'mousetrap', 0.12294704, u'submarine', 0.10491426, u'espresso_maker', 0.085879743, u'half_track', 0.051295862, u'lawn_mower', 0.048036087]

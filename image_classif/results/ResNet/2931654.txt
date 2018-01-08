@@ -1,0 +1,4 @@
+[u'web_site', 0.12722519, u'envelope', 0.067090839, u'dishwasher', 0.031943273, u'cleaver', 0.017104447, u'can_opener', 0.015751312]
+[u'web_site', 0.53504753, u'envelope', 0.034217432, u'digital_clock', 0.029117076, u'dumbbell', 0.015598668, u'analog_clock', 0.013490423]
+[u'sock', 0.14582416, u'rocking_chair', 0.087507971, u'Christmas_stocking', 0.072939731, u'hook', 0.050639283, u'rubber_eraser', 0.044453379]
+[u'snorkel', 0.37728626, u'swab', 0.34489977, u'parachute', 0.045370929, u'bow', 0.038825877, u'shovel', 0.019053653]

@@ -1,0 +1,6 @@
+[u'stethoscope', 0.98011369, u'bolo_tie', 0.0095843617, u'lab_coat', 0.0040973062, u'pajama', 0.0010696242, u'hair_spray', 0.00097628648]
+[u'boathouse', 0.32987922, u'barn', 0.13324384, u'beacon', 0.08074145, u'picket_fence', 0.075493939, u'church', 0.043838747]
+[u'web_site', 0.20048639, u'ocarina', 0.072093472, u'pick', 0.033860259, u'whistle', 0.031174617, u'comic_book', 0.025957204]
+[u'menu', 0.71381491, u'book_jacket', 0.15375854, u'brass', 0.098186485, u'packet', 0.0046370616, u'binder', 0.0040582544]
+[u'pajama', 0.83456635, u'sarong', 0.13818499, u'kimono', 0.016372429, u'apron', 0.0016017805, u'maillot', 0.0013205071]
+[u'Band_Aid', 0.10834491, u'shield', 0.071782999, u'street_sign', 0.03791637, u'web_site', 0.037019201, u'church', 0.027180688]

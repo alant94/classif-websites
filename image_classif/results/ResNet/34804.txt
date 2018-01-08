@@ -1,0 +1,2 @@
+[u'web_site', 0.88504761, u'bannister', 0.042639811, u'jean', 0.0052410136, u'sunglass', 0.0045982157, u'Windsor_tie', 0.0044645201]
+[u'balance_beam', 0.93244094, u'pole', 0.017840067, u'horizontal_bar', 0.017220736, u'unicycle', 0.016394949, u'stage', 0.0032243568]

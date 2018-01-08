@@ -1,0 +1,1 @@
+[u'rubber_eraser', 0.34349325, u'quill', 0.23815556, u'paintbrush', 0.094401754, u'ballpoint', 0.087909155, u'pencil_box', 0.04528949]

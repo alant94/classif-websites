@@ -1,0 +1,8 @@
+[u'book_jacket', 0.68460238, u'comic_book', 0.055124279, u'packet', 0.021148097, u'lighter', 0.01488413, u'buckle', 0.014268631]
+[u'crossword_puzzle', 0.9647879, u'toilet_seat', 0.018857429, u'paper_towel', 0.0013924334, u'organ', 0.0013144565, u'washbasin', 0.0010774647]
+[u'comic_book', 0.33961445, u'web_site', 0.2476669, u'book_jacket', 0.096527025, u'jigsaw_puzzle', 0.082640037, u'slot', 0.050317876]
+[u'hair_spray', 0.64970756, u'cinema', 0.10253763, u'ice_lolly', 0.087494388, u'lighter', 0.056911588, u'lipstick', 0.011634708]
+[u'picket_fence', 0.67826772, u'crossword_puzzle', 0.20988883, u'organ', 0.021558028, u'church', 0.0089335637, u'whistle', 0.0070882519]
+[u'crossword_puzzle', 0.39979827, u'toilet_seat', 0.086009786, u'whistle', 0.041455608, u'paper_towel', 0.036845617, u'organ', 0.033610076]
+[u'web_site', 0.25588891, u'Polaroid_camera', 0.1137246, u'muzzle', 0.061553884, u'bulletproof_vest', 0.041425962, u'tripod', 0.039417576]
+[u'crossword_puzzle', 0.95403504, u'picket_fence', 0.013780749, u'organ', 0.011846057, u'toilet_seat', 0.0021962463, u'sea_snake', 0.0012706135]

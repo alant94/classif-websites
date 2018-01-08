@@ -1,0 +1,4 @@
+[u'hartebeest', 0.27045292, u'Indian_elephant', 0.2412343, u'warthog', 0.10168492, u'tusker', 0.079719312, u'triceratops', 0.059024114]
+[u'ox', 0.38816133, u'plow', 0.2300247, u'hartebeest', 0.094555929, u'warthog', 0.074601993, u'gazelle', 0.031253997]
+[u'American_black_bear', 0.50815028, u'hippopotamus', 0.18160348, u'mink', 0.049588762, u'chimpanzee', 0.048946995, u'sloth_bear', 0.033722814]
+[u'lakeside', 0.26615024, u'viaduct', 0.11360595, u'television', 0.096479215, u'church', 0.064893648, u'geyser', 0.046320558]

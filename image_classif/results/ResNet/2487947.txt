@@ -1,0 +1,2 @@
+[u'tailed_frog', 0.40044957, u'bullfrog', 0.24142498, u'wood_rabbit', 0.05061242, u'tree_frog', 0.031669058, u'ruffed_grouse', 0.030311422]
+[u'loupe', 0.21417195, u'toilet_seat', 0.093671575, u'buckle', 0.068374455, u'drum', 0.054748777, u'gong', 0.053842358]

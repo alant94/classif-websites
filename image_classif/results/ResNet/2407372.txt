@@ -1,0 +1,1 @@
+[u'fountain', 0.35943237, u'mosquito_net', 0.06468977, u'paintbrush', 0.054201107, u'hair_spray', 0.04192153, u'wig', 0.031695679]

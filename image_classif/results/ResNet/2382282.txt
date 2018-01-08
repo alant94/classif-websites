@@ -1,0 +1,7 @@
+[u'pole', 0.46129763, u'crane', 0.35101572, u'totem_pole', 0.048439037, u'parachute', 0.016593043, u'obelisk', 0.015663723]
+[u'church', 0.79878533, u'barn', 0.074494787, u'castle', 0.045817152, u'beacon', 0.014461333, u'monastery', 0.0077126888]
+[u'web_site', 0.5958187, u'envelope', 0.032733157, u'stopwatch', 0.028773839, u'cornet', 0.025728116, u'jersey', 0.019036809]
+[u'street_sign', 0.25337979, u'buckle', 0.11025052, u'shield', 0.096455857, u'puck', 0.065986052, u'book_jacket', 0.058641907]
+[u'wine_bottle', 0.93633419, u'grille', 0.00782838, u'red_wine', 0.0061476547, u'spatula', 0.0061042709, u'organ', 0.0042690947]
+[u'corn', 0.54135883, u'ear', 0.2455273, u'honeycomb', 0.03913901, u'custard_apple', 0.035501603, u'lemon', 0.015437843]
+[u'rapeseed', 0.8990618, u'barn', 0.0099454867, u'castle', 0.0094782598, u'fountain', 0.0073692161, u'monastery', 0.0038905025]

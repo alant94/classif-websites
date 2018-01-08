@@ -1,0 +1,8 @@
+[u'Airedale', 0.36607638, u'golden_retriever', 0.13149561, u'Labrador_retriever', 0.10090015, u'kuvasz', 0.095155448, u'Lakeland_terrier', 0.0843888]
+[u'coho', 0.24342021, u'ski', 0.099160038, u'snowmobile', 0.03600337, u'canoe', 0.035248511, u'sturgeon', 0.025126938]
+[u'black_grouse', 0.25068089, u'king_snake', 0.15152526, u'European_gallinule', 0.14426947, u'oystercatcher', 0.11936146, u'lorikeet', 0.040586241]
+[u'prairie_chicken', 0.40472558, u'partridge', 0.34085733, u'ruffed_grouse', 0.12821572, u'black_grouse', 0.10929222, u'coucal', 0.0080092652]
+[u'worm_fence', 0.39963976, u'castle', 0.091606393, u'viaduct', 0.078990884, u'steel_arch_bridge', 0.077034302, u'pier', 0.047402825]
+[u'valley', 0.42195049, u'rapeseed', 0.24696657, u'balloon', 0.092747606, u'alp', 0.042991441, u'parachute', 0.028697584]
+[u'oboe', 0.21146132, u'bassoon', 0.20273779, u'snorkel', 0.085635506, u'reel', 0.072560526, u'chain_saw', 0.036578085]
+[u'swing', 0.54840779, u'suspension_bridge', 0.11067524, u'ambulance', 0.028572401, u'coho', 0.027794458, u'kimono', 0.018803693]

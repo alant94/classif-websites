@@ -1,0 +1,1 @@
+[u'scoreboard', 0.1786682, u'cash_machine', 0.12618977, u'barbershop', 0.12472645, u'moving_van', 0.082982793, u'web_site', 0.050160445]

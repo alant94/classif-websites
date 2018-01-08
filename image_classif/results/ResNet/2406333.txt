@@ -1,0 +1,8 @@
+[u'comic_book', 0.49877647, u'envelope', 0.19831312, u'hair_slide', 0.14599048, u'menu', 0.027546536, u'web_site', 0.018336724]
+[u'menu', 0.51353562, u'web_site', 0.34434432, u'envelope', 0.030154714, u'packet', 0.028547894, u'comic_book', 0.022121748]
+[u'hair_spray', 0.46292907, u'web_site', 0.17865291, u'pill_bottle', 0.015658693, u'lotion', 0.010058077, u'face_powder', 0.0081231464]
+[u'digital_clock', 0.12459759, u'screw', 0.064007401, u'Band_Aid', 0.038917411, u'web_site', 0.026836857, u'digital_watch', 0.025105398]
+[u'fountain', 0.25510499, u'digital_clock', 0.17616829, u'toaster', 0.11567158, u'syringe', 0.10902223, u'whistle', 0.09692689]
+[u'crossword_puzzle', 0.76981699, u'quilt', 0.078800991, u'tray', 0.035826199, u'hamper', 0.016633835, u'prayer_rug', 0.014246588]
+[u'crossword_puzzle', 0.82163286, u'digital_clock', 0.053059556, u'maze', 0.046281841, u'prayer_rug', 0.016596885, u'pillow', 0.0084853033]
+[u'web_site', 0.77425039, u'envelope', 0.080733307, u'menu', 0.044132374, u'comic_book', 0.0092389882, u'laptop', 0.0060886699]

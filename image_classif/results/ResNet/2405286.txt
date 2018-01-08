@@ -1,0 +1,5 @@
+[u'giant_schnauzer', 0.20033956, u'Labrador_retriever', 0.18268874, u'Bouvier_des_Flandres', 0.15588924, u'Staffordshire_bullterrier', 0.070845813, u'pug', 0.068604194]
+[u'hair_slide', 0.70472771, u'banjo', 0.12352519, u'chain', 0.050634336, u'buckle', 0.046310022, u'bottlecap', 0.017863505]
+[u'seat_belt', 0.36841044, u'slide_rule', 0.19439822, u'television', 0.16157699, u'Band_Aid', 0.054624029, u'scabbard', 0.017533656]
+[u'buckle', 0.15491705, u'ballpoint', 0.091525182, u'drumstick', 0.068436652, u'flute', 0.054231893, u'wool', 0.047152955]
+[u'quilt', 0.34210581, u'doormat', 0.035348415, u'studio_couch', 0.034170799, u'jean', 0.022010744, u'iron', 0.016908731]

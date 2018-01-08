@@ -1,0 +1,5 @@
+[u'packet', 0.34428167, u'web_site', 0.15920569, u'Lakeland_terrier', 0.056446251, u'Norfolk_terrier', 0.051283192, u'Border_terrier', 0.04399104]
+[u'web_site', 0.90751308, u'standard_schnauzer', 0.0440749, u'Chihuahua', 0.011283072, u'muzzle', 0.0065952307, u'pug', 0.0046094367]
+[u'packet', 0.5084886, u'binder', 0.099238768, u'book_jacket', 0.053040583, u'web_site', 0.039423835, u'envelope', 0.024470648]
+[u'packet', 0.59112614, u'web_site', 0.13865153, u'cassette', 0.021163762, u'binder', 0.018676268, u'Band_Aid', 0.0097570559]
+[u'packet', 0.65017825, u'Band_Aid', 0.18433598, u'plastic_bag', 0.01963973, u'web_site', 0.014117571, u'lotion', 0.0089917202]

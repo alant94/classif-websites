@@ -1,0 +1,4 @@
+[u'malamute', 0.34713444, u'assault_rifle', 0.14346853, u'military_uniform', 0.060051311, u'horse_cart', 0.032697096, u'Eskimo_dog', 0.027639952]
+[u'chain_saw', 0.91566277, u'snowmobile', 0.052580807, u'snowplow', 0.0097182197, u'Gordon_setter', 0.0024357142, u'Weimaraner', 0.0019975333]
+[u'cougar', 0.7093361, u'wild_boar', 0.17472647, u'ibex', 0.069784917, u'hog', 0.028708912, u'bison', 0.005132426]
+[u'oil_filter', 0.35244685, u'tennis_ball', 0.10539458, u'paper_towel', 0.036658689, u'punching_bag', 0.035449218, u'racket', 0.033581324]

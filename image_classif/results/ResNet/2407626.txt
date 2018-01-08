@@ -1,0 +1,4 @@
+[u'plunger', 0.48978898, u'dumbbell', 0.10576864, u'oxygen_mask', 0.090039812, u'gasmask', 0.056828085, u'spotlight', 0.047871161]
+[u'vacuum', 0.2216035, u'racer', 0.15149519, u'cassette_player', 0.072335064, u'iron', 0.038162712, u'bobsled', 0.036276728]
+[u'garbage_truck', 0.21859273, u'scoreboard', 0.10168415, u'modem', 0.085846342, u'scale', 0.043760721, u'stretcher', 0.025838258]
+[u'chain_saw', 0.11792433, u'typewriter_keyboard', 0.10056116, u'space_bar', 0.069773033, u'printer', 0.068763204, u'joystick', 0.064736925]

@@ -1,0 +1,6 @@
+[u'hippopotamus', 0.52429551, u'Mexican_hairless', 0.15632218, u'dugong', 0.093143709, u'Band_Aid', 0.048489109, u'armadillo', 0.033375211]
+[u'barbershop', 0.76162565, u'cellular_telephone', 0.075722337, u'oxygen_mask', 0.017245486, u'tub', 0.015977129, u'sunscreen', 0.014836426]
+[u'sunscreen', 0.16936065, u'Band_Aid', 0.1409535, u'hippopotamus', 0.1360345, u'bathtub', 0.120339, u'tub', 0.059249848]
+[u'bathtub', 0.4994567, u'brassiere', 0.11996876, u'maillot', 0.095684931, u'tub', 0.066825353, u'hair_spray', 0.030038591]
+[u'gown', 0.25212929, u'groom', 0.20863436, u'hoopskirt', 0.11240853, u'miniskirt', 0.074097037, u'maillot', 0.062560469]
+[u'toilet_tissue', 0.42746016, u'gown', 0.21257699, u'paper_towel', 0.12344335, u'groom', 0.098139346, u'diaper', 0.055313312]

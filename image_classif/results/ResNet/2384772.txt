@@ -1,0 +1,4 @@
+[u'comic_book', 0.14759453, u'book_jacket', 0.10696388, u'pick', 0.10336444, u'jersey', 0.089112341, u'web_site', 0.060130272]
+[u'solar_dish', 0.28424495, u'birdhouse', 0.064697117, u'poncho', 0.054184362, u'carton', 0.047053304, u'medicine_chest', 0.044454232]
+[u'red_wine', 0.85762924, u'goblet', 0.03272501, u'restaurant', 0.019731803, u'wine_bottle', 0.017234692, u'plate', 0.0096058976]
+[u'beer_bottle', 0.39887547, u'tobacco_shop', 0.12216587, u'wine_bottle', 0.10195306, u'pop_bottle', 0.049444329, u'barbershop', 0.02638315]

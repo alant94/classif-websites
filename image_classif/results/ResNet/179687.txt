@@ -1,0 +1,2 @@
+[u'web_site', 0.41159979, u'envelope', 0.19244766, u'shower_curtain', 0.014684806, u'binder', 0.011114147, u'wall_clock', 0.010566417]
+[u'comic_book', 0.37947321, u'book_jacket', 0.20781106, u'plunger', 0.12565336, u'punching_bag', 0.063328944, u'hair_spray', 0.021275222]

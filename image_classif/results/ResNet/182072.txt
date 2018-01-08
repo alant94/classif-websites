@@ -1,0 +1,6 @@
+[u'web_site', 0.99990261, u'notebook', 1.4651453e-05, u'monitor', 1.2510163e-05, u'screen', 1.1422594e-05, u'hand-held_computer', 9.8408264e-06]
+[u'lotion', 0.1957553, u'sunscreen', 0.11249212, u'remote_control', 0.040183119, u'switch', 0.03725474, u'web_site', 0.034226507]
+[u'web_site', 0.9999541, u'menu', 1.1418923e-05, u'envelope', 5.2247842e-06, u'vending_machine', 4.4300828e-06, u'monitor', 2.9591426e-06]
+[u'web_site', 0.99947923, u'menu', 0.00017554808, u'analog_clock', 8.3877872e-05, u'washer', 2.8284187e-05, u'notebook', 2.5657951e-05]
+[u'Band_Aid', 0.37029701, u'hook', 0.054326128, u'whistle', 0.041477647, u'neck_brace', 0.030931566, u'spatula', 0.028447829]
+[u'web_site', 0.99863678, u'menu', 0.00039541771, u'vending_machine', 0.00037728576, u'gas_pump', 0.00010934781, u'carton', 6.3250598e-05]

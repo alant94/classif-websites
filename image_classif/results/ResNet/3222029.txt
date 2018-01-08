@@ -1,0 +1,5 @@
+[u'digital_clock', 0.42209521, u'analog_clock', 0.1560588, u'web_site', 0.11399446, u'stopwatch', 0.041968163, u'envelope', 0.022920428]
+[u'web_site', 0.34961453, u'digital_clock', 0.11005469, u'analog_clock', 0.082096055, u'panpipe', 0.055347502, u'envelope', 0.048518367]
+[u'tennis_ball', 0.25906816, u'ping-pong_ball', 0.10218966, u'solar_dish', 0.067181498, u'chambered_nautilus', 0.053661022, u'gong', 0.046385393]
+[u'web_site', 0.47477728, u'menu', 0.32100967, u'crossword_puzzle', 0.012808214, u'television', 0.010128726, u'envelope', 0.0068151345]
+[u'web_site', 0.62980491, u'analog_clock', 0.087388605, u'iPod', 0.0292888, u'remote_control', 0.025173511, u'digital_clock', 0.016910981]

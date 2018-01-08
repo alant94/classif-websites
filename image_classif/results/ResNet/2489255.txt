@@ -1,0 +1,7 @@
+[u'hare', 0.8580274, u'wallaby', 0.020078896, u'orangutan', 0.016231537, u'Irish_terrier', 0.0097158365, u'dhole', 0.0081659844]
+[u'hartebeest', 0.66558123, u'ibex', 0.13337941, u'ox', 0.095266715, u'impala', 0.025752386, u'oxcart', 0.014560287]
+[u'bison', 0.9110077, u'ox', 0.038046502, u'wild_boar', 0.027462106, u'ram', 0.0043238723, u'Tibetan_mastiff', 0.002923372]
+[u'lakeside', 0.47614023, u'boathouse', 0.17772694, u'canoe', 0.13823962, u'valley', 0.034052342, u'castle', 0.033713058]
+[u'plow', 0.82214987, u'sturgeon', 0.063293971, u'shovel', 0.033004284, u'jigsaw_puzzle', 0.013314134, u'malamute', 0.012331754]
+[u'chain_saw', 0.28483668, u'koala', 0.27680185, u'swing', 0.043314066, u'fountain', 0.027667027, u'parallel_bars', 0.018009607]
+[u'chain_saw', 0.60320747, u'brown_bear', 0.058516271, u'Chesapeake_Bay_retriever', 0.05495413, u'curly-coated_retriever', 0.031517107, u'bison', 0.029507598]

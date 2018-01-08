@@ -1,0 +1,1 @@
+[u'pill_bottle', 0.31669706, u'vending_machine', 0.19541585, u'packet', 0.16940792, u'paper_towel', 0.15215549, u'sunscreen', 0.036689304]

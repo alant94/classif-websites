@@ -1,0 +1,1 @@
+[u'lynx', 0.46497163, u'Egyptian_cat', 0.33714265, u'tabby', 0.11350165, u'tiger_cat', 0.064483143, u'leopard', 0.0058374926]

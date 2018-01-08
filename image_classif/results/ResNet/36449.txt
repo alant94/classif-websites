@@ -1,0 +1,8 @@
+[u'geyser', 0.13454224, u'Yorkshire_terrier', 0.10827653, u'snorkel', 0.10686576, u'Irish_setter', 0.05936081, u'fire_screen', 0.034518972]
+[u'pick', 0.79105997, u'sunglass', 0.046070118, u'ski', 0.018772287, u'paddle', 0.012443072, u'tennis_ball', 0.0091196001]
+[u'studio_couch', 0.23077704, u'umbrella', 0.20678239, u'stretcher', 0.098487027, u'crib', 0.076065987, u'sleeping_bag', 0.05187254]
+[u'book_jacket', 0.36331528, u'comic_book', 0.17013182, u'envelope', 0.067133702, u'doormat', 0.060325276, u'binder', 0.041180361]
+[u'digital_clock', 0.64428091, u'digital_watch', 0.16747966, u'scoreboard', 0.024480663, u'web_site', 0.024380222, u'stopwatch', 0.020556577]
+[u'digital_clock', 0.49004775, u'prayer_rug', 0.06735263, u'envelope', 0.058268689, u'street_sign', 0.043409862, u'screen', 0.034262042]
+[u'gown', 0.81343478, u'vase', 0.022364262, u'shower_cap', 0.015297212, u'overskirt', 0.012671123, u'perfume', 0.01052964]
+[u'digital_clock', 0.4890745, u'digital_watch', 0.095451377, u'book_jacket', 0.085229307, u'ambulance', 0.074918434, u'scoreboard', 0.062569477]

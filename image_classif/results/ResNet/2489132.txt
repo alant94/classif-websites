@@ -1,0 +1,1 @@
+[u'fountain', 0.82967162, u'geyser', 0.15937854, u'chainlink_fence', 0.0036863037, u'flagpole', 0.00044700835, u'pole', 0.00042507044]

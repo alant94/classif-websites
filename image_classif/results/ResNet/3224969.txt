@@ -1,0 +1,6 @@
+[u'envelope', 0.50964493, u'web_site', 0.25229469, u'rule', 0.014418059, u'hook', 0.014103648, u'analog_clock', 0.013436007]
+[u'television', 0.33001822, u'screen', 0.28572685, u'web_site', 0.10663644, u'menu', 0.098824158, u'book_jacket', 0.046954568]
+[u'barbershop', 0.21340102, u'oscilloscope', 0.19388162, u'fire_screen', 0.061463594, u'book_jacket', 0.058042333, u'jellyfish', 0.026338745]
+[u'web_site', 0.6783191, u'file', 0.06388358, u'medicine_chest', 0.017438194, u'ski', 0.0098331915, u'packet', 0.006526887]
+[u'book_jacket', 0.19338018, u'screen', 0.1341075, u'television', 0.084228694, u'monitor', 0.071657129, u'iPod', 0.048313383]
+[u'mask', 0.31619027, u'African_chameleon', 0.13186795, u'shovel', 0.074652649, u'hook', 0.054241832, u'poncho', 0.028349802]

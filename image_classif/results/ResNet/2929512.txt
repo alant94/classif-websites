@@ -1,0 +1,2 @@
+[u'web_site', 0.51558799, u'notebook', 0.044915926, u'lab_coat', 0.044467747, u'jean', 0.032470684, u'stethoscope', 0.029374922]
+[u'jean', 0.30629998, u'lab_coat', 0.21364208, u'suit', 0.057135761, u'trench_coat', 0.02910245, u'web_site', 0.028085226]

@@ -1,0 +1,1 @@
+[u'tray', 0.26369241, u'prayer_rug', 0.08890526, u'wall_clock', 0.063507155, u'shower_curtain', 0.060836185, u'book_jacket', 0.036723502]

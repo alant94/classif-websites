@@ -1,0 +1,2 @@
+[u'lighter', 0.30472565, u'mousetrap', 0.28751495, u'comic_book', 0.093748711, u'slot', 0.086499721, u'perfume', 0.038654495]
+[u'projectile', 0.66328466, u'missile', 0.17170832, u'warplane', 0.066687047, u'aircraft_carrier', 0.027056243, u'military_uniform', 0.0095155034]

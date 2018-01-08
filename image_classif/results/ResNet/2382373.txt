@@ -1,0 +1,3 @@
+[u'barn', 0.37513813, u'stupa', 0.15990879, u'alp', 0.15562418, u'church', 0.042307571, u'boathouse', 0.040938113]
+[u'rapeseed', 0.57298583, u'corn', 0.19375442, u'ear', 0.088901944, u'hay', 0.022712916, u'harvester', 0.01200329]
+[u'barn', 0.44270816, u'church', 0.13654883, u'thatch', 0.053103298, u'mobile_home', 0.045904905, u'worm_fence', 0.045055378]

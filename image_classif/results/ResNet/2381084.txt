@@ -1,0 +1,4 @@
+[u'lighter', 0.19616613, u'street_sign', 0.17967771, u'shield', 0.082752816, u'analog_clock', 0.057572119, u'digital_clock', 0.054719537]
+[u'book_jacket', 0.14484769, u'web_site', 0.12679224, u'abaya', 0.092093185, u'jersey', 0.059038561, u'hair_spray', 0.039221019]
+[u'lighter', 0.36549759, u'packet', 0.1114068, u'binder', 0.047345158, u'street_sign', 0.027394157, u'Band_Aid', 0.027017651]
+[u'analog_clock', 0.92222595, u'iPod', 0.026459245, u'wall_clock', 0.020907624, u'oscilloscope', 0.0086499462, u'magnetic_compass', 0.0028262006]

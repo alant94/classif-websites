@@ -1,0 +1,3 @@
+[u'panpipe', 0.12295698, u'envelope', 0.099857554, u'whistle', 0.086762458, u'pencil_sharpener', 0.039578736, u'swab', 0.029818583]
+[u'plunger', 0.10892209, u'projectile', 0.052205104, u'envelope', 0.047001243, u'spotlight', 0.044206943, u'nail', 0.028581521]
+[u'organ', 0.47681695, u'crossword_puzzle', 0.075868227, u'panpipe', 0.056797586, u'sea_snake', 0.046889842, u'marimba', 0.029675776]

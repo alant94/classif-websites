@@ -1,0 +1,4 @@
+[u'binoculars', 0.29439026, u'teapot', 0.058268122, u'iron', 0.044963703, u'comic_book', 0.043560266, u'book_jacket', 0.037769269]
+[u'comic_book', 0.98484105, u'jigsaw_puzzle', 0.009303919, u'book_jacket', 0.0029716869, u'web_site', 0.00057637686, u'envelope', 0.00038041617]
+[u'comic_book', 0.99113655, u'book_jacket', 0.0074003604, u'web_site', 0.00042576995, u'menu', 0.00017098147, u'bannister', 0.00010792689]
+[u'book_jacket', 0.26102668, u'comic_book', 0.17447276, u'hair_spray', 0.050245374, u'web_site', 0.03393383, u'street_sign', 0.02385208]

@@ -1,0 +1,6 @@
+[u'printer', 0.18897092, u'tow_truck', 0.11758609, u'photocopier', 0.11356192, u'moving_van', 0.10541253, u'half_track', 0.071823843]
+[u'bolo_tie', 0.19985434, u'whistle', 0.19609277, u'stopwatch', 0.066345491, u'ocarina', 0.029151687, u'microphone', 0.027153708]
+[u'space_bar', 0.66665494, u'laptop', 0.11005615, u'typewriter_keyboard', 0.07567028, u'notebook', 0.075477846, u'web_site', 0.04065109]
+[u'moving_van', 0.13065794, u'racer', 0.087239385, u'trailer_truck', 0.071073003, u'pickup', 0.065266728, u'tow_truck', 0.055914465]
+[u'television', 0.11187391, u'sports_car', 0.097555079, u'ambulance', 0.094307594, u'printer', 0.065228343, u'racer', 0.060262877]
+[u'web_site', 0.73525101, u'scoreboard', 0.074414395, u'crossword_puzzle', 0.03387177, u'comic_book', 0.017785873, u'cinema', 0.015651852]

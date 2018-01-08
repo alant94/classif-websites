@@ -1,0 +1,1 @@
+[u'collie', 0.13640232, u'English_springer', 0.07756827, u'borzoi', 0.071018115, u'Old_English_sheepdog', 0.052327637, u'jigsaw_puzzle', 0.038687553]

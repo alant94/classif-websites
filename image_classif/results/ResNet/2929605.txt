@@ -1,0 +1,1 @@
+[u'pick', 0.70798969, u'puck', 0.24964637, u'rugby_ball', 0.012164001, u'shield', 0.0050814766, u'remote_control', 0.0017233813]

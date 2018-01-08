@@ -1,0 +1,8 @@
+[u'Gordon_setter', 0.63471985, u'standard_poodle', 0.21752429, u'flat-coated_retriever', 0.09501899, u'English_setter', 0.011598589, u'curly-coated_retriever', 0.010670071]
+[u'altar', 0.82091063, u'Great_Dane', 0.018547043, u'jersey', 0.012226855, u'Italian_greyhound', 0.0099239433, u'pedestal', 0.0075509874]
+[u'paintbrush', 0.29514161, u'gas_pump', 0.20791407, u'altar', 0.045966916, u'monastery', 0.0453902, u'church', 0.03882467]
+[u'Great_Dane', 0.188686, u'dalmatian', 0.1134821, u'English_springer', 0.1042033, u'English_setter', 0.045910992, u'whippet', 0.045474622]
+[u'altar', 0.32778639, u'gas_pump', 0.1462851, u'paintbrush', 0.052183617, u'ski', 0.03082037, u'fountain', 0.019032797]
+[u'hartebeest', 0.34988657, u'whippet', 0.17346247, u'impala', 0.083709553, u'gazelle', 0.056272555, u'ram', 0.053456321]
+[u'Saluki', 0.35625988, u'English_foxhound', 0.27026474, u'Rhodesian_ridgeback', 0.11432242, u'whippet', 0.11122849, u'Great_Dane', 0.033463448]
+[u'muzzle', 0.16199531, u'Saluki', 0.12750311, u'EntleBucher', 0.10379808, u'Appenzeller', 0.0978911, u'kelpie', 0.065876476]

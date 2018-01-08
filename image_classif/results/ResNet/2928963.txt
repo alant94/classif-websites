@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.3874543, u'birdhouse', 0.11026641, u'paintbrush', 0.097894311, u'milk_can', 0.0392754, u'fountain', 0.034446195]
+[u'envelope', 0.25157574, u'web_site', 0.14918922, u'vase', 0.098534495, u'packet', 0.037434392, u'Granny_Smith', 0.02835813]
+[u'web_site', 0.29534298, u'envelope', 0.16901816, u'hair_slide', 0.046748854, u'packet', 0.044621792, u'book_jacket', 0.035071157]

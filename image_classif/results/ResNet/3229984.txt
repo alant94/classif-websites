@@ -1,0 +1,4 @@
+[u'ballpoint', 0.24984547, u'screwdriver', 0.1801862, u'medicine_chest', 0.041033566, u'lab_coat', 0.037618585, u'television', 0.025880175]
+[u'binder', 0.10793784, u'safe', 0.066552147, u'tape_player', 0.054031439, u'cash_machine', 0.044658676, u'modem', 0.040630654]
+[u'crossword_puzzle', 0.94598818, u'rubber_eraser', 0.013436101, u'rule', 0.011368076, u'bookcase', 0.0055145491, u'ballpoint', 0.0019861769]
+[u'web_site', 0.54322475, u'monitor', 0.33802176, u'screen', 0.066715233, u'laptop', 0.017350148, u'desktop_computer', 0.013327633]

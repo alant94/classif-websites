@@ -1,0 +1,6 @@
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]
+[u'sulphur_butterfly', 0.25054085, u'earthstar', 0.11530106, u'hip', 0.083864272, u'ringlet', 0.081216708, u'daisy', 0.070021518]
+[u'jacamar', 0.78649735, u'bee_eater', 0.18459366, u'brambling', 0.0228914, u'robin', 0.0014999345, u'indigo_bunting', 0.0013266688]
+[u'crossword_puzzle', 0.7157228, u'web_site', 0.072535284, u'slot', 0.043026503, u'menu', 0.037183847, u'scoreboard', 0.030368144]
+[u'slug', 0.18821426, u'rock_beauty', 0.11656836, u'common_newt', 0.10688237, u'crossword_puzzle', 0.10016051, u'isopod', 0.090184145]
+[u'crossword_puzzle', 0.99992764, u'slot', 2.6423122e-05, u'scoreboard', 1.2095161e-05, u'vizsla', 7.7545719e-06, u'pug', 6.550631e-06]

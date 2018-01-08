@@ -1,0 +1,2 @@
+[u'promontory', 0.64157945, u'African_chameleon', 0.037636742, u'castle', 0.034789462, u'cliff_dwelling', 0.025858006, u'lakeside', 0.023814594]
+[u'red_wine', 0.45841396, u'cocktail_shaker', 0.17748764, u'goblet', 0.1089324, u'wine_bottle', 0.093939908, u'eggnog', 0.033197198]

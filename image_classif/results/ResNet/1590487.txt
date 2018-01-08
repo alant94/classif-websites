@@ -1,0 +1,2 @@
+[u'paddlewheel', 0.12748139, u'cleaver', 0.12076684, u"carpenter's_kit", 0.093907036, u'butcher_shop', 0.062756106, u'strainer', 0.049273241]
+[u'hair_spray', 0.049539756, u'lab_coat', 0.034964439, u'cash_machine', 0.034678534, u'candle', 0.03139044, u'oil_filter', 0.030520281]

@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.57138413, u'book_jacket', 0.19759846, u'street_sign', 0.024963101, u'scoreboard', 0.019619595, u'slide_rule', 0.01455202]
+[u'velvet', 0.21253404, u'theater_curtain', 0.13020015, u'book_jacket', 0.099098854, u'chambered_nautilus', 0.046058029, u'whistle', 0.033968784]
+[u'cinema', 0.6845361, u'flagpole', 0.031951986, u'beacon', 0.031096749, u'restaurant', 0.029072119, u'monastery', 0.013423761]
+[u'pizza', 0.68669194, u'frying_pan', 0.088393278, u'spatula', 0.077533461, u'stove', 0.059458248, u'Dutch_oven', 0.025888655]
+[u'coffee_mug', 0.18892315, u'beer_glass', 0.10917866, u'jersey', 0.074964367, u'bow', 0.065209262, u'drum', 0.063627265]

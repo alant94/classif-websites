@@ -1,0 +1,1 @@
+[u'face_powder', 0.30545864, u'Petri_dish', 0.11624027, u'web_site', 0.044333331, u'paper_towel', 0.033318613, u'cocktail_shaker', 0.030508205]

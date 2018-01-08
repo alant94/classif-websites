@@ -1,0 +1,2 @@
+[u'crate', 0.30040082, u'chest', 0.094906092, u'upright', 0.060287964, u'throne', 0.054690313, u'bakery', 0.048962098]
+[u'Windsor_tie', 0.11185913, u'pill_bottle', 0.052951001, u'candle', 0.051938329, u'matchstick', 0.051805798, u'plunger', 0.03547667]

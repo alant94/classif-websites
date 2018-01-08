@@ -1,0 +1,2 @@
+[u'bow_tie', 0.31419075, u'pinwheel', 0.18430783, u'tub', 0.15311353, u'pick', 0.10562431, u'plate', 0.01816031]
+[u'Arabian_camel', 0.73280489, u'sorrel', 0.16598034, u'bighorn', 0.018437793, u'llama', 0.013249939, u'ibex', 0.0098137874]

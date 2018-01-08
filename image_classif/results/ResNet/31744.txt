@@ -1,0 +1,2 @@
+[u'suit', 0.38496396, u'Windsor_tie', 0.36904308, u'bolo_tie', 0.076255694, u'television', 0.037880577, u'oboe', 0.013622073]
+[u'television', 0.15525439, u'bulletproof_vest', 0.11180241, u'hand-held_computer', 0.09574578, u'laptop', 0.071416512, u'Windsor_tie', 0.067302197]

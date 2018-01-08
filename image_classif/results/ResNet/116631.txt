@@ -1,0 +1,2 @@
+[u'prayer_rug', 0.65977949, u'tray', 0.043042682, u'shield', 0.01260474, u'digital_clock', 0.011711136, u'street_sign', 0.010740457]
+[u'digital_clock', 0.35606185, u'traffic_light', 0.24444506, u'screen', 0.092398889, u'prayer_rug', 0.069972791, u'street_sign', 0.062422629]

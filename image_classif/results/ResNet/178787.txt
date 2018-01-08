@@ -1,0 +1,6 @@
+[u'web_site', 0.1794755, u'notebook', 0.10851457, u'monitor', 0.061820626, u'mouse', 0.060854152, u'laptop', 0.051342923]
+[u'library', 0.10402317, u'bookshop', 0.10070197, u'crutch', 0.094721846, u'lab_coat', 0.052750699, u'photocopier', 0.03901903]
+[u'suit', 0.55008203, u'Windsor_tie', 0.29071781, u'bolo_tie', 0.052548774, u'military_uniform', 0.013983308, u'oboe', 0.013689438]
+[u'suit', 0.87551677, u'Windsor_tie', 0.059293076, u'groom', 0.016513843, u'grand_piano', 0.0066076126, u'oboe', 0.0065171211]
+[u'book_jacket', 0.14167896, u'spotlight', 0.075352229, u'microphone', 0.061869133, u'pick', 0.045865778, u'joystick', 0.041915983]
+[u'suit', 0.90345174, u'Windsor_tie', 0.021760534, u'grand_piano', 0.010478853, u'bassoon', 0.0060885651, u'sax', 0.0040683313]

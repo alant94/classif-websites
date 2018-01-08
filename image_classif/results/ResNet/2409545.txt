@@ -1,0 +1,4 @@
+[u'pillow', 0.25401279, u'cowboy_hat', 0.21221641, u'velvet', 0.073270679, u'rocking_chair', 0.038977031, u'sombrero', 0.030160766]
+[u'studio_couch', 0.31455886, u'television', 0.20446086, u'wardrobe', 0.075845204, u'sleeping_bag', 0.042269122, u'web_site', 0.038174331]
+[u'notebook', 0.13527964, u'pajama', 0.09794873, u'studio_couch', 0.085207179, u'purse', 0.042000722, u'rocking_chair', 0.034580924]
+[u'studio_couch', 0.91077912, u'sleeping_bag', 0.086562671, u'quilt', 0.00085177901, u'stretcher', 0.00068602274, u'rocking_chair', 0.00031575272]

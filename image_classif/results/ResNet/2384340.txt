@@ -1,0 +1,8 @@
+[u'web_site', 0.68326724, u'envelope', 0.015148887, u'dishwasher', 0.014966272, u'hook', 0.014281197, u'can_opener', 0.010838931]
+[u'web_site', 0.085515201, u'envelope', 0.034425836, u'pick', 0.034087136, u'jersey', 0.033768769, u'cleaver', 0.031611159]
+[u'prayer_rug', 0.095157847, u'safety_pin', 0.063822381, u'lighter', 0.063088298, u'iPod', 0.059181113, u'nematode', 0.046118218]
+[u'puck', 0.8421362, u'analog_clock', 0.036250912, u'magnetic_compass', 0.032124396, u'sweatshirt', 0.0084659364, u'gong', 0.0081398794]
+[u'digital_clock', 0.83018649, u'analog_clock', 0.049465522, u'digital_watch', 0.021951593, u'panpipe', 0.014590722, u'church', 0.0093408497]
+[u'book_jacket', 0.56488228, u'comic_book', 0.14786907, u'street_sign', 0.032156888, u'ashcan', 0.022431942, u'carton', 0.021484252]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

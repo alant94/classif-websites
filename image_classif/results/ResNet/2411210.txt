@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'panpipe', 0.37389958, u'whistle', 0.26133057, u'nipple', 0.2389974, u'screwdriver', 0.016641388, u'plunger', 0.012798443]
+[u'guillotine', 0.47139326, u'assault_rifle', 0.18676968, u'rifle', 0.093054704, u'viaduct', 0.07590805, u'corkscrew', 0.016468083]
+[u'envelope', 0.10102871, u'panpipe', 0.0757301, u'web_site', 0.071427338, u'pill_bottle', 0.019648861, u'digital_clock', 0.017474066]
+[u'envelope', 0.35091108, u'panpipe', 0.21073599, u'web_site', 0.098759651, u'screen', 0.015926829, u'binder', 0.012175717]
+[u'web_site', 0.116346, u'dishwasher', 0.088529862, u'envelope', 0.03652085, u'cleaver', 0.032077443, u'nematode', 0.030505817]
+[u'toilet_seat', 0.25864062, u'electric_fan', 0.090438902, u'sewing_machine', 0.063272424, u'web_site', 0.062336639, u'iron', 0.052300207]

@@ -1,0 +1,1 @@
+[u'web_site', 0.087543681, u'pill_bottle', 0.064647473, u'book_jacket', 0.045797091, u'street_sign', 0.039689418, u'cash_machine', 0.01756772]

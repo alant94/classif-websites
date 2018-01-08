@@ -12,7 +12,7 @@ from sklearn.metrics import precision_recall_fscore_support as score
 
 # Соединение с базой данных
 connect = psycopg2.connect(
-    database='Classy', user='postgres', host='localhost', password='postgres')
+    database='Classification', user='postgres', host='localhost', password='postgres')
 cursor = connect.cursor()
 
 # Выбираем названия признаков

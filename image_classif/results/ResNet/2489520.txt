@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.7992782, u'rule', 0.032299623, u'crossword_puzzle', 0.015728204, u'carton', 0.013855728, u'oscilloscope', 0.0074280668]
+[u'impala', 0.34961197, u'hartebeest', 0.28125378, u'bighorn', 0.1303741, u'ram', 0.12465251, u'cougar', 0.065108173]
+[u'gazelle', 0.30131868, u'wallaby', 0.28273165, u'triceratops', 0.10295707, u'bow', 0.059426431, u'warthog', 0.055683255]
+[u'gazelle', 0.67571938, u'hartebeest', 0.064033411, u'impala', 0.045830946, u'flamingo', 0.043666787, u'triceratops', 0.012259303]

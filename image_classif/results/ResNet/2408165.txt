@@ -1,0 +1,7 @@
+[u'hair_slide', 0.18626963, u'pot', 0.081471153, u'barn_spider', 0.081242263, u'broccoli', 0.061856151, u'artichoke', 0.052796379]
+[u'container_ship', 0.17188688, u'beacon', 0.10342307, u'paper_towel', 0.097756468, u'switch', 0.080738813, u'beaker', 0.05177813]
+[u'digital_clock', 0.24296378, u'web_site', 0.18325776, u'street_sign', 0.081805199, u'moving_van', 0.055132847, u'scoreboard', 0.03359817]
+[u'syringe', 0.3086136, u'whistle', 0.28054202, u'candle', 0.12196974, u'screwdriver', 0.095032796, u"carpenter's_kit", 0.022674773]
+[u'web_site', 0.27132306, u'envelope', 0.047773719, u'analog_clock', 0.038590997, u'screen', 0.03154413, u'pill_bottle', 0.031254642]
+[u'hair_slide', 0.26253387, u'backpack', 0.19441584, u'teddy', 0.14238533, u'wig', 0.050937634, u'ski_mask', 0.039154213]
+[u'web_site', 0.27080724, u'digital_clock', 0.24321257, u'dishwasher', 0.047543131, u'laptop', 0.032668594, u'street_sign', 0.027481722]

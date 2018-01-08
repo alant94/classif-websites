@@ -1,0 +1,6 @@
+[u'croquet_ball', 0.33481196, u'bow', 0.12730445, u'pole', 0.12431359, u'dumbbell', 0.09610901, u'ballplayer', 0.06160792]
+[u'carousel', 0.13696769, u'stretcher', 0.058942001, u'balloon', 0.048481293, u'comic_book', 0.048286021, u'parallel_bars', 0.047310598]
+[u'coucal', 0.70322335, u'bulbul', 0.09486483, u'black_grouse', 0.052626841, u'partridge', 0.049660485, u'ruffed_grouse', 0.040968906]
+[u'radiator', 0.99073374, u'fire_screen', 0.0055561243, u'window_screen', 0.00071224599, u'solar_dish', 0.0006058102, u'space_heater', 0.00038527805]
+[u'Appenzeller', 0.10323796, u'EntleBucher', 0.1008355, u'Gordon_setter', 0.09833286, u'red_wolf', 0.063319013, u'Rottweiler', 0.0484307]
+[u'lakeside', 0.18311055, u'alp', 0.16177459, u'worm_fence', 0.071991205, u'geyser', 0.070465922, u'valley', 0.045607276]

@@ -1,0 +1,6 @@
+[u'vizsla', 0.44871631, u'redbone', 0.20465629, u'Rhodesian_ridgeback', 0.072426111, u'Irish_setter', 0.055398632, u'proboscis_monkey', 0.021650311]
+[u'bath_towel', 0.27965197, u'diaper', 0.083280422, u'tub', 0.081401296, u'bathtub', 0.075338691, u'bathing_cap', 0.044366822]
+[u'Chihuahua', 0.71196848, u'boxer', 0.04890132, u'Blenheim_spaniel', 0.042825997, u'cocker_spaniel', 0.023470763, u'oxygen_mask', 0.021671103]
+[u"potter's_wheel", 0.58695406, u'sunscreen', 0.037668806, u'shoe_shop', 0.018829634, u'rugby_ball', 0.014744262, u'hair_spray', 0.014568603]
+[u'diaper', 0.93021083, u'bath_towel', 0.015602258, u'swimming_trunks', 0.0065882672, u'studio_couch', 0.0053320909, u'tub', 0.0048286458]
+[u'pick', 0.98652518, u'bucket', 0.0033979008, u'drum', 0.0030801434, u'shield', 0.0020086099, u'folding_chair', 0.00083969225]

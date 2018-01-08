@@ -1,0 +1,2 @@
+[u'book_jacket', 0.75301331, u'web_site', 0.12252985, u'packet', 0.021888068, u'binder', 0.011734775, u'menu', 0.007626438]
+[u'alp', 0.31726781, u'recreational_vehicle', 0.055038344, u'bison', 0.046688031, u'flagpole', 0.034673788, u'mountain_tent', 0.031801861]

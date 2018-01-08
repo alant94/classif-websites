@@ -1,0 +1,3 @@
+[u'bookshop', 0.17887582, u'library', 0.097879574, u'upright', 0.064284265, u'organ', 0.06247459, u'vestment', 0.058203936]
+[u'gong', 0.36155486, u'drum', 0.082426555, u'chime', 0.034255918, u'thresher', 0.032432213, u'harvester', 0.030548668]
+[u'library', 0.87309837, u'restaurant', 0.04145813, u'toyshop', 0.0095839715, u'shoe_shop', 0.007482178, u'bookshop', 0.0056700492]

@@ -1,0 +1,5 @@
+[u'screen', 0.088976853, u'book_jacket', 0.068609752, u'binder', 0.048417829, u'web_site', 0.034727626, u'jersey', 0.03390345]
+[u'brassiere', 0.54186773, u'book_jacket', 0.20925556, u'perfume', 0.010477027, u'golf_ball', 0.0096818274, u'spotlight', 0.0080863545]
+[u'chime', 0.44680399, u'rule', 0.050885517, u'matchstick', 0.043561108, u'screwdriver', 0.042834539, u'book_jacket', 0.04117763]
+[u'television', 0.080852941, u'balance_beam', 0.041837804, u'bow', 0.041006371, u'window_shade', 0.039699771, u'Windsor_tie', 0.039158992]
+[u'digital_clock', 0.084652372, u'screen', 0.082122535, u'picket_fence', 0.075567394, u'web_site', 0.068698674, u'analog_clock', 0.050909899]

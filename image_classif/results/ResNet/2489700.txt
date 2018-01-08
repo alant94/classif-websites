@@ -1,0 +1,2 @@
+[u'web_site', 0.67033535, u'ibex', 0.087508291, u'gazelle', 0.010062655, u'isopod', 0.004968727, u'tractor', 0.0043878644]
+[u'gibbon', 0.77007478, u'badger', 0.055375472, u'skunk', 0.043951392, u'three-toed_sloth', 0.011418632, u'siamang', 0.0099081751]

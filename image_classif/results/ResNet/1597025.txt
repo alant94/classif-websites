@@ -1,0 +1,2 @@
+[u'tobacco_shop', 0.14831276, u'container_ship', 0.10867964, u'comic_book', 0.070706613, u'scoreboard', 0.061863471, u'book_jacket', 0.049069259]
+[u'sandal', 0.21674863, u'electric_fan', 0.2062795, u'pinwheel', 0.15856837, u'comic_book', 0.066200428, u'teddy', 0.045114297]

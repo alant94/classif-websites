@@ -1,0 +1,2 @@
+[u'comic_book', 0.19302903, u'screw', 0.11596663, u'book_jacket', 0.072021626, u'web_site', 0.038798783, u'cornet', 0.028148584]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

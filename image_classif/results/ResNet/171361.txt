@@ -1,0 +1,5 @@
+[u'web_site', 0.94366103, u'book_jacket', 0.022477329, u'comic_book', 0.013942149, u'menu', 0.0080805169, u'Band_Aid', 0.00064360583]
+[u'cello', 0.94948792, u'violin', 0.05050496, u'assault_rifle', 1.9744402e-06, u'banjo', 1.5009166e-06, u'acoustic_guitar', 1.4322487e-06]
+[u'book_jacket', 0.11129707, u'candle', 0.060544476, u"potter's_wheel", 0.040659655, u'goldfish', 0.033790983, u'guillotine', 0.032158468]
+[u'bow', 0.37740085, u'rifle', 0.25176665, u'assault_rifle', 0.091193058, u"potter's_wheel", 0.050864737, u'flute', 0.024290787]
+[u'web_site', 0.40359876, u'comic_book', 0.22396785, u'suit', 0.038744368, u'book_jacket', 0.026711062, u'brass', 0.019395588]

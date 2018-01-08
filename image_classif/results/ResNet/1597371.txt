@@ -1,0 +1,3 @@
+[u'fountain', 0.11899194, u'window_screen', 0.079490706, u'fire_screen', 0.072070949, u'stage', 0.061589018, u'candle', 0.043683108]
+[u'container_ship', 0.18306139, u'fire_screen', 0.057438556, u'balloon', 0.03649085, u'crossword_puzzle', 0.027350329, u'theater_curtain', 0.026334571]
+[u'lighter', 0.11300916, u'otterhound', 0.078019314, u'oil_filter', 0.043891937, u'digital_clock', 0.029834233, u'lawn_mower', 0.024721492]

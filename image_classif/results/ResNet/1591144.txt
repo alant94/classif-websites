@@ -1,0 +1,6 @@
+[u'brassiere', 0.13056333, u'sunglasses', 0.11084973, u'sunglass', 0.092103399, u'maillot', 0.090560012, u'bikini', 0.089557461]
+[u'paper_towel', 0.22110175, u'miniskirt', 0.14292456, u'bikini', 0.063053183, u'brassiere', 0.06165503, u'carton', 0.058400705]
+[u'can_opener', 0.56429416, u'projectile', 0.15527195, u'missile', 0.04416493, u'hook', 0.043779925, u'tank', 0.034247607]
+[u'mask', 0.26044521, u'harp', 0.068601191, u'bikini', 0.061393715, u'plastic_bag', 0.043594804, u'shower_curtain', 0.034029838]
+[u'parallel_bars', 0.13733828, u'horizontal_bar', 0.085881017, u'vizsla', 0.08473783, u'gyromitra', 0.047102306, u'fur_coat', 0.033035249]
+[u'eft', 0.070121594, u'syringe', 0.066344507, u'walking_stick', 0.042634271, u'common_newt', 0.029803921, u'piggy_bank', 0.028742641]

@@ -1,0 +1,2 @@
+[u'barn', 0.1003333, u'theater_curtain', 0.096073002, u'church', 0.093958609, u'beacon', 0.054007471, u'web_site', 0.048611991]
+[u'web_site', 0.97488314, u'comic_book', 0.0083101084, u'menu', 0.0063892277, u'book_jacket', 0.0041723372, u'envelope', 0.00064620265]

@@ -1,0 +1,3 @@
+[u'fire_screen', 0.23029724, u'jersey', 0.10067732, u'book_jacket', 0.093519062, u'matchstick', 0.032758102, u'drum', 0.023814496]
+[u'oil_filter', 0.3782157, u'pill_bottle', 0.05607643, u'punching_bag', 0.03615465, u'sunscreen', 0.021010019, u'puck', 0.018733036]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

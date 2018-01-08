@@ -1,0 +1,1 @@
+[u'web_site', 0.6679014, u'envelope', 0.021932781, u'sunscreen', 0.0082161333, u'dishwasher', 0.0074373973, u'can_opener', 0.0072926581]

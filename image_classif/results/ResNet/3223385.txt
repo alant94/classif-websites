@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.61680132, u'paper_towel', 0.16713707, u'toilet_tissue', 0.043204892, u'packet', 0.012846394, u'bath_towel', 0.012076797]

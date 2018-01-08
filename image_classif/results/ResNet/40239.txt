@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.938191, u'digital_clock', 0.012065972, u'book_jacket', 0.010678438, u'scoreboard', 0.01046434, u'street_sign', 0.0057075247]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

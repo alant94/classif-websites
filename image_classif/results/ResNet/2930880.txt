@@ -1,0 +1,2 @@
+[u'monastery', 0.3750855, u'cliff_dwelling', 0.093892314, u'beacon', 0.050614916, u'solar_dish', 0.044658963, u'castle', 0.028851446]
+[u'paper_towel', 0.54120737, u'pillow', 0.051172286, u'coral_fungus', 0.043838654, u'broom', 0.042679314, u'lampshade', 0.040293999]

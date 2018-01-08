@@ -1,0 +1,5 @@
+[u'wall_clock', 0.27547652, u'analog_clock', 0.17415892, u'digital_clock', 0.10279081, u'puck', 0.068155117, u'sunscreen', 0.035225783]
+[u'digital_clock', 0.29822013, u'wall_clock', 0.29485738, u'analog_clock', 0.14985871, u'shield', 0.067809433, u'Band_Aid', 0.046650674]
+[u'can_opener', 0.21971051, u'corkscrew', 0.11636733, u'hook', 0.037353739, u'analog_clock', 0.03079194, u'iron', 0.027361518]
+[u'analog_clock', 0.80640727, u'wall_clock', 0.096022539, u'corkscrew', 0.020496875, u'digital_clock', 0.0089547541, u'shield', 0.0069691762]
+[u'analog_clock', 0.15182044, u'digital_clock', 0.14839138, u'shield', 0.14137219, u'wall_clock', 0.11985441, u'puck', 0.04713586]

@@ -1,0 +1,1 @@
+[u'digital_clock', 0.16391081, u'folding_chair', 0.15023839, u'ambulance', 0.066394389, u'stretcher', 0.060700841, u'digital_watch', 0.044375353]

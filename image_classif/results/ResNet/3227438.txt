@@ -1,0 +1,3 @@
+[u'mobile_home', 0.64727843, u'gas_pump', 0.092673756, u'cash_machine', 0.048935451, u'sliding_door', 0.048758991, u'picket_fence', 0.025857156]
+[u'web_site', 0.30235085, u'folding_chair', 0.089315437, u'barbershop', 0.063624196, u'paintbrush', 0.038929172, u'prison', 0.035158388]
+[u'digital_watch', 0.21403946, u'digital_clock', 0.20850857, u'stopwatch', 0.10908831, u'analog_clock', 0.089132391, u'spotlight', 0.064356767]

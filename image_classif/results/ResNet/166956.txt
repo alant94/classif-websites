@@ -1,0 +1,7 @@
+[u'sax', 0.21283588, u'accordion', 0.14008446, u'harmonica', 0.127801, u'acoustic_guitar', 0.10740648, u'electric_guitar', 0.057362229]
+[u'banjo', 0.62832177, u'electric_guitar', 0.091662668, u'cello', 0.084632255, u'violin', 0.084267102, u'stage', 0.045848534]
+[u'theater_curtain', 0.67683667, u'stage', 0.10930582, u'suit', 0.10200819, u'academic_gown', 0.011646995, u'abaya', 0.0087384507]
+[u'restaurant', 0.53776538, u'grand_piano', 0.1949233, u'dining_table', 0.038370885, u'upright', 0.020527802, u'library', 0.018816346]
+[u'theater_curtain', 0.16798031, u'vestment', 0.076401778, u'academic_gown', 0.066339932, u'lumbermill', 0.062815078, u'restaurant', 0.059881203]
+[u'greenhouse', 0.47385207, u'groom', 0.08574532, u'altar', 0.038904697, u'guillotine', 0.033376813, u'sliding_door', 0.02133503]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

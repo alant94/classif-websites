@@ -1,0 +1,1 @@
+[u'bow_tie', 0.1225429, u'drum', 0.11218631, u'sombrero', 0.066249281, u'cowboy_hat', 0.051718447, u'oil_filter', 0.033851299]

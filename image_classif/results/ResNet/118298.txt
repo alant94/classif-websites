@@ -1,0 +1,8 @@
+[u'web_site', 0.27229413, u'television', 0.18683331, u'laptop', 0.17572099, u'hand-held_computer', 0.10638387, u'comic_book', 0.034818098]
+[u'radiator', 0.33800852, u'bannister', 0.1519161, u'window_shade', 0.067266583, u'upright', 0.036613509, u'chime', 0.031096011]
+[u'tripod', 0.23911627, u'planetarium', 0.081398368, u'monitor', 0.062106945, u'screen', 0.039528038, u'web_site', 0.035334241]
+[u'tobacco_shop', 0.24452582, u'scoreboard', 0.092964076, u'cinema', 0.081568286, u'abacus', 0.068655558, u'slot', 0.068295643]
+[u'tank', 0.12796913, u'crane', 0.099141739, u'tow_truck', 0.097464144, u'amphibian', 0.089778237, u'space_shuttle', 0.072454415]
+[u'oil_filter', 0.47268647, u'mountain_bike', 0.068710148, u'space_shuttle', 0.048963238, u'unicycle', 0.025220068, u'hair_spray', 0.02053133]
+[u'vault', 0.088824898, u'traffic_light', 0.07256902, u'safe', 0.040799271, u'cab', 0.032064375, u"carpenter's_kit", 0.032013427]
+[u'tricycle', 0.25596282, u'unicycle', 0.25569299, u'bicycle-built-for-two', 0.20238422, u'mountain_bike', 0.18431054, u'web_site', 0.035120808]

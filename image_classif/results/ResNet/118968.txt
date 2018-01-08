@@ -1,0 +1,1 @@
+[u'remote_control', 0.21868789, u'radio', 0.21315393, u'iPod', 0.18436119, u'cellular_telephone', 0.1766884, u'desktop_computer', 0.037908509]

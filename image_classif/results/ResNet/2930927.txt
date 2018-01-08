@@ -1,0 +1,3 @@
+[u'ballpoint', 0.54657781, u'Band_Aid', 0.11263619, u'rubber_eraser', 0.072136126, u'rule', 0.022619549, u'letter_opener', 0.022338996]
+[u'stethoscope', 0.46092376, u'web_site', 0.14069532, u'lab_coat', 0.12760547, u'maillot', 0.019196147, u'lipstick', 0.010665395]
+[u'television', 0.32626542, u'Band_Aid', 0.22074749, u'cash_machine', 0.11669654, u'screen', 0.044262268, u'web_site', 0.039527074]

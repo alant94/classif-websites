@@ -1,0 +1,4 @@
+[u'ibex', 0.63148201, u'gazelle', 0.21686669, u'hartebeest', 0.044890735, u'impala', 0.033392876, u'oxcart', 0.025901923]
+[u'remote_control', 0.15301977, u'iPod', 0.10913753, u'stopwatch', 0.10007108, u'gas_pump', 0.068542644, u'puck', 0.056012969]
+[u'packet', 0.075341463, u'web_site', 0.065568134, u'oil_filter', 0.040137932, u'remote_control', 0.038629252, u'pick', 0.034158003]
+[u'puck', 0.19278891, u'drum', 0.077946045, u'pick', 0.059556317, u'face_powder', 0.023438053, u'oil_filter', 0.022161972]

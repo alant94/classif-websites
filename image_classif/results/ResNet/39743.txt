@@ -1,0 +1,4 @@
+[u'comic_book', 0.35776913, u'book_jacket', 0.12002654, u'freight_car', 0.11145714, u'tank', 0.038642637, u'cassette', 0.030590352]
+[u'envelope', 0.10215334, u'binder', 0.099893555, u'jersey', 0.099847831, u'tray', 0.097278103, u'scuba_diver', 0.091817483]
+[u'packet', 0.90090126, u'book_jacket', 0.021262323, u'comic_book', 0.0045713959, u'nematode', 0.0032646344, u'mailbag', 0.0031613796]
+[u'comic_book', 0.71285599, u'book_jacket', 0.10605029, u'barn_spider', 0.020035265, u'Arabian_camel', 0.01592744, u'ocarina', 0.011611407]

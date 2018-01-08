@@ -1,0 +1,2 @@
+[u'wig', 0.1599309, u'cellular_telephone', 0.13694914, u'book_jacket', 0.094419189, u'hair_spray', 0.085503057, u'brassiere', 0.059100643]
+[u'mouse', 0.44811481, u'bullet_train', 0.33659595, u'projector', 0.050038066, u'tub', 0.043212131, u'bathtub', 0.010953259]

@@ -1,0 +1,8 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.14442575, u'book_jacket', 0.070136681, u'envelope', 0.055377856, u'digital_clock', 0.022450404, u'oil_filter', 0.020576764]
+[u'web_site', 0.89364898, u'brass', 0.061087932, u'menu', 0.0077650486, u'comic_book', 0.004874906, u'book_jacket', 0.0044142948]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'street_sign', 0.59591144, u'gas_pump', 0.10509488, u'digital_clock', 0.067691348, u'scoreboard', 0.056849115, u'stopwatch', 0.023711789]
+[u'analog_clock', 0.1408186, u'coil', 0.11092228, u'guillotine', 0.079256177, u'digital_clock', 0.074617922, u'spotlight', 0.058610577]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

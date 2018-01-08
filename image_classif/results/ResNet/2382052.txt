@@ -1,0 +1,4 @@
+[u'perfume', 0.31857303, u'beaker', 0.10354909, u'combination_lock', 0.089241482, u'safe', 0.072970264, u'fountain', 0.048409797]
+[u'plate', 0.39761004, u'restaurant', 0.12954138, u'trifle', 0.059010919, u'dining_table', 0.048366942, u'red_wine', 0.038760182]
+[u'patio', 0.42634001, u'stone_wall', 0.14096874, u'greenhouse', 0.10937753, u'picket_fence', 0.022835411, u'lakeside', 0.019891394]
+[u'lab_coat', 0.3001495, u'fountain', 0.10620915, u'jean', 0.078203157, u'groom', 0.05539884, u'kimono', 0.04403425]

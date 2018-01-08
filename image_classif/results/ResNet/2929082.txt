@@ -1,0 +1,4 @@
+[u'digital_clock', 0.19225512, u'analog_clock', 0.16882975, u'web_site', 0.11126342, u'stopwatch', 0.09185148, u'rule', 0.062720418]
+[u'lab_coat', 0.81510967, u'fountain', 0.096699186, u'picket_fence', 0.005179524, u'bell_cote', 0.0042925025, u'altar', 0.0038025726]
+[u'digital_clock', 0.19225512, u'analog_clock', 0.16882975, u'web_site', 0.11126342, u'stopwatch', 0.09185148, u'rule', 0.062720418]
+[u'web_site', 0.074923098, u'cleaver', 0.059433505, u'safety_pin', 0.056168109, u'strainer', 0.043624908, u'hair_spray', 0.031835314]

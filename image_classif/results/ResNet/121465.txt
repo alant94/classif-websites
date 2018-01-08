@@ -1,0 +1,1 @@
+[u'cash_machine', 0.10121753, u'scoreboard', 0.091504358, u'street_sign', 0.074626721, u'bow', 0.059598241, u'book_jacket', 0.052040145]

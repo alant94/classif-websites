@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.24972713, u'traffic_light', 0.16111545, u'marimba', 0.071802884, u'tripod', 0.031423524, u'rifle', 0.029579736]
+[u'tray', 0.14635497, u'ashcan', 0.074235931, u'ambulance', 0.072757252, u'moving_van', 0.059715647, u'envelope', 0.053447574]

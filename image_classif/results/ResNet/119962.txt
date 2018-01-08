@@ -1,0 +1,3 @@
+[u'comic_book', 0.3290104, u'tractor', 0.10629588, u'web_site', 0.085186377, u'trailer_truck', 0.056914322, u'tricycle', 0.049680721]
+[u'cassette_player', 0.32902813, u'tape_player', 0.27465361, u'cassette', 0.13542867, u'modem', 0.029640503, u'radio', 0.027847541]
+[u'web_site', 0.68808651, u'envelope', 0.032394115, u'analog_clock', 0.029130511, u'sea_snake', 0.017858246, u'screen', 0.01178891]

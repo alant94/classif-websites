@@ -1,0 +1,2 @@
+[u'impala', 0.43178213, u'ibex', 0.36698067, u'hartebeest', 0.055421915, u'gazelle', 0.03566125, u'ram', 0.023018222]
+[u'cowboy_hat', 0.22000685, u'tench', 0.083323166, u'paddle', 0.068752274, u'sturgeon', 0.06402418, u'coho', 0.053299781]

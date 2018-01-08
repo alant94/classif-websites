@@ -1,0 +1,5 @@
+[u'paintbrush', 0.77834272, u'rubber_eraser', 0.088384502, u'hamper', 0.017473223, u'refrigerator', 0.015774636, u'perfume', 0.01353311]
+[u'web_site', 0.29996702, u'pick', 0.061640341, u'sunscreen', 0.055347763, u'laptop', 0.0480153, u'envelope', 0.026264299]
+[u'binder', 0.1590883, u'refrigerator', 0.12856275, u'jigsaw_puzzle', 0.07986892, u'screen', 0.071865544, u'television', 0.071084663]
+[u'acoustic_guitar', 0.6267252, u'electric_guitar', 0.34631458, u'cello', 0.0030394816, u'maillot', 0.0026572922, u'violin', 0.0022874586]
+[u'can_opener', 0.26811513, u'lotion', 0.1493151, u"carpenter's_kit", 0.081639901, u'nipple', 0.070346124, u'plane', 0.032504134]

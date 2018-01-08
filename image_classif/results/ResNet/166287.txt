@@ -1,0 +1,2 @@
+[u'digital_clock', 0.40643457, u'web_site', 0.31979182, u'harmonica', 0.07377699, u'digital_watch', 0.054358717, u'toaster', 0.015357194]
+[u'web_site', 0.99953282, u'monitor', 6.1573141e-05, u'television', 5.3719337e-05, u'Polaroid_camera', 4.8078266e-05, u'cellular_telephone', 3.8422906e-05]

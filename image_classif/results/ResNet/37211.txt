@@ -1,0 +1,2 @@
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]
+[u'cloak', 0.22711524, u'ski_mask', 0.19973928, u'bow_tie', 0.071892284, u'grey_whale', 0.067291476, u'abaya', 0.065345027]

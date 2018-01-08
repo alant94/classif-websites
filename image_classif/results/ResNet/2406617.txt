@@ -1,0 +1,2 @@
+[u'book_jacket', 0.22909644, u'maze', 0.039077204, u'prayer_rug', 0.033994716, u'folding_chair', 0.033080634, u'abaya', 0.026375566]
+[u'knot', 0.89230907, u'chain', 0.05065902, u'hook', 0.026731528, u'shopping_basket', 0.0053232023, u'padlock', 0.0032982503]

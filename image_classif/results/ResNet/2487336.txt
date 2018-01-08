@@ -1,0 +1,8 @@
+[u'solar_dish', 0.13749079, u'window_shade', 0.089127041, u'desktop_computer', 0.083791897, u'window_screen', 0.065363295, u'screen', 0.057748739]
+[u'wardrobe', 0.16247797, u'envelope', 0.049275674, u'web_site', 0.043664217, u'hook', 0.037409816, u'medicine_chest', 0.028243942]
+[u'bib', 0.74897778, u'doormat', 0.04123269, u'bulletproof_vest', 0.023530362, u'apron', 0.016759627, u'scale', 0.016435897]
+[u'desktop_computer', 0.063353032, u'screen', 0.061288081, u'web_site', 0.056512594, u'window_shade', 0.050547194, u'airship', 0.034110576]
+[u'can_opener', 0.25548571, u'spotlight', 0.22562517, u'disk_brake', 0.075660706, u'nipple', 0.057119597, u'iPod', 0.04727266]
+[u'desktop_computer', 0.25887495, u'window_shade', 0.057517204, u'lighter', 0.046615895, u'turnstile', 0.039347149, u'binder', 0.029586531]
+[u'window_shade', 0.30007267, u'pedestal', 0.11731509, u'loudspeaker', 0.093783706, u'wardrobe', 0.043104704, u'desktop_computer', 0.035819195]
+[u'hook', 0.2827664, u'cleaver', 0.094300866, u'envelope', 0.056945108, u'web_site', 0.014364541, u'can_opener', 0.013556144]

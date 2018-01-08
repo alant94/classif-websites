@@ -1,0 +1,3 @@
+[u'web_site', 0.20579094, u'sunscreen', 0.12333152, u'lotion', 0.066599555, u'nipple', 0.058988016, u'packet', 0.046288349]
+[u'hip', 0.87623501, u'red_wine', 0.0871851, u'envelope', 0.010060292, u'paintbrush', 0.0033846942, u'necklace', 0.0032986095]
+[u'safety_pin', 0.16679786, u'lighter', 0.14960493, u'coffee_mug', 0.060506009, u'coffeepot', 0.035656389, u'punching_bag', 0.034332462]

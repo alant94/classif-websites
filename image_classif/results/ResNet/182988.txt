@@ -1,0 +1,3 @@
+[u'carton', 0.58827364, u'rubber_eraser', 0.25196397, u'matchstick', 0.080849871, u'packet', 0.024816897, u'book_jacket', 0.010471621]
+[u'book_jacket', 0.13219084, u'comic_book', 0.097248942, u'oil_filter', 0.096553452, u'Band_Aid', 0.079625994, u'crossword_puzzle', 0.021490542]
+[u'packet', 0.61128151, u'binder', 0.10683009, u'book_jacket', 0.083885729, u'lighter', 0.033619456, u'perfume', 0.012524937]

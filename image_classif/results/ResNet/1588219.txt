@@ -1,0 +1,5 @@
+[u'syringe', 0.45051363, u'screwdriver', 0.17986301, u'power_drill', 0.039814733, u'hatchet', 0.024273749, u'feather_boa', 0.022255395]
+[u'swimming_trunks', 0.47667345, u'diaper', 0.14477839, u'bath_towel', 0.056228429, u'bikini', 0.051466692, u'maillot', 0.033890892]
+[u'bikini', 0.66263181, u'groom', 0.10559153, u'brassiere', 0.072535187, u'miniskirt', 0.023938803, u'tub', 0.022471745]
+[u'conch', 0.15373969, u'ice_lolly', 0.11535382, u'bikini', 0.097606935, u'tub', 0.077001475, u'maraca', 0.035852443]
+[u'web_site', 0.93755347, u'brassiere', 0.013193798, u'bikini', 0.011259185, u'comic_book', 0.0091313571, u'sandal', 0.0029679746]

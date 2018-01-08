@@ -1,0 +1,6 @@
+[u'comic_book', 0.10318255, u'toyshop', 0.067832723, u'toilet_seat', 0.056774225, u'nipple', 0.037608784, u'bucket', 0.036054749]
+[u'paper_towel', 0.15354481, u'packet', 0.14723386, u'toilet_tissue', 0.10957217, u'hair_spray', 0.032081164, u'comic_book', 0.023702124]
+[u'maraca', 0.88727486, u'flute', 0.023758046, u'whistle', 0.02237343, u'comic_book', 0.0095243538, u'oboe', 0.0053515718]
+[u'whistle', 0.94673222, u'pencil_sharpener', 0.0061921459, u'rubber_eraser', 0.0039764731, u'Band_Aid', 0.0031607405, u'hair_slide', 0.0031605309]
+[u'backpack', 0.12292772, u'whistle', 0.10518315, u'kimono', 0.066504404, u'guillotine', 0.064712808, u'toyshop', 0.060205095]
+[u'comic_book', 0.68730921, u'jigsaw_puzzle', 0.052987464, u'maraca', 0.045087025, u'ocarina', 0.045046452, u'whistle', 0.016508207]

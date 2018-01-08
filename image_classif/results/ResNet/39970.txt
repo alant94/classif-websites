@@ -1,0 +1,2 @@
+[u'wig', 0.086334541, u'tench', 0.059926216, u'platypus', 0.056142192, u'chain_mail', 0.051047187, u'Bouvier_des_Flandres', 0.028038787]
+[u'spider_monkey', 0.82440794, u'patas', 0.050867736, u'titi', 0.040570498, u'gibbon', 0.025415597, u'squirrel_monkey', 0.020047972]

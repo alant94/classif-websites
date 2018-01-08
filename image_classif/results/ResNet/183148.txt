@@ -1,0 +1,7 @@
+[u'chimpanzee', 0.09174633, u'gorilla', 0.077467576, u'abaya', 0.066973589, u'orangutan', 0.062360704, u'television', 0.062090363]
+[u'crossword_puzzle', 0.18567152, u'digital_clock', 0.10325813, u'digital_watch', 0.050457228, u'rifle', 0.039302465, u'picket_fence', 0.035013903]
+[u'racket', 0.45034698, u'toyshop', 0.061326552, u'unicycle', 0.038492162, u'tennis_ball', 0.029504269, u'neck_brace', 0.029005477]
+[u'shoe_shop', 0.41514921, u'web_site', 0.20134321, u'grocery_store', 0.055022992, u'toyshop', 0.033563107, u'comic_book', 0.026571332]
+[u'scoreboard', 0.8429895, u'stage', 0.072358869, u'theater_curtain', 0.030834891, u'altar', 0.0037474059, u'balloon', 0.0034597553]
+[u'comic_book', 0.7466014, u'web_site', 0.083721071, u'envelope', 0.048240099, u'menu', 0.034390729, u'book_jacket', 0.0053398884]
+[u'mountain_bike', 0.97995007, u'bicycle-built-for-two', 0.016256457, u'alp', 0.0015014927, u'crash_helmet', 0.00066921388, u'malamute', 0.00030307088]

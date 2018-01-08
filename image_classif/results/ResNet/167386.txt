@@ -1,0 +1,2 @@
+[u'spider_web', 0.38244826, u'bubble', 0.20274439, u'chainlink_fence', 0.1048712, u'lipstick', 0.068382427, u'jellyfish', 0.064766958]
+[u'web_site', 0.86531073, u'comic_book', 0.037174072, u'book_jacket', 0.027130375, u'television', 0.0098007945, u'jigsaw_puzzle', 0.0086830072]

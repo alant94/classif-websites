@@ -1,0 +1,4 @@
+[u'paintbrush', 0.1747957, u'fountain', 0.09357255, u'sunglass', 0.050927665, u'cowboy_boot', 0.049111318, u'marimba', 0.035120673]
+[u'cowboy_boot', 0.10534056, u'wine_bottle', 0.089544855, u'bannister', 0.054278377, u'wardrobe', 0.046483845, u'umbrella', 0.044585966]
+[u'paintbrush', 0.25163248, u'wine_bottle', 0.20251542, u'beer_bottle', 0.071845792, u'red_wine', 0.054345332, u'rifle', 0.032809611]
+[u'hair_spray', 0.20262225, u'syringe', 0.05508009, u'iron', 0.038093783, u'water_bottle', 0.033186719, u'pop_bottle', 0.030745976]

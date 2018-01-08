@@ -1,0 +1,4 @@
+[u'Bouvier_des_Flandres', 0.040913485, u'rocking_chair', 0.040779717, u'crib', 0.040470239, u'paddlewheel', 0.029505478, u'web_site', 0.025744475]
+[u'digital_clock', 0.15996383, u'traffic_light', 0.13429233, u'book_jacket', 0.070207171, u'analog_clock', 0.053705614, u'crossword_puzzle', 0.052652214]
+[u'suit', 0.28440085, u'abaya', 0.27530816, u'academic_gown', 0.15706959, u'mortarboard', 0.044237655, u'oboe', 0.029150125]
+[u'magnetic_compass', 0.99820697, u'unicycle', 0.00075056101, u'stopwatch', 0.00015463657, u'mountain_bike', 0.00011667271, u'chain', 0.00010161586]

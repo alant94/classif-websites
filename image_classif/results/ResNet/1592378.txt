@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.95181799, u'diaper', 0.03172436, u'fur_coat', 0.0032371779, u'bath_towel', 0.0029093551, u'bathing_cap', 0.0018087868]
+[u'bannister', 0.21417752, u'book_jacket', 0.088523991, u'crossword_puzzle', 0.050118979, u'analog_clock', 0.045216888, u'scoreboard', 0.044532254]
+[u'jean', 0.59590977, u'crutch', 0.066280484, u'miniskirt', 0.055695251, u'chain_mail', 0.038341932, u"potter's_wheel", 0.027897969]
+[u'dumbbell', 0.12806903, u'mortar', 0.12605837, u'spindle', 0.1234443, u'drumstick', 0.044472825, u'bathtub', 0.036375474]
+[u'switch', 0.152288, u'medicine_chest', 0.081827275, u'photocopier', 0.045084085, u'analog_clock', 0.037246287, u'printer', 0.020788796]
+[u'web_site', 0.27868405, u'digital_clock', 0.070935845, u'crossword_puzzle', 0.070651278, u'envelope', 0.052011982, u'book_jacket', 0.019114805]

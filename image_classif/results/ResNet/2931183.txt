@@ -1,0 +1,5 @@
+[u'web_site', 0.76187015, u'cash_machine', 0.02670273, u'book_jacket', 0.022841569, u'television', 0.011290436, u'space_bar', 0.011224838]
+[u'crossword_puzzle', 0.94459331, u'digital_clock', 0.026806861, u'prayer_rug', 0.0079084206, u'quilt', 0.0023213578, u'wall_clock', 0.0022492057]
+[u'web_site', 0.41764981, u'pill_bottle', 0.04709978, u'oil_filter', 0.024805157, u'nematode', 0.024608953, u'stopwatch', 0.022197815]
+[u'web_site', 0.98696184, u'Band_Aid', 0.0053344043, u'packet', 0.0015325635, u'hand-held_computer', 0.0012427067, u'screen', 0.00048098012]
+[u'digital_clock', 0.90144557, u'digital_watch', 0.070166327, u'scoreboard', 0.0069167395, u'traffic_light', 0.0060282806, u'screen', 0.0032208124]

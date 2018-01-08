@@ -1,0 +1,2 @@
+[u'web_site', 0.32398161, u'envelope', 0.21594511, u'binder', 0.044651318, u'golf_ball', 0.024615671, u'jersey', 0.01870469]
+[u'ashcan', 0.31305021, u'freight_car', 0.088340968, u'barbershop', 0.074822612, u'book_jacket', 0.064348564, u'moving_van', 0.062229805]

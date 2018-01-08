@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.60477787, u'bikini', 0.057751302, u'gown', 0.018693132, u'lab_coat', 0.017585786, u'ocarina', 0.017109416]
+[u'wig', 0.091821775, u'miniskirt', 0.085772865, u'stole', 0.053752027, u'jean', 0.048756827, u'cash_machine', 0.040451065]
+[u'vestment', 0.17545927, u'restaurant', 0.15059713, u'lab_coat', 0.097810507, u'altar', 0.070057087, u'dining_table', 0.039039724]
+[u'analog_clock', 0.076808624, u'shield', 0.065566108, u'web_site', 0.063556254, u'digital_clock', 0.038103886, u'oil_filter', 0.023857698]

@@ -1,0 +1,4 @@
+[u'cocktail_shaker', 0.9997173, u'perfume', 4.5310288e-05, u'lotion', 3.3338543e-05, u'orange', 2.4718365e-05, u'eggnog', 1.7151624e-05]
+[u'beer_bottle', 0.80526489, u'pop_bottle', 0.086213499, u'wine_bottle', 0.028727543, u'water_bottle', 0.019924263, u'spatula', 0.014033612]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'maze', 0.72672838, u'drum', 0.087015294, u'whistle', 0.023240982, u'coil', 0.020976864, u'pick', 0.014366008]

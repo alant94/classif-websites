@@ -1,0 +1,3 @@
+[u'web_site', 0.11588434, u'traffic_light', 0.077664927, u'oil_filter', 0.073469922, u'bolo_tie', 0.039211653, u'puck', 0.036846831]
+[u'web_site', 0.43686771, u'hard_disc', 0.059115015, u'envelope', 0.02248518, u'digital_clock', 0.019715758, u'remote_control', 0.019004159]
+[u'studio_couch', 0.19673212, u'pool_table', 0.093450375, u'grand_piano', 0.05337701, u'marimba', 0.052924361, u'television', 0.051078357]

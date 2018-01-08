@@ -1,0 +1,2 @@
+[u'cleaver', 0.21493393, u'paintbrush', 0.079453237, u'oscilloscope', 0.068071231, u'handkerchief', 0.048021674, u'red_wine', 0.043696534]
+[u'confectionery', 0.28393111, u'honeycomb', 0.18868829, u'restaurant', 0.073721983, u'tile_roof', 0.072893672, u'dining_table', 0.032462846]

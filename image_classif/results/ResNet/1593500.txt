@@ -1,0 +1,8 @@
+[u'miniskirt', 0.43064022, u'bikini', 0.22321579, u'brassiere', 0.11318856, u'maillot', 0.03537387, u'sandal', 0.024208894]
+[u'miniskirt', 0.18112789, u'maillot', 0.14987259, u'wig', 0.13831672, u'brassiere', 0.079127371, u'hair_spray', 0.043072242]
+[u'four-poster', 0.39888194, u'shoe_shop', 0.17023166, u'brassiere', 0.085353464, u'miniskirt', 0.077273712, u'feather_boa', 0.068294883]
+[u'maillot', 0.71801448, u'miniskirt', 0.15872896, u'gown', 0.037162047, u'maillot', 0.032233816, u'brassiere', 0.012613293]
+[u'brassiere', 0.5030033, u'bikini', 0.42700738, u'maillot', 0.041881278, u'miniskirt', 0.0043077893, u'diaper', 0.002888232]
+[u'television', 0.5440048, u'monitor', 0.13940707, u'screen', 0.10812685, u'coral_reef', 0.024758188, u'theater_curtain', 0.022604739]
+[u'crossword_puzzle', 0.99368805, u'digital_clock', 0.0054707411, u'prayer_rug', 0.00026262162, u'digital_watch', 0.0002389346, u'wall_clock', 0.00011150374]
+[u'bikini', 0.054219369, u'swimming_trunks', 0.034417551, u'cuirass', 0.026420088, u'brassiere', 0.025366029, u'balance_beam', 0.023816219]

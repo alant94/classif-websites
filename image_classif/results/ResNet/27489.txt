@@ -1,0 +1,6 @@
+[u'acoustic_guitar', 0.95990664, u'electric_guitar', 0.02148528, u'pick', 0.0061487062, u'banjo', 0.0018275169, u'web_site', 0.0017625951]
+[u'altar', 0.28386328, u'lipstick', 0.18066692, u'submarine', 0.078723662, u'mosque', 0.069491878, u'oboe', 0.049649589]
+[u'hard_disc', 0.15631533, u'lighter', 0.11385084, u'menu', 0.09083584, u'safe', 0.061956685, u'barometer', 0.033822957]
+[u'shield', 0.10290734, u'acoustic_guitar', 0.082447894, u'jigsaw_puzzle', 0.082205921, u'electric_guitar', 0.068377689, u'barbershop', 0.055453733]
+[u'web_site', 0.65242553, u'buckle', 0.084784232, u'analog_clock', 0.030515175, u'sundial', 0.019967275, u'loupe', 0.011370145]
+[u'screen', 0.30040419, u'monitor', 0.18979168, u'web_site', 0.075166933, u'television', 0.048093624, u'coral_reef', 0.039796025]

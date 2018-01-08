@@ -1,0 +1,3 @@
+[u'bighorn', 0.20268023, u'ram', 0.14998332, u'ibex', 0.099780783, u'fountain', 0.080163643, u'Ibizan_hound', 0.064183235]
+[u'fountain', 0.85230231, u'snowmobile', 0.062197398, u'dogsled', 0.01750022, u'American_black_bear', 0.012878748, u'bison', 0.010990487]
+[u'snowmobile', 0.28492647, u'military_uniform', 0.21940653, u'dogsled', 0.10808114, u'fountain', 0.10676676, u'rifle', 0.018406421]

@@ -1,0 +1,5 @@
+[u'web_site', 0.61093622, u'dishwasher', 0.023070853, u'envelope', 0.016422125, u'television', 0.0092839496, u'digital_clock', 0.0079755532]
+[u'harvester', 0.97402632, u'plow', 0.00940248, u'steam_locomotive', 0.0072092349, u'tractor', 0.003030546, u'thresher', 0.0027570103]
+[u'web_site', 0.34422502, u'menu', 0.041547328, u'comic_book', 0.03173276, u'crossword_puzzle', 0.019556981, u'rifle', 0.017832808]
+[u'Band_Aid', 0.50750029, u'web_site', 0.034522079, u'barbershop', 0.030073645, u'cash_machine', 0.029357957, u'broom', 0.02531839]
+[u'web_site', 0.35518074, u'scoreboard', 0.23310477, u'comic_book', 0.095783681, u'cinema', 0.089492716, u'street_sign', 0.034716085]

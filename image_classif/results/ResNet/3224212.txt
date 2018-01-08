@@ -1,0 +1,4 @@
+[u'brass', 0.48831755, u'book_jacket', 0.21840474, u'pickelhaube', 0.17570013, u'isopod', 0.01604658, u'harmonica', 0.015812121]
+[u'street_sign', 0.22139418, u'book_jacket', 0.18805452, u'cash_machine', 0.1470172, u'screen', 0.039078638, u'perfume', 0.037683286]
+[u'street_sign', 0.14698847, u'cash_machine', 0.1459811, u'screen', 0.072670951, u'stopwatch', 0.067863725, u'television', 0.066514134]
+[u'groom', 0.6810497, u'suit', 0.24239776, u'gown', 0.033271305, u'Windsor_tie', 0.020671649, u'bow_tie', 0.0081734536]

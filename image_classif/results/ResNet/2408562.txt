@@ -1,0 +1,7 @@
+[u'airliner', 0.30492342, u'warplane', 0.2459507, u'missile', 0.1809296, u'projectile', 0.076632626, u'solar_dish', 0.054543212]
+[u'airliner', 0.71304214, u'airship', 0.26297632, u'space_shuttle', 0.01090205, u'warplane', 0.0051809703, u'missile', 0.0049055717]
+[u'dam', 0.78301811, u'space_shuttle', 0.044056259, u'crane', 0.037746906, u'fountain', 0.022120452, u'wreck', 0.021193853]
+[u'web_site', 0.57525307, u'book_jacket', 0.029587341, u'plastic_bag', 0.018797068, u'cash_machine', 0.016626373, u'moving_van', 0.011616048]
+[u'missile', 0.33581588, u'projectile', 0.28301463, u'balloon', 0.066042557, u'airliner', 0.056299616, u'space_shuttle', 0.052935828]
+[u'space_shuttle', 0.83870453, u'warplane', 0.13811353, u'airliner', 0.017781623, u'aircraft_carrier', 0.0011179484, u'wing', 0.0009119662]
+[u'drilling_platform', 0.28216004, u'crane', 0.080549158, u'aircraft_carrier', 0.041833509, u'tow_truck', 0.036039893, u'airliner', 0.033781506]

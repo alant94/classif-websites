@@ -1,0 +1,3 @@
+[u'book_jacket', 0.25964248, u'Indian_elephant', 0.17702398, u'tusker', 0.12037028, u'bison', 0.077252015, u'African_elephant', 0.064513125]
+[u'bison', 0.57119066, u'llama', 0.030136297, u'Indian_elephant', 0.024190208, u'ox', 0.02141053, u'komondor', 0.016979868]
+[u'swab', 0.13290811, u'sarong', 0.054636251, u'stole', 0.049038928, u'broom', 0.040527087, u'corn', 0.037664674]

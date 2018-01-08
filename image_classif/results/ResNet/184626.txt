@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.97229213, u'digital_clock', 0.0094265277, u'digital_watch', 0.0050413427, u'prayer_rug', 0.0045578796, u'wool', 0.001133764]
+[u'web_site', 0.32373005, u'switch', 0.25346333, u'scoreboard', 0.060400069, u'vending_machine', 0.057050191, u'space_bar', 0.016463047]
+[u'digital_clock', 0.78882468, u'digital_watch', 0.20520085, u'scoreboard', 0.0034508551, u'analog_clock', 0.00056713261, u'wall_clock', 0.00048109432]

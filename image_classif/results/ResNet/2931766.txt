@@ -1,0 +1,2 @@
+[u'entertainment_center', 0.30570856, u'library', 0.28491122, u'dining_table', 0.047793142, u'bookcase', 0.047010154, u'wardrobe', 0.043734238]
+[u'web_site', 0.20861912, u'analog_clock', 0.091900326, u'envelope', 0.067362249, u'binder', 0.052764054, u'jersey', 0.045888372]

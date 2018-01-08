@@ -1,0 +1,4 @@
+[u'analog_clock', 0.19094323, u'bow', 0.089795157, u'toilet_seat', 0.052358549, u'papillon', 0.042317018, u'beaker', 0.040733833]
+[u'maze', 0.45574889, u'prayer_rug', 0.077846065, u'slot', 0.044143576, u'ambulance', 0.037367057, u'shield', 0.024378629]
+[u'pill_bottle', 0.26771024, u'switch', 0.2339205, u'spotlight', 0.11235161, u'bottlecap', 0.095323481, u'toilet_seat', 0.053095751]
+[u'crossword_puzzle', 0.61164451, u'tray', 0.049992837, u'paddlewheel', 0.023448987, u'container_ship', 0.01180937, u'picket_fence', 0.0075511048]

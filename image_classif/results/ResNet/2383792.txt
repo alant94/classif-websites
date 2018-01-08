@@ -1,0 +1,1 @@
+[u'mailbox', 0.25512794, u'chest', 0.086763188, u'street_sign', 0.081799574, u'birdhouse', 0.067943245, u'cassette', 0.0399285]

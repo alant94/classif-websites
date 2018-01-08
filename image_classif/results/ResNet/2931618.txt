@@ -1,0 +1,2 @@
+[u'suit', 0.92493457, u'Windsor_tie', 0.015101057, u'bulletproof_vest', 0.0053257886, u'notebook', 0.0046137301, u'bassoon', 0.0037746972]
+[u'lab_coat', 0.40558156, u'iron', 0.096105486, u'beaker', 0.066746034, u'shoe_shop', 0.02884654, u'pajama', 0.028760614]

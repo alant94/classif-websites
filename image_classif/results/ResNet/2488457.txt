@@ -1,0 +1,2 @@
+[u'cougar', 0.62106335, u'ibex', 0.22019605, u'lion', 0.084601857, u'bighorn', 0.023425007, u'ram', 0.012819489]
+[u'horizontal_bar', 0.23198369, u'parallel_bars', 0.15782693, u'swing', 0.083685502, u'pole', 0.026944425, u'siamang', 0.022041339]

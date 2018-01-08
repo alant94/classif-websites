@@ -1,0 +1,3 @@
+[u'tobacco_shop', 0.077560723, u'barbershop', 0.055540819, u'barrel', 0.045053694, u'wall_clock', 0.028229408, u'paper_towel', 0.026433768]
+[u'pick', 0.21450813, u'stopwatch', 0.13962451, u'digital_clock', 0.061250653, u'hook', 0.042407587, u'remote_control', 0.034132648]
+[u'hook', 0.69729239, u'knot', 0.033880167, u'fire_screen', 0.028955761, u'plate_rack', 0.02436474, u'stopwatch', 0.017214714]

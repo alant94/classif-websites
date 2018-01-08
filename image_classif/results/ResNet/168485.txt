@@ -1,0 +1,5 @@
+[u'volcano', 0.31889892, u'Scotch_terrier', 0.13100147, u'affenpinscher', 0.09754473, u'Bouvier_des_Flandres', 0.044257756, u'space_shuttle', 0.042716835]
+[u'fountain', 0.41571429, u'joystick', 0.37058485, u'beacon', 0.091146469, u'geyser', 0.04005963, u'pole', 0.011052757]
+[u'loupe', 0.25200084, u'spider_monkey', 0.062672302, u'fire_screen', 0.055522196, u'hog', 0.052026279, u'window_screen', 0.044160951]
+[u'book_jacket', 0.27223518, u'prayer_rug', 0.1637453, u'binder', 0.097849451, u'pedestal', 0.029099643, u'sliding_door', 0.026709178]
+[u'traffic_light', 0.047381796, u'paddlewheel', 0.040709049, u'whistle', 0.039641999, u'volcano', 0.03607526, u'affenpinscher', 0.035068098]

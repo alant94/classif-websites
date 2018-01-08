@@ -1,0 +1,5 @@
+[u'comic_book', 0.65598089, u'web_site', 0.032691132, u'Band_Aid', 0.019812014, u'bib', 0.012406474, u'nipple', 0.0093768602]
+[u'coral_reef', 0.71718752, u'valley', 0.11168379, u'lakeside', 0.082962625, u'cliff', 0.019311871, u'promontory', 0.016789537]
+[u'switch', 0.46537304, u'microwave', 0.1311859, u'screen', 0.057245925, u'medicine_chest', 0.053023566, u'web_site', 0.044124402]
+[u'lighter', 0.49258712, u'fire_engine', 0.20556638, u'guillotine', 0.068394586, u'trailer_truck', 0.036419552, u'traffic_light', 0.023736268]
+[u'medicine_chest', 0.16598856, u'binder', 0.14144211, u'refrigerator', 0.05592503, u'prayer_rug', 0.054943122, u'safe', 0.030944865]

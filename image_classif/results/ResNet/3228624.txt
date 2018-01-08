@@ -1,0 +1,5 @@
+[u'street_sign', 0.21165496, u'digital_clock', 0.19972904, u'digital_watch', 0.1103534, u'book_jacket', 0.10380276, u'stopwatch', 0.06837406]
+[u'analog_clock', 0.20356564, u'magnetic_compass', 0.1680696, u'digital_clock', 0.15996681, u'stopwatch', 0.14922097, u'digital_watch', 0.1166805]
+[u'hook', 0.37898344, u'can_opener', 0.10978466, u'stethoscope', 0.094385572, u'safety_pin', 0.059555203, u'binder', 0.059101157]
+[u'vase', 0.16298106, u'fountain', 0.12883767, u'brass', 0.090823248, u'beacon', 0.054329947, u'obelisk', 0.047901656]
+[u'web_site', 0.58936578, u'comic_book', 0.14704315, u'rifle', 0.022167372, u'isopod', 0.020730486, u'book_jacket', 0.019144885]

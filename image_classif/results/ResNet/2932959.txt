@@ -1,0 +1,8 @@
+[u'web_site', 0.18081349, u'envelope', 0.09271168, u'binder', 0.077679597, u'laptop', 0.077346399, u'screw', 0.038318738]
+[u'Band_Aid', 0.31283122, u'web_site', 0.099654153, u'digital_clock', 0.037481848, u'ambulance', 0.029498011, u'analog_clock', 0.029162399]
+[u'fountain_pen', 0.28911132, u'binder', 0.24451344, u'quill', 0.050204664, u'syringe', 0.04762366, u'pencil_box', 0.040286452]
+[u'groom', 0.34343106, u'gown', 0.16318521, u'paintbrush', 0.045450583, u'jean', 0.040573165, u'hair_spray', 0.039341606]
+[u'book_jacket', 0.090242378, u'web_site', 0.054811396, u'digital_clock', 0.045046594, u'digital_watch', 0.041643649, u'sax', 0.029528489]
+[u'bow', 0.71588999, u'crutch', 0.1911225, u'shovel', 0.019981205, u'hook', 0.011648612, u'vacuum', 0.0084886272]
+[u'window_shade', 0.43113601, u'shower_curtain', 0.14084227, u'whistle', 0.11295021, u'ocarina', 0.024141606, u'harp', 0.023074429]
+[u'envelope', 0.74174291, u'binder', 0.057533521, u'analog_clock', 0.044433918, u'guillotine', 0.012717595, u'digital_clock', 0.010982261]

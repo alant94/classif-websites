@@ -1,0 +1,2 @@
+[u'web_site', 0.96112484, u'book_jacket', 0.0040666787, u'lighter', 0.002252155, u'screen', 0.0020743979, u'perfume', 0.0019909167]
+[u'book_jacket', 0.34278032, u'oscilloscope', 0.2304661, u'tobacco_shop', 0.18636109, u'barbershop', 0.03853415, u'scoreboard', 0.037588019]

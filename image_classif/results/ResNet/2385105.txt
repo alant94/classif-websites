@@ -1,0 +1,4 @@
+[u'hook', 0.14197145, u'swab', 0.10703146, u'crane', 0.068424791, u'red_wine', 0.06281659, u'horizontal_bar', 0.053018838]
+[u'digital_clock', 0.97009003, u'digital_watch', 0.010882879, u'analog_clock', 0.0027823749, u'scoreboard', 0.0022942831, u'traffic_light', 0.0019612762]
+[u'red_wine', 0.74342114, u'wine_bottle', 0.043887433, u'bearskin', 0.038162295, u'coffee_mug', 0.036852956, u'book_jacket', 0.016973186]
+[u'cleaver', 0.12243403, u'web_site', 0.11688961, u'letter_opener', 0.072760887, u'scabbard', 0.066118881, u'loupe', 0.042602468]

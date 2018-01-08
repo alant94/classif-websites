@@ -1,0 +1,2 @@
+[u'hair_spray', 0.31507072, u'bow_tie', 0.271837, u'groom', 0.066639274, u'lab_coat', 0.042126052, u'comic_book', 0.033681948]
+[u'street_sign', 0.33433893, u'digital_clock', 0.1242577, u'beaker', 0.086283073, u'traffic_light', 0.059321567, u'lighter', 0.026787907]

@@ -1,0 +1,5 @@
+[u'theater_curtain', 0.16590989, u'cornet', 0.15923066, u'screen', 0.061355233, u'accordion', 0.054908227, u'television', 0.054503325]
+[u'theater_curtain', 0.32639521, u'web_site', 0.081832781, u'digital_clock', 0.057936534, u'television', 0.048742879, u'projector', 0.033321675]
+[u'digital_clock', 0.48637462, u'hourglass', 0.28892443, u'fire_screen', 0.17016445, u'screen', 0.017125431, u'toaster', 0.010969928]
+[u'book_jacket', 0.1403309, u'hair_spray', 0.11262191, u'perfume', 0.093941681, u'Band_Aid', 0.071467742, u'web_site', 0.040780745]
+[u'television', 0.396097, u'screen', 0.23789097, u'monitor', 0.072962791, u'hair_spray', 0.03188454, u'iPod', 0.03168989]

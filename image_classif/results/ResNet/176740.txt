@@ -1,0 +1,7 @@
+[u'book_jacket', 0.10169167, u'web_site', 0.091739744, u'comic_book', 0.047797184, u'crossword_puzzle', 0.028028153, u'hair_spray', 0.023754271]
+[u'web_site', 0.22536574, u'comic_book', 0.13528684, u'book_jacket', 0.044119567, u'rifle', 0.019271323, u'nail', 0.017371919]
+[u'web_site', 0.14897971, u'book_jacket', 0.039839581, u'hair_spray', 0.021808326, u'comic_book', 0.019255253, u'remote_control', 0.016133845]
+[u'web_site', 0.96675658, u'comic_book', 0.02826364, u'menu', 0.0012537016, u'book_jacket', 0.00076357031, u'envelope', 0.00017463994]
+[u'quilt', 0.1699637, u'prayer_rug', 0.1498166, u'envelope', 0.098818198, u'pillow', 0.090232447, u'tray', 0.077020414]
+[u'sax', 0.19047554, u'rapeseed', 0.14520925, u'banjo', 0.063504227, u'cornet', 0.045160603, u'web_site', 0.042924058]
+[u'web_site', 0.94889838, u'comic_book', 0.04117972, u'menu', 0.0022703537, u'book_jacket', 0.0011050811, u'television', 0.0004361711]

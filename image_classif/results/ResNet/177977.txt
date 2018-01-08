@@ -1,0 +1,2 @@
+[u'bakery', 0.6540789, u'restaurant', 0.11017988, u'grocery_store', 0.060731284, u'corn', 0.031697236, u'orange', 0.021078916]
+[u'crossword_puzzle', 0.99506336, u'shoji', 0.0022839513, u'window_screen', 0.0011470909, u'remote_control', 0.00016834449, u'web_site', 0.0001622061]

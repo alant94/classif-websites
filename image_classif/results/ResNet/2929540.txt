@@ -1,0 +1,7 @@
+[u'academic_gown', 0.053852476, u'hair_slide', 0.051955417, u'Band_Aid', 0.0297678, u'spider_monkey', 0.028599814, u'abaya', 0.028339207]
+[u'plunger', 0.10999703, u'shower_cap', 0.067450687, u'chain_mail', 0.044903424, u'Windsor_tie', 0.032054313, u'hand_blower', 0.031348165]
+[u'combination_lock', 0.12445681, u'CD_player', 0.12400979, u'whistle', 0.099923111, u'web_site', 0.063146934, u'hard_disc', 0.061116267]
+[u'miniskirt', 0.18565455, u'brassiere', 0.069176003, u'jersey', 0.048303623, u'academic_gown', 0.04545198, u'breastplate', 0.031872898]
+[u'Band_Aid', 0.17284037, u'web_site', 0.075810187, u'wall_clock', 0.055706598, u'puck', 0.037213691, u'analog_clock', 0.028096704]
+[u'military_uniform', 0.30521613, u'suit', 0.081307143, u'bearskin', 0.079212315, u'bolo_tie', 0.078892432, u'bulletproof_vest', 0.060338493]
+[u'weevil', 0.46097058, u'rhinoceros_beetle', 0.10847593, u'scorpion', 0.041810904, u'fire_screen', 0.035385441, u'hip', 0.031254653]

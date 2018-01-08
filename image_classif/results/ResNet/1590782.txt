@@ -1,0 +1,3 @@
+[u'chain_mail', 0.87013274, u'breastplate', 0.064952672, u'perfume', 0.01896885, u'cuirass', 0.010662654, u'wig', 0.005674738]
+[u'gown', 0.19060828, u'bikini', 0.095325723, u'groom', 0.091963693, u'pay-phone', 0.090823144, u'suit', 0.04268118]
+[u'book_jacket', 0.48533314, u'comic_book', 0.23957847, u'scoreboard', 0.04684002, u'cassette', 0.035783131, u'television', 0.021743737]

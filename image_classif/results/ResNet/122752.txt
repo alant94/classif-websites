@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.98843586, u'tripod', 0.0036872292, u'parallel_bars', 0.0011683627, u'drumstick', 0.00064680399, u'pole', 0.00057148887]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

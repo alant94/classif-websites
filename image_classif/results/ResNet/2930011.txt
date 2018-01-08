@@ -1,0 +1,8 @@
+[u'envelope', 0.29062754, u'web_site', 0.25453609, u'washer', 0.1948745, u'refrigerator', 0.019805744, u'rapeseed', 0.017575113]
+[u'book_jacket', 0.2541644, u'unicycle', 0.074088402, u'tripod', 0.057365689, u'ski', 0.046187978, u'parking_meter', 0.042030718]
+[u'web_site', 0.42854014, u'cardoon', 0.068380043, u'hair_spray', 0.023892635, u'book_jacket', 0.022551605, u'nematode', 0.015781596]
+[u'web_site', 0.27916923, u'oscilloscope', 0.25226516, u'nematode', 0.031686373, u'digital_clock', 0.028028686, u'monitor', 0.026849823]
+[u'hair_spray', 0.17590724, u'iron', 0.099902071, u'apron', 0.060550693, u'hand_blower', 0.051832937, u'wig', 0.040535074]
+[u'ping-pong_ball', 0.59336329, u'balloon', 0.17213039, u'candle', 0.087403305, u'face_powder', 0.026462357, u'safety_pin', 0.017306112]
+[u'web_site', 0.64552087, u'envelope', 0.043415263, u'dishwasher', 0.016140783, u'nematode', 0.014326151, u'bulletproof_vest', 0.0078987181]
+[u'jigsaw_puzzle', 0.31472847, u'menu', 0.094836995, u'bookshop', 0.088162407, u'brass', 0.075825334, u'shower_curtain', 0.063217729]

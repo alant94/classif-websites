@@ -1,0 +1,6 @@
+[u'electric_fan', 0.30796686, u'gong', 0.20181327, u'spotlight', 0.151774, u'microphone', 0.069263108, u'strainer', 0.022643067]
+[u'book_jacket', 0.24800435, u'picket_fence', 0.13597529, u'scoreboard', 0.10240062, u'crossword_puzzle', 0.077514142, u'comic_book', 0.02597989]
+[u'scoreboard', 0.50340271, u'book_jacket', 0.042534962, u'jersey', 0.029661287, u'crossword_puzzle', 0.027560249, u'binder', 0.016498534]
+[u'Band_Aid', 0.37302101, u'shield', 0.084490925, u'web_site', 0.075362951, u'prayer_rug', 0.059872542, u'envelope', 0.039741635]
+[u'punching_bag', 0.17822044, u'cleaver', 0.060533896, u'screwdriver', 0.044542428, u'spatula', 0.044280995, u'hair_slide', 0.037742633]
+[u'web_site', 0.10897674, u'comic_book', 0.071969256, u'jersey', 0.049230486, u'book_jacket', 0.038481973, u'can_opener', 0.027694738]

@@ -1,0 +1,2 @@
+[u'rapeseed', 0.7057209, u'volcano', 0.056375001, u'palace', 0.052608855, u'greenhouse', 0.029420042, u'valley', 0.026044786]
+[u'web_site', 0.2313786, u'shower_curtain', 0.19366433, u'handkerchief', 0.097458951, u'Windsor_tie', 0.06877429, u'envelope', 0.056150787]

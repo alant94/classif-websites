@@ -1,0 +1,1 @@
+[u'barrel', 0.78892308, u'plate_rack', 0.12084921, u'washer', 0.025084358, u'dishwasher', 0.020060962, u'reel', 0.0081452215]

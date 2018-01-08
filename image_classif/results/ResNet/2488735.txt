@@ -1,0 +1,4 @@
+[u'valley', 0.36925057, u'alp', 0.23041072, u'cliff', 0.12153192, u'geyser', 0.049164809, u'mountain_tent', 0.022702226]
+[u'alp', 0.18739627, u'solar_dish', 0.088554978, u'church', 0.060024709, u'warplane', 0.045815315, u'monastery', 0.029888162]
+[u'church', 0.19391713, u'bell_cote', 0.087162152, u'palace', 0.078399308, u'worm_fence', 0.078028962, u'lakeside', 0.076661229]
+[u'papillon', 0.39163429, u'otterhound', 0.048834633, u'Sussex_spaniel', 0.044166721, u'English_setter', 0.030697349, u'jigsaw_puzzle', 0.029166417]

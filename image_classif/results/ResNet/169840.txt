@@ -1,0 +1,4 @@
+[u'chainlink_fence', 0.23570013, u'steel_arch_bridge', 0.094401106, u'bannister', 0.08667025, u'analog_clock', 0.032048933, u'suspension_bridge', 0.027038941]
+[u'book_jacket', 0.1603843, u'maze', 0.054371886, u'comic_book', 0.032452974, u'Indian_elephant', 0.029096721, u'prison', 0.028374394]
+[u'web_site', 0.54877293, u'menu', 0.14479442, u'comic_book', 0.12668845, u'book_jacket', 0.047692701, u'envelope', 0.019235305]
+[u'book_jacket', 0.2835229, u'television', 0.078442022, u'sax', 0.076654881, u'kimono', 0.065147482, u'grand_piano', 0.060510416]

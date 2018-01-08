@@ -1,0 +1,1 @@
+[u'Eskimo_dog', 0.19631244, u'Siberian_husky', 0.19621456, u'Border_collie', 0.16628565, u'malamute', 0.10007361, u'English_setter', 0.076168157]

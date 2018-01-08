@@ -1,0 +1,4 @@
+[u'web_site', 0.84107602, u'screen', 0.054395452, u'monitor', 0.053755987, u'notebook', 0.022968434, u'laptop', 0.0064227972]
+[u'monitor', 0.27353421, u'web_site', 0.26915765, u'screen', 0.19293223, u'laptop', 0.099440284, u'desktop_computer', 0.059593339]
+[u'vending_machine', 0.92494231, u'switch', 0.027732542, u'file', 0.0093272049, u'organ', 0.0070714639, u'computer_keyboard', 0.0025824497]
+[u'switch', 0.34294325, u'digital_clock', 0.17159913, u'thresher', 0.14992644, u'hook', 0.065235063, u'binder', 0.050969005]

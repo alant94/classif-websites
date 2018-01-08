@@ -1,0 +1,6 @@
+[u'plate', 0.53619254, u'dining_table', 0.20762475, u'restaurant', 0.20306788, u'consomme', 0.011762753, u'goblet', 0.0069738347]
+[u'wine_bottle', 0.62144661, u'typewriter_keyboard', 0.20626561, u'red_wine', 0.037739888, u'dumbbell', 0.035094108, u'space_bar', 0.026296685]
+[u'grocery_store', 0.18921919, u'patio', 0.10835314, u'restaurant', 0.05343169, u'groom', 0.05095486, u'wig', 0.050805673]
+[u'book_jacket', 0.2841047, u'comic_book', 0.1729534, u'stopwatch', 0.10564023, u'chain', 0.096928902, u'analog_clock', 0.049114197]
+[u'digital_clock', 0.15928209, u'web_site', 0.1378348, u'analog_clock', 0.072926566, u'computer_keyboard', 0.052387808, u'stopwatch', 0.047149748]
+[u'rapeseed', 0.7188946, u'bison', 0.076118074, u'picket_fence', 0.073300324, u'hay', 0.020591607, u'coral_fungus', 0.011785057]

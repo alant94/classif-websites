@@ -1,0 +1,6 @@
+[u'book_jacket', 0.54603928, u'monitor', 0.08072874, u'binder', 0.025778547, u'screen', 0.02129868, u'oscilloscope', 0.012560233]
+[u'web_site', 0.29852605, u'envelope', 0.052664366, u'cash_machine', 0.021358268, u'hook', 0.011969944, u'moving_van', 0.010769724]
+[u'web_site', 0.33863157, u'envelope', 0.17348097, u'menu', 0.044033319, u'cleaver', 0.015590969, u'washer', 0.013230565]
+[u'soap_dispenser', 0.057316411, u'hook', 0.049595177, u'academic_gown', 0.046944689, u'lighter', 0.04440124, u'jersey', 0.039014839]
+[u'carton', 0.1555952, u'packet', 0.087021224, u'can_opener', 0.080777824, u'rugby_ball', 0.076796144, u'vending_machine', 0.034086112]
+[u'web_site', 0.41555783, u'envelope', 0.15771344, u'menu', 0.017392792, u'jersey', 0.01732843, u'washer', 0.014002771]

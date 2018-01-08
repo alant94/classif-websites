@@ -1,0 +1,3 @@
+[u'menu', 0.17336993, u'packet', 0.16292919, u'book_jacket', 0.12732068, u'web_site', 0.11480054, u'envelope', 0.048864987]
+[u'hand_blower', 0.64104432, u'power_drill', 0.065665722, u'vacuum', 0.035242174, u'screwdriver', 0.022652233, u"carpenter's_kit", 0.016932594]
+[u'Band_Aid', 0.74446684, u'book_jacket', 0.10953692, u'comic_book', 0.058770671, u'web_site', 0.041771974, u'cash_machine', 0.0054743057]

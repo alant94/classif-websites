@@ -1,0 +1,4 @@
+[u'envelope', 0.084512651, u'web_site', 0.068288654, u'dishwasher', 0.068008728, u'washer', 0.023306301, u'refrigerator', 0.01675023]
+[u'hourglass', 0.043333419, u'binder', 0.040959001, u'candle', 0.033667363, u'digital_clock', 0.023374308, u'theater_curtain', 0.023164634]
+[u'book_jacket', 0.2606059, u'tray', 0.076900743, u'rubber_eraser', 0.050698858, u'fire_screen', 0.039822996, u'hook', 0.037891131]
+[u'crane', 0.51309252, u'beacon', 0.26480767, u'drilling_platform', 0.026354358, u'traffic_light', 0.026224613, u'pedestal', 0.01424765]

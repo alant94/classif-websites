@@ -1,0 +1,4 @@
+[u'can_opener', 0.19936408, u'plate_rack', 0.18102345, u'hair_slide', 0.10898495, u'iron', 0.058565218, u'spotlight', 0.045851376]
+[u'hair_slide', 0.31927931, u'pick', 0.093296848, u'Windsor_tie', 0.062366586, u'can_opener', 0.059983712, u'whistle', 0.043927688]
+[u'sunglass', 0.13262588, u'hand_blower', 0.12793843, u'can_opener', 0.083126806, u'iron', 0.077055015, u'oxygen_mask', 0.076263264]
+[u'hand_blower', 0.87186754, u'can_opener', 0.044114895, u'corkscrew', 0.012308173, u'knee_pad', 0.011921982, u'power_drill', 0.0084388722]

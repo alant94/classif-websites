@@ -1,0 +1,2 @@
+[u'slide_rule', 0.098581471, u'plate_rack', 0.062770694, u'analog_clock', 0.062658846, u'magnetic_compass', 0.042717561, u'pick', 0.034860283]
+[u'shield', 0.47843885, u'gong', 0.08737541, u'puck', 0.060517866, u'analog_clock', 0.052486353, u'bow', 0.033815905]

@@ -1,0 +1,7 @@
+[u'comic_book', 0.75721931, u'envelope', 0.042088665, u'handkerchief', 0.041161072, u'menu', 0.029657587, u'web_site', 0.021896984]
+[u'analog_clock', 0.099097833, u'medicine_chest', 0.076998897, u'web_site', 0.070834085, u'lighter', 0.063984625, u'binder', 0.059958369]
+[u'patio', 0.30815449, u'tile_roof', 0.17716593, u'church', 0.17498536, u'thatch', 0.17138416, u'boathouse', 0.059018347]
+[u'thatch', 0.40002671, u'tile_roof', 0.18800262, u'church', 0.1180943, u'bell_cote', 0.11302398, u'barn', 0.043802742]
+[u'web_site', 0.36607867, u'digital_clock', 0.046213984, u'remote_control', 0.033036672, u'ski', 0.025573011, u'nematode', 0.01522226]
+[u'web_site', 0.71427315, u'binder', 0.035358816, u'envelope', 0.028908234, u'refrigerator', 0.012760295, u'analog_clock', 0.0083615687]
+[u'picket_fence', 0.79341114, u'window_screen', 0.077624969, u'mobile_home', 0.034739483, u'patio', 0.027375931, u'window_shade', 0.010771031]

@@ -1,0 +1,3 @@
+[u'iron', 0.17640272, u'safety_pin', 0.095061444, u'cup', 0.094099253, u'web_site', 0.066087015, u'hook', 0.050940283]
+[u'book_jacket', 0.095934331, u'lakeside', 0.077713735, u'fountain', 0.067565888, u'web_site', 0.066668764, u'beacon', 0.06257464]
+[u'wardrobe', 0.21930307, u'jean', 0.20741685, u'butcher_shop', 0.13397932, u'cleaver', 0.10242938, u'groom', 0.073761009]

@@ -1,0 +1,1 @@
+[u'bathing_cap', 0.27766842, u'knee_pad', 0.21061943, u'bearskin', 0.083273083, u'oxygen_mask', 0.054490138, u'analog_clock', 0.027453177]

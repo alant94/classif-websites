@@ -1,0 +1,2 @@
+[u'envelope', 0.44685766, u'jigsaw_puzzle', 0.19005038, u'web_site', 0.084110811, u'bib', 0.081971504, u'lifeboat', 0.017843418]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

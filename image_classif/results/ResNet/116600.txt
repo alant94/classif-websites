@@ -1,0 +1,2 @@
+[u'hair_spray', 0.60200089, u'screen', 0.06171041, u'perfume', 0.044937126, u'lotion', 0.028342573, u'digital_watch', 0.02815542]
+[u'hair_spray', 0.30963716, u'perfume', 0.15443245, u'shopping_basket', 0.037434831, u'sunscreen', 0.036760978, u'digital_watch', 0.031287756]

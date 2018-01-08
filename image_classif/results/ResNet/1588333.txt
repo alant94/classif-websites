@@ -1,0 +1,7 @@
+[u'cowboy_hat', 0.54632491, u'trench_coat', 0.06954471, u'fur_coat', 0.032126144, u'brassiere', 0.03120116, u'sombrero', 0.030415926]
+[u'bikini', 0.22251691, u'brassiere', 0.21652047, u'maillot', 0.076035924, u'teapot', 0.05411946, u'maillot', 0.040330686]
+[u'maillot', 0.28436327, u'maillot', 0.18801126, u'studio_couch', 0.15508009, u'miniskirt', 0.12518172, u'wig', 0.057671331]
+[u'miniskirt', 0.16969185, u'diaper', 0.076058947, u'bikini', 0.074004948, u'swing', 0.043801744, u'paintbrush', 0.04192866]
+[u'bathtub', 0.42268312, u'shower_curtain', 0.28907236, u'tub', 0.12486068, u'washbasin', 0.051024884, u'bath_towel', 0.02619102]
+[u'bow_tie', 0.28662914, u'television', 0.17781973, u'web_site', 0.098684408, u'Appenzeller', 0.05179194, u'Boston_bull', 0.032003261]
+[u'Chesapeake_Bay_retriever', 0.3492474, u'redbone', 0.24970753, u'vizsla', 0.085603572, u'Egyptian_cat', 0.039908301, u'Rhodesian_ridgeback', 0.031613693]

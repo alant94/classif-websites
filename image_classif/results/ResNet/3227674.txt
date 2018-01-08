@@ -1,0 +1,4 @@
+[u'web_site', 0.22903179, u'joystick', 0.058941521, u'digital_clock', 0.047433909, u'analog_clock', 0.042703994, u'loupe', 0.037481342]
+[u'book_jacket', 0.79486746, u'bookshop', 0.08614412, u'barbershop', 0.029262308, u'wig', 0.010744448, u'hair_spray', 0.010148781]
+[u'whistle', 0.217593, u'bell_cote', 0.086386554, u'digital_clock', 0.075056985, u'church', 0.061912097, u'traffic_light', 0.045499727]
+[u'barbershop', 0.17030498, u'book_jacket', 0.13800691, u'web_site', 0.10937081, u'Windsor_tie', 0.041754957, u'neck_brace', 0.038393736]

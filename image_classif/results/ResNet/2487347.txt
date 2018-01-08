@@ -1,0 +1,2 @@
+[u'tow_truck', 0.35056007, u'crane', 0.24590386, u'trailer_truck', 0.16830005, u'forklift', 0.1467063, u'garbage_truck', 0.023213722]
+[u'crane', 0.9962256, u'harvester', 0.0010738047, u'drilling_platform', 0.00062950782, u'bassoon', 0.00037475338, u'chain_saw', 0.00028273655]

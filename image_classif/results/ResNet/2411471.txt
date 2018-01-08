@@ -1,0 +1,8 @@
+[u'tripod', 0.99971777, u'rifle', 5.5557721e-05, u'ski', 4.829669e-05, u'binoculars', 2.4014284e-05, u'umbrella', 1.6092426e-05]
+[u'abaya', 0.30494529, u'quill', 0.24697177, u'jersey', 0.044374399, u'bow', 0.016491594, u'panpipe', 0.015666639]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'digital_clock', 0.40700227, u'digital_watch', 0.079451516, u'screen', 0.071570843, u'analog_clock', 0.067741103, u'oscilloscope', 0.053717356]
+[u'digital_clock', 0.34631369, u'oscilloscope', 0.10903834, u'book_jacket', 0.10444397, u'digital_watch', 0.097375229, u'screen', 0.063247442]
+[u'digital_clock', 0.70840096, u'digital_watch', 0.20877241, u'analog_clock', 0.015359795, u'screen', 0.012862789, u'oscilloscope', 0.012834972]
+[u'book_jacket', 0.15606324, u'screen', 0.14073636, u'digital_clock', 0.12336314, u'oscilloscope', 0.10684396, u'digital_watch', 0.050076846]
+[u'crate', 0.9088493, u'file', 0.02354659, u'safe', 0.016558677, u'carton', 0.015113817, u'chest', 0.01385449]

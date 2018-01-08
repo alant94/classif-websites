@@ -1,0 +1,1 @@
+[u'tennis_ball', 0.20394209, u'punching_bag', 0.049116191, u'power_drill', 0.039254427, u'cash_machine', 0.033789914, u'ear', 0.030900801]

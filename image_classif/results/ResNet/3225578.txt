@@ -1,0 +1,8 @@
+[u'book_jacket', 0.43323436, u'comic_book', 0.39672989, u'packet', 0.03006587, u'web_site', 0.018574292, u'shield', 0.011242855]
+[u'monitor', 0.077545911, u'screen', 0.047401391, u'window_shade', 0.044844512, u'spotlight', 0.042980559, u'abaya', 0.036241513]
+[u'whistle', 0.085107878, u'web_site', 0.065437876, u'spotlight', 0.03584462, u'combination_lock', 0.031507969, u'cassette', 0.027502442]
+[u'envelope', 0.14263254, u'web_site', 0.12377419, u'laptop', 0.078526981, u'binder', 0.05124364, u'screw', 0.028712584]
+[u'vestment', 0.22751823, u'palace', 0.12427074, u'dining_table', 0.10612413, u'throne', 0.059143014, u'restaurant', 0.051162146]
+[u'washer', 0.36250111, u'joystick', 0.1255174, u'Polaroid_camera', 0.10409709, u'gong', 0.086510547, u'switch', 0.053413875]
+[u'shield', 0.26876178, u'pill_bottle', 0.030057538, u'Band_Aid', 0.027606413, u'beaker', 0.025326584, u'vestment', 0.024850061]
+[u'triumphal_arch', 0.086301155, u'croquet_ball', 0.063631631, u'lawn_mower', 0.060646195, u'park_bench', 0.057347987, u'maze', 0.053851388]

@@ -1,0 +1,2 @@
+[u'swab', 0.21857364, u'fountain', 0.11903844, u'ski', 0.1143254, u'paintbrush', 0.10238598, u'greenhouse', 0.051488649]
+[u'cliff', 0.18565653, u'megalith', 0.15581542, u'sleeping_bag', 0.063365407, u'marmot', 0.0617483, u'stole', 0.031421613]

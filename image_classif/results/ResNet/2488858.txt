@@ -1,0 +1,2 @@
+[u'bannister', 0.18502963, u'radiator', 0.062123384, u'binoculars', 0.055343863, u'guillotine', 0.037198231, u'desk', 0.034941971]
+[u'library', 0.89540321, u'bookcase', 0.095016085, u'bookshop', 0.00575813, u'desk', 0.0027140661, u'file', 0.00022559152]

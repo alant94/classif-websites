@@ -1,0 +1,6 @@
+[u'envelope', 0.32859281, u'web_site', 0.13378002, u'file', 0.061930589, u'switch', 0.049875796, u'hair_spray', 0.032163333]
+[u'web_site', 0.5443393, u'tennis_ball', 0.066870481, u'nipple', 0.038008742, u'analog_clock', 0.025074769, u'digital_clock', 0.022553748]
+[u'tripod', 0.24915875, u'assault_rifle', 0.053907566, u'spotlight', 0.050871421, u'table_lamp', 0.035847977, u'fire_screen', 0.035033204]
+[u'radiator', 0.34757727, u'ashcan', 0.14573392, u'garbage_truck', 0.055456866, u'thresher', 0.035417765, u'screwdriver', 0.031284939]
+[u'chain_saw', 0.15570427, u'can_opener', 0.10769522, u'ping-pong_ball', 0.055427976, u'lampshade', 0.051630963, u'digital_clock', 0.050922249]
+[u'church', 0.18948336, u'prayer_rug', 0.12554029, u'bell_cote', 0.075107649, u'throne', 0.047307003, u'medicine_chest', 0.030486571]

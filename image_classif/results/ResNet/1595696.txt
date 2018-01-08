@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.37612179, u'diaper', 0.13660137, u'tub', 0.09006758, u'sunscreen', 0.085777514, u'Mexican_hairless', 0.04543671]
+[u'swimming_trunks', 0.49130717, u'tub', 0.17219929, u'bathtub', 0.16587509, u'sunscreen', 0.06337148, u'brassiere', 0.020168351]

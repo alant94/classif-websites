@@ -1,0 +1,8 @@
+[u'oboe', 0.20668581, u'suit', 0.11036149, u'bassoon', 0.1085608, u'fur_coat', 0.058405392, u'bolo_tie', 0.030669333]
+[u'wig', 0.44893062, u'miniskirt', 0.078714557, u'lab_coat', 0.049009103, u'suit', 0.039833289, u'maillot', 0.028636115]
+[u'tripod', 0.75639194, u'swing', 0.043989725, u'rifle', 0.037514117, u'trombone', 0.021353731, u'oboe', 0.014830012]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'suit', 0.16717173, u'chain_mail', 0.15928851, u'Windsor_tie', 0.093873493, u'kimono', 0.083081804, u'cardigan', 0.080327682]
+[u'barber_chair', 0.19616227, u'washer', 0.1043582, u'microwave', 0.10075204, u'barbershop', 0.096149631, u'prison', 0.051671401]
+[u'fur_coat', 0.65060359, u'pajama', 0.044431098, u'stole', 0.03639495, u'cardigan', 0.02387563, u'bath_towel', 0.020253168]

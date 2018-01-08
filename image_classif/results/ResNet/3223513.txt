@@ -1,0 +1,1 @@
+[u'sliding_door', 0.16582327, u'turnstile', 0.15561366, u'abaya', 0.10992657, u'vestment', 0.09738899, u'kimono', 0.093166597]

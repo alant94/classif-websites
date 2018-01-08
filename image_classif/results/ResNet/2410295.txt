@@ -1,0 +1,3 @@
+[u'lakeside', 0.32711148, u'alp', 0.10179944, u'book_jacket', 0.075033069, u'recreational_vehicle', 0.034316216, u'seashore', 0.031828258]
+[u'rhinoceros_beetle', 0.72053975, u'black_grouse', 0.030896053, u'long-horned_beetle', 0.02972758, u'prairie_chicken', 0.016599484, u'ground_beetle', 0.016120419]
+[u'book_jacket', 0.72386229, u'geyser', 0.11033019, u'alp', 0.040928554, u'lakeside', 0.023374183, u'comic_book', 0.018010788]

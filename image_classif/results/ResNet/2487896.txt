@@ -1,0 +1,2 @@
+[u'throne', 0.34223187, u'altar', 0.25533855, u'restaurant', 0.067837402, u'four-poster', 0.050532043, u'dining_table', 0.035621781]
+[u'Chesapeake_Bay_retriever', 0.84185851, u'bloodhound', 0.031626906, u'Leonberg', 0.017612193, u'Irish_wolfhound', 0.014418724, u'golden_retriever', 0.0076565361]

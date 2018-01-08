@@ -1,0 +1,8 @@
+[u'paintbrush', 0.39340013, u'fountain', 0.26000449, u'picket_fence', 0.04674476, u'groom', 0.0276183, u'abaya', 0.022362227]
+[u'traffic_light', 0.39305109, u'warplane', 0.12685636, u'wing', 0.11132008, u'street_sign', 0.072161347, u'church', 0.038222261]
+[u'groom', 0.18716396, u'fountain', 0.1284176, u'paintbrush', 0.062195092, u'shower_curtain', 0.032544635, u'gown', 0.027793942]
+[u'paintbrush', 0.45988753, u'shower_curtain', 0.17843539, u'dishwasher', 0.031750068, u'perfume', 0.031380363, u'cocktail_shaker', 0.020286294]
+[u'groom', 0.13446468, u'pineapple', 0.060750712, u'gown', 0.047158644, u'hair_spray', 0.037050258, u'Band_Aid', 0.035640944]
+[u'paintbrush', 0.51055998, u'fountain', 0.34738991, u'geyser', 0.020142963, u'shower_curtain', 0.016144849, u'wardrobe', 0.008363965]
+[u'nail', 0.058154196, u'cowboy_boot', 0.052431874, u'red_wine', 0.047873575, u'table_lamp', 0.035843976, u'hook', 0.033536453]
+[u'tripod', 0.11402003, u'traffic_light', 0.087394312, u'soap_dispenser', 0.054625064, u'hook', 0.054509174, u'joystick', 0.038372356]

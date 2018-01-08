@@ -1,0 +1,4 @@
+[u'prison', 0.12891234, u'toaster', 0.025175529, u'neck_brace', 0.023601171, u'English_setter', 0.02335343, u'Weimaraner', 0.022695335]
+[u'miniature_pinscher', 0.4614926, u'toy_terrier', 0.2051221, u'Australian_terrier', 0.029887825, u'capuchin', 0.028413532, u'kelpie', 0.027958138]
+[u'parallel_bars', 0.20958559, u'medicine_chest', 0.071311779, u'sliding_door', 0.069513418, u'balance_beam', 0.06942302, u'prison', 0.055458099]
+[u'Irish_setter', 0.36438999, u'redbone', 0.083253734, u'Rhodesian_ridgeback', 0.05642141, u'vizsla', 0.045747083, u'Sussex_spaniel', 0.035143342]

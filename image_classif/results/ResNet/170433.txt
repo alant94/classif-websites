@@ -1,0 +1,2 @@
+[u'theater_curtain', 0.4497321, u'stage', 0.096966133, u'academic_gown', 0.066687398, u'abaya', 0.055125322, u'web_site', 0.052795142]
+[u'bow_tie', 0.52806038, u'web_site', 0.24397863, u'book_jacket', 0.063795969, u'abaya', 0.030961271, u'neck_brace', 0.01481306]

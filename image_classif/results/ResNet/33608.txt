@@ -1,0 +1,2 @@
+[u'web_site', 0.89827132, u'Windsor_tie', 0.023962216, u'television', 0.0064647687, u'ibex', 0.002390879, u'sax', 0.0023167657]
+[u'web_site', 0.6715287, u'Windsor_tie', 0.13768202, u'lab_coat', 0.018035226, u'neck_brace', 0.011514205, u'academic_gown', 0.0055124718]

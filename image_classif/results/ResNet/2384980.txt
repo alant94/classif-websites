@@ -1,0 +1,4 @@
+[u'digital_clock', 0.83833414, u'digital_watch', 0.14277519, u'scoreboard', 0.0048886775, u'prayer_rug', 0.00317123, u'wall_clock', 0.0010143997]
+[u'face_powder', 0.34630135, u'loupe', 0.20768462, u'drum', 0.10159408, u'bottlecap', 0.06628713, u'puck', 0.052637193]
+[u'paintbrush', 0.17786148, u'saltshaker', 0.14578673, u'rubber_eraser', 0.065877669, u'fountain', 0.062505014, u'water_bottle', 0.041920703]
+[u'window_screen', 0.21885845, u'window_shade', 0.21150252, u'medicine_chest', 0.17827512, u'theater_curtain', 0.04789377, u'table_lamp', 0.047656033]

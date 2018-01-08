@@ -1,0 +1,2 @@
+[u'web_site', 0.11728529, u'comic_book', 0.046974465, u'television', 0.01937365, u'scoreboard', 0.019173944, u'packet', 0.016526544]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

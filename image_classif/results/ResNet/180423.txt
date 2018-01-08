@@ -1,0 +1,2 @@
+[u'jersey', 0.24555919, u'oil_filter', 0.067753814, u'pill_bottle', 0.044324122, u'power_drill', 0.041156027, u'whistle', 0.028239992]
+[u'book_jacket', 0.1049909, u'pole', 0.079100236, u'web_site', 0.074444123, u'comic_book', 0.068309858, u'balance_beam', 0.044745028]

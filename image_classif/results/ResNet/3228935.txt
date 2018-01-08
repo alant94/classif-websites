@@ -1,0 +1,4 @@
+[u'web_site', 0.7415837, u'envelope', 0.027786829, u'binder', 0.015346756, u'monitor', 0.013384682, u'safety_pin', 0.011112007]
+[u'altar', 0.83381653, u'vestment', 0.072997801, u'candle', 0.0063592046, u'marimba', 0.0062386482, u'bassoon', 0.0062197302]
+[u'vestment', 0.074073583, u'library', 0.028748864, u'stage', 0.028068464, u'marimba', 0.021429272, u'harmonica', 0.020491106]
+[u'web_site', 0.92332298, u'menu', 0.026344646, u'envelope', 0.014967385, u'television', 0.0095956754, u'comic_book', 0.0044196188]

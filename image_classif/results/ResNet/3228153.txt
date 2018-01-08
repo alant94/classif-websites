@@ -1,0 +1,4 @@
+[u'book_jacket', 0.38439932, u'packet', 0.095345974, u'brass', 0.087760381, u'perfume', 0.07476978, u'web_site', 0.042626865]
+[u'umbrella', 0.19048342, u'lakeside', 0.12731647, u'canoe', 0.055033557, u'amphibian', 0.045595434, u'swing', 0.036257535]
+[u'syringe', 0.29672915, u'screwdriver', 0.27434379, u'crane', 0.025107969, u'punching_bag', 0.025043722, u'rule', 0.022765523]
+[u'scoreboard', 0.51262945, u'football_helmet', 0.073108993, u'ballplayer', 0.057758439, u'web_site', 0.025431581, u'book_jacket', 0.016781595]

@@ -1,0 +1,1 @@
+[u'street_sign', 0.41799489, u'tobacco_shop', 0.29138115, u'puck', 0.080732033, u'gas_pump', 0.018252216, u'wall_clock', 0.013744542]

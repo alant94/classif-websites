@@ -1,0 +1,1 @@
+[u'lab_coat', 0.12839305, u'hand-held_computer', 0.08764004, u'television', 0.074017048, u"potter's_wheel", 0.072583288, u'Windsor_tie', 0.055199049]

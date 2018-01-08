@@ -1,0 +1,7 @@
+[u'pineapple', 0.58481014, u'corn', 0.058192357, u'strawberry', 0.05156887, u'banana', 0.027506296, u'ear', 0.025095847]
+[u'switch', 0.31020325, u"carpenter's_kit", 0.052464824, u'oil_filter', 0.042401496, u'dumbbell', 0.041116811, u'toaster', 0.039512139]
+[u'turnstile', 0.41584218, u'perfume', 0.14202081, u'soap_dispenser', 0.098704785, u'medicine_chest', 0.066529922, u'sliding_door', 0.043915842]
+[u'oil_filter', 0.087560438, u'washer', 0.046812713, u'envelope', 0.046798743, u'toilet_seat', 0.042819023, u'web_site', 0.037346702]
+[u'trailer_truck', 0.31931838, u'garbage_truck', 0.13148941, u'tow_truck', 0.12150894, u'fire_engine', 0.10696397, u'harvester', 0.10148928]
+[u'espresso_maker', 0.43594024, u"carpenter's_kit", 0.19799115, u'rotisserie', 0.15437724, u'power_drill', 0.049324237, u'modem', 0.027646841]
+[u'binder', 0.15602988, u'analog_clock', 0.12597375, u'face_powder', 0.11431307, u'envelope', 0.1064752, u'digital_clock', 0.044342738]

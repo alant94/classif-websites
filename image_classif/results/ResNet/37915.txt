@@ -1,0 +1,4 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'oscilloscope', 0.051690418, u'analog_clock', 0.045001011, u'digital_watch', 0.037715174, u'sax', 0.027087357, u'digital_clock', 0.019586893]
+[u'picket_fence', 0.32651821, u'sliding_door', 0.16422735, u'worm_fence', 0.05341927, u'soap_dispenser', 0.029779237, u'bannister', 0.021828134]
+[u'digital_clock', 0.43767899, u'digital_watch', 0.26095977, u'picket_fence', 0.041481931, u'bannister', 0.032992922, u'prison', 0.017170694]

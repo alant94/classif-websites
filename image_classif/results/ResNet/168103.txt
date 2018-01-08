@@ -1,0 +1,6 @@
+[u'shower_curtain', 0.5168612, u'comic_book', 0.093204677, u'altar', 0.030430274, u'wardrobe', 0.030160669, u'book_jacket', 0.023877172]
+[u'lighter', 0.080184981, u'spatula', 0.050234161, u'web_site', 0.038272433, u'safety_pin', 0.029209062, u'hook', 0.026397126]
+[u'church', 0.33172286, u'bell_cote', 0.1735474, u'stupa', 0.13285521, u'street_sign', 0.040794961, u'hook', 0.030411672]
+[u'menu', 0.40865213, u'web_site', 0.23928073, u'envelope', 0.14878023, u'cornet', 0.027754931, u'binder', 0.019342178]
+[u'envelope', 0.2216402, u'paper_towel', 0.039016768, u'toilet_seat', 0.033359684, u'web_site', 0.032122456, u'binder', 0.027496476]
+[u'hand_blower', 0.16988541, u'bow_tie', 0.060090501, u'shower_cap', 0.041507211, u'drumstick', 0.034293748, u'shower_curtain', 0.032417215]

@@ -1,0 +1,4 @@
+[u'web_site', 0.48688179, u'comic_book', 0.15716563, u'book_jacket', 0.047922894, u'vending_machine', 0.014747395, u'packet', 0.014488736]
+[u'web_site', 0.57921338, u'comic_book', 0.11974067, u'book_jacket', 0.037079662, u'screw', 0.021840414, u'padlock', 0.011784829]
+[u'refrigerator', 0.77945185, u'vending_machine', 0.056443654, u'medicine_chest', 0.040499814, u'comic_book', 0.030945828, u'barbershop', 0.022058776]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436, u'wall_clock', 0.0055934126, u'book_jacket', 0.0023178877]

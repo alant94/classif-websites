@@ -1,0 +1,5 @@
+[u'web_site', 0.30818611, u'comic_book', 0.19177383, u'coffee_mug', 0.054061323, u'book_jacket', 0.0527956, u'thimble', 0.021256212]
+[u'book_jacket', 0.48091787, u'screen', 0.19932018, u'monitor', 0.061191488, u'laptop', 0.023080479, u'binder', 0.020557493]
+[u'bolo_tie', 0.64485151, u'knot', 0.085902907, u'oxygen_mask', 0.030398596, u'whistle', 0.028445778, u'chain', 0.026769344]
+[u'book_jacket', 0.52217603, u'comic_book', 0.14345784, u'jigsaw_puzzle', 0.068667062, u'jersey', 0.033422116, u'screen', 0.024854884]
+[u'book_jacket', 0.79289585, u'comic_book', 0.14748536, u'packet', 0.012653509, u'jigsaw_puzzle', 0.011852482, u'altar', 0.0056849639]

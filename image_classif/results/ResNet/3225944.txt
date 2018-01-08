@@ -1,0 +1,7 @@
+[u'jigsaw_puzzle', 0.20913915, u'web_site', 0.1521852, u'cliff_dwelling', 0.047961559, u'ant', 0.033452321, u'balloon', 0.031577114]
+[u'vault', 0.52688146, u'prison', 0.25475043, u'church', 0.093051732, u'monastery', 0.024743576, u'viaduct', 0.017011663]
+[u'loupe', 0.27576658, u'safety_pin', 0.12936585, u'can_opener', 0.12036188, u'hook', 0.089234054, u'padlock', 0.068596415]
+[u'wooden_spoon', 0.32108551, u'sock', 0.055808026, u'maraca', 0.037846491, u'wool', 0.02873143, u'sandal', 0.027146084]
+[u'academic_gown', 0.13509144, u'Sussex_spaniel', 0.056554716, u'library', 0.055244286, u'Dandie_Dinmont', 0.047398765, u'mortarboard', 0.034497216]
+[u'crossword_puzzle', 0.95276695, u'digital_watch', 0.025828937, u'digital_clock', 0.011647333, u'remote_control', 0.0016050887, u'scoreboard', 0.00099231408]
+[u'pick', 0.29038745, u'soap_dispenser', 0.12443648, u'drumstick', 0.096276075, u'pill_bottle', 0.077096477, u'hair_spray', 0.031060843]

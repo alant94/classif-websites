@@ -1,0 +1,2 @@
+[u'Weimaraner', 0.9231807, u'German_short-haired_pointer', 0.020770218, u'vizsla', 0.019244848, u'Labrador_retriever', 0.011639653, u'Chesapeake_Bay_retriever', 0.0084030591]
+[u'West_Highland_white_terrier', 0.39764488, u'Ibizan_hound', 0.33072165, u'clumber', 0.14605244, u'English_setter', 0.048276156, u'wire-haired_fox_terrier', 0.020670831]

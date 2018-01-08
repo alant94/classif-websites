@@ -1,0 +1,3 @@
+[u'web_site', 0.65804082, u'Gordon_setter', 0.094650984, u'bloodhound', 0.019813037, u'black-and-tan_coonhound', 0.011694219, u'basset', 0.010721873]
+[u'football_helmet', 0.31248471, u'lighter', 0.11818781, u'coffee_mug', 0.08066006, u'thimble', 0.045619924, u'beer_glass', 0.045223374]
+[u'bikini', 0.22577007, u'brassiere', 0.20612468, u'wig', 0.18878606, u'web_site', 0.058607478, u'maillot', 0.044802792]

@@ -1,0 +1,8 @@
+[u'feather_boa', 0.55569935, u'bakery', 0.27713159, u'candle', 0.038412903, u'hummingbird', 0.026927058, u'carton', 0.015489652]
+[u'window_screen', 0.42620024, u'electric_fan', 0.18405758, u'chainlink_fence', 0.091969088, u'loudspeaker', 0.064529739, u'binder', 0.025216766]
+[u'barber_chair', 0.31074074, u'web_site', 0.20861509, u'neck_brace', 0.054184537, u'book_jacket', 0.047297496, u'comic_book', 0.035736632]
+[u'bakery', 0.9656961, u'candle', 0.014996842, u'pot', 0.0030754288, u'tray', 0.0021747928, u'eggnog', 0.001789149]
+[u'altar', 0.75676239, u'four-poster', 0.040838107, u'trifle', 0.027861658, u'gown', 0.021521732, u'bakery', 0.01910227]
+[u'chainlink_fence', 0.24063455, u'electric_fan', 0.16025269, u'window_screen', 0.097291924, u'garden_spider', 0.038982552, u'bubble', 0.031531107]
+[u'chainlink_fence', 0.32801861, u'electric_fan', 0.21965726, u'window_screen', 0.09674561, u'binder', 0.039290655, u'bubble', 0.030801039]
+[u'window_screen', 0.32791185, u'electric_fan', 0.1915504, u'chainlink_fence', 0.14296038, u'loudspeaker', 0.056073241, u'bubble', 0.025275502]

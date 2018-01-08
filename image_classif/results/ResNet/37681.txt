@@ -1,0 +1,4 @@
+[u'hair_spray', 0.21704811, u'lotion', 0.15701477, u'sunscreen', 0.11170644, u'perfume', 0.065213367, u'screwdriver', 0.053331438]
+[u'traffic_light', 0.39911732, u'digital_clock', 0.14358456, u'oscilloscope', 0.12141586, u'street_sign', 0.083821096, u'projector', 0.061183866]
+[u'hook', 0.25912014, u'bulletproof_vest', 0.16472107, u'muzzle', 0.077102564, u'binoculars', 0.05192361, u'abaya', 0.034570873]
+[u'lighter', 0.20311472, u'digital_watch', 0.12531413, u'analog_clock', 0.073894873, u'street_sign', 0.072958089, u'digital_clock', 0.062853575]

@@ -1,0 +1,1 @@
+[u'canoe', 0.55762523, u'mountain_tent', 0.082886599, u'pay-phone', 0.049974021, u'golfcart', 0.039920352, u'swing', 0.038014967]

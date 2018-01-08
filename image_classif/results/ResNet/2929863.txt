@@ -1,0 +1,6 @@
+[u'hair_spray', 0.15973611, u'lipstick', 0.12021485, u'wig', 0.11065842, u'hair_slide', 0.058477737, u'stethoscope', 0.041216724]
+[u'alp', 0.47216165, u'rapeseed', 0.37021571, u'valley', 0.019458475, u'marmot', 0.018120367, u'Appenzeller', 0.01381422]
+[u'web_site', 0.24503802, u'Band_Aid', 0.080891088, u'safety_pin', 0.05012631, u'analog_clock', 0.038513839, u'sunscreen', 0.037388664]
+[u'book_jacket', 0.042761948, u'stopwatch', 0.042043496, u'web_site', 0.036422066, u'analog_clock', 0.031927772, u'comic_book', 0.02845257]
+[u'crossword_puzzle', 0.50872755, u'prayer_rug', 0.045032911, u'shower_curtain', 0.044568215, u'medicine_chest', 0.036045037, u'web_site', 0.034747101]
+[u'pinwheel', 0.90865123, u'magnetic_compass', 0.027169956, u'web_site', 0.017277062, u'screw', 0.0058769463, u'analog_clock', 0.0043706317]

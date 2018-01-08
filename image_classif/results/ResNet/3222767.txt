@@ -1,0 +1,2 @@
+[u'window_screen', 0.58887482, u'chainlink_fence', 0.27887052, u'fire_screen', 0.021147769, u'church', 0.02049931, u'window_shade', 0.014261396]
+[u'digital_clock', 0.99632061, u'analog_clock', 0.0016835966, u'digital_watch', 0.0011657607, u'oscilloscope', 0.00028129472, u'screen', 0.00025669689]

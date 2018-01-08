@@ -1,0 +1,7 @@
+[u'analog_clock', 0.16334049, u'loupe', 0.14637446, u'screw', 0.11426464, u'oxygen_mask', 0.068059288, u'switch', 0.051943995]
+[u'pick', 0.25811875, u'chain', 0.14974555, u'coffee_mug', 0.10670738, u'stopwatch', 0.052020796, u'digital_clock', 0.030973347]
+[u'greenhouse', 0.23348629, u'tile_roof', 0.20003775, u'patio', 0.16689743, u'picket_fence', 0.062120397, u'boathouse', 0.037897862]
+[u'envelope', 0.14081293, u'horizontal_bar', 0.11320443, u'fire_screen', 0.083068542, u'scale', 0.064285167, u'guillotine', 0.043782335]
+[u'guillotine', 0.069881119, u'screwdriver', 0.051887501, u'loupe', 0.04365696, u'scoreboard', 0.042974651, u'bow', 0.040337581]
+[u'joystick', 0.1622663, u'table_lamp', 0.14546886, u'spotlight', 0.1389288, u'stove', 0.068152383, u'grand_piano', 0.053200424]
+[u'ambulance', 0.4460775, u'lighter', 0.1024323, u'binder', 0.061683245, u'moving_van', 0.050943285, u'police_van', 0.039498214]

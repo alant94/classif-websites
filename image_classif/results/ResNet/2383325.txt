@@ -1,0 +1,3 @@
+[u'face_powder', 0.1841106, u'nematode', 0.11735897, u'drum', 0.076587275, u'gasmask', 0.058252662, u'analog_clock', 0.045843963]
+[u'scoreboard', 0.17276464, u'web_site', 0.091760777, u'tobacco_shop', 0.053180732, u'lighter', 0.048084527, u'abaya', 0.030935362]
+[u'face_powder', 0.29344133, u'book_jacket', 0.10061548, u'street_sign', 0.08796753, u'brass', 0.083064266, u'puck', 0.039585348]

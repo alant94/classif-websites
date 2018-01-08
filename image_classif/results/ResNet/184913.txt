@@ -1,0 +1,8 @@
+[u'web_site', 0.15635686, u'spotlight', 0.049767978, u'washer', 0.038048871, u'hatchet', 0.024820315, u'loupe', 0.023851953]
+[u'crossword_puzzle', 0.97721511, u'container_ship', 0.014729735, u'flagpole', 0.0010902132, u'tobacco_shop', 0.00075049466, u'pole', 0.0007456193]
+[u'comic_book', 0.32021788, u'menu', 0.151657, u'book_jacket', 0.13033254, u'web_site', 0.048951909, u'hand-held_computer', 0.046325237]
+[u'tricycle', 0.11306455, u'rocking_chair', 0.064102203, u'balloon', 0.046037182, u'swing', 0.034159537, u'pajama', 0.027533691]
+[u'book_jacket', 0.31272182, u'web_site', 0.30435228, u'brass', 0.049061771, u'cash_machine', 0.045777656, u'bookshop', 0.014508395]
+[u'jersey', 0.12291285, u'sweatshirt', 0.054928523, u'street_sign', 0.05185191, u'cash_machine', 0.040957939, u'web_site', 0.040065106]
+[u'comic_book', 0.56341112, u'web_site', 0.38521868, u'sunglasses', 0.0044255736, u'menu', 0.0040730461, u'rapeseed', 0.003128065]
+[u'web_site', 0.21163845, u'book_jacket', 0.13681003, u'envelope', 0.10095536, u'menu', 0.044936515, u'scale', 0.041882541]

@@ -1,0 +1,2 @@
+[u'barrel', 0.32709038, u'rain_barrel', 0.074559815, u'refrigerator', 0.068537846, u'picket_fence', 0.05661992, u'corn', 0.035113618]
+[u'hatchet', 0.12483027, u'hammer', 0.091300949, u'hook', 0.09044119, u'shovel', 0.056451485, u'web_site', 0.053895798]

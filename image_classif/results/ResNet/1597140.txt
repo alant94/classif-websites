@@ -1,0 +1,5 @@
+[u'sunglass', 0.5022527, u'sunglasses', 0.49083048, u'wig', 0.0028405599, u'seat_belt', 0.0021860295, u'bathing_cap', 0.00047321536]
+[u'diaper', 0.2192319, u'maillot', 0.18359169, u'brassiere', 0.10824444, u'bikini', 0.084782667, u'miniskirt', 0.067591928]
+[u'axolotl', 0.09941408, u'nipple', 0.038948808, u'plunger', 0.035084479, u'flute', 0.031822793, u'Band_Aid', 0.027994068]
+[u'gas_pump', 0.05598022, u'scoreboard', 0.055053048, u'vending_machine', 0.032486301, u'bullet_train', 0.022872755, u'Dandie_Dinmont', 0.022490555]
+[u'black-footed_ferret', 0.69905162, u'Pomeranian', 0.057657078, u'polecat', 0.047652017, u'Chihuahua', 0.031475611, u'Norwich_terrier', 0.019700484]

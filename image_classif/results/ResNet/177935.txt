@@ -1,0 +1,6 @@
+[u'digital_clock', 0.22613281, u'whistle', 0.10664424, u'ski', 0.041703679, u'hair_slide', 0.037432525, u'screwdriver', 0.02858761]
+[u'screen', 0.53749329, u'digital_watch', 0.10375874, u'cash_machine', 0.070883617, u'oscilloscope', 0.043804899, u'book_jacket', 0.036185976]
+[u'web_site', 0.99662626, u'nematode', 0.000263469, u'stopwatch', 0.00017246368, u'bannister', 0.00010531028, u'isopod', 0.0001019881]
+[u'sunscreen', 0.78005719, u'maraca', 0.054394614, u'envelope', 0.024970686, u'web_site', 0.01564673, u'nipple', 0.014626518]
+[u'snowplow', 0.49292678, u'plow', 0.42169982, u'guillotine', 0.049648095, u'envelope', 0.0049954406, u'shovel', 0.0045400755]
+[u'envelope', 0.11010602, u'file', 0.10483979, u'web_site', 0.082185626, u'rule', 0.061362855, u'maze', 0.058181569]

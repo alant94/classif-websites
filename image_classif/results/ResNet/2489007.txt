@@ -1,0 +1,2 @@
+[u'timber_wolf', 0.28611514, u'grey_fox', 0.13498841, u'dhole', 0.13446316, u'red_wolf', 0.10008514, u'white_wolf', 0.088480458]
+[u'kelpie', 0.17556964, u'warthog', 0.15379389, u'chain_saw', 0.079824589, u'American_black_bear', 0.066440225, u'cougar', 0.051502075]

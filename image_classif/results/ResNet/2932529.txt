@@ -1,0 +1,6 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193, u'church', 0.001613372, u'picket_fence', 0.001450751]
+[u'hair_spray', 0.47299036, u'perfume', 0.18295117, u'face_powder', 0.053396352, u'screwdriver', 0.03755074, u'lipstick', 0.033930413]
+[u'Band_Aid', 0.45998216, u'web_site', 0.16749537, u'digital_clock', 0.076784417, u'envelope', 0.065406986, u'laptop', 0.02273131]
+[u'stethoscope', 0.54660171, u'kimono', 0.4119958, u'lab_coat', 0.030642942, u'pajama', 0.0025676014, u'sarong', 0.0012357105]
+[u'stage', 0.14862683, u'torch', 0.12583855, u'monitor', 0.12209759, u'oscilloscope', 0.078839719, u'spider_web', 0.06753581]
+[u'street_sign', 0.31113869, u'lighter', 0.082165956, u'scale', 0.062966749, u'remote_control', 0.02405729, u'oil_filter', 0.019685294]

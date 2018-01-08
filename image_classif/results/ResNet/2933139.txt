@@ -1,0 +1,5 @@
+[u'book_jacket', 0.36746949, u'jersey', 0.14663811, u'scoreboard', 0.099283166, u'street_sign', 0.045027144, u'prayer_rug', 0.044636305]
+[u'book_jacket', 0.21007921, u'scoreboard', 0.18946487, u'digital_clock', 0.13862894, u'street_sign', 0.12059554, u'jersey', 0.053282242]
+[u'digital_clock', 0.36214986, u'book_jacket', 0.22387499, u'scoreboard', 0.11485859, u'street_sign', 0.05000674, u'jersey', 0.022123709]
+[u'book_jacket', 0.49023005, u'jersey', 0.11301494, u'binder', 0.053095851, u'plastic_bag', 0.032194961, u'hamper', 0.03071896]
+[u'book_jacket', 0.2755948, u'jersey', 0.18242599, u'binder', 0.06466724, u'scoreboard', 0.042611968, u'ashcan', 0.032918245]

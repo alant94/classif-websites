@@ -1,0 +1,3 @@
+[u'shoe_shop', 0.28229681, u'comic_book', 0.18389402, u'bookshop', 0.086706147, u'jigsaw_puzzle', 0.086590797, u'toyshop', 0.035634853]
+[u'library', 0.84656465, u'bookshop', 0.10859562, u'desk', 0.016061405, u'bookcase', 0.0089311674, u'dining_table', 0.0046254108]
+[u'pick', 0.10337084, u'face_powder', 0.064203054, u'book_jacket', 0.060833346, u'lotion', 0.042194773, u'hair_spray', 0.039044462]

@@ -1,0 +1,6 @@
+[u'can_opener', 0.11856964, u'dial_telephone', 0.10439603, u'hair_slide', 0.072376393, u'hook', 0.065673776, u'pencil_sharpener', 0.048009649]
+[u'waffle_iron', 0.51925015, u'bakery', 0.22789916, u'spatula', 0.048203133, u'letter_opener', 0.025712874, u'plate', 0.021453219]
+[u'shield', 0.2815699, u'wall_clock', 0.20619453, u'swab', 0.17611021, u'pot', 0.042585317, u'paintbrush', 0.03092517]
+[u'wool', 0.26875183, u'teddy', 0.12746193, u'hair_slide', 0.092483811, u'mitten', 0.02888255, u'triceratops', 0.022473715]
+[u'tray', 0.81268376, u'handkerchief', 0.020502165, u'mailbag', 0.0162389, u'fire_screen', 0.013229722, u'cradle', 0.012988928]
+[u'can_opener', 0.5663662, u'plate_rack', 0.10729927, u'frying_pan', 0.086836852, u'wok', 0.050606437, u'Dutch_oven', 0.047867313]

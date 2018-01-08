@@ -1,0 +1,8 @@
+[u'ski', 0.18955526, u'alp', 0.16295749, u'suspension_bridge', 0.092922926, u'picket_fence', 0.084138259, u'jigsaw_puzzle', 0.04369688]
+[u'handkerchief', 0.16025557, u'paper_towel', 0.073376745, u'web_site', 0.072460219, u'sleeping_bag', 0.071763881, u'seashore', 0.047537047]
+[u'fountain', 0.3321991, u'spotlight', 0.20372894, u'West_Highland_white_terrier', 0.08534988, u'organ', 0.077584878, u'greenhouse', 0.063435838]
+[u'prayer_rug', 0.3563365, u'book_jacket', 0.26036346, u'comic_book', 0.19515054, u'jersey', 0.027029075, u'tray', 0.014883158]
+[u'book_jacket', 0.36943364, u'sports_car', 0.12706648, u'fire_screen', 0.072370134, u'wall_clock', 0.040991183, u'convertible', 0.03915377]
+[u'web_site', 0.61388046, u'envelope', 0.24627414, u'screen', 0.02311261, u'menu', 0.019016176, u'jigsaw_puzzle', 0.014118193]
+[u'drilling_platform', 0.41589075, u'pirate', 0.25043717, u'submarine', 0.084993348, u'crane', 0.079465941, u'schooner', 0.032243259]
+[u'rifle', 0.041775033, u'hen-of-the-woods', 0.038004473, u'assault_rifle', 0.037562855, u'paddle', 0.032137103, u'mountain_tent', 0.031582039]

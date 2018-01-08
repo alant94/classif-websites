@@ -1,0 +1,2 @@
+[u'web_site', 0.52121687, u'electric_fan', 0.2100409, u'sea_snake', 0.060317744, u'coil', 0.038501471, u'analog_clock', 0.03043551]
+[u'sulphur-crested_cockatoo', 0.15252292, u'American_egret', 0.041704185, u'bucket', 0.038356822, u'Petri_dish', 0.033890054, u'analog_clock', 0.033624843]

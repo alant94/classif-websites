@@ -1,0 +1,2 @@
+[u'lotion', 0.27815247, u'candle', 0.17144798, u'milk_can', 0.065502867, u'face_powder', 0.047070425, u'hair_spray', 0.04043917]
+[u'beer_bottle', 0.57029915, u'vending_machine', 0.14530171, u'hair_spray', 0.083748594, u'beer_glass', 0.065054312, u'bottlecap', 0.037184872]

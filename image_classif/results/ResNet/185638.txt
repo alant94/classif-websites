@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.46771234, u'hand-held_computer', 0.064131729, u'lab_coat', 0.05929276, u'suit', 0.018581137, u'web_site', 0.014374241]
+[u'barbell', 0.34209928, u'barrow', 0.078300998, u'snorkel', 0.065991685, u'television', 0.04331708, u'swing', 0.036653642]
+[u'web_site', 0.86122626, u'screen', 0.021763656, u'envelope', 0.017368162, u'monitor', 0.014570829, u'television', 0.012442326]
+[u'plane', 0.27323866, u'maraca', 0.16662444, u'snail', 0.16483799, u'web_site', 0.056483723, u'gong', 0.020474859]
+[u'Windsor_tie', 0.10072328, u'barbell', 0.05898663, u'suit', 0.056017578, u'lab_coat', 0.051652685, u'bow', 0.044493292]

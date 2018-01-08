@@ -1,0 +1,6 @@
+[u'packet', 0.37811956, u'book_jacket', 0.11488932, u'jersey', 0.10490112, u'sweatshirt', 0.050671723, u'plastic_bag', 0.042743422]
+[u'bannister', 0.97183704, u'vault', 0.0097757513, u'chainlink_fence', 0.0031100903, u'greenhouse', 0.0021253293, u'coil', 0.0017826768]
+[u'web_site', 0.59484154, u'menu', 0.058736585, u'freight_car', 0.03208464, u'window_shade', 0.02953651, u'television', 0.021675628]
+[u'turnstile', 0.49368265, u'dining_table', 0.10654421, u'rocking_chair', 0.10155251, u'perfume', 0.045152504, u'folding_chair', 0.020517966]
+[u'mailbox', 0.25033712, u'envelope', 0.043349173, u'digital_clock', 0.041422293, u'cash_machine', 0.038825475, u'street_sign', 0.033569578]
+[u'folding_chair', 0.99727172, u'cinema', 0.00057237124, u'shopping_cart', 0.00015166169, u'computer_keyboard', 0.00015039451, u'water_bottle', 0.00012848977]

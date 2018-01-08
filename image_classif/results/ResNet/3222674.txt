@@ -1,0 +1,6 @@
+[u'oscilloscope', 0.4941487, u'suspension_bridge', 0.19958597, u'analog_clock', 0.14747427, u'digital_clock', 0.029359167, u'steel_arch_bridge', 0.013825594]
+[u'digital_clock', 0.79407007, u'analog_clock', 0.046556063, u'street_sign', 0.034966081, u'traffic_light', 0.031687524, u'oscilloscope', 0.020796631]
+[u'spotlight', 0.23018701, u'iPod', 0.10957113, u'street_sign', 0.10832702, u'oxygen_mask', 0.073780172, u'traffic_light', 0.070672959]
+[u'spotlight', 0.33756, u'oxygen_mask', 0.21806905, u'pill_bottle', 0.035877723, u'remote_control', 0.030480376, u'oil_filter', 0.028043522]
+[u'remote_control', 0.19513594, u'oxygen_mask', 0.18272889, u'spotlight', 0.1169216, u'street_sign', 0.10462081, u'iPod', 0.085781276]
+[u'street_sign', 0.17312084, u'oxygen_mask', 0.11389362, u'traffic_light', 0.078904592, u'remote_control', 0.06191019, u'switch', 0.03912947]

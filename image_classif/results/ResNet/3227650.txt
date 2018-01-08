@@ -1,0 +1,1 @@
+[u'acoustic_guitar', 0.66562706, u'electric_guitar', 0.26984686, u'banjo', 0.053892173, u'cowboy_hat', 0.0046382891, u'accordion', 0.0012559028]

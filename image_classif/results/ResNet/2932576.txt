@@ -1,0 +1,3 @@
+[u'electric_fan', 0.16692762, u'web_site', 0.10724326, u'sunscreen', 0.069325007, u'envelope', 0.065741278, u'gasmask', 0.062073149]
+[u'tennis_ball', 0.85231906, u'rugby_ball', 0.014720735, u'pick', 0.0077924281, u'web_site', 0.0068289083, u'screw', 0.0061584157]
+[u'web_site', 0.25191033, u'envelope', 0.15614931, u'book_jacket', 0.09846589, u'menu', 0.063627094, u'screen', 0.018680545]

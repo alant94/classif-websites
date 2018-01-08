@@ -1,0 +1,1 @@
+[u'tray', 0.31553924, u'abacus', 0.21572913, u'digital_clock', 0.081083097, u'envelope', 0.054908425, u'wallet', 0.035655763]

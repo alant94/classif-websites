@@ -1,0 +1,6 @@
+[u'tub', 0.31576744, u'bathtub', 0.087129779, u'window_shade', 0.075521708, u'washbasin', 0.062642723, u'soap_dispenser', 0.054746184]
+[u'monitor', 0.68278176, u'screen', 0.097932912, u'web_site', 0.052208617, u'notebook', 0.044131715, u'iPod', 0.034449395]
+[u'barrel', 0.99988914, u'rain_barrel', 8.717661e-05, u'plate_rack', 6.3773596e-06, u'freight_car', 3.2309795e-06, u'forklift', 3.1813277e-06]
+[u'desktop_computer', 0.45852202, u'screen', 0.11484245, u'analog_clock', 0.075937144, u'wall_clock', 0.060210079, u'television', 0.048256204]
+[u'barrel', 0.99863321, u'freight_car', 0.00070741773, u'electric_locomotive', 0.00032578458, u'rain_barrel', 0.00017044377, u'trailer_truck', 4.2374362e-05]
+[u'barrel', 0.64982146, u'forklift', 0.066406995, u'drum', 0.049055561, u'dumbbell', 0.035234064, u'wine_bottle', 0.017523941]

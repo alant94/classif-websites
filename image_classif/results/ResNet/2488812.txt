@@ -1,0 +1,5 @@
+[u'Rottweiler', 0.051042922, u'EntleBucher', 0.041974891, u'clumber', 0.033129215, u'dalmatian', 0.031771317, u'bathing_cap', 0.02988453]
+[u'wig', 0.31449708, u'web_site', 0.14020249, u'lab_coat', 0.13054757, u'Windsor_tie', 0.043763984, u'tobacco_shop', 0.035046577]
+[u'barn', 0.673971, u'boathouse', 0.11761355, u'picket_fence', 0.051449366, u'church', 0.030481113, u'mobile_home', 0.028873252]
+[u'recreational_vehicle', 0.24804555, u'beach_wagon', 0.17398673, u'pickup', 0.14986584, u'jeep', 0.092920884, u'convertible', 0.07548099]
+[u'hard_disc', 0.36931556, u'iPod', 0.23861524, u'modem', 0.18965954, u'cellular_telephone', 0.061358657, u'hand-held_computer', 0.034335747]

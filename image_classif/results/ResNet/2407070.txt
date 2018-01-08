@@ -1,0 +1,1 @@
+[u'rifle', 0.39839286, u'assault_rifle', 0.26382962, u'lumbermill', 0.18582125, u'bow', 0.046412315, u'solar_dish', 0.040524956]

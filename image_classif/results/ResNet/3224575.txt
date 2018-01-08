@@ -1,0 +1,4 @@
+[u'wardrobe', 0.5033955, u'jean', 0.090448923, u'sweatshirt', 0.046912335, u'suit', 0.033278216, u'abaya', 0.026006382]
+[u'notebook', 0.484732, u'lab_coat', 0.085052624, u'laptop', 0.063069008, u'desk', 0.019442439, u'library', 0.013948956]
+[u'street_sign', 0.58544129, u'cash_machine', 0.13464867, u'web_site', 0.037829816, u'lighter', 0.035214152, u'analog_clock', 0.029899189]
+[u'crash_helmet', 0.15776366, u'ballplayer', 0.11977568, u'sarong', 0.048770562, u'bearskin', 0.047180045, u'whistle', 0.032938674]

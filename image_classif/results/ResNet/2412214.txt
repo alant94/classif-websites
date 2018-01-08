@@ -1,0 +1,4 @@
+[u'fire_screen', 0.44696885, u'window_screen', 0.14492989, u'book_jacket', 0.1076006, u'prayer_rug', 0.039406776, u'cassette', 0.020679992]
+[u'handkerchief', 0.33456722, u'window_screen', 0.096554413, u'window_shade', 0.085900538, u'prayer_rug', 0.075656295, u'fire_screen', 0.07031782]
+[u'television', 0.36560965, u'window_screen', 0.25282013, u'screen', 0.10841363, u'hand-held_computer', 0.018882381, u'web_site', 0.017794762]
+[u'fire_screen', 0.20842803, u'window_screen', 0.1993074, u'prayer_rug', 0.15507664, u'doormat', 0.044073343, u'handkerchief', 0.031959448]

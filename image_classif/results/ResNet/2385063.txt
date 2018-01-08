@@ -1,0 +1,4 @@
+[u'web_site', 0.3762213, u'lab_coat', 0.16777635, u'Windsor_tie', 0.083357371, u'laptop', 0.019180799, u'stethoscope', 0.017683674]
+[u'bannister', 0.22838081, u'prison', 0.21253657, u'bookcase', 0.067619041, u'file', 0.049439993, u'web_site', 0.044884834]
+[u'dishwasher', 0.37864614, u'barrel', 0.06996005, u'turnstile', 0.038074274, u'desktop_computer', 0.025231281, u'water_bottle', 0.023144992]
+[u'milk_can', 0.49173987, u'radiator', 0.054320313, u'washbasin', 0.04556096, u'chime', 0.037244599, u'medicine_chest', 0.03005226]

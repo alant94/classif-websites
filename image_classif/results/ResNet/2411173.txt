@@ -1,0 +1,8 @@
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524, u'nematode', 0.018177813, u'hourglass', 0.017490987]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'whiskey_jug', 0.38926104, u'perfume', 0.26075917, u'pill_bottle', 0.16412878, u'lotion', 0.10893057, u'sunscreen', 0.010968941]
+[u'whiskey_jug', 0.46656546, u'pill_bottle', 0.28190288, u'perfume', 0.1309171, u'lotion', 0.039619237, u'chocolate_sauce', 0.016269397]
+[u'pill_bottle', 0.5948385, u'lotion', 0.13109556, u'whiskey_jug', 0.12996513, u'perfume', 0.053926282, u'sunscreen', 0.023904119]
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524, u'nematode', 0.018177813, u'hourglass', 0.017490987]
+[u'web_site', 0.19564518, u'theater_curtain', 0.049598452, u'envelope', 0.028372524, u'nematode', 0.018177813, u'hourglass', 0.017490987]
+[u'packet', 0.19859201, u'vending_machine', 0.13254438, u'Band_Aid', 0.1127694, u'slot', 0.10869539, u'comic_book', 0.058410227]

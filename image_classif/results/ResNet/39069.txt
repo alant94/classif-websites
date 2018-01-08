@@ -1,0 +1,1 @@
+[u'vase', 0.19086401, u'pot', 0.11126313, u'microphone', 0.088334784, u'thimble', 0.07447993, u'dining_table', 0.029852709]

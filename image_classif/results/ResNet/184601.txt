@@ -1,0 +1,6 @@
+[u'electric_guitar', 0.28834784, u'power_drill', 0.063249655, u'screwdriver', 0.045350935, u'banjo', 0.042548142, u'Band_Aid', 0.035649832]
+[u'puck', 0.96401346, u'ping-pong_ball', 0.0085502611, u'shield', 0.004613765, u'drum', 0.002834778, u'face_powder', 0.0020046355]
+[u'prison', 0.29067907, u'tobacco_shop', 0.24532597, u'book_jacket', 0.12988013, u'barbershop', 0.11495905, u'comic_book', 0.041478667]
+[u'sunglasses', 0.87423742, u'sunglass', 0.093032315, u'wig', 0.00624036, u'hair_slide', 0.0035527854, u'brassiere', 0.0035459241]
+[u'web_site', 0.60293341, u'comic_book', 0.074720964, u'book_jacket', 0.053756397, u'monitor', 0.042606443, u'binder', 0.021823455]
+[u'binder', 0.18014471, u'laptop', 0.091553845, u'chain_saw', 0.086826064, u'puck', 0.034886647, u'barbell', 0.031947054]

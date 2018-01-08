@@ -1,0 +1,2 @@
+[u'folding_chair', 0.22697772, u'web_site', 0.13391936, u'pillow', 0.058379766, u'envelope', 0.050409652, u'rocking_chair', 0.043916345]
+[u'washbasin', 0.069479831, u'shower_curtain', 0.069404036, u'envelope', 0.066764563, u'bathtub', 0.064121366, u'soap_dispenser', 0.061866309]

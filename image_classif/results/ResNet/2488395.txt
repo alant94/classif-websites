@@ -1,0 +1,3 @@
+[u'envelope', 0.21611014, u'menu', 0.1034155, u'web_site', 0.061190307, u'binder', 0.030499168, u'paintbrush', 0.026099699]
+[u'chain', 0.077962227, u'web_site', 0.068673469, u'lipstick', 0.041866321, u'oscilloscope', 0.036597982, u'coffee_mug', 0.030824205]
+[u'altar', 0.59593475, u'traffic_light', 0.060399737, u'crate', 0.035536036, u'street_sign', 0.027779706, u'picket_fence', 0.019184373]

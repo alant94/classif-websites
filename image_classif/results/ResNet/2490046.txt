@@ -1,0 +1,1 @@
+[u'quail', 0.26442468, u'book_jacket', 0.22264338, u'packet', 0.077777199, u'lighter', 0.017199494, u'jersey', 0.015272605]

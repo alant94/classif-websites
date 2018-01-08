@@ -1,0 +1,6 @@
+[u'cornet', 0.10282259, u'hair_slide', 0.082505085, u'nematode', 0.062338091, u'safety_pin', 0.043935951, u'hook', 0.037268404]
+[u'seashore', 0.82381797, u'promontory', 0.093720146, u'lakeside', 0.022623008, u'beacon', 0.021660646, u'web_site', 0.0091532748]
+[u'loupe', 0.83472008, u'puck', 0.049965318, u'racket', 0.035049677, u'ski_mask', 0.0057745031, u'bib', 0.0050297137]
+[u'consomme', 0.11274333, u'wall_clock', 0.087345287, u'spaghetti_squash', 0.048075546, u'plate', 0.023691691, u'pencil_sharpener', 0.022987194]
+[u'tripod', 0.22679436, u'iron', 0.11675654, u'stopwatch', 0.07801713, u'hair_spray', 0.040458988, u'can_opener', 0.032939103]
+[u'library', 0.14020853, u'bookshop', 0.12397892, u'dining_table', 0.11248111, u'vestment', 0.081889443, u'restaurant', 0.053049989]

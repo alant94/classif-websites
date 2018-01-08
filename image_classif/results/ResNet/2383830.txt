@@ -1,0 +1,2 @@
+[u'valley', 0.50567102, u'lakeside', 0.085335851, u'sandbar', 0.060095407, u'alp', 0.038018897, u'promontory', 0.02901268]
+[u'valley', 0.92822081, u'lakeside', 0.034719247, u'suspension_bridge', 0.01220357, u'dam', 0.0092250491, u'promontory', 0.0051587]

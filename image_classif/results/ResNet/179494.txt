@@ -1,0 +1,4 @@
+[u'tench', 0.45994401, u'barracouta', 0.40381655, u'gar', 0.067602135, u'sturgeon', 0.028423002, u'coho', 0.016151613]
+[u'can_opener', 0.56401491, u'chain_saw', 0.24932931, u'loupe', 0.055753775, u'hook', 0.043016382, u'corkscrew', 0.025555972]
+[u'nematode', 0.14486131, u'book_jacket', 0.10627612, u'lipstick', 0.054016314, u'vase', 0.041028187, u'theater_curtain', 0.038648531]
+[u'knee_pad', 0.31584835, u'reflex_camera', 0.11821744, u'half_track', 0.065671653, u'holster', 0.059319213, u'spotlight', 0.040259872]

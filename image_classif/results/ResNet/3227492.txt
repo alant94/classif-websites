@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.40780902, u'web_site', 0.079606876, u'knot', 0.043670855, u'nail', 0.03339019, u'loupe', 0.028532336]
+[u'flagpole', 0.42323709, u'beacon', 0.10114702, u'obelisk', 0.089407787, u'web_site', 0.043414101, u'bannister', 0.034960624]
+[u'Windsor_tie', 0.63356906, u'suit', 0.22865352, u'academic_gown', 0.054770183, u'bow_tie', 0.023057336, u'web_site', 0.017889554]
+[u'analog_clock', 0.71330178, u'wall_clock', 0.28637254, u'stopwatch', 0.00015754139, u'barometer', 6.4936634e-05, u'digital_clock', 3.6592093e-05]

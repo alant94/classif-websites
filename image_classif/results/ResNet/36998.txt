@@ -1,0 +1,6 @@
+[u'web_site', 0.833076, u'envelope', 0.030171882, u'window_shade', 0.027458766, u'digital_clock', 0.013690598, u'studio_couch', 0.0072155078]
+[u'web_site', 0.85921049, u'envelope', 0.023374412, u'rule', 0.009707097, u'bannister', 0.0096567106, u'padlock', 0.009006449]
+[u'pedestal', 0.24226311, u'wardrobe', 0.16705276, u'refrigerator', 0.13858093, u'shower_curtain', 0.061725058, u'binder', 0.039787527]
+[u'web_site', 0.63556045, u'rule', 0.036596552, u'hourglass', 0.026219293, u'spotlight', 0.016604919, u'ski', 0.015360994]
+[u'binder', 0.12454323, u'web_site', 0.07693541, u'envelope', 0.049740024, u'lotion', 0.043014728, u'cash_machine', 0.040888585]
+[u'pedestal', 0.2593545, u'refrigerator', 0.18238074, u'wardrobe', 0.13874306, u'binder', 0.042930081, u'shower_curtain', 0.031362537]

@@ -1,0 +1,1 @@
+[u'paper_towel', 0.22373347, u'barrel', 0.12304185, u'gazelle', 0.054310594, u'plastic_bag', 0.045493979, u'crate', 0.036409676]

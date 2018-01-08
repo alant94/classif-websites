@@ -1,0 +1,5 @@
+[u'English_setter', 0.14299934, u'book_jacket', 0.096226856, u'borzoi', 0.078669854, u'kuvasz', 0.054194603, u'English_foxhound', 0.048761934]
+[u'prayer_rug', 0.50270885, u'fire_screen', 0.3670685, u'window_screen', 0.03084188, u'altar', 0.030265598, u'tray', 0.014474983]
+[u'book_jacket', 0.73706013, u'triumphal_arch', 0.025944404, u'theater_curtain', 0.023761366, u'tray', 0.018903932, u'comic_book', 0.014526695]
+[u'theater_curtain', 0.12943771, u'television', 0.11195908, u'altar', 0.094062932, u'throne', 0.062795185, u'cinema', 0.062622078]
+[u'red_fox', 0.50460279, u'kit_fox', 0.14571892, u'dingo', 0.12968408, u'grey_fox', 0.071235456, u'red_wolf', 0.034059893]

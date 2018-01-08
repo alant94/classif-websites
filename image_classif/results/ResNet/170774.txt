@@ -1,0 +1,3 @@
+[u'trombone', 0.55635148, u'cornet', 0.39954045, u'safe', 0.018698398, u'shower_curtain', 0.0076649566, u'scabbard', 0.0030305965]
+[u'ski', 0.27836207, u'trombone', 0.16155656, u'sax', 0.12691766, u'pay-phone', 0.084164396, u'cornet', 0.081747733]
+[u'trombone', 0.95787615, u'cornet', 0.018535508, u'barbell', 0.0061051962, u'corkscrew', 0.0015248877, u'scabbard', 0.0013986392]

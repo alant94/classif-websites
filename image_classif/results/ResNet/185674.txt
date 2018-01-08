@@ -1,0 +1,2 @@
+[u'web_site', 0.13227825, u'scoreboard', 0.046683282, u'oil_filter', 0.038721498, u'lighter', 0.023452973, u'hair_spray', 0.01715178]
+[u'iron', 0.067713194, u'hand_blower', 0.065660238, u'laptop', 0.030839736, u'shower_curtain', 0.029599072, u'crutch', 0.029122304]

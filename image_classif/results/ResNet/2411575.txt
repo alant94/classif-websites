@@ -1,0 +1,1 @@
+[u'rifle', 0.46868768, u'revolver', 0.37108755, u'assault_rifle', 0.061465021, u'can_opener', 0.025610242, u'screwdriver', 0.010123673]

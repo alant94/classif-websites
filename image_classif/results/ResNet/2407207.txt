@@ -1,0 +1,7 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.28533706, u'cassette', 0.10214835, u'oscilloscope', 0.074472532, u'moving_van', 0.041561753, u'radio', 0.033098273]
+[u'web_site', 0.7564348, u'menu', 0.084974997, u'packet', 0.04549564, u'meat_loaf', 0.043867707, u'corn', 0.029089341]
+[u'Band_Aid', 0.90410274, u'web_site', 0.048974339, u'lotion', 0.01180043, u'packet', 0.0073768119, u'hair_spray', 0.0055653639]
+[u'oil_filter', 0.3459391, u'barrel', 0.22516204, u'pill_bottle', 0.11086749, u'hair_spray', 0.082878321, u'lotion', 0.055461586]
+[u'packet', 0.18089226, u'bakery', 0.17427905, u'menu', 0.16549514, u'carton', 0.071910068, u'bagel', 0.070324033]
+[u'moving_van', 0.38530821, u'carton', 0.14798, u'web_site', 0.071675658, u'trailer_truck', 0.043755971, u'cassette', 0.026326014]

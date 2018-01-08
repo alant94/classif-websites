@@ -1,0 +1,1 @@
+[u'comic_book', 0.1405246, u'web_site', 0.069607027, u'banana', 0.059975713, u'iron', 0.052105542, u'bannister', 0.050464366]

@@ -1,0 +1,3 @@
+[u'refrigerator', 0.1672506, u'fire_screen', 0.096028745, u'dishwasher', 0.087552816, u'wardrobe', 0.081559099, u'washer', 0.060810249]
+[u'sunscreen', 0.99836379, u'lotion', 0.0012473151, u'pill_bottle', 9.2171751e-05, u'Band_Aid', 6.6224471e-05, u'oil_filter', 2.8123748e-05]
+[u'wardrobe', 0.050342672, u'dishwasher', 0.041468725, u'refrigerator', 0.032839365, u'fire_screen', 0.032318845, u'envelope', 0.032193337]

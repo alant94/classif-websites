@@ -1,0 +1,3 @@
+[u'tennis_ball', 0.18601665, u'puck', 0.067775726, u'book_jacket', 0.060698286, u'web_site', 0.045513753, u'golf_ball', 0.041143764]
+[u'jigsaw_puzzle', 0.98782998, u'envelope', 0.001747612, u'pencil_sharpener', 0.0013281433, u'handkerchief', 0.0012031868, u'rubber_eraser', 0.00094559247]
+[u'web_site', 0.15257435, u'safe', 0.1007045, u'oscilloscope', 0.064804122, u'monitor', 0.055756442, u'scoreboard', 0.045626413]

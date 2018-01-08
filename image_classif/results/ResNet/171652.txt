@@ -1,0 +1,4 @@
+[u'web_site', 0.60434026, u'menu', 0.022201195, u'book_jacket', 0.02099878, u'envelope', 0.018558843, u'comic_book', 0.017531715]
+[u'web_site', 0.58471543, u'book_jacket', 0.052863918, u'street_sign', 0.04167299, u'envelope', 0.041294284, u'menu', 0.035793949]
+[u'scoreboard', 0.18483292, u'picket_fence', 0.083078645, u'crossword_puzzle', 0.064902321, u'fire_engine', 0.037874829, u'paddlewheel', 0.033714402]
+[u'web_site', 0.72560841, u'menu', 0.034306332, u'book_jacket', 0.02215636, u'envelope', 0.018127169, u'school_bus', 0.010713778]

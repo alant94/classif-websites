@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'lotion', 0.73628485, u'sunscreen', 0.098284751, u'hair_spray', 0.065797493, u'pill_bottle', 0.023781123, u'beer_bottle', 0.0085329851]

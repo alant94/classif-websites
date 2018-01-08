@@ -1,0 +1,7 @@
+[u'chain', 0.09801767, u'breastplate', 0.097672693, u'cowboy_boot', 0.084815897, u'mask', 0.070079334, u'padlock', 0.060896553]
+[u'palace', 0.30918285, u'church', 0.16159542, u'totem_pole', 0.10823787, u'monastery', 0.081645057, u'castle', 0.063494951]
+[u'monitor', 0.34336323, u'television', 0.19887868, u'Windsor_tie', 0.051561885, u'suit', 0.035971083, u'screen', 0.024103297]
+[u'restaurant', 0.4199976, u'folding_chair', 0.13110825, u'dining_table', 0.11350695, u'library', 0.10071697, u'passenger_car', 0.054652125]
+[u'church', 0.70771515, u'palace', 0.16470248, u'boathouse', 0.058839157, u'lakeside', 0.017510772, u'castle', 0.016415622]
+[u'web_site', 0.33673403, u'buckle', 0.15243576, u'lighter', 0.064995542, u'barber_chair', 0.032024924, u'washbasin', 0.031662874]
+[u'barrel', 0.94342548, u'dishwasher', 0.019375509, u'folding_chair', 0.0082468353, u'bucket', 0.0044696461, u'ear', 0.0029282481]

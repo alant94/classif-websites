@@ -1,0 +1,8 @@
+[u'sweatshirt', 0.079890557, u'stage', 0.079248287, u'poncho', 0.063525118, u'swimming_trunks', 0.062884204, u'king_penguin', 0.059576418]
+[u'theater_curtain', 0.78087819, u'poncho', 0.027591886, u'cinema', 0.026051002, u'unicycle', 0.019559346, u'stage', 0.010728845]
+[u'church', 0.58366877, u'castle', 0.14621556, u'cinema', 0.023207698, u'water_tower', 0.021069653, u'picket_fence', 0.019038567]
+[u'candle', 0.78419501, u'table_lamp', 0.033959661, u'swab', 0.026640426, u'hook', 0.015763773, u'theater_curtain', 0.012530426]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'combination_lock', 0.37593612, u'hook', 0.16004109, u'French_horn', 0.14667831, u'acoustic_guitar', 0.030781444, u'washer', 0.030252131]
+[u'bulletproof_vest', 0.25946808, u'shovel', 0.22155161, u'plastic_bag', 0.0764305, u'book_jacket', 0.062678859, u'packet', 0.059064485]
+[u'church', 0.13581751, u'altar', 0.1128018, u'vestment', 0.076121427, u'theater_curtain', 0.04428868, u'butcher_shop', 0.044193622]

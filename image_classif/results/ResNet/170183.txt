@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.48756146, u'acoustic_guitar', 0.28216895, u'banjo', 0.062041309, u'accordion', 0.041666869, u'sax', 0.040965289]
+[u'acoustic_guitar', 0.94524097, u'cello', 0.022442589, u'electric_guitar', 0.0059061926, u'violin', 0.00323739, u'banjo', 0.0020503234]

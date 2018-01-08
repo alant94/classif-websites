@@ -1,0 +1,1 @@
+[u'screw', 0.21721205, u'reel', 0.20129046, u'paintbrush', 0.06934534, u'Petri_dish', 0.060836297, u'oil_filter', 0.054878838]

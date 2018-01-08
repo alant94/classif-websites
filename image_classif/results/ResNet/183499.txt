@@ -1,0 +1,6 @@
+[u'suspension_bridge', 0.31287408, u'bannister', 0.19964637, u'shopping_cart', 0.12094105, u'pier', 0.03231629, u'shopping_basket', 0.027633496]
+[u'miniskirt', 0.098902687, u'maillot', 0.079298727, u'maillot', 0.068655275, u'bicycle-built-for-two', 0.066950053, u'soccer_ball', 0.047559116]
+[u'rugby_ball', 0.69032061, u'running_shoe', 0.04099388, u'unicycle', 0.040027499, u'football_helmet', 0.037374791, u'cowboy_boot', 0.015744157]
+[u'web_site', 0.40196604, u'traffic_light', 0.10506771, u'mountain_bike', 0.060626417, u'book_jacket', 0.04089332, u'comic_book', 0.034373224]
+[u'puck', 0.47269318, u'traffic_light', 0.071095698, u'electric_fan', 0.03944508, u'freight_car', 0.038878787, u'street_sign', 0.030192297]
+[u'unicycle', 0.5403533, u'miniskirt', 0.054778147, u'cowboy_boot', 0.037234008, u'crutch', 0.032864992, u'running_shoe', 0.01830171]

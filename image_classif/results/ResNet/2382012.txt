@@ -1,0 +1,1 @@
+[u'obelisk', 0.53862721, u'pole', 0.037536118, u'pedestal', 0.030036325, u'totem_pole', 0.029884761, u'cinema', 0.025626779]

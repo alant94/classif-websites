@@ -1,0 +1,3 @@
+[u'toyshop', 0.96677268, u'confectionery', 0.012199154, u'barbershop', 0.0055405423, u'comic_book', 0.0021596912, u'sewing_machine', 0.0017718149]
+[u'toyshop', 0.60950607, u'grocery_store', 0.26393816, u'confectionery', 0.050743975, u'tobacco_shop', 0.048655014, u'comic_book', 0.014184136]
+[u'gas_pump', 0.38820347, u'traffic_light', 0.14296429, u'restaurant', 0.083700828, u'bakery', 0.071001567, u'cinema', 0.062944405]

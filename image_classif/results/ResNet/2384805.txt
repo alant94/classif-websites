@@ -1,0 +1,5 @@
+[u'web_site', 0.26133695, u'microwave', 0.091803715, u'iPod', 0.072615169, u'book_jacket', 0.065183811, u'toilet_seat', 0.063242398]
+[u'digital_watch', 0.24505371, u'digital_clock', 0.1072506, u'stopwatch', 0.079432584, u'remote_control', 0.045946475, u'analog_clock', 0.032823645]
+[u'digital_watch', 0.12910452, u'digital_clock', 0.083734125, u'stopwatch', 0.077727117, u'cellular_telephone', 0.063681066, u'television', 0.058314078]
+[u'plate', 0.75255561, u'consomme', 0.24154219, u'ladybug', 0.00096758635, u'potpie', 0.00091445487, u'mashed_potato', 0.00088702532]
+[u'digital_watch', 0.16178048, u'digital_clock', 0.11217294, u'stopwatch', 0.066335715, u'radio', 0.049259152, u'combination_lock', 0.043360129]

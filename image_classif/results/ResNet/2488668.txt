@@ -1,0 +1,2 @@
+[u'thresher', 0.23708194, u'lumbermill', 0.12504616, u'plow', 0.064538516, u'tractor', 0.058418732, u'Arabian_camel', 0.047495812]
+[u'screwdriver', 0.53971428, u"carpenter's_kit", 0.33006927, u'marimba', 0.021793922, u'plane', 0.018443875, u'tobacco_shop', 0.011682313]

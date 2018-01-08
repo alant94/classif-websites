@@ -1,0 +1,4 @@
+[u'plunger', 0.12745053, u'toilet_seat', 0.091666631, u'puck', 0.074595548, u'analog_clock', 0.056183178, u'book_jacket', 0.053487569]
+[u'Polaroid_camera', 0.62279081, u'projector', 0.18512636, u'loudspeaker', 0.15065488, u'reflex_camera', 0.017247818, u'binoculars', 0.0092093525]
+[u'digital_clock', 0.33455378, u'web_site', 0.3039974, u'oscilloscope', 0.043291938, u'screen', 0.023971386, u'street_sign', 0.022571292]
+[u'Band_Aid', 0.18372083, u'lighter', 0.12282157, u'web_site', 0.0401964, u'scale', 0.037108026, u'medicine_chest', 0.034986421]

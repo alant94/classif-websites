@@ -1,0 +1,8 @@
+[u'ear', 0.061200909, u'Band_Aid', 0.052185964, u'paintbrush', 0.049308673, u'syringe', 0.048233874, u'barracouta', 0.032218028]
+[u'giant_panda', 0.1826154, u'colobus', 0.14605373, u'Siamese_cat', 0.12236377, u'llama', 0.060995981, u'badger', 0.032916099]
+[u'rain_barrel', 0.35363793, u'toilet_seat', 0.063423507, u'punching_bag', 0.043537196, u'dishwasher', 0.042139567, u'toilet_tissue', 0.032348871]
+[u'suit', 0.4409169, u'Windsor_tie', 0.43182957, u'bolo_tie', 0.074771769, u'groom', 0.017730221, u'web_site', 0.0035903235]
+[u'iron', 0.16011921, u'bolo_tie', 0.11517259, u'sandal', 0.10887612, u'cowboy_hat', 0.079006158, u'necklace', 0.024545358]
+[u'cowboy_hat', 0.56679219, u'bolo_tie', 0.1806277, u'cowboy_boot', 0.12854274, u'sombrero', 0.022389013, u'sandal', 0.012856339]
+[u'worm_fence', 0.72403067, u'sorrel', 0.1147109, u'pinwheel', 0.013976854, u'bow', 0.012525313, u'llama', 0.012025114]
+[u'sorrel', 0.14398879, u'lumbermill', 0.060065147, u'ram', 0.039050821, u'vizsla', 0.027715141, u'moving_van', 0.027390877]

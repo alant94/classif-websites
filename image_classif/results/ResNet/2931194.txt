@@ -1,0 +1,1 @@
+[u'syringe', 0.47447339, u'lipstick', 0.16398692, u'spatula', 0.063903503, u'ladle', 0.060740288, u'Petri_dish', 0.050284158]

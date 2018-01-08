@@ -1,0 +1,2 @@
+[u'drilling_platform', 0.15334336, u'barn', 0.14345777, u'palace', 0.12830512, u'fountain', 0.11886661, u'seashore', 0.043362346]
+[u'pot', 0.99678695, u'greenhouse', 0.00087108981, u'barrel', 0.00034726309, u'milk_can', 0.00033984237, u'altar', 0.00020502243]

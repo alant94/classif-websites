@@ -1,0 +1,6 @@
+[u'flagpole', 0.11905351, u'tow_truck', 0.082813472, u'pole', 0.048953701, u'limousine', 0.048951857, u'stretcher', 0.029198766]
+[u'barbershop', 0.15152223, u'vestment', 0.099462673, u'confectionery', 0.076675691, u'upright', 0.047198564, u'lab_coat', 0.041044164]
+[u'Crock_Pot', 0.13458389, u'confectionery', 0.12901522, u'grocery_store', 0.10276205, u'toyshop', 0.085504562, u'folding_chair', 0.031591162]
+[u'lab_coat', 0.47736445, u'groom', 0.26414889, u'vestment', 0.15321189, u'bow_tie', 0.015066511, u'gasmask', 0.010739082]
+[u'restaurant', 0.1442046, u'Afghan_hound', 0.046728548, u'plate', 0.039903671, u'grand_piano', 0.036753625, u'American_lobster', 0.023845335]
+[u'neck_brace', 0.2749992, u'barbershop', 0.06919089, u'prison', 0.052664991, u'cash_machine', 0.0397126, u'balance_beam', 0.039530642]

@@ -1,0 +1,3 @@
+[u'thimble', 0.19294797, u'Persian_cat', 0.096173368, u'toilet_seat', 0.064744711, u'Blenheim_spaniel', 0.054162357, u'bloodhound', 0.052783005]
+[u'wok', 0.12745759, u'tray', 0.092865333, u'planetarium', 0.092489973, u'caldron', 0.053101655, u'frying_pan', 0.037024505]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

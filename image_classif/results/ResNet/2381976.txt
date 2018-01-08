@@ -1,0 +1,5 @@
+[u'folding_chair', 0.186529, u'Band_Aid', 0.16196187, u'street_sign', 0.12811737, u'lighter', 0.092749737, u'shield', 0.081483662]
+[u'web_site', 0.13193808, u'digital_clock', 0.11520889, u'iPod', 0.080389895, u'beaker', 0.066605598, u'hook', 0.060097728]
+[u'web_site', 0.25109535, u'analog_clock', 0.06482204, u'brassiere', 0.052664503, u'gong', 0.033379242, u'loupe', 0.032472901]
+[u'scoreboard', 0.1888521, u'freight_car', 0.12146459, u'ashcan', 0.10785238, u'barbershop', 0.078551948, u'street_sign', 0.074476182]
+[u'bulletproof_vest', 0.17110473, u'jersey', 0.14844331, u'sweatshirt', 0.13861465, u'diaper', 0.075436182, u'knee_pad', 0.046851877]

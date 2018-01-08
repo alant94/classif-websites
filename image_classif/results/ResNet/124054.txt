@@ -1,0 +1,4 @@
+[u'digital_clock', 0.18122382, u'book_jacket', 0.093502596, u'binder', 0.058049638, u'sunscreen', 0.034630641, u'rubber_eraser', 0.033419933]
+[u'digital_clock', 0.27138403, u'web_site', 0.20971012, u'pick', 0.09157639, u'hook', 0.069457836, u'nematode', 0.024261035]
+[u'web_site', 0.23099837, u'sunglass', 0.18443388, u'sunglasses', 0.17208877, u'comic_book', 0.049060334, u'ski', 0.048261371]
+[u'web_site', 0.14994547, u'nematode', 0.070120431, u'matchstick', 0.038716111, u'vine_snake', 0.024281474, u'digital_clock', 0.022230217]

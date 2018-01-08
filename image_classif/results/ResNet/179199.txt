@@ -1,0 +1,4 @@
+[u'stage', 0.069445975, u'shower_curtain', 0.060001493, u'bathtub', 0.04710611, u'monitor', 0.046376549, u'scuba_diver', 0.033485409]
+[u'cleaver', 0.41832235, u'carton', 0.083615653, u'pajama', 0.037648834, u'apron', 0.029519839, u'iron', 0.022893138]
+[u'stage', 0.36799565, u'electric_guitar', 0.34087956, u'jellyfish', 0.11596538, u'scuba_diver', 0.057142492, u'microphone', 0.024353908]
+[u'fountain', 0.79002666, u'groom', 0.063916989, u'kimono', 0.040237002, u'theater_curtain', 0.025247699, u'jellyfish', 0.013254172]

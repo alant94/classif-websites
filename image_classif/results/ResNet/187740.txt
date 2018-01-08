@@ -1,0 +1,4 @@
+[u'web_site', 0.19391669, u'barbershop', 0.11919452, u'Band_Aid', 0.048680611, u'cash_machine', 0.032211352, u'book_jacket', 0.02929461]
+[u'dock', 0.77265096, u'catamaran', 0.078816257, u'liner', 0.042018257, u'drilling_platform', 0.041589055, u'lifeboat', 0.017983288]
+[u'speedboat', 0.88469571, u'catamaran', 0.091654323, u'lifeboat', 0.012021331, u'fireboat', 0.0043830085, u'amphibian', 0.0036110282]
+[u'speedboat', 0.69902259, u'fireboat', 0.085383721, u'liner', 0.069607057, u'aircraft_carrier', 0.035993803, u'trimaran', 0.024953896]

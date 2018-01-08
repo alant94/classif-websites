@@ -1,0 +1,2 @@
+[u'spotlight', 0.73867851, u'loupe', 0.19121082, u'binoculars', 0.0068684183, u'analog_clock', 0.0063090576, u'plunger', 0.0046225232]
+[u'book_jacket', 0.36516669, u'hair_spray', 0.13198674, u'comic_book', 0.065661117, u'oil_filter', 0.03400005, u'packet', 0.03079775]

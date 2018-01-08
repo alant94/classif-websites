@@ -1,0 +1,5 @@
+[u'oscilloscope', 0.40078554, u'digital_clock', 0.21653113, u'web_site', 0.039834697, u'analog_clock', 0.034576736, u'microwave', 0.02933752]
+[u'oscilloscope', 0.49042752, u'digital_clock', 0.14499402, u'microwave', 0.038954314, u'web_site', 0.036838494, u'analog_clock', 0.032759868]
+[u'book_jacket', 0.2195271, u'oscilloscope', 0.076924942, u'web_site', 0.045490455, u'binder', 0.04388145, u'digital_clock', 0.031089172]
+[u'scoreboard', 0.45421866, u'web_site', 0.11786171, u'remote_control', 0.031646945, u'stopwatch', 0.027638767, u'digital_clock', 0.020821482]
+[u'oscilloscope', 0.47123036, u'digital_clock', 0.16812687, u'web_site', 0.035893049, u'analog_clock', 0.033669591, u'microwave', 0.029724929]

@@ -1,0 +1,7 @@
+[u'Band_Aid', 0.1146951, u'oscilloscope', 0.079456829, u'web_site', 0.072649367, u'book_jacket', 0.044512447, u'plunger', 0.039915107]
+[u'hook', 0.79057574, u'knot', 0.045101594, u'chain', 0.016025687, u'whistle', 0.014713669, u'tripod', 0.014608764]
+[u'web_site', 0.77846652, u'nematode', 0.007267172, u'envelope', 0.0067884191, u'analog_clock', 0.0054794108, u'ski', 0.005389668]
+[u'book_jacket', 0.45993218, u'comic_book', 0.27116081, u'theater_curtain', 0.078704931, u'abaya', 0.029978847, u'jersey', 0.007803739]
+[u'comic_book', 0.12294517, u'web_site', 0.10872448, u'screw', 0.096323587, u'menu', 0.082947679, u'envelope', 0.054537989]
+[u'punching_bag', 0.089236684, u'whistle', 0.068956107, u'screwdriver', 0.053328361, u'snorkel', 0.052031789, u'nail', 0.044243325]
+[u'web_site', 0.10664214, u'book_jacket', 0.026788121, u'cleaver', 0.019983925, u'envelope', 0.01989644, u'menu', 0.019333707]

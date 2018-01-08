@@ -1,0 +1,3 @@
+[u'rotisserie', 0.4455708, u'stove', 0.41307837, u'barrel', 0.036682479, u'fire_screen', 0.022044219, u'space_heater', 0.015689911]
+[u'cocktail_shaker', 0.69743842, u'perfume', 0.072921902, u'espresso_maker', 0.01978188, u'spotlight', 0.016336208, u'lotion', 0.012630953]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

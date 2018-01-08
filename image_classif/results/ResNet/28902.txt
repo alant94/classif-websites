@@ -1,0 +1,2 @@
+[u'web_site', 0.29670858, u'nipple', 0.03751345, u'scoreboard', 0.029837182, u'rule', 0.023982361, u'pill_bottle', 0.023575371]
+[u'entertainment_center', 0.20752637, u'television', 0.16949782, u'scoreboard', 0.10770947, u'screen', 0.061405931, u'hand-held_computer', 0.039749928]

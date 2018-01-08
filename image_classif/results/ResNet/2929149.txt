@@ -1,0 +1,3 @@
+[u'screen', 0.26818836, u'television', 0.14793587, u'window_shade', 0.082598098, u'digital_watch', 0.065235555, u'window_screen', 0.038869619]
+[u'screen', 0.27005026, u'digital_watch', 0.069562703, u'medicine_chest', 0.067095295, u'safe', 0.042740423, u'window_shade', 0.042707175]
+[u'screen', 0.19624451, u'digital_watch', 0.15717192, u'television', 0.072200097, u'analog_clock', 0.047572404, u'medicine_chest', 0.04674343]

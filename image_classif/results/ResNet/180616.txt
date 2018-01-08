@@ -1,0 +1,1 @@
+[u'alp', 0.16524841, u'television', 0.13033438, u'screen', 0.080656625, u'volcano', 0.053928308, u'lakeside', 0.038575534]

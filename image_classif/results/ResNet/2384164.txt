@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.7041207, u'red_wine', 0.20329078, u'hamper', 0.040392797, u'beer_bottle', 0.021523727, u'restaurant', 0.010111768]
+[u'crossword_puzzle', 0.2708154, u'papillon', 0.10899242, u'fire_screen', 0.047702368, u'Sussex_spaniel', 0.047520947, u'hook', 0.027580736]
+[u'comic_book', 0.79461867, u'web_site', 0.068839021, u'book_jacket', 0.062159386, u'menu', 0.030194901, u'envelope', 0.0085981507]
+[u'strawberry', 0.52091122, u'custard_apple', 0.12966208, u'jackfruit', 0.094132297, u'grocery_store', 0.055069033, u'banana', 0.034466773]
+[u'puck', 0.85694438, u'bottlecap', 0.023856211, u'face_powder', 0.016682519, u'buckle', 0.010173603, u'frying_pan', 0.0094445562]

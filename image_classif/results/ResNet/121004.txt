@@ -1,0 +1,2 @@
+[u'guillotine', 0.27781069, u'ambulance', 0.1942454, u'book_jacket', 0.039692096, u'envelope', 0.038423799, u'ashcan', 0.028770138]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

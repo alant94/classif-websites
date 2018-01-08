@@ -1,0 +1,8 @@
+[u'web_site', 0.39686108, u'Sussex_spaniel', 0.046944883, u'monitor', 0.046315618, u'tobacco_shop', 0.032433528, u'fire_screen', 0.024430625]
+[u'web_site', 0.33492148, u'entertainment_center', 0.1138809, u'vending_machine', 0.080707304, u'gas_pump', 0.063753888, u'monitor', 0.048111066]
+[u'envelope', 0.12918605, u'pick', 0.10772441, u'sweatshirt', 0.091572993, u'jersey', 0.063179009, u'web_site', 0.057491031]
+[u'face_powder', 0.66680616, u'sunscreen', 0.022245945, u'lotion', 0.0202742, u'slide_rule', 0.015307383, u'puck', 0.011356994]
+[u'analog_clock', 0.32739505, u'stopwatch', 0.085815839, u'screw', 0.041133266, u'oscilloscope', 0.035657387, u'iron', 0.03534491]
+[u'crossword_puzzle', 0.89092922, u'pick', 0.009519631, u'hand-held_computer', 0.0091396384, u'rule', 0.0049033924, u'oboe', 0.004681896]
+[u'sunscreen', 0.22936304, u'book_jacket', 0.2102232, u'space_heater', 0.15937349, u'packet', 0.13312383, u'cassette', 0.038632955]
+[u'screen', 0.42417103, u'monitor', 0.34485221, u'web_site', 0.093738809, u'oscilloscope', 0.044522513, u'desktop_computer', 0.02819326]

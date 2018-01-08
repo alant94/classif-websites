@@ -1,0 +1,3 @@
+[u'crutch', 0.14493725, u'plunger', 0.12906855, u'barbershop', 0.085714564, u'tobacco_shop', 0.053535271, u'bookshop', 0.038337819]
+[u'shower_cap', 0.62256092, u'chain_mail', 0.30164856, u'plunger', 0.0083309645, u'spatula', 0.0050439285, u'chain_saw', 0.0038458738]
+[u'spatula', 0.084690712, u'jersey', 0.083412662, u'drumstick', 0.051895607, u'bakery', 0.034646232, u'tray', 0.034234494]

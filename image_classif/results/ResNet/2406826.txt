@@ -1,0 +1,3 @@
+[u'jersey', 0.96431059, u'kimono', 0.015793642, u'sweatshirt', 0.0084233647, u'wool', 0.0027761126, u'vestment', 0.0015324951]
+[u'oxygen_mask', 0.050278269, u'isopod', 0.046252191, u'hook', 0.044252619, u'window_screen', 0.029103827, u'web_site', 0.027825143]
+[u'picket_fence', 0.16095173, u'vase', 0.048849292, u'tray', 0.045485348, u'hip', 0.038191125, u'jigsaw_puzzle', 0.036492027]

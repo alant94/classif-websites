@@ -1,0 +1,3 @@
+[u'slot', 0.32957926, u'scoreboard', 0.17117859, u'cellular_telephone', 0.14809047, u'television', 0.13269326, u'hand-held_computer', 0.088856012]
+[u'projector', 0.37919679, u'radio', 0.26201046, u'hard_disc', 0.22428134, u'modem', 0.0798169, u'Polaroid_camera', 0.02232028]
+[u'desktop_computer', 0.23385175, u'remote_control', 0.21431138, u'radio', 0.16368635, u'waffle_iron', 0.084108546, u'hand-held_computer', 0.070174597]

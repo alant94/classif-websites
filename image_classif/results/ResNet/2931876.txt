@@ -1,0 +1,1 @@
+[u'pick', 0.39094698, u'puck', 0.067380078, u'racket', 0.057370644, u'electric_fan', 0.054733008, u'bathing_cap', 0.045477193]

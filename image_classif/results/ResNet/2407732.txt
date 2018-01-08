@@ -1,0 +1,6 @@
+[u'groom', 0.16805349, u'theater_curtain', 0.15298496, u'lab_coat', 0.14485499, u'vestment', 0.10643905, u'gown', 0.082759187]
+[u'poncho', 0.35631701, u'gong', 0.2831111, u'sombrero', 0.13623804, u'cowboy_hat', 0.041393042, u'prayer_rug', 0.030851565]
+[u'purse', 0.27752811, u'mailbag', 0.2478593, u'hook', 0.059274435, u'envelope', 0.038847703, u'scabbard', 0.033307105]
+[u'sulphur_butterfly', 0.20525903, u'cabbage_butterfly', 0.2046486, u'bee', 0.15353556, u'ant', 0.13489063, u'fly', 0.053807978]
+[u'pill_bottle', 0.27914733, u'web_site', 0.2532191, u'medicine_chest', 0.075481236, u'refrigerator', 0.056356594, u'packet', 0.053299829]
+[u'wooden_spoon', 0.26425886, u'mushroom', 0.24181031, u'acorn', 0.21376, u'espresso', 0.055601094, u'maraca', 0.03803711]

@@ -1,0 +1,2 @@
+[u'vase', 0.57222766, u'daisy', 0.24159084, u'pot', 0.061217163, u'picket_fence', 0.035089631, u'sulphur_butterfly', 0.0060003605]
+[u'street_sign', 0.5789035, u'book_jacket', 0.076858424, u'scoreboard', 0.050821271, u'Band_Aid', 0.043649487, u'tobacco_shop', 0.015988909]

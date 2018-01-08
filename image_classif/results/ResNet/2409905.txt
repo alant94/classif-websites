@@ -1,0 +1,2 @@
+[u'pitcher', 0.61111492, u'water_jug', 0.16109709, u'bib', 0.026762702, u'sandal', 0.023755636, u'running_shoe', 0.018524621]
+[u'comic_book', 0.30727267, u'goblet', 0.092626035, u'lampshade', 0.083208501, u'scale', 0.080296263, u'mortar', 0.072452992]

@@ -1,0 +1,1 @@
+[u'bloodhound', 0.13390587, u'clumber', 0.10103302, u'otterhound', 0.098205462, u'Sussex_spaniel', 0.081604779, u'Dandie_Dinmont', 0.054509521]

@@ -1,0 +1,4 @@
+[u'screen', 0.45677096, u'web_site', 0.15357186, u'oscilloscope', 0.10664163, u'cash_machine', 0.036245756, u'digital_clock', 0.03135372]
+[u'envelope', 0.49428466, u'web_site', 0.1350774, u'street_sign', 0.12905695, u'laptop', 0.015663471, u'rule', 0.013309024]
+[u'abaya', 0.24435815, u'nipple', 0.13785514, u'Band_Aid', 0.10352065, u'can_opener', 0.05770376, u'lipstick', 0.044357922]
+[u'barbershop', 0.14003724, u'comic_book', 0.099066697, u'book_jacket', 0.07487487, u'jersey', 0.069453292, u'digital_clock', 0.068122387]

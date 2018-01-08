@@ -1,0 +1,5 @@
+[u'beagle', 0.75045437, u'English_foxhound', 0.15852013, u'Walker_hound', 0.055087168, u'Labrador_retriever', 0.0062395302, u'Brittany_spaniel', 0.0046459613]
+[u'web_site', 0.15206242, u'hand-held_computer', 0.094188601, u'printer', 0.059242226, u'wallet', 0.043906402, u'cassette', 0.036013119]
+[u'sorrel', 0.71931005, u'ox', 0.064929575, u'book_jacket', 0.030098356, u'cowboy_hat', 0.018469393, u'parachute', 0.014200714]
+[u'horse_cart', 0.30756849, u'plow', 0.13245891, u'garbage_truck', 0.068300821, u'spoonbill', 0.061628666, u'stretcher', 0.058651008]
+[u'English_foxhound', 0.63869119, u'beagle', 0.10215268, u'Walker_hound', 0.09886796, u'EntleBucher', 0.041598041, u'bluetick', 0.02436207]

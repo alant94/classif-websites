@@ -1,0 +1,1 @@
+[u'analog_clock', 0.2409945, u'swing', 0.084310301, u'stopwatch', 0.075772859, u'hook', 0.067578748, u'chain', 0.05027074]

@@ -1,0 +1,1 @@
+[u'barn', 0.39861777, u'fountain', 0.11213505, u'greenhouse', 0.062342297, u'water_tower', 0.04589675, u'crane', 0.039333835]

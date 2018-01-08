@@ -1,0 +1,4 @@
+[u'window_shade', 0.29218158, u'sliding_door', 0.1246646, u'file', 0.1086807, u'turnstile', 0.052990388, u'entertainment_center', 0.052783873]
+[u'triceratops', 0.24420524, u'ibex', 0.22649051, u'bow', 0.14282753, u'sturgeon', 0.066772252, u'plow', 0.019684322]
+[u'file', 0.5150854, u'entertainment_center', 0.046590857, u'turnstile', 0.04636823, u'sliding_door', 0.046127416, u'television', 0.030848572]
+[u'entertainment_center', 0.070072651, u'web_site', 0.057231978, u'turnstile', 0.055540852, u'laptop', 0.048166655, u'home_theater', 0.047153566]

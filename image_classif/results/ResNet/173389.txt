@@ -1,0 +1,2 @@
+[u'sunglasses', 0.27573851, u'abaya', 0.17555678, u'megalith', 0.062042851, u'sunglass', 0.059155818, u'sunscreen', 0.047008209]
+[u'maraca', 0.092317663, u'web_site', 0.086924754, u'tennis_ball', 0.038071126, u'pool_table', 0.036621232, u'whistle', 0.033985958]

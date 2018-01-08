@@ -1,0 +1,4 @@
+[u'web_site', 0.40096533, u'menu', 0.094460204, u'comic_book', 0.079799861, u'crossword_puzzle', 0.046438817, u'rifle', 0.016958449]
+[u'solar_dish', 0.17239214, u'airship', 0.089507632, u'flagpole', 0.075599633, u'electric_fan', 0.059987418, u'crane', 0.056180239]
+[u'turnstile', 0.17533568, u'chime', 0.080020912, u'digital_clock', 0.053245977, u'suspension_bridge', 0.036850311, u'pier', 0.032629728]
+[u'solar_dish', 0.44436714, u'flagpole', 0.062049773, u'electric_fan', 0.050325595, u'web_site', 0.029799914, u'airship', 0.028819909]

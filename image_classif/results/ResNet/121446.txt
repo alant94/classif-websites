@@ -1,0 +1,2 @@
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'soap_dispenser', 0.81676412, u'nipple', 0.045285236, u'perfume', 0.044471428, u'oxygen_mask', 0.030446621, u'table_lamp', 0.0091013359]

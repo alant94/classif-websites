@@ -1,0 +1,1 @@
+[u'rubber_eraser', 0.3628374, u'envelope', 0.12310779, u'face_powder', 0.11778527, u'bib', 0.048875216, u'coffee_mug', 0.027653631]

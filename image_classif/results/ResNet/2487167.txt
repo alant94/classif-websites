@@ -1,0 +1,1 @@
+[u'ibex', 0.4502247, u'warthog', 0.15935986, u'bighorn', 0.13138571, u'gazelle', 0.024549711, u'American_alligator', 0.010750694]

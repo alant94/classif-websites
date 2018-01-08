@@ -1,0 +1,7 @@
+[u'binder', 0.26509133, u'lighter', 0.16607957, u'oil_filter', 0.076874897, u'guillotine', 0.068549581, u'perfume', 0.03472165]
+[u'tape_player', 0.34866709, u'cassette_player', 0.15942162, u'analog_clock', 0.078927331, u'cassette', 0.02426514, u'remote_control', 0.016658923]
+[u'mortarboard', 0.86147523, u'three-toed_sloth', 0.029044444, u'academic_gown', 0.02541616, u'ski_mask', 0.017175095, u'bow_tie', 0.0082342271]
+[u'binder', 0.14489944, u'oil_filter', 0.09609253, u'file', 0.092325829, u'pool_table', 0.061391801, u'ashcan', 0.043353848]
+[u'nipple', 0.45542768, u"potter's_wheel", 0.22773436, u'oxygen_mask', 0.0379862, u'nematode', 0.018174982, u'loupe', 0.013470019]
+[u'planetarium', 0.37221012, u'window_shade', 0.17534222, u'window_screen', 0.13879828, u'eggnog', 0.029542914, u'lampshade', 0.027713522]
+[u'swimming_trunks', 0.28734958, u'prison', 0.080207385, u'dumbbell', 0.048098437, u'plunger', 0.047429077, u'soap_dispenser', 0.038896292]

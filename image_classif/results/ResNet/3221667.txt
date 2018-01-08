@@ -1,0 +1,7 @@
+[u'groom', 0.31491077, u'oboe', 0.13496153, u'Windsor_tie', 0.080683336, u'banjo', 0.039725661, u'bassoon', 0.038622051]
+[u'digital_clock', 0.59252203, u'digital_watch', 0.31413314, u'oscilloscope', 0.027661348, u'screen', 0.02671079, u'microwave', 0.021226356]
+[u'digital_clock', 0.63501269, u'digital_watch', 0.17000328, u'oscilloscope', 0.12615235, u'screen', 0.031166555, u'microwave', 0.010190979]
+[u'digital_clock', 0.58127433, u'digital_watch', 0.26480928, u'oscilloscope', 0.069932126, u'screen', 0.033829223, u'microwave', 0.028017554]
+[u'screen', 0.25265905, u'digital_watch', 0.21332692, u'digital_clock', 0.19876119, u'oscilloscope', 0.14465247, u'microwave', 0.046386074]
+[u'screen', 0.32841343, u'oscilloscope', 0.20575982, u'digital_clock', 0.14550747, u'microwave', 0.12069391, u'digital_watch', 0.11875045]
+[u'digital_clock', 0.61170059, u'digital_watch', 0.26216745, u'oscilloscope', 0.079324871, u'screen', 0.019521641, u'microwave', 0.0076788492]

@@ -1,0 +1,5 @@
+[u'web_site', 0.25194418, u'nematode', 0.019792646, u'stopwatch', 0.018318363, u'sax', 0.013940933, u'lipstick', 0.013847134]
+[u'Tibetan_mastiff', 0.98318547, u'standard_poodle', 0.0088887038, u'Irish_water_spaniel', 0.001871681, u'Tibetan_terrier', 0.0014483201, u'Newfoundland', 0.0010471011]
+[u'envelope', 0.13322075, u'comic_book', 0.10307646, u'jersey', 0.079484299, u'web_site', 0.062739484, u'sweatshirt', 0.04063664]
+[u'web_site', 0.098115169, u'lighter', 0.027126208, u'hair_spray', 0.026387591, u'television', 0.020252772, u'abaya', 0.018786378]
+[u'comic_book', 0.43458566, u'jersey', 0.09724468, u'web_site', 0.09397848, u'street_sign', 0.062199451, u'book_jacket', 0.050994419]

@@ -1,0 +1,6 @@
+[u'lakeside', 0.25489187, u'monastery', 0.2118962, u'worm_fence', 0.053771101, u'window_screen', 0.042036511, u'castle', 0.039085243]
+[u'book_jacket', 0.25285241, u'cellular_telephone', 0.1361201, u'web_site', 0.091570958, u'brassiere', 0.040282521, u'scoreboard', 0.039803516]
+[u'drilling_platform', 0.1718757, u'airship', 0.11572272, u'lakeside', 0.063133888, u'seashore', 0.057217121, u'crane', 0.052223206]
+[u'book_jacket', 0.51273149, u'web_site', 0.081531703, u'comic_book', 0.054430697, u'bookshop', 0.015270999, u'menu', 0.014062522]
+[u'book_jacket', 0.17480506, u'web_site', 0.16989999, u'scoreboard', 0.031843781, u'oscilloscope', 0.017966703, u'sea_lion', 0.016212804]
+[u'cash_machine', 0.13012853, u'pole', 0.077840507, u'parallel_bars', 0.041099634, u'window_screen', 0.040217899, u'tobacco_shop', 0.039984308]

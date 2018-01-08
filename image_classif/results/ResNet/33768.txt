@@ -1,0 +1,2 @@
+[u'chimpanzee', 0.20184125, u'television', 0.12238917, u'book_jacket', 0.046465077, u'gibbon', 0.045101427, u'window_screen', 0.041763708]
+[u'Band_Aid', 0.18238358, u'face_powder', 0.06436684, u'toaster', 0.049042463, u'wig', 0.039398704, u'remote_control', 0.027760556]

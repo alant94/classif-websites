@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.62879103, u'water_bottle', 0.043997377, u'coffee_mug', 0.030057762, u'vase', 0.018085821, u'binder', 0.0173545]
+[u'lotion', 0.23072794, u'red_wine', 0.20156255, u'wine_bottle', 0.15429214, u'hair_spray', 0.10119392, u'perfume', 0.06732019]

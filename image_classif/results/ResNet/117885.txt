@@ -1,0 +1,1 @@
+[u'shield', 0.33017939, u'buckle', 0.26214391, u'bolo_tie', 0.18498437, u'car_wheel', 0.036825903, u'gasmask', 0.016026668]

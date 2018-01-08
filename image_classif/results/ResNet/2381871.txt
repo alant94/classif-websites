@@ -1,0 +1,8 @@
+[u'alp', 0.67204499, u'valley', 0.082174167, u'book_jacket', 0.037942145, u'mountain_bike', 0.016916346, u'viaduct', 0.0150241]
+[u'book_jacket', 0.37742373, u'rule', 0.12056085, u'jigsaw_puzzle', 0.057079032, u'picket_fence', 0.027402662, u'prayer_rug', 0.01986797]
+[u'picket_fence', 0.44657439, u'barbershop', 0.20369665, u'flagpole', 0.11205523, u'cinema', 0.059914928, u'beacon', 0.027974483]
+[u'bison', 0.091433346, u'barn', 0.070466541, u'breakwater', 0.063320979, u'church', 0.062356286, u'fountain', 0.055939969]
+[u'picket_fence', 0.2976979, u'fountain', 0.082793094, u'breakwater', 0.070598274, u'poncho', 0.027292112, u'pier', 0.023704482]
+[u'projectile', 0.12569916, u'missile', 0.086475231, u'barrel', 0.081886962, u'spotlight', 0.057432104, u'bannister', 0.043639593]
+[u'projectile', 0.30560273, u'missile', 0.20970163, u'cannon', 0.080123141, u'rule', 0.066519886, u'radio_telescope', 0.057680216]
+[u'freight_car', 0.091033995, u'fountain', 0.089473367, u'prison', 0.081413068, u'barn', 0.055941522, u'hay', 0.037983589]

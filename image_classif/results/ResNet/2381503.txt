@@ -1,0 +1,4 @@
+[u'loudspeaker', 0.94328266, u'gong', 0.017225593, u'Polaroid_camera', 0.016088314, u'cassette_player', 0.0072878096, u'tape_player', 0.0032421227]
+[u'jersey', 0.16850595, u'pick', 0.096135855, u'oscilloscope', 0.089538425, u'chain', 0.079761848, u'prayer_rug', 0.055651661]
+[u'whistle', 0.12188572, u'book_jacket', 0.12037808, u'comic_book', 0.072982363, u'digital_clock', 0.056891736, u'Band_Aid', 0.046449777]
+[u'Band_Aid', 0.95244694, u'jersey', 0.0065680081, u'ambulance', 0.0058414317, u'shield', 0.0056434674, u'prayer_rug', 0.0019922196]

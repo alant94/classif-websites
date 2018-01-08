@@ -1,0 +1,1 @@
+[u'grand_piano', 0.93613642, u'poncho', 0.018364791, u'miniskirt', 0.0093074348, u'stole', 0.0065661464, u'accordion', 0.005762476]

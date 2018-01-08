@@ -1,0 +1,2 @@
+[u'malinois', 0.1336755, u'Saint_Bernard', 0.09668763, u'beagle', 0.093513057, u'ibex', 0.06158131, u'Pembroke', 0.061126966]
+[u'sandbar', 0.13954325, u'lakeside', 0.10915503, u'bighorn', 0.080150217, u'Chesapeake_Bay_retriever', 0.062334556, u'English_setter', 0.0600507]

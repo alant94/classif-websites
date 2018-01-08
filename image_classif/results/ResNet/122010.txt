@@ -1,0 +1,7 @@
+[u'wall_clock', 0.11185803, u'prayer_rug', 0.10934471, u'digital_clock', 0.069806807, u'shield', 0.044588223, u'crossword_puzzle', 0.034161363]
+[u'web_site', 0.82764071, u'bannister', 0.017011123, u'envelope', 0.016923696, u'stopwatch', 0.0056011067, u'padlock', 0.0053913491]
+[u'web_site', 0.84692717, u'envelope', 0.01100044, u'analog_clock', 0.010778314, u'bulletproof_vest', 0.0086530196, u'cleaver', 0.0080528883]
+[u'web_site', 0.30671865, u'lighter', 0.057675589, u'refrigerator', 0.044949166, u'washer', 0.042179707, u'wardrobe', 0.031849224]
+[u'web_site', 0.36010018, u'digital_clock', 0.13454741, u'whistle', 0.12662116, u'wall_clock', 0.0214763, u'envelope', 0.014372783]
+[u'crossword_puzzle', 0.33151838, u'tray', 0.15332873, u'quilt', 0.11790311, u'whistle', 0.090704449, u'wall_clock', 0.048638649]
+[u'web_site', 0.30493328, u'lighter', 0.13794872, u'lotion', 0.028643521, u'hair_spray', 0.027223971, u'refrigerator', 0.025768207]

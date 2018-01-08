@@ -1,0 +1,3 @@
+[u'tub', 0.22529952, u'bathtub', 0.1620291, u'swimming_trunks', 0.062157225, u'diaper', 0.045420852, u'pole', 0.040933829]
+[u'miniskirt', 0.27654415, u'neck_brace', 0.12186152, u'bath_towel', 0.058979034, u'sandal', 0.035153717, u'Band_Aid', 0.02981199]
+[u'jersey', 0.36596125, u'bulletproof_vest', 0.131349, u'dumbbell', 0.043556605, u'jean', 0.02172238, u'brassiere', 0.017564362]

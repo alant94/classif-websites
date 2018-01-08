@@ -1,0 +1,8 @@
+[u'envelope', 0.44044805, u'menu', 0.21456555, u'web_site', 0.19896731, u'oscilloscope', 0.0253809, u'packet', 0.0070055258]
+[u'mushroom', 0.29739964, u'lemon', 0.091250099, u'wok', 0.068362199, u'cheeseburger', 0.065515958, u'hen-of-the-woods', 0.035721038]
+[u'jersey', 0.31809869, u'binder', 0.1387566, u'lotion', 0.080227695, u'web_site', 0.042141449, u'sunscreen', 0.030338675]
+[u'greenhouse', 0.43990213, u'patio', 0.32039869, u'pot', 0.076838873, u'boathouse', 0.010254445, u'sliding_door', 0.0099639557]
+[u'rapeseed', 0.53237087, u'bee', 0.075122297, u'vase', 0.053491112, u'picket_fence', 0.030716248, u'daisy', 0.024250794]
+[u'coil', 0.18086982, u'rotisserie', 0.040550914, u'breastplate', 0.021609742, u'wok', 0.020619245, u'caldron', 0.018201575]
+[u'harvester', 0.45544657, u'tow_truck', 0.22993512, u'lawn_mower', 0.11115532, u'tractor', 0.093796432, u'thresher', 0.035220958]
+[u'fig', 0.112854, u'pot', 0.059218485, u'mortar', 0.052720215, u'admiral', 0.041008357, u'terrapin', 0.040672466]

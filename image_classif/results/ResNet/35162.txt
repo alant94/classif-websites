@@ -1,0 +1,3 @@
+[u'oil_filter', 0.17077357, u'book_jacket', 0.1281004, u'coffee_mug', 0.091338009, u'lotion', 0.084476747, u'pill_bottle', 0.05821937]
+[u'ski', 0.17742492, u'chime', 0.14638402, u'rocking_chair', 0.10358652, u'cornet', 0.072537251, u'bow', 0.039415635]
+[u'hair_spray', 0.15304427, u'screwdriver', 0.10580826, u'ballpoint', 0.095968589, u"carpenter's_kit", 0.034559697, u'lipstick', 0.027266871]

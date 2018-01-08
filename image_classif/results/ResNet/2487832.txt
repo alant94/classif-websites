@@ -1,0 +1,2 @@
+[u'racket', 0.11773562, u'cash_machine', 0.082625426, u'packet', 0.062200967, u'book_jacket', 0.061401453, u'greenhouse', 0.057068445]
+[u'hen-of-the-woods', 0.35565341, u'king_crab', 0.10117742, u'conch', 0.049758498, u'lakeside', 0.038473807, u'aircraft_carrier', 0.032919157]

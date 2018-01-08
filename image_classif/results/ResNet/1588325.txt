@@ -1,0 +1,6 @@
+[u'lighter', 0.12753409, u'remote_control', 0.11785351, u'tray', 0.075988971, u'slot', 0.056710366, u'handkerchief', 0.045479037]
+[u'puck', 0.30272886, u'gong', 0.14592025, u'lipstick', 0.082955696, u'drum', 0.080859795, u'barrel', 0.046577577]
+[u'analog_clock', 0.61173904, u'wall_clock', 0.12888509, u'chime', 0.078990437, u'tripod', 0.042161793, u'matchstick', 0.01882148]
+[u'toyshop', 0.14070867, u'theater_curtain', 0.094398983, u'wall_clock', 0.074234009, u'stage', 0.050831486, u'altar', 0.038504239]
+[u'wall_clock', 0.14641505, u'scoreboard', 0.14562215, u'toilet_seat', 0.085968539, u'television', 0.078041345, u'slot', 0.054595601]
+[u'web_site', 0.85625321, u'television', 0.090237841, u'football_helmet', 0.0077354698, u'scoreboard', 0.0074309953, u'monitor', 0.003868825]

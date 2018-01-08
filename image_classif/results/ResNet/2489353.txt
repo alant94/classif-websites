@@ -1,0 +1,4 @@
+[u'peacock', 0.77696908, u'American_egret', 0.065929659, u'spoonbill', 0.02397402, u'bustard', 0.019989824, u'sulphur-crested_cockatoo', 0.013606327]
+[u'web_site', 0.57187885, u'Band_Aid', 0.060630672, u'analog_clock', 0.048494082, u'envelope', 0.038555335, u'switch', 0.036987007]
+[u'Band_Aid', 0.42331448, u'web_site', 0.35297105, u'digital_clock', 0.051108897, u'analog_clock', 0.028858043, u'envelope', 0.028646907]
+[u'kite', 0.34959123, u'coucal', 0.33708823, u'water_ouzel', 0.059138793, u'bittern', 0.038887203, u'black_grouse', 0.027855273]

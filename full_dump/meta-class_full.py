@@ -11,7 +11,7 @@ from sklearn.metrics import precision_recall_fscore_support as score
 
 # Соединение с базой данных
 connect = psycopg2.connect(
-    database='Full_Dump', user='postgres', host='localhost', password='postgres')
+    database='Classification', user='postgres', host='localhost', password='postgres')
 cursor = connect.cursor()
 
 # Выбираем значения свойств (0 или 1) из таблицы dat
@@ -30,7 +30,7 @@ for site in sites_features:
             to_int.append(int(i))
     site = (to_int)
     all_features.append(to_int)
-# print all_features
+#print all_features[1][13]
 
 # Выбираем категории сайтов из таблицы dat
 cursor.execute("SELECT categ_basis FROM dat_files WHERE entry_id < 10001;")
@@ -156,7 +156,7 @@ for mus, gam, ch, ec, ad, al, hn, nw, med, rel in izip(mus_pred, gam_pred, chat_
     maxi = max(is_cat)
     # Если максимумов несколько или он меньше порогового значения,
     # итоговая категория данного экземпляра - Unknown
-    if (is_cat.count(maxi) != 1)or(maxi < probab):
+    if (is_cat.count(maxi) != 1) or (maxi < probab):
         bad += 1
         # print bad, "Problems...", maxi, is_cat.count(maxi)
         y_pred.append(class_labels[10])

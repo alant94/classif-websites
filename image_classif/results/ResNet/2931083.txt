@@ -1,0 +1,8 @@
+[u'web_site', 0.46348414, u'envelope', 0.21775541, u'menu', 0.073574677, u'book_jacket', 0.060751084, u'tray', 0.032458227]
+[u'hair_slide', 0.33801174, u'sunglass', 0.069858849, u'corkscrew', 0.069068283, u'hook', 0.055784144, u'can_opener', 0.049618665]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'ocarina', 0.59787124, u'switch', 0.20027344, u'whistle', 0.096060351, u'birdhouse', 0.019787438, u'lighter', 0.014666514]
+[u'screw', 0.16982998, u'space_shuttle', 0.15460587, u'letter_opener', 0.096067943, u'rule', 0.095127076, u'plunger', 0.059528608]
+[u'ballpoint', 0.35030973, u'rule', 0.18742862, u'rubber_eraser', 0.084496975, u'quill', 0.062238894, u'letter_opener', 0.056517012]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'plunger', 0.20180668, u'hammer', 0.16082682, u'maraca', 0.10121294, u'drumstick', 0.06741529, u'nail', 0.051852167]

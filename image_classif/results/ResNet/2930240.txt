@@ -1,0 +1,6 @@
+[u'fountain', 0.62066513, u'cliff', 0.072566807, u'cloak', 0.069002852, u'pedestal', 0.034974914, u'vacuum', 0.021201324]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'bubble', 0.73645586, u'fountain', 0.057675868, u'shower_curtain', 0.034714915, u'red_wine', 0.011496115, u'water_bottle', 0.010390699]
+[u'lakeside', 0.38114747, u'fountain', 0.098342031, u'goose', 0.056503136, u'boathouse', 0.053312562, u'church', 0.018997129]
+[u'koala', 0.027834892, u'Band_Aid', 0.022420861, u'sunscreen', 0.015708413, u'squirrel_monkey', 0.013975355, u'whistle', 0.013193246]
+[u'walking_stick', 0.37775972, u'mantis', 0.26905176, u'bikini', 0.038905535, u'Band_Aid', 0.018139729, u'cicada', 0.016685169]

@@ -1,0 +1,1 @@
+[u'perfume', 0.12599689, u'chocolate_sauce', 0.079229794, u'book_jacket', 0.076127179, u'street_sign', 0.039821804, u'bakery', 0.030209132]

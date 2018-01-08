@@ -1,0 +1,4 @@
+[u'English_foxhound', 0.41564241, u'Old_English_sheepdog', 0.19009997, u'wire-haired_fox_terrier', 0.094912075, u'bluetick', 0.048121672, u'beagle', 0.044777401]
+[u'kelpie', 0.23314989, u'German_shepherd', 0.17658406, u'Appenzeller', 0.061360385, u'collie', 0.054285511, u'Border_collie', 0.04036662]
+[u'alp', 0.45264778, u'valley', 0.30247486, u'lakeside', 0.21633627, u'castle', 0.0047904383, u'balloon', 0.0039701173]
+[u'Brittany_spaniel', 0.654549, u'Welsh_springer_spaniel', 0.18982707, u'English_foxhound', 0.096413121, u'beagle', 0.018817933, u'Ibizan_hound', 0.01357094]

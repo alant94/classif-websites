@@ -1,0 +1,8 @@
+[u'ballpoint', 0.28033453, u'rubber_eraser', 0.16482109, u'paintbrush', 0.1324833, u'organ', 0.065610893, u"carpenter's_kit", 0.064758688]
+[u'oscilloscope', 0.56778592, u'screen', 0.16326679, u'monitor', 0.058349684, u'cash_machine', 0.035735216, u'desktop_computer', 0.031638578]
+[u'television', 0.17216334, u'pencil_sharpener', 0.11104967, u'screwdriver', 0.037639055, u'tray', 0.03309406, u'wine_bottle', 0.02689388]
+[u'bookshop', 0.095253944, u'vending_machine', 0.093914948, u'television', 0.076741263, u'monitor', 0.072281614, u'cash_machine', 0.062744305]
+[u'monitor', 0.27296963, u'screen', 0.18112996, u'television', 0.10038669, u'traffic_light', 0.053913854, u'syringe', 0.036421385]
+[u'screen', 0.16039023, u'medicine_chest', 0.088760495, u'hair_spray', 0.079308033, u'television', 0.073599771, u'screwdriver', 0.061026625]
+[u"carpenter's_kit", 0.65121102, u'screwdriver', 0.13098784, u'bookcase', 0.012148304, u'medicine_chest', 0.011516563, u'binder', 0.0091572227]
+[u'bow_tie', 0.43241325, u'pinwheel', 0.26834354, u'barbershop', 0.13142885, u'confectionery', 0.034664176, u'sock', 0.013660372]

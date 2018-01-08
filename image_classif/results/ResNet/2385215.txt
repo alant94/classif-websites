@@ -1,0 +1,6 @@
+[u'snowplow', 0.10419305, u'cinema', 0.084706657, u'fire_engine', 0.067912996, u'tow_truck', 0.052901585, u'ambulance', 0.038365114]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'beer_bottle', 0.57555121, u'pop_bottle', 0.41550866, u'wine_bottle', 0.0024495777, u'water_bottle', 0.00099333574, u'grocery_store', 0.00078266033]
+[u'boathouse', 0.1483192, u'window_shade', 0.041472692, u'picket_fence', 0.034278121, u'restaurant', 0.033669196, u'cinema', 0.029633401]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

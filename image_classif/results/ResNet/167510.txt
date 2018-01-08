@@ -1,0 +1,4 @@
+[u'geyser', 0.30638841, u'balloon', 0.0700721, u'lakeside', 0.033387329, u'beacon', 0.030413253, u'fountain', 0.028306691]
+[u'web_site', 0.99198443, u'tractor', 0.00052304997, u'book_jacket', 0.00045186622, u'volcano', 0.00040880387, u'menu', 0.00036382646]
+[u'web_site', 0.78875118, u'book_jacket', 0.056354932, u'menu', 0.031889692, u'brass', 0.016718775, u'cash_machine', 0.0069133099]
+[u'barbershop', 0.59432709, u'prison', 0.043336984, u'cash_machine', 0.034295898, u'book_jacket', 0.033397552, u'cinema', 0.030278739]

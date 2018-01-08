@@ -1,0 +1,7 @@
+[u'hair_spray', 0.096604109, u'book_jacket', 0.063951209, u'coffee_mug', 0.052023359, u'digital_clock', 0.049597099, u'sunscreen', 0.046122022]
+[u'tennis_ball', 0.19342633, u'pick', 0.19229041, u'nematode', 0.14743291, u'chambered_nautilus', 0.062917963, u'theater_curtain', 0.06079787]
+[u'fountain', 0.17864382, u'trailer_truck', 0.097221717, u'geyser', 0.054806862, u'parking_meter', 0.05360071, u'snowmobile', 0.042410225]
+[u'book_jacket', 0.1900899, u'hair_spray', 0.16916768, u'coffee_mug', 0.12388664, u'punching_bag', 0.02564106, u'ashcan', 0.024535041]
+[u'analog_clock', 0.17790125, u'shield', 0.1659627, u'digital_clock', 0.072459906, u'Band_Aid', 0.071591616, u'triumphal_arch', 0.050363835]
+[u'carton', 0.66142452, u'book_jacket', 0.29215622, u'barrel', 0.012871212, u'toilet_tissue', 0.0050539603, u'street_sign', 0.0045095338]
+[u'chambered_nautilus', 0.40967551, u'web_site', 0.054252926, u'ping-pong_ball', 0.052668806, u'coil', 0.034935191, u'nematode', 0.034753159]

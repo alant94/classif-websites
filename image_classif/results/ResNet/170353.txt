@@ -1,0 +1,4 @@
+[u'bulletproof_vest', 0.3891094, u'bobsled', 0.06122712, u'knee_pad', 0.045871273, u'cowboy_hat', 0.03303631, u'mortarboard', 0.032701273]
+[u'comic_book', 0.64978164, u'book_jacket', 0.14215733, u'screwdriver', 0.03224818, u'accordion', 0.026583409, u'cleaver', 0.017441507]
+[u'bobsled', 0.36075744, u'book_jacket', 0.26331931, u'bulletproof_vest', 0.10602285, u'breastplate', 0.03625587, u'comic_book', 0.021387536]
+[u'harp', 0.97261524, u'panpipe', 0.020781362, u'harmonica', 0.001550129, u'comic_book', 0.00099229347, u'flute', 0.00072788046]

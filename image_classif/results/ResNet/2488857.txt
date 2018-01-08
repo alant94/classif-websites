@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.68831849, u'vending_machine', 0.10716291, u'milk_can', 0.028423414, u'hamper', 0.025749089, u'china_cabinet', 0.02272258]
+[u'Scotch_terrier', 0.48570517, u'affenpinscher', 0.19833955, u'Bouvier_des_Flandres', 0.085294776, u'Kerry_blue_terrier', 0.073980898, u'cairn', 0.0197498]
+[u'black-footed_ferret', 0.36105117, u'grey_fox', 0.13156702, u'badger', 0.11659648, u'Arctic_fox', 0.10854388, u'polecat', 0.10133895]
+[u'bloodhound', 0.21116923, u'solar_dish', 0.088232078, u'gazelle', 0.070936501, u'ibex', 0.063807607, u'Ibizan_hound', 0.056932803]
+[u'flatworm', 0.14340587, u'screwdriver', 0.10081188, u'joystick', 0.067532629, u'switch', 0.060428977, u'jigsaw_puzzle', 0.057641666]

@@ -1,0 +1,8 @@
+[u'pole', 0.064292721, u'flagpole', 0.052351076, u'beacon', 0.04047342, u'seashore', 0.039950401, u'obelisk', 0.021438142]
+[u'hand-held_computer', 0.15585653, u'comic_book', 0.12350803, u'toyshop', 0.094627917, u'slot', 0.081252001, u'web_site', 0.064448103]
+[u'web_site', 0.29794848, u'television', 0.10944904, u'screen', 0.032388948, u'comic_book', 0.026888499, u'miniskirt', 0.013216663]
+[u'envelope', 0.15555675, u'rifle', 0.038025182, u'book_jacket', 0.031812843, u'wall_clock', 0.029595677, u'jigsaw_puzzle', 0.028654711]
+[u'microwave', 0.14080636, u'cassette', 0.1372859, u'abaya', 0.11739505, u'toaster', 0.065412506, u'cassette_player', 0.041031852]
+[u'seashore', 0.17522328, u'beacon', 0.058192533, u'promontory', 0.033382423, u'cliff', 0.029906681, u'sandbar', 0.029305348]
+[u'shower_curtain', 0.31197393, u'trailer_truck', 0.12395603, u'monitor', 0.072969407, u'cash_machine', 0.070114687, u'freight_car', 0.062376253]
+[u'hare', 0.23573788, u'television', 0.057698116, u'wood_rabbit', 0.055376112, u'Sussex_spaniel', 0.054391574, u'barn_spider', 0.053505458]

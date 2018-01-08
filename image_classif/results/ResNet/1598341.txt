@@ -1,0 +1,2 @@
+[u'screwdriver', 0.51364011, u'paintbrush', 0.18688485, u'chime', 0.11393621, u'rubber_eraser', 0.030997414, u'nail', 0.029383242]
+[u'comic_book', 0.6870994, u'book_jacket', 0.10966417, u'screwdriver', 0.091857336, u'prison', 0.012281599, u'rubber_eraser', 0.0087379087]

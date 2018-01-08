@@ -1,0 +1,4 @@
+[u'water_tower', 0.2292842, u'cinema', 0.11569721, u'space_shuttle', 0.096112676, u'projectile', 0.06618914, u'submarine', 0.062322728]
+[u'web_site', 0.71132743, u'menu', 0.094390951, u'screen', 0.059857313, u'cardoon', 0.034836534, u'jersey', 0.030179549]
+[u'street_sign', 0.50306207, u'tray', 0.1210329, u'laptop', 0.053824574, u'sunscreen', 0.032932546, u'maze', 0.031393617]
+[u'book_jacket', 0.36867586, u'comic_book', 0.090994447, u'street_sign', 0.079814784, u'remote_control', 0.041698907, u'digital_watch', 0.036222734]

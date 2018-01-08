@@ -1,0 +1,7 @@
+[u'pajama', 0.27301446, u'miniskirt', 0.1007785, u'web_site', 0.065629721, u'jean', 0.048618525, u'cardigan', 0.041064214]
+[u'gown', 0.15110904, u'maillot', 0.12023291, u'bikini', 0.08410693, u'miniskirt', 0.070812374, u'maillot', 0.0605442]
+[u'oscilloscope', 0.24289224, u'web_site', 0.06970723, u'oxygen_mask', 0.054291766, u'nematode', 0.046752758, u'electric_ray', 0.040342774]
+[u'web_site', 0.1312128, u'comic_book', 0.060423311, u'menu', 0.047376238, u'book_jacket', 0.040767692, u'envelope', 0.020339979]
+[u'web_site', 0.25683832, u'lab_coat', 0.23513873, u'groom', 0.089260556, u'notebook', 0.037799027, u'hair_spray', 0.021232277]
+[u'sarong', 0.21370499, u'bikini', 0.11618467, u'gown', 0.10446798, u'maillot', 0.070380948, u'rapeseed', 0.059281226]
+[u'web_site', 0.33330792, u'barbershop', 0.044844896, u'hook', 0.031212935, u'screw', 0.0296709, u'tobacco_shop', 0.019292627]

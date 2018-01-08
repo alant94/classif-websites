@@ -1,0 +1,6 @@
+[u'tray', 0.17737058, u'comic_book', 0.12585652, u'web_site', 0.073894717, u'book_jacket', 0.042705439, u'jersey', 0.041862193]
+[u'gong', 0.27601889, u'web_site', 0.18281476, u'abaya', 0.083575621, u'maraca', 0.027132917, u'brassiere', 0.024825865]
+[u'bakery', 0.27172107, u'book_jacket', 0.10800415, u'candle', 0.10760082, u'packet', 0.081165694, u'menu', 0.042067986]
+[u'cash_machine', 0.23509228, u'book_jacket', 0.17806369, u'web_site', 0.13577178, u'packet', 0.08340665, u'bookshop', 0.051027492]
+[u'web_site', 0.78463548, u'comic_book', 0.068342842, u'menu', 0.012730663, u'nematode', 0.010824892, u'harp', 0.0067761568]
+[u'altar', 0.9882459, u'toyshop', 0.0026415787, u'restaurant', 0.0013881802, u'church', 0.0010922492, u'dining_table', 0.00094413944]

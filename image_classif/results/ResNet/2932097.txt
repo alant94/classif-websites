@@ -1,0 +1,1 @@
+[u'suit', 0.46662194, u'Windsor_tie', 0.24252464, u'bow_tie', 0.051096786, u'bulletproof_vest', 0.040855993, u'oboe', 0.030137302]

@@ -1,0 +1,5 @@
+[u'remote_control', 0.20327118, u'mouse', 0.14698671, u'switch', 0.14229849, u'matchstick', 0.093698755, u'pill_bottle', 0.081422806]
+[u'spotlight', 0.07977365, u'bucket', 0.068657294, u'oil_filter', 0.040144783, u'pick', 0.039687317, u'drum', 0.034676075]
+[u'vase', 0.15040784, u'tray', 0.099890493, u'book_jacket', 0.047323458, u'cleaver', 0.040005725, u'candle', 0.031782057]
+[u'web_site', 0.66475546, u'envelope', 0.023833815, u'cassette', 0.021743361, u'tobacco_shop', 0.015308326, u'tick', 0.01207763]
+[u'oscilloscope', 0.24059229, u'hand-held_computer', 0.12379965, u'web_site', 0.091310427, u'modem', 0.065431111, u'nipple', 0.051909458]

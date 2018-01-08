@@ -1,0 +1,6 @@
+[u'toaster', 0.081282452, u'academic_gown', 0.077428043, u'accordion', 0.068160079, u'prison', 0.050396629, u'neck_brace', 0.043163475]
+[u'comic_book', 0.86786002, u'book_jacket', 0.075661771, u'syringe', 0.010425847, u'cassette', 0.0063026017, u'sunglass', 0.005369423]
+[u"potter's_wheel", 0.34388137, u'barbershop', 0.33559293, u'restaurant', 0.086571842, u'barber_chair', 0.050629184, u'bakery', 0.04759125]
+[u'neck_brace', 0.031909134, u'crutch', 0.023664983, u'bassoon', 0.022346735, u'academic_gown', 0.022266373, u'jersey', 0.022114059]
+[u'drumstick', 0.16643766, u'neck_brace', 0.11761303, u'paper_towel', 0.066744864, u'safety_pin', 0.057549931, u'toilet_tissue', 0.043871813]
+[u'mailbox', 0.073471017, u'hay', 0.055001594, u'golfcart', 0.04224189, u'radio_telescope', 0.039572246, u'gas_pump', 0.035974853]

@@ -1,0 +1,1 @@
+[u'book_jacket', 0.26398414, u'barn_spider', 0.13187738, u'comic_book', 0.088904656, u'drilling_platform', 0.052353796, u'ground_beetle', 0.046034537]

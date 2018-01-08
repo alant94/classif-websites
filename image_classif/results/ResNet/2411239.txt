@@ -1,0 +1,2 @@
+[u'beaker', 0.40683755, u'yawl', 0.062951535, u'whistle', 0.049479745, u'table_lamp', 0.045588113, u'can_opener', 0.045520645]
+[u'web_site', 0.99448013, u'monitor', 0.0039973203, u'notebook', 0.00058566569, u'desktop_computer', 0.00033990672, u'screen', 0.00022810226]

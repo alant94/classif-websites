@@ -1,0 +1,3 @@
+[u'cassette_player', 0.5860917, u'tape_player', 0.19177909, u'cassette', 0.09601897, u'radio', 0.049696263, u'modem', 0.03831885]
+[u'CD_player', 0.55736125, u'magnetic_compass', 0.25128207, u'stove', 0.08300481, u'cassette_player', 0.022659728, u'tape_player', 0.016446782]
+[u'crate', 0.80543101, u'switch', 0.058928303, u'carton', 0.033610873, u'binder', 0.014572736, u'oil_filter', 0.01320532]

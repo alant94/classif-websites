@@ -1,0 +1,8 @@
+[u'book_jacket', 0.11698541, u'comic_book', 0.090933077, u'lakeside', 0.040045537, u'jigsaw_puzzle', 0.023005836, u'chain_saw', 0.01571396]
+[u'slot', 0.42691177, u'tobacco_shop', 0.11714809, u'cinema', 0.11585297, u'book_jacket', 0.036288533, u'comic_book', 0.034615751]
+[u'comic_book', 0.34457895, u'book_jacket', 0.33877897, u'Indian_elephant', 0.1494755, u'tusker', 0.072691284, u'African_elephant', 0.0611444]
+[u'church', 0.51962489, u'fountain', 0.10497787, u'altar', 0.10257707, u'comic_book', 0.067923106, u'castle', 0.046898574]
+[u'ocarina', 0.46446991, u'church', 0.10992, u'toilet_seat', 0.065435231, u'wall_clock', 0.045248952, u'toyshop', 0.026872933]
+[u'lemon', 0.20572911, u'orange', 0.11850477, u'fig', 0.091598541, u'spaghetti_squash', 0.071468197, u'crate', 0.037334245]
+[u'maraca', 0.3896935, u'slot', 0.20649345, u'digital_clock', 0.062553696, u'wall_clock', 0.061007574, u'tennis_ball', 0.051074319]
+[u'comic_book', 0.44785208, u'cinema', 0.19922787, u'book_jacket', 0.10688794, u'church', 0.017851578, u'theater_curtain', 0.011520377]

@@ -1,0 +1,3 @@
+[u'dumbbell', 0.30035952, u'punching_bag', 0.040893111, u'microphone', 0.036802836, u'drumstick', 0.025851922, u'acoustic_guitar', 0.023867188]
+[u'web_site', 0.99091804, u'monitor', 0.001446088, u'vending_machine', 0.00071125227, u'CD_player', 0.00067270175, u'cassette_player', 0.00050324551]
+[u'book_jacket', 0.21904737, u'seashore', 0.042675398, u'barbershop', 0.039647903, u'sunscreen', 0.038470749, u'tobacco_shop', 0.034984279]

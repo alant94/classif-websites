@@ -1,0 +1,3 @@
+[u'web_site', 0.08721257, u'pick', 0.035437848, u'packet', 0.031266935, u'whistle', 0.028647091, u'oil_filter', 0.025195369]
+[u'packet', 0.1224208, u'moving_van', 0.086163983, u'comic_book', 0.057180792, u'cash_machine', 0.056088481, u'Band_Aid', 0.052275751]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

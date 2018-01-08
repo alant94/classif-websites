@@ -1,0 +1,1 @@
+[u'bulletproof_vest', 0.40735233, u'turnstile', 0.15795405, u'jersey', 0.072358578, u'dumbbell', 0.043085996, u'prison', 0.030091871]

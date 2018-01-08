@@ -1,0 +1,7 @@
+[u'digital_clock', 0.080976702, u'shield', 0.069609307, u'web_site', 0.050996218, u'Band_Aid', 0.032279022, u'prayer_rug', 0.030318374]
+[u'digital_clock', 0.9956606, u'digital_watch', 0.0042743795, u'stopwatch', 5.9906932e-05, u'analog_clock', 3.2590485e-06, u'scoreboard', 7.371595e-07]
+[u'upright', 0.41563094, u'grand_piano', 0.39700386, u'pencil_sharpener', 0.05165391, u'chocolate_sauce', 0.033036914, u'ice_cream', 0.014332259]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'grand_piano', 0.45526683, u'miniskirt', 0.09576571, u'groom', 0.066795461, u'electric_guitar', 0.05269694, u'cleaver', 0.029033488]
+[u'microphone', 0.9521262, u'hand_blower', 0.018475305, u'coil', 0.0065504857, u'honeycomb', 0.0033647793, u'pencil_sharpener', 0.0026199818]
+[u'microphone', 0.98407549, u'wig', 0.012645905, u'chain_mail', 0.00088826718, u'pick', 0.00035127008, u'stage', 0.00026978031]

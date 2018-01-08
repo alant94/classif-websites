@@ -1,0 +1,4 @@
+[u'vestment', 0.39194921, u'king_penguin', 0.27093968, u'theater_curtain', 0.10297146, u'komondor', 0.050788622, u'academic_gown', 0.028002013]
+[u'book_jacket', 0.29789746, u'web_site', 0.073139183, u'bow', 0.040758044, u'analog_clock', 0.02746998, u'hatchet', 0.025077131]
+[u'restaurant', 0.57412815, u'toyshop', 0.15212563, u'shoe_shop', 0.02150435, u'cradle', 0.013096525, u'dining_table', 0.01239298]
+[u'toyshop', 0.60118598, u'horizontal_bar', 0.024619492, u'brassiere', 0.024395609, u'diaper', 0.020015972, u'gown', 0.016391486]

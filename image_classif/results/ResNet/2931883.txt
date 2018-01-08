@@ -1,0 +1,2 @@
+[u'swing', 0.19106577, u'gong', 0.079202488, u'whistle', 0.07653743, u'barbell', 0.033878148, u'pencil_sharpener', 0.032711465]
+[u'switch', 0.15957403, u'container_ship', 0.13848849, u'power_drill', 0.090241998, u'drilling_platform', 0.057262294, u'tractor', 0.040812187]

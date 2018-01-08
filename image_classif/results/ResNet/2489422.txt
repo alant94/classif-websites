@@ -1,0 +1,8 @@
+[u'crib', 0.72622812, u'picket_fence', 0.098894402, u'cradle', 0.031608157, u'crate', 0.022874469, u'window_shade', 0.018469941]
+[u'home_theater', 0.24689907, u'space_shuttle', 0.21488965, u'television', 0.14202201, u'monitor', 0.088157833, u'cellular_telephone', 0.078767888]
+[u'crib', 0.53183502, u'window_shade', 0.082628988, u'sliding_door', 0.074282907, u'cradle', 0.07293582, u'park_bench', 0.028931338]
+[u'crib', 0.23480964, u'sliding_door', 0.21569815, u'shoji', 0.066524193, u'window_screen', 0.065255605, u'window_shade', 0.064083338]
+[u'crib', 0.51505423, u'sliding_door', 0.13337462, u'picket_fence', 0.082313083, u'window_shade', 0.060932513, u'park_bench', 0.029013509]
+[u'pole', 0.2042987, u'impala', 0.052741788, u'hartebeest', 0.044024628, u'beacon', 0.037857421, u'monastery', 0.031128814]
+[u'barometer', 0.81596768, u'analog_clock', 0.088817619, u'stopwatch', 0.059134096, u'wall_clock', 0.015373063, u'envelope', 0.0045626727]
+[u'web_site', 0.077641882, u'paintbrush', 0.068358615, u'shower_curtain', 0.061657265, u'wardrobe', 0.05428217, u'monitor', 0.052828562]

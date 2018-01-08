@@ -1,0 +1,1 @@
+[u'hair_spray', 0.16494873, u'rule', 0.10289357, u'oil_filter', 0.053188875, u'Band_Aid', 0.046977289, u'measuring_cup', 0.035650115]

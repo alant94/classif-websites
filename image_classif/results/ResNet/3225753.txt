@@ -1,0 +1,4 @@
+[u'book_jacket', 0.96979952, u'picket_fence', 0.012448529, u'brass', 0.0011768274, u'street_sign', 0.0010342668, u'mailbox', 0.0010238006]
+[u'book_jacket', 0.82959759, u'street_sign', 0.049788103, u'ashcan', 0.036965903, u'mailbox', 0.011180566, u'brass', 0.0076928842]
+[u'crossword_puzzle', 0.23738022, u'book_jacket', 0.13888149, u'comic_book', 0.078605406, u'bow', 0.036065601, u'rifle', 0.028866861]
+[u'book_jacket', 0.25816685, u'traffic_light', 0.17667143, u'digital_clock', 0.09795405, u'street_sign', 0.093315214, u'plastic_bag', 0.031403836]

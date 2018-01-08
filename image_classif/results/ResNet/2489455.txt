@@ -1,0 +1,7 @@
+[u'groenendael', 0.37180755, u'American_black_bear', 0.25577146, u'sloth_bear', 0.16367795, u'Bouvier_des_Flandres', 0.083846912, u'Newfoundland', 0.020227445]
+[u'bow', 0.14386363, u'kite', 0.090465121, u'platypus', 0.07346563, u'fox_squirrel', 0.065742947, u'prairie_chicken', 0.057158127]
+[u'Pomeranian', 0.6369437, u'Arctic_fox', 0.21584475, u'Samoyed', 0.060312118, u'keeshond', 0.037919868, u'white_wolf', 0.027107242]
+[u'gazelle', 0.84102476, u'llama', 0.0947183, u'impala', 0.03951098, u'Chihuahua', 0.0066119893, u'ibex', 0.0048667211]
+[u'drilling_platform', 0.33869469, u'wreck', 0.14492169, u'prison', 0.08049646, u'ambulance', 0.020392776, u'barn_spider', 0.019719679]
+[u'tabby', 0.45641875, u'Persian_cat', 0.15063529, u'tiger_cat', 0.12030681, u'Egyptian_cat', 0.068126187, u'lynx', 0.06023277]
+[u'coho', 0.76220077, u'barracouta', 0.11634222, u'tiger_shark', 0.058842696, u'reel', 0.026263909, u'gar', 0.005614839]

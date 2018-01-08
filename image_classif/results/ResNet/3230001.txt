@@ -1,0 +1,1 @@
+[u'folding_chair', 0.89951491, u'rocking_chair', 0.022242431, u'park_bench', 0.015725879, u'seashore', 0.0051709702, u'ashcan', 0.003749809]

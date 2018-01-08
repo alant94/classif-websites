@@ -1,0 +1,5 @@
+[u'airship', 0.22081324, u'street_sign', 0.08836329, u'swing', 0.067916133, u'analog_clock', 0.057290822, u'pole', 0.032610346]
+[u'warplane', 0.84013671, u'airliner', 0.04897603, u'wing', 0.021622729, u'recreational_vehicle', 0.018016329, u'ambulance', 0.016530316]
+[u'parachute', 0.27624375, u'airship', 0.083500087, u'harp', 0.041503184, u'thresher', 0.035850368, u'warplane', 0.02787859]
+[u'airship', 0.46615499, u'airliner', 0.19732034, u'wing', 0.1271396, u'warplane', 0.11260529, u'missile', 0.024751604]
+[u'Windsor_tie', 0.89246029, u'vestment', 0.047736049, u'lab_coat', 0.025249226, u'suit', 0.011068041, u'barbershop', 0.0091528827]

@@ -1,0 +1,5 @@
+[u'loudspeaker', 0.641325, u'gong', 0.069358014, u'tape_player', 0.049889289, u'remote_control', 0.029370358, u'drum', 0.024203835]
+[u'container_ship', 0.85753202, u'switch', 0.017154714, u'envelope', 0.010165284, u'wok', 0.0065144021, u'shopping_basket', 0.0050623687]
+[u'strainer', 0.43441427, u'oil_filter', 0.14066695, u'gong', 0.038629111, u'face_powder', 0.025532562, u'bottlecap', 0.021949561]
+[u'jersey', 0.18138155, u'envelope', 0.17255419, u'laptop', 0.10111321, u'web_site', 0.070782207, u'chain_saw', 0.029462814]
+[u'hamper', 0.14093655, u'jigsaw_puzzle', 0.12344607, u'web_site', 0.087017454, u'quilt', 0.049277637, u'desk', 0.041249763]

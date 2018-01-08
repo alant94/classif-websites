@@ -1,0 +1,2 @@
+[u'airliner', 0.67707187, u'wing', 0.24701616, u'missile', 0.025265424, u'warplane', 0.022452619, u'projectile', 0.016884886]
+[u'envelope', 0.56015593, u'web_site', 0.042831704, u'ibex', 0.02951205, u'hook', 0.027594937, u'laptop', 0.022644144]

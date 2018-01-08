@@ -1,0 +1,2 @@
+[u'pot', 0.081359722, u'barn', 0.062408566, u'corn', 0.042552937, u'monastery', 0.040984705, u'ear', 0.035197627]
+[u'wine_bottle', 0.94112527, u'red_wine', 0.023219395, u'beer_bottle', 0.010168724, u"carpenter's_kit", 0.008308609, u'paddle', 0.0059172055]

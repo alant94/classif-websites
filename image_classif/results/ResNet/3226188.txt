@@ -1,0 +1,2 @@
+[u'church', 0.68582296, u'bell_cote', 0.22590089, u'barn', 0.019547453, u'picket_fence', 0.013635303, u'boathouse', 0.0093884384]
+[u'whistle', 0.074944057, u'turnstile', 0.057312932, u'stethoscope', 0.047698211, u'punching_bag', 0.036188807, u'ocarina', 0.033431023]

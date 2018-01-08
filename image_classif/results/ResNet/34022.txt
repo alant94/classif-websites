@@ -1,0 +1,4 @@
+[u'oboe', 0.1150267, u'banjo', 0.10660391, u'safety_pin', 0.099210195, u'electric_guitar', 0.086459585, u'typewriter_keyboard', 0.081819423]
+[u'hook', 0.069626801, u'rule', 0.067826182, u'buckle', 0.056020569, u'hammer', 0.050404187, u'paper_towel', 0.031434357]
+[u'digital_watch', 0.61837608, u'switch', 0.11916857, u'jersey', 0.044725519, u'hand-held_computer', 0.026986538, u'whistle', 0.022715431]
+[u'banjo', 0.28760418, u'electric_guitar', 0.15383366, u'rule', 0.048364419, u'pick', 0.043940827, u'shovel', 0.030080441]

@@ -1,0 +1,8 @@
+[u'comic_book', 0.44372472, u'book_jacket', 0.26881301, u'slot', 0.060886107, u'lighter', 0.018726379, u'coffee_mug', 0.015494443]
+[u'television', 0.31531557, u'comic_book', 0.14536941, u'bobsled', 0.14161758, u'toyshop', 0.12834005, u'screen', 0.044945858]
+[u'television', 0.29125145, u'spotlight', 0.10569636, u'screen', 0.059610784, u'analog_clock', 0.055753518, u'gong', 0.049376514]
+[u'puck', 0.49521363, u'ski', 0.20040466, u'knee_pad', 0.15652859, u'bobsled', 0.052617148, u'football_helmet', 0.047059134]
+[u'medicine_chest', 0.30701271, u'bookcase', 0.22229525, u'thimble', 0.16390289, u'shoji', 0.091128752, u'cocktail_shaker', 0.058854148]
+[u'container_ship', 0.094296083, u'toilet_seat', 0.077308699, u'cowboy_hat', 0.069565222, u'basenji', 0.062103111, u'balloon', 0.044022311]
+[u'tripod', 0.85112303, u'comic_book', 0.027161101, u'book_jacket', 0.015260639, u'gas_pump', 0.011552168, u'drum', 0.010681462]
+[u'comic_book', 0.61826694, u'carousel', 0.21646324, u'toyshop', 0.049638156, u'book_jacket', 0.029311519, u'volleyball', 0.021777736]

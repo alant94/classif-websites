@@ -1,0 +1,4 @@
+[u'envelope', 0.31193888, u'jigsaw_puzzle', 0.2603654, u'swab', 0.094460197, u'web_site', 0.0276694, u'shower_cap', 0.024176804]
+[u'matchstick', 0.36790571, u'whistle', 0.068011791, u'folding_chair', 0.045517977, u'ballpoint', 0.03752552, u'rocking_chair', 0.036974847]
+[u'web_site', 0.57078803, u'monitor', 0.19970387, u'screen', 0.045811452, u'lemon', 0.02875427, u'fig', 0.026016787]
+[u'web_site', 0.25595173, u'sliding_door', 0.029451715, u'monitor', 0.02790755, u'patio', 0.027345827, u'dining_table', 0.026633736]

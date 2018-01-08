@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.15830846, u'window_screen', 0.15537447, u'screen', 0.058764227, u'monitor', 0.057398546, u'soap_dispenser', 0.041912697]
+[u'sliding_door', 0.12904339, u'scoreboard', 0.062327527, u'fountain', 0.053901512, u'picket_fence', 0.047259107, u'bookcase', 0.047253162]
+[u'crossword_puzzle', 0.43764237, u'prayer_rug', 0.20051122, u'shower_curtain', 0.07881429, u'wool', 0.031255849, u'hamper', 0.026888205]
+[u'shower_curtain', 0.50832891, u'crossword_puzzle', 0.14134145, u'prayer_rug', 0.068293914, u'soap_dispenser', 0.04642434, u'hamper', 0.045318786]
+[u'television', 0.56698775, u'screen', 0.11819062, u'web_site', 0.040720154, u'monitor', 0.039108239, u'hand-held_computer', 0.036940914]
+[u'screen', 0.21654879, u'web_site', 0.21549729, u'monitor', 0.13968766, u'digital_clock', 0.10551631, u'television', 0.026424866]
+[u'crossword_puzzle', 0.54925781, u'shower_curtain', 0.12509768, u'soap_dispenser', 0.043989867, u'prayer_rug', 0.041769333, u'wall_clock', 0.037691999]

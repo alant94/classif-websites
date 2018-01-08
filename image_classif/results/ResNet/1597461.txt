@@ -1,0 +1,8 @@
+[u'bikini', 0.38263047, u'sarong', 0.13821542, u'brassiere', 0.13187627, u'maillot', 0.047188126, u'wig', 0.032703031]
+[u'scoreboard', 0.37827462, u'digital_clock', 0.18544148, u'digital_watch', 0.053969249, u'crossword_puzzle', 0.043597624, u'comic_book', 0.0254899]
+[u'fire_screen', 0.62897009, u'altar', 0.032522254, u'dining_table', 0.029669272, u'fountain', 0.026131429, u'vault', 0.017601814]
+[u'home_theater', 0.081689499, u'lotion', 0.062609181, u'lipstick', 0.056756228, u'Pomeranian', 0.051133074, u'oxygen_mask', 0.04280448]
+[u'maillot', 0.33175576, u'bikini', 0.23015228, u'swing', 0.16910978, u'maillot', 0.10291732, u'miniskirt', 0.054302294]
+[u'loupe', 0.40941623, u'cellular_telephone', 0.08704605, u'oxygen_mask', 0.044219524, u'lighter', 0.037201699, u'cassette', 0.031660732]
+[u'brassiere', 0.35553214, u'swimming_trunks', 0.25300097, u'sarong', 0.059991647, u'maillot', 0.056559652, u'bath_towel', 0.056374833]
+[u'puck', 0.45647687, u'analog_clock', 0.19374159, u'lighter', 0.056528408, u'remote_control', 0.037781361, u'ski', 0.028096437]

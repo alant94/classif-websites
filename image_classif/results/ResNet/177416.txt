@@ -1,0 +1,4 @@
+[u'fountain', 0.59931272, u'traffic_light', 0.074263684, u'obelisk', 0.048304718, u'spotlight', 0.036840368, u'stage', 0.027164696]
+[u'geyser', 0.69856095, u'alp', 0.03324572, u'planetarium', 0.02552071, u'window_screen', 0.024455132, u'lakeside', 0.021753032]
+[u'web_site', 0.45839369, u'whistle', 0.025025118, u'hatchet', 0.01837877, u'washer', 0.017580515, u'maraca', 0.017502442]
+[u'book_jacket', 0.31518078, u'Band_Aid', 0.29782689, u'street_sign', 0.051252771, u'web_site', 0.051167674, u'cash_machine', 0.027528977]

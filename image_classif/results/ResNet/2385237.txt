@@ -1,0 +1,8 @@
+[u'hamper', 0.16093579, u'vestment', 0.11632656, u'perfume', 0.10848506, u'packet', 0.053329132, u'wool', 0.046244729]
+[u'plate', 0.34382451, u'butcher_shop', 0.25478452, u'meat_loaf', 0.063443691, u'tray', 0.034384169, u'gyromitra', 0.033728641]
+[u'picket_fence', 0.81215298, u'patio', 0.034663837, u'worm_fence', 0.025485152, u'megalith', 0.009702689, u'vacuum', 0.0086261751]
+[u'guacamole', 0.67983878, u'plate', 0.023513574, u'king_crab', 0.0221039, u'cucumber', 0.020613652, u'broccoli', 0.019390458]
+[u'stage', 0.22947928, u'acoustic_guitar', 0.19331484, u'banjo', 0.069986291, u'theater_curtain', 0.039139986, u'microphone', 0.038771726]
+[u'patio', 0.40710789, u'dining_table', 0.11474335, u'pot', 0.10258402, u'altar', 0.095932022, u'vase', 0.062639974]
+[u'iron', 0.21558426, u'plane', 0.2128817, u'sewing_machine', 0.084683254, u'bakery', 0.061729297, u'cleaver', 0.053631034]
+[u'sunglasses', 0.78857523, u'sunglass', 0.19732684, u'wig', 0.0025188902, u'jersey', 0.00085023657, u'cornet', 0.00055513467]

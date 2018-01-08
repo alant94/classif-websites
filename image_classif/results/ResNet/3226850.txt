@@ -1,0 +1,6 @@
+[u'digital_clock', 0.31128564, u'Band_Aid', 0.091155455, u'digital_watch', 0.063502781, u'analog_clock', 0.056277089, u'ambulance', 0.056017336]
+[u'web_site', 0.7264334, u'menu', 0.14990143, u'comic_book', 0.016426727, u'envelope', 0.010029284, u'nematode', 0.0037713631]
+[u'slot', 0.20598827, u'menu', 0.12603152, u'web_site', 0.12434293, u'tray', 0.10741328, u'coffee_mug', 0.05284692]
+[u'web_site', 0.71791047, u'ibex', 0.055795521, u'siamang', 0.024152689, u'orangutan', 0.023002092, u'hartebeest', 0.018754855]
+[u'web_site', 0.98814631, u'comic_book', 0.0052043744, u'sunglasses', 0.0018627587, u'loupe', 0.0016668163, u'isopod', 0.00037694629]
+[u'loupe', 0.71168566, u'iPod', 0.072379366, u'Polaroid_camera', 0.056912296, u'cassette', 0.04067982, u'lighter', 0.012847988]

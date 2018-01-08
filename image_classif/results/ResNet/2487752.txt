@@ -1,0 +1,2 @@
+[u'hatchet', 0.10667895, u'corkscrew', 0.083366744, u'coffee_mug', 0.071423627, u'book_jacket', 0.065707982, u'lighter', 0.051977482]
+[u'maze', 0.33309528, u'matchstick', 0.11488214, u'croquet_ball', 0.062856697, u'gong', 0.048857838, u'shield', 0.046418976]

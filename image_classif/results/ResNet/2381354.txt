@@ -1,0 +1,5 @@
+[u'upright', 0.17517626, u'entertainment_center', 0.052080669, u'medicine_chest', 0.049795017, u'barbershop', 0.039106831, u'slot', 0.03829103]
+[u'candle', 0.51025784, u'coffee_mug', 0.10920712, u'tennis_ball', 0.097062491, u'ping-pong_ball', 0.056157086, u'oil_filter', 0.037245434]
+[u'candle', 0.088736504, u'beer_glass', 0.082240731, u'eggnog', 0.0741271, u'red_wine', 0.067210585, u'coffee_mug', 0.066871755]
+[u'vending_machine', 0.28540128, u'toilet_tissue', 0.11557799, u'paper_towel', 0.096712247, u'beer_bottle', 0.056285094, u'can_opener', 0.050601371]
+[u'hair_spray', 0.34009293, u'lotion', 0.11798545, u'oil_filter', 0.093595773, u'pop_bottle', 0.089397579, u'pill_bottle', 0.06080319]

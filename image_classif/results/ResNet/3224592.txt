@@ -1,0 +1,2 @@
+[u'puck', 0.34596169, u'coffee_mug', 0.10927723, u'web_site', 0.055149924, u'street_sign', 0.025939705, u'pick', 0.021675985]
+[u'dial_telephone', 0.99997044, u'pay-phone', 2.1211374e-05, u'iron', 6.2668723e-06, u'Polaroid_camera', 6.4844869e-07, u'magnetic_compass', 1.4892629e-07]

@@ -1,0 +1,7 @@
+[u'shield', 0.1940672, u'hair_slide', 0.15163359, u'maraca', 0.076990351, u'magnetic_compass', 0.063979849, u'screwdriver', 0.046867643]
+[u'digital_clock', 0.50695264, u'whistle', 0.093051113, u'switch', 0.025336742, u'matchstick', 0.023573417, u'wall_clock', 0.022257362]
+[u'hair_spray', 0.46702272, u'lotion', 0.2441112, u'sunscreen', 0.19888027, u'pill_bottle', 0.034944192, u'Band_Aid', 0.027508641]
+[u'combination_lock', 0.67332131, u'whistle', 0.10316376, u'nipple', 0.061766021, u'switch', 0.017268747, u'padlock', 0.014952651]
+[u'water_jug', 0.090508841, u'cocktail_shaker', 0.067130789, u'iron', 0.060670838, u'chain', 0.046016268, u'whistle', 0.031113766]
+[u'lotion', 0.20820662, u'paper_towel', 0.1232705, u'water_jug', 0.10677801, u'soap_dispenser', 0.091569029, u'oil_filter', 0.072434232]
+[u'water_jug', 0.27159271, u'oil_filter', 0.23313516, u'soap_dispenser', 0.05436964, u'milk_can', 0.054020461, u'paper_towel', 0.039843362]

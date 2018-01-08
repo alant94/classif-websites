@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.21446875, u'container_ship', 0.04128129, u'borzoi', 0.029558774, u'clumber', 0.02097995, u'flat-coated_retriever', 0.020768644]
+[u'lab_coat', 0.095748439, u'Band_Aid', 0.076871343, u'suit', 0.05253135, u'bow_tie', 0.035273682, u'lipstick', 0.032485958]
+[u'velvet', 0.46597734, u'zebra', 0.053726498, u'organ', 0.034940518, u'banded_gecko', 0.030658936, u'maze', 0.026038978]
+[u'web_site', 0.83979231, u'menu', 0.070855282, u'envelope', 0.01851305, u'chainlink_fence', 0.016829098, u'comic_book', 0.0061748992]
+[u'carton', 0.076005615, u'shoe_shop', 0.062197119, u'web_site', 0.051100586, u'motor_scooter', 0.031847838, u'book_jacket', 0.028351877]
+[u'container_ship', 0.97390503, u'mountain_bike', 0.0069415113, u'parachute', 0.0033308086, u'jigsaw_puzzle', 0.0017620842, u'pole', 0.0013979671]
+[u'container_ship', 0.73388118, u'crossword_puzzle', 0.10723448, u'alligator_lizard', 0.013213483, u'pole', 0.0078261429, u'knot', 0.0068141478]
+[u'fire_screen', 0.39170045, u'window_screen', 0.051002882, u'Blenheim_spaniel', 0.037035283, u'English_springer', 0.032168217, u'oxygen_mask', 0.017704599]

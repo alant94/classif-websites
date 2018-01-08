@@ -1,0 +1,2 @@
+[u'ibex', 0.91436237, u'gazelle', 0.037077263, u'hare', 0.023594638, u'wood_rabbit', 0.0029996687, u'tick', 0.0026662131]
+[u'book_jacket', 0.21055102, u'comic_book', 0.18734941, u'doormat', 0.17096403, u'menu', 0.04363557, u'tobacco_shop', 0.04147872]

@@ -1,0 +1,2 @@
+[u'web_site', 0.99585402, u'screen', 0.001775619, u'monitor', 0.00064165005, u'television', 0.00056644966, u'hand-held_computer', 0.00032496441]
+[u'macaw', 0.31411004, u'ice_lolly', 0.11386547, u'American_lobster', 0.086153768, u'butcher_shop', 0.068105161, u'strawberry', 0.047687043]

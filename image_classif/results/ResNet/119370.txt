@@ -1,0 +1,3 @@
+[u'web_site', 0.084414698, u'balloon', 0.080039315, u'wig', 0.0611201, u'abaya', 0.056406282, u'cloak', 0.055209771]
+[u'book_jacket', 0.21294571, u'comic_book', 0.13540307, u'hair_spray', 0.075143948, u'web_site', 0.043958187, u'screw', 0.038410567]
+[u'candle', 0.90285206, u'strawberry', 0.034318484, u'paper_towel', 0.0059130741, u'printer', 0.0058669019, u'cradle', 0.0046222317]

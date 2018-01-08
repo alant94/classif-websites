@@ -1,0 +1,1 @@
+[u'web_site', 0.38104284, u'sunscreen', 0.082379572, u'Band_Aid', 0.071623452, u'washer', 0.022840656, u'lotion', 0.018270615]

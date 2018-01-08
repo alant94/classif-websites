@@ -1,0 +1,4 @@
+[u'envelope', 0.33825082, u'web_site', 0.11644751, u'brassiere', 0.10860977, u'comic_book', 0.062300589, u'paintbrush', 0.061096925]
+[u'comic_book', 0.15085019, u'fountain', 0.092514612, u'jigsaw_puzzle', 0.078513578, u'book_jacket', 0.064297773, u'castle', 0.042720083]
+[u'book_jacket', 0.30184168, u'brassiere', 0.17131174, u'laptop', 0.077679791, u'picket_fence', 0.047266059, u'carousel', 0.044097878]
+[u'comic_book', 0.16060744, u'perfume', 0.1172591, u'book_jacket', 0.11528356, u'jersey', 0.067566656, u'sweatshirt', 0.06748201]

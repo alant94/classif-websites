@@ -1,0 +1,4 @@
+[u'sweatshirt', 0.32902923, u'jersey', 0.12877844, u'Band_Aid', 0.080910079, u'book_jacket', 0.078214601, u'football_helmet', 0.047100186]
+[u'ram', 0.92640424, u'bighorn', 0.025186624, u'whippet', 0.022223599, u'borzoi', 0.0030005076, u'worm_fence', 0.0028243521]
+[u'rock_crab', 0.13602366, u'bullfrog', 0.068112954, u'tree_frog', 0.050411355, u'scorpion', 0.039945729, u'crayfish', 0.036568552]
+[u'cougar', 0.92084074, u'lynx', 0.040431995, u'wallaby', 0.019524748, u'koala', 0.005820178, u'ice_bear', 0.0019591625]

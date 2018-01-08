@@ -1,0 +1,1 @@
+[u'book_jacket', 0.40660554, u'chainlink_fence', 0.11466146, u'fountain', 0.089592978, u'prayer_rug', 0.060236961, u'binder', 0.04322096]

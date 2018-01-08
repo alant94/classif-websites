@@ -1,0 +1,3 @@
+[u'web_site', 0.069011368, u'book_jacket', 0.024429105, u'iron', 0.024237864, u'shovel', 0.018562585, u'jersey', 0.017339861]
+[u'web_site', 0.27664682, u'envelope', 0.076164626, u'dishwasher', 0.053248562, u'refrigerator', 0.020568648, u'cleaver', 0.015821733]
+[u'wig', 0.3143222, u'stethoscope', 0.048139039, u'web_site', 0.034479424, u'hair_spray', 0.033866085, u'lipstick', 0.032844771]

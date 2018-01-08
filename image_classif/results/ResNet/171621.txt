@@ -1,0 +1,2 @@
+[u'web_site', 0.23443323, u'digital_clock', 0.14961782, u'bannister', 0.024791377, u'analog_clock', 0.018152112, u'sax', 0.013823457]
+[u'upright', 0.22218286, u'lumbermill', 0.1241539, u'freight_car', 0.093070418, u'book_jacket', 0.068319917, u'passenger_car', 0.027977552]

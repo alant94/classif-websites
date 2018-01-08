@@ -1,0 +1,4 @@
+[u'electric_guitar', 0.24954331, u'cello', 0.12163509, u'oboe', 0.12104401, u'bassoon', 0.11303198, u'accordion', 0.10581959]
+[u'electric_guitar', 0.94297397, u'stage', 0.024560982, u'acoustic_guitar', 0.008430914, u'banjo', 0.007604531, u'accordion', 0.0019284028]
+[u'oboe', 0.1503398, u'electric_guitar', 0.12280233, u'cornet', 0.12004918, u'sax', 0.10548814, u'theater_curtain', 0.066565819]
+[u'web_site', 0.18276136, u'theater_curtain', 0.13761853, u'television', 0.057967559, u'stage', 0.043016374, u'jersey', 0.033759896]

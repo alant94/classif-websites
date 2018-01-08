@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.12201798, u'screen', 0.098851673, u'window_screen', 0.065113686, u'sliding_door', 0.050527077, u'web_site', 0.0485432]
+[u'web_site', 0.90748924, u'book_jacket', 0.039095018, u'comic_book', 0.022379367, u'bookshop', 0.0074815936, u'envelope', 0.0044539785]
+[u'web_site', 0.11819281, u'maraca', 0.0766524, u'hair_slide', 0.04794516, u'punching_bag', 0.045315605, u'letter_opener', 0.030848451]
+[u'web_site', 0.96788335, u'book_jacket', 0.0047299406, u'brassiere', 0.0025600486, u'envelope', 0.0020492366, u'jersey', 0.0014643851]
+[u'web_site', 0.69213194, u'book_jacket', 0.031130241, u'screen', 0.022262266, u'analog_clock', 0.013037818, u'television', 0.010610695]

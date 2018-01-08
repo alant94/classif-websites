@@ -1,0 +1,4 @@
+[u'iPod', 0.88796097, u'television', 0.036635224, u'digital_clock', 0.011998321, u'screen', 0.0087870788, u'Band_Aid', 0.0081505096]
+[u'butcher_shop', 0.51885259, u'street_sign', 0.11724564, u'grocery_store', 0.066018574, u'scoreboard', 0.058355942, u'barbershop', 0.0225696]
+[u'iPod', 0.24721697, u'digital_watch', 0.10044474, u'digital_clock', 0.091173038, u'street_sign', 0.071914539, u'Band_Aid', 0.069344915]
+[u'electric_guitar', 0.49722481, u'pick', 0.070483424, u'carton', 0.064377129, u'comic_book', 0.045523878, u'Christmas_stocking', 0.035489533]

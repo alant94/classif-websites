@@ -1,0 +1,8 @@
+[u'slide_rule', 0.43362898, u'book_jacket', 0.18568, u'crate', 0.046916239, u'bookcase', 0.034511928, u'prison', 0.033638306]
+[u'fountain', 0.27906337, u'geyser', 0.1105782, u'cliff', 0.068131685, u'balloon', 0.045999944, u'airship', 0.045086868]
+[u'trifle', 0.45952246, u'ice_cream', 0.056782342, u'plate', 0.052220102, u'boa_constrictor', 0.051940076, u'eggnog', 0.029030567]
+[u'jigsaw_puzzle', 0.63085008, u'boa_constrictor', 0.02389187, u'rock_python', 0.019254057, u'window_screen', 0.013819953, u'fire_screen', 0.013012617]
+[u'seashore', 0.43435392, u'lakeside', 0.15718974, u'promontory', 0.047157463, u'jigsaw_puzzle', 0.046569675, u'airliner', 0.0449294]
+[u'wine_bottle', 0.94421512, u'red_wine', 0.038231671, u'beer_bottle', 0.014354977, u'corkscrew', 0.0021624009, u'hamper', 0.00045441167]
+[u'container_ship', 0.26544604, u'planetarium', 0.12431266, u'space_shuttle', 0.094836272, u'airliner', 0.041151352, u'seashore', 0.038003866]
+[u'wine_bottle', 0.87127101, u'red_wine', 0.12208673, u'corkscrew', 0.0029140173, u'beer_bottle', 0.0018252749, u'pop_bottle', 0.00039137725]

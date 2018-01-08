@@ -1,0 +1,1 @@
+[u'candle', 0.23183548, u'syringe', 0.23099113, u'screwdriver', 0.12189813, u'ballpoint', 0.078189313, u'whistle', 0.064948499]

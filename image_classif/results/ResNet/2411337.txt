@@ -1,0 +1,7 @@
+[u'Polaroid_camera', 0.23050906, u'projector', 0.13788524, u'microwave', 0.13175635, u'recreational_vehicle', 0.068778351, u'passenger_car', 0.064867437]
+[u'passenger_car', 0.14166155, u'cassette_player', 0.12616642, u'tape_player', 0.065131851, u'half_track', 0.049126744, u'CD_player', 0.0473083]
+[u'recreational_vehicle', 0.30479294, u'projector', 0.16997139, u'passenger_car', 0.11384252, u'mobile_home', 0.032791663, u'trailer_truck', 0.01835284]
+[u'binder', 0.54015702, u'envelope', 0.18083023, u'packet', 0.10717823, u'carton', 0.048869044, u'Christmas_stocking', 0.0094673745]
+[u'digital_watch', 0.79086465, u'cash_machine', 0.018876377, u'cellular_telephone', 0.014200485, u'gas_pump', 0.014132952, u'parking_meter', 0.010718607]
+[u'binoculars', 0.17546859, u'revolver', 0.071441814, u'power_drill', 0.037117947, u'assault_rifle', 0.036969252, u'seat_belt', 0.036516428]
+[u'vending_machine', 0.16707182, u'home_theater', 0.15506399, u'entertainment_center', 0.10295902, u'medicine_chest', 0.070169777, u'cash_machine', 0.057991661]

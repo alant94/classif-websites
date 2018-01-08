@@ -1,0 +1,7 @@
+[u'ping-pong_ball', 0.082994454, u'candle', 0.05596105, u'horizontal_bar', 0.055057663, u'Band_Aid', 0.052287444, u'carton', 0.045712274]
+[u'toaster', 0.33789346, u'screwdriver', 0.26081514, u'ballpoint', 0.16539744, u'whistle', 0.06015126, u'chime', 0.043803394]
+[u'window_screen', 0.36970559, u'barbell', 0.12789349, u'fire_screen', 0.10024823, u'television', 0.09504845, u'digital_clock', 0.060700558]
+[u'television', 0.39694494, u'monitor', 0.25008923, u'screen', 0.19704695, u'desktop_computer', 0.11386587, u'entertainment_center', 0.011690482]
+[u'gown', 0.42927018, u'overskirt', 0.30436388, u'groom', 0.17168196, u'hoopskirt', 0.090965413, u'abaya', 0.00066934002]
+[u'hand-held_computer', 0.41806313, u'monitor', 0.15532537, u'screen', 0.12488066, u'desktop_computer', 0.09298797, u'notebook', 0.062002204]
+[u'desktop_computer', 0.55913037, u'modem', 0.092913747, u'loudspeaker', 0.044554021, u'oscilloscope', 0.031103097, u'hand-held_computer', 0.027450087]

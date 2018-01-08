@@ -1,0 +1,5 @@
+[u'prison', 0.24102552, u'book_jacket', 0.090504289, u'perfume', 0.070586793, u'theater_curtain', 0.04443476, u'web_site', 0.042136319]
+[u'lakeside', 0.26821807, u'palace', 0.18549517, u'seashore', 0.14421655, u'aircraft_carrier', 0.072543271, u'monitor', 0.026514823]
+[u'harp', 0.18718465, u'electric_guitar', 0.18497831, u'acoustic_guitar', 0.13917042, u'accordion', 0.070354484, u'sax', 0.059169378]
+[u'brassiere', 0.21825185, u'jean', 0.11936004, u'bath_towel', 0.088700689, u'Loafer', 0.067461327, u'book_jacket', 0.049522247]
+[u'harmonica', 0.23011079, u'fountain_pen', 0.083999619, u'ballpoint', 0.06020477, u'wallet', 0.04514081, u'purse', 0.036336906]

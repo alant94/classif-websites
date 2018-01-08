@@ -1,0 +1,1 @@
+[u'tray', 0.18777898, u'spindle', 0.16376171, u'wall_clock', 0.10773896, u'shield', 0.060166366, u'toilet_seat', 0.051485896]

@@ -1,0 +1,8 @@
+[u'bathing_cap', 0.22183096, u'mortarboard', 0.14437859, u'wine_bottle', 0.099273212, u'suit', 0.086247511, u'maillot', 0.063706495]
+[u'suit', 0.17338867, u'paintbrush', 0.14098403, u'mortarboard', 0.061254308, u'wig', 0.042162631, u'spatula', 0.033966199]
+[u'church', 0.29692921, u'thatch', 0.18945454, u'tile_roof', 0.085978009, u'patio', 0.083165146, u'bell_cote', 0.064376466]
+[u'altar', 0.12795886, u'suit', 0.12681623, u'dining_table', 0.053952619, u'birdhouse', 0.030135287, u'rocking_chair', 0.030098854]
+[u'butcher_shop', 0.9552266, u'grocery_store', 0.014561063, u'street_sign', 0.0092833675, u'comic_book', 0.0026449156, u'cinema', 0.002165274]
+[u'electric_guitar', 0.28142068, u'bassoon', 0.17286065, u'oboe', 0.079008654, u'banjo', 0.052426621, u'sax', 0.046995256]
+[u'jean', 0.1611478, u'gown', 0.12186205, u'overskirt', 0.048548136, u'wardrobe', 0.0475959, u'miniskirt', 0.033765886]
+[u'cowboy_boot', 0.16100988, u'wardrobe', 0.14722885, u'shoe_shop', 0.091218516, u'sarong', 0.077309251, u'poncho', 0.071159512]

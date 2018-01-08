@@ -1,0 +1,7 @@
+[u'bow', 0.15270554, u'slot', 0.085039161, u'web_site', 0.054122496, u'crossword_puzzle', 0.048382003, u'punching_bag', 0.032864686]
+[u'pill_bottle', 0.60137242, u'lotion', 0.19038148, u'face_powder', 0.11041586, u'perfume', 0.027820626, u'water_bottle', 0.013609499]
+[u'cocktail_shaker', 0.45699224, u'water_bottle', 0.24804071, u'lotion', 0.10732479, u'pop_bottle', 0.096077777, u'perfume', 0.048437025]
+[u'medicine_chest', 0.55866516, u'lotion', 0.046842705, u'espresso_maker', 0.034566369, u'hair_spray', 0.033891492, u'oil_filter', 0.022199595]
+[u'web_site', 0.19136265, u'packet', 0.12194501, u'comic_book', 0.046513632, u'jersey', 0.037505437, u'plastic_bag', 0.029533118]
+[u'medicine_chest', 0.70002645, u'lotion', 0.085767433, u'nipple', 0.06192904, u'hair_spray', 0.037886005, u'soap_dispenser', 0.014696788]
+[u'pop_bottle', 0.50939924, u'water_bottle', 0.26602623, u'beer_glass', 0.08567255, u'beer_bottle', 0.085253134, u'cocktail_shaker', 0.0097488724]

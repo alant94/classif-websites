@@ -1,0 +1,8 @@
+[u'whistle', 0.31451279, u'swab', 0.10288944, u'tennis_ball', 0.092386469, u'racket', 0.087815784, u'oxygen_mask', 0.053807203]
+[u'cash_machine', 0.68873632, u'gas_pump', 0.088646717, u'jersey', 0.035946064, u'vending_machine', 0.034385357, u"carpenter's_kit", 0.034033958]
+[u'bannister', 0.3275578, u'crate', 0.25911486, u'prison', 0.085285656, u'moving_van', 0.038852274, u'dam', 0.022329194]
+[u'window_screen', 0.36541471, u'hamper', 0.29338467, u'electric_fan', 0.028417071, u'refrigerator', 0.022215093, u'pencil_box', 0.020137522]
+[u'shoe_shop', 0.082962394, u'bow_tie', 0.059745625, u'window_shade', 0.053663358, u'tobacco_shop', 0.038067412, u'Windsor_tie', 0.030535299]
+[u'Band_Aid', 0.28576297, u'oil_filter', 0.11375975, u'street_sign', 0.0535907, u'book_jacket', 0.039620358, u'web_site', 0.022450935]
+[u"carpenter's_kit", 0.64555269, u'screwdriver', 0.030153349, u'wall_clock', 0.023235243, u'knot', 0.01575236, u'syringe', 0.014102143]
+[u'chain_saw', 0.97588867, u'apiary', 0.011986785, u'sturgeon', 0.0042663473, u'power_drill', 0.001503945, u'syringe', 0.00043711375]

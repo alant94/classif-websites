@@ -1,0 +1,1 @@
+[u'shower_curtain', 0.26235998, u'tub', 0.11780746, u'fur_coat', 0.095657215, u'bathtub', 0.072627887, u'cloak', 0.049580164]

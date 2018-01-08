@@ -1,0 +1,8 @@
+[u'panpipe', 0.20387888, u'analog_clock', 0.11007444, u'whistle', 0.10508992, u'web_site', 0.088731505, u'envelope', 0.055855624]
+[u'lakeside', 0.36473769, u'patio', 0.18804654, u'boathouse', 0.14483462, u'fountain', 0.081300735, u'church', 0.023625076]
+[u'digital_clock', 0.4157646, u'beaker', 0.084408268, u'prayer_rug', 0.06905809, u'medicine_chest', 0.038524635, u'analog_clock', 0.029738784]
+[u'lakeside', 0.26468325, u'valley', 0.1530028, u'mountain_bike', 0.071563199, u'maze', 0.036924891, u'sandbar', 0.036764823]
+[u'volcano', 0.39699337, u'wing', 0.15514374, u'valley', 0.062518187, u'balloon', 0.045812622, u'beacon', 0.033333652]
+[u'switch', 0.19498919, u'web_site', 0.083996713, u'cassette', 0.06605152, u'medicine_chest', 0.040392354, u'envelope', 0.039150357]
+[u'envelope', 0.19775525, u'screen', 0.1229879, u'web_site', 0.12159319, u'medicine_chest', 0.075437754, u'cash_machine', 0.072249644]
+[u'ambulance', 0.10695547, u'binder', 0.054215398, u'stretcher', 0.052523088, u'medicine_chest', 0.046699636, u'prayer_rug', 0.041799549]

@@ -1,0 +1,2 @@
+[u'panpipe', 0.21166019, u'traffic_light', 0.071769401, u'analog_clock', 0.07060492, u'stopwatch', 0.067225225, u'digital_watch', 0.065610491]
+[u'digital_clock', 0.14352806, u'pole', 0.1249647, u'tripod', 0.12163099, u'toaster', 0.10823822, u'marimba', 0.040097058]

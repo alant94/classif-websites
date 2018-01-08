@@ -1,0 +1,2 @@
+[u'spotlight', 0.21160419, u'loupe', 0.11140203, u'remote_control', 0.077219963, u'cup', 0.066674128, u'buckle', 0.039199453]
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]

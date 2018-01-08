@@ -1,0 +1,3 @@
+[u'book_jacket', 0.41431206, u'web_site', 0.073008478, u'slide_rule', 0.057191201, u'binder', 0.040908683, u'screen', 0.0334404]
+[u'web_site', 0.43662742, u'book_jacket', 0.16387251, u'comic_book', 0.031234333, u'envelope', 0.026096256, u'binder', 0.017581349]
+[u'book_jacket', 0.31891802, u'packet', 0.20287581, u'web_site', 0.080934726, u'envelope', 0.031704258, u'nail', 0.027291136]

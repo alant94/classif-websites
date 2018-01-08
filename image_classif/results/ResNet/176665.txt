@@ -1,0 +1,3 @@
+[u'electric_fan', 0.20086546, u'can_opener', 0.10058711, u'pinwheel', 0.088164456, u'comic_book', 0.045357645, u'rocking_chair', 0.042245142]
+[u'projectile', 0.77261698, u'missile', 0.21616021, u'space_shuttle', 0.0034237944, u'airship', 0.0011549159, u'beacon', 0.00050320785]
+[u'oil_filter', 0.07140442, u'sunscreen', 0.070519783, u'hair_spray', 0.039826471, u'power_drill', 0.026824912, u'lotion', 0.026217176]

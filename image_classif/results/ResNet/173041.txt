@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.99717182, u'scoreboard', 0.0015149768, u'digital_watch', 0.00041017562, u'remote_control', 0.00036528075, u'comic_book', 0.00015721816]
+[u'jersey', 0.41294977, u'ski', 0.1426889, u'rubber_eraser', 0.088021666, u'pencil_sharpener', 0.052073535, u'punching_bag', 0.033787217]
+[u'web_site', 0.42767206, u'church', 0.17169832, u'slot', 0.15008564, u'comic_book', 0.052518167, u'book_jacket', 0.0231009]
+[u'oil_filter', 0.13280636, u'pill_bottle', 0.10629129, u'lotion', 0.094320633, u'spotlight', 0.047859259, u'digital_clock', 0.044636033]
+[u'electric_guitar', 0.69694853, u'stage', 0.070261471, u'banjo', 0.039207038, u'oboe', 0.037326086, u'fur_coat', 0.017220637]

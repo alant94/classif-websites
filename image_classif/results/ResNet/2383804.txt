@@ -1,0 +1,2 @@
+[u'television', 0.063449301, u'screen', 0.047647055, u'wing', 0.04283404, u'binder', 0.036914844, u'monitor', 0.034515776]
+[u'snorkel', 0.13814427, u'maillot', 0.11812782, u'bikini', 0.10706732, u'scuba_diver', 0.076767318, u'swimming_trunks', 0.075501218]

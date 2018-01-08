@@ -1,0 +1,7 @@
+[u'prison', 0.54032123, u'harp', 0.23020728, u'crutch', 0.044239055, u'window_shade', 0.018544843, u'iron', 0.013596815]
+[u'television', 0.20134445, u'web_site', 0.1684847, u'digital_clock', 0.035133887, u'monitor', 0.033355933, u'desktop_computer', 0.029450225]
+[u'cloak', 0.20332244, u'lipstick', 0.19855794, u'wig', 0.085768193, u'Siberian_husky', 0.037237976, u'abaya', 0.033630576]
+[u'iron', 0.21087046, u'tub', 0.14729106, u'shower_curtain', 0.12535971, u'bathtub', 0.078199595, u'washbasin', 0.048050314]
+[u'iron', 0.20738715, u'Band_Aid', 0.056369506, u'microphone', 0.04735823, u'matchstick', 0.04605104, u'paintbrush', 0.045399841]
+[u'digital_clock', 0.21914352, u'web_site', 0.13278386, u'toaster', 0.12190673, u'digital_watch', 0.068611495, u'analog_clock', 0.02573877]
+[u'web_site', 0.25834551, u'television', 0.10667022, u'monitor', 0.033068556, u'traffic_light', 0.028766703, u'remote_control', 0.025680864]

@@ -1,0 +1,1 @@
+[u'fountain', 0.22185832, u'jellyfish', 0.14059429, u'hourglass', 0.07235612, u'packet', 0.046822459, u'matchstick', 0.045799978]

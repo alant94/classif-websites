@@ -1,0 +1,4 @@
+[u'thimble', 0.17584862, u'papillon', 0.15243457, u'English_springer', 0.11168955, u'skunk', 0.052798677, u'breastplate', 0.036037587]
+[u'hog', 0.23755224, u'Welsh_springer_spaniel', 0.18691052, u'Blenheim_spaniel', 0.13758582, u'clumber', 0.097928554, u'English_setter', 0.076510444]
+[u'dumbbell', 0.2092493, u'swimming_trunks', 0.1000239, u'parallel_bars', 0.094214104, u'barbell', 0.079516545, u'Windsor_tie', 0.033725873]
+[u'Yorkshire_terrier', 0.12375534, u'fire_screen', 0.072278976, u'Australian_terrier', 0.0684001, u'Irish_setter', 0.063155197, u'Norwich_terrier', 0.058063395]

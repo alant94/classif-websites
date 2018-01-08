@@ -1,0 +1,4 @@
+[u'patio', 0.39234099, u'prison', 0.10065643, u'monastery', 0.074425019, u'window_screen', 0.074018508, u'vault', 0.0658006]
+[u'envelope', 0.4916333, u'web_site', 0.40014127, u'menu', 0.051629338, u'fountain_pen', 0.0053513041, u'jigsaw_puzzle', 0.0035195525]
+[u'web_site', 0.56488323, u'envelope', 0.074707836, u'stopwatch', 0.026441075, u'rule', 0.015317543, u'lighter', 0.013303068]
+[u'hartebeest', 0.85981148, u'impala', 0.068202615, u'gazelle', 0.02595054, u'zebra', 0.014302946, u'warthog', 0.0079481499]

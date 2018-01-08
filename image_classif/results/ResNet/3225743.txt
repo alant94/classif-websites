@@ -1,0 +1,1 @@
+[u'analog_clock', 0.16918397, u'screen', 0.047275078, u'church', 0.046525057, u'bell_cote', 0.044821981, u'envelope', 0.041935436]

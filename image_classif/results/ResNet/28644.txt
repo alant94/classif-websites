@@ -1,0 +1,7 @@
+[u'racket', 0.24965082, u'torch', 0.074193761, u'parallel_bars', 0.059118301, u'ballplayer', 0.056522202, u'maillot', 0.042504776]
+[u'barrel', 0.10941613, u'coil', 0.1036022, u'plate_rack', 0.098476626, u'electric_fan', 0.086805008, u'traffic_light', 0.048794862]
+[u'digital_clock', 0.32479987, u'web_site', 0.078587443, u'tripod', 0.032972284, u'loupe', 0.031249195, u'stopwatch', 0.021224407]
+[u'web_site', 0.86711448, u'envelope', 0.026783435, u'notebook', 0.0034087561, u'jean', 0.0029219086, u'digital_clock', 0.0024932951]
+[u'vase', 0.20890409, u'mask', 0.18189305, u'pedestal', 0.11754017, u'shield', 0.075206183, u'pitcher', 0.040133879]
+[u'typewriter_keyboard', 0.73778439, u'space_bar', 0.21654588, u'book_jacket', 0.035463497, u'menu', 0.0026549117, u'computer_keyboard', 0.0010989972]
+[u'digital_clock', 0.23168167, u'web_site', 0.12851997, u'loupe', 0.039175559, u'tripod', 0.031851325, u'traffic_light', 0.029481085]

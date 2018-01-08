@@ -1,0 +1,7 @@
+[u'prayer_rug', 0.43916208, u'barn', 0.41035914, u'paddlewheel', 0.057893895, u'umbrella', 0.012805984, u'window_shade', 0.0095636733]
+[u'bannister', 0.1070171, u'megalith', 0.052964956, u'fountain', 0.05006827, u'chain_saw', 0.043207653, u'macaw', 0.039938334]
+[u'cinema', 0.26795188, u'comic_book', 0.1844881, u'barbershop', 0.11114269, u'tobacco_shop', 0.04774579, u"carpenter's_kit", 0.042657774]
+[u'web_site', 0.2420302, u'jersey', 0.033356909, u'puck', 0.024272596, u'buckle', 0.021217331, u'sweatshirt', 0.017879304]
+[u'book_jacket', 0.64796537, u'comic_book', 0.32079029, u'isopod', 0.0096755875, u'web_site', 0.0044793491, u'menu', 0.0022427021]
+[u'book_jacket', 0.31361538, u'digital_clock', 0.14210486, u'television', 0.10685358, u'scoreboard', 0.1039247, u'prayer_rug', 0.048201006]
+[u'totem_pole', 0.23647556, u'military_uniform', 0.085830405, u'umbrella', 0.036004234, u'chain_saw', 0.030689595, u'bow', 0.028838828]

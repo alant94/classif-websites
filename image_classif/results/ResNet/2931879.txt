@@ -1,0 +1,2 @@
+[u'lampshade', 0.3081407, u'table_lamp', 0.17194879, u'chain_saw', 0.12094348, u'hook', 0.051743388, u'tripod', 0.041619428]
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]

@@ -1,0 +1,3 @@
+[u'crane', 0.72252584, u'web_site', 0.15312503, u'corkscrew', 0.017813867, u'sewing_machine', 0.012128646, u'nail', 0.0096024405]
+[u'web_site', 0.87124318, u'nematode', 0.0116157, u'envelope', 0.0089161573, u'lycaenid', 0.0032147886, u'golf_ball', 0.0024554429]
+[u'jigsaw_puzzle', 0.60296774, u'crib', 0.084341109, u'carton', 0.066827245, u'diaper', 0.043547694, u'cradle', 0.03737909]

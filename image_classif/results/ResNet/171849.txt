@@ -1,0 +1,8 @@
+[u'slot', 0.27051091, u'comic_book', 0.19843881, u'street_sign', 0.17427778, u'scoreboard', 0.023275329, u'grille', 0.018028367]
+[u'comic_book', 0.55041766, u'slot', 0.25005922, u'street_sign', 0.053822361, u'web_site', 0.03215367, u'book_jacket', 0.010893101]
+[u'web_site', 0.55604059, u'book_jacket', 0.070919581, u'paintbrush', 0.054298978, u'padlock', 0.034932867, u'comic_book', 0.02078834]
+[u'prayer_rug', 0.076955855, u'laptop', 0.051545706, u'remote_control', 0.048211228, u'shield', 0.046496149, u'drum', 0.044075463]
+[u'iPod', 0.15705957, u'laptop', 0.14773093, u'loudspeaker', 0.098398097, u'electric_fan', 0.043600559, u'radio', 0.042912439]
+[u'television', 0.11208725, u'spotlight', 0.090122975, u'tennis_ball', 0.088723294, u'toilet_seat', 0.071560502, u'gong', 0.066597424]
+[u'switch', 0.22410926, u'spotlight', 0.16531402, u'analog_clock', 0.14768766, u'remote_control', 0.055828262, u'magnetic_compass', 0.048656162]
+[u'analog_clock', 0.8931697, u'wall_clock', 0.10074373, u'barometer', 0.0017649201, u'magnetic_compass', 0.0011412874, u'gong', 0.00044860554]

@@ -1,0 +1,6 @@
+[u'snowmobile', 0.46496132, u'racer', 0.18806122, u'bobsled', 0.11178958, u'sports_car', 0.033397205, u'backpack', 0.027047532]
+[u'racer', 0.70244485, u'sports_car', 0.071113758, u'grille', 0.066801436, u'pickup', 0.064720184, u'car_wheel', 0.030537236]
+[u'bobsled', 0.47163343, u'racer', 0.34520352, u'cab', 0.054115213, u'go-kart', 0.036220528, u'toyshop', 0.012807237]
+[u'racer', 0.89743429, u'sports_car', 0.086687706, u'tow_truck', 0.0077263685, u'passenger_car', 0.0013055069, u'car_wheel', 0.001294083]
+[u'Band_Aid', 0.32143715, u'puck', 0.05796738, u'bathing_cap', 0.046920255, u'street_sign', 0.03472973, u'laptop', 0.033315845]
+[u'sports_car', 0.66379321, u'racer', 0.12731381, u'grille', 0.069767401, u'tow_truck', 0.031670246, u'convertible', 0.029050643]

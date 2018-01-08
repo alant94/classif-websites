@@ -1,0 +1,8 @@
+[u'brass', 0.99222308, u'menu', 0.006475159, u'web_site', 0.00068114506, u'packet', 0.00017846358, u'prayer_rug', 6.8469162e-05]
+[u'wall_clock', 0.1891693, u'orange', 0.13129881, u'bolo_tie', 0.1113867, u'analog_clock', 0.10057472, u'packet', 0.075017422]
+[u'street_sign', 0.33708343, u'digital_clock', 0.17920472, u'gas_pump', 0.032347355, u'stopwatch', 0.024065776, u'police_van', 0.02329365]
+[u'barn', 0.19955198, u'picket_fence', 0.17769556, u'swing', 0.10879843, u'maypole', 0.049105912, u'pole', 0.045202583]
+[u'web_site', 0.62565911, u'envelope', 0.017721318, u'nematode', 0.0097535364, u'cleaver', 0.0076131555, u'can_opener', 0.0071973028]
+[u'web_site', 0.64827901, u'matchstick', 0.029535847, u'bannister', 0.024796292, u'envelope', 0.020613337, u'nail', 0.020328537]
+[u'brassiere', 0.50013155, u'bucket', 0.098583221, u'web_site', 0.085543819, u'orange', 0.046044167, u'mailbag', 0.04009939]
+[u'dial_telephone', 0.95583111, u'pay-phone', 0.019225396, u'pencil_sharpener', 0.0043750871, u'tape_player', 0.0043453597, u'stopwatch', 0.0030661812]

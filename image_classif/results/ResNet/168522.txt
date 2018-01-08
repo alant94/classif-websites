@@ -1,0 +1,5 @@
+[u'theater_curtain', 0.24635331, u'stage', 0.24571861, u'sax', 0.099206798, u'electric_guitar', 0.05889485, u'accordion', 0.046519909]
+[u'upright', 0.97737783, u'grand_piano', 0.021674501, u'organ', 0.00094263203, u'accordion', 3.0374388e-06, u'harp', 4.0687948e-07]
+[u'plunger', 0.15255176, u'gas_pump', 0.065645017, u'oboe', 0.026885748, u'power_drill', 0.025913797, u'bulletproof_vest', 0.021305203]
+[u'monitor', 0.71455705, u'screen', 0.11062543, u'television', 0.032145269, u'web_site', 0.022710133, u'cash_machine', 0.016125904]
+[u'chain_saw', 0.63843715, u'puck', 0.096971385, u'drum', 0.058169544, u'pick', 0.023575442, u'football_helmet', 0.021693895]

@@ -1,0 +1,2 @@
+[u'perfume', 0.19435123, u'beer_glass', 0.088966474, u'book_jacket', 0.055691458, u'whiskey_jug', 0.042981494, u'throne', 0.037547607]
+[u'screwdriver', 0.39346361, u'rubber_eraser', 0.06777852, u'ballpoint', 0.067354269, u'chime', 0.062418584, u'ski', 0.05241945]

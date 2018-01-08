@@ -1,0 +1,1 @@
+[u'can_opener', 0.64200556, u'envelope', 0.07241971, u'hook', 0.055053778, u'corkscrew', 0.039470952, u'analog_clock', 0.029756159]

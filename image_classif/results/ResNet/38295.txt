@@ -1,0 +1,4 @@
+[u'can_opener', 0.25934634, u'spotlight', 0.23053062, u'iPod', 0.10109966, u'remote_control', 0.068065934, u'iron', 0.044150367]
+[u'soccer_ball', 0.24876209, u'volleyball', 0.10921909, u'analog_clock', 0.10731824, u'tennis_ball', 0.076345734, u'mouse', 0.039132241]
+[u'Band_Aid', 0.35330439, u'iPod', 0.23161276, u'beaker', 0.1547849, u'mouse', 0.032807283, u'digital_clock', 0.029330088]
+[u'digital_clock', 0.99267137, u'oscilloscope', 0.0015158177, u'digital_watch', 0.0011363165, u'web_site', 0.0011336829, u'stopwatch', 0.00077774643]

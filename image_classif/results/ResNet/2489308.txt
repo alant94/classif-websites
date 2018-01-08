@@ -1,0 +1,7 @@
+[u'coho', 0.17250763, u'corkscrew', 0.070693493, u'scabbard', 0.065425612, u'hair_slide', 0.053450409, u'conch', 0.052937362]
+[u'hair_slide', 0.22483705, u'quill', 0.10306299, u'fountain_pen', 0.07845436, u'Windsor_tie', 0.041257136, u'maraca', 0.033934508]
+[u'great_white_shark', 0.30003557, u'hammerhead', 0.25919771, u'tiger_shark', 0.12807781, u'barracouta', 0.10440186, u'sturgeon', 0.04480562]
+[u'coho', 0.67908311, u'barracouta', 0.12128331, u'reel', 0.066085197, u'puffer', 0.01316627, u'tench', 0.0061523146]
+[u'hair_slide', 0.81403744, u'parachute', 0.034184627, u'web_site', 0.011714545, u'bow', 0.0091185952, u'bee_eater', 0.0069239843]
+[u'gar', 0.21356581, u'bow', 0.14599161, u'triceratops', 0.058350965, u'gazelle', 0.035215851, u'grasshopper', 0.029865593]
+[u'triceratops', 0.60579401, u'coho', 0.31337675, u'gar', 0.016947998, u'barracouta', 0.0095096361, u'tench', 0.0069881501]

@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.19490249, u'cowboy_boot', 0.11893591, u'wardrobe', 0.084563054, u'plate_rack', 0.084558867, u'beer_bottle', 0.047917873]

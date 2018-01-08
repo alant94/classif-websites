@@ -1,0 +1,2 @@
+[u'ocarina', 0.4372496, u'maraca', 0.15585768, u'cocktail_shaker', 0.035966534, u'screwdriver', 0.027877757, u'hand_blower', 0.025351683]
+[u'Windsor_tie', 0.5174222, u'academic_gown', 0.15385161, u'wig', 0.062370453, u'neck_brace', 0.034256987, u'bow_tie', 0.022749919]

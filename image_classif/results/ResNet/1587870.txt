@@ -1,0 +1,5 @@
+[u'panpipe', 0.77154154, u'marimba', 0.035621066, u'organ', 0.012450944, u'theater_curtain', 0.011106367, u'neck_brace', 0.008336205]
+[u'brassiere', 0.864999, u'bikini', 0.063446842, u'gown', 0.017734345, u'maillot', 0.016332271, u'bathtub', 0.015755724]
+[u'oxygen_mask', 0.25537926, u'toilet_seat', 0.24985579, u'snorkel', 0.080736585, u'loupe', 0.044316135, u'toilet_tissue', 0.023268439]
+[u'window_screen', 0.31401804, u'television', 0.12139528, u'analog_clock', 0.06104397, u'window_shade', 0.033086292, u'cellular_telephone', 0.029074136]
+[u'diaper', 0.24476381, u'bath_towel', 0.10841996, u'bathtub', 0.079635307, u'teddy', 0.07593707, u'swimming_trunks', 0.050849468]

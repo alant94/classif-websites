@@ -1,0 +1,5 @@
+[u'church', 0.91644561, u'monastery', 0.038239133, u'castle', 0.010469181, u'bell_cote', 0.007169608, u'obelisk', 0.0042849267]
+[u'Band_Aid', 0.14216819, u'tennis_ball', 0.060036242, u'golf_ball', 0.043636117, u'whistle', 0.041484639, u'bottlecap', 0.029043384]
+[u'lighter', 0.26080737, u'web_site', 0.071752161, u'hair_spray', 0.037745003, u'coffee_mug', 0.034656681, u'book_jacket', 0.028312329]
+[u'street_sign', 0.7376852, u'Band_Aid', 0.070348635, u'hair_spray', 0.06484814, u'coffee_mug', 0.011802291, u'cash_machine', 0.010549996]
+[u'safety_pin', 0.14512926, u'hook', 0.058731042, u'oscilloscope', 0.048079073, u'web_site', 0.044180002, u'whistle', 0.034157068]

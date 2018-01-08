@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'envelope', 0.2125515, u'web_site', 0.17381847, u'dishwasher', 0.024000265, u'home_theater', 0.021381699, u'hook', 0.017388811]

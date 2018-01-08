@@ -1,0 +1,6 @@
+[u'nematode', 0.082420655, u'binder', 0.073089764, u'book_jacket', 0.064572208, u'street_sign', 0.027982216, u'envelope', 0.027939709]
+[u'binder', 0.064357445, u'quill', 0.04343152, u'envelope', 0.042769719, u'hamper', 0.038628168, u'mailbag', 0.033805542]
+[u'hamper', 0.045042582, u'quill', 0.044902295, u'mailbag', 0.042469662, u'binder', 0.034586351, u'envelope', 0.031823054]
+[u'nematode', 0.40318647, u'tennis_ball', 0.047204729, u'electric_fan', 0.033522155, u'oxygen_mask', 0.027183156, u'beaker', 0.025919344]
+[u'pick', 0.083468251, u'theater_curtain', 0.066572651, u'book_jacket', 0.065098628, u'bearskin', 0.061218519, u'hair_spray', 0.055596195]
+[u'jersey', 0.15117958, u'chain', 0.072326317, u'nematode', 0.059841797, u'book_jacket', 0.059545971, u'binder', 0.05274336]

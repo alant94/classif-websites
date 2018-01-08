@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.22943485, u'soap_dispenser', 0.12739976, u'window_shade', 0.081801355, u'dishwasher', 0.040238447, u'wardrobe', 0.036845591]
+[u'shower_curtain', 0.33491376, u'window_shade', 0.084588543, u'soap_dispenser', 0.068591215, u'medicine_chest', 0.059035197, u'window_screen', 0.041376486]
+[u'shower_curtain', 0.25513723, u'refrigerator', 0.12175789, u'dishwasher', 0.1010016, u'sliding_door', 0.071354114, u'medicine_chest', 0.048680142]

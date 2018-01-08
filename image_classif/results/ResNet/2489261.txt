@@ -1,0 +1,4 @@
+[u'monastery', 0.29730433, u'church', 0.17575014, u'barn', 0.15317523, u'bell_cote', 0.084586397, u'beacon', 0.079902619]
+[u'boathouse', 0.27015784, u'beacon', 0.18645042, u'window_screen', 0.08142852, u'patio', 0.062121995, u'mobile_home', 0.045217708]
+[u'forklift', 0.27726808, u'chime', 0.09806069, u'lumbermill', 0.093174361, u'patio', 0.040092487, u'pole', 0.031385962]
+[u'boathouse', 0.46330777, u'lakeside', 0.22957434, u'barn', 0.054929532, u'restaurant', 0.048477683, u'mobile_home', 0.036257938]

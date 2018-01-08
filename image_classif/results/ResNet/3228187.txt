@@ -1,0 +1,2 @@
+[u'carousel', 0.12761429, u'macaw', 0.062594309, u'yurt', 0.059221517, u'comic_book', 0.058535866, u'flagpole', 0.045476701]
+[u'banded_gecko', 0.1179187, u'rifle', 0.095599629, u'frilled_lizard', 0.078054868, u'triceratops', 0.05887476, u'bow', 0.044782508]

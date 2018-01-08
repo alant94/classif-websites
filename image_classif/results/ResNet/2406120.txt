@@ -1,0 +1,4 @@
+[u'cup', 0.54085994, u'coffee_mug', 0.18530691, u'espresso', 0.17192222, u'tray', 0.054776356, u'espresso_maker', 0.014235905]
+[u'harp', 0.19854975, u'rocking_chair', 0.10835156, u'paddlewheel', 0.074635632, u'steel_arch_bridge', 0.072862834, u'patio', 0.06532871]
+[u'crate', 0.52456403, u'chest', 0.20117867, u'tub', 0.077290006, u'desk', 0.051891938, u'ashcan', 0.020517835]
+[u'seashore', 0.63079518, u'sandbar', 0.076354429, u'catamaran', 0.051538061, u'wreck', 0.041496363, u'picket_fence', 0.031088438]

@@ -1,0 +1,5 @@
+[u'television', 0.16371354, u'park_bench', 0.04313929, u'neck_brace', 0.034819182, u'swing', 0.034120392, u'library', 0.029830962]
+[u'lawn_mower', 0.88774145, u'tricycle', 0.058758527, u'go-kart', 0.0088203996, u'moving_van', 0.0045655365, u'harvester', 0.0039198301]
+[u'comic_book', 0.47645557, u'web_site', 0.34068704, u'book_jacket', 0.028440164, u'carton', 0.019451719, u'slot', 0.015287527]
+[u'television', 0.21788903, u'cash_machine', 0.08578217, u'bathing_cap', 0.074811265, u'bearskin', 0.06187373, u'scoreboard', 0.057028975]
+[u'television', 0.1097603, u'gar', 0.08400391, u'dumbbell', 0.079802029, u'pole', 0.076588474, u'paddle', 0.050238151]

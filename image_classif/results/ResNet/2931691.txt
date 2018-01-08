@@ -1,0 +1,4 @@
+[u'book_jacket', 0.22038159, u'comic_book', 0.12943622, u'hook', 0.077892348, u'Chihuahua', 0.061988469, u'street_sign', 0.05102355]
+[u'slot', 0.66215611, u'maraca', 0.040860891, u'web_site', 0.031889196, u'croquet_ball', 0.018072885, u'plunger', 0.015673211]
+[u'web_site', 0.21398506, u'Band_Aid', 0.20716105, u'envelope', 0.15688705, u'hook', 0.049849402, u'pencil_sharpener', 0.03785073]
+[u'loupe', 0.59402609, u'spotlight', 0.093817346, u'toilet_seat', 0.06115796, u'electric_fan', 0.046132408, u'plate_rack', 0.043983679]

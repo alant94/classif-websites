@@ -1,0 +1,8 @@
+[u'organ', 0.25948554, u'flagpole', 0.048778147, u'candle', 0.040709265, u'library', 0.038807947, u'altar', 0.034962662]
+[u'file', 0.71982443, u'crate', 0.11257134, u'chiffonier', 0.068168476, u'forklift', 0.057403721, u'bookcase', 0.014972457]
+[u'book_jacket', 0.54281414, u'cassette', 0.25951704, u'fire_screen', 0.071973033, u'packet', 0.025936177, u'comic_book', 0.012372332]
+[u'barn_spider', 0.70418048, u'wolf_spider', 0.10572115, u'tick', 0.054094646, u'fiddler_crab', 0.049687307, u'Dungeness_crab', 0.028967317]
+[u'web_site', 0.13372758, u'lighter', 0.092864297, u'screw', 0.078182802, u'iron', 0.058584642, u'coffee_mug', 0.044919517]
+[u'comic_book', 0.38909984, u'book_jacket', 0.34839588, u'web_site', 0.099272937, u"potter's_wheel", 0.030149555, u'oil_filter', 0.010704139]
+[u'drum', 0.46524972, u'mask', 0.037717316, u'bearskin', 0.037612196, u'throne', 0.033528421, u'shield', 0.028750371]
+[u'screen', 0.35184696, u'packet', 0.084687307, u'television', 0.079288915, u'monitor', 0.056415092, u'hand-held_computer', 0.051185694]

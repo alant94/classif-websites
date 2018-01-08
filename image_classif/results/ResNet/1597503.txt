@@ -1,0 +1,4 @@
+[u'cellular_telephone', 0.43104967, u'power_drill', 0.049494162, u'shower_cap', 0.049012985, u'loupe', 0.044211142, u'bathtub', 0.041742783]
+[u'hair_slide', 0.20313627, u'hook', 0.064987361, u'cleaver', 0.060568385, u'lipstick', 0.050960273, u'nail', 0.035609439]
+[u'bikini', 0.57261288, u'tub', 0.089407176, u'maillot', 0.089025326, u'maillot', 0.051841274, u'bathtub', 0.041311763]
+[u'bikini', 0.63770986, u'maillot', 0.1868493, u'brassiere', 0.094673187, u'miniskirt', 0.02126983, u'maillot', 0.011855606]

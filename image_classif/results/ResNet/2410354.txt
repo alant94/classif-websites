@@ -1,0 +1,8 @@
+[u'street_sign', 0.10954396, u'digital_clock', 0.098388746, u'hook', 0.080008373, u'menu', 0.037194859, u'web_site', 0.036940847]
+[u'digital_clock', 0.10692374, u'street_sign', 0.084038213, u'hook', 0.082391083, u'menu', 0.048025925, u'web_site', 0.036503546]
+[u'digital_clock', 0.21654606, u'book_jacket', 0.067892596, u'street_sign', 0.062117677, u'hook', 0.039660417, u'traffic_light', 0.031488493]
+[u'bannister', 0.19844195, u'umbrella', 0.1848709, u'crutch', 0.12773432, u'gondola', 0.06723921, u'paintbrush', 0.050772145]
+[u'web_site', 0.62120056, u'envelope', 0.10975868, u'menu', 0.020049997, u'comic_book', 0.015330746, u'jean', 0.01466927]
+[u'digital_clock', 0.13826916, u'street_sign', 0.10594258, u'hook', 0.073796101, u'web_site', 0.032622807, u'menu', 0.028349647]
+[u'drum', 0.21126227, u'sunglass', 0.10808749, u'kite', 0.09453366, u'sunglasses', 0.06220774, u'ski', 0.03491535]
+[u'lighter', 0.56569719, u'king_snake', 0.043071054, u'drake', 0.039151918, u'ringneck_snake', 0.024575612, u'sandal', 0.02186211]

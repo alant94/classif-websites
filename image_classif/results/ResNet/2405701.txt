@@ -1,0 +1,6 @@
+[u"carpenter's_kit", 0.099829718, u'pencil_box', 0.097119011, u'chime', 0.091604702, u'switch', 0.086495422, u'typewriter_keyboard', 0.085063286]
+[u'picket_fence', 0.03765342, u'barrel', 0.032146901, u'pot', 0.030683199, u'altar', 0.027583333, u'ski', 0.02671906]
+[u'hand-held_computer', 0.16254249, u'digital_watch', 0.11675006, u'digital_clock', 0.11341896, u'scoreboard', 0.10621874, u'oscilloscope', 0.094909437]
+[u'web_site', 0.54310572, u'envelope', 0.18366082, u'hook', 0.023339825, u'rule', 0.0050882082, u'medicine_chest', 0.0046037124]
+[u'refrigerator', 0.20567214, u'binder', 0.18710631, u'web_site', 0.1540087, u'lotion', 0.047884755, u'hamper', 0.038019821]
+[u'pill_bottle', 0.67575622, u'water_bottle', 0.26635012, u'lotion', 0.018883295, u'perfume', 0.0098989857, u'cocktail_shaker', 0.0056233536]

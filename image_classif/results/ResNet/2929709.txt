@@ -1,0 +1,1 @@
+[u'web_site', 0.22005801, u'pick', 0.064541362, u'doormat', 0.030355088, u'tennis_ball', 0.028134603, u'sunscreen', 0.023298271]

@@ -1,0 +1,1 @@
+[u'jersey', 0.19743316, u'sweatshirt', 0.097300276, u'bulletproof_vest', 0.066277042, u'oboe', 0.042434096, u'plunger', 0.037829157]

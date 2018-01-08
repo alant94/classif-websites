@@ -1,0 +1,2 @@
+[u'barber_chair', 0.15257247, u'throne', 0.12362095, u'web_site', 0.11297747, u'book_jacket', 0.037489645, u'carton', 0.032317724]
+[u'puck', 0.23562989, u'street_sign', 0.13915575, u'bottlecap', 0.065307342, u'pick', 0.060606156, u'packet', 0.041624773]

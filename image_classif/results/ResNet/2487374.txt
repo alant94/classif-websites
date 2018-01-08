@@ -1,0 +1,7 @@
+[u'fountain', 0.77872628, u'geyser', 0.19509007, u'chainlink_fence', 0.0021937275, u'dam', 0.0010506153, u'breakwater', 0.00072030805]
+[u'maze', 0.61772794, u'golf_ball', 0.083054446, u'valley', 0.027754314, u'worm_fence', 0.020503612, u'rapeseed', 0.019455196]
+[u'nematode', 0.17642798, u'web_site', 0.15079463, u'envelope', 0.095613614, u'dishwasher', 0.020372715, u'golf_ball', 0.014907933]
+[u'half_track', 0.15768208, u'bow', 0.1263795, u'bulletproof_vest', 0.096290305, u'rifle', 0.054386698, u'assault_rifle', 0.045715392]
+[u'fountain', 0.8525455, u'geyser', 0.10777529, u'chainlink_fence', 0.0049794, u'dam', 0.0021238956, u'shower_curtain', 0.00099731132]
+[u'window_screen', 0.93104982, u'book_jacket', 0.022321202, u'fire_screen', 0.0084107649, u'envelope', 0.0080576334, u'tray', 0.0035017824]
+[u'web_site', 0.25885805, u'nematode', 0.14502588, u'envelope', 0.061893668, u'golf_ball', 0.018442245, u'dishwasher', 0.015524011]

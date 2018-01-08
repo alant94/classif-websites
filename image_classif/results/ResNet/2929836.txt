@@ -1,0 +1,2 @@
+[u'candle', 0.14592732, u'whistle', 0.10349233, u'pinwheel', 0.065635838, u'hourglass', 0.054661252, u'plate_rack', 0.027690398]
+[u'gas_pump', 0.11136644, u'cassette_player', 0.10027067, u'stopwatch', 0.062175754, u'digital_clock', 0.056583874, u'hard_disc', 0.04990086]

@@ -1,0 +1,8 @@
+[u'loupe', 0.23329487, u'bath_towel', 0.091717944, u'face_powder', 0.073574334, u'Band_Aid', 0.053192008, u'wool', 0.039744467]
+[u"potter's_wheel", 0.24926676, u'black-footed_ferret', 0.19406417, u'skunk', 0.042257667, u'polecat', 0.017498303, u'axolotl', 0.015160902]
+[u'book_jacket', 0.87619597, u'comic_book', 0.059756644, u'swimming_trunks', 0.0042674798, u'hog', 0.0032093697, u'syringe', 0.0031683168]
+[u'maillot', 0.20870906, u'brassiere', 0.20780955, u'oxygen_mask', 0.10350749, u'mortarboard', 0.08999861, u'bikini', 0.030206366]
+[u'banana', 0.31329823, u'eel', 0.10823394, u'nematode', 0.07786756, u'radiator', 0.076960079, u'mortar', 0.073174782]
+[u'chain_saw', 0.19428915, u'container_ship', 0.107144, u'jigsaw_puzzle', 0.093966521, u'plow', 0.085698195, u'thresher', 0.080663003]
+[u'swimming_trunks', 0.2314491, u'tub', 0.092046879, u'dumbbell', 0.091669574, u'punching_bag', 0.051063716, u'Band_Aid', 0.033933003]
+[u'bikini', 0.76388234, u'maillot', 0.070460342, u'park_bench', 0.031572729, u'maillot', 0.020614637, u'gown', 0.018381694]

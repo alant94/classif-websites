@@ -1,0 +1,2 @@
+[u'hair_slide', 0.24164779, u'maraca', 0.21887219, u'buckle', 0.1214611, u'spotlight', 0.033172447, u'whistle', 0.030300794]
+[u'tripod', 0.14642484, u'reflex_camera', 0.13046044, u'web_site', 0.11192359, u'television', 0.084991947, u'binoculars', 0.073266163]

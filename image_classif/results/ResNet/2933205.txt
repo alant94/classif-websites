@@ -1,0 +1,8 @@
+[u'web_site', 0.092511088, u'dishwasher', 0.026146412, u'nematode', 0.023501089, u'envelope', 0.023336591, u'binder', 0.017905289]
+[u'prison', 0.65862173, u'library', 0.045415089, u'palace', 0.04347463, u'monastery', 0.037837498, u'vault', 0.017811129]
+[u'analog_clock', 0.16899918, u'screw', 0.063530788, u'remote_control', 0.043428726, u'web_site', 0.041905694, u'nail', 0.029815137]
+[u'book_jacket', 0.18887229, u'hair_spray', 0.051501166, u'soap_dispenser', 0.044013679, u'nipple', 0.034526508, u'plunger', 0.031061459]
+[u'envelope', 0.51564956, u'comic_book', 0.2000366, u'jersey', 0.05883887, u'laptop', 0.042097669, u'jigsaw_puzzle', 0.04114829]
+[u'shovel', 0.23458023, u'beaker', 0.075817071, u'table_lamp', 0.052603971, u'hook', 0.041133203, u'nail', 0.036912113]
+[u'hair_spray', 0.1671458, u'digital_clock', 0.16598423, u'theater_curtain', 0.058389325, u'chain_saw', 0.051935483, u'face_powder', 0.042703491]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

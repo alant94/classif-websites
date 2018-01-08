@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.27097505, u'broccoli', 0.095329791, u'mixing_bowl', 0.085925907, u'pitcher', 0.075061634, u'tray', 0.068838336]
+[u'rain_barrel', 0.48402828, u'barrel', 0.15436018, u'vase', 0.042681608, u'pitcher', 0.037213538, u'mortar', 0.027031941]
+[u'packet', 0.20081827, u'handkerchief', 0.17776163, u'bolo_tie', 0.065717012, u'envelope', 0.056360934, u'kimono', 0.024742775]
+[u'corn', 0.21196812, u'plate', 0.17172873, u'spaghetti_squash', 0.083504714, u'mixing_bowl', 0.06716758, u'carbonara', 0.054976232]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'potpie', 0.68482906, u'bottlecap', 0.018813366, u'toilet_seat', 0.015705535, u'drum', 0.013676232, u'gong', 0.012470919]

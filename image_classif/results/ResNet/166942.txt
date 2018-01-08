@@ -1,0 +1,2 @@
+[u'swing', 0.90021098, u'zebra', 0.016339656, u'accordion', 0.010963714, u'wreck', 0.010856467, u'lionfish', 0.0065939114]
+[u'crayfish', 0.13481358, u'isopod', 0.1271418, u'king_crab', 0.11475115, u'lionfish', 0.041757982, u'barn_spider', 0.04087643]

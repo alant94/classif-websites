@@ -1,0 +1,1 @@
+[u'web_site', 0.22045957, u'envelope', 0.040210705, u'sunscreen', 0.035525154, u'packet', 0.025656262, u'paper_towel', 0.01840481]

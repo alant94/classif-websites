@@ -1,0 +1,4 @@
+[u'prison', 0.052749246, u'hair_spray', 0.044934262, u'groom', 0.042262346, u'drum', 0.03913182, u'kimono', 0.03906405]
+[u'cleaver', 0.061778348, u'prayer_rug', 0.049879231, u'envelope', 0.045566294, u'nematode', 0.043008715, u'binder', 0.032221932]
+[u'football_helmet', 0.2057102, u'shield', 0.095910862, u'lighter', 0.090800785, u'puck', 0.073983178, u'coffee_mug', 0.048282649]
+[u'suit', 0.11474926, u'seat_belt', 0.096250795, u'bow_tie', 0.085748211, u'sunglass', 0.053503446, u'military_uniform', 0.039969884]

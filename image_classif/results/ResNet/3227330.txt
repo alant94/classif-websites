@@ -1,0 +1,8 @@
+[u'book_jacket', 0.76506907, u'binder', 0.055833988, u'ashcan', 0.02496355, u'bib', 0.022451315, u'comic_book', 0.01205226]
+[u'cellular_telephone', 0.48412108, u'iPod', 0.34810191, u'hand-held_computer', 0.073657237, u'notebook', 0.025841331, u'web_site', 0.015467869]
+[u'coffee_mug', 0.14143607, u'space_heater', 0.12415314, u'electric_fan', 0.12270812, u'binder', 0.054346833, u'oil_filter', 0.053750802]
+[u'web_site', 0.1252522, u'envelope', 0.035002194, u'hook', 0.028238431, u'dishwasher', 0.022159673, u'can_opener', 0.012816147]
+[u'cash_machine', 0.14029494, u'book_jacket', 0.1278225, u'traffic_light', 0.12752272, u'digital_clock', 0.091950953, u'toilet_tissue', 0.056436799]
+[u'oscilloscope', 0.28287479, u'barbershop', 0.1265022, u'book_jacket', 0.067027822, u'theater_curtain', 0.050542787, u'paper_towel', 0.037735455]
+[u'crate', 0.98556107, u'barbershop', 0.0086346846, u'barrel', 0.0044868579, u'doormat', 0.00055737834, u'cinema', 0.0001186771]
+[u'sunscreen', 0.076418854, u'tray', 0.069410093, u'plunger', 0.061595183, u'jean', 0.041762333, u'toilet_seat', 0.034335036]

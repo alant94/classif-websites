@@ -1,0 +1,1 @@
+[u'nail', 0.11848696, u'bannister', 0.10295189, u'web_site', 0.055929869, u'carton', 0.047641214, u'wall_clock', 0.032350808]

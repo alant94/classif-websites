@@ -1,0 +1,7 @@
+[u'crossword_puzzle', 0.84551042, u'tray', 0.077808432, u'quilt', 0.023594676, u'prayer_rug', 0.0083679305, u'digital_clock', 0.005781203]
+[u'book_jacket', 0.44120064, u'scoreboard', 0.2052343, u'comic_book', 0.046223719, u'street_sign', 0.042274307, u"carpenter's_kit", 0.019173181]
+[u'gasmask', 0.12129056, u'hook', 0.071601711, u'neck_brace', 0.06748338, u'sunglass', 0.057967745, u'screw', 0.051979199]
+[u'shoe_shop', 0.27457681, u'restaurant', 0.065890737, u'confectionery', 0.056386184, u'grocery_store', 0.033372905, u'jersey', 0.027493421]
+[u'web_site', 0.077229902, u'slot', 0.052287247, u'screwdriver', 0.051400203, u'vending_machine', 0.046759401, u'ski', 0.042877767]
+[u'web_site', 0.17048424, u'iron', 0.15072605, u'oxygen_mask', 0.036069285, u'can_opener', 0.03192202, u'knot', 0.031703334]
+[u'lakeside', 0.49922633, u'mobile_home', 0.15328796, u'valley', 0.041443896, u'worm_fence', 0.039910328, u'boathouse', 0.036133394]

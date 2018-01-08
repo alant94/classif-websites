@@ -1,0 +1,4 @@
+[u'coil', 0.3112402, u'hook', 0.056012098, u'rule', 0.05382856, u'web_site', 0.052301455, u'quill', 0.05210774]
+[u'web_site', 0.46731436, u'lipstick', 0.25077021, u'hair_spray', 0.024913996, u'perfume', 0.015769372, u'scoreboard', 0.012962293]
+[u'scoreboard', 0.17203484, u'web_site', 0.14253093, u'digital_clock', 0.074055225, u'binder', 0.056763701, u'remote_control', 0.04844249]
+[u'lighter', 0.54643691, u'shield', 0.15286614, u'binder', 0.14719695, u'wallet', 0.043043636, u'cassette', 0.011276605]

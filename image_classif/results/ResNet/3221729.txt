@@ -1,0 +1,3 @@
+[u'barn', 0.69608867, u'lakeside', 0.11989981, u'boathouse', 0.082481809, u'church', 0.035190288, u'picket_fence', 0.016623033]
+[u'hair_slide', 0.11354599, u'carton', 0.075964183, u'packet', 0.054600973, u'plate_rack', 0.05007682, u'street_sign', 0.024753949]
+[u'web_site', 0.30421293, u'envelope', 0.049570356, u'scoreboard', 0.029420737, u'folding_chair', 0.028856449, u'digital_clock', 0.027520945]

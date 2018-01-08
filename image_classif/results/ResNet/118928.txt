@@ -1,0 +1,6 @@
+[u'proboscis_monkey', 0.37501016, u'harmonica', 0.15129068, u'neck_brace', 0.089969225, u'whistle', 0.051377252, u'television', 0.046143204]
+[u'shower_curtain', 0.44712734, u'shoji', 0.11025934, u'crossword_puzzle', 0.080841973, u'medicine_chest', 0.077485085, u'prayer_rug', 0.046503045]
+[u'television', 0.71942824, u'screen', 0.18589438, u'hand-held_computer', 0.045891047, u'monitor', 0.02053933, u'iPod', 0.012583443]
+[u'television', 0.34664693, u'iPod', 0.19054666, u'screen', 0.054321826, u'monitor', 0.049806193, u'oxygen_mask', 0.028652577]
+[u'nipple', 0.51120865, u"potter's_wheel", 0.15920427, u'spotlight', 0.045814898, u'electric_fan', 0.018254096, u'plunger', 0.014271162]
+[u'crossword_puzzle', 0.14347886, u'digital_clock', 0.13002709, u'prayer_rug', 0.10291636, u'tray', 0.071977086, u'fire_screen', 0.055973466]

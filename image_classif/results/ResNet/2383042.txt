@@ -1,0 +1,8 @@
+[u'upright', 0.099326558, u'pedestal', 0.075722329, u'street_sign', 0.040165309, u'kuvasz', 0.037729476, u'desk', 0.020128231]
+[u'wine_bottle', 0.85923773, u'red_wine', 0.13446623, u'perfume', 0.0019922424, u'corkscrew', 0.0012321734, u'paintbrush', 0.00049265765]
+[u'book_jacket', 0.20077065, u'abaya', 0.041954238, u'stopwatch', 0.040202945, u'web_site', 0.039883807, u'coffee_mug', 0.029177364]
+[u'nail', 0.53270054, u'chain', 0.1719266, u'hook', 0.11575246, u'safe', 0.019621819, u'worm_fence', 0.015963186]
+[u'wine_bottle', 0.21369721, u'microwave', 0.091103852, u'medicine_chest', 0.0708258, u'water_bottle', 0.050102029, u'red_wine', 0.039164506]
+[u'book_jacket', 0.74532425, u'brass', 0.049054932, u'web_site', 0.031956352, u'bookshop', 0.029670354, u'menu', 0.024421897]
+[u'carton', 0.21697596, u'crate', 0.15299615, u'iron', 0.090420492, u'bucket', 0.046928167, u'shoji', 0.038246028]
+[u'carton', 0.10875349, u'plate_rack', 0.10000464, u'red_wine', 0.094953321, u'crate', 0.068443924, u'wooden_spoon', 0.048370667]

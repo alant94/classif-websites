@@ -1,0 +1,5 @@
+[u'street_sign', 0.30741486, u'cash_machine', 0.090182126, u'web_site', 0.079948954, u'sunscreen', 0.04928115, u'book_jacket', 0.044398274]
+[u'barbershop', 0.15631345, u'tobacco_shop', 0.087294839, u'book_jacket', 0.07957314, u'trombone', 0.048993185, u'cornet', 0.038190663]
+[u'book_jacket', 0.67312843, u'volcano', 0.14635962, u'comic_book', 0.033330042, u'corn', 0.0177225, u'theater_curtain', 0.013675727]
+[u'barrel', 0.22517483, u'bakery', 0.16771692, u'book_jacket', 0.093496732, u'brass', 0.040612724, u'butcher_shop', 0.036509663]
+[u'oscilloscope', 0.42666197, u'brass', 0.31950173, u'menu', 0.052357566, u'book_jacket', 0.026510177, u'rotisserie', 0.021762053]

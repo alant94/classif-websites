@@ -1,0 +1,5 @@
+[u'bighorn', 0.7827034, u'Arabian_camel', 0.055041526, u'Ibizan_hound', 0.046589807, u'impala', 0.022915047, u'ram', 0.01632276]
+[u'gazelle', 0.62851024, u'llama', 0.060962137, u'ox', 0.058788519, u'impala', 0.053141352, u'oxcart', 0.030703425]
+[u'street_sign', 0.789832, u'oscilloscope', 0.033680666, u'traffic_light', 0.020939464, u'digital_clock', 0.013887096, u'web_site', 0.012593254]
+[u'hay', 0.1777858, u'nail', 0.15749267, u'barn', 0.13444699, u'bittern', 0.083682179, u'coyote', 0.043327548]
+[u'gazelle', 0.91019553, u'impala', 0.062945239, u'whippet', 0.011508352, u'Ibizan_hound', 0.0045217429, u'ox', 0.0029303047]

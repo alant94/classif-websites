@@ -1,0 +1,2 @@
+[u'apiary', 0.13024312, u'plunger', 0.067764737, u'cowboy_hat', 0.035278611, u'swing', 0.033023503, u'bonnet', 0.032377392]
+[u'sunscreen', 0.38955438, u'lotion', 0.38931891, u'hair_spray', 0.19654001, u'lighter', 0.019408353, u'water_bottle', 0.0027541942]

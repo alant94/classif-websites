@@ -1,0 +1,6 @@
+[u'lab_coat', 0.1301271, u'wardrobe', 0.09734004, u'wig', 0.053377066, u'vestment', 0.0522363, u'sarong', 0.04363443]
+[u'church', 0.37918907, u'altar', 0.18719985, u'fountain', 0.046458129, u'wine_bottle', 0.028410839, u'perfume', 0.023637233]
+[u'hand-held_computer', 0.044759862, u'ping-pong_ball', 0.041664515, u'reflex_camera', 0.040509306, u'cellular_telephone', 0.035248552, u'medicine_chest', 0.035049275]
+[u'groom', 0.3043901, u'sarong', 0.053144649, u'jersey', 0.045203783, u'restaurant', 0.03072783, u'crutch', 0.028202511]
+[u'wardrobe', 0.24152122, u'dining_table', 0.10699742, u'china_cabinet', 0.081660591, u'television', 0.060500432, u'restaurant', 0.0502242]
+[u'web_site', 0.064061508, u'Band_Aid', 0.054370757, u'book_jacket', 0.02884184, u'hair_spray', 0.021652641, u'analog_clock', 0.021192802]

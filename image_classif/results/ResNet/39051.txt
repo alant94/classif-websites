@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.64693362, u'prayer_rug', 0.053853657, u'shower_curtain', 0.04256849, u'tray', 0.021886358, u'toilet_seat', 0.019434458]
+[u'shower_curtain', 0.37067005, u'crossword_puzzle', 0.10319561, u'prayer_rug', 0.042268593, u'washbasin', 0.031647708, u'sliding_door', 0.031241721]
+[u'crossword_puzzle', 0.93401653, u'hamper', 0.025617044, u'shower_curtain', 0.0060759699, u'paper_towel', 0.0050225114, u'dining_table', 0.0047048409]
+[u'quilt', 0.18615432, u'crossword_puzzle', 0.15187027, u'shower_curtain', 0.10532305, u'tray', 0.08707355, u'hamper', 0.032350637]
+[u'crossword_puzzle', 0.76033884, u'digital_clock', 0.08925496, u'shower_curtain', 0.03187158, u'prayer_rug', 0.021655492, u'quilt', 0.011313749]

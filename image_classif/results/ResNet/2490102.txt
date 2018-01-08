@@ -1,0 +1,7 @@
+[u'panpipe', 0.25737169, u'comic_book', 0.085448153, u'rifle', 0.077576376, u'bow', 0.071424738, u'abacus', 0.051069599]
+[u'carton', 0.26099452, u'envelope', 0.1044118, u'crate', 0.10275932, u'book_jacket', 0.10032857, u'packet', 0.073267914]
+[u'restaurant', 0.41547886, u'library', 0.1428244, u'dining_table', 0.11270005, u'tobacco_shop', 0.057622079, u'perfume', 0.023457067]
+[u'geyser', 0.14773062, u'book_jacket', 0.13618313, u'web_site', 0.12182309, u'tripod', 0.03074654, u'bison', 0.030001821]
+[u'oboe', 0.25766951, u'flute', 0.17610891, u'sax', 0.13642986, u'rifle', 0.11615182, u'assault_rifle', 0.10530375]
+[u'book_jacket', 0.57339692, u'carton', 0.29809719, u'envelope', 0.034788482, u'Band_Aid', 0.018892536, u'binder', 0.011550241]
+[u'traffic_light', 0.092594244, u'street_sign', 0.037947837, u'web_site', 0.036217276, u'sliding_door', 0.031438105, u'moving_van', 0.02903966]

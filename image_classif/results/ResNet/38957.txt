@@ -1,0 +1,2 @@
+[u'web_site', 0.22574951, u'digital_clock', 0.20234261, u'stopwatch', 0.047908653, u'analog_clock', 0.045661293, u'envelope', 0.038594421]
+[u'folding_chair', 0.9991141, u'web_site', 0.00035840162, u'iron', 0.00026021138, u'rocking_chair', 7.1626266e-05, u'dining_table', 1.689575e-05]

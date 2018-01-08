@@ -1,0 +1,2 @@
+[u'pill_bottle', 0.58644599, u'face_powder', 0.31454501, u'sunscreen', 0.072401598, u'lotion', 0.0054853065, u'perfume', 0.0046661957]
+[u'bottlecap', 0.46144593, u'web_site', 0.13513453, u'pop_bottle', 0.045420218, u'combination_lock', 0.030041667, u'pick', 0.029645607]

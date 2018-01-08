@@ -1,0 +1,2 @@
+[u'picket_fence', 0.37110004, u'crossword_puzzle', 0.066314757, u'folding_chair', 0.048824675, u'shopping_basket', 0.040740401, u'digital_clock', 0.03660218]
+[u'butcher_shop', 0.65169746, u'wig', 0.067680977, u'web_site', 0.04512018, u'Irish_setter', 0.036156915, u'stage', 0.026226275]

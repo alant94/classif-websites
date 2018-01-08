@@ -1,0 +1,4 @@
+[u'scoreboard', 0.59552979, u'street_sign', 0.12742779, u'monitor', 0.029988701, u'web_site', 0.021267839, u'screen', 0.021242723]
+[u'digital_clock', 0.29666039, u'crossword_puzzle', 0.25725704, u'whistle', 0.11159246, u'digital_watch', 0.079722412, u'picket_fence', 0.034970924]
+[u'web_site', 0.32571974, u'envelope', 0.059253406, u'digital_clock', 0.050813179, u'television', 0.022270072, u'dishwasher', 0.021378636]
+[u'picket_fence', 0.26380631, u'perfume', 0.15674847, u'dining_table', 0.078503914, u'crossword_puzzle', 0.062905364, u'folding_chair', 0.061500337]

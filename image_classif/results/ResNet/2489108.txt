@@ -1,0 +1,7 @@
+[u'impala', 0.40960497, u'gazelle', 0.29829848, u'ibex', 0.11507113, u'hartebeest', 0.031994805, u'ox', 0.014351149]
+[u'ibex', 0.48406816, u'ox', 0.24484052, u'bighorn', 0.067083292, u'hartebeest', 0.057898503, u'bison', 0.036940437]
+[u'hartebeest', 0.70633012, u'impala', 0.26459607, u'gazelle', 0.02777902, u'ibex', 0.00050226809, u'African_hunting_dog', 0.000151835]
+[u'ibex', 0.34516019, u'dingo', 0.19859669, u'cougar', 0.051597193, u'gazelle', 0.045054588, u'malinois', 0.03953537]
+[u'gazelle', 0.44775057, u'ostrich', 0.2055966, u'impala', 0.10698587, u'hartebeest', 0.090223201, u'zebra', 0.061900899]
+[u'toilet_seat', 0.94118071, u'drum', 0.030629871, u'bib', 0.0050434014, u'hamper', 0.0048270314, u'racket', 0.0024513979]
+[u'worm_fence', 0.76859361, u'scoreboard', 0.069645651, u'street_sign', 0.024416722, u'chainlink_fence', 0.016748048, u'turnstile', 0.015002649]

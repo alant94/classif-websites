@@ -1,0 +1,4 @@
+[u'ski', 0.10087208, u'web_site', 0.073523127, u'oxygen_mask', 0.06982778, u'gasmask', 0.040972039, u'reflex_camera', 0.038395811]
+[u'screwdriver', 0.090750143, u'slide_rule', 0.044098955, u'nail', 0.037163228, u'bow', 0.036054648, u'ski', 0.032853264]
+[u'monitor', 0.41100979, u'screen', 0.24970619, u'laptop', 0.097788587, u'television', 0.055468913, u'traffic_light', 0.03093921]
+[u'web_site', 0.58112681, u'analog_clock', 0.21657752, u'digital_clock', 0.09278886, u'stopwatch', 0.057949889, u'oscilloscope', 0.015018612]

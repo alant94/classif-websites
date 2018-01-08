@@ -1,0 +1,2 @@
+[u'mask', 0.9436239, u'ski_mask', 0.013657637, u'breastplate', 0.0050931689, u'cuirass', 0.0046913801, u'comic_book', 0.0034506929]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

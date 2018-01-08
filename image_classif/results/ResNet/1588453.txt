@@ -1,0 +1,2 @@
+[u'digital_clock', 0.14757369, u'jersey', 0.12880865, u'web_site', 0.12873116, u'oscilloscope', 0.044299752, u'Band_Aid', 0.039231312]
+[u'digital_clock', 0.67615366, u'digital_watch', 0.067455471, u'web_site', 0.031468421, u'television', 0.012832426, u'theater_curtain', 0.011063556]

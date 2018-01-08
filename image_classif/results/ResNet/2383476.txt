@@ -1,0 +1,5 @@
+[u'comic_book', 0.21993695, u'jigsaw_puzzle', 0.17716236, u'theater_curtain', 0.085267469, u'pillow', 0.083283268, u'jersey', 0.070255727]
+[u'car_mirror', 0.086237192, u'hard_disc', 0.065876104, u'grille', 0.060818829, u'bookshop', 0.031891335, u'dishwasher', 0.026354011]
+[u'goblet', 0.74791253, u'wine_bottle', 0.093231447, u'red_wine', 0.033263814, u'altar', 0.020066913, u'restaurant', 0.017063554]
+[u'red_wine', 0.35828143, u'goblet', 0.15827478, u'wine_bottle', 0.070462555, u'dining_table', 0.054295648, u'altar', 0.046949126]
+[u'bow_tie', 0.58238417, u'groom', 0.21673544, u'suit', 0.088158853, u'tobacco_shop', 0.057460126, u'toyshop', 0.015150735]

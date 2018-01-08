@@ -1,0 +1,4 @@
+[u'cash_machine', 0.54093802, u'television', 0.16995336, u'screen', 0.074552938, u'web_site', 0.047368217, u'perfume', 0.018798018]
+[u'bookcase', 0.31893834, u'binder', 0.18893085, u'hamper', 0.054789022, u'studio_couch', 0.048444469, u'book_jacket', 0.036971834]
+[u'perfume', 0.44465929, u'web_site', 0.15316142, u'lotion', 0.061518576, u'cash_machine', 0.04541463, u'television', 0.018844118]
+[u'web_site', 0.85424566, u'digital_clock', 0.030560875, u'scoreboard', 0.010139746, u'barbershop', 0.0086686183, u'analog_clock', 0.0064218752]

@@ -1,0 +1,1 @@
+[u'nipple', 0.15035045, u'gasmask', 0.099058978, u'oxygen_mask', 0.084570356, u'digital_clock', 0.077876508, u'hair_spray', 0.075008333]

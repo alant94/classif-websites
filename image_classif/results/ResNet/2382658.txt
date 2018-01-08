@@ -1,0 +1,5 @@
+[u'restaurant', 0.64902484, u'dining_table', 0.27795228, u'patio', 0.027958661, u'prison', 0.023366842, u'turnstile', 0.0063496251]
+[u'envelope', 0.098656036, u'cornet', 0.051215012, u'maze', 0.04923496, u'barometer', 0.042847872, u'rubber_eraser', 0.038643379]
+[u'zucchini', 0.31373408, u'coral_fungus', 0.18768394, u'broccoli', 0.038548533, u'wool', 0.025227111, u'slug', 0.023460951]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'wine_bottle', 0.77626741, u'beer_bottle', 0.096675731, u'punching_bag', 0.040635817, u'projectile', 0.017434545, u'missile', 0.016586006]

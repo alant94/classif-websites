@@ -1,0 +1,5 @@
+[u'television', 0.34893468, u'digital_clock', 0.22780962, u'web_site', 0.078387611, u'screen', 0.059678268, u'monitor', 0.056316409]
+[u'digital_clock', 0.22680902, u'crossword_puzzle', 0.099092513, u'prayer_rug', 0.08196684, u'digital_watch', 0.067913987, u'Band_Aid', 0.062104438]
+[u'television', 0.63303864, u'web_site', 0.21744668, u'entertainment_center', 0.026220361, u'screen', 0.018642806, u'envelope', 0.013096066]
+[u'picket_fence', 0.082622461, u'prayer_rug', 0.041313376, u'ambulance', 0.034308001, u'medicine_chest', 0.033594459, u'traffic_light', 0.033199776]
+[u'web_site', 0.7340374, u'television', 0.094232179, u'screen', 0.015435634, u'monitor', 0.011445847, u'envelope', 0.0096511226]

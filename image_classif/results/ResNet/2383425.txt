@@ -1,0 +1,5 @@
+[u'book_jacket', 0.15609382, u'web_site', 0.1425247, u'digital_clock', 0.045558888, u'street_sign', 0.019182032, u'scoreboard', 0.017128721]
+[u'scoreboard', 0.4487845, u'fire_screen', 0.12770832, u'book_jacket', 0.11391059, u'prison', 0.045830354, u'Bouvier_des_Flandres', 0.042147886]
+[u'canoe', 0.12419, u'fountain', 0.092718557, u'swing', 0.07596942, u'park_bench', 0.054663301, u'tricycle', 0.049844056]
+[u'web_site', 0.81522524, u'envelope', 0.055628821, u'nematode', 0.0088290637, u'laptop', 0.0072261463, u'analog_clock', 0.0063996487]
+[u'web_site', 0.6309725, u'digital_clock', 0.066431433, u'analog_clock', 0.018397518, u'monitor', 0.010646802, u'laptop', 0.010052542]

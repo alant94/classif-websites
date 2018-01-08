@@ -1,0 +1,2 @@
+[u'gas_pump', 0.2552973, u'carousel', 0.12369483, u'restaurant', 0.122888, u'steel_drum', 0.053554118, u'patio', 0.036161598]
+[u'chocolate_sauce', 0.99865353, u'consomme', 0.00055647269, u'microwave', 0.00033305341, u'sunglass', 8.7635191e-05, u'whiskey_jug', 5.5913166e-05]

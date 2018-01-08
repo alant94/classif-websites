@@ -1,0 +1,7 @@
+[u'web_site', 0.79191303, u'television', 0.023692228, u'screen', 0.021591613, u'envelope', 0.017254801, u'digital_clock', 0.016276777]
+[u'Band_Aid', 0.63836086, u'web_site', 0.0596154, u'cash_machine', 0.046037782, u'packet', 0.0090040471, u'pill_bottle', 0.0080936328]
+[u'toyshop', 0.91864234, u'shoe_shop', 0.0080782883, u'kimono', 0.0077093337, u'mask', 0.0065078465, u'bookshop', 0.0058869743]
+[u'tobacco_shop', 0.32675463, u'sliding_door', 0.075982071, u'library', 0.032501824, u'cassette', 0.028212395, u'tape_player', 0.022659935]
+[u'sliding_door', 0.18051402, u'vending_machine', 0.12107124, u'shopping_basket', 0.056898903, u'folding_chair', 0.051939249, u'cash_machine', 0.049035981]
+[u'book_jacket', 0.41439861, u'digital_watch', 0.1410695, u'digital_clock', 0.12477985, u'oscilloscope', 0.035370424, u'scoreboard', 0.033713285]
+[u'digital_clock', 0.75069475, u'crossword_puzzle', 0.12298308, u'digital_watch', 0.077766515, u'prayer_rug', 0.010026541, u'wall_clock', 0.0082004946]

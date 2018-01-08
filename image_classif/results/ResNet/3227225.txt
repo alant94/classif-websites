@@ -1,0 +1,1 @@
+[u'flagpole', 0.94776344, u'barbershop', 0.022184901, u'restaurant', 0.0066359686, u'scoreboard', 0.0038364821, u'street_sign', 0.0013952299]

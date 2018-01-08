@@ -1,0 +1,1 @@
+[u'envelope', 0.44280612, u'web_site', 0.059680395, u'dishwasher', 0.020551981, u'notebook', 0.013095592, u'cleaver', 0.012988775]

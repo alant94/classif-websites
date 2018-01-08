@@ -1,0 +1,5 @@
+[u'altar', 0.97423959, u'mosque', 0.017552959, u'vault', 0.0024907123, u'church', 0.0017002734, u'candle', 0.0016317036]
+[u'dishwasher', 0.3793371, u'refrigerator', 0.15615635, u'envelope', 0.063803717, u'washer', 0.047935762, u'notebook', 0.024969365]
+[u'dishwasher', 0.3793371, u'refrigerator', 0.15615635, u'envelope', 0.063803717, u'washer', 0.047935762, u'notebook', 0.024969365]
+[u'patio', 0.1577691, u'church', 0.080191776, u'bannister', 0.071069255, u'maze', 0.065093815, u'chainlink_fence', 0.053477682]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

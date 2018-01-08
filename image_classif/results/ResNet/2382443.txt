@@ -1,0 +1,5 @@
+[u'web_site', 0.16879864, u'pinwheel', 0.084830917, u'warplane', 0.063048229, u'handkerchief', 0.055380836, u'bow', 0.046911813]
+[u'water_bottle', 0.37230572, u'lotion', 0.12700401, u'whiskey_jug', 0.095715649, u'pill_bottle', 0.08786092, u'soap_dispenser', 0.06310425]
+[u'cleaver', 0.2089141, u'packet', 0.1746815, u'tray', 0.14811359, u'menu', 0.079384133, u'plate', 0.0245967]
+[u'analog_clock', 0.13169929, u'ping-pong_ball', 0.093811631, u'face_powder', 0.082747266, u'Petri_dish', 0.056968529, u'pick', 0.048727997]
+[u'water_bottle', 0.2361847, u'water_jug', 0.19645415, u'pill_bottle', 0.15417981, u'whiskey_jug', 0.125387, u'hair_spray', 0.094394758]

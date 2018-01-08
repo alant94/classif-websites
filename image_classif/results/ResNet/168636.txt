@@ -1,0 +1,4 @@
+[u'oboe', 0.44565204, u'sax', 0.42136586, u'flute', 0.046707518, u'electric_guitar', 0.014834412, u'cornet', 0.012876148]
+[u'television', 0.46824086, u'monitor', 0.29332045, u'web_site', 0.10019004, u'screen', 0.041918855, u'notebook', 0.023604173]
+[u'pay-phone', 0.48547572, u'harmonica', 0.25368124, u'whistle', 0.069322377, u'television', 0.038688578, u'microphone', 0.012365022]
+[u'sax', 0.15275875, u'harp', 0.14779216, u'banjo', 0.058402531, u'flute', 0.057051703, u'electric_guitar', 0.052878324]

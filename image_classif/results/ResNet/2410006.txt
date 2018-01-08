@@ -1,0 +1,8 @@
+[u'pretzel', 0.92848176, u'bagel', 0.068080775, u'French_loaf', 0.0011877845, u'paper_towel', 0.00084555225, u'bakery', 0.000654687]
+[u'pretzel', 0.85947692, u'bakery', 0.037349358, u'bagel', 0.015586226, u'tray', 0.013326788, u'dough', 0.0084406212]
+[u'bagel', 0.80672288, u'pretzel', 0.037737411, u'earthstar', 0.030509055, u'mushroom', 0.023172311, u'French_loaf', 0.013651599]
+[u'mask', 0.2277502, u'toilet_seat', 0.05025313, u'tray', 0.047070656, u'china_cabinet', 0.037716132, u'apiary', 0.028916929]
+[u'bagel', 0.99404871, u'pretzel', 0.0048156143, u'bakery', 0.00033228906, u'paper_towel', 0.00011262457, u'Granny_Smith', 3.8159145e-05]
+[u'bagel', 0.46584502, u'corn', 0.16630536, u'wooden_spoon', 0.048054751, u'pretzel', 0.029111385, u'hook', 0.017035287]
+[u'pretzel', 0.85947692, u'bakery', 0.037349358, u'bagel', 0.015586226, u'tray', 0.013326788, u'dough', 0.0084406212]
+[u'king_penguin', 0.75245047, u'drum', 0.0280577, u'chocolate_sauce', 0.01601043, u'chain', 0.01539407, u'killer_whale', 0.014337962]

@@ -1,0 +1,6 @@
+[u'spotlight', 0.13534522, u'oscilloscope', 0.12643203, u'theater_curtain', 0.077104181, u'screen', 0.064452484, u'projector', 0.055546813]
+[u'book_jacket', 0.36605567, u'packet', 0.04690985, u'barbershop', 0.046261989, u'hair_spray', 0.036307592, u'street_sign', 0.034675106]
+[u'golf_ball', 0.99999499, u'baseball', 1.8351842e-06, u'ping-pong_ball', 6.3534264e-07, u'tennis_ball', 6.0200438e-07, u'soccer_ball', 4.9126947e-07]
+[u'cash_machine', 0.15722543, u'theater_curtain', 0.10778341, u'monitor', 0.089903206, u'hair_spray', 0.049306955, u'trailer_truck', 0.033065625]
+[u'web_site', 0.56216836, u'hand_blower', 0.021026609, u'power_drill', 0.017962582, u'hook', 0.0174683, u'academic_gown', 0.014322918]
+[u'web_site', 0.98855221, u'comic_book', 0.0033876258, u'menu', 0.0018641209, u'Sussex_spaniel', 0.00051471428, u'crossword_puzzle', 0.00024113155]

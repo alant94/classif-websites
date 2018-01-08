@@ -1,0 +1,3 @@
+[u'pill_bottle', 0.53437793, u'beer_bottle', 0.13714932, u'water_bottle', 0.051532924, u'soap_dispenser', 0.047589857, u'lotion', 0.037019033]
+[u'barometer', 0.20505209, u'gong', 0.18840933, u'analog_clock', 0.13807793, u'drum', 0.04731242, u'digital_clock', 0.046478737]
+[u'beer_glass', 0.17175813, u'trifle', 0.14875332, u'beaker', 0.14759177, u'refrigerator', 0.10141706, u'microwave', 0.08476606]

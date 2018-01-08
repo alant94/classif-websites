@@ -1,0 +1,2 @@
+[u'sarong', 0.19397946, u'jean', 0.11480393, u'gown', 0.10586476, u'sandal', 0.082945354, u'umbrella', 0.050268661]
+[u'starfish', 0.11003269, u'web_site', 0.083788611, u'abaya', 0.076413967, u'sea_urchin', 0.073883094, u'jellyfish', 0.062871397]

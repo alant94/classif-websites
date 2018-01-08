@@ -1,0 +1,6 @@
+[u'military_uniform', 0.55763775, u'hay', 0.10689616, u'plow', 0.046764277, u'rifle', 0.029881135, u'assault_rifle', 0.02936988]
+[u'vulture', 0.54249316, u'coyote', 0.10858072, u'bald_eagle', 0.046066117, u'hyena', 0.038135376, u'warthog', 0.031742316]
+[u'ibex', 0.46201584, u'gazelle', 0.39580694, u'bighorn', 0.038805343, u'ram', 0.01644109, u'impala', 0.012981004]
+[u'Arabian_camel', 0.23192285, u'whippet', 0.14883971, u'English_foxhound', 0.056116555, u'coyote', 0.050640497, u'borzoi', 0.043889772]
+[u'impala', 0.44283274, u'gazelle', 0.32982183, u'ibex', 0.15474294, u'bow', 0.015028001, u'barn_spider', 0.0074715517]
+[u'gong', 0.20359346, u'magnetic_compass', 0.1473695, u'chime', 0.087546878, u'sundial', 0.080942191, u'binder', 0.03638158]

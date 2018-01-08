@@ -1,0 +1,7 @@
+[u'gown', 0.3818967, u'groom', 0.29995748, u'maillot', 0.028421296, u'brassiere', 0.020462004, u'conch', 0.019396089]
+[u'sunscreen', 0.2480066, u'bikini', 0.1892848, u'swimming_trunks', 0.094723344, u'bathing_cap', 0.046862267, u'brassiere', 0.027577609]
+[u'stopwatch', 0.16575548, u'digital_clock', 0.099621445, u'digital_watch', 0.087420419, u'remote_control', 0.056241799, u'cornet', 0.044506587]
+[u'maillot', 0.34978616, u'bell_pepper', 0.06321694, u'balance_beam', 0.051675126, u'maillot', 0.048029341, u'gown', 0.041315015]
+[u'book_jacket', 0.54202008, u'barbershop', 0.10497432, u'comic_book', 0.07094077, u'jersey', 0.028522015, u'web_site', 0.025632128]
+[u'paintbrush', 0.11039346, u'lipstick', 0.06427101, u'hook', 0.062725678, u'nail', 0.059439607, u'Windsor_tie', 0.048743028]
+[u'drum', 0.48147565, u'banjo', 0.19429345, u'wooden_spoon', 0.068957575, u'shovel', 0.037022971, u'hammer', 0.0285799]

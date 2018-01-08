@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.17772003, u'binder', 0.096717454, u'digital_clock', 0.080285333, u'screen', 0.055169415, u'prayer_rug', 0.054223958]
+[u'hartebeest', 0.23161612, u'assault_rifle', 0.2298619, u'rifle', 0.21477959, u'military_uniform', 0.14830005, u'impala', 0.075482354]

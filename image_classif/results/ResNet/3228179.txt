@@ -1,0 +1,1 @@
+[u'church', 0.49705946, u'monastery', 0.26352596, u'palace', 0.041175485, u'obelisk', 0.026285442, u'flagpole', 0.012970882]

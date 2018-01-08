@@ -1,0 +1,3 @@
+[u'shield', 0.12966362, u'television', 0.096191823, u'football_helmet', 0.074312992, u'Band_Aid', 0.043349791, u'screen', 0.031129209]
+[u'web_site', 0.66329467, u'book_jacket', 0.10130075, u'comic_book', 0.044328492, u'refrigerator', 0.010187797, u'library', 0.0090529695]
+[u'book_jacket', 0.70509964, u'comic_book', 0.18794131, u'barbershop', 0.012619149, u'web_site', 0.0089928536, u'cinema', 0.0059695481]

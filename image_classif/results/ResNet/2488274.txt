@@ -1,0 +1,1 @@
+[u'book_jacket', 0.262205, u'puck', 0.17365701, u'electric_fan', 0.12448199, u'lighter', 0.046218593, u'comic_book', 0.038971622]

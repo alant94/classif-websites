@@ -1,0 +1,2 @@
+[u'steel_drum', 0.18539754, u'stage', 0.16576697, u'trombone', 0.12188143, u'sax', 0.074238017, u'maraca', 0.068178385]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,7 @@
+[u'patio', 0.28812194, u'boathouse', 0.26911116, u'mobile_home', 0.10232022, u'barn', 0.043737117, u'restaurant', 0.037585262]
+[u'sunscreen', 0.34977522, u'lotion', 0.18364272, u'refrigerator', 0.11846818, u'nipple', 0.058639906, u'pill_bottle', 0.03530816]
+[u'web_site', 0.53668487, u'analog_clock', 0.06477876, u'desktop_computer', 0.0364655, u'photocopier', 0.021851493, u'radio', 0.016181352]
+[u'English_setter', 0.22149335, u'Chihuahua', 0.13587347, u'web_site', 0.11314662, u'dalmatian', 0.089349501, u'Maltese_dog', 0.083931126]
+[u'pill_bottle', 0.98082387, u'nipple', 0.0080405222, u'lotion', 0.0035788417, u'water_bottle', 0.002147554, u'face_powder', 0.0017157081]
+[u'web_site', 0.47734168, u'entertainment_center', 0.082526967, u'television', 0.041167423, u'monitor', 0.03372084, u'screen', 0.016592244]
+[u'web_site', 0.27037874, u'refrigerator', 0.19629002, u'medicine_chest', 0.17045841, u'vending_machine', 0.11345323, u'safety_pin', 0.022960251]

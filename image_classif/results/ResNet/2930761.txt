@@ -1,0 +1,4 @@
+[u'book_jacket', 0.32313469, u'comic_book', 0.22067186, u'cinema', 0.044588778, u'vending_machine', 0.042588115, u'scoreboard', 0.027480988]
+[u'scoreboard', 0.26481628, u'tobacco_shop', 0.24441732, u'book_jacket', 0.10583488, u'cinema', 0.080736138, u'street_sign', 0.052600607]
+[u'screen', 0.22911268, u'digital_clock', 0.17763922, u'stage', 0.11082526, u'spotlight', 0.068242565, u'monitor', 0.039261825]
+[u'menu', 0.77668422, u'web_site', 0.16527985, u'brass', 0.040834244, u'book_jacket', 0.0034913244, u'scoreboard', 0.0016892169]

@@ -1,0 +1,4 @@
+[u'paintbrush', 0.10889766, u'ice_lolly', 0.10608257, u'envelope', 0.079201125, u'wooden_spoon', 0.049211722, u'lipstick', 0.039331134]
+[u'corn', 0.25929165, u'cowboy_boot', 0.10144522, u'ear', 0.048957646, u'groenendael', 0.028536528, u'beer_bottle', 0.022148734]
+[u'coffee_mug', 0.39818174, u'comic_book', 0.17220229, u'book_jacket', 0.082267143, u'cornet', 0.074514858, u'lighter', 0.028498737]
+[u'panpipe', 0.44613653, u'marimba', 0.18868411, u'traffic_light', 0.079529285, u'digital_clock', 0.047327518, u'coil', 0.023527429]

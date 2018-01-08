@@ -1,0 +1,1 @@
+[u'pedestal', 0.25068718, u'beacon', 0.21125101, u'pier', 0.10692865, u'triumphal_arch', 0.088279299, u'analog_clock', 0.058368813]

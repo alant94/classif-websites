@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16041875, u'scoreboard', 0.14748429, u'plunger', 0.081572473, u'Band_Aid', 0.064856581, u'envelope', 0.052104536]
+[u'book_jacket', 0.29535577, u'pick', 0.11319979, u'coffee_mug', 0.036046058, u'comic_book', 0.028959045, u'drum', 0.027470585]

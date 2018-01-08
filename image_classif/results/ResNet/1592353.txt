@@ -1,0 +1,1 @@
+[u'comic_book', 0.15441616, u"jack-o'-lantern", 0.083873466, u'jigsaw_puzzle', 0.070600793, u'envelope', 0.056639537, u'menu', 0.055433352]

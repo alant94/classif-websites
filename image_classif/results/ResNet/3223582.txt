@@ -1,0 +1,6 @@
+[u'web_site', 0.84993452, u'orange', 0.016827034, u'pick', 0.012983005, u'menu', 0.010589712, u'corn', 0.0091903461]
+[u'church', 0.83141202, u'bell_cote', 0.12028117, u'monastery', 0.023751901, u'palace', 0.0049756505, u'dome', 0.0047448566]
+[u'web_site', 0.13184257, u'crossword_puzzle', 0.11884143, u'digital_watch', 0.060593668, u'scoreboard', 0.048907943, u'digital_clock', 0.046546411]
+[u'church', 0.98718959, u'bell_cote', 0.0058056633, u'monastery', 0.0022422585, u'dome', 0.0021007077, u'mosque', 0.00079888228]
+[u'web_site', 0.068911672, u'binder', 0.062030442, u'combination_lock', 0.057834722, u'lighter', 0.054600637, u'medicine_chest', 0.050894361]
+[u'loudspeaker', 0.15968986, u'ladle', 0.10168856, u'strainer', 0.067648612, u'loupe', 0.041660391, u'oil_filter', 0.038915094]

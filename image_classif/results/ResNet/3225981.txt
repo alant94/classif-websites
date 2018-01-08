@@ -1,0 +1,4 @@
+[u'toyshop', 0.80154169, u'refrigerator', 0.031182431, u'confectionery', 0.024317417, u'sarong', 0.023764912, u'comic_book', 0.017872356]
+[u'steam_locomotive', 0.22887921, u'patio', 0.051100526, u'bannister', 0.049133897, u'monastery', 0.035250906, u'alp', 0.034899913]
+[u'book_jacket', 0.50545245, u'web_site', 0.095753193, u'nematode', 0.051931206, u'hook', 0.031101482, u'comic_book', 0.021023534]
+[u'toyshop', 0.79926443, u'confectionery', 0.02533049, u'altar', 0.018167602, u'clog', 0.012122702, u'wall_clock', 0.01134606]

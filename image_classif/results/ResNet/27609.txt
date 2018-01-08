@@ -1,0 +1,1 @@
+[u'chain_saw', 0.84845591, u'pencil_sharpener', 0.044794239, u'power_drill', 0.02819442, u'corkscrew', 0.01673355, u'can_opener', 0.011355489]

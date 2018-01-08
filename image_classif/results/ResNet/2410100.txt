@@ -1,0 +1,8 @@
+[u'home_theater', 0.65488988, u'table_lamp', 0.15731573, u'lampshade', 0.074228808, u'cinema', 0.067455254, u'restaurant', 0.015521605]
+[u'stage', 0.37683094, u'slot', 0.19592735, u'home_theater', 0.095970035, u'cinema', 0.072324976, u'restaurant', 0.049284015]
+[u'soap_dispenser', 0.48988473, u'modem', 0.11537714, u'toaster', 0.095185831, u'pencil_sharpener', 0.060269061, u'space_heater', 0.025602408]
+[u'ballpoint', 0.46773753, u'hair_slide', 0.10010067, u'academic_gown', 0.092641048, u'whistle', 0.08420556, u'rubber_eraser', 0.030911332]
+[u'stage', 0.52187037, u'spotlight', 0.32686979, u'church', 0.034939803, u'grand_piano', 0.029073605, u'cinema', 0.026529644]
+[u'entertainment_center', 0.39293921, u'television', 0.18874837, u'web_site', 0.11998126, u'theater_curtain', 0.062751725, u'home_theater', 0.051122285]
+[u'barbershop', 0.18770005, u'sliding_door', 0.16655442, u'window_shade', 0.151788, u'window_screen', 0.043656427, u'patio', 0.039389234]
+[u'altar', 0.20523942, u'pillow', 0.16145277, u'bell_cote', 0.14111684, u'theater_curtain', 0.047617786, u'monastery', 0.035724666]

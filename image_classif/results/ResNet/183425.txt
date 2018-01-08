@@ -1,0 +1,7 @@
+[u'reel', 0.94002211, u'disk_brake', 0.010332721, u'oil_filter', 0.0099037969, u'chain_saw', 0.004679271, u'hook', 0.0038149164]
+[u'warplane', 0.34044603, u'airliner', 0.18504082, u'airship', 0.076999635, u'wing', 0.0679942, u'aircraft_carrier', 0.061107919]
+[u'airliner', 0.39252156, u'warplane', 0.10881536, u'trailer_truck', 0.06149587, u'crane', 0.033856098, u'parachute', 0.030472057]
+[u'street_sign', 0.20643428, u'puck', 0.10366545, u'web_site', 0.041813292, u'doormat', 0.027030786, u'shopping_basket', 0.026625572]
+[u'space_shuttle', 0.35464245, u'can_opener', 0.33128202, u'airliner', 0.10430705, u'corkscrew', 0.092777662, u'warplane', 0.047006086]
+[u'book_jacket', 0.73113853, u'comic_book', 0.15307048, u'menu', 0.093048647, u'binder', 0.0065355892, u'web_site', 0.0058569391]
+[u'space_shuttle', 0.65183109, u'warplane', 0.31312203, u'airliner', 0.017911965, u'aircraft_carrier', 0.0058234162, u'wing', 0.0041486081]

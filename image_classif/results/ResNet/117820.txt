@@ -1,0 +1,2 @@
+[u'ballpoint', 0.24784946, u'lipstick', 0.053696163, u'web_site', 0.052915208, u'lotion', 0.045167852, u'candle', 0.043199234]
+[u'wig', 0.92639881, u'hair_spray', 0.029063119, u'book_jacket', 0.006878085, u'loupe', 0.0044169845, u'lipstick', 0.0040041329]

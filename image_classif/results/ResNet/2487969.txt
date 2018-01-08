@@ -1,0 +1,2 @@
+[u'loupe', 0.43606877, u'letter_opener', 0.12091075, u'combination_lock', 0.11033875, u'magnetic_compass', 0.054797899, u'whistle', 0.037694022]
+[u'window_shade', 0.29165152, u'screen', 0.15948085, u'web_site', 0.086214326, u'desktop_computer', 0.062476743, u'dishwasher', 0.043242835]

@@ -1,0 +1,6 @@
+[u'drum', 0.49832287, u'loupe', 0.083784595, u'banjo', 0.065393798, u'gong', 0.033959098, u'golf_ball', 0.033591032]
+[u'jersey', 0.17291144, u'tray', 0.059219852, u'web_site', 0.049759895, u'sombrero', 0.039801389, u'analog_clock', 0.03902138]
+[u'hair_slide', 0.38314939, u'web_site', 0.23591061, u'ski', 0.052300811, u'jersey', 0.045097683, u'bolo_tie', 0.026639804]
+[u'screw', 0.65474242, u'space_shuttle', 0.076518424, u'rifle', 0.037776154, u'loupe', 0.029438648, u'analog_clock', 0.029207941]
+[u'web_site', 0.16520061, u'church', 0.093399562, u'digital_clock', 0.074498788, u'picket_fence', 0.045887154, u'crossword_puzzle', 0.04506642]
+[u'stupa', 0.21033095, u'perfume', 0.089733407, u'throne', 0.074084945, u'packet', 0.06579455, u'web_site', 0.060771897]

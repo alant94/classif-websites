@@ -1,0 +1,2 @@
+[u'bassoon', 0.18571977, u'oboe', 0.15816462, u'hair_spray', 0.040037233, u'hand_blower', 0.032781787, u'accordion', 0.0256058]
+[u'digital_clock', 0.24486561, u'analog_clock', 0.07167872, u'church', 0.060245465, u'traffic_light', 0.053447314, u'digital_watch', 0.040652446]

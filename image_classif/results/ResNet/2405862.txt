@@ -1,0 +1,4 @@
+[u'window_screen', 0.71036166, u'window_shade', 0.25942537, u'mobile_home', 0.01618694, u'shoji', 0.0024402502, u'medicine_chest', 0.0017116368]
+[u'microwave', 0.22511095, u'photocopier', 0.11222679, u'safe', 0.10361648, u'fire_screen', 0.0863166, u'space_heater', 0.080156311]
+[u'fire_screen', 0.31113705, u'boathouse', 0.097632669, u'vault', 0.048094559, u'window_screen', 0.032144111, u'desk', 0.03133921]
+[u'picket_fence', 0.45547268, u'church', 0.34897235, u'mosque', 0.040511638, u'organ', 0.021834265, u'whistle', 0.01804815]

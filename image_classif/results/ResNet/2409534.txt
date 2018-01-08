@@ -1,0 +1,8 @@
+[u'bookshop', 0.21057117, u'computer_keyboard', 0.19082519, u'jigsaw_puzzle', 0.0851558, u'monitor', 0.066148669, u'abacus', 0.049218923]
+[u'pick', 0.071495242, u'puck', 0.066899195, u'tennis_ball', 0.05113171, u'spotlight', 0.043375351, u'switch', 0.032730613]
+[u'refrigerator', 0.17243738, u'jigsaw_puzzle', 0.14488316, u'switch', 0.041318659, u'loupe', 0.040252846, u'radio', 0.031298697]
+[u'wall_clock', 0.15008752, u'shield', 0.12639226, u'street_sign', 0.11849756, u'analog_clock', 0.093097255, u'sunscreen', 0.056533504]
+[u'chain_mail', 0.41995308, u'library', 0.084205717, u'barbershop', 0.045549992, u'dining_table', 0.032012954, u'radiator', 0.029561564]
+[u'doormat', 0.2575359, u'Windsor_tie', 0.092302956, u'manhole_cover', 0.087406434, u'fire_screen', 0.072526082, u'window_screen', 0.055107415]
+[u'envelope', 0.34048882, u'gasmask', 0.080252238, u'analog_clock', 0.06000226, u'sunscreen', 0.04829739, u'puck', 0.046297625]
+[u'jigsaw_puzzle', 0.092165507, u'paddlewheel', 0.056045625, u'tobacco_shop', 0.047314778, u'carton', 0.045488551, u'grocery_store', 0.039670788]

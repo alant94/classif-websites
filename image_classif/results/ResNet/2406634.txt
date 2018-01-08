@@ -1,0 +1,2 @@
+[u'web_site', 0.99997008, u'menu', 5.323353e-06, u'monitor', 4.3538366e-06, u'envelope', 4.0641089e-06, u'screen', 8.3686251e-07]
+[u'web_site', 0.96389085, u'envelope', 0.021934213, u'rule', 0.00065965747, u'notebook', 0.00053630723, u'dishwasher', 0.00048359664]

@@ -1,0 +1,1 @@
+[u'ski', 0.098265775, u'web_site', 0.09684214, u'refrigerator', 0.063542098, u'wardrobe', 0.044845376, u'stole', 0.044055983]

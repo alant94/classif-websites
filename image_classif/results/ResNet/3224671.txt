@@ -1,0 +1,1 @@
+[u'desktop_computer', 0.39994988, u'desk', 0.11342681, u'monitor', 0.068629019, u'upright', 0.050238322, u'organ', 0.035215449]

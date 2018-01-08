@@ -1,0 +1,2 @@
+[u'bulletproof_vest', 0.34563309, u'jersey', 0.15684837, u'academic_gown', 0.12325597, u'sweatshirt', 0.097356781, u'vestment', 0.070700608]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

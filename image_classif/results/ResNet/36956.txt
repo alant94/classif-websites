@@ -1,0 +1,4 @@
+[u'book_jacket', 0.38676587, u'comic_book', 0.1053169, u'scoreboard', 0.05302377, u'oscilloscope', 0.036962517, u'digital_clock', 0.026910173]
+[u'digital_clock', 0.36049953, u'barbershop', 0.20902629, u'oscilloscope', 0.096856654, u'cinema', 0.034253411, u'book_jacket', 0.028109232]
+[u'book_jacket', 0.85081077, u'barbershop', 0.093032613, u'comic_book', 0.025028, u'scoreboard', 0.0093266023, u'theater_curtain', 0.0060407855]
+[u'web_site', 0.51875037, u'jersey', 0.089689612, u'book_jacket', 0.069749162, u'packet', 0.032769572, u'analog_clock', 0.026019238]

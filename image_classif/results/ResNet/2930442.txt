@@ -1,0 +1,3 @@
+[u'suit', 0.69533408, u'Windsor_tie', 0.16481976, u'bow_tie', 0.052203596, u'bolo_tie', 0.016088268, u'military_uniform', 0.0067350101]
+[u'hoopskirt', 0.1029316, u'gown', 0.076586246, u'wig', 0.061241049, u'overskirt', 0.058158658, u'maillot', 0.048501059]
+[u'spotlight', 0.093011558, u'radio_telescope', 0.091418073, u'scale', 0.075020313, u'fountain', 0.036012307, u'electric_fan', 0.02720792]

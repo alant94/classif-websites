@@ -1,0 +1,6 @@
+[u'digital_clock', 0.55474657, u'analog_clock', 0.14233801, u'indri', 0.06479916, u'toaster', 0.020859089, u'digital_watch', 0.016486779]
+[u'digital_clock', 0.69646412, u'analog_clock', 0.082308106, u'digital_watch', 0.030314827, u'indri', 0.025079845, u'stopwatch', 0.017818991]
+[u'pencil_sharpener', 0.076427117, u'pill_bottle', 0.048304483, u'nipple', 0.044307813, u'coil', 0.041630268, u'plunger', 0.030580103]
+[u'envelope', 0.14404635, u'pill_bottle', 0.10404127, u'panpipe', 0.041573491, u'picket_fence', 0.032589111, u'hair_spray', 0.032357417]
+[u'panpipe', 0.39627779, u'picket_fence', 0.13877195, u'envelope', 0.079686493, u'pill_bottle', 0.029709468, u'church', 0.019425586]
+[u'notebook', 0.64631444, u'laptop', 0.091905937, u'web_site', 0.088774934, u'lab_coat', 0.082325123, u'printer', 0.0098535577]

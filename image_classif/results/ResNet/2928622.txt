@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.80078876, u'web_site', 0.019214485, u'can_opener', 0.012565429, u'jersey', 0.011107014, u'envelope', 0.0075412351]
+[u'wig', 0.44467676, u'lipstick', 0.11218747, u'shower_cap', 0.070400432, u'face_powder', 0.051476248, u'bow_tie', 0.023978379]
+[u'web_site', 0.41560116, u'screen', 0.1889915, u'monitor', 0.10446682, u'butcher_shop', 0.073374681, u'carton', 0.021911077]
+[u'analog_clock', 0.10509419, u'screen', 0.050561596, u'binder', 0.042017773, u'sea_snake', 0.041414049, u'oscilloscope', 0.035867646]
+[u'lab_coat', 0.74553567, u'stethoscope', 0.071950734, u'torch', 0.022842387, u'neck_brace', 0.022604898, u'candle', 0.017410036]
+[u'stopwatch', 0.18694162, u'digital_clock', 0.038284764, u'analog_clock', 0.036809057, u'pick', 0.028889859, u'oil_filter', 0.02644033]
+[u'envelope', 0.27007505, u'bottlecap', 0.17172943, u'sunscreen', 0.16746376, u'pill_bottle', 0.046574641, u'gasmask', 0.034278017]
+[u'face_powder', 0.34612358, u'hair_slide', 0.097387694, u'brassiere', 0.078292474, u'Band_Aid', 0.073904686, u'abaya', 0.071665041]

@@ -1,0 +1,1 @@
+[u'notebook', 0.71958661, u'laptop', 0.051895041, u'modem', 0.041473214, u'hard_disc', 0.028275587, u'envelope', 0.02328564]

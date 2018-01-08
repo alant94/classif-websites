@@ -1,0 +1,8 @@
+[u'web_site', 0.54328525, u'bow_tie', 0.161834, u'Windsor_tie', 0.14051977, u'harp', 0.0066480478, u'sax', 0.0043919375]
+[u'altar', 0.19354869, u'brass', 0.14150195, u'book_jacket', 0.11346083, u'perfume', 0.057045866, u'web_site', 0.056232199]
+[u'mailbox', 0.16196351, u'boxer', 0.044812925, u'ashcan', 0.043418914, u'Ibizan_hound', 0.038614396, u'Brittany_spaniel', 0.028293537]
+[u'great_grey_owl', 0.68323237, u'kite', 0.098733097, u'house_finch', 0.035949759, u'sea_lion', 0.023058431, u'quail', 0.018583562]
+[u'panpipe', 0.73393404, u'marimba', 0.14222439, u'church', 0.0274217, u'organ', 0.019014589, u'coil', 0.015915325]
+[u'web_site', 0.83583724, u'jigsaw_puzzle', 0.024003625, u'monitor', 0.014626465, u'seashore', 0.012671267, u'envelope', 0.011517597]
+[u'web_site', 0.84679538, u'envelope', 0.02908832, u'book_jacket', 0.019857652, u'harp', 0.0066444301, u'can_opener', 0.0050804326]
+[u'plate', 0.76629937, u'restaurant', 0.10881649, u'dining_table', 0.076932751, u'tray', 0.015805844, u'bakery', 0.01081014]

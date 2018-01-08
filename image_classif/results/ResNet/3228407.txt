@@ -1,0 +1,8 @@
+[u'honeycomb', 0.076548308, u'drum', 0.074396513, u'bubble', 0.074182339, u'lampshade', 0.061200343, u'daisy', 0.04941256]
+[u'flagpole', 0.96411306, u'palace', 0.018750267, u'maypole', 0.0020707608, u'picket_fence', 0.0019160251, u'restaurant', 0.0016465284]
+[u'digital_clock', 0.13308814, u'suspension_bridge', 0.1163906, u'fountain', 0.10745405, u'web_site', 0.082486078, u'tripod', 0.061460946]
+[u'loupe', 0.43437526, u'hook', 0.070208788, u'toilet_seat', 0.062207293, u'analog_clock', 0.056714162, u'spotlight', 0.03382213]
+[u'book_jacket', 0.50310028, u'brass', 0.15599327, u'street_sign', 0.11420768, u'envelope', 0.02097109, u'nail', 0.020193759]
+[u'hook', 0.044854037, u'soap_dispenser', 0.039610397, u'jersey', 0.033856552, u'shield', 0.031859066, u'traffic_light', 0.031622853]
+[u'stopwatch', 0.22585221, u'digital_watch', 0.098384082, u'digital_clock', 0.087185048, u'toaster', 0.039516136, u'power_drill', 0.032474414]
+[u'street_sign', 0.99564028, u'traffic_light', 0.00079874968, u'cab', 0.00076234748, u'cash_machine', 0.00076215481, u'book_jacket', 0.00041566155]

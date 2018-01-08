@@ -1,0 +1,2 @@
+[u'web_site', 0.50059754, u'whistle', 0.086330801, u'envelope', 0.05271456, u'bow', 0.031356692, u'mousetrap', 0.020021886]
+[u'castle', 0.46490607, u'monastery', 0.088755615, u'cannon', 0.080503613, u'park_bench', 0.05449729, u'vault', 0.044633001]

@@ -1,0 +1,3 @@
+[u'boathouse', 0.21240966, u'lakeside', 0.18977085, u'palace', 0.13350061, u'castle', 0.079477504, u'beacon', 0.074983954]
+[u'candle', 0.26072937, u'picket_fence', 0.14665775, u'matchstick', 0.10760801, u'radiator', 0.070018299, u'jean', 0.038770765]
+[u'American_lobster', 0.14041187, u'terrapin', 0.066480733, u'beer_glass', 0.065260448, u'crash_helmet', 0.060171932, u'neck_brace', 0.055251688]

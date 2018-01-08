@@ -1,0 +1,1 @@
+[u'perfume', 0.17915487, u'ballpoint', 0.13138513, u'matchstick', 0.081904575, u'dining_table', 0.078951724, u'lipstick', 0.048131362]

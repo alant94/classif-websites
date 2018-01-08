@@ -1,0 +1,7 @@
+[u'envelope', 0.22988705, u'oil_filter', 0.13891061, u'panpipe', 0.1183584, u'shovel', 0.095889322, u'whistle', 0.03273122]
+[u'paper_towel', 0.091336623, u'envelope', 0.088321358, u'oxygen_mask', 0.047260076, u'gasmask', 0.035649203, u'golf_ball', 0.032989249]
+[u'washbasin', 0.099242151, u'web_site', 0.073311493, u'wardrobe', 0.048700709, u'loudspeaker', 0.035375889, u'envelope', 0.03412725]
+[u'wardrobe', 0.094684005, u'washbasin', 0.049947646, u'loudspeaker', 0.039377581, u'web_site', 0.036395915, u'shower_curtain', 0.029072683]
+[u'candle', 0.53303814, u"jack-o'-lantern", 0.1406012, u'vase', 0.020451833, u'barrel', 0.018703664, u'ping-pong_ball', 0.017555583]
+[u'face_powder', 0.53571481, u'folding_chair', 0.054183193, u'academic_gown', 0.040154438, u'dumbbell', 0.032151964, u'toilet_seat', 0.026490647]
+[u'envelope', 0.15050477, u'ambulance', 0.089299411, u'thresher', 0.070828818, u'web_site', 0.065191038, u'forklift', 0.061542891]

@@ -1,0 +1,2 @@
+[u'African_grey', 0.066604152, u'beer_glass', 0.033005189, u'bassoon', 0.02371637, u'military_uniform', 0.018910665, u'American_lobster', 0.018397555]
+[u'groom', 0.35502666, u'gown', 0.097565457, u'lipstick', 0.05683428, u'hair_spray', 0.030132374, u'sunglass', 0.026787981]

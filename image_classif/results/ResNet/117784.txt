@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.19946194, u'washbasin', 0.11234719, u'crossword_puzzle', 0.069977179, u'bathtub', 0.044317581, u'tub', 0.039908595]
+[u'crossword_puzzle', 0.58427608, u'digital_clock', 0.11028487, u'washbasin', 0.041909024, u'wall_clock', 0.020706454, u'digital_watch', 0.017326178]
+[u'crossword_puzzle', 0.75421453, u'digital_clock', 0.14005156, u'digital_watch', 0.014080761, u'wall_clock', 0.0096516665, u'washbasin', 0.0090894029]
+[u'shower_curtain', 0.19154903, u'wardrobe', 0.15368897, u'sliding_door', 0.085485868, u'washbasin', 0.080925979, u'crossword_puzzle', 0.04574756]

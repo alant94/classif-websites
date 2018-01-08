@@ -1,0 +1,2 @@
+[u'electric_guitar', 0.83770245, u'stage', 0.13488962, u'banjo', 0.014462017, u'acoustic_guitar', 0.0040410324, u'accordion', 0.002545424]
+[u'space_shuttle', 0.84160018, u'electric_guitar', 0.058142446, u'electric_ray', 0.020281915, u'killer_whale', 0.019271107, u'hammerhead', 0.0043047308]

@@ -1,0 +1,4 @@
+[u'bakery', 0.31280431, u'grocery_store', 0.29186195, u'streetcar', 0.070845664, u'vending_machine', 0.051640306, u'tobacco_shop', 0.047937989]
+[u'red_wine', 0.62407625, u'wine_bottle', 0.37255985, u'corkscrew', 0.0012544269, u'perfume', 0.0011808077, u'beer_bottle', 0.00051460421]
+[u'starfish', 0.65038472, u'screw', 0.093066029, u'corn', 0.038868759, u'ear', 0.028030178, u'conch', 0.020544184]
+[u'rapeseed', 0.99993169, u'worm_fence', 9.4470979e-06, u'picket_fence', 8.7066783e-06, u'barn', 6.5897684e-06, u'park_bench', 3.8521225e-06]

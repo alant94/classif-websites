@@ -1,0 +1,2 @@
+[u'paper_towel', 0.16427289, u'handkerchief', 0.12441777, u'envelope', 0.058619712, u'switch', 0.049485486, u'shower_curtain', 0.039189085]
+[u'greenhouse', 0.49544486, u'lakeside', 0.22939165, u'carousel', 0.1213325, u'jigsaw_puzzle', 0.014128758, u'picket_fence', 0.014038038]

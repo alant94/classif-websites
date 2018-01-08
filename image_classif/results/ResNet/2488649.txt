@@ -1,0 +1,7 @@
+[u'hartebeest', 0.1058831, u'assault_rifle', 0.088024914, u'impala', 0.086892217, u'oxcart', 0.058689799, u'rifle', 0.033987738]
+[u'restaurant', 0.45488998, u'barbershop', 0.36427274, u'barber_chair', 0.04006261, u'tobacco_shop', 0.039420776, u'altar', 0.014762489]
+[u'bison', 0.5226444, u'ox', 0.095864668, u'fire_screen', 0.03817936, u'water_buffalo', 0.027979475, u'oxcart', 0.016501563]
+[u'Bouvier_des_Flandres', 0.33762375, u'half_track', 0.32600856, u'jeep', 0.049223874, u'briard', 0.030230198, u'mountain_bike', 0.024872802]
+[u'shield', 0.086207122, u'black_grouse', 0.042879418, u'basset', 0.038128741, u'Welsh_springer_spaniel', 0.038039558, u'German_short-haired_pointer', 0.034502123]
+[u'cougar', 0.6395539, u'gazelle', 0.16680706, u'hartebeest', 0.056539696, u'ibex', 0.033059359, u'impala', 0.024765134]
+[u'coyote', 0.82848126, u'impala', 0.061497811, u'bighorn', 0.018592909, u'gazelle', 0.013493336, u'red_wolf', 0.01292781]

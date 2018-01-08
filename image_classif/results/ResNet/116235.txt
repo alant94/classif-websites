@@ -1,0 +1,2 @@
+[u'chain_saw', 0.47758535, u'space_shuttle', 0.11008394, u'church', 0.096470058, u'screw', 0.046337854, u'can_opener', 0.025045335]
+[u'digital_clock', 0.58761084, u'wall_clock', 0.091033556, u'crossword_puzzle', 0.08046788, u'whistle', 0.056454632, u'tray', 0.02136622]

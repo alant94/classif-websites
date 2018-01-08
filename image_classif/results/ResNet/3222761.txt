@@ -1,0 +1,4 @@
+[u'flagpole', 0.97713065, u'pole', 0.0083942665, u'schooner', 0.0023510901, u'shower_curtain', 0.0016805512, u'trimaran', 0.0014979425]
+[u'picket_fence', 0.34874931, u'candle', 0.14574711, u'matchstick', 0.077523567, u'nail', 0.069553807, u'hammer', 0.023679752]
+[u'schooner', 0.28752592, u'fountain', 0.20252021, u'church', 0.15229811, u'paddle', 0.053625472, u'picket_fence', 0.040288184]
+[u'ski', 0.24656086, u'vacuum', 0.085139863, u'throne', 0.064449228, u'swab', 0.049334135, u'bow', 0.038983829]

@@ -1,0 +1,1 @@
+[u'envelope', 0.089648806, u'binder', 0.079511598, u'toilet_seat', 0.064953297, u'bubble', 0.035225783, u'Petri_dish', 0.028536273]

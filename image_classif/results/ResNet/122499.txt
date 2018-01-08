@@ -1,0 +1,1 @@
+[u'puck', 0.48205781, u'oil_filter', 0.055195849, u'pill_bottle', 0.029163234, u'sunscreen', 0.024587654, u'web_site', 0.019744821]

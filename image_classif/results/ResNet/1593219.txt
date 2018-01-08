@@ -1,0 +1,7 @@
+[u'harp', 0.4082256, u'ski', 0.099030189, u'screwdriver', 0.093457177, u'fire_screen', 0.0477775, u'mountain_bike', 0.046609353]
+[u'sleeping_bag', 0.086718626, u'seat_belt', 0.077683195, u'jean', 0.025771933, u'remote_control', 0.02519677, u'stretcher', 0.024406705]
+[u'miniskirt', 0.77644992, u'sandal', 0.04283813, u'Loafer', 0.02770843, u'barbell', 0.024454027, u'suit', 0.021058787]
+[u'plastic_bag', 0.10981348, u'umbrella', 0.10095068, u'ashcan', 0.055047486, u'knee_pad', 0.054279998, u'sleeping_bag', 0.051812936]
+[u'television', 0.27279663, u'Chesapeake_Bay_retriever', 0.053733468, u'vacuum', 0.025906079, u'studio_couch', 0.020847278, u'redbone', 0.020087041]
+[u'croquet_ball', 0.11022906, u'swing', 0.11006781, u'park_bench', 0.071512267, u'maypole', 0.060597081, u'ice_lolly', 0.038793966]
+[u'dishwasher', 0.37120432, u'neck_brace', 0.1474819, u'barber_chair', 0.047793366, u'microwave', 0.017704548, u'iron', 0.017144559]

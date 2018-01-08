@@ -1,0 +1,5 @@
+[u'envelope', 0.38429013, u'book_jacket', 0.077884234, u'paper_towel', 0.045164771, u'ashcan', 0.029657912, u'lighter', 0.026873725]
+[u'envelope', 0.4392463, u'book_jacket', 0.30831182, u'paper_towel', 0.0331746, u'carton', 0.020855622, u'menu', 0.016171809]
+[u'web_site', 0.20859095, u'hook', 0.1241326, u'nipple', 0.048430443, u'oxygen_mask', 0.045865577, u'syringe', 0.045735959]
+[u'envelope', 0.49312323, u'book_jacket', 0.15341432, u'paper_towel', 0.051883388, u'menu', 0.023249615, u'carton', 0.019830741]
+[u'nipple', 0.38089588, u'space_shuttle', 0.081562363, u'whistle', 0.058224652, u'digital_clock', 0.053416062, u'oxygen_mask', 0.022419544]

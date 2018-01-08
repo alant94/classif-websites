@@ -1,0 +1,6 @@
+[u'buckeye', 0.35144913, u'picket_fence', 0.15380231, u'chainlink_fence', 0.094119735, u'park_bench', 0.015037321, u'swing', 0.014028079]
+[u'prayer_rug', 0.50695711, u'radiator', 0.14222649, u'fire_screen', 0.1249736, u'dining_table', 0.042003155, u'doormat', 0.031612985]
+[u'pinwheel', 0.12452406, u'picket_fence', 0.05838627, u'motor_scooter', 0.053660583, u'shoe_shop', 0.045464076, u'moped', 0.042575609]
+[u'sewing_machine', 0.89324456, u'spotlight', 0.061032929, u'microphone', 0.014647414, u'joystick', 0.010994663, u'iron', 0.003990998]
+[u'prison', 0.93632567, u'vault', 0.0080480948, u'unicycle', 0.0047147274, u'crutch', 0.0039319834, u'turnstile', 0.0032470669]
+[u'spotlight', 0.23164538, u'bell_cote', 0.056988884, u'cannon', 0.05140049, u'pole', 0.047643617, u'fireboat', 0.042984396]

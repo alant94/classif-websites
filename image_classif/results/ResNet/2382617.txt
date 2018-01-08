@@ -1,0 +1,6 @@
+[u'brass', 0.32572353, u'book_jacket', 0.21127829, u'street_sign', 0.13404113, u'bookshop', 0.040163051, u'worm_fence', 0.037399292]
+[u'bookcase', 0.22398497, u'china_cabinet', 0.19210042, u'perfume', 0.10300179, u'wine_bottle', 0.066653058, u'water_bottle', 0.06428995]
+[u'maze', 0.88234866, u'greenhouse', 0.066355936, u'head_cabbage', 0.019028166, u'rapeseed', 0.0080081504, u'hay', 0.0037436497]
+[u'web_site', 0.64635259, u'menu', 0.25972095, u'slot', 0.019737856, u'jigsaw_puzzle', 0.01732924, u'bakery', 0.010070194]
+[u'web_site', 0.095624305, u'envelope', 0.047723662, u'book_jacket', 0.045678008, u'rule', 0.025956694, u'slide_rule', 0.02282051]
+[u'china_cabinet', 0.1912317, u'restaurant', 0.13697585, u'dining_table', 0.13649675, u'chime', 0.08937601, u'steel_drum', 0.066477738]

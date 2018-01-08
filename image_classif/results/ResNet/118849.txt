@@ -1,0 +1,3 @@
+[u'fire_screen', 0.64425266, u'window_screen', 0.047924913, u'envelope', 0.024285799, u'hamper', 0.018925022, u'refrigerator', 0.015872436]
+[u'web_site', 0.75663704, u'soap_dispenser', 0.062253065, u'screw', 0.027570045, u'pop_bottle', 0.021365173, u'nipple', 0.01406101]
+[u'crossword_puzzle', 0.19540995, u'quilt', 0.14193232, u'tray', 0.04834665, u'hamper', 0.041994084, u'shower_curtain', 0.036793683]

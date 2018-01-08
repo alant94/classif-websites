@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.18020776, u'valley', 0.15692478, u'church', 0.13284342, u'alp', 0.11594115, u'castle', 0.087527156]
+[u'web_site', 0.3628225, u'envelope', 0.06821581, u'cash_machine', 0.037300389, u'binder', 0.037204999, u'laptop', 0.036683999]
+[u'Band_Aid', 0.61729383, u'ambulance', 0.079804979, u'analog_clock', 0.036171719, u'web_site', 0.016887208, u'stretcher', 0.014032428]
+[u'wine_bottle', 0.94158447, u'red_wine', 0.035785425, u'beer_bottle', 0.015468461, u'pop_bottle', 0.002557219, u'lotion', 0.0025318484]
+[u'wine_bottle', 0.84028113, u'red_wine', 0.067091607, u'pop_bottle', 0.057424434, u'beer_bottle', 0.021201558, u'corkscrew', 0.0019625721]
+[u'bakery', 0.59461474, u'dining_table', 0.095834345, u'grocery_store', 0.082485653, u'restaurant', 0.071398661, u'confectionery', 0.063909248]

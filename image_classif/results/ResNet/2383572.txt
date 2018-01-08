@@ -1,0 +1,5 @@
+[u'barn', 0.9270404, u'picket_fence', 0.018616507, u'padlock', 0.0058995853, u'birdhouse', 0.0056040632, u'barrel', 0.0036288053]
+[u'web_site', 0.26444203, u'book_jacket', 0.081443392, u'envelope', 0.078826606, u'bakery', 0.051608168, u'wall_clock', 0.029362109]
+[u'picket_fence', 0.1965697, u'barn', 0.12098856, u'worm_fence', 0.093539089, u'park_bench', 0.09262009, u'chainlink_fence', 0.061061814]
+[u'rapeseed', 0.35325965, u'chainlink_fence', 0.16100705, u'park_bench', 0.073694512, u'picket_fence', 0.065229349, u'worm_fence', 0.062331911]
+[u'lakeside', 0.19862518, u'fountain', 0.17190428, u'American_alligator', 0.15803193, u'valley', 0.093934193, u'canoe', 0.043575794]

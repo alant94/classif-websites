@@ -1,0 +1,1 @@
+[u'digital_clock', 0.9813177, u'digital_watch', 0.018554296, u'stopwatch', 7.3652569e-05, u'analog_clock', 2.2182378e-05, u'barometer', 7.4149184e-06]

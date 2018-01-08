@@ -1,0 +1,3 @@
+[u'maillot', 0.19256045, u'suit', 0.12971695, u'miniskirt', 0.050914675, u'maillot', 0.038922232, u'groom', 0.037917692]
+[u'crossword_puzzle', 0.60832936, u'analog_clock', 0.043407124, u'digital_clock', 0.036064912, u'book_jacket', 0.023166778, u'web_site', 0.023100678]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

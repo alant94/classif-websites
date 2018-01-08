@@ -1,0 +1,6 @@
+[u'web_site', 0.40607622, u'power_drill', 0.020899564, u'whistle', 0.018353891, u'nail', 0.013603627, u'cleaver', 0.013265125]
+[u'vase', 0.15248722, u'goblet', 0.13523914, u'bassoon', 0.12111492, u'lampshade', 0.10676109, u'paintbrush', 0.09019091]
+[u'web_site', 0.092496909, u'electric_guitar', 0.084248677, u'power_drill', 0.074900314, u'ski', 0.050214794, u'dumbbell', 0.047071252]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.59824455, u'Band_Aid', 0.027353764, u'screw', 0.01667659, u'power_drill', 0.015004179, u'envelope', 0.012489468]
+[u'web_site', 0.85915262, u'envelope', 0.024739524, u'gas_pump', 0.016862862, u'moving_van', 0.014000471, u'cash_machine', 0.010230423]

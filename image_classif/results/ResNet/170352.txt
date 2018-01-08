@@ -1,0 +1,2 @@
+[u'lab_coat', 0.27011845, u'suit', 0.13384309, u'apron', 0.063568346, u'Windsor_tie', 0.036832806, u'cleaver', 0.027297482]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,8 @@
+[u'container_ship', 0.91095978, u'crossword_puzzle', 0.072972089, u'sea_snake', 0.0038391354, u'prayer_rug', 0.0016952156, u'jigsaw_puzzle', 0.0012091267]
+[u'safe', 0.08220458, u'carton', 0.053377852, u'oil_filter', 0.05165178, u'envelope', 0.038996559, u'dishwasher', 0.034761366]
+[u'panpipe', 0.32436007, u'bikini', 0.25903979, u'brassiere', 0.1095358, u'harmonica', 0.054270927, u'feather_boa', 0.032077614]
+[u'wig', 0.86315137, u'hair_spray', 0.052022476, u'Band_Aid', 0.011363008, u'lipstick', 0.01079497, u'bikini', 0.0036979227]
+[u'sunscreen', 0.087416083, u'bathtub', 0.07478606, u'diaper', 0.060554817, u'oxygen_mask', 0.055617902, u'nipple', 0.043889176]
+[u'brassiere', 0.80001086, u'bikini', 0.10529115, u'maillot', 0.055967297, u'maillot', 0.029440844, u'diaper', 0.0047302977]
+[u'bikini', 0.34098107, u'swimming_trunks', 0.29284582, u'brassiere', 0.10380904, u'maillot', 0.054794949, u'maillot', 0.032690335]
+[u'book_jacket', 0.12793241, u'comic_book', 0.068706788, u'fire_screen', 0.051651601, u'skunk', 0.035947721, u'Boston_bull', 0.032417376]

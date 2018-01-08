@@ -1,0 +1,3 @@
+[u'iron', 0.29163185, u'sewing_machine', 0.2400285, u'projector', 0.055105507, u'reflex_camera', 0.053769879, u'joystick', 0.047137562]
+[u'web_site', 0.6738584, u'sax', 0.041005626, u'whistle', 0.0084275045, u'cornet', 0.0082387617, u'microphone', 0.0079628471]
+[u'snowmobile', 0.40804037, u'comic_book', 0.23906201, u'ski', 0.11281521, u'book_jacket', 0.061129082, u'fountain', 0.027299849]

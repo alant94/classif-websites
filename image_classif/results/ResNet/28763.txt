@@ -1,0 +1,4 @@
+[u'cassette', 0.32925087, u'pencil_sharpener', 0.25527504, u'rubber_eraser', 0.072354965, u'cassette_player', 0.059913997, u'soap_dispenser', 0.054154683]
+[u'hair_slide', 0.31884524, u'wall_clock', 0.14786814, u'necklace', 0.036744021, u'buckle', 0.022959769, u'pretzel', 0.022722304]
+[u'tennis_ball', 0.95321292, u'balloon', 0.016987314, u'maraca', 0.0064255469, u'racket', 0.004992723, u'punching_bag', 0.0028794103]
+[u'sewing_machine', 0.10151562, u'envelope', 0.062265698, u'oscilloscope', 0.058121987, u'slide_rule', 0.054419775, u'electric_guitar', 0.048523895]

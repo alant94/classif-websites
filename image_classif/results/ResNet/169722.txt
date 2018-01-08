@@ -1,0 +1,6 @@
+[u'mortar', 0.44750908, u'nematode', 0.13011612, u'toilet_seat', 0.075578973, u'coffee_mug', 0.055572517, u'measuring_cup', 0.045032717]
+[u'nematode', 0.6148355, u'mortar', 0.18404001, u'measuring_cup', 0.019425426, u'coffee_mug', 0.014924773, u'espresso', 0.014114276]
+[u'sax', 0.57005572, u'oboe', 0.40075663, u'flute', 0.0085317502, u'bassoon', 0.0081661539, u'cornet', 0.0036694775]
+[u'tusker', 0.51047152, u'Bouvier_des_Flandres', 0.37322897, u'Irish_water_spaniel', 0.022082051, u'Indian_elephant', 0.01610733, u'rifle', 0.0078301746]
+[u'web_site', 0.51570714, u'shower_curtain', 0.11278886, u'abaya', 0.035774287, u'bubble', 0.026126927, u'sliding_door', 0.02544836]
+[u'maze', 0.20908497, u'picket_fence', 0.080502845, u'park_bench', 0.066845037, u'rapeseed', 0.063515559, u'buckeye', 0.044873375]

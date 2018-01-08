@@ -1,0 +1,6 @@
+[u'loupe', 0.41366979, u'switch', 0.15647322, u'hand-held_computer', 0.076436318, u'spotlight', 0.065110773, u'desktop_computer', 0.051560432]
+[u'carton', 0.13386683, u'freight_car', 0.12835391, u'cash_machine', 0.11807749, u'book_jacket', 0.059956886, u'walking_stick', 0.058500718]
+[u'milk_can', 0.13975611, u'otterhound', 0.12475092, u'Border_terrier', 0.10348321, u'wire-haired_fox_terrier', 0.078869447, u'croquet_ball', 0.063827038]
+[u'fire_screen', 0.14615643, u'beacon', 0.076330505, u'theater_curtain', 0.058837909, u'stove', 0.050339665, u'microwave', 0.026971981]
+[u'espresso_maker', 0.13938113, u'bearskin', 0.11948375, u'academic_gown', 0.10021789, u'mortarboard', 0.072043523, u'military_uniform', 0.053907443]
+[u'face_powder', 0.29179546, u'sunscreen', 0.19875205, u'lighter', 0.12850252, u'lotion', 0.095044315, u'perfume', 0.061544795]

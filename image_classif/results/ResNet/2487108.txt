@@ -1,0 +1,2 @@
+[u'bow', 0.31661066, u'web_site', 0.16114837, u'abaya', 0.089885585, u'spotlight', 0.038368192, u'microphone', 0.035671595]
+[u'web_site', 0.15269646, u'abaya', 0.079497673, u'nematode', 0.06963177, u'tick', 0.056009449, u'cleaver', 0.038583916]

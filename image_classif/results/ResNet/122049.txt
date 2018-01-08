@@ -1,0 +1,6 @@
+[u'window_shade', 0.13290526, u'envelope', 0.11475509, u'web_site', 0.064310879, u'mobile_home', 0.057307988, u'safe', 0.055669695]
+[u'web_site', 0.47159493, u'nematode', 0.047766339, u'remote_control', 0.029769879, u'stopwatch', 0.019454719, u'loupe', 0.013872701]
+[u'frying_pan', 0.49390715, u'puck', 0.23544404, u'gong', 0.045835972, u'ping-pong_ball', 0.028236112, u'loudspeaker', 0.026326831]
+[u'scoreboard', 0.91498548, u'prayer_rug', 0.031950995, u'doormat', 0.022209406, u'oscilloscope', 0.0051705455, u'digital_clock', 0.0036403413]
+[u'jersey', 0.23735948, u'ocarina', 0.23500685, u'Band_Aid', 0.18526715, u'cellular_telephone', 0.12305009, u'envelope', 0.048139792]
+[u'hourglass', 0.16686249, u'analog_clock', 0.09334223, u'web_site', 0.088295087, u'wall_clock', 0.06329494, u'honeycomb', 0.059304614]

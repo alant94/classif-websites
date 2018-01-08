@@ -1,0 +1,3 @@
+[u'patio', 0.31744453, u'mobile_home', 0.20063849, u'monastery', 0.098979622, u'picket_fence', 0.01671497, u'moving_van', 0.016296547]
+[u'web_site', 0.16290897, u'stopwatch', 0.11872735, u'digital_clock', 0.089776047, u'analog_clock', 0.067340672, u'remote_control', 0.029032787]
+[u'suit', 0.70677167, u'Windsor_tie', 0.19789386, u'web_site', 0.0084860614, u'groom', 0.008475923, u'bolo_tie', 0.0055300724]

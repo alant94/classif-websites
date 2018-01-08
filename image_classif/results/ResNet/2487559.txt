@@ -1,0 +1,2 @@
+[u'barn', 0.58487338, u'thatch', 0.13685888, u'web_site', 0.035502724, u'church', 0.015321637, u'poncho', 0.013472199]
+[u'platypus', 0.96586955, u'hippopotamus', 0.0070217624, u'red-breasted_merganser', 0.0012307814, u'beaver', 0.0010854069, u'otter', 0.0010850189]

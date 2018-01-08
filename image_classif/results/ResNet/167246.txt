@@ -1,0 +1,4 @@
+[u'dishwasher', 0.21530062, u'envelope', 0.076819099, u'refrigerator', 0.040849127, u'cleaver', 0.022596871, u'washer', 0.019721506]
+[u'stage', 0.99615175, u'theater_curtain', 0.0021298863, u'electric_guitar', 0.00046660623, u'spotlight', 0.00020706237, u'altar', 0.000183571]
+[u'stage', 0.1736498, u'plunger', 0.067971826, u'abaya', 0.053015377, u'unicycle', 0.049371772, u'bassoon', 0.034685474]
+[u'jersey', 0.44968402, u'stage', 0.083003372, u'basketball', 0.078396559, u'marimba', 0.062900834, u'racket', 0.033974987]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.26541764, u'menu', 0.17179014, u'perfume', 0.10788729, u'web_site', 0.06698548, u'envelope', 0.041357026]
+[u'ambulance', 0.33226708, u'fire_engine', 0.11492757, u'street_sign', 0.090375945, u'book_jacket', 0.085576996, u'cash_machine', 0.075427577]
+[u'web_site', 0.37317273, u'jersey', 0.083483554, u'envelope', 0.043162692, u'digital_clock', 0.024194764, u'notebook', 0.015810555]
+[u'jersey', 0.11972301, u'Band_Aid', 0.078422613, u'shield', 0.074979961, u'envelope', 0.031457134, u'lighter', 0.025223168]
+[u'sax', 0.093215965, u'screen', 0.082518317, u'digital_clock', 0.070079558, u'electric_guitar', 0.046618428, u'flute', 0.045922626]
+[u'pay-phone', 0.53458989, u'dial_telephone', 0.07468307, u'whistle', 0.037746787, u'microphone', 0.024621768, u'gas_pump', 0.021538332]
+[u'web_site', 0.040220324, u'cleaver', 0.027225791, u'nail', 0.026949381, u'hook', 0.023986347, u'lighter', 0.022018941]
+[u'jigsaw_puzzle', 0.25281981, u'television', 0.070552096, u'monitor', 0.063576587, u'coral_reef', 0.038698658, u'stage', 0.032339491]

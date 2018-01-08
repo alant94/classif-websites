@@ -1,0 +1,4 @@
+[u'tobacco_shop', 0.95194924, u'grocery_store', 0.016764559, u'medicine_chest', 0.010240632, u'container_ship', 0.0094639845, u'bookshop', 0.0038723466]
+[u'lab_coat', 0.35406592, u'miniskirt', 0.15386546, u'suit', 0.093319051, u'stethoscope', 0.04315953, u'Windsor_tie', 0.035676923]
+[u'lab_coat', 0.17882235, u'suit', 0.14414704, u'wig', 0.12009881, u'Windsor_tie', 0.11382098, u'academic_gown', 0.048930783]
+[u'scoreboard', 0.57028586, u'container_ship', 0.1005371, u'balance_beam', 0.037559625, u'horizontal_bar', 0.031640999, u'tobacco_shop', 0.017998803]

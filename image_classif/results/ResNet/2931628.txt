@@ -1,0 +1,8 @@
+[u'groom', 0.2845265, u'pajama', 0.081621744, u'tub', 0.067300357, u'gown', 0.061464962, u'bikini', 0.057617027]
+[u'French_horn', 0.32275346, u'perfume', 0.10493812, u'mouse', 0.052646343, u'projector', 0.050523981, u'scuba_diver', 0.034815662]
+[u'acoustic_guitar', 0.90540105, u'electric_guitar', 0.061372053, u'banjo', 0.020099195, u'pick', 0.0048059169, u'stage', 0.0023737731]
+[u'street_sign', 0.41453746, u'digital_clock', 0.13258374, u'traffic_light', 0.10612011, u'web_site', 0.053796135, u'scoreboard', 0.038045518]
+[u'ski', 0.97422981, u'bow', 0.014305918, u'unicycle', 0.003085671, u'mountain_bike', 0.0016286013, u'tripod', 0.0010020602]
+[u'lab_coat', 0.68757302, u'vestment', 0.064500622, u'iron', 0.027835159, u'cleaver', 0.022254921, u'jean', 0.021558177]
+[u'pill_bottle', 0.27814668, u'oil_filter', 0.044717059, u'sunscreen', 0.038987368, u'binder', 0.03897965, u'beaker', 0.038838055]
+[u'comic_book', 0.15548244, u'coffee_mug', 0.084805734, u'jersey', 0.0824522, u'menu', 0.059330489, u'chocolate_sauce', 0.044417061]

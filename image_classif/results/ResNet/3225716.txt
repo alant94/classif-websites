@@ -1,0 +1,7 @@
+[u'tobacco_shop', 0.17578907, u'web_site', 0.14657292, u'grocery_store', 0.09568841, u'monitor', 0.088103801, u'comic_book', 0.034119453]
+[u'rule', 0.29489642, u'screwdriver', 0.20524336, u'modem', 0.072086446, u"carpenter's_kit", 0.066075332, u'slide_rule', 0.063080326]
+[u'church', 0.43040434, u'picket_fence', 0.28014505, u'mobile_home', 0.095662594, u'boathouse', 0.023428801, u'beacon', 0.017809514]
+[u'library', 0.20752455, u'restaurant', 0.18863313, u'vault', 0.15772045, u'dining_table', 0.068712726, u'entertainment_center', 0.056832068]
+[u'cassette', 0.29652292, u'tape_player', 0.14603549, u'vending_machine', 0.13519722, u'cassette_player', 0.065445594, u'scoreboard', 0.044260204]
+[u'book_jacket', 0.47114691, u'brass', 0.43970746, u'menu', 0.047372743, u'packet', 0.01769812, u'binder', 0.0066105672]
+[u'television', 0.092584439, u'desktop_computer', 0.079794429, u'home_theater', 0.070564859, u'monitor', 0.069491163, u'projector', 0.062730365]

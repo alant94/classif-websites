@@ -1,0 +1,8 @@
+[u'web_site', 0.83638251, u'whistle', 0.020066565, u'comic_book', 0.011599369, u'hair_spray', 0.0097796768, u'television', 0.0070360312]
+[u'web_site', 0.27394551, u'book_jacket', 0.15341999, u'wallet', 0.10451793, u'modem', 0.063093387, u'scale', 0.051562797]
+[u'web_site', 0.70880765, u'candle', 0.036909144, u'jean', 0.031792801, u'matchstick', 0.017633868, u'Windsor_tie', 0.016607247]
+[u'web_site', 0.84371483, u'menu', 0.030643167, u'envelope', 0.0040736785, u'nematode', 0.0035700232, u'crossword_puzzle', 0.0034296666]
+[u'comic_book', 0.32072312, u'flatworm', 0.16290668, u'book_jacket', 0.10771717, u'gyromitra', 0.063051552, u'sea_slug', 0.014218767]
+[u'French_horn', 0.96823311, u'cornet', 0.024780005, u'trombone', 0.0039842906, u'pickelhaube', 0.00051562645, u'combination_lock', 0.00038713036]
+[u'web_site', 0.37579209, u'hair_spray', 0.12652715, u'torch', 0.036243718, u'swing', 0.033677816, u'comic_book', 0.017630246]
+[u'web_site', 0.63061678, u'nipple', 0.057262458, u'combination_lock', 0.028252579, u'plate_rack', 0.027688561, u'isopod', 0.026304556]

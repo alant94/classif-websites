@@ -1,0 +1,4 @@
+[u'jersey', 0.2725597, u'book_jacket', 0.19247933, u'barbershop', 0.090273231, u'sweatshirt', 0.058890048, u'web_site', 0.040758524]
+[u'oil_filter', 0.075531363, u'bolo_tie', 0.069812171, u'screw', 0.055012502, u'nail', 0.036872763, u'nipple', 0.033268332]
+[u'binder', 0.056228895, u'sunscreen', 0.032283425, u'screen', 0.024088589, u'cash_machine', 0.02382287, u'book_jacket', 0.021274513]
+[u'rule', 0.28530583, u'rubber_eraser', 0.17466362, u'crossword_puzzle', 0.11693037, u'pencil_sharpener', 0.081806526, u'carton', 0.068228886]

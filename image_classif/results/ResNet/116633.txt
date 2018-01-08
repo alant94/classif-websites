@@ -1,0 +1,1 @@
+[u'television', 0.30230668, u'web_site', 0.17843971, u'envelope', 0.075540639, u'entertainment_center', 0.063860968, u'screen', 0.032077793]

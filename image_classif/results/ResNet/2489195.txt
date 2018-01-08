@@ -1,0 +1,6 @@
+[u'bath_towel', 0.15296014, u'lampshade', 0.097523801, u'shoji', 0.081336208, u'paper_towel', 0.077157907, u'hamper', 0.075816862]
+[u'analog_clock', 0.22160001, u'lighter', 0.19289166, u'medicine_chest', 0.055010226, u'binder', 0.040305149, u'digital_watch', 0.040121619]
+[u'barn', 0.24995588, u'vulture', 0.055468224, u'picket_fence', 0.045661718, u'corn', 0.043368433, u'stone_wall', 0.034923151]
+[u'bath_towel', 0.16822596, u'lampshade', 0.098089591, u'shoji', 0.085338905, u'paper_towel', 0.073836073, u'hamper', 0.067553647]
+[u'bath_towel', 0.15162711, u'lampshade', 0.097652674, u'shoji', 0.083634928, u'paper_towel', 0.078147925, u'hamper', 0.073785253]
+[u'medicine_chest', 0.1228238, u'lighter', 0.1052999, u'binder', 0.068870775, u'pill_bottle', 0.064347945, u'analog_clock', 0.063728444]

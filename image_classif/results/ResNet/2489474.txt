@@ -1,0 +1,7 @@
+[u'orangutan', 0.2629872, u'bison', 0.20017889, u'hartebeest', 0.15686934, u'dhole', 0.12212022, u'red_wolf', 0.031882677]
+[u'tusker', 0.064572573, u'mountain_bike', 0.062831797, u'Newfoundland', 0.059592996, u'Indian_elephant', 0.052016862, u'American_black_bear', 0.03956721]
+[u'coho', 0.68939006, u'standard_poodle', 0.057208203, u'chain_saw', 0.033445776, u'swimming_trunks', 0.016928485, u'tusker', 0.016482601]
+[u'hartebeest', 0.39730647, u'impala', 0.14567772, u'warthog', 0.11997348, u'American_black_bear', 0.038720358, u'tusker', 0.029614773]
+[u'tripod', 0.31709877, u'rifle', 0.15866955, u'solar_dish', 0.10361529, u'assault_rifle', 0.066337697, u'Dutch_oven', 0.044605713]
+[u'warthog', 0.35668173, u'ibex', 0.08459533, u'hartebeest', 0.062505364, u'impala', 0.046248484, u'tusker', 0.043773614]
+[u'chain_saw', 0.62831318, u'king_crab', 0.072083361, u'English_setter', 0.051092237, u'ox', 0.03185134, u'Greater_Swiss_Mountain_dog', 0.023610273]

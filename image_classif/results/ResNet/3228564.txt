@@ -1,0 +1,3 @@
+[u'toilet_seat', 0.23244734, u'jellyfish', 0.10875912, u'sundial', 0.064705394, u'fountain', 0.061464611, u'face_powder', 0.041529626]
+[u'vase', 0.15511911, u'pot', 0.092366464, u'web_site', 0.081728071, u'corn', 0.068882346, u'cleaver', 0.025959371]
+[u'web_site', 0.89233655, u'menu', 0.013855334, u'comic_book', 0.013779893, u'padlock', 0.0056652566, u'envelope', 0.0035474896]

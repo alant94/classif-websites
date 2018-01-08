@@ -1,0 +1,5 @@
+[u'book_jacket', 0.13953349, u'corn', 0.11488236, u'gong', 0.053623259, u'pelican', 0.045965523, u'gazelle', 0.045205899]
+[u'Irish_water_spaniel', 0.081733383, u'wardrobe', 0.060524281, u'gong', 0.052148178, u'chain_saw', 0.049099319, u'butcher_shop', 0.045338828]
+[u'ibex', 0.46439859, u'hartebeest', 0.28951114, u'impala', 0.099471927, u'water_buffalo', 0.032161556, u'bison', 0.024984485]
+[u'banjo', 0.27651042, u'acoustic_guitar', 0.12572233, u'sax', 0.099382401, u'violin', 0.0637151, u'electric_guitar', 0.057134442]
+[u'web_site', 0.1790355, u'digital_clock', 0.076585345, u'remote_control', 0.025447592, u'analog_clock', 0.024747267, u'digital_watch', 0.024653081]

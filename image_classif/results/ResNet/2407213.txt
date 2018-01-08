@@ -1,0 +1,5 @@
+[u'hook', 0.097379804, u'stopwatch', 0.061107464, u'whistle', 0.049057882, u'nematode', 0.048126504, u'cleaver', 0.039227746]
+[u'forklift', 0.31936908, u'crate', 0.073538996, u'lumbermill', 0.07342568, u'honeycomb', 0.055667255, u'bakery', 0.031043636]
+[u'perfume', 0.30777493, u'tray', 0.14078149, u'pill_bottle', 0.075300373, u'binoculars', 0.071294934, u'face_powder', 0.069593191]
+[u'mask', 0.40485725, u'kimono', 0.22022435, u'wig', 0.21855912, u'ski_mask', 0.03686364, u'wool', 0.026239092]
+[u'wine_bottle', 0.222505, u'lotion', 0.18914828, u'confectionery', 0.1007884, u'Crock_Pot', 0.062417321, u'perfume', 0.049863238]

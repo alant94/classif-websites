@@ -1,0 +1,5 @@
+[u'web_site', 0.47863692, u'envelope', 0.055358104, u'sunscreen', 0.034631003, u'cassette', 0.031075731, u'whistle', 0.012698633]
+[u'envelope', 0.51143748, u'web_site', 0.27236608, u'jigsaw_puzzle', 0.024648488, u'rule', 0.02129413, u'screen', 0.018965969]
+[u'street_sign', 0.38146284, u'barbershop', 0.19405, u'bakery', 0.079089753, u'packet', 0.054013669, u'cash_machine', 0.029580174]
+[u'shield', 0.11502078, u'web_site', 0.085647054, u'lighter', 0.049095288, u'pick', 0.046877638, u'ski', 0.033171032]
+[u'chain_mail', 0.25035352, u'jersey', 0.083142154, u'tench', 0.024875551, u'banjo', 0.024238786, u'cardigan', 0.020855999]

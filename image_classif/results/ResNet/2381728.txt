@@ -1,0 +1,4 @@
+[u'barn', 0.46043357, u'fountain', 0.18573628, u'chainlink_fence', 0.10800787, u'jigsaw_puzzle', 0.030991051, u'hay', 0.029357662]
+[u'altar', 0.1221536, u'perfume', 0.09601067, u'plastic_bag', 0.064030588, u'lipstick', 0.049569372, u'web_site', 0.04644781]
+[u'envelope', 0.48079261, u'web_site', 0.26920322, u'menu', 0.04294033, u'comic_book', 0.012098928, u'binder', 0.010669306]
+[u'web_site', 0.74907798, u'menu', 0.19738898, u'envelope', 0.0039570727, u'binder', 0.002124853, u'vizsla', 0.001700449]

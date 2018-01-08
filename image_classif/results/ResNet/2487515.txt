@@ -1,0 +1,2 @@
+[u'strainer', 0.75590467, u'crossword_puzzle', 0.22619146, u'hamper', 0.005881907, u'paper_towel', 0.0017943508, u'ladle', 0.0011125577]
+[u'boa_constrictor', 0.16646539, u'projectile', 0.11258049, u'half_track', 0.062421899, u'oxygen_mask', 0.053356241, u'rock_python', 0.052398719]

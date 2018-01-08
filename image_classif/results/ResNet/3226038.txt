@@ -1,0 +1,2 @@
+[u'military_uniform', 0.073864751, u'trench_coat', 0.060322165, u'assault_rifle', 0.044352356, u'plunger', 0.025451193, u'banjo', 0.024230488]
+[u'lacewing', 0.38658383, u'electric_ray', 0.27514994, u'maze', 0.064697497, u'washbasin', 0.062154625, u'hamper', 0.046059765]

@@ -1,0 +1,7 @@
+[u'gown', 0.69068384, u'abaya', 0.0905644, u'overskirt', 0.051438373, u'jean', 0.032847051, u'miniskirt', 0.025792742]
+[u'great_white_shark', 0.52015156, u'killer_whale', 0.13213418, u'tiger_shark', 0.10081319, u'hammerhead', 0.072356351, u'albatross', 0.070549704]
+[u'tiger', 0.93963861, u'tiger_cat', 0.058954228, u'lynx', 0.0012493078, u'jaguar', 6.6610337e-05, u'zebra', 2.0080108e-05]
+[u'gown', 0.99769729, u'overskirt', 0.0016536139, u'pajama', 0.00013446432, u'sarong', 0.00010561949, u'web_site', 8.879925e-05]
+[u'timber_wolf', 0.54719973, u'white_wolf', 0.14314418, u'wallaby', 0.10572693, u'coyote', 0.095775828, u'red_wolf', 0.045262787]
+[u'maillot', 0.16214204, u'maillot', 0.14703766, u'gown', 0.099783979, u'miniskirt', 0.070001617, u'pajama', 0.055616964]
+[u'television', 0.091682687, u'web_site', 0.081160501, u'laptop', 0.058429651, u'notebook', 0.044488706, u'barbershop', 0.038165763]

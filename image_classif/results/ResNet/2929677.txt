@@ -1,0 +1,5 @@
+[u'Band_Aid', 0.66810334, u'pencil_sharpener', 0.074312538, u'comic_book', 0.073996492, u'coffee_mug', 0.042534374, u'web_site', 0.027058469]
+[u'lab_coat', 0.95445991, u'stethoscope', 0.04109133, u'crutch', 0.0017625601, u'bolo_tie', 0.0010916028, u'trench_coat', 0.0002628112]
+[u'pajama', 0.88773423, u'sarong', 0.025079951, u'miniskirt', 0.017353266, u'wig', 0.0094611356, u'hair_spray', 0.0052307034]
+[u'otterhound', 0.8880623, u'Irish_wolfhound', 0.077579081, u'Old_English_sheepdog', 0.016106714, u'Dandie_Dinmont', 0.0050236997, u'Airedale', 0.0032019487]
+[u'Great_Dane', 0.12322894, u'dogsled', 0.075796917, u'hip', 0.031917613, u'dalmatian', 0.030045953, u'jersey', 0.027925137]

@@ -1,0 +1,1 @@
+[u'cradle', 0.22949874, u'envelope', 0.13433926, u'nipple', 0.1218682, u'printer', 0.096023507, u'stethoscope', 0.050716348]

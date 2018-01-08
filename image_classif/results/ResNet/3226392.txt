@@ -1,0 +1,4 @@
+[u'nematode', 0.20879178, u'dishwasher', 0.030469172, u'oboe', 0.016242741, u'cleaver', 0.01513816, u'bassoon', 0.011748644]
+[u'web_site', 0.42400336, u'envelope', 0.36514828, u'jigsaw_puzzle', 0.025237134, u'Band_Aid', 0.0095723653, u'monitor', 0.0074626473]
+[u'oxygen_mask', 0.20848228, u'switch', 0.17683135, u'nipple', 0.057936575, u'pill_bottle', 0.045599706, u'digital_clock', 0.045248602]
+[u'medicine_chest', 0.3337974, u'binder', 0.12723754, u'Band_Aid', 0.1002731, u'lighter', 0.060608562, u'wall_clock', 0.028268967]

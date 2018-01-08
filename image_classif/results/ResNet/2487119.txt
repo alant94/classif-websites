@@ -1,0 +1,6 @@
+[u'digital_clock', 0.31989911, u'book_jacket', 0.17987858, u'digital_watch', 0.14306022, u'scoreboard', 0.061634652, u'stopwatch', 0.050081503]
+[u'pier', 0.94946468, u'boathouse', 0.015962103, u'palace', 0.0080329422, u'beacon', 0.0048475876, u'dock', 0.0041352175]
+[u'pier', 0.49071065, u'seashore', 0.075753346, u'church', 0.072016418, u'bannister', 0.070910521, u'breakwater', 0.065462157]
+[u'pier', 0.93502939, u'palace', 0.045612976, u'viaduct', 0.0038966113, u'dock', 0.0022579769, u'monastery', 0.0020587877]
+[u'dock', 0.52108878, u'flagpole', 0.31963888, u'seashore', 0.060809854, u'pier', 0.020508761, u'obelisk', 0.019877998]
+[u'palace', 0.34075022, u'drilling_platform', 0.26160583, u'dock', 0.079029351, u'beacon', 0.076005623, u'crane', 0.044461429]

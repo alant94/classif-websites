@@ -1,0 +1,8 @@
+[u'web_site', 0.51658326, u'book_jacket', 0.2407583, u'comic_book', 0.045012377, u'bookshop', 0.0359753, u'monitor', 0.02307038]
+[u'restaurant', 0.47218907, u'cinema', 0.11502571, u'dining_table', 0.044832658, u'library', 0.044167869, u'mobile_home', 0.017013775]
+[u'web_site', 0.37720942, u'comic_book', 0.27026209, u'envelope', 0.020184722, u'sarong', 0.017417694, u'theater_curtain', 0.014878938]
+[u'monitor', 0.31957498, u'television', 0.26948383, u'web_site', 0.20909427, u'screen', 0.068176419, u'notebook', 0.022031534]
+[u'vault', 0.63355386, u'altar', 0.076226003, u'church', 0.059205879, u'monastery', 0.049118333, u'bannister', 0.045143247]
+[u'web_site', 0.35842159, u'monitor', 0.051678706, u'desktop_computer', 0.047163349, u'television', 0.035106279, u'screen', 0.027935805]
+[u'tripod', 0.62880862, u'sax', 0.10010318, u'web_site', 0.098630019, u'mountain_bike', 0.037863504, u'ibex', 0.02413941]
+[u'lampshade', 0.83836097, u'table_lamp', 0.054646313, u'window_shade', 0.047375005, u'web_site', 0.030151289, u'shoji', 0.0085985027]

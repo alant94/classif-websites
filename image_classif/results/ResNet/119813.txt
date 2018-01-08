@@ -1,0 +1,5 @@
+[u'altar', 0.18271096, u'pot', 0.077367678, u'greenhouse', 0.07485646, u'vase', 0.036299713, u'stage', 0.026815707]
+[u'ski', 0.11621353, u'mountain_bike', 0.082791038, u'seashore', 0.080370732, u'tripod', 0.061305266, u'alp', 0.058453918]
+[u'web_site', 0.068838857, u'jersey', 0.044777062, u'envelope', 0.028773392, u'doormat', 0.021165151, u'power_drill', 0.020159079]
+[u'triceratops', 0.23557417, u'brassiere', 0.072206959, u'carousel', 0.061148409, u'wall_clock', 0.038919352, u'Arabian_camel', 0.038903415]
+[u'fireboat', 0.19686635, u'Arabian_camel', 0.14017065, u'plow', 0.062122334, u'snowplow', 0.062043767, u'thresher', 0.038291663]

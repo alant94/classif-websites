@@ -1,0 +1,2 @@
+[u'hammer', 0.34369585, u'oboe', 0.21866333, u'electric_guitar', 0.14134659, u'banjo', 0.069867611, u'nail', 0.042976506]
+[u'American_alligator', 0.41388419, u'chain_saw', 0.14970705, u'greenhouse', 0.11727388, u'coho', 0.084680378, u'gar', 0.039851677]

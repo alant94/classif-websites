@@ -1,0 +1,2 @@
+[u'toyshop', 0.26730749, u'jigsaw_puzzle', 0.05442274, u'comic_book', 0.044914544, u'book_jacket', 0.044497341, u'refrigerator', 0.034026202]
+[u'book_jacket', 0.27421656, u'oscilloscope', 0.21772711, u'shower_curtain', 0.067414626, u'prayer_rug', 0.040959936, u'scoreboard', 0.040366907]

@@ -1,0 +1,6 @@
+[u'traffic_light', 0.29606116, u'digital_clock', 0.19763422, u'analog_clock', 0.14619823, u'church', 0.087690786, u'balloon', 0.024837572]
+[u'traffic_light', 0.42964536, u'bell_cote', 0.37241262, u'digital_clock', 0.1282582, u'chime', 0.045231804, u'iPod', 0.0050210226]
+[u'wine_bottle', 0.60817194, u'red_wine', 0.23240699, u'lotion', 0.086669169, u'beer_bottle', 0.03910052, u'face_powder', 0.011695896]
+[u'binder', 0.086765081, u'envelope', 0.04962774, u'web_site', 0.039662644, u'dishwasher', 0.024589535, u'soap_dispenser', 0.023868479]
+[u'wine_bottle', 0.81640565, u'beer_bottle', 0.070539862, u'red_wine', 0.057394795, u'lotion', 0.037978973, u'corkscrew', 0.0046342663]
+[u'lotion', 0.45919615, u'pill_bottle', 0.25105974, u'beer_bottle', 0.08082816, u'wine_bottle', 0.050604753, u'sunscreen', 0.042956833]

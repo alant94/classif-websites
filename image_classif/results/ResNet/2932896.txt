@@ -1,0 +1,8 @@
+[u'street_sign', 0.37077236, u'cab', 0.040787391, u'traffic_light', 0.040689737, u'parking_meter', 0.022368923, u'web_site', 0.020690506]
+[u'isopod', 0.5783729, u'lotion', 0.18647675, u'vending_machine', 0.024265168, u'chiton', 0.022554189, u'ping-pong_ball', 0.019000031]
+[u'Band_Aid', 0.14529952, u'web_site', 0.13527167, u'baseball', 0.022941092, u'brassiere', 0.022598371, u'seat_belt', 0.021917855]
+[u'sunglasses', 0.29206896, u'mortarboard', 0.20342328, u'web_site', 0.083783202, u'hair_slide', 0.072368011, u'wig', 0.028571555]
+[u'kimono', 0.26951054, u'lab_coat', 0.18014364, u'cash_machine', 0.072029725, u'barbershop', 0.058722887, u'oxygen_mask', 0.030854879]
+[u'sarong', 0.13847415, u'feather_boa', 0.081423543, u'cleaver', 0.049348142, u'pajama', 0.043883026, u'chain', 0.038084462]
+[u'web_site', 0.089459069, u'barbershop', 0.068016641, u'bookshop', 0.05468218, u'seat_belt', 0.048693236, u'shoe_shop', 0.041979816]
+[u'paper_towel', 0.10469292, u'hair_spray', 0.055637557, u'web_site', 0.050007466, u'hook', 0.04588173, u'can_opener', 0.041407917]

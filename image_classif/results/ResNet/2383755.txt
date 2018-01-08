@@ -1,0 +1,2 @@
+[u'switch', 0.29764545, u'can_opener', 0.21643431, u'combination_lock', 0.087162033, u'nematode', 0.057877671, u'pill_bottle', 0.052596148]
+[u'jersey', 0.5788455, u'sweatshirt', 0.053036861, u'binder', 0.050742015, u'picket_fence', 0.025883794, u'digital_clock', 0.015261415]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.66984326, u'comic_book', 0.12730566, u'ocarina', 0.011048066, u'bath_towel', 0.010026327, u'electric_guitar', 0.0060792076]
+[u'book_jacket', 0.63101232, u'comic_book', 0.3302995, u'binder', 0.0065839142, u'envelope', 0.0041359873, u'tray', 0.0032727388]

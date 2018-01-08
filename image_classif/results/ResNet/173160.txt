@@ -1,0 +1,3 @@
+[u'sax', 0.28777322, u'accordion', 0.2859087, u'flute', 0.072810367, u'trombone', 0.052814655, u'violin', 0.049773443]
+[u'marimba', 0.512492, u'chain_mail', 0.11844413, u'microphone', 0.093246408, u'flute', 0.055571012, u'oboe', 0.045618355]
+[u'screwdriver', 0.39346361, u'rubber_eraser', 0.06777852, u'ballpoint', 0.067354269, u'chime', 0.062418584, u'ski', 0.05241945]

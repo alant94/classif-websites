@@ -1,0 +1,7 @@
+[u'book_jacket', 0.45474508, u'prayer_rug', 0.1165103, u'menu', 0.071730442, u'brass', 0.062111694, u'binder', 0.038648684]
+[u'tripod', 0.14097953, u'web_site', 0.077802032, u'analog_clock', 0.070077009, u'digital_clock', 0.054511242, u'barbershop', 0.051273301]
+[u'altar', 0.82525587, u'toyshop', 0.081618018, u'comic_book', 0.037171859, u'street_sign', 0.012255757, u'bookshop', 0.012021231]
+[u'suit', 0.48205847, u'jean', 0.094749473, u'web_site', 0.049772386, u'clumber', 0.0343915, u'brass', 0.029120265]
+[u'punching_bag', 0.12914719, u'screwdriver', 0.09230081, u'paddle', 0.076109439, u'plunger', 0.065305486, u'spatula', 0.054738831]
+[u'water_tower', 0.24839696, u'traffic_light', 0.11234129, u'beacon', 0.099286273, u'pole', 0.082226716, u'tripod', 0.049461931]
+[u'tripod', 0.14097953, u'web_site', 0.077802032, u'analog_clock', 0.070077009, u'digital_clock', 0.054511242, u'barbershop', 0.051273301]

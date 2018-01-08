@@ -1,0 +1,6 @@
+[u'web_site', 0.65778208, u'jean', 0.067152657, u'television', 0.034287706, u'jersey', 0.022736991, u'book_jacket', 0.016609801]
+[u'bell_cote', 0.2947118, u'vault', 0.11239282, u'monastery', 0.065062553, u'prison', 0.046058495, u'boathouse', 0.04575178]
+[u'web_site', 0.81542945, u'envelope', 0.036868569, u'comic_book', 0.021445863, u'menu', 0.0076122186, u'slot', 0.0055961767]
+[u'bannister', 0.95888203, u'prison', 0.0048936801, u'church', 0.0047494997, u'turnstile', 0.003883007, u'coil', 0.0033930133]
+[u'hip', 0.18009841, u'picket_fence', 0.17718658, u'altar', 0.037105892, u'pinwheel', 0.034859274, u'hummingbird', 0.025846973]
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]

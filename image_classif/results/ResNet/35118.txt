@@ -1,0 +1,5 @@
+[u'web_site', 0.71719885, u'nail', 0.078779437, u'hook', 0.059955899, u'screw', 0.018046262, u'can_opener', 0.012411078]
+[u'Band_Aid', 0.61172134, u'analog_clock', 0.061548959, u'wall_clock', 0.048710365, u'bucket', 0.024973894, u'pencil_sharpener', 0.020464361]
+[u'pencil_sharpener', 0.78218162, u'electric_guitar', 0.043053564, u'pick', 0.035166986, u'acoustic_guitar', 0.032865062, u'barometer', 0.009656392]
+[u'pencil_sharpener', 0.51361382, u'Band_Aid', 0.19383962, u'clog', 0.14915076, u'sandal', 0.081773788, u'buckle', 0.032198548]
+[u'can_opener', 0.17003401, u'screw', 0.16673921, u'hook', 0.11692888, u'padlock', 0.069838941, u'hard_disc', 0.058010489]

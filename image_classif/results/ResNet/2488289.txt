@@ -1,0 +1,3 @@
+[u'prairie_chicken', 0.21502933, u'bikini', 0.10335636, u'bittern', 0.091957122, u'kite', 0.063740134, u'partridge', 0.040392008]
+[u'web_site', 0.07601995, u'book_jacket', 0.072374187, u'comic_book', 0.068094797, u'alp', 0.040756591, u'envelope', 0.030085431]
+[u'gong', 0.66048306, u'chime', 0.13722375, u'shield', 0.11511029, u'tick', 0.019429326, u'chambered_nautilus', 0.015400367]

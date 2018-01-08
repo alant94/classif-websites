@@ -1,0 +1,1 @@
+[u'paintbrush', 0.24999884, u'perfume', 0.12207779, u'binder', 0.078916222, u'bookcase', 0.060183104, u'vending_machine', 0.057362363]

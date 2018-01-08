@@ -1,0 +1,5 @@
+[u'daisy', 0.21165545, u'cock', 0.15651985, u'Angora', 0.12276214, u'Pomeranian', 0.062520228, u'strawberry', 0.052467223]
+[u'carousel', 0.1505865, u'pop_bottle', 0.11240488, u'electric_guitar', 0.10966141, u'triceratops', 0.072333097, u'cowboy_boot', 0.055969976]
+[u'bikini', 0.23300035, u'academic_gown', 0.12366746, u'wig', 0.1225015, u'volleyball', 0.075556472, u'mortarboard', 0.055044249]
+[u'mortarboard', 0.080049992, u'flute', 0.079953857, u'oboe', 0.057607722, u'neck_brace', 0.052357167, u'wig', 0.046997584]
+[u'golf_ball', 0.088197872, u'ant', 0.078882813, u'Granny_Smith', 0.078670353, u'daisy', 0.032438342, u'earthstar', 0.031335428]

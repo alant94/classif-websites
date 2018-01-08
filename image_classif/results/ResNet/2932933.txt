@@ -1,0 +1,7 @@
+[u'chain_saw', 0.3716917, u'canoe', 0.17272878, u'bathing_cap', 0.060417335, u'lumbermill', 0.054879718, u'mountain_bike', 0.046424989]
+[u'shovel', 0.5283578, u'ski', 0.12267705, u'snowmobile', 0.1170568, u'ski_mask', 0.097124875, u'dogsled', 0.038357057]
+[u'puck', 0.37382704, u"jack-o'-lantern", 0.072771497, u'buckle', 0.04906287, u'lighter', 0.039695036, u'bottlecap', 0.03487882]
+[u'comic_book', 0.18890215, u'book_jacket', 0.12571757, u'Band_Aid', 0.10098464, u'web_site', 0.061345626, u'prayer_rug', 0.044381935]
+[u'stretcher', 0.44830027, u'lifeboat', 0.082733914, u'swing', 0.061342649, u'chain_saw', 0.051444687, u'parachute', 0.035503417]
+[u'alp', 0.90491098, u'mountain_tent', 0.040386897, u'valley', 0.010698831, u'volcano', 0.0063212439, u'ski', 0.0061316872]
+[u'maze', 0.37310925, u'megalith', 0.29473263, u'plow', 0.081287034, u'mountain_bike', 0.030154064, u'hay', 0.024680438]

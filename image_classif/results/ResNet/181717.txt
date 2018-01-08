@@ -1,0 +1,7 @@
+[u'lighter', 0.39246133, u'switch', 0.17674188, u'bell_cote', 0.084108338, u'church', 0.030757967, u'buckle', 0.025877535]
+[u'envelope', 0.59769851, u'comic_book', 0.2646099, u'pencil_box', 0.020500705, u'web_site', 0.017471749, u'jigsaw_puzzle', 0.016160328]
+[u'web_site', 0.28370464, u'comic_book', 0.088533752, u'hook', 0.061525237, u'book_jacket', 0.032465287, u'envelope', 0.029128669]
+[u'web_site', 0.25850195, u'slot', 0.19192179, u'envelope', 0.11079481, u'carton', 0.03292257, u'menu', 0.02749905]
+[u'drum', 0.43461493, u'bib', 0.14420648, u'comic_book', 0.08061187, u'web_site', 0.054733794, u'backpack', 0.0252869]
+[u'bald_eagle', 0.26677215, u'ibex', 0.25747412, u'web_site', 0.10019815, u'bubble', 0.040205553, u'lionfish', 0.031057809]
+[u'monarch', 0.46842727, u'rubber_eraser', 0.16586667, u'dragonfly', 0.073683724, u'bow', 0.030425686, u'ski', 0.030369187]

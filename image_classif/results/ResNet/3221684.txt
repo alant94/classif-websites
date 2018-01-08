@@ -1,0 +1,2 @@
+[u'solar_dish', 0.091193587, u'television', 0.055323072, u'spotlight', 0.043380305, u'oxygen_mask', 0.04265539, u'cash_machine', 0.035136942]
+[u'face_powder', 0.31780687, u'switch', 0.12911263, u'scale', 0.078488193, u'binder', 0.048314378, u'cleaver', 0.045521758]

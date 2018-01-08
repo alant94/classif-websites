@@ -1,0 +1,3 @@
+[u'brass', 0.21211442, u'book_jacket', 0.14606257, u'switch', 0.051235024, u'web_site', 0.028788017, u'scoreboard', 0.02851834]
+[u'book_jacket', 0.48214149, u'brass', 0.12352825, u'switch', 0.025397999, u"carpenter's_kit", 0.023596529, u'slide_rule', 0.021616613]
+[u'brass', 0.10042905, u'book_jacket', 0.091291994, u'switch', 0.055551197, u'web_site', 0.039634433, u'barrel', 0.036961395]

@@ -1,0 +1,2 @@
+[u'panpipe', 0.14230749, u'sombrero', 0.076500222, u'bikini', 0.071890943, u'fountain', 0.05215852, u'drum', 0.047659766]
+[u'digital_clock', 0.23123221, u'analog_clock', 0.10808168, u'lighter', 0.090890512, u'digital_watch', 0.059480023, u'traffic_light', 0.0456305]

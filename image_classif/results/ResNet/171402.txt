@@ -1,0 +1,2 @@
+[u'digital_clock', 0.34382391, u'digital_watch', 0.18812221, u'lighter', 0.099991977, u'analog_clock', 0.025434006, u'whistle', 0.023841541]
+[u'screwdriver', 0.39661351, u'ballpoint', 0.15776902, u'rubber_eraser', 0.087026522, u'rule', 0.035541881, u'paintbrush', 0.024989707]

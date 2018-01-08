@@ -1,0 +1,8 @@
+[u'pill_bottle', 0.33534601, u'hair_spray', 0.22422037, u'oil_filter', 0.1221403, u'lotion', 0.1040686, u'sunscreen', 0.019783452]
+[u'stole', 0.98215622, u'bath_towel', 0.0059175724, u'wool', 0.0031313677, u'poncho', 0.0021271084, u'cloak', 0.0010710068]
+[u'tench', 0.2107747, u'Dungeness_crab', 0.026109478, u'gar', 0.021589041, u'American_lobster', 0.020716585, u'bolo_tie', 0.017093621]
+[u'lotion', 0.27007154, u'pill_bottle', 0.15487695, u'oil_filter', 0.14575325, u'hair_spray', 0.12764749, u'sunscreen', 0.083409727]
+[u'wig', 0.07050392, u'bassoon', 0.043835387, u'laptop', 0.038364645, u'oboe', 0.029738866, u'stole', 0.025848715]
+[u'pill_bottle', 0.35260653, u'lotion', 0.19039626, u'hair_spray', 0.1508293, u'oil_filter', 0.063057378, u'sunscreen', 0.015618434]
+[u'oboe', 0.68382215, u'Windsor_tie', 0.049134813, u'bow_tie', 0.042775482, u'bassoon', 0.027335467, u'bolo_tie', 0.015335715]
+[u'screen', 0.40383413, u'cash_machine', 0.15904772, u'television', 0.053251967, u'toilet_tissue', 0.037216339, u'book_jacket', 0.023740059]

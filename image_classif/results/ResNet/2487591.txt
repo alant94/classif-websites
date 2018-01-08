@@ -1,0 +1,1 @@
+[u'digital_clock', 0.97709, u'digital_watch', 0.017162353, u'computer_keyboard', 0.00089546718, u'scoreboard', 0.0008165196, u'screen', 0.00041679587]

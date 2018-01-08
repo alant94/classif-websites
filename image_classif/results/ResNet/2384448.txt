@@ -1,0 +1,2 @@
+[u'analog_clock', 0.6159603, u'stopwatch', 0.06340652, u'street_sign', 0.059996314, u'digital_clock', 0.042193599, u'traffic_light', 0.041074261]
+[u'dumbbell', 0.53650445, u'barbell', 0.22000173, u'punching_bag', 0.089961231, u'plunger', 0.0099733723, u'photocopier', 0.0064024762]

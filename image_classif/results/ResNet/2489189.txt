@@ -1,0 +1,3 @@
+[u'web_site', 0.18810242, u'envelope', 0.13208513, u'hook', 0.015536745, u'analog_clock', 0.011692726, u'nematode', 0.0096163768]
+[u'ox', 0.26642993, u'Arabian_camel', 0.14941803, u'book_jacket', 0.10088737, u'sorrel', 0.067566194, u'fountain', 0.040745042]
+[u'jeep', 0.33674201, u'recreational_vehicle', 0.25210688, u'mobile_home', 0.052955762, u'trailer_truck', 0.029826278, u'minivan', 0.025295496]

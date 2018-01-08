@@ -1,0 +1,2 @@
+[u'vase', 0.14011106, u'comic_book', 0.13781038, u'spider_web', 0.12001375, u'rubber_eraser', 0.064321369, u'harp', 0.050863083]
+[u'prison', 0.1711687, u'Lhasa', 0.065627277, u'Shih-Tzu', 0.059529416, u'neck_brace', 0.041593917, u'reflex_camera', 0.027058218]

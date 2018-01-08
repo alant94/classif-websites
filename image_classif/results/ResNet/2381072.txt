@@ -1,0 +1,3 @@
+[u'lipstick', 0.28841341, u'perfume', 0.22764063, u'wine_bottle', 0.1920348, u'red_wine', 0.097166687, u'fountain_pen', 0.024345431]
+[u'brassiere', 0.10027827, u'sarong', 0.090113908, u'gown', 0.062889554, u'miniskirt', 0.0557229, u'shoe_shop', 0.047512606]
+[u'patio', 0.23776963, u'church', 0.17560279, u'picket_fence', 0.16555379, u'gas_pump', 0.041220915, u'sliding_door', 0.032679409]

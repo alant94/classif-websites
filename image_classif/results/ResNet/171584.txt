@@ -1,0 +1,1 @@
+[u'digital_clock', 0.15840927, u'web_site', 0.13344131, u'analog_clock', 0.071871422, u'lighter', 0.048962813, u'ambulance', 0.040040296]

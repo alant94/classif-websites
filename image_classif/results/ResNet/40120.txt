@@ -1,0 +1,1 @@
+[u'laptop', 0.14665428, u'notebook', 0.11822984, u'remote_control', 0.10875978, u'analog_clock', 0.038016539, u'digital_clock', 0.037187029]

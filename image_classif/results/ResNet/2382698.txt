@@ -1,0 +1,5 @@
+[u'syringe', 0.1274249, u'sombrero', 0.066143453, u'seat_belt', 0.056450192, u'wig', 0.042796917, u'maraca', 0.034771271]
+[u'red_wine', 0.40837535, u'wine_bottle', 0.22690721, u'goblet', 0.083533436, u'hourglass', 0.049190391, u'beer_glass', 0.023745453]
+[u'red_wine', 0.34801942, u'tray', 0.054338768, u'plate', 0.03857917, u'wine_bottle', 0.038052257, u'refrigerator', 0.028141599]
+[u'rifle', 0.73633409, u'assault_rifle', 0.073704265, u'library', 0.029264929, u'laptop', 0.015716521, u'notebook', 0.014108298]
+[u'breakwater', 0.20573725, u'pier', 0.098559447, u'dock', 0.086745463, u'suspension_bridge', 0.072000638, u'seashore', 0.069000147]

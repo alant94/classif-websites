@@ -1,0 +1,5 @@
+[u'bakery', 0.40219265, u'cinema', 0.21980071, u'barbershop', 0.12634642, u'restaurant', 0.1176936, u'patio', 0.01486756]
+[u'web_site', 0.32292843, u'jersey', 0.06759391, u'hook', 0.034831863, u'hair_slide', 0.034361046, u'laptop', 0.032375809]
+[u'web_site', 0.29973108, u'hair_spray', 0.047894396, u'book_jacket', 0.034478556, u'Band_Aid', 0.029505828, u'slot', 0.021941762]
+[u'gas_pump', 0.16901679, u'street_sign', 0.06709557, u'laptop', 0.054367524, u'oil_filter', 0.045782834, u'web_site', 0.042296167]
+[u'book_jacket', 0.33152202, u'comic_book', 0.11074133, u'bearskin', 0.043276902, u'picket_fence', 0.036936846, u'accordion', 0.034739811]

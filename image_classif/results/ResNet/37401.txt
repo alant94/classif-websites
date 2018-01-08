@@ -1,0 +1,8 @@
+[u'prayer_rug', 0.22128789, u'doormat', 0.11289654, u'toilet_seat', 0.093600765, u'envelope', 0.086657085, u'shower_curtain', 0.044607032]
+[u'envelope', 0.10369343, u'shoji', 0.070682235, u'prayer_rug', 0.063071549, u'book_jacket', 0.057148229, u'window_shade', 0.055529062]
+[u'prayer_rug', 0.79352468, u'paper_towel', 0.034163084, u'hamper', 0.013884778, u'bath_towel', 0.013310739, u'quilt', 0.010533055]
+[u'prayer_rug', 0.33115757, u'envelope', 0.095851086, u'church', 0.054469127, u'fire_screen', 0.037486993, u'window_shade', 0.036319729]
+[u'book_jacket', 0.89910418, u'street_sign', 0.091694191, u'oscilloscope', 0.0027577244, u'parking_meter', 0.0012735066, u'plunger', 0.0007690023]
+[u'prayer_rug', 0.49177152, u'fire_screen', 0.13104475, u'envelope', 0.050218511, u'handkerchief', 0.044986848, u'window_screen', 0.018211918]
+[u'prayer_rug', 0.18790917, u'envelope', 0.17323159, u'fire_screen', 0.079713352, u'window_shade', 0.078368694, u'window_screen', 0.062417813]
+[u'toilet_seat', 0.32029891, u'soap_dispenser', 0.15838656, u'washbasin', 0.13461348, u'radiator', 0.026258698, u'wall_clock', 0.023032783]

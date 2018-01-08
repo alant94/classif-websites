@@ -1,0 +1,3 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'cliff', 0.29617786, u'alp', 0.28073263, u'valley', 0.14643073, u'promontory', 0.035385344, u'suspension_bridge', 0.031804003]
+[u'ox', 0.74486822, u'water_buffalo', 0.096366316, u'oxcart', 0.086585507, u'plow', 0.030244133, u'bison', 0.012428323]

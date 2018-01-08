@@ -1,0 +1,2 @@
+[u'oil_filter', 0.53661877, u'candle', 0.16311008, u'coffee_mug', 0.07102365, u'measuring_cup', 0.038586285, u'lotion', 0.032362837]
+[u'web_site', 0.67792505, u'envelope', 0.085070632, u'dishwasher', 0.017311413, u'refrigerator', 0.013202455, u'scale', 0.011777009]

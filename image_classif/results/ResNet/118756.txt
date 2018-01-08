@@ -1,0 +1,2 @@
+[u'electric_fan', 0.38895631, u'bolo_tie', 0.067301475, u'car_wheel', 0.059206579, u'coil', 0.038472462, u'dishwasher', 0.038060237]
+[u'space_bar', 0.45044339, u'web_site', 0.14424646, u'iron', 0.073207639, u'book_jacket', 0.038154315, u'magnetic_compass', 0.034790192]

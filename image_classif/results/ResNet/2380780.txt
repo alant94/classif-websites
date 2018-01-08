@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'puck', 0.1726758, u'oil_filter', 0.09648177, u'sunscreen', 0.048890945, u'pill_bottle', 0.038671937, u'gasmask', 0.02983889]
+[u'palace', 0.14802712, u'book_jacket', 0.13514712, u'maze', 0.063435614, u'triumphal_arch', 0.049887426, u'library', 0.048382673]
+[u'barrel', 0.066204786, u'half_track', 0.06572257, u'military_uniform', 0.064293019, u'brass', 0.062191594, u'shield', 0.032330967]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

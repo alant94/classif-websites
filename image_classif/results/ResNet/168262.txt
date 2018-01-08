@@ -1,0 +1,5 @@
+[u'ambulance', 0.54783469, u'Band_Aid', 0.11922792, u'digital_clock', 0.076545879, u'street_sign', 0.058616258, u'police_van', 0.024907632]
+[u'shoe_shop', 0.11183792, u'aircraft_carrier', 0.10892293, u'grocery_store', 0.061611246, u'rifle', 0.06135159, u'tobacco_shop', 0.047431313]
+[u'drum', 0.99957043, u'banjo', 0.00023043095, u'drumstick', 4.9901715e-05, u'maraca', 3.0814768e-05, u'jinrikisha', 2.3159206e-05]
+[u'grand_piano', 0.92440152, u'organ', 0.049083337, u'upright', 0.025126878, u'typewriter_keyboard', 0.00074200466, u'space_bar', 0.0003798723]
+[u'barbershop', 0.44136265, u'barber_chair', 0.091189839, u'steel_drum', 0.075975664, u'accordion', 0.030075606, u'television', 0.022182031]

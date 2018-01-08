@@ -1,0 +1,5 @@
+[u'web_site', 0.1997802, u'analog_clock', 0.035648447, u'envelope', 0.035515547, u'doormat', 0.028982574, u'laptop', 0.027905051]
+[u'hair_slide', 0.099658363, u'cleaver', 0.08905375, u'corkscrew', 0.066276267, u'muzzle', 0.054115999, u'spotlight', 0.048886187]
+[u'cinema', 0.53757757, u'sliding_door', 0.093337543, u'barbershop', 0.083726853, u'bakery', 0.053037576, u'gas_pump', 0.023474712]
+[u'crane', 0.08694274, u'thresher', 0.077948682, u'web_site', 0.067487046, u'chain_saw', 0.05821918, u'lawn_mower', 0.046709813]
+[u'container_ship', 0.67177725, u'web_site', 0.028671488, u'envelope', 0.020387173, u'switch', 0.018787438, u'vending_machine', 0.015905425]

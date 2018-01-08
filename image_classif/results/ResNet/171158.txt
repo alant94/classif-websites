@@ -1,0 +1,7 @@
+[u'book_jacket', 0.45466828, u'comic_book', 0.28389287, u'whistle', 0.040258545, u'breastplate', 0.030561496, u'pickelhaube', 0.027671324]
+[u'digital_clock', 0.19854853, u'crossword_puzzle', 0.079388931, u'digital_watch', 0.064080022, u'web_site', 0.041605078, u'scoreboard', 0.020962404]
+[u'crossword_puzzle', 0.33307663, u'web_site', 0.076310806, u'digital_clock', 0.023778796, u'bannister', 0.022224344, u'remote_control', 0.01999905]
+[u'web_site', 0.10191215, u'crossword_puzzle', 0.049587082, u'hard_disc', 0.038156148, u'ski', 0.030929849, u'envelope', 0.030276196]
+[u'viaduct', 0.43995649, u'vault', 0.20120175, u'monastery', 0.11611319, u'bell_cote', 0.080624931, u'mosque', 0.056471195]
+[u'television', 0.071538426, u'chambered_nautilus', 0.068340771, u'joystick', 0.061921947, u'electric_fan', 0.054296345, u'reflex_camera', 0.049859114]
+[u'digital_clock', 0.77692264, u'digital_watch', 0.067631431, u'crossword_puzzle', 0.053207126, u'stopwatch', 0.018704247, u'scoreboard', 0.018199159]

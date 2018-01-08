@@ -1,0 +1,4 @@
+[u'web_site', 0.14892694, u'book_jacket', 0.095499262, u'screwdriver', 0.050270535, u'whistle', 0.027546732, u'screw', 0.026121855]
+[u'screen', 0.51959026, u'television', 0.21572749, u'web_site', 0.07327798, u'iPod', 0.04141375, u'cash_machine', 0.037005622]
+[u'lion', 0.15236297, u'dhole', 0.052177899, u'collie', 0.048420738, u'chow', 0.038477954, u'German_shepherd', 0.037586562]
+[u'folding_chair', 0.27627632, u'street_sign', 0.21169047, u'shield', 0.15343343, u'tray', 0.059087772, u'traffic_light', 0.037008289]

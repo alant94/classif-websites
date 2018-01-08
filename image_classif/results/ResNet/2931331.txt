@@ -1,0 +1,3 @@
+[u'wig', 0.17806065, u'hair_spray', 0.14501253, u'ocarina', 0.13255598, u'harmonica', 0.07140772, u'flute', 0.05121094]
+[u'ambulance', 0.78821242, u'fire_engine', 0.15067476, u'police_van', 0.060457256, u'minibus', 0.00018993081, u'jeep', 0.00012802298]
+[u'fountain', 0.57788074, u'theater_curtain', 0.13128944, u'spider_web', 0.090928353, u'English_foxhound', 0.045186132, u'oscilloscope', 0.015205872]

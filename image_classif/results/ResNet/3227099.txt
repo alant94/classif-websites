@@ -1,0 +1,6 @@
+[u'web_site', 0.62051672, u'barbershop', 0.077530168, u'abaya', 0.026487499, u'theater_curtain', 0.021821763, u'stage', 0.017455086]
+[u'shovel', 0.32304999, u'cleaver', 0.2030886, u'plate_rack', 0.060853269, u'spatula', 0.057356831, u'strainer', 0.029363966]
+[u'web_site', 0.63241214, u'envelope', 0.04852552, u'electric_fan', 0.010752348, u'hook', 0.0080403406, u'scoreboard', 0.0069727665]
+[u'packet', 0.1765136, u'confectionery', 0.11077882, u'book_jacket', 0.077539578, u'lotion', 0.057785634, u'butcher_shop', 0.033496298]
+[u'pencil_sharpener', 0.68244499, u'toaster', 0.12460741, u'iron', 0.058516495, u'mousetrap', 0.029967444, u'mailbox', 0.017905867]
+[u"carpenter's_kit", 0.090542808, u'ice_lolly', 0.084027074, u'hammer', 0.079306737, u'ballpoint', 0.066513054, u'screwdriver', 0.036335077]

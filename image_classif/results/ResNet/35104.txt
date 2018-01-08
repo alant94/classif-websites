@@ -1,0 +1,4 @@
+[u'binder', 0.25858, u'jersey', 0.08735352, u'laptop', 0.056926947, u'envelope', 0.049065113, u'hard_disc', 0.043554116]
+[u'digital_clock', 0.6866309, u'street_sign', 0.031335428, u'scoreboard', 0.022263799, u'whistle', 0.022040414, u'web_site', 0.019585624]
+[u'nipple', 0.45461458, u'combination_lock', 0.17825031, u'spotlight', 0.083114229, u'iPod', 0.03361791, u'mouse', 0.022831362]
+[u'coffee_mug', 0.076219946, u'lighter', 0.072546974, u'Band_Aid', 0.07019899, u'jersey', 0.053470086, u'binder', 0.047870781]

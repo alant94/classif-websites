@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.69050187, u'web_site', 0.052712299, u'pill_bottle', 0.033565626, u'sunscreen', 0.0262555, u'packet', 0.014724378]
+[u'analog_clock', 0.74551016, u'wall_clock', 0.10722684, u'web_site', 0.018698649, u'magnetic_compass', 0.014784748, u'stopwatch', 0.0085863192]
+[u'web_site', 0.63207179, u'maillot', 0.056712151, u'menu', 0.046420474, u'maillot', 0.036370512, u'book_jacket', 0.028039631]
+[u'recreational_vehicle', 0.13885477, u'projector', 0.12050102, u'monitor', 0.090126984, u'maillot', 0.064803571, u'traffic_light', 0.041301861]
+[u'web_site', 0.3197577, u'whistle', 0.087532841, u'sunscreen', 0.053427726, u'nipple', 0.052036773, u'envelope', 0.035642304]
+[u'book_jacket', 0.25907412, u'street_sign', 0.18656103, u'scoreboard', 0.026822802, u'Band_Aid', 0.025400056, u'cash_machine', 0.021154454]

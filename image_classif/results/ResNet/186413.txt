@@ -1,0 +1,2 @@
+[u'comic_book', 0.71063942, u'book_jacket', 0.16735005, u'harvester', 0.044394001, u'thresher', 0.02445337, u'sewing_machine', 0.0096112555]
+[u'book_jacket', 0.70800418, u'packet', 0.055568676, u'sunscreen', 0.055510677, u'jersey', 0.034897141, u'comic_book', 0.028448828]

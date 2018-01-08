@@ -1,0 +1,1 @@
+[u'palace', 0.81803256, u'castle', 0.052639872, u'lakeside', 0.0383563, u'church', 0.021241028, u'fountain', 0.017512077]

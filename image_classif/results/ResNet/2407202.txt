@@ -1,0 +1,7 @@
+[u'swab', 0.3225871, u'plunger', 0.2181949, u'dial_telephone', 0.096351869, u'pay-phone', 0.063926943, u'broom', 0.048191901]
+[u'desk', 0.17100613, u'radio', 0.11811148, u'television', 0.083021246, u'entertainment_center', 0.054171797, u'bannister', 0.052250005]
+[u'loudspeaker', 0.47938934, u'radio', 0.22277905, u'submarine', 0.048019763, u'barbell', 0.044736549, u'reflex_camera', 0.01693227]
+[u'web_site', 0.12461689, u'lipstick', 0.048773691, u'bulletproof_vest', 0.041153274, u'wig', 0.038916159, u'abaya', 0.026652843]
+[u'safe', 0.53325802, u'combination_lock', 0.15940434, u'space_heater', 0.098349832, u'switch', 0.040111233, u'radio', 0.022812599]
+[u'microphone', 0.37333876, u'projectile', 0.17382225, u'missile', 0.096188866, u'vacuum', 0.060764574, u'lipstick', 0.047189016]
+[u'oxygen_mask', 0.89238262, u'web_site', 0.019070692, u'neck_brace', 0.009699164, u'gasmask', 0.0090106903, u'hand-held_computer', 0.006437602]

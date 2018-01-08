@@ -1,0 +1,8 @@
+[u'iron', 0.12363335, u'lipstick', 0.10285227, u'spotlight', 0.080958195, u'shower_curtain', 0.076526158, u'bannister', 0.075544782]
+[u'stage', 0.6536634, u'spotlight', 0.2355849, u'pole', 0.022181347, u'fountain', 0.019689422, u'unicycle', 0.0098771313]
+[u'sax', 0.54058838, u'bassoon', 0.13894942, u'oboe', 0.060460545, u'electric_guitar', 0.04669543, u'cornet', 0.035170667]
+[u'gown', 0.11145049, u'spotlight', 0.082923658, u'groom', 0.045649767, u'theater_curtain', 0.043356251, u'cloak', 0.040397808]
+[u'suspension_bridge', 0.71809512, u'stupa', 0.10593651, u'sax', 0.05531206, u'crane', 0.053511556, u'kimono', 0.0083988337]
+[u'television', 0.53151703, u'sax', 0.18815587, u'spotlight', 0.030996475, u'stage', 0.011476109, u'bannister', 0.011274181]
+[u'groom', 0.39526477, u'kimono', 0.33739796, u'abaya', 0.074160263, u'bow_tie', 0.04420387, u'suit', 0.030748965]
+[u'fountain', 0.834481, u'television', 0.080229864, u'sax', 0.047019236, u'marimba', 0.0043853442, u'spotlight', 0.0039156755]

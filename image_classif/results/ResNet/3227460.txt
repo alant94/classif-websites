@@ -1,0 +1,1 @@
+[u'shield', 0.15848793, u'coffee_mug', 0.063296907, u'Windsor_tie', 0.046233948, u'wall_clock', 0.043861803, u'lighter', 0.041785404]

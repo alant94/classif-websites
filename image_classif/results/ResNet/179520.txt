@@ -1,0 +1,7 @@
+[u'maraca', 0.079644546, u'altar', 0.069114961, u'stage', 0.065013938, u'grand_piano', 0.057711158, u'groom', 0.03913964]
+[u'cello', 0.37016362, u'harp', 0.18778381, u'violin', 0.11390544, u'fur_coat', 0.061837841, u'grand_piano', 0.031503133]
+[u'soccer_ball', 0.88036174, u'volleyball', 0.055287607, u'balance_beam', 0.016226027, u'unicycle', 0.010719422, u'horizontal_bar', 0.0047099274]
+[u'theater_curtain', 0.74014944, u'stage', 0.031856738, u'suit', 0.029162912, u'bookshop', 0.013943948, u'carton', 0.01321874]
+[u'bulletproof_vest', 0.33402386, u'police_van', 0.21244974, u'stretcher', 0.13062212, u'ambulance', 0.029836137, u'jersey', 0.025341569]
+[u'wardrobe', 0.2161687, u'jean', 0.13230281, u'plunger', 0.075959027, u'feather_boa', 0.072182477, u'torch', 0.039880175]
+[u'web_site', 0.99984133, u'comic_book', 0.00013724041, u'menu', 1.0345129e-05, u'snowmobile', 2.9503756e-06, u'monitor', 2.06452e-06]

@@ -1,0 +1,7 @@
+[u'bagel', 0.68133295, u'cheeseburger', 0.26287022, u'Dungeness_crab', 0.010035414, u'hotdog', 0.0087941354, u'bakery', 0.0087778214]
+[u'comic_book', 0.64394969, u'book_jacket', 0.31690705, u'barbershop', 0.018515468, u'web_site', 0.0029581271, u'tobacco_shop', 0.0023527341]
+[u'radiator', 0.27823967, u'organ', 0.084067151, u'ski', 0.076434664, u'vestment', 0.056117449, u'wardrobe', 0.033675637]
+[u'banjo', 0.84748894, u'toilet_seat', 0.026710501, u'scale', 0.017240662, u'cowboy_hat', 0.012913152, u'drum', 0.0083459215]
+[u'espresso', 0.48193562, u'beer_glass', 0.25182611, u'red_wine', 0.057982676, u'cup', 0.040975541, u'cocktail_shaker', 0.022987518]
+[u'spider_web', 0.95691568, u'garden_spider', 0.018653398, u'barn_spider', 0.011287196, u'black_and_gold_garden_spider', 0.0090073254, u'electric_fan', 0.0010481389]
+[u'cheeseburger', 0.99849331, u'hotdog', 0.0008384434, u'bakery', 0.00028659205, u'meat_loaf', 0.00010394675, u'French_loaf', 6.2761756e-05]

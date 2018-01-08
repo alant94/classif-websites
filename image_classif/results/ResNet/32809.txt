@@ -1,0 +1,6 @@
+[u'pot', 0.2511766, u'vase', 0.16290778, u'daisy', 0.12863883, u'earthstar', 0.036971711, u'sulphur_butterfly', 0.036681648]
+[u'boathouse', 0.15054528, u'fireboat', 0.14235857, u'dock', 0.12487345, u'lakeside', 0.12086622, u'planetarium', 0.089834273]
+[u'lakeside', 0.9913038, u'valley', 0.0032668037, u'boathouse', 0.001526181, u'dam', 0.0011592836, u'canoe', 0.00080820668]
+[u'tray', 0.20387805, u'vase', 0.11174824, u'bee', 0.11022452, u'conch', 0.05232038, u'strawberry', 0.042683739]
+[u'guillotine', 0.10055468, u'web_site', 0.097618654, u'nematode', 0.089300439, u'hook', 0.040872384, u'envelope', 0.03722788]
+[u'yawl', 0.68240511, u'schooner', 0.1179813, u'trimaran', 0.1079559, u'catamaran', 0.056762278, u'seashore', 0.0057578338]

@@ -1,0 +1,2 @@
+[u'traffic_light', 0.27799666, u'cinema', 0.096761137, u'cab', 0.069915056, u'parking_meter', 0.036079407, u'fountain', 0.027661644]
+[u'hatchet', 0.08884006, u'cleaver', 0.085905701, u'cornet', 0.067200132, u'chain', 0.058890738, u'comic_book', 0.057152018]

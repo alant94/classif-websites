@@ -1,0 +1,4 @@
+[u'television', 0.1171662, u'lifeboat', 0.11089952, u'balloon', 0.10657904, u'paddle', 0.075018406, u'toyshop', 0.05962633]
+[u'entertainment_center', 0.27317324, u'television', 0.23381081, u'monitor', 0.21060893, u'screen', 0.15004532, u'jigsaw_puzzle', 0.066964731]
+[u'fire_screen', 0.39704135, u'jigsaw_puzzle', 0.2579776, u'space_shuttle', 0.072362959, u'airship', 0.0612511, u'volcano', 0.040391777]
+[u'sorrel', 0.3057619, u'book_jacket', 0.069487661, u'Arabian_camel', 0.058707375, u'triceratops', 0.04463673, u'cock', 0.03972438]

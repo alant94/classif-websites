@@ -1,0 +1,4 @@
+[u'parallel_bars', 0.12426635, u'pole', 0.12019729, u'maillot', 0.09749034, u'torch', 0.087856993, u'balance_beam', 0.085006885]
+[u'rule', 0.13235597, u'book_jacket', 0.12934649, u'crate', 0.08534883, u'prison', 0.046272527, u'fire_screen', 0.035020523]
+[u'mortarboard', 0.13827847, u'academic_gown', 0.10435352, u'fire_screen', 0.10000351, u'theater_curtain', 0.077828094, u'radiator', 0.051986061]
+[u'organ', 0.82915735, u'crossword_puzzle', 0.042772453, u'container_ship', 0.025464449, u'picket_fence', 0.022972086, u'matchstick', 0.014032261]

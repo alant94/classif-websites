@@ -1,0 +1,2 @@
+[u'web_site', 0.33772758, u'book_jacket', 0.1041577, u'envelope', 0.033618975, u'slide_rule', 0.017278569, u'menu', 0.013418176]
+[u'crossword_puzzle', 0.46045965, u'scoreboard', 0.14845212, u'prayer_rug', 0.03910948, u'otterhound', 0.038323488, u'maze', 0.031537667]

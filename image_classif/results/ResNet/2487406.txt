@@ -1,0 +1,5 @@
+[u'web_site', 0.82986176, u'comic_book', 0.056673452, u'binder', 0.051027488, u'tray', 0.010426661, u'shower_curtain', 0.0032462555]
+[u'impala', 0.56582856, u'gazelle', 0.37246642, u'hartebeest', 0.059800096, u'ibex', 0.00078454829, u'bighorn', 0.00031204525]
+[u'orangutan', 0.70224792, u'mantis', 0.081898361, u'crane', 0.045304071, u'basketball', 0.01961037, u'corn', 0.016714746]
+[u'monastery', 0.33060986, u'castle', 0.11067729, u'birdhouse', 0.098950543, u'barn', 0.089577414, u'church', 0.038809206]
+[u'wallaby', 0.39224365, u'bighorn', 0.22248571, u'ibex', 0.11543507, u'coyote', 0.094875, u'hare', 0.052015085]

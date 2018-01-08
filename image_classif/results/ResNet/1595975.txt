@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.34783086, u'sock', 0.15512729, u'knee_pad', 0.059531707, u'miniskirt', 0.024040977, u'Windsor_tie', 0.021159623]
+[u'maillot', 0.43826336, u'swimming_trunks', 0.1246888, u'maillot', 0.090514101, u'miniskirt', 0.069529012, u'pole', 0.037429586]
+[u'chain_mail', 0.24475038, u'miniskirt', 0.085410103, u'Windsor_tie', 0.06571386, u'shield', 0.057318777, u'backpack', 0.054624941]
+[u'sandal', 0.34873074, u'maillot', 0.34726948, u'bikini', 0.11048348, u'miniskirt', 0.04072585, u'breastplate', 0.029912971]
+[u'miniskirt', 0.16930833, u'dumbbell', 0.1314484, u'jean', 0.11400294, u'gasmask', 0.10797174, u'cowboy_hat', 0.055303887]
+[u'cowboy_boot', 0.52810615, u'gasmask', 0.10940167, u'microphone', 0.060537186, u'cannon', 0.058882006, u'punching_bag', 0.043114297]

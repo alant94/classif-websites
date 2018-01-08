@@ -1,0 +1,2 @@
+[u'book_jacket', 0.23057912, u'web_site', 0.19742425, u'hatchet', 0.077652469, u'comic_book', 0.048027012, u'corkscrew', 0.043095268]
+[u'castle', 0.86652726, u'valley', 0.043432891, u'lakeside', 0.019571751, u'promontory', 0.012247456, u'cliff', 0.012064466]

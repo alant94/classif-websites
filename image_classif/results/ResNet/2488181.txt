@@ -1,0 +1,1 @@
+[u'lab_coat', 0.54442918, u'web_site', 0.30112347, u'stethoscope', 0.10117684, u'remote_control', 0.0044426112, u'hand-held_computer', 0.0039963336]

@@ -1,0 +1,4 @@
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]
+[u'wig', 0.43914121, u'hair_spray', 0.051368065, u'mask', 0.046726882, u'plastic_bag', 0.038422942, u'toyshop', 0.02967787]
+[u'book_jacket', 0.50525242, u'shower_curtain', 0.0424936, u'mailbox', 0.04140877, u'comic_book', 0.040743951, u'packet', 0.038128853]
+[u'digital_clock', 0.34288642, u'scoreboard', 0.28155428, u'crossword_puzzle', 0.19124277, u'digital_watch', 0.046850458, u'analog_clock', 0.033690456]

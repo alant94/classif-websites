@@ -1,0 +1,1 @@
+[u'traffic_light', 0.10553382, u'pill_bottle', 0.0781404, u'oil_filter', 0.064653464, u'coil', 0.048348889, u'marimba', 0.040358424]

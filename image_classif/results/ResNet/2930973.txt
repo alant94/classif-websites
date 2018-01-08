@@ -1,0 +1,7 @@
+[u'paper_towel', 0.14210996, u'toilet_tissue', 0.075715251, u'gong', 0.07160227, u'analog_clock', 0.056767248, u'chain', 0.054239485]
+[u'web_site', 0.54534644, u'nipple', 0.030206475, u'analog_clock', 0.019296465, u'can_opener', 0.016373863, u'hook', 0.015388181]
+[u'quill', 0.24696568, u'marimba', 0.19244395, u'lab_coat', 0.040762007, u'crossword_puzzle', 0.031567663, u'book_jacket', 0.020296454]
+[u'analog_clock', 0.40100801, u'drum', 0.065825671, u'wall_clock', 0.065808915, u'stopwatch', 0.057595801, u'can_opener', 0.050594043]
+[u'envelope', 0.18286285, u'laptop', 0.1542439, u'pillow', 0.088038154, u'book_jacket', 0.069991045, u'web_site', 0.031402782]
+[u'spotlight', 0.47526565, u'loupe', 0.11628029, u'oxygen_mask', 0.084822394, u'academic_gown', 0.031005448, u'pick', 0.02949683]
+[u'spotlight', 0.11379924, u'chambered_nautilus', 0.085039355, u'mouse', 0.076221652, u'pick', 0.050420485, u'ping-pong_ball', 0.046351954]

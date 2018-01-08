@@ -1,0 +1,8 @@
+[u'Granny_Smith', 0.71077675, u'acorn', 0.029572375, u'jackfruit', 0.026859028, u'bell_pepper', 0.01956556, u'tennis_ball', 0.018286901]
+[u'flagpole', 0.48977381, u'pole', 0.26786175, u'book_jacket', 0.14237282, u'envelope', 0.03079815, u'web_site', 0.016775671]
+[u'gasmask', 0.36702269, u'oxygen_mask', 0.14807451, u'nipple', 0.13718927, u'pill_bottle', 0.030685099, u'shield', 0.028147999]
+[u'envelope', 0.26558596, u'oxygen_mask', 0.14733066, u'web_site', 0.14237039, u'lighter', 0.033089291, u'can_opener', 0.02870802]
+[u'bolo_tie', 0.76942724, u'buckle', 0.050099228, u'shield', 0.043377738, u'brass', 0.0265046, u'cuirass', 0.0096776728]
+[u'lotion', 0.58691156, u'candle', 0.13749215, u'wine_bottle', 0.048648857, u'trifle', 0.033170197, u'eggnog', 0.029638927]
+[u'valley', 0.18507048, u'lakeside', 0.16073921, u'alp', 0.082669795, u'cliff', 0.066878453, u'worm_fence', 0.05412275]
+[u'Band_Aid', 0.16080946, u'web_site', 0.10958923, u'analog_clock', 0.050729301, u'digital_clock', 0.049540214, u'digital_watch', 0.043964956]

@@ -1,0 +1,1 @@
+[u'television', 0.32549813, u'screen', 0.17231064, u'shower_curtain', 0.088536195, u'monitor', 0.075532481, u'wall_clock', 0.053763282]

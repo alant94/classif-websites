@@ -1,0 +1,4 @@
+[u'web_site', 0.29876691, u'screen', 0.1269459, u'monitor', 0.12577759, u'envelope', 0.10027941, u'binder', 0.067536227]
+[u'turnstile', 0.41293392, u'abacus', 0.2249667, u'bakery', 0.046071135, u'French_horn', 0.029789791, u'forklift', 0.023585146]
+[u'fire_engine', 0.11567055, u'lighter', 0.075977772, u'binder', 0.057409476, u'book_jacket', 0.039409872, u'rifle', 0.03187966]
+[u'web_site', 0.12170177, u'street_sign', 0.11495228, u'traffic_light', 0.096536838, u'ambulance', 0.077067412, u'lighter', 0.051310804]

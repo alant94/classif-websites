@@ -1,0 +1,5 @@
+[u'bottlecap', 0.35968778, u'stopwatch', 0.081585884, u'drum', 0.04170261, u'mailbag', 0.033971757, u'lens_cap', 0.025238493]
+[u'birdhouse', 0.91840428, u'mailbox', 0.056104396, u'barn', 0.019209143, u'church', 0.0012874258, u'web_site', 0.00083832571]
+[u'web_site', 0.87738156, u'book_jacket', 0.046745084, u'comic_book', 0.039616387, u'television', 0.013184792, u'monitor', 0.003092444]
+[u'digital_clock', 0.96663338, u'digital_watch', 0.010192161, u'analog_clock', 0.0069763763, u'barbershop', 0.001326883, u'traffic_light', 0.0011527896]
+[u'school_bus', 0.14908488, u'web_site', 0.094645083, u'book_jacket', 0.073993035, u'comic_book', 0.041467953, u'tobacco_shop', 0.029980173]

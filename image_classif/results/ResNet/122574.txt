@@ -1,0 +1,2 @@
+[u'ballpoint', 0.34003371, u'crossword_puzzle', 0.273936, u'syringe', 0.050198615, u'whistle', 0.028642366, u'web_site', 0.027427595]
+[u'book_jacket', 0.47558501, u'comic_book', 0.17116472, u'web_site', 0.071360074, u'whistle', 0.024149792, u'digital_clock', 0.016598675]

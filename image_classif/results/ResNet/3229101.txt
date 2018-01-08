@@ -1,0 +1,3 @@
+[u'French_horn', 0.12117898, u'cornet', 0.11671475, u'hair_slide', 0.10100675, u'hook', 0.058779135, u'hand_blower', 0.054811619]
+[u'altar', 0.88335794, u'candle', 0.059430659, u'throne', 0.0076123779, u'table_lamp', 0.0055824104, u'paintbrush', 0.0044547534]
+[u'chain', 0.39650729, u'perfume', 0.074528873, u'lampshade', 0.063985765, u'altar', 0.054241959, u'stole', 0.023084026]

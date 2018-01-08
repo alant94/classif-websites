@@ -1,0 +1,1 @@
+[u'gong', 0.29226565, u'badger', 0.17823261, u'loudspeaker', 0.13790059, u'black-footed_ferret', 0.050799586, u'three-toed_sloth', 0.033940837]

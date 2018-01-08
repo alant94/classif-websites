@@ -1,0 +1,8 @@
+[u'espresso_maker', 0.079884, u'printer', 0.076809406, u'combination_lock', 0.055668019, u'cassette_player', 0.054932486, u'home_theater', 0.050711446]
+[u'analog_clock', 0.23504317, u'radio', 0.18162347, u'tape_player', 0.15765928, u'wall_clock', 0.14657851, u'combination_lock', 0.042145297]
+[u'broom', 0.55704683, u'table_lamp', 0.085159987, u'street_sign', 0.078191034, u'hook', 0.052621387, u'pedestal', 0.046217568]
+[u'joystick', 0.46584091, u'magnetic_compass', 0.2426279, u'combination_lock', 0.091850929, u'switch', 0.060879689, u'barbell', 0.019644774]
+[u'neck_brace', 0.99140078, u'guillotine', 0.0022972599, u'can_opener', 0.0014319059, u'loupe', 0.0010296374, u'toilet_seat', 0.00064903748]
+[u'spotlight', 0.22832896, u'oxygen_mask', 0.21089506, u'nipple', 0.088698603, u'ocarina', 0.046766158, u'gong', 0.039091565]
+[u'slide_rule', 0.14483555, u'tow_truck', 0.097817898, u'ambulance', 0.079821266, u'rule', 0.058799203, u'chain_saw', 0.057298757]
+[u'water_bottle', 0.37496921, u'safety_pin', 0.084998854, u'china_cabinet', 0.06287723, u'thimble', 0.048248604, u'nipple', 0.03917608]

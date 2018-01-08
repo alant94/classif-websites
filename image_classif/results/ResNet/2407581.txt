@@ -1,0 +1,7 @@
+[u'comic_book', 0.30346683, u'church', 0.15374097, u'monarch', 0.085962914, u'book_jacket', 0.051652491, u'lampshade', 0.035660874]
+[u'plunger', 0.35809222, u'barbell', 0.1371035, u'hummingbird', 0.099287286, u'hair_slide', 0.07421042, u'American_lobster', 0.034876026]
+[u'corn', 0.21925063, u'plate', 0.11140005, u'tray', 0.07892932, u'cucumber', 0.068487011, u'wooden_spoon', 0.054148916]
+[u'envelope', 0.31549752, u'comic_book', 0.23974858, u'bib', 0.075234756, u'handkerchief', 0.070685685, u'pencil_box', 0.041018981]
+[u'shopping_basket', 0.99993563, u'hamper', 5.4958989e-05, u'bucket', 7.9542697e-06, u'ashcan', 7.7589272e-07, u'shopping_cart', 1.5025925e-07]
+[u'American_lobster', 0.24137567, u'strawberry', 0.2321566, u'goldfish', 0.077458523, u'bell_pepper', 0.040634703, u'crayfish', 0.030855285]
+[u'ox', 0.67654884, u'fountain', 0.079413608, u'bison', 0.064529568, u'ostrich', 0.029051404, u'ram', 0.02097027]

@@ -1,0 +1,5 @@
+[u'fountain', 0.69042879, u'swing', 0.13775194, u'banjo', 0.033426475, u'nail', 0.028409347, u'hook', 0.026338147]
+[u'book_jacket', 0.88921785, u'fountain', 0.031622406, u'comic_book', 0.01331266, u'assault_rifle', 0.0042774691, u'basketball', 0.004169127]
+[u'book_jacket', 0.51060897, u'web_site', 0.171299, u'comic_book', 0.032476638, u'medicine_chest', 0.01381182, u'scoreboard', 0.013701637]
+[u'television', 0.46195486, u'screen', 0.1525248, u'iPod', 0.095315687, u'street_sign', 0.052670054, u'monitor', 0.040134698]
+[u'lakeside', 0.71547192, u'fireboat', 0.042037345, u'trailer_truck', 0.01320318, u'airship', 0.011747124, u'geyser', 0.011548353]

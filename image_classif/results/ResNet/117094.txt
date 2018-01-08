@@ -1,0 +1,2 @@
+[u'rocking_chair', 0.49569952, u'plate_rack', 0.20608234, u'folding_chair', 0.11287923, u'shovel', 0.020191323, u"carpenter's_kit", 0.015051417]
+[u'vending_machine', 0.78977239, u'web_site', 0.025847305, u'monitor', 0.025837151, u'slot', 0.019204421, u'entertainment_center', 0.015824312]

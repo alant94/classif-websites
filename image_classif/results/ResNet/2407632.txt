@@ -1,0 +1,6 @@
+[u'nail', 0.13477643, u'prison', 0.1184684, u'dumbbell', 0.10608698, u'cornet', 0.083650433, u'book_jacket', 0.074106224]
+[u'alp', 0.27984172, u'web_site', 0.12425246, u'ski', 0.088570364, u'church', 0.081372976, u'valley', 0.078506872]
+[u'neck_brace', 0.31598398, u'lawn_mower', 0.2584669, u'web_site', 0.066838741, u'motor_scooter', 0.046430226, u'bulletproof_vest', 0.032395136]
+[u'book_jacket', 0.17451447, u'comic_book', 0.16986442, u'web_site', 0.11497948, u'tractor', 0.072733849, u'fire_engine', 0.065148763]
+[u'book_jacket', 0.33428696, u'comic_book', 0.052810404, u'gas_pump', 0.051551763, u'street_sign', 0.041470971, u'web_site', 0.031629283]
+[u'snowplow', 0.16485536, u'garbage_truck', 0.10403486, u'tow_truck', 0.095306478, u'minibus', 0.083751008, u'jeep', 0.076845735]

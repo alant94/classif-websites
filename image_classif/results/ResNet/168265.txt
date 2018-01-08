@@ -1,0 +1,6 @@
+[u'web_site', 0.39741689, u'television', 0.35758805, u'monitor', 0.083565451, u'screen', 0.076730192, u'home_theater', 0.044163831]
+[u'book_jacket', 0.28942978, u'comic_book', 0.066004269, u'packet', 0.047376551, u'cash_machine', 0.036720499, u'cinema', 0.031114556]
+[u'traffic_light', 0.7656945, u'spotlight', 0.11036042, u'binoculars', 0.022233022, u'projector', 0.017712446, u'loupe', 0.012022182]
+[u'monitor', 0.22784561, u'screen', 0.084137261, u'television', 0.078320026, u'nematode', 0.069807105, u'book_jacket', 0.052013434]
+[u'web_site', 0.46786457, u'comic_book', 0.05275359, u'television', 0.023158049, u'menu', 0.023123201, u'crossword_puzzle', 0.015573592]
+[u'obelisk', 0.47094426, u'megalith', 0.3528811, u'sea_lion', 0.014380758, u'stupa', 0.010847099, u'jean', 0.0092854062]

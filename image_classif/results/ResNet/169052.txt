@@ -1,0 +1,8 @@
+[u'sandal', 0.87610596, u'running_shoe', 0.012041753, u'hook', 0.010644895, u'clog', 0.0070991488, u'coil', 0.0065912954]
+[u'digital_clock', 0.37660652, u'tripod', 0.0695986, u'envelope', 0.055954132, u'digital_watch', 0.043786079, u'web_site', 0.039000712]
+[u'street_sign', 0.96769708, u'traffic_light', 0.015548933, u'oscilloscope', 0.0057924469, u'screen', 0.0026572056, u'cash_machine', 0.0013474284]
+[u'restaurant', 0.25643343, u'comic_book', 0.062462363, u'tobacco_shop', 0.060559943, u'cinema', 0.053513426, u'bakery', 0.03911715]
+[u'whistle', 0.225977, u'iron', 0.1372167, u'neck_brace', 0.11996319, u'combination_lock', 0.088024445, u'waffle_iron', 0.069508143]
+[u'electric_guitar', 0.86280084, u'acoustic_guitar', 0.079589345, u'violin', 0.011963778, u'banjo', 0.011498005, u'pick', 0.0037063486]
+[u'cello', 0.58935696, u'violin', 0.40593731, u'banjo', 0.0025182324, u'sax', 0.00015224064, u'barbershop', 0.00014698382]
+[u'harp', 0.99974304, u'bow', 3.0638072e-05, u'maraca', 2.5580399e-05, u'pick', 2.553348e-05, u'drum', 1.8582665e-05]

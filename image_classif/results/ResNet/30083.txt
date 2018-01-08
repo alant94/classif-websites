@@ -1,0 +1,7 @@
+[u'analog_clock', 0.74922115, u'wall_clock', 0.24501847, u'stopwatch', 0.0032059057, u'whistle', 0.00059679506, u'digital_watch', 0.00026875298]
+[u'vase', 0.20059443, u'gasmask', 0.1123403, u'perfume', 0.02990118, u'bee', 0.026885914, u'lotion', 0.025479101]
+[u'clog', 0.70564181, u'perfume', 0.072501376, u'vase', 0.068169564, u'sandal', 0.011169816, u'snail', 0.01088058]
+[u'pill_bottle', 0.15544532, u'rugby_ball', 0.12811032, u'sunscreen', 0.080431029, u'tennis_ball', 0.050219964, u'oil_filter', 0.028941115]
+[u'doormat', 0.5086993, u'brass', 0.46125099, u'book_jacket', 0.0061538881, u'packet', 0.0025188385, u'menu', 0.0015558753]
+[u'packet', 0.38471064, u'hamper', 0.28856668, u'confectionery', 0.095005497, u'bookshop', 0.065607108, u'grocery_store', 0.035821084]
+[u'pencil_sharpener', 0.85992825, u'pencil_box', 0.064051211, u'pinwheel', 0.050968379, u'rubber_eraser', 0.018112432, u'rule', 0.0053409385]

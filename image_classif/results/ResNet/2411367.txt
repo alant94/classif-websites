@@ -1,0 +1,5 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'digital_clock', 0.29635435, u'medicine_chest', 0.082926318, u'digital_watch', 0.078932278, u'screen', 0.052876819, u'monitor', 0.029037548]
+[u'sunscreen', 0.53922755, u'oil_filter', 0.35214722, u'face_powder', 0.033679489, u'pill_bottle', 0.024271661, u'lotion', 0.018230058]
+[u'medicine_chest', 0.17718667, u'digital_clock', 0.12366285, u'screen', 0.050236266, u'window_screen', 0.033572756, u'monitor', 0.032167494]
+[u'web_site', 0.3690694, u'book_jacket', 0.20408459, u'snorkel', 0.040397305, u'comic_book', 0.026266867, u'bikini', 0.021230944]

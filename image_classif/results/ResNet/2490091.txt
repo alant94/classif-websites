@@ -1,0 +1,6 @@
+[u'brown_bear', 0.40599757, u'otterhound', 0.16138151, u'bloodhound', 0.13238345, u'Sussex_spaniel', 0.066889979, u'clumber', 0.042539477]
+[u'Newfoundland', 0.15707082, u'bloodhound', 0.10587084, u'tusker', 0.10017199, u'Tibetan_mastiff', 0.086298004, u'Leonberg', 0.057368621]
+[u'bison', 0.41730711, u'brown_bear', 0.3670398, u'American_black_bear', 0.096073486, u'hog', 0.040246457, u'sloth_bear', 0.030885145]
+[u'siamang', 0.21832357, u'kelpie', 0.16219881, u'flat-coated_retriever', 0.11603949, u'Gordon_setter', 0.056061737, u'bluetick', 0.045259077]
+[u'brown_bear', 0.47048494, u'American_black_bear', 0.07612209, u'tusker', 0.053601399, u'warthog', 0.046361476, u'dhole', 0.038834225]
+[u'American_black_bear', 0.56639111, u'sloth_bear', 0.43125021, u'brown_bear', 0.0021051336, u'tusker', 0.00014880749, u'chimpanzee', 6.6442764e-05]

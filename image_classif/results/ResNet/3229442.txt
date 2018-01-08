@@ -1,0 +1,4 @@
+[u'paintbrush', 0.10301211, u'packet', 0.046253312, u'carton', 0.044020545, u'brassiere', 0.039336238, u'paddle', 0.035542838]
+[u'boathouse', 0.30063596, u'mobile_home', 0.27190855, u'lakeside', 0.081070863, u'dam', 0.035977863, u'beacon', 0.032251637]
+[u'throne', 0.59230286, u'altar', 0.15691739, u'organ', 0.11564373, u'vault', 0.029946553, u'library', 0.016268356]
+[u'Band_Aid', 0.077215925, u'web_site', 0.050458275, u'jersey', 0.045566503, u'digital_clock', 0.038841862, u'hook', 0.03773221]

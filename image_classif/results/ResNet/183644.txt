@@ -1,0 +1,8 @@
+[u'comic_book', 0.41113952, u'web_site', 0.23219705, u'cinema', 0.047143131, u'menu', 0.045643341, u'scoreboard', 0.043554388]
+[u'web_site', 0.11597633, u'envelope', 0.051233925, u'hand_blower', 0.034833487, u'can_opener', 0.023873355, u'iron', 0.023564864]
+[u'head_cabbage', 0.3936221, u'web_site', 0.27687326, u'plow', 0.22202776, u'maze', 0.032854203, u'monitor', 0.0068767807]
+[u'thresher', 0.60698026, u'garbage_truck', 0.26589987, u'cash_machine', 0.017800679, u'harvester', 0.016834807, u'guillotine', 0.011775318]
+[u'web_site', 0.16698799, u'hand_blower', 0.046159744, u'envelope', 0.04609279, u'screw', 0.029039769, u'can_opener', 0.021289343]
+[u'book_jacket', 0.43064708, u'platypus', 0.072363146, u'triceratops', 0.057855882, u'slug', 0.044440374, u'web_site', 0.032023367]
+[u'tractor', 0.14250056, u'web_site', 0.086416207, u'forklift', 0.080672152, u'grocery_store', 0.067004465, u'turnstile', 0.066519186]
+[u'corn', 0.61965501, u'artichoke', 0.22380434, u'banana', 0.075526081, u'spaghetti_squash', 0.02172396, u'cucumber', 0.019765107]

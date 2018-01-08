@@ -1,0 +1,1 @@
+[u'book_jacket', 0.47910175, u'jellyfish', 0.14969403, u'comic_book', 0.10379014, u'television', 0.040785871, u'tray', 0.030957643]

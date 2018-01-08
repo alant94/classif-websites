@@ -1,0 +1,5 @@
+[u'volcano', 0.25720835, u'flagpole', 0.13236983, u'mountain_bike', 0.10256343, u'parachute', 0.086907178, u'fountain', 0.052162535]
+[u'English_foxhound', 0.24895428, u'redbone', 0.24399872, u'Walker_hound', 0.20498624, u'vizsla', 0.090028733, u'Rhodesian_ridgeback', 0.041665345]
+[u'cock', 0.39416713, u'admiral', 0.16559286, u'drake', 0.088300109, u'coucal', 0.02820964, u'peacock', 0.02176564]
+[u'worm_fence', 0.18328066, u'pole', 0.10532614, u'brassiere', 0.078388199, u'plow', 0.067029163, u'corn', 0.05400341]
+[u'ear', 0.62261617, u'pole', 0.14461474, u'corn', 0.060419705, u'cowboy_boot', 0.02639403, u'fountain', 0.017914293]

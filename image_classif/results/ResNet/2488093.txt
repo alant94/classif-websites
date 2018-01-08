@@ -1,0 +1,2 @@
+[u'ibex', 0.66294879, u'hartebeest', 0.14847125, u'impala', 0.094491862, u'gazelle', 0.029106056, u'bighorn', 0.026958136]
+[u'fountain', 0.24816358, u'hartebeest', 0.058241963, u'bow', 0.051438786, u'chain_saw', 0.048394974, u'stethoscope', 0.038246751]

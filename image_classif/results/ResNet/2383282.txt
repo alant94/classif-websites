@@ -1,0 +1,1 @@
+[u'sturgeon', 0.042189732, u'beer_glass', 0.037242893, u'American_lobster', 0.036217235, u'barracouta', 0.033320554, u'king_crab', 0.032404155]

@@ -1,0 +1,3 @@
+[u'tub', 0.55852753, u'bathtub', 0.11012028, u'barbershop', 0.055397201, u'butcher_shop', 0.035349209, u'bikini', 0.024569329]
+[u'Weimaraner', 0.2042921, u'hog', 0.11053473, u'hippopotamus', 0.050208189, u'Band_Aid', 0.042948145, u'butcher_shop', 0.03802428]
+[u'bathtub', 0.54757601, u'tub', 0.2041951, u'groom', 0.058600873, u'bikini', 0.027520869, u'shower_curtain', 0.022809053]

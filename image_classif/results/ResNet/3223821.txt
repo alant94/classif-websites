@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.65293473, u'book_jacket', 0.080411009, u'brass', 0.03865267, u'binder', 0.033661794, u'menu', 0.020312773]
+[u'gong', 0.69115424, u'spotlight', 0.077516742, u'fire_screen', 0.033439554, u'traffic_light', 0.021295231, u'volcano', 0.019808501]
+[u'container_ship', 0.43494007, u'crane', 0.34788439, u'drilling_platform', 0.13220833, u'dock', 0.016786315, u'liner', 0.014834284]

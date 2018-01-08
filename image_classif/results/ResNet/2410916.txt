@@ -1,0 +1,5 @@
+[u'book_jacket', 0.099829338, u'hair_spray', 0.056564264, u'comic_book', 0.037943397, u'screwdriver', 0.027081735, u"carpenter's_kit", 0.021927787]
+[u'gas_pump', 0.23946163, u'ashcan', 0.095512234, u'beer_glass', 0.051985387, u'mountain_bike', 0.051958919, u'bottlecap', 0.03459087]
+[u'web_site', 0.081331454, u'rule', 0.055652704, u'hook', 0.042473909, u'street_sign', 0.04021918, u'book_jacket', 0.026498839]
+[u'screwdriver', 0.09063907, u'face_powder', 0.076684646, u'lipstick', 0.063472539, u'screw', 0.060833596, u'ballpoint', 0.060191903]
+[u'cash_machine', 0.087331586, u'altar', 0.06125129, u'dome', 0.053382717, u'church', 0.04909737, u'vault', 0.043346688]

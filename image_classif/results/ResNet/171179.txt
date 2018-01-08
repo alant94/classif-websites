@@ -1,0 +1,6 @@
+[u'oscilloscope', 0.52840847, u'hair_spray', 0.23422304, u'perfume', 0.044634305, u'theater_curtain', 0.032481872, u'stage', 0.024060544]
+[u'plate_rack', 0.32371041, u'swab', 0.035177596, u'pill_bottle', 0.025049049, u'toilet_seat', 0.022148697, u'perfume', 0.019592719]
+[u'Band_Aid', 0.5873, u'barbershop', 0.068979822, u'vending_machine', 0.022675656, u'moving_van', 0.019083038, u'envelope', 0.016592443]
+[u'jersey', 0.92126584, u'sweatshirt', 0.066887088, u'wool', 0.00093964307, u'cardigan', 0.00074120122, u'dumbbell', 0.00065268861]
+[u'analog_clock', 0.093020283, u'drum', 0.08451096, u'magnetic_compass', 0.074025996, u'gong', 0.07332164, u'chime', 0.06531591]
+[u'pencil_sharpener', 0.33204812, u'screw', 0.079728484, u'spotlight', 0.053402409, u'chain_saw', 0.02964969, u'analog_clock', 0.028264236]

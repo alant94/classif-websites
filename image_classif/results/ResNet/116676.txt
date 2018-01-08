@@ -1,0 +1,1 @@
+[u'analog_clock', 0.8264479, u'tripod', 0.034989219, u'chain', 0.015884671, u'hourglass', 0.013068767, u'wall_clock', 0.012038686]

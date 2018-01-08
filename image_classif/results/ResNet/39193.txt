@@ -1,0 +1,7 @@
+[u'bee', 0.32362211, u'picket_fence', 0.17444339, u'sulphur_butterfly', 0.09101738, u'hip', 0.070823185, u'snail', 0.02610136]
+[u'sorrel', 0.24566962, u'Ibizan_hound', 0.051840067, u'bannister', 0.049698424, u'book_jacket', 0.046037056, u'hook', 0.023495305]
+[u'theater_curtain', 0.079937331, u'envelope', 0.061383083, u'web_site', 0.060875148, u'binder', 0.057426635, u'nematode', 0.022353789]
+[u'book_jacket', 0.40041095, u'packet', 0.12376904, u'comic_book', 0.11882609, u'television', 0.1027414, u'screen', 0.091055438]
+[u'cleaver', 0.098175213, u'web_site', 0.087020859, u'book_jacket', 0.0591667, u'paintbrush', 0.035771713, u'menu', 0.032324184]
+[u'jackfruit', 0.53958654, u'pineapple', 0.054927107, u'bell_pepper', 0.045236323, u'lemon', 0.035361663, u'spaghetti_squash', 0.032623589]
+[u'picket_fence', 0.20840108, u'web_site', 0.058941986, u'vase', 0.03179542, u'hip', 0.023797244, u'chainlink_fence', 0.022054922]

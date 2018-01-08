@@ -1,0 +1,6 @@
+[u'web_site', 0.36330336, u'book_jacket', 0.11621457, u'jersey', 0.042459786, u'Windsor_tie', 0.021897776, u'comic_book', 0.020277005]
+[u'monitor', 0.23976582, u'library', 0.12313482, u'screen', 0.10745677, u'web_site', 0.088990532, u'television', 0.087387063]
+[u'television', 0.14447999, u'radio', 0.13759989, u'joystick', 0.086303644, u'assault_rifle', 0.083401419, u'oscilloscope', 0.068828717]
+[u'lab_coat', 0.81107706, u'tobacco_shop', 0.045791801, u'whistle', 0.038550377, u'microphone', 0.028068524, u'oxygen_mask', 0.012880878]
+[u'web_site', 0.98851961, u'comic_book', 0.0056137526, u'book_jacket', 0.0010336754, u'television', 0.00072337291, u'menu', 0.00036119769]
+[u'web_site', 0.19332121, u'chambered_nautilus', 0.13249533, u'gong', 0.051608916, u'hook', 0.039896902, u'loupe', 0.037723623]

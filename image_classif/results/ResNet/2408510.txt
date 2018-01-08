@@ -1,0 +1,2 @@
+[u'bathing_cap', 0.10981317, u'analog_clock', 0.084421121, u'spotlight', 0.058185779, u'oil_filter', 0.037752241, u'nail', 0.037239876]
+[u'whistle', 0.44853532, u'maraca', 0.14872287, u'vacuum', 0.04472724, u'hair_slide', 0.027886031, u'clog', 0.027577672]

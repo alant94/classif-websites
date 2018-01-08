@@ -1,0 +1,2 @@
+[u'hartebeest', 0.7782681, u'impala', 0.069757544, u'gazelle', 0.052129027, u'sorrel', 0.032514948, u'zebra', 0.016077887]
+[u'menu', 0.46978396, u'envelope', 0.12736586, u'oscilloscope', 0.052796189, u'pillow', 0.039484505, u'packet', 0.036677398]

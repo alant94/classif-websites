@@ -1,0 +1,4 @@
+[u'digital_clock', 0.4675996, u'analog_clock', 0.086802527, u'web_site', 0.075287752, u'stopwatch', 0.033547174, u'remote_control', 0.026347881]
+[u'loudspeaker', 0.36396858, u'gong', 0.15514508, u'chime', 0.075702801, u'knee_pad', 0.045451034, u'lighter', 0.033657033]
+[u'microwave', 0.71636474, u'sunglass', 0.033392284, u'stove', 0.028134305, u'reflex_camera', 0.016961738, u'stopwatch', 0.012566939]
+[u'menu', 0.14276157, u'barbershop', 0.088895842, u'book_jacket', 0.040346358, u'web_site', 0.037176751, u'envelope', 0.03455415]

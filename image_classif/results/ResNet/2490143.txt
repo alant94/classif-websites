@@ -1,0 +1,3 @@
+[u'window_shade', 0.37126192, u'shoji', 0.22498362, u'window_screen', 0.047305252, u'fire_screen', 0.034836423, u'file', 0.033781141]
+[u'lakeside', 0.35141742, u'promontory', 0.14626797, u'seashore', 0.11671111, u'sandbar', 0.0802247, u'beacon', 0.060734108]
+[u'envelope', 0.41861665, u'carton', 0.071029112, u'binder', 0.064827181, u'mortarboard', 0.04546234, u'fire_screen', 0.032790013]

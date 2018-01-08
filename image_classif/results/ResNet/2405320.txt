@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.71037281, u'handkerchief', 0.18113892, u'binder', 0.03688043, u'pillow', 0.012304272, u'sleeping_bag', 0.0075837616]
+[u'web_site', 0.89000255, u'envelope', 0.047092445, u'menu', 0.0098706139, u'loupe', 0.0047325836, u'cleaver', 0.0029451775]

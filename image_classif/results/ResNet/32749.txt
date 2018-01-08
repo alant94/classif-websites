@@ -1,0 +1,6 @@
+[u'spotlight', 0.70682627, u'loupe', 0.12431983, u'toilet_seat', 0.035043482, u'Petri_dish', 0.021194203, u'bolo_tie', 0.015030646]
+[u'rock_beauty', 0.36784384, u"jack-o'-lantern", 0.1140064, u'balloon', 0.048945174, u'jigsaw_puzzle', 0.032902002, u'gong', 0.027183387]
+[u'spotlight', 0.27881342, u'loupe', 0.14237721, u'cassette', 0.060986415, u'cassette_player', 0.049666505, u'chain', 0.034639593]
+[u'gong', 0.35068294, u'iPod', 0.18971513, u'shield', 0.052180171, u'bow', 0.046388898, u'remote_control', 0.02735129]
+[u'web_site', 0.43021348, u'digital_clock', 0.072772793, u'scoreboard', 0.046180528, u'stopwatch', 0.023532895, u'analog_clock', 0.019250184]
+[u'web_site', 0.44459957, u'lighter', 0.021465195, u'scoreboard', 0.018413488, u'harmonica', 0.017410686, u'barbershop', 0.015115784]

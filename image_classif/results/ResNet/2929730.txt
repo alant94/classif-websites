@@ -1,0 +1,2 @@
+[u'pajama', 0.14160495, u'bib', 0.10026754, u'maraca', 0.047089674, u'ice_lolly', 0.044634655, u'spatula', 0.030996732]
+[u'ambulance', 0.12399498, u'stretcher', 0.058784623, u'analog_clock', 0.049271449, u'cash_machine', 0.040342595, u'web_site', 0.038591586]

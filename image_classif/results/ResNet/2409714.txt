@@ -1,0 +1,4 @@
+[u'book_jacket', 0.30068076, u'perfume', 0.21503629, u'safe', 0.0832351, u'brass', 0.064640582, u'fire_screen', 0.041849367]
+[u'bittern', 0.17363286, u'fountain', 0.16713341, u'Chesapeake_Bay_retriever', 0.04677793, u'fur_coat', 0.041276202, u'ear', 0.040837672]
+[u'book_jacket', 0.21027605, u'comic_book', 0.16526838, u'remote_control', 0.094541602, u'jersey', 0.050098214, u'hard_disc', 0.041547514]
+[u'geyser', 0.99725634, u'fountain', 0.0027326385, u'volcano', 8.9530267e-06, u'lakeside', 6.0183805e-07, u'valley', 3.7765003e-07]

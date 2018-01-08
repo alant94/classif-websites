@@ -1,0 +1,8 @@
+[u'oil_filter', 0.17928359, u'coffee_mug', 0.077041909, u'dishwasher', 0.064561084, u'lotion', 0.039114196, u'pill_bottle', 0.03113487]
+[u'web_site', 0.41978845, u'comic_book', 0.14973444, u'book_jacket', 0.052226901, u'hair_spray', 0.02022432, u'cinema', 0.017628688]
+[u'web_site', 0.12928234, u'oil_filter', 0.03215098, u'pill_bottle', 0.027583834, u'envelope', 0.026564483, u'face_powder', 0.025867444]
+[u'whistle', 0.09803728, u'stopwatch', 0.071407624, u'oil_filter', 0.049564824, u'power_drill', 0.039566621, u'punching_bag', 0.038310282]
+[u'oil_filter', 0.083135843, u'book_jacket', 0.070958853, u'tray', 0.070838466, u'scoreboard', 0.060515184, u'whistle', 0.057983931]
+[u'binder', 0.39759299, u'envelope', 0.13772285, u'book_jacket', 0.083876714, u'cash_machine', 0.051436067, u'wall_clock', 0.013401575]
+[u'analog_clock', 0.24509099, u'digital_clock', 0.2026892, u'digital_watch', 0.1123959, u'stopwatch', 0.10352144, u'magnetic_compass', 0.035464585]
+[u'oscilloscope', 0.48614043, u'web_site', 0.098558135, u'oxygen_mask', 0.055538334, u'plate_rack', 0.053889874, u'street_sign', 0.023985488]

@@ -1,0 +1,7 @@
+[u'stove', 0.059196901, u'iron', 0.056522422, u'chain', 0.055189289, u'coil', 0.040400594, u'peacock', 0.030611703]
+[u'web_site', 0.30976301, u'bulletproof_vest', 0.13548188, u'nematode', 0.051571861, u'envelope', 0.030980496, u'Windsor_tie', 0.030744651]
+[u'seat_belt', 0.30300632, u'minibus', 0.1996529, u'car_mirror', 0.13017668, u'jeep', 0.075852856, u'recreational_vehicle', 0.021724666]
+[u'conch', 0.25777242, u'lab_coat', 0.083594315, u'stage', 0.081295229, u'sunscreen', 0.076984704, u'wig', 0.062711202]
+[u'safety_pin', 0.1089535, u'tray', 0.099320725, u'honeycomb', 0.040750612, u'diaper', 0.037057064, u'handkerchief', 0.030148938]
+[u'wig', 0.22339326, u'notebook', 0.11097383, u'trench_coat', 0.029423384, u'mortarboard', 0.025787476, u'jersey', 0.024072956]
+[u'alp', 0.11354411, u'breastplate', 0.098094299, u'cuirass', 0.061447635, u'pitcher', 0.046336222, u'valley', 0.045207694]

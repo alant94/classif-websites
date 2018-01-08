@@ -1,0 +1,1 @@
+[u'web_site', 0.51508135, u'traffic_light', 0.1424261, u'street_sign', 0.019326596, u'oscilloscope', 0.01824582, u'hair_spray', 0.015880214]

@@ -1,0 +1,2 @@
+[u'gong', 0.56934619, u'ant', 0.024165893, u'drum', 0.023852132, u'platypus', 0.018638203, u'tick', 0.01803256]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

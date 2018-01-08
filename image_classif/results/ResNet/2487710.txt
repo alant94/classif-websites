@@ -1,0 +1,1 @@
+[u'web_site', 0.069801681, u'dishwasher', 0.041380901, u'folding_chair', 0.038187061, u'pole', 0.034115862, u'parallel_bars', 0.029452529]

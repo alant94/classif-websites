@@ -1,0 +1,4 @@
+[u'book_jacket', 0.34163266, u'Afghan_hound', 0.13718875, u'barbershop', 0.084179513, u'comic_book', 0.049010526, u"potter's_wheel", 0.040095869]
+[u'toyshop', 0.9157874, u'comic_book', 0.054550324, u'tobacco_shop', 0.011380767, u'altar', 0.0034574554, u'grocery_store', 0.0017269449]
+[u'overskirt', 0.066559359, u'oxcart', 0.056102663, u'thresher', 0.051878594, u'lumbermill', 0.049446512, u'Bouvier_des_Flandres', 0.038362786]
+[u'book_jacket', 0.1447456, u'balance_beam', 0.11699699, u'fountain', 0.044496004, u'pole', 0.04413477, u'pedestal', 0.030499727]

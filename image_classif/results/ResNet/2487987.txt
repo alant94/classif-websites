@@ -1,0 +1,6 @@
+[u'plate_rack', 0.15116276, u'cowboy_boot', 0.055895325, u'eggnog', 0.038825493, u'water_jug', 0.036375821, u'bookcase', 0.029863095]
+[u'hook', 0.14196604, u'stopwatch', 0.056796409, u'shovel', 0.053802691, u'corkscrew', 0.047163222, u'hair_slide', 0.036439579]
+[u'marimba', 0.068898715, u'jinrikisha', 0.06742008, u'gondola', 0.056880433, u'restaurant', 0.049386162, u'tray', 0.040908258]
+[u'web_site', 0.14530328, u'screwdriver', 0.071245305, u'Band_Aid', 0.059990048, u'ski', 0.05088539, u'nail', 0.030685535]
+[u'shield', 0.54111165, u'slot', 0.11118577, u'bolo_tie', 0.038043085, u'wall_clock', 0.027300475, u'throne', 0.022381563]
+[u'pick', 0.19124076, u'puck', 0.1330566, u'nematode', 0.060503684, u'web_site', 0.032625113, u'face_powder', 0.027094493]

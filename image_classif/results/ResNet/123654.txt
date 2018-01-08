@@ -1,0 +1,1 @@
+[u'folding_chair', 0.6795308, u'apron', 0.045498859, u'whistle', 0.025171636, u'rocking_chair', 0.023195896, u'crutch', 0.01415978]

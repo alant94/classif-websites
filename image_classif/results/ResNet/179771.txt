@@ -1,0 +1,3 @@
+[u'shield', 0.059481606, u'jersey', 0.058239691, u'envelope', 0.038467459, u'binder', 0.031549167, u'hammerhead', 0.029283106]
+[u'web_site', 0.48767087, u'barrel', 0.038480129, u'comic_book', 0.036851507, u'menu', 0.025420595, u'sax', 0.023252985]
+[u'Band_Aid', 0.23141554, u'shield', 0.07786338, u'digital_clock', 0.063423946, u'analog_clock', 0.039790746, u'ambulance', 0.035845775]

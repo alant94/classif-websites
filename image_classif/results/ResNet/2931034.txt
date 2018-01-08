@@ -1,0 +1,3 @@
+[u'barbershop', 0.78210998, u'prison', 0.043036588, u'washbasin', 0.0086700153, u'hair_spray', 0.0071008676, u'Windsor_tie', 0.0067829783]
+[u'lab_coat', 0.13119909, u'Windsor_tie', 0.095239826, u'Band_Aid', 0.058532227, u'wig', 0.041530967, u'kimono', 0.033004578]
+[u'digital_clock', 0.31090665, u'folding_chair', 0.15043585, u'screen', 0.073797978, u'street_sign', 0.064808987, u'traffic_light', 0.047985621]

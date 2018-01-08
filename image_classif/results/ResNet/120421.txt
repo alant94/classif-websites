@@ -1,0 +1,1 @@
+[u'mouse', 0.1986475, u'toaster', 0.15636128, u'pencil_sharpener', 0.064781673, u"carpenter's_kit", 0.064005516, u'drum', 0.052126661]

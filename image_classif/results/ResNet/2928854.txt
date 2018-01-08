@@ -1,0 +1,6 @@
+[u'ski', 0.48812553, u'bulletproof_vest', 0.19345833, u'assault_rifle', 0.096972324, u'rifle', 0.035928279, u'bow', 0.033136137]
+[u'tricycle', 0.69457912, u'jinrikisha', 0.06659878, u'bicycle-built-for-two', 0.038594078, u'web_site', 0.034277443, u'unicycle', 0.026742427]
+[u'medicine_chest', 0.46602368, u'digital_clock', 0.061571736, u'web_site', 0.050719015, u'screen', 0.049415242, u'analog_clock', 0.031881336]
+[u'safe', 0.26772311, u'sewing_machine', 0.18371654, u'medicine_chest', 0.13746826, u'cash_machine', 0.097579308, u'dumbbell', 0.059219003]
+[u'reel', 0.25317115, u'lawn_mower', 0.064019449, u'drum', 0.057099674, u'tricycle', 0.040668543, u'crane', 0.036037084]
+[u'medicine_chest', 0.48344439, u'web_site', 0.057884395, u'wardrobe', 0.042023711, u'beaker', 0.040195674, u'washbasin', 0.022764865]

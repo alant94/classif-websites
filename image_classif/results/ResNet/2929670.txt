@@ -1,0 +1,3 @@
+[u'web_site', 0.95124865, u'face_powder', 0.0037228009, u'packet', 0.0035434514, u'book_jacket', 0.002940604, u'gas_pump', 0.0025478967]
+[u'web_site', 0.14690393, u'hook', 0.11901193, u'analog_clock', 0.049501814, u'loupe', 0.035984274, u'street_sign', 0.034678701]
+[u'hook', 0.43318233, u'nematode', 0.078243323, u'chain', 0.051278662, u'knot', 0.036214106, u'whistle', 0.031337067]

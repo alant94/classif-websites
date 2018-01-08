@@ -1,0 +1,5 @@
+[u'crutch', 0.21495388, u'book_jacket', 0.17996709, u'abaya', 0.16057885, u'prison', 0.061287038, u'vacuum', 0.048266042]
+[u'academic_gown', 0.18642089, u'mortarboard', 0.10690407, u'suit', 0.096937262, u'cash_machine', 0.037422109, u'comic_book', 0.02982552]
+[u'sarong', 0.35136354, u'bikini', 0.05164345, u'shoe_shop', 0.048905898, u'maraca', 0.030213684, u'sandal', 0.029920435]
+[u'book_jacket', 0.99008232, u'packet', 0.0049186861, u'cash_machine', 0.0012855252, u'perfume', 0.00090800092, u'menu', 0.00026919719]
+[u'library', 0.71280861, u'passenger_car', 0.085870951, u'bookshop', 0.042324219, u'folding_chair', 0.024078362, u'theater_curtain', 0.01812092]

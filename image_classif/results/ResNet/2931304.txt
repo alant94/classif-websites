@@ -1,0 +1,2 @@
+[u'bow', 0.14499736, u'ski', 0.061817326, u'web_site', 0.05778018, u'power_drill', 0.055030718, u'screwdriver', 0.047487654]
+[u'traffic_light', 0.2100179, u'church', 0.1497926, u'balloon', 0.086080112, u'picket_fence', 0.073195621, u'stupa', 0.067526475]

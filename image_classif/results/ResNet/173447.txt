@@ -1,0 +1,3 @@
+[u'church', 0.16811483, u'castle', 0.15090899, u'jigsaw_puzzle', 0.11678138, u'trimaran', 0.096075296, u'space_shuttle', 0.0724812]
+[u'oboe', 0.31540242, u'bassoon', 0.30560872, u'sax', 0.10801544, u'cello', 0.04132637, u'cornet', 0.039053354]
+[u'stage', 0.11901981, u'monitor', 0.10306496, u'theater_curtain', 0.094681829, u'spotlight', 0.059296388, u'cinema', 0.049540065]

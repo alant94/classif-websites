@@ -1,0 +1,5 @@
+[u'web_site', 0.50935, u'notebook', 0.26136035, u'menu', 0.022892885, u'laptop', 0.019808911, u'stole', 0.019662518]
+[u'maraca', 0.32624102, u'web_site', 0.30799016, u'can_opener', 0.033555809, u'muzzle', 0.032642417, u'packet', 0.024400104]
+[u'menu', 0.27700365, u'web_site', 0.22324172, u'book_jacket', 0.14177826, u'library', 0.060343105, u'notebook', 0.026093816]
+[u'prayer_rug', 0.20952497, u'digital_clock', 0.068872333, u'wall_clock', 0.044558931, u'crossword_puzzle', 0.043320864, u'envelope', 0.038635276]
+[u'brassiere', 0.18470155, u'gown', 0.12420562, u'maillot', 0.063150696, u'miniskirt', 0.059897631, u'sunglasses', 0.05616793]

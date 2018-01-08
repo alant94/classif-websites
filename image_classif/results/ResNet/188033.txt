@@ -1,0 +1,1 @@
+[u'traffic_light', 0.329193, u'digital_watch', 0.21578917, u'prayer_rug', 0.16570695, u'digital_clock', 0.10947894, u'lampshade', 0.013908274]

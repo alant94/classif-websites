@@ -1,0 +1,1 @@
+[u'spider_web', 0.091083057, u'envelope', 0.057304226, u'jersey', 0.051985338, u'red_wine', 0.050882779, u'refrigerator', 0.042049337]

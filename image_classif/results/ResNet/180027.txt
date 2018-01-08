@@ -1,0 +1,7 @@
+[u'packet', 0.82210845, u'rubber_eraser', 0.034641877, u'saltshaker', 0.017675798, u'toilet_tissue', 0.013326751, u'wallet', 0.008055211]
+[u'tile_roof', 0.17290807, u'bannister', 0.14098328, u'web_site', 0.1295045, u'window_shade', 0.080525063, u'seashore', 0.042286817]
+[u'web_site', 0.97676295, u'hand-held_computer', 0.00099716301, u'mouse', 0.00095248019, u'analog_clock', 0.00092960754, u'cassette_player', 0.00082914456]
+[u'cinema', 0.14967556, u'scoreboard', 0.1471753, u'web_site', 0.1051331, u'book_jacket', 0.080744952, u'slot', 0.04380339]
+[u'cornet', 0.18658303, u'web_site', 0.13496496, u'slot', 0.078201503, u'crossword_puzzle', 0.07104148, u'oscilloscope', 0.069571644]
+[u'tripod', 0.57672262, u'web_site', 0.17802168, u'can_opener', 0.041519731, u'corkscrew', 0.027425664, u'ski', 0.023087105]
+[u'cloak', 0.23863967, u'book_jacket', 0.11697539, u'academic_gown', 0.10184333, u'abaya', 0.088009462, u'fur_coat', 0.049605608]

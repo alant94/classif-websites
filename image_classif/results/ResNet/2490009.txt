@@ -1,0 +1,4 @@
+[u'shoe_shop', 0.3643001, u'butcher_shop', 0.23764561, u'toyshop', 0.054152817, u'chain_saw', 0.03542826, u'crate', 0.027685391]
+[u'partridge', 0.65649325, u'black_grouse', 0.087710589, u'ruffed_grouse', 0.070566274, u'ptarmigan', 0.06029002, u'prairie_chicken', 0.035251774]
+[u'shoe_shop', 0.18309201, u'triceratops', 0.14170183, u'jackfruit', 0.069309697, u'African_crocodile', 0.024986757, u'puffer', 0.022637196]
+[u'ram', 0.173204, u'llama', 0.17262223, u'hare', 0.097407475, u'wood_rabbit', 0.066011533, u'whippet', 0.062019195]

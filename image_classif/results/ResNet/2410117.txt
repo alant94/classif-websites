@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.62416804, u'spider_web', 0.11289722, u'stopwatch', 0.063797385, u'slide_rule', 0.027439255, u'garden_spider', 0.022049323]
+[u'screwdriver', 0.22825712, u"carpenter's_kit", 0.1365447, u'modem', 0.11697245, u'radio', 0.089003727, u'hammer', 0.076688997]
+[u'remote_control', 0.58156973, u'loudspeaker', 0.09302675, u'modem', 0.062995009, u'switch', 0.037069216, u'web_site', 0.029812496]
+[u'web_site', 0.15197791, u'knot', 0.10098648, u'stopwatch', 0.052596316, u'space_shuttle', 0.052195944, u'chain', 0.045915592]
+[u'web_site', 0.63906467, u'envelope', 0.23693272, u'maze', 0.037428774, u'menu', 0.0084711537, u'carton', 0.0026163594]
+[u'web_site', 0.45884335, u'screen', 0.19451973, u'envelope', 0.0565967, u'digital_clock', 0.029257106, u'cardoon', 0.026672136]

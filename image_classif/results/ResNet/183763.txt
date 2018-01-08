@@ -1,0 +1,4 @@
+[u'carton', 0.17093369, u'rubber_eraser', 0.071873456, u'radio', 0.054739617, u'medicine_chest', 0.048760653, u'matchstick', 0.032916814]
+[u'iPod', 0.39459318, u'web_site', 0.22186258, u'laptop', 0.03823702, u'jersey', 0.024917979, u'church', 0.024134239]
+[u'umbrella', 0.39395159, u'swab', 0.14202546, u'book_jacket', 0.11665517, u'sea_urchin', 0.054026082, u'daisy', 0.047605339]
+[u'web_site', 0.26548001, u'rule', 0.18221352, u'envelope', 0.087481044, u'book_jacket', 0.047290001, u'carton', 0.034425013]

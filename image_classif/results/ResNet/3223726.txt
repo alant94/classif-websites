@@ -1,0 +1,7 @@
+[u'oboe', 0.90243614, u'bassoon', 0.083307065, u'flute', 0.010965708, u'sax', 0.0020134707, u'cornet', 0.00067326828]
+[u'plate_rack', 0.7706151, u'chime', 0.187736, u'gong', 0.0062337248, u'bow', 0.002836016, u'croquet_ball', 0.0023851262]
+[u'web_site', 0.94559985, u'flagpole', 0.0073825726, u'comic_book', 0.0036067921, u'envelope', 0.0028989185, u'book_jacket', 0.0027571009]
+[u'groom', 0.4942036, u'bow_tie', 0.13812231, u'television', 0.072182506, u'web_site', 0.063836694, u'vestment', 0.021496993]
+[u'book_jacket', 0.68622905, u'web_site', 0.203242, u'packet', 0.03856368, u'envelope', 0.02411627, u'comic_book', 0.024045559]
+[u'doormat', 0.39960268, u'pot', 0.071044534, u'hamper', 0.052325215, u'balloon', 0.052015103, u'maze', 0.04129865]
+[u'bald_eagle', 0.95512599, u'vulture', 0.023550598, u'kite', 0.018640347, u'albatross', 0.0013536054, u'pelican', 0.00070434058]

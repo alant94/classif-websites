@@ -1,0 +1,4 @@
+[u'bakery', 0.35657179, u'pretzel', 0.076287426, u'French_loaf', 0.072580397, u'butcher_shop', 0.055379551, u'grocery_store', 0.050970111]
+[u'solar_dish', 0.99158233, u'barn', 0.0041586692, u'boathouse', 0.00071083644, u'birdhouse', 0.00069500791, u'lakeside', 0.00045181724]
+[u'mobile_home', 0.79627943, u'patio', 0.13509661, u'yurt', 0.014774109, u'recreational_vehicle', 0.011451681, u'golfcart', 0.0067183129]
+[u'bell_cote', 0.068379, u'analog_clock', 0.04527643, u'web_site', 0.043774016, u'digital_clock', 0.041984536, u'crane', 0.028070061]

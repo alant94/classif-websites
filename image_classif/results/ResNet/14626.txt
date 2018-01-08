@@ -1,0 +1,2 @@
+[u'web_site', 0.86663944, u'book_jacket', 0.016476357, u'television', 0.014517943, u'comic_book', 0.010249744, u'menu', 0.0098561849]
+[u'web_site', 0.42437837, u'cinema', 0.14414519, u'restaurant', 0.058899686, u'barbershop', 0.047959372, u'monitor', 0.03445445]

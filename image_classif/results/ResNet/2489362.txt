@@ -1,0 +1,3 @@
+[u'web_site', 0.072020955, u'street_sign', 0.053680226, u'coffee_mug', 0.053231582, u'book_jacket', 0.039675687, u'oil_filter', 0.038589139]
+[u'sorrel', 0.13837343, u'horse_cart', 0.062984891, u'Arabian_camel', 0.038915377, u'pole', 0.03528361, u'worm_fence', 0.030915828]
+[u'suit', 0.43903488, u'Windsor_tie', 0.17258152, u'bolo_tie', 0.16784541, u'cowboy_hat', 0.032215852, u'trench_coat', 0.022799365]

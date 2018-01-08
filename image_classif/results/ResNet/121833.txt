@@ -1,0 +1,7 @@
+[u'comic_book', 0.33516118, u'book_jacket', 0.14561139, u'fire_screen', 0.038693521, u'analog_clock', 0.02132711, u'cock', 0.018284535]
+[u'comic_book', 0.36306801, u'book_jacket', 0.10747521, u'Japanese_spaniel', 0.033163022, u'television', 0.017585142, u'skunk', 0.016288884]
+[u'web_site', 0.043742761, u'ear', 0.029423062, u'nematode', 0.027738618, u'spotlight', 0.023652118, u'iron', 0.023054464]
+[u'book_jacket', 0.80360276, u'comic_book', 0.11217406, u'geyser', 0.012579174, u'papillon', 0.0057603791, u'borzoi', 0.004618072]
+[u'Doberman', 0.068104967, u'abaya', 0.044032507, u'Greater_Swiss_Mountain_dog', 0.033364724, u'torch', 0.033012733, u'comic_book', 0.032308158]
+[u'matchstick', 0.096360527, u'fire_screen', 0.065954387, u'Bouvier_des_Flandres', 0.058385558, u'Irish_wolfhound', 0.055560671, u'barn_spider', 0.029213388]
+[u'web_site', 0.22644936, u'barber_chair', 0.031822555, u'nail', 0.027799768, u'analog_clock', 0.026360495, u'folding_chair', 0.02234764]

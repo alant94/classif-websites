@@ -1,0 +1,7 @@
+[u'sunscreen', 0.49205214, u'lotion', 0.12659803, u'book_jacket', 0.099526115, u'perfume', 0.071141548, u'brass', 0.020476809]
+[u'wig', 0.46312341, u'lipstick', 0.29107857, u'harp', 0.023025014, u'shower_curtain', 0.021125797, u'suit', 0.016718145]
+[u'mask', 0.48933059, u'suit', 0.065634124, u'wig', 0.057203058, u'abaya', 0.054222979, u'cloak', 0.03795702]
+[u'vestment', 0.11862726, u'prison', 0.08955574, u"potter's_wheel", 0.045047734, u'harp', 0.040305216, u'plunger', 0.040005136]
+[u'book_jacket', 0.076934755, u'theater_curtain', 0.041309282, u'sweatshirt', 0.023119895, u'comic_book', 0.020415535, u'iron', 0.020370569]
+[u'breastplate', 0.07149668, u'thimble', 0.042205315, u'fire_screen', 0.042049617, u'wig', 0.037723005, u'guillotine', 0.026499918]
+[u'sunglasses', 0.46852916, u'Windsor_tie', 0.2204202, u'suit', 0.21073821, u'sunglass', 0.048588358, u'bolo_tie', 0.0081359288]

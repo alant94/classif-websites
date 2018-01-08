@@ -1,0 +1,2 @@
+[u'drake', 0.21085037, u'peacock', 0.18022333, u'jay', 0.096048228, u'black_grouse', 0.068890698, u'prairie_chicken', 0.066807561]
+[u'goose', 0.95163995, u'black_grouse', 0.015964441, u'crane', 0.015583551, u'bustard', 0.0042138491, u'kite', 0.0032635252]

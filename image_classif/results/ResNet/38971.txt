@@ -1,0 +1,1 @@
+[u'book_jacket', 0.83393556, u'comic_book', 0.037338965, u'hair_spray', 0.030244131, u'barbershop', 0.0070162658, u'scoreboard', 0.0066584693]

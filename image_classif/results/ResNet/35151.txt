@@ -1,0 +1,6 @@
+[u'vase', 0.11036403, u'swab', 0.084667712, u'bow', 0.067046411, u'ski', 0.045961514, u'hair_slide', 0.044069834]
+[u'shoji', 0.16384904, u'window_shade', 0.075721383, u'candle', 0.037756216, u'throne', 0.036969967, u'theater_curtain', 0.036040481]
+[u'book_jacket', 0.84704036, u'comic_book', 0.13465489, u'web_site', 0.0099697383, u'space_shuttle', 0.00094518776, u'lighter', 0.00049341336]
+[u'web_site', 0.7913233, u'book_jacket', 0.042099532, u'comic_book', 0.041034758, u'space_shuttle', 0.0073182466, u'hand-held_computer', 0.0060060951]
+[u'binder', 0.18599427, u'web_site', 0.059510782, u'screen', 0.040073529, u'nail', 0.021071739, u'analog_clock', 0.020788733]
+[u'pay-phone', 0.76273102, u'whistle', 0.024013411, u'hand_blower', 0.022424966, u'gas_pump', 0.020939518, u'oscilloscope', 0.011542283]

@@ -1,0 +1,6 @@
+[u'whistle', 0.3093586, u'web_site', 0.11212227, u'pick', 0.071142875, u'stopwatch', 0.042064801, u'nematode', 0.020634783]
+[u'stole', 0.15554954, u'jean', 0.053378347, u"potter's_wheel", 0.050351016, u'Windsor_tie', 0.037735976, u'wool', 0.031318538]
+[u'web_site', 0.20306943, u'sunscreen', 0.1294809, u'Band_Aid', 0.045594446, u'moving_van', 0.015872812, u'pill_bottle', 0.015088472]
+[u'book_jacket', 0.47175381, u'Band_Aid', 0.10549847, u'moving_van', 0.071893908, u'comic_book', 0.045002505, u'barbershop', 0.038663909]
+[u'sunscreen', 0.16258404, u'tennis_ball', 0.13197671, u'pick', 0.1236077, u'face_powder', 0.11663888, u'puck', 0.043036051]
+[u'street_sign', 0.082105994, u'pill_bottle', 0.067114778, u'pick', 0.046918232, u'book_jacket', 0.032193258, u'jersey', 0.030346179]

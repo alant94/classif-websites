@@ -1,0 +1,5 @@
+[u'gar', 0.29092506, u'coho', 0.084234916, u'eel', 0.062185787, u'rifle', 0.057088405, u'rotisserie', 0.039582446]
+[u'wooden_spoon', 0.10914174, u'violin', 0.10437051, u'spatula', 0.060267471, u'banjo', 0.038367637, u'whistle', 0.030213991]
+[u'book_jacket', 0.21594232, u'web_site', 0.11131077, u'brass', 0.09533643, u'comic_book', 0.043237835, u'menu', 0.037778568]
+[u'restaurant', 0.67101008, u'bakery', 0.11368242, u'dining_table', 0.049424477, u'tobacco_shop', 0.044831611, u'china_cabinet', 0.020016292]
+[u'book_jacket', 0.3928974, u'web_site', 0.33774334, u'barn', 0.056108169, u'barbershop', 0.031894892, u'comic_book', 0.021813065]

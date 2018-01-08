@@ -1,0 +1,5 @@
+[u'binder', 0.4023571, u'paper_towel', 0.12107318, u'quill', 0.088238403, u'lighter', 0.049319334, u'hair_spray', 0.024163365]
+[u'crossword_puzzle', 0.99991965, u'quilt', 3.0687293e-05, u'prayer_rug', 2.024785e-05, u'paper_towel', 4.0666559e-06, u'hamper', 2.3544621e-06]
+[u'scoreboard', 0.58556736, u'traffic_light', 0.12051985, u'street_sign', 0.083292484, u'digital_clock', 0.062908091, u'digital_watch', 0.022983536]
+[u'picket_fence', 0.19972274, u'web_site', 0.13458034, u'candle', 0.087215878, u'theater_curtain', 0.050386451, u'stage', 0.043299064]
+[u'grocery_store', 0.49724573, u'tobacco_shop', 0.1755473, u'confectionery', 0.074145697, u'library', 0.047561295, u'pop_bottle', 0.023762219]

@@ -1,0 +1,2 @@
+[u'web_site', 0.59830862, u'nematode', 0.22153069, u'can_opener', 0.019549876, u'vine_snake', 0.015152466, u'analog_clock', 0.0064798542]
+[u'lab_coat', 0.4806726, u'beaker', 0.34098381, u'pajama', 0.042578228, u'shower_curtain', 0.019642953, u'stethoscope', 0.0079515008]

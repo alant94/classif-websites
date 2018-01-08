@@ -1,0 +1,3 @@
+[u'pot', 0.13493744, u'thatch', 0.11955592, u'tray', 0.1083679, u'canoe', 0.079314426, u'boathouse', 0.030343801]
+[u'monitor', 0.13049233, u'dugong', 0.098571256, u'coral_reef', 0.080020756, u'beaver', 0.078629576, u'wreck', 0.041401301]
+[u'digital_clock', 0.22564055, u'tennis_ball', 0.057746928, u'book_jacket', 0.04205941, u'wall_clock', 0.032582395, u'slot', 0.03140245]

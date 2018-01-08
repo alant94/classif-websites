@@ -1,0 +1,4 @@
+[u'pick', 0.2336404, u'gong', 0.16823962, u'chime', 0.043079548, u'bubble', 0.042933207, u'puck', 0.037984028]
+[u'throne', 0.11600052, u'feather_boa', 0.08619301, u'military_uniform', 0.042811371, u'dogsled', 0.040432923, u'malamute', 0.039710309]
+[u'web_site', 0.13461336, u'envelope', 0.061421163, u'menu', 0.047333274, u'hook', 0.046979684, u'can_opener', 0.046747796]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

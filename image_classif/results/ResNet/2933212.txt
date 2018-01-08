@@ -1,0 +1,7 @@
+[u'web_site', 0.16178216, u'envelope', 0.055541281, u'rule', 0.013960513, u'dishwasher', 0.013086674, u'hand_blower', 0.010381047]
+[u'web_site', 0.07649377, u'envelope', 0.057994328, u'hard_disc', 0.040580869, u'washer', 0.03105825, u'dishwasher', 0.0294894]
+[u'web_site', 0.075781167, u'envelope', 0.033992101, u'hair_spray', 0.016539402, u'hard_disc', 0.015870212, u'remote_control', 0.015161235]
+[u'street_sign', 0.48732489, u'web_site', 0.092884064, u'laptop', 0.044484816, u'cash_machine', 0.031134794, u'ashcan', 0.024588507]
+[u'punching_bag', 0.26267466, u'Granny_Smith', 0.056866162, u'cucumber', 0.053943466, u'shovel', 0.048022486, u'cleaver', 0.043787647]
+[u'menu', 0.34700704, u'web_site', 0.097553067, u'packet', 0.049888015, u'comic_book', 0.040162526, u'envelope', 0.031571571]
+[u'envelope', 0.038756661, u'web_site', 0.033367377, u'hard_disc', 0.029566254, u'dishwasher', 0.026675792, u'remote_control', 0.017731372]

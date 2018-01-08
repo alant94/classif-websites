@@ -1,0 +1,1 @@
+[u'barn', 0.58061564, u'book_jacket', 0.080582783, u'freight_car', 0.040515438, u'water_tower', 0.040055063, u'jigsaw_puzzle', 0.029220048]

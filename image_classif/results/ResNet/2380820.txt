@@ -1,0 +1,2 @@
+[u'tractor', 0.15514098, u'barrel', 0.11219453, u'gas_pump', 0.052899614, u'mobile_home', 0.036839377, u'drum', 0.030614372]
+[u'altar', 0.20632726, u'wine_bottle', 0.20613766, u'red_wine', 0.20127897, u'hamper', 0.057575073, u'dining_table', 0.025926281]

@@ -1,0 +1,7 @@
+[u'letter_opener', 0.86954325, u'spatula', 0.083203569, u'can_opener', 0.012645663, u'screwdriver', 0.0060529434, u'nail', 0.003373214]
+[u'table_lamp', 0.095344193, u'pedestal', 0.083732069, u'letter_opener', 0.045691401, u'screw', 0.034448076, u'hook', 0.028442537]
+[u'goblet', 0.99752825, u'beaker', 0.00045854007, u'whiskey_jug', 0.00032764635, u'cocktail_shaker', 0.0002718748, u'measuring_cup', 0.00026959009]
+[u'loupe', 0.85580486, u'spotlight', 0.070511647, u'oil_filter', 0.029676875, u'French_horn', 0.019319141, u'cornet', 0.0048046149]
+[u'loupe', 0.7115469, u'magnetic_compass', 0.13617226, u'barometer', 0.081626914, u'oil_filter', 0.030341372, u'spotlight', 0.011787768]
+[u'spatula', 0.95346433, u'letter_opener', 0.031809252, u'cleaver', 0.0081641199, u'can_opener', 0.0049512507, u'strainer', 0.00058805826]
+[u'laptop', 0.35627401, u'web_site', 0.2203632, u'packet', 0.050101202, u'envelope', 0.031624418, u'binder', 0.017995566]

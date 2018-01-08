@@ -1,0 +1,7 @@
+[u'paddle', 0.085475355, u'wooden_spoon', 0.060712948, u'cowboy_hat', 0.059860561, u'sombrero', 0.041378397, u'Band_Aid', 0.029299665]
+[u'barn', 0.53434169, u'web_site', 0.20674455, u'mobile_home', 0.084296755, u'boathouse', 0.05540308, u'picket_fence', 0.041451167]
+[u'Band_Aid', 0.22145799, u'shield', 0.14337032, u'web_site', 0.063711382, u'lighter', 0.050993558, u'binder', 0.03690134]
+[u'plunger', 0.2241659, u'web_site', 0.2239283, u'shower_curtain', 0.10106295, u'swab', 0.039589863, u'rule', 0.025648018]
+[u'oscilloscope', 0.20085512, u'web_site', 0.19305606, u'menu', 0.1222662, u'screen', 0.069986217, u'scoreboard', 0.046225213]
+[u'dough', 0.99897313, u"potter's_wheel", 0.00093153823, u'mixing_bowl', 2.1139982e-05, u'trilobite', 1.5996759e-05, u'cleaver', 1.517851e-05]
+[u'crossword_puzzle', 0.50626278, u'quill', 0.097576834, u'laptop', 0.060295288, u'restaurant', 0.055424705, u'notebook', 0.026060011]

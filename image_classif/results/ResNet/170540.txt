@@ -1,0 +1,5 @@
+[u'web_site', 0.34921744, u'Band_Aid', 0.32997409, u'envelope', 0.10469881, u'whistle', 0.012266719, u'book_jacket', 0.0088600582]
+[u'digital_clock', 0.25155684, u'panpipe', 0.094306014, u'screw', 0.090579033, u'loupe', 0.071105652, u'web_site', 0.063393824]
+[u'panpipe', 0.69780928, u'marimba', 0.028060446, u'envelope', 0.017729148, u'web_site', 0.014824409, u'plunger', 0.014700141]
+[u'envelope', 0.20858367, u'web_site', 0.10441226, u'laptop', 0.069947481, u'binder', 0.056565702, u'digital_clock', 0.031438593]
+[u'street_sign', 0.10538208, u'web_site', 0.081421122, u'envelope', 0.043227505, u'bell_cote', 0.043067068, u'hook', 0.041885369]

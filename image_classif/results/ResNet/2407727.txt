@@ -1,0 +1,7 @@
+[u'panpipe', 0.86680698, u'marimba', 0.071728572, u'picket_fence', 0.022669844, u'nail', 0.0089511927, u'web_site', 0.0054652356]
+[u'panpipe', 0.17222951, u'envelope', 0.14520347, u'web_site', 0.12990794, u'picket_fence', 0.070249736, u'nail', 0.029492477]
+[u'envelope', 0.21725585, u'panpipe', 0.1296276, u'whistle', 0.058153652, u'web_site', 0.049099959, u'binder', 0.047811445]
+[u'web_site', 0.19979025, u'throne', 0.068381287, u'envelope', 0.056371197, u'magnetic_compass', 0.043413036, u'barometer', 0.038342316]
+[u'whistle', 0.28889519, u'envelope', 0.12714353, u'swab', 0.091617271, u'panpipe', 0.064016558, u'pencil_sharpener', 0.055155333]
+[u'book_jacket', 0.10828321, u'comic_book', 0.055091608, u'puck', 0.050507508, u'web_site', 0.045208104, u'envelope', 0.031437349]
+[u'china_cabinet', 0.75219417, u'espresso_maker', 0.133609, u'hourglass', 0.062541477, u'wall_clock', 0.017006204, u'medicine_chest', 0.0067806439]

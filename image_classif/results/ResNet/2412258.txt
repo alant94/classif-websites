@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.80979437, u'cleaver', 0.048484161, u'dumbbell', 0.023329673, u'bikini', 0.023195211, u'brassiere', 0.022062069]
+[u'lakeside', 0.2267023, u'monitor', 0.11179545, u'screen', 0.042749707, u'television', 0.040068261, u'seashore', 0.03507258]
+[u'cliff', 0.40248382, u'promontory', 0.30282807, u'lakeside', 0.057262804, u'king_crab', 0.045612067, u'seashore', 0.041767664]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'analog_clock', 0.37289536, u'digital_clock', 0.1222738, u'spotlight', 0.044861145, u'frying_pan', 0.040159367, u'remote_control', 0.021541459]

@@ -1,0 +1,4 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.50024885, u'digital_clock', 0.024589974, u'dishwasher', 0.016837517, u'envelope', 0.013051874, u'analog_clock', 0.011661583]
+[u'web_site', 0.60686606, u'nematode', 0.01326484, u'dishwasher', 0.012050392, u'sax', 0.011336457, u'bannister', 0.011106546]
+[u'web_site', 0.60686606, u'nematode', 0.01326484, u'dishwasher', 0.012050392, u'sax', 0.011336457, u'bannister', 0.011106546]

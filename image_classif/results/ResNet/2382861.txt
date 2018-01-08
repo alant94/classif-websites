@@ -1,0 +1,3 @@
+[u'panpipe', 0.99895632, u'marimba', 0.00045280482, u'picket_fence', 9.6586613e-05, u'coil', 9.0762675e-05, u'pencil_sharpener', 6.9868322e-05]
+[u'panpipe', 0.99660432, u'coil', 0.001042707, u'marimba', 0.00092657359, u'picket_fence', 0.00025106722, u'bannister', 0.00016316764]
+[u'tennis_ball', 0.23964351, u'toilet_seat', 0.108077, u'pick', 0.064331256, u'Granny_Smith', 0.044725891, u'bottlecap', 0.042972539]

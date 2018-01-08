@@ -1,0 +1,1 @@
+[u'skunk', 0.90598065, u'badger', 0.066138141, u'tow_truck', 0.0054029636, u'half_track', 0.0044143023, u'beach_wagon', 0.002570166]

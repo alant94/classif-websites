@@ -1,0 +1,6 @@
+[u'canoe', 0.78878778, u'paddle', 0.075993218, u'bucket', 0.037852857, u'web_site', 0.024269626, u'seashore', 0.015720898]
+[u'ibex', 0.42705327, u'gazelle', 0.20559669, u'hartebeest', 0.075971745, u'wallaby', 0.043483101, u'hook', 0.02973491]
+[u'web_site', 0.41471419, u'comic_book', 0.27990967, u'book_jacket', 0.27595824, u'menu', 0.015920058, u'jigsaw_puzzle', 0.002257392]
+[u'web_site', 0.2574802, u'crane', 0.096945927, u'fountain', 0.075703368, u'bannister', 0.040609431, u'barn', 0.038309816]
+[u'web_site', 0.3289237, u'book_jacket', 0.15526724, u'street_sign', 0.041663721, u'Band_Aid', 0.023905391, u'sunscreen', 0.015042617]
+[u'web_site', 0.48316503, u'comic_book', 0.071930267, u'fountain', 0.031480696, u'chain', 0.028856838, u'television', 0.02503987]

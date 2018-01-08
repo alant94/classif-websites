@@ -1,0 +1,2 @@
+[u'canoe', 0.40488288, u'paddle', 0.092588276, u'lakeside', 0.079235367, u'mountain_bike', 0.067559816, u'valley', 0.055181898]
+[u'gong', 0.39649248, u'ocarina', 0.051486328, u'chime', 0.048504531, u'loupe', 0.027386565, u'cassette_player', 0.025548542]

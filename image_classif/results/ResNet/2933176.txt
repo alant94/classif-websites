@@ -1,0 +1,7 @@
+[u'iron', 0.50217628, u'spotlight', 0.089515895, u'cloak', 0.0313606, u'web_site', 0.029882045, u'perfume', 0.029307889]
+[u'flute', 0.29699147, u'oboe', 0.28772199, u'cornet', 0.15749814, u'bassoon', 0.088697538, u'electric_guitar', 0.027253248]
+[u'web_site', 0.17728101, u'whistle', 0.068547368, u'bolo_tie', 0.028512118, u'oscilloscope', 0.021865118, u'envelope', 0.021355618]
+[u'Band_Aid', 0.28698683, u'bathing_cap', 0.24243559, u'mouse', 0.06544815, u'toilet_seat', 0.050276741, u'web_site', 0.027838102]
+[u'pole', 0.49286872, u'flagpole', 0.15340419, u'crane', 0.017389428, u'beacon', 0.016447127, u'pedestal', 0.014142927]
+[u'web_site', 0.12292589, u'envelope', 0.1078755, u'hook', 0.068931997, u'bell_cote', 0.053963967, u'can_opener', 0.039306149]
+[u'American_egret', 0.12522542, u'fountain', 0.094733037, u'albatross', 0.061196975, u'beacon', 0.05721404, u'pedestal', 0.051571347]

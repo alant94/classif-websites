@@ -1,0 +1,3 @@
+[u'panpipe', 0.87345737, u'church', 0.042900592, u'pencil_sharpener', 0.019867258, u'web_site', 0.013125835, u'digital_clock', 0.0042708302]
+[u'water_buffalo', 0.088249721, u'warthog', 0.085798241, u'timber_wolf', 0.081261508, u'wild_boar', 0.046265591, u'coyote', 0.039718095]
+[u'drum', 0.10634223, u'web_site', 0.066599935, u'pick', 0.061411079, u'rugby_ball', 0.058432199, u'remote_control', 0.044863068]

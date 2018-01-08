@@ -1,0 +1,4 @@
+[u'web_site', 0.98668379, u'menu', 0.004636324, u'monitor', 0.0013893845, u'packet', 0.0011878154, u'slot', 0.0011129124]
+[u'Arabian_camel', 0.402354, u'bikini', 0.18005525, u'dogsled', 0.069516659, u'fountain', 0.060097203, u'mountain_bike', 0.023854775]
+[u'mountain_bike', 0.13579573, u'bicycle-built-for-two', 0.063397951, u'valley', 0.051998835, u'lakeside', 0.049301773, u'fountain', 0.048028544]
+[u'book_jacket', 0.085032545, u'rule', 0.076733701, u'screwdriver', 0.058316108, u'binder', 0.054706737, u'nail', 0.04987232]

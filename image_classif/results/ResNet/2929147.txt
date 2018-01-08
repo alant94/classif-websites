@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.14966875, u'radiator', 0.071753494, u'miniskirt', 0.068660162, u'picket_fence', 0.061485499, u'jean', 0.055926595]

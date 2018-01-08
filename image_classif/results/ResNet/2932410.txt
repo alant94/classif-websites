@@ -1,0 +1,8 @@
+[u'web_site', 0.40368381, u'jigsaw_puzzle', 0.11906736, u'bib', 0.05960032, u'comic_book', 0.051412702, u'pitcher', 0.038764268]
+[u'ballplayer', 0.17830314, u'gar', 0.17441361, u'assault_rifle', 0.14773816, u'bulletproof_vest', 0.057264831, u'rifle', 0.051155884]
+[u'street_sign', 0.61175138, u'tray', 0.17873579, u'traffic_light', 0.05412944, u'laptop', 0.02297125, u'ashcan', 0.022573998]
+[u'web_site', 0.076956965, u'crossword_puzzle', 0.040257167, u'lighter', 0.024834953, u'comic_book', 0.023189766, u'oil_filter', 0.022311004]
+[u'web_site', 0.44334829, u'nail', 0.058394168, u'crossword_puzzle', 0.04833306, u'whistle', 0.019953316, u'dining_table', 0.015059451]
+[u'hook', 0.10132563, u'power_drill', 0.091736101, u'whistle', 0.075768732, u'web_site', 0.058668651, u'stopwatch', 0.055727847]
+[u'nail', 0.071941458, u'power_drill', 0.066928141, u'rifle', 0.066284709, u'oboe', 0.037282825, u'sunglass', 0.034508508]
+[u'street_sign', 0.27887836, u'folding_chair', 0.15601525, u'traffic_light', 0.065868072, u'digital_watch', 0.063318491, u'ambulance', 0.055402029]

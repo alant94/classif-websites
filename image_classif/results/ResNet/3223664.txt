@@ -1,0 +1,3 @@
+[u'tank', 0.61403388, u'web_site', 0.30408072, u'half_track', 0.018215375, u'aircraft_carrier', 0.013284955, u'amphibian', 0.010888147]
+[u'window_screen', 0.38581663, u'handkerchief', 0.122413, u'solar_dish', 0.041702304, u'window_shade', 0.026032802, u'greenhouse', 0.023928532]
+[u'thatch', 0.34868544, u'bell_cote', 0.25456759, u'church', 0.19451737, u'boathouse', 0.09527567, u'barn', 0.032403521]

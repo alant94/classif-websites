@@ -1,0 +1,5 @@
+[u'packet', 0.13292646, u'jersey', 0.043432463, u'street_sign', 0.035760079, u'scoreboard', 0.033551797, u'bow', 0.028778732]
+[u'street_sign', 0.12915187, u'scale', 0.092286415, u'shield', 0.069112048, u'folding_chair', 0.051489357, u'hook', 0.047092874]
+[u'altar', 0.35745007, u'throne', 0.1878558, u'shoe_shop', 0.045170758, u'cuirass', 0.043634813, u'vestment', 0.034934346]
+[u'ibex', 0.61609131, u'gazelle', 0.23660693, u'hartebeest', 0.054225523, u'impala', 0.052220337, u'Chihuahua', 0.0090949116]
+[u'zebra', 0.96562761, u'lighter', 0.0081990445, u'shield', 0.0032395099, u'throne', 0.0019610936, u'tiger_cat', 0.0013042513]

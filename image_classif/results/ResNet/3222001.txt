@@ -1,0 +1,5 @@
+[u'rubber_eraser', 0.13450095, u'ballpoint', 0.082309164, u'face_powder', 0.080672525, u'lipstick', 0.054200549, u'book_jacket', 0.05076959]
+[u'microwave', 0.12022332, u'screen', 0.056161512, u'dishwasher', 0.041287456, u'envelope', 0.039021738, u'binder', 0.032784391]
+[u'dishwasher', 0.14026406, u'safe', 0.10961109, u'book_jacket', 0.065332316, u'microwave', 0.057722989, u'photocopier', 0.030212181]
+[u'digital_clock', 0.08627075, u'book_jacket', 0.067161679, u'digital_watch', 0.063949861, u'space_bar', 0.061348289, u'oscilloscope', 0.0399011]
+[u'safe', 0.22423826, u'binder', 0.060258936, u'modem', 0.056338586, u'digital_clock', 0.045128133, u'microwave', 0.044283371]

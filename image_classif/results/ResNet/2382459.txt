@@ -1,0 +1,2 @@
+[u'balloon', 0.94494271, u'airship', 0.019661942, u'parachute', 0.0049966136, u'basketball', 0.0045893192, u'picket_fence', 0.0027628061]
+[u'fig', 0.15905425, u'broccoli', 0.079937011, u'solar_dish', 0.034587368, u'fountain', 0.032502174, u'maze', 0.027740121]

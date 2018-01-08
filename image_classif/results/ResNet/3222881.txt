@@ -1,0 +1,1 @@
+[u'cardoon', 0.61209029, u'bee', 0.21464907, u'cabbage_butterfly', 0.056138441, u'monarch', 0.046794526, u'admiral', 0.017846894]

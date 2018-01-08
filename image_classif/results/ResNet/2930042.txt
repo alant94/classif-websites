@@ -1,0 +1,2 @@
+[u'suit', 0.47023064, u'Windsor_tie', 0.30406326, u'bow_tie', 0.023777541, u'mortarboard', 0.023445992, u'notebook', 0.010403581]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

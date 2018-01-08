@@ -1,0 +1,4 @@
+[u'crossword_puzzle', 0.59128726, u'digital_clock', 0.14079599, u'shower_curtain', 0.038793895, u'prayer_rug', 0.035765853, u'dining_table', 0.018240985]
+[u'pick', 0.19493793, u'jersey', 0.17673731, u'sweatshirt', 0.096420087, u'puck', 0.052543469, u'bolo_tie', 0.033394966]
+[u'handkerchief', 0.13004158, u'jersey', 0.089004271, u'web_site', 0.081543066, u'beer_glass', 0.0514962, u'safety_pin', 0.041391086]
+[u'pick', 0.042282503, u'web_site', 0.037895862, u'power_drill', 0.03759348, u'bassoon', 0.028594933, u'stopwatch', 0.02300192]

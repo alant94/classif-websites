@@ -1,0 +1,3 @@
+[u'digital_clock', 0.85122889, u'digital_watch', 0.070276432, u'analog_clock', 0.027018223, u'stopwatch', 0.011025862, u'web_site', 0.005683064]
+[u'digital_clock', 0.15134265, u'medicine_chest', 0.073586799, u'prayer_rug', 0.067741022, u'analog_clock', 0.054393481, u'web_site', 0.035973694]
+[u'digital_clock', 0.31483021, u'book_jacket', 0.16054671, u'digital_watch', 0.11405386, u'scoreboard', 0.1019925, u'shopping_basket', 0.072936915]

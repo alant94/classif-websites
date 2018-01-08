@@ -1,0 +1,4 @@
+[u'coho', 0.89920986, u'tench', 0.0092460662, u'barracouta', 0.008772959, u'valley', 0.0079937531, u'gar', 0.0025605245]
+[u'ski', 0.37413311, u'screwdriver', 0.090731069, u'lighter', 0.044980206, u'whistle', 0.038980581, u'chime', 0.028566165]
+[u'book_jacket', 0.11217403, u'lipstick', 0.091431662, u'harmonica', 0.0807226, u'lighter', 0.065546572, u'binder', 0.057078693]
+[u'stretcher', 0.16273695, u'lakeside', 0.058931123, u'hog', 0.057858881, u'military_uniform', 0.057161547, u'cliff', 0.03225683]

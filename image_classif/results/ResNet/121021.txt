@@ -1,0 +1,1 @@
+[u'soap_dispenser', 0.41125014, u'television', 0.10776511, u'comic_book', 0.094821543, u'mask', 0.093593314, u'thimble', 0.058273908]

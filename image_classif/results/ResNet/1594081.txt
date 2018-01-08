@@ -1,0 +1,8 @@
+[u'sleeping_bag', 0.14819646, u'park_bench', 0.13122581, u'suit', 0.076421492, u'umbrella', 0.041406333, u'mortarboard', 0.036881346]
+[u'bannister', 0.33023608, u'gondola', 0.07683558, u'bookcase', 0.042361863, u'library', 0.029016521, u'four-poster', 0.027818333]
+[u'Polaroid_camera', 0.15136379, u'jeep', 0.086098291, u'miniskirt', 0.06791652, u'dishwasher', 0.056997005, u'jinrikisha', 0.044951856]
+[u'airship', 0.4536435, u'fireboat', 0.1629588, u'liner', 0.031290002, u'bell_cote', 0.026239838, u'balloon', 0.024683522]
+[u'bikini', 0.65305948, u'diaper', 0.085456647, u'groom', 0.076413654, u'maillot', 0.027546454, u'gown', 0.02105012]
+[u'diaper', 0.95827752, u'teddy', 0.012101281, u'Christmas_stocking', 0.0073780809, u'brassiere', 0.0071760989, u'cradle', 0.0053405035]
+[u'brassiere', 0.36382031, u'toyshop', 0.1332019, u'maillot', 0.05787668, u'bikini', 0.04662263, u'bearskin', 0.033915807]
+[u'bikini', 0.8991285, u'diaper', 0.038035005, u'maillot', 0.015984444, u'sunscreen', 0.015779745, u'brassiere', 0.0056078313]

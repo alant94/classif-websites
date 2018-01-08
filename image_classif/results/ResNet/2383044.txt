@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.40050143, u'traffic_light', 0.12058906, u'digital_clock', 0.10232806, u'street_sign', 0.095290042, u'shield', 0.070657723]
+[u'prayer_rug', 0.1936556, u'tray', 0.13016887, u'shower_curtain', 0.094861344, u'wool', 0.065285847, u'wall_clock', 0.032263573]
+[u'picket_fence', 0.14601208, u'corn', 0.058679208, u'ear', 0.052327897, u'wig', 0.039034672, u'sarong', 0.03532283]

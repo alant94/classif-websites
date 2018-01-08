@@ -1,0 +1,7 @@
+[u'stopwatch', 0.22613432, u'web_site', 0.10405428, u'analog_clock', 0.084924437, u'nematode', 0.063523024, u'book_jacket', 0.05841421]
+[u"jack-o'-lantern", 0.78045326, u'chain_saw', 0.018792473, u'gasmask', 0.018113747, u'book_jacket', 0.011327919, u'cassette', 0.009763265]
+[u'digital_clock', 0.53510106, u'analog_clock', 0.22164616, u'traffic_light', 0.061887763, u'digital_watch', 0.042018808, u'bell_cote', 0.019209802]
+[u'fountain', 0.33690813, u'bubble', 0.1072221, u'comic_book', 0.033335492, u'brassiere', 0.032015901, u'padlock', 0.016906273]
+[u'analog_clock', 0.48430845, u'digital_clock', 0.090162836, u'digital_watch', 0.063385226, u'web_site', 0.035713337, u'traffic_light', 0.031553753]
+[u'nematode', 0.45312926, u'cassette', 0.20635566, u'coil', 0.054476906, u'loupe', 0.038889252, u'bib', 0.030167663]
+[u'Band_Aid', 0.22072695, u'sunscreen', 0.14962091, u'nipple', 0.051337786, u'whistle', 0.034035087, u'neck_brace', 0.031324986]

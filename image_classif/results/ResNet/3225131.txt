@@ -1,0 +1,8 @@
+[u'digital_clock', 0.79529637, u'digital_watch', 0.079336576, u'stopwatch', 0.040065348, u'CD_player', 0.014236342, u'analog_clock', 0.0080776727]
+[u'analog_clock', 0.064128883, u'microwave', 0.06202998, u'oscilloscope', 0.044489566, u'screen', 0.044305999, u'digital_clock', 0.032212373]
+[u'book_jacket', 0.24327216, u'prison', 0.17845437, u'theater_curtain', 0.05709663, u"potter's_wheel", 0.033988364, u'hook', 0.027197642]
+[u'book_jacket', 0.076573141, u'analog_clock', 0.070055991, u'street_sign', 0.067334898, u'remote_control', 0.035931814, u'stopwatch', 0.026683765]
+[u'digital_clock', 0.31936342, u'rule', 0.097147636, u'analog_clock', 0.051427945, u'modem', 0.049935218, u'digital_watch', 0.042600594]
+[u'digital_watch', 0.32622474, u'screwdriver', 0.15906887, u'cornet', 0.038061395, u'picket_fence', 0.025530826, u'syringe', 0.025388377]
+[u'bannister', 0.20807327, u'shoji', 0.19581454, u'web_site', 0.16922046, u'barn', 0.035239622, u'plate_rack', 0.020318998]
+[u'book_jacket', 0.65210283, u'menu', 0.22292389, u'binder', 0.03232152, u'tray', 0.02335348, u'laptop', 0.0093251429]

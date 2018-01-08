@@ -1,0 +1,7 @@
+[u'digital_clock', 0.99438393, u'digital_watch', 0.003385267, u'stopwatch', 0.0014690653, u'scoreboard', 0.00027907657, u'analog_clock', 0.00016329283]
+[u'screen', 0.25903356, u'laptop', 0.15609875, u'web_site', 0.11381483, u'monitor', 0.10319368, u'envelope', 0.068190396]
+[u'window_screen', 0.16890064, u'greenhouse', 0.079039894, u'stupa', 0.047979224, u'pier', 0.03710584, u'steel_arch_bridge', 0.034579813]
+[u'Yorkshire_terrier', 0.070556946, u'Lhasa', 0.066140704, u'hog', 0.04750045, u'Angora', 0.044622649, u'Pomeranian', 0.041946758]
+[u'window_screen', 0.14288732, u'bathing_cap', 0.12434391, u'brassiere', 0.074023709, u'shower_cap', 0.054318544, u'sunglasses', 0.050633393]
+[u'ski', 0.35291699, u'crane', 0.20340361, u'tricycle', 0.081188478, u'parachute', 0.038548697, u'magpie', 0.035813581]
+[u'web_site', 0.31896815, u'rubber_eraser', 0.09645199, u'envelope', 0.051103622, u'packet', 0.026704825, u'laptop', 0.02519455]

@@ -1,0 +1,3 @@
+[u'toilet_tissue', 0.23048094, u'envelope', 0.15707065, u'paper_towel', 0.10287838, u'rubber_eraser', 0.050278407, u'magpie', 0.047404524]
+[u'jean', 0.67057073, u'chainlink_fence', 0.15906397, u'chain_mail', 0.038351383, u'fountain', 0.036285814, u'wool', 0.030537048]
+[u'fountain', 0.98865986, u'water_bottle', 0.0060575493, u'killer_whale', 0.001445689, u'crane', 0.0010819896, u'king_penguin', 0.00062521873]

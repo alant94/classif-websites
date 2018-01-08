@@ -1,0 +1,4 @@
+[u'wooden_spoon', 0.40732923, u'vault', 0.27775216, u'mosque', 0.049446274, u'church', 0.029100582, u'palace', 0.026334526]
+[u'fountain', 0.19502914, u'viaduct', 0.16512933, u'barn', 0.14321451, u'megalith', 0.10165865, u'hay', 0.062960044]
+[u'shower_curtain', 0.87758964, u'brain_coral', 0.048844356, u'chain_mail', 0.012432886, u'bustard', 0.010453527, u'spider_web', 0.0089731868]
+[u'window_screen', 0.73788875, u'fountain', 0.13153003, u'spider_web', 0.073750705, u'chainlink_fence', 0.039323054, u'shower_curtain', 0.011599678]

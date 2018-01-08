@@ -1,0 +1,8 @@
+[u'envelope', 0.10605261, u'web_site', 0.094711579, u'digital_clock', 0.087881975, u'Band_Aid', 0.066663727, u'whistle', 0.05503412]
+[u'violin', 0.95140219, u'cello', 0.042878576, u'acoustic_guitar', 0.0012188567, u'banjo', 0.00095036963, u'electric_guitar', 0.0007111216]
+[u'web_site', 0.72185719, u'television', 0.028777054, u'loupe', 0.012469706, u'laptop', 0.012446872, u'lab_coat', 0.010202317]
+[u'crossword_puzzle', 0.15001731, u'street_sign', 0.051288404, u'oil_filter', 0.039890021, u'gas_pump', 0.039072763, u'laptop', 0.038432509]
+[u'oboe', 0.97694576, u'bassoon', 0.020391166, u'flute', 0.00099850411, u'cornet', 0.00073967106, u'sax', 0.000553108]
+[u'candle', 0.40666029, u'table_lamp', 0.2900002, u'lampshade', 0.060085163, u'spotlight', 0.040737584, u'beaker', 0.024154825]
+[u'web_site', 0.15692218, u'groom', 0.14908956, u'ocarina', 0.12929022, u'drum', 0.064401925, u'whistle', 0.057966046]
+[u'oboe', 0.78357732, u'banjo', 0.081106901, u'sax', 0.076551951, u'bassoon', 0.022693679, u'drum', 0.013592173]

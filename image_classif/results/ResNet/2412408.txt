@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.52387637, u'rule', 0.11453763, u'syringe', 0.084099345, u'bookcase', 0.074962318, u'hair_spray', 0.046902929]
+[u"carpenter's_kit", 0.20717092, u'screwdriver', 0.17338161, u'syringe', 0.13025448, u'rule', 0.11757101, u'ballpoint', 0.079232179]
+[u'drumstick', 0.43514287, u'pole', 0.08496052, u'tobacco_shop', 0.066120081, u'pencil_sharpener', 0.06596759, u'street_sign', 0.036356766]
+[u'barber_chair', 0.50898516, u'barbershop', 0.40957788, u'shoe_shop', 0.041970536, u'cowboy_boot', 0.0059865676, u"potter's_wheel", 0.0057632024]
+[u'projectile', 0.43116105, u'fountain_pen', 0.16644663, u'rubber_eraser', 0.10095055, u'paintbrush', 0.097695813, u'missile', 0.041487154]
+[u'traffic_light', 0.49864826, u'digital_clock', 0.24651685, u'oscilloscope', 0.057952292, u'analog_clock', 0.055087078, u'theater_curtain', 0.022795135]
+[u'oil_filter', 0.46819571, u'vending_machine', 0.11017184, u'thimble', 0.084734954, u'gas_pump', 0.072542585, u'combination_lock', 0.061438341]

@@ -1,0 +1,2 @@
+[u'web_site', 0.5695613, u'monitor', 0.13081495, u'screen', 0.12802981, u'television', 0.11732765, u'book_jacket', 0.0071053361]
+[u'analog_clock', 0.5444932, u'web_site', 0.22078817, u'wall_clock', 0.16692321, u'packet', 0.013950528, u'slot', 0.011000984]

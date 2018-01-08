@@ -1,0 +1,2 @@
+[u'dishwasher', 0.14796194, u'refrigerator', 0.091781855, u'notebook', 0.038524222, u'binder', 0.038300563, u'modem', 0.037659079]
+[u'comic_book', 0.90994358, u'book_jacket', 0.057035942, u'buckle', 0.005567776, u'puck', 0.003002095, u'packet', 0.0029375998]

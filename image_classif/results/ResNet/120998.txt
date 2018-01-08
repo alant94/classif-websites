@@ -1,0 +1,2 @@
+[u'whistle', 0.26742166, u'digital_clock', 0.23651995, u'ambulance', 0.10437187, u'picket_fence', 0.078446418, u'digital_watch', 0.032513075]
+[u'carton', 0.19694504, u'binder', 0.19448356, u'envelope', 0.11772436, u'jigsaw_puzzle', 0.063300967, u'refrigerator', 0.058050297]

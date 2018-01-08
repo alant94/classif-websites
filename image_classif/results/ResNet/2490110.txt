@@ -1,0 +1,6 @@
+[u'beacon', 0.29674464, u'seashore', 0.18895328, u'lakeside', 0.15729943, u'promontory', 0.09045282, u'sandbar', 0.085281298]
+[u'street_sign', 0.33760771, u'digital_clock', 0.16347469, u'sunscreen', 0.064309679, u'remote_control', 0.035250895, u'laptop', 0.034085251]
+[u'Irish_wolfhound', 0.17085855, u'Arabian_camel', 0.15133519, u'Bouvier_des_Flandres', 0.096884452, u'Old_English_sheepdog', 0.069104694, u'tractor', 0.048815664]
+[u'mobile_home', 0.88139945, u'patio', 0.092645079, u'lawn_mower', 0.0068126353, u'picket_fence', 0.0039110216, u'sliding_door', 0.0032085152]
+[u'snowmobile', 0.28078923, u'canoe', 0.060335945, u'chain_saw', 0.057366554, u'paddle', 0.04184689, u'assault_rifle', 0.039201688]
+[u'Band_Aid', 0.4831298, u'lighter', 0.11840034, u'beaker', 0.03184595, u'shield', 0.031487558, u'wall_clock', 0.018107029]

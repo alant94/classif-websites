@@ -1,0 +1,3 @@
+[u'rotisserie', 0.24671102, u'book_jacket', 0.19599187, u'mortar', 0.064381868, u'comic_book', 0.059170224, u'tobacco_shop', 0.034991212]
+[u'binder', 0.99146855, u'rule', 0.0033761759, u'library', 0.0032948607, u'envelope', 0.00059242343, u'ballpoint', 0.00042667933]
+[u'suit', 0.23472612, u'oboe', 0.097698793, u'Windsor_tie', 0.066209123, u"potter's_wheel", 0.03621491, u'Sussex_spaniel', 0.024731163]

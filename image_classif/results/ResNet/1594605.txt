@@ -1,0 +1,1 @@
+[u'digital_clock', 0.40182927, u'analog_clock', 0.12697057, u'web_site', 0.099784024, u'crossword_puzzle', 0.038772132, u'shoji', 0.032208633]

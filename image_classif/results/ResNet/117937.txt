@@ -1,0 +1,3 @@
+[u'web_site', 0.99145222, u'military_uniform', 0.0014603641, u'mortarboard', 0.0012152687, u'academic_gown', 0.0010878078, u'cinema', 0.00066049141]
+[u'web_site', 0.97895229, u'television', 0.019199427, u'screen', 0.00065276644, u'monitor', 0.00043064408, u'bobsled', 0.00014609413]
+[u'traffic_light', 0.12497736, u'bow', 0.080412976, u'crane', 0.074257508, u'analog_clock', 0.067750655, u'street_sign', 0.051932752]

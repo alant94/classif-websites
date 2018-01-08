@@ -1,0 +1,4 @@
+[u'web_site', 0.43754891, u'monitor', 0.20039079, u'screen', 0.083568059, u'remote_control', 0.03521413, u'microwave', 0.029279361]
+[u'prayer_rug', 0.33231032, u'screen', 0.076884627, u'shield', 0.075522691, u'web_site', 0.065242611, u'hair_spray', 0.038789]
+[u'prayer_rug', 0.20818673, u'shield', 0.097055621, u'screen', 0.07149379, u'picket_fence', 0.037814643, u'web_site', 0.036286604]
+[u'digital_clock', 0.80660266, u'digital_watch', 0.070807375, u'prayer_rug', 0.030494271, u'screen', 0.018397966, u'crossword_puzzle', 0.014496724]

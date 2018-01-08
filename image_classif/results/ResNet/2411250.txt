@@ -1,0 +1,1 @@
+[u'envelope', 0.069480561, u'nematode', 0.039280765, u'binder', 0.032679699, u'dishwasher', 0.026850034, u'fire_screen', 0.02418397]

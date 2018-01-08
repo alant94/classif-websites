@@ -1,0 +1,6 @@
+[u'modem', 0.40246063, u'hard_disc', 0.38873944, u'switch', 0.12518488, u'oscilloscope', 0.037599791, u'remote_control', 0.01453387]
+[u'steel_drum', 0.20424499, u'flagpole', 0.074832469, u'pole', 0.055892508, u'golfcart', 0.04972963, u'crutch', 0.036038972]
+[u'envelope', 0.1431917, u'puck', 0.080454014, u'gong', 0.054742802, u'drum', 0.054274254, u'pick', 0.037745759]
+[u'modem', 0.74806947, u'hard_disc', 0.20517461, u'switch', 0.045073204, u'purse', 0.00038041506, u'packet', 0.00027285924]
+[u'hard_disc', 0.5918926, u'switch', 0.27396792, u'modem', 0.094557516, u'oscilloscope', 0.0084737251, u'radio', 0.0076642404]
+[u'switch', 0.54163647, u'modem', 0.152981, u'oscilloscope', 0.082996204, u'hard_disc', 0.059533466, u'radio', 0.05708066]

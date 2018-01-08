@@ -1,0 +1,1 @@
+[u'screwdriver', 0.2094408, u"carpenter's_kit", 0.093356125, u'power_drill', 0.069098756, u'nail', 0.056355391, u'hammer', 0.032967988]

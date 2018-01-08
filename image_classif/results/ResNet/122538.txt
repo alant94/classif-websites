@@ -1,0 +1,1 @@
+[u'hook', 0.11674125, u'corkscrew', 0.086898975, u'safety_pin', 0.072213508, u'strainer', 0.048156504, u'can_opener', 0.043667097]

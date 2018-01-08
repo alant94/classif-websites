@@ -1,0 +1,3 @@
+[u'web_site', 0.81822753, u'book_jacket', 0.024127126, u'packet', 0.011971676, u'screwdriver', 0.010926062, u'envelope', 0.0068669408]
+[u'lab_coat', 0.88170487, u'Windsor_tie', 0.038746022, u'stethoscope', 0.02466408, u'bow_tie', 0.0047024093, u'bulletproof_vest', 0.0042623896]
+[u'lotion', 0.16773702, u'sunscreen', 0.12945084, u'oil_filter', 0.10236841, u'pill_bottle', 0.052382741, u'face_powder', 0.043077242]

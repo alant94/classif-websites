@@ -1,0 +1,6 @@
+[u'window_screen', 0.28962317, u'hog', 0.023467634, u'neck_brace', 0.018736187, u'parallel_bars', 0.017950231, u'fire_screen', 0.013799587]
+[u'web_site', 0.30711299, u'bow', 0.090740487, u'monitor', 0.058373306, u'envelope', 0.051036462, u'screen', 0.038515951]
+[u'sewing_machine', 0.17536229, u'beaker', 0.13861626, u'hook', 0.072491296, u'folding_chair', 0.05381868, u'mailbag', 0.034321304]
+[u'iPod', 0.22167416, u'mouse', 0.20837294, u'screen', 0.17308775, u'nipple', 0.15168521, u'switch', 0.036956511]
+[u'snowplow', 0.21985194, u'harvester', 0.17728704, u'tow_truck', 0.099243805, u'tractor', 0.078679651, u'freight_car', 0.053691048]
+[u'binder', 0.14888464, u'screw', 0.091249183, u'Windsor_tie', 0.074127033, u'scoreboard', 0.072895788, u'breastplate', 0.025475398]

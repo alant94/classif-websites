@@ -1,0 +1,2 @@
+[u'lighter', 0.42730731, u'hair_spray', 0.26865306, u'oil_filter', 0.11816591, u'cocktail_shaker', 0.090131789, u'lotion', 0.021776186]
+[u'web_site', 0.57038379, u'paintbrush', 0.016278144, u'envelope', 0.012672838, u'abaya', 0.012545212, u'maillot', 0.0085584372]

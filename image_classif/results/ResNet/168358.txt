@@ -1,0 +1,4 @@
+[u'web_site', 0.57159036, u'radio', 0.088662595, u'hand-held_computer', 0.058684662, u'CD_player', 0.03193482, u'oscilloscope', 0.022677965]
+[u'plunger', 0.17414683, u'lab_coat', 0.050898768, u'brassiere', 0.041746896, u'torch', 0.040268712, u'vestment', 0.038737845]
+[u'miniature_pinscher', 0.36673591, u'kelpie', 0.1023315, u'Gordon_setter', 0.097641863, u'Rottweiler', 0.071742177, u'Yorkshire_terrier', 0.065741278]
+[u'gibbon', 0.26956242, u'prison', 0.14174508, u'skunk', 0.13924681, u'papillon', 0.075293601, u'guillotine', 0.060289815]

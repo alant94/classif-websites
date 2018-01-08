@@ -1,0 +1,4 @@
+[u'envelope', 0.18653393, u'switch', 0.09405984, u'binder', 0.050472248, u'medicine_chest', 0.045350984, u'paper_towel', 0.044699393]
+[u'shield', 0.24167228, u'wall_clock', 0.15423374, u'bolo_tie', 0.054529689, u'analog_clock', 0.043841586, u'drum', 0.043371312]
+[u'starfish', 0.33563033, u'web_site', 0.17091765, u'hair_slide', 0.10625247, u'screw', 0.023307506, u'maraca', 0.022706699]
+[u'lab_coat', 0.52588344, u'stethoscope', 0.10931827, u'hand-held_computer', 0.066316895, u'screen', 0.057100087, u'web_site', 0.046011787]

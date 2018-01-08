@@ -1,0 +1,3 @@
+[u'fire_screen', 0.24368343, u'binder', 0.10390374, u'fountain', 0.064385757, u'shower_curtain', 0.047285035, u'cowboy_boot', 0.039031666]
+[u'barn', 0.12358078, u'digital_clock', 0.10046989, u'theater_curtain', 0.070086464, u'spotlight', 0.0458019, u'red_wine', 0.039475668]
+[u'comic_book', 0.67374671, u'book_jacket', 0.30315509, u'hair_spray', 0.0019171686, u'street_sign', 0.0014452143, u'packet', 0.0013419039]

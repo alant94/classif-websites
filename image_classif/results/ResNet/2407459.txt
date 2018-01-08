@@ -1,0 +1,5 @@
+[u'studio_couch', 0.54502994, u'four-poster', 0.14048156, u'quilt', 0.10629367, u'space_bar', 0.042397194, u'wardrobe', 0.023622684]
+[u'window_shade', 0.39659107, u'shower_curtain', 0.22757331, u'crib', 0.052305032, u'studio_couch', 0.042746101, u'radiator', 0.035176877]
+[u'studio_couch', 0.83516401, u'four-poster', 0.088945866, u'quilt', 0.05068012, u'cinema', 0.0047396799, u'wardrobe', 0.0046498994]
+[u'guillotine', 0.35939202, u'loupe', 0.070654079, u'paper_towel', 0.068523563, u'modem', 0.037482984, u'carton', 0.019603947]
+[u'four-poster', 0.36747715, u'crib', 0.19502778, u'studio_couch', 0.13005659, u'quilt', 0.090313286, u'mosquito_net', 0.046429567]

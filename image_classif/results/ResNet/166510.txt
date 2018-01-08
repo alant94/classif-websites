@@ -1,0 +1,4 @@
+[u'drum', 0.23965846, u'wall_clock', 0.14811555, u'banjo', 0.13526313, u'gong', 0.090676457, u'violin', 0.061819337]
+[u'bassoon', 0.25045192, u'rifle', 0.072873987, u'marimba', 0.064139023, u'harmonica', 0.062392879, u'assault_rifle', 0.05045668]
+[u'library', 0.17225952, u'restaurant', 0.072887048, u'prison', 0.072475538, u'cinema', 0.056402732, u'toyshop', 0.042472173]
+[u'acoustic_guitar', 0.75744832, u'electric_guitar', 0.14497255, u'violin', 0.033006988, u'cello', 0.018644203, u'banjo', 0.017995426]

@@ -1,0 +1,3 @@
+[u'web_site', 0.79171228, u'envelope', 0.041197553, u'nematode', 0.0062805288, u'dishwasher', 0.0052861311, u'binder', 0.0046099224]
+[u'bell_cote', 0.84281904, u'church', 0.10282924, u'vault', 0.021069821, u'monastery', 0.0065334537, u'triumphal_arch', 0.004727894]
+[u'coil', 0.3060647, u'nematode', 0.15408801, u'safety_pin', 0.065563075, u'guillotine', 0.04062422, u'triumphal_arch', 0.039366532]

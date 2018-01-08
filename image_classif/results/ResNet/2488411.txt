@@ -1,0 +1,1 @@
+[u'Arabian_camel', 0.25791827, u'hay', 0.10384451, u'Indian_elephant', 0.1020812, u'plow', 0.086682215, u'hartebeest', 0.06628003]

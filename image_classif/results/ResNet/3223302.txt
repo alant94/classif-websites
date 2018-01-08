@@ -1,0 +1,4 @@
+[u'web_site', 0.17632695, u'cassette_player', 0.10363463, u'loudspeaker', 0.066872887, u'cassette', 0.048168618, u'CD_player', 0.035614215]
+[u'barn', 0.094940029, u'alp', 0.087648645, u'boathouse', 0.062427294, u'church', 0.058013398, u'street_sign', 0.055175517]
+[u'altar', 0.32880241, u'wall_clock', 0.19050051, u'desk', 0.077015936, u'entertainment_center', 0.045038432, u'turnstile', 0.041601181]
+[u'rule', 0.32471716, u'measuring_cup', 0.20300254, u'scale', 0.07571549, u'beaker', 0.075323559, u'web_site', 0.036219824]

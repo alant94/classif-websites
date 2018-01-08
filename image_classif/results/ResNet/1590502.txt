@@ -1,0 +1,1 @@
+[u'tub', 0.4257544, u'bathtub', 0.25417259, u'bikini', 0.06805025, u'swimming_trunks', 0.064630538, u'stingray', 0.021150257]

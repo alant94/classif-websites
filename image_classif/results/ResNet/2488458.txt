@@ -1,0 +1,6 @@
+[u'steam_locomotive', 0.6781444, u'tractor', 0.051611885, u'thresher', 0.038314845, u'ashcan', 0.038189903, u'electric_locomotive', 0.026663277]
+[u'thresher', 0.18860801, u'harvester', 0.10140463, u'flagpole', 0.087143734, u'lifeboat', 0.076544009, u'ski', 0.067036256]
+[u'plow', 0.13193572, u'poncho', 0.10702286, u'swab', 0.071775384, u'panpipe', 0.059898846, u'picket_fence', 0.048063654]
+[u'paper_towel', 0.24632542, u'tray', 0.2333526, u'weevil', 0.063973561, u'handkerchief', 0.033939231, u'scorpion', 0.032278877]
+[u'cock', 0.63995171, u'hen', 0.30894852, u'partridge', 0.015982589, u'ruffed_grouse', 0.0082075633, u'crane', 0.0021582588]
+[u'Labrador_retriever', 0.40919515, u'flat-coated_retriever', 0.32795668, u'curly-coated_retriever', 0.20330888, u'Great_Dane', 0.011738512, u'Chesapeake_Bay_retriever', 0.0082816593]

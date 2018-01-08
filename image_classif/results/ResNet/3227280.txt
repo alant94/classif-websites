@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.26248708, u'menu', 0.13609043, u'comic_book', 0.03201656, u'Sussex_spaniel', 0.02107027, u'hard_disc', 0.019234069]
+[u'web_site', 0.20374444, u'oscilloscope', 0.18945259, u'book_jacket', 0.12473619, u'barbershop', 0.075098313, u'bookshop', 0.030281628]
+[u'perfume', 0.49427438, u'wine_bottle', 0.21645205, u'red_wine', 0.078445345, u'book_jacket', 0.028677301, u'padlock', 0.025138671]
+[u'grocery_store', 0.24554256, u'butcher_shop', 0.17511874, u'shopping_basket', 0.04600583, u'hamper', 0.04565765, u'sarong', 0.044636119]
+[u'sandal', 0.098026022, u'coffee_mug', 0.072511077, u'hook', 0.048926964, u'pitcher', 0.043436997, u'mailbag', 0.039589383]

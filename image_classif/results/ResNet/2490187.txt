@@ -1,0 +1,2 @@
+[u'street_sign', 0.11214821, u'chain_saw', 0.094962984, u'traffic_light', 0.044149656, u'rifle', 0.042178206, u'assault_rifle', 0.042039197]
+[u'mountain_bike', 0.27050987, u'disk_brake', 0.16506599, u'bow', 0.08424674, u'electric_fan', 0.042106681, u'unicycle', 0.038851876]

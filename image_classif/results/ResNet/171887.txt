@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.22191796, u'book_jacket', 0.11462732, u'digital_clock', 0.084396355, u'whistle', 0.07275077, u'web_site', 0.051744636]
+[u'stage', 0.29750231, u'gar', 0.11188664, u'Dungeness_crab', 0.084769957, u'flute', 0.073697262, u'sturgeon', 0.039459888]
+[u'fountain', 0.27689275, u'cinema', 0.20488279, u'palace', 0.13548939, u'planetarium', 0.056955125, u'library', 0.054741774]

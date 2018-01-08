@@ -1,0 +1,2 @@
+[u'mobile_home', 0.28907701, u'flagpole', 0.073595539, u'boathouse', 0.049313463, u'library', 0.048403762, u'lakeside', 0.029225955]
+[u'hook', 0.59313142, u'neck_brace', 0.045705032, u'paintbrush', 0.039503895, u'knee_pad', 0.025068641, u'nematode', 0.024795847]

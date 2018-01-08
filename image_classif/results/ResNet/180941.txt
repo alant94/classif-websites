@@ -1,0 +1,5 @@
+[u'church', 0.23503448, u'castle', 0.20780388, u'palace', 0.15535231, u'mosque', 0.14999618, u'jigsaw_puzzle', 0.067641079]
+[u'lakeside', 0.37168616, u'castle', 0.083273046, u'palace', 0.072309628, u'seashore', 0.06667608, u'pirate', 0.056999426]
+[u'lawn_mower', 0.30940568, u'swing', 0.28879881, u'maypole', 0.10042796, u'safety_pin', 0.034636941, u'park_bench', 0.01775199]
+[u'dock', 0.41526389, u'lakeside', 0.14905681, u'jigsaw_puzzle', 0.10559736, u'pier', 0.070240848, u'seashore', 0.056597982]
+[u'church', 0.53534371, u'castle', 0.12698948, u'palace', 0.077001646, u'lakeside', 0.05364985, u'jigsaw_puzzle', 0.030852856]

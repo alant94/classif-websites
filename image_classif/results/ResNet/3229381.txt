@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.55263579, u'poncho', 0.086692229, u'shower_cap', 0.054070707, u'vestment', 0.024934594, u'wall_clock', 0.021084791]

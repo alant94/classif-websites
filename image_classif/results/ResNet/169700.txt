@@ -1,0 +1,4 @@
+[u'marimba', 0.38867259, u'comic_book', 0.061611786, u'bookshop', 0.026923859, u'book_jacket', 0.026337355, u'panpipe', 0.024028348]
+[u'lighter', 0.39474824, u'binder', 0.13820265, u'street_sign', 0.048623603, u'shield', 0.041407209, u'stretcher', 0.038466692]
+[u'shower_cap', 0.41557211, u'neck_brace', 0.1868962, u'bathing_cap', 0.050409954, u'web_site', 0.032225285, u'bow_tie', 0.027964441]
+[u'book_jacket', 0.381055, u'packet', 0.26270297, u'carton', 0.19107147, u'comic_book', 0.044198114, u'binder', 0.0090896878]

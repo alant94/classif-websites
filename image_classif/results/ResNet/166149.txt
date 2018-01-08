@@ -1,0 +1,5 @@
+[u'book_jacket', 0.1211153, u'jersey', 0.081880279, u'Band_Aid', 0.065829836, u'packet', 0.061993673, u'cash_machine', 0.043849304]
+[u'hair_spray', 0.40480188, u'prison', 0.14543198, u'medicine_chest', 0.10671788, u'barbershop', 0.091224164, u'bookshop', 0.020646479]
+[u'digital_clock', 0.35783195, u'street_sign', 0.055006821, u'switch', 0.053652428, u'Band_Aid', 0.046813529, u'screen', 0.025982095]
+[u'cash_machine', 0.22697867, u'pay-phone', 0.11378037, u'switch', 0.10484318, u'street_sign', 0.091293186, u'file', 0.059273325]
+[u'Band_Aid', 0.92465591, u'digital_clock', 0.0099433707, u'digital_watch', 0.0049428074, u'medicine_chest', 0.0037689167, u'envelope', 0.0036998368]

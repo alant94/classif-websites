@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.24638931, u'typewriter_keyboard', 0.042686678, u'Great_Dane', 0.038126837, u'lighter', 0.027364584, u'skunk', 0.025375215]
+[u'Labrador_retriever', 0.21347083, u'Great_Dane', 0.097191811, u'fire_screen', 0.08709152, u'rock_python', 0.06786593, u'horned_viper', 0.055765316]
+[u'Welsh_springer_spaniel', 0.13711776, u'boa_constrictor', 0.10369981, u'tick', 0.080259465, u'collie', 0.079973564, u'Brittany_spaniel', 0.070397474]

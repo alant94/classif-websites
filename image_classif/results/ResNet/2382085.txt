@@ -1,0 +1,6 @@
+[u'red_wine', 0.71299118, u'wine_bottle', 0.27707657, u'corkscrew', 0.004956373, u'cocktail_shaker', 0.0029276477, u'whiskey_jug', 0.00047864742]
+[u'envelope', 0.27957997, u'web_site', 0.10362282, u'gas_pump', 0.049452398, u'menu', 0.044641849, u'file', 0.038932741]
+[u'window_screen', 0.49603578, u'common_newt', 0.071513295, u'fire_screen', 0.031025305, u'Dandie_Dinmont', 0.025054127, u'rapeseed', 0.019961169]
+[u'candle', 0.088724628, u'traffic_light', 0.071594618, u'beer_glass', 0.047846824, u'oil_filter', 0.043583378, u'milk_can', 0.028906254]
+[u'crossword_puzzle', 0.29037559, u'wardrobe', 0.14407532, u'web_site', 0.074438408, u'whistle', 0.048608243, u'soap_dispenser', 0.042660471]
+[u'digital_clock', 0.78355551, u'analog_clock', 0.081913449, u'digital_watch', 0.021120841, u'screen', 0.016759938, u'Band_Aid', 0.011189687]

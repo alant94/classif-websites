@@ -1,0 +1,6 @@
+[u'handkerchief', 0.069518119, u'cleaver', 0.064134344, u'web_site', 0.050759923, u'envelope', 0.039732814, u'whistle', 0.030315815]
+[u'menu', 0.41733557, u'packet', 0.11352738, u'book_jacket', 0.068043686, u'web_site', 0.060560644, u'toilet_seat', 0.041923694]
+[u'buckle', 0.76372647, u'shield', 0.040776867, u'screw', 0.035909183, u'chain', 0.015674535, u'hair_slide', 0.011119558]
+[u'street_sign', 0.20245373, u'shield', 0.10464612, u'sunscreen', 0.086607754, u'book_jacket', 0.046085153, u'Band_Aid', 0.03920852]
+[u'book_jacket', 0.16272984, u'scoreboard', 0.073203638, u'oil_filter', 0.071590684, u'digital_clock', 0.048675001, u'comic_book', 0.035558924]
+[u'nail', 0.18692194, u'nematode', 0.064978637, u'hook', 0.056252908, u'screw', 0.05301081, u'cleaver', 0.023884365]

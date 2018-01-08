@@ -1,0 +1,5 @@
+[u'puck', 0.22128086, u'bottlecap', 0.16140184, u'oil_filter', 0.10294599, u'coffee_mug', 0.080464572, u'water_bottle', 0.072105072]
+[u'puck', 0.83120096, u'binder', 0.023534492, u'book_jacket', 0.020471686, u'sweatshirt', 0.016618764, u'tray', 0.011227539]
+[u'crate', 0.42215693, u'maze', 0.053994127, u'spatula', 0.044013321, u'folding_chair', 0.022387905, u'doormat', 0.018359719]
+[u'comic_book', 0.35656685, u'book_jacket', 0.29910362, u'web_site', 0.097502731, u'barbershop', 0.085257776, u'jersey', 0.071435072]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,6 @@
+[u'web_site', 0.080489404, u'nipple', 0.0582131, u'pencil_sharpener', 0.040016033, u'safety_pin', 0.036761157, u'jersey', 0.032156881]
+[u'shopping_cart', 0.23372971, u'toyshop', 0.17108464, u'fire_engine', 0.150832, u'forklift', 0.045686025, u'grocery_store', 0.041071516]
+[u'mortar', 0.62145454, u'soup_bowl', 0.1931486, u'consomme', 0.094040148, u'mixing_bowl', 0.023784216, u'espresso', 0.020406656]
+[u'hotdog', 0.43182543, u'pizza', 0.42650804, u'French_loaf', 0.066552304, u'cheeseburger', 0.019682638, u'plate', 0.012581292]
+[u'buckle', 0.040224303, u'plate_rack', 0.029175524, u'safety_pin', 0.026757892, u'tobacco_shop', 0.02182713, u'lighter', 0.020322144]
+[u'digital_clock', 0.6580956, u'web_site', 0.079721928, u'stopwatch', 0.047764257, u'analog_clock', 0.029328732, u'street_sign', 0.018502286]

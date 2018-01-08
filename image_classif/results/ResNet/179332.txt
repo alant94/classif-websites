@@ -1,0 +1,6 @@
+[u'puck', 0.091208443, u'beer_glass', 0.068286762, u'book_jacket', 0.067452006, u'pill_bottle', 0.058009237, u'oil_filter', 0.053860396]
+[u'banjo', 0.95486569, u'hoopskirt', 0.039440591, u'drum', 0.0023499753, u'overskirt', 0.0017050891, u'accordion', 0.00039666955]
+[u'comic_book', 0.58636558, u'book_jacket', 0.14357193, u'puck', 0.055297457, u'buckle', 0.024558162, u'web_site', 0.018180339]
+[u'magnetic_compass', 0.078476839, u'bow', 0.06049883, u'gong', 0.045143377, u'web_site', 0.041331798, u'hair_slide', 0.036040489]
+[u'carousel', 0.35191554, u'banjo', 0.13960078, u'accordion', 0.13319631, u'lumbermill', 0.071460053, u'steel_drum', 0.04350169]
+[u'banjo', 0.99132568, u'ladle', 0.0014713564, u'electric_guitar', 0.0013277989, u'drum', 0.00067176728, u'chime', 0.00050392136]

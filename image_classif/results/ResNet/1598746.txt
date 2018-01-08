@@ -1,0 +1,8 @@
+[u'brassiere', 0.57626075, u'mask', 0.084725246, u'breastplate', 0.031995453, u'maillot', 0.031930529, u'bikini', 0.028036095]
+[u'comic_book', 0.37398499, u'groom', 0.073964931, u'pillow', 0.066820666, u'carton', 0.061662082, u'envelope', 0.052123781]
+[u'comic_book', 0.67298341, u'pillow', 0.038865305, u'brassiere', 0.033053044, u'crib', 0.031884167, u'quilt', 0.030185912]
+[u'brassiere', 0.4466933, u'comic_book', 0.15895626, u'Band_Aid', 0.069784679, u'lotion', 0.055242516, u'sock', 0.035849966]
+[u'breastplate', 0.37824747, u'comic_book', 0.15322959, u'brassiere', 0.069399357, u'cuirass', 0.063194975, u'neck_brace', 0.042737111]
+[u'swing', 0.27154723, u'handkerchief', 0.18675008, u'envelope', 0.12470384, u'bib', 0.088770293, u'pick', 0.031702537]
+[u'miniskirt', 0.77628547, u'feather_boa', 0.077449627, u'brassiere', 0.028987328, u'maillot', 0.027911929, u'plunger', 0.011224402]
+[u'brassiere', 0.26340988, u'groom', 0.14812781, u'bikini', 0.057318095, u'toilet_tissue', 0.040284708, u'gown', 0.034409653]

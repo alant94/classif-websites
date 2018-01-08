@@ -1,0 +1,5 @@
+[u'ski', 0.34152177, u'hair_slide', 0.074960157, u'dumbbell', 0.071242094, u'vending_machine', 0.030936005, u'bow', 0.029927656]
+[u'alp', 0.14940678, u'lakeside', 0.10351761, u'seashore', 0.084940419, u'dock', 0.07819517, u'ski', 0.048959963]
+[u'sewing_machine', 0.15459551, u'refrigerator', 0.099039681, u'web_site', 0.087546527, u'espresso_maker', 0.075928897, u'can_opener', 0.067609958]
+[u'combination_lock', 0.50349909, u'buckle', 0.09500321, u'mailbag', 0.066480614, u'safety_pin', 0.06090251, u'beer_bottle', 0.03766568]
+[u'combination_lock', 0.3018513, u'medicine_chest', 0.08972498, u'web_site', 0.069910914, u'whistle', 0.051738765, u'ballpoint', 0.024457091]

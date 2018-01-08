@@ -1,0 +1,4 @@
+[u'paintbrush', 0.41846275, u'tripod', 0.12181352, u'shovel', 0.093608379, u'bow', 0.061847236, u'hook', 0.061517578]
+[u'stopwatch', 0.24497777, u'pick', 0.072162107, u'maze', 0.067366317, u'coffee_mug', 0.04543943, u'whistle', 0.037206318]
+[u'wallet', 0.2151261, u'shield', 0.15361017, u'buckle', 0.082522236, u'mailbag', 0.06634827, u'seat_belt', 0.053888418]
+[u'mousetrap', 0.94137746, u'folding_chair', 0.021318696, u'panpipe', 0.0093658743, u'slot', 0.0070118601, u'screwdriver', 0.0043371283]

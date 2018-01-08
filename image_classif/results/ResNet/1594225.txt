@@ -1,0 +1,2 @@
+[u'web_site', 0.96238691, u'menu', 0.018146539, u'comic_book', 0.0020795723, u'hand_blower', 0.0014061506, u'television', 0.00081974565]
+[u'comic_book', 0.59733742, u'web_site', 0.26640928, u'refrigerator', 0.013973745, u'lighter', 0.010149183, u'punching_bag', 0.0097984485]

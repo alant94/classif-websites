@@ -1,0 +1,4 @@
+[u'dumbbell', 0.34407923, u'swimming_trunks', 0.16103815, u'barbell', 0.14579266, u'Mexican_hairless', 0.1004029, u'triceratops', 0.050877344]
+[u'academic_gown', 0.15499265, u'mortarboard', 0.15101218, u'suit', 0.138109, u'wig', 0.1187253, u'bow_tie', 0.043986049]
+[u'military_uniform', 0.28053394, u'suit', 0.12285015, u'academic_gown', 0.065314077, u'bearskin', 0.061014552, u'pickelhaube', 0.026706083]
+[u'chiton', 0.24168283, u'horned_viper', 0.09909188, u'isopod', 0.086323217, u'sidewinder', 0.059756406, u'maze', 0.047530685]

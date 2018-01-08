@@ -1,0 +1,1 @@
+[u'analog_clock', 0.81494182, u'digital_clock', 0.034531415, u'tripod', 0.031228174, u'wall_clock', 0.0168021, u'lighter', 0.007332325]

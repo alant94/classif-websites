@@ -1,0 +1,6 @@
+[u'pool_table', 0.14049686, u'pole', 0.13671111, u'plow', 0.076778285, u'sewing_machine', 0.061853208, u'crane', 0.050155692]
+[u'container_ship', 0.10819715, u'washbasin', 0.081366584, u'submarine', 0.055153973, u'drilling_platform', 0.042498045, u'warplane', 0.036101021]
+[u'screw', 0.46150222, u'corkscrew', 0.2655077, u'digital_clock', 0.14516938, u'screwdriver', 0.020940393, u"carpenter's_kit", 0.016137792]
+[u'toilet_tissue', 0.69833136, u'paper_towel', 0.15883583, u'oil_filter', 0.031818133, u'thimble', 0.030481447, u'plastic_bag', 0.030088825]
+[u'sewing_machine', 0.4924016, u'washbasin', 0.11687858, u'missile', 0.063578762, u'projectile', 0.035632327, u'electric_fan', 0.029422235]
+[u'missile', 0.17770593, u'projectile', 0.14332239, u'submarine', 0.081963882, u'space_shuttle', 0.052495066, u'pole', 0.043407135]

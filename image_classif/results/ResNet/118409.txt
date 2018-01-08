@@ -1,0 +1,1 @@
+[u'laptop', 0.2528263, u'binder', 0.10139798, u'web_site', 0.085779302, u'envelope', 0.075164683, u'traffic_light', 0.072467662]

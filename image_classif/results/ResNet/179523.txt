@@ -1,0 +1,3 @@
+[u'traffic_light', 0.58802265, u'street_sign', 0.065818839, u'web_site', 0.029396841, u'scuba_diver', 0.020619825, u'guillotine', 0.020563336]
+[u'traffic_light', 0.13577868, u'crane', 0.06094892, u'web_site', 0.057805743, u'analog_clock', 0.036083139, u'bell_cote', 0.033230361]
+[u'traffic_light', 0.91811103, u'street_sign', 0.021443209, u'cassette', 0.011114717, u'space_shuttle', 0.0048074727, u'envelope', 0.0040204464]

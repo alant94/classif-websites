@@ -1,0 +1,3 @@
+[u'envelope', 0.12248009, u'web_site', 0.10572924, u'hatchet', 0.044297818, u'nail', 0.024159877, u'hair_slide', 0.023557264]
+[u'pole', 0.15552922, u'geyser', 0.11680236, u'totem_pole', 0.080085315, u'picket_fence', 0.067254908, u'bison', 0.062060308]
+[u'rapeseed', 0.13466357, u'spider_web', 0.13240157, u'leafhopper', 0.097955577, u'European_fire_salamander', 0.036419477, u'worm_fence', 0.035486706]

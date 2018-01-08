@@ -1,0 +1,3 @@
+[u'abaya', 0.16671598, u'gown', 0.082387112, u'brassiere', 0.069429986, u'butcher_shop', 0.058187898, u'sweatshirt', 0.057814971]
+[u'lab_coat', 0.13858695, u'paddlewheel', 0.08491455, u'fireboat', 0.059305187, u'book_jacket', 0.058910407, u'comic_book', 0.035317264]
+[u'valley', 0.80259383, u'cliff', 0.045401614, u'castle', 0.02169559, u'lakeside', 0.021168388, u'promontory', 0.013813025]

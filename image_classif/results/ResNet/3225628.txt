@@ -1,0 +1,1 @@
+[u'can_opener', 0.1871212, u'web_site', 0.13457093, u'corkscrew', 0.082258336, u'screw', 0.08204437, u'lighter', 0.059214167]

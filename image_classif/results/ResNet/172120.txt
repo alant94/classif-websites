@@ -1,0 +1,2 @@
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'banjo', 0.38859853, u'acoustic_guitar', 0.25810218, u'electric_guitar', 0.11523257, u'maraca', 0.080508009, u'stage', 0.072537445]

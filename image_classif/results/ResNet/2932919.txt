@@ -1,0 +1,4 @@
+[u'cardigan', 0.073718145, u'sandal', 0.06387984, u'Band_Aid', 0.061958935, u'suit', 0.054073408, u'buckle', 0.043304499]
+[u'can_opener', 0.1040907, u'paintbrush', 0.066202827, u'tennis_ball', 0.03973056, u'book_jacket', 0.037781879, u'racket', 0.030319244]
+[u'Band_Aid', 0.14024264, u'cup', 0.038600799, u'lotion', 0.035298813, u'thimble', 0.033570714, u'perfume', 0.03028455]
+[u'pill_bottle', 0.14624178, u'drumstick', 0.14254844, u'Band_Aid', 0.11709199, u'rubber_eraser', 0.110211, u'dough', 0.08049947]

@@ -1,0 +1,5 @@
+[u'bannister', 0.13467394, u'projector', 0.13279887, u'switch', 0.12390829, u'padlock', 0.094631769, u'combination_lock', 0.091307536]
+[u'harp', 0.95456606, u'web_site', 0.0088270549, u'sax', 0.0030181904, u'chain', 0.0029146508, u'hook', 0.0020151159]
+[u'web_site', 0.15415366, u'bubble', 0.12367768, u'perfume', 0.10523907, u'matchstick', 0.060419161, u'candle', 0.038404975]
+[u'harp', 0.23900644, u'web_site', 0.073318094, u'shoji', 0.036562368, u'wardrobe', 0.030988306, u'iron', 0.030427076]
+[u'web_site', 0.12564282, u'iron', 0.11891562, u'wig', 0.083848074, u'matchstick', 0.051469307, u'theater_curtain', 0.041148849]

@@ -1,0 +1,5 @@
+[u'container_ship', 0.5223828, u'jigsaw_puzzle', 0.3527621, u'tobacco_shop', 0.018488551, u'mountain_bike', 0.01152758, u'toyshop', 0.0060088513]
+[u'monitor', 0.35993582, u'screen', 0.32423756, u'oscilloscope', 0.053373452, u'digital_clock', 0.047835078, u'analog_clock', 0.034217533]
+[u'fire_screen', 0.10548466, u'analog_clock', 0.051795747, u'screen', 0.049091447, u'digital_clock', 0.044716224, u'wall_clock', 0.044634357]
+[u'stage', 0.30087504, u'steel_drum', 0.050823312, u'theater_curtain', 0.047991209, u'drum', 0.037886228, u'breastplate', 0.0321174]
+[u'book_jacket', 0.225209, u'brass', 0.18557811, u'safe', 0.11164134, u'prayer_rug', 0.082681246, u'binder', 0.055317678]

@@ -1,0 +1,8 @@
+[u'medicine_chest', 0.36334077, u'combination_lock', 0.13244365, u'hook', 0.1253344, u'wardrobe', 0.056436099, u'toilet_seat', 0.049130779]
+[u'remote_control', 0.38511667, u'waffle_iron', 0.054499503, u'hand-held_computer', 0.051500868, u'lighter', 0.048807681, u'rubber_eraser', 0.032754559]
+[u'castle', 0.4146286, u'umbrella', 0.052374113, u'church', 0.05236198, u'obelisk', 0.028674079, u'spotlight', 0.025097737]
+[u'analog_clock', 0.30915383, u'nail', 0.14311421, u'hook', 0.055814389, u'tripod', 0.049898226, u'web_site', 0.045805503]
+[u'church', 0.79266161, u'barn', 0.052918769, u'bell_cote', 0.036518216, u'monastery', 0.013845466, u'tile_roof', 0.01033143]
+[u'matchstick', 0.72402912, u'candle', 0.14766778, u'lighter', 0.12249143, u'torch', 0.0057735974, u'refrigerator', 8.3385039e-06]
+[u'acorn', 0.18099596, u'robin', 0.17143381, u'hummingbird', 0.14653838, u'buckeye', 0.067167938, u'magpie', 0.063637733]
+[u'wardrobe', 0.4170858, u'lampshade', 0.23010874, u'nail', 0.046968624, u'medicine_chest', 0.035856444, u'table_lamp', 0.028217224]

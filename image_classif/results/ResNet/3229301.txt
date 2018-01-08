@@ -1,0 +1,5 @@
+[u'Polaroid_camera', 0.94542283, u'reflex_camera', 0.023493441, u'reel', 0.010306387, u'sewing_machine', 0.0071908333, u'tripod', 0.0065936027]
+[u'oil_filter', 0.61988586, u'sunscreen', 0.045983221, u'Band_Aid', 0.036645677, u'plastic_bag', 0.027489882, u'packet', 0.026359219]
+[u'book_jacket', 0.57016271, u'street_sign', 0.19199447, u'Band_Aid', 0.051520098, u'cash_machine', 0.032569736, u'comic_book', 0.023435643]
+[u'suit', 0.25384182, u'stage', 0.19924881, u'Windsor_tie', 0.072879717, u'theater_curtain', 0.057715092, u'coho', 0.051350836]
+[u'analog_clock', 0.16296834, u'beaker', 0.088345475, u'candle', 0.055981729, u'oxygen_mask', 0.04758551, u'digital_watch', 0.033761784]

@@ -1,0 +1,2 @@
+[u'scoreboard', 0.39090663, u'oscilloscope', 0.095038883, u'stage', 0.05572693, u'analog_clock', 0.033072107, u'digital_clock', 0.024198482]
+[u'slot', 0.51465464, u'screen', 0.34183291, u'scoreboard', 0.042998482, u'television', 0.033883799, u'hand-held_computer', 0.024056789]

@@ -1,0 +1,4 @@
+[u'web_site', 0.42848095, u'envelope', 0.26889259, u'hook', 0.012081141, u'dishwasher', 0.00548932, u'rule', 0.0051047942]
+[u'envelope', 0.40138417, u'web_site', 0.078553557, u'cleaver', 0.034899458, u'dishwasher', 0.018708531, u'frying_pan', 0.0098089045]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

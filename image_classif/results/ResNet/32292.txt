@@ -1,0 +1,2 @@
+[u'revolver', 0.2697826, u'binoculars', 0.13056625, u'assault_rifle', 0.072493307, u'reel', 0.063140847, u'lawn_mower', 0.0470706]
+[u'lawn_mower', 0.07678698, u'soccer_ball', 0.066729434, u'park_bench', 0.063074552, u'maypole', 0.060133372, u'stone_wall', 0.057653021]

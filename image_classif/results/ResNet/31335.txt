@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'crossword_puzzle', 0.58131087, u'tray', 0.1042743, u'prayer_rug', 0.066584378, u'shower_curtain', 0.050986663, u'wall_clock', 0.027636394]

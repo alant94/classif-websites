@@ -1,0 +1,2 @@
+[u'ambulance', 0.099955589, u'web_site', 0.075116843, u'analog_clock', 0.057888407, u'stretcher', 0.041110571, u'digital_clock', 0.039528374]
+[u'envelope', 0.22009543, u'switch', 0.071228303, u'monitor', 0.065269828, u'refrigerator', 0.05477237, u'lighter', 0.053155921]

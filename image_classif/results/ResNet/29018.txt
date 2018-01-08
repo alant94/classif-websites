@@ -1,0 +1,1 @@
+[u'ski', 0.16015922, u'iron', 0.11901274, u'bannister', 0.07504335, u'microphone', 0.049472179, u'can_opener', 0.039046913]

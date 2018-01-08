@@ -1,0 +1,1 @@
+[u'analog_clock', 0.11661194, u'honeycomb', 0.094328113, u'oscilloscope', 0.088274583, u'prayer_rug', 0.057679277, u'fire_screen', 0.047934733]

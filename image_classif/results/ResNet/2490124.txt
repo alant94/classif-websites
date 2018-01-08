@@ -1,0 +1,4 @@
+[u'plate_rack', 0.55631757, u'rocking_chair', 0.21133181, u'folding_chair', 0.075060122, u'worm_fence', 0.060174502, u'crib', 0.036787726]
+[u'crane', 0.59021974, u'drilling_platform', 0.25130528, u'fireboat', 0.12666707, u'tow_truck', 0.014215107, u'dock', 0.0088799233]
+[u'beacon', 0.4157972, u'flagpole', 0.04806466, u'barn', 0.045317579, u'pole', 0.028343279, u'bannister', 0.02544578]
+[u'swing', 0.24065918, u'canoe', 0.172977, u'coho', 0.11435884, u'reel', 0.049854707, u'barracouta', 0.046626355]

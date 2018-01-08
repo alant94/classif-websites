@@ -1,0 +1,1 @@
+[u'comic_book', 0.56280714, u'book_jacket', 0.31071621, u'lighter', 0.0082734069, u'jigsaw_puzzle', 0.0072393194, u'tray', 0.0071055163]

@@ -1,0 +1,1 @@
+[u'book_jacket', 0.29435247, u'mosque', 0.05597109, u'suspension_bridge', 0.052672572, u'church', 0.045770906, u'bell_cote', 0.042653352]

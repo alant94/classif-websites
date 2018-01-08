@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.86978251, u'cardoon', 0.018350631, u'screen', 0.010848805, u'theater_curtain', 0.008425233, u'quill', 0.0057928371]
+[u'sax', 0.6959846, u'bassoon', 0.27385682, u'oboe', 0.021122707, u'trombone', 0.0033939998, u'cornet', 0.0027769231]

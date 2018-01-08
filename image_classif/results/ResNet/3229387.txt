@@ -1,0 +1,6 @@
+[u'web_site', 0.19457854, u'digital_clock', 0.033789374, u'rifle', 0.018055223, u'nematode', 0.018037429, u'comic_book', 0.017611269]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'digital_clock', 0.14870012, u'scoreboard', 0.12232129, u'web_site', 0.089969195, u'digital_watch', 0.055375576, u'stopwatch', 0.046873979]
+[u'web_site', 0.071952194, u'digital_clock', 0.064721659, u'scoreboard', 0.063297436, u'digital_watch', 0.027101541, u'rifle', 0.019468311]
+[u'scoreboard', 0.19973983, u'digital_clock', 0.11614445, u'digital_watch', 0.057706971, u'web_site', 0.044467915, u'stopwatch', 0.025228562]
+[u'scoreboard', 0.4364723, u'digital_clock', 0.31263644, u'digital_watch', 0.14081351, u'stopwatch', 0.034731645, u'remote_control', 0.0096502155]

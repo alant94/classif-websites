@@ -1,0 +1,1 @@
+[u'web_site', 0.57869363, u'mountain_bike', 0.039849229, u'bannister', 0.032015618, u'hook', 0.027911471, u'disk_brake', 0.016467769]

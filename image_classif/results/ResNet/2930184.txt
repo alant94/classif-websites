@@ -1,0 +1,4 @@
+[u'barber_chair', 0.43250507, u'barbershop', 0.095531091, u'drum', 0.052804291, u'dining_table', 0.03951839, u'grand_piano', 0.029764103]
+[u'street_sign', 0.79954416, u'book_jacket', 0.030747235, u'Christmas_stocking', 0.011725144, u'Band_Aid', 0.0087091038, u'cash_machine', 0.008221304]
+[u'gas_pump', 0.31076866, u'power_drill', 0.067319505, u'electric_guitar', 0.042332791, u'lighter', 0.036397252, u'web_site', 0.035549123]
+[u'wig', 0.15785113, u'pick', 0.10542332, u'pay-phone', 0.10280702, u'bolo_tie', 0.059676565, u'suit', 0.056110825]

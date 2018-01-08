@@ -1,0 +1,4 @@
+[u'television', 0.27973112, u'screen', 0.19559878, u'monitor', 0.13196976, u'oscilloscope', 0.049022388, u'home_theater', 0.045326363]
+[u'paintbrush', 0.24625657, u'web_site', 0.22188628, u'bubble', 0.048957832, u'comic_book', 0.042494111, u'perfume', 0.029074311]
+[u'screen', 0.28497064, u'television', 0.22234784, u'monitor', 0.17264606, u'oscilloscope', 0.047452457, u'home_theater', 0.029026642]
+[u'street_sign', 0.65780711, u'cash_machine', 0.078111194, u'scoreboard', 0.020299522, u'file', 0.012204468, u'packet', 0.010986178]

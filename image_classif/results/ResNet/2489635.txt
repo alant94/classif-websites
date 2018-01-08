@@ -1,0 +1,2 @@
+[u'coho', 0.71285564, u'scoreboard', 0.075763449, u'gar', 0.072016127, u'barracouta', 0.029893508, u'sturgeon', 0.028431894]
+[u'cassette', 0.16128221, u'cinema', 0.068367913, u'toilet_seat', 0.051771626, u'washer', 0.042044438, u'barbershop', 0.041315243]

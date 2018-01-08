@@ -1,0 +1,3 @@
+[u'Windsor_tie', 0.55366713, u'suit', 0.27684531, u'groom', 0.011449891, u'academic_gown', 0.0095504206, u'bow_tie', 0.0094573563]
+[u'analog_clock', 0.11931782, u'web_site', 0.11566979, u'book_jacket', 0.043841965, u'ping-pong_ball', 0.042450257, u'television', 0.036444511]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

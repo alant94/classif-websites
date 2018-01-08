@@ -1,0 +1,6 @@
+[u'jersey', 0.99464107, u'sweatshirt', 0.0031288546, u'bulletproof_vest', 0.0015986235, u'wool', 0.00011412862, u'digital_clock', 7.2352763e-05]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'buckle', 0.27945298, u'magnetic_compass', 0.25417295, u'puck', 0.064565569, u'lighter', 0.052926674, u'web_site', 0.046040714]
+[u'sweatshirt', 0.98103607, u'bulletproof_vest', 0.007109018, u'cowboy_hat', 0.0025253785, u'sombrero', 0.0016740195, u'backpack', 0.0011406516]

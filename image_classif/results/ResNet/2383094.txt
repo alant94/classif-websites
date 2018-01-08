@@ -1,0 +1,3 @@
+[u'analog_clock', 0.66798687, u'wall_clock', 0.24725583, u'stopwatch', 0.030029137, u'barometer', 0.007072961, u'book_jacket', 0.0069353371]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.20825113, u'stopwatch', 0.082622923, u'tripod', 0.075133063, u'hook', 0.025103547, u'theater_curtain', 0.018574847]

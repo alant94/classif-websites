@@ -1,0 +1,4 @@
+[u'envelope', 0.35051766, u'web_site', 0.17416108, u'carton', 0.1396641, u'packet', 0.096613519, u'menu', 0.094655976]
+[u'web_site', 0.68334138, u'hard_disc', 0.046362787, u'menu', 0.040219963, u'carton', 0.027005212, u'comic_book', 0.021331204]
+[u'Band_Aid', 0.11930555, u'bow_tie', 0.096591249, u'jersey', 0.048729934, u'spatula', 0.0294265, u'coffee_mug', 0.021914599]
+[u'web_site', 0.35825759, u'book_jacket', 0.12314178, u'packet', 0.046893332, u'street_sign', 0.045358133, u'sunscreen', 0.043294694]

@@ -1,0 +1,8 @@
+[u'mousetrap', 0.4396888, u'pencil_sharpener', 0.27593303, u'web_site', 0.10614817, u'corn', 0.016735321, u'switch', 0.015071439]
+[u'web_site', 0.45165515, u'television', 0.24711749, u'slot', 0.047093041, u'monitor', 0.046123993, u'screen', 0.037004139]
+[u'screen', 0.26020339, u'web_site', 0.14618362, u'desktop_computer', 0.11350805, u'monitor', 0.096164048, u'cash_machine', 0.056925803]
+[u'analog_clock', 0.83469075, u'web_site', 0.065948002, u'wall_clock', 0.021997798, u'digital_clock', 0.021420619, u'switch', 0.010773038]
+[u'web_site', 0.72850668, u'book_jacket', 0.097557738, u'monitor', 0.03300767, u'screen', 0.015324803, u'television', 0.010753511]
+[u'web_site', 0.44405997, u'book_jacket', 0.126344, u'laptop', 0.093066894, u'screen', 0.09034282, u'monitor', 0.079303138]
+[u'web_site', 0.16709094, u'envelope', 0.14750773, u'soap_dispenser', 0.085958399, u'thimble', 0.080313064, u'Band_Aid', 0.074417621]
+[u'comic_book', 0.60137355, u'web_site', 0.16418263, u'book_jacket', 0.12473072, u'jigsaw_puzzle', 0.025829788, u'binder', 0.014027103]

@@ -1,0 +1,2 @@
+[u'envelope', 0.14535184, u'abaya', 0.10039282, u'bulletproof_vest', 0.078861922, u'web_site', 0.040236764, u'loudspeaker', 0.032955259]
+[u'envelope', 0.21737015, u'dishwasher', 0.11923465, u'refrigerator', 0.045535218, u'fire_screen', 0.027530162, u'web_site', 0.022994054]

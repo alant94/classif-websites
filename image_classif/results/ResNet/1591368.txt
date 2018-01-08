@@ -1,0 +1,7 @@
+[u'maillot', 0.50533849, u'bikini', 0.20594326, u'miniskirt', 0.13043171, u'sandal', 0.040907811, u'brassiere', 0.038413174]
+[u'brassiere', 0.7806282, u'maillot', 0.063032776, u'maillot', 0.034608249, u'bikini', 0.02857296, u'tub', 0.012085394]
+[u'violin', 0.29907212, u'cello', 0.12464517, u'acoustic_guitar', 0.078839242, u'lighter', 0.034604743, u'cornet', 0.026176505]
+[u'toilet_seat', 0.11106039, u'loupe', 0.10704158, u'piggy_bank', 0.083618231, u'measuring_cup', 0.078606695, u'mixing_bowl', 0.054563336]
+[u'bikini', 0.63483554, u'brassiere', 0.17112556, u'tub', 0.10584175, u'maillot', 0.045629583, u'bathtub', 0.020705041]
+[u'bikini', 0.70748895, u'maillot', 0.24202836, u'maillot', 0.028475121, u'miniskirt', 0.0087391557, u'sarong', 0.0024893957]
+[u'swimming_trunks', 0.29282525, u'bathtub', 0.26930931, u'shower_curtain', 0.24598254, u'tub', 0.087291963, u'bath_towel', 0.050203577]

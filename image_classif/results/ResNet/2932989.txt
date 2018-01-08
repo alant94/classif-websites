@@ -1,0 +1,4 @@
+[u'medicine_chest', 0.84966534, u'window_screen', 0.038595669, u'digital_clock', 0.012560532, u'screen', 0.0084972763, u'sliding_door', 0.0071225334]
+[u'digital_clock', 0.34515029, u'digital_watch', 0.055677533, u'laptop', 0.042355679, u'medicine_chest', 0.032614704, u'fire_screen', 0.027704936]
+[u'digital_clock', 0.45526162, u'medicine_chest', 0.22647634, u'digital_watch', 0.06200495, u'screen', 0.027575327, u'monitor', 0.019777436]
+[u'medicine_chest', 0.17718667, u'digital_clock', 0.12366285, u'screen', 0.050236266, u'window_screen', 0.033572756, u'monitor', 0.032167494]

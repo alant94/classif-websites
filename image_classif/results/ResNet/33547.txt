@@ -1,0 +1,7 @@
+[u'book_jacket', 0.29794046, u'web_site', 0.13320091, u'Band_Aid', 0.093625106, u'comic_book', 0.070879214, u'barbershop', 0.039930273]
+[u'ear', 0.64000577, u'corn', 0.29028302, u'cauliflower', 0.029123953, u'acorn', 0.017872863, u'mixing_bowl', 0.0083342027]
+[u'web_site', 0.11006137, u'book_jacket', 0.097070113, u'Band_Aid', 0.073303118, u'whistle', 0.066063501, u'comic_book', 0.050173983]
+[u'whistle', 0.12551528, u'digital_clock', 0.11209065, u'web_site', 0.090424627, u'folding_chair', 0.044389062, u'Band_Aid', 0.034571242]
+[u'menu', 0.51003414, u'web_site', 0.36122817, u'packet', 0.07838092, u'book_jacket', 0.013386268, u'vending_machine', 0.0033701584]
+[u'book_jacket', 0.11735977, u'whistle', 0.09714438, u'web_site', 0.077700049, u'hook', 0.049820069, u'comic_book', 0.036186986]
+[u'web_site', 0.35612679, u'book_jacket', 0.11876345, u'whistle', 0.088231072, u'comic_book', 0.053173345, u'Band_Aid', 0.047594462]

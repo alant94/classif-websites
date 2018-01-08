@@ -1,0 +1,8 @@
+[u'king_penguin', 0.7043404, u'reel', 0.050002094, u'breakwater', 0.033873916, u'seashore', 0.024158942, u'rifle', 0.020630447]
+[u'picket_fence', 0.54059583, u'shield', 0.056486711, u'stupa', 0.027761962, u'monastery', 0.024263062, u'rugby_ball', 0.017239111]
+[u'king_penguin', 0.26110083, u'padlock', 0.16988809, u'stage', 0.096623994, u'dome', 0.071218073, u'rifle', 0.048995804]
+[u'scoreboard', 0.95680708, u'monitor', 0.0064243847, u'park_bench', 0.005616534, u'fountain', 0.0038702728, u'screen', 0.0037659002]
+[u'ski', 0.53833884, u'rifle', 0.21778025, u'crutch', 0.06639877, u'picket_fence', 0.037922174, u'king_penguin', 0.028843615]
+[u'king_penguin', 0.98361796, u'picket_fence', 0.0053801471, u'academic_gown', 0.0033313832, u'parking_meter', 0.0015625244, u'chain', 0.0013725389]
+[u'wine_bottle', 0.10379052, u'American_egret', 0.095724061, u'coffeepot', 0.071976535, u'ladle', 0.070993222, u'little_blue_heron', 0.063366964]
+[u'king_penguin', 0.23324718, u'lemon', 0.21869498, u'banana', 0.15911309, u'corn', 0.07916417, u'bee', 0.045526408]

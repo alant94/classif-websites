@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.26798788, u'wall_clock', 0.17161728, u'tray', 0.09437038, u'web_site', 0.088420823, u'shower_curtain', 0.050527807]
+[u'candle', 0.51232749, u'toyshop', 0.0546294, u'torch', 0.054265637, u'television', 0.029886646, u'lab_coat', 0.018296428]

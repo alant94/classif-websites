@@ -1,0 +1,2 @@
+[u'Cardigan', 0.38930959, u'malinois', 0.3465257, u'kelpie', 0.086135902, u'Chihuahua', 0.047036905, u'dingo', 0.031083949]
+[u'gazelle', 0.32271394, u'whippet', 0.2019057, u'ibex', 0.11564951, u'ram', 0.084365875, u'bighorn', 0.079280712]

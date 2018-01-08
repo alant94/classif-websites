@@ -1,0 +1,1 @@
+[u'medicine_chest', 0.42295223, u'photocopier', 0.037475027, u'stretcher', 0.033534221, u'cash_machine', 0.033274256, u'sliding_door', 0.026683431]

@@ -1,0 +1,5 @@
+[u'gazelle', 0.31217024, u'Arabian_camel', 0.06944102, u'crane', 0.052234273, u'volleyball', 0.051657293, u'whippet', 0.048315208]
+[u'bow', 0.24645449, u'fountain', 0.19282806, u'gazelle', 0.087917298, u'ibex', 0.062867388, u'hare', 0.038629841]
+[u'mobile_home', 0.71257466, u'greenhouse', 0.21045958, u'lawn_mower', 0.037497066, u'yurt', 0.010347106, u'patio', 0.0087593608]
+[u'barn', 0.27220026, u'mobile_home', 0.057611879, u'apiary', 0.041971974, u'harvester', 0.040656876, u'park_bench', 0.038698029]
+[u'bison', 0.8071596, u'hog', 0.080053344, u'wild_boar', 0.071317472, u'warthog', 0.018684551, u'ram', 0.010213889]

@@ -1,0 +1,2 @@
+[u'web_site', 0.16181836, u'book_jacket', 0.072473414, u'jersey', 0.057779521, u'oil_filter', 0.033890646, u'puck', 0.023782674]
+[u'wig', 0.54790646, u'stage', 0.062624246, u'theater_curtain', 0.02865459, u'suit', 0.016596062, u'clog', 0.014575906]

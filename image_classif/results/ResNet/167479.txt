@@ -1,0 +1,7 @@
+[u'butcher_shop', 0.39415732, u'electric_guitar', 0.083729953, u'sewing_machine', 0.052283362, u'confectionery', 0.04040451, u'stage', 0.036221497]
+[u'triceratops', 0.1630358, u'butcher_shop', 0.12565361, u'Indian_elephant', 0.12342659, u'wardrobe', 0.09024246, u'brassiere', 0.078552566]
+[u'prayer_rug', 0.34431687, u'digital_clock', 0.19610053, u'hamper', 0.12714891, u'fire_screen', 0.12167883, u'window_screen', 0.025865886]
+[u'window_screen', 0.24459036, u'fire_screen', 0.22678453, u'prayer_rug', 0.17482735, u'handkerchief', 0.025493791, u'cash_machine', 0.022383856]
+[u'fire_screen', 0.20636393, u'binder', 0.11186228, u'window_screen', 0.092566319, u'medicine_chest', 0.055319417, u'prayer_rug', 0.05467239]
+[u'butcher_shop', 0.54996693, u'wardrobe', 0.12068745, u'brassiere', 0.094760016, u'comic_book', 0.063248634, u'cowboy_boot', 0.034976382]
+[u'comic_book', 0.74973464, u'web_site', 0.11223718, u'monitor', 0.04079758, u'book_jacket', 0.018651223, u'laptop', 0.010958164]

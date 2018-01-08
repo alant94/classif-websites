@@ -1,0 +1,6 @@
+[u'plate', 0.17067662, u'tray', 0.086562246, u'wok', 0.085957974, u'vase', 0.063643612, u'cleaver', 0.033078715]
+[u'barrel', 0.74413842, u'red_wine', 0.21612728, u'wine_bottle', 0.0058668125, u'goblet', 0.0031136603, u'sunglasses', 0.0026016117]
+[u'beer_bottle', 0.4275898, u'wine_bottle', 0.28368625, u'red_wine', 0.28366461, u'pop_bottle', 0.0014123077, u'corkscrew', 0.00099759735]
+[u'wine_bottle', 0.85946649, u'red_wine', 0.11927374, u'beer_bottle', 0.019476492, u'tobacco_shop', 0.0003533042, u'pop_bottle', 0.00019102459]
+[u'web_site', 0.30939338, u'can_opener', 0.17131081, u'digital_clock', 0.087987684, u'tripod', 0.056349073, u'crutch', 0.031243332]
+[u'screwdriver', 0.29080713, u'tobacco_shop', 0.15749088, u'wine_bottle', 0.11891811, u'syringe', 0.073892735, u'hair_spray', 0.047806434]

@@ -1,0 +1,3 @@
+[u'shower_curtain', 0.10951198, u'shoe_shop', 0.046003904, u'shower_cap', 0.04498297, u'lab_coat', 0.024522819, u'stethoscope', 0.022133749]
+[u'carton', 0.66436327, u'oil_filter', 0.068347618, u'toilet_tissue', 0.03826265, u'switch', 0.018809412, u'packet', 0.013417039]
+[u'can_opener', 0.084348977, u'holster', 0.053495012, u'drumstick', 0.039724234, u'stage', 0.025494954, u'sewing_machine', 0.025186216]

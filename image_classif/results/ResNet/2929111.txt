@@ -1,0 +1,8 @@
+[u'brassiere', 0.13124625, u'cowboy_boot', 0.081657656, u'sarong', 0.062450234, u'butcher_shop', 0.059493788, u'shoe_shop', 0.05948187]
+[u'harp', 0.370794, u'library', 0.32614285, u'restaurant', 0.033524394, u'cello', 0.023258794, u'bookshop', 0.014868836]
+[u'picket_fence', 0.29577145, u'maze', 0.046335541, u'parallel_bars', 0.035430446, u'worm_fence', 0.032454707, u'sea_lion', 0.031032518]
+[u'suit', 0.75769877, u'abaya', 0.050181299, u'overskirt', 0.040227398, u'wardrobe', 0.018754493, u'gown', 0.015575714]
+[u'television', 0.1330394, u'studio_couch', 0.13153484, u'home_theater', 0.12854925, u'suit', 0.10864969, u'rocking_chair', 0.032132331]
+[u'puck', 0.94754136, u'drum', 0.014412375, u'pick', 0.0074699856, u'football_helmet', 0.0027463406, u'golf_ball', 0.0025548856]
+[u'jean', 0.47360995, u'wardrobe', 0.053798448, u'umbrella', 0.036672086, u'crutch', 0.026255077, u'swab', 0.025941761]
+[u'saltshaker', 0.10010365, u'paper_towel', 0.06167578, u'handkerchief', 0.060937643, u'pitcher', 0.054072883, u'soap_dispenser', 0.048809614]

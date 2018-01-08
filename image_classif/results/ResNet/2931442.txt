@@ -1,0 +1,1 @@
+[u'perfume', 0.15878402, u'sunscreen', 0.13652499, u'paintbrush', 0.11993559, u'tub', 0.10109524, u'shower_curtain', 0.06378077]

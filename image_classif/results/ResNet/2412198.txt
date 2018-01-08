@@ -1,0 +1,1 @@
+[u'barber_chair', 0.12827241, u'jinrikisha', 0.094461985, u'electric_guitar', 0.079716906, u'backpack', 0.054296348, u'accordion', 0.049296644]

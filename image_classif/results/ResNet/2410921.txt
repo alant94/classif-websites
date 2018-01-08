@@ -1,0 +1,5 @@
+[u'croquet_ball', 0.99743611, u'balloon', 0.001513091, u'maraca', 0.00078622869, u'golf_ball', 7.1131282e-05, u'baseball', 2.5339261e-05]
+[u'loudspeaker', 0.38862124, u'shield', 0.33333772, u'electric_fan', 0.027453223, u'gong', 0.02636457, u"potter's_wheel", 0.015967771]
+[u'maraca', 0.49163449, u'joystick', 0.071132831, u'whistle', 0.048782274, u'mouse', 0.040199097, u'croquet_ball', 0.0401612]
+[u'maraca', 0.56396681, u'croquet_ball', 0.27141067, u'gong', 0.05653812, u'lemon', 0.027351392, u'ping-pong_ball', 0.017268857]
+[u'spotlight', 0.38951662, u'Granny_Smith', 0.19939408, u'gong', 0.10748956, u'washbasin', 0.031907372, u'frying_pan', 0.031552006]

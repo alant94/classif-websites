@@ -1,0 +1,8 @@
+[u'ibex', 0.077947617, u'half_track', 0.047827043, u'bighorn', 0.044602141, u'tank', 0.041171201, u'lumbermill', 0.037753873]
+[u'bow', 0.39584485, u'tusker', 0.11621203, u'warthog', 0.093913049, u'hartebeest', 0.060343102, u'oxcart', 0.049880557]
+[u'bighorn', 0.30057099, u'ox', 0.26903188, u'ibex', 0.16525078, u'oxcart', 0.089824297, u'water_buffalo', 0.054793879]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'hartebeest', 0.7301802, u'ibex', 0.16625513, u'impala', 0.063010782, u'plow', 0.012668443, u'rifle', 0.0098314499]
+[u'cougar', 0.29330593, u'hyena', 0.062325161, u'dingo', 0.053214498, u'warthog', 0.031899374, u'chain_saw', 0.031222299]
+[u'gazelle', 0.4708105, u'impala', 0.28128719, u'hartebeest', 0.10234991, u'llama', 0.053674772, u'ibex', 0.015453647]
+[u'ibex', 0.63280612, u'impala', 0.22845614, u'hartebeest', 0.062602833, u'bow', 0.016849484, u'wallaby', 0.014649365]

@@ -1,0 +1,8 @@
+[u'crossword_puzzle', 0.26556754, u'menu', 0.23236625, u'coffeepot', 0.060964957, u'carton', 0.057940569, u'envelope', 0.030533785]
+[u'comic_book', 0.10329613, u'book_jacket', 0.060625978, u'sunglass', 0.031780891, u'theater_curtain', 0.029634489, u'stopwatch', 0.029455641]
+[u'brassiere', 0.5201388, u'sunglass', 0.08968737, u'bathing_cap', 0.055009034, u'plastic_bag', 0.051003974, u'maillot', 0.049903497]
+[u'barn', 0.13628802, u'picket_fence', 0.12361069, u'lakeside', 0.11239403, u'church', 0.074233249, u'castle', 0.071529739]
+[u'web_site', 0.45472163, u'menu', 0.43223235, u'envelope', 0.021831591, u'rubber_eraser', 0.02032779, u'cinema', 0.013979109]
+[u'alp', 0.46743795, u'snowmobile', 0.33138475, u'boathouse', 0.063120857, u'church', 0.035961509, u'dogsled', 0.014964091]
+[u'barn', 0.50317556, u'lakeside', 0.12491284, u'boathouse', 0.12354837, u'thatch', 0.05876654, u'alp', 0.05400832]
+[u'altar', 0.2402247, u'candle', 0.095058888, u'spotlight', 0.068861708, u'perfume', 0.056072976, u'pole', 0.044484887]

@@ -1,0 +1,7 @@
+[u'web_site', 0.15156336, u'digital_watch', 0.078398556, u'digital_clock', 0.059597272, u'remote_control', 0.059148878, u'crossword_puzzle', 0.04310327]
+[u'web_site', 0.10404252, u'crossword_puzzle', 0.089573756, u'remote_control', 0.072072238, u'digital_clock', 0.029369626, u'scoreboard', 0.019398369]
+[u'web_site', 0.12124982, u'remote_control', 0.076588817, u'digital_clock', 0.052960325, u'crossword_puzzle', 0.033031348, u'stopwatch', 0.031582762]
+[u'web_site', 0.12296743, u'digital_clock', 0.091011614, u'remote_control', 0.083278947, u'crossword_puzzle', 0.039632507, u'digital_watch', 0.035895232]
+[u'crossword_puzzle', 0.13807653, u'web_site', 0.090095736, u'digital_clock', 0.075521104, u'digital_watch', 0.07194484, u'remote_control', 0.052102953]
+[u'crossword_puzzle', 0.30900311, u'remote_control', 0.079849549, u'web_site', 0.075554013, u'scoreboard', 0.061607901, u'digital_clock', 0.055920027]
+[u'digital_clock', 0.31548941, u'digital_watch', 0.09799926, u'web_site', 0.081664965, u'stopwatch', 0.071128137, u'scoreboard', 0.047271043]

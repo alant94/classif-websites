@@ -1,0 +1,1 @@
+[u'envelope', 0.1590192, u'web_site', 0.12007343, u'jersey', 0.043222107, u'digital_clock', 0.040736411, u'hook', 0.023963943]

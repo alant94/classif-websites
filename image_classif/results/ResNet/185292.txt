@@ -1,0 +1,5 @@
+[u'restaurant', 0.50708443, u'grocery_store', 0.14888847, u'dining_table', 0.11308445, u'potpie', 0.025957311, u'cauliflower', 0.021765452]
+[u'tricycle', 0.99292189, u'plow', 0.0035974074, u'barbell', 0.0025038812, u'dumbbell', 0.00047718047, u'jinrikisha', 0.00014097427]
+[u'screw', 0.25646818, u'whistle', 0.086317591, u'nail', 0.067294322, u'web_site', 0.043566149, u'cleaver', 0.039799277]
+[u'china_cabinet', 0.41481817, u'chiffonier', 0.35915476, u'bookcase', 0.071079798, u'wardrobe', 0.031088227, u'chest', 0.029923243]
+[u'ruffed_grouse', 0.28020245, u'black_grouse', 0.14786261, u'vulture', 0.086329907, u'triceratops', 0.076904215, u'prairie_chicken', 0.073749416]

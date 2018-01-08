@@ -1,0 +1,5 @@
+[u'book_jacket', 0.28276426, u'web_site', 0.1350618, u'menu', 0.061040133, u'alp', 0.038010068, u'cash_machine', 0.020046275]
+[u'buckle', 0.37559599, u'lighter', 0.24060987, u'shield', 0.095144667, u'bolo_tie', 0.060176965, u'mailbag', 0.036980376]
+[u'dam', 0.93810362, u'fountain', 0.058000095, u'breakwater', 0.0014588259, u'valley', 0.00072098826, u'cliff', 0.00025331599]
+[u'flagpole', 0.99724883, u'pole', 0.00094609376, u'beacon', 0.00046359855, u'parachute', 0.00032752455, u'seashore', 0.00012682374]
+[u'geyser', 0.72040957, u'volcano', 0.082537606, u'alp', 0.05196172, u'fountain', 0.042836852, u'fireboat', 0.042325113]

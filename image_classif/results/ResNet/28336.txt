@@ -1,0 +1,2 @@
+[u'timber_wolf', 0.64043742, u'white_wolf', 0.14542256, u'red_wolf', 0.10032898, u'coyote', 0.098729253, u'dingo', 0.0050197411]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

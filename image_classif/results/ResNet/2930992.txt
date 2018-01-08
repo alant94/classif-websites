@@ -1,0 +1,5 @@
+[u'ear', 0.17135127, u'hip', 0.15603541, u'acorn', 0.082541898, u'earthstar', 0.067547515, u'corn', 0.06371133]
+[u'web_site', 0.090406187, u'envelope', 0.015477229, u'nail', 0.014962353, u'power_drill', 0.014718122, u'menu', 0.011751099]
+[u'web_site', 0.31882262, u'digital_clock', 0.093688995, u'hair_spray', 0.039259501, u'analog_clock', 0.031588931, u'laptop', 0.026739024]
+[u'safety_pin', 0.29366633, u'can_opener', 0.15716413, u'web_site', 0.1003491, u'corkscrew', 0.023850406, u'Band_Aid', 0.022390228]
+[u'walking_stick', 0.37327293, u'nail', 0.15566446, u'mantis', 0.11703791, u'matchstick', 0.088962458, u'paintbrush', 0.017752966]

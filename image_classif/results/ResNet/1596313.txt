@@ -1,0 +1,5 @@
+[u'barber_chair', 0.40633804, u'toilet_tissue', 0.12889606, u'barbershop', 0.054767061, u'toilet_seat', 0.045402836, u'soccer_ball', 0.027958473]
+[u'radio_telescope', 0.869838, u'puck', 0.036037348, u'balloon', 0.011918076, u'tennis_ball', 0.0057930327, u'book_jacket', 0.0056656143]
+[u'bikini', 0.82548553, u'maillot', 0.10070685, u'brassiere', 0.015002852, u'maillot', 0.0097556775, u'bathing_cap', 0.0082106907]
+[u'wallet', 0.35210657, u'letter_opener', 0.083030969, u'rule', 0.077438116, u'packet', 0.048979305, u'hair_slide', 0.042067293]
+[u'toilet_tissue', 0.29397428, u'lotion', 0.19475056, u'pill_bottle', 0.18705988, u'book_jacket', 0.12163816, u'wine_bottle', 0.032168597]

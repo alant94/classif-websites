@@ -1,0 +1,5 @@
+[u'book_jacket', 0.78150034, u'packet', 0.082146503, u'perfume', 0.067166276, u'binder', 0.016190886, u'carton', 0.013904657]
+[u'prayer_rug', 0.45396748, u'crossword_puzzle', 0.33525634, u'maze', 0.047587022, u'quilt', 0.030827671, u'digital_clock', 0.011732542]
+[u'wig', 0.13196476, u'web_site', 0.085650928, u'television', 0.063937284, u'hair_spray', 0.049322776, u'hand_blower', 0.044929028]
+[u'envelope', 0.088825174, u'iron', 0.06623435, u'swab', 0.047008302, u'shovel', 0.04171735, u'web_site', 0.041453518]
+[u'book_jacket', 0.49216363, u'doormat', 0.04604109, u'tree_frog', 0.03490071, u'football_helmet', 0.032121208, u'comic_book', 0.025653893]

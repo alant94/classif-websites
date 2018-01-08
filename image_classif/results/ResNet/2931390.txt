@@ -1,0 +1,6 @@
+[u'sandal', 0.29382023, u'groom', 0.14104722, u'sunglasses', 0.059832208, u'bath_towel', 0.032049689, u'rapeseed', 0.031294916]
+[u'screw', 0.15382595, u'comic_book', 0.14479609, u'bearskin', 0.062369928, u'web_site', 0.058393709, u'book_jacket', 0.058089774]
+[u'shower_curtain', 0.14228021, u'bath_towel', 0.12361825, u'wig', 0.086484328, u'pajama', 0.072155006, u'cardigan', 0.066010952]
+[u'traffic_light', 0.40579081, u'street_sign', 0.16719264, u'book_jacket', 0.13082315, u'analog_clock', 0.099724807, u'bearskin', 0.072796829]
+[u'jellyfish', 0.86647296, u'lionfish', 0.074528664, u'scuba_diver', 0.014329153, u'sea_snake', 0.0028318418, u'ear', 0.0027404034]
+[u'book_jacket', 0.36805519, u'comic_book', 0.13195674, u'barbershop', 0.049499638, u'cornet', 0.03110067, u'theater_curtain', 0.027368616]

@@ -1,0 +1,6 @@
+[u'street_sign', 0.41072726, u'web_site', 0.31750926, u'laptop', 0.032365099, u'printer', 0.022925923, u'desktop_computer', 0.015915088]
+[u'moving_van', 0.076555707, u'minibus', 0.076457679, u'cab', 0.073358506, u'pickup', 0.066732459, u'limousine', 0.062437408]
+[u'pinwheel', 0.63447666, u'hair_slide', 0.08526779, u'envelope', 0.062570333, u'web_site', 0.060023312, u'laptop', 0.02878176]
+[u'web_site', 0.96246374, u'comic_book', 0.014547605, u'menu', 0.0079833241, u'book_jacket', 0.0012846587, u'television', 0.0012608544]
+[u'forklift', 0.097604021, u'clumber', 0.059390966, u'television', 0.048678484, u'moving_van', 0.039490085, u'tractor', 0.038125757]
+[u'envelope', 0.58740735, u'web_site', 0.11515743, u'shower_curtain', 0.019224048, u'handkerchief', 0.013342428, u'parachute', 0.0082384385]

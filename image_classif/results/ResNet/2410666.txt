@@ -1,0 +1,2 @@
+[u'bell_pepper', 0.30190486, u'book_jacket', 0.16240868, u"jack-o'-lantern", 0.08225704, u'comic_book', 0.051726211, u'velvet', 0.051428922]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,4 @@
+[u'restaurant', 0.29114696, u'red_wine', 0.26090133, u'wine_bottle', 0.141287, u'dining_table', 0.078222416, u'beer_bottle', 0.069980703]
+[u'wine_bottle', 0.98501343, u'pop_bottle', 0.01094607, u'red_wine', 0.0022125517, u'beer_bottle', 0.0007488089, u'grocery_store', 0.00013900231]
+[u'maze', 0.44616017, u'lakeside', 0.047050864, u'chainlink_fence', 0.029941551, u'planetarium', 0.021057194, u'solar_dish', 0.020872304]
+[u'worm_fence', 0.079555146, u'lakeside', 0.075756162, u'pole', 0.069817774, u'head_cabbage', 0.050631758, u'ear', 0.044918966]

@@ -1,0 +1,4 @@
+[u'spotlight', 0.046316523, u'doormat', 0.045404788, u'maze', 0.038092811, u'chain_mail', 0.035969611, u'velvet', 0.035745949]
+[u'Petri_dish', 0.071522832, u'rule', 0.069575645, u'tractor', 0.063981846, u'nail', 0.03301464, u'lakeside', 0.025075994]
+[u'mitten', 0.35369003, u'lipstick', 0.15668026, u'thimble', 0.090885021, u'vase', 0.04901458, u'saltshaker', 0.024165243]
+[u'packet', 0.93493843, u'book_jacket', 0.0071680895, u'honeycomb', 0.0046825358, u'cash_machine', 0.0043514469, u'envelope', 0.0040728478]

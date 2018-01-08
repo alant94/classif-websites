@@ -1,0 +1,4 @@
+[u'harp', 0.45175779, u'pot', 0.044495415, u'patio', 0.043768644, u'shoji', 0.033186011, u'bannister', 0.024300879]
+[u'candle', 0.18008621, u'jean', 0.17850643, u'comic_book', 0.056760754, u'sarong', 0.039862301, u'matchstick', 0.038066123]
+[u'paintbrush', 0.42091855, u'swab', 0.079405442, u'tub', 0.062973432, u'quill', 0.050283566, u'butcher_shop', 0.041747767]
+[u'candle', 0.99469155, u'projectile', 0.0018082126, u'missile', 0.0010312882, u'matchstick', 0.0009829225, u'space_shuttle', 0.00035849024]

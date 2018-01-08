@@ -1,0 +1,4 @@
+[u'television', 0.45854849, u'monitor', 0.27370712, u'screen', 0.036239438, u'solar_dish', 0.034185942, u'web_site', 0.032967038]
+[u'book_jacket', 0.34033969, u'binder', 0.26677313, u'refrigerator', 0.043908961, u'web_site', 0.037417021, u'laptop', 0.031835496]
+[u'accordion', 0.18515901, u'grand_piano', 0.090189569, u'military_uniform', 0.072437569, u'bicycle-built-for-two', 0.068513542, u'miniskirt', 0.06679488]
+[u'castle', 0.23574509, u'cliff', 0.18304145, u'alp', 0.11622147, u'church', 0.09123268, u'beacon', 0.085961133]

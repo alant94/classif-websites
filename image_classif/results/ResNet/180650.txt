@@ -1,0 +1,1 @@
+[u'whistle', 0.61072654, u'chime', 0.1073204, u'necklace', 0.025884511, u'envelope', 0.017726334, u'soap_dispenser', 0.017111056]

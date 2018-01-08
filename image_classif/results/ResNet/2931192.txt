@@ -1,0 +1,7 @@
+[u'volleyball', 0.27858502, u'swimming_trunks', 0.12866679, u'stupa', 0.10628773, u'sarong', 0.068195879, u'horizontal_bar', 0.051484022]
+[u'wall_clock', 0.16604258, u'shield', 0.10717959, u'chime', 0.088672407, u'throne', 0.075173564, u'breastplate', 0.049593143]
+[u'web_site', 0.91514063, u'envelope', 0.016446089, u'book_jacket', 0.010624643, u'oscilloscope', 0.0029726021, u'lipstick', 0.0019553546]
+[u'wig', 0.17754054, u'titi', 0.17455432, u'spider_monkey', 0.062431604, u'patas', 0.060736783, u'capuchin', 0.048210863]
+[u'web_site', 0.24440788, u'crossword_puzzle', 0.16185385, u'switch', 0.042487361, u'hard_disc', 0.039023686, u'modem', 0.034163963]
+[u'wig', 0.39432839, u'proboscis_monkey', 0.18913949, u'Old_English_sheepdog', 0.033550307, u'lipstick', 0.031133641, u'bikini', 0.025449654]
+[u'mouse', 0.21654771, u'can_opener', 0.20235194, u'hook', 0.12482186, u'letter_opener', 0.076584712, u'soap_dispenser', 0.051819857]

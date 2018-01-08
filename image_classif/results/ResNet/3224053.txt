@@ -1,0 +1,3 @@
+[u'church', 0.8029595, u'bell_cote', 0.056621335, u'monastery', 0.049289923, u'vault', 0.03024785, u'palace', 0.012959449]
+[u'coffee_mug', 0.4898724, u'hair_spray', 0.077776231, u'lotion', 0.075001165, u'oil_filter', 0.066964351, u'carton', 0.029849738]
+[u'Band_Aid', 0.29822329, u'digital_clock', 0.17621455, u'ambulance', 0.053322773, u'scoreboard', 0.050266828, u'envelope', 0.043872789]

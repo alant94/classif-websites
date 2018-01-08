@@ -1,0 +1,2 @@
+[u'military_uniform', 0.28905112, u'accordion', 0.077075511, u'toaster', 0.067182846, u'fur_coat', 0.029813217, u'Band_Aid', 0.025281273]
+[u'desk', 0.43113306, u'web_site', 0.14173099, u'television', 0.075768709, u'desktop_computer', 0.061324857, u'printer', 0.05150589]

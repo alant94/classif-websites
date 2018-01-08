@@ -1,0 +1,6 @@
+[u'suit', 0.94441396, u'Windsor_tie', 0.030345026, u'groom', 0.0096074473, u'bolo_tie', 0.0094368113, u'notebook', 0.002189232]
+[u'dough', 0.83793473, u"potter's_wheel", 0.072867535, u'sunscreen', 0.018329704, u'cleaver', 0.006359621, u'hermit_crab', 0.0051475582]
+[u'paper_towel', 0.11203583, u'hair_spray', 0.092064872, u'coffee_mug', 0.056683477, u'envelope', 0.034860618, u'lotion', 0.024943158]
+[u'sarong', 0.16126609, u'pajama', 0.15032792, u'ice_lolly', 0.063216791, u'hair_spray', 0.02255507, u'feather_boa', 0.021604147]
+[u'cabbage_butterfly', 0.45315683, u'daisy', 0.27776182, u'lacewing', 0.073531576, u'ringlet', 0.040338732, u'pinwheel', 0.037720937]
+[u'suit', 0.71236378, u'notebook', 0.033252463, u'trench_coat', 0.027284369, u'bassoon', 0.024678798, u'lab_coat', 0.019818477]

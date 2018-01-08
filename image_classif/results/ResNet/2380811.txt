@@ -1,0 +1,6 @@
+[u'hook', 0.099134542, u'web_site', 0.097998001, u'Band_Aid', 0.073374435, u'digital_clock', 0.069274746, u'switch', 0.064336784]
+[u'syringe', 0.15659718, u'pop_bottle', 0.11224171, u'lab_coat', 0.10132847, u'wine_bottle', 0.07808543, u'hair_spray', 0.069146812]
+[u'tobacco_shop', 0.13009216, u'pretzel', 0.044011012, u'book_jacket', 0.040311106, u'street_sign', 0.038441326, u'sunscreen', 0.028528767]
+[u'crutch', 0.20748381, u'web_site', 0.087996893, u'hook', 0.05596216, u'shovel', 0.050893907, u'trombone', 0.047695566]
+[u'beer_glass', 0.52898198, u'tray', 0.05806119, u'sliding_door', 0.036142927, u'washbasin', 0.034922935, u'restaurant', 0.032803729]
+[u'Band_Aid', 0.37147295, u'lighter', 0.09746027, u'shield', 0.041027412, u'wall_clock', 0.025951684, u'scale', 0.024816934]

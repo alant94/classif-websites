@@ -1,0 +1,2 @@
+[u'balloon', 0.16280819, u'web_site', 0.060015634, u'picket_fence', 0.042879377, u'shield', 0.025786396, u'sunscreen', 0.022249825]
+[u'web_site', 0.96021199, u'envelope', 0.01647977, u'remote_control', 0.0037463272, u'hand-held_computer', 0.0037208509, u'modem', 0.0011435]

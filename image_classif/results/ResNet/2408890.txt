@@ -1,0 +1,6 @@
+[u'puck', 0.42829594, u'pick', 0.066163599, u'face_powder', 0.060200922, u'analog_clock', 0.05241102, u'gong', 0.023225177]
+[u'web_site', 0.1654308, u'ski', 0.078055568, u'jersey', 0.075233437, u'analog_clock', 0.027410116, u'hair_spray', 0.026585335]
+[u'golf_ball', 0.41824555, u'ping-pong_ball', 0.066166684, u'spotlight', 0.042861927, u'hourglass', 0.030383963, u'tennis_ball', 0.029806772]
+[u'folding_chair', 0.23420237, u'hook', 0.076673269, u'web_site', 0.051247738, u'tripod', 0.027970776, u'book_jacket', 0.0247816]
+[u'web_site', 0.58045483, u'book_jacket', 0.071726277, u'envelope', 0.041752547, u'digital_clock', 0.022649206, u'analog_clock', 0.011893469]
+[u'web_site', 0.11622009, u'chime', 0.047846083, u'hair_spray', 0.037412886, u'nail', 0.026022853, u'modem', 0.022604294]

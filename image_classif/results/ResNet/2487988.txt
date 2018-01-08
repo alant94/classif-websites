@@ -1,0 +1,8 @@
+[u'suit', 0.87819993, u'Windsor_tie', 0.044003308, u'trench_coat', 0.019793419, u'bolo_tie', 0.0084356042, u'Kerry_blue_terrier', 0.0030253271]
+[u'notebook', 0.17768313, u'laptop', 0.17554273, u'grand_piano', 0.086924821, u'projector', 0.074666806, u'desk', 0.073946826]
+[u'suit', 0.88427186, u'Windsor_tie', 0.08923924, u'bolo_tie', 0.003390339, u'groom', 0.0032667085, u'Kerry_blue_terrier', 0.0027676881]
+[u'organ', 0.64509535, u'library', 0.13013394, u'crutch', 0.052255243, u'bannister', 0.03627345, u'flagpole', 0.03039203]
+[u'tripod', 0.20965143, u'oscilloscope', 0.057113353, u'cleaver', 0.039175514, u'pick', 0.036927972, u'radio', 0.020981373]
+[u'lighter', 0.079467244, u'perfume', 0.074763358, u'vase', 0.058128387, u'crossword_puzzle', 0.052641481, u'book_jacket', 0.044479456]
+[u'screw', 0.56100112, u'panpipe', 0.30847809, u'pencil_sharpener', 0.051386055, u'marimba', 0.028726829, u'plunger', 0.019039897]
+[u'coffee_mug', 0.12613349, u'pick', 0.073255993, u'buckle', 0.063587539, u'whiskey_jug', 0.050885826, u'thimble', 0.040926337]

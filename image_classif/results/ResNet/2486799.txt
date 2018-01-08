@@ -1,0 +1,2 @@
+[u'hare', 0.22894832, u'Lakeland_terrier', 0.12620622, u'parachute', 0.10038056, u'Border_terrier', 0.050655689, u'megalith', 0.045667555]
+[u'lakeside', 0.69748181, u'sandbar', 0.10578725, u'boathouse', 0.024787799, u'valley', 0.016203195, u'geyser', 0.0094688535]

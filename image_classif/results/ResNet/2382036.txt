@@ -1,0 +1,2 @@
+[u'screwdriver', 0.20903763, u"carpenter's_kit", 0.20270169, u'lighter', 0.092301108, u'nipple', 0.071220569, u'hair_spray', 0.035588134]
+[u'pill_bottle', 0.664738, u'barometer', 0.11339426, u'slide_rule', 0.097072862, u'pencil_sharpener', 0.010693322, u'beer_glass', 0.0063021318]

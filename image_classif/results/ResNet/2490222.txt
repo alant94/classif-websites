@@ -1,0 +1,2 @@
+[u'fountain', 0.11925562, u'groom', 0.11001702, u'shower_curtain', 0.06059359, u'spider_web', 0.054185517, u'mosquito_net', 0.052082602]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

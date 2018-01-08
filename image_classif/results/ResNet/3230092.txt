@@ -1,0 +1,6 @@
+[u'bell_cote', 0.47602051, u'church', 0.11714382, u'cinema', 0.031109262, u'patio', 0.028477255, u'gas_pump', 0.018440822]
+[u'barbershop', 0.17831028, u'comic_book', 0.12487217, u'book_jacket', 0.053871568, u'hair_spray', 0.05188464, u'tray', 0.047809586]
+[u'grocery_store', 0.28843147, u'accordion', 0.25769952, u'kimono', 0.21403481, u'slot', 0.097362846, u'drum', 0.015715964]
+[u'vase', 0.19000743, u'lipstick', 0.048675079, u'red_wine', 0.033819117, u'steel_drum', 0.033567391, u'pot', 0.02742124]
+[u'pillow', 0.67935479, u'wool', 0.15692614, u'Christmas_stocking', 0.069127128, u'sock', 0.025888998, u'stole', 0.01942437]
+[u'wardrobe', 0.42231315, u'coho', 0.10510231, u'cash_machine', 0.077818193, u'vending_machine', 0.028531758, u'lab_coat', 0.026333703]

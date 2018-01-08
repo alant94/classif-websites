@@ -1,0 +1,5 @@
+[u'spider_web', 0.9697901, u'barn_spider', 0.012484397, u'jersey', 0.0029973353, u'book_jacket', 0.0022953637, u'jellyfish', 0.0012733742]
+[u'acoustic_guitar', 0.40472737, u'electric_guitar', 0.24091093, u'banjo', 0.13879639, u'violin', 0.096404858, u'cello', 0.031489804]
+[u'spider_web', 0.78537798, u'barn_spider', 0.078623943, u'tennis_ball', 0.016989242, u'chain', 0.013494817, u'black_and_gold_garden_spider', 0.011658598]
+[u'electric_guitar', 0.32660988, u'loudspeaker', 0.13603593, u'acoustic_guitar', 0.13323674, u'fire_screen', 0.040123731, u'pick', 0.0383664]
+[u'spider_web', 0.65392083, u'barn_spider', 0.25207818, u'garden_spider', 0.080180936, u'black_and_gold_garden_spider', 0.010315736, u'wolf_spider', 0.0010293531]

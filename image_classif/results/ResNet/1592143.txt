@@ -1,0 +1,1 @@
+[u'swimming_trunks', 0.79285902, u'brassiere', 0.033672202, u'bath_towel', 0.030184144, u'diaper', 0.018191177, u'candle', 0.016696522]

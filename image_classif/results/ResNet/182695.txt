@@ -1,0 +1,3 @@
+[u'hair_slide', 0.38080448, u'hatchet', 0.066711672, u'screw', 0.037174713, u'electric_guitar', 0.03201716, u'scabbard', 0.031568762]
+[u'web_site', 0.25964317, u'envelope', 0.12267336, u'screw', 0.10871445, u'binder', 0.032634031, u'laptop', 0.022777651]
+[u'oscilloscope', 0.23262252, u'web_site', 0.19145192, u'street_sign', 0.1072222, u'packet', 0.072750226, u'cash_machine', 0.038444664]

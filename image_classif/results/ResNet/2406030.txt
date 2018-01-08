@@ -1,0 +1,4 @@
+[u'street_sign', 0.27327555, u'oxygen_mask', 0.19544041, u'hair_slide', 0.11839361, u'traffic_light', 0.056429587, u'digital_clock', 0.026522666]
+[u'digital_clock', 0.17958474, u'web_site', 0.091033027, u'monitor', 0.074065074, u'lighter', 0.07259503, u'screen', 0.060304876]
+[u'mousetrap', 0.60374582, u'space_shuttle', 0.094829723, u'guillotine', 0.02713781, u'reel', 0.020506527, u'barracouta', 0.01969848]
+[u'fire_engine', 0.12645906, u'scoreboard', 0.10489044, u'book_jacket', 0.092348941, u'street_sign', 0.05392006, u'lighter', 0.045101397]

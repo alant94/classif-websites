@@ -1,0 +1,5 @@
+[u'bakery', 0.63390172, u'tobacco_shop', 0.12980938, u'cinema', 0.056240033, u'street_sign', 0.042115577, u'barbershop', 0.03696125]
+[u'whistle', 0.28958389, u'picket_fence', 0.16640112, u'digital_clock', 0.11663432, u'maze', 0.061950814, u'digital_watch', 0.031426314]
+[u'golf_ball', 0.096105598, u'ballplayer', 0.08991617, u'pole', 0.034678236, u'African_hunting_dog', 0.030387063, u'stage', 0.029123086]
+[u'face_powder', 0.44333771, u'puck', 0.16854183, u'pick', 0.041671637, u'lighter', 0.030617356, u'drum', 0.025699265]
+[u'ballpoint', 0.955033, u'letter_opener', 0.011266869, u'screwdriver', 0.0086558191, u'rule', 0.0025485924, u'plate_rack', 0.0024677152]

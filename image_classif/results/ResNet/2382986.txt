@@ -1,0 +1,4 @@
+[u'web_site', 0.1607645, u'nail', 0.054045998, u'hook', 0.053553477, u'menu', 0.025286559, u'comic_book', 0.022710551]
+[u'hook', 0.08172714, u'pick', 0.058131374, u'stopwatch', 0.053375393, u'nematode', 0.050235517, u'power_drill', 0.048819289]
+[u'digital_clock', 0.42811996, u'toaster', 0.06498681, u'analog_clock', 0.056589037, u'digital_watch', 0.044601191, u'screw', 0.039267391]
+[u'chain', 0.21039322, u'stopwatch', 0.17309991, u'iron', 0.10682902, u'knot', 0.10115332, u'nematode', 0.071139447]

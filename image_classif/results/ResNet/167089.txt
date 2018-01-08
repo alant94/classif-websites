@@ -1,0 +1,2 @@
+[u'nipple', 0.52131367, u'whistle', 0.10407944, u'plate_rack', 0.044553913, u'oxygen_mask', 0.042189315, u'hair_slide', 0.041141827]
+[u'bow', 0.18594633, u'stethoscope', 0.11222156, u'hook', 0.071043797, u'hair_slide', 0.059549373, u'stretcher', 0.056022901]

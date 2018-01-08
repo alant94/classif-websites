@@ -1,0 +1,8 @@
+[u'pole', 0.19812854, u'maze', 0.094084218, u'worm_fence', 0.056397174, u'rapeseed', 0.05312188, u'viaduct', 0.044242259]
+[u'swing', 0.26659083, u'birdhouse', 0.12053497, u'park_bench', 0.05481324, u'megalith', 0.041751824, u'stone_wall', 0.034706555]
+[u'park_bench', 0.12281219, u'mailbox', 0.044926841, u'shopping_cart', 0.042398963, u'pole', 0.040255412, u'swing', 0.032514319]
+[u'park_bench', 0.1697353, u'pole', 0.1446498, u'mailbox', 0.054329854, u'flagpole', 0.050410472, u'birdhouse', 0.047372382]
+[u'cowboy_hat', 0.50473791, u'shower_cap', 0.17105891, u'tray', 0.04593204, u'toilet_seat', 0.029238174, u'pretzel', 0.019868262]
+[u'park_bench', 0.091526233, u'flagpole', 0.05951748, u'swing', 0.057172731, u'balloon', 0.055808924, u'picket_fence', 0.055651471]
+[u'chainlink_fence', 0.62858957, u'worm_fence', 0.057907362, u'bannister', 0.045801111, u'suspension_bridge', 0.02870529, u'viaduct', 0.027417801]
+[u'daisy', 0.29767734, u'pot', 0.24794644, u'picket_fence', 0.048659232, u'birdhouse', 0.021471238, u'flat-coated_retriever', 0.018409513]

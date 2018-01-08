@@ -1,0 +1,8 @@
+[u'restaurant', 0.7611357, u'patio', 0.13498865, u'grocery_store', 0.016521396, u'sliding_door', 0.013068665, u'dining_table', 0.009441291]
+[u'barrel', 0.78911358, u'lumbermill', 0.041687217, u'drum', 0.010754766, u'quilt', 0.0091694687, u"potter's_wheel", 0.0061261952]
+[u'boathouse', 0.99285126, u'lakeside', 0.0064608897, u'beacon', 0.00015698156, u'canoe', 8.031747e-05, u'church', 7.6967386e-05]
+[u'crutch', 0.11606144, u'worm_fence', 0.096787438, u'breakwater', 0.077785209, u'rapeseed', 0.074842192, u'abaya', 0.055522155]
+[u'wine_bottle', 0.38157332, u'red_wine', 0.31579375, u'beer_bottle', 0.14831659, u'beer_glass', 0.088417627, u'pop_bottle', 0.041812997]
+[u'plate', 0.58681756, u'strawberry', 0.18681677, u'trifle', 0.023048637, u'corn', 0.019845515, u'French_loaf', 0.018865433]
+[u'Afghan_hound', 0.11917164, u'Irish_wolfhound', 0.10507236, u'fur_coat', 0.073269308, u'borzoi', 0.062247198, u'Scottish_deerhound', 0.060570125]
+[u'lakeside', 0.8483355, u'canoe', 0.070732623, u'valley', 0.042448863, u'boathouse', 0.018771688, u'breakwater', 0.0059543108]

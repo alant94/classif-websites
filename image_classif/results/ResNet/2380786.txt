@@ -1,0 +1,4 @@
+[u'fountain', 0.42422053, u'chain', 0.30785301, u'worm_fence', 0.061819542, u'chainlink_fence', 0.060260866, u'padlock', 0.046388075]
+[u'electric_guitar', 0.052785311, u'projector', 0.050518811, u'toaster', 0.044591773, u'shovel', 0.026424741, u'hard_disc', 0.024208292]
+[u'wine_bottle', 0.71314043, u'red_wine', 0.28394267, u'corkscrew', 0.0010138693, u'spatula', 0.00050212478, u'beer_bottle', 0.00029062972]
+[u'coral_fungus', 0.13337013, u'artichoke', 0.093222015, u'coral_reef', 0.0662494, u'daisy', 0.044261012, u'cardoon', 0.038880568]

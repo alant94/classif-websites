@@ -1,0 +1,3 @@
+[u'hartebeest', 0.42049634, u'impala', 0.32002276, u'gazelle', 0.18025468, u'zebra', 0.027041774, u'dhole', 0.0095402198]
+[u'jigsaw_puzzle', 0.6811685, u'envelope', 0.052068479, u'pillow', 0.018747628, u'rubber_eraser', 0.018096702, u'handkerchief', 0.01807704]
+[u'envelope', 0.20028825, u'book_jacket', 0.19953614, u'rubber_eraser', 0.085804112, u'fire_screen', 0.065131381, u'binder', 0.046090707]

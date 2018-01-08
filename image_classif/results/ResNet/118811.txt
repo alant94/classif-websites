@@ -1,0 +1,3 @@
+[u'moped', 0.22204944, u'bicycle-built-for-two', 0.21838163, u'motor_scooter', 0.20514919, u'mountain_bike', 0.071081534, u'knee_pad', 0.068721026]
+[u'traffic_light', 0.49559122, u'snowmobile', 0.11228098, u'steam_locomotive', 0.070610873, u'spotlight', 0.050922628, u'balloon', 0.035502665]
+[u'crossword_puzzle', 0.2282597, u'web_site', 0.22192006, u'rule', 0.095928177, u'screw', 0.095097825, u'nail', 0.03449519]

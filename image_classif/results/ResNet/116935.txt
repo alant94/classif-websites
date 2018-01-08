@@ -1,0 +1,3 @@
+[u'jean', 0.069584206, u"potter's_wheel", 0.068785593, u'miniskirt', 0.061787069, u'pajama', 0.04987935, u'rocking_chair', 0.037333418]
+[u'sea_urchin', 0.47767004, u'coral_reef', 0.15995762, u'sea_anemone', 0.030908519, u'jigsaw_puzzle', 0.029718112, u'pineapple', 0.017587075]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

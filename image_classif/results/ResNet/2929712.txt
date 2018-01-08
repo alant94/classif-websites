@@ -1,0 +1,1 @@
+[u'wall_clock', 0.17065613, u'coil', 0.080694973, u'electric_fan', 0.078144513, u'gong', 0.077608883, u'lampshade', 0.073757201]

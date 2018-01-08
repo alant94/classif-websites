@@ -1,0 +1,4 @@
+[u'dining_table', 0.31448328, u'violin', 0.16649806, u'rocking_chair', 0.076713271, u'plate_rack', 0.052203909, u'banjo', 0.040379912]
+[u'guillotine', 0.94803315, u'ambulance', 0.0068909666, u'lighter', 0.0066789789, u'triumphal_arch', 0.0061750081, u'envelope', 0.0030137135]
+[u'jersey', 0.11399406, u'sweatshirt', 0.099245638, u'binder', 0.091990694, u'web_site', 0.066070728, u'envelope', 0.057724219]
+[u'letter_opener', 0.3442539, u'wall_clock', 0.10789982, u'hair_slide', 0.064368077, u'scabbard', 0.05407789, u'projectile', 0.032366995]

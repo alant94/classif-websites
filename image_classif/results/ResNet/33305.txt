@@ -1,0 +1,4 @@
+[u'pick', 0.23442458, u'ashcan', 0.075958408, u'hair_spray', 0.053090241, u'book_jacket', 0.047063995, u'laptop', 0.042664435]
+[u'web_site', 0.45721436, u'comic_book', 0.10483986, u'Band_Aid', 0.10331778, u'binder', 0.066970997, u'carton', 0.062365517]
+[u'pencil_sharpener', 0.52284664, u'hornbill', 0.047116078, u'envelope', 0.038243651, u'web_site', 0.026732244, u'pelican', 0.026497109]
+[u'tench', 0.1971685, u'bolete', 0.079806499, u'hen-of-the-woods', 0.031575553, u'terrapin', 0.031164931, u'American_lobster', 0.028996931]

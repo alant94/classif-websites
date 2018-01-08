@@ -1,0 +1,3 @@
+[u'digital_clock', 0.43482009, u'traffic_light', 0.23025236, u'street_sign', 0.089057468, u'cash_machine', 0.062960394, u'screen', 0.044568393]
+[u'cash_machine', 0.12850872, u'digital_clock', 0.07854224, u'street_sign', 0.045080654, u'prayer_rug', 0.040434923, u'ambulance', 0.032643739]
+[u'web_site', 0.065497123, u'street_sign', 0.051482115, u'lighter', 0.047955338, u'analog_clock', 0.043626457, u'traffic_light', 0.037212197]

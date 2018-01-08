@@ -1,0 +1,3 @@
+[u'suit', 0.63981938, u'Windsor_tie', 0.080804452, u'groom', 0.037510391, u'bow_tie', 0.018111046, u'mortarboard', 0.016664498]
+[u'packet', 0.10055065, u'harmonica', 0.099302933, u'lighter', 0.088524409, u'sunscreen', 0.074398793, u'pill_bottle', 0.073569134]
+[u'crossword_puzzle', 0.18132639, u'web_site', 0.12957354, u'prayer_rug', 0.055015288, u'book_jacket', 0.037595749, u'digital_watch', 0.036461335]

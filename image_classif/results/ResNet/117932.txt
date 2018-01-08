@@ -1,0 +1,4 @@
+[u'toyshop', 0.95577514, u'mask', 0.015177207, u'confectionery', 0.01176312, u'throne', 0.0025619844, u'shoe_shop', 0.0023118423]
+[u'cannon', 0.42114478, u'punching_bag', 0.070058115, u'warplane', 0.046098497, u'space_shuttle', 0.04602303, u'padlock', 0.03786426]
+[u'spotlight', 0.17239143, u'stage', 0.071967997, u'assault_rifle', 0.063440524, u'trombone', 0.05305241, u'comic_book', 0.049662724]
+[u'prison', 0.11356066, u'stretcher', 0.057486851, u'forklift', 0.05712517, u'neck_brace', 0.050279718, u'library', 0.039445039]

@@ -1,0 +1,6 @@
+[u'umbrella', 0.087108202, u'bannister', 0.086473025, u'prison', 0.082891487, u'suspension_bridge', 0.078875691, u'gondola', 0.070571981]
+[u'harp', 0.45031112, u'miniskirt', 0.052106272, u'umbrella', 0.047133617, u'prison', 0.032184694, u'suspension_bridge', 0.028765829]
+[u'stole', 0.21007578, u'gown', 0.19857506, u'abaya', 0.18710846, u'cloak', 0.082799561, u'jean', 0.039370228]
+[u'abaya', 0.93241972, u'cloak', 0.031383004, u'jean', 0.0055333041, u'stole', 0.002643195, u'gown', 0.0026292005]
+[u'crutch', 0.27597481, u'parking_meter', 0.15742351, u'shovel', 0.1097775, u'ski', 0.083425038, u'swab', 0.035569184]
+[u'suit', 0.31596011, u'feather_boa', 0.16230439, u'sarong', 0.075664781, u'torch', 0.061587822, u'cash_machine', 0.050202943]

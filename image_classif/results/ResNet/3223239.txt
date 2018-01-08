@@ -1,0 +1,2 @@
+[u'web_site', 0.44791847, u'hook', 0.088144116, u'book_jacket', 0.054647081, u'table_lamp', 0.039783336, u'television', 0.026586473]
+[u'knee_pad', 0.07675878, u'hook', 0.069633164, u'vase', 0.054297455, u'web_site', 0.038888346, u'toilet_tissue', 0.031924181]

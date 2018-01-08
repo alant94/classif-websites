@@ -1,0 +1,5 @@
+[u'web_site', 0.75988823, u'envelope', 0.059003342, u'analog_clock', 0.011060125, u'folding_chair', 0.0073102475, u'hook', 0.0063247937]
+[u'web_site', 0.48971802, u'envelope', 0.13344328, u'hook', 0.017732106, u'oil_filter', 0.0078664105, u'can_opener', 0.0069836476]
+[u'web_site', 0.24624801, u'envelope', 0.045318726, u'washer', 0.036817767, u'lighter', 0.035047997, u'refrigerator', 0.034187824]
+[u'web_site', 0.23232333, u'book_jacket', 0.069739088, u'menu', 0.040127803, u'hair_spray', 0.031401135, u'oscilloscope', 0.029062372]
+[u'web_site', 0.73169756, u'envelope', 0.10671932, u'folding_chair', 0.012552867, u'dishwasher', 0.0087538166, u'hook', 0.0061604972]

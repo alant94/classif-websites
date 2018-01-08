@@ -1,0 +1,4 @@
+[u'microwave', 0.35378042, u'medicine_chest', 0.14661923, u'entertainment_center', 0.11702868, u'desk', 0.079200059, u'stove', 0.059512008]
+[u'vase', 0.21616267, u'hummingbird', 0.13367887, u'pot', 0.047101159, u'shoji', 0.042577643, u'hip', 0.038514696]
+[u'bell_cote', 0.31328374, u'planetarium', 0.087186284, u'alp', 0.072524741, u'thatch', 0.070186213, u'church', 0.068795159]
+[u'barn', 0.49374434, u'mobile_home', 0.13012245, u'worm_fence', 0.081875451, u'boathouse', 0.035054613, u'prison', 0.030705152]

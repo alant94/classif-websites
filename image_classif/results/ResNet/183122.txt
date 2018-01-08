@@ -1,0 +1,5 @@
+[u'iPod', 0.76826721, u'cassette', 0.1552901, u'jigsaw_puzzle', 0.06633392, u'cassette_player', 0.0017558319, u'space_shuttle', 0.00066547573]
+[u'bottlecap', 0.87638682, u'face_powder', 0.012281043, u'can_opener', 0.011008792, u'pill_bottle', 0.0087362891, u'switch', 0.0077002025]
+[u'coffee_mug', 0.25824967, u'web_site', 0.094359718, u'cash_machine', 0.055940282, u'binder', 0.023613393, u'beer_glass', 0.023481261]
+[u'web_site', 0.52997047, u'envelope', 0.046527315, u'street_sign', 0.033978567, u'can_opener', 0.030822396, u'digital_clock', 0.022221828]
+[u'cup', 0.2473851, u'coffee_mug', 0.20922963, u'pill_bottle', 0.09139441, u'nipple', 0.064761512, u'coffeepot', 0.052697405]

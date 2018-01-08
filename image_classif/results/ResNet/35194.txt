@@ -1,0 +1,7 @@
+[u'nematode', 0.23086154, u'iPod', 0.15310034, u'cassette', 0.12963046, u'oil_filter', 0.090538949, u'pill_bottle', 0.073220819]
+[u'shield', 0.81681848, u'pick', 0.015747139, u'football_helmet', 0.01401785, u'oxygen_mask', 0.013443244, u'remote_control', 0.012812912]
+[u'web_site', 0.21496654, u'nail', 0.18875912, u'screwdriver', 0.093302161, u'hammer', 0.052093912, u'screw', 0.050434437]
+[u'digital_clock', 0.86454391, u'digital_watch', 0.05776659, u'analog_clock', 0.051643454, u'stopwatch', 0.0076176203, u'screw', 0.0034586915]
+[u'web_site', 0.33935809, u'digital_clock', 0.079275116, u'stopwatch', 0.029572267, u'book_jacket', 0.015788013, u'remote_control', 0.014332537]
+[u'digital_clock', 0.68015265, u'digital_watch', 0.19535768, u'lighter', 0.017967891, u'switch', 0.014339604, u'combination_lock', 0.013373325]
+[u'web_site', 0.24417828, u'analog_clock', 0.23342957, u'envelope', 0.10599487, u'screen', 0.058590211, u'Band_Aid', 0.025908906]

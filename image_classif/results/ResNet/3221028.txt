@@ -1,0 +1,3 @@
+[u'web_site', 0.12149523, u'pick', 0.086475074, u'paintbrush', 0.055350933, u'doormat', 0.052332297, u'envelope', 0.027434535]
+[u'rubber_eraser', 0.12776114, u'pick', 0.090701468, u'whistle', 0.051253881, u'stopwatch', 0.049707841, u'coffee_mug', 0.048615854]
+[u'vestment', 0.25723669, u'academic_gown', 0.20073967, u'mortarboard', 0.13014966, u'unicycle', 0.056720342, u'maypole', 0.055689566]

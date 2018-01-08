@@ -1,0 +1,2 @@
+[u'joystick', 0.47924128, u'bell_cote', 0.057108205, u'church', 0.038085282, u'web_site', 0.03509675, u'remote_control', 0.025754251]
+[u'nail', 0.14886065, u'matchstick', 0.12757984, u'pick', 0.074488059, u'rule', 0.056138393, u'binder', 0.046704832]

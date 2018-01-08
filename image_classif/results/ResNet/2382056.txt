@@ -1,0 +1,5 @@
+[u'barn', 0.99110657, u'steam_locomotive', 0.0028915277, u'worm_fence', 0.0012918991, u'alp', 0.00078069791, u'church', 0.00045667484]
+[u'wine_bottle', 0.56035101, u'red_wine', 0.43235785, u'corkscrew', 0.0026986606, u'beer_bottle', 0.0025436527, u'hamper', 0.00054301519]
+[u'envelope', 0.34241927, u'menu', 0.22354843, u'web_site', 0.17715296, u'book_jacket', 0.027942248, u'packet', 0.022654481]
+[u'wine_bottle', 0.57271141, u'red_wine', 0.37982431, u'beer_bottle', 0.039171774, u'corkscrew', 0.0047873463, u'pop_bottle', 0.0015977944]
+[u'zucchini', 0.10933147, u'cucumber', 0.073309369, u'swing', 0.047435701, u'umbrella', 0.045728102, u'jackfruit', 0.032850139]

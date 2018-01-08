@@ -1,0 +1,2 @@
+[u'television', 0.92118728, u'screen', 0.012356118, u'punching_bag', 0.0054536136, u'hair_spray', 0.0043328083, u'brassiere', 0.0037778562]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

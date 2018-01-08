@@ -1,0 +1,5 @@
+[u'binder', 0.20749898, u'envelope', 0.11098182, u'guillotine', 0.082428053, u'pencil_sharpener', 0.066089258, u'medicine_chest', 0.048286084]
+[u'ambulance', 0.12872463, u'binder', 0.085217528, u'moving_van', 0.061483137, u'medicine_chest', 0.049027842, u'safe', 0.044694841]
+[u'binder', 0.47679988, u'envelope', 0.09813907, u'can_opener', 0.046442483, u'medicine_chest', 0.029678775, u'switch', 0.029484849]
+[u'web_site', 0.79311872, u'hair_spray', 0.015769897, u'envelope', 0.014249272, u'television', 0.0077247042, u'menu', 0.0068432391]
+[u'carton', 0.6803208, u'paper_towel', 0.10247376, u'crate', 0.032670379, u'whiskey_jug', 0.031036206, u'toilet_tissue', 0.028493004]

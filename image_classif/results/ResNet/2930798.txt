@@ -1,0 +1,1 @@
+[u'screwdriver', 0.44041067, u'rule', 0.13081788, u'slide_rule', 0.080090314, u'rubber_eraser', 0.049769774, u'paintbrush', 0.02642406]

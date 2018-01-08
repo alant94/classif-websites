@@ -1,0 +1,1 @@
+[u'book_jacket', 0.85920256, u'shield', 0.021010783, u'jersey', 0.020326784, u'laptop', 0.013005308, u'lighter', 0.0092843743]

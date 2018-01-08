@@ -1,0 +1,6 @@
+[u'bison', 0.99404693, u'ram', 0.0021482175, u'bighorn', 0.0010288316, u'water_buffalo', 0.00069362472, u'ox', 0.00059275248]
+[u'water_buffalo', 0.95803994, u'ox', 0.021063425, u'bison', 0.0070356699, u'oxcart', 0.0041427957, u'ram', 0.00378943]
+[u'hartebeest', 0.57678556, u'ibex', 0.30723253, u'gazelle', 0.072259992, u'impala', 0.032948118, u'warthog', 0.002318467]
+[u'impala', 0.35449842, u'bighorn', 0.189421, u'gazelle', 0.15302564, u'water_buffalo', 0.076930493, u'hartebeest', 0.060278032]
+[u'hartebeest', 0.47158352, u'gazelle', 0.18763448, u'impala', 0.1235742, u'African_hunting_dog', 0.090649433, u'dhole', 0.035944451]
+[u'wild_boar', 0.94362956, u'hog', 0.047961377, u'warthog', 0.0083021028, u'bison', 2.5860354e-05, u'kit_fox', 7.3607948e-06]

@@ -1,0 +1,6 @@
+[u'web_site', 0.86625749, u'menu', 0.12932809, u'envelope', 0.00052754831, u'notebook', 0.00042148819, u'screen', 0.00023963864]
+[u'analog_clock', 0.15867969, u'envelope', 0.086969115, u'medicine_chest', 0.073326752, u'cash_machine', 0.068039589, u'lighter', 0.063722514]
+[u'web_site', 0.23075651, u'ski', 0.22666606, u'hair_spray', 0.07895831, u'comic_book', 0.042855162, u'lighter', 0.017819282]
+[u'street_sign', 0.45626599, u'traffic_light', 0.12425971, u'oxygen_mask', 0.10283902, u'switch', 0.096551679, u'digital_clock', 0.054884836]
+[u'envelope', 0.074529521, u'web_site', 0.066412039, u'Band_Aid', 0.059022624, u'digital_clock', 0.052801307, u'medicine_chest', 0.045279577]
+[u'menu', 0.24545979, u'envelope', 0.068976738, u'web_site', 0.062784635, u'comic_book', 0.028709391, u'carton', 0.028271236]

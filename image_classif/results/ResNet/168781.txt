@@ -1,0 +1,8 @@
+[u'web_site', 0.081114762, u'refrigerator', 0.050846126, u'dishwasher', 0.046554402, u'envelope', 0.040125202, u'flagpole', 0.036443122]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'hair_spray', 0.64606893, u'theater_curtain', 0.074222043, u'shower_curtain', 0.058023117, u'lipstick', 0.030282546, u'lotion', 0.015188051]
+[u'scoreboard', 0.25431946, u'screen', 0.22137356, u'monitor', 0.12558655, u'book_jacket', 0.02920362, u'digital_watch', 0.028659523]
+[u'hair_spray', 0.64496249, u'theater_curtain', 0.077912964, u'shower_curtain', 0.058336973, u'lipstick', 0.030648779, u'lotion', 0.015218893]
+[u'hair_spray', 0.64494097, u'theater_curtain', 0.071214825, u'shower_curtain', 0.060286164, u'lipstick', 0.029439218, u'lotion', 0.015502026]
+[u'ant', 0.67622447, u'screw', 0.068801843, u'cockroach', 0.025931269, u'hair_slide', 0.017390314, u'nail', 0.01480835]
+[u'chime', 0.40748689, u'bannister', 0.05745212, u'screwdriver', 0.047455873, u'ballpoint', 0.04392891, u'nail', 0.034342218]

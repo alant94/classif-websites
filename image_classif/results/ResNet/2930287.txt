@@ -1,0 +1,3 @@
+[u'barber_chair', 0.4798063, u'waffle_iron', 0.058092482, u'loudspeaker', 0.052457217, u'Dutch_oven', 0.032540936, u'Crock_Pot', 0.026436426]
+[u'china_cabinet', 0.1797038, u'entertainment_center', 0.070867926, u'patio', 0.059897579, u'sliding_door', 0.053096332, u'dining_table', 0.040532246]
+[u'file', 0.3847546, u'studio_couch', 0.080844693, u'wardrobe', 0.063282043, u'vacuum', 0.047038678, u'chest', 0.036092371]

@@ -1,0 +1,4 @@
+[u'web_site', 0.79716647, u'banjo', 0.069921583, u'barometer', 0.061136752, u'wall_clock', 0.015323829, u'menu', 0.0053111492]
+[u'abaya', 0.36166605, u'poncho', 0.079385988, u'lab_coat', 0.078347385, u'web_site', 0.047763847, u'sweatshirt', 0.040770922]
+[u'binder', 0.19449535, u'prayer_rug', 0.049142934, u'envelope', 0.042040192, u'book_jacket', 0.022114236, u'web_site', 0.022078844]
+[u'digital_clock', 0.29739374, u'web_site', 0.1808949, u'envelope', 0.1010211, u'jersey', 0.034383696, u'digital_watch', 0.025361145]

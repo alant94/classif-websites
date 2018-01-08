@@ -1,0 +1,6 @@
+[u'notebook', 0.083707653, u'cellular_telephone', 0.043180369, u'marimba', 0.034953795, u'microphone', 0.027122108, u'sunglasses', 0.025456807]
+[u'stage', 0.48243418, u'drum', 0.080702379, u'electric_guitar', 0.072335698, u'slot', 0.067891307, u'toyshop', 0.04992694]
+[u'golf_ball', 0.15944432, u'suit', 0.047744263, u'croquet_ball', 0.027424363, u'assault_rifle', 0.025370393, u'Loafer', 0.022942558]
+[u'book_jacket', 0.43218923, u'seashore', 0.041735157, u'volcano', 0.038382504, u'pole', 0.021515209, u'pier', 0.019757384]
+[u'jersey', 0.99991608, u'sweatshirt', 6.3845393e-05, u'maillot', 1.065418e-05, u'kimono', 3.1562461e-06, u'abaya', 2.7744891e-06]
+[u'airship', 0.10413095, u'radio_telescope', 0.076107986, u'water_tower', 0.054112945, u'viaduct', 0.053875949, u'mailbox', 0.038184755]

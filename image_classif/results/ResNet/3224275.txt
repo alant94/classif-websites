@@ -1,0 +1,1 @@
+[u'web_site', 0.25245342, u'laptop', 0.1195287, u'scoreboard', 0.1032248, u'tray', 0.038297348, u'plate_rack', 0.034113325]

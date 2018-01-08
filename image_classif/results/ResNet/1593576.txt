@@ -1,0 +1,8 @@
+[u'neck_brace', 0.23955335, u'swimming_trunks', 0.065498985, u'Band_Aid', 0.048581336, u'sandal', 0.032402445, u'shower_cap', 0.027172573]
+[u'fur_coat', 0.29001316, u'bikini', 0.16586658, u'miniskirt', 0.1405202, u'maillot', 0.096717946, u'swimming_trunks', 0.066457868]
+[u'diaper', 0.49878404, u'stethoscope', 0.070510589, u'bath_towel', 0.051978402, u'oxygen_mask', 0.051394053, u'neck_brace', 0.030406963]
+[u'swimming_trunks', 0.21964313, u'dumbbell', 0.20786966, u'tub', 0.12656096, u'barbell', 0.090736561, u'hog', 0.080848441]
+[u'sunglasses', 0.079065874, u'stopwatch', 0.063743323, u'bathing_cap', 0.047748897, u'gasmask', 0.039868008, u'sunglass', 0.039302237]
+[u'bathing_cap', 0.85621929, u'swimming_trunks', 0.10122126, u'bikini', 0.027606035, u'snorkel', 0.0053040395, u'maillot', 0.0015937268]
+[u'tub', 0.47475687, u'bathing_cap', 0.14550957, u'swimming_trunks', 0.11603502, u'bathtub', 0.083121583, u'dugong', 0.077098906]
+[u'tub', 0.39421409, u'cleaver', 0.068600699, u'barbershop', 0.057520475, u'mortar', 0.041080087, u'bathtub', 0.033206254]

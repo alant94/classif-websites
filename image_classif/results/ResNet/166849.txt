@@ -1,0 +1,1 @@
+[u'scoreboard', 0.56380874, u'television', 0.16571994, u'web_site', 0.058937259, u'screen', 0.056526747, u'remote_control', 0.049990546]

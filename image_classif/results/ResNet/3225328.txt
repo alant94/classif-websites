@@ -1,0 +1,4 @@
+[u'sunscreen', 0.29818529, u'packet', 0.20528832, u'lotion', 0.18360731, u'face_powder', 0.11581073, u'pill_bottle', 0.072393477]
+[u'tray', 0.18655984, u'menu', 0.16306713, u'street_sign', 0.12886514, u'book_jacket', 0.10665543, u'packet', 0.092341751]
+[u'mobile_home', 0.50121599, u'prison', 0.12820065, u'boathouse', 0.087842539, u'barn', 0.049358867, u'monastery', 0.041273728]
+[u'minibus', 0.64189327, u'minivan', 0.12398702, u'moving_van', 0.088417485, u'police_van', 0.069193028, u'ambulance', 0.0584918]

@@ -1,0 +1,6 @@
+[u'street_sign', 0.16126986, u'book_jacket', 0.12977988, u'fire_engine', 0.10387856, u'tray', 0.058812216, u'traffic_light', 0.031404588]
+[u'web_site', 0.19931483, u'iPod', 0.15720841, u'laptop', 0.045687731, u'pill_bottle', 0.044391688, u'binder', 0.039348569]
+[u'banjo', 0.2764267, u'drum', 0.14179675, u'cowboy_hat', 0.089941733, u'gong', 0.085168116, u'wardrobe', 0.034673661]
+[u'acoustic_guitar', 0.57374126, u'electric_guitar', 0.12259632, u'panpipe', 0.10012768, u'matchstick', 0.050694793, u'pick', 0.034814253]
+[u'banjo', 0.45153096, u'electric_guitar', 0.38455001, u'acoustic_guitar', 0.041861445, u'theater_curtain', 0.030133154, u'drum', 0.028506162]
+[u'Band_Aid', 0.29881212, u'ambulance', 0.1686306, u'lighter', 0.067232244, u'stretcher', 0.050904676, u'analog_clock', 0.037702706]

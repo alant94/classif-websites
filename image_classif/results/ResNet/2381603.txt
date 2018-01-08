@@ -1,0 +1,2 @@
+[u'web_site', 0.73226416, u'jersey', 0.011124508, u'lipstick', 0.010838445, u'harmonica', 0.0082812244, u'stopwatch', 0.0080194287]
+[u'web_site', 0.14406084, u'envelope', 0.068333447, u'oil_filter', 0.018621055, u'power_drill', 0.018492257, u'jersey', 0.018070389]

@@ -1,0 +1,2 @@
+[u'ski', 0.17572561, u'web_site', 0.082656875, u'moving_van', 0.081548721, u'chain_saw', 0.078673527, u'abaya', 0.035018004]
+[u'book_jacket', 0.36393502, u'guillotine', 0.20598856, u'sax', 0.019906109, u'bassoon', 0.019043988, u'binder', 0.014755388]

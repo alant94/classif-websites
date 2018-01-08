@@ -1,0 +1,8 @@
+[u'web_site', 0.81405807, u'isopod', 0.011910086, u'nematode', 0.0084583964, u'menu', 0.0063864798, u'Windsor_tie', 0.0053748945]
+[u'military_uniform', 0.1692985, u'harmonica', 0.048872579, u'reel', 0.048332531, u'web_site', 0.047624558, u'assault_rifle', 0.046821102]
+[u'bulletproof_vest', 0.27994359, u'electric_guitar', 0.081238225, u'stage', 0.052396897, u'breastplate', 0.038904253, u'ski', 0.032544259]
+[u'comic_book', 0.32174712, u'scoreboard', 0.1621626, u'space_shuttle', 0.12450798, u'street_sign', 0.073190764, u'paddlewheel', 0.055556528]
+[u'honeycomb', 0.049442139, u'meat_loaf', 0.03582938, u'head_cabbage', 0.031264592, u'sleeping_bag', 0.028517427, u'mask', 0.025113471]
+[u'web_site', 0.46633011, u'scoreboard', 0.033043183, u'television', 0.028747646, u'space_bar', 0.016557341, u'analog_clock', 0.01568369]
+[u'book_jacket', 0.36763883, u'airship', 0.19921495, u'comic_book', 0.071981937, u'jigsaw_puzzle', 0.054737657, u'web_site', 0.02538139]
+[u'book_jacket', 0.19332938, u"carpenter's_kit", 0.17307736, u'espresso_maker', 0.12811078, u'tobacco_shop', 0.079417542, u'comic_book', 0.076059066]

@@ -1,0 +1,5 @@
+[u'jersey', 0.59958756, u'sweatshirt', 0.26512364, u'web_site', 0.033280585, u'hair_spray', 0.014853243, u'comic_book', 0.011493447]
+[u'digital_watch', 0.2194619, u'oscilloscope', 0.17186725, u'tray', 0.12864593, u'modem', 0.041891947, u"carpenter's_kit", 0.03949536]
+[u'lighter', 0.15473124, u'tray', 0.11094523, u'iPod', 0.059362106, u'digital_watch', 0.047173489, u'loupe', 0.045162294]
+[u'screen', 0.14026579, u'sliding_door', 0.068583481, u'prayer_rug', 0.067821607, u'window_screen', 0.06175952, u'medicine_chest', 0.0552557]
+[u'oscilloscope', 0.22508572, u'lighter', 0.08520215, u'digital_watch', 0.061095048, u'iPod', 0.058998391, u'modem', 0.041301228]

@@ -1,0 +1,2 @@
+[u'Windsor_tie', 0.25147599, u'suit', 0.14958288, u'television', 0.043505304, u'lab_coat', 0.028541749, u'vestment', 0.024518536]
+[u'picket_fence', 0.421572, u'boathouse', 0.15952799, u'mobile_home', 0.088086024, u'worm_fence', 0.070297591, u'beacon', 0.069436468]

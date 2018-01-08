@@ -1,0 +1,1 @@
+[u'nematode', 0.13916428, u'book_jacket', 0.11198845, u'envelope', 0.10492486, u'web_site', 0.065375939, u'volcano', 0.05980286]

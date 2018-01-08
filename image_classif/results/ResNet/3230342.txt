@@ -1,0 +1,2 @@
+[u'screen', 0.29190782, u'web_site', 0.25150064, u'monitor', 0.097583435, u'cash_machine', 0.056121204, u'television', 0.043403532]
+[u'traffic_light', 0.10465422, u'water_tower', 0.10313134, u'mailbox', 0.084858, u'street_sign', 0.060976829, u'horse_cart', 0.05300786]

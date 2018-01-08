@@ -1,0 +1,7 @@
+[u'hamper', 0.60521179, u'lampshade', 0.19583941, u'shopping_basket', 0.11057236, u'bassinet', 0.024174048, u'drum', 0.018129077]
+[u'broom', 0.27864453, u'corn', 0.19962409, u'butcher_shop', 0.16833568, u'lumbermill', 0.076227248, u'grocery_store', 0.030194456]
+[u'fire_screen', 0.49224737, u'window_screen', 0.32818714, u'wool', 0.043205071, u'ladle', 0.01924932, u'hamper', 0.010869521]
+[u'oil_filter', 0.74732643, u'ear', 0.13316634, u'lighter', 0.044349913, u'corn', 0.028851222, u'thimble', 0.026251007]
+[u'window_screen', 0.26021889, u'manhole_cover', 0.082928948, u'fire_screen', 0.07303787, u'doormat', 0.071727492, u'guillotine', 0.045826923]
+[u'shopping_basket', 0.9905653, u'hamper', 0.0066987295, u'washbasin', 0.0013231552, u'bassinet', 0.00034090792, u'mortar', 0.00027790733]
+[u'vase', 0.9502002, u'pitcher', 0.033690345, u'table_lamp', 0.0052890843, u'mixing_bowl', 0.0033212767, u'water_jug', 0.002735903]

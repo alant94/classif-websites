@@ -1,0 +1,2 @@
+[u'combination_lock', 0.34650806, u'safety_pin', 0.0732181, u"carpenter's_kit", 0.030470034, u'hook', 0.027314998, u'web_site', 0.025921408]
+[u'book_jacket', 0.18400465, u'packet', 0.075121053, u'Band_Aid', 0.058733985, u'web_site', 0.038841866, u'street_sign', 0.036826875]

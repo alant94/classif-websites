@@ -1,0 +1,7 @@
+[u'nail', 0.050077036, u'screw', 0.046563443, u'hammer', 0.04346304, u'shovel', 0.042301469, u'screwdriver', 0.031150628]
+[u'rubber_eraser', 0.32347798, u'cleaver', 0.17584409, u'whistle', 0.06767185, u'pick', 0.040900007, u'ocarina', 0.040527999]
+[u'web_site', 0.99795687, u'screen', 0.00087393058, u'notebook', 0.00034101959, u'monitor', 0.0003093397, u'desktop_computer', 0.00017616118]
+[u'scoreboard', 0.14725602, u'book_jacket', 0.10455123, u'traffic_light', 0.098296873, u'digital_clock', 0.092568405, u'oscilloscope', 0.037191361]
+[u'book_jacket', 0.24010822, u'cash_machine', 0.091251343, u'scoreboard', 0.044564925, u'street_sign', 0.04416487, u'web_site', 0.03629956]
+[u'web_site', 0.23666175, u'nipple', 0.11912438, u'jersey', 0.025504449, u'safety_pin', 0.024922123, u'envelope', 0.017794061]
+[u'hair_slide', 0.064326771, u'web_site', 0.060935318, u'hook', 0.050593302, u'rifle', 0.043625075, u'hatchet', 0.042445771]

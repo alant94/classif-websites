@@ -1,0 +1,7 @@
+[u'Yorkshire_terrier', 0.073067248, u'fire_screen', 0.047731739, u'theater_curtain', 0.028747488, u'Australian_terrier', 0.027447477, u'Lakeland_terrier', 0.026876977]
+[u'oxygen_mask', 0.14292254, u'Yorkshire_terrier', 0.056029696, u'brassiere', 0.041921686, u'candle', 0.034672361, u'academic_gown', 0.032310259]
+[u'abaya', 0.24385925, u'wig', 0.16438411, u'chain_mail', 0.14653318, u'miniskirt', 0.042654078, u'overskirt', 0.036796041]
+[u'knee_pad', 0.20639604, u'brassiere', 0.12685156, u'neck_brace', 0.12551606, u'face_powder', 0.085306205, u'planetarium', 0.040430851]
+[u'cellular_telephone', 0.17687035, u'lighter', 0.14733335, u'loupe', 0.12025376, u'harmonica', 0.059191652, u'lipstick', 0.03947597]
+[u'Windsor_tie', 0.11304617, u'television', 0.044621024, u'prison', 0.035542324, u'neck_brace', 0.031466104, u'window_shade', 0.029527452]
+[u'lipstick', 0.66530567, u'whistle', 0.17056018, u'flute', 0.057259396, u'harmonica', 0.021823999, u'ice_lolly', 0.018275268]

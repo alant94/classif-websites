@@ -1,0 +1,8 @@
+[u'bighorn', 0.73356467, u'mountain_bike', 0.030949416, u'bobsled', 0.027521783, u'ram', 0.02661786, u'mountain_tent', 0.019734815]
+[u'lumbermill', 0.24172691, u'chain_saw', 0.16936523, u'tusker', 0.15286946, u'ox', 0.15273671, u'water_buffalo', 0.12311611]
+[u'electric_ray', 0.20910478, u'king_crab', 0.13937314, u'rock_crab', 0.072978579, u'gar', 0.07087601, u'Dungeness_crab', 0.063334905]
+[u'lumbermill', 0.41542256, u'beaver', 0.19318408, u'tusker', 0.047232032, u'chain_saw', 0.036229841, u'echidna', 0.034866832]
+[u'hartebeest', 0.73022354, u'impala', 0.15324633, u'gazelle', 0.061828543, u'ibex', 0.044965055, u'bow', 0.0040258486]
+[u'medicine_chest', 0.14305398, u'digital_clock', 0.13896947, u"jack-o'-lantern", 0.094501615, u'crate', 0.072374374, u'television', 0.063991062]
+[u'Norwegian_elkhound', 0.77446789, u'German_shepherd', 0.047545493, u'coyote', 0.025698133, u'Arabian_camel', 0.025242193, u'timber_wolf', 0.0142258]
+[u"jack-o'-lantern", 0.18347161, u'medicine_chest', 0.085941896, u'prayer_rug', 0.060015079, u'maze', 0.054378729, u'ocarina', 0.040275007]

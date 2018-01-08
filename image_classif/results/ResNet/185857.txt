@@ -1,0 +1,3 @@
+[u'envelope', 0.35299623, u'web_site', 0.10927171, u'mobile_home', 0.042608209, u'bannister', 0.031752892, u'cinema', 0.031332213]
+[u'prayer_rug', 0.099190883, u'traffic_light', 0.072216019, u'web_site', 0.063450962, u'church', 0.043032348, u'analog_clock', 0.038476203]
+[u'oscilloscope', 0.54530859, u'digital_watch', 0.12448577, u'bannister', 0.067076303, u'television', 0.023575412, u'digital_clock', 0.023252711]

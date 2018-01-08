@@ -1,0 +1,6 @@
+[u'dining_table', 0.24753883, u'vestment', 0.076323092, u'lab_coat', 0.049293499, u'swab', 0.039357856, u'marimba', 0.03908322]
+[u'groom', 0.33587438, u'stole', 0.2068672, u'sarong', 0.10770836, u'cardigan', 0.040176265, u'kimono', 0.035567395]
+[u'Windsor_tie', 0.3143312, u'suit', 0.17004442, u'shower_curtain', 0.065140508, u'lab_coat', 0.064214617, u'water_bottle', 0.041233543]
+[u'bow_tie', 0.11769396, u'coffee_mug', 0.094782382, u'beer_glass', 0.036339849, u'African_grey', 0.029024743, u'bib', 0.02801678]
+[u'croquet_ball', 0.7288869, u'maraca', 0.087742753, u'pool_table', 0.032356393, u'joystick', 0.024360241, u'balloon', 0.01533825]
+[u'vestment', 0.58463061, u'lab_coat', 0.21171111, u'picket_fence', 0.019493883, u'banjo', 0.010608091, u'cleaver', 0.0083093513]

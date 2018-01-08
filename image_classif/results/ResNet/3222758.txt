@@ -1,0 +1,4 @@
+[u'digital_watch', 0.406203, u'digital_clock', 0.14202257, u'book_jacket', 0.061453357, u'screen', 0.056779962, u'scoreboard', 0.039732706]
+[u'web_site', 0.14883405, u'envelope', 0.051241446, u'menu', 0.028416624, u'hook', 0.020446297, u'maraca', 0.014616351]
+[u'envelope', 0.37894097, u'hook', 0.088673629, u'spider_web', 0.039995544, u'necklace', 0.020574624, u'rubber_eraser', 0.01729493]
+[u'suit', 0.9150961, u'groom', 0.045691095, u'Windsor_tie', 0.027180947, u'bow_tie', 0.0011009622, u'notebook', 0.00094236311]

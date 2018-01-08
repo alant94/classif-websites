@@ -1,0 +1,2 @@
+[u'screen', 0.32784083, u'envelope', 0.15117937, u'joystick', 0.1397714, u'monitor', 0.1183411, u'desktop_computer', 0.057640258]
+[u'web_site', 0.18193364, u'remote_control', 0.046530034, u'nematode', 0.026808752, u'laptop', 0.026198281, u'theater_curtain', 0.022835581]

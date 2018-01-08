@@ -1,0 +1,8 @@
+[u'window_screen', 0.25120601, u'flagpole', 0.087607168, u'barn', 0.080011763, u'sliding_door', 0.066933028, u'web_site', 0.049782638]
+[u'fire_screen', 0.22954398, u'window_screen', 0.078762561, u'table_lamp', 0.058762133, u'stove', 0.045526017, u'entertainment_center', 0.030611567]
+[u'yawl', 0.093259066, u'pole', 0.057291698, u'speedboat', 0.049682651, u'sliding_door', 0.048969008, u'web_site', 0.047506001]
+[u'hartebeest', 0.52008414, u'impala', 0.16838847, u'gazelle', 0.151921, u'cougar', 0.046295129, u'ibex', 0.030671725]
+[u'spotlight', 0.64088476, u'gong', 0.12768625, u'chime', 0.018030427, u'electric_fan', 0.016585257, u'strainer', 0.012429616]
+[u'web_site', 0.14592524, u'ski', 0.10426469, u'bassoon', 0.04507101, u'harmonica', 0.040755536, u'oboe', 0.027466644]
+[u'ibex', 0.45109183, u'hartebeest', 0.2647458, u'gazelle', 0.14883603, u'ox', 0.065647401, u'bighorn', 0.017390018]
+[u'ox', 0.13047428, u'isopod', 0.104445, u'ibex', 0.067411356, u'earthstar', 0.045198921, u'fountain', 0.044105805]

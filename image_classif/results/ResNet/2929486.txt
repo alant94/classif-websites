@@ -1,0 +1,5 @@
+[u'gong', 0.26239026, u'web_site', 0.080617465, u'toilet_seat', 0.064227954, u'academic_gown', 0.051930141, u'French_horn', 0.028501064]
+[u'web_site', 0.11292893, u'street_sign', 0.090121292, u'coffee_mug', 0.086178981, u'book_jacket', 0.07728564, u'barbershop', 0.042094577]
+[u'web_site', 0.16383432, u'stopwatch', 0.1624466, u'whistle', 0.044881035, u'remote_control', 0.030363727, u'stethoscope', 0.022631042]
+[u'digital_clock', 0.33247927, u'oscilloscope', 0.26413709, u'analog_clock', 0.066609211, u'web_site', 0.032146156, u'stopwatch', 0.028095335]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

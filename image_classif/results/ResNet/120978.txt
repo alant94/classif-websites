@@ -1,0 +1,6 @@
+[u'web_site', 0.99771994, u'hand-held_computer', 0.0008498219, u'notebook', 0.00035752557, u'monitor', 0.00032491045, u'screen', 0.00018812338]
+[u'panpipe', 0.96161777, u'picket_fence', 0.018690916, u'pencil_sharpener', 0.0032062775, u'coil', 0.0023699938, u'church', 0.0019581364]
+[u'analog_clock', 0.22733456, u'web_site', 0.12902388, u'combination_lock', 0.096107244, u'stopwatch', 0.054991152, u'digital_watch', 0.029488714]
+[u'web_site', 0.90522969, u'envelope', 0.045829438, u'dishwasher', 0.015296459, u'notebook', 0.0032677553, u'monitor', 0.0032027853]
+[u'envelope', 0.1925012, u'digital_clock', 0.059844375, u'web_site', 0.056446828, u'tripod', 0.049521469, u'toaster', 0.038048834]
+[u'web_site', 0.18853486, u'monitor', 0.12235131, u'entertainment_center', 0.11782602, u'screen', 0.10035621, u'television', 0.096813701]

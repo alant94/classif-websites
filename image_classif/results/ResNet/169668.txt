@@ -1,0 +1,5 @@
+[u'drumstick', 0.1975264, u'conch', 0.087658495, u'microphone', 0.070252001, u'harmonica', 0.059564214, u'stage', 0.050637983]
+[u'military_uniform', 0.49174678, u'bearskin', 0.11592277, u'cornet', 0.10638067, u'flagpole', 0.056845162, u'parachute', 0.02278292]
+[u'fountain', 0.83793306, u'volcano', 0.032727171, u'jellyfish', 0.01638387, u'velvet', 0.013072292, u'balloon', 0.007153301]
+[u'cliff', 0.49814209, u'cheetah', 0.11291575, u'dam', 0.10149125, u'cliff_dwelling', 0.035417017, u'promontory', 0.016196383]
+[u'notebook', 0.51012373, u'laptop', 0.067533024, u'suit', 0.051888909, u'projector', 0.048619859, u'stretcher', 0.040659495]

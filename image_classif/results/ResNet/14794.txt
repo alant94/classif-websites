@@ -1,0 +1,6 @@
+[u'power_drill', 0.46347129, u'bow', 0.056952924, u'oboe', 0.055768963, u'bassoon', 0.053001758, u'pole', 0.020672906]
+[u'wine_bottle', 0.46399435, u'lotion', 0.13247809, u'table_lamp', 0.11727475, u'web_site', 0.046101771, u'red_wine', 0.033287566]
+[u'web_site', 0.66735113, u'envelope', 0.05035435, u'menu', 0.016207958, u'street_sign', 0.011015043, u'jean', 0.008225332]
+[u'web_site', 0.22349903, u'cassette_player', 0.10756423, u'cassette', 0.10591851, u'ski', 0.080621913, u'loudspeaker', 0.042381063]
+[u'lotion', 0.54479969, u'tennis_ball', 0.092839539, u'sunscreen', 0.051490091, u'perfume', 0.050536722, u'pill_bottle', 0.04310425]
+[u'digital_clock', 0.38367939, u'CD_player', 0.17817073, u'web_site', 0.10566358, u'radio', 0.08778125, u'ski', 0.038988594]

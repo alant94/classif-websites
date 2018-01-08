@@ -1,0 +1,4 @@
+[u'church', 0.54078466, u'triumphal_arch', 0.05054697, u'assault_rifle', 0.038088687, u'monastery', 0.034921594, u'rifle', 0.031518985]
+[u'puck', 0.29060635, u'oil_filter', 0.073974058, u'pick', 0.043261193, u'web_site', 0.031835239, u'lotion', 0.031151518]
+[u'fire_screen', 0.58895022, u'stove', 0.2577076, u'torch', 0.061159622, u'lighter', 0.030331118, u'matchstick', 0.015487261]
+[u'window_shade', 0.41695103, u'window_screen', 0.30718103, u'theater_curtain', 0.11513282, u'radiator', 0.021469217, u'wall_clock', 0.018149383]

@@ -1,0 +1,4 @@
+[u'snowmobile', 0.1438513, u'lakeside', 0.10807213, u'ibex', 0.045813393, u'impala', 0.034498669, u'tank', 0.031457338]
+[u'triceratops', 0.61485308, u'warthog', 0.1838488, u'water_buffalo', 0.053622939, u'wild_boar', 0.03290147, u'hog', 0.013426706]
+[u'bighorn', 0.44016433, u'ram', 0.39164373, u'ibex', 0.060639791, u'Ibizan_hound', 0.015780954, u'llama', 0.014357928]
+[u'brown_bear', 0.97132844, u'American_black_bear', 0.0074408026, u'Chesapeake_Bay_retriever', 0.0036425961, u'wombat', 0.0026081936, u'badger', 0.0024419646]

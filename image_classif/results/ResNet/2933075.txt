@@ -1,0 +1,2 @@
+[u'web_site', 0.588983, u'bikini', 0.020745097, u'sunglasses', 0.017814239, u'killer_whale', 0.015965847, u'screen', 0.015308762]
+[u'shield', 0.38005885, u'street_sign', 0.2027984, u'toilet_seat', 0.027518338, u'mortarboard', 0.026015935, u'rocking_chair', 0.025181556]

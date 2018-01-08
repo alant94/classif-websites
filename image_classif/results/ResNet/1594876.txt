@@ -1,0 +1,7 @@
+[u'wig', 0.20813243, u'saltshaker', 0.10094401, u'perfume', 0.047987517, u'Egyptian_cat', 0.035621103, u'pedestal', 0.027331356]
+[u'wig', 0.20838641, u'saltshaker', 0.10136498, u'perfume', 0.048425097, u'Egyptian_cat', 0.035515431, u'pedestal', 0.027280817]
+[u'window_shade', 0.078142159, u'Band_Aid', 0.050023194, u'starfish', 0.046202663, u'radiator', 0.044377323, u'swimming_trunks', 0.038153026]
+[u'maillot', 0.24098785, u'bikini', 0.20715338, u'miniskirt', 0.094076023, u'pajama', 0.055908397, u'maillot', 0.050739076]
+[u'dumbbell', 0.17924993, u'pedestal', 0.12247705, u'saltshaker', 0.079093717, u'cuirass', 0.06718944, u'breastplate', 0.066857405]
+[u'dogsled', 0.49066484, u'Eskimo_dog', 0.31435058, u'Siberian_husky', 0.085444905, u'Great_Dane', 0.01617025, u'whippet', 0.014038832]
+[u'safe', 0.15034178, u'pedestal', 0.082349315, u'file', 0.081362322, u'washbasin', 0.049455244, u'cuirass', 0.0322477]

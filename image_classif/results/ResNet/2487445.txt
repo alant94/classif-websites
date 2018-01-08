@@ -1,0 +1,2 @@
+[u'rifle', 0.95619392, u'king_penguin', 0.033337705, u'military_uniform', 0.0011989418, u'bassoon', 0.00084908237, u'ear', 0.00082524348]
+[u'spotlight', 0.41600031, u'bubble', 0.3804056, u'spider_web', 0.092464656, u'fountain', 0.016724156, u'bannister', 0.0078253122]

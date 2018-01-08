@@ -1,0 +1,2 @@
+[u'web_site', 0.566935, u'slot', 0.096619643, u'monitor', 0.0935992, u'vending_machine', 0.079323657, u'cinema', 0.036917292]
+[u'monitor', 0.22844993, u'envelope', 0.17641865, u'jigsaw_puzzle', 0.17458993, u'screen', 0.082797021, u'scoreboard', 0.041294411]

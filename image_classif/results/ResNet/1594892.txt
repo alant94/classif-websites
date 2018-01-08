@@ -1,0 +1,1 @@
+[u'shower_cap', 0.39769331, u'knee_pad', 0.10975298, u'bobsled', 0.064711139, u'backpack', 0.051381405, u'shopping_cart', 0.025575792]

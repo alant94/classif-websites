@@ -1,0 +1,6 @@
+[u'web_site', 0.53526866, u'Arabian_camel', 0.039163537, u'comic_book', 0.036534052, u'jersey', 0.027236184, u'book_jacket', 0.020035271]
+[u'ox', 0.66812372, u'hartebeest', 0.11037586, u'oxcart', 0.060613498, u'gazelle', 0.059382882, u'Arabian_camel', 0.021219121]
+[u'tow_truck', 0.49063244, u'crane', 0.11152513, u'amphibian', 0.082051732, u'projectile', 0.044192601, u'snowplow', 0.04119828]
+[u'Arabian_camel', 0.92358679, u'sorrel', 0.061550695, u'worm_fence', 0.0036826874, u'alp', 0.0019833292, u'horse_cart', 0.0018697014]
+[u'thatch', 0.45242941, u'lakeside', 0.088679217, u'boathouse', 0.033838134, u'barn', 0.024764903, u'patio', 0.022461616]
+[u'plane', 0.19359718, u'chest', 0.15590635, u'birdhouse', 0.071770795, u'wall_clock', 0.042185277, u'medicine_chest', 0.036139183]

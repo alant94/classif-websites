@@ -1,0 +1,2 @@
+[u'quill', 0.30922428, u'bow', 0.15753362, u'African_grey', 0.11001842, u'vacuum', 0.02029584, u'lumbermill', 0.016774179]
+[u'pick', 0.21410128, u'mortarboard', 0.1002842, u'paintbrush', 0.061280705, u'pill_bottle', 0.036682419, u'web_site', 0.034312408]

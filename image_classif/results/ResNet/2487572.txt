@@ -1,0 +1,4 @@
+[u'digital_clock', 0.86173284, u'digital_watch', 0.09240976, u'crossword_puzzle', 0.0095748957, u'wall_clock', 0.0065200841, u'stopwatch', 0.0057407445]
+[u'street_sign', 0.10885934, u'packet', 0.082049765, u'comic_book', 0.077952325, u'traffic_light', 0.065318033, u'web_site', 0.058970772]
+[u'web_site', 0.59215564, u'crossword_puzzle', 0.028617207, u'container_ship', 0.018625559, u'parachute', 0.0173294, u'envelope', 0.014068477]
+[u'Scottish_deerhound', 0.13036755, u'Irish_wolfhound', 0.065855756, u'Afghan_hound', 0.060971126, u'clumber', 0.057625536, u'German_short-haired_pointer', 0.056910634]

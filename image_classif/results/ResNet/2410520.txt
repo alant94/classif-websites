@@ -1,0 +1,5 @@
+[u'liner', 0.4130159, u'catamaran', 0.31911531, u'speedboat', 0.064579636, u'dock', 0.050862879, u'container_ship', 0.05063647]
+[u'speedboat', 0.46252671, u'catamaran', 0.36768246, u'liner', 0.10589679, u'fireboat', 0.021955207, u'trimaran', 0.018287964]
+[u'nail', 0.31023109, u'screw', 0.12771431, u'screwdriver', 0.10621808, u'electric_guitar', 0.057852108, u'violin', 0.056214981]
+[u'seashore', 0.57027841, u'fireboat', 0.15340684, u'grey_whale', 0.081558958, u'aircraft_carrier', 0.026298234, u'container_ship', 0.026255179]
+[u'aircraft_carrier', 0.27986765, u'catamaran', 0.19742952, u'liner', 0.18550874, u'drilling_platform', 0.081976175, u'submarine', 0.055927001]

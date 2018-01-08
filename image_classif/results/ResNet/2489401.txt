@@ -1,0 +1,5 @@
+[u'puck', 0.27077484, u'web_site', 0.16670941, u'lighter', 0.056915142, u'packet', 0.02708132, u'envelope', 0.025298161]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'gazelle', 0.52655691, u'hartebeest', 0.21433525, u'impala', 0.17741011, u'ibex', 0.052244697, u'hare', 0.010533433]
+[u'web_site', 0.12735038, u'beacon', 0.052248467, u'bubble', 0.045729171, u'bee_eater', 0.04241164, u'balloon', 0.027730128]

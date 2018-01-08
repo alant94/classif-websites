@@ -1,0 +1,4 @@
+[u'horizontal_bar', 0.55649644, u'pole', 0.077644534, u'parallel_bars', 0.071229227, u'balance_beam', 0.070586272, u'swimming_trunks', 0.03955391]
+[u'bikini', 0.21338284, u'maillot', 0.13525902, u'horizontal_bar', 0.079144076, u'swimming_trunks', 0.075910375, u'sarong', 0.068920448]
+[u'bath_towel', 0.33435601, u'swimming_trunks', 0.20185287, u'bathtub', 0.082169637, u'studio_couch', 0.061827581, u'tub', 0.036296096]
+[u'swimming_trunks', 0.11523735, u'file', 0.054607414, u'triceratops', 0.051071201, u'hammer', 0.048509818, u'warplane', 0.045481078]

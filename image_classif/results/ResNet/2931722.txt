@@ -1,0 +1,3 @@
+[u'rugby_ball', 0.1916573, u'web_site', 0.083221853, u'muzzle', 0.067499086, u'mouse', 0.058173288, u'scale', 0.036256298]
+[u'lab_coat', 0.95394987, u'stethoscope', 0.015749633, u'Windsor_tie', 0.011917654, u'bulletproof_vest', 0.00094275142, u'torch', 0.0006972985]
+[u'analog_clock', 0.83612382, u'wall_clock', 0.16268623, u'digital_clock', 0.00047013868, u'barometer', 0.00019486659, u'stopwatch', 9.9317338e-05]

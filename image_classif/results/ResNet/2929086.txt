@@ -1,0 +1,1 @@
+[u'safe', 0.065842308, u'envelope', 0.057831097, u'digital_clock', 0.040541682, u'magnetic_compass', 0.023362903, u'screwdriver', 0.022639662]

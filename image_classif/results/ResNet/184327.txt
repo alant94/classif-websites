@@ -1,0 +1,2 @@
+[u'sunglass', 0.73866367, u'sunglasses', 0.22815531, u'toyshop', 0.0027899479, u'jean', 0.0011819659, u'torch', 0.0011515809]
+[u'oboe', 0.12308925, u'wig', 0.076706938, u'bearskin', 0.044027101, u'bulletproof_vest', 0.033012658, u'cornet', 0.0301574]

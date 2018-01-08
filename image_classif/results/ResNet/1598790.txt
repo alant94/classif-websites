@@ -1,0 +1,4 @@
+[u'digital_watch', 0.24701227, u'shopping_basket', 0.09868893, u'street_sign', 0.082471609, u'iPod', 0.054070525, u'screen', 0.040693622]
+[u'digital_watch', 0.13349451, u'traffic_light', 0.11309799, u'iPod', 0.10275792, u'street_sign', 0.092887178, u'tray', 0.091796003]
+[u'digital_watch', 0.18956447, u'street_sign', 0.14919767, u'perfume', 0.06962204, u'cash_machine', 0.066140302, u'book_jacket', 0.044929255]
+[u'bikini', 0.86795509, u'brassiere', 0.049775846, u'maillot', 0.016183587, u'maillot', 0.013425432, u'swimming_trunks', 0.010992424]

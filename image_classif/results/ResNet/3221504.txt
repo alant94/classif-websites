@@ -1,0 +1,1 @@
+[u'monarch', 0.38047665, u'pier', 0.23730302, u'steel_arch_bridge', 0.11397483, u'bannister', 0.046351321, u'church', 0.022440234]

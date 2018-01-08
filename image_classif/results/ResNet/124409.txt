@@ -1,0 +1,2 @@
+[u'brass', 0.22360127, u'web_site', 0.1778495, u'menu', 0.039534647, u'scoreboard', 0.028649414, u'necklace', 0.024878513]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

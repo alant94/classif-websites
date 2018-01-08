@@ -1,0 +1,2 @@
+[u'book_jacket', 0.33869451, u'jersey', 0.023356674, u'web_site', 0.022944005, u'tobacco_shop', 0.022935221, u'doormat', 0.022657743]
+[u'radiator', 0.18763556, u'suspension_bridge', 0.1771691, u'bannister', 0.16549827, u'bullet_train', 0.079896323, u'pier', 0.066196188]

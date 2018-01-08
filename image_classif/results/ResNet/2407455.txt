@@ -1,0 +1,5 @@
+[u'can_opener', 0.69749469, u'web_site', 0.06049617, u'iron', 0.052298982, u'lighter', 0.023809144, u'washbasin', 0.017277347]
+[u'lighter', 0.27918971, u'web_site', 0.08769767, u'envelope', 0.069920011, u'buckle', 0.068977684, u'hair_slide', 0.053441819]
+[u'barber_chair', 0.20580812, u'hand_blower', 0.11829358, u'shower_cap', 0.082729079, u'wig', 0.06592913, u'hoopskirt', 0.048814788]
+[u'book_jacket', 0.55498528, u'binder', 0.17747432, u'envelope', 0.059134498, u'doormat', 0.052336127, u'comic_book', 0.026379326]
+[u'book_jacket', 0.85476708, u'binder', 0.042703886, u'envelope', 0.03885249, u'brass', 0.020247072, u'lighter', 0.014744352]

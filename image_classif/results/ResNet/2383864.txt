@@ -1,0 +1,6 @@
+[u'ashcan', 0.57172096, u'book_jacket', 0.27879164, u'mailbox', 0.033460565, u'barrel', 0.01838113, u'street_sign', 0.017885143]
+[u'book_jacket', 0.32746485, u'analog_clock', 0.19334544, u'web_site', 0.092161693, u'envelope', 0.031299554, u'digital_clock', 0.020116569]
+[u'picket_fence', 0.50754476, u'zebra', 0.065125175, u'worm_fence', 0.042278256, u'web_site', 0.035932403, u'book_jacket', 0.031412121]
+[u'book_jacket', 0.15610798, u'barbershop', 0.089690171, u'scoreboard', 0.082108125, u'brass', 0.047733497, u'comic_book', 0.039799638]
+[u'picket_fence', 0.50792074, u'zebra', 0.066114046, u'worm_fence', 0.046937931, u'book_jacket', 0.035239708, u'web_site', 0.022325145]
+[u'radio_telescope', 0.36175224, u'suspension_bridge', 0.14208893, u'greenhouse', 0.092298515, u'fountain', 0.079366297, u'solar_dish', 0.055094726]

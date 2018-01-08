@@ -1,0 +1,8 @@
+[u'red_wine', 0.75642145, u'lipstick', 0.082777262, u'wine_bottle', 0.034219265, u'safe', 0.010633662, u'pitcher', 0.0069004972]
+[u'killer_whale', 0.1661045, u'bathtub', 0.09624508, u'bubble', 0.086020418, u'tub', 0.046983294, u'sea_lion', 0.042922724]
+[u'fountain', 0.40875244, u'church', 0.31851861, u'altar', 0.06634482, u'vault', 0.053709127, u'palace', 0.015502712]
+[u'football_helmet', 0.19952324, u'jersey', 0.11420205, u'scoreboard', 0.092981361, u'oil_filter', 0.076999135, u'power_drill', 0.043067683]
+[u'garden_spider', 0.20184848, u'ladybug', 0.1732074, u'monarch', 0.12129188, u'dalmatian', 0.095021762, u'black_and_gold_garden_spider', 0.078507245]
+[u'drum', 0.26702696, u'gong', 0.23291972, u'safe', 0.17021978, u'projector', 0.055537, u'throne', 0.051613856]
+[u'red_wine', 0.22244087, u'beer_glass', 0.17236552, u'water_jug', 0.12590162, u'beaker', 0.10909031, u'saltshaker', 0.063628592]
+[u'web_site', 0.13670599, u'triumphal_arch', 0.049014132, u'book_jacket', 0.046276864, u'envelope', 0.040890634, u'can_opener', 0.038087044]

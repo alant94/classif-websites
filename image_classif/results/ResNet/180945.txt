@@ -1,0 +1,4 @@
+[u'pick', 0.16489634, u'oscilloscope', 0.13347474, u'sweatshirt', 0.083776221, u'comic_book', 0.052319951, u'screen', 0.041643426]
+[u'brass', 0.75918937, u'slide_rule', 0.078321502, u'menu', 0.056251906, u'window_shade', 0.012452609, u'prayer_rug', 0.010030842]
+[u'harp', 0.55093068, u'throne', 0.051943369, u'crane', 0.033030521, u'hook', 0.029585602, u'plane', 0.022218265]
+[u'web_site', 0.1234704, u'iron', 0.077740103, u'safety_pin', 0.043795649, u'binder', 0.042624902, u'nail', 0.038704019]

@@ -1,0 +1,1 @@
+[u'park_bench', 0.38830554, u'mailbox', 0.075999931, u'picket_fence', 0.030158233, u'lakeside', 0.020090405, u'ashcan', 0.019796245]

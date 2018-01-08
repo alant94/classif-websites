@@ -1,0 +1,5 @@
+[u'tobacco_shop', 0.3307381, u'hamper', 0.073579758, u'vestment', 0.035571802, u'plastic_bag', 0.02241501, u'prayer_rug', 0.017211014]
+[u'gyromitra', 0.27278763, u'snail', 0.21623218, u'partridge', 0.0454324, u'fig', 0.041616432, u'strawberry', 0.034260701]
+[u'hamper', 0.66726279, u'shopping_basket', 0.060552485, u'thimble', 0.053976711, u'wine_bottle', 0.022294205, u'lotion', 0.01470879]
+[u'hair_spray', 0.47447163, u'ballpoint', 0.14032312, u'tobacco_shop', 0.053836532, u'perfume', 0.049651958, u'whistle', 0.045591492]
+[u'lotion', 0.44308317, u'pill_bottle', 0.33664683, u'sunscreen', 0.092913553, u'face_powder', 0.033232249, u'perfume', 0.01878885]

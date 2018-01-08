@@ -1,0 +1,8 @@
+[u'oboe', 0.63240319, u'power_drill', 0.065741688, u'bassoon', 0.060677391, u'screwdriver', 0.051282749, u'bow', 0.036582626]
+[u'oboe', 0.61459827, u'bassoon', 0.10676125, u'rifle', 0.036757991, u'binder', 0.031745959, u'cornet', 0.02948069]
+[u'oboe', 0.46393391, u'power_drill', 0.16275536, u'screwdriver', 0.14788774, u'chime', 0.04219389, u'rifle', 0.029231954]
+[u'oboe', 0.66728312, u'power_drill', 0.081344768, u'screwdriver', 0.066188544, u'bassoon', 0.050634276, u'chime', 0.032145474]
+[u'oboe', 0.58792609, u'bassoon', 0.078849003, u'power_drill', 0.059449367, u'rifle', 0.034217454, u'binder', 0.032148644]
+[u'oboe', 0.58857679, u'screwdriver', 0.15799747, u'rifle', 0.064137049, u'bassoon', 0.049861316, u'power_drill', 0.029311478]
+[u'oboe', 0.66705799, u'bassoon', 0.10720331, u'rifle', 0.031126501, u'power_drill', 0.029011013, u'screwdriver', 0.028934367]
+[u'oboe', 0.72406429, u'bassoon', 0.12773427, u'rifle', 0.037037332, u'bow', 0.025562475, u'power_drill', 0.011296071]

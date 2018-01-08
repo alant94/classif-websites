@@ -1,0 +1,7 @@
+[u'theater_curtain', 0.70368654, u'stage', 0.18818854, u'church', 0.021589331, u'grand_piano', 0.014897328, u'spotlight', 0.0090655247]
+[u'loudspeaker', 0.19531612, u'stage', 0.19439015, u'spotlight', 0.13523115, u'monitor', 0.084243499, u'television', 0.059668634]
+[u'stage', 0.43849388, u'spotlight', 0.30575716, u'church', 0.10333727, u'fountain', 0.067161322, u'theater_curtain', 0.043241609]
+[u'abaya', 0.16380154, u'fire_screen', 0.081533633, u'torch', 0.072231382, u'sax', 0.050999675, u'pole', 0.045830663]
+[u'comic_book', 0.13222955, u'wall_clock', 0.086061999, u'bow', 0.05886, u'plunger', 0.050727189, u'web_site', 0.046888389]
+[u'wig', 0.046525825, u'hook', 0.046240471, u'paintbrush', 0.040447172, u'iron', 0.035418261, u'drum', 0.032559715]
+[u'fountain', 0.64172351, u'pole', 0.054127019, u'spotlight', 0.035882246, u'analog_clock', 0.028396592, u'table_lamp', 0.027013883]

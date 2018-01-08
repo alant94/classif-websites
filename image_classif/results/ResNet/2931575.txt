@@ -1,0 +1,7 @@
+[u'television', 0.57647884, u'home_theater', 0.11118137, u'web_site', 0.098364554, u'screen', 0.072429113, u'monitor', 0.066776641]
+[u'bookcase', 0.20863819, u'gorilla', 0.16963071, u'sliding_door', 0.16068417, u'pay-phone', 0.073764332, u'medicine_chest', 0.052685682]
+[u'television', 0.64737791, u'screen', 0.16837414, u'monitor', 0.084249437, u'home_theater', 0.02605775, u'car_mirror', 0.01899158]
+[u'lab_coat', 0.52772349, u'vestment', 0.089590847, u'wardrobe', 0.048947539, u'Windsor_tie', 0.034503441, u'suit', 0.03389173]
+[u'medicine_chest', 0.36582306, u'sliding_door', 0.10123182, u'web_site', 0.072988853, u'shoji', 0.040908162, u'bookcase', 0.029459339]
+[u'television', 0.14433679, u'web_site', 0.14085829, u'bookcase', 0.097735919, u'home_theater', 0.040066451, u'medicine_chest', 0.0343966]
+[u'crutch', 0.30838737, u'hair_slide', 0.15405089, u'remote_control', 0.043105043, u'corkscrew', 0.030631915, u'screwdriver', 0.02927899]

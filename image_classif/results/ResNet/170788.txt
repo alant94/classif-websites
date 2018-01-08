@@ -1,0 +1,3 @@
+[u'Band_Aid', 0.20857836, u'iPod', 0.17125197, u'laptop', 0.15973267, u'lighter', 0.070361204, u'digital_clock', 0.03415101]
+[u'comic_book', 0.3138918, u'kimono', 0.085680597, u'web_site', 0.059316177, u'book_jacket', 0.037559438, u'jigsaw_puzzle', 0.025521107]
+[u'web_site', 0.89292699, u'comic_book', 0.040452108, u'menu', 0.020604482, u'book_jacket', 0.013796818, u'clumber', 0.008535496]

@@ -1,0 +1,2 @@
+[u'comic_book', 0.15351436, u'sweatshirt', 0.081311032, u'puck', 0.076700941, u'web_site', 0.057949003, u'jersey', 0.049747143]
+[u'analog_clock', 0.17178385, u'screw', 0.13990049, u'envelope', 0.038497962, u'hook', 0.037342764, u'tripod', 0.031681545]

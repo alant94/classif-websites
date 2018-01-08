@@ -1,0 +1,4 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193, u'church', 0.001613372, u'picket_fence', 0.001450751]
+[u'monitor', 0.049805909, u'screen', 0.049102694, u'prayer_rug', 0.048132505, u'wall_clock', 0.044105627, u'medicine_chest', 0.032607164]
+[u'monitor', 0.11669189, u'beaker', 0.075582385, u'screen', 0.061822116, u'switch', 0.052005205, u'cash_machine', 0.050335545]
+[u'screen', 0.32589155, u'desktop_computer', 0.19216181, u'monitor', 0.15893702, u'web_site', 0.073879734, u'television', 0.058682725]

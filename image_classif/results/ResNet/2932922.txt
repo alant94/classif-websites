@@ -1,0 +1,5 @@
+[u'tray', 0.07275831, u'lighter', 0.067519024, u'shield', 0.056127612, u'binder', 0.048199676, u'screen', 0.044770129]
+[u'envelope', 0.58377182, u'web_site', 0.12050231, u'binder', 0.026858715, u'analog_clock', 0.016705304, u'digital_clock', 0.011960509]
+[u'digital_clock', 0.25995427, u'screen', 0.21320884, u'oscilloscope', 0.12874034, u'beaker', 0.10333139, u'traffic_light', 0.079765961]
+[u'lipstick', 0.88331431, u'candle', 0.022848805, u'pick', 0.012714328, u'theater_curtain', 0.010597578, u'safety_pin', 0.008907998]
+[u'toilet_seat', 0.36305195, u'loudspeaker', 0.1960544, u'switch', 0.13303535, u'joystick', 0.1001664, u'washbasin', 0.036872469]

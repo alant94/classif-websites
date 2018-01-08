@@ -1,0 +1,1 @@
+[u'space_heater', 0.10568098, u'limousine', 0.10536046, u'bullet_train', 0.097728118, u'ashcan', 0.06000042, u'airship', 0.03542877]

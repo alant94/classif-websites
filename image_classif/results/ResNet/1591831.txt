@@ -1,0 +1,7 @@
+[u'web_site', 0.21104784, u'monitor', 0.099361017, u'loupe', 0.049329773, u'chain', 0.031598452, u'laptop', 0.03086506]
+[u'bathtub', 0.1780964, u'tub', 0.15212661, u'fur_coat', 0.14664878, u'shower_cap', 0.1278902, u'wig', 0.078725971]
+[u'shower_cap', 0.57743603, u'bathtub', 0.18678896, u'tub', 0.078658372, u'ice_lolly', 0.036167275, u'bathing_cap', 0.016878653]
+[u'Blenheim_spaniel', 0.43723214, u'Yorkshire_terrier', 0.13816144, u'titi', 0.066410676, u'English_springer', 0.044923201, u'Australian_terrier', 0.043835543]
+[u'brassiere', 0.58109397, u'maillot', 0.22958319, u'bikini', 0.040261164, u'neck_brace', 0.039595377, u'miniskirt', 0.029519841]
+[u'hair_slide', 0.43252385, u'corkscrew', 0.30399078, u'hook', 0.049535666, u'can_opener', 0.029534619, u'safety_pin', 0.017746113]
+[u'tub', 0.33976325, u'brassiere', 0.14905985, u'bathtub', 0.14531501, u'studio_couch', 0.044639684, u'swimming_trunks', 0.026596889]

@@ -1,0 +1,2 @@
+[u'cliff', 0.071113274, u'book_jacket', 0.055999368, u'mountain_bike', 0.054116331, u'coral_fungus', 0.047067955, u'chain_saw', 0.032791708]
+[u'whistle', 0.18991126, u'oil_filter', 0.07133051, u'gasmask', 0.064405248, u'maraca', 0.043951068, u'rubber_eraser', 0.035890996]

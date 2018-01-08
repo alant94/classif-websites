@@ -1,0 +1,7 @@
+[u'book_jacket', 0.17792308, u'comic_book', 0.13005839, u'hook', 0.11936468, u'bannister', 0.062916361, u'web_site', 0.055399597]
+[u'web_site', 0.19754754, u'crossword_puzzle', 0.03551577, u'remote_control', 0.023926014, u'analog_clock', 0.023868104, u'hook', 0.023140315]
+[u'doormat', 0.24347992, u'bath_towel', 0.14898312, u'perfume', 0.094695866, u'water_bottle', 0.04027788, u'lighter', 0.039005689]
+[u'doormat', 0.99624652, u'dishrag', 0.00084600307, u'scale', 0.00064946205, u'prayer_rug', 0.00034374418, u'brass', 0.00025815639]
+[u'freight_car', 0.26721245, u'beaker', 0.26456723, u'gas_pump', 0.14131352, u'pop_bottle', 0.065717958, u'beer_glass', 0.050530579]
+[u'packet', 0.35850814, u'mailbag', 0.16420181, u'backpack', 0.12107748, u'envelope', 0.029361954, u'bulletproof_vest', 0.028893922]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]

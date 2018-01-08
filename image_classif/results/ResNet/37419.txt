@@ -1,0 +1,2 @@
+[u'crate', 0.044270676, u'book_jacket', 0.036124233, u'harp', 0.028884944, u'geyser', 0.025382064, u'chain_saw', 0.021048924]
+[u'street_sign', 0.96769708, u'traffic_light', 0.015548933, u'oscilloscope', 0.0057924469, u'screen', 0.0026572056, u'cash_machine', 0.0013474284]

@@ -1,0 +1,7 @@
+[u'mailbag', 0.15951242, u'shoji', 0.052172158, u'worm_fence', 0.045199014, u'backpack', 0.041153684, u'gong', 0.037659779]
+[u'lakeside', 0.42151046, u'valley', 0.38995951, u'dam', 0.041036762, u'geyser', 0.02392948, u'promontory', 0.017054852]
+[u'dam', 0.42437634, u'valley', 0.20707378, u'geyser', 0.097162709, u'breakwater', 0.053844582, u'seashore', 0.042782038]
+[u'megalith', 0.28114274, u'stone_wall', 0.089350261, u'hay', 0.07166791, u'valley', 0.066718884, u'picket_fence', 0.045036361]
+[u'volcano', 0.99198079, u'fire_screen', 0.0064738928, u'geyser', 0.00057370635, u'caldron', 0.0004757336, u'stove', 0.00018173353]
+[u'geyser', 0.08181867, u'valley', 0.045449506, u'mountain_tent', 0.040066019, u'balloon', 0.025575409, u'radio_telescope', 0.024633903]
+[u'lakeside', 0.67144251, u'valley', 0.093136273, u'sandbar', 0.031447209, u'breakwater', 0.028266035, u'canoe', 0.012359668]

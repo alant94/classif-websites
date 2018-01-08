@@ -1,0 +1,2 @@
+[u'stopwatch', 0.25320542, u'chain', 0.14829522, u'pick', 0.094009735, u'coffee_mug', 0.049753275, u'strainer', 0.036070503]
+[u'book_jacket', 0.18753634, u'pick', 0.17732993, u'theater_curtain', 0.047393195, u'chain', 0.041527729, u'jersey', 0.026643371]

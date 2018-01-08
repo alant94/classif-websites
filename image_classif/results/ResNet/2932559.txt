@@ -1,0 +1,3 @@
+[u'screw', 0.42986828, u'digital_clock', 0.29891562, u'oscilloscope', 0.064378701, u'nail', 0.037967209, u'analog_clock', 0.034577649]
+[u'cash_machine', 0.23089118, u'ashcan', 0.17389515, u'safe', 0.089095972, u'bookshop', 0.062943362, u'mailbox', 0.041415107]
+[u'tile_roof', 0.42237398, u'boathouse', 0.086077347, u'greenhouse', 0.065226033, u'church', 0.050395034, u'bell_cote', 0.048390076]

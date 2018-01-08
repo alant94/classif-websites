@@ -1,0 +1,3 @@
+[u'picket_fence', 0.28088006, u'church', 0.1873191, u'barn', 0.16936125, u'boathouse', 0.15132689, u'snowplow', 0.055175278]
+[u'Irish_wolfhound', 0.3955186, u'Scottish_deerhound', 0.11654826, u'Bouvier_des_Flandres', 0.067759983, u'Irish_terrier', 0.048295129, u'Afghan_hound', 0.040430672]
+[u'pick', 0.9162423, u'puck', 0.01474831, u'bottlecap', 0.01126887, u'face_powder', 0.009391143, u'whistle', 0.0034896035]

@@ -1,0 +1,8 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.3335079, u'envelope', 0.13433263, u'mortarboard', 0.057391468, u'whistle', 0.037309796, u'hook', 0.035176456]
+[u'web_site', 0.26277679, u'Band_Aid', 0.13539638, u'envelope', 0.071897537, u'book_jacket', 0.047742546, u'hair_spray', 0.030716298]
+[u'envelope', 0.080082119, u'hook', 0.042611558, u'sock', 0.030777996, u'toilet_seat', 0.030617915, u'hair_spray', 0.029039595]
+[u'web_site', 0.32002023, u'bulletproof_vest', 0.061874907, u'digital_clock', 0.057216447, u'lighter', 0.035543513, u'knee_pad', 0.029914802]
+[u'hard_disc', 0.12715322, u'laptop', 0.05853688, u'modem', 0.05270065, u'envelope', 0.046917722, u'web_site', 0.046682198]
+[u'envelope', 0.09276621, u'hard_disc', 0.080220543, u'laptop', 0.048291851, u'refrigerator', 0.046730533, u'street_sign', 0.046352062]
+[u'passenger_car', 0.52279145, u'streetcar', 0.10629725, u'lumbermill', 0.04968207, u'mobile_home', 0.042431585, u'steam_locomotive', 0.031134723]

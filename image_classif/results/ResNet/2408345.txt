@@ -1,0 +1,6 @@
+[u'binder', 0.56874913, u'hard_disc', 0.089868598, u'lipstick', 0.082357712, u'lighter', 0.051567588, u'radio', 0.047042601]
+[u'packet', 0.16594446, u'binder', 0.15017518, u'stethoscope', 0.12680061, u'envelope', 0.10667636, u'wallet', 0.099817716]
+[u'oscilloscope', 0.44297701, u'switch', 0.16837339, u'radio', 0.15566231, u'tape_player', 0.099732153, u'cassette_player', 0.065851636]
+[u'switch', 0.27455387, u'oscilloscope', 0.23697294, u'modem', 0.047137741, u'digital_watch', 0.040134862, u'lighter', 0.037163258]
+[u'cellular_telephone', 0.21778347, u'remote_control', 0.13113967, u'digital_watch', 0.11030794, u'wall_clock', 0.099411823, u'magnetic_compass', 0.065109372]
+[u'wall_clock', 0.77984011, u'analog_clock', 0.058701131, u'magnetic_compass', 0.040268667, u'packet', 0.023121459, u'digital_watch', 0.013070815]

@@ -1,0 +1,7 @@
+[u'loupe', 0.39302176, u'chain_saw', 0.091943733, u'spotlight', 0.079782136, u'cocktail_shaker', 0.055403836, u'oil_filter', 0.052908875]
+[u'chain_saw', 0.77904749, u'oil_filter', 0.048899733, u'reel', 0.043638155, u'gasmask', 0.042141344, u'vacuum', 0.014761322]
+[u'punching_bag', 0.83952504, u'drum', 0.048518363, u'basketball', 0.019863777, u'barrel', 0.014182781, u'chain_saw', 0.0081722308]
+[u'web_site', 0.36332563, u'face_powder', 0.032254964, u'binder', 0.028486781, u'packet', 0.02633293, u'espresso_maker', 0.023645792]
+[u'hook', 0.13626446, u'safety_pin', 0.044042449, u'web_site', 0.042623699, u'spotlight', 0.03357799, u'cleaver', 0.028958751]
+[u'vacuum', 0.27922404, u'spotlight', 0.12172236, u'chain_saw', 0.1203777, u'knee_pad', 0.073458992, u'backpack', 0.060437422]
+[u'cassette_player', 0.30567262, u'cassette', 0.20743369, u'binder', 0.075936928, u'face_powder', 0.060967132, u'CD_player', 0.027628668]

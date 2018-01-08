@@ -1,0 +1,5 @@
+[u'comic_book', 0.9527517, u'electric_guitar', 0.010862393, u'bow', 0.0034851686, u'toyshop', 0.0029686247, u'acoustic_guitar', 0.0021689842]
+[u'kimono', 0.16034728, u'parachute', 0.13341531, u'solar_dish', 0.11572435, u'fountain', 0.11218635, u'lionfish', 0.084142543]
+[u'comic_book', 0.40815711, u'shield', 0.11212114, u'lighter', 0.061003897, u'binder', 0.051705319, u'book_jacket', 0.043795671]
+[u'Windsor_tie', 0.10195699, u'suit', 0.097667366, u'hourglass', 0.07142666, u'theater_curtain', 0.064306833, u'bow_tie', 0.036717642]
+[u'grand_piano', 0.7490294, u'marimba', 0.13463122, u'upright', 0.065061688, u'altar', 0.0070060464, u'steel_drum', 0.0052066054]

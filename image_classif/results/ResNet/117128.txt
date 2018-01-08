@@ -1,0 +1,1 @@
+[u'comic_book', 0.20523773, u'jersey', 0.20333996, u'punching_bag', 0.050787453, u'tray', 0.035296135, u'paintbrush', 0.026272845]

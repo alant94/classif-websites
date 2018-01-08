@@ -1,0 +1,6 @@
+[u'web_site', 0.055066068, u'sweatshirt', 0.054378252, u'oil_filter', 0.045524597, u'rubber_eraser', 0.040373906, u'hair_spray', 0.038819768]
+[u'miniskirt', 0.13963564, u'breastplate', 0.1114147, u'neck_brace', 0.045085102, u'wig', 0.040615674, u'maillot', 0.034359455]
+[u'upright', 0.16601148, u'television', 0.1130154, u'organ', 0.10763691, u'book_jacket', 0.028901948, u'accordion', 0.027277313]
+[u'balance_beam', 0.77836418, u'wig', 0.037960514, u'horizontal_bar', 0.025803439, u'stage', 0.025778966, u'racket', 0.023365304]
+[u'scoreboard', 0.36563233, u'whistle', 0.13562539, u'Sussex_spaniel', 0.11523272, u'ice_lolly', 0.033274647, u'microphone', 0.023727106]
+[u'miniskirt', 0.15722571, u'breastplate', 0.10129496, u'pajama', 0.082142636, u'maillot', 0.073286593, u'vestment', 0.032970179]

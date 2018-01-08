@@ -1,0 +1,2 @@
+[u'guillotine', 0.24641646, u'iPod', 0.12179459, u'rule', 0.081915051, u'screw', 0.07724338, u'digital_clock', 0.067500725]
+[u'dumbbell', 0.64831865, u'hook', 0.087864727, u'corkscrew', 0.029491212, u'can_opener', 0.021899533, u'nipple', 0.017894285]

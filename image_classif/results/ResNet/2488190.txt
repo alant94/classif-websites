@@ -1,0 +1,2 @@
+[u'tennis_ball', 0.13871339, u'platypus', 0.091557562, u'electric_ray', 0.089975387, u'banded_gecko', 0.048404671, u'vine_snake', 0.04396205]
+[u'screen', 0.30659768, u'television', 0.23985942, u'oscilloscope', 0.1695465, u'digital_clock', 0.050004274, u'monitor', 0.035526916]

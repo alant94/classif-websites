@@ -1,0 +1,2 @@
+[u'hair_spray', 0.20045593, u'theater_curtain', 0.12002996, u'book_jacket', 0.10883576, u'cinema', 0.03963507, u'scoreboard', 0.036518447]
+[u'scoreboard', 0.44514784, u'digital_clock', 0.14177826, u'screen', 0.070692234, u'barbershop', 0.055539437, u'book_jacket', 0.030197361]

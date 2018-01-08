@@ -1,0 +1,8 @@
+[u'military_uniform', 0.15366864, u'bulletproof_vest', 0.13046429, u'bassoon', 0.11754731, u'suit', 0.10952581, u'oboe', 0.077167973]
+[u'table_lamp', 0.16409941, u'mortar', 0.11174514, u'spotlight', 0.086650893, u'quill', 0.068826787, u'hourglass', 0.03975518]
+[u'organ', 0.29521963, u'triumphal_arch', 0.26195222, u'cinema', 0.26084042, u'stupa', 0.025080172, u'pedestal', 0.021731259]
+[u'racket', 0.21916129, u'barometer', 0.12766191, u'stopwatch', 0.12737685, u'magnetic_compass', 0.11822706, u'analog_clock', 0.072737701]
+[u'dock', 0.4660922, u'container_ship', 0.13207482, u'wreck', 0.05522646, u'pirate', 0.043111641, u'drilling_platform', 0.042517312]
+[u'web_site', 0.30512044, u'comic_book', 0.081733577, u'hair_spray', 0.041863076, u'cinema', 0.039163765, u'barbershop', 0.028877947]
+[u'web_site', 0.78663391, u'menu', 0.071757182, u'envelope', 0.014052188, u'notebook', 0.0077335518, u'lighter', 0.0065648756]
+[u'suit', 0.61061925, u'marimba', 0.091756769, u'Loafer', 0.060112152, u'groom', 0.034625817, u'grand_piano', 0.010737688]

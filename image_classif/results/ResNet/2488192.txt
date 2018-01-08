@@ -1,0 +1,2 @@
+[u'suspension_bridge', 0.16115783, u'plow', 0.077698559, u'lakeside', 0.070608146, u'dam', 0.070402831, u'pier', 0.047661684]
+[u'prairie_chicken', 0.47069502, u'kite', 0.11754466, u'redshank', 0.056211092, u'goose', 0.046631213, u'ruffed_grouse', 0.039786372]

@@ -1,0 +1,3 @@
+[u'lakeside', 0.41553089, u'boathouse', 0.048274789, u'ear', 0.033126436, u'flagpole', 0.030657023, u'pot', 0.025425406]
+[u'barn', 0.59387416, u'picket_fence', 0.10544776, u'boathouse', 0.071972728, u'worm_fence', 0.057141822, u'church', 0.037447404]
+[u'web_site', 0.56519192, u'envelope', 0.067773402, u'nematode', 0.017212788, u'guillotine', 0.0098414579, u'shoji', 0.008952166]

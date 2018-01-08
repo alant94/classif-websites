@@ -1,0 +1,5 @@
+[u'mongoose', 0.29258141, u'baboon', 0.17508997, u'meerkat', 0.039947394, u'ram', 0.036686029, u'brown_bear', 0.035194162]
+[u'ibex', 0.93647397, u'gazelle', 0.031211304, u'hartebeest', 0.009092072, u'impala', 0.0059501613, u'bow', 0.0033621136]
+[u'Great_Dane', 0.13334221, u'Scottish_deerhound', 0.077871673, u'Staffordshire_bullterrier', 0.063770354, u'American_Staffordshire_terrier', 0.06186676, u'coho', 0.049474012]
+[u'hartebeest', 0.63684452, u'gazelle', 0.17846128, u'impala', 0.15107642, u'dhole', 0.0095319822, u'sorrel', 0.0072884974]
+[u'bighorn', 0.32568243, u'Arabian_camel', 0.19238569, u'ram', 0.1641008, u'warthog', 0.15332256, u'African_hunting_dog', 0.041122928]

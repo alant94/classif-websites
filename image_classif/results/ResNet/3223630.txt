@@ -1,0 +1,3 @@
+[u'church', 0.38029313, u'dock', 0.15100798, u'container_ship', 0.10608244, u'castle', 0.03693378, u'palace', 0.032494508]
+[u'envelope', 0.30297238, u'shower_curtain', 0.19112, u'pillow', 0.058209483, u'binder', 0.042823449, u'slide_rule', 0.041638426]
+[u'library', 0.15321642, u'bookshop', 0.1236257, u'bookcase', 0.081760786, u'palace', 0.070085064, u'streetcar', 0.054100838]

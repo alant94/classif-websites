@@ -1,0 +1,3 @@
+[u'web_site', 0.52601117, u'hair_spray', 0.03621972, u'remote_control', 0.023766898, u'envelope', 0.022137482, u'computer_keyboard', 0.018891001]
+[u'remote_control', 0.22841553, u'web_site', 0.17691974, u'iPod', 0.050248325, u'bottlecap', 0.039926134, u'stopwatch', 0.036193289]
+[u'stopwatch', 0.20826347, u'scale', 0.1374229, u'banjo', 0.048474129, u'analog_clock', 0.047048312, u'spotlight', 0.040971316]

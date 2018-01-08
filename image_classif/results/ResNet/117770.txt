@@ -1,0 +1,3 @@
+[u'scoreboard', 0.86521524, u'comic_book', 0.038410522, u'book_jacket', 0.027646042, u'slot', 0.016304182, u'digital_clock', 0.012767141]
+[u'assault_rifle', 0.39324299, u'rifle', 0.21304718, u'revolver', 0.10587162, u'military_uniform', 0.051080678, u'half_track', 0.026949452]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

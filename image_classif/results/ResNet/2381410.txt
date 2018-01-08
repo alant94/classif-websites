@@ -1,0 +1,6 @@
+[u'puck', 0.15761518, u'jersey', 0.06558615, u'drum', 0.061908986, u'chocolate_sauce', 0.034090608, u'shield', 0.033339985]
+[u'tobacco_shop', 0.79425526, u'container_ship', 0.14783138, u'bookshop', 0.010634291, u'bakery', 0.0076225991, u'grocery_store', 0.0058413823]
+[u'library', 0.373988, u'palace', 0.058640204, u'boathouse', 0.058303531, u'tobacco_shop', 0.045744445, u'bookcase', 0.037502695]
+[u'tobacco_shop', 0.96042889, u'container_ship', 0.034257118, u'bookshop', 0.003454719, u'medicine_chest', 0.00031929437, u'library', 0.00020510516]
+[u'beer_glass', 0.82302111, u'cup', 0.046763275, u'web_site', 0.02864337, u'drum', 0.01658529, u'coffee_mug', 0.010607471]
+[u'monitor', 0.21613991, u'beaker', 0.15364753, u'screen', 0.15003261, u'television', 0.14046557, u'cash_machine', 0.020467071]

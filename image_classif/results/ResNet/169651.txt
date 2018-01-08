@@ -1,0 +1,2 @@
+[u'comic_book', 0.4838731, u'book_jacket', 0.38225457, u'barbershop', 0.031269349, u'balloon', 0.028614054, u'web_site', 0.0080651436]
+[u'stole', 0.50170231, u'poncho', 0.21954046, u'papillon', 0.032597329, u'Brabancon_griffon', 0.01868237, u'miniature_pinscher', 0.011980451]

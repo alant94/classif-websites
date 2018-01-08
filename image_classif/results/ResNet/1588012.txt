@@ -1,0 +1,5 @@
+[u'titi', 0.33871442, u'capuchin', 0.19680688, u'bikini', 0.13272333, u'Siamese_cat', 0.023270534, u'spider_monkey', 0.020716948]
+[u'lotion', 0.28055775, u'beer_glass', 0.23022787, u'sunscreen', 0.16066977, u'cocktail_shaker', 0.15967597, u'beer_bottle', 0.05291187]
+[u'bathtub', 0.41935977, u'tub', 0.28306165, u'bikini', 0.18366988, u'diaper', 0.073735066, u'swimming_trunks', 0.012259188]
+[u'pill_bottle', 0.094884098, u'thimble', 0.089642368, u'remote_control', 0.059246883, u'switch', 0.049377393, u'Band_Aid', 0.049248323]
+[u'container_ship', 0.052751955, u'crossword_puzzle', 0.050815579, u'papillon', 0.050745986, u'sea_snake', 0.044696838, u'Welsh_springer_spaniel', 0.030077057]

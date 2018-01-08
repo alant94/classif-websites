@@ -1,0 +1,5 @@
+[u'digital_clock', 0.34755409, u'jersey', 0.096114665, u'traffic_light', 0.054593544, u'scoreboard', 0.053849407, u'Band_Aid', 0.045243349]
+[u'book_jacket', 0.10410403, u'jersey', 0.078390718, u'digital_clock', 0.072897315, u'prayer_rug', 0.071135305, u'binder', 0.049971484]
+[u'tub', 0.49504274, u'swimming_trunks', 0.32400709, u'fountain', 0.02428031, u'maillot', 0.022182869, u'maillot', 0.020584276]
+[u'shield', 0.19583957, u'Band_Aid', 0.14853716, u'prayer_rug', 0.055972055, u'ambulance', 0.055627275, u'street_sign', 0.055507511]
+[u'remote_control', 0.1390142, u'stethoscope', 0.074711457, u'nipple', 0.050007921, u'paper_towel', 0.03103896, u'oil_filter', 0.029278375]

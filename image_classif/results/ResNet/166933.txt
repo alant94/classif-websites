@@ -1,0 +1,6 @@
+[u'ambulance', 0.32169315, u'fire_engine', 0.15450986, u'book_jacket', 0.1025328, u'scoreboard', 0.094767392, u'Band_Aid', 0.036405273]
+[u'web_site', 0.58162719, u'envelope', 0.018231723, u'book_jacket', 0.011455993, u'dishwasher', 0.0086000329, u'rule', 0.0053415471]
+[u'Band_Aid', 0.68342328, u'ambulance', 0.18872234, u'stretcher', 0.022651097, u'digital_clock', 0.014745226, u'lighter', 0.0059607727]
+[u'drum', 0.76706386, u'steel_drum', 0.10387181, u'marimba', 0.10134947, u'banjo', 0.011511291, u'accordion', 0.0097304899]
+[u'flute', 0.56248283, u'panpipe', 0.26033893, u'harmonica', 0.10765047, u'fur_coat', 0.015129977, u'cornet', 0.0098976726]
+[u'kimono', 0.12753579, u'stretcher', 0.11609033, u'flute', 0.053782079, u'conch', 0.041145761, u'sax', 0.038643524]

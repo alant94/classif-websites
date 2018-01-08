@@ -1,0 +1,1 @@
+[u'solar_dish', 0.22674257, u'pedestal', 0.15302613, u'wall_clock', 0.11395691, u'hook', 0.045666456, u'electric_fan', 0.038221668]

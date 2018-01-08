@@ -1,0 +1,4 @@
+[u'binoculars', 0.47320905, u'pedestal', 0.078353956, u'barrel', 0.067864239, u'chain_saw', 0.051564571, u'milk_can', 0.042873833]
+[u'lakeside', 0.10645103, u'breakwater', 0.09192314, u'worm_fence', 0.082219139, u'stone_wall', 0.058044571, u'maze', 0.0481169]
+[u'quill', 0.1186948, u'oscilloscope', 0.1154195, u'ear', 0.084476419, u'plate_rack', 0.048440736, u'hook', 0.037355851]
+[u'dock', 0.19107357, u'drilling_platform', 0.13063006, u'barracouta', 0.11982237, u'gar', 0.074218765, u'suspension_bridge', 0.065260962]

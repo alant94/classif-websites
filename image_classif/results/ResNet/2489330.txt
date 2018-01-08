@@ -1,0 +1,3 @@
+[u'church', 0.64942455, u'bell_cote', 0.09358944, u'tile_roof', 0.053728521, u'barn', 0.046533469, u'boathouse', 0.0296041]
+[u'china_cabinet', 0.25462586, u'dining_table', 0.18591554, u'restaurant', 0.079894051, u'barber_chair', 0.041992098, u'microwave', 0.040381134]
+[u'barber_chair', 0.90657538, u'barbershop', 0.069450602, u'rocking_chair', 0.006633488, u'restaurant', 0.0062834974, u'throne', 0.0034703219]

@@ -1,0 +1,5 @@
+[u'lakeside', 0.36210287, u'barn', 0.060180642, u'church', 0.029653862, u'castle', 0.029037861, u'water_tower', 0.028302427]
+[u'web_site', 0.86862528, u'menu', 0.025658254, u'corn', 0.017528264, u'envelope', 0.010146942, u'orange', 0.0052463296]
+[u'cornet', 0.24410693, u'iron', 0.06560275, u'microphone', 0.042402156, u'pick', 0.033030123, u'trombone', 0.027186541]
+[u'crossword_puzzle', 0.77765065, u'menu', 0.098384298, u'screw', 0.011056544, u'hard_disc', 0.010832774, u'rifle', 0.0053318287]
+[u'streetcar', 0.4700107, u'web_site', 0.21941924, u'monitor', 0.071138598, u'pop_bottle', 0.052848525, u'wig', 0.049591184]

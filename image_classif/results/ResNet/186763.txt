@@ -1,0 +1,8 @@
+[u'web_site', 0.88720644, u'screen', 0.016753692, u'oscilloscope', 0.012924051, u'digital_clock', 0.012272024, u'street_sign', 0.010484037]
+[u'web_site', 0.33207151, u'analog_clock', 0.029309625, u'nematode', 0.024503708, u'jellyfish', 0.022087771, u'envelope', 0.016298397]
+[u'web_site', 0.33207151, u'analog_clock', 0.029309625, u'nematode', 0.024503708, u'jellyfish', 0.022087771, u'envelope', 0.016298397]
+[u'digital_clock', 0.57498431, u'analog_clock', 0.15719961, u'screw', 0.028779622, u'nail', 0.024772266, u'digital_watch', 0.019165166]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.33207151, u'analog_clock', 0.029309625, u'nematode', 0.024503708, u'jellyfish', 0.022087771, u'envelope', 0.016298397]
+[u'web_site', 0.33207151, u'analog_clock', 0.029309625, u'nematode', 0.024503708, u'jellyfish', 0.022087771, u'envelope', 0.016298397]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

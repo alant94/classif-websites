@@ -1,0 +1,7 @@
+[u'book_jacket', 0.35747761, u'comic_book', 0.30304784, u'scoreboard', 0.066683106, u'cinema', 0.019050248, u'theater_curtain', 0.017163375]
+[u'comic_book', 0.47084957, u'book_jacket', 0.27924594, u'sloth_bear', 0.034286231, u'cassette', 0.030273166, u'American_black_bear', 0.027140364]
+[u'loudspeaker', 0.78389955, u'sombrero', 0.032454893, u'nematode', 0.022637168, u'plunger', 0.010135541, u'chime', 0.0084676081]
+[u'web_site', 0.34994918, u'book_jacket', 0.044840846, u'envelope', 0.039269671, u'fire_screen', 0.032594286, u'analog_clock', 0.028457832]
+[u'corkscrew', 0.21282884, u'spotlight', 0.15613344, u'soap_dispenser', 0.13573352, u'binder', 0.076037109, u'safe', 0.03860544]
+[u'Leonberg', 0.18034299, u'German_short-haired_pointer', 0.14032273, u'Sussex_spaniel', 0.13876465, u'Saint_Bernard', 0.13461041, u'book_jacket', 0.12440848]
+[u'web_site', 0.72384238, u'envelope', 0.19621724, u'Band_Aid', 0.011552603, u'digital_clock', 0.0038392947, u'oxygen_mask', 0.0019163293]

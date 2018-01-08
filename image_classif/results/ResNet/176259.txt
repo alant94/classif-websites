@@ -1,0 +1,2 @@
+[u'dugong', 0.47964773, u'electric_ray', 0.17375483, u'jellyfish', 0.12196625, u'space_shuttle', 0.039452843, u'rock_beauty', 0.031807303]
+[u'badger', 0.88429731, u'skunk', 0.092318028, u'gibbon', 0.0098843817, u'polecat', 0.001473334, u'black-footed_ferret', 0.0013695473]

@@ -1,0 +1,4 @@
+[u'web_site', 0.18607101, u'iron', 0.077612296, u'folding_chair', 0.058545679, u'moving_van', 0.052717529, u'shopping_cart', 0.029370951]
+[u'television', 0.13016519, u'ballplayer', 0.12671994, u'balance_beam', 0.12413214, u'basketball', 0.11611586, u'torch', 0.087212019]
+[u'Saint_Bernard', 0.071355619, u'cocktail_shaker', 0.064260922, u'papillon', 0.052229211, u'boxer', 0.037366316, u'German_short-haired_pointer', 0.035890449]
+[u'container_ship', 0.66747773, u'banded_gecko', 0.049752466, u'space_shuttle', 0.015843246, u'rock_python', 0.013300831, u'balance_beam', 0.012215178]

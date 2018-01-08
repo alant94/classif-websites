@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'wall_clock', 0.3242197, u'bell_cote', 0.18826075, u'altar', 0.053052638, u'barometer', 0.050205521, u'throne', 0.049637128]
+[u'clumber', 0.1826665, u'kuvasz', 0.12917687, u'black_grouse', 0.044257514, u'borzoi', 0.035874784, u'Bouvier_des_Flandres', 0.034772795]
+[u'altar', 0.093637563, u'balloon', 0.058090117, u'throne', 0.038642406, u'balance_beam', 0.025775589, u'jigsaw_puzzle', 0.02318674]
+[u'jersey', 0.12680328, u'web_site', 0.10155127, u'laptop', 0.085565239, u'comic_book', 0.066885792, u'lighter', 0.021845078]

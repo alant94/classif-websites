@@ -1,0 +1,8 @@
+[u'digital_clock', 0.71109438, u'digital_watch', 0.16278905, u'crossword_puzzle', 0.11880044, u'scoreboard', 0.002785692, u'analog_clock', 0.00052770792]
+[u'web_site', 0.079987071, u'television', 0.069237567, u'monitor', 0.059287749, u'screen', 0.043429755, u'dishwasher', 0.029717414]
+[u'picket_fence', 0.62171572, u'crossword_puzzle', 0.25840977, u'digital_watch', 0.028251074, u'digital_clock', 0.016902668, u'worm_fence', 0.016018501]
+[u'television', 0.079319842, u'web_site', 0.073196732, u'monitor', 0.051916037, u'screen', 0.034342956, u'shoji', 0.03395531]
+[u'digital_clock', 0.26141152, u'analog_clock', 0.13517091, u'screw', 0.030173294, u'envelope', 0.02782386, u'power_drill', 0.022546839]
+[u'picket_fence', 0.4562757, u'theater_curtain', 0.024149992, u'folding_chair', 0.023728373, u'worm_fence', 0.022980679, u'flagpole', 0.018358834]
+[u'screen', 0.48792842, u'desktop_computer', 0.13175242, u'monitor', 0.1289767, u'television', 0.1097494, u'iPod', 0.047480159]
+[u'picket_fence', 0.54442108, u'crossword_puzzle', 0.33792561, u'digital_watch', 0.014220069, u'worm_fence', 0.013003769, u'book_jacket', 0.0040378668]

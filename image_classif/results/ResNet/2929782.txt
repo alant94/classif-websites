@@ -1,0 +1,2 @@
+[u'sunglasses', 0.65965682, u'sunglass', 0.27055562, u'bow_tie', 0.0085049663, u'web_site', 0.0082262708, u'miniskirt', 0.0054694428]
+[u'tobacco_shop', 0.62896931, u'barbershop', 0.2403708, u'bakery', 0.046971139, u'bookshop', 0.028510852, u'restaurant', 0.022172237]

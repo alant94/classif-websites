@@ -1,0 +1,6 @@
+[u'puck', 0.30631411, u'shield', 0.2752268, u'jersey', 0.035032917, u'binder', 0.029318143, u'lighter', 0.025581349]
+[u'remote_control', 0.096466817, u'puck', 0.095528156, u'hard_disc', 0.058064032, u'CD_player', 0.04123966, u'digital_clock', 0.039758008]
+[u'analog_clock', 0.7349264, u'digital_clock', 0.056019638, u'CD_player', 0.050014514, u'digital_watch', 0.027121482, u'stopwatch', 0.022976693]
+[u'web_site', 0.26418078, u'binder', 0.060204636, u'analog_clock', 0.034499578, u'jersey', 0.028168708, u'combination_lock', 0.02774604]
+[u'web_site', 0.16579981, u'jersey', 0.11868347, u'binder', 0.054337569, u'can_opener', 0.049437467, u'cash_machine', 0.04402934]
+[u'jersey', 0.36176994, u'sweatshirt', 0.11015392, u'binder', 0.057227243, u'web_site', 0.045670636, u'electric_fan', 0.016137129]

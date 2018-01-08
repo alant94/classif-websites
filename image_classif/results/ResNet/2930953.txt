@@ -1,0 +1,6 @@
+[u'brass', 0.63466322, u'sundial', 0.12108475, u'pedestal', 0.037821073, u'maze', 0.021099165, u'crate', 0.013840647]
+[u'alp', 0.75983739, u'valley', 0.06358704, u'suspension_bridge', 0.029617064, u'cliff', 0.029340653, u'parachute', 0.021076662]
+[u'patio', 0.11111996, u'maze', 0.099661782, u'greenhouse', 0.057617195, u'Gila_monster', 0.051730141, u'castle', 0.045755334]
+[u'prayer_rug', 0.21853259, u'crossword_puzzle', 0.13026685, u'digital_clock', 0.059396371, u'picket_fence', 0.050722573, u'digital_watch', 0.046220548]
+[u'mortarboard', 0.5673961, u'theater_curtain', 0.20542632, u'academic_gown', 0.18216902, u'panpipe', 0.0066536167, u'groom', 0.0042221709]
+[u'digital_clock', 0.13409944, u'washbasin', 0.099030562, u'prayer_rug', 0.054951355, u'wardrobe', 0.048086144, u'web_site', 0.043216225]

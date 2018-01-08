@@ -1,0 +1,4 @@
+[u'comic_book', 0.17241696, u'puck', 0.073407017, u'scale', 0.071158834, u'plate_rack', 0.05314783, u'hook', 0.040100265]
+[u'banjo', 0.64841604, u'assault_rifle', 0.066796266, u'tractor', 0.028468568, u'accordion', 0.023030926, u'rifle', 0.022927292]
+[u'crossword_puzzle', 0.94477379, u'digital_clock', 0.012548644, u'tray', 0.0079328436, u'wall_clock', 0.0055934126, u'book_jacket', 0.0023178877]
+[u'beer_glass', 0.75849521, u'goblet', 0.18570147, u'eggnog', 0.03403401, u'espresso', 0.0065307287, u'consomme', 0.0036154718]

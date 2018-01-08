@@ -1,0 +1,6 @@
+[u'American_black_bear', 0.99387085, u'brown_bear', 0.0032008355, u'wombat', 0.00088372716, u'hog', 0.00079483318, u'wild_boar', 0.00048149793]
+[u'drum', 0.3865487, u'puck', 0.10175667, u'buckle', 0.048673641, u'face_powder', 0.043784413, u'binder', 0.043081436]
+[u'coyote', 0.52991706, u'warthog', 0.23785852, u'timber_wolf', 0.036769364, u'kit_fox', 0.0280162, u'grey_fox', 0.027041301]
+[u'puck', 0.12236017, u'shield', 0.070003308, u'toilet_seat', 0.059319578, u'plate_rack', 0.054438677, u'gong', 0.0528845]
+[u'valley', 0.82933873, u'lakeside', 0.05231519, u'cliff', 0.026262414, u'geyser', 0.013946254, u'alp', 0.010062138]
+[u'coyote', 0.49484047, u'dhole', 0.24444291, u'grey_fox', 0.1240745, u'red_fox', 0.068635158, u'red_wolf', 0.024526641]

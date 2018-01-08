@@ -1,0 +1,7 @@
+[u'pick', 0.21480709, u'corkscrew', 0.16673128, u'web_site', 0.14717199, u'screw', 0.13488232, u'cleaver', 0.051596541]
+[u'oxygen_mask', 0.35828567, u'hand_blower', 0.076720074, u'spotlight', 0.070574179, u'gasmask', 0.048464093, u'iron', 0.035071]
+[u'lab_coat', 0.61822134, u'web_site', 0.095997624, u'groom', 0.04755922, u'gown', 0.031252835, u'stethoscope', 0.026904808]
+[u'hair_spray', 0.31448665, u'lab_coat', 0.10516778, u'paintbrush', 0.073829271, u'hand_blower', 0.047368038, u'groom', 0.037872769]
+[u'lipstick', 0.88641667, u'hair_slide', 0.015063507, u'Band_Aid', 0.01014586, u'perfume', 0.0055856886, u'paintbrush', 0.0052622855]
+[u'lipstick', 0.53490216, u'Band_Aid', 0.25111061, u'face_powder', 0.058071747, u'wig', 0.01508012, u'perfume', 0.01468138]
+[u'Windsor_tie', 0.49774033, u'web_site', 0.058219463, u'neck_brace', 0.033651374, u'envelope', 0.024562707, u'lab_coat', 0.021905065]

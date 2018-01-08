@@ -1,0 +1,4 @@
+[u'horse_cart', 0.21447976, u'oxcart', 0.16937886, u'tractor', 0.1054792, u'plow', 0.074793532, u'park_bench', 0.071763799]
+[u'swing', 0.47034091, u'park_bench', 0.15697353, u"jack-o'-lantern", 0.053101175, u'wig', 0.01163602, u'horizontal_bar', 0.010813141]
+[u'impala', 0.60710782, u'gazelle', 0.11976241, u'hartebeest', 0.059334315, u'ostrich', 0.047246695, u'bluetick', 0.016475711]
+[u'barn', 0.59679472, u'harvester', 0.039707206, u'mailbox', 0.028877812, u'greenhouse', 0.028772417, u'chainlink_fence', 0.019001815]

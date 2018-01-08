@@ -1,0 +1,6 @@
+[u'wig', 0.093520768, u'academic_gown', 0.074170202, u'abaya', 0.036887132, u'mortarboard', 0.036074936, u'seat_belt', 0.031361684]
+[u'suit', 0.42816216, u'Windsor_tie', 0.22108318, u'Kerry_blue_terrier', 0.089234993, u'Sealyham_terrier', 0.049977973, u'Scotch_terrier', 0.029362453]
+[u'suit', 0.60129786, u'bulletproof_vest', 0.096025884, u'military_uniform', 0.062261395, u'Windsor_tie', 0.028258104, u'bow_tie', 0.019639989]
+[u'suit', 0.58112615, u'Windsor_tie', 0.16395856, u'Kerry_blue_terrier', 0.023648364, u'Sealyham_terrier', 0.01786736, u'Scotch_terrier', 0.010769834]
+[u'bulletproof_vest', 0.37877578, u'suit', 0.1730887, u'military_uniform', 0.079381064, u'bassoon', 0.038585272, u'oboe', 0.021103106]
+[u'bikini', 0.46948227, u'swimming_trunks', 0.24618626, u'maillot', 0.11348303, u'maillot', 0.071293883, u'gown', 0.018479928]

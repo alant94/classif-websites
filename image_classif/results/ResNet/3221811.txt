@@ -1,0 +1,2 @@
+[u'comic_book', 0.7982986, u'book_jacket', 0.19525927, u'tray', 0.0012345973, u'laptop', 0.0010551927, u'envelope', 0.00093591039]
+[u'book_jacket', 0.37226641, u'slide_rule', 0.22831817, u'nail', 0.12076873, u'rule', 0.09338703, u'screwdriver', 0.027532352]

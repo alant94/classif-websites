@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.99965692, u'picket_fence', 8.4283405e-05, u'dining_table', 6.2051869e-05, u'folding_chair', 4.3838809e-05, u'Newfoundland', 6.9804164e-06]
+[u'book_jacket', 0.28402317, u'comic_book', 0.28153566, u'hair_spray', 0.038118478, u'scoreboard', 0.020731151, u'remote_control', 0.016543707]
+[u'crossword_puzzle', 0.99368805, u'digital_clock', 0.0054707411, u'prayer_rug', 0.00026262162, u'digital_watch', 0.0002389346, u'wall_clock', 0.00011150374]

@@ -1,0 +1,1 @@
+[u'vending_machine', 0.11205249, u'desk', 0.11084858, u'cash_machine', 0.088168144, u'web_site', 0.081914216, u'comic_book', 0.065552689]

@@ -1,0 +1,1 @@
+[u'corkscrew', 0.60120714, u'red_wine', 0.27706781, u'goblet', 0.061382748, u'wine_bottle', 0.028988438, u'cocktail_shaker', 0.025522575]

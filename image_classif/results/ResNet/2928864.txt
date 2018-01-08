@@ -1,0 +1,6 @@
+[u'kimono', 0.14321281, u'jean', 0.13829519, u'trench_coat', 0.052163597, u'miniskirt', 0.051528811, u'overskirt', 0.050981987]
+[u'fire_engine', 0.30692074, u'ambulance', 0.23268317, u'trailer_truck', 0.094122492, u'cab', 0.070069477, u'police_van', 0.045256004]
+[u'cradle', 0.14625652, u'wardrobe', 0.058329377, u'bow_tie', 0.052685946, u'wig', 0.034090441, u'butcher_shop', 0.03267647]
+[u'ambulance', 0.99944717, u'police_van', 0.00041275049, u'fire_engine', 0.00010098876, u'moving_van', 1.7113874e-05, u'recreational_vehicle', 1.1382221e-05]
+[u'jinrikisha', 0.52424139, u'shopping_cart', 0.16922194, u'bicycle-built-for-two', 0.054771543, u'horse_cart', 0.031843975, u'crutch', 0.02546227]
+[u'stethoscope', 0.43810362, u'kimono', 0.078679226, u'whistle', 0.073663607, u'oxygen_mask', 0.034803707, u'sunglass', 0.02400835]

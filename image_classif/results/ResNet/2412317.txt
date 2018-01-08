@@ -1,0 +1,4 @@
+[u'cliff', 0.093006119, u'hermit_crab', 0.08616069, u'alp', 0.06044358, u'orangutan', 0.052457903, u'tarantula', 0.050255958]
+[u'paintbrush', 0.53630954, u'sock', 0.2066514, u'toilet_seat', 0.038664695, u'running_shoe', 0.033055585, u'Norwegian_elkhound', 0.027519144]
+[u'hermit_crab', 0.99982208, u'chambered_nautilus', 8.0576654e-05, u'isopod', 4.461543e-05, u'rock_crab', 1.5196379e-05, u'tick', 1.483193e-05]
+[u'loupe', 0.57831699, u'loudspeaker', 0.045989405, u'cassette', 0.045744121, u'buckle', 0.026466904, u'switch', 0.020567987]

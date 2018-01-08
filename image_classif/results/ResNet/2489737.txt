@@ -1,0 +1,6 @@
+[u'pick', 0.16696259, u'web_site', 0.048116025, u'hair_spray', 0.035130467, u'oil_filter', 0.023637293, u'theater_curtain', 0.016759336]
+[u'German_shepherd', 0.095296256, u'cowboy_boot', 0.04595948, u'golf_ball', 0.041450012, u'groenendael', 0.037852496, u'croquet_ball', 0.033902939]
+[u'plow', 0.10745698, u'chain_saw', 0.10307792, u'hatchet', 0.048901759, u'barrow', 0.048081618, u'unicycle', 0.042017478]
+[u'street_sign', 0.96050686, u'traffic_light', 0.018911779, u'comic_book', 0.0015739659, u'abacus', 0.0013679874, u'oscilloscope', 0.0013262454]
+[u'racer', 0.14178756, u'lawn_mower', 0.066565461, u'terrapin', 0.055893861, u'safety_pin', 0.041569427, u'stretcher', 0.031845007]
+[u'paintbrush', 0.63944954, u'padlock', 0.12664741, u'birdhouse', 0.046518922, u'parking_meter', 0.043323576, u'nail', 0.028887535]

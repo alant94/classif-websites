@@ -1,0 +1,6 @@
+[u'letter_opener', 0.29543406, u'pick', 0.12759429, u'spatula', 0.10480037, u'French_horn', 0.071800537, u'ladle', 0.048329301]
+[u'nematode', 0.350665, u'bolo_tie', 0.11671073, u'buckle', 0.087878108, u'thimble', 0.057181574, u'Petri_dish', 0.03492754]
+[u'oscilloscope', 0.79716903, u'gong', 0.076822504, u'washer', 0.037513174, u'electric_fan', 0.01032706, u'joystick', 0.007876751]
+[u'panpipe', 0.43590268, u'church', 0.11840539, u'picket_fence', 0.10458601, u'traffic_light', 0.089116983, u'prayer_rug', 0.034523591]
+[u'barn_spider', 0.089038417, u'terrapin', 0.06932193, u'planetarium', 0.052651536, u'vase', 0.039625142, u'leatherback_turtle', 0.037230872]
+[u'otterhound', 0.20954777, u'Lakeland_terrier', 0.14128673, u'book_jacket', 0.077882059, u'theater_curtain', 0.037257448, u'Brabancon_griffon', 0.033912472]

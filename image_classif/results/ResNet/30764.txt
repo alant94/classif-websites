@@ -1,0 +1,2 @@
+[u'digital_clock', 0.83878714, u'tennis_ball', 0.067465678, u'digital_watch', 0.042638093, u'stopwatch', 0.0083067687, u'wall_clock', 0.0069636777]
+[u'wallet', 0.80567765, u'book_jacket', 0.068729907, u'purse', 0.031497773, u'chest', 0.01318721, u'iPod', 0.013029648]

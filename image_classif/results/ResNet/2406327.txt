@@ -1,0 +1,7 @@
+[u'safe', 0.34666386, u'medicine_chest', 0.13310832, u'binder', 0.07545279, u'desktop_computer', 0.032875922, u'tray', 0.030190861]
+[u'refrigerator', 0.70473289, u'safe', 0.2496074, u'medicine_chest', 0.014335217, u'combination_lock', 0.0046465527, u'desktop_computer', 0.0040543303]
+[u'safe', 0.73950994, u'refrigerator', 0.062708654, u'combination_lock', 0.032875963, u'photocopier', 0.021383822, u'dishwasher', 0.01916956]
+[u'safe', 0.89547861, u'combination_lock', 0.10258389, u'pencil_sharpener', 0.0005983368, u'binder', 0.00034517731, u'tape_player', 0.00013833128]
+[u'safe', 0.31620583, u'bathtub', 0.1461079, u'soap_dispenser', 0.13225353, u'washbasin', 0.12880543, u'medicine_chest', 0.10404485]
+[u'safe', 0.23634766, u'cash_machine', 0.078847684, u'prison', 0.062229566, u'vault', 0.057393007, u'tobacco_shop', 0.050654076]
+[u'safe', 0.70304561, u'combination_lock', 0.10293532, u'desktop_computer', 0.059360702, u'binder', 0.055582106, u'hard_disc', 0.024587216]

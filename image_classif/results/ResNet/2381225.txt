@@ -1,0 +1,6 @@
+[u'butcher_shop', 0.24429581, u'horizontal_bar', 0.17731707, u'jackfruit', 0.084354982, u'dumbbell', 0.056519035, u'parallel_bars', 0.055124041]
+[u'worm_fence', 0.76463997, u'picket_fence', 0.23458855, u'barn', 0.00027545221, u'chainlink_fence', 0.00013024489, u'breakwater', 9.9588797e-05]
+[u'coil', 0.99350441, u'organ', 0.0012815397, u'electric_fan', 0.0010307353, u'prison', 0.0006029855, u'bannister', 0.0005678609]
+[u'picket_fence', 0.27913985, u'window_shade', 0.094494082, u'padlock', 0.068317331, u'doormat', 0.058856249, u'mailbox', 0.057819128]
+[u'picket_fence', 0.73442584, u'wardrobe', 0.14611521, u'worm_fence', 0.07408721, u'borzoi', 0.0057471623, u'West_Highland_white_terrier', 0.0042231074]
+[u'fountain', 0.17430317, u'alp', 0.10497516, u'lakeside', 0.082799964, u'castle', 0.075040072, u'barn', 0.057644621]

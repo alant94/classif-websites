@@ -1,0 +1,5 @@
+[u'organ', 0.27179036, u'altar', 0.10732631, u'vestment', 0.061462972, u'suit', 0.041414473, u'throne', 0.033514116]
+[u'church', 0.94770342, u'altar', 0.026771065, u'organ', 0.024995247, u'vault', 0.00013848529, u'theater_curtain', 5.9816517e-05]
+[u'web_site', 0.45775288, u'can_opener', 0.08400993, u'hook', 0.053846143, u'analog_clock', 0.027319951, u'switch', 0.020605354]
+[u'comic_book', 0.33458766, u'barbershop', 0.18450972, u'cinema', 0.16825023, u'book_jacket', 0.088722371, u'slot', 0.067271434]
+[u'web_site', 0.33594871, u'Band_Aid', 0.17928424, u'analog_clock', 0.035421025, u'digital_clock', 0.032614484, u'lighter', 0.029809963]

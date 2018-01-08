@@ -1,0 +1,3 @@
+[u'comic_book', 0.56041044, u'whistle', 0.078324072, u'jersey', 0.054620333, u'paddle', 0.046584927, u'speedboat', 0.017397109]
+[u'marimba', 0.71345109, u'organ', 0.034219649, u'gong', 0.031032145, u'chime', 0.023133701, u'panpipe', 0.015985621]
+[u'book_jacket', 0.10411631, u'cash_machine', 0.066421986, u'web_site', 0.06536179, u'pill_bottle', 0.034496624, u'lotion', 0.030537641]

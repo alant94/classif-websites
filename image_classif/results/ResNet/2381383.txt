@@ -1,0 +1,2 @@
+[u'paper_towel', 0.47171357, u'rain_barrel', 0.29242834, u'barrel', 0.074769437, u'soap_dispenser', 0.026583672, u'ashcan', 0.023384908]
+[u'stove', 0.23302118, u'soap_dispenser', 0.19760755, u'dishwasher', 0.12975149, u'washbasin', 0.10783482, u'barrel', 0.061204989]

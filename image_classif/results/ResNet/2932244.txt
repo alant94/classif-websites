@@ -1,0 +1,1 @@
+[u'window_screen', 0.14384489, u'television', 0.11895424, u'screen', 0.073811948, u'picket_fence', 0.042138625, u'monitor', 0.038873807]

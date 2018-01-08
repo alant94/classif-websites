@@ -1,0 +1,8 @@
+[u'ocarina', 0.1047045, u'digital_clock', 0.059133902, u'cassette', 0.056717649, u'web_site', 0.056356881, u'whistle', 0.046540722]
+[u'analog_clock', 0.2403108, u'stopwatch', 0.21948449, u'web_site', 0.13240325, u'envelope', 0.07717213, u'digital_clock', 0.049868997]
+[u'chain_saw', 0.37109053, u'screw', 0.12709063, u'corkscrew', 0.068053447, u'hook', 0.064418681, u'cleaver', 0.03191122]
+[u'envelope', 0.63250685, u'carton', 0.15344155, u'comic_book', 0.05572851, u'book_jacket', 0.047592897, u'Band_Aid', 0.03389411]
+[u'digital_clock', 0.54510224, u'stopwatch', 0.10365865, u'web_site', 0.02322036, u'scoreboard', 0.022448231, u'remote_control', 0.014564144]
+[u'digital_clock', 0.88416803, u'web_site', 0.024512323, u'stopwatch', 0.016906656, u'digital_watch', 0.0060449201, u'fire_screen', 0.0056244596]
+[u'envelope', 0.33353695, u'web_site', 0.30284464, u'jigsaw_puzzle', 0.050602183, u'whistle', 0.042082839, u'ice_lolly', 0.036084637]
+[u'digital_clock', 0.29005995, u'stopwatch', 0.11638787, u'scoreboard', 0.061488114, u'chain', 0.052149907, u'web_site', 0.051289864]

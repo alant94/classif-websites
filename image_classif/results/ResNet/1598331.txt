@@ -1,0 +1,7 @@
+[u'comic_book', 0.32545006, u'swimming_trunks', 0.25439453, u'maillot', 0.047374498, u'maillot', 0.046350386, u'web_site', 0.034923404]
+[u'nematode', 0.11364241, u'binder', 0.052619126, u'theater_curtain', 0.035339851, u'envelope', 0.02923763, u'abaya', 0.020176437]
+[u'binder', 0.55851001, u'wallet', 0.21744783, u'envelope', 0.036062624, u'book_jacket', 0.017446673, u'prayer_rug', 0.01342156]
+[u'binder', 0.093104891, u'mailbag', 0.064437769, u'laptop', 0.051884592, u'mountain_bike', 0.026904089, u'web_site', 0.026367532]
+[u'plate_rack', 0.4766331, u'radiator', 0.17622465, u'space_heater', 0.14888977, u'screwdriver', 0.054031886, u"carpenter's_kit", 0.035486005]
+[u'brassiere', 0.35358647, u'maillot', 0.17007188, u'maillot', 0.10876516, u'bikini', 0.065989226, u'gown', 0.056115318]
+[u'candle', 0.5284161, u'throne', 0.13649999, u'picket_fence', 0.033270452, u'rocking_chair', 0.03275973, u'plate_rack', 0.027186187]

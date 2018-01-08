@@ -1,0 +1,4 @@
+[u'traffic_light', 0.52621222, u'street_sign', 0.20267911, u'digital_clock', 0.086998284, u'lighter', 0.062812693, u'analog_clock', 0.01454166]
+[u'web_site', 0.10071994, u'comic_book', 0.081352286, u'menu', 0.074671783, u'crossword_puzzle', 0.060106561, u'book_jacket', 0.040974673]
+[u'slide_rule', 0.18467046, u'screwdriver', 0.078218892, u'nail', 0.064029723, u'rule', 0.049064692, u'crossword_puzzle', 0.041063383]
+[u'lighter', 0.18376565, u'cellular_telephone', 0.068509385, u'analog_clock', 0.062198367, u'tray', 0.060688719, u'digital_clock', 0.03904428]

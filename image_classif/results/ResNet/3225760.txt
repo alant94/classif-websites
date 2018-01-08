@@ -1,0 +1,7 @@
+[u'chain_mail', 0.11427473, u'crossword_puzzle', 0.061671171, u'carton', 0.053581022, u'cradle', 0.050348274, u'cleaver', 0.0366401]
+[u'tripod', 0.82393324, u'nail', 0.03168771, u'chime', 0.024304442, u'folding_chair', 0.012951273, u'oscilloscope', 0.0081896409]
+[u'streetcar', 0.13535464, u'cinema', 0.12333104, u'fountain', 0.078032479, u'prison', 0.050008766, u'planetarium', 0.046664715]
+[u'punching_bag', 0.5473814, u'plunger', 0.19082771, u'ski', 0.011708084, u'maraca', 0.011415758, u'lipstick', 0.01040029]
+[u'basketball', 0.70843434, u"jack-o'-lantern", 0.13923967, u'tennis_ball', 0.063878074, u'orange', 0.030914441, u'bucket', 0.01254122]
+[u'book_jacket', 0.70458174, u'comic_book', 0.03083306, u'envelope', 0.013338638, u'street_sign', 0.012861059, u'matchstick', 0.010717125]
+[u'book_jacket', 0.3558895, u'Band_Aid', 0.14117734, u'packet', 0.10110391, u'eggnog', 0.08594656, u'chocolate_sauce', 0.066817701]

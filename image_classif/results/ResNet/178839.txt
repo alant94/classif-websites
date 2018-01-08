@@ -1,0 +1,6 @@
+[u'book_jacket', 0.60879147, u'comic_book', 0.17836361, u'menu', 0.14178218, u'web_site', 0.048325386, u'jigsaw_puzzle', 0.0073034493]
+[u'jersey', 0.30368778, u'panpipe', 0.069977097, u'coffee_mug', 0.038574681, u'screwdriver', 0.032703608, u'maraca', 0.026583638]
+[u'web_site', 0.30125347, u'book_jacket', 0.20349567, u'menu', 0.19938983, u'comic_book', 0.19683209, u'packet', 0.090596519]
+[u'book_jacket', 0.48466653, u'web_site', 0.30919421, u'comic_book', 0.18437651, u'menu', 0.017432634, u'packet', 0.00051318167]
+[u"carpenter's_kit", 0.19132075, u'loudspeaker', 0.051606897, u'modem', 0.045900866, u'plate_rack', 0.039805252, u'sweatshirt', 0.023738015]
+[u'web_site', 0.42322537, u'book_jacket', 0.15957643, u'menu', 0.14672689, u'comic_book', 0.14064814, u'carton', 0.077617444]

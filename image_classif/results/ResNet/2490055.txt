@@ -1,0 +1,4 @@
+[u'limpkin', 0.33574218, u'kite', 0.12800168, u'impala', 0.058537472, u'vulture', 0.051295143, u'prairie_chicken', 0.049449105]
+[u'cougar', 0.34809947, u'wallaby', 0.13756806, u'American_Staffordshire_terrier', 0.072090983, u'wombat', 0.031654295, u'armadillo', 0.024922486]
+[u'chain', 0.35881379, u'abaya', 0.32839864, u'pick', 0.018251861, u'spider_web', 0.016067153, u'stopwatch', 0.013364378]
+[u'hartebeest', 0.61638916, u'impala', 0.15576127, u'ibex', 0.082904331, u'gazelle', 0.072134875, u'ox', 0.021840079]

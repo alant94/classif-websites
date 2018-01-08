@@ -1,0 +1,2 @@
+[u'hook', 0.24872002, u'orangutan', 0.23106839, u'bow', 0.16387235, u'ibex', 0.045171387, u'spider_monkey', 0.041286524]
+[u'Indian_elephant', 0.15777346, u'triceratops', 0.072653934, u'bull_mastiff', 0.066239983, u'butcher_shop', 0.056852397, u'Arabian_camel', 0.051095571]

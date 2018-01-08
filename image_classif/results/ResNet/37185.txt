@@ -1,0 +1,3 @@
+[u'beer_bottle', 0.86525381, u'grocery_store', 0.086310484, u'wine_bottle', 0.029782966, u'red_wine', 0.0033614591, u'perfume', 0.0024831982]
+[u'panpipe', 0.81824142, u'kimono', 0.039520901, u'chime', 0.01263791, u'vacuum', 0.012560655, u'ski', 0.0072665345]
+[u'bullet_train', 0.27294764, u'pier', 0.096735537, u'suspension_bridge', 0.090764888, u'electric_locomotive', 0.067539953, u'steel_arch_bridge', 0.062646493]

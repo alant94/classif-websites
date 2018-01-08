@@ -1,0 +1,5 @@
+[u'stethoscope', 0.76767915, u'whistle', 0.116139, u'lab_coat', 0.042631619, u'cellular_telephone', 0.015681248, u'harmonica', 0.012952689]
+[u'binder', 0.67812192, u'lotion', 0.1188506, u'vending_machine', 0.071467936, u'sunscreen', 0.04680898, u'carton', 0.024185166]
+[u'lab_coat', 0.87037849, u'stethoscope', 0.040872812, u'groom', 0.033722047, u'Windsor_tie', 0.017222879, u'suit', 0.0067090495]
+[u'digital_clock', 0.56967986, u'hatchet', 0.074654289, u'digital_watch', 0.030554695, u'assault_rifle', 0.027316976, u'stopwatch', 0.025931235]
+[u'comic_book', 0.25133723, u'book_jacket', 0.14894859, u'cornet', 0.056241892, u'screw', 0.040514577, u'web_site', 0.032301251]

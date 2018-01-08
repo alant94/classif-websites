@@ -1,0 +1,2 @@
+[u'web_site', 0.17903771, u'oil_filter', 0.026712462, u'hand_blower', 0.02590625, u'hair_spray', 0.020411249, u'lighter', 0.018459743]
+[u'knot', 0.16082151, u'electric_guitar', 0.12733571, u'screw', 0.10621354, u"carpenter's_kit", 0.059299741, u'hook', 0.049149022]

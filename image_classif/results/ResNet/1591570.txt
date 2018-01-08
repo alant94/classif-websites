@@ -1,0 +1,6 @@
+[u'web_site', 0.17471263, u'slot', 0.14598483, u'hair_slide', 0.11262935, u'pool_table', 0.041628316, u'bow', 0.038879178]
+[u'comic_book', 0.10738733, u'slot', 0.092814118, u'cinema', 0.090428725, u'cab', 0.078764491, u'web_site', 0.070916615]
+[u'comic_book', 0.14659788, u'slot', 0.068550713, u'tobacco_shop', 0.057957444, u'book_jacket', 0.04438271, u'web_site', 0.028597169]
+[u"carpenter's_kit", 0.54125226, u'screwdriver', 0.14665699, u'hair_slide', 0.051755294, u'panpipe', 0.026539959, u'hammer', 0.019534787]
+[u'digital_clock', 0.62700152, u'web_site', 0.062122777, u'street_sign', 0.055316359, u'gas_pump', 0.054046035, u'moving_van', 0.028544053]
+[u'web_site', 0.60391146, u'slot', 0.029118096, u'hair_slide', 0.023906238, u'hamper', 0.019334344, u'analog_clock', 0.013053278]

@@ -1,0 +1,1 @@
+[u'traffic_light', 0.54456383, u'street_sign', 0.08920759, u'iPod', 0.077934638, u'digital_clock', 0.052598756, u'analog_clock', 0.020741096]

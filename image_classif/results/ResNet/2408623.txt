@@ -1,0 +1,5 @@
+[u'hook', 0.10622238, u'ladle', 0.095379435, u'whistle', 0.085983768, u'thimble', 0.074745834, u'toilet_tissue', 0.063644931]
+[u'bathing_cap', 0.42475426, u'maillot', 0.22682376, u'swimming_trunks', 0.044901878, u'balance_beam', 0.039699789, u'croquet_ball', 0.028040307]
+[u'spider_monkey', 0.44982532, u'hand_blower', 0.29789907, u'black-footed_ferret', 0.031585857, u'siamang', 0.027800484, u'flat-coated_retriever', 0.019531602]
+[u'spotlight', 0.1827637, u'hook', 0.12297822, u'loupe', 0.095050499, u'screw', 0.066777788, u'sunglass', 0.047801755]
+[u'clog', 0.12100868, u'flat-coated_retriever', 0.10864447, u'platypus', 0.044805851, u'hand_blower', 0.033577014, u'groenendael', 0.033326771]

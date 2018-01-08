@@ -1,0 +1,1 @@
+[u'switch', 0.78526056, u'digital_watch', 0.029898919, u'whistle', 0.021738676, u'lighter', 0.018367777, u'spotlight', 0.017789878]

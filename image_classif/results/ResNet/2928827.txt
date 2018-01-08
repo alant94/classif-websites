@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.20134804, u'vestment', 0.1459485, u'swab', 0.089105986, u'academic_gown', 0.073115759, u'maillot', 0.042480361]
+[u'web_site', 0.59644669, u'envelope', 0.24018963, u'book_jacket', 0.028055929, u'rule', 0.010614797, u'tray', 0.0086369645]

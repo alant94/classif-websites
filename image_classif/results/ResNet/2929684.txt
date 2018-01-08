@@ -1,0 +1,8 @@
+[u'remote_control', 0.25280073, u'golf_ball', 0.16670924, u'shield', 0.039258376, u'web_site', 0.034873445, u'Band_Aid', 0.029583387]
+[u'greenhouse', 0.61029756, u'picket_fence', 0.18863326, u'flagpole', 0.040032707, u'lakeside', 0.026458338, u'palace', 0.018566051]
+[u'stone_wall', 0.11954525, u'church', 0.11285314, u'patio', 0.094169885, u'picket_fence', 0.086937435, u'greenhouse', 0.050929047]
+[u'restaurant', 0.43916637, u'barbershop', 0.20731696, u'prison', 0.036792241, u'barber_chair', 0.029921265, u'bookshop', 0.025578666]
+[u'palace', 0.3908695, u'lakeside', 0.067859225, u'greenhouse', 0.059799835, u'mobile_home', 0.036783826, u'chainlink_fence', 0.033126064]
+[u'barber_chair', 0.32940182, u'barbershop', 0.23307931, u'patio', 0.070822492, u'window_shade', 0.061994255, u'rocking_chair', 0.047572464]
+[u'hook', 0.076969206, u'web_site', 0.071360514, u'paintbrush', 0.064711519, u'washer', 0.027409259, u'can_opener', 0.025360228]
+[u'dining_table', 0.42731005, u'patio', 0.21505891, u'greenhouse', 0.12798096, u'rocking_chair', 0.077146962, u'restaurant', 0.06420397]

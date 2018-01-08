@@ -1,0 +1,2 @@
+[u'military_uniform', 0.3186177, u'crutch', 0.1616995, u'parallel_bars', 0.1407541, u'greenhouse', 0.053478856, u'fur_coat', 0.050065834]
+[u'puck', 0.30150577, u'magnetic_compass', 0.10259157, u'buckle', 0.09518104, u'disk_brake', 0.047539167, u'wall_clock', 0.038565509]

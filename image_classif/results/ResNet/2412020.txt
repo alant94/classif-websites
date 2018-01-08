@@ -1,0 +1,4 @@
+[u'modem', 0.51933289, u'switch', 0.13145025, u'lighter', 0.07511498, u'oscilloscope', 0.040189896, u'hard_disc', 0.039832212]
+[u'modem', 0.24809919, u'radio', 0.13835467, u'hard_disc', 0.13465515, u'switch', 0.12735914, u'loudspeaker', 0.10838145]
+[u'switch', 0.71568322, u'whistle', 0.17382017, u'screwdriver', 0.043583989, u'lipstick', 0.022356581, u'lighter', 0.021593919]
+[u'modem', 0.97820228, u'switch', 0.010507266, u'oscilloscope', 0.0049812673, u'hard_disc', 0.0045982194, u'joystick', 0.00045131083]

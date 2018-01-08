@@ -1,0 +1,2 @@
+[u'punching_bag', 0.2208643, u'ski', 0.098379143, u'web_site', 0.095427744, u'oscilloscope', 0.07262212, u'scoreboard', 0.031626984]
+[u'candle', 0.6913538, u'Band_Aid', 0.15034993, u'web_site', 0.021603065, u'rule', 0.011731686, u'lipstick', 0.0076252879]

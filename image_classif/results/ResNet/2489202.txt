@@ -1,0 +1,5 @@
+[u'scoreboard', 0.23029532, u'comic_book', 0.052941356, u'crossword_puzzle', 0.050674465, u'ski', 0.048106659, u'web_site', 0.044276383]
+[u'web_site', 0.05872779, u'chain_saw', 0.057846557, u'honeycomb', 0.05309258, u'envelope', 0.050853077, u'Arabian_camel', 0.042010121]
+[u'Chihuahua', 0.12314985, u'African_hunting_dog', 0.090004615, u'Staffordshire_bullterrier', 0.084464356, u'hyena', 0.06442181, u'ox', 0.036306314]
+[u'web_site', 0.60824686, u'book_jacket', 0.097045757, u'comic_book', 0.036260325, u'envelope', 0.016684761, u'theater_curtain', 0.0095657622]
+[u'seashore', 0.24805239, u'warplane', 0.11071045, u'sandbar', 0.055875164, u'missile', 0.032263316, u'web_site', 0.030231878]

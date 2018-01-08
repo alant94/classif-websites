@@ -1,0 +1,6 @@
+[u'vacuum', 0.65680313, u'revolver', 0.12567398, u'corkscrew', 0.082138494, u'assault_rifle', 0.01977413, u'pole', 0.0138762]
+[u'revolver', 0.98368466, u'assault_rifle', 0.0070137167, u'rifle', 0.0068479651, u'holster', 0.0018213645, u'hook', 7.4968848e-05]
+[u'revolver', 0.66555631, u'corkscrew', 0.16895066, u'screw', 0.04830543, u'nail', 0.022141414, u'disk_brake', 0.011422123]
+[u'revolver', 0.51540363, u'corkscrew', 0.31545767, u'rifle', 0.064432241, u'assault_rifle', 0.032450672, u'hand_blower', 0.024160732]
+[u'ballpoint', 0.36960357, u'comic_book', 0.10984457, u'digital_clock', 0.063690647, u'bannister', 0.056508102, u'rule', 0.046989825]
+[u'revolver', 0.99982482, u'rifle', 0.00013179096, u'assault_rifle', 3.3198299e-05, u'reel', 5.0785793e-06, u'holster', 3.3172967e-06]

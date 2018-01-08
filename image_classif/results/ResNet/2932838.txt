@@ -1,0 +1,2 @@
+[u'tabby', 0.57609278, u'Egyptian_cat', 0.27446797, u'tiger_cat', 0.10622603, u'Persian_cat', 0.0039687082, u'lynx', 0.0020091969]
+[u'cinema', 0.9834584, u'barbershop', 0.0065335128, u'cash_machine', 0.0029069697, u'picket_fence', 0.0020838771, u'restaurant', 0.0018563647]

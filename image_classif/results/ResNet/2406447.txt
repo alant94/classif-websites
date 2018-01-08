@@ -1,0 +1,6 @@
+[u'beer_bottle', 0.23231162, u'corkscrew', 0.10350209, u'whistle', 0.10009319, u'fountain_pen', 0.06370756, u'oil_filter', 0.045490913]
+[u'comic_book', 0.32016799, u'book_jacket', 0.27642167, u'analog_clock', 0.074516401, u'theater_curtain', 0.058756158, u'chain_saw', 0.03450264]
+[u'ballpoint', 0.37691289, u'rubber_eraser', 0.13023575, u'paintbrush', 0.057286546, u'fountain_pen', 0.047538023, u'microphone', 0.03718131]
+[u'analog_clock', 0.40082729, u'digital_clock', 0.12773573, u'theater_curtain', 0.10434429, u'barn_spider', 0.032613095, u'book_jacket', 0.03132325]
+[u'wine_bottle', 0.13393216, u'fountain_pen', 0.08462771, u'whistle', 0.079859115, u'lipstick', 0.079179525, u'lighter', 0.078762256]
+[u'switch', 0.098043263, u'oil_filter', 0.084072605, u'screw', 0.068581291, u'combination_lock', 0.065566391, u'power_drill', 0.055778377]

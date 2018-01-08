@@ -1,0 +1,4 @@
+[u'racket', 0.99042225, u'electric_fan', 0.0016957123, u'tennis_ball', 0.0016388046, u'hand_blower', 0.00060669327, u'strainer', 0.00051989243]
+[u'can_opener', 0.048027132, u'web_site', 0.047934607, u'pay-phone', 0.031588562, u'vacuum', 0.028837942, u'bolo_tie', 0.028361207]
+[u'racket', 0.13254349, u'envelope', 0.10836274, u'wallet', 0.072910391, u'magnetic_compass', 0.042865079, u'web_site', 0.034367807]
+[u'Windsor_tie', 0.69959891, u'flagpole', 0.048151076, u'bathing_cap', 0.023304479, u'sock', 0.019059446, u'maraca', 0.017620467]

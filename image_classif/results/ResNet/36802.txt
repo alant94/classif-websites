@@ -1,0 +1,3 @@
+[u'sports_car', 0.89844608, u'racer', 0.050710794, u'convertible', 0.040066827, u'car_wheel', 0.0053920462, u'pickup', 0.0021179751]
+[u'racer', 0.53441435, u'sports_car', 0.3120501, u'car_wheel', 0.11172049, u'pickup', 0.023180429, u'tow_truck', 0.0071156402]
+[u'sports_car', 0.75774354, u'racer', 0.23164175, u'pickup', 0.0044388026, u'fire_engine', 0.0015534081, u'grille', 0.00069594057]

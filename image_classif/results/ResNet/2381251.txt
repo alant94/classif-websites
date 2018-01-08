@@ -1,0 +1,8 @@
+[u'tile_roof', 0.96509862, u'restaurant', 0.013559649, u'patio', 0.0070392233, u'dome', 0.0022356431, u'lakeside', 0.0015165512]
+[u'banded_gecko', 0.43273211, u'papillon', 0.14452459, u'bobsled', 0.034839127, u'go-kart', 0.024851574, u'stretcher', 0.024647351]
+[u'pay-phone', 0.37299493, u'medicine_chest', 0.048366357, u'dial_telephone', 0.048314195, u'whiskey_jug', 0.036283571, u'television', 0.032452751]
+[u'CD_player', 0.22931458, u'loudspeaker', 0.13858345, u'remote_control', 0.070891418, u'puck', 0.068895154, u'iPod', 0.059219908]
+[u'beer_bottle', 0.66759974, u'wine_bottle', 0.087920487, u'corkscrew', 0.026529944, u'red_wine', 0.021245319, u'pop_bottle', 0.02079206]
+[u'wine_bottle', 0.63015318, u'red_wine', 0.23766235, u'beer_bottle', 0.03195988, u'perfume', 0.011112309, u'vase', 0.011068866]
+[u'digital_clock', 0.48894155, u'Band_Aid', 0.12706785, u'digital_watch', 0.037109174, u'beaker', 0.027307326, u'analog_clock', 0.027185705]
+[u'wine_bottle', 0.48897803, u'beer_bottle', 0.33916739, u'red_wine', 0.16726238, u'pop_bottle', 0.0021045969, u'corkscrew', 0.0013296941]

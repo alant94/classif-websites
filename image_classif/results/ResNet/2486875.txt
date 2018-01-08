@@ -1,0 +1,7 @@
+[u'coffeepot', 0.11506454, u'collie', 0.081475288, u'EntleBucher', 0.068593994, u'lighter', 0.064210236, u'badger', 0.044854231]
+[u'puck', 0.18217114, u'thresher', 0.10662314, u'scale', 0.055059835, u'thimble', 0.054775994, u'wall_clock', 0.039349169]
+[u'cheetah', 0.99573934, u'leopard', 0.0038962299, u'snow_leopard', 0.00019794633, u'hyena', 7.9663005e-05, u'jaguar', 4.0212704e-05]
+[u'hartebeest', 0.59094065, u'impala', 0.096385926, u'warthog', 0.091562338, u'gazelle', 0.040811941, u'zebra', 0.01908556]
+[u'hartebeest', 0.71228313, u'impala', 0.23198445, u'gazelle', 0.054808591, u'ibex', 0.00087100256, u'ox', 2.0808458e-05]
+[u'web_site', 0.89655346, u'envelope', 0.062775813, u'menu', 0.02962951, u'rubber_eraser', 0.00099376449, u'paintbrush', 0.00076498481]
+[u'bookshop', 0.045117088, u'barrel', 0.041380174, u'street_sign', 0.029481068, u'lumbermill', 0.026670972, u'tobacco_shop', 0.025385698]

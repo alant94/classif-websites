@@ -1,0 +1,5 @@
+[u'gong', 0.65818226, u'shield', 0.12917337, u'chime', 0.064480118, u'chambered_nautilus', 0.026522292, u'snail', 0.016319368]
+[u'gong', 0.87199402, u'chime', 0.10457528, u'chiton', 0.0069659068, u'shield', 0.006467551, u'chambered_nautilus', 0.0027377997]
+[u'shield', 0.3695249, u'chiton', 0.13278319, u'spotlight', 0.068003081, u'gong', 0.038761254, u'pick', 0.0322733]
+[u'shield', 0.34953851, u'gong', 0.23205566, u'chambered_nautilus', 0.17743285, u'snail', 0.084637381, u'hair_slide', 0.069595985]
+[u'sidewinder', 0.23300757, u'chiton', 0.14447528, u'diamondback', 0.10077241, u'chambered_nautilus', 0.087379918, u'rock_python', 0.084357321]

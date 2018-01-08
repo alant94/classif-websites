@@ -1,0 +1,3 @@
+[u'maillot', 0.52194506, u'bikini', 0.34248999, u'maillot', 0.059427183, u'tub', 0.034203544, u'miniskirt', 0.01878453]
+[u'sewing_machine', 0.23910548, u'cradle', 0.11599672, u'toilet_seat', 0.07668297, u'studio_couch', 0.073061571, u'miniskirt', 0.054752015]
+[u'fountain', 0.68871188, u'bikini', 0.060204402, u'maillot', 0.047440197, u'umbrella', 0.047033414, u'window_screen', 0.042677473]

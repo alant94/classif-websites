@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.46029067, u'apron', 0.26827043, u'shower_curtain', 0.10207832, u'comic_book', 0.063144468, u'sarong', 0.031922605]
+[u'confectionery', 0.29549664, u'grocery_store', 0.22860402, u'toyshop', 0.12514275, u'stupa', 0.039794657, u'monastery', 0.029304067]
+[u'swing', 0.25094241, u'crutch', 0.12255187, u'mobile_home', 0.068714827, u'steel_drum', 0.031095777, u'mortarboard', 0.024430376]
+[u'book_jacket', 0.53269738, u'comic_book', 0.20430185, u'binder', 0.14119761, u'tray', 0.027582355, u'jersey', 0.021779709]
+[u'umbrella', 0.11888343, u'comic_book', 0.072190218, u'packet', 0.058495328, u'ashcan', 0.042159032, u'binder', 0.036640771]
+[u'jigsaw_puzzle', 0.36416703, u'pillow', 0.070683092, u'envelope', 0.043132532, u'plastic_bag', 0.030298367, u'assault_rifle', 0.022147287]
+[u'comic_book', 0.67094558, u'book_jacket', 0.20860724, u'web_site', 0.092737846, u'spotlight', 0.0018799024, u'envelope', 0.0017164185]
+[u'vending_machine', 0.1138412, u'web_site', 0.092990093, u'slot', 0.091319785, u'refrigerator', 0.090133563, u'cash_machine', 0.083413795]

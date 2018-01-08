@@ -1,0 +1,3 @@
+[u'scoreboard', 0.52530253, u'book_jacket', 0.13503474, u'street_sign', 0.071960919, u'oil_filter', 0.012965615, u'sunscreen', 0.0093349572]
+[u'corkscrew', 0.27040079, u'web_site', 0.11685125, u'loupe', 0.099646367, u'binder', 0.031307612, u'pool_table', 0.031077769]
+[u'web_site', 0.94258058, u'book_jacket', 0.025196008, u'comic_book', 0.0088328971, u'refrigerator', 0.0033448467, u'cassette', 0.0018589288]

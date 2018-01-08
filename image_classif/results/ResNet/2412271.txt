@@ -1,0 +1,1 @@
+[u'scoreboard', 0.31489909, u'street_sign', 0.25317335, u'comic_book', 0.075623691, u'mountain_bike', 0.032486517, u'web_site', 0.020818302]

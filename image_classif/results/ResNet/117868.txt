@@ -1,0 +1,5 @@
+[u'window_screen', 0.60590309, u'television', 0.065559365, u'fire_screen', 0.056342371, u'monitor', 0.040058177, u'screen', 0.023630122]
+[u'window_screen', 0.28300741, u'seashore', 0.20163363, u'valley', 0.020356381, u'jigsaw_puzzle', 0.016739642, u'lakeside', 0.016728949]
+[u'container_ship', 0.48184428, u'crane', 0.097694784, u'aircraft_carrier', 0.075227059, u'fireboat', 0.052196592, u'liner', 0.038696103]
+[u'web_site', 0.16625023, u'shield', 0.081998758, u'lighter', 0.077673152, u'digital_clock', 0.041174509, u'analog_clock', 0.034780078]
+[u'coffee_mug', 0.37310916, u'digital_clock', 0.23449416, u'digital_watch', 0.11068525, u'cup', 0.0587148, u'pitcher', 0.043663062]

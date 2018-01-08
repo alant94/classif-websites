@@ -1,0 +1,5 @@
+[u'assault_rifle', 0.80396587, u'rifle', 0.15707108, u'reel', 0.0063207354, u'snorkel', 0.0058401246, u'chain_saw', 0.0030895863]
+[u'sarong', 0.17793399, u'lab_coat', 0.069163382, u'miniskirt', 0.062882334, u'vestment', 0.061881818, u'marimba', 0.054119427]
+[u'lakeside', 0.77791584, u'seashore', 0.10016009, u'fountain', 0.057554245, u'sandbar', 0.0090234913, u'breakwater', 0.0080876024]
+[u'Persian_cat', 0.29434547, u'Great_Pyrenees', 0.1903441, u'kuvasz', 0.15966548, u'Samoyed', 0.089497782, u'groom', 0.071907587]
+[u'plate_rack', 0.37323785, u'tray', 0.19613951, u'puck', 0.10726535, u'bottlecap', 0.033602715, u'buckle', 0.026320295]

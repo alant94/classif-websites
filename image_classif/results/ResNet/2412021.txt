@@ -1,0 +1,5 @@
+[u'envelope', 0.38361436, u'web_site', 0.34850159, u'toaster', 0.050026279, u'guillotine', 0.038519826, u'hook', 0.027121445]
+[u'tractor', 0.91578478, u'plow', 0.061280131, u'thresher', 0.0048989588, u'accordion', 0.0046129422, u'harvester', 0.0037269492]
+[u'maraca', 0.91729796, u'perfume', 0.045177691, u'lotion', 0.0061933496, u'spotlight', 0.0056355605, u'table_lamp', 0.0050931745]
+[u'packet', 0.66910112, u'buckle', 0.037637781, u'chiton', 0.022530535, u'book_jacket', 0.0185361, u'hair_slide', 0.012284912]
+[u'lawn_mower', 0.6048916, u'tractor', 0.29515901, u'harvester', 0.043533299, u'forklift', 0.015042969, u'plow', 0.014198322]

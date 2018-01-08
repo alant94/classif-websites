@@ -1,0 +1,5 @@
+[u'miniskirt', 0.083396129, u'sandal', 0.069088086, u'assault_rifle', 0.047738772, u'rifle', 0.045582507, u'revolver', 0.04539426]
+[u'bathing_cap', 0.55291498, u'swimming_trunks', 0.2295031, u'snorkel', 0.082868576, u'bikini', 0.028408486, u'sunglass', 0.016944144]
+[u'swimming_trunks', 0.41387838, u'miniskirt', 0.27589971, u'bikini', 0.16385521, u'maillot', 0.036561873, u'sunscreen', 0.021806769]
+[u'television', 0.1258205, u'sleeping_bag', 0.069269583, u'Band_Aid', 0.050994277, u'shower_cap', 0.045485262, u'neck_brace', 0.03928047]
+[u'oxygen_mask', 0.87594062, u'gasmask', 0.043872152, u'fire_screen', 0.02283214, u'proboscis_monkey', 0.0076366947, u'skunk', 0.0041385479]

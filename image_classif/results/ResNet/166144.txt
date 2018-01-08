@@ -1,0 +1,1 @@
+[u'home_theater', 0.77524328, u'microwave', 0.14688168, u'digital_clock', 0.026698403, u'washbasin', 0.01493544, u'television', 0.0057269088]

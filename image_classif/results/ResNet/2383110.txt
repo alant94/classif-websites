@@ -1,0 +1,5 @@
+[u'goblet', 0.096240461, u'spatula', 0.09213791, u'wooden_spoon', 0.068359673, u'perfume', 0.05158785, u'ear', 0.03033649]
+[u'European_gallinule', 0.30069664, u'abacus', 0.18005882, u'pot', 0.037389465, u'matchstick', 0.035583101, u'macaw', 0.028137773]
+[u'web_site', 0.17611851, u'bannister', 0.077435225, u'envelope', 0.044110574, u'panpipe', 0.041405082, u'church', 0.02438223]
+[u'cocktail_shaker', 0.48803651, u'sunglass', 0.12293498, u'dumbbell', 0.029942254, u'sunglasses', 0.023829261, u'power_drill', 0.018059006]
+[u'nematode', 0.066063225, u'binder', 0.045907091, u'oboe', 0.025175015, u'candle', 0.022070492, u'pedestal', 0.02195587]

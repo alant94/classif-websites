@@ -1,0 +1,4 @@
+[u'Windsor_tie', 0.47556683, u'can_opener', 0.13331707, u'soap_dispenser', 0.13188393, u'Band_Aid', 0.024573328, u'sunscreen', 0.01999183]
+[u'jersey', 0.39460987, u'sweatshirt', 0.12366702, u'balloon', 0.033680197, u'book_jacket', 0.030399751, u'packet', 0.029473737]
+[u'wig', 0.076371022, u'stole', 0.076135516, u'fur_coat', 0.055690832, u'sweatshirt', 0.053219855, u'wool', 0.051516946]
+[u'stethoscope', 0.91842377, u'oil_filter', 0.015088479, u'electric_fan', 0.0088746287, u'loudspeaker', 0.0081351539, u'combination_lock', 0.0066877119]

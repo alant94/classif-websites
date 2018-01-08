@@ -1,0 +1,2 @@
+[u'candle', 0.30247834, u'water_bottle', 0.15980904, u'refrigerator', 0.065655746, u'altar', 0.049930781, u'medicine_chest', 0.043347403]
+[u'steel_drum', 0.36197314, u'tobacco_shop', 0.050426763, u'marimba', 0.038791131, u'Dutch_oven', 0.031753875, u'accordion', 0.030652497]

@@ -1,0 +1,2 @@
+[u'picket_fence', 0.35809281, u'patio', 0.18051532, u'mobile_home', 0.15669957, u'boathouse', 0.098100863, u'lakeside', 0.047160342]
+[u'web_site', 0.13679165, u'analog_clock', 0.087455153, u'digital_clock', 0.084204517, u'wall_clock', 0.035977796, u'can_opener', 0.030883823]

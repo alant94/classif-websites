@@ -1,0 +1,5 @@
+[u'digital_clock', 0.49505341, u'beaker', 0.079960987, u'screen', 0.068779454, u'analog_clock', 0.037403479, u'digital_watch', 0.025964348]
+[u'comic_book', 0.3600142, u'book_jacket', 0.19679272, u'swing', 0.092564367, u'web_site', 0.068159409, u'envelope', 0.044904392]
+[u'African_crocodile', 0.11771365, u'lumbermill', 0.053525954, u'armadillo', 0.034613542, u'terrapin', 0.028933471, u'shield', 0.028211711]
+[u'barrel', 0.087340675, u'hippopotamus', 0.06259802, u'stage', 0.054452736, u'lumbermill', 0.047145411, u'Irish_wolfhound', 0.045029756]
+[u'picket_fence', 0.17713648, u'book_jacket', 0.068761036, u'jersey', 0.046307895, u'scoreboard', 0.026436865, u'Band_Aid', 0.024391644]

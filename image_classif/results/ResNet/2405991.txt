@@ -1,0 +1,8 @@
+[u'envelope', 0.32354698, u'binder', 0.15162809, u'whistle', 0.12084765, u'laptop', 0.075777143, u'hook', 0.054321572]
+[u'traffic_light', 0.49195373, u'street_sign', 0.23688334, u'digital_clock', 0.034037307, u'lighter', 0.022703864, u'cab', 0.019579487]
+[u'whistle', 0.21812204, u'hair_slide', 0.16304073, u'buckle', 0.074444257, u'maraca', 0.04992982, u'drum', 0.03107314]
+[u'water_jug', 0.19642805, u'lampshade', 0.080633439, u'goblet', 0.079973213, u'quill', 0.059622701, u'coffeepot', 0.044764452]
+[u'panpipe', 0.9216944, u'coil', 0.027403813, u'marimba', 0.012721456, u'picket_fence', 0.0054517365, u'digital_watch', 0.0040146061]
+[u'envelope', 0.1298566, u'cleaver', 0.093825951, u'refrigerator', 0.048537314, u'safety_pin', 0.042507745, u'washer', 0.039268326]
+[u'digital_watch', 0.27211574, u'panpipe', 0.15927003, u'digital_clock', 0.14750312, u'analog_clock', 0.11775304, u'stopwatch', 0.052879497]
+[u'carton', 0.25494397, u'wallet', 0.15036359, u'packet', 0.11681317, u'purse', 0.068833396, u'pencil_sharpener', 0.057181142]

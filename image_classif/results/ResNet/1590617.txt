@@ -1,0 +1,3 @@
+[u'brassiere', 0.21202148, u'proboscis_monkey', 0.20859669, u'wig', 0.16012877, u'neck_brace', 0.078592554, u'lab_coat', 0.045884181]
+[u'prison', 0.12246003, u'candle', 0.042502437, u'picket_fence', 0.037487224, u'Saint_Bernard', 0.035658859, u'barrel', 0.035496354]
+[u'brassiere', 0.56342965, u'maillot', 0.095284894, u'wig', 0.074618064, u'bikini', 0.027967781, u'maillot', 0.023840657]

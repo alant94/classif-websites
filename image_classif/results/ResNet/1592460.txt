@@ -1,0 +1,5 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'binder', 0.071931742, u'otterhound', 0.069253176, u'web_site', 0.061312623, u'envelope', 0.05037817, u'jersey', 0.030836878]
+[u'swimming_trunks', 0.50369519, u'studio_couch', 0.086483121, u'diaper', 0.068817332, u'vizsla', 0.039991256, u'tub', 0.025370957]
+[u'doormat', 0.11814795, u'Band_Aid', 0.069270767, u'crutch', 0.046811759, u'butcher_shop', 0.045253046, u'sandal', 0.04084751]
+[u'swimming_trunks', 0.79086292, u'sunscreen', 0.050424311, u'bathing_cap', 0.034504026, u'maillot', 0.03251186, u'bikini', 0.018360987]

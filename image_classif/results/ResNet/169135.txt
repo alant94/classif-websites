@@ -1,0 +1,4 @@
+[u'book_jacket', 0.57194465, u'tobacco_shop', 0.13789994, u'comic_book', 0.096837804, u'packet', 0.033396617, u'slot', 0.023643611]
+[u'book_jacket', 0.50552237, u'comic_book', 0.35116869, u'wig', 0.054297071, u'web_site', 0.033126686, u'hair_spray', 0.013740722]
+[u'book_jacket', 0.20013249, u'comic_book', 0.091031492, u'ocarina', 0.050306536, u'gas_pump', 0.046135064, u'banjo', 0.04268121]
+[u'book_jacket', 0.87064236, u'comic_book', 0.07590507, u'bathing_cap', 0.013002444, u'mask', 0.0060726916, u'wig', 0.0051104384]

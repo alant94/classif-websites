@@ -1,0 +1,3 @@
+[u'lighter', 0.082133524, u'web_site', 0.073300689, u'punching_bag', 0.070466474, u'rugby_ball', 0.051027711, u'water_bottle', 0.049823649]
+[u'alp', 0.71192819, u'valley', 0.24461123, u'cliff', 0.022736209, u'lakeside', 0.0074025216, u'stupa', 0.0060503418]
+[u'medicine_chest', 0.17718667, u'digital_clock', 0.12366285, u'screen', 0.050236266, u'window_screen', 0.033572756, u'monitor', 0.032167494]

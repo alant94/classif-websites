@@ -1,0 +1,2 @@
+[u'binder', 0.74627888, u'lighter', 0.068114944, u'ashcan', 0.021740364, u'laptop', 0.019669274, u'envelope', 0.018895816]
+[u'pot', 0.75317335, u'strawberry', 0.059297856, u'cucumber', 0.029729437, u'hip', 0.013075053, u'lakeside', 0.0080685653]

@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.30671003, u'castle', 0.20634274, u'palace', 0.16066049, u'comic_book', 0.11802036, u'web_site', 0.064889252]

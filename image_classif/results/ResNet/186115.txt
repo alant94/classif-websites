@@ -1,0 +1,2 @@
+[u'slug', 0.4469803, u'snail', 0.16137348, u'buckle', 0.046093702, u'mousetrap', 0.03501698, u'book_jacket', 0.033143736]
+[u'paper_towel', 0.096732274, u'plate_rack', 0.083065666, u'switch', 0.065064393, u'nipple', 0.063420758, u'cassette', 0.040051419]

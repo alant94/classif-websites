@@ -1,0 +1,1 @@
+[u'comic_book', 0.11607031, u'pajama', 0.097189344, u'maraca', 0.058081638, u'harmonica', 0.043907195, u'theater_curtain', 0.03768032]

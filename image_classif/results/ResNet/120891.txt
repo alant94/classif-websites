@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.75791728, u'web_site', 0.20460458, u'monitor', 0.0099110156, u'hand-held_computer', 0.0077053364, u'screen', 0.0055806385]
+[u'jigsaw_puzzle', 0.1089344, u'fur_coat', 0.10855602, u'toyshop', 0.083726667, u'cardigan', 0.076688945, u'restaurant', 0.063152522]
+[u'football_helmet', 0.63501614, u'French_horn', 0.12241417, u'cornet', 0.092308648, u'trombone', 0.051177982, u'slot', 0.021055503]

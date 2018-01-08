@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.24359865, u'diaper', 0.24214986, u'bath_towel', 0.074286088, u'sunscreen', 0.050442643, u'bathtub', 0.045097914]
+[u'binder', 0.26509133, u'lighter', 0.16607957, u'oil_filter', 0.076874897, u'guillotine', 0.068549581, u'perfume', 0.03472165]
+[u'punching_bag', 0.31114259, u'maillot', 0.11914099, u'butternut_squash', 0.091281332, u'maillot', 0.056588918, u'fur_coat', 0.051963836]
+[u'microwave', 0.57678396, u'digital_clock', 0.33619839, u'television', 0.031959608, u'digital_watch', 0.0088112252, u'fire_screen', 0.0072720307]
+[u'bikini', 0.10066523, u'tub', 0.083607718, u'hair_spray', 0.07846152, u'syringe', 0.073546104, u'bath_towel', 0.047524072]
+[u'binder', 0.14489944, u'oil_filter', 0.09609253, u'file', 0.092325829, u'pool_table', 0.061391801, u'ashcan', 0.043353848]
+[u'microwave', 0.57770485, u'digital_clock', 0.26122147, u'window_screen', 0.026958846, u'digital_watch', 0.021487275, u'television', 0.017023694]
+[u'brassiere', 0.6631341, u'sunglasses', 0.059649237, u'bikini', 0.045429409, u'sunglass', 0.033903621, u'book_jacket', 0.020415187]

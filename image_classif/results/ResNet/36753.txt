@@ -1,0 +1,6 @@
+[u'web_site', 0.33273613, u'envelope', 0.2708768, u'paintbrush', 0.051626921, u'balloon', 0.019527454, u'spider_web', 0.018881235]
+[u'web_site', 0.22175212, u'menu', 0.043503977, u'cornet', 0.022368889, u'nail', 0.019972485, u'rifle', 0.019850234]
+[u'yurt', 0.33515823, u'recreational_vehicle', 0.29026476, u'mobile_home', 0.077444054, u'trolleybus', 0.039258607, u'minibus', 0.031331886]
+[u'lakeside', 0.31903535, u'church', 0.11219484, u'boathouse', 0.09783195, u'worm_fence', 0.06911099, u'mobile_home', 0.064013444]
+[u'suit', 0.072566308, u'Scottish_deerhound', 0.047719218, u'wool', 0.045507446, u'Afghan_hound', 0.045172945, u'Welsh_springer_spaniel', 0.028757423]
+[u'gar', 0.81599247, u'barracouta', 0.10032243, u'sturgeon', 0.052630272, u'coho', 0.016208382, u'tiger_shark', 0.013026409]

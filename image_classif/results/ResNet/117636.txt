@@ -1,0 +1,2 @@
+[u'throne', 0.62305862, u'shield', 0.33186847, u'mask', 0.012336561, u'fire_screen', 0.0038470549, u'mailbox', 0.0031161529]
+[u'volcano', 0.85792667, u'Arabian_camel', 0.034814622, u'cloak', 0.018836239, u'abaya', 0.013316066, u'seashore', 0.01242365]

@@ -1,0 +1,6 @@
+[u'garbage_truck', 0.12476839, u'jinrikisha', 0.11175349, u'thresher', 0.077857189, u'minivan', 0.049079195, u'limousine', 0.040837847]
+[u'lakeside', 0.49865916, u'boathouse', 0.11328516, u'geyser', 0.042138536, u'dam', 0.023517627, u'dock', 0.017190842]
+[u'tennis_ball', 0.22616719, u'book_jacket', 0.040670317, u'punching_bag', 0.039848343, u'pick', 0.039427239, u'stopwatch', 0.036428414]
+[u'harvester', 0.86116046, u'thresher', 0.050930209, u'tractor', 0.047190148, u'plow', 0.026422068, u'missile', 0.0017656633]
+[u'German_short-haired_pointer', 0.53234094, u'book_jacket', 0.098535925, u'Sussex_spaniel', 0.075412773, u'black-and-tan_coonhound', 0.035290081, u'Labrador_retriever', 0.027650662]
+[u'scabbard', 0.22788121, u'altar', 0.067172915, u'warplane', 0.05062665, u'mortarboard', 0.030403957, u'pole', 0.030174414]

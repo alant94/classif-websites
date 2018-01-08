@@ -1,0 +1,6 @@
+[u'comic_book', 0.91599578, u'gas_pump', 0.013364187, u'carton', 0.011830939, u'cash_machine', 0.0060633877, u'pay-phone', 0.0032385809]
+[u'comic_book', 0.33179542, u'picket_fence', 0.13664873, u'web_site', 0.095995329, u'rule', 0.07643567, u'matchstick', 0.03201396]
+[u'mortarboard', 0.232604, u'guillotine', 0.083071604, u'cleaver', 0.068030678, u'cuirass', 0.066345453, u'kimono', 0.05551194]
+[u'prayer_rug', 0.1425238, u'bathing_cap', 0.10533689, u'velvet', 0.092949189, u'bolo_tie', 0.067800462, u'oxygen_mask', 0.033307932]
+[u'comic_book', 0.24743859, u'guillotine', 0.11382104, u'gong', 0.077793136, u'book_jacket', 0.049178053, u'steel_drum', 0.048388567]
+[u'screwdriver', 0.11012723, u'doormat', 0.09349221, u'shovel', 0.080063887, u'cab', 0.065343373, u'mailbox', 0.062526807]

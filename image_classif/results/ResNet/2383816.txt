@@ -1,0 +1,8 @@
+[u'lycaenid', 0.23367622, u'birdhouse', 0.074813016, u'web_site', 0.0539915, u'jersey', 0.028721375, u'barn_spider', 0.023195595]
+[u'stone_wall', 0.56919545, u'worm_fence', 0.16308562, u'picket_fence', 0.032095585, u'lakeside', 0.029807443, u'greenhouse', 0.023276532]
+[u'envelope', 0.76954621, u'web_site', 0.062174514, u'hook', 0.0071456106, u'bulletproof_vest', 0.0060516307, u'dishwasher', 0.0042086113]
+[u'patio', 0.15692846, u'boathouse', 0.098926544, u'restaurant', 0.095488593, u'bell_cote', 0.062248245, u'palace', 0.058995117]
+[u'envelope', 0.83541137, u'web_site', 0.046136875, u'bulletproof_vest', 0.0048691998, u'hook', 0.0048303925, u'apron', 0.0028807924]
+[u'envelope', 0.2943857, u'iPod', 0.051785924, u'web_site', 0.047974471, u'digital_clock', 0.036369067, u'prayer_rug', 0.02762419]
+[u'envelope', 0.85689038, u'web_site', 0.031805836, u'bulletproof_vest', 0.0077909441, u'hook', 0.0047344887, u'apron', 0.0033338589]
+[u'envelope', 0.57886732, u'web_site', 0.059308633, u'hook', 0.018323543, u'digital_clock', 0.011790724, u'analog_clock', 0.011306272]

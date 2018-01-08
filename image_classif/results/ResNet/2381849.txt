@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.847709, u'red_wine', 0.11505737, u'corkscrew', 0.015271689, u'pop_bottle', 0.0089801606, u'beer_bottle', 0.0079687601]
+[u'patio', 0.35818425, u'sliding_door', 0.24252096, u'mobile_home', 0.23607212, u'pay-phone', 0.052793141, u'doormat', 0.024813406]
+[u'bubble', 0.21344176, u'pole', 0.059053104, u'beer_glass', 0.038290177, u'perfume', 0.024174428, u'pretzel', 0.021731924]
+[u'web_site', 0.48450086, u'envelope', 0.21682553, u'guillotine', 0.0084094275, u'hook', 0.0059702788, u'nematode', 0.0048735198]
+[u'lighter', 0.097221613, u'remote_control', 0.068736896, u'oil_filter', 0.048536018, u'laptop', 0.046981253, u'power_drill', 0.041374192]

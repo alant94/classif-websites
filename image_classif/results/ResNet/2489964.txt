@@ -1,0 +1,2 @@
+[u'web_site', 0.46853775, u'file', 0.052337445, u'book_jacket', 0.037965782, u'menu', 0.022823308, u'comic_book', 0.016492654]
+[u'jeep', 0.18183748, u'bulletproof_vest', 0.16316199, u'military_uniform', 0.11194587, u'totem_pole', 0.081298329, u'tank', 0.036719363]

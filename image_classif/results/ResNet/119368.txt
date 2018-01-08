@@ -1,0 +1,2 @@
+[u'digital_clock', 0.94789231, u'digital_watch', 0.048364937, u'stopwatch', 0.00079646055, u'scoreboard', 0.00055114884, u'analog_clock', 0.00049790059]
+[u'whistle', 0.15947141, u'digital_clock', 0.15695576, u'oil_filter', 0.070704266, u'web_site', 0.060281239, u'sunscreen', 0.042180527]

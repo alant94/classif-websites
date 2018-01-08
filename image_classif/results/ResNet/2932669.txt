@@ -1,0 +1,3 @@
+[u'notebook', 0.23992223, u'laptop', 0.16748257, u'web_site', 0.032369398, u'barbershop', 0.027298322, u'television', 0.021606389]
+[u'jersey', 0.16813233, u'dumbbell', 0.07658755, u'jean', 0.071410969, u'stole', 0.064893559, u'cardigan', 0.041600116]
+[u'notebook', 0.04895141, u'laptop', 0.030971128, u'racket', 0.030873608, u'tennis_ball', 0.020784764, u'crutch', 0.019977573]

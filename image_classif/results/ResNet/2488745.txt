@@ -1,0 +1,4 @@
+[u'bow_tie', 0.92781949, u'spotlight', 0.010938736, u'web_site', 0.010488556, u'sax', 0.007148243, u'suit', 0.007132669]
+[u'menu', 0.27092242, u'comic_book', 0.24348615, u'banana', 0.058646679, u'swab', 0.035210446, u'chain', 0.033662651]
+[u'web_site', 0.17183413, u'book_jacket', 0.051406641, u'comic_book', 0.039424893, u'nematode', 0.027787115, u'nail', 0.025484063]
+[u"carpenter's_kit", 0.53958178, u'street_sign', 0.090887941, u'gas_pump', 0.045641631, u'scoreboard', 0.032140948, u'book_jacket', 0.020976156]

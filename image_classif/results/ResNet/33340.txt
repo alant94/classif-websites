@@ -1,0 +1,4 @@
+[u'toyshop', 0.73928517, u'mortarboard', 0.021966498, u'shoe_shop', 0.019937031, u'feather_boa', 0.018558517, u'hair_spray', 0.013188592]
+[u'ambulance', 0.16313387, u'analog_clock', 0.068359569, u'digital_clock', 0.050304867, u'web_site', 0.048876237, u'stretcher', 0.044373024]
+[u'toyshop', 0.15369871, u'clog', 0.11199348, u'shoe_shop', 0.045241691, u'neck_brace', 0.0361269, u'sandal', 0.025660353]
+[u'jigsaw_puzzle', 0.88867062, u'dining_table', 0.037082113, u'library', 0.03277323, u'tray', 0.011230377, u'crossword_puzzle', 0.0033198106]

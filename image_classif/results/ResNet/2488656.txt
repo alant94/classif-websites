@@ -1,0 +1,4 @@
+[u'screwdriver', 0.20607117, u"carpenter's_kit", 0.084513672, u'bow', 0.065821856, u'letter_opener', 0.062770411, u'shovel', 0.055690844]
+[u'oscilloscope', 0.92227715, u'picket_fence', 0.0081464481, u'balloon', 0.007720327, u'boathouse', 0.0061603524, u'book_jacket', 0.0059585879]
+[u'puck', 0.10264075, u'face_powder', 0.084922403, u'stopwatch', 0.030189104, u'analog_clock', 0.029727247, u'book_jacket', 0.02714085]
+[u'oscilloscope', 0.54746574, u'balloon', 0.098830551, u'boathouse', 0.09470205, u'bison', 0.026935877, u'picket_fence', 0.011303187]

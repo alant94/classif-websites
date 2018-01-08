@@ -1,0 +1,5 @@
+[u'digital_clock', 0.73399091, u'perfume', 0.019577924, u'wall_clock', 0.018826783, u'digital_watch', 0.014587021, u'prayer_rug', 0.013054035]
+[u'prayer_rug', 0.22762734, u'envelope', 0.11617056, u'digital_clock', 0.084350087, u'web_site', 0.058042087, u'screen', 0.039530266]
+[u'digital_clock', 0.32927346, u'television', 0.099072099, u'screen', 0.04524944, u'monitor', 0.035705928, u'home_theater', 0.033258546]
+[u'web_site', 0.40402502, u'digital_clock', 0.24552725, u'envelope', 0.068090655, u'wall_clock', 0.023968494, u'analog_clock', 0.018087381]
+[u'digital_clock', 0.14104493, u'whistle', 0.095539123, u'Band_Aid', 0.048603244, u'washbasin', 0.042552155, u'panpipe', 0.028713077]

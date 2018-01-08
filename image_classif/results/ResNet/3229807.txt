@@ -1,0 +1,4 @@
+[u'web_site', 0.95681852, u'dishwasher', 0.011166249, u'envelope', 0.0069759553, u'scale', 0.0019639269, u'sewing_machine', 0.0014579078]
+[u'wardrobe', 0.12402495, u'shower_curtain', 0.067616947, u'web_site', 0.063578114, u'wall_clock', 0.057726867, u'refrigerator', 0.041368883]
+[u'iPod', 0.12989827, u'tray', 0.12305254, u'microwave', 0.091473147, u'toaster', 0.086092338, u'envelope', 0.051856559]
+[u'matchstick', 0.17795135, u'ballpoint', 0.16187117, u'hammer', 0.15553881, u'screwdriver', 0.084273621, u'bow', 0.06903138]

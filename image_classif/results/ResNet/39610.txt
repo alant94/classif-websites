@@ -1,0 +1,3 @@
+[u'web_site', 0.50440603, u'comic_book', 0.069711268, u'menu', 0.063076764, u'envelope', 0.033753708, u'barbershop', 0.025309306]
+[u'thresher', 0.26036108, u'tractor', 0.065117031, u'chain_saw', 0.047018118, u'cornet', 0.042297926, u'airship', 0.040565968]
+[u'web_site', 0.09706609, u'punching_bag', 0.057105601, u'swing', 0.042360917, u'bearskin', 0.023619045, u'ski', 0.021891408]

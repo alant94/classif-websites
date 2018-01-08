@@ -1,0 +1,6 @@
+[u'book_jacket', 0.82394397, u'comic_book', 0.058353066, u'fire_screen', 0.0079731913, u'traffic_light', 0.0057756426, u'scoreboard', 0.0055608391]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'barn', 0.29859537, u'rapeseed', 0.125939, u'volcano', 0.091453999, u'lakeside', 0.035333451, u'worm_fence', 0.031923383]
+[u'marimba', 0.19388624, u'drum', 0.19171897, u'ear', 0.048770681, u'grocery_store', 0.047809042, u'kimono', 0.043913607]
+[u'jersey', 0.30718488, u'book_jacket', 0.089753613, u'web_site', 0.066889212, u'corkscrew', 0.034223646, u'chime', 0.027990408]
+[u'crossword_puzzle', 0.25656739, u'menu', 0.083012171, u'book_jacket', 0.049093083, u'Band_Aid', 0.033202685, u'handkerchief', 0.029951131]

@@ -1,0 +1,2 @@
+[u'hook', 0.077206627, u'whistle', 0.074506372, u'spotlight', 0.059565146, u'web_site', 0.055753965, u'combination_lock', 0.045586742]
+[u'church', 0.11946306, u'flagpole', 0.096937612, u'scoreboard', 0.091887198, u'thatch', 0.086224638, u'moving_van', 0.055070259]

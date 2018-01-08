@@ -1,0 +1,7 @@
+[u'barn', 0.81705779, u'picket_fence', 0.08489152, u'worm_fence', 0.020044632, u'thatch', 0.015170172, u'stone_wall', 0.01137617]
+[u'parachute', 0.11808185, u'lakeside', 0.08442761, u'balloon', 0.077808179, u'hay', 0.063089237, u'wing', 0.045583256]
+[u'poncho', 0.15932211, u'picket_fence', 0.11568115, u'brassiere', 0.083376616, u'pot', 0.082208157, u'umbrella', 0.042211786]
+[u'greenhouse', 0.26049373, u'volcano', 0.15744661, u'barn', 0.13862848, u'thatch', 0.044569768, u'picket_fence', 0.03677769]
+[u'pot', 0.28527156, u'picket_fence', 0.066181667, u'birdhouse', 0.06616544, u'rain_barrel', 0.028855236, u'stone_wall', 0.027742082]
+[u'doormat', 0.36589265, u'coral_reef', 0.10716972, u'fountain', 0.075208835, u'chainlink_fence', 0.051720846, u'padlock', 0.046262316]
+[u'worm_fence', 0.48093623, u'breakwater', 0.12138398, u'chainlink_fence', 0.058535233, u'plow', 0.036770452, u'bannister', 0.028592525]

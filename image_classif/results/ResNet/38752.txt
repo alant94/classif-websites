@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.45279652, u'nail', 0.12224042, u'ballpoint', 0.059009831, u'lipstick', 0.055325598, u'screwdriver', 0.054973792]
+[u'nail', 0.24537271, u'Band_Aid', 0.067166753, u'lipstick', 0.055277903, u'web_site', 0.051619321, u'screw', 0.044534683]
+[u'washbasin', 0.12445898, u'envelope', 0.095717497, u'medicine_chest', 0.094048403, u'shower_curtain', 0.091643661, u'prayer_rug', 0.076152988]
+[u'book_jacket', 0.34020156, u'web_site', 0.084608756, u'rule', 0.061227579, u'envelope', 0.046453036, u'comic_book', 0.039399989]

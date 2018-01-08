@@ -1,0 +1,8 @@
+[u'red_wine', 0.95458525, u'wine_bottle', 0.040000379, u'hamper', 0.0014322061, u'corkscrew', 0.0010505561, u'beer_bottle', 0.00087894767]
+[u'book_jacket', 0.62345302, u'comic_book', 0.21219549, u'web_site', 0.037264381, u'street_sign', 0.010458996, u'Band_Aid', 0.0069236956]
+[u'studio_couch', 0.06451226, u'red_wine', 0.050449714, u'table_lamp', 0.046337642, u'quilt', 0.042893033, u'four-poster', 0.035335679]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'worm_fence', 0.40404233, u'lakeside', 0.18889466, u'seashore', 0.061161347, u'monastery', 0.026267026, u'castle', 0.024629576]
+[u'fountain_pen', 0.53894466, u'ballpoint', 0.41542169, u'rubber_eraser', 0.011886122, u'projectile', 0.0071816565, u'pencil_box', 0.0070442962]
+[u"potter's_wheel", 0.34712729, u'Indian_cobra', 0.19845167, u'plane', 0.055624589, u'cello', 0.04219709, u'croquet_ball', 0.015965898]
+[u'sax', 0.89203882, u'bassoon', 0.048897855, u'harp', 0.028858429, u'oboe', 0.015399428, u'trombone', 0.005929675]

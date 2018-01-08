@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.99432904, u'soap_dispenser', 0.0017686461, u'apron', 0.00039152423, u'sliding_door', 0.00037627047, u'picket_fence', 0.00027784149]
+[u'comic_book', 0.98897517, u'web_site', 0.0051649483, u'book_jacket', 0.0046871398, u'rifle', 0.00012720811, u'binoculars', 9.8931836e-05]

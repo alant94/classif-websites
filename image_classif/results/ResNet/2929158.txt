@@ -1,0 +1,5 @@
+[u'fountain', 0.93524939, u'padlock', 0.016516596, u'perfume', 0.0076840953, u'revolver', 0.0029418822, u'umbrella', 0.0026391014]
+[u'can_opener', 0.054171935, u'guillotine', 0.047855191, u'plunger', 0.03842188, u'analog_clock', 0.034267705, u'pedestal', 0.034199305]
+[u'candle', 0.27690154, u'envelope', 0.25323913, u'hourglass', 0.052265551, u'web_site', 0.035363764, u'perfume', 0.022822579]
+[u'lumbermill', 0.17083615, u'park_bench', 0.092959277, u'washbasin', 0.065966703, u'carton', 0.043855987, u'paper_towel', 0.04068182]
+[u'web_site', 0.30798194, u'digital_clock', 0.24273369, u'prayer_rug', 0.027722446, u'analog_clock', 0.024682285, u'shield', 0.015441023]

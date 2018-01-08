@@ -1,0 +1,8 @@
+[u'envelope', 0.10885832, u'web_site', 0.057296645, u'notebook', 0.036772422, u'dishwasher', 0.030874941, u'cleaver', 0.018615268]
+[u'paddlewheel', 0.24891977, u'shoe_shop', 0.23090906, u'ski', 0.085161492, u'gondola', 0.060314521, u'fireboat', 0.028915554]
+[u'crate', 0.30726865, u'carton', 0.20921913, u'oscilloscope', 0.087573804, u'binder', 0.071883492, u'radio', 0.056007538]
+[u'plate', 0.8202889, u'hotdog', 0.090351686, u'broccoli', 0.021167424, u'consomme', 0.013729971, u'tray', 0.010492113]
+[u'restaurant', 0.17526385, u'church', 0.15461421, u'altar', 0.1279231, u'confectionery', 0.064033478, u'gondola', 0.062492251]
+[u'envelope', 0.18743056, u'web_site', 0.15705511, u'notebook', 0.016004121, u'cup', 0.012029597, u'cleaver', 0.011542021]
+[u'envelope', 0.13281614, u'web_site', 0.046050619, u'dishwasher', 0.034887627, u'notebook', 0.034499332, u'cleaver', 0.020280879]
+[u'butcher_shop', 0.29009384, u'ladle', 0.17420484, u'hook', 0.10055326, u'wardrobe', 0.082252689, u'corn', 0.075704731]

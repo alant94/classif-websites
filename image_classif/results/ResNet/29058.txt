@@ -1,0 +1,4 @@
+[u'oscilloscope', 0.16458555, u'hair_spray', 0.12905322, u'Band_Aid', 0.061069909, u'digital_clock', 0.053453494, u'whistle', 0.038237665]
+[u'prison', 0.11038418, u'modem', 0.092683084, u'hard_disc', 0.079409979, u'scoreboard', 0.067126691, u'freight_car', 0.054022372]
+[u'comic_book', 0.072973594, u'screwdriver', 0.053644549, u'screw', 0.048493724, u'cornet', 0.044328038, u'nail', 0.039328307]
+[u'lotion', 0.21348423, u'candle', 0.16331139, u'pill_bottle', 0.11464832, u'perfume', 0.075900577, u'red_wine', 0.061839696]

@@ -1,0 +1,4 @@
+[u'tub', 0.36550158, u'bathtub', 0.12643002, u'bathing_cap', 0.055988979, u'refrigerator', 0.044264596, u'lab_coat', 0.034464214]
+[u'Windsor_tie', 0.072666384, u'pickelhaube', 0.063493185, u'fire_screen', 0.04968847, u'lab_coat', 0.044282667, u'Christmas_stocking', 0.043851886]
+[u'tub', 0.2741524, u'swimming_trunks', 0.13201921, u'bathtub', 0.10212244, u'refrigerator', 0.061753716, u'carton', 0.060551032]
+[u'medicine_chest', 0.7718212, u'washbasin', 0.1597704, u'soap_dispenser', 0.014611853, u'barbershop', 0.013335772, u'barber_chair', 0.0066001499]

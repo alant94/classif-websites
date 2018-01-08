@@ -1,0 +1,8 @@
+[u'corkscrew', 0.076675981, u'loupe', 0.075956076, u'milk_can', 0.062451735, u'espresso_maker', 0.05682677, u'lighter', 0.045453459]
+[u'necklace', 0.85757965, u'chain', 0.13717428, u'pick', 0.001183703, u'chain_mail', 0.00096375536, u'thimble', 0.00063747255]
+[u'necklace', 0.28053609, u'hook', 0.12849416, u'strainer', 0.10566819, u'hair_slide', 0.072240204, u'bolo_tie', 0.050366923]
+[u'envelope', 0.27030849, u'stopwatch', 0.081845328, u'diaper', 0.04857076, u'web_site', 0.047863796, u'bulletproof_vest', 0.033355888]
+[u'ear', 0.1266885, u'shower_curtain', 0.1152143, u'corn', 0.073459342, u'vault', 0.049027853, u'broom', 0.044394448]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'nematode', 0.092541054, u'sea_snake', 0.047093585, u'electric_ray', 0.03837024, u'envelope', 0.034422014, u'dugong', 0.031101944]
+[u'spaghetti_squash', 0.17169604, u'leaf_beetle', 0.11410469, u'ear', 0.10151178, u'golf_ball', 0.090243146, u'hamper', 0.055199891]

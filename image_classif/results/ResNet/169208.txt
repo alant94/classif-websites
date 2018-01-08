@@ -1,0 +1,5 @@
+[u'dock', 0.74146509, u'crane', 0.08700072, u'pier', 0.055297755, u'liner', 0.017477395, u'pirate', 0.015239025]
+[u'street_sign', 0.43044162, u'laptop', 0.11394848, u'tray', 0.1020524, u'maze', 0.081716068, u'traffic_light', 0.029440152]
+[u'digital_clock', 0.69867814, u'digital_watch', 0.067754537, u'analog_clock', 0.033975482, u'remote_control', 0.028239556, u'wall_clock', 0.018737875]
+[u'theater_curtain', 0.12683415, u'candle', 0.047357094, u'stupa', 0.03840268, u'fire_screen', 0.038301766, u'marimba', 0.027760794]
+[u'folding_chair', 0.49742317, u'digital_clock', 0.15789807, u'digital_watch', 0.025288552, u'dishwasher', 0.021728395, u'sliding_door', 0.021529049]

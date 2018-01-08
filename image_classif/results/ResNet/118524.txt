@@ -1,0 +1,4 @@
+[u'shield', 0.21264082, u'chain_saw', 0.20377748, u'face_powder', 0.069380149, u'gong', 0.062173668, u'maze', 0.046943054]
+[u'tile_roof', 0.17904533, u'throne', 0.15121667, u'palace', 0.14941904, u'birdhouse', 0.12743111, u'bell_cote', 0.052488293]
+[u'shield', 0.40322199, u'barn', 0.19257653, u'comic_book', 0.097109981, u'book_jacket', 0.062389113, u'wall_clock', 0.04281297]
+[u'buckle', 0.21026458, u'nematode', 0.055275247, u'magnetic_compass', 0.053413983, u'barometer', 0.044142142, u'bolo_tie', 0.040624443]

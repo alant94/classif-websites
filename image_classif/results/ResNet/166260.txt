@@ -1,0 +1,5 @@
+[u'freight_car', 0.14419703, u'menu', 0.10747879, u'tobacco_shop', 0.10013273, u'book_jacket', 0.073136151, u'bakery', 0.053741574]
+[u'digital_clock', 0.97544652, u'digital_watch', 0.019457191, u'analog_clock', 0.0011244544, u'stopwatch', 0.00097485265, u'wall_clock', 0.00081615197]
+[u'scoreboard', 0.32141942, u'odometer', 0.17002252, u'stopwatch', 0.12309057, u'digital_clock', 0.11781114, u'web_site', 0.038754392]
+[u'barbershop', 0.33679602, u'cinema', 0.1469443, u'digital_clock', 0.085641824, u'stage', 0.034901731, u'restaurant', 0.029215002]
+[u'book_jacket', 0.069664933, u'triceratops', 0.039872412, u'spotlight', 0.036349919, u'walking_stick', 0.030498248, u'greenhouse', 0.019203689]

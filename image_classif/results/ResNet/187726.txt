@@ -1,0 +1,6 @@
+[u'screw', 0.458978, u'prayer_rug', 0.13976815, u'analog_clock', 0.068417363, u'digital_clock', 0.034451086, u'binder', 0.028096912]
+[u'shield', 0.24764474, u'lighter', 0.19075845, u'book_jacket', 0.084326573, u'Band_Aid', 0.058265265, u'analog_clock', 0.023009047]
+[u'nematode', 0.25932822, u'web_site', 0.10322262, u'screw', 0.059915576, u'stopwatch', 0.036482327, u'remote_control', 0.034454413]
+[u'binder', 0.21561587, u'web_site', 0.17520455, u'envelope', 0.067305975, u'can_opener', 0.04298339, u'corkscrew', 0.03666015]
+[u'web_site', 0.1522955, u'nematode', 0.094221801, u'matchstick', 0.026497303, u'dishwasher', 0.025732288, u'television', 0.023885367]
+[u'shield', 0.06389761, u'analog_clock', 0.051896963, u'bell_cote', 0.046536468, u'web_site', 0.043559924, u'Band_Aid', 0.041183088]

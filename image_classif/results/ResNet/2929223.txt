@@ -1,0 +1,5 @@
+[u'theater_curtain', 0.14726374, u'book_jacket', 0.11319058, u'remote_control', 0.069355756, u'chain_saw', 0.047723025, u'iPod', 0.043281257]
+[u'book_jacket', 0.13206643, u'web_site', 0.11899493, u'street_sign', 0.10916094, u'oscilloscope', 0.060728427, u'comic_book', 0.057713158]
+[u'envelope', 0.35554734, u'web_site', 0.11496686, u'binder', 0.063777201, u'scuba_diver', 0.047588833, u'laptop', 0.030900519]
+[u'rapeseed', 0.32772502, u'barn', 0.17455614, u'worm_fence', 0.15046617, u'picket_fence', 0.059288546, u'canoe', 0.037265871]
+[u'screen', 0.083172701, u'laptop', 0.082804956, u'monitor', 0.066919379, u'cash_machine', 0.053851597, u'church', 0.051335983]

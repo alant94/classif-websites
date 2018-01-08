@@ -1,0 +1,8 @@
+[u'book_jacket', 0.21892877, u'barbershop', 0.18551967, u'comic_book', 0.11445722, u'chain_saw', 0.050590023, u'tobacco_shop', 0.040838622]
+[u'cornet', 0.35507357, u'oboe', 0.088907249, u'spotlight', 0.064794138, u'corkscrew', 0.050159667, u'gong', 0.044799052]
+[u'vault', 0.21921977, u'church', 0.1092921, u'organ', 0.090692952, u'panpipe', 0.088431336, u'mosque', 0.056058127]
+[u'analog_clock', 0.30890712, u'digital_clock', 0.042795762, u'television', 0.038163841, u'wall_clock', 0.034584705, u'web_site', 0.02992994]
+[u'screen', 0.16692896, u'monitor', 0.15045881, u'scoreboard', 0.087611154, u'analog_clock', 0.081318997, u'television', 0.051718742]
+[u'brass', 0.6078099, u'barrel', 0.096720986, u'menu', 0.089567617, u'street_sign', 0.016898355, u'ashcan', 0.016880872]
+[u'web_site', 0.16520061, u'church', 0.093399562, u'digital_clock', 0.074498788, u'picket_fence', 0.045887154, u'crossword_puzzle', 0.04506642]
+[u'tank', 0.1963799, u'horse_cart', 0.17099394, u'cannon', 0.16019014, u'plow', 0.11362551, u'tractor', 0.093691938]

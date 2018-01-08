@@ -1,0 +1,7 @@
+[u'digital_clock', 0.15552635, u'nail', 0.14130549, u'oscilloscope', 0.075208388, u'web_site', 0.069093399, u'hook', 0.061265949]
+[u'crutch', 0.51512092, u'paintbrush', 0.21570498, u'bow', 0.20521991, u'chime', 0.033976167, u'drumstick', 0.0023867269]
+[u'remote_control', 0.05972705, u'street_sign', 0.044921491, u'projector', 0.027323218, u'web_site', 0.023357717, u'pick', 0.022685207]
+[u'restaurant', 0.16912022, u'sliding_door', 0.089780919, u'turnstile', 0.074373133, u'carousel', 0.048848733, u'library', 0.036841501]
+[u'hatchet', 0.19931063, u'holster', 0.14841032, u'bulletproof_vest', 0.058915995, u'wallet', 0.046433676, u'scabbard', 0.041965898]
+[u'coffee_mug', 0.074308895, u'nematode', 0.069420598, u'cup', 0.063528769, u'web_site', 0.041547641, u'paintbrush', 0.023787782]
+[u'binder', 0.25224981, u'Band_Aid', 0.07389719, u'packet', 0.054248489, u'modem', 0.052784953, u'carton', 0.032643221]

@@ -1,0 +1,8 @@
+[u'web_site', 0.29540032, u'fountain', 0.11023666, u'bubble', 0.10706739, u'bannister', 0.059943572, u'beacon', 0.053036783]
+[u'loupe', 0.4468039, u'analog_clock', 0.2051488, u'buckle', 0.032657199, u'puck', 0.029770752, u'digital_clock', 0.026655935]
+[u'loupe', 0.20807821, u'guillotine', 0.1390681, u'remote_control', 0.083171807, u'corkscrew', 0.07412722, u'spotlight', 0.051771846]
+[u'organ', 0.6960817, u'coil', 0.10128997, u'church', 0.02333843, u'screwdriver', 0.021567501, u'traffic_light', 0.020132227]
+[u'gazelle', 0.27238014, u'hare', 0.22510089, u'ibex', 0.14087057, u'hartebeest', 0.071125247, u'impala', 0.053590398]
+[u'patio', 0.3194882, u'mobile_home', 0.20485049, u'greenhouse', 0.092650108, u'thatch', 0.062495302, u'lakeside', 0.052619241]
+[u'cougar', 0.31304333, u'wallaby', 0.15949823, u'hartebeest', 0.14544919, u'Weimaraner', 0.12906021, u'ibex', 0.12556286]
+[u'loupe', 0.29123035, u'hook', 0.17514838, u'loudspeaker', 0.092079818, u'cassette', 0.069384366, u'corkscrew', 0.052482769]

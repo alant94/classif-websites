@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.14329238, u'Windsor_tie', 0.11465944, u'bow_tie', 0.039838396, u'oxygen_mask', 0.034781367, u'harmonica', 0.025028318]

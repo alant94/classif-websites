@@ -1,0 +1,2 @@
+[u'hourglass', 0.26755077, u'buckle', 0.10797767, u'tiger_beetle', 0.091150746, u'guillotine', 0.066478468, u'assault_rifle', 0.031685684]
+[u'hook', 0.31636101, u'can_opener', 0.22860612, u'coffeepot', 0.10750695, u'hair_slide', 0.075200252, u'knot', 0.027514599]

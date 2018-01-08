@@ -1,0 +1,2 @@
+[u'gasmask', 0.16495527, u'waffle_iron', 0.15081152, u'bulletproof_vest', 0.09930516, u'bonnet', 0.054832522, u'pickelhaube', 0.043085504]
+[u'church', 0.93032825, u'monastery', 0.031170281, u'castle', 0.016842758, u'bell_cote', 0.0098529216, u'barn', 0.0058084298]

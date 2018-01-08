@@ -1,0 +1,1 @@
+[u'suit', 0.23523495, u'jean', 0.14347678, u'groom', 0.092568383, u'bow_tie', 0.071442939, u'military_uniform', 0.070209935]

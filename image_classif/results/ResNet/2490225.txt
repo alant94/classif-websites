@@ -1,0 +1,5 @@
+[u'gazelle', 0.629143, u'impala', 0.35837847, u'hartebeest', 0.011457758, u'Arabian_camel', 0.00038301802, u'ibex', 0.00015863088]
+[u'ox', 0.51737368, u'oxcart', 0.10065123, u'water_buffalo', 0.082484663, u'hartebeest', 0.079751022, u'ibex', 0.040761903]
+[u'English_setter', 0.93715894, u'English_foxhound', 0.023792513, u'Great_Dane', 0.0067844233, u'dalmatian', 0.0040467931, u'English_springer', 0.003159473]
+[u'zebra', 0.9837907, u'skunk', 0.0042345994, u'prairie_chicken', 0.0011327767, u'whiptail', 0.00060577452, u'polecat', 0.00036448712]
+[u'cheetah', 0.87555897, u'quail', 0.052743472, u'prairie_chicken', 0.050316129, u'partridge', 0.0081695402, u'leopard', 0.0057353787]

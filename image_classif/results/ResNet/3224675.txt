@@ -1,0 +1,4 @@
+[u'scoreboard', 0.1092333, u'book_jacket', 0.071767069, u'whistle', 0.06421461, u'crossword_puzzle', 0.042573821, u'web_site', 0.031002929]
+[u'folding_chair', 0.49742317, u'digital_clock', 0.15789807, u'digital_watch', 0.025288552, u'dishwasher', 0.021728395, u'sliding_door', 0.021529049]
+[u'laptop', 0.2528263, u'binder', 0.10139798, u'web_site', 0.085779302, u'envelope', 0.075164683, u'traffic_light', 0.072467662]
+[u'ambulance', 0.10695547, u'binder', 0.054215398, u'stretcher', 0.052523088, u'medicine_chest', 0.046699636, u'prayer_rug', 0.041799549]

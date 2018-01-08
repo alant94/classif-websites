@@ -1,0 +1,1 @@
+[u'chain_saw', 0.20787448, u'can_opener', 0.15127213, u'stopwatch', 0.076127768, u'magnetic_compass', 0.05726834, u'spotlight', 0.055651557]

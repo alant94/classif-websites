@@ -1,0 +1,5 @@
+[u'envelope', 0.10923325, u'laptop', 0.091979675, u'jersey', 0.066911153, u'web_site', 0.061878126, u'digital_clock', 0.036389612]
+[u'Band_Aid', 0.61251789, u'web_site', 0.24863617, u'cash_machine', 0.019978963, u'hand-held_computer', 0.018006369, u'packet', 0.01289523]
+[u'web_site', 0.72987741, u'notebook', 0.10060994, u'hand-held_computer', 0.05512749, u'laptop', 0.050945755, u'desktop_computer', 0.0086731473]
+[u'pedestal', 0.37661132, u'triumphal_arch', 0.17823467, u'bell_cote', 0.054834601, u'obelisk', 0.021786043, u'crate', 0.021040939]
+[u'digital_clock', 0.18191701, u'street_sign', 0.09861441, u'analog_clock', 0.087733895, u'digital_watch', 0.053836577, u'toaster', 0.044328663]

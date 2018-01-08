@@ -1,0 +1,3 @@
+[u'digital_clock', 0.34382391, u'digital_watch', 0.18812221, u'lighter', 0.099991977, u'analog_clock', 0.025434006, u'whistle', 0.023841541]
+[u'valley', 0.46672681, u'cliff', 0.041692518, u'alp', 0.029741336, u'sleeping_bag', 0.026897708, u'mountain_tent', 0.021892857]
+[u'sunscreen', 0.96181023, u'ambulance', 0.0046646339, u'lotion', 0.0040280703, u'digital_clock', 0.0035225851, u'beer_glass', 0.0023597497]

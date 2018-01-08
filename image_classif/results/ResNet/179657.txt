@@ -1,0 +1,1 @@
+[u'container_ship', 0.29864293, u'jigsaw_puzzle', 0.13450971, u'tobacco_shop', 0.062685467, u'quilt', 0.060959622, u'crossword_puzzle', 0.044007655]

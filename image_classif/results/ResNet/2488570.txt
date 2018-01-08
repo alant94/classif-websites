@@ -1,0 +1,4 @@
+[u'black_grouse', 0.30680576, u'ruffed_grouse', 0.23741484, u'prairie_chicken', 0.12018055, u'barn_spider', 0.081537172, u'partridge', 0.042960148]
+[u'lotion', 0.06764295, u'lighter', 0.067481905, u'coffee_mug', 0.051112682, u'hair_spray', 0.043630172, u'sunscreen', 0.03853387]
+[u'fountain', 0.33443698, u'thatch', 0.29011229, u'patio', 0.041718654, u'restaurant', 0.035891213, u'chainlink_fence', 0.0323928]
+[u'analog_clock', 0.83545041, u'stopwatch', 0.062500685, u'wall_clock', 0.040563025, u'digital_clock', 0.012585328, u'magnetic_compass', 0.0086346082]

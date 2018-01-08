@@ -1,0 +1,3 @@
+[u'vestment', 0.1493731, u'kimono', 0.065704644, u'lab_coat', 0.049309626, u'picket_fence', 0.047232646, u'sarong', 0.03231563]
+[u'book_jacket', 0.50569189, u'Band_Aid', 0.11846995, u'screwdriver', 0.077423371, u'packet', 0.022052541, u'shovel', 0.016601948]
+[u'lakeside', 0.43320355, u'seashore', 0.086387411, u'dock', 0.067685604, u'steel_arch_bridge', 0.035540443, u'boathouse', 0.020513261]

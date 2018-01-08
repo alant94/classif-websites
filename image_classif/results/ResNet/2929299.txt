@@ -1,0 +1,5 @@
+[u'picket_fence', 0.20783605, u'cleaver', 0.04786928, u'jean', 0.046359941, u'butcher_shop', 0.040829055, u'sarong', 0.038379516]
+[u'hair_slide', 0.20904912, u'whistle', 0.09872587, u'panpipe', 0.064591765, u'bubble', 0.061474808, u'hair_spray', 0.053759422]
+[u'sarong', 0.11778066, u'steel_drum', 0.11480341, u'marimba', 0.11128736, u'restaurant', 0.064376928, u'crutch', 0.051838044]
+[u'digital_clock', 0.44753104, u'web_site', 0.12894389, u'analog_clock', 0.044126552, u'digital_watch', 0.026636356, u'traffic_light', 0.020096986]
+[u'stole', 0.14442427, u'miniskirt', 0.037557568, u'poncho', 0.026263539, u'pajama', 0.025771627, u"potter's_wheel", 0.023994299]

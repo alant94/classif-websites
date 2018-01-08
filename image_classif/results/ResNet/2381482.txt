@@ -1,0 +1,1 @@
+[u'ballplayer', 0.1109971, u'jersey', 0.063421756, u'coffee_mug', 0.047899783, u'football_helmet', 0.040612221, u'bottlecap', 0.03510429]

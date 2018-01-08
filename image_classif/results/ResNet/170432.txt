@@ -1,0 +1,6 @@
+[u'medicine_chest', 0.40880194, u'switch', 0.12284882, u'hook', 0.034777205, u'oxygen_mask', 0.02601981, u'beaker', 0.023279874]
+[u'medicine_chest', 0.18966876, u'binder', 0.093891814, u'lighter', 0.074675366, u'prayer_rug', 0.072706424, u'church', 0.04276555]
+[u'iPod', 0.21390501, u'analog_clock', 0.10032786, u'envelope', 0.069652393, u'digital_clock', 0.067640141, u'web_site', 0.059420325]
+[u'screwdriver', 0.16171044, u'cinema', 0.16076048, u'digital_watch', 0.090675265, u'pencil_sharpener', 0.074427284, u'picket_fence', 0.065641269]
+[u'vacuum', 0.13303156, u'web_site', 0.046264056, u'screwdriver', 0.042415641, u'wardrobe', 0.038235743, u'projectile', 0.036567096]
+[u'book_jacket', 0.40338859, u'barbershop', 0.26113167, u'hair_spray', 0.04559204, u'grille', 0.037863765, u'comic_book', 0.030221241]

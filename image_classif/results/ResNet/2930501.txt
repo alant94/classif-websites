@@ -1,0 +1,3 @@
+[u'candle', 0.51369709, u'web_site', 0.068608791, u'torch', 0.047330175, u'sunscreen', 0.036472514, u'book_jacket', 0.026296623]
+[u'web_site', 0.35431197, u'envelope', 0.11832281, u'analog_clock', 0.060552165, u'digital_clock', 0.054735474, u'Band_Aid', 0.014738627]
+[u'web_site', 0.38134542, u'envelope', 0.087712079, u'digital_clock', 0.023152687, u'analog_clock', 0.018309921, u'hook', 0.014937468]

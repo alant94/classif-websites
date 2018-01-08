@@ -1,0 +1,6 @@
+[u'bow_tie', 0.13875638, u'Windsor_tie', 0.12834336, u'neck_brace', 0.10564911, u'television', 0.06016342, u'web_site', 0.056490578]
+[u'pencil_sharpener', 0.236876, u'reel', 0.22676426, u'car_wheel', 0.17334153, u'projector', 0.11508787, u'disk_brake', 0.061744906]
+[u'web_site', 0.099461965, u'envelope', 0.076177597, u'dishwasher', 0.043561999, u'cleaver', 0.01817413, u'can_opener', 0.015217285]
+[u'book_jacket', 0.47025827, u'comic_book', 0.2644769, u'web_site', 0.033115085, u'rifle', 0.018149575, u'cornet', 0.0096397549]
+[u'perfume', 0.16262938, u'fountain', 0.15961073, u'book_jacket', 0.058260456, u'cash_machine', 0.05166338, u'barbershop', 0.045345388]
+[u'web_site', 0.099461965, u'envelope', 0.076177597, u'dishwasher', 0.043561999, u'cleaver', 0.01817413, u'can_opener', 0.015217285]

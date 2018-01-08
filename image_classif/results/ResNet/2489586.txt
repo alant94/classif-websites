@@ -1,0 +1,2 @@
+[u'Arabian_camel', 0.29643944, u'llama', 0.2599414, u'dogsled', 0.08784236, u'horse_cart', 0.052851211, u'plow', 0.045078304]
+[u'book_jacket', 0.12083239, u'web_site', 0.077602647, u'street_sign', 0.03664485, u'sunscreen', 0.024979252, u'analog_clock', 0.024469703]

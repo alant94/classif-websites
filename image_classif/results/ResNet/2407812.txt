@@ -1,0 +1,6 @@
+[u'toilet_seat', 0.24408279, u'paper_towel', 0.14135849, u'soap_dispenser', 0.07810086, u'shower_curtain', 0.073806293, u'washbasin', 0.064655185]
+[u'sandal', 0.9877165, u'clog', 0.011639264, u'buckle', 0.00037724597, u'Loafer', 0.00011248749, u'shoe_shop', 7.5340045e-05]
+[u'fire_screen', 0.19760112, u'studio_couch', 0.18986991, u'cradle', 0.061231196, u'hair_slide', 0.048798729, u'four-poster', 0.042439222]
+[u'sandal', 0.76758873, u'Loafer', 0.12745957, u'clog', 0.09092173, u'plane', 0.0069454731, u'buckle', 0.0028234967]
+[u'clog', 0.35836229, u'Loafer', 0.18336323, u'buckle', 0.1242616, u'sandal', 0.10164507, u'hair_slide', 0.071485482]
+[u'sandal', 0.62570596, u'clog', 0.32833287, u'Loafer', 0.016217122, u'shoe_shop', 0.0074114115, u'plane', 0.0050288965]

@@ -1,0 +1,1 @@
+[u'kite', 0.90403277, u'redshank', 0.040319238, u'spoonbill', 0.0099078482, u'house_finch', 0.0050494764, u'quail', 0.0038533895]

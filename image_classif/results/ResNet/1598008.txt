@@ -1,0 +1,6 @@
+[u'swimming_trunks', 0.84607059, u'diaper', 0.028001966, u'bath_towel', 0.016187526, u'dumbbell', 0.0097814463, u'gasmask', 0.0091407252]
+[u"potter's_wheel", 0.5693931, u'Band_Aid', 0.16104688, u'dugong', 0.022857865, u'thimble', 0.021494756, u'punching_bag', 0.019542085]
+[u'skunk', 0.19254677, u'axolotl', 0.13369857, u"potter's_wheel", 0.05914066, u'alligator_lizard', 0.048196938, u'mortar', 0.027078077]
+[u'carton', 0.61816108, u'safe', 0.15156305, u'binder', 0.025905393, u'monitor', 0.01525249, u'envelope', 0.012084777]
+[u'soap_dispenser', 0.1062908, u'washbasin', 0.052018389, u'paper_towel', 0.041480705, u'toilet_seat', 0.032381609, u'Siberian_husky', 0.030276557]
+[u'axolotl', 0.09941408, u'nipple', 0.038948808, u'plunger', 0.035084479, u'flute', 0.031822793, u'Band_Aid', 0.027994068]

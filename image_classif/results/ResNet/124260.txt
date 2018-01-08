@@ -1,0 +1,5 @@
+[u'street_sign', 0.16770631, u'school_bus', 0.16610757, u'tobacco_shop', 0.15686814, u'web_site', 0.055308498, u'moving_van', 0.050845686]
+[u'toyshop', 0.44634387, u'carousel', 0.060738578, u'balloon', 0.053273514, u'jigsaw_puzzle', 0.049328383, u'quilt', 0.040939737]
+[u'comic_book', 0.84049278, u'ski_mask', 0.015307496, u'book_jacket', 0.013318104, u'Arabian_camel', 0.011019415, u'sweatshirt', 0.0050034681]
+[u'laptop', 0.061195582, u'comic_book', 0.058628932, u'tray', 0.057236452, u'rifle', 0.046638601, u'bubble', 0.032778885]
+[u'plate_rack', 0.62989396, u'barrel', 0.094136246, u'can_opener', 0.077540703, u'binder', 0.025393998, u'water_jug', 0.019387264]

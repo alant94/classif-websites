@@ -1,0 +1,6 @@
+[u'ballpoint', 0.81616217, u'crossword_puzzle', 0.15885299, u'whistle', 0.0063451449, u'rubber_eraser', 0.0039755744, u'screwdriver', 0.0036261037]
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]
+[u'digital_clock', 0.75639594, u'digital_watch', 0.1248129, u'screen', 0.048429444, u'scoreboard', 0.030765079, u'analog_clock', 0.0092136236]
+[u'crossword_puzzle', 0.64083099, u'web_site', 0.25535557, u'scoreboard', 0.047416024, u'monitor', 0.021116639, u'screen', 0.011162251]
+[u'crossword_puzzle', 0.52745336, u'web_site', 0.095101185, u'digital_clock', 0.039194554, u'book_jacket', 0.029424975, u'scoreboard', 0.020069564]
+[u'Band_Aid', 0.57848549, u'doormat', 0.060852777, u'prayer_rug', 0.045425877, u'Christmas_stocking', 0.01934777, u'papillon', 0.018394349]

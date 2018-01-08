@@ -1,0 +1,3 @@
+[u'web_site', 0.62129056, u'analog_clock', 0.16203825, u'envelope', 0.020119479, u'binder', 0.018613821, u'ski', 0.017562961]
+[u'television', 0.51279581, u'cash_machine', 0.24024653, u'slot', 0.11162118, u'screen', 0.073865801, u'monitor', 0.035059042]
+[u'street_sign', 0.065962225, u'perfume', 0.054191563, u'Band_Aid', 0.050881978, u'digital_clock', 0.037605762, u'dumbbell', 0.034281768]

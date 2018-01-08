@@ -1,0 +1,8 @@
+[u'comic_book', 0.72368968, u'jigsaw_puzzle', 0.051361371, u'book_jacket', 0.035282247, u'pencil_box', 0.034054928, u'pillow', 0.018395266]
+[u'digital_clock', 0.17730208, u'nematode', 0.11896995, u'stopwatch', 0.086055189, u'web_site', 0.070611328, u'pick', 0.039131742]
+[u'electric_guitar', 0.33841214, u'American_alligator', 0.14123432, u'stage', 0.091910906, u'sax', 0.064058371, u'acoustic_guitar', 0.030344021]
+[u'book_jacket', 0.36250708, u'barn', 0.1936122, u'fountain', 0.094926238, u'ox', 0.038467772, u'paintbrush', 0.03516284]
+[u'screwdriver', 0.069536969, u'theater_curtain', 0.068917833, u'cleaver', 0.044465709, u'digital_clock', 0.04173971, u'screw', 0.034787189]
+[u'barn', 0.16427888, u'book_jacket', 0.15274845, u'web_site', 0.075576857, u'street_sign', 0.047958665, u'prayer_rug', 0.037128408]
+[u'sax', 0.28011358, u'microphone', 0.23667379, u'stage', 0.11252113, u'electric_guitar', 0.064393565, u'banjo', 0.038316447]
+[u'pay-phone', 0.77254719, u'dial_telephone', 0.17992288, u'whistle', 0.0080341306, u'harmonica', 0.0065691588, u'reflex_camera', 0.0043100375]

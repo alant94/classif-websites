@@ -1,0 +1,2 @@
+[u'web_site', 0.57332826, u'carton', 0.058065183, u'book_jacket', 0.047105003, u'scoreboard', 0.034110989, u'packet', 0.023737023]
+[u'digital_clock', 0.58510721, u'web_site', 0.065040059, u'stopwatch', 0.052561007, u'analog_clock', 0.049772445, u'digital_watch', 0.048540015]

@@ -1,0 +1,2 @@
+[u'digital_clock', 0.39588273, u'street_sign', 0.10015833, u'traffic_light', 0.093752451, u'oscilloscope', 0.088175312, u'iPod', 0.033074763]
+[u'lighter', 0.2012371, u'shield', 0.10353884, u'folding_chair', 0.060033165, u'analog_clock', 0.039559346, u'pill_bottle', 0.037077516]

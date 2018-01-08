@@ -1,0 +1,8 @@
+[u'bison', 0.33701357, u'warthog', 0.24790764, u'zebra', 0.054006878, u'hyena', 0.03843499, u'wild_boar', 0.037030451]
+[u'lakeside', 0.6366064, u'boathouse', 0.066668548, u'yurt', 0.029797204, u'alp', 0.02672961, u'recreational_vehicle', 0.021821398]
+[u'ibex', 0.47197357, u'hartebeest', 0.14325592, u'book_jacket', 0.092304133, u'web_site', 0.092164807, u'tusker', 0.01971999]
+[u'American_black_bear', 0.37711045, u'tusker', 0.26348782, u'brown_bear', 0.17041378, u'bison', 0.069120832, u'Indian_elephant', 0.063300185]
+[u'lakeside', 0.38014886, u'fountain', 0.1932022, u'boathouse', 0.10874489, u'canoe', 0.042078461, u'speedboat', 0.020514544]
+[u'coral_fungus', 0.51372361, u'hog', 0.065475807, u'conch', 0.04243366, u'bolete', 0.025839848, u'chain_saw', 0.022390438]
+[u'ibex', 0.700719, u'gazelle', 0.097841181, u'ice_bear', 0.042234022, u'bighorn', 0.039731119, u'bison', 0.026036307]
+[u'recreational_vehicle', 0.1432409, u'alp', 0.14117719, u'paddle', 0.088369854, u'canoe', 0.059604384, u'viaduct', 0.037536059]

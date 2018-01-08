@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.18485145, u'coral_fungus', 0.08240357, u'maze', 0.039053548, u'coral_reef', 0.038160007, u'comic_book', 0.037539043]
+[u'television', 0.099841408, u'lab_coat', 0.08861015, u'handkerchief', 0.080042981, u'jigsaw_puzzle', 0.074375138, u'altar', 0.050598945]
+[u'football_helmet', 0.99050307, u'crash_helmet', 0.0011054924, u'ballplayer', 0.00094628229, u'go-kart', 0.00070754747, u'basketball', 0.00057492219]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

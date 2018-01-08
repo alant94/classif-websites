@@ -1,0 +1,3 @@
+[u'sliding_door', 0.4315649, u'home_theater', 0.040557448, u'window_shade', 0.03964103, u'studio_couch', 0.039636947, u'grand_piano', 0.027888127]
+[u'library', 0.47375348, u'planetarium', 0.18436152, u'cinema', 0.18149009, u'solar_dish', 0.050585248, u'prison', 0.019815776]
+[u'cinema', 0.26978323, u'gas_pump', 0.15097933, u'picket_fence', 0.05418146, u'fountain', 0.035396803, u'restaurant', 0.033541251]

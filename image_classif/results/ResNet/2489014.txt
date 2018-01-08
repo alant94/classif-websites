@@ -1,0 +1,6 @@
+[u'leopard', 0.60607952, u'jaguar', 0.24101464, u'cheetah', 0.082710557, u'snow_leopard', 0.051723961, u'tiger_cat', 0.0054051508]
+[u'lighter', 0.24604277, u'buckle', 0.13674729, u'shield', 0.10738116, u'bolo_tie', 0.052444063, u'tray', 0.032014936]
+[u'hartebeest', 0.67454922, u'warthog', 0.19437006, u'gazelle', 0.061767049, u'impala', 0.042091791, u'ibex', 0.015475568]
+[u'lakeside', 0.15425992, u'parallel_bars', 0.092440657, u'worm_fence', 0.063942038, u'convertible', 0.047574911, u'promontory', 0.042070527]
+[u'leopard', 0.8535403, u'jaguar', 0.082692109, u'cheetah', 0.063353643, u'snow_leopard', 0.00030967576, u'lion', 7.4350326e-05]
+[u'crane', 0.17385928, u'Great_Dane', 0.14791638, u'whippet', 0.11357615, u'pelican', 0.074381568, u'dalmatian', 0.073807932]

@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.12827519, u'lighter', 0.097588383, u'scale', 0.073005468, u'beaker', 0.062764667, u'shield', 0.053415969]
+[u'chambered_nautilus', 0.40356058, u'hen-of-the-woods', 0.28156793, u'mushroom', 0.14638008, u'brain_coral', 0.030160921, u'nematode', 0.018291168]
+[u'Band_Aid', 0.29597712, u'digital_watch', 0.088519871, u'digital_clock', 0.086789772, u'pill_bottle', 0.083011091, u'folding_chair', 0.056225993]
+[u'book_jacket', 0.24736458, u'comic_book', 0.17278023, u'wardrobe', 0.14602754, u'throne', 0.066623032, u'tobacco_shop', 0.060103517]

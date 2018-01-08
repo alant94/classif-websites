@@ -1,0 +1,7 @@
+[u'harp', 0.55583262, u'crutch', 0.090638585, u'kimono', 0.051253356, u'gown', 0.033191293, u'library', 0.023146201]
+[u'web_site', 0.064322755, u'envelope', 0.0639266, u'nematode', 0.045862749, u'bolo_tie', 0.044360653, u'whistle', 0.040129576]
+[u'cowboy_boot', 0.21689337, u'pole', 0.10029431, u'knot', 0.06922251, u'sandal', 0.050526701, u'miniskirt', 0.047894761]
+[u'sandal', 0.12898181, u'electric_guitar', 0.11424279, u'pencil_sharpener', 0.088240504, u'acoustic_guitar', 0.088087484, u'running_shoe', 0.048195694]
+[u'dock', 0.18685837, u'gondola', 0.093628936, u'flagpole', 0.081047952, u'pier', 0.076853894, u'palace', 0.066674776]
+[u'maze', 0.21290602, u'tray', 0.11042291, u'street_sign', 0.085890897, u'sunscreen', 0.043551449, u'prayer_rug', 0.042825308]
+[u'prayer_rug', 0.20642267, u'shield', 0.19908407, u'cash_machine', 0.043453261, u'ambulance', 0.034697574, u'street_sign', 0.032187816]

@@ -1,0 +1,6 @@
+[u'diamondback', 0.72330379, u'rock_python', 0.074782878, u'boa_constrictor', 0.057925284, u'hognose_snake', 0.04265818, u'water_snake', 0.017029205]
+[u'altar', 0.58426082, u'vestment', 0.31717184, u'throne', 0.067981906, u'doormat', 0.0032919077, u'upright', 0.0028449474]
+[u'steel_drum', 0.3439599, u'shower_cap', 0.26816991, u'chain_mail', 0.053771548, u'drum', 0.04547514, u'banjo', 0.02089951]
+[u'church', 0.97356129, u'barn', 0.0089480542, u'bell_cote', 0.0072251088, u'monastery', 0.0027788784, u'beacon', 0.0022573213]
+[u'crate', 0.58954692, u'maze', 0.17407058, u'balance_beam', 0.10710349, u'apiary', 0.020336663, u'carton', 0.016669653]
+[u'ambulance', 0.60165447, u'lifeboat', 0.058449898, u'king_crab', 0.045211572, u'kimono', 0.044794921, u'torch', 0.028869197]

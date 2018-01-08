@@ -1,0 +1,4 @@
+[u'web_site', 0.48995697, u'comic_book', 0.03865397, u'rule', 0.037783839, u'analog_clock', 0.029327132, u'hair_spray', 0.020001752]
+[u'flagpole', 0.54409474, u'mosque', 0.10537332, u'pole', 0.07406003, u'planetarium', 0.066436574, u'cinema', 0.042252172]
+[u'web_site', 0.23421615, u'digital_clock', 0.060021803, u'stopwatch', 0.028169159, u'digital_watch', 0.017586056, u'television', 0.015117142]
+[u'book_jacket', 0.50218487, u'comic_book', 0.18764633, u'web_site', 0.047339611, u'nail', 0.026220009, u'lab_coat', 0.012740743]

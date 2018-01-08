@@ -1,0 +1,8 @@
+[u'mortarboard', 0.11222898, u"potter's_wheel", 0.082249075, u'prison', 0.047324032, u'thimble', 0.03898849, u'loupe', 0.037909299]
+[u'oxygen_mask', 0.30156717, u'Chihuahua', 0.14152525, u'gibbon', 0.08860521, u"potter's_wheel", 0.040347409, u'Blenheim_spaniel', 0.031585209]
+[u'Band_Aid', 0.29436293, u'brassiere', 0.148946, u'whistle', 0.087299868, u'lotion', 0.080089085, u'nipple', 0.036261629]
+[u'butternut_squash', 0.2311042, u'gong', 0.065481141, u'lotion', 0.057658941, u"potter's_wheel", 0.042389896, u'paper_towel', 0.040228676]
+[u'binder', 0.25032565, u'lighter', 0.24015774, u'guillotine', 0.075471468, u'beaker', 0.049850449, u'perfume', 0.038144868]
+[u'scoreboard', 0.39554715, u'digital_watch', 0.20790307, u'digital_clock', 0.12277131, u'crossword_puzzle', 0.076917462, u'picket_fence', 0.044391267]
+[u'bikini', 0.26004514, u'maillot', 0.17481998, u'sunglasses', 0.15833196, u'maillot', 0.13855021, u'sunglass', 0.085670412]
+[u'scoreboard', 0.48811525, u'digital_watch', 0.17732225, u'digital_clock', 0.13417615, u'book_jacket', 0.027218858, u'stopwatch', 0.020776961]

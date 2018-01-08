@@ -1,0 +1,4 @@
+[u'groom', 0.6654377, u'suit', 0.20688882, u'gown', 0.037370004, u'Windsor_tie', 0.016538806, u'notebook', 0.014361629]
+[u'hair_slide', 0.13534158, u'necklace', 0.10996333, u'pencil_sharpener', 0.10446465, u'can_opener', 0.088809475, u'chain', 0.055274576]
+[u'wooden_spoon', 0.37415215, u'totem_pole', 0.2525686, u'pelican', 0.16295877, u'spatula', 0.011774146, u'sandal', 0.010876711]
+[u'television', 0.35867608, u'cellular_telephone', 0.34146637, u'iPod', 0.068184398, u'screen', 0.054538514, u'cash_machine', 0.030686988]

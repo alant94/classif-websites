@@ -1,0 +1,2 @@
+[u'perfume', 0.09787681, u'ashcan', 0.088386387, u'lotion', 0.083333336, u'binder', 0.065014049, u'book_jacket', 0.059770044]
+[u'web_site', 0.27203315, u'envelope', 0.18085274, u'cleaver', 0.0271722, u'hook', 0.013727659, u'dishwasher', 0.013502908]

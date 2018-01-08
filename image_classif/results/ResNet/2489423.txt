@@ -1,0 +1,1 @@
+[u'water_buffalo', 0.89515573, u'ox', 0.014745347, u'Indian_elephant', 0.0095787616, u'warthog', 0.0084215412, u'triceratops', 0.0065380721]

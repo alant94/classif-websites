@@ -1,0 +1,1 @@
+[u'worm_fence', 0.3370153, u'Arabian_camel', 0.23985322, u'hartebeest', 0.098136827, u'sorrel', 0.093133382, u'llama', 0.035546534]

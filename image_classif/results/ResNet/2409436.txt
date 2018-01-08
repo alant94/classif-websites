@@ -1,0 +1,4 @@
+[u'spatula', 0.16770215, u'bakery', 0.11473993, u'waffle_iron', 0.099913642, u'notebook', 0.0691652, u'rotisserie', 0.057662379]
+[u'book_jacket', 0.46256444, u'barbershop', 0.19881146, u'comic_book', 0.17645209, u'tobacco_shop', 0.049677368, u'sweatshirt', 0.012774657]
+[u'jersey', 0.17066848, u'sweatshirt', 0.14477029, u'web_site', 0.06268733, u'beer_glass', 0.049228568, u'coffee_mug', 0.029921643]
+[u'confectionery', 0.77069074, u'packet', 0.21616897, u'vending_machine', 0.0037545317, u'grocery_store', 0.0032014095, u'paper_towel', 0.0023717142]

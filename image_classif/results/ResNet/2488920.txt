@@ -1,0 +1,1 @@
+[u'switch', 0.31256607, u'scale', 0.13195936, u'soap_dispenser', 0.12551917, u'modem', 0.040510762, u'toilet_seat', 0.027413502]

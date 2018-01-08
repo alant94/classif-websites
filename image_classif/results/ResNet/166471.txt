@@ -1,0 +1,8 @@
+[u'screwdriver', 0.81007028, u'hammer', 0.094676331, u'slide_rule', 0.054102704, u'rule', 0.024205504, u'nail', 0.0029756997]
+[u'screwdriver', 0.51160365, u'slide_rule', 0.29767901, u'hammer', 0.088939004, u'rule', 0.054885671, u'nail', 0.033170749]
+[u'rule', 0.404906, u'screwdriver', 0.27988717, u'slide_rule', 0.17059727, u'hammer', 0.040053595, u'nail', 0.021666432]
+[u'corkscrew', 0.2090634, u'hair_slide', 0.11799224, u'can_opener', 0.079196833, u'hand_blower', 0.072508678, u'wall_clock', 0.057877522]
+[u'rule', 0.51842809, u'slide_rule', 0.18197757, u'screwdriver', 0.11711308, u'hammer', 0.028493429, u'nail', 0.015460026]
+[u'rule', 0.28665778, u'screwdriver', 0.24025619, u'slide_rule', 0.10321314, u'hammer', 0.034130536, u'nail', 0.033719234]
+[u'rule', 0.37245032, u'slide_rule', 0.2215784, u'screwdriver', 0.1361919, u'web_site', 0.028180245, u'analog_clock', 0.019617835]
+[u'slide_rule', 0.56567746, u'rule', 0.40255979, u'screwdriver', 0.02483795, u'hammer', 0.0018776447, u'syringe', 0.0014816155]

@@ -1,0 +1,4 @@
+[u'apiary', 0.42643121, u'lakeside', 0.10852068, u'park_bench', 0.10094386, u'maze', 0.055957425, u'mobile_home', 0.026125018]
+[u'vault', 0.51617974, u'restaurant', 0.061878715, u'mosque', 0.051178657, u'maze', 0.045290828, u'bell_cote', 0.043198675]
+[u'lotion', 0.74642533, u'hair_spray', 0.10878062, u'cocktail_shaker', 0.03785646, u'sunscreen', 0.031338468, u'perfume', 0.028470341]
+[u'web_site', 0.54277062, u'envelope', 0.11095193, u'ski', 0.034710858, u'book_jacket', 0.024022091, u'jersey', 0.016682835]

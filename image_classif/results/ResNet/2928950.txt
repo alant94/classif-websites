@@ -1,0 +1,5 @@
+[u'stole', 0.11026474, u'wig', 0.091968685, u'fur_coat', 0.08773613, u'neck_brace', 0.037122265, u'seat_belt', 0.025196463]
+[u'wig', 0.062623665, u'neck_brace', 0.057950709, u'hand_blower', 0.044914901, u'stole', 0.044028196, u'feather_boa', 0.033868838]
+[u'face_powder', 0.7504887, u'lipstick', 0.056885708, u'Band_Aid', 0.030842306, u'wig', 0.018654158, u'lotion', 0.0090604983]
+[u'syringe', 0.055977464, u'Band_Aid', 0.047443978, u'seat_belt', 0.046602733, u'lipstick', 0.046502773, u'face_powder', 0.033490315]
+[u'American_lobster', 0.099075891, u'candle', 0.052098833, u'lab_coat', 0.050872386, u'bow_tie', 0.041415237, u'suit', 0.036084194]

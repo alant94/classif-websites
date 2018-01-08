@@ -1,0 +1,3 @@
+[u'jean', 0.31890288, u'carton', 0.26695415, u'Band_Aid', 0.16494255, u'pajama', 0.043404114, u'envelope', 0.017720889]
+[u'shopping_basket', 0.90159619, u'hamper', 0.028801262, u'shopping_cart', 0.018922115, u'park_bench', 0.010224454, u'crib', 0.0068805623]
+[u'crossword_puzzle', 0.268675, u'digital_watch', 0.10786382, u'digital_clock', 0.10763764, u'picket_fence', 0.077873655, u'ballpoint', 0.068431117]

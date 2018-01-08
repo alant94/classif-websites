@@ -1,0 +1,2 @@
+[u'miniskirt', 0.32862583, u'maillot', 0.31773597, u'neck_brace', 0.13135315, u'maillot', 0.036011189, u'theater_curtain', 0.017725304]
+[u'miniskirt', 0.43756324, u'maillot', 0.37780973, u'maillot', 0.082404718, u'neck_brace', 0.020480745, u'bikini', 0.013934975]

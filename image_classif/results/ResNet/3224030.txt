@@ -1,0 +1,7 @@
+[u'coho', 0.24787249, u'vestment', 0.22280194, u'wardrobe', 0.087014578, u'butcher_shop', 0.064396046, u'hook', 0.056747261]
+[u'shoe_shop', 0.27931458, u'wardrobe', 0.093991682, u'brassiere', 0.07387539, u'sarong', 0.069982976, u'butcher_shop', 0.064275011]
+[u'wardrobe', 0.2589038, u'handkerchief', 0.20586938, u'picket_fence', 0.086458161, u'butcher_shop', 0.086159945, u'paintbrush', 0.065738209]
+[u'butcher_shop', 0.9516871, u'fountain', 0.013499834, u'brassiere', 0.0037035057, u'shoe_shop', 0.0021022419, u'poncho', 0.002073698]
+[u'altar', 0.14074963, u'groom', 0.069319017, u'vestment', 0.064017326, u'wardrobe', 0.059268262, u'gown', 0.053960431]
+[u'paintbrush', 0.34706905, u"potter's_wheel", 0.044279814, u'vestment', 0.038718626, u'shoe_shop', 0.033138003, u'jersey', 0.02339953]
+[u'barbell', 0.42228514, u'dumbbell', 0.42227709, u'vacuum', 0.040119551, u'iron', 0.018757114, u'wardrobe', 0.0091346428]

@@ -1,0 +1,6 @@
+[u'redbone', 0.78344846, u'Irish_setter', 0.14964287, u'iPod', 0.031611536, u'laptop', 0.011065044, u'Irish_terrier', 0.0039275009]
+[u'Gordon_setter', 0.39965209, u'black-and-tan_coonhound', 0.34639129, u'Doberman', 0.079816841, u'Rottweiler', 0.078576997, u'miniature_pinscher', 0.020132992]
+[u'miniature_pinscher', 0.42497963, u'redbone', 0.24019755, u'Airedale', 0.12148508, u'black-and-tan_coonhound', 0.026900554, u'Chihuahua', 0.025902918]
+[u'redbone', 0.99889731, u'Irish_setter', 0.00050386245, u'Rhodesian_ridgeback', 0.00027055445, u'golden_retriever', 8.2849954e-05, u'bloodhound', 7.7939367e-05]
+[u'redbone', 0.86699104, u'Rhodesian_ridgeback', 0.12909576, u'miniature_pinscher', 0.0011369541, u'bloodhound', 0.0010593536, u'Mexican_hairless', 0.00087054324]
+[u'redbone', 0.52115643, u'black-and-tan_coonhound', 0.19909847, u'Gordon_setter', 0.062162288, u'Labrador_retriever', 0.025684407, u'Doberman', 0.021951195]

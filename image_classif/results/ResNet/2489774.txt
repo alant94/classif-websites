@@ -1,0 +1,4 @@
+[u'monitor', 0.39756316, u'screen', 0.12373631, u'television', 0.1016534, u'book_jacket', 0.067874424, u'web_site', 0.04255854]
+[u'web_site', 0.18697317, u'jigsaw_puzzle', 0.095034428, u'envelope', 0.066737853, u'screen', 0.063547686, u'binder', 0.038795222]
+[u'book_jacket', 0.1219621, u'malamute', 0.11808831, u'envelope', 0.049157523, u'laptop', 0.027436448, u'notebook', 0.026685262]
+[u'monitor', 0.21569273, u'honeycomb', 0.21112886, u'screen', 0.11670946, u'shovel', 0.061397165, u'television', 0.03717773]

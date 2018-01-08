@@ -1,0 +1,3 @@
+[u'upright', 0.40074733, u'grand_piano', 0.17256255, u'desk', 0.14255765, u'file', 0.055159621, u'television', 0.040949266]
+[u'desk', 0.38256952, u'library', 0.11029723, u'file', 0.095695935, u'rifle', 0.073387176, u'assault_rifle', 0.043195736]
+[u'window_shade', 0.08763101, u'photocopier', 0.079790577, u'pot', 0.050694499, u'television', 0.043267246, u'solar_dish', 0.038885374]

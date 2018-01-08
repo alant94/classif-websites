@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.49879062, u'prayer_rug', 0.058474358, u'web_site', 0.048829112, u'shield', 0.024462614, u'whistle', 0.023237344]
+[u'book_jacket', 0.54453284, u'packet', 0.10428999, u'doormat', 0.10410248, u'lighter', 0.061403539, u'carton', 0.049062248]
+[u'panpipe', 0.14298174, u'vestment', 0.1337205, u'theater_curtain', 0.13015221, u'organ', 0.10007498, u'marimba', 0.065294713]
+[u'gazelle', 0.19887915, u'impala', 0.1399451, u'dhole', 0.091914229, u'spider_web', 0.053716037, u'red_wolf', 0.033934724]
+[u'prayer_rug', 0.49346215, u'Band_Aid', 0.21961224, u'crossword_puzzle', 0.042309146, u'maze', 0.036981825, u'scoreboard', 0.01505507]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

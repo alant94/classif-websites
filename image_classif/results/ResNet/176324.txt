@@ -1,0 +1,8 @@
+[u'shower_curtain', 0.33381137, u'bathtub', 0.20077553, u'mosquito_net', 0.11808569, u'tub', 0.059191659, u'washbasin', 0.038616844]
+[u'wardrobe', 0.2798236, u'four-poster', 0.16796887, u'sliding_door', 0.16203459, u'china_cabinet', 0.059602659, u'studio_couch', 0.043797828]
+[u'carton', 0.1748995, u'mask', 0.084522977, u'hamper', 0.065359563, u'crib', 0.040964581, u'cloak', 0.034235511]
+[u'brassiere', 0.0973759, u'swimming_trunks', 0.057655171, u'bathing_cap', 0.038415156, u'diaper', 0.036185745, u'bikini', 0.032277774]
+[u'shower_cap', 0.40755862, u'bathing_cap', 0.086368784, u'swimming_trunks', 0.05749293, u'miniskirt', 0.037715536, u'maillot', 0.037409097]
+[u'four-poster', 0.39338437, u'fire_screen', 0.3167429, u'stove', 0.040005989, u'mosquito_net', 0.028750809, u'hoopskirt', 0.021026818]
+[u'lampshade', 0.14349897, u'wardrobe', 0.11968379, u'window_shade', 0.10127118, u'shower_curtain', 0.069592044, u'table_lamp', 0.05160591]
+[u'barber_chair', 0.14356968, u'guillotine', 0.085886493, u'desk', 0.076234594, u'ambulance', 0.053542372, u'barbershop', 0.051485032]

@@ -1,0 +1,1 @@
+[u'comic_book', 0.17160116, u'stopwatch', 0.098552406, u'menu', 0.097523071, u'pick', 0.062056776, u'crossword_puzzle', 0.047518391]

@@ -1,0 +1,2 @@
+[u'cleaver', 0.11363933, u'hook', 0.067271732, u'shovel', 0.047073185, u'stethoscope', 0.041210108, u'punching_bag', 0.031477001]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,5 @@
+[u'envelope', 0.46693558, u'web_site', 0.053388126, u'letter_opener', 0.033253852, u'Band_Aid', 0.02523989, u'quill', 0.025024528]
+[u'sombrero', 0.37094206, u'cowboy_hat', 0.11577941, u'sweatshirt', 0.056980416, u'abaya', 0.041343924, u'brassiere', 0.026957668]
+[u'fireboat', 0.2776691, u'geyser', 0.13500145, u'fountain', 0.12696189, u'space_shuttle', 0.12246645, u'volcano', 0.070894778]
+[u'wallet', 0.42740822, u'purse', 0.35735276, u'iPod', 0.15794979, u'pencil_box', 0.01236874, u'buckle', 0.011945363]
+[u'washer', 0.81077743, u'microwave', 0.033787802, u'safe', 0.033383977, u'oscilloscope', 0.025972456, u'iPod', 0.018698355]

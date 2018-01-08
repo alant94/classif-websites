@@ -1,0 +1,2 @@
+[u'tray', 0.2675049, u'book_jacket', 0.1543909, u'folding_chair', 0.096911758, u'whistle', 0.033197723, u'crossword_puzzle', 0.031640369]
+[u'book_jacket', 0.20979905, u'tray', 0.15480222, u'comic_book', 0.065816328, u'binder', 0.046312075, u'swab', 0.034392424]

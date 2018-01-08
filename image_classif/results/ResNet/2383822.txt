@@ -1,0 +1,6 @@
+[u'soup_bowl', 0.51557463, u'consomme', 0.11804632, u'plate', 0.085043982, u'strainer', 0.05446849, u'burrito', 0.040163085]
+[u'crossword_puzzle', 0.38941845, u'picket_fence', 0.23731482, u'digital_clock', 0.077290744, u'digital_watch', 0.013572467, u'container_ship', 0.0085534705]
+[u'spotlight', 0.83367139, u'strainer', 0.061207391, u'oil_filter', 0.032175533, u'ladle', 0.017881043, u'nail', 0.013547484]
+[u'Dandie_Dinmont', 0.15074591, u'Australian_terrier', 0.078407176, u'window_screen', 0.077343971, u'common_newt', 0.046077114, u'silky_terrier', 0.04167413]
+[u'spotlight', 0.39429471, u'combination_lock', 0.14753078, u'oil_filter', 0.064900696, u'can_opener', 0.062949464, u'switch', 0.055624273]
+[u'consomme', 0.34099743, u'soup_bowl', 0.10956177, u'plate', 0.10572124, u'hot_pot', 0.044022776, u'meat_loaf', 0.042206604]

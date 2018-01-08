@@ -1,0 +1,1 @@
+[u'washbasin', 0.13559738, u'wardrobe', 0.11133223, u'safe', 0.093446039, u'soap_dispenser', 0.07738819, u'bannister', 0.076388687]

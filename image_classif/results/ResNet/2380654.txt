@@ -1,0 +1,4 @@
+[u'lumbermill', 0.19494487, u'tobacco_shop', 0.086393557, u'china_cabinet', 0.062839828, u'pool_table', 0.055357512, u'bakery', 0.046776284]
+[u'envelope', 0.19811535, u'binder', 0.09580566, u'web_site', 0.076678447, u'book_jacket', 0.025913602, u'plunger', 0.019463431]
+[u'red_wine', 0.42191502, u'wine_bottle', 0.21823692, u'corkscrew', 0.19797063, u'refrigerator', 0.027545907, u'beer_bottle', 0.021626431]
+[u'wine_bottle', 0.63373792, u'red_wine', 0.18025823, u'beer_bottle', 0.082403652, u'lotion', 0.032770034, u'candle', 0.019439613]

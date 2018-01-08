@@ -1,0 +1,2 @@
+[u'notebook', 0.15464585, u'paintbrush', 0.12986681, u'bathing_cap', 0.067567468, u'laptop', 0.057634696, u'book_jacket', 0.034331642]
+[u'crossword_puzzle', 0.96698463, u'shower_curtain', 0.015432753, u'prayer_rug', 0.0029211531, u'paper_towel', 0.0017955293, u'toilet_seat', 0.001299247]

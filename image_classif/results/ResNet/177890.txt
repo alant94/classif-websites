@@ -1,0 +1,1 @@
+[u'tripod', 0.57567906, u'rifle', 0.072987735, u'assault_rifle', 0.060899898, u'pole', 0.048949055, u'traffic_light', 0.027729345]

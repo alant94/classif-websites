@@ -1,0 +1,7 @@
+[u'digital_clock', 0.7776581, u'digital_watch', 0.21981721, u'stopwatch', 0.00093826593, u'crossword_puzzle', 0.00052583177, u'traffic_light', 0.00027279195]
+[u'digital_clock', 0.25718769, u'soap_dispenser', 0.052483678, u'window_screen', 0.044265371, u'digital_watch', 0.041253429, u'prayer_rug', 0.037121765]
+[u'web_site', 0.40483066, u'dishwasher', 0.084239483, u'envelope', 0.046964359, u'can_opener', 0.014831027, u'nematode', 0.012271988]
+[u'digital_clock', 0.32971451, u'church', 0.087327495, u'digital_watch', 0.075687625, u'prayer_rug', 0.040392574, u'analog_clock', 0.03476445]
+[u'digital_clock', 0.33229566, u'stopwatch', 0.13247855, u'web_site', 0.042768862, u'envelope', 0.038370736, u'tripod', 0.034856532]
+[u'digital_clock', 0.34213012, u'traffic_light', 0.1112726, u'analog_clock', 0.10786279, u'wing', 0.073445633, u'digital_watch', 0.066047661]
+[u'web_site', 0.29702547, u'dishwasher', 0.12006993, u'envelope', 0.058509037, u'cleaver', 0.021448774, u'nematode', 0.018150769]

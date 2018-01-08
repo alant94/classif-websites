@@ -1,0 +1,1 @@
+[u'barbershop', 0.1454372, u'picket_fence', 0.099590331, u'cinema', 0.081058376, u'hook', 0.057524022, u'envelope', 0.056848124]

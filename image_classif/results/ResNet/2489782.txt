@@ -1,0 +1,4 @@
+[u'kimono', 0.13044228, u'fur_coat', 0.10706533, u'book_jacket', 0.10424669, u'chain_saw', 0.048698667, u'marimba', 0.035221312]
+[u'soft-coated_wheaten_terrier', 0.25021178, u'chain_saw', 0.082328334, u'Afghan_hound', 0.081408307, u'Irish_water_spaniel', 0.070787124, u'Bouvier_des_Flandres', 0.068770908]
+[u'coyote', 0.13101254, u'dogsled', 0.11570387, u'malamute', 0.080356196, u'whippet', 0.079054654, u'Ibizan_hound', 0.078739233]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

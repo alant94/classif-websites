@@ -1,0 +1,7 @@
+[u'web_site', 0.71791255, u'monitor', 0.11889555, u'screen', 0.063873142, u'envelope', 0.026822811, u'analog_clock', 0.013403331]
+[u'web_site', 0.79746389, u'menu', 0.04739188, u'envelope', 0.012955224, u'screw', 0.0052883453, u'digital_clock', 0.0048047383]
+[u'web_site', 0.67544824, u'envelope', 0.24240215, u'screen', 0.016445599, u'oscilloscope', 0.013028423, u'harp', 0.0077787885]
+[u'Windsor_tie', 0.28369445, u'suit', 0.19688955, u'stethoscope', 0.02345198, u'Sealyham_terrier', 0.02210385, u'bassoon', 0.017583285]
+[u'digital_clock', 0.628829, u'screw', 0.087597035, u'analog_clock', 0.075943358, u'scoreboard', 0.018210683, u'web_site', 0.015816621]
+[u'rule', 0.4916712, u'oscilloscope', 0.16135512, u'web_site', 0.13343784, u'slide_rule', 0.019717129, u'rubber_eraser', 0.017068505]
+[u'oscilloscope', 0.60329527, u'web_site', 0.26535058, u'cellular_telephone', 0.039351013, u'hand-held_computer', 0.020495994, u'remote_control', 0.0086115953]

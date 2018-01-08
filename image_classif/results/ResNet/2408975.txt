@@ -1,0 +1,2 @@
+[u'stove', 0.59351826, u'digital_clock', 0.042688057, u'analog_clock', 0.035532422, u'guillotine', 0.03410098, u'theater_curtain', 0.026561996]
+[u'space_shuttle', 0.13050428, u'bow', 0.11131284, u'schooner', 0.055205923, u'gong', 0.052229002, u'pay-phone', 0.051248778]

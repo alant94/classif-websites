@@ -1,0 +1,6 @@
+[u'hook', 0.35024664, u'window_shade', 0.10446331, u'vase', 0.097143359, u'lampshade', 0.073809586, u'four-poster', 0.064388856]
+[u'dhole', 0.25676867, u'gazelle', 0.14737688, u'hartebeest', 0.1217027, u'African_hunting_dog', 0.093423821, u'kit_fox', 0.074791536]
+[u'book_jacket', 0.4485265, u'comic_book', 0.14581883, u'web_site', 0.077675641, u'street_sign', 0.02945541, u'barbershop', 0.021434519]
+[u'restaurant', 0.46366096, u'dining_table', 0.32834837, u'barbershop', 0.050751541, u'china_cabinet', 0.024612181, u'barber_chair', 0.022257188]
+[u'gazelle', 0.56560457, u'impala', 0.38329527, u'hartebeest', 0.030803295, u'wallaby', 0.0061517227, u'sorrel', 0.0051773656]
+[u'coyote', 0.35570601, u'dhole', 0.31673613, u'dingo', 0.21964145, u'lion', 0.014696128, u'hare', 0.014405338]

@@ -1,0 +1,1 @@
+[u'stethoscope', 0.18481165, u'perfume', 0.1140476, u'padlock', 0.09593939, u'hair_spray', 0.075835481, u'chain', 0.059977818]

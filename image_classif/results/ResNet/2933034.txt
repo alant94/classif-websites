@@ -1,0 +1,7 @@
+[u'panpipe', 0.13931003, u'digital_clock', 0.10005058, u'envelope', 0.086736731, u'web_site', 0.077645451, u'wall_clock', 0.056327906]
+[u'loupe', 0.39848143, u'analog_clock', 0.094606303, u'stopwatch', 0.067621231, u'gasmask', 0.052321356, u'nipple', 0.030745292]
+[u'envelope', 0.93403274, u'web_site', 0.019607108, u'binder', 0.0030502353, u'street_sign', 0.0022508223, u'plastic_bag', 0.0021568898]
+[u'crossword_puzzle', 0.32192644, u'academic_gown', 0.12787604, u'quill', 0.10018965, u'binder', 0.084393166, u'suit', 0.072807468]
+[u'red_wine', 0.96772766, u'wine_bottle', 0.012920945, u'goblet', 0.0091747465, u'espresso', 0.0016578675, u'eggnog', 0.0010550525]
+[u'puck', 0.13146947, u'bottlecap', 0.12690964, u'street_sign', 0.096335724, u'oil_filter', 0.080478266, u'web_site', 0.024227183]
+[u'pot', 0.10651381, u'broccoli', 0.094500102, u'burrito', 0.069313295, u'ice_cream', 0.031259693, u'gyromitra', 0.025384003]

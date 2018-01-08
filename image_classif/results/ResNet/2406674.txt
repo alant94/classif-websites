@@ -1,0 +1,8 @@
+[u'tennis_ball', 0.75870949, u'digital_watch', 0.075874165, u'digital_clock', 0.062698565, u'combination_lock', 0.021041866, u'safe', 0.013226097]
+[u'television', 0.22022046, u'spotlight', 0.091462925, u'microwave', 0.059966493, u'space_heater', 0.056495298, u'screen', 0.045715917]
+[u'spotlight', 0.29338524, u'toilet_seat', 0.0937915, u'switch', 0.04793008, u'Band_Aid', 0.03379485, u'pill_bottle', 0.032997325]
+[u'mouse', 0.24377677, u'spotlight', 0.2071643, u'CD_player', 0.078585193, u'cassette_player', 0.067252107, u'cassette', 0.038714666]
+[u'buckle', 0.14160059, u'analog_clock', 0.092488222, u'puck', 0.066783138, u'television', 0.044362981, u'football_helmet', 0.030186612]
+[u'combination_lock', 0.12883496, u'buckle', 0.10559732, u"jack-o'-lantern", 0.076857537, u'shield', 0.058259066, u'face_powder', 0.056148402]
+[u'upright', 0.18824367, u'pencil_sharpener', 0.14114015, u'ballpoint', 0.094397046, u'accordion', 0.086379498, u'nail', 0.065048821]
+[u'web_site', 0.74034399, u'book_jacket', 0.0782222, u'comic_book', 0.030229416, u'rule', 0.010505955, u'barbershop', 0.010319768]

@@ -1,0 +1,2 @@
+[u'plate_rack', 0.16659909, u'web_site', 0.1109037, u'packet', 0.094275065, u'coffee_mug', 0.058587316, u'maraca', 0.039094433]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

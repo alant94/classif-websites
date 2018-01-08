@@ -1,0 +1,2 @@
+[u'pickup', 0.69865382, u'snowplow', 0.050152615, u'jeep', 0.028696233, u'moving_van', 0.028358828, u'tow_truck', 0.020819791]
+[u'dogsled', 0.37903923, u'chain_saw', 0.10779401, u'snowmobile', 0.072010711, u'ski', 0.040890351, u'snowplow', 0.029135359]

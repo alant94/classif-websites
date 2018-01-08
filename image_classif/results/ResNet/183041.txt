@@ -1,0 +1,7 @@
+[u'web_site', 0.94985348, u'comic_book', 0.0070018964, u'neck_brace', 0.0061591486, u'sunglass', 0.0030015549, u'sleeping_bag', 0.0028404412]
+[u'web_site', 0.97539937, u'Band_Aid', 0.0030614571, u'menu', 0.0029784704, u'bikini', 0.0013840906, u'seashore', 0.0012841114]
+[u'Saint_Bernard', 0.82070684, u'boxer', 0.15952608, u'bull_mastiff', 0.003875447, u'Bernese_mountain_dog', 0.0030812775, u'llama', 0.002379104]
+[u'web_site', 0.31510803, u'book_jacket', 0.08008948, u'street_sign', 0.026828934, u'envelope', 0.024713943, u'jean', 0.017665055]
+[u'street_sign', 0.16033976, u'web_site', 0.05245604, u'comic_book', 0.028802466, u'ashcan', 0.024147768, u'hard_disc', 0.017039323]
+[u'canoe', 0.57735741, u'paddle', 0.25046864, u'bathing_cap', 0.063697621, u'lakeside', 0.014857879, u'bikini', 0.0094230827]
+[u'web_site', 0.99948955, u'menu', 0.00037437573, u'book_jacket', 4.067484e-05, u'comic_book', 3.2213262e-05, u'envelope', 1.0892198e-05]

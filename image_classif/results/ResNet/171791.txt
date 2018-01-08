@@ -1,0 +1,3 @@
+[u'picket_fence', 0.59059834, u'crib', 0.044719066, u'worm_fence', 0.042681243, u'binder', 0.036662292, u'folding_chair', 0.031914838]
+[u'web_site', 0.10751598, u'hook', 0.078909248, u'lighter', 0.071252614, u'envelope', 0.03313924, u'digital_clock', 0.028511118]
+[u'picket_fence', 0.63698292, u'chime', 0.060080059, u'panpipe', 0.050172348, u'church', 0.031875521, u'container_ship', 0.029821737]

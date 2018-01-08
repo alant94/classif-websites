@@ -1,0 +1,4 @@
+[u'puck', 0.95490384, u'sweatshirt', 0.0084419893, u'face_powder', 0.0061209556, u'jersey', 0.0026814926, u'frying_pan', 0.0024430689]
+[u'bighorn', 0.48528424, u'ram', 0.3321448, u'ox', 0.07715226, u'oxcart', 0.033834726, u'ibex', 0.023817988]
+[u'ox', 0.22265008, u'oxcart', 0.12398478, u'horse_cart', 0.094399497, u'Arabian_camel', 0.090661988, u'alp', 0.072178848]
+[u'butcher_shop', 0.37957516, u'worm_fence', 0.072545581, u'picket_fence', 0.062704913, u'Afghan_hound', 0.058425136, u'komondor', 0.031590324]

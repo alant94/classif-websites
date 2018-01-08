@@ -1,0 +1,2 @@
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'necklace', 0.12198798, u'web_site', 0.11506669, u'red_wine', 0.071993679, u'knot', 0.037552249, u'dragonfly', 0.036261663]

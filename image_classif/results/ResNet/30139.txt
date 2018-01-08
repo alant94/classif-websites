@@ -1,0 +1,2 @@
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'valley', 0.16149729, u'alp', 0.1562887, u'cliff', 0.096555538, u'promontory', 0.057948023, u'balloon', 0.020979948]

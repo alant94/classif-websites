@@ -1,0 +1,2 @@
+[u'web_site', 0.27800816, u'street_sign', 0.13993634, u'carton', 0.030808816, u'rule', 0.024509264, u'envelope', 0.023207206]
+[u'shoji', 0.99582303, u'prison', 0.00075598824, u'hair_spray', 0.00047335791, u'kimono', 0.00035165972, u'crossword_puzzle', 0.00034824657]

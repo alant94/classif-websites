@@ -1,0 +1,1 @@
+[u'malamute', 0.082264259, u'bicycle-built-for-two', 0.081632793, u'groenendael', 0.045763299, u'lakeside', 0.032362632, u'alp', 0.029245511]

@@ -1,0 +1,6 @@
+[u'container_ship', 0.2947863, u'tobacco_shop', 0.087235451, u'bookshop', 0.05555601, u'hamper', 0.052374125, u'medicine_chest', 0.049935341]
+[u'doormat', 0.25800332, u'quilt', 0.13677947, u'web_site', 0.097228713, u'chain', 0.043897387, u'tray', 0.042283334]
+[u'jigsaw_puzzle', 0.57755572, u'web_site', 0.18913417, u'tobacco_shop', 0.036258824, u'bookshop', 0.024331382, u'tray', 0.010969445]
+[u'comic_book', 0.76481432, u'web_site', 0.063979432, u'slot', 0.052312396, u'book_jacket', 0.023966195, u'packet', 0.018119778]
+[u'abacus', 0.43910265, u'web_site', 0.11714748, u'tray', 0.10304064, u'doormat', 0.064293288, u'quilt', 0.035131808]
+[u'web_site', 0.20117195, u'tobacco_shop', 0.14877792, u'jigsaw_puzzle', 0.13687855, u'confectionery', 0.11768572, u'quilt', 0.076250166]

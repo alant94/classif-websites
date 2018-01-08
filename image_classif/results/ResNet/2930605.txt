@@ -1,0 +1,4 @@
+[u'safety_pin', 0.36078662, u'iron', 0.18077435, u'hook', 0.06550011, u'cup', 0.038699426, u'can_opener', 0.035897635]
+[u'Windsor_tie', 0.15095721, u'web_site', 0.047811955, u'book_jacket', 0.043391649, u'mailbag', 0.03188093, u'television', 0.029206552]
+[u'web_site', 0.34901857, u'rock_beauty', 0.029383359, u'plunger', 0.027514555, u'electric_ray', 0.02373524, u'loupe', 0.021085681]
+[u'computer_keyboard', 0.6221658, u'space_bar', 0.14866008, u'mouse', 0.067776605, u'hand-held_computer', 0.034857512, u'modem', 0.015319069]

@@ -1,0 +1,2 @@
+[u'megalith', 0.42327082, u'dumbbell', 0.077265836, u'pedestal', 0.058846653, u'teddy', 0.049150381, u'Indian_elephant', 0.03698739]
+[u'web_site', 0.11508457, u'Sussex_spaniel', 0.030331777, u'nematode', 0.026260557, u'envelope', 0.025823522, u'hair_spray', 0.023283387]

@@ -1,0 +1,4 @@
+[u'hook', 0.34084165, u'Arabian_camel', 0.20670527, u'binoculars', 0.027837155, u'whistle', 0.023510762, u'web_site', 0.021157306]
+[u'chain', 0.13482243, u'hook', 0.10067146, u'nail', 0.061662193, u'picket_fence', 0.047196504, u'padlock', 0.044724356]
+[u'barn', 0.3927941, u'church', 0.090650573, u'hay', 0.08088012, u'water_tower', 0.041910242, u'harvester', 0.0364553]
+[u'digital_watch', 0.82605147, u'digital_clock', 0.093496345, u'analog_clock', 0.020665027, u'stopwatch', 0.01596434, u'lighter', 0.0026502339]

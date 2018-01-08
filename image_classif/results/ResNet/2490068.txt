@@ -1,0 +1,4 @@
+[u'coral_fungus', 0.75604719, u'coral_reef', 0.028529506, u'oxcart', 0.01836621, u'ox', 0.016095316, u'African_elephant', 0.0096100764]
+[u'warthog', 0.67801219, u'Arabian_camel', 0.091462456, u'baboon', 0.046982516, u'zebra', 0.036375768, u'hyena', 0.035864208]
+[u'gazelle', 0.96281248, u'impala', 0.018307999, u'ibex', 0.0092420122, u'plow', 0.002885706, u'ram', 0.0010702048]
+[u'ibex', 0.30229697, u'gazelle', 0.28388125, u'dhole', 0.1454082, u'impala', 0.1134494, u'Arabian_camel', 0.044502523]

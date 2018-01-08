@@ -1,0 +1,5 @@
+[u'web_site', 0.98593104, u'notebook', 0.0032924141, u'screen', 0.0029897457, u'hand-held_computer', 0.0028859351, u'monitor', 0.0017245893]
+[u'web_site', 0.99786121, u'monitor', 0.0014358507, u'screen', 0.00030484301, u'notebook', 0.00014841043, u'laptop', 8.6775653e-05]
+[u'web_site', 0.99187201, u'notebook', 0.0025321296, u'laptop', 0.0012081779, u'monitor', 0.00089583592, u'desktop_computer', 0.00079023628]
+[u'web_site', 0.99770516, u'notebook', 0.0011723377, u'laptop', 0.00052074983, u'desktop_computer', 0.00012134528, u'monitor', 0.00012025981]
+[u'web_site', 0.99283242, u'notebook', 0.0015632776, u'laptop', 0.0014466532, u'monitor', 0.0010655128, u'hand-held_computer', 0.0009146448]

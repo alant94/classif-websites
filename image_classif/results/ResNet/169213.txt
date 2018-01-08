@@ -1,0 +1,2 @@
+[u'sunscreen', 0.32115188, u'lotion', 0.24052407, u'web_site', 0.10616707, u'nipple', 0.08406391, u'modem', 0.024636099]
+[u'web_site', 0.39775446, u'seashore', 0.22478999, u'envelope', 0.038346563, u'flagpole', 0.019123692, u'liner', 0.017354092]

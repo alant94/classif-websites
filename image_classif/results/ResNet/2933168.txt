@@ -1,0 +1,6 @@
+[u'binder', 0.18508014, u'jersey', 0.073554635, u'space_shuttle', 0.047104783, u'can_opener', 0.046054628, u'loupe', 0.025851285]
+[u'knot', 0.4052594, u'horizontal_bar', 0.051216152, u'microphone', 0.031313032, u'brassiere', 0.026080994, u'screen', 0.022941833]
+[u'envelope', 0.23064317, u'mortarboard', 0.062185641, u'photocopier', 0.038132526, u'shovel', 0.036686506, u'binder', 0.032125413]
+[u'neck_brace', 0.46450371, u'harmonica', 0.15341975, u'cello', 0.086457096, u'flute', 0.042839471, u'violin', 0.0364834]
+[u'soap_dispenser', 0.21576701, u'lighter', 0.044418823, u'beaker', 0.039527889, u'prison', 0.037200026, u'digital_clock', 0.036412403]
+[u'prayer_rug', 0.14239655, u'Band_Aid', 0.10843569, u'jersey', 0.091172256, u'lighter', 0.066780224, u'binder', 0.027344543]

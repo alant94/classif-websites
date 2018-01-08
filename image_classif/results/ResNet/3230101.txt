@@ -1,0 +1,1 @@
+[u'church', 0.51144946, u'bell_cote', 0.33223757, u'monastery', 0.13204475, u'palace', 0.0053677447, u'analog_clock', 0.0052249469]

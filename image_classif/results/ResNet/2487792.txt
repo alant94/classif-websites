@@ -1,0 +1,4 @@
+[u'web_site', 0.99243224, u'book_jacket', 0.0036031476, u'scoreboard', 0.00068968907, u'menu', 0.00040059185, u'lakeside', 0.00033513532]
+[u'perfume', 0.1631023, u'padlock', 0.16197152, u'wallet', 0.14330421, u'switch', 0.040880099, u'screen', 0.028521793]
+[u'comic_book', 0.15389735, u'screwdriver', 0.1507291, u"carpenter's_kit", 0.10621545, u'power_drill', 0.054334357, u'cinema', 0.052687731]
+[u'tray', 0.15247305, u'modem', 0.078688867, u'web_site', 0.04758355, u'radio', 0.045071527, u'CD_player', 0.044708986]

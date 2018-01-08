@@ -1,0 +1,5 @@
+[u'book_jacket', 0.44275874, u'menu', 0.32841185, u'envelope', 0.023181546, u'tray', 0.020401366, u'freight_car', 0.01400069]
+[u'nematode', 0.095295183, u'dishwasher', 0.087305494, u'abaya', 0.031107163, u'cleaver', 0.029067505, u'spatula', 0.016471224]
+[u'Irish_wolfhound', 0.57588768, u'Arabian_camel', 0.060464647, u'hyena', 0.041310176, u'swimming_trunks', 0.035606708, u'Airedale', 0.023119049]
+[u'book_jacket', 0.32545987, u'packet', 0.29892775, u'carton', 0.12410948, u'crate', 0.11529144, u'matchstick', 0.019580945]
+[u'bow', 0.37801796, u'web_site', 0.071899883, u'drum', 0.041255943, u'sunglass', 0.023904802, u'mailbag', 0.021767646]

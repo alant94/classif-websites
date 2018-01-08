@@ -1,0 +1,3 @@
+[u'picket_fence', 0.17047317, u'totem_pole', 0.15665033, u'African_grey', 0.04960179, u'worm_fence', 0.041765016, u'pot', 0.041276705]
+[u'bolo_tie', 0.082903482, u'ocarina', 0.059262097, u'whistle', 0.044597916, u'cleaver', 0.036224965, u'coffee_mug', 0.03475327]
+[u'web_site', 0.31637979, u'envelope', 0.072372511, u'plunger', 0.022546079, u'menu', 0.020982923, u'lighter', 0.017200179]

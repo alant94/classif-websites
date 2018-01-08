@@ -1,0 +1,8 @@
+[u'web_site', 0.23497576, u'nail', 0.038669046, u'rifle', 0.037458975, u'screw', 0.037066989, u'matchstick', 0.024656337]
+[u'birdhouse', 0.35313508, u'paintbrush', 0.14367104, u'broom', 0.13471518, u'matchstick', 0.048574507, u'pencil_sharpener', 0.044768523]
+[u'slot', 0.061232362, u'magnetic_compass', 0.052622795, u'jersey', 0.051922847, u'beer_glass', 0.050513957, u'web_site', 0.047959156]
+[u'seashore', 0.2452368, u'palace', 0.16270849, u'castle', 0.13328527, u'church', 0.10383186, u'jigsaw_puzzle', 0.095441364]
+[u'whistle', 0.25485185, u'Band_Aid', 0.12696782, u'pill_bottle', 0.058598623, u'digital_clock', 0.051475644, u'web_site', 0.037539992]
+[u'lab_coat', 0.3959989, u'hair_spray', 0.11280824, u'water_bottle', 0.04822138, u'lotion', 0.031526953, u'face_powder', 0.02668025]
+[u'bakery', 0.25628066, u'bagel', 0.11536589, u'dough', 0.082357757, u'French_loaf', 0.066751719, u'coffee_mug', 0.049846292]
+[u'wallet', 0.14667206, u'sandal', 0.11590566, u'brassiere', 0.11089209, u'zebra', 0.056179665, u'Windsor_tie', 0.051854163]

@@ -1,0 +1,2 @@
+[u'envelope', 0.63097179, u'menu', 0.26487532, u'web_site', 0.044518609, u'cleaver', 0.0043062749, u'quill', 0.0025631043]
+[u'wine_bottle', 0.86010611, u'red_wine', 0.12590876, u'goblet', 0.0094848638, u'cocktail_shaker', 0.0012697385, u'corkscrew', 0.00059931597]

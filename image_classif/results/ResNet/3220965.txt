@@ -1,0 +1,4 @@
+[u'hook', 0.13633929, u'chime', 0.12749383, u'whistle', 0.12302965, u'padlock', 0.077530801, u'traffic_light', 0.056947038]
+[u'web_site', 0.09801355, u'menu', 0.088634886, u'chime', 0.04041573, u'guillotine', 0.03703592, u'can_opener', 0.033000752]
+[u'church', 0.85536784, u'vault', 0.065029681, u'altar', 0.046874646, u'analog_clock', 0.0063278601, u'barn', 0.0045563783]
+[u'folding_chair', 0.43650401, u'scale', 0.10711885, u'Band_Aid', 0.068405397, u'street_sign', 0.044104178, u'iPod', 0.036939759]

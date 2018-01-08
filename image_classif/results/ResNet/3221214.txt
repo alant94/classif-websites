@@ -1,0 +1,1 @@
+[u'church', 0.88234627, u'castle', 0.052304588, u'monastery', 0.021286102, u'analog_clock', 0.012090242, u'jigsaw_puzzle', 0.0051157726]

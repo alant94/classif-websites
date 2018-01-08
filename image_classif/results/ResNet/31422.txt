@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'digital_clock', 0.12716426, u'web_site', 0.098352775, u'computer_keyboard', 0.056460798, u'police_van', 0.03968649, u'joystick', 0.035713449]

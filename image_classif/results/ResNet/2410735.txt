@@ -1,0 +1,3 @@
+[u'military_uniform', 0.49206039, u'bearskin', 0.38462371, u'pickelhaube', 0.051672071, u'cuirass', 0.024956403, u'kimono', 0.024291214]
+[u'wardrobe', 0.8628794, u'vestment', 0.081758097, u'kimono', 0.015745725, u'cloak', 0.0037449452, u'sarong', 0.0030304012]
+[u'wardrobe', 0.43063042, u'screwdriver', 0.075155824, u'swab', 0.06559673, u"carpenter's_kit", 0.054050434, u'shovel', 0.039746873]

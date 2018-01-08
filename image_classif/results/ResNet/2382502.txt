@@ -1,0 +1,4 @@
+[u'abaya', 0.20767623, u'whistle', 0.099594742, u'hook', 0.089340881, u'web_site', 0.079480909, u'banana', 0.040077623]
+[u'chime', 0.30346695, u'jersey', 0.2792913, u'abaya', 0.11504276, u'kimono', 0.083851255, u'vestment', 0.034241505]
+[u'screw', 0.74955767, u'assault_rifle', 0.077866659, u'loupe', 0.05424783, u'corkscrew', 0.016329601, u'hook', 0.015645903]
+[u'screw', 0.64217055, u'loupe', 0.070609361, u'rule', 0.066176936, u'analog_clock', 0.038900927, u'assault_rifle', 0.020839488]

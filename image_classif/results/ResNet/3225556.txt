@@ -1,0 +1,6 @@
+[u'restaurant', 0.75549144, u'dining_table', 0.10345481, u'bakery', 0.031077195, u'candle', 0.029328104, u'butcher_shop', 0.0073095518]
+[u'poncho', 0.082205601, u'fur_coat', 0.046206489, u'cloak', 0.043063, u'swimming_trunks', 0.040333968, u'suspension_bridge', 0.029161431]
+[u'maypole', 0.130485, u'Irish_wolfhound', 0.080839254, u'abacus', 0.072385654, u'gong', 0.058900472, u'Scottish_deerhound', 0.020678258]
+[u'sunglasses', 0.33585081, u'sunglass', 0.3093268, u'jersey', 0.044237725, u'feather_boa', 0.039750613, u'snorkel', 0.036740422]
+[u'geyser', 0.13623597, u'ski', 0.11536775, u'mountain_bike', 0.10999694, u'lakeside', 0.094231836, u'fountain', 0.089534745]
+[u'macaw', 0.31138235, u'bow', 0.28003642, u'reel', 0.082003087, u'cliff', 0.034072496, u'totem_pole', 0.033059869]

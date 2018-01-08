@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.7232846, u'binder', 0.067214318, u'monitor', 0.032486204, u'screen', 0.024617262, u'projector', 0.013348062]
+[u'cinema', 0.1107132, u'digital_watch', 0.10890802, u'gas_pump', 0.09041898, u'digital_clock', 0.08402054, u'toaster', 0.060812209]
+[u'pill_bottle', 0.23599562, u'guillotine', 0.22456002, u'medicine_chest', 0.033376034, u'web_site', 0.032876536, u'bell_cote', 0.029733684]
+[u'digital_clock', 0.35971758, u'digital_watch', 0.19676264, u'crossword_puzzle', 0.079070278, u'scoreboard', 0.05161377, u'jersey', 0.038102731]
+[u'toaster', 0.51436085, u'gown', 0.042680763, u'red_wine', 0.039010789, u'trombone', 0.033542458, u'water_jug', 0.031220479]
+[u'screen', 0.15653223, u'binder', 0.083254471, u'monitor', 0.066435531, u'digital_clock', 0.060007654, u'lighter', 0.059524827]
+[u'monitor', 0.21210271, u'binder', 0.15554883, u'lighter', 0.064020678, u'screen', 0.05369398, u'laptop', 0.032906249]

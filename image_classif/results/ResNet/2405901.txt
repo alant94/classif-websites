@@ -1,0 +1,6 @@
+[u'web_site', 0.14271292, u'comic_book', 0.03216625, u'rule', 0.030485662, u'oscilloscope', 0.0275055, u'book_jacket', 0.027495259]
+[u'bookshop', 0.38927221, u'book_jacket', 0.28556487, u'library', 0.12966654, u'harmonica', 0.027272591, u'lipstick', 0.026797147]
+[u'binder', 0.74394238, u'book_jacket', 0.065975584, u'notebook', 0.032035537, u'brass', 0.03017474, u'laptop', 0.02768958]
+[u'book_jacket', 0.50135559, u'binder', 0.21542667, u'perfume', 0.12974252, u'packet', 0.026750427, u'menu', 0.024740031]
+[u'binder', 0.73355931, u'book_jacket', 0.13995606, u'perfume', 0.076192126, u'hard_disc', 0.022138963, u'Polaroid_camera', 0.0060170903]
+[u'book_jacket', 0.4839114, u'binder', 0.37101677, u'envelope', 0.057982344, u'packet', 0.026878748, u'perfume', 0.015781308]

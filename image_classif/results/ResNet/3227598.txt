@@ -1,0 +1,5 @@
+[u'barbershop', 0.29247698, u'bookshop', 0.15196416, u'sliding_door', 0.060601279, u'plate_rack', 0.058424979, u'tobacco_shop', 0.04729306]
+[u'binder', 0.33282211, u'envelope', 0.14059646, u'web_site', 0.0917807, u'laptop', 0.049414471, u'Band_Aid', 0.046822086]
+[u'web_site', 0.073683217, u'loupe', 0.026602389, u'whistle', 0.021226667, u'pill_bottle', 0.017702347, u'hook', 0.016281322]
+[u'red_wine', 0.16720949, u'wine_bottle', 0.076026894, u'whiskey_jug', 0.069415785, u'punching_bag', 0.055058077, u'barrel', 0.052392785]
+[u'pajama', 0.33123204, u'jersey', 0.26317862, u'apron', 0.043466717, u'brassiere', 0.038095009, u'lab_coat', 0.030522892]

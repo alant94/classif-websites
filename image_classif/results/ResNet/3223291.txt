@@ -1,0 +1,6 @@
+[u'wig', 0.57267344, u'book_jacket', 0.035794105, u'cloak', 0.011708033, u'Band_Aid', 0.010850365, u'bearskin', 0.008558901]
+[u'window_screen', 0.22742729, u'neck_brace', 0.061070234, u'lab_coat', 0.060947675, u'guenon', 0.026150059, u'Windsor_tie', 0.022533936]
+[u'Windsor_tie', 0.088409849, u'suit', 0.081417844, u'wig', 0.078072555, u'bow_tie', 0.06381382, u'shower_cap', 0.047430933]
+[u'bulletproof_vest', 0.091862962, u'military_uniform', 0.068133622, u'turnstile', 0.054027945, u'cash_machine', 0.044717543, u'banjo', 0.033862617]
+[u'neck_brace', 0.039792672, u'polecat', 0.030548634, u'Windsor_tie', 0.027094057, u'tench', 0.021305913, u'hen-of-the-woods', 0.018605636]
+[u'wig', 0.95723552, u'mask', 0.021481059, u'bow_tie', 0.0020979038, u'Windsor_tie', 0.0020806897, u'hair_spray', 0.0020590022]

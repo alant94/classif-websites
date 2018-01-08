@@ -1,0 +1,4 @@
+[u'web_site', 0.93110108, u'slot', 0.0095224837, u'comic_book', 0.0094927978, u'television', 0.0093642892, u'vending_machine', 0.0026964252]
+[u'crane', 0.38520274, u'oboe', 0.26673993, u'bassoon', 0.14607964, u'chain_saw', 0.049290575, u'flute', 0.013633297]
+[u'sax', 0.7698372, u'electric_guitar', 0.16571026, u'banjo', 0.025455229, u'cornet', 0.016089266, u'acoustic_guitar', 0.015890965]
+[u'mortar', 0.93516463, u'wooden_spoon', 0.021207627, u'drumstick', 0.0096550714, u'flute', 0.0072227605, u'drum', 0.0038597733]

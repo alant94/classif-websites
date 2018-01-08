@@ -1,0 +1,1 @@
+[u'chain_mail', 0.33858299, u'microphone', 0.13951924, u'drumstick', 0.051042587, u'bulletproof_vest', 0.0421515, u'jersey', 0.027417259]

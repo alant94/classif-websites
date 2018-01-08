@@ -1,0 +1,2 @@
+[u'abaya', 0.12315829, u'cuirass', 0.09772107, u'drilling_platform', 0.071187995, u'barn_spider', 0.052856762, u'bow', 0.046972476]
+[u'comic_book', 0.20495644, u'mask', 0.16089517, u'television', 0.15255055, u'web_site', 0.086296506, u'book_jacket', 0.052207325]

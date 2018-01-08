@@ -1,0 +1,3 @@
+[u'pick', 0.89599204, u'tennis_ball', 0.022291213, u'analog_clock', 0.0096648028, u'wall_clock', 0.0065865875, u'maraca', 0.0058767986]
+[u'lab_coat', 0.060792133, u'hair_spray', 0.060635626, u'prison', 0.060633168, u'shower_cap', 0.052866835, u'suit', 0.041177697]
+[u'pick', 0.99065, u'pinwheel', 0.0026963772, u'envelope', 0.002677487, u'bow_tie', 0.0018333012, u'web_site', 0.00030833454]

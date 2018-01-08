@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.70161086, u'red_wine', 0.16469266, u'cocktail_shaker', 0.024532756, u'fig', 0.022763276, u'chocolate_sauce', 0.010674247]
+[u'minivan', 0.83908474, u'minibus', 0.095259875, u'police_van', 0.030935204, u'moving_van', 0.019559173, u'pickup', 0.0040051322]

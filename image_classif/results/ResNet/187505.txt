@@ -1,0 +1,5 @@
+[u'lumbermill', 0.43391159, u'fireboat', 0.1770425, u'container_ship', 0.082316935, u'crane', 0.071886837, u'harvester', 0.057819687]
+[u'tow_truck', 0.54522413, u'fire_engine', 0.19020912, u'racer', 0.14309675, u'tractor', 0.029575819, u'trailer_truck', 0.025707509]
+[u'fire_engine', 0.16940042, u'container_ship', 0.16602255, u'fireboat', 0.088471711, u'racer', 0.033284564, u'sports_car', 0.033155102]
+[u'racer', 0.91398823, u'sports_car', 0.071757376, u'fire_engine', 0.008674006, u'go-kart', 0.0021244548, u'tow_truck', 0.00086367253]
+[u'container_ship', 0.30408821, u'torch', 0.11193855, u'crossword_puzzle', 0.081208125, u'tobacco_shop', 0.051308475, u'scoreboard', 0.04599376]

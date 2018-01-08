@@ -1,0 +1,5 @@
+[u'safe', 0.20136009, u'projector', 0.1286428, u'radio', 0.099150963, u'modem', 0.089363568, u'cassette_player', 0.082082078]
+[u'barbershop', 0.92877257, u'tobacco_shop', 0.039270166, u'cinema', 0.016067581, u'bakery', 0.0032181563, u'bookshop', 0.0027245772]
+[u'spotlight', 0.99265927, u'loudspeaker', 0.0056354236, u'loupe', 0.00065847929, u'cassette_player', 0.00037647731, u'Polaroid_camera', 9.1904774e-05]
+[u'moving_van', 0.13725656, u'shopping_cart', 0.10929076, u'comic_book', 0.081557579, u'web_site', 0.058544617, u'book_jacket', 0.043165214]
+[u'moving_van', 0.82848144, u'trailer_truck', 0.13003194, u'ambulance', 0.01303894, u'mobile_home', 0.0078124669, u'trolleybus', 0.0058013098]

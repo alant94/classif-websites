@@ -1,0 +1,1 @@
+[u'conch', 0.46185282, u'candle', 0.1987054, u'ice_cream', 0.086422704, u'bakery', 0.022050656, u'chocolate_sauce', 0.020556852]

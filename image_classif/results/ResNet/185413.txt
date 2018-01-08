@@ -1,0 +1,1 @@
+[u'binder', 0.22350018, u'envelope', 0.21724363, u'web_site', 0.088311307, u'monitor', 0.083932869, u'television', 0.066555299]

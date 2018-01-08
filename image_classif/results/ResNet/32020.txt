@@ -1,0 +1,7 @@
+[u'screwdriver', 0.30119443, u'book_jacket', 0.13409315, u'slide_rule', 0.073834449, u'rule', 0.065663338, u'binder', 0.037167672]
+[u'slide_rule', 0.25793532, u'screwdriver', 0.21977726, u'rule', 0.20683528, u'barometer', 0.051087294, u'book_jacket', 0.047365412]
+[u'digital_clock', 0.56550479, u'digital_watch', 0.080857053, u'screwdriver', 0.045751117, u'gas_pump', 0.024984384, u'book_jacket', 0.022133715]
+[u'scoreboard', 0.49580956, u'crossword_puzzle', 0.077923536, u'digital_clock', 0.075284958, u'prayer_rug', 0.051780898, u'Windsor_tie', 0.028893616]
+[u'screwdriver', 0.52102363, u'rule', 0.16309792, u'slide_rule', 0.052593324, u"carpenter's_kit", 0.025760226, u'hammer', 0.024690863]
+[u'screwdriver', 0.48073912, u'rule', 0.1673236, u'slide_rule', 0.15625826, u'hammer', 0.028222047, u'book_jacket', 0.020591058]
+[u'slide_rule', 0.44805092, u'rule', 0.28225493, u'screwdriver', 0.12954184, u'barometer', 0.01834834, u'book_jacket', 0.011676056]

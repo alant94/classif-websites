@@ -1,0 +1,5 @@
+[u'oxygen_mask', 0.17912786, u'can_opener', 0.07595098, u'chain', 0.045469243, u'hook', 0.041471306, u'nipple', 0.026433911]
+[u'hard_disc', 0.14103878, u'loupe', 0.12179366, u'oscilloscope', 0.10875997, u'toilet_seat', 0.10295842, u'medicine_chest', 0.074622855]
+[u'laptop', 0.1561082, u'hard_disc', 0.12557949, u'binder', 0.12112388, u'iPod', 0.096519306, u'hand-held_computer', 0.05528827]
+[u'traffic_light', 0.49840829, u'oscilloscope', 0.15334724, u'street_sign', 0.094944075, u'digital_clock', 0.048271075, u'laptop', 0.043689243]
+[u'shield', 0.20597103, u'traffic_light', 0.10486136, u'lighter', 0.10279363, u'folding_chair', 0.072750621, u'street_sign', 0.070949554]

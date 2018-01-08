@@ -1,0 +1,7 @@
+[u'crossword_puzzle', 0.26788485, u'web_site', 0.10246307, u'scoreboard', 0.098597176, u'jigsaw_puzzle', 0.027461035, u'vending_machine', 0.02031363]
+[u'vending_machine', 0.1657007, u'web_site', 0.094601788, u'hair_spray', 0.074342996, u'monitor', 0.058464594, u'lighter', 0.050670262]
+[u'vending_machine', 0.98418242, u'hair_spray', 0.0028669403, u'switch', 0.0012531641, u'whistle', 0.00092414208, u'analog_clock', 0.00077895075]
+[u'vending_machine', 0.70556581, u'switch', 0.20338827, u'combination_lock', 0.027619986, u'hair_spray', 0.022069748, u'web_site', 0.0087739183]
+[u'vending_machine', 0.17432596, u'web_site', 0.15614158, u'scoreboard', 0.088910006, u'analog_clock', 0.058501966, u'binder', 0.032378521]
+[u'rule', 0.41303748, u'web_site', 0.22804983, u'oscilloscope', 0.079368711, u'monitor', 0.047872443, u'screen', 0.047561411]
+[u'vending_machine', 0.28132671, u'web_site', 0.14179991, u'hair_spray', 0.10655131, u'bannister', 0.068165332, u'rule', 0.055581518]

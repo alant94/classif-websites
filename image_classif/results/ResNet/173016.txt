@@ -1,0 +1,2 @@
+[u'cowboy_hat', 0.35885897, u'bearskin', 0.08711724, u'trench_coat', 0.055390485, u'bolo_tie', 0.045006253, u'apron', 0.031494565]
+[u'vestment', 0.68726873, u'apron', 0.027347622, u'hoopskirt', 0.019246208, u'sarong', 0.010947398, u'overskirt', 0.010238428]

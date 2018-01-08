@@ -1,0 +1,8 @@
+[u'coho', 0.29974401, u'curly-coated_retriever', 0.081461422, u'fountain', 0.061384112, u'water_buffalo', 0.048417933, u'flat-coated_retriever', 0.038946107]
+[u'swing', 0.93032104, u'Irish_water_spaniel', 0.0091167288, u'Kerry_blue_terrier', 0.0042182435, u'standard_poodle', 0.0038748423, u'park_bench', 0.0031350984]
+[u'African_hunting_dog', 0.15947832, u'dhole', 0.15552202, u'Eskimo_dog', 0.11840533, u'dogsled', 0.05680396, u'cougar', 0.033939969]
+[u'hartebeest', 0.3274436, u'gazelle', 0.28696677, u'impala', 0.11469222, u'bighorn', 0.099611267, u'ibex', 0.080028452]
+[u'hair_slide', 0.50544125, u'cornet', 0.0903413, u'web_site', 0.088754073, u'buckle', 0.030273044, u'binder', 0.011190777]
+[u'boathouse', 0.3291187, u'mobile_home', 0.17169455, u'birdhouse', 0.16503595, u'cinema', 0.12847351, u'lumbermill', 0.061176617]
+[u'ibex', 0.58285868, u'ram', 0.21056741, u'bighorn', 0.19555837, u'hartebeest', 0.0037390676, u'impala', 0.00060729298]
+[u'American_black_bear', 0.84893686, u'wild_boar', 0.029557424, u'Bouvier_des_Flandres', 0.019327858, u'groenendael', 0.01861172, u'Newfoundland', 0.01204126]

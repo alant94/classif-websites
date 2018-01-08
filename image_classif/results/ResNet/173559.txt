@@ -1,0 +1,5 @@
+[u'face_powder', 0.35183844, u'envelope', 0.2941027, u'book_jacket', 0.12067452, u'perfume', 0.038609091, u'handkerchief', 0.034347232]
+[u'eggnog', 0.18200465, u'velvet', 0.12272292, u'conch', 0.062354457, u'bonnet', 0.055504948, u'cloak', 0.037453532]
+[u'restaurant', 0.38464653, u'dining_table', 0.28348401, u'bakery', 0.097751349, u'patio', 0.075489141, u'china_cabinet', 0.045418344]
+[u'tobacco_shop', 0.2675263, u'medicine_chest', 0.14286613, u'stole', 0.071043134, u'shoe_shop', 0.063369446, u'vending_machine', 0.036060862]
+[u'puck', 0.85756797, u'jersey', 0.012354655, u'face_powder', 0.0090822577, u'book_jacket', 0.0084273731, u'buckle', 0.0079361321]

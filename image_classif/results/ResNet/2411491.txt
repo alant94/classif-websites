@@ -1,0 +1,2 @@
+[u'monitor', 0.29201719, u'web_site', 0.13833252, u'book_jacket', 0.10304067, u'mouse', 0.082926683, u'cassette', 0.062572286]
+[u'cassette', 0.17097932, u'paintbrush', 0.11540334, u'web_site', 0.07656052, u'monitor', 0.058861312, u'packet', 0.058163356]

@@ -1,0 +1,6 @@
+[u'fountain', 0.96768916, u'spider_web', 0.0076303785, u'snowplow', 0.0016542772, u'canoe', 0.00124077, u'paddle', 0.0011888712]
+[u'cliff', 0.18809605, u'umbrella', 0.16155936, u'mountain_tent', 0.052602075, u'fountain', 0.051362116, u'cloak', 0.049745448]
+[u'swing', 0.083399124, u'chainlink_fence', 0.053136855, u'padlock', 0.048885744, u'ox', 0.043912329, u'llama', 0.040924564]
+[u'Rhodesian_ridgeback', 0.10824004, u'Gordon_setter', 0.080320187, u'cliff', 0.078627512, u'ear', 0.057767171, u'ibex', 0.04476738]
+[u'shovel', 0.4795748, u'coyote', 0.031229913, u'wallaby', 0.030474894, u'chain_saw', 0.025071753, u'hare', 0.019928018]
+[u'banjo', 0.72606826, u'drum', 0.19428732, u'gong', 0.043089006, u'scale', 0.0036103022, u'spotlight', 0.002519073]

@@ -1,0 +1,7 @@
+[u'web_site', 0.74999309, u'Band_Aid', 0.037168074, u'street_sign', 0.036102325, u'moving_van', 0.03190982, u'digital_clock', 0.030282686]
+[u'Gordon_setter', 0.66576248, u'Rottweiler', 0.11267382, u'Yorkshire_terrier', 0.051657218, u'Doberman', 0.034960389, u'miniature_pinscher', 0.019674355]
+[u'proboscis_monkey', 0.24023378, u'window_screen', 0.14618601, u"potter's_wheel", 0.061748587, u'brambling', 0.060660318, u'miniature_pinscher', 0.053909715]
+[u'miniature_pinscher', 0.51264262, u'Rottweiler', 0.074602254, u'kelpie', 0.063057169, u'Brabancon_griffon', 0.063018337, u'toy_terrier', 0.042376913]
+[u'whistle', 0.90759182, u'digital_clock', 0.0066455249, u'oil_filter', 0.0053356909, u'switch', 0.0048172306, u'Band_Aid', 0.0045634187]
+[u'envelope', 0.097470611, u'dishwasher', 0.036115825, u'binder', 0.030520193, u'nematode', 0.028998993, u'fire_screen', 0.028642837]
+[u'ski_mask', 0.57028461, u'digital_clock', 0.11739276, u'mask', 0.041060355, u'remote_control', 0.031699128, u'stopwatch', 0.017677184]

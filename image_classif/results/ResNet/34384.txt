@@ -1,0 +1,1 @@
+[u'envelope', 0.083186701, u'web_site', 0.064845391, u'dishwasher', 0.055250783, u'soap_dispenser', 0.035616651, u'washer', 0.034225732]

@@ -1,0 +1,4 @@
+[u'binder', 0.47365814, u'prayer_rug', 0.18457648, u'doormat', 0.074326351, u'envelope', 0.07417319, u'folding_chair', 0.073347092]
+[u'envelope', 0.4189893, u'scale', 0.19443418, u'bath_towel', 0.038012333, u'poncho', 0.034175832, u'sweatshirt', 0.029297223]
+[u'web_site', 0.19453585, u'electric_locomotive', 0.069657899, u'envelope', 0.065283574, u'bullet_train', 0.059668951, u'sliding_door', 0.046444621]
+[u'velvet', 0.76383525, u'fur_coat', 0.087010257, u'trench_coat', 0.05681565, u'cloak', 0.051940743, u'stole', 0.013652021]

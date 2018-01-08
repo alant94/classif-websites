@@ -1,0 +1,4 @@
+[u'shower_curtain', 0.39233658, u'crossword_puzzle', 0.20026994, u'quilt', 0.068323612, u'prayer_rug', 0.068080999, u'tray', 0.055429649]
+[u'crossword_puzzle', 0.92113155, u'tray', 0.011427156, u'digital_clock', 0.010976808, u'pillow', 0.0057149669, u'cash_machine', 0.0049391589]
+[u'web_site', 0.54497147, u'digital_clock', 0.03823293, u'church', 0.031556685, u'stopwatch', 0.021531438, u'television', 0.017261954]
+[u'crossword_puzzle', 0.67110044, u'digital_clock', 0.12905025, u'digital_watch', 0.10181123, u'scoreboard', 0.068561807, u'book_jacket', 0.009523971]

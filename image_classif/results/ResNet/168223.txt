@@ -1,0 +1,1 @@
+[u'hand_blower', 0.11055499, u'hair_spray', 0.10838792, u'electric_guitar', 0.10648987, u"carpenter's_kit", 0.068321802, u'lotion', 0.058207791]

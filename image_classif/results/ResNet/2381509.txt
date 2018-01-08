@@ -1,0 +1,8 @@
+[u'chocolate_sauce', 0.21993394, u'trifle', 0.20312399, u'lighter', 0.11426237, u'eggnog', 0.094868489, u'ice_cream', 0.085428931]
+[u'bittern', 0.50303578, u'ear', 0.2007854, u'European_gallinule', 0.034463603, u'hay', 0.031865995, u'crane', 0.029008562]
+[u'gas_pump', 0.20597918, u'bow', 0.083363071, u'hook', 0.051047791, u'web_site', 0.041614156, u'vacuum', 0.035362247]
+[u'candle', 0.24498993, u'paintbrush', 0.1342904, u'nipple', 0.077553689, u'web_site', 0.052074287, u'screwdriver', 0.049334832]
+[u'digital_clock', 0.35969815, u'digital_watch', 0.048060182, u'wall_clock', 0.043562595, u'Band_Aid', 0.036075365, u'analog_clock', 0.029332828]
+[u'palace', 0.93473154, u'library', 0.041255936, u'flagpole', 0.0050524524, u'prison', 0.004991876, u'fountain', 0.0015135258]
+[u'beer_glass', 0.95582139, u'barrel', 0.004199604, u'sunglass', 0.0040812325, u'sunglasses', 0.0040051048, u'beer_bottle', 0.0035528264]
+[u'chime', 0.65087801, u'folding_chair', 0.032514088, u'shoji', 0.03088741, u'panpipe', 0.024040837, u'gong', 0.022195403]

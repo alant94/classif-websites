@@ -1,0 +1,4 @@
+[u'web_site', 0.56762809, u'notebook', 0.026145674, u'television', 0.022278804, u'miniskirt', 0.019639444, u'fur_coat', 0.016182529]
+[u'bikini', 0.83944672, u'brassiere', 0.071402654, u'maillot', 0.062395025, u'maillot', 0.0052855154, u'sunscreen', 0.0025852351]
+[u'brassiere', 0.63688749, u'maillot', 0.068167716, u'bikini', 0.064881288, u'maillot', 0.051728886, u'web_site', 0.022099083]
+[u'web_site', 0.4481616, u'maillot', 0.061780661, u'miniskirt', 0.053195897, u'comic_book', 0.051853813, u'hair_spray', 0.037579816]

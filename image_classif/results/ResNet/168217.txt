@@ -1,0 +1,7 @@
+[u'cassette', 0.46051106, u'quill', 0.075344607, u'harmonica', 0.068516649, u'scabbard', 0.047117714, u'plane', 0.042385541]
+[u'spotted_salamander', 0.88527524, u'common_newt', 0.050153729, u'European_fire_salamander', 0.030283701, u'sea_snake', 0.025456553, u'ringneck_snake', 0.0045005837]
+[u'jigsaw_puzzle', 0.26934406, u'parachute', 0.2090546, u'pinwheel', 0.19539234, u'strawberry', 0.058783516, u'television', 0.027263571]
+[u'digital_clock', 0.21852604, u'scoreboard', 0.12651201, u'hair_spray', 0.051297553, u'ski', 0.035308346, u'Sussex_spaniel', 0.029130997]
+[u'pencil_sharpener', 0.2579051, u'loupe', 0.10415886, u'switch', 0.076655723, u'oil_filter', 0.053610358, u'plunger', 0.039208617]
+[u'fireboat', 0.30154037, u'crane', 0.071869045, u'fire_screen', 0.068491392, u'pier', 0.060534935, u'airship', 0.039558731]
+[u'nipple', 0.95446265, u'black-footed_ferret', 0.0075690066, u'Chihuahua', 0.0062689157, u'loupe', 0.0042968392, u'harmonica', 0.0026214526]

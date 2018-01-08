@@ -1,0 +1,2 @@
+[u'cardoon', 0.39231727, u'sulphur_butterfly', 0.18906942, u'bee', 0.12207542, u'lorikeet', 0.04406241, u'cabbage_butterfly', 0.029079333]
+[u'tiger', 0.94480753, u'tiger_cat', 0.05372547, u'zebra', 0.00069232675, u'lynx', 9.0520647e-05, u'impala', 8.4564308e-05]

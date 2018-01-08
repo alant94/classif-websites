@@ -1,0 +1,8 @@
+[u'television', 0.26072526, u'tray', 0.12778054, u'cash_machine', 0.055836551, u'safe', 0.055152729, u'web_site', 0.054340459]
+[u'toilet_seat', 0.16815765, u'oil_filter', 0.067872405, u'frying_pan', 0.056219421, u'plate_rack', 0.045046382, u'bolo_tie', 0.043316551]
+[u'jellyfish', 0.21920383, u'bubble', 0.1162217, u'matchstick', 0.09651994, u'ice_bear', 0.08214955, u'dugong', 0.057841428]
+[u'analog_clock', 0.41489944, u'Band_Aid', 0.12496426, u'web_site', 0.052570812, u'whistle', 0.043415517, u'sunscreen', 0.041733023]
+[u'television', 0.35987607, u'screen', 0.12981832, u'monitor', 0.10898759, u'wardrobe', 0.07941252, u'sliding_door', 0.064347155]
+[u'crossword_puzzle', 0.28862849, u'tray', 0.1748593, u'quilt', 0.11137037, u'wall_clock', 0.078313187, u'shield', 0.065423891]
+[u'screen', 0.2375304, u'crossword_puzzle', 0.18133093, u'monitor', 0.15002614, u'wall_clock', 0.0913091, u'television', 0.069212958]
+[u'crossword_puzzle', 0.69297916, u'bow', 0.042162366, u'picket_fence', 0.016297098, u'ballpoint', 0.013261361, u'digital_watch', 0.012641329]

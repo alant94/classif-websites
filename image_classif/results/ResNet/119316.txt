@@ -1,0 +1,1 @@
+[u'tank', 0.82641476, u'lawn_mower', 0.035161618, u'cannon', 0.031005526, u'amphibian', 0.022684366, u'typewriter_keyboard', 0.010441905]

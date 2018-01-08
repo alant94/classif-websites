@@ -1,0 +1,1 @@
+[u'binder', 0.143491, u'crossword_puzzle', 0.13698263, u'comic_book', 0.076095618, u'book_jacket', 0.071444355, u'jigsaw_puzzle', 0.037957385]

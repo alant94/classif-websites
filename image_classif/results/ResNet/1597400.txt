@@ -1,0 +1,2 @@
+[u'neck_brace', 0.81371176, u'toilet_seat', 0.061631162, u'bib', 0.029514803, u'toilet_tissue', 0.014709411, u'ski_mask', 0.0079819085]
+[u'shower_curtain', 0.069650672, u'mask', 0.056728236, u'wig', 0.056438919, u'red_wine', 0.035718765, u'hotdog', 0.032946896]

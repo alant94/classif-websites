@@ -1,0 +1,4 @@
+[u'street_sign', 0.12859379, u'sweatshirt', 0.063336775, u'scuba_diver', 0.041025694, u'binder', 0.037633568, u'electric_ray', 0.036901951]
+[u'comic_book', 0.75453782, u'book_jacket', 0.063454792, u'screwdriver', 0.04734946, u'picket_fence', 0.019356385, u'web_site', 0.012348478]
+[u'digital_clock', 0.14854601, u'laptop', 0.10487316, u'street_sign', 0.077895962, u'traffic_light', 0.050307464, u'maze', 0.034321927]
+[u'rubber_eraser', 0.22997867, u'packet', 0.1813395, u'matchstick', 0.076406613, u'doormat', 0.075531505, u'lighter', 0.059430104]

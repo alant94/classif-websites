@@ -1,0 +1,3 @@
+[u'alp', 0.36251122, u'valley', 0.2385246, u'maze', 0.12312011, u'lakeside', 0.044291757, u'stupa', 0.03999386]
+[u'valley', 0.46119562, u'lakeside', 0.17404287, u'seashore', 0.058696263, u'geyser', 0.047849603, u'alp', 0.041162249]
+[u'valley', 0.6742599, u'alp', 0.17755803, u'lakeside', 0.047424614, u'castle', 0.02966922, u'seashore', 0.018019091]

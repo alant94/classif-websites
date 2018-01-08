@@ -1,0 +1,6 @@
+[u'dalmatian', 0.99967968, u'Great_Dane', 8.4487729e-05, u'muzzle', 4.2531621e-05, u'English_setter', 2.8294231e-05, u'kuvasz', 2.7580658e-05]
+[u'kelpie', 0.27609161, u'Walker_hound', 0.096932329, u'Siberian_husky', 0.094273597, u'Ibizan_hound', 0.052093022, u'German_shepherd', 0.041829627]
+[u'dalmatian', 0.99919289, u'Great_Dane', 0.00034432282, u'muzzle', 0.00024302173, u'kuvasz', 2.1192738e-05, u'German_short-haired_pointer', 2.0494606e-05]
+[u'tobacco_shop', 0.23532285, u'street_sign', 0.064772844, u'web_site', 0.04096771, u'cash_machine', 0.034671396, u'sunscreen', 0.033304702]
+[u'web_site', 0.99257964, u'book_jacket', 0.0019517259, u'comic_book', 0.00150122, u'monitor', 0.00068473781, u'desk', 0.00040197538]
+[u'sunscreen', 0.5970726, u'Band_Aid', 0.066125184, u'notebook', 0.037748493, u'hand-held_computer', 0.029568696, u'oxygen_mask', 0.023086704]

@@ -1,0 +1,2 @@
+[u'book_jacket', 0.31870028, u'comic_book', 0.083509825, u'web_site', 0.078737251, u'bookshop', 0.076688267, u'television', 0.045203317]
+[u'web_site', 0.97248453, u'wig', 0.0027784335, u'bikini', 0.001562284, u'maillot', 0.00093742087, u'comic_book', 0.00069797266]

@@ -1,0 +1,6 @@
+[u'golden_retriever', 0.43800533, u'Labrador_retriever', 0.22764368, u'muzzle', 0.09968888, u'tennis_ball', 0.065985411, u'Great_Pyrenees', 0.061019719]
+[u'triumphal_arch', 0.79645199, u'rifle', 0.034411136, u'chain_saw', 0.017411811, u'assault_rifle', 0.013818637, u'church', 0.01281797]
+[u'web_site', 0.18206351, u'envelope', 0.11630709, u'book_jacket', 0.10441725, u'sunscreen', 0.048873641, u'menu', 0.02212883]
+[u'book_jacket', 0.26562315, u'web_site', 0.22557618, u'sunscreen', 0.053002141, u'envelope', 0.052782942, u'street_sign', 0.041463424]
+[u'tabby', 0.31564257, u'Egyptian_cat', 0.1047399, u'Persian_cat', 0.10350592, u'bucket', 0.031387884, u'doormat', 0.029361757]
+[u'packet', 0.34965295, u'mousetrap', 0.12730613, u'Band_Aid', 0.11287048, u'book_jacket', 0.041437205, u'oil_filter', 0.040718324]

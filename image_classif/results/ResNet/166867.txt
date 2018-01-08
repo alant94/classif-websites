@@ -1,0 +1,2 @@
+[u'television', 0.30034494, u'web_site', 0.11761823, u'knee_pad', 0.076646231, u'screen', 0.07044147, u'rock_beauty', 0.059605561]
+[u'bottlecap', 0.44237441, u'sunscreen', 0.11208095, u'spaghetti_squash', 0.043202832, u'pill_bottle', 0.040317655, u'lotion', 0.030614149]

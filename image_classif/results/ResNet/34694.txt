@@ -1,0 +1,4 @@
+[u'hard_disc', 0.32736596, u'menu', 0.26728338, u'crossword_puzzle', 0.071415626, u'comic_book', 0.048530027, u'screw', 0.031495433]
+[u'vestment', 0.072082743, u'accordion', 0.051166505, u'trench_coat', 0.03218301, u'academic_gown', 0.031902943, u'cardigan', 0.029447014]
+[u'web_site', 0.47382516, u'rule', 0.083368056, u'envelope', 0.05569711, u'analog_clock', 0.030220401, u'crossword_puzzle', 0.024772193]
+[u'web_site', 0.092809647, u'hook', 0.052146364, u'bow', 0.037701711, u'safety_pin', 0.033903386, u'whistle', 0.022810888]

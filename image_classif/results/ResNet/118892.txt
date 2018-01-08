@@ -1,0 +1,2 @@
+[u'violin', 0.28956217, u'cello', 0.12660238, u'bow', 0.072636314, u'corkscrew', 0.05824101, u'electric_guitar', 0.053320736]
+[u'folding_chair', 0.12170207, u'hamper', 0.1205804, u'jersey', 0.11530116, u'whistle', 0.049293827, u'envelope', 0.036862288]

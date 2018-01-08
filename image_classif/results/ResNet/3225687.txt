@@ -1,0 +1,3 @@
+[u'rubber_eraser', 0.10558004, u'plate_rack', 0.074437343, u'barn_spider', 0.070672214, u'fire_screen', 0.065713875, u'bloodhound', 0.059407979]
+[u'trombone', 0.2049455, u'oboe', 0.16234648, u'cornet', 0.12207559, u'bassoon', 0.11657558, u'French_horn', 0.091440603]
+[u'shield', 0.99518269, u'vestment', 0.0021284174, u'slot', 0.00090314291, u'wall_clock', 0.00029425803, u'drum', 0.00019167578]

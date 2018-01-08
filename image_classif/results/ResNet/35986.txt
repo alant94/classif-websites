@@ -1,0 +1,7 @@
+[u'football_helmet', 0.49083939, u'French_horn', 0.10552637, u'crash_helmet', 0.056545045, u'grille', 0.034887057, u'buckle', 0.018207716]
+[u'rugby_ball', 0.41957247, u'baseball', 0.26184085, u'bottlecap', 0.037128236, u'golf_ball', 0.032117102, u'football_helmet', 0.019571483]
+[u'hair_slide', 0.21964051, u'coil', 0.19894728, u'theater_curtain', 0.14973897, u'safety_pin', 0.084307738, u'hook', 0.054140445]
+[u'vending_machine', 0.16271645, u'remote_control', 0.15634251, u'modem', 0.121474, u'slot', 0.085269645, u'packet', 0.037452593]
+[u'remote_control', 0.27509668, u'hard_disc', 0.17493899, u'oscilloscope', 0.10254174, u'hand-held_computer', 0.086704873, u'packet', 0.072888568]
+[u'drum', 0.10705578, u'spotlight', 0.089125, u'hand_blower', 0.05906504, u'muzzle', 0.054290336, u'slot', 0.053203568]
+[u'web_site', 0.95247191, u'envelope', 0.032542352, u'rule', 0.0027901377, u'monitor', 0.0025416268, u'binder', 0.0018318336]

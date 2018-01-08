@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.1256483, u'chain', 0.11357177, u'cornet', 0.063659124, u'jersey', 0.04644483, u'coffee_mug', 0.040189151]
+[u'washer', 0.097143151, u'dishwasher', 0.078403108, u'refrigerator', 0.070877388, u'washbasin', 0.03414502, u'medicine_chest', 0.027675593]

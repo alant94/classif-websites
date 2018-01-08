@@ -1,0 +1,6 @@
+[u'library', 0.16895305, u'bannister', 0.076486968, u'pool_table', 0.076107584, u'maze', 0.062235016, u'patio', 0.048203215]
+[u'medicine_chest', 0.35038623, u'library', 0.12529619, u'container_ship', 0.10704924, u'file', 0.043664966, u'bookcase', 0.040101778]
+[u'valley', 0.76195991, u'alp', 0.090036459, u'lakeside', 0.038123328, u'viaduct', 0.030276157, u'castle', 0.024210531]
+[u'container_ship', 0.83531994, u'scoreboard', 0.021010466, u'beacon', 0.010167709, u'pole', 0.0060526216, u'maze', 0.0054764771]
+[u'maze', 0.88156563, u'scoreboard', 0.020562915, u'lakeside', 0.017868677, u'solar_dish', 0.011771287, u'balloon', 0.0085691446]
+[u'bell_cote', 0.34121844, u'pier', 0.082651526, u'dam', 0.07703279, u'flagpole', 0.073237978, u'palace', 0.050698586]

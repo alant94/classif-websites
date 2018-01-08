@@ -1,0 +1,8 @@
+[u'tow_truck', 0.1912384, u'limousine', 0.18531308, u'minivan', 0.082193181, u'snowplow', 0.046804108, u'pickup', 0.044103954]
+[u'tripod', 0.3509964, u'web_site', 0.13854991, u'scale', 0.10783092, u'radio_telescope', 0.025176084, u'spotlight', 0.021947529]
+[u'web_site', 0.41576287, u'envelope', 0.10455412, u'book_jacket', 0.086465821, u'nail', 0.038235262, u'carton', 0.037450183]
+[u'tripod', 0.71175587, u'web_site', 0.044270404, u'analog_clock', 0.029894253, u'wall_clock', 0.025082756, u'binoculars', 0.011508451]
+[u'revolver', 0.096842475, u'backpack', 0.088026188, u'reflex_camera', 0.046262335, u'vacuum', 0.045004912, u'knee_pad', 0.041796029]
+[u'web_site', 0.60517675, u'stopwatch', 0.051958203, u'sunglasses', 0.022947442, u'digital_clock', 0.021135982, u'puck', 0.016254896]
+[u'revolver', 0.31318974, u'holster', 0.2314842, u'hand_blower', 0.13895021, u'rhinoceros_beetle', 0.0233522, u'ground_beetle', 0.01719881]
+[u'crane', 0.32655102, u'swing', 0.15553159, u'web_site', 0.084802039, u'scale', 0.058722313, u'oscilloscope', 0.041332837]

@@ -1,0 +1,1 @@
+[u'stretcher', 0.12949733, u'grand_piano', 0.073274091, u'desk', 0.057112224, u'pool_table', 0.049722895, u'neck_brace', 0.047371455]

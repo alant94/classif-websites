@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.59212905, u'bottlecap', 0.080122888, u'loupe', 0.073853008, u'digital_clock', 0.067290626, u'traffic_light', 0.019569473]

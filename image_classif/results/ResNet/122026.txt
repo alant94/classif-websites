@@ -1,0 +1,6 @@
+[u'fire_screen', 0.2785551, u'dining_table', 0.080339633, u'vault', 0.061697919, u"potter's_wheel", 0.040372018, u'altar', 0.039539304]
+[u'barrel', 0.52967137, u'gong', 0.15989588, u'triceratops', 0.060815532, u'prairie_chicken', 0.044114009, u'plate_rack', 0.023722019]
+[u'toyshop', 0.18556003, u'perfume', 0.068152294, u'comic_book', 0.052432459, u'altar', 0.04353819, u'container_ship', 0.043497853]
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]
+[u'harp', 0.052753095, u'bassoon', 0.050988451, u'projectile', 0.048789058, u'bikini', 0.037620593, u'brassiere', 0.037541654]
+[u'breastplate', 0.4903416, u'cuirass', 0.21774678, u'mask', 0.051091548, u'wig', 0.048096601, u'vestment', 0.040886454]

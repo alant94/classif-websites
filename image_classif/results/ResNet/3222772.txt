@@ -1,0 +1,7 @@
+[u'web_site', 0.16672565, u'street_sign', 0.044298645, u'envelope', 0.041804586, u'oil_filter', 0.021277668, u'packet', 0.018795097]
+[u'handkerchief', 0.80456662, u'bonnet', 0.09624733, u'sandal', 0.019493114, u'clog', 0.015485755, u'Windsor_tie', 0.0083379243]
+[u'web_site', 0.19304278, u'shield', 0.083612084, u'digital_clock', 0.065396771, u'Band_Aid', 0.058688778, u'wall_clock', 0.051091813]
+[u'sax', 0.17581226, u'oboe', 0.1661634, u'cornet', 0.14136386, u'flute', 0.13109304, u'bassoon', 0.11547029]
+[u'balloon', 0.44365916, u'accordion', 0.16605736, u'throne', 0.037425067, u'abaya', 0.029439157, u'rocking_chair', 0.020396899]
+[u'web_site', 0.3690131, u'ski', 0.14866456, u'bearskin', 0.097683109, u'theater_curtain', 0.059682596, u'scoreboard', 0.026646031]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

@@ -1,0 +1,3 @@
+[u'bulletproof_vest', 0.29699323, u'military_uniform', 0.085136943, u'projectile', 0.035981294, u'half_track', 0.026355097, u'stretcher', 0.022138361]
+[u'bolo_tie', 0.30823299, u'hair_slide', 0.18851179, u'gasmask', 0.13165529, u'buckle', 0.091749504, u'ocarina', 0.044501577]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

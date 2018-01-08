@@ -1,0 +1,4 @@
+[u'bucket', 0.40425622, u'buckle', 0.27555236, u'mixing_bowl', 0.054591924, u'cup', 0.051619504, u'strainer', 0.040409144]
+[u'picket_fence', 0.22671649, u'paintbrush', 0.16317976, u'worm_fence', 0.1388111, u'screwdriver', 0.092554852, u'umbrella', 0.083826169]
+[u'web_site', 0.36877236, u'shoji', 0.035538178, u'matchstick', 0.025621356, u'bannister', 0.021642238, u'nematode', 0.016906362]
+[u'buckle', 0.68890619, u'drum', 0.23509035, u'bathtub', 0.013397234, u'steel_drum', 0.0091166934, u'washbasin', 0.0049030874]

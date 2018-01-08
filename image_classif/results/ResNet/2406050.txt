@@ -1,0 +1,7 @@
+[u'fire_engine', 0.14391731, u'forklift', 0.13901898, u'barrel', 0.10596102, u'half_track', 0.064433508, u'photocopier', 0.060106248]
+[u'spotlight', 0.6732685, u'binoculars', 0.066934116, u'chain_saw', 0.049992692, u'barrel', 0.015576278, u'toilet_seat', 0.013703635]
+[u'switch', 0.091428287, u'affenpinscher', 0.069239356, u'keeshond', 0.041882459, u'papillon', 0.034579173, u'Japanese_spaniel', 0.031032877]
+[u'gas_pump', 0.2144368, u'pencil_sharpener', 0.056424957, u'harvester', 0.052640155, u'printer', 0.036325742, u'guillotine', 0.035031307]
+[u'pickup', 0.15021618, u'minivan', 0.057385728, u'fire_engine', 0.043342866, u'minibus', 0.040923998, u'beach_wagon', 0.024787173]
+[u'switch', 0.22615761, u'tape_player', 0.15158835, u'cassette_player', 0.11260116, u'joystick', 0.055262677, u'radio', 0.052718259]
+[u'sewing_machine', 0.26194027, u'scale', 0.081358247, u'espresso_maker', 0.066022344, u'power_drill', 0.055445585, u'microwave', 0.04904544]

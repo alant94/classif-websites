@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.66277915, u'tray', 0.054712247, u'hamper', 0.042542946, u'soap_dispenser', 0.021110114, u'quilt', 0.019510429]
+[u'web_site', 0.23381117, u'oil_filter', 0.057992186, u'Band_Aid', 0.023591919, u'sunscreen', 0.021761373, u'envelope', 0.020811288]

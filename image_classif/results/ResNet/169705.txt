@@ -1,0 +1,2 @@
+[u'spotlight', 0.16853361, u'dumbbell', 0.13169797, u'barrel', 0.11263178, u'plate_rack', 0.083835438, u'binoculars', 0.075728029]
+[u'American_lobster', 0.17744072, u'lumbermill', 0.033579718, u'jersey', 0.027923116, u'power_drill', 0.024910042, u'Dungeness_crab', 0.021629179]

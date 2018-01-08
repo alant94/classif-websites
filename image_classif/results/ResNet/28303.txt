@@ -1,0 +1,2 @@
+[u'ballpoint', 0.49539706, u'quill', 0.182606, u'hair_spray', 0.057535637, u'candle', 0.040653344, u'rubber_eraser', 0.022029083]
+[u'web_site', 0.78618997, u'iron', 0.020326588, u'analog_clock', 0.015155559, u'street_sign', 0.010266364, u'toilet_seat', 0.0080870586]

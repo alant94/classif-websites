@@ -1,0 +1,1 @@
+[u'web_site', 0.59512872, u'pick', 0.034919545, u'tennis_ball', 0.021678057, u'football_helmet', 0.02115559, u'stopwatch', 0.019125892]

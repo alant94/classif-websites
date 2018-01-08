@@ -1,0 +1,6 @@
+[u'digital_clock', 0.090511635, u'web_site', 0.05232425, u'stopwatch', 0.043796916, u'analog_clock', 0.039240811, u'digital_watch', 0.037447754]
+[u'digital_clock', 0.2998895, u'analog_clock', 0.054986794, u'digital_watch', 0.048668817, u'oscilloscope', 0.048325203, u'stopwatch', 0.043618146]
+[u'digital_clock', 0.23782279, u'CD_player', 0.071629591, u'stopwatch', 0.057613607, u'remote_control', 0.056997236, u'laptop', 0.056049019]
+[u'digital_clock', 0.056372449, u'web_site', 0.045951795, u'analog_clock', 0.038841013, u'stopwatch', 0.034107417, u'oscilloscope', 0.030386668]
+[u'digital_clock', 0.28559169, u'digital_watch', 0.16868971, u'analog_clock', 0.065017231, u'stopwatch', 0.035075001, u'screen', 0.031872451]
+[u'digital_clock', 0.42233738, u'stopwatch', 0.084820919, u'digital_watch', 0.067202039, u'analog_clock', 0.063516751, u'screen', 0.044288233]

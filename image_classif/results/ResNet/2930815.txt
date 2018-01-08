@@ -1,0 +1,4 @@
+[u'notebook', 0.057078134, u'hair_spray', 0.045313898, u'dumbbell', 0.044197831, u'hammer', 0.03789882, u'sunscreen', 0.035894614]
+[u'Band_Aid', 0.26909876, u'matchstick', 0.20738928, u'packet', 0.051661886, u'lighter', 0.04787663, u'thimble', 0.037350774]
+[u'web_site', 0.35135171, u'screw', 0.027976744, u'hook', 0.022501782, u'hair_spray', 0.019129988, u'can_opener', 0.018525416]
+[u'scale', 0.11405249, u'iron', 0.04892806, u'spatula', 0.036320686, u'frying_pan', 0.027810786, u'analog_clock', 0.023508178]

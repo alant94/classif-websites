@@ -1,0 +1,2 @@
+[u'suit', 0.71360254, u'vestment', 0.027666589, u'Windsor_tie', 0.02269727, u'crutch', 0.018273145, u'notebook', 0.014492663]
+[u'bookshop', 0.36774114, u'library', 0.14205863, u'cinema', 0.092113003, u'flagpole', 0.080535933, u'restaurant', 0.048688825]

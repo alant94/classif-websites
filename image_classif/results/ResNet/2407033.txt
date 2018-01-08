@@ -1,0 +1,2 @@
+[u'folding_chair', 0.1527174, u'digital_clock', 0.10051214, u'street_sign', 0.091471665, u'sweatshirt', 0.041910406, u'ashcan', 0.033020854]
+[u'digital_clock', 0.84451449, u'folding_chair', 0.050428573, u'digital_watch', 0.017235406, u'street_sign', 0.014406306, u'traffic_light', 0.012529928]

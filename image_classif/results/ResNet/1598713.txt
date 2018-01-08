@@ -1,0 +1,8 @@
+[u'maillot', 0.33527648, u'maillot', 0.2878142, u'bikini', 0.097111695, u'bathing_cap', 0.049630035, u'swimming_trunks', 0.029282698]
+[u'bikini', 0.27421367, u'maillot', 0.2568593, u'maillot', 0.13273177, u'comic_book', 0.039719097, u'brassiere', 0.030159246]
+[u'bikini', 0.096766293, u'crayfish', 0.078401968, u'wig', 0.059908245, u'syringe', 0.055002507, u'spiny_lobster', 0.050438948]
+[u'crutch', 0.4887675, u'drumstick', 0.065695032, u'hand_blower', 0.062280331, u'pole', 0.034767471, u'plunger', 0.025157316]
+[u'maillot', 0.19222838, u'plunger', 0.13280104, u'pole', 0.12461543, u'bikini', 0.11382803, u'maillot', 0.070580162]
+[u'brassiere', 0.21868294, u'miniskirt', 0.11630567, u'bikini', 0.068155795, u'wig', 0.04496558, u'convertible', 0.034021508]
+[u'maillot', 0.3109034, u'brassiere', 0.26665533, u'bikini', 0.1544275, u'maillot', 0.09105698, u'miniskirt', 0.033716477]
+[u'wig', 0.19818851, u'brassiere', 0.1581752, u'miniskirt', 0.11374868, u'bikini', 0.098048978, u'maillot', 0.038061973]

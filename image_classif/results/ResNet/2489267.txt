@@ -1,0 +1,5 @@
+[u'ibex', 0.67316568, u'hartebeest', 0.21639526, u'television', 0.034612708, u'web_site', 0.014369263, u'screen', 0.0073120021]
+[u'ibex', 0.30135962, u'web_site', 0.15043207, u'television', 0.10526478, u'drum', 0.054981411, u'bow', 0.032925986]
+[u'web_site', 0.92083138, u'envelope', 0.021727145, u'book_jacket', 0.0096230172, u'prayer_rug', 0.0018589394, u'hook', 0.0018107679]
+[u'web_site', 0.34767494, u'book_jacket', 0.31404719, u'pretzel', 0.1092745, u'comic_book', 0.056602266, u'starfish', 0.02409419]
+[u'web_site', 0.37152728, u'book_jacket', 0.17302902, u'cheetah', 0.07589376, u'military_uniform', 0.052703373, u'comic_book', 0.017508656]

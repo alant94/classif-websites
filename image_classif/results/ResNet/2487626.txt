@@ -1,0 +1,4 @@
+[u'web_site', 0.13982457, u'hand-held_computer', 0.11501491, u'lab_coat', 0.092797227, u'Windsor_tie', 0.050426695, u'suit', 0.043583084]
+[u'washer', 0.44984037, u'gas_pump', 0.12955129, u'refrigerator', 0.073341131, u'recreational_vehicle', 0.053599976, u'microwave', 0.041640166]
+[u'altar', 0.2224723, u'crane', 0.20135629, u'pier', 0.12392974, u'vault', 0.097297966, u'missile', 0.027703881]
+[u'vault', 0.16689508, u'pier', 0.12612097, u'viaduct', 0.12503631, u'fountain', 0.068130277, u'altar', 0.064447694]

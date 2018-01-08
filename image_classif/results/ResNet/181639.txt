@@ -1,0 +1,5 @@
+[u'desk', 0.12694888, u'projector', 0.11769483, u'printer', 0.060372032, u'desktop_computer', 0.052200031, u'suit', 0.051506046]
+[u'lighter', 0.52303118, u'can_opener', 0.099383496, u'water_bottle', 0.090216726, u'web_site', 0.045720831, u'hair_spray', 0.027512079]
+[u'digital_clock', 0.30252042, u'combination_lock', 0.19512266, u'puck', 0.054216303, u'analog_clock', 0.041622113, u'remote_control', 0.029127738]
+[u'screen', 0.18864436, u'television', 0.18830232, u'desktop_computer', 0.13543132, u'entertainment_center', 0.056966454, u'monitor', 0.044223014]
+[u'web_site', 0.15991718, u'hook', 0.043746993, u'nail', 0.043001119, u'chain_saw', 0.037298806, u'hair_spray', 0.023057904]

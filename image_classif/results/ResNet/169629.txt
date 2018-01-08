@@ -1,0 +1,3 @@
+[u'book_jacket', 0.99538702, u'comic_book', 0.0036074703, u'web_site', 7.6639881e-05, u'hair_spray', 6.4058229e-05, u'cash_machine', 3.9883365e-05]
+[u'book_jacket', 0.45142862, u'jersey', 0.37740293, u'sweatshirt', 0.017278574, u'abaya', 0.011274494, u'tray', 0.011253043]
+[u'book_jacket', 0.80755907, u'jersey', 0.063888393, u'comic_book', 0.012695844, u'abaya', 0.0095277065, u'scoreboard', 0.0062813489]

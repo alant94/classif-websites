@@ -1,0 +1,5 @@
+[u'apiary', 0.19563124, u'chain_saw', 0.11007879, u'barrow', 0.086797334, u'lumbermill', 0.062035583, u'mountain_bike', 0.025715793]
+[u'lab_coat', 0.72199684, u'picket_fence', 0.053319402, u'apiary', 0.031746387, u'worm_fence', 0.025906188, u'vestment', 0.013261506]
+[u"potter's_wheel", 0.45046628, u'plane', 0.044209398, u'candle', 0.034756627, u'iron', 0.033222552, u'marimba', 0.031136241]
+[u'banjo', 0.15321404, u'flute', 0.12562898, u'harp', 0.10121524, u'Indian_cobra', 0.069289014, u'neck_brace', 0.033201538]
+[u'unicycle', 0.70210612, u'mountain_bike', 0.28620586, u'bicycle-built-for-two', 0.0077571301, u'moped', 0.0017091746, u'crash_helmet', 0.0012144969]

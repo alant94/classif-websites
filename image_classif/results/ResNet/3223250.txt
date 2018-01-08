@@ -1,0 +1,3 @@
+[u'lab_coat', 0.6793946, u'suit', 0.15302123, u'croquet_ball', 0.096310131, u'groom', 0.038540497, u'military_uniform', 0.0077587073]
+[u'picket_fence', 0.21775073, u'patio', 0.16794248, u'greenhouse', 0.14213389, u'mobile_home', 0.12532476, u'thatch', 0.040785473]
+[u'book_jacket', 0.36423829, u'cash_machine', 0.22227761, u'ashcan', 0.052113134, u'tobacco_shop', 0.052057106, u'mailbox', 0.049441092]

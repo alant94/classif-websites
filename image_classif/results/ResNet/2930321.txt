@@ -1,0 +1,7 @@
+[u'traffic_light', 0.87339431, u'digital_clock', 0.030711509, u'church', 0.022817653, u'street_sign', 0.011451475, u'wall_clock', 0.0094396463]
+[u'web_site', 0.15293096, u'analog_clock', 0.041426849, u'street_sign', 0.040824667, u'hook', 0.025448028, u'safety_pin', 0.024948714]
+[u'bow_tie', 0.44554883, u'suit', 0.23072571, u'Windsor_tie', 0.14879237, u'military_uniform', 0.029278396, u'groom', 0.024912981]
+[u'grand_piano', 0.10315233, u'crutch', 0.062966697, u'military_uniform', 0.035173416, u'neck_brace', 0.030057969, u'mortarboard', 0.026930533]
+[u'analog_clock', 0.98529381, u'wall_clock', 0.012962056, u'stopwatch', 0.00053721003, u'digital_clock', 0.00051879679, u'barometer', 0.00014514681]
+[u'lab_coat', 0.2456937, u'vestment', 0.063534789, u'Windsor_tie', 0.061013523, u'banjo', 0.059279416, u'military_uniform', 0.054486606]
+[u'web_site', 0.1653997, u'oil_filter', 0.13712542, u'pill_bottle', 0.04867962, u'sunscreen', 0.033007462, u'remote_control', 0.031624455]

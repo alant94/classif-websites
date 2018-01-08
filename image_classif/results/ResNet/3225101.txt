@@ -1,0 +1,7 @@
+[u'pole', 0.1315867, u'castle', 0.11074394, u'monastery', 0.066219985, u'cab', 0.064914837, u'palace', 0.059943531]
+[u'vestment', 0.85492641, u'gong', 0.072342508, u'drum', 0.027704079, u'banjo', 0.011651263, u'altar', 0.0077711311]
+[u'oboe', 0.13582152, u'bassoon', 0.031604834, u'banjo', 0.031366792, u"potter's_wheel", 0.030950945, u'lab_coat', 0.028488411]
+[u'church', 0.77956301, u'stage', 0.097885512, u'vestment', 0.020578234, u'restaurant', 0.013328008, u'mosque', 0.013038736]
+[u'jigsaw_puzzle', 0.40384847, u'tobacco_shop', 0.19777775, u'carton', 0.098679028, u'confectionery', 0.080757216, u'butcher_shop', 0.037223127]
+[u'miniskirt', 0.29211348, u'lab_coat', 0.11960951, u'shoe_shop', 0.087893084, u'oboe', 0.063888602, u'wig', 0.049341701]
+[u'altar', 0.27900225, u'hoopskirt', 0.24915186, u'groom', 0.13993545, u'gown', 0.10815704, u'dining_table', 0.030004464]

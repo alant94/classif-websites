@@ -1,0 +1,3 @@
+[u'web_site', 0.23118339, u'envelope', 0.046852913, u'analog_clock', 0.045468215, u'wall_clock', 0.045189541, u'bow', 0.034876872]
+[u'digital_clock', 0.80998737, u'web_site', 0.077664025, u'analog_clock', 0.025625831, u'street_sign', 0.012381854, u'oscilloscope', 0.0089658704]
+[u'envelope', 0.34265724, u'web_site', 0.24790153, u'notebook', 0.012773113, u'can_opener', 0.01132468, u'jersey', 0.010538166]

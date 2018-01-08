@@ -1,0 +1,4 @@
+[u'freight_car', 0.11674351, u'church', 0.094881214, u'matchstick', 0.06920433, u'water_tower', 0.055466045, u'picket_fence', 0.055228885]
+[u'web_site', 0.39484194, u'iron', 0.095597915, u'moving_van', 0.06383919, u'shower_curtain', 0.032586019, u'toilet_seat', 0.032112718]
+[u'web_site', 0.45005351, u'street_sign', 0.075689487, u'rule', 0.054957878, u'digital_clock', 0.047281757, u'oscilloscope', 0.041406222]
+[u'web_site', 0.54095846, u'envelope', 0.27481532, u'bathing_cap', 0.051207952, u'oil_filter', 0.022677692, u'laptop', 0.019815782]

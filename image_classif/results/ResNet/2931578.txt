@@ -1,0 +1,8 @@
+[u'can_opener', 0.35878298, u'corkscrew', 0.11534628, u'analog_clock', 0.071174487, u'soap_dispenser', 0.031844284, u'hair_slide', 0.030291665]
+[u'theater_curtain', 0.092548966, u'nail', 0.072841749, u'cleaver', 0.050677765, u'combination_lock', 0.033154722, u'web_site', 0.031889666]
+[u'digital_clock', 0.239116, u'tray', 0.10984717, u'maze', 0.087608628, u'scoreboard', 0.028672555, u'wall_clock', 0.026107417]
+[u'wig', 0.20990551, u'lipstick', 0.061045803, u'centipede', 0.036635514, u'hair_slide', 0.031826437, u'cockroach', 0.028342392]
+[u'nail', 0.053417604, u'spotlight', 0.041762725, u'theater_curtain', 0.038723733, u'lighter', 0.03202476, u'hook', 0.028130421]
+[u'academic_gown', 0.46088746, u'mortarboard', 0.092144616, u'hair_slide', 0.051080555, u'bikini', 0.046748351, u'abaya', 0.025710428]
+[u'web_site', 0.052172512, u'theater_curtain', 0.048253872, u'nail', 0.024083154, u'pill_bottle', 0.023357192, u'lighter', 0.021669475]
+[u'web_site', 0.14718707, u'envelope', 0.076569885, u'handkerchief', 0.05398671, u'paper_towel', 0.030039521, u'packet', 0.027032824]

@@ -1,0 +1,1 @@
+[u'geyser', 0.69125599, u'monitor', 0.10443892, u'screen', 0.030960742, u'lakeside', 0.029001834, u'television', 0.012891289]

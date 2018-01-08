@@ -1,0 +1,2 @@
+[u'lab_coat', 0.18307449, u'Windsor_tie', 0.076492846, u'bow_tie', 0.054731607, u'beer_glass', 0.046852745, u'neck_brace', 0.02728918]
+[u'web_site', 0.36784232, u'book_jacket', 0.15756376, u'comic_book', 0.10010024, u'hen-of-the-woods', 0.099928468, u'bolete', 0.047343884]

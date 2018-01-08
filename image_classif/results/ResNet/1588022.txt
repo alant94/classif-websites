@@ -1,0 +1,6 @@
+[u'pot', 0.30661672, u'snail', 0.095186286, u'slug', 0.068651877, u'consomme', 0.057875793, u'orange', 0.044240013]
+[u'spatula', 0.14297128, u'sunscreen', 0.080271013, u'ice_lolly', 0.073516458, u'Band_Aid', 0.049389787, u'chainlink_fence', 0.04261275]
+[u'television', 0.12010792, u'crane', 0.048574705, u'analog_clock', 0.034513772, u'wing', 0.03029841, u'monitor', 0.024784759]
+[u'cannon', 0.1266176, u'scorpion', 0.10276566, u'bubble', 0.046342671, u'sunglass', 0.03518907, u'car_mirror', 0.034912843]
+[u'pole', 0.23172207, u'beacon', 0.16997005, u'catamaran', 0.067681342, u'lakeside', 0.05609132, u'flagpole', 0.037767876]
+[u'table_lamp', 0.36601007, u'comic_book', 0.14576532, u'book_jacket', 0.13622724, u'stage', 0.11888286, u'spotlight', 0.043809656]

@@ -1,0 +1,2 @@
+[u'web_site', 0.75174439, u'jersey', 0.021690659, u'rifle', 0.0065722344, u'abaya', 0.0060800449, u'lighter', 0.0057774582]
+[u'umbrella', 0.30869973, u'gondola', 0.18259789, u'hard_disc', 0.094875015, u'chainlink_fence', 0.038034625, u'turnstile', 0.02711677]

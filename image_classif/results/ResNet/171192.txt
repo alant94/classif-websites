@@ -1,0 +1,1 @@
+[u'restaurant', 0.45840064, u'groom', 0.088926189, u'lab_coat', 0.044971231, u'confectionery', 0.020850006, u'library', 0.020568261]

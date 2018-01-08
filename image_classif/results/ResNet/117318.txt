@@ -1,0 +1,7 @@
+[u'oscilloscope', 0.24352002, u'monitor', 0.17697528, u'scoreboard', 0.14825189, u'screen', 0.085420243, u'desktop_computer', 0.048786376]
+[u'screen', 0.25173587, u'monitor', 0.15578727, u'analog_clock', 0.081025034, u'television', 0.07559368, u'perfume', 0.067825742]
+[u'comic_book', 0.7460407, u'book_jacket', 0.073675051, u'packet', 0.022177313, u'hook', 0.012794426, u'picket_fence', 0.011354345]
+[u'jellyfish', 0.53295177, u'stage', 0.20443664, u'planetarium', 0.088604219, u'monitor', 0.024074387, u'gong', 0.016325112]
+[u'slot', 0.99205458, u'cab', 0.0062689222, u'digital_watch', 0.00068645587, u'vending_machine', 0.0003768437, u'cellular_telephone', 0.00010302963]
+[u'Christmas_stocking', 0.16503091, u'jigsaw_puzzle', 0.1052606, u'maze', 0.097429082, u'hard_disc', 0.052215967, u'packet', 0.038829673]
+[u'castle', 0.19910055, u'coral_reef', 0.16009031, u'shower_curtain', 0.11955829, u'racket', 0.093532167, u'rain_barrel', 0.029977912]

@@ -1,0 +1,2 @@
+[u'web_site', 0.19093804, u'Weimaraner', 0.082939781, u'harmonica', 0.048315477, u'butcher_shop', 0.034399785, u'Ibizan_hound', 0.032509077]
+[u'bulletproof_vest', 0.96233946, u'military_uniform', 0.0076650591, u'cuirass', 0.0027370127, u'barracouta', 0.0027334155, u'pickelhaube', 0.0015553063]

@@ -1,0 +1,1 @@
+[u'brass', 0.90153855, u'book_jacket', 0.050214339, u'binder', 0.00717662, u'menu', 0.0056645563, u'loudspeaker', 0.0036739048]

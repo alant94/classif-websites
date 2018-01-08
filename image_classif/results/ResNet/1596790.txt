@@ -1,0 +1,3 @@
+[u'wallet', 0.4505522, u'envelope', 0.23150343, u'carton', 0.15766849, u'purse', 0.013581159, u'binder', 0.011776873]
+[u'diaper', 0.87879694, u'bath_towel', 0.024152825, u'swab', 0.012888241, u'cowboy_hat', 0.0075856685, u'sombrero', 0.0062052011]
+[u'Band_Aid', 0.99967062, u'sandal', 0.00013758152, u'paper_towel', 4.3549928e-05, u'cleaver', 2.791012e-05, u'spatula', 1.7476386e-05]

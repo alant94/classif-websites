@@ -1,0 +1,6 @@
+[u'plunger', 0.090965763, u'violin', 0.081105784, u'standard_poodle', 0.076808676, u'harmonica', 0.067292981, u'paper_towel', 0.047922038]
+[u'book_jacket', 0.33429879, u'comic_book', 0.28993267, u'beer_glass', 0.12692387, u'swab', 0.014278377, u'altar', 0.013731971]
+[u'comic_book', 0.16455024, u'maillot', 0.092276379, u'breastplate', 0.058984127, u'bulletproof_vest', 0.051176898, u'toyshop', 0.049956217]
+[u'stage', 0.54066259, u'steel_drum', 0.059782375, u'parallel_bars', 0.035506465, u'dock', 0.033117261, u'lifeboat', 0.024444569]
+[u'comic_book', 0.47270715, u'book_jacket', 0.46229181, u'gorilla', 0.052454788, u'chimpanzee', 0.0029158934, u'torch', 0.0026514065]
+[u'comic_book', 0.60690743, u'book_jacket', 0.078623027, u'slot', 0.018020166, u'menu', 0.017699048, u'web_site', 0.014554759]

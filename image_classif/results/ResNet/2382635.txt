@@ -1,0 +1,1 @@
+[u'lighter', 0.097221613, u'remote_control', 0.068736896, u'oil_filter', 0.048536018, u'laptop', 0.046981253, u'power_drill', 0.041374192]

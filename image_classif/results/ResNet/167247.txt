@@ -1,0 +1,3 @@
+[u'web_site', 0.23328154, u'Windsor_tie', 0.21451341, u'nail', 0.063842319, u'padlock', 0.032597125, u'envelope', 0.027729047]
+[u'harp', 0.92663276, u'panpipe', 0.020559186, u'cello', 0.016113393, u'violin', 0.010526644, u'banjo', 0.0088983299]
+[u'web_site', 0.29124874, u'electric_fan', 0.1726637, u'envelope', 0.028052811, u'spotlight', 0.020077569, u'comic_book', 0.019861599]

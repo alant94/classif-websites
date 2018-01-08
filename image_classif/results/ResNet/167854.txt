@@ -1,0 +1,5 @@
+[u'scoreboard', 0.80264205, u'street_sign', 0.095641308, u'moving_van', 0.014852447, u'bakery', 0.012746908, u'restaurant', 0.0081598759]
+[u'drum', 0.53277057, u'gas_pump', 0.082805127, u'steel_drum', 0.044130694, u'banjo', 0.028569784, u'accordion', 0.02853889]
+[u'web_site', 0.3363997, u'pug', 0.057724103, u'file', 0.044226181, u'vizsla', 0.023591131, u'analog_clock', 0.013452388]
+[u'banjo', 0.4883332, u'acoustic_guitar', 0.23689249, u'electric_guitar', 0.20186457, u'pick', 0.0251028, u'harmonica', 0.010206805]
+[u'barn_spider', 0.39857149, u'garden_spider', 0.23165144, u'spider_web', 0.10969145, u'black_and_gold_garden_spider', 0.05959278, u'mortarboard', 0.043466117]

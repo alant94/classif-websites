@@ -1,0 +1,5 @@
+[u'web_site', 0.6843273, u'tricycle', 0.071275227, u'television', 0.038042609, u'book_jacket', 0.025110791, u'military_uniform', 0.016981853]
+[u'web_site', 0.50555807, u'comic_book', 0.12057584, u'hair_spray', 0.052715939, u'Polaroid_camera', 0.04732665, u'wig', 0.039735157]
+[u'Windsor_tie', 0.59351021, u'suit', 0.34847569, u'bow_tie', 0.016174627, u'oxygen_mask', 0.010746866, u'groom', 0.0079359412]
+[u'book_jacket', 0.35647359, u'typewriter_keyboard', 0.084941, u'slot', 0.083728574, u'space_bar', 0.071629681, u'hand-held_computer', 0.051288325]
+[u'assault_rifle', 0.39555621, u'rifle', 0.28138408, u'bulletproof_vest', 0.12339249, u'television', 0.025545444, u'Windsor_tie', 0.012866905]

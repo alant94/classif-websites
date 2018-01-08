@@ -1,0 +1,2 @@
+[u'jean', 0.3339113, u'miniskirt', 0.30622172, u'pajama', 0.12592232, u'maillot', 0.065944888, u'bikini', 0.024912665]
+[u'brassiere', 0.87352163, u'bikini', 0.050923765, u'maillot', 0.04201806, u'gown', 0.013861664, u'pajama', 0.011079668]

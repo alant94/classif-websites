@@ -1,0 +1,2 @@
+[u'web_site', 0.53067601, u'book_jacket', 0.37017137, u'brass', 0.023891708, u'monitor', 0.018126432, u'cash_machine', 0.01647532]
+[u'trombone', 0.68747342, u'cornet', 0.09722738, u'hatchet', 0.094577506, u'hammer', 0.026002046, u'paintbrush', 0.024867395]

@@ -1,0 +1,7 @@
+[u'vacuum', 0.69569951, u'sports_car', 0.077357978, u'racer', 0.057121582, u'lawn_mower', 0.036121938, u'screwdriver', 0.026661027]
+[u'pencil_sharpener', 0.74617565, u'bucket', 0.052827444, u'thimble', 0.036202695, u'cup', 0.025483102, u'coffee_mug', 0.024271013]
+[u'printer', 0.49531573, u'guillotine', 0.1646553, u'space_heater', 0.096804902, u'rotisserie', 0.056109685, u'snowplow', 0.020081591]
+[u'water_jug', 0.49672827, u'nipple', 0.07784979, u'goblet', 0.041542266, u'bucket', 0.04086858, u'dumbbell', 0.039491653]
+[u'CD_player', 0.38479838, u'modem', 0.096942082, u'radio', 0.095510602, u'mouse', 0.062618569, u'mousetrap', 0.049428198]
+[u'syringe', 0.36142915, u'pill_bottle', 0.091205373, u'binder', 0.081041723, u'rule', 0.045722075, u'rubber_eraser', 0.03731332]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

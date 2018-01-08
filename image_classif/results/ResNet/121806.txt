@@ -1,0 +1,3 @@
+[u'cowboy_boot', 0.1847024, u'picket_fence', 0.055939604, u'sandal', 0.042729158, u'saltshaker', 0.040916435, u'clog', 0.04043714]
+[u'switch', 0.21438958, u'coffee_mug', 0.14930438, u'Band_Aid', 0.10414232, u'iPod', 0.0389314, u'envelope', 0.036346834]
+[u'digital_clock', 0.97629136, u'digital_watch', 0.011100464, u'scoreboard', 0.0019212449, u'analog_clock', 0.0011183877, u'stopwatch', 0.001113577]

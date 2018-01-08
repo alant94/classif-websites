@@ -1,0 +1,7 @@
+[u'rifle', 0.24584039, u'parachute', 0.21259162, u'ski', 0.11127754, u'bow', 0.036192361, u'bearskin', 0.029066406]
+[u'cowboy_hat', 0.038334664, u'marimba', 0.034878902, u'wombat', 0.033185869, u'chain_saw', 0.027358104, u'ostrich', 0.025325635]
+[u'television', 0.16868107, u'grand_piano', 0.068264812, u'barbershop', 0.067604952, u'drumstick', 0.060082454, u'microphone', 0.039061293]
+[u"jack-o'-lantern", 0.18854485, u'wig', 0.10140176, u'theater_curtain', 0.099699229, u'throne', 0.085350864, u'church', 0.081579298]
+[u'picket_fence', 0.81303209, u'theater_curtain', 0.01963239, u'wardrobe', 0.017660996, u'throne', 0.012271308, u'window_shade', 0.010923418]
+[u'digital_clock', 0.19303082, u'television', 0.17415796, u'screen', 0.15879311, u'monitor', 0.10932077, u'web_site', 0.058343675]
+[u'volleyball', 0.35326067, u'baseball', 0.14734678, u'racket', 0.14135298, u'ballplayer', 0.12832955, u'rugby_ball', 0.082053632]

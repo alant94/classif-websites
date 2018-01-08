@@ -1,0 +1,6 @@
+[u'hook', 0.071274653, u'web_site', 0.050831083, u'digital_clock', 0.026912898, u'nail', 0.022161752, u'screw', 0.020533815]
+[u'web_site', 0.57941777, u'envelope', 0.02547908, u'dishwasher', 0.0088044358, u'tripod', 0.008046018, u'hook', 0.0074601197]
+[u'web_site', 0.33333361, u'book_jacket', 0.025267806, u'envelope', 0.024736628, u'sunscreen', 0.021393228, u'theater_curtain', 0.015821956]
+[u'web_site', 0.07874804, u'hook', 0.051409777, u'digital_clock', 0.029012334, u'envelope', 0.023324108, u'stopwatch', 0.020880826]
+[u'hook', 0.11303396, u'web_site', 0.091769405, u'digital_clock', 0.028310051, u'nail', 0.021528659, u'envelope', 0.020466955]
+[u'hook', 0.39119089, u'nail', 0.095292836, u'screw', 0.029054789, u'cleaver', 0.023366906, u'web_site', 0.017225413]

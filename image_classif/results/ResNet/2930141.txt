@@ -1,0 +1,3 @@
+[u'envelope', 0.57681447, u'rubber_eraser', 0.19604398, u'pencil_sharpener', 0.01421644, u'jigsaw_puzzle', 0.012550979, u'rule', 0.012006378]
+[u'prayer_rug', 0.274822, u'miniskirt', 0.050365299, u'lumbermill', 0.032639123, u'chain_saw', 0.03244349, u'bow_tie', 0.025178818]
+[u'goblet', 0.18439105, u'perfume', 0.13578507, u'cup', 0.10980178, u'thimble', 0.10698504, u'beer_glass', 0.10653879]

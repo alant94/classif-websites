@@ -1,0 +1,3 @@
+[u'wallaby', 0.23925255, u'brown_bear', 0.18143542, u'baboon', 0.10230719, u'impala', 0.097939536, u'hartebeest', 0.061697215]
+[u'lakeside', 0.22474295, u'flagpole', 0.21581928, u'pole', 0.14182703, u'mobile_home', 0.039431389, u'solar_dish', 0.034664053]
+[u'ibex', 0.28501996, u'gazelle', 0.21468586, u'impala', 0.13029803, u'hartebeest', 0.12234252, u'lynx', 0.016066236]

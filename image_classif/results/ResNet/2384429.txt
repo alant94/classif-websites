@@ -1,0 +1,2 @@
+[u'book_jacket', 0.21890725, u'Sussex_spaniel', 0.096862815, u'comic_book', 0.086792082, u'Bouvier_des_Flandres', 0.070574954, u'web_site', 0.039906025]
+[u'hair_spray', 0.2193163, u'jersey', 0.19709527, u'face_powder', 0.10148557, u'lotion', 0.057642765, u'sweatshirt', 0.056775399]

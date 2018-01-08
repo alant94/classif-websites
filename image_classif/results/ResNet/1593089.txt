@@ -1,0 +1,3 @@
+[u'buckle', 0.30861273, u'purse', 0.1647222, u'carton', 0.12401437, u'sandal', 0.11443767, u'holster', 0.029704012]
+[u'ice_cream', 0.38430247, u'bakery', 0.34786114, u'hotdog', 0.074648641, u'eggnog', 0.062518492, u'plate', 0.02879996]
+[u'African_grey', 0.24510944, u'bagel', 0.12923259, u'cheetah', 0.087322481, u'quail', 0.047174964, u'jaguar', 0.027693788]

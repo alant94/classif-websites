@@ -1,0 +1,1 @@
+[u'oscilloscope', 0.99964893, u'digital_clock', 0.00013105532, u'screen', 6.1818835e-05, u'microwave', 5.0376355e-05, u'scoreboard', 4.8036596e-05]

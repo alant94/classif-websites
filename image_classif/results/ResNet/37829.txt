@@ -1,0 +1,5 @@
+[u'sombrero', 0.27574876, u'bonnet', 0.26443973, u'cowboy_hat', 0.21669047, u'ski_mask', 0.027150201, u'Band_Aid', 0.01534347]
+[u'monastery', 0.30629337, u'guillotine', 0.19229984, u'vault', 0.083660923, u'castle', 0.055084325, u'church', 0.054864436]
+[u'butcher_shop', 0.79076296, u'jellyfish', 0.04475826, u'scuba_diver', 0.022506531, u'spotlight', 0.018387243, u'stage', 0.0090880776]
+[u'digital_watch', 0.2125912, u'analog_clock', 0.13124985, u'digital_clock', 0.081882223, u'picket_fence', 0.073281527, u'screen', 0.068589263]
+[u'suspension_bridge', 0.670371, u'maze', 0.026887562, u'swing', 0.020605503, u'bannister', 0.017518269, u'chime', 0.017224334]

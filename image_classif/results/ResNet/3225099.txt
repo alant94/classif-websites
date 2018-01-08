@@ -1,0 +1,8 @@
+[u'picket_fence', 0.1705492, u'unicycle', 0.13457666, u'alp', 0.099360049, u'toyshop', 0.0917551, u'moped', 0.074563511]
+[u'paddle', 0.17609045, u'fountain', 0.13672099, u'swimming_trunks', 0.12706782, u'canoe', 0.068464451, u'lakeside', 0.068241976]
+[u'fire_engine', 0.12258674, u'church', 0.10529319, u'fountain', 0.10278603, u'umbrella', 0.074498191, u'mailbox', 0.070021026]
+[u'parachute', 0.087345779, u'ski', 0.072154999, u'sleeping_bag', 0.049551316, u'stretcher', 0.038382422, u'shoe_shop', 0.033565801]
+[u'butcher_shop', 0.28416374, u'wardrobe', 0.15745136, u'shoe_shop', 0.077696934, u'picket_fence', 0.059964206, u'wall_clock', 0.045273632]
+[u'church', 0.57084852, u'picket_fence', 0.069009237, u'beacon', 0.033103779, u'castle', 0.024814814, u'boathouse', 0.022730574]
+[u'picket_fence', 0.10720449, u'fountain', 0.097499624, u'jean', 0.055641335, u'paintbrush', 0.034151703, u'worm_fence', 0.026808036]
+[u'envelope', 0.14668167, u'church', 0.14090426, u'vault', 0.077118434, u'bell_cote', 0.068658061, u'picket_fence', 0.048478518]

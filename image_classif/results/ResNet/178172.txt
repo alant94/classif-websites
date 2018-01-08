@@ -1,0 +1,2 @@
+[u'pinwheel', 0.15992211, u'nail', 0.066181019, u'web_site', 0.050749209, u'matchstick', 0.042465761, u'screwdriver', 0.0388625]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

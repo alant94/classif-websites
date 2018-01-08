@@ -1,0 +1,1 @@
+[u'wig', 0.57586884, u'hair_spray', 0.066243134, u'cardigan', 0.063155897, u'sunglasses', 0.026891422, u'oboe', 0.02678607]

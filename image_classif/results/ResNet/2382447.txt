@@ -1,0 +1,1 @@
+[u'barbell', 0.20932567, u'punching_bag', 0.14667796, u'shoe_shop', 0.14226606, u'swab', 0.066029951, u'dumbbell', 0.059762876]

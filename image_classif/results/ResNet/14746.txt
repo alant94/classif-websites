@@ -1,0 +1,2 @@
+[u'spotlight', 0.61261773, u'projector', 0.17950773, u'traffic_light', 0.033181626, u'scoreboard', 0.032674611, u'baseball', 0.015820811]
+[u'pick', 0.16368335, u'shovel', 0.13074659, u'spotlight', 0.035078071, u'rugby_ball', 0.032416925, u'puck', 0.030182328]

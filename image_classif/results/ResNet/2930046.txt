@@ -1,0 +1,2 @@
+[u'dogsled', 0.52803254, u'alp', 0.18775491, u'ski', 0.15397179, u'volcano', 0.02967588, u'yurt', 0.017619053]
+[u'hook', 0.28663436, u'safety_pin', 0.27749357, u'can_opener', 0.10957655, u'stethoscope', 0.036610186, u'hair_slide', 0.034129798]

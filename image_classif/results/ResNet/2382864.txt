@@ -1,0 +1,6 @@
+[u'hamper', 0.88741493, u'red_wine', 0.066919468, u'wine_bottle', 0.04165357, u'corkscrew', 0.0020502643, u'shopping_basket', 0.00082524179]
+[u'macaw', 0.92888826, u'little_blue_heron', 0.024315353, u'corn', 0.0090163937, u'ear', 0.0084222397, u'European_gallinule', 0.006596019]
+[u'barrel', 0.99823028, u'shoe_shop', 0.00055346725, u'wooden_spoon', 0.00038137325, u'crate', 0.00019644166, u'Loafer', 0.00012849718]
+[u'goblet', 0.21517187, u'grille', 0.17737305, u'beer_bottle', 0.12079848, u'strainer', 0.069789559, u'wine_bottle', 0.061705362]
+[u'swing', 0.36807448, u'pole', 0.1073259, u'brass', 0.072868943, u'chainlink_fence', 0.037357643, u'ashcan', 0.035654645]
+[u'shovel', 0.23390584, u'butcher_shop', 0.099957936, u'bittern', 0.067270793, u'ear', 0.058939539, u'lampshade', 0.048415367]

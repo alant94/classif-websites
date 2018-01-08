@@ -1,0 +1,4 @@
+[u'maillot', 0.30593792, u'maillot', 0.21484074, u'web_site', 0.14528565, u'seashore', 0.076437883, u'sunglass', 0.037205059]
+[u'maillot', 0.37233329, u'maillot', 0.13972689, u'web_site', 0.13550287, u'jersey', 0.070766732, u'television', 0.034084689]
+[u'book_jacket', 0.16244768, u'sarong', 0.13541044, u'gown', 0.034858327, u'web_site', 0.029019393, u'flagpole', 0.02415685]
+[u'swimming_trunks', 0.21638411, u'miniskirt', 0.050415996, u'horizontal_bar', 0.04919019, u'Arabian_camel', 0.046493322, u'cowboy_hat', 0.043484151]

@@ -1,0 +1,1 @@
+[u'chain_saw', 0.33696771, u'ski', 0.28344151, u'corkscrew', 0.18027245, u'can_opener', 0.054569978, u'hair_slide', 0.02908903]

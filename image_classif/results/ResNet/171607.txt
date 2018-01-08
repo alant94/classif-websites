@@ -1,0 +1,6 @@
+[u'oboe', 0.44130901, u'cornet', 0.14399105, u'cello', 0.076297075, u'stage', 0.063296787, u'sax', 0.048159353]
+[u'sax', 0.98813105, u'oboe', 0.0046735201, u'bassoon', 0.0035360574, u'cornet', 0.0026427482, u'French_horn', 0.00060637941]
+[u'bearskin', 0.9166007, u'academic_gown', 0.036823183, u'theater_curtain', 0.0068705366, u'stage', 0.0063581844, u'military_uniform', 0.0051908288]
+[u'lumbermill', 0.44841993, u'theater_curtain', 0.083131567, u'stage', 0.057904936, u'yurt', 0.023443349, u'solar_dish', 0.022894902]
+[u'tray', 0.25443178, u'beaker', 0.11131532, u'pot', 0.082611129, u'cup', 0.055042945, u'vase', 0.043914624]
+[u'bassoon', 0.586178, u'oboe', 0.32621488, u'sax', 0.058398154, u'upright', 0.009341931, u'flute', 0.0073106126]

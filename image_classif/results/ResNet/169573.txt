@@ -1,0 +1,6 @@
+[u'book_jacket', 0.096416667, u'oil_filter', 0.046473652, u'hair_spray', 0.039658725, u'web_site', 0.028463772, u'sunscreen', 0.024642199]
+[u'electric_guitar', 0.98293751, u'acoustic_guitar', 0.012729415, u'banjo', 0.0038555025, u'violin', 0.00036257124, u'pick', 7.1697665e-05]
+[u'prayer_rug', 0.21289025, u'tray', 0.057080228, u'street_sign', 0.0563979, u'scoreboard', 0.039412878, u'cash_machine', 0.038799565]
+[u'book_jacket', 0.14076383, u'street_sign', 0.063157126, u'analog_clock', 0.040516503, u'digital_clock', 0.028154619, u'ping-pong_ball', 0.025814235]
+[u'book_jacket', 0.72066009, u'street_sign', 0.063693963, u'perfume', 0.030072682, u'doormat', 0.01753404, u'packet', 0.0095754843]
+[u'barbershop', 0.28090489, u'scoreboard', 0.15486243, u'cash_machine', 0.12797789, u'slot', 0.053435486, u'web_site', 0.049472298]

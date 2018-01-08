@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.37191823, u'tub', 0.24755704, u'bikini', 0.19728801, u'bathtub', 0.063500166, u'hair_spray', 0.023164338]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,2 @@
+[u'altar', 0.53625864, u'throne', 0.24677721, u'toyshop', 0.12000654, u'hoopskirt', 0.020684956, u'vestment', 0.0054862075]
+[u'car_wheel', 0.30864403, u'tow_truck', 0.16447112, u'disk_brake', 0.058933221, u'racer', 0.053068485, u'trailer_truck', 0.051812317]

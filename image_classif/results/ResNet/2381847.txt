@@ -1,0 +1,4 @@
+[u'coral_fungus', 0.60265255, u'king_penguin', 0.087137446, u'picket_fence', 0.026075775, u'ear', 0.021020351, u'poncho', 0.018906422]
+[u'barrel', 0.81093073, u'wooden_spoon', 0.14740525, u'toilet_seat', 0.021864872, u'ladle', 0.0045772949, u'crate', 0.0029391651]
+[u'valley', 0.5279929, u'alp', 0.11351071, u'worm_fence', 0.075719066, u'rapeseed', 0.028486937, u'lakeside', 0.027441876]
+[u'face_powder', 0.71270776, u'lipstick', 0.027461769, u'analog_clock', 0.026844097, u'lotion', 0.022665534, u'pick', 0.017942255]

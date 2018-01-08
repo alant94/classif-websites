@@ -1,0 +1,7 @@
+[u'whistle', 0.51326048, u'knot', 0.089144446, u'chain', 0.055575844, u'tripod', 0.042429648, u'pick', 0.037287667]
+[u'modem', 0.39754221, u'digital_clock', 0.15539482, u'iPod', 0.11614075, u'cellular_telephone', 0.081264012, u'stopwatch', 0.054556463]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'cheeseburger', 0.44351918, u'hotdog', 0.15450731, u'plate', 0.056338385, u'trifle', 0.039936371, u'meat_loaf', 0.038445644]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

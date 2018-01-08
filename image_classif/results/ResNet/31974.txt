@@ -1,0 +1,3 @@
+[u'plastic_bag', 0.39230773, u'envelope', 0.21175246, u'packet', 0.056034751, u'toilet_tissue', 0.042303585, u'lotion', 0.035785355]
+[u'loupe', 0.16143037, u'Siberian_husky', 0.051731616, u'Eskimo_dog', 0.047227442, u'Boston_bull', 0.043311398, u'reflex_camera', 0.030029038]
+[u'envelope', 0.20764558, u'web_site', 0.12835996, u'carton', 0.10499769, u'whistle', 0.087381668, u'lipstick', 0.059621152]

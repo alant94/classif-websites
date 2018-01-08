@@ -1,0 +1,8 @@
+[u'jigsaw_puzzle', 0.95683187, u'book_jacket', 0.012228032, u'lakeside', 0.0093367435, u'comic_book', 0.008904825, u'balloon', 0.0037681931]
+[u'book_jacket', 0.34026238, u'jersey', 0.13535413, u'monitor', 0.068516202, u'screen', 0.055891465, u'tray', 0.044271361]
+[u'prayer_rug', 0.17906004, u'screen', 0.13163556, u'tray', 0.066789232, u'cash_machine', 0.0577153, u'wall_clock', 0.056137621]
+[u'traffic_light', 0.5527066, u'street_sign', 0.1678848, u'digital_clock', 0.15465519, u'beaker', 0.022845933, u'prayer_rug', 0.017865866]
+[u'brass', 0.41026965, u'fire_screen', 0.18641089, u'lighter', 0.13801849, u'book_jacket', 0.065665618, u'pedestal', 0.021240881]
+[u'comic_book', 0.47117656, u'cassette', 0.24739608, u'book_jacket', 0.057639893, u'CD_player', 0.038087256, u'tape_player', 0.014762773]
+[u'medicine_chest', 0.17667112, u'screen', 0.11416779, u'cash_machine', 0.10409212, u'shield', 0.046666689, u'digital_clock', 0.036117375]
+[u'crossword_puzzle', 0.29208452, u'digital_watch', 0.20881724, u'digital_clock', 0.14111695, u'prayer_rug', 0.03242426, u'medicine_chest', 0.029231733]

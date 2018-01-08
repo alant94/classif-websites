@@ -1,0 +1,2 @@
+[u'sunglasses', 0.25067949, u'web_site', 0.20035872, u'sunglass', 0.064410336, u'bow_tie', 0.053002365, u'book_jacket', 0.051613159]
+[u'television', 0.30571309, u'monitor', 0.26928547, u'screen', 0.26890337, u'desktop_computer', 0.024934685, u'home_theater', 0.014211061]

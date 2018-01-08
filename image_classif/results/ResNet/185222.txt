@@ -1,0 +1,5 @@
+[u'jersey', 0.9971835, u'pajama', 0.0010225599, u'sweatshirt', 0.00091819075, u'lab_coat', 0.00019379948, u'apron', 0.00016420669]
+[u'handkerchief', 0.27698243, u'necklace', 0.199048, u'screw', 0.11389114, u'starfish', 0.10215826, u'envelope', 0.037289392]
+[u'brass', 0.68473202, u'menu', 0.29421324, u'plastic_bag', 0.0054721539, u'book_jacket', 0.0024854564, u'chainlink_fence', 0.0023986273]
+[u'envelope', 0.52562702, u'web_site', 0.096062712, u'paintbrush', 0.042026121, u'packet', 0.025495555, u'Band_Aid', 0.02545758]
+[u'web_site', 0.76167238, u'menu', 0.11681705, u'envelope', 0.024713583, u'lotion', 0.0098455967, u'carton', 0.0026064748]

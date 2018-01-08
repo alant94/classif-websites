@@ -1,0 +1,8 @@
+[u'military_uniform', 0.85465854, u'sweatshirt', 0.066731244, u'kimono', 0.021912081, u'academic_gown', 0.011590115, u'mortarboard', 0.011124303]
+[u'menu', 0.2011975, u'theater_curtain', 0.073802605, u'book_jacket', 0.071165428, u'barrel', 0.055276208, u'bookshop', 0.044163119]
+[u'screw', 0.1219248, u'hair_slide', 0.053120933, u'maraca', 0.047777027, u'whistle', 0.046489559, u'screwdriver', 0.046160053]
+[u'screwdriver', 0.36253393, u'ballpoint', 0.25119776, u'fountain_pen', 0.23523135, u'rubber_eraser', 0.036876224, u"carpenter's_kit", 0.029657058]
+[u'web_site', 0.3030183, u'packet', 0.27039105, u'menu', 0.24808501, u'carton', 0.08004491, u'magnetic_compass', 0.017469689]
+[u'crate', 0.24318984, u'grand_piano', 0.1107004, u'suit', 0.086008325, u'carton', 0.046156164, u'throne', 0.038871594]
+[u'jersey', 0.16090773, u'sweatshirt', 0.059991483, u'web_site', 0.05190498, u'screen', 0.03251275, u'envelope', 0.031579163]
+[u'coho', 0.47393218, u'sturgeon', 0.26125786, u'barracouta', 0.17838767, u'tench', 0.050859343, u'gar', 0.017734591]

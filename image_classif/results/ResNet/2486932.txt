@@ -1,0 +1,5 @@
+[u'menu', 0.44421276, u'comic_book', 0.28054702, u'web_site', 0.2460735, u'slot', 0.0079854578, u'coffee_mug', 0.0020209104]
+[u'web_site', 0.17737328, u'comic_book', 0.12771198, u'hook', 0.10288663, u'book_jacket', 0.085423954, u'rotisserie', 0.048744265]
+[u'panpipe', 0.31479692, u'drum', 0.082659237, u'toyshop', 0.077348955, u'chime', 0.049105141, u'flute', 0.048963215]
+[u'gong', 0.83708853, u'trombone', 0.063095614, u'chime', 0.042632781, u'cornet', 0.02306506, u'drum', 0.0098194545]
+[u'comic_book', 0.20108989, u'book_jacket', 0.075862668, u'rifle', 0.042358603, u'cleaver', 0.035947446, u'hair_spray', 0.035144959]

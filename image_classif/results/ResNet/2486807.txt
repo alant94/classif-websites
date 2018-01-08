@@ -1,0 +1,2 @@
+[u'chain_saw', 0.58565247, u'packet', 0.16594656, u'gas_pump', 0.020137306, u'sunscreen', 0.010484604, u'digital_clock', 0.0098867267]
+[u'book_jacket', 0.21093957, u'street_sign', 0.12199884, u'cash_machine', 0.070388898, u'oscilloscope', 0.070382021, u'oil_filter', 0.037511505]

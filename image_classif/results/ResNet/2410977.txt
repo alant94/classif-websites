@@ -1,0 +1,7 @@
+[u'solar_dish', 0.15079284, u'fire_screen', 0.11781618, u'flagpole', 0.050646238, u'wool', 0.048934311, u'wall_clock', 0.046759617]
+[u'fire_screen', 0.14256783, u'wall_clock', 0.12165363, u'pedestal', 0.1025441, u'bell_cote', 0.093609966, u'brass', 0.047919113]
+[u'plate_rack', 0.089836426, u'analog_clock', 0.051160678, u'electric_fan', 0.03180901, u'schooner', 0.030832453, u'aircraft_carrier', 0.029108876]
+[u'loupe', 0.076823093, u'bannister', 0.06364993, u'aircraft_carrier', 0.025048191, u'web_site', 0.021889558, u'radiator', 0.02022535]
+[u'can_opener', 0.19771861, u'thresher', 0.061209142, u'corkscrew', 0.054897666, u'pedestal', 0.031699423, u'washbasin', 0.029007263]
+[u'soccer_ball', 0.9999429, u'golf_ball', 1.3295798e-05, u'whistle', 1.1595784e-05, u'volleyball', 7.951423e-06, u'honeycomb', 5.4728866e-06]
+[u'waffle_iron', 0.17311056, u'fire_screen', 0.10620587, u'shield', 0.050722495, u'stopwatch', 0.044939056, u'doormat', 0.041689537]

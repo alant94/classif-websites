@@ -1,0 +1,7 @@
+[u'screw', 0.69298697, u'nail', 0.11717889, u'switch', 0.019375209, u'binder', 0.013782637, u'chain', 0.013277468]
+[u'prayer_rug', 0.98968583, u'book_jacket', 0.0036082992, u'binder', 0.0011149117, u'oscilloscope', 0.00049072306, u'vestment', 0.0004620257]
+[u'spotlight', 0.31604081, u'ping-pong_ball', 0.20618151, u'golf_ball', 0.10918152, u'shield', 0.043690082, u'ladle', 0.02155466]
+[u'web_site', 0.16098316, u'television', 0.14661375, u'screen', 0.10373375, u'monitor', 0.078776881, u'book_jacket', 0.048776425]
+[u'web_site', 0.062391039, u'nipple', 0.062116664, u'lighter', 0.053472564, u'analog_clock', 0.048937511, u'remote_control', 0.047040373]
+[u'screw', 0.66048497, u'switch', 0.072027855, u'nail', 0.033984408, u'sea_lion', 0.015713055, u'web_site', 0.014117468]
+[u'space_heater', 0.29597336, u'book_jacket', 0.28516272, u'packet', 0.095277585, u'web_site', 0.043593872, u'meat_loaf', 0.036543611]

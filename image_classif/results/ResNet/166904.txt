@@ -1,0 +1,1 @@
+[u'television', 0.18390124, u'punching_bag', 0.1107358, u'ping-pong_ball', 0.082541324, u'banjo', 0.035262998, u'tape_player', 0.03264406]

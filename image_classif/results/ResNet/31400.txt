@@ -1,0 +1,2 @@
+[u'tennis_ball', 0.28237462, u'web_site', 0.20001525, u'nipple', 0.043259304, u'spotlight', 0.026962085, u'safety_pin', 0.021795584]
+[u'cleaver', 0.099637575, u'banana', 0.09862154, u'paintbrush', 0.095082596, u'iron', 0.074100658, u'matchstick', 0.028278297]

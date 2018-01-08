@@ -1,0 +1,1 @@
+[u'screw', 0.11906657, u'cleaver', 0.08953926, u'red_wine', 0.057236828, u'paintbrush', 0.05385606, u'flamingo', 0.053133268]

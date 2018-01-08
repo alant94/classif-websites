@@ -1,0 +1,1 @@
+[u'Windsor_tie', 0.83646792, u'bolo_tie', 0.013008382, u'suit', 0.012097776, u'academic_gown', 0.0080102207, u'stethoscope', 0.0073107313]

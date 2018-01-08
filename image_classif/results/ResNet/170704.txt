@@ -1,0 +1,1 @@
+[u'toilet_seat', 0.223685, u'joystick', 0.20153712, u'switch', 0.1797284, u'loudspeaker', 0.11535695, u'gong', 0.037959758]

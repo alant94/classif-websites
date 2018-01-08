@@ -1,0 +1,6 @@
+[u'combination_lock', 0.29179043, u'lens_cap', 0.25296754, u'switch', 0.069601379, u'puck', 0.035451319, u'microphone', 0.033224538]
+[u'web_site', 0.21292429, u'envelope', 0.1947576, u'cleaver', 0.033623219, u'nipple', 0.018606093, u'cup', 0.01381324]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.14418676, u'envelope', 0.058261778, u'dishwasher', 0.025775895, u'can_opener', 0.016084719, u'cleaver', 0.01602822]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.3329457, u'nematode', 0.064627133, u'dishwasher', 0.016779443, u'envelope', 0.014747101, u'bulletproof_vest', 0.01001579]

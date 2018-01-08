@@ -1,0 +1,8 @@
+[u'safe', 0.39861608, u'microwave', 0.18873587, u'vending_machine', 0.047643054, u'space_heater', 0.033612534, u'cash_machine', 0.023473388]
+[u'remote_control', 0.43140501, u'cellular_telephone', 0.19334333, u'modem', 0.13406007, u'iPod', 0.060807317, u'hand-held_computer', 0.030913813]
+[u'sleeping_bag', 0.092218354, u'hair_spray', 0.08470425, u'plastic_bag', 0.078487404, u'mailbag', 0.059770402, u'jean', 0.044146322]
+[u'bath_towel', 0.19361433, u'shower_curtain', 0.16246533, u'kimono', 0.15804708, u'fur_coat', 0.14417851, u'cardigan', 0.10630418]
+[u'sliding_door', 0.44285393, u'barbershop', 0.40839541, u'grand_piano', 0.040203329, u'restaurant', 0.018733695, u'bakery', 0.011202296]
+[u'bakery', 0.37012985, u'bookshop', 0.13266146, u'grocery_store', 0.13246879, u'barbershop', 0.12182469, u'shoe_shop', 0.062645175]
+[u'gown', 0.36109754, u'shower_curtain', 0.20415306, u'lab_coat', 0.08272288, u'window_shade', 0.072744429, u'groom', 0.070527911]
+[u'iron', 0.31850645, u'carton', 0.066447742, u'cowboy_boot', 0.044258803, u'wardrobe', 0.038725115, u'cleaver', 0.027225183]

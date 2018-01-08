@@ -1,0 +1,2 @@
+[u'pelican', 0.34319741, u'parachute', 0.20242837, u'goose', 0.1385999, u'airliner', 0.064234458, u'warplane', 0.048228506]
+[u'parachute', 0.33268347, u'thresher', 0.24432434, u'crane', 0.20024014, u'drilling_platform', 0.0312219, u'harvester', 0.025221553]

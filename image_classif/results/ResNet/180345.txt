@@ -1,0 +1,4 @@
+[u'assault_rifle', 0.16132592, u'rifle', 0.14986306, u'hook', 0.10875396, u'power_drill', 0.045832254, u'cleaver', 0.03704169]
+[u'Arabian_camel', 0.28420931, u'hook', 0.20689785, u'pinwheel', 0.13290106, u'safety_pin', 0.078949623, u'shower_curtain', 0.029868379]
+[u'digital_clock', 0.96548402, u'warplane', 0.022077881, u'wing', 0.0020996712, u'laptop', 0.0019703771, u'traffic_light', 0.0013916665]
+[u'notebook', 0.21483621, u'envelope', 0.19091552, u'hard_disc', 0.18294606, u'laptop', 0.14452282, u'web_site', 0.041539527]

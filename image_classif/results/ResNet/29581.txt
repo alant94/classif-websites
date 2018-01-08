@@ -1,0 +1,1 @@
+[u'stole', 0.23682846, u'wool', 0.12070576, u'cardigan', 0.058887657, u'sweatshirt', 0.033724628, u'velvet', 0.026545469]

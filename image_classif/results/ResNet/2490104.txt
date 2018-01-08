@@ -1,0 +1,4 @@
+[u'upright', 0.71855354, u'grand_piano', 0.28097129, u'organ', 0.00043354492, u'oboe', 1.9158071e-05, u'bassoon', 1.1355741e-05]
+[u'grand_piano', 0.99939263, u'upright', 0.00060739159, u'violin', 2.1329706e-08, u'marimba', 1.9837039e-08, u'cello', 7.5122779e-09]
+[u'book_jacket', 0.4250294, u'theater_curtain', 0.051875979, u'comic_book', 0.045476876, u'web_site', 0.024249395, u'lipstick', 0.013354012]
+[u'grand_piano', 0.5243119, u'horse_cart', 0.061926242, u'upright', 0.045639474, u'cowboy_boot', 0.029733539, u'lumbermill', 0.022394963]

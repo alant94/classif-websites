@@ -1,0 +1,7 @@
+[u'combination_lock', 0.19949435, u'oil_filter', 0.13391016, u'switch', 0.099739417, u'hook', 0.037267536, u'chain', 0.035098266]
+[u'television', 0.9847002, u'screen', 0.0097512417, u'microwave', 0.0020813255, u'monitor', 0.0017049444, u'cellular_telephone', 0.00053383986]
+[u'television', 0.91517705, u'screen', 0.032546006, u'cellular_telephone', 0.019828469, u'iPod', 0.016172957, u'monitor', 0.0067459233]
+[u'monitor', 0.36496633, u'television', 0.24715473, u'screen', 0.17770779, u'spotlight', 0.034032054, u'oscilloscope', 0.029369179]
+[u'lighter', 0.6738863, u'tray', 0.048352133, u'switch', 0.029754983, u'bolo_tie', 0.015474814, u'combination_lock', 0.015206827]
+[u'stove', 0.65969074, u'space_heater', 0.13093424, u'fire_screen', 0.091588505, u'microwave', 0.047693226, u'rotisserie', 0.042020746]
+[u'switch', 0.2265199, u'joystick', 0.22601129, u'slot', 0.13101229, u'digital_clock', 0.080914021, u'digital_watch', 0.062736772]

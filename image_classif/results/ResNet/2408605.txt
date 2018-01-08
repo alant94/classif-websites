@@ -1,0 +1,3 @@
+[u'street_sign', 0.23998877, u'cash_machine', 0.17027883, u'traffic_light', 0.16621682, u'microwave', 0.044315122, u'scoreboard', 0.041964076]
+[u'television', 0.34434038, u'book_jacket', 0.22628571, u'monitor', 0.10366272, u'screen', 0.054940596, u'laptop', 0.04107938]
+[u'book_jacket', 0.53213525, u'refrigerator', 0.063692532, u'tobacco_shop', 0.036325086, u'vending_machine', 0.031358562, u'tray', 0.030940773]

@@ -1,0 +1,8 @@
+[u'web_site', 0.69773424, u'comic_book', 0.087192997, u'bookshop', 0.037598088, u'jean', 0.016572444, u'stole', 0.014510609]
+[u'marimba', 0.18428554, u'banjo', 0.12468789, u'steel_drum', 0.065981843, u'drum', 0.048277676, u'cowboy_hat', 0.042473193]
+[u'vacuum', 0.055753589, u'bassoon', 0.051801752, u'sax', 0.03761046, u'loudspeaker', 0.027136456, u'shoji', 0.026758302]
+[u'stage', 0.59057057, u'wig', 0.051093809, u'traffic_light', 0.022506857, u'feather_boa', 0.021995762, u'sax', 0.020276263]
+[u'web_site', 0.51963925, u'television', 0.07179746, u'oscilloscope', 0.054666542, u'screen', 0.047244456, u'book_jacket', 0.041912708]
+[u'kimono', 0.32145137, u'candle', 0.19434673, u'grocery_store', 0.14716288, u'groom', 0.058523618, u'wok', 0.044860277]
+[u'restaurant', 0.25502458, u'cleaver', 0.046167072, u'red_wine', 0.031917252, u'cocktail_shaker', 0.031346608, u'groom', 0.03107105]
+[u'stage', 0.75847036, u'grand_piano', 0.056093577, u'altar', 0.028701756, u'balance_beam', 0.022453517, u'spotlight', 0.01038348]

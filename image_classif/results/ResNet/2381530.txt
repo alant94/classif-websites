@@ -1,0 +1,8 @@
+[u'packet', 0.71588248, u'carton', 0.068370491, u'envelope', 0.057714406, u'menu', 0.047768869, u'book_jacket', 0.026279733]
+[u'packet', 0.30643502, u'comic_book', 0.24384204, u'carton', 0.1733638, u'book_jacket', 0.055714976, u'menu', 0.043291915]
+[u'carton', 0.19487359, u'envelope', 0.18338989, u'packet', 0.09067101, u'book_jacket', 0.06916865, u'web_site', 0.0565775]
+[u'barn', 0.98773348, u'worm_fence', 0.0025198793, u'web_site', 0.00081398722, u'church', 0.00081068126, u'hay', 0.00055506331]
+[u'rapeseed', 0.41560048, u'valley', 0.1632427, u'web_site', 0.068229489, u'hay', 0.049998991, u'castle', 0.027293902]
+[u'barn', 0.97905421, u'worm_fence', 0.0072732568, u'tractor', 0.001799751, u'thatch', 0.0013827319, u'picket_fence', 0.0010101018]
+[u'web_site', 0.49056146, u'book_jacket', 0.11721682, u'comic_book', 0.05428521, u'slide_rule', 0.019575831, u'pickelhaube', 0.019406522]
+[u'hook', 0.23855519, u'web_site', 0.071665592, u'sunglasses', 0.070947751, u'whistle', 0.042039704, u'street_sign', 0.036050212]

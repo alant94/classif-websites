@@ -1,0 +1,2 @@
+[u'puck', 0.52306485, u'oil_filter', 0.048437357, u'gas_pump', 0.035482418, u'bottlecap', 0.029883539, u'thimble', 0.02355212]
+[u'church', 0.58105922, u'boathouse', 0.12426201, u'patio', 0.040419638, u'library', 0.037345067, u'dome', 0.027128674]

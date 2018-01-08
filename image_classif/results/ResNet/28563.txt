@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.98535293, u'picket_fence', 0.0081480723, u'digital_watch', 0.0036751924, u'digital_clock', 0.001051457, u'scoreboard', 0.00036167938]
+[u'binder', 0.23080976, u'envelope', 0.10445947, u'mortarboard', 0.045042817, u'sloth_bear', 0.044159334, u'lighter', 0.039262343]

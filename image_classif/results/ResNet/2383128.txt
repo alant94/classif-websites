@@ -1,0 +1,8 @@
+[u'tractor', 0.3433466, u'harvester', 0.16967672, u'jeep', 0.14456567, u'plow', 0.073842563, u'half_track', 0.069761209]
+[u'web_site', 0.4212783, u'envelope', 0.13176239, u'slide_rule', 0.025680907, u'rule', 0.01708051, u'hard_disc', 0.012328339]
+[u'web_site', 0.40151832, u'book_jacket', 0.09360332, u'pop_bottle', 0.059816297, u'beer_bottle', 0.054271877, u'brass', 0.047858283]
+[u'television', 0.24111803, u'iPod', 0.15566131, u'hard_disc', 0.079709232, u'cellular_telephone', 0.078676298, u'hand-held_computer', 0.062339921]
+[u'web_site', 0.11424923, u'Band_Aid', 0.11122175, u'laptop', 0.06848909, u'digital_clock', 0.056086652, u'street_sign', 0.042938564]
+[u'television', 0.26849991, u'iPod', 0.11638205, u'cellular_telephone', 0.076879539, u'hard_disc', 0.069538981, u'hand-held_computer', 0.050490577]
+[u'maze', 0.17817308, u'lakeside', 0.081148259, u'greenhouse', 0.059473068, u'castle', 0.05125523, u'head_cabbage', 0.039868306]
+[u'iPod', 0.21292654, u'television', 0.12996663, u'hard_disc', 0.095092237, u'cellular_telephone', 0.082444251, u'hand-held_computer', 0.051560201]

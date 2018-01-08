@@ -1,0 +1,2 @@
+[u'electric_fan', 0.088728406, u'web_site', 0.073705018, u'pick', 0.046526331, u'wall_clock', 0.038714524, u'football_helmet', 0.03454493]
+[u'picket_fence', 0.18239108, u'boathouse', 0.11469167, u'palace', 0.10470553, u'lakeside', 0.064525232, u'mobile_home', 0.052018717]

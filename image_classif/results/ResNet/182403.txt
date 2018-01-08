@@ -1,0 +1,7 @@
+[u'web_site', 0.21378426, u'comic_book', 0.087961838, u'television', 0.055062406, u'chain_saw', 0.039030332, u'slot', 0.024785528]
+[u'pick', 0.12285071, u'web_site', 0.066699103, u'sunscreen', 0.049881652, u'face_powder', 0.031252835, u'puck', 0.028835095]
+[u'comic_book', 0.10136823, u'web_site', 0.093104236, u'bow', 0.041663118, u'hair_spray', 0.030988, u'ocarina', 0.027369672]
+[u'comic_book', 0.17702867, u'web_site', 0.13070802, u'slot', 0.027432665, u'hair_spray', 0.024964269, u'printer', 0.019241091]
+[u'shield', 0.79468375, u'punching_bag', 0.12977929, u'rugby_ball', 0.032490928, u'wall_clock', 0.0053740893, u'drum', 0.0049857777]
+[u'shield', 0.48124468, u'pick', 0.12111032, u'punching_bag', 0.073845617, u'wall_clock', 0.065182388, u'maraca', 0.057351805]
+[u'comic_book', 0.21841905, u'slot', 0.11458138, u'web_site', 0.076230794, u'cinema', 0.062142745, u'bow', 0.031269871]

@@ -1,0 +1,7 @@
+[u'church', 0.54017138, u'altar', 0.2022365, u'dome', 0.17644784, u'palace', 0.0281587, u'vault', 0.01556742]
+[u'Arabian_camel', 0.64565307, u'llama', 0.078875907, u'sorrel', 0.07352253, u'komondor', 0.025344456, u'hartebeest', 0.0083323503]
+[u'web_site', 0.22290038, u'envelope', 0.1039101, u'dishwasher', 0.028983006, u'hook', 0.01772075, u'wall_clock', 0.012827612]
+[u'web_site', 0.27491537, u'envelope', 0.1284923, u'dishwasher', 0.038659237, u'cleaver', 0.014278105, u'hook', 0.013924766]
+[u'binder', 0.30486491, u'fire_screen', 0.17506334, u'hook', 0.073365733, u'paper_towel', 0.064200275, u'safety_pin', 0.061355338]
+[u'trombone', 0.13256605, u'puck', 0.080080636, u'thimble', 0.062262032, u'bolo_tie', 0.061354209, u'bearskin', 0.045826118]
+[u'web_site', 0.15592033, u'envelope', 0.081812307, u'dishwasher', 0.037673447, u'wardrobe', 0.030522637, u'hook', 0.021404438]

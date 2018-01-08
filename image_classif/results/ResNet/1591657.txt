@@ -1,0 +1,2 @@
+[u'swimming_trunks', 0.58158106, u'bikini', 0.21642025, u'bathing_cap', 0.093752384, u'maillot', 0.034805093, u'maillot', 0.012370554]
+[u'stage', 0.087607011, u'parallel_bars', 0.050547294, u'black-footed_ferret', 0.032078456, u'Gila_monster', 0.026283933, u'oxygen_mask', 0.025024803]

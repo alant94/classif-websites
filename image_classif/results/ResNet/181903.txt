@@ -1,0 +1,2 @@
+[u'nipple', 0.078514896, u'whistle', 0.064141542, u'Band_Aid', 0.050368328, u"carpenter's_kit", 0.047284838, u'hair_spray', 0.035771951]
+[u'web_site', 0.48790157, u'laptop', 0.13112183, u'lighter', 0.053921249, u'comic_book', 0.026904965, u'jersey', 0.024592005]

@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.99906558, u'scoreboard', 0.00030725496, u'web_site', 0.00019704677, u'remote_control', 0.00010732257, u'file', 3.3097978e-05]
+[u'rubber_eraser', 0.44766217, u'punching_bag', 0.055181906, u'balloon', 0.033526588, u'switch', 0.023473205, u'hook', 0.021686023]

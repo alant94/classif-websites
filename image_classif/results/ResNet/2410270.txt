@@ -1,0 +1,5 @@
+[u'bicycle-built-for-two', 0.11734357, u'web_site', 0.098909974, u'tripod', 0.073954955, u'shopping_cart', 0.06992159, u'airship', 0.06220334]
+[u'mountain_bike', 0.32863089, u'malinois', 0.2244, u'Chihuahua', 0.090767972, u'Staffordshire_bullterrier', 0.03123299, u'Rhodesian_ridgeback', 0.029859511]
+[u'gas_pump', 0.11442177, u'binder', 0.10574642, u'mountain_bike', 0.059829831, u'comic_book', 0.042378474, u'web_site', 0.038292956]
+[u'bicycle-built-for-two', 0.77787226, u'tricycle', 0.11795625, u'mountain_bike', 0.077543944, u'unicycle', 0.010750147, u'lawn_mower', 0.010035712]
+[u'mountain_bike', 0.42347369, u'moped', 0.099497341, u'disk_brake', 0.060714003, u'bicycle-built-for-two', 0.054845851, u'crash_helmet', 0.034473933]

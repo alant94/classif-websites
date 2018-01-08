@@ -1,0 +1,5 @@
+[u'tennis_ball', 0.13333701, u'punching_bag', 0.099386998, u'pick', 0.072702959, u'digital_clock', 0.055712994, u'ski', 0.030073628]
+[u'Polaroid_camera', 0.95381397, u'projector', 0.015858673, u'loudspeaker', 0.01418917, u'reflex_camera', 0.003772103, u'loupe', 0.0033200143]
+[u'binder', 0.10258661, u'shield', 0.094266072, u'hatchet', 0.073832259, u'web_site', 0.066286899, u'nipple', 0.05393758]
+[u'Band_Aid', 0.38153097, u'lighter', 0.15090425, u'folding_chair', 0.054957882, u'digital_watch', 0.051345523, u'scale', 0.032715745]
+[u'digital_clock', 0.12428115, u'hair_spray', 0.054895192, u'screwdriver', 0.052578878, u'digital_watch', 0.049227539, u'power_drill', 0.043478303]

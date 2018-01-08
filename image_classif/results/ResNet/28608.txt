@@ -1,0 +1,6 @@
+[u'hammerhead', 0.065827794, u'neck_brace', 0.061911274, u'web_site', 0.061038274, u'leatherback_turtle', 0.058237743, u'electric_ray', 0.051800929]
+[u'ping-pong_ball', 0.25030783, u'crash_helmet', 0.086828142, u'tennis_ball', 0.082744524, u'pick', 0.07469067, u'web_site', 0.043155003]
+[u'crash_helmet', 0.24174744, u'football_helmet', 0.1809417, u'tennis_ball', 0.10061044, u'ski', 0.073671803, u'pick', 0.067627743]
+[u'corkscrew', 0.21285869, u'buckle', 0.094029278, u'digital_clock', 0.077038951, u'thimble', 0.054410215, u'screwdriver', 0.046010569]
+[u'web_site', 0.65085405, u'sunglasses', 0.075672492, u'sunglass', 0.053543948, u'snorkel', 0.025133338, u'neck_brace', 0.017452907]
+[u'rule', 0.3994284, u'screwdriver', 0.19361608, u'nail', 0.10630199, u"carpenter's_kit", 0.046193779, u'syringe', 0.027297201]

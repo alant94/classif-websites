@@ -1,0 +1,3 @@
+[u'sombrero', 0.43900299, u'drum', 0.20135301, u'cowboy_hat', 0.18208103, u'gong', 0.055833943, u'electric_fan', 0.033202104]
+[u'crossword_puzzle', 0.15551437, u'menu', 0.064948395, u'rifle', 0.05879496, u'web_site', 0.05101328, u'comic_book', 0.026281621]
+[u'pay-phone', 0.34152687, u'gas_pump', 0.27786732, u'tape_player', 0.067623712, u'dial_telephone', 0.026070192, u'cassette_player', 0.025864018]

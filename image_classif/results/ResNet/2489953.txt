@@ -1,0 +1,4 @@
+[u'military_uniform', 0.93083191, u'assault_rifle', 0.032171343, u'rifle', 0.0087045189, u'mountain_bike', 0.0057171327, u'horse_cart', 0.0046802973]
+[u'African_elephant', 0.12399571, u'tusker', 0.10129537, u'Arabian_camel', 0.075185359, u'African_hunting_dog', 0.058885124, u'mountain_bike', 0.05464606]
+[u'Chesapeake_Bay_retriever', 0.2657851, u'bison', 0.16475515, u'hartebeest', 0.09096995, u'ox', 0.06403289, u'plow', 0.040995784]
+[u'Indian_elephant', 0.38881776, u'Arabian_camel', 0.27899954, u'tusker', 0.1079187, u'African_elephant', 0.075495757, u'water_buffalo', 0.071009815]

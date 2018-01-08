@@ -1,0 +1,7 @@
+[u'restaurant', 0.51476616, u'patio', 0.078635752, u'barbershop', 0.064636767, u'bakery', 0.050381072, u'sliding_door', 0.033948317]
+[u'digital_clock', 0.048328895, u'web_site', 0.047895666, u'stopwatch', 0.03512878, u'nematode', 0.024379903, u'analog_clock', 0.023607066]
+[u'prison', 0.76190609, u'medicine_chest', 0.047928166, u'sliding_door', 0.032083958, u'shoji', 0.016267875, u'turnstile', 0.016024359]
+[u'medicine_chest', 0.52965605, u'washbasin', 0.10943421, u'prison', 0.058521915, u'library', 0.050519869, u'sliding_door', 0.018403135]
+[u'web_site', 0.17646475, u'envelope', 0.043761458, u'maze', 0.017061818, u'book_jacket', 0.014223367, u'crossword_puzzle', 0.011825539]
+[u'web_site', 0.33203053, u'nematode', 0.053932153, u'vine_snake', 0.037578017, u'dragonfly', 0.030925207, u'golf_ball', 0.030460684]
+[u'web_site', 0.46104243, u'digital_clock', 0.17750883, u'screw', 0.01969376, u'analog_clock', 0.01941759, u'nail', 0.017731164]

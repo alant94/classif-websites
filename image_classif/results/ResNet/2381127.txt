@@ -1,0 +1,5 @@
+[u'loupe', 0.37439537, u'stopwatch', 0.077807277, u'hook', 0.068452582, u'stethoscope', 0.054293536, u'whistle', 0.045488451]
+[u'bucket', 0.46168274, u'sunscreen', 0.28138921, u'face_powder', 0.045827232, u'pot', 0.024022527, u'lotion', 0.021321593]
+[u'photocopier', 0.35862496, u'file', 0.15893199, u'safe', 0.14647716, u'dishwasher', 0.05726257, u'chiffonier', 0.024043705]
+[u'soap_dispenser', 0.44584444, u'barbell', 0.07931722, u'dumbbell', 0.053114172, u'turnstile', 0.038438864, u'fountain_pen', 0.026061589]
+[u'file', 0.38385728, u'dishwasher', 0.088581167, u'photocopier', 0.052570794, u'microwave', 0.03898304, u'safe', 0.031846352]

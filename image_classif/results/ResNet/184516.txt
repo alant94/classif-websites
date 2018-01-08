@@ -1,0 +1,5 @@
+[u'book_jacket', 0.34630612, u'comic_book', 0.20113756, u'web_site', 0.17024493, u'television', 0.017464954, u'notebook', 0.010103117]
+[u'vestment', 0.23686917, u'prison', 0.1372911, u'butcher_shop', 0.087445982, u'maypole', 0.043336116, u'stage', 0.032524258]
+[u'groom', 0.33938426, u'hoopskirt', 0.071230449, u'fire_screen', 0.037313242, u'gown', 0.022123404, u'harp', 0.021558456]
+[u'window_shade', 0.46945763, u'window_screen', 0.10797411, u'bakery', 0.045527283, u'fire_screen', 0.043023624, u'rocking_chair', 0.037671577]
+[u'bakery', 0.10602133, u'bookshop', 0.078658298, u'cinema', 0.031478096, u'grocery_store', 0.029854892, u'butcher_shop', 0.024000499]

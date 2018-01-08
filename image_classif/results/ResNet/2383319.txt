@@ -1,0 +1,3 @@
+[u'knee_pad', 0.17808473, u'maillot', 0.063539349, u'neck_brace', 0.046875402, u'breastplate', 0.039254881, u'jean', 0.037869304]
+[u'television', 0.19377643, u'wallet', 0.16383992, u'web_site', 0.075886868, u'binder', 0.046097077, u'forklift', 0.034596141]
+[u'water_jug', 0.40862179, u'water_bottle', 0.27947184, u'soap_dispenser', 0.15418792, u'nipple', 0.036415789, u'beaker', 0.010869035]

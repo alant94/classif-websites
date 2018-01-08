@@ -1,0 +1,8 @@
+[u'hand-held_computer', 0.19045284, u'coffee_mug', 0.13230801, u'face_powder', 0.10196083, u'modem', 0.074338555, u'loupe', 0.048327234]
+[u'dishwasher', 0.048851822, u'envelope', 0.037863661, u'refrigerator', 0.033495333, u'wardrobe', 0.029278558, u'rule', 0.028429748]
+[u'prayer_rug', 0.23928615, u'handkerchief', 0.15523794, u'rule', 0.1404933, u'binder', 0.12770669, u'envelope', 0.11431997]
+[u'web_site', 0.18052413, u'remote_control', 0.063335039, u'stopwatch', 0.033137731, u'combination_lock', 0.02202002, u'hair_spray', 0.021603076]
+[u'web_site', 0.25005016, u'church', 0.14678426, u'theater_curtain', 0.13151997, u'mosque', 0.055530306, u'stupa', 0.051776379]
+[u'web_site', 0.52562428, u'envelope', 0.04231244, u'radio', 0.029591104, u'tray', 0.026751403, u'window_shade', 0.020437986]
+[u'book_jacket', 0.31735986, u'binder', 0.27825209, u'packet', 0.070692718, u'modem', 0.052028745, u'oscilloscope', 0.045260731]
+[u'shower_curtain', 0.22335452, u'wardrobe', 0.091288462, u'washbasin', 0.081980966, u'soap_dispenser', 0.042948421, u'sliding_door', 0.039586667]

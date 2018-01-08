@@ -1,0 +1,1 @@
+[u'Arabian_camel', 0.95706427, u'hartebeest', 0.014317844, u'impala', 0.0060946718, u'whippet', 0.0036282227, u'gazelle', 0.0025815547]

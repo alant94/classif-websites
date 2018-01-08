@@ -1,0 +1,1 @@
+[u'birdhouse', 0.099041186, u'breakwater', 0.072824307, u'mailbox', 0.063372061, u'stone_wall', 0.044788245, u'sundial', 0.03038452]

@@ -1,0 +1,5 @@
+[u'crossword_puzzle', 0.79902917, u'toilet_seat', 0.039789479, u'book_jacket', 0.031361189, u'comic_book', 0.012743487, u'loudspeaker', 0.011300487]
+[u'cloak', 0.11473194, u'abaya', 0.085713111, u'theater_curtain', 0.067664512, u'paintbrush', 0.06458351, u'gown', 0.063767783]
+[u'strainer', 0.30989182, u'electric_fan', 0.27494588, u'microphone', 0.24193163, u'binoculars', 0.013950252, u'radio', 0.012719663]
+[u'coffee_mug', 0.46714094, u'crossword_puzzle', 0.13195141, u'lighter', 0.091632567, u'ashcan', 0.030286744, u'book_jacket', 0.02831037]
+[u'lab_coat', 0.11345445, u'book_jacket', 0.072887741, u'comic_book', 0.071214773, u'sunglass', 0.066014893, u'wig', 0.040591914]

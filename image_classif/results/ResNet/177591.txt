@@ -1,0 +1,2 @@
+[u'hair_spray', 0.76046288, u'book_jacket', 0.032340992, u'perfume', 0.02987737, u'web_site', 0.024211589, u'ashcan', 0.01239362]
+[u'web_site', 0.95046562, u'menu', 0.010512977, u'starfish', 0.0029989781, u'isopod', 0.0028802012, u'tripod', 0.0019502231]

@@ -1,0 +1,1 @@
+[u'bathtub', 0.46819454, u'washbasin', 0.21250267, u'tub', 0.082739189, u'fur_coat', 0.022309849, u'shower_cap', 0.016290627]

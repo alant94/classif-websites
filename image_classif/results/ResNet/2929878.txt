@@ -1,0 +1,7 @@
+[u'abaya', 0.20287518, u'cloak', 0.12336162, u'iron', 0.11522597, u'wig', 0.066597842, u'bath_towel', 0.040643893]
+[u'wig', 0.10994577, u'jersey', 0.064678483, u'lab_coat', 0.042490613, u'brassiere', 0.040181275, u'pajama', 0.04016488]
+[u'digital_watch', 0.43699789, u'digital_clock', 0.2751371, u'stopwatch', 0.055551585, u'comic_book', 0.030621849, u'cornet', 0.022284288]
+[u'velvet', 0.17288777, u'notebook', 0.067096822, u'chest', 0.058752134, u'laptop', 0.050211951, u'doormat', 0.042114604]
+[u'face_powder', 0.36161533, u'hair_spray', 0.17921858, u'lipstick', 0.075579189, u'perfume', 0.042097975, u'wig', 0.04165969]
+[u'vacuum', 0.30213436, u'wardrobe', 0.024335371, u'drum', 0.019457206, u'pole', 0.018458916, u'jean', 0.017586572]
+[u'wig', 0.32900134, u'wool', 0.25889549, u'cardigan', 0.061784811, u'stole', 0.053799856, u'face_powder', 0.017098863]

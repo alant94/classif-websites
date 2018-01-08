@@ -1,0 +1,3 @@
+[u'ashcan', 0.040895347, u'holster', 0.038277462, u'rain_barrel', 0.035457242, u'backpack', 0.03233102, u'apron', 0.025045022]
+[u'spotlight', 0.96883059, u'switch', 0.0034799885, u'loupe', 0.0032395665, u'wall_clock', 0.001516962, u'pencil_sharpener', 0.0014927146]
+[u'holster', 0.36201957, u'knee_pad', 0.17933355, u'scabbard', 0.15742691, u'binoculars', 0.049958099, u'buckle', 0.030950662]

@@ -1,0 +1,2 @@
+[u'reel', 0.19755344, u'conch', 0.13972652, u'sunscreen', 0.10960945, u'swimming_trunks', 0.096188538, u'bikini', 0.07215403]
+[u'gar', 0.39469299, u'barracouta', 0.27238557, u'coho', 0.18019749, u'reel', 0.13867955, u'pole', 0.0060199387]

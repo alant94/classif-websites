@@ -1,0 +1,8 @@
+[u'monitor', 0.25159258, u'web_site', 0.14981329, u'patio', 0.074930973, u'jigsaw_puzzle', 0.05099066, u'seashore', 0.046739705]
+[u'puck', 0.92234218, u'oil_filter', 0.018469032, u'frying_pan', 0.015643744, u'oscilloscope', 0.0092598386, u'drum', 0.0088193081]
+[u'plate_rack', 0.37837231, u'nematode', 0.12355868, u'hair_slide', 0.06176446, u'safety_pin', 0.025508547, u'hook', 0.018060809]
+[u'hook', 0.10113376, u'nematode', 0.073047951, u'ocarina', 0.070020214, u'stopwatch', 0.050949093, u'oil_filter', 0.040860523]
+[u'beaker', 0.15559879, u'frying_pan', 0.1052544, u'mouse', 0.049808208, u'washbasin', 0.041274168, u'stethoscope', 0.025163999]
+[u'street_sign', 0.32148942, u'loupe', 0.278956, u'analog_clock', 0.076069623, u'hook', 0.048245743, u'maze', 0.044064783]
+[u'street_sign', 0.48253015, u'comic_book', 0.079234011, u'book_jacket', 0.07608521, u'cash_machine', 0.017857431, u'packet', 0.014986268]
+[u'scoreboard', 0.15179963, u'web_site', 0.1466752, u'book_jacket', 0.11491574, u'digital_clock', 0.11191375, u'comic_book', 0.074407227]

@@ -1,0 +1,2 @@
+[u'web_site', 0.15818422, u'ambulance', 0.066633016, u'jersey', 0.052307911, u'shield', 0.045511089, u'Band_Aid', 0.044113088]
+[u'moving_van', 0.24107601, u'book_jacket', 0.060157143, u'Band_Aid', 0.029683439, u'sunscreen', 0.026104057, u'oil_filter', 0.025090789]

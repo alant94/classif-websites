@@ -1,0 +1,1 @@
+[u'digital_clock', 0.16986246, u'syringe', 0.12786028, u'traffic_light', 0.075340867, u'laptop', 0.07040821, u'chime', 0.052334819]

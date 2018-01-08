@@ -1,0 +1,3 @@
+[u'coral_reef', 0.21705976, u'book_jacket', 0.14996567, u'jigsaw_puzzle', 0.10598248, u'lakeside', 0.091841504, u'comic_book', 0.086354405]
+[u'screw', 0.074129224, u'plate_rack', 0.068894036, u'screwdriver', 0.046210915, u'nail', 0.045920726, u'comic_book', 0.038755316]
+[u'shopping_cart', 0.22939314, u'stage', 0.061846107, u'solar_dish', 0.048068557, u'upright', 0.042962387, u'harp', 0.041442059]

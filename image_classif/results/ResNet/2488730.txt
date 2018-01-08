@@ -1,0 +1,3 @@
+[u'swab', 0.63519698, u'wig', 0.038444262, u'comic_book', 0.028908269, u'iron', 0.025266606, u'hair_spray', 0.018053595]
+[u'cash_machine', 0.28440851, u'web_site', 0.052414652, u'paper_towel', 0.05074428, u'mailbox', 0.042795729, u'sewing_machine', 0.03847836]
+[u'cup', 0.20432501, u'coffee_mug', 0.18892433, u'menu', 0.16077621, u'web_site', 0.096903846, u'tray', 0.071954198]

@@ -1,0 +1,4 @@
+[u'envelope', 0.54904789, u'jersey', 0.043604437, u'mortarboard', 0.041152269, u'analog_clock', 0.032604069, u'web_site', 0.028516151]
+[u'butcher_shop', 0.40108934, u'barrel', 0.081958927, u'fire_screen', 0.044181388, u'window_screen', 0.026327709, u'barrow', 0.022520131]
+[u'buckle', 0.20554602, u'street_sign', 0.15423885, u'fire_screen', 0.12456193, u'bakery', 0.07092119, u'radiator', 0.050011624]
+[u'cauliflower', 0.22193012, u'hot_pot', 0.15227091, u'American_lobster', 0.11463097, u'Dutch_oven', 0.093845472, u'king_crab', 0.068797179]

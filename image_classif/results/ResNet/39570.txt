@@ -1,0 +1,1 @@
+[u'grocery_store', 0.099838287, u'cab', 0.080663204, u'forklift', 0.07515727, u'pool_table', 0.063334383, u'passenger_car', 0.054187082]

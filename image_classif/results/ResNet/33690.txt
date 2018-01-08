@@ -1,0 +1,2 @@
+[u'chainlink_fence', 0.42059246, u'mobile_home', 0.34718955, u'patio', 0.070106231, u'picket_fence', 0.043819342, u'window_screen', 0.020111686]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

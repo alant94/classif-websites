@@ -1,0 +1,8 @@
+[u'book_jacket', 0.37612319, u'perfume', 0.076348715, u'web_site', 0.055651348, u'quill', 0.054354716, u'menu', 0.048618492]
+[u'space_shuttle', 0.22236235, u'badger', 0.15150613, u'monitor', 0.11095995, u'television', 0.1096665, u'fire_screen', 0.08979857]
+[u'baseball', 0.84100306, u'ping-pong_ball', 0.10938115, u'volleyball', 0.037496425, u'golf_ball', 0.0071053086, u'gong', 0.0025072931]
+[u'theater_curtain', 0.93489873, u'toaster', 0.021099333, u"jack-o'-lantern", 0.0045661195, u'space_heater', 0.0025847508, u'velvet', 0.0021581321]
+[u'wig', 0.23254818, u'brassiere', 0.091073684, u'fire_screen', 0.052470852, u'window_screen', 0.033697363, u'lipstick', 0.026821824]
+[u'maillot', 0.368512, u'maillot', 0.26994026, u'brassiere', 0.19351259, u'bikini', 0.037629072, u'miniskirt', 0.012936808]
+[u'otterhound', 0.16690648, u'Gordon_setter', 0.11588749, u'Rottweiler', 0.057531521, u'briard', 0.053437736, u'Airedale', 0.043497615]
+[u'lipstick', 0.8833558, u'whiskey_jug', 0.013327758, u'face_powder', 0.010263038, u'ski_mask', 0.010054382, u'mask', 0.008505323]

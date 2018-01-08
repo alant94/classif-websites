@@ -1,0 +1,4 @@
+[u'book_jacket', 0.75785023, u'comic_book', 0.12329058, u'street_sign', 0.01584206, u'packet', 0.014453676, u'bookshop', 0.008622285]
+[u'book_jacket', 0.49470642, u'comic_book', 0.48175427, u'jersey', 0.0053135986, u'theater_curtain', 0.001815649, u'web_site', 0.0017016167]
+[u'web_site', 0.81639582, u'puck', 0.04691362, u'slot', 0.01280558, u'toilet_seat', 0.011216342, u'comic_book', 0.008525162]
+[u'envelope', 0.088484973, u'pillow', 0.062902451, u'loupe', 0.049405746, u'paper_towel', 0.04022773, u'handkerchief', 0.038238503]

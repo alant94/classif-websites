@@ -1,0 +1,1 @@
+[u'sax', 0.34087092, u'parking_meter', 0.07804127, u'paintbrush', 0.036780544, u'cornet', 0.027544584, u'screwdriver', 0.024756871]

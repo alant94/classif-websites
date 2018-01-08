@@ -1,0 +1,1 @@
+[u'vulture', 0.39335102, u'bald_eagle', 0.24429265, u'fur_coat', 0.066910334, u'black_stork', 0.062600404, u'coho', 0.051624037]

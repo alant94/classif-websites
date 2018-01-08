@@ -1,0 +1,6 @@
+[u'lumbermill', 0.31192678, u'steam_locomotive', 0.22913451, u'passenger_car', 0.10099273, u'electric_locomotive', 0.080539472, u'harvester', 0.059044093]
+[u'photocopier', 0.27473214, u'printer', 0.19837396, u'file', 0.055030908, u'switch', 0.05283713, u'cash_machine', 0.045864604]
+[u'picket_fence', 0.87158281, u'worm_fence', 0.1051992, u'crib', 0.007376147, u'rocking_chair', 0.005246453, u'shopping_basket', 0.0018343671]
+[u'tobacco_shop', 0.23051597, u'library', 0.1998011, u'lumbermill', 0.087796822, u'bookshop', 0.066559888, u'container_ship', 0.036342375]
+[u'home_theater', 0.13076551, u'stretcher', 0.091024764, u'printer', 0.066051312, u'dishwasher', 0.065262057, u'submarine', 0.064705357]
+[u'pay-phone', 0.73476869, u'vending_machine', 0.13637857, u'cash_machine', 0.033657826, u'gas_pump', 0.0092302244, u'slot', 0.0079327887]

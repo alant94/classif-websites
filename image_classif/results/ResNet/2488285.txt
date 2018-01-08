@@ -1,0 +1,6 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'Band_Aid', 0.075766727, u'harmonica', 0.051190414, u'backpack', 0.049809232, u'folding_chair', 0.046704553, u'jersey', 0.03619197]
+[u'ski', 0.1380621, u'web_site', 0.083745092, u'lighter', 0.057784416, u'street_sign', 0.045733601, u'shield', 0.044857394]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'dining_table', 0.3931506, u'restaurant', 0.31463265, u'bookcase', 0.03848343, u'entertainment_center', 0.035287209, u'window_shade', 0.034612119]
+[u'plate', 0.70280814, u'meat_loaf', 0.07692907, u'spaghetti_squash', 0.046536561, u'mashed_potato', 0.04525442, u'consomme', 0.011797747]

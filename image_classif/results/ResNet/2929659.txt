@@ -1,0 +1,5 @@
+[u'medicine_chest', 0.33927268, u'beaker', 0.079939373, u'digital_clock', 0.076921828, u'binder', 0.047355078, u'gas_pump', 0.023189081]
+[u'digital_watch', 0.043995563, u'screwdriver', 0.036293797, u'scoreboard', 0.029400472, u'forklift', 0.028899591, u'picket_fence', 0.028313983]
+[u'medicine_chest', 0.53644121, u'screen', 0.059478689, u'monitor', 0.057904109, u'cash_machine', 0.035195082, u'envelope', 0.033962715]
+[u'pier', 0.95546305, u'bannister', 0.015762344, u'viaduct', 0.0078628203, u'steel_arch_bridge', 0.0033519473, u'prison', 0.0017788913]
+[u'digital_clock', 0.07299111, u'ambulance', 0.067756444, u'prayer_rug', 0.044341508, u'medicine_chest', 0.040658444, u'shield', 0.028994843]

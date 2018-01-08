@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.52257979, u'oxygen_mask', 0.13650835, u'clog', 0.035796955, u'Indian_cobra', 0.032468054, u'harmonica', 0.019808728]
+[u'window_shade', 0.59931284, u'book_jacket', 0.15880285, u'window_screen', 0.058151271, u'binder', 0.03119698, u'slide_rule', 0.030679064]
+[u'web_site', 0.49187249, u'photocopier', 0.089972608, u'monitor', 0.078196995, u'desktop_computer', 0.065970793, u'desk', 0.051738538]
+[u'cocktail_shaker', 0.2319918, u'soap_dispenser', 0.16694897, u'oil_filter', 0.061527107, u'can_opener', 0.060035806, u'joystick', 0.057992473]

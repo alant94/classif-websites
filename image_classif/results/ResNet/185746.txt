@@ -1,0 +1,2 @@
+[u'pajama', 0.3451049, u'nipple', 0.10151882, u'lab_coat', 0.080811985, u'book_jacket', 0.078295194, u'balance_beam', 0.04253206]
+[u'analog_clock', 0.73252934, u'digital_watch', 0.16599484, u'stopwatch', 0.029646, u'digital_clock', 0.019623328, u'scoreboard', 0.016640527]

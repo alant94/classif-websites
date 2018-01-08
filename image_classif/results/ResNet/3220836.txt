@@ -1,0 +1,2 @@
+[u'church', 0.8840462, u'palace', 0.035469383, u'castle', 0.034580197, u'monastery', 0.012524644, u'bell_cote', 0.0069398317]
+[u'web_site', 0.19081362, u'envelope', 0.098859631, u'matchstick', 0.064497814, u'magnetic_compass', 0.044919316, u'hook', 0.033356395]

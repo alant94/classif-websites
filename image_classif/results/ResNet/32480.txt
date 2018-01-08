@@ -1,0 +1,4 @@
+[u'barbell', 0.30878338, u'parallel_bars', 0.15680976, u'dumbbell', 0.10053749, u'soccer_ball', 0.046356242, u'horizontal_bar', 0.043616939]
+[u'beaker', 0.3315073, u'nipple', 0.17896733, u'measuring_cup', 0.16959128, u'digital_clock', 0.026379677, u'microwave', 0.025236044]
+[u'water_bottle', 0.26835307, u'nipple', 0.22899537, u'lotion', 0.18009022, u'pill_bottle', 0.11557759, u'medicine_chest', 0.065010354]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

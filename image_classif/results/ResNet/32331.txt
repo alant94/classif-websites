@@ -1,0 +1,1 @@
+[u'book_jacket', 0.15222886, u'barbershop', 0.12777127, u'paper_towel', 0.073180839, u'theater_curtain', 0.058216184, u'menu', 0.048223458]

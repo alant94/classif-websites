@@ -1,0 +1,2 @@
+[u'ear', 0.1506622, u'zucchini', 0.14640282, u"yellow_lady's_slipper", 0.11255403, u'spaghetti_squash', 0.055259142, u'forklift', 0.051215474]
+[u'plunger', 0.094456412, u'nail', 0.06518919, u'oscilloscope', 0.06418021, u'stopwatch', 0.060586549, u'whistle', 0.052262679]

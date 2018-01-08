@@ -1,0 +1,4 @@
+[u'padlock', 0.35236999, u'swab', 0.1315296, u'beer_bottle', 0.069063276, u'paintbrush', 0.063475341, u'jean', 0.058202211]
+[u'fountain', 0.83172584, u'wing', 0.030322956, u'volcano', 0.022025669, u'spotlight', 0.017915506, u'monitor', 0.012053279]
+[u'abaya', 0.13762413, u'bathing_cap', 0.055512741, u'television', 0.032323912, u'centipede', 0.028084666, u'web_site', 0.024086136]
+[u'lighter', 0.091179118, u'stopwatch', 0.08372438, u'loupe', 0.081264235, u'remote_control', 0.070881709, u'switch', 0.060723446]

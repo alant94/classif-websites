@@ -1,0 +1,4 @@
+[u'jeep', 0.76968884, u'tow_truck', 0.16683005, u'trailer_truck', 0.010400946, u'half_track', 0.0095705763, u'snowplow', 0.006552801]
+[u'moving_van', 0.31263962, u'web_site', 0.11154746, u'trailer_truck', 0.049879402, u'forklift', 0.044047456, u'desktop_computer', 0.039218429]
+[u'web_site', 0.62859577, u'menu', 0.032202844, u'envelope', 0.024337485, u'slot', 0.010226467, u'laptop', 0.0079634953]
+[u'recreational_vehicle', 0.29805443, u'pickup', 0.1585398, u'jeep', 0.10631594, u'trailer_truck', 0.10630246, u'moving_van', 0.063799873]

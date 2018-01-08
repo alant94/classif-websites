@@ -1,0 +1,5 @@
+[u'book_jacket', 0.59563583, u'Band_Aid', 0.21301438, u'oil_filter', 0.021708308, u'comic_book', 0.018450169, u'carton', 0.016355673]
+[u'menu', 0.51511788, u'scoreboard', 0.34042895, u'book_jacket', 0.03253277, u'brass', 0.029939882, u'sewing_machine', 0.010480306]
+[u'web_site', 0.32424119, u'slide_rule', 0.2696676, u'rule', 0.12846872, u'menu', 0.030802263, u'crossword_puzzle', 0.025971882]
+[u'web_site', 0.30913481, u'digital_clock', 0.16922349, u'traffic_light', 0.056974754, u'street_sign', 0.048118681, u'analog_clock', 0.038203571]
+[u'web_site', 0.34173363, u'digital_clock', 0.21253589, u'prayer_rug', 0.025129737, u'analog_clock', 0.02463283, u'envelope', 0.01554575]

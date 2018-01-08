@@ -1,0 +1,2 @@
+[u'shield', 0.29551399, u'pick', 0.25803497, u'oil_filter', 0.09364517, u'bolo_tie', 0.034141641, u'lighter', 0.028442889]
+[u'puck', 0.86183888, u'shield', 0.047086112, u'brass', 0.016447188, u'toilet_seat', 0.010323175, u'street_sign', 0.0081001613]

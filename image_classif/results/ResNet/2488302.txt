@@ -1,0 +1,4 @@
+[u'street_sign', 0.21932322, u'scoreboard', 0.20051973, u'analog_clock', 0.057804029, u'Band_Aid', 0.033065882, u'book_jacket', 0.026893424]
+[u'comic_book', 0.49515879, u'book_jacket', 0.41780621, u'scoreboard', 0.022729542, u'bookshop', 0.010713637, u'menu', 0.0052273483]
+[u'comic_book', 0.62004101, u'book_jacket', 0.11741868, u'packet', 0.079744212, u'nail', 0.007889186, u'web_site', 0.0077953078]
+[u'web_site', 0.55775231, u'envelope', 0.12083419, u'rule', 0.014011952, u'hair_spray', 0.0138597, u'binder', 0.013294271]

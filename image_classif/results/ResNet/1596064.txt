@@ -1,0 +1,8 @@
+[u'swimming_trunks', 0.51951057, u'tub', 0.062684268, u'diaper', 0.060709689, u'bikini', 0.047065128, u'cowboy_hat', 0.045858867]
+[u'swimming_trunks', 0.3158026, u'diaper', 0.30579752, u'bikini', 0.1330117, u'bathtub', 0.10837562, u'tub', 0.06574975]
+[u'sombrero', 0.083462834, u'bonnet', 0.066791154, u'mask', 0.066172354, u'sweatshirt', 0.056163393, u'cowboy_hat', 0.05360692]
+[u'custard_apple', 0.20700464, u'corn', 0.093451858, u'cucumber', 0.069131531, u'Granny_Smith', 0.066786781, u'banana', 0.065993018]
+[u'web_site', 0.32369822, u'television', 0.1097032, u'neck_brace', 0.03153934, u'hand_blower', 0.031407271, u'shower_curtain', 0.026911514]
+[u'crossword_puzzle', 0.79691774, u'maze', 0.072433211, u'prayer_rug', 0.031287745, u'tray', 0.01470759, u'shoji', 0.0092561441]
+[u'harmonica', 0.23460689, u'reflex_camera', 0.052175127, u'cradle', 0.039491814, u'bow', 0.028499205, u'bathtub', 0.025343403]
+[u'studio_couch', 0.213936, u'pajama', 0.16479497, u'gown', 0.05135835, u'brassiere', 0.045416091, u'groom', 0.029164661]

@@ -1,0 +1,4 @@
+[u'church', 0.1525438, u'castle', 0.14133184, u'fountain', 0.12826709, u'picket_fence', 0.086554818, u'monastery', 0.054908514]
+[u'bathtub', 0.27314276, u'bow_tie', 0.087875567, u'tub', 0.080245294, u'maraca', 0.07276395, u'ice_lolly', 0.039887499]
+[u'coho', 0.12790304, u'stingray', 0.10406519, u'canoe', 0.08254049, u'shovel', 0.046662606, u'minivan', 0.02055094]
+[u'patio', 0.48540881, u'mobile_home', 0.10893118, u'boathouse', 0.074336842, u'lakeside', 0.060839586, u'picket_fence', 0.047430113]

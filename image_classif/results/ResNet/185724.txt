@@ -1,0 +1,6 @@
+[u'ski', 0.26863122, u'reel', 0.043971058, u'stage', 0.028584901, u'jean', 0.025347024, u'cowboy_boot', 0.024159662]
+[u'stage', 0.20806681, u'swab', 0.14718322, u'steel_drum', 0.10810579, u'harp', 0.095026098, u'unicycle', 0.037630551]
+[u'tow_truck', 0.22793505, u'traffic_light', 0.061319988, u'garbage_truck', 0.048118949, u'cab', 0.043541636, u'sports_car', 0.037617911]
+[u'stage', 0.40398246, u'swimming_trunks', 0.11839494, u'king_penguin', 0.083594583, u'butcher_shop', 0.071270704, u'scoreboard', 0.050803691]
+[u'wardrobe', 0.24017084, u'butcher_shop', 0.067691632, u'ski', 0.065993845, u'sarong', 0.04193474, u'stage', 0.04060119]
+[u'prayer_rug', 0.22261415, u'shower_curtain', 0.098759942, u'tray', 0.092976555, u'sliding_door', 0.073550403, u'crossword_puzzle', 0.036075979]

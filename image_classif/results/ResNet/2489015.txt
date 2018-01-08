@@ -1,0 +1,2 @@
+[u'web_site', 0.25325182, u'cheetah', 0.062592082, u'window_screen', 0.038664714, u'jaguar', 0.033704106, u'prairie_chicken', 0.03281771]
+[u'web_site', 0.73508883, u'monitor', 0.057038881, u'shower_cap', 0.049860578, u'screen', 0.023159234, u'golfcart', 0.017171716]

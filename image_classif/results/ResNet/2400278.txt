@@ -1,0 +1,5 @@
+[u'wall_clock', 0.14517687, u'analog_clock', 0.11809833, u'shield', 0.085848503, u'face_powder', 0.065267816, u'drum', 0.05672957]
+[u'picket_fence', 0.15519272, u'whistle', 0.12325227, u'web_site', 0.12092809, u'rocking_chair', 0.055275463, u'cornet', 0.039238621]
+[u'hair_spray', 0.10138918, u'nipple', 0.10082659, u"carpenter's_kit", 0.058678016, u'digital_clock', 0.058106169, u'cleaver', 0.05580483]
+[u'space_shuttle', 0.0946621, u'balloon', 0.093517773, u'jersey', 0.053618327, u'book_jacket', 0.047760766, u'web_site', 0.046718124]
+[u'digital_clock', 0.36918211, u'crossword_puzzle', 0.28417149, u'web_site', 0.043972079, u'desk', 0.028769197, u'digital_watch', 0.027130075]

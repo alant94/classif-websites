@@ -1,0 +1,6 @@
+[u'web_site', 0.28264087, u'comic_book', 0.028797135, u'book_jacket', 0.019277163, u'stopwatch', 0.013485044, u'menu', 0.013119281]
+[u'soap_dispenser', 0.12640108, u'lotion', 0.094319664, u'whiskey_jug', 0.055409238, u'beaker', 0.047202576, u'water_jug', 0.038037479]
+[u'stopwatch', 0.11549163, u'digital_clock', 0.064565942, u'analog_clock', 0.062949367, u'quill', 0.039899498, u'web_site', 0.036316331]
+[u'web_site', 0.4047662, u'comic_book', 0.14244658, u'packet', 0.05477155, u'book_jacket', 0.030468594, u'envelope', 0.019531576]
+[u'comic_book', 0.39948785, u'tobacco_shop', 0.23011981, u'slot', 0.1617908, u'whistle', 0.045970924, u'cassette', 0.039878115]
+[u'Band_Aid', 0.58079314, u'book_jacket', 0.13993777, u'web_site', 0.10665945, u'barbershop', 0.029825658, u'comic_book', 0.020953983]

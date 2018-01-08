@@ -1,0 +1,3 @@
+[u'meat_loaf', 0.36293983, u'mashed_potato', 0.2764062, u'plate', 0.12324946, u'ice_cream', 0.044839937, u'corn', 0.040823877]
+[u'ice_cream', 0.36054316, u'corn', 0.18677372, u'orange', 0.14877655, u'banana', 0.046645537, u'plate', 0.037603226]
+[u'theater_curtain', 0.5443449, u'web_site', 0.041826937, u'binder', 0.022732023, u'envelope', 0.011590761, u'fire_screen', 0.011401958]

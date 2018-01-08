@@ -1,0 +1,1 @@
+[u'web_site', 0.17526712, u'chain_saw', 0.017178979, u'oil_filter', 0.015832214, u'hair_spray', 0.015476578, u'hand_blower', 0.014058705]

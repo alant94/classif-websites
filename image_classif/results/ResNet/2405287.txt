@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.64499605, u'window_shade', 0.19405229, u'entertainment_center', 0.025313256, u'fire_screen', 0.025158193, u'window_screen', 0.012501928]
+[u'fire_screen', 0.40800893, u'window_screen', 0.22639121, u'book_jacket', 0.068720832, u'tray', 0.062150449, u'prayer_rug', 0.045871992]

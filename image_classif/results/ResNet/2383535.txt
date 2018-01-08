@@ -1,0 +1,5 @@
+[u'rapeseed', 0.25372455, u'barn', 0.19390446, u'harvester', 0.12535265, u'greenhouse', 0.086219862, u'hay', 0.07063774]
+[u'valley', 0.33906934, u'viaduct', 0.14104486, u'rapeseed', 0.079907082, u'patio', 0.052151918, u'suspension_bridge', 0.041319352]
+[u'rapeseed', 0.99575365, u'valley', 0.00052806607, u'stone_wall', 0.00027691439, u'picket_fence', 0.00025251362, u'greenhouse', 0.00025014961]
+[u'barrel', 0.2270043, u'vault', 0.15573414, u'prison', 0.061862692, u'barn', 0.058847737, u'steel_arch_bridge', 0.056476153]
+[u'valley', 0.51876789, u'stone_wall', 0.2871235, u'worm_fence', 0.031033002, u'lakeside', 0.01627324, u'promontory', 0.013706258]

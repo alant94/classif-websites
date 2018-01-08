@@ -1,0 +1,4 @@
+[u'barracouta', 0.1056039, u'alligator_lizard', 0.060441718, u'eel', 0.042310786, u'pickelhaube', 0.035560291, u'rock_python', 0.035316113]
+[u'altar', 0.10217793, u'drilling_platform', 0.042379048, u'tray', 0.038774028, u'quill', 0.038193103, u'bucket', 0.031954594]
+[u'frilled_lizard', 0.407958, u'barracouta', 0.16540153, u'breastplate', 0.036841381, u'cuirass', 0.024427947, u'common_iguana', 0.021380659]
+[u'gar', 0.13969707, u'common_newt', 0.13185965, u'coho', 0.12712456, u'barracouta', 0.061831877, u'sturgeon', 0.043156881]

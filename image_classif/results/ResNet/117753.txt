@@ -1,0 +1,3 @@
+[u'television', 0.13931379, u'theater_curtain', 0.12851432, u'cinema', 0.08855053, u'barbershop', 0.066764392, u'red_wine', 0.058414597]
+[u'prison', 0.84097183, u'castle', 0.0432331, u'monastery', 0.023176946, u'palace', 0.020387039, u'dam', 0.019645609]
+[u'crayfish', 0.15577886, u'jellyfish', 0.06238658, u'isopod', 0.05329293, u'mask', 0.048634723, u'hip', 0.041548338]

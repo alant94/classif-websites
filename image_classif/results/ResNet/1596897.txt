@@ -1,0 +1,2 @@
+[u'bathtub', 0.19008966, u'tub', 0.17916976, u'maillot', 0.12716651, u'bikini', 0.056593336, u'cowboy_hat', 0.054297045]
+[u'hair_spray', 0.1935118, u'groom', 0.15535519, u'bikini', 0.090118714, u'wig', 0.079225391, u'brassiere', 0.047571175]

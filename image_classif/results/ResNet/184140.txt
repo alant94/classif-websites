@@ -1,0 +1,5 @@
+[u'panpipe', 0.98630941, u'marimba', 0.0044725202, u'comic_book', 0.001827193, u'church', 0.001613372, u'picket_fence', 0.001450751]
+[u'alp', 0.38114554, u'mountain_bike', 0.13493344, u'tripod', 0.082307301, u'plow', 0.043700092, u'cliff', 0.029964024]
+[u'web_site', 0.69200587, u'bicycle-built-for-two', 0.1136371, u'mountain_bike', 0.10573119, u'unicycle', 0.047416281, u'tricycle', 0.012900733]
+[u'mailbag', 0.25276253, u'shower_cap', 0.24815111, u'shield', 0.21591695, u'diaper', 0.10067756, u'drum', 0.027497608]
+[u'cuirass', 0.45118561, u'breastplate', 0.25955954, u'bulletproof_vest', 0.066766784, u'jersey', 0.038278863, u'hammer', 0.020212771]

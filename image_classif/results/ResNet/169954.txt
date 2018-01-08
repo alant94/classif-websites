@@ -1,0 +1,5 @@
+[u'book_jacket', 0.61951202, u'comic_book', 0.19185711, u'pillow', 0.11563621, u'tray', 0.013240427, u'envelope', 0.012670749]
+[u'book_jacket', 0.22770844, u'barn', 0.17585494, u'maze', 0.081516251, u'barbershop', 0.051138844, u'bannister', 0.037215073]
+[u'book_jacket', 0.82245755, u'throne', 0.079698555, u'altar', 0.056148678, u'comic_book', 0.013421571, u'tobacco_shop', 0.0053389608]
+[u'book_jacket', 0.49682224, u'comic_book', 0.45129707, u'padlock', 0.0083376328, u'bookshop', 0.0047485749, u'mailbox', 0.0029997225]
+[u'book_jacket', 0.31850889, u'comic_book', 0.18260136, u'prayer_rug', 0.13976292, u'mailbox', 0.10403924, u'wardrobe', 0.039606404]

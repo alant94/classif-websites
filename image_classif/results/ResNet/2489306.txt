@@ -1,0 +1,7 @@
+[u'hartebeest', 0.72812116, u'gazelle', 0.16156946, u'whippet', 0.019385016, u'Ibizan_hound', 0.015964441, u'impala', 0.013000405]
+[u'digital_clock', 0.85869992, u'analog_clock', 0.028638704, u'digital_watch', 0.019190641, u'web_site', 0.011067089, u'indri', 0.0077161989]
+[u'menu', 0.12786424, u'cleaver', 0.072968327, u'web_site', 0.055002593, u'hatchet', 0.031868793, u'cornet', 0.031317182]
+[u'plow', 0.21304622, u'megalith', 0.13002853, u'oxcart', 0.1189708, u'worm_fence', 0.11870196, u'ox', 0.036395494]
+[u'triceratops', 0.1815317, u'abaya', 0.081137151, u'mask', 0.054119971, u'armadillo', 0.052139096, u'ox', 0.032514997]
+[u'digital_clock', 0.92618054, u'analog_clock', 0.023585325, u'digital_watch', 0.013620972, u'stopwatch', 0.0081053991, u'chain', 0.0026112823]
+[u'plow', 0.43802023, u'vulture', 0.23746461, u'ostrich', 0.11053318, u'ruffed_grouse', 0.028197534, u'black_grouse', 0.017012434]

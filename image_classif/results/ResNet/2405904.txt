@@ -1,0 +1,2 @@
+[u'washbasin', 0.34019116, u'barbershop', 0.2077529, u'barber_chair', 0.13496131, u'medicine_chest', 0.054661285, u'carton', 0.028943367]
+[u'screen', 0.34527773, u'rule', 0.090040848, u'monitor', 0.08995682, u'tray', 0.06795872, u'digital_clock', 0.052517857]

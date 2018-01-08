@@ -1,0 +1,5 @@
+[u'jellyfish', 0.93277234, u'sarong', 0.014452268, u'nematode', 0.0064866603, u'feather_boa', 0.0062102261, u'golf_ball', 0.0052712141]
+[u'flute', 0.32558668, u'chain_mail', 0.060795791, u'oboe', 0.058996316, u'barbell', 0.055730272, u'neck_brace', 0.055330757]
+[u'street_sign', 0.54390794, u'shopping_basket', 0.14252494, u'scoreboard', 0.11412374, u'container_ship', 0.045870684, u'balance_beam', 0.023047835]
+[u'crossword_puzzle', 0.5824492, u'wig', 0.058933318, u'lab_coat', 0.045483887, u'hair_spray', 0.040951878, u'remote_control', 0.026730744]
+[u'digital_clock', 0.36077142, u'street_sign', 0.19198544, u'prayer_rug', 0.12900385, u'ambulance', 0.027366417, u'traffic_light', 0.020068409]

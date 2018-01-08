@@ -1,0 +1,1 @@
+[u'ashcan', 0.12341203, u'oil_filter', 0.10865117, u'ambulance', 0.065293118, u'tray', 0.056905963, u'pill_bottle', 0.03659337]

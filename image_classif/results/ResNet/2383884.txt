@@ -1,0 +1,5 @@
+[u'bookcase', 0.22207256, u'tobacco_shop', 0.16703075, u'medicine_chest', 0.059902549, u'perfume', 0.027752001, u'confectionery', 0.021355348]
+[u'ballpoint', 0.74834502, u'screwdriver', 0.13554572, u'whistle', 0.049726859, u'hair_slide', 0.015380631, u'rubber_eraser', 0.0066605662]
+[u'beer_bottle', 0.16831432, u'lotion', 0.14706196, u'perfume', 0.10918257, u'syringe', 0.073726922, u'wine_bottle', 0.067126051]
+[u'screen', 0.5111236, u'television', 0.28309366, u'desktop_computer', 0.088249028, u'monitor', 0.084502406, u'entertainment_center', 0.017888503]
+[u'lipstick', 0.35938236, u'thimble', 0.043422919, u'web_site', 0.040389512, u'Band_Aid', 0.026882017, u'red_wine', 0.026623441]

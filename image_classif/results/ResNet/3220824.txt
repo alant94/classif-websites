@@ -1,0 +1,5 @@
+[u'vestment', 0.39300603, u'theater_curtain', 0.10544698, u'altar', 0.076392941, u'unicycle', 0.028882502, u'butcher_shop', 0.019541591]
+[u'mosque', 0.57975739, u'obelisk', 0.18695612, u'monastery', 0.076177992, u'church', 0.040521111, u'flagpole', 0.033982132]
+[u'suit', 0.24653071, u'chain', 0.059587594, u'trench_coat', 0.055689298, u'cardigan', 0.054512784, u'kimono', 0.031374339]
+[u'barbershop', 0.47228014, u'street_sign', 0.15575053, u'bakery', 0.10711705, u'cinema', 0.051614784, u'chainlink_fence', 0.040013131]
+[u'web_site', 0.11787037, u'bolo_tie', 0.051480148, u'shield', 0.039086498, u'hair_slide', 0.035865936, u'syringe', 0.029960113]

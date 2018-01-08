@@ -1,0 +1,8 @@
+[u'envelope', 0.57033998, u'bow', 0.045980494, u'slide_rule', 0.030361412, u'oscilloscope', 0.019561594, u'power_drill', 0.017701119]
+[u'bearskin', 0.14547032, u'knee_pad', 0.10252563, u'balloon', 0.083900206, u'racket', 0.05710246, u'safety_pin', 0.029445395]
+[u'handkerchief', 0.3656204, u'bib', 0.17513439, u'safety_pin', 0.14713937, u'brassiere', 0.1029448, u"carpenter's_kit", 0.022874517]
+[u'groom', 0.3202776, u'cellular_telephone', 0.1723754, u'sunglasses', 0.16524681, u'sunglass', 0.10238826, u'kimono', 0.025595818]
+[u'digital_clock', 0.32436398, u'scoreboard', 0.21364428, u'digital_watch', 0.06529922, u'crossword_puzzle', 0.053646278, u'street_sign', 0.050810967]
+[u'maypole', 0.19549541, u'sarong', 0.075161859, u'jean', 0.064739466, u'cloak', 0.04117813, u'kimono', 0.029601652]
+[u'abaya', 0.18411849, u'kimono', 0.084205799, u'sunglass', 0.05358294, u'bearskin', 0.028490135, u'jean', 0.02689093]
+[u'sunglasses', 0.15103941, u'sunglass', 0.11353995, u'crutch', 0.089501195, u'toyshop', 0.077269658, u'pinwheel', 0.072397731]

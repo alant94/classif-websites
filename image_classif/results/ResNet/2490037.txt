@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16758157, u'web_site', 0.08702188, u'jersey', 0.076664679, u'buckle', 0.058996536, u'envelope', 0.033654634]
+[u'maillot', 0.14795864, u'drum', 0.082327671, u'bikini', 0.047614031, u'pencil_sharpener', 0.033284742, u'panpipe', 0.029342771]

@@ -1,0 +1,1 @@
+[u'flatworm', 0.23177759, u'tiger', 0.21191137, u'book_jacket', 0.11709511, u'wall_clock', 0.040605385, u'tray', 0.031434629]

@@ -1,0 +1,3 @@
+[u'picket_fence', 0.21031988, u'stole', 0.050854132, u'spider_web', 0.031483438, u'window_shade', 0.027507139, u'sloth_bear', 0.023675285]
+[u'picket_fence', 0.95563763, u'lakeside', 0.0086376416, u'worm_fence', 0.006485844, u'Bouvier_des_Flandres', 0.0025372445, u'breakwater', 0.0024220126]
+[u'church', 0.51610219, u'vault', 0.31186703, u'monastery', 0.043515172, u'dome', 0.025743388, u'altar', 0.023921767]

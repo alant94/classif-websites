@@ -1,0 +1,8 @@
+[u'lakeside', 0.47214761, u'umbrella', 0.06248134, u'fountain', 0.048261765, u'pier', 0.041411664, u'mosque', 0.038352635]
+[u'king_penguin', 0.40500766, u'hornbill', 0.36286548, u'magpie', 0.069870383, u'goldfinch', 0.059180547, u'drake', 0.044363298]
+[u'lakeside', 0.74646068, u'sandbar', 0.071653217, u'boathouse', 0.043210872, u'seashore', 0.042589217, u'breakwater', 0.023988897]
+[u'coho', 0.5697031, u'eel', 0.069612682, u'pelican', 0.052497726, u'reel', 0.047291253, u'barracouta', 0.017161315]
+[u'pelican', 0.83064002, u'conch', 0.01356954, u'mask', 0.013224836, u'bald_eagle', 0.011554328, u'killer_whale', 0.010480214]
+[u'cliff', 0.072309025, u'chain_saw', 0.059782092, u'wallaby', 0.050761979, u'koala', 0.049569797, u'eel', 0.047620822]
+[u'comic_book', 0.72033244, u'book_jacket', 0.082091458, u'menu', 0.032727182, u'pop_bottle', 0.023849983, u'web_site', 0.016841238]
+[u'seashore', 0.63333577, u'umbrella', 0.069791585, u'fountain', 0.059032846, u'beacon', 0.056485977, u'breakwater', 0.036204152]

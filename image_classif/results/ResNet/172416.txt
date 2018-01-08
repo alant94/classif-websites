@@ -1,0 +1,2 @@
+[u'stopwatch', 0.062182777, u'book_jacket', 0.048047457, u'web_site', 0.047696948, u'whistle', 0.047552224, u'brassiere', 0.03423693]
+[u'altar', 0.37580973, u'church', 0.069845356, u'quilt', 0.0610676, u'palace', 0.059185475, u'bell_cote', 0.050808057]

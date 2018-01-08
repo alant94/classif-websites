@@ -1,0 +1,6 @@
+[u'bathtub', 0.28855249, u'binder', 0.23432231, u'envelope', 0.10060936, u'medicine_chest', 0.078212276, u'washbasin', 0.040328015]
+[u'modem', 0.26662549, u'soap_dispenser', 0.24603906, u'switch', 0.12002783, u'bathtub', 0.061358608, u'washbasin', 0.061060317]
+[u'washbasin', 0.40685049, u'bathtub', 0.22870743, u'medicine_chest', 0.11502304, u'safe', 0.093472503, u'combination_lock', 0.056581426]
+[u'guillotine', 0.068982676, u'washbasin', 0.053236712, u'birdhouse', 0.051473934, u'bucket', 0.047613591, u'folding_chair', 0.047335651]
+[u'binder', 0.32520953, u'envelope', 0.18563628, u'bathtub', 0.093176574, u'switch', 0.070607975, u'washbasin', 0.06500873]
+[u'washbasin', 0.36743611, u'soap_dispenser', 0.26408803, u'bathtub', 0.082885921, u'medicine_chest', 0.064710401, u'switch', 0.028311213]

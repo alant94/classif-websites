@@ -1,0 +1,2 @@
+[u'valley', 0.19733545, u'alp', 0.13718288, u'sandbar', 0.072329395, u'promontory', 0.067697093, u'lakeside', 0.064801715]
+[u'English_setter', 0.51859111, u'Gordon_setter', 0.08821898, u'Irish_setter', 0.036286745, u'Scottish_deerhound', 0.033886053, u'bluetick', 0.016895387]

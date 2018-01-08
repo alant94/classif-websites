@@ -1,0 +1,4 @@
+[u'web_site', 0.59659469, u'envelope', 0.028764902, u'menu', 0.0092442529, u'nematode', 0.0078030494, u'remote_control', 0.0071860696]
+[u'cleaver', 0.10806262, u'screw', 0.040101685, u'nail', 0.039342273, u'lipstick', 0.036337279, u'hook', 0.034030873]
+[u'web_site', 0.48262748, u'menu', 0.086378142, u'envelope', 0.069165938, u'crossword_puzzle', 0.011238083, u'remote_control', 0.0065978677]
+[u'web_site', 0.059517015, u'hook', 0.048773658, u'Sealyham_terrier', 0.032654319, u'envelope', 0.03178753, u'nail', 0.025816562]

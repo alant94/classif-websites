@@ -1,0 +1,6 @@
+[u'paintbrush', 0.45584914, u'jean', 0.079290286, u'wardrobe', 0.04166989, u'lab_coat', 0.03997026, u'gown', 0.031513758]
+[u'oxygen_mask', 0.27243063, u'street_sign', 0.13179678, u'beaker', 0.090583295, u'prayer_rug', 0.061501954, u'traffic_light', 0.046232227]
+[u'web_site', 0.1300596, u'television', 0.07834249, u'envelope', 0.076252632, u'binder', 0.051700376, u'screen', 0.042764857]
+[u'web_site', 0.38836235, u'envelope', 0.075569279, u'analog_clock', 0.056741804, u'binder', 0.040721647, u'television', 0.024558472]
+[u'envelope', 0.19796686, u'binder', 0.12712578, u'web_site', 0.054086275, u'analog_clock', 0.045004502, u'cash_machine', 0.016243694]
+[u'prayer_rug', 0.1261992, u'shield', 0.12023629, u'cash_machine', 0.057673853, u'fire_screen', 0.054695036, u'street_sign', 0.054394994]

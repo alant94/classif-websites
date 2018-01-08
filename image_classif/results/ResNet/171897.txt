@@ -1,0 +1,6 @@
+[u'menu', 0.99191076, u'comic_book', 0.0080454564, u'web_site', 1.4543819e-05, u'envelope', 9.7382381e-06, u'carton', 6.3821517e-06]
+[u'microphone', 0.51570308, u'harmonica', 0.064168684, u'flute', 0.042905454, u'sax', 0.036940813, u'marimba', 0.036793072]
+[u'book_jacket', 0.7933504, u'binder', 0.035419464, u'scoreboard', 0.027890187, u'safe', 0.027687995, u'comic_book', 0.010014351]
+[u'stage', 0.053601563, u'bow_tie', 0.028048059, u'suit', 0.025787828, u'wig', 0.025571704, u'greenhouse', 0.023928842]
+[u'miniskirt', 0.34269619, u'hair_spray', 0.1213093, u'wig', 0.092606761, u'drumstick', 0.069411337, u'feather_boa', 0.031108996]
+[u'ski', 0.29109031, u'brassiere', 0.082504846, u'electric_guitar', 0.065979585, u'kimono', 0.052965496, u'abaya', 0.051742107]

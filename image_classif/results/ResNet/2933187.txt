@@ -1,0 +1,3 @@
+[u'web_site', 0.31311679, u'power_drill', 0.050466869, u'screw', 0.027670616, u'comic_book', 0.027052619, u'dumbbell', 0.02648166]
+[u'web_site', 0.2029679, u'American_alligator', 0.063582577, u'envelope', 0.059590388, u'ski', 0.02427672, u'leatherback_turtle', 0.019835351]
+[u'paintbrush', 0.32258254, u'flute', 0.098976694, u'crutch', 0.07358712, u'ballpoint', 0.060146492, u'torch', 0.044787411]

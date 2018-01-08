@@ -1,0 +1,2 @@
+[u'book_jacket', 0.14946812, u'geyser', 0.11794946, u'volcano', 0.05396146, u'crutch', 0.047183812, u'alp', 0.034845851]
+[u'ballpoint', 0.62498927, u'fountain_pen', 0.18058975, u'rubber_eraser', 0.097349815, u'pencil_box', 0.041501075, u'paintbrush', 0.014264716]

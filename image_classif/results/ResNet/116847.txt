@@ -1,0 +1,2 @@
+[u'menu', 0.40993339, u'web_site', 0.19743823, u'tray', 0.16073489, u'envelope', 0.029032322, u'jigsaw_puzzle', 0.026643995]
+[u'pick', 0.98840195, u'spatula', 0.0027210568, u'envelope', 0.0018182656, u'hourglass', 0.00066874368, u'shovel', 0.00050765276]

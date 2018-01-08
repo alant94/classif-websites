@@ -1,0 +1,6 @@
+[u'hook', 0.92727435, u'candle', 0.05557685, u'switch', 0.0029075732, u'magnetic_compass', 0.002030669, u'table_lamp', 0.0013683742]
+[u'envelope', 0.16847873, u'web_site', 0.10964746, u'chainlink_fence', 0.045082428, u'loupe', 0.041876025, u'screw', 0.035150621]
+[u'hook', 0.38605502, u'paper_towel', 0.091851547, u'corkscrew', 0.074666977, u'whistle', 0.032919567, u'padlock', 0.028575307]
+[u'corkscrew', 0.24424067, u'cornet', 0.17405525, u'hook', 0.098054551, u'scabbard', 0.08199659, u'whistle', 0.07409209]
+[u'candle', 0.88680083, u'radiator', 0.05119599, u'drumstick', 0.033243503, u'panpipe', 0.0045970478, u'lotion', 0.0034882596]
+[u'hook', 0.99513274, u'scale', 0.0024078537, u'chain', 0.00045044065, u'safety_pin', 0.0004394367, u'whistle', 0.00025457132]

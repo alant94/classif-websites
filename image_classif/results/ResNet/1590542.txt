@@ -1,0 +1,8 @@
+[u'web_site', 0.98940492, u'menu', 0.0063387039, u'comic_book', 0.0021205086, u'book_jacket', 0.00016968492, u'crossword_puzzle', 7.6976627e-05]
+[u'web_site', 0.98671734, u'comic_book', 0.0055476548, u'hair_spray', 0.00068280409, u'menu', 0.00063755241, u'bikini', 0.00061437197]
+[u'web_site', 0.99653155, u'comic_book', 0.0019911744, u'menu', 0.00028880508, u'carton', 0.00011692819, u'book_jacket', 7.9486104e-05]
+[u'web_site', 0.992957, u'comic_book', 0.0034793429, u'brassiere', 0.00034165854, u'menu', 0.00016385085, u'envelope', 0.00014772709]
+[u'web_site', 0.99568391, u'bikini', 0.0016194553, u'menu', 0.00024274542, u'German_shepherd', 0.00017027685, u'Chihuahua', 0.00016747748]
+[u'web_site', 0.61477655, u'banana', 0.32199192, u'comic_book', 0.038850959, u'butternut_squash', 0.0064846398, u'brassiere', 0.0010768308]
+[u'web_site', 0.99078816, u'comic_book', 0.0048415759, u'menu', 0.0027840058, u'Band_Aid', 0.00047968919, u'jigsaw_puzzle', 0.00016855673]
+[u'web_site', 0.99327213, u'book_jacket', 0.0022912568, u'comic_book', 0.00060673943, u'jean', 0.0002464696, u'sunglasses', 0.00023391108]

@@ -1,0 +1,1 @@
+[u'sweatshirt', 0.12672323, u'stole', 0.11839755, u'cardigan', 0.059423529, u'hotdog', 0.028111558, u'Band_Aid', 0.025276853]

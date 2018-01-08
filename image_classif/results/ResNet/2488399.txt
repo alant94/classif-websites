@@ -1,0 +1,3 @@
+[u'theater_curtain', 0.23690085, u'web_site', 0.08611726, u'candle', 0.035856381, u'wardrobe', 0.021603232, u'matchstick', 0.014867699]
+[u'bow', 0.36527812, u'king_crab', 0.17457807, u'oxcart', 0.11136764, u'ox', 0.080990545, u'hartebeest', 0.026966767]
+[u'theater_curtain', 0.30625528, u'web_site', 0.058433346, u'candle', 0.036446612, u'refrigerator', 0.025802342, u'binder', 0.022005465]

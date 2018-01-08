@@ -1,0 +1,2 @@
+[u'prayer_rug', 0.19501247, u'carousel', 0.14036098, u'church', 0.12184904, u'altar', 0.05477358, u'throne', 0.049903601]
+[u'church', 0.78110999, u'bell_cote', 0.19637299, u'monastery', 0.0090528978, u'vault', 0.0028121781, u'dome', 0.0021471779]

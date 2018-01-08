@@ -1,0 +1,6 @@
+[u'drum', 0.28037438, u'marimba', 0.093377225, u'suit', 0.084428474, u'steel_drum', 0.059456751, u'lab_coat', 0.047044612]
+[u'groom', 0.79280627, u'suit', 0.086198553, u'theater_curtain', 0.026751852, u'bow_tie', 0.023234945, u'vestment', 0.0073562409]
+[u'library', 0.41150674, u'prison', 0.16911072, u'chainlink_fence', 0.063621879, u'patio', 0.044781983, u'water_tower', 0.039030571]
+[u'oboe', 0.20759186, u'groom', 0.20384438, u'abaya', 0.12169295, u'mortarboard', 0.076177545, u'stage', 0.065995239]
+[u'wig', 0.47768065, u'vestment', 0.082991749, u'feather_boa', 0.065735698, u'groom', 0.050517768, u'gown', 0.04274258]
+[u'bassoon', 0.2182983, u'vestment', 0.1485188, u'suit', 0.0785136, u'theater_curtain', 0.066682637, u'wardrobe', 0.063801587]

@@ -1,0 +1,6 @@
+[u'bathtub', 0.44731528, u'washer', 0.35731715, u'medicine_chest', 0.061388798, u'washbasin', 0.050298881, u'tub', 0.03145922]
+[u'digital_clock', 0.89052343, u'digital_watch', 0.092048034, u'analog_clock', 0.0074134595, u'stopwatch', 0.0051256856, u'crossword_puzzle', 0.0021190548]
+[u'palace', 0.30105063, u'organ', 0.19115132, u'church', 0.092382297, u'dome', 0.043940488, u'vault', 0.035218444]
+[u'plate_rack', 0.18128406, u'space_shuttle', 0.17212838, u'iron', 0.13069262, u'medicine_chest', 0.089790739, u'vault', 0.079549052]
+[u'iron', 0.42946634, u'bow', 0.12728581, u'ballpoint', 0.062456094, u'bolo_tie', 0.030414004, u'vacuum', 0.02080391]
+[u'lakeside', 0.88883698, u'fountain', 0.027078915, u'pole', 0.011124997, u'flagpole', 0.0084328968, u'breakwater', 0.0083351117]

@@ -1,0 +1,1 @@
+[u'abacus', 0.10345413, u'paintbrush', 0.05845451, u'shoe_shop', 0.04269449, u'harp', 0.036188327, u'matchstick', 0.034790445]

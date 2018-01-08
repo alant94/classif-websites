@@ -1,0 +1,5 @@
+[u'iPod', 0.21741948, u'digital_clock', 0.13673547, u'switch', 0.094375409, u'Band_Aid', 0.04871995, u'screen', 0.047479063]
+[u'shield', 0.17986092, u'coil', 0.11253852, u'strainer', 0.057884194, u'toilet_seat', 0.05549971, u'maze', 0.05290895]
+[u'oxygen_mask', 0.083847947, u'Band_Aid', 0.048401706, u'analog_clock', 0.047166899, u'hair_spray', 0.044581685, u'web_site', 0.040595841]
+[u'digital_clock', 0.64598584, u'medicine_chest', 0.13016787, u'analog_clock', 0.075216003, u'digital_watch', 0.039542381, u'switch', 0.016689764]
+[u'Band_Aid', 0.22333136, u'lighter', 0.16546148, u'shield', 0.10192513, u'binder', 0.05886307, u'medicine_chest', 0.041528936]

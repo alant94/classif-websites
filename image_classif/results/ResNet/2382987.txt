@@ -1,0 +1,3 @@
+[u'digital_clock', 0.43029439, u'digital_watch', 0.12398164, u'remote_control', 0.061271496, u'prayer_rug', 0.048627023, u'Band_Aid', 0.044444244]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'panpipe', 0.99466974, u'marimba', 0.0010224736, u'bannister', 0.00097254547, u'coil', 0.00080959324, u'screw', 0.00071821467]

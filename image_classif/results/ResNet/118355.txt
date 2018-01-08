@@ -1,0 +1,1 @@
+[u'web_site', 0.42700279, u'screen', 0.059553701, u'analog_clock', 0.056372538, u'cash_machine', 0.052285802, u'oscilloscope', 0.029544987]

@@ -1,0 +1,7 @@
+[u'web_site', 0.24774243, u'ski', 0.24545163, u'kimono', 0.11335327, u'vestment', 0.034995887, u'crutch', 0.032818079]
+[u'envelope', 0.38171771, u'binder', 0.090927884, u'web_site', 0.090509705, u'nail', 0.033429388, u'cleaver', 0.024717787]
+[u'loupe', 0.61626703, u'puck', 0.11478744, u'digital_clock', 0.098920032, u'digital_watch', 0.044064105, u'analog_clock', 0.024828598]
+[u'printer', 0.33435348, u'photocopier', 0.14709006, u'switch', 0.040606536, u'coil', 0.037867326, u'swab', 0.035766382]
+[u'web_site', 0.62496936, u'screw', 0.077263072, u'swab', 0.042300023, u'tennis_ball', 0.025086422, u'hand_blower', 0.020328656]
+[u'panpipe', 0.1405502, u'web_site', 0.054972369, u'digital_clock', 0.048617385, u'wall_clock', 0.028369766, u'analog_clock', 0.017306419]
+[u'panpipe', 0.51151556, u'web_site', 0.053793959, u'digital_clock', 0.028360743, u'wall_clock', 0.024490656, u'marimba', 0.01408844]

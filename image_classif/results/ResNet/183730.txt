@@ -1,0 +1,1 @@
+[u'corn', 0.61919945, u'pill_bottle', 0.10137337, u'ear', 0.087467097, u'confectionery', 0.029079238, u'hamper', 0.026583921]

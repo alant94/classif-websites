@@ -1,0 +1,3 @@
+[u'pill_bottle', 0.49138147, u'violin', 0.17289741, u'plunger', 0.093805671, u'dial_telephone', 0.045437232, u'hook', 0.041385233]
+[u'matchstick', 0.28671086, u"carpenter's_kit", 0.17131655, u'croquet_ball', 0.0538451, u'hammer', 0.032376442, u'screwdriver', 0.03140381]
+[u'tobacco_shop', 0.34510413, u"potter's_wheel", 0.14429018, u'bakery', 0.06113451, u'grocery_store', 0.051604021, u'shoe_shop', 0.050835066]

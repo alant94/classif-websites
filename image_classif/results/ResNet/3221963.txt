@@ -1,0 +1,7 @@
+[u'power_drill', 0.28172064, u'screw', 0.15144676, u'guillotine', 0.14368725, u'chain_saw', 0.044919997, u'rifle', 0.04470307]
+[u'bikini', 0.19849491, u'swimming_trunks', 0.15759218, u'maillot', 0.10309965, u'maillot', 0.090914778, u'Italian_greyhound', 0.085444987]
+[u'crossword_puzzle', 0.9488138, u'book_jacket', 0.0070064263, u'scoreboard', 0.0045210104, u'container_ship', 0.0019013718, u'theater_curtain', 0.0018918903]
+[u'balance_beam', 0.39990741, u'parallel_bars', 0.21860914, u'pole', 0.18431327, u'horizontal_bar', 0.12111653, u'volleyball', 0.026474813]
+[u'volleyball', 0.21627834, u'mailbag', 0.087421775, u'paintbrush', 0.039970975, u'toilet_tissue', 0.030916115, u'brassiere', 0.029176811]
+[u'web_site', 0.6912238, u'envelope', 0.037844345, u'book_jacket', 0.026085926, u'lotion', 0.010734478, u'menu', 0.0104827]
+[u'stole', 0.31221676, u'oboe', 0.04579214, u'overskirt', 0.02432386, u'apron', 0.023935189, u'Windsor_tie', 0.01949846]

@@ -1,0 +1,7 @@
+[u'sliding_door', 0.14158887, u'shower_curtain', 0.11716667, u'window_shade', 0.11464423, u'cello', 0.10126323, u'violin', 0.053218532]
+[u'matchstick', 0.1066466, u'tripod', 0.061503675, u'analog_clock', 0.061053518, u'drum', 0.06062445, u'table_lamp', 0.055316396]
+[u'fountain', 0.096532963, u'swimming_trunks', 0.092908174, u'hoopskirt', 0.040558107, u'gyromitra', 0.040279262, u'diaper', 0.037823174]
+[u'mortarboard', 0.11231955, u'Greater_Swiss_Mountain_dog', 0.099617757, u'Gordon_setter', 0.071967199, u'Appenzeller', 0.049804509, u'neck_brace', 0.047241397]
+[u'carton', 0.093451343, u'web_site', 0.064039543, u'barrel', 0.037107348, u'jigsaw_puzzle', 0.029013112, u'rule', 0.027274279]
+[u'nipple', 0.7108348, u'oxygen_mask', 0.039856024, u'butternut_squash', 0.031774677, u"potter's_wheel", 0.020101048, u'bathtub', 0.018707313]
+[u'container_ship', 0.10233039, u'reflex_camera', 0.0965183, u'toilet_seat', 0.065775275, u'Shih-Tzu', 0.06527523, u'binoculars', 0.04639601]

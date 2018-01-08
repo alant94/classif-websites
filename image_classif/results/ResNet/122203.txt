@@ -1,0 +1,2 @@
+[u'comic_book', 0.59040797, u'web_site', 0.17768441, u'book_jacket', 0.04813182, u'lighter', 0.02550116, u'slot', 0.016327085]
+[u'fire_engine', 0.85199839, u'container_ship', 0.074070677, u'ambulance', 0.010439554, u'tow_truck', 0.0084009981, u'jeep', 0.0042219134]

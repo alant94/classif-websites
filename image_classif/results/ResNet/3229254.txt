@@ -1,0 +1,6 @@
+[u'wall_clock', 0.30059779, u'stethoscope', 0.11460818, u'analog_clock', 0.075215586, u'doormat', 0.047487326, u'bannister', 0.046988476]
+[u'digital_clock', 0.13572082, u'web_site', 0.12598523, u'scoreboard', 0.09294071, u'analog_clock', 0.090574734, u'cellular_telephone', 0.083652496]
+[u'barn', 0.27031073, u'worm_fence', 0.10587974, u'bell_cote', 0.057261247, u'church', 0.039657675, u'thresher', 0.034812909]
+[u'crate', 0.77453482, u'school_bus', 0.078760237, u'barbershop', 0.02494375, u'chainlink_fence', 0.019285314, u'brass', 0.01451155]
+[u'envelope', 0.24572186, u'binder', 0.094859473, u'web_site', 0.040948741, u'oil_filter', 0.027732933, u'lighter', 0.026607689]
+[u'rock_beauty', 0.39510801, u'knee_pad', 0.053500928, u'croquet_ball', 0.050723538, u'bucket', 0.034731295, u'neck_brace', 0.022237938]

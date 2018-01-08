@@ -1,0 +1,2 @@
+[u'jersey', 0.96946925, u'sweatshirt', 0.024669815, u'lab_coat', 0.0055769552, u'stethoscope', 9.0514273e-05, u'vestment', 2.9156445e-05]
+[u'bottlecap', 0.25471097, u'traffic_light', 0.099635877, u'digital_watch', 0.055618368, u'tennis_ball', 0.051562056, u'digital_clock', 0.048064098]

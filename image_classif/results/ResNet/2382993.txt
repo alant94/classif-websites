@@ -1,0 +1,6 @@
+[u'web_site', 0.63665825, u'bannister', 0.01724815, u'sax', 0.010580524, u'digital_clock', 0.0091355806, u'bubble', 0.0085141854]
+[u'web_site', 0.25141424, u'red_wine', 0.11541636, u'wine_bottle', 0.051217556, u'padlock', 0.047939338, u'paintbrush', 0.037946399]
+[u'church', 0.34971461, u'jinrikisha', 0.25697789, u'alp', 0.047409546, u'breakwater', 0.0323276, u'horse_cart', 0.026643554]
+[u'church', 0.83437335, u'monastery', 0.061623741, u'boathouse', 0.032190189, u'bell_cote', 0.011728112, u'vault', 0.0091135539]
+[u'trombone', 0.078522936, u'electric_fan', 0.058391955, u'bolo_tie', 0.052950844, u'hand_blower', 0.051928464, u'puck', 0.05021527]
+[u'bow_tie', 0.24078991, u'web_site', 0.19016267, u'military_uniform', 0.12135572, u'sax', 0.084824957, u'rifle', 0.062532283]

@@ -1,0 +1,4 @@
+[u'mountain_bike', 0.2944904, u'unicycle', 0.2701968, u'moped', 0.17789139, u'tricycle', 0.075897865, u'motor_scooter', 0.051866159]
+[u'stupa', 0.33888486, u'steam_locomotive', 0.080796689, u'crane', 0.064179495, u'fountain', 0.064068191, u'black_grouse', 0.030157804]
+[u'Windsor_tie', 0.20174192, u'hand-held_computer', 0.13094476, u'suit', 0.10730978, u'notebook', 0.064945742, u'Dandie_Dinmont', 0.021066323]
+[u'Maltese_dog', 0.50290018, u'Shih-Tzu', 0.18723743, u'capuchin', 0.02889804, u'black-footed_ferret', 0.027425816, u'titi', 0.02058097]

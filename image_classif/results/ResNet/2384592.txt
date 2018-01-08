@@ -1,0 +1,4 @@
+[u'traffic_light', 0.58645988, u'digital_clock', 0.31854999, u'digital_watch', 0.014595099, u'space_shuttle', 0.012775582, u'prayer_rug', 0.0081612114]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'book_jacket', 0.27690145, u'chain', 0.17627552, u'hook', 0.079121768, u'web_site', 0.031767789, u'stopwatch', 0.028902402]
+[u'panpipe', 0.99466974, u'marimba', 0.0010224736, u'bannister', 0.00097254547, u'coil', 0.00080959324, u'screw', 0.00071821467]

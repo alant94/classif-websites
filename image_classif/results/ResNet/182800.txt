@@ -1,0 +1,7 @@
+[u'web_site', 0.36273798, u'menu', 0.14743964, u'comic_book', 0.047390036, u'crossword_puzzle', 0.030345056, u'rifle', 0.015857225]
+[u'lab_coat', 0.10649297, u'Windsor_tie', 0.073152781, u'suit', 0.04832105, u'jersey', 0.046127487, u'web_site', 0.043142527]
+[u'book_jacket', 0.17150047, u'street_sign', 0.10236172, u'scoreboard', 0.082708336, u'cash_machine', 0.036030173, u'web_site', 0.034105346]
+[u'comic_book', 0.40441471, u'web_site', 0.28729582, u'book_jacket', 0.26649722, u'menu', 0.0039961264, u'envelope', 0.0026206598]
+[u'jersey', 0.5673579, u'menu', 0.13947874, u'sweatshirt', 0.087700345, u'book_jacket', 0.032171074, u'web_site', 0.029944157]
+[u'menu', 0.8430357, u'comic_book', 0.051764529, u'crossword_puzzle', 0.020696245, u'book_jacket', 0.017973812, u'packet', 0.013535792]
+[u'book_jacket', 0.1487807, u'pill_bottle', 0.06146368, u'cash_machine', 0.05539415, u'menu', 0.0486564, u'street_sign', 0.03494595]

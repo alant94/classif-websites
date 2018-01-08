@@ -1,0 +1,1 @@
+[u'drum', 0.29898083, u'stretcher', 0.12429558, u'marimba', 0.083122537, u'steel_drum', 0.049783543, u'shower_cap', 0.030343492]

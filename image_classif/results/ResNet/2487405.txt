@@ -1,0 +1,3 @@
+[u'warthog', 0.61422634, u'bighorn', 0.13570578, u'gazelle', 0.1105686, u'hartebeest', 0.069678366, u'impala', 0.032741759]
+[u'impala', 0.885068, u'gazelle', 0.085733637, u'hartebeest', 0.027374664, u'ibex', 0.0011717113, u'hare', 9.8318793e-05]
+[u'chainlink_fence', 0.42308685, u'pole', 0.24489307, u'street_sign', 0.17028405, u'worm_fence', 0.080042861, u'crane', 0.016424738]

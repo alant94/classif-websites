@@ -1,0 +1,3 @@
+[u'web_site', 0.41170564, u'menu', 0.10491832, u'picket_fence', 0.04893795, u'comic_book', 0.03840775, u'park_bench', 0.031381115]
+[u'web_site', 0.64781308, u'envelope', 0.049208205, u'hair_slide', 0.013458421, u'maraca', 0.011982205, u'laptop', 0.0086726779]
+[u'digital_clock', 0.60670447, u'digital_watch', 0.068178855, u'analog_clock', 0.05296069, u'wall_clock', 0.027143531, u'web_site', 0.026427643]

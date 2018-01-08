@@ -1,0 +1,8 @@
+[u'hen-of-the-woods', 0.57214779, u'mushroom', 0.36361545, u'earthstar', 0.0313618, u'dough', 0.0059570144, u'grocery_store', 0.0056617218]
+[u'web_site', 0.42902011, u'lab_coat', 0.079804771, u'book_jacket', 0.043726631, u'neck_brace', 0.027144372, u'television', 0.015020949]
+[u'web_site', 0.99068916, u'menu', 0.0091410633, u'book_jacket', 4.4343935e-05, u'brass', 3.4770452e-05, u'remote_control', 7.7060922e-06]
+[u'lakeside', 0.28123915, u'canoe', 0.16674513, u'paddle', 0.039536059, u'fountain', 0.020270076, u'cowboy_boot', 0.016148472]
+[u'muzzle', 0.20500676, u'chow', 0.14902318, u'proboscis_monkey', 0.10319965, u'golden_retriever', 0.075711079, u'Brittany_spaniel', 0.066256151]
+[u'corn', 0.19472319, u'plate', 0.15124169, u'cowboy_hat', 0.10343525, u'hamper', 0.0449338, u'spaghetti_squash', 0.04275066]
+[u'coffee_mug', 0.34489051, u'espresso', 0.19957192, u'espresso_maker', 0.12789495, u'whiskey_jug', 0.073663026, u'face_powder', 0.046203524]
+[u'hen-of-the-woods', 0.85280889, u'chain', 0.015391444, u'Sussex_spaniel', 0.011251164, u'tick', 0.0089041386, u'chain_mail', 0.0049661589]

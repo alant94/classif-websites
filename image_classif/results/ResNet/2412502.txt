@@ -1,0 +1,4 @@
+[u'web_site', 0.1206094, u'remote_control', 0.0226536, u'power_drill', 0.020308513, u'nail', 0.0201582, u'strainer', 0.018637322]
+[u'web_site', 0.82635206, u'hand-held_computer', 0.033616818, u'moving_van', 0.016717836, u'scoreboard', 0.011992271, u'cash_machine', 0.0081018033]
+[u'Band_Aid', 0.82655227, u'hair_spray', 0.024950482, u'lipstick', 0.016729003, u'lighter', 0.012262625, u'carton', 0.011362086]
+[u'loudspeaker', 0.53173947, u'cassette', 0.088596284, u'cassette_player', 0.069239452, u'jeep', 0.049198475, u'gong', 0.048583023]

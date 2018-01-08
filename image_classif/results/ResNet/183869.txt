@@ -1,0 +1,2 @@
+[u'web_site', 0.6733954, u'television', 0.023493847, u'seashore', 0.015372204, u'spotlight', 0.014852774, u'picket_fence', 0.0092699043]
+[u'web_site', 0.84516829, u'envelope', 0.047387697, u'book_jacket', 0.035318799, u'packet', 0.012695636, u'jigsaw_puzzle', 0.011989156]

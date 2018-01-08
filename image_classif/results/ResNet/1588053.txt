@@ -1,0 +1,5 @@
+[u'malinois', 0.38219923, u'Doberman', 0.18769057, u'toy_terrier', 0.060143664, u'German_shepherd', 0.047899105, u'basenji', 0.042580333]
+[u'bubble', 0.064370975, u'oxygen_mask', 0.05648955, u'wig', 0.040525522, u'whistle', 0.038044453, u'Chihuahua', 0.034585964]
+[u'window_shade', 0.10768664, u'crossword_puzzle', 0.041205678, u'crutch', 0.040731713, u'shower_curtain', 0.036397815, u'barbershop', 0.03631822]
+[u'web_site', 0.22990325, u'abaya', 0.09452223, u'hair_spray', 0.079560451, u'theater_curtain', 0.052821498, u'television', 0.033537511]
+[u'maillot', 0.13779058, u'bikini', 0.11352983, u'maillot', 0.086431563, u'brassiere', 0.075944163, u'wig', 0.065333247]

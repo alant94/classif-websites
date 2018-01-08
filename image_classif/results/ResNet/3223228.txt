@@ -1,0 +1,6 @@
+[u'suit', 0.97894257, u'Windsor_tie', 0.014304201, u'bolo_tie', 0.0039533093, u'grand_piano', 0.00074968307, u'accordion', 0.0002420377]
+[u'binder', 0.093656182, u'screen', 0.087738976, u'book_jacket', 0.086586133, u'microwave', 0.036637396, u'monitor', 0.035492592]
+[u'horizontal_bar', 0.20761107, u'volleyball', 0.16882041, u'altar', 0.12189424, u'parallel_bars', 0.10875412, u'ski', 0.042704642]
+[u'lab_coat', 0.1441361, u'worm_fence', 0.048589952, u'ski', 0.039835338, u'prison', 0.038534157, u'hen', 0.032847188]
+[u'Eskimo_dog', 0.18800017, u'Saluki', 0.18157332, u'Siberian_husky', 0.080101334, u'llama', 0.063675441, u'borzoi', 0.02393942]
+[u'volleyball', 0.21311851, u'altar', 0.13761619, u'yawl', 0.1314847, u'space_shuttle', 0.042731293, u'solar_dish', 0.031246621]

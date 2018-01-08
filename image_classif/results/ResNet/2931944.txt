@@ -1,0 +1,4 @@
+[u'hook', 0.12679921, u'corkscrew', 0.12511656, u'sunglass', 0.056474831, u'can_opener', 0.050764833, u'web_site', 0.039074566]
+[u'analog_clock', 0.47209719, u'wall_clock', 0.16221751, u'screw', 0.057729777, u'web_site', 0.022454895, u'book_jacket', 0.017400319]
+[u'book_jacket', 0.23066802, u'packet', 0.18513216, u'envelope', 0.10037442, u'oil_filter', 0.065394595, u'doormat', 0.055417322]
+[u'nail', 0.18212661, u'bow', 0.059308432, u'power_drill', 0.056245483, u'tripod', 0.040273096, u'oscilloscope', 0.038140152]

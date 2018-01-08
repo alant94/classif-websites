@@ -1,0 +1,4 @@
+[u'book_jacket', 0.82643956, u'packet', 0.067878671, u'web_site', 0.033773683, u'envelope', 0.017726758, u'comic_book', 0.0075611193]
+[u'laptop', 0.2421837, u'book_jacket', 0.20238313, u'jersey', 0.099778481, u'menu', 0.082292244, u'envelope', 0.049814362]
+[u'web_site', 0.41785216, u'cash_machine', 0.079818517, u'screen', 0.0335037, u'monitor', 0.025333283, u'television', 0.02125822]
+[u'web_site', 0.72256386, u'book_jacket', 0.012932926, u'hair_spray', 0.01007962, u'cleaver', 0.0089929709, u'ski', 0.0081210323]

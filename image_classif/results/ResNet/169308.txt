@@ -1,0 +1,6 @@
+[u'coho', 0.13820782, u'parachute', 0.12299987, u'barracouta', 0.071781836, u'sturgeon', 0.045559827, u'paddle', 0.042386174]
+[u'binoculars', 0.50512952, u'coho', 0.049041051, u'conch', 0.035180941, u'swimming_trunks', 0.033074927, u'cliff', 0.025573352]
+[u'obelisk', 0.64547682, u'cash_machine', 0.042503588, u'ice_lolly', 0.034343906, u'plastic_bag', 0.020832768, u'beacon', 0.013514486]
+[u'maillot', 0.65504795, u'maillot', 0.089856967, u'swimming_trunks', 0.036398616, u'tub', 0.032386631, u'bikini', 0.030205598]
+[u'unicycle', 0.24239491, u'kimono', 0.12121601, u'rifle', 0.061831009, u'bassoon', 0.048643246, u'cornet', 0.046602488]
+[u'pirate', 0.070024446, u'mask', 0.061293703, u'stage', 0.057929333, u'gondola', 0.05712967, u'drum', 0.046534125]

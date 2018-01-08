@@ -1,0 +1,2 @@
+[u'upright', 0.43114093, u'stage', 0.072043523, u'library', 0.068621665, u'grand_piano', 0.05590475, u'theater_curtain', 0.037647873]
+[u'quill', 0.24165045, u'hand_blower', 0.070589632, u'Japanese_spaniel', 0.060897261, u'hair_spray', 0.041905597, u'spotlight', 0.037646603]

@@ -1,0 +1,7 @@
+[u'laptop', 0.4230251, u'digital_clock', 0.031152345, u'envelope', 0.025873708, u'web_site', 0.025687246, u'doormat', 0.019575177]
+[u'killer_whale', 0.18247768, u'papillon', 0.15730725, u'red-breasted_merganser', 0.09421964, u'hare', 0.053279981, u'Cardigan', 0.052280456]
+[u'digital_clock', 0.24123418, u'crossword_puzzle', 0.068342872, u'book_jacket', 0.048079554, u'maze', 0.037521534, u'lampshade', 0.033333171]
+[u'Scottish_deerhound', 0.11301727, u'hog', 0.1104046, u'wild_boar', 0.055173956, u'flat-coated_retriever', 0.054218933, u'Irish_wolfhound', 0.042313181]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'joystick', 0.1702953, u'hare', 0.093838863, u'missile', 0.071130566, u'space_shuttle', 0.061032217, u'projectile', 0.058272265]
+[u'proboscis_monkey', 0.45350131, u'brambling', 0.26518926, u'macaque', 0.032475851, u'Siamese_cat', 0.031561352, u'capuchin', 0.025382543]

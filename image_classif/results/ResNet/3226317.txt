@@ -1,0 +1,2 @@
+[u'altar', 0.71853811, u'church', 0.27973965, u'vault', 0.000619306, u'monastery', 0.0005362985, u'throne', 0.00029440256]
+[u'oscilloscope', 0.09120959, u'web_site', 0.068905726, u'digital_clock', 0.050851621, u'screen', 0.045550484, u'paper_towel', 0.03892459]

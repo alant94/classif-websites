@@ -1,0 +1,4 @@
+[u'web_site', 0.25255859, u'jersey', 0.12251975, u'shield', 0.083266199, u'envelope', 0.049179185, u'vestment', 0.030177057]
+[u'web_site', 0.15034591, u'book_jacket', 0.061815038, u'digital_clock', 0.053253956, u'sunscreen', 0.047861807, u'Band_Aid', 0.02903202]
+[u'street_sign', 0.75938344, u'oscilloscope', 0.035983268, u'book_jacket', 0.022576788, u'screen', 0.013526123, u'cash_machine', 0.013035496]
+[u'church', 0.13550638, u'bell_cote', 0.10399885, u'boathouse', 0.078683384, u'mobile_home', 0.066737354, u'moving_van', 0.050275669]

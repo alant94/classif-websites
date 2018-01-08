@@ -1,0 +1,1 @@
+[u'jigsaw_puzzle', 0.18793228, u'stage', 0.17069183, u'altar', 0.13402714, u'chainlink_fence', 0.050165553, u'throne', 0.044870548]

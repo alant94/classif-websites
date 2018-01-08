@@ -1,0 +1,8 @@
+[u'stretcher', 0.84254044, u'dining_table', 0.04300344, u'restaurant', 0.016669005, u'sliding_door', 0.012381684, u'racer', 0.011477457]
+[u'container_ship', 0.76704681, u'tractor', 0.040741026, u'thresher', 0.031686988, u'lumbermill', 0.028644532, u'harvester', 0.0092812395]
+[u'convertible', 0.60048968, u'pickup', 0.3434256, u'sports_car', 0.023582269, u'amphibian', 0.011871907, u'beach_wagon', 0.0062765167]
+[u'limousine', 0.38220152, u'half_track', 0.12058788, u'beach_wagon', 0.080735974, u'typewriter_keyboard', 0.07481084, u'cocktail_shaker', 0.053866554]
+[u'racer', 0.31529629, u'tow_truck', 0.15246369, u'sports_car', 0.13303725, u'tank', 0.082797229, u'beach_wagon', 0.064156286]
+[u'convertible', 0.51495379, u'limousine', 0.23381923, u'beach_wagon', 0.11365192, u'car_wheel', 0.04309871, u'sports_car', 0.017446199]
+[u'typewriter_keyboard', 0.07386744, u'limousine', 0.063914195, u'tape_player', 0.063115351, u'space_bar', 0.053407457, u'solar_dish', 0.052307151]
+[u'ski', 0.19823058, u'lighter', 0.09306483, u'whistle', 0.064265832, u'ballpoint', 0.043033481, u'bow', 0.035652559]

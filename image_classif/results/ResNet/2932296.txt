@@ -1,0 +1,2 @@
+[u'alp', 0.23208655, u'plastic_bag', 0.11381301, u'envelope', 0.0654663, u'valley', 0.052378304, u'mountain_tent', 0.046536919]
+[u'web_site', 0.3333869, u'envelope', 0.11816576, u'packet', 0.033943672, u'sunscreen', 0.029093515, u'hair_slide', 0.02077415]

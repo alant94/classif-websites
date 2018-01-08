@@ -1,0 +1,2 @@
+[u'mailbox', 0.33159843, u'vending_machine', 0.14574553, u'printer', 0.11664046, u'ashcan', 0.090842202, u'cash_machine', 0.042756815]
+[u'cash_machine', 0.47949973, u'vending_machine', 0.24248704, u'streetcar', 0.11612108, u'barbershop', 0.026696846, u'tobacco_shop', 0.021306597]

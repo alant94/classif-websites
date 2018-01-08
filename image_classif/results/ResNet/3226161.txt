@@ -1,0 +1,4 @@
+[u'tick', 0.072123818, u'nematode', 0.064831816, u'stopwatch', 0.052317094, u'cup', 0.050303429, u'bassoon', 0.042184595]
+[u'iPod', 0.64529967, u'web_site', 0.10416088, u'digital_clock', 0.034357689, u'laptop', 0.026034363, u'remote_control', 0.023646776]
+[u'knee_pad', 0.057493038, u'jersey', 0.044604186, u'pick', 0.041083638, u'loudspeaker', 0.034087759, u'stopwatch', 0.033765618]
+[u'barn', 0.76251364, u'web_site', 0.15455177, u'church', 0.016205778, u'viaduct', 0.0030430509, u'envelope', 0.0030155852]

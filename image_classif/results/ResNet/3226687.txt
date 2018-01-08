@@ -1,0 +1,3 @@
+[u'window_screen', 0.23020312, u'sundial', 0.07583873, u'window_shade', 0.075301342, u'prayer_rug', 0.050862327, u'boathouse', 0.040667593]
+[u'church', 0.53843755, u'bell_cote', 0.19144866, u'tile_roof', 0.13386929, u'vault', 0.029017026, u'library', 0.013349084]
+[u'organ', 0.38696846, u'poncho', 0.21541962, u'book_jacket', 0.040143833, u'shower_curtain', 0.032511652, u'jersey', 0.023257531]

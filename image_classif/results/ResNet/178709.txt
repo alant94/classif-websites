@@ -1,0 +1,1 @@
+[u'tray', 0.17672442, u'crossword_puzzle', 0.13197905, u'folding_chair', 0.069900826, u'screen', 0.05914662, u'television', 0.042747412]

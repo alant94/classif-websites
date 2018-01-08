@@ -1,0 +1,4 @@
+[u'comic_book', 0.059530191, u'book_jacket', 0.050405476, u'scoreboard', 0.042077594, u'cornet', 0.032120179, u'oscilloscope', 0.030850431]
+[u'power_drill', 0.10137542, u'screwdriver', 0.071996741, u'book_jacket', 0.063813627, u'rifle', 0.056292642, u"carpenter's_kit", 0.046707641]
+[u'whistle', 0.77014774, u'ballpoint', 0.026311096, u'gas_pump', 0.014227515, u'Band_Aid', 0.01309098, u'paintbrush', 0.012753682]
+[u'digital_clock', 0.38439175, u'screen', 0.12000735, u'computer_keyboard', 0.056164704, u'web_site', 0.047363557, u'analog_clock', 0.042278316]

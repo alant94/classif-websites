@@ -1,0 +1,1 @@
+[u'sliding_door', 0.22175564, u'barbershop', 0.14782158, u'patio', 0.084077045, u'bookshop', 0.063993379, u'restaurant', 0.046472445]

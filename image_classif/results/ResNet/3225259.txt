@@ -1,0 +1,6 @@
+[u'starfish', 0.30909052, u'corn', 0.17992643, u'ear', 0.10314603, u'Band_Aid', 0.03990053, u'sombrero', 0.024033068]
+[u'barbershop', 0.16144727, u'binoculars', 0.08199086, u'flute', 0.076882452, u"potter's_wheel", 0.050276216, u'drum', 0.044343818]
+[u'nail', 0.2575753, u'birdhouse', 0.20519309, u'fountain', 0.15389709, u'pole', 0.14127469, u'switch', 0.062292576]
+[u'chain_saw', 0.59059763, u'stretcher', 0.069191389, u'unicycle', 0.061007638, u'lawn_mower', 0.049969327, u'horizontal_bar', 0.031706929]
+[u'church', 0.64508879, u'fountain', 0.11551342, u'fireboat', 0.063879386, u'mosque', 0.016953921, u'barn', 0.0143779]
+[u'shower_cap', 0.99999499, u'tray', 1.6747384e-06, u'plastic_bag', 1.2955874e-06, u'groom', 6.0967591e-07, u'dough', 3.3574176e-07]

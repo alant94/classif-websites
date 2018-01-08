@@ -1,0 +1,6 @@
+[u'bearskin', 0.16348009, u'oboe', 0.16167352, u'pickelhaube', 0.14936393, u'vase', 0.05268462, u'cuirass', 0.037997119]
+[u'panpipe', 0.97684801, u'church', 0.0052177962, u'bell_cote', 0.0038305207, u'marimba', 0.0026302666, u'chime', 0.0022589471]
+[u'projectile', 0.10717653, u'missile', 0.08289171, u'broom', 0.029025169, u'hook', 0.025950467, u'wine_bottle', 0.018079849]
+[u'wine_bottle', 0.79249299, u'red_wine', 0.06521111, u'carton', 0.062659048, u'perfume', 0.016430391, u'fountain_pen', 0.0086734798]
+[u'sundial', 0.50964409, u'crate', 0.27885926, u'brass', 0.063638382, u'grand_piano', 0.034929335, u'maze', 0.019470252]
+[u'chest', 0.43463022, u'fountain_pen', 0.15085305, u'ballpoint', 0.086492814, u'crate', 0.059032213, u'plane', 0.037650339]

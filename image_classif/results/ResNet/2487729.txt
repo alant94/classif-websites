@@ -1,0 +1,2 @@
+[u'digital_clock', 0.37008366, u'crossword_puzzle', 0.14292611, u'digital_watch', 0.063540019, u'scoreboard', 0.049425021, u'remote_control', 0.021340361]
+[u'Band_Aid', 0.18625675, u'web_site', 0.14282013, u'oil_filter', 0.04675892, u'airliner', 0.046153467, u'folding_chair', 0.033986401]

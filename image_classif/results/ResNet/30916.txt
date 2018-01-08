@@ -1,0 +1,4 @@
+[u'sunscreen', 0.18593335, u'envelope', 0.16767685, u'book_jacket', 0.10948506, u'lotion', 0.087258473, u'matchstick', 0.049697902]
+[u'cash_machine', 0.3899712, u'street_sign', 0.19873001, u'hair_spray', 0.11249726, u'freight_car', 0.039970387, u'carton', 0.034852717]
+[u'spotlight', 0.52339011, u'cocktail_shaker', 0.18057734, u'ladle', 0.10945395, u'oil_filter', 0.045510687, u'frying_pan', 0.017863642]
+[u'carton', 0.11748932, u'chainlink_fence', 0.071967781, u'mailbox', 0.057902951, u'binder', 0.054692507, u'bakery', 0.049187616]

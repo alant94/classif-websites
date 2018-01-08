@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.33927268, u'beaker', 0.079939373, u'digital_clock', 0.076921828, u'binder', 0.047355078, u'gas_pump', 0.023189081]
+[u'suspension_bridge', 0.49870765, u'pier', 0.090097405, u'fountain', 0.055468056, u'crane', 0.023010951, u'spider_web', 0.021099016]
+[u'digital_watch', 0.043995563, u'screwdriver', 0.036293797, u'scoreboard', 0.029400472, u'forklift', 0.028899591, u'picket_fence', 0.028313983]
+[u'digital_clock', 0.47026902, u'prayer_rug', 0.035170887, u'web_site', 0.034938578, u'wall_clock', 0.032041054, u'street_sign', 0.03074828]
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]
+[u'analog_clock', 0.21732533, u'digital_watch', 0.1127513, u'bow', 0.060624391, u'power_drill', 0.049609274, u'screwdriver', 0.045229785]
+[u'web_site', 0.33111963, u'Band_Aid', 0.17206542, u'digital_clock', 0.14761716, u'envelope', 0.042227391, u'wall_clock', 0.02231903]

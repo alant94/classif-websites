@@ -1,0 +1,1 @@
+[u'pole', 0.23904377, u'matchstick', 0.18502285, u'seashore', 0.11643621, u'tripod', 0.11272176, u'torch', 0.055958148]

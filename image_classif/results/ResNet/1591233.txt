@@ -1,0 +1,1 @@
+[u'ping-pong_ball', 0.09475787, u'pinwheel', 0.090029284, u'electric_fan', 0.07822898, u'hair_slide', 0.062632978, u'cocktail_shaker', 0.045071796]

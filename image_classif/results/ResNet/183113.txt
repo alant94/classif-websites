@@ -1,0 +1,4 @@
+[u'binder', 0.19258055, u'envelope', 0.045702387, u'web_site', 0.043871757, u'monitor', 0.030622633, u'television', 0.028173519]
+[u'binder', 0.32581243, u'envelope', 0.11384255, u'refrigerator', 0.05438406, u'web_site', 0.03447184, u'analog_clock', 0.025611334]
+[u'binder', 0.19690658, u'web_site', 0.073531687, u'monitor', 0.041834667, u'television', 0.037888952, u'envelope', 0.035789844]
+[u'envelope', 0.18669952, u'binder', 0.18385665, u'refrigerator', 0.054395989, u'web_site', 0.047437493, u'television', 0.032031622]

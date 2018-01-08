@@ -1,0 +1,2 @@
+[u'window_screen', 0.55203921, u'jigsaw_puzzle', 0.2750071, u'screen', 0.08573883, u'monitor', 0.026555002, u'laptop', 0.012411124]
+[u'web_site', 0.24243256, u'envelope', 0.10563616, u'cleaver', 0.084643148, u'can_opener', 0.035773166, u'lipstick', 0.033184625]

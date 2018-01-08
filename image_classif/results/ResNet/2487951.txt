@@ -1,0 +1,2 @@
+[u'mountain_tent', 0.092387617, u'snowmobile', 0.054947373, u'volcano', 0.033070073, u'barrow', 0.031036653, u'valley', 0.030918291]
+[u'wild_boar', 0.28808975, u'warthog', 0.22977149, u'Irish_wolfhound', 0.17543121, u'chain_saw', 0.074796334, u'Scottish_deerhound', 0.050644305]

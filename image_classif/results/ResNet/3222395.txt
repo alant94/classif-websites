@@ -1,0 +1,4 @@
+[u'shield', 0.82822591, u'wall_clock', 0.04052154, u'analog_clock', 0.020986784, u'pick', 0.010231126, u'rugby_ball', 0.0078512877]
+[u'web_site', 0.097773336, u'shower_curtain', 0.033488885, u'moving_van', 0.031085785, u'Band_Aid', 0.027316818, u'book_jacket', 0.023126908]
+[u'vestment', 0.87254041, u'toyshop', 0.022647325, u'candle', 0.020811709, u'altar', 0.013029261, u'vault', 0.011934849]
+[u'web_site', 0.31637979, u'envelope', 0.072372511, u'plunger', 0.022546079, u'menu', 0.020982923, u'lighter', 0.017200179]

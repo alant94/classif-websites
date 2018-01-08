@@ -1,0 +1,6 @@
+[u'panpipe', 0.84260041, u'digital_watch', 0.06654615, u'digital_clock', 0.05011382, u'stopwatch', 0.0091756508, u'picket_fence', 0.0080653457]
+[u'panpipe', 0.98723012, u'coil', 0.0048114439, u'marimba', 0.0023377943, u'bannister', 0.0010373603, u'digital_watch', 0.00079472491]
+[u'panpipe', 0.90180379, u'marimba', 0.031115597, u'digital_watch', 0.015828144, u'digital_clock', 0.014423502, u'picket_fence', 0.0078547578]
+[u'container_ship', 0.99935955, u'dock', 0.00026605549, u'fireboat', 0.00016815057, u'liner', 7.4117852e-05, u'pirate', 2.8321556e-05]
+[u'Windsor_tie', 0.31873456, u'bow_tie', 0.29821455, u'suit', 0.11333092, u'television', 0.01239468, u'bolo_tie', 0.011178327]
+[u'traffic_light', 0.71472806, u'street_sign', 0.13125911, u'digital_clock', 0.12093067, u'prayer_rug', 0.0050866972, u'remote_control', 0.0046694768]

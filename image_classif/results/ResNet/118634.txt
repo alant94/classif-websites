@@ -1,0 +1,3 @@
+[u'menu', 0.39528531, u'web_site', 0.22806062, u'crossword_puzzle', 0.17683412, u'comic_book', 0.01811523, u'rifle', 0.0081663467]
+[u'jigsaw_puzzle', 0.7408784, u'marimba', 0.13935822, u'honeycomb', 0.039448958, u'dough', 0.018585632, u'abacus', 0.011024557]
+[u'ballpoint', 0.35451323, u'quill', 0.20457532, u'rubber_eraser', 0.19128165, u'fountain_pen', 0.069591567, u'pencil_sharpener', 0.041551732]

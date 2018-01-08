@@ -1,0 +1,1 @@
+[u'space_shuttle', 0.28438103, u'chain_saw', 0.057548288, u'book_jacket', 0.05215878, u'comic_book', 0.044382505, u'pencil_sharpener', 0.040043943]

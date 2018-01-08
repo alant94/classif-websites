@@ -1,0 +1,4 @@
+[u'flagpole', 0.14149666, u'lakeside', 0.12004429, u'mobile_home', 0.095020279, u'maze', 0.04584581, u'monastery', 0.045069702]
+[u'quill', 0.19780011, u'packet', 0.083600864, u'wall_clock', 0.050580334, u'banded_gecko', 0.048892263, u'hair_slide', 0.046592273]
+[u'thatch', 0.088883579, u'picket_fence', 0.081943505, u'mobile_home', 0.077079251, u'flagpole', 0.07423453, u'lakeside', 0.048009813]
+[u'street_sign', 0.86678946, u'scoreboard', 0.032327604, u'moving_van', 0.019964991, u'ashcan', 0.0085680867, u'chainlink_fence', 0.0083139753]

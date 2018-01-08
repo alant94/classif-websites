@@ -1,0 +1,5 @@
+[u'armadillo', 0.26973638, u'gar', 0.1969718, u'barracouta', 0.18805186, u'Angora', 0.016102992, u'hare', 0.012811457]
+[u'oxcart', 0.093249254, u'picket_fence', 0.056928106, u'cliff', 0.055010609, u'book_jacket', 0.050967723, u'dome', 0.050773639]
+[u'dogsled', 0.23535195, u'malamute', 0.18203264, u'cliff', 0.041142944, u'oxcart', 0.039758768, u'killer_whale', 0.035558898]
+[u'hair_slide', 0.34157968, u'safety_pin', 0.085169345, u'panpipe', 0.028313508, u"carpenter's_kit", 0.021760393, u'nail', 0.021059059]
+[u'projectile', 0.21431635, u'thresher', 0.12613916, u'bulletproof_vest', 0.083416156, u'Arabian_camel', 0.060451105, u'king_crab', 0.047137141]

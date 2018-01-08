@@ -1,0 +1,8 @@
+[u'nematode', 0.149854, u'web_site', 0.14169449, u'matchstick', 0.027009115, u'dishwasher', 0.026164666, u'digital_clock', 0.025474207]
+[u'brown_bear', 0.89824051, u'Bouvier_des_Flandres', 0.03200331, u'American_black_bear', 0.019893965, u'wombat', 0.015043803, u'Newfoundland', 0.0038538857]
+[u'American_black_bear', 0.41610017, u'Gordon_setter', 0.1143669, u'curly-coated_retriever', 0.041254148, u'Bouvier_des_Flandres', 0.041231375, u'Irish_water_spaniel', 0.041199144]
+[u'harvester', 0.42079404, u'tractor', 0.19885151, u'lawn_mower', 0.13183504, u'go-kart', 0.081738099, u'plow', 0.055603247]
+[u'ox', 0.22385713, u'tusker', 0.21931159, u'oxcart', 0.064067677, u'plow', 0.050966166, u'water_buffalo', 0.050068174]
+[u'megalith', 0.19088161, u'brown_bear', 0.18450962, u'African_elephant', 0.11808649, u'bison', 0.097302742, u'wombat', 0.073068462]
+[u'plow', 0.55590695, u'tractor', 0.18950777, u'harvester', 0.094946779, u'thresher', 0.05745253, u'tank', 0.020470897]
+[u'brown_bear', 0.96519297, u'bison', 0.01087786, u'Arabian_camel', 0.0053392202, u'American_black_bear', 0.0039439551, u'otterhound', 0.001250822]

@@ -1,0 +1,4 @@
+[u'screwdriver', 0.15663719, u'rifle', 0.14635769, u'oboe', 0.12464694, u'ski', 0.079685755, u'hair_slide', 0.067937098]
+[u'ski', 0.25380507, u'go-kart', 0.11317724, u'bobsled', 0.10482397, u'macaw', 0.031664953, u'crash_helmet', 0.030512832]
+[u'comic_book', 0.68092954, u'book_jacket', 0.23192729, u'web_site', 0.013873432, u'jigsaw_puzzle', 0.013684421, u'envelope', 0.0063398071]
+[u'crash_helmet', 0.31811649, u'neck_brace', 0.13941859, u'mortarboard', 0.062740333, u'buckle', 0.062483694, u'knee_pad', 0.055687945]

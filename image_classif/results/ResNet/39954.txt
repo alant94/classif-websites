@@ -1,0 +1,2 @@
+[u'digital_clock', 0.22810766, u'prayer_rug', 0.11885623, u'ambulance', 0.11084002, u'shield', 0.044948559, u'quilt', 0.037248794]
+[u'tray', 0.33825091, u'sliding_door', 0.10834237, u'shield', 0.10402305, u'ambulance', 0.064487278, u'whistle', 0.026655434]

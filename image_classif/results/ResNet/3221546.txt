@@ -1,0 +1,7 @@
+[u'sarong', 0.50801593, u'swab', 0.16731399, u'wardrobe', 0.099279463, u'butcher_shop', 0.031884477, u'ski', 0.019621044]
+[u'toyshop', 0.36051795, u'comic_book', 0.075865306, u'altar', 0.064916655, u'padlock', 0.059848357, u'web_site', 0.052990004]
+[u'scoreboard', 0.52839237, u'brass', 0.10062564, u'bookshop', 0.071010634, u'shoji', 0.067413725, u'menu', 0.047149021]
+[u'wardrobe', 0.49147734, u'shoe_shop', 0.12655124, u'groom', 0.092619888, u'paintbrush', 0.037858061, u'butcher_shop', 0.036481284]
+[u'sweatshirt', 0.17374711, u'poncho', 0.15124108, u'web_site', 0.12886687, u'pajama', 0.084369697, u'sleeping_bag', 0.032911703]
+[u'web_site', 0.18340495, u'soccer_ball', 0.04210972, u'toaster', 0.039208788, u'jersey', 0.031834882, u'remote_control', 0.024623305]
+[u'candle', 0.11514109, u'paintbrush', 0.092979841, u'jackfruit', 0.077427387, u'butcher_shop', 0.03440579, u'ping-pong_ball', 0.033830456]

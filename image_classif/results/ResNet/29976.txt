@@ -1,0 +1,5 @@
+[u'book_jacket', 0.21951869, u'web_site', 0.054539725, u'remote_control', 0.045870893, u'perfume', 0.03308909, u'comic_book', 0.023604916]
+[u'oil_filter', 0.37650716, u'puck', 0.11481813, u'racket', 0.072230935, u'bathing_cap', 0.043027036, u'orange', 0.04181901]
+[u'golf_ball', 0.26060748, u'bathing_cap', 0.23177694, u'solar_dish', 0.068500653, u'racket', 0.040119175, u'bib', 0.030553091]
+[u'bathing_cap', 0.14060497, u'oil_filter', 0.11704885, u'rugby_ball', 0.071058542, u'pick', 0.051933624, u'street_sign', 0.047247294]
+[u'comic_book', 0.14183898, u'web_site', 0.092405468, u'packet', 0.026012978, u'chain_saw', 0.023047166, u'slot', 0.021732833]

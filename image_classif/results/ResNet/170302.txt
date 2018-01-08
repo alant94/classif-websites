@@ -1,0 +1,2 @@
+[u'web_site', 0.50825161, u'digital_clock', 0.024759635, u'monitor', 0.021462396, u'nematode', 0.017484458, u'television', 0.014351461]
+[u'web_site', 0.38583043, u'comic_book', 0.19826029, u'nematode', 0.10057198, u'book_jacket', 0.077951893, u'oscilloscope', 0.069159091]

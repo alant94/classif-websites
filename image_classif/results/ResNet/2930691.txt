@@ -1,0 +1,4 @@
+[u'web_site', 0.11800446, u'ski', 0.10637765, u'nipple', 0.065527841, u'envelope', 0.032227706, u'mortarboard', 0.027434869]
+[u'puck', 0.25297901, u'analog_clock', 0.1960905, u'pick', 0.084147997, u'web_site', 0.076129399, u'corkscrew', 0.05210733]
+[u'rugby_ball', 0.94692856, u'soccer_ball', 0.022335753, u'football_helmet', 0.019888993, u'shield', 0.0030439419, u'ballplayer', 0.00066455529]
+[u'bulletproof_vest', 0.94005328, u'assault_rifle', 0.0094491495, u'military_uniform', 0.0071819625, u'ping-pong_ball', 0.0057913093, u'rugby_ball', 0.0041591446]

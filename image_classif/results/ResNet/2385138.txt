@@ -1,0 +1,2 @@
+[u'comic_book', 0.79756284, u'book_jacket', 0.11797634, u'scoreboard', 0.036879141, u'tobacco_shop', 0.0078380015, u'cinema', 0.0054145921]
+[u'puck', 0.98014611, u'jersey', 0.0017940457, u'football_helmet', 0.0015353945, u'sweatshirt', 0.001534364, u'coffee_mug', 0.0011886427]

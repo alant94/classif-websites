@@ -1,0 +1,2 @@
+[u'web_site', 0.72600573, u'cassette_player', 0.037502188, u'cassette', 0.023082448, u'radio', 0.017487671, u'printer', 0.017112538]
+[u'web_site', 0.28190014, u'safe', 0.18232754, u'cash_machine', 0.13774203, u'switch', 0.073604979, u'analog_clock', 0.058608007]

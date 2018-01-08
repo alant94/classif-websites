@@ -1,0 +1,6 @@
+[u'hook', 0.6393286, u'stretcher', 0.17561981, u'cornet', 0.048799541, u'trombone', 0.032747999, u'soap_dispenser', 0.012602322]
+[u'crossword_puzzle', 0.66336691, u'tray', 0.034105171, u'book_jacket', 0.022613766, u'shower_curtain', 0.019834124, u'pillow', 0.017921755]
+[u'matchstick', 0.15332817, u'envelope', 0.14123178, u'letter_opener', 0.10482581, u'bonnet', 0.07953006, u'hair_slide', 0.076178372]
+[u'crossword_puzzle', 0.93895519, u'scoreboard', 0.016491422, u'file', 0.015335559, u'monitor', 0.0039856988, u'slot', 0.0026891639]
+[u'birdhouse', 0.33692557, u'book_jacket', 0.15155652, u'swab', 0.10215402, u'tray', 0.076545298, u'broom', 0.034892786]
+[u'croquet_ball', 0.43020594, u'mortarboard', 0.065952331, u'pinwheel', 0.031144613, u'abacus', 0.028662965, u'banana', 0.026337378]

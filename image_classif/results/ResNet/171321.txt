@@ -1,0 +1,2 @@
+[u'puck', 0.80448961, u'drum', 0.10325946, u'steam_locomotive', 0.012054197, u'barbell', 0.0081713898, u'football_helmet', 0.0073253871]
+[u'ballpoint', 0.40602174, u'picket_fence', 0.39332789, u'screwdriver', 0.034218952, u'organ', 0.025761919, u'bannister', 0.01828807]

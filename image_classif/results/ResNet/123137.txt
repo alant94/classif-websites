@@ -1,0 +1,8 @@
+[u'analog_clock', 0.13627455, u'crossword_puzzle', 0.12596978, u'switch', 0.095407896, u'scoreboard', 0.053881362, u'computer_keyboard', 0.051209215]
+[u'dock', 0.12976003, u'airship', 0.081103459, u'container_ship', 0.066851005, u'bell_cote', 0.061300375, u'seashore', 0.042705033]
+[u'tape_player', 0.52455902, u'cassette_player', 0.29156816, u'CD_player', 0.05642892, u'modem', 0.038859557, u'cassette', 0.016746458]
+[u'Petri_dish', 0.26185322, u'space_shuttle', 0.11917724, u'solar_dish', 0.10537726, u'television', 0.08135324, u'jellyfish', 0.048765853]
+[u'monitor', 0.42542005, u'container_ship', 0.28276291, u'scoreboard', 0.063815162, u'screen', 0.054656878, u'web_site', 0.027391152]
+[u'web_site', 0.11052147, u'cab', 0.10104003, u'tractor', 0.07628534, u'lawn_mower', 0.037532799, u'projector', 0.036792494]
+[u'web_site', 0.26757973, u'switch', 0.061365109, u'assault_rifle', 0.057974566, u'castle', 0.050094083, u'laptop', 0.041423328]
+[u'slot', 0.46009064, u'web_site', 0.057790603, u'screen', 0.044993158, u'hand-held_computer', 0.039776172, u'can_opener', 0.033790711]

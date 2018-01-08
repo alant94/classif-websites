@@ -1,0 +1,4 @@
+[u'swimming_trunks', 0.90855479, u'diaper', 0.067890964, u'brassiere', 0.00791205, u'dumbbell', 0.0058995243, u'miniskirt', 0.0025862663]
+[u'swimming_trunks', 0.83527607, u'punching_bag', 0.02234168, u'bathing_cap', 0.015822012, u'bikini', 0.013829571, u'parallel_bars', 0.013391265]
+[u'lighter', 0.1314498, u'medicine_chest', 0.097741671, u'shower_cap', 0.083516255, u'dumbbell', 0.059010256, u'refrigerator', 0.054906074]
+[u'toaster', 0.037478104, u'soap_dispenser', 0.03300323, u'medicine_chest', 0.026427798, u'cocktail_shaker', 0.025311438, u'sewing_machine', 0.023545103]

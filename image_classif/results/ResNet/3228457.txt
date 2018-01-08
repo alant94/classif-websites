@@ -1,0 +1,2 @@
+[u'marimba', 0.40892687, u'cleaver', 0.060235005, u'steel_drum', 0.049494807, u'butcher_shop', 0.039959259, u'wok', 0.038328834]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

@@ -1,0 +1,7 @@
+[u'diaper', 0.86987901, u'studio_couch', 0.014791313, u'tub', 0.014426311, u'bath_towel', 0.011575043, u'stethoscope', 0.0083428295]
+[u'bathing_cap', 0.22152975, u'tub', 0.085914224, u'wig', 0.082446203, u'bathtub', 0.067991368, u'feather_boa', 0.036638685]
+[u'killer_whale', 0.253712, u'tub', 0.086027607, u'brassiere', 0.067189842, u'syringe', 0.037000768, u'bathtub', 0.03667222]
+[u'bikini', 0.24284819, u'tub', 0.20314212, u'swimming_trunks', 0.098917685, u'bathtub', 0.088640653, u'brassiere', 0.03910571]
+[u'swimming_trunks', 0.2601788, u'tub', 0.16732581, u'bathtub', 0.12989904, u'groom', 0.11814016, u'bikini', 0.047474489]
+[u'bathtub', 0.24109367, u'tub', 0.15013123, u'groom', 0.052042369, u'stethoscope', 0.037164442, u'syringe', 0.029026099]
+[u'soccer_ball', 0.13704431, u'pick', 0.053420231, u'oxygen_mask', 0.050144404, u'golf_ball', 0.049817495, u'dial_telephone', 0.043615002]

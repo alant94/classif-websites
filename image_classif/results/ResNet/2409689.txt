@@ -1,0 +1,5 @@
+[u'shoji', 0.36103249, u'solar_dish', 0.12856188, u'window_screen', 0.099252224, u'fire_screen', 0.092098974, u'oscilloscope', 0.055929456]
+[u'confectionery', 0.18746603, u'brass', 0.11981291, u'corn', 0.096682832, u'chainlink_fence', 0.044662643, u'barbershop', 0.040831018]
+[u'mousetrap', 0.90263981, u'web_site', 0.059847847, u'plane', 0.0082493797, u'comic_book', 0.0041192467, u'Band_Aid', 0.0020913477]
+[u'sunscreen', 0.57106113, u'packet', 0.187648, u'lotion', 0.068991303, u'face_powder', 0.022053614, u'nipple', 0.017920265]
+[u'comic_book', 0.50873184, u'book_jacket', 0.26036909, u'packet', 0.047150213, u'honeycomb', 0.032647729, u'web_site', 0.0077183079]

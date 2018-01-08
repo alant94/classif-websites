@@ -1,0 +1,4 @@
+[u'night_snake', 0.35681143, u'sidewinder', 0.14920841, u'horned_viper', 0.13056332, u'rock_python', 0.12190562, u'hognose_snake', 0.08425799]
+[u'king_snake', 0.61507994, u'rock_python', 0.16089112, u'night_snake', 0.074802272, u'hognose_snake', 0.064436987, u'horned_viper', 0.04673624]
+[u'coral_fungus', 0.29973274, u'stinkhorn', 0.21205601, u'starfish', 0.079385683, u'sea_slug', 0.059431221, u'knot', 0.058140874]
+[u'sidewinder', 0.47114033, u'horned_viper', 0.31588513, u'night_snake', 0.074526884, u'rock_python', 0.041395415, u'king_snake', 0.037018847]

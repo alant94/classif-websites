@@ -1,0 +1,7 @@
+[u'barn', 0.9955973, u'boathouse', 0.0013463732, u'brass', 0.00048205521, u'book_jacket', 0.00033455153, u'worm_fence', 0.00027668086]
+[u'barbershop', 0.35348177, u'book_jacket', 0.098685004, u'comic_book', 0.098571189, u'web_site', 0.05610127, u'cinema', 0.043528434]
+[u'comic_book', 0.6059466, u'book_jacket', 0.29500461, u'web_site', 0.041643936, u'maze', 0.0074555594, u'envelope', 0.0036188622]
+[u'sunglass', 0.239081, u'jersey', 0.12471287, u'wig', 0.077255636, u'plunger', 0.046668772, u'pretzel', 0.035153005]
+[u'stage', 0.29405558, u'church', 0.29091674, u'altar', 0.2512731, u'restaurant', 0.033846993, u'theater_curtain', 0.019636627]
+[u'book_jacket', 0.43940067, u'comic_book', 0.15838924, u'starfish', 0.12124451, u'barracouta', 0.042322125, u'goldfish', 0.029272195]
+[u'computer_keyboard', 0.13182542, u'slide_rule', 0.13018961, u'space_bar', 0.11788625, u'photocopier', 0.10929138, u'desktop_computer', 0.086260423]

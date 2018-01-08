@@ -1,0 +1,3 @@
+[u'rule', 0.28246257, u'slide_rule', 0.25676799, u'hand-held_computer', 0.11197653, u'harmonica', 0.074866541, u'can_opener', 0.049490798]
+[u'computer_keyboard', 0.75837314, u'space_bar', 0.20522846, u'dial_telephone', 0.016832849, u'typewriter_keyboard', 0.0086702062, u'remote_control', 0.0033497722]
+[u'microphone', 0.25266066, u'sax', 0.14597338, u'stage', 0.11970032, u'spotlight', 0.10729162, u'accordion', 0.036619619]

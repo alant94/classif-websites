@@ -1,0 +1,2 @@
+[u'hair_spray', 0.16177611, u'whistle', 0.13754858, u'sunscreen', 0.13464241, u'cellular_telephone', 0.10358728, u'ocarina', 0.03408058]
+[u'abaya', 0.2823531, u'umbrella', 0.0611801, u'shoe_shop', 0.054415278, u'fountain', 0.029972119, u'chain_saw', 0.02659823]

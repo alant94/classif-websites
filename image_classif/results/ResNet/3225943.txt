@@ -1,0 +1,7 @@
+[u'folding_chair', 0.23891376, u'steel_drum', 0.2206986, u'flagpole', 0.029937562, u'swimming_trunks', 0.020133823, u'maze', 0.018349372]
+[u'web_site', 0.87670583, u'envelope', 0.080354929, u'abaya', 0.0026940207, u'hook', 0.0014354894, u'soap_dispenser', 0.0012031362]
+[u'church', 0.96755379, u'bell_cote', 0.031321041, u'monastery', 0.00036332902, u'mosque', 0.00025309506, u'dome', 0.00018677567]
+[u'bannister', 0.20942485, u'web_site', 0.18505205, u'book_jacket', 0.1397142, u'digital_clock', 0.057728209, u'comic_book', 0.05757926]
+[u'balance_beam', 0.16484964, u'swing', 0.078344166, u'totem_pole', 0.078331396, u'horizontal_bar', 0.045459613, u'pole', 0.034251306]
+[u'slot', 0.78527439, u'hand-held_computer', 0.021956455, u'book_jacket', 0.019742342, u'cellular_telephone', 0.018580558, u'crossword_puzzle', 0.018436277]
+[u'menu', 0.25453207, u'book_jacket', 0.071787633, u'brass', 0.063445322, u'crossword_puzzle', 0.036020882, u'web_site', 0.03227872]

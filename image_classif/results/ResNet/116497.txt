@@ -1,0 +1,2 @@
+[u'soccer_ball', 0.50501812, u'cocktail_shaker', 0.09470322, u'punching_bag', 0.057406895, u'volleyball', 0.04509392, u'crash_helmet', 0.041362751]
+[u'ski', 0.57890135, u'parachute', 0.1192983, u'soccer_ball', 0.059436411, u'knee_pad', 0.054484937, u'barbell', 0.053384803]

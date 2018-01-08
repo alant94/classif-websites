@@ -1,0 +1,7 @@
+[u'harp', 0.26518643, u'chain_saw', 0.19139592, u'torch', 0.079093784, u'maraca', 0.035237305, u'bubble', 0.032089319]
+[u'theater_curtain', 0.58971804, u'vestment', 0.13387673, u'stage', 0.039099481, u'oboe', 0.020215958, u'prison', 0.014484473]
+[u'chain_mail', 0.11840154, u'miniskirt', 0.10133691, u'hoopskirt', 0.071358196, u'cloak', 0.064909697, u'fur_coat', 0.061458904]
+[u'web_site', 0.36957496, u'academic_gown', 0.063059896, u'abaya', 0.055459376, u'jersey', 0.044405892, u'oboe', 0.025373448]
+[u'window_screen', 0.23374513, u'window_shade', 0.109807, u'water_tower', 0.09706375, u'sliding_door', 0.091463961, u'shoji', 0.066392101]
+[u'sliding_door', 0.27367115, u'window_shade', 0.18393329, u'fire_screen', 0.071585141, u'monastery', 0.049134806, u'shower_curtain', 0.040798217]
+[u'bolo_tie', 0.12246089, u'brass', 0.054149423, u'padlock', 0.050693072, u'loupe', 0.034072902, u'buckle', 0.027834235]

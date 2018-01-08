@@ -1,0 +1,4 @@
+[u'analog_clock', 0.41855404, u'iPod', 0.1144072, u'remote_control', 0.11354103, u'digital_clock', 0.11199436, u'stopwatch', 0.024274021]
+[u'digital_watch', 0.3656778, u'digital_clock', 0.1496454, u'buckle', 0.12658052, u'stopwatch', 0.079130977, u'tray', 0.039807051]
+[u'perfume', 0.11282323, u'digital_watch', 0.10976495, u'digital_clock', 0.10288663, u'lighter', 0.047943972, u'tray', 0.042164914]
+[u'digital_clock', 0.91861039, u'digital_watch', 0.069183901, u'analog_clock', 0.0043747425, u'shield', 0.001566214, u'stopwatch', 0.0010374833]

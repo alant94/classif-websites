@@ -1,0 +1,6 @@
+[u'refrigerator', 0.20014358, u'dishwasher', 0.12817834, u'envelope', 0.087734744, u'washer', 0.058441125, u'web_site', 0.039092574]
+[u'dishwasher', 0.49906507, u'screen', 0.054105081, u'refrigerator', 0.051720642, u'lotion', 0.028834775, u'binder', 0.02211942]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'web_site', 0.9980641, u'comic_book', 0.00041697157, u'isopod', 0.00016758063, u'book_jacket', 0.00010970582, u'bubble', 8.5446394e-05]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'street_sign', 0.74750453, u'traffic_light', 0.10225544, u'ashcan', 0.017242355, u'laptop', 0.014163035, u'scoreboard', 0.013287004]

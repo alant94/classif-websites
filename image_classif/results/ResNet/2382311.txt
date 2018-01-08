@@ -1,0 +1,1 @@
+[u'beer_glass', 0.40640497, u'beaker', 0.058825731, u'fire_screen', 0.030991504, u'pill_bottle', 0.029987862, u'cocktail_shaker', 0.027935334]

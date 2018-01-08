@@ -1,0 +1,3 @@
+[u'beer_glass', 0.22502872, u'perfume', 0.16341051, u'candle', 0.067071669, u'espresso', 0.063373618, u'soap_dispenser', 0.056813862]
+[u'beer_glass', 0.54751086, u'ice_lolly', 0.096547075, u'bell_pepper', 0.036513168, u'orange', 0.033608586, u'butternut_squash', 0.023971876]
+[u'beer_glass', 0.89321584, u'beaker', 0.021817531, u'water_bottle', 0.020803094, u'pill_bottle', 0.017700471, u'beer_bottle', 0.0073332661]

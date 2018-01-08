@@ -1,0 +1,4 @@
+[u'miniskirt', 0.12649891, u'cowboy_hat', 0.11171583, u'crutch', 0.098532952, u'swimming_trunks', 0.075228974, u'cowboy_boot', 0.068381958]
+[u'drilling_platform', 0.24770597, u'forklift', 0.18778349, u'thresher', 0.066537485, u'printer', 0.042093828, u'space_shuttle', 0.033817437]
+[u'mortarboard', 0.52948499, u'academic_gown', 0.2571581, u'suit', 0.066329472, u'groom', 0.019218223, u'limousine', 0.014516545]
+[u'safety_pin', 0.099947274, u'book_jacket', 0.07742054, u'web_site', 0.03548076, u'binder', 0.034777649, u'washer', 0.031877261]

@@ -1,0 +1,5 @@
+[u'gong', 0.96391213, u'chime', 0.0084698563, u'prison', 0.0030154989, u'loupe', 0.0024635326, u'bubble', 0.0020079643]
+[u'restaurant', 0.72475421, u'altar', 0.10414045, u'church', 0.067925423, u'beer_bottle', 0.027143974, u'vault', 0.016166233]
+[u'toyshop', 0.4121938, u'bookshop', 0.24487932, u'confectionery', 0.10949362, u'tobacco_shop', 0.064908721, u'library', 0.025897274]
+[u'church', 0.78383034, u'bookshop', 0.027726432, u'palace', 0.020966968, u'throne', 0.020039186, u'altar', 0.017064387]
+[u'switch', 0.25710526, u'wooden_spoon', 0.18204615, u'birdhouse', 0.10224893, u'radio', 0.035777938, u'face_powder', 0.02481568]

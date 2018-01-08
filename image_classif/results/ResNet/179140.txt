@@ -1,0 +1,1 @@
+[u'church', 0.78573298, u'altar', 0.036250073, u'theater_curtain', 0.032991212, u'stupa', 0.018224273, u'picket_fence', 0.017092369]

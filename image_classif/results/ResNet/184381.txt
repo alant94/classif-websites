@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.84966534, u'window_screen', 0.038595669, u'digital_clock', 0.012560532, u'screen', 0.0084972763, u'sliding_door', 0.0071225334]
+[u'microwave', 0.18753178, u'medicine_chest', 0.16423933, u'digital_clock', 0.10836204, u'cassette', 0.029998904, u'cassette_player', 0.028625755]
+[u'digital_clock', 0.94849527, u'digital_watch', 0.046940867, u'crossword_puzzle', 0.0023561439, u'analog_clock', 0.00054267485, u'stopwatch', 0.00041194385]
+[u'digital_clock', 0.29635435, u'medicine_chest', 0.082926318, u'digital_watch', 0.078932278, u'screen', 0.052876819, u'monitor', 0.029037548]
+[u'digital_clock', 0.45526162, u'medicine_chest', 0.22647634, u'digital_watch', 0.06200495, u'screen', 0.027575327, u'monitor', 0.019777436]
+[u'medicine_chest', 0.17718667, u'digital_clock', 0.12366285, u'screen', 0.050236266, u'window_screen', 0.033572756, u'monitor', 0.032167494]
+[u'jersey', 0.2511684, u'spatula', 0.030155417, u'acoustic_guitar', 0.027819179, u'American_lobster', 0.024771858, u'hammer', 0.018821092]

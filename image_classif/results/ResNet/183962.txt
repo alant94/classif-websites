@@ -1,0 +1,5 @@
+[u'web_site', 0.076719798, u'remote_control', 0.055688117, u'digital_clock', 0.050356146, u'street_sign', 0.04913573, u'hair_spray', 0.038357303]
+[u'digital_clock', 0.53510839, u'screen', 0.11055799, u'stopwatch', 0.09294153, u'digital_watch', 0.044540022, u'television', 0.037317894]
+[u'digital_clock', 0.94924819, u'digital_watch', 0.02746751, u'stopwatch', 0.01308544, u'scoreboard', 0.0038328813, u'screen', 0.0022561203]
+[u'television', 0.62452549, u'screen', 0.29255041, u'monitor', 0.024400633, u'iPod', 0.0086061805, u'home_theater', 0.0074485894]
+[u'street_sign', 0.3218123, u'cash_machine', 0.17450447, u'stopwatch', 0.079415128, u'book_jacket', 0.032191712, u'web_site', 0.029852543]

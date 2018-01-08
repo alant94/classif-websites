@@ -1,0 +1,5 @@
+[u'cellular_telephone', 0.65584099, u'iPod', 0.19909889, u'stopwatch', 0.057632413, u'radio', 0.014536641, u'analog_clock', 0.012039524]
+[u'gasmask', 0.34198055, u'pick', 0.30863091, u'drum', 0.07566046, u'web_site', 0.036766477, u'nematode', 0.025999354]
+[u'mask', 0.49208739, u'ski_mask', 0.27790797, u'web_site', 0.064293534, u'pick', 0.062652163, u'safety_pin', 0.01065827]
+[u'volleyball', 0.77322495, u'knee_pad', 0.14480399, u'racket', 0.027592292, u'swimming_trunks', 0.018508943, u'soccer_ball', 0.011344553]
+[u'cellular_telephone', 0.48983681, u'iPod', 0.39111266, u'hand-held_computer', 0.1113721, u'stopwatch', 0.0028408931, u'television', 0.0018828298]

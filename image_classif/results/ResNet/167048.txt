@@ -1,0 +1,5 @@
+[u'gown', 0.22436382, u'brassiere', 0.10361352, u'overskirt', 0.09395922, u'hoopskirt', 0.084424503, u'sarong', 0.064241722]
+[u'bathing_cap', 0.45403332, u'maillot', 0.39888421, u'balance_beam', 0.093243495, u'maillot', 0.026901057, u'brassiere', 0.011667475]
+[u'stage', 0.75913149, u'theater_curtain', 0.23770736, u'cinema', 0.000926607, u'grand_piano', 0.00054359128, u'electric_guitar', 0.00033021675]
+[u'pizza', 0.25632977, u'butcher_shop', 0.0901732, u'chambered_nautilus', 0.05893125, u'restaurant', 0.026950413, u'barrow', 0.024591528]
+[u'quill', 0.18932213, u'web_site', 0.17236364, u'book_jacket', 0.13364285, u'envelope', 0.11413367, u'comic_book', 0.065250881]

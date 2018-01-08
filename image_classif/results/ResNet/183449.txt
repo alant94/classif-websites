@@ -1,0 +1,5 @@
+[u'digital_clock', 0.61070293, u'ambulance', 0.16197874, u'digital_watch', 0.068723805, u'beaker', 0.016597396, u'street_sign', 0.014501392]
+[u'photocopier', 0.37030533, u'library', 0.28422013, u'refrigerator', 0.086246699, u'turnstile', 0.074616171, u'monitor', 0.028720303]
+[u'web_site', 0.23962604, u'digital_clock', 0.12871793, u'Band_Aid', 0.062951066, u'book_jacket', 0.059240095, u'remote_control', 0.053306218]
+[u'library', 0.21218637, u'washbasin', 0.16818909, u'barber_chair', 0.12970619, u'restaurant', 0.11889122, u'barbershop', 0.097017862]
+[u'balance_beam', 0.35263762, u'park_bench', 0.19979434, u'guillotine', 0.104953, u'studio_couch', 0.090244882, u'altar', 0.040104855]

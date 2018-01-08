@@ -1,0 +1,7 @@
+[u'analog_clock', 0.45213789, u'digital_clock', 0.24335757, u'traffic_light', 0.12640332, u'digital_watch', 0.052439835, u'screwdriver', 0.018321225]
+[u'sax', 0.6695829, u'oboe', 0.17685318, u'bassoon', 0.13642052, u'cornet', 0.0075583784, u'flute', 0.0037384157]
+[u'analog_clock', 0.44955084, u'digital_clock', 0.26400021, u'traffic_light', 0.087438203, u'screw', 0.039133508, u'digital_watch', 0.035146255]
+[u'sax', 0.76564837, u'web_site', 0.078722529, u'stage', 0.037877824, u'trombone', 0.02270017, u'cornet', 0.017788874]
+[u'cup', 0.43534243, u'spotlight', 0.24680167, u'pole', 0.017371044, u'sax', 0.016100414, u'shower_curtain', 0.013259005]
+[u'shield', 0.23304947, u'ladle', 0.078429483, u'spotlight', 0.053732835, u'strainer', 0.049049877, u'gong', 0.040764574]
+[u'monitor', 0.16086049, u'notebook', 0.14178732, u'web_site', 0.12547629, u'screen', 0.080854341, u'desktop_computer', 0.077227212]

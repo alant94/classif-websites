@@ -1,0 +1,4 @@
+[u'church', 0.38062602, u'stupa', 0.27277035, u'monastery', 0.18370256, u'palace', 0.095857196, u'dome', 0.027044289]
+[u'envelope', 0.81553787, u'web_site', 0.1371493, u'cleaver', 0.004317679, u'packet', 0.0019590284, u'dishwasher', 0.0015321252]
+[u'triumphal_arch', 0.18960766, u'bell_cote', 0.13705294, u'Band_Aid', 0.113145, u'shield', 0.063280508, u'jersey', 0.051240496]
+[u'web_site', 0.19854881, u'stopwatch', 0.055174462, u'remote_control', 0.035174709, u'book_jacket', 0.032822099, u'street_sign', 0.026711179]

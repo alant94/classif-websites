@@ -1,0 +1,7 @@
+[u'cornet', 0.17009102, u'nail', 0.072866209, u'ski', 0.069855258, u'turnstile', 0.062469985, u'trombone', 0.056658305]
+[u'digital_watch', 0.40147573, u'digital_clock', 0.1484745, u'scoreboard', 0.10589573, u'ambulance', 0.032144945, u'crossword_puzzle', 0.032024097]
+[u'comic_book', 0.61393189, u'book_jacket', 0.098143421, u'menu', 0.045493565, u'web_site', 0.030637313, u'bookshop', 0.026459847]
+[u'traffic_light', 0.25261059, u'digital_watch', 0.16331308, u'ambulance', 0.10572004, u'street_sign', 0.095747665, u'stopwatch', 0.052613758]
+[u'digital_watch', 0.43186268, u'analog_clock', 0.13776648, u'stopwatch', 0.081304394, u'shield', 0.040624779, u'digital_clock', 0.02872931]
+[u'comic_book', 0.58524835, u'book_jacket', 0.061975718, u'jersey', 0.058270793, u'Band_Aid', 0.056507081, u'web_site', 0.024996599]
+[u'digital_watch', 0.18362589, u'stopwatch', 0.18128558, u'traffic_light', 0.17244446, u'gas_pump', 0.099131599, u'street_sign', 0.062085986]

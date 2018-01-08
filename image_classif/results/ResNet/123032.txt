@@ -1,0 +1,3 @@
+[u'walking_stick', 0.14148627, u'nail', 0.13755712, u'coral_reef', 0.051256884, u'fountain', 0.049029194, u'book_jacket', 0.032816797]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'packet', 0.096414857, u'web_site', 0.066329449, u'buckle', 0.059049405, u'book_jacket', 0.040862363, u'stopwatch', 0.026995059]

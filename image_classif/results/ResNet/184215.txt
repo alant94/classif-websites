@@ -1,0 +1,5 @@
+[u'screen', 0.17233229, u'sunscreen', 0.08189863, u'lotion', 0.061159767, u'dishwasher', 0.038893037, u'cash_machine', 0.033670612]
+[u'screen', 0.25253269, u'hair_spray', 0.068552248, u'lotion', 0.060184155, u'web_site', 0.045575991, u'sunscreen', 0.04343963]
+[u'sunscreen', 0.13207465, u'screen', 0.10395964, u'hair_spray', 0.074050047, u'lotion', 0.067539237, u'perfume', 0.042011604]
+[u'screen', 0.40828025, u'lotion', 0.089229517, u'sunscreen', 0.069176912, u'cash_machine', 0.047040746, u'television', 0.040816288]
+[u'dishwasher', 0.049217146, u'screen', 0.044106122, u'web_site', 0.042635955, u'lotion', 0.032207899, u'hair_spray', 0.029677363]

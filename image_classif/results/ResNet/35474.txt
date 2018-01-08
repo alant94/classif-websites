@@ -1,0 +1,2 @@
+[u'washer', 0.99999094, u'stove', 3.0793865e-06, u'loudspeaker', 1.2979602e-06, u'safe', 6.4757455e-07, u'microwave', 5.9613683e-07]
+[u'barbershop', 0.48685879, u'bookshop', 0.16581495, u'shoe_shop', 0.091006868, u'tobacco_shop', 0.089467518, u'bakery', 0.068834223]

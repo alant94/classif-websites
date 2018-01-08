@@ -1,0 +1,3 @@
+[u'web_site', 0.16918297, u'envelope', 0.091112956, u'dishwasher', 0.064134285, u'nematode', 0.027157122, u'matchstick', 0.012945298]
+[u'web_site', 0.37455022, u'screen', 0.10292874, u'notebook', 0.092553884, u'oscilloscope', 0.090643227, u'monitor', 0.082120046]
+[u'oboe', 0.92104489, u'chain_saw', 0.015258757, u'bassoon', 0.014146, u'assault_rifle', 0.012222522, u'sax', 0.0069885473]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.32187137, u'screwdriver', 0.060218737, u"carpenter's_kit", 0.045707285, u'screw', 0.02814481, u'lampshade', 0.027748328]
+[u'Bouvier_des_Flandres', 0.094162323, u'nipple', 0.040637702, u'Old_English_sheepdog', 0.03382026, u'Sussex_spaniel', 0.032377329, u'tractor', 0.024791226]
+[u'jigsaw_puzzle', 0.32223669, u'comic_book', 0.12186203, u'packet', 0.038987294, u'whistle', 0.03154102, u'book_jacket', 0.026443861]
+[u'book_jacket', 0.29346058, u'scoreboard', 0.11680065, u'modem', 0.062906198, u'brass', 0.050472319, u'jigsaw_puzzle', 0.034201343]
+[u'comic_book', 0.86798251, u'book_jacket', 0.10632142, u'scoreboard', 0.0085939402, u'packet', 0.0029223824, u'butcher_shop', 0.002336727]
+[u'tricycle', 0.34240818, u'horse_cart', 0.18226345, u'shopping_cart', 0.13620628, u'lawn_mower', 0.054348286, u'barrow', 0.041225594]
+[u'mountain_tent', 0.99891746, u'sleeping_bag', 0.00036312456, u'snowmobile', 0.00024349311, u'yurt', 0.00017587628, u'umbrella', 7.0579903e-05]
+[u'ashcan', 0.068956494, u'mountain_tent', 0.060265385, u'folding_chair', 0.055728126, u'bathing_cap', 0.045843747, u'grocery_store', 0.040535171]

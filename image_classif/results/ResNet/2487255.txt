@@ -1,0 +1,8 @@
+[u'web_site', 0.12040742, u'nematode', 0.067454837, u'book_jacket', 0.058247745, u'envelope', 0.038786806, u'chain', 0.038516343]
+[u'American_black_bear', 0.63149589, u'giant_schnauzer', 0.069374017, u'Labrador_retriever', 0.051351044, u'wild_boar', 0.041418321, u'Newfoundland', 0.033097293]
+[u'king_penguin', 0.72051507, u'coho', 0.1734475, u'abaya', 0.006287111, u'vulture', 0.0040310258, u'American_coot', 0.0039981171]
+[u'stone_wall', 0.56922942, u'megalith', 0.083018072, u'thatch', 0.050063558, u'white_stork', 0.013460334, u'conch', 0.010150365]
+[u'cleaver', 0.32107413, u"carpenter's_kit", 0.14219548, u'screwdriver', 0.11038134, u'plate_rack', 0.06258484, u'scabbard', 0.03817891]
+[u'bison', 0.96055287, u'water_buffalo', 0.011951217, u'ox', 0.011675003, u'wild_boar', 0.0064685941, u'brown_bear', 0.0027556277]
+[u'nail', 0.12188721, u'oxygen_mask', 0.12042777, u'safety_pin', 0.07256113, u'screwdriver', 0.065414034, u'hair_slide', 0.061941713]
+[u'Band_Aid', 0.71689987, u'web_site', 0.077651054, u'plastic_bag', 0.0093987845, u'packet', 0.0083205272, u'moving_van', 0.0075020879]

@@ -1,0 +1,1 @@
+[u'Band_Aid', 0.34854299, u'jigsaw_puzzle', 0.16717567, u'nipple', 0.11651748, u'harmonica', 0.049153257, u'oxygen_mask', 0.02252453]

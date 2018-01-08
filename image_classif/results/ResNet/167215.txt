@@ -1,0 +1,6 @@
+[u'web_site', 0.5733583, u'football_helmet', 0.022598822, u'envelope', 0.017048063, u'cornet', 0.01575934, u'stethoscope', 0.009563447]
+[u'web_site', 0.42280906, u'envelope', 0.048595041, u'analog_clock', 0.027095271, u'redbone', 0.022952953, u'Bouvier_des_Flandres', 0.019971952]
+[u'hook', 0.15898944, u'web_site', 0.11351502, u'Band_Aid', 0.072642133, u'street_sign', 0.030448211, u'whistle', 0.02038746]
+[u'web_site', 0.88651347, u'envelope', 0.086613305, u'menu', 0.0021404792, u'sunglasses', 0.0011298601, u'rule', 0.0010994867]
+[u'palace', 0.19209655, u'church', 0.1278858, u'book_jacket', 0.064970486, u'castle', 0.045967706, u'dome', 0.033770293]
+[u'book_jacket', 0.68040055, u'comic_book', 0.31072795, u'Band_Aid', 0.0023460835, u'coffee_mug', 0.00088873709, u'web_site', 0.00038615876]

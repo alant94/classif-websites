@@ -1,0 +1,1 @@
+[u'analog_clock', 0.18131433, u'book_jacket', 0.15423106, u'hair_spray', 0.092500821, u'nematode', 0.053084977, u'theater_curtain', 0.041296318]

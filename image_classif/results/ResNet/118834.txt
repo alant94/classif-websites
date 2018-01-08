@@ -1,0 +1,5 @@
+[u'web_site', 0.10060708, u'digital_clock', 0.058927659, u'harmonica', 0.038173873, u'comic_book', 0.030143235, u'book_jacket', 0.02869869]
+[u'digital_clock', 0.332203, u'stopwatch', 0.092076331, u'digital_watch', 0.084929764, u'web_site', 0.036231581, u'analog_clock', 0.025004713]
+[u'whistle', 0.078484997, u'safe', 0.050872978, u'iron', 0.040454976, u'oil_filter', 0.037203193, u'shopping_basket', 0.036364004]
+[u'digital_clock', 0.48957643, u'digital_watch', 0.11398249, u'stopwatch', 0.032072991, u'crossword_puzzle', 0.031775054, u'scoreboard', 0.020521339]
+[u'web_site', 0.1946609, u'sunscreen', 0.07621333, u'digital_clock', 0.053291835, u'cash_machine', 0.036161147, u'lotion', 0.026187519]

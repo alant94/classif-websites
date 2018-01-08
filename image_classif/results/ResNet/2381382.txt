@@ -1,0 +1,5 @@
+[u'panpipe', 0.12238889, u'vestment', 0.06808652, u'overskirt', 0.051631071, u'altar', 0.036979258, u'cloak', 0.027535846]
+[u'caldron', 0.14893159, u'pot', 0.10590726, u'candle', 0.059689924, u'trifle', 0.059084211, u'plate', 0.059020124]
+[u'trifle', 0.74121869, u'ice_cream', 0.14423823, u'beer_glass', 0.01652625, u'eggnog', 0.011995426, u'cocktail_shaker', 0.0090242261]
+[u'thimble', 0.53725672, u'slot', 0.038178019, u'shield', 0.030750699, u'drum', 0.026507536, u'coffee_mug', 0.025790228]
+[u'beer_glass', 0.96432257, u'consomme', 0.011386263, u'eggnog', 0.0077785351, u'espresso', 0.0072567416, u'cocktail_shaker', 0.0017670094]

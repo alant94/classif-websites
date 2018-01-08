@@ -1,0 +1,3 @@
+[u'digital_clock', 0.53047383, u'bottlecap', 0.21074587, u'digital_watch', 0.069509931, u'golf_ball', 0.040456835, u'custard_apple', 0.024375465]
+[u'scoreboard', 0.33448243, u'digital_clock', 0.21458568, u'screen', 0.12488484, u'prayer_rug', 0.043797355, u'monitor', 0.033293448]
+[u'oil_filter', 0.39301771, u'pick', 0.093445279, u'chain_saw', 0.026747856, u'puck', 0.022367286, u'cinema', 0.018841205]

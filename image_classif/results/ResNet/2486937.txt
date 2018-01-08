@@ -1,0 +1,2 @@
+[u'fox_squirrel', 0.25247985, u'great_grey_owl', 0.16388664, u'Madagascar_cat', 0.13312495, u'indri', 0.11924313, u'koala', 0.040200427]
+[u'book_jacket', 0.17987926, u'Band_Aid', 0.050487779, u'butcher_shop', 0.049194194, u'vulture', 0.040236421, u'web_site', 0.037383966]

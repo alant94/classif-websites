@@ -1,0 +1,6 @@
+[u'digital_clock', 0.46204117, u'crossword_puzzle', 0.15415001, u'web_site', 0.11820117, u'prayer_rug', 0.043475486, u'digital_watch', 0.029948361]
+[u'crossword_puzzle', 0.99495232, u'digital_clock', 0.0045099529, u'digital_watch', 0.00051513658, u'scoreboard', 6.7329565e-06, u'wall_clock', 2.3259736e-06]
+[u'digital_clock', 0.99427456, u'digital_watch', 0.0050922097, u'crossword_puzzle', 0.00032257868, u'wall_clock', 5.3311825e-05, u'stopwatch', 5.1248997e-05]
+[u'fountain', 0.13925967, u'chain_saw', 0.094484173, u'prison', 0.082675762, u'window_shade', 0.053968236, u'umbrella', 0.035226516]
+[u'barracouta', 0.053821191, u'oboe', 0.041131806, u'gar', 0.037167907, u'apron', 0.036763575, u'cardigan', 0.035258278]
+[u'lighter', 0.11441316, u'switch', 0.090212725, u'hook', 0.07359273, u'pencil_sharpener', 0.057218064, u'paper_towel', 0.027788732]

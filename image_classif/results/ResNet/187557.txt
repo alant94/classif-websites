@@ -1,0 +1,7 @@
+[u'triceratops', 0.19884324, u'missile', 0.13021718, u'projectile', 0.10034182, u'airship', 0.060908817, u'hog', 0.049463272]
+[u'swing', 0.28813282, u'hook', 0.070586756, u'corkscrew', 0.052606791, u'scale', 0.037085705, u'power_drill', 0.036481109]
+[u'tank', 0.2680003, u'missile', 0.18177216, u'projectile', 0.066103242, u'rifle', 0.031113226, u'steam_locomotive', 0.028824592]
+[u'airship', 0.22865219, u'comic_book', 0.10433512, u'book_jacket', 0.097878985, u'missile', 0.063841909, u'projectile', 0.044873416]
+[u'drum', 0.13577096, u'cuirass', 0.09080755, u'punching_bag', 0.052663703, u'breastplate', 0.04587023, u'sax', 0.031707708]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'airship', 0.15760344, u'thresher', 0.092671886, u'submarine', 0.061405294, u'aircraft_carrier', 0.050358795, u'crane', 0.044798668]

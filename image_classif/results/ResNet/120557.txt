@@ -1,0 +1,2 @@
+[u'book_jacket', 0.88750035, u'comic_book', 0.089233063, u'scoreboard', 0.0067510894, u'barn', 0.004833186, u'barbershop', 0.0017667767]
+[u'comic_book', 0.64157295, u'book_jacket', 0.047319867, u'bearskin', 0.026202062, u'Italian_greyhound', 0.020348877, u'ski', 0.020171197]

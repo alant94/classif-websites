@@ -1,0 +1,1 @@
+[u'ballpoint', 0.093111388, u'paintbrush', 0.080964461, u'digital_clock', 0.069587357, u'hair_spray', 0.069279023, u'web_site', 0.045234747]

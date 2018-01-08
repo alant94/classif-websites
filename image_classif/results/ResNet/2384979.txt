@@ -1,0 +1,4 @@
+[u'web_site', 0.61036253, u'nematode', 0.043256797, u'envelope', 0.015524981, u'analog_clock', 0.013861064, u'dishwasher', 0.013212226]
+[u'web_site', 0.29060084, u'nematode', 0.088774212, u'tennis_ball', 0.035975471, u'analog_clock', 0.02834199, u'dugong', 0.027718298]
+[u'shield', 0.28959972, u'pick', 0.14562383, u'web_site', 0.071628168, u'puck', 0.067444101, u'electric_fan', 0.030169586]
+[u'shield', 0.21227941, u'Band_Aid', 0.10701334, u'vestment', 0.046082545, u'jersey', 0.040533304, u'street_sign', 0.04034026]

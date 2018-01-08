@@ -1,0 +1,1 @@
+[u'moving_van', 0.80922174, u'flagpole', 0.14582413, u'trailer_truck', 0.01049146, u'garbage_truck', 0.0091610476, u'pole', 0.0063378457]

@@ -1,0 +1,2 @@
+[u'web_site', 0.54569817, u'theater_curtain', 0.070217565, u'abaya', 0.0199333, u'jean', 0.018889649, u'maillot', 0.018873405]
+[u'buckle', 0.63465905, u'magnetic_compass', 0.092321344, u'hair_slide', 0.03739205, u'shield', 0.037045628, u'bolo_tie', 0.016494395]

@@ -1,0 +1,5 @@
+[u'jigsaw_puzzle', 0.28139752, u'altar', 0.17453235, u'book_jacket', 0.15205294, u'binder', 0.077839524, u'comic_book', 0.05704841]
+[u'comic_book', 0.049240906, u'bearskin', 0.043039132, u'electric_guitar', 0.040876586, u'crane', 0.028751206, u'chain_saw', 0.027804215]
+[u'book_jacket', 0.61071908, u'comic_book', 0.17085159, u'web_site', 0.018347599, u'golf_ball', 0.0061799465, u'Bouvier_des_Flandres', 0.0035362665]
+[u'comic_book', 0.80876631, u'slot', 0.049767304, u'toyshop', 0.027736498, u'barbershop', 0.023634903, u'book_jacket', 0.0209729]
+[u'book_jacket', 0.68905568, u'comic_book', 0.21743101, u'tobacco_shop', 0.046440851, u'web_site', 0.029266033, u'jigsaw_puzzle', 0.0045219809]

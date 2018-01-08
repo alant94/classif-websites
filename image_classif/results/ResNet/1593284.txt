@@ -1,0 +1,5 @@
+[u'timber_wolf', 0.52786225, u'Norwegian_elkhound', 0.23460431, u'keeshond', 0.075180955, u'Eskimo_dog', 0.044149548, u'white_wolf', 0.024824604]
+[u'bikini', 0.18422709, u'Border_terrier', 0.093219668, u'maillot', 0.068596058, u'briard', 0.057237953, u'swimming_trunks', 0.057191163]
+[u'pencil_sharpener', 0.2274401, u'airship', 0.15646398, u'space_shuttle', 0.090114139, u'bikini', 0.050811876, u'maillot', 0.023059418]
+[u'timber_wolf', 0.75328517, u'white_wolf', 0.11084666, u'red_wolf', 0.084537692, u'coyote', 0.01758193, u'dingo', 0.016927222]
+[u'wig', 0.37615713, u'Blenheim_spaniel', 0.13234602, u'overskirt', 0.10461936, u'bikini', 0.073866293, u'titi', 0.042935126]

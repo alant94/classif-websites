@@ -1,0 +1,5 @@
+[u'web_site', 0.31247023, u'jigsaw_puzzle', 0.0629403, u'pencil_sharpener', 0.02760745, u'digital_clock', 0.026826203, u'can_opener', 0.025446858]
+[u'web_site', 0.072380543, u'bib', 0.07028649, u'jersey', 0.058805808, u'book_jacket', 0.043165978, u'laptop', 0.040105708]
+[u'football_helmet', 0.67469019, u'rugby_ball', 0.063310027, u'soccer_ball', 0.053899009, u'crash_helmet', 0.035271592, u'ballplayer', 0.022446131]
+[u'web_site', 0.17747159, u'book_jacket', 0.080344595, u'comic_book', 0.034297723, u'laptop', 0.032540042, u'street_sign', 0.031366523]
+[u'jigsaw_puzzle', 0.22781061, u'shield', 0.18859561, u'Band_Aid', 0.11985854, u'can_opener', 0.062448539, u'web_site', 0.038706534]

@@ -1,0 +1,7 @@
+[u'microwave', 0.64230132, u'digital_watch', 0.096250467, u'digital_clock', 0.042192478, u'modem', 0.031875115, u'oscilloscope', 0.024180882]
+[u'oscilloscope', 0.50386947, u'microwave', 0.28310728, u'digital_watch', 0.10766774, u'digital_clock', 0.058545582, u'modem', 0.0073433272]
+[u'microwave', 0.36444062, u'digital_watch', 0.17775346, u'oscilloscope', 0.062635697, u'modem', 0.048014928, u'digital_clock', 0.021372778]
+[u'microwave', 0.3945851, u'digital_watch', 0.27813065, u'digital_clock', 0.092768371, u'stopwatch', 0.031328276, u'oscilloscope', 0.02731383]
+[u'microwave', 0.43795922, u'digital_clock', 0.30545336, u'digital_watch', 0.21168914, u'CD_player', 0.0073759407, u'stopwatch', 0.0064423061]
+[u'microwave', 0.78315347, u'digital_watch', 0.077918977, u'digital_clock', 0.025790354, u'oscilloscope', 0.018305041, u'space_heater', 0.01269198]
+[u'screw', 0.48659366, u'can_opener', 0.17544807, u'plunger', 0.065533653, u'hook', 0.057789851, u'coil', 0.052463882]

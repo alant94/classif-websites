@@ -1,0 +1,3 @@
+[u'church', 0.97629857, u'bell_cote', 0.013131795, u'monastery', 0.0038666914, u'flagpole', 0.0019026579, u'palace', 0.00077678199]
+[u'envelope', 0.39433649, u'bib', 0.30260038, u'packet', 0.068194099, u'handkerchief', 0.023983303, u'coffee_mug', 0.022424122]
+[u'acorn_squash', 0.28962812, u'book_jacket', 0.17964341, u'butternut_squash', 0.16749543, u'spaghetti_squash', 0.099242195, u'cucumber', 0.015981708]

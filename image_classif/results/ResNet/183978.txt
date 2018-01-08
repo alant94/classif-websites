@@ -1,0 +1,5 @@
+[u'stage', 0.61466372, u'kimono', 0.17338395, u'theater_curtain', 0.021750081, u'altar', 0.017590459, u'feather_boa', 0.011009845]
+[u'web_site', 0.2744213, u'digital_clock', 0.056832112, u'matchstick', 0.033739448, u'nematode', 0.032426633, u'lipstick', 0.015376502]
+[u'oboe', 0.25210238, u'stage', 0.12041552, u'restaurant', 0.09604612, u'bassoon', 0.086364999, u'flute', 0.063244395]
+[u'volleyball', 0.55621135, u'horizontal_bar', 0.19439279, u'parallel_bars', 0.17360251, u'pole', 0.031446584, u'balance_beam', 0.010095554]
+[u'cinema', 0.18344171, u'marimba', 0.18100223, u'theater_curtain', 0.12768394, u'picket_fence', 0.069767468, u'shoe_shop', 0.059860699]

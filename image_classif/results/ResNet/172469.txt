@@ -1,0 +1,4 @@
+[u'stage', 0.95096177, u'electric_guitar', 0.010693479, u'spotlight', 0.0096975286, u'theater_curtain', 0.0085773962, u'grand_piano', 0.0052126544]
+[u'web_site', 0.5405255, u'bannister', 0.020304155, u'matchstick', 0.016601022, u'nematode', 0.016401842, u'bubble', 0.013852524]
+[u'theater_curtain', 0.17367277, u'paddlewheel', 0.11755872, u'stage', 0.093375184, u'accordion', 0.054126821, u'yurt', 0.032917626]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

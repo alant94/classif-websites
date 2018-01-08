@@ -1,0 +1,8 @@
+[u"carpenter's_kit", 0.16316077, u'paintbrush', 0.11711774, u'vestment', 0.079576701, u'letter_opener', 0.054898627, u'ballpoint', 0.050295342]
+[u'lab_coat', 0.18745108, u'suit', 0.12034661, u'torch', 0.11433767, u'worm_fence', 0.049212493, u'maze', 0.031469375]
+[u'puck', 0.13788407, u'pick', 0.12829462, u'drum', 0.031970356, u'ocarina', 0.026831131, u'coffee_mug', 0.025433447]
+[u'bearskin', 0.19680749, u'ox', 0.089293063, u'barrow', 0.082941391, u'gown', 0.062592573, u'English_foxhound', 0.032363206]
+[u'lighter', 0.26252648, u'punching_bag', 0.053783085, u'web_site', 0.052669715, u'iron', 0.037230089, u'bow', 0.032020327]
+[u'brass', 0.1384138, u'flagpole', 0.076926008, u'scoreboard', 0.047071956, u'pole', 0.042414464, u'maypole', 0.040386416]
+[u'crossword_puzzle', 0.45078692, u'prayer_rug', 0.086032219, u'digital_clock', 0.072378851, u'digital_watch', 0.062492162, u'hamper', 0.048126325]
+[u'dogsled', 0.47350633, u'whippet', 0.28752798, u'Saluki', 0.082664214, u'English_foxhound', 0.075622633, u'borzoi', 0.024559831]

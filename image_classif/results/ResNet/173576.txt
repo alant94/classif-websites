@@ -1,0 +1,4 @@
+[u'web_site', 0.19108669, u'envelope', 0.076479554, u'Band_Aid', 0.045366727, u'panpipe', 0.029811561, u'traffic_light', 0.028655365]
+[u'whistle', 0.47057378, u'Band_Aid', 0.081771515, u'church', 0.053945761, u'digital_clock', 0.052886616, u'web_site', 0.024584394]
+[u'digital_clock', 0.79526681, u'crossword_puzzle', 0.078281604, u'analog_clock', 0.045657422, u'digital_watch', 0.034124482, u'stopwatch', 0.0089895409]
+[u'crossword_puzzle', 0.98366678, u'digital_clock', 0.0064132088, u'digital_watch', 0.0012964553, u'prayer_rug', 0.0012938356, u'web_site', 0.00088356668]

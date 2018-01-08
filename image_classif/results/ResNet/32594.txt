@@ -1,0 +1,2 @@
+[u'spotlight', 0.19646564, u'espresso_maker', 0.092524275, u'loudspeaker', 0.070662163, u'whistle', 0.05648414, u'tripod', 0.048715226]
+[u'comic_book', 0.14376023, u'web_site', 0.098335654, u'book_jacket', 0.086014263, u'digital_clock', 0.082369827, u'scoreboard', 0.031747963]

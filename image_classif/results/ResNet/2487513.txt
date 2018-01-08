@@ -1,0 +1,3 @@
+[u'ibex', 0.45135888, u'hartebeest', 0.2454548, u'gazelle', 0.080680832, u'wallaby', 0.070403099, u'bighorn', 0.054383736]
+[u'ibex', 0.94110024, u'hartebeest', 0.040903669, u'bighorn', 0.00664237, u'gazelle', 0.0044784117, u'ox', 0.0022306514]
+[u'crossword_puzzle', 0.60299867, u'digital_clock', 0.052017435, u'fire_screen', 0.051056374, u'radiator', 0.022700228, u'maze', 0.020949557]

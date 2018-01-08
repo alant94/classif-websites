@@ -1,0 +1,2 @@
+[u'strainer', 0.45016748, u'gong', 0.096742287, u'window_screen', 0.044621784, u'paper_towel', 0.038209058, u'hamper', 0.036598634]
+[u'screwdriver', 0.34621796, u"carpenter's_kit", 0.30354363, u'chime', 0.038675431, u'prayer_rug', 0.034785468, u'croquet_ball', 0.024747718]

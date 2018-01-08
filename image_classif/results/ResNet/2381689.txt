@@ -1,0 +1,7 @@
+[u'running_shoe', 0.48744315, u'thimble', 0.039449584, u'swab', 0.033640217, u'knot', 0.03001448, u'hook', 0.025363816]
+[u'trailer_truck', 0.2416189, u'forklift', 0.11329776, u'shower_curtain', 0.083495922, u'moving_van', 0.041415039, u'pole', 0.038423602]
+[u'hook', 0.17667866, u'shovel', 0.12947387, u'shield', 0.07175833, u'safety_pin', 0.058151107, u'cup', 0.027824085]
+[u'red_wine', 0.92889833, u'wine_bottle', 0.06256257, u'beer_bottle', 0.0016362196, u'water_bottle', 0.0014385761, u'pop_bottle', 0.00084514217]
+[u'wine_bottle', 0.4426862, u'red_wine', 0.26589265, u'goblet', 0.030100793, u'plate', 0.028624564, u'orange', 0.021612581]
+[u'jean', 0.12071365, u'stage', 0.065476462, u'groenendael', 0.038100675, u'sleeping_bag', 0.02719442, u'mountain_tent', 0.02171698]
+[u'red_wine', 0.56423056, u'wine_bottle', 0.42601895, u'beer_bottle', 0.0096062087, u'corkscrew', 9.6183634e-05, u'refrigerator', 1.5061787e-05]

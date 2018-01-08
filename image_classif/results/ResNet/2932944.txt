@@ -1,0 +1,1 @@
+[u'lab_coat', 0.61455852, u'Windsor_tie', 0.10178307, u'stethoscope', 0.066197343, u'diaper', 0.018712781, u'bow_tie', 0.0168982]

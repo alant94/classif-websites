@@ -1,0 +1,1 @@
+[u'solar_dish', 0.21382648, u'tripod', 0.19965385, u'pole', 0.1618903, u'horizontal_bar', 0.067028746, u'siamang', 0.033066571]

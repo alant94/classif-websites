@@ -1,0 +1,1 @@
+[u'cradle', 0.054042019, u'paper_towel', 0.042025998, u'folding_chair', 0.040404987, u'studio_couch', 0.028639417, u'mailbag', 0.028399261]

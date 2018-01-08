@@ -1,0 +1,2 @@
+[u'web_site', 0.25717744, u'analog_clock', 0.090785183, u'magnetic_compass', 0.075154781, u'envelope', 0.04848377, u'toilet_seat', 0.034187205]
+[u'comic_book', 0.26781708, u'web_site', 0.22406851, u'envelope', 0.18541314, u'book_jacket', 0.076727659, u'oil_filter', 0.022441495]

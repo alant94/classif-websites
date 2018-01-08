@@ -1,0 +1,8 @@
+[u'beer_bottle', 0.29037932, u'pop_bottle', 0.17471653, u'water_bottle', 0.16972408, u'whiskey_jug', 0.16797757, u'eggnog', 0.065475784]
+[u'cup', 0.071860142, u'coffee_mug', 0.061912261, u'pitcher', 0.06024605, u'beer_glass', 0.04982527, u'teapot', 0.047073308]
+[u'comic_book', 0.16322006, u'shield', 0.10732947, u'toilet_seat', 0.069345638, u'street_sign', 0.062509239, u'barrel', 0.056954108]
+[u'analog_clock', 0.26189071, u'stopwatch', 0.10221886, u'traffic_light', 0.07400357, u'digital_clock', 0.073952489, u'rugby_ball', 0.064695828]
+[u'jersey', 0.46339399, u'sweatshirt', 0.1296127, u'web_site', 0.056795467, u'binder', 0.047115732, u'laptop', 0.043713991]
+[u'puck', 0.147944, u'traffic_light', 0.07599514, u'buckle', 0.060608663, u'shield', 0.05943701, u'lacewing', 0.04825237]
+[u'coil', 0.78411895, u'folding_chair', 0.045801133, u'rocking_chair', 0.019624475, u'picket_fence', 0.018802458, u'organ', 0.017455216]
+[u'water_jug', 0.27374664, u'eggnog', 0.056639593, u'soap_dispenser', 0.049571496, u'lotion', 0.049144186, u'whiskey_jug', 0.039736263]

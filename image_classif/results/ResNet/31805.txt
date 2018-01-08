@@ -1,0 +1,5 @@
+[u'hourglass', 0.26266578, u'cocktail_shaker', 0.24759957, u'goblet', 0.13585567, u'washbasin', 0.05422863, u'water_jug', 0.030364679]
+[u'book_jacket', 0.13783577, u'street_sign', 0.12614383, u'comic_book', 0.12187868, u'traffic_light', 0.036800556, u'chain_saw', 0.035583962]
+[u'crate', 0.11705039, u'table_lamp', 0.10569933, u'lampshade', 0.076327637, u'carton', 0.05670996, u'chest', 0.053422179]
+[u'bathing_cap', 0.10907977, u"potter's_wheel", 0.078198798, u'plunger', 0.060029361, u'sunglass', 0.041854247, u'sunglasses', 0.03777257]
+[u'iPod', 0.39272016, u'television', 0.20794132, u'cellular_telephone', 0.093156002, u'screen', 0.046302106, u'cash_machine', 0.03230115]

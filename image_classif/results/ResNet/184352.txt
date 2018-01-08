@@ -1,0 +1,7 @@
+[u'medicine_chest', 0.40880194, u'switch', 0.12284882, u'hook', 0.034777205, u'oxygen_mask', 0.02601981, u'beaker', 0.023279874]
+[u'holster', 0.34106377, u'accordion', 0.14693598, u'chain_saw', 0.084916756, u'harmonica', 0.049150031, u'revolver', 0.044649046]
+[u'medicine_chest', 0.18966876, u'binder', 0.093891814, u'lighter', 0.074675366, u'prayer_rug', 0.072706424, u'church', 0.04276555]
+[u'revolver', 0.43156621, u'assault_rifle', 0.30179766, u'holster', 0.17001508, u'rifle', 0.095618255, u'bulletproof_vest', 0.00031161789]
+[u'revolver', 0.62516779, u'assault_rifle', 0.30732641, u'rifle', 0.043061439, u'holster', 0.02283909, u'power_drill', 0.00088044512]
+[u'birdhouse', 0.21989539, u'strawberry', 0.067430146, u'picket_fence', 0.058966123, u'Bouvier_des_Flandres', 0.04827442, u'barn', 0.047823023]
+[u'whistle', 0.38265696, u'power_drill', 0.04759407, u'pill_bottle', 0.047417883, u'spotlight', 0.043840196, u'oxygen_mask', 0.042105656]

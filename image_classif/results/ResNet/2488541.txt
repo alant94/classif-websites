@@ -1,0 +1,1 @@
+[u'brown_bear', 0.73805648, u'Arabian_camel', 0.12883593, u'Indian_elephant', 0.060736317, u'tusker', 0.026040558, u'wild_boar', 0.0094746817]

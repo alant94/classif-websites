@@ -1,0 +1,1 @@
+[u'beer_bottle', 0.99713898, u'wine_bottle', 0.00081729324, u'pop_bottle', 0.00072995701, u'refrigerator', 0.00047620173, u'sunscreen', 0.00024171609]

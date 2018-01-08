@@ -1,0 +1,2 @@
+[u'web_site', 0.51335818, u'binder', 0.10224639, u'refrigerator', 0.074991487, u'paper_towel', 0.066047907, u'shower_curtain', 0.022608394]
+[u'web_site', 0.99939859, u'envelope', 9.9838297e-05, u'clumber', 5.3056803e-05, u'toy_poodle', 3.1493237e-05, u'loupe', 3.1355052e-05]

@@ -1,0 +1,4 @@
+[u'golf_ball', 0.14576018, u'web_site', 0.079419881, u'digital_clock', 0.070589721, u'analog_clock', 0.035944562, u'scoreboard', 0.028369267]
+[u'refrigerator', 0.40433031, u'sunglasses', 0.19227524, u'tray', 0.13743427, u'vending_machine', 0.092706591, u'shoe_shop', 0.080627188]
+[u'digital_clock', 0.72490078, u'digital_watch', 0.092358932, u'scoreboard', 0.066659614, u'crossword_puzzle', 0.026540637, u'analog_clock', 0.023965385]
+[u'golf_ball', 0.16070896, u'lycaenid', 0.058266435, u'web_site', 0.055242788, u'tennis_ball', 0.041045319, u'nematode', 0.029318636]

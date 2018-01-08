@@ -1,0 +1,3 @@
+[u'web_site', 0.82153827, u'bannister', 0.0081535447, u'envelope', 0.0050987513, u'padlock', 0.0040350929, u'sax', 0.0039761616]
+[u'bow', 0.23663351, u'orangutan', 0.1469644, u'binoculars', 0.12295143, u'tripod', 0.090426423, u'warplane', 0.076593511]
+[u'bow', 0.47371602, u'assault_rifle', 0.14974841, u'ski', 0.13964719, u'rifle', 0.11005182, u'tripod', 0.029392511]

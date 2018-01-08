@@ -1,0 +1,1 @@
+[u'web_site', 0.12446368, u'menu', 0.080636963, u'coffee_mug', 0.056111488, u'jersey', 0.03192376, u'envelope', 0.024196569]

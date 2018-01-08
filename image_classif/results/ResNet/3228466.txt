@@ -1,0 +1,2 @@
+[u'reflex_camera', 0.23188972, u'trench_coat', 0.075860895, u'fur_coat', 0.067050256, u'web_site', 0.06481991, u'jean', 0.061594859]
+[u'Polaroid_camera', 0.56903601, u'web_site', 0.13462095, u'can_opener', 0.056166176, u'loupe', 0.055077668, u'tripod', 0.038251594]

@@ -1,0 +1,7 @@
+[u'monastery', 0.49913996, u'church', 0.12577832, u'castle', 0.085305437, u'gondola', 0.072748199, u'palace', 0.040521301]
+[u'pirate', 0.6216082, u'suspension_bridge', 0.21935651, u'boathouse', 0.041606091, u'wreck', 0.03035878, u'paddlewheel', 0.029266395]
+[u'gondola', 0.99459285, u'paddlewheel', 0.0012155299, u'boathouse', 0.00082367595, u'dock', 0.00046818808, u'steel_arch_bridge', 0.00045632478]
+[u'lakeside', 0.17124523, u'castle', 0.14895435, u'fountain', 0.11513462, u'breakwater', 0.11117198, u'water_bottle', 0.075712673]
+[u'lakeside', 0.20921236, u'breakwater', 0.10130762, u'seashore', 0.052505143, u'pier', 0.043021936, u'stole', 0.030817535]
+[u'wardrobe', 0.17472, u'paintbrush', 0.10985738, u'coffeepot', 0.061591275, u'shower_curtain', 0.060657412, u'plate_rack', 0.060533345]
+[u'fountain', 0.26446599, u'lakeside', 0.19380547, u'church', 0.098553792, u'barn', 0.07574968, u'paintbrush', 0.044126093]

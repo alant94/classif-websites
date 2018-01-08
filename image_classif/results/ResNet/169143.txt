@@ -1,0 +1,5 @@
+[u'book_jacket', 0.14161305, u'geyser', 0.13461767, u'web_site', 0.043255184, u'scuba_diver', 0.039885975, u'cash_machine', 0.034678824]
+[u'volcano', 0.099550597, u'alp', 0.074688271, u'radio_telescope', 0.072518386, u'recreational_vehicle', 0.058135446, u'brass', 0.057849877]
+[u'hand-held_computer', 0.11969742, u'mailbag', 0.096694514, u'cash_machine', 0.065844007, u'holster', 0.049433306, u'screen', 0.045664627]
+[u'book_jacket', 0.33217093, u'screen', 0.13384363, u'medicine_chest', 0.05929637, u'cash_machine', 0.054353815, u'monitor', 0.053332262]
+[u'cash_machine', 0.31131586, u'screen', 0.19047351, u'entertainment_center', 0.18538249, u'television', 0.058322784, u'monitor', 0.049136132]

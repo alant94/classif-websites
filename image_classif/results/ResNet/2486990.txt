@@ -1,0 +1,6 @@
+[u'web_site', 0.22747497, u'book_jacket', 0.12307798, u'comic_book', 0.081198439, u'remote_control', 0.02257997, u'whistle', 0.015873771]
+[u'jersey', 0.13896702, u'digital_clock', 0.071663827, u'stopwatch', 0.054369222, u'crossword_puzzle', 0.051215194, u'lighter', 0.050217465]
+[u'stopwatch', 0.11056139, u'cornet', 0.078136846, u'jersey', 0.051754951, u'hair_slide', 0.048438989, u'digital_clock', 0.040842131]
+[u'digital_clock', 0.33094716, u'Band_Aid', 0.054562945, u'web_site', 0.034516741, u'digital_watch', 0.032204591, u'whistle', 0.031381533]
+[u'jersey', 0.27182925, u'space_shuttle', 0.044183213, u'can_opener', 0.031232931, u'nematode', 0.027341114, u'stopwatch', 0.02429888]
+[u'vulture', 0.28506491, u'cliff', 0.18709889, u'bald_eagle', 0.1030374, u'totem_pole', 0.035911132, u'megalith', 0.021363594]

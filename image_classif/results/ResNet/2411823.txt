@@ -1,0 +1,3 @@
+[u'digital_clock', 0.44822949, u'web_site', 0.11909111, u'wall_clock', 0.088939525, u'screen', 0.069442838, u'scoreboard', 0.05709805]
+[u'nipple', 0.39787877, u'plunger', 0.083242275, u'hand_blower', 0.06943965, u'oxygen_mask', 0.057184517, u'pill_bottle', 0.04035696]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

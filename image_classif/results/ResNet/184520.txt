@@ -1,0 +1,6 @@
+[u'lakeside', 0.22790048, u'container_ship', 0.092445359, u'breakwater', 0.044252861, u'seashore', 0.031838838, u'dock', 0.030779464]
+[u'web_site', 0.88857263, u'monitor', 0.014241907, u'television', 0.013493048, u'screen', 0.011269176, u'slot', 0.0067185457]
+[u'web_site', 0.11167426, u'envelope', 0.036242742, u'cleaver', 0.011879533, u'plunger', 0.010312783, u'notebook', 0.009930836]
+[u'bubble', 0.2023512, u'web_site', 0.079035603, u'loupe', 0.069782242, u'menu', 0.062256049, u'book_jacket', 0.04524456]
+[u'seashore', 0.40408862, u'lakeside', 0.13333081, u'breakwater', 0.070508897, u'sandbar', 0.058152836, u'parachute', 0.030972399]
+[u'cinema', 0.42747065, u'motor_scooter', 0.17526655, u'fire_engine', 0.12224718, u'cab', 0.036227394, u'bobsled', 0.023612091]

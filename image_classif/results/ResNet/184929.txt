@@ -1,0 +1,5 @@
+[u'stage', 0.095004268, u'sax', 0.087964103, u'prison', 0.084640495, u'dumbbell', 0.070208192, u'cornet', 0.06644471]
+[u'fur_coat', 0.99213105, u'cloak', 0.0012598814, u'fountain', 0.0011208878, u'cowboy_boot', 0.000869482, u'miniskirt', 0.00058521301]
+[u'stage', 0.23071896, u'theater_curtain', 0.092576534, u'spotlight', 0.058954425, u'cinema', 0.029979942, u'lakeside', 0.028609611]
+[u'tripod', 0.13388215, u'analog_clock', 0.094976149, u'guillotine', 0.088872708, u'book_jacket', 0.071423285, u'bicycle-built-for-two', 0.047431335]
+[u'fur_coat', 0.36447525, u'palace', 0.10906773, u'monastery', 0.066779852, u'Sussex_spaniel', 0.037202735, u'church', 0.031041658]

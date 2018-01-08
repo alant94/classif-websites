@@ -1,0 +1,7 @@
+[u'tripod', 0.26555476, u'scabbard', 0.1101402, u'can_opener', 0.10285061, u'letter_opener', 0.055412456, u'bannister', 0.049568862]
+[u'suit', 0.51141876, u'bow_tie', 0.13964514, u'cowboy_hat', 0.12811418, u'bearskin', 0.018301295, u'groom', 0.015115715]
+[u'web_site', 0.46617141, u'bannister', 0.043062545, u'comic_book', 0.042095583, u'stopwatch', 0.016375761, u'digital_clock', 0.015147979]
+[u'digital_clock', 0.12807715, u'web_site', 0.097388811, u'envelope', 0.06332133, u'crossword_puzzle', 0.063046195, u'tripod', 0.041209441]
+[u'miniskirt', 0.60507959, u'jean', 0.085931219, u'jersey', 0.078499421, u'cardigan', 0.068087816, u'sweatshirt', 0.028563829]
+[u'sunglass', 0.64585662, u'sunglasses', 0.17946066, u'military_uniform', 0.037183303, u'bulletproof_vest', 0.022904221, u'miniskirt', 0.012579734]
+[u'wardrobe', 0.17947115, u'loudspeaker', 0.070435472, u'shoji', 0.036138684, u'web_site', 0.035877015, u'wall_clock', 0.02916697]

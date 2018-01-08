@@ -1,0 +1,8 @@
+[u'nematode', 0.23735595, u'cassette', 0.077897191, u'gong', 0.066710569, u'pick', 0.052438885, u'gasmask', 0.049661495]
+[u'web_site', 0.11354903, u'book_jacket', 0.035278633, u'sunglass', 0.033989422, u'sunscreen', 0.014623887, u'envelope', 0.013342594]
+[u'sarong', 0.13073021, u'jersey', 0.094736375, u'pinwheel', 0.074517816, u'handkerchief', 0.055570725, u'paintbrush', 0.053753946]
+[u'street_sign', 0.42334679, u'binder', 0.029970009, u'gas_pump', 0.02880238, u'cash_machine', 0.02292642, u'envelope', 0.021564653]
+[u'analog_clock', 0.59180439, u'digital_clock', 0.35300091, u'oscilloscope', 0.014987371, u'chain', 0.0056820209, u'wall_clock', 0.0050065862]
+[u'fountain', 0.23395471, u'bathtub', 0.16128202, u'tub', 0.092327125, u'gown', 0.070025548, u'shower_curtain', 0.051133972]
+[u'Band_Aid', 0.42806971, u'digital_clock', 0.089544497, u'street_sign', 0.053394731, u'sunscreen', 0.029702634, u'analog_clock', 0.027086489]
+[u'pick', 0.52145058, u'web_site', 0.063009262, u'chain', 0.058720674, u'analog_clock', 0.0398231, u'nematode', 0.03156371]

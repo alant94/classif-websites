@@ -1,0 +1,1 @@
+[u'puck', 0.45485002, u'bottlecap', 0.042643145, u'scoreboard', 0.040038235, u'packet', 0.037734617, u'gas_pump', 0.016936054]

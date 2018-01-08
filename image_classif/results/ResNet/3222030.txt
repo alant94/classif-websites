@@ -1,0 +1,1 @@
+[u'envelope', 0.34158742, u'rule', 0.2414473, u'web_site', 0.074615315, u'pillow', 0.035841968, u'oscilloscope', 0.015988825]

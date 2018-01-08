@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16470347, u'jersey', 0.12101054, u'comic_book', 0.076870143, u'abaya', 0.04451897, u'web_site', 0.044499464]
+[u'toyshop', 0.73068392, u'comic_book', 0.10160803, u'church', 0.086882189, u'altar', 0.014215044, u'vault', 0.014080459]

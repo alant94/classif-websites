@@ -1,0 +1,2 @@
+[u'chocolate_sauce', 0.44788545, u'plate', 0.42584109, u'ice_cream', 0.038908266, u'red_wine', 0.023262387, u'meat_loaf', 0.0098410975]
+[u'face_powder', 0.53230399, u'bolo_tie', 0.16745375, u'loupe', 0.077590421, u'puck', 0.032444008, u'buckle', 0.032290258]

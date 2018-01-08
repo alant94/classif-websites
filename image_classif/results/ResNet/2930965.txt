@@ -1,0 +1,5 @@
+[u'hook', 0.82047123, u'whistle', 0.017213477, u'web_site', 0.017159535, u'knot', 0.016614186, u'comic_book', 0.01354584]
+[u'suit', 0.76624459, u'groom', 0.17980957, u'academic_gown', 0.012485888, u'Windsor_tie', 0.0097452607, u'mortarboard', 0.0084418021]
+[u'web_site', 0.30642211, u'envelope', 0.032964472, u'dishwasher', 0.021264799, u'hook', 0.019077264, u'abaya', 0.011050567]
+[u'shield', 0.3069348, u'traffic_light', 0.17164133, u'lighter', 0.14118549, u'digital_clock', 0.06189061, u'bow_tie', 0.039115753]
+[u'television', 0.28009999, u'monitor', 0.14764787, u'screen', 0.12464557, u'web_site', 0.03482116, u'microwave', 0.029417939]

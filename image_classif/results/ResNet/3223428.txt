@@ -1,0 +1,3 @@
+[u'hook', 0.0793266, u'tripod', 0.067898311, u'analog_clock', 0.062004413, u'web_site', 0.054153338, u'matchstick', 0.030372228]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'overskirt', 0.26196185, u'hoopskirt', 0.17193711, u'sarong', 0.10793495, u'pajama', 0.07895425, u'gown', 0.073508151]

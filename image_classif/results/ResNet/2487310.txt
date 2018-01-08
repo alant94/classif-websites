@@ -1,0 +1,3 @@
+[u'quilt', 0.19950484, u'hamper', 0.13433932, u'wool', 0.056579839, u'prayer_rug', 0.036810186, u'jigsaw_puzzle', 0.03489257]
+[u'web_site', 0.16260538, u'jersey', 0.077427566, u'ski', 0.068908863, u'doormat', 0.066647343, u'plow', 0.043881036]
+[u'ibex', 0.77670503, u'hartebeest', 0.10306291, u'bighorn', 0.066985182, u'gazelle', 0.019857211, u'ram', 0.010011674]

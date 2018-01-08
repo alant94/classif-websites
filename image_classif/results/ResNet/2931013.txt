@@ -1,0 +1,8 @@
+[u'book_jacket', 0.30688372, u'comic_book', 0.11790051, u'web_site', 0.10602063, u'barbershop', 0.091800995, u'street_sign', 0.025743119]
+[u'stopwatch', 0.17443223, u'whistle', 0.11806954, u'pill_bottle', 0.049597919, u'stethoscope', 0.0481233, u'analog_clock', 0.038092326]
+[u'packet', 0.10547969, u'oil_filter', 0.066300899, u'coffee_mug', 0.050637253, u'pill_bottle', 0.047758259, u'rugby_ball', 0.042708464]
+[u'gong', 0.35679793, u'analog_clock', 0.098032452, u'iPod', 0.088496886, u'web_site', 0.030074395, u'stopwatch', 0.027982363]
+[u'packet', 0.24307044, u'rugby_ball', 0.13318945, u'beer_bottle', 0.058616746, u'oil_filter', 0.047562633, u'pill_bottle', 0.043705262]
+[u'book_jacket', 0.23427065, u'shoji', 0.14467365, u'window_screen', 0.093741596, u'pole', 0.038973477, u'picket_fence', 0.025867177]
+[u'web_site', 0.28495663, u'hook', 0.057491388, u'pretzel', 0.034868993, u'packet', 0.030447304, u'comic_book', 0.020688474]
+[u'patio', 0.31929386, u'studio_couch', 0.11449448, u'window_shade', 0.057991784, u'bookcase', 0.036932476, u'upright', 0.02916377]

@@ -1,0 +1,1 @@
+[u'trailer_truck', 0.43433091, u'pickup', 0.24081953, u'cab', 0.13030125, u'fire_engine', 0.038763396, u'ambulance', 0.029448381]

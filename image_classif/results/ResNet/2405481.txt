@@ -1,0 +1,4 @@
+[u'vacuum', 0.15786681, u'can_opener', 0.073892526, u'pencil_sharpener', 0.058782112, u'padlock', 0.055759292, u'espresso_maker', 0.055675123]
+[u'street_sign', 0.40466663, u'plate_rack', 0.099515945, u'safety_pin', 0.079290159, u'Band_Aid', 0.02426878, u'can_opener', 0.02078825]
+[u'oil_filter', 0.31414518, u'spotlight', 0.14969437, u'cassette_player', 0.065599568, u'stove', 0.049791519, u'tape_player', 0.046684116]
+[u'chain_saw', 0.20407248, u'space_heater', 0.12174109, u'cassette_player', 0.079583041, u'tape_player', 0.075531378, u'spotlight', 0.067551553]

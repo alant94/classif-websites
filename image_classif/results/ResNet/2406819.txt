@@ -1,0 +1,5 @@
+[u'tick', 0.71577901, u'golf_ball', 0.030318383, u'rubber_eraser', 0.02900498, u'pick', 0.016439445, u'chime', 0.011887119]
+[u'book_jacket', 0.95195776, u'comic_book', 0.027525274, u'street_sign', 0.0044516628, u'screwdriver', 0.0015253752, u'tripod', 0.0014125252]
+[u'dalmatian', 0.81587791, u'Great_Dane', 0.17724438, u'bluetick', 0.0019161615, u'comic_book', 0.0016311457, u'book_jacket', 0.0010618269]
+[u'espresso', 0.61522859, u'cup', 0.14410739, u'chocolate_sauce', 0.048801348, u'ice_cream', 0.032682817, u'eggnog', 0.019718975]
+[u'pick', 0.1448279, u'bottlecap', 0.089226477, u'book_jacket', 0.067441858, u'brass', 0.060730793, u'loupe', 0.03627491]

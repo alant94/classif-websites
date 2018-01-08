@@ -1,0 +1,5 @@
+[u'rugby_ball', 0.30510718, u'frying_pan', 0.19293052, u'ski', 0.084486209, u'puck', 0.041491739, u'letter_opener', 0.031097194]
+[u'lionfish', 0.18748599, u'hen', 0.15376049, u'cock', 0.063675784, u'hen-of-the-woods', 0.056179453, u'partridge', 0.042179801]
+[u'hay', 0.29453373, u'barn', 0.066117354, u'worm_fence', 0.05458067, u'valley', 0.03277158, u'promontory', 0.027404267]
+[u'web_site', 0.93018299, u'banded_gecko', 0.010294037, u'bullfrog', 0.0033220223, u'triceratops', 0.0030051651, u'horned_viper', 0.002917595]
+[u'ram', 0.24382341, u'ibex', 0.20331489, u'chain_saw', 0.082694925, u'standard_poodle', 0.062288471, u'bighorn', 0.042194244]

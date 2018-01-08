@@ -1,0 +1,5 @@
+[u'gong', 0.49526906, u'chime', 0.34825036, u'toilet_seat', 0.0367916, u'shield', 0.019446773, u'strainer', 0.010922178]
+[u'bassoon', 0.87711072, u'oboe', 0.12230169, u'flute', 0.00048257789, u'sax', 5.1902349e-05, u'accordion', 1.1171082e-05]
+[u'envelope', 0.43009037, u'quill', 0.075645611, u'web_site', 0.049220763, u'binder', 0.032718908, u'red_wine', 0.030411698]
+[u'oboe', 0.78659254, u'bassoon', 0.19210048, u'flute', 0.018165771, u'cornet', 0.00073247089, u'sax', 0.00059650914]
+[u'bassoon', 0.99922752, u'oboe', 0.00064751692, u'flute', 9.0386384e-05, u'accordion', 8.680383e-06, u'drumstick', 7.3721667e-06]

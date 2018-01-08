@@ -1,0 +1,2 @@
+[u'comic_book', 0.32458854, u'slot', 0.16835578, u'puck', 0.10529489, u'analog_clock', 0.071561575, u'wall_clock', 0.036585804]
+[u'web_site', 0.58637428, u'television', 0.023321342, u'digital_clock', 0.014988757, u'nematode', 0.01247233, u'dishwasher', 0.011614547]

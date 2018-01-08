@@ -1,0 +1,3 @@
+[u'American_black_bear', 0.72709781, u'groenendael', 0.044993017, u'sloth_bear', 0.037260167, u'gorilla', 0.03105793, u'malinois', 0.012460994]
+[u'American_black_bear', 0.16786022, u'groenendael', 0.16525827, u'sloth_bear', 0.11730049, u'Indian_elephant', 0.1056152, u'abaya', 0.050730191]
+[u'gong', 0.46467599, u'Indian_elephant', 0.062911682, u'chime', 0.033136275, u'harp', 0.032120652, u'cowboy_hat', 0.031337302]

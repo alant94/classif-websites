@@ -1,0 +1,8 @@
+[u'banded_gecko', 0.36641258, u'partridge', 0.062693365, u'badger', 0.053781398, u'zebra', 0.037524261, u'radiator', 0.023348209]
+[u'Yorkshire_terrier', 0.49894157, u'silky_terrier', 0.16267787, u'Australian_terrier', 0.11979429, u'Norfolk_terrier', 0.04281009, u'Norwich_terrier', 0.034575358]
+[u'container_ship', 0.38492706, u'crossword_puzzle', 0.36405742, u'sea_snake', 0.029681101, u'banded_gecko', 0.022888241, u'shower_curtain', 0.020208647]
+[u'binder', 0.21246794, u'safe', 0.052034721, u'envelope', 0.051128916, u'scale', 0.039917126, u'screen', 0.036674004]
+[u'hair_slide', 0.20168468, u'sandal', 0.085393697, u'maraca', 0.064218089, u'buckle', 0.061186343, u'rocking_chair', 0.057932697]
+[u'traffic_light', 0.12317275, u'digital_clock', 0.11982945, u'beaker', 0.090996236, u'oscilloscope', 0.069082908, u'screen', 0.049191982]
+[u'crossword_puzzle', 0.83964151, u'shovel', 0.015464542, u'ladle', 0.0143879, u'switch', 0.0086317603, u'remote_control', 0.0080400668]
+[u'lighter', 0.29542756, u'medicine_chest', 0.20609991, u'binder', 0.054046601, u'pill_bottle', 0.040353615, u'analog_clock', 0.027534893]

@@ -1,0 +1,3 @@
+[u'espresso', 0.70364785, u'coffee_mug', 0.19588554, u'eggnog', 0.038083851, u'cup', 0.03099847, u'espresso_maker', 0.019805938]
+[u'coffee_mug', 0.5615865, u'cup', 0.060008194, u'eggnog', 0.041779481, u'whiskey_jug', 0.04097344, u'water_jug', 0.03590611]
+[u'beaker', 0.26969913, u'saltshaker', 0.18845063, u'eggnog', 0.12485535, u'perfume', 0.070695885, u'water_jug', 0.058076974]

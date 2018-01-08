@@ -1,0 +1,3 @@
+[u'lakeside', 0.74574631, u'breakwater', 0.073174886, u'seashore', 0.040344354, u'pier', 0.039044771, u'dock', 0.01273612]
+[u'ballplayer', 0.16172223, u'flagpole', 0.072287418, u'scoreboard', 0.069145083, u'pole', 0.057938516, u'lakeside', 0.046152126]
+[u'monarch', 0.1993802, u'worm_fence', 0.10336323, u'buckeye', 0.061378732, u'hummingbird', 0.057501938, u'pot', 0.049276814]

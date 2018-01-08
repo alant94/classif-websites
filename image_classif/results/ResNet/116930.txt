@@ -1,0 +1,5 @@
+[u'web_site', 0.14000471, u'menu', 0.078712747, u'hook', 0.055560533, u'parallel_bars', 0.042973958, u'tripod', 0.041869737]
+[u'hook', 0.16897519, u'whistle', 0.11303517, u'nematode', 0.06976857, u'spotlight', 0.033685263, u'stopwatch', 0.032911144]
+[u'folding_chair', 0.23548441, u'street_sign', 0.11880421, u'shield', 0.11355691, u'lighter', 0.076254793, u'digital_watch', 0.040052261]
+[u'hook', 0.77209938, u'microphone', 0.026697027, u'nail', 0.02164444, u'rifle', 0.02025768, u"carpenter's_kit", 0.011324344]
+[u'swing', 0.83640838, u'marimba', 0.045764547, u'abacus', 0.0094594937, u'croquet_ball', 0.0094496068, u'jigsaw_puzzle', 0.0073342016]

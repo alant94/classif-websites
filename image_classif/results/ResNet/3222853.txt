@@ -1,0 +1,2 @@
+[u'web_site', 0.35809335, u'sunscreen', 0.03519816, u'bow', 0.028310824, u'envelope', 0.025412267, u'Bouvier_des_Flandres', 0.023393961]
+[u'tray', 0.0991439, u'sulphur_butterfly', 0.066579461, u'banana', 0.065775491, u'daisy', 0.056618232, u'Granny_Smith', 0.042927876]

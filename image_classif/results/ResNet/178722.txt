@@ -1,0 +1,6 @@
+[u'horse_cart', 0.31582883, u'llama', 0.15927359, u'obelisk', 0.098214366, u'Arabian_camel', 0.076780595, u'king_penguin', 0.026446406]
+[u'jinrikisha', 0.17823668, u'torch', 0.073735505, u'police_van', 0.049246147, u'bubble', 0.036721162, u'ambulance', 0.036646537]
+[u'palace', 0.15204151, u'fountain', 0.12726778, u'prison', 0.10840154, u'library', 0.05758772, u'traffic_light', 0.04162522]
+[u'streetcar', 0.26269588, u'aircraft_carrier', 0.21157704, u'sundial', 0.19901526, u'street_sign', 0.18691349, u'freight_car', 0.048254658]
+[u'stage', 0.65805888, u'fountain', 0.24074982, u'spotlight', 0.018752448, u'volcano', 0.013310065, u'theater_curtain', 0.010473545]
+[u'wig', 0.10108753, u'trench_coat', 0.071547553, u'notebook', 0.071428046, u'mailbag', 0.06960278, u'bulletproof_vest', 0.064899109]

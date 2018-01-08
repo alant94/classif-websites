@@ -1,0 +1,8 @@
+[u'ski', 0.11308105, u'web_site', 0.094914667, u'folding_chair', 0.075547859, u'shower_curtain', 0.068606488, u'picket_fence', 0.058824614]
+[u'digital_clock', 0.31410256, u'crossword_puzzle', 0.26501015, u'scoreboard', 0.10237592, u'digital_watch', 0.061788797, u'tray', 0.046946898]
+[u'tray', 0.1875618, u'folding_chair', 0.10802229, u'quilt', 0.068850622, u'web_site', 0.060040381, u'crossword_puzzle', 0.035177045]
+[u'cuirass', 0.16019316, u'screwdriver', 0.1559079, u'knee_pad', 0.096702255, u'maillot', 0.076622859, u'maillot', 0.051151268]
+[u'flamingo', 0.13104235, u'cardigan', 0.13042495, u'stole', 0.055328533, u'comic_book', 0.044592675, u'book_jacket', 0.043966729]
+[u'folding_chair', 0.36555767, u'picket_fence', 0.22542392, u'flagpole', 0.080610357, u'digital_clock', 0.050008688, u'ski', 0.045348212]
+[u'theater_curtain', 0.16470309, u'web_site', 0.12302373, u'monitor', 0.044293396, u'lighter', 0.044142134, u'television', 0.039023567]
+[u'monitor', 0.15859519, u'television', 0.090203375, u'screen', 0.084754311, u'book_jacket', 0.074283309, u'chime', 0.070256956]

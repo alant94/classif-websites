@@ -1,0 +1,8 @@
+[u'jersey', 0.14974385, u'scoreboard', 0.051913757, u'sweatshirt', 0.043595321, u'binder', 0.040176027, u'screen', 0.038015869]
+[u'book_jacket', 0.1702071, u'analog_clock', 0.13470809, u'theater_curtain', 0.056524504, u'wall_clock', 0.05094121, u'bottlecap', 0.041285645]
+[u'ambulance', 0.080913775, u'book_jacket', 0.06776423, u'analog_clock', 0.054211542, u'wall_clock', 0.043140825, u'remote_control', 0.036217384]
+[u'bottlecap', 0.081368223, u'analog_clock', 0.064384878, u'barometer', 0.058024414, u'wall_clock', 0.05036179, u'chain_saw', 0.048341762]
+[u'book_jacket', 0.30436012, u'theater_curtain', 0.050161339, u'comic_book', 0.041099709, u'perfume', 0.034943964, u'bottlecap', 0.033189606]
+[u'bottlecap', 0.49811569, u'analog_clock', 0.04489401, u'candle', 0.039020866, u'sunscreen', 0.034881029, u'chain_saw', 0.027442962]
+[u'book_jacket', 0.3176077, u'web_site', 0.048001189, u'barbershop', 0.046268336, u'theater_curtain', 0.036446176, u'pill_bottle', 0.021343352]
+[u'stage', 0.19967733, u'suit', 0.10517671, u'wig', 0.088826254, u'kimono', 0.060398508, u'marimba', 0.05516284]

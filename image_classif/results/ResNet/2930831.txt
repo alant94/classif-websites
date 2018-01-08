@@ -1,0 +1,4 @@
+[u'hair_slide', 0.061375715, u'cleaver', 0.053332996, u'doormat', 0.034003854, u'nail', 0.030835962, u'buckle', 0.028791757]
+[u'ladle', 0.27586159, u'mortar', 0.17802998, u'measuring_cup', 0.10596535, u'pot', 0.076017357, u'plate', 0.067822605]
+[u'Band_Aid', 0.21290334, u'thunder_snake', 0.11021252, u'sunscreen', 0.040349588, u'ringneck_snake', 0.022128258, u'dough', 0.018323701]
+[u'gong', 0.91874039, u'cassette', 0.024251519, u'chime', 0.019917903, u'loudspeaker', 0.0077815144, u'cassette_player', 0.0064752577]

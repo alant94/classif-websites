@@ -1,0 +1,2 @@
+[u'prayer_rug', 0.31301659, u'shower_curtain', 0.056544226, u'balloon', 0.045049824, u'crossword_puzzle', 0.03235035, u'paper_towel', 0.020204609]
+[u'crossword_puzzle', 0.97538674, u'shower_curtain', 0.0061568338, u'toilet_seat', 0.0021621489, u'tray', 0.0014154278, u'paper_towel', 0.0010114734]

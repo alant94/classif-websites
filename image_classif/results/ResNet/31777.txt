@@ -1,0 +1,7 @@
+[u'desktop_computer', 0.81531507, u'CD_player', 0.034647007, u'modem', 0.025707917, u'cassette_player', 0.017830415, u'switch', 0.013540068]
+[u'switch', 0.42649147, u'vending_machine', 0.40798223, u'lighter', 0.024278548, u'lotion', 0.018561756, u'binder', 0.014073608]
+[u'cleaver', 0.086621761, u"carpenter's_kit", 0.083766587, u'screwdriver', 0.043488067, u'plate_rack', 0.037097678, u'rifle', 0.027897933]
+[u'screen', 0.26367795, u'switch', 0.12799427, u'safe', 0.12398864, u'monitor', 0.098623544, u'oscilloscope', 0.062824614]
+[u'desktop_computer', 0.71762383, u'hard_disc', 0.093340009, u'modem', 0.064991221, u'photocopier', 0.051311728, u'printer', 0.018983891]
+[u'screen', 0.68047881, u'television', 0.058526132, u'monitor', 0.053093348, u'packet', 0.025409864, u'desktop_computer', 0.021709941]
+[u'coffee_mug', 0.083729133, u'puck', 0.065400012, u'pill_bottle', 0.060820054, u'sunscreen', 0.056117255, u'bottlecap', 0.052426919]

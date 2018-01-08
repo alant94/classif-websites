@@ -1,0 +1,2 @@
+[u'barracouta', 0.39732075, u'tench', 0.089910723, u'coho', 0.043103181, u'black-footed_ferret', 0.035867974, u'bulletproof_vest', 0.032017164]
+[u'chain_mail', 0.91990823, u'breastplate', 0.019289745, u'cuirass', 0.015886905, u'Windsor_tie', 0.0118252, u'suit', 0.0042219171]

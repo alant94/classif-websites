@@ -1,0 +1,5 @@
+[u'book_jacket', 0.88228434, u'scoreboard', 0.084863223, u'screwdriver', 0.005651969, u'prison', 0.0040602805, u'picket_fence', 0.0029441214]
+[u'book_jacket', 0.56559581, u'scoreboard', 0.17689288, u'screwdriver', 0.033262078, u'digital_watch', 0.025463246, u'picket_fence', 0.024077361]
+[u'barn', 0.61252922, u'church', 0.078243062, u'castle', 0.069690242, u'rapeseed', 0.037822634, u'lakeside', 0.024548015]
+[u'scoreboard', 0.46864355, u'book_jacket', 0.46576744, u'screwdriver', 0.031970829, u'oscilloscope', 0.0056944261, u"carpenter's_kit", 0.0037712827]
+[u'bearskin', 0.17005448, u'skunk', 0.10831651, u'hair_slide', 0.092410251, u'nail', 0.091858588, u'screw', 0.048322108]

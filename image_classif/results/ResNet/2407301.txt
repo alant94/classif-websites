@@ -1,0 +1,2 @@
+[u'nematode', 0.095295183, u'dishwasher', 0.087305494, u'abaya', 0.031107163, u'cleaver', 0.029067505, u'spatula', 0.016471224]
+[u'cardigan', 0.36692119, u'poncho', 0.35041761, u'sweatshirt', 0.046018913, u'bib', 0.028732184, u'jersey', 0.026513552]

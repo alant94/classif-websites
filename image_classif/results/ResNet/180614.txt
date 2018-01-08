@@ -1,0 +1,6 @@
+[u'beaker', 0.86438984, u'hair_spray', 0.034729622, u'lotion', 0.031748172, u'medicine_chest', 0.024770722, u'measuring_cup', 0.0077926847]
+[u'web_site', 0.94955832, u'hand-held_computer', 0.018015033, u'Band_Aid', 0.0060837772, u'comic_book', 0.0021792962, u'book_jacket', 0.0019089391]
+[u'comic_book', 0.30779225, u'mountain_bike', 0.21750602, u'book_jacket', 0.21083015, u'web_site', 0.064490646, u'bicycle-built-for-two', 0.034086671]
+[u'web_site', 0.85542506, u'hand-held_computer', 0.026664648, u'Band_Aid', 0.016809614, u'comic_book', 0.010849368, u'pill_bottle', 0.0049954965]
+[u'face_powder', 0.075945534, u'hair_spray', 0.07379175, u'lotion', 0.067164861, u'sunscreen', 0.056810997, u'pick', 0.054272488]
+[u'web_site', 0.49310061, u'binder', 0.1344398, u'screen', 0.069599532, u'desktop_computer', 0.042630389, u'monitor', 0.026461506]

@@ -1,0 +1,8 @@
+[u'street_sign', 0.31660619, u'chainlink_fence', 0.0566415, u'rapeseed', 0.032293767, u'crutch', 0.031451344, u'worm_fence', 0.024488423]
+[u'cannon', 0.76400661, u'crane', 0.096894026, u'thresher', 0.073080882, u'plow', 0.05269343, u'harvester', 0.0042616501]
+[u'breakwater', 0.53006107, u'dock', 0.28809851, u'pier', 0.090399712, u'worm_fence', 0.05424637, u'wreck', 0.02068748]
+[u'king_penguin', 0.98690784, u'coral_fungus', 0.010776395, u'ear', 0.00060469442, u'thatch', 0.00033239025, u'crane', 0.00028274476]
+[u'whistle', 0.1655705, u'maraca', 0.13130946, u'ballpoint', 0.093193159, u'can_opener', 0.03916892, u'wall_clock', 0.034756519]
+[u'lakeside', 0.84746426, u'seashore', 0.053746875, u'canoe', 0.024547461, u'sandbar', 0.019932615, u'breakwater', 0.019617807]
+[u'chain', 0.32031706, u'bolo_tie', 0.2904022, u'whistle', 0.090456568, u'knot', 0.067261308, u'iron', 0.023651348]
+[u'book_jacket', 0.36271197, u'binder', 0.3236421, u'packet', 0.14497779, u'bookshop', 0.016750883, u'sunscreen', 0.016278287]

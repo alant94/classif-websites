@@ -1,0 +1,2 @@
+[u'microphone', 0.31995976, u'spotlight', 0.20276295, u'radio', 0.094852537, u'combination_lock', 0.03877135, u'vacuum', 0.036540046]
+[u'remote_control', 0.20968649, u'switch', 0.11862086, u'harmonica', 0.097937696, u'nail', 0.07804589, u'modem', 0.066385485]

@@ -1,0 +1,5 @@
+[u'German_shepherd', 0.19117667, u'book_jacket', 0.13138704, u'comic_book', 0.065396845, u'malinois', 0.047903914, u'web_site', 0.041168232]
+[u'web_site', 0.16176383, u'screen', 0.04045222, u'binder', 0.035049066, u'analog_clock', 0.028000347, u'envelope', 0.02472421]
+[u'suit', 0.18963629, u'coho', 0.089447573, u'abaya', 0.085357249, u'wardrobe', 0.083368659, u'ski', 0.065354049]
+[u'Band_Aid', 0.37285766, u'apron', 0.27949461, u'can_opener', 0.058652896, u'crossword_puzzle', 0.03784677, u'digital_watch', 0.025040535]
+[u'bikini', 0.3874138, u'wig', 0.2783922, u'maillot', 0.051414348, u'brassiere', 0.043772455, u'sunglass', 0.03472475]

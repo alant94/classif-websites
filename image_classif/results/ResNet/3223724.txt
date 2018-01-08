@@ -1,0 +1,4 @@
+[u'web_site', 0.59862077, u'envelope', 0.056339137, u'lipstick', 0.013697842, u'digital_clock', 0.010242663, u'rule', 0.010203306]
+[u'panpipe', 0.27759171, u'coil', 0.15103227, u'triumphal_arch', 0.088392571, u'pencil_sharpener', 0.084432103, u'church', 0.070029922]
+[u'envelope', 0.18184915, u'web_site', 0.097060695, u'digital_clock', 0.076589175, u'jersey', 0.045202009, u'Band_Aid', 0.039561633]
+[u'bow', 0.17159833, u'oxygen_mask', 0.11648156, u'bearskin', 0.085816309, u'ski', 0.076539412, u'parachute', 0.04032236]

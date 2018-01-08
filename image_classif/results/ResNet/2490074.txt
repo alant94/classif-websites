@@ -1,0 +1,1 @@
+[u'mountain_bike', 0.68454051, u'bicycle-built-for-two', 0.12837455, u'alp', 0.047496911, u'parachute', 0.017238747, u'lakeside', 0.01457712]

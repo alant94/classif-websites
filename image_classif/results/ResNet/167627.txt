@@ -1,0 +1,6 @@
+[u'comic_book', 0.12663731, u'bannister', 0.11625759, u'spider_web', 0.10438869, u'suspension_bridge', 0.080950543, u'lionfish', 0.067708544]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'theater_curtain', 0.24082187, u'stage', 0.22770439, u'prison', 0.097730391, u'spotlight', 0.032654416, u'cup', 0.031504024]
+[u'flute', 0.54711753, u'violin', 0.18066607, u'oboe', 0.12621994, u'cello', 0.026364854, u'cornet', 0.024591226]
+[u'cello', 0.98179215, u'violin', 0.016744239, u'acoustic_guitar', 0.00095773867, u'banjo', 0.00025404015, u'harp', 5.2186457e-05]
+[u'comic_book', 0.34774858, u'book_jacket', 0.26863086, u'barbershop', 0.10339067, u'butcher_shop', 0.037215102, u'confectionery', 0.036874115]

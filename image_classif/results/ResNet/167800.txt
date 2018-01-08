@@ -1,0 +1,7 @@
+[u'candle', 0.14182125, u'ocarina', 0.1126182, u'perfume', 0.061885543, u'hourglass', 0.05295863, u'beaker', 0.051585995]
+[u'cassette', 0.13941473, u'pencil_sharpener', 0.1201201, u'birdhouse', 0.1154807, u'switch', 0.077472351, u'spotlight', 0.056200668]
+[u'beaker', 0.089983165, u'parallel_bars', 0.08218956, u'prayer_rug', 0.073235333, u'candle', 0.064296633, u'shower_curtain', 0.031855423]
+[u'combination_lock', 0.21700649, u'knee_pad', 0.2068328, u'nematode', 0.052040894, u'oxygen_mask', 0.051551178, u'coil', 0.051225718]
+[u'loupe', 0.17841202, u'oxygen_mask', 0.11495924, u'panpipe', 0.10433064, u'ski_mask', 0.057825092, u'academic_gown', 0.049811091]
+[u'book_jacket', 0.26314583, u'cornet', 0.13972931, u'trombone', 0.12432489, u'comic_book', 0.091740683, u'rifle', 0.033919852]
+[u'oboe', 0.31558511, u'suit', 0.071449921, u'cocktail_shaker', 0.066553757, u'Windsor_tie', 0.065810762, u'book_jacket', 0.061991807]

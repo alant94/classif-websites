@@ -1,0 +1,7 @@
+[u'web_site', 0.4835529, u'stopwatch', 0.050149705, u'pick', 0.044165615, u'can_opener', 0.032800369, u'hook', 0.029267272]
+[u'analog_clock', 0.88802892, u'digital_clock', 0.014362948, u'sea_snake', 0.013325757, u'stopwatch', 0.01084072, u'whistle', 0.010094577]
+[u'prayer_rug', 0.32523328, u'church', 0.13363111, u'comic_book', 0.12401882, u'book_jacket', 0.054429173, u'theater_curtain', 0.048170555]
+[u'web_site', 0.08270552, u'envelope', 0.081653304, u'dishwasher', 0.054663476, u'cleaver', 0.018987207, u'notebook', 0.017491644]
+[u'traffic_light', 0.72758853, u'digital_clock', 0.096444666, u'analog_clock', 0.070292443, u'street_sign', 0.025690056, u'screen', 0.0096725645]
+[u'jersey', 0.99319541, u'sweatshirt', 0.0067939968, u'maillot', 8.3591376e-06, u'pajama', 4.2437637e-07, u'wool', 2.3404439e-07]
+[u'steel_drum', 0.10461994, u'bearskin', 0.072230317, u'comic_book', 0.033388324, u'electric_guitar', 0.032556288, u'breastplate', 0.030515119]

@@ -1,0 +1,1 @@
+[u'brown_bear', 0.99693584, u'American_black_bear', 0.0016523029, u'Chesapeake_Bay_retriever', 0.00050541689, u'Newfoundland', 0.00017480388, u'sloth_bear', 0.00013131181]

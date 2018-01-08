@@ -1,0 +1,2 @@
+[u'fountain', 0.6107707, u'church', 0.1650589, u'analog_clock', 0.040935595, u'altar', 0.039566826, u'monastery', 0.018404109]
+[u'drilling_platform', 0.15334336, u'barn', 0.14345777, u'palace', 0.12830512, u'fountain', 0.11886661, u'seashore', 0.043362346]

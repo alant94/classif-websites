@@ -1,0 +1,3 @@
+[u'book_jacket', 0.51182067, u'comic_book', 0.093106769, u'web_site', 0.073436297, u'menu', 0.056938071, u'cinema', 0.029078528]
+[u'diaper', 0.62303114, u'bikini', 0.16268013, u'swimming_trunks', 0.069206737, u'tub', 0.029293468, u'sunscreen', 0.016165437]
+[u'bikini', 0.29009125, u'maillot', 0.1887856, u'hair_spray', 0.13096716, u'brassiere', 0.086503759, u'maillot', 0.032600362]

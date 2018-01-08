@@ -1,0 +1,7 @@
+[u'flagpole', 0.13405219, u'barn', 0.075607926, u'lakeside', 0.064692602, u'pole', 0.043582547, u'beacon', 0.035424795]
+[u'book_jacket', 0.40249544, u'crossword_puzzle', 0.093698278, u'comic_book', 0.072897762, u'scoreboard', 0.055709168, u'remote_control', 0.040369369]
+[u'ibex', 0.34241956, u'gazelle', 0.17717373, u'hartebeest', 0.10417374, u'impala', 0.080389753, u'bighorn', 0.056388799]
+[u'hartebeest', 0.24955417, u'tusker', 0.23838779, u'king_crab', 0.12557925, u'impala', 0.11867005, u'bow', 0.10817785]
+[u'hartebeest', 0.44531798, u'impala', 0.3823984, u'bighorn', 0.069815539, u'ibex', 0.039393488, u'ram', 0.031481568]
+[u'whistle', 0.33397508, u'screwdriver', 0.13441078, u'switch', 0.044817112, u'digital_clock', 0.030562924, u'analog_clock', 0.028386824]
+[u'screen', 0.42610115, u'television', 0.22774144, u'oscilloscope', 0.084453151, u'monitor', 0.076431938, u'home_theater', 0.03087903]

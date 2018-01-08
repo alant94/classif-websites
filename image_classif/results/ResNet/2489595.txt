@@ -1,0 +1,2 @@
+[u'hartebeest', 0.63271314, u'gazelle', 0.17065091, u'ox', 0.047462266, u'bison', 0.03717516, u'zebra', 0.028560136]
+[u'web_site', 0.12188999, u'gazelle', 0.10899704, u'screen', 0.085946098, u'monitor', 0.072250046, u'hartebeest', 0.066014752]

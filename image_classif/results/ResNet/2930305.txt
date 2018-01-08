@@ -1,0 +1,8 @@
+[u'Band_Aid', 0.12494516, u'web_site', 0.086682573, u'oil_filter', 0.052794777, u'sunscreen', 0.043623101, u'hair_spray', 0.022360409]
+[u'bikini', 0.14666663, u'shower_curtain', 0.061837886, u'sarong', 0.054921892, u'candle', 0.051240597, u'jean', 0.044376727]
+[u'Band_Aid', 0.4469094, u'oil_filter', 0.076288097, u'sunscreen', 0.066457123, u'web_site', 0.044681076, u'digital_clock', 0.026964117]
+[u'screwdriver', 0.067609079, u'perfume', 0.050429326, u'crossword_puzzle', 0.037641428, u'ballpoint', 0.036491517, u'web_site', 0.036400728]
+[u'shower_curtain', 0.39939445, u'fire_screen', 0.23510849, u'theater_curtain', 0.11649052, u'safety_pin', 0.065824807, u'binder', 0.023716193]
+[u'jersey', 0.42366719, u'envelope', 0.094079062, u'sweatshirt', 0.085193954, u'binder', 0.023859786, u'web_site', 0.017273195]
+[u'prison', 0.28291881, u'can_opener', 0.20954461, u'drumstick', 0.081777364, u'Windsor_tie', 0.02755275, u'soap_dispenser', 0.027205011]
+[u'water_tower', 0.24870816, u'planetarium', 0.17796166, u'mosque', 0.064994901, u'submarine', 0.053694401, u'liner', 0.040062513]

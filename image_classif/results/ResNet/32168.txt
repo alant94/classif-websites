@@ -1,0 +1,2 @@
+[u'stopwatch', 0.075008146, u'web_site', 0.060029525, u'envelope', 0.053558279, u'notebook', 0.047503274, u'analog_clock', 0.044826157]
+[u'badger', 0.57992691, u'three-toed_sloth', 0.082000338, u'gibbon', 0.055671781, u'black-footed_ferret', 0.054533228, u'pug', 0.028071154]

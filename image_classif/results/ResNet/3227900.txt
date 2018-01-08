@@ -1,0 +1,8 @@
+[u'wall_clock', 0.25474539, u'web_site', 0.062605329, u'analog_clock', 0.053571954, u'binder', 0.045733459, u'shield', 0.041666511]
+[u'analog_clock', 0.64310306, u'wall_clock', 0.32833585, u'barometer', 0.014266109, u'stopwatch', 0.0040818048, u'book_jacket', 0.0029949597]
+[u'dam', 0.23762432, u'web_site', 0.22213773, u'fountain', 0.10419343, u'book_jacket', 0.052063484, u'alp', 0.041338287]
+[u'book_jacket', 0.59809685, u'comic_book', 0.199268, u'theater_curtain', 0.024676461, u'web_site', 0.016978461, u'panpipe', 0.010750169]
+[u'obelisk', 0.63761008, u'mosque', 0.18364343, u'flagpole', 0.039820123, u'church', 0.035562694, u'missile', 0.01073973]
+[u'book_jacket', 0.23502852, u'comic_book', 0.078801461, u'theater_curtain', 0.055749975, u'oscilloscope', 0.028936364, u'cornet', 0.023944506]
+[u'cleaver', 0.14263457, u'hook', 0.085089564, u'paper_towel', 0.030143086, u'web_site', 0.028835075, u'refrigerator', 0.028125854]
+[u'menu', 0.24499789, u'envelope', 0.23746802, u'paper_towel', 0.10082097, u'web_site', 0.098568521, u'packet', 0.088046879]

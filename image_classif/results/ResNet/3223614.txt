@@ -1,0 +1,2 @@
+[u'jigsaw_puzzle', 0.54742014, u'slot', 0.20728859, u'toilet_seat', 0.075109333, u'comic_book', 0.019862173, u'web_site', 0.010964583]
+[u'digital_clock', 0.090468824, u'screen', 0.059031073, u'shield', 0.051729176, u'prayer_rug', 0.036707811, u'wall_clock', 0.036618356]

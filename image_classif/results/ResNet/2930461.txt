@@ -1,0 +1,2 @@
+[u'tripod', 0.91827476, u'turnstile', 0.02860604, u'scale', 0.012272286, u'digital_clock', 0.0093757994, u'hook', 0.0062808036]
+[u'hook', 0.56643862, u'stretcher', 0.056364913, u'street_sign', 0.040248778, u'rotisserie', 0.024027068, u'space_heater', 0.022870207]

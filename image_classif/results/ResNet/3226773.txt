@@ -1,0 +1,2 @@
+[u'picket_fence', 0.99850899, u'worm_fence', 0.00036169891, u'church', 0.0002039907, u'barn', 9.5109252e-05, u'king_penguin', 8.7504763e-05]
+[u'padlock', 0.16239783, u'hook', 0.11246588, u'triumphal_arch', 0.075866126, u'digital_clock', 0.061175745, u'bubble', 0.039482586]

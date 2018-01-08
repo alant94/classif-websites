@@ -1,0 +1,4 @@
+[u'espresso_maker', 0.86474895, u'can_opener', 0.024226569, u'corkscrew', 0.019712428, u'soap_dispenser', 0.00665981, u'power_drill', 0.0053420146]
+[u'barn', 0.31047979, u'boathouse', 0.13278911, u'worm_fence', 0.079885013, u'water_tower', 0.077648751, u'church', 0.040734459]
+[u'lawn_mower', 0.2843104, u'forklift', 0.085064448, u'tractor', 0.064807616, u'snowplow', 0.060894541, u'tricycle', 0.043201085]
+[u'panpipe', 0.57770896, u'marimba', 0.11610723, u'picket_fence', 0.044810306, u'chime', 0.040298536, u'hook', 0.037669662]

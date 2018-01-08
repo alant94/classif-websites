@@ -1,0 +1,2 @@
+[u'oxygen_mask', 0.40387589, u'Boston_bull', 0.1577553, u'Shih-Tzu', 0.037717566, u'capuchin', 0.035308208, u'mortarboard', 0.023684936]
+[u'capuchin', 0.17567337, u'titi', 0.13999239, u'patas', 0.086459525, u'common_newt', 0.052023571, u'oxygen_mask', 0.034110554]

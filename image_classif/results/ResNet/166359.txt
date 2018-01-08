@@ -1,0 +1,8 @@
+[u'street_sign', 0.95904464, u'traffic_light', 0.01609041, u'cab', 0.0047075385, u'school_bus', 0.0031545325, u'crane', 0.0029095523]
+[u'microphone', 0.79578793, u'spotlight', 0.18149483, u'stage', 0.017713392, u'loudspeaker', 0.0017472022, u'electric_guitar', 0.0015376788]
+[u'beaker', 0.14218429, u'lab_coat', 0.13631804, u'oxygen_mask', 0.12797482, u'panpipe', 0.11137547, u'water_jug', 0.061186533]
+[u'gong', 0.44403952, u'chime', 0.17718565, u'drum', 0.14641444, u'shield', 0.051093794, u'puck', 0.044135459]
+[u'puck', 0.09934096, u'nematode', 0.068319164, u'combination_lock', 0.060685415, u'pick', 0.059487369, u'whiskey_jug', 0.052728977]
+[u'scoreboard', 0.81179732, u'digital_clock', 0.025278898, u'traffic_light', 0.018249733, u'digital_watch', 0.0089507187, u'lighter', 0.007670382]
+[u'spotlight', 0.61247689, u'digital_clock', 0.09472698, u'television', 0.068007179, u'monitor', 0.045013707, u'screen', 0.028443366]
+[u'killer_whale', 0.45662841, u'solar_dish', 0.080851443, u'fireboat', 0.060753688, u'hoopskirt', 0.060282048, u'dome', 0.042238712]

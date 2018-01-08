@@ -1,0 +1,2 @@
+[u'miniskirt', 0.13287623, u'jersey', 0.043963782, u'pajama', 0.035869654, u'diaper', 0.019298257, u'stole', 0.016737428]
+[u'neck_brace', 0.69892836, u'military_uniform', 0.053148419, u'crutch', 0.031088198, u'academic_gown', 0.016202118, u'gondola', 0.014076659]

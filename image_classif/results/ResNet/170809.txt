@@ -1,0 +1,7 @@
+[u'envelope', 0.4665257, u'web_site', 0.1677634, u'analog_clock', 0.03378059, u'washbasin', 0.025333485, u'medicine_chest', 0.01974123]
+[u'crossword_puzzle', 0.87357712, u'book_jacket', 0.022461336, u'digital_watch', 0.013356643, u'scoreboard', 0.011867965, u'digital_clock', 0.010300388]
+[u'web_site', 0.53881109, u'cassette', 0.22403014, u'sewing_machine', 0.044905525, u'safe', 0.044074707, u'iron', 0.019995866]
+[u'web_site', 0.9998908, u'envelope', 2.570443e-05, u'stethoscope', 5.7300867e-06, u'analog_clock', 5.5537162e-06, u'nail', 4.3725354e-06]
+[u'screwdriver', 0.41198289, u"carpenter's_kit", 0.17831571, u'ballpoint', 0.099348404, u'cleaver', 0.060334846, u'paintbrush', 0.054510016]
+[u'web_site', 0.99005216, u'menu', 0.0084545733, u'book_jacket', 0.0003849671, u'rubber_eraser', 0.00018925221, u'drumstick', 0.0001209297]
+[u'web_site', 0.88363308, u'hand-held_computer', 0.046547562, u'oscilloscope', 0.012097331, u'screen', 0.0042851083, u'cellular_telephone', 0.0042773713]

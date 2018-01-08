@@ -1,0 +1,3 @@
+[u'digital_clock', 0.59097725, u'digital_watch', 0.062577792, u'street_sign', 0.043035138, u'analog_clock', 0.031249788, u'book_jacket', 0.031129662]
+[u'perfume', 0.10137986, u'stole', 0.039822683, u'cowboy_hat', 0.038322382, u'knee_pad', 0.031872351, u'overskirt', 0.025388701]
+[u'cash_machine', 0.98612136, u'barbershop', 0.0090006152, u'bakery', 0.0012785275, u'pay-phone', 0.0008192407, u'bookshop', 0.00065812207]

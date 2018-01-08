@@ -1,0 +1,4 @@
+[u'jersey', 0.99629325, u'bulletproof_vest', 0.0020720372, u'sweatshirt', 0.00019281807, u'dumbbell', 0.00016890478, u'steel_drum', 9.1695772e-05]
+[u'jersey', 0.99766695, u'sweatshirt', 0.00069007347, u'pajama', 0.00027856557, u'dumbbell', 0.00013042305, u'bulletproof_vest', 0.00010431615]
+[u'envelope', 0.75668597, u'street_sign', 0.053579524, u'traffic_light', 0.045763176, u'prayer_rug', 0.044850439, u'digital_clock', 0.01204207]
+[u'analog_clock', 0.081313819, u'wall_clock', 0.05916702, u'street_sign', 0.053382441, u'magnetic_compass', 0.052381743, u'ambulance', 0.040742554]

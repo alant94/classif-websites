@@ -1,0 +1,7 @@
+[u'breastplate', 0.13991071, u'tripod', 0.11309275, u'bearskin', 0.077806935, u'cuirass', 0.058331948, u'espresso_maker', 0.048134573]
+[u'throne', 0.57539219, u'picket_fence', 0.17835157, u'fountain', 0.077497698, u'altar', 0.077234216, u'swab', 0.026383085]
+[u'carousel', 0.21198583, u'toyshop', 0.15414152, u'cab', 0.054186136, u'restaurant', 0.041450303, u'jinrikisha', 0.034491602]
+[u'nematode', 0.056698956, u'theater_curtain', 0.051367991, u'web_site', 0.048072673, u'binder', 0.024288077, u'hourglass', 0.021714637]
+[u'lakeside', 0.25287744, u'valley', 0.17558087, u'maze', 0.082769908, u'pot', 0.071365595, u'monastery', 0.058470745]
+[u'web_site', 0.082028002, u'nematode', 0.035550084, u'shoji', 0.035253502, u'matchstick', 0.030304838, u'candle', 0.015855206]
+[u'letter_opener', 0.14356159, u'plunger', 0.13816562, u'paddle', 0.098529927, u'maraca', 0.053008635, u'gong', 0.046559289]

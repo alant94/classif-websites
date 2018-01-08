@@ -1,0 +1,5 @@
+[u'pill_bottle', 0.19340265, u'oil_filter', 0.055658039, u'web_site', 0.042702019, u'chain_saw', 0.031800371, u'nipple', 0.027740516]
+[u'power_drill', 0.11718066, u'screwdriver', 0.10747719, u'plunger', 0.071807906, u'oil_filter', 0.068087682, u'tractor', 0.051196393]
+[u'plate', 0.70537394, u'potpie', 0.10218737, u'corn', 0.039275531, u'burrito', 0.014495462, u'consomme', 0.014167171]
+[u'pill_bottle', 0.40816426, u'lighter', 0.16045889, u'whistle', 0.048140652, u'perfume', 0.043712169, u'water_bottle', 0.0292923]
+[u'mortar', 0.59974116, u'toilet_seat', 0.13855366, u'plunger', 0.041029882, u'mixing_bowl', 0.025676809, u'strainer', 0.021445811]

@@ -1,0 +1,6 @@
+[u"carpenter's_kit", 0.12798694, u'rule', 0.097884461, u'racket', 0.096950278, u'harp', 0.047946379, u'rubber_eraser', 0.038593736]
+[u'Windsor_tie', 0.33980757, u'mortarboard', 0.09693376, u'suit', 0.073396228, u'academic_gown', 0.048694268, u'bolo_tie', 0.041179191]
+[u'burrito', 0.39777234, u'bathing_cap', 0.17258278, u'conch', 0.07188011, u'barracouta', 0.0226207, u'Dungeness_crab', 0.02161229]
+[u'sweatshirt', 0.060364582, u'puck', 0.047388203, u'pick', 0.033658307, u'envelope', 0.032872718, u'coffee_mug', 0.032613758]
+[u'suit', 0.49893963, u'Windsor_tie', 0.18098301, u'oboe', 0.043507371, u'Sealyham_terrier', 0.02170147, u'bassoon', 0.021202102]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

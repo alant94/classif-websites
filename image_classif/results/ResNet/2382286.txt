@@ -1,0 +1,2 @@
+[u'web_site', 0.051721487, u'rugby_ball', 0.040955704, u'oil_filter', 0.035897121, u'baseball', 0.033747848, u'power_drill', 0.029780766]
+[u'web_site', 0.1414368, u'shower_curtain', 0.087418474, u'wardrobe', 0.086067893, u'sarong', 0.063793652, u'brassiere', 0.029386247]

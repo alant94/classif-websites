@@ -1,0 +1,4 @@
+[u'book_jacket', 0.83920562, u'handkerchief', 0.04080971, u'menu', 0.016187469, u'envelope', 0.013048095, u'jersey', 0.0094784712]
+[u'jean', 0.14263268, u'book_jacket', 0.14226161, u'butcher_shop', 0.088917069, u'prayer_rug', 0.057666168, u'plastic_bag', 0.029892914]
+[u'web_site', 0.19096369, u'crossword_puzzle', 0.035665687, u'oil_filter', 0.02507041, u'chain_saw', 0.020405419, u'comic_book', 0.019289793]
+[u'pop_bottle', 0.70922691, u'bookshop', 0.077458315, u'water_bottle', 0.03815427, u'beer_bottle', 0.034027472, u'wine_bottle', 0.02871969]

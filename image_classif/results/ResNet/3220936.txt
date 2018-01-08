@@ -1,0 +1,6 @@
+[u'jersey', 0.20561372, u'web_site', 0.11821644, u'coffee_mug', 0.085446812, u'lighter', 0.051523063, u'chain', 0.036583051]
+[u'shield', 0.33980352, u'comic_book', 0.23745558, u'toilet_seat', 0.13378051, u'bakery', 0.043889437, u'wall_clock', 0.027238788]
+[u'street_sign', 0.21973623, u'crate', 0.12624674, u'scoreboard', 0.10881769, u'tobacco_shop', 0.09318696, u'barrel', 0.080792084]
+[u'chain', 0.48218045, u'nail', 0.34394842, u'hook', 0.10886054, u'knot', 0.021993697, u'padlock', 0.014992491]
+[u'analog_clock', 0.16531615, u'bell_cote', 0.15137544, u'web_site', 0.11704339, u'digital_clock', 0.096942194, u'digital_watch', 0.074381985]
+[u'parking_meter', 0.22000356, u'parallel_bars', 0.11602188, u'pole', 0.076513454, u'bannister', 0.066387281, u'lakeside', 0.053795036]

@@ -1,0 +1,4 @@
+[u'miniskirt', 0.40804937, u'cardigan', 0.1721909, u'oboe', 0.07965555, u'jean', 0.067358881, u'chain_mail', 0.022897169]
+[u'grand_piano', 0.38290125, u'lab_coat', 0.11341035, u'chain_saw', 0.10437433, u'vestment', 0.05992268, u'stage', 0.033801924]
+[u'maillot', 0.1662281, u'maillot', 0.11352189, u'gown', 0.076322131, u'miniskirt', 0.069786198, u'cloak', 0.048829205]
+[u'switch', 0.19921796, u'padlock', 0.10551754, u'refrigerator', 0.065487407, u'ashcan', 0.042021878, u'hook', 0.041575089]

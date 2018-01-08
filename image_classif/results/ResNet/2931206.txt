@@ -1,0 +1,3 @@
+[u'pinwheel', 0.43939483, u'pick', 0.11827391, u'rubber_eraser', 0.078623712, u'carton', 0.043452676, u'web_site', 0.031540297]
+[u'web_site', 0.33269355, u'envelope', 0.23282902, u'digital_clock', 0.048662473, u'stopwatch', 0.020195806, u'sax', 0.018276222]
+[u'suit', 0.94763863, u'Windsor_tie', 0.035437442, u'bolo_tie', 0.0029376245, u'bow_tie', 0.0010332227, u'groom', 0.00073148054]

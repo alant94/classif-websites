@@ -1,0 +1,8 @@
+[u'lotion', 0.77284944, u'wine_bottle', 0.057888962, u'hair_spray', 0.057498805, u'perfume', 0.041307192, u'cocktail_shaker', 0.01812451]
+[u'custard_apple', 0.72700471, u'cauliflower', 0.20502178, u'fig', 0.010016349, u'broccoli', 0.0079539064, u'abacus', 0.0058905943]
+[u'buckeye', 0.67094058, u'rapeseed', 0.099658147, u'cucumber', 0.051235083, u'acorn', 0.032778352, u'zucchini', 0.021519911]
+[u'valley', 0.11816928, u'cliff', 0.11674178, u'thatch', 0.049793441, u'water_buffalo', 0.043507926, u'stone_wall', 0.033673555]
+[u'web_site', 0.19923747, u'gasmask', 0.13245133, u'cowboy_hat', 0.067575581, u'abaya', 0.051237583, u'handkerchief', 0.049838822]
+[u'butcher_shop', 0.35934922, u'acorn', 0.1099768, u'artichoke', 0.073389255, u'chiton', 0.035327278, u'sea_urchin', 0.024355931]
+[u'worm_fence', 0.54819095, u'maze', 0.19652554, u'valley', 0.11152373, u'stone_wall', 0.011351335, u'water_buffalo', 0.0094250385]
+[u'sunscreen', 0.089971296, u'spatula', 0.069222145, u'zucchini', 0.032777965, u'corn', 0.032477524, u'hippopotamus', 0.027278099]

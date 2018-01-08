@@ -1,0 +1,5 @@
+[u'banana', 0.34185529, u'ice_cream', 0.17863224, u'acorn_squash', 0.12728196, u'trifle', 0.10385469, u'chocolate_sauce', 0.063242719]
+[u'lighter', 0.16110496, u'pill_bottle', 0.13989729, u'screwdriver', 0.10951914, u'rubber_eraser', 0.092657268, u'packet', 0.06849429]
+[u'hair_spray', 0.075571373, u'ice_lolly', 0.074618645, u'miniskirt', 0.051526722, u'maillot', 0.039598003, u'maypole', 0.039555747]
+[u'lab_coat', 0.12379418, u'stethoscope', 0.090163678, u'loupe', 0.073901892, u'syringe', 0.065604448, u'groom', 0.037104834]
+[u'ox', 0.29472178, u'horse_cart', 0.14190079, u'sorrel', 0.083837323, u'water_buffalo', 0.049511496, u'cowboy_hat', 0.03707289]

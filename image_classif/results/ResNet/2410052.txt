@@ -1,0 +1,6 @@
+[u'web_site', 0.9015305, u'envelope', 0.023621699, u'menu', 0.016486876, u'comic_book', 0.0038835737, u'centipede', 0.0025484622]
+[u'web_site', 0.36679304, u'Band_Aid', 0.23677829, u'comic_book', 0.061241817, u'menu', 0.033256516, u'oil_filter', 0.03237493]
+[u'book_jacket', 0.12185187, u'comic_book', 0.10983367, u'web_site', 0.08503148, u'barbershop', 0.065118842, u'crutch', 0.053842891]
+[u'web_site', 0.39587849, u'vending_machine', 0.10054744, u'digital_clock', 0.094441436, u'gas_pump', 0.08111237, u'iPod', 0.032592118]
+[u'packet', 0.091746658, u'cardoon', 0.076653324, u'book_jacket', 0.056120791, u'web_site', 0.045145787, u'menu', 0.034380022]
+[u'bikini', 0.42977905, u'cellular_telephone', 0.055075493, u'swimming_trunks', 0.043834869, u'maillot', 0.042116761, u'knee_pad', 0.038251888]

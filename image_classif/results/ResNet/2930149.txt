@@ -1,0 +1,8 @@
+[u'diaper', 0.70237464, u'bassinet', 0.17719394, u'cradle', 0.082987219, u'crib', 0.016080718, u'nipple', 0.015926981]
+[u'web_site', 0.34490678, u'jersey', 0.13329293, u'chain', 0.056221642, u'nematode', 0.04232977, u'abaya', 0.028952718]
+[u'peacock', 0.99301445, u'web_site', 0.0012401481, u'black_stork', 0.00055041653, u'bustard', 0.00053756975, u'prairie_chicken', 0.0003715085]
+[u'peacock', 0.99829489, u'agama', 0.00025063308, u'web_site', 0.00024013048, u'hummingbird', 0.00011722225, u'black_stork', 0.00011379235]
+[u'brass', 0.97978652, u'menu', 0.0096016517, u'measuring_cup', 0.001658576, u'car_mirror', 0.00059491664, u'chainlink_fence', 0.00048736151]
+[u'king_penguin', 0.9087984, u'milk_can', 0.02540067, u'coffeepot', 0.016408792, u'whiskey_jug', 0.012360729, u'water_jug', 0.0079271561]
+[u'pill_bottle', 0.13366942, u'web_site', 0.065783851, u'soap_dispenser', 0.028997088, u'street_sign', 0.024658173, u'oil_filter', 0.023322543]
+[u'zebra', 0.18930584, u'spider_web', 0.15341248, u'web_site', 0.072695136, u'oscilloscope', 0.071144357, u'lionfish', 0.069956146]

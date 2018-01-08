@@ -1,0 +1,3 @@
+[u'web_site', 0.54367542, u'comic_book', 0.054873932, u'menu', 0.046541955, u'book_jacket', 0.016271817, u'washer', 0.014731827]
+[u'digital_clock', 0.85993838, u'radio', 0.065279029, u'oscilloscope', 0.032473177, u'scale', 0.014538632, u'CD_player', 0.010391609]
+[u'digital_watch', 0.56817836, u'digital_clock', 0.13805458, u'oscilloscope', 0.03774672, u'tray', 0.032567505, u'analog_clock', 0.025724655]

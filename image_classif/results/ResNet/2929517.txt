@@ -1,0 +1,7 @@
+[u'packet', 0.11297511, u'envelope', 0.10842927, u'book_jacket', 0.081069864, u'street_sign', 0.071059614, u'crate', 0.028431289]
+[u'envelope', 0.3121902, u'book_jacket', 0.14086552, u'web_site', 0.058185276, u'packet', 0.055885784, u'comic_book', 0.047182333]
+[u'web_site', 0.65165848, u'television', 0.04080011, u'sliding_door', 0.028570177, u'book_jacket', 0.0273195, u'barbershop', 0.022286737]
+[u'web_site', 0.47688249, u'lighter', 0.08234036, u'envelope', 0.067188159, u'shield', 0.059206605, u'safety_pin', 0.042329036]
+[u'oxygen_mask', 0.46437502, u'cornet', 0.26480976, u'bolo_tie', 0.055944566, u'knot', 0.040408965, u'pick', 0.025800493]
+[u'hook', 0.49378297, u'chain', 0.15642761, u'corkscrew', 0.14349362, u'nematode', 0.025320785, u'web_site', 0.021739155]
+[u'lakeside', 0.79865831, u'breakwater', 0.036142774, u'castle', 0.034054011, u'valley', 0.018944515, u'palace', 0.015158921]

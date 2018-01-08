@@ -1,0 +1,3 @@
+[u'electric_guitar', 0.43373099, u'panpipe', 0.13635448, u'stage', 0.11362614, u'marimba', 0.075758494, u'ski', 0.041568521]
+[u'swing', 0.33070371, u'unicycle', 0.063451432, u'patio', 0.061336696, u'fountain', 0.052290607, u'horizontal_bar', 0.045275457]
+[u'folding_chair', 0.20047583, u'street_sign', 0.1861355, u'Band_Aid', 0.085452043, u'lighter', 0.067230001, u'tray', 0.03819757]

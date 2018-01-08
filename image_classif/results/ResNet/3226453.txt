@@ -1,0 +1,2 @@
+[u'scoreboard', 0.20174769, u'web_site', 0.098018713, u'comic_book', 0.060965389, u'crossword_puzzle', 0.04821359, u'remote_control', 0.047644656]
+[u'comic_book', 0.35331899, u'table_lamp', 0.12313975, u'book_jacket', 0.088332862, u'kimono', 0.068644613, u'shoji', 0.060035847]

@@ -1,0 +1,7 @@
+[u'American_black_bear', 0.99859256, u'sloth_bear', 0.0012852083, u'brown_bear', 0.00010464879, u'wild_boar', 1.4266812e-05, u'hog', 2.4277542e-06]
+[u'digital_clock', 0.91233546, u'digital_watch', 0.079813085, u'oscilloscope', 0.0055212118, u'analog_clock', 0.00086555514, u'stopwatch', 0.00041878028]
+[u'comic_book', 0.36574805, u'book_jacket', 0.16068286, u'street_sign', 0.042047147, u'cash_machine', 0.023390032, u'malamute', 0.021243386]
+[u'barrel', 0.90468055, u'rain_barrel', 0.041287631, u'Petri_dish', 0.03504413, u'hamper', 0.0047807069, u'crate', 0.0016524346]
+[u'gazelle', 0.24955465, u'hartebeest', 0.12138174, u'zebra', 0.11017291, u'ibex', 0.056717884, u'wallaby', 0.052021056]
+[u'fountain', 0.16990131, u'barn', 0.10408486, u'Indian_elephant', 0.072500311, u'seashore', 0.045044143, u'picket_fence', 0.038948216]
+[u'picket_fence', 0.13830836, u'bannister', 0.11211089, u'steel_arch_bridge', 0.051983565, u'library', 0.046801098, u'monitor', 0.040031768]

@@ -1,0 +1,5 @@
+[u'pot', 0.25355855, u'jigsaw_puzzle', 0.15044367, u'coral_reef', 0.10651884, u'daisy', 0.048578862, u'picket_fence', 0.029265387]
+[u'sleeping_bag', 0.2889314, u'mountain_tent', 0.17960581, u'stretcher', 0.079207152, u'mountain_bike', 0.06573195, u'valley', 0.054455359]
+[u'laptop', 0.68289232, u'pick', 0.16326842, u'binder', 0.076116309, u'carton', 0.013208035, u'puck', 0.010243854]
+[u'lakeside', 0.27550477, u'alp', 0.22454286, u'airship', 0.073150568, u'cliff', 0.072903886, u'valley', 0.047051214]
+[u'binder', 0.43830368, u'book_jacket', 0.18293114, u'web_site', 0.14196293, u'comic_book', 0.10303241, u'packet', 0.082172103]

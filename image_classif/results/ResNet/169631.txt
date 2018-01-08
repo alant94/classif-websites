@@ -1,0 +1,3 @@
+[u'lighter', 0.11553638, u'screen', 0.075191319, u'window_screen', 0.065544046, u'prayer_rug', 0.045465857, u'cash_machine', 0.039219238]
+[u'cornet', 0.052553836, u'tray', 0.03642562, u'switch', 0.036003772, u'safety_pin', 0.032482896, u'oscilloscope', 0.027475843]
+[u'book_jacket', 0.1747106, u'Band_Aid', 0.070245996, u'barbershop', 0.047933728, u'packet', 0.041744236, u'whistle', 0.041190218]

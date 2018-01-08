@@ -1,0 +1,5 @@
+[u'hartebeest', 0.56716514, u'gazelle', 0.31237441, u'impala', 0.05858599, u'ibex', 0.042689089, u'bighorn', 0.004335843]
+[u'Great_Dane', 0.06732177, u'sax', 0.057344232, u'hartebeest', 0.054488447, u'cougar', 0.037720051, u'sturgeon', 0.034752555]
+[u'gazelle', 0.7382282, u'wallaby', 0.069542944, u'bighorn', 0.054899059, u'hare', 0.019154318, u'impala', 0.018469131]
+[u'solar_dish', 0.062202256, u'barracouta', 0.059251498, u'hartebeest', 0.058890704, u'dam', 0.049290389, u'Afghan_hound', 0.044559889]
+[u'ibex', 0.68971455, u'warthog', 0.17006552, u'hartebeest', 0.080262281, u'impala', 0.019433143, u'gazelle', 0.018823093]

@@ -1,0 +1,8 @@
+[u'church', 0.43028238, u'bell_cote', 0.27863771, u'monastery', 0.18213482, u'castle', 0.075791188, u'vault', 0.0048648114]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606, u'envelope', 0.024230363, u'guillotine', 0.021275949]
+[u'wine_bottle', 0.65051526, u'red_wine', 0.34818709, u'beer_bottle', 0.00092448964, u'corkscrew', 9.8965793e-05, u'beer_glass', 2.5771238e-05]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606, u'envelope', 0.024230363, u'guillotine', 0.021275949]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606, u'envelope', 0.024230363, u'guillotine', 0.021275949]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606, u'envelope', 0.024230363, u'guillotine', 0.021275949]
+[u'black_stork', 0.46432948, u'stole', 0.038345981, u'abaya', 0.038205355, u'worm_fence', 0.023763783, u'hornbill', 0.02339768]
+[u'dishwasher', 0.070598587, u'nematode', 0.03095123, u'cleaver', 0.027169606, u'envelope', 0.024230363, u'guillotine', 0.021275949]

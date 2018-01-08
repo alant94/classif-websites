@@ -1,0 +1,8 @@
+[u'sunglasses', 0.13214163, u'cowboy_hat', 0.12211829, u'wig', 0.09612821, u'bath_towel', 0.063906409, u'seat_belt', 0.054248508]
+[u'horizontal_bar', 0.25166926, u'window_shade', 0.13482824, u'binoculars', 0.077941164, u'parallel_bars', 0.069848351, u'hog', 0.046955295]
+[u'pretzel', 0.081694931, u'fiddler_crab', 0.074375644, u'iron', 0.051926576, u"potter's_wheel", 0.04114813, u'seat_belt', 0.020700704]
+[u'bathing_cap', 0.18000415, u'swimming_trunks', 0.074732699, u'butternut_squash', 0.056332037, u'tub', 0.05604231, u'bathtub', 0.044262461]
+[u'bikini', 0.63128287, u'butternut_squash', 0.059709497, u'maillot', 0.042934477, u'bathtub', 0.0286291, u'sandal', 0.021316852]
+[u'paintbrush', 0.13333927, u'pick', 0.061839208, u'lighter', 0.036101084, u'lipstick', 0.030366737, u'cowboy_hat', 0.025319375]
+[u'Band_Aid', 0.16761798, u'tick', 0.085184902, u'bathtub', 0.063176036, u'tub', 0.042567924, u'thimble', 0.03365127]
+[u'diaper', 0.24018866, u'stethoscope', 0.051768064, u'tub', 0.04416012, u'nipple', 0.038484484, u'swimming_trunks', 0.037423957]

@@ -1,0 +1,3 @@
+[u'street_sign', 0.54427665, u'book_jacket', 0.065760039, u'cash_machine', 0.017801898, u'web_site', 0.016217215, u'Band_Aid', 0.011728457]
+[u'web_site', 0.6266346, u'prison', 0.046276398, u'picket_fence', 0.033601988, u'butcher_shop', 0.025730671, u'lab_coat', 0.025463371]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]

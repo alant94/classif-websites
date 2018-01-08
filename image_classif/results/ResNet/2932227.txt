@@ -1,0 +1,8 @@
+[u'analog_clock', 0.25824809, u'whistle', 0.14766166, u'rule', 0.070586689, u'digital_clock', 0.069150887, u'forklift', 0.04151782]
+[u'web_site', 0.15717004, u'safety_pin', 0.054505028, u'hair_spray', 0.029039478, u'sunscreen', 0.026787257, u'lotion', 0.018553]
+[u'analog_clock', 0.48525932, u'forklift', 0.14199218, u'thresher', 0.030629579, u'rule', 0.025446072, u'digital_clock', 0.016899064]
+[u'daisy', 0.71459728, u'lakeside', 0.066390552, u'hare', 0.01555875, u'crane', 0.011919317, u'oystercatcher', 0.0099075381]
+[u'Band_Aid', 0.12851736, u'web_site', 0.065243438, u'hair_spray', 0.045482717, u'moving_van', 0.030936386, u'paper_towel', 0.028962772]
+[u'analog_clock', 0.25824809, u'whistle', 0.14766166, u'rule', 0.070586689, u'digital_clock', 0.069150887, u'forklift', 0.04151782]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'analog_clock', 0.62615561, u'forklift', 0.055038173, u'harp', 0.028413262, u'panpipe', 0.022308961, u'steel_arch_bridge', 0.017869649]

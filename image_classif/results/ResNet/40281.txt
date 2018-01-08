@@ -1,0 +1,3 @@
+[u'web_site', 0.87927711, u'crossword_puzzle', 0.02530471, u'hand-held_computer', 0.015346516, u'desktop_computer', 0.0047364188, u'hard_disc', 0.0038727024]
+[u'web_site', 0.26764962, u'book_jacket', 0.13728775, u'crossword_puzzle', 0.045859832, u'envelope', 0.02428712, u'oil_filter', 0.024012249]
+[u'monitor', 0.36165723, u'television', 0.22120337, u'screen', 0.18782562, u'desktop_computer', 0.066406719, u'hand-held_computer', 0.038675748]

@@ -1,0 +1,7 @@
+[u'shield', 0.521415, u'croquet_ball', 0.068034813, u'ladle', 0.038739588, u'cuirass', 0.033261225, u'maraca', 0.026986687]
+[u'tobacco_shop', 0.38268551, u'cassette', 0.059084095, u'digital_clock', 0.055871051, u'theater_curtain', 0.035053555, u'slot', 0.026999561]
+[u'Petri_dish', 0.33725813, u'face_powder', 0.18329675, u'barometer', 0.0920849, u'gong', 0.045092415, u'whiskey_jug', 0.035075434]
+[u'quill', 0.10656236, u'airship', 0.066609412, u'hair_slide', 0.044304039, u'nematode', 0.040392701, u'drumstick', 0.032891218]
+[u'chambered_nautilus', 0.10514835, u'black-footed_ferret', 0.069544204, u'pitcher', 0.060916897, u'whiskey_jug', 0.053875167, u'spaghetti_squash', 0.046492662]
+[u'rock_python', 0.3328518, u'boa_constrictor', 0.30839825, u'gyromitra', 0.101995, u'hen-of-the-woods', 0.058837287, u'tick', 0.043944962]
+[u'hen-of-the-woods', 0.91986382, u'coral_fungus', 0.042575952, u'gyromitra', 0.0099623036, u'burrito', 0.0038440423, u'mushroom', 0.0031261053]

@@ -1,0 +1,2 @@
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]
+[u'street_sign', 0.19060488, u'lighter', 0.052550282, u'pick', 0.047563776, u'web_site', 0.045939807, u'analog_clock', 0.04341973]

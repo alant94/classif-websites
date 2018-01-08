@@ -1,0 +1,3 @@
+[u'fire_screen', 0.21526819, u'drum', 0.082608253, u'sewing_machine', 0.064882077, u'analog_clock', 0.052213281, u'bicycle-built-for-two', 0.048908304]
+[u'wall_clock', 0.4969916, u'analog_clock', 0.38318196, u'barometer', 0.11784361, u'stopwatch', 0.00096261437, u'bell_cote', 0.00046040738]
+[u'crossword_puzzle', 0.68329448, u'comic_book', 0.055667751, u'book_jacket', 0.029889222, u'cinema', 0.01970689, u'hand-held_computer', 0.018417263]

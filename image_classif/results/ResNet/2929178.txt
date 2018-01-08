@@ -1,0 +1,2 @@
+[u'web_site', 0.36068696, u'envelope', 0.13384733, u'sunscreen', 0.040633686, u'cash_machine', 0.024454635, u'iron', 0.020204755]
+[u'envelope', 0.65164483, u'web_site', 0.056003992, u'jigsaw_puzzle', 0.016222192, u'binder', 0.012691821, u'handkerchief', 0.010902704]

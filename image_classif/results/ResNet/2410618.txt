@@ -1,0 +1,3 @@
+[u'American_lobster', 0.61774391, u'king_crab', 0.17044561, u'gyromitra', 0.06187129, u'cleaver', 0.022491612, u'rock_crab', 0.013702405]
+[u'hand_blower', 0.14135611, u'Band_Aid', 0.11320519, u'hair_spray', 0.080021508, u'lipstick', 0.063199677, u'wig', 0.055944331]
+[u'menu', 0.17282128, u'packet', 0.13208503, u'plate', 0.044606298, u'king_crab', 0.037536234, u'waffle_iron', 0.030588813]

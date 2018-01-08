@@ -1,0 +1,6 @@
+[u'cowboy_hat', 0.2795375, u'bikini', 0.10907809, u'titi', 0.10397073, u'sombrero', 0.088334039, u'window_screen', 0.054812711]
+[u'confectionery', 0.43488559, u'toyshop', 0.21710992, u'jigsaw_puzzle', 0.044590395, u'bakery', 0.031687789, u'grocery_store', 0.027454216]
+[u'crossword_puzzle', 0.69468272, u'container_ship', 0.18845589, u'web_site', 0.019811628, u'bookshop', 0.019303331, u'medicine_chest', 0.015214997]
+[u'crossword_puzzle', 0.7997551, u'container_ship', 0.092421874, u'bookshop', 0.019552086, u'web_site', 0.016663956, u'comic_book', 0.015566888]
+[u'crossword_puzzle', 0.84292811, u'container_ship', 0.071509697, u'bookshop', 0.016443089, u'comic_book', 0.012452526, u'web_site', 0.011001312]
+[u'crossword_puzzle', 0.56686407, u'container_ship', 0.20224346, u'web_site', 0.039380185, u'comic_book', 0.035583753, u'bookshop', 0.030792585]

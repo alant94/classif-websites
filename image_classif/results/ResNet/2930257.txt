@@ -1,0 +1,4 @@
+[u'neck_brace', 0.22951919, u'oxygen_mask', 0.17972472, u'hoopskirt', 0.062341988, u'groom', 0.061659329, u'lab_coat', 0.060912974]
+[u'broom', 0.40783778, u'swab', 0.074383043, u'stethoscope', 0.042533513, u'ladle', 0.024099173, u'drumstick', 0.015814159]
+[u'envelope', 0.24744388, u'warplane', 0.075460292, u'web_site', 0.063393429, u'jigsaw_puzzle', 0.054507945, u'book_jacket', 0.053600091]
+[u'refrigerator', 0.51379263, u'sliding_door', 0.22649032, u'safe', 0.1140717, u'medicine_chest', 0.034886818, u'wardrobe', 0.02201657]

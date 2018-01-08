@@ -1,0 +1,8 @@
+[u'lakeside', 0.092688419, u'maze', 0.085295789, u'alp', 0.03872944, u'worm_fence', 0.033919569, u'valley', 0.029125847]
+[u'totem_pole', 0.3352851, u'sarong', 0.10223502, u'pole', 0.078348562, u'cowboy_boot', 0.076147363, u'chain_saw', 0.049467575]
+[u'miniskirt', 0.33673978, u'feather_boa', 0.068390913, u'chain_mail', 0.068078108, u'jean', 0.06469024, u'wardrobe', 0.062097471]
+[u'red_wine', 0.34836245, u'sunglasses', 0.26772508, u'sunglass', 0.19057128, u'cleaver', 0.019302465, u'washer', 0.014271067]
+[u'web_site', 0.80408555, u'envelope', 0.039669979, u'rule', 0.020890143, u'analog_clock', 0.0090071987, u'Windsor_tie', 0.0074378341]
+[u'patio', 0.33797568, u'mobile_home', 0.17698553, u'picket_fence', 0.043388285, u'barrow', 0.023584437, u'golfcart', 0.020815128]
+[u'wine_bottle', 0.54834527, u'fountain_pen', 0.19215201, u'lipstick', 0.10111602, u'beer_bottle', 0.060168229, u'pencil_box', 0.016602391]
+[u'restaurant', 0.15108962, u'butcher_shop', 0.14081758, u'lab_coat', 0.090480208, u'grocery_store', 0.062993377, u'bookshop', 0.049542479]

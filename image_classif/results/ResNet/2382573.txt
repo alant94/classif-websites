@@ -1,0 +1,4 @@
+[u'digital_clock', 0.95472509, u'analog_clock', 0.016814405, u'stopwatch', 0.012133309, u'digital_watch', 0.0044521838, u'rule', 0.0035152463]
+[u'wine_bottle', 0.52878863, u'red_wine', 0.31406212, u'corkscrew', 0.14926125, u'hamper', 0.0042892783, u'lotion', 0.0026704913]
+[u'digital_clock', 0.77660149, u'digital_watch', 0.051982936, u'crossword_puzzle', 0.048616812, u'wall_clock', 0.019982416, u'analog_clock', 0.014552289]
+[u'shield', 0.21946149, u'Band_Aid', 0.12833908, u'digital_clock', 0.1279629, u'lighter', 0.1119134, u'digital_watch', 0.096149765]

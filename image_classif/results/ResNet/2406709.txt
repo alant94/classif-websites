@@ -1,0 +1,6 @@
+[u'nematode', 0.35400614, u'purse', 0.073084518, u'ocarina', 0.035076901, u'holster', 0.034701422, u'velvet', 0.034605913]
+[u'acoustic_guitar', 0.9493553, u'violin', 0.031855922, u'cello', 0.0065818517, u'vase', 0.0026145789, u'velvet', 0.0014153764]
+[u'borzoi', 0.14349589, u'goldfish', 0.13201055, u'collie', 0.10914218, u'titi', 0.099111028, u'wire-haired_fox_terrier', 0.063933492]
+[u'waffle_iron', 0.47815424, u'solar_dish', 0.095567487, u'space_heater', 0.038618278, u'hand_blower', 0.034846209, u'gasmask', 0.029502084]
+[u'collie', 0.17213053, u'chow', 0.17185906, u'wire-haired_fox_terrier', 0.1267544, u'isopod', 0.046835352, u'Pomeranian', 0.046326801]
+[u'acoustic_guitar', 0.37505391, u'book_jacket', 0.16073389, u'wall_clock', 0.060256764, u'oscilloscope', 0.04582978, u'pick', 0.045451842]

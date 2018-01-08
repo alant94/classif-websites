@@ -1,0 +1,7 @@
+[u'prayer_rug', 0.18085253, u'maze', 0.15051682, u'traffic_light', 0.14874579, u'shield', 0.11164849, u'street_sign', 0.099814266]
+[u'analog_clock', 0.19203253, u'wall_clock', 0.095662594, u'Band_Aid', 0.079926386, u'digital_clock', 0.072603032, u'shield', 0.071912311]
+[u'shield', 0.063421831, u'oil_filter', 0.061968621, u'digital_watch', 0.059103359, u'pill_bottle', 0.048443213, u'whistle', 0.039831851]
+[u'oxygen_mask', 0.12731254, u'envelope', 0.0660685, u'laptop', 0.052258033, u'web_site', 0.04757195, u'street_sign', 0.047190223]
+[u'book_jacket', 0.21606338, u'street_sign', 0.11621343, u'menu', 0.11564333, u'web_site', 0.043932796, u'traffic_light', 0.041055579]
+[u'book_jacket', 0.94228613, u'carton', 0.01816529, u'envelope', 0.01094736, u'packet', 0.0080359075, u'hair_spray', 0.0032619676]
+[u'bakery', 0.13206483, u'confectionery', 0.11241789, u'beer_bottle', 0.062783912, u'prayer_rug', 0.062154084, u'grocery_store', 0.053998861]

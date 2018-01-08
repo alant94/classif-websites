@@ -1,0 +1,5 @@
+[u'wine_bottle', 0.52159345, u'red_wine', 0.4193604, u'beer_bottle', 0.010796654, u'hourglass', 0.0060999524, u'corkscrew', 0.0054795509]
+[u'wine_bottle', 0.72461522, u'red_wine', 0.16873688, u'beer_bottle', 0.072346099, u'paintbrush', 0.0083624506, u'refrigerator', 0.0024423818]
+[u'bicycle-built-for-two', 0.71536392, u'unicycle', 0.10121229, u'feather_boa', 0.028019704, u'miniskirt', 0.022842076, u'croquet_ball', 0.0091459313]
+[u'wine_bottle', 0.88181794, u'red_wine', 0.10529855, u'candle', 0.0031658763, u'beer_bottle', 0.0026505773, u'corkscrew', 0.0016050186]
+[u'wine_bottle', 0.98522365, u'red_wine', 0.01431354, u'beer_bottle', 0.00033970817, u'corkscrew', 6.6925815e-05, u'lotion', 1.1773822e-05]

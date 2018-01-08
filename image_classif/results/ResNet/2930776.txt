@@ -1,0 +1,3 @@
+[u'rubber_eraser', 0.08876583, u'oboe', 0.073962532, u'crossword_puzzle', 0.055417731, u'slide_rule', 0.048657108, u'cornet', 0.033208188]
+[u'fire_screen', 0.11404732, u'hook', 0.077126525, u'table_lamp', 0.057840008, u'parachute', 0.047995456, u'web_site', 0.031931993]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

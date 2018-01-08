@@ -1,0 +1,6 @@
+[u'cellular_telephone', 0.43448117, u'brassiere', 0.18217176, u'miniskirt', 0.095098592, u'pay-phone', 0.08965829, u'dial_telephone', 0.048578095]
+[u'syringe', 0.69948447, u'quill', 0.074896984, u'rubber_eraser', 0.044006448, u'drumstick', 0.042085018, u'paintbrush', 0.029042332]
+[u'sandal', 0.071914315, u'chain_mail', 0.059925452, u'wool', 0.058247402, u'buckle', 0.035874303, u'fur_coat', 0.031607132]
+[u'miniskirt', 0.29239255, u'studio_couch', 0.18032673, u'pajama', 0.17059726, u'tub', 0.1615167, u'bathtub', 0.02366728]
+[u'bikini', 0.070526443, u'pajama', 0.066748872, u'stethoscope', 0.051194854, u'hair_spray', 0.046562172, u'tub', 0.046211105]
+[u'bikini', 0.57737577, u'sarong', 0.21327464, u'maillot', 0.11322924, u'maillot', 0.035922922, u'swimming_trunks', 0.02709092]

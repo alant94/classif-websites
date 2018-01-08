@@ -1,0 +1,5 @@
+[u'microwave', 0.49761885, u'sunscreen', 0.051513128, u'spotlight', 0.028963661, u'screen', 0.027977223, u'wall_clock', 0.026098289]
+[u'digital_clock', 0.95041317, u'oscilloscope', 0.0042220606, u'beaker', 0.0039989599, u'traffic_light', 0.0039915517, u'digital_watch', 0.0039142044]
+[u'prayer_rug', 0.18104747, u'binder', 0.15143898, u'window_screen', 0.10308811, u'moving_van', 0.050603967, u'medicine_chest', 0.030817881]
+[u'medicine_chest', 0.81541336, u'monitor', 0.023821224, u'safe', 0.021941498, u'tray', 0.017609753, u'screen', 0.015987812]
+[u'swimming_trunks', 0.36706951, u'volleyball', 0.14080589, u'bathing_cap', 0.075143181, u'paddle', 0.056055948, u'bikini', 0.055331066]

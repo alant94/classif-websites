@@ -1,0 +1,4 @@
+[u'Band_Aid', 0.1406891, u'comic_book', 0.11657131, u'pop_bottle', 0.066908471, u'web_site', 0.064128563, u'barbershop', 0.054723509]
+[u'miniskirt', 0.24725808, u"potter's_wheel", 0.048217721, u'iron', 0.02773352, u'crutch', 0.021187006, u'hand_blower', 0.017956596]
+[u'beaker', 0.21010166, u'stopwatch', 0.17936823, u'shower_curtain', 0.097994603, u'handkerchief', 0.040880159, u'Petri_dish', 0.029124279]
+[u'hair_spray', 0.097445466, u'hen-of-the-woods', 0.060728002, u'gyromitra', 0.05919211, u'dumbbell', 0.027776789, u'cleaver', 0.026359804]

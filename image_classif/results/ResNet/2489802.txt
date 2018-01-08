@@ -1,0 +1,3 @@
+[u'swing', 0.32153821, u'parachute', 0.037115525, u'bicycle-built-for-two', 0.026688185, u'dogsled', 0.024644034, u'mountain_bike', 0.021225298]
+[u'plow', 0.3321588, u'hartebeest', 0.27145377, u'impala', 0.056840308, u'maze', 0.035240028, u'thresher', 0.025288776]
+[u'plow', 0.21142712, u'coho', 0.060403239, u'harvester', 0.038624737, u'black_grouse', 0.022921761, u'warthog', 0.021157991]

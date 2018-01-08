@@ -1,0 +1,7 @@
+[u'web_site', 0.97141457, u'comic_book', 0.024032058, u'menu', 0.0027459962, u'refrigerator', 0.0003904074, u'carton', 0.00019849045]
+[u'web_site', 0.79188228, u'comic_book', 0.10901863, u'menu', 0.046220332, u'bikini', 0.015174102, u'carton', 0.011079082]
+[u'web_site', 0.78124034, u'menu', 0.17887878, u'comic_book', 0.024598049, u'jigsaw_puzzle', 0.0086246124, u'envelope', 0.0030724858]
+[u'web_site', 0.98393387, u'menu', 0.014464366, u'comic_book', 0.0013770709, u'carton', 5.0223134e-05, u'envelope', 4.8660753e-05]
+[u'web_site', 0.95872378, u'comic_book', 0.037631467, u'menu', 0.0030200856, u'jigsaw_puzzle', 0.00030448654, u'refrigerator', 0.00013754041]
+[u'web_site', 0.71996093, u'menu', 0.27941126, u'refrigerator', 8.2775754e-05, u'comic_book', 7.9281992e-05, u'slot', 4.317893e-05]
+[u'web_site', 0.95622236, u'menu', 0.04251099, u'comic_book', 0.00034448778, u'vending_machine', 0.00020795183, u'carton', 0.00018121387]

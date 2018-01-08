@@ -1,0 +1,3 @@
+[u'stethoscope', 0.82381541, u'lab_coat', 0.059616175, u'bolo_tie', 0.011163758, u'oboe', 0.0092056319, u'sax', 0.0059718518]
+[u'notebook', 0.1956798, u'candle', 0.14571714, u'laptop', 0.075426035, u'jean', 0.069783993, u'diaper', 0.038585912]
+[u'book_jacket', 0.10306133, u'web_site', 0.10069859, u'Band_Aid', 0.095039979, u'screw', 0.049330454, u'cash_machine', 0.047020547]

@@ -1,0 +1,3 @@
+[u'matchstick', 0.07990443, u'tripod', 0.077993028, u'drum', 0.067896843, u'analog_clock', 0.065807715, u'table_lamp', 0.056675911]
+[u'analog_clock', 0.65327543, u'digital_clock', 0.14365277, u'wall_clock', 0.087786548, u'prayer_rug', 0.022211246, u'tripod', 0.019007146]
+[u'bikini', 0.52033669, u'maillot', 0.36188188, u'maillot', 0.039525017, u'swimming_trunks', 0.030909516, u'brassiere', 0.023887893]

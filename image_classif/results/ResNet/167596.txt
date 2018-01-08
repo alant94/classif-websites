@@ -1,0 +1,6 @@
+[u'screw', 0.14533573, u'cockroach', 0.14159894, u'black_widow', 0.097709745, u'loudspeaker', 0.057379387, u'tarantula', 0.047652025]
+[u'stage', 0.24453209, u'church', 0.092498101, u'theater_curtain', 0.072653711, u'fountain', 0.071775362, u'castle', 0.060595304]
+[u'fountain', 0.67618543, u'conch', 0.015035007, u'tripod', 0.01394153, u'hermit_crab', 0.011605528, u'perfume', 0.010447043]
+[u'bolo_tie', 0.22887206, u'web_site', 0.18949313, u'wall_clock', 0.093731947, u'stethoscope', 0.08269386, u'analog_clock', 0.053075448]
+[u'fountain', 0.79278153, u'fur_coat', 0.066625491, u'abaya', 0.018202987, u'swab', 0.01247256, u'great_grey_owl', 0.010010268]
+[u'fountain', 0.31179953, u'volcano', 0.19724132, u'rotisserie', 0.18273409, u'fire_screen', 0.079983853, u'book_jacket', 0.064399399]

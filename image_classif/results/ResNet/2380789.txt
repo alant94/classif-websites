@@ -1,0 +1,1 @@
+[u'envelope', 0.15855545, u'binder', 0.11149509, u'web_site', 0.086602189, u'theater_curtain', 0.07278955, u'washer', 0.018331952]

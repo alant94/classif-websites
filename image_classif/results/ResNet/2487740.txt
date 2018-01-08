@@ -1,0 +1,3 @@
+[u'web_site', 0.21324725, u'envelope', 0.14801553, u'binder', 0.078344755, u'laptop', 0.07521046, u'can_opener', 0.054637909]
+[u'lighter', 0.22092628, u'pill_bottle', 0.072345495, u'modem', 0.039227996, u'envelope', 0.035100292, u'switch', 0.032805771]
+[u'digital_clock', 0.15134265, u'medicine_chest', 0.073586799, u'prayer_rug', 0.067741022, u'analog_clock', 0.054393481, u'web_site', 0.035973694]

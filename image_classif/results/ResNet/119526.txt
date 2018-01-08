@@ -1,0 +1,8 @@
+[u'coffee_mug', 0.97088099, u'cup', 0.024584038, u'whiskey_jug', 0.0016976192, u'water_jug', 0.0010559561, u'coffeepot', 0.00069618144]
+[u'jersey', 0.99907482, u'sweatshirt', 0.00058696035, u'maillot', 9.5850082e-05, u'gasmask', 8.2780636e-05, u'pajama', 2.0968922e-05]
+[u'coffee_mug', 0.98967057, u'cup', 0.0099413255, u'whiskey_jug', 0.00015070781, u'coffeepot', 6.2738509e-05, u'pitcher', 3.5021189e-05]
+[u'envelope', 0.83511466, u'binder', 0.067260221, u'packet', 0.056572814, u'wallet', 0.0066935951, u'rule', 0.0045748898]
+[u'jersey', 0.99848086, u'bulletproof_vest', 0.00064331433, u'sweatshirt', 0.00027276739, u'combination_lock', 6.1580002e-05, u'gasmask', 3.5706042e-05]
+[u'web_site', 0.45578024, u'pickelhaube', 0.14495879, u'book_jacket', 0.12283666, u'comic_book', 0.035715491, u'lighter', 0.021393295]
+[u'web_site', 0.86681563, u'comic_book', 0.047043324, u'book_jacket', 0.037642878, u'envelope', 0.0044094916, u'tiger', 0.0036865387]
+[u'web_site', 0.98251605, u'menu', 0.0090851244, u'crossword_puzzle', 0.0039496715, u'comic_book', 0.001115778, u'book_jacket', 0.00053307245]

@@ -1,0 +1,2 @@
+[u'hook', 0.18833107, u'shovel', 0.10345937, u'web_site', 0.083924346, u'nail', 0.033587012, u'safety_pin', 0.030235676]
+[u'bell_cote', 0.17373848, u'traffic_light', 0.14297308, u'tripod', 0.052243143, u'digital_clock', 0.052176178, u'assault_rifle', 0.04957949]

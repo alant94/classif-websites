@@ -1,0 +1,2 @@
+[u'hog', 0.39188218, u'Sussex_spaniel', 0.091781497, u'piggy_bank', 0.036165211, u'clumber', 0.035036437, u'papillon', 0.026109412]
+[u'sombrero', 0.088662051, u'book_jacket', 0.070144877, u'running_shoe', 0.062777676, u'harp', 0.056385871, u'cowboy_hat', 0.051108368]

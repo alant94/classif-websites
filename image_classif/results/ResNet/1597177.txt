@@ -1,0 +1,1 @@
+[u'planetarium', 0.31200859, u'lampshade', 0.15810212, u'gong', 0.12054037, u'punching_bag', 0.051646084, u'spotlight', 0.033549409]

@@ -1,0 +1,2 @@
+[u'tray', 0.34557828, u'jigsaw_puzzle', 0.21369305, u'menu', 0.16261113, u'greenhouse', 0.044964593, u'paintbrush', 0.023307487]
+[u'can_opener', 0.18818755, u'Windsor_tie', 0.1742214, u'whistle', 0.14180671, u'hook', 0.12362174, u'letter_opener', 0.089345656]

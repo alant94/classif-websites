@@ -1,0 +1,1 @@
+[u'castle', 0.94154006, u'monastery', 0.018716332, u'palace', 0.014311085, u'church', 0.010729175, u'bell_cote', 0.0022998317]

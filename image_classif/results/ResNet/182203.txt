@@ -1,0 +1,1 @@
+[u'racket', 0.46172035, u'tennis_ball', 0.11388907, u'dome', 0.11237281, u'electric_fan', 0.070916116, u'crash_helmet', 0.06276609]

@@ -1,0 +1,4 @@
+[u'beer_bottle', 0.49726278, u'pop_bottle', 0.47644809, u'grocery_store', 0.0032580448, u'beer_glass', 0.0030291178, u'comic_book', 0.002105342]
+[u'pop_bottle', 0.42515829, u'beer_bottle', 0.36277249, u'menu', 0.044166122, u'comic_book', 0.024790028, u'refrigerator', 0.02156654]
+[u'soap_dispenser', 0.27792796, u'lotion', 0.18233463, u'pill_bottle', 0.17526141, u'chocolate_sauce', 0.06248226, u'medicine_chest', 0.047798928]
+[u'shower_curtain', 0.26374528, u'wall_clock', 0.18154956, u'tray', 0.1162294, u'crossword_puzzle', 0.075878777, u'whistle', 0.061547972]

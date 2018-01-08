@@ -1,0 +1,4 @@
+[u'groom', 0.73987466, u'abaya', 0.047652163, u'military_uniform', 0.042636532, u'vestment', 0.022535987, u'cinema', 0.014981425]
+[u'butcher_shop', 0.8576929, u'grocery_store', 0.03422102, u'lab_coat', 0.023117702, u'gown', 0.021737998, u'jean', 0.0086511755]
+[u'cab', 0.23894073, u'schooner', 0.21645805, u'dock', 0.1195818, u'pirate', 0.072178319, u'liner', 0.042367332]
+[u'web_site', 0.16111858, u'envelope', 0.063422047, u'menu', 0.043997448, u'power_drill', 0.020173281, u'dumbbell', 0.01802431]

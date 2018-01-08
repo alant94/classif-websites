@@ -1,0 +1,2 @@
+[u'wall_clock', 0.17130561, u'corkscrew', 0.12555669, u'can_opener', 0.11880623, u'hair_slide', 0.074477188, u'nail', 0.044500973]
+[u'jigsaw_puzzle', 0.31823078, u'toy_poodle', 0.15802801, u'Chihuahua', 0.059743062, u'Pomeranian', 0.048195567, u'Yorkshire_terrier', 0.036526714]

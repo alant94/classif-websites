@@ -1,0 +1,2 @@
+[u'web_site', 0.66335732, u'nematode', 0.020326056, u'bannister', 0.013987496, u'matchstick', 0.013808363, u'bubble', 0.010850875]
+[u'rapeseed', 0.94477147, u'monarch', 0.010485128, u'picket_fence', 0.0049020732, u'daisy', 0.0036196087, u'spider_web', 0.0036186271]

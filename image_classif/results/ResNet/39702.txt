@@ -1,0 +1,3 @@
+[u'container_ship', 0.91311198, u'scoreboard', 0.023514738, u'monitor', 0.017543364, u'jigsaw_puzzle', 0.013489952, u'balloon', 0.0040984228]
+[u'pencil_sharpener', 0.7957744, u'mouse', 0.074522719, u'microphone', 0.02753491, u'safety_pin', 0.011014725, u'loudspeaker', 0.010925392]
+[u'traffic_light', 0.72758853, u'digital_clock', 0.096444666, u'analog_clock', 0.070292443, u'street_sign', 0.025690056, u'screen', 0.0096725645]

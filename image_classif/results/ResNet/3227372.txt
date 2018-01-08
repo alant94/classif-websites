@@ -1,0 +1,5 @@
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'picket_fence', 0.47788712, u'barn', 0.18700111, u'bannister', 0.064081237, u'web_site', 0.043076053, u'window_shade', 0.017603939]
+[u'crane', 0.67497683, u'pole', 0.080895126, u'fountain', 0.042797372, u'analog_clock', 0.038558122, u'chime', 0.031294093]
+[u'restaurant', 0.1326125, u'tobacco_shop', 0.12834357, u'vending_machine', 0.090522826, u'gas_pump', 0.074542269, u'ambulance', 0.057748739]
+[u'coffee_mug', 0.54366636, u'punching_bag', 0.11664242, u'barrel', 0.087585539, u'hair_spray', 0.044687118, u'ashcan', 0.042663235]

@@ -1,0 +1,2 @@
+[u'web_site', 0.080987655, u'screwdriver', 0.05660782, u'Band_Aid', 0.044253364, u'ballpoint', 0.033766717, u'paintbrush', 0.029940013]
+[u'web_site', 0.16820951, u'envelope', 0.1366404, u'file', 0.087800413, u'tripod', 0.044484455, u'television', 0.023836758]

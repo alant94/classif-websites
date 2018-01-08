@@ -1,0 +1,1 @@
+[u'pick', 0.2438271, u'stopwatch', 0.071845599, u'book_jacket', 0.03536617, u'plunger', 0.032110967, u'toilet_tissue', 0.02851155]

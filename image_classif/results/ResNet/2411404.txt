@@ -1,0 +1,7 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'envelope', 0.73193884, u'binder', 0.030739944, u'pick', 0.028517863, u'packet', 0.020584809, u'rule', 0.018766263]
+[u'binder', 0.62603784, u'perfume', 0.12266247, u'wallet', 0.057215184, u'book_jacket', 0.032658357, u'lighter', 0.023137426]
+[u'book_jacket', 0.76651597, u'perfume', 0.080664009, u'comic_book', 0.035871461, u'pencil_box', 0.028453404, u'binder', 0.027681012]
+[u'web_site', 0.16913664, u'book_jacket', 0.16468108, u'binder', 0.092031166, u'wallet', 0.048164237, u'handkerchief', 0.044750679]
+[u'perfume', 0.32869968, u'packet', 0.14785562, u'desk', 0.050301891, u'carton', 0.036528278, u'face_powder', 0.022267174]
+[u'web_site', 0.87174165, u'book_jacket', 0.032312617, u'comic_book', 0.028311552, u'menu', 0.012875436, u'packet', 0.0093106404]

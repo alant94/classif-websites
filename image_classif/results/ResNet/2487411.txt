@@ -1,0 +1,2 @@
+[u'web_site', 0.091344193, u'oil_filter', 0.087499753, u'pill_bottle', 0.073212914, u'lotion', 0.05522123, u'screen', 0.032296889]
+[u'oboe', 0.40758669, u'bolo_tie', 0.20235392, u'bassoon', 0.081619084, u'Windsor_tie', 0.062894411, u'suit', 0.058616769]

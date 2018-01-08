@@ -1,0 +1,1 @@
+[u'cab', 0.18436265, u'cinema', 0.095194362, u'obelisk', 0.055033613, u'traffic_light', 0.054514542, u'parking_meter', 0.04887566]

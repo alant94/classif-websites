@@ -1,0 +1,3 @@
+[u'digital_clock', 0.53599709, u'sunscreen', 0.041402727, u'Band_Aid', 0.041069679, u'envelope', 0.040027555, u'web_site', 0.037292726]
+[u'book_jacket', 0.25744259, u'digital_clock', 0.1414331, u'laptop', 0.036852162, u'maze', 0.028574726, u'remote_control', 0.020797856]
+[u'web_site', 0.070310906, u'envelope', 0.068044506, u'book_jacket', 0.043686666, u'prayer_rug', 0.039493386, u'laptop', 0.028248295]

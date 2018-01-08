@@ -1,0 +1,8 @@
+[u"jack-o'-lantern", 0.21268721, u'traffic_light', 0.18851617, u'lampshade', 0.12954092, u'candle', 0.04150394, u'organ', 0.031703662]
+[u'candle', 0.12120556, u'church', 0.11040767, u'panpipe', 0.063729621, u'lampshade', 0.063326068, u'traffic_light', 0.046228256]
+[u'carton', 0.12108254, u'gas_pump', 0.10101371, u'comic_book', 0.083783723, u'barrel', 0.059826754, u'book_jacket', 0.057297211]
+[u'wall_clock', 0.086497277, u'sleeping_bag', 0.05159317, u'backpack', 0.047297735, u'bib', 0.045611866, u'shield', 0.044195071]
+[u'prayer_rug', 0.85707808, u'analog_clock', 0.060084458, u'oscilloscope', 0.016642977, u'envelope', 0.01302897, u'handkerchief', 0.0096017215]
+[u"jack-o'-lantern", 0.11738468, u'candle', 0.084999733, u'church', 0.072045632, u'picket_fence', 0.05875279, u'traffic_light', 0.045723267]
+[u'beer_bottle', 0.94154853, u'hamper', 0.019904999, u'beer_glass', 0.0073215086, u'refrigerator', 0.0042473003, u'tray', 0.0029579664]
+[u'traffic_light', 0.71257788, u'panpipe', 0.094139926, u'envelope', 0.014082829, u'church', 0.012231978, u'candle', 0.011189685]

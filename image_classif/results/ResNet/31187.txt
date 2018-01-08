@@ -1,0 +1,1 @@
+[u'bolo_tie', 0.71566397, u'combination_lock', 0.042560272, u'stopwatch', 0.036808863, u'gasmask', 0.023254057, u'knot', 0.023011938]

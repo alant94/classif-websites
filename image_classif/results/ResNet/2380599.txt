@@ -1,0 +1,4 @@
+[u'red_wine', 0.8941505, u'wine_bottle', 0.10478327, u'corkscrew', 0.0010329017, u'beer_bottle', 1.3364509e-05, u'lotion', 4.1021267e-06]
+[u'bookcase', 0.31320855, u'bookshop', 0.26200119, u'library', 0.14006244, u'paintbrush', 0.13104413, u'perfume', 0.048051648]
+[u'greenhouse', 0.16187131, u'suit', 0.077346869, u'jean', 0.076187775, u'miniskirt', 0.060489833, u'sunglasses', 0.059918959]
+[u'picket_fence', 0.40231743, u'chainlink_fence', 0.14602257, u'wool', 0.071052611, u'padlock', 0.041132133, u'jigsaw_puzzle', 0.036982805]

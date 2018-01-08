@@ -1,0 +1,8 @@
+[u'jean', 0.036556352, u'candle', 0.035110433, u'sarong', 0.032495819, u'suit', 0.032067437, u'oboe', 0.029263621]
+[u'sombrero', 0.11615059, u'banjo', 0.10768329, u'steel_drum', 0.084391214, u'drum', 0.040787548, u'maraca', 0.037942309]
+[u'cloak', 0.76447761, u'fur_coat', 0.065027952, u'abaya', 0.020684108, u'sweatshirt', 0.016433176, u'stole', 0.015570212]
+[u'jersey', 0.62519747, u'bulletproof_vest', 0.15592538, u'sweatshirt', 0.017850628, u'laptop', 0.014475662, u'maraca', 0.012169676]
+[u'jersey', 0.1537044, u'Band_Aid', 0.1383211, u'chain_mail', 0.13314089, u'wig', 0.043519147, u'drumstick', 0.03642448]
+[u'coho', 0.17335914, u'barracouta', 0.12264847, u'steel_drum', 0.043441724, u'king_crab', 0.036948152, u'gar', 0.032818958]
+[u'wool', 0.1134479, u'stole', 0.087307848, u'cardigan', 0.071739443, u'oboe', 0.050067615, u'hair_slide', 0.04001585]
+[u'bow', 0.17397259, u'suit', 0.072287515, u'pole', 0.039109077, u'Windsor_tie', 0.034374051, u'baseball', 0.034149788]

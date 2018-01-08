@@ -1,0 +1,3 @@
+[u'digital_clock', 0.64301807, u'digital_watch', 0.090650983, u'jersey', 0.029414156, u'Band_Aid', 0.025132068, u'traffic_light', 0.02394766]
+[u'digital_clock', 0.36302453, u'picket_fence', 0.12508447, u'analog_clock', 0.088764936, u'rule', 0.087558024, u'digital_watch', 0.052127846]
+[u'web_site', 0.32609862, u'desk', 0.10709706, u'television', 0.096958824, u'monitor', 0.065526083, u'desktop_computer', 0.054711618]

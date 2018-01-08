@@ -1,0 +1,3 @@
+[u'digital_clock', 0.51419336, u'crossword_puzzle', 0.097724684, u'digital_watch', 0.076203063, u'picket_fence', 0.057359487, u'coffee_mug', 0.019728251]
+[u'dogsled', 0.098681822, u'Greater_Swiss_Mountain_dog', 0.085878804, u'malamute', 0.083718792, u'Appenzeller', 0.049188383, u'Scottish_deerhound', 0.033349022]
+[u'screw', 0.083729617, u'nail', 0.054722581, u'jersey', 0.053717531, u'picket_fence', 0.045083787, u'book_jacket', 0.021943258]

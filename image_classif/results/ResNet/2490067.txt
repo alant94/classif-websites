@@ -1,0 +1,2 @@
+[u'upright', 0.0906078, u'carton', 0.068515256, u'paintbrush', 0.064627327, u'envelope', 0.061113857, u'paper_towel', 0.045496289]
+[u'hook', 0.40825093, u'horizontal_bar', 0.17568435, u'parallel_bars', 0.053711519, u'balance_beam', 0.032585654, u'broom', 0.028315146]

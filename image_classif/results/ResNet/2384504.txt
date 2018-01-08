@@ -1,0 +1,6 @@
+[u'crossword_puzzle', 0.974783, u'Band_Aid', 0.0042717713, u'quilt', 0.0031740719, u'prayer_rug', 0.001955989, u'maze', 0.0012401511]
+[u'digital_clock', 0.79829502, u'digital_watch', 0.13046843, u'Band_Aid', 0.01040104, u'stopwatch', 0.0078246612, u'analog_clock', 0.0055818772]
+[u'screw', 0.30349484, u'panpipe', 0.21677968, u'marimba', 0.1466051, u'coil', 0.046038695, u'stopwatch', 0.0242377]
+[u'digital_clock', 0.58227807, u'digital_watch', 0.13045445, u'stopwatch', 0.047763258, u'analog_clock', 0.037945118, u'remote_control', 0.020020744]
+[u'web_site', 0.1453556, u'analog_clock', 0.084011279, u'street_sign', 0.077518918, u'traffic_light', 0.067225203, u'digital_clock', 0.038551781]
+[u'street_sign', 0.14478922, u'web_site', 0.12640175, u'analog_clock', 0.05224159, u'digital_clock', 0.036073141, u'traffic_light', 0.028746085]

@@ -1,0 +1,2 @@
+[u'binder', 0.32960045, u'book_jacket', 0.071683854, u'photocopier', 0.057148844, u'shovel', 0.054291502, u'notebook', 0.049307402]
+[u'television', 0.37266034, u'web_site', 0.10652925, u'screen', 0.097723924, u'hand-held_computer', 0.065991141, u'cellular_telephone', 0.064489514]

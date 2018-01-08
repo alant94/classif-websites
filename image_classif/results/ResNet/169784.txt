@@ -1,0 +1,2 @@
+[u'book_jacket', 0.11191559, u'street_sign', 0.04903451, u'tobacco_shop', 0.033994734, u'web_site', 0.026529415, u'barbershop', 0.025447637]
+[u'web_site', 0.17850281, u'Band_Aid', 0.05811229, u'cash_machine', 0.048219897, u'sunscreen', 0.033728499, u'street_sign', 0.024962518]

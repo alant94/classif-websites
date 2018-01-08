@@ -1,0 +1,6 @@
+[u'book_jacket', 0.13740276, u'web_site', 0.074542217, u'whistle', 0.064283714, u'envelope', 0.059859149, u'digital_clock', 0.035482798]
+[u'panpipe', 0.99913472, u'church', 0.00042486732, u'marimba', 0.00031719805, u'organ', 2.6510181e-05, u'stupa', 2.1519823e-05]
+[u'shower_curtain', 0.23166002, u'wardrobe', 0.064442463, u'envelope', 0.051669937, u'washbasin', 0.048701722, u'binder', 0.040693752]
+[u'golfcart', 0.16592897, u'minibus', 0.16457483, u'Dungeness_crab', 0.043682348, u'American_lobster', 0.028524213, u'beer_glass', 0.027017001]
+[u'banjo', 0.46842828, u'stage', 0.33123663, u'electric_guitar', 0.12365799, u'acoustic_guitar', 0.049588569, u'microphone', 0.010899492]
+[u'web_site', 0.11740587, u'jersey', 0.098518305, u'digital_clock', 0.032392122, u'binder', 0.025846958, u'envelope', 0.021837708]

@@ -1,0 +1,5 @@
+[u'ibex', 0.42720249, u'hartebeest', 0.1418414, u'dhole', 0.11712339, u'impala', 0.061909329, u'red_wolf', 0.055553358]
+[u'Band_Aid', 0.14694954, u'ambulance', 0.096550696, u'analog_clock', 0.086230054, u'lighter', 0.051495004, u'ski', 0.042848382]
+[u'comic_book', 0.40117934, u'book_jacket', 0.15580845, u'corn', 0.038612712, u'screw', 0.032470107, u'nail', 0.031792272]
+[u'wallaby', 0.32279909, u'gazelle', 0.2982336, u'impala', 0.12635919, u'bighorn', 0.085081317, u'triceratops', 0.050158836]
+[u'trombone', 0.67942101, u'cornet', 0.11627359, u'oboe', 0.081578858, u'bow', 0.040292751, u'chain_saw', 0.013865621]

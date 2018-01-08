@@ -1,0 +1,2 @@
+[u'screwdriver', 0.42130402, u'radiator', 0.098019429, u'nail', 0.058199506, u"carpenter's_kit", 0.057555974, u'stage', 0.045443635]
+[u'tench', 0.062881202, u'croquet_ball', 0.058905188, u'academic_gown', 0.045448802, u'bow', 0.044545311, u'mortarboard', 0.041328579]

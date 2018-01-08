@@ -1,0 +1,3 @@
+[u'web_site', 0.13874389, u'whistle', 0.089419238, u'church', 0.087780997, u'chain_saw', 0.075179793, u'rule', 0.058934782]
+[u'lighter', 0.10465767, u'ski', 0.056567315, u'comic_book', 0.040016595, u'shield', 0.03766679, u'fire_screen', 0.034467377]
+[u'web_site', 0.35546961, u'comic_book', 0.31272256, u'ski', 0.029312698, u'lighter', 0.024049468, u'bow', 0.019863473]

@@ -1,0 +1,3 @@
+[u'quill', 0.11131551, u'sea_urchin', 0.082750596, u'syringe', 0.067006797, u'feather_boa', 0.045027591, u'wig', 0.044694167]
+[u'pole', 0.18403402, u'crutch', 0.099307887, u'horizontal_bar', 0.093180425, u'parallel_bars', 0.045137104, u'tripod', 0.035671145]
+[u'pole', 0.17769782, u'horizontal_bar', 0.10661976, u'crutch', 0.10079434, u'parallel_bars', 0.039695013, u'flagpole', 0.035186704]

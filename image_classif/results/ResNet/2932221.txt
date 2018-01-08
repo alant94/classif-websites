@@ -1,0 +1,8 @@
+[u'jersey', 0.17154527, u'book_jacket', 0.088260278, u'envelope', 0.086651206, u'plastic_bag', 0.076189242, u'carton', 0.054362647]
+[u'web_site', 0.07257434, u'bucket', 0.020210678, u'mailbag', 0.017808316, u'ocarina', 0.017034246, u'whistle', 0.016102258]
+[u'web_site', 0.76126194, u'envelope', 0.019212056, u'hair_spray', 0.01025157, u'printer', 0.0075399545, u'lotion', 0.0064909337]
+[u'web_site', 0.62472922, u'envelope', 0.035710938, u'maillot', 0.019077137, u'packet', 0.01820275, u'hair_spray', 0.012622933]
+[u'jersey', 0.17881568, u'packet', 0.12724303, u'Band_Aid', 0.11174259, u'envelope', 0.084972277, u'carton', 0.057916168]
+[u'wig', 0.13996699, u'butcher_shop', 0.059022397, u'caldron', 0.051126365, u'hog', 0.033581875, u'hair_spray', 0.024319962]
+[u'jersey', 0.15427363, u'packet', 0.093430668, u'envelope', 0.090021692, u'toilet_tissue', 0.071269475, u'carton', 0.061744031]
+[u'web_site', 0.10517416, u'moving_van', 0.04028463, u'hard_disc', 0.024442218, u'sunscreen', 0.021954959, u'oil_filter', 0.019943718]

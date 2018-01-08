@@ -1,0 +1,6 @@
+[u'comic_book', 0.14124498, u'web_site', 0.088328853, u'remote_control', 0.038279347, u'book_jacket', 0.036068838, u'screwdriver', 0.026900807]
+[u'sunscreen', 0.18258481, u'hair_spray', 0.12636574, u'packet', 0.12157552, u'lotion', 0.10452157, u'wine_bottle', 0.056533933]
+[u'beer_bottle', 0.50085515, u'wine_bottle', 0.1112997, u'pop_bottle', 0.07234747, u'plane', 0.060144555, u'red_wine', 0.035958063]
+[u'wine_bottle', 0.25031036, u'hair_spray', 0.15719062, u'plane', 0.077765964, u'hamper', 0.065401562, u'beer_bottle', 0.064570054]
+[u'puck', 0.15060245, u'buckle', 0.048869986, u'oil_filter', 0.042972196, u'laptop', 0.041778434, u'pick', 0.036803663]
+[u'comic_book', 0.38486284, u'jeep', 0.16636018, u'moving_van', 0.099989273, u'cab', 0.066050626, u'minibus', 0.039175749]

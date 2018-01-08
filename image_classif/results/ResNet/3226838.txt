@@ -1,0 +1,4 @@
+[u'book_jacket', 0.85669637, u'barbershop', 0.056720994, u'scoreboard', 0.035267904, u'street_sign', 0.010623412, u'comic_book', 0.0081824763]
+[u'web_site', 0.52968377, u'envelope', 0.15504685, u'analog_clock', 0.030464413, u'binder', 0.015119622, u'traffic_light', 0.014609277]
+[u'bakery', 0.24585466, u'prison', 0.22291416, u'restaurant', 0.1664134, u'barbershop', 0.10341725, u'planetarium', 0.040334042]
+[u'prayer_rug', 0.22674344, u'shield', 0.11479166, u'envelope', 0.099148266, u'digital_clock', 0.087338805, u'analog_clock', 0.083803684]

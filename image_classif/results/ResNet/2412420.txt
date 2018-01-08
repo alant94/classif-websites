@@ -1,0 +1,8 @@
+[u'slot', 0.13770847, u'web_site', 0.070193551, u'packet', 0.053188775, u'comic_book', 0.050763711, u'theater_curtain', 0.041810982]
+[u'packet', 0.50153923, u'book_jacket', 0.22288379, u'slot', 0.094674483, u'hair_spray', 0.034051754, u'envelope', 0.018646104]
+[u'digital_watch', 0.62454772, u'digital_clock', 0.21745484, u'scoreboard', 0.033218876, u'oscilloscope', 0.018387929, u'stopwatch', 0.014485788]
+[u'digital_watch', 0.73506802, u'digital_clock', 0.19894581, u'oscilloscope', 0.022728896, u'stopwatch', 0.010926659, u'analog_clock', 0.0056972597]
+[u'digital_watch', 0.39792413, u'digital_clock', 0.24589011, u'oscilloscope', 0.085973375, u'stopwatch', 0.044546414, u'scoreboard', 0.032582942]
+[u'digital_watch', 0.52697545, u'stopwatch', 0.064986795, u'digital_clock', 0.054798264, u'screen', 0.03780251, u'hand-held_computer', 0.01952715]
+[u'slot', 0.49120775, u'vending_machine', 0.07168249, u'packet', 0.059512794, u'carton', 0.038994435, u'menu', 0.036905318]
+[u'digital_watch', 0.6312843, u'digital_clock', 0.14327201, u'oscilloscope', 0.061472498, u'stopwatch', 0.036785126, u'scoreboard', 0.018959139]

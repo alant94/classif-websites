@@ -1,0 +1,5 @@
+[u'analog_clock', 0.46826026, u'crossword_puzzle', 0.34274697, u'web_site', 0.052515805, u'wall_clock', 0.014674647, u'stethoscope', 0.014650692]
+[u'vacuum', 0.19911598, u'electric_fan', 0.13319109, u'washer', 0.088227004, u'hand_blower', 0.047939423, u'gong', 0.036471989]
+[u'shield', 0.25893477, u'bulletproof_vest', 0.13290587, u'hatchet', 0.10736719, u'pick', 0.075387701, u'web_site', 0.060139034]
+[u'web_site', 0.32659301, u'beer_glass', 0.048298031, u'puck', 0.041492883, u'chocolate_sauce', 0.029936792, u'pretzel', 0.025373938]
+[u'shower_curtain', 0.60028189, u'umbrella', 0.14925548, u'web_site', 0.12785956, u'birdhouse', 0.020533917, u'apron', 0.0096979076]

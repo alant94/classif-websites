@@ -1,0 +1,3 @@
+[u'television', 0.57078058, u'home_theater', 0.064264521, u'comic_book', 0.027812475, u'screen', 0.027286358, u'monitor', 0.019272499]
+[u'Gordon_setter', 0.49807286, u'crossword_puzzle', 0.075911306, u'web_site', 0.061355133, u'chimpanzee', 0.017146582, u'hand-held_computer', 0.013252373]
+[u'scoreboard', 0.37899765, u'oscilloscope', 0.27584526, u'book_jacket', 0.16267657, u'digital_watch', 0.02808911, u'screen', 0.020442357]

@@ -1,0 +1,4 @@
+[u'theater_curtain', 0.66004372, u'book_jacket', 0.079265505, u'cinema', 0.049318604, u'jersey', 0.042242453, u'perfume', 0.021633012]
+[u'prison', 0.11143614, u'lab_coat', 0.10776788, u'Windsor_tie', 0.098855458, u'bulletproof_vest', 0.051233575, u'beer_glass', 0.046749573]
+[u'capuchin', 0.14110567, u'titi', 0.095098883, u'marmoset', 0.067278594, u'prison', 0.058667358, u'window_screen', 0.054820146]
+[u'digital_clock', 0.77789807, u'digital_watch', 0.12004525, u'web_site', 0.019698603, u'folding_chair', 0.0062510539, u'whistle', 0.0051152231]

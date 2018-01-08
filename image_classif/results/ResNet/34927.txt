@@ -1,0 +1,2 @@
+[u'jeep', 0.37360182, u'minibus', 0.14867742, u'minivan', 0.095352583, u'cliff', 0.073735416, u'seashore', 0.033167049]
+[u'ski', 0.24682488, u'cornet', 0.053665798, u'electric_guitar', 0.048451923, u'stage', 0.040029623, u'accordion', 0.037345193]

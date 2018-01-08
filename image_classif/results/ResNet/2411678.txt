@@ -1,0 +1,6 @@
+[u'gong', 0.14989102, u'bonnet', 0.11423407, u'drum', 0.047373481, u'chime', 0.046309028, u'hair_slide', 0.041185826]
+[u'sunglasses', 0.54005414, u'sunglass', 0.42480066, u'wig', 0.0074839066, u'stole', 0.0048853029, u'fur_coat', 0.0027489567]
+[u'shield', 0.64997536, u'chain_mail', 0.31662318, u'breastplate', 0.013244014, u'cuirass', 0.012996587, u'face_powder', 0.0019525962]
+[u'washer', 0.076072171, u'wig', 0.072473817, u'shield', 0.069351919, u'hoopskirt', 0.060808536, u'face_powder', 0.057756349]
+[u'sleeping_bag', 0.82383066, u'bath_towel', 0.072147645, u'bib', 0.042608909, u'toilet_seat', 0.018614843, u'bassinet', 0.011557624]
+[u'wig', 0.075277753, u'shield', 0.0672668, u'face_powder', 0.064669617, u'stole', 0.058285173, u'pick', 0.053523239]

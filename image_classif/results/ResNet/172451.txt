@@ -1,0 +1,5 @@
+[u'bassoon', 0.18150514, u'oboe', 0.17292902, u'drumstick', 0.15015425, u'flute', 0.14084367, u'drum', 0.08458896]
+[u'throne', 0.68690097, u'crane', 0.12313365, u'hook', 0.031094786, u'stupa', 0.015980355, u'scale', 0.014176307]
+[u'harp', 0.44519433, u'digital_clock', 0.14443409, u'screen', 0.11693662, u'television', 0.068517752, u'tripod', 0.046699613]
+[u'racket', 0.19484773, u'panpipe', 0.11314474, u'ballplayer', 0.052149277, u'flute', 0.050921228, u'harp', 0.040768132]
+[u'electric_guitar', 0.19650017, u'panpipe', 0.15180664, u'cello', 0.1078867, u'harp', 0.09445186, u'abaya', 0.082716405]

@@ -1,0 +1,6 @@
+[u'jean', 0.38690701, u'pay-phone', 0.1048763, u'bikini', 0.053761993, u'groom', 0.039712671, u'web_site', 0.038132634]
+[u'jean', 0.15844186, u'picket_fence', 0.055665307, u'wardrobe', 0.051971652, u'sandal', 0.050299302, u'web_site', 0.046240456]
+[u'jean', 0.25074354, u'sock', 0.12583673, u'zebra', 0.057791311, u'stole', 0.045033034, u'wardrobe', 0.038588211]
+[u'jean', 0.75537515, u'prison', 0.035964351, u'sliding_door', 0.034506585, u'wardrobe', 0.026069477, u'shower_curtain', 0.012324082]
+[u'sliding_door', 0.25176734, u'web_site', 0.11540355, u'kimono', 0.098676704, u'shower_curtain', 0.055336308, u'jean', 0.04666324]
+[u'comic_book', 0.12810647, u'chain', 0.093076155, u'plate_rack', 0.08752723, u'cowboy_hat', 0.074734464, u'grille', 0.04714711]

@@ -1,0 +1,4 @@
+[u'water_buffalo', 0.40566638, u'Indian_elephant', 0.18998392, u'bison', 0.099335201, u'ox', 0.079669707, u'tusker', 0.064518064]
+[u'lumbermill', 0.42299327, u'hog', 0.069427274, u'worm_fence', 0.042808916, u'yurt', 0.04267367, u'swing', 0.039880101]
+[u'lakeside', 0.42938659, u'American_alligator', 0.07572563, u'American_egret', 0.072507165, u'canoe', 0.054123364, u'little_blue_heron', 0.043728691]
+[u'rifle', 0.41638687, u'assault_rifle', 0.38782999, u'military_uniform', 0.1138232, u'gasmask', 0.032146394, u'revolver', 0.010687904]

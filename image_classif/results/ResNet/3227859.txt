@@ -1,0 +1,5 @@
+[u'analog_clock', 0.28217, u'book_jacket', 0.19425136, u'digital_clock', 0.15921806, u'traffic_light', 0.064034209, u'digital_watch', 0.037967786]
+[u'Persian_cat', 0.25317207, u'quill', 0.095193245, u'shower_curtain', 0.070600115, u'envelope', 0.047356248, u'West_Highland_white_terrier', 0.039879557]
+[u'analog_clock', 0.32403046, u'traffic_light', 0.13819525, u'digital_clock', 0.13395825, u'book_jacket', 0.077847891, u'stopwatch', 0.046739571]
+[u'turnstile', 0.51555032, u'coil', 0.25733316, u'web_site', 0.083307952, u'ski', 0.0086661959, u'punching_bag', 0.0080610607]
+[u'park_bench', 0.12493119, u'fountain', 0.090656728, u'lakeside', 0.083823301, u'greenhouse', 0.06336841, u'picket_fence', 0.054370698]

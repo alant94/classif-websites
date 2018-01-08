@@ -1,0 +1,7 @@
+[u'picket_fence', 0.18692558, u'crutch', 0.15908816, u'swab', 0.074830048, u'gas_pump', 0.066538021, u'mailbox', 0.053336773]
+[u'vestment', 0.34758046, u'Christmas_stocking', 0.19032256, u'restaurant', 0.064014055, u'groom', 0.046736013, u'shield', 0.046548124]
+[u'cinema', 0.11885345, u'palace', 0.090698756, u'beacon', 0.086927474, u'castle', 0.081437021, u'picket_fence', 0.063159622]
+[u'pot', 0.72601563, u'vase', 0.08489427, u'picket_fence', 0.074749082, u'greenhouse', 0.02947708, u'birdhouse', 0.0088089211]
+[u'cradle', 0.36393118, u'groom', 0.22844166, u'gown', 0.12289901, u'four-poster', 0.060379267, u'crib', 0.033511069]
+[u'lifeboat', 0.54234838, u'trimaran', 0.12516637, u'seashore', 0.084679775, u'catamaran', 0.053182922, u'stretcher', 0.029734779]
+[u'pick', 0.54763263, u'chain', 0.14163367, u'bow', 0.10830916, u'necklace', 0.057866938, u'stopwatch', 0.01303443]

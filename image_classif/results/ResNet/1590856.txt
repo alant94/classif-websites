@@ -1,0 +1,8 @@
+[u'bikini', 0.64532691, u'maillot', 0.14795019, u'maillot', 0.062419083, u'tub', 0.033495262, u'bathing_cap', 0.033136174]
+[u'swimming_trunks', 0.66076434, u'book_jacket', 0.05236863, u'shower_cap', 0.042572189, u'brassiere', 0.035362281, u'maillot', 0.019710775]
+[u'book_jacket', 0.52110589, u'bathing_cap', 0.10682272, u'bikini', 0.076094024, u'swimming_trunks', 0.052051704, u'maillot', 0.038401607]
+[u'basenji', 0.15619162, u'Weimaraner', 0.055019386, u'studio_couch', 0.044217248, u'crossword_puzzle', 0.039939754, u'home_theater', 0.036610048]
+[u'swimming_trunks', 0.35264727, u'bikini', 0.12288724, u'bathing_cap', 0.042571124, u'Band_Aid', 0.041309875, u'miniskirt', 0.02832775]
+[u'Weimaraner', 0.35326096, u"potter's_wheel", 0.16181241, u'prison', 0.084273718, u'bathtub', 0.04343624, u'vizsla', 0.042954028]
+[u'brassiere', 0.48741034, u'bikini', 0.061576873, u'comic_book', 0.048725393, u'book_jacket', 0.046191972, u'maillot', 0.019172808]
+[u'tailed_frog', 0.31743327, u'mask', 0.23342641, u'bullfrog', 0.070495494, u'shower_cap', 0.042609427, u'tub', 0.031139553]

@@ -1,0 +1,5 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'fountain', 0.82798326, u'chain', 0.03889047, u'shower_curtain', 0.035029657, u'butcher_shop', 0.031307176, u'paintbrush', 0.01274359]
+[u'web_site', 0.13486904, u'laptop', 0.088102087, u'envelope', 0.086739168, u'can_opener', 0.060257114, u'binder', 0.050037481]
+[u'envelope', 0.1590192, u'web_site', 0.12007343, u'jersey', 0.043222107, u'digital_clock', 0.040736411, u'hook', 0.023963943]
+[u'web_site', 0.25227991, u'nematode', 0.14005028, u'stopwatch', 0.0532648, u'analog_clock', 0.040081441, u'loupe', 0.022270821]

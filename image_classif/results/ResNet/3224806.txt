@@ -1,0 +1,2 @@
+[u'web_site', 0.20962496, u'menu', 0.12926923, u'crossword_puzzle', 0.061796799, u'power_drill', 0.029546581, u'can_opener', 0.020857396]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

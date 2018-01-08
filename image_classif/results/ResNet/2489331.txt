@@ -1,0 +1,7 @@
+[u'window_screen', 0.99862063, u'hamper', 0.00068090297, u'fire_screen', 0.0004673012, u'radiator', 0.0001136608, u'microwave', 2.7939017e-05]
+[u'window_screen', 0.82693684, u'fire_screen', 0.053876329, u'theater_curtain', 0.013538824, u'folding_chair', 0.008922928, u'strainer', 0.0085501242]
+[u'hartebeest', 0.77554321, u'gazelle', 0.095717996, u'impala', 0.086816341, u'sorrel', 0.010970308, u'plow', 0.0040327809]
+[u'swing', 0.72467482, u'water_buffalo', 0.032322157, u'gazelle', 0.01604029, u'park_bench', 0.01541312, u'plow', 0.009434781]
+[u'window_screen', 0.91177905, u'axolotl', 0.013697923, u'mosquito_net', 0.0097749941, u'microwave', 0.0059764655, u'tiger_shark', 0.0037339039]
+[u'gazelle', 0.37539271, u'fountain', 0.19590908, u'oxcart', 0.10215706, u'ox', 0.0843606, u'hare', 0.038912401]
+[u'plow', 0.28188774, u'tractor', 0.11078336, u'horse_cart', 0.095296614, u'park_bench', 0.07046669, u'barn', 0.054142009]

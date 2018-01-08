@@ -1,0 +1,1 @@
+[u'digital_clock', 0.28785735, u'digital_watch', 0.10115938, u'analog_clock', 0.039857924, u"carpenter's_kit", 0.02569381, u'oscilloscope', 0.0247475]

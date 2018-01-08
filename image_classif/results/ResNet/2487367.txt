@@ -1,0 +1,2 @@
+[u'impala', 0.6558398, u'ibex', 0.13811751, u'hartebeest', 0.09847194, u'bighorn', 0.071256585, u'gazelle', 0.027351558]
+[u'paintbrush', 0.14214052, u'padlock', 0.10011155, u'envelope', 0.056362931, u'jigsaw_puzzle', 0.050941691, u'sarong', 0.047643814]

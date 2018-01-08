@@ -1,0 +1,4 @@
+[u'macaw', 0.55726916, u'African_grey', 0.10148761, u'chain_saw', 0.038521931, u'cock', 0.023915768, u'cliff', 0.022534763]
+[u'stole', 0.6805771, u'suit', 0.094470881, u'jean', 0.054050986, u'groom', 0.027281193, u'gown', 0.011093625]
+[u'maze', 0.22288887, u'greenhouse', 0.16673733, u'rapeseed', 0.094718419, u'head_cabbage', 0.094116524, u'buckeye', 0.034569211]
+[u'koala', 0.69693536, u'wallaby', 0.28702369, u'wood_rabbit', 0.0040393379, u'Madagascar_cat', 0.0027438996, u'hare', 0.0019958774]

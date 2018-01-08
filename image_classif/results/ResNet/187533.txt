@@ -1,0 +1,5 @@
+[u'boathouse', 0.7267279, u'pedestal', 0.047374468, u'patio', 0.033534024, u'mobile_home', 0.028891183, u'lumbermill', 0.022793641]
+[u'window_screen', 0.70265996, u'sliding_door', 0.052540369, u'shoji', 0.036826752, u'planetarium', 0.029775528, u'greenhouse', 0.020192083]
+[u'window_screen', 0.14069918, u'library', 0.13120435, u'flagpole', 0.077122971, u'street_sign', 0.068587326, u'pole', 0.067789294]
+[u'dome', 0.19886093, u'tile_roof', 0.12900315, u'bell_cote', 0.11805256, u'monastery', 0.1121465, u'mosque', 0.087230153]
+[u'window_screen', 0.22231749, u'greenhouse', 0.17163152, u'planetarium', 0.079515241, u'mobile_home', 0.062171251, u'boathouse', 0.030437501]

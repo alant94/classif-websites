@@ -1,0 +1,7 @@
+[u'valley', 0.78016233, u'alp', 0.1782324, u'cliff', 0.015960636, u'lakeside', 0.012664274, u'maze', 0.0019431039]
+[u'fountain', 0.35589612, u'totem_pole', 0.27260944, u'lakeside', 0.11523047, u'chain', 0.033172928, u'pole', 0.029451873]
+[u'swing', 0.81934041, u'hook', 0.039507952, u'guillotine', 0.024529243, u'orangutan', 0.013385068, u'web_site', 0.0079768309]
+[u'valley', 0.24890685, u'alp', 0.2364182, u'lakeside', 0.14026831, u'barn', 0.09400408, u'boathouse', 0.054521475]
+[u'fountain', 0.34661746, u'lakeside', 0.18627788, u'canoe', 0.075647622, u'valley', 0.061295848, u'boathouse', 0.058991902]
+[u'lakeside', 0.25684896, u'jigsaw_puzzle', 0.09173914, u'barn', 0.091691032, u'geyser', 0.091179177, u'fountain', 0.081187516]
+[u'broom', 0.15920731, u'bikini', 0.12861532, u'maillot', 0.042326581, u'maillot', 0.032986619, u'ear', 0.027927993]

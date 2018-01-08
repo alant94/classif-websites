@@ -1,0 +1,1 @@
+[u'electric_guitar', 0.56938052, u'acoustic_guitar', 0.34782505, u'banjo', 0.039096598, u'stage', 0.018403998, u'pick', 0.010875872]

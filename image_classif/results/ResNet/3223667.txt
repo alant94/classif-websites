@@ -1,0 +1,2 @@
+[u'binder', 0.16611758, u'web_site', 0.072099887, u'lotion', 0.069058605, u'nipple', 0.056342412, u'Band_Aid', 0.043209791]
+[u'punching_bag', 0.082451172, u'bow_tie', 0.050580058, u'neck_brace', 0.041830208, u'oboe', 0.035662226, u'Windsor_tie', 0.033918049]

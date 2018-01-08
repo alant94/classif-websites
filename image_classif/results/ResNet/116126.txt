@@ -1,0 +1,5 @@
+[u'laptop', 0.13663879, u'coral_reef', 0.05461508, u'jigsaw_puzzle', 0.039001219, u'hair_slide', 0.038885586, u'prayer_rug', 0.032509465]
+[u'comic_book', 0.39223883, u'slot', 0.16122492, u'toyshop', 0.050191842, u'ocarina', 0.039304838, u'whistle', 0.019140519]
+[u'digital_clock', 0.61782312, u'scoreboard', 0.056066114, u'stopwatch', 0.050928839, u'analog_clock', 0.027010828, u'traffic_light', 0.017975537]
+[u'comic_book', 0.082623631, u'gas_pump', 0.077018209, u'wall_clock', 0.039165087, u'analog_clock', 0.031051468, u'slot', 0.02975902]
+[u"carpenter's_kit", 0.45699471, u'chain_saw', 0.15262029, u'screwdriver', 0.037220165, u'combination_lock', 0.020584295, u'stopwatch', 0.015914079]

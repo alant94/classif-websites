@@ -1,0 +1,4 @@
+[u'Lakeland_terrier', 0.075868517, u'cheetah', 0.058287915, u'golden_retriever', 0.05039626, u'hare', 0.041420195, u'brown_bear', 0.024675937]
+[u'prairie_chicken', 0.38283563, u'black_grouse', 0.10290958, u'clumber', 0.080539659, u'Dandie_Dinmont', 0.054312836, u'Sealyham_terrier', 0.049789976]
+[u'flat-coated_retriever', 0.8799367, u'curly-coated_retriever', 0.05634493, u'German_short-haired_pointer', 0.046127416, u'Gordon_setter', 0.0084558623, u'English_setter', 0.002508068]
+[u'tripod', 0.71747321, u'lawn_mower', 0.034285184, u'warthog', 0.027496947, u'hartebeest', 0.023812527, u'giant_schnauzer', 0.014870643]

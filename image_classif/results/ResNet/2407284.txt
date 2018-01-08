@@ -1,0 +1,4 @@
+[u'washbasin', 0.16511853, u'envelope', 0.094979331, u'digital_clock', 0.072825961, u'analog_clock', 0.046787642, u'scoreboard', 0.040007971]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'crossword_puzzle', 0.79902899, u'digital_clock', 0.14963381, u'prayer_rug', 0.010249901, u'digital_watch', 0.0068150093, u'wall_clock', 0.0062786876]
+[u'rugby_ball', 0.5041827, u'volleyball', 0.19766328, u'tennis_ball', 0.10073552, u'gasmask', 0.021066133, u'coffee_mug', 0.017990891]

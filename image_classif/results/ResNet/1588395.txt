@@ -1,0 +1,6 @@
+[u'steel_drum', 0.080335744, u'spotlight', 0.077864185, u'bikini', 0.054769903, u'Siberian_husky', 0.046580728, u'loupe', 0.044905771]
+[u'boa_constrictor', 0.43309882, u'king_snake', 0.22214493, u'oxygen_mask', 0.07916449, u'banded_gecko', 0.039150435, u'rock_python', 0.032776818]
+[u'brassiere', 0.21583237, u'lighter', 0.070333287, u'hand_blower', 0.058413371, u'bikini', 0.049144395, u'sombrero', 0.049080044]
+[u'brassiere', 0.13896932, u'bikini', 0.095778368, u"potter's_wheel", 0.05618998, u'neck_brace', 0.049662162, u'face_powder', 0.042666703]
+[u'planetarium', 0.69638729, u'ping-pong_ball', 0.060916007, u'space_shuttle', 0.049392812, u'baseball', 0.035045832, u'gong', 0.031196551]
+[u'face_powder', 0.68554527, u'gong', 0.051873393, u'drum', 0.043745019, u'book_jacket', 0.019449536, u'envelope', 0.0093766563]

@@ -1,0 +1,1 @@
+[u'Arabian_camel', 0.5046652, u'llama', 0.1305671, u'bison', 0.072583094, u'lakeside', 0.064844459, u'fountain', 0.019028144]

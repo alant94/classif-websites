@@ -1,0 +1,8 @@
+[u'Arabian_camel', 0.95545572, u'sorrel', 0.015252203, u'swimming_trunks', 0.0062594791, u'worm_fence', 0.0037187266, u'plow', 0.0032587328]
+[u'fountain', 0.2889477, u'ski', 0.18631046, u'bearskin', 0.18084748, u'cloak', 0.037435982, u'picket_fence', 0.029070642]
+[u'fountain', 0.98791122, u'pedestal', 0.0054308358, u'American_egret', 0.0018268456, u'little_blue_heron', 0.0017654106, u'ear', 0.00060937752]
+[u'fountain', 0.20081238, u'thatch', 0.085561052, u'crane', 0.081711166, u'picket_fence', 0.066049471, u'king_penguin', 0.065594554]
+[u'alp', 0.41598538, u'valley', 0.3614333, u'cliff', 0.039648902, u'megalith', 0.028126759, u'lakeside', 0.0256282]
+[u'crane', 0.65058887, u'king_penguin', 0.19196683, u'llama', 0.037784327, u'Arabian_camel', 0.021834757, u'brassiere', 0.015180245]
+[u'king_penguin', 0.73929882, u'fountain', 0.11132561, u'crane', 0.040085286, u'coral_fungus', 0.034350187, u'vulture', 0.0076022269]
+[u'bighorn', 0.1869323, u'ibex', 0.13569492, u'fountain', 0.082896531, u'obelisk', 0.067055069, u'airship', 0.052892525]

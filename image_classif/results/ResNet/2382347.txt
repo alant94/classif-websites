@@ -1,0 +1,6 @@
+[u'cardigan', 0.62202585, u'sarong', 0.034601938, u'jean', 0.032708477, u'miniskirt', 0.029734839, u'stole', 0.017845863]
+[u'dung_beetle', 0.35236606, u'tailed_frog', 0.1934897, u'sea_cucumber', 0.066405043, u'horned_viper', 0.04934286, u'bolete', 0.036863413]
+[u'fountain', 0.11944962, u'birdhouse', 0.053126071, u'spider_web', 0.051712785, u'doormat', 0.048296336, u'chain', 0.035843499]
+[u'prison', 0.70437372, u'palace', 0.062494487, u'mobile_home', 0.055751987, u'barbershop', 0.018428482, u'picket_fence', 0.016087379]
+[u'cardigan', 0.26229423, u'jackfruit', 0.24894981, u'swab', 0.043331288, u'apron', 0.031180782, u'jean', 0.023580784]
+[u'fountain', 0.15878229, u'rapeseed', 0.13678023, u'chainlink_fence', 0.051732685, u'greenhouse', 0.049903683, u'obelisk', 0.040979788]

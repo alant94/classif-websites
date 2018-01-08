@@ -1,0 +1,6 @@
+[u'spotlight', 0.073927633, u'barn_spider', 0.064964898, u'chambered_nautilus', 0.05087724, u'space_heater', 0.049916431, u'solar_dish', 0.049468689]
+[u'theater_curtain', 0.24457718, u'fire_screen', 0.07823313, u'book_jacket', 0.035773035, u'web_site', 0.031876311, u'volcano', 0.031211944]
+[u'toilet_seat', 0.50513685, u'Petri_dish', 0.38716152, u'face_powder', 0.040824898, u'gong', 0.015965305, u"potter's_wheel", 0.0056105037]
+[u'whiskey_jug', 0.32881129, u'vase', 0.19010873, u'nipple', 0.048065364, u'gong', 0.039058458, u'spotlight', 0.037071276]
+[u'magnetic_compass', 0.35630018, u'maraca', 0.15827666, u'spotlight', 0.15253679, u'bolo_tie', 0.10362383, u'barometer', 0.060965426]
+[u'chambered_nautilus', 0.30224368, u'ocarina', 0.15803373, u'whiskey_jug', 0.13168322, u'vase', 0.030212725, u'space_shuttle', 0.020461969]

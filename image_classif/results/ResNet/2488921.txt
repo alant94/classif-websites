@@ -1,0 +1,4 @@
+[u'hartebeest', 0.35634881, u'wallaby', 0.20201389, u'gazelle', 0.078929223, u'wood_rabbit', 0.067889631, u'bighorn', 0.059686162]
+[u'book_jacket', 0.5058223, u'Band_Aid', 0.097230196, u'comic_book', 0.067186154, u'web_site', 0.033955786, u'jersey', 0.014972119]
+[u'book_jacket', 0.39242765, u'comic_book', 0.16488789, u'beer_bottle', 0.022048093, u'butcher_shop', 0.018342169, u'quail', 0.017263614]
+[u'loupe', 0.25015444, u'can_opener', 0.13632697, u'rifle', 0.11888099, u'assault_rifle', 0.10384075, u'revolver', 0.036644593]

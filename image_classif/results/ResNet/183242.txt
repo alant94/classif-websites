@@ -1,0 +1,4 @@
+[u'barbell', 0.095054895, u'crash_helmet', 0.086727761, u'comic_book', 0.083688445, u'bobsled', 0.061763741, u'bicycle-built-for-two', 0.060208924]
+[u'Band_Aid', 0.28515911, u'moving_van', 0.10716498, u'scoreboard', 0.087421149, u'barbershop', 0.058743943, u'web_site', 0.044999752]
+[u'web_site', 0.59370321, u'monitor', 0.20078869, u'pay-phone', 0.063993737, u'screen', 0.050599944, u'iPod', 0.031625796]
+[u'web_site', 0.37165138, u'digital_clock', 0.12092353, u'nematode', 0.023519216, u'stopwatch', 0.019885875, u'lipstick', 0.01827292]

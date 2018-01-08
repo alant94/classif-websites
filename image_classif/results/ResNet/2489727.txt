@@ -1,0 +1,5 @@
+[u'screen', 0.1789421, u'prayer_rug', 0.13760589, u'window_screen', 0.10270225, u'handkerchief', 0.094947375, u'fire_screen', 0.067466736]
+[u'book_jacket', 0.23335753, u'pickelhaube', 0.2194919, u'military_uniform', 0.1753318, u'assault_rifle', 0.09386196, u'bulletproof_vest', 0.074454285]
+[u'cliff', 0.21587451, u'cliff_dwelling', 0.091200478, u'wallet', 0.055183187, u'chest', 0.051099855, u'prayer_rug', 0.041863453]
+[u'barrow', 0.20245247, u'tub', 0.083171345, u'apiary', 0.069959261, u'barber_chair', 0.040321749, u'tractor', 0.030703939]
+[u'knot', 0.096578635, u'oscilloscope', 0.069691233, u'mousetrap', 0.063761689, u'stethoscope', 0.056924257, u'hair_slide', 0.056601975]

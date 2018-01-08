@@ -1,0 +1,4 @@
+[u'comic_book', 0.24797378, u'web_site', 0.096006386, u'hatchet', 0.058868021, u'book_jacket', 0.032076668, u'punching_bag', 0.02590183]
+[u'toilet_seat', 0.32176307, u'puck', 0.13219671, u'cassette', 0.12282116, u'shield', 0.066797346, u'gong', 0.038383298]
+[u'lighter', 0.26419023, u'shield', 0.14928371, u'Band_Aid', 0.086148746, u'digital_clock', 0.050625302, u'envelope', 0.032607663]
+[u'oil_filter', 0.43081865, u'whiskey_jug', 0.39487568, u'milk_can', 0.045941148, u'candle', 0.029116374, u'face_powder', 0.018091464]

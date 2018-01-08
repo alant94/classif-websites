@@ -1,0 +1,6 @@
+[u'puck', 0.38154414, u'slot', 0.15262762, u'coffee_mug', 0.10581456, u'web_site', 0.091407433, u'drum', 0.022593489]
+[u'book_jacket', 0.91455048, u'packet', 0.027323985, u'comic_book', 0.025658254, u'web_site', 0.010407179, u'menu', 0.0074449312]
+[u'puck', 0.2988373, u'buckle', 0.20815901, u'lighter', 0.060786117, u'bolo_tie', 0.056211397, u'wall_clock', 0.047675639]
+[u'book_jacket', 0.92949349, u'carton', 0.016550364, u'packet', 0.0088194059, u'comic_book', 0.0034670713, u'street_sign', 0.0023585155]
+[u'packet', 0.16749227, u'oil_filter', 0.13233791, u'web_site', 0.12433966, u'menu', 0.052872203, u'book_jacket', 0.034224495]
+[u'suit', 0.33760509, u'Windsor_tie', 0.071030512, u'Sealyham_terrier', 0.032180279, u'Kerry_blue_terrier', 0.028697073, u'cornet', 0.028296201]

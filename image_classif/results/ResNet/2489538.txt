@@ -1,0 +1,5 @@
+[u'ski', 0.96808749, u'alp', 0.016949583, u'shovel', 0.010432411, u'mountain_bike', 0.0015529349, u'bannister', 0.00044394925]
+[u'hartebeest', 0.66461444, u'fountain', 0.08597637, u'gazelle', 0.041416924, u'bison', 0.032475021, u'ox', 0.025029263]
+[u'boathouse', 0.70833915, u'lakeside', 0.14212698, u'pier', 0.030236896, u'web_site', 0.028380863, u'brass', 0.01197364]
+[u'digital_clock', 0.20842595, u'street_sign', 0.091768667, u'shield', 0.057562988, u'ambulance', 0.051053941, u'jersey', 0.027424196]
+[u'lakeside', 0.76342475, u'valley', 0.059432473, u'alp', 0.042848002, u'maze', 0.031465441, u'volcano', 0.0093860356]

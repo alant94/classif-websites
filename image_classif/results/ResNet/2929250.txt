@@ -1,0 +1,3 @@
+[u'swing', 0.083030403, u'bearskin', 0.056681972, u'candle', 0.048467938, u'polecat', 0.037744492, u'hair_slide', 0.025299305]
+[u'gong', 0.53467214, u'cassette', 0.27856898, u'cassette_player', 0.088687018, u'mouse', 0.019286811, u'loudspeaker', 0.016047958]
+[u'abaya', 0.24035873, u'sombrero', 0.036620893, u'theater_curtain', 0.033409003, u'prison', 0.029232439, u'guillotine', 0.024617391]

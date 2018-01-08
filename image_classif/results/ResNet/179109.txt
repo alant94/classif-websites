@@ -1,0 +1,2 @@
+[u'comic_book', 0.67349607, u'book_jacket', 0.24054284, u'web_site', 0.018001614, u'remote_control', 0.0079008043, u'rifle', 0.0031510601]
+[u'comic_book', 0.58072203, u'book_jacket', 0.29693437, u'web_site', 0.016625386, u'remote_control', 0.0096824989, u'street_sign', 0.0057710521]

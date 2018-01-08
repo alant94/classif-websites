@@ -1,0 +1,3 @@
+[u'street_sign', 0.14851047, u'web_site', 0.14822316, u'book_jacket', 0.08897505, u'scoreboard', 0.018951235, u'cash_machine', 0.015015778]
+[u'jersey', 0.082654439, u'pick', 0.079935446, u'coffee_mug', 0.039066397, u'menu', 0.025469741, u'oil_filter', 0.025463415]
+[u'menu', 0.90758091, u'web_site', 0.081253879, u'television', 0.0024384521, u'envelope', 0.0024148379, u'book_jacket', 0.001501504]

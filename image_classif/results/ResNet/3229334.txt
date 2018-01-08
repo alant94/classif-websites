@@ -1,0 +1,8 @@
+[u'book_jacket', 0.39636397, u'screen', 0.1148439, u'scoreboard', 0.10005283, u'binder', 0.044635389, u'jersey', 0.034023747]
+[u'screen', 0.60850328, u'oscilloscope', 0.19736679, u'monitor', 0.09737055, u'cash_machine', 0.038258418, u'home_theater', 0.018993353]
+[u'book_jacket', 0.277509, u'jersey', 0.1683007, u'binder', 0.099181287, u'screen', 0.074934259, u'perfume', 0.072593667]
+[u'binder', 0.22121647, u'book_jacket', 0.1683671, u'jersey', 0.10778186, u'screen', 0.072204433, u'perfume', 0.051391099]
+[u'screen', 0.16037591, u'book_jacket', 0.12507229, u'jersey', 0.11528112, u'binder', 0.089292519, u'scoreboard', 0.067260422]
+[u'book_jacket', 0.47753873, u'screen', 0.14672878, u'envelope', 0.038851164, u'monitor', 0.036168739, u'scoreboard', 0.034053084]
+[u'barn', 0.22506545, u'planetarium', 0.21558759, u'bell_cote', 0.11730687, u'solar_dish', 0.062519945, u'prison', 0.041971982]
+[u'screen', 0.16489634, u'binder', 0.15884565, u'book_jacket', 0.14706928, u'jersey', 0.063486196, u'scoreboard', 0.058293395]

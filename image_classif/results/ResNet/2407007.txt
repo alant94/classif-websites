@@ -1,0 +1,7 @@
+[u'promontory', 0.50184435, u'dock', 0.11820953, u'beacon', 0.069028385, u'seashore', 0.068611361, u'cliff', 0.065458238]
+[u'caldron', 0.10769477, u'solar_dish', 0.087569676, u'toilet_seat', 0.071386047, u'tub', 0.045172974, u'steel_drum', 0.044368271]
+[u'hermit_crab', 0.9760586, u'conch', 0.0076309391, u'bolete', 0.0069470755, u'rock_crab', 0.0045740004, u'Dungeness_crab', 0.001399151]
+[u'acorn', 0.21711704, u'snail', 0.14250661, u'necklace', 0.081923835, u'cardigan', 0.072516568, u'knot', 0.066787869]
+[u'shield', 0.11449694, u'strainer', 0.069765523, u'analog_clock', 0.060627967, u'digital_watch', 0.055147853, u'screwdriver', 0.050521668]
+[u'container_ship', 0.18507317, u'seashore', 0.1094005, u'promontory', 0.087667167, u'dock', 0.083191715, u'sundial', 0.054049902]
+[u'comic_book', 0.069419555, u'rifle', 0.041880742, u'gong', 0.038755044, u'web_site', 0.037201028, u'electric_fan', 0.031251583]

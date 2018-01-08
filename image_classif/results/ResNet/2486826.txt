@@ -1,0 +1,2 @@
+[u'vizsla', 0.47920445, u'Rhodesian_ridgeback', 0.16524278, u'Weimaraner', 0.080044076, u'Great_Dane', 0.037560832, u'redbone', 0.033584557]
+[u'microphone', 0.8586086, u'stage', 0.12864651, u'lipstick', 0.0026707521, u'whistle', 0.0017849115, u'syringe', 0.0008642404]

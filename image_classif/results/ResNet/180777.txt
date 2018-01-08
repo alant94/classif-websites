@@ -1,0 +1,3 @@
+[u'web_site', 0.28078887, u'envelope', 0.12432653, u'rifle', 0.058027394, u'nipple', 0.037984628, u'toilet_seat', 0.019917415]
+[u'envelope', 0.37073711, u'web_site', 0.14365479, u'remote_control', 0.033356175, u'can_opener', 0.029496141, u'rifle', 0.029310845]
+[u'iPod', 0.26313007, u'envelope', 0.1587052, u'web_site', 0.11273887, u'laptop', 0.031603351, u'gong', 0.030453853]

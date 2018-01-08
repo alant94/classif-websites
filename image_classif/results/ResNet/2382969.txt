@@ -1,0 +1,4 @@
+[u'street_sign', 0.10883854, u'book_jacket', 0.10829622, u'wall_clock', 0.0629391, u'web_site', 0.033872679, u'envelope', 0.032214861]
+[u'web_site', 0.26426867, u'comic_book', 0.15103079, u'slot', 0.082982019, u'cinema', 0.078754045, u'barbershop', 0.041424662]
+[u'hatchet', 0.46365616, u'corkscrew', 0.17186211, u'cleaver', 0.13769926, u'shield', 0.048343573, u'can_opener', 0.024855088]
+[u'whistle', 0.32202336, u'face_powder', 0.15346408, u'perfume', 0.14667, u'hair_spray', 0.087219991, u'lotion', 0.071060047]

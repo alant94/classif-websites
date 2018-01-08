@@ -1,0 +1,4 @@
+[u'coil', 0.21600576, u'traffic_light', 0.15174355, u'container_ship', 0.063520595, u'church', 0.047434062, u'bell_cote', 0.045382921]
+[u'web_site', 0.57205045, u'nematode', 0.016187627, u'theater_curtain', 0.014112697, u'envelope', 0.010258881, u'lipstick', 0.0077207959]
+[u'prayer_rug', 0.078090273, u'wall_clock', 0.048782598, u'binder', 0.039660387, u'cash_machine', 0.036073744, u'digital_clock', 0.031637661]
+[u'china_cabinet', 0.45488781, u'dining_table', 0.32141531, u'restaurant', 0.065295681, u'sliding_door', 0.030346898, u'rocking_chair', 0.018967664]

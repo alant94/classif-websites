@@ -1,0 +1,3 @@
+[u'digital_watch', 0.096371487, u'oil_filter', 0.072151653, u'switch', 0.062236533, u'stopwatch', 0.060050938, u'digital_clock', 0.054646451]
+[u'digital_clock', 0.8629961, u'screen', 0.040393826, u'digital_watch', 0.02136665, u'web_site', 0.014613275, u'maze', 0.0090562208]
+[u'traffic_light', 0.31437156, u'lipstick', 0.25179505, u'stage', 0.069519229, u'spotlight', 0.068993688, u'fountain', 0.068106502]

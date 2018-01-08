@@ -1,0 +1,8 @@
+[u'web_site', 0.18611087, u'screen', 0.055209156, u'oscilloscope', 0.052388452, u'cash_machine', 0.038622413, u'laptop', 0.029032176]
+[u'dial_telephone', 0.99995303, u'pay-phone', 3.8702172e-05, u'cassette_player', 1.4599989e-06, u'can_opener', 1.2014492e-06, u'digital_watch', 1.1101886e-06]
+[u'television', 0.14157756, u'web_site', 0.12211821, u'streetcar', 0.059241273, u'bullet_train', 0.043195538, u'neck_brace', 0.034071464]
+[u'book_jacket', 0.83585924, u'packet', 0.04969639, u'carton', 0.027860485, u'envelope', 0.01386422, u'bath_towel', 0.01385818]
+[u'envelope', 0.50270301, u'stopwatch', 0.13273701, u'web_site', 0.035128094, u'menu', 0.023268173, u'rule', 0.014727221]
+[u'book_jacket', 0.74591929, u'carton', 0.061845988, u'paper_towel', 0.0082679037, u'cash_machine', 0.0078760358, u'barrel', 0.0072860532]
+[u'web_site', 0.25420406, u'padlock', 0.10048056, u'table_lamp', 0.096381053, u'dining_table', 0.084271669, u'hook', 0.062144876]
+[u'gas_pump', 0.14722717, u'brass', 0.12926205, u'web_site', 0.077601723, u'sliding_door', 0.06879779, u'moving_van', 0.041590724]

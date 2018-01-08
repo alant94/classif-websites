@@ -1,0 +1,3 @@
+[u'iPod', 0.15894131, u'rubber_eraser', 0.072924078, u'web_site', 0.062889434, u'cassette', 0.054085411, u'remote_control', 0.050003566]
+[u'web_site', 0.7929765, u'envelope', 0.061471116, u'mountain_tent', 0.0079828743, u'iron', 0.0048046093, u'plunger', 0.0046467078]
+[u'analog_clock', 0.50976056, u'knee_pad', 0.06634561, u'web_site', 0.037567534, u'lighter', 0.021392202, u'ski', 0.021031274]

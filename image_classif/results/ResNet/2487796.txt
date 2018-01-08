@@ -1,0 +1,4 @@
+[u'restaurant', 0.17375092, u'four-poster', 0.11758369, u'throne', 0.10176273, u'studio_couch', 0.085252725, u'barber_chair', 0.043977052]
+[u'rain_barrel', 0.27946585, u'gas_pump', 0.11601342, u'patio', 0.079162277, u'picket_fence', 0.077625811, u'sliding_door', 0.048527218]
+[u'mobile_home', 0.55202931, u'recreational_vehicle', 0.31566611, u'boathouse', 0.023263898, u'birdhouse', 0.01656403, u'church', 0.0073810248]
+[u'binder', 0.061818279, u'web_site', 0.06009135, u'handkerchief', 0.04893611, u'shield', 0.045402613, u'envelope', 0.037662439]

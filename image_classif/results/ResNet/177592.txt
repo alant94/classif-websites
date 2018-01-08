@@ -1,0 +1,7 @@
+[u'triumphal_arch', 0.22330587, u'flagpole', 0.14109091, u'steel_arch_bridge', 0.13193743, u'obelisk', 0.059860393, u'safety_pin', 0.038178563]
+[u'crane', 0.27762616, u'palace', 0.075595953, u'cab', 0.062596872, u'fountain', 0.060887869, u'library', 0.058920071]
+[u'lakeside', 0.17698769, u'triumphal_arch', 0.058936656, u'palace', 0.052977167, u'seashore', 0.050076783, u'patio', 0.048612494]
+[u'bell_cote', 0.13841902, u'lakeside', 0.083888873, u'steel_arch_bridge', 0.081475072, u'crane', 0.076744795, u'pier', 0.075277142]
+[u'palace', 0.088563882, u'fountain', 0.079586461, u'crane', 0.056949005, u'cab', 0.055043872, u'traffic_light', 0.043037817]
+[u'cinema', 0.4954474, u'church', 0.093209781, u'fountain', 0.07940156, u'palace', 0.04641255, u'crane', 0.031839311]
+[u'cab', 0.30065969, u'triumphal_arch', 0.14726278, u'obelisk', 0.094839834, u'traffic_light', 0.045230929, u'pedestal', 0.040622029]

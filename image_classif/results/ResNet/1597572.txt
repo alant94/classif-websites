@@ -1,0 +1,6 @@
+[u'rocking_chair', 0.39608353, u'chain_saw', 0.10540919, u'drum', 0.067374952, u'barber_chair', 0.045102391, u'punching_bag', 0.040522952]
+[u'window_screen', 0.6743511, u'fire_screen', 0.16547795, u'abaya', 0.023010954, u'sliding_door', 0.021669531, u'book_jacket', 0.017186033]
+[u'baboon', 0.49630791, u'guenon', 0.054785572, u'macaque', 0.031353567, u'vulture', 0.015945146, u'hook', 0.014342578]
+[u'brassiere', 0.85013539, u'bikini', 0.061993014, u'wig', 0.03661738, u'miniskirt', 0.016572425, u'maillot', 0.013613669]
+[u'Shih-Tzu', 0.13206334, u'papillon', 0.069493577, u'Chihuahua', 0.060527794, u'toilet_seat', 0.054042608, u'collie', 0.041063014]
+[u'ice_bear', 0.22861633, u'redbone', 0.12023968, u'Indian_elephant', 0.094884753, u'chow', 0.047529303, u'African_elephant', 0.04540772]

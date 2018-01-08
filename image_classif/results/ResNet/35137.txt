@@ -1,0 +1,7 @@
+[u'matchstick', 0.1120861, u'theater_curtain', 0.10309645, u'red_wine', 0.098453917, u'web_site', 0.086818308, u'digital_clock', 0.06058104]
+[u'bookshop', 0.81818223, u'library', 0.12382663, u'bookcase', 0.053223655, u'comic_book', 0.0044748448, u'wool', 2.1173884e-05]
+[u'castle', 0.99648845, u'monastery', 0.0016558401, u'church', 0.00029748568, u'fountain', 0.0001951759, u'jigsaw_puzzle', 0.00017636205]
+[u'suit', 0.69365215, u'book_jacket', 0.067835927, u'Windsor_tie', 0.014703828, u'sax', 0.012720528, u'microphone', 0.011851376]
+[u'suit', 0.70538926, u'Windsor_tie', 0.10321831, u'military_uniform', 0.028025055, u'bolo_tie', 0.010060431, u'notebook', 0.0083933333]
+[u'chainlink_fence', 0.18625613, u'parallel_bars', 0.16239816, u'prison', 0.13872965, u'bannister', 0.1222333, u'slide_rule', 0.072304972]
+[u'shower_curtain', 0.57306725, u'laptop', 0.13061945, u'book_jacket', 0.045051098, u'binder', 0.024652123, u'carton', 0.021843204]

@@ -1,0 +1,6 @@
+[u'lakeside', 0.22323284, u'canoe', 0.21797599, u'boathouse', 0.045974817, u'castle', 0.045792762, u'breakwater', 0.043132849]
+[u'Arabian_camel', 0.97458601, u'llama', 0.011322907, u'bighorn', 0.0065504778, u'ram', 0.0028947454, u'bison', 0.0027687708]
+[u'web_site', 0.84409606, u'digital_clock', 0.042801559, u'bulletproof_vest', 0.013965897, u'analog_clock', 0.0051342547, u'whistle', 0.0047560576]
+[u'park_bench', 0.10724623, u'wallaby', 0.072016306, u'zebra', 0.06408938, u'warthog', 0.042836756, u'swing', 0.039778199]
+[u'bighorn', 0.28275815, u'ram', 0.20334534, u'ibex', 0.14887667, u'Arabian_camel', 0.13921779, u'limpkin', 0.10457314]
+[u'park_bench', 0.31489411, u'swing', 0.049053755, u'wallaby', 0.029520549, u'English_setter', 0.028722214, u'birdhouse', 0.023615528]

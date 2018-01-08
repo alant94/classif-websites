@@ -1,0 +1,4 @@
+[u'trombone', 0.17812119, u'traffic_light', 0.0950955, u'web_site', 0.054615028, u'can_opener', 0.046915077, u'sax', 0.046579089]
+[u'palace', 0.55390453, u'obelisk', 0.095784962, u'fountain', 0.078808755, u'triumphal_arch', 0.072090976, u'pedestal', 0.031977732]
+[u'palace', 0.6215536, u'church', 0.18276414, u'dome', 0.041459218, u'triumphal_arch', 0.028164843, u'monastery', 0.027060125]
+[u'palace', 0.75026906, u'castle', 0.046091709, u'streetcar', 0.020617813, u'gondola', 0.019634388, u'cab', 0.01476525]

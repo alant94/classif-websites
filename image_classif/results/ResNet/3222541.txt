@@ -1,0 +1,2 @@
+[u'church', 0.86771679, u'monastery', 0.040949885, u'bell_cote', 0.028225267, u'castle', 0.024244843, u'mosque', 0.017989783]
+[u'picket_fence', 0.20279001, u'bicycle-built-for-two', 0.048223037, u'kimono', 0.037615586, u'throne', 0.032233331, u'altar', 0.030527672]

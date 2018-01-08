@@ -1,0 +1,6 @@
+[u'knee_pad', 0.069957517, u'bathtub', 0.063403651, u'limousine', 0.047852989, u'pole', 0.046359457, u'seat_belt', 0.031561267]
+[u'bikini', 0.38145691, u'maillot', 0.12846068, u'swimming_trunks', 0.10421472, u'pole', 0.080601893, u'volleyball', 0.061340149]
+[u'swimming_trunks', 0.46978989, u'bikini', 0.2747781, u'comic_book', 0.080722846, u'brassiere', 0.029257189, u'maillot', 0.025220286]
+[u'handkerchief', 0.13450503, u'maillot', 0.092729956, u'comic_book', 0.069088876, u'bib', 0.066072956, u'ballpoint', 0.051500257]
+[u'comic_book', 0.74083722, u'maillot', 0.10664907, u'maillot', 0.097142503, u'bikini', 0.049164113, u'brassiere', 0.0013928695]
+[u'comic_book', 0.72326213, u'balloon', 0.10101015, u'punching_bag', 0.063119881, u'toyshop', 0.01431749, u'parachute', 0.007725121]

@@ -1,0 +1,4 @@
+[u'centipede', 0.077259369, u'book_jacket', 0.074638158, u'buckle', 0.065468229, u'brass', 0.055363819, u'hair_slide', 0.045489032]
+[u'entertainment_center', 0.59640294, u'home_theater', 0.23056313, u'television', 0.16013406, u'desk', 0.0038431457, u'upright', 0.0022116525]
+[u'patio', 0.25194442, u'restaurant', 0.19576648, u'dining_table', 0.16866858, u'throne', 0.086793005, u'grand_piano', 0.068844408]
+[u'restaurant', 0.20758402, u'patio', 0.068251997, u'entertainment_center', 0.064075164, u'grand_piano', 0.0600674, u'slot', 0.040915344]

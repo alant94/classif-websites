@@ -1,0 +1,3 @@
+[u'volcano', 0.41524154, u'pole', 0.044856694, u'promontory', 0.034468934, u'beacon', 0.031988889, u'corn', 0.025422573]
+[u'crossword_puzzle', 0.31712002, u'digital_clock', 0.30905512, u'analog_clock', 0.066476688, u'digital_watch', 0.059618481, u'scoreboard', 0.039658397]
+[u'medicine_chest', 0.61654747, u'wardrobe', 0.071810029, u'bookcase', 0.030821403, u'desk', 0.024354234, u'washbasin', 0.020933455]

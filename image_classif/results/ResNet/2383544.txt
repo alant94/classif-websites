@@ -1,0 +1,5 @@
+[u'book_jacket', 0.12509453, u'web_site', 0.089163348, u'red_wine', 0.086593576, u'binoculars', 0.074485868, u'coffee_mug', 0.055066112]
+[u'web_site', 0.30133206, u'book_jacket', 0.099502005, u'menu', 0.067664966, u'laptop', 0.02239804, u'binder', 0.021876154]
+[u'wine_bottle', 0.33560124, u'lotion', 0.20110963, u'red_wine', 0.19520786, u'whiskey_jug', 0.10188999, u'pill_bottle', 0.077741317]
+[u'street_sign', 0.20995173, u'digital_clock', 0.12615612, u'book_jacket', 0.10766861, u'scoreboard', 0.053438216, u'web_site', 0.027998514]
+[u'web_site', 0.83540642, u'menu', 0.098844647, u'envelope', 0.034589637, u'book_jacket', 0.0076905484, u'binder', 0.001336578]

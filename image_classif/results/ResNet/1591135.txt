@@ -1,0 +1,5 @@
+[u'brassiere', 0.93395382, u'bikini', 0.02754302, u'maillot', 0.0024012064, u'maillot', 0.0012833282, u'hook', 0.001222625]
+[u'oxygen_mask', 0.99958426, u'gasmask', 0.00022988539, u'snorkel', 5.0680763e-05, u'plunger', 2.9922019e-05, u'gong', 2.8070775e-05]
+[u'mailbag', 0.087648265, u'neck_brace', 0.087494351, u'nipple', 0.047987409, u'toilet_seat', 0.04384071, u'toaster', 0.036772754]
+[u'web_site', 0.21042745, u'candle', 0.097944915, u'theater_curtain', 0.062846571, u'book_jacket', 0.053298015, u'church', 0.042802781]
+[u'harmonica', 0.941872, u'lipstick', 0.014404011, u'remote_control', 0.010315486, u'ping-pong_ball', 0.0052626543, u'face_powder', 0.0047355732]

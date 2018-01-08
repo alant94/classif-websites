@@ -1,0 +1,2 @@
+[u'shower_curtain', 0.15283246, u'plunger', 0.097725868, u'paper_towel', 0.068079755, u'candle', 0.058909383, u'washbasin', 0.04997167]
+[u'quilt', 0.20670345, u'prayer_rug', 0.18409026, u'tray', 0.091846563, u'hamper', 0.062545061, u'crossword_puzzle', 0.048922643]

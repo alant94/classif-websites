@@ -1,0 +1,5 @@
+[u'oxygen_mask', 0.22550431, u'bow', 0.15297417, u'pay-phone', 0.072971448, u'chain_saw', 0.038816575, u'hook', 0.024685673]
+[u'envelope', 0.3581883, u'hook', 0.095566623, u'tripod', 0.062795512, u'web_site', 0.032078195, u'assault_rifle', 0.020306801]
+[u'wood_rabbit', 0.18037078, u'fountain', 0.069312893, u'bluetick', 0.048184566, u'lynx', 0.033955239, u'hare', 0.029219607]
+[u'bighorn', 0.37576109, u'water_buffalo', 0.31867293, u'bison', 0.12879026, u'ram', 0.062262151, u'ibex', 0.041999105]
+[u'king_crab', 0.51253927, u'ibex', 0.2448428, u'spiny_lobster', 0.062215496, u'ox', 0.034366149, u'American_lobster', 0.026241632]

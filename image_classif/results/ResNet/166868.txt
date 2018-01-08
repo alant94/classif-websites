@@ -1,0 +1,1 @@
+[u'ballpoint', 0.22862171, u'academic_gown', 0.052285559, u'lighter', 0.046012368, u'binder', 0.038629912, u'screwdriver', 0.035229668]

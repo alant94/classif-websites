@@ -1,0 +1,2 @@
+[u'stage', 0.48824048, u'altar', 0.084053986, u'digital_clock', 0.065477103, u'traffic_light', 0.041653451, u'scoreboard', 0.038008161]
+[u'web_site', 0.42263034, u'analog_clock', 0.31671363, u'wall_clock', 0.051041413, u'envelope', 0.025831215, u'hand-held_computer', 0.02230935]

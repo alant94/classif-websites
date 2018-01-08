@@ -1,0 +1,1 @@
+[u'dock', 0.37140772, u'boathouse', 0.17344807, u'drilling_platform', 0.10987925, u'paddlewheel', 0.10255791, u'pier', 0.087463133]

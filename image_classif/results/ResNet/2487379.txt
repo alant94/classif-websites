@@ -1,0 +1,1 @@
+[u'snowmobile', 0.92838895, u'crash_helmet', 0.019330474, u'ski', 0.0084330998, u'motor_scooter', 0.0057951831, u'snowplow', 0.0046707396]

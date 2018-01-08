@@ -1,0 +1,7 @@
+[u'slide_rule', 0.36851445, u'book_jacket', 0.26211905, u'comic_book', 0.13568051, u'web_site', 0.12731111, u'envelope', 0.030055953]
+[u'Band_Aid', 0.58786231, u'whistle', 0.082637005, u'ambulance', 0.046694588, u'cash_machine', 0.044469133, u'web_site', 0.032612283]
+[u'flagpole', 0.1054665, u'theater_curtain', 0.099507742, u'bakery', 0.067791954, u'lipstick', 0.061647478, u'restaurant', 0.051160295]
+[u'crossword_puzzle', 0.31855229, u'waffle_iron', 0.21208039, u'scoreboard', 0.16210972, u'digital_clock', 0.072494902, u'book_jacket', 0.054760966]
+[u'buckle', 0.16795622, u'digital_watch', 0.10812397, u'switch', 0.07008291, u'analog_clock', 0.062396549, u'digital_clock', 0.056749564]
+[u'web_site', 0.41629285, u'hand-held_computer', 0.32548216, u'slot', 0.068022847, u'oscilloscope', 0.026575962, u'tennis_ball', 0.0260772]
+[u'comic_book', 0.28598323, u'packet', 0.27732936, u'jigsaw_puzzle', 0.14476626, u'web_site', 0.11029012, u'monitor', 0.040105283]

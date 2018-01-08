@@ -1,0 +1,5 @@
+[u'Windsor_tie', 0.55941987, u'envelope', 0.17104417, u'shovel', 0.087494716, u'umbrella', 0.034768097, u'pinwheel', 0.020322992]
+[u'hamper', 0.22776558, u'binder', 0.088691622, u'lighter', 0.072600171, u"carpenter's_kit", 0.066098794, u'pencil_box', 0.055319488]
+[u'bow', 0.20471711, u'corn', 0.20336415, u'consomme', 0.10840938, u'bucket', 0.05188974, u'frying_pan', 0.04887465]
+[u'mortarboard', 0.24880512, u'vestment', 0.10802856, u'envelope', 0.095128618, u'pick', 0.076685876, u'Windsor_tie', 0.075118706]
+[u'bow', 0.6406737, u'swing', 0.058836024, u'ski', 0.053740546, u'guillotine', 0.018976226, u'horizontal_bar', 0.018650545]

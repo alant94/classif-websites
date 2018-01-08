@@ -1,0 +1,1 @@
+[u'clumber', 0.38691628, u'English_setter', 0.29620922, u'Bedlington_terrier', 0.25101221, u'wire-haired_fox_terrier', 0.027450278, u'German_short-haired_pointer', 0.0073502623]

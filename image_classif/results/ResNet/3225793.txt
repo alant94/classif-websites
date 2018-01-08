@@ -1,0 +1,2 @@
+[u'screen', 0.50416142, u'monitor', 0.14324434, u'cash_machine', 0.082091689, u'television', 0.061613206, u'laptop', 0.027082304]
+[u'abaya', 0.63116384, u'cloak', 0.3046104, u'academic_gown', 0.01397246, u'vestment', 0.0098097622, u'worm_fence', 0.0054760524]

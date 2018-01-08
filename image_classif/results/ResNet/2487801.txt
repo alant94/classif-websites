@@ -1,0 +1,6 @@
+[u'book_jacket', 0.27654126, u'menu', 0.18877576, u'comic_book', 0.11440594, u'envelope', 0.036446381, u'packet', 0.01901992]
+[u'hartebeest', 0.80944461, u'ibex', 0.080054969, u'gazelle', 0.031166166, u'triceratops', 0.012800502, u'warthog', 0.01184448]
+[u'ox', 0.62852699, u'oxcart', 0.066364124, u'hartebeest', 0.047509652, u'Weimaraner', 0.018705798, u'triceratops', 0.018645883]
+[u'book_jacket', 0.062837757, u'hook', 0.034404006, u'fire_screen', 0.028590905, u'window_screen', 0.015357264, u'mink', 0.01319563]
+[u'pick', 0.81885999, u'loupe', 0.023600366, u'remote_control', 0.018630635, u'envelope', 0.014863642, u'mortarboard', 0.010709014]
+[u'ibex', 0.32756642, u'cougar', 0.1449243, u'warthog', 0.090155371, u'bighorn', 0.068420254, u'wild_boar', 0.064533338]

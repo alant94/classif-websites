@@ -1,0 +1,1 @@
+[u'worm_fence', 0.10762838, u'park_bench', 0.07853318, u'golf_ball', 0.040708903, u'maze', 0.039837852, u'stone_wall', 0.034145221]

@@ -1,0 +1,6 @@
+[u'web_site', 0.91473466, u'book_jacket', 0.051902924, u'envelope', 0.016400687, u'menu', 0.0062856558, u'comic_book', 0.0010136005]
+[u'wine_bottle', 0.4496237, u'red_wine', 0.2493366, u'beer_bottle', 0.10639244, u'chocolate_sauce', 0.060491104, u'lotion', 0.017765585]
+[u'web_site', 0.72407794, u'book_jacket', 0.1967607, u'envelope', 0.032652453, u'menu', 0.0091850888, u'packet', 0.004013516]
+[u'book_jacket', 0.63102323, u'web_site', 0.31704342, u'envelope', 0.021738362, u'menu', 0.006727695, u'binder', 0.00406961]
+[u'red_wine', 0.39028987, u'wine_bottle', 0.13934256, u'hamper', 0.049468052, u'beer_bottle', 0.035287153, u'chocolate_sauce', 0.02232719]
+[u'web_site', 0.88935518, u'book_jacket', 0.08191862, u'envelope', 0.0093443291, u'menu', 0.0071032718, u'comic_book', 0.001360215]

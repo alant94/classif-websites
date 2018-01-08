@@ -1,0 +1,2 @@
+[u'diaper', 0.25763777, u'Band_Aid', 0.10252727, u'lotion', 0.10249843, u'sunscreen', 0.038504563, u'tub', 0.032451473]
+[u'gown', 0.25144428, u'hoopskirt', 0.13934186, u'overskirt', 0.12572916, u'sarong', 0.12094218, u'miniskirt', 0.072833382]

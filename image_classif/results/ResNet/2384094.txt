@@ -1,0 +1,7 @@
+[u'slide_rule', 0.1749177, u'web_site', 0.12956026, u'menu', 0.077564463, u'book_jacket', 0.076749288, u'envelope', 0.068392843]
+[u'wine_bottle', 0.58284575, u'red_wine', 0.170313, u'beer_bottle', 0.14558212, u'water_bottle', 0.038252197, u'pop_bottle', 0.022417035]
+[u'cassette', 0.12232509, u'web_site', 0.099124342, u'cash_machine', 0.044847697, u'iron', 0.040362932, u'pay-phone', 0.034779742]
+[u'web_site', 0.15080813, u'oscilloscope', 0.10302415, u'envelope', 0.093440726, u'slide_rule', 0.043466698, u'quill', 0.037166271]
+[u'slide_rule', 0.27027407, u'web_site', 0.12695664, u'menu', 0.068624981, u'envelope', 0.045663893, u'book_jacket', 0.024431236]
+[u'nail', 0.95716703, u'screw', 0.012167105, u'matchstick', 0.0092021236, u'candle', 0.0033326771, u'chime', 0.0026531348]
+[u'brass', 0.1662911, u'slide_rule', 0.13479699, u'menu', 0.05128023, u'web_site', 0.039850306, u'bookshop', 0.027199233]

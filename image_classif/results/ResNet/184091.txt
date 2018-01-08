@@ -1,0 +1,2 @@
+[u'go-kart', 0.22714095, u'racer', 0.12329987, u'sundial', 0.081013545, u'tricycle', 0.078476518, u'ashcan', 0.033370685]
+[u'dam', 0.060564447, u'banjo', 0.022873202, u'trench_coat', 0.021713229, u'sunglass', 0.019357238, u'water_bottle', 0.018533763]

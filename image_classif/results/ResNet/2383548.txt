@@ -1,0 +1,5 @@
+[u'analog_clock', 0.20908177, u'prayer_rug', 0.095018812, u'wall_clock', 0.050495163, u'coffee_mug', 0.038900293, u'puck', 0.033902578]
+[u'chainlink_fence', 0.35154495, u'fountain', 0.067333907, u'brass', 0.065559655, u'menu', 0.063848905, u'barbershop', 0.036883164]
+[u'screen', 0.51729333, u'monitor', 0.37927899, u'desktop_computer', 0.04455056, u'web_site', 0.01521734, u'notebook', 0.01359318]
+[u'packet', 0.12728271, u'lighter', 0.087267183, u'matchstick', 0.065203056, u'face_powder', 0.064640939, u'corn', 0.058003668]
+[u'window_screen', 0.398884, u'fire_screen', 0.19554593, u'book_jacket', 0.088388488, u'medicine_chest', 0.040061899, u'window_shade', 0.033014368]

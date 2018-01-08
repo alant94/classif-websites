@@ -1,0 +1,6 @@
+[u'maillot', 0.11736876, u'book_jacket', 0.11496492, u'bathing_cap', 0.071111046, u'comic_book', 0.037159611, u'gasmask', 0.031405821]
+[u'digital_clock', 0.094615459, u'space_shuttle', 0.088250116, u'Petri_dish', 0.073470756, u'cash_machine', 0.070520885, u'oxygen_mask', 0.058199849]
+[u'web_site', 0.33554119, u'menu', 0.071549155, u'envelope', 0.03487125, u'hook', 0.026384443, u'cleaver', 0.023947662]
+[u'prison', 0.076943666, u'hand-held_computer', 0.053082116, u'Petri_dish', 0.043090541, u'lipstick', 0.038816765, u'Band_Aid', 0.03496534]
+[u'brassiere', 0.18964539, u'diaper', 0.10536347, u'punching_bag', 0.0876671, u'swimming_trunks', 0.073435985, u'barbell', 0.058959015]
+[u'cornet', 0.31704596, u'sax', 0.28480104, u'trombone', 0.027284687, u'aircraft_carrier', 0.018678242, u'isopod', 0.015760737]

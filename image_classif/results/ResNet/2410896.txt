@@ -1,0 +1,4 @@
+[u'digital_clock', 0.49507406, u'digital_watch', 0.19803764, u'switch', 0.10189186, u'Band_Aid', 0.028698124, u'scoreboard', 0.02059298]
+[u'web_site', 0.94951433, u'menu', 0.033126958, u'book_jacket', 0.0012299158, u'hand_blower', 0.0011396431, u'brass', 0.00077641051]
+[u'buckle', 0.71970773, u'lighter', 0.07918714, u'scoreboard', 0.036208007, u'puck', 0.026597498, u'slot', 0.023026736]
+[u'comic_book', 0.79200649, u'book_jacket', 0.064612128, u'bookshop', 0.036846846, u'binder', 0.032139555, u'cassette', 0.012087269]

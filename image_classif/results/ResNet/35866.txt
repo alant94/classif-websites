@@ -1,0 +1,5 @@
+[u'analog_clock', 0.48482108, u'wall_clock', 0.087734222, u'digital_clock', 0.052645277, u'laptop', 0.041528445, u'cup', 0.037303973]
+[u'web_site', 0.99086702, u'menu', 0.0046211043, u'comic_book', 0.0026667728, u'jean', 0.00031216486, u'envelope', 0.00020050832]
+[u'web_site', 0.3927137, u'laptop', 0.13877314, u'iPod', 0.074630253, u'screen', 0.041400012, u'street_sign', 0.040895253]
+[u'web_site', 0.27898932, u'pot', 0.091553263, u'lakeside', 0.085796773, u'picket_fence', 0.049805328, u'lawn_mower', 0.023540925]
+[u'analog_clock', 0.27672637, u'digital_clock', 0.16308199, u'traffic_light', 0.13423754, u'web_site', 0.068863727, u'street_sign', 0.059136581]

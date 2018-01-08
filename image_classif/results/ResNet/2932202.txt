@@ -1,0 +1,7 @@
+[u'fireboat', 0.47030413, u'brassiere', 0.08947622, u'lab_coat', 0.042046189, u'plate_rack', 0.042007912, u'schooner', 0.034336425]
+[u'web_site', 0.063917607, u'hair_spray', 0.057621054, u'sunscreen', 0.051950175, u'face_powder', 0.032194179, u'Sussex_spaniel', 0.026175892]
+[u'Band_Aid', 0.30114132, u'hair_slide', 0.11418481, u'wig', 0.079205073, u'ice_lolly', 0.017139805, u'jersey', 0.016179444]
+[u'snorkel', 0.94537157, u'scuba_diver', 0.036712464, u'coral_reef', 0.0021122454, u'wreck', 0.0018897406, u'loggerhead', 0.0015055913]
+[u'torch', 0.92806101, u'ambulance', 0.015045194, u'street_sign', 0.010978711, u'jersey', 0.0032479819, u'oxcart', 0.0021965597]
+[u'wig', 0.85387158, u'hair_spray', 0.040915109, u'hand_blower', 0.027818888, u'jersey', 0.0062491819, u'Crock_Pot', 0.0039054221]
+[u'book_jacket', 0.044498604, u'pill_bottle', 0.036585633, u'dishwasher', 0.030119902, u'notebook', 0.025719799, u'sunscreen', 0.024285601]

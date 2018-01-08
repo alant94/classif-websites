@@ -1,0 +1,4 @@
+[u'cassette_player', 0.57996517, u'CD_player', 0.2070412, u'tape_player', 0.079220861, u'loudspeaker', 0.042204127, u'cassette', 0.017526429]
+[u'web_site', 0.37480536, u'envelope', 0.045999628, u'analog_clock', 0.028912196, u'rule', 0.027429098, u'carton', 0.023784056]
+[u'printer', 0.55564857, u'photocopier', 0.30593899, u'guillotine', 0.072500475, u'spotlight', 0.021760557, u'mousetrap', 0.0095263775]
+[u'envelope', 0.12273189, u'web_site', 0.1179663, u'analog_clock', 0.043398287, u'stopwatch', 0.032689478, u'binder', 0.025673738]

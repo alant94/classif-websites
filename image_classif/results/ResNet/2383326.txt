@@ -1,0 +1,2 @@
+[u'obelisk', 0.18610843, u'pole', 0.17991723, u'geyser', 0.14796962, u'fountain', 0.071274951, u'beacon', 0.065375298]
+[u'web_site', 0.46673954, u'envelope', 0.25277835, u'menu', 0.029857216, u'comic_book', 0.022136396, u'Band_Aid', 0.010768276]

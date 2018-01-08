@@ -1,0 +1,4 @@
+[u'gong', 0.11723406, u'thimble', 0.11201524, u'tick', 0.065853909, u'face_powder', 0.056408338, u'hair_slide', 0.043096647]
+[u'face_powder', 0.45785546, u'hair_slide', 0.047830265, u'toilet_seat', 0.036781635, u'partridge', 0.028510589, u'hamper', 0.027376285]
+[u'pole', 0.13144866, u'traffic_light', 0.074852593, u'envelope', 0.049435444, u'jersey', 0.046531916, u'beaker', 0.025644129]
+[u'face_powder', 0.16931762, u'washbasin', 0.079812884, u'oil_filter', 0.073348768, u'thimble', 0.060324889, u'gong', 0.058136005]

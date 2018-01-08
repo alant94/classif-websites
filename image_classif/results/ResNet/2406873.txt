@@ -1,0 +1,4 @@
+[u'web_site', 0.20043969, u'safety_pin', 0.15488498, u'nipple', 0.079744689, u'combination_lock', 0.071325235, u'nematode', 0.056688268]
+[u'screw', 0.89871579, u'oil_filter', 0.062027238, u'saltshaker', 0.028327513, u'switch', 0.0054172287, u'spotlight', 0.00098590727]
+[u'iron', 0.554425, u'web_site', 0.20496948, u'hook', 0.023004714, u'comic_book', 0.02072457, u'vacuum', 0.016745625]
+[u'digital_clock', 0.8976928, u'scoreboard', 0.017307745, u'analog_clock', 0.014430635, u'stopwatch', 0.011291451, u'digital_watch', 0.011214928]

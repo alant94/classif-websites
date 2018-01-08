@@ -1,0 +1,7 @@
+[u'television', 0.13411552, u'marimba', 0.0508825, u'umbrella', 0.038722657, u'screen', 0.026767764, u'carton', 0.025330476]
+[u'web_site', 0.18039884, u'butcher_shop', 0.056203421, u'cash_machine', 0.049903885, u'Band_Aid', 0.041134756, u'menu', 0.034393422]
+[u'web_site', 0.17731349, u'screw', 0.09280812, u'iron', 0.054447666, u'cleaver', 0.036078759, u'nematode', 0.032987144]
+[u'web_site', 0.2903353, u'analog_clock', 0.11928367, u'digital_clock', 0.064875513, u'binder', 0.032096833, u'Band_Aid', 0.03088215]
+[u'digital_clock', 0.33677104, u'web_site', 0.093121283, u'envelope', 0.054658122, u'book_jacket', 0.040062081, u'prayer_rug', 0.038154006]
+[u'comic_book', 0.31427857, u'crossword_puzzle', 0.2949703, u'book_jacket', 0.12486066, u'rifle', 0.015816843, u'nail', 0.015680755]
+[u'ice_lolly', 0.79053611, u'pajama', 0.081525981, u'matchstick', 0.01273385, u'Band_Aid', 0.012119061, u'candle', 0.01167686]

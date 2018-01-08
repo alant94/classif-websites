@@ -1,0 +1,3 @@
+[u'piggy_bank', 0.90218288, u'mask', 0.0069294148, u'envelope', 0.006364834, u'letter_opener', 0.0039762822, u'pencil_sharpener', 0.003897188]
+[u'rocking_chair', 0.12519999, u'diaper', 0.11329143, u'teddy', 0.075988233, u'sewing_machine', 0.050920282, u'bassinet', 0.05079367]
+[u'envelope', 0.24234655, u'web_site', 0.058510553, u'toilet_tissue', 0.041252419, u'golf_ball', 0.039712474, u'ping-pong_ball', 0.033889573]

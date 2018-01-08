@@ -1,0 +1,8 @@
+[u'carton', 0.073833115, u'balance_beam', 0.054849356, u'envelope', 0.050546318, u'moving_van', 0.034558877, u'garbage_truck', 0.03022431]
+[u'puck', 0.91477269, u'wall_clock', 0.02824416, u'analog_clock', 0.018539229, u'odometer', 0.0038812119, u'bottlecap', 0.0031857605]
+[u'book_jacket', 0.6143865, u'crate', 0.086454645, u'jean', 0.040094677, u'comic_book', 0.035095453, u'jersey', 0.021504743]
+[u'boathouse', 0.69192511, u'thatch', 0.098912612, u'worm_fence', 0.031613287, u'picket_fence', 0.022412665, u'greenhouse', 0.015651673]
+[u'puck', 0.91477269, u'wall_clock', 0.02824416, u'analog_clock', 0.018539229, u'odometer', 0.0038812119, u'bottlecap', 0.0031857605]
+[u'menu', 0.32444373, u'book_jacket', 0.28034037, u'carton', 0.14289315, u'envelope', 0.11127394, u'web_site', 0.035184648]
+[u'web_site', 0.44254169, u'digital_clock', 0.16207483, u'bannister', 0.037254144, u'analog_clock', 0.033604357, u'whistle', 0.023309456]
+[u'web_site', 0.69341612, u'jean', 0.12458128, u'wardrobe', 0.044047698, u'sarong', 0.017259017, u'comic_book', 0.015022005]

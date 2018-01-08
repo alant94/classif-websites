@@ -1,0 +1,1 @@
+[u'book_jacket', 0.12726133, u'Chihuahua', 0.087467343, u'Boston_bull', 0.076017417, u'wallaby', 0.0599695, u'water_buffalo', 0.056650579]

@@ -1,0 +1,2 @@
+[u'washbasin', 0.22678024, u'tray', 0.086207636, u'paper_towel', 0.059789874, u'screen', 0.056989308, u'shower_curtain', 0.052138936]
+[u'paper_towel', 0.18941867, u'book_jacket', 0.097084567, u'web_site', 0.083228372, u'Band_Aid', 0.069926552, u'hook', 0.050688572]

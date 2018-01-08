@@ -1,0 +1,3 @@
+[u'golf_ball', 0.22629632, u'hourglass', 0.066233426, u'spotlight', 0.041025396, u'envelope', 0.033175126, u'cleaver', 0.020926801]
+[u'fountain', 0.6230889, u'scuba_diver', 0.1634582, u'jellyfish', 0.036415212, u'lionfish', 0.035447489, u'scorpion', 0.015339084]
+[u'throne', 0.11896837, u'book_jacket', 0.11343058, u'steam_locomotive', 0.063220389, u'space_shuttle', 0.058824766, u'ashcan', 0.048582207]

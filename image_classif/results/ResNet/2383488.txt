@@ -1,0 +1,6 @@
+[u'web_site', 0.30426762, u'book_jacket', 0.28245524, u'comic_book', 0.06451074, u'street_sign', 0.02910848, u'stopwatch', 0.016488222]
+[u'hair_spray', 0.12496776, u'lotion', 0.063786179, u'bakery', 0.055526134, u"potter's_wheel", 0.047819793, u'web_site', 0.047468591]
+[u'iron', 0.93121314, u'mouse', 0.016430408, u'can_opener', 0.01558528, u'cocktail_shaker', 0.0089402851, u'pencil_sharpener', 0.0063410141]
+[u'microphone', 0.99993086, u'hand_blower', 6.6424393e-05, u'spotlight', 1.9816591e-06, u'space_heater', 1.9157645e-07, u'nail', 1.0966814e-07]
+[u'ballpoint', 0.65482593, u'web_site', 0.14821474, u'fountain_pen', 0.02798138, u'syringe', 0.024913942, u'nail', 0.020628005]
+[u'ice_cream', 0.81513399, u'chambered_nautilus', 0.061175462, u'candle', 0.013203539, u'pill_bottle', 0.0091993073, u'conch', 0.0086061396]

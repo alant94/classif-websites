@@ -1,0 +1,8 @@
+[u'lab_coat', 0.15987408, u'theater_curtain', 0.14343886, u'oboe', 0.11960947, u'jean', 0.087878391, u'ocarina', 0.084853195]
+[u'punching_bag', 0.10263702, u'ping-pong_ball', 0.086935155, u'notebook', 0.037960328, u'dumbbell', 0.037425697, u'cellular_telephone', 0.027526731]
+[u'iron', 0.11459321, u'lab_coat', 0.095372751, u'sunglasses', 0.05592566, u'jean', 0.043850843, u'stethoscope', 0.04180539]
+[u'sweatshirt', 0.096505262, u'jersey', 0.066795819, u'iron', 0.053257085, u'jean', 0.035742093, u'racket', 0.032809004]
+[u'laptop', 0.083475351, u'notebook', 0.058312409, u'ping-pong_ball', 0.046869814, u'barbell', 0.046669099, u'iron', 0.038716141]
+[u'web_site', 0.14001833, u'cab', 0.12587519, u'school_bus', 0.09944474, u'fountain', 0.080370732, u'jigsaw_puzzle', 0.048629232]
+[u'iron', 0.070161171, u'laptop', 0.058311284, u'notebook', 0.057259046, u'crutch', 0.041567709, u'acoustic_guitar', 0.03103245]
+[u'sunscreen', 0.62161678, u'Band_Aid', 0.047502529, u'tub', 0.034872584, u'groom', 0.033333205, u"potter's_wheel", 0.025059016]

@@ -1,0 +1,3 @@
+[u'window_screen', 0.121758, u'chainlink_fence', 0.075214617, u'book_jacket', 0.052463815, u'ashcan', 0.050318401, u'brass', 0.045097444]
+[u'cock', 0.99375474, u'hen', 0.0059692105, u'breastplate', 2.1587628e-05, u'skunk', 2.0005355e-05, u'papillon', 1.8379562e-05]
+[u'fire_screen', 0.58564776, u'book_jacket', 0.035099342, u'hook', 0.025350992, u'chain', 0.024219643, u'padlock', 0.020216573]

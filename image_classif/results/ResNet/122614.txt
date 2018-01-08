@@ -1,0 +1,5 @@
+[u'lighter', 0.13600518, u'beer_glass', 0.1210494, u'comic_book', 0.084775224, u'lotion', 0.063288227, u'can_opener', 0.057736199]
+[u'comic_book', 0.19425878, u'envelope', 0.15171222, u'pencil_box', 0.099090308, u'bib', 0.095305756, u'web_site', 0.059397906]
+[u'web_site', 0.28632769, u'toyshop', 0.09322159, u'shoe_shop', 0.084594764, u'comic_book', 0.049428184, u'barbershop', 0.044942662]
+[u'jigsaw_puzzle', 0.51645601, u'iPod', 0.11483648, u'envelope', 0.053140253, u'wallet', 0.03244723, u'mailbox', 0.031558719]
+[u'chainlink_fence', 0.44870192, u'shopping_basket', 0.12490412, u'packet', 0.065624543, u'book_jacket', 0.045156844, u'envelope', 0.042216916]

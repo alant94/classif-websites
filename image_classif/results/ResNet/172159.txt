@@ -1,0 +1,3 @@
+[u'digital_clock', 0.73370582, u'Band_Aid', 0.057316668, u'digital_watch', 0.019775495, u'prayer_rug', 0.018043576, u'scoreboard', 0.010556606]
+[u'web_site', 0.091507867, u'digital_clock', 0.079088666, u'Band_Aid', 0.050331727, u'analog_clock', 0.049582347, u'prayer_rug', 0.043645263]
+[u'digital_clock', 0.080877811, u'rifle', 0.071555234, u'traffic_light', 0.047913875, u'web_site', 0.046686508, u'crossword_puzzle', 0.027383711]

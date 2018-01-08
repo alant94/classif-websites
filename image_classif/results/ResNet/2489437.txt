@@ -1,0 +1,4 @@
+[u'butcher_shop', 0.097383693, u'thatch', 0.075656116, u'lumbermill', 0.069887206, u'thresher', 0.039223947, u'coral_fungus', 0.036379702]
+[u'jersey', 0.34987724, u'book_jacket', 0.073400773, u'whistle', 0.066507362, u'pick', 0.030164782, u'comic_book', 0.022995772]
+[u'web_site', 0.83804101, u'tractor', 0.011214179, u'amphibian', 0.0052566039, u'scoreboard', 0.0052144411, u'lakeside', 0.0043921471]
+[u'rugby_ball', 0.27595454, u'tennis_ball', 0.17849109, u'golf_ball', 0.1547516, u'ping-pong_ball', 0.058334924, u'puck', 0.037568703]

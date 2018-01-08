@@ -1,0 +1,8 @@
+[u'hair_spray', 0.92285204, u'lotion', 0.0199605, u'perfume', 0.012618739, u'fire_screen', 0.0087350784, u'sunscreen', 0.0036495344]
+[u'hair_spray', 0.84331632, u'lotion', 0.037233315, u'perfume', 0.020594571, u'fire_screen', 0.018807394, u'lipstick', 0.010344762]
+[u'hair_spray', 0.63218802, u'lotion', 0.11326392, u'perfume', 0.079752013, u'fire_screen', 0.024288176, u'lipstick', 0.019653957]
+[u'theater_curtain', 0.22675586, u'monitor', 0.18304135, u'fire_screen', 0.16477609, u'safe', 0.084316857, u'hair_spray', 0.075758442]
+[u'theater_curtain', 0.34263992, u'screen', 0.14860687, u'fire_screen', 0.091990419, u'monitor', 0.072805315, u'hair_spray', 0.039817855]
+[u'hair_spray', 0.6899808, u'perfume', 0.093333073, u'lotion', 0.073685385, u'fire_screen', 0.044273444, u'theater_curtain', 0.027833501]
+[u'barometer', 0.62634647, u'scale', 0.19172864, u'analog_clock', 0.056134809, u'wall_clock', 0.030595301, u'brass', 0.017159756]
+[u'hair_spray', 0.49161565, u'fire_screen', 0.25240019, u'lotion', 0.055623285, u'theater_curtain', 0.04887554, u'perfume', 0.024269767]

@@ -1,0 +1,5 @@
+[u'plate_rack', 0.097745344, u'nematode', 0.077196419, u'hook', 0.063730009, u'fire_screen', 0.041456282, u'hatchet', 0.033151459]
+[u'throne', 0.43179986, u'prayer_rug', 0.181648, u'vestment', 0.098832093, u'pillow', 0.081667885, u'altar', 0.052888703]
+[u'nematode', 0.13650239, u'plate_rack', 0.044750921, u'hook', 0.034207609, u'web_site', 0.032411136, u'safety_pin', 0.030345595]
+[u'nematode', 0.11348163, u'hook', 0.11068978, u'plate_rack', 0.07970196, u'paper_towel', 0.041639965, u'fire_screen', 0.038084865]
+[u'nematode', 0.092347465, u'web_site', 0.068976201, u'envelope', 0.057072714, u'hook', 0.042138841, u'paintbrush', 0.026254147]

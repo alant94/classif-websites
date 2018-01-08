@@ -1,0 +1,3 @@
+[u'sturgeon', 0.49579895, u'barracouta', 0.22100118, u'coho', 0.1006471, u'gar', 0.061345059, u'hartebeest', 0.043687992]
+[u'web_site', 0.14231148, u'hand_blower', 0.032273315, u'sweatshirt', 0.02413474, u'tiger', 0.023945849, u'muzzle', 0.022223365]
+[u'comic_book', 0.32337955, u'book_jacket', 0.083405927, u'paintbrush', 0.051564399, u'web_site', 0.0418198, u'punching_bag', 0.030869763]

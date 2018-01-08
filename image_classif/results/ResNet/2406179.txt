@@ -1,0 +1,2 @@
+[u'scoreboard', 0.95250654, u'abacus', 0.015713211, u'jigsaw_puzzle', 0.012507657, u'palace', 0.0055133104, u'Christmas_stocking', 0.0022495976]
+[u'modem', 0.51271349, u'guillotine', 0.12473217, u'switch', 0.082408808, u'oscilloscope', 0.05108152, u'hard_disc', 0.037990294]

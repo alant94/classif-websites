@@ -1,0 +1,4 @@
+[u'web_site', 0.72166115, u'ibex', 0.045133039, u'cliff', 0.044253461, u'mountain_bike', 0.031936005, u'beacon', 0.01169821]
+[u'web_site', 0.84485453, u'envelope', 0.084835, u'menu', 0.013507253, u'cleaver', 0.0031566112, u'abaya', 0.0024928187]
+[u'church', 0.89138961, u'monastery', 0.024479166, u'sundial', 0.014188398, u'mobile_home', 0.008749892, u'picket_fence', 0.0072384742]
+[u'picket_fence', 0.38698846, u'church', 0.10114703, u'chime', 0.040566467, u'shower_curtain', 0.03940602, u'theater_curtain', 0.039320391]

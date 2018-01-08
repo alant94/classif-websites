@@ -1,0 +1,4 @@
+[u'coffee_mug', 0.14435969, u'street_sign', 0.097341552, u'safety_pin', 0.047157705, u'Band_Aid', 0.027095363, u'book_jacket', 0.022302495]
+[u'web_site', 0.39493176, u'Windsor_tie', 0.070491634, u'plunger', 0.016518602, u'jersey', 0.012605448, u'bulletproof_vest', 0.010535531]
+[u'beer_glass', 0.22882634, u'carton', 0.14585078, u'pill_bottle', 0.079793058, u'crate', 0.077137507, u'beer_bottle', 0.032678369]
+[u'Windsor_tie', 0.6852144, u'suit', 0.13067672, u'web_site', 0.078895643, u'bolo_tie', 0.038687248, u'groom', 0.0072240732]

@@ -1,0 +1,3 @@
+[u'web_site', 0.27704903, u'scoreboard', 0.2397287, u'oscilloscope', 0.10922681, u'hand-held_computer', 0.069228843, u'monitor', 0.063034542]
+[u'web_site', 0.58466637, u'notebook', 0.1152344, u'monitor', 0.096802704, u'screen', 0.07967262, u'desktop_computer', 0.056376591]
+[u'web_site', 0.9976635, u'notebook', 0.0010322647, u'monitor', 0.00058950647, u'screen', 0.0002332919, u'laptop', 0.00013637819]

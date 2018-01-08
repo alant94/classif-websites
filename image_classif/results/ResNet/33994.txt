@@ -1,0 +1,4 @@
+[u'scabbard', 0.96194053, u'cleaver', 0.022175254, u'letter_opener', 0.0079973871, u'hatchet', 0.0044174949, u'corkscrew', 0.00108885]
+[u'plane', 0.54112798, u'toaster', 0.10077311, u'can_opener', 0.075405143, u'soap_dispenser', 0.034340646, u'paper_towel', 0.018883709]
+[u'web_site', 0.07619977, u'komondor', 0.074100792, u'nail', 0.052873403, u'hatchet', 0.050091337, u'dogsled', 0.047071066]
+[u'menu', 0.14651901, u'comic_book', 0.063569948, u'book_jacket', 0.050968818, u'web_site', 0.047568891, u'envelope', 0.026980599]

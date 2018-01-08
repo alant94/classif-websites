@@ -1,0 +1,5 @@
+[u'screwdriver', 0.5891127, u'whistle', 0.095121048, u'slide_rule', 0.029620793, u'space_heater', 0.024424843, u'ballpoint', 0.01725053]
+[u'ballpoint', 0.91046536, u'screwdriver', 0.051015202, u'syringe', 0.0067246598, u'nail', 0.0055418299, u"carpenter's_kit", 0.0053380965]
+[u'Windsor_tie', 0.41437519, u'lab_coat', 0.40425077, u'oxygen_mask', 0.01650911, u'book_jacket', 0.015179288, u'bow_tie', 0.014820373]
+[u'screwdriver', 0.69857305, u'syringe', 0.1629457, u'ballpoint', 0.066839822, u'slide_rule', 0.026343387, u"carpenter's_kit", 0.01449104]
+[u'pajama', 0.13569969, u'barbershop', 0.053380128, u'tricycle', 0.038084004, u'jersey', 0.030860461, u'steel_drum', 0.030273121]

@@ -1,0 +1,8 @@
+[u'window_screen', 0.67506266, u'church', 0.21000603, u'tobacco_shop', 0.034976147, u'boathouse', 0.018024327, u'dome', 0.0083864406]
+[u'window_screen', 0.89632118, u'handkerchief', 0.031533148, u'window_shade', 0.022392785, u'solar_dish', 0.014508381, u'sliding_door', 0.0034315716]
+[u'medicine_chest', 0.1448392, u'scoreboard', 0.12543224, u'digital_clock', 0.1020433, u'analog_clock', 0.049986873, u'street_sign', 0.032976471]
+[u'American_black_bear', 0.50480407, u'Appenzeller', 0.13246089, u'sloth_bear', 0.089355439, u'Rottweiler', 0.083469883, u'Gordon_setter', 0.049705766]
+[u'siamang', 0.12086906, u'spider_monkey', 0.085475221, u'gibbon', 0.08116243, u'pot', 0.050666448, u'cardoon', 0.034659896]
+[u'window_screen', 0.27546939, u'prison', 0.13062845, u'shoji', 0.087978072, u'sliding_door', 0.082891501, u'fire_screen', 0.050849967]
+[u'tractor', 0.78573287, u'tow_truck', 0.074300967, u'half_track', 0.066031039, u'thresher', 0.027691394, u'snowplow', 0.0070068645]
+[u'monastery', 0.10924537, u'vault', 0.10332763, u'sliding_door', 0.076749377, u'fire_screen', 0.060763426, u'wardrobe', 0.052504383]

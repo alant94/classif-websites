@@ -1,0 +1,5 @@
+[u'puck', 0.6953643, u'bucket', 0.032456934, u'barrel', 0.02820058, u'rugby_ball', 0.021830283, u'football_helmet', 0.02182997]
+[u'packet', 0.38872823, u'backpack', 0.27166682, u'carton', 0.0939091, u'shopping_basket', 0.060621981, u'comic_book', 0.035838947]
+[u'laptop', 0.1586902, u'cup', 0.10845598, u'tray', 0.091862813, u'iPod', 0.071095087, u'web_site', 0.069630146]
+[u'fountain_pen', 0.87484783, u'ballpoint', 0.048777781, u'rubber_eraser', 0.034227252, u'lipstick', 0.017076103, u'pencil_sharpener', 0.003128005]
+[u'thimble', 0.34074205, u'corkscrew', 0.27448964, u'quill', 0.19047171, u'perfume', 0.062594965, u'paintbrush', 0.016410505]

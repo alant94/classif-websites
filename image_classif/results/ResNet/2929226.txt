@@ -1,0 +1,8 @@
+[u'dishwasher', 0.15503176, u'washer', 0.046910305, u'envelope', 0.041412927, u'refrigerator', 0.037914257, u'scale', 0.02617516]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'street_sign', 0.16943876, u'barbershop', 0.088396043, u'turnstile', 0.088345982, u'crate', 0.050632372, u'sliding_door', 0.050429177]
+[u'comic_book', 0.18249552, u'book_jacket', 0.17533042, u'Band_Aid', 0.042726584, u'nail', 0.03448515, u'screw', 0.029335698]
+[u'barn', 0.16945067, u'stupa', 0.080933154, u'picket_fence', 0.052968137, u'beacon', 0.041391104, u'alp', 0.040666394]
+[u'dishwasher', 0.18093866, u'refrigerator', 0.06819465, u'envelope', 0.059009366, u'washer', 0.032897655, u'notebook', 0.026883079]
+[u'dishwasher', 0.19583762, u'web_site', 0.11548124, u'envelope', 0.058134992, u'refrigerator', 0.047586203, u'notebook', 0.031175623]
+[u'mortarboard', 0.13855614, u'hatchet', 0.060836926, u'nail', 0.027657567, u'academic_gown', 0.027307399, u'paintbrush', 0.017378351]

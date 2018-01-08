@@ -1,0 +1,8 @@
+[u'jean', 0.2976658, u'gasmask', 0.24414112, u'holster', 0.077849701, u'cowboy_boot', 0.076072358, u'cowboy_hat', 0.036658853]
+[u'space_heater', 0.56846404, u'television', 0.058019392, u'projector', 0.036594465, u'radio', 0.036526162, u'screen', 0.032610148]
+[u'syringe', 0.1642051, u'Great_Dane', 0.13144566, u'diaper', 0.083353847, u'whippet', 0.075603925, u'Italian_greyhound', 0.066317342]
+[u'bikini', 0.84599167, u'brassiere', 0.042611465, u'gasmask', 0.023055859, u'prison', 0.012861493, u'tub', 0.01196615]
+[u'swimming_trunks', 0.54347277, u'dumbbell', 0.084664643, u'fur_coat', 0.07524249, u'barbell', 0.062567025, u'parallel_bars', 0.047493149]
+[u'African_grey', 0.19004008, u'hand_blower', 0.099595964, u'crutch', 0.057067536, u'bath_towel', 0.032215312, u'swab', 0.026878398]
+[u'sandal', 0.968018, u'boa_constrictor', 0.024390385, u'night_snake', 0.0015473994, u'king_snake', 0.00088189694, u'running_shoe', 0.0006077158]
+[u'stopwatch', 0.083534263, u'spotlight', 0.060206652, u'nematode', 0.049464338, u'gasmask', 0.040174238, u'analog_clock', 0.039164755]

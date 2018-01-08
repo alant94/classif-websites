@@ -1,0 +1,7 @@
+[u'perfume', 0.064208113, u'chain', 0.063859142, u'maillot', 0.055291817, u'bikini', 0.050074808, u'shower_curtain', 0.049474455]
+[u'shower_curtain', 0.64640749, u'lab_coat', 0.099019535, u'toilet_tissue', 0.052525874, u'plastic_bag', 0.049734812, u'paintbrush', 0.023138676]
+[u"potter's_wheel", 0.13244145, u'laptop', 0.057370558, u'marimba', 0.055758283, u'iron', 0.055677224, u'grand_piano', 0.034496754]
+[u'jean', 0.12535937, u'swimming_trunks', 0.074473023, u'paintbrush', 0.063186325, u'sunscreen', 0.048488554, u'dumbbell', 0.039957765]
+[u'cleaver', 0.18546039, u'hammer', 0.13653359, u'lumbermill', 0.071914397, u'harp', 0.029377628, u'crate', 0.027219852]
+[u'sweatshirt', 0.24339131, u'jersey', 0.19250716, u'jean', 0.1704901, u'wardrobe', 0.057033006, u'lab_coat', 0.052547734]
+[u'brassiere', 0.40085655, u'bikini', 0.35912681, u'maillot', 0.035146013, u'sandal', 0.012056184, u'strawberry', 0.0079044634]

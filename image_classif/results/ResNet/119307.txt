@@ -1,0 +1,8 @@
+[u'street_sign', 0.11476956, u'Band_Aid', 0.10175911, u'puck', 0.090964779, u'web_site', 0.051627044, u'lighter', 0.049887672]
+[u'comic_book', 0.26435408, u'jigsaw_puzzle', 0.22054312, u'packet', 0.21059729, u'web_site', 0.041752942, u'book_jacket', 0.041067399]
+[u'book_jacket', 0.41075936, u'comic_book', 0.16567366, u'jigsaw_puzzle', 0.16086243, u'packet', 0.13273676, u'slot', 0.03695026]
+[u'book_jacket', 0.69735801, u'comic_book', 0.19236712, u'web_site', 0.096575163, u'isopod', 0.0021614353, u'jigsaw_puzzle', 0.0019118845]
+[u'coral_fungus', 0.31534538, u'comic_book', 0.19010498, u'book_jacket', 0.15890259, u'banana', 0.068232767, u'corn', 0.06225647]
+[u'book_jacket', 0.4885383, u'passenger_car', 0.085670643, u'steam_locomotive', 0.062177759, u'monitor', 0.024620352, u'comic_book', 0.023351131]
+[u'book_jacket', 0.61162972, u'comic_book', 0.24225457, u'packet', 0.021376004, u'jigsaw_puzzle', 0.020850288, u'binder', 0.020583156]
+[u'parachute', 0.16961828, u'rubber_eraser', 0.15703727, u'container_ship', 0.12607388, u'spatula', 0.067248702, u'balloon', 0.040893581]

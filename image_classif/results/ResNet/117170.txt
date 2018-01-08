@@ -1,0 +1,2 @@
+[u'Doberman', 0.060575992, u'groenendael', 0.056562334, u'fire_screen', 0.053440869, u'Labrador_retriever', 0.049931105, u'black-and-tan_coonhound', 0.042530697]
+[u'crossword_puzzle', 0.39537528, u'digital_clock', 0.10688549, u'digital_watch', 0.071748368, u'prayer_rug', 0.065366209, u'web_site', 0.039322287]

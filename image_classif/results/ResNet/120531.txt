@@ -1,0 +1,7 @@
+[u'fire_screen', 0.47628334, u'oxygen_mask', 0.061335512, u'monitor', 0.041104928, u'fountain', 0.025713427, u'window_screen', 0.02176626]
+[u'plow', 0.13188, u'harvester', 0.11974168, u'thresher', 0.075996719, u'pinwheel', 0.070772141, u'tractor', 0.039044358]
+[u'switch', 0.12972754, u'digital_clock', 0.11608358, u'modem', 0.11080767, u'oscilloscope', 0.083151534, u'projector', 0.047296289]
+[u'television', 0.19800623, u'Gordon_setter', 0.16461948, u'English_springer', 0.071765512, u'EntleBucher', 0.037757006, u'Sussex_spaniel', 0.027623655]
+[u'pencil_sharpener', 0.092813261, u'digital_clock', 0.092654735, u'modem', 0.084730603, u'whistle', 0.079004541, u'switch', 0.076083027]
+[u'comic_book', 0.31676617, u'book_jacket', 0.11639886, u'television', 0.045662355, u'breastplate', 0.025607822, u'ski_mask', 0.023283115]
+[u'comic_book', 0.12003432, u'tape_player', 0.063978963, u'gong', 0.058507614, u'cassette', 0.038241368, u'corkscrew', 0.035038982]

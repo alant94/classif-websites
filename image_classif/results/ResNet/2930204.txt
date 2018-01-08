@@ -1,0 +1,3 @@
+[u'prison', 0.73315883, u'shoji', 0.15708925, u'window_shade', 0.043443128, u'bannister', 0.017730493, u'picket_fence', 0.0078465929]
+[u'crossword_puzzle', 0.65956128, u'hand-held_computer', 0.12875737, u'laptop', 0.039582092, u'notebook', 0.039376445, u'quill', 0.030217873]
+[u'turnstile', 0.81423926, u'prison', 0.030336859, u'organ', 0.017972222, u'bookshop', 0.017254755, u'library', 0.010747041]

@@ -1,0 +1,3 @@
+[u'book_jacket', 0.15535165, u'web_site', 0.075043991, u'muzzle', 0.051320415, u'Arabian_camel', 0.036118481, u'Ibizan_hound', 0.022533473]
+[u'digital_clock', 0.80306464, u'digital_watch', 0.18789698, u'picket_fence', 0.0036739497, u'crossword_puzzle', 0.001126616, u'stopwatch', 0.00064494862]
+[u'barbershop', 0.22561887, u'web_site', 0.22165354, u'barber_chair', 0.1920056, u'restaurant', 0.12900424, u'vestment', 0.067290157]

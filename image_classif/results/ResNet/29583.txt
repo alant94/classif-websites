@@ -1,0 +1,2 @@
+[u'coffee_mug', 0.3262955, u'oil_filter', 0.15442872, u'sunscreen', 0.082263, u'plastic_bag', 0.080896772, u'beer_glass', 0.055559412]
+[u'pencil_sharpener', 0.10751048, u'packet', 0.083287485, u'puck', 0.073618278, u'whistle', 0.071432024, u'doormat', 0.038548045]

@@ -1,0 +1,2 @@
+[u'slide_rule', 0.21653144, u'oscilloscope', 0.18218426, u'book_jacket', 0.088167146, u'hammer', 0.050383132, u'screw', 0.046013214]
+[u'artichoke', 0.18462572, u'fountain', 0.16327071, u'pitcher', 0.049109653, u'vase', 0.048932564, u'pot', 0.048917212]

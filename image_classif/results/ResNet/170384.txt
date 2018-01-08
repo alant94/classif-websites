@@ -1,0 +1,5 @@
+[u'acoustic_guitar', 0.416444, u'electric_guitar', 0.20641717, u'banjo', 0.066000372, u'oboe', 0.03880278, u'cello', 0.019943658]
+[u'acoustic_guitar', 0.98162341, u'electric_guitar', 0.016343072, u'banjo', 0.00064122543, u'pick', 0.00059028697, u'stage', 0.00037166214]
+[u'skunk', 0.29650566, u'badger', 0.18634126, u"potter's_wheel", 0.13775329, u'polecat', 0.026544968, u'black-footed_ferret', 0.018106645]
+[u'chain_saw', 0.90047026, u'ballplayer', 0.033674259, u'assault_rifle', 0.019550059, u'oxygen_mask', 0.0067219222, u'baseball', 0.0032235684]
+[u'Labrador_retriever', 0.10544264, u'geyser', 0.060759548, u'skunk', 0.039873447, u'loupe', 0.032554079, u'Bouvier_des_Flandres', 0.028996697]

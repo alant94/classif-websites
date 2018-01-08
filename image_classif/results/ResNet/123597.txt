@@ -1,0 +1,8 @@
+[u'golf_ball', 0.28497213, u'web_site', 0.14930752, u'volleyball', 0.08505477, u'soccer_ball', 0.045353245, u'solar_dish', 0.041796628]
+[u'knee_pad', 0.57185417, u'tennis_ball', 0.13450024, u'mortar', 0.08309117, u'baseball', 0.033832658, u"potter's_wheel", 0.027487481]
+[u'soccer_ball', 0.93248594, u'solar_dish', 0.0094181458, u'screen', 0.0046873493, u'television', 0.0044307713, u'monitor', 0.0043065907]
+[u'scoreboard', 0.41284937, u'television', 0.18923292, u'cash_machine', 0.047426671, u'book_jacket', 0.021175442, u'comic_book', 0.015870757]
+[u'web_site', 0.43163621, u'television', 0.12479383, u'comic_book', 0.058255583, u'jersey', 0.040071726, u'book_jacket', 0.02804262]
+[u'television', 0.59000039, u'screen', 0.23723981, u'monitor', 0.11279583, u'web_site', 0.019694364, u'entertainment_center', 0.010159246]
+[u'web_site', 0.38800022, u'scoreboard', 0.17450546, u'limousine', 0.050313748, u'moving_van', 0.01595876, u'garbage_truck', 0.013372449]
+[u'television', 0.90392709, u'screen', 0.02972533, u'knee_pad', 0.02410203, u'web_site', 0.010293845, u'monitor', 0.010145839]

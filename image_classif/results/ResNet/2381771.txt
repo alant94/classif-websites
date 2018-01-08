@@ -1,0 +1,5 @@
+[u"carpenter's_kit", 0.066059195, u'screwdriver', 0.058900554, u'barometer', 0.051070347, u'ballpoint', 0.039626312, u'quill', 0.034092162]
+[u'lakeside', 0.37152454, u'alp', 0.19411851, u'picket_fence', 0.11288697, u'valley', 0.052254207, u'dogsled', 0.045056816]
+[u'envelope', 0.36530879, u'web_site', 0.18969148, u'menu', 0.17674717, u'rubber_eraser', 0.031631805, u'bib', 0.015004]
+[u'web_site', 0.24839179, u'nematode', 0.046035741, u'matchstick', 0.043975078, u'television', 0.033857252, u'bubble', 0.019293167]
+[u'pizza', 0.87757558, u'dining_table', 0.028026311, u'trifle', 0.017551217, u'French_loaf', 0.017289661, u'plate', 0.012200988]

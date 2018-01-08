@@ -1,0 +1,2 @@
+[u'paddle', 0.1188274, u'apiary', 0.084776662, u'boathouse', 0.069737479, u'canoe', 0.045025211, u'lumbermill', 0.036479834]
+[u'paintbrush', 0.84764922, u'letter_opener', 0.035082754, u'screwdriver', 0.025946129, u'slide_rule', 0.01784352, u'rule', 0.01470486]

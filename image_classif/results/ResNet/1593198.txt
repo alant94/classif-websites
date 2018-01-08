@@ -1,0 +1,4 @@
+[u'Shih-Tzu', 0.059483908, u'Maltese_dog', 0.048130758, u'neck_brace', 0.046337627, u'cash_machine', 0.039149515, u'prison', 0.038771607]
+[u'chain_mail', 0.23234154, u'wig', 0.12367895, u'bathing_cap', 0.069486298, u'wool', 0.062876716, u'Band_Aid', 0.046969205]
+[u'prison', 0.1973487, u'proboscis_monkey', 0.17854168, u'breastplate', 0.12493041, u'cuirass', 0.055970922, u'swimming_trunks', 0.042872973]
+[u'traffic_light', 0.34153929, u'lampshade', 0.12973981, u"jack-o'-lantern", 0.10551716, u'binoculars', 0.078926265, u'balloon', 0.062522158]

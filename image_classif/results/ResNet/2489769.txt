@@ -1,0 +1,5 @@
+[u'barbershop', 0.052619494, u'neck_brace', 0.047899812, u'hair_spray', 0.046647128, u'television', 0.034814291, u'web_site', 0.030468337]
+[u'four-poster', 0.3903265, u'studio_couch', 0.37810859, u'quilt', 0.16981184, u'mosquito_net', 0.025355089, u'window_shade', 0.0036789009]
+[u'web_site', 0.8123154, u'envelope', 0.039683193, u'Band_Aid', 0.011449011, u'ski', 0.0069822501, u'barbershop', 0.0055409991]
+[u'comic_book', 0.29871458, u'book_jacket', 0.15419741, u'puck', 0.098527081, u'bakery', 0.049404453, u'restaurant', 0.030963801]
+[u'tow_truck', 0.42148083, u'jeep', 0.21310572, u'fire_engine', 0.14298771, u'ambulance', 0.1368686, u'minivan', 0.016848061]

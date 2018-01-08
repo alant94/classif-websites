@@ -1,0 +1,5 @@
+[u'menu', 0.7114535, u'web_site', 0.026644239, u'hard_disc', 0.016273292, u'safety_pin', 0.014484102, u'crossword_puzzle', 0.010488017]
+[u'lighter', 0.49066332, u'thimble', 0.097454637, u'microphone', 0.052315611, u'lipstick', 0.045162015, u'combination_lock', 0.037111688]
+[u'vacuum', 0.1861842, u'gasmask', 0.17791219, u'microphone', 0.15992905, u'spotlight', 0.12959704, u'iron', 0.066186823]
+[u'street_sign', 0.10500135, u'comic_book', 0.090587325, u'book_jacket', 0.073491111, u'web_site', 0.049194064, u'remote_control', 0.020895984]
+[u'comic_book', 0.41607004, u'book_jacket', 0.14516102, u'web_site', 0.036730535, u'menu', 0.031150857, u'pill_bottle', 0.020096369]

@@ -1,0 +1,4 @@
+[u'iPod', 0.32314089, u'loudspeaker', 0.10107403, u'television', 0.075650066, u'pay-phone', 0.052600142, u'slot', 0.045898002]
+[u'Loafer', 0.19863056, u'groom', 0.19719873, u'suit', 0.14272372, u'jean', 0.1153999, u'Windsor_tie', 0.028711939]
+[u'paintbrush', 0.56054437, u'wine_bottle', 0.17282628, u'perfume', 0.14602606, u'screwdriver', 0.038637117, u'pop_bottle', 0.013813377]
+[u'paper_towel', 0.47740662, u'toilet_tissue', 0.16202131, u'bath_towel', 0.050054189, u'book_jacket', 0.04616642, u'shower_curtain', 0.034337562]

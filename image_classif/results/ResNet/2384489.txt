@@ -1,0 +1,2 @@
+[u'digital_clock', 0.08556845, u'street_sign', 0.048395049, u'screen', 0.047796667, u'analog_clock', 0.043939419, u'web_site', 0.041852359]
+[u'envelope', 0.13675202, u'web_site', 0.13223957, u'binder', 0.13118188, u'jellyfish', 0.038937319, u'screw', 0.029443698]

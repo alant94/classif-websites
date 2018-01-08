@@ -1,0 +1,3 @@
+[u'street_sign', 0.23107231, u'barrel', 0.13254872, u'barbershop', 0.096082687, u'traffic_light', 0.065807953, u'chainlink_fence', 0.05468829]
+[u'book_jacket', 0.41638207, u'shoe_shop', 0.076252162, u'hair_spray', 0.057382304, u'comic_book', 0.052952189, u'electric_guitar', 0.036847953]
+[u'street_sign', 0.28429386, u'traffic_light', 0.1220675, u'matchstick', 0.097688563, u'broom', 0.066524737, u'book_jacket', 0.0633412]

@@ -1,0 +1,1 @@
+[u'tobacco_shop', 0.44810998, u'toyshop', 0.19825682, u'monitor', 0.071689665, u'web_site', 0.052822493, u'book_jacket', 0.048156332]

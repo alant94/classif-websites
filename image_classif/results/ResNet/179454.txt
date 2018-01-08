@@ -1,0 +1,2 @@
+[u'street_sign', 0.82924831, u'scoreboard', 0.067225412, u'web_site', 0.029254166, u'traffic_light', 0.028771795, u'menu', 0.0066744098]
+[u'stole', 0.081846744, u'standard_poodle', 0.054178685, u'wool', 0.048020147, u'fur_coat', 0.045641348, u'wig', 0.045307569]

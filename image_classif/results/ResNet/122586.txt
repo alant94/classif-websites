@@ -1,0 +1,5 @@
+[u'television', 0.1506983, u'guillotine', 0.11018533, u'rocking_chair', 0.072161928, u'acoustic_guitar', 0.060970131, u'pencil_sharpener', 0.057650704]
+[u'microwave', 0.39134851, u'stove', 0.053156514, u'buckle', 0.049088039, u'scabbard', 0.04744871, u'cleaver', 0.045781579]
+[u'comic_book', 0.35251933, u'rock_crab', 0.1140319, u'book_jacket', 0.067695193, u'throne', 0.038917314, u'hen-of-the-woods', 0.032489695]
+[u'scoreboard', 0.42297247, u'digital_watch', 0.1057405, u'cellular_telephone', 0.070741564, u'book_jacket', 0.061792754, u'street_sign', 0.03909881]
+[u'hammer', 0.37206721, u'slide_rule', 0.17399351, u'rule', 0.12870812, u'hatchet', 0.093939744, u'scabbard', 0.059077222]

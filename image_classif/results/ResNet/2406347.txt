@@ -1,0 +1,5 @@
+[u'lab_coat', 0.21117455, u'desk', 0.083312847, u'beaker', 0.055423606, u'harmonica', 0.046207245, u'power_drill', 0.036800988]
+[u'mobile_home', 0.89515263, u'patio', 0.032353237, u'lakeside', 0.016559124, u'flagpole', 0.0077020153, u'picket_fence', 0.0062464192]
+[u'tobacco_shop', 0.16689423, u'shoe_shop', 0.15627611, u'vending_machine', 0.126976, u'medicine_chest', 0.093687683, u'cash_machine', 0.05137217]
+[u'photocopier', 0.33157524, u'desk', 0.10354496, u'printer', 0.10278601, u'sewing_machine', 0.053318981, u'space_heater', 0.051233936]
+[u'cliff_dwelling', 0.78991485, u'castle', 0.026936181, u'cliff', 0.019398861, u'vault', 0.014772174, u'stupa', 0.0084815463]

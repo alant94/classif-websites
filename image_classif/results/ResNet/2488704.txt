@@ -1,0 +1,5 @@
+[u'web_site', 0.9079904, u'menu', 0.090272486, u'comic_book', 0.00055317505, u'isopod', 0.00012030891, u'sleeping_bag', 7.445761e-05]
+[u'web_site', 0.95186722, u'menu', 0.045611478, u'comic_book', 0.00082892354, u'envelope', 0.00024618476, u'sleeping_bag', 0.00013842744]
+[u'menu', 0.7149117, u'web_site', 0.2802394, u'isopod', 0.0010200581, u'slot', 0.00078870752, u'snail', 0.00055324676]
+[u'television', 0.2888588, u'window_screen', 0.16371343, u'screen', 0.13335852, u'web_site', 0.080163561, u'monitor', 0.073417492]
+[u'neck_brace', 0.31436276, u'lab_coat', 0.096641012, u'television', 0.085823394, u'window_screen', 0.03424, u'cellular_telephone', 0.033851728]

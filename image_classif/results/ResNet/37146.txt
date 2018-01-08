@@ -1,0 +1,1 @@
+[u'web_site', 0.085686594, u'jersey', 0.066585176, u'digital_clock', 0.05541176, u"jack-o'-lantern", 0.054061729, u'whistle', 0.046361994]

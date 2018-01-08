@@ -1,0 +1,1 @@
+[u'book_jacket', 0.36384317, u'fire_screen', 0.16236188, u'comic_book', 0.10395442, u'lighter', 0.024215959, u'toilet_seat', 0.018298864]

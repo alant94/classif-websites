@@ -1,0 +1,5 @@
+[u'turnstile', 0.46522155, u'ping-pong_ball', 0.17637505, u'library', 0.076718263, u'wok', 0.072695896, u'projector', 0.032056905]
+[u'beer_bottle', 0.88500971, u'wall_clock', 0.019018542, u'cockroach', 0.018561386, u'pop_bottle', 0.016513672, u'wine_bottle', 0.011651264]
+[u'marimba', 0.1827185, u'bow_tie', 0.1648138, u'abaya', 0.071358629, u'vestment', 0.053346254, u'grand_piano', 0.042620748]
+[u'web_site', 0.54031748, u'paper_towel', 0.04625167, u'toilet_tissue', 0.045527875, u'carton', 0.041031104, u'packet', 0.04024386]
+[u'bow_tie', 0.097675465, u'cello', 0.051350325, u'prison', 0.048264198, u'lab_coat', 0.047575921, u'hair_spray', 0.03997789]

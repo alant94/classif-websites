@@ -1,0 +1,3 @@
+[u'lynx', 0.46474797, u'tiger', 0.328933, u'cougar', 0.025597753, u'tiger_cat', 0.025566891, u'leopard', 0.019329369]
+[u'drum', 0.091389209, u'puck', 0.09097863, u'analog_clock', 0.072653949, u'street_sign', 0.043621853, u'face_powder', 0.04192403]
+[u'otter', 0.63368732, u'black-footed_ferret', 0.09439037, u'sea_lion', 0.080295607, u'weasel', 0.06978938, u'mink', 0.026573444]

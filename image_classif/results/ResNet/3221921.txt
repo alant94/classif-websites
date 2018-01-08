@@ -1,0 +1,2 @@
+[u'barbershop', 0.099399701, u'crutch', 0.067873165, u'marimba', 0.052915532, u'shoe_shop', 0.050711568, u'military_uniform', 0.029520122]
+[u'container_ship', 0.97456771, u'gas_pump', 0.0082263658, u'ambulance', 0.0028781171, u'pole', 0.0014898048, u'fire_engine', 0.0010283974]

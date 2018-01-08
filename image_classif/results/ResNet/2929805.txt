@@ -1,0 +1,3 @@
+[u'dumbbell', 0.22357814, u'plunger', 0.18347608, u'horizontal_bar', 0.076305352, u'vacuum', 0.062834084, u'swab', 0.056823604]
+[u'thimble', 0.21753244, u'packet', 0.12437737, u'tennis_ball', 0.056806803, u'pick', 0.04268644, u'mortar', 0.042173445]
+[u'lab_coat', 0.13336349, u'notebook', 0.08694654, u'crib', 0.032468084, u'stethoscope', 0.028920073, u'pajama', 0.02725107]

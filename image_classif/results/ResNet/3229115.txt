@@ -1,0 +1,4 @@
+[u'jersey', 0.46461681, u'picket_fence', 0.058922384, u'book_jacket', 0.053491678, u'bannister', 0.042239841, u'prayer_rug', 0.040212665]
+[u'altar', 0.92184955, u'church', 0.026814548, u'vestment', 0.0098600816, u'stage', 0.0079100393, u'throne', 0.0041361242]
+[u'panpipe', 0.17609879, u'church', 0.11456639, u'traffic_light', 0.086559288, u'beacon', 0.056888361, u'assault_rifle', 0.048928767]
+[u'book_jacket', 0.11653835, u'revolver', 0.061170638, u'web_site', 0.05798516, u'rifle', 0.050679673, u'syringe', 0.047460433]

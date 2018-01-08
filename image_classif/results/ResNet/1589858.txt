@@ -1,0 +1,2 @@
+[u'joystick', 0.65745348, u'remote_control', 0.11996102, u'gasmask', 0.039561585, u'iron', 0.014195774, u'hand-held_computer', 0.013316525]
+[u'balance_beam', 0.30736282, u'rule', 0.19241484, u'wardrobe', 0.060421079, u'comic_book', 0.045637287, u'rocking_chair', 0.036107335]

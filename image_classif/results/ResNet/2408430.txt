@@ -1,0 +1,7 @@
+[u'web_site', 0.75165743, u'menu', 0.19176067, u'envelope', 0.013884699, u'book_jacket', 0.009547675, u'comic_book', 0.0069638905]
+[u'web_site', 0.77632701, u'envelope', 0.01579327, u'Windsor_tie', 0.012893638, u'hand_blower', 0.010909496, u'can_opener', 0.0080967555]
+[u'web_site', 0.46720302, u'sewing_machine', 0.18259311, u'nipple', 0.03301587, u'envelope', 0.030364102, u'printer', 0.022620423]
+[u'web_site', 0.76773947, u'envelope', 0.053464755, u'monitor', 0.0075830556, u'screen', 0.0073377355, u'medicine_chest', 0.0072367964]
+[u'web_site', 0.072877213, u'spotlight', 0.071302347, u'electric_fan', 0.045862351, u'washer', 0.045404036, u'oil_filter', 0.033472117]
+[u'web_site', 0.47991735, u'analog_clock', 0.087763101, u'corkscrew', 0.066799261, u'envelope', 0.060982037, u'screw', 0.028658211]
+[u'web_site', 0.29763737, u'screwdriver', 0.099300444, u'ballpoint', 0.051653005, u'wine_bottle', 0.02089549, u'digital_clock', 0.01874727]

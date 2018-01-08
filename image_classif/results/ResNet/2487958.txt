@@ -1,0 +1,4 @@
+[u'digital_clock', 0.74076337, u'digital_watch', 0.25090969, u'stopwatch', 0.0061416826, u'analog_clock', 0.00063338276, u'barometer', 0.00038001424]
+[u'hook', 0.20691295, u'digital_clock', 0.10334282, u'binder', 0.081387155, u'analog_clock', 0.070094436, u'beaker', 0.030189825]
+[u'nematode', 0.19042711, u'golf_ball', 0.1052446, u'web_site', 0.039809246, u'vine_snake', 0.021089157, u'lycaenid', 0.016456347]
+[u'lakeside', 0.21443202, u'alp', 0.15849058, u'valley', 0.11094794, u'castle', 0.083194561, u'monitor', 0.043058895]

@@ -1,0 +1,1 @@
+[u'barbershop', 0.4740462, u'barber_chair', 0.39620432, u'swimming_trunks', 0.0066323075, u'plunger', 0.0056754136, u'binoculars', 0.0041894675]

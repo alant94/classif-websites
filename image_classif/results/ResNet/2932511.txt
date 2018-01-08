@@ -1,0 +1,2 @@
+[u'comic_book', 0.46381482, u'web_site', 0.1412649, u'jigsaw_puzzle', 0.050628532, u'ice_cream', 0.03448543, u'bookshop', 0.021827359]
+[u'Band_Aid', 0.28418124, u'analog_clock', 0.13350578, u'whistle', 0.11628623, u'digital_clock', 0.0845697, u'web_site', 0.040493563]

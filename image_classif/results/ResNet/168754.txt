@@ -1,0 +1,2 @@
+[u'pole', 0.15922409, u'beacon', 0.13191408, u'obelisk', 0.061852064, u'breakwater', 0.061271865, u'pier', 0.058078155]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

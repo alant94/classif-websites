@@ -1,0 +1,2 @@
+[u'horse_cart', 0.19303735, u'ox', 0.10838591, u'oxcart', 0.10175701, u'thresher', 0.094183199, u'dogsled', 0.041072927]
+[u'boathouse', 0.49558261, u'church', 0.1600637, u'bell_cote', 0.034411013, u'lumbermill', 0.024185151, u'patio', 0.021408219]

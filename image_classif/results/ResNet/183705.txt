@@ -1,0 +1,8 @@
+[u'television', 0.64679831, u'web_site', 0.11948409, u'screen', 0.049046174, u'cellular_telephone', 0.026435412, u'scoreboard', 0.022473903]
+[u'web_site', 0.14055853, u'digital_clock', 0.041609369, u'scoreboard', 0.040843312, u'stopwatch', 0.040487189, u'analog_clock', 0.034415122]
+[u'tench', 0.38267785, u'puffer', 0.15562756, u'electric_ray', 0.082822815, u'barracouta', 0.074825317, u'rock_beauty', 0.069090404]
+[u'cinema', 0.46521437, u'streetcar', 0.14561594, u'traffic_light', 0.062450066, u'restaurant', 0.055634312, u'trolleybus', 0.032076027]
+[u'web_site', 0.45469564, u'nail', 0.037881367, u'rifle', 0.016405713, u'nematode', 0.015723471, u'menu', 0.012003072]
+[u'web_site', 0.17228356, u'Band_Aid', 0.11991426, u'street_sign', 0.0339223, u'chain_saw', 0.029835841, u'tobacco_shop', 0.01950055]
+[u'mountain_bike', 0.51090544, u'alp', 0.085061587, u'groenendael', 0.039109152, u'castle', 0.038642678, u'schipperke', 0.02196921]
+[u'pinwheel', 0.26025763, u'envelope', 0.16997711, u'web_site', 0.08556173, u'umbrella', 0.054659411, u'hatchet', 0.047748744]

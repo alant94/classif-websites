@@ -1,0 +1,8 @@
+[u'cellular_telephone', 0.64149165, u'iPod', 0.2840094, u'hand-held_computer', 0.036721855, u'screen', 0.012582394, u'television', 0.0061042733]
+[u'iron', 0.26990339, u'pick', 0.20747703, u'acoustic_guitar', 0.076107323, u'loudspeaker', 0.036967754, u'hamper', 0.022690581]
+[u'barrel', 0.24945955, u'file', 0.084628552, u'book_jacket', 0.077233799, u'dam', 0.048405852, u'bookcase', 0.04127175]
+[u'tripod', 0.3546311, u'upright', 0.077667519, u'binoculars', 0.039801296, u'analog_clock', 0.024050158, u'reflex_camera', 0.021432543]
+[u'wig', 0.097897172, u'shower_curtain', 0.089040048, u'stole', 0.078818478, u'cardigan', 0.075783528, u'bath_towel', 0.063946374]
+[u'axolotl', 0.53042251, u'goldfish', 0.23725559, u'fire_screen', 0.027777126, u'web_site', 0.02648286, u'digital_clock', 0.02172626]
+[u'wig', 0.092194907, u'hair_spray', 0.069610685, u'book_jacket', 0.05691874, u'iron', 0.036072623, u'abaya', 0.030721337]
+[u'analog_clock', 0.061751831, u'television', 0.05080628, u'spotlight', 0.049086932, u'bannister', 0.04700128, u'hook', 0.040054955]

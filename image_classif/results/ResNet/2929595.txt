@@ -1,0 +1,6 @@
+[u'envelope', 0.23022841, u'web_site', 0.10144924, u'pinwheel', 0.079793341, u'electric_fan', 0.068345308, u'analog_clock', 0.063474111]
+[u'clog', 0.16048214, u'mask', 0.12892064, u'crate', 0.10649072, u'totem_pole', 0.1029183, u'mousetrap', 0.057334468]
+[u'promontory', 0.77416068, u'seashore', 0.18989037, u'lakeside', 0.016144728, u'cliff', 0.012826079, u'beacon', 0.0034321831]
+[u'seashore', 0.35797152, u'jigsaw_puzzle', 0.082020469, u'web_site', 0.078735821, u'screen', 0.03212611, u'West_Highland_white_terrier', 0.030031729]
+[u'street_sign', 0.49200392, u'harmonica', 0.045860704, u'lipstick', 0.041949149, u'digital_clock', 0.034257397, u'hook', 0.031341787]
+[u'beaker', 0.70281619, u'measuring_cup', 0.089574881, u'beer_glass', 0.034464147, u'can_opener', 0.011693406, u'pitcher', 0.0097421454]

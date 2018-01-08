@@ -1,0 +1,2 @@
+[u'picket_fence', 0.28550917, u'perfume', 0.043940004, u'oxygen_mask', 0.039523475, u'web_site', 0.027093329, u'beaker', 0.023176504]
+[u'digital_clock', 0.17300142, u'picket_fence', 0.16011357, u'crossword_puzzle', 0.11656811, u'digital_watch', 0.058224671, u'web_site', 0.046550978]

@@ -1,0 +1,6 @@
+[u'space_shuttle', 0.3788732, u'nipple', 0.12456935, u'screw', 0.063768096, u'plunger', 0.027850248, u'projectile', 0.026939303]
+[u'book_jacket', 0.1650527, u'theater_curtain', 0.045127761, u'web_site', 0.039896004, u'jersey', 0.037075143, u'rifle', 0.019789586]
+[u'crutch', 0.1884516, u'washer', 0.11955078, u'projector', 0.078945778, u'electric_fan', 0.057165992, u'dishwasher', 0.049406841]
+[u'envelope', 0.34880233, u'street_sign', 0.059210528, u'digital_clock', 0.044401925, u'analog_clock', 0.043766182, u'binder', 0.039341602]
+[u'envelope', 0.13358812, u'web_site', 0.12154414, u'screw', 0.068603121, u'binder', 0.053435422, u'scuba_diver', 0.034673296]
+[u'web_site', 0.1211252, u'jersey', 0.054631967, u'digital_clock', 0.038175557, u'chain', 0.022362266, u'street_sign', 0.017431926]

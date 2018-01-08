@@ -1,0 +1,4 @@
+[u'sliding_door', 0.22913198, u'web_site', 0.21574445, u'tray', 0.17216288, u'window_shade', 0.077336438, u'shoji', 0.066750877]
+[u'web_site', 0.35461074, u'television', 0.18086354, u'screen', 0.0782189, u'bannister', 0.038626727, u'beaker', 0.036259744]
+[u'carton', 0.096502334, u'packet', 0.090300955, u'printer', 0.080617033, u'binder', 0.059544887, u'toaster', 0.056098476]
+[u'scale', 0.077770695, u'puck', 0.04111414, u'packet', 0.037973613, u'nipple', 0.034148917, u'barometer', 0.032244299]

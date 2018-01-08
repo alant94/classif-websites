@@ -1,0 +1,8 @@
+[u'book_jacket', 0.35989735, u'comic_book', 0.10812046, u'web_site', 0.037385873, u'mousetrap', 0.019112973, u'remote_control', 0.016843913]
+[u'book_jacket', 0.27619398, u'comic_book', 0.23585314, u'web_site', 0.03005043, u'washer', 0.025108267, u'binder', 0.015917005]
+[u'digital_watch', 0.52516735, u'stopwatch', 0.15645404, u'microwave', 0.04093498, u'modem', 0.023064408, u'hard_disc', 0.019124502]
+[u'envelope', 0.075429522, u'strainer', 0.050942834, u'beaker', 0.043348052, u'web_site', 0.041825376, u'spatula', 0.037260424]
+[u'book_jacket', 0.32352248, u'comic_book', 0.16661158, u'mousetrap', 0.020071851, u'web_site', 0.017961364, u'hair_spray', 0.017959788]
+[u'remote_control', 0.035688717, u'hook', 0.027713489, u'web_site', 0.026888911, u'hard_disc', 0.025636898, u'mousetrap', 0.02487763]
+[u'book_jacket', 0.16438863, u'comic_book', 0.10697012, u'web_site', 0.08308728, u'washer', 0.035223976, u'rotisserie', 0.023808813]
+[u'book_jacket', 0.33456266, u'comic_book', 0.12963071, u'web_site', 0.062593803, u'iPod', 0.018126, u'mousetrap', 0.016384959]

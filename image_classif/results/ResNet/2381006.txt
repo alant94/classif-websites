@@ -1,0 +1,5 @@
+[u'book_jacket', 0.22779086, u'barbershop', 0.17408377, u'theater_curtain', 0.11613179, u'tobacco_shop', 0.070659585, u'bakery', 0.050479349]
+[u'lakeside', 0.27983674, u'patio', 0.12039106, u'pot', 0.092667334, u'worm_fence', 0.066309214, u'stupa', 0.033648804]
+[u'valley', 0.23732342, u'lakeside', 0.18452387, u'cliff', 0.12636311, u'alp', 0.090592556, u'bison', 0.080472395]
+[u'wine_bottle', 0.87132543, u'beer_bottle', 0.060550183, u'pop_bottle', 0.028976783, u'red_wine', 0.026263965, u'corkscrew', 0.0037436872]
+[u'web_site', 0.41974872, u'cleaver', 0.018855242, u'neck_brace', 0.013157597, u'Windsor_tie', 0.010829885, u'iron', 0.0093728295]

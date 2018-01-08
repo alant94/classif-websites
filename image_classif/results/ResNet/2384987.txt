@@ -1,0 +1,3 @@
+[u'wine_bottle', 0.52221042, u'red_wine', 0.1901367, u'perfume', 0.067969084, u'eggnog', 0.017745106, u'lotion', 0.017068654]
+[u'bookshop', 0.13612919, u'restaurant', 0.092929877, u'fountain', 0.071167052, u'gondola', 0.027946057, u'fire_screen', 0.027096942]
+[u'street_sign', 0.23275608, u'solar_dish', 0.2304416, u'tobacco_shop', 0.11445795, u'restaurant', 0.040475689, u'bookshop', 0.04027256]

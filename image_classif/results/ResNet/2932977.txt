@@ -1,0 +1,2 @@
+[u'book_jacket', 0.16701479, u'screw', 0.068331107, u'nail', 0.05639169, u'comic_book', 0.04424046, u'hair_spray', 0.023522198]
+[u'nipple', 0.9435966, u'oxygen_mask', 0.012757574, u'plunger', 0.0072414186, u'water_bottle', 0.0065868758, u'screwdriver', 0.0033674631]

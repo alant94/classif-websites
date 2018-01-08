@@ -1,0 +1,8 @@
+[u'web_site', 0.30628088, u'envelope', 0.11111064, u'hook', 0.094165199, u'toilet_seat', 0.044427391, u'medicine_chest', 0.032141902]
+[u'whistle', 0.76836157, u'nipple', 0.038693849, u'ballpoint', 0.035887673, u'lipstick', 0.014254547, u'can_opener', 0.010564166]
+[u'mountain_bike', 0.10247654, u'web_site', 0.088482209, u'television', 0.062092718, u'horizontal_bar', 0.043602027, u'knee_pad', 0.025308087]
+[u'skunk', 0.068081692, u'Chihuahua', 0.066425607, u'muzzle', 0.059815038, u'mortarboard', 0.049877394, u'badger', 0.032773841]
+[u'comic_book', 0.26235774, u'book_jacket', 0.1611062, u'menu', 0.15014689, u'web_site', 0.055050313, u'packet', 0.040096387]
+[u'mountain_bike', 0.089770824, u'rock_python', 0.068226665, u'scoreboard', 0.056229137, u'web_site', 0.054011483, u'castle', 0.025512161]
+[u'lighter', 0.18226545, u'jersey', 0.13904081, u'pool_table', 0.11940613, u'power_drill', 0.087020718, u'can_opener', 0.051338308]
+[u'fire_screen', 0.18419172, u'container_ship', 0.10279156, u'radiator', 0.052258246, u'tobacco_shop', 0.037661031, u'window_screen', 0.025917687]

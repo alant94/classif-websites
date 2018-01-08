@@ -1,0 +1,3 @@
+[u'barn', 0.83001441, u'worm_fence', 0.07131733, u'lumbermill', 0.022197045, u'boathouse', 0.019141896, u'chainlink_fence', 0.0055766022]
+[u'screwdriver', 0.097195536, u'rocking_chair', 0.046546396, u'picket_fence', 0.044649288, u'syringe', 0.04109006, u'lab_coat', 0.036434721]
+[u'rifle', 0.35666415, u'lumbermill', 0.17103258, u'banjo', 0.035598874, u'chain_saw', 0.031844825, u'tank', 0.022961378]

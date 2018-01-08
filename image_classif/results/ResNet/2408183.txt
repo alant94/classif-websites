@@ -1,0 +1,6 @@
+[u'menu', 0.90768069, u'web_site', 0.041522838, u'envelope', 0.017868921, u'gown', 0.003990043, u'handkerchief', 0.0018433203]
+[u'menu', 0.25981739, u'envelope', 0.20820387, u'carton', 0.12618849, u'binder', 0.093835302, u'packet', 0.043949891]
+[u'web_site', 0.17675978, u'shower_curtain', 0.13020366, u'menu', 0.10757155, u'coffee_mug', 0.08406733, u'envelope', 0.040832125]
+[u'envelope', 0.58659399, u'binder', 0.36916754, u'packet', 0.018972613, u'rule', 0.008409352, u'rubber_eraser', 0.0037296137]
+[u'menu', 0.39153147, u'web_site', 0.31472439, u'swab', 0.063908808, u'refrigerator', 0.033311974, u'barbershop', 0.013523637]
+[u'menu', 0.78744268, u'envelope', 0.098560102, u'web_site', 0.030870758, u'handkerchief', 0.021303188, u'cowboy_boot', 0.0090005351]

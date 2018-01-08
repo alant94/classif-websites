@@ -1,0 +1,3 @@
+[u'cock', 0.12284414, u'proboscis_monkey', 0.10058695, u'window_screen', 0.084896304, u'sorrel', 0.060376316, u'Arabian_camel', 0.04892315]
+[u'flagpole', 0.18196471, u'llama', 0.071940057, u'fountain', 0.054231375, u'Arabian_camel', 0.044812582, u'toaster', 0.037344836]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

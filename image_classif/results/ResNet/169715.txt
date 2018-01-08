@@ -1,0 +1,4 @@
+[u'sax', 0.06732934, u'banjo', 0.049248911, u'suit', 0.04857206, u'academic_gown', 0.040442396, u'theater_curtain', 0.028914593]
+[u'promontory', 0.084651873, u'beacon', 0.074421398, u'stone_wall', 0.06429328, u'seashore', 0.060288806, u'megalith', 0.03915282]
+[u'promontory', 0.75443256, u'cliff', 0.13345602, u'seashore', 0.086692125, u'beacon', 0.01880181, u'castle', 0.0016677228]
+[u'television', 0.34314403, u'monitor', 0.32134017, u'web_site', 0.21303818, u'screen', 0.062078584, u'home_theater', 0.016147237]

@@ -1,0 +1,2 @@
+[u'guillotine', 0.77273965, u'lighter', 0.083964325, u'hourglass', 0.011861981, u'beaker', 0.011186193, u'viaduct', 0.0091227591]
+[u'fountain', 0.21583505, u'castle', 0.17949721, u'church', 0.15431996, u'lakeside', 0.1080967, u'valley', 0.070766173]

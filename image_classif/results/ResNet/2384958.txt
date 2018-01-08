@@ -1,0 +1,2 @@
+[u'wine_bottle', 0.84717846, u'red_wine', 0.14553931, u'corkscrew', 0.002427415, u'projectile', 0.00083177199, u'shovel', 0.00057217904]
+[u'book_jacket', 0.77994579, u'street_sign', 0.018453464, u'theater_curtain', 0.014546389, u'hair_spray', 0.01208932, u'sunscreen', 0.0084157372]

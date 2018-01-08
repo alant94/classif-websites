@@ -1,0 +1,4 @@
+[u'iron', 0.54876363, u'mouse', 0.09097866, u'space_bar', 0.044456106, u'waffle_iron', 0.023402762, u'remote_control', 0.019329472]
+[u'hard_disc', 0.5277974, u'can_opener', 0.093043327, u'coffeepot', 0.088594459, u'loupe', 0.039028004, u'perfume', 0.022066137]
+[u'water_jug', 0.1345647, u'window_shade', 0.12100404, u'shower_curtain', 0.1106975, u'lampshade', 0.10883288, u'wall_clock', 0.036825132]
+[u'lens_cap', 0.73564017, u'reflex_camera', 0.076492175, u'running_shoe', 0.029955536, u'tripod', 0.029566731, u'mouse', 0.018380193]

@@ -1,0 +1,5 @@
+[u'timber_wolf', 0.89358997, u'keeshond', 0.014526781, u'red_wolf', 0.01394781, u'dingo', 0.010679196, u'coyote', 0.0095047113]
+[u'book_jacket', 0.54641593, u'web_site', 0.26888415, u'comic_book', 0.059269544, u'isopod', 0.041007347, u'can_opener', 0.015853299]
+[u'medicine_chest', 0.28243232, u'digital_clock', 0.045115925, u'screwdriver', 0.042173874, u'crate', 0.033355042, u'Band_Aid', 0.028348582]
+[u'malamute', 0.11427906, u'earthstar', 0.081496075, u'pot', 0.048170373, u'hen-of-the-woods', 0.04406783, u'hartebeest', 0.031242797]
+[u'crate', 0.70292485, u'chest', 0.12745626, u'brass', 0.039424773, u'barrel', 0.017362516, u'doormat', 0.010332907]

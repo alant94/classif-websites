@@ -1,0 +1,2 @@
+[u'snorkel', 0.15553862, u'ice_lolly', 0.064596638, u'church', 0.060925338, u'matchstick', 0.054885175, u'lighter', 0.043025445]
+[u'web_site', 0.33946362, u'envelope', 0.080488853, u'hook', 0.032379042, u'folding_chair', 0.031990174, u'stretcher', 0.02537117]

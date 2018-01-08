@@ -1,0 +1,8 @@
+[u'prison', 0.30965734, u'chainlink_fence', 0.23626651, u'suspension_bridge', 0.077150919, u'pole', 0.053201322, u'church', 0.032981008]
+[u'Band_Aid', 0.087770045, u'lab_coat', 0.07920818, u'mask', 0.059388239, u'water_bottle', 0.051310066, u'syringe', 0.047898065]
+[u'pole', 0.13860972, u'dock', 0.11123327, u'crane', 0.073471956, u'drilling_platform', 0.068565927, u'fountain', 0.051417977]
+[u'streetcar', 0.09343975, u'traffic_light', 0.078519396, u'tobacco_shop', 0.062951587, u'church', 0.054845229, u'parking_meter', 0.043026619]
+[u'dock', 0.53502685, u'aircraft_carrier', 0.25994432, u'breakwater', 0.12773323, u'trailer_truck', 0.02331543, u'wreck', 0.0069817533]
+[u'church', 0.39985502, u'gondola', 0.18860705, u'prison', 0.074586183, u'castle', 0.065626763, u'parking_meter', 0.055549983]
+[u'breakwater', 0.38180116, u'geyser', 0.09637145, u'liner', 0.086441778, u'fountain', 0.077194273, u'seashore', 0.058528271]
+[u'church', 0.19943042, u'barn', 0.15219589, u'fountain', 0.11572657, u'crane', 0.055533573, u'castle', 0.049715448]

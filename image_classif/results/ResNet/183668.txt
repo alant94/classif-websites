@@ -1,0 +1,2 @@
+[u'web_site', 0.8038013, u'hook', 0.020461317, u'wreck', 0.013476506, u'scuba_diver', 0.012185801, u'cornet', 0.0092097623]
+[u'packet', 0.18904777, u'web_site', 0.18450882, u'comic_book', 0.15726031, u'Band_Aid', 0.10491841, u'carton', 0.10400142]

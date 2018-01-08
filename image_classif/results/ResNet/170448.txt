@@ -1,0 +1,2 @@
+[u'organ', 0.096699908, u'panpipe', 0.063472927, u'sea_snake', 0.054970514, u'picket_fence', 0.04767118, u'lighter', 0.044029787]
+[u'digital_clock', 0.7109279, u'analog_clock', 0.15212852, u'street_sign', 0.056340024, u'digital_watch', 0.012257706, u'wall_clock', 0.0072530578]

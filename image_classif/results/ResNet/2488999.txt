@@ -1,0 +1,5 @@
+[u'valley', 0.41816241, u'lakeside', 0.284794, u'recreational_vehicle', 0.054177772, u'geyser', 0.018734314, u'alp', 0.015377349]
+[u'brass', 0.22099635, u'park_bench', 0.075551048, u'greenhouse', 0.068931967, u'worm_fence', 0.050163686, u'plow', 0.041642934]
+[u'ostrich', 0.41364574, u'ox', 0.40639979, u'gazelle', 0.0808357, u'llama', 0.045178402, u'oxcart', 0.019851852]
+[u'web_site', 0.79749066, u'brass', 0.11062219, u'scoreboard', 0.036809012, u'street_sign', 0.012819109, u'mountain_bike', 0.011249187]
+[u'valley', 0.73183322, u'alp', 0.095431246, u'cliff', 0.088572383, u'promontory', 0.059219189, u'dam', 0.0048965542]

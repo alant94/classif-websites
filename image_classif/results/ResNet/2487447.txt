@@ -1,0 +1,5 @@
+[u'book_jacket', 0.1616061, u'sunscreen', 0.051760949, u'cash_machine', 0.049591657, u'street_sign', 0.047318731, u'screen', 0.033324774]
+[u'refrigerator', 0.10407238, u'book_jacket', 0.085465506, u'web_site', 0.067728356, u'envelope', 0.063620262, u'binder', 0.060417861]
+[u'book_jacket', 0.48748344, u'envelope', 0.096558869, u'brass', 0.039518803, u'electric_ray', 0.039246976, u'web_site', 0.032311648]
+[u'frilled_lizard', 0.42573303, u'barracouta', 0.24059699, u'whiptail', 0.055854511, u'African_chameleon', 0.042432003, u'tailed_frog', 0.036203649]
+[u'lifeboat', 0.18427452, u'speedboat', 0.13666722, u'dock', 0.11721247, u'seashore', 0.10474812, u'fireboat', 0.093033955]

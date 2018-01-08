@@ -1,0 +1,4 @@
+[u'otter', 0.09943068, u'Labrador_retriever', 0.062377617, u'medicine_chest', 0.052921303, u'Norfolk_terrier', 0.051818974, u'sea_lion', 0.040487457]
+[u'digital_clock', 0.076571971, u'digital_watch', 0.066927657, u'sunscreen', 0.053873003, u'switch', 0.04560126, u'web_site', 0.040754773]
+[u'guillotine', 0.73065078, u'window_screen', 0.038537137, u'sliding_door', 0.025240634, u'pole', 0.016501255, u'shoji', 0.014734981]
+[u'chain_saw', 0.40669274, u'wreck', 0.17216578, u'pole', 0.081051424, u'rifle', 0.039883628, u'barn', 0.026329307]

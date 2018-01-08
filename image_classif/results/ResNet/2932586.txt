@@ -1,0 +1,2 @@
+[u'book_jacket', 0.59177601, u'comic_book', 0.10170166, u'screwdriver', 0.024247859, u'can_opener', 0.016800575, u'bow', 0.015047813]
+[u'web_site', 0.26026225, u'theater_curtain', 0.060975846, u'nematode', 0.027938379, u'envelope', 0.017810171, u'lipstick', 0.015643675]

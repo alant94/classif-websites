@@ -1,0 +1,2 @@
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'church', 0.95210057, u'bell_cote', 0.020876244, u'dome', 0.0063539259, u'monastery', 0.0049349121, u'flagpole', 0.0038024446]

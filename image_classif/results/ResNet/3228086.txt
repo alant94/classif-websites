@@ -1,0 +1,2 @@
+[u'Band_Aid', 0.28996041, u'web_site', 0.071003221, u'cash_machine', 0.036923844, u'sunscreen', 0.035672441, u'pill_bottle', 0.029901287]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

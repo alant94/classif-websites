@@ -1,0 +1,5 @@
+[u'tiger', 0.079825237, u'envelope', 0.074381039, u'paper_towel', 0.056392975, u'rifle', 0.048120216, u'buckle', 0.032344196]
+[u'tobacco_shop', 0.6465137, u'lumbermill', 0.14856689, u"potter's_wheel", 0.068838514, u'barbershop', 0.021619847, u'grocery_store', 0.014241563]
+[u'banjo', 0.22345996, u'crossword_puzzle', 0.073226213, u'French_horn', 0.039293468, u'Shetland_sheepdog', 0.030312516, u'jigsaw_puzzle', 0.030149192]
+[u'violin', 0.76332355, u'cello', 0.14232603, u'holster', 0.028025471, u'revolver', 0.0051449062, u'cowboy_boot', 0.004831234]
+[u'chest', 0.74677205, u'crate', 0.0511797, u'carton', 0.030858053, u'pizza', 0.030707512, u'hotdog', 0.022047704]

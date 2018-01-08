@@ -1,0 +1,5 @@
+[u'sewing_machine', 0.15858485, u'espresso_maker', 0.14923534, u'joystick', 0.095344074, u'web_site', 0.055298366, u'oil_filter', 0.045468412]
+[u'grand_piano', 0.47527891, u'bassoon', 0.26504746, u'upright', 0.17253201, u'oboe', 0.049622778, u'flute', 0.012804157]
+[u'boathouse', 0.32675013, u'church', 0.29095203, u'bell_cote', 0.046238437, u'brass', 0.040721271, u'patio', 0.033178791]
+[u'suit', 0.71497202, u'mortarboard', 0.071732514, u'academic_gown', 0.063216366, u'vestment', 0.025567884, u'Windsor_tie', 0.011669639]
+[u'stage', 0.18356742, u'grocery_store', 0.14110069, u'abaya', 0.093585812, u'butcher_shop', 0.070657842, u'slot', 0.062096238]

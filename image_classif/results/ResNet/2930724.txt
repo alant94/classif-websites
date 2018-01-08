@@ -1,0 +1,1 @@
+[u'birdhouse', 0.90474117, u'cassette', 0.0209313, u'can_opener', 0.011215724, u'car_wheel', 0.0087823747, u'pencil_sharpener', 0.0075739357]

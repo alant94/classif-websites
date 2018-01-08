@@ -1,0 +1,4 @@
+[u'Boston_bull', 0.2194483, u'prison', 0.1678424, u'papillon', 0.16411689, u'skunk', 0.031758517, u'English_springer', 0.026824644]
+[u'bathtub', 0.70734727, u'tub', 0.13900773, u'shower_cap', 0.0244244, u'Band_Aid', 0.021373384, u'hog', 0.0099539747]
+[u'sunglass', 0.10219654, u'bow_tie', 0.091596894, u'sax', 0.081845455, u'cowboy_hat', 0.067883335, u'swimming_trunks', 0.051771574]
+[u'bikini', 0.45146778, u'brassiere', 0.19545676, u'maillot', 0.15983629, u'diaper', 0.073895395, u'miniskirt', 0.028936608]

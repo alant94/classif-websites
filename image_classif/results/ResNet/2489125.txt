@@ -1,0 +1,5 @@
+[u'window_screen', 0.58893621, u'book_jacket', 0.077881873, u'shoji', 0.070388995, u'window_shade', 0.045696363, u'web_site', 0.027319377]
+[u'park_bench', 0.89001024, u'studio_couch', 0.023503071, u'stretcher', 0.011558885, u'ashcan', 0.0093579208, u'folding_chair', 0.0084368046]
+[u'toilet_seat', 0.27887127, u'web_site', 0.2205826, u'face_powder', 0.05460503, u'pick', 0.03941815, u'soap_dispenser', 0.03450007]
+[u'web_site', 0.43631238, u'book_jacket', 0.047043741, u'barn', 0.045495566, u'theater_curtain', 0.030517213, u'window_screen', 0.029738881]
+[u'web_site', 0.39211583, u'book_jacket', 0.10415214, u'ballplayer', 0.064506918, u'lab_coat', 0.049866315, u'military_uniform', 0.049553335]

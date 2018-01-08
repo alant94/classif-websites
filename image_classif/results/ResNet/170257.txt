@@ -1,0 +1,7 @@
+[u'hair_slide', 0.2111382, u'hair_spray', 0.08883699, u'groom', 0.059536722, u'swing', 0.037150845, u'cardigan', 0.028977122]
+[u'comic_book', 0.70464993, u'book_jacket', 0.25304601, u'web_site', 0.012500328, u'rifle', 0.0026004703, u'jersey', 0.0015016503]
+[u'book_jacket', 0.20808075, u'comic_book', 0.14939204, u'binder', 0.099364534, u'lighter', 0.047573164, u'packet', 0.046778627]
+[u'digital_clock', 0.59934938, u'crossword_puzzle', 0.041362144, u'analog_clock', 0.039746832, u'wall_clock', 0.036532402, u'digital_watch', 0.034909032]
+[u'dial_telephone', 0.99967241, u'pay-phone', 0.00032610993, u'cellular_telephone', 4.9076317e-07, u'disk_brake', 1.1547461e-07, u'doormat', 9.597251e-08]
+[u'violin', 0.73988879, u'cello', 0.087855041, u'banjo', 0.044211566, u'ladybug', 0.037039094, u'acoustic_guitar', 0.02048894]
+[u'violin', 0.21629089, u'assault_rifle', 0.20523192, u'cello', 0.14814125, u'rifle', 0.053106166, u'harp', 0.03329445]

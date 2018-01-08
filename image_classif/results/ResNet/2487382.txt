@@ -1,0 +1,1 @@
+[u'park_bench', 0.11296699, u'picket_fence', 0.050605774, u'streetcar', 0.041219257, u'jinrikisha', 0.0347628, u'street_sign', 0.032458857]

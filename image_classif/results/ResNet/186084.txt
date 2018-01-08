@@ -1,0 +1,5 @@
+[u'stethoscope', 0.095509686, u'crossword_puzzle', 0.072302707, u'cellular_telephone', 0.050969958, u'binder', 0.041910697, u'iPod', 0.039028142]
+[u'clog', 0.13480161, u'tile_roof', 0.12762164, u'mailbox', 0.10365152, u'organ', 0.048188437, u'window_shade', 0.046689555]
+[u'crossword_puzzle', 0.7571736, u'flute', 0.11422534, u'ballpoint', 0.034916386, u'cornet', 0.023879927, u'oboe', 0.022763057]
+[u'rubber_eraser', 0.29397741, u'library', 0.12646247, u'bookcase', 0.11294972, u'binder', 0.096066013, u'rule', 0.049478047]
+[u'spatula', 0.30495849, u'crate', 0.26883328, u'manhole_cover', 0.040187411, u'computer_keyboard', 0.039192654, u'running_shoe', 0.036275327]

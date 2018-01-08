@@ -1,0 +1,7 @@
+[u'lumbermill', 0.89093012, u'balance_beam', 0.019743577, u'plane', 0.015803028, u'drilling_platform', 0.0094703352, u'tank', 0.0088021038]
+[u'gong', 0.34188768, u'magnetic_compass', 0.27829221, u'slide_rule', 0.1203529, u'wall_clock', 0.064674377, u'coil', 0.03524974]
+[u'gong', 0.34188768, u'magnetic_compass', 0.27829221, u'slide_rule', 0.1203529, u'wall_clock', 0.064674377, u'coil', 0.03524974]
+[u'slide_rule', 0.88964665, u'lumbermill', 0.032515831, u'plate_rack', 0.015366379, u'maze', 0.0044703661, u'crate', 0.0044131852]
+[u"potter's_wheel", 0.3441948, u'steel_drum', 0.25089395, u'drum', 0.034869719, u'toilet_seat', 0.03459686, u'stretcher', 0.032337949]
+[u'paper_towel', 0.17218208, u'perfume', 0.12835212, u'packet', 0.063203759, u'shoji', 0.049740404, u'fire_screen', 0.035101518]
+[u'panpipe', 0.74197423, u'hair_slide', 0.042864699, u'harmonica', 0.027211403, u'theater_curtain', 0.016364638, u'letter_opener', 0.01036083]

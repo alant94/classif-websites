@@ -1,0 +1,2 @@
+[u'electric_fan', 0.90921438, u'chambered_nautilus', 0.03514738, u'hard_disc', 0.019772988, u'CD_player', 0.0079134153, u'cassette', 0.0078422613]
+[u'sock', 0.59334475, u'folding_chair', 0.26250413, u'rocking_chair', 0.042192113, u'flagpole', 0.026975229, u'pencil_box', 0.0053704008]

@@ -1,0 +1,2 @@
+[u'refrigerator', 0.25835115, u'lampshade', 0.17935732, u'envelope', 0.091508783, u'jigsaw_puzzle', 0.061649963, u'table_lamp', 0.057545912]
+[u'hamper', 0.55045074, u'shopping_basket', 0.22699122, u'pot', 0.081957996, u'altar', 0.028814666, u'grocery_store', 0.010850284]

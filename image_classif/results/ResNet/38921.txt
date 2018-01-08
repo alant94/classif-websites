@@ -1,0 +1,2 @@
+[u'digital_clock', 0.60142481, u'analog_clock', 0.074751906, u'tripod', 0.071878947, u'web_site', 0.067078523, u'digital_watch', 0.024978589]
+[u'envelope', 0.059098337, u'web_site', 0.045129005, u'pick', 0.037883617, u'digital_clock', 0.035020851, u'oil_filter', 0.027009496]

@@ -1,0 +1,2 @@
+[u'jersey', 0.36332226, u'tray', 0.18409993, u'book_jacket', 0.091549158, u'laptop', 0.089019984, u'comic_book', 0.043495573]
+[u'hair_slide', 0.25644836, u'pitcher', 0.06997709, u'mask', 0.054701127, u'knot', 0.053561218, u'coffeepot', 0.049912885]

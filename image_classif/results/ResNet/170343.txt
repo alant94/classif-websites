@@ -1,0 +1,3 @@
+[u'hair_slide', 0.075655781, u'nail', 0.032681599, u'plate_rack', 0.032310922, u'screwdriver', 0.028975755, u'whistle', 0.025131837]
+[u'jersey', 0.16318761, u'book_jacket', 0.055445511, u'oil_filter', 0.049189109, u'digital_clock', 0.0413967, u'traffic_light', 0.030846275]
+[u'Arabian_camel', 0.65625179, u'frilled_lizard', 0.062312558, u'orangutan', 0.041319098, u'black_stork', 0.024457747, u'agama', 0.022442171]

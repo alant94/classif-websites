@@ -1,0 +1,3 @@
+[u'lighter', 0.18221319, u'analog_clock', 0.14651564, u'web_site', 0.13384518, u'envelope', 0.10048844, u'pick', 0.062201418]
+[u'analog_clock', 0.87784261, u'wall_clock', 0.026091401, u'tripod', 0.019405836, u'gasmask', 0.011537471, u'digital_clock', 0.011235608]
+[u'analog_clock', 0.53489816, u'tripod', 0.091347322, u'chime', 0.073423296, u'wall_clock', 0.056796625, u'envelope', 0.037363015]

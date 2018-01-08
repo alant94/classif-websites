@@ -1,0 +1,1 @@
+[u'book_jacket', 0.076251023, u'whiskey_jug', 0.053133123, u'toilet_seat', 0.046644755, u'racket', 0.041324094, u'plastic_bag', 0.035569977]

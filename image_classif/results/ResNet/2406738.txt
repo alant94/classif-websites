@@ -1,0 +1,7 @@
+[u'web_site', 0.30634055, u'envelope', 0.066293038, u'hair_spray', 0.048229054, u'lipstick', 0.027197918, u'Band_Aid', 0.024245298]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'digital_clock', 0.61160916, u'web_site', 0.11907735, u'envelope', 0.027786259, u'stopwatch', 0.014582193, u'digital_watch', 0.013700473]
+[u'web_site', 0.54775769, u'dishwasher', 0.045585569, u'envelope', 0.032788336, u'nematode', 0.011716127, u'can_opener', 0.010666053]
+[u'digital_clock', 0.55096477, u'street_sign', 0.1143594, u'web_site', 0.079535961, u'envelope', 0.056440581, u'analog_clock', 0.030953415]
+[u'web_site', 0.45166162, u'sunscreen', 0.042577855, u'Band_Aid', 0.029017944, u'oil_filter', 0.018642515, u'envelope', 0.016101182]
+[u'book_jacket', 0.18077435, u'street_sign', 0.11858445, u'Band_Aid', 0.058724053, u'envelope', 0.055778857, u'web_site', 0.034177281]

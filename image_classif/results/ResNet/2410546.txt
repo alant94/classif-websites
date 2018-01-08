@@ -1,0 +1,1 @@
+[u'throne', 0.1175205, u'stove', 0.055759665, u'barber_chair', 0.048305072, u'hamper', 0.044487629, u'soap_dispenser', 0.042091608]

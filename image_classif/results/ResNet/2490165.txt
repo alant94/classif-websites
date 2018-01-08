@@ -1,0 +1,4 @@
+[u'paper_towel', 0.16977388, u'barrel', 0.10552655, u'theater_curtain', 0.067015596, u'upright', 0.046902429, u'toilet_seat', 0.020342179]
+[u'wild_boar', 0.70538187, u'warthog', 0.090778507, u'ibex', 0.038152151, u'wallaby', 0.029520469, u'bighorn', 0.022611666]
+[u'web_site', 0.29397085, u'comic_book', 0.10823194, u'book_jacket', 0.07300286, u'ski', 0.042840458, u'scoreboard', 0.036653485]
+[u'iPod', 0.30728236, u'television', 0.17947158, u'cellular_telephone', 0.092746779, u'scale', 0.065834709, u'hard_disc', 0.052931421]

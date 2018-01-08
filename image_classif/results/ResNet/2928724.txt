@@ -1,0 +1,5 @@
+[u'envelope', 0.22408231, u'web_site', 0.18452506, u'notebook', 0.08133661, u'dishwasher', 0.032571446, u'washer', 0.023472305]
+[u'harvester', 0.28921056, u'fire_engine', 0.28583762, u'paddlewheel', 0.18571237, u'mobile_home', 0.031084659, u'hog', 0.022201944]
+[u'mobile_home', 0.17922151, u'fire_engine', 0.064584687, u'harvester', 0.050421651, u'container_ship', 0.044306256, u'electric_locomotive', 0.032912992]
+[u'sliding_door', 0.11791963, u'mobile_home', 0.05908886, u'window_screen', 0.052600954, u'solar_dish', 0.041590821, u'monitor', 0.025375064]
+[u'harvester', 0.2132525, u'pickup', 0.16680662, u'fire_engine', 0.12307986, u'tow_truck', 0.10930633, u'beach_wagon', 0.050906148]

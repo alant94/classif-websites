@@ -1,0 +1,2 @@
+[u'bathing_cap', 0.58277136, u'wig', 0.06569691, u'swimming_trunks', 0.063169919, u'maillot', 0.046646766, u'shower_curtain', 0.043741796]
+[u'oscilloscope', 0.86873531, u'screen', 0.066780075, u'digital_clock', 0.01262317, u'stove', 0.0067775222, u'monitor', 0.0067605698]

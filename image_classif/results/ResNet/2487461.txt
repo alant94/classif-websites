@@ -1,0 +1,7 @@
+[u'shield', 0.074124493, u'Band_Aid', 0.053255543, u'street_sign', 0.051985975, u'church', 0.045424685, u'vestment', 0.034290839]
+[u'microwave', 0.90743315, u'dishwasher', 0.038327012, u'refrigerator', 0.013951398, u'washer', 0.0081720436, u'stove', 0.0070660445]
+[u'envelope', 0.13861796, u'web_site', 0.13306664, u'laptop', 0.064280152, u'binder', 0.063296497, u'can_opener', 0.034081582]
+[u'microwave', 0.78472888, u'dishwasher', 0.040318232, u'refrigerator', 0.023099616, u'home_theater', 0.015283518, u'studio_couch', 0.014182851]
+[u'patio', 0.86709917, u'studio_couch', 0.0328198, u'tub', 0.011013793, u'sliding_door', 0.0043956209, u'washer', 0.0036543803]
+[u'web_site', 0.42444012, u'nematode', 0.043942731, u'matchstick', 0.038636923, u'bubble', 0.025455102, u'sax', 0.015630376]
+[u'book_jacket', 0.35238081, u'scoreboard', 0.11632482, u'comic_book', 0.056539878, u'web_site', 0.041757256, u'plunger', 0.018478539]

@@ -1,0 +1,6 @@
+[u'comic_book', 0.49979863, u'monitor', 0.10021935, u'desktop_computer', 0.0441113, u'screen', 0.040892027, u'toyshop', 0.034131557]
+[u'cinema', 0.98215711, u'slot', 0.013717026, u'vending_machine', 0.00085817964, u'screen', 0.00045097602, u'stage', 0.00040739647]
+[u'comic_book', 0.8578034, u'book_jacket', 0.12156995, u'jigsaw_puzzle', 0.0060000313, u'packet', 0.0015162746, u'swimming_trunks', 0.0011683399]
+[u'gong', 0.19577695, u'bubble', 0.17377178, u'slot', 0.14513128, u'barbershop', 0.057662982, u'cinema', 0.050979208]
+[u'candle', 0.11850301, u'hamper', 0.050927423, u'crate', 0.04906125, u'trailer_truck', 0.032534111, u'racer', 0.024313256]
+[u'lumbermill', 0.32291549, u'crane', 0.064188741, u'half_track', 0.053971983, u'cannon', 0.045890708, u'jeep', 0.038423341]

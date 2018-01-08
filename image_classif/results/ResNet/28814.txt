@@ -1,0 +1,5 @@
+[u'shower_curtain', 0.10687427, u'toyshop', 0.065935761, u'cab', 0.056622524, u'shoe_shop', 0.050110053, u'miniskirt', 0.043396734]
+[u'iPod', 0.21024719, u'web_site', 0.20295295, u'monitor', 0.16376738, u'screen', 0.15906292, u'television', 0.111219]
+[u'toyshop', 0.27043843, u'television', 0.095285289, u'web_site', 0.081356376, u'comic_book', 0.069865093, u'desk', 0.066705413]
+[u'jellyfish', 0.91165328, u'shower_curtain', 0.024842519, u'scuba_diver', 0.010476246, u'brassiere', 0.0059167398, u'anemone_fish', 0.0045104227]
+[u'web_site', 0.93212885, u'monitor', 0.034777287, u'desk', 0.0037128653, u'comic_book', 0.003463977, u'desktop_computer', 0.0029135249]

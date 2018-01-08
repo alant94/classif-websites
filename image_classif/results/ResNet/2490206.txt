@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.20167999, u'toilet_seat', 0.12809221, u'dining_table', 0.1112408, u'switch', 0.063072436, u'quilt', 0.052488137]
+[u'badger', 0.19253102, u'black-footed_ferret', 0.088130064, u'hog', 0.080117628, u'Chesapeake_Bay_retriever', 0.054156374, u'red_fox', 0.044752572]

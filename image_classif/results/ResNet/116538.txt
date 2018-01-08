@@ -1,0 +1,1 @@
+[u'ambulance', 0.73118919, u'prayer_rug', 0.041773163, u'fire_engine', 0.022894094, u'otterhound', 0.01329684, u'crossword_puzzle', 0.012884082]

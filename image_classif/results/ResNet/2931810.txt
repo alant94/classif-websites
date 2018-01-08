@@ -1,0 +1,2 @@
+[u'kimono', 0.24037901, u'iron', 0.07493788, u'vestment', 0.047321584, u'abaya', 0.045248181, u'plastic_bag', 0.03333801]
+[u'web_site', 0.82027268, u'monitor', 0.038472418, u'screen', 0.023361957, u'laptop', 0.014634673, u'television', 0.012511303]

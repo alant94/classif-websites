@@ -1,0 +1,3 @@
+[u'comic_book', 0.55631566, u'mousetrap', 0.061663065, u'web_site', 0.056060266, u'book_jacket', 0.037737001, u'chain_saw', 0.022413876]
+[u'puck', 0.35615045, u'football_helmet', 0.10393243, u'jersey', 0.047816418, u'plunger', 0.0416281, u'hatchet', 0.036025364]
+[u'traffic_light', 0.10553382, u'pill_bottle', 0.0781404, u'oil_filter', 0.064653464, u'coil', 0.048348889, u'marimba', 0.040358424]

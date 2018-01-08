@@ -1,0 +1,6 @@
+[u'wine_bottle', 0.28303018, u'pay-phone', 0.12870584, u'beer_bottle', 0.12455104, u'library', 0.078280985, u'bookshop', 0.038817924]
+[u'plate_rack', 0.2230323, u'window_shade', 0.097319052, u'quill', 0.09670224, u'dishwasher', 0.07735762, u'window_screen', 0.042254783]
+[u'alp', 0.16773754, u'valley', 0.15441982, u'cliff', 0.067751251, u'water_buffalo', 0.065462828, u'volcano', 0.02707769]
+[u'valley', 0.2162192, u'hay', 0.15431947, u'volcano', 0.1435201, u'barn', 0.067678139, u'plow', 0.027809428]
+[u'castle', 0.74917865, u'patio', 0.073903061, u'church', 0.066231944, u'monastery', 0.063647151, u'prison', 0.018921575]
+[u'castle', 0.83759952, u'monastery', 0.076856919, u'church', 0.026027709, u'palace', 0.01764795, u'mosque', 0.012340774]

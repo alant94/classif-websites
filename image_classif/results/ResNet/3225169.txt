@@ -1,0 +1,6 @@
+[u'oscilloscope', 0.62664497, u'scoreboard', 0.039567012, u'fire_screen', 0.035765626, u'digital_clock', 0.020648826, u'traffic_light', 0.020474091]
+[u'chime', 0.42513025, u'picket_fence', 0.18469095, u'barn', 0.084735282, u'organ', 0.055809271, u'screwdriver', 0.032750305]
+[u'jersey', 0.26995736, u'sweatshirt', 0.072250232, u'web_site', 0.071878932, u'digital_clock', 0.049337633, u'hair_spray', 0.03861862]
+[u'pelican', 0.13619518, u'fur_coat', 0.079722762, u'king_penguin', 0.043918185, u'pole', 0.029740259, u'bittern', 0.029704545]
+[u'digital_watch', 0.19402146, u'digital_clock', 0.17006513, u'lighter', 0.084422953, u'jersey', 0.080196522, u'analog_clock', 0.032362904]
+[u'digital_clock', 0.32100961, u'screen', 0.15397216, u'stage', 0.12064236, u'monitor', 0.097524807, u'cinema', 0.027234212]

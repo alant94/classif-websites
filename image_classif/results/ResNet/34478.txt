@@ -1,0 +1,1 @@
+[u'toilet_tissue', 0.11636356, u'hook', 0.063067727, u'radiator', 0.054984495, u'paper_towel', 0.048698466, u'bathtub', 0.047965761]

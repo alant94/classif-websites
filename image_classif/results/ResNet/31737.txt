@@ -1,0 +1,2 @@
+[u'gown', 0.67382395, u'sarong', 0.16857153, u'overskirt', 0.13144024, u'hoopskirt', 0.024466097, u'miniskirt', 0.00043955265]
+[u'wig', 0.85384321, u'hoopskirt', 0.033122316, u'overskirt', 0.018837338, u'hair_spray', 0.011279085, u'maillot', 0.0068548089]

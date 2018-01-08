@@ -1,0 +1,4 @@
+[u'web_site', 0.93562013, u'racer', 0.034315594, u'comic_book', 0.0045850961, u'ski', 0.0040085237, u'envelope', 0.0015836649]
+[u'web_site', 0.33719364, u'street_sign', 0.23799318, u'cash_machine', 0.037491407, u'digital_clock', 0.028824899, u'Band_Aid', 0.022400575]
+[u'web_site', 0.96986258, u'racer', 0.012368737, u'ski', 0.0072698672, u'hammer', 0.0011772827, u'comic_book', 0.00090737978]
+[u'web_site', 0.24588688, u'can_opener', 0.060835332, u'mouse', 0.050467048, u'hook', 0.03031788, u'screwdriver', 0.028020035]

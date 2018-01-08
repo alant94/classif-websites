@@ -1,0 +1,7 @@
+[u'clumber', 0.59622639, u'English_setter', 0.19383977, u'Great_Pyrenees', 0.073220983, u'borzoi', 0.020418776, u'kuvasz', 0.01349891]
+[u'chain_saw', 0.31895822, u'Walker_hound', 0.096955195, u'overskirt', 0.08292187, u'borzoi', 0.055841371, u'barracouta', 0.043246608]
+[u'Great_Dane', 0.092396721, u'barracouta', 0.069374144, u'wood_rabbit', 0.04466961, u'hoopskirt', 0.032185946, u'kuvasz', 0.029485894]
+[u'chain_saw', 0.25769994, u'mountain_bike', 0.083939962, u'Bouvier_des_Flandres', 0.072840378, u'megalith', 0.042259295, u'briard', 0.042024508]
+[u'English_setter', 0.68505603, u'Welsh_springer_spaniel', 0.13254605, u'borzoi', 0.032620694, u'papillon', 0.024423385, u'Japanese_spaniel', 0.018653356]
+[u'hartebeest', 0.51874185, u'warthog', 0.077038817, u'mountain_bike', 0.049537484, u'impala', 0.034108721, u'wallaby', 0.030957075]
+[u'hartebeest', 0.52274191, u'warthog', 0.036735509, u'Gordon_setter', 0.035914764, u'American_black_bear', 0.029739594, u'tusker', 0.029428484]

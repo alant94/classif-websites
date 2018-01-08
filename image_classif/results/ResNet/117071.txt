@@ -1,0 +1,7 @@
+[u'can_opener', 0.20878378, u'refrigerator', 0.077203229, u'file', 0.049773712, u'iron', 0.043651748, u'bannister', 0.031835403]
+[u'tobacco_shop', 0.072656691, u'slot', 0.070531137, u'dishwasher', 0.05112049, u'bakery', 0.046743374, u'lumbermill', 0.036976207]
+[u'brass', 0.15174131, u'menu', 0.080010988, u'isopod', 0.075190932, u'chain', 0.057614338, u'table_lamp', 0.056040782]
+[u'amphibian', 0.31948712, u'tank', 0.2988776, u'tow_truck', 0.06142623, u'cannon', 0.03862546, u'crane', 0.032714963]
+[u'corn', 0.53763843, u'ear', 0.20612392, u'brass', 0.014187916, u'vulture', 0.011946028, u'knot', 0.0092767831]
+[u'brass', 0.27619198, u'cash_machine', 0.077454299, u'turnstile', 0.071407482, u'menu', 0.043406263, u'dial_telephone', 0.036437787]
+[u'menu', 0.10952695, u'shopping_basket', 0.073740572, u'bookshop', 0.059646763, u'brass', 0.056815282, u'shopping_cart', 0.056141071]

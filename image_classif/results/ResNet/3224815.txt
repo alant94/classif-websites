@@ -1,0 +1,6 @@
+[u'envelope', 0.60052073, u'book_jacket', 0.12598372, u'web_site', 0.035225473, u'shower_curtain', 0.012327456, u'brass', 0.011624096]
+[u'bow', 0.36100215, u'dumbbell', 0.13393497, u'balloon', 0.064285971, u'punching_bag', 0.056810535, u'parachute', 0.051678479]
+[u'comic_book', 0.39555779, u'book_jacket', 0.30260023, u'crossword_puzzle', 0.07256078, u'digital_watch', 0.053355861, u'remote_control', 0.014862983]
+[u'basketball', 0.36057106, u'football_helmet', 0.23737884, u'soccer_ball', 0.07665807, u'rugby_ball', 0.061907675, u'Irish_wolfhound', 0.026286483]
+[u'tow_truck', 0.038597342, u'beer_bottle', 0.03757285, u'crash_helmet', 0.025252959, u'stage', 0.022613594, u'odometer', 0.019016394]
+[u'web_site', 0.18997195, u'envelope', 0.17910287, u'iPod', 0.12887964, u'jersey', 0.038425136, u'neck_brace', 0.037004318]

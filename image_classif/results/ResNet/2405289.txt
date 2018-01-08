@@ -1,0 +1,1 @@
+[u'web_site', 0.10729104, u'solar_dish', 0.077442877, u'coho', 0.059637059, u'slide_rule', 0.050450865, u'electric_fan', 0.037119016]

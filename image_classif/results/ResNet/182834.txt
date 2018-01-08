@@ -1,0 +1,8 @@
+[u'pick', 0.22123988, u'digital_clock', 0.077017799, u'coffee_mug', 0.056681767, u'cleaver', 0.048697289, u'sunscreen', 0.034999672]
+[u'football_helmet', 0.044037852, u'sports_car', 0.041333314, u'tow_truck', 0.033564337, u'amphibian', 0.030536698, u'racer', 0.02692569]
+[u'scoreboard', 0.17937776, u'book_jacket', 0.13499175, u'web_site', 0.036576137, u'pill_bottle', 0.034760356, u'muzzle', 0.019942556]
+[u'comic_book', 0.071253084, u'drum', 0.062866867, u'swimming_trunks', 0.034226488, u'crash_helmet', 0.031460695, u'pillow', 0.028710557]
+[u'shield', 0.48445827, u'bolo_tie', 0.15436445, u'nipple', 0.052466743, u'bow', 0.041478023, u'bottlecap', 0.034819078]
+[u'pickup', 0.45554975, u'convertible', 0.15683751, u'tow_truck', 0.088222273, u'car_wheel', 0.048323702, u'jeep', 0.044465862]
+[u'binder', 0.14905773, u'nematode', 0.072469659, u'web_site', 0.055331904, u'envelope', 0.046544682, u'tricycle', 0.0315286]
+[u'cab', 0.97003192, u'racer', 0.016639162, u'sports_car', 0.0028350565, u'jeep', 0.002821102, u'minibus', 0.002729387]

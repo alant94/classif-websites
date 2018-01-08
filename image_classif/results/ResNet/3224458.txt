@@ -1,0 +1,1 @@
+[u'envelope', 0.25411889, u'refrigerator', 0.034106065, u'solar_dish', 0.025346478, u'dishwasher', 0.021762695, u'electric_fan', 0.020069165]

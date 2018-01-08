@@ -1,0 +1,7 @@
+[u'proboscis_monkey', 0.2308564, u'macaque', 0.10059827, u'capuchin', 0.090070255, u'panpipe', 0.082721949, u'harmonica', 0.065911829]
+[u'pick', 0.91687924, u'drum', 0.027497839, u'shield', 0.021318892, u'bucket', 0.0033747831, u'sunglass', 0.0020077396]
+[u'cuirass', 0.075812936, u'breastplate', 0.064439513, u'bulletproof_vest', 0.042839665, u'lab_coat', 0.041095395, u'radiator', 0.036991112]
+[u'binder', 0.26509133, u'lighter', 0.16607957, u'oil_filter', 0.076874897, u'guillotine', 0.068549581, u'perfume', 0.03472165]
+[u'fire_screen', 0.24509524, u'medicine_chest', 0.16085944, u'bookcase', 0.1252224, u'cash_machine', 0.06357047, u'china_cabinet', 0.030829409]
+[u'church', 0.38309285, u'starfish', 0.11441398, u'chain_saw', 0.10604616, u'space_shuttle', 0.10271772, u'comic_book', 0.042590681]
+[u'velvet', 0.17239249, u'brassiere', 0.13004258, u'abaya', 0.070441119, u'barn_spider', 0.066127345, u'jersey', 0.0498005]

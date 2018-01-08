@@ -1,0 +1,7 @@
+[u'flamingo', 0.99986172, u'crane', 5.2195581e-05, u'spoonbill', 1.9028592e-05, u'American_egret', 1.5467584e-05, u'pelican', 1.2840833e-05]
+[u'daisy', 0.36401358, u'bee', 0.17858189, u'orange', 0.078512482, u'ant', 0.023652537, u'vase', 0.020601828]
+[u'trench_coat', 0.26306531, u'jean', 0.089107603, u'missile', 0.043461531, u'projectile', 0.039205216, u'cloak', 0.037289053]
+[u'screen', 0.10769443, u'web_site', 0.081126407, u'monitor', 0.071206011, u'jigsaw_puzzle', 0.048743151, u'coral_reef', 0.046873305]
+[u'fountain', 0.17429155, u'honeycomb', 0.054373525, u'perfume', 0.044510894, u'night_snake', 0.039813671, u'jigsaw_puzzle', 0.038220502]
+[u'valley', 0.58839917, u'alp', 0.34376377, u'cliff', 0.032604609, u'stupa', 0.0061606332, u'lakeside', 0.0048084348]
+[u'seashore', 0.74867487, u'lakeside', 0.060651075, u'wreck', 0.045776948, u'tripod', 0.018131336, u'promontory', 0.014101152]

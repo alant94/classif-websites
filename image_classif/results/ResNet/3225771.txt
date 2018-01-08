@@ -1,0 +1,1 @@
+[u'web_site', 0.7273407, u'bannister', 0.049972735, u'barbershop', 0.037921473, u'abaya', 0.017985757, u'comic_book', 0.011792092]

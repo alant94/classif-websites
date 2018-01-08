@@ -1,0 +1,5 @@
+[u'hair_slide', 0.27753189, u'turnstile', 0.12285666, u'microphone', 0.033397686, u"carpenter's_kit", 0.032426242, u'safety_pin', 0.026589628]
+[u'digital_clock', 0.2209246, u'digital_watch', 0.19020441, u'crossword_puzzle', 0.18131699, u'book_jacket', 0.08551643, u'picket_fence', 0.082677267]
+[u'analog_clock', 0.13723813, u'Band_Aid', 0.056198262, u'digital_clock', 0.045688078, u'hair_spray', 0.044264901, u'rule', 0.039654326]
+[u'iron', 0.6621291, u'pencil_sharpener', 0.094600305, u'swab', 0.041068815, u'can_opener', 0.026445663, u'face_powder', 0.018980784]
+[u'digital_clock', 0.36834544, u'digital_watch', 0.17873585, u'crossword_puzzle', 0.14073561, u'stopwatch', 0.027626328, u'web_site', 0.022727313]

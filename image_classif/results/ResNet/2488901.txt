@@ -1,0 +1,1 @@
+[u'envelope', 0.079517134, u'laptop', 0.055431705, u'folding_chair', 0.046485532, u'tripod', 0.040538806, u'street_sign', 0.030282367]

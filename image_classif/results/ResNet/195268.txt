@@ -1,0 +1,3 @@
+[u'web_site', 0.76060629, u'digital_clock', 0.026794272, u'football_helmet', 0.026064929, u'stopwatch', 0.018332761, u'analog_clock', 0.014294066]
+[u'puck', 0.093627341, u'face_powder', 0.087547906, u'frying_pan', 0.069954582, u'buckle', 0.04220815, u'loupe', 0.031943671]
+[u'web_site', 0.18254142, u'envelope', 0.032357458, u'nail', 0.013203818, u'nematode', 0.012189253, u'frying_pan', 0.011481885]

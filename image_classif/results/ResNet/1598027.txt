@@ -1,0 +1,2 @@
+[u'fire_screen', 0.22829889, u'comic_book', 0.071111843, u'matchstick', 0.066779055, u'candle', 0.055551358, u'lipstick', 0.03240614]
+[u'brassiere', 0.67298061, u'sunglasses', 0.044453673, u'bikini', 0.031568736, u'seat_belt', 0.028152218, u'sunglass', 0.020445412]

@@ -1,0 +1,4 @@
+[u'notebook', 0.66980839, u'suit', 0.14099078, u'academic_gown', 0.069346651, u'miniskirt', 0.042024866, u'grand_piano', 0.013941924]
+[u'menu', 0.35469279, u'web_site', 0.31307024, u'slot', 0.041068695, u'laptop', 0.024765737, u'envelope', 0.016582258]
+[u'web_site', 0.15234105, u'flagpole', 0.10750903, u'water_tower', 0.092340499, u'church', 0.074429423, u'pole', 0.059581257]
+[u'matchstick', 0.4094896, u'web_site', 0.14409615, u'television', 0.037363902, u'knot', 0.035772357, u'safety_pin', 0.031544]

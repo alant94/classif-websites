@@ -1,0 +1,7 @@
+[u'digital_clock', 0.93322301, u'digital_watch', 0.031753629, u'stopwatch', 0.0099429302, u'analog_clock', 0.009673289, u'scoreboard', 0.0019086557]
+[u'church', 0.25848332, u'obelisk', 0.10583629, u'altar', 0.094633393, u'bell_cote', 0.0621689, u'picket_fence', 0.045077089]
+[u'digital_clock', 0.93322301, u'digital_watch', 0.031753629, u'stopwatch', 0.0099429302, u'analog_clock', 0.009673289, u'scoreboard', 0.0019086557]
+[u'tub', 0.17215155, u'shoji', 0.093770146, u'altar', 0.071019731, u'bathtub', 0.066283293, u'window_shade', 0.061610252]
+[u'book_jacket', 0.29544675, u'comic_book', 0.21534464, u'digital_clock', 0.16282342, u'digital_watch', 0.04277686, u'prayer_rug', 0.041574944]
+[u'analog_clock', 0.20706804, u'wall_clock', 0.10320185, u'matchstick', 0.095215239, u'rule', 0.07343366, u'book_jacket', 0.068116255]
+[u'shower_curtain', 0.16978724, u'screen', 0.10257841, u'theater_curtain', 0.089832395, u'scuba_diver', 0.081982702, u'monitor', 0.065042257]

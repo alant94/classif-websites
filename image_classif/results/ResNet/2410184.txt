@@ -1,0 +1,5 @@
+[u'digital_clock', 0.25101686, u'washbasin', 0.12974894, u'prayer_rug', 0.080518782, u'television', 0.050120682, u'wardrobe', 0.040894691]
+[u'panpipe', 0.17517573, u'space_shuttle', 0.10837206, u'theater_curtain', 0.07771863, u'candle', 0.04837257, u'television', 0.03955771]
+[u'coil', 0.29713494, u'organ', 0.2529406, u'solar_dish', 0.055621408, u'library', 0.047072843, u'loupe', 0.027046988]
+[u'jigsaw_puzzle', 0.85201931, u'screen', 0.047911577, u'monitor', 0.018955894, u'loupe', 0.011253639, u'screw', 0.010562232]
+[u'space_shuttle', 0.65165687, u'candle', 0.1675946, u'balloon', 0.025975052, u'jellyfish', 0.020302001, u'soap_dispenser', 0.016018355]

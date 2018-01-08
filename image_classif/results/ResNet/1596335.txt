@@ -1,0 +1,1 @@
+[u'television', 0.054908451, u'iron', 0.048066221, u'radiator', 0.035844862, u'fire_screen', 0.030767836, u'monitor', 0.02394479]

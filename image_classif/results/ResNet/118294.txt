@@ -1,0 +1,3 @@
+[u'comic_book', 0.99927109, u'book_jacket', 0.0006480919, u'jigsaw_puzzle', 1.8341523e-05, u'slot', 1.0333748e-05, u'coffee_mug', 7.0475553e-06]
+[u'envelope', 0.24234655, u'web_site', 0.058510553, u'toilet_tissue', 0.041252419, u'golf_ball', 0.039712474, u'ping-pong_ball', 0.033889573]
+[u'slot', 0.8809582, u'toyshop', 0.042778939, u'vending_machine', 0.015955621, u'wall_clock', 0.0048548374, u'comic_book', 0.0041933437]

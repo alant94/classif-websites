@@ -1,0 +1,6 @@
+[u'menu', 0.23160395, u'web_site', 0.1514841, u'packet', 0.081018202, u'moving_van', 0.039242383, u'parking_meter', 0.031060176]
+[u'shield', 0.65590042, u'prayer_rug', 0.18539502, u'wall_clock', 0.013341919, u'tray', 0.010411269, u'toilet_seat', 0.008022503]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'whistle', 0.22741419, u'crossword_puzzle', 0.084322676, u'Band_Aid', 0.077459015, u'quilt', 0.061530586, u'prayer_rug', 0.03318293]
+[u'book_jacket', 0.56638628, u'barn', 0.098296918, u'church', 0.079770684, u'park_bench', 0.019772245, u'theater_curtain', 0.011470531]
+[u"jack-o'-lantern", 0.95543265, u'ping-pong_ball', 0.0079311626, u'pencil_sharpener', 0.0023211499, u'digital_clock', 0.0023211255, u'gong', 0.002255151]

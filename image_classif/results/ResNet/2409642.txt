@@ -1,0 +1,7 @@
+[u'ski', 0.11308105, u'web_site', 0.094914667, u'folding_chair', 0.075547859, u'shower_curtain', 0.068606488, u'picket_fence', 0.058824614]
+[u'tray', 0.1875618, u'folding_chair', 0.10802229, u'quilt', 0.068850622, u'web_site', 0.060040381, u'crossword_puzzle', 0.035177045]
+[u'cowboy_boot', 0.10764846, u'diaper', 0.075189017, u'tricycle', 0.06892623, u'miniskirt', 0.061505999, u'swimming_trunks', 0.05982618]
+[u'folding_chair', 0.36555767, u'picket_fence', 0.22542392, u'flagpole', 0.080610357, u'digital_clock', 0.050008688, u'ski', 0.045348212]
+[u'web_site', 0.54579425, u'envelope', 0.060738061, u'iron', 0.01768617, u'hand_blower', 0.013745232, u'can_opener', 0.011482267]
+[u'diaper', 0.77079099, u'ice_lolly', 0.055556893, u'swimming_trunks', 0.02499488, u'Band_Aid', 0.016626712, u'nipple', 0.015815219]
+[u'diaper', 0.43519753, u'knee_pad', 0.28052893, u'neck_brace', 0.12600541, u'bulletproof_vest', 0.069837503, u'sleeping_bag', 0.026696529]

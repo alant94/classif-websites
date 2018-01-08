@@ -1,0 +1,1 @@
+[u'candle', 0.99445349, u'envelope', 0.0015893343, u'carton', 0.00096197886, u'paper_towel', 0.00080578274, u'matchstick', 0.00047754752]

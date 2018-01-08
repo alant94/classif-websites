@@ -1,0 +1,3 @@
+[u'web_site', 0.72091526, u'book_jacket', 0.22590025, u'television', 0.011640337, u'screen', 0.011467665, u'monitor', 0.0050566089]
+[u'apiary', 0.71293312, u'parallel_bars', 0.099854887, u'honeycomb', 0.074726254, u'shovel', 0.025450576, u'croquet_ball', 0.020127265]
+[u'apiary', 0.8363173, u'swing', 0.082436532, u'honeycomb', 0.013151885, u'crate', 0.0052537327, u'bannister', 0.0042989692]

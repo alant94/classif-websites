@@ -1,0 +1,7 @@
+[u'web_site', 0.33873078, u'envelope', 0.069732994, u'laptop', 0.058202177, u'sunscreen', 0.038728602, u'bow', 0.029294848]
+[u'slot', 0.19203813, u'remote_control', 0.13105634, u'laptop', 0.089577533, u'tray', 0.070445247, u'web_site', 0.060881212]
+[u'desktop_computer', 0.21752761, u'upright', 0.094843268, u'hard_disc', 0.087970443, u'screen', 0.07398238, u'loudspeaker', 0.068476506]
+[u'pay-phone', 0.43696353, u'remote_control', 0.34839731, u'parking_meter', 0.044136968, u'dial_telephone', 0.030690365, u'cash_machine', 0.0091272993]
+[u'space_heater', 0.30973795, u'stove', 0.11290035, u'feather_boa', 0.084149383, u'cellular_telephone', 0.030560929, u'vending_machine', 0.027750727]
+[u'football_helmet', 0.15370908, u'shield', 0.11015285, u'rugby_ball', 0.065299354, u'crash_helmet', 0.054529484, u'bottlecap', 0.026218109]
+[u'whiskey_jug', 0.4421379, u'pitcher', 0.17636898, u'vase', 0.12645447, u'crash_helmet', 0.07396289, u'maraca', 0.043388918]

@@ -1,0 +1,3 @@
+[u'golf_ball', 0.22178178, u'spotlight', 0.042946432, u'paper_towel', 0.039101083, u'envelope', 0.03903348, u'cleaver', 0.0230482]
+[u'golf_ball', 0.22178178, u'spotlight', 0.042946432, u'paper_towel', 0.039101083, u'envelope', 0.03903348, u'cleaver', 0.0230482]
+[u'Irish_wolfhound', 0.38152424, u'Scottish_deerhound', 0.080367714, u'timber_wolf', 0.065633327, u'Dandie_Dinmont', 0.045802735, u'black-footed_ferret', 0.041167419]

@@ -1,0 +1,4 @@
+[u'traffic_light', 0.50098288, u'lighter', 0.1058837, u'street_sign', 0.084421381, u'scoreboard', 0.033252422, u'ambulance', 0.020380761]
+[u'scoreboard', 0.64555407, u'balance_beam', 0.11768314, u'racer', 0.022954453, u'packet', 0.016373534, u'ballplayer', 0.015182823]
+[u'fire_screen', 0.18508109, u'badger', 0.15984091, u'German_shepherd', 0.10043615, u'radiator', 0.070588738, u'English_springer', 0.064449713]
+[u'paper_towel', 0.54851967, u'toilet_tissue', 0.30621102, u'diaper', 0.06389156, u'knee_pad', 0.015196199, u'face_powder', 0.011353588]

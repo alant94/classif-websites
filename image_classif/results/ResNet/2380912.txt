@@ -1,0 +1,7 @@
+[u'digital_clock', 0.12654039, u'web_site', 0.082214639, u'book_jacket', 0.051433571, u'tripod', 0.045244388, u'guillotine', 0.034163479]
+[u'red_wine', 0.8209008, u'wine_bottle', 0.17808539, u'corkscrew', 0.0008730783, u'chocolate_sauce', 5.7975838e-05, u'punching_bag', 3.8897124e-05]
+[u'wine_bottle', 0.33584183, u'eggnog', 0.13884704, u'cocktail_shaker', 0.1298712, u'red_wine', 0.071407676, u'hamper', 0.051081941]
+[u'lotion', 0.75771278, u'pill_bottle', 0.084313162, u'perfume', 0.044020131, u'hair_spray', 0.017102489, u'web_site', 0.01502333]
+[u'wine_bottle', 0.18984273, u'vase', 0.15552086, u'cocktail_shaker', 0.10760529, u'beaker', 0.097954907, u'cucumber', 0.047524866]
+[u'binder', 0.11098086, u'web_site', 0.081675559, u'bulletproof_vest', 0.037486039, u'abaya', 0.026787139, u'dishwasher', 0.025294755]
+[u'red_wine', 0.88773263, u'hourglass', 0.05160841, u'goblet', 0.026890188, u'wine_bottle', 0.025998889, u'maraca', 0.0045683091]

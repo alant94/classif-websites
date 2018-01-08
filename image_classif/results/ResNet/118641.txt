@@ -1,0 +1,4 @@
+[u'book_jacket', 0.52147454, u'binder', 0.043541212, u'wallet', 0.041417256, u'perfume', 0.03539538, u'tray', 0.033813566]
+[u'theater_curtain', 0.43129915, u'stove', 0.15719655, u'cinema', 0.12481357, u'cornet', 0.11333419, u'fire_screen', 0.051642273]
+[u'cornet', 0.76780289, u'hair_spray', 0.054366119, u'perfume', 0.029947443, u'chime', 0.022428893, u'chain', 0.011724233]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

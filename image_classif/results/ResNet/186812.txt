@@ -1,0 +1,3 @@
+[u'crossword_puzzle', 0.84634972, u'digital_watch', 0.065074861, u'digital_clock', 0.02247321, u'remote_control', 0.0062174294, u'loudspeaker', 0.0040202676]
+[u'football_helmet', 0.14232045, u'web_site', 0.069923662, u'planetarium', 0.050933748, u'panpipe', 0.05046083, u'theater_curtain', 0.038031049]
+[u'envelope', 0.13805398, u'web_site', 0.11140843, u'dishwasher', 0.07102064, u'washer', 0.035576839, u'refrigerator', 0.023780622]

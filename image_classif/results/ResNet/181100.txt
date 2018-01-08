@@ -1,0 +1,1 @@
+[u'suit', 0.80976975, u'Windsor_tie', 0.12731797, u'bolo_tie', 0.0044239908, u'trench_coat', 0.0044101509, u'lab_coat', 0.0028949478]

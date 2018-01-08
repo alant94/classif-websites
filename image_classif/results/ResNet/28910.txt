@@ -1,0 +1,4 @@
+[u'web_site', 0.4683632, u'television', 0.17255425, u'book_jacket', 0.10933168, u'analog_clock', 0.080227278, u'screen', 0.052766792]
+[u'comic_book', 0.1331602, u'sax', 0.072426707, u'book_jacket', 0.069522113, u'panpipe', 0.056819513, u'harmonica', 0.033400685]
+[u'balance_beam', 0.68815041, u'horizontal_bar', 0.1551529, u'parallel_bars', 0.086002268, u'volleyball', 0.024092678, u'basketball', 0.0089681055]
+[u'screen', 0.23741724, u'oscilloscope', 0.13042249, u'book_jacket', 0.11074968, u'analog_clock', 0.06156845, u'bannister', 0.042444207]

@@ -1,0 +1,4 @@
+[u'pole', 0.27162248, u'altar', 0.23497307, u'fountain', 0.13450572, u'candle', 0.064703621, u'church', 0.049092274]
+[u'menu', 0.34016401, u'crossword_puzzle', 0.27780277, u'envelope', 0.025276985, u'tray', 0.021043243, u'cleaver', 0.015739452]
+[u'Band_Aid', 0.078804329, u'digital_watch', 0.046011355, u'safety_pin', 0.042836778, u'nipple', 0.040747106, u'web_site', 0.030107403]
+[u'web_site', 0.36724377, u'tripod', 0.038857739, u'hook', 0.02726534, u'digital_clock', 0.025463099, u'bannister', 0.020149136]

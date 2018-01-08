@@ -1,0 +1,4 @@
+[u'chain', 0.28270742, u'umbrella', 0.17059499, u'nail', 0.081951253, u'padlock', 0.060190909, u'hook', 0.04803082]
+[u'paddlewheel', 0.23810206, u'plow', 0.17622536, u'chain', 0.12001412, u'folding_chair', 0.076992296, u'barrow', 0.065306447]
+[u'paintbrush', 0.30546746, u'gong', 0.22122324, u'shovel', 0.21723942, u'wooden_spoon', 0.10380496, u'maraca', 0.037716758]
+[u'shower_curtain', 0.17613997, u'theater_curtain', 0.10968753, u'sarong', 0.1066182, u'jersey', 0.073481262, u'gown', 0.067913704]

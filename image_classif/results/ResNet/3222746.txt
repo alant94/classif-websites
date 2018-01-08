@@ -1,0 +1,2 @@
+[u'mosque', 0.34379569, u'church', 0.27037743, u'monastery', 0.12903088, u'bell_cote', 0.093138345, u'cinema', 0.055915926]
+[u'menu', 0.80542409, u'binder', 0.05387906, u'crossword_puzzle', 0.03491883, u'web_site', 0.015283577, u'slide_rule', 0.0096433274]

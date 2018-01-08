@@ -1,0 +1,8 @@
+[u'church', 0.71942097, u'carton', 0.037660968, u'rule', 0.032790672, u'envelope', 0.021750377, u'fountain', 0.015826197]
+[u'shield', 0.31873363, u'ping-pong_ball', 0.088537835, u'football_helmet', 0.063661732, u'analog_clock', 0.042386085, u'digital_clock', 0.041855551]
+[u'butcher_shop', 0.49962398, u'wig', 0.12907586, u'swimming_trunks', 0.047989178, u'bikini', 0.041825503, u'cleaver', 0.035329703]
+[u'book_jacket', 0.51420712, u'comic_book', 0.36929905, u'web_site', 0.018195147, u'street_sign', 0.013747096, u'barbershop', 0.011548781]
+[u'chest', 0.097318493, u'crate', 0.061584335, u'birdhouse', 0.048874669, u'carton', 0.041319299, u'breastplate', 0.040143363]
+[u'vault', 0.33508492, u'church', 0.26138109, u'altar', 0.098742224, u'prison', 0.09462209, u'organ', 0.070819557]
+[u'geyser', 0.34481525, u'alp', 0.18231447, u'volcano', 0.13766767, u'cliff', 0.049829196, u'beacon', 0.027165826]
+[u'pole', 0.7464025, u'church', 0.065191813, u'crane', 0.037529059, u'water_tower', 0.021776693, u'parking_meter', 0.014271592]

@@ -1,0 +1,7 @@
+[u'sock', 0.57725888, u'mortar', 0.078520939, u'shoe_shop', 0.055162884, u'clog', 0.032468073, u'wooden_spoon', 0.026869785]
+[u'grille', 0.43204647, u'convertible', 0.25420898, u'minivan', 0.062913157, u'pickup', 0.060170516, u'sports_car', 0.056994714]
+[u'web_site', 0.31261784, u'Band_Aid', 0.049442645, u'abaya', 0.046601139, u'football_helmet', 0.044106618, u'ostrich', 0.04104222]
+[u'Christmas_stocking', 0.41619721, u'macaw', 0.083043352, u'coffeepot', 0.053050164, u'picket_fence', 0.050917085, u'bucket', 0.042354692]
+[u'motor_scooter', 0.80005676, u'trailer_truck', 0.060446158, u'moped', 0.028224643, u'lawn_mower', 0.024969785, u'recreational_vehicle', 0.015925996]
+[u'web_site', 0.97910529, u'menu', 0.0018705424, u'microwave', 0.0014203694, u'washer', 0.00085126306, u'altar', 0.00079780427]
+[u'water_bottle', 0.097979553, u'stupa', 0.083620854, u'whistle', 0.079706244, u'nipple', 0.063072793, u'hair_spray', 0.038593978]

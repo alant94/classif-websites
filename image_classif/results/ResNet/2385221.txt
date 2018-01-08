@@ -1,0 +1,1 @@
+[u'switch', 0.23215769, u'syringe', 0.13151982, u'oxygen_mask', 0.10106822, u'modem', 0.092177629, u'beaker', 0.038006816]

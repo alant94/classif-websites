@@ -1,0 +1,5 @@
+[u'web_site', 0.15746081, u'comic_book', 0.074107751, u'television', 0.067746632, u'paddle', 0.040128466, u'German_shepherd', 0.024585873]
+[u'packet', 0.53512818, u'quilt', 0.070852108, u'comic_book', 0.046303004, u'jigsaw_puzzle', 0.042572182, u'plastic_bag', 0.039231878]
+[u'web_site', 0.16033426, u'Band_Aid', 0.079417363, u'hair_spray', 0.061739631, u'packet', 0.037722073, u'nipple', 0.031341266]
+[u'menu', 0.30232328, u'web_site', 0.30175266, u'envelope', 0.19898903, u'binder', 0.017039411, u'lotion', 0.0096883364]
+[u'Band_Aid', 0.140673, u'web_site', 0.1197246, u'packet', 0.056873031, u'iron', 0.034864578, u'hair_spray', 0.032621443]

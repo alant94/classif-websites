@@ -1,0 +1,5 @@
+[u'red_wine', 0.4582496, u'tray', 0.12704906, u'French_loaf', 0.039129239, u'pizza', 0.032047085, u'plate', 0.026658041]
+[u'red_wine', 0.60533631, u'sunglass', 0.056182057, u'sunglasses', 0.053309109, u'wine_bottle', 0.0228128, u'muzzle', 0.020850837]
+[u'marimba', 0.28693828, u'steel_drum', 0.16869149, u'fountain', 0.1028062, u'water_jug', 0.05365226, u'trombone', 0.049726725]
+[u'digital_clock', 0.66702634, u'digital_watch', 0.089265853, u'wall_clock', 0.051449772, u'crossword_puzzle', 0.030346509, u'cliff_dwelling', 0.027608793]
+[u'restaurant', 0.99328411, u'dining_table', 0.0053090709, u'orange', 0.00050970603, u'lemon', 0.00034746603, u'ping-pong_ball', 0.00013730726]

@@ -1,0 +1,2 @@
+[u'web_site', 0.994528, u'comic_book', 0.0034408008, u'bookshop', 0.00094743568, u'book_jacket', 0.00021806009, u'dial_telephone', 0.00016340826]
+[u'plastic_bag', 0.407525, u'handkerchief', 0.29843813, u'flagpole', 0.041525509, u'mailbag', 0.033339776, u'apron', 0.026078749]

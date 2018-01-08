@@ -1,0 +1,5 @@
+[u'fountain', 0.20424043, u'barn', 0.066489369, u'gazelle', 0.055267982, u'book_jacket', 0.053331789, u'ox', 0.032358058]
+[u'ibex', 0.7736674, u'hartebeest', 0.098699793, u'butcher_shop', 0.026783027, u'warthog', 0.020678405, u'Arabian_camel', 0.011724239]
+[u'hartebeest', 0.69562209, u'gazelle', 0.093407631, u'impala', 0.05505671, u'cowboy_boot', 0.0096077621, u'Arabian_camel', 0.0089424225]
+[u'prison', 0.18086886, u'traffic_light', 0.095288657, u'fire_screen', 0.093740419, u'racket', 0.059046514, u'worm_fence', 0.03903304]
+[u'can_opener', 0.6152184, u'spotlight', 0.14269233, u'corkscrew', 0.02878337, u'hand_blower', 0.021250261, u'combination_lock', 0.017653244]

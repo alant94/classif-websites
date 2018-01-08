@@ -1,0 +1,2 @@
+[u'shield', 0.16859837, u'mouse', 0.071446352, u'hook', 0.05657842, u'pitcher', 0.052809611, u'water_jug', 0.02730546]
+[u'mobile_home', 0.36009455, u'moving_van', 0.18014079, u'cinema', 0.05793906, u'barbershop', 0.055035174, u'pay-phone', 0.041557983]

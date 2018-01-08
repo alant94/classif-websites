@@ -1,0 +1,7 @@
+[u'projectile', 0.28247812, u'lampshade', 0.20495214, u'coil', 0.19354947, u'spotlight', 0.14289461, u'missile', 0.034116302]
+[u'wine_bottle', 0.51628035, u'red_wine', 0.46805221, u'beer_bottle', 0.0057368283, u'hamper', 0.0047943923, u'pop_bottle', 0.0011394132]
+[u'dining_table', 0.52492172, u'restaurant', 0.29017419, u'library', 0.036320012, u'barber_chair', 0.018836427, u'china_cabinet', 0.017021386]
+[u'electric_guitar', 0.65460116, u'acoustic_guitar', 0.21501458, u'banjo', 0.10029132, u'maraca', 0.004451612, u'cowboy_hat', 0.003481952]
+[u'red_wine', 0.514826, u'goblet', 0.17129169, u'cocktail_shaker', 0.11619095, u'wine_bottle', 0.069784917, u'beer_glass', 0.052751523]
+[u'lighter', 0.097221613, u'remote_control', 0.068736896, u'oil_filter', 0.048536018, u'laptop', 0.046981253, u'power_drill', 0.041374192]
+[u'valley', 0.15357329, u'rapeseed', 0.090318196, u'radio_telescope', 0.064099334, u'stone_wall', 0.061046701, u'greenhouse', 0.048215318]

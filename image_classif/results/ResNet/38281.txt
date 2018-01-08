@@ -1,0 +1,1 @@
+[u'scoreboard', 0.64931494, u"carpenter's_kit", 0.13311665, u'book_jacket', 0.044718038, u'lighter', 0.0093181329, u'power_drill', 0.0087188957]

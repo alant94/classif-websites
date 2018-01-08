@@ -1,0 +1,7 @@
+[u'jellyfish', 0.33598304, u'bib', 0.11309701, u'bubble', 0.080454804, u'jersey', 0.045116443, u'web_site', 0.041460522]
+[u'analog_clock', 0.49377826, u'loupe', 0.099285327, u'drum', 0.042833313, u'web_site', 0.03609845, u'shield', 0.03298701]
+[u'analog_clock', 0.13204534, u'gong', 0.13159227, u'digital_clock', 0.11561715, u'drum', 0.094543844, u'chime', 0.042420473]
+[u'web_site', 0.57329053, u'remote_control', 0.01617408, u'Band_Aid', 0.014726738, u'envelope', 0.011342485, u'hair_spray', 0.01093684]
+[u'analog_clock', 0.41656649, u'digital_clock', 0.1866504, u'loupe', 0.1534965, u'traffic_light', 0.064673118, u'digital_watch', 0.029176269]
+[u'piggy_bank', 0.73753214, u'lab_coat', 0.23853976, u'soap_dispenser', 0.0044064377, u'stethoscope', 0.0042558019, u'switch', 0.0028222483]
+[u'digital_clock', 0.99496424, u'digital_watch', 0.0050279666, u'stopwatch', 5.4961151e-06, u'scoreboard', 1.4195175e-06, u'analog_clock', 5.0677926e-07]

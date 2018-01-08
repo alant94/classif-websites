@@ -1,0 +1,6 @@
+[u'whistle', 0.69639844, u'vending_machine', 0.10863273, u'rule', 0.055027455, u'screwdriver', 0.031833418, u'hair_spray', 0.01597045]
+[u'vending_machine', 0.10803954, u'rule', 0.092875399, u'tobacco_shop', 0.073336154, u'cradle', 0.052628584, u'monitor', 0.051745102]
+[u'web_site', 0.20722355, u'scoreboard', 0.11480284, u'analog_clock', 0.099538758, u'vending_machine', 0.051458083, u'pool_table', 0.04143386]
+[u'rule', 0.46631876, u'vending_machine', 0.16730945, u'crib', 0.058295764, u'book_jacket', 0.056590956, u'screwdriver', 0.041265294]
+[u'lotion', 0.33423433, u'screen', 0.1020462, u'sunscreen', 0.08026123, u'ashcan', 0.04810572, u'binder', 0.045391124]
+[u'rule', 0.36171463, u'binder', 0.1404306, u'chime', 0.133448, u'vending_machine', 0.0392345, u'switch', 0.029908668]

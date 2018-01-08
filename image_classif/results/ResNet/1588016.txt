@@ -1,0 +1,3 @@
+[u'bikini', 0.5347383, u'maillot', 0.14452529, u'brassiere', 0.11648584, u'miniskirt', 0.067798845, u'maillot', 0.035699282]
+[u'barber_chair', 0.55357116, u'remote_control', 0.066556349, u'miniskirt', 0.04940711, u'studio_couch', 0.025259037, u'barbershop', 0.021974698]
+[u'swimming_trunks', 0.22920576, u'sandal', 0.16437355, u'bikini', 0.14016387, u'maillot', 0.053281922, u'sunscreen', 0.039602522]

@@ -1,0 +1,6 @@
+[u'web_site', 0.10758705, u'envelope', 0.069476873, u'cleaver', 0.039034836, u'dishwasher', 0.033361733, u'washer', 0.02866856]
+[u'cleaver', 0.19706511, u'envelope', 0.16224873, u'spatula', 0.046405047, u'soap_dispenser', 0.038815491, u'web_site', 0.022061849]
+[u'cash_machine', 0.20373575, u'web_site', 0.15528345, u'street_sign', 0.054816015, u'monitor', 0.034390427, u'moving_van', 0.030419368]
+[u'envelope', 0.49203399, u'cleaver', 0.24682978, u'soap_dispenser', 0.034199752, u'spatula', 0.019568941, u'shovel', 0.015137137]
+[u'cleaver', 0.29635191, u'hatchet', 0.067071825, u'washer', 0.046718746, u'hook', 0.031585991, u'envelope', 0.02561401]
+[u'fountain', 0.20962326, u'picket_fence', 0.14906122, u'pot', 0.082791336, u'parking_meter', 0.056768965, u'mailbox', 0.026100565]

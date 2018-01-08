@@ -1,0 +1,5 @@
+[u'apron', 0.2238761, u'wallet', 0.20222877, u'lotion', 0.11631565, u'bikini', 0.079475157, u'Band_Aid', 0.075688183]
+[u'hair_spray', 0.12800528, u'pop_bottle', 0.070892423, u'water_bottle', 0.053556364, u'ski', 0.049903218, u'lotion', 0.048260085]
+[u'beer_bottle', 0.28419703, u'ski', 0.13585624, u'vending_machine', 0.10436346, u'punching_bag', 0.063296258, u'water_bottle', 0.049171221]
+[u'jean', 0.082945168, u'hair_spray', 0.078294002, u'toilet_seat', 0.067454882, u'lipstick', 0.058532674, u'clog', 0.033754583]
+[u'hair_spray', 0.26456514, u'pencil_box', 0.14578633, u'jean', 0.12378521, u'cellular_telephone', 0.051645268, u'shoe_shop', 0.043686714]

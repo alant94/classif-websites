@@ -1,0 +1,3 @@
+[u'tripod', 0.48243806, u'horizontal_bar', 0.047945924, u'caldron', 0.038085129, u'spotlight', 0.027279764, u'Bedlington_terrier', 0.027018201]
+[u'gazelle', 0.87759393, u'impala', 0.10383447, u'hartebeest', 0.009194281, u'wallaby', 0.0054329974, u'ibex', 0.0029639378]
+[u'gazelle', 0.80709499, u'impala', 0.12402347, u'hartebeest', 0.056173287, u'ibex', 0.0067296345, u'bighorn', 0.0013970581]

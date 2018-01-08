@@ -1,0 +1,1 @@
+[u'bubble', 0.44935521, u'fountain', 0.35063198, u'shower_curtain', 0.086865343, u'toaster', 0.016643094, u'microphone', 0.014877926]

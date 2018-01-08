@@ -1,0 +1,8 @@
+[u'stage', 0.61370754, u'book_jacket', 0.16129513, u'electric_guitar', 0.066805162, u'comic_book', 0.047714502, u'balance_beam', 0.018683041]
+[u'web_site', 0.073774144, u'hook', 0.034819454, u'Band_Aid', 0.030805066, u'nail', 0.028486565, u'oil_filter', 0.016624395]
+[u'web_site', 0.35746962, u'envelope', 0.034951001, u'Windsor_tie', 0.026184704, u'book_jacket', 0.021319455, u'jersey', 0.015378015]
+[u'web_site', 0.70069146, u'Band_Aid', 0.018549016, u'envelope', 0.012892869, u'screw', 0.010099284, u'remote_control', 0.0086183678]
+[u'sunglasses', 0.79872245, u'sunglass', 0.10442853, u'prison', 0.014695168, u'military_uniform', 0.012695516, u'crutch', 0.0037709281]
+[u'comic_book', 0.86496687, u'web_site', 0.049312603, u'book_jacket', 0.041149721, u'menu', 0.010044073, u'jean', 0.0034179334]
+[u'binder', 0.11490044, u'nematode', 0.044278596, u'cornet', 0.044071216, u'hook', 0.039182801, u'safety_pin', 0.033868246]
+[u'digital_clock', 0.52467632, u'book_jacket', 0.057043198, u'scoreboard', 0.049578451, u'digital_watch', 0.037627984, u'packet', 0.02979508]

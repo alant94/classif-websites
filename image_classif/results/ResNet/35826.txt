@@ -1,0 +1,4 @@
+[u'microphone', 0.21364364, u'lens_cap', 0.10951967, u'lipstick', 0.098772794, u'face_powder', 0.083429486, u'lab_coat', 0.03679011]
+[u'book_jacket', 0.16081211, u'web_site', 0.14107968, u'comic_book', 0.064489178, u'rule', 0.063409463, u'packet', 0.029884404]
+[u'chime', 0.15733826, u'nail', 0.098358974, u'screwdriver', 0.07808131, u'power_drill', 0.056334466, u'lab_coat', 0.049795207]
+[u'scoreboard', 0.053300388, u'jean', 0.036245592, u'miniskirt', 0.033979561, u'bookshop', 0.032113452, u'lab_coat', 0.029425334]

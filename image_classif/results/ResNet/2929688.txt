@@ -1,0 +1,2 @@
+[u'barber_chair', 0.081783295, u'restaurant', 0.062301319, u'library', 0.060767867, u'bassoon', 0.045140393, u'dining_table', 0.042908736]
+[u'cradle', 0.27173269, u'upright', 0.094287634, u'grand_piano', 0.072020397, u'four-poster', 0.068867147, u'rocking_chair', 0.053625651]

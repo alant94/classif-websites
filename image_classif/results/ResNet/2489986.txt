@@ -1,0 +1,5 @@
+[u'flat-coated_retriever', 0.4685432, u'groenendael', 0.41524088, u'Great_Dane', 0.05707464, u'German_shepherd', 0.013086106, u'black-and-tan_coonhound', 0.010781925]
+[u'German_short-haired_pointer', 0.74799848, u'English_foxhound', 0.11180856, u'English_setter', 0.077635355, u'Great_Dane', 0.019914426, u'vizsla', 0.0071068932]
+[u'forklift', 0.26361221, u'chain_saw', 0.12933116, u'prison', 0.10530103, u'ballplayer', 0.042838294, u'ping-pong_ball', 0.037156139]
+[u'boathouse', 0.10160422, u'shovel', 0.088794619, u'dining_table', 0.063216649, u'organ', 0.059692934, u'church', 0.052017115]
+[u'web_site', 0.30507597, u'screw', 0.10041703, u'street_sign', 0.044932347, u'jersey', 0.019829873, u'book_jacket', 0.019246608]

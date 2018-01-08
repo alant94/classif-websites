@@ -1,0 +1,1 @@
+[u'toilet_tissue', 0.16072685, u'carton', 0.12871103, u'hair_spray', 0.10755276, u'red_wine', 0.076518983, u'paper_towel', 0.068646468]

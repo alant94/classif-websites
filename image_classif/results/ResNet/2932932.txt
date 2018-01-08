@@ -1,0 +1,6 @@
+[u'notebook', 0.1114591, u'laptop', 0.081071787, u'web_site', 0.061917912, u'iPod', 0.058146641, u'digital_clock', 0.044731356]
+[u'Band_Aid', 0.8900162, u'prayer_rug', 0.014168902, u'street_sign', 0.010235381, u'shield', 0.010026619, u'jersey', 0.0074412264]
+[u'book_jacket', 0.086844616, u'envelope', 0.059171028, u'coil', 0.051968727, u'jersey', 0.051307879, u'tripod', 0.04215027]
+[u'nail', 0.048356213, u'nematode', 0.033354729, u'envelope', 0.032712072, u'web_site', 0.028640097, u'laptop', 0.026272595]
+[u'analog_clock', 0.094151855, u'digital_clock', 0.091537118, u'wall_clock', 0.060592249, u'street_sign', 0.040651999, u'envelope', 0.025608312]
+[u'cornet', 0.23537099, u'chain', 0.16180591, u'stopwatch', 0.1147553, u'knot', 0.041022543, u'nematode', 0.031317469]

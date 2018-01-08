@@ -1,0 +1,1 @@
+[u'digital_clock', 0.46466842, u'digital_watch', 0.15307845, u'ambulance', 0.059825137, u'whistle', 0.043860178, u'traffic_light', 0.028039278]

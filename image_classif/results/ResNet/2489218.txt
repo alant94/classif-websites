@@ -1,0 +1,5 @@
+[u'hartebeest', 0.39974374, u'impala', 0.30349362, u'bighorn', 0.074696027, u'ram', 0.068315797, u'water_buffalo', 0.02802627]
+[u'book_jacket', 0.16087604, u'jersey', 0.044172402, u'binder', 0.040446796, u'web_site', 0.033117834, u'jigsaw_puzzle', 0.032127343]
+[u'plow', 0.76691759, u'barrow', 0.18552275, u'tusker', 0.012093069, u'African_elephant', 0.0043411953, u'shovel', 0.0035317037]
+[u'ram', 0.40980658, u'warthog', 0.11681892, u'bighorn', 0.11519475, u'wild_boar', 0.043027814, u'brown_bear', 0.032619029]
+[u'warthog', 0.16298787, u'plow', 0.15527853, u'water_buffalo', 0.10783705, u'oxcart', 0.094819807, u'ox', 0.073873952]

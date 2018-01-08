@@ -1,0 +1,3 @@
+[u'spotlight', 0.34076798, u'jellyfish', 0.086680435, u'fountain', 0.085274987, u'wig', 0.068012953, u'planetarium', 0.042841394]
+[u'screen', 0.16870071, u'analog_clock', 0.07320638, u'desktop_computer', 0.072406717, u'web_site', 0.067119613, u'fire_screen', 0.059622288]
+[u'analog_clock', 0.25659201, u'chain_saw', 0.1583526, u'lampshade', 0.043008566, u'matchstick', 0.032020029, u'envelope', 0.029139375]

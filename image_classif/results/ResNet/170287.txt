@@ -1,0 +1,2 @@
+[u'ballpoint', 0.14657579, u'hand_blower', 0.07570266, u'web_site', 0.050231613, u'screwdriver', 0.043360811, u'medicine_chest', 0.036974996]
+[u'crossword_puzzle', 0.99368805, u'digital_clock', 0.0054707411, u'prayer_rug', 0.00026262162, u'digital_watch', 0.0002389346, u'wall_clock', 0.00011150374]

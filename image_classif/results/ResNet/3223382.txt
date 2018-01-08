@@ -1,0 +1,6 @@
+[u'revolver', 0.61863405, u'assault_rifle', 0.12277379, u'rifle', 0.069119096, u'hammer', 0.059690345, u'screwdriver', 0.041672681]
+[u'cellular_telephone', 0.77265805, u'water_bottle', 0.058066133, u'remote_control', 0.04330593, u'hand-held_computer', 0.0089919064, u'hair_spray', 0.0084004039]
+[u'suit', 0.45131165, u'Windsor_tie', 0.090458371, u'bassoon', 0.055237487, u'academic_gown', 0.029218704, u'Sealyham_terrier', 0.026947699]
+[u'jersey', 0.13152415, u'packet', 0.10519428, u'Band_Aid', 0.10276226, u'book_jacket', 0.068928249, u'plastic_bag', 0.06603457]
+[u'cloak', 0.22274008, u'abaya', 0.17108753, u'shower_curtain', 0.066030741, u'book_jacket', 0.050576974, u'perfume', 0.046379831]
+[u'sweatshirt', 0.45127746, u'coho', 0.052012052, u'sturgeon', 0.048340306, u'pier', 0.028712008, u'barracouta', 0.019899098]

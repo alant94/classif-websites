@@ -1,0 +1,3 @@
+[u'Windsor_tie', 0.70857513, u'lab_coat', 0.081967808, u'vestment', 0.02966777, u'bow_tie', 0.012824202, u'suit', 0.011768195]
+[u'miniskirt', 0.10381478, u'hoopskirt', 0.087742798, u'overskirt', 0.051535774, u'lab_coat', 0.042662483, u'jean', 0.029997302]
+[u'suit', 0.75106466, u'Windsor_tie', 0.18935744, u'groom', 0.034179993, u'gown', 0.004016174, u'notebook', 0.0038601106]

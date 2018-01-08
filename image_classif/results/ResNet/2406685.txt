@@ -1,0 +1,2 @@
+[u'sunscreen', 0.91894644, u'lotion', 0.042751465, u'web_site', 0.012147283, u'nipple', 0.0044351188, u'hair_spray', 0.0033009963]
+[u'comic_book', 0.52876586, u'web_site', 0.18139392, u'menu', 0.15571387, u'butcher_shop', 0.028299436, u'slot', 0.0090616932]

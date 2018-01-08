@@ -1,0 +1,4 @@
+[u'indri', 0.22382523, u'sea_snake', 0.1036137, u'corkscrew', 0.056502115, u'whistle', 0.051845971, u'loupe', 0.044569179]
+[u'military_uniform', 0.14112045, u'lumbermill', 0.11070272, u'komondor', 0.062864006, u'horse_cart', 0.058252726, u'tank', 0.043017332]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]
+[u'buckle', 0.14157939, u'book_jacket', 0.13846968, u'scoreboard', 0.097423926, u'comic_book', 0.078082986, u'packet', 0.072674915]

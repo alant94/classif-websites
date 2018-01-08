@@ -1,0 +1,4 @@
+[u'book_jacket', 0.70262659, u'comic_book', 0.13688427, u'fire_engine', 0.025216796, u'ambulance', 0.023775863, u'Band_Aid', 0.01294349]
+[u'traffic_light', 0.30715716, u'street_sign', 0.21503067, u'folding_chair', 0.18831463, u'ambulance', 0.049731329, u'stretcher', 0.029379761]
+[u'barn', 0.49386719, u'water_tower', 0.14261951, u'restaurant', 0.10035176, u'bell_cote', 0.03549169, u'monastery', 0.017402992]
+[u'web_site', 0.34785622, u'Band_Aid', 0.18872491, u'beaker', 0.066041201, u'safety_pin', 0.046050668, u'spatula', 0.045580968]

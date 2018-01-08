@@ -1,0 +1,5 @@
+[u'panpipe', 0.62344426, u'bow', 0.061823547, u'marimba', 0.047864195, u'electric_guitar', 0.026498487, u'ocarina', 0.024093946]
+[u'flute', 0.32512531, u'bassoon', 0.26223451, u'cello', 0.2224545, u'oboe', 0.14297773, u'violin', 0.038513876]
+[u'llama', 0.35773751, u'shield', 0.096607782, u'bassoon', 0.094435774, u'lumbermill', 0.04308084, u'drum', 0.042406704]
+[u'lab_coat', 0.27321252, u'vestment', 0.2481624, u'sweatshirt', 0.10579117, u'swimming_trunks', 0.053140327, u'ocarina', 0.038465463]
+[u'library', 0.56799352, u'barbershop', 0.10113684, u'bookshop', 0.077526487, u'comic_book', 0.021978041, u"potter's_wheel", 0.021820676]

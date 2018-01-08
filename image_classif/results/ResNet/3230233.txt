@@ -1,0 +1,6 @@
+[u'lighter', 0.21752694, u'perfume', 0.15923826, u'shield', 0.061689761, u'vestment', 0.033675909, u'pitcher', 0.029601708]
+[u'slot', 0.73318553, u'shield', 0.069619916, u'bow', 0.031565644, u'wall_clock', 0.030031634, u'toilet_seat', 0.01664432]
+[u'web_site', 0.63383782, u'nematode', 0.014650877, u'dishwasher', 0.012144886, u'abaya', 0.0097333156, u'bannister', 0.0093726534]
+[u'harp', 0.20924954, u'loupe', 0.16413538, u'chime', 0.083611622, u'gong', 0.078679219, u'hatchet', 0.027098343]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'web_site', 0.40915528, u'comic_book', 0.10561968, u'shower_curtain', 0.053222463, u'book_jacket', 0.015645979, u'envelope', 0.014158224]

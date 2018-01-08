@@ -1,0 +1,8 @@
+[u'book_jacket', 0.34236693, u'screw', 0.097896419, u'web_site', 0.044445544, u'plunger', 0.030214049, u'street_sign', 0.022150399]
+[u'shield', 0.42534792, u'web_site', 0.17439622, u'puck', 0.059745908, u'coffee_mug', 0.022105379, u'remote_control', 0.019132672]
+[u'lighter', 0.21282984, u'book_jacket', 0.14180958, u'street_sign', 0.11488056, u'web_site', 0.10927342, u'scoreboard', 0.062140275]
+[u'stopwatch', 0.10800169, u'web_site', 0.10282317, u'analog_clock', 0.083817489, u'nematode', 0.035389755, u'television', 0.019528298]
+[u'digital_clock', 0.93483311, u'digital_watch', 0.043366466, u'stopwatch', 0.0168647, u'analog_clock', 0.0027730418, u'barometer', 0.00086716592]
+[u'sunscreen', 0.50628829, u'web_site', 0.18069506, u'comic_book', 0.050881863, u'Band_Aid', 0.040134721, u'carton', 0.015693177]
+[u'web_site', 0.25784546, u'analog_clock', 0.14685877, u'digital_clock', 0.075333476, u'spotlight', 0.024441635, u'stopwatch', 0.020921005]
+[u'shield', 0.23550142, u'mouse', 0.11718034, u'drum', 0.076801047, u'bib', 0.060002856, u'pick', 0.047900625]

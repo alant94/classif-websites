@@ -1,0 +1,6 @@
+[u'television', 0.12520401, u'remote_control', 0.079278961, u'web_site', 0.078202635, u'digital_clock', 0.056335814, u'stopwatch', 0.055768285]
+[u'web_site', 0.43704256, u'nematode', 0.034151327, u'digital_clock', 0.025673633, u'sax', 0.015093937, u'lighter', 0.014550597]
+[u'digital_clock', 0.33326024, u'digital_watch', 0.22989945, u'stopwatch', 0.08791218, u'analog_clock', 0.028632317, u'web_site', 0.02591194]
+[u'television', 0.13583724, u'laptop', 0.1106182, u'web_site', 0.088725679, u'cellular_telephone', 0.045902383, u'remote_control', 0.036608312]
+[u'digital_clock', 0.32033575, u'digital_watch', 0.20369139, u'stopwatch', 0.14969257, u'analog_clock', 0.049804293, u'web_site', 0.030220564]
+[u'web_site', 0.36827925, u'digital_clock', 0.07469517, u'monitor', 0.029575281, u'nematode', 0.024589499, u'stopwatch', 0.019602364]

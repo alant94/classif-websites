@@ -1,0 +1,5 @@
+[u'web_site', 0.24891782, u'digital_clock', 0.10512504, u'jersey', 0.069310308, u'screen', 0.038057502, u'monitor', 0.031861283]
+[u'prayer_rug', 0.96576345, u'book_jacket', 0.016170116, u'throne', 0.0053663244, u'binder', 0.0031850077, u'perfume', 0.0007121021]
+[u'digital_clock', 0.61027533, u'web_site', 0.059354186, u'jersey', 0.055463199, u'digital_watch', 0.02333506, u'screen', 0.016990814]
+[u'jersey', 0.16760384, u'web_site', 0.1533732, u'digital_clock', 0.084624141, u'screen', 0.0371898, u'sweatshirt', 0.028015114]
+[u'web_site', 0.25344872, u'digital_clock', 0.072016962, u'jersey', 0.070587575, u'envelope', 0.037355408, u'monitor', 0.016875042]

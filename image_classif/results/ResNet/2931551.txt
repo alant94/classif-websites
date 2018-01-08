@@ -1,0 +1,4 @@
+[u'web_site', 0.28463528, u'Windsor_tie', 0.048916906, u'groom', 0.026026094, u'bow_tie', 0.023877261, u'academic_gown', 0.01855593]
+[u'hoopskirt', 0.16463208, u'cuirass', 0.12348884, u'vase', 0.076649867, u'web_site', 0.06289354, u'overskirt', 0.050643679]
+[u'bottlecap', 0.19441055, u'sunscreen', 0.0984855, u'street_sign', 0.079097942, u'oil_filter', 0.05240779, u'maraca', 0.044314105]
+[u'perfume', 0.43304566, u'binder', 0.23191646, u'lotion', 0.084789336, u'web_site', 0.065923825, u'face_powder', 0.024543067]

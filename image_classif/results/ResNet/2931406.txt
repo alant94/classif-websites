@@ -1,0 +1,2 @@
+[u'hook', 0.3240979, u'nail', 0.089245275, u'can_opener', 0.072325706, u'cleaver', 0.033167925, u'hair_slide', 0.022219894]
+[u'web_site', 0.61751521, u'alp', 0.097500868, u'suspension_bridge', 0.045447707, u'valley', 0.044572324, u'ibex', 0.022704022]

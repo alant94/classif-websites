@@ -1,0 +1,2 @@
+[u'bearskin', 0.91861463, u'throne', 0.016727466, u'panpipe', 0.0040666806, u'theater_curtain', 0.0032619298, u'analog_clock', 0.0030350774]
+[u'toilet_tissue', 0.41927499, u'paper_towel', 0.19270019, u'neck_brace', 0.095859431, u'bow_tie', 0.070100099, u'quilt', 0.02646192]

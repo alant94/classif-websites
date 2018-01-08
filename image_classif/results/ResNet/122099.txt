@@ -1,0 +1,3 @@
+[u'comic_book', 0.44527397, u'soccer_ball', 0.12548873, u'tennis_ball', 0.062453993, u'freight_car', 0.057241499, u'doormat', 0.02454092]
+[u'oscilloscope', 0.75527388, u'stage', 0.086278386, u'spotlight', 0.026312191, u'monitor', 0.018677525, u'digital_clock', 0.016812652]
+[u'bell_cote', 0.16991888, u'cinema', 0.096175164, u'analog_clock', 0.070516884, u'traffic_light', 0.041066561, u'church', 0.033046864]

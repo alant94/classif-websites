@@ -1,0 +1,3 @@
+[u'loupe', 0.49388331, u'cassette', 0.086488761, u"potter's_wheel", 0.082882062, u'plate_rack', 0.062250208, u'book_jacket', 0.061543982]
+[u'Rottweiler', 0.12220862, u'English_setter', 0.086769618, u'kelpie', 0.050672907, u'bluetick', 0.050181348, u'Appenzeller', 0.044621192]
+[u'conch', 0.42994136, u'electric_ray', 0.099381618, u'dough', 0.089061663, u'ocarina', 0.080090284, u'mask', 0.044240624]

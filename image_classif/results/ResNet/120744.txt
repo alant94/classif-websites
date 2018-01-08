@@ -1,0 +1,4 @@
+[u'envelope', 0.97813135, u'binder', 0.0064568394, u'guillotine', 0.0016143731, u'web_site', 0.0015001044, u'horizontal_bar', 0.00097910746]
+[u'Band_Aid', 0.2158702, u'envelope', 0.20390035, u'analog_clock', 0.065239429, u'web_site', 0.059753582, u'medicine_chest', 0.039012663]
+[u'shield', 0.052199751, u'web_site', 0.049110442, u'jersey', 0.048796784, u'Band_Aid', 0.041860461, u'digital_clock', 0.039178632]
+[u'bald_eagle', 0.21588694, u'screw', 0.14510947, u'quill', 0.083441086, u'daisy', 0.068163387, u'corkscrew', 0.061936934]

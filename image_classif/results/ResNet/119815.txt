@@ -1,0 +1,5 @@
+[u'pick', 0.20267986, u'remote_control', 0.13599913, u'ocarina', 0.1148375, u'digital_watch', 0.099162236, u'scoreboard', 0.039138213]
+[u'analog_clock', 0.54483694, u'wall_clock', 0.070439287, u'digital_watch', 0.035348002, u'digital_clock', 0.033729892, u'rule', 0.031869195]
+[u'shower_curtain', 0.50154155, u'digital_clock', 0.068439297, u'abacus', 0.068110742, u'slot', 0.06639047, u'ping-pong_ball', 0.061809059]
+[u'slot', 0.72415107, u'oscilloscope', 0.041418128, u'scoreboard', 0.034733403, u'monitor', 0.024004281, u'analog_clock', 0.02200661]
+[u'ballpoint', 0.15804584, u'whistle', 0.13942124, u'rule', 0.10775232, u'Band_Aid', 0.099042535, u'lighter', 0.051046509]

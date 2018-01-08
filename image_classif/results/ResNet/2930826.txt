@@ -1,0 +1,5 @@
+[u'stethoscope', 0.99250436, u'mailbag', 0.00074677082, u'miniskirt', 0.00069326395, u'knee_pad', 0.00057727913, u'apron', 0.00043711899]
+[u'web_site', 0.089724138, u'sunscreen', 0.067507893, u'street_sign', 0.050072726, u'cash_machine', 0.034432944, u'lotion', 0.03071849]
+[u'lighter', 0.19035676, u'shield', 0.1718194, u'wall_clock', 0.10949815, u'web_site', 0.074233167, u'analog_clock', 0.058354415]
+[u'stethoscope', 0.75154459, u'Band_Aid', 0.031581726, u'binder', 0.025805388, u'notebook', 0.019903127, u'mailbag', 0.00992449]
+[u'wall_clock', 0.77325398, u'analog_clock', 0.22603978, u'barometer', 0.00031660474, u'digital_clock', 7.2188413e-05, u'magnetic_compass', 7.087431e-05]

@@ -1,0 +1,5 @@
+[u'sock', 0.39663094, u'Band_Aid', 0.25653175, u'miniskirt', 0.052474778, u'knee_pad', 0.035173163, u'brassiere', 0.03044817]
+[u'toaster', 0.27191195, u'remote_control', 0.2184778, u'perfume', 0.05272596, u'miniskirt', 0.051321138, u'cellular_telephone', 0.044605505]
+[u'black-footed_ferret', 0.6702382, u'polecat', 0.22332485, u'banded_gecko', 0.052549608, u'weasel', 0.032242659, u'Gila_monster', 0.0013749633]
+[u'miniskirt', 0.50810444, u'maillot', 0.13004056, u'maillot', 0.084298432, u'crossword_puzzle', 0.080833547, u'swimming_trunks', 0.071368016]
+[u'washbasin', 0.17517196, u'tub', 0.14049727, u'bathtub', 0.12697387, u'soap_dispenser', 0.10382555, u'bath_towel', 0.068686962]

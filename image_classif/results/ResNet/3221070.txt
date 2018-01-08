@@ -1,0 +1,5 @@
+[u'street_sign', 0.59003246, u'scoreboard', 0.14970563, u'digital_clock', 0.058083996, u'book_jacket', 0.018228531, u'chainlink_fence', 0.013286464]
+[u'church', 0.81191057, u'bell_cote', 0.1691682, u'monastery', 0.0090118507, u'tile_roof', 0.0038606243, u'vault', 0.0022219208]
+[u'cleaver', 0.54402572, u'can_opener', 0.10729617, u'water_jug', 0.047594637, u'jersey', 0.046833564, u'pitcher', 0.043209087]
+[u'church', 0.47293532, u'picket_fence', 0.17304148, u'bell_cote', 0.14936025, u'boathouse', 0.019683203, u'tile_roof', 0.01654559]
+[u'refrigerator', 0.6606099, u'binder', 0.061305579, u'washer', 0.037979417, u'chiffonier', 0.01820913, u'wardrobe', 0.014666401]

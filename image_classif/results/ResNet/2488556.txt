@@ -1,0 +1,4 @@
+[u'African_hunting_dog', 0.58527797, u'wild_boar', 0.12630428, u'hog', 0.036778104, u'wombat', 0.034023691, u'badger', 0.024748323]
+[u'bighorn', 0.44486701, u'ram', 0.20507576, u'ox', 0.079848848, u'wild_boar', 0.04094078, u'warthog', 0.03771789]
+[u'swing', 0.31575024, u'stretcher', 0.060793709, u'malamute', 0.051121082, u'military_uniform', 0.031077584, u'cliff', 0.028107803]
+[u'bighorn', 0.13802463, u'ox', 0.11479763, u'alp', 0.098014131, u'Arabian_camel', 0.08128944, u'hartebeest', 0.080445893]

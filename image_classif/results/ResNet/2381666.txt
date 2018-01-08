@@ -1,0 +1,7 @@
+[u'street_sign', 0.52045012, u'plastic_bag', 0.12642355, u'packet', 0.066427864, u'tray', 0.01659593, u'laptop', 0.016160917]
+[u'bakery', 0.76069576, u'restaurant', 0.030787574, u'grocery_store', 0.016121706, u'valley', 0.01294016, u'jigsaw_puzzle', 0.011762811]
+[u'lakeside', 0.09022329, u'barrel', 0.089977667, u'pot', 0.045016646, u'rain_barrel', 0.04225399, u'water_ouzel', 0.037495628]
+[u'turnstile', 0.67325222, u'coil', 0.036131173, u'prison', 0.029974144, u'library', 0.029620301, u'greenhouse', 0.021536069]
+[u'picket_fence', 0.43293825, u'worm_fence', 0.087105878, u'balloon', 0.032625493, u'echidna', 0.029369354, u'standard_poodle', 0.028986294]
+[u'Windsor_tie', 0.38889253, u'suit', 0.15853082, u'academic_gown', 0.061350089, u'military_uniform', 0.055321001, u'bow_tie', 0.04641347]
+[u'tray', 0.38384923, u'chiffonier', 0.16293566, u'fire_screen', 0.13063623, u'book_jacket', 0.055111039, u'window_screen', 0.041521497]

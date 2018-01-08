@@ -1,0 +1,6 @@
+[u'web_site', 0.29295301, u'packet', 0.21389531, u'comic_book', 0.17754424, u'book_jacket', 0.075892039, u'jigsaw_puzzle', 0.046999872]
+[u'fountain', 0.28759485, u'carousel', 0.079303838, u'airship', 0.039341152, u'church', 0.034440625, u'umbrella', 0.031234371]
+[u'oscilloscope', 0.44707558, u'lipstick', 0.041999962, u'red_wine', 0.041568331, u'book_jacket', 0.029770764, u'digital_clock', 0.022307873]
+[u'hook', 0.26311472, u'coil', 0.23600999, u'knot', 0.13041319, u'nematode', 0.057056658, u'padlock', 0.041893616]
+[u'sea_slug', 0.087165177, u'Band_Aid', 0.073920235, u'hair_slide', 0.057164017, u'banded_gecko', 0.048029307, u'coral_fungus', 0.043670002]
+[u'book_jacket', 0.69478011, u'magnetic_compass', 0.03676217, u'packet', 0.034828901, u'comic_book', 0.028010376, u'tray', 0.027008979]

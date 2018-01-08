@@ -1,0 +1,2 @@
+[u'doormat', 0.26838201, u'barbershop', 0.15903595, u'cinema', 0.095450647, u'tobacco_shop', 0.033225454, u'street_sign', 0.02855769]
+[u'printer', 0.78038567, u'photocopier', 0.072564609, u'typewriter_keyboard', 0.016997918, u'rotisserie', 0.012289208, u'scale', 0.0096121356]

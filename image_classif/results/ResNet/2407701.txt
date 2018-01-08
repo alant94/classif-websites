@@ -1,0 +1,4 @@
+[u'water_bottle', 0.1380198, u'water_jug', 0.11326617, u'sunscreen', 0.10967522, u'lotion', 0.099658832, u'pill_bottle', 0.087707974]
+[u'pill_bottle', 0.89952612, u'milk_can', 0.021841783, u'soap_dispenser', 0.021367319, u'face_powder', 0.013244654, u'water_jug', 0.01308417]
+[u'cocktail_shaker', 0.32255918, u'milk_can', 0.11517029, u'water_bottle', 0.090900205, u'face_powder', 0.07788413, u'pill_bottle', 0.053121027]
+[u'milk_can', 0.48312646, u'water_bottle', 0.14502795, u'pill_bottle', 0.097167164, u'cocktail_shaker', 0.096529409, u'water_jug', 0.046838079]

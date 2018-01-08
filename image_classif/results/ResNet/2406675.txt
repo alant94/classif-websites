@@ -1,0 +1,7 @@
+[u'digital_clock', 0.11426925, u'web_site', 0.075203352, u'knee_pad', 0.066628516, u'analog_clock', 0.044958316, u'neck_brace', 0.037246808]
+[u'oscilloscope', 0.38558996, u'switch', 0.2754153, u'vending_machine', 0.17877452, u'microwave', 0.029593104, u'modem', 0.011740862]
+[u'conch', 0.19239058, u'bikini', 0.11657622, u'parachute', 0.082608804, u'cowboy_hat', 0.065362468, u'sandbar', 0.05651021]
+[u'web_site', 0.74545819, u'remote_control', 0.021835357, u'can_opener', 0.013818393, u'analog_clock', 0.013167564, u'lighter', 0.010494835]
+[u'doormat', 0.33470741, u'punching_bag', 0.098080933, u'barbershop', 0.07623785, u'crate', 0.036874529, u"carpenter's_kit", 0.024939422]
+[u'tape_player', 0.36989626, u'switch', 0.26203394, u'modem', 0.060593192, u'joystick', 0.032681558, u'radio', 0.026611151]
+[u'television', 0.50142354, u'vending_machine', 0.23146142, u'web_site', 0.03987563, u'entertainment_center', 0.037682261, u'sunglasses', 0.018529218]

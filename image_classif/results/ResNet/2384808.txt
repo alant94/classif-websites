@@ -1,0 +1,8 @@
+[u'confectionery', 0.29262063, u'bakery', 0.18984507, u'library', 0.071807079, u'grocery_store', 0.070799813, u'tray', 0.026976582]
+[u'butcher_shop', 0.4865647, u'abaya', 0.052388761, u'bow', 0.047640227, u'jean', 0.040353116, u'shoe_shop', 0.030398522]
+[u'digital_clock', 0.49309772, u'scoreboard', 0.09506584, u'web_site', 0.06665618, u'digital_watch', 0.053056721, u'book_jacket', 0.043608736]
+[u'birdhouse', 0.57067662, u'church', 0.24554399, u'picket_fence', 0.0270845, u'alp', 0.021362131, u'barn', 0.019054107]
+[u'banana', 0.2917189, u'jackfruit', 0.25081876, u'custard_apple', 0.09385927, u'lemon', 0.073302075, u'orange', 0.054772645]
+[u'fountain', 0.78995186, u'geyser', 0.014921688, u'fireboat', 0.011418493, u'perfume', 0.010999552, u'matchstick', 0.010004357]
+[u'wine_bottle', 0.48247093, u'lotion', 0.14848691, u'red_wine', 0.13553774, u'oil_filter', 0.074835852, u'hair_spray', 0.057152759]
+[u'church', 0.28312308, u'barn', 0.13512218, u'picket_fence', 0.099194743, u'water_tower', 0.096719734, u'beacon', 0.05757691]

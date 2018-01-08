@@ -1,0 +1,7 @@
+[u'pill_bottle', 0.20488304, u'water_bottle', 0.038939953, u'ambulance', 0.038092781, u'ashcan', 0.037353098, u'tray', 0.036005791]
+[u'vending_machine', 0.32327437, u'ashcan', 0.10726694, u'toyshop', 0.054946393, u'crate', 0.035827599, u'slot', 0.023447426]
+[u'digital_clock', 0.40111867, u'picket_fence', 0.18355778, u'digital_watch', 0.13120772, u'panpipe', 0.091465428, u'whistle', 0.04735164]
+[u'broom', 0.17392679, u'monitor', 0.13771316, u'paintbrush', 0.071335793, u'safe', 0.055092257, u'crate', 0.052012991]
+[u'barbell', 0.30316246, u'thresher', 0.14183147, u'tank', 0.085212126, u'cannon', 0.085113212, u'hook', 0.079850622]
+[u'tobacco_shop', 0.3247551, u'streetcar', 0.26005793, u'Model_T', 0.033659257, u'vending_machine', 0.033141781, u'slot', 0.031652167]
+[u'refrigerator', 0.2141487, u'carton', 0.21105091, u'binder', 0.12144557, u'crate', 0.094748922, u'file', 0.032911219]

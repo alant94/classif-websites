@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.12561007, u'perfume', 0.072277568, u'cleaver', 0.056246687, u'digital_clock', 0.04180716, u'paper_towel', 0.037022121]
+[u'web_site', 0.3012726, u'pill_bottle', 0.087800123, u'envelope', 0.06514135, u'hook', 0.030334476, u'gasmask', 0.029967219]

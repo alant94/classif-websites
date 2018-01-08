@@ -1,0 +1,1 @@
+[u'digital_clock', 0.81593359, u'digital_watch', 0.062577903, u'street_sign', 0.047885843, u'traffic_light', 0.033178285, u'scoreboard', 0.019448692]

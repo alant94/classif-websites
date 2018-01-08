@@ -1,0 +1,5 @@
+[u'bow', 0.21135303, u'fountain', 0.06984292, u'plow', 0.069765933, u'hook', 0.069364555, u'swing', 0.046991892]
+[u'window_screen', 0.49559504, u'alp', 0.1259021, u'sliding_door', 0.083505824, u'book_jacket', 0.063298136, u'monitor', 0.0238683]
+[u'dock', 0.14216092, u'seashore', 0.13264169, u'plow', 0.09873002, u'container_ship', 0.067598373, u'jigsaw_puzzle', 0.050950803]
+[u'alp', 0.1835742, u'monitor', 0.14226429, u'lakeside', 0.092601128, u'television', 0.07609763, u'jigsaw_puzzle', 0.067419656]
+[u'scoreboard', 0.20138283, u'prayer_rug', 0.071694717, u'panpipe', 0.066452116, u'wall_clock', 0.044973124, u'altar', 0.041561618]

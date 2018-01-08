@@ -1,0 +1,2 @@
+[u'digital_clock', 0.88851947, u'digital_watch', 0.015018351, u'envelope', 0.0088437954, u'tripod', 0.0063571935, u'jersey', 0.0061351764]
+[u'altar', 0.3704702, u'theater_curtain', 0.24648646, u'cinema', 0.14709847, u'stage', 0.068482734, u'vault', 0.061132569]

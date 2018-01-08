@@ -1,0 +1,2 @@
+[u'dumbbell', 0.1525196, u'sunscreen', 0.12427872, u'bikini', 0.054392524, u'brassiere', 0.0418308, u'wardrobe', 0.039689209]
+[u'brassiere', 0.31782934, u'wig', 0.15539153, u'comic_book', 0.11614449, u'panpipe', 0.041846182, u'maillot', 0.030867552]

@@ -1,0 +1,2 @@
+[u'ballpoint', 0.14657579, u'hand_blower', 0.07570266, u'web_site', 0.050231613, u'screwdriver', 0.043360811, u'medicine_chest', 0.036974996]
+[u'spotlight', 0.51082504, u'oxygen_mask', 0.12390766, u'thresher', 0.035190228, u'lighter', 0.031649724, u'laptop', 0.018926276]

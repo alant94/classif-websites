@@ -1,0 +1,2 @@
+[u'envelope', 0.18491806, u'web_site', 0.16114272, u'analog_clock', 0.064595699, u'street_sign', 0.058519002, u'traffic_light', 0.030013015]
+[u'web_site', 0.92770118, u'thimble', 0.022119293, u'book_jacket', 0.021959197, u'combination_lock', 0.0029090086, u'cuirass', 0.0024720193]

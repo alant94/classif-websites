@@ -1,0 +1,5 @@
+[u'seat_belt', 0.16400416, u'tub', 0.068675444, u'knee_pad', 0.048154935, u'washer', 0.031787336, u'dishwasher', 0.030448267]
+[u'paintbrush', 0.14862776, u'Band_Aid', 0.075218163, u'cardigan', 0.049226027, u'bath_towel', 0.047027294, u'sunglass', 0.043174144]
+[u'chain_mail', 0.51126742, u'swimming_trunks', 0.23589204, u'bikini', 0.048923831, u'diaper', 0.044321619, u'cuirass', 0.023930296]
+[u'syringe', 0.45642239, u'Mexican_hairless', 0.097850949, u'swimming_trunks', 0.046647586, u'tub', 0.040844571, u'sunscreen', 0.037326358]
+[u'Old_English_sheepdog', 0.075516671, u'candle', 0.043455951, u'black-footed_ferret', 0.043264929, u'plunger', 0.026431838, u'komondor', 0.025188614]

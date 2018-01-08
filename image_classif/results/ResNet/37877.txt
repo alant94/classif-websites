@@ -1,0 +1,1 @@
+[u'rule', 0.12827194, u'hook', 0.10088807, u'rubber_eraser', 0.071846552, u'envelope', 0.070946701, u'matchstick', 0.049043033]

@@ -1,0 +1,8 @@
+[u'plate_rack', 0.11890983, u'screwdriver', 0.092317224, u'theater_curtain', 0.090976775, u'matchstick', 0.062734202, u'comic_book', 0.056918237]
+[u'binder', 0.50450611, u'abaya', 0.15318529, u'sarong', 0.13208142, u'purse', 0.046330333, u'wallet', 0.021798063]
+[u'assault_rifle', 0.81389815, u'rifle', 0.062636063, u'bow', 0.049498901, u'loupe', 0.016348585, u'tripod', 0.0064351307]
+[u'alp', 0.45402035, u'book_jacket', 0.10467334, u'cliff', 0.089340888, u'monitor', 0.071533531, u'carton', 0.032909799]
+[u'ski', 0.08843381, u'banjo', 0.072146155, u'hatchet', 0.066635519, u'accordion', 0.062753022, u'rifle', 0.051681414]
+[u'scabbard', 0.66439092, u'buckle', 0.16155927, u'rifle', 0.037162848, u'binder', 0.013674787, u'rotisserie', 0.011416377]
+[u'can_opener', 0.25758621, u'buckle', 0.23040166, u'loupe', 0.18055017, u'lighter', 0.061976943, u'pencil_sharpener', 0.032826051]
+[u'chain_saw', 0.56029117, u'comic_book', 0.22599824, u'barber_chair', 0.028294671, u'hatchet', 0.020758649, u'book_jacket', 0.01595621]

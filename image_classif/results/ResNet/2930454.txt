@@ -1,0 +1,2 @@
+[u'web_site', 0.78695345, u'hair_spray', 0.028419744, u'feather_boa', 0.018169558, u'wig', 0.011376242, u'jean', 0.0078174351]
+[u'scale', 0.8644045, u'slot', 0.037317157, u'crutch', 0.010205514, u'cinema', 0.0095788129, u'turnstile', 0.006000482]

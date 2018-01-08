@@ -1,0 +1,7 @@
+[u'punching_bag', 0.27916014, u'digital_clock', 0.22839187, u'street_sign', 0.11987913, u'rule', 0.089038618, u'rock_beauty', 0.073740952]
+[u'digital_clock', 0.49943215, u'street_sign', 0.12224238, u'rule', 0.067144662, u'bannister', 0.03820049, u'airship', 0.032357879]
+[u'digital_clock', 0.31613684, u'rule', 0.27306733, u'punching_bag', 0.10440817, u'bannister', 0.058290176, u'whistle', 0.018479796]
+[u'punching_bag', 0.47744134, u'digital_clock', 0.12003165, u'street_sign', 0.090863116, u'bannister', 0.070614398, u'rule', 0.052058708]
+[u'odometer', 0.27830431, u'comic_book', 0.21759835, u'book_jacket', 0.21065612, u'slot', 0.030848768, u'scoreboard', 0.023421485]
+[u'rapeseed', 0.42598131, u'window_shade', 0.059732769, u'screwdriver', 0.038865928, u'hourglass', 0.030317117, u'rubber_eraser', 0.023813862]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

@@ -1,0 +1,1 @@
+[u'Windsor_tie', 0.49216408, u'lab_coat', 0.082124248, u'vestment', 0.078854688, u'suit', 0.054502357, u'military_uniform', 0.032415245]

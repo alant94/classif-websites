@@ -1,0 +1,5 @@
+[u'Loafer', 0.21319531, u'sleeping_bag', 0.10157016, u'mailbag', 0.099364728, u'clog', 0.098737776, u'studio_couch', 0.085422479]
+[u'running_shoe', 0.99441129, u'sandal', 0.0023850782, u'shoe_shop', 0.0014419951, u'clog', 0.0002310171, u'Loafer', 0.00013948912]
+[u'running_shoe', 0.9779309, u'Loafer', 0.0067068776, u'shoe_shop', 0.00561842, u'cowboy_boot', 0.0025649096, u'sandal', 0.0021790203]
+[u'cowboy_boot', 0.51361901, u'Loafer', 0.35138589, u'clog', 0.046757761, u'sandal', 0.042501416, u'buckle', 0.014298278]
+[u'Loafer', 0.6602509, u'clog', 0.20191899, u'running_shoe', 0.10345116, u'sandal', 0.024147011, u'cowboy_boot', 0.005328564]

@@ -1,0 +1,4 @@
+[u'warplane', 0.86322355, u'wing', 0.082985751, u'space_shuttle', 0.042565193, u'airliner', 0.0048287287, u'aircraft_carrier', 0.0025879643]
+[u'cliff', 0.51914746, u'artichoke', 0.061525267, u'stone_wall', 0.026969049, u'hornbill', 0.021052277, u'megalith', 0.017374424]
+[u'prison', 0.99667299, u'vault', 0.0018444386, u'monastery', 0.00032652199, u'bannister', 0.00030064012, u'barn', 0.00028338734]
+[u'crossword_puzzle', 0.78612989, u'digital_watch', 0.15206954, u'digital_clock', 0.03031889, u'scoreboard', 0.0082950573, u'remote_control', 0.00254717]

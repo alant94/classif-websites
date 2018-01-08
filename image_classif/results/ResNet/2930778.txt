@@ -1,0 +1,1 @@
+[u'book_jacket', 0.22609541, u'web_site', 0.19280368, u'comic_book', 0.14467883, u'coil', 0.084419318, u'cinema', 0.049197603]

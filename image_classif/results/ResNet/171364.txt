@@ -1,0 +1,7 @@
+[u'jigsaw_puzzle', 0.20631391, u'palace', 0.15700459, u'shower_curtain', 0.13551833, u'church', 0.097713575, u'sarong', 0.083879009]
+[u'paintbrush', 0.48246863, u'gong', 0.10097085, u'loudspeaker', 0.052569706, u'padlock', 0.051068671, u'wreck', 0.021856708]
+[u'envelope', 0.39548102, u'wallet', 0.23278481, u'binder', 0.20673116, u'book_jacket', 0.042900469, u'mountain_tent', 0.020185491]
+[u'barn', 0.25125021, u'church', 0.12865604, u'paintbrush', 0.087543152, u'jigsaw_puzzle', 0.085364386, u'boathouse', 0.083316341]
+[u'jigsaw_puzzle', 0.29576007, u'comic_book', 0.16622533, u'wallet', 0.1189799, u'pillow', 0.042094108, u'carton', 0.036475442]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'jigsaw_puzzle', 0.18295963, u'padlock', 0.11690603, u'paintbrush', 0.10088758, u'throne', 0.085174084, u'comic_book', 0.058082625]

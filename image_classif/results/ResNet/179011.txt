@@ -1,0 +1,2 @@
+[u'hook', 0.50960374, u'coil', 0.13306049, u'buckle', 0.058253404, u'cinema', 0.044973679, u'hair_slide', 0.020263435]
+[u'hog', 0.12775394, u'butcher_shop', 0.069325663, u'clumber', 0.068424359, u'armadillo', 0.046660244, u'starfish', 0.033426683]

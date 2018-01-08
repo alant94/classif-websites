@@ -1,0 +1,8 @@
+[u'Persian_cat', 0.99941623, u'Angora', 0.00043507694, u'Pekinese', 1.7900866e-05, u'carton', 1.7698356e-05, u'Pomeranian', 1.3040743e-05]
+[u'digital_clock', 0.48001799, u'analog_clock', 0.22364846, u'wall_clock', 0.14073847, u'digital_watch', 0.047158439, u'screen', 0.045134839]
+[u'Persian_cat', 0.99606812, u'Pomeranian', 0.002070585, u'chow', 0.00077656942, u'Angora', 0.00047234874, u'Pekinese', 0.00016964899]
+[u'Persian_cat', 0.98528165, u'Angora', 0.013977803, u'Pekinese', 0.00039122615, u'chow', 5.1181483e-05, u'Shih-Tzu', 4.4741188e-05]
+[u'Persian_cat', 0.96244335, u'washer', 0.0099601811, u'refrigerator', 0.005257098, u'dishwasher', 0.0051944186, u'lynx', 0.0026321572]
+[u'Persian_cat', 0.99774867, u'Pomeranian', 0.00070240727, u'chow', 0.00034152676, u'Angora', 0.00025606898, u'Pekinese', 0.00024192594]
+[u'Persian_cat', 0.9795354, u'Angora', 0.0078875292, u'Pekinese', 0.0033240009, u'lynx', 0.0017222256, u'chow', 0.00098092027]
+[u'Persian_cat', 0.99905938, u'lynx', 0.00016172008, u'Pekinese', 0.00015241042, u'Angora', 0.00013818675, u'hamper', 6.2598527e-05]

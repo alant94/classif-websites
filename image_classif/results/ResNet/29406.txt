@@ -1,0 +1,7 @@
+[u'digital_clock', 0.19023891, u'analog_clock', 0.077679113, u'oil_filter', 0.051354364, u'web_site', 0.043925803, u'remote_control', 0.025661344]
+[u'scoreboard', 0.85315299, u'digital_clock', 0.043650884, u'packet', 0.0094065908, u'slot', 0.0084168045, u'tobacco_shop', 0.0063701733]
+[u'ski', 0.23389754, u'web_site', 0.11765931, u'bobsled', 0.083693534, u'book_jacket', 0.079766542, u'scoreboard', 0.04066959]
+[u'television', 0.22605169, u'desktop_computer', 0.13850348, u'screen', 0.08044026, u'web_site', 0.04787986, u'forklift', 0.029676225]
+[u'loupe', 0.45943627, u'digital_clock', 0.10224218, u'analog_clock', 0.042702228, u'digital_watch', 0.033116229, u'sunscreen', 0.031063097]
+[u'screen', 0.23560479, u'digital_clock', 0.22409835, u'book_jacket', 0.059943438, u'scoreboard', 0.059500895, u'digital_watch', 0.056698695]
+[u'crossword_puzzle', 0.76080549, u'tray', 0.053005636, u'picket_fence', 0.047470056, u'park_bench', 0.041722845, u'crib', 0.010245731]

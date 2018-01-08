@@ -1,0 +1,7 @@
+[u'chain_saw', 0.28364193, u'thresher', 0.20332175, u'switch', 0.14924659, u'harvester', 0.065665901, u'plow', 0.055729553]
+[u'can_opener', 0.066792391, u'guillotine', 0.065510288, u'revolver', 0.062127907, u'hook', 0.049227312, u'toilet_seat', 0.035765473]
+[u'milk_can', 0.2953957, u'bulletproof_vest', 0.26122209, u'water_bottle', 0.067024007, u'whiskey_jug', 0.053084355, u'lotion', 0.044324841]
+[u'modem', 0.20610064, u'oscilloscope', 0.14904508, u'mousetrap', 0.059553731, u'tank', 0.034425929, u'screw', 0.033819236]
+[u'loupe', 0.21997413, u'buckle', 0.16275705, u'switch', 0.10790885, u'binoculars', 0.073233686, u'whistle', 0.066644996]
+[u'toilet_seat', 0.30022186, u'switch', 0.26734442, u'hook', 0.068954617, u'toilet_tissue', 0.053663719, u"carpenter's_kit", 0.025937846]
+[u'power_drill', 0.29202315, u'can_opener', 0.22838201, u'hook', 0.16418612, u'hand_blower', 0.054956928, u'revolver', 0.04077895]

@@ -1,0 +1,1 @@
+[u'rapeseed', 0.99188626, u'barn', 0.0033052012, u'hay', 0.00065223506, u'worm_fence', 0.00034950205, u'chainlink_fence', 0.0003163142]

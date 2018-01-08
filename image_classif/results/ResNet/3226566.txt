@@ -1,0 +1,8 @@
+[u'envelope', 0.46656618, u'carton', 0.026039168, u'dishwasher', 0.01747717, u'web_site', 0.016880881, u'binder', 0.016639175]
+[u'papillon', 0.13823895, u'Shih-Tzu', 0.098611601, u'borzoi', 0.041776448, u'collie', 0.028598521, u'fire_screen', 0.027256269]
+[u'papillon', 0.16226037, u'Bernese_mountain_dog', 0.089176804, u'academic_gown', 0.065962933, u'Sussex_spaniel', 0.06382174, u'EntleBucher', 0.057344794]
+[u'boathouse', 0.57935131, u'mobile_home', 0.23600276, u'prison', 0.04326614, u'flagpole', 0.022514889, u'barn', 0.022142757]
+[u'vault', 0.50043708, u'fire_screen', 0.075258486, u'window_screen', 0.048291959, u'mosque', 0.037518803, u'prison', 0.032283958]
+[u'papillon', 0.13096136, u'collie', 0.095349588, u'toy_terrier', 0.071346357, u'Yorkshire_terrier', 0.049880557, u'Appenzeller', 0.048689216]
+[u'papillon', 0.22346085, u'Shih-Tzu', 0.18920147, u'clumber', 0.083597951, u'Maltese_dog', 0.073824301, u'Tibetan_terrier', 0.03810972]
+[u'Gordon_setter', 0.14677344, u'papillon', 0.058390405, u'Yorkshire_terrier', 0.047742061, u'silky_terrier', 0.036435008, u'Sussex_spaniel', 0.030418022]

@@ -1,0 +1,4 @@
+[u'digital_clock', 0.15382001, u'crossword_puzzle', 0.064615726, u'wall_clock', 0.061846387, u'book_jacket', 0.03269545, u'digital_watch', 0.030323885]
+[u'dishwasher', 0.27031296, u'envelope', 0.067408927, u'refrigerator', 0.049515758, u'washer', 0.020196667, u'cleaver', 0.020086937]
+[u'Band_Aid', 0.06256365, u'sunscreen', 0.061912887, u'face_powder', 0.06159889, u'neck_brace', 0.056999985, u'brassiere', 0.051376585]
+[u'web_site', 0.14324188, u'crossword_puzzle', 0.050673258, u'envelope', 0.050618146, u'book_jacket', 0.023418352, u'digital_clock', 0.021135041]

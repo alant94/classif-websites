@@ -1,0 +1,3 @@
+[u'iPod', 0.69577193, u'cellular_telephone', 0.30303636, u'hand-held_computer', 0.00040359632, u'laptop', 0.00022333366, u'notebook', 0.00017984479]
+[u'lighter', 0.16406259, u'iPod', 0.083809443, u'pill_bottle', 0.075664699, u'perfume', 0.050201591, u'pencil_sharpener', 0.044284672]
+[u'web_site', 0.42730868, u'oscilloscope', 0.2453928, u'analog_clock', 0.081442885, u'slot', 0.047826484, u'magnetic_compass', 0.013449704]

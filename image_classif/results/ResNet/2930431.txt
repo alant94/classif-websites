@@ -1,0 +1,1 @@
+[u'web_site', 0.68715119, u'cellular_telephone', 0.039167278, u'monitor', 0.035404097, u'jean', 0.030044744, u'groom', 0.027583756]

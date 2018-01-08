@@ -1,0 +1,2 @@
+[u'web_site', 0.20773989, u'hand_blower', 0.070194811, u'Band_Aid', 0.0313216, u'oil_filter', 0.030435612, u'screwdriver', 0.029913373]
+[u'web_site', 0.85241193, u'menu', 0.13809296, u'envelope', 0.0020501791, u'hand-held_computer', 0.00033981458, u'washer', 0.00030515139]

@@ -1,0 +1,5 @@
+[u'comic_book', 0.38624513, u'menu', 0.37238044, u'book_jacket', 0.082688369, u'web_site', 0.027366074, u'envelope', 0.020160982]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'shield', 0.067872643, u'web_site', 0.039333668, u'digital_clock', 0.026842922, u'lighter', 0.025181301, u'Band_Aid', 0.024737433]
+[u'digital_clock', 0.54612374, u'traffic_light', 0.10625326, u'digital_watch', 0.099413753, u'prayer_rug', 0.055375587, u'analog_clock', 0.034361716]
+[u'nipple', 0.32585707, u'bottlecap', 0.22284466, u'digital_clock', 0.0751127, u'combination_lock', 0.067738339, u'puck', 0.030979143]

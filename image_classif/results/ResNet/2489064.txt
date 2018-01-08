@@ -1,0 +1,1 @@
+[u"carpenter's_kit", 0.83838373, u'screwdriver', 0.066108517, u'hammer', 0.010281245, u'cinema', 0.00903113, u'tobacco_shop', 0.0041269739]

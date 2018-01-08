@@ -1,0 +1,4 @@
+[u'microwave', 0.38772818, u'modem', 0.1857532, u'hard_disc', 0.15880829, u'desktop_computer', 0.082374752, u'toaster', 0.03712482]
+[u'bannister', 0.22743848, u'marimba', 0.12419248, u'coil', 0.088166326, u'panpipe', 0.067103788, u'picket_fence', 0.039812434]
+[u'digital_clock', 0.68050677, u'hook', 0.081319138, u'dumbbell', 0.038107298, u'street_sign', 0.019695088, u'stopwatch', 0.013851484]
+[u'book_jacket', 0.31131339, u'crossword_puzzle', 0.23603924, u'comic_book', 0.22398399, u'remote_control', 0.089305982, u'menu', 0.012386126]

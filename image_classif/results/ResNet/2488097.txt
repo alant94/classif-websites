@@ -1,0 +1,6 @@
+[u'ibex', 0.14500101, u'ox', 0.10963888, u'impala', 0.10493841, u'plow', 0.10001105, u'gazelle', 0.084291995]
+[u'gazelle', 0.38917068, u'impala', 0.2146773, u'hartebeest', 0.035283424, u'cheetah', 0.020282542, u'lionfish', 0.016254578]
+[u'comic_book', 0.35997006, u'scoreboard', 0.26920381, u'menu', 0.23895714, u'brass', 0.053897269, u'cinema', 0.0381932]
+[u'street_sign', 0.66869324, u'book_jacket', 0.088890001, u'scoreboard', 0.024647672, u'ashcan', 0.01778781, u'oscilloscope', 0.017143182]
+[u'American_alligator', 0.77434093, u'African_crocodile', 0.2231174, u'sturgeon', 0.00041562921, u'alligator_lizard', 0.0003965137, u'common_iguana', 0.00028968204]
+[u'ox', 0.49685848, u'water_buffalo', 0.35062164, u'oxcart', 0.040255073, u'plow', 0.024872128, u'tusker', 0.011133044]

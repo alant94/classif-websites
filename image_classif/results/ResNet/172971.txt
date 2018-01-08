@@ -1,0 +1,1 @@
+[u'candle', 0.42949221, u'picket_fence', 0.2201478, u'screen', 0.07784909, u'radiator', 0.055939123, u'laptop', 0.039853826]

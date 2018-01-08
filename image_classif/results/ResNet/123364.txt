@@ -1,0 +1,3 @@
+[u'pencil_sharpener', 0.16929702, u'maraca', 0.10744987, u'corkscrew', 0.066042632, u'sunglass', 0.034315716, u'hair_slide', 0.031561594]
+[u'Dungeness_crab', 0.32782686, u'king_crab', 0.29469055, u'comic_book', 0.10749012, u'web_site', 0.025832381, u'chain_saw', 0.01886525]
+[u'thresher', 0.36806691, u'tractor', 0.19733356, u'chain_saw', 0.074037641, u'harvester', 0.059697904, u'green_mamba', 0.059664838]

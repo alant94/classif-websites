@@ -1,0 +1,7 @@
+[u'magnetic_compass', 0.10105602, u'monitor', 0.058407251, u'lighter', 0.05316532, u'can_opener', 0.048590366, u'scale', 0.04061852]
+[u'fire_screen', 0.60444289, u'English_springer', 0.077752128, u'mousetrap', 0.017824231, u'guillotine', 0.017130535, u'digital_clock', 0.016131448]
+[u'digital_clock', 0.79040515, u'television', 0.062316321, u'ping-pong_ball', 0.024018828, u'screen', 0.018455679, u'analog_clock', 0.013348986]
+[u'hand-held_computer', 0.41914207, u'screen', 0.11389491, u'monitor', 0.080017395, u'cinema', 0.070809931, u'web_site', 0.042410888]
+[u'quill', 0.2435917, u'ballpoint', 0.17736906, u'fountain_pen', 0.10443879, u'harmonica', 0.072028719, u'letter_opener', 0.051736556]
+[u'web_site', 0.42930809, u'hand-held_computer', 0.29014552, u'desktop_computer', 0.019668769, u'monitor', 0.019203132, u'screen', 0.015548352]
+[u'scoreboard', 0.30779076, u'digital_watch', 0.20635676, u'digital_clock', 0.17846857, u'stopwatch', 0.12391345, u'screen', 0.022415904]

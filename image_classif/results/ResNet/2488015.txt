@@ -1,0 +1,1 @@
+[u'ear', 0.2211426, u'otterhound', 0.051672738, u'English_setter', 0.040506907, u'barn_spider', 0.039501529, u'Sussex_spaniel', 0.034359559]

@@ -1,0 +1,8 @@
+[u'monitor', 0.23519115, u'screen', 0.14151974, u'laptop', 0.087923698, u'television', 0.040657699, u'web_site', 0.038924832]
+[u'toilet_seat', 0.20521215, u'shield', 0.11392345, u'digital_clock', 0.090731889, u'bathing_cap', 0.048448846, u'wall_clock', 0.04182335]
+[u'capuchin', 0.76376277, u'titi', 0.16865006, u'marmoset', 0.011518722, u'patas', 0.011097294, u'Shih-Tzu', 0.0054696477]
+[u'bow', 0.45477313, u'swab', 0.1395901, u'vacuum', 0.10847881, u'screwdriver', 0.045210954, u'crutch', 0.042815443]
+[u'stopwatch', 0.19729874, u'reflex_camera', 0.11958125, u'backpack', 0.10001722, u'cassette_player', 0.04796344, u'gas_pump', 0.047206059]
+[u'web_site', 0.60747141, u'nematode', 0.0069131036, u'comic_book', 0.0065250089, u'jean', 0.0058604009, u'rifle', 0.0043954207]
+[u'crossword_puzzle', 0.93358099, u'shower_curtain', 0.0084619476, u'toilet_seat', 0.0069075213, u'prayer_rug', 0.0064986795, u'tray', 0.0053470777]
+[u'Afghan_hound', 0.25441754, u'spotlight', 0.071148604, u'crossword_puzzle', 0.055656239, u'Saluki', 0.033638373, u'Weimaraner', 0.030127661]

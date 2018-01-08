@@ -1,0 +1,3 @@
+[u'street_sign', 0.23657642, u'envelope', 0.099008076, u'laptop', 0.098251171, u'iPod', 0.088943191, u'folding_chair', 0.045381188]
+[u'lighter', 0.17582954, u'digital_watch', 0.12592578, u'screen', 0.08914084, u'monitor', 0.06006309, u'digital_clock', 0.059607409]
+[u'medicine_chest', 0.35662499, u'switch', 0.18229325, u'sewing_machine', 0.050245989, u'analog_clock', 0.032911301, u'safe', 0.028468939]

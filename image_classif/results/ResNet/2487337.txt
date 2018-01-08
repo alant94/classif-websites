@@ -1,0 +1,6 @@
+[u'digital_clock', 0.18342108, u'book_jacket', 0.18102501, u'web_site', 0.16900136, u'lighter', 0.080305465, u'analog_clock', 0.069327593]
+[u'book_jacket', 0.31173879, u'comic_book', 0.060023643, u'web_site', 0.055820387, u'bannister', 0.053029411, u'chain', 0.029821437]
+[u'dogsled', 0.49302545, u'lakeside', 0.094051778, u'Arabian_camel', 0.060919922, u'zebra', 0.045909271, u'ox', 0.037705924]
+[u'Arabian_camel', 0.33554658, u'llama', 0.28065526, u'ox', 0.16796148, u'butcher_shop', 0.03907242, u'water_buffalo', 0.035176333]
+[u'web_site', 0.28314421, u'dishwasher', 0.074668244, u'television', 0.054336887, u'digital_clock', 0.02719399, u'screen', 0.02168919]
+[u'web_site', 0.56446004, u'nematode', 0.018587405, u'matchstick', 0.015416445, u'bannister', 0.01455005, u'abaya', 0.013507513]

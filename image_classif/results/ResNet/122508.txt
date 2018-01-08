@@ -1,0 +1,4 @@
+[u'jigsaw_puzzle', 0.34478652, u'ambulance', 0.099567153, u'racer', 0.085938647, u'tractor', 0.064991266, u'plow', 0.04194697]
+[u'web_site', 0.31487322, u'hand-held_computer', 0.19010837, u'chiffonier', 0.075871058, u'screen', 0.054447539, u'monitor', 0.040465176]
+[u'photocopier', 0.73901057, u'cash_machine', 0.093756661, u'printer', 0.027662817, u'washbasin', 0.021686802, u'medicine_chest', 0.020898463]
+[u'tennis_ball', 0.9358744, u'rock_beauty', 0.029405668, u'goldfinch', 0.023753921, u"yellow_lady's_slipper", 0.0022087339, u'lemon', 0.00056146219]

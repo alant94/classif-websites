@@ -1,0 +1,8 @@
+[u'bassinet', 0.15032944, u'nipple', 0.11839503, u'neck_brace', 0.085822389, u'cradle', 0.045078687, u'diaper', 0.035378028]
+[u'chimpanzee', 0.087249063, u'bobsled', 0.075429931, u'lab_coat', 0.045602698, u'neck_brace', 0.045288682, u'academic_gown', 0.044017341]
+[u'comic_book', 0.18452972, u'academic_gown', 0.17470039, u'miniskirt', 0.083731323, u'guillotine', 0.056828912, u'cloak', 0.042229]
+[u'candle', 0.093790323, u'hair_spray', 0.092546895, u'iron', 0.049368247, u'neck_brace', 0.046277352, u'miniskirt', 0.027652318]
+[u'Band_Aid', 0.47959086, u'envelope', 0.032869224, u'web_site', 0.026479322, u'cash_machine', 0.024811372, u'ambulance', 0.02094396]
+[u'vestment', 0.13781598, u'bearskin', 0.076309845, u'Irish_water_spaniel', 0.065002479, u'academic_gown', 0.044709135, u'Bouvier_des_Flandres', 0.042980574]
+[u'lab_coat', 0.21886663, u'steel_drum', 0.1194634, u"potter's_wheel", 0.09051846, u'neck_brace', 0.075369485, u'tobacco_shop', 0.051264398]
+[u'shower_cap', 0.5210861, u'wig', 0.10599144, u'vestment', 0.071961157, u'plate', 0.011561065, u'sombrero', 0.011160271]

@@ -1,0 +1,4 @@
+[u'oil_filter', 0.74177849, u'space_heater', 0.067753784, u'dumbbell', 0.039501667, u'strainer', 0.028703343, u'drum', 0.014392894]
+[u'hair_spray', 0.13948654, u'perfume', 0.055474598, u'barbershop', 0.051437352, u'web_site', 0.050860256, u'spotlight', 0.047735747]
+[u'fountain', 0.37789315, u'sundial', 0.13778488, u'killer_whale', 0.096911415, u'paddlewheel', 0.060099058, u'Dungeness_crab', 0.039211676]
+[u'iPod', 0.33376449, u'padlock', 0.25565949, u'cellular_telephone', 0.090551414, u'space_shuttle', 0.075545348, u'water_bottle', 0.039550498]

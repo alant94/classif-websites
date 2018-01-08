@@ -1,0 +1,6 @@
+[u'prayer_rug', 0.60970533, u'binder', 0.090582877, u'doormat', 0.06858132, u'book_jacket', 0.025514742, u'matchstick', 0.023249732]
+[u'digital_clock', 0.2927843, u'oscilloscope', 0.11517644, u'web_site', 0.063107893, u'analog_clock', 0.033904642, u'microwave', 0.028162913]
+[u'wine_bottle', 0.93975234, u'red_wine', 0.041250832, u'beer_bottle', 0.0074107214, u'pop_bottle', 0.0064917929, u'lotion', 0.0014096465]
+[u'lotion', 0.54458296, u'wine_bottle', 0.18084037, u'hair_spray', 0.14261462, u'perfume', 0.070877157, u'red_wine', 0.029453803]
+[u'red_wine', 0.50051713, u'wine_bottle', 0.4991976, u'corkscrew', 0.00023022006, u'beer_bottle', 2.2514656e-05, u'perfume', 8.0053787e-06]
+[u'pop_bottle', 0.8257879, u'wine_bottle', 0.080647506, u'water_bottle', 0.067421503, u'red_wine', 0.010816088, u'perfume', 0.0059900396]

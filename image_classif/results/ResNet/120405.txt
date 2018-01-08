@@ -1,0 +1,2 @@
+[u'slot', 0.80448544, u'toyshop', 0.089593373, u'confectionery', 0.016351402, u'comic_book', 0.012667333, u'television', 0.012359694]
+[u'slot', 0.9937219, u'cash_machine', 0.0037774772, u'vending_machine', 0.0016930889, u'television', 0.00012803254, u'screen', 6.7510562e-05]

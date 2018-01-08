@@ -1,0 +1,1 @@
+[u'crossword_puzzle', 0.83949924, u'digital_clock', 0.061258882, u'tray', 0.011274337, u'scoreboard', 0.0081966165, u'prayer_rug', 0.0060505103]

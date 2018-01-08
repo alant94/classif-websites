@@ -1,0 +1,5 @@
+[u'web_site', 0.66719955, u'book_jacket', 0.10054895, u'comic_book', 0.085657246, u'menu', 0.07061398, u'corn', 0.012899091]
+[u'book_jacket', 0.38221756, u'web_site', 0.21954831, u'menu', 0.082843915, u'pretzel', 0.079357177, u'comic_book', 0.056554958]
+[u'groenendael', 0.23173125, u'fountain', 0.11778092, u'mask', 0.11539888, u'drum', 0.051957984, u'bubble', 0.039174039]
+[u'stole', 0.34088343, u'chainlink_fence', 0.093500182, u'honeycomb', 0.069048449, u'chain_mail', 0.049481977, u'mitten', 0.02426818]
+[u'book_jacket', 0.46305346, u'comic_book', 0.39386711, u'pretzel', 0.04420824, u'menu', 0.018559437, u'web_site', 0.0092818737]

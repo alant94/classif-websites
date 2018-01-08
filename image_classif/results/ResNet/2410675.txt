@@ -1,0 +1,4 @@
+[u'web_site', 0.061444763, u'hook', 0.026520655, u'plunger', 0.014043233, u'menu', 0.013987087, u'nail', 0.01367803]
+[u'lab_coat', 0.32995069, u'tub', 0.079586163, u'bathing_cap', 0.075691834, u'soap_dispenser', 0.067946859, u'brassiere', 0.050145373]
+[u'chime', 0.15917125, u'flagpole', 0.095148616, u'crane', 0.07418935, u'warplane', 0.046865754, u'wing', 0.043803249]
+[u'hook', 0.20675302, u'safety_pin', 0.18135175, u'plane', 0.078588732, u'spindle', 0.045049515, u'bow', 0.040211633]

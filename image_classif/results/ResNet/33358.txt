@@ -1,0 +1,1 @@
+[u'golf_ball', 0.22629632, u'hourglass', 0.066233426, u'spotlight', 0.041025396, u'envelope', 0.033175126, u'cleaver', 0.020926801]

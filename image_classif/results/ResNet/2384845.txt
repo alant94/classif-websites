@@ -1,0 +1,1 @@
+[u'palace', 0.37689805, u'rapeseed', 0.17916209, u'valley', 0.053728487, u'tile_roof', 0.040671539, u'picket_fence', 0.036300641]

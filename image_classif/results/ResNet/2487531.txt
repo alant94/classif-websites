@@ -1,0 +1,6 @@
+[u'water_buffalo', 0.34810176, u'wild_boar', 0.26585454, u'bighorn', 0.11821832, u'ox', 0.097475767, u'warthog', 0.057720494]
+[u'syringe', 0.33666107, u'ballpoint', 0.188379, u'paintbrush', 0.044194404, u'screwdriver', 0.043131754, u'stethoscope', 0.024094962]
+[u'brown_bear', 0.75785887, u'American_black_bear', 0.20156972, u'wild_boar', 0.022847846, u'bison', 0.014649308, u'hog', 0.0011755474]
+[u'assault_rifle', 0.24817075, u'oxcart', 0.12661815, u'ox', 0.12645535, u'horse_cart', 0.073004864, u'lumbermill', 0.060754828]
+[u'diamondback', 0.15269239, u'coho', 0.12456217, u'boa_constrictor', 0.10577086, u'American_alligator', 0.061507076, u'oboe', 0.042441383]
+[u'Newfoundland', 0.47585726, u'Labrador_retriever', 0.050689463, u'giant_schnauzer', 0.050096236, u'clumber', 0.045467302, u'flat-coated_retriever', 0.043124702]

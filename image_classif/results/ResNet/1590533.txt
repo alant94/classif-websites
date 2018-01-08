@@ -1,0 +1,6 @@
+[u'snorkel', 0.11133966, u'swimming_trunks', 0.088239938, u'bubble', 0.087881006, u'bathing_cap', 0.07225737, u'iPod', 0.037295729]
+[u'tobacco_shop', 0.37647107, u'scoreboard', 0.18042052, u'barbershop', 0.10778149, u'book_jacket', 0.054106232, u'comic_book', 0.040525995]
+[u'shower_curtain', 0.048897572, u'groom', 0.047889035, u'brassiere', 0.043852344, u'Windsor_tie', 0.041778188, u'maillot', 0.034355279]
+[u'scoreboard', 0.24611078, u'analog_clock', 0.073872149, u'ski', 0.060688809, u'lighter', 0.034230333, u'buckle', 0.028371273]
+[u'swimming_trunks', 0.40598395, u'bathing_cap', 0.14213902, u'brassiere', 0.05973918, u'diaper', 0.052692145, u'shower_cap', 0.047123242]
+[u'web_site', 0.30602324, u'bathtub', 0.17190824, u'tub', 0.088442266, u'brassiere', 0.039978325, u'bath_towel', 0.027321566]

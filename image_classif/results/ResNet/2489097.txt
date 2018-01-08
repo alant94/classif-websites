@@ -1,0 +1,6 @@
+[u'web_site', 0.20002457, u'plate_rack', 0.1731752, u'screw', 0.15499863, u'plow', 0.061434653, u'dining_table', 0.022167904]
+[u'web_site', 0.93649089, u'envelope', 0.0084967054, u'bannister', 0.00498641, u'panpipe', 0.0042412016, u'bell_cote', 0.0024495914]
+[u'palace', 0.48510376, u'prison', 0.052876417, u'water_tower', 0.045009054, u'cinema', 0.042959452, u'library', 0.032200113]
+[u'crossword_puzzle', 0.86373091, u'knot', 0.039771803, u'quilt', 0.026482087, u'prayer_rug', 0.025761414, u'container_ship', 0.006290311]
+[u'Weimaraner', 0.34558296, u'cougar', 0.31759721, u'military_uniform', 0.042515155, u'stretcher', 0.023552388, u'Indian_elephant', 0.018398644]
+[u'cowboy_hat', 0.94585669, u'horse_cart', 0.018335525, u'sombrero', 0.0066821007, u'sorrel', 0.0042811064, u'ox', 0.00396467]

@@ -1,0 +1,3 @@
+[u'packet', 0.37684003, u'strawberry', 0.10623352, u'confectionery', 0.086415857, u'bakery', 0.026639024, u'book_jacket', 0.022727683]
+[u'web_site', 0.27506644, u'book_jacket', 0.037946206, u'hair_slide', 0.028884407, u'ski', 0.028461596, u'comic_book', 0.021358477]
+[u'web_site', 0.14063814, u'jigsaw_puzzle', 0.13082577, u'doormat', 0.063740358, u'envelope', 0.054152053, u'ant', 0.047110394]

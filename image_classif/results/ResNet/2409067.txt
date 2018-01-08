@@ -1,0 +1,2 @@
+[u'stone_wall', 0.14933257, u'worm_fence', 0.099549912, u'maze', 0.087793365, u'picket_fence', 0.075215347, u'lakeside', 0.07104633]
+[u'fountain', 0.43653274, u'lakeside', 0.087702349, u'park_bench', 0.050392337, u'ear', 0.049406495, u'crane', 0.026368819]

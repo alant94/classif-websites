@@ -1,0 +1,2 @@
+[u'carton', 0.14474599, u'envelope', 0.1397097, u'wall_clock', 0.036842458, u'crate', 0.034393813, u'analog_clock', 0.029844156]
+[u'butcher_shop', 0.37141913, u'shoe_shop', 0.10983443, u'wardrobe', 0.064397737, u'jean', 0.051311467, u'shower_curtain', 0.029719407]

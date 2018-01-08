@@ -1,0 +1,2 @@
+[u'swab', 0.071464784, u'umbrella', 0.066825658, u'book_jacket', 0.052337687, u'pinwheel', 0.046226181, u'bow', 0.043348581]
+[u'church', 0.5784623, u'altar', 0.078276061, u'web_site', 0.048712734, u'barn', 0.041264735, u'window_screen', 0.017582869]

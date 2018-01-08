@@ -1,0 +1,5 @@
+[u'harp', 0.19112001, u'abaya', 0.1365222, u'sweatshirt', 0.076939218, u'spider_web', 0.052579742, u'lampshade', 0.035637848]
+[u'jean', 0.33353552, u'military_uniform', 0.057089042, u'birdhouse', 0.036512844, u'indigo_bunting', 0.029767441, u'bee_eater', 0.020514173]
+[u'book_jacket', 0.73855633, u'barbershop', 0.05776044, u'cash_machine', 0.047699947, u'web_site', 0.023293769, u'doormat', 0.0081999497]
+[u'hair_spray', 0.46736056, u'lotion', 0.11085616, u'packet', 0.050907265, u'book_jacket', 0.04081228, u'ashcan', 0.036138941]
+[u'hand_blower', 0.61146969, u'microphone', 0.34025493, u'loudspeaker', 0.015038501, u'space_heater', 0.0062487335, u'iron', 0.0060960646]

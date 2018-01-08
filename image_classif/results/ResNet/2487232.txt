@@ -1,0 +1,7 @@
+[u'hourglass', 0.45421246, u'envelope', 0.047577728, u'digital_clock', 0.020607268, u'honeycomb', 0.017536584, u'bulletproof_vest', 0.017144406]
+[u'seashore', 0.35928172, u'dock', 0.10819967, u'crane', 0.10767345, u'breakwater', 0.075717285, u'lakeside', 0.067416579]
+[u'pajama', 0.35234168, u'kimono', 0.3208487, u'sturgeon', 0.051148772, u'military_uniform', 0.045454148, u'coho', 0.031486038]
+[u'head_cabbage', 0.2105521, u'barracouta', 0.16592008, u'custard_apple', 0.1434896, u'tench', 0.1022713, u'gar', 0.089143761]
+[u'mobile_home', 0.285797, u'worm_fence', 0.17457663, u'Afghan_hound', 0.10024174, u'lumbermill', 0.057446901, u'fur_coat', 0.047441609]
+[u'prison', 0.17612337, u'chain_saw', 0.12163317, u'totem_pole', 0.071369842, u'ski', 0.047632512, u'lumbermill', 0.044349186]
+[u'bow', 0.058189049, u'assault_rifle', 0.052548025, u'sturgeon', 0.043373749, u'valley', 0.042961314, u'snowmobile', 0.033223916]

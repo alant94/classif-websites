@@ -1,0 +1,6 @@
+[u'Band_Aid', 0.29779008, u'swimming_trunks', 0.074957043, u'prison', 0.059965286, u'tub', 0.050732449, u'bathing_cap', 0.046367288]
+[u'nipple', 0.22420144, u'refrigerator', 0.15907529, u'milk_can', 0.048850007, u'whistle', 0.044825066, u'cradle', 0.031969517]
+[u'paper_towel', 0.27321026, u'candle', 0.084874064, u'toilet_tissue', 0.055485785, u'Maltese_dog', 0.038880493, u'Pomeranian', 0.036581475]
+[u'wool', 0.32926282, u'bath_towel', 0.089259163, u'velvet', 0.066491328, u'studio_couch', 0.059949782, u'sweatshirt', 0.042296551]
+[u'swimming_trunks', 0.10431469, u'proboscis_monkey', 0.052222401, u'planetarium', 0.044402689, u'bikini', 0.040623821, u'oxygen_mask', 0.034245837]
+[u'swimming_trunks', 0.22850931, u'brassiere', 0.069028676, u'sandal', 0.048162609, u'Band_Aid', 0.045538772, u'bikini', 0.045180168]

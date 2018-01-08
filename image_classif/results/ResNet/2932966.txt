@@ -1,0 +1,7 @@
+[u'grand_piano', 0.40326023, u'vestment', 0.051985793, u'mortarboard', 0.048906278, u'steel_drum', 0.042124357, u'projector', 0.033025559]
+[u'hoopskirt', 0.2691842, u'crutch', 0.20977126, u'gown', 0.11292001, u'overskirt', 0.096712887, u'maillot', 0.084530197]
+[u'feather_boa', 0.27895099, u'pajama', 0.1728823, u'stole', 0.15000364, u'miniskirt', 0.096588127, u'fur_coat', 0.069785386]
+[u'lab_coat', 0.15923977, u'hair_spray', 0.14833142, u'ice_lolly', 0.044473059, u'television', 0.041376274, u'hand_blower', 0.040838841]
+[u'hair_slide', 0.28910071, u'web_site', 0.14179033, u'panpipe', 0.024776131, u'safety_pin', 0.022619557, u'feather_boa', 0.018640358]
+[u'web_site', 0.1424883, u'Band_Aid', 0.12471327, u'screw', 0.068547539, u'chain_saw', 0.05777001, u'oscilloscope', 0.043823089]
+[u'maillot', 0.22280338, u'sarong', 0.14640048, u'swimming_trunks', 0.1410971, u'maillot', 0.12478141, u'bikini', 0.11230975]

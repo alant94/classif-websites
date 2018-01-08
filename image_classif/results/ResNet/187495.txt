@@ -1,0 +1,5 @@
+[u'racer', 0.31078649, u'snowplow', 0.23616841, u'fire_engine', 0.22413351, u'sports_car', 0.065566219, u'trailer_truck', 0.05387336]
+[u'racer', 0.91379768, u'sports_car', 0.082053609, u'car_wheel', 0.0033811515, u'go-kart', 0.00025769352, u'tow_truck', 0.00014905015]
+[u'racer', 0.96768349, u'car_wheel', 0.014121613, u'sports_car', 0.0063143475, u'barbell', 0.0042434549, u'go-kart', 0.0019817825]
+[u'racer', 0.89871013, u'sports_car', 0.026795009, u'web_site', 0.0087673273, u'trailer_truck', 0.0070931488, u'space_bar', 0.0048654261]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

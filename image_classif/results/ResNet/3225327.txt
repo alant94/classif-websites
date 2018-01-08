@@ -1,0 +1,1 @@
+[u'red_wine', 0.19004247, u'bib', 0.078959078, u'magnetic_compass', 0.070395358, u'coffee_mug', 0.059516866, u'oscilloscope', 0.048462465]

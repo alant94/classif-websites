@@ -1,0 +1,4 @@
+[u'trilobite', 0.9005785, u'mask', 0.014499039, u'chiton', 0.013845284, u'cuirass', 0.011915705, u'snail', 0.010866572]
+[u'hamper', 0.45459244, u'corn', 0.20426813, u'bucket', 0.070522323, u'shopping_basket', 0.049450569, u'mixing_bowl', 0.046061493]
+[u'whippet', 0.10579073, u'ibex', 0.10435606, u'Great_Dane', 0.047850464, u'Saluki', 0.045075927, u'sorrel', 0.04096305]
+[u'muzzle', 0.31934702, u'cowboy_hat', 0.14506038, u'banjo', 0.036430199, u'chain', 0.032985076, u'sax', 0.029744975]

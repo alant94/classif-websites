@@ -1,0 +1,3 @@
+[u'bakery', 0.39786914, u'cinema', 0.15550452, u'street_sign', 0.044018555, u'tobacco_shop', 0.035490599, u'scoreboard', 0.027291398]
+[u'web_site', 0.99995995, u'oscilloscope', 8.5636102e-06, u'menu', 6.6405892e-06, u'book_jacket', 2.8820641e-06, u'rule', 1.95845e-06]
+[u'sax', 0.84958917, u'trombone', 0.071562327, u'cornet', 0.069921926, u'French_horn', 0.0045744949, u'oboe', 0.0038707079]

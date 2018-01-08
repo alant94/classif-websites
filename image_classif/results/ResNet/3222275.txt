@@ -1,0 +1,6 @@
+[u'restaurant', 0.39636648, u'notebook', 0.13852841, u'laptop', 0.053263661, u'dining_table', 0.053175103, u'desk', 0.041417506]
+[u'web_site', 0.15153775, u'crossword_puzzle', 0.12888928, u'comic_book', 0.088241138, u'lighter', 0.027912077, u'stopwatch', 0.025776738]
+[u'laptop', 0.52296275, u'notebook', 0.32184035, u'lab_coat', 0.025613472, u'oboe', 0.022660403, u'ocarina', 0.010305965]
+[u'golf_ball', 0.13814841, u'soccer_ball', 0.07131438, u'whistle', 0.056543615, u'rugby_ball', 0.051701613, u'croquet_ball', 0.036156639]
+[u'altar', 0.30063674, u'vestment', 0.19233504, u'jean', 0.041321691, u'organ', 0.031471878, u'kimono', 0.028800527]
+[u'lab_coat', 0.64600402, u'vestment', 0.083760366, u'marimba', 0.053401463, u'pajama', 0.035844661, u'carton', 0.020382149]

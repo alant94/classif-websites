@@ -1,0 +1,6 @@
+[u'spider_web', 0.11410332, u'ear', 0.065801308, u'picket_fence', 0.0561122, u'fountain', 0.051728442, u'worm_fence', 0.050522126]
+[u'honeycomb', 0.4149169, u'broccoli', 0.1688778, u'coil', 0.039762832, u'ear', 0.029588973, u'cauliflower', 0.027710287]
+[u'red_wine', 0.95685029, u'goblet', 0.015314619, u'wine_bottle', 0.015091862, u'restaurant', 0.0040813736, u'espresso', 0.0017777989]
+[u'barrel', 0.99996448, u'drum', 1.5408981e-05, u'mailbox', 1.2096598e-05, u'ashcan', 2.2265169e-06, u'crate', 1.070869e-06]
+[u'lotion', 0.41849196, u'hair_spray', 0.26126593, u'water_bottle', 0.092941336, u'cocktail_shaker', 0.078741647, u'pill_bottle', 0.053123705]
+[u'wine_bottle', 0.95846277, u'red_wine', 0.039597776, u'perfume', 0.00070201687, u'lotion', 0.00054799818, u'hair_spray', 0.00035022982]

@@ -1,0 +1,3 @@
+[u'grand_piano', 0.95354986, u'upright', 0.031064007, u'web_site', 0.0036052994, u'guillotine', 0.0012255246, u'harp', 0.000693888]
+[u'chime', 0.62874222, u'ballpoint', 0.046027955, u'rubber_eraser', 0.044608206, u'screwdriver', 0.032807194, u'nail', 0.026238749]
+[u'book_jacket', 0.20874959, u'abaya', 0.12415949, u'gondola', 0.10238544, u'altar', 0.10228375, u'theater_curtain', 0.093599834]

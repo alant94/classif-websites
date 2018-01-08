@@ -1,0 +1,5 @@
+[u'red_wine', 0.37328765, u'wine_bottle', 0.22018595, u'vacuum', 0.0881503, u'lipstick', 0.077672645, u'whiskey_jug', 0.02667498]
+[u'nail', 0.085175566, u'drum', 0.053514026, u'screw', 0.044265792, u'hook', 0.040489886, u'chain_saw', 0.038545515]
+[u'menu', 0.38737154, u'comic_book', 0.264002, u'book_jacket', 0.1111199, u'web_site', 0.052706067, u'corn', 0.042927872]
+[u'paintbrush', 0.097963095, u'bassoon', 0.091639094, u'reel', 0.090216555, u'croquet_ball', 0.075768225, u'ballpoint', 0.063268282]
+[u'punching_bag', 0.27406666, u'candle', 0.065909997, u'lipstick', 0.059931546, u'wine_bottle', 0.056409527, u'fountain_pen', 0.04508039]

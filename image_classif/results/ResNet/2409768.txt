@@ -1,0 +1,6 @@
+[u'hotdog', 0.30336255, u'cockroach', 0.090470381, u'packet', 0.042100351, u'strawberry', 0.041687436, u'plate', 0.031927086]
+[u'shopping_basket', 0.28150323, u'wine_bottle', 0.12305063, u'beer_bottle', 0.09105517, u'hamper', 0.064435162, u'confectionery', 0.047635004]
+[u'ice_cream', 0.49104682, u'ice_lolly', 0.17125273, u'chocolate_sauce', 0.070465326, u'dough', 0.066072688, u'plate', 0.020758618]
+[u'coffee_mug', 0.17908607, u'envelope', 0.10414904, u'menu', 0.095847584, u'web_site', 0.089986742, u'toilet_seat', 0.050787382]
+[u'frying_pan', 0.20727171, u'plate', 0.086452909, u'spatula', 0.083397135, u'wok', 0.056645941, u'wooden_spoon', 0.045886386]
+[u'hamper', 0.37599638, u'lotion', 0.14332031, u'grocery_store', 0.095489472, u'shopping_basket', 0.093168728, u'eggnog', 0.085953765]

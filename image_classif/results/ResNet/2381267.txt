@@ -1,0 +1,8 @@
+[u'barrel', 0.88211757, u'oxygen_mask', 0.018911684, u'plate_rack', 0.016903391, u'dishwasher', 0.011043276, u'butcher_shop', 0.010370498]
+[u'groenendael', 0.61190891, u'schipperke', 0.16082732, u'Labrador_retriever', 0.047943268, u'kelpie', 0.036106534, u'malamute', 0.030915439]
+[u'lotion', 0.32118645, u'perfume', 0.30543599, u'pill_bottle', 0.13588507, u'hair_spray', 0.095777199, u'whiskey_jug', 0.023097983]
+[u'wine_bottle', 0.87920231, u'beer_bottle', 0.077184051, u'red_wine', 0.032289233, u'pop_bottle', 0.0058859331, u'corkscrew', 0.0017077696]
+[u'shopping_cart', 0.31068197, u'rapeseed', 0.071584843, u'harvester', 0.03037139, u'jigsaw_puzzle', 0.02781754, u'stretcher', 0.02132019]
+[u'whippet', 0.31063703, u'Saluki', 0.14573893, u'borzoi', 0.12583013, u'flat-coated_retriever', 0.1238094, u'Border_collie', 0.099562801]
+[u'wine_bottle', 0.88800347, u'red_wine', 0.10459501, u'beer_bottle', 0.0045878114, u'corkscrew', 0.0021074717, u'whiskey_jug', 0.00021912639]
+[u'red_wine', 0.50176269, u'wine_bottle', 0.41366988, u'pill_bottle', 0.045115121, u'corkscrew', 0.008971259, u'beer_bottle', 0.0070599047]

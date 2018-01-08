@@ -1,0 +1,5 @@
+[u'guillotine', 0.16990183, u'paddlewheel', 0.082192034, u'four-poster', 0.034724403, u'paddle', 0.021025153, u'swing', 0.01995806]
+[u'crossword_puzzle', 0.23867533, u'shower_curtain', 0.10291892, u'digital_clock', 0.090422928, u'binder', 0.051152308, u'wall_clock', 0.050900918]
+[u'swab', 0.088536277, u'unicycle', 0.074733414, u'hook', 0.040543869, u'ski', 0.026427334, u'stethoscope', 0.025927756]
+[u'albatross', 0.55893379, u'sulphur-crested_cockatoo', 0.14059724, u'kite', 0.08973559, u'ptarmigan', 0.06808655, u'spoonbill', 0.045183297]
+[u'beacon', 0.19327183, u'flagpole', 0.12857011, u'pole', 0.099052988, u'missile', 0.064926349, u'obelisk', 0.033166539]

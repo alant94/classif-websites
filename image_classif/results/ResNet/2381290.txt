@@ -1,0 +1,1 @@
+[u'file', 0.43384463, u'home_theater', 0.19676955, u'dishwasher', 0.038817972, u'web_site', 0.036480825, u'monitor', 0.0235215]

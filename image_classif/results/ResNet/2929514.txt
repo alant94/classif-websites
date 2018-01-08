@@ -1,0 +1,3 @@
+[u'candle', 0.28174877, u'web_site', 0.17811085, u'altar', 0.1516359, u'comic_book', 0.12727748, u'menu', 0.02894959]
+[u'goblet', 0.26876825, u'beer_glass', 0.24985935, u'red_wine', 0.17167768, u'perfume', 0.16611476, u'beaker', 0.044645187]
+[u'parallel_bars', 0.08656247, u'crutch', 0.060009066, u'fur_coat', 0.05843357, u'balance_beam', 0.048440497, u'dumbbell', 0.046652772]

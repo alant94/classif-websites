@@ -1,0 +1,3 @@
+[u'abaya', 0.3088263, u'bearskin', 0.12754025, u'academic_gown', 0.078070596, u'neck_brace', 0.029406605, u'plunger', 0.025818259]
+[u'Airedale', 0.9021427, u'Lakeland_terrier', 0.038891379, u'wire-haired_fox_terrier', 0.015927128, u'toy_poodle', 0.01583799, u'Irish_terrier', 0.013342318]
+[u'Saint_Bernard', 0.9916358, u'boxer', 0.0077132024, u'bull_mastiff', 0.00046269153, u'Blenheim_spaniel', 2.1760796e-05, u'French_bulldog', 1.8551449e-05]

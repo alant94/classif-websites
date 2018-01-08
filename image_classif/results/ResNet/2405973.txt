@@ -1,0 +1,6 @@
+[u'safe', 0.30642915, u'modem', 0.17778566, u'projector', 0.12061539, u'hard_disc', 0.066080749, u'radio', 0.053831942]
+[u'nematode', 0.15523243, u'dishwasher', 0.087953888, u'envelope', 0.019927885, u'web_site', 0.019483864, u'matchstick', 0.013949577]
+[u'traffic_light', 0.70012712, u'ski', 0.081683666, u'chime', 0.012681437, u'loudspeaker', 0.010802998, u'tripod', 0.010029078]
+[u'microphone', 0.99121571, u'radio', 0.0074153072, u'web_site', 0.00044462321, u'hand_blower', 0.00019306121, u'oscilloscope', 7.8251222e-05]
+[u'comic_book', 0.15883839, u'bow', 0.093027629, u'thimble', 0.07067962, u'microphone', 0.068756402, u'balloon', 0.048381265]
+[u'barbershop', 0.50338185, u'bakery', 0.052980971, u'cash_machine', 0.048573304, u'comic_book', 0.036347106, u'book_jacket', 0.025492687]

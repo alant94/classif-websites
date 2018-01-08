@@ -1,0 +1,2 @@
+[u'medicine_chest', 0.57014692, u'window_screen', 0.23044938, u'washbasin', 0.044799406, u'window_shade', 0.039915852, u'fire_screen', 0.026344324]
+[u'red_wine', 0.85805136, u'wine_bottle', 0.13894959, u'beer_bottle', 0.0015786682, u'corkscrew', 0.00061473786, u'hamper', 0.00021612486]

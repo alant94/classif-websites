@@ -1,0 +1,1 @@
+[u'tray', 0.47517267, u'web_site', 0.17970553, u'whistle', 0.038482197, u'wall_clock', 0.034918383, u'television', 0.023019861]

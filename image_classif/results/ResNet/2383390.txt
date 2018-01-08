@@ -1,0 +1,2 @@
+[u'barrow', 0.096917212, u'croquet_ball', 0.096002504, u'buckeye', 0.033756014, u'lab_coat', 0.033546824, u'apiary', 0.029574474]
+[u'lab_coat', 0.15754995, u"potter's_wheel", 0.096580282, u'wine_bottle', 0.053824585, u'Windsor_tie', 0.047972389, u'marimba', 0.045435049]

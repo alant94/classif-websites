@@ -1,0 +1,7 @@
+[u'hook', 0.20699516, u'unicycle', 0.070545569, u'nail', 0.051341839, u'shovel', 0.036373485, u'hand_blower', 0.036205616]
+[u'cornet', 0.66321403, u'French_horn', 0.32126832, u'trombone', 0.011558475, u'sax', 0.0022858439, u'buckle', 0.0007404979]
+[u'cornet', 0.99990404, u'French_horn', 9.2298549e-05, u'trombone', 2.1150508e-06, u'oboe', 1.3998097e-06, u'sax', 7.1565779e-08]
+[u'cornet', 0.83330745, u'trombone', 0.12996083, u'French_horn', 0.035916563, u'pickelhaube', 0.00018064752, u'loupe', 0.00010940276]
+[u'cornet', 0.98904014, u'trombone', 0.0054985252, u'French_horn', 0.0054573379, u'oboe', 1.8219129e-06, u'sax', 1.3485892e-06]
+[u'cornet', 0.99888831, u'French_horn', 0.00110364, u'trombone', 7.9951642e-06, u'oboe', 8.7268639e-08, u'sax', 3.0573042e-09]
+[u'cornet', 0.99271339, u'trombone', 0.0053820484, u'French_horn', 0.0019036407, u'sax', 6.7796589e-07, u'buckle', 1.2072645e-07]

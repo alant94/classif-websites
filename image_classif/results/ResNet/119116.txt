@@ -1,0 +1,1 @@
+[u'slot', 0.81792134, u'cash_machine', 0.043669526, u'monitor', 0.020152999, u'loudspeaker', 0.019177053, u'library', 0.009400947]

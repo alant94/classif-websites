@@ -1,0 +1,6 @@
+[u'screen', 0.30948311, u'monitor', 0.27270043, u'television', 0.05629338, u'desktop_computer', 0.036545537, u'laptop', 0.024196809]
+[u'brown_bear', 0.63893199, u'ice_bear', 0.10442082, u'screen', 0.032819666, u'chow', 0.032442413, u'sloth_bear', 0.017715776]
+[u'bulletproof_vest', 0.36653268, u'barracouta', 0.065459736, u'ski', 0.05310462, u'assault_rifle', 0.050088041, u'binoculars', 0.03881079]
+[u'book_jacket', 0.16256283, u'screen', 0.15927885, u'packet', 0.068496913, u'monitor', 0.051124573, u'binder', 0.04570229]
+[u'white_wolf', 0.45034724, u'timber_wolf', 0.33978695, u'book_jacket', 0.0585564, u'coyote', 0.029186301, u'web_site', 0.0064750165]
+[u'bighorn', 0.15820651, u'web_site', 0.093031332, u'screen', 0.079757541, u'monitor', 0.066899598, u'ram', 0.044752665]

@@ -1,0 +1,8 @@
+[u'digital_clock', 0.39624682, u'triumphal_arch', 0.24188173, u'stopwatch', 0.098464273, u'analog_clock', 0.05065259, u'traffic_light', 0.043332234]
+[u'pick', 0.53172725, u'shield', 0.19451898, u'chambered_nautilus', 0.070886344, u'nematode', 0.02271202, u'drum', 0.014560554]
+[u'pick', 0.41608673, u'shield', 0.32899949, u'ping-pong_ball', 0.02629902, u'puck', 0.01530934, u'football_helmet', 0.015091293]
+[u'tennis_ball', 0.62138575, u'shield', 0.075225085, u'chain_saw', 0.052721262, u'stopwatch', 0.022715703, u'iPod', 0.021919742]
+[u'tennis_ball', 0.30557507, u'pick', 0.2117442, u'ping-pong_ball', 0.11908954, u'face_powder', 0.054824539, u'chambered_nautilus', 0.043734659]
+[u'shield', 0.31610662, u'lighter', 0.043515924, u'analog_clock', 0.040998958, u'prayer_rug', 0.032247901, u'bolo_tie', 0.028856067]
+[u'chambered_nautilus', 0.41282505, u'pick', 0.29547259, u'conch', 0.025037803, u'nematode', 0.021498905, u'shield', 0.020547176]
+[u'laptop', 0.29646859, u'web_site', 0.10256111, u'envelope', 0.10241137, u'television', 0.09744624, u'pick', 0.059874166]

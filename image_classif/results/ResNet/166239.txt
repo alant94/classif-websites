@@ -1,0 +1,5 @@
+[u'remote_control', 0.13838232, u'digital_clock', 0.074232303, u'ocarina', 0.072760291, u'hook', 0.071544997, u'stopwatch', 0.066015646]
+[u'comic_book', 0.31157431, u'apron', 0.18901199, u'handkerchief', 0.16835879, u'backpack', 0.063067868, u'sandal', 0.021466153]
+[u'sunglasses', 0.32163081, u'wig', 0.13858521, u'sunglass', 0.13715705, u'book_jacket', 0.08529263, u'hair_spray', 0.061410721]
+[u'book_jacket', 0.16370001, u'hard_disc', 0.11017479, u'tripod', 0.09469226, u'beaker', 0.044260714, u'web_site', 0.041441388]
+[u'jigsaw_puzzle', 0.32905647, u'comic_book', 0.28606296, u'book_jacket', 0.21037994, u'tray', 0.010474565, u'tobacco_shop', 0.010156873]

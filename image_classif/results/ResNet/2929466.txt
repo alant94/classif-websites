@@ -1,0 +1,2 @@
+[u'wardrobe', 0.24516109, u'pedestal', 0.1193333, u'soap_dispenser', 0.050154045, u'sliding_door', 0.039181359, u'shower_curtain', 0.038820855]
+[u'wardrobe', 0.19191356, u'pedestal', 0.075567573, u'sliding_door', 0.054954849, u'shower_curtain', 0.045271501, u'ashcan', 0.045261826]

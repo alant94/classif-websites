@@ -1,0 +1,5 @@
+[u'hammerhead', 0.31762841, u'mask', 0.12054453, u'knot', 0.10167938, u'breastplate', 0.014461597, u'great_white_shark', 0.014420922]
+[u'mask', 0.78385079, u'bonnet', 0.027609669, u'cowboy_boot', 0.027090155, u'totem_pole', 0.011777613, u'sombrero', 0.011588237]
+[u'sombrero', 0.17465132, u'drum', 0.13660215, u'cowboy_hat', 0.12786736, u'hair_slide', 0.097108498, u'chocolate_sauce', 0.090045489]
+[u'pitcher', 0.13298529, u'goblet', 0.1027858, u'water_bottle', 0.079665676, u'table_lamp', 0.073093899, u'cup', 0.06548503]
+[u'Arabian_camel', 0.21700555, u'maillot', 0.11302745, u'bikini', 0.071422875, u'maillot', 0.0579703, u'cowboy_hat', 0.05724629]

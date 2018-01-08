@@ -1,0 +1,1 @@
+[u'espresso_maker', 0.90240008, u'frying_pan', 0.014974116, u'coffeepot', 0.011472965, u'barber_chair', 0.0063509606, u'crossword_puzzle', 0.004402264]

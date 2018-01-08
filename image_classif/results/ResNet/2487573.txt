@@ -1,0 +1,2 @@
+[u'kite', 0.50888491, u'frilled_lizard', 0.077493586, u'ruffed_grouse', 0.042105399, u'conch', 0.032272816, u'prairie_chicken', 0.024102777]
+[u'vulture', 0.49895689, u'kite', 0.29515904, u'bald_eagle', 0.086835131, u'great_grey_owl', 0.039487056, u'quail', 0.026744947]

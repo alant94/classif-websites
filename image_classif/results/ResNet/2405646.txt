@@ -1,0 +1,1 @@
+[u'web_site', 0.63455385, u'remote_control', 0.042403292, u'modem', 0.035547599, u'vending_machine', 0.020239552, u'stopwatch', 0.017228855]

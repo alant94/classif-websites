@@ -1,0 +1,2 @@
+[u'bookshop', 0.83959353, u'library', 0.044675969, u'bookcase', 0.037957788, u'confectionery', 0.015235643, u'tobacco_shop', 0.010905342]
+[u'restaurant', 0.97957361, u'dining_table', 0.0054224664, u'library', 0.0041840198, u'patio', 0.0028904269, u'bakery', 0.0019170917]

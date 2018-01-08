@@ -1,0 +1,5 @@
+[u'web_site', 0.19728896, u'safety_pin', 0.086394534, u'nipple', 0.08112973, u'digital_clock', 0.032621313, u'sunscreen', 0.03217921]
+[u'street_sign', 0.10820731, u'pill_bottle', 0.076547019, u'lighter', 0.069880843, u'soap_dispenser', 0.063812912, u'coffee_mug', 0.062449228]
+[u'cab', 0.5453226, u'bicycle-built-for-two', 0.12311833, u'web_site', 0.063115977, u'comic_book', 0.058590643, u'bobsled', 0.019702895]
+[u'unicycle', 0.19569203, u'bell_cote', 0.095325761, u'triumphal_arch', 0.061329819, u'streetcar', 0.058432993, u'dock', 0.050836109]
+[u'cab', 0.83043313, u'ambulance', 0.028126027, u'police_van', 0.012217442, u'forklift', 0.011141296, u'garbage_truck', 0.010186641]

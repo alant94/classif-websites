@@ -1,0 +1,2 @@
+[u'crossword_puzzle', 0.99209929, u'quilt', 0.0016117779, u'digital_clock', 0.00083906628, u'paper_towel', 0.00063034991, u'shower_curtain', 0.0005368503]
+[u'maillot', 0.50142694, u'maillot', 0.32947448, u'miniskirt', 0.10711669, u'overskirt', 0.021234637, u'velvet', 0.0076699252]

@@ -1,0 +1,8 @@
+[u'book_jacket', 0.22592872, u'comic_book', 0.22201298, u'barbershop', 0.10010317, u'scoreboard', 0.073656045, u'theater_curtain', 0.046615403]
+[u'web_site', 0.1174977, u'Band_Aid', 0.086935371, u'pill_bottle', 0.027857825, u'dishwasher', 0.021145592, u'sunscreen', 0.020766117]
+[u'picket_fence', 0.36050269, u'book_jacket', 0.10802432, u'comic_book', 0.051979586, u'church', 0.046535846, u'worm_fence', 0.03500035]
+[u'digital_clock', 0.40662071, u'analog_clock', 0.043045726, u'web_site', 0.02890932, u'street_sign', 0.02583437, u'laptop', 0.021411952]
+[u'web_site', 0.69229627, u'sunscreen', 0.10818848, u'lotion', 0.042686272, u'Band_Aid', 0.016372241, u'face_powder', 0.014436235]
+[u'electric_fan', 0.1773304, u'envelope', 0.08411999, u'binder', 0.065595329, u'analog_clock', 0.039008133, u'book_jacket', 0.035017971]
+[u'scoreboard', 0.32156757, u'digital_clock', 0.29722106, u'digital_watch', 0.086328968, u'web_site', 0.084722698, u'remote_control', 0.040750343]
+[u'hog', 0.6500057, u'water_buffalo', 0.17191634, u'ox', 0.099504277, u'bison', 0.036765568, u'wild_boar', 0.019163834]

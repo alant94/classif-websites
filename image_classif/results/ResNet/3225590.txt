@@ -1,0 +1,6 @@
+[u'refrigerator', 0.083513886, u'prayer_rug', 0.042504109, u'shower_curtain', 0.041110288, u'wall_clock', 0.038672134, u'hamper', 0.037932143]
+[u'bib', 0.31926438, u'apron', 0.27079108, u'broccoli', 0.095161557, u'shower_cap', 0.048570406, u'tray', 0.036522958]
+[u'wall_clock', 0.13908209, u'prayer_rug', 0.12964512, u'traffic_light', 0.12495282, u'street_sign', 0.066183329, u'tray', 0.049443416]
+[u'combination_lock', 0.32630002, u'safe', 0.15353963, u'envelope', 0.045095477, u'modem', 0.036784571, u'switch', 0.025507668]
+[u'digital_clock', 0.73149657, u'digital_watch', 0.10898638, u'scoreboard', 0.056547485, u'crossword_puzzle', 0.050368965, u'prayer_rug', 0.018079728]
+[u'loupe', 0.1410258, u'analog_clock', 0.14058575, u'hook', 0.069496572, u'television', 0.060544491, u'envelope', 0.04049769]

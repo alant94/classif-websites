@@ -1,0 +1,1 @@
+[u'cornet', 0.1569421, u'buckle', 0.15672372, u'perfume', 0.11717653, u'dial_telephone', 0.097291745, u'whistle', 0.066255525]

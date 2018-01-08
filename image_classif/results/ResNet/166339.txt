@@ -1,0 +1,1 @@
+[u'grocery_store', 0.75960636, u'whistle', 0.090136729, u'beer_bottle', 0.034920104, u'vending_machine', 0.024139779, u'perfume', 0.017253798]

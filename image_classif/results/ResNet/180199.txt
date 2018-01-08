@@ -1,0 +1,2 @@
+[u'web_site', 0.19471943, u'envelope', 0.11634511, u'hand_blower', 0.063299939, u'whistle', 0.048547056, u'carton', 0.032056462]
+[u'maillot', 0.46474457, u'bikini', 0.34350732, u'maillot', 0.08205279, u'brassiere', 0.051346101, u'sarong', 0.019285064]

@@ -1,0 +1,5 @@
+[u'web_site', 0.51277572, u'envelope', 0.037821576, u'dishwasher', 0.035157729, u'refrigerator', 0.019031707, u'can_opener', 0.01387049]
+[u'library', 0.12963711, u'moving_van', 0.12311649, u'cinema', 0.11462331, u'restaurant', 0.062680043, u'bookshop', 0.045294918]
+[u'web_site', 0.80797392, u'envelope', 0.1089136, u'rule', 0.0021811642, u'nematode', 0.0021680091, u'dishwasher', 0.0019884829]
+[u'Band_Aid', 0.23700604, u'book_jacket', 0.079677202, u'oil_filter', 0.034494437, u'comic_book', 0.03369417, u'web_site', 0.033549111]
+[u'web_site', 0.83450359, u'envelope', 0.018635463, u'bannister', 0.0073681138, u'nematode', 0.0051716641, u'matchstick', 0.0049568755]

@@ -1,0 +1,3 @@
+[u'milk_can', 0.51163709, u'bucket', 0.098622933, u'ashcan', 0.097960018, u'lighter', 0.06019507, u'coffeepot', 0.048813604]
+[u'book_jacket', 0.29819945, u'binder', 0.12230579, u'hair_spray', 0.090937927, u'sunscreen', 0.047471087, u'lotion', 0.046503726]
+[u'web_site', 0.0771235, u'safety_pin', 0.052780345, u'pickelhaube', 0.052275375, u'hair_slide', 0.031757277, u'plunger', 0.029833697]

@@ -1,0 +1,2 @@
+[u'web_site', 0.36370265, u'brass', 0.29158768, u'comic_book', 0.11711597, u'menu', 0.061370961, u'television', 0.027076704]
+[u'gong', 0.40011549, u'chime', 0.091561541, u'scale', 0.048041224, u'washer', 0.036772922, u'cassette_player', 0.030948175]

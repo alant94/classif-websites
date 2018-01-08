@@ -1,0 +1,6 @@
+[u'computer_keyboard', 0.8909502, u'space_bar', 0.034869734, u'typewriter_keyboard', 0.025276771, u'waffle_iron', 0.017349357, u'abacus', 0.010528428]
+[u'matchstick', 0.35886282, u'chime', 0.14512995, u'bannister', 0.073174261, u'plunger', 0.043838013, u'hammer', 0.035083421]
+[u'padlock', 0.53098726, u'bib', 0.10831246, u'jigsaw_puzzle', 0.089856289, u'shoe_shop', 0.081890643, u'clog', 0.052520636]
+[u'cash_machine', 0.309719, u'street_sign', 0.1469301, u'moving_van', 0.10417791, u'sunscreen', 0.052389316, u'packet', 0.048053592]
+[u'manhole_cover', 0.36753911, u'maze', 0.1896742, u'Band_Aid', 0.13383111, u'doormat', 0.079665311, u'golf_ball', 0.036105722]
+[u'jigsaw_puzzle', 0.41629747, u'chainlink_fence', 0.18872194, u'padlock', 0.1128476, u'umbrella', 0.099782556, u'envelope', 0.017159911]

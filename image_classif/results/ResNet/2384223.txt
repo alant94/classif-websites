@@ -1,0 +1,5 @@
+[u'garbage_truck', 0.35891199, u'crane', 0.17527308, u'moving_van', 0.10460345, u'horse_cart', 0.091450088, u'oxcart', 0.060471572]
+[u'red_wine', 0.99067265, u'wine_bottle', 0.0020854853, u'goblet', 0.0018490918, u'pick', 0.0013017508, u'balloon', 0.00066975132]
+[u'web_site', 0.18178195, u'envelope', 0.089307331, u'book_jacket', 0.052457128, u'lighter', 0.026711756, u'menu', 0.025633628]
+[u'wine_bottle', 0.81672931, u'beer_bottle', 0.034932926, u'worm_fence', 0.018763296, u'red_wine', 0.010077289, u'missile', 0.0064684059]
+[u'maze', 0.34471911, u'alp', 0.1944901, u'garbage_truck', 0.18632486, u'valley', 0.038627349, u'recreational_vehicle', 0.035784915]

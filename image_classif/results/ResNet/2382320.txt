@@ -1,0 +1,2 @@
+[u'web_site', 0.18039064, u'envelope', 0.062587842, u'jersey', 0.040798642, u'moving_van', 0.035904225, u'comic_book', 0.023414126]
+[u'beacon', 0.57155985, u'boathouse', 0.1273412, u'picket_fence', 0.072583884, u'flagpole', 0.04223473, u'maypole', 0.029130137]

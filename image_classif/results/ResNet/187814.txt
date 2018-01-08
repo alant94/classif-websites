@@ -1,0 +1,6 @@
+[u'tench', 0.092340641, u'beer_glass', 0.040559288, u'hen-of-the-woods', 0.030937703, u'terrapin', 0.019819504, u'lorikeet', 0.019064538]
+[u'comic_book', 0.55168605, u'book_jacket', 0.42632905, u'web_site', 0.0052058999, u'packet', 0.0012080036, u'corn', 0.0008864883]
+[u'Windsor_tie', 0.31847295, u'neck_brace', 0.24727853, u'suit', 0.083802126, u'bow_tie', 0.034674432, u'academic_gown', 0.018131027]
+[u'book_jacket', 0.4083958, u'comic_book', 0.22368555, u'web_site', 0.18996371, u'slot', 0.029270884, u'menu', 0.019047428]
+[u'comic_book', 0.28261524, u'book_jacket', 0.16527288, u'maillot', 0.026897164, u'maillot', 0.024309285, u'jersey', 0.021274393]
+[u'book_jacket', 0.053190287, u'safety_pin', 0.035544802, u'hook', 0.027636791, u'menu', 0.026794478, u'paper_towel', 0.024422899]

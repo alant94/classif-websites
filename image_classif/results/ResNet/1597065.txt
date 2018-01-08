@@ -1,0 +1,5 @@
+[u'shoe_shop', 0.10111653, u'stretcher', 0.091133587, u'grocery_store', 0.052037176, u'bookshop', 0.043935314, u'plunger', 0.041764744]
+[u'diaper', 0.057202511, u'theater_curtain', 0.056226879, u'candle', 0.055723436, u'stage', 0.037058283, u'recreational_vehicle', 0.030310567]
+[u'hoopskirt', 0.78067404, u'mosquito_net', 0.02761689, u'groom', 0.024477407, u'gown', 0.022717858, u'studio_couch', 0.015169667]
+[u'vizsla', 0.29380915, u'Chesapeake_Bay_retriever', 0.26215822, u'Weimaraner', 0.13502562, u'Rhodesian_ridgeback', 0.051149312, u'sea_lion', 0.036581654]
+[u'night_snake', 0.64737082, u'sandal', 0.090256944, u'bikini', 0.034916691, u'hognose_snake', 0.030502984, u'king_snake', 0.012645728]

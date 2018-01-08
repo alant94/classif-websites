@@ -1,0 +1,4 @@
+[u'earthstar', 0.1123874, u'altar', 0.080739737, u'carousel', 0.070015267, u'throne', 0.063608252, u'pirate', 0.050088599]
+[u'wild_boar', 0.75473499, u'hog', 0.15257579, u'brown_bear', 0.060288202, u'American_black_bear', 0.015015266, u'tusker', 0.0091837002]
+[u'ram', 0.59526449, u'komondor', 0.30439052, u'llama', 0.043505006, u'kuvasz', 0.0089352531, u'Great_Pyrenees', 0.0084918505]
+[u'American_black_bear', 0.86662126, u'wild_boar', 0.02041105, u'hog', 0.0097609553, u'groenendael', 0.0080989022, u'oxcart', 0.0073864516]

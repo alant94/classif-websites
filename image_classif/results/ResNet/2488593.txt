@@ -1,0 +1,4 @@
+[u'hartebeest', 0.33785856, u'gazelle', 0.29015967, u'ibex', 0.19040065, u'impala', 0.053109314, u'bighorn', 0.041001163]
+[u'web_site', 0.23435417, u'comic_book', 0.17292523, u'book_jacket', 0.13424692, u'crossword_puzzle', 0.047862988, u'cornet', 0.016365347]
+[u'pedestal', 0.61845404, u'wardrobe', 0.19917795, u'sliding_door', 0.026176568, u'window_shade', 0.026143637, u'medicine_chest', 0.024465812]
+[u'swing', 0.17031786, u'rifle', 0.048906043, u'television', 0.042827666, u'hornbill', 0.034904685, u'book_jacket', 0.029468447]

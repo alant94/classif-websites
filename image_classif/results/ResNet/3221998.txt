@@ -1,0 +1,2 @@
+[u'stage', 0.1650693, u'parallel_bars', 0.13330165, u'shoe_shop', 0.095439896, u'ski', 0.076245308, u'prison', 0.073756844]
+[u'web_site', 0.7765342, u'envelope', 0.025040606, u'washer', 0.0091839731, u'nematode', 0.0080858553, u'dishwasher', 0.0059891823]

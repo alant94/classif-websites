@@ -1,0 +1,1 @@
+[u'loupe', 0.2283797, u'remote_control', 0.15990829, u'radio', 0.076949805, u'modem', 0.06648048, u'buckle', 0.058636926]

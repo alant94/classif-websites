@@ -1,0 +1,8 @@
+[u'web_site', 0.86350363, u'screen', 0.052670043, u'monitor', 0.039624646, u'notebook', 0.008523576, u'oscilloscope', 0.0059065865]
+[u'chime', 0.52285844, u'panpipe', 0.24931777, u'coil', 0.070022292, u'picket_fence', 0.051390983, u'worm_fence', 0.029873298]
+[u'binder', 0.092791833, u'web_site', 0.071012296, u'analog_clock', 0.070017971, u'lotion', 0.052177813, u'nail', 0.036773246]
+[u'web_site', 0.98099583, u'oscilloscope', 0.0051602288, u'screen', 0.0044685751, u'monitor', 0.0027056534, u'analog_clock', 0.00082664355]
+[u'nematode', 0.47823074, u'hook', 0.049508117, u'oxygen_mask', 0.044351351, u'knot', 0.042738028, u'whistle', 0.025836147]
+[u'web_site', 0.14147045, u'lighter', 0.11526001, u'envelope', 0.087361716, u'binder', 0.039991308, u'safety_pin', 0.02172986]
+[u'web_site', 0.9921664, u'oscilloscope', 0.0022526493, u'screen', 0.0013682254, u'monitor', 0.00052504463, u'rule', 0.0003918217]
+[u'picket_fence', 0.65692997, u'worm_fence', 0.16546141, u'chainlink_fence', 0.063197635, u'binder', 0.010596084, u'crib', 0.0085444814]

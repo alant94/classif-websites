@@ -1,0 +1,4 @@
+[u'web_site', 0.10133474, u'envelope', 0.065093935, u'dishwasher', 0.05336063, u'cleaver', 0.017620416, u'can_opener', 0.017480491]
+[u'fountain_pen', 0.82392257, u'thimble', 0.047335397, u'pencil_sharpener', 0.016925296, u'reflex_camera', 0.013769239, u'wine_bottle', 0.013737957]
+[u'church', 0.85680366, u'bell_cote', 0.13462384, u'castle', 0.00307274, u'monastery', 0.0010676907, u'vault', 0.00098540913]
+[u'web_site', 0.88263363, u'menu', 0.070376359, u'comic_book', 0.008029514, u'isopod', 0.0048918775, u'book_jacket', 0.0032503083]

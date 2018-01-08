@@ -1,0 +1,3 @@
+[u'parachute', 0.39015603, u'alp', 0.11265088, u'valley', 0.05491082, u'airship', 0.05266403, u'lakeside', 0.052049834]
+[u'bald_eagle', 0.98572761, u'kite', 0.006430231, u'black_stork', 0.005904106, u'pelican', 0.00067686412, u'vulture', 0.00059041649]
+[u'patio', 0.57611686, u'picket_fence', 0.098504372, u'rocking_chair', 0.049597334, u'sliding_door', 0.047474824, u'worm_fence', 0.032491565]

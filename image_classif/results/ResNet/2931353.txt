@@ -1,0 +1,2 @@
+[u'vending_machine', 0.16760321, u'electric_guitar', 0.068827495, u'tobacco_shop', 0.063952051, u'banjo', 0.047009986, u'abacus', 0.043692797]
+[u'web_site', 0.36101902, u'jersey', 0.11920878, u'doormat', 0.064956747, u'comic_book', 0.053886559, u'pick', 0.037790399]

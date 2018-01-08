@@ -1,0 +1,2 @@
+[u'umbrella', 0.14464039, u'flagpole', 0.12165546, u'pirate', 0.11815353, u'stupa', 0.076802805, u'mountain_tent', 0.047887262]
+[u'comic_book', 0.41601005, u'web_site', 0.21012571, u'book_jacket', 0.040175833, u'menu', 0.029398384, u'corn', 0.011234671]

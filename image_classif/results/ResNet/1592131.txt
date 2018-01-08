@@ -1,0 +1,8 @@
+[u'comic_book', 0.90025246, u'wall_clock', 0.037337136, u'book_jacket', 0.0091331555, u'cowboy_boot', 0.0051873382, u'stethoscope', 0.0021796895]
+[u'comic_book', 0.24352488, u'coffee_mug', 0.085582338, u'water_bottle', 0.081797384, u'vase', 0.053301446, u'coffeepot', 0.050811052]
+[u'web_site', 0.24539399, u'comic_book', 0.18949381, u'slot', 0.080144495, u'laptop', 0.075904042, u'pick', 0.020407047]
+[u'comic_book', 0.96317977, u'web_site', 0.023953762, u'book_jacket', 0.0078543117, u'slot', 0.00061610201, u'envelope', 0.00056637533]
+[u'stethoscope', 0.17725931, u'bolo_tie', 0.13833423, u'oxygen_mask', 0.073751375, u'nematode', 0.040342547, u'whistle', 0.039943352]
+[u'comic_book', 0.072331242, u'web_site', 0.062775113, u'face_powder', 0.055423498, u'toilet_seat', 0.052768111, u'book_jacket', 0.03695016]
+[u'rocking_chair', 0.24295856, u'table_lamp', 0.063054867, u'iron', 0.0466379, u'abaya', 0.035928216, u'maraca', 0.030521223]
+[u'comic_book', 0.97587842, u'book_jacket', 0.0068238415, u'hair_spray', 0.0067071649, u'packet', 0.00094545243, u'slot', 0.00085264386]

@@ -1,0 +1,1 @@
+[u'dishwasher', 0.10199752, u'projector', 0.072546162, u'microwave', 0.067248136, u'theater_curtain', 0.0619611, u'modem', 0.04084364]

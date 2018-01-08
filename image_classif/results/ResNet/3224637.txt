@@ -1,0 +1,5 @@
+[u'web_site', 0.60187238, u'menu', 0.025124589, u'crossword_puzzle', 0.017048651, u'envelope', 0.0097574294, u'rifle', 0.0070893248]
+[u'crossword_puzzle', 0.33303738, u'scoreboard', 0.2141245, u'web_site', 0.047492027, u'toaster', 0.043419175, u'file', 0.021972554]
+[u'web_site', 0.37219509, u'envelope', 0.16279782, u'dishwasher', 0.010659851, u'hook', 0.010253781, u'can_opener', 0.0093271276]
+[u'syringe', 0.45583388, u'screwdriver', 0.189661, u'oboe', 0.13425642, u'nail', 0.11749171, u'whistle', 0.06453561]
+[u'black_grouse', 0.13222881, u'book_jacket', 0.081603535, u'prairie_chicken', 0.079623535, u'fire_screen', 0.057698712, u'bearskin', 0.056736391]

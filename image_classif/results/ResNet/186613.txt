@@ -1,0 +1,1 @@
+[u'lab_coat', 0.50050616, u'jersey', 0.045603666, u'shower_curtain', 0.030409912, u'stage', 0.024164058, u'cellular_telephone', 0.021291004]

@@ -1,0 +1,4 @@
+[u'castle', 0.098772354, u'fountain', 0.082127638, u'valley', 0.068568923, u'book_jacket', 0.036261249, u'seashore', 0.031989489]
+[u'book_jacket', 0.32965687, u'comic_book', 0.28915039, u'tray', 0.057056073, u'jigsaw_puzzle', 0.055468656, u'castle', 0.02774458]
+[u'bakery', 0.35311291, u'throne', 0.10700651, u'comic_book', 0.088973656, u'confectionery', 0.085689902, u'altar', 0.06588947]
+[u'steel_drum', 0.26499414, u'panpipe', 0.12356252, u'tennis_ball', 0.08184848, u'banjo', 0.049159855, u'gong', 0.044254672]

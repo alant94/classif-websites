@@ -1,0 +1,4 @@
+[u'binder', 0.15249187, u'book_jacket', 0.097479396, u'ashcan', 0.053080119, u'perfume', 0.041288443, u'cash_machine', 0.038544513]
+[u'joystick', 0.34217197, u'slot', 0.079125732, u'tobacco_shop', 0.051500324, u'maraca', 0.037237931, u'drum', 0.017205421]
+[u'notebook', 0.31740779, u'desktop_computer', 0.15157451, u'laptop', 0.072088815, u'radio', 0.068173997, u'hand-held_computer', 0.055557955]
+[u'coffeepot', 0.5395059, u'saltshaker', 0.071253873, u'water_jug', 0.062800415, u'vase', 0.037561622, u'fountain', 0.034510713]

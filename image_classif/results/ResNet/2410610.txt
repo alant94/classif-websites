@@ -1,0 +1,3 @@
+[u'panpipe', 0.55969548, u'church', 0.13240488, u'bannister', 0.087033547, u'web_site', 0.031422116, u'comic_book', 0.027610695]
+[u'web_site', 0.82308984, u'Band_Aid', 0.044519033, u'packet', 0.028735809, u'book_jacket', 0.022599306, u'pill_bottle', 0.020000996]
+[u'packet', 0.44254255, u'web_site', 0.35725784, u'book_jacket', 0.075837076, u'menu', 0.029028585, u'comic_book', 0.015816055]

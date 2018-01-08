@@ -1,0 +1,8 @@
+[u'gas_pump', 0.045013167, u'drum', 0.03329996, u'lighter', 0.031595889, u'hard_disc', 0.029447755, u'power_drill', 0.026062122]
+[u'coil', 0.37170997, u'picket_fence', 0.23173888, u'bannister', 0.19475178, u'chime', 0.039786518, u'crib', 0.019054621]
+[u'oil_filter', 0.17642756, u'panpipe', 0.13321134, u'bannister', 0.1050275, u'scoreboard', 0.10102332, u'chime', 0.052147713]
+[u'street_sign', 0.16728863, u'book_jacket', 0.14049013, u'web_site', 0.10397306, u'carton', 0.060972899, u'oscilloscope', 0.039221399]
+[u'book_jacket', 0.91423303, u'comic_book', 0.052092146, u'corn', 0.0037158486, u'barn', 0.0035768603, u'web_site', 0.0034516943]
+[u'hair_slide', 0.14370468, u'ski', 0.11721052, u'bearskin', 0.1145742, u'cleaver', 0.10481043, u'web_site', 0.056061458]
+[u'book_jacket', 0.8681888, u'comic_book', 0.069032244, u'street_sign', 0.010795163, u'corn', 0.0057088197, u'rule', 0.0024539046]
+[u'screen', 0.18334396, u'jersey', 0.095978275, u'web_site', 0.055272333, u'sweatshirt', 0.045279719, u'book_jacket', 0.042262454]

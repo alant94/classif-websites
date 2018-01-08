@@ -1,0 +1,2 @@
+[u'tape_player', 0.29784015, u'digital_watch', 0.11694385, u'cassette_player', 0.098004863, u'typewriter_keyboard', 0.041723926, u'hand-held_computer', 0.041457977]
+[u'digital_clock', 0.35458064, u'digital_watch', 0.12788175, u'guillotine', 0.057905342, u'lighter', 0.046509616, u'traffic_light', 0.041342765]

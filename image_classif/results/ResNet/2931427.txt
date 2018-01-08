@@ -1,0 +1,4 @@
+[u'web_site', 0.28550929, u'nematode', 0.18721442, u'scorpion', 0.095606871, u'isopod', 0.033644311, u'tick', 0.026229406]
+[u'picket_fence', 0.14364354, u'boathouse', 0.090941228, u'restaurant', 0.085814543, u'matchstick', 0.040994193, u'church', 0.0396052]
+[u'tobacco_shop', 0.45646724, u'library', 0.22385921, u'bookshop', 0.1228818, u'gas_pump', 0.05506815, u'comic_book', 0.037551567]
+[u'trolleybus', 0.13494267, u'cinema', 0.12690383, u'traffic_light', 0.10080402, u'minibus', 0.084958628, u'water_tower', 0.04529658]

@@ -1,0 +1,7 @@
+[u'park_bench', 0.33837083, u'envelope', 0.15255655, u'web_site', 0.15068047, u'ashcan', 0.056194082, u'panpipe', 0.037200794]
+[u'tray', 0.063000217, u'wall_clock', 0.05710227, u'paintbrush', 0.050965395, u'lotion', 0.04443346, u'oxygen_mask', 0.038311396]
+[u'nipple', 0.15037791, u'lab_coat', 0.097251549, u'plunger', 0.067100242, u'oxygen_mask', 0.049278691, u'plastic_bag', 0.047608975]
+[u'vending_machine', 0.28828871, u'screen', 0.079921238, u'monitor', 0.073573194, u'scoreboard', 0.061501268, u'cash_machine', 0.047801998]
+[u'whistle', 0.20046358, u'hair_spray', 0.10731839, u'fountain', 0.095576964, u'lighter', 0.037613709, u"carpenter's_kit", 0.031707466]
+[u'tray', 0.27873853, u'crossword_puzzle', 0.18017647, u'pillow', 0.12811613, u'prayer_rug', 0.079677388, u'digital_clock', 0.021313606]
+[u'monitor', 0.19568758, u'sewing_machine', 0.18103425, u'crane', 0.068370916, u'torch', 0.048438706, u'container_ship', 0.046031646]

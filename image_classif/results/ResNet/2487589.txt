@@ -1,0 +1,3 @@
+[u'prairie_chicken', 0.45624161, u'Saint_Bernard', 0.097983651, u'black_grouse', 0.059655242, u'ruffed_grouse', 0.05754317, u'partridge', 0.046908677]
+[u'screwdriver', 0.46293545, u'power_drill', 0.1644306, u'modem', 0.049378037, u'binder', 0.031903911, u"carpenter's_kit", 0.029464409]
+[u'mobile_home', 0.48358384, u'kuvasz', 0.061734721, u'Great_Pyrenees', 0.045927733, u'patio', 0.038354412, u'geyser', 0.030810174]

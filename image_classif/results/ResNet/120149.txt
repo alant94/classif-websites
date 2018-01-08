@@ -1,0 +1,2 @@
+[u'laptop', 0.54820514, u'pool_table', 0.19835067, u'projector', 0.082672089, u'combination_lock', 0.01979728, u'wall_clock', 0.018751232]
+[u'comic_book', 0.80180991, u'electric_guitar', 0.063550904, u'drumstick', 0.012792232, u'web_site', 0.0067497105, u'sax', 0.0066761947]

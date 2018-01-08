@@ -1,0 +1,5 @@
+[u'teddy', 0.91179097, u'Lakeland_terrier', 0.020885816, u'toyshop', 0.016100461, u'wire-haired_fox_terrier', 0.010128421, u'plate', 0.0034146898]
+[u'whistle', 0.69698209, u'web_site', 0.047442574, u'analog_clock', 0.032195393, u'digital_watch', 0.028285198, u'digital_clock', 0.022621492]
+[u'teapot', 0.85547513, u'water_jug', 0.061722398, u'pitcher', 0.028523399, u'coffeepot', 0.011507317, u'teddy', 0.0062427237]
+[u'teddy', 0.62192643, u'wire-haired_fox_terrier', 0.10757485, u'Lakeland_terrier', 0.10413504, u'Bedlington_terrier', 0.032206997, u'soft-coated_wheaten_terrier', 0.026975295]
+[u'toyshop', 0.10259304, u'stethoscope', 0.062342096, u'wool', 0.054411795, u'teddy', 0.046808776, u'beaker', 0.03677965]

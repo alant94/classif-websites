@@ -1,0 +1,1 @@
+[u'web_site', 0.18652037, u'analog_clock', 0.17714298, u'digital_clock', 0.11223099, u'toaster', 0.095555089, u'bannister', 0.020676522]

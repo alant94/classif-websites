@@ -1,0 +1,4 @@
+[u'web_site', 0.71212953, u'vending_machine', 0.18034805, u'menu', 0.039890446, u'refrigerator', 0.0069603119, u'monitor', 0.0061936914]
+[u'loupe', 0.19720225, u'puck', 0.14171702, u'cassette', 0.12666486, u'cassette_player', 0.075896539, u'loudspeaker', 0.067326844]
+[u'knee_pad', 0.22441538, u'cuirass', 0.056330249, u'bulletproof_vest', 0.04449119, u'breastplate', 0.040030256, u'binoculars', 0.033147816]
+[u'electric_guitar', 0.59454316, u'stage', 0.28192455, u'acoustic_guitar', 0.054559361, u'panpipe', 0.022937063, u'sax', 0.012229368]

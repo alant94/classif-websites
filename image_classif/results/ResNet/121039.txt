@@ -1,0 +1,5 @@
+[u"jack-o'-lantern", 0.25793743, u'hook', 0.10314983, u'web_site', 0.048131507, u'padlock', 0.034956604, u'envelope', 0.029516501]
+[u'organ', 0.19904484, u'maze', 0.12084406, u'picket_fence', 0.1086634, u'theater_curtain', 0.057429314, u'altar', 0.056753613]
+[u'comic_book', 0.33438089, u'cuirass', 0.27902517, u'breastplate', 0.15421817, u'book_jacket', 0.029242966, u'shield', 0.015370222]
+[u'comic_book', 0.25551373, u'jersey', 0.24748547, u'book_jacket', 0.13423848, u'laptop', 0.017441588, u'sweatshirt', 0.016316753]
+[u'web_site', 0.15401317, u'television', 0.067085452, u'Polaroid_camera', 0.065316349, u'cellular_telephone', 0.058860671, u'lighter', 0.044681258]

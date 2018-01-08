@@ -1,0 +1,5 @@
+[u'web_site', 0.44682264, u'book_jacket', 0.16512412, u'packet', 0.058478948, u'comic_book', 0.052296754, u'scoreboard', 0.023928454]
+[u'jaguar', 0.84631914, u'cheetah', 0.11492198, u'leopard', 0.0085380329, u'tiger_cat', 0.0030283697, u'book_jacket', 0.0027636737]
+[u'book_jacket', 0.37407514, u'packet', 0.19313653, u'lighter', 0.17353062, u'web_site', 0.076747514, u'carton', 0.028940311]
+[u'packet', 0.42619154, u'book_jacket', 0.27709311, u'lighter', 0.056906011, u'carton', 0.039791334, u'web_site', 0.034281217]
+[u'envelope', 0.37008163, u'book_jacket', 0.18858689, u'binder', 0.088460743, u'packet', 0.037520383, u'cassette', 0.028132316]

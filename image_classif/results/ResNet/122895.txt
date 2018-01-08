@@ -1,0 +1,2 @@
+[u'digital_clock', 0.3781977, u'screen', 0.23919897, u'monitor', 0.095712855, u'television', 0.074604116, u'cash_machine', 0.026922682]
+[u'digital_clock', 0.38283792, u'envelope', 0.1282952, u'tray', 0.1095954, u'television', 0.057125181, u'crossword_puzzle', 0.035942025]

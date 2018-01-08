@@ -1,0 +1,2 @@
+[u'crate', 0.57417107, u'sliding_door', 0.090752408, u'menu', 0.021530028, u'sundial', 0.013898572, u'slide_rule', 0.011870597]
+[u'book_jacket', 0.076791033, u'sunscreen', 0.032549717, u'hair_spray', 0.028483793, u'street_sign', 0.026471652, u'tobacco_shop', 0.026054217]

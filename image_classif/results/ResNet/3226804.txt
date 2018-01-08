@@ -1,0 +1,6 @@
+[u'web_site', 0.060843542, u'airship', 0.051641971, u'beacon', 0.048078492, u'boathouse', 0.042515174, u'analog_clock', 0.036312651]
+[u'traffic_light', 0.47477856, u'street_sign', 0.20934002, u'digital_clock', 0.060338642, u'scoreboard', 0.053797022, u'ambulance', 0.026632231]
+[u'safety_pin', 0.32145718, u'trombone', 0.19819802, u'hook', 0.095466733, u'cornet', 0.090619378, u'lighter', 0.052714147]
+[u'web_site', 0.076997787, u'traffic_light', 0.06698551, u'street_sign', 0.045844898, u'analog_clock', 0.044002458, u'lighter', 0.026326964]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'digital_clock', 0.11432656, u'whistle', 0.10756659, u'quill', 0.044568338, u'paintbrush', 0.031594116, u'cleaver', 0.029935211]

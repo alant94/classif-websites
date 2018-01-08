@@ -1,0 +1,2 @@
+[u'shower_cap', 0.3153438, u'web_site', 0.10915964, u'jigsaw_puzzle', 0.046977237, u'hognose_snake', 0.034569573, u'book_jacket', 0.031077106]
+[u'coho', 0.55823278, u'horse_cart', 0.090179384, u'dalmatian', 0.028823752, u'pelican', 0.022250606, u'plastic_bag', 0.021492438]

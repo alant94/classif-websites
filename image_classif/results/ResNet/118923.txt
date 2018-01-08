@@ -1,0 +1,1 @@
+[u'shoe_shop', 0.31131801, u'restaurant', 0.076458484, u'toyshop', 0.072952807, u'gown', 0.036091004, u'candle', 0.032642059]

@@ -1,0 +1,2 @@
+[u'apron', 0.30665487, u'oboe', 0.049301479, u'tray', 0.043914933, u'flute', 0.029394876, u'academic_gown', 0.019984227]
+[u'alp', 0.63185596, u'cliff', 0.18782443, u'valley', 0.065334879, u'mountain_tent', 0.018796178, u'bighorn', 0.0097611537]

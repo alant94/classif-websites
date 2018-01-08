@@ -1,0 +1,6 @@
+[u'jigsaw_puzzle', 0.54557711, u'window_screen', 0.16967955, u'titi', 0.025624927, u'web_site', 0.018593844, u'worm_fence', 0.011077393]
+[u'church', 0.3476347, u'fountain', 0.12435133, u'analog_clock', 0.02886698, u'bannister', 0.028498512, u'umbrella', 0.02461114]
+[u'web_site', 0.67761439, u'television', 0.029560393, u'nematode', 0.008550304, u'digital_clock', 0.0084866779, u'bannister', 0.0080589112]
+[u'web_site', 0.99508661, u'menu', 0.0026275422, u'envelope', 0.0005319388, u'comic_book', 0.00024971136, u'printer', 6.2996296e-05]
+[u'vase', 0.52239436, u'pot', 0.25355059, u'spaghetti_squash', 0.071084969, u'pitcher', 0.025986046, u'strawberry', 0.019944476]
+[u'vase', 0.52239436, u'pot', 0.25355059, u'spaghetti_squash', 0.071084969, u'pitcher', 0.025986046, u'strawberry', 0.019944476]

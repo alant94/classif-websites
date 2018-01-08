@@ -1,0 +1,7 @@
+[u'golf_ball', 0.3908408, u'tennis_ball', 0.27184179, u'doormat', 0.20477022, u'velvet', 0.017010905, u'loudspeaker', 0.016488187]
+[u'web_site', 0.43687317, u'digital_clock', 0.085864455, u'screen', 0.068837605, u'jigsaw_puzzle', 0.068299107, u'envelope', 0.038232394]
+[u'doormat', 0.36392614, u'golf_ball', 0.34867808, u'tennis_ball', 0.15573889, u'binder', 0.022585711, u'velvet', 0.016701501]
+[u'kite', 0.93842781, u'prairie_chicken', 0.035038285, u'black_stork', 0.0082459264, u'albatross', 0.0061488738, u'goose', 0.0035491106]
+[u'digital_clock', 0.14863591, u'book_jacket', 0.093109608, u'scoreboard', 0.057152744, u'monitor', 0.04511648, u'window_screen', 0.04485416]
+[u'hamper', 0.28027847, u'handkerchief', 0.072329871, u'carton', 0.038377207, u'paper_towel', 0.033285208, u'shower_curtain', 0.028486032]
+[u'doormat', 0.41864797, u'tennis_ball', 0.11787637, u'loudspeaker', 0.10601333, u'golf_ball', 0.097254828, u'binder', 0.034908731]

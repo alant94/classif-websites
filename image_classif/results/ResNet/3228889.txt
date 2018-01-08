@@ -1,0 +1,1 @@
+[u'mobile_home', 0.43020329, u'church', 0.30447185, u'monastery', 0.046578545, u'flagpole', 0.021660436, u'picket_fence', 0.02058492]

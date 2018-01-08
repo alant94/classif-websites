@@ -1,0 +1,1 @@
+[u'black-footed_ferret', 0.29859698, u'Dandie_Dinmont', 0.12223931, u'toy_poodle', 0.082297072, u'Chihuahua', 0.049899992, u'Lakeland_terrier', 0.039157558]

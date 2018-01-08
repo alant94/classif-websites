@@ -1,0 +1,1 @@
+[u'digital_clock', 0.18968002, u'screen', 0.14091267, u'notebook', 0.11523826, u'iPod', 0.096558549, u'stopwatch', 0.065238282]

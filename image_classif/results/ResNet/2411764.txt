@@ -1,0 +1,6 @@
+[u'book_jacket', 0.54246056, u'comic_book', 0.074175589, u'web_site', 0.063029766, u'lighter', 0.014752315, u'envelope', 0.01100201]
+[u'shovel', 0.24841715, u'hook', 0.15572034, u'book_jacket', 0.068474725, u'cleaver', 0.066884898, u'comic_book', 0.038755596]
+[u'web_site', 0.35846472, u'orange', 0.20830645, u'menu', 0.040191941, u'confectionery', 0.036086641, u'comic_book', 0.034929555]
+[u'puck', 0.12049166, u'drum', 0.10478865, u'gong', 0.092847951, u'face_powder', 0.058218967, u'toilet_seat', 0.046483055]
+[u'comic_book', 0.57274324, u'book_jacket', 0.052983478, u'fire_screen', 0.041415576, u'shovel', 0.037066784, u'oscilloscope', 0.035714954]
+[u'swab', 0.33566859, u'marimba', 0.2374472, u'punching_bag', 0.032465231, u"potter's_wheel", 0.026079405, u'spatula', 0.025768923]

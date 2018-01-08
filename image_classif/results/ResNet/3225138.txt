@@ -1,0 +1,2 @@
+[u'oscilloscope', 0.08032991, u'screw', 0.077644758, u'web_site', 0.069637224, u'street_sign', 0.064187698, u'hook', 0.046867821]
+[u'street_sign', 0.27342078, u'gas_pump', 0.070897944, u'hook', 0.052194145, u'book_jacket', 0.050987113, u'tobacco_shop', 0.045762535]

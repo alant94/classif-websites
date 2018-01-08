@@ -1,0 +1,4 @@
+[u'seashore', 0.47830611, u'promontory', 0.30716839, u'beacon', 0.076576427, u'cliff', 0.016077518, u'web_site', 0.012508539]
+[u'custard_apple', 0.095912039, u'sulphur_butterfly', 0.067041382, u'daisy', 0.046641067, u'long-horned_beetle', 0.046146065, u'buckeye', 0.042755842]
+[u'goblet', 0.89191002, u'red_wine', 0.068486497, u'beer_glass', 0.027348958, u'wine_bottle', 0.0071571558, u'cocktail_shaker', 0.00089029182]
+[u'suspension_bridge', 0.12243211, u'viaduct', 0.11894552, u'picket_fence', 0.10555732, u'valley', 0.05972885, u'worm_fence', 0.053625267]

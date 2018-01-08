@@ -1,0 +1,1 @@
+[u'valley', 0.46819106, u'lakeside', 0.10269738, u'mountain_bike', 0.088806428, u'alp', 0.0559223, u'geyser', 0.03015174]

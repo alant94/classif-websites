@@ -1,0 +1,5 @@
+[u'lotion', 0.1127511, u'dough', 0.096764266, u'perfume', 0.057881985, u'conch', 0.03731801, u'swimming_trunks', 0.035694245]
+[u'gown', 0.37773952, u'bikini', 0.10698516, u'bath_towel', 0.095505595, u'maillot', 0.095232464, u'maillot', 0.088518225]
+[u'maillot', 0.37056112, u'brassiere', 0.25531471, u'swimming_trunks', 0.1359767, u'maillot', 0.081985004, u'bikini', 0.06699761]
+[u'oxygen_mask', 0.16879889, u'nipple', 0.11917978, u'remote_control', 0.096649669, u'barbershop', 0.038595196, u'cradle', 0.0311042]
+[u'bathtub', 0.33723721, u'tub', 0.30526203, u'shower_curtain', 0.043180499, u'washbasin', 0.024070244, u'syringe', 0.023685539]

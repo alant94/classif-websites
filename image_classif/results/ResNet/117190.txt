@@ -1,0 +1,3 @@
+[u'joystick', 0.16926147, u'envelope', 0.1483926, u'tray', 0.11562063, u'scale', 0.060529854, u'bib', 0.049060617]
+[u'paddlewheel', 0.16580364, u'bow', 0.15131676, u'reel', 0.14243935, u'scabbard', 0.10494708, u'nail', 0.057920489]
+[u'coral_reef', 0.24797373, u'jigsaw_puzzle', 0.21735182, u'handkerchief', 0.16594733, u'quilt', 0.10320022, u'prayer_rug', 0.061772179]

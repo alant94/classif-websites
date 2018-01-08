@@ -1,0 +1,1 @@
+[u'web_site', 0.14522493, u'candle', 0.060907152, u'book_jacket', 0.032370627, u'plunger', 0.030607482, u'oscilloscope', 0.026398288]

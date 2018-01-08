@@ -1,0 +1,3 @@
+[u'digital_clock', 0.24429536, u'street_sign', 0.078225374, u'web_site', 0.034868125, u'ski', 0.032190651, u'analog_clock', 0.030025208]
+[u'digital_clock', 0.19814803, u'street_sign', 0.10787478, u'web_site', 0.061628226, u'analog_clock', 0.027142862, u'book_jacket', 0.023659674]
+[u'Ibizan_hound', 0.52278954, u'English_foxhound', 0.27709672, u'Great_Dane', 0.0884967, u'Weimaraner', 0.021932293, u'vizsla', 0.015582284]

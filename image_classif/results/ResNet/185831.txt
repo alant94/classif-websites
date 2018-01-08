@@ -1,0 +1,1 @@
+[u'web_site', 0.08297164, u'power_drill', 0.0750596, u'hand_blower', 0.034362741, u'screwdriver', 0.019544255, u'whistle', 0.018486764]

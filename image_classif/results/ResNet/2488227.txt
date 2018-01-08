@@ -1,0 +1,2 @@
+[u'mobile_home', 0.40062785, u'recreational_vehicle', 0.15184265, u'jeep', 0.083644457, u'minivan', 0.072306283, u'tow_truck', 0.046587132]
+[u'web_site', 0.80358171, u'beacon', 0.021602133, u'mobile_home', 0.0097192498, u'beach_wagon', 0.0084758503, u'solar_dish', 0.0079238312]

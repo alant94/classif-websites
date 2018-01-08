@@ -1,0 +1,2 @@
+[u'Arabian_camel', 0.09758193, u'swing', 0.070475884, u'cowboy_hat', 0.064605877, u'web_site', 0.058710054, u'bloodhound', 0.048129059]
+[u'screwdriver', 0.52767384, u'rubber_eraser', 0.069588572, u'ballpoint', 0.066091552, u'chime', 0.036452506, u'hammer', 0.027666409]

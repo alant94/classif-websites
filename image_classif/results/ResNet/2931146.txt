@@ -1,0 +1,7 @@
+[u'nematode', 0.19126132, u'web_site', 0.17974074, u'hook', 0.090914942, u'stethoscope', 0.062026996, u'sea_snake', 0.050933555]
+[u'screw', 0.42986828, u'digital_clock', 0.29891562, u'oscilloscope', 0.064378701, u'nail', 0.037967209, u'analog_clock', 0.034577649]
+[u'street_sign', 0.33578777, u'web_site', 0.070330627, u'remote_control', 0.04450731, u'traffic_light', 0.036095336, u'envelope', 0.035289396]
+[u'street_sign', 0.13890076, u'web_site', 0.097571038, u'oil_filter', 0.057360202, u'digital_clock', 0.048156515, u'traffic_light', 0.046494432]
+[u'web_site', 0.65632933, u'envelope', 0.15877931, u'menu', 0.073689044, u'comic_book', 0.0058881445, u'jersey', 0.0049367663]
+[u'web_site', 0.31907514, u'comic_book', 0.089695901, u'jersey', 0.079864465, u'envelope', 0.064849243, u'book_jacket', 0.042562362]
+[u'web_site', 0.39557189, u'menu', 0.10477678, u'comic_book', 0.014652585, u'screw', 0.014633069, u'remote_control', 0.014567174]

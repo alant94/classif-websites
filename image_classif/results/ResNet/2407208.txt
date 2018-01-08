@@ -1,0 +1,3 @@
+[u'streetcar', 0.33048943, u'triumphal_arch', 0.063666664, u'prison', 0.046294551, u'sundial', 0.041403294, u'vault', 0.040668946]
+[u'plate', 0.4728806, u'consomme', 0.31406242, u'restaurant', 0.069672167, u'toilet_seat', 0.040770397, u'dining_table', 0.030752871]
+[u'potpie', 0.55632746, u'spaghetti_squash', 0.11535681, u'frying_pan', 0.058409553, u'consomme', 0.055280223, u'hot_pot', 0.050100997]

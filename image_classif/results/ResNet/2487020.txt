@@ -1,0 +1,5 @@
+[u'butcher_shop', 0.35871655, u'shoe_shop', 0.17935152, u'toyshop', 0.076297335, u'cowboy_boot', 0.063279927, u'tusker', 0.040755332]
+[u'web_site', 0.72442347, u'menu', 0.087547012, u'brass', 0.016285187, u'comic_book', 0.010378257, u'cornet', 0.0095927501]
+[u'digital_clock', 0.85101455, u'digital_watch', 0.062073223, u'scoreboard', 0.018591128, u'analog_clock', 0.0099077346, u'crossword_puzzle', 0.009672326]
+[u'gazelle', 0.66534662, u'hartebeest', 0.2359879, u'impala', 0.054467466, u'ibex', 0.0064843902, u'sorrel', 0.0056088185]
+[u'web_site', 0.3107582, u'screen', 0.13945271, u'prayer_rug', 0.075227089, u'medicine_chest', 0.052245714, u'binder', 0.046550896]

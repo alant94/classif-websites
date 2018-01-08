@@ -1,0 +1,8 @@
+[u'whiskey_jug', 0.39771682, u'vase', 0.17325751, u'beer_bottle', 0.12064357, u'chocolate_sauce', 0.094176382, u'milk_can', 0.067470953]
+[u'restaurant', 0.90654039, u'passenger_car', 0.044253886, u'library', 0.0098321382, u'barbershop', 0.0059979372, u'patio', 0.0055931187]
+[u'web_site', 0.39905444, u'envelope', 0.22091307, u'jersey', 0.066918105, u'puck', 0.032774571, u'pick', 0.022929944]
+[u'cup', 0.27076849, u'goblet', 0.19027303, u'beer_glass', 0.18682644, u'espresso', 0.12907797, u'coffee_mug', 0.076843306]
+[u'hook', 0.50504678, u'cleaver', 0.050432481, u'book_jacket', 0.042591117, u'web_site', 0.031084597, u'shovel', 0.024241457]
+[u'web_site', 0.14196837, u'envelope', 0.060616188, u'dishwasher', 0.026400335, u'cleaver', 0.016686328, u'can_opener', 0.015989479]
+[u'cup', 0.27834484, u'goblet', 0.22705172, u'beer_glass', 0.14133704, u'coffee_mug', 0.0806887, u'espresso', 0.07922817]
+[u'envelope', 0.24021269, u'refrigerator', 0.12525876, u'dishwasher', 0.1235949, u'switch', 0.029090196, u'book_jacket', 0.024875389]

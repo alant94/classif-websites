@@ -1,0 +1,2 @@
+[u'screwdriver', 0.23557606, u'drum', 0.16383383, u'electric_guitar', 0.11180427, u'corkscrew', 0.10569467, u'oboe', 0.10133875]
+[u'comic_book', 0.20231101, u'web_site', 0.11671949, u'whistle', 0.086081855, u'washer', 0.051703278, u'hair_spray', 0.05116865]

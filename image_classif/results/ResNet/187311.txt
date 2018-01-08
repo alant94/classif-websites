@@ -1,0 +1,6 @@
+[u'lighter', 0.20327547, u'shield', 0.11753692, u'folding_chair', 0.077154003, u'analog_clock', 0.049054042, u'digital_clock', 0.039499719]
+[u'refrigerator', 0.27174664, u'espresso_maker', 0.099797212, u'switch', 0.096473508, u'stove', 0.059236255, u'microwave', 0.057709191]
+[u'web_site', 0.28338274, u'apron', 0.17566694, u'notebook', 0.075630628, u'hoopskirt', 0.055998191, u'gown', 0.031542633]
+[u'street_sign', 0.47315699, u'tray', 0.39527714, u'traffic_light', 0.029077653, u'laptop', 0.014931381, u'folding_chair', 0.014786614]
+[u'web_site', 0.2480237, u'cassette_player', 0.14614627, u'hook', 0.064064011, u'envelope', 0.056810208, u'cassette', 0.046529688]
+[u'pajama', 0.17613754, u'wig', 0.1679327, u'gown', 0.13560764, u'limousine', 0.06642776, u'groom', 0.03797989]

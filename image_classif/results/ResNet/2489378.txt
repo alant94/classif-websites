@@ -1,0 +1,2 @@
+[u'bucket', 0.10213777, u'tennis_ball', 0.043698259, u'basketball', 0.033531021, u'plate_rack', 0.030600432, u'hook', 0.027067764]
+[u'dogsled', 0.21128249, u'Eskimo_dog', 0.14914556, u'bluetick', 0.11912373, u'English_setter', 0.056259815, u'EntleBucher', 0.043758273]

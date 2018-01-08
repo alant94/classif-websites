@@ -1,0 +1,4 @@
+[u'red_wine', 0.5261274, u'wine_bottle', 0.20528561, u'lotion', 0.070669636, u'beer_bottle', 0.052418042, u'toilet_tissue', 0.023895161]
+[u'book_jacket', 0.37493503, u'red_wine', 0.12334625, u'wallet', 0.089894168, u'lotion', 0.05503118, u'wine_bottle', 0.046704579]
+[u'medicine_chest', 0.30481648, u'binder', 0.033423055, u'web_site', 0.032291036, u'refrigerator', 0.030084407, u'wardrobe', 0.023407772]
+[u'red_wine', 0.6329605, u'wine_bottle', 0.34901205, u'beer_bottle', 0.0096577741, u'corkscrew', 0.0011466248, u'pill_bottle', 0.00064195122]
